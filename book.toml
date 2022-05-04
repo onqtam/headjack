@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "pubsub - the internet backbone"
+
+[build]
+build-dir = "docs"
+create-missing = false
