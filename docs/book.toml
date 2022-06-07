@@ -3,7 +3,7 @@ authors = ["onqtam"]
 language = "en"
 multilingual = false
 src = "."
-title = "pubsub - the internet backbone"
+title = "Headjack - the base layer of cyberspace"
 
 [build]
 build-dir = "docs"
