@@ -69,6 +69,36 @@ Wikipedia analog as an example
 Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
 
 
+
+
+## Content & interface architectures
+
+- store content off-chain ==> infinite horizontal scalability
+
+infinite amounts of content can be anchored & adressable
+
+think of it as a spine/backbone to which everything attaches to
+
+
+the stable URL of content is an advertisement of the interface by itself
+similar to twitter's client attribution
+
+
+
+social networks will become interfaces/views - different compositions of available services that someone pays to have them developed
+
+some level of centralization is required - both for UX and for the sophistication of services. The sheer scale of the public web is daunting.
+AWS-like stuff incoming
+
+different AWS-like services will index, process & filter data differently based on different moderation policies. But anyone could enter the business
+
+Social media will be broken by verticals and companies will compete to offer services
+
+
+
+
+
+
 alternative open source frontends:
 YouTube → Piped, Invidious, FreeTube, Yattee
 Twitter → Nitter

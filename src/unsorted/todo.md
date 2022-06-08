@@ -1,5 +1,27 @@
 
 
+
+TODO: interface or application as the term? or view?
+https://miro.medium.com/max/1400/0*6w3lPf5orl0ME-XL
+https://polynya.medium.com/the-web3-stack-how-web3-will-offer-superior-ux-than-web2-6b8c82709163
+
+Browsers: different views on content?
+
+TODO: browser in the driver/filesystem/OS analogy?
+
+TODO: message or content?
+
+TODO: too many links?
+
+TODO: too much buzzwords in introduction?
+
+- think of url/handle/nonce mappings
+
+
+
+
+
+
 - What if the interface web2 website is no longer around?
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
 - Topics such as $RUNE & hashtags - how do they get parsed?

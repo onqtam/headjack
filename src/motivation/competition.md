@@ -58,6 +58,53 @@ TODO: zion
 
 
 
+Most projects never expose front and center their data structures and a credible path to scale - the focus goes on everything else besides the data but in complex systems the data structure dictates what is possible
+
+
+
+
+
+
+
+
+## what this approach gets right
+
+- Integers are the most well known and easy to work with data type
+faster/easier indexing & queries than content addressing, hashes, keypairs & signatures
+
+Compatible with any DID - just a graph & Idx/keys/DIDs associations
+No problem linking/using multiple keys (also different signature algos)
+Just publish the pubkey & sign a message with the private keys
+
+
+separation of concerns
+separation of concerns - UNIX philosphy - solve 1 vertical well
+https://en.wikipedia.org/wiki/Separation_of_concerns
+
+Headjack does not assume that the economy built around it would be paid in its own native token - any type of micro payment or business model can be done using any other tech - the native token is strictly for paying for block space. - separation of concerns
+It makes no assumptions nor impose constraints for what would be built around it and how to make it self-sustaining
+
+
+main advantages for headjack
+- uniform addressability, deduplicating content, much more referencability
+- push vs pull for updates
+- separating views from infrastructure - infra can be distributed
+
+Contrast this to what the [other attempts](competition.md).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 == bluesky:
 TODO: re-read and take parts from this:

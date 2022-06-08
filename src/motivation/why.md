@@ -189,6 +189,67 @@ This is an explicit interest graph where each new connection is a conscious choi
 
 
 
+## Why (short)
+
+## Why monopolies are bad
+
+TODO: maybe in the why.md document and not in the main readme?
+
+Cold start problem
+
+0 accountability
+
+- bias
+- black box algos
+- no voice and exit
+- lack of innovation & composability
+- extremely high barrier to entry for startups
+
+The story of our times - fragmentation.
+Fragmentation aids polarization and radicalization
+Culture war
+
+Protocols, Not Platforms: A Technological Approach to Free Speech
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
+
+Content moderation is orthogonal to amplification through algos
+The most important is the architecture of virality
+The dynamics of interaction and amplification/recommendation
+
+
+Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation
+
+
+The people writing the algorithmic feeds are the most powerful in the world
+https://youtu.be/3qHkcs3kG44?t=3616
+
+
+
+Google's mission is to organize the world's information and make it universally accessible and useful.
+Headjack's mission is to end network effect monopolies & make identity & data interoperable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 just working on an open social graph that can scale to billions & outcompete a monopoly that stopped innovating after achieving PMF, closed its APIs & ossified - never living up to its full potential. Here we are at the 16th anniversary:
 https://twitter.com/jack/status/20
