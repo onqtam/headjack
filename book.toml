@@ -8,3 +8,7 @@ title = "Headjack - the base layer of cyberspace"
 [build]
 build-dir = "docs"
 create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/onqtam/headjack"
+git-repository-icon = "fa-github"
