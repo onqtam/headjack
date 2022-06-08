@@ -3,7 +3,7 @@
 - [Introduction](introduction.md)
     - [On-chain vs off-chain](introduction/on_off_chain.md)
     - [Core idea](introduction/core_idea.md)
-    - [Addressing](introduction/addressing.md)
+    - [Content addressing](introduction/addressing.md)
     - [Web-scale & UX](introduction/web_scale.md)
     - [The ambition](introduction/ambition.md)
 
@@ -16,17 +16,17 @@
 
 # Ecosystem
 <!-- - [Ecosystem]() -->
-- [Identity Managers](ecosystem/IDM.md)
-- [Messages](ecosystem/messages.md)
-- [Architecture](ecosystem/architecture.md)
+- [Identity managers](ecosystem/IDM.md)
+- [Message types](ecosystem/messages.md)
+- [Interface architectures](ecosystem/architecture.md)
 - [Moderation](ecosystem/moderation.md)
 
 # Implementation
 
 - [Blockchain](implementation/blockchain.md)
-- [Scaling](implementation/scaling.md)
+- [Scaling & throughput](implementation/scaling.md)
 - [Tokenomics](implementation/tokenomics.md)
-- [Handles](implementation/handles.md)
+- [Handles (names)](implementation/handles.md)
 - [Roadmap](implementation/roadmap.md)
 
 # Misc

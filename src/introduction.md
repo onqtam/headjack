@@ -4,6 +4,15 @@ Headjack is an [open state database](https://twitter.com/balajis/status/11230928
 
 Web3 is often associated with user ownership of networks/services/data, governance, NFTs & micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and [making it sovereign](https://twitter.com/balajis/status/1162401646258749441) - the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing interfaces & views that present & filter commonly addressable data in any way imaginable.
 
+The following chapters convey the bulk of the idea:
+- [On-chain vs off-chain](introduction/on_off_chain.md)
+- [Core idea](introduction/core_idea.md)
+- [Content addressing](introduction/addressing.md)
+- [Web-scale & UX](introduction/web_scale.md)
+- [The ambition](introduction/ambition.md)
+
 <div style="text-align: center;">
     <img src="logo.png">
 </div>
+
+Inspired by the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans in the Matrix.
