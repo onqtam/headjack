@@ -56,6 +56,9 @@ Similar to "project liberty" founded in 2020 (paper - Decentralized Social Netwo
 TODO: zion
 
 
+
+
+
 == bluesky:
 TODO: re-read and take parts from this:
 https://github.com/bluesky-social/adx/blob/main/architecture.md

@@ -1,1 +1,0 @@
-# Addressability: host/app vs data/name centric

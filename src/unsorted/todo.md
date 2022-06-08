@@ -117,6 +117,9 @@ https://blog.ceramic.network/capability-based-data-security-on-ceramic/
 https://en.wikipedia.org/wiki/Object-capability_model
 
 
+https://en.wikipedia.org/wiki/RDFa
+
+
 
 by addressing data and using different views to browse it we minimize the effect of phishing. but what about custom JS websites?
     messages that are viewable only through a specific view?

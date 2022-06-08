@@ -1,0 +1,532 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Competition - Headjack - the base layer of cyberspace</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../introduction/on_off_chain.html"><strong aria-hidden="true">1.1.</strong> On-chain vs off-chain</a></li><li class="chapter-item expanded "><a href="../introduction/core_idea.html"><strong aria-hidden="true">1.2.</strong> Core idea</a></li><li class="chapter-item expanded "><a href="../introduction/addressing.html"><strong aria-hidden="true">1.3.</strong> Addressing</a></li><li class="chapter-item expanded "><a href="../introduction/web_scale.html"><strong aria-hidden="true">1.4.</strong> Web-scale & UX</a></li><li class="chapter-item expanded "><a href="../introduction/ambition.html"><strong aria-hidden="true">1.5.</strong> The ambition</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">Motivation</li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.</strong> Why</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.</strong> Case study</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">4.</strong> Possibilities</div></li><li class="chapter-item expanded "><a href="../motivation/competition.html" class="active"><strong aria-hidden="true">5.</strong> Competition</a></li><li class="chapter-item expanded affix "><li class="part-title">Ecosystem</li><li class="chapter-item expanded "><div><strong aria-hidden="true">6.</strong> Identity Managers</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">7.</strong> Messages</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">8.</strong> Architecture</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">9.</strong> Moderation</div></li><li class="chapter-item expanded affix "><li class="part-title">Implementation</li><li class="chapter-item expanded "><a href="../implementation/blockchain.html"><strong aria-hidden="true">10.</strong> Blockchain</a></li><li class="chapter-item expanded "><a href="../implementation/scaling.html"><strong aria-hidden="true">11.</strong> Scaling</a></li><li class="chapter-item expanded "><a href="../implementation/tokenomics.html"><strong aria-hidden="true">12.</strong> Tokenomics</a></li><li class="chapter-item expanded "><a href="../implementation/roadmap.html"><strong aria-hidden="true">13.</strong> Roadmap</a></li><li class="chapter-item expanded affix "><li class="part-title">Misc</li><li class="chapter-item expanded "><a href="../FAQ.html"><strong aria-hidden="true">14.</strong> FAQ</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Headjack - the base layer of cyberspace</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/onqtam/headjack" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2 id="what-other-attempts-are-missingdoing-wrong"><a class="header" href="#what-other-attempts-are-missingdoing-wrong">What other attempts are missing/doing wrong</a></h2>
+<ul>
+<li>
+<p>too much financialization - profiles &amp; actions as NFTs, general-purpose EVM use</p>
+</li>
+<li>
+<p>no credible path to scale</p>
+</li>
+<li>
+<p>solving just the graph and not content addressability</p>
+</li>
+<li>
+<p>fragmentation</p>
+</li>
+<li>
+<p>your handle does not need to be an NFT for it to be resellable</p>
+</li>
+<li>
+<p>None of the current attempts can provide a path to 100M or 1+B users.</p>
+</li>
+</ul>
+<p>you don't start from NFT standards for profiles - you start from the data and work up to 1B scale.</p>
+<p>They try to do too much and are overengineered &amp; complicated
+Too much theory &amp; idealism - solving imaginary problems
+Even distributed systems professionals have a hard time figuring out how they work &amp; how much they can scale
+Or the limitations are obvious (non-specialized chains)
+Why build on something that soon may not be around?
+Users shouldn't need a token or a wallet to benefit from an open social graph
+Linking financial addresses should not be on-by-default
+Competing standards &amp; lack of cohesion &amp; direction
+No economic incentive - no bootstrapping flywheel</p>
+<p>Most crypto projects are vague around their scalability &amp; data structure - hiding something?
+&quot;follow the data&quot;
+Clarity is king.
+Headjack is very upfront with its data scalability &amp; structure because that is the crux of it.</p>
+<h2 id="specifics"><a class="header" href="#specifics">Specifics:</a></h2>
+<p>Други проекти които съм прегледал:</p>
+<ul>
+<li>DeSo
+https://www.openprosper.com/stats/deso-dashboard</li>
+<li>CyberConnect on ceramic</li>
+<li>farcaster.xyz - може би най-интересният опит който чак сега излиза от мазето, стартиран от едни бивши Coinbase executives</li>
+<li>minds.com</li>
+<li>project liberty</li>
+<li>bluesky</li>
+<li>lens.dev</li>
+</ul>
+<p>Similar to &quot;project liberty&quot; founded in 2020 (paper - Decentralized Social Networking Protocol)</p>
+<p>TODO: zion</p>
+<p>== bluesky:
+TODO: re-read and take parts from this:
+https://github.com/bluesky-social/adx/blob/main/architecture.md</p>
+<ul>
+<li>
+<p>email as username - what about spam because email is public?
+https://webfinger.net/
+or not really an email, although looks like it</p>
+</li>
+<li>
+<p>relies on DNS for the part after the @ - centralization point</p>
+</li>
+<li>
+<p>DID Consortium - centralization
+instead of a consortium &amp; a transparency log this should be a self-supporting blockchain network.</p>
+</li>
+<li>
+<p>DID may change - stability is not 100% guaranteed - may break links between users in the graph</p>
+</li>
+<li>
+<p>more complicated than my solution in terms of standards, addressing, processes, DID management, etc.</p>
+</li>
+<li>
+<p>push vs pull for content?</p>
+</li>
+<li>
+<p>users can lose their social graph and/or be kicked off entirely</p>
+</li>
+<li>
+<p>tweet with the ecosystem overview: https://twitter.com/bluesky/status/1352302821140549632</p>
+</li>
+</ul>
+<p>https://www.farcaster.xyz/</p>
+<ul>
+<li>
+<p>https://www.minds.com/
+problems: token-oriented, opinionated, ethereum-based, clusterfuck of financial incentives around the $MINDS token</p>
+</li>
+<li>
+<p>cyberconnect
+https://docs.cyberconnect.me/docs/tech_overview
+problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts &amp; linking them
+https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
+My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?
+Also how big do you see the graph getting? My napkin math for Twitter's 400M users and 700 average connections shows that if using simple 4 byte integers as IDs (no pubkeys/signatures/DIDs) would require 1.1TB of data for the most compact version of the graph (each ID would have an array of IDs that it follows) being able to answer queries like who does X follow and for queries like who follows X the data would need to be 2x bigger (another set of arrays). In reality it would be much more because of other metadata, keys, signatures, bigger integers (to support more than 4 billion indexes), database overhead, etc. Thoughts? </p>
+</li>
+</ul>
+<p>Ceramic has been a source of inspiration but it lacks </p>
+<p>no more fragmentation &amp; problems with discovery
+https://github.com/mastodon/mastodon/issues/9529
+&quot;consistency is incredibly important for creating a compelling user experience&quot;
+ALSO on the fracturing of federated services/protocols and stalling of innovation
+https://signal.org/blog/the-ecosystem-is-moving/
+also on this topic
+https://moxie.org/2022/01/07/web3-first-impressions.html</p>
+<p>A lot of the current winners/contenders in the web3 space are the ones that rushed ahead with incomplete technology to grab as much market share as possible.</p>
+<p>https://violet.co/
+Violet Protocol
+https://twitter.com/violetprotocol/status/1426183676686176264</p>
+<p>TWITTER ECOSYSTEM REVIEW
+https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20
+https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53
+&quot;However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start.&quot;
+https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970</p>
+<p>== == == == == == == == == == == == == == == == == == == == == == == == == == == == 
+== FARCASTER:
+== == == == == == == == == == == == == == == == == == == == == == == == == == == == </p>
+<p>biggest difference with farcaster is the push vs pull model and the use of delegated interfaces that batch user content</p>
+<p>The network effect is not related to data fetching and the implementation of that but of stable data addressing and user connections. Farcaster is implementing the wrong thing</p>
+<p>You might need a specialized blockchain in order to compete.</p>
+<p>My ultimate goal is to build on top of an open social graph and create new interfaces for displaying, sharing &amp; interacting with data. I can provide a full list of everything I'd want from the web.</p>
+<p>Design for 1B ppl from day 1</p>
+<ul>
+<li>
+<p>Why Ethereum?</p>
+<ul>
+<li>what would the setup look like for 1B ppl? Is building your own chain an option at some point?</li>
+<li>because of the ability to sell the handle as an nft? Markets can be done on a specialized chain too</li>
+</ul>
+</li>
+<li>
+<p>syncing the activity of specific accounts (those who you follow) vs all accounts by default</p>
+<ul>
+<li>your idea makes that easy</li>
+<li>my idea makes it hard (have to scan everything published - easily 10-20+ MB/s</li>
+<li>but syncing everything by default makes it easier in this scenario:
+<ul>
+<li>X follows Y</li>
+<li>Y posts a comment to a post from Z</li>
+<li>X gets the comment from Y but now also needs to fetch the post from Z ==&gt; more lookups
+<ul>
+<li>actually you don't have a cast schema for replies to other ppl's posts yet</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>What is your network effect and where is the lock-in? The contract? Cant that be copied?</p>
+</li>
+<li>
+<p>just the name registry is not enough for a standalone chain</p>
+<ul>
+<li>with the 2 ideas merged there is merit for a standalone chain
+https://i.imgflip.com/6bc8w7.jpg</li>
+<li>there will be a lot more block space demand if all connections &amp; the &quot;Host Directory&quot; are moved on chain</li>
+</ul>
+</li>
+<li>
+<p>managed hosts could hold you hostage even if you have your keys</p>
+<ul>
+<li>backups help, but too much hassle</li>
+<li>even if you start using a different host, you'd have lost your follower list</li>
+</ul>
+</li>
+<li>
+<p>For access control management you need guaranteed data availability &amp; sequencing</p>
+<ul>
+<li>my design makes that very easy</li>
+</ul>
+</li>
+</ul>
+<p>In my design no special-purpose nodes are required - IPFS &amp; ceramic streams can be leveraged</p>
+<p>FARCASTER TODO: I don't get the peer2peer part of it &amp; the nodes &amp; stuff</p>
+<p>Is there any way I could ask your team some questions? Some group chat perhaps?</p>
+<p>I'd love to pick your brains and also share my design - it's also minimalistic in terms of what goes on chain</p>
+<p>I've done an analysis of your solution vs mine with pros/cons and how they could be merged.</p>
+<ul>
+<li>
+<p>the &quot;Handling Transfers&quot; part can be avoided with a global sequencer
+https://farcasterxyz.notion.site/v2-Design-1e3c5c77311744179ca0d570341feb62
+TODO: rethink this &amp; re-read it</p>
+</li>
+<li>
+<p>your &quot;v2 Design&quot; talks about p2p delivery of messages but why is that necessary if there's a link to the &quot;Host Directory&quot; and it can be polled?</p>
+<ul>
+<li>are messages expected to propagate to all nodes?</li>
+<li>can this handle 50MB/s of traffic?</li>
+<li>why not use IPFS/Ceramic streams &amp; a global sequencer like my idea?</li>
+</ul>
+</li>
+<li>
+<p>your design better guarantees the data availability of the content from a user</p>
+</li>
+</ul>
+<p>Hello Varun,</p>
+<p>I had a call with Avichal from Electric Capital yesterday because I was pitching him an idea how to decentralize the social graph but at scale, and he mentioned that I should look at Farcaster. There's overlap and </p>
+<p>I'm 100% on board with the idea of putting content off-chain</p>
+<p>equity - token? normal company?</p>
+<p>You mention Solidity &amp; Ethereum addresses - will the registry live there?</p>
+<p>Not US timezone - I'm from Europe. But I could move to an American time zone</p>
+<p>Why Solidity... Why general-purpose smart contracts</p>
+<ul>
+<li>
+<p>unique indexes vs handles</p>
+</li>
+<li>
+<p>integers for users/interfaces/blocks/nonces are important for referencability &amp; indexability</p>
+</li>
+<li>
+<p>with on-chain delegation &amp; sequencing (the concept of time) users may not need pubkeys for the messages they have signed because those messages will reference interface nonces &amp; blocks so spoofing will still not be possible</p>
+</li>
+<li>
+<p>host-centric blobs (user-specific) vs interleaved with the oactivity of other users, posted through interfaces</p>
+</li>
+<li>
+<p>multiple hosts at the same time?</p>
+</li>
+<li>
+<p>will you have a token and how would it accrue value? what is this 1% equity you offer for new hires?</p>
+</li>
+<li>
+<p>AFAIU hosts only deal with storing data, but many different &amp; competing interfaces could be built that utilize the hosts for data storage?</p>
+</li>
+<li>
+<p>delegation could be implemented in your system as well.
+delegation is key!</p>
+</li>
+<li>
+<p>I think the Host Directory should go on chain too!</p>
+</li>
+<li>
+<p>sequencing &amp; anchoring is important !!!</p>
+</li>
+<li>
+<p>what is the long-term vision of the project - it's own chain?</p>
+</li>
+<li>
+<p>isn't this design very poll-heavy? What if there are 1 billion users and each of them generates 2-3 follow events per day?</p>
+</li>
+<li>
+<p>the plan seems to be that you'd subsidize gas fees on ethereum in the begining</p>
+</li>
+<li>
+<p>is a &quot;follow&quot; event part of a &quot;cast&quot; as a signed blob?</p>
+</li>
+<li>
+<p>how would you guard against spam/sybil attack &amp; people capturing the best handles?</p>
+</li>
+<li>
+<p>the &quot;sufficient decentralization&quot; post &amp; the docs don't make this point, but I think multiple interfaces could be using the same (managed) host.
+don't write this - because this is in the docs:
+&quot;A host should not be confused with an application which is a higher-order construct that may include a host, client and other services.&quot;</p>
+</li>
+<li>
+<p>on-chain registry's performance when checking for duplicate names?
+not a problem IMHO</p>
+</li>
+<li>
+<p>smart contracts user for things like &quot;a feature where you can restrict replies to a message to users who own a specific asset&quot;</p>
+</li>
+<li>
+<p>any way to make it possible for users to not need keypairs and just use plain old email login? Something like OAuth with the ability to later bind a keypair to a user identity if need be? Delegation &amp; access control management?</p>
+</li>
+<li>
+<p>what I can do</p>
+<ul>
+<li>presenting, meme lording, writing text</li>
+</ul>
+</li>
+<li>
+<p>shouldn't it be called farcast &amp; the users a farcaster?</p>
+<ul>
+<li>dont send this.</li>
+</ul>
+</li>
+<li>
+<p>signing every message &amp; action is a PITA - would prohibit true mass adoption</p>
+</li>
+<li>
+<p>merklization &amp; anchoring removes the need for the hash chain of casts and sequencing</p>
+</li>
+<li>
+<p>AFAIU any number of different interfaces/frontends could be implemented that could work with your host? So a host is providing access to your data &amp; actions that you have signed, and any number of interfaces (twitter, youtube, medium, reddit) could be using your host to store the data once you generate it?</p>
+</li>
+<li>
+<p>have you thought about the push vs pull design and if it's possible to combine the 2 to provide the best performance &amp; usability for devs?</p>
+</li>
+<li>
+<p>I don't like this poll-heavy design - instead I think all content should be merklized &amp; andvertized on a chain and interfaces should simply process all data by default</p>
+</li>
+<li>
+<p>light clients that can be ran locally by users would benefit from a poll architecture as opposed to mine :|</p>
+<ul>
+<li>why not merge both and provide both ways of getting data?</li>
+</ul>
+</li>
+<li>
+<p>My architecture isn't poll-based and has it's own chain that stores the follow graph along with </p>
+</li>
+<li>
+<p>farcaster is also compatible with hosts managing your keys</p>
+</li>
+<li>
+<p>if a managed host responsible for millions of accounts goes away, how much time would it take for everyone to update the URLs to their hosts through the Ethereum contract?</p>
+</li>
+<li>
+<p>the rewriting of the history of a user is near impossible in my design - no need for clients to keep track of old hashes to posts</p>
+</li>
+<li>
+<p>the p2p system for nodes to sync data... won't scale with fine-grained messages signed by unique keys in a truly web-scale</p>
+</li>
+<li>
+<p>my solution doesn't suffer from conflicts &amp; the eventual consistency problems of farcaster
+https://farcasterxyz.notion.site/v2-Design-1e3c5c77311744179ca0d570341feb62
+Unsolved Issues - Changing History
+https://farcasterxyz.notion.site/Node-Deep-Dive-1777791522ba481a94b9db7b9b27226a</p>
+</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../introduction/ambition.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../implementation/blockchain.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../introduction/ambition.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../implementation/blockchain.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
