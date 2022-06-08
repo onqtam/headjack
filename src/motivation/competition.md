@@ -1,73 +1,106 @@
 
 
 
-## What other attempts are missing/doing wrong
-
-- too much financialization - profiles & actions as NFTs, general-purpose EVM use
-- no credible path to scale
-- solving just the graph and not content addressability
-- fragmentation
-
-- your handle does not need to be an NFT for it to be resellable
-
-- None of the current attempts can provide a path to 100M or 1+B users.
+Contrast this to what the [other attempts](competition.md).
 
 
-you don't start from NFT standards for profiles - you start from the data and work up to 1B scale.
+## What other attempts are missing
 
-
-They try to do too much and are overengineered & complicated
-Too much theory & idealism - solving imaginary problems
-Even distributed systems professionals have a hard time figuring out how they work & how much they can scale
-Or the limitations are obvious (non-specialized chains)
-Why build on something that soon may not be around?
-Users shouldn't need a token or a wallet to benefit from an open social graph
-Linking financial addresses should not be on-by-default
-Competing standards & lack of cohesion & direction
-No economic incentive - no bootstrapping flywheel
-
-
-
-Most crypto projects are vague around their scalability & data structure - hiding something?
-"follow the data"
-Clarity is king.
-Headjack is very upfront with its data scalability & structure because that is the crux of it.
-
-
-
-
-## Specifics:
-
-
-Други проекти които съм прегледал:
-- DeSo
-    https://www.openprosper.com/stats/deso-dashboard
-- CyberConnect on ceramic
-- farcaster.xyz - може би най-интересният опит който чак сега излиза от мазето, стартиран от едни бивши Coinbase executives
-- minds.com
-- project liberty
-- bluesky
-- lens.dev
-
-
-Similar to "project liberty" founded in 2020 (paper - Decentralized Social Networking Protocol)
-
-
-TODO: zion
-
-
+This is a list of some of the problems with the solutions in the decentralized media space:
 
 
 Most projects never expose front and center their data structures and a credible path to scale - the focus goes on everything else besides the data but in complex systems the data structure dictates what is possible
 
 
 
+- No credible path to [web-scale](../introduction/web_scale.md) - many will hit a wall even at 1 million.
+    - Most are vague around their scalability & data structure and don't put it up-front anywhere - obfuscating the most important bit. Instead of specifying NFT standards for accounts & developing APIs, start with the data and work up from that.
+
+- Some are overengineered & complicated - even distributed systems professionals have a hard time figuring out how they work & what their limits are. Why build on something that soon may not be around?
+
+- Too financialized & trying to do too much - profiles & posts as NFTs, marketplaces, fan coins, tipping, content creator incentives.
+
+    > "However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start." - [Jay Gerber]
+    
+    https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970
+
+
+
+- Users shouldn't need to use a token, use a wallet, or self-host to benefit from decentralized identity & an open interest graph. Most people will always use custodial services.
+
+- Linking IDs to financial accounts on Ethereum/Solana/etc by default is misguided.
+
+- Some lack an incentive layer to store the identity/graph data.
+
+- Some lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and lead to fragmentation and no discoverability - what's the network effect flywheel?
+
+- Some are solving just Identity and/or the interest graph - without easy or stable content addressability.
+
+- Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around key management (rotations, authorizations, sessions & revocations) but the problem of the data availability of the committed actions remains unsolved.
 
 
 
 
 
-## what this approach gets right
+
+no more fragmentation & problems with discovery
+https://github.com/mastodon/mastodon/issues/9529
+"consistency is incredibly important for creating a compelling user experience"
+ALSO on the fracturing of federated services/protocols and stalling of innovation
+https://signal.org/blog/the-ecosystem-is-moving/
+also on this topic
+https://moxie.org/2022/01/07/web3-first-impressions.html
+
+
+
+
+A lot of the current winners/contenders in the web3 space are the ones that rushed ahead with incomplete technology to grab as much market share as possible.
+
+
+
+
+
+This is not to say that headjack doesn't have its fair share of tradeoffs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## What Headjack gets right
+
+- Napkin math is clear
+- Best set of compromises for UX/DX because of delegation
+    - No need for keys & ability to revoke access
+    - Compactness of data
+- UNIX philosophy: does just 1 thing - social graph (& anchoring)
+- KISS: needs to be simple & obvious that it can scale ⇒ worth building on top of
+    - & not opinionated and trying to do everything
+- Everything else follows from data availability & access to the social graph
+
+Headjack is very upfront with its data scalability & structure because that is the crux of it.
 
 - Integers are the most well known and easy to work with data type
 faster/easier indexing & queries than content addressing, hashes, keypairs & signatures
@@ -90,23 +123,31 @@ main advantages for headjack
 - push vs pull for updates
 - separating views from infrastructure - infra can be distributed
 
-Contrast this to what the [other attempts](competition.md).
+
+
+Finance is about specific accounts & energy preservation - no double spends. UTXOs need to reference only a few other UTXOs - a linear chain. Media is about aggregation, data storage, retrievability & referencability on a massive scale - it shouldn't be built on top of financial infrastructure.
 
 
 
 
+## Specifics:
+
+Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!
+
+### [lens.xyz](https://lens.xyz/)
+
+Всичко се пази он-чейн и не се използва специализиран блокчейн - обречено е да не може да скалира. Дори и да проима някакъв адопшън - какво се очаква да направят когато се ударят лимитите на Полигон? Да си направят собствен смарт контракт чейн? Или да разкарат дори Solidity-то и да си направят специализиран чейн без смарт контракти - нещо като DeSo? DeSo също е обречено за уеб скейл:
+https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html
+
+Никой сериозен не би се хванал да строи около Ленс защото е просто играчка и хората от Aave нямат опит с уеб2 компании като Туитър/Реддит с реален мащаб. Нямат страница където да говорят за скалиране, ботълнекс, примери за бройки и роуд мап - а това е най-важното за такъв тип проект - или го крият, или не са го мислили въобще.
+
+Но ще е добре да им прочета документацията и по-конкретно authentication и дали изизкват keypairs от потребителите или се ползва някакъв техен сървър и няма да трябва да подписваш всеки един лайк и коментар.
 
 
 
 
+### [Bluesky](https://blueskyweb.org/)
 
-
-
-
-
-
-
-== bluesky:
 TODO: re-read and take parts from this:
 https://github.com/bluesky-social/adx/blob/main/architecture.md
 - email as username - what about spam because email is public?
@@ -123,15 +164,10 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md
 - tweet with the ecosystem overview: https://twitter.com/bluesky/status/1352302821140549632
 
 
-https://www.farcaster.xyz/
+### [CyberConnect](https://cyberconnect.me/)
 
+ceramic network
 
-- https://www.minds.com/
-    problems: token-oriented, opinionated, ethereum-based, clusterfuck of financial incentives around the $MINDS token
-
-
-
-- cyberconnect
 https://docs.cyberconnect.me/docs/tech_overview
 problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts & linking them
 https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
@@ -142,18 +178,67 @@ Ceramic has been a source of inspiration but it lacks
 
 
 
-no more fragmentation & problems with discovery
-https://github.com/mastodon/mastodon/issues/9529
-"consistency is incredibly important for creating a compelling user experience"
-ALSO on the fracturing of federated services/protocols and stalling of innovation
-https://signal.org/blog/the-ecosystem-is-moving/
-also on this topic
-https://moxie.org/2022/01/07/web3-first-impressions.html
+
+they are handling the persistence of the social graph through pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.
+
+https://docs.cyberconnect.me/protocol/technical-framework/#storage
+"Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service."
+
+they don't have the concept of delegating the rights to interfaces/services to update connections & post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth & use email/pass & have recoverability
+
+they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy
+
+cyberconnect lacks the ability to anchor content & have it easily addressable & provable - sequencing events globally is underrated.
 
 
 
 
-A lot of the current winners/contenders in the web3 space are the ones that rushed ahead with incomplete technology to grab as much market share as possible.
+
+
+### [Farcaster](https://www.farcaster.xyz/)
+
+
+
+
+
+
+### [Project Liberty](https://www.projectliberty.io/)
+
+- it is at the right abstraction layer but there is not enough emphasis on compactness & use of indexes
+
+Similar to "project liberty" founded in 2020 (paper - Decentralized Social Networking Protocol)
+- Not enough emphasis on compactness & use of indexes
+- Using smart contracts for identities - opinionated & slow
+- Not the right team - 100m$ dumped by a billionaire, very little activity
+
+
+
+TODO: zion
+
+
+SSB, ActivityPub, Matrix - inferior, too segregated or opinionated/limited
+
+
+
+
+
+### [DeSo](https://www.deso.org/)
+
+It has [flatlined](https://www.openprosper.com/stats/deso-dashboard).
+
+DeSo - It is doing too much
+Cannot scale to billions despite planned sharding
+It financializes everything - fan coins and whatnot
+Requires users to pay for every interaction
+
+
+### [Minds.com](https://www.minds.com/)
+problems: token-oriented, opinionated, ethereum-based, clusterfuck of financial incentives around the $MINDS token
+
+
+
+
+
 
 
 
@@ -167,7 +252,6 @@ https://twitter.com/violetprotocol/status/1426183676686176264
 TWITTER ECOSYSTEM REVIEW
 https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20
 https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53
-"However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start."
 https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970
 
 

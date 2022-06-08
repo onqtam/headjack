@@ -171,3 +171,6 @@ what services will spring up:
     - imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why
     - imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data
 - you'll have the option to subscribe (not on-chain but through an interface) to quotes & references of content that interest you - seeing what the reception is and how that unfolds
+
+
+Bootstrapping the global hivemind

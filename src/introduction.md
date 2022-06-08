@@ -12,7 +12,7 @@ The following chapters convey the bulk of the idea:
 - [The ambition](introduction/ambition.md)
 
 <div style="text-align: center;">
-    <img src="logo.png">
+    <img src="logo2.png">
 </div>
 
 Inspired by the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans in the Matrix.

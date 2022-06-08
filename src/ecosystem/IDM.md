@@ -74,8 +74,6 @@ Merging IDs from multiple IDMs if created without keys
 
 
 
-
-
 These are [accounts](accounts.md) that can grant the ability to interfaces to post on behalf of accounts that are under the control of the ACM in question.
 
 

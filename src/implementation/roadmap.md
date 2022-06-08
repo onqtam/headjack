@@ -45,3 +45,19 @@ TODO: think about
 having a clear case for metaverse companies seems to be a solid route to gain initial traction, may be better to emerge with an industry versus tackle the existing until critical mass
 TODO: this goes in the growth strat!
 
+
+
+
+
+Whitepaper (+ brainstorming with some giga brains)
+Funding, operations (legal, accounting, tokenomics), hiring
+In parallel:
+    Blockchain
+    Block Graph explorer
+    OAuth-like service (SSO)
+    Defining a set of messages (post, reply, repost, like, etc).
+        Based on existing standards & data models - ActivityPub
+    Open source Twitter core (a centralized Twitter implementation)
+    A for-profit Twitter clone utilizing the core
+    Other types of for-profit interfaces - unpinch?
+    Talking to other platforms & partnerships - Odysee, etc.

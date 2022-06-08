@@ -1,9 +1,4 @@
 
-== == == == == == == == == == == == == == == == == == == == == == == == == == == 
-== NAME
-== == == == == == == == == == == == == == == == == == == == == == == == == == == 
-
-
 namespace
 
 sequencer
@@ -50,16 +45,10 @@ maelstrom
 whirlwind
 whirlpool
 
-highway
-
 superstructure?
 https://www.merriam-webster.com/dictionary/superstructure
 https://en.wikipedia.org/wiki/Superstructure_(condensed_matter)
 https://en.wikipedia.org/wiki/Structure_(mathematical_logic)
-
-trunk - through which juices flow
-
-your digital you/footprint
 
 percolator - 
 percolation theory describes the behavior of a network when nodes or links are added
@@ -67,8 +56,6 @@ percolation theory describes the behavior of a network when nodes or links are a
 the graph is future-oriented whereas ephemeral content is mostly in the past
 
 usenet => sequence net
-
-sieve
 
 integrity
 

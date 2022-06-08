@@ -157,7 +157,7 @@
 <li><a href="introduction/ambition.html">The ambition</a></li>
 </ul>
 <div style="text-align: center;">
-    <img src="logo.png">
+    <img src="logo2.png">
 </div>
 <p>Inspired by the <a href="https://matrix.fandom.com/wiki/Headjack">data port at the back of the head</a> of synthetically-grown humans in the Matrix.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="on-chain-vs-off-chain"><a class="header" href="#on-chain-vs-off-chain">On-chain vs off-chain</a></h1>
@@ -174,7 +174,7 @@
 <p>There are 5 guiding principles when aiming for mass adoption &amp; parity on convenience &amp; UX with Web2 services:</p>
 <ul>
 <li>Must be scalable to billions of users and that must be <a href="introduction/scaling.html">obvious &amp; provable</a> if devs &amp; entrepreneurs are expected to jump on the opportunity.</li>
-<li>Must be simple and familiar - abstracting the complexity away. RSS was <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> and it failed - <a href="https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>. Users shouldn't have to manage keypairs on multiple devices &amp; explicitly sign every interaction - by default they'll be logging into identity managers (<a href="introduction/IDM.html">IDMs</a>) using email &amp; pass / <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> (<code>&quot;login with Google&quot;</code>) and would then be using these IDMs as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> to authorize interfaces to post on their behalf. Linking IDs to financial accounts on Ethereum/Solana/etc by default is misguided.</li>
+<li>Must be simple and familiar - abstracting the complexity away. RSS was <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> and it failed - <a href="https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>. Users shouldn't have to manage keypairs on multiple devices &amp; explicitly sign every interaction - by default they'll be logging into identity managers (<a href="introduction/IDM.html">IDMs</a>) using email &amp; pass / <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> (<code>&quot;login with Google&quot;</code>) and would then be using these IDMs as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> to authorize interfaces to post on their behalf.</li>
 <li>Users shouldn't have to think about and pay for the storage of their data by default - costs should be shifted to services.</li>
 <li>Users should be able to own their identity &amp; connections in a sovereign way with a keypair <strong>even if by default</strong> their activity is managed by something resembling a custodial service.</li>
 <li>Anyone should be able to have an identity, operate an <a href="introduction/IDM.html">IDM</a> or serve media through an interface.</li>
@@ -562,57 +562,74 @@ imagine being able to follow the activity of X person on any possible online ven
 <p>you'll have the option to subscribe (not on-chain but through an interface) to quotes &amp; references of content that interest you - seeing what the reception is and how that unfolds</p>
 </li>
 </ul>
-<div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><h2 id="what-other-attempts-are-missingdoing-wrong"><a class="header" href="#what-other-attempts-are-missingdoing-wrong">What other attempts are missing/doing wrong</a></h2>
-<ul>
-<li>
-<p>too much financialization - profiles &amp; actions as NFTs, general-purpose EVM use</p>
-</li>
-<li>
-<p>no credible path to scale</p>
-</li>
-<li>
-<p>solving just the graph and not content addressability</p>
-</li>
-<li>
-<p>fragmentation</p>
-</li>
-<li>
-<p>your handle does not need to be an NFT for it to be resellable</p>
-</li>
-<li>
-<p>None of the current attempts can provide a path to 100M or 1+B users.</p>
-</li>
-</ul>
-<p>you don't start from NFT standards for profiles - you start from the data and work up to 1B scale.</p>
-<p>They try to do too much and are overengineered &amp; complicated
-Too much theory &amp; idealism - solving imaginary problems
-Even distributed systems professionals have a hard time figuring out how they work &amp; how much they can scale
-Or the limitations are obvious (non-specialized chains)
-Why build on something that soon may not be around?
-Users shouldn't need a token or a wallet to benefit from an open social graph
-Linking financial addresses should not be on-by-default
-Competing standards &amp; lack of cohesion &amp; direction
-No economic incentive - no bootstrapping flywheel</p>
-<p>Most crypto projects are vague around their scalability &amp; data structure - hiding something?
-&quot;follow the data&quot;
-Clarity is king.
-Headjack is very upfront with its data scalability &amp; structure because that is the crux of it.</p>
-<h2 id="specifics"><a class="header" href="#specifics">Specifics:</a></h2>
-<p>Други проекти които съм прегледал:</p>
-<ul>
-<li>DeSo
-https://www.openprosper.com/stats/deso-dashboard</li>
-<li>CyberConnect on ceramic</li>
-<li>farcaster.xyz - може би най-интересният опит който чак сега излиза от мазето, стартиран от едни бивши Coinbase executives</li>
-<li>minds.com</li>
-<li>project liberty</li>
-<li>bluesky</li>
-<li>lens.dev</li>
-</ul>
-<p>Similar to &quot;project liberty&quot; founded in 2020 (paper - Decentralized Social Networking Protocol)</p>
-<p>TODO: zion</p>
+<p>Bootstrapping the global hivemind</p>
+<div style="break-before: page; page-break-before: always;"></div><div style="break-before: page; page-break-before: always;"></div><p>Contrast this to what the <a href="motivation/competition.html">other attempts</a>.</p>
+<h2 id="what-other-attempts-are-missing"><a class="header" href="#what-other-attempts-are-missing">What other attempts are missing</a></h2>
+<p>This is a list of some of the problems with the solutions in the decentralized media space:</p>
 <p>Most projects never expose front and center their data structures and a credible path to scale - the focus goes on everything else besides the data but in complex systems the data structure dictates what is possible</p>
-<h2 id="what-this-approach-gets-right"><a class="header" href="#what-this-approach-gets-right">what this approach gets right</a></h2>
+<ul>
+<li>
+<p>No credible path to <a href="motivation/../introduction/web_scale.html">web-scale</a> - many will hit a wall even at 1 million.</p>
+<ul>
+<li>Most are vague around their scalability &amp; data structure and don't put it up-front anywhere - obfuscating the most important bit. Instead of specifying NFT standards for accounts &amp; developing APIs, start with the data and work up from that.</li>
+</ul>
+</li>
+<li>
+<p>Some are overengineered &amp; complicated - even distributed systems professionals have a hard time figuring out how they work &amp; what their limits are. Why build on something that soon may not be around?</p>
+</li>
+<li>
+<p>Too financialized &amp; trying to do too much - profiles &amp; posts as NFTs, marketplaces, fan coins, tipping, content creator incentives.</p>
+<blockquote>
+<p>&quot;However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start.&quot; - [Jay Gerber]</p>
+</blockquote>
+<p>https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970</p>
+</li>
+<li>
+<p>Users shouldn't need to use a token, use a wallet, or self-host to benefit from decentralized identity &amp; an open interest graph. Most people will always use custodial services.</p>
+</li>
+<li>
+<p>Linking IDs to financial accounts on Ethereum/Solana/etc by default is misguided.</p>
+</li>
+<li>
+<p>Some lack an incentive layer to store the identity/graph data.</p>
+</li>
+<li>
+<p>Some lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> and lead to fragmentation and no discoverability - what's the network effect flywheel?</p>
+</li>
+<li>
+<p>Some are solving just Identity and/or the interest graph - without easy or stable content addressability.</p>
+</li>
+<li>
+<p>Some use chains such as Ethereum for <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> &amp; store vector commitments (Merkle roots) for events around key management (rotations, authorizations, sessions &amp; revocations) but the problem of the data availability of the committed actions remains unsolved.</p>
+</li>
+</ul>
+<p>no more fragmentation &amp; problems with discovery
+https://github.com/mastodon/mastodon/issues/9529
+&quot;consistency is incredibly important for creating a compelling user experience&quot;
+ALSO on the fracturing of federated services/protocols and stalling of innovation
+https://signal.org/blog/the-ecosystem-is-moving/
+also on this topic
+https://moxie.org/2022/01/07/web3-first-impressions.html</p>
+<p>A lot of the current winners/contenders in the web3 space are the ones that rushed ahead with incomplete technology to grab as much market share as possible.</p>
+<p>This is not to say that headjack doesn't have its fair share of tradeoffs</p>
+<h2 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h2>
+<ul>
+<li>Napkin math is clear</li>
+<li>Best set of compromises for UX/DX because of delegation
+<ul>
+<li>No need for keys &amp; ability to revoke access</li>
+<li>Compactness of data</li>
+</ul>
+</li>
+<li>UNIX philosophy: does just 1 thing - social graph (&amp; anchoring)</li>
+<li>KISS: needs to be simple &amp; obvious that it can scale ⇒ worth building on top of
+<ul>
+<li>&amp; not opinionated and trying to do everything</li>
+</ul>
+</li>
+<li>Everything else follows from data availability &amp; access to the social graph</li>
+</ul>
+<p>Headjack is very upfront with its data scalability &amp; structure because that is the crux of it.</p>
 <ul>
 <li>Integers are the most well known and easy to work with data type
 faster/easier indexing &amp; queries than content addressing, hashes, keypairs &amp; signatures</li>
@@ -631,9 +648,16 @@ It makes no assumptions nor impose constraints for what would be built around it
 <li>push vs pull for updates</li>
 <li>separating views from infrastructure - infra can be distributed</li>
 </ul>
-<p>Contrast this to what the <a href="motivation/competition.html">other attempts</a>.</p>
-<p>== bluesky:
-TODO: re-read and take parts from this:
+<p>Finance is about specific accounts &amp; energy preservation - no double spends. UTXOs need to reference only a few other UTXOs - a linear chain. Media is about aggregation, data storage, retrievability &amp; referencability on a massive scale - it shouldn't be built on top of financial infrastructure.</p>
+<h2 id="specifics"><a class="header" href="#specifics">Specifics:</a></h2>
+<p>Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!</p>
+<h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
+<p>Всичко се пази он-чейн и не се използва специализиран блокчейн - обречено е да не може да скалира. Дори и да проима някакъв адопшън - какво се очаква да направят когато се ударят лимитите на Полигон? Да си направят собствен смарт контракт чейн? Или да разкарат дори Solidity-то и да си направят специализиран чейн без смарт контракти - нещо като DeSo? DeSo също е обречено за уеб скейл:
+https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html</p>
+<p>Никой сериозен не би се хванал да строи около Ленс защото е просто играчка и хората от Aave нямат опит с уеб2 компании като Туитър/Реддит с реален мащаб. Нямат страница където да говорят за скалиране, ботълнекс, примери за бройки и роуд мап - а това е най-важното за такъв тип проект - или го крият, или не са го мислили въобще.</p>
+<p>Но ще е добре да им прочета документацията и по-конкретно authentication и дали изизкват keypairs от потребителите или се ползва някакъв техен сървър и няма да трябва да подписваш всеки един лайк и коментар.</p>
+<h3 id="bluesky"><a class="header" href="#bluesky"><a href="https://blueskyweb.org/">Bluesky</a></a></h3>
+<p>TODO: re-read and take parts from this:
 https://github.com/bluesky-social/adx/blob/main/architecture.md</p>
 <ul>
 <li>
@@ -664,37 +688,47 @@ instead of a consortium &amp; a transparency log this should be a self-supportin
 <p>tweet with the ecosystem overview: https://twitter.com/bluesky/status/1352302821140549632</p>
 </li>
 </ul>
-<p>https://www.farcaster.xyz/</p>
-<ul>
-<li>
-<p>https://www.minds.com/
-problems: token-oriented, opinionated, ethereum-based, clusterfuck of financial incentives around the $MINDS token</p>
-</li>
-<li>
-<p>cyberconnect
-https://docs.cyberconnect.me/docs/tech_overview
+<h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
+<p>ceramic network</p>
+<p>https://docs.cyberconnect.me/docs/tech_overview
 problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts &amp; linking them
 https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
 My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?
 Also how big do you see the graph getting? My napkin math for Twitter's 400M users and 700 average connections shows that if using simple 4 byte integers as IDs (no pubkeys/signatures/DIDs) would require 1.1TB of data for the most compact version of the graph (each ID would have an array of IDs that it follows) being able to answer queries like who does X follow and for queries like who follows X the data would need to be 2x bigger (another set of arrays). In reality it would be much more because of other metadata, keys, signatures, bigger integers (to support more than 4 billion indexes), database overhead, etc. Thoughts? </p>
-</li>
-</ul>
 <p>Ceramic has been a source of inspiration but it lacks </p>
-<p>no more fragmentation &amp; problems with discovery
-https://github.com/mastodon/mastodon/issues/9529
-&quot;consistency is incredibly important for creating a compelling user experience&quot;
-ALSO on the fracturing of federated services/protocols and stalling of innovation
-https://signal.org/blog/the-ecosystem-is-moving/
-also on this topic
-https://moxie.org/2022/01/07/web3-first-impressions.html</p>
-<p>A lot of the current winners/contenders in the web3 space are the ones that rushed ahead with incomplete technology to grab as much market share as possible.</p>
+<p>they are handling the persistence of the social graph through pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.</p>
+<p>https://docs.cyberconnect.me/protocol/technical-framework/#storage
+&quot;Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service.&quot;</p>
+<p>they don't have the concept of delegating the rights to interfaces/services to update connections &amp; post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth &amp; use email/pass &amp; have recoverability</p>
+<p>they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy</p>
+<p>cyberconnect lacks the ability to anchor content &amp; have it easily addressable &amp; provable - sequencing events globally is underrated.</p>
+<h3 id="farcaster"><a class="header" href="#farcaster"><a href="https://www.farcaster.xyz/">Farcaster</a></a></h3>
+<h3 id="project-liberty"><a class="header" href="#project-liberty"><a href="https://www.projectliberty.io/">Project Liberty</a></a></h3>
+<ul>
+<li>it is at the right abstraction layer but there is not enough emphasis on compactness &amp; use of indexes</li>
+</ul>
+<p>Similar to &quot;project liberty&quot; founded in 2020 (paper - Decentralized Social Networking Protocol)</p>
+<ul>
+<li>Not enough emphasis on compactness &amp; use of indexes</li>
+<li>Using smart contracts for identities - opinionated &amp; slow</li>
+<li>Not the right team - 100m$ dumped by a billionaire, very little activity</li>
+</ul>
+<p>TODO: zion</p>
+<p>SSB, ActivityPub, Matrix - inferior, too segregated or opinionated/limited</p>
+<h3 id="deso"><a class="header" href="#deso"><a href="https://www.deso.org/">DeSo</a></a></h3>
+<p>It has <a href="https://www.openprosper.com/stats/deso-dashboard">flatlined</a>.</p>
+<p>DeSo - It is doing too much
+Cannot scale to billions despite planned sharding
+It financializes everything - fan coins and whatnot
+Requires users to pay for every interaction</p>
+<h3 id="mindscom"><a class="header" href="#mindscom"><a href="https://www.minds.com/">Minds.com</a></a></h3>
+<p>problems: token-oriented, opinionated, ethereum-based, clusterfuck of financial incentives around the $MINDS token</p>
 <p>https://violet.co/
 Violet Protocol
 https://twitter.com/violetprotocol/status/1426183676686176264</p>
 <p>TWITTER ECOSYSTEM REVIEW
 https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20
 https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53
-&quot;However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start.&quot;
 https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970</p>
 <p>== == == == == == == == == == == == == == == == == == == == == == == == == == == == 
 == FARCASTER:
@@ -1159,6 +1193,25 @@ And thus scalability there is different from media scalability which is a data p
 <li>mina snapp?</li>
 <li>unbounded state growth.</li>
 </ul>
+<h1 id="block-structure"><a class="header" href="#block-structure">Block structure</a></h1>
+<ul>
+<li>Transactions (token transfers)</li>
+<li>Registration/updates of interfaces
+<ul>
+<li>Sources for ephemeral content generated on the interface - IPFS, Ceramic, HTTPS, etc.</li>
+</ul>
+</li>
+<li>Blobs of data from each separate interface
+<ul>
+<li>Follow/unfollow events</li>
+<li>Update/delete account info/handle</li>
+<li>Merkle root of all new content generated by the interface</li>
+</ul>
+</li>
+<li>Root hash of the state (connections, interfaces &amp; accounts)</li>
+</ul>
+<h1 id="mempool"><a class="header" href="#mempool">Mempool</a></h1>
+<p>Mempool used mostly by interfaces with big bulky blobs</p>
 <div style="break-before: page; page-break-before: always;"></div><ul>
 <li>Twitter: 400M users (220 MAU), average connections: 700</li>
 <li>1.1 TB for arrays of arrays with 4 byte integers (the graph)
@@ -1218,6 +1271,14 @@ https://imgur.com/a/19NV1YR</p>
 </ul>
 <p>shard id</p>
 <p>If handles are permanent to shards then their allocation to shards can be managed in the beacon chain and it can be consulted when following urls to content - so that the shard idx doesnt have to be in the urls</p>
+<p>Twitter: 400M users (220 MAU), average connections: 700
+1.1 TB for arrays of arrays with 4 byte integers (the graph)
+2.2 TB (x2) if storing connections both ways for faster lookups (who do I follow &amp; who follows me)
+4.4 TB (x2) if using long long int (8 bytes) - infinite indexes
+Metadata (pubkey, handle, description) per index would be O(1)
+Less than the bytes required for 700 connections on average
+Realistic state size: ~20TB - database overhead &amp; merkle roots
+The entire Twitter graph can be populated in a month with 1 MB/s of blockchain bandwidth</p>
 <div style="break-before: page; page-break-before: always;"></div><p>If interfaces have to stake and leaving the stake has a queue they would have more incentive not to leave - sticky.</p>
 <p>Implement a fee-burn mechanism similar to EIP-1559 in Ethereum so that burnt fees will offset new token issuance as the project gains adoption.</p>
 <p>Elastic fee model</p>
@@ -1315,6 +1376,18 @@ https://geohot.github.io/blog/jekyll/update/2022/04/16/vampire-attack-twitter.ht
 </ul>
 <p>having a clear case for metaverse companies seems to be a solid route to gain initial traction, may be better to emerge with an industry versus tackle the existing until critical mass
 TODO: this goes in the growth strat!</p>
+<p>Whitepaper (+ brainstorming with some giga brains)
+Funding, operations (legal, accounting, tokenomics), hiring
+In parallel:
+Blockchain
+Block Graph explorer
+OAuth-like service (SSO)
+Defining a set of messages (post, reply, repost, like, etc).
+Based on existing standards &amp; data models - ActivityPub
+Open source Twitter core (a centralized Twitter implementation)
+A for-profit Twitter clone utilizing the core
+Other types of for-profit interfaces - unpinch?
+Talking to other platforms &amp; partnerships - Odysee, etc.</p>
 <div style="break-before: page; page-break-before: always;"></div><p>point of view: creating an interface without the ability to lock-in users is daunting - but what if most aspects of an interface are commercialized &amp; offered as a service so creating a new interface is just the frontend?</p>
 
                     </main>

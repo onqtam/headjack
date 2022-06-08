@@ -1,6 +1,8 @@
 
 
 
+
+
 TODO: interface or application as the term? or view?
 https://miro.medium.com/max/1400/0*6w3lPf5orl0ME-XL
 https://polynya.medium.com/the-web3-stack-how-web3-will-offer-superior-ux-than-web2-6b8c82709163
@@ -8,8 +10,6 @@ https://polynya.medium.com/the-web3-stack-how-web3-will-offer-superior-ux-than-w
 Browsers: different views on content?
 
 TODO: browser in the driver/filesystem/OS analogy?
-
-TODO: message or content?
 
 TODO: too many links?
 
