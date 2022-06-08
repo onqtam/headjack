@@ -9,23 +9,24 @@
 
 # Motivation
 
-- [Why]()
-- [Case study]()
-- [Possibilities]()
+- [Why](motivation/why.md)
+- [Possibilities](motivation/possibilities.md)
+- [Startup case study](motivation/startup_case_study.md)
 - [Competition](motivation/competition.md)
 
 # Ecosystem
-
-- [Identity Managers]()
-- [Messages]()
-- [Architecture]()
-- [Moderation]()
+<!-- - [Ecosystem]() -->
+- [Identity Managers](ecosystem/IDM.md)
+- [Messages](ecosystem/messages.md)
+- [Architecture](ecosystem/architecture.md)
+- [Moderation](ecosystem/moderation.md)
 
 # Implementation
 
 - [Blockchain](implementation/blockchain.md)
 - [Scaling](implementation/scaling.md)
 - [Tokenomics](implementation/tokenomics.md)
+- [Handles](implementation/handles.md)
 - [Roadmap](implementation/roadmap.md)
 
 # Misc
