@@ -2,7 +2,7 @@
 authors = ["onqtam"]
 language = "en"
 multilingual = false
-src = "."
+src = "src"
 title = "Headjack - the base layer of cyberspace"
 
 [build]

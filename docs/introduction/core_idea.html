@@ -1,0 +1,248 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Core idea - Headjack - the base layer of cyberspace</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../introduction/introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../introduction/on_off_chain.html"><strong aria-hidden="true">1.1.</strong> On-chain vs off-chain</a></li><li class="chapter-item expanded "><a href="../introduction/core_idea.html" class="active"><strong aria-hidden="true">1.2.</strong> Core idea</a></li><li class="chapter-item expanded "><a href="../introduction/web_scale.html"><strong aria-hidden="true">1.3.</strong> Web-scale & UX</a></li><li class="chapter-item expanded "><a href="../introduction/ambition.html"><strong aria-hidden="true">1.4.</strong> The ambition</a></li><li class="chapter-item expanded "><a href="../introduction/ambition.html"><strong aria-hidden="true">1.5.</strong> The ambition</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Headjack - the base layer of cyberspace</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h2 id="core-idea"><a class="header" href="#core-idea">Core idea</a></h2>
+<p>There are 5 guiding principles when aiming for mass adoption &amp; parity on convenience &amp; UX with Web2 services:</p>
+<ul>
+<li>Must be scalable to billions of users and that must be <a href="scaling.html">obvious &amp; provable</a> if devs &amp; entrepreneurs are expected to jump on the opportunity.</li>
+<li>Must be simple and familiar - abstracting the complexity away. RSS was <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> and it failed - <a href="https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>. Users shouldn't have to manage keypairs on multiple devices &amp; explicitly sign every interaction - by default they'll be logging into identity managers (<a href="IDM.html">IDMs</a>) using email &amp; pass / <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> (<code>&quot;login with Google&quot;</code>) and would then be using these IDMs as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> to authorize interfaces to post on their behalf. Linking IDs to financial accounts on Ethereum/Solana/etc by default is misguided.</li>
+<li>Users shouldn't have to think about and pay for the storage of their data by default - costs should be shifted to services.</li>
+<li>Users should be able to own their identity &amp; connections in a sovereign way with a keypair <strong>even if by default</strong> their activity is managed by something resembling a custodial service.</li>
+<li>Anyone should be able to have an identity, operate an <a href="IDM.html">IDM</a> or serve media through an interface.</li>
+</ul>
+<hr />
+<p>There are 3 types of entities in Headjack:</p>
+<ul>
+<li>User accounts - represented by an integer ID on-chain - keypair association is optional.</li>
+<li><a href="IDM.html">IDMs</a> - a superset of normal accounts - required to have a keypair - can manage other accounts by submitting changes for them (name handle, follow relationships, updating keypairs) &amp; acting as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> - authorizing interfaces to post on behalf of users (&amp; ability to revoke that authorization).</li>
+<li>Interfaces - a superset of normal accounts - required to have a keypair - they are the media presentation layer. Users can authorize them through the use of an <a href="IDM.html">IDM</a> to post on their behalf without having to explicitly sign every interaction (follow, post, comment, react).</li>
+</ul>
+<p>All follow relationships &amp; authorizations are represented &amp; submitted on-chain as simple integer pairs (<code>2131 =&gt; 83253, 6331 =&gt; 14415</code>) that get aggregated in compact blobs &amp; signed in bulk by <a href="IDM.html">IDMs</a> &amp; interfaces - achieving a very high signal-to-noise ratio (few signatures) ==&gt; improving the throughput in the valuable block space. Connections can be multidimensional with explicit filtering &amp; exclusion of content based on its type/tag or interface that it originates from - all of which will also be represented by integers.</p>
+<p>So at the core of it all is just sequencing relations between integers &amp; merkle roots for content.</p>
+<img src="https://i.imgflip.com/6abnkg.jpg">
+<p>With this foundation we achieve the following range of usage scenarios:</p>
+<ul>
+<li>Costs for using the blockchain can be shifted to <a href="IDM.html">IDMs</a> &amp; interfaces with business models to support that - users won't care that there's an underlying token (they'll always be able to interact with it directly through the mempool &amp; pay for transactions if they wish).</li>
+<li>Users won't need wallets &amp; keypairs - risky and cumbersome with multiple devices. Most will create accounts through <a href="IDM.html">IDMs</a> &amp; use email/pass or Web2 <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> (<code>&quot;login with Google&quot;</code>) which will create on-chain integer IDs for them without associated keypairs - &quot;owned&quot; by the custodian. Users will be able to &quot;log in&quot; to interfaces using their IDM as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> for Headjack which will authorize the interface with a few bytes on-chain to post actions on behalf of users - all without requiring a single signature by the user - neither on-chain for the identity/connections/authorizations (tiny bits of data - just integers &amp; bit flags submitted by the <a href="IDM.html">IDM</a>) nor for their off-chain content (posts, comments, reactions).</li>
+<li>Users can revoke permissions to interfaces and even retroactively invalidate activity generated on their behalf by an interface by saying <code>&quot;discard activity from block X forward generated through interface Y&quot;</code> through a small on-chain message published by their IDM because everything is sequenced. This is acceptable because in this blockchain <a href="https://twitter.com/VitalikButerin/status/1530268923848839173">such data is non-financial</a> and fake activity has smaller consequences - in the current Web2 world we've accepted that possibility anyway.</li>
+<li>At any point in time users can regain full sovereignty over their identities by binding a keypair through their <a href="IDM.html">IDM</a>. Then they'll be able to cut that IDM off (revoke access) &amp; even retroactively invalidate actions from it through another IDM or direct on-chain transactions.</li>
+<li>Users can be completely anonymous by directly creating an identity with a keypair &amp; paying for an on-chain transaction. They'll be able to use <a href="IDM.html">IDMs</a> without having to sign with email/pass or a Web2 <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> - not revealing anything.</li>
+<li>Interfaces will be usable by users that don't use an <a href="IDM.html">IDM</a> but all their activity will need explicit signatures - updating follow connections on-chain will be more costly because they'll take a lot more bytes but the requirement of signatures will not impact the cost of off-chain activity (posts, comments, reactions).</li>
+</ul>
+<p>In practice we expect that only cypherpunks &amp; people that have something to lose (big audience/reputation) will go through the trouble to manage a keypair. Almost everyone will use <a href="IDM.html">IDMs</a> - even most crypto natives don't want to explicitly sign every action and have their keys in hot wallets ready to get hacked. This way 99.9% of the user activity on-chain (mostly connections) ends up going through authorized services and gets batched in a compact way - requiring only that the service signs the aggregated payload and thus reducing the amount of signatures on-chain.</p>
+<p>The vast majority of users will be light-weight: consumers &amp; curators of content (through interactions &amp; reactions) with very little creation on their part and little to no audience. Their subscriptions/interests matter most, but at any point in time they could shift to a more vocal role and start caring about archiving their off-chain data and not relying on the good grace of the infrastructure that sits beneath interfaces.</p>
+<hr />
+<p>Think of it as an <a href="https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self describing messages, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity, connections &amp; authorization are on-chain and have guaranteed storage &amp; retrievability whereas all data objects are just cryptographically anchored and stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>) - durability &amp; retrievability is on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees. Another way to look at it is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network similar to <a href="https://kafka.apache.org/intro">Kafka</a> where accounts are treated as topics to which anyone can subscribe to - a notification highway. This is a generalization of Jack's <a href="https://twitter.com/jack/status/1204766078468911106">vision for decentralizing Twitter</a>.</p>
+<blockquote>
+<p>&quot;The internet is the computer but it's missing identity and <a href="https://en.wikipedia.org/wiki/Access-control_list">acls</a>&quot; - <a href="https://news.ycombinator.com/item?id=25734612">someone</a>.</p>
+</blockquote>
+<p>Key &amp; session management (rotation, authorization &amp; revocation) <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">require</a> ordering that is <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logically centralized</a>. This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (<code>&quot;X follows Y&quot;</code> only affects <code>X</code>) and that is <a href="scaling.html">provable with easy to grasp napkin math</a>. It is compatible with any type of <a href="https://www.w3.org/TR/did-core/">DID</a> - anything could be associated with an integer ID.</p>
+<p>A key point is that in Headjack all connections in the <a href="https://en.wikipedia.org/wiki/Interest_graph">interest graph</a> are asymmetric and also visible &amp; on-chain as it is geared towards <a href="https://www.quora.com/Will-the-future-of-social-graph-relationships-be-asymmetric-following-e-g-Quora-Twitter-or-symmetric-friending-e-g-Facebook/answer/David-O-Sacks">public discourse</a> but private ones for a social graph can also be achieved through encryption - either on-chain (although much more costly &amp; complex) or handled &amp; stored by <a href="IDM.html">IDMs</a> with greater trust assumptions. However, being public by default (as is the case with Twitter) greatly improves discoverability and the chances to bootstrap the network effect. Identities will have their own customized landing pages - provided either on-chain or off-chain through an IDM - <a href="https://en.wikipedia.org/wiki/Linktree">Linktree</a> is <a href="https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/">valued at 1.3B$</a> and is just a bandaid for today’s fragmentation of identity on the internet.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../introduction/on_off_chain.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../introduction/web_scale.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../introduction/on_off_chain.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../introduction/web_scale.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

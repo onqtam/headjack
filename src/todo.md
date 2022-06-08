@@ -1,0 +1,142 @@
+
+
+- What if the interface web2 website is no longer around?
+- Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
+- Topics such as $RUNE & hashtags - how do they get parsed?
+- Discord, signal protocol
+- TODO: Q: is multi-dimentionality required if people use different interfaces for different types of content?
+- if enough things move to the ID managers... what if the public connections go there too? moving closer & closer to farcaster's design... what if the blockchain isn't necessary? :|
+- TODO: URLs and how they are actually displayed - which interface...
+- maybe the history of each interface nonce mapping to block numbers & the history of changes of user delegations should be part of the state and state-rooted
+- TODO: this is for public discourse - not private networks like facebook/snap.
+- Too many acms and what if someone logs with an interface - how to merge?
+
+
+- users will want everything from creators, but interfaces won't be able to lock in their users so they might dislike the system? misaligned incentives?
+
+- think about content hosting (especially files & images)
+
+- https://indieweb.org/Webmention
+
+
+capabilities-based delegation
+
+
+- cosmos/tendermint? but how to shard? roll your own?! :(
+
+- eth trie data structure - look if it would be of help
+    also B-tree
+    also MVCC multi version concurrency control
+
+TODO: protected tweets - LOL - followers are also private unless permitted?
+
+- how to count impressions/views of videos?
+- sybil attacks
+- interface attacks on delegated accounts (posting activity on their behalf)
+- handles & how they are given away
+- token value accrual & bonding/tokenomics
+- snapshots of the state
+- telegram and such mass group chats & channels
+- how would this fit with user data pods?
+- self hosting?
+
+“Inherit subscriptions” - follow a list as if you follow all from it
+
+light clients - in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which interfaces a user has authorized to post on their behalf in a given block
+
+18+ content?
+
+TODO: figure out additional ways for CDN for content & keeping it up & alive besides just user & interface archiving
+
+- private connections, posts & user data
+    - see 4.2.2 Privacy (basically encrypted connections/actions and secrets shared/delegated to interfaces to operate on behalf of actor)
+    even encrypted direct messaging could be implemented on top of this
+    5.4.3 & 5.4.4
+    https://unfinished.com/wp-content/uploads/dsnp_whitepaper.pdf
+    - TODO: store off-chain?
+    centralized connection graph is not incompatible with data pods as thought by in Solid, or Ceramic, etc.
+        - can be stored & managed by ID managers
+    - GDPR...
+    https://matrix.org/~matthew/Response_to_-_Notes_on_privacy_and_data_collection_of_Matrix.pdf
+    https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org
+    https://developer.litprotocol.com/docs/WhatIsLit/whatIsLitProtocol
+
+- TODO: go through this exercise: https://twitter.com/chrishlad/status/1518237282729295873
+
+- look into aggregate/multi/threshold signatures, ZK tech & other certificates:
+    https://github.com/jarradh/zk-compact-certificates
+
+- Recursive merkleization of checkpointed L1 blocks/stateRoots so that anything can be referenced even with just the tip of the chain
+
+- ECDSA vs eddsa
+https://support.mycrypto.com/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/
+https://medium.com/mycrypto/the-magic-of-digital-signatures-on-ethereum-98fe184dc9c7
+https://ethvigil.com/docs/eth_sign_example_code/
+
+
+
+https://doc.libsodium.org/
+http://ed25519.cr.yp.to/
+https://keybase.io/
+https://docs.joinmastodon.org/spec/webfinger/
+https://docs.joinmastodon.org/spec/activitypub/
+
+
+
+Skynet interop with IPFS:
+https://twitter.com/DavidVorick/status/1412080832286584844
+https://docs.skynetlabs.com/developer-guides/moving-from-ipfs-to-skynet
+https://skynet.guide/tech/sia-layer-one.html
+https://skynet.guide/tech/skynet-layer-two.html
+
+
+reading on IPFS, Filecoin & Sia/Skynet
+https://www.reddit.com/r/siacoin/comments/lg9qr0/what_is_skynet_why_should_i_build_on_it_and_how/gmr7u5v/
+https://www.reddit.com/r/ipfs/comments/jf073z/filecoin_isnt_an_incentivization_network_for_ipfs/
+
+
+
+TODO: read & think about permissions, sub-app/domain authorization, private data, "Data Access Controllers", "data domain"
+https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
+
+
+Reducing merkle proof sizes with Verkle Tries
+"It’s a constant size proof regardless of the width."
+https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
+Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital
+https://www.youtube.com/watch?v=xuLyZaty9iI
+vector commitments (Merkle proofs)
+https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
+https://www.youtube.com/watch?v=RGJOQHzg3UQ
+
+
+could a user self-publish withoug going thorugh an interface?
+
+
+https://blog.ceramic.network/capability-based-data-security-on-ceramic/
+https://en.wikipedia.org/wiki/Object-capability_model
+
+
+
+by addressing data and using different views to browse it we minimize the effect of phishing. but what about custom JS websites?
+    messages that are viewable only through a specific view?
+        "warning, you're about to view a custom website"
+    easy to identify links to "outside of the addressing"
+
+TODO: address private media & graphs
+    private data may also be anchored & referencable for intra-organizational purposes - just not included in an IPFS blob publicly advertized on Headjack
+
+
+
+can this displace SSL in addition to DNS?
+
+
+
+"tl;dr We haven't achieved the required level of software/hardware abstraction for everyone to self host"
+https://news.ycombinator.com/item?id=25734052
+
+this tbh...
+https://news.ycombinator.com/item?id=25735773
+
+
+
