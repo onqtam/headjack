@@ -1,4 +1,4 @@
-## Core idea
+# Core idea
 
 There are 5 guiding principles when aiming for mass adoption & parity on convenience & UX with Web2 services:
 

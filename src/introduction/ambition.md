@@ -1,4 +1,4 @@
-## The ambition
+# The ambition
 
 [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System), [Filecoin](https://en.wikipedia.org/wiki/Filecoin), [Sia](https://sia.tech/) & [Arweave](https://arwiki.wiki/) are the drivers, Headjack is the filesystem, and the collection of media & services built on top will be the global OS. Moving to a data-centric model where everything is addressable under a common global namespace would force applications to be [interoperable](https://balajis.com/yes-you-may-need-a-blockchain/) - unlocking unbounded [composability](https://twitter.com/cdixon/status/1451703067213066244).
 
