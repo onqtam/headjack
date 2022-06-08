@@ -17,6 +17,7 @@ https://www.alexbeckett.xyz/the-economics-for-rollup-fees/
 https://www.alexbeckett.xyz/the-path-toward-scaling-rollups/
 https://www.alexbeckett.xyz/the-benefits-of-optimistic-rollups-compared-to-zk-rollups/
 https://www.alexbeckett.xyz/a-snapshot-of-the-current-rollup-ecosystem/
+https://www.alexbeckett.xyz/decentralized-sequencers-where-do-we-go-next/
 https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb
 https://medium.com/starkware/data-availability-e5564c416424
 
