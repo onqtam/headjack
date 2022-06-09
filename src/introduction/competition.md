@@ -1,16 +1,10 @@
-
-
-
-Contrast this to what the [other attempts](competition.md).
-
-
 ## What other attempts are missing
 
 A list of problems with the contenders in the decentralized identity/media space:
 
-- No credible path to [web-scale](../introduction/web_scale.md) - many will hit a wall even at 1 million. Most are vague around their scalability & data structure and don't put it [front and center](../implementation/scaling.md) as they should - obfuscating the most important bit. Instead of specifying NFT standards for accounts & developer APIs, start with the data and work up from that.
+- No credible path to [web-scale](../introduction/web_scale.md) - many will hit a wall even at 1 million users. Most are vague around their scalability & data structure and don't put it [front and center](../implementation/scaling.md) as they should - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.
 
-- Some are overengineered & complicated - even distributed systems professionals have a hard time figuring out how they work & what their limits are. Why build on something that soon may not be around and others are having a hard time in understanding it just like you?
+- Overengineered & complex - even distributed systems professionals have a hard time figuring out how some of these protocols work & what their limits are. Why build on something that others are probably having a hard time understanding as well and soon may not be around?
 
 - Too financialized & trying to do too much - profiles & posts as NFTs, marketplaces, fan coins, tipping, content creator incentives.
     > "However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start." - [Jay Gerber](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970)
@@ -20,57 +14,24 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Linking online identity to financial accounts on Ethereum/Solana/etc will have unintended consequences - a bad default.
 
-- Some lack an incentive layer to store the identity/graph data which adds a lot of complexity for anyone who wishes to build around them - too much flexibility & lack of direction.
+- Some lack an incentive layer to store the identity/graph data which adds a lot of complexity for anyone building on top of them - too much flexibility, open questions & lack of direction.
     > "consistency is incredibly important for creating a compelling user experience" - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
 
-- Some lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and lead to fragmentation and [no discoverability](https://github.com/mastodon/mastodon/issues/9529) - what's the network effect flywheel?
+- Some lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) (usually the federated ones) and lead to fragmentation and [no discoverability](https://github.com/mastodon/mastodon/issues/9529).
 
 - Most are solving just identity & the graph - without easy & stable content addressability.
 
-- Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around key management (rotations, authorizations, sessions & revocations) but the problem of the data availability of the committed actions remains unsolved.
+- Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around key management (rotations, authorizations, sessions & revocations) but the problem of the data availability of the committed actions remains unsolved and fragmented solutions around it would just lead to extra complexity.
+
+- Some are focused on a specific type of social networking and not general enough.
+
+## What Headjack gets right
 
 
-
-
-
-
-
-A lot of the current winners/contenders in the web3 space are the ones that rushed ahead with incomplete technology to grab as much market share as possible.
-
-
-
+You might need a specialized blockchain in order to compete.
 
 
 This is not to say that headjack doesn't have its fair share of tradeoffs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## What Headjack gets right
 
 - Napkin math is clear
 - Best set of compromises for UX/DX because of delegation
@@ -111,7 +72,7 @@ Finance is about specific accounts & energy preservation - no double spends. UTX
 
 
 
-## Specifics:
+## Concrete projects:
 
 Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!
 
@@ -155,8 +116,6 @@ https://discord.com/channels/901233976138682388/901234959623286825/9594201144726
 My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?
 Also how big do you see the graph getting? My napkin math for Twitter's 400M users and 700 average connections shows that if using simple 4 byte integers as IDs (no pubkeys/signatures/DIDs) would require 1.1TB of data for the most compact version of the graph (each ID would have an array of IDs that it follows) being able to answer queries like who does X follow and for queries like who follows X the data would need to be 2x bigger (another set of arrays). In reality it would be much more because of other metadata, keys, signatures, bigger integers (to support more than 4 billion indexes), database overhead, etc. Thoughts? 
 
-Ceramic has been a source of inspiration but it lacks 
-
 
 
 
@@ -178,9 +137,9 @@ cyberconnect lacks the ability to anchor content & have it easily addressable & 
 
 ### [Farcaster](https://www.farcaster.xyz/)
 
+Perhaps the most interesting approach from all others.
 
-
-
+push vs pull model and the use of delegated interfaces that batch user content
 
 
 ### [Project Liberty](https://www.projectliberty.io/)
@@ -192,71 +151,27 @@ Similar to "project liberty" founded in 2020 (paper - Decentralized Social Netwo
 - Using smart contracts for identities - opinionated & slow
 - Not the right team - 100m$ dumped by a billionaire, very little activity
 
-
-
-TODO: zion
-
-
-SSB, ActivityPub, Matrix - inferior, too segregated or opinionated/limited
-
-
-
-
-
 ### [DeSo](https://www.deso.org/)
 
-It has [flatlined](https://www.openprosper.com/stats/deso-dashboard).
+It requires wallets & users pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html). It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has [flatlined](https://www.openprosper.com/stats/deso-dashboard). It did reach [1.66$ billion market cap](https://www.coingecko.com/en/coins/deso) on the 2nd of October 2021 shortly after being listed.
 
-DeSo - It is doing too much
-Cannot scale to billions despite planned sharding
-It financializes everything - fan coins and whatnot
-Requires users to pay for every interaction
+### Others
 
-
-### [Minds.com](https://www.minds.com/)
-problems: token-oriented, opinionated, ethereum-based, clusterfuck of financial incentives around the $MINDS token
+For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid & others please refer to the excellent [ecosystem review](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20) by the Bluesky project. Other good resources include:
+- [Decentralized Social Networks](https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53) - Jay Gerber
+- [Blockchain Social Networks](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970) - Jay Gerber
+- There are [many other projects](https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8) in this space.
 
 
 
 
 
-
-
-
-
-https://violet.co/
-Violet Protocol
-https://twitter.com/violetprotocol/status/1426183676686176264
-
-
-
-TWITTER ECOSYSTEM REVIEW
-https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20
-https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53
-https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970
-
-
-
-== == == == == == == == == == == == == == == == == == == == == == == == == == == == 
-== FARCASTER:
-== == == == == == == == == == == == == == == == == == == == == == == == == == == == 
-
-biggest difference with farcaster is the push vs pull model and the use of delegated interfaces that batch user content
-
-
-The network effect is not related to data fetching and the implementation of that but of stable data addressing and user connections. Farcaster is implementing the wrong thing
-
-
-You might need a specialized blockchain in order to compete.
 
 My ultimate goal is to build on top of an open social graph and create new interfaces for displaying, sharing & interacting with data. I can provide a full list of everything I'd want from the web.
-
-Design for 1B ppl from day 1
 
 - Why Ethereum?
     - what would the setup look like for 1B ppl? Is building your own chain an option at some point?
     - because of the ability to sell the handle as an nft? Markets can be done on a specialized chain too
-
 
 - syncing the activity of specific accounts (those who you follow) vs all accounts by default
     - your idea makes that easy
@@ -281,13 +196,10 @@ Design for 1B ppl from day 1
 
 
 
-- For access control management you need guaranteed data availability & sequencing
+- For access control management you need guaranteed data availability & sequencing - logical centralization
     - my design makes that very easy
 
 In my design no special-purpose nodes are required - IPFS & ceramic streams can be leveraged
-
-FARCASTER TODO: I don't get the peer2peer part of it & the nodes & stuff
-
 
 
 
@@ -304,31 +216,6 @@ FARCASTER TODO: I don't get the peer2peer part of it & the nodes & stuff
     - can this handle 50MB/s of traffic?
     - why not use IPFS/Ceramic streams & a global sequencer like my idea?
 
-
-
-- your design better guarantees the data availability of the content from a user
-
-
-Hello Varun,
-
-I had a call with Avichal from Electric Capital yesterday because I was pitching him an idea how to decentralize the social graph but at scale, and he mentioned that I should look at Farcaster. There's overlap and 
-
-I'm 100% on board with the idea of putting content off-chain
-
-equity - token? normal company?
-
-You mention Solidity & Ethereum addresses - will the registry live there?
-
-Not US timezone - I'm from Europe. But I could move to an American time zone
-
-Why Solidity... Why general-purpose smart contracts
-
-
-- unique indexes vs handles
-
-- integers for users/interfaces/blocks/nonces are important for referencability & indexability
-
-
 - with on-chain delegation & sequencing (the concept of time) users may not need pubkeys for the messages they have signed because those messages will reference interface nonces & blocks so spoofing will still not be possible
 
 
@@ -337,17 +224,10 @@ Why Solidity... Why general-purpose smart contracts
 
 - multiple hosts at the same time?
 
-- will you have a token and how would it accrue value? what is this 1% equity you offer for new hires?
-- AFAIU hosts only deal with storing data, but many different & competing interfaces could be built that utilize the hosts for data storage?
-
 - delegation could be implemented in your system as well.
     delegation is key!
 
 - I think the Host Directory should go on chain too!
-
-- sequencing & anchoring is important !!!
-
-- what is the long-term vision of the project - it's own chain?
 
 - isn't this design very poll-heavy? What if there are 1 billion users and each of them generates 2-3 follow events per day?
 
@@ -364,18 +244,11 @@ Why Solidity... Why general-purpose smart contracts
 
 
 - on-chain registry's performance when checking for duplicate names?
-    not a problem IMHO
+    specialized chains will dominate
 
-- smart contracts user for things like "a feature where you can restrict replies to a message to users who own a specific asset"
+- questions around identity and handles and how they are linked and what if one changes...
 
 - any way to make it possible for users to not need keypairs and just use plain old email login? Something like OAuth with the ability to later bind a keypair to a user identity if need be? Delegation & access control management?
-
-- what I can do
-    - presenting, meme lording, writing text
-
-
-- shouldn't it be called farcast & the users a farcaster?
-    - dont send this.
 
 - signing every message & action is a PITA - would prohibit true mass adoption
 
@@ -398,10 +271,6 @@ Why Solidity... Why general-purpose smart contracts
 - light clients that can be ran locally by users would benefit from a poll architecture as opposed to mine :|
     - why not merge both and provide both ways of getting data?
 
-
-- My architecture isn't poll-based and has it's own chain that stores the follow graph along with 
-
-- farcaster is also compatible with hosts managing your keys
 
 - if a managed host responsible for millions of accounts goes away, how much time would it take for everyone to update the URLs to their hosts through the Ethereum contract?
 
