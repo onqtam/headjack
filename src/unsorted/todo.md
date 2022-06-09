@@ -1,5 +1,8 @@
 
 
+- Push vs Pull: Some are architected around pulling data explicitly and don't have an easy way to just subscribe without continuously polling for new events.
+
+`"consistency is incredibly important for creating a compelling user experience"` - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
 
 - fix the IDM & other links
 
@@ -144,6 +147,13 @@ https://en.wikipedia.org/wiki/Object-capability_model
 https://en.wikipedia.org/wiki/RDFa
 
 
+look into DID methods
+https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods
+
+https://identity.foundation/
+
+
+
 
 by addressing data and using different views to browse it we minimize the effect of phishing. but what about custom JS websites?
     messages that are viewable only through a specific view?
@@ -158,9 +168,6 @@ TODO: address private media & graphs
 can this displace SSL in addition to DNS?
 
 
-
-"tl;dr We haven't achieved the required level of software/hardware abstraction for everyone to self host"
-https://news.ycombinator.com/item?id=25734052
 
 this tbh...
 https://news.ycombinator.com/item?id=25735773

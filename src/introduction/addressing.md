@@ -56,6 +56,9 @@ The network effect is not related to data fetching and the implementation of tha
 
 
 
+not just self-certifying data addressable by hash, but also by a pretty URL!
+
+
 
 
 

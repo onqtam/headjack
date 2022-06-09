@@ -63,6 +63,9 @@ TODO: sharding?
 - trivial sharding - there's no problem such as fracturing liquidity or preventing composability because entities live on different shards - they just point to each other and the bulk of the action takes place off-chain anyway
 
 
+needs the right abstraction if accounts are migrating from one shard to another - interfaces & IDMs shouldn't need to care
+
+
 shard id
 
 If handles are permanent to shards then their allocation to shards can be managed in the beacon chain and it can be consulted when following urls to content - so that the shard idx doesnt have to be in the urls

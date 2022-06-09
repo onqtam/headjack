@@ -150,6 +150,7 @@
 <p>TODO: designed from first principles</p>
 <ul>
 <li>starting from the data to figure out how to scale to billions</li>
+<li>what would be the best UX</li>
 <li>logical centralization only for what really matters - key management &amp; authorization</li>
 <li>decentralized storage of the most valuable thing - the interest graph</li>
 </ul>
@@ -211,7 +212,7 @@
 <hr />
 <p>Think of it as an <a href="https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self describing messages, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity, connections &amp; authorization are on-chain and have guaranteed storage &amp; retrievability whereas all data objects are just cryptographically anchored and stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>) - durability &amp; retrievability is on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees. Another way to look at it is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network similar to <a href="https://kafka.apache.org/intro">Kafka</a> where accounts are treated as topics to which anyone can subscribe to - a notification highway. This is a generalization of Jack's <a href="https://twitter.com/jack/status/1204766078468911106">vision for decentralizing Twitter</a>.</p>
 <blockquote>
-<p>&quot;The internet is the computer but it's missing identity and <a href="https://en.wikipedia.org/wiki/Access-control_list">acls</a>&quot; - <a href="https://news.ycombinator.com/item?id=25734612">someone</a>.</p>
+<p>&quot;The internet is the computer but it's missing identity and <a href="https://en.wikipedia.org/wiki/Access-control_list">acls</a>.&quot; - <a href="https://news.ycombinator.com/item?id=25734612">someone</a>.</p>
 </blockquote>
 <p>Key &amp; session management (rotation, authorization &amp; revocation) <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">require</a> ordering that is <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logically centralized</a>. This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (<code>&quot;X follows Y&quot;</code> only affects <code>X</code>) and that is <a href="introduction/scaling.html">provable with easy to grasp napkin math</a>. It is compatible with any type of <a href="https://www.w3.org/TR/did-core/">DID</a> - anything could be associated with an integer ID.</p>
 <p>TODO: Just publishing vector commitments (Merkle roots) adds a lot more complexity around making the committed data available &amp; retrievable - putting as much as possible on-chain is a simpler model.</p>
@@ -271,6 +272,7 @@ STABILITY !!!</li>
 </ul>
 <p>TODO: talk about PUSH vs PULL &amp; how that relates to RSS - on the main page.</p>
 <p>The network effect is not related to data fetching and the implementation of that but of stable data addressing and user connections.</p>
+<p>not just self-certifying data addressable by hash, but also by a pretty URL!</p>
 <p>Headjack - free the world's information by making it portable &amp; addressable</p>
 <p>Data needs to be removed from the grip of host/app-centric monopolies</p>
 <p>interlinking data and allowing different views to be used will reduce the effect of echo chambers</p>
@@ -294,110 +296,92 @@ https://en.wikipedia.org/wiki/Linked_data</p>
 <img src="https://i.imgflip.com/68ut9w.jpg" align="right" style="margin-left: 8px;">
 <p>It is highly improbable that the masses (and even most crypto natives) would tolerate services that are much worse (slow, limited &amp; cumbersome) and <a href="introduction/competition.html">most of the attempts for decentralizing media</a> are nowhere close. We need to be realistic and focus on the essence - Headjack decentralizes only the most important part of monopolies - the identity &amp; interest graphs, and thus leveling the playing field for competition. It accomplishes this by compact graph representation and avoiding the need for keypairs &amp; signatures by default through an on-chain authorization mechanism while maintaining the optionality for anyone to be fully self-sovereign &amp; explicit - acting as a base layer for competing &amp; interoperable services. It also facilitates data-centric addressing of content under a global namespace which further disincentivizes hoarding data in silos. But Web2 isn't going anywhere - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html"><code>&quot;market dynamics and the fundamental forces of centralization&quot;</code></a> dictate that the best services will be running on huge server racks in data centers with sophisticated caches &amp; batch processing infrastructure behind familiar UX. The difference will be that users will be able to cryptographically prove content and will be able to leave any of these interfaces for better ones if their offering degrades.</p>
 <p>Anyone would still be able to run software locally, interact with the ecosystem, and fetch content &amp; interactions from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real time.</p>
-<div style="break-before: page; page-break-before: always;"></div><h2 id="what-other-attempts-are-missing"><a class="header" href="#what-other-attempts-are-missing">What other attempts are missing</a></h2>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="what-other-attempts-are-missing"><a class="header" href="#what-other-attempts-are-missing">What other attempts are missing</a></h1>
 <p>A list of problems with the contenders in the decentralized identity/media space:</p>
 <ul>
 <li>
-<p>No credible path to <a href="introduction/../introduction/web_scale.html">web-scale</a> - many will hit a wall even at 1 million users. Most are vague around their scalability &amp; data structure and don't put it <a href="introduction/../implementation/scaling.html">front and center</a> as they should - obfuscating the most important bit. Instead of focusing on NFTs &amp; developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.</p>
-</li>
-<li>
-<p>Overengineered &amp; complex - even distributed systems professionals have a hard time figuring out how some of these protocols work &amp; what their limits are. Why build on something that others are probably having a hard time understanding as well and soon may not be around?</p>
+<p>No credible path to <a href="introduction/../introduction/web_scale.html">web-scale</a> - some will hit a wall even at 1 million users. Most are vague around their scalability &amp; data structure and don't put it <a href="introduction/../implementation/scaling.html">front and center</a> - obfuscating the most important bit. Instead of focusing on NFTs &amp; developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.</p>
 </li>
 <li>
 <p>Too financialized &amp; trying to do too much - profiles &amp; posts as NFTs, marketplaces, fan coins, tipping, content creator incentives.</p>
-<blockquote>
-<p>&quot;However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start.&quot; - <a href="https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970">Jay Gerber</a></p>
-</blockquote>
+<p><code> &quot;However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start.&quot;</code> - <a href="https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970">Jay Gerber</a></p>
 </li>
 <li>
 <p>Users shouldn't need to use a token, use a wallet, or self-host to benefit from decentralized identity &amp; an open interest graph. Most people will always use custodial services.</p>
-<blockquote>
-<p>&quot;People don’t want to run their own servers, and never will.&quot; - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">Moxie</a></p>
-</blockquote>
+<p><code>&quot;People don’t want to run their own servers, and never will.&quot;</code> - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">Moxie</a></p>
 </li>
 <li>
 <p>Linking online identity to financial accounts on Ethereum/Solana/etc will have unintended consequences - a bad default.</p>
 </li>
 <li>
-<p>Some lack an incentive layer to store the identity/graph data which adds a lot of complexity for anyone building on top of them - too much flexibility, open questions &amp; lack of direction.</p>
-<blockquote>
-<p>&quot;consistency is incredibly important for creating a compelling user experience&quot; - <a href="https://signal.org/blog/the-ecosystem-is-moving/">Moxie</a></p>
-</blockquote>
+<p>Federated ones lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> which leads to fragmentation and <a href="https://github.com/mastodon/mastodon/issues/9529">no discoverability</a>.</p>
 </li>
 <li>
-<p>Some lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> (usually the federated ones) and lead to fragmentation and <a href="https://github.com/mastodon/mastodon/issues/9529">no discoverability</a>.</p>
+<p>Some are solving just identity &amp; the graph - without easy &amp; stable <a href="introduction/../introduction/addressing.html">content addressability</a>.</p>
 </li>
 <li>
-<p>Most are solving just identity &amp; the graph - without easy &amp; stable content addressability.</p>
+<p>Some use chains such as Ethereum for <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> &amp; store vector commitments (Merkle roots) for events around <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">key management</a> (rotations, authorizations, sessions &amp; revocations) but the problem of the data availability for whatever is committed remains unsolved and different solutions around it would lead to complexity.</p>
 </li>
 <li>
-<p>Some use chains such as Ethereum for <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> &amp; store vector commitments (Merkle roots) for events around key management (rotations, authorizations, sessions &amp; revocations) but the problem of the data availability of the committed actions remains unsolved and fragmented solutions around it would just lead to extra complexity.</p>
+<p>Some lack an incentive layer and/or are focused on specific types of social media.</p>
 </li>
 <li>
-<p>Some are focused on a specific type of social networking and not general enough.</p>
+<p>Complexity &amp; lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work &amp; what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around?</p>
 </li>
 </ul>
-<h2 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h2>
-<p>You might need a specialized blockchain in order to compete.</p>
-<p>This is not to say that headjack doesn't have its fair share of tradeoffs</p>
+<h1 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h1>
 <ul>
-<li>Napkin math is clear</li>
-<li>Best set of compromises for UX/DX because of delegation
-<ul>
-<li>No need for keys &amp; ability to revoke access</li>
-<li>Compactness of data</li>
-</ul>
+<li>
+<p>A specialized blockchain is required. Finance is mostly about specific accounts &amp; energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking &amp; archiving on a massive scale - it can't be built on financial infrastructure.</p>
 </li>
-<li>UNIX philosophy: does just 1 thing - social graph (&amp; anchoring)</li>
-<li>KISS: needs to be simple &amp; obvious that it can scale ⇒ worth building on top of
-<ul>
-<li>&amp; not opinionated and trying to do everything</li>
-</ul>
+<li>
+<p><a href="introduction/../implementation/scaling.html">Napkin math for web-scale</a> is clear and front and center.</p>
 </li>
-<li>Everything else follows from data availability &amp; access to the social graph</li>
+<li>
+<p>Best set of compromises for UX/DX because of the <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> and the use of identity managers (<a href="introduction/../ecosystem/IDM.html">IDMs</a>) for on-chain authorization of interfaces - less need for keys &amp; signatures!</p>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Unix_philosophy">UNIX philosophy</a>: focus only on identity &amp; the interest graph and don't try to do everything. It doesn't impose constraints on what could be built around it - <a href="https://en.wikipedia.org/wiki/Separation_of_concerns">separation of concerns</a>.</p>
+</li>
+<li>
+<p>Integers are the most well known and easy to work with data type - compact, faster/easier indexing &amp; querying versus content addressing, hashes, pubkeys &amp; signatures.</p>
+</li>
+<li>
+<p><a href="introduction/../introduction/addressing.html">Content addressability</a> with stable URLs.</p>
+</li>
 </ul>
-<p>Headjack is very upfront with its data scalability &amp; structure because that is the crux of it.</p>
-<ul>
-<li>Integers are the most well known and easy to work with data type
-faster/easier indexing &amp; queries than content addressing, hashes, keypairs &amp; signatures</li>
-</ul>
-<p>Compatible with any DID - just a graph &amp; Idx/keys/DIDs associations
-No problem linking/using multiple keys (also different signature algos)
-Just publish the pubkey &amp; sign a message with the private keys</p>
-<p>separation of concerns
-separation of concerns - UNIX philosphy - solve 1 vertical well
-https://en.wikipedia.org/wiki/Separation_of_concerns</p>
-<p>Headjack does not assume that the economy built around it would be paid in its own native token - any type of micro payment or business model can be done using any other tech - the native token is strictly for paying for block space. - separation of concerns
-It makes no assumptions nor impose constraints for what would be built around it and how to make it self-sustaining</p>
-<p>main advantages for headjack</p>
-<ul>
-<li>uniform addressability, deduplicating content, much more referencability</li>
-<li>push vs pull for updates</li>
-<li>separating views from infrastructure - infra can be distributed</li>
-</ul>
-<p>Finance is about specific accounts &amp; energy preservation - no double spends. UTXOs need to reference only a few other UTXOs - a linear chain. Media is about aggregation, data storage, retrievability &amp; referencability on a massive scale - it shouldn't be built on top of financial infrastructure.</p>
-<h2 id="concrete-projects"><a class="header" href="#concrete-projects">Concrete projects:</a></h2>
+<h1 id="concrete-projects"><a class="header" href="#concrete-projects">Concrete projects:</a></h1>
 <p>Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
-<p>Всичко се пази он-чейн и не се използва специализиран блокчейн - обречено е да не може да скалира. Дори и да проима някакъв адопшън - какво се очаква да направят когато се ударят лимитите на Полигон? Да си направят собствен смарт контракт чейн? Или да разкарат дори Solidity-то и да си направят специализиран чейн без смарт контракти - нещо като DeSo? DeSo също е обречено за уеб скейл:
-https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html</p>
-<p>Никой сериозен не би се хванал да строи около Ленс защото е просто играчка и хората от Aave нямат опит с уеб2 компании като Туитър/Реддит с реален мащаб. Нямат страница където да говорят за скалиране, ботълнекс, примери за бройки и роуд мап - а това е най-важното за такъв тип проект - или го крият, или не са го мислили въобще.</p>
-<p>Но ще е добре да им прочета документацията и по-конкретно authentication и дали изизкват keypairs от потребителите или се ползва някакъв техен сървър и няма да трябва да подписваш всеки един лайк и коментар.</p>
-<h3 id="bluesky"><a class="header" href="#bluesky"><a href="https://blueskyweb.org/">Bluesky</a></a></h3>
-<p>TODO: re-read and take parts from this:
-https://github.com/bluesky-social/adx/blob/main/architecture.md</p>
 <ul>
 <li>
-<p>email as username - what about spam because email is public?
-https://webfinger.net/
-or not really an email, although looks like it</p>
+<p>Deployed on Polygon - even it is not nearly scalable enough for even a few million usersof a social media. Also it is not sufficiently decentralized yet.</p>
 </li>
 <li>
-<p>relies on DNS for the part after the @ - centralization point</p>
+<p>Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles &amp; posts - a lot less optimal.</p>
 </li>
 <li>
-<p>DID Consortium - centralization
-instead of a consortium &amp; a transparency log this should be a self-supporting blockchain network.</p>
+<p>Keypairs &amp; wallets required. <code>TODO: revisit this + their kind of authentication</code></p>
+</li>
+<li>
+<p>They store even the content on-chain instead of just the accounts. This cannot scale globally for all use cases.</p>
+</li>
+</ul>
+<h3 id="bluesky"><a class="header" href="#bluesky"><a href="https://blueskyweb.org/">Bluesky</a></a></h3>
+<p>Their architecture: <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md">link</a></p>
+<ul>
+<li>
+<p>email as username ==&gt; resolve to a <a href="https://www.w3.org/TR/did-core/">DID</a> with <a href="https://webfinger.net/">WebFinger</a></p>
+<ul>
+<li>relies on DNS for the part after @ - centralization point</li>
+</ul>
+</li>
+<li>
+<p>DID Consortium - centralization point</p>
+<ul>
+<li>instead of a consortium &amp; a transparency log this should be a self-supporting blockchain network.</li>
+<li>users can lose their social graph and/or be kicked off entirely</li>
+</ul>
 </li>
 <li>
 <p>DID may change - stability is not 100% guaranteed - may break links between users in the graph</p>
@@ -568,9 +552,6 @@ specialized chains will dominate</p>
 </li>
 <li>
 <p>AFAIU any number of different interfaces/frontends could be implemented that could work with your host? So a host is providing access to your data &amp; actions that you have signed, and any number of interfaces (twitter, youtube, medium, reddit) could be using your host to store the data once you generate it?</p>
-</li>
-<li>
-<p>have you thought about the push vs pull design and if it's possible to combine the 2 to provide the best performance &amp; usability for devs?</p>
 </li>
 <li>
 <p>I don't like this poll-heavy design - instead I think all content should be merklized &amp; andvertized on a chain and interfaces should simply process all data by default</p>
@@ -1214,6 +1195,7 @@ https://imgur.com/a/19NV1YR</p>
 </li>
 <li>trivial sharding - there's no problem such as fracturing liquidity or preventing composability because entities live on different shards - they just point to each other and the bulk of the action takes place off-chain anyway</li>
 </ul>
+<p>needs the right abstraction if accounts are migrating from one shard to another - interfaces &amp; IDMs shouldn't need to care</p>
 <p>shard id</p>
 <p>If handles are permanent to shards then their allocation to shards can be managed in the beacon chain and it can be consulted when following urls to content - so that the shard idx doesnt have to be in the urls</p>
 <p>Twitter: 400M users (220 MAU), average connections: 700
