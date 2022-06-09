@@ -5,6 +5,7 @@
     - [Core idea](introduction/core_idea.md)
     - [Content addressing](introduction/addressing.md)
     - [Web-scale & UX](introduction/web_scale.md)
+    - [Competition](introduction/competition.md)
     - [The ambition](introduction/ambition.md)
 
 # Motivation
@@ -12,7 +13,6 @@
 - [Why](motivation/why.md)
 - [Possibilities](motivation/possibilities.md)
 - [Startup case study](motivation/startup_case_study.md)
-- [Competition](motivation/competition.md)
 
 # Ecosystem
 <!-- - [Ecosystem]() -->

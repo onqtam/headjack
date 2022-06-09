@@ -9,6 +9,7 @@ The following chapters convey the bulk of the idea:
 - [Core idea](introduction/core_idea.md)
 - [Content addressing](introduction/addressing.md)
 - [Web-scale & UX](introduction/web_scale.md)
+- [Competition](introduction/competition.md)
 - [The ambition](introduction/ambition.md)
 
 <div style="text-align: center;">

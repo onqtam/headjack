@@ -6,50 +6,31 @@ Contrast this to what the [other attempts](competition.md).
 
 ## What other attempts are missing
 
-This is a list of some of the problems with the solutions in the decentralized media space:
+A list of problems with the contenders in the decentralized identity/media space:
 
+- No credible path to [web-scale](../introduction/web_scale.md) - many will hit a wall even at 1 million. Most are vague around their scalability & data structure and don't put it [front and center](../implementation/scaling.md) as they should - obfuscating the most important bit. Instead of specifying NFT standards for accounts & developer APIs, start with the data and work up from that.
 
-Most projects never expose front and center their data structures and a credible path to scale - the focus goes on everything else besides the data but in complex systems the data structure dictates what is possible
-
-
-
-- No credible path to [web-scale](../introduction/web_scale.md) - many will hit a wall even at 1 million.
-    - Most are vague around their scalability & data structure and don't put it up-front anywhere - obfuscating the most important bit. Instead of specifying NFT standards for accounts & developing APIs, start with the data and work up from that.
-
-- Some are overengineered & complicated - even distributed systems professionals have a hard time figuring out how they work & what their limits are. Why build on something that soon may not be around?
+- Some are overengineered & complicated - even distributed systems professionals have a hard time figuring out how they work & what their limits are. Why build on something that soon may not be around and others are having a hard time in understanding it just like you?
 
 - Too financialized & trying to do too much - profiles & posts as NFTs, marketplaces, fan coins, tipping, content creator incentives.
-
-    > "However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start." - [Jay Gerber]
-    
-    https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970
-
-
+    > "However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start." - [Jay Gerber](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970)
 
 - Users shouldn't need to use a token, use a wallet, or self-host to benefit from decentralized identity & an open interest graph. Most people will always use custodial services.
+    > "People don’t want to run their own servers, and never will." - [Moxie](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
-- Linking IDs to financial accounts on Ethereum/Solana/etc by default is misguided.
+- Linking online identity to financial accounts on Ethereum/Solana/etc will have unintended consequences - a bad default.
 
-- Some lack an incentive layer to store the identity/graph data.
+- Some lack an incentive layer to store the identity/graph data which adds a lot of complexity for anyone who wishes to build around them - too much flexibility & lack of direction.
+    > "consistency is incredibly important for creating a compelling user experience" - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
 
-- Some lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and lead to fragmentation and no discoverability - what's the network effect flywheel?
+- Some lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and lead to fragmentation and [no discoverability](https://github.com/mastodon/mastodon/issues/9529) - what's the network effect flywheel?
 
-- Some are solving just Identity and/or the interest graph - without easy or stable content addressability.
+- Most are solving just identity & the graph - without easy & stable content addressability.
 
 - Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around key management (rotations, authorizations, sessions & revocations) but the problem of the data availability of the committed actions remains unsolved.
 
 
 
-
-
-
-no more fragmentation & problems with discovery
-https://github.com/mastodon/mastodon/issues/9529
-"consistency is incredibly important for creating a compelling user experience"
-ALSO on the fracturing of federated services/protocols and stalling of innovation
-https://signal.org/blog/the-ecosystem-is-moving/
-also on this topic
-https://moxie.org/2022/01/07/web3-first-impressions.html
 
 
 
@@ -306,14 +287,6 @@ Design for 1B ppl from day 1
 In my design no special-purpose nodes are required - IPFS & ceramic streams can be leveraged
 
 FARCASTER TODO: I don't get the peer2peer part of it & the nodes & stuff
-
-
-
-Is there any way I could ask your team some questions? Some group chat perhaps?
-
-I'd love to pick your brains and also share my design - it's also minimalistic in terms of what goes on chain
-
-I've done an analysis of your solution vs mine with pros/cons and how they could be merged.
 
 
 
