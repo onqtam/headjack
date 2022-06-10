@@ -174,3 +174,5 @@ what services will spring up:
 
 
 Bootstrapping the global hivemind
+
+imagine how hard it would be to push deepfake clips if the norm for clips is to share the full episode uploaded by a trusted entity with a specific range - we shouldn't accept reuploads of clips out of context
