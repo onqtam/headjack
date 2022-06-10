@@ -95,3 +95,6 @@ https://www.sciencedirect.com/science/article/pii/S2405844020323835
 https://github.com/bluesky-social/adx/blob/main/architecture.md
 
 
+https://github.com/bluesky-social/adx/blob/main/architecture.md#moderation
+
+

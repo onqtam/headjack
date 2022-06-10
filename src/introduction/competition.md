@@ -42,6 +42,10 @@ A list of problems with the contenders in the decentralized identity/media space
 
 TODO:
 
+- public interest graph (both a pro and a con)
+- private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.
+- updates & deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol
+
 # Concrete projects:
 
 Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!
@@ -80,6 +84,7 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
     - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature.
 
 - DID may change - stability is not 100% guaranteed - may break links between users in the graph
+    TODO: search "chang" in the doc & think
 
 - More complicated than Headjack in terms of standards, addressing, processes, DID management, etc.
 
