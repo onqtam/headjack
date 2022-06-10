@@ -38,6 +38,10 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - [Content addressability](../introduction/addressing.md) with stable URLs.
 
+# Disadvantages of Headjack
+
+TODO:
+
 # Concrete projects:
 
 Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!
@@ -52,24 +56,37 @@ Some of the more high-profile projects in the decentralized identity/media space
 
 - They store even the content on-chain instead of just the accounts. This cannot scale globally for all use cases.
 
-### [Bluesky](https://blueskyweb.org/)
+### [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
 
 Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
 
-- email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
-    - relies on DNS for the part after @ - centralization point
-- DID Consortium - centralization point
-    - instead of a consortium & a transparency log this should be a self-supporting blockchain network.
-    - users can lose their social graph and/or be kicked off entirely
+- Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
+    - Relies on DNS for the part after `@` - centralization point.
+- Consortium of nodes & a *"transparency log"* manage the DID registry.
+    - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) for key rotations) - users can be kicked off.
+    - This should have been a credibly neutral & self-sustaining blockchain.
 
+- Content addressing with hashes by default (versus Headjack's [human-readable URNs](../introduction/addressing.md)).
+
+- Requires the use of keypairs - harder mass adoption - worse UX compared to Headjack.
+    
+    `TODO: is this true?`
+    https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management
+
+- When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS).
+    - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests.
+        - `TODO: think if Headjack's alternative is better at all or with different tradeoffs`
+    - Users can lose their social graph if the PDS they are using loses their data.
+    - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature.
 
 - DID may change - stability is not 100% guaranteed - may break links between users in the graph
-- more complicated than my solution in terms of standards, addressing, processes, DID management, etc.
-- push vs pull for content?
-- users can lose their social graph and/or be kicked off entirely
 
-- tweet with the ecosystem overview: https://twitter.com/bluesky/status/1352302821140549632
+- More complicated than Headjack in terms of standards, addressing, processes, DID management, etc.
 
+Overall a solid effort and could work - very similar to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.
+
+TODO:
+https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions
 
 ### [CyberConnect](https://cyberconnect.me/)
 
@@ -122,7 +139,7 @@ It requires wallets & users pay for every interaction. It puts everything on-cha
 
 ### Others
 
-For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid & others please refer to the excellent [ecosystem review](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20) by the Bluesky project. Other good resources include:
+For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid & others please refer to the excellent [ecosystem review](https://twitter.com/bluesky/status/1352302821140549632) by the Bluesky project. Other good resources include:
 - [Decentralized Social Networks](https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53) - Jay Gerber
 - [Blockchain Social Networks](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970) - Jay Gerber
 - There are [many other projects](https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8) in this space.

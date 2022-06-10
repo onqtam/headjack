@@ -12,6 +12,8 @@ A major component of Headjack is how the off-chain content is addressed.
     But rss is too technical
     Dns got overloaded too many times
 
+TODO: NOT app-centric! because headjack's interfaces should be called applications and applications aren't hosts
+
 - host/app-centric vs data/name centric
     We are dominated by platforms & applications when in reality data is the most important thing - we need to be able to address it.
     host/app-centric addressing needs to go away.
@@ -122,4 +124,6 @@ https://en.wikipedia.org/wiki/Hyperdata
 
 
 
+The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
+https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods
 

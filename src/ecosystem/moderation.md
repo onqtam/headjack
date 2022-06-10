@@ -91,3 +91,7 @@ https://www.pnas.org/doi/10.1073/pnas.2025334119
 https://www.sciencedirect.com/science/article/pii/S2405844020323835
 
 
+> "Separating speech and reach gives indexing services more freedom to moderate."
+https://github.com/bluesky-social/adx/blob/main/architecture.md
+
+

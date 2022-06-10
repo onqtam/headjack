@@ -198,6 +198,8 @@
 <p><a href="../introduction/addressing.html">Content addressability</a> with stable URLs.</p>
 </li>
 </ul>
+<h1 id="disadvantages-of-headjack"><a class="header" href="#disadvantages-of-headjack">Disadvantages of Headjack</a></h1>
+<p>TODO:</p>
 <h1 id="concrete-projects"><a class="header" href="#concrete-projects">Concrete projects:</a></h1>
 <p>Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
@@ -215,38 +217,52 @@
 <p>They store even the content on-chain instead of just the accounts. This cannot scale globally for all use cases.</p>
 </li>
 </ul>
-<h3 id="bluesky"><a class="header" href="#bluesky"><a href="https://blueskyweb.org/">Bluesky</a></a></h3>
+<h3 id="bluesky"><a class="header" href="#bluesky"><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a></a></h3>
 <p>Their architecture: <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md">link</a></p>
 <ul>
 <li>
-<p>email as username ==&gt; resolve to a <a href="https://www.w3.org/TR/did-core/">DID</a> with <a href="https://webfinger.net/">WebFinger</a></p>
+<p>Email as username ==&gt; resolve to a <a href="https://www.w3.org/TR/did-core/">DID</a> with <a href="https://webfinger.net/">WebFinger</a></p>
 <ul>
-<li>relies on DNS for the part after @ - centralization point</li>
+<li>Relies on DNS for the part after <code>@</code> - centralization point.</li>
 </ul>
 </li>
 <li>
-<p>DID Consortium - centralization point</p>
+<p>Consortium of nodes &amp; a <em>&quot;transparency log&quot;</em> manage the DID registry.</p>
 <ul>
-<li>instead of a consortium &amp; a transparency log this should be a self-supporting blockchain network.</li>
-<li>users can lose their social graph and/or be kicked off entirely</li>
+<li>Centralization point (not just <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical</a> for key rotations) - users can be kicked off.</li>
+<li>This should have been a credibly neutral &amp; self-sustaining blockchain.</li>
+</ul>
+</li>
+<li>
+<p>Content addressing with hashes by default (versus Headjack's <a href="../introduction/addressing.html">human-readable URNs</a>).</p>
+</li>
+<li>
+<p>Requires the use of keypairs - harder mass adoption - worse UX compared to Headjack.</p>
+<p><code>TODO: is this true?</code>
+https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management</p>
+</li>
+<li>
+<p>When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS).</p>
+<ul>
+<li>Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests.
+<ul>
+<li><code>TODO: think if Headjack's alternative is better at all or with different tradeoffs</code></li>
+</ul>
+</li>
+<li>Users can lose their social graph if the PDS they are using loses their data.</li>
+<li>The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature.</li>
 </ul>
 </li>
 <li>
 <p>DID may change - stability is not 100% guaranteed - may break links between users in the graph</p>
 </li>
 <li>
-<p>more complicated than my solution in terms of standards, addressing, processes, DID management, etc.</p>
-</li>
-<li>
-<p>push vs pull for content?</p>
-</li>
-<li>
-<p>users can lose their social graph and/or be kicked off entirely</p>
-</li>
-<li>
-<p>tweet with the ecosystem overview: https://twitter.com/bluesky/status/1352302821140549632</p>
+<p>More complicated than Headjack in terms of standards, addressing, processes, DID management, etc.</p>
 </li>
 </ul>
+<p>Overall a solid effort and could work - very similar to <a href="#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.</p>
+<p>TODO:
+https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions</p>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>ceramic network</p>
 <p>https://docs.cyberconnect.me/docs/tech_overview
@@ -276,7 +292,7 @@ Also how big do you see the graph getting? My napkin math for Twitter's 400M use
 <h3 id="deso"><a class="header" href="#deso"><a href="https://www.deso.org/">DeSo</a></a></h3>
 <p>It requires wallets &amp; users pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks &amp; sharding (see <a href="https://docs.deso.org/about-deso-chain/readme">&quot;Phase 4: Sharding&quot;</a>) which is simply not practical for the <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html">true scale of the public web</a>. It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has <a href="https://www.openprosper.com/stats/deso-dashboard">flatlined</a>. It did reach <a href="https://www.coingecko.com/en/coins/deso">1.66$ billion market cap</a> on the 2nd of October 2021 shortly after being listed.</p>
 <h3 id="others"><a class="header" href="#others">Others</a></h3>
-<p>For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid &amp; others please refer to the excellent <a href="https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20">ecosystem review</a> by the Bluesky project. Other good resources include:</p>
+<p>For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid &amp; others please refer to the excellent <a href="https://twitter.com/bluesky/status/1352302821140549632">ecosystem review</a> by the Bluesky project. Other good resources include:</p>
 <ul>
 <li><a href="https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53">Decentralized Social Networks</a> - Jay Gerber</li>
 <li><a href="https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970">Blockchain Social Networks</a> - Jay Gerber</li>

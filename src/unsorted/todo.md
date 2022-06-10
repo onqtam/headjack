@@ -1,5 +1,11 @@
 
 
+
+Namecoin failed. Handshake isn't getting nearly enough adoption.
+
+
+
+
 - Push vs Pull: Some are architected around pulling data explicitly and don't have an easy way to just subscribe without continuously polling for new events.
 
 `"consistency is incredibly important for creating a compelling user experience"` - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
@@ -168,9 +174,10 @@ TODO: address private media & graphs
 can this displace SSL in addition to DNS?
 
 
-
 this tbh...
 https://news.ycombinator.com/item?id=25735773
 
+
+https://en.wikipedia.org/wiki/Hash_array_mapped_trie
 
 

@@ -220,14 +220,15 @@
 <div style="break-before: page; page-break-before: always;"></div><h1 id="addressability-hostapp-vs-dataname-centric"><a class="header" href="#addressability-hostapp-vs-dataname-centric">Addressability: host/app vs data/name centric</a></h1>
 <p>A major component of Headjack is how the off-chain content is addressed.</p>
 <ul>
-<li>
-<p>DNS
+<li>DNS
 DNS was the original “decentralization”.
 RSS was an attempt for the next iteration
 How do you store your friend list?
 But rss is too technical
-Dns got overloaded too many times</p>
-</li>
+Dns got overloaded too many times</li>
+</ul>
+<p>TODO: NOT app-centric! because headjack's interfaces should be called applications and applications aren't hosts</p>
+<ul>
 <li>
 <p>host/app-centric vs data/name centric
 We are dominated by platforms &amp; applications when in reality data is the most important thing - we need to be able to address it.
@@ -291,6 +292,8 @@ https://en.wikipedia.org/wiki/Content_centric_networking</p>
 https://en.wikipedia.org/wiki/Linked_data</p>
 <p>linking data based on URIs in a host-centric internet architecture is inherently flawed - needs to be in a named data paradigm</p>
 <p>https://en.wikipedia.org/wiki/Hyperdata</p>
+<p>The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
+https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
 <p>People grossly underestimate the size of the web and the type of infrastructure that's required - here is what is going on within a single minute <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html"><ins>truly mind-boggling</ins></a> (this is an incomplete picture). Here are some <a href="https://www.internetlivestats.com/twitter-statistics/">twitter</a>, <a href="https://www.internetlivestats.com/google-search-statistics/">google</a> and <a href="https://www.internetlivestats.com/">other</a> statistics from a <strong>decade</strong> ago. A peek behind what it takes to run Twitter is a good case in point: <a href="http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html">1</a>, <a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">2</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization">3</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale">4</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-">5</a>. All of this infrastructure is not just about handling enormous amounts of data but also about great UX &amp; responsiveness: <code>&quot;Latency is not an option anymore&quot;</code> - Amazon <a href="https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales">found</a> that every 100ms of latency cost them 1% in sales. Google <a href="http://glinden.blogspot.com/2006/11/marissa-mayer-at-web-20.html">found</a> an extra 500ms in search page generation time dropped traffic by 20% - 16 years ago - our irritable nature probably hasn't changed.</p>
 <img src="https://i.imgflip.com/68ut9w.jpg" align="right" style="margin-left: 8px;">
@@ -350,6 +353,8 @@ https://en.wikipedia.org/wiki/Linked_data</p>
 <p><a href="introduction/../introduction/addressing.html">Content addressability</a> with stable URLs.</p>
 </li>
 </ul>
+<h1 id="disadvantages-of-headjack"><a class="header" href="#disadvantages-of-headjack">Disadvantages of Headjack</a></h1>
+<p>TODO:</p>
 <h1 id="concrete-projects"><a class="header" href="#concrete-projects">Concrete projects:</a></h1>
 <p>Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
@@ -367,38 +372,52 @@ https://en.wikipedia.org/wiki/Linked_data</p>
 <p>They store even the content on-chain instead of just the accounts. This cannot scale globally for all use cases.</p>
 </li>
 </ul>
-<h3 id="bluesky"><a class="header" href="#bluesky"><a href="https://blueskyweb.org/">Bluesky</a></a></h3>
+<h3 id="bluesky"><a class="header" href="#bluesky"><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a></a></h3>
 <p>Their architecture: <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md">link</a></p>
 <ul>
 <li>
-<p>email as username ==&gt; resolve to a <a href="https://www.w3.org/TR/did-core/">DID</a> with <a href="https://webfinger.net/">WebFinger</a></p>
+<p>Email as username ==&gt; resolve to a <a href="https://www.w3.org/TR/did-core/">DID</a> with <a href="https://webfinger.net/">WebFinger</a></p>
 <ul>
-<li>relies on DNS for the part after @ - centralization point</li>
+<li>Relies on DNS for the part after <code>@</code> - centralization point.</li>
 </ul>
 </li>
 <li>
-<p>DID Consortium - centralization point</p>
+<p>Consortium of nodes &amp; a <em>&quot;transparency log&quot;</em> manage the DID registry.</p>
 <ul>
-<li>instead of a consortium &amp; a transparency log this should be a self-supporting blockchain network.</li>
-<li>users can lose their social graph and/or be kicked off entirely</li>
+<li>Centralization point (not just <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical</a> for key rotations) - users can be kicked off.</li>
+<li>This should have been a credibly neutral &amp; self-sustaining blockchain.</li>
+</ul>
+</li>
+<li>
+<p>Content addressing with hashes by default (versus Headjack's <a href="introduction/../introduction/addressing.html">human-readable URNs</a>).</p>
+</li>
+<li>
+<p>Requires the use of keypairs - harder mass adoption - worse UX compared to Headjack.</p>
+<p><code>TODO: is this true?</code>
+https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management</p>
+</li>
+<li>
+<p>When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS).</p>
+<ul>
+<li>Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests.
+<ul>
+<li><code>TODO: think if Headjack's alternative is better at all or with different tradeoffs</code></li>
+</ul>
+</li>
+<li>Users can lose their social graph if the PDS they are using loses their data.</li>
+<li>The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature.</li>
 </ul>
 </li>
 <li>
 <p>DID may change - stability is not 100% guaranteed - may break links between users in the graph</p>
 </li>
 <li>
-<p>more complicated than my solution in terms of standards, addressing, processes, DID management, etc.</p>
-</li>
-<li>
-<p>push vs pull for content?</p>
-</li>
-<li>
-<p>users can lose their social graph and/or be kicked off entirely</p>
-</li>
-<li>
-<p>tweet with the ecosystem overview: https://twitter.com/bluesky/status/1352302821140549632</p>
+<p>More complicated than Headjack in terms of standards, addressing, processes, DID management, etc.</p>
 </li>
 </ul>
+<p>Overall a solid effort and could work - very similar to <a href="introduction/competition.html#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.</p>
+<p>TODO:
+https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions</p>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>ceramic network</p>
 <p>https://docs.cyberconnect.me/docs/tech_overview
@@ -428,7 +447,7 @@ Also how big do you see the graph getting? My napkin math for Twitter's 400M use
 <h3 id="deso"><a class="header" href="#deso"><a href="https://www.deso.org/">DeSo</a></a></h3>
 <p>It requires wallets &amp; users pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks &amp; sharding (see <a href="https://docs.deso.org/about-deso-chain/readme">&quot;Phase 4: Sharding&quot;</a>) which is simply not practical for the <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html">true scale of the public web</a>. It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has <a href="https://www.openprosper.com/stats/deso-dashboard">flatlined</a>. It did reach <a href="https://www.coingecko.com/en/coins/deso">1.66$ billion market cap</a> on the 2nd of October 2021 shortly after being listed.</p>
 <h3 id="others"><a class="header" href="#others">Others</a></h3>
-<p>For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid &amp; others please refer to the excellent <a href="https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20">ecosystem review</a> by the Bluesky project. Other good resources include:</p>
+<p>For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid &amp; others please refer to the excellent <a href="https://twitter.com/bluesky/status/1352302821140549632">ecosystem review</a> by the Bluesky project. Other good resources include:</p>
 <ul>
 <li><a href="https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53">Decentralized Social Networks</a> - Jay Gerber</li>
 <li><a href="https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970">Blockchain Social Networks</a> - Jay Gerber</li>
@@ -1086,6 +1105,10 @@ https://www.google.com/search?q=shared+blocklists+Twitter&amp;oq=shared+blocklis
 <p>https://twitter.com/ummjackson/status/1531651884288647170</p>
 <p>https://www.pnas.org/doi/10.1073/pnas.2025334119
 https://www.sciencedirect.com/science/article/pii/S2405844020323835</p>
+<blockquote>
+<p>&quot;Separating speech and reach gives indexing services more freedom to moderate.&quot;
+https://github.com/bluesky-social/adx/blob/main/architecture.md</p>
+</blockquote>
 <div style="break-before: page; page-break-before: always;"></div><p>TODO: blockchain.md document with a &quot;why not a rollup&quot; section - or in the FAQ
 https://twitter.com/KirilovVik/status/1531184971896999936
 https://polynya.medium.com/the-sustainability-checklist-d620549425dc</p>
