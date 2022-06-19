@@ -43,6 +43,11 @@ TODO: login with ethereum? globally? no.
 
 - [Content addressability](../introduction/addressing.md) with stable URLs.
 
+one does not simply solve media
+without logically centralizing identity, names, connections & anchoring and attacking them with batching and custodial services
+https://imgflip.com/memegenerator/One-Does-Not-Simply
+
+
 # Disadvantages of Headjack
 
 TODO:
@@ -109,7 +114,25 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions
 
 TBD - web5
 
-identity on bitcoin, using sidetree protocol
+focus is on users storing their own data (self-hosting), running software locally, handling keypairs
+
+- Web5 - just a gimmick - a jab at web3
+    - web-scale aggregation questionable at best
+
+- Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p
+
+
+- Is the DID resolver decentralized?
+
+
+- Only anchors to Bitcoin with vector commitments (Merkle roots) using the [ION](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555) & [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocols.
+    - 10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access.
+- The ION DID network is not incentivized and neither is the anchored content around key management, rotations & revocations on IPFS.
+- Doesn't have a human-readable global name registry - lacks in discoverability.
+- Doesn't have readable content addressability.
+- Can't handle web-scale.
+
+
 
 https://twitter.com/namcios/status/1535302090360250368
 https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E

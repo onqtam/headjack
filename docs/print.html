@@ -145,7 +145,7 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="headjack---the-base-layer-of-cyberspace"><a class="header" href="#headjack---the-base-layer-of-cyberspace">Headjack - the base layer of cyberspace</a></h1>
+                        <h1 id="headjack-wip---the-backbone-of-cyberspace"><a class="header" href="#headjack-wip---the-backbone-of-cyberspace">Headjack (WIP) - the backbone of cyberspace</a></h1>
 <p>Headjack is an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> designed for <a href="introduction/web_scale.html">web-scale</a> social media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and <a href="addressing/addressing.html">content addressability</a> with stable &amp; readable paths resembling <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Name">URNs</a> (instead of hashes) all packaged in a credibly neutral &amp; self-sustaining blockchain. It is <a href="introduction/ambition.html">aiming</a> to disaggregate the giants and end network effect monopolies &amp; data silos by aligning incentives and striking the right balance of tradeoffs - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.</p>
 <p>TODO: designed from first principles</p>
 <ul>
@@ -359,6 +359,9 @@ https://twitter.com/arvanaghi/status/1537519858233008128</p>
 <p><a href="introduction/../introduction/addressing.html">Content addressability</a> with stable URLs.</p>
 </li>
 </ul>
+<p>one does not simply solve media
+without logically centralizing identity, names, connections &amp; anchoring and attacking them with batching and custodial services
+https://imgflip.com/memegenerator/One-Does-Not-Simply</p>
 <h1 id="disadvantages-of-headjack"><a class="header" href="#disadvantages-of-headjack">Disadvantages of Headjack</a></h1>
 <p>TODO:</p>
 <ul>
@@ -439,7 +442,39 @@ TODO: search &quot;chang&quot; in the doc &amp; think</p>
 https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions</p>
 <h3 id="todo-jack-dorseys-new-project"><a class="header" href="#todo-jack-dorseys-new-project">TODO: jack dorsey's new project</a></h3>
 <p>TBD - web5</p>
-<p>identity on bitcoin, using sidetree protocol</p>
+<p>focus is on users storing their own data (self-hosting), running software locally, handling keypairs</p>
+<ul>
+<li>
+<p>Web5 - just a gimmick - a jab at web3</p>
+<ul>
+<li>web-scale aggregation questionable at best</li>
+</ul>
+</li>
+<li>
+<p>Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p</p>
+</li>
+<li>
+<p>Is the DID resolver decentralized?</p>
+</li>
+<li>
+<p>Only anchors to Bitcoin with vector commitments (Merkle roots) using the <a href="https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555">ION</a> &amp; <a href="https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58">Sidetree</a> protocols.</p>
+<ul>
+<li>10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access.</li>
+</ul>
+</li>
+<li>
+<p>The ION DID network is not incentivized and neither is the anchored content around key management, rotations &amp; revocations on IPFS.</p>
+</li>
+<li>
+<p>Doesn't have a human-readable global name registry - lacks in discoverability.</p>
+</li>
+<li>
+<p>Doesn't have readable content addressability.</p>
+</li>
+<li>
+<p>Can't handle web-scale.</p>
+</li>
+</ul>
 <p>https://twitter.com/namcios/status/1535302090360250368
 https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E</p>
 <ul>
