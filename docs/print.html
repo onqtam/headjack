@@ -287,6 +287,7 @@ https://en.wikipedia.org/wiki/RDFa</p>
 https://en.wikipedia.org/wiki/Content_centric_networking</p>
 <p>A global index of all content throughout time in an Information-centric network - a form of named data networking layered on top of the current host-centric model (client-server connections through IP &amp; DNS)</p>
 <p>Differences from NDN: builds on the current internet infrastructure, doesn't have the same packet types and routing concepts - utilizes technologies that are currently available.</p>
+<p>https://twitter.com/hasufl/status/1537388439259291649</p>
 <p>https://en.wikipedia.org/wiki/Future_Internet</p>
 <p>linking data is easier under a common global namespace
 https://en.wikipedia.org/wiki/Linked_data</p>
@@ -296,6 +297,8 @@ https://en.wikipedia.org/wiki/Linked_data</p>
 https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
 <p>People grossly underestimate the size of the web and the type of infrastructure that's required - here is what is going on within a single minute <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html"><ins>truly mind-boggling</ins></a> (this is an incomplete picture). Here are some <a href="https://www.internetlivestats.com/twitter-statistics/">twitter</a>, <a href="https://www.internetlivestats.com/google-search-statistics/">google</a> and <a href="https://www.internetlivestats.com/">other</a> statistics from a <strong>decade</strong> ago. A peek behind what it takes to run Twitter is a good case in point: <a href="http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html">1</a>, <a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">2</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization">3</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale">4</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-">5</a>. All of this infrastructure is not just about handling enormous amounts of data but also about great UX &amp; responsiveness: <code>&quot;Latency is not an option anymore&quot;</code> - Amazon <a href="https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales">found</a> that every 100ms of latency cost them 1% in sales. Google <a href="http://glinden.blogspot.com/2006/11/marissa-mayer-at-web-20.html">found</a> an extra 500ms in search page generation time dropped traffic by 20% - 16 years ago - our irritable nature probably hasn't changed.</p>
+<p>TODO: customer obsession:
+https://twitter.com/arvanaghi/status/1537519858233008128</p>
 <img src="https://i.imgflip.com/68ut9w.jpg" align="right" style="margin-left: 8px;">
 <p>It is highly improbable that the masses (and even most crypto natives) would tolerate services that are much worse (slow, limited &amp; cumbersome) and <a href="introduction/competition.html">most of the attempts for decentralizing media</a> are nowhere close. We need to be realistic and focus on the essence - Headjack decentralizes only the most important part of monopolies - the identity &amp; interest graphs, and thus leveling the playing field for competition. It accomplishes this by compact graph representation and avoiding the need for keypairs &amp; signatures by default through an on-chain authorization mechanism while maintaining the optionality for anyone to be fully self-sovereign &amp; explicit - acting as a base layer for competing &amp; interoperable services. It also facilitates data-centric addressing of content under a global namespace which further disincentivizes hoarding data in silos. But Web2 isn't going anywhere - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html"><code>&quot;market dynamics and the fundamental forces of centralization&quot;</code></a> dictate that the best services will be running on huge server racks in data centers with sophisticated caches &amp; batch processing infrastructure behind familiar UX. The difference will be that users will be able to cryptographically prove content and will be able to leave any of these interfaces for better ones if their offering degrades.</p>
 <p>Anyone would still be able to run software locally, interact with the ecosystem, and fetch content &amp; interactions from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real time.</p>
@@ -319,6 +322,9 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <li>
 <p>Federated ones lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> which leads to fragmentation and <a href="https://github.com/mastodon/mastodon/issues/9529">no discoverability</a>.</p>
 </li>
+</ul>
+<p>TODO: login with ethereum? globally? no.</p>
+<ul>
 <li>
 <p>Some are solving just identity &amp; the graph - without easy &amp; stable <a href="introduction/../introduction/addressing.html">content addressability</a>.</p>
 </li>
@@ -335,7 +341,7 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <h1 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h1>
 <ul>
 <li>
-<p>A specialized blockchain is required. Finance is mostly about specific accounts &amp; energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking &amp; archiving on a massive scale - it can't be built on financial infrastructure.</p>
+<p>A specialized blockchain is required. Finance is mostly about specific accounts &amp; energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking &amp; archiving on a massive scale - it shouldn't be built on financial infrastructure.</p>
 </li>
 <li>
 <p><a href="introduction/../implementation/scaling.html">Napkin math for web-scale</a> is clear and front and center.</p>
@@ -364,6 +370,9 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 </li>
 <li>updates &amp; deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol</li>
 </ul>
+<p>https://vitalik.ca/general/2022/06/12/nonfin.html
+But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
+https://www.opencerts.io/</p>
 <h1 id="concrete-projects"><a class="header" href="#concrete-projects">Concrete projects:</a></h1>
 <p>Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
@@ -428,6 +437,14 @@ TODO: search &quot;chang&quot; in the doc &amp; think</p>
 <p>Overall a solid effort and could work - very similar to <a href="introduction/competition.html#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.</p>
 <p>TODO:
 https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions</p>
+<h3 id="todo-jack-dorseys-new-project"><a class="header" href="#todo-jack-dorseys-new-project">TODO: jack dorsey's new project</a></h3>
+<p>TBD - web5</p>
+<p>identity on bitcoin, using sidetree protocol</p>
+<p>https://twitter.com/namcios/status/1535302090360250368
+https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E</p>
+<ul>
+<li>Decentralized Web Node (DWN)</li>
+</ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>ceramic network</p>
 <p>https://docs.cyberconnect.me/docs/tech_overview
@@ -441,6 +458,10 @@ Also how big do you see the graph getting? My napkin math for Twitter's 400M use
 <p>they don't have the concept of delegating the rights to interfaces/services to update connections &amp; post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth &amp; use email/pass &amp; have recoverability</p>
 <p>they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy</p>
 <p>cyberconnect lacks the ability to anchor content &amp; have it easily addressable &amp; provable - sequencing events globally is underrated.</p>
+<p>https://twitter.com/BaptisteGreve/status/1537061840659922944</p>
+<p>ugly addresses</p>
+<p>https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m</p>
+<p>too many streams, batching </p>
 <h3 id="farcaster"><a class="header" href="#farcaster"><a href="https://www.farcaster.xyz/">Farcaster</a></a></h3>
 <p>Perhaps the most interesting approach from all others.</p>
 <p>push vs pull model and the use of delegated interfaces that batch user content</p>
@@ -550,13 +571,10 @@ delegation is key!</p>
 <p>isn't this design very poll-heavy? What if there are 1 billion users and each of them generates 2-3 follow events per day?</p>
 </li>
 <li>
-<p>the plan seems to be that you'd subsidize gas fees on ethereum in the begining</p>
+<p>the plan seems to be that you'd subsidize gas fees on ethereum in the beginning</p>
 </li>
 <li>
 <p>is a &quot;follow&quot; event part of a &quot;cast&quot; as a signed blob?</p>
-</li>
-<li>
-<p>how would you guard against spam/sybil attack &amp; people capturing the best handles?</p>
 </li>
 <li>
 <p>the &quot;sufficient decentralization&quot; post &amp; the docs don't make this point, but I think multiple interfaces could be using the same (managed) host.
@@ -627,6 +645,11 @@ https://knightcolumbia.org/content/protocols-not-platforms-a-technological-appro
 <p>Ideas should not be sacred - we are just neurons - global &amp; borderless super intelligence</p>
 <p>true uncensorability. The next philosopher to push humanity forward will be anonymous and global. Imagine not checking out what others are checking out more and more - what are the trends. IMAGINE NOT BEING ABLE TO SEE what others are finding most interesting. Most people are rational - let's see what gets the most attention from everyone.</p>
 <p>Echo chambers are intellectual oppression - as opposed to idea labs - treating ideas as experiments - as said by tim urban</p>
+<p>Global <a href="https://en.wikipedia.org/wiki/Common_knowledge_(logic)">common knowledge</a> is important.</p>
+<p>https://twitter.com/pseudotheos/status/1537876807466201088
+&quot;Even a billion dollars of capital cannot compete with a project having a soul.&quot; - 
+@VitalikButerin
+https://vitalik.ca/general/2020/12/28/endnotes.html</p>
 <p>solving the cold start problem</p>
 <p>the interest graph along with the recommender algorithms orchestrate how ideas surface, propagate, compound &amp; evolve</p>
 <p>human evolution is 99.9% memetic at this point - everything important is in our culture &amp; competition happens between ideas. We are building our digital history on shifting sands - there's no solid foundation and thus we can't agree on what's true. There's no global megaphone that would keep all information globally accessible &amp; indexable. A global append-only log for data doesn't have the same requirements as a financial system which needs 100% uptime. The only thing that needs incentivization is data availability &amp; the ability for anyone to offer. There can be different modes of posting - maybe just a hash for content that could be on ipfs and whose contents might have different levels of storage guarantees.</p>
@@ -1281,6 +1304,8 @@ TODO: DNS &amp; TLS stuff...
 Why is Handshake pre-reserving the top tens of thousands of domain names according to Alexa.com?
 TODO: maybe also reserve the top 100k twitter handles?
 TODO: Vickrey auction
+not that goot actually because humans aren't perfectly rational - &quot;VCG mechanism&quot;
+https://vitalik.ca/general/2021/09/26/limits.html#finance-is-the-absence-of-collusion-prevention
 TODO: name renewals?
 https://blog.sia.tech/handshake-retrospective-after-the-first-year-c197e49749c9
 &quot;The other major problem with Handshake auctions is that they are Vickrey auctions.&quot;

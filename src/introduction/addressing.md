@@ -108,6 +108,7 @@ A global index of all content throughout time in an Information-centric network 
 Differences from NDN: builds on the current internet infrastructure, doesn't have the same packet types and routing concepts - utilizes technologies that are currently available.
 
 
+https://twitter.com/hasufl/status/1537388439259291649
 
 
 https://en.wikipedia.org/wiki/Future_Internet

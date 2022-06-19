@@ -27,6 +27,18 @@ true uncensorability. The next philosopher to push humanity forward will be anon
 Echo chambers are intellectual oppression - as opposed to idea labs - treating ideas as experiments - as said by tim urban
 
 
+
+Global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) is important.
+
+
+
+https://twitter.com/pseudotheos/status/1537876807466201088
+"Even a billion dollars of capital cannot compete with a project having a soul." - 
+@VitalikButerin
+https://vitalik.ca/general/2020/12/28/endnotes.html
+
+
+
 solving the cold start problem
 
 the interest graph along with the recommender algorithms orchestrate how ideas surface, propagate, compound & evolve

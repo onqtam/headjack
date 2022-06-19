@@ -64,7 +64,6 @@ capabilities-based delegation
 TODO: protected tweets - LOL - followers are also private unless permitted?
 
 - how to count impressions/views of videos?
-- sybil attacks
 - interface attacks on delegated accounts (posting activity on their behalf)
 - handles & how they are given away
 - token value accrual & bonding/tokenomics

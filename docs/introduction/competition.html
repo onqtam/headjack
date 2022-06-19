@@ -164,6 +164,9 @@
 <li>
 <p>Federated ones lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> which leads to fragmentation and <a href="https://github.com/mastodon/mastodon/issues/9529">no discoverability</a>.</p>
 </li>
+</ul>
+<p>TODO: login with ethereum? globally? no.</p>
+<ul>
 <li>
 <p>Some are solving just identity &amp; the graph - without easy &amp; stable <a href="../introduction/addressing.html">content addressability</a>.</p>
 </li>
@@ -180,7 +183,7 @@
 <h1 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h1>
 <ul>
 <li>
-<p>A specialized blockchain is required. Finance is mostly about specific accounts &amp; energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking &amp; archiving on a massive scale - it can't be built on financial infrastructure.</p>
+<p>A specialized blockchain is required. Finance is mostly about specific accounts &amp; energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking &amp; archiving on a massive scale - it shouldn't be built on financial infrastructure.</p>
 </li>
 <li>
 <p><a href="../implementation/scaling.html">Napkin math for web-scale</a> is clear and front and center.</p>
@@ -209,6 +212,9 @@
 </li>
 <li>updates &amp; deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol</li>
 </ul>
+<p>https://vitalik.ca/general/2022/06/12/nonfin.html
+But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
+https://www.opencerts.io/</p>
 <h1 id="concrete-projects"><a class="header" href="#concrete-projects">Concrete projects:</a></h1>
 <p>Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
@@ -273,6 +279,14 @@ TODO: search &quot;chang&quot; in the doc &amp; think</p>
 <p>Overall a solid effort and could work - very similar to <a href="#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.</p>
 <p>TODO:
 https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions</p>
+<h3 id="todo-jack-dorseys-new-project"><a class="header" href="#todo-jack-dorseys-new-project">TODO: jack dorsey's new project</a></h3>
+<p>TBD - web5</p>
+<p>identity on bitcoin, using sidetree protocol</p>
+<p>https://twitter.com/namcios/status/1535302090360250368
+https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E</p>
+<ul>
+<li>Decentralized Web Node (DWN)</li>
+</ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>ceramic network</p>
 <p>https://docs.cyberconnect.me/docs/tech_overview
@@ -286,6 +300,10 @@ Also how big do you see the graph getting? My napkin math for Twitter's 400M use
 <p>they don't have the concept of delegating the rights to interfaces/services to update connections &amp; post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth &amp; use email/pass &amp; have recoverability</p>
 <p>they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy</p>
 <p>cyberconnect lacks the ability to anchor content &amp; have it easily addressable &amp; provable - sequencing events globally is underrated.</p>
+<p>https://twitter.com/BaptisteGreve/status/1537061840659922944</p>
+<p>ugly addresses</p>
+<p>https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m</p>
+<p>too many streams, batching </p>
 <h3 id="farcaster"><a class="header" href="#farcaster"><a href="https://www.farcaster.xyz/">Farcaster</a></a></h3>
 <p>Perhaps the most interesting approach from all others.</p>
 <p>push vs pull model and the use of delegated interfaces that batch user content</p>
@@ -395,13 +413,10 @@ delegation is key!</p>
 <p>isn't this design very poll-heavy? What if there are 1 billion users and each of them generates 2-3 follow events per day?</p>
 </li>
 <li>
-<p>the plan seems to be that you'd subsidize gas fees on ethereum in the begining</p>
+<p>the plan seems to be that you'd subsidize gas fees on ethereum in the beginning</p>
 </li>
 <li>
 <p>is a &quot;follow&quot; event part of a &quot;cast&quot; as a signed blob?</p>
-</li>
-<li>
-<p>how would you guard against spam/sybil attack &amp; people capturing the best handles?</p>
 </li>
 <li>
 <p>the &quot;sufficient decentralization&quot; post &amp; the docs don't make this point, but I think multiple interfaces could be using the same (managed) host.

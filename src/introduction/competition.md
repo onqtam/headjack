@@ -16,6 +16,11 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Federated ones lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) which leads to fragmentation and [no discoverability](https://github.com/mastodon/mastodon/issues/9529).
 
+
+TODO: login with ethereum? globally? no.
+
+
+
 - Some are solving just identity & the graph - without easy & stable [content addressability](../introduction/addressing.md).
 
 - Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around [key management](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) (rotations, authorizations, sessions & revocations) but the problem of the data availability for whatever is committed remains unsolved and different solutions around it would lead to complexity and trust.
@@ -26,7 +31,7 @@ A list of problems with the contenders in the decentralized identity/media space
 
 # What Headjack gets right
 
-- A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking & archiving on a massive scale - it can't be built on financial infrastructure.
+- A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
 
 - [Napkin math for web-scale](../implementation/scaling.md) is clear and front and center.
 
@@ -46,6 +51,11 @@ TODO:
 - private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.
     - centralization, potential data breaches
 - updates & deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol
+
+
+https://vitalik.ca/general/2022/06/12/nonfin.html
+But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
+https://www.opencerts.io/
 
 
 # Concrete projects:
@@ -95,6 +105,18 @@ Overall a solid effort and could work - very similar to [Farcaster](#farcaster) 
 TODO:
 https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions
 
+### TODO: jack dorsey's new project
+
+TBD - web5
+
+identity on bitcoin, using sidetree protocol
+
+https://twitter.com/namcios/status/1535302090360250368
+https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E
+
+
+- Decentralized Web Node (DWN)
+
 ### [CyberConnect](https://cyberconnect.me/)
 
 ceramic network
@@ -120,6 +142,16 @@ they tie the identity to financial eth addresses (eth/sol/etc.) by default and t
 cyberconnect lacks the ability to anchor content & have it easily addressable & provable - sequencing events globally is underrated.
 
 
+
+
+https://twitter.com/BaptisteGreve/status/1537061840659922944
+
+ugly addresses
+
+https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m
+
+
+too many streams, batching 
 
 
 
@@ -220,11 +252,9 @@ In my design no special-purpose nodes are required - IPFS & ceramic streams can 
 
 - isn't this design very poll-heavy? What if there are 1 billion users and each of them generates 2-3 follow events per day?
 
-- the plan seems to be that you'd subsidize gas fees on ethereum in the begining
+- the plan seems to be that you'd subsidize gas fees on ethereum in the beginning
 
 - is a "follow" event part of a "cast" as a signed blob?
-
-- how would you guard against spam/sybil attack & people capturing the best handles?
 
 
 - the "sufficient decentralization" post & the docs don't make this point, but I think multiple interfaces could be using the same (managed) host.

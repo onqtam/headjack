@@ -50,6 +50,8 @@ TODO: DNS & TLS stuff...
 Why is Handshake pre-reserving the top tens of thousands of domain names according to Alexa.com?
 TODO: maybe also reserve the top 100k twitter handles?
 TODO: Vickrey auction
+    not that goot actually because humans aren't perfectly rational - "VCG mechanism"
+    https://vitalik.ca/general/2021/09/26/limits.html#finance-is-the-absence-of-collusion-prevention
 TODO: name renewals?
 https://blog.sia.tech/handshake-retrospective-after-the-first-year-c197e49749c9
 "The other major problem with Handshake auctions is that they are Vickrey auctions."
