@@ -324,9 +324,6 @@ https://twitter.com/arvanaghi/status/1537519858233008128</p>
 <li>
 <p>Federated ones lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> which leads to fragmentation and <a href="https://github.com/mastodon/mastodon/issues/9529">no discoverability</a>.</p>
 </li>
-</ul>
-<p>TODO: login with ethereum? globally? no.</p>
-<ul>
 <li>
 <p>Some are solving just identity &amp; the graph - without easy &amp; stable <a href="introduction/../introduction/addressing.html">content addressability</a>.</p>
 </li>
@@ -343,7 +340,7 @@ https://twitter.com/arvanaghi/status/1537519858233008128</p>
 <h1 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h1>
 <ul>
 <li>
-<p>A specialized blockchain is required. Finance is mostly about specific accounts &amp; energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking &amp; archiving on a massive scale - it shouldn't be built on financial infrastructure.</p>
+<p>A specialized blockchain is required. Finance is mostly about specific accounts &amp; energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking &amp; archiving on a massive scale - it shouldn't be built on financial infrastructure.</p>
 </li>
 <li>
 <p><a href="introduction/../implementation/scaling.html">Napkin math for web-scale</a> is clear and front and center.</p>
@@ -355,29 +352,18 @@ https://twitter.com/arvanaghi/status/1537519858233008128</p>
 <p><a href="https://en.wikipedia.org/wiki/Unix_philosophy">UNIX philosophy</a>: focus only on identity &amp; the interest graph and don't try to do everything. It doesn't impose constraints on what could be built around it - <a href="https://en.wikipedia.org/wiki/Separation_of_concerns">separation of concerns</a>.</p>
 </li>
 <li>
-<p>Integers are the most well known and easy to work with data type - compact, faster/easier indexing &amp; querying versus content addressing, hashes, pubkeys &amp; signatures.</p>
+<p>Integers are the most well known and easy to work with data type - compact, faster/easier indexing &amp; querying versus content addressing, hashes, keypairs &amp; signatures.</p>
 </li>
 <li>
 <p><a href="introduction/../introduction/addressing.html">Content addressability</a> with stable URLs.</p>
 </li>
 </ul>
-<p>one does not simply solve media
-without logically centralizing identity, names, connections &amp; anchoring and attacking them with batching and custodial services
-https://imgflip.com/memegenerator/One-Does-Not-Simply</p>
-<h1 id="disadvantages-of-headjack"><a class="header" href="#disadvantages-of-headjack">Disadvantages of Headjack</a></h1>
-<p>TODO:</p>
-<ul>
-<li>public interest graph (both a pro and a con)</li>
-<li>private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.
-<ul>
-<li>centralization, potential data breaches</li>
-</ul>
-</li>
-<li>updates &amp; deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol</li>
-</ul>
-<p>https://vitalik.ca/general/2022/06/12/nonfin.html
-But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
-https://www.opencerts.io/</p>
+<div style="text-align: center;">
+    <img src="https://i.imgflip.com/6k927s.jpg">
+</div>
+<!-- one does not simply solve media
+without logically centralizing identity, names, connections & anchoring through batching and custodial services
+https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 <h1 id="concrete-projects"><a class="header" href="#concrete-projects">Concrete projects:</a></h1>
 <p>Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
@@ -407,7 +393,7 @@ https://www.opencerts.io/</p>
 <li>
 <p>Consortium of nodes &amp; a <em>&quot;transparency log&quot;</em> manage the DID registry.</p>
 <ul>
-<li>Centralization point (not just <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical</a> for key rotations) - users can be kicked off.</li>
+<li>Centralization point (not just <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical</a> for key management) - users can be kicked off.</li>
 <li>This should have been a credibly neutral &amp; self-sustaining blockchain.</li>
 </ul>
 </li>
@@ -415,46 +401,40 @@ https://www.opencerts.io/</p>
 <p>Content addressing with hashes by default (versus Headjack's <a href="introduction/../introduction/addressing.html">human-readable URNs</a>).</p>
 </li>
 <li>
-<p>Requires the use of keypairs - harder mass adoption - worse UX compared to Headjack.</p>
-<p><code>TODO: is this true?</code>
-https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management</p>
+<p>Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management">custodial solutions</a>.</p>
 </li>
 <li>
-<p>When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS).</p>
-<ul>
-<li>Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests.
-<ul>
-<li><code>TODO: think if Headjack's alternative is better at all or with different tradeoffs</code></li>
-</ul>
-</li>
-<li>Users can lose their social graph if the PDS they are using loses their data.</li>
-<li>The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature.</li>
-</ul>
-</li>
-<li>
-<p>DID may change - stability is not 100% guaranteed - may break links between users in the graph
-TODO: search &quot;chang&quot; in the doc &amp; think</p>
-</li>
-<li>
-<p>More complicated than Headjack in terms of standards, addressing, processes, DID management, etc.</p>
+<p>When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to <a href="introduction/competition.html#farcaster">Farcaster</a>'s managed hosts and Headjack's <a href="introduction/../ecosystem/IDM.html">IDMs</a>.</p>
+<!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
+<!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
+<!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
 </li>
 </ul>
 <p>Overall a solid effort and could work - very similar to <a href="introduction/competition.html#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.</p>
-<p>TODO:
-https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions</p>
 <h3 id="tbd"><a class="header" href="#tbd"><a href="https://www.tbd.website/">TBD</a></a></h3>
 <p>Jack Dorsey's <a href="https://twitter.com/namcios/status/1535302090360250368">new</a> &quot;web5&quot; project - <a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a>.</p>
 <ul>
-<li>Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using <a href="https://github.com/decentralized-identity/ion">ION</a> &amp; the <a href="https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58">Sidetree</a> protocol.
+<li>
+<p>Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using <a href="https://github.com/decentralized-identity/ion">ION</a> &amp; the <a href="https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58">Sidetree</a> protocol.</p>
 <ul>
 <li>10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.</li>
 </ul>
 </li>
-<li>The ION DID network is <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">not incentivized</a> (just like IPFS) and the anchored content around key management, rotations &amp; revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality &amp; DA guarantees matter a lot when dealing with identity.</li>
-<li>Doesn't have a human-readable global name registry - lacks in discoverability.</li>
-<li>Doesn't have readable content addressability.</li>
-<li>Focus is on users storing their own data (self-hosting), running software locally &amp; handling keypairs.</li>
-<li>Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle <a href="introduction/../introduction/web_scale.html">web-scale</a> - aggregation not even in the picture.</li>
+<li>
+<p>The ION DID network is <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">not incentivized</a> (just like IPFS) and the anchored content around key management, rotations &amp; revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality &amp; DA guarantees matter a lot when dealing with identity. <code>&quot;Show me the incentive and I will show you the outcome.&quot;</code> - <a href="https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome">Charlie Munger</a></p>
+</li>
+<li>
+<p>Doesn't have a human-readable global name registry - lacks in discoverability.</p>
+</li>
+<li>
+<p>Doesn't have readable content addressability.</p>
+</li>
+<li>
+<p>Focus is on users storing their own data (self-hosting), running software locally &amp; handling keypairs.</p>
+</li>
+<li>
+<p>Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle <a href="introduction/../introduction/web_scale.html">web-scale</a> - aggregation not even in the picture.</p>
+</li>
 </ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>ceramic network</p>
@@ -636,6 +616,24 @@ Unsolved Issues - Changing History
 https://farcasterxyz.notion.site/Node-Deep-Dive-1777791522ba481a94b9db7b9b27226a</p>
 </li>
 </ul>
+<h1 id="disadvantages-of-headjack"><a class="header" href="#disadvantages-of-headjack">Disadvantages of Headjack</a></h1>
+<p>TODO:</p>
+<ul>
+<li>public interest graph (both a pro and a con)</li>
+<li>private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.
+<ul>
+<li>centralization, potential data breaches</li>
+</ul>
+</li>
+<li>updates &amp; deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol
+<ul>
+<li>not sure if there could be an analogy of a purge request: https://github.com/bluesky-social/adx/blob/main/architecture.md#purge-requests-hard-removal</li>
+</ul>
+</li>
+</ul>
+<p>https://vitalik.ca/general/2022/06/12/nonfin.html
+But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
+https://www.opencerts.io/</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="the-ambition"><a class="header" href="#the-ambition">The ambition</a></h1>
 <p><a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>, <a href="https://en.wikipedia.org/wiki/Filecoin">Filecoin</a>, <a href="https://sia.tech/">Sia</a> &amp; <a href="https://arwiki.wiki/">Arweave</a> are the drivers, Headjack is the filesystem, and the collection of media &amp; services built on top will be the global OS. Moving to a data-centric model where everything is addressable under a common global namespace would force applications to be <a href="https://balajis.com/yes-you-may-need-a-blockchain/">interoperable</a> - unlocking unbounded <a href="https://twitter.com/cdixon/status/1451703067213066244">composability</a>.</p>
 <p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire public web - the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a> where all content is <a href="https://en.wikipedia.org/wiki/Tamper-evident_technology">cryptographically anchored</a> and totally ordered. The confluence of stable addressability &amp; indexing of information with identity, names and the interest graph results in a winner-take-all network effect with unprecedented gravity - <a href="https://youtu.be/3qHkcs3kG44?t=3527"><code>@naval: &quot;The internet creates 1 giant aggregator for everything&quot;</code></a>. It can succeed in completely decentralizing <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> and disaggregating traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mix and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot;</code></a></p>

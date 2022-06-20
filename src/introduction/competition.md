@@ -16,11 +16,6 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Federated ones lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) which leads to fragmentation and [no discoverability](https://github.com/mastodon/mastodon/issues/9529).
 
-
-TODO: login with ethereum? globally? no.
-
-
-
 - Some are solving just identity & the graph - without easy & stable [content addressability](../introduction/addressing.md).
 
 - Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around [key management](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) (rotations, authorizations, sessions & revocations) but the problem of the data availability for whatever is committed remains unsolved and different solutions around it would lead to complexity and trust.
@@ -31,7 +26,7 @@ TODO: login with ethereum? globally? no.
 
 # What Headjack gets right
 
-- A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
+- A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
 
 - [Napkin math for web-scale](../implementation/scaling.md) is clear and front and center.
 
@@ -39,29 +34,17 @@ TODO: login with ethereum? globally? no.
 
 - [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy): focus only on identity & the interest graph and don't try to do everything. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
-- Integers are the most well known and easy to work with data type - compact, faster/easier indexing & querying versus content addressing, hashes, pubkeys & signatures.
+- Integers are the most well known and easy to work with data type - compact, faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
 
 - [Content addressability](../introduction/addressing.md) with stable URLs.
 
-one does not simply solve media
-without logically centralizing identity, names, connections & anchoring and attacking them with batching and custodial services
-https://imgflip.com/memegenerator/One-Does-Not-Simply
+<div style="text-align: center;">
+    <img src="https://i.imgflip.com/6k927s.jpg">
+</div>
 
-
-# Disadvantages of Headjack
-
-TODO:
-
-- public interest graph (both a pro and a con)
-- private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.
-    - centralization, potential data breaches
-- updates & deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol
-
-
-https://vitalik.ca/general/2022/06/12/nonfin.html
-But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
-https://www.opencerts.io/
-
+<!-- one does not simply solve media
+without logically centralizing identity, names, connections & anchoring through batching and custodial services
+https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 
 # Concrete projects:
 
@@ -83,32 +66,21 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
 
 - Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
     - Relies on DNS for the part after `@` - centralization point.
+
 - Consortium of nodes & a *"transparency log"* manage the DID registry.
-    - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) for key rotations) - users can be kicked off.
+    - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) for key management) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
 - Content addressing with hashes by default (versus Headjack's [human-readable URNs](../introduction/addressing.md)).
 
-- Requires the use of keypairs - harder mass adoption - worse UX compared to Headjack.
-    
-    `TODO: is this true?`
-    https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management
+- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
 
-- When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS).
-    - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests.
-        - `TODO: think if Headjack's alternative is better at all or with different tradeoffs`
-    - Users can lose their social graph if the PDS they are using loses their data.
-    - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature.
-
-- DID may change - stability is not 100% guaranteed - may break links between users in the graph
-    TODO: search "chang" in the doc & think
-
-- More complicated than Headjack in terms of standards, addressing, processes, DID management, etc.
+- When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](../ecosystem/IDM.md).
+    <!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
+    <!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
+    <!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
 
 Overall a solid effort and could work - very similar to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.
-
-TODO:
-https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions
 
 ### [TBD](https://www.tbd.website/)
 
@@ -116,10 +88,15 @@ Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) "web
 
 - Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using [ION](https://github.com/decentralized-identity/ion) & the [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocol.
     - 10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.
-- The ION DID network is [not incentivized](https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion) (just like IPFS) and the anchored content around key management, rotations & revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality & DA guarantees matter a lot when dealing with identity.
+
+- The ION DID network is [not incentivized](https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion) (just like IPFS) and the anchored content around key management, rotations & revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality & DA guarantees matter a lot when dealing with identity. `"Show me the incentive and I will show you the outcome."` - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
+
 - Doesn't have a human-readable global name registry - lacks in discoverability.
+
 - Doesn't have readable content addressability.
+
 - Focus is on users storing their own data (self-hosting), running software locally & handling keypairs.
+
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](../introduction/web_scale.md) - aggregation not even in the picture.
 
 ### [CyberConnect](https://cyberconnect.me/)
@@ -307,3 +284,18 @@ In my design no special-purpose nodes are required - IPFS & ceramic streams can 
 
 
 
+
+# Disadvantages of Headjack
+
+TODO:
+
+- public interest graph (both a pro and a con)
+- private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.
+    - centralization, potential data breaches
+- updates & deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol
+    - not sure if there could be an analogy of a purge request: https://github.com/bluesky-social/adx/blob/main/architecture.md#purge-requests-hard-removal
+
+
+https://vitalik.ca/general/2022/06/12/nonfin.html
+But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
+https://www.opencerts.io/
