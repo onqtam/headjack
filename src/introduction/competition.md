@@ -30,7 +30,7 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - [Napkin math for web-scale](../implementation/scaling.md) is clear and front and center.
 
-- Best set of compromises for UX/DX because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](../ecosystem/IDM.md)) for on-chain authorization of interfaces - less need for keys & signatures!
+- Best set of compromises for UX/DX because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](../implementation/ecosystem/IDM.md)) for on-chain authorization of interfaces - less need for keys & signatures!
 
 - [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy): focus only on identity & the interest graph and don't try to do everything. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
@@ -75,7 +75,7 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
 
 - Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
 
-- When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](../ecosystem/IDM.md).
+- When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](../implementation/ecosystem/IDM.md).
     <!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
     <!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
     <!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
