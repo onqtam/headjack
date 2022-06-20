@@ -24,6 +24,9 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Complexity & lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around?
 
+TODO:
+- Developing yet another p2p software that works on the granularity of single messages instead of batching in big blobs
+
 # What Headjack gets right
 
 - A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
@@ -50,16 +53,6 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 
 Some of the more high-profile projects in the decentralized identity/media space will be briefly discussed here - these overviews are by no means exhaustive and focus mostly on the negatives from the perspective of Headjack. Corrections for any inaccuracies are welcome!
 
-### [lens.xyz](https://lens.xyz/)
-
-- Deployed on Polygon - even it is not nearly scalable enough for even a few million usersof a social media. Also it is not sufficiently decentralized yet.
-
-- Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles & posts - a lot less optimal.
-
-- Keypairs & wallets required. `TODO: revisit this + their kind of authentication`
-
-- They store even the content on-chain instead of just the accounts. This cannot scale globally for all use cases.
-
 ### [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
 
 Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
@@ -71,20 +64,70 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
     - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) for key management) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
-- Content addressing with hashes by default (versus Headjack's [human-readable URNs](../introduction/addressing.md)).
+- Content addressing with hashes by default (versus Headjack's [human-readable & stable URNs](../introduction/addressing.md)).
 
 - Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
 
-- When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](../implementation/ecosystem/IDM.md).
-    <!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
-    <!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
-    <!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
+<!-- - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](../implementation/ecosystem/IDM.md). -->
+<!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
+<!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
+<!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
 
-Overall a solid effort and could work - very similar to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.
+Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.
+
+### [Farcaster](https://www.farcaster.xyz/)
+
+Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564). The account registry is on a blockchain and everything else is off-chain.
+
+- Registry on Ethereum L1 - for new accounts, name/host changes & key management.
+    - No plans on moving to an L2 or their own chain - upper bound of 400k Ethereum L1 transactions per day globally & competing with everything else on there... Also state rent could eventually be introduced to Ethereum which would lead to further costs.
+
+- Keypairs required - can have hot & cold keys and give the hot ones to custodial services to post on behalf of users, also in theory custodial services could be used for initial account creation, but not the focus at the moment + would involve a lot of interactions with Ethereum.
+
+- The p2p network's ability to scale on granular messages is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior.
+
+Granularity down to individual messages 
+
+ - contrast that to Headjack where all activity is just dumped for anyone to fetch - without judgement. It is up to the interface infrastructure to filter - not the base layer protocol.
+
+
+- Message timestamps are self-reported and can be manipulated - no true cryptographic total ordering. This leads to a lot of complexity in the node software.
+
+
+
+- each user has a cryptographically signed chain of their messages
+
+All messages are checked if they are signed with the proper keys but what about old messages & old keypairs? Headjack allows for easy historical querying who was authorized to post what and when.
+
+
+- [Cast URIs](https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f) will look something like `farcaster://alice/cast:0xf00b4r/42` which is less readable than what Headjack will be offering with [its addressability](../introduction/addressing.md).
+
+
+
+
+- your "v2 Design" talks about p2p delivery of messages but why is that necessary if there's a link to the "Host Directory" and it can be polled?
+
+
+
+
+
+Perhaps the most interesting approach from all others.
+
+Overall good intuition about the concept of sufficient decentralization (Headjack is partly inspired by it) but the p2p node implementation takes on too much responsibility & complexity.
+
+### [lens.xyz](https://lens.xyz/)
+
+- Deployed on Polygon - even it is not nearly scalable enough for even a few million usersof a social media. Also it is not sufficiently decentralized yet.
+
+- Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles & posts - a lot less optimal.
+
+- Keypairs & wallets required. `TODO: revisit this + their kind of authentication`
+
+- They store even the content on-chain instead of just the accounts. This cannot scale globally for all use cases.
 
 ### [TBD](https://www.tbd.website/)
 
-Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) "web5" project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E).
+Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) ["web5"](https://i.imgflip.com/6k9g89.jpg) project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E).
 
 - Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using [ION](https://github.com/decentralized-identity/ion) & the [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocol.
     - 10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.
@@ -97,7 +140,7 @@ Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) "web
 
 - Focus is on users storing their own data (self-hosting), running software locally & handling keypairs.
 
-- Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](../introduction/web_scale.md) - aggregation not even in the picture.
+- Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](../introduction/web_scale.md) on such a granular level and aggregation is not even in the picture.
 
 ### [CyberConnect](https://cyberconnect.me/)
 
@@ -138,13 +181,6 @@ too many streams, batching
 
 
 
-### [Farcaster](https://www.farcaster.xyz/)
-
-Perhaps the most interesting approach from all others.
-
-push vs pull model and the use of delegated interfaces that batch user content
-
-
 ### [Project Liberty](https://www.projectliberty.io/)
 
 - it is at the right abstraction layer but there is not enough emphasis on compactness & use of indexes
@@ -164,126 +200,6 @@ For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, S
 - [Decentralized Social Networks](https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53) - Jay Gerber
 - [Blockchain Social Networks](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970) - Jay Gerber
 - There are [many other projects](https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8) in this space.
-
-
-
-
-
-
-My ultimate goal is to build on top of an open social graph and create new interfaces for displaying, sharing & interacting with data. I can provide a full list of everything I'd want from the web.
-
-- Why Ethereum?
-    - what would the setup look like for 1B ppl? Is building your own chain an option at some point?
-    - because of the ability to sell the handle as an nft? Markets can be done on a specialized chain too
-
-- syncing the activity of specific accounts (those who you follow) vs all accounts by default
-    - your idea makes that easy
-    - my idea makes it hard (have to scan everything published - easily 10-20+ MB/s
-    - but syncing everything by default makes it easier in this scenario:
-        - X follows Y
-        - Y posts a comment to a post from Z
-        - X gets the comment from Y but now also needs to fetch the post from Z ==> more lookups
-            - actually you don't have a cast schema for replies to other ppl's posts yet
-
-- What is your network effect and where is the lock-in? The contract? Cant that be copied?
-
-- just the name registry is not enough for a standalone chain
-    - with the 2 ideas merged there is merit for a standalone chain
-        https://i.imgflip.com/6bc8w7.jpg
-    - there will be a lot more block space demand if all connections & the "Host Directory" are moved on chain
-    
-
-- managed hosts could hold you hostage even if you have your keys
-    - backups help, but too much hassle
-    - even if you start using a different host, you'd have lost your follower list
-
-
-
-- For access control management you need guaranteed data availability & sequencing - logical centralization
-    - my design makes that very easy
-
-In my design no special-purpose nodes are required - IPFS & ceramic streams can be leveraged
-
-
-
-
-
-- the "Handling Transfers" part can be avoided with a global sequencer
-    https://farcasterxyz.notion.site/v2-Design-1e3c5c77311744179ca0d570341feb62
-    TODO: rethink this & re-read it
-
-
-
-- your "v2 Design" talks about p2p delivery of messages but why is that necessary if there's a link to the "Host Directory" and it can be polled?
-    - are messages expected to propagate to all nodes?
-    - can this handle 50MB/s of traffic?
-    - why not use IPFS/Ceramic streams & a global sequencer like my idea?
-
-- with on-chain delegation & sequencing (the concept of time) users may not need pubkeys for the messages they have signed because those messages will reference interface nonces & blocks so spoofing will still not be possible
-
-
-- host-centric blobs (user-specific) vs interleaved with the oactivity of other users, posted through interfaces
-
-
-- multiple hosts at the same time?
-
-- delegation could be implemented in your system as well.
-    delegation is key!
-
-- I think the Host Directory should go on chain too!
-
-- isn't this design very poll-heavy? What if there are 1 billion users and each of them generates 2-3 follow events per day?
-
-- the plan seems to be that you'd subsidize gas fees on ethereum in the beginning
-
-- is a "follow" event part of a "cast" as a signed blob?
-
-
-- the "sufficient decentralization" post & the docs don't make this point, but I think multiple interfaces could be using the same (managed) host.
-    don't write this - because this is in the docs:
-    "A host should not be confused with an application which is a higher-order construct that may include a host, client and other services."
-
-
-- on-chain registry's performance when checking for duplicate names?
-    specialized chains will dominate
-
-- questions around identity and handles and how they are linked and what if one changes...
-
-- any way to make it possible for users to not need keypairs and just use plain old email login? Something like OAuth with the ability to later bind a keypair to a user identity if need be? Delegation & access control management?
-
-- signing every message & action is a PITA - would prohibit true mass adoption
-
-
-
-- merklization & anchoring removes the need for the hash chain of casts and sequencing
-
-
-- AFAIU any number of different interfaces/frontends could be implemented that could work with your host? So a host is providing access to your data & actions that you have signed, and any number of interfaces (twitter, youtube, medium, reddit) could be using your host to store the data once you generate it?
-
-
-
-- I don't like this poll-heavy design - instead I think all content should be merklized & andvertized on a chain and interfaces should simply process all data by default
-
-
-
-
-- light clients that can be ran locally by users would benefit from a poll architecture as opposed to mine :|
-    - why not merge both and provide both ways of getting data?
-
-
-- if a managed host responsible for millions of accounts goes away, how much time would it take for everyone to update the URLs to their hosts through the Ethereum contract?
-
-- the rewriting of the history of a user is near impossible in my design - no need for clients to keep track of old hashes to posts
-
-- the p2p system for nodes to sync data... won't scale with fine-grained messages signed by unique keys in a truly web-scale
-
-- my solution doesn't suffer from conflicts & the eventual consistency problems of farcaster
-    https://farcasterxyz.notion.site/v2-Design-1e3c5c77311744179ca0d570341feb62
-    Unsolved Issues - Changing History
-    https://farcasterxyz.notion.site/Node-Deep-Dive-1777791522ba481a94b9db7b9b27226a
-
-
-
 
 # Disadvantages of Headjack
 

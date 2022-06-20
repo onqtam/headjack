@@ -41,6 +41,11 @@ backwards-compatibility of the handles - can mimic typical DNS like "twitter.com
 
 TODO: strategy: reserve all handles that have 1-1 twitter & instagram versions
 
+TODO: think about namespaces & hierarchies like in DNS & also ENS - is ENS a namespace?
+
+!!!
+https://farcasterxyz.notion.site/The-Identity-System-b5e320826b33460b845ccc9ada63e904
+
 
 !!!
 https://handshake.org/faq/
