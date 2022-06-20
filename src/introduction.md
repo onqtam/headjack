@@ -1,4 +1,4 @@
-# Headjack (WIP) - the backbone of cyberspace
+# Headjack (WIP) - the base layer of cyberspace
 
 Headjack is an [open state database](https://twitter.com/balajis/status/1123092897664880640) designed for [web-scale](introduction/web_scale.md) social media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and [content addressability](addressing/addressing.md) with stable & readable paths resembling [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) (instead of hashes) all packaged in a credibly neutral & self-sustaining blockchain. It is [aiming](introduction/ambition.md) to disaggregate the giants and end network effect monopolies & data silos by aligning incentives and striking the right balance of tradeoffs - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.
 

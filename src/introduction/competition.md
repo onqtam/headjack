@@ -110,35 +110,17 @@ Overall a solid effort and could work - very similar to [Farcaster](#farcaster) 
 TODO:
 https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions
 
-### TODO: jack dorsey's new project
+### [TBD](https://www.tbd.website/)
 
-TBD - web5
+Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) "web5" project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E).
 
-focus is on users storing their own data (self-hosting), running software locally, handling keypairs
-
-- Web5 - just a gimmick - a jab at web3
-    - web-scale aggregation questionable at best
-
-- Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p
-
-
-- Is the DID resolver decentralized?
-
-
-- Only anchors to Bitcoin with vector commitments (Merkle roots) using the [ION](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555) & [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocols.
-    - 10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access.
-- The ION DID network is not incentivized and neither is the anchored content around key management, rotations & revocations on IPFS.
+- Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using [ION](https://github.com/decentralized-identity/ion) & the [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocol.
+    - 10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.
+- The ION DID network is [not incentivized](https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion) (just like IPFS) and the anchored content around key management, rotations & revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality & DA guarantees matter a lot when dealing with identity.
 - Doesn't have a human-readable global name registry - lacks in discoverability.
 - Doesn't have readable content addressability.
-- Can't handle web-scale.
-
-
-
-https://twitter.com/namcios/status/1535302090360250368
-https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E
-
-
-- Decentralized Web Node (DWN)
+- Focus is on users storing their own data (self-hosting), running software locally & handling keypairs.
+- Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](../introduction/web_scale.md) - aggregation not even in the picture.
 
 ### [CyberConnect](https://cyberconnect.me/)
 

@@ -145,7 +145,7 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="headjack-wip---the-backbone-of-cyberspace"><a class="header" href="#headjack-wip---the-backbone-of-cyberspace">Headjack (WIP) - the backbone of cyberspace</a></h1>
+                        <h1 id="headjack-wip---the-base-layer-of-cyberspace"><a class="header" href="#headjack-wip---the-base-layer-of-cyberspace">Headjack (WIP) - the base layer of cyberspace</a></h1>
 <p>Headjack is an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> designed for <a href="introduction/web_scale.html">web-scale</a> social media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and <a href="addressing/addressing.html">content addressability</a> with stable &amp; readable paths resembling <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Name">URNs</a> (instead of hashes) all packaged in a credibly neutral &amp; self-sustaining blockchain. It is <a href="introduction/ambition.html">aiming</a> to disaggregate the giants and end network effect monopolies &amp; data silos by aligning incentives and striking the right balance of tradeoffs - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.</p>
 <p>TODO: designed from first principles</p>
 <ul>
@@ -296,7 +296,9 @@ https://en.wikipedia.org/wiki/Linked_data</p>
 <p>The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
 https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
-<p>People grossly underestimate the size of the web and the type of infrastructure that's required - here is what is going on within a single minute <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html"><ins>truly mind-boggling</ins></a> (this is an incomplete picture). Here are some <a href="https://www.internetlivestats.com/twitter-statistics/">twitter</a>, <a href="https://www.internetlivestats.com/google-search-statistics/">google</a> and <a href="https://www.internetlivestats.com/">other</a> statistics from a <strong>decade</strong> ago. A peek behind what it takes to run Twitter is a good case in point: <a href="http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html">1</a>, <a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">2</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization">3</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale">4</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-">5</a>. All of this infrastructure is not just about handling enormous amounts of data but also about great UX &amp; responsiveness: <code>&quot;Latency is not an option anymore&quot;</code> - Amazon <a href="https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales">found</a> that every 100ms of latency cost them 1% in sales. Google <a href="http://glinden.blogspot.com/2006/11/marissa-mayer-at-web-20.html">found</a> an extra 500ms in search page generation time dropped traffic by 20% - 16 years ago - our irritable nature probably hasn't changed.</p>
+<p>People grossly underestimate the size of the web and the type of infrastructure that's required - what is going on within a single minute of 2021 is <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html"><ins>truly mind-boggling</ins></a> (this is an incomplete picture).</p>
+<img src="https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-32-j.webp">
+<p>Here are some <a href="https://www.internetlivestats.com/twitter-statistics/">twitter</a>, <a href="https://www.internetlivestats.com/google-search-statistics/">google</a> and <a href="https://www.internetlivestats.com/">other</a> statistics from a <strong>decade</strong> ago. A peek behind what it takes to run Twitter is a good case in point: <a href="http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html">1</a>, <a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">2</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization">3</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale">4</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-">5</a>. All of this infrastructure is not just about handling enormous amounts of data but also about great UX &amp; responsiveness: <code>&quot;Latency is not an option anymore&quot;</code> - Amazon <a href="https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales">found</a> that every 100ms of latency cost them 1% in sales. Google <a href="http://glinden.blogspot.com/2006/11/marissa-mayer-at-web-20.html">found</a> an extra 500ms in search page generation time dropped traffic by 20% - 16 years ago - our irritable nature probably hasn't changed.</p>
 <p>TODO: customer obsession:
 https://twitter.com/arvanaghi/status/1537519858233008128</p>
 <img src="https://i.imgflip.com/68ut9w.jpg" align="right" style="margin-left: 8px;">
@@ -440,45 +442,19 @@ TODO: search &quot;chang&quot; in the doc &amp; think</p>
 <p>Overall a solid effort and could work - very similar to <a href="introduction/competition.html#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.</p>
 <p>TODO:
 https://github.com/bluesky-social/adx/blob/main/architecture.md#deletions</p>
-<h3 id="todo-jack-dorseys-new-project"><a class="header" href="#todo-jack-dorseys-new-project">TODO: jack dorsey's new project</a></h3>
-<p>TBD - web5</p>
-<p>focus is on users storing their own data (self-hosting), running software locally, handling keypairs</p>
+<h3 id="tbd"><a class="header" href="#tbd"><a href="https://www.tbd.website/">TBD</a></a></h3>
+<p>Jack Dorsey's <a href="https://twitter.com/namcios/status/1535302090360250368">new</a> &quot;web5&quot; project - <a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a>.</p>
 <ul>
-<li>
-<p>Web5 - just a gimmick - a jab at web3</p>
+<li>Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using <a href="https://github.com/decentralized-identity/ion">ION</a> &amp; the <a href="https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58">Sidetree</a> protocol.
 <ul>
-<li>web-scale aggregation questionable at best</li>
+<li>10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.</li>
 </ul>
 </li>
-<li>
-<p>Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p</p>
-</li>
-<li>
-<p>Is the DID resolver decentralized?</p>
-</li>
-<li>
-<p>Only anchors to Bitcoin with vector commitments (Merkle roots) using the <a href="https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555">ION</a> &amp; <a href="https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58">Sidetree</a> protocols.</p>
-<ul>
-<li>10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access.</li>
-</ul>
-</li>
-<li>
-<p>The ION DID network is not incentivized and neither is the anchored content around key management, rotations &amp; revocations on IPFS.</p>
-</li>
-<li>
-<p>Doesn't have a human-readable global name registry - lacks in discoverability.</p>
-</li>
-<li>
-<p>Doesn't have readable content addressability.</p>
-</li>
-<li>
-<p>Can't handle web-scale.</p>
-</li>
-</ul>
-<p>https://twitter.com/namcios/status/1535302090360250368
-https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E</p>
-<ul>
-<li>Decentralized Web Node (DWN)</li>
+<li>The ION DID network is <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">not incentivized</a> (just like IPFS) and the anchored content around key management, rotations &amp; revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality &amp; DA guarantees matter a lot when dealing with identity.</li>
+<li>Doesn't have a human-readable global name registry - lacks in discoverability.</li>
+<li>Doesn't have readable content addressability.</li>
+<li>Focus is on users storing their own data (self-hosting), running software locally &amp; handling keypairs.</li>
+<li>Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle <a href="introduction/../introduction/web_scale.html">web-scale</a> - aggregation not even in the picture.</li>
 </ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>ceramic network</p>
@@ -1304,6 +1280,7 @@ The entire Twitter graph can be populated in a month with 1 MB/s of blockchain b
 <p>Implement a fee-burn mechanism similar to EIP-1559 in Ethereum so that burnt fees will offset new token issuance as the project gains adoption.</p>
 <p>Elastic fee model</p>
 <p>What if IDMs need to stake?</p>
+<p>spam protection: lock tokens to submit data</p>
 <div style="break-before: page; page-break-before: always;"></div><h2 id="a-global-mapping-of-handle-string-to-x-helps-resolve-queries-x-contains"><a class="header" href="#a-global-mapping-of-handle-string-to-x-helps-resolve-queries-x-contains">A global mapping of <code>handle</code> (<code>string</code>) to X helps resolve queries. X contains:</a></h2>
 <ul>
 <li>maybe they should not be properties of accounts but a separate map structure that just maps handles to IDs and on which block were they acquired? What would be traded - handles on IDs?</li>

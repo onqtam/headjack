@@ -8,3 +8,6 @@ Elastic fee model
 
 What if IDMs need to stake?
 
+
+spam protection: lock tokens to submit data
+
