@@ -4,7 +4,8 @@ Headjack is an [open state database](https://twitter.com/balajis/status/11230928
 
 TODO: designed from first principles
 - starting from the data to figure out how to scale to billions
-- what would be the best UX
+- what would be the best UX - [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128)
+
 - logical centralization only for what really matters - key management & authorization
 - decentralized storage of the most valuable thing - the interest graph
 

@@ -17,11 +17,12 @@
     - [Tokenomics](implementation/tokenomics.md)
     - [Handles (names)](implementation/handles.md)
     - [Ecosystem]()
-        - [Identity managers](implementation/ecosystem/IDM.md)
+        - [Identity managers (IDM)](implementation/ecosystem/IDM.md)
         - [Message types](implementation/ecosystem/messages.md)
         - [Interface architectures](implementation/ecosystem/architecture.md)
         - [Moderation](implementation/ecosystem/moderation.md)
     - [Example flow of actions & events]()
+    - [Open questions](implementation/open_questions.md)
     - [Roadmap](implementation/roadmap.md)
 
 # Misc
