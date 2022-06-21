@@ -343,10 +343,6 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <p>Complexity &amp; lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work &amp; what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around?</p>
 </li>
 </ul>
-<p>TODO:</p>
-<ul>
-<li>Developing yet another p2p software that works on the granularity of single messages instead of batching in big blobs</li>
-</ul>
 <h1 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h1>
 <ul>
 <li>
@@ -417,16 +413,16 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 <p>Keypairs required - harder mass adoption.</p>
 </li>
 <li>
-<p>Message timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old messages that were signed with obsolete keypairs and how the history of keys is handled.</p>
+<p>Cast timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old casts that were signed with obsolete keypairs and how the history of keys is handled.</p>
 </li>
 <li>
-<p>The p2p network's ability to truly scale with granular messages is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. This will lead to constant polling for new events by accounts that one has subscribed to.</p>
+<p>The p2p network's ability to truly scale by passing around granular casts is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. The scalable way would be to directly poll accounts &amp; their hosts for new events.</p>
 </li>
 <li>
 <p><a href="https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f">Cast URIs</a> will look something like <code>farcaster://alice/cast:0xf00b4r/42</code> which is less readable than what Headjack will be offering with <a href="introduction/../introduction/addressing.html">its addressability</a>.</p>
 </li>
 </ul>
-<p>Overall good intuition about the concept of sufficient decentralization (Headjack is partly inspired by it) but the p2p node implementation takes on too much responsibility &amp; complexity.</p>
+<p>Overall good intuition about the concept of sufficient decentralization (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much responsibility &amp; complexity and is lacking in other areas.</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
 <ul>
 <li>

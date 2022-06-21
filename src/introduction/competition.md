@@ -24,9 +24,6 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Complexity & lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around?
 
-TODO:
-- Developing yet another p2p software that works on the granularity of single messages instead of batching in big blobs
-
 # What Headjack gets right
 
 - A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
@@ -84,13 +81,13 @@ Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Far
 
 - Keypairs required - harder mass adoption.
 
-- Message timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old messages that were signed with obsolete keypairs and how the history of keys is handled.
+- Cast timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old casts that were signed with obsolete keypairs and how the history of keys is handled.
 
-- The p2p network's ability to truly scale with granular messages is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. This will lead to constant polling for new events by accounts that one has subscribed to.
+- The p2p network's ability to truly scale by passing around granular casts is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. The scalable way would be to directly poll accounts & their hosts for new events.
 
 - [Cast URIs](https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f) will look something like `farcaster://alice/cast:0xf00b4r/42` which is less readable than what Headjack will be offering with [its addressability](../introduction/addressing.md).
 
-Overall good intuition about the concept of sufficient decentralization (Headjack is partly inspired by it) but the p2p node implementation takes on too much responsibility & complexity.
+Overall good intuition about the concept of sufficient decentralization (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much responsibility & complexity and is lacking in other areas.
 
 ### [lens.xyz](https://lens.xyz/)
 
