@@ -80,38 +80,15 @@ Overall a solid effort and could work - some similarities to [Farcaster](#farcas
 Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564). The account registry is on a blockchain and everything else is off-chain.
 
 - Registry on Ethereum L1 - for new accounts, name/host changes & key management.
-    - No plans on moving to an L2 or their own chain - upper bound of 400k Ethereum L1 transactions per day globally & competing with everything else on there... Also state rent could eventually be introduced to Ethereum which would lead to further costs.
+    - No plans on moving to an L2 or their own chain. Also state rent could eventually be introduced to Ethereum which would lead to further costs & complexity.
 
-- Keypairs required - can have hot & cold keys and give the hot ones to custodial services to post on behalf of users, also in theory custodial services could be used for initial account creation, but not the focus at the moment + would involve a lot of interactions with Ethereum.
+- Keypairs required - harder mass adoption.
 
-- The p2p network's ability to scale on granular messages is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior.
+- Message timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old messages that were signed with obsolete keypairs and how the history of keys is handled.
 
-Granularity down to individual messages 
-
- - contrast that to Headjack where all activity is just dumped for anyone to fetch - without judgement. It is up to the interface infrastructure to filter - not the base layer protocol.
-
-
-- Message timestamps are self-reported and can be manipulated - no true cryptographic total ordering. This leads to a lot of complexity in the node software.
-
-
-
-- each user has a cryptographically signed chain of their messages
-
-All messages are checked if they are signed with the proper keys but what about old messages & old keypairs? Headjack allows for easy historical querying who was authorized to post what and when.
-
+- The p2p network's ability to truly scale with granular messages is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. This will lead to constant polling for new events by accounts that one has subscribed to.
 
 - [Cast URIs](https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f) will look something like `farcaster://alice/cast:0xf00b4r/42` which is less readable than what Headjack will be offering with [its addressability](../introduction/addressing.md).
-
-
-
-
-- your "v2 Design" talks about p2p delivery of messages but why is that necessary if there's a link to the "Host Directory" and it can be polled?
-
-
-
-
-
-Perhaps the most interesting approach from all others.
 
 Overall good intuition about the concept of sufficient decentralization (Headjack is partly inspired by it) but the p2p node implementation takes on too much responsibility & complexity.
 

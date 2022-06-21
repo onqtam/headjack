@@ -244,38 +244,22 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 <li>
 <p>Registry on Ethereum L1 - for new accounts, name/host changes &amp; key management.</p>
 <ul>
-<li>No plans on moving to an L2 or their own chain - upper bound of 400k Ethereum L1 transactions per day globally &amp; competing with everything else on there... Also state rent could eventually be introduced to Ethereum which would lead to further costs.</li>
+<li>No plans on moving to an L2 or their own chain. Also state rent could eventually be introduced to Ethereum which would lead to further costs &amp; complexity.</li>
 </ul>
 </li>
 <li>
-<p>Keypairs required - can have hot &amp; cold keys and give the hot ones to custodial services to post on behalf of users, also in theory custodial services could be used for initial account creation, but not the focus at the moment + would involve a lot of interactions with Ethereum.</p>
+<p>Keypairs required - harder mass adoption.</p>
 </li>
 <li>
-<p>The p2p network's ability to scale on granular messages is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior.</p>
-</li>
-</ul>
-<p>Granularity down to individual messages </p>
-<ul>
-<li>
-<p>contrast that to Headjack where all activity is just dumped for anyone to fetch - without judgement. It is up to the interface infrastructure to filter - not the base layer protocol.</p>
+<p>Message timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old messages that were signed with obsolete keypairs and how the history of keys is handled.</p>
 </li>
 <li>
-<p>Message timestamps are self-reported and can be manipulated - no true cryptographic total ordering. This leads to a lot of complexity in the node software.</p>
+<p>The p2p network's ability to truly scale with granular messages is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. This will lead to constant polling for new events by accounts that one has subscribed to.</p>
 </li>
-<li>
-<p>each user has a cryptographically signed chain of their messages</p>
-</li>
-</ul>
-<p>All messages are checked if they are signed with the proper keys but what about old messages &amp; old keypairs? Headjack allows for easy historical querying who was authorized to post what and when.</p>
-<ul>
 <li>
 <p><a href="https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f">Cast URIs</a> will look something like <code>farcaster://alice/cast:0xf00b4r/42</code> which is less readable than what Headjack will be offering with <a href="../introduction/addressing.html">its addressability</a>.</p>
 </li>
-<li>
-<p>your &quot;v2 Design&quot; talks about p2p delivery of messages but why is that necessary if there's a link to the &quot;Host Directory&quot; and it can be polled?</p>
-</li>
 </ul>
-<p>Perhaps the most interesting approach from all others.</p>
 <p>Overall good intuition about the concept of sufficient decentralization (Headjack is partly inspired by it) but the p2p node implementation takes on too much responsibility &amp; complexity.</p>
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
 <ul>
