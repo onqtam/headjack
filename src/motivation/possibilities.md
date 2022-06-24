@@ -1,12 +1,22 @@
+# A list of what could be possible
+
+78 ways the web should be better:
+78 ways the current web simply cannot do
+structure the "78 things ..." into groups - usability, organization, mental health
+
+
+
+
+
+The conversation around a piece of media shouldn't be segregated between Twitter, YouTube & Reddit - it should be 1 viewed through different filters.
+
+
+
 
 DATA-CENTRIC
 
 
-there is no reason that twitter and reddit and a youtube comment section can't be one and the same conversation.
-
 wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
-
-write about the internet archive and what it would look like in this paradigm
 
 imagine being able to point to the first occurance of a piece of content and being able to prove that there is no prior occurance (if nobody manages to submit a hash & merkle proof for an earlier block).
 
@@ -50,14 +60,15 @@ even something like myspace has a place in this ecosystem
 
 We should be able to refer to content uniquely and see the discussion around it
 
-The twitter view of a discussion is basically just the top level comments for a thread in reddit - without showing the children by default.
+The Twitter view of a discussion is basically the same as just the top level comments for a thread (without showing the children) in Reddit.
+
 
 
 TODO: think about memes & the original content + layers
 
 github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.
 
-every journalist should be able to use something like logseq and construct their strories with referencable facts - timestamped & cryptoi provable
+every journalist should be able to use something like logseq and construct their stories with referencable facts - timestamped & cryptoi provable
 
 
 promotion of videos will no longer be dominated just by the recommendation algorithm - when an influencer comments on a video his followers will see it and watch the said video too
@@ -99,6 +110,7 @@ each interface will specialize into providing the best possible service for the 
 
 ability to choose to see someone's reactions/comments or not when added in a list like twitter's lists - different types of levels of filtering for lists
 
+- we can't sort the tweets of someone based on engagement
 
 how to construct a timeline of referenced facts & news? incentive to link to a timeline?
 
@@ -117,14 +129,29 @@ https://archive.ph/O2D45#selection-635.4-635.18
 
 quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2
 
-Different views and who can delete/hide comments form them?
-multiple competing "subreddits" on the same topic - basically differing on their moderation
+We can have:
 
-78 ways the web should be better:
-78 ways the current web simply cannot do
-structure the "78 things ..." into groups - usability, organization, mental health
+## No more data silos
 
-Content and html should be decoupled
+- competing "subreddits"on the same topic with different moderators & content policies
+
+## Usability improvements
+
+
+## Infrastructure improvements
+
+- The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive):
+    - It will no longer need to actively poll all websites on earth periodically & check for changes and save snapshots - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.
+    - Actual content & presentation HTML can be decoupled and only the essential could be saved. There could be a new message type for interfaces to signal a change in what they serve to browsers for presentation & rendering of content which the Internet Archive could save throughout time as well to provide the historical views. Redundancy of snapshots can be driven to 0.
+- [Search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d):
+    - Building indexes would be greatly simplified as they will be plugged to the global message bus and update only on events (push) - instead of periodic batch crawling of the public web (pull). The history of changes will be much more granular, precise, complete && authenticated.
+    - Message schemas will greatly aid in the indexability and information extraction from dynamic websites.
+    - The move to data-centric addressing and the desegregation of data will lead to a lot less duplicates and more rich & precise context around any event/message.
+
+
+
+
+
 
 
 
@@ -132,9 +159,9 @@ what services will spring up:
 - search engines
     Search is a very hard problem:
     https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
-    Search engines will be plugged to the message bus and will see updates to old posts - simplifying the process of keeping indexes up-to-date - push vs pull. Same for the internet archive.
-    - user-generated activity around content will greatly impact how search functions
-    - message schemas greatly simplify search & indexing - "hassle-free information extraction from dynamic websites"
+
+
+
 
     The Future of Search Is Boutique
     https://future.a16z.com/the-future-of-search-is-boutique
@@ -160,11 +187,6 @@ what services will spring up:
     - dead links? thing of the past - can be cached locally & preserved with merkle proofs
     - imagine wikipedia being forked with a different set of moderators - like in git
     - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
-- imagine the web archive build around this
-    - when archiving media only the important parts would be saved
-        - snapshots would be created only when a new anchored publish event occurs
-        - no redundant snapshots
-        - no saving of unrelated data & html
 - being able to subscribe to changes of pages in websites that don't have an ID (not through follow (because they don't have an ID) but by other means)
 - Imagine the possible visualizations on the graph data of the hivemind
     - imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints & the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them
