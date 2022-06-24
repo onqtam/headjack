@@ -22,7 +22,7 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Some lack an incentive layer and/or are focused on specific types of social media.
 
-- Complexity & lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around?
+- Complexity & lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around? `"Developers care about risk."` - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
 # What Headjack gets right
 
@@ -118,18 +118,28 @@ Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) ["we
 
 ### [CyberConnect](https://cyberconnect.me/)
 
-ceramic network
+https://docs.cyberconnect.me/protocol/technical-framework/
 
-https://docs.cyberconnect.me/docs/tech_overview
 problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts & linking them
+
+
+
 https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
 My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?
+
+
+
+
+
 Also how big do you see the graph getting? My napkin math for Twitter's 400M users and 700 average connections shows that if using simple 4 byte integers as IDs (no pubkeys/signatures/DIDs) would require 1.1TB of data for the most compact version of the graph (each ID would have an array of IDs that it follows) being able to answer queries like who does X follow and for queries like who follows X the data would need to be 2x bigger (another set of arrays). In reality it would be much more because of other metadata, keys, signatures, bigger integers (to support more than 4 billion indexes), database overhead, etc. Thoughts? 
 
 
 
 
-they are handling the persistence of the social graph through pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.
+they are handling
+
+
+The persistence of the social graph is handled by pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.
 
 https://docs.cyberconnect.me/protocol/technical-framework/#storage
 "Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service."
@@ -138,7 +148,7 @@ they don't have the concept of delegating the rights to interfaces/services to u
 
 they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy
 
-cyberconnect lacks the ability to anchor content & have it easily addressable & provable - sequencing events globally is underrated.
+- It lacks the ability to anchor content & have it easily addressable & provable - sequencing events globally is underrated.
 
 
 

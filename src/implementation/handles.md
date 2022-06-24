@@ -33,6 +33,7 @@ Users acquire a name by making two transactions — the first is to commit a sec
 commit-reveal scheme prevents frontrunning
 
 
+https://medium.com/coinmonks/understanding-the-handshake-airdrop-and-reserved-names-428d9e90b560
 
 
 TODO: maybe this should be together with addressing?

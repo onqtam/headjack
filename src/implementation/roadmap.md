@@ -1,4 +1,4 @@
-# growth strategy
+# Go to market & growth strategy
 
 - first 1k/10k indexes reserved & given with auctions/randomly to influential ppl
     - elon could get index 42 - the answer to the universe
@@ -25,6 +25,8 @@
 https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
 
 
+
+https://www.defmacro.org/2019/03/26/startup-checklist.html
 
 
 

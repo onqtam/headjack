@@ -26,6 +26,17 @@ https://twitter.com/epolynya/status/1533833479896453120
 https://eth.wiki/sharding/Sharding-FAQs
 
 
+The theoretical ideal stack to build on would be
+https://twitter.com/lukedelphi/status/1539192716915007490
+
+
+on DYDX as a standalone blockchain on Cosmos SDK
+https://twitter.com/dYdX/status/1539607062291877889
+https://twitter.com/AntonioMJuliano/status/1539611195338006528
+https://twitter.com/gluk64/status/1539953204900790272
+https://twitter.com/Swagtimus/status/1539621763121926144
+
+
 You go to rollups with your capital to transact and exchange - with Headjack you wont be able to take your state back with you to L1 because the entirety of headjack is the state
 
 Why not a rollup? There is nothing to steal - there will not be 100x times TVL more than the mcap of the protocol
@@ -68,4 +79,3 @@ Media is about data access and sequence
 # Mempool
 
 Mempool used mostly by interfaces with big bulky blobs
-
