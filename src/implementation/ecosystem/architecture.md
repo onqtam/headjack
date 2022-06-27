@@ -144,7 +144,8 @@ An alternative privacy-friendly YouTube frontend which is efficient by design.
 https://github.com/TeamPiped/Piped
 
 
-Each interface can advertise the multiaddress of their IPFS node so that each successive blob of generated content that gets published can be downloaded by others much faster - avoiding the use of the DHT for each new blob CID. Interfaces can provide addresses to multiple IPFS nodes for reduncancy and horizontal scaling. ipfs cluster - Pinset orchestration for IPFS - designed for Automated data availability and redundancy on IPFS
+Each interface can advertise the multiaddress of their IPFS node so that each successive blob of generated content that gets published can be downloaded by others much faster - avoiding the use of the DHT for each new blob CID. Interfaces can provide addresses to multiple IPFS nodes for redundancy and horizontal scaling.
+ipfs cluster - Pinset orchestration for IPFS - designed for Automated data availability and redundancy on IPFS
 If we know the multiaddress of an IPFS node, we can manually connect to it using IPFS’s “swarm connect” functionality.
 https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986
 

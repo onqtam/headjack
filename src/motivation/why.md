@@ -1,3 +1,10 @@
+# What's currently wrong
+
+This page focuses on the current problems while the [possibilities](possibilities.md) page focuses on what Headjack would enable.
+
+
+
+
 
 https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/
 
@@ -20,7 +27,7 @@ https://knightcolumbia.org/content/protocols-not-platforms-a-technological-appro
 
 TODO: start from the content - list all kinds of content scenarios and what you'd like to be possible. Then think of who would be responsible for aggregating, bundling, indexing & merkelizing the structures & participading in the chain
 
-Ideas should not be sacred - we are just neurons - global & borderless super intelligence
+Ideas should not be sacred - we are just neurons - global & borderless super intelligence - bootstrapping the global hivemind
 
 true uncensorability. The next philosopher to push humanity forward will be anonymous and global. Imagine not checking out what others are checking out more and more - what are the trends. IMAGINE NOT BEING ABLE TO SEE what others are finding most interesting. Most people are rational - let's see what gets the most attention from everyone.
 
@@ -133,10 +140,8 @@ https://en.wikipedia.org/wiki/Ground_truth
 
 imagine the timelines & graphs we'd be able to construct if we have a global sequencer
 
-lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level
 
 
-have you seen replies by people you don't follow in your twitter feed? why would "X received a reply from someone you don't follow" be in there? shouldn't there be a setting for that?
 
 
 
@@ -177,7 +182,6 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 "follow me on X platform" - this should be a thing of the past
 
 
-References are useful beyond peer review - it would be useful for the entire web.
 
 
 
@@ -190,8 +194,6 @@ https://twitter.com/lopp/status/1531668215541145601
 
 
 
-
-This is an explicit interest graph where each new connection is a conscious choice by users - as opposed to how a recommendation algorithm learns your preferences and profiles your interests (best example: TikTok).
 
 
 
@@ -215,10 +217,15 @@ Cold start problem
 - black box algos
 - no voice and exit
 - lack of innovation & composability
-- extremely high barrier to entry for startups
+- higher than necessary barrier to entry for startups
 
-The story of our times - fragmentation.
-Fragmentation aids polarization and radicalization
+
+
+
+The story of our times is fragmentation:
+- culturally => polarization and radicalization
+- technologically => lack of interoperability, duplicated effort & stifled innovation
+
 Culture war
 
 Protocols, Not Platforms: A Technological Approach to Free Speech
@@ -301,3 +308,18 @@ We should be connecting echo chambers and taking notes from Taiwan's civic hackt
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is an explicit interest graph where each new connection is a conscious choice by users - as opposed to how a recommendation algorithm learns your preferences and profiles your interests (best example: TikTok).

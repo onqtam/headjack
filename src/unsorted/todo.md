@@ -1,6 +1,8 @@
 
 
 
+
+
 Namecoin failed. Handshake isn't getting nearly enough adoption.
 
 
@@ -9,9 +11,6 @@ Namecoin failed. Handshake isn't getting nearly enough adoption.
 - Push vs Pull: Some are architected around pulling data explicitly and don't have an easy way to just subscribe without continuously polling for new events.
 
 `"consistency is incredibly important for creating a compelling user experience"` - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
-
-- fix the IDM & other links
-
 
 
 TODO: interface or application as the term? or view?
@@ -22,15 +21,21 @@ Browsers: different views on content?
 
 TODO: browser in the driver/filesystem/OS analogy?
 
-TODO: too many links?
+TODO: too many links? too many memes?
 
 TODO: too much buzzwords in introduction?
+
+TODO: perhaps not URNs but URIs or URLs?
 
 - think of url/handle/nonce mappings
 
 
 
+TODO: do the math on how big the state would be with 1k interfaces and 1 million blocks, nonces & whatnot
+    state growth is a concern even if it's simple integers
 
+
+TODO: disadvantage - huge reliance on full Headjack nodes that contain the full state
 
 
 - What if the interface web2 website is no longer around?

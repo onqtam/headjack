@@ -16,7 +16,7 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Federated ones lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) which leads to fragmentation and [no discoverability](https://github.com/mastodon/mastodon/issues/9529).
 
-- Some are solving just identity & the graph - without easy & stable [content addressability](../introduction/addressing.md).
+- Some are solving just identity & the graph - without easy & stable [content addressing](../introduction/addressing.md).
 
 - Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around [key management](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) (rotations, authorizations, sessions & revocations) but the problem of the data availability for whatever is committed remains unsolved and different solutions around it would lead to complexity and trust.
 
@@ -36,7 +36,7 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Integers are the most well known and easy to work with data type - compact, faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
 
-- [Content addressability](../introduction/addressing.md) with stable URLs.
+- [Content addressing](../introduction/addressing.md) with stable URLs.
 
 <div style="text-align: center;">
     <img src="https://i.imgflip.com/6k927s.jpg">
@@ -85,7 +85,7 @@ Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Far
 
 - The p2p network's ability to truly scale by passing around granular casts is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. The scalable way would be to directly poll accounts & their hosts for new events.
 
-- [Cast URIs](https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f) will look something like `farcaster://alice/cast:0xf00b4r/42` which is less readable than what Headjack will be offering with [its addressability](../introduction/addressing.md).
+- [Cast URIs](https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f) will look something like `farcaster://alice/cast:0xf00b4r/42` which is less readable than what Headjack will be offering with [its addressing](../introduction/addressing.md).
 
 Overall good intuition about the concept of sufficient decentralization (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much responsibility & complexity and is lacking in other areas.
 
@@ -110,7 +110,7 @@ Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) ["we
 
 - Doesn't have a human-readable global name registry - lacks in discoverability.
 
-- Doesn't have readable content addressability.
+- Doesn't have readable content addressing.
 
 - Focus is on users storing their own data (self-hosting), running software locally & handling keypairs.
 

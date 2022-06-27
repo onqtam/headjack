@@ -1,7 +1,7 @@
-# Addressability: host/app vs data/name centric
+# Addressing: host/app vs data/name centric
 
 
-A major component of Headjack is how the off-chain content is addressed.
+
 
 
 
@@ -12,7 +12,9 @@ A major component of Headjack is how the off-chain content is addressed.
     But rss is too technical
     Dns got overloaded too many times
 
-TODO: NOT app-centric! because headjack's interfaces should be called applications and applications aren't hosts
+
+Today's web revolves around hosts - we query DNS to get the IP of servers which we talk to directly to retrieve data that they store. 
+
 
 - host/app-centric vs data/name centric
     We are dominated by platforms & applications when in reality data is the most important thing - we need to be able to address it.
@@ -22,11 +24,65 @@ TODO: NOT app-centric! because headjack's interfaces should be called applicatio
 
     https://en.wikipedia.org/wiki/Data-centric_computing
     https://en.wikipedia.org/wiki/Named_data_networking
-    https://en.wikipedia.org/wiki/Data-centric_computing
     NDN lacks a global name registry
 
     - deduplication
+
+# Blob structure & addressing
+
+A major component of Headjack is how off-chain content is addressed. Interfaces accumulate activity from users which they cryptographically anchor in batches with a Merkle root which doesn't have to be on every block - those with little activity may submit only once per minute or even less often - the frequency is determined by publishing platforms based on the volume of activity and the on-chain costs for publishing bytes.
+
+When enough activity has been collected, an interface constructs a blob and sorts all the events generated since the last anchored batch by grouping the activity by users and sorting them in some deterministic way (users based on index/name and user interactions based on the sequence).
+
+Interfaces maintain the logical order of events for the future batch in maps in order to provide intra-blob addressing even before it is fully constructed - as an example if a user posts an article and immediately after that comments on their post - the comment should be able to refer to the post which is not yet committed on-chain. Interfaces will also display activity by others that is not yet anchored and the interactions can still use the proper addressing when referring to the yet-to-be-anchored messages. Any type of interaction is addressable and sequenced in the blobs - including reactions (likes, etc).
+
+When the blob is finalized a Merkle root is constructed that touches every event and the IPFS CID (hash) for the blob is generated. The only 2 things that are submitted on-chain are thus the Merkle root and the IPFS CID. Blobs have headers which contain the intra-blob index (offset table) for lookup of content of specific accounts.
+
+Interfaces are yet another on-chain account and they'll be able to associate an RPC endpoint or any other means for direct contact by the rest of the interfaces such that they may ask for the yet unanchored messages and display them while they are still in the "mempool". They can also advertise the multiaddress of their IPFS node so that each successive blob of generated content that gets published can be downloaded by others instantly by manually connecting with IPFS’s “swarm connect” functionality - avoiding the use of the DHT for each new blob CID which may take tens of minutes. They can provide addresses to multiple IPFS nodes as a cluster for redundancy and horizontal scaling and use [Pinset orchestration for IPFS](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986) - designed for Automated data availability and redundancy.
+
+# [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) - permanence, names & translation
+
+Each account has an associated auto-increment counter (nonce) for every time they submit an anchor for off-chain content. So if interface `42` has submitted 4 times already, then the next submission will be with `nonce == 5`. The blockchain keeps a mapping for each previous nonce value to the block number when it changed so that `<interface_id>/<nonce>` can be translated to which block has the Merkle root anchor & IPFS hash for the blob that corresponds to that nonce for that account.
+
+Once a blob is fetched through the IPFS CID (hash) we can address specific events by utilizing the offset index in the blob header so a URN such as `<interface_id>/<nonce>/<user_id>/<content_id>` can point to a specific post, comment or even reaction. The content ID for a specific user is usually a small single digit number and is necessary only if there have been more than 1 interactions by that user through that interface for the given nonce.
+
+The blockchain can be queried if the interface was allowed to post content on behalf of the specific user through on-chain authorization (most probably initiated by an [IDM](../implementation/ecosystem/IDM.md)) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given interface was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their interactions in which case their signatures will be within the data blobs and the only check required will be for the keypair used for the specific block number.
+
+---
+
+Users and interfaces don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate `<interface_name>/<nonce>/<user_name>/<content_id>` with strings into the canonical integer form discussed previously by substituting the interface & user names with the account IDs.
+
+Every name has an associated auto-increment nonce as well for every time they submit an anchor for off-chain content (just like account IDs) and the blockchain records mappings of `<name>/<nonce>` to `<id>/<nonce>` which can then be used to map to the block that contains the Merkle root & IPFS CID (hash) for the anchored blob.
+
+But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check the account IDs that correspond to all usernames within that blob.
+
+And thus we're be able to have URNs such as `twitter.com/55212/johnny/3` to identify any event by any actor - all we'd need to do is a few lookups and then we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URNs will even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface. Note the brevity & lack of hashes & hexadecimal symbols (`0xf56a0...`) - this is as good as it gets.
+
+Or is it? What about headlines of articles - can we have something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely, 
+
+Most other Web3 platforms [suffer from unreadable URLs](https://twitter.com/hasufl/status/1537388439259291649) - let's do better.
+
+
+
+post headlines included in the URN - like in SO
+
+Names are discussed in greater detail in [their dedicated page](../implementation/handles.md) (constraints, subdomains, auctions, distribution, leasing, etc.).
+
+platform attribution - advertising 
+Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URNs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before & are curious or if their current interface doesn't fully support a given message type).
+
+# Benefits of data/name-centric networking
+
+TODO: Multiple points to retrieve content
+
+# Names
+
+
+
+
 - names/handles
+    - decentralized DNS
+    - giving/leasing the names properly & orderly is a hard problem
 
 
 - archivability, shifting sands
@@ -52,11 +108,6 @@ TODO: NOT app-centric! because headjack's interfaces should be called applicatio
 TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
 
 The network effect is not related to data fetching and the implementation of that but of stable data addressing and user connections.
-
-
-
-
-
 
 not just self-certifying data addressable by hash, but also by a pretty URL!
 
@@ -94,8 +145,10 @@ Stable URLs, deduplicating content & anchoring everything to a single backbone g
 
 the addition of a global singleton of access control management and key registry solves a lot of problems in NDN around security
 
-headjack is the index for web-scale content/information centric networking
-https://en.wikipedia.org/wiki/Content_centric_networking
+
+
+Headjack is the index for web-scale [content centric networking](https://en.wikipedia.org/wiki/Content_centric_networking).
+
 
 
 
@@ -108,7 +161,7 @@ A global index of all content throughout time in an Information-centric network 
 Differences from NDN: builds on the current internet infrastructure, doesn't have the same packet types and routing concepts - utilizes technologies that are currently available.
 
 
-https://twitter.com/hasufl/status/1537388439259291649
+
 
 
 https://en.wikipedia.org/wiki/Future_Internet

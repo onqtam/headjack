@@ -98,3 +98,5 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md
 https://github.com/bluesky-social/adx/blob/main/architecture.md#moderation
 
 
+https://arxiv.org/abs/2109.13046
+

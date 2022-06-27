@@ -17,7 +17,7 @@
     - [Tokenomics](implementation/tokenomics.md)
     - [Handles (names)](implementation/handles.md)
     - [Ecosystem]()
-        - [Identity managers (IDM)](implementation/ecosystem/IDM.md)
+        - [Identity managers (IDM)]()        <!-- (implementation/ecosystem/IDM.md) -->
         - [Message types](implementation/ecosystem/messages.md)
         - [Interface architectures](implementation/ecosystem/architecture.md)
         - [Moderation](implementation/ecosystem/moderation.md)
