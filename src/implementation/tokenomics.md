@@ -11,3 +11,5 @@ What if IDMs need to stake?
 
 spam protection: lock tokens to submit data
 
+The limits of paying for blockspace - alternative forms of value accrual for tokens where the inelasticity of blockspace is a deal breaker
+
