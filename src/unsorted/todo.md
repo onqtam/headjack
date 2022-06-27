@@ -25,7 +25,7 @@ TODO: too many links? too many memes?
 
 TODO: too much buzzwords in introduction?
 
-TODO: perhaps not URNs but URIs or URLs?
+TODO: perhaps not URNs but URIs or URLs? URI !!! https://www.w3.org/Provider/Style/URI
 
 - think of url/handle/nonce mappings
 

@@ -1,9 +1,9 @@
 # Addressing: host/app vs data/name centric
 
 
+["Cool URIs don't change"](https://www.w3.org/Provider/Style/URI)
 
-
-
+THE LEDGER OF RECORD
 
 - DNS
     DNS was the original “decentralization”.
@@ -13,7 +13,21 @@
     Dns got overloaded too many times
 
 
-Today's web revolves around hosts - we query DNS to get the IP of servers which we talk to directly to retrieve data that they store. 
+Today's web revolves around hosts - we query DNS to get the IP of servers which we talk to directly to retrieve data that they store. Once they are gone - the data is gone too. 90%+ of the links on the web are dead 
+
+
+[Link rot](https://en.wikipedia.org/wiki/Link_rot) is a major problem and we are building our digital history on shifting sands without a solid foundation. As great as the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is - it remains just a bandaid
+
+But there's also ["content drift"](https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php)
+
+
+
+https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/
+
+[Memory hole](https://en.wikipedia.org/wiki/Memory_hole)
+
+
+
 
 
 - host/app-centric vs data/name centric
@@ -42,29 +56,29 @@ Interfaces are yet another on-chain account and they'll be able to associate a R
 
 # [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) - permanence, names & translation
 
-Each account has an associated auto-increment counter (nonce) for every time they submit an anchor for off-chain content. So if interface `42` has submitted 4 times already, then the next submission will be with `nonce == 5`. The blockchain keeps a mapping for each previous nonce value to the block number when it changed so that `<interface_id>/<nonce>` can be translated to which block has the Merkle root anchor & IPFS hash for the blob that corresponds to that nonce for that account.
+Each account has an associated auto-increment counter (nonce) for every time they submit an anchor for off-chain content. So if an interface has submitted 4 times already, then the next submission will be with `nonce == 5`. The blockchain keeps a mapping for each previous nonce value to the block number when it changed so that `<interface_id>/<nonce>` can be translated to which block has the Merkle root anchor & IPFS hash for the blob that corresponds to that nonce for that account.
 
 Once a blob is fetched through the [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) (hash) we can address specific events by utilizing the offset index in the blob header so a URN such as `<interface_id>/<nonce>/<user_id>/<content_id>` can point to a specific post, comment or even reaction. The content ID for a specific user is usually a small single digit number and is necessary only if there have been more than 1 interactions by that user through that interface for the given nonce.
 
-The blockchain can be queried if the interface was allowed to post content on behalf of the specific user through on-chain authorization (most probably initiated by an [IDM](../implementation/ecosystem/IDM.md)) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given interface was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their interactions in which case their signatures will be within the data blobs and the only check required will be for the keypair used for the specific block number.
+The blockchain can be queried if the interface was allowed to post content on behalf of the user through on-chain authorization (probably initiated by an [IDM](../implementation/ecosystem/IDM.md)) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given interface was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their interactions in which case their signatures will be within the data blobs and the only check required will be for the keypair used for the specific block number.
 
 ---
 
-Users and interfaces don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate `<interface_name>/<nonce>/<user_name>/<content_id>` with strings into the canonical integer form discussed previously by substituting the interface & user names with the account IDs.
+Users and interfaces don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate `<interface_name>/<nonce>/<user_name>/<content_id>` with strings into the canonical integer form discussed previously by substituting the interface & user names with account IDs.
 
-Every name has an associated auto-increment nonce as well for every time they submit an anchor for off-chain content (just like account IDs) and the blockchain records mappings of `<name>/<nonce>` to `<id>/<nonce>` which can then be used to map to the block that contains the Merkle root & [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) (hash) for the anchored blob.
+Every name has an associated auto-increment nonce as well for every time they submit an anchor for off-chain content (just like account IDs) and the blockchain records maps of `<name>/<nonce>` to `<id>/<nonce>` which can then be used for another lookup to get the block that contains the Merkle root & [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) (hash) for the anchored blob.
 
-But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check the account IDs that correspond to all usernames within that blob.
+But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check the account IDs that correspond to all usernames within that blob at that time.
 
 And thus we're be able to have URNs such as `twitter.com/55212/johnny/3` to identify any event by any actor - all we'd need to do is a few lookups and then we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URNs will even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface. Most Web3 platforms [suffer from unreadable URLs](https://twitter.com/hasufl/status/1537388439259291649) but we've done a lot better - note the brevity and lack of hashes & hexadecimal symbols (`0xf56a0...`) - in fact, this is as good as it gets.
 
-Or is it?! What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number but the router always changes the URL when loading the page to include the title too). [Message types](../implementation/ecosystem/messages.md) for posts with titles will have a dedicated field for them which will get included in the content hash and conforming interfaces will refuse to show a wrong title in a URN as it would be a trivial check.
+Or is it?! What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: [question 4](https://stackoverflow.com/questions/4)) but the page router always changes the URL when loading the page to include the title too). [Message types](../implementation/ecosystem/messages.md) for posts with titles will have a dedicated field for them which will get included in the content hash and conforming interfaces will refuse to show a wrong title in a URN as it would be a trivial check.
 
-Names are discussed in greater detail in [their dedicated page](../implementation/handles.md) (constraints, subdomains, auctions, distribution, leasing, etc.).
+Names are discussed in greater detail in [their dedicated page](../implementation/handles.md) (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.).
 
 # Benefits of data/name-centric networking
 
-TODO: Multiple points to retrieve content
+TODO: Multiple points to retrieve content - redundancy
 
 platform attribution - advertising 
 Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URNs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before & are curious or if their current interface doesn't fully support a given message type).
