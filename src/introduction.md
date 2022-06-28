@@ -13,7 +13,7 @@ The following sub-chapters convey the idea (what):
 But the vision would be incomplete without the subsequent [why](motivation/why.md) and [how](blockchain.md).
 
 <div style="text-align: center;">
-    <img src="logo2.png">
+    <img src="logo.png">
 </div>
 
 Inspired by the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans in the Matrix.
