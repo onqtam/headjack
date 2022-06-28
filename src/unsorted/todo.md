@@ -185,3 +185,5 @@ https://news.ycombinator.com/item?id=25735773
 https://en.wikipedia.org/wiki/Hash_array_mapped_trie
 
 
+https://ipld.io/docs/schemas/
+

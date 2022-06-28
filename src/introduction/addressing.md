@@ -16,9 +16,12 @@ THE LEDGER OF RECORD
 Today's web revolves around hosts - we query DNS to get the IP of servers which we talk to directly to retrieve data that they store. Once they are gone - the data is gone too. 90%+ of the links on the web are dead 
 
 
-[Link rot](https://en.wikipedia.org/wiki/Link_rot) is a major problem and we are building our digital history on shifting sands without a solid foundation. As great as the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is - it remains just a bandaid
+[Link rot](https://en.wikipedia.org/wiki/Link_rot) is a major problem and we are building our digital history on shifting sands without a solid foundation. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is just a bandaid
 
 But there's also ["content drift"](https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php)
+
+
+["More than 98% of the information on the web is lost within 20 years"](https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/)
 
 
 
@@ -75,6 +78,12 @@ And thus we're be able to have URNs such as `twitter.com/55212/johnny/3` to iden
 Or is it?! What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: [question 4](https://stackoverflow.com/questions/4)) but the page router always changes the URL when loading the page to include the title too). [Message types](../implementation/ecosystem/messages.md) for posts with titles will have a dedicated field for them which will get included in the content hash and conforming interfaces will refuse to show a wrong title in a URN as it would be a trivial check.
 
 Names are discussed in greater detail in [their dedicated page](../implementation/handles.md) (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.).
+
+TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
+
+TODO: when viewing an old stable URI that has been referenced by "update events" responsible interfaces should show the newest version and indicate that there has been a change
+
+TODO: multiple edit events in parallel to the same original message? a fork? :|
 
 # Benefits of data/name-centric networking
 

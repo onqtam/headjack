@@ -221,8 +221,9 @@ But rss is too technical
 Dns got overloaded too many times</li>
 </ul>
 <p>Today's web revolves around hosts - we query DNS to get the IP of servers which we talk to directly to retrieve data that they store. Once they are gone - the data is gone too. 90%+ of the links on the web are dead </p>
-<p><a href="https://en.wikipedia.org/wiki/Link_rot">Link rot</a> is a major problem and we are building our digital history on shifting sands without a solid foundation. As great as the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is - it remains just a bandaid</p>
+<p><a href="https://en.wikipedia.org/wiki/Link_rot">Link rot</a> is a major problem and we are building our digital history on shifting sands without a solid foundation. The <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid</p>
 <p>But there's also <a href="https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php">&quot;content drift&quot;</a></p>
+<p><a href="https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/">&quot;More than 98% of the information on the web is lost within 20 years&quot;</a></p>
 <p>https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/</p>
 <p><a href="https://en.wikipedia.org/wiki/Memory_hole">Memory hole</a></p>
 <ul>
@@ -256,6 +257,9 @@ NDN lacks a global name registry</p>
 <p>And thus we're be able to have URNs such as <code>twitter.com/55212/johnny/3</code> to identify any event by any actor - all we'd need to do is a few lookups and then we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URNs will even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface. Most Web3 platforms <a href="https://twitter.com/hasufl/status/1537388439259291649">suffer from unreadable URLs</a> but we've done a lot better - note the brevity and lack of hashes &amp; hexadecimal symbols (<code>0xf56a0...</code>) - in fact, this is as good as it gets.</p>
 <p>Or is it?! What about headlines of articles - can we have them included as well - something like <code>twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again</code>? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: <a href="https://stackoverflow.com/questions/4">question 4</a>) but the page router always changes the URL when loading the page to include the title too). <a href="introduction/../implementation/ecosystem/messages.html">Message types</a> for posts with titles will have a dedicated field for them which will get included in the content hash and conforming interfaces will refuse to show a wrong title in a URN as it would be a trivial check.</p>
 <p>Names are discussed in greater detail in <a href="introduction/../implementation/handles.html">their dedicated page</a> (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.).</p>
+<p>TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces &amp; platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that</p>
+<p>TODO: when viewing an old stable URI that has been referenced by &quot;update events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
+<p>TODO: multiple edit events in parallel to the same original message? a fork? :|</p>
 <h1 id="benefits-of-dataname-centric-networking"><a class="header" href="#benefits-of-dataname-centric-networking">Benefits of data/name-centric networking</a></h1>
 <p>TODO: Multiple points to retrieve content - redundancy</p>
 <p>platform attribution - advertising 
@@ -835,6 +839,7 @@ References are useful beyond peer review - it would be useful for the entire web
 </li>
 </ul>
 <p>wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to &quot;edit&quot; &amp; publish a new version of an item</p>
+<p>fork wikipedia?</p>
 <p>github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.</p>
 <ul>
 <li>peer review can (and should) be reimplemented on top of infrastructure like this</li>

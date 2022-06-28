@@ -221,6 +221,8 @@ no more tweets with a few screenshots of other tweets - these should be composab
 
 wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
 
+fork wikipedia?
+
 github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.
 
 - peer review can (and should) be reimplemented on top of infrastructure like this
