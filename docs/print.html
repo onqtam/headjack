@@ -210,14 +210,16 @@
 <p>Key &amp; session management (rotation, authorization &amp; revocation) <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">require</a> ordering that is <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logically centralized</a>. This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (<code>&quot;X follows Y&quot;</code> only affects <code>X</code>) and that is <a href="introduction/../implementation/scaling.html">provable with easy to grasp napkin math</a>. It is compatible with any type of <a href="https://www.w3.org/TR/did-core/">DID</a> - anything could be associated with an integer ID.</p>
 <p>TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available &amp; retrievable - putting as much as possible on-chain is a much simpler model.</p>
 <p>A key point is that in Headjack all connections in the <a href="https://en.wikipedia.org/wiki/Interest_graph">interest graph</a> are asymmetric and also visible &amp; on-chain as it is geared towards <a href="https://www.quora.com/Will-the-future-of-social-graph-relationships-be-asymmetric-following-e-g-Quora-Twitter-or-symmetric-friending-e-g-Facebook/answer/David-O-Sacks">public discourse</a> but private ones for a social graph can also be achieved through encryption - either on-chain (although much more costly &amp; complex) or handled &amp; stored by <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> with greater trust assumptions. However, being public by default (as is the case with Twitter) greatly improves discoverability and the chances to bootstrap the network effect. Identities will have their own customized landing pages - provided either on-chain or off-chain through an IDM - <a href="https://en.wikipedia.org/wiki/Linktree">Linktree</a> is <a href="https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/">valued at 1.3B$</a> and is just a bandaid for today’s fragmentation of identity on the internet.</p>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="addressing-hostapp-vs-dataname-centric"><a class="header" href="#addressing-hostapp-vs-dataname-centric">Addressing: host/app vs data/name centric</a></h1>
-<h1 id="todays-web-host-centric-networking"><a class="header" href="#todays-web-host-centric-networking">Today's web: host-centric networking</a></h1>
-<p>Addressing: host/app vs data/name centric</p>
-<p>Today's web revolves around hosts &amp; <a href="https://en.wikipedia.org/wiki/Unicast">unicast</a> communication - we query <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> to get the <a href="https://en.wikipedia.org/wiki/IP_address">IP</a> of servers and open direct connections to retrieve the data that they host. But domains, URI paths on servers &amp; the actual files all change &amp; go away which leads to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> &amp; <a href="https://news.ycombinator.com/item?id=27688090">content drift</a> - in fact <a href="https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/">&quot;more than 98% of the information on the web is lost within 20 years&quot;</a>. Guidance such as <a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a> is just that - guidance - and the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid that can hardly keep up with the digital <a href="https://en.wikipedia.org/wiki/Memory_hole">memory hole</a>. Furthermore, data is host-certified (as opposed to <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a>) and lives in fragmented <a href="https://en.wikipedia.org/wiki/Information_silo">silos with no interoperability</a>. <strong>Information is fragile without an ecosystem of identity, reputation, references, context &amp; liability - we are building our digital history on <a href="https://news.ycombinator.com/item?id=27690525">shifting sands</a> without a solid foundation.</strong></p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="todays-web-host-centric-networking"><a class="header" href="#todays-web-host-centric-networking">Today's web: host-centric networking</a></h1>
+<p>Today's web revolves around hosts &amp; <a href="https://en.wikipedia.org/wiki/Unicast">unicast</a> communication - we query <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> to get the <a href="https://en.wikipedia.org/wiki/IP_address">IP</a> of servers and open direct connections to retrieve the data that they host. But domains, URI paths on servers &amp; the actual files all change &amp; go away which leads to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> &amp; content drift. Guidance such as <a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a> is just that - guidance - and the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid that can hardly keep up with the digital <a href="https://en.wikipedia.org/wiki/Memory_hole">memory hole</a>. In the host-certified paradigm URLs at best point to a location at which a document may have been available at a point in time - devoid of any cryptographic proofs regarding the contents, the creator or the time of publication (as opposed to <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> data) and everything lives in <a href="https://en.wikipedia.org/wiki/Information_silo">silos</a> with no interoperability which leads to fragmented public discussion if any. In fact <a href="https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/">&quot;more than 98% of the information on the web is lost within 20 years&quot;</a>. <strong>Information is fragile without an ecosystem of identity, reputation, references, context &amp; liability - we are building our digital history on <a href="https://news.ycombinator.com/item?id=27690525">shifting sands</a> without a solid foundation.</strong></p>
+<p>The internet is a collective hallucination and is rotting - a few great quotes from <a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">this piece</a>:</p>
 <blockquote>
-<p>People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
-https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
+<p>People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.</p>
 </blockquote>
+<blockquote>
+<p>Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.</p>
+</blockquote>
+<p>https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf</p>
 <pre><code>Include a case study with balaji and his post with archived links for permanence - all the data could even be bundled with crypto proofs
 case study: Balaji uses the interet archive for stable links to some of the links
 
@@ -225,7 +227,6 @@ case study: Balaji uses the interet archive for stable links to some of the link
 Balaji is future-proofing his writings by using archived URLs by default when referring to articles even though they are still around!
 [Example](https://balajis.com/synthesis/): look what `&quot;Prussian&quot;` in that text is [pointing to](https://archive.ph/O2D45).
 </code></pre>
-<h1 id=""><a class="header" href="#"></a></h1>
 <p>Let's avoid the fate of a <a href="https://en.wikipedia.org/wiki/Sand_mandala">Sand Mandala</a>.</p>
 <p>As Google puts it, “The web is like an ever-growing library with billions of books and no central filing system.”</p>
 <blockquote>
@@ -233,15 +234,11 @@ Balaji is future-proofing his writings by using archived URLs by default when re
 https://perma.cc/9HE2-VZF9
 (the actual page no longer shows what has been archived - changed already)</p>
 </blockquote>
+<h1 id="the-solution---named-data-centric-networking-in-a-ledger-of-record"><a class="header" href="#the-solution---named-data-centric-networking-in-a-ledger-of-record">The solution - named data-centric networking in a ledger of record</a></h1>
 <p>TODO: borrow some of the text around &quot;The three components that enable self-authentication&quot;
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <p>THE LEDGER OF RECORD</p>
 <p>THE GLOBAL GIT</p>
-<p>The internet is a collective hallucination
-https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf
-The Internet Is Rotting
-Too much has been lost already. The glue that holds humanity’s knowledge together is coming undone.
-https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
 <p>DNS was the original “decentralization” (although not in the crypto sense)</p>
 <ul>
 <li>
@@ -345,6 +342,7 @@ https://en.wikipedia.org/wiki/Linked_data</p>
 <p>https://en.wikipedia.org/wiki/Content-addressable_storage</p>
 <p>The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
 https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
+<h1 id="addressing-hostapp-vs-dataname-centric"><a class="header" href="#addressing-hostapp-vs-dataname-centric">Addressing: host/app vs data/name centric</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
 <p>People grossly underestimate the size of the web and the type of infrastructure that's required - what is going on within a single minute of 2021 is <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html"><ins>truly mind-boggling</ins></a> (this is an incomplete picture).</p>
 <img src="https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-32-j.webp">
@@ -679,6 +677,10 @@ Headjack's mission is to end network effect monopolies &amp; make identity &amp;
 But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm.
 https://perma.cc/8GDJ-K6AX
 Can we point to such a search engine today?</p>
+<blockquote>
+<p>Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go.
+https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
+</blockquote>
 <p>just working on an open social graph that can scale to billions &amp; outcompete a monopoly that stopped innovating after achieving PMF, closed its APIs &amp; ossified - never living up to its full potential. Here we are at the 16th anniversary:
 https://twitter.com/jack/status/20
 1/10 👇</p>
@@ -1189,6 +1191,8 @@ With verifiable computation, these aggregators will even be able to produce comp
 We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products.</p>
 <p>Search is a very hard problem:
 https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d</p>
+<p>https://news.ycombinator.com/item?id=27593360
+https://news.ycombinator.com/item?id=26328758</p>
 <p>Have a dedicated page about the pipeline of publishing and ingesting an event</p>
 <div style="break-before: page; page-break-before: always;"></div><p>content moderation from minds.com
 https://www.minds.com/content-policy</p>
