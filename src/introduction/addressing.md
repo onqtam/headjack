@@ -4,15 +4,13 @@ Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unic
 
 > "The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt URNs on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it." - [someone](https://news.ycombinator.com/item?id=27691442).
 
-The internet is a collective hallucination and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
+The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
 
 > People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
 
 > Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.
 
 **Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation.**
-
-https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf
 
 
     Include a case study with balaji and his post with archived links for permanence - all the data could even be bundled with crypto proofs
