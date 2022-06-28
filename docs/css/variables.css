@@ -12,7 +12,7 @@
 
 .ayu {
     --bg: hsl(210, 25%, 8%);
-    --bg-img: url("../best_2.jpg");
+    --bg-img: url("../background.jpg");
     --fg: #c5c5c5;
 
     --sidebar-bg: #14191f;
@@ -53,7 +53,7 @@
 
 .coal {
     --bg: hsl(200, 7%, 8%);
-    --bg-img: url("../best_2.jpg");
+    --bg-img: url("../background.jpg");
     --fg: #98a3ad;
 
     --sidebar-bg: #292c2f;
@@ -135,7 +135,7 @@
 
 .navy {
     --bg: hsl(226, 23%, 11%);
-    --bg-img: none;
+    --bg-img: url("../background.jpg");
     --fg: #bcbdd0;
 
     --sidebar-bg: #282d3f;
