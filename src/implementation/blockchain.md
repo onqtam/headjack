@@ -12,6 +12,8 @@ https://www.alexbeckett.xyz/composability-in-a-rollup-ecosystem/
 
 TODO: read these on rollups
 
+https://celestia.org/learn/
+
 https://www.alexbeckett.xyz/secure-light-nodes-and-the-scalability-trilemma/
 https://www.alexbeckett.xyz/the-economics-for-rollup-fees/
 https://www.alexbeckett.xyz/the-path-toward-scaling-rollups/

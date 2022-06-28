@@ -10,6 +10,9 @@ it doesn't make sense to not be possible to comment on anything in the web and n
 
 No need to rebuild social graphs in every new interface/platform
 
+"diff" view that summarizes the changes to a URL over time
+TODO: look at this:
+We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches
 
 
 

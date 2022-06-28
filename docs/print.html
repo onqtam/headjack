@@ -203,6 +203,7 @@
 <p>The vast majority of users will be light-weight: consumers &amp; curators of content (through interactions &amp; reactions) with very little creation on their part and little to no audience. Their subscriptions/interests matter most, but at any point in time they could shift to a more vocal role and start caring about archiving their off-chain data and not relying on the good grace of the infrastructure that sits beneath interfaces.</p>
 <hr />
 <p>Think of it as an <a href="https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self describing messages, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity, connections &amp; authorization are on-chain and have guaranteed storage &amp; retrievability whereas all data objects are just cryptographically anchored and stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>) for which durability &amp; retrievability is on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees. Another way to look at it is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network similar to <a href="https://kafka.apache.org/intro">Kafka</a> where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's <a href="https://twitter.com/jack/status/1204766078468911106">vision for decentralizing Twitter</a>.</p>
+<p>TODO: link to addressing and note how important that is</p>
 <blockquote>
 <p>&quot;The internet is the computer but it's missing identity and <a href="https://en.wikipedia.org/wiki/Access-control_list">acls</a>.&quot; - <a href="https://news.ycombinator.com/item?id=25734612">someone</a>.</p>
 </blockquote>
@@ -210,23 +211,47 @@
 <p>TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available &amp; retrievable - putting as much as possible on-chain is a much simpler model.</p>
 <p>A key point is that in Headjack all connections in the <a href="https://en.wikipedia.org/wiki/Interest_graph">interest graph</a> are asymmetric and also visible &amp; on-chain as it is geared towards <a href="https://www.quora.com/Will-the-future-of-social-graph-relationships-be-asymmetric-following-e-g-Quora-Twitter-or-symmetric-friending-e-g-Facebook/answer/David-O-Sacks">public discourse</a> but private ones for a social graph can also be achieved through encryption - either on-chain (although much more costly &amp; complex) or handled &amp; stored by <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> with greater trust assumptions. However, being public by default (as is the case with Twitter) greatly improves discoverability and the chances to bootstrap the network effect. Identities will have their own customized landing pages - provided either on-chain or off-chain through an IDM - <a href="https://en.wikipedia.org/wiki/Linktree">Linktree</a> is <a href="https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/">valued at 1.3B$</a> and is just a bandaid for today’s fragmentation of identity on the internet.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="addressing-hostapp-vs-dataname-centric"><a class="header" href="#addressing-hostapp-vs-dataname-centric">Addressing: host/app vs data/name centric</a></h1>
-<p><a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a></p>
+<h1 id="todays-web-host-centric-networking"><a class="header" href="#todays-web-host-centric-networking">Today's web: host-centric networking</a></h1>
+<p>Addressing: host/app vs data/name centric</p>
+<p>Today's web revolves around hosts &amp; <a href="https://en.wikipedia.org/wiki/Unicast">unicast</a> communication - we query <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> to get the <a href="https://en.wikipedia.org/wiki/IP_address">IP</a> of servers and open direct connections to retrieve the data that they host. But domains, URI paths on servers &amp; the actual files all change &amp; go away which leads to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> &amp; <a href="https://news.ycombinator.com/item?id=27688090">content drift</a> - in fact <a href="https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/">&quot;more than 98% of the information on the web is lost within 20 years&quot;</a>. Guidance such as <a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a> is just that - guidance - and the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid that can hardly keep up with the digital <a href="https://en.wikipedia.org/wiki/Memory_hole">memory hole</a>. Furthermore, data is host-certified (as opposed to <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a>) and lives in fragmented <a href="https://en.wikipedia.org/wiki/Information_silo">silos with no interoperability</a>. <strong>Information is fragile without an ecosystem of identity, reputation, references, context &amp; liability - we are building our digital history on <a href="https://news.ycombinator.com/item?id=27690525">shifting sands</a> without a solid foundation.</strong></p>
+<blockquote>
+<p>People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
+https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
+</blockquote>
+<pre><code>Include a case study with balaji and his post with archived links for permanence - all the data could even be bundled with crypto proofs
+case study: Balaji uses the interet archive for stable links to some of the links
+
+
+Balaji is future-proofing his writings by using archived URLs by default when referring to articles even though they are still around!
+[Example](https://balajis.com/synthesis/): look what `&quot;Prussian&quot;` in that text is [pointing to](https://archive.ph/O2D45).
+</code></pre>
+<h1 id=""><a class="header" href="#"></a></h1>
+<p>Let's avoid the fate of a <a href="https://en.wikipedia.org/wiki/Sand_mandala">Sand Mandala</a>.</p>
+<p>As Google puts it, “The web is like an ever-growing library with billions of books and no central filing system.”</p>
+<blockquote>
+<p>The web is like an ever-growing library with billions of books and no central filing system.
+https://perma.cc/9HE2-VZF9
+(the actual page no longer shows what has been archived - changed already)</p>
+</blockquote>
+<p>TODO: borrow some of the text around &quot;The three components that enable self-authentication&quot;
+https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <p>THE LEDGER OF RECORD</p>
+<p>THE GLOBAL GIT</p>
+<p>The internet is a collective hallucination
+https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf
+The Internet Is Rotting
+Too much has been lost already. The glue that holds humanity’s knowledge together is coming undone.
+https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
+<p>DNS was the original “decentralization” (although not in the crypto sense)</p>
 <ul>
-<li>DNS
+<li>
+<p>DNS
 DNS was the original “decentralization”.
 RSS was an attempt for the next iteration
 How do you store your friend list?
 But rss is too technical
-Dns got overloaded too many times</li>
-</ul>
-<p>Today's web revolves around hosts - we query DNS to get the IP of servers which we talk to directly to retrieve data that they store. Once they are gone - the data is gone too. 90%+ of the links on the web are dead </p>
-<p><a href="https://en.wikipedia.org/wiki/Link_rot">Link rot</a> is a major problem and we are building our digital history on shifting sands without a solid foundation. The <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid</p>
-<p>But there's also <a href="https://www.cjr.org/analysis/linkrot-content-drift-new-york-times.php">&quot;content drift&quot;</a></p>
-<p><a href="https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/">&quot;More than 98% of the information on the web is lost within 20 years&quot;</a></p>
-<p>https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/</p>
-<p><a href="https://en.wikipedia.org/wiki/Memory_hole">Memory hole</a></p>
-<ul>
+Dns got overloaded too many times</p>
+</li>
 <li>
 <p>host/app-centric vs data/name centric
 We are dominated by platforms &amp; applications when in reality data is the most important thing - we need to be able to address it.
@@ -258,13 +283,15 @@ NDN lacks a global name registry</p>
 <p>Or is it?! What about headlines of articles - can we have them included as well - something like <code>twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again</code>? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: <a href="https://stackoverflow.com/questions/4">question 4</a>) but the page router always changes the URL when loading the page to include the title too). <a href="introduction/../implementation/ecosystem/messages.html">Message types</a> for posts with titles will have a dedicated field for them which will get included in the content hash and conforming interfaces will refuse to show a wrong title in a URN as it would be a trivial check.</p>
 <p>Names are discussed in greater detail in <a href="introduction/../implementation/handles.html">their dedicated page</a> (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.).</p>
 <p>TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces &amp; platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that</p>
-<p>TODO: when viewing an old stable URI that has been referenced by &quot;update events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
-<p>TODO: multiple edit events in parallel to the same original message? a fork? :|</p>
-<h1 id="benefits-of-dataname-centric-networking"><a class="header" href="#benefits-of-dataname-centric-networking">Benefits of data/name-centric networking</a></h1>
+<p>TODO: when viewing an old stable URI that has been referenced by &quot;update/edit events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
+<h1 id="benefits-of-headjacks-dataname-centric-approach"><a class="header" href="#benefits-of-headjacks-dataname-centric-approach">Benefits of Headjack's data/name-centric approach</a></h1>
 <p>TODO: Multiple points to retrieve content - redundancy</p>
 <p>platform attribution - advertising 
 Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URNs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before &amp; are curious or if their current interface doesn't fully support a given message type).</p>
 <p>==&gt; discoverability of new interfaces!</p>
+<p>TODO: articles can include the data for whatever they reference &amp; even provide the merkle proofs for those - self-contained, complete &amp; permanent publications</p>
+<p>This way data is self-certifying 
+not just self-certifying data addressable by hash, but also by a pretty URL!</p>
 <h1 id="names"><a class="header" href="#names">Names</a></h1>
 <ul>
 <li>
@@ -275,15 +302,11 @@ Interface names that were used to publish content can serve as advertising (inte
 </ul>
 </li>
 <li>
-<p>archivability, shifting sands</p>
+<p>archivability</p>
 <ul>
 <li>data vs entire webpage content</li>
 <li>push vs pull</li>
 </ul>
-<p>Include a case study with balaji and his post with archived links for permanence - all the data could even be bundled with crypto proofs
-case study: Balaji uses the interet archive for stable links to some of the links</p>
-<p>Balaji is future-proofing his writings by using archived URLs by default when referring to articles even though they are still around!
-<a href="https://balajis.com/synthesis/">Example</a>: look what <code>&quot;Prussian&quot;</code> in that text is <a href="https://archive.ph/O2D45">pointing to</a>.</p>
 </li>
 <li>
 <p>indexing
@@ -296,13 +319,11 @@ https://twitter.com/balajis/status/1406400770581303297</p>
 <ul>
 <li>stable URLs
 STABILITY !!!</li>
-<li>extensible</li>
+<li>extensible - sub-addressing?</li>
 </ul>
 </li>
 </ul>
 <p>TODO: talk about PUSH vs PULL &amp; how that relates to RSS - on the main page.</p>
-<p>The network effect is not related to data fetching and the implementation of that but of stable data addressing and user connections.</p>
-<p>not just self-certifying data addressable by hash, but also by a pretty URL!</p>
 <p>Headjack - free the world's information by making it portable &amp; addressable</p>
 <p>Data needs to be removed from the grip of host/app-centric monopolies</p>
 <p>interlinking data and allowing different views to be used will reduce the effect of echo chambers</p>
@@ -311,6 +332,7 @@ STABILITY !!!</li>
 https://en.wikipedia.org/wiki/RDFa</p>
 <p>data-centric architectures are a paradigm shift</p>
 <p>Stable URLs, deduplicating content &amp; anchoring everything to a single backbone greatly improves the indexability of the web.</p>
+<p>Good addressing intertwined with identity is a strong network effect.</p>
 <p>the addition of a global singleton of access control management and key registry solves a lot of problems in NDN around security</p>
 <p>Headjack is the index for web-scale <a href="https://en.wikipedia.org/wiki/Content_centric_networking">content centric networking</a>.</p>
 <p>A global index of all content throughout time in an Information-centric network - a form of named data networking layered on top of the current host-centric model (client-server connections through IP &amp; DNS)</p>
@@ -320,6 +342,7 @@ https://en.wikipedia.org/wiki/RDFa</p>
 https://en.wikipedia.org/wiki/Linked_data</p>
 <p>linking data based on URIs in a host-centric internet architecture is inherently flawed - needs to be in a named data paradigm</p>
 <p>https://en.wikipedia.org/wiki/Hyperdata</p>
+<p>https://en.wikipedia.org/wiki/Content-addressable_storage</p>
 <p>The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
 https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
@@ -686,6 +709,9 @@ We should be connecting echo chambers and taking notes from Taiwan's civic hackt
 <p>hope for spam &amp; moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email</p>
 <p>it doesn't make sense to not be possible to comment on anything in the web and not have your followers see it. simply doesn't</p>
 <p>No need to rebuild social graphs in every new interface/platform</p>
+<p>&quot;diff&quot; view that summarizes the changes to a URL over time
+TODO: look at this:
+We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches</p>
 <h2 id="recommendation-algorithms"><a class="header" href="#recommendation-algorithms">Recommendation algorithms</a></h2>
 <p>promotion of videos will no longer be dominated just by the recommendation algorithm - when an influencer comments on a video his followers will see it and watch the said video too</p>
 <p>We will be able to study the effects of recommendation algorithms for virality because all content has an interface where it came from</p>
@@ -852,6 +878,7 @@ https://polynya.medium.com/the-sustainability-checklist-d620549425dc</p>
 <p>Aside from the scalability properties rollups can possess, they also solve both fundamental problems. Rollups don’t need their own validators, only a set of sequencers to produce blocks. The base layer provides the secure validator set. Rollups that share a settlement layer can build trust-minimized bridges between them because their state transitions can be easily verified through the settlement layer.
 https://www.alexbeckett.xyz/composability-in-a-rollup-ecosystem/</p>
 <p>TODO: read these on rollups</p>
+<p>https://celestia.org/learn/</p>
 <p>https://www.alexbeckett.xyz/secure-light-nodes-and-the-scalability-trilemma/
 https://www.alexbeckett.xyz/the-economics-for-rollup-fees/
 https://www.alexbeckett.xyz/the-path-toward-scaling-rollups/
@@ -1049,7 +1076,8 @@ https://signal.org/blog/the-ecosystem-is-moving/</p>
 <p>tag type idea: prediction, and later with oracles credibility &amp; track records could be automated</p>
 <p>subreddits would be implemented by a special message type with a tag for the subreddit that people are posting into</p>
 <p>updates to old post...
-- how would old unique URLs to the original posts get updated?</p>
+- how would old unique URLs to the original posts get updated?
+multiple edit events in parallel to the same original message? a fork? :|</p>
 <p>update to post - as a diff, with different kinds of diff algos?</p>
 <p>dislike button/protocol/spec? ⇒ reactions</p>
 <p>https://en.wikipedia.org/wiki/Ontology_(information_science)

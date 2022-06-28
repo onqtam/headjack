@@ -28,6 +28,8 @@ subreddits would be implemented by a special message type with a tag for the sub
 
 updates to old post...
     - how would old unique URLs to the original posts get updated?
+multiple edit events in parallel to the same original message? a fork? :|
+
 
 update to post - as a diff, with different kinds of diff algos?
 
