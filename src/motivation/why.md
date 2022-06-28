@@ -248,9 +248,10 @@ Google's mission is to organize the world's information and make it universally 
 Headjack's mission is to end network effect monopolies & make identity & data interoperable.
 
 
-
-
-
+The original whitepaper by Google's founders describing their search engine contains the following:
+But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm.
+https://perma.cc/8GDJ-K6AX
+Can we point to such a search engine today?
 
 
 

@@ -159,6 +159,24 @@ imagine how hard it would be to push deepfake clips if the norm for clips is to 
 
 no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
 
+
+we are building our digital history on [shifting sands](https://news.ycombinator.com/item?id=27690525) without a solid foundation.**
+
+
+It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple
+https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+
+
+The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf.
+https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+
+
+https://perma.cc/5ZC2-P4JM
+https://perma.cc/JA33-F7F9?type=image
+For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals.
+https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+
+
 ## Infrastructure improvements
 
 - [Search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d):
