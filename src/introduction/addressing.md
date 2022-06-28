@@ -25,8 +25,6 @@ Let's avoid the fate of a [Sand Mandala](https://en.wikipedia.org/wiki/Sand_mand
 
 
 
-
-
 As Google puts it, “The web is like an ever-growing library with billions of books and no central filing system.”
 > The web is like an ever-growing library with billions of books and no central filing system.
 https://perma.cc/9HE2-VZF9
