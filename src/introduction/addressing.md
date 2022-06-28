@@ -1,15 +1,16 @@
-# Addressing: host/app vs data/name centric
-
 # Today's web: host-centric networking
 
-Addressing: host/app vs data/name centric
+Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unicast) communication - we query [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) to get the [IP](https://en.wikipedia.org/wiki/IP_address) of servers and open direct connections to retrieve the data that they host. But domains, URI paths on servers & the actual files all change & go away which leads to [link rot](https://en.wikipedia.org/wiki/Link_rot) & content drift. Guidance such as ["Cool URIs don't change"](https://www.w3.org/Provider/Style/URI) is just that - guidance - and the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is just a bandaid that can hardly keep up with the digital [memory hole](https://en.wikipedia.org/wiki/Memory_hole). In the host-certified paradigm URLs at best point to a location at which a document may have been available at a point in time - devoid of any cryptographic proofs regarding the contents, the creator or the time of publication (as opposed to [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) data) and everything lives in [silos](https://en.wikipedia.org/wiki/Information_silo) with no interoperability which leads to fragmented public discussion if any. In fact ["more than 98% of the information on the web is lost within 20 years"](https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/). **Information is fragile without an ecosystem of identity, reputation, references, context & liability - we are building our digital history on [shifting sands](https://news.ycombinator.com/item?id=27690525) without a solid foundation.**
 
-Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unicast) communication - we query [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) to get the [IP](https://en.wikipedia.org/wiki/IP_address) of servers and open direct connections to retrieve the data that they host. But domains, URI paths on servers & the actual files all change & go away which leads to [link rot](https://en.wikipedia.org/wiki/Link_rot) & [content drift](https://news.ycombinator.com/item?id=27688090) - in fact ["more than 98% of the information on the web is lost within 20 years"](https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/). Guidance such as ["Cool URIs don't change"](https://www.w3.org/Provider/Style/URI) is just that - guidance - and the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is just a bandaid that can hardly keep up with the digital [memory hole](https://en.wikipedia.org/wiki/Memory_hole). Furthermore, data is host-certified (as opposed to [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document)) and lives in fragmented [silos with no interoperability](https://en.wikipedia.org/wiki/Information_silo). **Information is fragile without an ecosystem of identity, reputation, references, context & liability - we are building our digital history on [shifting sands](https://news.ycombinator.com/item?id=27690525) without a solid foundation.**
+The internet is a collective hallucination and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
 
 > People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
-https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+
+> Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.
 
 
+
+https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf
 
 
     Include a case study with balaji and his post with archived links for permanence - all the data could even be bundled with crypto proofs
@@ -18,8 +19,6 @@ https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collect
     
     Balaji is future-proofing his writings by using archived URLs by default when referring to articles even though they are still around!
     [Example](https://balajis.com/synthesis/): look what `"Prussian"` in that text is [pointing to](https://archive.ph/O2D45).
-
-# 
 
 Let's avoid the fate of a [Sand Mandala](https://en.wikipedia.org/wiki/Sand_mandala).
 
@@ -31,6 +30,8 @@ https://perma.cc/9HE2-VZF9
 (the actual page no longer shows what has been archived - changed already)
 
 
+# The solution - named data-centric networking in a ledger of record
+
 
 TODO: borrow some of the text around "The three components that enable self-authentication"
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
@@ -39,15 +40,6 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 THE LEDGER OF RECORD
 
 THE GLOBAL GIT
-
-
-The internet is a collective hallucination
-https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf
-The Internet Is Rotting
-Too much has been lost already. The glue that holds humanity’s knowledge together is coming undone.
-https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
-
-
 
 
 DNS was the original “decentralization” (although not in the crypto sense)
@@ -228,4 +220,8 @@ https://en.wikipedia.org/wiki/Content-addressable_storage
 
 The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
 https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods
+
+
+
+# Addressing: host/app vs data/name centric
 

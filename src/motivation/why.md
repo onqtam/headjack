@@ -255,6 +255,9 @@ Can we point to such a search engine today?
 
 
 
+> Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go.
+https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+
 
 
 
