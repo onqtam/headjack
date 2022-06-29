@@ -1,7 +1,5 @@
 # Summary
 
-{{#toc}}{{/toc}}
-
 - [Introduction (what)](introduction.md)
     - [On-chain vs off-chain](introduction/on_off_chain.md)
     - [Core idea](introduction/core_idea.md)
