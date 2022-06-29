@@ -10,8 +10,8 @@ Information is fragile without an ecosystem of identity, reputation, references,
 
 # The solution: a data-centric ledger of record
 
+The three components that enable self-authentication are [cryptographic identifiers](https://en.wikipedia.org/wiki/Public-key_cryptography), [content-addressed data](https://en.wikipedia.org/wiki/Content-addressable_storage), and [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing).
 
-TODO: borrow some of the text around "The three components that enable self-authentication"
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
 
@@ -46,6 +46,53 @@ DNS was the original “decentralization” (although not in the crypto sense)
 
     - deduplication
 
+
+
+
+
+Data needs to be removed from the grip of host/app-centric monopolies
+
+https://en.wikipedia.org/wiki/Tamper-evident_technology
+
+reinventing the semantic web 
+https://en.wikipedia.org/wiki/RDFa
+
+data-centric architectures are a paradigm shift
+
+Stable URLs, deduplicating content & anchoring everything to a single backbone greatly improves the indexability of the web.
+
+the addition of a global singleton of access control management and key registry solves a lot of problems in NDN around security
+
+Headjack is the index for web-scale [content centric networking](https://en.wikipedia.org/wiki/Content_centric_networking).
+
+A global index of all content throughout time in an Information-centric network - a form of named data networking layered on top of the current host-centric model (client-server connections through IP & DNS)
+
+Differences from NDN: builds on the current internet infrastructure, doesn't have the same packet types and routing concepts - utilizes technologies that are currently available.
+
+https://en.wikipedia.org/wiki/Future_Internet
+
+linking data is easier under a common global namespace
+https://en.wikipedia.org/wiki/Linked_data
+
+linking data based on URIs in a host-centric internet architecture is inherently flawed - needs to be in a named data paradigm
+
+https://en.wikipedia.org/wiki/Hyperdata
+
+https://en.wikipedia.org/wiki/Content-addressable_storage
+
+
+
+
+The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
+
+> Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.
+
+
+
+
+
+
+
 # Blob structure & addressing
 
 A major component of Headjack is how off-chain content is addressed. Interfaces accumulate activity from users which they cryptographically anchor in batches with a Merkle root which doesn't have to be on every block - those with little activity may submit only once per minute or even less often - the frequency is determined by publishing platforms based on the volume of activity and the on-chain costs for publishing bytes.
@@ -58,7 +105,7 @@ When the blob is finalized a Merkle root is constructed that touches every event
 
 Interfaces are yet another on-chain account and they'll be able to associate a REST/RPC endpoint or any other means for direct contact by the rest of the interfaces so that they may ask for the yet unanchored messages and display them while they are still in the "mempool". They can also advertise the multiaddress of their IPFS nodes so that each successive blob of generated content that gets published can be downloaded by others instantly by manually connecting with IPFS’s [“swarm connect” functionality](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986) - avoiding the use of the DHT for each new blob CID which may take tens of minutes. They can provide addresses to multiple IPFS nodes as a cluster for redundancy & horizontal scaling and use [Pinset orchestration for IPFS](https://ipfscluster.io/) - designed for Automated data availability and redundancy.
 
-# [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) - permanence, names & translation
+# [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) - permanence & translation
 
 Each account has an associated auto-increment counter (nonce) for every time they submit an anchor for off-chain content. So if an interface has submitted 4 times already, then the next submission will be with `nonce == 5`. The blockchain keeps a mapping for each previous nonce value to the block number when it changed so that `<interface_id>/<nonce>` can be translated to which block has the Merkle root anchor & IPFS hash for the blob that corresponds to that nonce for that account.
 
@@ -66,7 +113,7 @@ Once a blob is fetched through the [IPFS CID](https://docs.ipfs.io/concepts/cont
 
 The blockchain can be queried if the interface was allowed to post content on behalf of the user through on-chain authorization (probably initiated by an [IDM](../implementation/ecosystem/IDM.md)) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given interface was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their interactions in which case their signatures will be within the data blobs and the only check required will be for the keypair used for the specific block number.
 
----
+# Names
 
 Users and interfaces don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate `<interface_name>/<nonce>/<user_name>/<content_id>` with strings into the canonical integer form discussed previously by substituting the interface & user names with account IDs.
 
@@ -84,6 +131,9 @@ TODO: interface accounts should have associated ways of loading their interfaces
 
 TODO: when viewing an old stable URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
 
+- names/handles
+    - decentralized DNS
+
 # Benefits of Headjack's data/name-centric approach
 
 TODO: Multiple points to retrieve content - redundancy
@@ -98,20 +148,21 @@ TODO: articles can include the data for whatever they reference & even provide t
 This way data is self-certifying 
 not just self-certifying data addressable by hash, but also by a pretty URL!
 
-# Names
+Headjack - free the world's information by making it portable & addressable
+
+interlinking data and allowing different views to be used can reduce the effect of echo chambers
+
+Good addressing intertwined with identity is a strong network effect.
+
+- extensible - sub-addressing for content?
 
 
-
-
-- names/handles
-    - decentralized DNS
-    - giving/leasing the names properly & orderly is a hard problem
 
 
 - archivability
     - data vs entire webpage content
     - push vs pull
-    
+
 
 
 - indexing
@@ -121,7 +172,6 @@ not just self-certifying data addressable by hash, but also by a pretty URL!
 - addressing
     - stable URLs
     STABILITY !!!
-    - extensible - sub-addressing?
 
 TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
 
@@ -129,78 +179,14 @@ TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
 
 
 
-
-
-
-Headjack - free the world's information by making it portable & addressable
-
-
-Data needs to be removed from the grip of host/app-centric monopolies
-
-interlinking data and allowing different views to be used will reduce the effect of echo chambers
-
-
-https://en.wikipedia.org/wiki/Tamper-evident_technology
+Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins.
+https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
 
 
 
-
-
-
-
-reinventing the semantic web 
-https://en.wikipedia.org/wiki/RDFa
-
-data-centric architectures are a paradigm shift
-
-
-
-
-Stable URLs, deduplicating content & anchoring everything to a single backbone greatly improves the indexability of the web.
-
-Good addressing intertwined with identity is a strong network effect.
-
-the addition of a global singleton of access control management and key registry solves a lot of problems in NDN around security
-
-
-
-Headjack is the index for web-scale [content centric networking](https://en.wikipedia.org/wiki/Content_centric_networking).
-
-
-
-
-
-
-
-
-A global index of all content throughout time in an Information-centric network - a form of named data networking layered on top of the current host-centric model (client-server connections through IP & DNS)
-
-Differences from NDN: builds on the current internet infrastructure, doesn't have the same packet types and routing concepts - utilizes technologies that are currently available.
-
-
-
-
-
-https://en.wikipedia.org/wiki/Future_Internet
-
-
-
-linking data is easier under a common global namespace
-https://en.wikipedia.org/wiki/Linked_data
-
-linking data based on URIs in a host-centric internet architecture is inherently flawed - needs to be in a named data paradigm
-
-https://en.wikipedia.org/wiki/Hyperdata
-
-
-https://en.wikipedia.org/wiki/Content-addressable_storage
 
 
 The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
 https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods
-
-
-
-# Addressing: host/app vs data/name centric
 
