@@ -2,7 +2,7 @@
 
 A major component of Headjack is how off-chain content is addressed. Interfaces accumulate activity from users which they cryptographically anchor in batches with a Merkle root which doesn't have to be on every block - those with little activity may submit only once per minute or even less often - the frequency is determined by publishing platforms based on the volume of activity and the on-chain costs for publishing bytes.
 
-When enough activity has been collected, an interface constructs a blob and sorts all the events generated since the last anchored batch by grouping the activity by users and sorting them in some deterministic way (users based on index/name and user interactions based on the sequence).
+When enough activity has been collected, an interface constructs a blob and sorts all the events generated since the last anchored batch by grouping the activity by users and sorting them in some deterministic way (users based on index/name and user interactions based on the type/sequence).
 
 Interfaces maintain the logical order of events for the future batch in maps in order to provide intra-blob addressing even before it is fully constructed - as an example if a user posts an article and immediately after that comments on their post - the comment should be able to refer to the post which is not yet committed on-chain. Interfaces will also display activity by others that is not yet anchored and the interactions can still use the proper addressing when referring to the yet-to-be-anchored messages (the next nonce to use will be known). Any type of interaction is addressable and sequenced in the blobs - including reactions (likes, etc).
 

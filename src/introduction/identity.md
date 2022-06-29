@@ -1,4 +1,4 @@
-# On-chain identity
+# Identity & authorization
 
 There are 3 types of entities in Headjack:
 - User accounts - represented by an integer ID on-chain - keypair association is optional.
