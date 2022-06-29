@@ -1,9 +1,16 @@
 # Summary
 
 - [Introduction (what)](introduction.md)
+    - [Guiding principles](introduction/principles.md)
     - [On-chain vs off-chain](introduction/on_off_chain.md)
-    - [Core idea](introduction/core_idea.md)
+    - [Identity](introduction/identity.md)
     - [Content addressing](introduction/addressing.md)
+        - [Today's web: host-centric](introduction/host_centric.md)
+        - [The data-centric ledger of record](introduction/data_centric.md)
+        - [Blob structure & addressing](introduction/blob_structure.md)
+        - [Permanent URIs](introduction/uris.md)
+        - [Names & paths](introduction/names_and_paths.md)
+        - [Benefits of this approach](introduction/benefits.md)
     - [Web-scale & UX](introduction/web_scale.md)
     - [Competition](introduction/competition.md)
     - [The ambition](introduction/ambition.md)
@@ -17,7 +24,7 @@
     - [Tokenomics](implementation/tokenomics.md)
     - [Handles (names)](implementation/handles.md)
     - [Ecosystem]()
-        - [Identity managers (IDM)]()        <!-- (implementation/ecosystem/IDM.md) -->
+        - [Identity managers (IDM)](implementation/ecosystem/IDM.md)
         - [Message types](implementation/ecosystem/messages.md)
         - [Interface architectures](implementation/ecosystem/architecture.md)
         - [Moderation](implementation/ecosystem/moderation.md)

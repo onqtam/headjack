@@ -1,4 +1,4 @@
-
+# Scaling & throughput
 
 - Twitter: 400M users (220 MAU), average connections: 700
 - 1.1 TB for arrays of arrays with 4 byte integers (the graph)

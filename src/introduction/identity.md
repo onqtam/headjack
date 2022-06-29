@@ -1,14 +1,4 @@
-# Core idea
-
-There are 5 guiding principles when aiming for mass adoption & parity on convenience & UX with Web2 services:
-
-- Must be scalable to billions of users and that must be [obvious & provable](../implementation/scaling.md) if devs & entrepreneurs are expected to jump on the opportunity.
-- Must be simple and familiar - abstracting the complexity away. RSS was [too technical](https://twitter.com/mgsiegler/status/311992206716203008) and it failed - [`"people jumped ship as soon as something better came along"`](https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss). Users shouldn't have to manage keypairs on multiple devices & explicitly sign every interaction - by default they'll be logging into identity managers ([IDMs](../implementation/ecosystem/IDM.md)) using email & pass / [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) and would then be using these IDMs as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) to authorize interfaces to post on their behalf.
-- Users shouldn't have to think about and pay for the storage of their data by default - costs should be shifted to services.
-- Users should be able to own their identity & connections in a sovereign way with a keypair **even if by default** their activity is managed by something resembling a custodial service.
-- Anyone should be able to have an identity, operate an [IDM](../implementation/ecosystem/IDM.md) or serve media through an interface.
-
----
+# On-chain identity
 
 There are 3 types of entities in Headjack:
 - User accounts - represented by an integer ID on-chain - keypair association is optional.
@@ -25,7 +15,7 @@ With this foundation we achieve the following range of usage scenarios:
 
 - Costs for using the blockchain can be shifted to [IDMs](../implementation/ecosystem/IDM.md) & interfaces with business models to support that - users won't care that there's an underlying token (they'll always be able to interact with it directly through the mempool & pay for transactions if they wish).
 - Users won't need wallets & keypairs - risky and cumbersome with multiple devices. Most will create accounts through [IDMs](../implementation/ecosystem/IDM.md) & use email/pass or Web2 [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) which will create on-chain integer IDs for them without associated keypairs - "owned" by the custodian. Users will be able to "log in" to interfaces using their IDM as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) for Headjack which will authorize the interface with a few bytes on-chain to post actions on behalf of users - all without requiring a single signature by the user - neither on-chain for the identity/connections/authorizations (tiny bits of data - just integers & bit flags submitted by the [IDM](../implementation/ecosystem/IDM.md)) nor for their off-chain content (posts, comments, reactions).
-- Users can revoke permissions to interfaces and even retroactively invalidate activity generated on their behalf by an interface by saying `"discard activity from block X forward generated through interface Y"` through a small on-chain message published by their IDM because everything is sequenced. This is acceptable because in this blockchain [such data is non-financial](https://twitter.com/VitalikButerin/status/1530268923848839173) and fake activity has smaller consequences - in the current Web2 world we've accepted that possibility anyway.
+- Users can revoke permissions to interfaces and even retroactively invalidate activity generated on their behalf by an interface by saying `"discard activity generated through interface Y from block X forward"` through a small on-chain message published by their IDM because everything is sequenced. This is acceptable because in this blockchain [such data is non-financial](https://twitter.com/VitalikButerin/status/1530268923848839173) and fake activity has smaller consequences - in the current Web2 world we've accepted that possibility anyway.
 - At any point in time users can regain full sovereignty over their identities by binding a keypair through their [IDM](../implementation/ecosystem/IDM.md). Then they'll be able to cut that IDM off (revoke access) & even retroactively invalidate actions from it through another IDM or direct on-chain transactions.
 - Users can be completely anonymous by directly creating an identity with a keypair & paying for an on-chain transaction. They'll be able to use [IDMs](../implementation/ecosystem/IDM.md) without having to sign with email/pass or a Web2 [SSO](https://en.wikipedia.org/wiki/Single_sign-on) - not revealing anything.
 - Interfaces will be usable by users that don't use an [IDM](../implementation/ecosystem/IDM.md) but all their activity will need explicit signatures - updating follow connections on-chain will be more costly because they'll take a lot more bytes but the requirement of signatures will not impact the cost of off-chain activity (posts, comments, reactions).
@@ -34,16 +24,11 @@ In practice we expect that only cypherpunks & people that have something to lose
 
 The vast majority of users will be light-weight: consumers & curators of content (through interactions & reactions) with very little creation on their part and little to no audience. Their subscriptions/interests matter most, but at any point in time they could shift to a more vocal role and start caring about archiving their off-chain data and not relying on the good grace of the infrastructure that sits beneath interfaces.
 
----
-
-Think of it as an [information bus](https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf) on top of which any type of distributed system can be architected thanks to the minimal semantics, self describing messages, dynamically definable message types & permissionlessness. The service objects that deal with identity, connections & authorization are on-chain and have guaranteed storage & retrievability whereas all data objects are just cryptographically anchored and stored off-chain ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)) for which durability & retrievability is on a [best-effort](https://en.wikipedia.org/wiki/Best-effort_delivery) basis without guarantees. Another way to look at it is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network similar to [Kafka](https://kafka.apache.org/intro) where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's [vision for decentralizing Twitter](https://twitter.com/jack/status/1204766078468911106).
-
-TODO: link to addressing and note how important that is
-
 > "The internet is the computer but it's missing identity and [acls](https://en.wikipedia.org/wiki/Access-control_list)." - [koalaman](https://news.ycombinator.com/item?id=25734612).
 
 Key & session management (rotation, authorization & revocation) [require](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) ordering that is [logically centralized](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274). This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (`"X follows Y"` only affects `X`) and that is [provable with easy to grasp napkin math](../implementation/scaling.md). It is compatible with any type of [DID](https://www.w3.org/TR/did-core/) - anything could be associated with an integer ID.
 
+TODO: link to addressing and note how important that is
 
 TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available & retrievable - putting as much as possible on-chain is a much simpler model.
 
