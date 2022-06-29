@@ -224,11 +224,9 @@ Cold start problem
 
 The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
 
-> People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
-
 > Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.
 
-
+> People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
 
 
 The story of our times is fragmentation:

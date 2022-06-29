@@ -32,6 +32,7 @@ Users acquire a name by making two transactions — the first is to commit a sec
 
 commit-reveal scheme prevents frontrunning
 
+- giving/leasing the names properly & orderly is a hard problem
 
 https://medium.com/coinmonks/understanding-the-handshake-airdrop-and-reserved-names-428d9e90b560
 
