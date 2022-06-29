@@ -24,6 +24,8 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Complexity & lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around? `"Developers care about risk."` - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
+TODO: time to finality matters for UX (for those anchoring to Bitcoin)
+
 # What Headjack gets right
 
 - A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.

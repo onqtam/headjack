@@ -4,8 +4,15 @@ Headjack is an [open state database](https://twitter.com/balajis/status/11230928
 
 The following sub-chapters convey the idea (**what**) and a high-level view of how it works:
 - [On-chain vs off-chain](introduction/on_off_chain.md)
-- [Core idea](introduction/core_idea.md)
+- [Guiding principles](introduction/principles.md)
+- [Identity](introduction/identity.md)
 - [Content addressing](introduction/addressing.md)
+    - [Today's web: host-centric](introduction/host_centric.md)
+    - [The data-centric ledger of record](introduction/data_centric.md)
+    - [Blob structure & addressing](introduction/blob_structure.md)
+    - [Permanent URIs](introduction/uris.md)
+    - [Names & paths](introduction/names_and_paths.md)
+    - [Benefits of this approach](introduction/benefits.md)
 - [Web-scale & UX](introduction/web_scale.md)
 - [Competition](introduction/competition.md)
 - [The ambition](introduction/ambition.md)
