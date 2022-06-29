@@ -237,6 +237,7 @@
 <p>The three components that enable self-authentication are <a href="https://en.wikipedia.org/wiki/Public-key_cryptography">cryptographic identifiers</a>, <a href="https://en.wikipedia.org/wiki/Content-addressable_storage">content-addressed data</a>, and <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a>.</p>
 <p>https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <p>THE LEDGER OF RECORD</p>
+<p>analogous to the mental plane of the <a href="https://en.wikipedia.org/wiki/Akashic_records">Akashic records</a></p>
 <p>THE GLOBAL GIT</p>
 <p>The ledger of record is the opposite of a <a href="https://en.wikipedia.org/wiki/Sand_mandala">Sand Mandala</a>.</p>
 <p>DNS was the original “decentralization” (although not in the crypto sense)</p>
@@ -297,6 +298,7 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <p>Once a blob is fetched through the <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> (hash) we can address specific events by utilizing the offset index in the blob header so a URI such as <code>&lt;interface_id&gt;/&lt;nonce&gt;/&lt;user_id&gt;/&lt;content_id&gt;</code> can point to a specific post, comment or even reaction. The content ID for a specific user is usually a small single digit number and is necessary only if there have been more than 1 interactions by that user through that interface for the given nonce (not the common case).</p>
 <p>The blockchain can be queried if the interface was allowed to post content on behalf of the user through on-chain authorization (probably initiated by an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a>) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given interface was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their interactions in which case their signatures will be within the data blobs and the only check required will be for the keypair used for the specific block number.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="names--paths"><a class="header" href="#names--paths">Names &amp; paths</a></h1>
+<p>TODO: Headjack can issue names to accounts - details on that works in the dedicated page.</p>
 <p>Users and interfaces don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate <code>&lt;interface_name&gt;/&lt;nonce&gt;/&lt;user_name&gt;/&lt;content_id&gt;</code> with strings into the canonical integer form discussed <a href="introduction/uris.html">previously</a> by substituting the interface &amp; user names with account IDs.</p>
 <p>Every name has an associated auto-increment nonce as well for every time they submit an anchor for off-chain content (just like account IDs) and the blockchain records maps of <code>&lt;name&gt;/&lt;nonce&gt;</code> to <code>&lt;id&gt;/&lt;nonce&gt;</code> which can then be used for another lookup to get the block that contains the Merkle root &amp; <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> (hash) for the anchored blob.</p>
 <p>But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check the account IDs that correspond to all usernames within that blob at that time.</p>
@@ -657,6 +659,10 @@ sites that have segregated comment sections:</p>
 <p>If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide.
 https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html</p>
 <p>&quot;follow me on X platform&quot; - this should be a thing of the past</p>
+<blockquote>
+<p>If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can.
+https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/</p>
+</blockquote>
 <p>find the beginning of this thread and tell me that is readable &amp; usable:
 https://twitter.com/lopp/status/1531668215541145601</p>
 <h2 id="why-short"><a class="header" href="#why-short">Why (short)</a></h2>
@@ -1200,6 +1206,7 @@ What if some platforms don't freely provide the content but just anchor it and p
 <p>tipranks !!!</p>
 <p>medium</p>
 <p>goodreads</p>
+<p>twitter spaces in headjack?</p>
 <p>sia/skynet could be used for personalized logseq-like bookmarks &amp; information structuring</p>
 <p>Notion</p>
 <p>quora, stackoverflow...</p>
