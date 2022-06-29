@@ -2,33 +2,13 @@
 
 Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unicast) communication - we query [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) to get the [IP](https://en.wikipedia.org/wiki/IP_address) of servers and open direct connections to retrieve the data that they host. But domains, URI paths on servers & the actual files all change & go away which leads to [link rot](https://en.wikipedia.org/wiki/Link_rot) & content drift. Guidance such as ["Cool URIs don't change"](https://www.w3.org/Provider/Style/URI) is just that - guidance - and the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is just a bandaid that can hardly keep up with the digital [memory hole](https://en.wikipedia.org/wiki/Memory_hole). In the host-certified paradigm URLs at best point to a location at which a document may have been available at a point in time - devoid of any cryptographic proofs regarding the contents, the creator or the time of publication (as opposed to [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) data) and everything lives in [silos](https://en.wikipedia.org/wiki/Information_silo) with no interoperability which leads to fragmented public discussion if any. In fact ["more than 98% of the information on the web is lost within 20 years"](https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/).
 
-> "The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt URNs on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it." - [someone](https://news.ycombinator.com/item?id=27691442).
+> "The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt URNs on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it." - [tgbugs](https://news.ycombinator.com/item?id=27691442).
 
-The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
+Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation. We can't expect that everyone will be like [Balaji](https://twitter.com/balajis) - linking to articles from the Internet Archive ([Example](https://balajis.com/synthesis/): look what `"Prussian"` in that text is [pointing to](https://archive.ph/O2D45)) - this does not scale, data is not self-authenticating and is still reliant on a central point of failure.
 
-> People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
+> "The web is like an ever-growing library with billions of books and no central filing system." - [how Google works (archived)](https://perma.cc/9HE2-VZF9), already [changed](https://www.google.com/search/howsearchworks/how-search-works/organizing-information/)
 
-> Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.
-
-**Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation.**
-
-
-    Include a case study with balaji and his post with archived links for permanence - all the data could even be bundled with crypto proofs
-    case study: Balaji uses the interet archive for stable links to some of the links
-    
-    
-    Balaji is future-proofing his writings by using archived URLs by default when referring to articles even though they are still around!
-    [Example](https://balajis.com/synthesis/): look what `"Prussian"` in that text is [pointing to](https://archive.ph/O2D45).
-
-
-
-As Google puts it, “The web is like an ever-growing library with billions of books and no central filing system.”
-> The web is like an ever-growing library with billions of books and no central filing system.
-https://perma.cc/9HE2-VZF9
-(the actual page no longer shows what has been archived - changed already)
-
-
-# The solution - named data-centric networking in a ledger of record
+# The solution: a data-centric ledger of record
 
 
 TODO: borrow some of the text around "The three components that enable self-authentication"

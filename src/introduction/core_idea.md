@@ -40,7 +40,7 @@ Think of it as an [information bus](https://www.cs.cornell.edu/courses/cs614/200
 
 TODO: link to addressing and note how important that is
 
-> "The internet is the computer but it's missing identity and [acls](https://en.wikipedia.org/wiki/Access-control_list)." - [someone](https://news.ycombinator.com/item?id=25734612).
+> "The internet is the computer but it's missing identity and [acls](https://en.wikipedia.org/wiki/Access-control_list)." - [koalaman](https://news.ycombinator.com/item?id=25734612).
 
 Key & session management (rotation, authorization & revocation) [require](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) ordering that is [logically centralized](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274). This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (`"X follows Y"` only affects `X`) and that is [provable with easy to grasp napkin math](../implementation/scaling.md). It is compatible with any type of [DID](https://www.w3.org/TR/did-core/) - anything could be associated with an integer ID.
 
