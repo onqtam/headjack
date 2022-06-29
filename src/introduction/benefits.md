@@ -3,7 +3,7 @@
 TODO: Multiple points to retrieve content - redundancy
 
 platform attribution - advertising 
-Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URNs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before & are curious or if their current interface doesn't fully support a given message type).
+Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URIs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before & are curious or if their current interface doesn't fully support a given message type).
 
 ==> discoverability of new interfaces!
 
@@ -18,7 +18,7 @@ interlinking data and allowing different views to be used can reduce the effect 
 
 Good addressing intertwined with identity is a strong network effect.
 
-- extensible - sub-addressing for content?
+- extensible - sub-addressing for content? fragments?
 
 
 
@@ -39,6 +39,10 @@ Good addressing intertwined with identity is a strong network effect.
 
 TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
 
+
+
+Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins.
+https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
 
 

@@ -195,7 +195,7 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 - The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive):
     - It will no longer need to actively poll all websites on earth periodically & check for changes and save snapshots - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.
     - Actual content & presentation HTML can be decoupled and only the essential could be saved. There could be a new message type for interfaces to signal a change in what they serve to browsers for presentation & rendering of content which the Internet Archive could save throughout time as well to provide the historical views. Redundancy of snapshots can be driven to 0.
-    - Content that is no longer accessible through the original interface that published it and is not explicitly archived by the user that posted it would still be accessible by anyone with the same stable URNs if archival services are queried - even though they won't be directly linked to the interface/user IDs.
+    - Content that is no longer accessible through the original interface that published it and is not explicitly archived by the user that posted it would still be accessible by anyone with the same stable URIs if archival services are queried - even though they won't be directly linked to the interface/user IDs.
 
 - Web infrastructure:
     - dsdfg

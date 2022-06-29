@@ -159,6 +159,7 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 Search is a very hard problem:
 https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
 
+on Brave search
 https://news.ycombinator.com/item?id=27593360
 https://news.ycombinator.com/item?id=26328758
 
