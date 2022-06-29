@@ -25,6 +25,8 @@ transactions per block:
 https://etherscan.io/blocks
 
 
+# State growth
+
 
 ==== BEST CASE SCENARIO:
 
