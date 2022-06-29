@@ -24,6 +24,9 @@ https://ethereum.stackexchange.com/questions/30175
 transactions per block:
 https://etherscan.io/blocks
 
+# Off-chain content
+
+There are no limits to how much content can be anchored to the chain.
 
 # State growth
 

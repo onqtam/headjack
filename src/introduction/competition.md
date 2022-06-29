@@ -63,7 +63,7 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
     - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) for key management) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
-- Content addressing with hashes by default (versus Headjack's [human-readable & stable URNs](../introduction/addressing.md)).
+- Content addressing with hashes by default (versus Headjack's [human-readable & stable URIs](../introduction/addressing.md)).
 
 - Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
 
