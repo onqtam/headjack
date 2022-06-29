@@ -1,4 +1,4 @@
-# Benefits of Headjack's addressing
+# Benefits of this approach
 
 TODO: Multiple points to retrieve content - redundancy
 
