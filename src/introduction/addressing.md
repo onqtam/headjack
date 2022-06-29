@@ -105,7 +105,7 @@ When the blob is finalized a Merkle root is constructed that touches every event
 
 Interfaces are yet another on-chain account and they'll be able to associate a REST/RPC endpoint or any other means for direct contact by the rest of the interfaces so that they may ask for the yet unanchored messages and display them while they are still in the "mempool". They can also advertise the multiaddress of their IPFS nodes so that each successive blob of generated content that gets published can be downloaded by others instantly by manually connecting with IPFS’s [“swarm connect” functionality](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986) - avoiding the use of the DHT for each new blob CID which may take tens of minutes. They can provide addresses to multiple IPFS nodes as a cluster for redundancy & horizontal scaling and use [Pinset orchestration for IPFS](https://ipfscluster.io/) - designed for Automated data availability and redundancy.
 
-# [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) - permanence & translation
+# Permanence & translation of [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name)
 
 Each account has an associated auto-increment counter (nonce) for every time they submit an anchor for off-chain content. So if an interface has submitted 4 times already, then the next submission will be with `nonce == 5`. The blockchain keeps a mapping for each previous nonce value to the block number when it changed so that `<interface_id>/<nonce>` can be translated to which block has the Merkle root anchor & IPFS hash for the blob that corresponds to that nonce for that account.
 
