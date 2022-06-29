@@ -146,7 +146,7 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="headjack---the-base-layer-of-cyberspace"><a class="header" href="#headjack---the-base-layer-of-cyberspace">Headjack - the base layer of cyberspace</a></h1>
-<p>Headjack is an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> designed for <a href="introduction/web_scale.html">web-scale</a> media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and <a href="introduction/addressing.html">content addressing</a> with stable &amp; readable paths resembling <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">URIs</a> (instead of hashes) all packaged in a credibly neutral &amp; self-sustaining blockchain. It is <a href="introduction/ambition.html">aiming</a> to disaggregate the giants and end network effect monopolies &amp; data silos by aligning incentives and striking the right balance of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a <a href="https://twitter.com/arvanaghi/status/1537519858233008128">customer obsession</a> for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.</p>
+<p>Headjack is an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> designed for <a href="introduction/web_scale.html">web-scale</a> media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and <a href="introduction/addressing.html">content addressing</a> with persistent &amp; readable <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">URI</a> paths (instead of hashes) all packaged in a credibly neutral &amp; self-sustaining blockchain. It is <a href="introduction/ambition.html">aiming</a> to disaggregate the giants and end network effect monopolies &amp; data silos by aligning incentives and striking the right balance of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a <a href="https://twitter.com/arvanaghi/status/1537519858233008128">customer obsession</a> for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.</p>
 <p>The following sub-chapters convey the idea (<strong>what</strong>) and a high-level view of how it works:</p>
 <ul>
 <li><a href="introduction/on_off_chain.html">On-chain vs off-chain</a></li>
@@ -214,8 +214,7 @@
 <blockquote>
 <p>&quot;The internet is the computer but it's missing identity and <a href="https://en.wikipedia.org/wiki/Access-control_list">acls</a>.&quot; - <a href="https://news.ycombinator.com/item?id=25734612">koalaman</a>.</p>
 </blockquote>
-<p>Key &amp; session management (rotation, authorization &amp; revocation) <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">require</a> ordering that is <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logically centralized</a>. This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (<code>&quot;X follows Y&quot;</code> only affects <code>X</code>) and that is <a href="introduction/../implementation/scaling.html">provable with easy to grasp napkin math</a>. It is compatible with any type of <a href="https://www.w3.org/TR/did-core/">DID</a> - anything could be associated with an integer ID.</p>
-<p>TODO: link to addressing and note how important that is</p>
+<p>Key &amp; session management (rotation, authorization &amp; revocation) <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">require</a> ordering that is <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logically centralized</a>. This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (<code>&quot;X follows Y&quot;</code> only affects <code>X</code>) and that is <a href="introduction/../implementation/scaling.html">provable with easy to grasp napkin math</a>. It is compatible with any type of <a href="https://www.w3.org/TR/did-core/">DID</a> - anything could be associated with an integer ID. The on-chain authorization has incredible synergy with the <a href="introduction/addressing.html">persistent &amp; readable addressing</a> for off-chain content.</p>
 <p>TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available &amp; retrievable - putting as much as possible on-chain is a much simpler model.</p>
 <p>A key point is that in Headjack all connections in the <a href="https://en.wikipedia.org/wiki/Interest_graph">interest graph</a> are asymmetric and also visible &amp; on-chain as it is geared towards <a href="https://www.quora.com/Will-the-future-of-social-graph-relationships-be-asymmetric-following-e-g-Quora-Twitter-or-symmetric-friending-e-g-Facebook/answer/David-O-Sacks">public discourse</a> but private ones for a social graph can also be achieved through encryption - either on-chain (although much more costly &amp; complex) or handled &amp; stored by <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> with greater trust assumptions. However, being public by default (as is the case with Twitter) greatly improves discoverability and the chances to bootstrap the network effect. Identities will have their own customized landing pages - provided either on-chain or off-chain through an IDM - <a href="https://en.wikipedia.org/wiki/Linktree">Linktree</a> is <a href="https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/">valued at 1.3B$</a> and is just a bandaid for today’s fragmentation of identity on the internet.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="content-addressing"><a class="header" href="#content-addressing">Content addressing</a></h1>
@@ -268,7 +267,7 @@ NDN lacks a global name registry</p>
 <p>reinventing the semantic web 
 https://en.wikipedia.org/wiki/RDFa</p>
 <p>data-centric architectures are a paradigm shift</p>
-<p>Stable URLs, deduplicating content &amp; anchoring everything to a single backbone greatly improves the indexability of the web.</p>
+<p>Persistent URLs, deduplicating content &amp; anchoring everything to a single backbone greatly improves the indexability of the web.</p>
 <p>the addition of a global singleton of access control management and key registry solves a lot of problems in NDN around security</p>
 <p>Headjack is the index for web-scale <a href="https://en.wikipedia.org/wiki/Content_centric_networking">content centric networking</a>.</p>
 <p>A global index of all content throughout time in an Information-centric network - a form of named data networking layered on top of the current host-centric model (client-server connections through IP &amp; DNS)</p>
@@ -306,7 +305,7 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
 <p><strong>Or is it?!</strong> What about headlines of articles - can we have them included as well - something like <code>twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again</code>? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: <a href="https://stackoverflow.com/questions/4">question 4</a>) but the page router always changes the URL when loading the page to include the title too). <a href="introduction/../implementation/ecosystem/messages.html">Message types</a> for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming interfaces as it would be a trivial check.</p>
 <p>Names are discussed in greater detail in <a href="introduction/../implementation/handles.html">their dedicated page</a> (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.).</p>
 <p>TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces &amp; platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that</p>
-<p>TODO: when viewing an old stable URI that has been referenced by &quot;update/edit events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
+<p>TODO: when viewing an old persistent URI that has been referenced by &quot;update/edit events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
 <ul>
 <li>names/handles
 <ul>
@@ -345,7 +344,7 @@ https://twitter.com/balajis/status/1406400770581303297</p>
 <li>
 <p>addressing</p>
 <ul>
-<li>stable URLs
+<li>persistent URLs
 STABILITY !!!</li>
 </ul>
 </li>
@@ -381,7 +380,7 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <p>Federated ones lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> which leads to fragmentation and <a href="https://github.com/mastodon/mastodon/issues/9529">no discoverability</a>.</p>
 </li>
 <li>
-<p>Some are solving just identity &amp; the graph - without easy &amp; stable <a href="introduction/../introduction/addressing.html">content addressing</a>.</p>
+<p>Some are solving just identity &amp; the graph - without easy &amp; persistent <a href="introduction/../introduction/addressing.html">content addressing</a>.</p>
 </li>
 <li>
 <p>Some use chains such as Ethereum for <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> &amp; store vector commitments (Merkle roots) for events around <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">key management</a> (rotations, authorizations, sessions &amp; revocations) but the problem of the data availability for whatever is committed remains unsolved and different solutions around it would lead to complexity and trust.</p>
@@ -412,7 +411,7 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <p>Integers are the most well known and easy to work with data type - compact, faster/easier indexing &amp; querying versus content addressing, hashes, keypairs &amp; signatures.</p>
 </li>
 <li>
-<p><a href="introduction/../introduction/addressing.html">Content addressing</a> with stable URLs.</p>
+<p><a href="introduction/../introduction/addressing.html">Content addressing</a> with persistent URLs.</p>
 </li>
 </ul>
 <div style="text-align: center;">
@@ -440,7 +439,7 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 </ul>
 </li>
 <li>
-<p>Content addressing with hashes by default (versus Headjack's <a href="introduction/../introduction/addressing.html">human-readable &amp; stable URIs</a>).</p>
+<p>Content addressing with hashes by default (versus Headjack's <a href="introduction/../introduction/addressing.html">human-readable &amp; persistent URIs</a>).</p>
 </li>
 <li>
 <p>Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management">custodial solutions</a>.</p>
@@ -572,12 +571,12 @@ But perhaps this is needlessly expensive: issuance is common, revocation is rare
 https://www.opencerts.io/</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="the-ambition"><a class="header" href="#the-ambition">The ambition</a></h1>
 <p>Web3 is often associated with user ownership of networks/services/data, governance, NFTs &amp; micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and <a href="https://twitter.com/balajis/status/1162401646258749441">making it sovereign</a> - the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing interfaces &amp; views that present &amp; filter commonly addressable data in any way imaginable.</p>
-<p>Think of Headjack as an <a href="https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self describing messages, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity, connections &amp; authorization are on-chain and have guaranteed storage &amp; retrievability whereas all data objects are just cryptographically anchored and stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>) for which durability &amp; retrievability is on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees. It can <a href="introduction/../implementation/scaling.html">scale</a> as much as necessary. Another way to look at it is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network similar to <a href="https://kafka.apache.org/intro">Kafka</a> where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's <a href="https://twitter.com/jack/status/1204766078468911106">vision for decentralizing Twitter</a>.</p>
+<p>Think of Headjack as an <a href="https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self describing messages, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity, connections &amp; authorization are on-chain and have guaranteed storage &amp; retrievability whereas all data objects are just cryptographically anchored and stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>) for which durability &amp; retrievability is on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees. It can <a href="introduction/../implementation/scaling.html">scale</a> practically as much as necessary. Another way to look at it is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network similar to <a href="https://kafka.apache.org/intro">Kafka</a> where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's <a href="https://twitter.com/jack/status/1204766078468911106">vision for decentralizing Twitter</a>.</p>
 <p><a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>, <a href="https://en.wikipedia.org/wiki/Filecoin">Filecoin</a>, <a href="https://sia.tech/">Sia</a> &amp; <a href="https://arwiki.wiki/">Arweave</a> are the drivers, Headjack is the filesystem, and the collection of media &amp; services built on top will be the global OS. Moving to a data-centric model where everything is addressable under a common global namespace would force applications to be <a href="https://balajis.com/yes-you-may-need-a-blockchain/">interoperable</a> - unlocking unbounded <a href="https://twitter.com/cdixon/status/1451703067213066244">composability</a>.</p>
 <blockquote>
 <p>&quot;The web is like an ever-growing library with billions of books and no central filing system.&quot; - <a href="https://perma.cc/9HE2-VZF9">how Google works (archived)</a>, already <a href="https://www.google.com/search/howsearchworks/how-search-works/organizing-information/">changed</a></p>
 </blockquote>
-<p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire public web - the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a> where all content is <a href="https://en.wikipedia.org/wiki/Tamper-evident_technology">cryptographically anchored</a> and totally ordered. The confluence of stable addressing &amp; indexing of information with identity, names and the interest graph results in a winner-take-all network effect with unprecedented gravity that can organize the world's data - <a href="https://youtu.be/3qHkcs3kG44?t=3527"><code>@naval: &quot;The internet creates 1 giant aggregator for everything&quot;</code></a>. It can succeed in completely decentralizing <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> and disaggregating traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mix and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot;</code></a></p>
+<p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire public web - the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a> where all content is <a href="https://en.wikipedia.org/wiki/Tamper-evident_technology">cryptographically anchored</a> and totally ordered. The confluence of persistent addressing &amp; indexing of information with identity, names and the interest graph results in a winner-take-all network effect with unprecedented gravity that can organize the world's data - <a href="https://youtu.be/3qHkcs3kG44?t=3527"><code>@naval: &quot;The internet creates 1 giant aggregator for everything&quot;</code></a>. It can succeed in completely decentralizing <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> and disaggregating traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mix and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot;</code></a></p>
 <p>Headjack is the <a href="https://xkcd.com/927/">15th and final</a> standard for decentralized identity and media - just because it's a lot of work doesn't mean we shouldn't be building on the right foundation.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="whats-currently-wrong"><a class="header" href="#whats-currently-wrong">What's currently wrong</a></h1>
 <p>This page focuses on the current problems while the <a href="motivation/possibilities.html">possibilities</a> page focuses on what Headjack would enable.</p>
@@ -709,7 +708,7 @@ https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collect
 <p>hope for spam &amp; moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email</p>
 <p>it doesn't make sense to not be possible to comment on anything in the web and not have your followers see it. simply doesn't</p>
 <p>No need to rebuild social graphs in every new interface/platform</p>
-<p>&quot;diff&quot; view that summarizes the changes to a URL over time
+<p>&quot;diff&quot; view that summarizes the changes to a URI over time (the updates/edits)
 TODO: look at this:
 We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches</p>
 <h2 id="recommendation-algorithms"><a class="header" href="#recommendation-algorithms">Recommendation algorithms</a></h2>
@@ -737,7 +736,7 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 <ul>
 <li>We'll be able to plot a timeline for all references to an event and filter based on activity &amp; type of references</li>
 </ul>
-<p>stable URLs help with returning back to a resource and checking all the discussion around it, also checking which of those that you follow have mentioned it</p>
+<p>persistent URIs help with returning back to a resource and checking all the discussion around it, also checking which of those that you follow have mentioned it</p>
 <ul>
 <li>The lack of data interoperability leads to tool &amp; widget incompatibility</li>
 </ul>
@@ -816,7 +815,7 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <ul>
 <li>It will no longer need to actively poll all websites on earth periodically &amp; check for changes and save snapshots - instead it will just watch &amp; save all incoming events and have a complete history without any redundant data &amp; inefficiencies.</li>
 <li>Actual content &amp; presentation HTML can be decoupled and only the essential could be saved. There could be a new message type for interfaces to signal a change in what they serve to browsers for presentation &amp; rendering of content which the Internet Archive could save throughout time as well to provide the historical views. Redundancy of snapshots can be driven to 0.</li>
-<li>Content that is no longer accessible through the original interface that published it and is not explicitly archived by the user that posted it would still be accessible by anyone with the same stable URIs if archival services are queried - even though they won't be directly linked to the interface/user IDs.</li>
+<li>Content that is no longer accessible through the original interface that published it and is not explicitly archived by the user that posted it would still be accessible by anyone with the same persistent URIs if archival services are queried - even though they won't be directly linked to the interface/user IDs.</li>
 </ul>
 </li>
 <li>
@@ -1216,7 +1215,7 @@ Wikipedia analog as an example</p>
 </ul>
 <p>infinite amounts of content can be anchored &amp; adressable</p>
 <p>think of it as a spine/backbone to which everything attaches to</p>
-<p>the stable URL of content is an advertisement of the interface by itself
+<p>the persistent URL of content is an advertisement of the interface by itself
 similar to twitter's client attribution</p>
 <p>social networks will become interfaces/views - different compositions of available services that someone pays to have them developed</p>
 <p>some level of centralization is required - both for UX and for the sophistication of services. The sheer scale of the public web is daunting.

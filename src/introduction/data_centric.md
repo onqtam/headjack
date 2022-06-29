@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/RDFa
 
 data-centric architectures are a paradigm shift
 
-Stable URLs, deduplicating content & anchoring everything to a single backbone greatly improves the indexability of the web.
+Persistent URLs, deduplicating content & anchoring everything to a single backbone greatly improves the indexability of the web.
 
 the addition of a global singleton of access control management and key registry solves a lot of problems in NDN around security
 
