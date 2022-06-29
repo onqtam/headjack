@@ -7,6 +7,8 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
 THE LEDGER OF RECORD
 
+analogous to the mental plane of the [Akashic records](https://en.wikipedia.org/wiki/Akashic_records)
+
 THE GLOBAL GIT
 
 The ledger of record is the opposite of a [Sand Mandala](https://en.wikipedia.org/wiki/Sand_mandala).

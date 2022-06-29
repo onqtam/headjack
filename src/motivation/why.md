@@ -184,7 +184,8 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 
 
 
-
+> If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can.
+https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/
 
 
 

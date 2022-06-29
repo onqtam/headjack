@@ -50,6 +50,8 @@ medium
 
 goodreads
 
+twitter spaces in headjack?
+
 sia/skynet could be used for personalized logseq-like bookmarks & information structuring
 
 Notion
