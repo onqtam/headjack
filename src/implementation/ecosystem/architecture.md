@@ -80,7 +80,7 @@ infinite amounts of content can be anchored & adressable
 think of it as a spine/backbone to which everything attaches to
 
 
-the stable URL of content is an advertisement of the interface by itself
+the persistent URL of content is an advertisement of the interface by itself
 similar to twitter's client attribution
 
 

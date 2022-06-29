@@ -16,7 +16,7 @@ Names are discussed in greater detail in [their dedicated page](../implementatio
 
 TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
 
-TODO: when viewing an old stable URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
+TODO: when viewing an old persistent URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
 
 - names/handles
     - decentralized DNS

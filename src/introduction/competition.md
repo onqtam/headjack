@@ -16,7 +16,7 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Federated ones lack [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) which leads to fragmentation and [no discoverability](https://github.com/mastodon/mastodon/issues/9529).
 
-- Some are solving just identity & the graph - without easy & stable [content addressing](../introduction/addressing.md).
+- Some are solving just identity & the graph - without easy & persistent [content addressing](../introduction/addressing.md).
 
 - Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around [key management](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) (rotations, authorizations, sessions & revocations) but the problem of the data availability for whatever is committed remains unsolved and different solutions around it would lead to complexity and trust.
 
@@ -38,7 +38,7 @@ TODO: time to finality matters for UX (for those anchoring to Bitcoin)
 
 - Integers are the most well known and easy to work with data type - compact, faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
 
-- [Content addressing](../introduction/addressing.md) with stable URLs.
+- [Content addressing](../introduction/addressing.md) with persistent URLs.
 
 <div style="text-align: center;">
     <img src="https://i.imgflip.com/6k927s.jpg">
@@ -63,7 +63,7 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
     - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) for key management) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
-- Content addressing with hashes by default (versus Headjack's [human-readable & stable URIs](../introduction/addressing.md)).
+- Content addressing with hashes by default (versus Headjack's [human-readable & persistent URIs](../introduction/addressing.md)).
 
 - Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
 

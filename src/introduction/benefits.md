@@ -34,7 +34,7 @@ Good addressing intertwined with identity is a strong network effect.
     block explorers are the future of browsing
     https://twitter.com/balajis/status/1406400770581303297
 - addressing
-    - stable URLs
+    - persistent URLs
     STABILITY !!!
 
 TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
