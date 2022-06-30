@@ -1,8 +1,8 @@
 # Summary
 
 - [Introduction (what)](introduction.md)
-    - [Guiding principles](introduction/principles.md)
     - [On-chain vs off-chain](introduction/on_off_chain.md)
+    - [Guiding principles](introduction/principles.md)
     - [Identity & authorization](introduction/identity.md)
     - [Content addressing](introduction/addressing.md)
         - [Today's web: host-centric](introduction/host_centric.md)
