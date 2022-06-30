@@ -44,5 +44,5 @@ TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
 Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins.
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
-
+Networking can gradually evolve as it is orthogonal to the actual identities and anchoring of content.
 
