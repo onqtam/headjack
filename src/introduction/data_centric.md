@@ -75,10 +75,6 @@ https://en.wikipedia.org/wiki/Content-addressable_storage
 
 
 
-The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
-
-> Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.
-
 
 Information-centric networking (ICN) is an approach to evolve the Internet infrastructure away from a host-centric paradigm, based on perpetual connectivity and the end-to-end principle, to a network architecture in which the focal point is identified information (or content or data).
 
