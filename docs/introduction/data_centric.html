@@ -145,66 +145,45 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="the-data-centric-ledger-of-record"><a class="header" href="#the-data-centric-ledger-of-record">The data-centric ledger of record</a></h1>
-<blockquote>
-<p>&quot;Data-centric computing is an emerging concept that has relevance in information architecture and data center design. It describes an information system where data is stored independently of the applications, which can be upgraded without costly and complicated data migration. This is a radical shift in information systems that will be needed to address organizational needs for storing, retrieving, moving and processing exponentially growing data sets.&quot; - <a href="https://en.wikipedia.org/wiki/Data-centric_computing">Wikipedia</a></p>
-</blockquote>
+<p><a href="https://en.wikipedia.org/wiki/Data-centric_computing">Data-centric computing</a> is an emerging concept that has relevance in information architecture and data center design - data is stored independently of the applications, which can be upgraded without costly and complicated data migration. This is a radical shift in information systems that will be needed to address organizational needs for storing, retrieving, moving and processing exponentially growing data sets. It increases agility by prioritizing data transfer and data computation. Applications become short-lived, constantly added, updated, or removed as algorithms come and go.</p>
 <blockquote>
 <p>&quot;Data is the center of the universe; applications are ephemeral.&quot; - <a href="http://datacentricmanifesto.org/">The Data-Centric Manifesto</a></p>
 </blockquote>
-<p>It increases agility by prioritizing data transfer and data computation over static application performance and resilience.</p>
-<p>Applications become short-lived, constantly added, updated, or removed as algorithms come and go. Software is redesigned to conduct analysis on all available data instead of subsets.</p>
-<p>As the <a href="http://datacentricmanifesto.org/">Data Centric Manifesto</a> states: </p>
-<p>It is </p>
-<p>https://en.wikipedia.org/wiki/Content-addressable_storage</p>
-<p>It is time for a decoupling.</p>
+<hr />
+<p><a href="https://en.wikipedia.org/wiki/Content-addressable_storage">Content-addressable storage</a> (CAS) is a way to store information so it can be retrieved based on its content (not its location/name) and is a key piece of the puzzle. Identifiers are based on content and any change to a data element will necessarily change its content address. The most famous example of CAS is <a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a> but it suffers from non-human-friendly addresses (hashes) and performance issues &amp; extreme latency (tens of minutes) if content is not widely cached/pinned because of the global <a href="https://en.wikipedia.org/wiki/Distributed_hash_table">DHT</a>.</p>
+<p>Self-authenticating data moves authority from hosts to the user. The three components that enable it are <a href="https://en.wikipedia.org/wiki/Public-key_cryptography">cryptographic identifiers</a>, <a href="https://en.wikipedia.org/wiki/Content-addressable_storage">CAS</a>, and an emerging area of research called <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a> which is yet to be applied in any meaningful scale.</p>
+<hr />
+<p><a href="https://en.wikipedia.org/wiki/Information-centric_networking">Information-centric networking</a> (ICN) is an approach to evolve the Internet infrastructure away from a host-centric paradigm, based on perpetual connectivity and the <a href="https://en.wikipedia.org/wiki/End-to-end_principle">end-to-end principle</a>, to a network architecture in which the focal point is identified information (or content or data). Data becomes independent from location, application, storage, and means of transportation, enabling in-network caching and replication. The expected benefits are improved efficiency, better scalability with respect to information/bandwidth demand and better robustness in challenging communication scenarios. In information-centric networking the cache is a network level solution, and it has rapidly changing cache states, higher request arrival rates and smaller cache sizes.</p>
+<hr />
+<p><a href="https://en.wikipedia.org/wiki/Named_data_networking">Named Data Networking</a> (NDN) is a <a href="https://en.wikipedia.org/wiki/Future_Internet">Future Internet</a> architecture which builds on top of the previous ideas and in which data is requested by name and routed by the network. However, it requires a reimplementation of foundational routing infrastructure by making it stateful and hierarchically structured names require a root name authority to link them to keypairs - outside of its scope.</p>
+<h1 id="enter-headjack"><a class="header" href="#enter-headjack">Enter Headjack</a></h1>
+<p>Headjack is a weird amalgamation inspired by everything above - it provides human-readable &amp; persistent <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">URIs</a> for self-authenticating data along with the means for its retrieval. It acts as the web-scale global index used to check the authenticity of documents (requires consulting with the chain), ownership of names, key management &amp; sequence of events throughout time. It is a layer on top of the current host-centric internet technologies and doesn't require core infrastructure changes. <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">Logical centralization</a> through the addition of a global <a href="https://en.wikipedia.org/wiki/Singleton_pattern">singleton</a> solves a lot of problems.</p>
 <p>THE LEDGER OF RECORD</p>
 <p>analogous to the mental plane of the <a href="https://en.wikipedia.org/wiki/Akashic_records">Akashic records</a></p>
 <p>THE GLOBAL GIT</p>
 <p>The ledger of record is the opposite of a <a href="https://en.wikipedia.org/wiki/Sand_mandala">Sand Mandala</a>.</p>
 <p>DNS was the original “decentralization” (although not in the crypto sense)</p>
 <ul>
-<li>
-<p>DNS
+<li>DNS
 DNS was the original “decentralization”.
 RSS was an attempt for the next iteration
 How do you store your friend list?
 But rss is too technical
-Dns got overloaded too many times</p>
-</li>
-<li>
-<p>host/app-centric vs data/name centric
-host/app-centric addressing needs to go away.</p>
-<p>https://en.wikipedia.org/wiki/Named_data_networking
-NDN lacks a global name registry</p>
+Dns got overloaded too many times</li>
+</ul>
+<p>If only there was an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it, coupled with identity, names, authorization management, connections &amp; sequencing.</p>
 <ul>
 <li>deduplication</li>
 </ul>
-</li>
-</ul>
 <p>the <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (the OG &quot;Web3&quot;)</p>
-<p>Data needs to be removed from the grip of host/app-centric monopolies</p>
-<p>https://en.wikipedia.org/wiki/Tamper-evident_technology</p>
-<p>reinventing the semantic web 
+<p>reinventing the semantic web
 https://en.wikipedia.org/wiki/RDFa</p>
-<p>data-centric architectures are a paradigm shift</p>
 <p>Persistent URLs, deduplicating content &amp; anchoring everything to a single backbone greatly improves the indexability of the web.</p>
-<p>the addition of a global singleton of access control management and key registry solves a lot of problems in NDN around security</p>
-<p>Headjack is the index for web-scale <a href="https://en.wikipedia.org/wiki/Content_centric_networking">content centric networking</a>.</p>
-<p>A global index of all content throughout time in an Information-centric network - a form of named data networking layered on top of the current host-centric model (client-server connections through IP &amp; DNS)</p>
-<p>Differences from NDN: builds on the current internet infrastructure, doesn't have the same packet types and routing concepts - utilizes technologies that are currently available.</p>
-<p>https://en.wikipedia.org/wiki/Future_Internet</p>
 <p>linking data is easier under a common global namespace
 https://en.wikipedia.org/wiki/Linked_data</p>
-<p>linking data based on URIs in a host-centric internet architecture is inherently flawed - needs to be in a named data paradigm</p>
 <p>facilitate the creation of <a href="https://en.wikipedia.org/wiki/Hyperdata">hyperdata</a></p>
 <p>Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts &amp; abstract entities in order to facilitate </p>
 <p>An integral part to this vision are the <a href="../implementation/ecosystem/messages.html">message types</a>.</p>
-<p>Information-centric networking (ICN) is an approach to evolve the Internet infrastructure away from a host-centric paradigm, based on perpetual connectivity and the end-to-end principle, to a network architecture in which the focal point is identified information (or content or data).
-https://en.wikipedia.org/wiki/End-to-end_principle</p>
-<p>The core of ADX is self-authenticating data. In law, a “self-authenticating” document requires no extrinsic evidence of authenticity. In computer science, an “authenticated data structure” can have its operations independently verified. When resources in a network can attest to their own authenticity, then that data is inherently live – that is, canonical and transactable – no matter where it is located. This is a departure from the connection-centric model of the Web, where information is host-certified and therefore becomes dead when it is no longer hosted by its original service. Self-authenticating data moves authority to the user and therefore preserves the liveness of data across every hosting service.
-https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods</p>
-<p>The three components that enable self-authentication are <a href="https://en.wikipedia.org/wiki/Public-key_cryptography">cryptographic identifiers</a>, <a href="https://en.wikipedia.org/wiki/Content-addressable_storage">content-addressed data</a>, and <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a>.</p>
-<p>https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 
                     </main>
 
