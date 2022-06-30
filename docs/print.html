@@ -267,7 +267,7 @@
 <p>Once a blob is fetched through the <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> (hash) we can address specific events by utilizing the offset index in the blob header so a URI such as <code>&lt;interface_id&gt;/&lt;nonce&gt;/&lt;user_id&gt;/&lt;content_id&gt;</code> can point to a specific post, comment or even reaction. The content ID for a specific user is usually a small single digit number and is necessary only if there have been more than 1 interactions by that user through that interface for the given nonce (should be rare).</p>
 <p>The blockchain can be queried if the interface was allowed to post content on behalf of the user through on-chain authorization (probably initiated by an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a>) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given interface was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their interactions in which case their signatures will be within the data blobs and the only check required will be for the keypair used for the specific block number. To recap - to prove the authenticity of any event:</p>
 <ul>
-<li>First check if the data is actually part of an anchored blob with a Merkle proof to a block.</li>
+<li>First check if the data is actually part of an anchored blob with a <a href="https://medium.com/crypto-0-nite/merkle-proofs-explained-6dd429623dc5">Merkle proof</a> to a block.</li>
 <li>Then check if the user actually submitted the event:
 <ul>
 <li>Either if at that point the interface was authorized to post on behalf of the user which would require a Merkle proof for a part of the blockchain state (authorization ranges).</li>
@@ -275,6 +275,7 @@
 </ul>
 </li>
 </ul>
+<p>Most of the cryptography checks will be happening instantly as blobs are published &amp; ingested by interface infrastructure &amp; stored in more optimal databases to be later served without having to redo all the work, but users will always be able to request an on-chain proof from an interface for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="names--paths"><a class="header" href="#names--paths">Names &amp; paths</a></h1>
 <p>TODO: Headjack can issue names to accounts - details on that works in the dedicated page.</p>
 <p>TODO: a bit about DNS, decentralization, and why something like Handshake alone would probably not succeed
