@@ -221,7 +221,7 @@ Cold start problem
 - higher than necessary barrier to entry for startups
 
 
-
+Platforms with monopolistic [MOATs](https://www.investopedia.com/ask/answers/05/economicmoat.asp) dominate us and don't compete solely on the quality of service as they should.
 
 The story of our times is fragmentation:
 - culturally => polarization and radicalization

@@ -1,5 +1,7 @@
 # The data-centric ledger of record
 
+
+
 The three components that enable self-authentication are [cryptographic identifiers](https://en.wikipedia.org/wiki/Public-key_cryptography), [content-addressed data](https://en.wikipedia.org/wiki/Content-addressable_storage), and [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing).
 
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
@@ -27,7 +29,6 @@ DNS was the original “decentralization” (although not in the crypto sense)
 
 
 - host/app-centric vs data/name centric
-    We are dominated by platforms & applications when in reality data is the most important thing - we need to be able to address it.
     host/app-centric addressing needs to go away.
 
     The web should move away from the host (ip/domain) and application-specific model towards data-centric
@@ -77,7 +78,6 @@ https://en.wikipedia.org/wiki/Content-addressable_storage
 
 
 Information-centric networking (ICN) is an approach to evolve the Internet infrastructure away from a host-centric paradigm, based on perpetual connectivity and the end-to-end principle, to a network architecture in which the focal point is identified information (or content or data).
-
 https://en.wikipedia.org/wiki/End-to-end_principle
 
 
