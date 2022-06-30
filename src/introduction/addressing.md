@@ -1,10 +1,10 @@
 # Content addressing
 
-The move from host-centric to data-centric addressing is a complete paradigm shift by itself but Headjack manages to intertwine that with names and the result is the best possible [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) in terms of human-readability & persistence and is perhaps the most important aspect of the project. It's been broken down into a few sub-chapters:
+The move from host-centric to data-centric addressing is a complete paradigm shift by itself but Headjack intertwines that with names and on-chain authorization & sequencing of anchors resulting in the best possible [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) in terms of human-readability & persistence - perhaps the most important aspect of the project. This chapter is broken down into a few sub-chapters:
 
-- [Today's web: host-centric](host_centric.md)
-- [The data-centric ledger of record](data_centric.md)
-- [Blob structure & addressing](blob_structure.md)
-- [Permanent URIs](uris.md)
-- [Names & paths](names_and_paths.md)
-- [Benefits of this approach](benefits.md)
+1. [Today's web: host-centric](host_centric.md)
+2. [The data-centric ledger of record](data_centric.md)
+3. [Blob structure & addressing](blob_structure.md)
+4. [Permanent URIs](uris.md)
+5. [Names & paths](names_and_paths.md)
+6. [Benefits of this approach](benefits.md)

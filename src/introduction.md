@@ -3,20 +3,24 @@
 Headjack is an [open state database](https://twitter.com/balajis/status/1123092897664880640) designed for [web-scale](introduction/web_scale.md) media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and [content addressing](introduction/addressing.md) with human-readable & persistent [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) paths (instead of hashes) all packaged in a credibly neutral & self-sustaining blockchain. It is [aiming](introduction/ambition.md) to disaggregate the giants and end network effect monopolies & data silos by aligning incentives and acting as the backend network that users won't even need to know about by striking the right set of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to. It is the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence).
 
 The following sub-chapters convey the idea (**what**) and a high-level view of how it works:
-- [On-chain vs off-chain](introduction/on_off_chain.md)
-- [Guiding principles](introduction/principles.md)
-- [Identity & authorization](introduction/identity.md)
-- [Content addressing](introduction/addressing.md)
-    - [Today's web: host-centric](introduction/host_centric.md)
-    - [The data-centric ledger of record](introduction/data_centric.md)
-    - [Blob structure & addressing](introduction/blob_structure.md)
-    - [Permanent URIs](introduction/uris.md)
-    - [Names & paths](introduction/names_and_paths.md)
-    - [Benefits of this approach](introduction/benefits.md)
-- [Block & state structure](introduction/block_state_structure.md)
-- [Web-scale & UX](introduction/web_scale.md)
-- [Competition](introduction/competition.md)
-- [The ambition](introduction/ambition.md)
+1. [On-chain vs off-chain](introduction/on_off_chain.md)
+2. [Guiding principles](introduction/principles.md)
+3. [Identity & authorization](introduction/identity.md)
+4. [Content addressing](introduction/addressing.md)
+    1. [Today's web: host-centric](introduction/host_centric.md)
+    2. [The data-centric ledger of record](introduction/data_centric.md)
+    3. [Blob structure & addressing](introduction/blob_structure.md)
+    4. [Permanent URIs](introduction/uris.md)
+    5. [Names & paths](introduction/names_and_paths.md)
+    6. [Benefits of this approach](introduction/benefits.md)
+5. [Block & state structure](introduction/block_state_structure.md)
+6. [Web-scale & UX](introduction/web_scale.md)
+7. [Competition](introduction/competition.md)
+    1. [What others get wrong](introduction/others_cons.md)
+    2. [What Headjack gets right](introduction/headjack_pros.md)
+    3. [Concrete projects (list)](introduction/others_list.md)
+    4. [Shortcomings of Headjack](introduction/headjack_cons.md)
+8. [The ambition](introduction/ambition.md)
 
 But the vision would be incomplete without the subsequent [**why**](motivation/why.md) and more detailed [**how**](blockchain.md).
 
