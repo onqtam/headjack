@@ -179,6 +179,7 @@ https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collect
 shifting sands
 https://news.ycombinator.com/item?id=27690525
 
+https://twitter.com/balajis/status/1360413999712538627
 
 > Finally, self-authenticating data provides more mechanisms that can be used to establish trust. Self-authenticated data can retain metadata, like who published something and whether it was changed. Reputation and trust-graphs can be constructed on top of users, content, and services. The transparency provided by [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing) provides a new tool for establishing trust by showing precisely how the results were produced. We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products.
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
