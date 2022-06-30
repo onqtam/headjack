@@ -1,9 +1,8 @@
 
 
 
+TODO: should the blockchain keep all mappings in its state forever?
 
-
-Namecoin failed. Handshake isn't getting nearly enough adoption.
 
 
 
@@ -21,12 +20,6 @@ Browsers: different views on content?
 
 TODO: browser in the driver/filesystem/OS analogy?
 
-TODO: too many links? too many memes?
-
-TODO: too much buzzwords in introduction?
-
-- think of url/handle/nonce mappings
-
 
 
 TODO: do the math on how big the state would be with 1k interfaces and 1 million blocks, nonces & whatnot
@@ -43,7 +36,6 @@ TODO: disadvantage - huge reliance on full Headjack nodes that contain the full 
 - TODO: Q: is multi-dimentionality required if people use different interfaces for different types of content?
 - if enough things move to the ID managers... what if the public connections go there too? moving closer & closer to farcaster's design... what if the blockchain isn't necessary? :|
 - TODO: URLs and how they are actually displayed - which interface...
-- maybe the history of each interface nonce mapping to block numbers & the history of changes of user delegations should be part of the state and state-rooted
 - TODO: this is for public discourse - not private networks like facebook/snap.
 - Too many acms and what if someone logs with an interface - how to merge?
 
@@ -145,7 +137,7 @@ https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
 https://www.youtube.com/watch?v=RGJOQHzg3UQ
 
 
-could a user self-publish withoug going thorugh an interface?
+could a user self-publish without going though an interface? Why not?
 
 
 https://blog.ceramic.network/capability-based-data-security-on-ceramic/
@@ -185,3 +177,4 @@ https://en.wikipedia.org/wiki/Hash_array_mapped_trie
 
 https://ipld.io/docs/schemas/
 
+In the spirit of [Rule 34](https://en.wikipedia.org/wiki/Rule_34): `"if something exists - it is anchored in Headjack"`.

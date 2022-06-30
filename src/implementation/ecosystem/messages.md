@@ -40,6 +40,8 @@ https://en.wikipedia.org/wiki/Web_Ontology_Language
 
 https://en.wikipedia.org/wiki/Resource_Description_Framework
 
+https://en.wikipedia.org/wiki/Microformat
+
 https://en.wikipedia.org/wiki/Media_type
 
 Post/rt/tag/mention/comment/quote/reply
