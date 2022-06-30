@@ -5,3 +5,9 @@ Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unic
 > "The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it." - [tgbugs](https://news.ycombinator.com/item?id=27691442).
 
 Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation. We can't expect everyone to be like [Balaji](https://twitter.com/balajis) - linking to articles from the Internet Archive ([Example](https://balajis.com/synthesis/): look what `"Prussian"` in that text is [pointing to](https://archive.ph/O2D45)) - this doesn't scale, data is not self-authenticating and is still reliant on a central point of failure.
+
+The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting - a few great quotes from [this piece](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/):
+
+> Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.
+
+> People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts.
