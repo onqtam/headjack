@@ -1,5 +1,7 @@
 # What other attempts are missing
 
+TODO: break this page into multiple ones
+
 A list of problems with the contenders in the decentralized identity/media space:
 
 - No credible path to [web-scale](../introduction/web_scale.md) - some will hit a wall even at 1 million users. Most are vague around their scalability & data structure and don't put it [front and center](../implementation/scaling.md) - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.
