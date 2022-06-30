@@ -88,8 +88,6 @@ TODO: figure out additional ways for CDN for content & keeping it up & alive bes
     https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org
     https://developer.litprotocol.com/docs/WhatIsLit/whatIsLitProtocol
 
-- TODO: go through this exercise: https://twitter.com/chrishlad/status/1518237282729295873
-
 - look into aggregate/multi/threshold signatures, ZK tech & other certificates:
     https://github.com/jarradh/zk-compact-certificates
 

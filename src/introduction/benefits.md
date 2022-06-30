@@ -1,5 +1,7 @@
 # Benefits of this approach
 
+TODO: get parts of the possibilities page in here and link to this page in there
+
 - It will greatly aid the archivability of the web - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) syndrome.
 - Updates/changes to events will be cryptographically provable and browseable throughout time - the global [Git](https://en.wikipedia.org/wiki/Git).
 - And many more - checkout the [possibilities page](../motivation/possibilities.md).
@@ -33,6 +35,8 @@ Good addressing intertwined with identity is a strong network effect.
     - data vs entire webpage content
     - push vs pull
 
+todo: talk about URNs used as URLs - if the associated first name has an associated HTTP host
+    - but when - at the time of the nonce or the current name? or both?
 
 
 - indexing
@@ -42,8 +46,6 @@ Good addressing intertwined with identity is a strong network effect.
 - addressing
     - persistent URLs
     STABILITY !!!
-
-TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
 
 
 
@@ -87,8 +89,6 @@ the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (the OG "Web3")
 
 reinventing the semantic web
 https://en.wikipedia.org/wiki/RDFa
-
-Persistent URLs, deduplicating content & anchoring everything to a single backbone greatly improves the indexability of the web.
 
 linking data is easier under a common global namespace
 https://en.wikipedia.org/wiki/Linked_data
