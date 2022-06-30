@@ -8,7 +8,7 @@
 
 [Content-addressable storage](https://en.wikipedia.org/wiki/Content-addressable_storage) (CAS) is a way to store information so it can be retrieved based on its content (not its location/name) and is a key piece of the puzzle. Identifiers are based on content and any change to a data element will necessarily change its content address. The most famous example of CAS is [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) but it suffers from non-human-friendly addresses (hashes) and performance issues & extreme latency (tens of minutes) if content is not widely cached/pinned because of the global [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table).
 
-Self-authenticating data moves authority from hosts to users. The three components that enable it are [cryptographic identifiers](https://en.wikipedia.org/wiki/Public-key_cryptography), [CAS](https://en.wikipedia.org/wiki/Content-addressable_storage), and an emerging area of research called [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing) which is yet to be applied in any meaningful scale.
+[Self-authenticating data](https://en.wikipedia.org/wiki/Self-authenticating_document) moves authority from hosts to users. The three components that enable it are [cryptographic identifiers](https://en.wikipedia.org/wiki/Public-key_cryptography), [CAS](https://en.wikipedia.org/wiki/Content-addressable_storage), and an emerging area of research called [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing) which is yet to be applied in any meaningful scale.
 
 ---
 
@@ -20,60 +20,6 @@ Self-authenticating data moves authority from hosts to users. The three componen
 
 # Enter Headjack - the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
 
-Headjack is a weird amalgamation inspired by everything above - it provides human-readable & persistent [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) for self-authenticating data along with the means for its retrieval without forcing a specific way ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) is just one option). It acts as the web-scale global index used to check the authenticity of documents (requires consulting with the chain), ownership of names, key management & sequence of events throughout time. It is an addressability layer on top of the current host-centric internet technologies and doesn't require core infrastructure changes. [Logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) through the addition of a global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
+Headjack is a weird amalgamation inspired by everything above - it provides human-readable & persistent [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) for self-authenticating data (with [Merkle proofs](https://medium.com/crypto-0-nite/merkle-proofs-explained-6dd429623dc5) & the blockchain) along with the means for its retrieval without forcing a specific way ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) is just one option). It acts as the web-scale global index used to check the authenticity of documents (requires consulting with the chain), ownership of names, key management & sequence of events throughout time. It is an addressability layer on top of the current host-centric internet technologies and doesn't require core infrastructure changes. [Logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) through the addition of a global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
 
-It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it, coupled with identity, names, authorization management, connections & sequencing - giving birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority - truth anyone can computationally verify. It will greatly aid the archivability of the web - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) syndrome. Updates/changes to events will be cryptographically provable and browseable throughout time - the global [Git](https://en.wikipedia.org/wiki/Git).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DNS was the original “decentralization” (although not in the crypto sense)
-
-
-- DNS
-    DNS was the original “decentralization”.
-    RSS was an attempt for the next iteration
-    How do you store your friend list?
-    But rss is too technical
-    Dns got overloaded too many times
-
-
-
-
-- deduplication
-
-
-
-
-the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (the OG "Web3")
-
-
-
-reinventing the semantic web
-https://en.wikipedia.org/wiki/RDFa
-
-Persistent URLs, deduplicating content & anchoring everything to a single backbone greatly improves the indexability of the web.
-
-linking data is easier under a common global namespace
-https://en.wikipedia.org/wiki/Linked_data
-
-facilitate the creation of [hyperdata](https://en.wikipedia.org/wiki/Hyperdata)
-
-Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
-
-An integral part to this vision are the [message types](../implementation/ecosystem/messages.md).
-
+It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it, coupled with identity, names, authorization management, connections & sequencing - giving birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority - truth anyone can computationally verify.
