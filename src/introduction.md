@@ -18,7 +18,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
 7. [Competition](introduction/competition.md)
     1. [What others get wrong](introduction/others_cons.md)
     2. [What Headjack gets right](introduction/headjack_pros.md)
-    3. [Concrete projects (list)](introduction/others_list.md)
+    3. [Competing projects (list)](introduction/others_list.md)
     4. [Shortcomings of Headjack](introduction/headjack_cons.md)
 8. [The ambition](introduction/ambition.md)
 

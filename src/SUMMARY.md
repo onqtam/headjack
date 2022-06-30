@@ -16,7 +16,7 @@
     - [Competition](introduction/competition.md)
         - [What others get wrong](introduction/others_cons.md)
         - [What Headjack gets right](introduction/headjack_pros.md)
-        - [Concrete projects (list)](introduction/others_list.md)
+        - [Competing projects (list)](introduction/others_list.md)
         - [Shortcomings of Headjack](introduction/headjack_cons.md)
     - [The ambition](introduction/ambition.md)
 

@@ -4,5 +4,5 @@ This chapter focuses only on the [disadvantages](others_cons.md) of some of the 
 
 1. [What others get wrong](others_cons.md)
 2. [What Headjack gets right](headjack_pros.md)
-3. [Concrete projects (list)](others_list.md)
+3. [Competing projects (list)](others_list.md)
 4. [Shortcomings of Headjack](headjack_cons.md)
