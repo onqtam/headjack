@@ -1,5 +1,11 @@
 # Benefits of this approach
 
+- It will greatly aid the archivability of the web - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) syndrome.
+- Updates/changes to events will be cryptographically provable and browseable throughout time - the global [Git](https://en.wikipedia.org/wiki/Git).
+- And many more - checkout the [possibilities page](../motivation/possibilities.md).
+
+
+
 TODO: Multiple points to retrieve content - redundancy
 
 platform attribution - advertising 
@@ -38,6 +44,62 @@ Good addressing intertwined with identity is a strong network effect.
     STABILITY !!!
 
 TODO: talk about PUSH vs PULL & how that relates to RSS - on the main page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DNS was the original “decentralization” (although not in the crypto sense)
+
+
+- DNS
+    DNS was the original “decentralization”.
+    RSS was an attempt for the next iteration
+    How do you store your friend list?
+    But rss is too technical
+    Dns got overloaded too many times
+
+
+
+
+- deduplication
+
+
+
+
+the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (the OG "Web3")
+
+
+
+reinventing the semantic web
+https://en.wikipedia.org/wiki/RDFa
+
+Persistent URLs, deduplicating content & anchoring everything to a single backbone greatly improves the indexability of the web.
+
+linking data is easier under a common global namespace
+https://en.wikipedia.org/wiki/Linked_data
+
+facilitate the creation of [hyperdata](https://en.wikipedia.org/wiki/Hyperdata)
+
+Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
+
+An integral part to this vision are the [message types](../implementation/ecosystem/messages.md).
+
+
 
 
 

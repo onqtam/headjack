@@ -11,6 +11,7 @@
         - [Permanent URIs](introduction/uris.md)
         - [Names & paths](introduction/names_and_paths.md)
         - [Benefits of this approach](introduction/benefits.md)
+    - [Block & state structure](introduction/block_state_structure.md)
     - [Web-scale & UX](introduction/web_scale.md)
     - [Competition](introduction/competition.md)
     - [The ambition](introduction/ambition.md)

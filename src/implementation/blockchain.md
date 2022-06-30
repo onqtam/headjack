@@ -23,6 +23,12 @@ https://www.alexbeckett.xyz/decentralized-sequencers-where-do-we-go-next/
 
 https://www.alexbeckett.xyz/stateless-rollups/
 
+https://twitter.com/apruden08/status/1542189323906326528
+https://www.youtube.com/watch?v=oc8M1-pNuXk
+https://twitter.com/bkiepuszewski/status/1540793333295075329
+
+https://l2beat.com/?view=risk
+
 https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb
 https://medium.com/starkware/data-availability-e5564c416424
 
