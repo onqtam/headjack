@@ -8,9 +8,11 @@
 
 - [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy): focus only on identity & the interest graph and don't try to do everything. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
-- Integers are the most well known and easy to work with data type - compact, faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
+- Integers are the most well known, compact, and easy to work with data type - faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
 
 - [Content addressing](../introduction/addressing.md) with persistent URLs.
+
+[Logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) through the addition of a global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
 
 <div style="text-align: center;">
     <img src="https://i.imgflip.com/6k927s.jpg">
