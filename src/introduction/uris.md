@@ -12,12 +12,17 @@ The blockchain can be queried if the interface was allowed to post content on be
 
 Most of the cryptography checks will be happening instantly as blobs are published & ingested by interface infrastructure & stored in more optimal database formats for content to be later directly served. Users will always be able to request an on-chain proof for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.
 
-So this is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs & the blockchain. Read the [following chapter](names_and_paths.md) about how names in the URI paths are persistent too (even if names change ownership at some point).
+This is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs & the blockchain. The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if names change ownership at some point).
 
 ---
+
+There are multiple ways to retrieve blobs & content for specific URIs from the past:
+- The original [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) might still be retrievable from the original interface account that posted it or any other that has pinned the data.
+- The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their actions.
+- Other well-known players without a direct on-chain connection to the interface/user in a URI could be asked directly for the content:
+    - Infrastructure companies that do the heavy lifting for interfaces and store everything.
+    - The analog of the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) in this ecosystem that also stores everything.
 
 TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
 
 TODO: when viewing an old persistent URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
-
-TODO: multiple points to retrieve content?
