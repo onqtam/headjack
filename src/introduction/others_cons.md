@@ -25,3 +25,5 @@ A list of problems with the contenders in the decentralized identity/media space
 - Complexity & lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around? `"Developers care about risk."` - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
 TODO: time to finality matters for UX (for those anchoring to Bitcoin)
+
+TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available & retrievable - putting as much as possible on-chain is a much simpler model.
