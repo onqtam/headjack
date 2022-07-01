@@ -14,7 +14,9 @@ Most of the cryptography checks will be happening instantly as blobs are publish
 
 This is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs & the blockchain. The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if names change ownership at some point).
 
-Edits & updates to content come as messages with new unique URIs that reference the older message URIs and it is up to interfaces to properly display the context that there have been changes and perhaps the ability to view the old or automatically redirect to the latest. "Forks" are possible but they represent interface failure to always show the latest.
+Users should be able to check the URI of content even if generated through a different interface and ideally the origin should be displayed by default - acting as attribution for other platforms.
+
+Edits & updates to content come as messages with new unique URIs that reference the older message URIs and it is up to interfaces to properly display the context that there have been changes and perhaps the ability to view the old or automatically redirect to the latest. "Forks" are possible but they represent interface failure to detect that an old version is being edited.
 
 ---
 
@@ -25,6 +27,4 @@ There are multiple ways to retrieve blobs & content for specific URIs from the p
     - Infrastructure companies that do the heavy lifting for interfaces and store everything.
     - The analog of the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) in this ecosystem that also stores everything.
 
-TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
-
-
+Interface accounts can point on-chain to a traditional host which should be used to display content published through them. As you'll see in the next chapter interface names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly in your browser and as long as they own the same domain in the traditional [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) they should be able to serve a webpage displaying the specific piece of content.
