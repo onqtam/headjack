@@ -1,4 +1,4 @@
-# Competing projects (list)
+# Concrete projects (list)
 
 ### [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
 
