@@ -1,6 +1,7 @@
 # A list of what could be possible
 
 
+imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
 
 
 hope for spam & moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email

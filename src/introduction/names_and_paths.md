@@ -1,6 +1,6 @@
 # Names & paths
 
-Headjack is also a name registry - accounts can own a handle and be identified with it. There have been other attempts to decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) such as [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) but they need a much more powerful network effect than just names in order to succeed. Headjack is a confluence of multiple interrelated things (identity, names, authorization, connections, addressing) and has the potential to truly decentralize DNS. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to [their dedicated page](../implementation/handles.md).
+Headjack is also a name registry - accounts can own a handle and be identified with it. There have been other attempts to decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) such as [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) but a much stronger network effect is necessary in order to succeed. Headjack is a confluence of multiple interrelated things (identity, names, authorization, connections & addressing) and has the potential to truly decentralize DNS. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to [their dedicated page](../implementation/handles.md).
 
 ---
 
@@ -15,6 +15,12 @@ And thus we're be able to have URIs such as `twitter.com/55212/johnny/3` to iden
 ---
 
 **Or is it?!** What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: [question 4](https://stackoverflow.com/questions/4)) but the page router always changes the URL when loading the page to include the title too). [Message types](../implementation/ecosystem/messages.md) for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming interfaces as it would be a trivial check.
+
+
+
+
+
+
 
 TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
 

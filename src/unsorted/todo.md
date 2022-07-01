@@ -1,6 +1,9 @@
 
 
 
+Forcing connections to go on-chain just to make blockspace valuable feels arbitrary
+
+
 TODO: should the blockchain keep all mappings in its state forever?
 
 
