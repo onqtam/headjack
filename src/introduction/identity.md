@@ -1,7 +1,7 @@
 # Identity & authorization
 
 There are 3 types of entities in Headjack:
-- User accounts - represented by an integer ID on-chain - keypair association is optional.
+- Normal accounts - represented by an integer ID on-chain - keypair association is optional.
 - [IDMs](../implementation/ecosystem/IDM.md) - a superset of normal accounts - required to have a keypair - can manage other accounts by submitting changes for them (name handle, follow relationships, updating keypairs) & acting as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) - authorizing interfaces to post on behalf of users (& ability to revoke that authorization).
 - Interfaces - a superset of normal accounts - required to have a keypair - they are the media presentation layer. Users can authorize them through the use of an [IDM](../implementation/ecosystem/IDM.md) to post on their behalf without having to explicitly sign every interaction (follow, post, comment, react).
 

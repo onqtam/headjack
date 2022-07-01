@@ -206,7 +206,7 @@
 <div style="break-before: page; page-break-before: always;"></div><h1 id="identity--authorization"><a class="header" href="#identity--authorization">Identity &amp; authorization</a></h1>
 <p>There are 3 types of entities in Headjack:</p>
 <ul>
-<li>User accounts - represented by an integer ID on-chain - keypair association is optional.</li>
+<li>Normal accounts - represented by an integer ID on-chain - keypair association is optional.</li>
 <li><a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> - a superset of normal accounts - required to have a keypair - can manage other accounts by submitting changes for them (name handle, follow relationships, updating keypairs) &amp; acting as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> - authorizing interfaces to post on behalf of users (&amp; ability to revoke that authorization).</li>
 <li>Interfaces - a superset of normal accounts - required to have a keypair - they are the media presentation layer. Users can authorize them through the use of an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a> to post on their behalf without having to explicitly sign every interaction (follow, post, comment, react).</li>
 </ul>
@@ -286,11 +286,21 @@
 </li>
 </ul>
 <p>Most of the cryptography checks will be happening instantly as blobs are published &amp; ingested by interface infrastructure &amp; stored in more optimal database formats for content to be later directly served. Users will always be able to request an on-chain proof for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.</p>
-<p>So this is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs &amp; the blockchain. Read the <a href="introduction/names_and_paths.html">following chapter</a> about how names in the URI paths are persistent too (even if names change ownership at some point).</p>
+<p>This is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs &amp; the blockchain. The <a href="introduction/names_and_paths.html">following chapter</a> shows how names in the URI paths are persistent too (even if names change ownership at some point).</p>
 <hr />
+<p>There are multiple ways to retrieve blobs &amp; content for specific URIs from the past:</p>
+<ul>
+<li>The original <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> might still be retrievable from the original interface account that posted it or any other that has pinned the data.</li>
+<li>The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their actions.</li>
+<li>Other well-known players without a direct on-chain connection to the interface/user in a URI could be asked directly for the content:
+<ul>
+<li>Infrastructure companies that do the heavy lifting for interfaces and store everything.</li>
+<li>The analog of the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> in this ecosystem that also stores everything.</li>
+</ul>
+</li>
+</ul>
 <p>TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces &amp; platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that</p>
 <p>TODO: when viewing an old persistent URI that has been referenced by &quot;update/edit events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
-<p>TODO: multiple points to retrieve content?</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="names--paths"><a class="header" href="#names--paths">Names &amp; paths</a></h1>
 <p>Headjack is also a name registry - accounts can own a handle and be identified with it. There have been other attempts to decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> such as <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> but a much stronger network effect is necessary in order to succeed. Headjack is a confluence of multiple interrelated things (identity, names, authorization, connections &amp; addressing) and has the potential to truly decentralize DNS. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to <a href="introduction/../implementation/handles.html">their dedicated page</a>.</p>
 <hr />
