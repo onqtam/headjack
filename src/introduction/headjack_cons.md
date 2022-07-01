@@ -2,6 +2,8 @@
 
 TODO:
 
+- state growth - headjack will suffer from this more than any other blockchain as it keeps a lot of the history in its materialized state as ranges for historic querying with provability. But bluesky's log would be enormous too anyway.
+
 - public interest graph (both a pro and a con)
 - private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.
     - centralization, potential data breaches
