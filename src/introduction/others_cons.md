@@ -27,3 +27,24 @@ A list of problems with the contenders in the decentralized identity/media space
 TODO: time to finality matters for UX (for those anchoring to Bitcoin)
 
 TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available & retrievable - putting as much as possible on-chain is a much simpler model.
+
+
+
+
+
+
+
+the complexity of the competitors is not encapsulated - instead anyone building around them would have to think about so much more
+edge cases, failure scenarios
+the simplest mental model would win
+
+Require educating end-users on complex crypto/web3 concepts
+
+Bearish on social recovery, multisigs and whatnot for billions of people - not scalable
+bearish on wallet-based authentication
+
+Historic record for the keys for every piece of content
+
+TODO: mention authentication flows somewhere - as a term
+
+> "With consumer products, simple and “wrong” beats complicated and “right.”" - [@naval](https://twitter.com/naval/status/1542651322532384768)

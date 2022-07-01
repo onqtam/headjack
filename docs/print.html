@@ -299,7 +299,7 @@
 <p>TODO: when viewing an old persistent URI that has been referenced by &quot;update/edit events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
 <h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>
 <p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before.</p>
-<p>For big types of content (audio/video) the message could be hierarchically broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
+<p>For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="block--state-structure"><a class="header" href="#block--state-structure">Block &amp; state structure</a></h1>
 <p>TODO: does the state actually need to contain the historical mapping? not necessarily as third-party services could be doing that, but forcing full nodes to do it properly in the state &amp; maintaining consensus would simplify the architecture of the rest</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
@@ -352,6 +352,17 @@
 </ul>
 <p>TODO: time to finality matters for UX (for those anchoring to Bitcoin)</p>
 <p>TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available &amp; retrievable - putting as much as possible on-chain is a much simpler model.</p>
+<p>the complexity of the competitors is not encapsulated - instead anyone building around them would have to think about so much more
+edge cases, failure scenarios
+the simplest mental model would win</p>
+<p>Require educating end-users on complex crypto/web3 concepts</p>
+<p>Bearish on social recovery, multisigs and whatnot for billions of people - not scalable
+bearish on wallet-based authentication</p>
+<p>Historic record for the keys for every piece of content</p>
+<p>TODO: mention authentication flows somewhere - as a term</p>
+<blockquote>
+<p>&quot;With consumer products, simple and “wrong” beats complicated and “right.”&quot; - <a href="https://twitter.com/naval/status/1542651322532384768">@naval</a></p>
+</blockquote>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h1>
 <ul>
 <li>
