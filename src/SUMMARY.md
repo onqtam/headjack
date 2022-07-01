@@ -8,9 +8,8 @@
         - [Today's web: host-centric](introduction/host_centric.md)
         - [The data-centric ledger of record](introduction/data_centric.md)
         - [Blob structure & addressing](introduction/blob_structure.md)
-        - [Permanent URIs](introduction/uris.md)
+        - [Persistent & provable URIs](introduction/uris.md)
         - [Names & paths](introduction/names_and_paths.md)
-        - [Benefits of this approach](introduction/benefits.md)
     - [Block & state structure](introduction/block_state_structure.md)
     - [Web-scale & UX](introduction/web_scale.md)
     - [Competition](introduction/competition.md)
@@ -21,6 +20,7 @@
     - [The ambition](introduction/ambition.md)
 
 - [Motivation (why)](motivation/why.md)
+    - [Benefits of this approach](motivation/benefits.md)
     - [Possibilities](motivation/possibilities.md)
     - [Startup case study](motivation/startup_case_study.md)
 
