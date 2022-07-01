@@ -1,10 +1,8 @@
 # Names & paths
 
-TODO: Headjack can issue names to accounts - details on that works in the dedicated page.
+Headjack is also a name registry - accounts can own a handle and be identified with it. There have been other attempts to decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) such as [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) but they need a much more powerful network effect than just names in order to succeed. Headjack is a confluence of multiple interrelated things (identity, names, authorization, connections, addressing) and has the potential to truly decentralize DNS. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to [their dedicated page](../implementation/handles.md).
 
-TODO: a bit about DNS, decentralization, and why something like Handshake alone would probably not succeed
-Namecoin failed. Handshake isn't getting nearly enough adoption.
-
+---
 
 Users and interfaces don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate `<interface_name>/<nonce>/<user_name>/<content_id>` with strings into the canonical integer form discussed [previously](uris.md) by substituting the interface & user names with account IDs.
 
@@ -18,15 +16,9 @@ And thus we're be able to have URIs such as `twitter.com/55212/johnny/3` to iden
 
 **Or is it?!** What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: [question 4](https://stackoverflow.com/questions/4)) but the page router always changes the URL when loading the page to include the title too). [Message types](../implementation/ecosystem/messages.md) for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming interfaces as it would be a trivial check.
 
-Names are discussed in greater detail in [their dedicated page](../implementation/handles.md) (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.).
-
 TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
 
 TODO: when viewing an old persistent URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
-
-- names/handles
-    - decentralized DNS
-
 
 # Addressing within content
 
