@@ -14,6 +14,8 @@ Most of the cryptography checks will be happening instantly as blobs are publish
 
 This is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs & the blockchain. The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if names change ownership at some point).
 
+Edits & updates to content come as messages with new unique URIs that reference the older message URIs and it is up to interfaces to properly display the context that there have been changes and perhaps the ability to view the old or automatically redirect to the latest. "Forks" are possible but they represent interface failure to always show the latest.
+
 ---
 
 There are multiple ways to retrieve blobs & content for specific URIs from the past:
@@ -25,4 +27,4 @@ There are multiple ways to retrieve blobs & content for specific URIs from the p
 
 TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
 
-TODO: when viewing an old persistent URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
+
