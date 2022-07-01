@@ -157,8 +157,12 @@
 </ul>
 </li>
 </ul>
-<p>Most of the cryptography checks will be happening instantly as blobs are published &amp; ingested by interface infrastructure &amp; stored in more optimal databases to be later served without having to redo all the work, but users will always be able to request an on-chain proof from an interface for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.</p>
+<p>Most of the cryptography checks will be happening instantly as blobs are published &amp; ingested by interface infrastructure &amp; stored in more optimal database formats for content to be later directly served. Users will always be able to request an on-chain proof for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.</p>
 <p>So this is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs &amp; the blockchain. Read the <a href="names_and_paths.html">following chapter</a> about how names in the URI paths are persistent too (even if names change ownership at some point).</p>
+<hr />
+<p>TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces &amp; platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that</p>
+<p>TODO: when viewing an old persistent URI that has been referenced by &quot;update/edit events&quot; responsible interfaces should show the newest version and indicate that there has been a change</p>
+<p>TODO: multiple points to retrieve content?</p>
 
                     </main>
 

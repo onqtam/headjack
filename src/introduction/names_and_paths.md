@@ -16,16 +16,6 @@ And thus we're be able to have URIs such as `twitter.com/55212/johnny/3` to iden
 
 **Or is it?!** What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: [question 4](https://stackoverflow.com/questions/4)) but the page router always changes the URL when loading the page to include the title too). [Message types](../implementation/ecosystem/messages.md) for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming interfaces as it would be a trivial check.
 
-
-
-
-
-
-
-TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
-
-TODO: when viewing an old persistent URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
-
 # Addressing within content
 
 Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example when `medium.com/12475/elvis/0/learn-to-code/121/66` is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (`121/66`) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example `medium.com/12475/elvis/0/learn-to-code/schema/42/121/187` could mean `"use on-chain schema number 42"` which could interpret the last part (`121/187`) as start offset and end offset instead of start & length - resulting in the same selection as before.

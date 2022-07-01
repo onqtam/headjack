@@ -10,6 +10,14 @@ The blockchain can be queried if the interface was allowed to post content on be
     - Either if at that point the interface was authorized to post on behalf of the user which would require a Merkle proof for a part of the blockchain state (authorization ranges).
     - Or by checking for an explicit signature & the public key of that account at that time which would also require a Merkle proof for a part of the blockchain state (account key history).
 
-Most of the cryptography checks will be happening instantly as blobs are published & ingested by interface infrastructure & stored in more optimal databases to be later served without having to redo all the work, but users will always be able to request an on-chain proof from an interface for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.
+Most of the cryptography checks will be happening instantly as blobs are published & ingested by interface infrastructure & stored in more optimal database formats for content to be later directly served. Users will always be able to request an on-chain proof for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.
 
 So this is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs & the blockchain. Read the [following chapter](names_and_paths.md) about how names in the URI paths are persistent too (even if names change ownership at some point).
+
+---
+
+TODO: interface accounts should have associated ways of loading their interfaces - talk about that. Also other interfaces & platforms can display the data and provide a link to the original interface if their on-chain account provides the means for that
+
+TODO: when viewing an old persistent URI that has been referenced by "update/edit events" responsible interfaces should show the newest version and indicate that there has been a change
+
+TODO: multiple points to retrieve content?
