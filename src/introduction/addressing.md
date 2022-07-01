@@ -5,6 +5,5 @@ The move from host-centric to data-centric addressing is a complete paradigm shi
 1. [Today's web: host-centric](host_centric.md)
 2. [The data-centric ledger of record](data_centric.md)
 3. [Blob structure & addressing](blob_structure.md)
-4. [Permanent URIs](uris.md)
+4. [Persistent & provable URIs](uris.md)
 5. [Names & paths](names_and_paths.md)
-6. [Benefits of this approach](benefits.md)
