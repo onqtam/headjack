@@ -71,6 +71,11 @@ Wikipedia analog as an example
 Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
 
 
+Todo: takerate - what it is for other platforms and how it fits in headjack beyond youtube
+
+Business models page in ecosystem?
+
+
 
 
 ## Content & interface architectures
@@ -97,7 +102,7 @@ different AWS-like services will index, process & filter data differently based 
 Social media will be broken by verticals and companies will compete to offer services
 
 
-
+Disadvantage: different criteria for counting engagement would result in different views => confusing?
 
 
 
