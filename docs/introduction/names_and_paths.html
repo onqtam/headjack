@@ -164,6 +164,9 @@ Namecoin failed. Handshake isn't getting nearly enough adoption.</p>
 </ul>
 </li>
 </ul>
+<h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>
+<p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before.</p>
+<p>For big types of content (audio/video) the message could be hierarchically broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
 
                     </main>
 
