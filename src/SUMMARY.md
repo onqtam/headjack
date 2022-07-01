@@ -21,7 +21,7 @@
 
 - [Motivation (why)](motivation/why.md)
     - [Benefits of this approach](motivation/benefits.md)
-    - [Possibilities](motivation/possibilities.md)
+    - [Unlocked possibilities](motivation/possibilities.md)
     - [Startup case study](motivation/startup_case_study.md)
 
 - [Implementation (how)](implementation/blockchain.md)
