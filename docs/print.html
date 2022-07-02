@@ -204,7 +204,7 @@
 <li>Anyone should be able to have an identity, operate an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a> or serve media through an interface. Anyone must be able to publish &amp; broadcast through Headjack using their identity - <a href="introduction/../implementation/ecosystem/moderation.html">moderation &amp; censorship</a> will happen at the interface level.</li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="identity--authorization"><a class="header" href="#identity--authorization">Identity &amp; authorization</a></h1>
-<p>There are 3 types of entities in Headjack:</p>
+<p>There are 3 types of roles in Headjack (although a single entity may play all 3):</p>
 <ul>
 <li>Normal accounts - represented by an integer ID on-chain - keypair association is optional.</li>
 <li><a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> - a superset of normal accounts - required to have a keypair - can manage other accounts by submitting changes for them (name handle, follow relationships, updating keypairs) &amp; acting as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> - authorizing interfaces to post on behalf of users (&amp; ability to revoke that authorization).</li>
@@ -314,14 +314,70 @@
 <h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>
 <p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before.</p>
 <p>For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="block--state-structure"><a class="header" href="#block--state-structure">Block &amp; state structure</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="todo--wip--block--state-structure"><a class="header" href="#todo--wip--block--state-structure">TODO !!! WIP !!! Block &amp; state structure</a></h1>
 <h1 id="what-is-in-a-block"><a class="header" href="#what-is-in-a-block">What is in a block</a></h1>
+<ul>
+<li>
+<p>account actions</p>
+<ul>
+<li>token transfers</li>
+<li>IDM-like:
+<ul>
+<li>create new accounts without a keypair</li>
+<li>binding &amp; updating keypairs (changes require signature from the previous key)</li>
+<li>list of interface authorizations &amp; revocations for accounts that it controls (each of which is just an integer pair - <code>56 =&gt; 661</code>)</li>
+</ul>
+</li>
+<li>Interface-like:
+<ul>
+<li>content blob Merkle root</li>
+<li>content blob IPFS CID</li>
+<li>list of follow/unfollow actions for accounts (integers pairs - <code>67 =&gt; 27</code>)</li>
+<li>Interface-related info updates
+<ul>
+<li>IPFS node (cluster) address updates</li>
+<li>keypair updates</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>IDM batches</p>
+<ul>
+<li>list of interface authorizations &amp; revocations (integers pairs - <code>56 =&gt; 661</code>)</li>
+<li>follow/unfollow events (integers pairs - <code>67 =&gt; 27</code>)</li>
+<li>keypair binding &amp; changes (changes require signature from the previous key)</li>
+<li>IDM-related info updates</li>
+</ul>
+</li>
+<li>
+<p>Interface batches</p>
+<ul>
+<li>follow/unfollow events (integers pairs - <code>67 =&gt; 27</code>)</li>
+<li>content Merkle root</li>
+<li>content blob IPFS CID </li>
+<li>Interface-related info updates
+<ul>
+<li>IPFS node (cluster) address updates</li>
+<li>keypair updates</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>State root - the Merkle root for the latest materialized state</p>
+</li>
+</ul>
+<p>In reality a single account may play <a href="introduction/identity.html">all 3 roles</a> - normal user, IDM &amp; Interface, so end users may even authorize interfaces &amp; post content themselves as long as they have a keypair &amp; the funds to pay for their direct on-chain transactions. The distinction here is to help paint the picture.</p>
 <h1 id="materialized-state"><a class="header" href="#materialized-state">Materialized state</a></h1>
 <p>For Headjack the state throughout history is much more important when compared to financial applications because there will be much more queries to prove things in the past (again and again) compared to just the present. Also, because </p>
 <p>TODO: does the state actually need to contain the historical mapping? not necessarily as third-party services could be doing that, but forcing full nodes to do it properly in the state &amp; maintaining consensus would simplify the architecture of the rest</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
 <p>People grossly underestimate the size of the web and the type of infrastructure that's required - what is going on within a single minute of 2021 is <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html"><ins>truly mind-boggling</ins></a> (this is an incomplete picture).</p>
-<img src="https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-32-j.webp">
+<img src="introduction/../web_scale_techspot.webp">
+<!-- <img src="https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-32-j.webp"> -->
 <p>Here are some <a href="https://www.internetlivestats.com/twitter-statistics/">twitter</a>, <a href="https://www.internetlivestats.com/google-search-statistics/">google</a> and <a href="https://www.internetlivestats.com/">other</a> statistics from a <strong>decade</strong> ago. A peek behind what it takes to run Twitter is a good case in point: <a href="http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html">1</a>, <a href="http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html">2</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization">3</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale">4</a>, <a href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-">5</a>. All of this infrastructure is not just about handling enormous amounts of data but also about great UX &amp; responsiveness: <code>&quot;Latency is not an option anymore&quot;</code> - Amazon <a href="https://www.gigaspaces.com/blog/amazon-found-every-100ms-of-latency-cost-them-1-in-sales">found</a> that every 100ms of latency cost them 1% in sales. Google <a href="http://glinden.blogspot.com/2006/11/marissa-mayer-at-web-20.html">found</a> an extra 500ms in search page generation time dropped traffic by 20% - 16 years ago - our irritable nature probably hasn't changed.</p>
 <img src="https://i.imgflip.com/68ut9w.jpg" align="right" style="margin-left: 8px; width: 40%">
 <p>It is highly improbable that the masses (and even most crypto natives) would tolerate services that are much worse (slow, limited &amp; cumbersome) and <a href="introduction/competition.html">most of the competing attempts for decentralizing media</a> are nowhere close. We need to be realistic and focus on the essence - Headjack decentralizes only the most important part of monopolies - the identity &amp; interest graphs, and thus leveling the playing field for competition. It accomplishes this by compact graph representation and avoiding the need for keypairs &amp; signatures by default through an on-chain authorization mechanism while maintaining the optionality for anyone to be fully self-sovereign &amp; explicit - acting as a base layer for competing &amp; interoperable services. It also facilitates data-centric addressing of content under a global namespace which further disincentivizes hoarding data in silos. But Web2 isn't going anywhere - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html"><code>&quot;market dynamics and the fundamental forces of centralization&quot;</code></a> dictate that the best services will be running on huge server racks in data centers with sophisticated caches &amp; batch processing infrastructure behind familiar UX. The difference will be that users will be able to cryptographically prove content and will be able to leave any of these interfaces for better ones if their offering degrades.</p>

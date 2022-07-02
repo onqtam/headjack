@@ -144,8 +144,63 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1 id="block--state-structure"><a class="header" href="#block--state-structure">Block &amp; state structure</a></h1>
+                        <h1 id="todo--wip--block--state-structure"><a class="header" href="#todo--wip--block--state-structure">TODO !!! WIP !!! Block &amp; state structure</a></h1>
 <h1 id="what-is-in-a-block"><a class="header" href="#what-is-in-a-block">What is in a block</a></h1>
+<ul>
+<li>
+<p>account actions</p>
+<ul>
+<li>token transfers</li>
+<li>IDM-like:
+<ul>
+<li>create new accounts without a keypair</li>
+<li>binding &amp; updating keypairs (changes require signature from the previous key)</li>
+<li>list of interface authorizations &amp; revocations for accounts that it controls (each of which is just an integer pair - <code>56 =&gt; 661</code>)</li>
+</ul>
+</li>
+<li>Interface-like:
+<ul>
+<li>content blob Merkle root</li>
+<li>content blob IPFS CID</li>
+<li>list of follow/unfollow actions for accounts (integers pairs - <code>67 =&gt; 27</code>)</li>
+<li>Interface-related info updates
+<ul>
+<li>IPFS node (cluster) address updates</li>
+<li>keypair updates</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>IDM batches</p>
+<ul>
+<li>list of interface authorizations &amp; revocations (integers pairs - <code>56 =&gt; 661</code>)</li>
+<li>follow/unfollow events (integers pairs - <code>67 =&gt; 27</code>)</li>
+<li>keypair binding &amp; changes (changes require signature from the previous key)</li>
+<li>IDM-related info updates</li>
+</ul>
+</li>
+<li>
+<p>Interface batches</p>
+<ul>
+<li>follow/unfollow events (integers pairs - <code>67 =&gt; 27</code>)</li>
+<li>content Merkle root</li>
+<li>content blob IPFS CID </li>
+<li>Interface-related info updates
+<ul>
+<li>IPFS node (cluster) address updates</li>
+<li>keypair updates</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>State root - the Merkle root for the latest materialized state</p>
+</li>
+</ul>
+<p>In reality a single account may play <a href="identity.html">all 3 roles</a> - normal user, IDM &amp; Interface, so end users may even authorize interfaces &amp; post content themselves as long as they have a keypair &amp; the funds to pay for their direct on-chain transactions. The distinction here is to help paint the picture.</p>
 <h1 id="materialized-state"><a class="header" href="#materialized-state">Materialized state</a></h1>
 <p>For Headjack the state throughout history is much more important when compared to financial applications because there will be much more queries to prove things in the past (again and again) compared to just the present. Also, because </p>
 <p>TODO: does the state actually need to contain the historical mapping? not necessarily as third-party services could be doing that, but forcing full nodes to do it properly in the state &amp; maintaining consensus would simplify the architecture of the rest</p>
