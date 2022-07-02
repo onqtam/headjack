@@ -1,6 +1,37 @@
-# Block & state structure
+# TODO !!! WIP !!! Block & state structure
 
 # What is in a block
+
+- account actions
+    - token transfers
+    - IDM-like:
+        - create new accounts without a keypair
+        - binding & updating keypairs (changes require signature from the previous key)
+        - list of interface authorizations & revocations for accounts that it controls (each of which is just an integer pair - `56 => 661`)
+    - Interface-like:
+        - content blob Merkle root
+        - content blob IPFS CID
+        - list of follow/unfollow actions for accounts (integers pairs - `67 => 27`)
+        - Interface-related info updates
+            - IPFS node (cluster) address updates
+            - keypair updates
+
+
+- IDM batches
+    - list of interface authorizations & revocations (integers pairs - `56 => 661`)
+    - follow/unfollow events (integers pairs - `67 => 27`)
+    - keypair binding & changes (changes require signature from the previous key)
+    - IDM-related info updates
+- Interface batches
+    - follow/unfollow events (integers pairs - `67 => 27`)
+    - content Merkle root
+    - content blob IPFS CID 
+    - Interface-related info updates
+        - IPFS node (cluster) address updates
+        - keypair updates
+- State root - the Merkle root for the latest materialized state
+
+In reality a single account may play [all 3 roles](identity.md) - normal user, IDM & Interface, so end users may even authorize interfaces & post content themselves as long as they have a keypair & the funds to pay for their direct on-chain transactions. The distinction here is to help paint the picture.
 
 # Materialized state
 
