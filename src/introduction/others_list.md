@@ -51,7 +51,7 @@ Overall good intuition about the concept of sufficient decentralization (putting
 
 ### [TBD](https://www.tbd.website/)
 
-Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) ["web5"](https://i.imgflip.com/6k9g89.jpg) project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E).
+Jack Dorsey's [new](https://twitter.com/namcios/status/1535302090360250368) ["web5"](../images/web5.jpg) project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E).
 
 - Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using [ION](https://github.com/decentralized-identity/ion) & the [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocol.
     - 10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.

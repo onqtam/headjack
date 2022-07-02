@@ -22,3 +22,5 @@ https://twitter.com/chrishlad/status/1518237282729295873
 
 - no way to enforce purge requests for data, nor consistency for what interfaces show
     - most others suffer from these as well
+
+Disadvantage - the proof is not within the data. But it can be shipped around with it!
