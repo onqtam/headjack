@@ -15,18 +15,18 @@ The blockchain can be queried if the interface was allowed to post content on be
 
 Most of the cryptography checks will be happening instantly as blobs are published & ingested by interface infrastructure & stored in more optimal database formats for content to be later directly served. Users will always be able to request an on-chain proof for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.
 
-This is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs & the blockchain. The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if names change ownership at some point).
+This is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs & the blockchain (either a specific URI + a merkle proof or the entire blob should be stored). The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if user/interface names change ownership at some point).
 
 Users should be able to check the URI of content even if generated through a different interface and ideally the origin should be displayed by default - acting as attribution for other platforms.
 
-Edits & updates to content come as messages with new unique URIs that reference the older message URIs and it is up to interfaces to properly display the context that there have been changes and perhaps the ability to view the old or automatically redirect to the latest. "Forks" are possible but they represent interface failure to detect that an old version is being edited.
+Edits & updates to content come as [messages](../implementation/ecosystem/messages.md) with new unique URIs that reference the older message URIs and it is up to interfaces to properly display the context that there have been changes and perhaps the ability to view the old or automatically redirect to the latest. "Forks" are possible but they represent interface failure to detect that an old version is being edited.
 
 ---
 
 There are multiple ways to retrieve blobs & content for specific URIs from the past:
 - The original [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) might still be retrievable from the original interface account that posted it or any other that has pinned the data.
-- The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their actions.
-- Other well-known players without a direct on-chain connection to the interface/user in a URI could be asked directly for the content:
+- The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their messages.
+- Other well-known players without a direct on-chain connection to the interface/user in a URI could be asked if they have the content:
     - Infrastructure companies that do the heavy lifting for interfaces and store everything.
     - The analog of the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) in this ecosystem that also stores everything.
 

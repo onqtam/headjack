@@ -9,7 +9,7 @@ All follow relationships & authorizations are represented & submitted on-chain a
 
 So at the core of it all is just sequencing relations between integers & merkle roots for content.
 
-<img src="https://i.imgflip.com/6abnkg.jpg">
+<img src="../images/integers_and_relations.jpg">
 
 With this foundation we achieve the following range of usage scenarios:
 
