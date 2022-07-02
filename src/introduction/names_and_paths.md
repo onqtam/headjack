@@ -8,6 +8,10 @@ Users and interfaces don't need a name and can operate as an integer index just 
 
 Every name has an associated auto-increment nonce as well for every time they submit an anchor for off-chain content (just like account IDs) and the blockchain records maps of `<name>/<nonce>` to `<id>/<nonce>` which can then be used for another lookup to get the block that contains the Merkle root & [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) (hash) for the anchored blob.
 
+TODO: name nonce in this picture
+
+<img src="../images/account_name_state.png">
+
 But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check the account IDs that correspond to all usernames within that blob at that time.
 
 And thus we're be able to have URIs such as `twitter.com/55212/johnny/3` to identify any event by any actor - all we'd need to do is a few lookups and then we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URIs could even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface. Most Web3 platforms [suffer from unreadable URLs](https://twitter.com/hasufl/status/1537388439259291649) but we've done a lot better - note the brevity and lack of hashes & hexadecimal symbols (`0xf56a0...`) - in fact, this is as good as it gets...
