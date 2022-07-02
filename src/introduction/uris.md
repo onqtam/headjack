@@ -1,6 +1,7 @@
 # Persistent & provable [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 
-Each account has an associated auto-increment counter (nonce) for every time they submit an anchor for off-chain content. So if an interface has submitted 2 times already, then the next submission will be with `nonce == 3`. The blockchain keeps a mapping in its state for each previous nonce value to the block number when it changed so that `<interface_id>/<nonce>` can be translated to which block has the Merkle root anchor & [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) hash for the blob that corresponds to that nonce for that account.
+Each account has an associated auto-increment counter (nonce) for every time they submit an anchor for off-chain content. So if an interface has submitted 2 times already, then the next submission will be with `nonce == 3`. The blockchain keeps a mapping in its state for each previous nonce value to the block number when it changed so that `<interface_id>/<nonce>` can be translated to which block has the Merkle root anchor & [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) for the blob that corresponds to that nonce for that account. The 2 can be extracted from the historic block.
+<!-- (the 2 could also be cached directly in the state) -->
 
 <img src="../images/blob_URI.png">
 

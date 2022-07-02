@@ -16,7 +16,7 @@
 
 ---
 
-[Named Data Networking](https://en.wikipedia.org/wiki/Named_data_networking) (NDN) is a [Future Internet](https://en.wikipedia.org/wiki/Future_Internet) architecture which builds on top of the previous ideas and in which data is requested by name and routed by the network. However, it requires a reimplementation of foundational routing infrastructure by making it stateful and hierarchically structured names require a root name authority to link them to keypairs - outside of its scope.
+[Named Data Networking](https://en.wikipedia.org/wiki/Named_data_networking) (NDN) is a [Future Internet](https://en.wikipedia.org/wiki/Future_Internet) architecture which builds on top of the previous ideas and in which data is requested by name and routed by the network. However, there are plenty of unsolved challenges with it such as the requirement to reimplement foundational routing infrastructure by making it stateful and hierarchically structured names which require a root name authority to link them to keypairs - outside of its scope. Here's [a great lecture](https://www.youtube.com/watch?v=oCZMoY3q2uM) on the topic.
 
 # Enter Headjack - the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
 
