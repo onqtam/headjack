@@ -26,7 +26,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
 But the vision would be incomplete without the subsequent [**why**](motivation/why.md) and more detailed [**how**](blockchain.md).
 
 <div style="text-align: center;">
-    <img src="logo.png">
+    <img src="images/logo.png">
 </div>
 
 Inspired by the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans [in the Matrix](https://www.youtube.com/watch?v=DoUQhYDz-Ys).

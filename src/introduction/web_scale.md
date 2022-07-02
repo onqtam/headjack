@@ -2,7 +2,7 @@
 
 People grossly underestimate the size of the web and the type of infrastructure that's required - what is going on within a single minute of 2021 is [<ins>truly mind-boggling</ins>](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html) (this is an incomplete picture).
 
-<img src="../web_scale_techspot.webp">
+<img src="../images/web_scale_techspot.webp">
 
 <!-- <img src="https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-32-j.webp"> -->
 
