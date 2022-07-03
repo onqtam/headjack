@@ -15,7 +15,7 @@
 [Logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) through the addition of a global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
 
 <div style="text-align: center;">
-    <img src="../images/one_does_not_simply.jpg">
+    <img src="../images/meme_one_does_not_simply.jpg">
 </div>
 
 <!-- one does not simply solve media
