@@ -159,11 +159,12 @@
 </ul>
 </li>
 </ul>
+<hr />
 <p>Most of the cryptography checks will be happening instantly as blobs are published &amp; ingested by interface infrastructure &amp; stored in more optimal database formats for content to be later directly served. Users will always be able to request an on-chain proof for any event and the Merkle proofs will probably be regenerated on the fly to avoid storing them.</p>
 <p>This is what makes URIs persistent - as long as someone hosts the content it will always be identifiable with the original URI from when it was posted using Merkle proofs &amp; the blockchain (either a specific URI + a merkle proof or the entire blob should be stored). The <a href="names_and_paths.html">following chapter</a> shows how names in the URI paths are persistent too (even if user/interface names change ownership at some point).</p>
-<p>Users should be able to check the URI of content even if generated through a different interface and ideally the origin should be displayed by default - acting as attribution for other platforms.</p>
+<p>Users should be able to check the URI of content even if created through a different interface and ideally the origin should be displayed by default - acting as attribution for other platforms.</p>
 <p>Edits &amp; updates to content come as <a href="../implementation/ecosystem/messages.html">messages</a> with new unique URIs that reference the older message URIs and it is up to interfaces to properly display the context that there have been changes and perhaps the ability to view the old or automatically redirect to the latest. &quot;Forks&quot; are possible but they represent interface failure to detect that an old version is being edited.</p>
-<hr />
+<h1 id="how-to-retrieve-blobs--specific-content"><a class="header" href="#how-to-retrieve-blobs--specific-content">How to retrieve blobs &amp; specific content</a></h1>
 <p>There are multiple ways to retrieve blobs &amp; content for specific URIs from the past:</p>
 <ul>
 <li>The original <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> might still be retrievable from the original interface account that posted it or any other that has pinned the data.</li>
