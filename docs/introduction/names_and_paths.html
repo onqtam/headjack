@@ -151,8 +151,8 @@
 <p>Every name has an associated auto-increment nonce (just like account IDs) for every time they submit an anchor for off-chain content and the blockchain records maps of <code>&lt;name&gt;/&lt;nonce&gt;</code> to <code>&lt;id&gt;/&lt;nonce&gt;</code> which can then be used to resolve the URI as discussed in the <a href="uris.html">previous chapter</a>.</p>
 <img src="../images/account_name_state.png">
 <p>But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check to which account IDs do names in URIs correspond to at that time. Alternatively the user name &lt;=&gt; account ID mapping at the time of the blob could be embedded within the blob header (along with proofs) so that less queries are necessary to the blockchain.</p>
-<p>And thus we're be able to have URIs such as <code>twitter.com/55212/johnny/3</code> to identify any event by any actor - all we'd need to do is a few lookups and then we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URIs could even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface.</p>
-<hr />
+<p>And thus we're be able to have URIs such as <code>twitter.com/55212/johnny/3</code> to identify any event by any actor - all we'd need to do is a few lookups and we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URIs could even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface.</p>
+<h1 id="what-to-ask-the-blockchain-about-a-uri"><a class="header" href="#what-to-ask-the-blockchain-about-a-uri">What to ask the blockchain about a URI</a></h1>
 <p>To recap: we can ask the following questions about this URI: <code>twitter.com/55212/johnny/3</code>:</p>
 <ol>
 <li>To which interface account ID &amp; nonce does <code>twitter.com/55212</code> correspond to?</li>
@@ -162,9 +162,9 @@
 <li>Once we download the blob or just the blob header (using the IPFS CID or any other means):
 <ol>
 <li>We can ask the offset table where within the blob is <code>johnny</code>'s content № <code>3</code>?</li>
-<li>Depending on wether the event is explicitly signed or not we would have to ask:
-2. either if the interface was authorized to post on behalf of <code>johnny</code> at that time,
+<li>Once we fetch the actual data &amp; depending on wether it is explicitly signed or not:
 <ol>
+<li>either if the interface was authorized to post on behalf of <code>johnny</code> at that time,</li>
 <li>or if the signature matches the keypair that's been bound to <code>johnny</code>'s account at the time of the anchored block.</li>
 </ol>
 </li>
@@ -172,7 +172,7 @@
 </li>
 </ol>
 <p>The blockchain can generate Merkle proofs from the blockchain state for any of these questions.</p>
-<hr />
+<h1 id="content-titles-in-uris"><a class="header" href="#content-titles-in-uris">Content titles in URIs</a></h1>
 <p>Most Web3 platforms <a href="https://twitter.com/hasufl/status/1537388439259291649">suffer from unreadable URIs</a> but we've done a lot better - note the brevity and lack of hashes &amp; hexadecimal symbols (<code>0xf56a0...</code>) - in fact, this is as good as it gets...</p>
 <p><strong>Or is it?!</strong> What about headlines of articles - can we have them included as well - something like <code>twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again</code>? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: <a href="https://stackoverflow.com/questions/4">question 4</a>) but the page router always changes the URL when loading the page to include the title too). <a href="../implementation/ecosystem/messages.html">Message types</a> for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming interfaces as it would be a trivial check.</p>
 <h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>

@@ -12,9 +12,9 @@ Every name has an associated auto-increment nonce (just like account IDs) for ev
 
 But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check to which account IDs do names in URIs correspond to at that time. Alternatively the user name <=> account ID mapping at the time of the blob could be embedded within the blob header (along with proofs) so that less queries are necessary to the blockchain.
 
-And thus we're be able to have URIs such as `twitter.com/55212/johnny/3` to identify any event by any actor - all we'd need to do is a few lookups and then we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URIs could even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface.
+And thus we're be able to have URIs such as `twitter.com/55212/johnny/3` to identify any event by any actor - all we'd need to do is a few lookups and we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URIs could even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an interface.
 
----
+# What to ask the blockchain about a URI
 
 To recap: we can ask the following questions about this URI: `twitter.com/55212/johnny/3`:
 
@@ -24,13 +24,13 @@ To recap: we can ask the following questions about this URI: `twitter.com/55212/
 4. What account ID does `johnny` correspond to in the block where this blob was anchored?
 5. Once we download the blob or just the blob header (using the IPFS CID or any other means):
     1. We can ask the offset table where within the blob is `johnny`'s content № `3`?
-    2. Depending on wether the event is explicitly signed or not we would have to ask:
-        2. either if the interface was authorized to post on behalf of `johnny` at that time,
-        1. or if the signature matches the keypair that's been bound to `johnny`'s account at the time of the anchored block.
+    2. Once we fetch the actual data & depending on wether it is explicitly signed or not:
+        1. either if the interface was authorized to post on behalf of `johnny` at that time,
+        2. or if the signature matches the keypair that's been bound to `johnny`'s account at the time of the anchored block.
 
 The blockchain can generate Merkle proofs from the blockchain state for any of these questions.
 
----
+# Content titles in URIs
 
 Most Web3 platforms [suffer from unreadable URIs](https://twitter.com/hasufl/status/1537388439259291649) but we've done a lot better - note the brevity and lack of hashes & hexadecimal symbols (`0xf56a0...`) - in fact, this is as good as it gets...
 
