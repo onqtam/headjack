@@ -65,3 +65,7 @@ https://blog.sia.tech/handshake-retrospective-after-the-first-year-c197e49749c9
 "Handshake would be a lot better if it had a bidding system that assumed users were unskilled and naive, and attempted to optimize the outcome for users assuming that they made bad or uninformed decisions."
 "Proposed Improvements to the Domain Buying Process"
 
+
+Web3 Leads to Cybersquatting 2.0: Here's What Brands Can Do
+https://decrypt.co/104319/ethereum-name-web3-cybersquatting
+
