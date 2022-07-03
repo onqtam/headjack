@@ -10,7 +10,7 @@
 
 - Integers are the most well known, compact, and easy to work with data type - faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
 
-- [Content addressing](../introduction/addressing.md) with persistent URLs.
+- [Content addressing](../introduction/addressing.md) with persistent URIs.
 
 [Logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) through the addition of a global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
 
