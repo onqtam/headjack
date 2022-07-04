@@ -192,11 +192,23 @@
 <div style="break-before: page; page-break-before: always;"></div><h1 id="guiding-principles"><a class="header" href="#guiding-principles">Guiding principles</a></h1>
 <p>There are 5 guiding principles when aiming for mass adoption &amp; parity on convenience &amp; UX with Web2 services:</p>
 <ul>
-<li>Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be <a href="introduction/../implementation/scaling.html">obvious &amp; provable</a> if entrepreneurs  are expected to jump on the opportunity. <code>&quot;Developers care about risk.&quot;</code> - <a href="https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/">Haseeb</a></li>
+<li>Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be <a href="introduction/../implementation/scaling.html">obvious &amp; provable</a> if entrepreneurs  are expected to jump on the opportunity. It should also provide the simplest mental model for developers in order to win.
+<ul>
+<li>
+<blockquote>
+<p>&quot;Developers care about risk.&quot; - <a href="https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/">Haseeb</a></p>
+</blockquote>
+</li>
+</ul>
+</li>
 <li>Must be simple and familiar - abstracting the complexity away. Users shouldn't have to manage keypairs on multiple devices &amp; explicitly sign every interaction - by default they'll be logging into identity managers (<a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a>) using email &amp; pass / <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> (<code>&quot;login with Google&quot;</code>) and would then be using these IDMs as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> to authorize interfaces to post on their behalf. RSS was <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> and it failed - <a href="https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>.
+<ul>
+<li>
 <blockquote>
 <p>&quot;With consumer products, simple and “wrong” beats complicated and “right.”&quot; - <a href="https://twitter.com/naval/status/1542651322532384768">@naval</a></p>
 </blockquote>
+</li>
+</ul>
 </li>
 <li>Users shouldn't have to think about and pay for the storage of their data &amp; blockchain interactions by default - costs &amp; complexity should be shifted to services.</li>
 <li>Users should be able to own their identity &amp; connections in a sovereign way with a keypair <strong>even if by default</strong> their activity is managed by something resembling a custodial service.</li>
@@ -367,25 +379,44 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <li><a href="introduction/others_list.html">Competing projects (list)</a></li>
 <li><a href="introduction/headjack_cons.html">Shortcomings of Headjack</a></li>
 </ol>
-<div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-<h1 id="what-others-get-wrong"><a class="header" href="#what-others-get-wrong">What others get wrong</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="what-others-get-wrong"><a class="header" href="#what-others-get-wrong">What others get wrong</a></h1>
 <p>A list of problems with the contenders in the decentralized identity/media space:</p>
 <ul>
 <li>
-<p>No credible path to <a href="introduction/../introduction/web_scale.html">web-scale</a> - some will hit a wall even at 1 million users. Most are vague around their scalability &amp; data structure and don't put it <a href="introduction/../implementation/scaling.html">front and center</a> - obfuscating the most important bit. Instead of focusing on NFTs &amp; developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.</p>
+<p>No credible path to <a href="introduction/../introduction/web_scale.html">web-scale</a> - some will hit a wall even at 1 million users. Most are vague around their scalability &amp; data structures and don't put it <a href="introduction/../implementation/scaling.html">front and center</a> - obfuscating the most important bit. Instead of focusing on NFTs &amp; developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.</p>
+</li>
+<li>
+<p>Complexity &amp; lack of clarity - distributed systems engineers should easily figure out how they work &amp; what the limitations are. Why build on something that others are probably having a hard time understanding as well and may not be around in the future?</p>
+<ul>
+<li>
+<blockquote>
+<p>&quot;Developers care about risk.&quot; - <a href="https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/">Haseeb</a></p>
+</blockquote>
+</li>
+</ul>
 </li>
 <li>
 <p>Too financialized &amp; trying to do too much - profiles &amp; posts as NFTs, marketplaces, fan coins, tipping, content creator incentives.</p>
-<p><code> &quot;However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start.&quot;</code> - <a href="https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970">Jay Gerber</a></p>
+<ul>
+<li>
+<blockquote>
+<p>&quot;However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start.&quot; - <a href="https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970">Jay Gerber</a></p>
+</blockquote>
+</li>
+</ul>
 </li>
 <li>
 <p>Users shouldn't need to use a token, use a wallet, or self-host to benefit from decentralized identity &amp; an open interest graph. Most people will always use custodial services.</p>
-<p><code>&quot;People don’t want to run their own servers, and never will.&quot;</code> - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">Moxie</a></p>
+<ul>
+<li>
+<blockquote>
+<p>&quot;People don’t want to run their own servers, and never will.&quot; - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">Moxie</a></p>
+</blockquote>
+</li>
+</ul>
 </li>
 <li>
-<p>Linking online identity to financial accounts on Ethereum/Solana/etc will have unintended consequences - a bad default.</p>
+<p>Linking online identity to public financial accounts on Ethereum/Solana/etc will have unintended consequences - a bad default.</p>
 </li>
 <li>
 <p>Federated ones lack <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> which leads to fragmentation and <a href="https://github.com/mastodon/mastodon/issues/9529">no discoverability</a>.</p>
@@ -394,28 +425,26 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <p>Some are solving just identity &amp; the graph - without easy &amp; persistent <a href="introduction/../introduction/addressing.html">content addressing</a>.</p>
 </li>
 <li>
-<p>Some use chains such as Ethereum for <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> &amp; store vector commitments (Merkle roots) for events around <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">key management</a> (rotations, authorizations, sessions &amp; revocations) but the problem of the data availability for whatever is committed remains unsolved and different solutions around it would lead to complexity and trust.</p>
+<p>Some use chains such as Ethereum for <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> &amp; store vector commitments (Merkle roots) for events around <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">key management</a> (rotations, authorizations, sessions &amp; revocations) but the data availability problem for whatever is committed is unsolved.</p>
+<ul>
+<li>The complexity is not encapsulated - there are many open questions, edge cases &amp; failure scenarios and it would inevitably lead to assumptions &amp; trust.</li>
+</ul>
+<!-- - Many focus just on the latest keypairs and don't sequence the signed actions throughout time  - much harder to prove that content generated with an older keypair was indeed legitimate at the time of creation and generated back in time instead of fraudulently constructed later on if the keypair is compromised. -->
+<ul>
+<li>Some anchor to Bitcoin but the time to finality matters a lot for UX - 10 minute block times with probabilistic finality is horrendous.</li>
+</ul>
 </li>
 <li>
-<p>Some lack an incentive layer and/or are focused on specific types of social media.</p>
-</li>
+<p>Some lack an economic incentive layer.</p>
+<ul>
 <li>
-<p>Complexity &amp; lack of clarity - distributed systems engineers shouldn't have a hard time figuring out how they work &amp; what the limitations are. Why build on something that others are probably having a hard time understanding as well and soon may not be around? <code>&quot;Developers care about risk.&quot;</code> - <a href="https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/">Haseeb</a></p>
+<blockquote>
+<p>&quot;Show me the incentive and I will show you the outcome.&quot; - <a href="https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome">Charlie Munger</a></p>
+</blockquote>
 </li>
 </ul>
-<p>TODO: time to finality matters for UX (for those anchoring to Bitcoin)</p>
-<p>TODO: Just publishing vector commitments (Merkle roots) as many other off-chain key management solutions are doing adds a lot more complexity and questions around making the committed data available &amp; retrievable - putting as much as possible on-chain is a much simpler model.</p>
-<p>the complexity of the competitors is not encapsulated - instead anyone building around them would have to think about so much more
-edge cases, failure scenarios
-the simplest mental model would win</p>
-<p>Require educating end-users on complex crypto/web3 concepts</p>
-<p>Bearish on social recovery, multisigs and whatnot for billions of people - not scalable
-bearish on wallet-based authentication</p>
-<p>Historic record for the keys for every piece of content</p>
-<p>TODO: mention authentication flows somewhere - as a term</p>
-<blockquote>
-<p>&quot;With consumer products, simple and “wrong” beats complicated and “right.”&quot; - <a href="https://twitter.com/naval/status/1542651322532384768">@naval</a></p>
-</blockquote>
+</li>
+</ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="what-headjack-gets-right"><a class="header" href="#what-headjack-gets-right">What Headjack gets right</a></h1>
 <ul>
 <li>
@@ -426,6 +455,9 @@ bearish on wallet-based authentication</p>
 </li>
 <li>
 <p>Best set of compromises for UX/DX because of the <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> and the use of identity managers (<a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a>) for on-chain authorization of interfaces - less need for keys &amp; signatures!</p>
+<ul>
+<li>Encapsulates the complexity - the simplest mental model will win.</li>
+</ul>
 </li>
 <li>
 <p><a href="https://en.wikipedia.org/wiki/Unix_philosophy">UNIX philosophy</a>: focus only on identity &amp; the interest graph and don't try to do everything. It doesn't impose constraints on what could be built around it - <a href="https://en.wikipedia.org/wiki/Separation_of_concerns">separation of concerns</a>.</p>
@@ -524,7 +556,7 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 </ul>
 </li>
 <li>
-<p>The ION DID network is <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">not incentivized</a> (just like IPFS) and the anchored content around key management, rotations &amp; revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality &amp; DA guarantees matter a lot when dealing with identity. <code>&quot;Show me the incentive and I will show you the outcome.&quot;</code> - <a href="https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome">Charlie Munger</a></p>
+<p>The ION DID network is <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">not incentivized</a> (just like IPFS) and the anchored content around key management, rotations &amp; revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality &amp; DA guarantees matter a lot when dealing with identity.</p>
 </li>
 <li>
 <p>Doesn't have a human-readable global name registry - lacks in discoverability.</p>
