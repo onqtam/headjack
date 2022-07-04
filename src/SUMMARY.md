@@ -23,7 +23,7 @@
     - [Unlocked possibilities](motivation/possibilities.md)
     - [Startup case study](motivation/startup_case_study.md)
 
-- [Implementation (how) - !!! WIP !!!](implementation/blockchain.md)
+- [Implementation (how)](implementation/blockchain.md)
     - [Scaling & throughput](implementation/scaling.md)
     - [Block & state structure](implementation/block_state_structure.md)
     - [Tokenomics](implementation/tokenomics.md)
