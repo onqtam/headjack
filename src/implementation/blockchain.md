@@ -1,6 +1,7 @@
 
 
 
+<img src="https://cdn11.bigcommerce.com/s-5d127/products/781/images/1383/FS72927-24__72706__76945.1560535870.500.750.jpg?c=2">
 
 TODO: blockchain.md document with a "why not a rollup" section - or in the FAQ
 https://twitter.com/KirilovVik/status/1531184971896999936

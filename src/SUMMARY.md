@@ -10,7 +10,6 @@
         - [Blob structure & addressing](introduction/blob_structure.md)
         - [Persistent & provable URIs](introduction/uris.md)
         - [Names & paths](introduction/names_and_paths.md)
-    - [Block & state structure](introduction/block_state_structure.md)
     - [Web-scale & UX](introduction/web_scale.md)
     - [Competition](introduction/competition.md)
         - [What others get wrong](introduction/others_cons.md)
@@ -24,8 +23,9 @@
     - [Unlocked possibilities](motivation/possibilities.md)
     - [Startup case study](motivation/startup_case_study.md)
 
-- [Implementation (how)](implementation/blockchain.md)
+- [Implementation (how) - !!! WIP !!!](implementation/blockchain.md)
     - [Scaling & throughput](implementation/scaling.md)
+    - [Block & state structure](implementation/block_state_structure.md)
     - [Tokenomics](implementation/tokenomics.md)
     - [Handles (names)](implementation/handles.md)
     - [Ecosystem]()
