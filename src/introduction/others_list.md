@@ -75,6 +75,8 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 
 https://docs.cyberconnect.me/protocol/technical-framework/
 
+Good research and standards - but can it scale?
+
 problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts & linking them
 
 

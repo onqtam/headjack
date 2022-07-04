@@ -425,7 +425,14 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <p>Some are solving just identity &amp; the graph - without easy &amp; persistent <a href="introduction/../introduction/addressing.html">content addressing</a>.</p>
 </li>
 <li>
-<p>Media is about aggregated views at scale but some focus solely on p2p and direct comms.</p>
+<p>Social media is about aggregated views at scale - not p2p and direct comms.</p>
+<ul>
+<li>
+<blockquote>
+<p>&quot;The emphasis of a social network is on &quot;propagation&quot; aka, propaganda.&quot; - <a href="https://news.ycombinator.com/item?id=25735773">didibus</a></p>
+</blockquote>
+</li>
+</ul>
 </li>
 <li>
 <p>Some use chains such as Ethereum for <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical centralization</a> &amp; store vector commitments (Merkle roots) for events around <a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">key management</a> (rotations, authorizations, sessions &amp; revocations) but the data availability problem for whatever is committed is unsolved.</p>
@@ -577,6 +584,7 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 </ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>https://docs.cyberconnect.me/protocol/technical-framework/</p>
+<p>Good research and standards - but can it scale?</p>
 <p>problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts &amp; linking them</p>
 <p>https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
 My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?</p>
@@ -613,23 +621,13 @@ My question in their discord: Hello! Your documentation says Long-term data rete
 <li><a href="https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970">Blockchain Social Networks</a> - Jay Gerber</li>
 <li>There are <a href="https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8">many other projects</a> in this space.</li>
 </ul>
-<div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-<h1 id="shortcomings-of-headjack"><a class="header" href="#shortcomings-of-headjack">Shortcomings of Headjack</a></h1>
-<p>TODO:</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="shortcomings-of-headjack"><a class="header" href="#shortcomings-of-headjack">Shortcomings of Headjack</a></h1>
 <ul>
 <li>
-<p>state growth - headjack will suffer from this more than any other blockchain as it keeps a lot of the history in its materialized state as ranges for historic querying with provability. But bluesky's log would be enormous too anyway.</p>
+<p>State growth - Headjack will suffer from this more than most other blockchains as it keeps a lot of the history in its materialized state as ranges for historic querying with provability - not just the &quot;current view&quot;. However, most of this will be compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. Others like <a href="introduction/others_list.html#bluesky">Bluesky</a> who also want to be able to prove authenticity of very old content have a transparency log which would be big as well.</p>
 </li>
 <li>
-<p>public interest graph (both a pro and a con)</p>
-</li>
-<li>
-<p>private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.</p>
-<ul>
-<li>centralization, potential data breaches</li>
-</ul>
+<p>Private social graphs &amp; DMs require the use of <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> and that starts to resemble <a href="introduction/others_list.html#farcaster">Farcaster</a>'s managed hosts and <a href="introduction/others_list.html#bluesky">Bluesky</a>'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo.</p>
 </li>
 <li>
 <p>updates &amp; deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol</p>
@@ -638,10 +636,10 @@ My question in their discord: Hello! Your documentation says Long-term data rete
 </ul>
 </li>
 <li>
-<p>Too <a href="introduction/ambition.html">ambitious</a> <code>¯\_(ツ)_/¯</code></p>
+<p>public interest graph (both a pro and a con)</p>
 </li>
 <li>
-<p>too much trust around IDMs - no other way around for mass adoption</p>
+<p>Too <a href="introduction/ambition.html">ambitious</a> <code>¯\_(ツ)_/¯</code></p>
 </li>
 <li>
 <p>failure scenario around IDMs</p>
@@ -659,8 +657,9 @@ https://twitter.com/chrishlad/status/1518237282729295873</p>
 </ul>
 </li>
 </ul>
-<p>Disadvantage - the proof is not within the data. But it can be shipped around with it!</p>
+<p>Disadvantage - the proof is not within the data pointed to by a URI by default. But it can be shipped around with it!</p>
 <p>It could be very heavy to generate all the merkle proofs</p>
+<p>TODO: disadvantage - huge reliance on full Headjack nodes that contain the full state</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="the-ambition"><a class="header" href="#the-ambition">The ambition</a></h1>
 <p>Web3 is often associated with user ownership of networks/services/data, governance, NFTs &amp; micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and <a href="https://twitter.com/balajis/status/1162401646258749441">making it sovereign</a> - the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing interfaces &amp; views that present &amp; filter commonly addressable data in any way imaginable.</p>
 <p>Think of Headjack as an <a href="https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self describing messages, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity, connections &amp; authorization are on-chain and have guaranteed storage &amp; retrievability whereas all data objects are just cryptographically anchored and stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>) for which durability &amp; retrievability is on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees. It can <a href="introduction/../implementation/scaling.html">scale</a> practically as much as necessary. Another way to look at it is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network similar to <a href="https://kafka.apache.org/intro">Kafka</a> where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's <a href="https://twitter.com/jack/status/1204766078468911106">vision for decentralizing Twitter</a>.</p>

@@ -29,8 +29,6 @@ TODO: do the math on how big the state would be with 1k interfaces and 1 million
     state growth is a concern even if it's simple integers
 
 
-TODO: disadvantage - huge reliance on full Headjack nodes that contain the full state
-
 
 - What if the interface web2 website is no longer around?
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
@@ -38,7 +36,6 @@ TODO: disadvantage - huge reliance on full Headjack nodes that contain the full 
 - Discord, signal protocol
 - TODO: Q: is multi-dimentionality required if people use different interfaces for different types of content?
 - if enough things move to the ID managers... what if the public connections go there too? moving closer & closer to farcaster's design... what if the blockchain isn't necessary? :|
-- TODO: URLs and how they are actually displayed - which interface...
 - TODO: this is for public discourse - not private networks like facebook/snap.
 - Too many acms and what if someone logs with an interface - how to merge?
 
@@ -168,9 +165,6 @@ TODO: address private media & graphs
 
 can this displace SSL in addition to DNS?
 
-
-this tbh...
-https://news.ycombinator.com/item?id=25735773
 
 
 https://en.wikipedia.org/wiki/Hash_array_mapped_trie

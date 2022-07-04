@@ -144,23 +144,13 @@
 
                 <div id="content" class="content">
                     <main>
-                        <div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-<h1 id="shortcomings-of-headjack"><a class="header" href="#shortcomings-of-headjack">Shortcomings of Headjack</a></h1>
-<p>TODO:</p>
+                        <h1 id="shortcomings-of-headjack"><a class="header" href="#shortcomings-of-headjack">Shortcomings of Headjack</a></h1>
 <ul>
 <li>
-<p>state growth - headjack will suffer from this more than any other blockchain as it keeps a lot of the history in its materialized state as ranges for historic querying with provability. But bluesky's log would be enormous too anyway.</p>
+<p>State growth - Headjack will suffer from this more than most other blockchains as it keeps a lot of the history in its materialized state as ranges for historic querying with provability - not just the &quot;current view&quot;. However, most of this will be compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. Others like <a href="others_list.html#bluesky">Bluesky</a> who also want to be able to prove authenticity of very old content have a transparency log which would be big as well.</p>
 </li>
 <li>
-<p>public interest graph (both a pro and a con)</p>
-</li>
-<li>
-<p>private social graphs require the use of IDMs and that starts to resemble Farcaster's managed hosts and Bluesky's Personal Data Servers.</p>
-<ul>
-<li>centralization, potential data breaches</li>
-</ul>
+<p>Private social graphs &amp; DMs require the use of <a href="../implementation/ecosystem/IDM.html">IDMs</a> and that starts to resemble <a href="others_list.html#farcaster">Farcaster</a>'s managed hosts and <a href="others_list.html#bluesky">Bluesky</a>'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo.</p>
 </li>
 <li>
 <p>updates &amp; deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol</p>
@@ -169,10 +159,10 @@
 </ul>
 </li>
 <li>
-<p>Too <a href="ambition.html">ambitious</a> <code>¯\_(ツ)_/¯</code></p>
+<p>public interest graph (both a pro and a con)</p>
 </li>
 <li>
-<p>too much trust around IDMs - no other way around for mass adoption</p>
+<p>Too <a href="ambition.html">ambitious</a> <code>¯\_(ツ)_/¯</code></p>
 </li>
 <li>
 <p>failure scenario around IDMs</p>
@@ -190,8 +180,9 @@ https://twitter.com/chrishlad/status/1518237282729295873</p>
 </ul>
 </li>
 </ul>
-<p>Disadvantage - the proof is not within the data. But it can be shipped around with it!</p>
+<p>Disadvantage - the proof is not within the data pointed to by a URI by default. But it can be shipped around with it!</p>
 <p>It could be very heavy to generate all the merkle proofs</p>
+<p>TODO: disadvantage - huge reliance on full Headjack nodes that contain the full state</p>
 
                     </main>
 

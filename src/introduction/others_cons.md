@@ -21,7 +21,9 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Some are solving just identity & the graph - without easy & persistent [content addressing](../introduction/addressing.md).
 
-- Media is about aggregated views at scale but some focus solely on p2p and direct comms.
+- Social media is about aggregated views at scale - not p2p and direct comms.
+
+    - > "The emphasis of a social network is on "propagation" aka, propaganda." - [didibus](https://news.ycombinator.com/item?id=25735773)
 
 - Some use chains such as Ethereum for [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) & store vector commitments (Merkle roots) for events around [key management](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) (rotations, authorizations, sessions & revocations) but the data availability problem for whatever is committed is unsolved.
     - The complexity is not encapsulated - there are many open questions, edge cases & failure scenarios and it would inevitably lead to assumptions & trust.
