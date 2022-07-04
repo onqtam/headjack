@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
+</div>
 
 
 Identity managers can still be compromised and wreack havok, but this is annimprovement to the status quo

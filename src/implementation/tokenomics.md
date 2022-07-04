@@ -1,3 +1,6 @@
+<div style="text-align: center;">
+    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
+</div>
 
 
 If interfaces have to stake and leaving the stake has a queue they would have more incentive not to leave - sticky.

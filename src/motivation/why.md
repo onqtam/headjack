@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
+</div>
+
+
 # What's currently wrong
 
 This page focuses on the current problems while the [possibilities](possibilities.md) page focuses on what Headjack would enable.

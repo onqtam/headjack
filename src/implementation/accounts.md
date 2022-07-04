@@ -14,7 +14,7 @@ Other less important fields:
 
 
 
-User nonce per interface
+User nonce per interface? Or no need? Won't the <interface_id>/<interface_nonce> be embedded in a message that's being signed through an interface such that it cannot suffer from a replay attack?
 
 Multiple keys per index allowed for convenience?
 
