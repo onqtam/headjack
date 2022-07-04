@@ -22,7 +22,9 @@
     parler
 
 - status
+"Almost every social network of note had an early signature proof of work hurdle."
 https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
+Headjack - having a lower ID
 
 
 
@@ -47,6 +49,10 @@ TODO: think about
 having a clear case for metaverse companies seems to be a solid route to gain initial traction, may be better to emerge with an industry versus tackle the existing until critical mass
 TODO: this goes in the growth strat!
 
+
+
+need community & product
+https://www.shawkisukkar.com/2022/farcaster
 
 
 
