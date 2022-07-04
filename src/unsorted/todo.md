@@ -173,3 +173,8 @@ https://en.wikipedia.org/wiki/Hash_array_mapped_trie
 https://ipld.io/docs/schemas/
 
 In the spirit of [Rule 34](https://en.wikipedia.org/wiki/Rule_34): `"if something exists - it is anchored in Headjack"`.
+
+
+https://vitalik.ca/general/2022/06/12/nonfin.html
+But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
+https://www.opencerts.io/

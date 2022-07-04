@@ -154,18 +154,18 @@
 <li>
 <p>Email as username ==&gt; resolve to a <a href="https://www.w3.org/TR/did-core/">DID</a> with <a href="https://webfinger.net/">WebFinger</a></p>
 <ul>
-<li>Relies on DNS for the part after <code>@</code> - centralization point.</li>
+<li>Centralization point - relies on DNS for the part after <code>@</code>.</li>
 </ul>
 </li>
 <li>
-<p>Consortium of nodes &amp; a <em>&quot;transparency log&quot;</em> manage the DID registry.</p>
+<p><strong>Consortium</strong> of nodes &amp; a transparency log manage the DID registry.</p>
 <ul>
-<li>Centralization point (not just <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical</a> for key management) - users can be kicked off.</li>
+<li>Centralization point (not just <a href="https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274">logical</a>) - users can be kicked off.</li>
 <li>This should have been a credibly neutral &amp; self-sustaining blockchain.</li>
 </ul>
 </li>
 <li>
-<p>Content addressing with hashes by default (versus Headjack's <a href="../introduction/addressing.html">human-readable &amp; persistent URIs</a>).</p>
+<p>Content addressing with hashes (versus Headjack's <a href="../introduction/addressing.html">human-readable &amp; persistent URIs</a>).</p>
 </li>
 <li>
 <p>Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management">custodial solutions</a>.</p>
@@ -175,7 +175,7 @@
 <!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
 <!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
 <!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
-<p>Overall a solid effort and could work - some similarities to <a href="#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.</p>
+<p>Overall a solid effort and could work - some similarities to <a href="#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does.</p>
 <h3 id="farcaster"><a class="header" href="#farcaster"><a href="https://www.farcaster.xyz/">Farcaster</a></a></h3>
 <p>Their WIP architecture: <a href="https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564">link</a>. The account registry is on a blockchain and everything else is off-chain.</p>
 <ul>
