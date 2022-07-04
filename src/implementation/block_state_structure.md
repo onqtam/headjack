@@ -1,5 +1,12 @@
 # TODO !!! WIP !!! Block & state structure
 
+
+Look at ethereum block & state structure
+https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture
+https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/
+
+
+
 # What is in a block
 
 - account actions

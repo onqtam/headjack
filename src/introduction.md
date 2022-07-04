@@ -14,14 +14,13 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
     3. [Blob structure & addressing](introduction/blob_structure.md)
     4. [Persistent & provable URIs](introduction/uris.md)
     5. [Names & paths](introduction/names_and_paths.md)
-5. [Block & state structure](introduction/block_state_structure.md)
-6. [Web-scale & UX](introduction/web_scale.md)
-7. [Competition](introduction/competition.md)
+5. [Web-scale & UX](introduction/web_scale.md)
+6. [Competition](introduction/competition.md)
     1. [What others get wrong](introduction/others_cons.md)
     2. [What Headjack gets right](introduction/headjack_pros.md)
     3. [Competing projects (list)](introduction/others_list.md)
     4. [Shortcomings of Headjack](introduction/headjack_cons.md)
-8. [The ambition](introduction/ambition.md)
+7. [The ambition](introduction/ambition.md)
 
 But the vision would be incomplete without the subsequent [**why**](motivation/why.md) and more detailed [**how**](blockchain.md).
 
