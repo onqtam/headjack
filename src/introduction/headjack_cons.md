@@ -1,35 +1,15 @@
 # Shortcomings of Headjack
 
-- State growth - Headjack will suffer from this more than most other blockchains as it keeps a lot of the history in its materialized state as ranges for historic querying with provability - not just the "current view". However, most of this will be compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. Others like [Bluesky](others_list.md#bluesky) who also want to be able to prove authenticity of very old content have a transparency log which would be big as well.
+- State growth - Headjack keeps a lot of the history in its materialized state as ranges for historic querying with provability - not just the "current view" which itself constantly grows. However, most of this will be compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. [Bluesky](others_list.md#bluesky) similarly wants to be able to prove authenticity of old content and has a transparency log but it will be even bigger (not compact).
 
-- Private social graphs & DMs require the use of [IDMs](../implementation/ecosystem/IDM.md) and that starts to resemble [Farcaster](others_list.md#farcaster)'s managed hosts and [Bluesky](others_list.md#bluesky)'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo.
+- Private social graphs & DMs require the use of [IDMs](../implementation/ecosystem/IDM.md) and that starts to resemble [Farcaster](others_list.md#farcaster)'s managed hosts and [Bluesky](others_list.md#bluesky)'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo. A big failure scenario is if an IDM that manages millions of accounts goes rogue or shuts down:
+    - Those that have not bound a keypair to their accounts will effectively be stuck.
+    - The chain could get congested by those who have keypairs and suddenly all at once start submitting on-chain transactions directly to move to another IDM but that problem can be alleviated through [signature aggregation](https://ethresear.ch/t/an-off-chain-bls-aggregation-scheme-which-might-reduce-the-casper-finalization-to-1-min/5427) if the signed payload is the same like for example if a big chunk of them move from IDM `666` to IDM `42` specifically.
+        - If they haven't exported their off-chain data managed by their previous IDM it could be lost - private social graph, DMs, preferences, etc.
+        - However, these problems (loss from a "trusted" service going down and network congestion on rare events) will be shared by any solution that has "trusted" services that are required to reach any meaningful scale. Some users could run their own version of an IDM for their private data but they'll have to pay for more bytes on-chain which is not something that everyone could be doing at once.
 
-- updates & deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol
-    - not sure if there could be an analogy of a purge request: https://github.com/bluesky-social/adx/blob/main/architecture.md#purge-requests-hard-removal
+- Data pointed to by a URI is not by itself [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) - it needs accompanying cryptographic Merkle proofs that only full blockchain nodes can generate. However, archiving & bookmarking services (or fully self-contained articles with no external dependencies) that don't want to rely on repetitive requests to the blockchain in the future may request these proofs initially and store them along with the data.
 
-
-- public interest graph (both a pro and a con)
-
-
+- Updates & deletes to content may not be applied/displayed properly in all interfaces - there will always be those that don't honor edits or [purge requests](https://github.com/bluesky-social/adx/blob/main/architecture.md#purge-requests-hard-removal). However, this is a problem with almost any decentralized protocol and most established interfaces will be honoring these types of messages or else people will simply move to different ones. In the end this will not be an issue in any meaningful scale as social forces will solve it.
 
 - Too [ambitious](ambition.md) `¯\_(ツ)_/¯`
-
-- failure scenario around IDMs
-
-https://vitalik.ca/general/2022/06/12/nonfin.html
-But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
-https://www.opencerts.io/
-
-"140 Reasons Why Square Will Fail" - And then rejected each reason and explained why.
-https://twitter.com/chrishlad/status/1518237282729295873
-
-- no way to enforce purge requests for data, nor consistency for what interfaces show
-    - most others suffer from these as well
-
-Disadvantage - the proof is not within the data pointed to by a URI by default. But it can be shipped around with it!
-
-It could be very heavy to generate all the merkle proofs
-
-
-TODO: disadvantage - huge reliance on full Headjack nodes that contain the full state
-

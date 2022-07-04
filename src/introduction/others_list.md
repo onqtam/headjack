@@ -10,13 +10,13 @@
 Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
 
 - Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
-    - Relies on DNS for the part after `@` - centralization point.
+    - Centralization point - relies on DNS for the part after `@`.
 
-- Consortium of nodes & a *"transparency log"* manage the DID registry.
-    - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) for key management) - users can be kicked off.
+- **Consortium** of nodes & a transparency log manage the DID registry.
+    - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
-- Content addressing with hashes by default (versus Headjack's [human-readable & persistent URIs](../introduction/addressing.md)).
+- Content addressing with hashes (versus Headjack's [human-readable & persistent URIs](../introduction/addressing.md)).
 
 - Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
 
@@ -25,7 +25,7 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
 <!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
 <!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
 
-Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry.
+Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does.
 
 ### [Farcaster](https://www.farcaster.xyz/)
 

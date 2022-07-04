@@ -147,42 +147,30 @@
                         <h1 id="shortcomings-of-headjack"><a class="header" href="#shortcomings-of-headjack">Shortcomings of Headjack</a></h1>
 <ul>
 <li>
-<p>State growth - Headjack will suffer from this more than most other blockchains as it keeps a lot of the history in its materialized state as ranges for historic querying with provability - not just the &quot;current view&quot;. However, most of this will be compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. Others like <a href="others_list.html#bluesky">Bluesky</a> who also want to be able to prove authenticity of very old content have a transparency log which would be big as well.</p>
+<p>State growth - Headjack keeps a lot of the history in its materialized state as ranges for historic querying with provability - not just the &quot;current view&quot; which itself constantly grows. However, most of this will be compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. <a href="others_list.html#bluesky">Bluesky</a> similarly wants to be able to prove authenticity of old content and has a transparency log but it will be even bigger (not compact).</p>
 </li>
 <li>
-<p>Private social graphs &amp; DMs require the use of <a href="../implementation/ecosystem/IDM.html">IDMs</a> and that starts to resemble <a href="others_list.html#farcaster">Farcaster</a>'s managed hosts and <a href="others_list.html#bluesky">Bluesky</a>'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo.</p>
-</li>
-<li>
-<p>updates &amp; deletes to content may not be applied in interfaces, but this is a problem with almost any decentralized protocol</p>
+<p>Private social graphs &amp; DMs require the use of <a href="../implementation/ecosystem/IDM.html">IDMs</a> and that starts to resemble <a href="others_list.html#farcaster">Farcaster</a>'s managed hosts and <a href="others_list.html#bluesky">Bluesky</a>'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo. A big failure scenario is if an IDM that manages millions of accounts goes rogue or shuts down:</p>
 <ul>
-<li>not sure if there could be an analogy of a purge request: https://github.com/bluesky-social/adx/blob/main/architecture.md#purge-requests-hard-removal</li>
+<li>Those that have not bound a keypair to their accounts will effectively be stuck.</li>
+<li>The chain could get congested by those who have keypairs and suddenly all at once start submitting on-chain transactions directly to move to another IDM but that problem can be alleviated through <a href="https://ethresear.ch/t/an-off-chain-bls-aggregation-scheme-which-might-reduce-the-casper-finalization-to-1-min/5427">signature aggregation</a> if the signed payload is the same like for example if a big chunk of them move from IDM <code>666</code> to IDM <code>42</code> specifically.
+<ul>
+<li>If they haven't exported their off-chain data managed by their previous IDM it could be lost - private social graph, DMs, preferences, etc.</li>
+<li>However, these problems (loss from a &quot;trusted&quot; service going down and network congestion on rare events) will be shared by any solution that has &quot;trusted&quot; services that are required to reach any meaningful scale. Some users could run their own version of an IDM for their private data but they'll have to pay for more bytes on-chain which is not something that everyone could be doing at once.</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
-<p>public interest graph (both a pro and a con)</p>
+<p>Data pointed to by a URI is not by itself <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> - it needs accompanying cryptographic Merkle proofs that only full blockchain nodes can generate. However, archiving &amp; bookmarking services (or fully self-contained articles with no external dependencies) that don't want to rely on repetitive requests to the blockchain in the future may request these proofs initially and store them along with the data.</p>
+</li>
+<li>
+<p>Updates &amp; deletes to content may not be applied/displayed properly in all interfaces - there will always be those that don't honor edits or <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md#purge-requests-hard-removal">purge requests</a>. However, this is a problem with almost any decentralized protocol and most established interfaces will be honoring these types of messages or else people will simply move to different ones. In the end this will not be an issue in any meaningful scale as social forces will solve it.</p>
 </li>
 <li>
 <p>Too <a href="ambition.html">ambitious</a> <code>¯\_(ツ)_/¯</code></p>
 </li>
-<li>
-<p>failure scenario around IDMs</p>
-</li>
 </ul>
-<p>https://vitalik.ca/general/2022/06/12/nonfin.html
-But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
-https://www.opencerts.io/</p>
-<p>&quot;140 Reasons Why Square Will Fail&quot; - And then rejected each reason and explained why.
-https://twitter.com/chrishlad/status/1518237282729295873</p>
-<ul>
-<li>no way to enforce purge requests for data, nor consistency for what interfaces show
-<ul>
-<li>most others suffer from these as well</li>
-</ul>
-</li>
-</ul>
-<p>Disadvantage - the proof is not within the data pointed to by a URI by default. But it can be shipped around with it!</p>
-<p>It could be very heavy to generate all the merkle proofs</p>
-<p>TODO: disadvantage - huge reliance on full Headjack nodes that contain the full state</p>
 
                     </main>
 
