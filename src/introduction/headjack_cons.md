@@ -18,6 +18,10 @@ TODO:
 
 - Too [ambitious](ambition.md) `¯\_(ツ)_/¯`
 
+- too much trust around IDMs - no other way around for mass adoption
+
+- failure scenario around IDMs
+
 https://vitalik.ca/general/2022/06/12/nonfin.html
 But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
 https://www.opencerts.io/
