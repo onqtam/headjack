@@ -6,14 +6,13 @@ Interfaces accumulate off-chain activity from users which they cryptographically
 
 When a batch is finalized an interface does the following:
 
-- It generates the blob header which contains the intra-blob index (offset table) for lookup of content of specific accounts.
-- The entire blob (including the header) are signed with the keypair of the interface.
-- A [Merkle root](https://en.wikipedia.org/wiki/Merkle_tree) that touches every event is deterministically constructed following a schema.
-- The [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) (hash) for the blob is generated and the IPFS blob is pinned & downloadable.
+1. It generates the blob header which contains the intra-blob index (offset table) for lookup of content of specific accounts.
+2. A [Merkle root](https://en.wikipedia.org/wiki/Merkle_tree) that touches every event is deterministically constructed following a schema.
+3. The [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) (hash) for the blob is generated and the IPFS blob is pinned & downloadable.
 
-The only 2 things that are submitted on-chain are thus the Merkle root and the IPFS CID for the next nonce (auto-increment counter) associated with the interface account.
+The only 2 things that are signed & submitted on-chain are thus the Merkle root and the IPFS CID for the next nonce (auto-increment counter) associated with the interface account.
 
----
+# Optimal blob/content delivery
 
 The blobs may be in a hierarchy such that the on-chain IPFS hash points only to the "root" blob that contains the header and the actual indexed data could be in child IPFS blobs (whose [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) is contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which "leaf" blobs they need to fetch for the data they are interested in (if any). Note that even private [intranet](https://en.wikipedia.org/wiki/Intranet) data may be anchored but not retrievable by the public if the blob IPFS CID is never published or pinned/hosted - unified addressing for public & private.
 

@@ -148,14 +148,13 @@
 <p>Interfaces accumulate off-chain activity from users which they cryptographically anchor in batches with a <a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle root</a> and they determine how often to do so (it doesn't have to be on every block) - those with little activity may submit only once per minute or even less often - the frequency is determined by platforms based on the volume of activity and the on-chain costs for publishing bytes. When enough activity has been collected it is packed in a blob and all the events generated since the last anchored batch are sorted &amp; grouped by users in some deterministic way &amp; schema (users based on index/name and user interactions based on the type/sequence).</p>
 <img src="../images/blob_structure.png">
 <p>When a batch is finalized an interface does the following:</p>
-<ul>
+<ol>
 <li>It generates the blob header which contains the intra-blob index (offset table) for lookup of content of specific accounts.</li>
-<li>The entire blob (including the header) are signed with the keypair of the interface.</li>
 <li>A <a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle root</a> that touches every event is deterministically constructed following a schema.</li>
 <li>The <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> (hash) for the blob is generated and the IPFS blob is pinned &amp; downloadable.</li>
-</ul>
-<p>The only 2 things that are submitted on-chain are thus the Merkle root and the IPFS CID for the next nonce (auto-increment counter) associated with the interface account.</p>
-<hr />
+</ol>
+<p>The only 2 things that are signed &amp; submitted on-chain are thus the Merkle root and the IPFS CID for the next nonce (auto-increment counter) associated with the interface account.</p>
+<h1 id="optimal-blobcontent-delivery"><a class="header" href="#optimal-blobcontent-delivery">Optimal blob/content delivery</a></h1>
 <p>The blobs may be in a hierarchy such that the on-chain IPFS hash points only to the &quot;root&quot; blob that contains the header and the actual indexed data could be in child IPFS blobs (whose <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> is contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which &quot;leaf&quot; blobs they need to fetch for the data they are interested in (if any). Note that even private <a href="https://en.wikipedia.org/wiki/Intranet">intranet</a> data may be anchored but not retrievable by the public if the blob IPFS CID is never published or pinned/hosted - unified addressing for public &amp; private.</p>
 <img src="../images/root_child_blob_separation.png">
 <p>Interfaces maintain the logical order of events for the future batch in maps in order to provide intra-blob addressing even before it is fully constructed - as an example if a user posts an article and immediately after that comments on their post - the comment should be able to refer to the post which is not yet committed on-chain. Interfaces will also display activity by others that is not yet anchored and the interactions can still use the proper addressing when referring to the yet-to-be-anchored messages (the next nonce number is known in advance). Any type of interaction is addressable and sequenced in the blobs - including reactions (likes, etc).</p>
