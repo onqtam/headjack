@@ -13,3 +13,4 @@ spam protection: lock tokens to submit data
 
 The limits of paying for blockspace - alternative forms of value accrual for tokens where the inelasticity of blockspace is a deal breaker
 
+blockspace revenue is insufficient - forms of staking and ownership of the network are necessary to drive value to the token

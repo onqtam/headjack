@@ -37,7 +37,7 @@ Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Far
 
 - [Cast URIs](https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f) will look something like `farcaster://alice/cast:0xf00b4r/42` which is less readable than what Headjack will be offering with [its addressing](../introduction/addressing.md).
 
-Overall good intuition about the concept of sufficient decentralization (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much responsibility & complexity and is lacking in other areas.
+Overall good intuition about the concept of [sufficient decentralization](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much responsibility & complexity and is lacking in other areas.
 
 ### [lens.xyz](https://lens.xyz/)
 
