@@ -74,7 +74,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 > "It gives developers low-cost, low-volatility access to continually replenishing capacity to build predictable, sustainable business models." - [the Frequency blockchain](https://web.archive.org/web/20220629170813/https://www.frequency.xyz/)
 
-- 100m$ of funding from a single billionaire 2 years ago.
+- [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) from a single billionaire.
 
 - Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale.
 
