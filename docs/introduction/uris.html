@@ -177,6 +177,9 @@
 </li>
 </ul>
 <p>Interface accounts can point on-chain to a traditional host which should be used to display content published through them. As you'll see in the next chapter interface names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly in your browser and as long as they own the same domain in the traditional <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> they should be able to serve a webpage displaying the specific piece of content.</p>
+<h1 id="on-proof-permanence"><a class="header" href="#on-proof-permanence">On proof permanence</a></h1>
+<p>Note that there can be many different &amp; valid Merkle proofs for the same URI from different states of the blockchain at different block heights.</p>
+<p>However, one thing to consider is if a user revokes the authorization of an interface to post in his behalf retroactively - not just going forward but also invalidating all anchored content &amp; follow/unfollow events for the last couple of days through that interface. This would mean that cached Merkle proofs for such invalidated content will no longer be valid and the latest state of the blockchain will refuse to produce new such proofs, but the cached proofs could mislead someone. Retroactive revocation can happen only up to <code>X</code> days to limit the scope of changes to cached proofs &amp; what infrastructure would need to handle but still giving enough time for anyone to react in case an interface has posted fraudulent activity on their behalf - a <strong>mostly theoretical concern</strong>. Proofs for blocks older than <code>X</code> days are therefore considered permanent.</p>
 
                     </main>
 

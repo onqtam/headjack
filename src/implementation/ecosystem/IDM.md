@@ -2,8 +2,24 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
+# DMs
 
-Identity managers can still be compromised and wreack havok, but this is annimprovement to the status quo
+How does one balance DMs across so many platforms?
+https://twitter.com/jonwu_/status/1524886818725847040
+
+- DMs without keys - how?
+    maybe rely on the identity providers - ACMs?
+    https://twitter.com/elonmusk/status/1519469891455234048
+    https://www.reddit.com/r/signal/comments/9k42k3/integrate_messaging_into_other_apps/
+    https://www.youtube.com/watch?v=DXv1boalsDI
+    https://www.youtube.com/watch?v=L2kuipP3lxk
+
+
+
+
+
+
+Identity managers can still be compromised and wreack havok, but this is an improvement to the status quo
 
 users should be able to point to their own personal ceramic stream instead of relying on interfaces
     they would need to post on-chain to timestamp their new activity for it to be sequenced & addressable with /user/nonce/...
@@ -17,9 +33,6 @@ the more you rely on IDMs for features and data storage, the less sovereign you 
 If an IDM does not let users bind keypairs then they will be boycotted
 
 IDMs never get access to your private key
-
-How does one balance DMs across so many platforms?
-https://twitter.com/jonwu_/status/1524886818725847040
 
 
 query IDMs directly for content by person X - polling mechanics like RSS
@@ -61,13 +74,6 @@ https://twitter.com/nadertheory/status/1480649481792024578
 sessions as a concept? expiration of delegation?
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4361.md
 https://eips.ethereum.org/EIPS/eip-4361
-
-- DMs without keys - how?
-    maybe rely on the identity providers - ACMs?
-    https://twitter.com/elonmusk/status/1519469891455234048
-    https://www.reddit.com/r/signal/comments/9k42k3/integrate_messaging_into_other_apps/
-    https://www.youtube.com/watch?v=DXv1boalsDI
-    https://www.youtube.com/watch?v=L2kuipP3lxk
 
 
 
