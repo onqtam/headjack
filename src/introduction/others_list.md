@@ -68,32 +68,15 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 
 ### [CyberConnect](https://cyberconnect.me/)
 
-- requires explicit key signatures
+- Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md) - requires the use of keypairs & wallets.
 
-"Each piece of user-centric data is represented as a data stream where updates are only allowed by the data owner."
-
-they don't have the concept of delegating the rights to interfaces/services to update connections & post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth & use email/pass & have recoverability
-
-
-- Every user has their own data stream - how would that scale to hundreds of millions or billions of people? Will the DHT & p2p layers handle that robustly with good latency?
-
-
-
+- Every user has their own data stream - how would that scale to hundreds of millions or billions of people? Will the DHT & p2p layers handle that robustly? Who is hosting the data?
 
 - The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.
 
     > "Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service." - [their docs](https://docs.cyberconnect.me/protocol/technical-framework/#storage)
 
-- It lacks the ability to anchor content & have it easily addressable & provable - sequencing events globally is underrated.
-
-
-- doesn't have ugly addresses
-
-https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m
-
-
-they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy
-
+- Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m).
 
 ### [Project Liberty](https://www.projectliberty.io/)
 

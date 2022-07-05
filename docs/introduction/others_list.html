@@ -238,13 +238,11 @@
 </ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <ul>
-<li>requires explicit key signatures</li>
-</ul>
-<p>&quot;Each piece of user-centric data is represented as a data stream where updates are only allowed by the data owner.&quot;</p>
-<p>they don't have the concept of delegating the rights to interfaces/services to update connections &amp; post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth &amp; use email/pass &amp; have recoverability</p>
-<ul>
 <li>
-<p>Every user has their own data stream - how would that scale to hundreds of millions or billions of people? Will the DHT &amp; p2p layers handle that robustly with good latency?</p>
+<p>Built on the <a href="https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md">Ceramic protocol</a> - requires the use of keypairs &amp; wallets.</p>
+</li>
+<li>
+<p>Every user has their own data stream - how would that scale to hundreds of millions or billions of people? Will the DHT &amp; p2p layers handle that robustly? Who is hosting the data?</p>
 </li>
 <li>
 <p>The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.</p>
@@ -253,14 +251,9 @@
 </blockquote>
 </li>
 <li>
-<p>It lacks the ability to anchor content &amp; have it easily addressable &amp; provable - sequencing events globally is underrated.</p>
-</li>
-<li>
-<p>doesn't have ugly addresses</p>
+<p>Addressability of content is full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes/pubkeys</a>.</p>
 </li>
 </ul>
-<p>https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m</p>
-<p>they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy</p>
 <h3 id="project-liberty"><a class="header" href="#project-liberty"><a href="https://www.projectliberty.io/">Project Liberty</a></a></h3>
 <ul>
 <li>it is at the right abstraction layer but there is not enough emphasis on compactness &amp; use of indexes</li>
