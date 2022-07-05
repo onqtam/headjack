@@ -14,3 +14,7 @@ git-repository-url = "https://github.com/onqtam/headjack"
 git-repository-icon = "fa-github"
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
+
+[output.html.fold]
+enable = true
+level = 0
