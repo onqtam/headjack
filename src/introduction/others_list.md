@@ -80,11 +80,12 @@ Good research and standards - but can it scale?
 problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts & linking them
 
 
+"Each piece of user-centric data is represented as a data stream where updates are only allowed by the data owner."
+
+
 
 https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
 My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?
-
-Sometimes a framework that imposes  is better than a library
 
 The upcoming Ceramic blockchain will not be the solution to that.
 
@@ -95,8 +96,6 @@ Also how big do you see the graph getting? My napkin math for Twitter's 400M use
 
 
 
-
-they are handling
 
 
 The persistence of the social graph is handled by pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.
