@@ -84,7 +84,7 @@ problems: relying on their ceramic pinning service for data persistence, require
 https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
 My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?
 
-
+Sometimes a framework that imposes  is better than a library
 
 The upcoming Ceramic blockchain will not be the solution to that.
 

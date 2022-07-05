@@ -15,10 +15,6 @@ https://twitter.com/jonwu_/status/1524886818725847040
     https://www.youtube.com/watch?v=L2kuipP3lxk
 
 
-
-
-
-
 Identity managers can still be compromised and wreack havok, but this is an improvement to the status quo
 
 users should be able to point to their own personal ceramic stream instead of relying on interfaces
