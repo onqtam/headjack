@@ -15,6 +15,8 @@
 
 - [Content addressing](../introduction/addressing.md) with human-readable & persistent URIs with provable authenticity.
 
+- Opinionated frameworks are much simpler than a sea of standards, libraries & chains.
+
 <div style="text-align: center;">
     <img src="../images/meme_one_does_not_simply.jpg">
 </div>
