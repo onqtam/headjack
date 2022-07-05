@@ -49,6 +49,9 @@ https://twitter.com/gluk64/status/1539953204900790272
 https://twitter.com/Swagtimus/status/1539621763121926144
 
 
+https://twitter.com/ZeMariaMacedo/status/1543601695048998918
+
+
 You go to rollups with your capital to transact and exchange - with Headjack you wont be able to take your state back with you to L1 because the entirety of headjack is the state
 
 Why not a rollup? There is nothing to steal - there will not be 100x times TVL more than the mcap of the protocol

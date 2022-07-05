@@ -33,3 +33,9 @@ There are multiple ways to retrieve blobs & content for specific URIs from the p
     - The analog of the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) in this ecosystem that also stores everything.
 
 Interface accounts can point on-chain to a traditional host which should be used to display content published through them. As you'll see in the next chapter interface names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly in your browser and as long as they own the same domain in the traditional [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) they should be able to serve a webpage displaying the specific piece of content.
+
+# On proof permanence
+
+Note that there can be many different & valid Merkle proofs for the same URI from different states of the blockchain at different block heights.
+
+However, one thing to consider is if a user revokes the authorization of an interface to post in his behalf retroactively - not just going forward but also invalidating all anchored content & follow/unfollow events for the last couple of days through that interface. This would mean that cached Merkle proofs for such invalidated content will no longer be valid and the latest state of the blockchain will refuse to produce new such proofs, but the cached proofs could mislead someone. Retroactive revocation can happen only up to `X` days to limit the scope of changes to cached proofs & what infrastructure would need to handle but still giving enough time for anyone to react in case an interface has posted fraudulent activity on their behalf - a **mostly theoretical concern**. Proofs for blocks older than `X` days are therefore considered permanent.

@@ -218,7 +218,7 @@
 <p>There are 3 types of roles in Headjack (although a single entity may play all 3):</p>
 <ul>
 <li>Normal accounts - represented by an integer ID on-chain - keypair association is optional.</li>
-<li><a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> - a superset of normal accounts - required to have a keypair - can manage other accounts by submitting changes for them (name handle, follow relationships, updating keypairs) &amp; acting as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> - authorizing interfaces to post on behalf of users (&amp; ability to revoke the authorization).</li>
+<li><a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> - a superset of normal accounts - required to have a keypair - can manage other accounts by submitting changes for them (name handle, follow relationships, updating keypairs) &amp; acting as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> - authorizing interfaces to post on behalf of users (&amp; ability to revoke the authorization). They will also be responsible for handling DMs as discussed <a href="introduction/../implementation/ecosystem/IDM.html#dms">here</a>.</li>
 <li>Interfaces - a superset of normal accounts - required to have a keypair - they are the media presentation layer. Users can authorize them through the use of an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a> to post on their behalf without having to explicitly sign every interaction (follow, post, comment, react).</li>
 </ul>
 <p>All follow relationships &amp; authorizations are represented &amp; submitted on-chain as simple integer pairs (<code>2131 =&gt; 83253, 6331 =&gt; 14415</code>) that get aggregated in compact blobs &amp; signed in bulk by <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> &amp; interfaces - achieving a very high signal-to-noise ratio (few signatures) ==&gt; improving the throughput in the valuable block space. Connections can be multidimensional with explicit filtering &amp; exclusion of content based on its type/tag or interface that it originates from - all of which will also be represented by integers.</p>
@@ -327,6 +327,9 @@
 </li>
 </ul>
 <p>Interface accounts can point on-chain to a traditional host which should be used to display content published through them. As you'll see in the next chapter interface names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly in your browser and as long as they own the same domain in the traditional <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> they should be able to serve a webpage displaying the specific piece of content.</p>
+<h1 id="on-proof-permanence"><a class="header" href="#on-proof-permanence">On proof permanence</a></h1>
+<p>Note that there can be many different &amp; valid Merkle proofs for the same URI from different states of the blockchain at different block heights.</p>
+<p>However, one thing to consider is if a user revokes the authorization of an interface to post in his behalf retroactively - not just going forward but also invalidating all anchored content &amp; follow/unfollow events for the last couple of days through that interface. This would mean that cached Merkle proofs for such invalidated content will no longer be valid and the latest state of the blockchain will refuse to produce new such proofs, but the cached proofs could mislead someone. Retroactive revocation can happen only up to <code>X</code> days to limit the scope of changes to cached proofs &amp; what infrastructure would need to handle but still giving enough time for anyone to react in case an interface has posted fraudulent activity on their behalf - a <strong>mostly theoretical concern</strong>. Proofs for blocks older than <code>X</code> days are therefore considered permanent.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="names--paths"><a class="header" href="#names--paths">Names &amp; paths</a></h1>
 <p>Headjack is also a name registry - accounts can own a handle and be identified with it. There have been other attempts to decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> such as <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> but a much stronger network effect is necessary in order to succeed. Headjack is a confluence of multiple interrelated things (identity, names, authorization, connections &amp; addressing) and has the potential to truly decentralize DNS. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to <a href="introduction/../implementation/handles.html">their dedicated page</a>.</p>
 <hr />
@@ -359,7 +362,7 @@
 <p>Most Web3 platforms <a href="https://twitter.com/hasufl/status/1537388439259291649">suffer from unreadable URIs</a> but we've done a lot better - note the brevity and lack of hashes &amp; hexadecimal symbols (<code>0xf56a0...</code>) - in fact, this is as good as it gets...</p>
 <p><strong>Or is it?!</strong> What about headlines of articles - can we have them included as well - something like <code>twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again</code>? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: <a href="https://stackoverflow.com/questions/4">question 4</a>) but the page router always changes the URL when loading the page to include the title too). <a href="introduction/../implementation/ecosystem/messages.html">Message types</a> for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming interfaces as it would be a trivial check.</p>
 <h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>
-<p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before.</p>
+<p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before. Even <a href="https://twitter.com/dwr/status/1544001073844731904">individual pages &amp; paragraphs of books</a> should be referencable in such a manner and could be composed of multiple separate posts - and this is just scratching the surface!</p>
 <p>For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
 <p>People grossly underestimate the size of the web and the type of infrastructure that's required - what is going on within a single minute of 2021 is <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html"><ins>truly mind-boggling</ins></a> (this is an incomplete picture).</p>
@@ -1081,6 +1084,7 @@ https://twitter.com/dYdX/status/1539607062291877889
 https://twitter.com/AntonioMJuliano/status/1539611195338006528
 https://twitter.com/gluk64/status/1539953204900790272
 https://twitter.com/Swagtimus/status/1539621763121926144</p>
+<p>https://twitter.com/ZeMariaMacedo/status/1543601695048998918</p>
 <p>You go to rollups with your capital to transact and exchange - with Headjack you wont be able to take your state back with you to L1 because the entirety of headjack is the state</p>
 <p>Why not a rollup? There is nothing to steal - there will not be 100x times TVL more than the mcap of the protocol</p>
 <p>The more I think about it, the less need I see to try to attach my chain to Ethereum - it will not benefit from financial liquidity &amp; interoperability since its focus is quite different and it will most likely require it's own token for PoS consensus</p>
@@ -1325,15 +1329,24 @@ https://decrypt.co/104319/ethereum-name-web3-cybersquatting</p>
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
-<p>Identity managers can still be compromised and wreack havok, but this is annimprovement to the status quo</p>
+<h1 id="dms"><a class="header" href="#dms">DMs</a></h1>
+<p>How does one balance DMs across so many platforms?
+https://twitter.com/jonwu_/status/1524886818725847040</p>
+<ul>
+<li>DMs without keys - how?
+maybe rely on the identity providers - ACMs?
+https://twitter.com/elonmusk/status/1519469891455234048
+https://www.reddit.com/r/signal/comments/9k42k3/integrate_messaging_into_other_apps/
+https://www.youtube.com/watch?v=DXv1boalsDI
+https://www.youtube.com/watch?v=L2kuipP3lxk</li>
+</ul>
+<p>Identity managers can still be compromised and wreack havok, but this is an improvement to the status quo</p>
 <p>users should be able to point to their own personal ceramic stream instead of relying on interfaces
 they would need to post on-chain to timestamp their new activity for it to be sequenced &amp; addressable with /user/nonce/...</p>
 <p>an IDM may also use a social recovery wallet instead of email as login - or just a normal wallet/keypair authorization</p>
 <p>the more you rely on IDMs for features and data storage, the less sovereign you are.</p>
 <p>If an IDM does not let users bind keypairs then they will be boycotted</p>
 <p>IDMs never get access to your private key</p>
-<p>How does one balance DMs across so many platforms?
-https://twitter.com/jonwu_/status/1524886818725847040</p>
 <p>query IDMs directly for content by person X - polling mechanics like RSS</p>
 <p>Permissions for different actions could be separated - for example requiring signatures for content while not requiring for updating follow connections.</p>
 <p>access control</p>
@@ -1359,14 +1372,6 @@ https://twitter.com/nadertheory/status/1480649481792024578</p>
 <p>sessions as a concept? expiration of delegation?
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4361.md
 https://eips.ethereum.org/EIPS/eip-4361</p>
-<ul>
-<li>DMs without keys - how?
-maybe rely on the identity providers - ACMs?
-https://twitter.com/elonmusk/status/1519469891455234048
-https://www.reddit.com/r/signal/comments/9k42k3/integrate_messaging_into_other_apps/
-https://www.youtube.com/watch?v=DXv1boalsDI
-https://www.youtube.com/watch?v=L2kuipP3lxk</li>
-</ul>
 <p>Merging IDs from multiple IDMs if created without keys</p>
 <p>These are <a href="implementation/ecosystem/accounts.html">accounts</a> that can grant the ability to interfaces to post on behalf of accounts that are under the control of the ACM in question.</p>
 <p>2 types of delegation: follow events and posting</p>
