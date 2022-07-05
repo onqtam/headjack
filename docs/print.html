@@ -192,7 +192,8 @@
 <div style="break-before: page; page-break-before: always;"></div><h1 id="guiding-principles"><a class="header" href="#guiding-principles">Guiding principles</a></h1>
 <p>There are 5 guiding principles when aiming for mass adoption &amp; parity on convenience &amp; UX with Web2 services:</p>
 <ul>
-<li>Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be <a href="introduction/../implementation/scaling.html">obvious &amp; provable</a> if entrepreneurs  are expected to jump on the opportunity. It should also provide the simplest mental model for developers in order to win.
+<li>
+<p>Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be <a href="introduction/../implementation/scaling.html">obvious &amp; provable</a> if entrepreneurs  are expected to jump on the opportunity. The easiest mental model will win over developers - opinionated frameworks with a concrete direction are much simpler than a sea of standards, libraries &amp; chains.</p>
 <ul>
 <li>
 <blockquote>
@@ -201,7 +202,8 @@
 </li>
 </ul>
 </li>
-<li>Must be simple and familiar - abstracting the complexity away. Users shouldn't have to manage keypairs on multiple devices &amp; explicitly sign every interaction - by default they'll be logging into identity managers (<a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a>) using email &amp; pass / <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> (<code>&quot;login with Google&quot;</code>) and would then be using these IDMs as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> to authorize interfaces to post on their behalf. RSS was <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> and it failed - <a href="https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>.
+<li>
+<p>Must be simple and familiar - abstracting the complexity away. Users shouldn't have to manage keypairs on multiple devices &amp; explicitly sign every interaction - by default they'll be logging into identity managers (<a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a>) using email &amp; pass / <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> (<code>&quot;login with Google&quot;</code>) and would then be using these IDMs as <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> to authorize interfaces to post on their behalf. RSS was <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> and it failed - <a href="https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>.</p>
 <ul>
 <li>
 <blockquote>
@@ -210,9 +212,15 @@
 </li>
 </ul>
 </li>
-<li>Users shouldn't have to think about and pay for the storage of their data &amp; blockchain interactions by default - costs &amp; complexity should be shifted to services.</li>
-<li>Users should be able to own their identity &amp; connections in a sovereign way with a keypair <strong>even if by default</strong> their activity is managed by something resembling a custodial service.</li>
-<li>Anyone should be able to have a pseudonymous identity, operate an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a> or serve media through an interface. Anyone must be able to publish &amp; broadcast through Headjack using their identity - <a href="introduction/../implementation/ecosystem/moderation.html">moderation &amp; censorship</a> will happen at the interface level.</li>
+<li>
+<p>Users shouldn't have to think about and pay for the storage of their data &amp; blockchain interactions by default - costs &amp; complexity should be shifted to services.</p>
+</li>
+<li>
+<p>Users should be able to own their identity &amp; connections in a sovereign way with a keypair <strong>even if by default</strong> their activity is managed by something resembling a custodial service.</p>
+</li>
+<li>
+<p>Anyone should be able to have a pseudonymous identity, operate an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a> or serve media through an interface. Anyone must be able to publish &amp; broadcast through Headjack using their identity - <a href="introduction/../implementation/ecosystem/moderation.html">moderation &amp; censorship</a> will happen at the interface level.</p>
+</li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="identity--authorization"><a class="header" href="#identity--authorization">Identity &amp; authorization</a></h1>
 <p>There are 3 types of roles in Headjack (although a single entity may play all 3):</p>
@@ -483,9 +491,6 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <li>
 <p><a href="introduction/../introduction/addressing.html">Content addressing</a> with human-readable &amp; persistent URIs with provable authenticity.</p>
 </li>
-<li>
-<p>Opinionated frameworks are much simpler than a sea of standards, libraries &amp; chains.</p>
-</li>
 </ul>
 <div style="text-align: center;">
     <img src="introduction/../images/meme_one_does_not_simply.jpg">
@@ -592,12 +597,11 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 <p>https://docs.cyberconnect.me/protocol/technical-framework/</p>
 <p>Good research and standards - but can it scale?</p>
 <p>problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts &amp; linking them</p>
+<p>&quot;Each piece of user-centric data is represented as a data stream where updates are only allowed by the data owner.&quot;</p>
 <p>https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
 My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?</p>
-<p>Sometimes a framework that imposes  is better than a library</p>
 <p>The upcoming Ceramic blockchain will not be the solution to that.</p>
 <p>Also how big do you see the graph getting? My napkin math for Twitter's 400M users and 700 average connections shows that if using simple 4 byte integers as IDs (no pubkeys/signatures/DIDs) would require 1.1TB of data for the most compact version of the graph (each ID would have an array of IDs that it follows) being able to answer queries like who does X follow and for queries like who follows X the data would need to be 2x bigger (another set of arrays). In reality it would be much more because of other metadata, keys, signatures, bigger integers (to support more than 4 billion indexes), database overhead, etc. Thoughts? </p>
-<p>they are handling</p>
 <p>The persistence of the social graph is handled by pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.</p>
 <p>https://docs.cyberconnect.me/protocol/technical-framework/#storage
 &quot;Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service.&quot;</p>
