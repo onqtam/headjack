@@ -7,6 +7,11 @@
 - protobuf for message types?
 
 
+Activity Streams formats?
+https://spec.dsnp.org/ActivityContent/Overview.html
+
+
+
 revisions of messages (edit/delete)
 https://github.com/regular/ssb-revisions
 

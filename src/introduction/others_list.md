@@ -82,6 +82,8 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - No [human-readable & persistent URIs](../introduction/addressing.md).
 
+Perhaps the closest competitor to Headjack as they are building their own chain too.
+
 ### [lens.xyz](https://lens.xyz/)
 
 - Keypairs & wallets required.
