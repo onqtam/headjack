@@ -46,7 +46,7 @@ Overall good intuition about the concept of [sufficient decentralization](https:
 
 ### [lens.xyz](https://lens.xyz/)
 
-- Deployed on Polygon - even it is not nearly scalable enough for even a few million usersof a social media. Also it is not sufficiently decentralized yet.
+- Deployed on Polygon - not nearly scalable enough for even a few million users of a social media. Also it is not sufficiently decentralized yet.
 
 - Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles & posts - a lot less optimal.
 
