@@ -548,7 +548,7 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
 <ul>
 <li>
-<p>Deployed on Polygon - even it is not nearly scalable enough for even a few million usersof a social media. Also it is not sufficiently decentralized yet.</p>
+<p>Deployed on Polygon - not nearly scalable enough for even a few million users of a social media. Also it is not sufficiently decentralized yet.</p>
 </li>
 <li>
 <p>Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles &amp; posts - a lot less optimal.</p>
@@ -627,7 +627,7 @@ My question in their discord: Hello! Your documentation says Long-term data rete
 <div style="break-before: page; page-break-before: always;"></div><h1 id="shortcomings-of-headjack"><a class="header" href="#shortcomings-of-headjack">Shortcomings of Headjack</a></h1>
 <ul>
 <li>
-<p>State growth - Headjack keeps a lot of the history in its materialized state as ranges for historic querying with provability - not just the &quot;current view&quot; which itself constantly grows. However, most of this will be compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. <a href="introduction/others_list.html#bluesky">Bluesky</a> similarly wants to be able to prove authenticity of old content and has a transparency log but it will be even bigger (not compact).</p>
+<p>State growth - Headjack keeps a lot of the history in its materialized state as ranges for historic querying &amp; to generate proofs - not just the &quot;current view&quot; which itself constantly grows. However, most of this is compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. <a href="introduction/others_list.html#bluesky">Bluesky</a> similarly wants to be able to prove authenticity of old content and has a transparency log but it will be much less compact.</p>
 </li>
 <li>
 <p>Private social graphs &amp; DMs require the use of <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> and that starts to resemble <a href="introduction/others_list.html#farcaster">Farcaster</a>'s managed hosts and <a href="introduction/others_list.html#bluesky">Bluesky</a>'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo. A big failure scenario is if an IDM that manages millions of accounts goes rogue or shuts down:</p>
