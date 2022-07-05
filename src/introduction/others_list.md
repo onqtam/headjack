@@ -32,7 +32,7 @@ Overall a solid effort and could work - some similarities to [Farcaster](#farcas
 Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564). The account registry is on a blockchain and everything else is off-chain.
 
 - Registry on Ethereum L1 - for new accounts, name/host changes & key management.
-    - No plans on moving to an L2 or their own chain. Also state rent could eventually be introduced to Ethereum which would lead to further costs & complexity.
+    - No plans on moving to an L2 or their own chain. Also, state rent could eventually be introduced to Ethereum which would lead to further costs & complexity.
 
 - Keypairs required - harder mass adoption.
 
@@ -46,7 +46,7 @@ Overall good intuition about the concept of [sufficient decentralization](https:
 
 ### [lens.xyz](https://lens.xyz/)
 
-- Deployed on Polygon - not nearly scalable enough for even a few million users of a social media. Also it is not sufficiently decentralized yet.
+- Deployed on Polygon - not nearly scalable enough for even a few million users of social media. Also, it is not sufficiently decentralized yet.
 
 - Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles & posts - a lot less optimal.
 
@@ -59,11 +59,11 @@ Overall good intuition about the concept of [sufficient decentralization](https:
 Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E), [announcement](https://twitter.com/namcios/status/1535302090360250368).
 
 - Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using [ION](https://github.com/decentralized-identity/ion) & the [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocol.
-    - 10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.
+    - 10-minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log in/authorize a service or revoke access quickly.
 
-- The ION DID network is [not incentivized](https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion) (just like IPFS) and the anchored content around key management, rotations & revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality & DA guarantees matter a lot when dealing with identity.
+- The ION DID network is [not incentivized](https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion) (just like IPFS) and the anchored content around key management, rotations & revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus - which is debatable - logical centralization, uptime, adequate finality & DA guarantees matter a lot when dealing with identity.
 
-- Doesn't have a human-readable global name registry - lacks in discoverability.
+- Doesn't have a human-readable global name registry - lacks discoverability.
 
 - Doesn't have readable content addressing.
 
@@ -73,55 +73,31 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 
 ### [CyberConnect](https://cyberconnect.me/)
 
-https://docs.cyberconnect.me/protocol/technical-framework/
-
-Good research and standards - but can it scale?
-
-problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts & linking them
-
+- requires explicit key signatures
 
 "Each piece of user-centric data is represented as a data stream where updates are only allowed by the data owner."
 
-
-
-https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
-My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?
-
-The upcoming Ceramic blockchain will not be the solution to that.
-
-
-
-
-Also how big do you see the graph getting? My napkin math for Twitter's 400M users and 700 average connections shows that if using simple 4 byte integers as IDs (no pubkeys/signatures/DIDs) would require 1.1TB of data for the most compact version of the graph (each ID would have an array of IDs that it follows) being able to answer queries like who does X follow and for queries like who follows X the data would need to be 2x bigger (another set of arrays). In reality it would be much more because of other metadata, keys, signatures, bigger integers (to support more than 4 billion indexes), database overhead, etc. Thoughts? 
-
-
-
-
-
-The persistence of the social graph is handled by pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.
-
-https://docs.cyberconnect.me/protocol/technical-framework/#storage
-"Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service."
-
 they don't have the concept of delegating the rights to interfaces/services to update connections & post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth & use email/pass & have recoverability
 
-they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy
+
+- Every user has their own data stream - how would that scale to hundreds of millions or billions of people? Will the DHT & p2p layers handle that robustly with good latency?
+
+
+
+
+- The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.
+
+    > "Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service." - [their docs](https://docs.cyberconnect.me/protocol/technical-framework/#storage)
 
 - It lacks the ability to anchor content & have it easily addressable & provable - sequencing events globally is underrated.
 
 
-
-
-https://twitter.com/BaptisteGreve/status/1537061840659922944
-
-ugly addresses
+- doesn't have ugly addresses
 
 https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m
 
 
-too many streams, batching 
-
-
+they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy
 
 
 ### [Project Liberty](https://www.projectliberty.io/)
@@ -135,7 +111,7 @@ Similar to "project liberty" founded in 2020 (paper - Decentralized Social Netwo
 
 ### [DeSo](https://www.deso.org/)
 
-It requires wallets & users pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html). It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has [flatlined](https://www.openprosper.com/stats/deso-dashboard). It did reach [1.66$ billion market cap](https://www.coingecko.com/en/coins/deso) on the 2nd of October 2021 shortly after being listed.
+It requires wallets & users to pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html). It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has [flatlined](https://www.openprosper.com/stats/deso-dashboard). It did reach [1.66$ billion market cap](https://www.coingecko.com/en/coins/deso) on the 2nd of October 2021 shortly after being listed.
 
 ### Others
 

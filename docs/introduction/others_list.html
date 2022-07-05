@@ -182,7 +182,7 @@
 <li>
 <p>Registry on Ethereum L1 - for new accounts, name/host changes &amp; key management.</p>
 <ul>
-<li>No plans on moving to an L2 or their own chain. Also state rent could eventually be introduced to Ethereum which would lead to further costs &amp; complexity.</li>
+<li>No plans on moving to an L2 or their own chain. Also, state rent could eventually be introduced to Ethereum which would lead to further costs &amp; complexity.</li>
 </ul>
 </li>
 <li>
@@ -202,7 +202,7 @@
 <h3 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h3>
 <ul>
 <li>
-<p>Deployed on Polygon - not nearly scalable enough for even a few million users of a social media. Also it is not sufficiently decentralized yet.</p>
+<p>Deployed on Polygon - not nearly scalable enough for even a few million users of social media. Also, it is not sufficiently decentralized yet.</p>
 </li>
 <li>
 <p>Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles &amp; posts - a lot less optimal.</p>
@@ -220,14 +220,14 @@
 <li>
 <p>Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using <a href="https://github.com/decentralized-identity/ion">ION</a> &amp; the <a href="https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58">Sidetree</a> protocol.</p>
 <ul>
-<li>10 minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log-in/authorize a service or revoke access quickly.</li>
+<li>10-minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log in/authorize a service or revoke access quickly.</li>
 </ul>
 </li>
 <li>
-<p>The ION DID network is <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">not incentivized</a> (just like IPFS) and the anchored content around key management, rotations &amp; revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus which is debatable - logical centralization, uptime, adequate finality &amp; DA guarantees matter a lot when dealing with identity.</p>
+<p>The ION DID network is <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">not incentivized</a> (just like IPFS) and the anchored content around key management, rotations &amp; revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus - which is debatable - logical centralization, uptime, adequate finality &amp; DA guarantees matter a lot when dealing with identity.</p>
 </li>
 <li>
-<p>Doesn't have a human-readable global name registry - lacks in discoverability.</p>
+<p>Doesn't have a human-readable global name registry - lacks discoverability.</p>
 </li>
 <li>
 <p>Doesn't have readable content addressing.</p>
@@ -240,26 +240,30 @@
 </li>
 </ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
-<p>https://docs.cyberconnect.me/protocol/technical-framework/</p>
-<p>Good research and standards - but can it scale?</p>
-<p>problems: relying on their ceramic pinning service for data persistence, requires explicit key signatures, focus on financial accounts &amp; linking them</p>
-<p>&quot;Each piece of user-centric data is represented as a data stream where updates are only allowed by the data owner.&quot;</p>
-<p>https://discord.com/channels/901233976138682388/901234959623286825/959420114472669235
-My question in their discord: Hello! Your documentation says Long-term data retention is guaranteed through Ceramic’s blockchain anchoring and our custom data pinning service. and I was wondering what would the long-term incentive for the pinning service be, and if the DAO token you'll be launching soon will be tied to the economic incentive for nodes to store the ever-expanding graph?</p>
-<p>The upcoming Ceramic blockchain will not be the solution to that.</p>
-<p>Also how big do you see the graph getting? My napkin math for Twitter's 400M users and 700 average connections shows that if using simple 4 byte integers as IDs (no pubkeys/signatures/DIDs) would require 1.1TB of data for the most compact version of the graph (each ID would have an array of IDs that it follows) being able to answer queries like who does X follow and for queries like who follows X the data would need to be 2x bigger (another set of arrays). In reality it would be much more because of other metadata, keys, signatures, bigger integers (to support more than 4 billion indexes), database overhead, etc. Thoughts? </p>
-<p>The persistence of the social graph is handled by pinning IPFS data on nodes of their own and that's swept under the rug - they don't provide any crypto economic incentive for the data availability and it will grow into the tens of terabytes for web scale (especially because they don't have a compact integer-based representation and everything is based on big individually signed actions). I don't see a way to handle that besides having their own chain and am not sure what I'd do if I was them.</p>
-<p>https://docs.cyberconnect.me/protocol/technical-framework/#storage
-&quot;Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service.&quot;</p>
-<p>they don't have the concept of delegating the rights to interfaces/services to update connections &amp; post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth &amp; use email/pass &amp; have recoverability</p>
-<p>they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy</p>
 <ul>
-<li>It lacks the ability to anchor content &amp; have it easily addressable &amp; provable - sequencing events globally is underrated.</li>
+<li>requires explicit key signatures</li>
 </ul>
-<p>https://twitter.com/BaptisteGreve/status/1537061840659922944</p>
-<p>ugly addresses</p>
+<p>&quot;Each piece of user-centric data is represented as a data stream where updates are only allowed by the data owner.&quot;</p>
+<p>they don't have the concept of delegating the rights to interfaces/services to update connections &amp; post content on behalf of users - forcing everyone to always use keypairs so no ability to sign in with something like OAuth &amp; use email/pass &amp; have recoverability</p>
+<ul>
+<li>
+<p>Every user has their own data stream - how would that scale to hundreds of millions or billions of people? Will the DHT &amp; p2p layers handle that robustly with good latency?</p>
+</li>
+<li>
+<p>The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.</p>
+<blockquote>
+<p>&quot;Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service.&quot; - <a href="https://docs.cyberconnect.me/protocol/technical-framework/#storage">their docs</a></p>
+</blockquote>
+</li>
+<li>
+<p>It lacks the ability to anchor content &amp; have it easily addressable &amp; provable - sequencing events globally is underrated.</p>
+</li>
+<li>
+<p>doesn't have ugly addresses</p>
+</li>
+</ul>
 <p>https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m</p>
-<p>too many streams, batching </p>
+<p>they tie the identity to financial eth addresses (eth/sol/etc.) by default and that's a bad default for privacy</p>
 <h3 id="project-liberty"><a class="header" href="#project-liberty"><a href="https://www.projectliberty.io/">Project Liberty</a></a></h3>
 <ul>
 <li>it is at the right abstraction layer but there is not enough emphasis on compactness &amp; use of indexes</li>
@@ -271,7 +275,7 @@ My question in their discord: Hello! Your documentation says Long-term data rete
 <li>Not the right team - 100m$ dumped by a billionaire, very little activity</li>
 </ul>
 <h3 id="deso"><a class="header" href="#deso"><a href="https://www.deso.org/">DeSo</a></a></h3>
-<p>It requires wallets &amp; users pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks &amp; sharding (see <a href="https://docs.deso.org/about-deso-chain/readme">&quot;Phase 4: Sharding&quot;</a>) which is simply not practical for the <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html">true scale of the public web</a>. It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has <a href="https://www.openprosper.com/stats/deso-dashboard">flatlined</a>. It did reach <a href="https://www.coingecko.com/en/coins/deso">1.66$ billion market cap</a> on the 2nd of October 2021 shortly after being listed.</p>
+<p>It requires wallets &amp; users to pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks &amp; sharding (see <a href="https://docs.deso.org/about-deso-chain/readme">&quot;Phase 4: Sharding&quot;</a>) which is simply not practical for the <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html">true scale of the public web</a>. It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has <a href="https://www.openprosper.com/stats/deso-dashboard">flatlined</a>. It did reach <a href="https://www.coingecko.com/en/coins/deso">1.66$ billion market cap</a> on the 2nd of October 2021 shortly after being listed.</p>
 <h3 id="others"><a class="header" href="#others">Others</a></h3>
 <p>For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid &amp; others please refer to the excellent <a href="https://twitter.com/bluesky/status/1352302821140549632">ecosystem review</a> by the Bluesky project. Other good resources include:</p>
 <ul>
