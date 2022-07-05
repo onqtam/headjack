@@ -2,7 +2,7 @@
 
 There are 5 guiding principles when aiming for mass adoption & parity on convenience & UX with Web2 services:
 
-- Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be [obvious & provable](../implementation/scaling.md) if entrepreneurs  are expected to jump on the opportunity. The easiest mental model will win over developers - opinionated frameworks with a concrete direction are much simpler than a sea of standards, libraries & chains.
+- Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be [obvious & provable](../implementation/scaling.md) if entrepreneurs are expected to jump on the opportunity. The easiest mental model will win over developers - opinionated frameworks with a concrete direction are much simpler than a sea of standards, libraries & chains.
 
     - >"Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
@@ -10,6 +10,8 @@ There are 5 guiding principles when aiming for mass adoption & parity on conveni
 
     - > "With consumer products, simple and “wrong” beats complicated and “right.”" - [@naval](https://twitter.com/naval/status/1542651322532384768)
 
+<img src="../images/meme_make_them_learn.png" align="right" style="margin-left: 8px; width: 30%">
+
 - Users shouldn't have to think about and pay for the storage of their data & blockchain interactions by default - costs & complexity should be shifted to services.
 - Users should be able to own their identity & connections in a sovereign way with a keypair **even if by default** their activity is managed by something resembling a custodial service.
-- Anyone should be able to have a pseudonymous identity, operate an [IDM](../implementation/ecosystem/IDM.md) or serve media through an interface. Anyone must be able to publish & broadcast through Headjack using their identity - [moderation & censorship](../implementation/ecosystem/moderation.md) will happen at the interface level.
+- Anyone should be able to have a pseudonymous identity, operate an [IDM](../implementation/ecosystem/IDM.md), or serve media through an interface. Anyone must be able to publish & broadcast through Headjack using their identity - [moderation & censorship](../implementation/ecosystem/moderation.md) will happen at the interface level.
