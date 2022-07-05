@@ -29,25 +29,15 @@ Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Far
 - Registry on Ethereum L1 - for new accounts, name/host changes & key management.
     - No plans on moving to an L2 or their own chain. Also, state rent could eventually be introduced to Ethereum which would lead to further costs & complexity.
 
-- Keypairs required - harder mass adoption.
+- Keypairs & wallets required - harder mass adoption.
 
-- Cast timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old casts that were signed with obsolete keypairs and how the history of keys is handled.
+<!-- - Cast timestamps are self-reported and can be manipulated - no true cryptographic total ordering - which leads to a lot of complexity in the node software. Not sure what happens to old casts that were signed with obsolete keypairs and how the history of keys is handled. -->
 
-- The p2p network's ability to truly scale by passing around granular casts is very questionable - they are already discussing possible flooding and node implementations might have to shadow ban and flag accounts based on behavior. The scalable way would be to directly poll accounts & their hosts for new events.
+- The p2p network's ability to truly scale by passing around granular casts is questionable - they are already discussing possible flooding and nodes having to shadow ban and flag accounts based on behavior. Directly polling accounts & their hosts for new events is more scalable.
 
 - [Cast URIs](https://farcasterxyz.notion.site/URI-s-f2191d741a9143f98d648fa449ad588f) will look something like `farcaster://alice/cast:0xf00b4r/42` which is less readable than what Headjack will be offering with [its addressing](../introduction/addressing.md).
 
 Overall good intuition about the concept of [sufficient decentralization](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much responsibility & complexity and is lacking in other areas.
-
-### [lens.xyz](https://lens.xyz/)
-
-- Deployed on Polygon - not nearly scalable enough for even a few million users of social media. Also, it is not sufficiently decentralized yet.
-
-- Even if they eventually move to their own chain it will have to be EVM-compatible because of their current smart contracts and functionality around profiles & posts - a lot less optimal.
-
-- Keypairs & wallets required. `TODO: revisit this + their kind of authentication`
-
-- They store even the content on-chain instead of just the accounts. This cannot scale globally for all use cases.
 
 ### [TBD](https://www.tbd.website/)
 
@@ -60,36 +50,55 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 
 - Doesn't have a human-readable global name registry - lacks discoverability.
 
-- Doesn't have readable content addressing.
+- Doesn't have human-readable content addressing.
 
-- Focus is on users storing their own data (self-hosting), running software locally & handling keypairs.
+- Focus is on users self-hosting their own data, running software locally & handling keypairs.
 
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](../introduction/web_scale.md) on such a granular level and aggregation is not even in the picture.
 
 ### [CyberConnect](https://cyberconnect.me/)
 
-- Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md) - requires the use of keypairs & wallets.
+Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md).
 
-- Every user has their own data stream - how would that scale to hundreds of millions or billions of people? Will the DHT & p2p layers handle that robustly? Who is hosting the data?
+- Requires the use of keypairs & wallets.
+
+- Every user has their own Ceramic data stream on top of IPFS - it is yet to be proven that the DHT & p2p layers can scale to hundreds of millions or billions of people.
 
 - The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.
 
     > "Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service." - [their docs](https://docs.cyberconnect.me/protocol/technical-framework/#storage)
 
-- Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m).
+- Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m) - not human-readable.
 
 ### [Project Liberty](https://www.projectliberty.io/)
 
-- it is at the right abstraction layer but there is not enough emphasis on compactness & use of indexes
+> "It gives developers low-cost, low-volatility access to continually replenishing capacity to build predictable, sustainable business models." - [the Frequency blockchain](https://web.archive.org/web/20220629170813/https://www.frequency.xyz/)
 
-Similar to "project liberty" founded in 2020 (paper - Decentralized Social Networking Protocol)
-- Not enough emphasis on compactness & use of indexes
-- Using smart contracts for identities - opinionated & slow
-- Not the right team - 100m$ dumped by a billionaire, very little activity
+- 100m$ of funding from a single billionaire 2 years ago.
+
+- Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale.
+
+- Keypairs & wallets required.
+
+- No [human-readable & persistent URIs](../introduction/addressing.md).
+
+### [lens.xyz](https://lens.xyz/)
+
+- Keypairs & wallets required.
+
+- Even the content is stored on-chain instead of just the accounts. This cannot scale even to a few million users with any real usage despite being on Polygon. Even if they move to their own chain it will have to be EVM-compatible because of their smart contracts - suboptimal.
+
+- Hashes & pubkeys in content addressing - no [human-readable & persistent URIs](../introduction/addressing.md).
 
 ### [DeSo](https://www.deso.org/)
 
-It requires wallets & users to pay for every interaction. It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html). It financializes as much as possible (creator coins, etc.). Their initial growth was fueled by huge sums of VC money but by now it has [flatlined](https://www.openprosper.com/stats/deso-dashboard). It did reach [1.66$ billion market cap](https://www.coingecko.com/en/coins/deso) on the 2nd of October 2021 shortly after being listed.
+- It requires wallets & users to pay for every interaction.
+
+- It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html).
+
+- It financializes as much as possible (creator coins, etc.).
+
+- Their initial growth was fueled by huge sums of VC money but by now it has [flatlined](https://www.openprosper.com/stats/deso-dashboard). It did reach [1.66$ billion market cap](https://www.coingecko.com/en/coins/deso) on the 2nd of October 2021 shortly after being listed.
 
 ### Others
 
