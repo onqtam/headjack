@@ -28,4 +28,6 @@ But the vision would be incomplete without the subsequent [**why**](motivation/w
     <img src="images/logo.png">
 </div>
 
-Inspired by the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans [in the Matrix](https://www.youtube.com/watch?v=DoUQhYDz-Ys).
+Inspired by the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans in the Matrix.
+
+<!-- https://www.youtube.com/watch?v=DoUQhYDz-Ys -->

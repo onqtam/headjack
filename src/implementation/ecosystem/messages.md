@@ -2,9 +2,15 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
+
+https://spec.dsnp.org/DSNP/Announcements.html
+
+
 - fallback/default presentation/rendering - how to display content if an interface doesn't support a new activity type
 
 - protobuf for message types?
+- apache thrift? https://thrift.apache.org/
+
 
 
 Activity Streams formats?
@@ -31,6 +37,9 @@ https://signal.org/blog/the-ecosystem-is-moving/
 message type/format: price predictions with percentage possibilities, so that later reputations can be plotted based on the message type
 
 tag type idea: prediction, and later with oracles credibility & track records could be automated
+
+tombstone message
+https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 subreddits would be implemented by a special message type with a tag for the subreddit that people are posting into
 

@@ -120,6 +120,8 @@ https://www.reddit.com/r/siacoin/comments/lg9qr0/what_is_skynet_why_should_i_bui
 https://www.reddit.com/r/ipfs/comments/jf073z/filecoin_isnt_an_incentivization_network_for_ipfs/
 
 
+TODO: think about credentials and all that's going on around them...
+
 
 TODO: read & think about permissions, sub-app/domain authorization, private data, "Data Access Controllers", "data domain"
 https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
@@ -178,3 +180,9 @@ In the spirit of [Rule 34](https://en.wikipedia.org/wiki/Rule_34): `"if somethin
 https://vitalik.ca/general/2022/06/12/nonfin.html
 But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
 https://www.opencerts.io/
+
+
+TODO: think about if retroactive revocation is good or just complicates things. Other projects explicitly don't allow it - instead they use tombstones (specific messages) to signal that content was not authorized. What about changes to user's interest graph though?
+https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
+
+

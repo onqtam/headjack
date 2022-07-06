@@ -56,6 +56,42 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](../introduction/web_scale.md) on such a granular level and aggregation is not even in the picture.
 
+### [Project Liberty](https://www.projectliberty.io/)
+
+One of the few solutions with their [own chain](https://www.frequency.xyz/) in the space that makes sense. Their work (the [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability and content addressability. This idea is too important to leave to a single player without competition.
+
+
+
+
+- [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) (so far) from just 1 person - [Frank McCourt](https://www.youtube.com/watch?v=xgPZnOulBCE).
+
+
+
+<!-- 
+- Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale. -->
+
+- Keypairs & wallets required.
+
+- broadcast announcements refer to the content with a URL & HTTP - [host-centric](https://spec.dsnp.org/DSNP/Types/Reply.html#url), not in the blob, worse hosting guarantees
+    - also profile related stuff - https://spec.dsnp.org/DSNP/Types/Profile.html#url
+
+- big reliance on hashes for announcement addressing
+
+
+<!-- 
+- They haven't managed to form a real community yet (although it is still early) and haven't moved as fast as others in the crypto industry for the past 2 years since their inception. -->
+
+
+
+- No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes and there's no connection to the batch / service that published it which makes indexing harder - [example](https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri). So addressing content is much worse compared to Headjack's [human-readable & persistent URIs](../introduction/addressing.md).
+
+
+
+
+
+
+
+
 ### [CyberConnect](https://cyberconnect.me/)
 
 Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md).
@@ -69,20 +105,6 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
     > "Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service." - [their docs](https://docs.cyberconnect.me/protocol/technical-framework/#storage)
 
 - Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m) - not human-readable.
-
-### [Project Liberty](https://www.projectliberty.io/)
-
-> "It gives developers low-cost, low-volatility access to continually replenishing capacity to build predictable, sustainable business models." - [the Frequency blockchain](https://web.archive.org/web/20220629170813/https://www.frequency.xyz/)
-
-- [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) from a single billionaire.
-
-- Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale.
-
-- Keypairs & wallets required.
-
-- No [human-readable & persistent URIs](../introduction/addressing.md).
-
-Perhaps the closest competitor to Headjack as they are building their own chain too.
 
 ### [lens.xyz](https://lens.xyz/)
 
