@@ -13,6 +13,16 @@ What if IDMs need to stake?
 
 
 spam protection: lock tokens to submit data
+    DSNP has economics around batch sizes to reduce spam
+
+    https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-delegation/216#spam-1
+
+    https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-delegation/216#what-to-charge-the-announcer-7
+
+
+
+
+
 
 The limits of paying for blockspace - alternative forms of value accrual for tokens where the inelasticity of blockspace is a deal breaker
 

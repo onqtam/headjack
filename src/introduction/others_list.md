@@ -58,6 +58,10 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 
 ### [Project Liberty](https://www.projectliberty.io/)
 
+<div style="text-align: center;">
+    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
+</div>
+
 One of the few solutions with their [own chain](https://www.frequency.xyz/) in the space that makes sense. Their work (the [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability and content addressability. This idea is too important to leave to a single player without competition.
 
 
@@ -74,6 +78,8 @@ One of the few solutions with their [own chain](https://www.frequency.xyz/) in t
 
 - broadcast announcements refer to the content with a URL & HTTP - [host-centric](https://spec.dsnp.org/DSNP/Types/Reply.html#url), not in the blob, worse hosting guarantees
     - also profile related stuff - https://spec.dsnp.org/DSNP/Types/Profile.html#url
+    - not really - IPFS possible too:
+        https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-delegation/216#where-to-get-the-batch-file-5
 
 - big reliance on hashes for announcement addressing
 
