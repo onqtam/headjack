@@ -21,6 +21,7 @@ spam protection: lock tokens to submit data
 
 
 
+https://forums.projectliberty.io/t/05-what-is-capacity-frequency-economics-part-1/248
 
 
 
