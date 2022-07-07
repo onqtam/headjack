@@ -227,13 +227,24 @@
 </div>
 <p>One of the few solutions with their <a href="https://www.frequency.xyz/">own chain</a> in the space that makes sense. Their work (the <a href="https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf">DSNP whitepaper</a>) has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability and content addressability. This idea is too important to leave to a single player without competition.</p>
 <ul>
-<li><a href="https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt">100m$ of funding</a> (so far) from just 1 person - <a href="https://www.youtube.com/watch?v=xgPZnOulBCE">Frank McCourt</a>.</li>
+<li>
+<p><a href="https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt">100m$ of funding</a> (so far) from just 1 person - <a href="https://www.youtube.com/watch?v=xgPZnOulBCE">Frank McCourt</a>.</p>
+</li>
+<li>
+<p>Good research, good direction, but slow execution.</p>
+</li>
 </ul>
 <!-- 
 - Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale. -->
 <ul>
 <li>
-<p>Keypairs &amp; wallets required.</p>
+<p>Keypairs required even for delegated entities (although that can be reworked)
+https://spec.dsnp.org/DSNP/Identity#delegation
+if delegation also happens through keys then they would also have to go into the blockchain state - making it much bigger. In Headjack an authorized interface is simply a few on-chain integers kept in the state (block ranges &amp; account IDs) - no need to keep block ranges for delegated keys.
+https://forums.projectliberty.io/t/shorts-one-public-key-is-not-enough/215/3
+1 key per device? bloat. inefficient.
+&quot;Thus, we can only trust one thing: The actor signing this data had access to the private key.&quot;
+all data is expected to be signed with a key - suboptimal.</p>
 </li>
 <li>
 <p>broadcast announcements refer to the content with a URL &amp; HTTP - <a href="https://spec.dsnp.org/DSNP/Types/Reply.html#url">host-centric</a>, not in the blob, worse hosting guarantees</p>

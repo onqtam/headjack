@@ -585,13 +585,24 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 </div>
 <p>One of the few solutions with their <a href="https://www.frequency.xyz/">own chain</a> in the space that makes sense. Their work (the <a href="https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf">DSNP whitepaper</a>) has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability and content addressability. This idea is too important to leave to a single player without competition.</p>
 <ul>
-<li><a href="https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt">100m$ of funding</a> (so far) from just 1 person - <a href="https://www.youtube.com/watch?v=xgPZnOulBCE">Frank McCourt</a>.</li>
+<li>
+<p><a href="https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt">100m$ of funding</a> (so far) from just 1 person - <a href="https://www.youtube.com/watch?v=xgPZnOulBCE">Frank McCourt</a>.</p>
+</li>
+<li>
+<p>Good research, good direction, but slow execution.</p>
+</li>
 </ul>
 <!-- 
 - Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale. -->
 <ul>
 <li>
-<p>Keypairs &amp; wallets required.</p>
+<p>Keypairs required even for delegated entities (although that can be reworked)
+https://spec.dsnp.org/DSNP/Identity#delegation
+if delegation also happens through keys then they would also have to go into the blockchain state - making it much bigger. In Headjack an authorized interface is simply a few on-chain integers kept in the state (block ranges &amp; account IDs) - no need to keep block ranges for delegated keys.
+https://forums.projectliberty.io/t/shorts-one-public-key-is-not-enough/215/3
+1 key per device? bloat. inefficient.
+&quot;Thus, we can only trust one thing: The actor signing this data had access to the private key.&quot;
+all data is expected to be signed with a key - suboptimal.</p>
 </li>
 <li>
 <p>broadcast announcements refer to the content with a URL &amp; HTTP - <a href="https://spec.dsnp.org/DSNP/Types/Reply.html#url">host-centric</a>, not in the blob, worse hosting guarantees</p>
@@ -1314,6 +1325,7 @@ DSNP has economics around batch sizes to reduce spam</p>
 
 https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-delegation/216#what-to-charge-the-announcer-7
 </code></pre>
+<p>https://forums.projectliberty.io/t/05-what-is-capacity-frequency-economics-part-1/248</p>
 <p>The limits of paying for blockspace - alternative forms of value accrual for tokens where the inelasticity of blockspace is a deal breaker</p>
 <p>blockspace revenue is insufficient - forms of staking and ownership of the network are necessary to drive value to the token</p>
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
@@ -1340,6 +1352,8 @@ entire accounts can be also sold with the transition to a new keypair</p>
 <p>Names must be between 1 and 16 characters and can only be made of letters (a-z), numbers(0-9) and underscores (_).
 ^[a-zA-Z0-9-]{1,16}$
 https://en.wikipedia.org/wiki/IDN_homograph_attack</p>
+<p>UTF-8 support for handles opens handle users up to homograph attacks, not to mention case-sensitivity issues. This issue is of ongoing discussion both for the DSNP as well as in for ICANN domain names and other projects working with internationalization support.
+https://spec.dsnp.org/Ethereum/Registry.html#homograph-attack-mitigation</p>
 <p><strong>Register</strong> 
 Users acquire a name by making two transactions — the first is to commit a secret hash of the username, and the second is to reveal the secret and claim the username to the address. During the reveal phase it also:</p>
 <p>commit-reveal scheme prevents frontrunning</p>
@@ -1370,8 +1384,6 @@ https://blog.sia.tech/handshake-retrospective-after-the-first-year-c197e49749c9
 &quot;Proposed Improvements to the Domain Buying Process&quot;</p>
 <p>Web3 Leads to Cybersquatting 2.0: Here's What Brands Can Do
 https://decrypt.co/104319/ethereum-name-web3-cybersquatting</p>
-<p>UTF-8 support for handles opens handle users up to homograph attacks, not to mention case-sensitivity issues. This issue is of ongoing discussion both for the DSNP as well as in for ICANN domain names and other projects working with internationalization support.
-https://spec.dsnp.org/Ethereum/Registry.html#homograph-attack-mitigation</p>
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>

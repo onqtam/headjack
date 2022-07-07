@@ -24,6 +24,8 @@ Browsers: different views on content?
 TODO: browser in the driver/filesystem/OS analogy?
 
 
+TODO: per device key revocation - or should IDMs & interfaces be able to track which devices are logged in and they should handle such revocation - as in the traditional Web2?
+
 
 TODO: do the math on how big the state would be with 1k interfaces and 1 million blocks, nonces & whatnot
     state growth is a concern even if it's simple integers

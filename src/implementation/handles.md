@@ -30,6 +30,10 @@ Names must be between 1 and 16 characters and can only be made of letters (a-z),
 ^[a-zA-Z0-9-]{1,16}$
 https://en.wikipedia.org/wiki/IDN_homograph_attack
 
+UTF-8 support for handles opens handle users up to homograph attacks, not to mention case-sensitivity issues. This issue is of ongoing discussion both for the DSNP as well as in for ICANN domain names and other projects working with internationalization support.
+https://spec.dsnp.org/Ethereum/Registry.html#homograph-attack-mitigation
+
+
 **Register** 
 Users acquire a name by making two transactions — the first is to commit a secret hash of the username, and the second is to reveal the secret and claim the username to the address. During the reveal phase it also:
 
@@ -71,8 +75,3 @@ https://blog.sia.tech/handshake-retrospective-after-the-first-year-c197e49749c9
 
 Web3 Leads to Cybersquatting 2.0: Here's What Brands Can Do
 https://decrypt.co/104319/ethereum-name-web3-cybersquatting
-
-
-
-UTF-8 support for handles opens handle users up to homograph attacks, not to mention case-sensitivity issues. This issue is of ongoing discussion both for the DSNP as well as in for ICANN domain names and other projects working with internationalization support.
-https://spec.dsnp.org/Ethereum/Registry.html#homograph-attack-mitigation

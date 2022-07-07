@@ -69,12 +69,20 @@ One of the few solutions with their [own chain](https://www.frequency.xyz/) in t
 
 - [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) (so far) from just 1 person - [Frank McCourt](https://www.youtube.com/watch?v=xgPZnOulBCE).
 
+- Good research, good direction, but slow execution.
 
 
 <!-- 
 - Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale. -->
 
-- Keypairs & wallets required.
+- Keypairs required even for delegated entities (although that can be reworked)
+    https://spec.dsnp.org/DSNP/Identity#delegation
+    if delegation also happens through keys then they would also have to go into the blockchain state - making it much bigger. In Headjack an authorized interface is simply a few on-chain integers kept in the state (block ranges & account IDs) - no need to keep block ranges for delegated keys.
+    https://forums.projectliberty.io/t/shorts-one-public-key-is-not-enough/215/3
+    1 key per device? bloat. inefficient.
+    "Thus, we can only trust one thing: The actor signing this data had access to the private key."
+    all data is expected to be signed with a key - suboptimal.
+
 
 - broadcast announcements refer to the content with a URL & HTTP - [host-centric](https://spec.dsnp.org/DSNP/Types/Reply.html#url), not in the blob, worse hosting guarantees
     - also profile related stuff - https://spec.dsnp.org/DSNP/Types/Profile.html#url

@@ -1,4 +1,7 @@
 
+Headjack - trademark is free!
+https://uspto.report/TM/85455962
+
 namespace
 
 sequencer
