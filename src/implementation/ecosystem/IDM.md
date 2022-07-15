@@ -93,6 +93,7 @@ TODO: problem: what happens if an ACM with control of millions of accounts stops
     https://ethresear.ch/t/2105
     https://ethresear.ch/t/pragmatic-signature-aggregation-with-bls/2105
     https://ethresear.ch/t/5427
+    https://our.status.im/fastest-bls-signature-implementation/
     OR use some ZK magic
 
 

@@ -24,6 +24,8 @@ https://www.alexbeckett.xyz/decentralized-sequencers-where-do-we-go-next/
 
 https://www.alexbeckett.xyz/stateless-rollups/
 
+https://twitter.com/musalbas/status/1545060322842533890
+
 https://twitter.com/apruden08/status/1542189323906326528
 https://www.youtube.com/watch?v=oc8M1-pNuXk
 https://twitter.com/bkiepuszewski/status/1540793333295075329
@@ -40,13 +42,6 @@ https://eth.wiki/sharding/Sharding-FAQs
 
 The theoretical ideal stack to build on would be
 https://twitter.com/lukedelphi/status/1539192716915007490
-
-
-on DYDX as a standalone blockchain on Cosmos SDK
-https://twitter.com/dYdX/status/1539607062291877889
-https://twitter.com/AntonioMJuliano/status/1539611195338006528
-https://twitter.com/gluk64/status/1539953204900790272
-https://twitter.com/Swagtimus/status/1539621763121926144
 
 
 https://twitter.com/ZeMariaMacedo/status/1543601695048998918

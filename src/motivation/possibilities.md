@@ -140,11 +140,22 @@ https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-cont
 you can't link to a youtube comment - think about how limiting and yet obvious that is - comments there are just an afterthought
 
 
+the world dashboard
+https://twitter.com/balajis/status/1442863553497554944
+
+
+
+on books:
+https://twitter.com/FEhrsam/status/1304217384962592769
+
 
 - universal & permanent bookmarks.
 bookmarks & something like logseq on top of this global namespace
 
 playlists are lists of bookmarks
+
+muted keywords & preferences
+https://twitter.com/AltcoinPsycho/status/1547203030185017344
 
 
 we could have one identity, one set of bookmarks that we manage with something like logseq and we can export stories of deduplicated data points and see the conversations around them.

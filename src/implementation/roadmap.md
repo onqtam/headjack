@@ -59,6 +59,11 @@ TODO: this goes in the growth strat!
 need community & product
 https://www.shawkisukkar.com/2022/farcaster
 
+the struggle is real:
+https://twitter.com/liron/status/1547086502416490496
+https://twitter.com/liron/status/1547223721705881602
+https://twitter.com/liron/status/1547247351508656130
+https://twitter.com/liron/status/1547086507147776001
 
 
 

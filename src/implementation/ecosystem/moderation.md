@@ -104,3 +104,5 @@ https://github.com/bluesky-social/adx/blob/main/architecture.md#moderation
 
 https://arxiv.org/abs/2109.13046
 
+https://twitter.com/Snowden/status/1545728037341171713
+

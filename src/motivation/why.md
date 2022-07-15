@@ -146,7 +146,8 @@ https://en.wikipedia.org/wiki/Ground_truth
 imagine the timelines & graphs we'd be able to construct if we have a global sequencer
 
 
-
+JBP: Why Twitter Is Insane
+https://www.youtube.com/watch?v=Yg0qlnh5I38
 
 
 
@@ -297,3 +298,76 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 
 
 This is an explicit interest graph where each new connection is a conscious choice by users - as opposed to how a recommendation algorithm learns your preferences and profiles your interests (best example: TikTok).
+
+
+
+Yes we all enjoy viral cat videos and whatnot but don’t show it to us without asking or at least let us turn such recommendations off.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The aggregate sentiment on twitter’s backend is analogous to a liquidity order book - we should want to see the Overton window.
+We could have a completely different understanding of society, history, and politics.
+https://youtu.be/FV5SqIm5e90?t=883
+https://www.youtube.com/watch?v=FV5SqIm5e90
+
+
+
+A public backend would be a societal mirror
+
+Imagine saying hey lets say all together to choose the filters we want
+
+Imagine being able to select prisms 2, r and 7 - as filters. Clients can be competing chains of filters for the web. - we can choose what subset to use and advertise through attribution
+
+We need to collectively regulate what is in our media - by choice. By competing public algo and by client attribution.
+
+Client attribution is the killer feature
+
+Predstavi si kak vsichki lokalno puskat neptiqtni neshta - shte iskame publichna versiq koqto gi down regluate-va i bihme iskali da review-nem algorituma za bias. Vkarai ideqta za pipelines na data za web infra - verifiable indexes
+
+
+
+We can choose our collective shared experience - freedom of information and direct vote for moral values
+> "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
+
+
+Moderation filters will simply be that - collections of preferences that users can choose to amplify or die down
+
+the way to end polarization is by allowing us to choose and display what unites us
+
+Finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), media is the battleground of ideas.
+
+
+
+
+
+
+
