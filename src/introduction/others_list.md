@@ -24,6 +24,10 @@ Overall a solid effort and could work - some similarities to [Farcaster](#farcas
 
 ### [Farcaster](https://www.farcaster.xyz/)
 
+<!--
+https://github.com/farcasterxyz/protocol
+-->
+
 Their WIP architecture: [link](https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564). The account registry is on a blockchain and everything else is off-chain.
 
 - Registry on Ethereum L1 - for new accounts, name/host changes & key management.
@@ -57,6 +61,8 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](../introduction/web_scale.md) on such a granular level and aggregation is not even in the picture.
 
 ### [Project Liberty](https://www.projectliberty.io/)
+
+TODO: separate page for this?
 
 <div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
@@ -99,9 +105,10 @@ One of the few solutions with their [own chain](https://www.frequency.xyz/) in t
 
 - No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes and there's no connection to the batch / service that published it which makes indexing harder - [example](https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri). So addressing content is much worse compared to Headjack's [human-readable & persistent URIs](../introduction/addressing.md).
 
+- a difference: DMs as announcements (& public - leaking metadata) vs IDM-based (direct IDM-IDM comms) & not anchored to the chain & not announced to the world at all (TODO: revisit this)
 
 
-
+- no hierarchical delegation - keypairs required, every delegation goes on-chain and requires a signature (bulky) - limited throughput.
 
 
 

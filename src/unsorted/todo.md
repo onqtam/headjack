@@ -109,6 +109,11 @@ https://docs.joinmastodon.org/spec/webfinger/
 https://docs.joinmastodon.org/spec/activitypub/
 
 
+why libp2p sucks
+https://twitter.com/tomaka17/status/1547529377277173761
+https://github.com/matrix-org/pinecone
+
+
 
 Skynet interop with IPFS:
 https://twitter.com/DavidVorick/status/1412080832286584844
@@ -137,6 +142,8 @@ https://www.youtube.com/watch?v=xuLyZaty9iI
 vector commitments (Merkle proofs)
 https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
 https://www.youtube.com/watch?v=RGJOQHzg3UQ
+https://vitalik.ca/general/2021/06/18/verkle.html
+
 
 
 could a user self-publish without going though an interface? Why not?

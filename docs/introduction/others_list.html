@@ -174,6 +174,9 @@
 <!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
 <p>Overall a solid effort and could work - some similarities to <a href="#farcaster">Farcaster</a> but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does.</p>
 <h3 id="farcaster"><a class="header" href="#farcaster"><a href="https://www.farcaster.xyz/">Farcaster</a></a></h3>
+<!--
+https://github.com/farcasterxyz/protocol
+-->
 <p>Their WIP architecture: <a href="https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564">link</a>. The account registry is on a blockchain and everything else is off-chain.</p>
 <ul>
 <li>
@@ -222,6 +225,7 @@
 </li>
 </ul>
 <h3 id="project-liberty"><a class="header" href="#project-liberty"><a href="https://www.projectliberty.io/">Project Liberty</a></a></h3>
+<p>TODO: separate page for this?</p>
 <div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
@@ -261,7 +265,15 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 <!-- 
 - They haven't managed to form a real community yet (although it is still early) and haven't moved as fast as others in the crypto industry for the past 2 years since their inception. -->
 <ul>
-<li>No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes and there's no connection to the batch / service that published it which makes indexing harder - <a href="https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri">example</a>. So addressing content is much worse compared to Headjack's <a href="../introduction/addressing.html">human-readable &amp; persistent URIs</a>.</li>
+<li>
+<p>No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes and there's no connection to the batch / service that published it which makes indexing harder - <a href="https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri">example</a>. So addressing content is much worse compared to Headjack's <a href="../introduction/addressing.html">human-readable &amp; persistent URIs</a>.</p>
+</li>
+<li>
+<p>a difference: DMs as announcements (&amp; public - leaking metadata) vs IDM-based (direct IDM-IDM comms) &amp; not anchored to the chain &amp; not announced to the world at all (TODO: revisit this)</p>
+</li>
+<li>
+<p>no hierarchical delegation - keypairs required, every delegation goes on-chain and requires a signature (bulky) - limited throughput.</p>
+</li>
 </ul>
 <h3 id="cyberconnect"><a class="header" href="#cyberconnect"><a href="https://cyberconnect.me/">CyberConnect</a></a></h3>
 <p>Built on the <a href="https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md">Ceramic protocol</a>.</p>
