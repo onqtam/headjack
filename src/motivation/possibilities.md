@@ -257,6 +257,19 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
 
 
+Decoupling data from the presentation layer
+We can “version control” frontends and request them by URI from anywhere
+Unstoppable software/media
+
+
+
+
+Different systems with their own cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global addressing namespace
+
+
+There will be a marketplace for every vertical - we need to democratize specialization & competition
+
+
 
 
 

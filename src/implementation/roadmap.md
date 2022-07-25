@@ -20,6 +20,11 @@
 
 - integration guides & tooling for other platforms
 
+- talk at conferences
+
+- web3 Metaverse Standards
+    https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-metaverse-standards
+
 - partner with
     https://twitter.com/odyseeteam
     gettr

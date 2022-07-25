@@ -28,3 +28,8 @@ https://forums.projectliberty.io/t/05-what-is-capacity-frequency-economics-part-
 The limits of paying for blockspace - alternative forms of value accrual for tokens where the inelasticity of blockspace is a deal breaker
 
 blockspace revenue is insufficient - forms of staking and ownership of the network are necessary to drive value to the token
+
+
+- value accrual of token - IDMs & interfaces required to stake the token depending on how many users depend on them?
+
+
