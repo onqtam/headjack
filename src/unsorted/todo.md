@@ -193,5 +193,5 @@ https://www.opencerts.io/
 
 TODO: think about if retroactive revocation is good or just complicates things. Other projects explicitly don't allow it - instead they use tombstones (specific messages) to signal that content was not authorized. What about changes to user's interest graph though?
 https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
-
+    TODO: Offchain Tombstones are worse than on-chain retroactive revocations because proofs for old block heights need to be invalidated - they shouldn't be possible from the latest block height
 

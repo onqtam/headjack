@@ -17,4 +17,15 @@ There are 5 guiding principles when aiming for mass adoption & parity on conveni
 - Anyone should be able to have a pseudonymous identity, operate an [IDM](../implementation/ecosystem/IDM.md), or serve media through an interface. Anyone must be able to publish & broadcast through Headjack using their identity - [moderation & censorship](../implementation/ecosystem/moderation.md) will happen at the interface level.
 
 
+<!-- TODO: key pillar: must not be worse than current web2 -->
+
+<!-- "Sign-in with ethereum" will always be limited -->
+
+<!-- TODO: key pillar: should make it hard for monopolies to form and data to be hoarded -->
+
+Nobody wants to deal with keypairs.
+Its ok to trust by default as long as there is a fallback option
+
+
+
 <!-- TODO: Designed to stand the test of time - best crypto-economic guarantees, capital efficiency, and scalability. -->

@@ -42,6 +42,7 @@ What if some platforms don't freely provide the content but just anchor it and p
 
 substack
 
+Clubhouse
 
 Downsides: echochamber specific frontends that exacerbate them on purpose
 

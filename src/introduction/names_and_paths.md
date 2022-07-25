@@ -30,6 +30,9 @@ To recap: we can ask the following questions about this URI: `twitter.com/55212/
 
 The blockchain can generate Merkle proofs from the blockchain state for any of these questions.
 
+<!-- TODO: Show difference between integer URI and one with names
+    Also give example how the current names of the resolved integer ids could be different atm -->
+
 # Content titles in URIs
 
 Most Web3 platforms [suffer from unreadable URIs](https://twitter.com/hasufl/status/1537388439259291649) but we've done a lot better - note the brevity and lack of hashes & hexadecimal symbols (`0xf56a0...`) - in fact, this is as good as it gets...

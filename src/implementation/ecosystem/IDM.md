@@ -54,7 +54,7 @@ IDM - pay to cold-DM someone and be seen
 
 
 - Blocking - through the IDM?
-- how to keep progress of viewing? IDM?
+- how to keep progress bars for played audio/video? IDM?
 - notifications - what is seen - managed between interfaces - IDM?
 
 edge case: what happens if a big interface suddenly becomes malicious? How can millions of ppl invalidate activity posted through it without clogging the network?

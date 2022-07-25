@@ -35,6 +35,8 @@ There are multiple ways to retrieve blobs & content for specific URIs from the p
 
 Interface accounts can point on-chain to a traditional host which should be used to display content published through them. As you'll see in the next chapter interface names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly into your browser as long as they own the same domain in the traditional [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) and they should be able to serve a webpage displaying the specific piece of content.
 
+<!-- TODO: 1 of N required to prove authenticity of a uri -->
+
 <!--
 # On proof permanence
 

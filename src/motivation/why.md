@@ -223,6 +223,7 @@ Cold start problem
 - bias
 - black box algos
 - no voice and exit
+    https://twitter.com/balajis/status/1548725591687303168
 - lack of innovation & composability
 - higher than necessary barrier to entry for startups
 
@@ -342,6 +343,8 @@ https://www.youtube.com/watch?v=FV5SqIm5e90
 
 
 A public backend would be a societal mirror
+The information asymmetry needs to be fixed - the twitter backend should be open
+
 
 Imagine saying hey lets say all together to choose the filters we want
 
@@ -370,4 +373,11 @@ Finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-
 
 
 
+
+https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/
+
+
+Identity & the social graph belong to no one
+
+Sunlight is the best disinfectant
 
