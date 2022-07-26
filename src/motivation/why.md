@@ -341,6 +341,14 @@ https://youtu.be/FV5SqIm5e90?t=883
 https://www.youtube.com/watch?v=FV5SqIm5e90
 
 
+we cannot see the "border" between twitter and facebook in terms of users - even they (the companies) cannot because the data and backends are private and closed/siloed. This can change and we can have greater insights
+https://youtu.be/FV5SqIm5e90?t=4631
+
+
+
+arbitrary rules for shadow banning
+
+
 
 A public backend would be a societal mirror
 The information asymmetry needs to be fixed - the twitter backend should be open

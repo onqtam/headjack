@@ -195,3 +195,7 @@ TODO: think about if retroactive revocation is good or just complicates things. 
 https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
     TODO: Offchain Tombstones are worse than on-chain retroactive revocations because proofs for old block heights need to be invalidated - they shouldn't be possible from the latest block height
 
+
+- can CRDTs be used like in farcaster?
+    https://github.com/farcasterxyz/protocol#4-replication
+

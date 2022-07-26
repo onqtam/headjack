@@ -75,3 +75,10 @@ https://blog.sia.tech/handshake-retrospective-after-the-first-year-c197e49749c9
 
 Web3 Leads to Cybersquatting 2.0: Here's What Brands Can Do
 https://decrypt.co/104319/ethereum-name-web3-cybersquatting
+
+
+"The mint happens over a two-phase commit reveal to prevent front-running registrations."
+"Farcaster Names are ERC-721 tokens that are fully composable with the NFT ecosystem."
+https://github.com/farcasterxyz/protocol
+
+
