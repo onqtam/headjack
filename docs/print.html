@@ -235,7 +235,6 @@ Its ok to trust by default as long as there is a fallback option</p>
 </ul>
 <p>All follow relationships &amp; authorizations are represented &amp; submitted on-chain as simple integer pairs (<code>2131 =&gt; 83253, 6331 =&gt; 14415</code>) that get aggregated in compact blobs &amp; signed in bulk by <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> &amp; interfaces - achieving a very high signal-to-noise ratio (few signatures) ==&gt; improving the throughput in the valuable block space. Connections can be multidimensional with explicit filtering &amp; exclusion of content based on its type/tag or interface that it originates from - all of which will also be represented by integers.</p>
 <img src="introduction/../images/sequenced_integer_relations.png">
-<img src="introduction/../images/authorizations.png">
 <p>With this foundation we achieve the following range of usage scenarios:</p>
 <ul>
 <li>Costs for using the blockchain can be shifted to <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> &amp; interfaces with business models to support that - users won't care that there's an underlying token (they'll always be able to interact with it directly through the mempool &amp; pay for transactions if they wish).</li>
@@ -245,6 +244,7 @@ Its ok to trust by default as long as there is a fallback option</p>
 <li>Users can be completely anonymous by directly creating an identity with a keypair &amp; paying for an on-chain transaction. They'll be able to use <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> without having to sign with email/pass or a Web2 <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> - not revealing anything.</li>
 <li>Interfaces will be usable by users that don't use an <a href="introduction/../implementation/ecosystem/IDM.html">IDM</a> but all their activity will need explicit signatures - updating follow connections on-chain will be more costly because they'll take a lot more bytes but the requirement of signatures will not impact the cost of the off-chain activity (posts, comments, reactions).</li>
 </ul>
+<img src="introduction/../images/authorizations.png">
 <p>So at the core of it all is just sequencing relations between integers &amp; Merkle roots for content.</p>
 <img src="introduction/../images/meme_integers_and_relations.jpg">
 <p>In practice, we expect that only cypherpunks &amp; people that have something to lose (big audience/reputation) will go through the trouble to manage a keypair. Almost everyone will use <a href="introduction/../implementation/ecosystem/IDM.html">IDMs</a> - even most crypto natives don't want to explicitly sign every action and have their keys in hot wallets ready to get hacked. This way 99.9% of the user activity on-chain (mostly connections &amp; authorizations) ends up going through authorized services and gets batched in a compact way - requiring only that the service signs the aggregated payload and thus reducing the amount of signatures on-chain.</p>
