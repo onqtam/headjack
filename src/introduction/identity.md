@@ -9,6 +9,8 @@ All follow relationships & authorizations are represented & submitted on-chain a
 
 <img src="../images/sequenced_integer_relations.png">
 
+<img src="../images/authorizations.png">
+
 With this foundation we achieve the following range of usage scenarios:
 
 - Costs for using the blockchain can be shifted to [IDMs](../implementation/ecosystem/IDM.md) & interfaces with business models to support that - users won't care that there's an underlying token (they'll always be able to interact with it directly through the mempool & pay for transactions if they wish).
