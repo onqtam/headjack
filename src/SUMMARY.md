@@ -18,28 +18,31 @@
         - [Shortcomings of Headjack](introduction/headjack_cons.md)
     - [The ambition](introduction/ambition.md)
 
-- [Motivation (why)](motivation/why.md)
-    - [Benefits of this approach](motivation/benefits.md)
-    - [Unlocked possibilities](motivation/possibilities.md)
-    - [Startup case study](motivation/startup_case_study.md)
+- [(WIP) Motivation (why)](motivation/why.md)
+    - [(WIP) Problems with the current web](motivation/problems.md)
+    - [(WIP) Benefits of this approach](motivation/benefits.md)
 
-- [Implementation (how)](implementation/blockchain.md)
-    - [Scaling & throughput](implementation/scaling.md)
-    - [Block & state structure](implementation/block_state_structure.md)
-    - [Tokenomics](implementation/tokenomics.md)
-    - [Handles (names)](implementation/handles.md)
-    - [Ecosystem]()
-        - [Identity managers (IDM)](implementation/ecosystem/IDM.md)
-        - [Message types](implementation/ecosystem/messages.md)
-        - [Interface architectures](implementation/ecosystem/architecture.md)
-        - [Moderation](implementation/ecosystem/moderation.md)
-    - [Example flow of actions & events]()
-    - [Open questions](implementation/open_questions.md)
-    - [Roadmap](implementation/roadmap.md)
+
+    - [(WIP) Unlocked possibilities](motivation/possibilities.md)
+    - [(WIP) Startup case study](motivation/startup_case_study.md)
+
+- [(WIP) Implementation (how)](implementation/blockchain.md)
+    - [(WIP) Scaling & throughput](implementation/scaling.md)
+    - [(WIP) Block & state structure](implementation/block_state_structure.md)
+    - [(WIP) Tokenomics](implementation/tokenomics.md)
+    - [(WIP) Handles (names)](implementation/handles.md)
+    - [(WIP) Ecosystem]()
+        - [(WIP) Identity managers (IDM)](implementation/ecosystem/IDM.md)
+        - [(WIP) Message types](implementation/ecosystem/messages.md)
+        - [(WIP) Interface architectures](implementation/ecosystem/architecture.md)
+        - [(WIP) Moderation](implementation/ecosystem/moderation.md)
+    - [(WIP) Example flow of actions & events]()
+    - [(WIP) Open questions](implementation/open_questions.md)
+    - [(WIP) Roadmap](implementation/roadmap.md)
 
 # Misc
 
-- [FAQ](FAQ.md)
+- [(WIP) FAQ](FAQ.md)
 
 
 
