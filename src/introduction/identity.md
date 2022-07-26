@@ -9,8 +9,6 @@ All follow relationships & authorizations are represented & submitted on-chain a
 
 <img src="../images/sequenced_integer_relations.png">
 
-<img src="../images/authorizations.png">
-
 With this foundation we achieve the following range of usage scenarios:
 
 - Costs for using the blockchain can be shifted to [IDMs](../implementation/ecosystem/IDM.md) & interfaces with business models to support that - users won't care that there's an underlying token (they'll always be able to interact with it directly through the mempool & pay for transactions if they wish).
@@ -19,6 +17,8 @@ With this foundation we achieve the following range of usage scenarios:
 - At any point in time users can regain full sovereignty over their identities by binding a keypair through their [IDM](../implementation/ecosystem/IDM.md). Then they'll be able to cut that IDM off (revoke access) & even retroactively invalidate actions from it through another IDM or direct on-chain transactions.
 - Users can be completely anonymous by directly creating an identity with a keypair & paying for an on-chain transaction. They'll be able to use [IDMs](../implementation/ecosystem/IDM.md) without having to sign with email/pass or a Web2 [SSO](https://en.wikipedia.org/wiki/Single_sign-on) - not revealing anything.
 - Interfaces will be usable by users that don't use an [IDM](../implementation/ecosystem/IDM.md) but all their activity will need explicit signatures - updating follow connections on-chain will be more costly because they'll take a lot more bytes but the requirement of signatures will not impact the cost of the off-chain activity (posts, comments, reactions).
+
+<img src="../images/authorizations.png">
 
 So at the core of it all is just sequencing relations between integers & Merkle roots for content.
 
