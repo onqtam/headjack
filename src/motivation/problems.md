@@ -43,13 +43,11 @@ Contrast that to open protocols & exportable data where anyone can specialize, i
 
 ## Growth, network effects & monopolies
 
-Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly with a [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp) at which point they no longer have to compete so much on the quality of their service - the [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs ramps up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)).
+Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly at which point the user [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs ramps up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)). They can also drop the ball with their quality of service thanks to their [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp), inertia and talent brain drain chasing greener pastures.
 
-Users are usually locked-in either because:
+Users are usually locked-in and effectively have no [voice and exit](https://twitter.com/balajis/status/1548725591687303168) either because:
 - the network effects are insurmountable for incumbents and there are no alternatives
 - if they leave for an alternative service they'd lose all their connections, audience & reputation and would have to start from scratch
-
-Effectively there is no [voice and exit](https://twitter.com/balajis/status/1548725591687303168).
 
 <!-- This is most consequential for journalism -->
 
