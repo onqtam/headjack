@@ -147,6 +147,28 @@
                     <main>
                         <h1 id="headjack---the-base-layer-of-cyberspace"><a class="header" href="#headjack---the-base-layer-of-cyberspace">Headjack - the base layer of cyberspace</a></h1>
 <p>Headjack is an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> designed for <a href="introduction/web_scale.html">web-scale</a> media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and <a href="introduction/addressing.html">content addressing</a> with human-readable &amp; persistent <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">URI</a> paths (instead of hashes) all packaged in a credibly neutral &amp; self-sustaining blockchain. It is <a href="introduction/ambition.html">aiming</a> to disaggregate the giants and end network effect monopolies &amp; data silos by aligning incentives and acting as the backend network that users won't even need to know about by striking the right set of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a <a href="https://twitter.com/arvanaghi/status/1537519858233008128">customer obsession</a> for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.</p>
+<!-- 
+TODO:
+
+In Headjack identity is simply a number.
+
+Identity means different things depending on the context but at the end of the day at the root of it there is an identifier - any type of use case specialization can be built around that - KYC is orthogonal to having identity & being able to associate content to it for online publishing at web-scale - there are no limits to the amount of content that can be created & addressed - both in terms of quantity and size.
+
+Headjack focuses on the essence - everything else can be built around it.
+
+It also specifies protocols & standards for connections, DMs, message types, etc. - basically all the building blocks necessary for a fully fledged ecosystem. Any existing web2 service can be recreated on top of it, but the doors are open for the next step of innovation (possibilities).
+
+TODO: link to the pillars
+
+What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.
+
+
+
+`"The internet creates 1 giant aggregator for everything"` - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
+
+    KISS
+
+    UNIX philosophy -->
 <p>Headjack is an information network. It solves identity &amp; universal sign-on. It is an addressability layer that is agnostic to the means of delivery. It is an index and a historian - the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a>.</p>
 <p>The following sub-chapters convey the idea (<strong>what</strong>) and a high-level view of how it works:</p>
 <ol>
@@ -706,6 +728,12 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 <p>Their initial growth was fueled by huge sums of VC money but by now it has <a href="https://www.openprosper.com/stats/deso-dashboard">flatlined</a>. It did reach <a href="https://www.coingecko.com/en/coins/deso">1.66$ billion market cap</a> on the 2nd of October 2021 shortly after being listed.</p>
 </li>
 </ul>
+<!-- 
+https://twitter.com/pseudotheos/status/1537876807466201088
+"Even a billion dollars of capital cannot compete with a project having a soul." - 
+@VitalikButerin
+https://vitalik.ca/general/2020/12/28/endnotes.html
+-->
 <h3 id="others"><a class="header" href="#others">Others</a></h3>
 <p>For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid &amp; others please refer to the excellent <a href="https://twitter.com/bluesky/status/1352302821140549632">ecosystem review</a> by the Bluesky project. Other good resources include:</p>
 <ul>
@@ -772,130 +800,67 @@ https://6529.io/ -->
 </blockquote>
 <p>Headjack is the <a href="https://xkcd.com/927/">15th and final</a> standard for decentralized identity and media - just because it's a lot of work doesn't mean we shouldn't be building on the right foundation. It is the supermassive digital gravity well and is going after the entire web as the coordination substrate of <a href="https://www.eff.org/cyberspace-independence">cyberspace</a>.</p>
 <p>The outcome is binary - <strong><code>success</code></strong> or <strong><code>failure</code></strong>.</p>
+<!-- The end of information & network effect silos -->
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 <h1 id="whats-currently-wrong"><a class="header" href="#whats-currently-wrong">What's currently wrong</a></h1>
 <p>This page focuses on the current problems while the <a href="motivation/possibilities.html">possibilities</a> page focuses on what Headjack would enable.</p>
-<p>https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/</p>
-<p>https://en.wikipedia.org/wiki/Memory_hole</p>
 <p>Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”
 https://www.britannica.com/biography/Douglas-Engelbart</p>
-<p>on identity: “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we
-know”
-Note this article on the dangers of the possible commercial centralization of identity was written before Facebook was even founded.
-&quot;as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled&quot;
-&quot;Yet given programmers had over ten years to address the centralization of social data, why did these efforts fail? To a large extent, the key failing is that the programmers tried to solve the problem of centralization via the purely technical means of standards rather than taking into account the larger social, economic, and political world into which their code was embedded.&quot;
-https://hal.inria.fr/hal-01966561/document</p>
-<p>&quot;Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level.&quot;
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech</p>
-<p>TODO: start from the content - list all kinds of content scenarios and what you'd like to be possible. Then think of who would be responsible for aggregating, bundling, indexing &amp; merkelizing the structures &amp; participading in the chain</p>
-<p>Ideas should not be sacred - we are just neurons - global &amp; borderless super intelligence - bootstrapping the global hivemind</p>
 <p>true uncensorability. The next philosopher to push humanity forward will be anonymous and global. Imagine not checking out what others are checking out more and more - what are the trends. IMAGINE NOT BEING ABLE TO SEE what others are finding most interesting. Most people are rational - let's see what gets the most attention from everyone.</p>
-<p>Echo chambers are intellectual oppression - as opposed to idea labs - treating ideas as experiments - as said by tim urban</p>
 <p>Global <a href="https://en.wikipedia.org/wiki/Common_knowledge_(logic)">common knowledge</a> is important.</p>
-<p>https://twitter.com/pseudotheos/status/1537876807466201088
-&quot;Even a billion dollars of capital cannot compete with a project having a soul.&quot; - 
-@VitalikButerin
-https://vitalik.ca/general/2020/12/28/endnotes.html</p>
-<p>solving the cold start problem</p>
-<p>the interest graph along with the recommender algorithms orchestrate how ideas surface, propagate, compound &amp; evolve</p>
 <p>human evolution is 99.9% memetic at this point - everything important is in our culture &amp; competition happens between ideas. We are building our digital history on shifting sands - there's no solid foundation and thus we can't agree on what's true. There's no global megaphone that would keep all information globally accessible &amp; indexable. A global append-only log for data doesn't have the same requirements as a financial system which needs 100% uptime. The only thing that needs incentivization is data availability &amp; the ability for anyone to offer. There can be different modes of posting - maybe just a hash for content that could be on ipfs and whose contents might have different levels of storage guarantees.</p>
 <p>We need everything that needs to bubble up to the top to do so.
 sequencing &amp; discoverability is valuable. The ability for any piece of information to bubble up TO THE ABSOLUTE TOP is.. VALUABLE</p>
 <p>information theory and physics are interlinked. In the physical world signals traverse based on the natural laws but memetic ideas spread thanks to human-manipulated means - we don't have fair means of dissipation of information. We can't make sense of the world together. We can't coordinate</p>
 <p>The most powerful person in the world is the story teller. The storyteller sets the vision, values, and agenda of an entire generation that is to come - steve jobs</p>
 <p>Finance and media are the bedrock of society.</p>
-<p>bring back the nansi pelosi portfolio tracker</p>
 <p>the only way to pay for open data is to make a currency that whoever owns it benefits from being on it. Make the voice of people unsilence-able - something pops up - immediately a few people copy it so even if the original goes down - the idea can be re-referenced by others anonymously - until it picks up steam and gets nocited by more</p>
 <p>the trust machine may bootstrap the truth machine - where it is incentivized to pop up to the top and the only thing that makes things grow is actually being more interesting &amp; important. HEATMAP of links!</p>
-<p>Imagine seeing both the data and the algorithms running on that data &amp; being able to check the results for yourself</p>
 <p>Anyone will be able to follow a story locally - even with the files being deleted one after another - each time just the diff will be uploaded and you'll be notified for events relating to an address and have the ability to download it and apply it locally. This is an uncensorable global conversation.</p>
 <p>the same piece of data may pop up multiple times throughout time through different sources - unkillable evidence - one which may live offline for a period and resurface. THERE NEEDS TO BE A GLOBAL HASH INDEX OF EVERYTHING THAT'S BEEN EVER TAGGED?</p>
 <p>I want to tag/link/index/sequence all data. I want the truth to bubble up.</p>
-<p>&quot;Information wants to be free&quot;
-https://en.wikipedia.org/wiki/Information_wants_to_be_free</p>
+<p>imagine being mad at your operating system because it has an agenda of its own. We are currently mad because media doesn't get the truth across but in fact there is no truth protocol for media - that's why they are bought - media cannot survive without its funding. Imagine building the OS that could show anyone where the hottest links of referencing are - where we are all collectively shining with attention -. Such a system will make it so the most pressing problems would surface the fastest to our collective consciousness. This is the unification</p>
+<p>Linked data is essential for discoverability &amp; ingestion of information - this gitbook is an example of that - contrast to what it would be if it was a linear whitepaper. The whole web can be interlinked like this.</p>
+<p>Imagine what Balaji could do if he had everything easily referencable through a logseq-like interface</p>
+<h2 id="decentralization"><a class="header" href="#decentralization">Decentralization</a></h2>
+<p>Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed.
+https://guide.getzion.com/inspiration-for-zion</p>
+<p>The Importance of Gossip Across Societies: Correlations With Institutionalization
+https://journals.sagepub.com/doi/abs/10.1177/1069397114554383?journalCode=ccrc&amp;</p>
+<p>lets try to achieve consensus on ground truth with the ledger of record
+https://en.wikipedia.org/wiki/Ground_truth</p>
+<p>Organizing the information on the internet better
+Separating signal from noise.</p>
 <p>we need to establish objective reality
 we shouldn't need steven pinker to make lectures titled &quot;rationality saves lives&quot;
 imagine developing a publicly-developed wiki where we collaborate on trying to figure out the best set of documents - the rules that everyone should see.</p>
-<p>imagine being mad at your operating system because it has an agenda of its own. We are currently mad because media doesn't get the truth across but in fact there is no truth protocol for media - that's why they are bought - media cannot survive without its funding. Imagine building the OS that could show anyone where the hottest links of referencing are - where we are all collectively shining with attention -. Such a system will make it so the most pressing problems would surface the fastest to our collective consciousness. This is the unification</p>
-<p>Linked data is essential for discoverability &amp; ingestion of information - this gitbook is an example of that - contrast to what it would be if it was a linear whitepaper. The whole web can be interlinked like this.</p>
-<p>Organizing the information on the internet better
-Separating signal from noise.</p>
-<p>Imagine what Balaji could do if he had everything easily referenceable through a logseq-like interface</p>
-<p>youtube subscriptions are nothing without the bell icon... absurd. and there's no down vote.</p>
-<p>The end of information &amp; network effect silos</p>
-<p>The Importance of Gossip Across Societies: Correlations With Institutionalization
-https://journals.sagepub.com/doi/abs/10.1177/1069397114554383?journalCode=ccrc&amp;</p>
-<p>Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed.
-https://guide.getzion.com/inspiration-for-zion
-&quot;one of the names that were considered for this project was Mycelium&quot;...</p>
+<p>&quot;Information wants to be free&quot;
+https://en.wikipedia.org/wiki/Information_wants_to_be_free</p>
+<h2 id="transparency--openness"><a class="header" href="#transparency--openness">Transparency &amp; openness</a></h2>
+<p>Imagine seeing both the data and the algorithms running on that data &amp; being able to check the results for yourself</p>
+<p>Identity &amp; the social graph belong to no one</p>
+<p>Sunlight is the best disinfectant</p>
+<p>&quot;Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level.&quot;
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech</p>
 <p>https://blog.sia.tech/the-worrying-depth-and-scope-of-censorship-on-the-internet-ffd4bc5a5486
 If Google decides they don’t like you, then for 65% of the world you simply stop existing. You have no recourse.
 The terrifying thing about this is that Google is not an elected entity. Google has turned themselves into unelected regulators of the Internet, and they are held accountable only to their own share price.</p>
 <p>As our economy and services become more deeply intertwined, an increasing number of players have more influence and ability to de-platform a greater number of businesses and users. And these requirements compound against each other. If one service provider is particularly opinionated and quick to de-platform, everybody else is forced to give them a large amount of breathing room and become more oppressive towards their users to avoid potential conflict.</p>
 <p>This does not scale. The end result will be a global monoculture where everybody is afraid to take risks or break the status quo because nobody can afford to upset even a single of the hundreds of services that they depend on. Our culture gets established and defined by giants like Facebook and Google rather than users and creators, because only Facebook and Google have the resources to bully everyone else into allowing changes to happen.</p>
 <p>The only way to avoid this endgame is to demand infrastructure that remains neutral. At the scale of today’s Internet and global economy, infrastructure that does not remain neutral will inevitably turn on its users and coerce them into a set of moral standards that are both arbitrary and enforced without consent.</p>
-<p>lets try to achieve consensus on ground truth with the ledger of record
-https://en.wikipedia.org/wiki/Ground_truth</p>
-<p>imagine the timelines &amp; graphs we'd be able to construct if we have a global sequencer</p>
 <p>JBP: Why Twitter Is Insane
 https://www.youtube.com/watch?v=Yg0qlnh5I38</p>
-<p>https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3
-Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes.</p>
 <p>Any of the mentioned articles or quotes by ppl like balaji should have been a notification or reference - everything should be interlinked</p>
 <p>&quot;Politics is Downstream from Culture&quot;
 &quot;culture is downstream from technology&quot;</p>
 <p>Society, business &amp; money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity.
 https://twitter.com/naval/status/790443306886926337</p>
-<p>&quot;78 statements of why we need this&quot;
-&quot;why we need this - 78 reasons&quot;</p>
-<p>substack has it's own comment section.
-sites that have segregated comment sections:</p>
-<p>by making data and identity interoperable between views it gets much easier for people to peek outside of their areas of interest and perhaps get drawn into other aspects of the world. It's all interconnected in the real world anyway, why not interconnect all data too and let ppl swim towards whatever they wish?</p>
 <p>If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide.
 https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html</p>
-<p>&quot;follow me on X platform&quot; - this should be a thing of the past</p>
-<blockquote>
-<p>If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can.
-https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/</p>
-</blockquote>
-<p>find the beginning of this thread and tell me that is readable &amp; usable:
-https://twitter.com/lopp/status/1531668215541145601</p>
-<h2 id="why-short"><a class="header" href="#why-short">Why (short)</a></h2>
-<h2 id="why-monopolies-are-bad"><a class="header" href="#why-monopolies-are-bad">Why monopolies are bad</a></h2>
-<p>TODO: maybe in the why.md document and not in the main readme?</p>
-<p>Cold start problem</p>
-<p>0 accountability</p>
-<ul>
-<li>bias</li>
-<li>black box algos</li>
-<li>no voice and exit
-https://twitter.com/balajis/status/1548725591687303168</li>
-<li>lack of innovation &amp; composability</li>
-<li>higher than necessary barrier to entry for startups</li>
-</ul>
-<p>Platforms with monopolistic <a href="https://www.investopedia.com/ask/answers/05/economicmoat.asp">MOATs</a> dominate us and don't compete solely on the quality of service as they should.</p>
-<p>The story of our times is fragmentation:</p>
-<ul>
-<li>culturally =&gt; polarization and radicalization</li>
-<li>technologically =&gt; lack of interoperability, duplicated effort &amp; stifled innovation</li>
-</ul>
-<p>Culture war</p>
-<p>Protocols, Not Platforms: A Technological Approach to Free Speech
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech</p>
-<p>Content moderation is orthogonal to amplification through algos
-The most important is the architecture of virality
-The dynamics of interaction and amplification/recommendation</p>
-<p>Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation</p>
-<p>The people writing the algorithmic feeds are the most powerful in the world
-https://youtu.be/3qHkcs3kG44?t=3616</p>
 <p>Google's mission is to organize the world's information and make it universally accessible and useful.
 Headjack's mission is to end network effect monopolies &amp; make identity &amp; data interoperable.</p>
-<p>The original whitepaper by Google's founders describing their search engine contains the following:
-But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm.
-https://perma.cc/8GDJ-K6AX
-Can we point to such a search engine today?</p>
 <blockquote>
 <p>Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go.
 https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
@@ -903,13 +868,16 @@ https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collect
 <p>The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then markets, clocks &amp; bits. Any mechanism that makes those more efficient will benefit the species.</p>
 <p>This is an explicit interest graph where each new connection is a conscious choice by users - as opposed to how a recommendation algorithm learns your preferences and profiles your interests (best example: TikTok).</p>
 <p>Yes we all enjoy viral cat videos and whatnot but don’t show it to us without asking or at least let us turn such recommendations off.</p>
+<p>imagine the timelines &amp; graphs we'd be able to construct if we have a global sequencer</p>
+<h2 id="culture-war"><a class="header" href="#culture-war">Culture war</a></h2>
+<p>Ideas should not be sacred - we are just neurons - global &amp; borderless super intelligence - bootstrapping the global hivemind</p>
 <p>The aggregate sentiment on twitter’s backend is analogous to a liquidity order book - we should want to see the Overton window.
 We could have a completely different understanding of society, history, and politics.
 https://youtu.be/FV5SqIm5e90?t=883
 https://www.youtube.com/watch?v=FV5SqIm5e90</p>
 <p>we cannot see the &quot;border&quot; between twitter and facebook in terms of users - even they (the companies) cannot because the data and backends are private and closed/siloed. This can change and we can have greater insights
 https://youtu.be/FV5SqIm5e90?t=4631</p>
-<p>arbitrary rules for shadow banning</p>
+<p>Finance is the <a href="https://anthonyleezhang.substack.com/p/the-market-for-promises">market for promises</a>, media is the battleground of ideas.</p>
 <p>A public backend would be a societal mirror
 The information asymmetry needs to be fixed - the twitter backend should be open</p>
 <p>Imagine saying hey lets say all together to choose the filters we want</p>
@@ -923,81 +891,103 @@ The information asymmetry needs to be fixed - the twitter backend should be open
 </blockquote>
 <p>Moderation filters will simply be that - collections of preferences that users can choose to amplify or die down</p>
 <p>the way to end polarization is by allowing us to choose and display what unites us</p>
-<p>Finance is the <a href="https://anthonyleezhang.substack.com/p/the-market-for-promises">market for promises</a>, media is the battleground of ideas.</p>
 <p>https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/</p>
-<p>Identity &amp; the social graph belong to no one</p>
-<p>Sunlight is the best disinfectant</p>
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
-<h1 id="current-problems-with-the-web"><a class="header" href="#current-problems-with-the-web">Current problems with the web</a></h1>
-<p>TODO: get the related parts of the possibilities page in here and link to this page in there</p>
+<h1 id="problems-with-the-current-web"><a class="header" href="#problems-with-the-current-web">Problems with the current web</a></h1>
+<p>Today's web is broken on many fronts - here are some of the big ticket items:</p>
+<h2 id="the-host-centric-vs-data-centric-web"><a class="header" href="#the-host-centric-vs-data-centric-web">The host-centric vs data-centric web</a></h2>
+<p>TODO: link to addressing</p>
+<p>Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation</p>
+<blockquote>
+<p>If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can.
+https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/</p>
+</blockquote>
+<h2 id="black-boxes--algorithmic-bias"><a class="header" href="#black-boxes--algorithmic-bias">Black boxes &amp; algorithmic bias</a></h2>
+<p>The interest graph &amp; recommendation algorithms are the architecture of virality - the dynamics of amplification &amp; interaction dictate how ideas surface, propagate, compound &amp; evolve. The people writing the algorithmic feeds are the most powerful in the world - <a href="https://youtu.be/3qHkcs3kG44?t=3616">@naval</a>.</p>
+<p>Ephemeral experiences such as search suggestions &amp; results leave no trace and it's extremely hard to prove bias as <a href="https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies">Dr. Robert Epstein</a> would <a href="https://open.spotify.com/episode/4q0cNkAHQQMBTu4NmeNW7E">attest</a> - there is 0 accountability.</p>
+<blockquote>
+<p>&quot;But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm.&quot; - <a href="https://perma.cc/8GDJ-K6AX">the original Google search engine whitepaper</a></p>
+</blockquote>
+<p>Does such a search engine exist today? Competition &amp; a lower barrier to entry are direly needed.</p>
+<h2 id="vertical-integration-vs-specialization--competition"><a class="header" href="#vertical-integration-vs-specialization--competition">Vertical integration vs specialization &amp; competition</a></h2>
+<p>Platforms do almost everything in-house in a closed way as providing access to third-party companies to their data to solve specific problems is hard due to complications around data privacy/regulation and the need to safeguard their competitive advantages &amp; trade secrets.</p>
+<p>This leads to:</p>
 <ul>
-<li>It will greatly aid the archivability of the web - fighting back the <a href="https://en.wikipedia.org/wiki/Sand_mandala">sand mandala</a> syndrome.</li>
-<li>Updates/changes to events will be cryptographically provable and browseable throughout time - the global <a href="https://en.wikipedia.org/wiki/Git">Git</a>.</li>
-<li>And many more - checkout the <a href="motivation/../motivation/possibilities.html">possibilities page</a>.</li>
+<li>lack of cooperation, interoperability, duplicated effort &amp; stifled innovation</li>
+<li>competition for scarce talent which leads to sub-par solutions</li>
+<li>company bloat &amp; inefficiencies
+<ul>
+<li>companies are harder to manage as they are way bigger than what they could be</li>
+<li>bigger size demands higher revenue - pricing out many business models</li>
 </ul>
-<p>TODO: Multiple points to retrieve content - redundancy</p>
-<p>platform attribution - advertising 
-Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URIs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before &amp; are curious or if their current interface doesn't fully support a given message type).</p>
-<p>==&gt; discoverability of new interfaces!</p>
-<p>TODO: articles can include the data for whatever they reference &amp; even provide the merkle proofs for those - self-contained, complete &amp; permanent publications</p>
-<p>This way data is self-certifying 
-not just self-certifying data addressable by hash, but also by a pretty URL!</p>
-<p>Headjack - free the world's information by making it portable &amp; addressable</p>
-<p>interlinking data and allowing different views to be used can reduce the effect of echo chambers</p>
-<p>Good addressing intertwined with identity is a strong network effect.</p>
+</li>
+<li>differences in functionality between platforms =&gt; complexity for users</li>
+</ul>
+<p>Contrast that to open protocols &amp; exportable data where anyone can specialize, innovate &amp; provide the best possible service for a specific vertical &amp; sell it to others. The move from <a href="motivation/../introduction/host_centric.html">host-centric</a> to <a href="motivation/../introduction/data_centric.html">data-centric</a> addressing and open blockchains enable <a href="https://balajis.com/yes-you-may-need-a-blockchain/">interoperability</a> and composability.</p>
+<h2 id="centralized--fragmented-identity"><a class="header" href="#centralized--fragmented-identity">Centralized &amp; fragmented identity</a></h2>
+<blockquote>
+<p>&quot;Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes.&quot; - <a href="https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3">source</a></p>
+</blockquote>
+<p>Convenience &amp; simplicity sought by users has lead to extreme levels of centralization of identity in just a few centralized players with <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-on</a> functionality &amp; network effects.</p>
+<blockquote>
+<p>&quot;as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled&quot; - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a></p>
+</blockquote>
+<!-- Note this article on the dangers of the possible commercial centralization of identity was written before Facebook was even founded. -->
+<!-- "Yet given programmers had over ten years to address the centralization of social data, why did these efforts fail? To a large extent, the key failing is that the programmers tried to solve the problem of centralization via the purely technical means of standards rather than taking into account the larger social, economic, and political world into which their code was embedded." -->
+<p>Contrast that to a world with interoperable &amp; exportable identity/data:</p>
+<blockquote>
+<p>“each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a></p>
+</blockquote>
+<!-- No need to rebuild social graphs in every new interface/platform -->
+<h2 id="the-cold-start-problem-for-media-startups"><a class="header" href="#the-cold-start-problem-for-media-startups">The cold start problem for media startups</a></h2>
+<p>The barrier to entry for most types of media platforms is very high:</p>
+<ul>
+<li>kickstarting a network effect &amp; attracting a critical mass is very difficult</li>
+<li>need to reinvent the wheel &amp; vertically integrate many aspects instead of composing a service from already existing solutions</li>
+</ul>
+<p>And thus few companies are started and ever fewer are successful - leading to little innovation, slow progress &amp; sub-par services.</p>
+<p>Check out the <a href="motivation/startup_case_study.html">case study</a> expanding on the challenges for such a startup.</p>
+<h2 id="monopolistic---no-alternatives-no-voice-and-exit"><a class="header" href="#monopolistic---no-alternatives-no-voice-and-exit">Monopolistic - no alternatives, no voice and exit</a></h2>
+<p>https://twitter.com/balajis/status/1548725591687303168</p>
+<p>Platforms with monopolistic <a href="https://www.investopedia.com/ask/answers/05/economicmoat.asp">MOATs</a> dominate us and don't compete solely on the quality of service as they should.</p>
+<p>The incentives in web2 are to run the attract-extract playbook
+https://twitter.com/cdixon/status/1473859531343949824</p>
+<h2 id="moderation--censorship"><a class="header" href="#moderation--censorship">Moderation &amp; censorship</a></h2>
+<p>arbitrary rules for shadow banning
+https://shadowban.yuzurisa.com/</p>
+<p>Twitter accounts that document Nancy Pelosi's stock trades have been removed multiple times without violating the terms of service.</p>
+<p>Content moderation is orthogonal to amplification through algos</p>
+<h2 id="cultural-fragmentation-filter-bubbles--echo-chambers"><a class="header" href="#cultural-fragmentation-filter-bubbles--echo-chambers">Cultural fragmentation, filter bubbles &amp; echo chambers</a></h2>
+<p>Duplicated content</p>
+<p>Echo chambers are intellectual oppression - as opposed to idea labs - treating ideas as experiments - as said by tim urban</p>
+<p>by making data and identity interoperable between views it gets much easier for people to peek outside of their areas of interest and perhaps get drawn into other aspects of the world. It's all interconnected in the real world anyway, why not interconnect all data too and let ppl swim towards whatever they wish?</p>
+<p>The story of our times is fragmentation:</p>
+<ul>
+<li>cultural fragmentation =&gt; polarization and radicalization</li>
+</ul>
+<p>substack has it's own comment section.
+sites that have segregated comment sections:</p>
+<h2 id="problems-with-specific-platforms"><a class="header" href="#problems-with-specific-platforms">Problems with specific platforms</a></h2>
 <ul>
 <li>
-<p>extensible - sub-addressing for content? fragments?</p>
+<p>YouTube:</p>
+<ul>
+<li>subscriptions are almost meaningless without the bell icon</li>
+<li>there is no longer a down vote button</li>
+</ul>
 </li>
 <li>
-<p>archivability</p>
+<p>Twitter:</p>
 <ul>
-<li>data vs entire webpage content</li>
-<li>push vs pull</li>
+<li>no way to remove <code>X received a reply from someone you don't follow</code> style of activity from your feed - or any other sort of recommendations</li>
+<li>find <a href="https://twitter.com/lopp/status/1531668215541145601">the beginning</a> of this thread - is that readable &amp; usable? There should be an alternative Reddit-style interface</li>
 </ul>
 </li>
 </ul>
-<p>todo: talk about URNs used as URLs - if the associated first name has an associated HTTP host
-- but when - at the time of the nonce or the current name? or both?</p>
-<ul>
-<li>indexing
-The block explorers for Headjack would be the next Google.
-block explorers are the future of browsing
-https://twitter.com/balajis/status/1406400770581303297</li>
-<li>addressing
-<ul>
-<li>persistent URLs
-STABILITY !!!</li>
-</ul>
-</li>
-</ul>
-<p>DNS was the original “decentralization” (although not in the crypto sense)</p>
-<ul>
-<li>
-<p>DNS
-DNS was the original “decentralization”.
-RSS was an attempt for the next iteration
-How do you store your friend list?
-But rss is too technical
-Dns got overloaded too many times</p>
-</li>
-<li>
-<p>deduplication</p>
-</li>
-</ul>
-<p>the <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (the OG &quot;Web3&quot;)</p>
-<p>reinventing the semantic web
-https://en.wikipedia.org/wiki/RDFa</p>
-<p>linking data is easier under a common global namespace
-https://en.wikipedia.org/wiki/Linked_data</p>
-<p>facilitate the creation of <a href="https://en.wikipedia.org/wiki/Hyperdata">hyperdata</a></p>
-<p>Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts &amp; abstract entities in order to facilitate </p>
-<p>An integral part to this vision are the <a href="motivation/../implementation/ecosystem/messages.html">message types</a>.</p>
-<p>Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a>, these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins.
-https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
-<p>Networking can gradually evolve as it is orthogonal to the actual identities and anchoring of content.</p>
+<hr />
+<p>Everything listed here can be improved/solved in Headjack's paradigm, but this is just scratching the surface - the unlocked possibilities &amp; improvements are explored in the other pages.</p>
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
@@ -1076,7 +1066,6 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <p>imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it</p>
 <p>hope for spam &amp; moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email</p>
 <p>it doesn't make sense to not be possible to comment on anything in the web and not have your followers see it. simply doesn't</p>
-<p>No need to rebuild social graphs in every new interface/platform</p>
 <p>&quot;diff&quot; view that summarizes the changes to a URI over time (the updates/edits)
 TODO: look at this:
 We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches</p>
@@ -1084,7 +1073,6 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 <p>promotion of videos will no longer be dominated just by the recommendation algorithm - when an influencer comments on a video his followers will see it and watch the said video too</p>
 <p>We will be able to study the effects of recommendation algorithms for virality because all content has an interface where it came from</p>
 <p>Interfaces will compete on the algorithms they let people use to filter and sort information - to look for signal through the noise.</p>
-<p>have you seen replies by people you don't follow in your twitter feed? why would &quot;X received a reply from someone you don't follow&quot; be in there? shouldn't there be a setting for that?</p>
 <h2 id="no-more-data-silos"><a class="header" href="#no-more-data-silos">No more data silos</a></h2>
 <p>Generating content should be frictionless. Associating content with identity should be straightforward. Frictionless migration between views</p>
 <p>all content should be referencable, sub-quotable, commentable &amp; share-able</p>
@@ -1270,6 +1258,7 @@ Unstoppable software/media</p>
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
+<p>Unpinch - a platform for commenting on audio/video at specific points in time</p>
 <p>unpinch</p>
 <p>https://docs.google.com/document/d/1H1clvkML16d-MfN6VTY6wGS9Rl-ZEviFmohdp24SDsM/edit</p>
 <p>https://www.youtube.com/watch?v=xsJvFr9v7Nk</p>
