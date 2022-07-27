@@ -105,22 +105,6 @@ imagine a paragraph of a substack article to be retweetable and to be able to go
 
 TODO: think about memes & the original content + layers
 
-## How limited Twitter is
-
-lists don't show comments & replies that are not to the same person being followed
-
-ability to choose to see someone's reactions/comments or not when added in a list like twitter's lists - different types of levels of filtering for lists
-
-- we can't sort the tweets of someone based on engagement
-
-Thread unrolled view by default
-
-twitter could show the most liked/commented quote tweets to show the reception of a tweet - or we can just look at the comments :|
-
-View as- from index
-https://twitter.com/waitbutwhy/status/1502846781150822402
-"Treat this follow to a non-list as a list - show me everything they see. Arbitrarily deep in layers." This can be just an interface preference
-
 ## Usability improvements & organization
 
 each interface will specialize into providing the best possible service for the particular need/aspect of data consumption
