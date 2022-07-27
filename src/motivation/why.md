@@ -211,14 +211,18 @@ https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collect
 
 
 
-
+TODO: twitter thread
 
 
 
 
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then markets, clocks & bits. Any mechanism that makes those more efficient will benefit the species.
 
+blockchains can play a major role in upgrading our systems of cooperation and trust
 
+if the internet is the information super highway, blockchains are the cooperation super highways
+
+(borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106))
 
 
 
