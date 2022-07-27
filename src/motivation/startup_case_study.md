@@ -2,7 +2,7 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-
+Unpinch - a platform for commenting on audio/video at specific points in time
 
 unpinch
 

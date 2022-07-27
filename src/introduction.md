@@ -2,6 +2,31 @@
 
 Headjack is an [open state database](https://twitter.com/balajis/status/1123092897664880640) designed for [web-scale](introduction/web_scale.md) media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and [content addressing](introduction/addressing.md) with human-readable & persistent [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) paths (instead of hashes) all packaged in a credibly neutral & self-sustaining blockchain. It is [aiming](introduction/ambition.md) to disaggregate the giants and end network effect monopolies & data silos by aligning incentives and acting as the backend network that users won't even need to know about by striking the right set of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.
 
+<!-- 
+TODO:
+
+In Headjack identity is simply a number.
+
+Identity means different things depending on the context but at the end of the day at the root of it there is an identifier - any type of use case specialization can be built around that - KYC is orthogonal to having identity & being able to associate content to it for online publishing at web-scale - there are no limits to the amount of content that can be created & addressed - both in terms of quantity and size.
+
+Headjack focuses on the essence - everything else can be built around it.
+
+It also specifies protocols & standards for connections, DMs, message types, etc. - basically all the building blocks necessary for a fully fledged ecosystem. Any existing web2 service can be recreated on top of it, but the doors are open for the next step of innovation (possibilities).
+
+TODO: link to the pillars
+
+What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.
+
+
+
+`"The internet creates 1 giant aggregator for everything"` - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
+
+    KISS
+
+    UNIX philosophy -->
+
+
+
 Headjack is an information network. It solves identity & universal sign-on. It is an addressability layer that is agnostic to the means of delivery. It is an index and a historian - the [ledger of record](https://twitter.com/balajis/status/1459140902144729088).
 
 The following sub-chapters convey the idea (**what**) and a high-level view of how it works:

@@ -2,114 +2,120 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
+# Problems with the current web
 
-# Current problems with the web
+Today's web is broken on many fronts - here are some of the big ticket items:
 
-TODO: get the related parts of the possibilities page in here and link to this page in there
+## The host-centric vs data-centric web
 
-- It will greatly aid the archivability of the web - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) syndrome.
-- Updates/changes to events will be cryptographically provable and browseable throughout time - the global [Git](https://en.wikipedia.org/wiki/Git).
-- And many more - checkout the [possibilities page](../motivation/possibilities.md).
+TODO: link to addressing
 
+Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation
 
 
-TODO: Multiple points to retrieve content - redundancy
+> If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can.
+https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/
 
-platform attribution - advertising 
-Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URIs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before & are curious or if their current interface doesn't fully support a given message type).
 
-==> discoverability of new interfaces!
+## Black boxes & algorithmic bias
 
-TODO: articles can include the data for whatever they reference & even provide the merkle proofs for those - self-contained, complete & permanent publications
+The interest graph & recommendation algorithms are the architecture of virality - the dynamics of amplification & interaction dictate how ideas surface, propagate, compound & evolve. The people writing the algorithmic feeds are the most powerful in the world - [@naval](https://youtu.be/3qHkcs3kG44?t=3616).
 
-This way data is self-certifying 
-not just self-certifying data addressable by hash, but also by a pretty URL!
+Ephemeral experiences such as search suggestions & results leave no trace and it's extremely hard to prove bias as [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies) would [attest](https://open.spotify.com/episode/4q0cNkAHQQMBTu4NmeNW7E) - there is 0 accountability.
 
-Headjack - free the world's information by making it portable & addressable
+> "But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm." - [the original Google search engine whitepaper](https://perma.cc/8GDJ-K6AX)
 
-interlinking data and allowing different views to be used can reduce the effect of echo chambers
+Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
 
-Good addressing intertwined with identity is a strong network effect.
+## Vertical integration vs specialization & competition
 
-- extensible - sub-addressing for content? fragments?
+Platforms do almost everything in-house in a closed way as providing access to third-party companies to their data to solve specific problems is hard due to complications around data privacy/regulation and the need to safeguard their competitive advantages & trade secrets.
 
+This leads to:
+- lack of cooperation, interoperability, duplicated effort & stifled innovation
+- competition for scarce talent which leads to sub-par solutions
+- company bloat & inefficiencies
+    - companies are harder to manage as they are way bigger than what they could be
+    - bigger size demands higher revenue - pricing out many business models
+- differences in functionality between platforms => complexity for users
 
+Contrast that to open protocols & exportable data where anyone can specialize, innovate & provide the best possible service for a specific vertical & sell it to others. The move from [host-centric](../introduction/host_centric.md) to [data-centric](../introduction/data_centric.md) addressing and open blockchains enable [interoperability](https://balajis.com/yes-you-may-need-a-blockchain/) and composability.
 
+## Centralized & fragmented identity
 
-- archivability
-    - data vs entire webpage content
-    - push vs pull
+> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
 
-todo: talk about URNs used as URLs - if the associated first name has an associated HTTP host
-    - but when - at the time of the nonce or the current name? or both?
+Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few centralized players with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality & network effects.
 
+> "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
 
-- indexing
-    The block explorers for Headjack would be the next Google.
-    block explorers are the future of browsing
-    https://twitter.com/balajis/status/1406400770581303297
-- addressing
-    - persistent URLs
-    STABILITY !!!
+<!-- Note this article on the dangers of the possible commercial centralization of identity was written before Facebook was even founded. -->
 
+<!-- "Yet given programmers had over ten years to address the centralization of social data, why did these efforts fail? To a large extent, the key failing is that the programmers tried to solve the problem of centralization via the purely technical means of standards rather than taking into account the larger social, economic, and political world into which their code was embedded." -->
 
+Contrast that to a world with interoperable & exportable identity/data:
 
+> “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
 
+<!-- No need to rebuild social graphs in every new interface/platform -->
 
+## The cold start problem for media startups
 
+The barrier to entry for most types of media platforms is very high:
+- kickstarting a network effect & attracting a critical mass is very difficult
+- need to reinvent the wheel & vertically integrate many aspects instead of composing a service from already existing solutions
 
+And thus few companies are started and ever fewer are successful - leading to little innovation, slow progress & sub-par services.
 
+Check out the [case study](startup_case_study.md) expanding on the challenges for such a startup.
 
+## Monopolistic - no alternatives, no voice and exit
 
+https://twitter.com/balajis/status/1548725591687303168
 
+Platforms with monopolistic [MOATs](https://www.investopedia.com/ask/answers/05/economicmoat.asp) dominate us and don't compete solely on the quality of service as they should.
 
+The incentives in web2 are to run the attract-extract playbook
+https://twitter.com/cdixon/status/1473859531343949824
 
+## Moderation & censorship
 
 
+arbitrary rules for shadow banning
+https://shadowban.yuzurisa.com/
 
 
+Twitter accounts that document Nancy Pelosi's stock trades have been removed multiple times without violating the terms of service.
 
+Content moderation is orthogonal to amplification through algos
 
-DNS was the original “decentralization” (although not in the crypto sense)
 
+## Cultural fragmentation, filter bubbles & echo chambers
 
-- DNS
-    DNS was the original “decentralization”.
-    RSS was an attempt for the next iteration
-    How do you store your friend list?
-    But rss is too technical
-    Dns got overloaded too many times
+Duplicated content
 
+Echo chambers are intellectual oppression - as opposed to idea labs - treating ideas as experiments - as said by tim urban
 
+by making data and identity interoperable between views it gets much easier for people to peek outside of their areas of interest and perhaps get drawn into other aspects of the world. It's all interconnected in the real world anyway, why not interconnect all data too and let ppl swim towards whatever they wish?
 
+The story of our times is fragmentation:
+- cultural fragmentation => polarization and radicalization
 
-- deduplication
+substack has it's own comment section.
+sites that have segregated comment sections:
 
+## Problems with specific platforms
 
+- YouTube:
+    - subscriptions are almost meaningless without the bell icon
+    - there is no longer a down vote button
 
+- Twitter:
+    - no way to remove `X received a reply from someone you don't follow` style of activity from your feed - or any other sort of recommendations
+    - find [the beginning](https://twitter.com/lopp/status/1531668215541145601) of this thread - is that readable & usable? There should be an alternative Reddit-style interface
 
-the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (the OG "Web3")
 
 
+---
 
-reinventing the semantic web
-https://en.wikipedia.org/wiki/RDFa
-
-linking data is easier under a common global namespace
-https://en.wikipedia.org/wiki/Linked_data
-
-facilitate the creation of [hyperdata](https://en.wikipedia.org/wiki/Hyperdata)
-
-Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
-
-An integral part to this vision are the [message types](../implementation/ecosystem/messages.md).
-
-
-
-
-
-Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins.
-https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
-
-Networking can gradually evolve as it is orthogonal to the actual identities and anchoring of content.
-
+Everything listed here can be improved/solved in Headjack's paradigm, but this is just scratching the surface - the unlocked possibilities & improvements are explored in the other pages.

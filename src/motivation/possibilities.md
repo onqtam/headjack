@@ -14,8 +14,6 @@ hope for spam & moderation: if there is a market for it it could be solved faste
 
 it doesn't make sense to not be possible to comment on anything in the web and not have your followers see it. simply doesn't
 
-No need to rebuild social graphs in every new interface/platform
-
 "diff" view that summarizes the changes to a URI over time (the updates/edits)
 TODO: look at this:
 We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches
@@ -38,7 +36,6 @@ We will be able to study the effects of recommendation algorithms for virality b
 
 Interfaces will compete on the algorithms they let people use to filter and sort information - to look for signal through the noise.
 
-have you seen replies by people you don't follow in your twitter feed? why would "X received a reply from someone you don't follow" be in there? shouldn't there be a setting for that?
 
 
 

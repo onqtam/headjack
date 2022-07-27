@@ -11,32 +11,17 @@ This page focuses on the current problems while the [possibilities](possibilitie
 
 
 
-https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/
-
-https://en.wikipedia.org/wiki/Memory_hole
 
 
 Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”
 https://www.britannica.com/biography/Douglas-Engelbart
 
-on identity: “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we
-know”
-Note this article on the dangers of the possible commercial centralization of identity was written before Facebook was even founded.
-"as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled"
-"Yet given programmers had over ten years to address the centralization of social data, why did these efforts fail? To a large extent, the key failing is that the programmers tried to solve the problem of centralization via the purely technical means of standards rather than taking into account the larger social, economic, and political world into which their code was embedded."
-https://hal.inria.fr/hal-01966561/document
 
 
-"Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level."
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
 
-TODO: start from the content - list all kinds of content scenarios and what you'd like to be possible. Then think of who would be responsible for aggregating, bundling, indexing & merkelizing the structures & participading in the chain
-
-Ideas should not be sacred - we are just neurons - global & borderless super intelligence - bootstrapping the global hivemind
 
 true uncensorability. The next philosopher to push humanity forward will be anonymous and global. Imagine not checking out what others are checking out more and more - what are the trends. IMAGINE NOT BEING ABLE TO SEE what others are finding most interesting. Most people are rational - let's see what gets the most attention from everyone.
 
-Echo chambers are intellectual oppression - as opposed to idea labs - treating ideas as experiments - as said by tim urban
 
 
 
@@ -44,16 +29,11 @@ Global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)
 
 
 
-https://twitter.com/pseudotheos/status/1537876807466201088
-"Even a billion dollars of capital cannot compete with a project having a soul." - 
-@VitalikButerin
-https://vitalik.ca/general/2020/12/28/endnotes.html
 
 
 
-solving the cold start problem
 
-the interest graph along with the recommender algorithms orchestrate how ideas surface, propagate, compound & evolve
+
 
 human evolution is 99.9% memetic at this point - everything important is in our culture & competition happens between ideas. We are building our digital history on shifting sands - there's no solid foundation and thus we can't agree on what's true. There's no global megaphone that would keep all information globally accessible & indexable. A global append-only log for data doesn't have the same requirements as a financial system which needs 100% uptime. The only thing that needs incentivization is data availability & the ability for anyone to offer. There can be different modes of posting - maybe just a hash for content that could be on ipfs and whose contents might have different levels of storage guarantees.
 
@@ -70,8 +50,6 @@ The most powerful person in the world is the story teller. The storyteller sets 
 Finance and media are the bedrock of society.
 
 
-bring back the nansi pelosi portfolio tracker
-
 
 
 
@@ -79,7 +57,6 @@ the only way to pay for open data is to make a currency that whoever owns it ben
 
 the trust machine may bootstrap the truth machine - where it is incentivized to pop up to the top and the only thing that makes things grow is actually being more interesting & important. HEATMAP of links!
 
-Imagine seeing both the data and the algorithms running on that data & being able to check the results for yourself
 
 
 Anyone will be able to follow a story locally - even with the files being deleted one after another - each time just the diff will be uploaded and you'll be notified for events relating to an address and have the ability to download it and apply it locally. This is an uncensorable global conversation.
@@ -88,12 +65,6 @@ the same piece of data may pop up multiple times throughout time through differe
 
 I want to tag/link/index/sequence all data. I want the truth to bubble up.
 
-"Information wants to be free"
-https://en.wikipedia.org/wiki/Information_wants_to_be_free
-
-we need to establish objective reality
-we shouldn't need steven pinker to make lectures titled "rationality saves lives"
-imagine developing a publicly-developed wiki where we collaborate on trying to figure out the best set of documents - the rules that everyone should see.
 
 
 
@@ -105,24 +76,46 @@ Linked data is essential for discoverability & ingestion of information - this g
 
 
 
-Organizing the information on the internet better
-Separating signal from noise.
+Imagine what Balaji could do if he had everything easily referencable through a logseq-like interface
 
-Imagine what Balaji could do if he had everything easily referenceable through a logseq-like interface
 
-youtube subscriptions are nothing without the bell icon... absurd. and there's no down vote.
 
-The end of information & network effect silos
+## Decentralization
+
+Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed.
+https://guide.getzion.com/inspiration-for-zion
 
 The Importance of Gossip Across Societies: Correlations With Institutionalization
 https://journals.sagepub.com/doi/abs/10.1177/1069397114554383?journalCode=ccrc&
 
+lets try to achieve consensus on ground truth with the ledger of record
+https://en.wikipedia.org/wiki/Ground_truth
+
+Organizing the information on the internet better
+Separating signal from noise.
+
+we need to establish objective reality
+we shouldn't need steven pinker to make lectures titled "rationality saves lives"
+imagine developing a publicly-developed wiki where we collaborate on trying to figure out the best set of documents - the rules that everyone should see.
+
+"Information wants to be free"
+https://en.wikipedia.org/wiki/Information_wants_to_be_free
+
+## Transparency & openness
+
+Imagine seeing both the data and the algorithms running on that data & being able to check the results for yourself
+
+Identity & the social graph belong to no one
+
+Sunlight is the best disinfectant
+
+"Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level."
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
 
 
 
-Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed.
-https://guide.getzion.com/inspiration-for-zion
-"one of the names that were considered for this project was Mycelium"...
+
+
 
 
 
@@ -138,12 +131,7 @@ The only way to avoid this endgame is to demand infrastructure that remains neut
 
 
 
-lets try to achieve consensus on ground truth with the ledger of record
-https://en.wikipedia.org/wiki/Ground_truth
 
-
-
-imagine the timelines & graphs we'd be able to construct if we have a global sequencer
 
 
 JBP: Why Twitter Is Insane
@@ -151,8 +139,6 @@ https://www.youtube.com/watch?v=Yg0qlnh5I38
 
 
 
-https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3
-Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes.
 
 
 
@@ -169,15 +155,6 @@ https://twitter.com/naval/status/790443306886926337
 
 
 
-"78 statements of why we need this"
-"why we need this - 78 reasons"
-
-
-substack has it's own comment section.
-sites that have segregated comment sections:
-
-
-by making data and identity interoperable between views it gets much easier for people to peek outside of their areas of interest and perhaps get drawn into other aspects of the world. It's all interconnected in the real world anyway, why not interconnect all data too and let ppl swim towards whatever they wish?
 
 
 If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide.
@@ -185,19 +162,6 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 
 
 
-"follow me on X platform" - this should be a thing of the past
-
-
-
-
-> If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can.
-https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/
-
-
-
-
-find the beginning of this thread and tell me that is readable & usable:
-https://twitter.com/lopp/status/1531668215541145601
 
 
 
@@ -210,45 +174,11 @@ https://twitter.com/lopp/status/1531668215541145601
 
 
 
-## Why (short)
-
-## Why monopolies are bad
-
-TODO: maybe in the why.md document and not in the main readme?
-
-Cold start problem
-
-0 accountability
-
-- bias
-- black box algos
-- no voice and exit
-    https://twitter.com/balajis/status/1548725591687303168
-- lack of innovation & composability
-- higher than necessary barrier to entry for startups
 
 
-Platforms with monopolistic [MOATs](https://www.investopedia.com/ask/answers/05/economicmoat.asp) dominate us and don't compete solely on the quality of service as they should.
-
-The story of our times is fragmentation:
-- culturally => polarization and radicalization
-- technologically => lack of interoperability, duplicated effort & stifled innovation
-
-Culture war
-
-Protocols, Not Platforms: A Technological Approach to Free Speech
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
-
-Content moderation is orthogonal to amplification through algos
-The most important is the architecture of virality
-The dynamics of interaction and amplification/recommendation
 
 
-Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation
 
-
-The people writing the algorithmic feeds are the most powerful in the world
-https://youtu.be/3qHkcs3kG44?t=3616
 
 
 
@@ -256,10 +186,6 @@ Google's mission is to organize the world's information and make it universally 
 Headjack's mission is to end network effect monopolies & make identity & data interoperable.
 
 
-The original whitepaper by Google's founders describing their search engine contains the following:
-But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm.
-https://perma.cc/8GDJ-K6AX
-Can we point to such a search engine today?
 
 
 
@@ -331,8 +257,15 @@ Yes we all enjoy viral cat videos and whatnot but don’t show it to us without 
 
 
 
+imagine the timelines & graphs we'd be able to construct if we have a global sequencer
 
 
+
+
+## Culture war
+
+
+Ideas should not be sacred - we are just neurons - global & borderless super intelligence - bootstrapping the global hivemind
 
 
 The aggregate sentiment on twitter’s backend is analogous to a liquidity order book - we should want to see the Overton window.
@@ -344,9 +277,10 @@ https://www.youtube.com/watch?v=FV5SqIm5e90
 we cannot see the "border" between twitter and facebook in terms of users - even they (the companies) cannot because the data and backends are private and closed/siloed. This can change and we can have greater insights
 https://youtu.be/FV5SqIm5e90?t=4631
 
+Finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), media is the battleground of ideas.
 
 
-arbitrary rules for shadow banning
+
 
 
 
@@ -374,8 +308,6 @@ Moderation filters will simply be that - collections of preferences that users c
 
 the way to end polarization is by allowing us to choose and display what unites us
 
-Finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), media is the battleground of ideas.
-
 
 
 
@@ -384,8 +316,4 @@ Finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-
 
 https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/
 
-
-Identity & the social graph belong to no one
-
-Sunlight is the best disinfectant
 
