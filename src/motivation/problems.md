@@ -109,15 +109,26 @@ sites that have segregated comment sections:
 
 ## Problems with specific platforms
 
+Beyond everything that has already been listed in this page:
+
 - YouTube:
     - subscriptions are almost meaningless without the bell icon
     - there is no longer a down vote button
+    - the comment section is just an afterthought
+        - the presentation is extremely basic & limiting
+        - you cannot even link to a specific comment with a URL
+        - financial scam moderation is non-existent
 
 - Twitter:
-    - no way to remove `X received a reply from someone you don't follow` style of activity from your feed - or any other sort of recommendations
+    - we can't even sort the tweets of someone based on engagement
+    - cannot sort quotes/replies based on engagement/age
+    - no unrolled thread view option even though it's a no-brainer at this point
+    - filtering & tuning what is shown in lists is nonexistent
+        - lists don't show replies that are not to accounts in that list
+        - can't display likes in lists
+    - no way to opt-out of recommendations in the main feed for topics you don't care about or unrelated activity such as `X received a reply from someone you don't follow`
     - find [the beginning](https://twitter.com/lopp/status/1531668215541145601) of this thread - is that readable & usable? There should be an alternative Reddit-style interface
-
-
+    - we [can't see other people's feeds](https://twitter.com/waitbutwhy/status/1502846781150822402) (although there's a [third-party app for that](https://vicariously.io/))
 
 ---
 
