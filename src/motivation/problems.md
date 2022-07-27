@@ -71,6 +71,8 @@ Contrast that to a world with interoperable & exportable identity/data:
 
 <!-- No need to rebuild social graphs in every new interface/platform -->
 
+TODO: mention linktree here
+
 ## The cold start problem for media startups
 
 The barrier to entry for most types of media platforms is very high:
