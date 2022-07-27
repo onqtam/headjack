@@ -41,7 +41,21 @@ This leads to:
 
 Contrast that to open protocols & exportable data where anyone can specialize, innovate & provide the best possible service for a specific vertical & sell it to others. The move from [host-centric](../introduction/host_centric.md) to [data-centric](../introduction/data_centric.md) addressing and open blockchains enable [interoperability](https://balajis.com/yes-you-may-need-a-blockchain/) and composability.
 
+## Growth, network effects & monopolies
+
+Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly with a [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp) at which point they no longer have to compete so much on the quality of their service - the [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs ramps up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)).
+
+Users are usually locked-in either because:
+- the network effects are insurmountable for incumbents and there are no alternatives
+- if they leave for an alternative service they'd lose all their connections, audience & reputation and would have to start from scratch
+
+Effectively there is no [voice and exit](https://twitter.com/balajis/status/1548725591687303168).
+
+<!-- This is most consequential for journalism -->
+
 ## Centralized & fragmented identity
+
+<!-- concentration -->
 
 > "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
 
@@ -67,16 +81,7 @@ The barrier to entry for most types of media platforms is very high:
 
 And thus few companies are started and ever fewer are successful - leading to little innovation, slow progress & sub-par services.
 
-Check out the [case study](startup_case_study.md) expanding on the challenges for such a startup.
-
-## Monopolistic - no alternatives, no voice and exit
-
-https://twitter.com/balajis/status/1548725591687303168
-
-Platforms with monopolistic [MOATs](https://www.investopedia.com/ask/answers/05/economicmoat.asp) dominate us and don't compete solely on the quality of service as they should.
-
-The incentives in web2 are to run the attract-extract playbook
-https://twitter.com/cdixon/status/1473859531343949824
+Check out the [startup case study](startup_case_study.md) expanding on why it would be easier with Headjack.
 
 ## Moderation & censorship
 
