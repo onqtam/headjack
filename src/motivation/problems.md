@@ -1,6 +1,6 @@
 # Problems with the current web
 
-Today's web is broken on many fronts. This page provides a non-exhaustive list of some of the most obvious problems, all of which can be improved or completely solved in Headjack's paradigm, but even this is just scratching the surface - the unlocked possibilities & improvements are explored further in the other pages of this motivational chapter.
+Today's web is broken on many fronts. This page provides a non-exhaustive list of some of the most obvious problems, most of which can be improved or completely solved in Headjack's paradigm, but even this is just scratching the surface - the unlocked possibilities & improvements are explored further in the other pages of this motivational chapter.
 
 ## The host-centric web
 
@@ -64,7 +64,7 @@ Contrast that to a world with interoperable & exportable identity/data:
 
 The barrier to entry for most types of media platforms is very high:
 - kickstarting a network effect & attracting a critical mass is very difficult
-- need to reinvent the wheel & vertically integrate many aspects instead of composing a service from already existing solutions
+- need to reinvent the wheel & [vertically integrate](#vertical-integration-vs-specialization--competition) many aspects instead of composing a service from already existing solutions
 
 And thus few companies are started and ever fewer are successful - leading to little innovation, slow progress & sub-par services.
 
@@ -91,21 +91,19 @@ The same document may be published through different platforms and because of th
 
 > "Echo chambers are intellectual oppression - as opposed to idea labs where ideas are treated as experiments." - [Tim Urban](https://www.youtube.com/watch?v=ivDwzBYsED4)
 
-Instead imagine being able to view the entire discussion around a specific event by tracing & aggregating all of the re-publications, references & re-tweets & quotes of it from anywhere and applying any type of filtering to that.
+Instead imagine being able to view the entire discussion around a specific event by tracing & aggregating all of the re-publications, references & re-tweets & quotes of it from anywhere and applying any type of filter to that.
 
 That is what interoperable identity, content-addressing & broadcasted data enables - we can connect and de-duplicate everything and allow anyone to build tools around that - constructing a much bigger graph that what Google have created for themselves.
 
 ## Moderation & censorship
 
-arbitrary rules for shadow banning
-https://shadowban.yuzurisa.com/
+This is an incredibly hairy topic with many aspects - here are just a few of them:
 
-
-Twitter accounts that document Nancy Pelosi's stock trades have been removed multiple times without violating the terms of service.
-
-Content moderation is orthogonal to amplification through algos
-
-Subreddit hijacking by moderators - no easy way to "fork" a community
+- No clear rules for moderation & censorship - the terms of service are (intentionally?) fuzzy and an ever moving goal post. Platform accountability is practically non-existent:
+    - account reach can be down-regulated through opaque techniques like [shadow banning](https://shadowban.yuzurisa.com/)
+    - accounts can be removed subjectively (case in point: earlier Twitter accounts tracking Nancy Pelosi's public stock trades)
+- There is no way for users to "fork" a Reddit community if they no longer agree with the way moderation is happening - they have to recreate a new subreddit from scratch.
+- There is no market for solving certain types of spam such as financial scams - Twitter & YouTube are riddled with templatized messages and their internal [vertically integrated](#vertical-integration-vs-specialization--competition) teams are unable to deal with yet another problem in a world-class manner. In an open system such as e-mail the competition & innovation for solving spam has been tremendous.
 
 <!-- spammy/scam bot messages? youtube? twitter? reddit? crypto? -->
 
