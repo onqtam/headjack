@@ -4,7 +4,9 @@
 
 # Problems with the current web
 
-Today's web is broken on many fronts - here are some of the big ticket items:
+Today's web is broken on many fronts - here's a non-exhaustive list of some of the most obvious problems:
+
+<!-- The possibilities with Headjack further show other problems that are solvable -->
 
 ## The host-centric vs data-centric web
 
@@ -58,6 +60,8 @@ Users are usually locked-in and effectively have no [voice and exit](https://twi
 > "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
 
 Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few centralized players with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality & network effects.
+
+TODO: Fragmented identity - DMs, settings, bookmarks, playlists, progress bars
 
 > "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
 
@@ -113,11 +117,11 @@ sites that have segregated comment sections:
 
 ## Problems with specific platforms
 
-Beyond everything that has already been listed in this page:
+A non-exhaustive list of additional problems (beyond what's already listed) with specific platforms:
 
 - YouTube:
+    - there is no longer a down vote count & like/dislike ratio
     - subscriptions are by now almost meaningless without the notification bell icon
-    - there is no longer a down vote button
     - the comment section is just an afterthought - they don't care about it
         - the presentation is extremely basic & limiting
         - you cannot even link to a specific comment with a URL
