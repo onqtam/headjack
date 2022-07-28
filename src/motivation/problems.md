@@ -16,7 +16,7 @@ Ephemeral experiences such as search suggestions & results leave no trace and it
 
 Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
 
-Another problem is the discounting of explicit user preferences such as subscriptions & the interest graph (following/connections) in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all enjoy viral cat videos but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
+Another problem is the discounting of explicit user preferences such as subscriptions & the interest graph (following/connections) in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all respond to outrage & enjoy the occasional viral cat video but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
 
 ## Vertical integration vs specialization & competition
 
@@ -83,6 +83,18 @@ The terrifying thing about this is that Google is not an elected entity. Google 
 
 > "The only way to avoid this endgame is to demand infrastructure that remains neutral. At the scale of today’s Internet and global economy, infrastructure that does not remain neutral will inevitably turn on its users and coerce them into a set of moral standards that are both arbitrary and enforced without consent."
 
+## Cultural fragmentation, filter bubbles & echo chambers
+
+The same document may be published through different platforms and because of the host-certified web of today it will get multiple different URLs. Discussion around it becomes fragmented & shallow in the different platforms with separate comment sections and there isn't a way to de-duplicate & unify it. This facilitates polarization as separate echo chambers can form without seeing the opinion of other types of people.
+
+<!-- Alienating large parts of the population & pushing them to alternative closed platforms is not a net benefit. -->
+
+> "Echo chambers are intellectual oppression - as opposed to idea labs where ideas are treated as experiments." - [Tim Urban](https://www.youtube.com/watch?v=ivDwzBYsED4)
+
+Instead imagine being able to view the entire discussion around a specific event by tracing & aggregating all of the re-publications, references & re-tweets & quotes of it from anywhere and applying any type of filtering to that.
+
+That is what interoperable identity, content-addressing & broadcasted data enables - we can connect and de-duplicate everything and allow anyone to build tools around that - constructing a much bigger graph that what Google have created for themselves.
+
 ## Moderation & censorship
 
 arbitrary rules for shadow banning
@@ -94,20 +106,6 @@ Twitter accounts that document Nancy Pelosi's stock trades have been removed mul
 Content moderation is orthogonal to amplification through algos
 
 Subreddit hijacking by moderators - no easy way to "fork" a community
-
-## Cultural fragmentation, filter bubbles & echo chambers
-
-Duplicated content
-
-Echo chambers are intellectual oppression - as opposed to idea labs - treating ideas as experiments - as said by tim urban
-
-by making data and identity interoperable between views it gets much easier for people to peek outside of their areas of interest and perhaps get drawn into other aspects of the world. It's all interconnected in the real world anyway, why not interconnect all data too and let ppl swim towards whatever they wish?
-
-The story of our times is fragmentation:
-- cultural fragmentation => polarization and radicalization
-
-substack has it's own comment section.
-sites that have segregated comment sections:
 
 <!-- spammy/scam bot messages? youtube? twitter? reddit? crypto? -->
 
