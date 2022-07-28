@@ -3,12 +3,6 @@
 </div>
 
 
-# What's currently wrong
-
-This page focuses on the current problems while the [possibilities](possibilities.md) page focuses on what Headjack would enable.
-
-
-
 
 
 
@@ -119,20 +113,6 @@ https://knightcolumbia.org/content/protocols-not-platforms-a-technological-appro
 
 
 
-https://blog.sia.tech/the-worrying-depth-and-scope-of-censorship-on-the-internet-ffd4bc5a5486
-If Google decides they don’t like you, then for 65% of the world you simply stop existing. You have no recourse.
-The terrifying thing about this is that Google is not an elected entity. Google has turned themselves into unelected regulators of the Internet, and they are held accountable only to their own share price.
-
-As our economy and services become more deeply intertwined, an increasing number of players have more influence and ability to de-platform a greater number of businesses and users. And these requirements compound against each other. If one service provider is particularly opinionated and quick to de-platform, everybody else is forced to give them a large amount of breathing room and become more oppressive towards their users to avoid potential conflict.
-
-This does not scale. The end result will be a global monoculture where everybody is afraid to take risks or break the status quo because nobody can afford to upset even a single of the hundreds of services that they depend on. Our culture gets established and defined by giants like Facebook and Google rather than users and creators, because only Facebook and Google have the resources to bully everyone else into allowing changes to happen.
-
-The only way to avoid this endgame is to demand infrastructure that remains neutral. At the scale of today’s Internet and global economy, infrastructure that does not remain neutral will inevitably turn on its users and coerce them into a set of moral standards that are both arbitrary and enforced without consent.
-
-
-
-
-
 
 JBP: Why Twitter Is Insane
 https://www.youtube.com/watch?v=Yg0qlnh5I38
@@ -183,7 +163,10 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 
 
 Google's mission is to organize the world's information and make it universally accessible and useful.
-Headjack's mission is to end network effect monopolies & make identity & data interoperable.
+Headjack's mission is to end network effect monopolies & data silos & make identity & data interoperable.
+
+
+
 
 
 
@@ -191,12 +174,6 @@ Headjack's mission is to end network effect monopolies & make identity & data in
 
 > Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go.
 https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
-
-
-
-
-
-
 
 
 
@@ -228,34 +205,12 @@ if the internet is the information super highway, blockchains are the cooperatio
 
 
 
-This is an explicit interest graph where each new connection is a conscious choice by users - as opposed to how a recommendation algorithm learns your preferences and profiles your interests (best example: TikTok).
 
-
-
-Yes we all enjoy viral cat videos and whatnot but don’t show it to us without asking or at least let us turn such recommendations off.
 
 
 
 
 clickbait?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

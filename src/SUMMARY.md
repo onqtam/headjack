@@ -18,8 +18,8 @@
         - [Shortcomings of Headjack](introduction/headjack_cons.md)
     - [The ambition](introduction/ambition.md)
 
-- [(WIP) Motivation (why)](motivation/why.md)
-    - [(WIP) Problems with the current web](motivation/problems.md)
+- [(WIP) Motivation (why)](motivation/philosophy.md)
+    - [Problems with the current web](motivation/problems.md)
     - [(WIP) Benefits of this approach](motivation/benefits.md)
 
 

@@ -4,14 +4,7 @@ Today's web is broken on many fronts. This page provides a non-exhaustive list o
 
 ## The host-centric web
 
-One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). This topic is expanded in the [host-centric](../introduction/host_centric.md) vs [data-centric](../introduction/data_centric.md) part of the addressing chapter in this book, but here are a few more points on this topic.
-
-Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation
-
-
-> If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can.
-https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/
-
+One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). The consequences of that are explained in the [host-centric](../introduction/host_centric.md) addressing chapter - go take a look.
 
 ## Black boxes & algorithmic bias
 
@@ -22,6 +15,8 @@ Ephemeral experiences such as search suggestions & results leave no trace and it
 > "But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm." - [the original Google search engine whitepaper](https://perma.cc/8GDJ-K6AX)
 
 Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
+
+Another problem is the discounting of explicit user preferences such as subscriptions & the interest graph (following/connections) in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all enjoy viral cat videos but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
 
 ## Vertical integration vs specialization & competition
 
@@ -49,34 +44,21 @@ Users are usually locked-in and effectively have no [voice and exit](https://twi
 - the network effects are insurmountable for incumbents and there are no alternatives
 - or if they leave for an alternative service they'd lose all their connections, audience & reputation and would have to start from scratch
 
-## Centralized & fragmented identity
+## Centralized & fragmented identity/preferences
 
-<!-- concentration -->
-
-> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
-
-Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few centralized players with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality & network effects.
-
-TODO: Fragmented identity - DMs, settings, bookmarks, playlists, progress bars
-
-How does one balance DMs across so many platforms?
-https://twitter.com/jonwu_/status/1524886818725847040
-
-
+Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few centralized players with network effects & [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality.
 
 > "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
 
-<!-- Note this article on the dangers of the possible commercial centralization of identity was written before Facebook was even founded. -->
+But despite the concentration of SSO services a lot of identity-related activity is fragmented between platforms due to the lack of standards & interoperability: settings/preferences, [direct messages](https://twitter.com/jonwu_/status/1524886818725847040), bookmarks, playlists, progress bars, etc.
 
-<!-- "Yet given programmers had over ten years to address the centralization of social data, why did these efforts fail? To a large extent, the key failing is that the programmers tried to solve the problem of centralization via the purely technical means of standards rather than taking into account the larger social, economic, and political world into which their code was embedded." -->
+> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
+
+[Linktree](https://en.wikipedia.org/wiki/Linktree) is just a bandaid for today’s fragmentation of identity ([valued at 1.3B$](https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/)) - it is a symptom.
 
 Contrast that to a world with interoperable & exportable identity/data:
 
 > “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
-
-<!-- No need to rebuild social graphs in every new interface/platform -->
-
-TODO: mention linktree here
 
 ## The cold start problem for media startups
 
@@ -88,8 +70,20 @@ And thus few companies are started and ever fewer are successful - leading to li
 
 Check out the [startup case study](startup_case_study.md) expanding on why it would be easier with Headjack.
 
-## Moderation & censorship
+## Infrastructure centralization
 
+Google is way more than just a search engine even though the majority of their revenue comes from advertising - they control large percentages of the plumbing of the web - key choke points such as submarine cables, routing, data centers, browsers, DNS, etc. [`David Vorick`](https://twitter.com/DavidVorick) put this perfectly into perspective in [`The Worrying Depth and Scope of Censorship on the Internet`](https://blog.sia.tech/the-worrying-depth-and-scope-of-censorship-on-the-internet-ffd4bc5a5486) - some quotes:
+
+> "If Google decides they don’t like you, then for 65% of the world you simply stop existing. You have no recourse.
+The terrifying thing about this is that Google is not an elected entity. Google has turned themselves into unelected regulators of the Internet, and they are held accountable only to their own share price."
+
+> "As our economy and services become more deeply intertwined, an increasing number of players have more influence and ability to de-platform a greater number of businesses and users. And these requirements compound against each other. If one service provider is particularly opinionated and quick to de-platform, everybody else is forced to give them a large amount of breathing room and become more oppressive towards their users to avoid potential conflict."
+
+> "This does not scale. The end result will be a global monoculture where everybody is afraid to take risks or break the status quo because nobody can afford to upset even a single of the hundreds of services that they depend on. Our culture gets established and defined by giants like Facebook and Google rather than users and creators, because only Facebook and Google have the resources to bully everyone else into allowing changes to happen."
+
+> "The only way to avoid this endgame is to demand infrastructure that remains neutral. At the scale of today’s Internet and global economy, infrastructure that does not remain neutral will inevitably turn on its users and coerce them into a set of moral standards that are both arbitrary and enforced without consent."
+
+## Moderation & censorship
 
 arbitrary rules for shadow banning
 https://shadowban.yuzurisa.com/
@@ -119,7 +113,7 @@ sites that have segregated comment sections:
 
 ## Problems with specific platforms
 
-A non-exhaustive list of additional problems (beyond what's already listed) with specific platforms:
+A non-exhaustive list of additional problems (beyond what's already listed) with some platforms:
 
 - YouTube:
     - there is no longer a down vote count & like/dislike ratio
