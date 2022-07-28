@@ -2,16 +2,9 @@
 
 Today's web is broken on many fronts. This page provides a non-exhaustive list of some of the most obvious problems, all of which can be improved or completely solved in Headjack's paradigm, but even this is just scratching the surface - the unlocked possibilities & improvements are explored further in the other pages of this motivational chapter.
 
-## The [host-centric](../introduction/host_centric.md) vs [data-centric](../introduction/data_centric.md) web
+## The host-centric web
 
-A huge problem is the current internet networking architecture which is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle) 
-
-
-
-
-TODO: link to addressing
-
-https://en.wikipedia.org/wiki/End-to-end_principle
+One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). This topic is expanded in the [host-centric](../introduction/host_centric.md) vs [data-centric](../introduction/data_centric.md) part of the addressing chapter in this book, but here are a few more points on this topic.
 
 Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation
 
@@ -46,9 +39,7 @@ Contrast that to open protocols & exportable data where anyone can specialize, i
 
 ## Growth, network effects & monopolies
 
-Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly with a [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp) at which point the user [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs can ramp up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)). At that point innovation is less necessary (+ is harder due to inertia) and even the quality of service may degrade. User data is the most valuable commodity due to the advertising model and scale allows for the most optimal AI models & efficiency of value extraction.
-
-<!-- and talent brain drain chasing greener pastures -->
+Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly with a [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp) at which point the user [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs can ramp up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)). At that point innovation is less necessary (+ is harder due to inertia) and even the quality of service may degrade. User data is the most valuable commodity and scale enables the best AI models & efficiency of value extraction in the advertising model which comes with a slew of problems & perverse incentives.
 
 <div style="text-align: center;">
     <img src="../images/meme_data_most_valuable.jpg">
