@@ -103,6 +103,17 @@ Identity & the social graph belong to no one
 
 Sunlight is the best disinfectant
 
+
+
+<!-- 
+> "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
+https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
+ -->
+
+
+
+
+
 "Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level."
 https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
 
@@ -137,15 +148,6 @@ https://twitter.com/naval/status/790443306886926337
 
 
 
-If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide.
-https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
-
-
-
-
-
-
-
 
 
 
@@ -169,11 +171,6 @@ Headjack's mission is to end network effect monopolies & data silos & make ident
 
 
 
-
-
-
-> Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go.
-https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
 
 
 
