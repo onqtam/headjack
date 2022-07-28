@@ -1,16 +1,17 @@
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-
 # Problems with the current web
 
-Today's web is broken on many fronts - here's a non-exhaustive list of some of the most obvious problems:
+Today's web is broken on many fronts. This page provides a non-exhaustive list of some of the most obvious problems, all of which can be improved or completely solved in Headjack's paradigm, but even this is just scratching the surface - the unlocked possibilities & improvements are explored further in the other pages of this motivational chapter.
 
-<!-- The possibilities with Headjack further show other problems that are solvable -->
+## The [host-centric](../introduction/host_centric.md) vs [data-centric](../introduction/data_centric.md) web
 
-## The host-centric vs data-centric web
+A huge problem is the current internet networking architecture which is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle) 
+
+
+
 
 TODO: link to addressing
+
+https://en.wikipedia.org/wiki/End-to-end_principle
 
 Data needs to be liberated from silos and monopolies - make them play on an equal footing and you will get more innovation
 
@@ -45,13 +46,17 @@ Contrast that to open protocols & exportable data where anyone can specialize, i
 
 ## Growth, network effects & monopolies
 
-Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly at which point the user [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs ramps up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)). They can also drop the ball with their quality of service thanks to their [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp), inertia and talent brain drain chasing greener pastures.
+Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly with a [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp) at which point the user [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs can ramp up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)). At that point innovation is less necessary (+ is harder due to inertia) and even the quality of service may degrade. User data is the most valuable commodity due to the advertising model and scale allows for the most optimal AI models & efficiency of value extraction.
+
+<!-- and talent brain drain chasing greener pastures -->
+
+<div style="text-align: center;">
+    <img src="../images/meme_data_most_valuable.jpg">
+</div>
 
 Users are usually locked-in and effectively have no [voice and exit](https://twitter.com/balajis/status/1548725591687303168) either because:
 - the network effects are insurmountable for incumbents and there are no alternatives
-- if they leave for an alternative service they'd lose all their connections, audience & reputation and would have to start from scratch
-
-<!-- This is most consequential for journalism -->
+- or if they leave for an alternative service they'd lose all their connections, audience & reputation and would have to start from scratch
 
 ## Centralized & fragmented identity
 
@@ -62,6 +67,11 @@ Users are usually locked-in and effectively have no [voice and exit](https://twi
 Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few centralized players with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality & network effects.
 
 TODO: Fragmented identity - DMs, settings, bookmarks, playlists, progress bars
+
+How does one balance DMs across so many platforms?
+https://twitter.com/jonwu_/status/1524886818725847040
+
+
 
 > "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
 
@@ -98,6 +108,7 @@ Twitter accounts that document Nancy Pelosi's stock trades have been removed mul
 
 Content moderation is orthogonal to amplification through algos
 
+Subreddit hijacking by moderators - no easy way to "fork" a community
 
 ## Cultural fragmentation, filter bubbles & echo chambers
 
@@ -137,7 +148,3 @@ A non-exhaustive list of additional problems (beyond what's already listed) with
     - we [can't see other people's feeds](https://twitter.com/waitbutwhy/status/1502846781150822402) (although there's this [third-party app](https://vicariously.io/))
     - no way to opt-out of recommendations in the main feed for topics you don't care about or unrelated activity such as `X received a reply from someone you don't follow`
     - find [the beginning](https://twitter.com/lopp/status/1531668215541145601) of this thread - is that readable & usable? There should be an alternative Reddit-style interface
-
----
-
-Everything listed here can be improved/solved in Headjack's paradigm, but this is just scratching the surface - the unlocked possibilities & improvements are explored in the other pages.

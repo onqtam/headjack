@@ -4,9 +4,6 @@
 
 # DMs
 
-How does one balance DMs across so many platforms?
-https://twitter.com/jonwu_/status/1524886818725847040
-
 - DMs without keys - how?
     maybe rely on the identity providers - ACMs?
     https://twitter.com/elonmusk/status/1519469891455234048
