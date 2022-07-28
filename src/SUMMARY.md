@@ -24,7 +24,7 @@
 
 
     - [(WIP) Unlocked possibilities](motivation/possibilities.md)
-    - [(WIP) Startup case study](motivation/startup_case_study.md)
+    - [Startup case study](motivation/startup_case_study.md)
 
 - [(WIP) Implementation (how)](implementation/blockchain.md)
     - [(WIP) Scaling & throughput](implementation/scaling.md)
