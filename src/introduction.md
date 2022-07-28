@@ -13,6 +13,8 @@ Headjack focuses on the essence - everything else can be built around it.
 
 It also specifies protocols & standards for connections, DMs, message types, etc. - basically all the building blocks necessary for a fully fledged ecosystem. Any existing web2 service can be recreated on top of it, but the doors are open for the next step of innovation (possibilities).
 
+"the ability to link content to users without limits"
+
 TODO: link to the pillars
 
 What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.
@@ -47,7 +49,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
     4. [Shortcomings of Headjack](introduction/headjack_cons.md)
 7. [The ambition](introduction/ambition.md)
 
-But the vision would be incomplete without the subsequent [**why**](motivation/why.md) and more detailed [**how**](blockchain.md).
+But the vision would be incomplete without the subsequent [**why**](motivation/philosophy.md) and more detailed [**how**](blockchain.md).
 
 <div style="text-align: center;">
     <img src="images/logo.png">
