@@ -6,7 +6,7 @@ But not like SoundCloud does it (by rendering [tiny overlapping rectangles](http
 
 Instead why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments & annotations based on the range and display the threads below Reddit-style with sorting & filtration options?
 
-Here's a screenshot of precisely that (ignore the colors - no designer has touched this yet):
+Here's a screenshot of precisely that (ignore the colors & bad design):
 
 <img src="../images/startup_case_study.png">
 
@@ -28,7 +28,7 @@ Here's an [older video](https://www.youtube.com/watch?v=xsJvFr9v7Nk) showcasing 
 
 # Challenges in the current web2 world
 
-What's the fate of such a UI? There are many challenges for this idea to work as a web2 company:
+There are many challenges for this idea to work as a web2 company:
 
 - For it to provide value it would need many users commenting on the same video or otherwise there will be no histogram and the whole interface will be pointless. It needs a network effect - discoverability is hard.
 

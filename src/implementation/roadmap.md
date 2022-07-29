@@ -60,6 +60,9 @@ having a clear case for metaverse companies seems to be a solid route to gain in
 TODO: this goes in the growth strat!
 
 
+hackatons:
+https://devpost.com/
+
 
 need community & product
 https://www.shawkisukkar.com/2022/farcaster

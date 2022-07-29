@@ -19,6 +19,10 @@ TODO: link to the pillars
 
 What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.
 
+a blueprint for the future web
+
+
+The core value proposition is the ability to link infinite amounts of data to identity and sequence that throughout time.
 
 
 `"The internet creates 1 giant aggregator for everything"` - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
