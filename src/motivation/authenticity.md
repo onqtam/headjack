@@ -1,13 +1,7 @@
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-
-
 # Authenticity
 
-One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). The consequences of that are explained in the [host-centric](../introduction/host_centric.md) addressing chapter - go take a look.
+Documents are [host-certified](problems.md#the-host-centric-web) and we refer to data by location instead of contents - for more details checkout the [host-centric](../introduction/host_centric.md) page. Let's expand on what [data-centric](../introduction/data_centric.md) addressing with [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents and an open ecosystem where data does not live in silos enables:
 
-Contrast that to [data-centric](../introduction/data_centric.md) addressing where data can be [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) - here are some consequences:
 
 <!-- in addition to the host-centric page: -->
 
@@ -25,8 +19,7 @@ no more tweets with a few screenshots of other tweets - these should be composab
 we are building our digital history on [shifting sands](https://news.ycombinator.com/item?id=27690525) without a solid foundation.**
 
 
-It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple
-https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/
+> "It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple" - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
 
 
@@ -59,6 +52,7 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
 
 
+web of trust
 
 
 

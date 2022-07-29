@@ -807,11 +807,12 @@ https://vitalik.ca/general/2020/12/28/endnotes.html
 </li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="motivation-why"><a class="header" href="#motivation-why">Motivation (why)</a></h1>
-<p>The web is broken on many fronts - this chapter explores most problematic aspects and how they can be either improved or even completely solved. In addition to that, Headjack's paradigm is an architectural reset of the web &amp; opens doors to things which weren't even conceivable before.</p>
+<p>The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Furthermore, Headjack's paradigm is an architectural reset of the web &amp; opens doors to things which weren't even conceivable before.</p>
 <ol>
 <li><a href="motivation/../motivation/problems.html">Problems with the current web</a></li>
 <li><a href="motivation/../motivation/benefits.html">Benefits of this approach</a></li>
 <li><a href="motivation/../motivation/infrastructure.html">Infrastructure improvements</a></li>
+<li><a href="motivation/motivation/authenticity.html">Authenticity</a></li>
 <li><a href="motivation/../motivation/possibilities.html">Unlocked possibilities</a></li>
 <li><a href="motivation/../motivation/startup_case_study.html">Startup case study</a></li>
 <li><a href="motivation/../motivation/philosophy.html">Philosophy</a></li>
@@ -820,7 +821,7 @@ https://vitalik.ca/general/2020/12/28/endnotes.html
 <div style="break-before: page; page-break-before: always;"></div><h1 id="problems-with-the-current-web"><a class="header" href="#problems-with-the-current-web">Problems with the current web</a></h1>
 <p>This is a non-exhaustive list of some of the most obvious problems.</p>
 <h2 id="the-host-centric-web"><a class="header" href="#the-host-centric-web">The host-centric web</a></h2>
-<p>One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the <a href="https://en.wikipedia.org/wiki/End-to-end_principle">end-to-end principle</a>. The consequences of that are explained in the <a href="motivation/../introduction/host_centric.html">host-centric page</a> of the addressing chapter - go take a look.</p>
+<p>One major problem of the current internet architecture is that documents are host-certified and communication happens through the <a href="https://en.wikipedia.org/wiki/End-to-end_principle">end-to-end principle</a> - we refer to data by location instead of contents. The consequences are explained in the <a href="motivation/../introduction/host_centric.html">host-centric</a> page (contrast that to <a href="motivation/../introduction/data_centric.html">data-centric</a>).</p>
 <h2 id="black-boxes--algorithmic-bias"><a class="header" href="#black-boxes--algorithmic-bias">Black boxes &amp; algorithmic bias</a></h2>
 <p>The recommendation algorithms &amp; the interest graph are the architecture of virality - the dynamics of amplification &amp; interaction dictate how ideas surface, propagate, compound &amp; evolve. The people writing the algorithmic feeds are the most powerful in the world - <a href="https://youtu.be/3qHkcs3kG44?t=3616">@naval</a>.</p>
 <p>Ephemeral experiences such as search suggestions &amp; results leave no trace and it's extremely hard to prove bias as <a href="https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies">Dr. Robert Epstein</a> would <a href="https://open.spotify.com/episode/4q0cNkAHQQMBTu4NmeNW7E">attest</a> - there is 0 accountability.</p>
@@ -1062,19 +1063,19 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 </ul>
 </li>
 </ul>
-<div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-<h1 id="authenticity"><a class="header" href="#authenticity">Authenticity</a></h1>
-<p>One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the <a href="https://en.wikipedia.org/wiki/End-to-end_principle">end-to-end principle</a>. The consequences of that are explained in the <a href="motivation/../introduction/host_centric.html">host-centric</a> addressing chapter - go take a look.</p>
-<p>Contrast that to <a href="motivation/../introduction/data_centric.html">data-centric</a> addressing where data can be <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> - here are some consequences:</p>
+<p>computed &amp; verifiable views?
+https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
+link to authenticity page</p>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="authenticity"><a class="header" href="#authenticity">Authenticity</a></h1>
+<p>Documents are <a href="motivation/problems.html#the-host-centric-web">host-certified</a> and we refer to data by location instead of contents - for more details checkout the <a href="motivation/../introduction/host_centric.html">host-centric</a> page. Let's expand on what <a href="motivation/../introduction/data_centric.html">data-centric</a> addressing with <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> documents and an open ecosystem where data does not live in silos enables:</p>
 <!-- in addition to the host-centric page: -->
 <p>imagine being able to point to the first occurrence of a piece of content and being able to prove that there is no prior occurrence (if nobody manages to submit a hash &amp; merkle proof for an earlier block).</p>
 <p>imagine how hard it would be to push deepfake clips if the norm for clips is to share the full episode uploaded by a trusted entity with a specific range - we shouldn't accept reuploads of clips out of context</p>
 <p>no more tweets with a few screenshots of other tweets - these should be composable &amp; carrying the actual data/references/proofs</p>
 <p>we are building our digital history on <a href="https://news.ycombinator.com/item?id=27690525">shifting sands</a> without a solid foundation.**</p>
-<p>It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple
-https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
+<blockquote>
+<p>&quot;It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple&quot; - <a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">source</a></p>
+</blockquote>
 <blockquote>
 <p>Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go.
 https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/</p>
@@ -1092,6 +1093,7 @@ https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collect
 <p>Finally, self-authenticating data provides more mechanisms that can be used to establish trust. Self-authenticated data can retain metadata, like who published something and whether it was changed. Reputation and trust-graphs can be constructed on top of users, content, and services. The transparency provided by <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a> provides a new tool for establishing trust by showing precisely how the results were produced. We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products.
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 </blockquote>
+<p>web of trust</p>
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
