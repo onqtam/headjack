@@ -28,7 +28,7 @@
     - [Philosophy](motivation/philosophy.md)
     - [The ambition](motivation/ambition.md)
 
-# WORK IN PROGRESS
+# ⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇
 
 ---
 
