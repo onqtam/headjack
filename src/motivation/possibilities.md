@@ -151,7 +151,11 @@ lowest common denominator UX is fine but the power users should be able to go cr
 
 ## Authenticity
 
-<!-- One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). The consequences of that are explained in the [host-centric](../introduction/host_centric.md) addressing chapter - go take a look. -->
+One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). The consequences of that are explained in the [host-centric](../introduction/host_centric.md) addressing chapter - go take a look.
+
+Contrast that to [data-centric](../introduction/data_centric.md) addressing where data can be [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) - here are some consequences:
+
+<!-- in addition to the host-centric page: -->
 
 
 
@@ -216,7 +220,11 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
     - Market for intermediate processed results & indexes so that not everyone needs to reinvent the wheel and build the same set of algorithms and infrastructure over and over again - creating a market for the information pipeline by division of labor & specialization. Any intermediate data structure could be checked for validity based on the inputs - albeit slow. Test but verify - opaque processing rules. No more algorithmic black boxes. Batch processing - web-scale services do that all the time and plenty of work is done on results that are minutes or even hours outdated
 
 
-
+- Data can be decoupled from the presentation layer
+    - 
+    - since message types
+We can “version control” frontends and request them by URI from anywhere
+Unstoppable software/media
 
 
 
@@ -248,10 +256,6 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 
 
 
-
-Decoupling data from the presentation layer
-We can “version control” frontends and request them by URI from anywhere
-Unstoppable software/media
 
 
 
