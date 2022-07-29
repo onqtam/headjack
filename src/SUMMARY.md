@@ -4,7 +4,7 @@
     - [On-chain vs off-chain](introduction/on_off_chain.md)
     - [Guiding principles](introduction/principles.md)
     - [Identity & authorization](introduction/identity.md)
-    - [Account preferences](introduction/account_preferences.md)
+    - [Account preferences & graph](introduction/account_preferences.md)
     - [Content addressing](introduction/addressing.md)
         - [Today's web: host-centric](introduction/host_centric.md)
         - [The data-centric ledger of record](introduction/data_centric.md)
@@ -19,13 +19,13 @@
         - [Competing projects (list)](introduction/others_list.md)
         - [Shortcomings of Headjack](introduction/headjack_cons.md)
 
-- [(WIP) Motivation (why)](motivation/philosophy.md)
+- [Motivation (why)](motivation/motivation.md)
     - [Problems with the current web](motivation/problems.md)
-    - [(WIP) Benefits of this approach](motivation/benefits.md)
-
-
-    - [(WIP) Unlocked possibilities](motivation/possibilities.md)
+    - [Benefits of this approach](motivation/benefits.md)
+    - [Infrastructure improvements](motivation/infrastructure.md)
+    - [Unlocked possibilities](motivation/possibilities.md)
     - [Startup case study](motivation/startup_case_study.md)
+    - [Philosophy](motivation/philosophy.md)
     - [The ambition](motivation/ambition.md)
 
 - [(WIP) Implementation (how)](implementation/blockchain.md)
