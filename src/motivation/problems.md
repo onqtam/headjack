@@ -99,7 +99,7 @@ That is what interoperable identity, content-addressing & broadcasted data enabl
 
 This is an incredibly hairy topic with many aspects - here are just a few of them:
 
-- No clear rules for moderation & censorship - the terms of service are (intentionally?) fuzzy and an ever moving goal post. Platform accountability is practically non-existent:
+- No clear rules for moderation & censorship - the terms of service are ambiguous and an ever moving goal post. Platform accountability is practically non-existent:
     - account reach can be down-regulated through opaque techniques like [shadow banning](https://shadowban.yuzurisa.com/)
     - accounts can be removed subjectively (case in point: earlier Twitter accounts tracking Nancy Pelosi's public stock trades)
 - There is no way for users to "fork" a Reddit community if they no longer agree with the way moderation is happening - they have to recreate a new subreddit from scratch.
@@ -129,3 +129,5 @@ A non-exhaustive list of additional problems (beyond what's already listed) with
     - we [can't see other people's feeds](https://twitter.com/waitbutwhy/status/1502846781150822402) (although there's this [third-party app](https://vicariously.io/))
     - no way to opt-out of recommendations in the main feed for topics you don't care about or unrelated activity such as `X received a reply from someone you don't follow`
     - find the beginning of [this thread](https://twitter.com/lopp/status/1531668215541145601) - is that readable & usable? There should be an alternative Reddit-style interface
+
+<!-- tweets & comments without tagging is primitive and inefficient -->
