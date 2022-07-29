@@ -28,6 +28,10 @@
     - [Philosophy](motivation/philosophy.md)
     - [The ambition](motivation/ambition.md)
 
+# WORK IN PROGRESS
+
+---
+
 - [(WIP) Implementation (how)](implementation/blockchain.md)
     - [(WIP) Scaling & throughput](implementation/scaling.md)
     - [(WIP) Block & state structure](implementation/block_state_structure.md)
