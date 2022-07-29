@@ -39,7 +39,7 @@ How would this work as a web2 company?
 
 - Unclear if it should try to be its own platform or just a (browser) plugin to other platforms:
     - The platform way is more ambitious but requires a ton more work & [vertical integration](problems.md#vertical-integration-vs-specialization--competition): direct messages, a follow graph, notifications, a feed & recommendation systems, etc. Would it need to compete with YouTube & Spotify at some point? The likely [outcome](../images/startup_failure_outcome.jpg).
-    - The plugin way is a much more limited experience. How would users share links to comments & timeline ranges to others that don't have the plugin installed? How will users be notified for comments & replies?
+    - The plugin way is a much more limited experience. How would users share links to comments & timeline ranges to others that don't have the plugin installed? How will users be notified for comments & replies? You'd be completely beholden to the platforms.
 
 # How Headjack's paradigm fosters innovation
 
@@ -52,4 +52,4 @@ Contrast that to a web built around Headjack:
 
 - Interface discoverability - the moment someone with a following posts a comment through it that comment would immediately be visible to their audience on interfaces like Twitter and the URI for the comment will contain the name of the interface that was used for its generation - serving as client attribution & advertisement of the alternative interface. No need for influencers to explicitly share `"hey! check out this platform where I made a comment and make sure to follow me there"` to their audience - it'll be automatic & implicit.
 
-- No risk of platforms cutting access to their APIs to third-party apps & changing their [ToS](https://en.wikipedia.org/wiki/Terms_of_service) because in this ecosystem everything is a third-party app around unified identity and data is no longer host-certified - it is [data-centric](../introduction/data_centric.md). There are no [MOATs](https://www.investopedia.com/ask/answers/05/economicmoat.asp) & lock-in - everyone competes on competency & offering the best possible service to users.
+- No risk of platforms cutting access to their APIs to third-party apps & changing their [ToS](https://en.wikipedia.org/wiki/Terms_of_service) because in this ecosystem everything is a third-party app around unified identity and data is no longer host-certified - addressing is [data-centric](../introduction/data_centric.md). There are no [MOATs](https://www.investopedia.com/ask/answers/05/economicmoat.asp) & lock-in - everyone competes on competency & offering the best possible service to users.
