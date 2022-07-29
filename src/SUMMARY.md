@@ -4,7 +4,7 @@
     - [On-chain vs off-chain](introduction/on_off_chain.md)
     - [Guiding principles](introduction/principles.md)
     - [Identity & authorization](introduction/identity.md)
-        - [Account preferences](introduction/account_preferences.md)
+    - [Account preferences](introduction/account_preferences.md)
     - [Content addressing](introduction/addressing.md)
         - [Today's web: host-centric](introduction/host_centric.md)
         - [The data-centric ledger of record](introduction/data_centric.md)
