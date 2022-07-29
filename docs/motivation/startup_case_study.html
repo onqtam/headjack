@@ -145,15 +145,19 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="startup-case-study"><a class="header" href="#startup-case-study">Startup case study</a></h1>
-<p>We should be able to comment &amp; annotate audio &amp; video at specific points in time on the timeline.</p>
-<p>But not like SoundCloud does it (by rendering <a href="https://soundcloud.com/liluzivert/for-fun-prod-by-beatsbyjeff">tiny overlapping rectangles</a> with profile pictures that you can just hover with the cursor to see the comment) nor like YouTube (where you can write a timestamp (<code>hh:mm:ss</code>) in a comment which becomes a clickable link that fast-forwards the player and then fighting it out with the other 20 000 comments in the single linear vertically scrollable section of a 3 hour long podcast and hoping to be noticed) - both are horribly insufficient and unusable. It is extremely hard to discuss specific parts of long-form media &amp; for good localized signal to actually surface &amp; be noticed.</p>
-<p>Instead why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments &amp; annotations based on the range and display the threads below Reddit-style with sorting &amp; filtration options?</p>
-<p>Here's a screenshot of precisely that (ignore the colors &amp; bad design):</p>
+<p><strong>Problem statement</strong>: Long-form media is already the present (&amp; future) and audio/video are preferred over text by many. We should be able to comment &amp; annotate it at specific points in time on the timeline.</p>
+<p>But not like SoundCloud where <a href="https://soundcloud.com/liluzivert/for-fun-prod-by-beatsbyjeff">tiny overlapping rectangles</a> with profile pictures are rendered on the timeline that you can just hover with the cursor to see the comment nor like YouTube where you can write a timestamp (<code>hh:mm:ss</code>) in a comment which becomes a clickable link that fast-forwards the player and then fighting it out with the other 20 000 comments in the single linear vertically scrollable section of a 3 hour long podcast and hoping to be noticed - both are horribly insufficient and unusable. For both of them comments are just an afterthought - it is extremely hard to discuss specific parts of long-form media &amp; for good localized signal to actually surface &amp; be noticed.</p>
+<hr />
+<p>Instead why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments &amp; annotations based on the range and display the threads below Reddit-style with sorting &amp; filtration options? Here's a screenshot of precisely that (ignore the colors &amp; bad style):</p>
 <img src="../images/startup_case_study.png">
-<p>The ultimate audio/video player can offer a lot more than just a comment histogram:</p>
+<p>The ultimate audio/video player can offer a lot more than just a comment histogram - it has the potential to be a vibrant social experience like any other:</p>
 <ul>
 <li>1-click repositioning &amp; resizing of the filter window to timestamp ranges for different topics plotted as horizontal bars (already done)</li>
-<li>sharing links to specific ranges - as clips, but without losing the context</li>
+<li>sharing links to specific ranges - as clips, but without losing the context
+<ul>
+<li>many channels re-upload clips from longer videos - this should instead be a simple &quot;retweet&quot; of the original material with a range as a parameter</li>
+</ul>
+</li>
 <li>different types of comments: annotations, questions, personal (hidden) notes</li>
 <li>search field for within the comments that are in the current filter window</li>
 <li>crowdsourced annotations (tagging resources/events/concepts/entities)</li>
@@ -170,21 +174,42 @@
 </ul>
 <p>Here's an <a href="https://www.youtube.com/watch?v=xsJvFr9v7Nk">older video</a> showcasing this UI (can't resize the window with the mouse yet).</p>
 <h1 id="challenges-in-the-current-web2-world"><a class="header" href="#challenges-in-the-current-web2-world">Challenges in the current web2 world</a></h1>
-<p>There are many challenges for this idea to work as a web2 company:</p>
+<p>How would this work as a web2 company?</p>
 <ul>
 <li>
-<p>For it to provide value it would need many users commenting on the same video or otherwise there will be no histogram and the whole interface will be pointless. It needs a network effect - discoverability is hard.</p>
+<p>For it to provide value it would need many users commenting on the same video or otherwise there will be no histogram and the whole interface will be pointless. It needs a network effect.</p>
 </li>
 <li>
-<p>What if YouTube cuts it off &amp; disallows embedding videos via iframe?</p>
+<p>Discoverability is hard - it would require that users actively share links to it on other platforms.</p>
 </li>
 <li>
-<p>Would it need to try to become a YouTube competitor?</p>
+<p>What if YouTube/Spotify cut it off &amp; disallows embedding their players &amp; using the APIs?</p>
+</li>
+<li>
+<p>Unclear if it should try to be its own platform or just a (browser) plugin to other platforms:</p>
+<ul>
+<li>The platform way is more ambitious but requires a ton more work &amp; <a href="problems.html#vertical-integration-vs-specialization--competition">vertical integration</a>: direct messages, a follow graph, notifications, a feed &amp; recommendation systems, etc. Would it need to compete with YouTube &amp; Spotify at some point?</li>
+<li>The plugin way is a much more limited experience. How would users share links to comments &amp; timeline ranges to others that don't have the plugin installed? How will users be notified for comments &amp; replies?</li>
+</ul>
 </li>
 </ul>
 <h1 id="how-headjacks-paradigm-fosters-innovation"><a class="header" href="#how-headjacks-paradigm-fosters-innovation">How Headjack's paradigm fosters innovation</a></h1>
+<p>Contrast that to a web built around Headjack:</p>
 <ul>
-<li>?</li>
+<li>
+<p>The amount of work for this UI would be minimal - reusing components already present:</p>
+<ul>
+<li>Identity &amp; <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-on</a>, DMs, notifications, progress bars, preferences &amp; connections will all be handled by <a href="../implementation/ecosystem/IDM.html">IDMs</a>.</li>
+<li>The heavy lifting (processing &amp; indexing all broadcasted events) will be handled by infrastructure services which will charge the interface just the right amount for the sets of API calls &amp; indexes that it needs.</li>
+<li>The costs &amp; team required to implement this UI will be minimal and they'd need to focus on delivering value to users and nothing else. This will lower the barrier to entry and unlock better UX &amp; functionality - many more niche needs will be addressed.</li>
+</ul>
+</li>
+<li>
+<p>Interface discoverability - the moment someone with a following posts a comment through it that comment would immediately be visible to their audience on interfaces like Twitter and the URI for the comment will contain the name of the interface that was used for its generation - serving as client attribution &amp; advertisement of the alternative interface. No need for influencers to explicitly share <code>&quot;hey! check out this platform where I made a comment and make sure to follow me there&quot;</code> to their audience - it'll be automatic &amp; implicit.</p>
+</li>
+<li>
+<p>No risk of platforms cutting access to their APIs to third-party apps &amp; changing their <a href="https://en.wikipedia.org/wiki/Terms_of_service">ToS</a> because in this ecosystem everything is a third-party app around unified identity and data is no longer host-certified - it is <a href="../introduction/data_centric.html">data-centric</a>. There are no <a href="https://www.investopedia.com/ask/answers/05/economicmoat.asp">MOATs</a> &amp; lock-in - everyone competes on competency &amp; offering the best possible service to users.</p>
+</li>
 </ul>
 
                     </main>
