@@ -1,14 +1,14 @@
 # Problems with the current web
 
-Today's web is broken on many fronts. This page provides a non-exhaustive list of some of the most obvious problems, most of which can be improved or completely solved in Headjack's paradigm, but even this is just scratching the surface - the unlocked possibilities & improvements are explored further in the other pages of this motivational chapter.
+This is a non-exhaustive list of some of the most obvious problems.
 
 ## The host-centric web
 
-One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). The consequences of that are explained in the [host-centric](../introduction/host_centric.md) addressing chapter - go take a look.
+One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). The consequences of that are explained in the [host-centric page](../introduction/host_centric.md) of the addressing chapter - go take a look.
 
 ## Black boxes & algorithmic bias
 
-The interest graph & recommendation algorithms are the architecture of virality - the dynamics of amplification & interaction dictate how ideas surface, propagate, compound & evolve. The people writing the algorithmic feeds are the most powerful in the world - [@naval](https://youtu.be/3qHkcs3kG44?t=3616).
+The recommendation algorithms & the interest graph are the architecture of virality - the dynamics of amplification & interaction dictate how ideas surface, propagate, compound & evolve. The people writing the algorithmic feeds are the most powerful in the world - [@naval](https://youtu.be/3qHkcs3kG44?t=3616).
 
 Ephemeral experiences such as search suggestions & results leave no trace and it's extremely hard to prove bias as [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies) would [attest](https://open.spotify.com/episode/4q0cNkAHQQMBTu4NmeNW7E) - there is 0 accountability.
 
@@ -16,7 +16,7 @@ Ephemeral experiences such as search suggestions & results leave no trace and it
 
 Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
 
-Another problem is the discounting of explicit user preferences such as subscriptions & the interest graph (following/connections) in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all respond to outrage & enjoy the occasional viral cat video but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
+The explicit user preferences such as subscriptions & the interest graph (following/connections) are routinely discounted in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all respond to outrage & enjoy the occasional viral cat video but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
 
 <!-- addictive social media - toxic -->
 
