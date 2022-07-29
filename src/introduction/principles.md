@@ -2,7 +2,7 @@
 
 There are 5 guiding principles when aiming for mass adoption & parity on convenience & UX with Web2 services:
 
-- Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be [obvious & provable](../implementation/scaling.md) if entrepreneurs are expected to jump on the opportunity. The easiest mental model will win over developers - opinionated frameworks with a concrete direction are much simpler than a sea of standards, libraries & chains.
+- Aggregation and scale cannot be an afterthought - must be scalable to billions of users and that must be [obvious & provable](../introduction/numbers.md) if entrepreneurs are expected to jump on the opportunity. The easiest mental model will win over developers - opinionated frameworks with a concrete direction are much simpler than a sea of standards, libraries & chains.
 
     - >"Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
