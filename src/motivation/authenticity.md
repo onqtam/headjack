@@ -57,10 +57,10 @@ https://perma.cc/JA33-F7F9?type=image
 
 We don't need oracles, tokens, automatic on-chain settlement & markets through smart contracts to build reputation systems for predictions - all we need is to immutably sequence predictive messages that are authentically linked to identity, process the data and provide our results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.
 
-Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous `"this is not financial advice"`. We can self-regulate the crypto & financial industries - steps:
+Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous `"this is not financial advice"`. We can self-regulate the crypto & financial industries bottom-up in a decentralized way - steps:
 1. come up with the base set of extensible prediction message types
 2. build the tools that plot predictions versus a price feed
-3. demand bottom-up that influencers use the specific types of messages for predictions
+3. demand that influencers use the specific types of messages for predictions
 4. refuse to listen to accounts that don't use that format and build the habit to check track records before listening to someone - this can (and will) become a social norm
 5. let the [chips fall where they may](https://twitter.com/TSLAgang/status/1433896307702353921)
 
