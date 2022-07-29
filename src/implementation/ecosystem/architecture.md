@@ -147,7 +147,6 @@ https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my
 
 https://en.wikipedia.org/wiki/Gravatar
 
-There will be multiple competing versions of something like Google's Page Rank algorithm on this global dataset.
 
 
 traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first

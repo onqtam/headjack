@@ -2,6 +2,8 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
+TODO: obsolete?
+
 
 https://spec.dsnp.org/DSNP/Announcements.html
 

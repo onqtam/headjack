@@ -236,6 +236,7 @@ https://youtu.be/FV5SqIm5e90?t=4631
 
 Finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), media is the battleground of ideas.
 
+We can build systems that show the overlap of communities and not focus only on the differences - bridging the gap and making “the others” less foreign
 
 
 
@@ -274,3 +275,5 @@ the way to end polarization is by allowing us to choose and display what unites 
 https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/
 
 
+
+"Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)

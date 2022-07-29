@@ -200,7 +200,12 @@ There will be a marketplace for every vertical - we need to democratize speciali
 
 
 
-
+concept namespaces - being able to address by index things in a database from account
+imdb haedjack idx: 566
+the matrix:
+    https://www.imdb.com/title/tt0133093/
+    566/schema/<movie_schema_number>/0133093
+    contrast `<account_index>/<some_string_like_schema>` to `<account_index>/<integer_nonce>`
 
 
 wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item

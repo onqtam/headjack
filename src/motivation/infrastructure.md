@@ -13,6 +13,8 @@ TODO: Multiple points to retrieve content - redundancy
 - Currently ephemeral experiences such as search suggestions leave no trace and it's extremely hard to prove bias as [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies) would attest - competition & a lower barrier to entry are direly needed.
 - The range of sophistication of search engines would span the full spectrum - from the data center scale to software that you can run locally at home and most will be specialized - [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique).
 
+<!-- There will be multiple competing versions of something like Google's Page Rank algorithm on this global dataset. -->
+
 ## The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
 - It will no longer need to actively poll all websites on earth periodically & check for changes and save snapshots - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.

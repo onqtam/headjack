@@ -23,6 +23,8 @@ It also specifies protocols & standards for connections, DMs, message types, etc
 
 TODO: link to the pillars
 
+This book lays out a blueprint and yet the core technology is minimal and unopinionated
+
 What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.
 
 a blueprint for the future web
@@ -45,16 +47,17 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
 1. [On-chain vs off-chain](introduction/on_off_chain.md)
 2. [Guiding principles](introduction/principles.md)
 3. [Identity & authorization](introduction/identity.md)
-4. [Account preferences & graph](introduction/account_preferences.md)
-5. [Content addressing](introduction/addressing.md)
+4. [Messages](introduction/messages.md)
+5. [Account preferences & graph](introduction/account_preferences.md)
+6. [Content addressing](introduction/addressing.md)
     1. [Today's web: host-centric](introduction/host_centric.md)
     2. [The data-centric ledger of record](introduction/data_centric.md)
     3. [Blob structure & addressing](introduction/blob_structure.md)
     4. [Persistent & provable URIs](introduction/uris.md)
     5. [Names & paths](introduction/names_and_paths.md)
-6. [Web-scale & UX](introduction/web_scale.md)
-7. [Numbers](introduction/numbers.md)
-8. [Competition](introduction/competition.md)
+7. [Web-scale & UX](introduction/web_scale.md)
+8. [Numbers](introduction/numbers.md)
+9. [Competition](introduction/competition.md)
     1. [What others get wrong](introduction/others_cons.md)
     2. [What Headjack gets right](introduction/headjack_pros.md)
     3. [Competing projects (list)](introduction/others_list.md)
