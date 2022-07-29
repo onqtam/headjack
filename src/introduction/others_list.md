@@ -158,13 +158,6 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - Their initial growth was fueled by huge sums of VC money but by now it has [flatlined](https://www.openprosper.com/stats/deso-dashboard). It did reach [1.66$ billion market cap](https://www.coingecko.com/en/coins/deso) on the 2nd of October 2021 shortly after being listed.
 
-<!-- 
-https://twitter.com/pseudotheos/status/1537876807466201088
-"Even a billion dollars of capital cannot compete with a project having a soul." - 
-@VitalikButerin
-https://vitalik.ca/general/2020/12/28/endnotes.html
--->
-
 ### Others
 
 For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid & others please refer to the excellent [ecosystem review](https://twitter.com/bluesky/status/1352302821140549632) by the Bluesky project. Other good resources include:
