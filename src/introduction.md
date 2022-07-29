@@ -46,6 +46,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
     4. [Persistent & provable URIs](introduction/uris.md)
     5. [Names & paths](introduction/names_and_paths.md)
 5. [Web-scale & UX](introduction/web_scale.md)
+5. [Numbers](introduction/numbers.md)
 6. [Competition](introduction/competition.md)
     1. [What others get wrong](introduction/others_cons.md)
     2. [What Headjack gets right](introduction/headjack_pros.md)

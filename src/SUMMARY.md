@@ -11,6 +11,7 @@
         - [Persistent & provable URIs](introduction/uris.md)
         - [Names & paths](introduction/names_and_paths.md)
     - [Web-scale & UX](introduction/web_scale.md)
+    - [Numbers](introduction/numbers.md)
     - [Competition](introduction/competition.md)
         - [What others get wrong](introduction/others_cons.md)
         - [What Headjack gets right](introduction/headjack_pros.md)
