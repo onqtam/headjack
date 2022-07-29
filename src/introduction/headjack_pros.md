@@ -2,7 +2,7 @@
 
 - A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double-spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
 
-- [Napkin math for web-scale](../implementation/scaling.md) is clear and front and center.
+- [Napkin math for web-scale](../introduction/numbers.md) is clear and front and center.
 
 - Best [UX](https://en.wikipedia.org/wiki/User_experience)/[DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](../implementation/ecosystem/IDM.md)) for on-chain authorization of interfaces. A global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
     - Users don't need keys & signatures and also don't care about the costs either.
