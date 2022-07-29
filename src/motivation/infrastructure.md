@@ -28,4 +28,6 @@ TODO: Multiple points to retrieve content - redundancy
     - Your startup idea cant afford the infrastructure to process 100mb/s of ephemeral data? Pay a service a small fee for a subset of data you’re interested in for your PoC
     - Market for intermediate processed results & indexes so that not everyone needs to reinvent the wheel and build the same set of algorithms and infrastructure over and over again - creating a market for the information pipeline by division of labor & specialization. Any intermediate data structure could be checked for validity based on the inputs - albeit slow. Test but verify - opaque processing rules. No more algorithmic black boxes. Batch processing - web-scale services do that all the time and plenty of work is done on results that are minutes or even hours outdated
 
-
+computed & verifiable views?
+https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
+link to authenticity page

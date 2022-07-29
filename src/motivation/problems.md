@@ -4,7 +4,7 @@ This is a non-exhaustive list of some of the most obvious problems.
 
 ## The host-centric web
 
-One major problem of the current internet networking architecture is that data is host-certified and everything is centered around the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle). The consequences of that are explained in the [host-centric page](../introduction/host_centric.md) of the addressing chapter - go take a look.
+One major problem of the current internet architecture is that documents are host-certified and communication happens through the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle) - we refer to data by location instead of contents. The consequences are explained in the [host-centric](../introduction/host_centric.md) page (contrast that to [data-centric](../introduction/data_centric.md)).
 
 ## Black boxes & algorithmic bias
 
