@@ -13,7 +13,7 @@ TODO: get the related parts of the possibilities page in here and link to this p
 
 
 
-TODO: Multiple points to retrieve content - redundancy
+
 
 platform attribution - advertising 
 Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URIs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before & are curious or if their current interface doesn't fully support a given message type).

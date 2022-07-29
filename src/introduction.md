@@ -5,6 +5,12 @@ Headjack is an [open state database](https://twitter.com/balajis/status/11230928
 <!-- 
 TODO:
 
+
+- "An act of creation is fundamentally different from an act of transfer."
+
+sovereign identity & data-centric addressing are the bedrock of the future web
+
+
 In Headjack identity is simply a number.
 
 Identity means different things depending on the context but at the end of the day at the root of it there is an identifier - any type of use case specialization can be built around that - KYC is orthogonal to having identity & being able to associate content to it for online publishing at web-scale - there are no limits to the amount of content that can be created & addressed - both in terms of quantity and size.
@@ -39,7 +45,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
 1. [On-chain vs off-chain](introduction/on_off_chain.md)
 2. [Guiding principles](introduction/principles.md)
 3. [Identity & authorization](introduction/identity.md)
-4. [Account preferences](introduction/account_preferences.md)
+4. [Account preferences & graph](introduction/account_preferences.md)
 5. [Content addressing](introduction/addressing.md)
     1. [Today's web: host-centric](introduction/host_centric.md)
     2. [The data-centric ledger of record](introduction/data_centric.md)
