@@ -1,8 +1,6 @@
 # Motivation (why)
 
-Headjack is an information network. It solves identity & universal sign-on. It is an addressability layer that is agnostic to the means of delivery. It is an index and a historian - the [ledger of record](https://twitter.com/balajis/status/1459140902144729088).
-
-The following sub-chapters convey the idea (**what**) and a high-level view of how it works:
+The web is broken on many fronts - this chapter explores most problematic aspects and how they can be either improved or even completely solved. In addition to that, Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't even conceivable before.
 
 1. [Problems with the current web](../motivation/problems.md)
 2. [Benefits of this approach](../motivation/benefits.md)
