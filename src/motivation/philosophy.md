@@ -82,9 +82,6 @@ https://guide.getzion.com/inspiration-for-zion
 The Importance of Gossip Across Societies: Correlations With Institutionalization
 https://journals.sagepub.com/doi/abs/10.1177/1069397114554383?journalCode=ccrc&
 
-lets try to achieve consensus on ground truth with the ledger of record
-https://en.wikipedia.org/wiki/Ground_truth
-
 Organizing the information on the internet better
 Separating signal from noise.
 
