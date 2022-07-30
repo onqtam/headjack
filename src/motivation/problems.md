@@ -107,8 +107,6 @@ This is an incredibly hairy topic with many aspects - here are just a few of the
 - There is no way for users to "fork" a Reddit community if they no longer agree with the way moderation is happening - they have to recreate a new subreddit from scratch.
 - There is no market for solving certain types of spam such as financial scams - Twitter & YouTube are riddled with templatized messages and their internal [vertically integrated](#vertical-integration-vs-specialization--competition) teams are unable to deal with yet another problem in a world-class manner. In an open system such as e-mail the competition & innovation for solving spam has been tremendous.
 
-<!-- spammy/scam bot messages? youtube? twitter? reddit? crypto? -->
-
 ## Problems with specific platforms
 
 A non-exhaustive list of additional problems (beyond what's already listed) with some platforms:
