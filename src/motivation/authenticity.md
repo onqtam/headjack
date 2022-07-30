@@ -13,8 +13,6 @@ We'll be able to more easily [address parts of documents](../introduction/names_
 
 TODO:
 
-ledger of record
-
 we are building our digital history on [shifting sands](https://news.ycombinator.com/item?id=27690525) without a solid foundation.**
 
 > "Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
@@ -42,17 +40,16 @@ the internet archive does not provide any cryptographic authenticity guarantees
 no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
 
 
-## Falsification of data as a business model
-
-The lack of document authentication can be exploited - ["Shedding light on fraudulent takedown notices"](https://perma.cc/5ZC2-P4JM)
 
 
-https://perma.cc/5ZC2-P4JM
-https://perma.cc/JA33-F7F9?type=image
 
 
+The lack of document authentication is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/)
 
 > "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+<!-- https://medium.com/berkman-klein-center/lumen-research-in-the-news-texas-ag-sues-ca-company-over-falsified-court-orders-business-model-a69286924913 -->
+
 
 ## Verifiable credentials
 
@@ -88,6 +85,8 @@ Perhaps the reputation system can be abused - by making 100 accounts and buildin
 TODO:
 https://twitter.com/balajis/status/1360413999712538627
 
+
+ledger of record
 
 
 
