@@ -5,9 +5,9 @@ list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web
 
 ## Deduplicating documents & traceability
 
-An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion of content will be much less fractured between platforms and posts - leading to greater depth & nuance.
+An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion will be much less fractured between platforms and posts - leading to greater depth.
 
-We'll be able to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy as it currently is to crop & re-upload (or even easier) then it will become the norm - we'll all prefer not losing the context. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to fight - tracing the source of content authentically to identity is important & desirable.
+We'll be able to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy (or even easier) as it currently is to crop & re-upload, then it will become the norm - we'll all prefer not losing the context. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to fight - tracing the source of content authentically to identity is important & desirable.
 
 ## Viewing the history of edits of documents
 
@@ -53,6 +53,16 @@ https://perma.cc/JA33-F7F9?type=image
 
 
 > "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+## Verifiable credentials
+
+TODO:
+
+Verifiable credentials
+https://en.wikipedia.org/wiki/Verifiable_credentials
+https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations
+
+
 
 ## Reputation systems
 
