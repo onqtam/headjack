@@ -5,7 +5,7 @@ Forcing connections to go on-chain just to make blockspace valuable feels arbitr
 
 
 TODO: should the blockchain keep all mappings in its state forever?
-
+    if there is state rent, anyone should be able to top-up any account
 
 
 
@@ -35,11 +35,10 @@ TODO: do the math on how big the state would be with 1k interfaces and 1 million
 - What if the interface web2 website is no longer around?
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
 - Topics such as $RUNE & hashtags - how do they get parsed?
-- Discord, signal protocol
-- TODO: Q: is multi-dimentionality required if people use different interfaces for different types of content?
-- if enough things move to the ID managers... what if the public connections go there too? moving closer & closer to farcaster's design... what if the blockchain isn't necessary? :|
-- TODO: this is for public discourse - not private networks like facebook/snap.
-- Too many acms and what if someone logs with an interface - how to merge?
+
+
+
+- merge accounts?
 
 
 - users will want everything from creators, but interfaces won't be able to lock in their users so they might dislike the system? misaligned incentives?
@@ -127,9 +126,6 @@ https://www.reddit.com/r/siacoin/comments/lg9qr0/what_is_skynet_why_should_i_bui
 https://www.reddit.com/r/ipfs/comments/jf073z/filecoin_isnt_an_incentivization_network_for_ipfs/
 
 
-TODO: think about credentials and all that's going on around them...
-
-
 TODO: read & think about permissions, sub-app/domain authorization, private data, "Data Access Controllers", "data domain"
 https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
 
@@ -144,9 +140,6 @@ https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
 https://www.youtube.com/watch?v=RGJOQHzg3UQ
 https://vitalik.ca/general/2021/06/18/verkle.html
 
-
-
-could a user self-publish without going though an interface? Why not?
 
 
 https://blog.ceramic.network/capability-based-data-security-on-ceramic/
@@ -186,14 +179,12 @@ https://ipld.io/docs/schemas/
 In the spirit of [Rule 34](https://en.wikipedia.org/wiki/Rule_34): `"if something exists - it is anchored in Headjack"`.
 
 
-https://vitalik.ca/general/2022/06/12/nonfin.html
-But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
-https://www.opencerts.io/
-
 
 TODO: think about if retroactive revocation is good or just complicates things. Other projects explicitly don't allow it - instead they use tombstones (specific messages) to signal that content was not authorized. What about changes to user's interest graph though?
 https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
     TODO: Offchain Tombstones are worse than on-chain retroactive revocations because proofs for old block heights need to be invalidated - they shouldn't be possible from the latest block height
+
+    on chain retroactive revocation is important (for up to a week) because otherwise with off-chain tombstones the chain will still be able to generate valid proofs for invalid content as the chain doesn't see anything off of it
 
 
 - can CRDTs be used like in farcaster?

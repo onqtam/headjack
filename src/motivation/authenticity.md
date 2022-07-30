@@ -3,30 +3,45 @@
 In the current web documents are [host-certified](problems.md#the-host-centric-web) and we refer to data by location instead of contents - checkout the [host-centric](../introduction/host_centric.md) page. Here we'll further expand on problems with the status quo and 
 list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](../introduction/data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents in an open ecosystem with freely shared public data tied to identity.
 
+## Authentic documents
+
+no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
+
+
+
+lets try to achieve consensus on ground truth with the ledger of record
+https://en.wikipedia.org/wiki/Ground_truth
+
+
+TODO:
+https://twitter.com/balajis/status/1360413999712538627
+
+
+ledger of record
+
+
+
+
+
+Anyone might have saved a specific document or its update locally along with the necessary proofs for its authenticity even if most infrastructure no longer stores/serves it. There is a `1 of N` guarantee which is important as it allows documents that someone wants buried to be passed around with proofs and resurface in the public at a later point - improving accountability.
+
+---
+
+The lack of document authenticity is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/).
+
+> "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+<!-- https://medium.com/berkman-klein-center/lumen-research-in-the-news-texas-ag-sues-ca-company-over-falsified-court-orders-business-model-a69286924913 -->
+
 ## Deduplicating documents & traceability
 
 An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion will be much less fractured between platforms and posts - leading to greater depth.
 
-We'll be able to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy (or even easier) as it currently is to crop & re-upload, then it will become the norm - we'll all prefer not losing the context. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to fight - tracing the source of content authentically to identity is important & desirable.
+We'll be able to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy (or even easier) as it currently is to crop & re-upload, then it will become the norm - we'll all prefer not losing the context. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to spot & fight - tracing the source of content authentically to identity is important & desirable.
 
-## Viewing the history of edits of documents
+## The history of document updates
 
-TODO:
-
-we are building our digital history on [shifting sands](https://news.ycombinator.com/item?id=27690525) without a solid foundation.**
-
-> "Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
-
-> "It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple" - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
-
-We need to make it simpler to prove authenticity & show the history of edits
-
-As git
-
-> "The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
-
-lets try to achieve consensus on ground truth with the ledger of record
-https://en.wikipedia.org/wiki/Ground_truth
+Today's web puts authenticity & certification of documents in the [hands of hosts](../introduction/host_centric.md) which can [do whatever they want](https://news.ycombinator.com/item?id=27690525) and rarely provide the option to see previous versions if edits have been made. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and is also susceptible to compromise.
 
 
 <!--
@@ -34,21 +49,12 @@ Wikipedia has changed the definition of recession.
 https://twitter.com/unusual_whales/status/1552795537052618752
 -->
 
-the internet archive does not provide any cryptographic authenticity guarantees
 
+> "It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple" - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
-no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
+> "Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
-
-
-
-
-
-The lack of document authentication is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/)
-
-> "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
-
-<!-- https://medium.com/berkman-klein-center/lumen-research-in-the-news-texas-ag-sues-ca-company-over-falsified-court-orders-business-model-a69286924913 -->
+In Headjack updates to URIs are broadcasted but the previous versions remain - interfaces ought to display the latest state but should allow browsing the entire history of changes - like using Git.
 
 
 ## Verifiable credentials
@@ -59,6 +65,9 @@ Verifiable credentials
 https://en.wikipedia.org/wiki/Verifiable_credentials
 https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations
 
+https://vitalik.ca/general/2022/06/12/nonfin.html
+But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
+https://www.opencerts.io/
 
 
 ## Reputation systems
@@ -82,15 +91,10 @@ Perhaps the reputation system can be abused - by making 100 accounts and buildin
 
 
 
-TODO:
-https://twitter.com/balajis/status/1360413999712538627
-
-
-ledger of record
 
 
 
 
 
 
-
+<!-- > "The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/) -->

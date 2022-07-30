@@ -2,7 +2,7 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-
+The most powerful person in the world is the story teller. The storyteller sets the vision, values, and agenda of an entire generation that is to come - steve jobs
 
 
 
@@ -38,8 +38,6 @@ sequencing & discoverability is valuable. The ability for any piece of informati
 
 information theory and physics are interlinked. In the physical world signals traverse based on the natural laws but memetic ideas spread thanks to human-manipulated means - we don't have fair means of dissipation of information. We can't make sense of the world together. We can't coordinate
 
-
-The most powerful person in the world is the story teller. The storyteller sets the vision, values, and agenda of an entire generation that is to come - steve jobs
 
 Finance and media are the bedrock of society.
 
