@@ -3,6 +3,12 @@
 In the current web documents are [host-certified](problems.md#the-host-centric-web) and we refer to data by location instead of contents - checkout the [host-centric](../introduction/host_centric.md) page. Here we'll further expand on problems with the status quo and 
 list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](../introduction/data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents in an open ecosystem with freely shared public data tied to identity.
 
+## Deduplicating documents & traceability
+
+An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion of content will be much less fractured between platforms and posts - leading to greater depth & nuance.
+
+We'll be able to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy as it currently is to crop & re-upload (or even easier) then it will become the norm - we'll all prefer not losing the context. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to fight - tracing the source of content authentically to identity is important & desirable.
+
 ## Viewing the history of edits of documents
 
 TODO:
@@ -35,12 +41,6 @@ the internet archive does not provide any cryptographic authenticity guarantees
 
 no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
 
-
-## Deduplicating documents
-
-An open paradigm with content addressing where data is shared between services would enable us to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as a clip which breaks the contextual link. If this becomes as easy as it currently is to crop & re-upload (or even easier) then it will become the norm - we'll all prefer not losing the context - tracing the source of content authentically to identity is important & desirable.
-
-We'll also be able to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion of content will be much less fractured and with greater depth & nuance. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to fight.
 
 ## Falsification of data as a business model
 
