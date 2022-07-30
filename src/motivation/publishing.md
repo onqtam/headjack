@@ -16,6 +16,9 @@ the future of publishing - books, articles & interactive content graphs
 logseq, bookmarks
 
 
+Imagine what Balaji could do if he had everything easily referencable through a logseq-like interface
+
+
 on books:
 https://twitter.com/FEhrsam/status/1304217384962592769
 

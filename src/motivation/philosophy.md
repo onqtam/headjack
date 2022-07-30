@@ -2,19 +2,26 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-The most powerful person in the world is the story teller. The storyteller sets the vision, values, and agenda of an entire generation that is to come - steve jobs
+> "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
+
+> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
+
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
+
+> "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
+
+Headjack's mission is to make identity & data interoperable which will end network effect monopolies & data silos - unlocking creativity & innovation in media.
+
+Identity & the social graph belong to no one
 
 
 
 
-Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”
-https://www.britannica.com/biography/Douglas-Engelbart
 
 
 
 
 
-true uncensorability. The next philosopher to push humanity forward will be anonymous and global. Imagine not checking out what others are checking out more and more - what are the trends. IMAGINE NOT BEING ABLE TO SEE what others are finding most interesting. Most people are rational - let's see what gets the most attention from everyone.
 
 
 
@@ -37,24 +44,22 @@ human evolution is 99.9% memetic at this point - everything important is in our 
 
 
 
-We need everything that needs to bubble up to the top to do so.
-sequencing & discoverability is valuable. The ability for any piece of information to bubble up TO THE ABSOLUTE TOP is.. VALUABLE
-
 information theory and physics are interlinked. In the physical world signals traverse based on the natural laws but memetic ideas spread thanks to human-manipulated means - we don't have fair means of dissipation of information. We can't make sense of the world together. We can't coordinate
 
 
-Finance and media are the bedrock of society.
 
 
 
-
-
-
-the trust machine may bootstrap the truth machine - where it is incentivized to pop up to the top and the only thing that makes things grow is actually being more interesting & important. HEATMAP of links!
+visualize the global HEATMAP of interests
 
 
 
 Anyone will be able to follow a story locally - even with the files being deleted one after another - each time just the diff will be uploaded and you'll be notified for events relating to an address and have the ability to download it and apply it locally. This is an uncensorable global conversation.
+
+
+"Information wants to be free"
+https://en.wikipedia.org/wiki/Information_wants_to_be_free
+
 
 the same piece of data may pop up multiple times throughout time through different sources - unkillable evidence - one which may live offline for a period and resurface. THERE NEEDS TO BE A GLOBAL HASH INDEX OF EVERYTHING THAT'S BEEN EVER TAGGED?
 
@@ -63,15 +68,13 @@ I want to tag/link/index/sequence all data. I want the truth to bubble up.
 
 
 
-imagine being mad at your operating system because it has an agenda of its own. We are currently mad because media doesn't get the truth across but in fact there is no truth protocol for media - that's why they are bought - media cannot survive without its funding. Imagine building the OS that could show anyone where the hottest links of referencing are - where we are all collectively shining with attention -. Such a system will make it so the most pressing problems would surface the fastest to our collective consciousness. This is the unification
+imagine being mad at your operating system because it has an agenda of its own. We are currently mad because media doesn't get the truth across but in fact there is no truth protocol for media - that's why they are bought - media cannot survive without its funding. Imagine building the OS that could show anyone where the hottest links of referencing are - where we are all collectively shining with attention -. Such a system will make it so the most pressing problems would surface the fastest to our collective consciousness.
 
 
 
 Linked data is essential for discoverability & ingestion of information - this gitbook is an example of that - contrast to what it would be if it was a linear whitepaper. The whole web can be interlinked like this.
 
 
-
-Imagine what Balaji could do if he had everything easily referencable through a logseq-like interface
 
 
 
@@ -90,14 +93,11 @@ we need to establish objective reality
 we shouldn't need steven pinker to make lectures titled "rationality saves lives"
 imagine developing a publicly-developed wiki where we collaborate on trying to figure out the best set of documents - the rules that everyone should see.
 
-"Information wants to be free"
-https://en.wikipedia.org/wiki/Information_wants_to_be_free
-
 ## Transparency & openness
 
 Imagine seeing both the data and the algorithms running on that data & being able to check the results for yourself
 
-Identity & the social graph belong to no one
+
 
 Sunlight is the best disinfectant
 
@@ -136,11 +136,6 @@ Any of the mentioned articles or quotes by ppl like balaji should have been a no
 
 
 
-"Politics is Downstream from Culture"
-"culture is downstream from technology"
-
-Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity.
-https://twitter.com/naval/status/790443306886926337
 
 
 
@@ -156,14 +151,6 @@ https://twitter.com/naval/status/790443306886926337
 
 
 
-
-
-
-
-
-
-Google's mission is to organize the world's information and make it universally accessible and useful.
-Headjack's mission is to end network effect monopolies & data silos & make identity & data interoperable.
 
 
 
@@ -253,14 +240,9 @@ Imagine being able to select prisms 2, r and 7 - as filters. Clients can be comp
 
 We need to collectively regulate what is in our media - by choice. By competing public algo and by client attribution.
 
-Client attribution is the killer feature
-
-Predstavi si kak vsichki lokalno puskat neptiqtni neshta - shte iskame publichna versiq koqto gi down regluate-va i bihme iskali da review-nem algorituma za bias. Vkarai ideqta za pipelines na data za web infra - verifiable indexes
+Client attribution is the killer feature.
 
 
-
-We can choose our collective shared experience - freedom of information and direct vote for moral values
-> "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
 
 
 Moderation filters will simply be that - collections of preferences that users can choose to amplify or die down
@@ -277,4 +259,4 @@ https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trus
 
 
 
-"Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
+> "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
