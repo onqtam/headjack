@@ -49,7 +49,6 @@ Finance and media are the bedrock of society.
 
 
 
-the only way to pay for open data is to make a currency that whoever owns it benefits from being on it. Make the voice of people unsilence-able - something pops up - immediately a few people copy it so even if the original goes down - the idea can be re-referenced by others anonymously - until it picks up steam and gets nocited by more
 
 the trust machine may bootstrap the truth machine - where it is incentivized to pop up to the top and the only thing that makes things grow is actually being more interesting & important. HEATMAP of links!
 
