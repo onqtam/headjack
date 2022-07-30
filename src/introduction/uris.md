@@ -24,7 +24,7 @@ Users should be able to check the URI of content even if created through a diffe
 
 Edits & updates to content come as [messages](../implementation/ecosystem/messages.md) with new unique URIs that reference the older message URIs and it is up to interfaces to properly display the context that there have been changes and perhaps the ability to view the old or automatically redirect to the latest. "Forks" are possible but they represent interface failure to detect that an old version is being edited.
 
-# How to retrieve blobs & specific content
+# How to retrieve blobs & content for a URI
 
 There are multiple ways to retrieve blobs & content for specific URIs from the past:
 - The original [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) might still be retrievable from the original interface account that posted it or any other that has pinned the data.
@@ -32,10 +32,11 @@ There are multiple ways to retrieve blobs & content for specific URIs from the p
 - Other well-known players without a direct on-chain connection to the interface/user in a URI could be asked if they have the content:
     - Infrastructure companies that do the heavy lifting for interfaces and store everything.
     - The analog of the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) in this ecosystem also stores everything.
+- IPFS can be forked & reused with the following change: instead of delivering content based on the [CID](https://docs.ipfs.tech/concepts/content-addressing/) hash it can deliver the data + the necessary merkle proofs based on the hash of Headjack URIs - that way any individual off-chain message that has been anchored would be retrievable as long as someone is willing to serve it in the forked p2p network, which will need to be bootstrapped (could be a part of Headjack nodes). However, this is not to be expected to be super performant due to the granular nature of individual messages with a URI and the use of a global [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table).
+
+---
 
 Interface accounts can point on-chain to a traditional host which should be used to display content published through them. As you'll see in the next chapter interface names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly into your browser as long as they own the same domain in the traditional [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) and they should be able to serve a webpage displaying the specific piece of content.
-
-<!-- TODO: 1 of N required to prove authenticity of a uri -->
 
 <!--
 # On proof permanence
