@@ -1,4 +1,4 @@
-# The data-centric ledger of record
+# Data-centric addressing
 
 [Data-centric computing](https://en.wikipedia.org/wiki/Data-centric_computing) is an emerging concept that has relevance in information architecture and data center design - data is stored independently of the applications, which can be upgraded without costly and complicated data migration. This is a radical shift in information systems that will be needed to address organizational needs for storing, retrieving, moving, and processing exponentially growing data sets. It increases agility by prioritizing data transfer and data computation. Applications become short-lived, constantly added, updated, or removed as algorithms come and go.
 
@@ -18,10 +18,6 @@
 
 [Named Data Networking](https://en.wikipedia.org/wiki/Named_data_networking) (NDN) is a [Future Internet](https://en.wikipedia.org/wiki/Future_Internet) architecture that builds on top of the previous ideas (& an incarnation of ICN) and in which data is requested by name and routed by the network. However, there are many unsolved challenges with it like the need to reimplement foundational routing infrastructure to make it stateful and hierarchically structured names which require a root name authority to link them to keypairs - outside of its scope. Here's [a great lecture](https://www.youtube.com/watch?v=oCZMoY3q2uM) on the topic.
 
-# Enter Headjack - the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
+# Enter Headjack
 
 Headjack is a weird amalgamation inspired by everything above - it provides human-readable & persistent [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) for self-authenticating data (with [Merkle proofs](https://medium.com/crypto-0-nite/merkle-proofs-explained-6dd429623dc5) & the blockchain) along with the means for its retrieval without forcing a specific way ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) is just one option). It acts as the web-scale global index used to check the authenticity of documents (requires consulting with the chain), ownership of names, key management & sequence of events throughout time. It is an addressability layer on top of the current host-centric internet technologies.
-
-TODO: move the bullishness to the ambition page
-
-It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it, coupled with identity, names, authorization management, connections & sequencing - giving birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority - truth anyone can computationally verify.

@@ -21,6 +21,8 @@ We need to persistently link activity with identity to build reputation systems
 https://blog.ceramic.network/into-the-dataverse/
 
 
+It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it
+
 https://twitter.com/punk6529/status/1448399827054833668
 https://twitter.com/punk6529
 https://6529.io/ -->
