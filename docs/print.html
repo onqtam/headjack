@@ -324,7 +324,7 @@ Its ok to trust by default as long as there is a fallback option</p>
 <p>The move from host-centric to data-centric addressing is a complete paradigm shift by itself but Headjack intertwines that with names and on-chain authorization &amp; sequencing of anchors resulting in the best possible <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">URIs</a> in terms of human-readability &amp; persistence - perhaps the most important aspect of the project. This chapter is broken down into a few sub-chapters:</p>
 <ol>
 <li><a href="introduction/host_centric.html">Today's web: host-centric</a></li>
-<li><a href="introduction/data_centric.html">The data-centric ledger of record</a></li>
+<li><a href="introduction/data_centric.html">Data-centric addressing</a></li>
 <li><a href="introduction/blob_structure.html">Blob structure &amp; addressing</a></li>
 <li><a href="introduction/uris.html">Persistent &amp; provable URIs</a></li>
 <li><a href="introduction/names_and_paths.html">Names &amp; paths</a></li>
@@ -810,7 +810,7 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 </li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="motivation-why"><a class="header" href="#motivation-why">Motivation (why)</a></h1>
-<p>The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Furthermore, Headjack's paradigm is an architectural reset of the web &amp; opens doors to things which weren't even conceivable before.</p>
+<p>The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Headjack's paradigm is an architectural reset of the web &amp; opens doors to things which weren't possible before.</p>
 <ol>
 <li><a href="motivation/../motivation/problems.html">Problems with the current web</a></li>
 <li><a href="motivation/../motivation/benefits.html">Benefits of this approach</a></li>
@@ -1074,37 +1074,16 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 link to authenticity page</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="authenticity"><a class="header" href="#authenticity">Authenticity</a></h1>
 <p>In the current web documents are <a href="motivation/problems.html#the-host-centric-web">host-certified</a> and we refer to data by location instead of contents. Here we'll further expand on problems with the status quo and list the benefits of building a <a href="https://en.wikipedia.org/wiki/Web_of_trust">web of trust</a> at web-scale through <a href="motivation/../introduction/data_centric.html">data-centric</a> addressing &amp; <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> documents in an open ecosystem with freely shared public data tied to identity.</p>
-<!-- - checkout the [host-centric](../introduction/host_centric.md) page -->
 <h2 id="the-ledger-of-record"><a class="header" href="#the-ledger-of-record">The ledger of record</a></h2>
-<p>We'll be able to computationally verify the authenticity of any document as long as we also have the proofs for it.</p>
-<!-- and we'll be able to query services for updates -->
-<!--
-The coupling of identity, names, authorization management & sequencing gives birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority - truth anyone can computationally verify.
--->
-<!-- https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/guides/cms-best-practices -->
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are building the ledger of record.<br><br>As each assertion goes on-chain, the metadata becomes verifiable.<br><br>- Proof-of-who via digital signature<br>- Proof-of-what via hash<br>- Proof-of-when via timestamp<br><br>Argument from cryptography begins superseding argument from authority. <a href="https://t.co/hXPGSXN2in">https://t.co/hXPGSXN2in</a></p>&mdash; Balaji Srinivasan (@balajis) <a href="https://twitter.com/balajis/status/1459140902144729088?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>no more tweets with a few screenshots of other tweets - these should be composable &amp; carrying the actual data/references/proofs</p>
-<p>lets try to achieve consensus on ground truth with the ledger of record
-https://en.wikipedia.org/wiki/Ground_truth</p>
-<p>TODO:
-https://twitter.com/balajis/status/1360413999712538627</p>
-<p>ledger of record</p>
-<p>Anyone might have saved a specific document or its update locally along with the necessary proofs for its authenticity even if most infrastructure no longer stores/serves it. There is a <code>1 of N</code> guarantee which is important as it allows documents that someone wants buried to be passed around with proofs and resurface in the public at a later point - improving accountability.</p>
+<p>We'll be able to computationally verify the authenticity of any document &amp; tie it to an identity as long as we also have the proofs for it - giving birth to the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a> where argument from cryptography begins superseding argument from authority.</p>
+<p>Anyone might have saved a specific document (&amp; updates to it) locally along with the necessary proofs for authenticity even if most infrastructure no longer stores/serves it. There is a <code>1 of N</code> guarantee which allows documents that someone wants buried to be passed around with proofs and resurface in the public at a later point - improving accountability.</p>
 <hr />
-<p>The lack of document authenticity is being routinely exploited - <a href="https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/">&quot;Shedding light on fraudulent takedown notices&quot;</a>.</p>
+<p>Using screenshots of tweets in case the originals get deleted does not constitute evidence. The lack of authenticity is being routinely exploited - <a href="https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/">&quot;Shedding light on fraudulent takedown notices&quot;</a>.</p>
 <blockquote>
 <p>&quot;For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals.&quot; - <a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">source</a></p>
 </blockquote>
-<!-- https://medium.com/berkman-klein-center/lumen-research-in-the-news-texas-ag-sues-ca-company-over-falsified-court-orders-business-model-a69286924913 -->
-<h2 id="deduplicating-documents--traceability"><a class="header" href="#deduplicating-documents--traceability">Deduplicating documents &amp; traceability</a></h2>
-<p>An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared &amp; the discussion will be much less fractured between platforms and posts - leading to greater depth.</p>
-<p>We'll be able to more easily <a href="motivation/../introduction/names_and_paths.html#addressing-within-content">address parts of documents</a> and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy (or even easier) as it currently is to crop &amp; re-upload, then it will become the norm - we'll all prefer not losing the context. In this paradigm <a href="https://en.wikipedia.org/wiki/Deepfake">deepfakes</a> will be easier to spot &amp; fight - tracing the source of content authentically to identity is important &amp; desirable.</p>
 <h2 id="the-history-of-document-updates"><a class="header" href="#the-history-of-document-updates">The history of document updates</a></h2>
 <p>Today's web puts authenticity &amp; certification of documents in the <a href="motivation/../introduction/host_centric.html">hands of hosts</a> which can <a href="https://news.ycombinator.com/item?id=27690525">do whatever they want</a> and rarely provide the option to see previous versions if edits have been made. The <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and is also susceptible to compromise.</p>
-<!--
-Wikipedia has changed the definition of recession.
-https://twitter.com/unusual_whales/status/1552795537052618752
--->
 <blockquote>
 <p>&quot;It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple&quot; - <a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">source</a></p>
 </blockquote>
@@ -1112,11 +1091,12 @@ https://twitter.com/unusual_whales/status/1552795537052618752
 <p>&quot;Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go.&quot; - <a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">source</a></p>
 </blockquote>
 <p>In Headjack updates to URIs are broadcasted but the previous versions remain - interfaces ought to display the latest state but should allow browsing the entire history of changes - like using Git.</p>
+<h2 id="deduplicating-documents--traceability"><a class="header" href="#deduplicating-documents--traceability">Deduplicating documents &amp; traceability</a></h2>
+<p>An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared &amp; the discussion will be much less fractured between platforms and posts - leading to greater depth.</p>
+<p>We'll be able to more easily <a href="motivation/../introduction/names_and_paths.html#addressing-within-content">address parts of documents</a> and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy (or even easier) as it currently is to crop &amp; re-upload, then it will become the norm - we'll all prefer not losing the context. In this paradigm <a href="https://en.wikipedia.org/wiki/Deepfake">deepfakes</a> will be easier to spot &amp; fight - tracing the source of content authentically to identity is important &amp; desirable.</p>
 <h2 id="verifiable-credentials"><a class="header" href="#verifiable-credentials">Verifiable credentials</a></h2>
-<p>TODO:</p>
-<p>Verifiable credentials
-https://en.wikipedia.org/wiki/Verifiable_credentials
-https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations</p>
+<p>Off-chain <a href="https://en.wikipedia.org/wiki/Verifiable_credentials">verifiable credentials</a> can be implemented using Headjack - entities can sign messages that attest something about another account. Updates &amp; revocations to said attestations </p>
+<p>https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations</p>
 <p>https://vitalik.ca/general/2022/06/12/nonfin.html
 But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
 https://www.opencerts.io/</p>
@@ -1358,6 +1338,8 @@ contrast <code>&lt;account_index&gt;/&lt;some_string_like_schema&gt;</code> to <
 https://www.britannica.com/biography/Douglas-Engelbart</p>
 <p>true uncensorability. The next philosopher to push humanity forward will be anonymous and global. Imagine not checking out what others are checking out more and more - what are the trends. IMAGINE NOT BEING ABLE TO SEE what others are finding most interesting. Most people are rational - let's see what gets the most attention from everyone.</p>
 <p>Global <a href="https://en.wikipedia.org/wiki/Common_knowledge_(logic)">common knowledge</a> is important.</p>
+<p>lets try to achieve consensus on ground truth with the ledger of record
+https://en.wikipedia.org/wiki/Ground_truth</p>
 <p>human evolution is 99.9% memetic at this point - everything important is in our culture &amp; competition happens between ideas. We are building our digital history on shifting sands - there's no solid foundation and thus we can't agree on what's true. There's no global megaphone that would keep all information globally accessible &amp; indexable. A global append-only log for data doesn't have the same requirements as a financial system which needs 100% uptime. The only thing that needs incentivization is data availability &amp; the ability for anyone to offer. There can be different modes of posting - maybe just a hash for content that could be on ipfs and whose contents might have different levels of storage guarantees.</p>
 <p>We need everything that needs to bubble up to the top to do so.
 sequencing &amp; discoverability is valuable. The ability for any piece of information to bubble up TO THE ABSOLUTE TOP is.. VALUABLE</p>
