@@ -32,14 +32,9 @@ We'll be able to more easily [address parts of documents](../introduction/names_
 
 ## Verifiable credentials
 
-Off-chain [verifiable credentials](https://en.wikipedia.org/wiki/Verifiable_credentials) can be implemented using Headjack - entities can sign messages that attest something about another account. Updates & revocations to said attestations 
-
-https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations
-
-https://vitalik.ca/general/2022/06/12/nonfin.html
-But perhaps this is needlessly expensive: issuance is common, revocation is rare, and we don't want to require Example College to issue transactions and pay fees for every issuance if they don't have to. So instead we can go with a hybrid solution: make initial degree an off-chain signed message, and do revocations on-chain. This is the approach that OpenCerts uses.
-https://www.opencerts.io/
-
+Entities can sign messages that attest something about another account - the creation of such [verifiable credentials](https://en.wikipedia.org/wiki/Verifiable_credentials) doesn't have to happen on-chain - they can be issued off-chain with a message that's anchored and has a URI. [`"issuance is common, revocation is rare"`](https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations) - later revocations & updates can be handled in one of 2 ways:
+- On-chain revocation/updates: if the attestations are uniquely numbered with a counter from the issuer using a [nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce), then the Headjack state can be extended to support a special `revocation list` field in which the chain can record revocations at specific blocks. For updates there would be a second list and in order to check the validity for an attestation after an update has been recorded for its nonce, users would need to fetch the off-chain anchored message corresponding to the update at the block at which it was flagged. The blockchain may charge periodic fees for state rent for these lists.
+- Fully off-chain: in which case there will be some liveness assumptions around the issuer for checking if an attestation has been revoked/updated.
 
 ## Reputation systems
 
