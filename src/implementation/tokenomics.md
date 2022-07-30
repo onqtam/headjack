@@ -11,6 +11,7 @@ Elastic fee model
 
 What if IDMs need to stake?
 
+airdrop to ethereum users
 
 spam protection: lock tokens to submit data
     DSNP has economics around batch sizes to reduce spam
