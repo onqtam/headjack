@@ -10,3 +10,6 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Startup case study](../motivation/startup_case_study.md)
 1. [Philosophy](../motivation/philosophy.md)
 1. [The ambition](../motivation/ambition.md)
+
+
+<!-- peer review & citations can be encoded with tags/messages -->
