@@ -23,6 +23,8 @@ It also specifies protocols & standards for connections, DMs, message types, etc
 
 TODO: link to the pillars
 
+https://twitter.com/paulg/status/1553229161841299461
+
 This book lays out a blueprint and yet the core technology is minimal and unopinionated
 
 What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.

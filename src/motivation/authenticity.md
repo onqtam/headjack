@@ -5,6 +5,8 @@ list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web
 
 ## Viewing the history of edits of documents
 
+TODO:
+
 ledger of record
 
 we are building our digital history on [shifting sands](https://news.ycombinator.com/item?id=27690525) without a solid foundation.**
@@ -23,33 +25,30 @@ lets try to achieve consensus on ground truth with the ledger of record
 https://en.wikipedia.org/wiki/Ground_truth
 
 
+<!--
+Wikipedia has changed the definition of recession.
+https://twitter.com/unusual_whales/status/1552795537052618752
+-->
 
-## Data-centric addressing
-
-imagine being able to point to the first occurrence of a piece of content and being able to prove that there is no prior occurrence (if nobody manages to submit a hash & merkle proof for an earlier block).
-
-## Deepfakes
-
-imagine how hard it would be to push deepfake clips if the norm for clips is to share the full episode uploaded by a trusted entity with a specific range - we shouldn't accept reuploads of clips out of context
-
-
-not a silver bullet
-false positives vs false negatives
+the internet archive does not provide any cryptographic authenticity guarantees
 
 
 no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
 
 
+## Deduplicating documents
 
-
-
+An open paradigm with content addressing where data is shared between services would enable us to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as a clip which breaks the contextual link. If this becomes as easy as it currently is to crop & re-upload (or even easier) then it will become the norm - we'll all prefer not losing the context - tracing the source of content authentically to identity is important & desirable. We'll also be able to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared. & the discussion of content will be much less fractured and with greater depth & nuance. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to fight.
 
 ## Falsification of data as a business model
 
-The lack of document authentication can be exploited for financial & other gains
+The lack of document authentication can be exploited - ["Shedding light on fraudulent takedown notices"](https://perma.cc/5ZC2-P4JM)
+
 
 https://perma.cc/5ZC2-P4JM
 https://perma.cc/JA33-F7F9?type=image
+
+
 
 > "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
@@ -57,7 +56,7 @@ https://perma.cc/JA33-F7F9?type=image
 
 We don't need oracles, tokens, automatic on-chain settlement & markets through smart contracts to build reputation systems for predictions - all we need is to immutably sequence predictive messages that are authentically linked to identity, process the data and provide our results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.
 
-Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous `"this is not financial advice"`. We can self-regulate the crypto & financial industries bottom-up in a decentralized way - steps:
+Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous [`"this is not financial advice"`](https://twitter.com/DegenSpartan/status/1552968186605490176). We can self-regulate the crypto & financial industries bottom-up in a decentralized way - steps:
 1. come up with the base set of extensible prediction message types
 2. build the tools that plot predictions versus a price feed
 3. demand that influencers use the specific types of messages for predictions

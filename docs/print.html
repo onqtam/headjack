@@ -168,6 +168,8 @@ It also specifies protocols & standards for connections, DMs, message types, etc
 
 TODO: link to the pillars
 
+https://twitter.com/paulg/status/1553229161841299461
+
 This book lays out a blueprint and yet the core technology is minimal and unopinionated
 
 What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.
@@ -820,7 +822,7 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 <li><a href="motivation/../motivation/philosophy.html">Philosophy</a></li>
 <li><a href="motivation/../motivation/ambition.html">The ambition</a></li>
 </ol>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="problems-with-the-current-web"><a class="header" href="#problems-with-the-current-web">Problems with the current web</a></h1>
+<!-- peer review & citations can be encoded with tags/messages --><div style="break-before: page; page-break-before: always;"></div><h1 id="problems-with-the-current-web"><a class="header" href="#problems-with-the-current-web">Problems with the current web</a></h1>
 <p>This is a non-exhaustive list of some of the most obvious problems.</p>
 <h2 id="the-host-centric-web"><a class="header" href="#the-host-centric-web">The host-centric web</a></h2>
 <p>One major problem of the current internet architecture is that documents are host-certified and communication happens through the <a href="https://en.wikipedia.org/wiki/End-to-end_principle">end-to-end principle</a> - we refer to data by location instead of contents. The consequences are explained in the <a href="motivation/../introduction/host_centric.html">host-centric</a> page (contrast that to <a href="motivation/../introduction/data_centric.html">data-centric</a>).</p>
@@ -1073,6 +1075,7 @@ link to authenticity page</p>
 <p>In the current web documents are <a href="motivation/problems.html#the-host-centric-web">host-certified</a> and we refer to data by location instead of contents - checkout the <a href="motivation/../introduction/host_centric.html">host-centric</a> page. Here we'll further expand on problems with the status quo and 
 list the benefits of building a <a href="https://en.wikipedia.org/wiki/Web_of_trust">web of trust</a> at web-scale through <a href="motivation/../introduction/data_centric.html">data-centric</a> addressing &amp; <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> documents in an open ecosystem with freely shared public data tied to identity.</p>
 <h2 id="viewing-the-history-of-edits-of-documents"><a class="header" href="#viewing-the-history-of-edits-of-documents">Viewing the history of edits of documents</a></h2>
+<p>TODO:</p>
 <p>ledger of record</p>
 <p>we are building our digital history on <a href="https://news.ycombinator.com/item?id=27690525">shifting sands</a> without a solid foundation.**</p>
 <blockquote>
@@ -1088,15 +1091,16 @@ list the benefits of building a <a href="https://en.wikipedia.org/wiki/Web_of_tr
 </blockquote>
 <p>lets try to achieve consensus on ground truth with the ledger of record
 https://en.wikipedia.org/wiki/Ground_truth</p>
-<h2 id="data-centric-addressing"><a class="header" href="#data-centric-addressing">Data-centric addressing</a></h2>
-<p>imagine being able to point to the first occurrence of a piece of content and being able to prove that there is no prior occurrence (if nobody manages to submit a hash &amp; merkle proof for an earlier block).</p>
-<h2 id="deepfakes"><a class="header" href="#deepfakes">Deepfakes</a></h2>
-<p>imagine how hard it would be to push deepfake clips if the norm for clips is to share the full episode uploaded by a trusted entity with a specific range - we shouldn't accept reuploads of clips out of context</p>
-<p>not a silver bullet
-false positives vs false negatives</p>
+<!--
+Wikipedia has changed the definition of recession.
+https://twitter.com/unusual_whales/status/1552795537052618752
+-->
+<p>the internet archive does not provide any cryptographic authenticity guarantees</p>
 <p>no more tweets with a few screenshots of other tweets - these should be composable &amp; carrying the actual data/references/proofs</p>
+<h2 id="deduplicating-documents"><a class="header" href="#deduplicating-documents">Deduplicating documents</a></h2>
+<p>An open paradigm with content addressing where data is shared between services would enable us to more easily <a href="motivation/../introduction/names_and_paths.html#addressing-within-content">address parts of documents</a> and share ranges of entire videos without having to re-upload them as a clip which breaks the contextual link. If this becomes as easy as it currently is to crop &amp; re-upload (or even easier) then it will become the norm - we'll all prefer not losing the context - tracing the source of content authentically to identity is important &amp; desirable. We'll also be able to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared. &amp; the discussion of content will be much less fractured and with greater depth &amp; nuance. In this paradigm <a href="https://en.wikipedia.org/wiki/Deepfake">deepfakes</a> will be easier to fight.</p>
 <h2 id="falsification-of-data-as-a-business-model"><a class="header" href="#falsification-of-data-as-a-business-model">Falsification of data as a business model</a></h2>
-<p>The lack of document authentication can be exploited for financial &amp; other gains</p>
+<p>The lack of document authentication can be exploited - <a href="https://perma.cc/5ZC2-P4JM">&quot;Shedding light on fraudulent takedown notices&quot;</a></p>
 <p>https://perma.cc/5ZC2-P4JM
 https://perma.cc/JA33-F7F9?type=image</p>
 <blockquote>
@@ -1104,7 +1108,7 @@ https://perma.cc/JA33-F7F9?type=image</p>
 </blockquote>
 <h2 id="reputation-systems"><a class="header" href="#reputation-systems">Reputation systems</a></h2>
 <p>We don't need oracles, tokens, automatic on-chain settlement &amp; markets through smart contracts to build reputation systems for predictions - all we need is to immutably sequence predictive messages that are authentically linked to identity, process the data and provide our results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.</p>
-<p>Take the <a href="https://www.tipranks.com/">Tipranks</a> platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous <code>&quot;this is not financial advice&quot;</code>. We can self-regulate the crypto &amp; financial industries bottom-up in a decentralized way - steps:</p>
+<p>Take the <a href="https://www.tipranks.com/">Tipranks</a> platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous <a href="https://twitter.com/DegenSpartan/status/1552968186605490176"><code>&quot;this is not financial advice&quot;</code></a>. We can self-regulate the crypto &amp; financial industries bottom-up in a decentralized way - steps:</p>
 <ol>
 <li>come up with the base set of extensible prediction message types</li>
 <li>build the tools that plot predictions versus a price feed</li>
