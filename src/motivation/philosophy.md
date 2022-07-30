@@ -24,6 +24,10 @@ Global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)
 
 
 
+lets try to achieve consensus on ground truth with the ledger of record
+https://en.wikipedia.org/wiki/Ground_truth
+
+
 
 
 

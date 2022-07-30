@@ -1,6 +1,6 @@
 # Motivation (why)
 
-The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Furthermore, Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't even conceivable before.
+The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
 
 1. [Problems with the current web](../motivation/problems.md)
 1. [Benefits of this approach](../motivation/benefits.md)

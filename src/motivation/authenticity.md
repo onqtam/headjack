@@ -2,67 +2,21 @@
 
 In the current web documents are [host-certified](problems.md#the-host-centric-web) and we refer to data by location instead of contents. Here we'll further expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](../introduction/data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents in an open ecosystem with freely shared public data tied to identity.
 
- <!-- - checkout the [host-centric](../introduction/host_centric.md) page -->
-
 ## The ledger of record
 
-We'll be able to computationally verify the authenticity of any document as long as we also have the proofs for it.
-<!-- and we'll be able to query services for updates -->
+We'll be able to computationally verify the authenticity of any document & tie it to an identity as long as we also have the proofs for it - giving birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority.
 
-<!--
-The coupling of identity, names, authorization management & sequencing gives birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority - truth anyone can computationally verify.
--->
-
-<!-- https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/guides/cms-best-practices -->
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are building the ledger of record.<br><br>As each assertion goes on-chain, the metadata becomes verifiable.<br><br>- Proof-of-who via digital signature<br>- Proof-of-what via hash<br>- Proof-of-when via timestamp<br><br>Argument from cryptography begins superseding argument from authority. <a href="https://t.co/hXPGSXN2in">https://t.co/hXPGSXN2in</a></p>&mdash; Balaji Srinivasan (@balajis) <a href="https://twitter.com/balajis/status/1459140902144729088?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
-
-
-
-
-lets try to achieve consensus on ground truth with the ledger of record
-https://en.wikipedia.org/wiki/Ground_truth
-
-
-TODO:
-https://twitter.com/balajis/status/1360413999712538627
-
-
-ledger of record
-
-
-
-
-
-Anyone might have saved a specific document or its update locally along with the necessary proofs for its authenticity even if most infrastructure no longer stores/serves it. There is a `1 of N` guarantee which is important as it allows documents that someone wants buried to be passed around with proofs and resurface in the public at a later point - improving accountability.
+Anyone might have saved a specific document (& updates to it) locally along with the necessary proofs for authenticity even if most infrastructure no longer stores/serves it. There is a `1 of N` guarantee which allows documents that someone wants buried to be passed around with proofs and resurface in the public at a later point - improving accountability.
 
 ---
 
-The lack of document authenticity is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/).
+Using screenshots of tweets in case the originals get deleted does not constitute evidence. The lack of authenticity is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/).
 
 > "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
-
-<!-- https://medium.com/berkman-klein-center/lumen-research-in-the-news-texas-ag-sues-ca-company-over-falsified-court-orders-business-model-a69286924913 -->
-
-## Deduplicating documents & traceability
-
-An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion will be much less fractured between platforms and posts - leading to greater depth.
-
-We'll be able to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy (or even easier) as it currently is to crop & re-upload, then it will become the norm - we'll all prefer not losing the context. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to spot & fight - tracing the source of content authentically to identity is important & desirable.
 
 ## The history of document updates
 
 Today's web puts authenticity & certification of documents in the [hands of hosts](../introduction/host_centric.md) which can [do whatever they want](https://news.ycombinator.com/item?id=27690525) and rarely provide the option to see previous versions if edits have been made. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and is also susceptible to compromise.
-
-
-<!--
-Wikipedia has changed the definition of recession.
-https://twitter.com/unusual_whales/status/1552795537052618752
--->
-
 
 > "It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple" - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
@@ -70,13 +24,16 @@ https://twitter.com/unusual_whales/status/1552795537052618752
 
 In Headjack updates to URIs are broadcasted but the previous versions remain - interfaces ought to display the latest state but should allow browsing the entire history of changes - like using Git.
 
+## Deduplicating documents & traceability
+
+An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion will be much less fractured between platforms and posts - leading to greater depth.
+
+We'll be able to more easily [address parts of documents](../introduction/names_and_paths.md#addressing-within-content) and share ranges of entire videos without having to re-upload them as separate clips which breaks the contextual link. If this becomes as easy (or even easier) as it currently is to crop & re-upload, then it will become the norm - we'll all prefer not losing the context. In this paradigm [deepfakes](https://en.wikipedia.org/wiki/Deepfake) will be easier to spot & fight - tracing the source of content authentically to identity is important & desirable.
 
 ## Verifiable credentials
 
-TODO:
+Off-chain [verifiable credentials](https://en.wikipedia.org/wiki/Verifiable_credentials) can be implemented using Headjack - entities can sign messages that attest something about another account. Updates & revocations to said attestations 
 
-Verifiable credentials
-https://en.wikipedia.org/wiki/Verifiable_credentials
 https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations
 
 https://vitalik.ca/general/2022/06/12/nonfin.html
