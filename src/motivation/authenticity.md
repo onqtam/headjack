@@ -16,7 +16,7 @@ Using screenshots of tweets in case the originals get deleted does not constitut
 
 ## The history of document updates
 
-Today's web puts authenticity & certification of documents in the [hands of hosts](../introduction/host_centric.md) which can [do whatever they want](https://news.ycombinator.com/item?id=27690525) and rarely provide the option to see previous versions if edits have been made. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and is also susceptible to compromise.
+Today's web puts authenticity & certification of documents in the [hands of hosts](../introduction/host_centric.md) which can [do whatever they want](https://news.ycombinator.com/item?id=27690525) and rarely provide the option to see previous versions if edits have been made. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and can be compromised.
 
 > "It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple" - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
@@ -38,7 +38,7 @@ Entities can sign messages that attest facts about other accounts - the creation
 
 ## Reputation systems
 
-We don't need oracles, tokens, automatic on-chain settlement & markets through smart contracts to build reputation systems for predictions - all we need is to immutably sequence predictive messages that are authentically linked to identity, process the data and provide our results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.
+We don't need oracles, tokens, automatic on-chain settlement & markets through smart contracts to build reputation systems for predictions & promises - all we need is to immutably sequence predictive messages that are authentically linked to identity and plot the results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.
 
 Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous [`"this is not financial advice"`](https://twitter.com/DegenSpartan/status/1552968186605490176). We can self-regulate the crypto & financial industries bottom-up in a decentralized way - steps:
 1. come up with the base set of extensible prediction message types
@@ -47,9 +47,9 @@ Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can g
 4. refuse to listen to accounts that don't use that format and build the habit to check track records before listening to someone - this can (and will) become a social norm
 5. let the [chips fall where they may](https://twitter.com/TSLAgang/status/1433896307702353921)
 
-Message types can be in an extensible inheritance hierarchy and have "fallback" translation mechanisms defined in their on-chain schema for platforms that don't support specific leaf types. As an example: on-chain schema `42` can have the following template for serialization: `"{asset} has an {probability} chance of being {up_or_down} {price} by {date}"`, and thus a basic interface that encounters `{message_type: "42", asset: "$BTC", date: "2025.02.12", up_or_down: "above", price: "100000$", probability: "80%"}` could render `"$BTC has an 80% chance of being above 100000$ by 2025.02.12"` to its users. Or there could be a message type with spline curves. This way the system can evolve even if interfaces move at different pace and there's no consensus on the evolution of messages - it will naturally happen. Rigidness and/or lack of consensus for such standards has been the bane for many open systems. This can go beyond just finance - we can crowdsource reputation for anything with a data feed.
+Message types can be in an extensible inheritance hierarchy and have "fallback" translation mechanisms defined in their on-chain schema for platforms that don't support specific leaf types. As an example: on-chain schema `42` can have the following template for serialization: `"{asset} has an {probability} chance of being {above_or_below} {price} by {date}"`, and thus a basic interface that encounters `{message_type: "42", asset: "$BTC", date: "2025.02.12", above_or_below: "above", price: "100000$", probability: "80%"}` could render `"$BTC has an 80% chance of being above 100000$ by 2025.02.12"`. Or there could be a message type with spline curves. This way the system can evolve even if interfaces move at different pace and there's no consensus on the evolution of messages - it will naturally happen. Rigidness and/or lack of consensus for such standards has been the bane for many open systems.
 
-The argument that specialized message types are unnecessary because AI will eventually be able to classify things properly is mute - lets get something that is unambiguous and working now - structure is good.
+The argument that specialized message types are unnecessary because AI will eventually be able to classify things properly is mute - lets get something that is unambiguous and working now - structure is good. The use case for reputation goes beyond finance.
 
 Perhaps the reputation system can be abused - by making 100 accounts and building different prediction timelines throughout time and then using only the winners - this page should be treated just as a starting point and isn't trying to provide all the answers.
 
