@@ -1,11 +1,25 @@
 # Authenticity
 
-In the current web documents are [host-certified](problems.md#the-host-centric-web) and we refer to data by location instead of contents - checkout the [host-centric](../introduction/host_centric.md) page. Here we'll further expand on problems with the status quo and 
-list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](../introduction/data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents in an open ecosystem with freely shared public data tied to identity.
+In the current web documents are [host-certified](problems.md#the-host-centric-web) and we refer to data by location instead of contents. Here we'll further expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](../introduction/data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents in an open ecosystem with freely shared public data tied to identity.
 
-## Authentic documents
+ <!-- - checkout the [host-centric](../introduction/host_centric.md) page -->
+
+## The ledger of record
+
+We'll be able to computationally verify the authenticity of any document as long as we also have the proofs for it.
+<!-- and we'll be able to query services for updates -->
+
+<!--
+The coupling of identity, names, authorization management & sequencing gives birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority - truth anyone can computationally verify.
+-->
+
+<!-- https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/guides/cms-best-practices -->
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are building the ledger of record.<br><br>As each assertion goes on-chain, the metadata becomes verifiable.<br><br>- Proof-of-who via digital signature<br>- Proof-of-what via hash<br>- Proof-of-when via timestamp<br><br>Argument from cryptography begins superseding argument from authority. <a href="https://t.co/hXPGSXN2in">https://t.co/hXPGSXN2in</a></p>&mdash; Balaji Srinivasan (@balajis) <a href="https://twitter.com/balajis/status/1459140902144729088?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 no more tweets with a few screenshots of other tweets - these should be composable & carrying the actual data/references/proofs
+
 
 
 

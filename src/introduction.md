@@ -53,7 +53,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
 5. [Account preferences & graph](introduction/account_preferences.md)
 6. [Content addressing](introduction/addressing.md)
     1. [Today's web: host-centric](introduction/host_centric.md)
-    2. [The data-centric ledger of record](introduction/data_centric.md)
+    2. [Data-centric addressing](introduction/data_centric.md)
     3. [Blob structure & addressing](introduction/blob_structure.md)
     4. [Persistent & provable URIs](introduction/uris.md)
     5. [Names & paths](introduction/names_and_paths.md)

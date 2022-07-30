@@ -126,10 +126,6 @@ https://twitter.com/balajis/status/1442863553497554944
 
 
 
-on books:
-https://twitter.com/FEhrsam/status/1304217384962592769
-
-
 - universal & permanent bookmarks.
 bookmarks & something like logseq on top of this global namespace
 

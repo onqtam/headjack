@@ -8,7 +8,7 @@
     - [Account preferences & graph](introduction/account_preferences.md)
     - [Content addressing](introduction/addressing.md)
         - [Today's web: host-centric](introduction/host_centric.md)
-        - [The data-centric ledger of record](introduction/data_centric.md)
+        - [Data-centric addressing](introduction/data_centric.md)
         - [Blob structure & addressing](introduction/blob_structure.md)
         - [Persistent & provable URIs](introduction/uris.md)
         - [Names & paths](introduction/names_and_paths.md)
