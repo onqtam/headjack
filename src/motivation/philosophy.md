@@ -23,16 +23,16 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - virality needs to be politically & content-neutral
 - break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
-    - lower the barrier to entry for innovation - the design space is boundless
-    - empower super users to separate signal from noise
-    - provide alternative incentives - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
+    - lower the barrier to entry for innovation - the design space is limitless
+    - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
+- empower super users to separate signal from noise through open data & better tooling
 - make infrastructure more resilient through content-addressing & p2p decentralization
 
-## Bottom-up media
+## Bottom-up media & the decentralized town square
 
 > "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
 
-Headjack makes identity sovereign and no 2 entities can be prevented from communicating both privately and in public - allowing for [gossip](https://publications.hse.ru/en/articles/135571129). Authenticity enables global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)). ["Information wants to be free"](https://en.wikipedia.org/wiki/Information_wants_to_be_free) - the entire web can be turned into a crowdsourced Wikipedia where anything is provable, interlinked & commentable. We can reimplement peer review & intertwine it within the global public namespace - the town square - all visualizable through dashboards.
+Headjack makes identity sovereign and no 2 entities can be prevented from communicating both privately and in public - allowing for [gossip](https://publications.hse.ru/en/articles/135571129). Authenticity enables global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)). ["Information wants to be free"](https://en.wikipedia.org/wiki/Information_wants_to_be_free) - the entire web can be turned into a crowdsourced Wikipedia where anything is provable, interlinked & commentable. We can reimplement peer review & intertwine it within the global public namespace and make everything visualizable through dashboards.
 
 > "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
 
