@@ -5,13 +5,17 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 
 <!-- (borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106)) -->
 
-We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
+We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
 
-If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We are just neurons - let's bootstrap the global hivemind by organizing in a global & borderless super intelligence.
+If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We are just neurons - let's bootstrap the hivemind by organizing in a global & borderless super intelligence.
+
+> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
+
+## Mission
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
-Headjack's mission is to end network effect monopolies & data silos by making identity & data interoperable. The status quo is just a local maximum. Goals:
+Headjack's mission is to end network effect monopolies & data silos by making identity & data sovereign & interoperable. The status quo is just a local maximum. Goals:
 
 - distribute power and let people have a choice - identity should belong to no one
 - add [authenticity](authenticity.md) to information and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) for greater accountability
@@ -24,78 +28,30 @@ Headjack's mission is to end network effect monopolies & data silos by making id
     - provide alternative incentives - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - make infrastructure more resilient through content-addressing & p2p decentralization
 
-> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
-
-
-
-
-
-
-
-> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
-
-["Information wants to be free"](https://en.wikipedia.org/wiki/Information_wants_to_be_free)
-
-
-
-
-
-
-Let's do better than "280 characters and likes" for our town square.
-
-
-
-
-
-
-
-
-there's no solid foundation and thus we can't agree on what's true.
-
-
-
-
-visualize the global HEATMAP of interests
-
-
-
-
-
-
-
-
-imagine being mad at your operating system because it has an agenda of its own. We are currently mad because media doesn't get the truth across but in fact there is no truth protocol for media - that's why they are bought - media cannot survive without its funding. Imagine building the OS that could show anyone where the hottest links of referencing are - where we are all collectively shining with attention -. Such a system will make it so the most pressing problems would surface the fastest to our collective consciousness.
-
-
-
-
-
-
-## Decentralization
+## Bottom-up media
 
 > "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
 
-The Importance of Gossip Across Societies: Correlations With Institutionalization
-https://journals.sagepub.com/doi/abs/10.1177/1069397114554383?journalCode=ccrc&
+Headjack makes identity sovereign and no 2 entities can be prevented from communicating both privately and in public - allowing for [gossip](https://publications.hse.ru/en/articles/135571129). Authenticity enables global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)). ["Information wants to be free"](https://en.wikipedia.org/wiki/Information_wants_to_be_free) - the entire web can be turned into a crowdsourced Wikipedia where anything is provable, interlinked & commentable. We can reimplement peer review & intertwine it within the global public namespace - the town square - all visualizable through dashboards.
 
-Global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) is important.
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
 
+<!-- > "gossip is simply more important in larger, more stratified, and more institutionalized societies" - [source](https://publications.hse.ru/en/articles/135571129) -->
 
-we need to establish objective reality
-imagine developing a publicly-developed wiki where we collaborate on trying to figure out the best set of documents - the rules that everyone should see.
+<!-- > "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [source](https://publications.hse.ru/en/articles/135571129) -->
 
-## Transparency & openness
+<!-- 
+> "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
+https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
+ -->
+
+## Transparency & choice of algorithms
 
 Imagine seeing both the data and the algorithms running on that data & being able to check the results for yourself
 
 
 
 
-
-<!-- 
-> "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
-https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
- -->
 
 
 
@@ -124,6 +80,19 @@ https://www.youtube.com/watch?v=Yg0qlnh5I38
 Any of the mentioned articles or quotes by ppl like balaji should have been a notification or reference - everything should be interlinked
 
 
+
+
+
+
+
+
+
+there's no solid foundation and thus we can't agree on what's true.
+
+
+
+
+visualize the global HEATMAP of interests
 
 
 
