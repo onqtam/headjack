@@ -7,7 +7,7 @@
 
 TODO: get the related parts of the possibilities page in here and link to this page in there
 
-- It will greatly aid the archivability of the web - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) syndrome.
+- It will greatly aid the archivability of the web - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) syndrome/effect.
 - Updates/changes to events will be cryptographically provable and browseable throughout time - the global [Git](https://en.wikipedia.org/wiki/Git).
 - And many more - checkout the [possibilities page](../motivation/possibilities.md).
 
