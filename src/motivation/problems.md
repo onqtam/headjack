@@ -121,6 +121,7 @@ A non-exhaustive list of additional problems (beyond what's already listed) with
 
 - Twitter:
     - we can't even sort the tweets of someone based on engagement
+    - we pin threads of threads on our profiles and sequence them with X/YY numbers
     - cannot sort quotes/replies of a tweet based on engagement/age
     - no unrolled thread view option even though it's a no-brainer at this point
     - filtering & tuning what is shown in lists is nonexistent

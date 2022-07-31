@@ -2,37 +2,47 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-> "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
+# Philosophy
 
-> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
+The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
+) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species.
 
-> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
+<!-- (borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106)) -->
+
+Human evolution is 99.9% memetic at this point and is accelerating exponentially - media is fundamental to culture.
+
+We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
+
+
+
+If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We are just neurons - let's bootstrap the global hivemind by organizing in a global & borderless super intelligence.
+
+
+
+
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
-Headjack's mission is to make identity & data interoperable which will end network effect monopolies & data silos - unlocking creativity & innovation in media.
+Headjack's mission is to end network effect monopolies & data silos by making identity & data interoperable. Goals:
 
-Identity & the social graph belong to no one
-
-
-
-
-
-
-
-
-
-
-
-
-
-Global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) is important.
+- add [authenticity](authenticity.md) to information & build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
+- improve transparency
+    - virality needs to be politically & content-neutral
+    - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
+- make infrastructure more resilient
+- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets and lower the barrier to entry
+    - unlock innovation & composability - the design space is boundless
+    - empower super users to separate signal from noise
+    - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions and needs alternatives
+- distribute power
 
 
 
 
-lets try to achieve consensus on ground truth with the ledger of record
-https://en.wikipedia.org/wiki/Ground_truth
+
+The status quo is a disservice to humanity - identity should belong to no one.
+
+> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
 
 
@@ -40,12 +50,28 @@ https://en.wikipedia.org/wiki/Ground_truth
 
 
 
-human evolution is 99.9% memetic at this point - everything important is in our culture & competition happens between ideas. We are building our digital history on shifting sands - there's no solid foundation and thus we can't agree on what's true. There's no global megaphone that would keep all information globally accessible & indexable. A global append-only log for data doesn't have the same requirements as a financial system which needs 100% uptime. The only thing that needs incentivization is data availability & the ability for anyone to offer. There can be different modes of posting - maybe just a hash for content that could be on ipfs and whose contents might have different levels of storage guarantees.
+
+> "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
+
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
+
+["Information wants to be free"](https://en.wikipedia.org/wiki/Information_wants_to_be_free)
 
 
 
-information theory and physics are interlinked. In the physical world signals traverse based on the natural laws but memetic ideas spread thanks to human-manipulated means - we don't have fair means of dissipation of information. We can't make sense of the world together. We can't coordinate
 
+
+
+Let's do better than "280 characters and likes" for our town square.
+
+
+
+
+
+
+
+
+there's no solid foundation and thus we can't agree on what's true.
 
 
 
@@ -57,22 +83,10 @@ visualize the global HEATMAP of interests
 Anyone will be able to follow a story locally - even with the files being deleted one after another - each time just the diff will be uploaded and you'll be notified for events relating to an address and have the ability to download it and apply it locally. This is an uncensorable global conversation.
 
 
-"Information wants to be free"
-https://en.wikipedia.org/wiki/Information_wants_to_be_free
-
-
-the same piece of data may pop up multiple times throughout time through different sources - unkillable evidence - one which may live offline for a period and resurface. THERE NEEDS TO BE A GLOBAL HASH INDEX OF EVERYTHING THAT'S BEEN EVER TAGGED?
-
-I want to tag/link/index/sequence all data. I want the truth to bubble up.
-
-
 
 
 imagine being mad at your operating system because it has an agenda of its own. We are currently mad because media doesn't get the truth across but in fact there is no truth protocol for media - that's why they are bought - media cannot survive without its funding. Imagine building the OS that could show anyone where the hottest links of referencing are - where we are all collectively shining with attention -. Such a system will make it so the most pressing problems would surface the fastest to our collective consciousness.
 
-
-
-Linked data is essential for discoverability & ingestion of information - this gitbook is an example of that - contrast to what it would be if it was a linear whitepaper. The whole web can be interlinked like this.
 
 
 
@@ -80,17 +94,15 @@ Linked data is essential for discoverability & ingestion of information - this g
 
 ## Decentralization
 
-Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed.
-https://guide.getzion.com/inspiration-for-zion
+> "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
 
 The Importance of Gossip Across Societies: Correlations With Institutionalization
 https://journals.sagepub.com/doi/abs/10.1177/1069397114554383?journalCode=ccrc&
 
-Organizing the information on the internet better
-Separating signal from noise.
+Global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) is important.
+
 
 we need to establish objective reality
-we shouldn't need steven pinker to make lectures titled "rationality saves lives"
 imagine developing a publicly-developed wiki where we collaborate on trying to figure out the best set of documents - the rules that everyone should see.
 
 ## Transparency & openness
@@ -98,8 +110,6 @@ imagine developing a publicly-developed wiki where we collaborate on trying to f
 Imagine seeing both the data and the algorithms running on that data & being able to check the results for yourself
 
 
-
-Sunlight is the best disinfectant
 
 
 
@@ -157,51 +167,6 @@ Any of the mentioned articles or quotes by ppl like balaji should have been a no
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-TODO: twitter thread
-
-
-
-
-The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then markets, clocks & bits. Any mechanism that makes those more efficient will benefit the species.
-
-blockchains can play a major role in upgrading our systems of cooperation and trust
-
-if the internet is the information super highway, blockchains are the cooperation super highways
-
-(borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106))
-
-
-
-
-
-
-
-
-
-
-clickbait?
-
-
-
-
-
-
-
-
-
 imagine the timelines & graphs we'd be able to construct if we have a global sequencer
 
 
@@ -210,7 +175,6 @@ imagine the timelines & graphs we'd be able to construct if we have a global seq
 ## Culture war
 
 
-Ideas should not be sacred - we are just neurons - global & borderless super intelligence - bootstrapping the global hivemind
 
 
 The aggregate sentiment on twitter’s backend is analogous to a liquidity order book - we should want to see the Overton window.
@@ -260,3 +224,14 @@ https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trus
 
 
 > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
+
+
+
+
+
+████████████████████████████████████████████████
+
+There's no global megaphone that would keep all information globally accessible & indexable.
+
+
+We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism & innovation in social media facilitating public discourse, but on a global level.
