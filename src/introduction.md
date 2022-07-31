@@ -31,6 +31,8 @@ What you don't want is for these identifiers to be fractured between many platfo
 
 a blueprint for the future web
 
+the core value proposition is being able to link unbounded amounts of off-chain data to billions of identities while preserving the proofs throughout time even if accounts change keys & names
+
 
 The core value proposition is the ability to link infinite amounts of data to identity and sequence that throughout time.
 

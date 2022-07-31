@@ -8,3 +8,5 @@
 - numbers page in the introduction - how much can fit in 1 MB/s
 
 a tiny core on which we have consensus can be used to cryptographically anchor & link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.
+
+The processing of the state machine is minimal - orders of magnitude less complexity & compute compared to generalized smart contract platforms

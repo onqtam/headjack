@@ -1,11 +1,10 @@
 # Philosophy
 
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
-) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species.
+) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. Evolution is 99.9% memetic & accelerating exponentially - media is fundamental.
 
 <!-- (borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106)) -->
 
-Human evolution is 99.9% memetic at this point and is accelerating exponentially - media is fundamental to culture.
 
 We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
 
@@ -19,16 +18,16 @@ If the internet is the information super highway, blockchains are the cooperatio
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
-Headjack's mission is to end network effect monopolies & data silos by making identity & data interoperable. The status quo is a disservice to humanity. Goals:
+Headjack's mission is to end network effect monopolies & data silos by making identity & data interoperable. The status quo is just a local maximum. Goals:
 
 - distribute power and let people have a choice - identity should belong to no one
-- add [authenticity](authenticity.md) to information, build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) and improve accountability
+- add [authenticity](authenticity.md) to information and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) for greater accountability
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - virality needs to be politically & content-neutral
-- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets
+- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for alternatives
     - lower the barrier to entry for innovation - the design space is boundless
     - empower super users to separate signal from noise
-    - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions and needs alternatives
+    - fix the incentives - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - make infrastructure more resilient
 
 
@@ -43,9 +42,6 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 
 
 
-
-
-> "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
 
 > "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
 
@@ -74,7 +70,7 @@ visualize the global HEATMAP of interests
 
 
 
-Anyone will be able to follow a story locally - even with the files being deleted one after another - each time just the diff will be uploaded and you'll be notified for events relating to an address and have the ability to download it and apply it locally. This is an uncensorable global conversation.
+
 
 
 
@@ -141,27 +137,6 @@ Any of the mentioned articles or quotes by ppl like balaji should have been a no
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-imagine the timelines & graphs we'd be able to construct if we have a global sequencer
 
 
 
