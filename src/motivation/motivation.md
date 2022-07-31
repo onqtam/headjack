@@ -14,6 +14,7 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 
 <!--
 Markets, markets everywhere!
+algorithmic transparency & choice
 https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
 -->
 
