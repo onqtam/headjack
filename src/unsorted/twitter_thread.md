@@ -10,7 +10,7 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 A global interest graph that determines how information propagates is perhaps the most important invention for human coordination since the creation of the internet - arguably more important than the information itself.
 
 4/10
-Twitter never moved forward from a PoC - you can't even sort your own tweets based on interactions. We pin threads of threads on our profiles and sequence them with X/YY. Twitter's response? "add an append button when writing threads". But hey! We can endlessly scroll feeds!
+Twitter never moved forward from a PoC - you can't even sort your own tweets based on interactions. We pin threads of threads on our profiles and sequence them with X/YY numbers. Twitter's response? "add an append button when writing threads". But hey! We can endlessly scroll feeds!
 
 5/10
 Network effect monopolies need to be broken down into competing presentation layers by democratizing access to their graphs so that anyone can innovate on top without permission - unlocking a combinatorial explosion of composability and competition.

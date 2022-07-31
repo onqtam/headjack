@@ -22,10 +22,10 @@
 
 - [Motivation (why)](motivation/motivation.md)
     - [Problems with the current web](motivation/problems.md)
-    - [Benefits of this approach](motivation/benefits.md)
-    - [Infrastructure improvements](motivation/infrastructure.md)
     - [Authenticity](motivation/authenticity.md)
     - [The future of publishing](motivation/publishing.md)
+    - [Benefits of this approach](motivation/benefits.md)
+    - [Infrastructure improvements](motivation/infrastructure.md)
     - [Unlocked possibilities](motivation/possibilities.md)
     - [Startup case study](motivation/startup_case_study.md)
     - [Philosophy](motivation/philosophy.md)

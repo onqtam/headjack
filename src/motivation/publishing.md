@@ -22,3 +22,7 @@ Imagine what Balaji could do if he had everything easily referencable through a 
 on books:
 https://twitter.com/FEhrsam/status/1304217384962592769
 
+
+Linked data is essential for discoverability & ingestion of information - this gitbook is an example of that - contrast to what it would be if it was a linear whitepaper. The whole web can be interlinked like this.
+
+
