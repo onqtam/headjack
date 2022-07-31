@@ -1,7 +1,3 @@
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-
 # Philosophy
 
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
@@ -23,24 +19,22 @@ If the internet is the information super highway, blockchains are the cooperatio
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
-Headjack's mission is to end network effect monopolies & data silos by making identity & data interoperable. Goals:
+Headjack's mission is to end network effect monopolies & data silos by making identity & data interoperable. The status quo is a disservice to humanity. Goals:
 
-- add [authenticity](authenticity.md) to information & build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
-- improve transparency
+- distribute power and let people have a choice - identity should belong to no one
+- add [authenticity](authenticity.md) to information, build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) and improve accountability
+- improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - virality needs to be politically & content-neutral
-    - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
-- make infrastructure more resilient
-- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets and lower the barrier to entry
-    - unlock innovation & composability - the design space is boundless
+- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets
+    - lower the barrier to entry for innovation - the design space is boundless
     - empower super users to separate signal from noise
     - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions and needs alternatives
-- distribute power
+- make infrastructure more resilient
 
 
 
 
 
-The status quo is a disservice to humanity - identity should belong to no one.
 
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
