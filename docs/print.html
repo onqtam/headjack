@@ -992,6 +992,8 @@ The terrifying thing about this is that Google is not an elected entity. Google 
 <li>On-chain revocation/updates: if the attestations are uniquely numbered with a counter from the issuer using a <a href="https://en.wikipedia.org/wiki/Cryptographic_nonce">nonce</a>, then the Headjack state can be extended to support a special <code>revocation list</code> field in which the chain can record revocations at specific blocks - then the validity of said attestations will be checkable with a single query to the blockchain state. For updates there would be a second list and in order to check the validity for an attestation after an update has been recorded for its nonce, users would need to fetch the off-chain anchored message corresponding to the update at the block at which it was flagged. The blockchain may charge periodic fees for state rent for these lists.</li>
 <li>Fully off-chain: in which case there will be some liveness assumptions around the issuer for checking if an attestation has been revoked/updated.</li>
 </ul>
+<!-- TODO: POAP
+https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&sourceid=chrome&ie=UTF-8 -->
 <h2 id="reputation-systems"><a class="header" href="#reputation-systems">Reputation systems</a></h2>
 <p>We don't need oracles, tokens, automatic on-chain settlement &amp; markets through smart contracts to build reputation systems for predictions &amp; promises - all we need is to immutably sequence predictive messages that are authentically linked to identity and plot the results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.</p>
 <p>Take the <a href="https://www.tipranks.com/">Tipranks</a> platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous <a href="https://twitter.com/DegenSpartan/status/1552968186605490176"><code>&quot;this is not financial advice&quot;</code></a>. We can self-regulate the crypto &amp; financial industries bottom-up in a decentralized way - steps:</p>
@@ -1359,19 +1361,20 @@ contrast <code>&lt;account_index&gt;/&lt;some_string_like_schema&gt;</code> to <
 <ul>
 <li>distribute power and let people have a choice - identity should belong to no one</li>
 <li>add <a href="motivation/authenticity.html">authenticity</a> to information and build the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a> for greater accountability</li>
+<li>revive the semantic web, <a href="motivation/authenticity.html#deduplicating-documents--traceability">deduplicate content &amp; enable traceability</a></li>
 <li>improve transparency - <a href="https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant">&quot;Sunlight is the best disinfectant&quot;</a>
 <ul>
 <li>virality needs to be politically &amp; content-neutral</li>
 </ul>
 </li>
-<li>break the <a href="motivation/problems.html#vertical-integration-vs-specialization--competition">vertical integration</a> through interoperability &amp; markets - allow for alternatives
+<li>break the <a href="motivation/problems.html#vertical-integration-vs-specialization--competition">vertical integration</a> through interoperability &amp; markets - allow for specialization
 <ul>
 <li>lower the barrier to entry for innovation - the design space is boundless</li>
 <li>empower super users to separate signal from noise</li>
-<li>fix the incentives - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions</li>
+<li>provide alternative incentives - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions</li>
 </ul>
 </li>
-<li>make infrastructure more resilient</li>
+<li>make infrastructure more resilient through content-addressing &amp; p2p decentralization</li>
 </ul>
 <blockquote>
 <p>&quot;Society, business &amp; money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity.&quot; - <a href="https://twitter.com/naval/status/790443306886926337">@naval</a></p>

@@ -5,16 +5,9 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 
 <!-- (borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106)) -->
 
-
 We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
 
-
-
 If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We are just neurons - let's bootstrap the global hivemind by organizing in a global & borderless super intelligence.
-
-
-
-
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
@@ -22,18 +15,14 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 
 - distribute power and let people have a choice - identity should belong to no one
 - add [authenticity](authenticity.md) to information and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) for greater accountability
+- revive the semantic web, [deduplicate content & enable traceability](authenticity.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - virality needs to be politically & content-neutral
-- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for alternatives
+- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
     - lower the barrier to entry for innovation - the design space is boundless
     - empower super users to separate signal from noise
-    - fix the incentives - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
-- make infrastructure more resilient
-
-
-
-
-
+    - provide alternative incentives - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
+- make infrastructure more resilient through content-addressing & p2p decentralization
 
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
