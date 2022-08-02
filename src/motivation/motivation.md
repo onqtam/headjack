@@ -8,6 +8,7 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Benefits of this approach](../motivation/benefits.md)
 1. [Infrastructure improvements](../motivation/infrastructure.md)
 1. [Unlocked possibilities](../motivation/possibilities.md)
+1. [The metaverse](../motivation/metaverse.md)
 1. [Startup case study](../motivation/startup_case_study.md)
 1. [Philosophy](../motivation/philosophy.md)
 1. [The ambition](../motivation/ambition.md)
@@ -19,6 +20,11 @@ the semantic web
 Markets, markets everywhere!
 algorithmic transparency & choice
 https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
--->
 
-<!-- peer review & citations can be encoded with tags/messages -->
+peer review & citations can be encoded with tags/messages
+
+
+
+
+
+-->

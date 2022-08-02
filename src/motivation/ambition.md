@@ -3,29 +3,12 @@
 Web3 is often associated with user ownership of networks/services/data, governance, NFTs & micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and [making it sovereign](https://twitter.com/balajis/status/1162401646258749441) - the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing interfaces & views that present & filter commonly addressable data in any way imaginable.
 
 <!-- 
-TODO: metaverse stuff
 
-metaverse page
-- This is what the metaverse will be built on
-- The metaverse is about provable activity linked to identity beyond the confines of any specific platform
-- The metaverse is fully addressable and people create more than they transact
-- The metaverse is being able to refer to anything and anyone.
-- The metaverse is about agency in creation
-- TODO: read this from "The Coming Evolution of Games" onward:
-https://future.com/metaverse-infrastructure-technology-games/
-
-We need to persistently link activity with identity to build reputation systems
-
-
-> "We think of the metaverse as the entirety of all composable and interoperable resources, identities, applications, platforms, services, and protocols that exist in cyberspace."
-https://blog.ceramic.network/into-the-dataverse/
-
+TODO: take this metaverse thing out of here and into the other page
 
 It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it
 
-https://twitter.com/punk6529/status/1448399827054833668
-https://twitter.com/punk6529
-https://6529.io/ -->
+-->
 
 Think of Headjack as an [information bus](https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf) on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing messages, dynamically definable message types & permissionlessness. The service objects that deal with identity, connections & authorization are on-chain and have guaranteed storage & retrievability whereas all data objects are just cryptographically anchored and stored off-chain ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)) for which durability & retrievability is on a [best-effort](https://en.wikipedia.org/wiki/Best-effort_delivery) basis without guarantees. It can [scale](../introduction/numbers.md) practically as much as necessary. Another way to look at it is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network similar to [Kafka](https://kafka.apache.org/intro) where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's [vision for decentralizing Twitter](https://twitter.com/jack/status/1204766078468911106).
 

@@ -198,3 +198,4 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - PROBLEM: what if a name is just a number - how does that impact URIs? there can be collisions... must find a way to resolve such conflicts
     - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
 
+- off-chain NFTs as verifiable credentials? ways to change ownership on-chain?

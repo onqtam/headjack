@@ -6,6 +6,28 @@ This is a non-exhaustive list of some of the most obvious problems.
 
 One major problem of the current internet architecture is that documents are host-certified and communication happens through the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle) - we refer to data by location instead of contents. The consequences are explained in the [host-centric](../introduction/host_centric.md) page (contrast that to [data-centric](../introduction/data_centric.md)).
 
+TODO: mention the lack of authenticity as a major problem
+
+## Lack of composability & interoperability
+
+<!--
+
+
+> "Asset titles, licenses, and certificates can't live on the internet easily in a truly meaningful and native way. If you do put them online, there’s very little one can do to ensure they are authentic or valid, especially if you want them to remain authentic across platforms without building special-purpose APIs and integrations." - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
+
+composability
+
+> "Problem: The data for {X} is under the total control of company {X}. If a user wants to migrate to a new service, they can’t bring their history with them in a way that retains its legitimacy. Company {X} doesn’t want to let them, and even if they did, it wouldn’t be easy to do this at scale in a way so {X} doesn’t maintain total control. See: Twitter API being public with companies built on it, only to be shut down by Twitter." - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
+
+<img src="../images/twitter_as_protocol.webp">
+
+> "I think it might make the world more efficient if we were able to instantly verify the authenticity of assets, licenses, and certificates, without the need for every issuer to run massive APIs and authentication services. All one needs to do to ensure the authenticity of an asset is verify the identity and history of the issuer" - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
+
+
+https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg
+
+-->
+
 ## Black boxes & algorithmic bias
 
 The recommendation algorithms & the interest graph are the architecture of virality - the dynamics of amplification & interaction dictate how ideas surface, propagate, compound & evolve. The people writing the algorithmic feeds are the most powerful in the world - [@naval](https://youtu.be/3qHkcs3kG44?t=3616).
@@ -17,6 +39,8 @@ Ephemeral experiences such as search suggestions & results leave no trace and it
 Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
 
 The explicit user preferences such as subscriptions & the interest graph (following/connections) are routinely discounted in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all respond to outrage & enjoy the occasional viral cat video but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
+
+> "I'm in an ongoing relationship with a moody, sensitive, grudge-holding, and generally crazy girlfriend called the Twitter algorithm. Everything will be going fine and then suddenly I'm getting the cold-shoulder and I don't even really know what I did and just have to wait it out." - [Tim Urban](https://twitter.com/waitbutwhy/status/1506755880578166788)
 
 <!-- addictive social media - toxic -->
 
@@ -45,6 +69,10 @@ Social media platforms are growth-at-all-costs stories because the goal is to ac
 Users are usually locked-in and effectively have no [voice and exit](https://twitter.com/balajis/status/1548725591687303168) either because:
 - the network effects are insurmountable for incumbents and there are no alternatives
 - or if they leave for an alternative service they'd lose all their connections, audience & reputation and would have to start from scratch
+
+> "I think it might be reasonable to believe that single monolithic companies shouldn’t have monopolies on certain data that practically guarantees user lock-in. And that the internet might be better if some data were made completely open and available to any developer who wants to build on it while ensuring that the data can’t be edited by anyone that isn’t supposed to be able to edit it." - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
+
+> "Twitter was supposed to be a protocol allowing anyone to build products and services on top of it that drive value back to the parent company and investors. But it wasn’t a real protocol. It only pretended to be. As soon as the people behind the scenes changed their minds about what they wanted Twitter to be, the “protocol” side of Twitter got shut down. While this ruined a lot of businesses built on top of it at the time, it was perfectly predictable. Before web3, it was near impossible to build real application-specific protocols on the internet. And counter to the beliefs of the biggest web3 critics, web3 does allow you to build real, open, and neutral protocols." - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 
 ## Centralized & fragmented identity/preferences
 
@@ -132,3 +160,8 @@ A non-exhaustive list of additional problems (beyond what's already listed) with
     - find the beginning of [this thread](https://twitter.com/lopp/status/1531668215541145601) - is that readable & usable? There should be an alternative Reddit-style interface
 
 <!-- tweets & comments without tagging is primitive and inefficient -->
+
+when twitter decide engagement is low they shove down your throat nonsense algorithmic "recent tweets" notifications you can't turn off - that's what it has devolved into. "See less often" from the dropdown menu does nothing.
+
+> "Unfortunately, you cannot turn off recent tweets. This is because the feature drives up “user engagement”, which is a key metric that shareholders pay attention to." - [source](https://thisinterestsme.com/recommended-tweets/)
+

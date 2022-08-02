@@ -17,7 +17,7 @@ If the internet is the information super highway, blockchains are the cooperatio
 
 Headjack's mission is to end network effect monopolies & data silos by making identity & data sovereign & interoperable. The status quo is just a local maximum. Goals:
 
-- distribute power and let people have a choice - identity should belong to no one
+- [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a choice - identity should belong to no one
 - add [authenticity](authenticity.md) to information and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) for greater accountability
 - revive the semantic web, [deduplicate content & enable traceability](authenticity.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
@@ -143,10 +143,6 @@ the way to end polarization is by allowing us to choose and display what unites 
 
 
 
-
-
-
-https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/
 
 
 

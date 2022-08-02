@@ -106,3 +106,11 @@ https://arxiv.org/abs/2109.13046
 
 https://twitter.com/Snowden/status/1545728037341171713
 
+
+Of course freedom of reach is freedom of speech. Speech without reach isn’t free speech; it’s just mumbling to yourself.
+"Do you think freedom of speech includes the right to say and believe obnoxious stupid shit that’s almost certainly false, or do you feel platforms have the responsibility to arbitrate truth and regulate online behavior for the sake of some supposed greater good?"
+That’s the real question here, and everything else is either willfully (or accidentally) naive online posturing.
+https://www.thepullrequest.com/p/freeze-peach-and-the-internet
+^^ good read - especially after the first 1/3
+
+
