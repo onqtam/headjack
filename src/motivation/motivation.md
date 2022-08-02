@@ -8,6 +8,7 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Benefits of this approach](../motivation/benefits.md)
 1. [Infrastructure improvements](../motivation/infrastructure.md)
 1. [Unlocked possibilities](../motivation/possibilities.md)
+1. [Indexes & algorithms](../motivation/indexes_and_algorithms.md)
 1. [The metaverse](../motivation/metaverse.md)
 1. [Startup case study](../motivation/startup_case_study.md)
 1. [Philosophy](../motivation/philosophy.md)

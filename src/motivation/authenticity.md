@@ -8,6 +8,12 @@ We'll be able to computationally verify the authenticity of any document & tie i
 
 Anyone might have saved a specific document (& updates to it) locally along with the necessary proofs for authenticity even if most infrastructure no longer stores/serves it. There is a `1 of N` guarantee which allows documents that someone wants buried to be passed around with proofs and resurface in the public at a later point - improving accountability.
 
+<!-- 
+TODO:
+In such an environment controversial and false claims are much easier to prove.
+If even intranets and corps move to this addressing then whistpeblowing will be much more authentic. This is the mechanism for the biggest crimes to bubble up
+-->
+
 ---
 
 Using screenshots of tweets in case the originals get deleted does not constitute evidence. The lack of authenticity is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/).

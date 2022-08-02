@@ -10,6 +10,10 @@
 The goal is democratized access, competition & innovation - not the end of the ad model which is a pipe dream.
 
 
+The goal is not to kill the ad model - it is to make everything authentic and allow for better UI and choice and enable the web to step on this
+
+the ad model isn't going anywhere but we are in a "take it or leave" situation without choice - the goal is to fix that
+
 
 > "Internet monetization is somewhat like a Soviet election: It doesn’t matter who clicks and where, it’s who counts those clicks that matters. The technology and business of that counting of clicks (and everything else you do online besides) goes by the dull-sounding name of attribution, and it determines the fate of trillion-dollar companies." - [source](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll)
 
@@ -52,4 +56,6 @@ Ads themselves are not the root evil - it's the lack of choice & ability to exit
 ## IDMs & storage - the new cloud
 
 https://twitter.com/ZeMariaMacedo/status/1554041365754945537
+
+
 

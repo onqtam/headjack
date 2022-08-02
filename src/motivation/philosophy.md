@@ -45,23 +45,6 @@ Headjack makes identity sovereign and no 2 entities can be prevented from commun
 https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
  -->
 
-## Transparency & choice of algorithms
-
-Imagine seeing both the data and the algorithms running on that data & being able to check the results for yourself
-
-
-
-
-
-
-
-
-
-"Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level."
-https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
-
-
-
 
 
 
