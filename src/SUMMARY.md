@@ -27,6 +27,7 @@
     - [Benefits of this approach](motivation/benefits.md)
     - [Infrastructure improvements](motivation/infrastructure.md)
     - [Unlocked possibilities](motivation/possibilities.md)
+    - [Indexes & algorithms](motivation/indexes_and_algorithms.md)
     - [The metaverse](motivation/metaverse.md)
     - [Startup case study](motivation/startup_case_study.md)
     - [Philosophy](motivation/philosophy.md)

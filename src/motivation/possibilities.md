@@ -28,17 +28,6 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 
 
 
-## Recommendation algorithms
-
-promotion of videos will no longer be dominated just by the recommendation algorithm - when an influencer comments on a video his followers will see it and watch the said video too
-
-We will be able to study the effects of recommendation algorithms for virality because all content has an interface where it came from
-
-Interfaces will compete on the algorithms they let people use to filter and sort information - to look for signal through the noise.
-
-
-
-
 
 
 
