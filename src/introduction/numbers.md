@@ -2,7 +2,7 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-# Numbers
+# Throughput numbers (scaling)
 
 
 Everyone claims to be scalable - but here we'll prove that Headjack can handle billions of accounts and unlimited amounts of terabytes per second of off-chain content with simple napkin math

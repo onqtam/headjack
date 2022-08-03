@@ -10,6 +10,8 @@ manifold
 
 cyberspace
 
+frustum - as a base layer
+
 accretor
 accretion
 https://www.merriam-webster.com/dictionary/accrete
