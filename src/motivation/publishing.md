@@ -28,3 +28,7 @@ Linked data is essential for discoverability & ingestion of information - this g
 
 
 > "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
+
+
+PDFs are a horrendous format
+PDFs ^ word filtes should contain everything and have authentic links
