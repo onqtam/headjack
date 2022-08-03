@@ -37,7 +37,13 @@
 
 ---
 
-- [(WIP) Implementation (how)](implementation/blockchain.md)
+- [Implementation (how)](implementation/implementation.md)
+    - [Identity managers (IDM)](implementation/ecosystem/IDM.md)
+    - [Handles (names)](implementation/handles.md)
+    - [Message types](implementation/ecosystem/messages.md)
+
+<!-- 
+- [Implementation (how)](implementation/implementation.md)
     - [(WIP) Scaling & throughput](implementation/scaling.md)
     - [(WIP) Block & state structure](implementation/block_state_structure.md)
     - [(WIP) Tokenomics](implementation/tokenomics.md)
@@ -49,7 +55,7 @@
         - [(WIP) Moderation](implementation/ecosystem/moderation.md)
     - [(WIP) Example flow of actions & events]()
     - [(WIP) Open questions](implementation/open_questions.md)
-    - [(WIP) Roadmap](implementation/roadmap.md)
+    - [(WIP) Roadmap](implementation/roadmap.md) -->
 
 # Misc
 

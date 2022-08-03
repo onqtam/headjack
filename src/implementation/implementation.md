@@ -2,8 +2,10 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
+# Implementation (how)
 
-TODO: blockchain.md document with a "why not a rollup" section - or in the FAQ
+<!--
+TODO: document with a "why not a rollup" section - or in the FAQ
 https://twitter.com/KirilovVik/status/1531184971896999936
 https://polynya.medium.com/the-sustainability-checklist-d620549425dc
 
@@ -78,3 +80,4 @@ Media is about data access and sequence
 # Mempool
 
 Mempool used mostly by interfaces with big bulky blobs
+-->

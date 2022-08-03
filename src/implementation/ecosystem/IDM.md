@@ -2,6 +2,9 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
+# Identity managers (IDM)
+
+<!--
 # DMs
 
 - DMs without keys - how?
@@ -100,4 +103,4 @@ TODO: problem: what happens if an ACM with control of millions of accounts stops
 https://fission.codes/blog/auth-without-backend/
 https://ucan.xyz/
 https://jwt.io/
-
+ -->
