@@ -488,12 +488,12 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 </ul>
 <p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains.</p>
 <p>IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
-<h1 id="best-case-scenario"><a class="header" href="#best-case-scenario">Best case scenario</a></h1>
-<p>The best case scenario is &quot;business as usual&quot; and does not include:</p>
+<h1 id="best-case-scenario-naive"><a class="header" href="#best-case-scenario-naive">Best case scenario (naive)</a></h1>
+<p>The best case scenario is &quot;business as usual&quot; and does not include on-chain actions such as:</p>
 <ul>
-<li>keypair changes</li>
-<li>account creation</li>
-<li>name registration &amp; ownership changes</li>
+<li>keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))</li>
+<li>account creation (if done through an IDM then this is just a few bytes - no pubkey)</li>
+<li>name registration &amp; ownership changes (could be done through IDMs without signatures - per)</li>
 <li>accounts interacting directly with the chain instead of through interfaces &amp; IDMs</li>
 </ul>
 <p>Assuming:</p>
@@ -505,87 +505,34 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <p>So we get:</p>
 <ul>
 <li>120 actors (100 interfaces + 20 IDMs) that post in every block the <code>141</code> bytes minimum for their transactions, which is <code>16920</code> bytes</li>
-<li>the remaining <code>1031656</code> bytes (1048576 - 16920) can be filled with authorizations and since 1 authorization is <code>16</code> bytes (8 * 2) that would be 64478 authorizations/revocations every 10 seconds or 6447 authorizations per second</li>
+<li>the remaining <code>1031656</code> bytes (1048576 - 16920) can be filled with authorizations and since an authorization is <code>16</code> bytes (8 * 2) that would be 64478 authorizations/revocations every 10 seconds or 6447 authorizations/revocations per second</li>
+<li>for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-ons</a> per day</li>
 </ul>
-<p>6447</p>
-<p>86400</p>
-<p>==&gt; 143 bytes</p>
-<ul>
-<li>connection between 2 indexes: 8 bytes</li>
-<li>10k follow/unfollow events = 10000 * 8 = 80000 bytes
-==&gt; total: 80000 + 147 = 80133</li>
-</ul>
-<p>Some average numbers for Ethereum to put things into perspective:</p>
-<ul>
-<li>
-<p>block size: 1 MB</p>
-</li>
-<li>
-<p>block time: 10 seconds</p>
-</li>
-<li>
-<p>bandwidth per second: 100 kb/s</p>
-</li>
-<li>
-<p>bandwidth per hour: 360 mb/s</p>
-</li>
-<li>
-<p>transactions per second: <a href="https://blockchair.com/ethereum/charts/transactions-per-second">~14 TPS</a></p>
-</li>
-<li>
-<p>transactions per day: 1209600</p>
-</li>
-<li>
-<p>transactions per person per day for 1 billion people: 0.0012096</p>
-</li>
-<li>
-<p>transactions per block: ~180</p>
-</li>
-<li>
-<p>single transaction size: 300-700 bytes</p>
-</li>
-</ul>
-<table><thead><tr><th><em>new</em></th><th><code>-O0</code></th><th><code>-O3</code></th></tr></thead><tbody>
-<tr><td>baseline</td><td>1,567s</td><td>3,614s</td></tr>
-<tr><td>with asserts</td><td>12,263s</td><td>59,061s</td></tr>
+<table><thead><tr><th></th><th>Headjack</th><th>Ethereum</th></tr></thead><tbody>
+<tr><td>block size</td><td>1 MB</td><td><a href="https://etherscan.io/chart/blocksize"> ~80 kb </a></td></tr>
+<tr><td>block time</td><td>10 seconds</td><td><a href="https://ycharts.com/indicators/ethereum_average_block_time"> ~13 seconds </a></td></tr>
+<tr><td>block bandwidth per second</td><td>100 kb/s (x16 more than Ethereum)</td><td>~6.15 kb/s</td></tr>
+<tr><td>block bandwidth per day</td><td>8640 mb/d</td><td>~528 mb/d</td></tr>
+<tr><td>transactions/authorizations per second</td><td>6447</td><td><a href="https://blockchair.com/ethereum/charts/transactions-per-second"> ~14 TPS </a></td></tr>
+<tr><td>transactions/authorizations per day</td><td>557020800</td><td>1209600</td></tr>
+<tr><td>transactions/authorizations per person per day for 1 billion accounts</td><td>0.557 (x460 more than Ethereum)</td><td>0.0012096</td></tr>
 </tbody></table>
-<ul>
-<li>about 16x more than Ethereum</li>
-</ul>
-<p>Some average numbers for Ethereum to put things into perspective:</p>
-<ul>
-<li>block size: <a href="https://etherscan.io/chart/blocksize">~80 kb</a></li>
-<li>block time: <a href="https://ycharts.com/indicators/ethereum_average_block_time">~13 seconds</a></li>
-<li>bandwidth per second: ~6.15 kb/s</li>
-<li>bandwidth per hour: ~22 mb/s</li>
-<li>transactions per block: ~180</li>
-<li>single transaction size: 300-700 bytes</li>
-<li>transactions per second: <a href="https://blockchair.com/ethereum/charts/transactions-per-second">~14 TPS</a></li>
-<li>transactions per day: 1209600</li>
-<li>transactions per person per day for 1 billion people: 0.0012096</li>
-</ul>
+<!-- Ethereum
+- transactions per block: ~180
+- single transaction size: 300-700 bytes -->
+<p>The 2 protocols are not a natural fit for comparison as they have completely different goals - this is here just to help put things into perspective.</p>
+<p>If just 10% of users have keypairs and change them or use them for something only once per year, then </p>
 <h1 id="realistic-scenario"><a class="header" href="#realistic-scenario">Realistic scenario</a></h1>
 <ul>
-<li>
-<p>interfaces may choose not to post in every block but perhaps less often in order to manage costs</p>
-</li>
-<li>
-<p>transactions by standalone accounts not using an IDM</p>
-</li>
-<li>
-<p>key changes take more space</p>
-</li>
-<li>
-<p>name ownership changes</p>
-</li>
+<li>interfaces may choose not to post in every block but perhaps less often in order to manage costs</li>
 </ul>
-<h1 id="off-chain-content"><a class="header" href="#off-chain-content">Off-chain content</a></h1>
-<p>There are no limits to how much content can be anchored to the chain.</p>
-<h1 id="state-growth"><a class="header" href="#state-growth">State growth</a></h1>
-<p>==== BEST CASE SCENARIO:</p>
-<h1 id="reference-numbers"><a class="header" href="#reference-numbers">Reference numbers</a></h1>
-<h1 id="state-growth-1"><a class="header" href="#state-growth-1">State growth</a></h1>
-<h1 id="future-development"><a class="header" href="#future-development">Future development</a></h1>
+<p>s</p>
+<ul>
+<li>transactions by standalone accounts not using an IDM</li>
+<li>key changes take more space</li>
+<li>name ownership changes</li>
+</ul>
+<h1 id="future-development--optimizations"><a class="header" href="#future-development--optimizations">Future development &amp; optimizations</a></h1>
 <ul>
 <li>
 <p>optimizations such as batching integer indexes with values below INT_MAX (4 billion) together for compression</p>
@@ -612,6 +559,13 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <p>a tiny core on which we have consensus can be used to cryptographically anchor &amp; link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.</p>
 <p>The processing of the state machine is minimal - orders of magnitude less complexity &amp; compute compared to generalized smart contract platforms</p>
 <p>There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack.</p>
+<h1 id="state-growth"><a class="header" href="#state-growth">State growth</a></h1>
+<p>The state growth will be slower than the blockchain growth because:</p>
+<ul>
+<li>an on-chain authorization is a pair of integers while only 1 integer goes into the state</li>
+</ul>
+<h1 id="off-chain-content"><a class="header" href="#off-chain-content">Off-chain content</a></h1>
+<p>There are no limits to how much content can be anchored to the chain.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="competition"><a class="header" href="#competition">Competition</a></h1>
 <p>This chapter focuses only on the disadvantages of some of the more high-profile competing solutions in the space when compared to Headjack and doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another. Corrections for any inaccuracies are welcome!</p>
 <ol>

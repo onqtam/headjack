@@ -99,6 +99,9 @@ https://support.mycrypto.com/how-to/getting-started/how-to-sign-and-verify-messa
 https://medium.com/mycrypto/the-magic-of-digital-signatures-on-ethereum-98fe184dc9c7
 https://ethvigil.com/docs/eth_sign_example_code/
 
+https://vomtom.at/ethereum-private-and-public-keys/
+https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce
+https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated
 
 
 https://doc.libsodium.org/
