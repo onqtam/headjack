@@ -2,7 +2,9 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-TODO: obsolete?
+# Message types
+
+<!-- TODO: obsolete?
 
 
 https://spec.dsnp.org/DSNP/Announcements.html
@@ -71,4 +73,4 @@ https://schema.org/
 
 
 new types of messages get an on-chain ID so subscriptions are integer-based
-
+ -->

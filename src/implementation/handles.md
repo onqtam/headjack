@@ -2,7 +2,9 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-A global mapping of `handle` (`string`) to X helps resolve queries. X contains:
+# Handles (names)
+
+<!-- A global mapping of `handle` (`string`) to X helps resolve queries. X contains:
 - 
 
 - maybe they should not be properties of accounts but a separate map structure that just maps handles to IDs and on which block were they acquired? What would be traded - handles on IDs?
@@ -81,4 +83,4 @@ https://decrypt.co/104319/ethereum-name-web3-cybersquatting
 "Farcaster Names are ERC-721 tokens that are fully composable with the NFT ecosystem."
 https://github.com/farcasterxyz/protocol
 
-
+ -->

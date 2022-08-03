@@ -67,7 +67,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
     3. [Competing projects (list)](introduction/others_list.md)
     4. [Shortcomings of Headjack](introduction/headjack_cons.md)
 
-But the vision would be incomplete without the subsequent [**why**](motivation/philosophy.md) and more detailed [**how**](blockchain.md).
+But the vision would be incomplete without the subsequent [**why**](motivation/philosophy.md) and more detailed [**how**](implementation.md).
 
 <div style="text-align: center;">
     <img src="images/logo.png">
