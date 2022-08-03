@@ -199,3 +199,5 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
     - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
 
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
+
+- meme: oprah - you get an identity, you get an identity, everyone gets an identity!
