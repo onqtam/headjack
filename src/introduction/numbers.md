@@ -47,8 +47,8 @@ So we get:
 |-----------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------|
 | block size                                                            | 1 MB                                | [ ~80 kb ]( https://etherscan.io/chart/blocksize )                            |
 | block time                                                            | 10 seconds                          | [ ~13 seconds ]( https://ycharts.com/indicators/ethereum_average_block_time ) |
-| block bandwidth per second                                                  | 100 kb/s (x16 more than Ethereum)   | ~6.15 kb/s                                                                    |
-| block bandwidth per day                                                     | 8640 mb/d                           | ~528 mb/d                                                                     |
+| blockchain bandwidth per second                                                  | 100 kb/s (x16 more than Ethereum)   | ~6.15 kb/s                                                                    |
+| blockchain bandwidth per day                                                     | 8640 mb/d                           | ~528 mb/d                                                                     |
 | transactions/authorizations per second                                | 6447                                | [ ~14 TPS ]( https://blockchair.com/ethereum/charts/transactions-per-second ) |
 | transactions/authorizations per day                                   | 557020800                           | 1209600                                                                       |
 | transactions/authorizations per person per day for 1 billion accounts | 0.557 (x460 more than Ethereum) | 0.0012096                                                                     |
