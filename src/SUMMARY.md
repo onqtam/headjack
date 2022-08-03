@@ -55,12 +55,6 @@
         - [(WIP) Moderation](implementation/ecosystem/moderation.md)
     - [(WIP) Example flow of actions & events]()
     - [(WIP) Open questions](implementation/open_questions.md)
-    - [(WIP) Roadmap](implementation/roadmap.md) -->
-
-# Misc
-
-- [(WIP) FAQ](FAQ.md)
-
-
-
-
+    - [(WIP) Roadmap](implementation/roadmap.md)
+    - [FAQ](FAQ.md)
+-->
