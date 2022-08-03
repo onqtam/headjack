@@ -32,16 +32,11 @@ IDMs also submit a list of authorizations (or revocations) as 4 byte integer pai
 
 # Best case scenario (naive)
 
-The best case scenario is "business as usual" and does not include on-chain actions such as:
-- keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))
-- account creation (if done through an IDM then this is just a few bytes - no pubkey)
-- name registration & ownership changes (could be done through IDMs without signatures - per)
-- accounts interacting directly with the chain instead of through interfaces & IDMs
-
 Assuming:
 - 1 MB block size & 10 second block time
 - 100 interfaces posting in every block
 - 20 IDMs authorizing as much users as possible - filling the remaining block space
+- no on-chain actions such as keypair & name changes, account creation & direct interaction with the chain by end users
 
 So we get:
 - 120 actors (100 interfaces + 20 IDMs) that post in every block the `141` bytes minimum for their transactions, which is `16920` bytes
@@ -68,6 +63,12 @@ If just 10% of users have keypairs and change them or use them for something onl
 
 
 # Realistic scenario
+
+The best case scenario is "business as usual" and does not include on-chain actions such as:
+- keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))
+- account creation (if done through an IDM then this is just a few bytes - no pubkey)
+- name registration & ownership changes (could be done through IDMs without signatures - per)
+- accounts interacting directly with the chain instead of through interfaces & IDMs
 
 - interfaces may choose not to post in every block but perhaps less often in order to manage costs
 

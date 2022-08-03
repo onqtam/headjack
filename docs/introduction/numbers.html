@@ -167,18 +167,12 @@
 <p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains.</p>
 <p>IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
 <h1 id="best-case-scenario-naive"><a class="header" href="#best-case-scenario-naive">Best case scenario (naive)</a></h1>
-<p>The best case scenario is &quot;business as usual&quot; and does not include on-chain actions such as:</p>
-<ul>
-<li>keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))</li>
-<li>account creation (if done through an IDM then this is just a few bytes - no pubkey)</li>
-<li>name registration &amp; ownership changes (could be done through IDMs without signatures - per)</li>
-<li>accounts interacting directly with the chain instead of through interfaces &amp; IDMs</li>
-</ul>
 <p>Assuming:</p>
 <ul>
 <li>1 MB block size &amp; 10 second block time</li>
 <li>100 interfaces posting in every block</li>
 <li>20 IDMs authorizing as much users as possible - filling the remaining block space</li>
+<li>no on-chain actions such as keypair &amp; name changes, account creation &amp; direct interaction with the chain by end users</li>
 </ul>
 <p>So we get:</p>
 <ul>
@@ -201,8 +195,23 @@
 <p>The 2 protocols are not a natural fit for comparison as they have completely different goals - this is here just to help put things into perspective.</p>
 <p>If just 10% of users have keypairs and change them or use them for something only once per year, then </p>
 <h1 id="realistic-scenario"><a class="header" href="#realistic-scenario">Realistic scenario</a></h1>
+<p>The best case scenario is &quot;business as usual&quot; and does not include on-chain actions such as:</p>
 <ul>
-<li>interfaces may choose not to post in every block but perhaps less often in order to manage costs</li>
+<li>
+<p>keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))</p>
+</li>
+<li>
+<p>account creation (if done through an IDM then this is just a few bytes - no pubkey)</p>
+</li>
+<li>
+<p>name registration &amp; ownership changes (could be done through IDMs without signatures - per)</p>
+</li>
+<li>
+<p>accounts interacting directly with the chain instead of through interfaces &amp; IDMs</p>
+</li>
+<li>
+<p>interfaces may choose not to post in every block but perhaps less often in order to manage costs</p>
+</li>
 </ul>
 <p>s</p>
 <ul>
