@@ -16,40 +16,8 @@
 
 
 
-eth block size: ~80kb every 13 seconds
-https://etherscan.io/chart/blocksize
-=> 22MB/hour
-
-300-700 bytes per TX (average, could be as low as 150 or as high as 1400 bytes)
-
-minimum theoretic size for eth tx: 100 bytes
-for bitcoin: 247 bytes
-https://ethereum.stackexchange.com/questions/30175
-
-transactions per block:
-https://etherscan.io/blocks
-
-# Off-chain content
-
-There are no limits to how much content can be anchored to the chain.
-
-# State growth
 
 
-==== BEST CASE SCENARIO:
-
-
-from each interface:
-- signature: 65 bytes
-- index: 4 bytes
-- blob IPFS address: 32 (46 in base58 encoding)
-- blob merkle root: 32
-==> 147 bytes
-- connection between 2 indexes: 8 bytes
-- 10k follow/unfollow events = 10000 * 8 = 80000 bytes
-==> total: 80000 + 147 = 80133
-
-TODO: would receipts/logs be necessary in the blocks - like in Ethereum?
 
 with 1MB/s that means: (600 times more than bitcoin)
 1048576 / 80133 = 13 interfaces with equal amounts of traffic/activity
@@ -67,16 +35,9 @@ twitter real user numbers:
 https://imgur.com/a/19NV1YR
 
 TODO: sharding?
-- not being a financial chain eases a lot of things
-- sharding is trivial - me following you does not credit your account with anything...
-    - or maybe it does because of the "who follows me" array...
-- trivial sharding - there's no problem such as fracturing liquidity or preventing composability because entities live on different shards - they just point to each other and the bulk of the action takes place off-chain anyway
 
 
 needs the right abstraction if accounts are migrating from one shard to another - interfaces & IDMs shouldn't need to care
-
-
-shard id
 
 If handles are permanent to shards then their allocation to shards can be managed in the beacon chain and it can be consulted when following urls to content - so that the shard idx doesnt have to be in the urls
 
