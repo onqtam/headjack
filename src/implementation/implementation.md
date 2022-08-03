@@ -4,6 +4,8 @@
 
 # Implementation (how)
 
+How the blockchain & ecosystem are actually implemented (full specification).
+
 <!--
 TODO: document with a "why not a rollup" section - or in the FAQ
 https://twitter.com/KirilovVik/status/1531184971896999936
