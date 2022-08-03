@@ -43,7 +43,7 @@ So we get:
 - the remaining `1031656` bytes (1048576 - 16920) can be filled with authorizations and since an authorization is `16` bytes (8 * 2) that would be 64478 authorizations/revocations every 10 seconds or 6447 authorizations/revocations per second
 - for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less [single sign-ons](https://en.wikipedia.org/wiki/Single_sign-on) per day
 
-|                                                                       | Headjack                            | Ethereum                                                                      |
+|completely different goals - comparing the 2 protocols just to put things into perspective                                                                       | Headjack                            | Ethereum                                                                      |
 |-----------------------------------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------|
 | block size                                                            | 1 MB                                | [ ~80 kb ]( https://etherscan.io/chart/blocksize )                            |
 | block time                                                            | 10 seconds                          | [ ~13 seconds ]( https://ycharts.com/indicators/ethereum_average_block_time ) |
@@ -56,8 +56,6 @@ So we get:
 <!-- Ethereum
 - transactions per block: ~180
 - single transaction size: 300-700 bytes -->
-
-The 2 protocols are not a natural fit for comparison as they have completely different goals - this is here just to help put things into perspective.
 
 If just 10% of users have keypairs and change them or use them for something only once per year, then 
 
