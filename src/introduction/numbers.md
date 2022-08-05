@@ -66,12 +66,22 @@ However, the realistic scenario will not be far from the naive because:
 # Optimizations & scaling
 
 - Throughput of 100 kb/s is just the start & can easily go to 1-10 mb/s as a ZK rollup.
-- The chain can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - all they contain is authorization block numbers & keypair history.
+- The chain & state can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - all they contain is authorization block numbers & keypair history.
 - A fee market can develop that tunes the cost of different actions so that actors don't just pay for on-chain bytes - the ways the system is used can be guided through incentives.
-- Integer indexes that are below INT_MAX (4 billion) can be compressed/batched together.
+- Integer indexes that only need 4 bytes can be compressed/batched together.
 - Other optimizations not listed here - this is just the starting point.
 
 # State growth
+
+The growth of the chain and the state will differ by a few things:
+
+
+One difference between Headjack and financial blockchains is that they don't force historical records into the state whereas that is the main value proposition of Headjack.
+
+
+
+
+This could be a concern when Headjack takes over the world - if blocks are 10 mb once every 10 seconds the chain would grow by 86 gb/day. However, 
 
 The processing of the state machine is minimal - orders of magnitude less complexity & compute compared to generalized smart contract platforms
 
