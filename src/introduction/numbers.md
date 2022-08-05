@@ -97,13 +97,4 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 
 # Off-chain content
 
-There are no limits to how much off-chain content can be anchored to the chain - it is simply merkelized..
-
-Headjack focuses on the bare minimum on which consensus is required in order to allow for billions of accounts to publish unbounded amounts of off-chain content authentically tied to identity & sequenced on a shared global timeline.
-
-
-and yet still provide the guarantees & mental model simplicity of Headjack.
-
-
-There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys & names and yet still provide the guarantees & mental model simplicity of Headjack.
-
+There are no limits for off-chain content as it is all just anchored with merkle roots - it could be as high as hundreds of terabytes per second. There isn't a more minimal design that can link unbounded amounts of off-chain data to billions of identities that can change keys & names and yet still provide the guarantees & mental model simplicity of Headjack - it achieves consensus on the absolute bare minimum.
