@@ -160,7 +160,7 @@
 </ul>
 <p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
 <h1 id="naive-scenario"><a class="header" href="#naive-scenario">Naive scenario</a></h1>
-<p>The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for <a href="https://twitter.com/eshita/status/1546911451125649408">validium ZK rollups</a> as there are already DA solutions that offer <a href="https://twitter.com/apolynya/status/1517137629334056960">10 mb/s or even much more</a> so in the future this can easily go way beyond 100 kb/s.</p>
+<p>The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for <a href="https://twitter.com/eshita/status/1546911451125649408">validium ZK rollups</a> as there are already DA solutions that offer <a href="https://twitter.com/apolynya/status/1517137629334056960">10 mb/s or even much more</a>.</p>
 <p>Assuming:</p>
 <ul>
 <li>1 MB block size &amp; 10 second block time (100 kb/s of block bandwidth)</li>
@@ -190,8 +190,8 @@
 <p>The naive scenario does not include on-chain actions for specific accounts such as:</p>
 <ul>
 <li>keypair changes (new pubkey (32 bytes) + signature (65 bytes) if there is an older key)</li>
-<li>account creation (if done through an IDM then this is just a few bytes - no pubkey)</li>
-<li>name registration &amp; ownership changes (could be done through IDMs without signatures)</li>
+<li>account creation (if done by an IDM then this is just a few bytes - no pubkey)</li>
+<li>name registration &amp; ownership changes (no plans how this market would work yet)</li>
 <li>updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services</li>
 <li>signed transactions by individual accounts that want to directly interact with the chain
 <ul>
@@ -204,7 +204,7 @@
 <li>Only a % of all accounts will have keypairs and will make just a few signed actions per year - leaving the majority of block throughput for authorizations through IDMs.</li>
 <li>Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> every single day.</li>
 <li>Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.</li>
-<li>There are many ways to optimize the chain and scale the throughput by multiple orders of magnitude - noted in the next section.</li>
+<li>The chain throughput can be further optimized &amp; scaled by multiple orders of magnitude.</li>
 </ul>
 <h1 id="optimizations--scaling"><a class="header" href="#optimizations--scaling">Optimizations &amp; scaling</a></h1>
 <ul>

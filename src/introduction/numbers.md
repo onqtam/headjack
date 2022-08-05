@@ -20,7 +20,7 @@ So far that is `141 bytes` which almost every transaction by an interface or IDM
 
 # Naive scenario
 
-The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for [validium ZK rollups](https://twitter.com/eshita/status/1546911451125649408) as there are already DA solutions that offer [10 mb/s or even much more](https://twitter.com/apolynya/status/1517137629334056960) so in the future this can easily go way beyond 100 kb/s.
+The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for [validium ZK rollups](https://twitter.com/eshita/status/1546911451125649408) as there are already DA solutions that offer [10 mb/s or even much more](https://twitter.com/apolynya/status/1517137629334056960).
 
 Assuming:
 - 1 MB block size & 10 second block time (100 kb/s of block bandwidth)
@@ -51,8 +51,8 @@ We get:
 
 The naive scenario does not include on-chain actions for specific accounts such as:
 - keypair changes (new pubkey (32 bytes) + signature (65 bytes) if there is an older key)
-- account creation (if done through an IDM then this is just a few bytes - no pubkey)
-- name registration & ownership changes (could be done through IDMs without signatures)
+- account creation (if done by an IDM then this is just a few bytes - no pubkey)
+- name registration & ownership changes (no plans how this market would work yet)
 - updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services
 - signed transactions by individual accounts that want to directly interact with the chain
     - authorizing an IDM, rotating keys, or even publishing off-chain content as an interface
@@ -61,7 +61,7 @@ However, the realistic scenario will not be far from the naive because:
 - Only a % of all accounts will have keypairs and will make just a few signed actions per year - leaving the majority of block throughput for authorizations through IDMs.
 - Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through [SSO](https://en.wikipedia.org/wiki/Single_sign-on) every single day.
 - Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.
-- There are many ways to optimize the chain and scale the throughput by multiple orders of magnitude - noted in the next section.
+- The chain throughput can be further optimized & scaled by multiple orders of magnitude.
 
 # Optimizations & scaling
 
