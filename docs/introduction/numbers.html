@@ -214,18 +214,30 @@
 <li>Other optimizations not listed here - this is just the starting point.</li>
 </ul>
 <h1 id="state-growth"><a class="header" href="#state-growth">State growth</a></h1>
-<p>The growth of the chain and the state will differ by a few things:</p>
-<p>One difference between Headjack and financial blockchains is that they don't force historical records into the state whereas that is the main value proposition of Headjack.</p>
-<p>This could be a concern when Headjack takes over the world - if blocks are 10 mb once every 10 seconds the chain would grow by 86 gb/day. However, </p>
-<p>The processing of the state machine is minimal - orders of magnitude less complexity &amp; compute compared to generalized smart contract platforms</p>
-<p>The state growth will be slower than the blockchain growth because:</p>
-<ul>
-<li>an on-chain authorization is a pair of integers while only 1 integer goes into the state</li>
-</ul>
-<p>a tiny core on which we have consensus can be used to cryptographically anchor &amp; link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.</p>
-<ul>
-<li>state doesn't need to store the merkle roots &amp; IPFS hashes - merkle proofs can contain block numbers &amp; block hashes</li>
-</ul>
+<p>Headjack's main value proposition is keeping historical records of the sequence of authorizations, key changes &amp; off-chain content anchors and being able to generate proofs for any specific piece of off-chain content.</p>
+<p>TODO: finish this</p>
+<!-- 
+
+The growth of the chain and the state will differ by a few things:
+
+
+One difference between Headjack and financial blockchains is that they don't force historical records into the state whereas that is the main value proposition of Headjack.
+
+
+
+
+This could be a concern when Headjack takes over the world - if blocks are 10 mb once every 10 seconds the chain would grow by 86 gb/day. However, 
+
+The processing of the state machine is minimal - orders of magnitude less complexity & compute compared to generalized smart contract platforms
+
+The state growth will be slower than the blockchain growth because:
+
+- an on-chain authorization is a pair of integers while only 1 integer goes into the state
+
+
+a tiny core on which we have consensus can be used to cryptographically anchor & link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.
+
+- state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes -->
 <h1 id="off-chain-content"><a class="header" href="#off-chain-content">Off-chain content</a></h1>
 <p>There are no limits for off-chain content as it is all just anchored with merkle roots - it could be as high as hundreds of terabytes per second. There isn't a more minimal design that can link unbounded amounts of off-chain data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack - it achieves consensus on the absolute bare minimum.</p>
 

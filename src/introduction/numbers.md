@@ -71,6 +71,12 @@ However, the realistic scenario will not be far from the naive because:
 
 # State growth
 
+Headjack's main value proposition is keeping historical records of the sequence of authorizations, key changes & off-chain content anchors and being able to generate proofs for any specific piece of off-chain content.
+
+TODO: finish this
+
+<!-- 
+
 The growth of the chain and the state will differ by a few things:
 
 
@@ -90,7 +96,7 @@ The state growth will be slower than the blockchain growth because:
 
 a tiny core on which we have consensus can be used to cryptographically anchor & link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.
 
-- state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes
+- state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes -->
 
 
 # Off-chain content
