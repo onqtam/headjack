@@ -6,6 +6,7 @@
 # The metaverse
 
 
+<!-- 
 Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe.
 https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg
 
@@ -35,9 +36,18 @@ https://blog.ceramic.network/into-the-dataverse/
 
 
 
+you need to be able to pull and reference anything from any part of the metaverse
+
+
 https://twitter.com/punk6529/status/1448399827054833668
 https://twitter.com/punk6529
 https://6529.io/ 
 
 
 https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-metaverse-standards
+
+
+instance/nonce/collections from an identity - perhaps 100% off-chain issuance with on-chain integer-only updates to facilitate off-chain "namespaces" & libraries of objects
+
+
+-->

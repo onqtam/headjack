@@ -1,46 +1,36 @@
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-
 # Throughput numbers (scaling)
 
 Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of terabytes per second of off-chain content (making it addressable & tied to identity) with simple napkin math.
-
-# Headjack bandwidth
-
-The initial version will target capacity of 100 kb/s. This is not a problem for [validium ZK rollups](https://twitter.com/eshita/status/1546911451125649408) as there are already DA solutions that offer [10 MB/s or even much more](https://twitter.com/apolynya/status/1517137629334056960) so in the future this can easily go way beyond 100 kb/s.
 
 # How big is a Headjack transaction
 
 <!-- Pubkeys are extracted from signatures and the blockchain maps them to account indexes. -->
 
-Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root.
+Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences & updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.
 
-IDMs also anchor off-chain content (mainly user preferences & updates to social graph), but they also post authorizations to other accounts (interfaces) on behalf of users as integer pairs.
-
-So the fields for a transaction are:
+So the fields for a transaction by an interface/IDM (which will be the majority) are:
 - version: `4 bytes`
 - signature: [`65 bytes`](https://ethvigil.com/docs/eth_sign_example_code/#recovering-the-message-signer-in-the-smart-contract)
 - blob IPFS address: [`32 bytes`](https://proto.school/anatomy-of-a-cid/01)
 - blob merkle root: [`32 bytes`](https://www.mycryptopedia.com/merkle-tree-merkle-root-explained/)
-- nonce: `4 bytes` auto-increment integer associated with the account - so that anchored off-chain blobs never get reordered (which would mess up internal addressing based on that nonce)
-- value: `4 bytes` amount of native token paid to miners for transaction inclusion
+- nonce: `4 bytes` auto-increment integer associated with the account - to prevent reordering of anchored off-chain blobs (which would mess up internal addressing based on that nonce)
+- value: `4 bytes` amount of native token paid to validators for transaction inclusion
 
-So far that is `141 bytes` which almost every transaction by an interface or IDM contains.
+So far that is `141 bytes` which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.
 
-IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.
+# Naive scenario
 
-# Best case scenario (naive)
+The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for [validium ZK rollups](https://twitter.com/eshita/status/1546911451125649408) as there are already DA solutions that offer [10 mb/s or even much more](https://twitter.com/apolynya/status/1517137629334056960) so in the future this can easily go way beyond 100 kb/s.
 
 Assuming:
-- 1 MB block size & 10 second block time
-- 100 interfaces posting in every block
-- 20 IDMs authorizing as much users as possible - filling the remaining block space
+- 1 MB block size & 10 second block time (100 kb/s of block bandwidth)
+- 1000 interfaces posting in every block
+- 100 IDMs authorizing as much users as possible - filling the remaining block space
 - no on-chain actions such as keypair & name changes, account creation & direct interaction with the chain by end users
 
-So we get:
-- 120 actors (100 interfaces + 20 IDMs) that post in every block the `141` bytes minimum for their transactions, which is `16920` bytes
-- the remaining `1031656` bytes (1048576 - 16920) can be filled with authorizations and since an authorization is `16` bytes (8 * 2) that would be 64478 authorizations/revocations every 10 seconds or 6447 authorizations/revocations per second
+We get:
+- 1100 actors (1000 interfaces + 100 IDMs) that post in every block the `141` bytes minimum for their transactions, which is `155100` bytes
+- the remaining `893476` bytes (1048576 (1MB) - 155100) can be filled with authorizations and since an authorization is `16` bytes (8 * 2) that would be 55842 authorizations/revocations every 10 seconds or 5584 authorizations/revocations per second
 - for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less [single sign-ons](https://en.wikipedia.org/wiki/Single_sign-on) per day
 
 |completely different goals - comparing the 2 protocols just to put things into perspective                                                                       | Headjack                            | Ethereum                                                                      |
@@ -49,66 +39,61 @@ So we get:
 | block time                                                            | 10 seconds                          | [ ~13 seconds ]( https://ycharts.com/indicators/ethereum_average_block_time ) |
 | blockchain bandwidth per second                                                  | 100 kb/s (x16 more than Ethereum)   | ~6.15 kb/s                                                                    |
 | blockchain bandwidth per day                                                     | 8640 mb/d                           | ~528 mb/d                                                                     |
-| transactions/authorizations per second                                | 6447 APS                               | [ ~14 TPS ]( https://blockchair.com/ethereum/charts/transactions-per-second ) |
-| transactions/authorizations per day                                   | 557,020,800 APS                          | 1,209,600                                                                       |
-| transactions/authorizations per person per day for 1 billion accounts | 0.557 (x460 more than Ethereum) | 0.0012096                                                                     |
+| transactions/authorizations per second                                | 5584 APS                               | [ ~14 TPS ]( https://blockchair.com/ethereum/charts/transactions-per-second ) |
+| transactions/authorizations per day                                   | 482,457,600 APS                          | 1,209,600                                                                       |
+| transactions/authorizations per person per day for 1 billion accounts | 0.482 (x400 more than Ethereum) | 0.0012096                                                                     |
 
 <!-- Ethereum
 - transactions per block: ~180
 - single transaction size: 300-700 bytes -->
 
-If just 10% of users have keypairs and change them or use them for something only once per year, then 
-
-
 # Realistic scenario
 
-The best case scenario is "business as usual" and does not include on-chain actions such as:
-- keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))
+The naive scenario does not include on-chain actions for specific accounts such as:
+- keypair changes (new pubkey (32 bytes) + signature (65 bytes) if there is an older key)
 - account creation (if done through an IDM then this is just a few bytes - no pubkey)
-- name registration & ownership changes (could be done through IDMs without signatures - per)
-- accounts interacting directly with the chain instead of through interfaces & IDMs
+- name registration & ownership changes (could be done through IDMs without signatures)
+- updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services
+- signed transactions by individual accounts that want to directly interact with the chain
+    - authorizing an IDM, rotating keys, or even publishing off-chain content as an interface
 
-- interfaces may choose not to post in every block but perhaps less often in order to manage costs
+However, the realistic scenario will not be far from the naive because:
+- Only a % of all accounts will have keypairs and will make just a few signed actions per year - leaving the majority of block throughput for authorizations through IDMs.
+- Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through [SSO](https://en.wikipedia.org/wiki/Single_sign-on) every single day.
+- Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.
+- There are many ways to optimize the chain and scale the throughput by multiple orders of magnitude - noted in the next section.
 
-s
+# Optimizations & scaling
 
-- transactions by standalone accounts not using an IDM
-- key changes take more space
-- name ownership changes
-
-
-
-
-# Future development & optimizations
-
-- optimizations such as batching integer indexes with values below INT_MAX (4 billion) together for compression
-- other optimizations not listed here
-
-- more DA ==> we can put more on-chain
-- sharding
-    - not being a financial chain eases a lot of things
-    - sharding is trivial - me following you does not credit your account with anything...
-        - or maybe it does because of the "who follows me" array...
-    - trivial sharding - there's no problem such as fracturing liquidity or preventing composability because entities live on different shards - they just point to each other and the bulk of the action takes place off-chain anyway
-
-
-a tiny core on which we have consensus can be used to cryptographically anchor & link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.
-
-The processing of the state machine is minimal - orders of magnitude less complexity & compute compared to generalized smart contract platforms
-
-There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys & names and yet still provide the guarantees & mental model simplicity of Headjack.
-
+- Throughput of 100 kb/s is just the start & can easily go to 1-10 mb/s as a ZK rollup.
+- The chain can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - all they contain is authorization block numbers & keypair history.
+- A fee market can develop that tunes the cost of different actions so that actors don't just pay for on-chain bytes - the ways the system is used can be guided through incentives.
+- Integer indexes that are below INT_MAX (4 billion) can be compressed/batched together.
+- Other optimizations not listed here - this is just the starting point.
 
 # State growth
+
+The processing of the state machine is minimal - orders of magnitude less complexity & compute compared to generalized smart contract platforms
 
 The state growth will be slower than the blockchain growth because:
 
 - an on-chain authorization is a pair of integers while only 1 integer goes into the state
 
 
+a tiny core on which we have consensus can be used to cryptographically anchor & link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.
+
+- state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes
+
 
 # Off-chain content
 
-There are no limits to how much content can be anchored to the chain.
+There are no limits to how much off-chain content can be anchored to the chain - it is simply merkelized..
 
+Headjack focuses on the bare minimum on which consensus is required in order to allow for billions of accounts to publish unbounded amounts of off-chain content authentically tied to identity & sequenced on a shared global timeline.
+
+
+and yet still provide the guarantees & mental model simplicity of Headjack.
+
+
+There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys & names and yet still provide the guarantees & mental model simplicity of Headjack.
 
