@@ -144,40 +144,34 @@
 
                 <div id="content" class="content">
                     <main>
-                        <div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-<h1 id="throughput-numbers-scaling"><a class="header" href="#throughput-numbers-scaling">Throughput numbers (scaling)</a></h1>
+                        <h1 id="throughput-numbers-scaling"><a class="header" href="#throughput-numbers-scaling">Throughput numbers (scaling)</a></h1>
 <p>Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of terabytes per second of off-chain content (making it addressable &amp; tied to identity) with simple napkin math.</p>
-<h1 id="headjack-bandwidth"><a class="header" href="#headjack-bandwidth">Headjack bandwidth</a></h1>
-<p>The initial version will target capacity of 100 kb/s. This is not a problem for <a href="https://twitter.com/eshita/status/1546911451125649408">validium ZK rollups</a> as there are already DA solutions that offer <a href="https://twitter.com/apolynya/status/1517137629334056960">10 MB/s or even much more</a> so in the future this can easily go way beyond 100 kb/s.</p>
 <h1 id="how-big-is-a-headjack-transaction"><a class="header" href="#how-big-is-a-headjack-transaction">How big is a Headjack transaction</a></h1>
 <!-- Pubkeys are extracted from signatures and the blockchain maps them to account indexes. -->
-<p>Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root.</p>
-<p>IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (interfaces) on behalf of users as integer pairs.</p>
-<p>So the fields for a transaction are:</p>
+<p>Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.</p>
+<p>So the fields for a transaction by an interface/IDM (which will be the majority) are:</p>
 <ul>
 <li>version: <code>4 bytes</code></li>
 <li>signature: <a href="https://ethvigil.com/docs/eth_sign_example_code/#recovering-the-message-signer-in-the-smart-contract"><code>65 bytes</code></a></li>
 <li>blob IPFS address: <a href="https://proto.school/anatomy-of-a-cid/01"><code>32 bytes</code></a></li>
 <li>blob merkle root: <a href="https://www.mycryptopedia.com/merkle-tree-merkle-root-explained/"><code>32 bytes</code></a></li>
-<li>nonce: <code>4 bytes</code> auto-increment integer associated with the account - so that anchored off-chain blobs never get reordered (which would mess up internal addressing based on that nonce)</li>
-<li>value: <code>4 bytes</code> amount of native token paid to miners for transaction inclusion</li>
+<li>nonce: <code>4 bytes</code> auto-increment integer associated with the account - to prevent reordering of anchored off-chain blobs (which would mess up internal addressing based on that nonce)</li>
+<li>value: <code>4 bytes</code> amount of native token paid to validators for transaction inclusion</li>
 </ul>
-<p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains.</p>
-<p>IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
-<h1 id="best-case-scenario-naive"><a class="header" href="#best-case-scenario-naive">Best case scenario (naive)</a></h1>
+<p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
+<h1 id="naive-scenario"><a class="header" href="#naive-scenario">Naive scenario</a></h1>
+<p>The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for <a href="https://twitter.com/eshita/status/1546911451125649408">validium ZK rollups</a> as there are already DA solutions that offer <a href="https://twitter.com/apolynya/status/1517137629334056960">10 mb/s or even much more</a> so in the future this can easily go way beyond 100 kb/s.</p>
 <p>Assuming:</p>
 <ul>
-<li>1 MB block size &amp; 10 second block time</li>
-<li>100 interfaces posting in every block</li>
-<li>20 IDMs authorizing as much users as possible - filling the remaining block space</li>
+<li>1 MB block size &amp; 10 second block time (100 kb/s of block bandwidth)</li>
+<li>1000 interfaces posting in every block</li>
+<li>100 IDMs authorizing as much users as possible - filling the remaining block space</li>
 <li>no on-chain actions such as keypair &amp; name changes, account creation &amp; direct interaction with the chain by end users</li>
 </ul>
-<p>So we get:</p>
+<p>We get:</p>
 <ul>
-<li>120 actors (100 interfaces + 20 IDMs) that post in every block the <code>141</code> bytes minimum for their transactions, which is <code>16920</code> bytes</li>
-<li>the remaining <code>1031656</code> bytes (1048576 - 16920) can be filled with authorizations and since an authorization is <code>16</code> bytes (8 * 2) that would be 64478 authorizations/revocations every 10 seconds or 6447 authorizations/revocations per second</li>
+<li>1100 actors (1000 interfaces + 100 IDMs) that post in every block the <code>141</code> bytes minimum for their transactions, which is <code>155100</code> bytes</li>
+<li>the remaining <code>893476</code> bytes (1048576 (1MB) - 155100) can be filled with authorizations and since an authorization is <code>16</code> bytes (8 * 2) that would be 55842 authorizations/revocations every 10 seconds or 5584 authorizations/revocations per second</li>
 <li>for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-ons</a> per day</li>
 </ul>
 <table><thead><tr><th>completely different goals - comparing the 2 protocols just to put things into perspective</th><th>Headjack</th><th>Ethereum</th></tr></thead><tbody>
@@ -185,73 +179,56 @@
 <tr><td>block time</td><td>10 seconds</td><td><a href="https://ycharts.com/indicators/ethereum_average_block_time"> ~13 seconds </a></td></tr>
 <tr><td>blockchain bandwidth per second</td><td>100 kb/s (x16 more than Ethereum)</td><td>~6.15 kb/s</td></tr>
 <tr><td>blockchain bandwidth per day</td><td>8640 mb/d</td><td>~528 mb/d</td></tr>
-<tr><td>transactions/authorizations per second</td><td>6447 APS</td><td><a href="https://blockchair.com/ethereum/charts/transactions-per-second"> ~14 TPS </a></td></tr>
-<tr><td>transactions/authorizations per day</td><td>557,020,800 APS</td><td>1,209,600</td></tr>
-<tr><td>transactions/authorizations per person per day for 1 billion accounts</td><td>0.557 (x460 more than Ethereum)</td><td>0.0012096</td></tr>
+<tr><td>transactions/authorizations per second</td><td>5584 APS</td><td><a href="https://blockchair.com/ethereum/charts/transactions-per-second"> ~14 TPS </a></td></tr>
+<tr><td>transactions/authorizations per day</td><td>482,457,600 APS</td><td>1,209,600</td></tr>
+<tr><td>transactions/authorizations per person per day for 1 billion accounts</td><td>0.482 (x400 more than Ethereum)</td><td>0.0012096</td></tr>
 </tbody></table>
 <!-- Ethereum
 - transactions per block: ~180
 - single transaction size: 300-700 bytes -->
-<p>If just 10% of users have keypairs and change them or use them for something only once per year, then </p>
 <h1 id="realistic-scenario"><a class="header" href="#realistic-scenario">Realistic scenario</a></h1>
-<p>The best case scenario is &quot;business as usual&quot; and does not include on-chain actions such as:</p>
+<p>The naive scenario does not include on-chain actions for specific accounts such as:</p>
 <ul>
-<li>
-<p>keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))</p>
-</li>
-<li>
-<p>account creation (if done through an IDM then this is just a few bytes - no pubkey)</p>
-</li>
-<li>
-<p>name registration &amp; ownership changes (could be done through IDMs without signatures - per)</p>
-</li>
-<li>
-<p>accounts interacting directly with the chain instead of through interfaces &amp; IDMs</p>
-</li>
-<li>
-<p>interfaces may choose not to post in every block but perhaps less often in order to manage costs</p>
-</li>
-</ul>
-<p>s</p>
+<li>keypair changes (new pubkey (32 bytes) + signature (65 bytes) if there is an older key)</li>
+<li>account creation (if done through an IDM then this is just a few bytes - no pubkey)</li>
+<li>name registration &amp; ownership changes (could be done through IDMs without signatures)</li>
+<li>updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services</li>
+<li>signed transactions by individual accounts that want to directly interact with the chain
 <ul>
-<li>transactions by standalone accounts not using an IDM</li>
-<li>key changes take more space</li>
-<li>name ownership changes</li>
-</ul>
-<h1 id="future-development--optimizations"><a class="header" href="#future-development--optimizations">Future development &amp; optimizations</a></h1>
-<ul>
-<li>
-<p>optimizations such as batching integer indexes with values below INT_MAX (4 billion) together for compression</p>
-</li>
-<li>
-<p>other optimizations not listed here</p>
-</li>
-<li>
-<p>more DA ==&gt; we can put more on-chain</p>
-</li>
-<li>
-<p>sharding</p>
-<ul>
-<li>not being a financial chain eases a lot of things</li>
-<li>sharding is trivial - me following you does not credit your account with anything...
-<ul>
-<li>or maybe it does because of the &quot;who follows me&quot; array...</li>
-</ul>
-</li>
-<li>trivial sharding - there's no problem such as fracturing liquidity or preventing composability because entities live on different shards - they just point to each other and the bulk of the action takes place off-chain anyway</li>
+<li>authorizing an IDM, rotating keys, or even publishing off-chain content as an interface</li>
 </ul>
 </li>
 </ul>
-<p>a tiny core on which we have consensus can be used to cryptographically anchor &amp; link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.</p>
-<p>The processing of the state machine is minimal - orders of magnitude less complexity &amp; compute compared to generalized smart contract platforms</p>
-<p>There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack.</p>
+<p>However, the realistic scenario will not be far from the naive because:</p>
+<ul>
+<li>Only a % of all accounts will have keypairs and will make just a few signed actions per year - leaving the majority of block throughput for authorizations through IDMs.</li>
+<li>Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> every single day.</li>
+<li>Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.</li>
+<li>There are many ways to optimize the chain and scale the throughput by multiple orders of magnitude - noted in the next section.</li>
+</ul>
+<h1 id="optimizations--scaling"><a class="header" href="#optimizations--scaling">Optimizations &amp; scaling</a></h1>
+<ul>
+<li>Throughput of 100 kb/s is just the start &amp; can easily go to 1-10 mb/s as a ZK rollup.</li>
+<li>The chain can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - all they contain is authorization block numbers &amp; keypair history.</li>
+<li>A fee market can develop that tunes the cost of different actions so that actors don't just pay for on-chain bytes - the ways the system is used can be guided through incentives.</li>
+<li>Integer indexes that are below INT_MAX (4 billion) can be compressed/batched together.</li>
+<li>Other optimizations not listed here - this is just the starting point.</li>
+</ul>
 <h1 id="state-growth"><a class="header" href="#state-growth">State growth</a></h1>
+<p>The processing of the state machine is minimal - orders of magnitude less complexity &amp; compute compared to generalized smart contract platforms</p>
 <p>The state growth will be slower than the blockchain growth because:</p>
 <ul>
 <li>an on-chain authorization is a pair of integers while only 1 integer goes into the state</li>
 </ul>
+<p>a tiny core on which we have consensus can be used to cryptographically anchor &amp; link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.</p>
+<ul>
+<li>state doesn't need to store the merkle roots &amp; IPFS hashes - merkle proofs can contain block numbers &amp; block hashes</li>
+</ul>
 <h1 id="off-chain-content"><a class="header" href="#off-chain-content">Off-chain content</a></h1>
-<p>There are no limits to how much content can be anchored to the chain.</p>
+<p>There are no limits to how much off-chain content can be anchored to the chain - it is simply merkelized..</p>
+<p>Headjack focuses on the bare minimum on which consensus is required in order to allow for billions of accounts to publish unbounded amounts of off-chain content authentically tied to identity &amp; sequenced on a shared global timeline.</p>
+<p>and yet still provide the guarantees &amp; mental model simplicity of Headjack.</p>
+<p>There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack.</p>
 
                     </main>
 

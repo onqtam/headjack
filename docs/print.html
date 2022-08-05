@@ -303,7 +303,26 @@ Its ok to trust by default as long as there is a fallback option</p>
 <!-- TODO: take stuff form the other messages.md doc
 
 signal/noise ratio - message types & why we shouldn't wait for AI classification
- -->
+
+- fallback/default presentation/rendering - how to display content if an interface doesn't support a new activity type
+
+tag type: disprove/correct - to combat misinformation & help crowdsource truth?
+
+
+
+Why Headjack won't fall victim to stagnation and being stuck in time with this open standard and sort-of federation
+https://signal.org/blog/the-ecosystem-is-moving/
+- because messages will have default renderability
+- because you'll always be able to click on items that your interface cannot display properly and go to the interface that produced them and see them properly
+
+message type/format: price predictions with percentage possibilities, so that later reputations can be plotted based on the message type
+
+tag type idea: prediction, and later with oracles credibility & track records could be automated
+
+
+
+
+-->
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
@@ -466,40 +485,34 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <img src="introduction/../images/meme_web2_web3.jpg" align="right" style="margin-left: 8px; width: 40%">
 <p>It is highly improbable that the masses (and even most crypto natives) would tolerate services that are much worse (slow, limited &amp; cumbersome) and <a href="introduction/competition.html">most of the competing attempts for decentralizing media</a> are nowhere close. We need to be realistic and focus on the essence - Headjack decentralizes only the most important part of monopolies - the identity &amp; interest graphs and thus leveling the playing field for competition. It accomplishes this by compact graph representation and avoiding the need for keypairs &amp; signatures by default through an on-chain authorization mechanism while maintaining the optionality for anyone to be fully self-sovereign &amp; explicit - acting as a base layer for competing &amp; interoperable services. It also facilitates data-centric addressing of content under a global namespace which further disincentivizes hoarding data in silos. But Web2 isn't going anywhere - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html"><code>&quot;market dynamics and the fundamental forces of centralization&quot;</code></a> dictate that the best services will be running on huge server racks in data centers with sophisticated caches &amp; batch processing infrastructure behind familiar UX. The difference will be that users will be able to cryptographically prove content and will be able to leave any of these interfaces for better ones if their offering degrades.</p>
 <p>Anyone would still be able to run software locally, browse the ecosystem, and fetch content &amp; interactions from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real-time.</p>
-<div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-<h1 id="throughput-numbers-scaling"><a class="header" href="#throughput-numbers-scaling">Throughput numbers (scaling)</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="throughput-numbers-scaling"><a class="header" href="#throughput-numbers-scaling">Throughput numbers (scaling)</a></h1>
 <p>Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of terabytes per second of off-chain content (making it addressable &amp; tied to identity) with simple napkin math.</p>
-<h1 id="headjack-bandwidth"><a class="header" href="#headjack-bandwidth">Headjack bandwidth</a></h1>
-<p>The initial version will target capacity of 100 kb/s. This is not a problem for <a href="https://twitter.com/eshita/status/1546911451125649408">validium ZK rollups</a> as there are already DA solutions that offer <a href="https://twitter.com/apolynya/status/1517137629334056960">10 MB/s or even much more</a> so in the future this can easily go way beyond 100 kb/s.</p>
 <h1 id="how-big-is-a-headjack-transaction"><a class="header" href="#how-big-is-a-headjack-transaction">How big is a Headjack transaction</a></h1>
 <!-- Pubkeys are extracted from signatures and the blockchain maps them to account indexes. -->
-<p>Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root.</p>
-<p>IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (interfaces) on behalf of users as integer pairs.</p>
-<p>So the fields for a transaction are:</p>
+<p>Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.</p>
+<p>So the fields for a transaction by an interface/IDM (which will be the majority) are:</p>
 <ul>
 <li>version: <code>4 bytes</code></li>
 <li>signature: <a href="https://ethvigil.com/docs/eth_sign_example_code/#recovering-the-message-signer-in-the-smart-contract"><code>65 bytes</code></a></li>
 <li>blob IPFS address: <a href="https://proto.school/anatomy-of-a-cid/01"><code>32 bytes</code></a></li>
 <li>blob merkle root: <a href="https://www.mycryptopedia.com/merkle-tree-merkle-root-explained/"><code>32 bytes</code></a></li>
-<li>nonce: <code>4 bytes</code> auto-increment integer associated with the account - so that anchored off-chain blobs never get reordered (which would mess up internal addressing based on that nonce)</li>
-<li>value: <code>4 bytes</code> amount of native token paid to miners for transaction inclusion</li>
+<li>nonce: <code>4 bytes</code> auto-increment integer associated with the account - to prevent reordering of anchored off-chain blobs (which would mess up internal addressing based on that nonce)</li>
+<li>value: <code>4 bytes</code> amount of native token paid to validators for transaction inclusion</li>
 </ul>
-<p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains.</p>
-<p>IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
-<h1 id="best-case-scenario-naive"><a class="header" href="#best-case-scenario-naive">Best case scenario (naive)</a></h1>
+<p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
+<h1 id="naive-scenario"><a class="header" href="#naive-scenario">Naive scenario</a></h1>
+<p>The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for <a href="https://twitter.com/eshita/status/1546911451125649408">validium ZK rollups</a> as there are already DA solutions that offer <a href="https://twitter.com/apolynya/status/1517137629334056960">10 mb/s or even much more</a> so in the future this can easily go way beyond 100 kb/s.</p>
 <p>Assuming:</p>
 <ul>
-<li>1 MB block size &amp; 10 second block time</li>
-<li>100 interfaces posting in every block</li>
-<li>20 IDMs authorizing as much users as possible - filling the remaining block space</li>
+<li>1 MB block size &amp; 10 second block time (100 kb/s of block bandwidth)</li>
+<li>1000 interfaces posting in every block</li>
+<li>100 IDMs authorizing as much users as possible - filling the remaining block space</li>
 <li>no on-chain actions such as keypair &amp; name changes, account creation &amp; direct interaction with the chain by end users</li>
 </ul>
-<p>So we get:</p>
+<p>We get:</p>
 <ul>
-<li>120 actors (100 interfaces + 20 IDMs) that post in every block the <code>141</code> bytes minimum for their transactions, which is <code>16920</code> bytes</li>
-<li>the remaining <code>1031656</code> bytes (1048576 - 16920) can be filled with authorizations and since an authorization is <code>16</code> bytes (8 * 2) that would be 64478 authorizations/revocations every 10 seconds or 6447 authorizations/revocations per second</li>
+<li>1100 actors (1000 interfaces + 100 IDMs) that post in every block the <code>141</code> bytes minimum for their transactions, which is <code>155100</code> bytes</li>
+<li>the remaining <code>893476</code> bytes (1048576 (1MB) - 155100) can be filled with authorizations and since an authorization is <code>16</code> bytes (8 * 2) that would be 55842 authorizations/revocations every 10 seconds or 5584 authorizations/revocations per second</li>
 <li>for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-ons</a> per day</li>
 </ul>
 <table><thead><tr><th>completely different goals - comparing the 2 protocols just to put things into perspective</th><th>Headjack</th><th>Ethereum</th></tr></thead><tbody>
@@ -507,73 +520,56 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <tr><td>block time</td><td>10 seconds</td><td><a href="https://ycharts.com/indicators/ethereum_average_block_time"> ~13 seconds </a></td></tr>
 <tr><td>blockchain bandwidth per second</td><td>100 kb/s (x16 more than Ethereum)</td><td>~6.15 kb/s</td></tr>
 <tr><td>blockchain bandwidth per day</td><td>8640 mb/d</td><td>~528 mb/d</td></tr>
-<tr><td>transactions/authorizations per second</td><td>6447 APS</td><td><a href="https://blockchair.com/ethereum/charts/transactions-per-second"> ~14 TPS </a></td></tr>
-<tr><td>transactions/authorizations per day</td><td>557,020,800 APS</td><td>1,209,600</td></tr>
-<tr><td>transactions/authorizations per person per day for 1 billion accounts</td><td>0.557 (x460 more than Ethereum)</td><td>0.0012096</td></tr>
+<tr><td>transactions/authorizations per second</td><td>5584 APS</td><td><a href="https://blockchair.com/ethereum/charts/transactions-per-second"> ~14 TPS </a></td></tr>
+<tr><td>transactions/authorizations per day</td><td>482,457,600 APS</td><td>1,209,600</td></tr>
+<tr><td>transactions/authorizations per person per day for 1 billion accounts</td><td>0.482 (x400 more than Ethereum)</td><td>0.0012096</td></tr>
 </tbody></table>
 <!-- Ethereum
 - transactions per block: ~180
 - single transaction size: 300-700 bytes -->
-<p>If just 10% of users have keypairs and change them or use them for something only once per year, then </p>
 <h1 id="realistic-scenario"><a class="header" href="#realistic-scenario">Realistic scenario</a></h1>
-<p>The best case scenario is &quot;business as usual&quot; and does not include on-chain actions such as:</p>
+<p>The naive scenario does not include on-chain actions for specific accounts such as:</p>
 <ul>
-<li>
-<p>keypair changes (requires signature (65 bytes) if there isn't an older key + the new pubkey (32 bytes))</p>
-</li>
-<li>
-<p>account creation (if done through an IDM then this is just a few bytes - no pubkey)</p>
-</li>
-<li>
-<p>name registration &amp; ownership changes (could be done through IDMs without signatures - per)</p>
-</li>
-<li>
-<p>accounts interacting directly with the chain instead of through interfaces &amp; IDMs</p>
-</li>
-<li>
-<p>interfaces may choose not to post in every block but perhaps less often in order to manage costs</p>
-</li>
-</ul>
-<p>s</p>
+<li>keypair changes (new pubkey (32 bytes) + signature (65 bytes) if there is an older key)</li>
+<li>account creation (if done through an IDM then this is just a few bytes - no pubkey)</li>
+<li>name registration &amp; ownership changes (could be done through IDMs without signatures)</li>
+<li>updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services</li>
+<li>signed transactions by individual accounts that want to directly interact with the chain
 <ul>
-<li>transactions by standalone accounts not using an IDM</li>
-<li>key changes take more space</li>
-<li>name ownership changes</li>
-</ul>
-<h1 id="future-development--optimizations"><a class="header" href="#future-development--optimizations">Future development &amp; optimizations</a></h1>
-<ul>
-<li>
-<p>optimizations such as batching integer indexes with values below INT_MAX (4 billion) together for compression</p>
-</li>
-<li>
-<p>other optimizations not listed here</p>
-</li>
-<li>
-<p>more DA ==&gt; we can put more on-chain</p>
-</li>
-<li>
-<p>sharding</p>
-<ul>
-<li>not being a financial chain eases a lot of things</li>
-<li>sharding is trivial - me following you does not credit your account with anything...
-<ul>
-<li>or maybe it does because of the &quot;who follows me&quot; array...</li>
-</ul>
-</li>
-<li>trivial sharding - there's no problem such as fracturing liquidity or preventing composability because entities live on different shards - they just point to each other and the bulk of the action takes place off-chain anyway</li>
+<li>authorizing an IDM, rotating keys, or even publishing off-chain content as an interface</li>
 </ul>
 </li>
 </ul>
-<p>a tiny core on which we have consensus can be used to cryptographically anchor &amp; link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.</p>
-<p>The processing of the state machine is minimal - orders of magnitude less complexity &amp; compute compared to generalized smart contract platforms</p>
-<p>There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack.</p>
+<p>However, the realistic scenario will not be far from the naive because:</p>
+<ul>
+<li>Only a % of all accounts will have keypairs and will make just a few signed actions per year - leaving the majority of block throughput for authorizations through IDMs.</li>
+<li>Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> every single day.</li>
+<li>Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.</li>
+<li>There are many ways to optimize the chain and scale the throughput by multiple orders of magnitude - noted in the next section.</li>
+</ul>
+<h1 id="optimizations--scaling"><a class="header" href="#optimizations--scaling">Optimizations &amp; scaling</a></h1>
+<ul>
+<li>Throughput of 100 kb/s is just the start &amp; can easily go to 1-10 mb/s as a ZK rollup.</li>
+<li>The chain can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - all they contain is authorization block numbers &amp; keypair history.</li>
+<li>A fee market can develop that tunes the cost of different actions so that actors don't just pay for on-chain bytes - the ways the system is used can be guided through incentives.</li>
+<li>Integer indexes that are below INT_MAX (4 billion) can be compressed/batched together.</li>
+<li>Other optimizations not listed here - this is just the starting point.</li>
+</ul>
 <h1 id="state-growth"><a class="header" href="#state-growth">State growth</a></h1>
+<p>The processing of the state machine is minimal - orders of magnitude less complexity &amp; compute compared to generalized smart contract platforms</p>
 <p>The state growth will be slower than the blockchain growth because:</p>
 <ul>
 <li>an on-chain authorization is a pair of integers while only 1 integer goes into the state</li>
 </ul>
+<p>a tiny core on which we have consensus can be used to cryptographically anchor &amp; link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.</p>
+<ul>
+<li>state doesn't need to store the merkle roots &amp; IPFS hashes - merkle proofs can contain block numbers &amp; block hashes</li>
+</ul>
 <h1 id="off-chain-content"><a class="header" href="#off-chain-content">Off-chain content</a></h1>
-<p>There are no limits to how much content can be anchored to the chain.</p>
+<p>There are no limits to how much off-chain content can be anchored to the chain - it is simply merkelized..</p>
+<p>Headjack focuses on the bare minimum on which consensus is required in order to allow for billions of accounts to publish unbounded amounts of off-chain content authentically tied to identity &amp; sequenced on a shared global timeline.</p>
+<p>and yet still provide the guarantees &amp; mental model simplicity of Headjack.</p>
+<p>There isn't a more minimal design that can link unbounded amounts of data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="competition"><a class="header" href="#competition">Competition</a></h1>
 <p>This chapter focuses only on the disadvantages of some of the more high-profile competing solutions in the space when compared to Headjack and doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another. Corrections for any inaccuracies are welcome!</p>
 <ol>
@@ -950,6 +946,8 @@ https://twitter.com/manveerbasra_/status/1555405612506157056
 Composable science is reproducible science.
 https://twitter.com/balajis/status/1555458319070167040
 
+
+Laws should be referable and commentable. They should be written in public & made available in the same way as open source code is
 
 
 --><div style="break-before: page; page-break-before: always;"></div><h1 id="problems-with-the-current-web"><a class="header" href="#problems-with-the-current-web">Problems with the current web</a></h1>
@@ -1458,32 +1456,51 @@ https://www.youtube.com/watch?v=WVEP0zAK-xQ&amp;t=3951s</p>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 <h1 id="the-metaverse"><a class="header" href="#the-metaverse">The metaverse</a></h1>
-<p>Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe.
-https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg</p>
-<p>the visual metaverse could be built on top of headjack and nvidia's omniverse</p>
-<p>the early web was built on open protocols - and so will the metaverse</p>
-<blockquote>
-<p>&quot;The “metaverse” as I like to envision it, is a globally shared and permanent digital reality not owned by any single entity that any company, platform, or person can plug into, regardless of where they are or what device they’re using.&quot; - <a href="https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg">source</a></p>
-</blockquote>
-<p>metaverse page</p>
-<ul>
-<li>This is what the metaverse will be built on</li>
-<li>The metaverse is about provable activity linked to identity beyond the confines of any specific platform</li>
-<li>The metaverse is fully addressable and people create more than they transact</li>
-<li>The metaverse is being able to refer to anything and anyone.</li>
-<li>The metaverse is about agency in creation</li>
-<li>TODO: read this from &quot;The Coming Evolution of Games&quot; onward:
-https://future.com/metaverse-infrastructure-technology-games/</li>
-</ul>
-<p>We need to persistently link activity with identity to build reputation systems</p>
-<blockquote>
-<p>&quot;We think of the metaverse as the entirety of all composable and interoperable resources, identities, applications, platforms, services, and protocols that exist in cyberspace.&quot;
-https://blog.ceramic.network/into-the-dataverse/</p>
-</blockquote>
-<p>https://twitter.com/punk6529/status/1448399827054833668
+<!-- 
+Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe.
+https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg
+
+
+the visual metaverse could be built on top of headjack and nvidia's omniverse
+
+the early web was built on open protocols - and so will the metaverse
+
+
+> "The “metaverse” as I like to envision it, is a globally shared and permanent digital reality not owned by any single entity that any company, platform, or person can plug into, regardless of where they are or what device they’re using." - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
+
+
+metaverse page
+- This is what the metaverse will be built on
+- The metaverse is about provable activity linked to identity beyond the confines of any specific platform
+- The metaverse is fully addressable and people create more than they transact
+- The metaverse is being able to refer to anything and anyone.
+- The metaverse is about agency in creation
+- TODO: read this from "The Coming Evolution of Games" onward:
+https://future.com/metaverse-infrastructure-technology-games/
+
+We need to persistently link activity with identity to build reputation systems
+
+
+> "We think of the metaverse as the entirety of all composable and interoperable resources, identities, applications, platforms, services, and protocols that exist in cyberspace."
+https://blog.ceramic.network/into-the-dataverse/
+
+
+
+you need to be able to pull and reference anything from any part of the metaverse
+
+
+https://twitter.com/punk6529/status/1448399827054833668
 https://twitter.com/punk6529
-https://6529.io/ </p>
-<p>https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-metaverse-standards</p>
+https://6529.io/ 
+
+
+https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-metaverse-standards
+
+
+instance/nonce/collections from an identity - perhaps 100% off-chain issuance with on-chain integer-only updates to facilitate off-chain "namespaces" & libraries of objects
+
+
+-->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="startup-case-study"><a class="header" href="#startup-case-study">Startup case study</a></h1>
 <p><strong>Problem statement</strong>: Long-form media is already the present (&amp; future) and audio/video are preferred over text by many. We should be able to comment &amp; annotate it at specific points in time on the timeline.</p>
 <p>But not like SoundCloud where <a href="https://soundcloud.com/liluzivert/for-fun-prod-by-beatsbyjeff">tiny overlapping rectangles</a> with profile pictures are rendered on the timeline that you can just hover with the cursor to see the comment nor like YouTube where you can write a timestamp (<code>hh:mm:ss</code>) in a comment which becomes a clickable link that fast-forwards the player and then fighting it out with the other 20 000 comments in the single linear vertically scrollable section of a 3 hour long podcast and hoping to be noticed - both are horribly insufficient and unusable. For both of them comments are just an afterthought - it is extremely hard to discuss specific parts of long-form media &amp; for good localized signal to actually surface &amp; be noticed.</p>
@@ -1919,13 +1936,10 @@ https://github.com/farcasterxyz/protocol
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 <h1 id="message-types"><a class="header" href="#message-types">Message types</a></h1>
-<!-- TODO: obsolete?
+<!--
 
 
 https://spec.dsnp.org/DSNP/Announcements.html
-
-
-- fallback/default presentation/rendering - how to display content if an interface doesn't support a new activity type
 
 - protobuf for message types?
 - apache thrift? https://thrift.apache.org/
@@ -1940,22 +1954,11 @@ https://spec.dsnp.org/ActivityContent/Overview.html
 revisions of messages (edit/delete)
 https://github.com/regular/ssb-revisions
 
-tag type: disprove/correct - to combat misinformation & help crowdsource truth?
-
 New polling/info contribution ways
 
 TODO: look at Data models in ceramic!
 
 “pit X vs Y”
-
-Why Headjack won't fall victim to stagnation and being stuck in time with this open standard and sort-of federation
-https://signal.org/blog/the-ecosystem-is-moving/
-- because messages will have default renderability
-- because you'll always be able to click on items that your interface cannot display properly and go to the interface that produced them and see them properly
-
-message type/format: price predictions with percentage possibilities, so that later reputations can be plotted based on the message type
-
-tag type idea: prediction, and later with oracles credibility & track records could be automated
 
 tombstone message
 https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation

@@ -35,5 +35,7 @@ Composable science is reproducible science.
 https://twitter.com/balajis/status/1555458319070167040
 
 
+Laws should be referable and commentable. They should be written in public & made available in the same way as open source code is
+
 
 -->
