@@ -147,7 +147,6 @@
                         <h1 id="throughput-numbers-scaling"><a class="header" href="#throughput-numbers-scaling">Throughput numbers (scaling)</a></h1>
 <p>Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.</p>
 <h1 id="how-big-is-a-headjack-transaction"><a class="header" href="#how-big-is-a-headjack-transaction">How big is a Headjack transaction</a></h1>
-<!-- Pubkeys are extracted from signatures and the blockchain maps them to account indexes. -->
 <p>Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.</p>
 <p>So the fields for a transaction by an interface/IDM (which will be the majority) are:</p>
 <ul>
@@ -185,7 +184,7 @@
 </tbody></table>
 <!-- Ethereum
 - transactions per block: ~180
-- single transaction size: 300-700 bytes -->
+- single transaction size on average including calldata: 300-700 bytes -->
 <h1 id="realistic-scenario"><a class="header" href="#realistic-scenario">Realistic scenario</a></h1>
 <p>The naive scenario does not include on-chain actions for specific accounts such as:</p>
 <ul>

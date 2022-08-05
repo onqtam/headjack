@@ -4,8 +4,6 @@ Everyone claims to be scalable, but here we'll prove that Headjack can handle bi
 
 # How big is a Headjack transaction
 
-<!-- Pubkeys are extracted from signatures and the blockchain maps them to account indexes. -->
-
 Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences & updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.
 
 So the fields for a transaction by an interface/IDM (which will be the majority) are:
@@ -45,7 +43,7 @@ We get:
 
 <!-- Ethereum
 - transactions per block: ~180
-- single transaction size: 300-700 bytes -->
+- single transaction size on average including calldata: 300-700 bytes -->
 
 # Realistic scenario
 
