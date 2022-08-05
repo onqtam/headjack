@@ -1,6 +1,6 @@
 # Throughput numbers (scaling)
 
-Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of terabytes per second of off-chain content (making it addressable & tied to identity) with simple napkin math.
+Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.
 
 # How big is a Headjack transaction
 
