@@ -26,7 +26,7 @@ Headjack's mission is to end network effect monopolies & data silos by making id
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - empower super users to separate signal from noise through open data & better tooling
-- make infrastructure more resilient through content-addressing & p2p decentralization
+- make infrastructure [more resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) through content-addressing & p2p decentralization
 
 ## Bottom-up media & the decentralized town square
 
@@ -141,3 +141,7 @@ There's no global megaphone that would keep all information globally accessible 
 
 
 We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism & innovation in social media facilitating public discourse, but on a global level.
+
+
+We havent really had a market for ideas
+

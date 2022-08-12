@@ -151,6 +151,8 @@ https://en.wikipedia.org/wiki/Gravatar
 
 traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first
 
+
+
 An alternative privacy-friendly YouTube frontend which is efficient by design.
 https://github.com/TeamPiped/Piped
 

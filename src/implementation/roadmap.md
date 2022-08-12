@@ -22,6 +22,8 @@
 
 - talk at conferences
 
+- countering the "if we build it - they will come" wishful thinking with specifics
+
 - partner with
     https://twitter.com/odyseeteam
     gettr
