@@ -151,6 +151,12 @@
 TODO:
 
 
+Headjack links identity to content without limits - that is why it can be the base layer
+Liberating data at scale
+
+The essence of identity is an identifier and all other complexity and functionality are layered on top
+
+
 - "An act of creation is fundamentally different from an act of transfer."
 
 headjack links creation/expression to identity throughout time
@@ -489,6 +495,7 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <p>Anyone would still be able to run software locally, browse the ecosystem, and fetch content &amp; interactions from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real-time.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="throughput-numbers-scaling"><a class="header" href="#throughput-numbers-scaling">Throughput numbers (scaling)</a></h1>
 <p>Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.</p>
+<!-- We believe a credible path to billions and worldwide adoption is necessary as part of the story -->
 <h1 id="how-big-is-a-headjack-transaction"><a class="header" href="#how-big-is-a-headjack-transaction">How big is a Headjack transaction</a></h1>
 <p>Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.</p>
 <p>So the fields for a transaction by an interface/IDM (which will be the majority) are:</p>
@@ -566,6 +573,12 @@ The growth of the chain and the state will differ by a few things:
 
 One difference between Headjack and financial blockchains is that they don't force historical records into the state whereas that is the main value proposition of Headjack.
 
+
+
+This is a solution that is provably possible and better and can only get better in time with further innovation and scaling
+
+
+The goal is to avoid congestion and provide enough bandwidth in a predictable way for web scale
 
 
 
@@ -1462,6 +1475,7 @@ We can see which indexes other people prefer in terms of interfaces. The network
 <p>Imagine seeing both the data and the algorithms running on that data &amp; being able to check the results for yourself</p>
 <p>&quot;Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level.&quot;
 https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech</p>
+<p>https://twitter.com/disclosetv/status/1557800191700393984</p>
 <p>https://ground.news/</p>
 <p>with open data &amp; transparent algorithms we could leverage AI to surface human collective intelligence at scale in a permissionless way - anyone could analyze the data and prove their results
 https://www.youtube.com/watch?v=WVEP0zAK-xQ&amp;t=3951s</p>
@@ -1511,6 +1525,18 @@ https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-
 
 
 instance/nonce/collections from an identity - perhaps 100% off-chain issuance with on-chain integer-only updates to facilitate off-chain "namespaces" & libraries of objects
+
+How would marketplaces for off-chain items from a collection work?
+
+
+Look at improbable for metaverse and M2 - Herman Narula
+
+the metaverse will be built as a layered stack
+
+the metaverse is experiences with shared data linked to identity
+
+
+The metaverse is digital creation tied to identity - not 3d
 
 
 -->
@@ -1610,7 +1636,7 @@ instance/nonce/collections from an identity - perhaps 100% off-chain issuance wi
 </ul>
 </li>
 <li>empower super users to separate signal from noise through open data &amp; better tooling</li>
-<li>make infrastructure more resilient through content-addressing &amp; p2p decentralization</li>
+<li>make infrastructure <a href="https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china">more resilient</a> through content-addressing &amp; p2p decentralization</li>
 </ul>
 <h2 id="bottom-up-media--the-decentralized-town-square"><a class="header" href="#bottom-up-media--the-decentralized-town-square">Bottom-up media &amp; the decentralized town square</a></h2>
 <blockquote>
@@ -1654,6 +1680,7 @@ The information asymmetry needs to be fixed - the twitter backend should be open
 <p>████████████████████████████████████████████████</p>
 <p>There's no global megaphone that would keep all information globally accessible &amp; indexable.</p>
 <p>We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism &amp; innovation in social media facilitating public discourse, but on a global level.</p>
+<p>We havent really had a market for ideas</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="the-ambition"><a class="header" href="#the-ambition">The ambition</a></h1>
 <p>Web3 is often associated with user ownership of networks/services/data, governance, NFTs &amp; micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and <a href="https://twitter.com/balajis/status/1162401646258749441">making it sovereign</a> - the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing interfaces &amp; views that present &amp; filter commonly addressable data in any way imaginable.</p>
 <!-- 
@@ -1661,6 +1688,9 @@ The information asymmetry needs to be fixed - the twitter backend should be open
 TODO: take this metaverse thing out of here and into the other page
 
 It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it
+
+Headjack has an ecosystem effect - a product network effect, and identity is at the core of it. Case Study: Dropbox vs. Google Drive
+https://blog.niraj.io/the-ecosystem-effect
 
 -->
 <p>Think of Headjack as an <a href="https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing messages, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity &amp; authorization are on-chain and have guaranteed storage &amp; retrievability whereas all data objects are just cryptographically anchored and stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a>) for which durability &amp; retrievability is on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees. It can <a href="motivation/../introduction/numbers.html">scale</a> practically as much as necessary. Another way to look at it is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network similar to <a href="https://kafka.apache.org/intro">Kafka</a> where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's <a href="https://twitter.com/jack/status/1204766078468911106">vision for decentralizing Twitter</a>.</p>

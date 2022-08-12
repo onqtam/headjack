@@ -8,6 +8,9 @@ TODO: take this metaverse thing out of here and into the other page
 
 It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it
 
+Headjack has an ecosystem effect - a product network effect, and identity is at the core of it. Case Study: Dropbox vs. Google Drive
+https://blog.niraj.io/the-ecosystem-effect
+
 -->
 
 Think of Headjack as an [information bus](https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf) on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing messages, dynamically definable message types & permissionlessness. The service objects that deal with identity & authorization are on-chain and have guaranteed storage & retrievability whereas all data objects are just cryptographically anchored and stored off-chain ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)) for which durability & retrievability is on a [best-effort](https://en.wikipedia.org/wiki/Best-effort_delivery) basis without guarantees. It can [scale](../introduction/numbers.md) practically as much as necessary. Another way to look at it is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network similar to [Kafka](https://kafka.apache.org/intro) where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's [vision for decentralizing Twitter](https://twitter.com/jack/status/1204766078468911106).
@@ -26,4 +29,3 @@ The outcome is binary - **`success`** or **`failure`**.
 
 
 <!-- The end of information & network effect silos -->
-

@@ -2,6 +2,8 @@
 
 Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.
 
+<!-- We believe a credible path to billions and worldwide adoption is necessary as part of the story -->
+
 # How big is a Headjack transaction
 
 Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences & updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.
@@ -82,6 +84,12 @@ The growth of the chain and the state will differ by a few things:
 
 One difference between Headjack and financial blockchains is that they don't force historical records into the state whereas that is the main value proposition of Headjack.
 
+
+
+This is a solution that is provably possible and better and can only get better in time with further innovation and scaling
+
+
+The goal is to avoid congestion and provide enough bandwidth in a predictable way for web scale
 
 
 
