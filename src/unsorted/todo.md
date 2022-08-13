@@ -204,3 +204,6 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
 - meme: oprah - you get an identity, you get an identity, everyone gets an identity!
+
+
+https://proto.school/anatomy-of-a-cid/02/
