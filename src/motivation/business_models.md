@@ -69,5 +69,7 @@ creators will need to shift how they monetize because there won't be platform lo
 or actually the interface attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.
 
 
+Value chain
+
 
 -->

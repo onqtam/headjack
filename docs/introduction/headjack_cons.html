@@ -145,6 +145,7 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="shortcomings-of-headjack"><a class="header" href="#shortcomings-of-headjack">Shortcomings of Headjack</a></h1>
+<!-- TODO: move page about headjack cons to the 3rd big chapter -->
 <ul>
 <li>
 <p>State growth - Headjack keeps a lot of the history in its materialized state as ranges for historic querying &amp; to generate proofs - not just the &quot;current view&quot; which itself constantly grows. However, most of this is compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. <a href="others_list.html#bluesky">Bluesky</a> similarly wants to be able to prove the authenticity of old content and has a transparency log but it will be much less compact.</p>

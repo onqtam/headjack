@@ -103,6 +103,14 @@ Our minds filter out inconsequential sensations by default but we may tune them 
 
 
 
+notifications
+    we should be able to set when we should expect certain types of notifications as time ranges
+
+    "Notifications are just alarm clocks that someone else is setting for you." - @naval
+    https://twitter.com/NavalismHQ/status/1556179585347112961
+
+
+
 
 a slider for filtering/jumping through time like in discourse
 https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
