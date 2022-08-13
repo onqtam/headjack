@@ -36,3 +36,5 @@ https://ground.news/
 
 with open data & transparent algorithms we could leverage AI to surface human collective intelligence at scale in a permissionless way - anyone could analyze the data and prove their results
 https://www.youtube.com/watch?v=WVEP0zAK-xQ&t=3951s
+
+https://twitter.com/disclosetv/status/1557800191700393984

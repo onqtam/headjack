@@ -110,3 +110,7 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 # Off-chain content
 
 There are no limits for off-chain content as it is all just anchored with merkle roots - it could be as high as hundreds of terabytes per second. There isn't a more minimal design that can link unbounded amounts of off-chain data to billions of identities that can change keys & names and yet still provide the guarantees & mental model simplicity of Headjack - it achieves consensus on the absolute bare minimum.
+
+<!-- validium
+
+data availability guarantees don't need to be as strong as for finance - it won't be fatal to revert a few blocks of activity if data is unavailable -->

@@ -1,5 +1,7 @@
 # Shortcomings of Headjack
 
+<!-- TODO: move page about headjack cons to the 3rd big chapter -->
+
 - State growth - Headjack keeps a lot of the history in its materialized state as ranges for historic querying & to generate proofs - not just the "current view" which itself constantly grows. However, most of this is compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. [Bluesky](others_list.md#bluesky) similarly wants to be able to prove the authenticity of old content and has a transparency log but it will be much less compact.
 
 - Private social graphs & DMs are facilitated by [IDMs](../implementation/ecosystem/IDM.md) which resemble [Farcaster](others_list.md#farcaster)'s managed hosts and [Bluesky](others_list.md#bluesky)'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo. A big failure scenario is if an IDM that manages millions of accounts goes rogue or shuts down:

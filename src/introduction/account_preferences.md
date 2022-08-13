@@ -24,3 +24,6 @@ TODO: change interest graph related things in other pages & pictures
 
 
 the graph could be moved on-chain if there are many MB/s of DB throughput (possibly sharding) but that would put a lot of strain on the 
+
+
+myspace-like page  (or linktree-like) where you paint the picture of you - as a map or as whatever - but content shouldn't be owned by separate platforms

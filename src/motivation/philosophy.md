@@ -28,6 +28,8 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 - empower super users to separate signal from noise through open data & better tooling
 - make infrastructure [more resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) through content-addressing & p2p decentralization
 
+<!-- Mission: minimize friction, complexity, and uncertainty -->
+
 ## Bottom-up media & the decentralized town square
 
 > "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
