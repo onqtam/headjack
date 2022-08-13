@@ -207,3 +207,10 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 
 https://proto.school/anatomy-of-a-cid/02/
+
+
+
+You can build something centralized on something decentralized but you can’t build something decentralized on top of something centralized.
+Decentralization is always the base layer.
+https://twitter.com/RyanSAdams/status/1553776203621965826
+
