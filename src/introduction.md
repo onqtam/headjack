@@ -1,70 +1,43 @@
 # Headjack - the base layer of cyberspace
 
-Headjack is an [open state database](https://twitter.com/balajis/status/1123092897664880640) designed for [web-scale](web_scale.md) media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and [content addressing](addressing.md) with human-readable & persistent [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) paths (instead of hashes) all packaged in a credibly neutral & self-sustaining blockchain. It is [aiming](ambition.md) to disaggregate the giants and end network effect monopolies & data silos by aligning incentives and acting as the backend network that users won't even need to know about by striking the right set of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.
+<!-- Headjack is an [open state database](https://twitter.com/balajis/status/1123092897664880640) designed for [web-scale](web_scale.md) media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and [content addressing](addressing.md) with human-readable & persistent [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) paths (instead of hashes) all packaged in a credibly neutral & self-sustaining blockchain.
 
-<!-- 
-TODO:
+It is [aiming](ambition.md) to disaggregate the giants and end network effect monopolies & data silos by aligning incentives and acting as the backend network that users won't even need to know about by striking the right set of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to. -->
 
-Headjack links identity to creation and actions
+Headjack is a blockchain that links sovereign identities to content throughout time. Key points:
 
+- Creation is fundamentally different from transfers and exchange of value - the design space around trust & data availability for media and identity is different from finance.
 
-Headjack links identity to content without limits - that is why it can be the base layer
-Liberating data at scale
+- Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy) can be layered on top of it. <!-- through data associations -->
 
-The essence of identity is an identifier and all other complexity and functionality are layered on top
+- It solves single sign-on and allows for user experience similar to Web2 through [hierarchical authorization management](identity.md) - keypairs are not required by default and even those with keys bound to their accounts may choose to not explicitly sign every interaction.
 
-Headjack wants to permanently link the entire web
+- Consensus is reached on the absolute bare minimum - the history of authorizations, names, keys & off-chain content anchors (merkle roots) - the simplest mental model for developers.
 
+- Headjack can support **billions** of accounts and link **unlimited** amounts of off-chain activity to them. The [entire web](web_scale.md) can be rebuilt on top of it - a claim that is [easily provable](numbers.md).
 
-- "An act of creation is fundamentally different from an act of transfer."
+- [Content addressing](addressing.md) is with persistent & human-readable URIs (instead of hashes) - the link between identity and data is cryptographically provable even if keys & names have changed.
 
-headjack links creation/expression to identity throughout time
+- It doesn't deal with off-chain data storage and retrievability - those are separate problems and Headjack simply lets entities point to ways for others to retrieve addressable content.
 
-sovereign identity & data-centric addressing are the bedrock of the future web
+- The move from the current [host-centric](host_centric.md) web towards [data-centric](data_centric.md) addressing represents a paradigm shift around data ownership & access - an architectural reset of the internet.
 
+# Book structure
 
-In Headjack identity is simply a number.
+- **Introduction (what)** - How the protocol technically works, how it compares with other projects, and how things like DMs, social graphs, preferences, etc. could be implemented - the building blocks necessary to recreate anything from Web2 and beyond.
 
-Identity means different things depending on the context but at the end of the day at the root of it there is an identifier - any type of use case specialization can be built around that - KYC is orthogonal to having identity & being able to associate content to it for online publishing at web-scale - there are no limits to the amount of content that can be created & addressed - both in terms of quantity and size.
+- **Motivation (why)** - What's broken with the web and a blueprint of what could be possible - services, business models, infrastructure, algorithms, moderation, markets, metaverse, etc.
 
-Headjack focuses on the essence - everything else can be built around it.
+- **Execition (how)** - A detailed specification of the implementation and other standards.
 
-It also specifies protocols & standards for connections, DMs, message types, etc. - basically all the building blocks necessary for a fully fledged ecosystem. Any existing web2 service can be recreated on top of it, but the doors are open for the next step of innovation (possibilities).
+# Introduction (what)
 
-"the ability to link content to users without limits"
-
-TODO: link to the pillars
-
-https://twitter.com/paulg/status/1553229161841299461
-
-This book lays out a blueprint and yet the core technology is minimal and unopinionated
-
-What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. The simplest unified singleton model wins.
-
-a blueprint for the future web
-
-the core value proposition is being able to link unbounded amounts of off-chain data to billions of identities while preserving the proofs throughout time even if accounts change keys & names
-
-
-The core value proposition is the ability to link infinite amounts of data to identity and sequence that throughout time.
-
-
-`"The internet creates 1 giant aggregator for everything"` - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
-
-    KISS
-
-    UNIX philosophy -->
-
-
-
-Headjack is an information network. It solves identity & universal sign-on. It is an addressability layer that is agnostic to the means of delivery. It is an index and a historian - the [ledger of record](https://twitter.com/balajis/status/1459140902144729088).
-
-The following sub-chapters convey the idea (**what**) and a high-level view of how it works:
+<!-- The following sub-chapters convey the idea (**what**) and a high-level view of how it works: -->
 1. [On-chain vs off-chain](on_off_chain.md)
 2. [Guiding principles](principles.md)
 3. [Identity & authorization](identity.md)
 4. [Messages](messages.md)
-5. [Account preferences & graph](account_preferences.md)
+5. [Account preferences & graphs](account_preferences.md)
 6. [Content addressing](addressing.md)
     1. [Today's web: host-centric](host_centric.md)
     2. [Data-centric addressing](data_centric.md)
@@ -79,7 +52,7 @@ The following sub-chapters convey the idea (**what**) and a high-level view of h
     3. [Competing projects (list)](others_list.md)
     4. [Shortcomings of Headjack](headjack_cons.md)
 
-But the vision would be incomplete without the subsequent [**why**](philosophy.md) and more detailed [**how**](execution.md).
+<!-- But the vision would be incomplete without the subsequent [**why**](philosophy.md) and more detailed [**how**](execution.md). -->
 
 <div style="text-align: center;">
     <img src="images/logo.png">

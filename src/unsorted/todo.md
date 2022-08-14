@@ -214,3 +214,4 @@ You can build something centralized on something decentralized but you can’t b
 Decentralization is always the base layer.
 https://twitter.com/RyanSAdams/status/1553776203621965826
 
+
