@@ -10,7 +10,7 @@ There are 5 guiding principles when aiming for mass adoption & parity on conveni
 
     - > "With consumer products, simple and “wrong” beats complicated and “right.”" - [@naval](https://twitter.com/naval/status/1542651322532384768)
 
-<img src="../images/meme_make_them_learn.png" align="right" style="margin-left: 8px; width: 30%">
+<img src="images/meme_make_them_learn.png" align="right" style="margin-left: 8px; width: 30%">
 
 - Users shouldn't have to think about and pay for the storage of their data & blockchain interactions by default - costs & complexity should be shifted to services.
 - Users should be able to own their identity & connections in a sovereign way with a keypair **even if by default** their activity is managed by something resembling a custodial service.

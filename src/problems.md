@@ -19,7 +19,7 @@ composability
 
 > "Problem: The data for {X} is under the total control of company {X}. If a user wants to migrate to a new service, they can’t bring their history with them in a way that retains its legitimacy. Company {X} doesn’t want to let them, and even if they did, it wouldn’t be easy to do this at scale in a way so {X} doesn’t maintain total control. See: Twitter API being public with companies built on it, only to be shut down by Twitter." - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 
-<img src="../images/twitter_as_protocol.webp">
+<img src="images/twitter_as_protocol.webp">
 
 > "I think it might make the world more efficient if we were able to instantly verify the authenticity of assets, licenses, and certificates, without the need for every issuer to run massive APIs and authentication services. All one needs to do to ensure the authenticity of an asset is verify the identity and history of the issuer" - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 
@@ -63,7 +63,7 @@ Contrast that to open protocols & exportable data where anyone can specialize, i
 Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly with a [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp) at which point the user [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs can ramp up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google)). At that point innovation is less necessary (+ is harder due to inertia) and even the quality of service may degrade. User data is the most valuable commodity and scale enables the best AI models & efficiency of value extraction in the advertising model which comes with a slew of problems & perverse incentives.
 
 <div style="text-align: center;">
-    <img src="../images/meme_data_most_valuable.jpg">
+    <img src="images/meme_data_most_valuable.jpg">
 </div>
 
 Users are usually locked-in and effectively have no [voice and exit](https://twitter.com/balajis/status/1548725591687303168) either because:

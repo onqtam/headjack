@@ -16,7 +16,7 @@
 - [Content addressing](addressing.md) with human-readable & persistent URIs with provable authenticity.
 
 <div style="text-align: center;">
-    <img src="../images/meme_one_does_not_simply.jpg">
+    <img src="images/meme_one_does_not_simply.jpg">
 </div>
 
 <!-- one does not simply solve media

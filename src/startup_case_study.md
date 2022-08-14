@@ -8,7 +8,7 @@ But not like SoundCloud where [tiny overlapping rectangles](https://soundcloud.c
 
 Instead why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments & annotations based on the range and display the threads below Reddit-style with sorting & filtration options? Here's a screenshot of precisely that (ignore the colors & bad style):
 
-<img src="../images/startup_case_study.png">
+<img src="images/startup_case_study.png">
 
 The ultimate audio/video player can offer a lot more than just a comment histogram - it has the potential to be a vibrant social experience like any other:
 - 1-click repositioning & resizing of the filter window to timestamp ranges for different topics plotted as horizontal bars (already done)
@@ -38,7 +38,7 @@ How would this work as a web2 company?
 - What if YouTube/Spotify cut it off & disallows embedding their players & using the APIs?
 
 - Unclear if it should try to be its own platform or just a (browser) plugin to other platforms:
-    - The platform way is more ambitious but requires a ton more work & [vertical integration](problems.md#vertical-integration-vs-specialization--competition): direct messages, a follow graph, notifications, a feed & recommendation systems, etc. Would it need to compete with YouTube & Spotify at some point? The likely [outcome](../images/startup_failure_outcome.jpg).
+    - The platform way is more ambitious but requires a ton more work & [vertical integration](problems.md#vertical-integration-vs-specialization--competition): direct messages, a follow graph, notifications, a feed & recommendation systems, etc. Would it need to compete with YouTube & Spotify at some point? The likely [outcome](images/startup_failure_outcome.jpg).
     - The plugin way is a much more limited experience. How would users share links to comments & timeline ranges to others that don't have the plugin installed? How will users be notified for comments & replies? You'd be completely beholden to the platforms.
 
 # How Headjack's paradigm fosters innovation
