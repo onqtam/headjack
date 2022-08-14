@@ -392,24 +392,31 @@ new types of messages get an on-chain ID so subscriptions are integer-based
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 <h1 id="account-preferences--graph"><a class="header" href="#account-preferences--graph">Account preferences &amp; graph</a></h1>
-<p>how it gets managed by IDMs (so they will also touch IPFS?!)</p>
-<p>public vs private</p>
-<p>interest graph &amp; how it works off-chain</p>
-<p>TODO: change interest graph related things in other pages &amp; pictures</p>
-<ul>
-<li>
-<p>per account graph state? a materialized tree of the current state based on all prior events - both off-chain &amp; on-chain?</p>
-</li>
-<li>
-<p>remove the focus on the interest graph - it will be off-chain!</p>
-<ul>
-<li>also from all graphics!</li>
-</ul>
-</li>
-</ul>
-<p>1 of N requirement for keeping the interest graph intact &amp; being able to recover it from somewhere</p>
-<p>the graph could be moved on-chain if there are many MB/s of DB throughput (possibly sharding) but that would put a lot of strain on the </p>
-<p>myspace-like page  (or linktree-like) where you paint the picture of you - as a map or as whatever - but content shouldn't be owned by separate platforms</p>
+<!--
+how it gets managed by IDMs (so they will also touch IPFS?!)
+
+public vs private
+
+interest graph & how it works off-chain
+
+TODO: change interest graph related things in other pages & pictures
+
+- per account graph state? a materialized tree of the current state based on all prior events - both off-chain & on-chain?
+
+- remove the focus on the interest graph - it will be off-chain!
+    - also from all graphics!
+
+
+
+
+1 of N requirement for keeping the interest graph intact & being able to recover it from somewhere
+
+
+the graph could be moved on-chain if there are many MB/s of DB throughput (possibly sharding) but that would put a lot of strain on the 
+
+
+myspace-like page  (or linktree-like) where you paint the picture of you - as a map or as whatever - but content shouldn't be owned by separate platforms
+-->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="content-addressing"><a class="header" href="#content-addressing">Content addressing</a></h1>
 <p>The move from host-centric to data-centric addressing is a complete paradigm shift by itself but Headjack intertwines that with names and on-chain authorization &amp; sequencing of anchors resulting in the best possible <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Identifier">URIs</a> in terms of human-readability &amp; persistence - perhaps the most important aspect of the project. This chapter is broken down into a few sub-chapters:</p>
 <ol>
@@ -440,7 +447,7 @@ new types of messages get an on-chain ID so subscriptions are integer-based
 <p>&quot;Data is the center of the universe; applications are ephemeral.&quot; - <a href="http://datacentricmanifesto.org/">The Data-Centric Manifesto</a></p>
 </blockquote>
 <hr />
-<p><a href="https://en.wikipedia.org/wiki/Content-addressable_storage">Content-addressable storage</a> (CAS) is a way to store information so it can be retrieved based on its content (not its location/name) and is a key piece of the puzzle. Identifiers are based on content and any change to a data element will necessarily change its content address. The most famous example of CAS is <a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a> but it suffers from non-human-friendly addresses (hashes) and performance issues &amp; extreme latency (tens of minutes) if the content is not widely cached/pinned because of the global <a href="https://en.wikipedia.org/wiki/Distributed_hash_table">DHT</a>.</p>
+<p><a href="https://en.wikipedia.org/wiki/Content-addressable_storage">Content-addressable storage</a> (CAS) is a way to store information so it can be retrieved based on its content (not its location/name) and is a key piece of the puzzle. Identifiers are based on content and any change to a data element will necessarily change its content address. The most famous example of CAS is <a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a> but it suffers from non-human-friendly addresses (hashes), performance issues, and extreme latency (tens of minutes) if content is not widely cached/pinned because of the global <a href="https://en.wikipedia.org/wiki/Distributed_hash_table">DHT</a>.</p>
 <p><a href="https://en.wikipedia.org/wiki/Self-authenticating_document">Self-authenticating data</a> moves authority from hosts to users. The three components that enable it are <a href="https://en.wikipedia.org/wiki/Public-key_cryptography">cryptographic identifiers</a>, <a href="https://en.wikipedia.org/wiki/Content-addressable_storage">CAS</a>, and an emerging area of research called <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a> which is yet to be applied in any meaningful scale.</p>
 <hr />
 <p><a href="https://en.wikipedia.org/wiki/Information-centric_networking">Information-centric networking</a> (ICN) is an approach to evolving the Internet infrastructure away from a host-centric paradigm, based on perpetual connectivity and the <a href="https://en.wikipedia.org/wiki/End-to-end_principle">end-to-end principle</a>, to a network architecture in which the focal point is identified information (or content or data). Data becomes independent from location, application, storage, and means of transportation, enabling in-network caching and replication. The expected benefits are improved efficiency, better scalability with respect to information/bandwidth demand, and better robustness in challenging communication scenarios. In information-centric networking, the cache is a network-level solution, and it has rapidly changing cache states, higher request arrival rates, and smaller cache sizes.</p>

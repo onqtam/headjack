@@ -4,6 +4,7 @@
 
 # Account preferences & graph
 
+<!--
 how it gets managed by IDMs (so they will also touch IPFS?!)
 
 public vs private
@@ -27,3 +28,4 @@ the graph could be moved on-chain if there are many MB/s of DB throughput (possi
 
 
 myspace-like page  (or linktree-like) where you paint the picture of you - as a map or as whatever - but content shouldn't be owned by separate platforms
+-->
