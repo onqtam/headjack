@@ -16,7 +16,7 @@ Headjack is a blockchain that links sovereign identities to content throughout t
 
 - It doesn't deal with off-chain data storage and retrievability - those are separate problems and Headjack simply lets entities point to ways for others to retrieve addressable content.
 
-- The move from the current [host-centric](host_centric.md) web towards [data-centric](data_centric.md) addressing represents a paradigm shift around data ownership & access - an architectural reset of the internet.
+<!-- - The move from the current [host-centric](host_centric.md) web towards [data-centric](data_centric.md) addressing represents a paradigm shift around data ownership & access - an architectural reset of the internet. -->
 
 # Book structure
 
