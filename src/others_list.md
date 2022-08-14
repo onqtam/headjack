@@ -1,6 +1,6 @@
 # Concrete projects (list)
 
-### [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
+# [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
 
 Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
 
@@ -22,7 +22,7 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
 
 Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does.
 
-### [Farcaster](https://www.farcaster.xyz/)
+# [Farcaster](https://www.farcaster.xyz/)
 
 <!--
 https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564
@@ -56,7 +56,7 @@ https://github.com/farcasterxyz/protocol#message-ordering -->
 
 Overall good intuition about the concept of [sufficient decentralization](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much [responsibility, complexity & assumptions](https://github.com/farcasterxyz/protocol#7-security-considerations) (consensus, CRDTs, trees, ordering, flooding & replay attacks, etc.) and is lacking in other areas.
 
-### [TBD](https://www.tbd.website/)
+# [TBD](https://www.tbd.website/)
 
 Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E), [announcement](https://twitter.com/namcios/status/1535302090360250368).
 
@@ -73,7 +73,7 @@ Jack Dorsey's new ["web5"](../images/meme_web5.jpg) project - [slides](https://d
 
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](web_scale.md) on such a granular level and aggregation is not even in the picture.
 
-### [Project Liberty](https://www.projectliberty.io/)
+# [Project Liberty](https://www.projectliberty.io/)
 
 TODO: separate page for this?
 
@@ -126,7 +126,7 @@ One of the few solutions with their [own chain](https://www.frequency.xyz/) in t
 
 
 
-### [CyberConnect](https://cyberconnect.me/)
+# [CyberConnect](https://cyberconnect.me/)
 
 Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md).
 
@@ -140,7 +140,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m) - not human-readable.
 
-### [lens.xyz](https://lens.xyz/)
+# [lens.xyz](https://lens.xyz/)
 
 - Keypairs & wallets required.
 
@@ -148,7 +148,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - Hashes & pubkeys in content addressing - no [human-readable & persistent URIs](addressing.md).
 
-### [DeSo](https://www.deso.org/)
+# [DeSo](https://www.deso.org/)
 
 - It requires wallets & users to pay for every interaction.
 
@@ -158,7 +158,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - Their initial growth was fueled by huge sums of VC money but by now it has [flatlined](https://www.openprosper.com/stats/deso-dashboard). It did reach [1.66$ billion market cap](https://www.coingecko.com/en/coins/deso) on the 2nd of October 2021 shortly after being listed.
 
-### Others
+# Others
 
 For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, Solid & others please refer to the excellent [ecosystem review](https://twitter.com/bluesky/status/1352302821140549632) by the Bluesky project. Other good resources include:
 - [Decentralized Social Networks](https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53) - Jay Gerber
