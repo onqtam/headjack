@@ -83,7 +83,7 @@ Business models page in ecosystem?
 
 
 
-## Content & interface architectures
+# Content & interface architectures
 
 - store content off-chain ==> infinite horizontal scalability
 

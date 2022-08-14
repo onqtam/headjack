@@ -11,7 +11,7 @@ If the internet is the information super highway, blockchains are the cooperatio
 
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
-## Mission
+# Mission
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
@@ -30,7 +30,7 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 
 <!-- Mission: minimize friction, complexity, and uncertainty -->
 
-## Bottom-up media & the decentralized town square
+# Bottom-up media & the decentralized town square
 
 > "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
 
@@ -84,7 +84,7 @@ visualize the global HEATMAP of interests
 
 
 
-## Culture war
+# Culture war
 
 
 

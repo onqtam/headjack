@@ -41,7 +41,7 @@ such infrastructure
 > "The attention economy has always had its ledger and its cash register, and Web 3 will be no different."
 
 
-## Client attribution
+# Client attribution
 
 the way for a startup interface to get noticed
 
@@ -53,7 +53,7 @@ the way for a startup interface to get noticed
 
 Ads themselves are not the root evil - it's the lack of choice & ability to exit in the current monopolistic world due to the benefits of vertical integration in the current host-centric paradigm
 
-## IDMs & storage - the new cloud
+# IDMs & storage - the new cloud
 
 https://twitter.com/ZeMariaMacedo/status/1554041365754945537
 
