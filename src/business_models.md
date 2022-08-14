@@ -5,6 +5,9 @@
 
 # Business models
 
+<img src="images/infrastructure_companies.png">
+
+
 # Ads
 
 The goal is democratized access, competition & innovation - not the end of the ad model which is a pipe dream.
@@ -44,9 +47,6 @@ such infrastructure
 # Client attribution
 
 the way for a startup interface to get noticed
-
-
-
 
 
 
