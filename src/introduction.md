@@ -5,6 +5,8 @@ Headjack is an [open state database](https://twitter.com/balajis/status/11230928
 <!-- 
 TODO:
 
+Headjack links identity to creation and actions
+
 
 Headjack links identity to content without limits - that is why it can be the base layer
 Liberating data at scale

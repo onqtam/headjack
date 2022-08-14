@@ -77,6 +77,8 @@ Headjack's main value proposition is keeping historical records of the sequence 
 
 TODO: finish this
 
+numbers - state - one difference from other cryptos is that this one is append-only and could be designed to be easier on memory access patterns
+
 <!-- 
 
 The growth of the chain and the state will differ by a few things:
