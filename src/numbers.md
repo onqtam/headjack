@@ -58,8 +58,8 @@ The naive scenario does not include on-chain actions for specific accounts such 
     - authorizing an IDM, rotating keys, or even publishing off-chain content as an interface
 
 However, the realistic scenario will not be far from the naive because:
-- Only a % of all accounts will have keypairs and will make just a few signed actions per year - leaving the majority of block throughput for authorizations through IDMs.
-- Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through [SSO](https://en.wikipedia.org/wiki/Single_sign-on) every single day.
+- Only a % of all accounts will have keypairs (even though 100% could) and will make just a few signed actions per year - leaving most block throughput for authorizations through IDMs.
+- Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through [SSO](https://en.wikipedia.org/wiki/Single_sign-on) every single day. There could also be 2 types of log-ins: passive (viewing only - nothing on-chain) and authorized (allowing services to post on behalf of users).
 - Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.
 - The chain throughput can be further optimized & scaled by multiple orders of magnitude.
 

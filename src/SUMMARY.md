@@ -26,6 +26,7 @@
     - [The future of publishing](publishing.md)
     - [Benefits of this approach](benefits.md)
     - [Infrastructure improvements](infrastructure.md)
+    - [Business models](business_models.md)
     - [Unlocked possibilities](possibilities.md)
     - [Indexes & algorithms](indexes_and_algorithms.md)
     - [The metaverse](metaverse.md)

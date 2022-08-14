@@ -179,6 +179,12 @@ Unstoppable software/media
 
 
 
+"subscribe to any data feed"
+
+anything can be a data feed to which you can subscribe to
+
+
+
 
 
 
