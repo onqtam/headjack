@@ -5,7 +5,7 @@
     - [Guiding principles](principles.md)
     - [Identity & authorization](identity.md)
     - [Messages](messages.md)
-    - [Account preferences & graph](account_preferences.md)
+    - [Account preferences & graphs](account_preferences.md)
     - [Content addressing](addressing.md)
         - [Today's web: host-centric](host_centric.md)
         - [Data-centric addressing](data_centric.md)

@@ -16,7 +16,7 @@ So the fields for a transaction by an interface/IDM (which will be the majority)
 - nonce: `4 bytes` auto-increment integer associated with the account - to prevent reordering of anchored off-chain blobs (which would mess up internal addressing based on that nonce)
 - value: `4 bytes` amount of native token paid to validators for transaction inclusion
 
-So far that is `141 bytes` which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as 4 byte integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.
+So far that is `141 bytes` which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.
 
 # Naive scenario
 
@@ -29,7 +29,7 @@ Assuming:
 - no on-chain actions such as keypair & name changes, account creation & direct interaction with the chain by end users
 
 We get:
-- 1100 actors (1000 interfaces + 100 IDMs) that post in every block the `141` bytes minimum for their transactions, which is `155100` bytes
+- 1100 actors (1000 interfaces + 100 IDMs) that post in every block at least `141` bytes for their transactions, which is `155100` bytes
 - the remaining `893476` bytes (1048576 (1MB) - 155100) can be filled with authorizations and since an authorization is `16` bytes (8 * 2) that would be 55842 authorizations/revocations every 10 seconds or 5584 authorizations/revocations per second
 - for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less [single sign-ons](https://en.wikipedia.org/wiki/Single_sign-on) per day
 
@@ -52,7 +52,7 @@ We get:
 The naive scenario does not include on-chain actions for specific accounts such as:
 - keypair changes (new pubkey (32 bytes) + signature (65 bytes) if there is an older key)
 - account creation (if done by an IDM then this is just a few bytes - no pubkey)
-- name registration & ownership changes (no plans how this market would work yet)
+- name registration & ownership changes (see the [dedicated page](handles.md) for more details)
 - updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services
 - signed transactions by individual accounts that want to directly interact with the chain
     - authorizing an IDM, rotating keys, or even publishing off-chain content as an interface
@@ -66,7 +66,7 @@ However, the realistic scenario will not be far from the naive because:
 # Optimizations & scaling
 
 - Throughput of 100 kb/s is just the start & can easily go to 1-10 mb/s as a ZK rollup.
-- The chain & state can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - all they contain is authorization block numbers & keypair history.
+- The chain & state can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - they mostly contain authorization block numbers & keypair history.
 - A fee market can develop that tunes the cost of different actions so that actors don't just pay for on-chain bytes - the ways the system is used can be guided through incentives.
 - Integer indexes that only need 4 bytes can be compressed/batched together.
 - Other optimizations not listed here - this is just the starting point.

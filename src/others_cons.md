@@ -38,3 +38,7 @@ A list of problems with the contenders in the decentralized identity/media space
 <!-- other projects lack a vision of what could be built and what it would look like
 https://twitter.com/liron/status/1547225903176028160 -->
 
+
+
+<!-- What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. -->
+
