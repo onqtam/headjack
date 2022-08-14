@@ -109,6 +109,9 @@ notifications
     "Notifications are just alarm clocks that someone else is setting for you." - @naval
     https://twitter.com/NavalismHQ/status/1556179585347112961
 
+    Omg page about notifications and attention and explicit preferences
+
+    Anyone will be able to implement audio notes with speech to text and others will be able to get notifications if something is mentioned
 
 
 
