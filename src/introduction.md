@@ -1,9 +1,5 @@
 # Headjack - the base layer of cyberspace
 
-<!-- Headjack is an [open state database](https://twitter.com/balajis/status/1123092897664880640) designed for [web-scale](web_scale.md) media (in the billions of users) that addresses the most fundamental pieces of the puzzle: identity, connections, names and [content addressing](addressing.md) with human-readable & persistent [URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) paths (instead of hashes) all packaged in a credibly neutral & self-sustaining blockchain.
-
-It is [aiming](ambition.md) to disaggregate the giants and end network effect monopolies & data silos by aligning incentives and acting as the backend network that users won't even need to know about by striking the right set of tradeoffs. It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to. -->
-
 Headjack is a blockchain that links sovereign identities to content throughout time. Key points:
 
 - Creation is fundamentally different from transfers and exchange of value - the design space around trust & data availability for media and identity is different from finance.

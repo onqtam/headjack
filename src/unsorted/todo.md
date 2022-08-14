@@ -215,3 +215,6 @@ Decentralization is always the base layer.
 https://twitter.com/RyanSAdams/status/1553776203621965826
 
 
+
+It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.
+
