@@ -8,7 +8,7 @@ Users and interfaces don't need a name and can operate as an integer index just 
 
 Every name has an associated auto-increment nonce (just like account IDs) for every time they submit an anchor for off-chain content and the blockchain records maps of `<name>/<nonce>` to `<id>/<nonce>` which can then be used to resolve the URI as discussed in the [previous chapter](uris.md).
 
-<img src="../images/account_name_state.png">
+<img src="images/account_name_state.png">
 
 But we need to be able to translate not just the interface name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check to which account IDs do names in URIs correspond to at that time. Alternatively the user name <=> account ID mapping at the time of the blob could be embedded within the blob header (along with proofs) so that fewer queries are necessary to the blockchain.
 
