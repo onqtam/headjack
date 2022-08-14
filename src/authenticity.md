@@ -2,7 +2,7 @@
 
 In the current web documents are [host-certified](problems.md#the-host-centric-web) and we refer to data by location instead of contents. Here we'll further expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents in an open ecosystem with freely shared public data tied to identity.
 
-## The ledger of record
+# The ledger of record
 
 We'll be able to computationally verify the authenticity of any document & tie it to an identity as long as we also have the proofs for it - giving birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority.
 
@@ -20,7 +20,7 @@ Using screenshots of tweets in case the originals get deleted does not constitut
 
 > "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
-## The history of document updates
+# The history of document updates
 
 Today's web puts authenticity & certification of documents in the [hands of hosts](host_centric.md) which can [do whatever they want](https://news.ycombinator.com/item?id=27690525) and rarely provide the option to see previous versions if edits have been made. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and can be compromised.
 
@@ -30,7 +30,7 @@ Today's web puts authenticity & certification of documents in the [hands of host
 
 In Headjack updates to URIs are broadcasted but the previous versions remain - interfaces ought to display the latest state but should allow browsing the entire history of changes - like using Git.
 
-## Deduplicating documents & traceability
+# Deduplicating documents & traceability
 
 An open paradigm with content addressing where data is shared between services would enable us to de-duplicate re-uploads as long as they are the same documents in terms of bytes because of the open nature of data - based on their hash. We'll be able to see when something first appeared & the discussion will be much less fractured between platforms and posts - leading to greater depth.
 
@@ -38,7 +38,7 @@ We'll be able to more easily [address parts of documents](names_and_paths.md#add
 
 TODO: regarding deepfakes - only official statements could be traced - unofficial leaks will still be unprovable
 
-## Verifiable credentials
+# Verifiable credentials
 
 Entities can sign messages that attest facts about other accounts - the creation of such [verifiable credentials](https://en.wikipedia.org/wiki/Verifiable_credentials) doesn't have to happen on-chain - they can be issued off-chain with a message that's only anchored on-chain and has a URI. [`"issuance is common, revocation is rare"`](https://vitalik.ca/general/2022/06/12/nonfin.html#modifying-and-revoking-attestations) - later revocations & updates can be handled in one of 2 ways:
 - On-chain revocation/updates: if the attestations are uniquely numbered with a counter from the issuer using a [nonce](https://en.wikipedia.org/wiki/Cryptographic_nonce), then the Headjack state can be extended to support a special `revocation list` field in which the chain can record revocations at specific blocks - then the validity of said attestations will be checkable with a single query to the blockchain state. For updates there would be a second list and in order to check the validity for an attestation after an update has been recorded for its nonce, users would need to fetch the off-chain anchored message corresponding to the update at the block at which it was flagged. The blockchain may charge periodic fees for state rent for these lists.
@@ -47,7 +47,7 @@ Entities can sign messages that attest facts about other accounts - the creation
 <!-- TODO: POAP
 https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&sourceid=chrome&ie=UTF-8 -->
 
-## Reputation systems
+# Reputation systems
 
 We don't need oracles, tokens, automatic on-chain settlement & markets through smart contracts to build reputation systems for predictions & promises - all we need is to immutably sequence predictive messages that are authentically linked to identity and plot the results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.
 

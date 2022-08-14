@@ -46,7 +46,7 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 
 
 
-## No more data silos
+# No more data silos
 
 Generating content should be frictionless. Associating content with identity should be straightforward. Frictionless migration between views
 
@@ -66,7 +66,7 @@ segregated and disjoint discussion in the open web serves nobody - there should 
 
 you should be able to quote-comment any piece of science or media and have a threaded conversation with everyone. All publishing platforms will be plugged into this ecosystem.
 
-## Data-centric interoperability & composability
+# Data-centric interoperability & composability
 
 - We'll be able to plot a timeline for all references to an event and filter based on activity & type of references
 
@@ -75,7 +75,7 @@ persistent URIs help with returning back to a resource and checking all the disc
 - The lack of data interoperability leads to tool & widget incompatibility
 
 
-## Sub-addressing TODO: change this name
+# Sub-addressing TODO: change this name
 
 OMG
 quoting sub-sections of pages through the internet archive
@@ -94,7 +94,7 @@ imagine a paragraph of a substack article to be retweetable and to be able to go
 
 TODO: think about memes & the original content + layers
 
-## Usability improvements & organization
+# Usability improvements & organization
 
 each interface will specialize into providing the best possible service for the particular need/aspect of data consumption
 

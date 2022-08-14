@@ -5,12 +5,12 @@
 
 # Infrastructure improvements
 
-## Redundancy
+# Redundancy
 
 TODO: Multiple points to retrieve content - redundancy
 
 
-## [Search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
+# [Search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
 
 - Building indexes would be greatly simplified as they will be plugged to the global message bus and update only on events (push) - instead of periodic batch crawling of the public web (pull). The history of changes will be much more granular, precise, complete, structured & authenticated.
 - Message schemas will greatly aid in the indexability and information extraction from dynamic websites.
@@ -20,7 +20,7 @@ TODO: Multiple points to retrieve content - redundancy
 
 <!-- There will be multiple competing versions of something like Google's Page Rank algorithm on this global dataset. -->
 
-## The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
+# The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
 - It will no longer need to actively poll all websites on earth periodically & check for changes and save snapshots - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.
 - Actual content & presentation HTML can be decoupled and only the essential could be saved. There could be a new message type for interfaces to signal a change in what they serve to browsers for presentation & rendering of content which the Internet Archive could save throughout time as well to provide the historical views. Redundancy of snapshots can be driven to 0.

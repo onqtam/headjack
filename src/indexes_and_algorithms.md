@@ -22,7 +22,7 @@ Interfaces will compete on the algorithms they let people use to filter and sort
 
 
 
-## Transparency & choice of algorithms
+# Transparency & choice of algorithms
 
 Imagine seeing both the data and the algorithms running on that data & being able to check the results for yourself
 
