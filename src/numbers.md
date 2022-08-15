@@ -115,4 +115,6 @@ There are no limits for off-chain content as it is all just anchored with merkle
 
 <!-- validium
 
+This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (`"X follows Y"` only affects `X`) and that is [provable with easy to grasp napkin math](numbers.md).
+
 data availability guarantees don't need to be as strong as for finance - it won't be fatal to revert a few blocks of activity if data is unavailable -->
