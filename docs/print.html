@@ -628,6 +628,35 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <p>Headjack's main value proposition is keeping historical records of the sequence of authorizations, key changes &amp; off-chain content anchors and being able to generate proofs for any specific piece of off-chain content.</p>
 <p>TODO: finish this</p>
 <p>numbers - state - one difference from other cryptos is that this one is append-only and could be designed to be easier on memory access patterns</p>
+<p>One difference with other blockchains is that accounts in Headjack are numbers and thus the state tree could be different.</p>
+<p>All on-chain changes just append data to one of the few attributes of:</p>
+<ul>
+<li>accounts:
+<ul>
+<li>public keys: a map of keys and block height integer ranges (non-overlapping)<!-- - could be a different data structure -->
+</li>
+<li>authorizations: a map of indexes and arrays of block height integer ranges</li>
+<li>nonces: an array that maps autoincrement indexes to block numbers
+<ul>
+<li>appended only when publishing off-chain content (usually an interface/IDM)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>names:
+<ul>
+<li>owners: a map of owner indexes and block height integer ranges (non-overlapping)</li>
+<li>nonces: an array that maps autoincrement indexes to account index &amp; nonce pairs
+<ul>
+<li>appended only when publishing off-chain content (usually an interface/IDM)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>TODO: should IPFS hashes &amp; merkle roots be saved in the state?
+- no?</p>
+<img src="images/account_name_state.png">
 <!-- 
 
 The growth of the chain and the state will differ by a few things:
@@ -2123,6 +2152,8 @@ https://decrypt.co/104319/ethereum-name-web3-cybersquatting
 "The mint happens over a two-phase commit reveal to prevent front-running registrations."
 "Farcaster Names are ERC-721 tokens that are fully composable with the NFT ecosystem."
 https://github.com/farcasterxyz/protocol
+
+https://medium.com/@jgm.orinoco/domainsale-an-on-chain-secondary-ens-market-b3330f6e5dda
 
  -->
 

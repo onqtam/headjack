@@ -83,4 +83,6 @@ https://decrypt.co/104319/ethereum-name-web3-cybersquatting
 "Farcaster Names are ERC-721 tokens that are fully composable with the NFT ecosystem."
 https://github.com/farcasterxyz/protocol
 
+https://medium.com/@jgm.orinoco/domainsale-an-on-chain-secondary-ens-market-b3330f6e5dda
+
  -->

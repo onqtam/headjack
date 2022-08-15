@@ -79,6 +79,26 @@ TODO: finish this
 
 numbers - state - one difference from other cryptos is that this one is append-only and could be designed to be easier on memory access patterns
 
+One difference with other blockchains is that accounts in Headjack are numbers and thus the state tree could be different.
+
+
+All on-chain changes just append data to one of the few attributes of:
+- accounts:
+    - public keys: a map of keys and block height integer ranges (non-overlapping)
+        <!-- - could be a different data structure -->
+    - authorizations: a map of indexes and arrays of block height integer ranges
+    - nonces: an array that maps autoincrement indexes to block numbers
+        - appended only when publishing off-chain content (usually an interface/IDM)
+- names:
+    - owners: a map of owner indexes and block height integer ranges (non-overlapping)
+    - nonces: an array that maps autoincrement indexes to account index & nonce pairs
+        - appended only when publishing off-chain content (usually an interface/IDM)
+
+TODO: should IPFS hashes & merkle roots be saved in the state?
+    - no?
+
+<img src="images/account_name_state.png">
+
 <!-- 
 
 The growth of the chain and the state will differ by a few things:
