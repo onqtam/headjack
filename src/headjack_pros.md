@@ -9,7 +9,7 @@
     - Encapsulates the complexity in [UX](https://en.wikipedia.org/wiki/User_experience) & [DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) - the simplest mental model will win.
     - Full historical record of authorizations & ability to prove anything throughout time.
 
-- [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy): focus only on identity & the interest graph and don't try to do everything. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
+- [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy): focuses only on identity & linking data to it without trying to do everything. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
 - Integers are the most well-known, compact, and easy to work with data type - faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
 

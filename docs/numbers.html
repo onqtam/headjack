@@ -250,6 +250,8 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 <p>There are no limits for off-chain content as it is all just anchored with merkle roots - it could be as high as hundreds of terabytes per second. There isn't a more minimal design that can link unbounded amounts of off-chain data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack - it achieves consensus on the absolute bare minimum.</p>
 <!-- validium
 
+This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (`"X follows Y"` only affects `X`) and that is [provable with easy to grasp napkin math](numbers.md).
+
 data availability guarantees don't need to be as strong as for finance - it won't be fatal to revert a few blocks of activity if data is unavailable -->
 
                     </main>

@@ -26,8 +26,6 @@ https://blog.twitter.com/en_us/topics/company/2020/bot-or-not
 by default, if you don't have a handle, your comments aren't seen by everyone but only by the ones who own the content. They get to see everything and only if they quote-retweet you do others se your activity. and if they follow you they will see your posts always
 
 
-by default, if you don't have a handle, your comments aren't seen by everyone but only by the ones who own the content. They get to see everything and only if they `uote-retweet you do others se your activity. and if they follow you they will see your posts always
-
 https://blog.twitter.com/en_us/topics/company/2022/introducing-our-crisis-misinformation-policy
 
 
@@ -119,3 +117,7 @@ https://www.thepullrequest.com/p/freeze-peach-and-the-internet
 ^^ good read - especially after the first 1/3
 
 
+
+https://philpapers.org/rec/NGUHTG
+
+https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
