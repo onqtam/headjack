@@ -1,6 +1,6 @@
 # Headjack - the base layer of cyberspace
 
-Headjack is a blockchain that links sovereign identities to content throughout time. Key points:
+Headjack is a blockchain that links sovereign identities to content at [web-scale](web_scale.md). Key points:
 
 - Creation is fundamentally different from transfers and exchange of value - the design space around trust & data availability for media and identity is different from finance.
 
@@ -20,11 +20,11 @@ Headjack is a blockchain that links sovereign identities to content throughout t
 
 # Book structure
 
-- **Introduction (what)** - How the protocol technically works, how it compares with other projects, and how things like DMs, social graphs, preferences, etc. could be implemented - the building blocks necessary to recreate anything from Web2 and beyond.
+- **What is Headjack** - How the protocol technically works, how it compares with other projects, and how things like DMs, social graphs, preferences, etc. could be implemented - the building blocks necessary to recreate anything from Web2 and beyond.
 
-- **Motivation (why)** - What's broken with the web and a blueprint of what could be possible - services, business models, infrastructure, algorithms, moderation, markets, metaverse, etc.
+- **Why is Headjack necessary** - What's broken with the web and a blueprint of what could be possible - services, business models, infrastructure, algorithms, markets, metaverse, etc.
 
-- **Execition (how)** - A detailed specification of the implementation and other standards.
+- **Implementation of Headjack** - A detailed specification of the implementation.
 
 # Introduction (what)
 
