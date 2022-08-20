@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction (what)](introduction.md)
+- [What is Headjack](introduction.md)
     - [On-chain vs off-chain](on_off_chain.md)
     - [Guiding principles](principles.md)
     - [Identity & authorization](identity.md)
@@ -20,7 +20,7 @@
         - [Competing projects (list)](others_list.md)
         - [Shortcomings of Headjack](headjack_cons.md)
 
-- [Motivation (why)](motivation.md)
+- [Why is Headjack necessary](motivation.md)
     - [Problems with the current web](problems.md)
     - [Authenticity](authenticity.md)
     - [The future of publishing](publishing.md)
@@ -38,7 +38,7 @@
 
 ---
 
-- [Execution (how)](execution.md)
+- [Implementation of Headjack](execution.md)
     - [Identity managers (IDM)](IDM.md)
     - [Handles (names)](handles.md)
 
