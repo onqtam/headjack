@@ -38,7 +38,7 @@ How would this work as a web2 company?
 - What if YouTube/Spotify cut it off & disallows embedding their players & using the APIs?
 
 - Unclear if it should try to be its own platform or just a (browser) plugin to other platforms:
-    - The platform way is more ambitious but requires a ton more work & [vertical integration](problems.md#vertical-integration-vs-specialization--competition): direct messages, a social graph, notifications, a feed & recommendation systems, etc. Would it need to compete with YouTube & Spotify at some point? The likely [outcome](images/startup_failure_outcome.jpg).
+    - The platform way is more ambitious but requires a ton more work & [vertical integration](problems_with_the_web.md#vertical-integration-vs-specialization--competition): direct messages, a social graph, notifications, a feed & recommendation systems, etc. Would it need to compete with YouTube & Spotify at some point? The likely [outcome](images/startup_failure_outcome.jpg).
     - The plugin way is a much more limited experience. How would users share links to comments & timeline ranges to others that don't have the plugin installed? How will users be notified for comments & replies? You'd be completely beholden to the platforms.
 
 # How Headjack's paradigm fosters innovation

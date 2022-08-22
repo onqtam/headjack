@@ -56,6 +56,8 @@ https://github.com/farcasterxyz/protocol#message-ordering -->
 
 Overall good intuition about the concept of [sufficient decentralization](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) (putting only what is absolutely necessary on a blockchain) but the p2p node implementation takes on too much [responsibility, complexity & assumptions](https://github.com/farcasterxyz/protocol#7-security-considerations) (consensus, CRDTs, trees, ordering, flooding & replay attacks, etc.) and is lacking in other areas.
 
+<!-- perhaps the best product team in the space and a good attempt to bootstrap a community -->
+
 # [TBD](https://www.tbd.website/)
 
 Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E), [announcement](https://twitter.com/namcios/status/1535302090360250368).

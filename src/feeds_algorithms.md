@@ -38,3 +38,10 @@ with open data & transparent algorithms we could leverage AI to surface human co
 https://www.youtube.com/watch?v=WVEP0zAK-xQ&t=3951s
 
 https://twitter.com/disclosetv/status/1557800191700393984
+
+
+https://twitter.com/balajis/status/1561032192947458048
+
+one problem with twitter is the immediacy - the feed promotes recent engagement ONLY. and there's no good way to dig through history
+
+We need control over feeds

@@ -22,7 +22,7 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 - revive the semantic web, [deduplicate content & enable traceability](authenticity.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - virality needs to be politically & content-neutral
-- break the [vertical integration](problems.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
+- break the [vertical integration](problems_with_the_web.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - empower super users to separate signal from noise through open data & better tooling
