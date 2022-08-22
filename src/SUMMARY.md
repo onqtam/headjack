@@ -28,7 +28,7 @@
     - [Infrastructure improvements](infrastructure.md)
     - [Business models](business_models.md)
     - [Unlocked possibilities](possibilities.md)
-    - [Feeds & algorithms](indexes_and_algorithms.md)
+    - [Feeds & algorithms](feeds_algorithms.md)
     - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
     - [Philosophy](philosophy.md)

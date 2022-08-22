@@ -70,8 +70,8 @@ However, the realistic scenario will not be far from the naive because:
 
 - Throughput of 100 kb/s is just the start & can easily go to 1-10 mb/s as a ZK rollup.
 - The chain & state can be trivially sharded - there aren't problems such as fracturing liquidity or preventing composability because accounts don't care about each other - they mostly contain authorization block numbers & keypair history.
+- Integer indexes that only need 4 bytes can be compressed/batched together - it'll take many years to go beyond 4 billion accounts so the actual throughput is **2x** of what is listed here.
 - A fee market can develop that tunes the cost of different actions so that actors don't just pay for on-chain bytes - the ways the system is used can be guided through incentives.
-- Integer indexes that only need 4 bytes can be compressed/batched together.
 - Other optimizations not listed here - this is just the starting point.
 
 # State growth
