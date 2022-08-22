@@ -79,7 +79,55 @@ Media is about data access and sequence
 - mina snapp?
 - unbounded state growth.
 
-# Mempool
 
-Mempool used mostly by interfaces with big bulky blobs
+
+- look into aggregate/multi/threshold signatures, ZK tech & other certificates:
+    https://github.com/jarradh/zk-compact-certificates
+
+
+
+- ECDSA vs eddsa
+https://support.mycrypto.com/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/
+https://medium.com/mycrypto/the-magic-of-digital-signatures-on-ethereum-98fe184dc9c7
+https://ethvigil.com/docs/eth_sign_example_code/
+
+https://vomtom.at/ethereum-private-and-public-keys/
+https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce
+https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated
+
+
+https://doc.libsodium.org/
+http://ed25519.cr.yp.to/
+https://keybase.io/
+https://docs.joinmastodon.org/spec/webfinger/
+https://docs.joinmastodon.org/spec/activitypub/
+
+
+why libp2p sucks
+https://twitter.com/tomaka17/status/1547529377277173761
+https://github.com/matrix-org/pinecone
+
+Skynet interop with IPFS:
+https://twitter.com/DavidVorick/status/1412080832286584844
+https://docs.skynetlabs.com/developer-guides/moving-from-ipfs-to-skynet
+https://skynet.guide/tech/sia-layer-one.html
+https://skynet.guide/tech/skynet-layer-two.html
+
+
+reading on IPFS, Filecoin & Sia/Skynet
+https://www.reddit.com/r/siacoin/comments/lg9qr0/what_is_skynet_why_should_i_build_on_it_and_how/gmr7u5v/
+https://www.reddit.com/r/ipfs/comments/jf073z/filecoin_isnt_an_incentivization_network_for_ipfs/
+
+
+
+how big are bloom filters
+https://en.wikipedia.org/wiki/Bloom_filter
+https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/
+https://github.com/RoaringBitmap/CRoaring
+https://github.com/RoaringBitmap/RoaringBitmap#faq
+https://en.wikipedia.org/wiki/Bitmap_index
+
+
+
+
 -->

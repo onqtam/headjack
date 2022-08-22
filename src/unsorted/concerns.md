@@ -6,8 +6,8 @@
 
 - IDMs could "lock in" users by not adhering to the standards for exporting data
 
-
-Disadvantage: different criteria for counting engagement would result in different views => confusing?
+- how to count impressions/views of videos?
+- Disadvantage: different criteria for counting engagement would result in different views => confusing?
 
 - how to handle the name registration
 - Sybil attack - spam, bloat, state growth with dead IDs

@@ -53,4 +53,18 @@ In Headjack all connections in the [interest graph](https://en.wikipedia.org/wik
 
 
 
+- private connections, posts & user data
+    - see 4.2.2 Privacy (basically encrypted connections/actions and secrets shared/delegated to interfaces to operate on behalf of actor)
+    even encrypted direct messaging could be implemented on top of this
+    5.4.3 & 5.4.4
+    https://unfinished.com/wp-content/uploads/dsnp_whitepaper.pdf
+    - TODO: store off-chain?
+    centralized connection graph is not incompatible with data pods as thought by in Solid, or Ceramic, etc.
+        - can be stored & managed by ID managers
+    - GDPR...
+    https://matrix.org/~matthew/Response_to_-_Notes_on_privacy_and_data_collection_of_Matrix.pdf
+    https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org
+    https://developer.litprotocol.com/docs/WhatIsLit/whatIsLitProtocol
+
+
 -->

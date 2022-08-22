@@ -136,6 +136,21 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 
 - state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes -->
 
+TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which interfaces a user has authorized to post on their behalf in a given block
+
+
+
+Reducing merkle proof sizes with Verkle Tries
+"It’s a constant size proof regardless of the width."
+https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
+Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital
+https://www.youtube.com/watch?v=xuLyZaty9iI
+vector commitments (Merkle proofs)
+https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
+https://www.youtube.com/watch?v=RGJOQHzg3UQ
+https://vitalik.ca/general/2021/06/18/verkle.html
+
+
 
 # Off-chain content
 

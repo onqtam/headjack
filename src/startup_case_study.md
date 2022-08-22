@@ -1,6 +1,6 @@
 # Startup case study
 
-**Problem statement**: Long-form media is already the present (& future) and audio/video are preferred over text by many. We should be able to comment & annotate it at specific points in time on the timeline.
+**Problem statement**: Long-form media is the present (& future) and audio/video are preferred over text by many. We should be able to comment & annotate it at specific points in time on the timeline.
 
 But not like SoundCloud where [tiny overlapping rectangles](https://soundcloud.com/liluzivert/for-fun-prod-by-beatsbyjeff) with profile pictures are rendered on the timeline that you can just hover with the cursor to see the comment nor like YouTube where you can write a timestamp (`hh:mm:ss`) in a comment which becomes a clickable link that fast-forwards the player and then fighting it out with the other 20 000 comments in the single linear vertically scrollable section of a 3 hour long podcast and hoping to be noticed - both are horribly insufficient and unusable. For both of them comments are just an afterthought - it is extremely hard to discuss specific parts of long-form media & for good localized signal to actually surface & be noticed.
 
@@ -11,10 +11,10 @@ Instead why not just show a histogram of where most of the comments are and prov
 <img src="images/startup_case_study.png">
 
 The ultimate audio/video player can offer a lot more than just a comment histogram - it has the potential to be a vibrant social experience like any other:
-- 1-click repositioning & resizing of the filter window to timestamp ranges for different topics plotted as horizontal bars (already done)
+- 1-click repositioning & resizing of the filter window to timestamp ranges for different topics plotted as horizontal bars (already done & visible in the screenshot)
 - sharing links to specific ranges - as clips, but without losing the context
     - many channels re-upload clips from longer videos - this should instead be a simple "retweet" of the original material with a range as a parameter
-- different types of comments: annotations, questions, personal (hidden) notes
+- different types of comments: annotations, questions, personal (private) notes
 - search field for within the comments that are in the current filter window
 - crowdsourced annotations (tagging resources/events/concepts/entities)
 - plotting/toggling different types of histograms (not just comment density):

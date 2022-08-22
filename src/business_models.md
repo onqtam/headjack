@@ -48,6 +48,8 @@ such infrastructure
 
 the way for a startup interface to get noticed
 
+the persistent URL of content is an advertisement of the interface by itself
+similar to twitter's client attribution
 
 
 
@@ -76,6 +78,24 @@ point of view: creating an interface without the ability to lock-in users is dau
 
 Todo: takerate - what it is for other platforms and how it fits in headjack beyond youtube
 
+
+TODO: think about creator monetization and how google currently gets the lions share of the ad revenue
+What if some platforms don't freely provide the content but just anchor it and provide APIs like embedding youtube?
+
+
+How to create a view of the discussion with only paid subscribers?
+
+
+
+== transition from web2 to web3
+traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first
+No other solution has a seamless way to address content on http and bridge with traditional dns
+
+
+
+
+copyright infringement is beneficial for youtube
+https://www.youtube.com/watch?v=4IaOeVgZ-wc
 
 
 -->
