@@ -25,8 +25,6 @@ TODO: articles can include the data for whatever they reference & even provide t
 This way data is self-certifying 
 not just self-certifying data addressable by hash, but also by a pretty URL!
 
-Headjack - free the world's information by making it portable & addressable
-
 interlinking data and allowing different views to be used can reduce the effect of echo chambers
 
 Good addressing intertwined with identity is a strong network effect.
@@ -39,9 +37,6 @@ Good addressing intertwined with identity is a strong network effect.
 - archivability
     - data vs entire webpage content
     - push vs pull
-
-todo: talk about URNs used as URLs - if the associated first name has an associated HTTP host
-    - but when - at the time of the nonce or the current name? or both?
 
 
 - indexing
@@ -70,20 +65,14 @@ todo: talk about URNs used as URLs - if the associated first name has an associa
 
 
 
-DNS was the original “decentralization” (although not in the crypto sense)
-
-
 - DNS
-    DNS was the original “decentralization”.
+    DNS was the original “decentralization” (although not in the crypto sense)
     RSS was an attempt for the next iteration
     How do you store your friend list?
     But rss is too technical
     Dns got overloaded too many times
 
 
-
-
-- deduplication
 
 
 
@@ -102,7 +91,7 @@ facilitate the creation of [hyperdata](https://en.wikipedia.org/wiki/Hyperdata)
 
 Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
 
-An integral part to this vision are the [message types](messages.md).
+<!-- An integral part to this vision are the [message types](messages.md). -->
 
 
 
