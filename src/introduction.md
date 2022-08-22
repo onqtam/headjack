@@ -47,12 +47,9 @@ Headjack is about better trust - not trustlessness
     4. [Persistent & provable URIs](uris.md)
     5. [Names & paths](names_and_paths.md)
 7. [Web-scale & UX](web_scale.md)
-8. [Numbers](numbers.md)
-9. [Competition](competition.md)
-    1. [What others get wrong](others_cons.md)
-    2. [What Headjack gets right](headjack_pros.md)
-    3. [Competing projects (list)](others_list.md)
-    4. [Shortcomings of Headjack](headjack_cons.md)
+8. [Throughput numbers (scaling)](numbers.md)
+9. [Headjack vs the competition](competition.md)
+    1. [List of other projects](others_list.md)
 
 <!-- But the vision would be incomplete without the subsequent [**why**](philosophy.md) and more detailed [**how**](execution.md). -->
 

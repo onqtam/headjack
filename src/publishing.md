@@ -4,8 +4,6 @@
 
 # The future of publishing
 
-TODO: maybe not publishing but 
-
 focus on de-duplication & being able to explore any edge between concepts & URIs and the public discourse around URIs
 
 TODO: exportable graph stories & interactive storytelling
@@ -32,3 +30,7 @@ Linked data is essential for discoverability & ingestion of information - this g
 
 PDFs are a horrendous format
 PDFs ^ word filtes should contain everything and have authentic links
+
+
+
+TODO: articles can include the data for whatever they reference & even provide the merkle proofs for those - self-contained, complete & permanent publications
