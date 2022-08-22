@@ -6,6 +6,7 @@
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
+    Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
 
 - What if the interface web2 website is no longer around?
 
@@ -81,6 +82,19 @@ You can build something centralized on something decentralized but you can’t b
 Decentralization is always the base layer.
 https://twitter.com/RyanSAdams/status/1553776203621965826
 
+
+
+
+- DNS
+    DNS was the original “decentralization” (although not in the crypto sense)
+    RSS was an attempt for the next iteration
+    How do you store your friend list?
+    But rss is too technical
+    Dns got overloaded too many times
+
+
+block explorers are the future of browsing
+https://twitter.com/balajis/status/1406400770581303297
 
 
 

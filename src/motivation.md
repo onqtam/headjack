@@ -5,7 +5,6 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Problems with the current web](problems_with_the_web.md)
 1. [Authenticity](authenticity.md)
 1. [The future of publishing](publishing.md)
-1. [Benefits of this approach](benefits.md)
 1. [Infrastructure improvements](infrastructure.md)
 1. [Business models](business_models.md)
 1. [Unlocked possibilities](possibilities.md)
@@ -17,8 +16,21 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 
 <!--
 
-the semantic web
-knowledge graph
+- the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (the OG "Web3")
+
+    reinventing the semantic web
+    https://en.wikipedia.org/wiki/RDFa
+
+    linking data is easier under a common global namespace
+    https://en.wikipedia.org/wiki/Linked_data
+
+    facilitate the creation of [hyperdata](https://en.wikipedia.org/wiki/Hyperdata)
+    - knowledge graph
+
+- notifications
+
+
+
 
 Markets, markets everywhere!
 algorithmic transparency & choice
@@ -26,10 +38,13 @@ https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
 
 
 
+- the global [Git](https://en.wikipedia.org/wiki/Git).
 - git & source code
     https://twitter.com/GeorgeSorosh/status/1556901176225980421
 
     https://webcache.googleusercontent.com/search?q=cache:4vqWF4-gcccJ:https://github.com/tornadocash/tornado-cli&cd=12&hl=en&ct=clnk&gl=us
+
+
 
 
 - the ledger of record - science

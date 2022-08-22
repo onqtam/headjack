@@ -1,7 +1,5 @@
 # Mission & ambition
 
-# Philosophy
-
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
 ) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. Evolution is 99.9% memetic & accelerating exponentially - media is fundamental.
 
@@ -17,7 +15,7 @@ If the internet is the information super highway, blockchains are the cooperatio
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
-Headjack's mission is to end network effect monopolies & data silos by making identity & data sovereign & interoperable. The status quo is just a local maximum. Goals:
+Headjack's mission is to end network effect monopolies & data silos by making identity sovereign and data interoperable. The status quo is just a local maximum. Goals:
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a choice - identity should belong to no one
 - add [authenticity](authenticity.md) to information and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) for greater accountability

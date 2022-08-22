@@ -12,6 +12,10 @@ We can see which indexes other people prefer in terms of interfaces. The network
 
 
 
+computed & verifiable views?
+https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
+link to authenticity page
+
 
 
 promotion of videos will no longer be dominated just by the recommendation algorithm - when an influencer comments on a video his followers will see it and watch the said video too
