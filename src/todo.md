@@ -203,7 +203,7 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
-- meme: oprah - you get an identity, you get an identity, everyone gets an identity!
+
 
 
 https://proto.school/anatomy-of-a-cid/02/
@@ -217,4 +217,15 @@ https://twitter.com/RyanSAdams/status/1553776203621965826
 
 
 It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.
+
+
+
+
+
+how big are bloom filters
+https://en.wikipedia.org/wiki/Bloom_filter
+https://www.geeksforgeeks.org/bloom-filters-introduction-and-python-implementation/
+https://github.com/RoaringBitmap/CRoaring
+https://github.com/RoaringBitmap/RoaringBitmap#faq
+https://en.wikipedia.org/wiki/Bitmap_index
 

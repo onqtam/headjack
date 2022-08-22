@@ -38,4 +38,19 @@ Connections can be multidimensional with explicit filtering & exclusion of conte
 In Headjack all connections in the [interest graph](https://en.wikipedia.org/wiki/Interest_graph) are asymmetric and also visible & on-chain as it is geared towards [public discourse](https://www.quora.com/Will-the-future-of-social-graph-relationships-be-asymmetric-following-e-g-Quora-Twitter-or-symmetric-friending-e-g-Facebook/answer/David-O-Sacks) but private ones for a social graph can also be achieved through encryption - handled & stored by [IDMs](IDM.md) with greater trust assumptions. However, being public by default (as is the case with Twitter) and focusing on that aspect first greatly improves discoverability and the chances to bootstrap the network effect - propagation & reach are sought after. Identities will have their own customized landing pages off-chain through an IDM.
 
 
+
+- `follows` (`array[integer]`) - list of accounts that it follows
+    - `followers` (`array[integer]`) - a list of accounts that follow it (redundant - can be reconstructed by scanning all accounts - for faster queries of the other sort)
+
+- Twitter: 400M users (220 MAU), average connections: 700
+- 1.1 TB for arrays of arrays with 4 byte integers (the graph)
+    - 2.2 TB (x2) if storing connections both ways for faster lookups (who do I follow & who follows me)
+    - 4.4 TB (x2) if using long long int (8 bytes) - infinite indexes
+- Metadata (pubkey, handle, description) per index would be O(1)
+    - Less than the bytes required for 700 connections on average
+- Realistic state size: ~20TB - database overhead & merkle roots
+- The entire Twitter graph can be populated in a month with 1 MB/s of blockchain bandwidth
+
+
+
 -->

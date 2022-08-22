@@ -2,6 +2,9 @@
 
 Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.
 
+<!-- measuring performance, throughput & latency is hard but here we will provide a simplistic view
+https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
+
 <!-- We believe a credible path to billions and worldwide adoption is necessary as part of the story -->
 
 # How big is a Headjack transaction
@@ -77,6 +80,8 @@ Headjack's main value proposition is keeping historical records of the sequence 
 
 TODO: finish this
 
+https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture
+
 numbers - state - one difference from other cryptos is that this one is append-only and could be designed to be easier on memory access patterns
 
 One difference with other blockchains is that accounts in Headjack are numbers and thus the state tree could be different.
@@ -124,6 +129,9 @@ The state growth will be slower than the blockchain growth because:
 - an on-chain authorization is a pair of integers while only 1 integer goes into the state
 
 
+goal: no congestion
+
+
 a tiny core on which we have consensus can be used to cryptographically anchor & link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.
 
 - state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes -->
@@ -138,3 +146,7 @@ There are no limits for off-chain content as it is all just anchored with merkle
 This design for a specialized blockchain can scale practically as much as necessary due to the compactness of service messages and the triviality of sharding the blockchain as there would be close to 0 cross-shard communication (`"X follows Y"` only affects `X`) and that is [provable with easy to grasp napkin math](numbers.md).
 
 data availability guarantees don't need to be as strong as for finance - it won't be fatal to revert a few blocks of activity if data is unavailable -->
+
+<!--
+If handles are permanent to shards then their allocation to shards can be managed in the beacon chain and it can be consulted when following urls to content - so that the shard idx doesn't have to be in the urls
+-->

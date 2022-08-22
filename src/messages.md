@@ -81,4 +81,7 @@ https://schema.org/
 new types of messages get an on-chain ID so subscriptions are integer-based
 
 
+
+the <interface_id>/<interface_nonce> is embedded in a message that's being signed through an interface/IDM such that it cannot suffer from a replay attack
+
 -->

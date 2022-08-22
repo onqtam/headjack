@@ -78,24 +78,15 @@ Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for e
 
 Todo: takerate - what it is for other platforms and how it fits in headjack beyond youtube
 
-Business models page in ecosystem?
-
-
 
 
 # Content & interface architectures
 
 - store content off-chain ==> infinite horizontal scalability
 
-infinite amounts of content can be anchored & adressable
-
-think of it as a spine/backbone to which everything attaches to
-
 
 the persistent URL of content is an advertisement of the interface by itself
 similar to twitter's client attribution
-
-
 
 social networks will become interfaces/views - different compositions of available services that someone pays to have them developed
 
@@ -106,8 +97,9 @@ different AWS-like services will index, process & filter data differently based 
 
 Social media will be broken by verticals and companies will compete to offer services
 
+traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first
 
-Disadvantage: different criteria for counting engagement would result in different views => confusing?
+
 
 
 
@@ -149,9 +141,6 @@ https://en.wikipedia.org/wiki/Gravatar
 
 
 
-traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first
-
-
 
 An alternative privacy-friendly YouTube frontend which is efficient by design.
 https://github.com/TeamPiped/Piped
@@ -164,14 +153,9 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
     We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products.
 
 
-Search is a very hard problem:
-https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
-
 on Brave search
 https://news.ycombinator.com/item?id=27593360
 https://news.ycombinator.com/item?id=26328758
 
 
-
-Have a dedicated page about the pipeline of publishing and ingesting an event
 

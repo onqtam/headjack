@@ -2,14 +2,14 @@
 
 The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
 
-1. [Problems with the current web](problems.md)
+1. [Problems with the current web](problems_with_the_web.md)
 1. [Authenticity](authenticity.md)
 1. [The future of publishing](publishing.md)
 1. [Benefits of this approach](benefits.md)
 1. [Infrastructure improvements](infrastructure.md)
 1. [Business models](business_models.md)
 1. [Unlocked possibilities](possibilities.md)
-1. [Indexes & algorithms](indexes_and_algorithms.md)
+1. [Feeds & algorithms](indexes_and_algorithms.md)
 1. [The metaverse](metaverse.md)
 1. [Startup case study](startup_case_study.md)
 1. [Philosophy](philosophy.md)

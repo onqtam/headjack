@@ -67,3 +67,18 @@ TODO: does the state actually need to contain the historical mapping? not necess
 
 TODO: need examples & specifics for how big URI proofs would be
 
+
+<!-- 
+An account has the following properties:
+- `ID` (`integer`) - unique on the blockchain, autoincrement, starting from 1
+- `sig` - cryptographic address & signature
+    - can be null ONLY if an `acm_id` is present
+- `acm_id` (`integer`) - ACM ID - which [ACM](acm.md) can grant access to [interfaces](interfaces.md)
+    - can be null ONLY if a `sig` is present
+
+Other less important fields:
+
+- `block_created` (`integer`) - in which block was the account first created
+
+ -->
+
