@@ -1,3 +1,5 @@
+# Mission & ambition
+
 # Philosophy
 
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
@@ -26,7 +28,7 @@ Headjack's mission is to end network effect monopolies & data silos by making id
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - empower super users to separate signal from noise through open data & better tooling
-- make infrastructure [more resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) through content-addressing & p2p decentralization
+- make infrastructure [more resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) through [redundancy](infrastructure.md#redundancy) and p2p content-addressing
 
 <!-- Mission: minimize friction, complexity, and uncertainty -->
 
@@ -145,5 +147,17 @@ There's no global megaphone that would keep all information globally accessible 
 We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism & innovation in social media facilitating public discourse, but on a global level.
 
 
-We havent really had a market for ideas
+We haven't really had a market for ideas
+
+
+Our inability to trust and coordinate leads to inefficiencies and duplication
+
+A global web of trust and authenticity could help with multipolar traps
+
+We need to rebuild & scale up trust through authenticity
+
+The ability to do specific verifiable attribution to where a harm is coming from can increase our capacity to serve justice
+Forced transparency !!!
+
+We can do a lot better with systems of collective intelligence
 

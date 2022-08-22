@@ -9,10 +9,10 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Infrastructure improvements](infrastructure.md)
 1. [Business models](business_models.md)
 1. [Unlocked possibilities](possibilities.md)
-1. [Feeds & algorithms](indexes_and_algorithms.md)
+1. [Feeds, indexes & algorithms](indexes_indexes_algorithms.md)
 1. [The metaverse](metaverse.md)
 1. [Startup case study](startup_case_study.md)
-1. [Philosophy](philosophy.md)
+1. [Mission & ambition](mission_ambition.md)
 1. [The ambition](ambition.md)
 
 <!--

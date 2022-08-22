@@ -4,6 +4,12 @@ Headjack is a blockchain that links sovereign identities to content at [web-scal
 
 - Creation is fundamentally different from transfers and exchange of value - the design space around trust & data availability for media and identity is different from finance.
 
+<!-- 
+It is not about less or more trust but about better trust.
+
+Headjack is about better trust - not trustlessness
+ -->
+
 - Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy) can be layered on top of it. <!-- through data associations -->
 
 - It solves single sign-on and allows for user experience similar to Web2 through [hierarchical authorization management](identity.md) - keypairs are not required by default and even those with keys bound to their accounts may choose to not explicitly sign every interaction.

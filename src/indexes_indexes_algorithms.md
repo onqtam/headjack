@@ -2,7 +2,7 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-# Indexes & algorithms
+# Feeds, indexes & algorithms
 
 
 We can build the classifiers in public - the ml models.
@@ -45,3 +45,6 @@ https://twitter.com/balajis/status/1561032192947458048
 one problem with twitter is the immediacy - the feed promotes recent engagement ONLY. and there's no good way to dig through history
 
 We need control over feeds
+
+Instead of a feed the home page could be a dashboard that shows areas of interest of your social graph and being able to selectively dive deeper in whatever you decide - feeds are primitive and extremely limiting
+

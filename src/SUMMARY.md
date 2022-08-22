@@ -28,10 +28,10 @@
     - [Infrastructure improvements](infrastructure.md)
     - [Business models](business_models.md)
     - [Unlocked possibilities](possibilities.md)
-    - [Feeds & algorithms](feeds_algorithms.md)
+    - [Feeds, indexes & algorithms](indexes_indexes_algorithms.md)
     - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
-    - [Philosophy](philosophy.md)
+    - [Mission & ambition](mission_ambition.md)
     - [The ambition](ambition.md)
 
 # ⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇
