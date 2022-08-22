@@ -757,15 +757,18 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 
 - state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes -->
 <p>TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which interfaces a user has authorized to post on their behalf in a given block</p>
-<p>Reducing merkle proof sizes with Verkle Tries
-&quot;It’s a constant size proof regardless of the width.&quot;
+<!-- 
+
+Reducing merkle proof sizes with Verkle Tries
+"It’s a constant size proof regardless of the width."
 https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
 Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital
 https://www.youtube.com/watch?v=xuLyZaty9iI
 vector commitments (Merkle proofs)
 https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
 https://www.youtube.com/watch?v=RGJOQHzg3UQ
-https://vitalik.ca/general/2021/06/18/verkle.html</p>
+https://vitalik.ca/general/2021/06/18/verkle.html
+ -->
 <h1 id="off-chain-content"><a class="header" href="#off-chain-content">Off-chain content</a></h1>
 <p>There are no limits for off-chain content as it is all just anchored with merkle roots - it could be as high as hundreds of terabytes per second. There isn't a more minimal design that can link unbounded amounts of off-chain data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack - it achieves consensus on the absolute bare minimum.</p>
 <!-- validium
@@ -1155,7 +1158,7 @@ https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
     https://webcache.googleusercontent.com/search?q=cache:4vqWF4-gcccJ:https://github.com/tornadocash/tornado-cli&cd=12&hl=en&ct=clnk&gl=us
 
 
-- the ledger of record
+- the ledger of record - science
     peer review & citations can be encoded with tags/messages
 
     How does crypto realign science with reproducibility?
@@ -1429,7 +1432,6 @@ Interface names that were used to publish content can serve as advertising (inte
 <p>TODO: articles can include the data for whatever they reference &amp; even provide the merkle proofs for those - self-contained, complete &amp; permanent publications</p>
 <p>This way data is self-certifying 
 not just self-certifying data addressable by hash, but also by a pretty URL!</p>
-<p>Headjack - free the world's information by making it portable &amp; addressable</p>
 <p>interlinking data and allowing different views to be used can reduce the effect of echo chambers</p>
 <p>Good addressing intertwined with identity is a strong network effect.</p>
 <ul>
@@ -1443,33 +1445,26 @@ not just self-certifying data addressable by hash, but also by a pretty URL!</p>
 <li>push vs pull</li>
 </ul>
 </li>
-</ul>
-<p>todo: talk about URNs used as URLs - if the associated first name has an associated HTTP host
-- but when - at the time of the nonce or the current name? or both?</p>
-<ul>
-<li>indexing
+<li>
+<p>indexing
 The block explorers for Headjack would be the next Google.
 block explorers are the future of browsing
-https://twitter.com/balajis/status/1406400770581303297</li>
-<li>addressing
+https://twitter.com/balajis/status/1406400770581303297</p>
+</li>
+<li>
+<p>addressing</p>
 <ul>
 <li>persistent URLs
 STABILITY !!!</li>
 </ul>
 </li>
-</ul>
-<p>DNS was the original “decentralization” (although not in the crypto sense)</p>
-<ul>
 <li>
 <p>DNS
-DNS was the original “decentralization”.
+DNS was the original “decentralization” (although not in the crypto sense)
 RSS was an attempt for the next iteration
 How do you store your friend list?
 But rss is too technical
 Dns got overloaded too many times</p>
-</li>
-<li>
-<p>deduplication</p>
 </li>
 </ul>
 <p>the <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (the OG &quot;Web3&quot;)</p>
@@ -1479,7 +1474,7 @@ https://en.wikipedia.org/wiki/RDFa</p>
 https://en.wikipedia.org/wiki/Linked_data</p>
 <p>facilitate the creation of <a href="https://en.wikipedia.org/wiki/Hyperdata">hyperdata</a></p>
 <p>Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts &amp; abstract entities in order to facilitate </p>
-<p>An integral part to this vision are the <a href="messages.html">message types</a>.</p>
+<!-- An integral part to this vision are the [message types](messages.md). -->
 <p>Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a>, these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins.
 https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol</p>
 <p>Networking can gradually evolve as it is orthogonal to the actual identities and anchoring of content.</p>

@@ -138,7 +138,7 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 
 TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which interfaces a user has authorized to post on their behalf in a given block
 
-
+<!-- 
 
 Reducing merkle proof sizes with Verkle Tries
 "It’s a constant size proof regardless of the width."
@@ -149,7 +149,7 @@ vector commitments (Merkle proofs)
 https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
 https://www.youtube.com/watch?v=RGJOQHzg3UQ
 https://vitalik.ca/general/2021/06/18/verkle.html
-
+ -->
 
 
 # Off-chain content

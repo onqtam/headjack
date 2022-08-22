@@ -32,7 +32,7 @@ https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
     https://webcache.googleusercontent.com/search?q=cache:4vqWF4-gcccJ:https://github.com/tornadocash/tornado-cli&cd=12&hl=en&ct=clnk&gl=us
 
 
-- the ledger of record
+- the ledger of record - science
     peer review & citations can be encoded with tags/messages
 
     How does crypto realign science with reproducibility?
