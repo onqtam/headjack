@@ -16,6 +16,8 @@ Tying data to identity and making it freely available & outside of silos through
 
 The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
 
+<!-- Data hoarding and interoperability leads to tool & widget incompatibility. -->
+
 # Event streams, subscriptions & notifications
 
 Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools.
@@ -36,61 +38,26 @@ Twitter decided that it needs to boost engagement and forced "recent tweet" noti
 
 When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to interfaces that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multi-dimensional - like `"show me everything from X unless from interface I or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
 
-# Data-centric interoperability & composability
+# Bookmarks & playlists
 
-- We'll be able to plot a timeline for all references to an event and filter based on activity & type of references
+Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any interface. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case it is no longer hosted by anyone in the future.
 
-persistent URIs help with returning back to a resource and checking all the discussion around it, also checking which of those that you follow have mentioned it
+Your personal knowledge base could be built with something like [Logseq](https://logseq.com/) with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.
 
-- The lack of data interoperability leads to tool & widget incompatibility
+Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an interface that uses your IDM for account storage and is paying to other media hosting providers for the streaming.
 
+# Intra-document addressing
 
-# Sub-addressing TODO: change this name
+In Medium you can tweet a selection (sentence/word/paragraph) but when going back to the article from the tweet you don't get shown the original selection. With some archival services you can point to a text selection - for example [this link has `"Prussian Model"`](https://archive.ph/O2D45#selection-635.4-635.18) selected from the title when you open the page and you can change the selection which also changes the URL, but that's possible only because there's a specific hash in the URL and the document is guaranteed not to change in the archive - however that's not the case with Medium where the authenticity of documents is host-certified and they can change in time.
 
-OMG
-quoting sub-sections of pages through the internet archive
-https://archive.ph/O2D45#selection-635.4-635.18
+With Headjack URIs point to a specific version of a document and as explained in the [addressing chapter](names_and_paths.html#addressing-within-content) we could point to parts of documents in the URIs. If a document has been changed, updates will have their own new URIs and when an interface is showing an old URI with intra-document addressing it could:
+- either show a label that there's a newer version of the document and the user can switch
+- or directly show the new version if it's possible to transfer the selection without conflicts
 
-HOW TO LINK TO THIS CLIP IN A BETTER WAY?!?!?!
-`"The internet creates 1 giant aggregator for everything"` - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
-https://youtu.be/3qHkcs3kG44?t=3527
-https://youtube.com/clip/UgkxphJhihcVY-U-PLFEvDl1m7Rb-iq4CGgo
+Headjack's intra-document addressing is universal - it works for audio & video too and the interface from the [startup case study](startup_case_study.md) could display this clip with this quote in a much better way:
+> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtube.com/clip/UgkxphJhihcVY-U-PLFEvDl1m7Rb-iq4CGgo)
 
-clips... out of context - needs to be fixed!
-
-composing videos from clips with narration without losing the original context - movie maker of sorts
-
-imagine a paragraph of a substack article to be retweetable and to be able to go viral while retaining the context of the whole - this is what composability could enable.
-
-TODO: think about memes & the original content + layers
-
-# Usability improvements & organization
-
-
-
-
-# bookmarks & playlists
-
-- universal & permanent bookmarks.
-bookmarks & something like logseq on top of this global namespace
-
-playlists are lists of bookmarks
-
-we could have one identity, one set of bookmarks that we manage with something like logseq and we can export stories of deduplicated data points and see the conversations around them.
-
-
-
-
-
-muted keywords & preferences
-https://twitter.com/AltcoinPsycho/status/1547203030185017344
-
-
-
-
-quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2
-
-
+This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.
 
 # Separating data from the presentation layer
 
@@ -225,9 +192,11 @@ special message tag type: referencing something as a fact - but that thing needs
 
 # Queries
 
+- We'll be able to plot a timeline for all references to an event and filter based on activity & type of references
+
 - imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
 
-
+quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2
 
 # communities and moderation
 
