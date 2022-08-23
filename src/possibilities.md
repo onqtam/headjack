@@ -3,23 +3,16 @@
 </div>
 
 
-# A list of what could be possible
+<!-- # The content-centric web -->
 
+<!-- # What the data-centric web unlocks -->
+<!-- # Possibilities in the data-centric web -->
 
-# Possible queries
+# Possibilities with open data
 
-- imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
+Tying data to identity and making it freely available & outside of silos through content-centric addressing enables tons of composability, functionality & innovation.
 
-
-
-
-
-
-it doesn't make sense to not be possible to comment on anything in the web and not have your followers see it. simply doesn't
-
-"diff" view that summarizes the changes to a URI over time (the updates/edits)
-TODO: look at this:
-We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches
+The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation/indexing/visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL form the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
 
 
 
@@ -28,46 +21,11 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# No more data silos
-
-Generating content should be frictionless. Associating content with identity should be straightforward. Frictionless migration between views
-
-all content should be referencable, sub-quotable, commentable & share-able
-
-We should be able to refer to content uniquely and see the discussion around it
-
-The conversation around a piece of media shouldn't be segregated between Twitter, YouTube & Reddit - it should be 1 viewed through different lenses.
-
-The Twitter view of a discussion is basically the same as just the top level comments for a thread (without showing the children) in Reddit.
-
-segregated and disjoint discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to and discussion can revolve around them
+# communities and moderation
 
 - competing "subreddits" on the same topic with different moderators & content policies
 
 - tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).
-
-you should be able to quote-comment any piece of science or media and have a threaded conversation with everyone. All publishing platforms will be plugged into this ecosystem.
 
 # Data-centric interoperability & composability
 
@@ -102,11 +60,13 @@ TODO: think about memes & the original content + layers
 each interface will specialize into providing the best possible service for the particular need/aspect of data consumption
 
 
-Our minds filter out inconsequential sensations by default but we may tune them in if we so choose to - we should have the same (or greater) level of control in the digital realm. The stream of events for the things we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the event bus and develop new tools.
 
 
 
-notifications
+# data feeds & notifications
+
+multi dimensionality
+
     we should be able to set when we should expect certain types of notifications as time ranges
 
     "Notifications are just alarm clocks that someone else is setting for you." - @naval
@@ -116,38 +76,53 @@ notifications
 
     Anyone will be able to implement audio notes with speech to text and others will be able to get notifications if something is mentioned
 
+    Messages should have an importance vector - urgency - 100% show it to anyone following me
 
 
 a slider for filtering/jumping through time like in discourse
 https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
 
-you can't link to a youtube comment - think about how limiting and yet obvious that is - comments there are just an afterthought
+
+- notifications for data references being referenced
+    data could be any data/resource/ID
+    with filtering
+    imagine being able to follow the activity of X person on any possible online venue - the all-encompassing public record
+
+- being able to subscribe to changes of pages in websites that don't have an ID (not through follow (because they don't have an ID) but by other means)
+
+- you'll have the option to subscribe (not on-chain but through an interface) to quotes & references of content that interest you - seeing what the reception is and how that unfolds
+
+"subscribe to any data feed"
+
+anything can be a data feed to which you can subscribe to
+
+Our minds filter out inconsequential sensations by default but we may tune them in if we so choose to - we should have the same (or greater) level of control in the digital realm. The stream of events for the things we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the event bus and develop new tools.
 
 
-the world dashboard
-https://twitter.com/balajis/status/1442863553497554944
-
-
+# bookmarks & playlists
 
 - universal & permanent bookmarks.
 bookmarks & something like logseq on top of this global namespace
 
 playlists are lists of bookmarks
 
+we could have one identity, one set of bookmarks that we manage with something like logseq and we can export stories of deduplicated data points and see the conversations around them.
+
+
+
+
+
 muted keywords & preferences
 https://twitter.com/AltcoinPsycho/status/1547203030185017344
 
 
-we could have one identity, one set of bookmarks that we manage with something like logseq and we can export stories of deduplicated data points and see the conversations around them.
 
-every journalist should be able to use something like logseq and construct their stories with referencable facts - timestamped & crypto provable
-
-Write about the story for a journalist using a tool like that and constructing interlinked stories... that needs a page on its own
 
 quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2
 
-lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level
 
+
+# data vs presentation layer
 
 - Data can be decoupled from the presentation layer
     - 
@@ -163,51 +138,100 @@ Unstoppable software/media
 
 
 
-- notifications for data references being referenced
-    data could be any data/resource/ID
-    with filtering
-    imagine being able to follow the activity of X person on any possible online venue - the all-encompassing public record
-- editors & all forms of media will be able to refer to specific posts uniquely
-    - something like #seq!<interface_id/interface_nonce/user_id/content_stuff> which could prompt an index lookup in your editor
-        - along with competing indexers
-    References are useful beyond peer review - it would be useful for the entire web.
-- imagine wikipedia being rebuilt on top of this
-    - dead links? thing of the past - can be cached locally & preserved with merkle proofs
-    - imagine wikipedia being forked with a different set of moderators - like in git
-    - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
-- being able to subscribe to changes of pages in websites that don't have an ID (not through follow (because they don't have an ID) but by other means)
+# visualizations
+
 - Imagine the possible visualizations on the graph data of the hivemind
     - imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints & the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them
     - imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why
     - imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data
-- you'll have the option to subscribe (not on-chain but through an interface) to quotes & references of content that interest you - seeing what the reception is and how that unfolds
+
+# the semantic web
 
 
+- the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (the OG "Web3")
 
+    reinventing the semantic web
+    https://en.wikipedia.org/wiki/RDFa
 
-"subscribe to any data feed"
+    linking data is easier under a common global namespace
+    https://en.wikipedia.org/wiki/Linked_data
 
-anything can be a data feed to which you can subscribe to
+    facilitate the creation of [hyperdata](https://en.wikipedia.org/wiki/Hyperdata)
+    - knowledge graph
 
+References are useful beyond peer review - it would be useful for the entire web.
 
-
-Picture the global git & reddified wikipedia - twitter is just scratching the surface. Full accountability
-Wikipedia analog as an example
+# wikipedia
 
 Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
 
+wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
+
+fork wikipedia?
+
+
+- imagine wikipedia being rebuilt on top of this
+    - dead links? thing of the past - can be cached locally & preserved with merkle proofs
+    - imagine wikipedia being forked with a different set of moderators - like in git
+    - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
+
+# source code & the global git
+
+github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.
+
+- the global [Git](https://en.wikipedia.org/wiki/Git).
+- git & source code
+    https://twitter.com/GeorgeSorosh/status/1556901176225980421
+
+    https://webcache.googleusercontent.com/search?q=cache:4vqWF4-gcccJ:https://github.com/tornadocash/tornado-cli&cd=12&hl=en&ct=clnk&gl=us
 
 
 
-Different systems with their own cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global addressing namespace
-
-
-There will be a marketplace for every vertical - we need to democratize specialization & competition
-
-
+"diff" view that summarizes the changes to a URI over time (the updates/edits)
+TODO: look at this:
+We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches
 
 
 
+
+
+# science and peer review
+
+- peer review can (and should) be reimplemented on top of infrastructure like this
+
+
+
+
+
+- the ledger of record - science
+    peer review & citations can be encoded with tags/messages
+
+    How does crypto realign science with reproducibility?
+    https://twitter.com/manveerbasra_/status/1555405612506157056
+
+    Composable science is reproducible science.
+    https://twitter.com/balajis/status/1555458319070167040
+
+    the digital part of scientific papers can be replicatable locally
+
+    digital chain of custody for papers & science
+
+    science should be like open source - replicated & verified many times like code is compiled & ran
+
+    Laws should be referable and commentable. They should be written in public & made available in the same way as open source code is
+
+    https://twitter.com/balajis/status/1557247912874086400
+    https://twitter.com/bensprecher/status/1557351733382225920
+
+    on-chain papers
+    https://twitter.com/balajis/status/1556579944754384897
+
+
+
+
+
+
+# data sets / collections from an entity
 
 concept namespaces - being able to address by index things in a database from account
 imdb haedjack idx: 566
@@ -217,16 +241,15 @@ the matrix:
     contrast `<account_index>/<some_string_like_schema>` to `<account_index>/<integer_nonce>`
 
 
-wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
-
-fork wikipedia?
-
-github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.
-
-- peer review can (and should) be reimplemented on top of infrastructure like this
-
 
 Imagine having a single id for a film and have comment sections for each chapter or minute
 
 
 special message tag type: referencing something as a fact - but that thing needs an UUID so ppl can look it up and see what's being commented about it over there
+
+
+
+# Queries
+
+- imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
+

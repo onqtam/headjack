@@ -18,14 +18,15 @@
         - [List of other projects](others_list.md)
         <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
-- [Why is Headjack necessary](motivation.md)
+<!-- - [Why is Headjack necessary](motivation.md) -->
+- [Why Headjack](motivation.md)
     - [Problems with the current web](problems_with_the_web.md)
     - [Authenticity](authenticity.md)
+    - [Possibilities with open data](possibilities.md)
     - [The future of publishing](publishing.md)
     - [Infrastructure improvements](infrastructure.md)
     - [Business models](business_models.md)
-    - [Unlocked possibilities](possibilities.md)
-    - [Feeds, indexes & algorithms](indexes_indexes_algorithms.md)
+    - [Feeds, indexes & algorithms](feeds_indexes_algorithms.md)
     - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
     - [Mission & ambition](mission_ambition.md)

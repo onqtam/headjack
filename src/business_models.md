@@ -104,4 +104,15 @@ Interface names that were used to publish content can serve as advertising (inte
 
 ==> discoverability of new interfaces!
 
+There will be a marketplace for every vertical - we need to democratize specialization & competition
+
+
+
+
+Markets, markets everywhere!
+algorithmic transparency & choice
+https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
+
+
+
 -->

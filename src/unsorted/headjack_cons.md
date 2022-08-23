@@ -14,4 +14,11 @@
 
 - Data pointed to by a URI is not by itself [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) - it needs accompanying cryptographic Merkle proofs that only full blockchain nodes can generate. However, no solution provides fully self-authenticating content as keypairs might have changed - there will always be a need to consult with a [logically centralized](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) entity. Also archiving & bookmarking services (or fully self-contained articles/books with no external dependencies) that don't want to rely on repetitive requests to the blockchain in the future may request these proofs initially and store them along with the data.
 
+
+
+
 - auth is not instant - but can be worked around
+
+- negative: proofs might be big - imagine how much would the proofs be for 1000 likes
+
+
