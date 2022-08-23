@@ -9,6 +9,9 @@ We can build the classifiers in public - the ml models.
 We can see which indexes other people prefer in terms of interfaces. The network state is 100% digital and is publicly expressed through client attribution - choice
 
 
+the world dashboard
+https://twitter.com/balajis/status/1442863553497554944
+
 
 
 

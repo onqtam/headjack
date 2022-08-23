@@ -90,13 +90,15 @@ Contrast that to a world with interoperable & exportable identity/data:
 
 > “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
 
-# The cold start problem for media startups
+# The cold start problem for startups
 
-The barrier to entry for most types of media platforms is very high:
+The barrier to entry for most types of platforms is very high:
 - kickstarting a network effect & attracting a critical mass is very difficult
 - need to reinvent the wheel & [vertically integrate](#vertical-integration-vs-specialization--competition) many aspects instead of composing a service from already existing solutions
 
-And thus few companies are started and ever fewer are successful - leading to little innovation, slow progress & sub-par services.
+And thus few companies are started and even fewer are successful - leading to little innovation, slow progress & sub-par services.
+
+<!-- TODO: data network effects -->
 
 Check out the [startup case study](startup_case_study.md) expanding on why it would be easier with Headjack.
 
