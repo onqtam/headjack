@@ -67,4 +67,9 @@ In Headjack all connections in the [interest graph](https://en.wikipedia.org/wik
     https://developer.litprotocol.com/docs/WhatIsLit/whatIsLitProtocol
 
 
+
+muted keywords & preferences
+https://twitter.com/AltcoinPsycho/status/1547203030185017344
+
+
 -->
