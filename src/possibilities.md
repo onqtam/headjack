@@ -6,10 +6,13 @@
 # A list of what could be possible
 
 
-imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
+# Possible queries
+
+- imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
 
 
-hope for spam & moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email
+
+
 
 
 it doesn't make sense to not be possible to comment on anything in the web and not have your followers see it. simply doesn't
@@ -60,7 +63,7 @@ The Twitter view of a discussion is basically the same as just the top level com
 
 segregated and disjoint discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to and discussion can revolve around them
 
-- competing "subreddits"on the same topic with different moderators & content policies
+- competing "subreddits" on the same topic with different moderators & content policies
 
 - tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).
 

@@ -28,6 +28,7 @@ The web is broken on many fronts - this chapter explores many problematic aspect
     - knowledge graph
 
 - notifications
+    Messages should have an importance vector - urgency - 100% show it to anyone following me
 
 
 

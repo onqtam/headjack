@@ -127,3 +127,5 @@ https://a16zcrypto.com/social-network-status-traps-web2-learnings/
 
 18+ content?
 
+
+hope for spam & moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email
