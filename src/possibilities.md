@@ -12,7 +12,51 @@
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables tons of composability, functionality & innovation.
 
-The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation/indexing/visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL form the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
+# Unified events through different views
+
+The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL form the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
+
+# Event streams, subscriptions & notifications
+
+Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools.
+
+In an open data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage):
+- edits to a specific document identified by a URI
+- references/mentions of an account/entity/word/URI in public documents
+- any other type of filtration criteria - thresholds, exclude lists, etc.
+- complicated streams can be constructed by transforming/joining others - similar to Kafka
+
+If someone implements speech-to-text and starts transcribing audio episodes and publishing the output it would immediately become available to anyone and would automatically end up being parsed, indexed & pushed through data pipelines. Composability. This is not possible with closed platforms - even if someone was willing to pay the processing costs.
+
+---
+
+> "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
+
+When identity is decoupled from the presentation layer we could have identity management services that align with our needs - we could fine-tune how and when we would want ot be notified. The incentive for an IDM is not to suck all of our attention (as opposed to interfaces that usually serve ads) - there are other ways to monetize
+
+
+
+, and while there will be IDMs that also provide a front page with a feed
+
+We could 
+
+
+
+When identity and data are decoupled and different services are in charge of identity management and content presentation we would have 
+
+
+We can have more control over notifications
+    Omg page about notifications and attention and explicit preferences
+    we should be able to set when we should expect certain types of notifications as time ranges
+
+
+Subscriptions can be granular & multi-dimensional - like "I want all messages from X besides short videos or comments from platform P".
+
+
+
+- notifications for data references being referenced
+    with filtering
+    imagine being able to follow the activity of X person on any possible online venue - the all-encompassing public record
 
 
 
@@ -21,11 +65,13 @@ The public conversation shouldn't be fractured between platforms such as Twitter
 
 
 
-# communities and moderation
 
-- competing "subreddits" on the same topic with different moderators & content policies
 
-- tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).
+
+
+
+
+
 
 # Data-centric interoperability & composability
 
@@ -57,46 +103,7 @@ TODO: think about memes & the original content + layers
 
 # Usability improvements & organization
 
-each interface will specialize into providing the best possible service for the particular need/aspect of data consumption
 
-
-
-
-
-# data feeds & notifications
-
-multi dimensionality
-
-    we should be able to set when we should expect certain types of notifications as time ranges
-
-    "Notifications are just alarm clocks that someone else is setting for you." - @naval
-    https://twitter.com/NavalismHQ/status/1556179585347112961
-
-    Omg page about notifications and attention and explicit preferences
-
-    Anyone will be able to implement audio notes with speech to text and others will be able to get notifications if something is mentioned
-
-    Messages should have an importance vector - urgency - 100% show it to anyone following me
-
-
-a slider for filtering/jumping through time like in discourse
-https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
-
-
-- notifications for data references being referenced
-    data could be any data/resource/ID
-    with filtering
-    imagine being able to follow the activity of X person on any possible online venue - the all-encompassing public record
-
-- being able to subscribe to changes of pages in websites that don't have an ID (not through follow (because they don't have an ID) but by other means)
-
-- you'll have the option to subscribe (not on-chain but through an interface) to quotes & references of content that interest you - seeing what the reception is and how that unfolds
-
-"subscribe to any data feed"
-
-anything can be a data feed to which you can subscribe to
-
-Our minds filter out inconsequential sensations by default but we may tune them in if we so choose to - we should have the same (or greater) level of control in the digital realm. The stream of events for the things we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the event bus and develop new tools.
 
 
 # bookmarks & playlists
@@ -122,7 +129,7 @@ quote-retweet something - and then later when viewing the discussion around the 
 
 
 
-# data vs presentation layer
+# Separating data from the presentation layer
 
 - Data can be decoupled from the presentation layer
     - 
@@ -161,20 +168,6 @@ Unstoppable software/media
 
 References are useful beyond peer review - it would be useful for the entire web.
 
-# wikipedia
-
-Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
-
-wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
-
-fork wikipedia?
-
-
-- imagine wikipedia being rebuilt on top of this
-    - dead links? thing of the past - can be cached locally & preserved with merkle proofs
-    - imagine wikipedia being forked with a different set of moderators - like in git
-    - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
-
 # source code & the global git
 
 github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.
@@ -191,6 +184,24 @@ github needs to be reimplemented on top of this - open source code is a public g
 TODO: look at this:
 We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches
 
+
+a slider for filtering/jumping through time like in discourse
+https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
+
+
+# wikipedia
+
+Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
+
+wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
+
+fork wikipedia?
+
+
+- imagine wikipedia being rebuilt on top of this
+    - dead links? thing of the past - can be cached locally & preserved with merkle proofs
+    - imagine wikipedia being forked with a different set of moderators - like in git
+    - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
 
 
 
@@ -253,3 +264,10 @@ special message tag type: referencing something as a fact - but that thing needs
 
 - imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
 
+
+
+# communities and moderation
+
+- competing "subreddits" on the same topic with different moderators & content policies
+
+- tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).

@@ -152,15 +152,34 @@
 <!-- # Possibilities in the data-centric web -->
 <h1 id="possibilities-with-open-data"><a class="header" href="#possibilities-with-open-data">Possibilities with open data</a></h1>
 <p>Tying data to identity and making it freely available &amp; outside of silos through content-centric addressing enables tons of composability, functionality &amp; innovation.</p>
-<p>The public conversation shouldn't be fractured between platforms such as Twitter, YouTube &amp; Reddit - instead it should be one but viewed through different lenses (based on moderation/indexing/visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events &amp; information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL form the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable &amp; shareable.</p>
-<h1 id="communities-and-moderation"><a class="header" href="#communities-and-moderation">communities and moderation</a></h1>
+<h1 id="unified-events-through-different-views"><a class="header" href="#unified-events-through-different-views">Unified events through different views</a></h1>
+<p>The public conversation shouldn't be fractured between platforms such as Twitter, YouTube &amp; Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events &amp; information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL form the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable &amp; shareable.</p>
+<h1 id="event-streams-subscriptions--notifications"><a class="header" href="#event-streams-subscriptions--notifications">Event streams, subscriptions &amp; notifications</a></h1>
+<p>Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools.</p>
+<p>In an open data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage):</p>
 <ul>
-<li>
-<p>competing &quot;subreddits&quot; on the same topic with different moderators &amp; content policies</p>
-</li>
-<li>
-<p>tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).</p>
-</li>
+<li>edits to a specific document identified by a URI</li>
+<li>references/mentions of an account/entity/word/URI in public documents</li>
+<li>any other type of filtration criteria - thresholds, exclude lists, etc.</li>
+<li>complicated streams can be constructed by transforming/joining others - similar to Kafka</li>
+</ul>
+<p>If someone implements speech-to-text and starts transcribing audio episodes and publishing the output it would immediately become available to anyone and would automatically end up being parsed, indexed &amp; pushed through data pipelines. Composability. This is not possible with closed platforms - even if someone was willing to pay the processing costs.</p>
+<hr />
+<blockquote>
+<p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/NavalismHQ/status/1556179585347112961">@naval</a></p>
+</blockquote>
+<p>When identity is decoupled from the presentation layer we could have identity management services that align with our needs - we could fine-tune how and when we would want ot be notified. The incentive for an IDM is not to suck all of our attention (as opposed to interfaces that usually serve ads) - there are other ways to monetize</p>
+<p>, and while there will be IDMs that also provide a front page with a feed</p>
+<p>We could </p>
+<p>When identity and data are decoupled and different services are in charge of identity management and content presentation we would have </p>
+<p>We can have more control over notifications
+Omg page about notifications and attention and explicit preferences
+we should be able to set when we should expect certain types of notifications as time ranges</p>
+<p>Subscriptions can be granular &amp; multi-dimensional - like &quot;I want all messages from X besides short videos or comments from platform P&quot;.</p>
+<ul>
+<li>notifications for data references being referenced
+with filtering
+imagine being able to follow the activity of X person on any possible online venue - the all-encompassing public record</li>
 </ul>
 <h1 id="data-centric-interoperability--composability"><a class="header" href="#data-centric-interoperability--composability">Data-centric interoperability &amp; composability</a></h1>
 <ul>
@@ -183,39 +202,6 @@ https://youtube.com/clip/UgkxphJhihcVY-U-PLFEvDl1m7Rb-iq4CGgo</p>
 <p>imagine a paragraph of a substack article to be retweetable and to be able to go viral while retaining the context of the whole - this is what composability could enable.</p>
 <p>TODO: think about memes &amp; the original content + layers</p>
 <h1 id="usability-improvements--organization"><a class="header" href="#usability-improvements--organization">Usability improvements &amp; organization</a></h1>
-<p>each interface will specialize into providing the best possible service for the particular need/aspect of data consumption</p>
-<h1 id="data-feeds--notifications"><a class="header" href="#data-feeds--notifications">data feeds &amp; notifications</a></h1>
-<p>multi dimensionality</p>
-<pre><code>we should be able to set when we should expect certain types of notifications as time ranges
-
-&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - @naval
-https://twitter.com/NavalismHQ/status/1556179585347112961
-
-Omg page about notifications and attention and explicit preferences
-
-Anyone will be able to implement audio notes with speech to text and others will be able to get notifications if something is mentioned
-
-Messages should have an importance vector - urgency - 100% show it to anyone following me
-</code></pre>
-<p>a slider for filtering/jumping through time like in discourse
-https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231</p>
-<ul>
-<li>
-<p>notifications for data references being referenced
-data could be any data/resource/ID
-with filtering
-imagine being able to follow the activity of X person on any possible online venue - the all-encompassing public record</p>
-</li>
-<li>
-<p>being able to subscribe to changes of pages in websites that don't have an ID (not through follow (because they don't have an ID) but by other means)</p>
-</li>
-<li>
-<p>you'll have the option to subscribe (not on-chain but through an interface) to quotes &amp; references of content that interest you - seeing what the reception is and how that unfolds</p>
-</li>
-</ul>
-<p>&quot;subscribe to any data feed&quot;</p>
-<p>anything can be a data feed to which you can subscribe to</p>
-<p>Our minds filter out inconsequential sensations by default but we may tune them in if we so choose to - we should have the same (or greater) level of control in the digital realm. The stream of events for the things we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the event bus and develop new tools.</p>
 <h1 id="bookmarks--playlists"><a class="header" href="#bookmarks--playlists">bookmarks &amp; playlists</a></h1>
 <ul>
 <li>universal &amp; permanent bookmarks.
@@ -226,7 +212,7 @@ bookmarks &amp; something like logseq on top of this global namespace</li>
 <p>muted keywords &amp; preferences
 https://twitter.com/AltcoinPsycho/status/1547203030185017344</p>
 <p>quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2</p>
-<h1 id="data-vs-presentation-layer"><a class="header" href="#data-vs-presentation-layer">data vs presentation layer</a></h1>
+<h1 id="separating-data-from-the-presentation-layer"><a class="header" href="#separating-data-from-the-presentation-layer">Separating data from the presentation layer</a></h1>
 <ul>
 <li>
 <h2 id="data-can-be-decoupled-from-the-presentation-layer"><a class="header" href="#data-can-be-decoupled-from-the-presentation-layer">Data can be decoupled from the presentation layer</a></h2>
@@ -262,19 +248,6 @@ https://en.wikipedia.org/wiki/Linked_data</p>
 </li>
 </ul>
 <p>References are useful beyond peer review - it would be useful for the entire web.</p>
-<h1 id="wikipedia"><a class="header" href="#wikipedia">wikipedia</a></h1>
-<p>Wikipedia needs to be rebuilt on this - imagine a q&amp;a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary</p>
-<p>wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to &quot;edit&quot; &amp; publish a new version of an item</p>
-<p>fork wikipedia?</p>
-<ul>
-<li>imagine wikipedia being rebuilt on top of this
-<ul>
-<li>dead links? thing of the past - can be cached locally &amp; preserved with merkle proofs</li>
-<li>imagine wikipedia being forked with a different set of moderators - like in git</li>
-<li>imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change</li>
-</ul>
-</li>
-</ul>
 <h1 id="source-code--the-global-git"><a class="header" href="#source-code--the-global-git">source code &amp; the global git</a></h1>
 <p>github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.</p>
 <ul>
@@ -290,6 +263,21 @@ https://twitter.com/GeorgeSorosh/status/1556901176225980421</p>
 <p>&quot;diff&quot; view that summarizes the changes to a URI over time (the updates/edits)
 TODO: look at this:
 We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches</p>
+<p>a slider for filtering/jumping through time like in discourse
+https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231</p>
+<h1 id="wikipedia"><a class="header" href="#wikipedia">wikipedia</a></h1>
+<p>Wikipedia needs to be rebuilt on this - imagine a q&amp;a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary</p>
+<p>wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to &quot;edit&quot; &amp; publish a new version of an item</p>
+<p>fork wikipedia?</p>
+<ul>
+<li>imagine wikipedia being rebuilt on top of this
+<ul>
+<li>dead links? thing of the past - can be cached locally &amp; preserved with merkle proofs</li>
+<li>imagine wikipedia being forked with a different set of moderators - like in git</li>
+<li>imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change</li>
+</ul>
+</li>
+</ul>
 <h1 id="science-and-peer-review"><a class="header" href="#science-and-peer-review">science and peer review</a></h1>
 <ul>
 <li>
@@ -324,6 +312,15 @@ contrast <code>&lt;account_index&gt;/&lt;some_string_like_schema&gt;</code> to <
 <h1 id="queries"><a class="header" href="#queries">Queries</a></h1>
 <ul>
 <li>imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it</li>
+</ul>
+<h1 id="communities-and-moderation"><a class="header" href="#communities-and-moderation">communities and moderation</a></h1>
+<ul>
+<li>
+<p>competing &quot;subreddits&quot; on the same topic with different moderators &amp; content policies</p>
+</li>
+<li>
+<p>tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).</p>
+</li>
 </ul>
 
                     </main>
