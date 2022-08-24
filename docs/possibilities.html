@@ -152,11 +152,11 @@
 <!-- # Possibilities in the data-centric web -->
 <h1 id="possibilities-with-open-data"><a class="header" href="#possibilities-with-open-data">Possibilities with open data</a></h1>
 <p>Tying data to identity and making it freely available &amp; outside of silos through content-centric addressing enables tons of composability, functionality &amp; innovation.</p>
-<h1 id="unified-events-through-different-views"><a class="header" href="#unified-events-through-different-views">Unified events through different views</a></h1>
+<h1 id="unified-data-through-different-views"><a class="header" href="#unified-data-through-different-views">Unified data through different views</a></h1>
 <p>The public conversation shouldn't be fractured between platforms such as Twitter, YouTube &amp; Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events &amp; information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable &amp; shareable.</p>
 <!-- Data hoarding and interoperability leads to tool & widget incompatibility. -->
-<h1 id="event-streams-subscriptions--notifications"><a class="header" href="#event-streams-subscriptions--notifications">Event streams, subscriptions &amp; notifications</a></h1>
-<p>Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools.</p>
+<h1 id="event-streams"><a class="header" href="#event-streams">Event streams</a></h1>
+<!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
 <p>In an open data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage):</p>
 <ul>
 <li>edits to a specific document identified by a URI</li>
@@ -165,12 +165,12 @@
 <li>complicated streams can be constructed by transforming/joining others - similar to Kafka</li>
 </ul>
 <p>If someone implements speech-to-text and starts transcribing audio episodes and publishing the output it would immediately become available to anyone and would automatically end up being parsed, indexed &amp; pushed through data pipelines. Composability. This is not possible with closed platforms - even if someone was willing to pay the processing costs.</p>
-<hr />
+<h1 id="notifications--subscriptions"><a class="header" href="#notifications--subscriptions">Notifications &amp; subscriptions</a></h1>
 <p>Twitter decided that it needs to boost engagement and forced &quot;recent tweet&quot; notifications on us <a href="https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/">without the ability to turn them off</a> - that needs to stop - explicit preferences should be honored.</p>
 <blockquote>
 <p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/NavalismHQ/status/1556179585347112961">@naval</a></p>
 </blockquote>
-<p>When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to interfaces that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular &amp; multi-dimensional - like <code>&quot;show me everything from X unless from interface I or message type T&quot;</code>. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.</p>
+<p>When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to interfaces that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular &amp; multi-dimensional for any type of event stream - like <code>&quot;show me everything from X unless from interface I or message type T&quot;</code>. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.</p>
 <h1 id="bookmarks--playlists"><a class="header" href="#bookmarks--playlists">Bookmarks &amp; playlists</a></h1>
 <p>Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any interface. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case it is no longer hosted by anyone in the future.</p>
 <p>Your personal knowledge base could be built with something like <a href="https://logseq.com/">Logseq</a> with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.</p>
@@ -189,22 +189,17 @@
 <p>This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.</p>
 <h1 id="code-as-addressable-data"><a class="header" href="#code-as-addressable-data">Code as addressable data</a></h1>
 <p>Frontend code served by interfaces can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.</p>
-<h1 id="the-global-git"><a class="header" href="#the-global-git">The global Git</a></h1>
-<p>github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.</p>
-<ul>
-<li>the global <a href="https://en.wikipedia.org/wiki/Git">Git</a>.</li>
-<li>git &amp; source code</li>
-</ul>
-<!-- https://twitter.com/radicle
-https://twitter.com/gitopiaDAO -->
+<h1 id="wikipedia-source-code-science--peer-review"><a class="header" href="#wikipedia-source-code-science--peer-review">Wikipedia, Source code, science &amp; peer review</a></h1>
+<p>What they all have in common is that they could be completely interwoven in a global <a href="https://en.wikipedia.org/wiki/Git">Git</a> and done in public - tied to identity and with complete and unambiguous history of changes.</p>
+<p>Any step of the process should be a referencable event that others can comment on</p>
+<p>Any event could be commented on and that should be seen by anyone </p>
 <p>&quot;diff&quot; view that summarizes the changes to a URI over time (the updates/edits)
 TODO: look at this:
 We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches</p>
 <p>a slider for filtering/jumping through time like in discourse
 https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231</p>
-<h1 id="the-semantic-web-aka-the-original-web3"><a class="header" href="#the-semantic-web-aka-the-original-web3">The <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (a.k.a. the original &quot;Web3&quot;)</a></h1>
-<p>The biggest hurdle for its adoption has been the <a href="host_centric.html">host-centric</a> paradigm and the hoarding of data in silos with no incentive for exporting &amp; interoperability - Headjack changes that. We can give birth to the public <a href="https://en.wikipedia.org/wiki/Giant_Global_Graph">Giant Global Graph</a> outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different <a href="messages.html">message types</a> and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.</p>
-<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
+<!-- https://twitter.com/radicle
+https://twitter.com/gitopiaDAO -->
 <h1 id="wikipedia"><a class="header" href="#wikipedia">wikipedia</a></h1>
 <p>Wikipedia needs to be rebuilt on this - imagine a q&amp;a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary</p>
 <p>wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to &quot;edit&quot; &amp; publish a new version of an item</p>
@@ -218,6 +213,9 @@ https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-cont
 </ul>
 </li>
 </ul>
+<h1 id="the-semantic-web-aka-the-original-web3"><a class="header" href="#the-semantic-web-aka-the-original-web3">The <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (a.k.a. the original &quot;Web3&quot;)</a></h1>
+<p>The biggest hurdle for its adoption has been the <a href="host_centric.html">host-centric</a> paradigm and the hoarding of data in silos with no incentive for exporting &amp; interoperability - Headjack changes that. We can give birth to the public <a href="https://en.wikipedia.org/wiki/Giant_Global_Graph">Giant Global Graph</a> outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different <a href="messages.html">message types</a> and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.</p>
+<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
 <h1 id="science-and-peer-review"><a class="header" href="#science-and-peer-review">science and peer review</a></h1>
 <ul>
 <li>
@@ -250,15 +248,13 @@ https://twitter.com/balajis/status/1556579944754384897</p>
 </li>
 </ul>
 <p>quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2</p>
-<h1 id="communities-and-moderation"><a class="header" href="#communities-and-moderation">communities and moderation</a></h1>
-<ul>
-<li>
-<p>competing &quot;subreddits&quot; on the same topic with different moderators &amp; content policies</p>
-</li>
-<li>
-<p>tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).</p>
-</li>
-</ul>
+<!-- 
+# communities and moderation
+
+- competing "subreddits" on the same topic with different moderators & content policies
+
+- tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).
+ -->
 <h1 id="the-future-of-publishing"><a class="header" href="#the-future-of-publishing">The future of publishing</a></h1>
 <blockquote>
 <p>&quot;The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come&quot; - <a href="http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/">Steve Jobs</a></p>

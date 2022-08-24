@@ -12,15 +12,15 @@
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables tons of composability, functionality & innovation.
 
-# Unified events through different views
+# Unified data through different views
 
 The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
 
 <!-- Data hoarding and interoperability leads to tool & widget incompatibility. -->
 
-# Event streams, subscriptions & notifications
+# Event streams
 
-Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools.
+<!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
 
 In an open data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage):
 - edits to a specific document identified by a URI
@@ -30,13 +30,13 @@ In an open data environment anything could become an event stream as long as som
 
 If someone implements speech-to-text and starts transcribing audio episodes and publishing the output it would immediately become available to anyone and would automatically end up being parsed, indexed & pushed through data pipelines. Composability. This is not possible with closed platforms - even if someone was willing to pay the processing costs.
 
----
+# Notifications & subscriptions
 
 Twitter decided that it needs to boost engagement and forced "recent tweet" notifications on us [without the ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/) - that needs to stop - explicit preferences should be honored.
 
 > "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
 
-When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to interfaces that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multi-dimensional - like `"show me everything from X unless from interface I or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
+When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to interfaces that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multi-dimensional for any type of event stream - like `"show me everything from X unless from interface I or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
 
 # Bookmarks & playlists
 
@@ -63,15 +63,13 @@ This can be pushed further - any composition/remix/meme of media could contain t
 
 Frontend code served by interfaces can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
 
-# The global Git
+# Wikipedia, Source code, science & peer review
 
-github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.
+What they all have in common is that they could be completely interwoven in a global [Git](https://en.wikipedia.org/wiki/Git) and done in public - tied to identity and with complete and unambiguous history of changes.
 
-- the global [Git](https://en.wikipedia.org/wiki/Git).
-- git & source code
+Any step of the process should be a referencable event that others can comment on
 
-<!-- https://twitter.com/radicle
-https://twitter.com/gitopiaDAO -->
+Any event could be commented on and that should be seen by anyone 
 
 
 
@@ -83,11 +81,11 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 a slider for filtering/jumping through time like in discourse
 https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
 
-# The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
 
-The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different [message types](messages.md) and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.
+<!-- https://twitter.com/radicle
+https://twitter.com/gitopiaDAO -->
 
-<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
+
 
 # wikipedia
 
@@ -104,14 +102,17 @@ fork wikipedia?
     - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
 
 
+# The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
+
+The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different [message types](messages.md) and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.
+
+<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
+
 
 
 # science and peer review
 
 - peer review can (and should) be reimplemented on top of infrastructure like this
-
-
-
 
 
 - the ledger of record - science
@@ -150,12 +151,14 @@ fork wikipedia?
 
 quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2
 
+
+<!-- 
 # communities and moderation
 
 - competing "subreddits" on the same topic with different moderators & content policies
 
 - tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).
-
+ -->
 
 
 # The future of publishing
