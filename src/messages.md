@@ -25,6 +25,9 @@ tag type idea: prediction, and later with oracles credibility & track records co
 
 
 
+https://en.wikipedia.org/wiki/Resource_Description_Framework
+https://en.wikipedia.org/wiki/RDFa
+
 
 
 https://spec.dsnp.org/DSNP/Announcements.html

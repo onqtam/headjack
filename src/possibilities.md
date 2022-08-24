@@ -63,54 +63,15 @@ This can be pushed further - any composition/remix/meme of media could contain t
 
 Frontend code served by interfaces can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
 
-# data sets / collections from an entity
-
-# Entity namespaces
-
-
-concept namespaces - being able to address by index things in a database from account
-imdb haedjack idx: 566
-the matrix:
-    https://www.imdb.com/title/tt0133093/
-    566/schema/<movie_schema_number>/0133093
-    contrast `<account_index>/<some_string_like_schema>` to `<account_index>/<integer_nonce>`
-
-
-
-Imagine having a single id for a film and have comment sections for each chapter or minute
-
-
-special message tag type: referencing something as a fact - but that thing needs an UUID so ppl can look it up and see what's being commented about it over there
-
-
-
-
-
-# the semantic web
-
-
-- the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (the OG "Web3")
-
-    reinventing the semantic web
-    https://en.wikipedia.org/wiki/RDFa
-
-    linking data is easier under a common global namespace
-    https://en.wikipedia.org/wiki/Linked_data
-
-    facilitate the creation of [hyperdata](https://en.wikipedia.org/wiki/Hyperdata)
-    - knowledge graph
-
-References are useful beyond peer review - it would be useful for the entire web.
-
-# source code & the global git
+# The global Git
 
 github needs to be reimplemented on top of this - open source code is a public good - can be interwoven with peer review and public discourse. Any piece of data/event.
 
 - the global [Git](https://en.wikipedia.org/wiki/Git).
 - git & source code
-    https://twitter.com/GeorgeSorosh/status/1556901176225980421
 
-    https://webcache.googleusercontent.com/search?q=cache:4vqWF4-gcccJ:https://github.com/tornadocash/tornado-cli&cd=12&hl=en&ct=clnk&gl=us
+<!-- https://twitter.com/radicle
+https://twitter.com/gitopiaDAO -->
 
 
 
@@ -122,13 +83,11 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 a slider for filtering/jumping through time like in discourse
 https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
 
+# The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
 
-# visualizations
+The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different [message types](messages.md) and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.
 
-- Imagine the possible visualizations on the graph data of the hivemind
-    - imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints & the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them
-    - imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why
-    - imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data
+<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
 
 # wikipedia
 
@@ -196,3 +155,46 @@ quote-retweet something - and then later when viewing the discussion around the 
 - competing "subreddits" on the same topic with different moderators & content policies
 
 - tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).
+
+
+
+# The future of publishing
+
+> "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
+
+focus on de-duplication & being able to explore any edge between concepts & URIs and the public discourse around URIs
+
+TODO: exportable graph stories & interactive storytelling
+
+the future of publishing - books, articles & interactive content graphs
+
+
+- Imagine the possible visualizations on the graph data of the hivemind
+    - imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints & the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them
+    - imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why
+    - imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data
+
+
+Imagine what Balaji could do if he had everything easily referencable through a logseq-like interface
+
+
+on books:
+https://twitter.com/FEhrsam/status/1304217384962592769
+
+
+Linked data is essential for discoverability & ingestion of information - this gitbook is an example of that - contrast to what it would be if it was a linear whitepaper. The whole web can be interlinked like this.
+
+every journalist should be able to use something like logseq and construct their stories with referencable facts - timestamped & crypto provable
+
+Write about the story for a journalist using a tool like that and constructing interlinked stories... that needs a page on its own
+
+
+
+
+PDFs are a horrendous format
+PDFs ^ word filters should contain everything and have authentic links
+
+
+
+TODO: articles can include the data for whatever they reference & even provide the merkle proofs for those - self-contained, complete & permanent publications
+
