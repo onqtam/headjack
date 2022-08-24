@@ -63,19 +63,16 @@ This can be pushed further - any composition/remix/meme of media could contain t
 
 Frontend code served by interfaces can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
 
-# Wikipedia, Source code, science & peer review
+# The global [Git](https://en.wikipedia.org/wiki/Git)
 
-What they all have in common is that they could be completely interwoven in a global [Git](https://en.wikipedia.org/wiki/Git) and done in public - tied to identity and with complete and unambiguous history of changes.
+We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes.
 
-Any step of the process should be a referencable event that others can comment on
-
-Any event could be commented on and that should be seen by anyone 
+We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this link for an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
 
 
+Any step of the process should be a referencable event that others can comment on.
 
-"diff" view that summarizes the changes to a URI over time (the updates/edits)
-TODO: look at this:
-We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches
+
 
 
 a slider for filtering/jumping through time like in discourse
@@ -100,14 +97,6 @@ fork wikipedia?
     - dead links? thing of the past - can be cached locally & preserved with merkle proofs
     - imagine wikipedia being forked with a different set of moderators - like in git
     - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
-
-
-# The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
-
-The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different [message types](messages.md) and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.
-
-<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
-
 
 
 # science and peer review
@@ -138,6 +127,14 @@ The biggest hurdle for its adoption has been the [host-centric](host_centric.md)
     on-chain papers
     https://twitter.com/balajis/status/1556579944754384897
 
+
+
+
+# The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
+
+The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different [message types](messages.md) and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.
+
+<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
 
 
 
