@@ -59,28 +59,32 @@ Headjack's intra-document addressing is universal - it works for audio & video t
 
 This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.
 
-# Separating data from the presentation layer
+# Code as addressable data
 
-- Data can be decoupled from the presentation layer
-    - 
-    - since message types
-We can “version control” frontends and request them by URI from anywhere
-Unstoppable software/media
+Frontend code served by interfaces can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
 
+# data sets / collections from an entity
 
+# Entity namespaces
 
 
+concept namespaces - being able to address by index things in a database from account
+imdb haedjack idx: 566
+the matrix:
+    https://www.imdb.com/title/tt0133093/
+    566/schema/<movie_schema_number>/0133093
+    contrast `<account_index>/<some_string_like_schema>` to `<account_index>/<integer_nonce>`
+
+
+
+Imagine having a single id for a film and have comment sections for each chapter or minute
+
+
+special message tag type: referencing something as a fact - but that thing needs an UUID so ppl can look it up and see what's being commented about it over there
 
 
 
 
-
-# visualizations
-
-- Imagine the possible visualizations on the graph data of the hivemind
-    - imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints & the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them
-    - imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why
-    - imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data
 
 # the semantic web
 
@@ -118,6 +122,13 @@ We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/1
 a slider for filtering/jumping through time like in discourse
 https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
 
+
+# visualizations
+
+- Imagine the possible visualizations on the graph data of the hivemind
+    - imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints & the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them
+    - imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why
+    - imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data
 
 # wikipedia
 
@@ -169,24 +180,6 @@ fork wikipedia?
 
 
 
-
-
-
-# data sets / collections from an entity
-
-concept namespaces - being able to address by index things in a database from account
-imdb haedjack idx: 566
-the matrix:
-    https://www.imdb.com/title/tt0133093/
-    566/schema/<movie_schema_number>/0133093
-    contrast `<account_index>/<some_string_like_schema>` to `<account_index>/<integer_nonce>`
-
-
-
-Imagine having a single id for a film and have comment sections for each chapter or minute
-
-
-special message tag type: referencing something as a fact - but that thing needs an UUID so ppl can look it up and see what's being commented about it over there
 
 
 

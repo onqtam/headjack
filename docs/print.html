@@ -154,6 +154,8 @@
 It is not about less or more trust but about better trust.
 
 Headjack is about better trust - not trustlessness
+
+Breaking apart identity and media allows for better incentives
  -->
 <ul>
 <li>
@@ -1365,27 +1367,18 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <p>&quot;The internet creates 1 giant aggregator for everything&quot; - <a href="https://youtube.com/clip/UgkxphJhihcVY-U-PLFEvDl1m7Rb-iq4CGgo">@naval</a></p>
 </blockquote>
 <p>This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.</p>
-<h1 id="separating-data-from-the-presentation-layer"><a class="header" href="#separating-data-from-the-presentation-layer">Separating data from the presentation layer</a></h1>
-<ul>
-<li>
-<h2 id="data-can-be-decoupled-from-the-presentation-layer"><a class="header" href="#data-can-be-decoupled-from-the-presentation-layer">Data can be decoupled from the presentation layer</a></h2>
-<ul>
-<li>since message types
-We can “version control” frontends and request them by URI from anywhere
-Unstoppable software/media</li>
-</ul>
-</li>
-</ul>
-<h1 id="visualizations"><a class="header" href="#visualizations">visualizations</a></h1>
-<ul>
-<li>Imagine the possible visualizations on the graph data of the hivemind
-<ul>
-<li>imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints &amp; the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them</li>
-<li>imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why</li>
-<li>imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data</li>
-</ul>
-</li>
-</ul>
+<h1 id="code-as-addressable-data"><a class="header" href="#code-as-addressable-data">Code as addressable data</a></h1>
+<p>Frontend code served by interfaces can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.</p>
+<h1 id="data-sets--collections-from-an-entity"><a class="header" href="#data-sets--collections-from-an-entity">data sets / collections from an entity</a></h1>
+<h1 id="entity-namespaces"><a class="header" href="#entity-namespaces">Entity namespaces</a></h1>
+<p>concept namespaces - being able to address by index things in a database from account
+imdb haedjack idx: 566
+the matrix:
+https://www.imdb.com/title/tt0133093/
+566/schema/&lt;movie_schema_number&gt;/0133093
+contrast <code>&lt;account_index&gt;/&lt;some_string_like_schema&gt;</code> to <code>&lt;account_index&gt;/&lt;integer_nonce&gt;</code></p>
+<p>Imagine having a single id for a film and have comment sections for each chapter or minute</p>
+<p>special message tag type: referencing something as a fact - but that thing needs an UUID so ppl can look it up and see what's being commented about it over there</p>
 <h1 id="the-semantic-web"><a class="header" href="#the-semantic-web">the semantic web</a></h1>
 <ul>
 <li>
@@ -1418,6 +1411,16 @@ TODO: look at this:
 We've got a pretty solid diff view now, notes at https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/ and an example at https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches</p>
 <p>a slider for filtering/jumping through time like in discourse
 https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231</p>
+<h1 id="visualizations"><a class="header" href="#visualizations">visualizations</a></h1>
+<ul>
+<li>Imagine the possible visualizations on the graph data of the hivemind
+<ul>
+<li>imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints &amp; the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them</li>
+<li>imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why</li>
+<li>imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data</li>
+</ul>
+</li>
+</ul>
 <h1 id="wikipedia"><a class="header" href="#wikipedia">wikipedia</a></h1>
 <p>Wikipedia needs to be rebuilt on this - imagine a q&amp;a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary</p>
 <p>wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to &quot;edit&quot; &amp; publish a new version of an item</p>
@@ -1453,15 +1456,6 @@ https://twitter.com/bensprecher/status/1557351733382225920</p>
 https://twitter.com/balajis/status/1556579944754384897</p>
 </li>
 </ul>
-<h1 id="data-sets--collections-from-an-entity"><a class="header" href="#data-sets--collections-from-an-entity">data sets / collections from an entity</a></h1>
-<p>concept namespaces - being able to address by index things in a database from account
-imdb haedjack idx: 566
-the matrix:
-https://www.imdb.com/title/tt0133093/
-566/schema/&lt;movie_schema_number&gt;/0133093
-contrast <code>&lt;account_index&gt;/&lt;some_string_like_schema&gt;</code> to <code>&lt;account_index&gt;/&lt;integer_nonce&gt;</code></p>
-<p>Imagine having a single id for a film and have comment sections for each chapter or minute</p>
-<p>special message tag type: referencing something as a fact - but that thing needs an UUID so ppl can look it up and see what's being commented about it over there</p>
 <h1 id="queries"><a class="header" href="#queries">Queries</a></h1>
 <ul>
 <li>
