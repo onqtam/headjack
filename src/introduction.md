@@ -8,6 +8,8 @@ Headjack is a blockchain that links sovereign identities to content at [web-scal
 It is not about less or more trust but about better trust.
 
 Headjack is about better trust - not trustlessness
+
+Breaking apart identity and media allows for better incentives
  -->
 
 - Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy) can be layered on top of it. <!-- through data associations -->
