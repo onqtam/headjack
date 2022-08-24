@@ -23,7 +23,6 @@
     - [Problems with the current web](problems_with_the_web.md)
     - [Authenticity](authenticity.md)
     - [Possibilities with open data](possibilities.md)
-    - [The future of publishing](publishing.md)
     - [Infrastructure improvements](infrastructure.md)
     - [Business models](business_models.md)
     - [Feeds, indexes & algorithms](feeds_indexes_algorithms.md)

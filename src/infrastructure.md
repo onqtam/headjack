@@ -24,11 +24,17 @@ https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol
 - Currently ephemeral experiences such as search suggestions leave no trace and it's extremely hard to prove bias as [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies) would attest - competition & a lower barrier to entry are direly needed.
 - The range of sophistication of search engines would span the full spectrum - from the data center scale to software that you can run locally at home and most will be specialized - [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique).
 
+TODO: link to the section about the semantic web and how search engines would have an easier job
+
 <!-- There will be multiple competing versions of something like Google's Page Rank algorithm on this global dataset. -->
 
 # The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive)
 
+# The next step in [library science](https://en.wikipedia.org/wiki/Library_science)
+
 <!-- The archivability of the web will be greatly improved - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) effect due to the current [host-centric](host_centric.md) web. -->
+
+Let's take the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) as an example:
 
 - It will no longer need to actively poll all websites on earth periodically & check for changes and save snapshots - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.
 - Actual content & presentation HTML can be decoupled and only the essential could be saved. There could be a new message type for interfaces to signal a change in what they serve to browsers for presentation & rendering of content which the Internet Archive could save throughout time as well to provide the historical views. Redundancy of snapshots can be driven to 0.
