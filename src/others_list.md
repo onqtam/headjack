@@ -1,5 +1,7 @@
 # Competing projects (list)
 
+<!-- If project Bluesky, Farcaster and DSNP had a baby it would be Headjack -->
+
 # [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
 
 Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
