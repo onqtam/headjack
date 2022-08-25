@@ -130,13 +130,7 @@ fork wikipedia?
 
 # The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
 
-The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data can achieve a lot but using different [message types](messages.md) and further structuring will make it machine-readable and much easier for processing - unlocking a lot more value.
-
-<!-- Accounts could create collections of identifiers with different schemas and compact URIs to represent entities for others to refer to - for example the analog of [IMDb](https://en.wikipedia.org/wiki/IMDb) could issue with URIs without a nonce such as `<account_index>/<schema>/<namespace>/<identifier>` -->
-
-
-
-
+The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents it will be much easier for anyone to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way - allowing anyone to reuse their work. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable and easier for processing - unlocking a lot more value.
 
 # Queries
 
