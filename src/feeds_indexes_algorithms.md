@@ -13,6 +13,7 @@ the world dashboard
 https://twitter.com/balajis/status/1442863553497554944
 
 
+the public shouldn't be using black-box recommendation algorithms at scale - we can actually have a choice and choose the transparent ones and they can be really good - we can make a functioning market for those and they can be verifiable
 
 
 computed & verifiable views?

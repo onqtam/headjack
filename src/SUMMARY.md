@@ -18,6 +18,8 @@
         - [List of other projects](others_list.md)
         <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
+<!-- Just “motivation” -->
+
 <!-- - [Why is Headjack necessary](motivation.md) -->
 - [Why Headjack](motivation.md)
     - [Problems with the current web](problems_with_the_web.md)
