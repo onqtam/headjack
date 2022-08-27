@@ -96,5 +96,6 @@ https://twitter.com/RyanSAdams/status/1553776203621965826
 block explorers are the future of browsing
 https://twitter.com/balajis/status/1406400770581303297
 
+the key to free data from silos is to link it authentically to identity, make it addressable and sequence it throughout time
 
 

@@ -156,6 +156,9 @@ It is not about less or more trust but about better trust.
 Headjack is about better trust - not trustlessness
 
 Breaking apart identity and media allows for better incentives
+
+it does not deal with storage and neither with routing - any kind of routing can be implemented on top of it with the advantage of addressing content in bulk or by source (publisher or creator)
+
  -->
 <ul>
 <li>
@@ -215,7 +218,6 @@ Breaking apart identity and media allows for better incentives
 </ol>
 </li>
 </ol>
-<!-- But the vision would be incomplete without the subsequent [**why**](philosophy.md) and more detailed [**how**](execution.md). -->
 <div style="text-align: center;">
     <img src="images/logo.png">
 </div>
@@ -959,6 +961,7 @@ https://github.com/farcasterxyz/protocol#message-ordering -->
 <ul>
 <li>The <a href="https://github.com/farcasterxyz/protocol#5-peering">p2p network</a>'s ability to scale by passing around granular casts is questionable - they are already discussing possible flooding and nodes having to shadow ban and flag accounts based on behavior.</li>
 </ul>
+<!-- TODO: problem with farcaster - you cannot save content from others forever with authentic proofs if the person removes completely their history of key changes & content signatures. Correct? -->
 <!-- Directly polling accounts & their hosts for new events is more scalable but has tradeoffs compared to broadcasting messages & ingesting them into DBs & indexes (pull vs push). -->
 <ul>
 <li>
@@ -1417,6 +1420,9 @@ https://twitter.com/balajis/status/1556579944754384897</p>
 </ul>
 <h1 id="the-semantic-web-aka-the-original-web3"><a class="header" href="#the-semantic-web-aka-the-original-web3">The <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (a.k.a. the original &quot;Web3&quot;)</a></h1>
 <p>The biggest hurdle for its adoption has been the <a href="host_centric.html">host-centric</a> paradigm and the hoarding of data in silos with no incentive for exporting &amp; interoperability - Headjack changes that through <a href="data_centric.html">data-centric addressing</a> &amp; broadcasting by default. While there will always be companies that enrich &amp; tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents it will be much easier for anyone to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way - allowing anyone to reuse their work. We can give birth to the public <a href="https://en.wikipedia.org/wiki/Giant_Global_Graph">Giant Global Graph</a> outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different <a href="messages.html">message types</a> and further annotations will make everything a lot more machine-readable and easier for processing.</p>
+<p>semantic web - imagine being able to query something like &quot;when has person X talked about the gut microbiome and has he recommended/mentioned a product or company?&quot; There could be companies with private knowledge graphs that let you query that and pay per query - a few cents or a $</p>
+<p>Show me responses/references from high-trust individuals to the top 5 controversial statements of person X and sort them by some criteria</p>
+<p>Semantic web - we can crowdsource the annotation of text/audio/video and then analyze which posts are saying what - and identify them</p>
 <h1 id="queries"><a class="header" href="#queries">Queries</a></h1>
 <ul>
 <li>
@@ -1590,6 +1596,13 @@ There will be a marketplace for every vertical - we need to democratize speciali
 Markets, markets everywhere!
 algorithmic transparency & choice
 https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
+
+
+business models - who will host the content?
+how does The Graph fit into this?! omg?!
+
+incentive for infrastructure companies to do proper filtration of bots - apps can leave for other infrastructure - whereas within twitter there has been conflict of interest for executives as their bonuses counted on counts of users - so why diagnose the bot problem really? TODO: source - or be more vague and don't directly point to twitter
+
 
 
 

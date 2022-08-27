@@ -132,6 +132,17 @@ fork wikipedia?
 
 The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents it will be much easier for anyone to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way - allowing anyone to reuse their work. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable and easier for processing.
 
+
+
+semantic web - imagine being able to query something like "when has person X talked about the gut microbiome and has he recommended/mentioned a product or company?" There could be companies with private knowledge graphs that let you query that and pay per query - a few cents or a $
+
+
+Show me responses/references from high-trust individuals to the top 5 controversial statements of person X and sort them by some criteria
+
+
+Semantic web - we can crowdsource the annotation of text/audio/video and then analyze which posts are saying what - and identify them
+
+
 # Queries
 
 - We'll be able to plot a timeline for all references to an event and filter based on activity & type of references

@@ -22,3 +22,5 @@
 - negative: proofs might be big - imagine how much would the proofs be for 1000 likes
 
 
+- big disadvantage: once data is out - it is out. Services should honor delete & purge requests but there's no way to force them. Any distributed system will be like this
+

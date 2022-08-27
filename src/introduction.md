@@ -10,6 +10,9 @@ It is not about less or more trust but about better trust.
 Headjack is about better trust - not trustlessness
 
 Breaking apart identity and media allows for better incentives
+
+it does not deal with storage and neither with routing - any kind of routing can be implemented on top of it with the advantage of addressing content in bulk or by source (publisher or creator)
+
  -->
 
 - Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy) can be layered on top of it. <!-- through data associations -->
@@ -52,8 +55,6 @@ Breaking apart identity and media allows for better incentives
 8. [Throughput numbers (scaling)](numbers.md)
 9. [Headjack vs the competition](competition.md)
     1. [List of other projects](others_list.md)
-
-<!-- But the vision would be incomplete without the subsequent [**why**](philosophy.md) and more detailed [**how**](execution.md). -->
 
 <div style="text-align: center;">
     <img src="images/logo.png">
