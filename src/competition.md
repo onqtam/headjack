@@ -69,3 +69,13 @@ https://twitter.com/liron/status/1547225903176028160 -->
 without logically centralizing identity, names, connections & anchoring through batching and custodial services
 https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 
+
+<!-- <div style="text-align: center;">
+    <img src="images/meme_expanding_brain.jpg">
+</div> -->
+
+<!-- trust centralized companies with your identity & data
+use blockchains, self-host all your data, and sign every action
+manage many keypair wallets and isolate risk
+use a blockchain with hierarchical trust & don't require keypairs by default
+https://imgflip.com/memegenerator/Expanding-Brain -->
