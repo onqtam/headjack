@@ -150,8 +150,8 @@
 https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 <!-- We believe a credible path to billions and worldwide adoption is necessary as part of the story -->
 <h1 id="how-big-is-a-headjack-transaction"><a class="header" href="#how-big-is-a-headjack-transaction">How big is a Headjack transaction</a></h1>
-<p>Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.</p>
-<p>So the fields for a transaction by an interface/IDM (which will be the majority) are:</p>
+<p>Applications post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences &amp; updates to social graph), but they also post authorizations to other accounts (applications) to post on behalf of users as integer pairs.</p>
+<p>So the fields for a transaction by an application/IDM (which will be the majority) are:</p>
 <ul>
 <li>version: <code>4 bytes</code></li>
 <li>signature: <a href="https://ethvigil.com/docs/eth_sign_example_code/#recovering-the-message-signer-in-the-smart-contract"><code>65 bytes</code></a></li>
@@ -160,19 +160,19 @@ https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 <li>nonce: <code>4 bytes</code> auto-increment integer associated with the account - to prevent reordering of anchored off-chain blobs (which would mess up internal addressing based on that nonce)</li>
 <li>value: <code>4 bytes</code> amount of native token paid to validators for transaction inclusion</li>
 </ul>
-<p>So far that is <code>141 bytes</code> which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
+<p>So far that is <code>141 bytes</code> which almost every transaction by an application or IDM contains. IDMs also submit a list of authorizations (or revocations) as integer pairs. For example, 1000 accounts authorizing 15 different applications to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.</p>
 <h1 id="naive-scenario"><a class="header" href="#naive-scenario">Naive scenario</a></h1>
 <p>The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for <a href="https://twitter.com/eshita/status/1546911451125649408">validium ZK rollups</a> as there are already DA solutions that offer <a href="https://twitter.com/apolynya/status/1517137629334056960">10 mb/s or even much more</a>.</p>
 <p>Assuming:</p>
 <ul>
 <li>1 MB block size &amp; 10 second block time (100 kb/s of block bandwidth)</li>
-<li>1000 interfaces posting in every block</li>
+<li>1000 applications posting in every block</li>
 <li>100 IDMs authorizing as much users as possible - filling the remaining block space</li>
 <li>no on-chain actions such as keypair &amp; name changes, account creation &amp; direct interaction with the chain by end users</li>
 </ul>
 <p>We get:</p>
 <ul>
-<li>1100 actors (1000 interfaces + 100 IDMs) that post in every block at least <code>141</code> bytes for their transactions, which is <code>155100</code> bytes</li>
+<li>1100 actors (1000 applications + 100 IDMs) that post in every block at least <code>141</code> bytes for their transactions, which is <code>155100</code> bytes</li>
 <li>the remaining <code>893476</code> bytes (1048576 (1MB) - 155100) can be filled with authorizations and since an authorization is <code>16</code> bytes (8 * 2) that would be 55842 authorizations/revocations every 10 seconds or 5584 authorizations/revocations per second</li>
 <li>for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-ons</a> per day</li>
 </ul>
@@ -197,15 +197,15 @@ https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 <li>updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services</li>
 <li>signed transactions by individual accounts that want to directly interact with the chain
 <ul>
-<li>authorizing an IDM, rotating keys, or even publishing off-chain content as an interface</li>
+<li>authorizing an IDM, rotating keys, or even publishing off-chain content as an application</li>
 </ul>
 </li>
 </ul>
 <p>However, the realistic scenario will not be far from the naive because:</p>
 <ul>
 <li>Only a % of all accounts will have keypairs (even though 100% could) and will make just a few signed actions per year - leaving most block throughput for authorizations through IDMs.</li>
-<li>Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> every single day. There could also be 2 types of log-ins: passive (viewing only - nothing on-chain) and authorized (allowing services to post on behalf of users).</li>
-<li>Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.</li>
+<li>Large % of accounts will rarely even be authorizing new applications - many people don't sign in to new services through <a href="https://en.wikipedia.org/wiki/Single_sign-on">SSO</a> every single day. There could also be 2 types of log-ins: passive (viewing only - nothing on-chain) and authorized (allowing services to post on behalf of users).</li>
+<li>Many applications that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.</li>
 <li>The chain throughput can be further optimized &amp; scaled by multiple orders of magnitude.</li>
 </ul>
 <h1 id="optimizations--scaling"><a class="header" href="#optimizations--scaling">Optimizations &amp; scaling</a></h1>
@@ -231,7 +231,7 @@ https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 <li>authorizations: a map of indexes and arrays of block height integer ranges</li>
 <li>nonces: an array that maps autoincrement indexes to block numbers
 <ul>
-<li>appended only when publishing off-chain content (usually an interface/IDM)</li>
+<li>appended only when publishing off-chain content (usually an application/IDM)</li>
 </ul>
 </li>
 </ul>
@@ -241,7 +241,7 @@ https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 <li>owners: a map of owner indexes and block height integer ranges (non-overlapping)</li>
 <li>nonces: an array that maps autoincrement indexes to account index &amp; nonce pairs
 <ul>
-<li>appended only when publishing off-chain content (usually an interface/IDM)</li>
+<li>appended only when publishing off-chain content (usually an application/IDM)</li>
 </ul>
 </li>
 </ul>
@@ -281,7 +281,7 @@ goal: no congestion
 a tiny core on which we have consensus can be used to cryptographically anchor & link unlimited amounts of data - the entire web - a few terabytes (tiny is relative - compared to the data) of materialized blockchain state including the absolute bare minimum of historic.
 
 - state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes -->
-<p>TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which interfaces a user has authorized to post on their behalf in a given block</p>
+<p>TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which applications a user has authorized to post on their behalf in a given block</p>
 <!-- 
 
 Reducing merkle proof sizes with Verkle Tries

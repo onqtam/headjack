@@ -6,7 +6,7 @@
 
 
 We can build the classifiers in public - the ml models.
-We can see which indexes other people prefer in terms of interfaces. The network state is 100% digital and is publicly expressed through client attribution - choice
+We can see which indexes other people prefer in terms of applications. The network state is 100% digital and is publicly expressed through client attribution - choice
 
 
 the world dashboard
@@ -24,9 +24,9 @@ link to authenticity page
 
 promotion of videos will no longer be dominated just by the recommendation algorithm - when an influencer comments on a video his followers will see it and watch the said video too
 
-We will be able to study the effects of recommendation algorithms for virality because all content has an interface where it came from
+We will be able to study the effects of recommendation algorithms for virality because all content has an application where it came from
 
-Interfaces will compete on the algorithms they let people use to filter and sort information - to look for signal through the noise.
+Applications will compete on the algorithms they let people use to filter and sort information - to look for signal through the noise.
 
 
 

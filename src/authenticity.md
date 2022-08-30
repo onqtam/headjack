@@ -28,7 +28,7 @@ Today's web puts authenticity & certification of documents in the [hands of host
 
 > "Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment. It’s long overdue to affirm and enact the policies and technologies that will let us see where we’ve been, including and especially where we’ve erred, so we might have a coherent sense of where we are and where we want to go." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
-In Headjack updates to URIs are broadcasted but the previous versions remain - interfaces ought to display the latest state but should allow browsing the entire history of changes - like using Git.
+In Headjack updates to URIs are broadcasted but the previous versions remain - applications ought to display the latest state but should allow browsing the entire history of changes - like using Git.
 
 # Deduplicating documents & traceability
 
@@ -58,7 +58,7 @@ Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can g
 4. refuse to listen to accounts that don't use that format and build the habit to check track records before listening to someone - this can (and will) become a social norm
 5. let the [chips fall where they may](https://twitter.com/TSLAgang/status/1433896307702353921)
 
-Message types can be in an extensible inheritance hierarchy and have "fallback" translation mechanisms defined in their on-chain schema for platforms that don't support specific leaf types. As an example: on-chain schema `42` can have the following template for serialization: `"{asset} has an {probability} chance of being {above_or_below} {price} by {date}"`, and thus a basic interface that encounters `{message_type: "42", asset: "$BTC", date: "2025.02.12", above_or_below: "above", price: "100000$", probability: "80%"}` could render `"$BTC has an 80% chance of being above 100000$ by 2025.02.12"`. Or there could be a message type with spline curves. This way the system can evolve even if interfaces move at different pace and there's no consensus on the evolution of messages - it will naturally happen. Rigidness and/or lack of consensus for such standards has been the bane for many open systems.
+Message types can be in an extensible inheritance hierarchy and have "fallback" translation mechanisms defined in their on-chain schema for platforms that don't support specific leaf types. As an example: on-chain schema `42` can have the following template for serialization: `"{asset} has an {probability} chance of being {above_or_below} {price} by {date}"`, and thus a basic application that encounters `{message_type: "42", asset: "$BTC", date: "2025.02.12", above_or_below: "above", price: "100000$", probability: "80%"}` could render `"$BTC has an 80% chance of being above 100000$ by 2025.02.12"`. Or there could be a message type with spline curves. This way the system can evolve even if applications move at different pace and there's no consensus on the evolution of messages - it will naturally happen. Rigidness and/or lack of consensus for such standards has been the bane for many open systems.
 
 The argument that specialized message types are unnecessary because AI will eventually be able to classify things properly is mute - lets get something that is unambiguous and working now - structure is good. The use case for reputation goes beyond finance.
 

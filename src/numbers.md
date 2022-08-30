@@ -9,9 +9,9 @@ https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 
 # How big is a Headjack transaction
 
-Interfaces post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences & updates to social graph), but they also post authorizations to other accounts (interfaces) to post on behalf of users as integer pairs.
+Applications post anchors to off-chain content with an IPFS CID hash and a merkle root. IDMs also anchor off-chain content (mainly user preferences & updates to social graph), but they also post authorizations to other accounts (applications) to post on behalf of users as integer pairs.
 
-So the fields for a transaction by an interface/IDM (which will be the majority) are:
+So the fields for a transaction by an application/IDM (which will be the majority) are:
 - version: `4 bytes`
 - signature: [`65 bytes`](https://ethvigil.com/docs/eth_sign_example_code/#recovering-the-message-signer-in-the-smart-contract)
 - blob IPFS address: [`32 bytes`](https://proto.school/anatomy-of-a-cid/01)
@@ -19,7 +19,7 @@ So the fields for a transaction by an interface/IDM (which will be the majority)
 - nonce: `4 bytes` auto-increment integer associated with the account - to prevent reordering of anchored off-chain blobs (which would mess up internal addressing based on that nonce)
 - value: `4 bytes` amount of native token paid to validators for transaction inclusion
 
-So far that is `141 bytes` which almost every transaction by an interface or IDM contains. IDMs also submit a list of authorizations (or revocations) as integer pairs. For example, 1000 accounts authorizing 15 different interfaces to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.
+So far that is `141 bytes` which almost every transaction by an application or IDM contains. IDMs also submit a list of authorizations (or revocations) as integer pairs. For example, 1000 accounts authorizing 15 different applications to post on their behalf would be 1000 integer pairs. Assuming 8 byte integers (up to 2^64) that would be 8 * 2 * 1000 = 16k bytes.
 
 # Naive scenario
 
@@ -27,12 +27,12 @@ The initial version will target block bandwidth of up to 100 kb/s. This is not a
 
 Assuming:
 - 1 MB block size & 10 second block time (100 kb/s of block bandwidth)
-- 1000 interfaces posting in every block
+- 1000 applications posting in every block
 - 100 IDMs authorizing as much users as possible - filling the remaining block space
 - no on-chain actions such as keypair & name changes, account creation & direct interaction with the chain by end users
 
 We get:
-- 1100 actors (1000 interfaces + 100 IDMs) that post in every block at least `141` bytes for their transactions, which is `155100` bytes
+- 1100 actors (1000 applications + 100 IDMs) that post in every block at least `141` bytes for their transactions, which is `155100` bytes
 - the remaining `893476` bytes (1048576 (1MB) - 155100) can be filled with authorizations and since an authorization is `16` bytes (8 * 2) that would be 55842 authorizations/revocations every 10 seconds or 5584 authorizations/revocations per second
 - for 1 billion accounts that would be 0.557 authorizations/revocations per person per day which is actually quite good - people on average do way less [single sign-ons](https://en.wikipedia.org/wiki/Single_sign-on) per day
 
@@ -58,12 +58,12 @@ The naive scenario does not include on-chain actions for specific accounts such 
 - name registration & ownership changes (see the [dedicated page](handles.md) for more details)
 - updating account fields such as a URI pointing towards an off-chain account directory (which could point to archived posts) or pointing to another account index for such services
 - signed transactions by individual accounts that want to directly interact with the chain
-    - authorizing an IDM, rotating keys, or even publishing off-chain content as an interface
+    - authorizing an IDM, rotating keys, or even publishing off-chain content as an application
 
 However, the realistic scenario will not be far from the naive because:
 - Only a % of all accounts will have keypairs (even though 100% could) and will make just a few signed actions per year - leaving most block throughput for authorizations through IDMs.
-- Large % of accounts will rarely even be authorizing new interfaces - many people don't sign in to new services through [SSO](https://en.wikipedia.org/wiki/Single_sign-on) every single day. There could also be 2 types of log-ins: passive (viewing only - nothing on-chain) and authorized (allowing services to post on behalf of users).
-- Many interfaces that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.
+- Large % of accounts will rarely even be authorizing new applications - many people don't sign in to new services through [SSO](https://en.wikipedia.org/wiki/Single_sign-on) every single day. There could also be 2 types of log-ins: passive (viewing only - nothing on-chain) and authorized (allowing services to post on behalf of users).
+- Many applications that don't generate a lot of off-chain activity will publish less often than on every block in order to minimize on-chain block space costs.
 - The chain throughput can be further optimized & scaled by multiple orders of magnitude.
 
 # Optimizations & scaling
@@ -93,11 +93,11 @@ All on-chain changes just append data to one of the few attributes of:
         <!-- - could be a different data structure -->
     - authorizations: a map of indexes and arrays of block height integer ranges
     - nonces: an array that maps autoincrement indexes to block numbers
-        - appended only when publishing off-chain content (usually an interface/IDM)
+        - appended only when publishing off-chain content (usually an application/IDM)
 - names:
     - owners: a map of owner indexes and block height integer ranges (non-overlapping)
     - nonces: an array that maps autoincrement indexes to account index & nonce pairs
-        - appended only when publishing off-chain content (usually an interface/IDM)
+        - appended only when publishing off-chain content (usually an application/IDM)
 
 TODO: should IPFS hashes & merkle roots be saved in the state?
     - no?
@@ -136,7 +136,7 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 
 - state doesn't need to store the merkle roots & IPFS hashes - merkle proofs can contain block numbers & block hashes -->
 
-TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which interfaces a user has authorized to post on their behalf in a given block
+TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which applications a user has authorized to post on their behalf in a given block
 
 <!-- 
 
