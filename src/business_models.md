@@ -24,7 +24,7 @@ the ad model isn't going anywhere but we are in a "take it or leave" situation w
 > "A recent example of questionable attribution: I tweeted about my e-mountain bike, Jason Calacanis (of all people) saw it and asked about the model. Someone posted a review from bikeradar.com, and Jason (I don’t know if this is true) probably googled for it and maybe bought it. Who deserves the attributions credit? According to Google (surprise, surprise), it’ll be Google … and they’ll take all the credit, which is why Google is worth so much and Twitter so little." - [source](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll)
 
 
-de-duplication through content addressing & adding traceability of content helps paint the picture what happened when and by who - aiding attribution. Infrastructure companies on which interfaces get deployed on can handle such tracking within them but since all the data is openly broadcasted competing services could offer alternative business models.
+de-duplication through content addressing & adding traceability of content helps paint the picture what happened when and by who - aiding attribution. Infrastructure companies on which applications get deployed on can handle such tracking within them but since all the data is openly broadcasted competing services could offer alternative business models.
 
 > "Whether it be circulation numbers for 19th-century newspapers (the start of the printed ads business), or Nielsen ratings for pre-cable TV that determined ads rates there, there’s never been a media ecosystem that didn’t have attribution." - [source](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll)
 
@@ -46,9 +46,9 @@ such infrastructure
 
 # Client attribution
 
-the way for a startup interface to get noticed
+the way for a startup application to get noticed
 
-the persistent URL of content is an advertisement of the interface by itself
+the persistent URL of content is an advertisement of the application by itself
 similar to twitter's client attribution
 
 
@@ -68,13 +68,13 @@ https://mattturck.com/the-power-of-data-network-effects/
 
 
 creators will need to shift how they monetize because there won't be platform lock-in & attribution :/
-or actually the interface attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.
+or actually the application attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.
 
 
 Value chain
 
 
-point of view: creating an interface without the ability to lock-in users is daunting - but what if most aspects of an interface are commercialized & offered as a service so creating a new interface is just the frontend? Substack lets you leave & take your subscribers with you - that's a conscious choice and they have decided to compete on the quality of service
+point of view: creating an application without the ability to lock-in users is daunting - but what if most aspects of an application are commercialized & offered as a service so creating a new application is just the frontend? Substack lets you leave & take your subscribers with you - that's a conscious choice and they have decided to compete on the quality of service
 
 Todo: takerate - what it is for other platforms and how it fits in headjack beyond youtube
 
@@ -100,9 +100,9 @@ https://www.youtube.com/watch?v=4IaOeVgZ-wc
 
 
 platform attribution - advertising 
-Interface names that were used to publish content can serve as advertising (interface attribution) for the platform that was chosen by a user when content is viewed through other interfaces because the original URIs will be shown and users will be able to click to view each piece of content through the originating interface if they choose to (if they've never heard of it before & are curious or if their current interface doesn't fully support a given message type).
+Application names that were used to publish content can serve as advertising (application attribution) for the platform that was chosen by a user when content is viewed through other applications because the original URIs will be shown and users will be able to click to view each piece of content through the originating application if they choose to (if they've never heard of it before & are curious or if their current application doesn't fully support a given message type).
 
-==> discoverability of new interfaces!
+==> discoverability of new applications!
 
 There will be a marketplace for every vertical - we need to democratize specialization & competition
 

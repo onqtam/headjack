@@ -8,7 +8,7 @@
 
 signal/noise ratio - message types & why we shouldn't wait for AI classification
 
-- fallback/default presentation/rendering - how to display content if an interface doesn't support a new activity type
+- fallback/default presentation/rendering - how to display content if an application doesn't support a new activity type
 
 tag type: disprove/correct - to combat misinformation & help crowdsource truth?
 
@@ -17,7 +17,7 @@ tag type: disprove/correct - to combat misinformation & help crowdsource truth?
 Why Headjack won't fall victim to stagnation and being stuck in time with this open standard and sort-of federation
 https://signal.org/blog/the-ecosystem-is-moving/
 - because messages will have default renderability
-- because you'll always be able to click on items that your interface cannot display properly and go to the interface that produced them and see them properly
+- because you'll always be able to click on items that your application cannot display properly and go to the application that produced them and see them properly
 
 message type/format: price predictions with percentage possibilities, so that later reputations can be plotted based on the message type
 
@@ -85,6 +85,6 @@ new types of messages get an on-chain ID so subscriptions are integer-based
 
 
 
-the <interface_id>/<interface_nonce> is embedded in a message that's being signed through an interface/IDM such that it cannot suffer from a replay attack
+the <application_id>/<application_nonce> is embedded in a message that's being signed through an application/IDM such that it cannot suffer from a replay attack
 
 -->

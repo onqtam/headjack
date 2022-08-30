@@ -50,7 +50,7 @@ https://twitter.com/liron/status/1547225903176028160 -->
 
 - [Napkin math for web-scale](numbers.md) is clear and front and center.
 
-- Best [UX](https://en.wikipedia.org/wiki/User_experience)/[DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](IDM.md)) for on-chain authorization of interfaces. A global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
+- Best [UX](https://en.wikipedia.org/wiki/User_experience)/[DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](IDM.md)) for on-chain authorization of applications. A global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
     - Users don't need keys & signatures and also don't care about the costs either.
     - Encapsulates the complexity in [UX](https://en.wikipedia.org/wiki/User_experience) & [DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) - the simplest mental model will win.
     - Full historical record of authorizations & ability to prove anything throughout time.

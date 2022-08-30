@@ -11,7 +11,7 @@
 
 - the OAuth-like experience - a major selling point, web2 feel
 
-- an open source "twitter core" so that others can spin up competing interfaces easily
+- an open source "twitter core" so that others can spin up competing applications easily
 
 - incentive to be earlier in the system - lower index proves that
 
@@ -87,5 +87,5 @@ In parallel:
         Based on existing standards & data models - ActivityPub
     Open source Twitter core (a centralized Twitter implementation)
     A for-profit Twitter clone utilizing the core
-    Other types of for-profit interfaces - unpinch?
+    Other types of for-profit applications - unpinch?
     Talking to other platforms & partnerships - Odysee, etc.

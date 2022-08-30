@@ -13,7 +13,7 @@ handle redirects? twitter.com => twitter, so that all content URLs use twitter a
 
 shortcuts/links/references?
 
-user nonces per interface :( - or maybe no need? or needed only for signed messages?
+user nonces per application :( - or maybe no need? or needed only for signed messages?
 
 Unexpirable URIs > unstoppable domains
 

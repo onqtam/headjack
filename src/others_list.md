@@ -102,7 +102,7 @@ One of the few solutions with their [own chain](https://www.frequency.xyz/) in t
 
 - Keypairs required even for delegated entities (although that can be reworked)
     https://spec.dsnp.org/DSNP/Identity#delegation
-    if delegation also happens through keys then they would also have to go into the blockchain state - making it much bigger. In Headjack an authorized interface is simply a few on-chain integers kept in the state (block ranges & account IDs) - no need to keep block ranges for delegated keys.
+    if delegation also happens through keys then they would also have to go into the blockchain state - making it much bigger. In Headjack an authorized application is simply a few on-chain integers kept in the state (block ranges & account IDs) - no need to keep block ranges for delegated keys.
     https://forums.projectliberty.io/t/shorts-one-public-key-is-not-enough/215/3
     1 key per device? bloat. inefficient.
     "Thus, we can only trust one thing: The actor signing this data had access to the private key."

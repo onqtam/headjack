@@ -6,7 +6,7 @@ There are 5 guiding principles when aiming for mass adoption & parity on conveni
 
     - >"Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
-- Must be simple and familiar - abstracting the complexity away. Users shouldn't have to manage keypairs on multiple devices & explicitly sign every interaction - by default they'll be logging into identity managers ([IDMs](IDM.md)) using email & pass / [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) and would then be using these IDMs as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) to authorize interfaces to post on their behalf. RSS was [too technical](https://twitter.com/mgsiegler/status/311992206716203008) and it failed - [`"people jumped ship as soon as something better came along"`](https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss).
+- Must be simple and familiar - abstracting the complexity away. Users shouldn't have to manage keypairs on multiple devices & explicitly sign every interaction - by default they'll be logging into identity managers ([IDMs](IDM.md)) using email & pass / [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) and would then be using these IDMs as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) to authorize applications to post on their behalf. RSS was [too technical](https://twitter.com/mgsiegler/status/311992206716203008) and it failed - [`"people jumped ship as soon as something better came along"`](https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss).
 
     - > "With consumer products, simple and “wrong” beats complicated and “right.”" - [@naval](https://twitter.com/naval/status/1542651322532384768)
 
@@ -14,7 +14,7 @@ There are 5 guiding principles when aiming for mass adoption & parity on conveni
 
 - Users shouldn't have to think about and pay for the storage of their data & blockchain interactions by default - costs & complexity should be shifted to services.
 - Users should be able to own their identity & connections in a sovereign way with a keypair **even if by default** their activity is managed by something resembling a custodial service.
-- Anyone should be able to have a pseudonymous identity, operate an [IDM](IDM.md), or serve media through an interface. Anyone must be able to publish & broadcast through Headjack using their identity - [moderation & censorship](moderation.md) will happen at the interface level.
+- Anyone should be able to have a pseudonymous identity, operate an [IDM](IDM.md), or serve media through an application. Anyone must be able to publish & broadcast through Headjack using their identity - [moderation & censorship](moderation.md) will happen at the application level.
 
 
 <!-- TODO: key pillar: must not be worse than current web2 -->

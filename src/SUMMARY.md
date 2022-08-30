@@ -47,7 +47,7 @@
     - [Tokenomics](tokenomics.md)
     - [Handles (names)](handles.md)
     - [Identity managers (IDM)](IDM.md)
-    - [Interface architectures](architecture.md)
+    - [Application architectures](architecture.md)
     - [Moderation](moderation.md)
     - [Open questions & concerns](concerns.md)
     - [Roadmap](roadmap.md)

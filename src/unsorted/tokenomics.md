@@ -3,7 +3,7 @@
 </div>
 
 
-If interfaces have to stake and leaving the stake has a queue they would have more incentive not to leave - sticky.
+If applications have to stake and leaving the stake has a queue they would have more incentive not to leave - sticky.
 
 Implement a fee-burn mechanism similar to EIP-1559 in Ethereum so that burnt fees will offset new token issuance as the project gains adoption.
 
@@ -31,6 +31,6 @@ The limits of paying for blockspace - alternative forms of value accrual for tok
 blockspace revenue is insufficient - forms of staking and ownership of the network are necessary to drive value to the token
 
 
-- value accrual of token - IDMs & interfaces required to stake the token depending on how many users depend on them?
+- value accrual of token - IDMs & applications required to stake the token depending on how many users depend on them?
 
 

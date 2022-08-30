@@ -10,7 +10,7 @@
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
     Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
 
-- What if the interface web2 website is no longer around?
+- What if the application web2 website is no longer around?
 
 - Topics such as $RUNE & hashtags - how do they get parsed?
 
@@ -27,11 +27,7 @@
 
 - telegram and such mass group chats & channels
 
-- figure out additional ways for CDN for content & keeping it up & alive besides just user & interface archiving
-
-- interface or application as the term? or view?
-    https://miro.medium.com/max/1400/0*6w3lPf5orl0ME-XL
-    https://polynya.medium.com/the-web3-stack-how-web3-will-offer-superior-ux-than-web2-6b8c82709163
+- figure out additional ways for CDN for content & keeping it up & alive besides just user & application archiving
 
 - read & think about permissions, sub-app/domain authorization, private data, "Data Access Controllers", "data domain"
     https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
@@ -54,7 +50,7 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - merge accounts?
 
-- talk about the fact that anything can be self-hosted - IDMs & interfaces
+- talk about the fact that anything can be self-hosted - IDMs & applications
 
 - look into DID methods
     https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods
