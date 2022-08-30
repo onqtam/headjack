@@ -39,6 +39,11 @@ such infrastructure
 
 
 
+The same infra company could have multiple sets of indexes with different filtration criteria
+
+
+
+
 > "For as long as humans have crafted disembodied versions of their voices, whether it be Pompeiian graffiti or the latest tweet, there have been attempts to both guide user attention in some remunerative direction, and measure the effectiveness of that attention-gathering." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
 
 > "The attention economy has always had its ledger and its cash register, and Web 3 will be no different."
