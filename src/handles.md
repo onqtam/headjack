@@ -5,7 +5,9 @@
 # Handles (names)
 
 <!-- A global mapping of `handle` (`string`) to X helps resolve queries. X contains:
-- 
+
+
+subdomains.
 
 - maybe they should not be properties of accounts but a separate map structure that just maps handles to IDs and on which block were they acquired? What would be traded - handles on IDs?
 

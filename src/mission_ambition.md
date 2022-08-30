@@ -18,9 +18,7 @@ https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 
 
 
-
-
-<!-- (borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106)) -->
+crowdsource
 
 We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
 
