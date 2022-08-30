@@ -65,7 +65,7 @@ Frontend code served by applications can be published and have its own URI. Upda
 
 # The global [Git](https://en.wikipedia.org/wiki/Git)
 
-We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything actually. We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this link for an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
+We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this link for an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
 
 
 Any step of the process should be a referencable event that others can comment on.

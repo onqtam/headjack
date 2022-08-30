@@ -1,5 +1,17 @@
 # To think about
 
+- Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
+    Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
+    TODO: how to address items from off-chain collections in the URI differently & better?
+    CHANGE THE URI MODEL! allow for this! make it more general!
+    sets/collections from an entity!
+
+
+- URI to show content published from application A through another application? how to share links from a specific application?
+
+- da pomislq: Kak tochno shte se proverqva authenticityto na private actions za accs bez keypair?
+
+- capabilities-based delegation
 - Think about scopes of authorization - multidimensionality
 
 - PROBLEM: what if a name is just a number - how does that impact URIs? there can be collisions... must find a way to resolve such conflicts
@@ -7,14 +19,9 @@
 
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
-- Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
-    Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
-
 - What if the application web2 website is no longer around?
 
 - Topics such as $RUNE & hashtags - how do they get parsed?
-
-- capabilities-based delegation
 
 - https://indieweb.org/Webmention
 
