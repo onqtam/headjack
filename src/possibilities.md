@@ -148,15 +148,11 @@ There are no limits to the types of queries we should be able to make - some sim
 
 Companies with complex indexes & private knowledge graphs could charge for running queries.
 
+# Forking media & communities
 
-<!-- 
-# communities and moderation
+Most applications will have some kind of moderation & filtration but at any point in time anyone will be able to create a competitor with a different set of rules and/or functionality. Migration can be seamless and the activity of accounts could (and in most cases will) be displayed in both at the same time - but they will signal the preferred application through the URIs of their public actions.
 
-- competing "subreddits" on the same topic with different moderators & content policies
-
-- tagged posts with 1 main tag would simply appear both in a reddit-like ranking and subgroup grouping, and also in a twitter-like platform with default rendering (or optionally showing the tag).
- -->
-
+Content coming from competitors could be completely banned but that would be shortsighted - data coming from somewhere else should be displayed as long as it is properly structured and actions from banned accounts can simply be shown as deleted in reply threads. Migration can be gradual with little fracturing of communities & the conversation.
 
 # The future of publishing
 
