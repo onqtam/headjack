@@ -11,3 +11,7 @@ Information is fragile without an ecosystem of identity, reputation, references,
 > "People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
 > "If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can." - [source](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
+
+
+<!-- 99.9% of content on the web is implicitly or explicitly contractually owned by platforms and host-certified - practically everything. -->
+

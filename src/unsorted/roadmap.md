@@ -63,6 +63,9 @@ hackatons:
 https://devpost.com/
 
 
+partner with the internet archive?
+
+
 need community & product
 https://www.shawkisukkar.com/2022/farcaster
 
