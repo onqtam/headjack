@@ -133,26 +133,20 @@ https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 
 # The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
 
-The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents it will be much easier for anyone to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way - allowing anyone to reuse their work. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable and easier for processing.
+The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
 
+<!-- crowdsourced annotation -->
 
+# Query anything
 
-semantic web - imagine being able to query something like "when has person X talked about the gut microbiome and has he recommended/mentioned a product or company?" There could be companies with private knowledge graphs that let you query that and pay per query - a few cents or a $
+There are no limits to the types of queries we should be able to make - some simple examples:
 
+- `"Plot a timeline for all references to an event and filter based on some criteria."`
+- `"Show me responses/references from high-trust individuals to the top 5 controversial statements of person X and sort them somehow."`
+- `"When has person X talked about the gut microbiome and have they recommended/mentioned a product or company?"`
+- `"Has anyone I follow or is connected up to N degrees of separation with me shared/mentioned X in the last Y days?"`
 
-Show me responses/references from high-trust individuals to the top 5 controversial statements of person X and sort them by some criteria
-
-
-Semantic web - we can crowdsource the annotation of text/audio/video and then analyze which posts are saying what - and identify them
-
-
-# Queries
-
-- We'll be able to plot a timeline for all references to an event and filter based on activity & type of references
-
-- imagine stumbling upon a video and saving it for later viewing. Later you decide to check where it got to you from - how do you query that? in a data-centric world you could run a query asking to see if anyone you follow has shared it
-
-quote-retweet something - and then later when viewing the discussion around the original content to be able to view the discussion from quote-retweets 1 level deep as well, or even 2
+Companies with complex indexes & private knowledge graphs could charge for running queries.
 
 
 <!-- 
