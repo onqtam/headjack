@@ -1,5 +1,7 @@
 # To think about
 
+- Think about scopes of authorization - multidimensionality
+
 - PROBLEM: what if a name is just a number - how does that impact URIs? there can be collisions... must find a way to resolve such conflicts
     - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
 
@@ -45,6 +47,8 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
     on chain retroactive revocation is important (for up to a week) because otherwise with off-chain tombstones the chain will still be able to generate valid proofs for invalid content as the chain doesn't see anything off of it
 
     uncomment and show again the `# On proof permanence` part of uris.md
+
+- What would browsers become?
 
 # Postponed
 

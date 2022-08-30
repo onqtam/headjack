@@ -3,6 +3,23 @@
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
 ) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. Evolution is 99.9% memetic & accelerating exponentially - media is fundamental.
 
+our biggest problems stem from lack of coordination
+https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+
+hivemind.
+
+
+At the root of the greatest challenges to humanity lie coordination failures
+
+
+> technology increases the efficiency of manufacturing consent in the same way it increases the efficiency of manufacturing everything else
+> Coordination is what’s left. And technology has the potential to seriously improve coordination efforts.
+https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+
+
+
+
+
 <!-- (borrowed from [Sreeram Kannan](https://youtu.be/DikrWN39Hts?t=106)) -->
 
 We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
@@ -31,6 +48,10 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 <!-- lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level -->
 
 <!-- Mission: minimize friction, complexity, and uncertainty -->
+
+<!-- slay moloch
+https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ -->
+
 
 # Bottom-up media & the decentralized town square
 

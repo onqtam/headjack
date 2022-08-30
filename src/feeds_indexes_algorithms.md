@@ -56,3 +56,4 @@ We need control over feeds
 
 Instead of a feed the home page could be a dashboard that shows areas of interest of your social graph and being able to selectively dive deeper in whatever you decide - feeds are primitive and extremely limiting
 
+what if reactions from reputable people were taken into account by recommendation algorithms so that untrue things get downregulated that way?

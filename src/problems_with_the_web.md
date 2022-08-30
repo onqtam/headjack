@@ -8,6 +8,8 @@ One major problem of the current internet architecture is that documents are hos
 
 TODO: mention the lack of authenticity as a major problem
 
+TODO: Surveillance capitalism
+
 # Lack of composability & interoperability
 
 <!--

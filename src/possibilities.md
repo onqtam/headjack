@@ -101,6 +101,9 @@ fork wikipedia?
 
 - peer review can (and should) be reimplemented on top of infrastructure like this
 
+12. Science. Same essay:
+https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+
 
 - the ledger of record - science
     peer review & citations can be encoded with tags/messages
