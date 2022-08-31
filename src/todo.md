@@ -6,6 +6,7 @@
     CHANGE THE URI MODEL! allow for this! make it more general!
     sets/collections from an entity!
 
+- figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
 
 - URI to show content published from application A through another application? how to share links from a specific application?
 
