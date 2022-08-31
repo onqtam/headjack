@@ -65,7 +65,7 @@ Frontend code served by applications can be published and have its own URI. Upda
 
 # The global [Git](https://en.wikipedia.org/wiki/Git)
 
-We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this link for an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
+We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this as an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
 
 
 Any step of the process should be a referencable event that others can comment on.
@@ -150,47 +150,74 @@ Companies with complex indexes & private knowledge graphs could charge for runni
 
 # Forking media & communities
 
-Most applications will have some kind of moderation & filtration but at any point in time anyone will be able to create a competitor with a different set of rules and/or functionality. Migration can be seamless and the activity of accounts could (and in most cases will) be displayed in both at the same time - but they will signal the preferred application through the URIs of their public actions.
+Most applications will have some kind of moderation & filtration but at any point in time anyone will be able to create a competitor with a different set of rules and/or functionality. Migration can be seamless and the activity of accounts could (and in most cases will) be displayed in both at the same time - but the preferred application will be signaled through the URIs of public actions.
 
 Content coming from competitors could be completely banned but that would be shortsighted - data coming from somewhere else should be displayed as long as it is properly structured and actions from banned accounts can simply be shown as deleted in reply threads. Migration can be gradual with little fracturing of communities & the conversation.
 
-# The future of publishing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The future of publishing, knowledge & learning
+
+Books as a medium imply transmissionism as the learning model - `"people absorb knowledge by reading sentences"` - which is wildly incorrect and insufficient. Let's ask this question:
+
+> "How might we design mediums which do the job of a non-fiction book—but which actually work reliably?" - [Andy Matuschak - “Why books don’t work”](https://andymatuschak.org/books/)
+
+Here's a good start:
+
+- Outline as hierarchical expandable trees (like in GitBook) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)
+    > "Books should be structured as expandable trees. One paragraph summary of each chapter, expandable into summaries of component points/stories, expandable into the full text. Can read the whole book in 5 minutes or 5 hours." - [Fred Ehrsam](https://twitter.com/FEhrsam/status/1304217384962592769)
+- Interactive [executable documents](https://en.wikipedia.org/wiki/Project_Jupyter) with exercises & examples embedded in pages.
+- Note taking, flash cards, etc.
+
+But that's just scratching the surface - deduplicated open data, persistent URIs linked to identity, [intra-document addressing](#intra-document-addressing), and the ability to cache resources with proofs enables a lot more:
+- View the discussion around any external document referenced with a URI - or parts of the book itself as they could also have their own URIs - or even paragraphs & social highlights!
+- Use tools like [Logseq](https://logseq.com/), [Roam Research](https://roamresearch.com/) & [Obsidian](https://obsidian.md/) but on top of stable URIs & the [semantic web](#the-semantic-web-aka-the-original-web3) to build your own knowledge base as [bookmarks](#bookmarks--playlists) & a graph and share it if you want.
+- Publications can be self-contained and permanent by including everything external for offline use with proofs for authenticity - that's how journalism should be done.
+- Visualize your progress of going through an interconnected book as a color-coded map - an overview of what you've already looked at, how much time you've spent, and what's left.
+
+We can leverage a lot of what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - there could be multiple presentations for people to approach it differently or even in a parallel way - see [Francis Miller's work](https://www.francismiller.com/). Linear non-interactive papers & PDFs are a thing of the past and incredibly limiting - Headjack doesn't have a whitepaper for a reason.
+
+Let's empower storytellers:
+
+Imagine constructing stories as graphs of interconnected documents, concepts & entities by pulling from the semantic web and the global open internet while wearing a VR headset and publishing that as a self-contained & authentic package that anyone can save offline, explore & contribute to.
 
 > "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
 
-focus on de-duplication & being able to explore any edge between concepts & URIs and the public discourse around URIs
-
-TODO: exportable graph stories & interactive storytelling
-
-the future of publishing - books, articles & interactive content graphs
 
 
-- Imagine the possible visualizations on the graph data of the hivemind
-    - imagine a 3d spacial graph of the interconnected knowledge you should learn, and how as you progress you color the edges to the ideas you're studiying on as a progress bar. continue from wherever you want after pausing, explore the datapoints & the interconnectedness. Imagine shipping a 5GB graph in such software for anyone to experience the ideas someone is trying to communicate to them
-    - imagine creating explanatory videos for each edge (connections between things in life) - saying how the 2 things interplay, and why
-    - imagine wearing a VR headset while constructing your stories as graphs constructed with anchored data
-
-
-Imagine what Balaji could do if he had everything easily referencable through a logseq-like application
-
-
-on books:
-https://twitter.com/FEhrsam/status/1304217384962592769
-
-
-Linked data is essential for discoverability & ingestion of information - this gitbook is an example of that - contrast to what it would be if it was a linear whitepaper. The whole web can be interlinked like this.
-
-every journalist should be able to use something like logseq and construct their stories with referencable facts - timestamped & crypto provable
-
-Write about the story for a journalist using a tool like that and constructing interlinked stories... that needs a page on its own
+<!-- > "transform the pace of human knowledge, echoing the transformation which books themselves sparked so long ago" - [Andy Matuschak - “Why books don’t work”](https://andymatuschak.org/books/) -->
 
 
 
 
-PDFs are a horrendous format
-PDFs ^ word filters should contain everything and have authentic links
 
-
-
-TODO: articles can include the data for whatever they reference & even provide the merkle proofs for those - self-contained, complete & permanent publications
 

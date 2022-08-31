@@ -45,6 +45,8 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 
 <!-- lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level -->
 
+- empower storytellers by [improving books and publications](possibilities.md#the-future-of-publishing-knowledge--learning)
+
 <!-- Mission: minimize friction, complexity, and uncertainty -->
 
 <!-- slay moloch

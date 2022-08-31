@@ -56,7 +56,7 @@ the way for a startup application to get noticed
 the persistent URL of content is an advertisement of the application by itself
 similar to twitter's client attribution
 
-
+platforms that can't properly display a message type natively will direct users to the application that published it
 
 Ads themselves are not the root evil - it's the lack of choice & ability to exit in the current monopolistic world due to the benefits of vertical integration in the current host-centric paradigm
 
