@@ -173,7 +173,7 @@ But that's just scratching the surface - deduplicated open data, persistent URIs
 - Publications can be self-contained and permanent by including everything external for offline use with proofs for authenticity - that's how journalism should be done.
 - Visualize your progress of going through an interconnected book as a color-coded map - an overview of what you've already looked at, how much time you've spent, and what's left.
 
-We can leverage what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - multi-level content (short vs detailed), different presentations (text, diagrams, graphs), etc. - see [Francis Miller's work](https://www.francismiller.com/).
+We can leverage what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - multi-level content (short vs detailed), different presentations (text, diagrams, graphs, knowledge maps), etc. - see [Francis Miller's work](https://www.francismiller.com/).
 
 **Imagine constructing stories as interconnected documents, concepts & entities while wearing a VR headset by pulling from the semantic web & the open internet and publishing that as a self-contained & authentic package that anyone can save offline, explore & build upon.**
 
