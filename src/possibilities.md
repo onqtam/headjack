@@ -187,37 +187,27 @@ Content coming from competitors could be completely banned but that would be sho
 
 # The future of publishing, knowledge & learning
 
-Books as a medium imply transmissionism as the learning model - `"people absorb knowledge by reading sentences"` - which is wildly incorrect and insufficient. Let's ask this question:
+Books as a medium imply transmissionism as the learning model - `"people absorb knowledge by reading sentences"` - which is wildly incorrect and inefficient. Let's ask this question:
 
 > "How might we design mediums which do the job of a non-fiction book—but which actually work reliably?" - [Andy Matuschak - “Why books don’t work”](https://andymatuschak.org/books/)
 
-Here's a good start:
+Non-interactive linear PDFs are incredibly limiting and a thing of the past. Here's a good start:
 
-- Outline as hierarchical expandable trees (like in GitBook) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)
-    > "Books should be structured as expandable trees. One paragraph summary of each chapter, expandable into summaries of component points/stories, expandable into the full text. Can read the whole book in 5 minutes or 5 hours." - [Fred Ehrsam](https://twitter.com/FEhrsam/status/1304217384962592769)
-- Interactive [executable documents](https://en.wikipedia.org/wiki/Project_Jupyter) with exercises & examples embedded in pages.
+- Outlines as hierarchical expandable trees (like in GitBook) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)
+    <!-- > "Books should be structured as expandable trees. One paragraph summary of each chapter, expandable into summaries of component points/stories, expandable into the full text. Can read the whole book in 5 minutes or 5 hours." - [Fred Ehrsam](https://twitter.com/FEhrsam/status/1304217384962592769) -->
+- Interactive [executable programs](https://en.wikipedia.org/wiki/Project_Jupyter) with exercises & examples embedded in documents.
 - Note taking, flash cards, etc.
 
 But that's just scratching the surface - deduplicated open data, persistent URIs linked to identity, [intra-document addressing](#intra-document-addressing), and the ability to cache resources with proofs enables a lot more:
-- View the discussion around any external document referenced with a URI - or parts of the book itself as they could also have their own URIs - or even paragraphs & social highlights!
+- View the discussion and comment on anything referenced externally with a URI - or parts of the book itself as they could also have their own URIs - or even paragraphs!
 - Use tools like [Logseq](https://logseq.com/), [Roam Research](https://roamresearch.com/) & [Obsidian](https://obsidian.md/) but on top of stable URIs & the [semantic web](#the-semantic-web-aka-the-original-web3) to build your own knowledge base as [bookmarks](#bookmarks--playlists) & a graph and share it if you want.
 - Publications can be self-contained and permanent by including everything external for offline use with proofs for authenticity - that's how journalism should be done.
 - Visualize your progress of going through an interconnected book as a color-coded map - an overview of what you've already looked at, how much time you've spent, and what's left.
 
-We can leverage a lot of what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - there could be multiple presentations for people to approach it differently or even in a parallel way - see [Francis Miller's work](https://www.francismiller.com/). Linear non-interactive papers & PDFs are a thing of the past and incredibly limiting - Headjack doesn't have a whitepaper for a reason.
+We can leverage what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - there could be multiple presentations for people to approach them in different ways or even in parallel - see [Francis Miller's work](https://www.francismiller.com/).
 
-Let's empower storytellers:
-
-Imagine constructing stories as graphs of interconnected documents, concepts & entities by pulling from the semantic web and the global open internet while wearing a VR headset and publishing that as a self-contained & authentic package that anyone can save offline, explore & contribute to.
+**Imagine constructing stories as interconnected documents, concepts & entities while wearing a VR headset by pulling from the semantic web & the open internet and publishing that as a self-contained & authentic package that anyone can save offline, explore & build upon.**
 
 > "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
 
-
-
-<!-- > "transform the pace of human knowledge, echoing the transformation which books themselves sparked so long ago" - [Andy Matuschak - “Why books don’t work”](https://andymatuschak.org/books/) -->
-
-
-
-
-
-
+Let's empower them.
