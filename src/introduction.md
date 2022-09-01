@@ -6,6 +6,7 @@
 {{#include images/Untitled-2022-06-08-1154.svg}}
 <!-- </div> -->
 <!-- have to manually remove the size of the svg tag from the file after each export -->
+also should replace href="https:// with href=" after each export
 <!-- https://github.com/rust-lang/mdBook/issues/773 -->
 
 Headjack is a blockchain that links sovereign identities to content at [web-scale](web_scale.md). Key points:
