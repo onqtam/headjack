@@ -160,7 +160,9 @@ Books as a medium imply transmissionism as the learning model - `"people absorb 
 
 > "How might we design mediums which do the job of a non-fiction book—but which actually work reliably?" - [Andy Matuschak - “Why books don’t work”](https://andymatuschak.org/books/)
 
-Non-interactive linear PDFs are incredibly limiting and a thing of the past. Here's a good start:
+<!-- Non-interactive linear PDFs are incredibly limiting and a thing of the past. -->
+
+Here's a good start:
 
 - Outlines as hierarchical expandable trees (like in GitBook) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)
     <!-- > "Books should be structured as expandable trees. One paragraph summary of each chapter, expandable into summaries of component points/stories, expandable into the full text. Can read the whole book in 5 minutes or 5 hours." - [Fred Ehrsam](https://twitter.com/FEhrsam/status/1304217384962592769) -->
@@ -173,7 +175,11 @@ But that's just scratching the surface - deduplicated open data, persistent URIs
 - Publications can be self-contained and permanent by including everything external for offline use with proofs for authenticity - that's how journalism should be done.
 - Visualize your progress of going through an interconnected book as a color-coded map - an overview of what you've already looked at, how much time you've spent, and what's left.
 
-We can leverage what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - multi-level content (short vs detailed), different presentations (text, diagrams, graphs, knowledge maps), etc. - see [Francis Miller's work](https://www.francismiller.com/).
+<!-- We can leverage what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - multi-level content (short vs detailed), different presentations (text, diagrams, graphs, knowledge maps), etc. -->
+
+<!-- see [Francis Miller's work](https://www.francismiller.com/) - or don't - too much repetition and not that much insight -->
+
+
 
 **Imagine constructing stories as interconnected documents, concepts & entities while wearing a VR headset by pulling from the semantic web & the open internet and publishing that as a self-contained & authentic package that anyone can save offline, explore & build upon.**
 
