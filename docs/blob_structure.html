@@ -147,6 +147,7 @@
                         <h1 id="blob-structure--addressing"><a class="header" href="#blob-structure--addressing">Blob structure &amp; addressing</a></h1>
 <p>Applications accumulate off-chain activity from users which they cryptographically anchor in batches with a <a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle root</a> and they determine how often to do so (it doesn't have to be on every block) - those with little activity may submit only once per minute or even less often - the frequency is determined by platforms based on the volume of activity and the on-chain costs for publishing bytes. When enough activity has been collected it is packed in a blob and all the events generated since the last anchored batch are sorted &amp; grouped by users in some deterministic way &amp; schema (users based on index/name and user interactions based on the type/sequence).</p>
 <img src="images/blob_structure.png">
+<!-- <object width=100% data="images/blob_structure.svg"></object> -->
 <p>When a batch is finalized an application does the following:</p>
 <ol>
 <li>It generates the blob header which contains the intra-blob index (offset table) for lookup of content of specific accounts.</li>

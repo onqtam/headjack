@@ -1,5 +1,13 @@
 # Headjack - the base layer of cyberspace
 
+<!-- <object width=100% data="images/Untitled-2022-06-08-1154.svg"></object> -->
+
+<!-- <div width=100% style="background-color:green; overflow:auto;"> -->
+{{#include images/Untitled-2022-06-08-1154.svg}}
+<!-- </div> -->
+<!-- have to manually remove the size of the svg tag from the file after each export -->
+<!-- https://github.com/rust-lang/mdBook/issues/773 -->
+
 Headjack is a blockchain that links sovereign identities to content at [web-scale](web_scale.md). Key points:
 
 - Creation is fundamentally different from transfers and exchange of value - the design space around trust & data availability for media and identity is different from finance.
