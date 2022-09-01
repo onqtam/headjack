@@ -4,6 +4,8 @@ Applications accumulate off-chain activity from users which they cryptographical
 
 <img src="images/blob_structure.png">
 
+<!-- <object width=100% data="images/blob_structure.svg"></object> -->
+
 When a batch is finalized an application does the following:
 
 1. It generates the blob header which contains the intra-blob index (offset table) for lookup of content of specific accounts.
