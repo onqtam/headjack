@@ -15,4 +15,6 @@ The only 2 things that are signed & submitted on-chain are thus the Merkle root 
 
 <!-- <object width=100% data="images/blob_structure.svg"></object> -->
 
+# Stable intra-blob addressing before publishing
+
 Applications maintain the logical order of events for the future batch in maps in order to provide intra-blob addressing even before it is fully constructed - as an example if a user posts an article and immediately after that comments on their own post - the comment should be able to refer to the post which is not yet committed on-chain. Applications will also display activity by other accounts that is not yet anchored and the interactions can still use the proper addressing when referring to the yet-to-be-anchored messages (the next nonce number is known in advance). Any type of interaction is addressable and sequenced in the blobs - including reactions (likes, etc).
