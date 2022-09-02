@@ -562,6 +562,7 @@ Chainlink authenticated data origination
 <!-- The 2 can be extracted from the block. -->
 <img src="images/blob_URI.png">
 <p>Once a blob is fetched through the <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> (hash) we can address specific events by utilizing the offset index in the blob header so a URI such as <code>&lt;application_id&gt;/&lt;nonce&gt;/&lt;user_id&gt;/&lt;content_id&gt;</code> can point to a specific post, comment or even reaction (activity is grouped by users). The content ID for a specific user is usually a small single-digit number and is necessary only if there has been more than 1 interaction by that user through that application for the given nonce (maybe rare).</p>
+<img src="images/content_references.png">
 <p>The blockchain can be queried if the application was allowed to post content on behalf of the user through on-chain authorization (probably done through an <a href="IDM.html">IDM</a>) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given application was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their actions in which case their data will be accompanied by signatures within the data blobs and the only check required will be for the user keypair used for the specific block number. To recap - to prove the authenticity of any event with a URI:</p>
 <ul>
 <li>First check if the data is actually part of an anchored blob with a <a href="https://medium.com/crypto-0-nite/merkle-proofs-explained-6dd429623dc5">Merkle proof</a> to a block.</li>
@@ -616,10 +617,10 @@ Note that there can be many different &amp; valid proofs for the same URI from d
 <p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example, when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example, <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before. Even <a href="https://twitter.com/dwr/status/1544001073844731904">individual pages &amp; paragraphs of books</a> should be referencable in such a manner and could be composed of multiple separate posts - and this is just scratching the surface!</p>
 <p>For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="storage--retrievability-of-data"><a class="header" href="#storage--retrievability-of-data">Storage &amp; retrievability of data</a></h1>
-<h1 id="how-to-retrieve-blobs--content-for-a-uri"><a class="header" href="#how-to-retrieve-blobs--content-for-a-uri">How to retrieve blobs &amp; content for a URI</a></h1>
-<p>There are multiple ways to retrieve blobs &amp; content for specific URIs from the past:</p>
+<!-- # How to retrieve blobs & content for a URI -->
+<p>Most applications and infrastructure will be fetching &amp; processing each anchored blob as it is published. For blobs and &amp; content for specific URIs from the past there are multiple options:</p>
 <ul>
-<li>The original <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> might still be retrievable from the original application account that posted it or any other that has pinned the data.</li>
+<li>The original <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> might still be retrievable from the original application account that posted it or anyone else that has pinned the data.</li>
 <li>The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their messages.</li>
 <li>Other well-known players without a direct on-chain connection to the application/user in a URI could be asked if they have the content:
 <ul>
@@ -634,10 +635,10 @@ Note that there can be many different &amp; valid proofs for the same URI from d
 
 One thing to consider is if a user revokes the authorization of an application to post on their behalf retroactively - not just going forward but also invalidating all anchored content & follow/unfollow events for the last couple of days through that application. This would mean that cached Merkle proofs for such invalidated content will no longer be valid and the latest state of the blockchain will refuse to produce new such proofs, but the cached proofs could mislead someone. Retroactive revocation can happen only up to `X` days to limit the scope of changes to cached proofs & what infrastructure would need to handle but still give enough time for anyone to react in case an application has posted fraudulent activity on their behalf - a **mostly theoretical concern**. Proofs for blocks older than `X` days are therefore considered permanent.
 -->
-<img src="images/content_references.png">
 <h1 id="optimal-content-delivery"><a class="header" href="#optimal-content-delivery">Optimal content delivery</a></h1>
 <p>The blobs may be in a hierarchy such that the on-chain IPFS hash points only to the &quot;root&quot; blob that contains the header and the actual indexed data could be in child IPFS blobs (whose <a href="https://docs.ipfs.io/concepts/content-addressing/">IPFS CID</a> is contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which &quot;leaf&quot; blobs they need to fetch for the data they are interested in (if any). Note that even private <a href="https://en.wikipedia.org/wiki/Intranet">intranet</a> data may be anchored but not retrievable by the public if the blob IPFS CID is never published or pinned/hosted - unified addressing for public &amp; private.</p>
 <img src="images/root_child_blob_separation.png">
+<h1 id="sharing-data-before-publishing-it-in-a-blob"><a class="header" href="#sharing-data-before-publishing-it-in-a-blob">Sharing data before publishing it in a blob</a></h1>
 <p>Applications are yet another on-chain account and they'll be able to associate a REST/RPC endpoint or any other means for direct contact by the rest of the applications so that they may ask for the yet unanchored messages and display them while they are still in the &quot;mempool&quot;. They can also advertise the multiaddress of their IPFS nodes so that each successive blob of generated content that gets published can be downloaded by others instantly by manually connecting with IPFS’s <a href="https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986">“swarm connect” functionality</a> - avoiding the use of the <a href="https://en.wikipedia.org/wiki/Distributed_hash_table">DHT</a> for each new blob CID which may take tens of minutes. They can provide addresses to multiple IPFS nodes as a cluster for horizontal scaling and use <a href="https://ipfscluster.io/">Pinset orchestration</a> - designed for Automated data availability and redundancy.</p>
 <p>Applications may choose not to use IPFS at all - what they must do is anchor their blobs with a Merkle root and provide some on-chain advertised means to retrieve the data (example: REST/RPC endpoints in their account). We expect that IPFS will be the lowest common denominator and will always be used no matter what other solutions are also available.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="web-scale--ux"><a class="header" href="#web-scale--ux">Web-scale &amp; UX</a></h1>
@@ -1401,52 +1402,68 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <p>This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.</p>
 <h1 id="code-as-addressable-data"><a class="header" href="#code-as-addressable-data">Code as addressable data</a></h1>
 <p>Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.</p>
-<h1 id="the-global-git"><a class="header" href="#the-global-git">The global <a href="https://en.wikipedia.org/wiki/Git">Git</a></a></h1>
-<p>We can intertwine Wikipedia, open source code, science &amp; peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what <a href="https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/">The Internet Archive provides</a> - see <a href="https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches">this as an example</a>.</p>
-<p>Any step of the process should be a referencable event that others can comment on.</p>
-<p>a slider for filtering/jumping through time like in discourse
-https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231</p>
+<!-- 
+# The global [Git](https://en.wikipedia.org/wiki/Git)
+
+We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this as an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
+
+
+Any step of the process should be a referencable event that others can comment on.
+
+
+
+
+a slider for filtering/jumping through time like in discourse
+https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231 -->
 <!-- https://twitter.com/radicle
 https://twitter.com/gitopiaDAO -->
-<h1 id="wikipedia"><a class="header" href="#wikipedia">wikipedia</a></h1>
-<p>Wikipedia needs to be rebuilt on this - imagine a q&amp;a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary</p>
-<p>wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to &quot;edit&quot; &amp; publish a new version of an item</p>
-<p>fork wikipedia?</p>
-<ul>
-<li>imagine wikipedia being rebuilt on top of this
-<ul>
-<li>dead links? thing of the past - can be cached locally &amp; preserved with merkle proofs</li>
-<li>imagine wikipedia being forked with a different set of moderators - like in git</li>
-<li>imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change</li>
-</ul>
-</li>
-</ul>
-<h1 id="science-and-peer-review"><a class="header" href="#science-and-peer-review">science and peer review</a></h1>
-<ul>
-<li>peer review can (and should) be reimplemented on top of infrastructure like this</li>
-</ul>
-<ol start="12">
-<li>Science. Same essay:
-https://slatestarcodex.com/2014/07/30/meditations-on-moloch/</li>
-</ol>
-<ul>
-<li>
-<p>the ledger of record - science
-peer review &amp; citations can be encoded with tags/messages</p>
-<p>How does crypto realign science with reproducibility?
-https://twitter.com/manveerbasra_/status/1555405612506157056</p>
-<p>Composable science is reproducible science.
-https://twitter.com/balajis/status/1555458319070167040</p>
-<p>the digital part of scientific papers can be replicatable locally</p>
-<p>digital chain of custody for papers &amp; science</p>
-<p>science should be like open source - replicated &amp; verified many times like code is compiled &amp; ran</p>
-<p>Laws should be referable and commentable. They should be written in public &amp; made available in the same way as open source code is</p>
-<p>https://twitter.com/balajis/status/1557247912874086400
-https://twitter.com/bensprecher/status/1557351733382225920</p>
-<p>on-chain papers
-https://twitter.com/balajis/status/1556579944754384897</p>
-</li>
-</ul>
+<!-- 
+# wikipedia
+
+Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
+
+wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
+
+fork wikipedia?
+
+
+- imagine wikipedia being rebuilt on top of this
+    - dead links? thing of the past - can be cached locally & preserved with merkle proofs
+    - imagine wikipedia being forked with a different set of moderators - like in git
+    - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
+
+
+# science and peer review
+
+- peer review can (and should) be reimplemented on top of infrastructure like this
+
+12. Science. Same essay:
+https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
+
+
+- the ledger of record - science
+    peer review & citations can be encoded with tags/messages
+
+    How does crypto realign science with reproducibility?
+    https://twitter.com/manveerbasra_/status/1555405612506157056
+
+    Composable science is reproducible science.
+    https://twitter.com/balajis/status/1555458319070167040
+
+    the digital part of scientific papers can be replicatable locally
+
+    digital chain of custody for papers & science
+
+    science should be like open source - replicated & verified many times like code is compiled & ran
+
+    Laws should be referable and commentable. They should be written in public & made available in the same way as open source code is
+
+    https://twitter.com/balajis/status/1557247912874086400
+    https://twitter.com/bensprecher/status/1557351733382225920
+
+    on-chain papers
+    https://twitter.com/balajis/status/1556579944754384897
+ -->
 <h1 id="the-semantic-web-aka-the-original-web3"><a class="header" href="#the-semantic-web-aka-the-original-web3">The <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (a.k.a. the original &quot;Web3&quot;)</a></h1>
 <p>The biggest hurdle for its adoption has been the <a href="host_centric.html">host-centric</a> paradigm and the hoarding of data in silos with no incentive for exporting &amp; interoperability - Headjack changes that through <a href="data_centric.html">data-centric addressing</a> &amp; broadcasting by default. While there will always be companies that enrich &amp; tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public <a href="https://en.wikipedia.org/wiki/Giant_Global_Graph">Giant Global Graph</a> outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different <a href="messages.html">message types</a> and further annotations will make everything a lot more machine-readable.</p>
 <!-- crowdsourced annotation -->

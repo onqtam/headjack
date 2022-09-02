@@ -1,9 +1,10 @@
 # Storage & retrievability of data
 
-# How to retrieve blobs & content for a URI
+<!-- # How to retrieve blobs & content for a URI -->
 
-There are multiple ways to retrieve blobs & content for specific URIs from the past:
-- The original [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) might still be retrievable from the original application account that posted it or any other that has pinned the data.
+Most applications and infrastructure will be fetching & processing each anchored blob as it is published. For blobs and & content for specific URIs from the past there are multiple options:
+
+- The original [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) might still be retrievable from the original application account that posted it or anyone else that has pinned the data.
 - The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their messages.
 - Other well-known players without a direct on-chain connection to the application/user in a URI could be asked if they have the content:
     - Infrastructure companies that do the heavy lifting for applications and store everything.
@@ -19,13 +20,13 @@ One thing to consider is if a user revokes the authorization of an application t
 
 
 
-<img src="images/content_references.png">
-
 # Optimal content delivery
 
 The blobs may be in a hierarchy such that the on-chain IPFS hash points only to the "root" blob that contains the header and the actual indexed data could be in child IPFS blobs (whose [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) is contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which "leaf" blobs they need to fetch for the data they are interested in (if any). Note that even private [intranet](https://en.wikipedia.org/wiki/Intranet) data may be anchored but not retrievable by the public if the blob IPFS CID is never published or pinned/hosted - unified addressing for public & private.
 
 <img src="images/root_child_blob_separation.png">
+
+# Sharing data before publishing it in a blob
 
 Applications are yet another on-chain account and they'll be able to associate a REST/RPC endpoint or any other means for direct contact by the rest of the applications so that they may ask for the yet unanchored messages and display them while they are still in the "mempool". They can also advertise the multiaddress of their IPFS nodes so that each successive blob of generated content that gets published can be downloaded by others instantly by manually connecting with IPFS’s [“swarm connect” functionality](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986) - avoiding the use of the [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table) for each new blob CID which may take tens of minutes. They can provide addresses to multiple IPFS nodes as a cluster for horizontal scaling and use [Pinset orchestration](https://ipfscluster.io/) - designed for Automated data availability and redundancy.
 
