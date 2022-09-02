@@ -53,6 +53,7 @@ This can be pushed further - any composition/remix/meme of media could contain t
 
 Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
 
+<!-- 
 # The global [Git](https://en.wikipedia.org/wiki/Git)
 
 We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this as an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
@@ -64,14 +65,14 @@ Any step of the process should be a referencable event that others can comment o
 
 
 a slider for filtering/jumping through time like in discourse
-https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231
+https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231 -->
 
 
 <!-- https://twitter.com/radicle
 https://twitter.com/gitopiaDAO -->
 
 
-
+<!-- 
 # wikipedia
 
 Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
@@ -117,7 +118,7 @@ https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 
     on-chain papers
     https://twitter.com/balajis/status/1556579944754384897
-
+ -->
 
 
 
