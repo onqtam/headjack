@@ -30,4 +30,6 @@ Concern with centralization of infrastructure - but theres no way to improve it
 Concern: status inequality - even if one platform and set of algorithms let newcomers have a chance, other platforms may not. But maybe it balances on aggregate
 
 
+- what happens if an event that's not anchored yet becomes illegitimate by an IDM unauthorizing an application before the content is anchored? Confusing for people...
+
 

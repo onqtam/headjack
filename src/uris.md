@@ -20,7 +20,7 @@ To recap - to prove the authenticity of any event with a URI:
     - Either if at that point the application was authorized to post on behalf of the user which would require a Merkle proof for a part of the blockchain state (authorization ranges).
     - Or by checking for an explicit signature & the public key of that account at that time which would also require a Merkle proof for a part of the blockchain state (account key history).
 
-This is what makes URIs persistent - as long as someone hosts either the content + the Merkle proof or the entire blob and knows in which block it was anchored (from the `<account_id>/<nonce>` => `<block_number>` mapping). The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if user/application names change ownership at some point).
+This is what makes URIs persistent - as long as someone hosts either the content + the Merkle proof or the entire blob and knows in which block it was anchored (from the `<application_id>/<nonce>` => `<block_number>` mapping). The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if user/application names change ownership at some point).
 
 # A few other notes
 

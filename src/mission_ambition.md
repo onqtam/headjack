@@ -52,6 +52,12 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 <!-- slay moloch
 https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ -->
 
+<h1 align=center>
+    Link actions & events to identity
+</h1>
+<div style="text-align: center;">
+    <img src="images/one_chain_to_link_them_all_small.jpg">
+</div>
 
 # Bottom-up media & the decentralized town square
 
