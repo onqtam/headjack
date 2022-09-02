@@ -1,16 +1,15 @@
 # Storage & retrievability of data
 
-Off-chain blobs with data will be fetched, processed and stored in more optimal database formats for content to be later directly served by application infrastructure immediately after they are published. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request an on-chain proof for any event at any time (& cache it locally) as they can be regenerated on the fly as necessary.
+Off-chain blobs with data will be fetched, processed and stored in more optimal database formats for content to be later directly served by application infrastructure immediately after they are published. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request on-chain proofs for any event at any time (& cache them locally) as they can be regenerated on the fly as necessary.
 
-# Fetching only parts of data blobs
+# Hierarchical off-chain data blobs
 
-The blobs may be in a hierarchy such that the on-chain IPFS hash points only to the "root" blob that contains the header and the actual indexed data could be in child IPFS blobs (whose [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) is contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which "leaf" blobs they need to fetch for the data they are interested in (if any).
+Blobs may be in a hierarchy such that the on-chain IPFS hash points only to the "root" blob that contains the header and the actual indexed data could be in child IPFS blobs (whose [IPFS CIDs](https://docs.ipfs.io/concepts/content-addressing/) are contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which "leaf" blobs they need to fetch for the data they are interested in (if any).
 
 <img src="images/root_child_blob_separation.png">
 
-# How to retrieve a URI from the past
+# How to retrieve data from an old URI
 
-<!-- For blobs & content for specific URIs from the past -->
 There are multiple options:
 
 - The entire original blob with an [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) might still be retrievable from the original application account that posted it or anyone else that has pinned the data.
