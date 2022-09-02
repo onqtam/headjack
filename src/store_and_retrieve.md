@@ -1,6 +1,6 @@
 # Storage & retrievability of data
 
-Off-chain blobs with data will be fetched, processed and stored in more optimal database formats for content to be later directly served by application infrastructure immediately after they are published. Most of the cryptography checks will be happening instantly during this process. Users will always be able to request an on-chain proof for any event and the proofs will probably be regenerated on the fly to avoid storing them.
+Off-chain blobs with data will be fetched, processed and stored in more optimal database formats for content to be later directly served by application infrastructure immediately after they are published. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request an on-chain proof for any event at any time (& cache it locally) as they can be regenerated on the fly as necessary.
 
 # Fetching only parts of data blobs
 
