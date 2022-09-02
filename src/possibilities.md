@@ -1,18 +1,8 @@
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-
-
-<!-- # The content-centric web -->
-
-<!-- # What the data-centric web unlocks -->
-<!-- # Possibilities in the data-centric web -->
-
 # Possibilities with open data
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables tons of composability, functionality & innovation.
 
-# Unified data through different views
+# Unified data - different views
 
 The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
 
@@ -164,7 +154,7 @@ Books as a medium imply transmissionism as the learning model - `"people absorb 
 
 Here's a good start:
 
-- Outlines as hierarchical expandable trees (like in GitBook) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)
+- Outlines as hierarchical expandable trees (like a [GitBook](https://worldaftercapital.gitbook.io/worldaftercapital/)) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)
     <!-- > "Books should be structured as expandable trees. One paragraph summary of each chapter, expandable into summaries of component points/stories, expandable into the full text. Can read the whole book in 5 minutes or 5 hours." - [Fred Ehrsam](https://twitter.com/FEhrsam/status/1304217384962592769) -->
 - Interactive [executable programs](https://en.wikipedia.org/wiki/Project_Jupyter) with exercises & examples embedded in documents.
 - Note taking, flash cards, etc.

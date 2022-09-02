@@ -12,8 +12,6 @@ signal/noise ratio - message types & why we shouldn't wait for AI classification
 
 tag type: disprove/correct - to combat misinformation & help crowdsource truth?
 
-
-
 Why Headjack won't fall victim to stagnation and being stuck in time with this open standard and sort-of federation
 https://signal.org/blog/the-ecosystem-is-moving/
 - because messages will have default renderability
@@ -84,6 +82,8 @@ https://schema.org/
 new types of messages get an on-chain ID so subscriptions are integer-based
 
 
+
+messages contain their URIs and also a local timestamp - although that could be spoofed. It is however useful for ordering things in certain cases
 
 the <application_id>/<application_nonce> is embedded in a message that's being signed through an application/IDM such that it cannot suffer from a replay attack
 

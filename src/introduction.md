@@ -60,10 +60,11 @@ it does not deal with storage and neither with routing - any kind of routing can
     2. [Data-centric addressing](data_centric.md)
     3. [Blob structure & addressing](blob_structure.md)
     4. [Persistent & provable URIs](uris.md)
-    5. [Names & paths](names_and_paths.md)
-7. [Web-scale & UX](web_scale.md)
-8. [Throughput numbers (scaling)](numbers.md)
-9. [Headjack vs the competition](competition.md)
+    5. [Names, paths, & more](names_and_paths.md)
+7. [Storage & retrievability of data](store_and_retrieve.md)
+8. [Web-scale & UX](web_scale.md)
+9. [Throughput numbers (scaling)](numbers.md)
+10. [Headjack vs the competition](competition.md)
     1. [List of other projects](others_list.md)
 
 <div style="text-align: center;">

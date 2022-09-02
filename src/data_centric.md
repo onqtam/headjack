@@ -22,7 +22,7 @@
 
 Headjack is a weird amalgamation inspired by everything above - it provides human-readable & persistent [URIs](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) for self-authenticating data (with [Merkle proofs](https://medium.com/crypto-0-nite/merkle-proofs-explained-6dd429623dc5) & the blockchain) along with the means for its retrieval without forcing a specific way ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) is just one option). It acts as the web-scale global index used to check the authenticity of documents (requires consulting with the chain), ownership of names, key management & sequence of events throughout time. It is an addressability layer on top of the current host-centric internet technologies.
 
-
+<!-- 
 TODO: look at:
 
 tls-n
@@ -31,4 +31,4 @@ Openid connect
 Tos evidence extensions
 Google amp - signed caches
 Chainlink authenticated data origination
-
+ -->

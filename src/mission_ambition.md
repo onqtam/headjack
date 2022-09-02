@@ -182,3 +182,6 @@ Forced transparency !!!
 
 We can do a lot better with systems of collective intelligence
 
+
+
+
