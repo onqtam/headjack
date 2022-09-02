@@ -155,6 +155,7 @@
 <p>The only 2 things that are signed &amp; submitted on-chain are thus the Merkle root and the IPFS CID for the next nonce (auto-increment counter) associated with the application account.</p>
 <img src="images/blob_structure.png">
 <!-- <object width=100% data="images/blob_structure.svg"></object> -->
+<h1 id="stable-intra-blob-addressing-before-publishing"><a class="header" href="#stable-intra-blob-addressing-before-publishing">Stable intra-blob addressing before publishing</a></h1>
 <p>Applications maintain the logical order of events for the future batch in maps in order to provide intra-blob addressing even before it is fully constructed - as an example if a user posts an article and immediately after that comments on their own post - the comment should be able to refer to the post which is not yet committed on-chain. Applications will also display activity by other accounts that is not yet anchored and the interactions can still use the proper addressing when referring to the yet-to-be-anchored messages (the next nonce number is known in advance). Any type of interaction is addressable and sequenced in the blobs - including reactions (likes, etc).</p>
 
                     </main>

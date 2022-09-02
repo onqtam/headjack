@@ -2,7 +2,7 @@
 
 Off-chain blobs with data will be fetched, processed and stored immediately after they are published in more optimal database formats for content to be later directly served by application infrastructure. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request on-chain proofs for any event at any time (& cache them locally) as they can be regenerated on the fly as necessary.
 
-# Hierarchical data blobs
+# Hierarchical data blobs & partial fetches
 
 Blobs may be in a hierarchy such that the on-chain IPFS hash points only to the "root" blob that contains the header and the actual indexed data could be in child IPFS blobs (whose [IPFS CIDs](https://docs.ipfs.io/concepts/content-addressing/) are contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which "leaf" blobs they need to fetch for the data they are interested in (if any).
 
@@ -10,15 +10,15 @@ Blobs may be in a hierarchy such that the on-chain IPFS hash points only to the 
 
 # Direct IPFS connections & horizontal scaling
 
-Applications can advertise the multiaddress of their IPFS nodes on-chain so that each successive blob of generated content that gets published can be downloaded by others instantly by manually connecting with IPFS’s [“swarm connect” functionality](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986) - avoiding the use of the [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table) for each new blob CID which may take tens of minutes. They can provide addresses to multiple IPFS nodes as a cluster for horizontal scaling and use [Pinset orchestration](https://ipfscluster.io/) - designed for Automated data availability and redundancy.
+Applications can advertise the multiaddress of their IPFS nodes on-chain so that each blob of content that gets published can be downloaded by others instantly by manually connecting with IPFS’s [“swarm connect” functionality](https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986) - avoiding the use of the [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table) for each new blob CID which may take tens of minutes. They can provide addresses to multiple IPFS nodes as a cluster for horizontal scaling and use [Pinset orchestration](https://ipfscluster.io/) - designed for Automated data availability and redundancy.
 
-Applications may choose not to use IPFS at all - what they must do is anchor their blobs with a Merkle root and provide some on-chain advertised means to retrieve the data (example: REST/RPC endpoints in their account). We expect that IPFS will be the lowest common denominator and will always be used no matter what other solutions are also available.
+Applications may choose not to use IPFS at all - what they must do is anchor their blobs with a Merkle root and provide some on-chain advertised means to retrieve the data (example: REST/RPC endpoints in their on-chain account). We expect that IPFS will be the lowest common denominator and will always be used no matter what other solutions are also available.
 
-# Sharing data before publishing it in a blob
+# Sharing data before anchoring it
 
-Applications can associate on-chain a REST/RPC endpoint or any other means for direct contact by all other applications so that they may ask for events & messages that are not yet anchored and display them while they are still in the "mempool".
+Applications can talk to each other directly by using their on-chain advertised REST/RPC endpoints and may ask for the events & messages that are not yet published by the other applications. This way they could display "remote" events locally while they are still in the "mempool" and allow their own users to interact with those events from other applications. This is possible because URIs are stable even before publication - see [Stable intra-blob addressing before publishing](blob_structure.md#stable-intra-blob-addressing-before-publishing).
 
-# How to retrieve data from an old URI
+# How to retrieve data for a random URI
 
 There are multiple options:
 
