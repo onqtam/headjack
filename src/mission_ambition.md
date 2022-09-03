@@ -41,7 +41,7 @@ Headjack's mission is to end network effect monopolies & data silos by making id
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - [empower](possibilities.md) super users to separate signal from noise through open data & better tooling
-- make infrastructure [more resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) through [redundancy](infrastructure.md#redundancy) and p2p content-addressing
+- make infrastructure [more resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) through [redundancy](possibilities.md#redundancy--topological-flexibility) and p2p content-addressing
 
 <!-- lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level -->
 
