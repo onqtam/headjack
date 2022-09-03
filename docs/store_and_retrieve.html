@@ -169,7 +169,7 @@
 <li>The analog of the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> in this ecosystem that also stores everything.</li>
 </ul>
 </li>
-<li>IPFS can be forked &amp; reused with the following change: instead of delivering content based on the <a href="https://docs.ipfs.tech/concepts/content-addressing/">CID</a> hash it can deliver the data + the necessary merkle proofs based on the hash of Headjack URIs (they are unique) - any individual off-chain message that's been anchored would be retrievable as long as someone is hosting it in the new p2p network (which will need bootstrapping - could be part of Headjack nodes). However, this won't be very performant due to the granular nature of individual messages with a URI and the use of a global <a href="https://en.wikipedia.org/wiki/Distributed_hash_table">DHT</a>.</li>
+<li>IPFS can be forked &amp; reused with the following change: instead of delivering content based on the <a href="https://docs.ipfs.tech/concepts/content-addressing/">CID</a> hash it can deliver the data + the necessary proofs based on Headjack URIs or their hash (they are unique) - any individual off-chain message that's been anchored would be retrievable as long as someone is hosting it in this p2p network (which needs bootstrapping - could be part of Headjack nodes). However, this won't be very performant due to the granular nature of individual messages with a URI and the use of a global <a href="https://en.wikipedia.org/wiki/Distributed_hash_table">DHT</a>.</li>
 </ul>
 
                     </main>
