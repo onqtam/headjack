@@ -38,7 +38,7 @@ Playlists are lists of bookmarks and could work even with heterogeneous audio/vi
 
 In Medium you can tweet a selection (sentence/word/paragraph) but when going back to the article from the tweet you don't get shown the original selection. With some archival services you can point to a text selection - for example [this link has `"Prussian Model"`](https://archive.ph/O2D45#selection-635.4-635.18) selected from the title when you open the page and you can change the selection which also changes the URL, but that's possible only because there's a specific hash in the URL and the document is guaranteed not to change in the archive - however that's not the case with Medium where the authenticity of documents is host-certified and they can change in time.
 
-With Headjack URIs point to a specific version of a document and as explained in the [addressing chapter](names_and_paths.html#addressing-within-content) we could point to parts of documents in the URIs. If a document has been changed, updates will have their own new URIs and when an application is showing an old URI with intra-document addressing it could:
+With Headjack URIs point to a specific version of a document and as explained in the [addressing chapter](names_and_paths.md#addressing-within-content) we could point to parts of documents in the URIs. If a document has been changed, updates will have their own new URIs and when an application is showing an old URI with intra-document addressing it could:
 - either show a label that there's a newer version of the document and the user can switch
 - or directly show the new version if it's possible to transfer the selection without conflicts
 
