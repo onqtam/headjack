@@ -226,8 +226,9 @@ https://schema.org/
 new types of messages get an on-chain ID so subscriptions are integer-based
 
 
-
 messages contain their URIs and also a local timestamp - although that could be spoofed. It is however useful for ordering things in certain cases
+
+also contain the current block height in addition to a unix timestamp
 
 the <application_id>/<application_nonce> is embedded in a message that's being signed through an application/IDM such that it cannot suffer from a replay attack
 

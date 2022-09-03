@@ -1,6 +1,6 @@
 # Storage & retrievability of data
 
-Off-chain blobs with data will be fetched, processed and stored immediately after they are published in more optimal database formats for content to be later directly served by application infrastructure. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request on-chain proofs for any event at any time (& cache them locally) as they can be regenerated on the fly as necessary.
+Off-chain blobs with data will be fetched, processed and stored immediately after they are published in more optimal database formats for content to be later directly served by application infrastructure. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request proofs for any event at any time (& cache them locally) because they can be regenerated on the fly as necessary.
 
 # Hierarchical data blobs & partial fetches
 
@@ -16,7 +16,10 @@ Applications may choose not to use IPFS at all - what they must do is anchor the
 
 # Sharing data before anchoring it
 
-Applications can talk to each other directly by using their on-chain advertised REST/RPC endpoints and may ask for the events & messages that are not yet published by the other applications. This way they could display "remote" events locally while they are still in the "mempool" and allow their own users to interact with those events from other applications. This is possible because URIs are stable even before publication - see [Stable intra-blob addressing before publishing](blob_structure.md#stable-intra-blob-addressing-before-publishing).
+Applications can talk to each other directly by using their on-chain advertised REST/RPC endpoints and may ask for the events & messages that are not yet published by the other applications. This way they could display "remote" events locally while they are still in the "mempool" and allow their own users to interact with those events from other applications. This is possible because URIs are stable even before publication - see [Stable intra-blob addressing before publishing](blob_structure.md#stable-intra-blob-addressing-before-publishing). High activity applications can interoperate and no longer be a slave to the block time. However:
+
+- Applications should display events that are not yet anchored in the UI differently - especially if coming from another application.
+- Events that refer to each other but are from different applications and have not yet been anchored on-chain could end up committed in the wrong order (if one of the applications skips a few blocks and commits at a later one) - such that an event from the past is referring to an event from the future. However, [messages](messages.md) will have a timestamp field and could also have the current block height at the time of creation which could be used for sorting data.
 
 # How to retrieve data for a random URI
 
