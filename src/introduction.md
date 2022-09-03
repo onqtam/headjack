@@ -43,28 +43,28 @@ it does not deal with storage and neither with routing - any kind of routing can
 
 - **What is Headjack** - How the protocol technically works, how it compares with other projects, and how things like DMs, social graphs, preferences, etc. could be implemented - the building blocks necessary to recreate anything from Web2 and beyond.
 
-- **Why is Headjack necessary** - What's broken with the web and a blueprint of what could be possible - services, business models, infrastructure, algorithms, markets, metaverse, etc.
+- **Why Headjack** - What's broken with the web and a blueprint of what could be possible - services, business models, infrastructure, algorithms, markets, metaverse, etc.
 
 - **Implementation of Headjack** - A detailed specification of the implementation.
 
-# Introduction (what)
+# What is Headjack
 
 <!-- The following sub-chapters convey the idea (**what**) and a high-level view of how it works: -->
 1. [On-chain vs off-chain](on_off_chain.md)
-2. [Guiding principles](principles.md)
-3. [Identity & authorization](identity.md)
-4. [Messages](messages.md)
-5. [Account preferences & graphs](account_preferences.md)
-6. [Content addressing](addressing.md)
+1. [Guiding principles](principles.md)
+1. [Identity & authorization](identity.md)
+1. [Messages](messages.md)
+1. [Account preferences & graphs](account_preferences.md)
+1. [Content addressing](addressing.md)
     1. [Today's web: host-centric](host_centric.md)
-    2. [Data-centric addressing](data_centric.md)
-    3. [Blob structure & addressing](blob_structure.md)
-    4. [Persistent & provable URIs](uris.md)
-    5. [Names, paths, & more](names_and_paths.md)
-7. [Storage & retrievability of data](store_and_retrieve.md)
-8. [Web-scale & UX](web_scale.md)
-9. [Throughput numbers (scaling)](numbers.md)
-10. [Headjack vs the competition](competition.md)
+    1. [Data-centric addressing](data_centric.md)
+    1. [Blob structure & addressing](blob_structure.md)
+    1. [Persistent & provable URIs](uris.md)
+    1. [Names, paths, & more](names_and_paths.md)
+1. [Storage & retrievability of data](store_and_retrieve.md)
+1. [Web-scale & UX](web_scale.md)
+1. [Throughput numbers (scaling)](numbers.md)
+1. [Headjack vs the competition](competition.md)
     1. [List of other projects](others_list.md)
 
 <div style="text-align: center;">
