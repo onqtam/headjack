@@ -150,7 +150,6 @@ A non-exhaustive list of additional problems (beyond what's already listed) with
         - the presentation is extremely basic & limiting
         - you cannot even link to a specific comment with a URL
         - financial scams in comments are abundant - moderation is non-existent
-
 - Twitter:
     - we can't even sort the tweets of someone based on engagement
     - we pin threads of threads on our profiles and sequence them with X/YY numbers

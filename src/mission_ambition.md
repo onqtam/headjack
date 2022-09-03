@@ -34,13 +34,13 @@ Headjack's mission is to end network effect monopolies & data silos by making id
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a choice - identity should belong to no one
 - add [authenticity](authenticity.md) to information and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) for greater accountability
-- revive the semantic web, [deduplicate content & enable traceability](authenticity.md#deduplicating-documents--traceability)
+- revive the [semantic web](possibilities.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](authenticity.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - virality needs to be politically & content-neutral
 - break the [vertical integration](problems_with_the_web.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
-- empower super users to separate signal from noise through open data & better tooling
+- [empower](possibilities.md) super users to separate signal from noise through open data & better tooling
 - make infrastructure [more resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) through [redundancy](infrastructure.md#redundancy) and p2p content-addressing
 
 <!-- lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level -->
@@ -58,6 +58,17 @@ https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ -->
 <div style="text-align: center;">
     <img src="images/one_chain_to_link_them_all_small.jpg">
 </div>
+
+<!--
+One Chain to
+Link them all
+One Chain to
+sort them
+One Chain to
+Prove them all
+and forever
+Bind them
+-->
 
 # Bottom-up media & the decentralized town square
 
