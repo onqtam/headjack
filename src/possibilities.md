@@ -1,12 +1,10 @@
-# Possibilities with open data
+# What's possible with open data
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables tons of composability, functionality & innovation.
 
 # Unified data - different views
 
 The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
-
-<!-- Data hoarding and interoperability leads to tool & widget incompatibility. -->
 
 # Event streams
 
@@ -78,6 +76,14 @@ Papers can be split into text, data, code & results with all of them referencabl
 
 The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
 
+# Better and more competitive [search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
+
+- Building indexes would be greatly simplified as they will be plugged to the global message bus and update only on events (push) - instead of periodic batch crawling of the public web (pull). <!-- The history of changes will be granular, precise, complete, structured & authenticated. -->
+- Message schemas will improve the indexing & information extraction from dynamic websites. The [semantic web](possibilities.md#the-semantic-web-aka-the-original-web3) will also greatly empower search engines & unlock [powerful queries](possibilities.md#query-anything).
+- The move to data-centric addressing and the desegregation of data will lead to a lot less duplicates and more rich & precise context around any event/message.
+- Currently ephemeral experiences (search suggestions) leave no trace and it's extremely hard to prove bias (aks [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies)) - competition & a lower barrier to entry are direly needed.
+- Search engine sophistication would span the full spectrum - from data center scale to those that you can run locally at home, or the specialized - [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique).
+
 # Query anything
 
 There are no limits to the types of queries we should be able to make - some simple examples:
@@ -88,6 +94,20 @@ There are no limits to the types of queries we should be able to make - some sim
 - `"Has anyone I follow or is connected up to N degrees of separation with me shared/mentioned X in the last Y days?"`
 
 Companies with complex indexes & private knowledge graphs could charge for running queries.
+
+# Optimal archiving (like the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
+
+- Actively polling all websites on earth periodically & to check for changes and save snapshots won't be necessary - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.
+- By [decoupling content & presentation HTML](possibilities.md#code-as-addressable-data) only the essential could be saved. Applications can signal a change with a new message type in what they serve to browsers for presentation & rendering of content which the archival service could save throughout time as well to provide the historical views. Data duplication in snapshots can be driven to 0.
+- Content that is no longer accessible through the original application that published it and is not archived by the user that posted it (but hasn't been explicitly deleted) would still be accessible by anyone with the same persistent URIs when querying an archival service.
+
+# Redundancy & topological flexibility
+
+TODO: Multiple points to retrieve content - redundancy
+
+Self-authenticating data provides a scalability advantage by enabling store-and-forward caches.
+
+> "Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins." - [bluesky](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
 
 # Forking media & communities
 

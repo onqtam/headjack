@@ -1,5 +1,7 @@
 # To think about
 
+- URI for a profile? what would it look like? just the integer index?
+
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
     Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
     TODO: how to address items from off-chain collections in the URI differently & better?
@@ -96,6 +98,8 @@ You can build something centralized on something decentralized but you can’t b
 Decentralization is always the base layer.
 https://twitter.com/RyanSAdams/status/1553776203621965826
 
+
+The archivability of the web will be greatly improved - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) effect due to the current [host-centric](host_centric.md) web.
 
 
 
