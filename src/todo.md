@@ -8,6 +8,8 @@
 
 - figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
 
+- new action type: grant ability to someone to "edit" & publish a new version of an item - but not to post on your behalf entirely - only if it's about a specific document or namespace/collection?
+
 - URI to show content published from application A through another application? how to share links from a specific application?
 
 - da pomislq: Kak tochno shte se proverqva authenticityto na private actions za accs bez keypair?
@@ -57,6 +59,10 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 # Postponed
 
 - merge accounts?
+
+- Can Headjack be used interplanetary?
+
+- URIs for on-chain authorization events?
 
 - talk about the fact that anything can be self-hosted - IDMs & applications
 

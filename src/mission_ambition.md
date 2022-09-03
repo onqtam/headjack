@@ -134,6 +134,10 @@ We can build systems that show the overlap of communities and not focus only on 
 
 
 
+https://twitter.com/balajis/status/1557247912874086400
+https://twitter.com/bensprecher/status/1557351733382225920
+
+
 
 A public backend would be a societal mirror
 The information asymmetry needs to be fixed - the twitter backend should be open

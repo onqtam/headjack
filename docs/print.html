@@ -511,7 +511,7 @@ URL_final = URL + hash_final ==> twitter.com/223/tommy/4/0x6617af0af122
 <blockquote>
 <p>&quot;The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Name">URNs</a> on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it.&quot; - <a href="https://news.ycombinator.com/item?id=27691442">tgbugs</a>.</p>
 </blockquote>
-<p>Information is fragile without an ecosystem of identity, reputation, references, context &amp; liability - our digital history lacks a solid foundation. We can't expect everyone to be like <a href="https://twitter.com/balajis">Balaji</a> - linking to articles from the Internet Archive (<a href="https://balajis.com/synthesis/">Example</a>: look what <code>&quot;Prussian&quot;</code> in that text is <a href="https://archive.ph/O2D45">pointing to</a>) - this doesn't scale, data is not self-authenticating and is still reliant on a central point of failure. The internet is a <a href="https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf">collective hallucination</a> and is rotting.</p>
+<p>Information is fragile without an ecosystem of identity, reputation, references, context &amp; liability - our digital history lacks a solid foundation. We can't expect everyone to be like <a href="https://twitter.com/balajis">@balajis</a> - linking to articles from the Internet Archive (<a href="https://balajis.com/synthesis/">Example</a>: look what <code>&quot;Prussian&quot;</code> in that text is <a href="https://archive.ph/O2D45">pointing to</a>) - this doesn't scale, data is not self-authenticating and is still reliant on a central point of failure. The internet is a <a href="https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf">collective hallucination</a> and is rotting.</p>
 <blockquote>
 <p>&quot;Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment.&quot; - <a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">source</a></p>
 </blockquote>
@@ -1149,7 +1149,7 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 <p>The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Headjack's paradigm is an architectural reset of the web &amp; opens doors to things which weren't possible before.</p>
 <!--
 
-
+fighting misinformation & disinformation
 
 
 
@@ -1414,71 +1414,22 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <p>This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.</p>
 <h1 id="code-as-addressable-data"><a class="header" href="#code-as-addressable-data">Code as addressable data</a></h1>
 <p>Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.</p>
-<!-- 
-# The global [Git](https://en.wikipedia.org/wiki/Git)
-
-We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this as an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
-
-
-Any step of the process should be a referencable event that others can comment on.
-
-
-
-
-a slider for filtering/jumping through time like in discourse
-https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231 -->
-<!-- https://twitter.com/radicle
-https://twitter.com/gitopiaDAO -->
-<!-- 
-# wikipedia
-
-Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
-
-wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
-
-fork wikipedia?
-
-
-- imagine wikipedia being rebuilt on top of this
-    - dead links? thing of the past - can be cached locally & preserved with merkle proofs
-    - imagine wikipedia being forked with a different set of moderators - like in git
-    - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
-
-
-# science and peer review
-
-- peer review can (and should) be reimplemented on top of infrastructure like this
-
-12. Science. Same essay:
-https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
-
-
-- the ledger of record - science
-    peer review & citations can be encoded with tags/messages
-
-    How does crypto realign science with reproducibility?
-    https://twitter.com/manveerbasra_/status/1555405612506157056
-
-    Composable science is reproducible science.
-    https://twitter.com/balajis/status/1555458319070167040
-
-    the digital part of scientific papers can be replicatable locally
-
-    digital chain of custody for papers & science
-
-    science should be like open source - replicated & verified many times like code is compiled & ran
-
-    Laws should be referable and commentable. They should be written in public & made available in the same way as open source code is
-
-    https://twitter.com/balajis/status/1557247912874086400
-    https://twitter.com/bensprecher/status/1557351733382225920
-
-    on-chain papers
-    https://twitter.com/balajis/status/1556579944754384897
- -->
+<h1 id="the-global-git"><a class="header" href="#the-global-git">The global <a href="https://en.wikipedia.org/wiki/Git">Git</a></a></h1>
+<p>Headjack is a global <a href="https://en.wikipedia.org/wiki/Version_control">version control system</a> with different data availability tradeoffs - storage and retrievability are not guaranteed. If someone processes everything that's linked to the blockchain they'd be able to track the creation and changes of each document - both the edits from the original authors and the forks &amp; references from others, and also the sequence of authorizations that update who has authority to edit a document. All events are cryptographically sealed in time with on-chain commitments and the history cannot be tampered with.</p>
+<p>We should be able to view the changes of any document with a diff view - similarly to what <a href="https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/">The Internet Archive provides</a> (see <a href="https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches">this as an example</a>) but with a lot more control and a wide range of different visualization tools - example: a slider for filtering/jumping through time <a href="https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096">like in Discourse</a>.</p>
+<p>We ought to rebuild everything on top of this <a href="authenticity.html#the-ledger-of-record">ledger of record</a> - including Wikipedia (no more dead links!), open source code, science and peer review - under one global interlinked namespace where any public event is referencable so that others can comment on it.</p>
+<h1 id="science--peer-review"><a class="header" href="#science--peer-review">Science &amp; peer review</a></h1>
+<p>Science is in a replication crisis: <a href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease">wasted billions of dollars &amp; decades of work</a>. It should be replicated &amp; verified many times just like open source code is compiled &amp; ran by many in a <a href="https://www.coursera.org/learn/reproducible-research">reproducible way</a>.</p>
+<blockquote>
+<p>&quot;Imagine if we optimized for number of independent replications over number of citations.&quot; - <a href="https://twitter.com/balajis/status/1337598439266250752">@balajis</a></p>
+</blockquote>
+<p>Papers can be split into text, data, code &amp; results with all of them referencable with stable URIs &amp; cryptographically tied to identity and peer review should be <a href="https://en.wikipedia.org/wiki/Open_peer_review">open</a>. There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable &amp; <a href="https://twitter.com/balajis/status/1556579944754384897">replicable</a>. Citations could become <a href="https://twitter.com/balajis/status/1309497397236477952">function calls / imports</a> so that we can trace the dependency graph in science and focus on re-testing the most important bits. We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science &amp; facts.</p>
+<blockquote>
+<p>&quot;Composable science is reproducible science.&quot; - <a href="https://twitter.com/balajis/status/1555458319070167040">@balajis</a></p>
+</blockquote>
+<!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
 <h1 id="the-semantic-web-aka-the-original-web3"><a class="header" href="#the-semantic-web-aka-the-original-web3">The <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (a.k.a. the original &quot;Web3&quot;)</a></h1>
 <p>The biggest hurdle for its adoption has been the <a href="host_centric.html">host-centric</a> paradigm and the hoarding of data in silos with no incentive for exporting &amp; interoperability - Headjack changes that through <a href="data_centric.html">data-centric addressing</a> &amp; broadcasting by default. While there will always be companies that enrich &amp; tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public <a href="https://en.wikipedia.org/wiki/Giant_Global_Graph">Giant Global Graph</a> outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different <a href="messages.html">message types</a> and further annotations will make everything a lot more machine-readable.</p>
-<!-- crowdsourced annotation -->
 <h1 id="query-anything"><a class="header" href="#query-anything">Query anything</a></h1>
 <p>There are no limits to the types of queries we should be able to make - some simple examples:</p>
 <ul>
@@ -1496,7 +1447,6 @@ https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
 <blockquote>
 <p>&quot;How might we design mediums which do the job of a non-fiction book—but which actually work reliably?&quot; - <a href="https://andymatuschak.org/books/">Andy Matuschak - “Why books don’t work”</a></p>
 </blockquote>
-<!-- Non-interactive linear PDFs are incredibly limiting and a thing of the past. -->
 <p>Here's a good start:</p>
 <ul>
 <li>Outlines as hierarchical expandable trees (like a <a href="https://worldaftercapital.gitbook.io/worldaftercapital/">GitBook</a>) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)<!-- > "Books should be structured as expandable trees. One paragraph summary of each chapter, expandable into summaries of component points/stories, expandable into the full text. Can read the whole book in 5 minutes or 5 hours." - [Fred Ehrsam](https://twitter.com/FEhrsam/status/1304217384962592769) -->
@@ -1659,7 +1609,7 @@ how does The Graph fit into this?! omg?!
 incentive for infrastructure companies to do proper filtration of bots - apps can leave for other infrastructure - whereas within twitter there has been conflict of interest for executives as their bonuses counted on counts of users - so why diagnose the bot problem really? TODO: source - or be more vague and don't directly point to twitter
 
 
-
+a challenge would be content licenses...
 
 -->
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
@@ -1902,6 +1852,8 @@ https://www.youtube.com/watch?v=FV5SqIm5e90</p>
 https://youtu.be/FV5SqIm5e90?t=4631</p>
 <p>Finance is the <a href="https://anthonyleezhang.substack.com/p/the-market-for-promises">market for promises</a>, media is the battleground of ideas.</p>
 <p>We can build systems that show the overlap of communities and not focus only on the differences - bridging the gap and making “the others” less foreign</p>
+<p>https://twitter.com/balajis/status/1557247912874086400
+https://twitter.com/bensprecher/status/1557351733382225920</p>
 <p>A public backend would be a societal mirror
 The information asymmetry needs to be fixed - the twitter backend should be open</p>
 <p>Imagine saying hey lets say all together to choose the filters we want</p>

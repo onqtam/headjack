@@ -53,80 +53,30 @@ This can be pushed further - any composition/remix/meme of media could contain t
 
 Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
 
-<!-- 
 # The global [Git](https://en.wikipedia.org/wiki/Git)
 
-We can intertwine Wikipedia, open source code, science & peer review globally and in public - tied to identity and with complete and unambiguous history of changes. Well... not only them - everything! We should be able to view changes of pages with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) - see [this as an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches).
+Headjack is a global [version control system](https://en.wikipedia.org/wiki/Version_control) with different data availability tradeoffs - storage and retrievability are not guaranteed. If someone processes everything that's linked to the blockchain they'd be able to track the creation and changes of each document - both the edits from the original authors and the forks & references from others, and also the sequence of authorizations that update who has authority to edit a document. All events are cryptographically sealed in time with on-chain commitments and the history cannot be tampered with.
 
+We should be able to view the changes of any document with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) (see [this as an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches)) but with a lot more control and a wide range of different visualization tools - example: a slider for filtering/jumping through time [like in Discourse](
+https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096).
 
-Any step of the process should be a referencable event that others can comment on.
+We ought to rebuild everything on top of this [ledger of record](authenticity.md#the-ledger-of-record) - including Wikipedia (no more dead links!), open source code, science and peer review - under one global interlinked namespace where any public event is referencable so that others can comment on it.
 
+# Science & peer review
 
+Science is in a replication crisis: [wasted billions of dollars & decades of work](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease). It should be replicated & verified many times just like open source code is compiled & ran by many in a [reproducible way](https://www.coursera.org/learn/reproducible-research).
 
+> "Imagine if we optimized for number of independent replications over number of citations." - [@balajis](https://twitter.com/balajis/status/1337598439266250752)
 
-a slider for filtering/jumping through time like in discourse
-https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096/231 -->
+Papers can be split into text, data, code & results with all of them referencable with stable URIs & cryptographically tied to identity and peer review should be [open](https://en.wikipedia.org/wiki/Open_peer_review). There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable & [replicable](https://twitter.com/balajis/status/1556579944754384897). Citations could become [function calls / imports](https://twitter.com/balajis/status/1309497397236477952) so that we can trace the dependency graph in science and focus on re-testing the most important bits. We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science & facts.
 
+> "Composable science is reproducible science." - [@balajis](https://twitter.com/balajis/status/1555458319070167040)
 
-<!-- https://twitter.com/radicle
-https://twitter.com/gitopiaDAO -->
-
-
-<!-- 
-# wikipedia
-
-Wikipedia needs to be rebuilt on this - imagine a q&a section like twitter for every paraphrase and also a git slider to see the history for each paragraph. This index can also be moved interplanetary
-
-wikipedia needs to be git-like. everything can be git-like. new action type: grant ability to someone to "edit" & publish a new version of an item
-
-fork wikipedia?
-
-
-- imagine wikipedia being rebuilt on top of this
-    - dead links? thing of the past - can be cached locally & preserved with merkle proofs
-    - imagine wikipedia being forked with a different set of moderators - like in git
-    - imagine rebuilding wikipedia on top of this graph and being able to reference each paragraph/change
-
-
-# science and peer review
-
-- peer review can (and should) be reimplemented on top of infrastructure like this
-
-12. Science. Same essay:
-https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
-
-
-- the ledger of record - science
-    peer review & citations can be encoded with tags/messages
-
-    How does crypto realign science with reproducibility?
-    https://twitter.com/manveerbasra_/status/1555405612506157056
-
-    Composable science is reproducible science.
-    https://twitter.com/balajis/status/1555458319070167040
-
-    the digital part of scientific papers can be replicatable locally
-
-    digital chain of custody for papers & science
-
-    science should be like open source - replicated & verified many times like code is compiled & ran
-
-    Laws should be referable and commentable. They should be written in public & made available in the same way as open source code is
-
-    https://twitter.com/balajis/status/1557247912874086400
-    https://twitter.com/bensprecher/status/1557351733382225920
-
-    on-chain papers
-    https://twitter.com/balajis/status/1556579944754384897
- -->
-
-
+<!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
 
 # The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
 
 The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
-
-<!-- crowdsourced annotation -->
 
 # Query anything
 
@@ -151,8 +101,6 @@ Books as a medium imply transmissionism as the learning model - `"people absorb 
 
 > "How might we design mediums which do the job of a non-fiction book—but which actually work reliably?" - [Andy Matuschak - “Why books don’t work”](https://andymatuschak.org/books/)
 
-<!-- Non-interactive linear PDFs are incredibly limiting and a thing of the past. -->
-
 Here's a good start:
 
 - Outlines as hierarchical expandable trees (like a [GitBook](https://worldaftercapital.gitbook.io/worldaftercapital/)) and fractal reading (each chapter summarized in 1 paragraph, expandable on several levels if you want to dig deeper)
@@ -169,8 +117,6 @@ But that's just scratching the surface - deduplicated open data, persistent URIs
 <!-- We can leverage what we know about human cognition and drastically improve books and articles as a medium for knowledge transfer & retention - multi-level content (short vs detailed), different presentations (text, diagrams, graphs, knowledge maps), etc. -->
 
 <!-- see [Francis Miller's work](https://www.francismiller.com/) - or don't - too much repetition and not that much insight -->
-
-
 
 **Imagine constructing stories as interconnected documents, concepts & entities while wearing a VR headset by pulling from the semantic web & the open internet and publishing that as a self-contained & authentic package that anyone can save offline, explore & build upon.**
 
