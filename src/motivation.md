@@ -1,4 +1,4 @@
-# Motivation (why)
+# Why Headjack
 
 The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
 
