@@ -101,13 +101,9 @@ Companies with complex indexes & private knowledge graphs could charge for runni
 - By [decoupling content & presentation HTML](possibilities.md#code-as-addressable-data) only the essential could be saved. Applications can signal a change with a new message type in what they serve to browsers for presentation & rendering of content which the archival service could save throughout time as well to provide the historical views. Data duplication in snapshots can be driven to 0.
 - Content that is no longer accessible through the original application that published it and is not archived by the user that posted it (but hasn't been explicitly deleted) would still be accessible by anyone with the same persistent URIs when querying an archival service.
 
-# Redundancy & topological flexibility
+# Redundancy, scaling & topological flexibility
 
-TODO: Multiple points to retrieve content - redundancy
-
-Self-authenticating data provides a scalability advantage by enabling store-and-forward caches.
-
-> "Self-authenticating data provides a scalability advantage by enabling store-and-forward caches. Aggregators in a self-authenticating network can host data on behalf of smaller providers without reducing trust in the data's authenticity. With [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing), these aggregators will even be able to produce computed views – metrics, follow graphs, search indexes, and more – while still preserving the trustworthiness of the data. This topological flexibility is key for creating global views of activity from many different origins." - [bluesky](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
+[Data-centric addressing](data_centric.md) with self-authenticating data allows for distributed & [resilient](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) architectures that span the entire globe with horizontal scaling & [store-and-forward](https://en.wikipedia.org/wiki/Store_and_forward) caches. Computed views such as indexes, metrics & graphs could be made addressable, distributed & cached and their authenticity could either be optimistic (with some way to check if there's a dispute) or even have a proof with [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing). Furthermore, there are [at least a few points to query](store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri) for the data of a URI.
 
 # Forking media & communities
 
