@@ -26,6 +26,7 @@
 
 - partner with
     https://twitter.com/odyseeteam
+    https://compdemocracy.org/about/
 
 - status
 "Almost every social network of note had an early signature proof of work hurdle."

@@ -97,3 +97,8 @@ https://news.ycombinator.com/item?id=26328758
 
 
 
+https://compdemocracy.org/
+https://compdemocracy.org/Identity/
+https://compdemocracy.org/algorithms/
+https://compdemocracy.org/Moderation/
+

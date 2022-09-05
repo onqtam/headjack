@@ -17,7 +17,7 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 
 <!-- Headjack's mission is to end network effect monopolies & data silos by making identity sovereign and data interoperable. -->
 
-The host-centric status quo is just a local maximum. Goals:
+The host-centric status quo is just a local maximum. Headjack wants to:
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should belong to no one
 - rebuild & scale up trust through [authenticity](authenticity.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
@@ -31,8 +31,6 @@ The host-centric status quo is just a local maximum. Goals:
 - empower storytellers by [improving books and publications](possibilities.md#the-future-of-publishing-knowledge--learning)
 - make infrastructure more resilient through [redundancy](possibilities.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
 - slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
-
-<!-- lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level -->
 
 # Mission: <u><i>Free data from the host-centric model by linking it to sovereign identity at scale.</i></u>
 
@@ -53,20 +51,6 @@ Headjack
 
 # Bottom-up media & decentralization
 
-> "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
-
-Headjack makes identity sovereign and no 2 entities can be prevented from communicating both privately and in public - allowing for [gossip](https://publications.hse.ru/en/articles/135571129). Authenticity enables global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)). ["Information wants to be free"](https://en.wikipedia.org/wiki/Information_wants_to_be_free) - the entire web can be turned into a crowdsourced Wikipedia where anything is provable, interlinked & commentable. We can reimplement peer review & intertwine it within the global public namespace and make everything visualizable through dashboards.
-
-> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart)
-
-<!-- > "gossip is simply more important in larger, more stratified, and more institutionalized societies" - [source](https://publications.hse.ru/en/articles/135571129) -->
-
-<!-- > "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [source](https://publications.hse.ru/en/articles/135571129) -->
-
-<!-- 
-> "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
-https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
- -->
 
 
 
@@ -74,66 +58,35 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 
 
 
-JBP: Why Twitter Is Insane
-https://www.youtube.com/watch?v=Yg0qlnh5I38
+
+
+Authenticity is necessary for global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)).
+
+
+We could engineer a more functioning collective consciousness
+we need to make it possible for people to build a reputation on truth and follow them
+
+We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism & innovation in social media facilitating public discourse, but on a global level.
+^^ treasure trove
 
 
 
-
-there's no solid foundation and thus we can't agree on what's true.
-
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
 
 
-visualize the global HEATMAP of interests
-
-
-
-
-
-
-
+> "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [The Importance of Gossip Across Societies](https://publications.hse.ru/en/articles/135571129)
 
 
 
 https://twitter.com/balajis/status/1557247912874086400
-https://twitter.com/bensprecher/status/1557351733382225920
 
 
 
 
+> "Perhaps better history needs better databases." - [@balajis](https://twitter.com/balajis/status/1434110543564996612)
 
 
-
-
-
-
-
-<!-- > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html) -->
-
-
-
-
-
-████████████████████████████████████████████████
-
-
-We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism & innovation in social media facilitating public discourse, but on a global level.
-
-
-We haven't really had a market for ideas
-
-
-The ability to do specific verifiable attribution to where a harm is coming from can increase our capacity to serve justice
-Forced transparency !!!
-
-We can do a lot better with systems of collective intelligence
-
-https://en.wikipedia.org/wiki/Akashic_records
-
-
-without proper connectivity, there cannot be a collective consciousness
-we need to make it possible for people to build a reputation on truth and follow them
 
 
 
