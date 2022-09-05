@@ -28,8 +28,7 @@
     - [Business models](business_models.md)
     - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
-    - [Mission & ambition](mission_ambition.md)
-    - [The ambition](ambition.md)
+    - [Goals, mission & ambition](mission_ambition.md)
 
 # ⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇
 

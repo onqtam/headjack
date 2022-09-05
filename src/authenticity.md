@@ -17,6 +17,10 @@ The ability to do specific verifiable attribution to where a harm is coming from
 Forced transparency !!!
 
 https://en.wikipedia.org/wiki/Akashic_records
+
+We could establish global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) through authenticity, reputation, and the ledger of record.
+
+> "Perhaps better history needs better databases." - [@balajis](https://twitter.com/balajis/status/1434110543564996612)
 -->
 
 ---

@@ -9,16 +9,12 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Business models](business_models.md)
 1. [The metaverse](metaverse.md)
 1. [Startup case study](startup_case_study.md)
-1. [Mission & ambition](mission_ambition.md)
-1. [The ambition](ambition.md)
+1. [Goals, mission & ambition](mission_ambition.md)
 
 <!--
 
 fighting misinformation & disinformation
 
-
-
-
-Different systems with their own cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global addressing namespace
+Different systems with their own incentives & cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global namespace
 
 -->
