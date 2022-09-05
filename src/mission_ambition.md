@@ -7,7 +7,7 @@ Evolution is 99.9% memetic at this point & accelerating exponentially. If financ
 At the root of our greatest challenges are [coordination failures](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). We are like an ant colony suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential processes in a finite world.
 
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
-) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We are just neurons - let's bootstrap the hivemind by organizing in a global & borderless super intelligence.
+) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We're just neurons but we can bootstrap the global collective consciousness through trust & coordination - the hivemind.
 
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
@@ -51,8 +51,6 @@ Headjack
 
 
 
-
-https://twitter.com/balajis/status/1557247912874086400
 
 
 
