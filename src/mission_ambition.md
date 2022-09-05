@@ -1,76 +1,57 @@
 # Mission & ambition
 
+Evolution is 99.9% memetic at this point & accelerating exponentially. If finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), then media is the battleground of ideas and is just as fundamental.
+
+> "technology increases the efficiency of manufacturing consent in the same way it increases the efficiency of manufacturing everything else" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+At the root of our greatest challenges are [coordination failures](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). We are like an ant colony suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential processes in a finite world.
+
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
-) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. Evolution is 99.9% memetic & accelerating exponentially - media is fundamental.
-
-our biggest problems stem from lack of coordination
-https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
-
-hivemind.
-
-
-At the root of the greatest challenges to humanity lie coordination failures
-
-
-> technology increases the efficiency of manufacturing consent in the same way it increases the efficiency of manufacturing everything else
-> Coordination is what’s left. And technology has the potential to seriously improve coordination efforts.
-https://slatestarcodex.com/2014/07/30/meditations-on-moloch/
-
-
-
-crowdsource
-
-We are like an ant colony with a malfunctioning central brain suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential experiments in a finite world.
-
-If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We are just neurons - let's bootstrap the hivemind by organizing in a global & borderless super intelligence.
+) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We are just neurons - let's bootstrap the hivemind by organizing in a global & borderless super intelligence.
 
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
-# Mission
+# Goals
 
-> "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
+<!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
 
-Headjack's mission is to end network effect monopolies & data silos by making identity sovereign and data interoperable. The status quo is just a local maximum. Goals:
+<!-- Headjack's mission is to end network effect monopolies & data silos by making identity sovereign and data interoperable. -->
 
-- [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a choice - identity should belong to no one
-- add [authenticity](authenticity.md) to information and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) for greater accountability
+The host-centric status quo is just a local maximum. Goals:
+
+- [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should belong to no one
+- rebuild & scale up trust through [authenticity](authenticity.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
 - revive the [semantic web](possibilities.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](authenticity.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
-    - virality needs to be politically & content-neutral
+    - [virality, feeds & algorithms](problems_with_the_web.md#black-boxes--algorithmic-bias) needs to be politically & content-neutral
 - break the [vertical integration](problems_with_the_web.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
-- [empower](possibilities.md) super users to separate signal from noise through open data & better tooling
+- [enable](possibilities.md#query--plot-anything) super users to separate signal from noise through open data & better tooling
+- empower storytellers by [improving books and publications](possibilities.md#the-future-of-publishing-knowledge--learning)
 - make infrastructure more resilient through [redundancy](possibilities.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
+- slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
 
 <!-- lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level -->
 
-- empower storytellers by [improving books and publications](possibilities.md#the-future-of-publishing-knowledge--learning)
+# Mission: <u><i>Free data from the host-centric model by linking it to sovereign identity at scale.</i></u>
 
-<!-- Mission: minimize friction, complexity, and uncertainty -->
-
-<!-- slay moloch
-https://slatestarcodex.com/2014/07/30/meditations-on-moloch/ -->
-
-<h1 align=center>
-    Link actions & events to identity
-</h1>
-<div style="text-align: center;">
-    <img src="images/one_chain_to_link_them_all_small.jpg">
-</div>
+<img src="images/one_chain_to_link_them_all_1000x800.jpeg">
 
 <!--
 One Chain to
 Link them all
 One Chain to
-sort them
+Sort them
 One Chain to
 Prove them all
 and forever
 Bind them
+
+Headjack
 -->
 
-# Bottom-up media & the decentralized town square
+# Bottom-up media & decentralization
 
 > "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
 
@@ -99,19 +80,6 @@ https://www.youtube.com/watch?v=Yg0qlnh5I38
 
 
 
-
-
-
-Any of the mentioned articles or quotes by ppl like balaji should have been a notification or reference - everything should be interlinked
-
-
-
-
-
-
-
-
-
 there's no solid foundation and thus we can't agree on what's true.
 
 
@@ -124,23 +92,6 @@ visualize the global HEATMAP of interests
 
 
 
-# Culture war
-
-
-
-
-The aggregate sentiment on twitter’s backend is analogous to a liquidity order book - we should want to see the Overton window.
-We could have a completely different understanding of society, history, and politics.
-https://youtu.be/FV5SqIm5e90?t=883
-https://www.youtube.com/watch?v=FV5SqIm5e90
-
-
-we cannot see the "border" between twitter and facebook in terms of users - even they (the companies) cannot because the data and backends are private and closed/siloed. This can change and we can have greater insights
-https://youtu.be/FV5SqIm5e90?t=4631
-
-Finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), media is the battleground of ideas.
-
-We can build systems that show the overlap of communities and not focus only on the differences - bridging the gap and making “the others” less foreign
 
 
 
@@ -150,24 +101,6 @@ https://twitter.com/bensprecher/status/1557351733382225920
 
 
 
-A public backend would be a societal mirror
-The information asymmetry needs to be fixed - the twitter backend should be open
-
-
-Imagine saying hey lets say all together to choose the filters we want
-
-Imagine being able to select prisms 2, r and 7 - as filters. Clients can be competing chains of filters for the web. - we can choose what subset to use and advertise through attribution
-
-We need to collectively regulate what is in our media - by choice. By competing public algo and by client attribution.
-
-Client attribution is the killer feature.
-
-
-
-
-Moderation filters will simply be that - collections of preferences that users can choose to amplify or die down
-
-the way to end polarization is by allowing us to choose and display what unites us
 
 
 
@@ -175,15 +108,14 @@ the way to end polarization is by allowing us to choose and display what unites 
 
 
 
-> "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
+
+<!-- > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html) -->
 
 
 
 
 
 ████████████████████████████████████████████████
-
-There's no global megaphone that would keep all information globally accessible & indexable.
 
 
 We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism & innovation in social media facilitating public discourse, but on a global level.
@@ -192,16 +124,16 @@ We should be connecting echo chambers and taking notes from Taiwan's civic hackt
 We haven't really had a market for ideas
 
 
-Our inability to trust and coordinate leads to inefficiencies and duplication
-
-A global web of trust and authenticity could help with multipolar traps
-
-We need to rebuild & scale up trust through authenticity
-
 The ability to do specific verifiable attribution to where a harm is coming from can increase our capacity to serve justice
 Forced transparency !!!
 
 We can do a lot better with systems of collective intelligence
+
+https://en.wikipedia.org/wiki/Akashic_records
+
+
+without proper connectivity, there cannot be a collective consciousness
+we need to make it possible for people to build a reputation on truth and follow them
 
 
 

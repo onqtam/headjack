@@ -26,16 +26,13 @@
 
 - partner with
     https://twitter.com/odyseeteam
-    gettr
-    gab
-    parler
 
 - status
 "Almost every social network of note had an early signature proof of work hurdle."
 https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
 Headjack - having a lower ID
 
-
+Oauth as a partner
 
 https://www.defmacro.org/2019/03/26/startup-checklist.html
 
