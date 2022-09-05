@@ -8,15 +8,15 @@ The public conversation shouldn't be fractured between platforms such as Twitter
 
 > "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
 
-# Aggregate sentiment & the culture war
+# Aggregate sentiment, democracy & history
 
-The aggregate sentiment on Twitter’s backend is analogous to a liquidity [order book](https://en.wikipedia.org/wiki/Order_book) with the [spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread) being the [Overton window](https://en.wikipedia.org/wiki/Overton_window) - we could have a completely different understanding of society, history, and politics and have a societal mirror if not for the information asymmetry (point taken [from here](https://youtu.be/FV5SqIm5e90?t=883)).
+The aggregate sentiment on Twitter’s backend is analogous to a liquidity [order book](https://en.wikipedia.org/wiki/Order_book) with the [spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread) being the [Overton window](https://en.wikipedia.org/wiki/Overton_window) - we could have a completely different understanding of society, history, and politics and have a societal mirror if not for the information asymmetry (point taken [from here](https://youtu.be/FV5SqIm5e90?t=883)). Furthermore, we cannot see the "border" between Twitter and Facebook in terms of users - even they (the companies) cannot because the data & backends are private (point taken [from here](https://youtu.be/FV5SqIm5e90?t=4631)). Systems could show the overlap of communities and focus on what's shared and unites them - bridging the gap, making “the others” less foreign, and reducing polarization. Everything could be visualized through dashboards - including a global [heat map](https://en.wikipedia.org/wiki/Heat_map) of interests & activity.
 
-Furthermore, we cannot see the "border" between Twitter and Facebook in terms of users - even they (the companies) cannot because the data & backends are private (point taken [from here](https://youtu.be/FV5SqIm5e90?t=4631)).
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
-Systems could show the overlap of communities and focus on what's shared and unites them - bridging the gap, making “the others” less foreign, and reducing polarization.
+We should be taking notes from Taiwan's civic hacktivism and their [Computational Democracy Project](https://compdemocracy.org/) and [G0v movement](https://en.wikipedia.org/wiki/G0v) - building better tools for social consensus and a collective consciousness.
 
-Everything could visualized through dashboards - including a global [heat map](https://en.wikipedia.org/wiki/Heat_map) of interests & activity.
+> "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [The Importance of Gossip Across Societies](https://publications.hse.ru/en/articles/135571129)
 
 # Event streams
 
