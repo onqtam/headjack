@@ -119,7 +119,7 @@ https://twitter.com/balajis/status/1406400770581303297
 
 lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level
 
-
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
 
 
