@@ -28,5 +28,3 @@ Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel
 Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity and media - just because it's a lot of work doesn't mean we shouldn't be building on the right foundation. It is the supermassive digital gravity well and is going after the entire web as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence).
 
 The outcome is binary - **`success`** or **`failure`** and is worth trying despite the odds for world domination - it's all up to the execution.
-
-<!-- The end of information & network effect silos -->

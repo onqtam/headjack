@@ -101,7 +101,7 @@ https://twitter.com/RyanSAdams/status/1553776203621965826
 
 The archivability of the web will be greatly improved - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) effect due to the current [host-centric](host_centric.md) web.
 
-
+> "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
 
 - DNS
     DNS was the original “decentralization” (although not in the crypto sense)
@@ -110,10 +110,20 @@ The archivability of the web will be greatly improved - fighting back the [sand 
     But rss is too technical
     Dns got overloaded too many times
 
+["Information wants to be free"](https://en.wikipedia.org/wiki/Information_wants_to_be_free)
 
 block explorers are the future of browsing
 https://twitter.com/balajis/status/1406400770581303297
 
-the key to free data from silos is to link it authentically to identity, make it addressable and sequence it throughout time
+> "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
+
+lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level
 
 
+
+
+
+
+
+> "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
+https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html

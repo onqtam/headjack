@@ -241,9 +241,6 @@ it does not deal with storage and neither with routing - any kind of routing can
 <li>Content should be stored off-chain (<a href="https://en.wikipedia.org/wiki/InterPlanetary_File_System">IPFS</a> and other protocols) because of the sheer volume - it's ephemeral and its relevance fades with time. Most of it doesn't have to be stored forever but any piece can be backed up through third-party archival services. It gets anchored with cryptographic <a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle roots</a> in the main chain so that permissions, inclusion &amp; sequence are provable - that way even if content goes dark it can later resurface and be deduplicated by linking it to previous instances (as long as Merkle proofs are present).</li>
 </ul>
 <p>The terms <a href="messages.html">message</a>/event/action/data/content are used interchangeably in this book and refer to any type of event/content a user might have generated - post/comment/reaction/etc.</p>
-<blockquote>
-<p>&quot;When identities become portable, backends become liquid&quot; - <a href="https://twitter.com/coconidodev/status/1504850437727571974">@balajis</a></p>
-</blockquote>
 <p>The game theory behind why competing applications (presentation layers/interfaces/views - probably operated by a company with a business model) would freely share the activity of their users with others to display is that if they don't they would be effectively denying reach - users would migrate to a competitor because the cost to do so is 0 - <a href="https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty_Model"><code>voice and exit</code></a>. Current social media platforms are monopolies because identities are not portable and the network effects are in private database silos - a problem practically insurmountable for incumbents.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="guiding-principles"><a class="header" href="#guiding-principles">Guiding principles</a></h1>
 <p>There are 5 guiding principles when aiming for mass adoption &amp; parity on convenience &amp; UX with Web2 services:</p>
@@ -479,7 +476,7 @@ https://twitter.com/AltcoinPsycho/status/1547203030185017344
 <li><a href="data_centric.html">Data-centric addressing</a></li>
 <li><a href="blob_structure.html">Blob structure &amp; addressing</a></li>
 <li><a href="uris.html">Persistent &amp; provable URIs</a></li>
-<li><a href="names_and_paths.html">Names &amp; paths</a></li>
+<li><a href="names_and_paths.html">Names, paths, &amp; more</a></li>
 </ol>
 <!--
 handle redirects? twitter.com => twitter, so that all content URLs use twitter and the .com one is just used for convenience? or wtf?
@@ -1341,6 +1338,11 @@ The terrifying thing about this is that Google is not an elected entity. Google 
 TODO:
 In such an environment controversial and false claims are much easier to prove.
 If even intranets and corps move to this addressing then whistpeblowing will be much more authentic. This is the mechanism for the biggest crimes to bubble up
+
+The ability to do specific verifiable attribution to where a harm is coming from can increase our capacity to serve justice
+Forced transparency !!!
+
+https://en.wikipedia.org/wiki/Akashic_records
 -->
 <hr />
 <p>Using screenshots of tweets in case the originals get deleted does not constitute evidence. The lack of authenticity is being routinely exploited - <a href="https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/">&quot;Shedding light on fraudulent takedown notices&quot;</a>.</p>
@@ -1384,15 +1386,18 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <blockquote>
 <p>&quot;Finally, self-authenticating data provides more mechanisms that can be used to establish trust. Self-authenticated data can retain metadata, like who published something and whether it was changed. Reputation and trust-graphs can be constructed on top of users, content, and services. The transparency provided by <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a> provides a new tool for establishing trust by showing precisely how the results were produced. We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products.&quot; - <a href="https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol">bluesky</a></p>
 </blockquote>
-<!-- > "The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/) -->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="whats-possible-with-open-data"><a class="header" href="#whats-possible-with-open-data">What's possible with open data</a></h1>
 <p>Tying data to identity and making it freely available &amp; outside of silos through content-centric addressing enables tons of composability, functionality &amp; innovation.</p>
 <h1 id="unified-data---different-views"><a class="header" href="#unified-data---different-views">Unified data - different views</a></h1>
 <p>The public conversation shouldn't be fractured between platforms such as Twitter, YouTube &amp; Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events &amp; information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable &amp; shareable.</p>
+<blockquote>
+<p>&quot;When identities become portable, backends become liquid&quot; - <a href="https://twitter.com/coconidodev/status/1504850437727571974">@balajis</a></p>
+</blockquote>
 <h1 id="aggregate-sentiment--the-culture-war"><a class="header" href="#aggregate-sentiment--the-culture-war">Aggregate sentiment &amp; the culture war</a></h1>
 <p>The aggregate sentiment on Twitter’s backend is analogous to a liquidity <a href="https://en.wikipedia.org/wiki/Order_book">order book</a> with the <a href="https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread">spread</a> being the <a href="https://en.wikipedia.org/wiki/Overton_window">Overton window</a> - we could have a completely different understanding of society, history, and politics and have a societal mirror if not for the information asymmetry (point taken <a href="https://youtu.be/FV5SqIm5e90?t=883">from here</a>).</p>
 <p>Furthermore, we cannot see the &quot;border&quot; between Twitter and Facebook in terms of users - even they (the companies) cannot because the data &amp; backends are private (point taken <a href="https://youtu.be/FV5SqIm5e90?t=4631">from here</a>).</p>
 <p>Systems could show the overlap of communities and focus on what's shared and unites them - bridging the gap, making “the others” less foreign, and reducing polarization.</p>
+<p>Everything could visualized through dashboards - including a global <a href="https://en.wikipedia.org/wiki/Heat_map">heat map</a> of interests &amp; activity.</p>
 <h1 id="event-streams"><a class="header" href="#event-streams">Event streams</a></h1>
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
 <p>In an open data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage):</p>
@@ -1410,11 +1415,11 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 </blockquote>
 <p>When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular &amp; multi-dimensional for any type of event stream - like <code>&quot;show me everything from X unless from application A or message type T&quot;</code>. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.</p>
 <h1 id="bookmarks--playlists"><a class="header" href="#bookmarks--playlists">Bookmarks &amp; playlists</a></h1>
-<p>Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case it is no longer hosted by anyone in the future.</p>
+<p>Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case no one hosts it in the future.</p>
 <p>Your personal knowledge base could be built with something like <a href="https://logseq.com/">Logseq</a> with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.</p>
 <p>Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.</p>
 <h1 id="intra-document-addressing"><a class="header" href="#intra-document-addressing">Intra-document addressing</a></h1>
-<p>In Medium you can tweet a selection (sentence/word/paragraph) but when going back to the article from the tweet you don't get shown the original selection. With some archival services you can point to a text selection - for example <a href="https://archive.ph/O2D45#selection-635.4-635.18">this link has <code>&quot;Prussian Model&quot;</code></a> selected from the title when you open the page and you can change the selection which also changes the URL, but that's possible only because there's a specific hash in the URL and the document is guaranteed not to change in the archive - however that's not the case with Medium where the authenticity of documents is host-certified and they can change in time.</p>
+<p>In Medium you can tweet a selection (sentence/word/paragraph) but when going back to the article from the tweet you don't get shown the original selection. With some archival services you can point to a text selection - for example <a href="https://archive.ph/O2D45#selection-635.4-635.18">this link has <code>&quot;Prussian Model&quot;</code></a> selected from the title when you open the page (<code>#selection-635.4-635.18</code>) and you can change the selection which also changes the URL, but that's possible only because there's a specific hash in the URL (<code>O2D45</code>) and the document is guaranteed not to change in the archive - however that's not the case with Medium where the authenticity of documents is host-certified and they can change in time.</p>
 <p>With Headjack URIs point to a specific version of a document and as explained in the <a href="names_and_paths.html#addressing-within-content">addressing chapter</a> we could point to parts of documents in the URIs. If a document has been changed, updates will have their own new URIs and when an application is showing an old URI with intra-document addressing it could:</p>
 <ul>
 <li>either show a label that there's a newer version of the document and the user can switch</li>
@@ -1430,6 +1435,9 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <h1 id="the-global-git"><a class="header" href="#the-global-git">The global <a href="https://en.wikipedia.org/wiki/Git">Git</a></a></h1>
 <p>Headjack is a global <a href="https://en.wikipedia.org/wiki/Version_control">version control system</a> with different data availability tradeoffs - storage and retrievability are not guaranteed. If someone processes everything that's linked to the blockchain they'd be able to track the creation and changes of each document - both the edits from the original authors and the forks &amp; references from others, and also the sequence of authorizations that update who has authority to edit a document. All events are cryptographically sealed in time with on-chain commitments and the history cannot be tampered with.</p>
 <p>We should be able to view the changes of any document with a diff view - similarly to what <a href="https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/">The Internet Archive provides</a> (see <a href="https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches">this as an example</a>) but with a lot more control and a wide range of different visualization tools - example: a slider for filtering/jumping through time <a href="https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096">like in Discourse</a>.</p>
+<blockquote>
+<p>&quot;The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf.&quot; - <a href="https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/">source</a></p>
+</blockquote>
 <p>We ought to rebuild everything on top of this <a href="authenticity.html#the-ledger-of-record">ledger of record</a> - including Wikipedia (no more dead links!), open source code, science and peer review - under one global interlinked namespace where any public event is referencable so that others can comment on it.</p>
 <h1 id="science--peer-review"><a class="header" href="#science--peer-review">Science &amp; peer review</a></h1>
 <p>Science is in a replication crisis: <a href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease">wasted billions of dollars &amp; decades of work</a>. It should be replicated &amp; verified many times just like open source code is compiled &amp; ran by many in a <a href="https://www.coursera.org/learn/reproducible-research">reproducible way</a>.</p>
@@ -1782,7 +1790,7 @@ The metaverse is digital creation tied to identity - not 3d
 <h1 id="goals"><a class="header" href="#goals">Goals</a></h1>
 <!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
 <!-- Headjack's mission is to end network effect monopolies & data silos by making identity sovereign and data interoperable. -->
-<p>The host-centric status quo is just a local maximum. Goals:</p>
+<p>The host-centric status quo is just a local maximum. Headjack wants to:</p>
 <ul>
 <li><a href="https://twitter.com/balajis/status/1554228316181127169">distribute power</a> and let people have a <a href="possibilities.html#forking-media--communities">choice</a> - identity should belong to no one</li>
 <li>rebuild &amp; scale up trust through <a href="authenticity.html">authenticity</a> and build the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a></li>
@@ -1803,7 +1811,6 @@ The metaverse is digital creation tied to identity - not 3d
 <li>make infrastructure more resilient through <a href="possibilities.html#redundancy-scaling--topological-flexibility">redundancy</a> and p2p content-addressing</li>
 <li>slay <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">Moloch</a> - the god of coordination failures &amp; multipolar traps</li>
 </ul>
-<!-- lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level -->
 <h1 id="mission-free-data-from-the-host-centric-model-by-linking-it-to-sovereign-identity-at-scale"><a class="header" href="#mission-free-data-from-the-host-centric-model-by-linking-it-to-sovereign-identity-at-scale">Mission: <u><i>Free data from the host-centric model by linking it to sovereign identity at scale.</i></u></a></h1>
 <img src="images/one_chain_to_link_them_all_1000x800.jpeg">
 <!--
@@ -1819,35 +1826,21 @@ Bind them
 Headjack
 -->
 <h1 id="bottom-up-media--decentralization"><a class="header" href="#bottom-up-media--decentralization">Bottom-up media &amp; decentralization</a></h1>
-<blockquote>
-<p>&quot;Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed.&quot; - <a href="https://guide.getzion.com/inspiration-for-zion">source</a></p>
-</blockquote>
-<p>Headjack makes identity sovereign and no 2 entities can be prevented from communicating both privately and in public - allowing for <a href="https://publications.hse.ru/en/articles/135571129">gossip</a>. Authenticity enables global <a href="https://en.wikipedia.org/wiki/Common_knowledge_(logic)">common knowledge</a>. <a href="https://en.wikipedia.org/wiki/Information_wants_to_be_free">&quot;Information wants to be free&quot;</a> - the entire web can be turned into a crowdsourced Wikipedia where anything is provable, interlinked &amp; commentable. We can reimplement peer review &amp; intertwine it within the global public namespace and make everything visualizable through dashboards.</p>
-<blockquote>
-<p>&quot;Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”&quot; - <a href="https://www.britannica.com/biography/Douglas-Engelbart">Douglas Engelbart</a></p>
-</blockquote>
-<!-- > "gossip is simply more important in larger, more stratified, and more institutionalized societies" - [source](https://publications.hse.ru/en/articles/135571129) -->
-<!-- > "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [source](https://publications.hse.ru/en/articles/135571129) -->
-<!-- 
-> "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
-https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
- -->
-<p>JBP: Why Twitter Is Insane
-https://www.youtube.com/watch?v=Yg0qlnh5I38</p>
-<p>there's no solid foundation and thus we can't agree on what's true.</p>
-<p>visualize the global HEATMAP of interests</p>
-<p>https://twitter.com/balajis/status/1557247912874086400
-https://twitter.com/bensprecher/status/1557351733382225920</p>
-<!-- > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html) -->
-<p>████████████████████████████████████████████████</p>
-<p>We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism &amp; innovation in social media facilitating public discourse, but on a global level.</p>
-<p>We haven't really had a market for ideas</p>
-<p>The ability to do specific verifiable attribution to where a harm is coming from can increase our capacity to serve justice
-Forced transparency !!!</p>
-<p>We can do a lot better with systems of collective intelligence</p>
-<p>https://en.wikipedia.org/wiki/Akashic_records</p>
-<p>without proper connectivity, there cannot be a collective consciousness
+<p>Authenticity is necessary for global <a href="https://en.wikipedia.org/wiki/Common_knowledge_(logic)">common knowledge</a>.</p>
+<p>We could engineer a more functioning collective consciousness
 we need to make it possible for people to build a reputation on truth and follow them</p>
+<p>We should be connecting echo chambers and taking notes from Taiwan's civic hacktivism &amp; innovation in social media facilitating public discourse, but on a global level.
+^^ treasure trove</p>
+<blockquote>
+<p>&quot;Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”&quot; - <a href="https://www.britannica.com/biography/Douglas-Engelbart">Douglas Engelbart</a>, Internet pioneer</p>
+</blockquote>
+<blockquote>
+<p>&quot;The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another.&quot; - <a href="https://publications.hse.ru/en/articles/135571129">The Importance of Gossip Across Societies</a></p>
+</blockquote>
+<p>https://twitter.com/balajis/status/1557247912874086400</p>
+<blockquote>
+<p>&quot;Perhaps better history needs better databases.&quot; - <a href="https://twitter.com/balajis/status/1434110543564996612">@balajis</a></p>
+</blockquote>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="the-ambition"><a class="header" href="#the-ambition">The ambition</a></h1>
 <p>Web3 is often associated with user ownership of networks/services/data, governance, NFTs &amp; micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and <a href="https://twitter.com/balajis/status/1162401646258749441">making it sovereign</a> - the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing applications &amp; views that present &amp; filter commonly addressable data in any way imaginable.</p>
 <!-- 
@@ -1872,7 +1865,6 @@ https://blog.niraj.io/the-ecosystem-effect
 </blockquote>
 <p>Headjack is the <a href="https://xkcd.com/927/">15th and final</a> standard for decentralized identity and media - just because it's a lot of work doesn't mean we shouldn't be building on the right foundation. It is the supermassive digital gravity well and is going after the entire web as the coordination substrate of <a href="https://www.eff.org/cyberspace-independence">cyberspace</a>.</p>
 <p>The outcome is binary - <strong><code>success</code></strong> or <strong><code>failure</code></strong> and is worth trying despite the odds for world domination - it's all up to the execution.</p>
-<!-- The end of information & network effect silos -->
 <div style="break-before: page; page-break-before: always;"></div><div style="text-align: center;">
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>

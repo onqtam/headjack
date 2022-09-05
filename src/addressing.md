@@ -6,7 +6,7 @@ The move from host-centric to data-centric addressing is a complete paradigm shi
 2. [Data-centric addressing](data_centric.md)
 3. [Blob structure & addressing](blob_structure.md)
 4. [Persistent & provable URIs](uris.md)
-5. [Names & paths](names_and_paths.md)
+5. [Names, paths, & more](names_and_paths.md)
 
 <!--
 handle redirects? twitter.com => twitter, so that all content URLs use twitter and the .com one is just used for convenience? or wtf?

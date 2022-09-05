@@ -12,6 +12,11 @@ Anyone might have saved a specific document (& updates to it) locally along with
 TODO:
 In such an environment controversial and false claims are much easier to prove.
 If even intranets and corps move to this addressing then whistpeblowing will be much more authentic. This is the mechanism for the biggest crimes to bubble up
+
+The ability to do specific verifiable attribution to where a harm is coming from can increase our capacity to serve justice
+Forced transparency !!!
+
+https://en.wikipedia.org/wiki/Akashic_records
 -->
 
 ---
@@ -74,4 +79,4 @@ The argument that specialized message types are unnecessary because AI will even
 
 
 
-<!-- > "The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/) -->
+

@@ -140,3 +140,7 @@ https://blog.cloudflare.com/kiwifarms-blocked/
 
 https://blog.cloudflare.com/cloudflares-abuse-policies-and-approach/
 
+https://compdemocracy.org/Moderation/
+
+"pay to get indexed and not left out"?
+
