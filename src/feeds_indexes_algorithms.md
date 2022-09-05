@@ -57,3 +57,15 @@ We need control over feeds
 Instead of a feed the home page could be a dashboard that shows areas of interest of your social graph and being able to selectively dive deeper in whatever you decide - feeds are primitive and extremely limiting
 
 what if reactions from reputable people were taken into account by recommendation algorithms so that untrue things get downregulated that way?
+
+
+
+Imagine saying hey lets say all together to choose the filters we want
+
+Imagine being able to select prisms 2, r and 7 - as filters. Clients can be competing chains of filters for the web. - we can choose what subset to use and advertise through attribution
+
+We need to collectively regulate what is in our media - by choice. By competing public algo and by client attribution.
+
+Client attribution is the killer feature.
+
+Moderation filters will simply be that - collections of preferences that users can choose to amplify or die down

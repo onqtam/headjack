@@ -6,6 +6,14 @@ Tying data to identity and making it freely available & outside of silos through
 
 The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
 
+# Aggregate sentiment & the culture war
+
+The aggregate sentiment on Twitter’s backend is analogous to a liquidity [order book](https://en.wikipedia.org/wiki/Order_book) with the [spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread) being the [Overton window](https://en.wikipedia.org/wiki/Overton_window) - we could have a completely different understanding of society, history, and politics and have a societal mirror if not for the information asymmetry (point taken [from here](https://youtu.be/FV5SqIm5e90?t=883)).
+
+Furthermore, we cannot see the "border" between Twitter and Facebook in terms of users - even they (the companies) cannot because the data & backends are private (point taken [from here](https://youtu.be/FV5SqIm5e90?t=4631)).
+
+Systems could show the overlap of communities and focus on what's shared and unites them - bridging the gap, making “the others” less foreign, and reducing polarization.
+
 # Event streams
 
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
@@ -79,12 +87,12 @@ The biggest hurdle for its adoption has been the [host-centric](host_centric.md)
 # Better and more competitive [search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
 
 - Building indexes would be greatly simplified as they will be plugged to the global message bus and update only on events (push) - instead of periodic batch crawling of the public web (pull). <!-- The history of changes will be granular, precise, complete, structured & authenticated. -->
-- Message schemas will improve the indexing & information extraction from dynamic websites. The [semantic web](possibilities.md#the-semantic-web-aka-the-original-web3) will also greatly empower search engines & unlock [powerful queries](possibilities.md#query-anything).
+- Message schemas will improve the indexing & information extraction from dynamic websites. The [semantic web](possibilities.md#the-semantic-web-aka-the-original-web3) will also greatly empower search engines & unlock [powerful queries](possibilities.md#query--plot-anything).
 - The move to data-centric addressing and the desegregation of data will lead to a lot less duplicates and more rich & precise context around any event/message.
 - Currently ephemeral experiences (search suggestions) leave no trace and it's extremely hard to prove bias (aks [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies)) - competition & a lower barrier to entry are direly needed.
 - Search engine sophistication would span the full spectrum - from data center scale to those that you can run locally at home, or the specialized - [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique).
 
-# Query anything
+# Query & plot anything
 
 There are no limits to the types of queries we should be able to make - some simple examples:
 

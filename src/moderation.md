@@ -134,3 +134,9 @@ hope for spam & moderation: if there is a market for it it could be solved faste
 BS Asymmetry Principle
 https://twitter.com/SahilBloom/status/1563528417785458689
 
+https://www.theguardian.com/technology/2022/sep/01/cloudflare-defends-providing-security-services-to-trans-trolling-website-kiwi-farms
+===> followup:
+https://blog.cloudflare.com/kiwifarms-blocked/
+
+https://blog.cloudflare.com/cloudflares-abuse-policies-and-approach/
+

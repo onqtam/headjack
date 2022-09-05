@@ -13,6 +13,7 @@
         - [Persistent & provable URIs](uris.md)
         - [Names, paths, & more](names_and_paths.md)
     - [Storage & retrievability of data](store_and_retrieve.md)
+    - [Blocks, state & proofs, oh my!]()
     - [Web-scale & UX](web_scale.md)
     - [Throughput numbers (scaling)](numbers.md)
     - [Headjack vs the competition](competition.md)
