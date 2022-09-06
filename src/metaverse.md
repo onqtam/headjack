@@ -15,6 +15,9 @@ the visual metaverse could be built on top of headjack and nvidia's omniverse
 omniverse usd (universal scene description)
 
 
+the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing applications & views that present & filter commonly addressable data in any way imaginable.
+
+
 the early web was built on open protocols - and so will the metaverse
 
 

@@ -13,10 +13,6 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 
 # Goals
 
-<!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
-
-<!-- Headjack's mission is to end network effect monopolies & data silos by making identity sovereign and data interoperable. -->
-
 The host-centric status quo is just a local maximum. Headjack wants to:
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should belong to no one
@@ -34,6 +30,8 @@ The host-centric status quo is just a local maximum. Headjack wants to:
 
 # Mission: <u><i>Free data from the host-centric model by linking it to sovereign identity at scale.</i></u>
 
+<!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
+
 <img src="images/one_chain_to_link_them_all_1000x800.jpeg">
 
 <!--
@@ -49,30 +47,11 @@ Bind them
 Headjack
 -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Ambition
 
-Web3 is often associated with user ownership of networks/services/data, governance, NFTs & micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and [making it sovereign](https://twitter.com/balajis/status/1162401646258749441) - the metaverse is about connected entities that interact with information under a common global namespace and surf the web through competing applications & views that present & filter commonly addressable data in any way imaginable.
+Web3 is often associated with user ownership of networks/services/data, governance, NFTs & micropayments, and while all of them will play a part in it, the main aspect is the distribution of power around identity and [making it sovereign](https://twitter.com/balajis/status/1162401646258749441).
 
 <!-- 
-
-TODO: take this metaverse thing out of here and into the other page
 
 It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it
 
@@ -81,7 +60,9 @@ https://blog.niraj.io/the-ecosystem-effect
 
 -->
 
-Think of Headjack as an [information bus](https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf) on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing messages, dynamically definable message types & permissionlessness. The service objects that deal with identity & authorization are on-chain and have guaranteed storage & retrievability whereas all data objects are just cryptographically anchored and stored off-chain ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)) for which durability & retrievability is on a [best-effort](https://en.wikipedia.org/wiki/Best-effort_delivery) basis without guarantees. It can [scale](numbers.md) practically as much as necessary. Another way to look at it is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network similar to [Kafka](https://kafka.apache.org/intro) where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's [vision for decentralizing Twitter](https://twitter.com/jack/status/1204766078468911106).
+Think of Headjack as an [information bus](https://www.cs.cornell.edu/courses/cs614/2003sp/papers/OPS93.pdf) on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing messages, dynamically definable message types & permissionlessness. The service objects that deal with identity & authorization are on-chain and have guaranteed storage & retrievability whereas all data objects are just cryptographically anchored and stored off-chain ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)) for which durability & retrievability is on a [best-effort](https://en.wikipedia.org/wiki/Best-effort_delivery) basis without guarantees. It can [scale](numbers.md) practically as much as necessary. Another way to look at it is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network similar to [Kafka](https://kafka.apache.org/intro) where accounts are treated as topics to which anyone can subscribe to - a notification highway. It is the manifestation of Jack's [vision for decentralizing Twitter](https://twitter.com/jack/status/1204766078468911106) - it should have never become a company as [Jack admits](https://twitter.com/jack/status/1562861302242226178).
+
+<!-- http://www.paulgraham.com/twitter.html -->
 
 <!-- TODO: browser in the driver/filesystem/OS analogy? -->
 
