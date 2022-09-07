@@ -98,7 +98,6 @@ You can build something centralized on something decentralized but you can’t b
 Decentralization is always the base layer.
 https://twitter.com/RyanSAdams/status/1553776203621965826
 
-
 The archivability of the web will be greatly improved - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) effect due to the current [host-centric](host_centric.md) web.
 
 > "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
@@ -121,6 +120,7 @@ lowest common denominator UX is fine but the power users should be able to go cr
 
 > "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
+> "The web is like an ever-growing library with billions of books and no central filing system." - [how Google works (archived)](https://perma.cc/9HE2-VZF9), already [changed](https://www.google.com/search/howsearchworks/how-search-works/organizing-information/)
 
 
 

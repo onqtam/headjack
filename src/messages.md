@@ -88,4 +88,6 @@ also contain the current block height in addition to a unix timestamp
 
 the <application_id>/<application_nonce> is embedded in a message that's being signed through an application/IDM such that it cannot suffer from a replay attack
 
+- if a reply message has the URI to the original in non canonical form it would be harder for infrastructure to match those - it would have to translate the string URI to a number URI
+
 -->
