@@ -4,7 +4,7 @@ Off-chain blobs with data will be fetched, processed and stored immediately afte
 
 # Hierarchical data blobs & partial fetches
 
-Blobs may be in a hierarchy such that the on-chain IPFS hash points only to the "root" blob that contains the header and the actual indexed data could be in child IPFS blobs (whose [IPFS CIDs](https://docs.ipfs.io/concepts/content-addressing/) are contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which "leaf" blobs they need to fetch for the data they are interested in (if any).
+Blobs may be in a hierarchy such that the on-chain IPFS hash points only to the "root" blob that contains the header and the actual indexed data could be in child IPFS blobs (whose [IPFS CIDs](https://docs.ipfs.io/concepts/content-addressing/) are contained in the root blob or header) so entities listening for events by specific accounts on Headjack may download only these headers and determine which "leaf" blobs they need to fetch for the data they are interested in (if any). Sparse bitsets & [bloom filters](https://en.wikipedia.org/wiki/Bloom_filter) could be used to quickly scan for the presence of activity by specific accounts.
 
 <img src="images/root_child_blob_separation.png">
 

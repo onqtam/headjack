@@ -87,4 +87,7 @@ https://github.com/farcasterxyz/protocol
 
 https://medium.com/@jgm.orinoco/domainsale-an-on-chain-secondary-ens-market-b3330f6e5dda
 
+https://vitalik.ca/general/2022/09/09/ens.html
+https://twitter.com/VitalikButerin/status/1568070721753989120
+
  -->

@@ -6,7 +6,7 @@ There are 5 guiding principles when aiming for mass adoption & parity on conveni
 
     - >"Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
-- Must be simple and familiar - abstracting the complexity away. Users shouldn't have to manage keypairs on multiple devices & explicitly sign every interaction - by default they'll be logging into identity managers ([IDMs](IDM.md)) using email & pass / [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) and would then be using these IDMs as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) to authorize applications to post on their behalf. RSS was [too technical](https://twitter.com/mgsiegler/status/311992206716203008) and it failed - [`"people jumped ship as soon as something better came along"`](https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss).
+- Must be simple and familiar - abstracting the complexity away. Users shouldn't have to manage keypairs on multiple devices & explicitly sign every interaction - by default they'll be logging into identity managers ([IDMs](IDM.md)) using email & pass / [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) and would then be using these IDMs as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) to authorize applications to post on their behalf. RSS was [too technical](https://twitter.com/mgsiegler/status/311992206716203008) and it failed - [`"people jumped ship as soon as something better came along"`](https://twobithistory.org/2018/12/18/rss.html).
 
     - > "With consumer products, simple and “wrong” beats complicated and “right.”" - [@naval](https://twitter.com/naval/status/1542651322532384768)
 

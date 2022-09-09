@@ -144,3 +144,5 @@ https://compdemocracy.org/Moderation/
 
 "pay to get indexed and not left out"?
 
+https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
+

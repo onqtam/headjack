@@ -28,6 +28,8 @@ In practice, we expect that only cypherpunks & people that have something to los
 
 The vast majority of users will be lightweight: consumers & curators of content (through interactions & reactions) with very little creation on their part and little to no audience. At any point in time, they could shift to a more vocal role and start caring about archiving their off-chain data and not relying on the good grace of the infrastructure that sits beneath applications.
 
+<!-- https://en.wikipedia.org/wiki/1%25_rule -->
+
 > "The internet is the computer but it's missing identity and [acls](https://en.wikipedia.org/wiki/Access-control_list)." - [koalaman](https://news.ycombinator.com/item?id=25734612).
 
 Key & session management (rotation, authorization & revocation) [require](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) ordering that is [logically centralized](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274). It is compatible with any type of [DID](https://www.w3.org/TR/did-core/) - anything could be associated with an integer ID. The on-chain authorization has incredible synergy with the human-readable & persistent [addressing](addressing.md) for off-chain content.
