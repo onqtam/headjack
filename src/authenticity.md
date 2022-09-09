@@ -20,6 +20,10 @@ https://en.wikipedia.org/wiki/Akashic_records
 
 We could establish global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) through authenticity, reputation, and the ledger of record.
 
+
+> "We are choked with news and starved of history." - [Will Durant](https://www.goodreads.com/quotes/8716601-we-are-choked-with-news-and-starved-of-history)
+
+
 > "Perhaps better history needs better databases." - [@balajis](https://twitter.com/balajis/status/1434110543564996612)
 -->
 

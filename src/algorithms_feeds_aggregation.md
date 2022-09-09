@@ -6,6 +6,8 @@ The most important aspect of today's media are the [recommendation systems](http
 
 Currently most algorithms in use are black boxes - we don't know what they are and we don't know how they're parameterized & trained. And even if we did - there would be no way to check. Furthermore, only the private companies have access to their data and nobody can analyze and build new indexes, models & recommendation engines and we're left with the lowest common denominator that optimizes solely for engagement & time spent on the platforms.
 
+
+
 With all public data being shared & accessible by anyone a new market would emerge - that for 
 
 neither now 

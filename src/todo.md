@@ -125,5 +125,7 @@ lowest common denominator UX is fine but the power users should be able to go cr
 
 
 
+
+
 > "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
 https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html

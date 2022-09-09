@@ -5,10 +5,44 @@
 
 # Blocks, state & proofs, oh my!
 
+<!-- 
 
 Look at ethereum block & state structure
 https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture
 https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/
+
+
+with small pieces of data the proofs for them could be orders of magnitude bigger - with Headjack storing them is not necessary as they can be derived from the original data blobs and the current state of the chain - a small core capable of producing the proofs for unlimited amounts of off-chain content
+
+== there are 2 aspects when linking identity to a piece of data:
+
+- merkle proof linking the data to a block
+    - entities needs to keep either:
+        - the full IPFS blobs and no merkle trees - can reconstruct a merkle proof for any piece of data at any time
+        - or just the parts they care about + merkle proofs for each part to link them to a block
+            - for multiple pieces of data can be optimized with merkle pollards and/or (sparse) multiproofs
+    - if the state doesn't keep historical mapping of block numbers & identities to IPFS hashes:
+        - there needs to be a merkle proof within the block
+- merkle proofs linking identities to authorized services or keypairs at a specific block height
+
+
+
+- Graph with the proofs for a URI
+
+
+
+TODO cache the merkle root & IPFS CID from blocks in the state?
+
+
+if the blockchain doesn't store the full history of authorizations & keys forever then state merkle proofs will have to be saved at some point
+
+    - Recursive merkleization of checkpointed L1 blocks/stateRoots so that anything can be referenced even with just the tip of the chain
+    - https://en.wikipedia.org/wiki/Hash_array_mapped_trie
+    - verkle trees
+
+    optimizing merkle proofs
+    https://medium.com/@jgm.orinoco/understanding-merkle-pollards-1547fc7efaa
+    https://medium.com/@jgm.orinoco/understanding-sparse-merkle-multiproofs-9b9f049e8f08
 
 
 # Block structure
@@ -70,7 +104,6 @@ TODO: need examples & specifics for how big URI proofs would be
 
 
 
-<!-- 
 An account has the following properties:
 - `ID` (`integer`) - unique on the blockchain, autoincrement, starting from 1
 - `sig` - cryptographic address & signature

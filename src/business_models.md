@@ -18,6 +18,9 @@ The goal is not to kill the ad model - it is to make everything authentic and al
 the ad model isn't going anywhere but we are in a "take it or leave" situation without choice - the goal is to fix that
 
 
+
+# Attribution
+
 > "Internet monetization is somewhat like a Soviet election: It doesn’t matter who clicks and where, it’s who counts those clicks that matters. The technology and business of that counting of clicks (and everything else you do online besides) goes by the dull-sounding name of attribution, and it determines the fate of trillion-dollar companies." - [source](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll)
 
 
