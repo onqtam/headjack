@@ -62,7 +62,7 @@ it does not deal with storage and neither with routing - any kind of routing can
     1. [Persistent & provable URIs](uris.md)
     1. [Names, paths, & more](names_and_paths.md)
 1. [Storage & retrievability of data](store_and_retrieve.md)
-1. [Blocks, state & proofs, oh my!]()
+1. [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
 1. [Web-scale & UX](web_scale.md)
 1. [Throughput numbers (scaling)](numbers.md)
 1. [Headjack vs the competition](competition.md)

@@ -8,14 +8,6 @@ The public conversation shouldn't be fractured between platforms such as Twitter
 
 > "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
 
-# Aggregate sentiment, democracy & history
-
-The aggregate sentiment on Twitter’s backend is analogous to a liquidity [order book](https://en.wikipedia.org/wiki/Order_book) with the [spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread) being the [Overton window](https://en.wikipedia.org/wiki/Overton_window) - we could have a completely different understanding of society, history, and politics and have a societal mirror if not for the current information asymmetry that Big Tech has (point taken [from here](https://youtu.be/FV5SqIm5e90?t=883)). Furthermore, we cannot see the "border" between Twitter and Facebook in terms of users - even they (the companies) cannot because the data & backends are private (point taken [from here](https://youtu.be/FV5SqIm5e90?t=4631)).
-
-With open data systems could show the overlap of communities and focus on what's shared and unites them - bridging the gap, making “the others” less foreign, and reducing polarization. We should be taking notes from Taiwan's civic hacktivism and their [Computational Democracy Project](https://compdemocracy.org/) & [G0v movement](https://en.wikipedia.org/wiki/G0v) - building better tools for social consensus. Everything could be visualized through dashboards & graphs - including global [heat maps](https://en.wikipedia.org/wiki/Heat_map) of interests & activity based on topic/region/etc. Learning from history & making analogies could be [much more quantifiable and precise](https://twitter.com/balajis/status/1557247912874086400) if everything was in [the ledger of record](authenticity.md#the-ledger-of-record).
-
-> "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [The Importance of Gossip Across Societies](https://publications.hse.ru/en/articles/135571129)
-
 # Event streams
 
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
@@ -151,3 +143,5 @@ But that's just scratching the surface - deduplicated open data, persistent URIs
 > "The most powerful person in the world is the story teller. The storyteller sets the vision, values and agenda of an entire generation that is to come" - [Steve Jobs](http://jovanabanovic.com/2020/08/06/the-most-powerful-person-in-the-world-is-the-story-teller-the-storyteller-sets-the-vision-values-and-agenda-of-an-entire-generation-that-is-to-come-steve-jobs/)
 
 Let's empower them.
+
+<!-- https://en.wikipedia.org/wiki/All_the_world%27s_a_stage -->

@@ -3,7 +3,7 @@
 </div>
 
 
-# Block & state structure
+# Blocks, state & proofs, oh my!
 
 
 Look at ethereum block & state structure
@@ -66,6 +66,8 @@ TODO: does the state actually need to contain the historical mapping? not necess
 
 
 TODO: need examples & specifics for how big URI proofs would be
+
+
 
 
 <!-- 
