@@ -58,7 +58,17 @@ https://www.urbandictionary.com/define.php?term=nutpicking
 
 Arms race between social media companies
 
+Journalists routinely write about events from social media - it is fundamentally entrenched in our society and it affects everyone - even those that do not use it.
+
+If We Don't Fix Sensemaking, We Won't Survive
+https://www.youtube.com/watch?v=ya_p4RIorXw
+
+> "Babel is not a story about tribalism. It’s a story about the fragmentation of everything." - [Why the past 10 years of american life have been uniquely stupid](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/)
+
 audience capture -->
+
+
+
 
 # Vertical integration vs specialization & competition
 

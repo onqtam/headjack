@@ -23,48 +23,23 @@ Events coming from an application are an advertisement for it because the URIs p
 
 But this can be pushed a lot further - using public [message types](messages.md) more specific preferences within one application (and compatible with others) could be signaled. The choice of recommendation algorithms, filtration criteria & moderation levels could be displayed in account profiles throughout all applications either as badges or in some other way. An application could accommodate a wide range of preferences by using different indexes & models which would be handled by infrastructure layers beneath them - reusable by all other applications that need them too.
 
-This way of signaling fine-grained preferences could allow us to collectively migrate to better algorithms - by showing which interests & perspectives we've adopted ourselves. One value to signal would be to use algorithms & models that are transparent and not some [black box](problems_with_the_web.md#black-boxes--algorithmic-bias) - we could study how virality happens. What if some algorithm promotes [antisocial ultra viral content](https://twitter.com/balajis/status/1561032192947458048) close to the borderline of acceptability just for the sake of engagement? We could boycott it. And why not choose indexes & algorithms that up & down regulate specific accounts? Moderation could be done through a set of filters to which users opt in/out - toggling & layering their preferences - choosing what to amplify and what to tone down. Such preferences can also be private.
+This way of signaling fine-grained preferences could allow us to collectively migrate to better algorithms - by showing which interests & perspectives we've adopted ourselves. One value to signal would be to use algorithms & models that are transparent and not some [black box](problems_with_the_web.md#black-boxes--algorithmic-bias) - we could study how virality happens. What if some algorithm promotes [antisocial ultra viral content](https://twitter.com/balajis/status/1561032192947458048) close to the borderline of acceptability just for the sake of engagement? We could boycott it. And why not choose indexes & algorithms that up & down regulate specific accounts? Moderation could be done through a set of filters to which users opt in/out by toggling & layering - choosing what to amplify and what to tone down. Such preferences can also be private.
 
 Currently social media skews our perception of the world because the vocal become viral - most people are quiet and rarely (if ever) post anything, but they do consume. We could let them signal their preferences and better gauge our values. **Preferences are a form of expression.**
 
 # Aggregate sentiment - the big picture
 
-<!-- # Aggregate sentiment, democracy & history -->
-
 The aggregate sentiment on Twitter’s backend is analogous to a liquidity [order book](https://en.wikipedia.org/wiki/Order_book) with the [spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread) being the [Overton window](https://en.wikipedia.org/wiki/Overton_window) - we could have a completely different understanding of society, history, and politics and have a societal mirror if not for the current information asymmetry that Big Tech has (point taken [from here](https://youtu.be/FV5SqIm5e90?t=883)). Furthermore, we cannot see the "border" between Twitter and Facebook in terms of users - even they (the companies) cannot because the data & backends are private (point taken [from here](https://youtu.be/FV5SqIm5e90?t=4631)).
 
-With open data systems could show the overlap of communities and focus on what's shared and unites them - bridging the gap, making “the others” less foreign, and reducing polarization. We should be taking notes from Taiwan's civic hacktivism and their [Computational Democracy Project](https://compdemocracy.org/) & [G0v movement](https://en.wikipedia.org/wiki/G0v) - building better tools for social consensus - relaxing the culture war. Everything could be visualized through dashboards & graphs - including global [heat maps](https://en.wikipedia.org/wiki/Heat_map) of interests & activity based on topic/region/etc. Learning from history & making analogies could be [much more quantifiable and precise](https://twitter.com/balajis/status/1557247912874086400) if everything was in [the ledger of record](authenticity.md#the-ledger-of-record).
-
-<!--
-A bold idea to replace politicians | César Hidalgo
-https://www.youtube.com/watch?v=CyGWML6cI_k
-How about we automate politics?
--->
-
-<!-- > "Babel is not a story about tribalism. It’s a story about the fragmentation of everything." - [Why the past 10 years of american life have been uniquely stupid](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/) -->
+With open data, systems could show the overlap of communities and focus on what's shared and unites them - bridging the gap, making “the others” less foreign, and reducing polarization. We should be taking notes from Taiwan's civic hacktivism and their [Computational Democracy Project](https://compdemocracy.org/) & [G0v movement](https://en.wikipedia.org/wiki/G0v) - building better tools for social consensus & relaxing the culture war. Everything could be visualized through dashboards & graphs - including global [heat maps](https://en.wikipedia.org/wiki/Heat_map) of interests & activity based on topic/region/etc. Learning from history & making analogies could be [much more quantifiable and precise](https://twitter.com/balajis/status/1557247912874086400) if everything was in the ledger of record. We could [leverage AI](https://www.youtube.com/watch?v=WVEP0zAK-xQ&t=3952s) to surface human collective intelligence at scale in a transparent way.
 
 > "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [The Importance of Gossip Across Societies](https://publications.hse.ru/en/articles/135571129)
 
-<!-- social media is fundamentally entrenched in our society and it affects even those that do not use it - journalists write about what happened in social media and who said what -->
-
-If We Don't Fix Sensemaking, We Won't Survive
-https://www.youtube.com/watch?v=ya_p4RIorXw
-
-https://ground.news/
-
-with open data & transparent algorithms we could leverage AI to surface human collective intelligence at scale in a permissionless way - anyone could analyze the data and prove their results
-https://www.youtube.com/watch?v=WVEP0zAK-xQ&t=3952s
-
-
-
-
-
-
-
-
-
 <!--
+https://ground.news/
 
 https://twitter.com/disclosetv/status/1557800191700393984
 
+A bold idea to replace politicians | César Hidalgo
+https://www.youtube.com/watch?v=CyGWML6cI_k
 -->
