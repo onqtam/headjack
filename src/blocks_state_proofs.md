@@ -27,6 +27,15 @@ with small pieces of data the proofs for them could be orders of magnitude bigge
 
 
 
+
+if the history of key rotations & revocations is not guaranteed, then data cannot be self-authenticating
+
+events must be self-authenticating - and not requiring that the source (original creator) be always around to provide proofs for their authenticity.
+
+
+
+
+
 - Graph with the proofs for a URI
 
 

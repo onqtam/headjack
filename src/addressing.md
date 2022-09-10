@@ -11,9 +11,7 @@ The move from host-centric to data-centric addressing is a complete paradigm shi
 <!--
 handle redirects? twitter.com => twitter, so that all content URLs use twitter and the .com one is just used for convenience? or wtf?
 
-shortcuts/links/references?
-
-user nonces per application :( - or maybe no need? or needed only for signed messages?
+TODO: how to translate from number URI to a name URI? can we ask the blockchain "which names were owned by account X at block height H and with which nonce?" and how do we pick which to use if there are multiple ones?
 
 Unexpirable URIs > unstoppable domains
 
@@ -21,16 +19,10 @@ what about URIs starting with block numbers? under a specific protocol schema?
 
 
 
+https://culturexchange1.files.wordpress.com/2015/06/sans-titre.png
+https://culturexchange1.wordpress.com/2015/06/02/the-telephone-switchboard-the-story-of-a-revolutionary-instrument/
 
-
-content = "aaa"
-URL = twitter.com/223/tommy/4
-
-hash_content = hash(content) ==> 0xaf12ad7126
-hash_URL = hash(URL) ==> 0x1627af2
-
-hash_final = hash(hash_content + hash_URL) ==> 0x6617af0af122
-URL_final = URL + hash_final ==> twitter.com/223/tommy/4/0x6617af0af122
-
+https://api.time.com/wp-content/uploads/2015/08/phones1.jpeg
+https://time.com/4011936/emma-nutt/
 
 -->

@@ -2,7 +2,6 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-
 # Business models
 
 <img src="images/infrastructure_companies.png">
@@ -71,9 +70,6 @@ https://twitter.com/ZeMariaMacedo/status/1554041365754945537
 
 
 <!--
-the open nature of data leads to a shared data network effect where anyone can train ML models at scale with high quality data
-https://mattturck.com/the-power-of-data-network-effects/
-
 
 creators will need to shift how they monetize because there won't be platform lock-in & attribution :/
 or actually the application attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.
