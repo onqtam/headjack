@@ -49,6 +49,8 @@ TODO: look at Data models in ceramic!
 
 “pit X vs Y”
 
+shortcuts/links/references?
+
 tombstone message
 https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 

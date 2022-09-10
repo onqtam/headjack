@@ -45,6 +45,20 @@ The explicit user preferences such as subscriptions & the social graph (followin
 > "I'm in an ongoing relationship with a moody, sensitive, grudge-holding, and generally crazy girlfriend called the Twitter algorithm. Everything will be going fine and then suddenly I'm getting the cold-shoulder and I don't even really know what I did and just have to wait it out." - [Tim Urban](https://twitter.com/waitbutwhy/status/1506755880578166788)
 
 <!-- addictive social media - toxic -->
+<!-- 
+The topic about algorithms and their influence on society is enormous and this chapter cannot do it justice - refer to Tristan Harris's work
+https://www.youtube.com/watch?v=7EbPIdyd3I0
+
+we have a totally warped view of reality
+
+we are at a position where the more we use social media, the worse we get at estimating what the other side believes
+
+Algorithms are tuned for nutpicking - surfacing the nuttiest things
+https://www.urbandictionary.com/define.php?term=nutpicking
+
+Arms race between social media companies
+
+audience capture -->
 
 # Vertical integration vs specialization & competition
 

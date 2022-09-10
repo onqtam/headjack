@@ -18,6 +18,7 @@
     - [Throughput numbers (scaling)](numbers.md)
     - [Headjack vs the competition](competition.md)
         - [List of other projects](others_list.md)
+    - [How to think about Headjack](how_to_think_about_it.md)
         <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
 - [Why Headjack](motivation.md)

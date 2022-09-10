@@ -33,3 +33,10 @@ Concern: status inequality - even if one platform and set of algorithms let newc
 - what happens if an event that's not anchored yet becomes illegitimate by an IDM unauthorizing an application before the content is anchored? Confusing for people...
 
 - could it be that checking with proofs all the content might be too much processing? doubt it...
+
+concern: censorship based on infra used - forcing apps to move to the "right" infra with the "right" filtering
+
+concern: with better traceability, censoring events could be easier, but important documents can still circle around with proofs of authenticity
+
+Con: everyone will see the authorized apps?
+

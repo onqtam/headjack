@@ -30,6 +30,13 @@ Overall a solid effort and could work - some similarities to [Farcaster](#farcas
 https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564
 -->
 
+<!-- 
+
+!!!!!
+
+With Farcaster, content is directory-certified and cannot be fully self-authenticating because if the directory to which the on-chain account points to goes away - so does the credibility for any piece of data by that account - no way to cache proofs. Furthermore, directories can be tampered with and currently it's up to the p2p network to keep track if any malicious changes happen
+-->
+
 Their architecture: [link](https://github.com/farcasterxyz/protocol). The account registry is on a blockchain and everything else is off-chain.
 
 - Registry on Ethereum L1 - for new accounts, name/host changes & key management.

@@ -37,6 +37,8 @@
 
 - protected tweets - LOL - followers are also private unless permitted?
 
+- explore how to link private details to identity with ZK
+
 - telegram and such mass group chats & channels
 
 - figure out additional ways for CDN for content & keeping it up & alive besides just user & application archiving
@@ -121,6 +123,8 @@ lowest common denominator UX is fine but the power users should be able to go cr
 > "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
 > "The web is like an ever-growing library with billions of books and no central filing system." - [how Google works (archived)](https://perma.cc/9HE2-VZF9), already [changed](https://www.google.com/search/howsearchworks/how-search-works/organizing-information/)
+
+if something like TikTok & short clips are here to stay - at least let's interweave them with the rest of the data in the world and provide an offramp for people using it - show the links to things outside of them through interlinked content
 
 
 
