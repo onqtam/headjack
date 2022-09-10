@@ -12,10 +12,20 @@ Within Headjack, all public data is freely accessible and the [data network effe
 
 We have no control over what social media shows us - we're presented with their best attempt at engaging us and nothing more. Feeds are primitive/limited and have their own agenda. Once access to data has been democratized we could finally have a choice as new entrants will differentiate themselves in ways that weren't possible before. What if:
 - you want [the first thing you see to be a dashboard](https://twitter.com/balajis/status/1442863553497554944) with graphs & charts about the things you care about instead of an endless feed to scroll?
-- instead of a feed you were shown a map with events grouped by category/people/activity and choose selectively which zones to "zoom" into based on your interest?
+- instead of a feed you were shown a map with events grouped by category/people/activity so you could choose selectively which zones to "zoom" into based on your interest?
 - you're interested in all events from the past week - not just those from the last 24 hours?
 - you want things sorted differently, or to tune out certain kinds of content?
 - you want your video feed to show content that people you follow have engaged with?
+
+# Signaling preferences
+
+Events coming from an application are an advertisement for it because the URIs point to it as the source - users are effectively signaling what UI, filtration & content moderation they prefer.
+
+But this can be pushed a lot further - using public [message types](messages.md) more specific preferences within one application (and compatible with others) could be signaled. The choice of recommendation algorithms, filtration criteria & moderation levels could be displayed in account profiles throughout all applications either as badges or in some other way. An application could accommodate a wide range of preferences by using different indexes & models which would be handled by infrastructure layers beneath them - reusable by all other applications that need them too.
+
+This way of signaling fine-grained preferences could allow us to collectively migrate to better algorithms - by showing which interests & perspectives we've adopted ourselves. One value to signal would be to use algorithms & models that are transparent and not some [black box](problems_with_the_web.md#black-boxes--algorithmic-bias) - we could study how virality happens. What if some algorithm promotes [antisocial ultra viral content](https://twitter.com/balajis/status/1561032192947458048) close to the borderline of acceptability just for the sake of engagement? We could boycott it. And why not choose indexes & algorithms that up & down regulate specific accounts? Moderation could be done through a set of filters to which users opt in/out - toggling & layering their preferences - choosing what to amplify and what to tone down. Such preferences can also be private.
+
+Currently social media skews our perception of the world because the vocal become viral - most people are quiet and rarely (if ever) post anything, but they do consume. We could let them signal their preferences and better gauge our values. **Preferences are a form of expression.**
 
 # Aggregate sentiment - the big picture
 
@@ -44,37 +54,6 @@ https://ground.news/
 
 with open data & transparent algorithms we could leverage AI to surface human collective intelligence at scale in a permissionless way - anyone could analyze the data and prove their results
 https://www.youtube.com/watch?v=WVEP0zAK-xQ&t=3952s
-
-# Signaling filtration choices
-
-We need to collectively regulate what is in our media - by choice. By competing public algo and by client attribution.
-
-Client attribution is the killer feature.
-
-Moderation filters will simply be that - collections of preferences that users can choose to amplify or die down
-
-We can have a choice and simply refuse to use opaque infrastructure & applications that use black box algorithms that are unverifiable.
-
-what if reactions from reputable people were taken into account by recommendation algorithms so that untrue things get downregulated that way?
-
-
-improving transparency.
-
-
-ultra virality may be bad
-https://twitter.com/balajis/status/1561032192947458048
-
-Imagine saying hey lets say all together to choose the filters we want
-
-We can see which indexes other people prefer in terms of applications & their openly advertised preferences. The network state is 100% digital and is publicly expressed through client attribution - choice
-
-We will be able to study the effects of recommendation algorithms for virality because all content has an application where it came from & we would be able to see the public preferences of people for which indexes to use
-
-Applications will compete on the algorithms they let people use to filter and sort information - to look for signal through the noise.
-
-Imagine being able to select prisms 2, r and 7 - as filters. Clients can be competing chains/layers of filters for the web. - we can choose what subset to use and advertise through attribution
-
-
 
 
 
