@@ -11,12 +11,6 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Startup case study](startup_case_study.md)
 1. [Goals, mission & ambition](mission_ambition.md)
 
-> "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear)
+<!-- > "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear) -->
 
-<!--
-
-fighting misinformation & disinformation
-
-Different systems with their own incentives & cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global namespace
-
--->
+<!-- > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html) -->

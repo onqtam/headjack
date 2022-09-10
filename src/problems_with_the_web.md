@@ -60,6 +60,8 @@ Arms race between social media companies
 
 Journalists routinely write about events from social media - it is fundamentally entrenched in our society and it affects everyone - even those that do not use it.
 
+misinformation & disinformation
+
 If We Don't Fix Sensemaking, We Won't Survive
 https://www.youtube.com/watch?v=ya_p4RIorXw
 

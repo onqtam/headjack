@@ -89,8 +89,6 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 # Phrases that don't have a place yet
 
-[open state database](https://twitter.com/balajis/status/1123092897664880640)
-
 `"consistency is incredibly important for creating a compelling user experience"` - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
 
 
@@ -116,7 +114,7 @@ The archivability of the web will be greatly improved - fighting back the [sand 
 block explorers are the future of browsing
 https://twitter.com/balajis/status/1406400770581303297
 
-> "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
+Different systems with their own incentives & cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global namespace
 
 lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level
 
