@@ -4,7 +4,7 @@
 
 But not like SoundCloud where [tiny overlapping rectangles](https://soundcloud.com/liluzivert/for-fun-prod-by-beatsbyjeff) with profile pictures are rendered on the timeline that you can just hover with the cursor to see the comment nor like YouTube where you can write a timestamp (`hh:mm:ss`) in a comment which becomes a clickable link that fast-forwards the player and then fighting it out with the other 20 000 comments in the single linear vertically scrollable section of a 3 hour long podcast and hoping to be noticed - both are horribly insufficient and unusable. For both of them comments are just an afterthought - it is extremely hard to discuss specific parts of long-form media & for good localized signal to actually surface & be noticed.
 
-# Solution
+# The idea
 
 Instead why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments & annotations based on the range and display the threads below Reddit-style with sorting & filtration options? Here's a screenshot of precisely that (ignore the colors & bad style):
 
