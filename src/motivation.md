@@ -1,6 +1,6 @@
 # Why Headjack
 
-The web is broken on many fronts - this chapter explores many problematic aspects and how they can be either improved or even completely solved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
+The web is broken on many fronts - this chapter explores many problematic aspects and how they can be completely solved or at least improved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
 
 1. [Problems with the current web](problems_with_the_web.md)
 1. [Authenticity](authenticity.md)
