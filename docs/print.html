@@ -787,6 +787,14 @@ https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 <p>Anyone would still be able to run software locally, browse the ecosystem, and fetch content &amp; interactions from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real-time.</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="throughput-numbers-scaling"><a class="header" href="#throughput-numbers-scaling">Throughput numbers (scaling)</a></h1>
 <p>Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.</p>
+<ul>
+<li><a href="numbers.html#how-big-is-a-headjack-transaction">How big is a Headjack transaction</a></li>
+<li><a href="numbers.html#naive-scenario">Naive scenario</a></li>
+<li><a href="numbers.html#realistic-scenario">Realistic scenario</a></li>
+<li><a href="numbers.html#optimizations--scaling">Optimizations &amp; scaling</a></li>
+<li><a href="numbers.html#state-growth">State growth</a></li>
+<li><a href="numbers.html#off-chain-content">Off-chain content</a></li>
+</ul>
 <!-- measuring performance, throughput & latency is hard but here we will provide a simplistic view
 https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 <!-- We believe a credible path to billions and worldwide adoption is necessary as part of the story -->
@@ -1081,6 +1089,16 @@ normal people
 using keypairs & signing actions trustlessly
 https://imgflip.com/memegenerator/112528910/Guy-checks-out-red-dress-girl -->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="competing-projects-list"><a class="header" href="#competing-projects-list">Competing projects (list)</a></h1>
+<ul>
+<li><a href="others_list.html#bluesky">Bluesky</a></li>
+<li><a href="others_list.html#farcaster">Farcaster</a></li>
+<li><a href="others_list.html#tbd">TBD</a></li>
+<li><a href="others_list.html#project-liberty">Project Liberty</a></li>
+<li><a href="others_list.html#cyberconnect">CyberConnect</a></li>
+<li><a href="others_list.html#lens-protocol">Lens Protocol</a></li>
+<li><a href="others_list.html#deso">DeSo</a></li>
+<li><a href="others_list.html#others">Others</a></li>
+</ul>
 <!-- If project Bluesky, Farcaster and DSNP had a baby it would be Headjack -->
 <h1 id="bluesky"><a class="header" href="#bluesky"><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a></a></h1>
 <p>Their architecture: <a href="https://github.com/bluesky-social/adx/blob/main/architecture.md">link</a></p>
@@ -1254,7 +1272,7 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 <p>Addressability of content is full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes/pubkeys</a> - not human-readable.</p>
 </li>
 </ul>
-<h1 id="lensxyz"><a class="header" href="#lensxyz"><a href="https://lens.xyz/">lens.xyz</a></a></h1>
+<h1 id="lens-protocol"><a class="header" href="#lens-protocol"><a href="https://lens.xyz/">Lens Protocol</a></a></h1>
 <ul>
 <li>
 <p>Keypairs &amp; wallets required.</p>
@@ -1272,7 +1290,7 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 <p>It requires wallets &amp; users to pay for every interaction.</p>
 </li>
 <li>
-<p>It puts everything on-chain and their plans to scale are with bigger blocks &amp; sharding (see <a href="https://docs.deso.org/about-deso-chain/readme">&quot;Phase 4: Sharding&quot;</a>) which is simply not practical for the <a href="https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html">true scale of the public web</a>.</p>
+<p>It puts everything on-chain and their plans to scale are with bigger blocks &amp; sharding (see <a href="https://docs.deso.org/about-deso-chain/readme">&quot;Phase 4: Sharding&quot;</a>) which is simply not practical for the <a href="web_scale.html">true scale of the public web</a>.</p>
 </li>
 <li>
 <p>It financializes as much as possible (creator coins, etc.).</p>
@@ -1303,6 +1321,9 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
     - 
     - do a table as a comparison
     - 
+
+
+if everything is just hashes indexing will suffer.
 
 
 - the hierarchical addressing of content is a natural fit for kafka topics
@@ -1352,6 +1373,19 @@ http://www.paulgraham.com/twitter.html
 <!-- > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html) -->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="problems-with-the-current-web"><a class="header" href="#problems-with-the-current-web">Problems with the current web</a></h1>
 <p>This is a non-exhaustive list of some of the most obvious problems.</p>
+<ul>
+<li><a href="problems_with_the_web.html#the-host-centric-web">The host-centric web</a></li>
+<li><a href="problems_with_the_web.html#lack-of-composability--interoperability">Lack of composability &amp; interoperability</a></li>
+<li><a href="problems_with_the_web.html#black-boxes--algorithmic-bias">Black boxes &amp; algorithmic bias</a></li>
+<li><a href="problems_with_the_web.html#vertical-integration-vs-specialization--competition">Vertical integration vs specialization &amp; competition</a></li>
+<li><a href="problems_with_the_web.html#growth-network-effects--monopolies">Growth, network effects &amp; monopolies</a></li>
+<li><a href="problems_with_the_web.html#centralized--fragmented-identitypreferences">Centralized &amp; fragmented identity/preferences</a></li>
+<li><a href="problems_with_the_web.html#the-cold-start-problem-for-startups">The cold start problem for startups</a></li>
+<li><a href="problems_with_the_web.html#infrastructure-centralization">Infrastructure centralization</a></li>
+<li><a href="problems_with_the_web.html#cultural-fragmentation--filter-bubbles">Cultural fragmentation &amp; filter bubbles</a></li>
+<li><a href="problems_with_the_web.html#moderation--censorship">Moderation &amp; censorship</a></li>
+<li><a href="problems_with_the_web.html#problems-with-specific-platforms">Problems with specific platforms</a></li>
+</ul>
 <h1 id="the-host-centric-web"><a class="header" href="#the-host-centric-web">The host-centric web</a></h1>
 <p>One major problem of the current internet architecture is that documents are host-certified and communication happens through the <a href="https://en.wikipedia.org/wiki/End-to-end_principle">end-to-end principle</a> - we refer to data by location instead of contents. The consequences are explained in the <a href="host_centric.html">host-centric</a> page (contrast that to <a href="data_centric.html">data-centric</a>).</p>
 <p>TODO: mention the lack of authenticity as a major problem</p>
@@ -1548,6 +1582,13 @@ The terrifying thing about this is that Google is not an elected entity. Google 
 </blockquote>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="authenticity"><a class="header" href="#authenticity">Authenticity</a></h1>
 <p>In the current web documents are <a href="problems_with_the_web.html#the-host-centric-web">host-certified</a> and we refer to data by location instead of contents. Here we'll further expand on problems with the status quo and list the benefits of building a <a href="https://en.wikipedia.org/wiki/Web_of_trust">web of trust</a> at web-scale through <a href="data_centric.html">data-centric</a> addressing &amp; <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> documents in an open ecosystem with freely shared public data tied to identity.</p>
+<ul>
+<li><a href="authenticity.html#the-ledger-of-record">The ledger of record</a></li>
+<li><a href="authenticity.html#the-history-of-document-updates">The history of document updates</a></li>
+<li><a href="authenticity.html#deduplicating-documents--traceability">Deduplicating documents &amp; traceability</a></li>
+<li><a href="authenticity.html#verifiable-credentials">Verifiable credentials</a></li>
+<li><a href="authenticity.html#reputation-systems">Reputation systems</a></li>
+</ul>
 <h1 id="the-ledger-of-record"><a class="header" href="#the-ledger-of-record">The ledger of record</a></h1>
 <p>We'll be able to computationally verify the authenticity of any document &amp; tie it to an identity as long as we also have the proofs for it - giving birth to the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a> where argument from cryptography begins superseding argument from authority.</p>
 <p>Anyone might have saved a specific document (&amp; updates to it) locally along with the necessary proofs for authenticity even if most infrastructure no longer stores/serves it. There is a <code>1 of N</code> guarantee which allows documents that someone wants buried to be passed around with proofs and resurface in the public at a later point - improving accountability.</p>
@@ -1746,6 +1787,12 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <!-- https://en.wikipedia.org/wiki/All_the_world%27s_a_stage -->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="algorithms-feeds--aggregation"><a class="header" href="#algorithms-feeds--aggregation">Algorithms, feeds &amp; aggregation</a></h1>
 <p>The most important aspect of today's media are the <a href="https://en.wikipedia.org/wiki/Recommender_system">recommendation systems</a> that guide our attention and ultimately our thoughts, opinions &amp; culture at scale. Most algorithms we use are <a href="problems_with_the_web.html#black-boxes--algorithmic-bias">black boxes</a> - we don't know what they are nor how the ML models are parameterized &amp; trained and if there's any (intentional) bias. And even if that was public information - there would be no way to check because we don't have access to the data either. Furthermore, nobody can build new competing indexes, models &amp; recommendation engines and we're left with the lowest common denominator that optimizes mostly for engagement &amp; time spent in the attention economy.</p>
+<ul>
+<li><a href="algorithms_feeds_aggregation.html#verifiable-algorithms-indexes--models">Verifiable algorithms, indexes &amp; models</a></li>
+<li><a href="algorithms_feeds_aggregation.html#feeds--home-pages">Feeds &amp; home pages</a></li>
+<li><a href="algorithms_feeds_aggregation.html#signaling-preferences">Signaling preferences</a></li>
+<li><a href="algorithms_feeds_aggregation.html#aggregate-sentiment---the-big-picture">Aggregate sentiment - the big picture</a></li>
+</ul>
 <h1 id="verifiable-algorithms-indexes--models"><a class="header" href="#verifiable-algorithms-indexes--models">Verifiable algorithms, indexes &amp; models</a></h1>
 <p>Within Headjack, all public data is freely accessible and the <a href="https://mattturck.com/the-power-of-data-network-effects/">data network effect</a> is shared by every actor in the ecosystem - anyone can train new ML models, compute views and analyze data in new ways. There will be demand for all kinds of indexes &amp; models but because entry is permissionless a market will appear and the ones that process data the most efficiently will be rewarded. The results of such batch processing jobs could be public or private (available only to those who pay for access) and the product would be verifiable - either optimistically (trust by default but with the option to recreate them and check for equivalence at some cost) or through <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a>.</p>
 <blockquote>

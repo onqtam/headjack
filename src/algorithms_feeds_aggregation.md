@@ -2,6 +2,8 @@
 
 The most important aspect of today's media are the [recommendation systems](https://en.wikipedia.org/wiki/Recommender_system) that guide our attention and ultimately our thoughts, opinions & culture at scale. Most algorithms we use are [black boxes](problems_with_the_web.md#black-boxes--algorithmic-bias) - we don't know what they are nor how the ML models are parameterized & trained and if there's any (intentional) bias. And even if that was public information - there would be no way to check because we don't have access to the data either. Furthermore, nobody can build new competing indexes, models & recommendation engines and we're left with the lowest common denominator that optimizes mostly for engagement & time spent in the attention economy.
 
+<!-- toc -->
+
 # Verifiable algorithms, indexes & models
 
 Within Headjack, all public data is freely accessible and the [data network effect](https://mattturck.com/the-power-of-data-network-effects/) is shared by every actor in the ecosystem - anyone can train new ML models, compute views and analyze data in new ways. There will be demand for all kinds of indexes & models but because entry is permissionless a market will appear and the ones that process data the most efficiently will be rewarded. The results of such batch processing jobs could be public or private (available only to those who pay for access) and the product would be verifiable - either optimistically (trust by default but with the option to recreate them and check for equivalence at some cost) or through [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing).

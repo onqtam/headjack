@@ -18,6 +18,9 @@
     - 
 
 
+if everything is just hashes indexing will suffer.
+
+
 - the hierarchical addressing of content is a natural fit for kafka topics
     - application IDs as topics and offsets as nonces
         - lol - no, there are limits to how many topics there are - better use Cassandra

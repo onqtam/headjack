@@ -2,6 +2,8 @@
 
 In the current web documents are [host-certified](problems_with_the_web.md#the-host-centric-web) and we refer to data by location instead of contents. Here we'll further expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents in an open ecosystem with freely shared public data tied to identity.
 
+<!-- toc -->
+
 # The ledger of record
 
 We'll be able to computationally verify the authenticity of any document & tie it to an identity as long as we also have the proofs for it - giving birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority.

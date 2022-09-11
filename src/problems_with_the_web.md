@@ -2,6 +2,8 @@
 
 This is a non-exhaustive list of some of the most obvious problems.
 
+<!-- toc -->
+
 # The host-centric web
 
 One major problem of the current internet architecture is that documents are host-certified and communication happens through the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle) - we refer to data by location instead of contents. The consequences are explained in the [host-centric](host_centric.md) page (contrast that to [data-centric](data_centric.md)).
