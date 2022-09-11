@@ -79,3 +79,15 @@ use blockchains, self-host all your data, and sign every action
 manage many keypair wallets and isolate risk
 use a blockchain with hierarchical trust & don't require keypairs by default
 https://imgflip.com/memegenerator/Expanding-Brain -->
+
+
+<!-- <div style="text-align: center;">
+    <img src="images/meme_drake_better_trust.jpg">
+</div> -->
+
+<!-- TRUSTLESS
+manage keypairs & sign actions
+BETTER TRUST
+hierarchical trust & account management without keypairs by default
+https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
+

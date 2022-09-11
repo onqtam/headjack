@@ -32,20 +32,15 @@ The host-centric status quo is just a local maximum. Headjack wants to:
 
 <!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
 
-<img src="images/one_chain_to_link_them_all_1000x800.jpeg">
+<div style="text-align: center;">
+    <img src="images/meme_trojan_horse.jpg">
+</div>
 
-<!--
-One Chain to
-Link them all
-One Chain to
-Sort them
-One Chain to
-Prove them all
-and forever
-Bind them
-
+<!-- linking data to identity without keys at scale
+unbundling monopolies, decentralizing media & rearchitecting the web
 Headjack
--->
+Users & devs
+https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
 
 # Ambition
 
@@ -71,3 +66,18 @@ Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel
 Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity and media - just because it's a lot of work doesn't mean we shouldn't be building on the right foundation. It is the supermassive digital gravity well and is going after the entire web as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence).
 
 The outcome is binary - **`success`** or **`failure`** and is worth trying despite the odds.
+
+<img src="images/one_chain_to_link_them_all_1000x800.jpeg">
+
+<!--
+One Chain to
+Link them all
+One Chain to
+Sort them
+One Chain to
+Prove them all
+and forever
+Bind them
+
+Headjack
+-->
