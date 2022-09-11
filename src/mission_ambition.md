@@ -28,7 +28,9 @@ The host-centric status quo is just a local maximum. Headjack wants to:
 - make infrastructure more resilient through [redundancy](possibilities.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
 - slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
 
-# Mission: <u><i>Free data from the host-centric model by linking it to sovereign identity at scale.</i></u>
+<!-- # Mission: <u><i>Free data from the host-centric model by linking it to sovereign identity at scale.</i></u> -->
+
+# Mission: <u><i>Unbundle media & end the host-centric model by linking data to identity at scale.</i></u>
 
 <!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
 
