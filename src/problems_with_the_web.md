@@ -70,6 +70,12 @@ https://www.youtube.com/watch?v=ya_p4RIorXw
 broken media
 culture war, algorithms, audience capture, misaligned incentives, lack of accountability
 
+long form media is rife with misinformation - in an open system we could better tag and discuss it
+
+we should be able to see all referenced facts & entities in long-form media - much easier to check for disinfo
+
+the inability to refer specifically to documents or parts of them linked to their source has made the internet a breeding ground for misinformation
+
 audience capture -->
 
 

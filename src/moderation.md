@@ -146,3 +146,5 @@ https://compdemocracy.org/Moderation/
 
 https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
 
+Why stop at just blue checks? Many different badges for verification!
+

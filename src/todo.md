@@ -10,6 +10,8 @@
 
 - figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
 
+- what if you create a private post for 20 specific followers - you could insert a unique watermark which gets signed along with the payload and then if any of them leak it it would be known who did it - no more piracy?
+
 - new action type: grant ability to someone to "edit" & publish a new version of an item - but not to post on your behalf entirely - only if it's about a specific document or namespace/collection?
 
 - URI to show content published from application A through another application? how to share links from a specific application?
