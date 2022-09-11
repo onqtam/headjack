@@ -2,6 +2,8 @@
 
 Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.
 
+<!-- toc -->
+
 <!-- measuring performance, throughput & latency is hard but here we will provide a simplistic view
 https://a16zcrypto.com/why-blockchain-performance-is-hard-to-measure/ -->
 

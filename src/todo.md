@@ -64,6 +64,8 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - use different book generator
     https://github.com/gohugoio/hugo - shows sidebar on the right with the ToC of the page
+    https://github.com/facebook/docusaurus
+    like this one? https://github.com/dvitanov/lorevc
     gitbook? also shows the outline on the right for the headings in a page:
         https://docs.gitbook.com/organizations/member-management/roles#reviewer
     https://github.com/badboy/mdbook-toc/pull/26

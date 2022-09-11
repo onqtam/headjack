@@ -1,5 +1,7 @@
 # Competing projects (list)
 
+<!-- toc -->
+
 <!-- If project Bluesky, Farcaster and DSNP had a baby it would be Headjack -->
 
 # [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
@@ -153,7 +155,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m) - not human-readable.
 
-# [lens.xyz](https://lens.xyz/)
+# [Lens Protocol](https://lens.xyz/)
 
 - Keypairs & wallets required.
 
@@ -165,7 +167,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - It requires wallets & users to pay for every interaction.
 
-- It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html).
+- It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](web_scale.md).
 
 - It financializes as much as possible (creator coins, etc.).
 
