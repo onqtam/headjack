@@ -62,6 +62,16 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - What would browsers become?
 
+- use different book generator
+    https://github.com/gohugoio/hugo - shows sidebar on the right with the ToC of the page
+    gitbook? also shows the outline on the right for the headings in a page:
+        https://docs.gitbook.com/organizations/member-management/roles#reviewer
+    https://github.com/badboy/mdbook-toc/pull/26
+
+- rework the changes in the themes to not have copy-pasted files in the theme/css directory with a few changes but instead to use this in book.toml: `additional-css=["the_file.css"]`
+    changes in general.css: background-image: var(--bg-img);
+    changes in variables.css: --bg-img: url("../images/background.jpg");
+
 # Postponed
 
 - merge accounts?
