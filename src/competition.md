@@ -91,3 +91,11 @@ BETTER TRUST
 hierarchical trust & account management without keypairs by default
 https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
 
+<!-- <div style="text-align: center;">
+    <img src="images/meme_red_dress_better_trust.jpg">
+</div> -->
+
+<!-- better trust & familiar UX
+normal people
+using keypairs & signing actions trustlessly
+https://imgflip.com/memegenerator/112528910/Guy-checks-out-red-dress-girl -->
