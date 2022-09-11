@@ -40,3 +40,10 @@ concern: with better traceability, censoring events could be easier, but importa
 
 Con: everyone will see the authorized apps?
 
+
+possible disruption by account abstraction & ZK stuff?
+
+# Unintended consequences
+
+anyone analyzing data more easily at scale?
+
