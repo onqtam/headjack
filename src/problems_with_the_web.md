@@ -79,12 +79,17 @@ we should be able to see all referenced facts & entities in long-form media - mu
 the inability to refer specifically to documents or parts of them linked to their source has made the internet a breeding ground for misinformation
 https://www.youtube.com/watch?v=u3TPxQao3m0&list=PLPslWoHNC5x3noyezZ79BlkvGV1XK3ubf
 
-audience capture -->
+audience capture
+
+
+> "technology increases the efficiency of manufacturing consent in the same way it increases the efficiency of manufacturing everything else" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+-->
 
 
 
 
-# Vertical integration vs specialization & competition
+# Vertical integration vs market & competition
 
 Platforms do almost everything in-house in a closed way as providing access to third-party companies to their data to solve specific problems is hard due to complications around data privacy/regulation and the need to safeguard their competitive advantages & trade secrets.
 

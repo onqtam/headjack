@@ -1,6 +1,6 @@
 # What's possible with open data
 
-Tying data to identity and making it freely available & outside of silos through content-centric addressing enables tons of composability, functionality & innovation.
+Tying data to identity and making it freely available & outside of silos through content-centric addressing enables a lot of composability, functionality & innovation.
 
 <!-- toc -->
 

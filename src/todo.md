@@ -1,5 +1,8 @@
 # To think about
 
+- this !!!
+    https://blog.ceramic.network/capability-based-data-security-on-ceramic/
+
 - URI for a profile? what would it look like? just the integer index?
 
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
@@ -23,6 +26,7 @@
 
 - PROBLEM: what if a name is just a number - how does that impact URIs? there can be collisions... must find a way to resolve such conflicts
     - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
+    !!! How about a mixed URI where the application has a name but the user is an integer? must distinguish in the URI schema!
 
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
@@ -74,6 +78,8 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
     changes in general.css: background-image: var(--bg-img);
     changes in variables.css: --bg-img: url("../images/background.jpg");
 
+- use summary sections at the start of pages like here: https://www.lore.vc/phase-i-preparation
+
 # Postponed
 
 - merge accounts?
@@ -99,7 +105,7 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - can CRDTs be used like in farcaster?
     https://github.com/farcasterxyz/protocol#4-replication
 
-
+- how does The Graph fit into this?!
 
 # Phrases that don't have a place yet
 

@@ -40,10 +40,13 @@ concern: with better traceability, censoring events could be easier, but importa
 
 Con: everyone will see the authorized apps?
 
+complexity before the dust settles and tihngs become established ways
 
 possible disruption by account abstraction & ZK stuff?
 
 # Unintended consequences
 
 anyone analyzing data more easily at scale?
+Panopticon as a service?
+https://en.wikipedia.org/wiki/Panopticon
 
