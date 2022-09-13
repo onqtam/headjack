@@ -148,3 +148,7 @@ https://knightcolumbia.org/content/protocols-not-platforms-a-technological-appro
 
 Why stop at just blue checks? Many different badges for verification!
 
+
+Youtube has some serious issues... - flagging, moderation, etc.
+https://www.youtube.com/watch?v=_IuqFlWovGQ
+

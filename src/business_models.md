@@ -122,6 +122,14 @@ google currently gets the lions share of the ad revenue
 One reason Headjack would win is because there will be no wallet fragmentation - users will mostly have 1 account.
 
 
+<!--
+Headjack only facilitates addressing but doesn't store anything besides the history of keys and authorizations - all content is off-chain and for example GDPR compliance will affect all services but not Headjack itself (Not sure if this is true). An excellent read on the topic: [The right to never be forgotten](https://www.thepullrequest.com/p/the-right-to-never-be-forgotten).
+
+must read about this:
+https://en.wikipedia.org/wiki/Contextual_integrity
+-->
+
+
 TODO: re-read
 https://www.thepullrequest.com/p/the-right-to-never-be-forgotten
 
