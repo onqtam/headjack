@@ -84,7 +84,7 @@ https://en.wikipedia.org/wiki/Eternal_September
 https://en.wikipedia.org/wiki/Astroturfing
 
 
-https://danieljeffries.substack.com/p/why-well-hate-section-230s-repeal?sd=fs&s=r
+https://danieljeffries.substack.com/p/why-well-hate-section-230s-repeal
 
 
 https://twitter.com/ummjackson/status/1531651884288647170

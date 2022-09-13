@@ -80,6 +80,7 @@ concern: message standards...
 
 https://schema.org/
 
+https://en.wikipedia.org/wiki/Data_model
 
 new types of messages get an on-chain ID so subscriptions are integer-based
 

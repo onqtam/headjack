@@ -12,7 +12,7 @@ Every name has an associated auto-increment nonce (just like account IDs) for ev
 
 But we need to be able to translate not just the application name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check to which account ID does a name in a URI correspond to at that time.
 
-<!-- Alternatively the user name <=> account ID mapping at the time of the blob could be embedded within the blob header (along with proofs) so that fewer queries are necessary to the blockchain. -->
+<!-- Additionally the user name <=> account ID mapping at the time of the blob could be embedded within the blob header (along with proofs) so that fewer queries are necessary to the blockchain. -->
 
 And thus we're able to have URIs such as `twitter.com/55212/johnny/3` to identify any event by any actor - all we'd need to do is a few lookups and we'll be able to use Merkle proofs for any piece of content to prove authenticity. Most URIs could even omit the 4th part because probably there won't be more than 1 action by a user for a given batch by an application.
 

@@ -26,7 +26,7 @@
     - [Authenticity](authenticity.md)
     - [What's possible with open data](possibilities.md)
     - [Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
-    - [Business models](business_models.md)
+    - [Markets, Ads & attribution](business_models.md)
     - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
     - [Goals, mission & ambition](mission_ambition.md)

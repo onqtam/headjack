@@ -12,5 +12,3 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Goals, mission & ambition](mission_ambition.md)
 
 <!-- > "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear) -->
-
-<!-- > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html) -->

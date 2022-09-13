@@ -4,26 +4,64 @@
 
 # Business models
 
+Let's see how the current digital economy could be translated & reimplemented on top of Headjack.
+
+<!-- toc -->
+
+# Why build if [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in) isn't possible?
+
+Freedom can be a competitive advantage: [Substack](https://en.wikipedia.org/wiki/Substack) lets you leave & take your subscribers with you (an email list) - a conscious choice to compete on the quality of service. **But they are an outlier**.
+
+Headjack's fundamental premise is that it unlocks many possibilities & value to users because the barrier to entry for services would be much lower and they could be composable & interoperable which would lead to greater innovation, quality, choice & freedom. So given that users would benefit more in this ecosystem and that their attention is finite & will be spent either way - it stands to reason that there is money to be made in an even bigger pie! But competition will look different.
+
+> "The whole is greater than the sum of its parts." - [Aristotle](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts)
+
+# Unbundling the media stack with markets
+
+The rule book will be different - instead of [vertically integrated](problems_with_the_web.md#vertical-integration-vs-market--competition) services with tons of employees that reinvent the wheel, companies would specialize and compete on different layers of the stack. [Markets Are Eating The World](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/) - there will be one for each of these:
+- Storage & retrieval of historical events, data & results of batch processes.
+- Indexing at scale and even custom indexing by specific criteria.
+- Training of AI models for recommendation systems, feeds, etc.
+- Ad serving engines that match users with ones that would be relevant to them.
+- Computed views (aggregate metrics) such as counts of likes & other interactions.
+- Content moderation & safety labelers (malware/copyright/offensive/spam) producing lists with flagged accounts, specific pieces of content or even entire applications.
+    - Their output could be used not just for the final presentation layer but also before indexes, models & computed views are created as they could be gamed with spam.
+- Custom types of [data streams](possibilities.md#event-streams), [event subscriptions](possibilities.md#notifications--subscriptions), and anything else one could think of!
+
+<div style="text-align: center;">
+    <img src="images/meme_toy_story_markets.jpg">
+</div>
+
+Creating a new social application would require just a bit of frontend code by a few developers with all the heavy lifting of infrastructure, data storage & processing, content moderation, ad serving & recommendation engines being provided by pay-as-you-go services through APIs. The ([data](https://mattturck.com/the-power-of-data-network-effects/)) network effects will be shared by every actor in the ecosystem. Launching a proof of concept would be trivial and new business models & use cases (no ads for social) would be enabled.
+
 <img src="images/infrastructure_companies.png">
 
-
-# Ads
-
-The goal is democratized access, competition & innovation - not the end of the ad model which is a pipe dream.
-
-
-The goal is not to kill the ad model - it is to make everything authentic and allow for better UI and choice and enable the web to step on this
-
-the ad model isn't going anywhere but we are in a "take it or leave" situation without choice - the goal is to fix that
-
-
+It will take some time for markets to mature and the dust to settle once specialization & competition are democratized, but then prices will be low and the efficiency & quality of services high.
 
 # Attribution
+
+The goal is democratized access, competition & innovation  - not the end of the Ad model which is a pipe dream - it isn't going anywhere. The current problem is that we don't have alternatives and that there's no transparency.
+
+> "For as long as humans have crafted disembodied versions of their voices, whether it be Pompeiian graffiti or the latest tweet, there have been attempts to both guide user attention in some remunerative direction, and measure the effectiveness of that attention-gathering." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
+
+> "The attention economy has always had its ledger and its cash register, and Web 3 will be no different." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
+
+
+
+
 
 > "Internet monetization is somewhat like a Soviet election: It doesn’t matter who clicks and where, it’s who counts those clicks that matters. The technology and business of that counting of clicks (and everything else you do online besides) goes by the dull-sounding name of attribution, and it determines the fate of trillion-dollar companies." - [source](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll)
 
 
+Let's examine the following example:
+
 > "A recent example of questionable attribution: I tweeted about my e-mountain bike, Jason Calacanis (of all people) saw it and asked about the model. Someone posted a review from bikeradar.com, and Jason (I don’t know if this is true) probably googled for it and maybe bought it. Who deserves the attributions credit? According to Google (surprise, surprise), it’ll be Google … and they’ll take all the credit, which is why Google is worth so much and Twitter so little." - [source](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll)
+
+This entire flow could be tracked 
+
+Furthermore, attribution services could credit accounts that retweet content and add more interactions with it with some of the profits
+
+
 
 
 de-duplication through content addressing & adding traceability of content helps paint the picture what happened when and by who - aiding attribution. Infrastructure companies on which applications get deployed on can handle such tracking within them but since all the data is openly broadcasted competing services could offer alternative business models.
@@ -37,103 +75,105 @@ de-duplication through content addressing & adding traceability of content helps
 
 [This article](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll) posits that attribution has to go on-chain but Headjack offers an alternative - through the infrastructure companies.
 
-such infrastructure 
-
-
-
-The same infra company could have multiple sets of indexes with different filtration criteria
+It is inevitable that mass media & aggregation will be handled by centralized services that can save user details in logs - what we could do is make a market for user data and make it easier to opt out of such data harvesting with alternatives & a way for whistleblowers to prove if a contract hasn't been honoured.
 
 
 
 
-> "For as long as humans have crafted disembodied versions of their voices, whether it be Pompeiian graffiti or the latest tweet, there have been attempts to both guide user attention in some remunerative direction, and measure the effectiveness of that attention-gathering." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
-
-> "The attention economy has always had its ledger and its cash register, and Web 3 will be no different."
+the history of actions and tracked events would be private and shared only between infra platforms and ppl paying for ads?
 
 
-# Client attribution
+
+what if people jump between apps but aren't logged in some of them? chain is broken.
+
+
+
+
+applications could strategically choose which infrastructure companies they use in order to provide the best attribution for accounts
+
+
+
+The ad business needs competition:
+https://www.wired.com/story/google-antitrust-ad-market-lawsuit/
+
+
+
+
+TODO: grafika kato tazi:
+https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/388a0504-f0a1-4994-b1ab-a1084aee9008_3453x1949.png
+
+
+
+Users could advertise a wallet for micro payments for attribution - or could be handled by their IDMs
+
+
+
+> "Advertising will not go away—it never does—but who profits from it will change radically." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
+
+# Advertising
+
+google currently gets the lions share of the ad revenue
+
+> "For every 1,000 ad views, advertisers pay a certain rate to YouTube. YouTube then takes 45% and the creator gets the rest." - [source](https://www.businessinsider.com/how-much-money-youtube-creators-influencers-earn-real-examples-2021-6)
+
+> "Your take rate is my opportunity" - [@cdixon](https://twitter.com/cdixon/status/1425645842552086532)
+
+
+One reason Headjack would win is because there will be no wallet fragmentation - users will mostly have 1 account.
+
+
+TODO: re-read
+https://www.thepullrequest.com/p/the-right-to-never-be-forgotten
+
+https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/
+
+https://mobiledevmemo.com/how-apple-might-break-fingerprinting-in-ios-16/
+
+google:
+    Apple ATT / SKAdNetwork
+
+attribution is tricky
+https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3d79eda8-590c-4984-97b1-799a21d7b0f7_3734x1183.png
+https://www.thepullrequest.com/p/everything-is-an-ad-network
+
+
+
+# Application attribution
 
 the way for a startup application to get noticed
 
 the persistent URL of content is an advertisement of the application by itself
-similar to twitter's client attribution
+similar to twitter's Application attribution
 
 platforms that can't properly display a message type natively will direct users to the application that published it
 
 Ads themselves are not the root evil - it's the lack of choice & ability to exit in the current monopolistic world due to the benefits of vertical integration in the current host-centric paradigm
-
-# IDMs & storage - the new cloud
-
-https://twitter.com/ZeMariaMacedo/status/1554041365754945537
-
-
-
-
-<!--
-
-creators will need to shift how they monetize because there won't be platform lock-in & attribution :/
-or actually the application attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.
-
-
-Value chain
-
-
-point of view: creating an application without the ability to lock-in users is daunting - but what if most aspects of an application are commercialized & offered as a service so creating a new application is just the frontend? Substack lets you leave & take your subscribers with you - that's a conscious choice and they have decided to compete on the quality of service
-
-Todo: takerate - what it is for other platforms and how it fits in headjack beyond youtube
-
-
-TODO: think about creator monetization and how google currently gets the lions share of the ad revenue
-What if some platforms don't freely provide the content but just anchor it and provide APIs like embedding youtube?
-
-
-How to create a view of the discussion with only paid subscribers?
-
-
-
-== transition from web2 to web3
-traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first
-No other solution has a seamless way to address content on http and bridge with traditional dns
-
-
-
-
-copyright infringement is beneficial for youtube
-https://www.youtube.com/watch?v=4IaOeVgZ-wc
-
-
 
 platform attribution - advertising 
 Application names that were used to publish content can serve as advertising (application attribution) for the platform that was chosen by a user when content is viewed through other applications because the original URIs will be shown and users will be able to click to view each piece of content through the originating application if they choose to (if they've never heard of it before & are curious or if their current application doesn't fully support a given message type).
 
 ==> discoverability of new applications!
 
-There will be a marketplace for every vertical - we need to democratize specialization & competition
+# IDMs & storage - the new cloud
 
+https://twitter.com/ZeMariaMacedo/status/1554041365754945537
 
+# Creator monetization
 
+creators will need to shift how they monetize because there won't be platform lock-in & attribution :/
+or actually the application attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.
 
-Markets, markets everywhere!
-algorithmic transparency & choice
-https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
+# Video & data-heavy content
 
+Video - YouTube,
 
-business models - who will host the content?
-how does The Graph fit into this?! omg?!
+What if some platforms don't freely provide the content but just anchor it and provide APIs like embedding youtube?
 
-incentive for infrastructure companies to do proper filtration of bots - apps can leave for other infrastructure - whereas within twitter there has been conflict of interest for executives as their bonuses counted on counts of users - so why diagnose the bot problem really? TODO: source - or be more vague and don't directly point to twitter
+separate content hosting & delivery from the recommendation system and the serving of ads
 
+streaming
 
-a challenge would be content licenses...
-
-    - Your startup idea cant afford the infrastructure to process 100mb/s of ephemeral data? Pay a service a small fee for a subset of data you’re interested in for your PoC
-
-    - Market for intermediate processed results & indexes so that not everyone needs to reinvent the wheel and build the same set of algorithms and infrastructure over and over again - creating a market for the information pipeline by division of labor & specialization. Any intermediate data structure could be checked for validity based on the inputs - albeit slow. Test but verify - opaque processing rules. No more algorithmic black boxes. Batch processing - web-scale services do that all the time and plenty of work is done on results that are minutes or even hours outdated
-
-
-paywalls? how?
-
-
+# The future of influencer marketing
 
 
 Currently, companies cannot target you directly with ads without the social media platforms as middlemen - but with open data, any company could analyze the world and decide what their target audience is.
@@ -141,6 +181,23 @@ Currently, Coca-Cola targets audiences with the same ad but with some precision 
 
 Imagine influencers being able to use algorithms to generate synthetic versions of themselves pitching different products to different people and having the application infrastructure serve different versions to different people based on who they are. The influencer is the magnet and the algorithms are the tailors. This is the future whether we like it or not. The good thing about an unbundled media stack is that some services will let you avoid ads for a subscription fee.
 
-Influencer marketing  is the end game
+Influencer marketing is the end game
+
+# The first mover advantage & the transition
+
+No other solution has a seamless way to address content on http and bridge with traditional dns
+
+traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first
+
+
+<!--
+
+a challenge would be content licenses...
+
+copyright infringement is beneficial for youtube
+https://www.youtube.com/watch?v=4IaOeVgZ-wc
+
+paywalls? how?
+How to create a view of the discussion with only paid subscribers?
 
 -->
