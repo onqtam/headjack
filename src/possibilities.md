@@ -148,4 +148,6 @@ But that's just scratching the surface - deduplicated open data, persistent URIs
 
 Let's empower them.
 
+<!-- The anonymous can get AI-generated animated avatars & build presence in our minds like never before. -->
+
 <!-- https://en.wikipedia.org/wiki/All_the_world%27s_a_stage -->
