@@ -1,6 +1,6 @@
 # The metaverse
 
-What is the Metaverse? Here are some of the best quotes about its nature:
+What is the Metaverse? Some good quotes about it:
 
 > "The metaverse isn’t a 3D world owned by some corporation. It’s a permissionless market-network which respects and interconnects all user-owned and cryptographically-secured digital identities, reputations, wallets, communities, spaces, and objects.<!-- It’s bootstrapping right now. -->" - [@naval](https://twitter.com/naval/status/1434586449068756993)
 
