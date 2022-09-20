@@ -17,10 +17,7 @@ https://twitter.com/session_app
     https://www.youtube.com/watch?v=L2kuipP3lxk
 
 
-Identity managers can still be compromised and wreack havok, but this is an improvement to the status quo
 
-users should be able to point to their own personal ceramic stream instead of relying on applications
-    they would need to post on-chain to timestamp their new activity for it to be sequenced & addressable with /user/nonce/...
 
 
 an IDM may also use a social recovery wallet instead of email as login - or just a normal wallet/keypair authorization
@@ -28,7 +25,7 @@ an IDM may also use a social recovery wallet instead of email as login - or just
 the more you rely on IDMs for features and data storage, the less sovereign you are.
 
 
-If an IDM does not let users bind keypairs then they will be boycotted
+If an IDM does not let users bind keypairs then they should be boycotted
 
 IDMs never get access to your private key
 
@@ -40,10 +37,6 @@ Permissions for different actions could be separated - for example requiring sig
 
 
 access control
-
-The future of mass-market crypto experiences lies within apps that provide familiar, custodial experiences with the ability to graduate into non-custodial experiences.
-If the goal is to onboard first-time crypto users, the experience must be custodial — at least to start.
-https://future.a16z.com/missing-link-web2-web3-custody-wallets/
 
 https://www.portis.io/
 https://twitter.com/toruslabs
@@ -59,9 +52,6 @@ IDM - pay to cold-DM someone and be seen
 - how to keep progress bars for played audio/video? IDM?
 - notifications - what is seen - managed between applications - IDM?
 
-edge case: what happens if a big application suddenly becomes malicious? How can millions of ppl invalidate activity posted through it without clogging the network?
-    - force applications to bond tokens (proportional to the # of delegators) so that if a fork is necessary, they get penalized.
-    - some zero-knowledge way to aggregate signatures for millions that want to batch a transaction delegation event?
 
 
 SOLVING THIS PROBLEM DeSo have thought about:
@@ -75,7 +65,6 @@ https://eips.ethereum.org/EIPS/eip-4361
 
 
 
-Merging IDs from multiple IDMs if created without keys
 
 
 
@@ -84,9 +73,8 @@ Merging IDs from multiple IDMs if created without keys
 These are [accounts](accounts.md) that can grant the ability to applications to post on behalf of accounts that are under the control of the ACM in question.
 
 
-2 types of delegation: follow events and posting
 
-
+Identity managers can still be compromised and wreck havok, but this is an improvement to the status quo
 TODO: problem: what happens if an ACM with control of millions of accounts stops behaving properly?
 - users without keypairs are screwed
 - users with keypairs will be sending on-chain messages but those will be huge and will clog the network

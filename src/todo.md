@@ -5,6 +5,8 @@
 
 - URI for a profile? what would it look like? just the integer index?
 
+- https://en.wikipedia.org/wiki/URI_fragment
+
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
     Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
     TODO: how to address items from off-chain collections in the URI differently & better?
@@ -42,6 +44,8 @@
 - think about content hosting (especially files & images)
 
 - protected tweets - LOL - followers are also private unless permitted?
+paywalls? how?
+How to create a view of the discussion with only paid subscribers?
 
 - explore how to link private details to identity with ZK
 
@@ -111,6 +115,7 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 `"consistency is incredibly important for creating a compelling user experience"` - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
 
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
 It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.
 
@@ -137,8 +142,6 @@ https://twitter.com/balajis/status/1406400770581303297
 Different systems with their own incentives & cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global namespace
 
 lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level
-
-> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
 > "The web is like an ever-growing library with billions of books and no central filing system." - [how Google works (archived)](https://perma.cc/9HE2-VZF9), already [changed](https://www.google.com/search/howsearchworks/how-search-works/organizing-information/)
 

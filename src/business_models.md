@@ -119,6 +119,12 @@ google currently gets the lions share of the ad revenue
 > "Your take rate is my opportunity" - [@cdixon](https://twitter.com/cdixon/status/1425645842552086532)
 
 
+https://a16zcrypto.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-16-at-10.43.30-PM-1024x582.png
+
+
+> "You know something is profoundly wrong with our economy when Big Tech has a higher take rate than the mafia." - [U.S. Congressman Ritchie Torres](https://www.goodreads.com/quotes/11251272-you-know-something-is-profoundly-wrong-with-our-economy-when)
+
+
 One reason Headjack would win is because there will be no wallet fragmentation - users will mostly have 1 account.
 
 
@@ -128,6 +134,8 @@ Headjack only facilitates addressing but doesn't store anything besides the hist
 must read about this:
 https://en.wikipedia.org/wiki/Contextual_integrity
 -->
+
+Ads themselves are not the root evil - it's the lack of choice & ability to exit in the current monopolistic world due to the benefits of vertical integration in the current host-centric paradigm
 
 
 TODO: re-read
@@ -148,32 +156,31 @@ https://www.thepullrequest.com/p/everything-is-an-ad-network
 
 # Application attribution
 
-the way for a startup application to get noticed
+All content is published through applications and the creator's choice for which one to use is forever embedded in the content URIs. This can serve as advertising for applications because even when a URI is viewed through competing ones, the original source should be displayed and there ought to be a way to view it through the original one - especially if the [message type](messages.md) is not supported.
 
-the persistent URL of content is an advertisement of the application by itself
-similar to twitter's Application attribution
+This can be a powerful way for new applications to get discovered - they can even pay creators to use them in order to attract new users and have their names in the URIs of content **forever**.
 
-platforms that can't properly display a message type natively will direct users to the application that published it
+# Identity managers - the new storage cloud
 
-Ads themselves are not the root evil - it's the lack of choice & ability to exit in the current monopolistic world due to the benefits of vertical integration in the current host-centric paradigm
+[IDMs](IDM.md) will be the central hub to store all user preferences, social graph, DMs, progress on long-form media, personal notes & bookmarks, etc. But also pictures, videos and many other types of data - the one-stop shop for all things identity. There'll be plenty of ways to provide free tiers and yet monetize for more heavy & advanced use. Anyone will be able to host their own IDM.
 
-platform attribution - advertising 
-Application names that were used to publish content can serve as advertising (application attribution) for the platform that was chosen by a user when content is viewed through other applications because the original URIs will be shown and users will be able to click to view each piece of content through the originating application if they choose to (if they've never heard of it before & are curious or if their current application doesn't fully support a given message type).
-
-==> discoverability of new applications!
-
-# IDMs & storage - the new cloud
-
-https://twitter.com/ZeMariaMacedo/status/1554041365754945537
+IDMs could also provide a [feed](algorithms_feeds_aggregation.md#feeds--home-pages) & a home page similar to current social networks with the most "relevant" content for users and even serve ads, but there'll be a lot more configuration options & choice because all IDMs will be in competition with each other & users will be able to migrate.
 
 # Creator monetization
 
 creators will need to shift how they monetize because there won't be platform lock-in & attribution :/
 or actually the application attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.
 
-# Video & data-heavy content
+# Video, long-form media & streaming
 
-Video - YouTube,
+Let's take YouTube for example: currently it is & does many things at once: storage & streaming of video, a recommendation system, serving ads, social features, subscriptions, etc.
+
+In the brave new world of Headjack it would be completely unbundled
+
+TODO:
+- is the video hash uploaded?
+- embedded player required?
+- serving ads or just charging apps for the data streams?
 
 What if some platforms don't freely provide the content but just anchor it and provide APIs like embedding youtube?
 
@@ -202,10 +209,7 @@ traditional web2 companies/apps/websites will be able to gradually transition an
 
 a challenge would be content licenses...
 
-copyright infringement is beneficial for youtube
+copyright infringement is beneficial for YouTube
 https://www.youtube.com/watch?v=4IaOeVgZ-wc
-
-paywalls? how?
-How to create a view of the discussion with only paid subscribers?
 
 -->
