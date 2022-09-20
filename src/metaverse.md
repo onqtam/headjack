@@ -16,7 +16,6 @@ We believe the way forward is through a layered stack of technologies & open pro
 
 > "The metaverse has nothing to do with “view” modalities — the tools you use to see the metaverse. That’s a convenient meme for those who have control over manufacturing hardware." - [source](https://future.com/7-essential-ingredients-of-a-metaverse/)
 
-
 This section couldn't possibly do justice to all the aspects of what it would take to build the Metaverse - please refer to these 2 resources about it from a16z - perhaps the best ones around:
 - [7 Essential Ingredients of a Metaverse](https://future.com/7-essential-ingredients-of-a-metaverse/)
 - [Unlocking the Metaverse: New Opportunities in Games Infrastructure](https://future.com/metaverse-infrastructure-technology-games/)
