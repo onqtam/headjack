@@ -26,7 +26,9 @@ It is highly improbable that the masses (and even most crypto natives) would tol
 
 # Web-scale, blockspace & the UNIX philosophy
 
-People grossly underestimate the size of the web and the infrastructure that's required - what was going on within a single minute of 2021 is [<ins>truly mind-boggling</ins>](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html) (this picture is very incomplete):
+People grossly underestimate the size of the web and the required infrastructure. Here are some decade old [twitter](https://www.internetlivestats.com/twitter-statistics/), [google](https://www.internetlivestats.com/google-search-statistics/) and [other](https://www.internetlivestats.com/) statistics and a few resources about what it takes to run Twitter: [1](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html), [2](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html), [3](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization), [4](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale), [5](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-). What was going on within a single minute of 2021 is [<ins>truly mind-boggling</ins>](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html):
+
+<!-- (this picture is very incomplete) -->
 
 <img src="images/web_scale_techspot.webp">
 
@@ -35,18 +37,16 @@ People grossly underestimate the size of the web and the infrastructure that's r
 <!-- infographic generated from these guys:
 https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
 
-Here are some [twitter](https://www.internetlivestats.com/twitter-statistics/), [google](https://www.internetlivestats.com/google-search-statistics/) and [other](https://www.internetlivestats.com/) statistics from a **decade** ago and a few resources about what it takes to run Twitter: [1](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html), [2](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html), [3](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization), [4](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale), [5](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-). Therefore, we need to make a tradeoff:
+Headjack follows the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - it focuses only on identity (identifiers represented as numbers & name ownership) & linking data/actions to it without trying to do anything orthogonal (data storage, KYC, profiles, privacy, finance, etc.) that can be layered on top. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns). All kinds of systems with their own incentives, cryptoeconomics & guarantees can be implemented on top of this identity layer & [addressing](addressing.md). The on-chain vs off-chain tradeoff and what goes into the blockspace is as follows:
 
-- Consensus should be reached on the absolute bare minimum - only [identity](identity.md) (represented as integers), the history of keypairs & authorizations, name ownership & anchors to off-chain activity are necessary to be on-chain and have guaranteed data availability.
-- All other activity & data should be stored off-chain ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) and other protocols) because of the sheer volume - it's ephemeral and its relevance fades with time. Most of it won't be stored forever but any piece can be backed up through archival services. Events get anchored with cryptographic [Merkle roots](https://en.wikipedia.org/wiki/Merkle_tree) in the main chain so that permissions, inclusion & sequence are provable - that way even if content goes dark it can later resurface. <!-- and be deduplicated by linking it to previous instances (as long as Merkle proofs are present). -->
+- Consensus should be reached on the absolute bare minimum - only [identity](identity.md) (integers), the history of keypairs & authorizations, name ownership & anchors to off-chain activity are necessary to be on-chain and have guaranteed data availability.
+- All other activity & data is stored off-chain ([IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) & other protocols) because of the sheer volume - it's ephemeral and its relevance fades with time. Most of it won't be stored forever but any piece can be backed up through archives & [IDMs](IDM.md). Events get cryptographically anchored with [Merkle roots](https://en.wikipedia.org/wiki/Merkle_tree) to the chain so that permissions, inclusion & sequence are provable.
 
 >"Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
 It must be [**obvious & provable**](numbers.md) that the network has a **credible path to handling billions of users** if entrepreneurs are expected to jump on the opportunity. The easiest mental model will win over developers and users - [singletons](https://en.wikipedia.org/wiki/Singleton_pattern) & opinionated frameworks with a concrete direction are much simpler than a fractured landscape of standards, libraries & chains.
 
 > "Consistency is incredibly important for creating a compelling user experience." - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
-
-Headjack follows the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - it focuses only on identity (an identifier represented as a unique number) & linking data & events to it without trying to do anything orthogonal (KYC, profiles, privacy, finance) that can be layered on top - without imposing constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns). Different systems with their own incentives & cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global namespace
 
 # Decentralization, neutrality & sovereignty
 

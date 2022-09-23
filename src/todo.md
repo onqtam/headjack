@@ -155,6 +155,9 @@ The game theory behind why competing applications (presentation layers/interface
 Designed to stand the test of time - best crypto-economic guarantees, capital efficiency, and scalability.
 It is engineered from first principles - building up from the data to support billions of users
 
+that way even if content goes dark it can later resurface and be deduplicated by linking it to previous instances (as long as Merkle proofs are present).
+
+
 
 > "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
 https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
