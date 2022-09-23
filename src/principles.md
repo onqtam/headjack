@@ -51,18 +51,10 @@ It must be [**obvious & provable**](numbers.md) that the network has a **credibl
 
 # Decentralization, neutrality & sovereignty
 
+- Users should be able to own their identity & connections in a sovereign way with a keypair **even if by default** their activity is managed by an [IDM](IDM.md) that resembles a custodial service.
+
+- Anyone can permissionlessly have a pseudonymous identity, buy a name, operate an [IDM](IDM.md), serve media through an application and publish & broadcast through Headjack using their identity. [Moderation & censorship](moderation.md) happen at the application & infrastructure level - freedom of speech is guaranteed, but not freedom of reach as that is up to the applications & services that serve media. Individuals will always be able to contact one another for private communication.
+
+- Anyone can run software locally, browse the ecosystem, and fetch content & interactions from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real-time.
+
 > "You can build something centralized on something decentralized but you can’t build something decentralized on top of something centralized. Decentralization is always the base layer." - [@RyanSAdams](https://twitter.com/RyanSAdams/status/1553776203621965826)
-
-- Users should be able to own their identity & connections in a sovereign way with a keypair **even if by default** their activity is managed by something resembling a custodial service.
-
-- Anyone should be able to have a pseudonymous identity, operate an [IDM](IDM.md), or serve media through an application. Anyone must be able to publish & broadcast through Headjack using their identity - [moderation & censorship](moderation.md) will happen at the application level.
-
-permissionlessly 
-
-<!-- Nobody can be truly deplatformed - freedom of speech, but no freedom of reach -->
-
-Anyone would still be able to run software locally, browse the ecosystem, and fetch content & interactions from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real-time.
-
-anything should be possible on top of Headjack
-
-
