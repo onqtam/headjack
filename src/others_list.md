@@ -86,7 +86,7 @@ Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs
 
 - Focus is on users self-hosting their own data, running software locally & handling keypairs.
 
-- Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](web_scale.md) on such a granular level and aggregation is not even in the picture.
+- Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) on such a granular level and aggregation is not even in the picture.
 
 # [Project Liberty](https://www.projectliberty.io/)
 
@@ -167,7 +167,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - It requires wallets & users to pay for every interaction.
 
-- It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](web_scale.md).
+- It puts everything on-chain and their plans to scale are with bigger blocks & sharding (see ["Phase 4: Sharding"](https://docs.deso.org/about-deso-chain/readme)) which is simply not practical for the [true scale of the public web](principles.md#web-scale-blockspace--the-unix-philosophy).
 
 - It financializes as much as possible (creator coins, etc.).
 

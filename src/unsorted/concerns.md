@@ -13,6 +13,14 @@
 
 - how to handle the name registration and avoiding hoarding
 
+
+
+https://twitter.com/cfenollosa/status/1566484145446027265
+https://news.ycombinator.com/item?id=32715437
+https://news.ycombinator.com/item?id=32718591
+perhaps spam in email is a harder problem compared to Headjack where everything is tied to identity & it might cost money to create an account?
+
+
 - Sybil attack - spam, bloat, state growth with dead IDs
     https://maciek.blog/dit/
     list of solutions to the sybil attack problem:

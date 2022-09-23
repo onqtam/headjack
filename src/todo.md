@@ -7,6 +7,8 @@
 
 - https://en.wikipedia.org/wiki/URI_fragment
 
+- how to address content on other blockchains? what would the URIs be?
+
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
     Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
     TODO: how to address items from off-chain collections in the URI differently & better?
@@ -14,6 +16,9 @@
     sets/collections from an entity!
 
 - figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
+https://en.wikipedia.org/wiki/OAuth
+https://twitter.com/docknetwork/status/1570034345649532931
+https://twitter.com/auth0
 
 - what if you create a private post for 20 specific followers - you could insert a unique watermark which gets signed along with the payload and then if any of them leak it it would be known who did it - no more piracy?
 
@@ -113,15 +118,7 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 # Phrases that don't have a place yet
 
-`"consistency is incredibly important for creating a compelling user experience"` - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
-
 > "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
-
-It is engineered from first principles - building up from the data to support billions of users and a [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) for the best UX - there will be no mass adoption without retaining the comforts and UX of Web2 that we've become so accustomed to.
-
-You can build something centralized on something decentralized but you can’t build something decentralized on top of something centralized.
-Decentralization is always the base layer.
-https://twitter.com/RyanSAdams/status/1553776203621965826
 
 The archivability of the web will be greatly improved - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) effect due to the current [host-centric](host_centric.md) web.
 
@@ -139,8 +136,6 @@ The archivability of the web will be greatly improved - fighting back the [sand 
 block explorers are the future of browsing
 https://twitter.com/balajis/status/1406400770581303297
 
-Different systems with their own incentives & cryptoeconomics can be implemented on top of this addressing - adding guarantees for services while still under the same global namespace
-
 lowest common denominator UX is fine but the power users should be able to go crazy - let them separate signal from noise on a global level
 
 > "The web is like an ever-growing library with billions of books and no central filing system." - [how Google works (archived)](https://perma.cc/9HE2-VZF9), already [changed](https://www.google.com/search/howsearchworks/how-search-works/organizing-information/)
@@ -149,7 +144,16 @@ if something like TikTok & short clips are here to stay - at least let's interwe
 
 
 
+The terms [message](messages.md)/event/action/data/content are used interchangeably in this book and refer to any type of event/content a user might have generated - post/comment/reaction/etc.
 
+The game theory behind why competing applications (presentation layers/interfaces/views - probably operated by a company with a business model) would freely share the activity of their users with others to display is that if they don't they would be effectively denying reach - users would migrate to a competitor because the cost to do so is 0 - [`voice and exit`](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty_Model). Current social media platforms are monopolies because identities are not portable and the network effects are in private database silos - a problem practically insurmountable for incumbents.
+
+
+<!-- We need to be realistic and focus on the essence - Headjack decentralizes only the most important part of monopolies - identity - and thus leveling the playing field for competition. It accomplishes this by avoiding the need for keypairs & signatures by default through an on-chain authorization mechanism while maintaining the optionality for anyone to be fully self-sovereign & explicit - acting as a base layer for competing & interoperable services. It also facilitates data-centric addressing of content under a global namespace which further disincentivizes hoarding data in silos. -->
+
+
+Designed to stand the test of time - best crypto-economic guarantees, capital efficiency, and scalability.
+It is engineered from first principles - building up from the data to support billions of users
 
 
 > "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."

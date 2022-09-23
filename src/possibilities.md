@@ -24,6 +24,9 @@ In an open data environment anything could become an event stream as long as som
 
 If someone implements speech-to-text and starts transcribing audio episodes and publishing the output it would immediately become available to anyone and would automatically end up being parsed, indexed & pushed through data pipelines. Composability. This is not possible with closed platforms - even if someone was willing to pay the processing costs.
 
+https://openai.com/blog/whisper/
+https://news.ycombinator.com/item?id=32927360
+
 # Notifications & subscriptions
 
 Twitter decided that it needs to boost engagement and forced "recent tweet" notifications on us [without the ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/) - that needs to stop - explicit preferences should be honored.

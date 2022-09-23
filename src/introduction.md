@@ -10,7 +10,7 @@
 <!-- also should replace href="https:// with href=" after each export -->
 <!-- https://github.com/rust-lang/mdBook/issues/773 -->
 
-Headjack is a blockchain that links sovereign identities to content at [web-scale](web_scale.md). Key points:
+Headjack is a blockchain that links sovereign identities to content at [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy). Key points:
 
 - Creation is fundamentally different from transfers and exchange of value - the design space around trust & data availability for media and identity is different from finance.
 
@@ -19,7 +19,11 @@ It is not about less or more trust but about better trust.
 
 Headjack is about better trust - not trustlessness
 
+creational - not transactional
+
 # Motto: <s>TRUSTLESS</s> ***BETTER TRUST***
+
+Headjack does sequencing of events.
 
 Breaking apart identity and media allows for better incentives
 
@@ -27,13 +31,13 @@ it does not deal with storage and neither with routing - any kind of routing can
 
  -->
 
-- Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy) can be layered on top of it. <!-- through data associations -->
+- Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy) can be layered on top of it.
 
 - It solves single sign-on and allows for user experience similar to Web2 through [hierarchical authorization management](identity.md) - keypairs are not required by default and even those with keys bound to their accounts may choose to not explicitly sign every interaction.
 
 - Consensus is reached on the absolute bare minimum - the history of authorizations, names, keys & off-chain content anchors (merkle roots) - the simplest mental model for developers.
 
-- Headjack can support **billions** of accounts and link **unlimited** amounts of off-chain activity to them. The [entire web](web_scale.md) can be rebuilt on top of it - a claim that is [easily provable](numbers.md).
+- Headjack can support **billions** of accounts and link **unlimited** amounts of off-chain activity to them. The [entire web](principles.md#web-scale-blockspace--the-unix-philosophy) can be rebuilt on top of it - a claim that is [easily provable](numbers.md).
 
 - [Content addressing](addressing.md) is with persistent & human-readable URIs (instead of hashes) - the link between identity and data is cryptographically provable even if keys & names have changed.
 
@@ -43,7 +47,9 @@ it does not deal with storage and neither with routing - any kind of routing can
 
 # Book structure
 
-- **What is Headjack** - How the protocol technically works, how it compares with other projects, and how things like DMs, social graphs, preferences, etc. could be implemented - the building blocks necessary to recreate anything from Web2 and beyond.
+- **What is Headjack** - How the protocol technically works and how things like applications, services, DMs, social graphs, preferences, etc. could be implemented - the building blocks necessary to recreate anything from Web2 and beyond.
+
+<!-- how it compares with other projects -->
 
 - **Why Headjack** - What's broken with the web and a blueprint of what could be possible - services, business models, infrastructure, algorithms, markets, metaverse, etc.
 
@@ -52,8 +58,7 @@ it does not deal with storage and neither with routing - any kind of routing can
 # What is Headjack
 
 <!-- The following sub-chapters convey the idea (**what**) and a high-level view of how it works: -->
-1. [On-chain vs off-chain](on_off_chain.md)
-1. [Guiding principles](principles.md)
+1. [Guiding principles & design goals](principles.md)
 1. [Identity & authorization](identity.md)
 1. [Messages](messages.md)
 1. [Account preferences & graphs](account_preferences.md)
@@ -65,7 +70,6 @@ it does not deal with storage and neither with routing - any kind of routing can
     1. [Names, paths, & more](names_and_paths.md)
 1. [Storage & retrievability of data](store_and_retrieve.md)
 1. [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
-1. [Web-scale & UX](web_scale.md)
 1. [Throughput numbers (scaling)](numbers.md)
 1. [Headjack vs the competition](competition.md)
     1. [List of other projects](others_list.md)
