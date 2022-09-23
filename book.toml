@@ -15,9 +15,9 @@ git-repository-icon = "fa-github"
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
 
-#[output.html.fold]
-#enable = true
-#level = 0
+[output.html.fold]
+enable = true
+level = 3
 
 [preprocessor.toc]
 command = "mdbook-toc"

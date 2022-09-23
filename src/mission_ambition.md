@@ -11,7 +11,7 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 
 # Goals
 
-The host-centric status quo is just a local maximum. Headjack wants to:
+The host-centric status quo is just a local maximum - thanks to gradient descent. Headjack wants to:
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should belong to no one
 - rebuild & scale up trust through [authenticity](authenticity.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)

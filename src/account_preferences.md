@@ -72,4 +72,8 @@ muted keywords & preferences
 https://twitter.com/AltcoinPsycho/status/1547203030185017344
 
 
+
+- The importance of user data is on a spectrum with identity & connections being the most valuable - a clear example is [Substack](https://en.wikipedia.org/wiki/Substack) (basically [Medium](https://en.wikipedia.org/wiki/Medium_(website)) but you own the mailing list for your audience). The [interest graph](https://en.wikipedia.org/wiki/Interest_graph) is the subscription layer for information propagation - a forward-looking & ever-evolving data structure that gets reused over and over again each time content is created. It is the [essential crown jewel](https://twitter.com/balajis/status/1162539429484871681) that needs preservation - the global [pub-sub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern). The data availability (DA - storage & retrievability) for identity & the interest graph needs to be guaranteed with cryptoeconomics on a permissionless ledger so anyone can build around it.
+
+
 -->

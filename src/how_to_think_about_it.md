@@ -21,6 +21,9 @@
 if everything is just hashes indexing will suffer.
 
 
+Whatever you think about [Urbit](https://urbit.org/) - even it could be migrated from Ethereum to Headjack for its identity. TODO: is this true? 32 bit integers for ids?
+
+
 - the hierarchical addressing of content is a natural fit for kafka topics
     - application IDs as topics and offsets as nonces
         - lol - no, there are limits to how many topics there are - better use Cassandra
@@ -34,6 +37,8 @@ if everything is just hashes indexing will suffer.
 [open state database](https://twitter.com/balajis/status/1123092897664880640)
 
 
+
+RSS was [too technical](https://twitter.com/mgsiegler/status/311992206716203008) and it failed - [`"people jumped ship as soon as something better came along"`](https://twobithistory.org/2018/12/18/rss.html).
 
 
 

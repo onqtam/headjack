@@ -93,4 +93,5 @@ the <application_id>/<application_nonce> is embedded in a message that's being s
 
 - if a reply message has the URI to the original in non canonical form it would be harder for infrastructure to match those - it would have to translate the string URI to a number URI
 
+
 -->

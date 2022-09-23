@@ -6,7 +6,8 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 A list of problems with the contenders in the decentralized identity/media space:
 
-- No credible path to [web-scale](web_scale.md) - some will hit a wall even at 1 million users. Most are vague around their scalability & data structures and don't put it [front and center](numbers.md) - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.
+- No credible path to [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) - some will hit a wall even at 1 million users. Most are vague around their scalability & data structures and don't put it [front and center](numbers.md) - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.
+    - > "It is the mark of a charlatan to explain a simple concept in a complex way." - [@naval](https://twitter.com/naval/status/752796426208325632)
 
 - Complexity & lack of clarity - distributed systems engineers should easily figure out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and may not be around in the future?
     - > "Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
@@ -50,7 +51,7 @@ https://twitter.com/liron/status/1547225903176028160 -->
 
 - [Napkin math for web-scale](numbers.md) is clear and front and center.
 
-- Best [UX](https://en.wikipedia.org/wiki/User_experience)/[DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](IDM.md)) for on-chain authorization of applications. A global [singleton](https://en.wikipedia.org/wiki/Singleton_pattern) solves a lot of problems.
+- Best [UX](https://en.wikipedia.org/wiki/User_experience)/[DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](IDM.md)) for on-chain authorization of applications.
     - Users don't need keys & signatures and also don't care about the costs either.
     - Encapsulates the complexity in [UX](https://en.wikipedia.org/wiki/User_experience) & [DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) - the simplest mental model will win.
     - Full historical record of authorizations & ability to prove anything throughout time.
