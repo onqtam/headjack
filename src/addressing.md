@@ -13,8 +13,6 @@ handle redirects? twitter.com => twitter, so that all content URLs use twitter a
 
 TODO: how to translate from number URI to a name URI? can we ask the blockchain "which names were owned by account X at block height H and with which nonce?" and how do we pick which to use if there are multiple ones?
 
-Unexpirable URIs > unstoppable domains
-
 what about URIs starting with block numbers? under a specific protocol schema?
 
 
@@ -26,26 +24,3 @@ https://api.time.com/wp-content/uploads/2015/08/phones1.jpeg
 https://time.com/4011936/emma-nutt/
 
 -->
-
-<div style="text-align: center;">
-    <img src="images/meme_drake_human_readable_hashes.jpg">
-</div>
-
-<!-- Web3 URIs
-full of hashes:
-
-https://mirror.xyz/0xE4f6
-46F0Be4fF5ce185540F
-5366295f91d75b65D/-xp
-mr7ceHmi5Hqsl7zRtig9p
-h_dtCvWjZOoWOVN0bcg
-
-Persistent
-Headjack URIs:
-
-https://someapp.com
-/527/johnny/3/how-I-
-went-from-vegan-to-
-keto-and-back-again
-
-https://imgflip.com/memegenerator/Drake-Hotline-Bling -->

@@ -519,8 +519,6 @@ handle redirects? twitter.com => twitter, so that all content URLs use twitter a
 
 TODO: how to translate from number URI to a name URI? can we ask the blockchain "which names were owned by account X at block height H and with which nonce?" and how do we pick which to use if there are multiple ones?
 
-Unexpirable URIs > unstoppable domains
-
 what about URIs starting with block numbers? under a specific protocol schema?
 
 
@@ -532,27 +530,7 @@ https://api.time.com/wp-content/uploads/2015/08/phones1.jpeg
 https://time.com/4011936/emma-nutt/
 
 -->
-<div style="text-align: center;">
-    <img src="images/meme_drake_human_readable_hashes.jpg">
-</div>
-<!-- Web3 URIs
-full of hashes:
-
-https://mirror.xyz/0xE4f6
-46F0Be4fF5ce185540F
-5366295f91d75b65D/-xp
-mr7ceHmi5Hqsl7zRtig9p
-h_dtCvWjZOoWOVN0bcg
-
-Persistent
-Headjack URIs:
-
-https://someapp.com
-/527/johnny/3/how-I-
-went-from-vegan-to-
-keto-and-back-again
-
-https://imgflip.com/memegenerator/Drake-Hotline-Bling --><div style="break-before: page; page-break-before: always;"></div><h1 id="todays-web-host-centric"><a class="header" href="#todays-web-host-centric">Today's web: host-centric</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="todays-web-host-centric"><a class="header" href="#todays-web-host-centric">Today's web: host-centric</a></h1>
 <p>Today's web revolves around hosts &amp; <a href="https://en.wikipedia.org/wiki/Unicast">unicast</a> communication - we query <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> to get the IP of servers and open direct connections with them to retrieve the data that they host. But domains, URI paths on servers &amp; the actual files all change &amp; go away which leads to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> &amp; content drift. Guidance such as <a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a> is just that - guidance - and the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid that can hardly keep up with the digital <a href="https://en.wikipedia.org/wiki/Memory_hole">memory hole</a>. In the host-certified paradigm URLs at best point to a location at which a document may have been available at a point in time - devoid of any cryptographic proofs regarding the contents, the creator, or the time of publication (as opposed to <a href="https://en.wikipedia.org/wiki/Self-authenticating_document">self-authenticating</a> data) and everything lives in <a href="https://en.wikipedia.org/wiki/Information_silo">silos</a> with no interoperability which severely limits the possible innovation and composability on the web and leads to fragmentation of the public discussion (if any). In fact <a href="https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/">&quot;more than 98% of the information on the web is lost within 20 years&quot;</a>.</p>
 <blockquote>
 <p>&quot;The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt <a href="https://en.wikipedia.org/wiki/Uniform_Resource_Name">URNs</a> on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it.&quot; - <a href="https://news.ycombinator.com/item?id=27691442">tgbugs</a>.</p>
@@ -666,12 +644,49 @@ One thing to consider is if a user revokes the authorization of an application t
 </ol>
 <h1 id="web3-uris-interoperable-in-web2"><a class="header" href="#web3-uris-interoperable-in-web2">Web3 URIs interoperable in Web2</a></h1>
 <p>Application accounts can point on-chain to a host with an IP address which can be used to display content published through them. Application names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly into your browser and as long as they own the same domain in the traditional <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> they should be able to serve a webpage displaying the piece of content - enabling seamless interoperability during the transition from one paradigm to the other.</p>
+<div style="text-align: center;">
+    <img src="images/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg">
+</div>
+<!-- Persistent
+human-readable
+URIs that work
+even if names
+change ownership
+
+Web3
+Unstoppable
+domains &
+Ethereum Name
+Service as NFTs
+
+https://imgflip.com/memegenerator/Buff-Doge-vs-Cheems -->
 <h1 id="content-titles-in-uris"><a class="header" href="#content-titles-in-uris">Content titles in URIs</a></h1>
 <p>Most Web3 platforms <a href="https://twitter.com/hasufl/status/1537388439259291649">suffer from unreadable URIs</a> but we've done a lot better - note the brevity and lack of hashes &amp; hexadecimal symbols (<code>0xf56a0...</code>) - in fact, this is as good as it gets...</p>
 <p><strong>Or is it?!</strong> What about headlines of articles - can we have them included as well - something like <code>twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again</code>? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: <a href="https://stackoverflow.com/questions/4">question 4</a>) but the page router always changes the URL when loading the page to include the title too). <a href="messages.html">Message types</a> for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming applications as it would be a trivial check.</p>
 <h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>
 <p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example, when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example, <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before. Even <a href="https://twitter.com/dwr/status/1544001073844731904">individual pages &amp; paragraphs of books</a> should be referencable in such a manner and could be composed of multiple separate posts - and this is just scratching the surface!</p>
 <p>For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
+<div style="text-align: center;">
+    <img src="images/meme_drake_human_readable_hashes.jpg">
+</div>
+<!-- Web3 URIs
+full of hashes:
+
+https://mirror.xyz/0xE4f6
+46F0Be4fF5ce185540F
+5366295f91d75b65D/-xp
+mr7ceHmi5Hqsl7zRtig9p
+h_dtCvWjZOoWOVN0bcg
+
+Persistent
+Headjack URIs:
+
+https://someapp.com
+/527/johnny/3/how-I-
+went-from-vegan-to-
+keto-and-back-again
+
+https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="storage--retrievability-of-data"><a class="header" href="#storage--retrievability-of-data">Storage &amp; retrievability of data</a></h1>
 <p>Off-chain blobs with data will be fetched, processed and stored immediately after they are published in more optimal database formats for content to be later directly served by application infrastructure. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request proofs for any event at any time (&amp; cache them locally) because they can be regenerated on the fly as necessary.</p>
 <h1 id="hierarchical-data-blobs--partial-fetches"><a class="header" href="#hierarchical-data-blobs--partial-fetches">Hierarchical data blobs &amp; partial fetches</a></h1>
