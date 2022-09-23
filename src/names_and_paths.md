@@ -36,6 +36,24 @@ To recap: we can ask the following questions about this URI: `twitter.com/55212/
 
 Application accounts can point on-chain to a host with an IP address which can be used to display content published through them. Application names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly into your browser and as long as they own the same domain in the traditional [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) they should be able to serve a webpage displaying the piece of content - enabling seamless interoperability during the transition from one paradigm to the other.
 
+<div style="text-align: center;">
+    <img src="images/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg">
+</div>
+
+<!-- Persistent
+human-readable
+URIs that work
+even if names
+change ownership
+
+Web3
+Unstoppable
+domains &
+Ethereum Name
+Service as NFTs
+
+https://imgflip.com/memegenerator/Buff-Doge-vs-Cheems -->
+
 # Content titles in URIs
 
 Most Web3 platforms [suffer from unreadable URIs](https://twitter.com/hasufl/status/1537388439259291649) but we've done a lot better - note the brevity and lack of hashes & hexadecimal symbols (`0xf56a0...`) - in fact, this is as good as it gets...
@@ -47,3 +65,26 @@ Most Web3 platforms [suffer from unreadable URIs](https://twitter.com/hasufl/sta
 Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example, when `medium.com/12475/elvis/0/learn-to-code/121/66` is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (`121/66`) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example, `medium.com/12475/elvis/0/learn-to-code/schema/42/121/187` could mean `"use on-chain schema number 42"` which could interpret the last part (`121/187`) as start offset and end offset instead of start & length - resulting in the same selection as before. Even [individual pages & paragraphs of books](https://twitter.com/dwr/status/1544001073844731904) should be referencable in such a manner and could be composed of multiple separate posts - and this is just scratching the surface!
 
 For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.
+
+<div style="text-align: center;">
+    <img src="images/meme_drake_human_readable_hashes.jpg">
+</div>
+
+<!-- Web3 URIs
+full of hashes:
+
+https://mirror.xyz/0xE4f6
+46F0Be4fF5ce185540F
+5366295f91d75b65D/-xp
+mr7ceHmi5Hqsl7zRtig9p
+h_dtCvWjZOoWOVN0bcg
+
+Persistent
+Headjack URIs:
+
+https://someapp.com
+/527/johnny/3/how-I-
+went-from-vegan-to-
+keto-and-back-again
+
+https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
