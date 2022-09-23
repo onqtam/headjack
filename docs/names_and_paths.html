@@ -175,28 +175,9 @@
 </ol>
 <h1 id="web3-uris-interoperable-in-web2"><a class="header" href="#web3-uris-interoperable-in-web2">Web3 URIs interoperable in Web2</a></h1>
 <p>Application accounts can point on-chain to a host with an IP address which can be used to display content published through them. Application names can also resemble traditional domain names so it will be possible to copy-paste such URIs directly into your browser and as long as they own the same domain in the traditional <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> they should be able to serve a webpage displaying the piece of content - enabling seamless interoperability during the transition from one paradigm to the other.</p>
-<div style="text-align: center;">
-    <img src="images/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg">
-</div>
-<!-- Persistent
-human-readable
-URIs that work
-even if names
-change ownership
-
-Web3
-Unstoppable
-domains &
-Ethereum Name
-Service as NFTs
-
-https://imgflip.com/memegenerator/Buff-Doge-vs-Cheems -->
 <h1 id="content-titles-in-uris"><a class="header" href="#content-titles-in-uris">Content titles in URIs</a></h1>
 <p>Most Web3 platforms <a href="https://twitter.com/hasufl/status/1537388439259291649">suffer from unreadable URIs</a> but we've done a lot better - note the brevity and lack of hashes &amp; hexadecimal symbols (<code>0xf56a0...</code>) - in fact, this is as good as it gets...</p>
 <p><strong>Or is it?!</strong> What about headlines of articles - can we have them included as well - something like <code>twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again</code>? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: <a href="https://stackoverflow.com/questions/4">question 4</a>) but the page router always changes the URL when loading the page to include the title too). <a href="messages.html">Message types</a> for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming applications as it would be a trivial check.</p>
-<h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>
-<p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example, when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example, <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before. Even <a href="https://twitter.com/dwr/status/1544001073844731904">individual pages &amp; paragraphs of books</a> should be referencable in such a manner and could be composed of multiple separate posts - and this is just scratching the surface!</p>
-<p>For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
 <div style="text-align: center;">
     <img src="images/meme_drake_human_readable_hashes.jpg">
 </div>
@@ -218,6 +199,25 @@ went-from-vegan-to-
 keto-and-back-again
 
 https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
+<h1 id="addressing-within-content"><a class="header" href="#addressing-within-content">Addressing within content</a></h1>
+<p>Different schemas could be used for addressing within pieces of content (like a paragraph from an article or a clip from audio/video - without losing the context of the whole) and message types could have by default associated on-chain schemas (or the schema of choice could be embedded within the header of the message). For example, when <code>medium.com/12475/elvis/0/learn-to-code/121/66</code> is being loaded the associated schema will be looked up depending on the type of message (in this case - an article) and used to interpret the last part (<code>121/66</code>) which could mean a character selection with an offset from the start and length. The embedded schema could be overridden by explicitly stating which one to use within the URI. As an example, <code>medium.com/12475/elvis/0/learn-to-code/schema/42/121/187</code> could mean <code>&quot;use on-chain schema number 42&quot;</code> which could interpret the last part (<code>121/187</code>) as start offset and end offset instead of start &amp; length - resulting in the same selection as before. Even <a href="https://twitter.com/dwr/status/1544001073844731904">individual pages &amp; paragraphs of books</a> should be referencable in such a manner and could be composed of multiple separate posts - and this is just scratching the surface!</p>
+<p>For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.</p>
+<div style="text-align: center;">
+    <img src="images/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg">
+</div>
+<!-- Persistent
+human-readable
+URIs that work
+even if names
+change ownership
+
+Web3
+Unstoppable
+domains &
+Ethereum Name
+Service as NFTs
+
+https://imgflip.com/memegenerator/Buff-Doge-vs-Cheems -->
 
                     </main>
 
