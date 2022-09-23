@@ -14,8 +14,6 @@
     - [Storage & retrievability of data](store_and_retrieve.md)
     - [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
     - [Throughput numbers (scaling)](numbers.md)
-    - [Headjack vs the competition](competition.md)
-        - [List of other projects](others_list.md)
     - [How to think about Headjack](how_to_think_about_it.md)
         <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
@@ -29,6 +27,8 @@
     - [Business models](business_models.md)
     - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
+    - [Headjack vs the competition](competition.md)
+        - [List of other projects](others_list.md)
     - [Goals, mission & ambition](mission_ambition.md)
 
     <!-- - [Markets, Ads & attribution](business_models.md) -->

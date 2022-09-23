@@ -71,14 +71,12 @@ it does not deal with storage and neither with routing - any kind of routing can
 1. [Storage & retrievability of data](store_and_retrieve.md)
 1. [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
 1. [Throughput numbers (scaling)](numbers.md)
-1. [Headjack vs the competition](competition.md)
-    1. [List of other projects](others_list.md)
 1. [How to think about Headjack](how_to_think_about_it.md)
 
 <div style="text-align: center;">
     <img src="images/logo.png">
 </div>
 
-Inspired by the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans in the Matrix.
+Named after the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans in the Matrix.
 
 <!-- https://www.youtube.com/watch?v=DoUQhYDz-Ys -->
