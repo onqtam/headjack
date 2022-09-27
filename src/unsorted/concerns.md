@@ -66,6 +66,8 @@ https://twitter.com/driesdepoorter/status/1569285878089908231
 
 https://slatestarcodex.com/2018/10/30/sort-by-controversial/
 
+what if you by mistake like adult content through your main account and that event gets cached by others - unable to be deleted?
+
 Con: extremely easy to detect the personality type of anyone with high accuracy based on their activity - cambridge analytica on stereoids
 
 with open data anyone could build a classifier and label certain people as gay - without their consent.

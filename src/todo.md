@@ -101,6 +101,8 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - rework the changes in the themes to not have copy-pasted files in the theme/css directory with a few changes but instead to use this in book.toml: `additional-css=["the_file.css"]`
     changes in general.css: background-image: var(--bg-img);
     changes in variables.css: --bg-img: url("../images/background.jpg");
+    OR use "RIGHTWARDS ARROW WITH HOOK" manually as a symbol:
+        https://www.w3schools.com/charsets/ref_utf_arrows.asp
 
 - use summary sections at the start of pages like here: https://www.lore.vc/phase-i-preparation
 
