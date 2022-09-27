@@ -1,3 +1,10 @@
+<!--
+TODO: mention the lack of authenticity as a major problem
+
+TODO: Surveillance capitalism
+-->
+
+
 # Problems with the current web
 
 This is a non-exhaustive list of some of the most obvious problems.
@@ -6,11 +13,24 @@ This is a non-exhaustive list of some of the most obvious problems.
 
 # The host-centric web
 
-One major problem of the current internet architecture is that documents are host-certified and communication happens through the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle) - we refer to data by location instead of contents. The consequences are explained in the [host-centric](host_centric.md) page (contrast that to [data-centric](data_centric.md)).
+One major problem of the current internet architecture is that documents are host-certified and communication happens through the [end-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle) - we refer to data by location instead of contents. The consequences are explained in the [host-centric](host_centric.md) page (contrast that to [data-centric](host_vs_data_centric.md)).
 
-TODO: mention the lack of authenticity as a major problem
 
-TODO: Surveillance capitalism
+> "The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it." - [tgbugs](https://news.ycombinator.com/item?id=27691442).
+
+Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation. We can't expect everyone to be like [@balajis](https://twitter.com/balajis) - linking to articles from the Internet Archive ([Example](https://balajis.com/synthesis/): look what `"Prussian"` in that text is [pointing to](https://archive.ph/O2D45)) - this doesn't scale, data is not self-authenticating and is still reliant on a central point of failure. The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting.
+
+> "Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+> "People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+> "If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can." - [source](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
+
+The archivability of the web will be greatly improved - fighting back the [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) effect due to the current host-centric web.
+
+<!-- 99.9% of content on the web is implicitly or explicitly contractually owned by platforms and host-certified - practically everything. -->
+
+
 
 # Lack of composability & interoperability
 
@@ -110,7 +130,7 @@ This leads to:
     - bigger size demands higher revenue - pricing out many business models
 - differences in functionality between platforms => complexity for users
 
-Contrast that to open protocols & exportable data where anyone can specialize, innovate & provide the best possible service for a specific vertical & sell it to others. The move from [host-centric](host_centric.md) to [data-centric](data_centric.md) addressing and open blockchains enable [interoperability](https://balajis.com/yes-you-may-need-a-blockchain/) and composability.
+Contrast that to open protocols & exportable data where anyone can specialize, innovate & provide the best possible service for a specific vertical & sell it to others. The move from [host-centric](host_centric.md) to [data-centric](host_vs_data_centric.md) addressing and open blockchains enable [interoperability](https://balajis.com/yes-you-may-need-a-blockchain/) and composability.
 
 # Growth, network effects & monopolies
 
