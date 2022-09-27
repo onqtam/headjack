@@ -19,6 +19,7 @@ preferred-dark-theme = "ayu"
 enable = true
 level = 3
 
+# requires this: https://github.com/badboy/mdbook-toc
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
