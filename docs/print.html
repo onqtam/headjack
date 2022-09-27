@@ -234,7 +234,10 @@ it does not deal with storage and neither with routing - any kind of routing can
 </div>
 <p>Named after the <a href="https://matrix.fandom.com/wiki/Headjack">data port at the back of the head</a> of synthetically-grown humans in the Matrix.</p>
 <!-- https://www.youtube.com/watch?v=DoUQhYDz-Ys -->
-<div style="break-before: page; page-break-before: always;"></div><h1 id="guiding-principles--design-goals"><a class="header" href="#guiding-principles--design-goals">Guiding principles &amp; design goals</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><!--
+FIX will/can/should and present tense discrepancies
+-->
+<h1 id="guiding-principles--design-goals"><a class="header" href="#guiding-principles--design-goals">Guiding principles &amp; design goals</a></h1>
 <p>These are the guiding principles when aiming for mass adoption of Headjack:</p>
 <ul>
 <li><a href="principles.html#customer-obsession--the-best-possible-ux">Customer obsession &amp; the best possible UX</a></li>
@@ -425,6 +428,9 @@ also contain the current block height in addition to a unix timestamp
 the <application_id>/<application_nonce> is embedded in a message that's being signed through an application/IDM such that it cannot suffer from a replay attack
 
 - if a reply message has the URI to the original in non canonical form it would be harder for infrastructure to match those - it would have to translate the string URI to a number URI
+
+
+Message type about binding something to a financial blockchain and making it illegal for the original creator to make a delete message - all exchange of ownership happens on the financial chain 
 
 
 -->
@@ -1043,6 +1049,7 @@ Whatever you think about [Urbit](https://urbit.org/) - even it could be migrated
 
 
 RSS was [too technical](https://twitter.com/mgsiegler/status/311992206716203008) and it failed - [`"people jumped ship as soon as something better came along"`](https://twobithistory.org/2018/12/18/rss.html).
+This is the user friendly revival of RSS
 
 
 
@@ -1163,6 +1170,15 @@ https://www.youtube.com/watch?v=u3TPxQao3m0&list=PLPslWoHNC5x3noyezZ79BlkvGV1XK3
 audience capture
 
 
+The cat is out of the bag
+
+https://www.wsj.com/articles/the-facebook-files-11631713039
+
+Misinformation is a plague in videos without context
+
+the health of reporting on the web through video is appaling - decentralization and democratization are powerful but without the means to interleave everything into a shared ledger of record and actually have some accountability it all becomes an informational mess. But YouTube doesn't optimize for that - not at all.
+
+
 > "technology increases the efficiency of manufacturing consent in the same way it increases the efficiency of manufacturing everything else" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 -->
@@ -1186,6 +1202,7 @@ audience capture
 <div style="text-align: center;">
     <img src="images/meme_data_most_valuable.jpg">
 </div>
+<!-- https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data -->
 <p>Users are usually locked-in and effectively have no <a href="https://twitter.com/balajis/status/1548725591687303168">voice and exit</a> either because:</p>
 <ul>
 <li>the network effects are insurmountable for incumbents and there are no alternatives</li>
@@ -1446,6 +1463,12 @@ https://news.ycombinator.com/item?id=32927360</p>
 <!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
 <h1 id="the-semantic-web-aka-the-original-web3"><a class="header" href="#the-semantic-web-aka-the-original-web3">The <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (a.k.a. the original &quot;Web3&quot;)</a></h1>
 <p>The biggest hurdle for its adoption has been the <a href="host_centric.html">host-centric</a> paradigm and the hoarding of data in silos with no incentive for exporting &amp; interoperability - Headjack changes that through <a href="data_centric.html">data-centric addressing</a> &amp; broadcasting by default. While there will always be companies that enrich &amp; tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public <a href="https://en.wikipedia.org/wiki/Giant_Global_Graph">Giant Global Graph</a> outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different <a href="messages.html">message types</a> and further annotations will make everything a lot more machine-readable.</p>
+<img src="images/data_information_knowledge.jpg">
+<!-- <img src="images/data_information_knowledge.png"> -->
+<!-- source:
+https://www.theifactory.com/news/gaining-wisdom-from-data/
+https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
+-->
 <h1 id="better-and-more-competitive-search-engines"><a class="header" href="#better-and-more-competitive-search-engines">Better and more competitive <a href="https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d">search engines</a></a></h1>
 <ul>
 <li>Building indexes would be greatly simplified as they will be plugged to the global message bus and update only on events (push) - instead of periodic batch crawling of the public web (pull). <!-- The history of changes will be granular, precise, complete, structured & authenticated. --></li>
@@ -1586,6 +1609,8 @@ https://www.youtube.com/watch?v=CyGWML6cI_k
     <img src="images/meme_toy_story_markets.jpg">
 </div>
 <p>Creating a new social application would require just a bit of frontend code by a few developers with all the heavy lifting of infrastructure, data storage &amp; processing, content moderation, ad serving &amp; recommendation engines being provided by pay-as-you-go services through APIs. The (<a href="https://mattturck.com/the-power-of-data-network-effects/">data</a>) network effects will be shared by every actor in the ecosystem. Launching a proof of concept would be trivial and new business models &amp; use cases (no ads for social) would be enabled.</p>
+<img src="images/data_gravity.png">
+<!-- source: https://www.tigosolutions.com/feedstory/1030 -->
 <img src="images/infrastructure_companies.png">
 <p>It will take some time for markets to mature and the dust to settle once specialization &amp; competition are democratized, but then prices will be low and the efficiency &amp; quality of services high.</p>
 <h1 id="attribution"><a class="header" href="#attribution">Attribution</a></h1>
@@ -1714,6 +1739,9 @@ https://www.youtube.com/watch?v=4IaOeVgZ-wc
 <li><a href="https://future.com/7-essential-ingredients-of-a-metaverse/">7 Essential Ingredients of a Metaverse</a></li>
 <li><a href="https://future.com/metaverse-infrastructure-technology-games/">Unlocking the Metaverse: New Opportunities in Games Infrastructure</a></li>
 </ul>
+<blockquote>
+<p>&quot;Cyberspace does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions.&quot; - <a href="https://www.eff.org/cyberspace-independence">&quot;A Declaration of the Independence of Cyberspace&quot; by John Perry Barlow </a></p>
+</blockquote>
 <!-- 
 
 
@@ -1990,6 +2018,16 @@ https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d8
 !!!!!
 
 With Farcaster, content is directory-certified and cannot be fully self-authenticating because if the directory to which the on-chain account points to goes away - so does the credibility for any piece of data by that account - no way to cache proofs. Furthermore, directories can be tampered with and currently it's up to the p2p network to keep track if any malicious changes happen
+
+
+
+farcaster - their model can work even without the p2p nodes - aggregators can be built that talk directly to host directories
+
+farcaster can be built on top of Headjack but not everything that can be built on Headjack can on Farcaster
+
+Farcaster is the best team in the space.
+
+
 -->
 <p>Their architecture: <a href="https://github.com/farcasterxyz/protocol">link</a>. The account registry is on a blockchain and everything else is off-chain.</p>
 <ul>
@@ -2163,6 +2201,7 @@ https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-de
 <p>Evolution is 99.9% memetic at this point &amp; accelerating exponentially. If finance is the <a href="https://anthonyleezhang.substack.com/p/the-market-for-promises">market for promises</a>, then media is the battleground of ideas and is just as fundamental.</p>
 <p>At the root of our greatest challenges are <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">coordination failures</a>. We are like an ant colony suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness &amp; nihilism, playing status games, and running exponential processes in a finite world.</p>
 <p>The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then <a href="https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/">markets, clocks</a> &amp; <a href="https://a16z.com/2011/08/20/why-software-is-eating-the-world/">bits</a>. Any mechanism that makes those more efficient will benefit the species. If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We're just neurons but we can bootstrap the global collective consciousness through trust &amp; coordination - the hivemind.</p>
+<p>https://twitter.com/sreeramkannan/status/1573832256577224705</p>
 <blockquote>
 <p>&quot;Society, business &amp; money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity.&quot; - <a href="https://twitter.com/naval/status/790443306886926337">@naval</a></p>
 </blockquote>

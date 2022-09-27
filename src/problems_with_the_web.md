@@ -82,6 +82,15 @@ https://www.youtube.com/watch?v=u3TPxQao3m0&list=PLPslWoHNC5x3noyezZ79BlkvGV1XK3
 audience capture
 
 
+The cat is out of the bag
+
+https://www.wsj.com/articles/the-facebook-files-11631713039
+
+Misinformation is a plague in videos without context
+
+the health of reporting on the web through video is appaling - decentralization and democratization are powerful but without the means to interleave everything into a shared ledger of record and actually have some accountability it all becomes an informational mess. But YouTube doesn't optimize for that - not at all.
+
+
 > "technology increases the efficiency of manufacturing consent in the same way it increases the efficiency of manufacturing everything else" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 -->
@@ -110,6 +119,8 @@ Social media platforms are growth-at-all-costs stories because the goal is to ac
 <div style="text-align: center;">
     <img src="images/meme_data_most_valuable.jpg">
 </div>
+
+<!-- https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data -->
 
 Users are usually locked-in and effectively have no [voice and exit](https://twitter.com/balajis/status/1548725591687303168) either because:
 - the network effects are insurmountable for incumbents and there are no alternatives

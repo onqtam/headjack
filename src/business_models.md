@@ -34,6 +34,11 @@ The rule book will be different - instead of [vertically integrated](problems_wi
 
 Creating a new social application would require just a bit of frontend code by a few developers with all the heavy lifting of infrastructure, data storage & processing, content moderation, ad serving & recommendation engines being provided by pay-as-you-go services through APIs. The ([data](https://mattturck.com/the-power-of-data-network-effects/)) network effects will be shared by every actor in the ecosystem. Launching a proof of concept would be trivial and new business models & use cases (no ads for social) would be enabled.
 
+
+<img src="images/data_gravity.png">
+
+<!-- source: https://www.tigosolutions.com/feedstory/1030 -->
+
 <img src="images/infrastructure_companies.png">
 
 It will take some time for markets to mature and the dust to settle once specialization & competition are democratized, but then prices will be low and the efficiency & quality of services high.

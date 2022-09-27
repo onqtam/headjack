@@ -48,7 +48,7 @@ concern: with better traceability, censoring events could be easier, but importa
 
 Con: everyone will see the authorized apps?
 
-complexity before the dust settles and tihngs become established ways
+complexity before the dust settles and things become established ways
 
 possible disruption by account abstraction & ZK stuff?
 
@@ -57,4 +57,18 @@ possible disruption by account abstraction & ZK stuff?
 anyone analyzing data more easily at scale?
 Panopticon as a service?
 https://en.wikipedia.org/wiki/Panopticon
+
+The cat is out of the bag
+
+ClearviewAI, but on stereoids
+
+https://twitter.com/driesdepoorter/status/1569285878089908231
+
+https://slatestarcodex.com/2018/10/30/sort-by-controversial/
+
+Con: extremely easy to detect the personality type of anyone with high accuracy based on their activity - cambridge analytica on stereoids
+
+with open data anyone could build a classifier and label certain people as gay - without their consent.
+
+
 
