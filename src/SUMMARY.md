@@ -23,7 +23,6 @@
     - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
     - [Headjack vs the competition](competition.md)
-        - [List of other projects](others_list.md)
     - [Goals, mission & ambition](mission_ambition.md)
 
     <!-- - [Open questions & concerns](concerns.md) -->
