@@ -6,8 +6,7 @@
     - [Messages](messages.md)
     - [Account preferences & graphs](account_preferences.md)
     - [Content addressing](addressing.md)
-        - [Today's web: host-centric](host_centric.md)
-        - [Host vs data-centric](data_centric.md)
+        - [Host vs data-centric](host_vs_data_centric.md)
         - [Blob structure & addressing](blob_structure.md)
         - [Persistent & provable URIs](uris.md)
         - [Names, paths, & more](names_and_paths.md)
@@ -15,10 +14,9 @@
     - [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
     - [Throughput numbers (scaling)](numbers.md)
     - [How to think about Headjack](how_to_think_about_it.md)
-        <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
         <!-- - [Blobs & persistent URIs](blob_structure.md) -->
-        
+
 - [Why Headjack](motivation.md)
     - [Problems with the current web](problems_with_the_web.md)
     - [Authenticity](authenticity.md)
@@ -31,7 +29,8 @@
         - [List of other projects](others_list.md)
     - [Goals, mission & ambition](mission_ambition.md)
 
-    <!-- - [Markets, Ads & attribution](business_models.md) -->
+    <!-- - [Open questions & concerns](concerns.md) -->
+    <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
 # ⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇
 
@@ -49,7 +48,6 @@
     - [Identity managers (IDM)](IDM.md)
     - [Application architectures](architecture.md)
     - [Moderation](moderation.md)
-    - [Open questions & concerns](concerns.md)
     - [Roadmap](roadmap.md)
 
     - [Example flow of actions & events]()
