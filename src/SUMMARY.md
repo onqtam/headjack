@@ -7,15 +7,12 @@
     - [Account preferences & graphs](account_preferences.md)
     - [Content addressing](addressing.md)
         - [Host vs data-centric](host_vs_data_centric.md)
-        - [Blob structure & addressing](blob_structure.md)
-        - [Persistent & provable URIs](uris.md)
+        - [Blobs & persistent URIs](blobs_and_uris.md)
         - [Names, paths, & more](names_and_paths.md)
     - [Storage & retrievability of data](store_and_retrieve.md)
     - [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
     - [Throughput numbers (scaling)](numbers.md)
     - [How to think about Headjack](how_to_think_about_it.md)
-
-        <!-- - [Blobs & persistent URIs](blob_structure.md) -->
 
 - [Why Headjack](motivation.md)
     - [Problems with the current web](problems_with_the_web.md)
