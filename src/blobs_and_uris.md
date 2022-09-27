@@ -1,8 +1,10 @@
 # Blobs & persistent URIs
 
+This chapter will explain how all off-chain [messages](messages.md) (actions/events/content) get published:
+
 <!-- toc -->
 
-# Blob structure & addressing
+# Blob construction - batching of user events
 
 Applications accumulate off-chain activity from users which they cryptographically anchor in batches with a [Merkle root](https://en.wikipedia.org/wiki/Merkle_tree) on-chain and they determine how often to do so (it doesn't have to be on every block) - those with little activity may submit only once per minute or even less often - the frequency is determined by applications based on the volume of activity and the on-chain publishing costs.
 
@@ -34,7 +36,7 @@ Once a blob is fetched through the [IPFS CID](https://docs.ipfs.io/concepts/cont
 
 <img src="images/content_references.png">
 
-The blockchain can be queried if the application was allowed to post content on behalf of the user with an on-chain authorization (which probably happened through an [IDM](IDM.md)) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given application was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their actions in which case their data will be accompanied by signatures within the data blobs and the only check required will be for the user keypair used for the specific block number.
+The blockchain can be queried if the application was allowed to post content on behalf of the user with an on-chain authorization (which probably happened through an [IDM](IDM.md)) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given application was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their actions in which case their data will be accompanied by their signatures within the data blobs and the only check required will be for the user keypair used for the specific block number.
 
 # Steps to prove the authenticity of a URI
 
@@ -44,7 +46,7 @@ To recap - to prove the authenticity of any event with a URI:
     - Either if at that point the application was authorized to post on behalf of the user which would require a Merkle proof for a part of the blockchain state (authorization ranges).
     - Or by checking for an explicit signature & the public key of that account at that time which would also require a Merkle proof for a part of the blockchain state (account key history).
 
-This is what makes URIs persistent - as long as someone hosts either the content + the Merkle proof or the entire blob and knows in which block it was anchored (from the `<application_id>/<nonce>` => `<block_number>` mapping). The [following chapter](names_and_paths.md) shows how names in the URI paths are persistent too (even if user/application names change ownership at some point).
+URIs are persistent as long as someone hosts either the individual event + the Merkle proof or the entire blob (and can reconstruct the proof) and knows to which block it was anchored (from the `<application_id>/<nonce>` => `<block_number>` mapping). The [following chapter](names_and_paths.md) shows how names in URIs are persistent too (even if user/application names change ownership at some point).
 
 # A few other notes
 
@@ -52,6 +54,7 @@ This is what makes URIs persistent - as long as someone hosts either the content
 - Even private [intranet](https://en.wikipedia.org/wiki/Intranet) data may be anchored but not retrievable by the public if the blob IPFS CID is never published or pinned/hosted - unified addressing for public & private.
 - Users should be able to see the URI of content even if created through another application and the origin should be displayed by default - acting as [attribution for other applications](business_models.md).
 - Edits & updates to content come as [messages](messages.md) with new unique URIs that reference the older message URIs and it is up to applications to properly handle this - either by showing that there have been changes and a newer version or automatically redirect to the latest. "Forks" are possible but they represent application failure to detect that an old version is being edited.
+- Accounts that anchor content on-chain cannot do so twice in the same block - for simplicity.
 
 <!--
 # On proof permanence

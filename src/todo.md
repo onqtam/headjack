@@ -160,8 +160,6 @@ if something like TikTok & short clips are here to stay - at least let's interwe
 
 
 
-The terms [message](messages.md)/event/action/data/content are used interchangeably in this book and refer to any type of event/content a user might have generated - post/comment/reaction/etc.
-
 The game theory behind why competing applications (presentation layers/interfaces/views - probably operated by a company with a business model) would freely share the activity of their users with others to display is that if they don't they would be effectively denying reach - users would migrate to a competitor because the cost to do so is 0 - [`voice and exit`](https://en.wikipedia.org/wiki/Exit,_Voice,_and_Loyalty_Model). Current social media platforms are monopolies because identities are not portable and the network effects are in private database silos - a problem practically insurmountable for incumbents.
 
 

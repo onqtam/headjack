@@ -4,6 +4,8 @@
 
 # Messages
 
+The terms message/event/action/data/document/content are used interchangeably in this book and refer to any type of event/content a user might have generated - post/comment/reaction/etc.
+
 <!-- TODO: take stuff form the other messages.md doc
 
 signal/noise ratio - message types & why we shouldn't wait for AI classification
