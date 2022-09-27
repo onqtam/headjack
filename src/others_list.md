@@ -37,6 +37,16 @@ https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d8
 !!!!!
 
 With Farcaster, content is directory-certified and cannot be fully self-authenticating because if the directory to which the on-chain account points to goes away - so does the credibility for any piece of data by that account - no way to cache proofs. Furthermore, directories can be tampered with and currently it's up to the p2p network to keep track if any malicious changes happen
+
+
+
+farcaster - their model can work even without the p2p nodes - aggregators can be built that talk directly to host directories
+
+farcaster can be built on top of Headjack but not everything that can be built on Headjack can on Farcaster
+
+Farcaster is the best team in the space.
+
+
 -->
 
 Their architecture: [link](https://github.com/farcasterxyz/protocol). The account registry is on a blockchain and everything else is off-chain.

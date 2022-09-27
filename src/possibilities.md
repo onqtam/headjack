@@ -87,6 +87,15 @@ Papers can be split into text, data, code & results with all of them referencabl
 
 The biggest hurdle for its adoption has been the [host-centric](host_centric.md) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
 
+<img src="images/data_information_knowledge.jpg">
+
+<!-- <img src="images/data_information_knowledge.png"> -->
+
+<!-- source:
+https://www.theifactory.com/news/gaining-wisdom-from-data/
+https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
+-->
+
 # Better and more competitive [search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
 
 - Building indexes would be greatly simplified as they will be plugged to the global message bus and update only on events (push) - instead of periodic batch crawling of the public web (pull). <!-- The history of changes will be granular, precise, complete, structured & authenticated. -->

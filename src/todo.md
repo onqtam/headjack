@@ -5,9 +5,21 @@
 
 - URI for a profile? what would it look like? just the integer index?
 
+- New URI schema so that we can use the current name of an app for an old URI when the name was different?
+
 - https://en.wikipedia.org/wiki/URI_fragment
 
 - how to address content on other blockchains? what would the URIs be?
+
+- How to toggle content to be either public/private? Once it is out it is out :|
+
+- messaging protocol - XMTP & signal
+
+- build a transactional system on top of Headjack addressing? incentive layer for DA & build staking & whatnot on top of that? big bottleneck for SC chains: state access. What if a chain solves for addressing of content such that the state of an app can be sharded on many machines and yet remain addressable? BOUNDLESS addressability.
+
+- Private off chain content - what about the ipfs blob header and the visibility of which users are in the blob?
+
+- how to: Not be visible that im part of some subreddit but still be included in the public counter?
 
 - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
     Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
@@ -157,6 +169,11 @@ It is engineered from first principles - building up from the data to support bi
 
 that way even if content goes dark it can later resurface and be deduplicated by linking it to previous instances (as long as Merkle proofs are present).
 
+
+
+
+
+We could develop AI algorithms to try and spot patterns of corruption in polititians - lets flip the surveilance the other way around
 
 
 > "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."

@@ -7,6 +7,8 @@ At the root of our greatest challenges are [coordination failures](https://slate
 The ability to cooperate flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
 ) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Any mechanism that makes those more efficient will benefit the species. If the internet is the information super highway, blockchains are the cooperation super highways and can play a major role in upgrading our systems of trust. We're just neurons but we can bootstrap the global collective consciousness through trust & coordination - the hivemind.
 
+https://twitter.com/sreeramkannan/status/1573832256577224705
+
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
 # Goals

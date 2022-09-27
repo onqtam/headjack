@@ -23,6 +23,11 @@ This section couldn't possibly do justice to all the aspects of what it would ta
 
 
 
+
+
+> "Cyberspace does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions." - ["A Declaration of the Independence of Cyberspace" by John Perry Barlow ](https://www.eff.org/cyberspace-independence)
+
+
 <!-- 
 
 
