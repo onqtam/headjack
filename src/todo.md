@@ -172,6 +172,8 @@ It is engineered from first principles - building up from the data to support bi
 that way even if content goes dark it can later resurface and be deduplicated by linking it to previous instances (as long as Merkle proofs are present).
 
 
+In theory everything can be built with hash-based addressing as everything could be uniquely identified. But is that the most optimal way?
+
 
 
 
