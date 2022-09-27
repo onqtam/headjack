@@ -145,8 +145,15 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="names--paths"><a class="header" href="#names--paths">Names &amp; paths</a></h1>
-<p>Headjack is also a name registry - accounts can own a handle and be identified with it. There have been other attempts to decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> such as <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> but a much stronger network effect is necessary in order to succeed. Headjack is a confluence of multiple interrelated things (identity, names, authorization &amp; addressing) and has the potential to truly decentralize DNS. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to <a href="handles.html">their dedicated page</a>.</p>
-<hr />
+<p>Headjack is also a name registry - accounts can own a handle and be identified with it. There have been other attempts to decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> such as <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> but a much stronger network effect is necessary in order to succeed. Headjack is a confluence of multiple interrelated things (identity, names, authorization &amp; addressing) and has the potential to truly decentralize DNS. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to <a href="handles.html">their dedicated page</a>. In this chapter:</p>
+<ul>
+<li><a href="#names-in-uris">Names in URIs</a></li>
+<li><a href="#what-to-ask-the-blockchain-about-a-uri">What to ask the blockchain about a URI</a></li>
+<li><a href="#web3-uris-interoperable-in-web2">Web3 URIs interoperable in Web2</a></li>
+<li><a href="#content-titles-in-uris">Content titles in URIs</a></li>
+<li><a href="#addressing-within-content">Addressing within content</a></li>
+</ul>
+<h1 id="names-in-uris"><a class="header" href="#names-in-uris">Names in URIs</a></h1>
 <p>Users and applications don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate <code>&lt;application_name&gt;/&lt;nonce&gt;/&lt;user_name&gt;/&lt;content_id&gt;</code> with strings into the canonical integer form discussed <a href="uris.html">previously</a> by substituting the application &amp; user names with account IDs.</p>
 <p>Every name has an associated auto-increment nonce (just like account IDs) for every time they submit an anchor for off-chain content and the blockchain records maps of <code>&lt;name&gt;/&lt;nonce&gt;</code> to <code>&lt;id&gt;/&lt;nonce&gt;</code> which can then be used to resolve the URI as discussed in the <a href="uris.html">previous chapter</a>.</p>
 <img src="images/account_name_state.png">
