@@ -15,8 +15,11 @@ It is highly improbable that the masses (and even most crypto natives) would tol
 <img src="images/meme_make_them_learn.png" align="right" style="margin-left: 8px; width: 35%">
 
 1. Nobody wants to deal with keys, wallets & self-custody because of all the headaches & complexities that come along with that. Creation & media are different from exchange & finance and it's OK to trust by default as long as there's [a fallback](#decentralization-neutrality--sovereignty). We should be aiming for **better trust** instead of trustlessness at the cost of UX. Users shouldn't have to manage keypairs on multiple devices & explicitly sign every interaction - by default they'll be logging into identity managers ([IDMs](IDM.md)) using email & passwords or [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) and would then be using these IDMs as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) to authorize applications to post on their behalf without requiring keys & signatures - by delegating trust. This way the majority of Web2 identity & authentication plumbing can be reused with Headjack underneath as just another backend. `"Sign-in with Ethereum"` doesn't scale - we should aim for familiarity.
-
     > "With consumer products, simple and “wrong” beats complicated and “right.”" - [@naval](https://twitter.com/naval/status/1542651322532384768)
+
+    > "The future of mass-market crypto experiences lies within apps that provide familiar, custodial experiences with the ability to graduate into non-custodial experiences." - [a16z](https://future.a16z.com/missing-link-web2-web3-custody-wallets/)
+
+    > "If the goal is to onboard first-time crypto users, the experience must be custodial — at least to start." - [a16z](https://future.a16z.com/missing-link-web2-web3-custody-wallets/)
 
 2. Users shouldn't have to think about and pay for the storage of their data & blockchain interactions by default - costs & complexity should be abstracted away & shifted to services in the background. Self-hosting is the opposite of [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) - let's aim for simplicity.
 
