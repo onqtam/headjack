@@ -1,17 +1,21 @@
 # Headjack vs the competition
 
-This chapter focuses only on the disadvantages of some of the more high-profile competing solutions in the space when compared to Headjack and doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another. Corrections for any inaccuracies are welcome!
+This chapter focuses only on the disadvantages of some of the more high-profile competing solutions in the space. Most of the issues are solved in Headjack due to its [guiding principles & design goals](principles.md). This page doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another.
 
-<!-- toc -->
+<!-- Corrections for any inaccuracies are welcome! -->
 
 <!-- If project Bluesky, Farcaster and DSNP had a baby it would be Headjack -->
 
-# What others get wrong
+<!-- toc -->
+
+# What other projects get wrong
 
 A list of problems with the contenders in the decentralized identity/media space:
 
-- No credible path to [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) - some will hit a wall even at 1 million users. Most are vague around their scalability & data structures and don't put it [front and center](numbers.md) - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that. Fake it till you make it is not a viable strategy with the wrong foundation.
+- No credible path to [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) - some will hit a wall even at 1 million users. Most are vague around their scalability & data structures and don't put it [front and center](numbers.md) - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that.
     > "It is the mark of a charlatan to explain a simple concept in a complex way." - [@naval](https://twitter.com/naval/status/752796426208325632)
+
+<!-- Fake it till you make it is not a viable strategy with the wrong foundation. -->
 
 - Complexity & lack of clarity - distributed systems engineers should easily figure out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and may not be around in the future?
     > "Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
@@ -210,7 +214,7 @@ One of the few solutions with their [own chain](https://www.frequency.xyz/) in t
 
 
 
-# [CyberConnect](https://cyberconnect.me/)
+# [CyberConnect](https://cyberconnect.me/) on top of [Ceramic](https://ceramic.network/)
 
 Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md).
 
