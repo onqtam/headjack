@@ -44,6 +44,8 @@ https://ground.news/
 
 https://twitter.com/disclosetv/status/1557800191700393984
 
+https://huggingface.co/blog/open_rail
+
 A bold idea to replace politicians | César Hidalgo
 https://www.youtube.com/watch?v=CyGWML6cI_k
 -->

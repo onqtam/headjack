@@ -73,9 +73,9 @@ Different schemas could be used for addressing within pieces of content (like a 
 
 For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <img src="images/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg">
-</div>
+</div> -->
 
 <!-- Persistent
 human-readable

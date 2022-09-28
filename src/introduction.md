@@ -31,7 +31,7 @@ it does not deal with storage and neither with routing - any kind of routing can
 
  -->
 
-- Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy) can be layered on top of it.
+- Following the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - in Headjack identity is simply an identifier (unique number) and anything orthogonal (KYC, profiles, privacy, finance) can be layered on top of it.
 
 - It solves single sign-on and allows for user experience similar to Web2 through [hierarchical authorization management](identity.md) - keypairs are not required by default and even those with keys bound to their accounts may choose to not explicitly sign every interaction.
 
@@ -69,7 +69,6 @@ it does not deal with storage and neither with routing - any kind of routing can
 1. [Storage & retrievability of data](store_and_retrieve.md)
 1. [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
 1. [Throughput numbers (scaling)](numbers.md)
-1. [How to think about Headjack](how_to_think_about_it.md)
 
 <div style="text-align: center;">
     <img src="images/logo.png">

@@ -41,6 +41,11 @@ Creating a new social application would require just a bit of frontend code by a
 
 <img src="images/infrastructure_companies.png">
 
+
+- mention alchemy in business models page about infra companies
+https://www.alchemy.com/
+
+
 It will take some time for markets to mature and the dust to settle once specialization & competition are democratized, but then prices will be low and the efficiency & quality of services high.
 
 # Attribution
