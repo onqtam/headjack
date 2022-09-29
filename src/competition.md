@@ -4,7 +4,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 <!-- Corrections for any inaccuracies are welcome! -->
 
-<!-- If project Bluesky, Farcaster and DSNP had a baby it would be Headjack -->
+<!-- If Bluesky, Farcaster and DSNP had a baby it would be Headjack -->
 
 <!-- toc -->
 
@@ -13,7 +13,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 A list of problems with the contenders in the decentralized identity/media space:
 
 - No credible path to [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) - some will hit a wall even at 1 million users. Most are vague around their scalability & data structures and don't put it [front and center](numbers.md) - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that.
-    > "It is the mark of a charlatan to explain a simple concept in a complex way." - [@naval](https://twitter.com/naval/status/752796426208325632)
+    <!-- > "It is the mark of a charlatan to explain a simple concept in a complex way." - [@naval](https://twitter.com/naval/status/752796426208325632) -->
 
 <!-- Fake it till you make it is not a viable strategy with the wrong foundation. -->
 
@@ -22,6 +22,8 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Too financialized & trying to do too much - profiles & posts as NFTs, microtransactions, marketplaces, fan coins, tipping, content creator incentives.
     > "However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start." - [Jay Gerber](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970)
+
+    > "The question remains: is the future of social media truly intrinsically linked to NFTs or is it a red herring?" - [@mattigags](https://wrongalot.substack.com/p/the-next-big-crypto-narrative)
 
 - Users shouldn't need to use a token, use a wallet, or self-host to benefit from decentralized identity & an open social graph. Most people will always use custodial services.
     > "People don’t want to run their own servers, and never will." - [Moxie](https://moxie.org/2022/01/07/web3-first-impressions.html)
@@ -48,24 +50,6 @@ A list of problems with the contenders in the decentralized identity/media space
 https://twitter.com/liron/status/1547225903176028160 -->
 
 <!-- What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. -->
-
-# What Headjack gets right
-
-- A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double-spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
-
-- [Napkin math for web-scale](numbers.md) is clear and front and center.
-
-- Best [UX](https://en.wikipedia.org/wiki/User_experience)/[DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) because of the [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and the use of identity managers ([IDMs](IDM.md)) for on-chain authorization of applications.
-    - Users don't need keys & signatures and also don't care about the costs either.
-    - Encapsulates the complexity in [UX](https://en.wikipedia.org/wiki/User_experience) & [DX](https://en.wikipedia.org/wiki/User_experience#Developer_experience) - the simplest mental model will win.
-    - Full historical record of authorizations & ability to prove anything throughout time.
-
-- [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy): focuses only on identity & linking data to it without trying to do everything. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
-
-- Integers are the most well-known, compact, and easy to work with data type - faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
-
-- [Content addressing](addressing.md) with human-readable & persistent URIs with provable authenticity.
-
 
 # [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
 
@@ -161,13 +145,7 @@ Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs
 
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) on such a granular level and aggregation is not even in the picture.
 
-# [Project Liberty](https://www.projectliberty.io/)
-
-TODO: separate page for this?
-
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
+# [DSNP](https://www.projectliberty.io/) & [Frequency](https://www.frequency.xyz/)
 
 One of the few solutions with their [own chain](https://www.frequency.xyz/) in the space that makes sense. Their work (the [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability and content addressability. This idea is too important to leave to a single player without competition.
 

@@ -18,6 +18,10 @@ Headjack's fundamental premise is that it unlocks many possibilities & value to 
 
 # Unbundling the media stack with markets
 
+
+> "There’s only two ways I know of to make money– bundling, and unbundling." - [Jim Barksdale](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
+
+
 The rule book will be different - instead of [vertically integrated](problems_with_the_web.md#vertical-integration-vs-market--competition) services with tons of employees that reinvent the wheel, companies would specialize and compete on different layers of the stack. [Markets Are Eating The World](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/) - there will be one for each of these:
 - Storage & retrieval of historical events, data & results of batch processes.
 - Indexing at scale and even custom indexing by specific criteria.
@@ -49,6 +53,12 @@ https://www.alchemy.com/
 It will take some time for markets to mature and the dust to settle once specialization & competition are democratized, but then prices will be low and the efficiency & quality of services high.
 
 # Attribution
+
+TODO: re-read from "A recent example"
+https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll
+
+
+
 
 The goal is democratized access, competition & innovation  - not the end of the Ad model which is a pipe dream - it isn't going anywhere. The current problem is that we don't have alternatives and that there's no transparency.
 

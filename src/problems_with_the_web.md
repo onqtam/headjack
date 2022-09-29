@@ -7,7 +7,9 @@ TODO: Surveillance capitalism
 
 # Problems with the current web
 
-This is a non-exhaustive list of some of the most obvious problems.
+> "The internet changed the topology of human communication, with existing social platforms as a mere proof-of-concepts." - ["Social Web 3" by Zee Prime Capital](https://zeeprime.capital/social-web-3)
+
+The current host-centric web is just a local maximum due to gradient descent. Some problems:
 
 <!-- toc -->
 
@@ -89,11 +91,15 @@ long form media is rife with misinformation - in an open system we could better 
 
 we should be able to see all referenced facts & entities in long-form media - much easier to check for disinfo
 
+vote on comments to other posts if they are relevant
+https://prnt.sc/9-8QV1LoKPc7
+
 the inability to refer specifically to documents or parts of them linked to their source has made the internet a breeding ground for misinformation
 https://www.youtube.com/watch?v=u3TPxQao3m0&list=PLPslWoHNC5x3noyezZ79BlkvGV1XK3ubf
 
 audience capture
 
+It’s an unorganized mess of information
 
 The cat is out of the bag
 

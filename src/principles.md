@@ -19,7 +19,11 @@ It is highly improbable that the masses (and even most crypto natives) would tol
 
     > "The future of mass-market crypto experiences lies within apps that provide familiar, custodial experiences with the ability to graduate into non-custodial experiences." - [a16z](https://future.a16z.com/missing-link-web2-web3-custody-wallets/)
 
-    > "If the goal is to onboard first-time crypto users, the experience must be custodial — at least to start." - [a16z](https://future.a16z.com/missing-link-web2-web3-custody-wallets/)
+    <!-- > "If the goal is to onboard first-time crypto users, the experience must be custodial — at least to start." - [a16z](https://future.a16z.com/missing-link-web2-web3-custody-wallets/) -->
+
+    > "Wallets, seed phrases, and gas for transactions are all inherently very unfriendly to the user, and until greater levels of abstraction exist, adoption will face headwinds. We must assume that the average user will not deal with the complexity we see today." - [Zee Prime capital](https://zeeprime.capital/web-3-middleware)
+
+    <!-- > "If Web3 social is for the crypto community only - it will likely fail. It’s not enough to provide ideological motives. The key here is to introduce new forms of monetization which overlaps with the aforementioned “Web3 commerce” narrative. These new tools must be intuitive and easy to use." - [@mattigags](https://wrongalot.substack.com/p/the-next-big-crypto-narrative) -->
 
 2. Users shouldn't have to think about and pay for the storage of their data & blockchain interactions by default - costs & complexity should be abstracted away & shifted to services in the background. Self-hosting is the opposite of [customer obsession](https://twitter.com/arvanaghi/status/1537519858233008128) - let's aim for simplicity.
 

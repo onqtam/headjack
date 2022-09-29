@@ -111,6 +111,9 @@ TODO: does the state actually need to contain the historical mapping? not necess
 TODO: need examples & specifics for how big URI proofs would be
 
 
+Make a graph with a block and txs and merkle roots
+
+
 
 
 An account has the following properties:
