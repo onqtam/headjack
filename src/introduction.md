@@ -65,7 +65,7 @@ it does not deal with storage and neither with routing - any kind of routing can
     1. [Blobs & persistent URIs](blobs_and_uris.md)
     1. [Names, paths, & more](names_and_paths.md)
 1. [Messages](messages.md)
-1. [Account preferences & graphs](account_preferences.md)
+1. [IDMs, preferences & social graphs](idms_preferences.md)
 1. [Storage & retrievability of data](store_and_retrieve.md)
 1. [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
 1. [Throughput numbers (scaling)](numbers.md)

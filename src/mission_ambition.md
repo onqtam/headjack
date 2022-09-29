@@ -11,11 +11,11 @@ The ability to cooperate flexibly in large numbers has led us to an evolutionary
 
 https://twitter.com/sreeramkannan/status/1573832256577224705
 
-> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
+> "The medium is the message" - [Marshall McLuhan](https://en.wikipedia.org/wiki/The_medium_is_the_message) proposes that a communication medium itself, not the messages it carries, should be the primary focus of study.
 
 # Goals
 
-The host-centric status quo is just a local maximum - thanks to gradient descent. Headjack wants to:
+Headjack wants to:
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should belong to no one
 - rebuild & scale up trust through [authenticity](authenticity.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)

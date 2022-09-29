@@ -2,12 +2,20 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
-# Account preferences & graphs
+# IDMs, preferences & social graphs
 
 <!--
 how it gets managed by IDMs (so they will also touch IPFS?!)
 
 public vs private
+sections about public vs encrypted data?
+also publicly announced vs non-announced but still unencrypted?
+
+
+
+Apps should proactively talk to IDMs to let them know about user actions?
+
+IDMs should provide a feed of all actions by a user - as a stream from which others can pick up from where they left off and continue forward - like a kafka topic
 
 interest graph & how it works off-chain
 
@@ -18,6 +26,9 @@ TODO: change interest graph related things in other pages & pictures
 - remove the focus on the interest graph - it will be off-chain!
     - also from all graphics!
 
+
+
+ways to both use an IDM and still direct your personal perferences & private stuff to be handled by something of your choosing
 
 
 

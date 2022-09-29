@@ -48,12 +48,13 @@ Think of Headjack as an [information bus](https://www.cs.cornell.edu/courses/cs6
 
 
 http://www.paulgraham.com/twitter.html
+https://twitter.com/jack/status/1518772756069773313
 
 
 
 
 
-
+- Integers are the most well-known, compact, and easy to work with data type - faster/easier indexing & querying versus content addressing, hashes, keypairs & signatures.
 
 
 

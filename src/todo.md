@@ -10,6 +10,10 @@
 
 - New URI schema so that we can use the current name of an app for an old URI when the name was different?
 
+- look into Verkle trees & KZG proofs
+https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
+"Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
+
 - https://en.wikipedia.org/wiki/URI_fragment
 
 - how to address content on other blockchains? what would the URIs be?
@@ -98,6 +102,11 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
         https://docs.gitbook.com/organizations/member-management/roles#reviewer
     https://github.com/badboy/mdbook-toc/pull/26
 
+- style external & internal to the book links differently?
+    https://css-tricks.com/snippets/css/style-links-depending-on-destination/
+    https://jsfiddle.net/97sdnwhq/
+    a[href="http://google.com"]:link { color:purple; }
+
 - rework the changes in the themes to not have copy-pasted files in the theme/css directory with a few changes but instead to use this in book.toml: `additional-css=["the_file.css"]`
     changes in general.css: background-image: var(--bg-img);
     changes in variables.css: --bg-img: url("../images/background.jpg");
@@ -105,6 +114,16 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
         https://www.w3schools.com/charsets/ref_utf_arrows.asp
 
 - use summary sections at the start of pages like here: https://www.lore.vc/phase-i-preparation
+
+== final touches on the book:
+- resolve TODOs
+- resolve differences in tenses - can/will/is - present and future
+- more bold in the text to highlight specific sentences & give them more weight
+
+
+== pitch deck:
+https://twitter.com/thealexbanks/status/1551562525732327426
+Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Qi life?
 
 # Postponed
 
@@ -173,6 +192,8 @@ that way even if content goes dark it can later resurface and be deduplicated by
 
 
 In theory everything can be built with hash-based addressing as everything could be uniquely identified. But is that the most optimal way?
+
+A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double-spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
 
 
 

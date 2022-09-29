@@ -91,12 +91,20 @@ messages contain their URIs and also a local timestamp - although that could be 
 
 also contain the current block height in addition to a unix timestamp
 
+- not yet anchored content from one application can refer to other not yet anchored content from another application and then the anchors could be in such an order that an event references another event in a future block (because apps can share activity before it being anchored).
+    - could this problem be ignored?
+
+
+
+
 the <application_id>/<application_nonce> is embedded in a message that's being signed through an application/IDM such that it cannot suffer from a replay attack
 
 - if a reply message has the URI to the original in non canonical form it would be harder for infrastructure to match those - it would have to translate the string URI to a number URI
 
 
-Message type about binding something to a financial blockchain and making it illegal for the original creator to make a delete message - all exchange of ownership happens on the financial chain 
+Message type about binding something to a financial blockchain and making it illegal for the original creator to make a delete message - all exchange of ownership happens on the financial chain
+
+
 
 
 -->

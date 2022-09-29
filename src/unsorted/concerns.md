@@ -52,6 +52,10 @@ complexity before the dust settles and things become established ways
 
 possible disruption by account abstraction & ZK stuff?
 
+
+the lack of financial integration & composability with other chains might be an issue?
+
+
 # Unintended consequences
 
 anyone analyzing data more easily at scale?
@@ -72,5 +76,8 @@ Con: extremely easy to detect the personality type of anyone with high accuracy 
 
 with open data anyone could build a classifier and label certain people as gay - without their consent.
 
+Users won't be able to authorize & login to services if the chain is down...
+
+responsibilities and assumptions - users should monotor if apps send their activity to their idm
 
 

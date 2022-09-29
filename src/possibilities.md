@@ -2,6 +2,8 @@
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables a lot of composability, functionality & innovation.
 
+> "However, to rely on purely idealism as a motivator of adoption is naive. We need a user experience that is much better than today and we need to invent tools that users will absolutely never attain in the Web 2 realm." - ["Social Web 3" by Zee Prime Capital](https://zeeprime.capital/social-web-3)
+
 <!-- toc -->
 
 # Shared data - different views
@@ -71,13 +73,15 @@ https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-cont
 
 We ought to rebuild everything on top of this [ledger of record](authenticity.md#the-ledger-of-record) - including Wikipedia (no more dead links!), open source code, science and peer review - under one global interlinked namespace where any public event is referencable so that others can comment on it.
 
-# Science & peer review
+# Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 
-Science is in a replication crisis: [wasted billions of dollars & decades of work](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease). It should be replicated & verified many times just like open source code is compiled & ran by many in a [reproducible way](https://www.coursera.org/learn/reproducible-research).
+> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
+
+Open source code is compiled, ran & verified by many independent actors - we should fix the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) in science and push towards more [reproducible research](https://www.coursera.org/learn/reproducible-research).
 
 > "Imagine if we optimized for number of independent replications over number of citations." - [@balajis](https://twitter.com/balajis/status/1337598439266250752)
 
-Papers can be split into text, data, code & results with all of them referencable with stable URIs & cryptographically tied to identity and peer review should be [open](https://en.wikipedia.org/wiki/Open_peer_review). There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable & [replicable](https://twitter.com/balajis/status/1556579944754384897). Citations could become [function calls / imports](https://twitter.com/balajis/status/1309497397236477952) so that we can trace the dependency graph in science and focus on re-testing the most important bits. We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science & facts.
+Papers can be split into text, data, code & results with all of them referencable with stable URIs & cryptographically tied to identity, reputation & [open peer review](https://en.wikipedia.org/wiki/Open_peer_review). There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable & [replicable](https://twitter.com/balajis/status/1556579944754384897). Citations could become [function calls / imports](https://twitter.com/balajis/status/1309497397236477952) so that we can trace the dependency graph in science and focus on re-testing the most important bits - we might [save a billion or two and avoid lost decades](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease). We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science & facts.
 
 > "Composable science is reproducible science." - [@balajis](https://twitter.com/balajis/status/1555458319070167040)
 
