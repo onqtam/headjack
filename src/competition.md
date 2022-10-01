@@ -145,7 +145,7 @@ Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs
 
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) on such a granular level and aggregation is not even in the picture.
 
-# [DSNP](https://www.projectliberty.io/) & [Frequency](https://www.frequency.xyz/)
+# [DSNP](https://www.dsnp.org/) & [Frequency](https://www.frequency.xyz/)
 
 One of the few solutions with their [own chain](https://www.frequency.xyz/) in the space that makes sense. Their work (the [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability and content addressability. This idea is too important to leave to a single player without competition.
 
