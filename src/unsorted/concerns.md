@@ -56,6 +56,11 @@ possible disruption by account abstraction & ZK stuff?
 the lack of financial integration & composability with other chains might be an issue?
 
 
+
+If an IDM gets hacked along with their private key then all users without a keypair are lost.
+    - IDMs should have a 2nd keypair that is used only to recover in such scenarios
+
+
 # Unintended consequences
 
 anyone analyzing data more easily at scale?
