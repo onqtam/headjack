@@ -28,6 +28,12 @@ tag type idea: prediction, and later with oracles credibility & track records co
 Announcement type
 
 
+
+on editing messages:
+https://twitter.com/VitalikButerin/status/1575890520403869696
+
+
+
 https://en.wikipedia.org/wiki/Resource_Description_Framework
 https://en.wikipedia.org/wiki/RDFa
 
