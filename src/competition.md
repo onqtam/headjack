@@ -8,6 +8,129 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 <!-- toc -->
 
+# Comparison table
+
+<table style="color: black;">
+<tr>
+    <td style="background-color:white"></td>
+    <td style="background-color:white"><b>Headjack</b></td>
+    <td style="background-color:white"><b><a href="competition.md#farcaster">Farcaster</a></b></td>
+    <td style="background-color:white"><b><a href="competition.md#dsnp-frequency--project-liberty">DSNP</a></b></td>
+    <td style="background-color:white"><b><a href="competition.md#bluesky">Bluesky</a></b></td>
+    <td style="background-color:white"><b><a href="competition.md#tbd">TBD</a></b></td>
+    <td style="background-color:white"><b><a href="competition.md#cyberconnect">Cyber Connect</a></b></td>
+    <td style="background-color:white"><b><a href="competition.md#lens-protocol">Lens</a></b></td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Scalability</b></td>
+    <td style="background-color:green">can handle billions - <a href="numbers.md">proof</a></td>
+    <td style="background-color:yellow">could scale</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Not linking identity to financial accounts by default</b></td>
+    <td style="background-color:green">aa</td>
+    <td style="background-color:grey">d</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Easy to work with mental model</b></td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Unopinionated where apps are hosted (locally/services)</b></td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Human-readable & persistent URIs</b></td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Time to finality</b></td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Ease of indexing & building responsive UI</b></td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Incentive layer & DA for key rotation/revocation & authorizations</b></td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Self-authenticating documents</b></td>
+    <td style="background-color:green">need to consult the blockchain if the proofs are valid</td>
+    <td style="background-color:grey">blockchain validates the proofs</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+<tr>
+    <td style="background-color:white"><b>Decentralized</b></td>
+    <td style="background-color:green">ZK rollup</td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:green">Polkadot security</td>
+    <td style="background-color:red">the only offender</td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:green">Polygon PoS</td>
+</tr>
+
+
+
+<tr>
+    <td style="background-color:white">-</td>
+    <td style="background-color:green">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+</tr>
+</table>
+
 # What other projects get wrong
 
 A list of problems with the contenders in the decentralized identity/media space:
@@ -45,33 +168,7 @@ A list of problems with the contenders in the decentralized identity/media space
 - Some lack an economic incentive layer.
     > "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
 
-
-<!-- other projects lack a vision of what could be built and what it would look like
-https://twitter.com/liron/status/1547225903176028160 -->
-
 <!-- What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. -->
-
-# [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
-
-Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
-
-- Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
-    - Centralization point - relies on DNS for the part after `@`.
-
-- **Consortium** of nodes & a transparency log manage the DID registry.
-    - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)) - users can be kicked off.
-    - This should have been a credibly neutral & self-sustaining blockchain.
-
-- Content addressing with hashes (versus Headjack's [human-readable & persistent URIs](addressing.md)).
-
-- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
-
-<!-- - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md). -->
-<!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
-<!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
-<!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
-
-Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does.
 
 # [Farcaster](https://www.farcaster.xyz/)
 
@@ -128,6 +225,38 @@ Overall good intuition about the concept of [sufficient decentralization](https:
 
 <!-- perhaps the best product team in the space and a good attempt to bootstrap a community -->
 
+# [DSNP](https://www.dsnp.org/), [Frequency](https://www.frequency.xyz/) & [Project Liberty](https://www.projectliberty.io/)
+
+Frequency (a Polkadot parachain) is the first implementation of DSNP (Decentralized Social Networking Protocol - [whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) as a standalone blockchain and has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability, content addressability, UX & choosing Polkadot. Some of the problems with them:
+
+- No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes without connection to the batch # / service that published it - example: `dsnp://78187493520/0x1234567890abcdef0123456789abcdef0123456789abcdef` ([source](https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri)). Addressing content is much worse compared to Headjack's [human-readable & persistent URIs](addressing.md).
+
+- Delegating applications to be able to post on behalf of users (analogous to authorization in Headjack) happens on-chain but requires a signature from the user (bulky - limiting throughput). New applications (& revocation) require the user to have access to their keys. Hierarchical delegation would allow for UX comparable to Web2 and would even allow for users without keypairs at all but DSNP doesn't have that - Headjack does. <!-- https://discord.com/channels/969001918460469250/969308056208961606/996417552962043924 -->
+
+- [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) (so far) from just 1 person - [Frank McCourt](https://www.youtube.com/watch?v=xgPZnOulBCE) - no other capital & connections to reputable investors & influencers from either the crypto or tech space - generating hype & booting up the network effect might be very hard. They've been around since 2019.
+
+# [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
+
+Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
+
+- Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
+    - Centralization point - relies on DNS for the part after `@`.
+
+- **Consortium** of nodes & a transparency log manage the DID registry.
+    - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)) - users can be kicked off.
+    - This should have been a credibly neutral & self-sustaining blockchain.
+
+- Content addressing with hashes (versus Headjack's [human-readable & persistent URIs](addressing.md)).
+
+- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
+
+<!-- - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md). -->
+<!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
+<!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
+<!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
+
+Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does.
+
 # [TBD](https://www.tbd.website/)
 
 Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E), [announcement](https://twitter.com/namcios/status/1535302090360250368).
@@ -145,19 +274,9 @@ Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs
 
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) on such a granular level and aggregation is not even in the picture.
 
-# [DSNP](https://www.dsnp.org/), [Frequency](https://www.frequency.xyz/) & [Project Liberty](https://www.projectliberty.io/)
+# [CyberConnect](https://cyberconnect.me/)
 
-Frequency (a Polkadot parachain) is the first implementation of DSNP (Decentralized Social Networking Protocol - [whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) as a standalone blockchain and has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability, content addressability, UX & choosing Polkadot. Some of the problems with them:
-
-- No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes without connection to the batch # / service that published it - example: `dsnp://78187493520/0x1234567890abcdef0123456789abcdef0123456789abcdef` ([source](https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri)). Addressing content is much worse compared to Headjack's [human-readable & persistent URIs](addressing.md).
-
-- Delegating applications to be able to post on behalf of users (analogous to authorization in Headjack) happens on-chain but requires a signature from the user (bulky - limiting throughput). New applications (& revocation) require the user to have access to their keys. Hierarchical delegation would allow for UX comparable to Web2 and would even allow for users without keypairs at all but DSNP doesn't have that - Headjack does. <!-- https://discord.com/channels/969001918460469250/969308056208961606/996417552962043924 -->
-
-- [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) (so far) from just 1 person - [Frank McCourt](https://www.youtube.com/watch?v=xgPZnOulBCE) - no other capital & connections to reputable investors & influencers from either the crypto or tech space - generating hype & booting up the network effect might be very hard. They've been around since 2019.
-
-# [CyberConnect](https://cyberconnect.me/) on top of [Ceramic](https://ceramic.network/)
-
-Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md).
+Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md) & [network](https://ceramic.network/).
 
 - Requires the use of keypairs & wallets.
 
