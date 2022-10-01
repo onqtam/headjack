@@ -145,52 +145,15 @@ Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs
 
 - Developing their own Decentralized Web Nodes (DWN) software that would be relaying messages p2p - can't handle [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) on such a granular level and aggregation is not even in the picture.
 
-# [DSNP](https://www.dsnp.org/) & [Frequency](https://www.frequency.xyz/)
+# [DSNP](https://www.dsnp.org/), [Frequency](https://www.frequency.xyz/) & [Project Liberty](https://www.projectliberty.io/)
 
-One of the few solutions with their [own chain](https://www.frequency.xyz/) in the space that makes sense. Their work (the [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability and content addressability. This idea is too important to leave to a single player without competition.
+Frequency (a Polkadot parachain) is the first implementation of DSNP (Decentralized Social Networking Protocol - [whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf)) as a standalone blockchain and has had the most influence over Headjack's design but the two have diverged in some key respects - the biggest of which are scalability, content addressability, UX & choosing Polkadot. Some of the problems with them:
 
+- No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes without connection to the batch # / service that published it - example: `dsnp://78187493520/0x1234567890abcdef0123456789abcdef0123456789abcdef` ([source](https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri)). Addressing content is much worse compared to Headjack's [human-readable & persistent URIs](addressing.md).
 
+- Delegating applications to be able to post on behalf of users (analogous to authorization in Headjack) happens on-chain but requires a signature from the user (bulky - limiting throughput). New applications (& revocation) require the user to have access to their keys. Hierarchical delegation would allow for UX comparable to Web2 and would even allow for users without keypairs at all but DSNP doesn't have that - Headjack does. <!-- https://discord.com/channels/969001918460469250/969308056208961606/996417552962043924 -->
 
-
-- [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) (so far) from just 1 person - [Frank McCourt](https://www.youtube.com/watch?v=xgPZnOulBCE).
-
-- Good research, good direction, but slow execution.
-
-
-<!-- 
-- Some good ideas in their [DSNP whitepaper](https://github.com/LibertyDSNP/papers/blob/main/whitepaper/dsnp_whitepaper.pdf) but not nearly enough emphasis on compactness. Too much on-chain & using smart contracts for identities - cannot truly scale. -->
-
-- Keypairs required even for delegated entities (although that can be reworked)
-    https://spec.dsnp.org/DSNP/Identity#delegation
-    if delegation also happens through keys then they would also have to go into the blockchain state - making it much bigger. In Headjack an authorized application is simply a few on-chain integers kept in the state (block ranges & account IDs) - no need to keep block ranges for delegated keys.
-    https://forums.projectliberty.io/t/shorts-one-public-key-is-not-enough/215/3
-    1 key per device? bloat. inefficient.
-    "Thus, we can only trust one thing: The actor signing this data had access to the private key."
-    all data is expected to be signed with a key - suboptimal.
-
-
-- broadcast announcements refer to the content with a URL & HTTP - [host-centric](https://spec.dsnp.org/DSNP/Types/Reply.html#url), not in the blob, worse hosting guarantees
-    - also profile related stuff - https://spec.dsnp.org/DSNP/Types/Profile.html#url
-    - not really - IPFS possible too:
-        https://forums.projectliberty.io/t/04-batching-source-dependent-messages-with-delegation/216#where-to-get-the-batch-file-5
-
-- big reliance on hashes for announcement addressing
-
-
-<!-- 
-- They haven't managed to form a real community yet (although it is still early) and haven't moved as fast as others in the crypto industry for the past 2 years since their inception. -->
-
-
-
-- No names within the project - just integer IDs for accounts. Content addressing URIs are based on hashes and there's no connection to the batch / service that published it which makes indexing harder - [example](https://spec.dsnp.org/DSNP/Identifiers.html#dsnp-content-uri). So addressing content is much worse compared to Headjack's [human-readable & persistent URIs](addressing.md).
-
-- a difference: DMs as announcements (& public - leaking metadata) vs IDM-based (direct IDM-IDM comms) & not anchored to the chain & not announced to the world at all (TODO: revisit this)
-
-
-- no hierarchical delegation - keypairs required, every delegation goes on-chain and requires a signature (bulky) - limited throughput.
-
-
-
+- [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) (so far) from just 1 person - [Frank McCourt](https://www.youtube.com/watch?v=xgPZnOulBCE) - no other capital & connections to reputable investors & influencers from either the crypto or tech space - generating hype & booting up the network effect might be very hard. They've been around since 2019.
 
 # [CyberConnect](https://cyberconnect.me/) on top of [Ceramic](https://ceramic.network/)
 
