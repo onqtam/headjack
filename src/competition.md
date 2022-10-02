@@ -10,16 +10,27 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 # Comparison table
 
-<table style="color: black;">
+<div>
+<style type="text/css" scoped>
+    .competition_comparison td {
+        padding: 0;
+        margin: 0;
+        width: 12%;
+        color: black;
+        text-align: center;
+        /* border-spacing: 0; border-collapse: collapse; */
+    }
+</style>
+<table class="competition_comparison">
 <tr>
-    <td style="background-color:white"></td>
-    <td style="background-color:white"><b>Headjack</b></td>
-    <td style="background-color:white"><b><a href="competition.md#farcaster">Farcaster</a></b></td>
-    <td style="background-color:white"><b><a href="competition.md#dsnp-frequency--project-liberty">DSNP</a></b></td>
-    <td style="background-color:white"><b><a href="competition.md#bluesky">Bluesky</a></b></td>
-    <td style="background-color:white"><b><a href="competition.md#tbd">TBD</a></b></td>
-    <td style="background-color:white"><b><a href="competition.md#cyberconnect">Cyber Connect</a></b></td>
-    <td style="background-color:white"><b><a href="competition.md#lens-protocol">Lens</a></b></td>
+    <td style="background-color:white;width:16%"></td>
+    <td style="background-color:white;"><b>Headjack</b></td>
+    <td style="background-color:white;"><b><a href="competition.md#farcaster">Farcaster</a></b></td>
+    <td style="background-color:white;"><b><a href="competition.md#dsnp-frequency--project-liberty">DSNP</a></b></td>
+    <td style="background-color:white;"><b><a href="competition.md#bluesky">Bluesky</a></b></td>
+    <td style="background-color:white;"><b><a href="competition.md#tbd">TBD</a></b></td>
+    <td style="background-color:white;"><b><a href="competition.md#cyberconnect">Cyber Connect</a></b></td>
+    <td style="background-color:white;"><b><a href="competition.md#lens-protocol">Lens</a></b></td>
 </tr>
 <tr>
     <td style="background-color:white"><b>Scalability</b></td>
@@ -33,8 +44,13 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 </tr>
 <tr>
     <td style="background-color:white"><b>Not linking identity to financial accounts by default</b></td>
-    <td style="background-color:green">aa</td>
-    <td style="background-color:grey">d</td>
+    <td style="background-color:green">specialized chain</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
+    <td style="background-color:grey">-</td>
 </tr>
 <tr>
     <td style="background-color:white"><b>Easy to work with mental model</b></td>
@@ -58,7 +74,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 </tr>
 <tr>
     <td style="background-color:white"><b>Human-readable & persistent URIs</b></td>
-    <td style="background-color:green">-</td>
+    <td style="background-color:green"><a href="addressing.md">yes</a></td>
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
@@ -130,6 +146,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
     <td style="background-color:grey">-</td>
 </tr>
 </table>
+</div>
 
 # What other projects get wrong
 
