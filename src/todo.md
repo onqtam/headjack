@@ -198,6 +198,9 @@ In theory everything can be built with hash-based addressing as everything could
 A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double-spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
 
 
+https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/
+https://web.archive.org/web/20220428114634/https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/
+https://archive.ph/Tr57S
 
 
 We could develop AI algorithms to try and spot patterns of corruption in polititians - lets flip the surveilance the other way around

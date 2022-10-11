@@ -79,6 +79,8 @@ We ought to rebuild everything on top of this [ledger of record](authenticity.md
 
 Open source code is compiled, ran & verified by many independent actors - we should fix the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) in science and push towards more [reproducible research](https://www.coursera.org/learn/reproducible-research).
 
+> "More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments." - [source](https://www.nature.com/articles/533452a)
+
 > "Imagine if we optimized for number of independent replications over number of citations." - [@balajis](https://twitter.com/balajis/status/1337598439266250752)
 
 Papers can be split into text, data, code & results with all of them referencable with stable URIs & cryptographically tied to identity, reputation & [open peer review](https://en.wikipedia.org/wiki/Open_peer_review). There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable & [replicable](https://twitter.com/balajis/status/1556579944754384897). Citations could become [function calls / imports](https://twitter.com/balajis/status/1309497397236477952) so that we can trace the dependency graph in science and focus on re-testing the most important bits - we might [save a billion or two and avoid lost decades](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease). We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science & facts.
@@ -88,6 +90,9 @@ Papers can be split into text, data, code & results with all of them referencabl
 <!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
 
 # The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
+
+https://twitter.com/Golden
+https://golden.com/blog/golden-raises-40m-series-b/
 
 The biggest hurdle for its adoption has been the [host-centric](problems_with_the_web.md#the-host-centric-web) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](host_vs_data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
 

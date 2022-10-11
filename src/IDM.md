@@ -33,6 +33,10 @@ IDMs never get access to your private key
 query IDMs directly for content by person X - polling mechanics like RSS
 
 
+DMs
+https://github.com/farcasterxyz/protocol/issues/5
+
+
 Permissions for different actions could be separated - for example requiring signatures for content while not requiring for updating follow connections.
 
 
