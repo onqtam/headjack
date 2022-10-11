@@ -1492,6 +1492,9 @@ https://news.ycombinator.com/item?id=32927360</p>
 </blockquote>
 <p>Open source code is compiled, ran &amp; verified by many independent actors - we should fix the <a href="https://en.wikipedia.org/wiki/Replication_crisis">replication crisis</a> in science and push towards more <a href="https://www.coursera.org/learn/reproducible-research">reproducible research</a>.</p>
 <blockquote>
+<p>&quot;More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments.&quot; - <a href="https://www.nature.com/articles/533452a">source</a></p>
+</blockquote>
+<blockquote>
 <p>&quot;Imagine if we optimized for number of independent replications over number of citations.&quot; - <a href="https://twitter.com/balajis/status/1337598439266250752">@balajis</a></p>
 </blockquote>
 <p>Papers can be split into text, data, code &amp; results with all of them referencable with stable URIs &amp; cryptographically tied to identity, reputation &amp; <a href="https://en.wikipedia.org/wiki/Open_peer_review">open peer review</a>. There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable &amp; <a href="https://twitter.com/balajis/status/1556579944754384897">replicable</a>. Citations could become <a href="https://twitter.com/balajis/status/1309497397236477952">function calls / imports</a> so that we can trace the dependency graph in science and focus on re-testing the most important bits - we might <a href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease">save a billion or two and avoid lost decades</a>. We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science &amp; facts.</p>
@@ -1500,6 +1503,8 @@ https://news.ycombinator.com/item?id=32927360</p>
 </blockquote>
 <!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
 <h1 id="the-semantic-web-aka-the-original-web3"><a class="header" href="#the-semantic-web-aka-the-original-web3">The <a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a> (a.k.a. the original &quot;Web3&quot;)</a></h1>
+<p>https://twitter.com/Golden
+https://golden.com/blog/golden-raises-40m-series-b/</p>
 <p>The biggest hurdle for its adoption has been the <a href="problems_with_the_web.html#the-host-centric-web">host-centric</a> paradigm and the hoarding of data in silos with no incentive for exporting &amp; interoperability - Headjack changes that through <a href="host_vs_data_centric.html">data-centric addressing</a> &amp; broadcasting by default. While there will always be companies that enrich &amp; tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public <a href="https://en.wikipedia.org/wiki/Giant_Global_Graph">Giant Global Graph</a> outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different <a href="messages.html">message types</a> and further annotations will make everything a lot more machine-readable.</p>
 <img src="images/data_information_knowledge.jpg">
 <!-- <img src="images/data_information_knowledge.png"> -->
@@ -1904,6 +1909,7 @@ https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-
 <li><a href="competition.html#others">Others</a></li>
 </ul>
 <h1 id="comparison-table"><a class="header" href="#comparison-table">Comparison table</a></h1>
+<p>Most of the values here are based on the technological understanding of the Headjack team and are not coming from official sources of the other projects.</p>
 <div>
 <style type="text/css" scoped>
     .competition_comparison td {
@@ -1911,123 +1917,157 @@ https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-
         margin: 0;
         width: 12%;
         color: black;
+        font-size: 12px;
         text-align: center;
-        /* border-spacing: 0; border-collapse: collapse; */
+        background-color:white;
+    }
+    .competition_comparison td a {
+        color: #0000bb;
     }
 </style>
 <table class="competition_comparison">
 <tr>
-    <td style="background-color:white;width:16%"></td>
-    <td style="background-color:white;"><b>Headjack</b></td>
-    <td style="background-color:white;"><b><a href="competition.html#farcaster">Farcaster</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.html#dsnp-frequency--project-liberty">DSNP</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.html#bluesky">Bluesky</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.html#tbd">TBD</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.html#cyberconnect">Cyber Connect</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.html#lens-protocol">Lens</a></b></td>
+    <td style="width:16%"></td>
+    <td><b>Headjack</b></td>
+    <td><b><a href="competition.html#farcaster">Farcaster</a></b></td>
+    <td><b><a href="competition.html#dsnp-frequency--project-liberty">DSNP</a></b></td>
+    <td><b><a href="competition.html#bluesky">Bluesky</a></b></td>
+    <td><b><a href="competition.html#tbd">TBD</a></b></td>
+    <td><b><a href="competition.html#cyberconnect">Cyber Connect</a></b></td>
+    <td><b><a href="competition.html#lens-protocol">Lens</a></b></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Scalability</b></td>
+    <td><b>Scalability</b></td>
     <td style="background-color:green">can handle billions - <a href="numbers.html">proof</a></td>
-    <td style="background-color:yellow">could scale</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td style="background-color:#88ff00">~10 million - will need to move to its own rollup for more. Also its p2p implementation is extremely limiting</td>
+    <td style="background-color:yellow"></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:red"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Not linking identity to financial accounts by default</b></td>
+    <td><b>Not linking identity to financial accounts by default</b></td>
     <td style="background-color:green">specialized chain</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Easy to work with mental model</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Easy to work with mental model</b></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Unopinionated where apps are hosted (locally/services)</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Can use "custodial" hosted services while retaining ultimate control</b></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Human-readable & persistent URIs</b></td>
-    <td style="background-color:green"><a href="addressing.html">yes</a></td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Human-readable & persistent URIs</b></td>
+    <td style="background-color:green"><a href="names_and_paths.html">yes</a></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red">no</td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Time to finality</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Multiple entities to query for a document by URI</b></td>
+    <td style="background-color:green">Yes - both application & user IDs are in the URI</td>
+    <td style="background-color:yellow"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Ease of indexing & building responsive UI</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Fee predictability for users</b></td>
+    <td style="background-color:green">as scalable as necessary + services cover the costs for users</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Incentive layer & DA for key rotation/revocation & authorizations</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>push vs pull</b></td>
+    <td style="background-color:green">both</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Self-authenticating documents</b></td>
-    <td style="background-color:green">need to consult the blockchain if the proofs are valid</td>
-    <td style="background-color:grey">blockchain validates the proofs</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Ease of indexing & building responsive UI</b></td>
+    <td style="background-color:green">Can be as performant as Web2 and not constrained by block time</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Decentralized</b></td>
-    <td style="background-color:green">ZK rollup</td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:green">Polkadot security</td>
-    <td style="background-color:red">the only offender</td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:green">-</td>
+    <td><b>Self-authenticating documents</b></td>
+    <td style="background-color:green">proofs are validated by the blockchain</td>
+    <td style="background-color:yellow">need to talk to Ethereum <b>AND</b> the host-certified user directory which can disappear OR change</td>
+    <td style="background-color:green">proofs are validated by the blockchain</td>
+    <td style="background-color:green">proofs are validated by the transparency log</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+</tr>
+<tr>
+    <td><b>Incentive layer & DA for key rotation/revocation & authorizations</b></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+</tr>
+<tr>
+    <td><b>Block time for anchoring key operations</b></td>
+    <td style="background-color:green">Ethereum rollup</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:green">Polkadot</td>
+    <td style="background-color:green">centralized consortium of servers</td>
+    <td style="background-color:red">Bitcoin</td>
+    <td style="background-color:green">Ethereum</td>
     <td style="background-color:green">Polygon PoS</td>
 </tr>
 <tr>
-    <td style="background-color:white">-</td>
+    <td><b>Decentralization</b></td>
+    <td style="background-color:green">Ethereum rollup</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:#88ff00">Polkadot</td>
+    <td style="background-color:red">centralized consortium of servers</td>
+    <td style="background-color:green">Bitcoin</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:yellow">Polygon PoS</td>
+</tr>
+<!-- <tr>
+    <td>-</td>
     <td style="background-color:green">-</td>
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
@@ -2035,7 +2075,7 @@ https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
-</tr>
+</tr> -->
 </table>
 </div>
 <h1 id="what-other-projects-get-wrong"><a class="header" href="#what-other-projects-get-wrong">What other projects get wrong</a></h1>
@@ -2237,7 +2277,7 @@ https://github.com/farcasterxyz/protocol#message-ordering -->
 <li>
 <p>The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.</p>
 <blockquote>
-<p>&quot;Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service.&quot; - <a href="https://docs.cyberconnect.me/protocol/technical-framework/#storage">their docs</a></p>
+<p>&quot;Long-term data retention on CyberConnect is guaranteed through Ceramic’s blockchain anchoring and a custom data pinning service.&quot; - <a href="https://blog.ceramic.network/building-the-social-graph-infrastructure-for-web3-0/">source</a></p>
 </blockquote>
 </li>
 <li>
@@ -2608,6 +2648,10 @@ IDMs never get access to your private key
 
 
 query IDMs directly for content by person X - polling mechanics like RSS
+
+
+DMs
+https://github.com/farcasterxyz/protocol/issues/5
 
 
 Permissions for different actions could be separated - for example requiring signatures for content while not requiring for updating follow connections.

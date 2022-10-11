@@ -10,6 +10,8 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 # Comparison table
 
+Most of the values here are based on the technological understanding of the Headjack team and are not coming from official sources of the other projects.
+
 <div>
 <style type="text/css" scoped>
     .competition_comparison td {
@@ -17,126 +19,157 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
         margin: 0;
         width: 12%;
         color: black;
+        font-size: 12px;
         text-align: center;
-        /* border-spacing: 0; border-collapse: collapse; */
+        background-color:white;
+    }
+    .competition_comparison td a {
+        color: #0000bb;
     }
 </style>
 <table class="competition_comparison">
 <tr>
-    <td style="background-color:white;width:16%"></td>
-    <td style="background-color:white;"><b>Headjack</b></td>
-    <td style="background-color:white;"><b><a href="competition.md#farcaster">Farcaster</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.md#dsnp-frequency--project-liberty">DSNP</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.md#bluesky">Bluesky</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.md#tbd">TBD</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.md#cyberconnect">Cyber Connect</a></b></td>
-    <td style="background-color:white;"><b><a href="competition.md#lens-protocol">Lens</a></b></td>
+    <td style="width:16%"></td>
+    <td><b>Headjack</b></td>
+    <td><b><a href="competition.md#farcaster">Farcaster</a></b></td>
+    <td><b><a href="competition.md#dsnp-frequency--project-liberty">DSNP</a></b></td>
+    <td><b><a href="competition.md#bluesky">Bluesky</a></b></td>
+    <td><b><a href="competition.md#tbd">TBD</a></b></td>
+    <td><b><a href="competition.md#cyberconnect">Cyber Connect</a></b></td>
+    <td><b><a href="competition.md#lens-protocol">Lens</a></b></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Scalability</b></td>
+    <td><b>Scalability</b></td>
     <td style="background-color:green">can handle billions - <a href="numbers.md">proof</a></td>
-    <td style="background-color:yellow">could scale</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td style="background-color:#88ff00">~10 million - will need to move to its own rollup for more. Also its p2p implementation is extremely limiting</td>
+    <td style="background-color:yellow"></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:red"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Not linking identity to financial accounts by default</b></td>
+    <td><b>Not linking identity to financial accounts by default</b></td>
     <td style="background-color:green">specialized chain</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Easy to work with mental model</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Easy to work with mental model</b></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Unopinionated where apps are hosted (locally/services)</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Can use "custodial" hosted services while retaining ultimate control</b></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Human-readable & persistent URIs</b></td>
-    <td style="background-color:green"><a href="addressing.md">yes</a></td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Human-readable & persistent URIs</b></td>
+    <td style="background-color:green"><a href="names_and_paths.md">yes</a></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red"></td>
+    <td style="background-color:red">no</td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Time to finality</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Multiple entities to query for a document by URI</b></td>
+    <td style="background-color:green">Yes - both application & user IDs are in the URI</td>
+    <td style="background-color:yellow"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Ease of indexing & building responsive UI</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Fee predictability for users</b></td>
+    <td style="background-color:green">as scalable as necessary + services cover the costs for users</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Incentive layer & DA for key rotation/revocation & authorizations</b></td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>push vs pull</b></td>
+    <td style="background-color:green">both</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Self-authenticating documents</b></td>
-    <td style="background-color:green">need to consult the blockchain if the proofs are valid</td>
-    <td style="background-color:grey">blockchain validates the proofs</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td><b>Ease of indexing & building responsive UI</b></td>
+    <td style="background-color:green">Can be as performant as Web2 and not constrained by block time</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:white"><b>Decentralized</b></td>
-    <td style="background-color:green">ZK rollup</td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:green">Polkadot security</td>
-    <td style="background-color:red">the only offender</td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:green">-</td>
+    <td><b>Self-authenticating documents</b></td>
+    <td style="background-color:green">proofs are validated by the blockchain</td>
+    <td style="background-color:yellow">need to talk to Ethereum <b>AND</b> the host-certified user directory which can disappear OR change</td>
+    <td style="background-color:green">proofs are validated by the blockchain</td>
+    <td style="background-color:green">proofs are validated by the transparency log</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+</tr>
+<tr>
+    <td><b>Incentive layer & DA for key rotation/revocation & authorizations</b></td>
+    <td style="background-color:green"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+</tr>
+<tr>
+    <td><b>Block time for anchoring key operations</b></td>
+    <td style="background-color:green">Ethereum rollup</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:green">Polkadot</td>
+    <td style="background-color:green">centralized consortium of servers</td>
+    <td style="background-color:red">Bitcoin</td>
+    <td style="background-color:green">Ethereum</td>
     <td style="background-color:green">Polygon PoS</td>
 </tr>
-
-
-
 <tr>
-    <td style="background-color:white">-</td>
+    <td><b>Decentralization</b></td>
+    <td style="background-color:green">Ethereum rollup</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:#88ff00">Polkadot</td>
+    <td style="background-color:red">centralized consortium of servers</td>
+    <td style="background-color:green">Bitcoin</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:yellow">Polygon PoS</td>
+</tr>
+<!-- <tr>
+    <td>-</td>
     <td style="background-color:green">-</td>
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
@@ -144,7 +177,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
     <td style="background-color:grey">-</td>
-</tr>
+</tr> -->
 </table>
 </div>
 
@@ -301,7 +334,7 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 
 - The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.
 
-    > "Long-term data retention is guaranteed through Ceramic's blockchain anchoring and our custom data pinning service." - [their docs](https://docs.cyberconnect.me/protocol/technical-framework/#storage)
+    > "Long-term data retention on CyberConnect is guaranteed through Ceramic’s blockchain anchoring and a custom data pinning service." - [source](https://blog.ceramic.network/building-the-social-graph-infrastructure-for-web3-0/)
 
 - Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m) - not human-readable.
 
