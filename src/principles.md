@@ -2,7 +2,7 @@
 FIX will/can/should and present tense discrepancies
 -->
 
-# Guiding principles & design goals
+# Design - guiding principles
 
 These are the guiding principles when aiming for mass adoption of Headjack:
 
@@ -62,13 +62,15 @@ Headjack follows the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philos
 
 It must be [**obvious & provable**](numbers.md) that the network has a **credible path to handling billions of users** if entrepreneurs are expected to jump on the opportunity. The easiest mental model will win over developers and users - [singletons](https://en.wikipedia.org/wiki/Singleton_pattern) & opinionated frameworks with a concrete direction are much simpler than a fractured landscape of standards, libraries & chains.
 
+<!-- Most crypto projects are toys compared to what Web2 has been doing in the past couple of decades -->
+
 > "Consistency is incredibly important for creating a compelling user experience." - [Moxie](https://signal.org/blog/the-ecosystem-is-moving/)
 
 # Decentralization, neutrality & sovereignty
 
-- Users should be able to own their identity & connections in a sovereign way with a keypair **even if by default** their activity is managed by an [IDM](IDM.md) that resembles a custodial service.
+- **Sovereignty**: Users should be able to own their identity & connections with a keypair **even if by default** their activity is managed by an [IDM](IDM.md) - resembling a custodial service.
 
-- Anyone can permissionlessly have a pseudonymous identity, buy a name, operate an [IDM](IDM.md), serve media through an application and publish & broadcast through Headjack using their identity. [Moderation & censorship](moderation.md) happen at the application & infrastructure level - freedom of speech is guaranteed, but not freedom of reach as that is up to the applications & services that serve media. Individuals will always be able to contact one another for private communication.
+- [**Credible neutrality**](https://nakamoto.com/credible-neutrality/) - Anyone can permissionlessly have a pseudonymous identity, buy a name, operate an [IDM](IDM.md), serve media through an application and publish & broadcast through Headjack using their identity. [Moderation & censorship](moderation.md) happen at the application & infrastructure level - freedom of speech is guaranteed, but not freedom of reach as that is up to the applications & services that serve media. Individuals will always be able to contact one another for private communication.
 
 - Anyone can self-host & run software locally, browse the ecosystem, and fetch content & events from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real-time.
 

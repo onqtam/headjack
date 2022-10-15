@@ -1,4 +1,10 @@
-# Authenticity
+
+<!--
+https://en.wikipedia.org/wiki/Non-repudiation
+
+-->
+
+# Trust & the ledger of record
 
 In the current web documents are [host-certified](problems_with_the_web.md#the-host-centric-web) and we refer to data by location instead of contents. Here we'll expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](host_vs_data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents tied to identity.
 
@@ -23,6 +29,8 @@ https://en.wikipedia.org/wiki/Akashic_records
 We could establish global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) through authenticity, reputation, and the ledger of record.
 
 Another important aspect in improving coordination is to build applications that will help in forming common knowledge:
+
+"The great privilege of the elites of the future will be to erase the computer information about them and assume their private identity again." - Marshall McLuhan
 
 > "Common knowledge is often important for coordination. For example, a group of people might want to speak out about an issue, but only feel comfortable doing so if there’s enough of them speaking out at the same time that they have safety in numbers." [Vitalik](https://vitalik.ca/general/2022/06/12/nonfin.html)
 

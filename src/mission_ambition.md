@@ -13,9 +13,28 @@ https://twitter.com/sreeramkannan/status/1573832256577224705
 
 > "The medium is the message" - [Marshall McLuhan](https://en.wikipedia.org/wiki/The_medium_is_the_message) proposes that a communication medium itself, not the messages it carries, should be the primary focus of study.
 
+“First we build the tools, then they build us.”
+― Marshall McLuhan
+https://www.goodreads.com/quotes/484955-first-we-build-the-tools-then-they-build-us
+
+<!-- Biology is layers of dumb systems that cooperate and mediate between each other
+
+Humans are just a collection of cells - even the “central” nervous system. Just cells that play along and cooperate and thus humans, consciousness and intelligence emerge. There’s no reason for humans to nit be able to assemble in something greater than any individual faction on their own
+
+Just like depending on the arrangements of matter different complexity emerges, so too can we do the same with how we shape our informational landscape. -->
+
+
 # Goals
 
 Headjack wants to:
+
+<!-- Goal: minimise friction for devs and users & enable permissionless innovation 
+
+No more gatekeepers
+
+a new era for communication, cooperation & compute
+
+-->
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should belong to no one
 - rebuild & scale up trust through [authenticity](authenticity.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)

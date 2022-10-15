@@ -86,3 +86,6 @@ Users won't be able to authorize & login to services if the chain is down...
 responsibilities and assumptions - users should monotor if apps send their activity to their idm
 
 
+
+Problem: premium features could lock ppl in to idms
+
