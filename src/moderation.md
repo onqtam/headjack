@@ -94,10 +94,10 @@ https://www.sciencedirect.com/science/article/pii/S2405844020323835
 
 
 > "Separating speech and reach gives indexing services more freedom to moderate."
-https://github.com/bluesky-social/adx/blob/main/architecture.md
+https://github.com/bluesky-social/adx/blob/main/docs/architecture.md
 
 
-https://github.com/bluesky-social/adx/blob/main/architecture.md#moderation
+https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#moderation
 
 
 https://arxiv.org/abs/2109.13046

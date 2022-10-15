@@ -10,7 +10,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 # Comparison table
 
-Most of the values here are based on the technological understanding of the Headjack team and are not coming from official sources of the other projects.
+This is the subjective understanding of Headjack's team - many of the claims lack official sources.
 
 <div>
 <style type="text/css" scoped>
@@ -35,38 +35,51 @@ Most of the values here are based on the technological understanding of the Head
     <td><b><a href="competition.md#dsnp-frequency--project-liberty">DSNP</a></b></td>
     <td><b><a href="competition.md#bluesky">Bluesky</a></b></td>
     <td><b><a href="competition.md#tbd">TBD</a></b></td>
-    <td><b><a href="competition.md#cyberconnect">Cyber Connect</a></b></td>
-    <td><b><a href="competition.md#lens-protocol">Lens</a></b></td>
+    <td><b><a href="competition.md#cyberconnect">CyberConnect</a></b></td>
+    <td><b><a href="https://lens.xyz/">Lens</a></b></td>
+</tr>
+<tr>
+    <td style="background-color:grey" colspan="8"><b>blockchain-related properties</b></td>
 </tr>
 <tr>
     <td><b>Scalability</b></td>
     <td style="background-color:green">can handle billions - <a href="numbers.md">proof</a></td>
     <td style="background-color:#88ff00">~10 million - will need to move to its own rollup for more. Also its p2p implementation is extremely limiting</td>
     <td style="background-color:yellow"></td>
-    <td style="background-color:green"></td>
+    <td style="background-color:green">centralized consortium of servers</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
-    <td style="background-color:red"></td>
+    <td style="background-color:red">Content is on-chain - not just accounts. Even a dedicated EVM rollup won't be enough</td>
 </tr>
 <tr>
-    <td><b>Not linking identity to financial accounts by default</b></td>
-    <td style="background-color:green">specialized chain</td>
+    <td><b>Users paying for TX fees & linking identity to financial accounts by default</b></td>
+    <td style="background-color:green">blockchain costs are paid for by services by default</td>
+    <td style="background-color:yellow">Ethereum L1 costs initially planned for subsidy by services</td>
+    <td style="background-color:yellow"></td>
+    <td style="background-color:green">centralized consortium of servers - no TXs</td>
+    <td style="background-color:#88ff00">The anchors (on-chain Merkle roots) get batched with others</td>
+    <td style="background-color:yellow"></td>
+    <td style="background-color:yellow"></td>
+</tr>
+<tr>
+    <td><b>Blockchain TX fee stability & predictability</b></td>
+    <td style="background-color:green"><a href="numbers.md">as scalable as necessary => no congestion</a></td>
+    <td style="background-color:red">Ethereum L1 - will need to migrate to its own rollup in the future</td>
     <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style="background-color:green">centralized consortium of servers - no TXs</td>
+    <td style="background-color:#88ff00">Bitcoin TX fees are low due to low economic activity</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Easy to work with mental model</b></td>
-    <td style="background-color:green"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td><b>Block time for anchoring key operations</b></td>
+    <td style="background-color:green">Ethereum ZK rollup with multiple blocks within 1 slot of Ethereum L1</td>
+    <td style="background-color:yellow">Ethereum</td>
+    <td style="background-color:#88ff00">Polkadot</td>
+    <td style="background-color:green">centralized consortium of servers</td>
+    <td style="background-color:red">Bitcoin</td>
+    <td style="background-color:yellow">Ethereum</td>
+    <td style="background-color:green">Polygon PoS</td>
 </tr>
 <tr>
     <td><b>Can use "custodial" hosted services while retaining ultimate control</b></td>
@@ -79,18 +92,51 @@ Most of the values here are based on the technological understanding of the Head
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Human-readable & persistent URIs</b></td>
-    <td style="background-color:green"><a href="names_and_paths.md">yes</a></td>
-    <td style="background-color:red"></td>
-    <td style="background-color:red"></td>
-    <td style="background-color:red"></td>
-    <td style="background-color:red"></td>
-    <td style="background-color:red"></td>
+    <td><b>Contains a name registry & can replace DNS eventually</b></td>
+    <td style="background-color:green">yes</td>
+    <td style="background-color:green">yes, also works with ENS</td>
+    <td style="background-color:red">no, but will probably introduce one</td>
+    <td style="background-color:red">no - uses <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#identifiers">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a></td>
     <td style="background-color:red">no</td>
+    <td style="background-color:red">no, probably works with ENS</td>
+    <td style="background-color:red">no, probably works with ENS</td>
+</tr>
+<tr>
+    <td><b>Decentralization for the most important parts</b></td>
+    <td style="background-color:#88ff00">Ethereum ZK rollup with external data availability (validium)</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:#88ff00">Polkadot - not big enough set of validators</td>
+    <td style="background-color:red">centralized consortium of servers</td>
+    <td style="background-color:green">Bitcoin</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:yellow">Polygon PoS</td>
+</tr>
+<tr>
+    <td style="background-color:grey" colspan="8"><b>Data availability, storage, retrievability & addressing</b></td>
+</tr>
+<tr>
+    <td><b>Human-readable & persistent URIs for data without any hashes/pubkeys</b></td>
+    <td style="background-color:green"><a href="names_and_paths.md"><img src="images/meme_yes_chad.png"/></a></td>
+    <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a></td>
+    <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
+    <td style="background-color:red">URIs full of <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">hashes</a> - addressing IPLD objects with a <a href="https://github.com/multiformats/cid">CID</a></td>
+    <td style="background-color:red">most probably using hashes</td>
+    <td style="background-color:red">URIs full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes</a></td>
+    <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
+</tr>
+<tr>
+    <td><b>Reliance on a p2p network & a global DHT for delivering fine-grained messages</b></td>
+    <td style="background-color:green">Headjack is pure addressing - storage & retrieval are orthogonal</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
     <td><b>Multiple entities to query for a document by URI</b></td>
-    <td style="background-color:green">Yes - both application & user IDs are in the URI</td>
+    <td style="background-color:green">yes - both application & user IDs are in the URI - <a href="store_and_retrieve.md">multiple ways for retrieving data for a URI</a></td>
     <td style="background-color:yellow"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -99,28 +145,8 @@ Most of the values here are based on the technological understanding of the Head
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Fee predictability for users</b></td>
-    <td style="background-color:green">as scalable as necessary + services cover the costs for users</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-</tr>
-<tr>
-    <td><b>push vs pull</b></td>
-    <td style="background-color:green">both</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-</tr>
-<tr>
-    <td><b>Ease of indexing & building responsive UI</b></td>
-    <td style="background-color:green">Can be as performant as Web2 and not constrained by block time</td>
+    <td><b>Push vs pull for fetching new content</b></td>
+    <td style="background-color:green">supports both</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -132,15 +158,28 @@ Most of the values here are based on the technological understanding of the Head
     <td><b>Self-authenticating documents</b></td>
     <td style="background-color:green">proofs are validated by the blockchain</td>
     <td style="background-color:yellow">need to talk to Ethereum <b>AND</b> the host-certified user directory which can disappear OR change</td>
-    <td style="background-color:green">proofs are validated by the blockchain</td>
+    <td style="background-color:yellow">merkle roots <a href="https://github.com/LibertyDSNP/frequency/issues/105">not present</a></td>
     <td style="background-color:green">proofs are validated by the transparency log</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Incentive layer & DA for key rotation/revocation & authorizations</b></td>
+    <td><b>Incentive layer & DA for key rotation/revocation & registries</b></td>
     <td style="background-color:green"></td>
+    <td style="background-color:yellow">Long-term Ethereum L1 might introduce state rent</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+</tr>
+<tr>
+    <td style="background-color:grey" colspan="8"><b>Ease of use for developers</b></td>
+</tr>
+<tr>
+    <td><b>Can leverage existing Web2 authenticating infrastructure</b></td>
+    <td style="background-color:green">Can leverage all existing OAuth code</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -149,24 +188,24 @@ Most of the values here are based on the technological understanding of the Head
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:yellow">Ethereum ZK rollup</td>
-    <td style="background-color:yellow">Ethereum</td>
-    <td style="background-color:#88ff00">Polkadot</td>
-    <td style="background-color:green">centralized consortium of servers</td>
-    <td style="background-color:red">Bitcoin</td>
-    <td style="background-color:yellow">Ethereum</td>
-    <td style="background-color:green">Polygon PoS</td>
+    <td><b>Easy to work with mental model vs high cognitive load & complexity</b></td>
+    <td style="background-color:#88ff00">A bit more complexity compared to Web2</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Decentralization</b></td>
-    <td style="background-color:green">Ethereum ZK rollup</td>
-    <td style="background-color:green">Ethereum</td>
-    <td style="background-color:#88ff00">Polkadot</td>
-    <td style="background-color:red">centralized consortium of servers</td>
-    <td style="background-color:green">Bitcoin</td>
-    <td style="background-color:green">Ethereum</td>
-    <td style="background-color:yellow">Polygon PoS</td>
+    <td><b>Ease of indexing & building responsive UI</b></td>
+    <td style="background-color:green">can be as performant as Web2 and not constrained by block time</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
 </tr>
 <!-- <tr>
     <td>-</td>
@@ -300,7 +339,7 @@ Frequency (a Polkadot parachain) is the first implementation of DSNP (Decentrali
 
 # [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
 
-Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/architecture.md)
+Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md)
 
 - Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
     - Centralization point - relies on DNS for the part after `@`.
@@ -311,7 +350,7 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/archi
 
 - Content addressing with hashes (versus Headjack's [human-readable & persistent URIs](addressing.md)).
 
-- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/architecture.md#root-private-key-management).
+- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#root-private-key-management).
 
 <!-- - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md). -->
 <!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
@@ -348,16 +387,6 @@ Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/m
 - The persistence of the social graph is handled by pinning IPFS data on nodes operated by them without any cryptoeconomic incentive for the data availability - it will grow into the tens/hundreds of terabytes for web-scale (Twitter scale: 400M users with 700 connections on average) - especially because they don't have a compact integer-based representation and everything is based on big individually signed actions. The upcoming Ceramic blockchain does not seem to be geared towards storage incentivization and will not be the solution to that.
 
     > "Long-term data retention on CyberConnect is guaranteed through Ceramic’s blockchain anchoring and a custom data pinning service." - [source](https://blog.ceramic.network/building-the-social-graph-infrastructure-for-web3-0/)
-
-- Addressability of content is full of [hashes/pubkeys](https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m) - not human-readable.
-
-# [Lens Protocol](https://lens.xyz/)
-
-- Keypairs & wallets required.
-
-- Even the content is stored on-chain instead of just the accounts. This cannot scale even to a few million users with any real usage despite being on Polygon. Even if they move to their own chain it will have to be EVM-compatible because of their smart contracts - suboptimal.
-
-- Hashes & pubkeys in content addressing - no [human-readable & persistent URIs](addressing.md).
 
 # [DeSo](https://www.deso.org/)
 
