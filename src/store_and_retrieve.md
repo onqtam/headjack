@@ -1,4 +1,4 @@
-# Storage & retrievability of data
+# Data storage & retrievability
 
 In this chapter we will see the different aspects of handling unlimited amounts of off-chain data:
 

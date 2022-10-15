@@ -150,17 +150,17 @@ Most of the values here are based on the technological understanding of the Head
 </tr>
 <tr>
     <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:green">Ethereum rollup</td>
-    <td style="background-color:green">Ethereum</td>
-    <td style="background-color:green">Polkadot</td>
+    <td style="background-color:yellow">Ethereum ZK rollup</td>
+    <td style="background-color:yellow">Ethereum</td>
+    <td style="background-color:#88ff00">Polkadot</td>
     <td style="background-color:green">centralized consortium of servers</td>
     <td style="background-color:red">Bitcoin</td>
-    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:yellow">Ethereum</td>
     <td style="background-color:green">Polygon PoS</td>
 </tr>
 <tr>
     <td><b>Decentralization</b></td>
-    <td style="background-color:green">Ethereum rollup</td>
+    <td style="background-color:green">Ethereum ZK rollup</td>
     <td style="background-color:green">Ethereum</td>
     <td style="background-color:#88ff00">Polkadot</td>
     <td style="background-color:red">centralized consortium of servers</td>
@@ -181,6 +181,17 @@ Most of the values here are based on the technological understanding of the Head
 </table>
 </div>
 
+<a id="footnote-1-ref" href="#footnote-1">[1]</a>
+<a id="footnote-2-ref" href="#footnote-2">[2]</a>
+
+<div id="footnote-1">
+   1. X. <a href="#footnote-1-ref">&#8617;</a> 
+</div>
+<div id="footnote-2">
+   2. X. <a href="#footnote-2-ref">&#8617;</a>
+</div>
+
+
 # What other projects get wrong
 
 A list of problems with the contenders in the decentralized identity/media space:
@@ -192,6 +203,8 @@ A list of problems with the contenders in the decentralized identity/media space
 
 - Complexity & lack of clarity - distributed systems engineers should easily figure out how they work & what the limitations are. Why build on something that others are probably having a hard time understanding as well and may not be around in the future?
     > "Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
+
+    > "For the simplicity on this side of complexity, I wouldn't give you a fig. But for the simplicity on the other side of complexity, for that I would give you anything I have." - [Oliver Wendell Holmes](https://www.goodreads.com/quotes/44564-for-the-simplicity-on-this-side-of-complexity-i-wouldn-t)
 
 - Too financialized & trying to do too much - profiles & posts as NFTs, microtransactions, marketplaces, fan coins, tipping, content creator incentives.
     > "However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start." - [Jay Gerber](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970)

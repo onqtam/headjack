@@ -10,6 +10,10 @@
 
 - New URI schema so that we can use the current name of an app for an old URI when the name was different?
 
+- https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/
+
+- https://fidoalliance.org/
+
 - look into Verkle trees & KZG proofs
 https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
 "Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
@@ -19,8 +23,6 @@ https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scalin
 - how to address content on other blockchains? what would the URIs be?
 
 - How to toggle content to be either public/private? Once it is out it is out :|
-
-- messaging protocol - XMTP & signal
 
 - build a transactional system on top of Headjack addressing? incentive layer for DA & build staking & whatnot on top of that? big bottleneck for SC chains: state access. What if a chain solves for addressing of content such that the state of an app can be sharded on many machines and yet remain addressable? BOUNDLESS addressability.
 
@@ -56,6 +58,8 @@ https://twitter.com/auth0
 
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
+- how to make things with a URI an NFT
+
 - What if the application web2 website is no longer around?
 
 - Topics such as $RUNE & hashtags - how do they get parsed?
@@ -66,6 +70,9 @@ https://twitter.com/auth0
     https://proto.school/anatomy-of-a-cid/02/
 
 - think about content hosting (especially files & images)
+
+- TLS & certificates standards?
+    https://en.wikipedia.org/wiki/X.509
 
 - protected tweets - LOL - followers are also private unless permitted?
 paywalls? how?
@@ -196,6 +203,13 @@ that way even if content goes dark it can later resurface and be deduplicated by
 In theory everything can be built with hash-based addressing as everything could be uniquely identified. But is that the most optimal way?
 
 A specialized blockchain is required. Finance is mostly about specific accounts & energy preservation - no double-spends (example: UTXOs care only about other UTXOs). Media is about data storage, retrievability, aggregation, indexing, discoverability, addressing, interlinking & archiving on a massive scale - it shouldn't be built on financial infrastructure.
+
+
+Headjack is storage agnostic - it can be changed and yet still retrievable
+storage is ephemeral - addressing is forever
+Headjack is future proof
+Built with UX in mind - for high throughput/performance and low latency
+
 
 
 https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/

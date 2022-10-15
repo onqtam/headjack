@@ -27,10 +27,12 @@ tag type idea: prediction, and later with oracles credibility & track records co
 
 Announcement type
 
+Pluggable visualization of different message types - configurable with styling
 
 
 on editing messages:
 https://twitter.com/VitalikButerin/status/1575890520403869696
+
 
 
 
@@ -114,6 +116,7 @@ the <application_id>/<application_nonce> is embedded in a message that's being s
 Message type about binding something to a financial blockchain and making it illegal for the original creator to make a delete message - all exchange of ownership happens on the financial chain
 
 
+- look into serialization formats & SSZ: https://twitter.com/varunsrin/status/1580710315175530496
 
 
 -->

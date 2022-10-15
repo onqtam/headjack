@@ -152,7 +152,10 @@ Why stop at just blue checks? Many different badges for verification!
 Youtube has some serious issues... - flagging, moderation, etc.
 https://www.youtube.com/watch?v=_IuqFlWovGQ
 
+https://twitter.com/hivedotone
 https://hive.one/
 https://maciek.blog/dit/
 https://maciek.blog/influence/
 https://maciek.blog/attention-as-a-source-of-scarcity-for-decentralized-identity-systems/
+
+

@@ -48,6 +48,8 @@ Creating a new social application would require just a bit of frontend code by a
 
 - mention alchemy in business models page about infra companies
 https://www.alchemy.com/
+https://twitter.com/_n_x_y_z_/status/1580136531552915456
+https://n.xyz/
 
 
 It will take some time for markets to mature and the dust to settle once specialization & competition are democratized, but then prices will be low and the efficiency & quality of services high.
@@ -58,7 +60,7 @@ TODO: re-read from "A recent example"
 https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll
 
 
-
+> "Ads are the cave art of the twentieth century." - [Marshall McLuhan](https://www.goodreads.com/quotes/210959-ads-are-the-cave-art-of-the-twentieth-century)
 
 The goal is democratized access, competition & innovation  - not the end of the Ad model which is a pipe dream - it isn't going anywhere. The current problem is that we don't have alternatives and that there's no transparency.
 

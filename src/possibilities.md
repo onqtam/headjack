@@ -89,6 +89,8 @@ Papers can be split into text, data, code & results with all of them referencabl
 
 <!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
 
+<!-- https://www.nature.com/articles/d41586-022-03256-9 -->
+
 # The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
 
 https://twitter.com/Golden
@@ -123,6 +125,8 @@ There are no limits to the types of queries we should be able to make - some sim
 - `"Has anyone I follow or is connected up to N degrees of separation with me shared/mentioned X in the last Y days?"`
 
 Companies with complex indexes & private knowledge graphs could charge for running queries.
+
+<!-- How do we query “how many films do robert deniro and and al pacino have together”?  -->
 
 # Optimal archiving (like the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
 

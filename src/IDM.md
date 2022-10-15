@@ -18,6 +18,11 @@ https://twitter.com/session_app
 
 
 
+- messaging protocol - XMTP & signal
+https://en.wikipedia.org/wiki/Forward_secrecy
+https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+https://en.wikipedia.org/wiki/Double_Ratchet_Algorithm
+
 
 
 an IDM may also use a social recovery wallet instead of email as login - or just a normal wallet/keypair authorization
