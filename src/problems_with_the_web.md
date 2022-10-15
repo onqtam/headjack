@@ -183,7 +183,7 @@ A non-exhaustive list of additional problems (beyond what's already listed) with
 
 <!-- tweets & comments without tagging is primitive and inefficient -->
 
-when twitter decide engagement is low they shove down your throat nonsense algorithmic "recent tweets" notifications you can't turn off - that's what it has devolved into. "See less often" from the dropdown menu does nothing.
+when twitter decide engagement is low they shove down your throat nonsense algorithmic "recent tweets" notifications you can't turn off - that's what it has devolved into. "See less often" from the dropdown menu does nothing. Misaligned incentives.
 
 > "Unfortunately, you cannot turn off recent tweets. This is because the feature drives up “user engagement”, which is a key metric that shareholders pay attention to." - [source](https://thisinterestsme.com/recommended-tweets/)
 

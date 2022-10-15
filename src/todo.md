@@ -145,7 +145,7 @@ Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Q
 - talk about the fact that anything can be self-hosted - IDMs & applications
 
 - look into DID methods
-    https://github.com/bluesky-social/adx/blob/main/architecture.md#did-methods
+    https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#did-methods
 
     https://identity.foundation/
 
