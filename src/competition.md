@@ -73,7 +73,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:green">Ethereum ZK rollup with multiple blocks within 1 slot of Ethereum L1</td>
+    <td style="background-color:green">Ethereum ZK rollup with multiple blocks in one L1 slot</td>
     <td style="background-color:yellow">Ethereum</td>
     <td style="background-color:#88ff00">Polkadot</td>
     <td style="background-color:green">centralized consortium of servers</td>
@@ -115,29 +115,29 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:grey" colspan="8"><b>Data availability, storage, retrievability & addressing</b></td>
 </tr>
 <tr>
-    <td><b>Human-readable & persistent URIs for data without any hashes/pubkeys</b></td>
+    <td><b>Human-readable & persistent URIs for data without any hashes</b></td>
     <td style="background-color:green"><a href="names_and_paths.md"><img src="images/meme_yes_chad.png"/></a></td>
-    <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a></td>
+    <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (most probably)</td>
     <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
-    <td style="background-color:red">URIs full of <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">hashes</a> - addressing IPLD objects with a <a href="https://github.com/multiformats/cid">CID</a></td>
+    <td style="background-color:red">URIs full of <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
     <td style="background-color:red">most probably using hashes</td>
     <td style="background-color:red">URIs full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes</a></td>
     <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
 </tr>
 <tr>
-    <td><b>Reliance on a p2p network & a global DHT for delivering fine-grained messages</b></td>
-    <td style="background-color:green">Headjack is pure addressing - storage & retrieval are orthogonal</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td><b>Multiple ways to query for a URI's document</b></td>
+    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">multiple ways:</a><br/>&nbsp;1) the user<br/>&nbsp;2) <u><b>the source application</b></u><br/>&nbsp;3) the original IPFS batch blob<br/>&nbsp;4) the p2p network with the URI hash<br/>&nbsp;5) any archive</td>
+    <td style="background-color:yellow;text-align:left;">&nbsp;1) user's Hub<br/>&nbsp;2) the p2p network<br/>&nbsp;3) any archive</td>
+    <td style="background-color:yellow;text-align:left;"></td>
+    <td style="background-color:grey;text-align:left;"></td>
+    <td style="background-color:grey;text-align:left;"></td>
+    <td style="background-color:grey;text-align:left;"></td>
+    <td style="background-color:grey;text-align:left;"></td>
 </tr>
 <tr>
-    <td><b>Multiple entities to query for a document by URI</b></td>
-    <td style="background-color:green">yes - both application & user IDs are in the URI - <a href="store_and_retrieve.md">multiple ways for retrieving data for a URI</a></td>
-    <td style="background-color:yellow"></td>
+    <td><b>Reliance on a p2p network for delivering fine-grained messages</b></td>
+    <td style="background-color:green">Headjack is pure addressing - storage & retrieval are orthogonal</td>
+    <td style="background-color:red">using a gossip-based pubsub protocol between peers</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -146,8 +146,8 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Push vs pull for fetching new content</b></td>
-    <td style="background-color:green">supports both</td>
-    <td style="background-color:grey"></td>
+    <td style="background-color:green">both - events are broadcasted & individual items can also be requested</td>
+    <td style="background-color:red">pull only - requires polling a user's Hub for anything new</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>

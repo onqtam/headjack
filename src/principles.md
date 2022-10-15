@@ -21,7 +21,7 @@ It is highly improbable that the masses (and even most crypto natives) would tol
 
     <!-- > "If the goal is to onboard first-time crypto users, the experience must be custodial — at least to start." - [a16z](https://future.a16z.com/missing-link-web2-web3-custody-wallets/) -->
 
-    > "Wallets, seed phrases, and gas for transactions are all inherently very unfriendly to the user, and until greater levels of abstraction exist, adoption will face headwinds. We must assume that the average user will not deal with the complexity we see today." - [Zee Prime capital](https://zeeprime.capital/web-3-middleware)
+    <!-- > "Wallets, seed phrases, and gas for transactions are all inherently very unfriendly to the user, and until greater levels of abstraction exist, adoption will face headwinds. We must assume that the average user will not deal with the complexity we see today." - [Zee Prime capital](https://zeeprime.capital/web-3-middleware) -->
 
     <!-- > "If Web3 social is for the crypto community only - it will likely fail. It’s not enough to provide ideological motives. The key here is to introduce new forms of monetization which overlaps with the aforementioned “Web3 commerce” narrative. These new tools must be intuitive and easy to use." - [@mattigags](https://wrongalot.substack.com/p/the-next-big-crypto-narrative) -->
 
