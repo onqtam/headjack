@@ -14,10 +14,18 @@ git-repository-url = "https://github.com/onqtam/headjack"
 git-repository-icon = "fa-github"
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
+# https://github.com/zjp-CN/mdbook-theme
+#additional-css = ["theme/pagetoc.css"]
+#additional-js  = ["theme/pagetoc.js"]
 
 [output.html.fold]
 enable = true
 level = 3
+
+# https://github.com/zjp-CN/mdbook-theme
+#[preprocessor.theme]
+#pagetoc = false
+#sidebar-width            = "350px"
 
 # requires this: https://github.com/badboy/mdbook-toc
 [preprocessor.toc]

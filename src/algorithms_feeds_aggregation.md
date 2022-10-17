@@ -29,6 +29,10 @@ We have no control over what social media shows us - we're presented with their 
 
 Events coming from an application are an advertisement for it because the URIs point to it as the source - users are effectively signaling what UI, filtration & content moderation they prefer.
 
+<!-- TODO: 2 words: mimetic desire
+
+Imagine publicly stating what you want to filter out of your life and then others observing which apps you choose. This is a way to signal personal preferences you'd like with everyone - we are mimetic creatures -->
+
 But this can be pushed a lot further - using public [message types](messages.md) more specific preferences within one application (and compatible with others) could be signaled. The choice of recommendation algorithms, filtration criteria & moderation levels could be displayed in account profiles throughout all applications either as badges or in some other way. An application could accommodate a wide range of preferences by using different indexes & models which would be handled by infrastructure layers beneath them - reusable by all other applications that need them too.
 
 This way of signaling fine-grained preferences could allow us to collectively migrate to better algorithms - by showing which interests & perspectives we've adopted ourselves. One value to signal would be to use algorithms & models that are transparent and not some [black box](problems_with_the_web.md#black-boxes--algorithmic-bias) - we could study how virality happens. What if some algorithm promotes [antisocial ultra viral content](https://twitter.com/balajis/status/1561032192947458048) close to the borderline of acceptability just for the sake of engagement? We could boycott it. And why not choose indexes & algorithms that up & down regulate specific accounts? Moderation could be done through a set of filters to which users opt in/out by toggling & layering - choosing what to amplify and what to tone down. Such preferences can also be private.

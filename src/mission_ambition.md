@@ -24,6 +24,17 @@ Humans are just a collection of cells - even the “central” nervous system. J
 Just like depending on the arrangements of matter different complexity emerges, so too can we do the same with how we shape our informational landscape. -->
 
 
+
+
+<!-- Write about the unifying aspect of shared identity and history in the mission page
+
+The biggest unifiers are linguistic, geographic and economic. History and culture are the fourth unifier - that is why the ledger of record within the same common identity network is important
+
+How do people who have crypto think about others that have crypto?
+ -->
+
+
+
 # Goals
 
 Headjack wants to:

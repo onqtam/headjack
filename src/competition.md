@@ -4,7 +4,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 <!-- Corrections for any inaccuracies are welcome! -->
 
-<!-- If Bluesky, Farcaster and DSNP had a baby it would be Headjack -->
+<!-- If Bluesky, Farcaster and DSNP had a baby with some special MKUltra spice it would be Headjack -->
 
 <!-- toc -->
 
@@ -116,7 +116,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Human-readable & persistent URIs for data without any hashes</b></td>
-    <td style="background-color:green"><a href="names_and_paths.md"><img src="images/meme_yes_chad.png"/></a></td>
+    <td style="background-color:green"><a href="names_and_paths.md"><img src="images/meme_yes_chad_green.png"/></a></td>
     <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (most probably)</td>
     <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
     <td style="background-color:red">URIs full of <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
@@ -229,6 +229,11 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 <div id="footnote-2">
    2. X. <a href="#footnote-2-ref">&#8617;</a>
 </div>
+
+<!--
+Value capture potential as a line
+The winner take all singleton is the easiest mentally
+-->
 
 
 # What other projects get wrong

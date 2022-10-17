@@ -14,9 +14,12 @@
 
 - https://fidoalliance.org/
 
-- look into Verkle trees & KZG proofs
-https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
-"Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
+- look into Verkle trees & KZG proofs / commitments
+    https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
+    "Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
+
+    https://twitter.com/SalomonCrypto/status/1581462447491194880
+
 
 - https://en.wikipedia.org/wiki/URI_fragment
 
@@ -59,6 +62,8 @@ https://twitter.com/auth0
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
 - how to make things with a URI an NFT
+
+- Think about Headjack through the lens of Palantir Foundry & granular data access & permissions
 
 - What if the application web2 website is no longer around?
 

@@ -2,6 +2,8 @@
 <!--
 https://en.wikipedia.org/wiki/Non-repudiation
 
+Leaving an authentic digital footprint and path
+
 -->
 
 # Trust & the ledger of record

@@ -10,6 +10,10 @@ Tying data to identity and making it freely available & outside of silos through
 
 The public conversation shouldn't be fractured between platforms such as Twitter, YouTube & Reddit - instead it should be one but viewed through different lenses (based on moderation / indexing / visualization). The Twitter view of a discussion is basically the same as just the top level comments (without the children) in a Reddit thread. Segregated discussion in the open web serves nobody - there should be canonical IDs for events & information that we can all refer to. It doesn't make sense that comments can be arbitrarily disabled for some document on one platform (YouTube) but enabled on another one where a URL from the first is shared. All content could be interlinked, deduplicated, referencable, quotable, commentable & shareable.
 
+<!-- Why arent pinterest and instagram just two different views? -->
+
+<!-- Linkedin is literally an attestation network that allows the curation of your skills. Imagine if we merged all the web - you could effectively build your resume based on your public successes and expertise - expertise which is provable. Open global science -->
+
 <!-- view all actions by an account on any platform -->
 
 > "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
@@ -173,6 +177,10 @@ But that's just scratching the surface - deduplicated open data, persistent URIs
 
 Let's empower them.
 
-<!-- The anonymous can get AI-generated animated avatars & build presence in our minds like never before. -->
+<!--
 
-<!-- https://en.wikipedia.org/wiki/All_the_world%27s_a_stage -->
+The anonymous can get AI-generated animated avatars & build presence in our minds like never before.
+
+journalism is changing as more and more facts are accessible to anyone online in a sea of information - the future belongs to the narrators & curators -  those that dig through public data and expose corruption
+
+-->

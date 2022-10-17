@@ -1,3 +1,20 @@
+<!--
+Metaverse stuff to go in the mental models page
+
+The metaverse is connected and there is no connectivity without common addressing and shared identity
+
+
+It is the enabler of layering of tech in the metaverse - the one true ID
+
+The collective no lying by public officials panopticon - funding public goods in public in the metaverse
+
+Whatever we build would effectively be the matrix. The matrix is the metaverse - put this qith the metaverse stuff in the last page
+
+the ledger of record with common global identity is the metaverse - the matrix
+
+
+-->
+
 # The metaverse
 
 What is the Metaverse? Some good quotes about it:
@@ -29,6 +46,9 @@ This section couldn't possibly do justice to all the aspects of what it would ta
 
 
 <!-- 
+
+
+
 
 
 `worldofwarcraft.com/12412/johnny/234/schema/56/boss_headshot`
