@@ -125,9 +125,9 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
 </tr>
 <tr>
-    <td><b>Multiple ways to query for a URI's document</b></td>
-    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">multiple ways:</a><br/>&nbsp;1) the user<br/>&nbsp;2) <u><b>the source application</b></u><br/>&nbsp;3) the original IPFS batch blob<br/>&nbsp;4) the p2p network with the URI hash<br/>&nbsp;5) any archive</td>
-    <td style="background-color:yellow;text-align:left;">&nbsp;1) user's Hub<br/>&nbsp;2) the p2p network<br/>&nbsp;3) any archive</td>
+    <td><b>Multiple ways to query for a URI's document<br/>(in addition to third-party archives)</b></td>
+    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">multiple ways:</a><br/>&nbsp;<b>1)</b> user's IDM<br/>&nbsp;<b>2)</b> <u><b>source app</b></u><br/>&nbsp;<b>3)</b> the original IPFS batch blob<br/>&nbsp;<b>4)</b> the p2p network with the URI hash</td>
+    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> the p2p network</td>
     <td style="background-color:yellow;text-align:left;"></td>
     <td style="background-color:grey;text-align:left;"></td>
     <td style="background-color:grey;text-align:left;"></td>

@@ -119,4 +119,8 @@ Message type about binding something to a financial blockchain and making it ill
 - look into serialization formats & SSZ: https://twitter.com/varunsrin/status/1580710315175530496
 
 
+
+
+
+
 -->
