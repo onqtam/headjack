@@ -123,3 +123,8 @@ In a society with faltering institutions, rotted from within and mistrusted from
 
 Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on.
 https://www.thepullrequest.com/p/everything-is-an-ad-network -->
+
+
+
+<!-- > "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear) -->
+

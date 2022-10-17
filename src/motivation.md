@@ -11,6 +11,4 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [Goals, mission & ambition](mission_ambition.md)
 1. [How to think about Headjack](how_to_think_about_it.md)
 
-<!-- > "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear) -->
-
 > "Millions saw the apple fall, but Newton was the one who asked why." - [Bernard Baruch](https://www.brainyquote.com/quotes/bernard_baruch_122011)

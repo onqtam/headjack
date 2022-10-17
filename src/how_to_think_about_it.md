@@ -5,7 +5,54 @@
 # Mental models for Headjack
 
 
+# shared virtual memory
+
+# the building block for any distributed system
+- best indexability of data due to the use of just 4 integers to identify any piece of data - with up to 128 bits of entropy
+
+
+# The global pub-sub
+
+# the metaverse
+
+
+
 <!-- 
+
+Ethereum is NOT the world computer - it's the world's settlement layer. The world computer will be built on the unified and global identity & address space of Headjack.
+
+
+
+It enables the construction of global [causally consistent](https://en.wikipedia.org/wiki/Causal_consistency) distributed systems
+TODO: is this true? what about the problem of an anchored message referencing an unanchored message? - maybe only true for the authorizations but not messages that refer to each other
+
+
+Headjack is [distributed shared memory](https://en.wikipedia.org/wiki/Distributed_shared_memory) which is a form of memory architecture where physically separated memories can be addressed as a single shared address space
+
+It is the ultimate [virtual memory](https://en.wikipedia.org/wiki/Virtual_memory) with enough space for anything (4 integers ==> 128 bits, also maybe more if there is fractal addressing?)
+- a unified view of anything addressable
+
+
+we can construct a Single address space operating system
+https://en.wikipedia.org/wiki/Single_address_space_operating_system
+where 
+
+
+
+For Headjack the role of a [MMU](https://en.wikipedia.org/wiki/Memory_management_unit) is handled by the blockchain state ???
+
+can build an infinite-core world computer atop a global shared addressing space
+
+
+TODO: think about
+https://en.wikipedia.org/wiki/Consistency_model
+https://en.wikipedia.org/wiki/Memory_coherence
+https://en.wikipedia.org/wiki/Cache_coherence
+https://en.wikipedia.org/wiki/Causal_consistency
+
+
+
+it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
 
 
 
