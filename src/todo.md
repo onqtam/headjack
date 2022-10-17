@@ -3,12 +3,51 @@
 - this !!!
     https://blog.ceramic.network/capability-based-data-security-on-ceramic/
 
-- URI for a profile? what would it look like? just the integer index?
-- what about URIs starting with block numbers? under a specific protocol schema?
 
-- URIs: how to translate from number URI to a name URI? can we ask the blockchain "which names were owned by account X at block height H and with which nonce?" and how do we pick which to use if there are multiple ones?
+- === URIs
 
-- New URI schema so that we can use the current name of an app for an old URI when the name was different?
+    - URI VERSIONING !!! https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R87
+
+    - section about URIs & principles for their development?
+        https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R7
+
+    - URI for a profile? what would it look like? just the integer index?
+
+    - URIs for other chains - chain-agnostic way?
+        https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R30
+
+    - uri length limit - 2048
+
+    - message type in URI?
+        https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R76
+
+    - what about URIs starting with block numbers? under a specific protocol schema?
+
+    - URIs: how to translate from number URI to a name URI? can we ask the blockchain "which names were owned by account X at block height H and with which nonce?" and how do we pick which to use if there are multiple ones?
+
+    - New URI schema so that we can use the current name of an app for an old URI when the name was different?
+
+    - https://en.wikipedia.org/wiki/URI_fragment
+
+    - how to address content on other blockchains? what would the URIs be?
+
+    - Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
+        Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
+        TODO: how to address items from off-chain collections in the URI differently & better?
+        CHANGE THE URI MODEL! allow for this! make it more general!
+        sets/collections from an entity!
+
+    - PROBLEM: what if a name is just a number - how does that impact URIs? there can be collisions... must find a way to resolve such conflicts
+        - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
+        !!! How about a mixed URI where the application has a name but the user is an integer? must distinguish in the URI schema!
+
+    - URI to show content published from application A through another application? how to share links from a specific application?
+
+    - URIs for on-chain authorization events?
+
+
+
+== RESEARCH:
 
 - https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/
 
@@ -21,10 +60,6 @@
     https://twitter.com/SalomonCrypto/status/1581462447491194880
 
 
-- https://en.wikipedia.org/wiki/URI_fragment
-
-- how to address content on other blockchains? what would the URIs be?
-
 - How to toggle content to be either public/private? Once it is out it is out :|
 
 - build a transactional system on top of Headjack addressing? incentive layer for DA & build staking & whatnot on top of that? big bottleneck for SC chains: state access. What if a chain solves for addressing of content such that the state of an app can be sharded on many machines and yet remain addressable? BOUNDLESS addressability.
@@ -33,11 +68,7 @@
 
 - how to: Not be visible that im part of some subreddit but still be included in the public counter?
 
-- Tag creation (which get an ID on-chain) so that anyone can reference it & organize around it. Following tags?
-    Headjack may offer the ability to give permanent IDs on-chain similar to accounts for concepts & abstract entities in order to facilitate 
-    TODO: how to address items from off-chain collections in the URI differently & better?
-    CHANGE THE URI MODEL! allow for this! make it more general!
-    sets/collections from an entity!
+
 
 - figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
 https://en.wikipedia.org/wiki/OAuth
@@ -48,16 +79,10 @@ https://twitter.com/auth0
 
 - new action type: grant ability to someone to "edit" & publish a new version of an item - but not to post on your behalf entirely - only if it's about a specific document or namespace/collection?
 
-- URI to show content published from application A through another application? how to share links from a specific application?
-
 - da pomislq: Kak tochno shte se proverqva authenticityto na private actions za accs bez keypair?
 
 - capabilities-based delegation
 - Think about scopes of authorization - multidimensionality
-
-- PROBLEM: what if a name is just a number - how does that impact URIs? there can be collisions... must find a way to resolve such conflicts
-    - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
-    !!! How about a mixed URI where the application has a name but the user is an integer? must distinguish in the URI schema!
 
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
 
@@ -108,6 +133,7 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - use different book generator
     https://github.com/gohugoio/hugo - shows sidebar on the right with the ToC of the page
+    also this: https://github.com/zjp-CN/mdbook-theme
     https://github.com/facebook/docusaurus
     like this one? https://github.com/dvitanov/lorevc
     this one shows even the H1 headings in the outline on the left:
@@ -144,8 +170,6 @@ Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Q
 - merge accounts?
 
 - Can Headjack be used interplanetary?
-
-- URIs for on-chain authorization events?
 
 - talk about the fact that anything can be self-hosted - IDMs & applications
 

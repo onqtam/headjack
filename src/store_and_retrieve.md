@@ -31,6 +31,9 @@ Applications can talk to each other directly by using their on-chain advertised 
 
 There are multiple options:
 
+<!-- TODO:
+"The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their messages." ===> SHOULD BE ALSO ABLE TO ASK THE IDM OF THE USER !!! -->
+
 - The entire original blob with an [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) might still be retrievable from the original application account that posted it or anyone else that has pinned the data.
 - The user account might be using an archival service for all their activity and they can point to that archival service on-chain in their account for others to retrieve their messages.
 - Other well-known players without a direct on-chain connection to the application/user in a URI could be asked if they have the content:
