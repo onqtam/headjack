@@ -22,6 +22,13 @@ https://twitter.com/session_app
 https://en.wikipedia.org/wiki/Forward_secrecy
 https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
 https://en.wikipedia.org/wiki/Double_Ratchet_Algorithm
+https://chat.blockscan.com/start
+https://twitter.com/etherscan/status/1577667362744020992
+
+
+
+having everything from a user in a tree with a root hash - easier replication
+https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories
 
 
 

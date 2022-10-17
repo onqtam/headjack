@@ -23,8 +23,11 @@ This is the subjective understanding of Headjack's team - many of the claims lac
         text-align: center;
         background-color:white;
     }
-    .competition_comparison td a {
-        color: #0000bb;
+    .competition_comparison td a:link {
+        color: #0000EE;
+    }
+    .competition_comparison td a:visited {
+        color: #551A8B;
     }
 </style>
 <table class="competition_comparison">
@@ -33,7 +36,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td><b>Headjack</b></td>
     <td><b><a href="competition.md#farcaster">Farcaster</a></b></td>
     <td><b><a href="competition.md#dsnp-frequency--project-liberty">DSNP</a></b></td>
-    <td><b><a href="competition.md#bluesky">Bluesky</a></b></td>
+    <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a></b></td>
     <td><b><a href="competition.md#tbd">TBD</a></b></td>
     <td><b><a href="competition.md#cyberconnect">CyberConnect</a></b></td>
     <td><b><a href="https://lens.xyz/">Lens</a></b></td>
@@ -96,14 +99,14 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:green">yes</td>
     <td style="background-color:green">yes, also works with ENS</td>
     <td style="background-color:red">no, but will probably introduce one</td>
-    <td style="background-color:red">no - uses <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#identifiers">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a></td>
-    <td style="background-color:red">no</td>
+    <td style="background-color:red">no - uses <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#identifiers">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS => centralized</td>
+    <td style="background-color:red">no, but it's <a href="images/meme_web5.jpg">web5</a></td>
     <td style="background-color:red">no, probably works with ENS</td>
     <td style="background-color:red">no, probably works with ENS</td>
 </tr>
 <tr>
     <td><b>Decentralization for the most important parts</b></td>
-    <td style="background-color:#88ff00">Ethereum ZK rollup with external data availability (validium)</td>
+    <td style="background-color:#88ff00">Ethereum ZK rollup with external data availability (validium) - <a href="https://www.layrlabs.com/products">EigenDA</a>?</td>
     <td style="background-color:green">Ethereum</td>
     <td style="background-color:#88ff00">Polkadot - not big enough set of validators</td>
     <td style="background-color:red">centralized consortium of servers</td>
@@ -125,14 +128,14 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
 </tr>
 <tr>
-    <td><b>Multiple ways to query for a URI's document<br/>(in addition to third-party archives)</b></td>
-    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">multiple ways:</a><br/>&nbsp;<b>1)</b> user's IDM<br/>&nbsp;<b>2)</b> <u><b>source app</b></u><br/>&nbsp;<b>3)</b> the original IPFS batch blob<br/>&nbsp;<b>4)</b> the p2p network with the URI hash</td>
-    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> the p2p network</td>
-    <td style="background-color:yellow;text-align:left;"></td>
+    <td><b>Multiple ways to query for a URI's document<br/>(in addition to caches/archives)</b></td>
+    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's IDM<br/>&nbsp;<b>2)</b> <u><b>source app</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
+    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
+    <td style="background-color:red;text-align:left;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
+    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">CID</a></td>
+    <td style="background-color:red;text-align:left;"></td>
     <td style="background-color:grey;text-align:left;"></td>
-    <td style="background-color:grey;text-align:left;"></td>
-    <td style="background-color:grey;text-align:left;"></td>
-    <td style="background-color:grey;text-align:left;"></td>
+    <td style="background-color:red;text-align:left;">need to </td>
 </tr>
 <tr>
     <td><b>Reliance on a p2p network for delivering fine-grained messages</b></td>
@@ -145,8 +148,8 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Push vs pull for fetching new content</b></td>
-    <td style="background-color:green">both - events are broadcasted & individual items can also be requested</td>
+    <td><b>Push (broadcast) vs pull (polling) for fetching new content</b></td>
+    <td style="background-color:green">both - event batches are broadcasted & individual URIs can later be requested</td>
     <td style="background-color:red">pull only - requires polling a user's Hub for anything new</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -233,6 +236,10 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 <!--
 Value capture potential as a line
 The winner take all singleton is the easiest mentally
+
+having everything from a user in a tree with a root hash - easier replication
+https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories
+
 -->
 
 
@@ -286,6 +293,11 @@ https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d8
 <!-- 
 
 !!!!!
+
+product-led protocol development
+https://twitter.com/TziokasV/status/1581688157204254720
+https://chapterone.substack.com/i/77871905/product-led-protocol-development
+No - product-led protocol development is rarely the best way forward if you get the foundations wrong - iterating out of a local maximum may prove impossible and kill the product. Once there is a yet-unsustainable product that requries money, there is also a timer that is ticking.
 
 With Farcaster, content is directory-certified and cannot be fully self-authenticating because if the directory to which the on-chain account points to goes away - so does the credibility for any piece of data by that account - no way to cache proofs. Furthermore, directories can be tampered with and currently it's up to the p2p network to keep track if any malicious changes happen
 
@@ -342,7 +354,8 @@ Frequency (a Polkadot parachain) is the first implementation of DSNP (Decentrali
 
 - [100m$ of funding](https://philanthropynewsdigest.org/news/project-liberty-launched-with-100-million-from-frank-mccourt) (so far) from just 1 person - [Frank McCourt](https://www.youtube.com/watch?v=xgPZnOulBCE) - no other capital & connections to reputable investors & influencers from either the crypto or tech space - generating hype & booting up the network effect might be very hard. They've been around since 2019.
 
-# [Bluesky](https://en.wikipedia.org/wiki/Bluesky_(protocol))
+<!-- 
+# bluesky
 
 Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md)
 
@@ -357,12 +370,15 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/docs/
 
 - Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#root-private-key-management).
 
-<!-- - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md). -->
-<!-- - Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests. -->
-<!-- - Users can lose their interest graph if the PDS they are using loses their data. -->
-<!-- - The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature. -->
+- When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md).
 
-Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does.
+- Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests.
+
+- Users can lose their interest graph if the PDS they are using loses their data.
+
+- The Personal Data Repositories would be a lot less compact than Headjack because accounts and links between them are not simple integers and every piece of data and relationship comes along with a signature.
+
+Overall a solid effort and could work - some similarities to [Farcaster](#farcaster) but the DID registry is centralized by a consortium and the usernames are email-like (DNS - centralization point) instead of handled by the DID registry. Neither solution anchors content like Headjack does. -->
 
 # [TBD](https://www.tbd.website/)
 

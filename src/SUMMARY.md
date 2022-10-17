@@ -6,7 +6,7 @@
     - [Content addressing](addressing.md)
         - [Host vs data-centric](host_vs_data_centric.md)
         - [Blobs & persistent URIs](blobs_and_uris.md)
-        - [Names, paths, & more](names_and_paths.md)
+        - [Names & paths](names_and_paths.md)
     - [Messages](messages.md)
     - [IDMs, preferences & graphs](idms_preferences.md)
     - [Data storage & retrievability](store_and_retrieve.md)
@@ -21,10 +21,11 @@
     - [What's possible with open data](possibilities.md)
     - [Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
     - [Business models](business_models.md)
-    - [The metaverse](metaverse.md)
     - [Startup case study](startup_case_study.md)
     - [Mental models for Headjack](how_to_think_about_it.md)
     - [Philosophy, mission & ambition](mission_ambition.md)
+
+    <!-- - [What really is Headjack?](how_to_think_about_it.md) -->
 
     <!-- - [Open questions & concerns](concerns.md) -->
     <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
