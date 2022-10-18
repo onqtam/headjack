@@ -1105,9 +1105,11 @@ If handles are permanent to shards then their allocation to shards can be manage
     }
     .competition_comparison td a:link {
         color: #0000EE;
+        text-decoration: underline;
     }
     .competition_comparison td a:visited {
         color: #551A8B;
+        text-decoration: underline;
     }
 </style>
 <table class="competition_comparison">
@@ -1115,24 +1117,24 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="width:16%"></td>
     <td><b>Headjack</b></td>
     <td><b><a href="competition.html#farcaster">Farcaster</a></b></td>
-    <td><b><a href="competition.html#dsnp-frequency--project-liberty">DSNP</a></b></td>
+    <td><b><a href="https://www.dsnp.org/">DSNP</a> & <a href="https://www.frequency.xyz/">Frequency</a></b></td>
     <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a></b></td>
-    <td><b><a href="competition.html#tbd">TBD</a></b></td>
-    <td><b><a href="competition.html#cyberconnect">CyberConnect</a></b></td>
-    <td><b><a href="https://lens.xyz/">Lens</a></b></td>
+    <td><b><a href="https://developer.tbd.website/projects/web5/">TBD web5</a><br/><a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a> & <a href="https://twitter.com/namcios/status/1535302090360250368">tweet</a></b></td>
+    <td><b><a href="https://ceramic.network/">Ceramic</a> & <a href="https://cyberconnect.me/">CyberConnect</a></b></td>
+    <td><b><a href="https://lens.xyz/">Lens<br/>Protocol</a></b></td>
 </tr>
 <tr>
-    <td style="background-color:grey" colspan="8"><b>blockchain-related properties</b></td>
+    <td style="background-color:grey" colspan="8" height=25px><b>blockchain-related properties</b></td>
 </tr>
 <tr>
-    <td><b>Scalability</b></td>
-    <td style="background-color:green">can handle billions - <a href="numbers.html">proof</a></td>
-    <td style="background-color:#88ff00">~10 million - will need to move to its own rollup for more. Also its p2p implementation is extremely limiting</td>
+    <td><b>Scalability & potential scope</b></td> 
+    <td style="background-color:green">can handle billions of users (<a href="numbers.html">proof</a>) & underpin the entire web</td>
+    <td style="background-color:#88ff00">perhaps could handle up to ~10 million - may need to move to its own rollup for more.</td>
     <td style="background-color:yellow"></td>
     <td style="background-color:green">centralized consortium of servers</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
-    <td style="background-color:red">Content is on-chain - not just accounts. Even a dedicated EVM rollup won't be enough</td>
+    <td style="background-color:red">actions are on-chain as NFTs (follow, post's hash) - even a dedicated EVM chain will be futile</td>
 </tr>
 <tr>
     <td><b>Users paying for TX fees & linking identity to financial accounts by default</b></td>
@@ -1140,14 +1142,14 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:yellow">Ethereum L1 costs initially planned for subsidy by services</td>
     <td style="background-color:yellow"></td>
     <td style="background-color:green">centralized consortium of servers - no TXs</td>
-    <td style="background-color:#88ff00">The anchors (on-chain Merkle roots) get batched with others</td>
+    <td style="background-color:#88ff00">the anchors (on-chain Merkle roots) get batched with others</td>
     <td style="background-color:yellow"></td>
     <td style="background-color:yellow"></td>
 </tr>
 <tr>
     <td><b>Blockchain TX fee stability & predictability</b></td>
     <td style="background-color:green"><a href="numbers.html">as scalable as necessary => no congestion</a></td>
-    <td style="background-color:red">Ethereum L1 - will need to migrate to its own rollup in the future</td>
+    <td style="background-color:red">Ethereum L1 - may need to migrate to its own rollup in the future</td>
     <td style="background-color:grey"></td>
     <td style="background-color:green">centralized consortium of servers - no TXs</td>
     <td style="background-color:#88ff00">Bitcoin TX fees are low due to low economic activity</td>
@@ -1165,7 +1167,7 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:green">Polygon PoS</td>
 </tr>
 <tr>
-    <td><b>Can use "custodial" hosted services while retaining ultimate control</b></td>
+    <td><b>Time to finality</b></td>
     <td style="background-color:green"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -1175,12 +1177,12 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Contains a name registry & can replace DNS eventually</b></td>
-    <td style="background-color:green">yes</td>
+    <td><b>Contains a name registry for easy discoverability & can eventually replace DNS</b></td>
+    <td style="background-color:green">yes - & tightly integrated with addressability - URIs aren't broken even if names change ownership</td>
     <td style="background-color:green">yes, also works with ENS</td>
     <td style="background-color:red">no, but will probably introduce one</td>
     <td style="background-color:red">no - uses <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#identifiers">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS => centralized</td>
-    <td style="background-color:red">no, but it's <a href="images/meme_web5.jpg">web5</a></td>
+    <td style="background-color:red">no</td>
     <td style="background-color:red">no, probably works with ENS</td>
     <td style="background-color:red">no, probably works with ENS</td>
 </tr>
@@ -1195,31 +1197,31 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:yellow">Polygon PoS</td>
 </tr>
 <tr>
-    <td style="background-color:grey" colspan="8"><b>Data availability, storage, retrievability & addressing</b></td>
+    <td style="background-color:grey" colspan="8" height=25px><b>Data availability, storage, retrievability & addressing</b></td>
 </tr>
 <tr>
     <td><b>Human-readable & persistent URIs for data without any hashes</b></td>
     <td style="background-color:green"><a href="names_and_paths.html"><img src="images/meme_yes_chad_green.png"/></a></td>
-    <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (most probably)</td>
+    <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (probably)</td>
     <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
     <td style="background-color:red">URIs full of <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
-    <td style="background-color:red">most probably using hashes</td>
+    <td style="background-color:red">URIs full of hashes (probably)</td>
     <td style="background-color:red">URIs full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes</a></td>
     <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
 </tr>
 <tr>
-    <td><b>Multiple ways to query for a URI's document<br/>(in addition to caches/archives)</b></td>
-    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.html#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's IDM<br/>&nbsp;<b>2)</b> <u><b>source app</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
+    <td><b>Multiple ways to ask for a URI's document<br/>(in addition to caches/archives)</b></td>
+    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.html#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.html">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
-    <td style="background-color:red;text-align:left;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
+    <td style="background-color:red;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">CID</a></td>
-    <td style="background-color:red;text-align:left;"></td>
-    <td style="background-color:grey;text-align:left;"></td>
-    <td style="background-color:red;text-align:left;">need to </td>
+    <td style="background-color:red;text-align:left;">&nbsp;probably<br/>&nbsp;<b>1)</b> user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a><br/>&nbsp;<b>2)</b> p2p network</td>
+    <td style="background-color:red;">only p2p network as Ceramic streams are an abstraction over IPFS</td>
+    <td style="background-color:red;">unsure - maybe the on-chain NFT post</td>
 </tr>
 <tr>
-    <td><b>Reliance on a p2p network for delivering fine-grained messages</b></td>
-    <td style="background-color:green">Headjack is pure addressing - storage & retrieval are orthogonal</td>
+    <td><b>Big reliance on a p2p network for delivering fine-grained messages</b></td>
+    <td style="background-color:green">Headjack is pure addressing - storage & retrieval are orthogonal and the p2p network for specific URIs is bottom priority</td>
     <td style="background-color:red">using a gossip-based pubsub protocol between peers</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -1229,12 +1231,11 @@ If handles are permanent to shards then their allocation to shards can be manage
 </tr>
 <tr>
     <td><b>Push (broadcast) vs pull (polling) for fetching new content</b></td>
-    <td style="background-color:green">both - event batches are broadcasted & individual URIs can later be requested</td>
+    <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
     <td style="background-color:red">pull only - requires polling a user's Hub for anything new</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
+    <td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a> for anything new</td><td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a> for anything new</td>
+    <td style="background-color:green">both - events are broadcasted & new/individual documents can be requested</td>
     <td style="background-color:grey"></td>
 </tr>
 <tr>
@@ -1258,7 +1259,7 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td style="background-color:grey" colspan="8"><b>Ease of use for developers</b></td>
+    <td style="background-color:grey" colspan="8" height=25px><b>Ease of use for developers & users</b></td>
 </tr>
 <tr>
     <td><b>Can leverage existing Web2 authenticating infrastructure</b></td>
@@ -1273,6 +1274,16 @@ If handles are permanent to shards then their allocation to shards can be manage
 <tr>
     <td><b>Easy to work with mental model vs high cognitive load & complexity</b></td>
     <td style="background-color:#88ff00">A bit more complexity compared to Web2</td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+    <td style="background-color:grey"></td>
+</tr>
+<tr>
+    <td><b>Can use "custodial" hosted services while retaining ultimate control</b></td>
+    <td style="background-color:green"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -1473,13 +1484,9 @@ Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/docs/
     - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
-- Content addressing with hashes (versus Headjack's [human-readable & persistent URIs](addressing.md)).
-
 - Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#root-private-key-management).
 
 - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md).
-
-- Since such events aren't publicized anywhere, whoever is interested will have to be proactively polling for updates and sending requests.
 
 - Users can lose their interest graph if the PDS they are using loses their data.
 
@@ -1984,6 +1991,9 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <!-- Why arent pinterest and instagram just two different views? -->
 <!-- Linkedin is literally an attestation network that allows the curation of your skills. Imagine if we merged all the web - you could effectively build your resume based on your public successes and expertise - expertise which is provable. Open global science -->
 <!-- view all actions by an account on any platform -->
+<blockquote>
+<p>&quot;Data is the center of the universe; applications are ephemeral.&quot; - <a href="http://datacentricmanifesto.org/">The Data-Centric Manifesto</a></p>
+</blockquote>
 <blockquote>
 <p>&quot;When identities become portable, backends become liquid&quot; - <a href="https://twitter.com/coconidodev/status/1504850437727571974">@balajis</a></p>
 </blockquote>

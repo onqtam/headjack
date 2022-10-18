@@ -16,6 +16,8 @@ The public conversation shouldn't be fractured between platforms such as Twitter
 
 <!-- view all actions by an account on any platform -->
 
+> "Data is the center of the universe; applications are ephemeral." - [The Data-Centric Manifesto](http://datacentricmanifesto.org/)
+
 > "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
 
 # Event streams
