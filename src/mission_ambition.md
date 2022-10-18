@@ -13,6 +13,8 @@ https://twitter.com/sreeramkannan/status/1573832256577224705
 
 > "The medium is the message" - [Marshall McLuhan](https://en.wikipedia.org/wiki/The_medium_is_the_message) proposes that a communication medium itself, not the messages it carries, should be the primary focus of study.
 
+> "If code scripts machines, media scripts human beings." - [@balajis](https://twitter.com/tferriss/status/1582060370482429953)
+
 “First we build the tools, then they build us.”
 ― Marshall McLuhan
 https://www.goodreads.com/quotes/484955-first-we-build-the-tools-then-they-build-us
