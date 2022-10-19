@@ -150,7 +150,11 @@ https://www.youtube.com/watch?v=xuLyZaty9iI
 vector commitments (Merkle proofs)
 https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
 https://www.youtube.com/watch?v=RGJOQHzg3UQ
-https://vitalik.ca/general/2021/06/18/verkle.html
+https://vitalik.ca/general/2021/06/18/verkle.html+
+
+Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean
+https://www.youtube.com/watch?v=Q7rStTKwuYs
+
  -->
 
 

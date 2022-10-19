@@ -131,7 +131,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Multiple ways to ask for a URI's document<br/>(in addition to caches/archives)</b></td>
-    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.md">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
+    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.md">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app identifiable from the URI</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
     <td style="background-color:red;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">CID</a></td>
@@ -245,7 +245,15 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </div>
 
 <!--
+
+Order of data determined by the URI as a line
+
 Value capture potential as a line
+
+discoverability
+
+names are worthless if they aren't in URIs pointing to documents
+
 The winner take all singleton is the easiest mentally
 
 having everything from a user in a tree with a root hash - easier replication

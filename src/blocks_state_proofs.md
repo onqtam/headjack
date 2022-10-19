@@ -47,6 +47,7 @@ if the blockchain doesn't store the full history of authorizations & keys foreve
 
     - Recursive merkleization of checkpointed L1 blocks/stateRoots so that anything can be referenced even with just the tip of the chain
     - https://en.wikipedia.org/wiki/Hash_array_mapped_trie
+        CHAMP stands for Compressed Hash-Array Mapped Prefix-tree.
     - verkle trees
 
     optimizing merkle proofs

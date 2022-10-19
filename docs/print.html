@@ -828,6 +828,7 @@ if the blockchain doesn't store the full history of authorizations & keys foreve
 
     - Recursive merkleization of checkpointed L1 blocks/stateRoots so that anything can be referenced even with just the tip of the chain
     - https://en.wikipedia.org/wiki/Hash_array_mapped_trie
+        CHAMP stands for Compressed Hash-Array Mapped Prefix-tree.
     - verkle trees
 
     optimizing merkle proofs
@@ -1065,7 +1066,11 @@ https://www.youtube.com/watch?v=xuLyZaty9iI
 vector commitments (Merkle proofs)
 https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
 https://www.youtube.com/watch?v=RGJOQHzg3UQ
-https://vitalik.ca/general/2021/06/18/verkle.html
+https://vitalik.ca/general/2021/06/18/verkle.html+
+
+Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean
+https://www.youtube.com/watch?v=Q7rStTKwuYs
+
  -->
 <h1 id="off-chain-content"><a class="header" href="#off-chain-content">Off-chain content</a></h1>
 <p>There are no limits for off-chain content as it is all just anchored with merkle roots - it could be as high as hundreds of terabytes per second. There isn't a more minimal design that can link unbounded amounts of off-chain data to billions of identities that can change keys &amp; names and yet still provide the guarantees &amp; mental model simplicity of Headjack - it achieves consensus on the absolute bare minimum.</p>
@@ -1211,7 +1216,7 @@ If handles are permanent to shards then their allocation to shards can be manage
 </tr>
 <tr>
     <td><b>Multiple ways to ask for a URI's document<br/>(in addition to caches/archives)</b></td>
-    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.html#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.html">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
+    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.html#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.html">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app identifiable from the URI</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
     <td style="background-color:red;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">CID</a></td>
@@ -1322,7 +1327,15 @@ If handles are permanent to shards then their allocation to shards can be manage
    2. X. <a href="competition.html#footnote-2-ref">&#8617;</a>
 </div>
 <!--
+
+Order of data determined by the URI as a line
+
 Value capture potential as a line
+
+discoverability
+
+names are worthless if they aren't in URIs pointing to documents
+
 The winner take all singleton is the easiest mentally
 
 having everything from a user in a tree with a root hash - easier replication
@@ -1997,6 +2010,14 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 <blockquote>
 <p>&quot;When identities become portable, backends become liquid&quot; - <a href="https://twitter.com/coconidodev/status/1504850437727571974">@balajis</a></p>
 </blockquote>
+<p>TODO: should this go in the problems?</p>
+<!-- <div style="text-align: center;">
+    <img src="images/meme_web2_social_capital.jpg">
+</div> -->
+<!-- users
+their social capital
+Web2 social networks
+https://imgflip.com/memegenerator/Running-Away-Balloon -->
 <h1 id="event-streams"><a class="header" href="#event-streams">Event streams</a></h1>
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
 <p>In an open data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage):</p>
@@ -2588,6 +2609,9 @@ https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-
 
 -->
 <div style="break-before: page; page-break-before: always;"></div><h1 id="goals-mission--ambition"><a class="header" href="#goals-mission--ambition">Goals, mission &amp; ambition</a></h1>
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <ul>
 <li><a href="mission_ambition.html#goals">Goals</a></li>
 <li><a href="mission_ambition.html#mission-unbundle-media--end-the-host-centric-model-by-linking-data-to-identity-at-scale">Mission: Unbundle media &amp; end the host-centric model by linking data to identity at scale.</a></li>
@@ -3023,6 +3047,13 @@ https://medium.com/@jgm.orinoco/domainsale-an-on-chain-secondary-ens-market-b333
 
 https://vitalik.ca/general/2022/09/09/ens.html
 https://twitter.com/VitalikButerin/status/1568070721753989120
+
+
+uts-46 normalization
+
+
+ens is not enough - one size fits all aint good
+
 
  -->
 

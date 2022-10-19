@@ -20,6 +20,22 @@ The public conversation shouldn't be fractured between platforms such as Twitter
 
 > "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
 
+
+
+
+TODO: should this go in the problems?
+
+<!-- <div style="text-align: center;">
+    <img src="images/meme_web2_social_capital.jpg">
+</div> -->
+
+<!-- users
+their social capital
+Web2 social networks
+https://imgflip.com/memegenerator/Running-Away-Balloon -->
+
+
+
 # Event streams
 
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
