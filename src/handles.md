@@ -90,4 +90,11 @@ https://medium.com/@jgm.orinoco/domainsale-an-on-chain-secondary-ens-market-b333
 https://vitalik.ca/general/2022/09/09/ens.html
 https://twitter.com/VitalikButerin/status/1568070721753989120
 
+
+uts-46 normalization
+
+
+ens is not enough - one size fits all aint good
+
+
  -->
