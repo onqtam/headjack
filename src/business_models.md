@@ -71,6 +71,10 @@ The goal is democratized access, competition & innovation  - not the end of the 
 
 
 
+> "Attribution is the accounting layer of the entire user-acquisition stack: social media, organic community building, referral programs or (gasp!) even ads, they’re all just inputs to attribution. It's much more than just bean-counting, though the bean-counting is important. It’s the capital ‘T’ Truth that the entire ecosystem depends on." - [source](https://blog.spindl.xyz/p/why-spindle)
+
+
+
 
 > "Internet monetization is somewhat like a Soviet election: It doesn’t matter who clicks and where, it’s who counts those clicks that matters. The technology and business of that counting of clicks (and everything else you do online besides) goes by the dull-sounding name of attribution, and it determines the fate of trillion-dollar companies." - [source](https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll)
 
