@@ -77,7 +77,7 @@ https://slatestarcodex.com/2018/10/30/sort-by-controversial/
 
 what if you by mistake like adult content through your main account and that event gets cached by others - unable to be deleted?
 
-Con: extremely easy to detect the personality type of anyone with high accuracy based on their activity - cambridge analytica on stereoids
+Con: extremely easy to detect the personality type of anyone with high accuracy based on their activity - Cambridge Analytica on stereoids
 
 with open data anyone could build a classifier and label certain people as gay - without their consent.
 
@@ -85,7 +85,7 @@ Users won't be able to authorize & login to services if the chain is down...
 
 responsibilities and assumptions - users should monotor if apps send their activity to their idm
 
-
+no right to be forgotten?
 
 Problem: premium features could lock ppl in to idms
 

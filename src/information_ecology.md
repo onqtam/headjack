@@ -70,6 +70,23 @@ the health of reporting on the web through video is appaling - decentralization 
 
 
 
+https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
+
+
+> "Today’s internet is an Internet of Beefs. Flat, global networks like Facebook, Twitter, and YouTube are overrun by memetic epidemics — harassment mobs, disinformation, conspiracy theories, alternative facts, troll farms, state actors, ransomware, extremists."
+https://subconscious.substack.com/p/wiki-as-a-commons
+
+
+Just because you can type doesn't mean you can write. And just because you can write doesn't mean that you should
+
+“The real problem of humanity is the following:
+We have Paleolithic emotions, medieval institutions and godlike technology.”  
+— DR. E.O. WILSON, SOCIOBIOLOGIST
+https://www.humanetech.com/
+
+https://www.humanetech.com/key-issues
+
+
 MOVE the taiwan stuff here
 
 https://en.wikipedia.org/wiki/Information_ecology

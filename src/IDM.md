@@ -42,6 +42,12 @@ If an IDM does not let users bind keypairs then they should be boycotted
 IDMs never get access to your private key
 
 
+email and DMs should be the same thing
+
+on DMs
+http://www.backalleycoder.com/wp-content/uploads/2015/10/goat-to-cow-come-in-cow.jpg
+
+
 query IDMs directly for content by person X - polling mechanics like RSS
 
 

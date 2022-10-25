@@ -80,6 +80,14 @@ Headjack's intra-document addressing is universal - it works for audio & video t
 
 This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.
 
+TODO:
+
+https://subconscious.substack.com/i/49124972/text-fragments-select-excerpts-by-search
+https://wicg.github.io/scroll-to-text-fragment/
+https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop=
+https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20encyclopedias%20will%20appear%2C%20ready%20made%20with%20a%20mesh%20of%20associative%20trails%20running%20through%20them%2C%20ready%20to%20be%20dropped%20into%20the%20memex%20and%20there%20amplified
+
+
 # Code as addressable data
 
 Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.

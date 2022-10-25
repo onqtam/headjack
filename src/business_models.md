@@ -70,6 +70,10 @@ The goal is democratized access, competition & innovation  - not the end of the 
 
 
 
+!! on data brokers
+https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-is-spending-big-bucks-lobbying-congress
+
+
 
 > "Attribution is the accounting layer of the entire user-acquisition stack: social media, organic community building, referral programs or (gasp!) even ads, they’re all just inputs to attribution. It's much more than just bean-counting, though the bean-counting is important. It’s the capital ‘T’ Truth that the entire ecosystem depends on." - [source](https://blog.spindl.xyz/p/why-spindle)
 
