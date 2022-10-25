@@ -1,7 +1,16 @@
 # To think about
 
-- this !!!
+- read & think about permissions, sub-app/domain authorization, private data, "Data Access Controllers", "data domain"
     https://blog.ceramic.network/capability-based-data-security-on-ceramic/
+    https://en.wikipedia.org/wiki/Capability-based_security
+    https://en.wikipedia.org/wiki/Object-capability_model
+    https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
+    how about JWT objects? delegation chain with the same or lesser permissions? revocation?
+    https://ucan.xyz/
+
+    https://research.google/pubs/pub41892/
+
+
 
 
 - === URIs
@@ -41,6 +50,10 @@
         - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
         !!! How about a mixed URI where the application has a name but the user is an integer? must distinguish in the URI schema!
 
+        look what substack does with the URIs (both point to the same article):
+            https://subconscious.substack.com/p/layered-protocols
+            https://subconscious.substack.com/i/53901934/the-internet-is-layered
+
     - URI to show content published from application A through another application? how to share links from a specific application?
 
     - URIs for on-chain authorization events?
@@ -48,6 +61,12 @@
 
 
 == RESEARCH:
+
+- https://web.dev/signed-exchanges/
+
+- same origin policy
+    https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
+    https://twitter.com/gordonbrander/status/1536721539818606592
 
 - https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/
 
@@ -58,6 +77,7 @@
     "Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
 
     https://twitter.com/SalomonCrypto/status/1581462447491194880
+    https://twitter.com/SalomonCrypto/status/1583573077081792512
 
 
 - How to toggle content to be either public/private? Once it is out it is out :|
@@ -68,12 +88,13 @@
 
 - how to: Not be visible that im part of some subreddit but still be included in the public counter?
 
-
+- use "scroll-to-text-fragment" for non-twitter external quotes in the URLs
 
 - figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
 https://en.wikipedia.org/wiki/OAuth
 https://twitter.com/docknetwork/status/1570034345649532931
 https://twitter.com/auth0
+https://auth0.com/docs/secure/tokens/json-web-tokens
 
 - what if you create a private post for 20 specific followers - you could insert a unique watermark which gets signed along with the payload and then if any of them leak it it would be known who did it - no more piracy?
 
@@ -113,13 +134,6 @@ How to create a view of the discussion with only paid subscribers?
 - telegram and such mass group chats & channels
 
 - figure out additional ways for CDN for content & keeping it up & alive besides just user & application archiving
-
-- read & think about permissions, sub-app/domain authorization, private data, "Data Access Controllers", "data domain"
-    https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
-
-    https://blog.ceramic.network/capability-based-data-security-on-ceramic/
-
-    https://en.wikipedia.org/wiki/Object-capability_model
 
 - think about if retroactive revocation is good or just complicates things. Other projects explicitly don't allow it - instead they use tombstones (specific messages) to signal that content was not authorized. What about changes to user's interest graph though?
 https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
@@ -189,6 +203,10 @@ Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Q
     https://github.com/farcasterxyz/protocol#4-replication
 
 - how does The Graph fit into this?!
+
+# memes
+
+- Drake: no middlemen, better aligned middlemen
 
 # Phrases that don't have a place yet
 

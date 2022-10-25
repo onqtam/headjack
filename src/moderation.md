@@ -159,3 +159,6 @@ https://maciek.blog/influence/
 https://maciek.blog/attention-as-a-source-of-scarcity-for-decentralized-identity-systems/
 
 
+https://en.wikipedia.org/wiki/Goodhart%27s_law
+
+

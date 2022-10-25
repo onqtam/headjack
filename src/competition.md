@@ -38,7 +38,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td><b>Headjack</b></td>
     <td><b><a href="competition.md#farcaster">Farcaster</a></b></td>
     <td><b><a href="https://www.dsnp.org/">DSNP</a> & <a href="https://www.frequency.xyz/">Frequency</a></b></td>
-    <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a></b></td>
+    <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a> & <a href="https://atproto.com/">AT Protocol</a></b></td>
     <td><b><a href="https://developer.tbd.website/projects/web5/">TBD web5</a><br/><a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a> & <a href="https://twitter.com/namcios/status/1535302090360250368">tweet</a></b></td>
     <td><b><a href="https://ceramic.network/">Ceramic</a> & <a href="https://cyberconnect.me/">CyberConnect</a></b></td>
     <td><b><a href="https://lens.xyz/">Lens<br/>Protocol</a></b></td>
@@ -78,7 +78,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:green">Ethereum ZK rollup with multiple blocks in one L1 slot</td>
+    <td style="background-color:green">Ethereum ZK rollup with multiple blocks in one L1 slot !!! TODO: !!! ADD FOOTNOTE ABOUT SECURITY OF SUCH BLOCKS</td>
     <td style="background-color:yellow">Ethereum</td>
     <td style="background-color:#88ff00">Polkadot</td>
     <td style="background-color:green">centralized consortium of servers</td>
@@ -97,11 +97,11 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Contains a name registry for easy discoverability & can eventually replace DNS</b></td>
+    <td><b>Contains a name registry for easy discoverability</b></td>
     <td style="background-color:green">yes - & tightly integrated with addressability - URIs aren't broken even if names change ownership</td>
     <td style="background-color:green">yes, also works with ENS</td>
     <td style="background-color:red">no, but will probably introduce one</td>
-    <td style="background-color:red">no - uses <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#identifiers">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS => centralized</td>
+    <td style="background-color:red">no - uses <a href="https://atproto.com/guides/identity">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS => centralized</td>
     <td style="background-color:red">no</td>
     <td style="background-color:red">no, probably works with ENS</td>
     <td style="background-color:red">no, probably works with ENS</td>
@@ -124,7 +124,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:green"><a href="names_and_paths.md"><img src="images/meme_yes_chad_green.png"/></a></td>
     <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (probably)</td>
     <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
-    <td style="background-color:red">URIs full of <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
+    <td style="background-color:red">URIs full of <a href="https://atproto.com/guides/data-repos#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
     <td style="background-color:red">URIs full of hashes (probably)</td>
     <td style="background-color:red">URIs full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes</a></td>
     <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
@@ -134,7 +134,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.md">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app identifiable from the URI</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
     <td style="background-color:red;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
-    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">CID</a></td>
+    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://atproto.com/guides/data-repos">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://atproto.com/guides/data-repos#data-layout">CID</a></td>
     <td style="background-color:red;text-align:left;">&nbsp;probably<br/>&nbsp;<b>1)</b> user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a><br/>&nbsp;<b>2)</b> p2p network</td>
     <td style="background-color:red;">only p2p network as Ceramic streams are an abstraction over IPFS</td>
     <td style="background-color:red;">unsure - maybe the on-chain NFT post</td>
@@ -154,7 +154,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
     <td style="background-color:red">pull only - requires polling a user's Hub for anything new</td>
     <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
-    <td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a> for anything new</td><td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a> for anything new</td>
+    <td style="background-color:red">pull only - requires polling a user's <a href="https://atproto.com/guides/data-repos">PDR</a> for anything new</td><td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a> for anything new</td>
     <td style="background-color:green">both - events are broadcasted & new/individual documents can be requested</td>
     <td style="background-color:grey"></td>
 </tr>
@@ -252,12 +252,16 @@ Value capture potential as a line
 
 discoverability
 
+Storage agnostic or opinionated in table
+
+protocol-first vs app-first
+
 names are worthless if they aren't in URIs pointing to documents
 
 The winner take all singleton is the easiest mentally
 
 having everything from a user in a tree with a root hash - easier replication
-https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories
+https://atproto.com/guides/data-repos
 
 -->
 
@@ -377,16 +381,19 @@ Frequency (a Polkadot parachain) is the first implementation of DSNP (Decentrali
 <!-- 
 # bluesky
 
-Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md)
+deleting an old post requires re-merkleization of the tree
 
-- Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
-    - Centralization point - relies on DNS for the part after `@`.
+
+
+hash-based intra-PDR addressing - could get very bloated
+
+if a user's PDR goes away all cached documents are no longer linkable to their identity
 
 - **Consortium** of nodes & a transparency log manage the DID registry.
     - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
-- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#root-private-key-management).
+- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/docs/#root-private-key-management).
 
 - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md).
 

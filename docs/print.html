@@ -658,6 +658,16 @@ Message type about binding something to a financial blockchain and making it ill
 
 
 
+https://ctzn.network/schemas
+https://github.com/bluelinklabs/ctzn/tree/master/schemas
+
+
+
+https://en.wikipedia.org/wiki/JSON-LD
+
+
+
+https://atproto.com/guides/lexicon
 
 
 
@@ -1129,7 +1139,7 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td><b>Headjack</b></td>
     <td><b><a href="competition.html#farcaster">Farcaster</a></b></td>
     <td><b><a href="https://www.dsnp.org/">DSNP</a> & <a href="https://www.frequency.xyz/">Frequency</a></b></td>
-    <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a></b></td>
+    <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a> & <a href="https://atproto.com/">AT Protocol</a></b></td>
     <td><b><a href="https://developer.tbd.website/projects/web5/">TBD web5</a><br/><a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a> & <a href="https://twitter.com/namcios/status/1535302090360250368">tweet</a></b></td>
     <td><b><a href="https://ceramic.network/">Ceramic</a> & <a href="https://cyberconnect.me/">CyberConnect</a></b></td>
     <td><b><a href="https://lens.xyz/">Lens<br/>Protocol</a></b></td>
@@ -1169,7 +1179,7 @@ If handles are permanent to shards then their allocation to shards can be manage
 </tr>
 <tr>
     <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:green">Ethereum ZK rollup with multiple blocks in one L1 slot</td>
+    <td style="background-color:green">Ethereum ZK rollup with multiple blocks in one L1 slot !!! TODO: !!! ADD FOOTNOTE ABOUT SECURITY OF SUCH BLOCKS</td>
     <td style="background-color:yellow">Ethereum</td>
     <td style="background-color:#88ff00">Polkadot</td>
     <td style="background-color:green">centralized consortium of servers</td>
@@ -1188,11 +1198,11 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Contains a name registry for easy discoverability & can eventually replace DNS</b></td>
+    <td><b>Contains a name registry for easy discoverability</b></td>
     <td style="background-color:green">yes - & tightly integrated with addressability - URIs aren't broken even if names change ownership</td>
     <td style="background-color:green">yes, also works with ENS</td>
     <td style="background-color:red">no, but will probably introduce one</td>
-    <td style="background-color:red">no - uses <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#identifiers">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS => centralized</td>
+    <td style="background-color:red">no - uses <a href="https://atproto.com/guides/identity">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS => centralized</td>
     <td style="background-color:red">no</td>
     <td style="background-color:red">no, probably works with ENS</td>
     <td style="background-color:red">no, probably works with ENS</td>
@@ -1215,7 +1225,7 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:green"><a href="names_and_paths.html"><img src="images/meme_yes_chad_green.png"/></a></td>
     <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (probably)</td>
     <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
-    <td style="background-color:red">URIs full of <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
+    <td style="background-color:red">URIs full of <a href="https://atproto.com/guides/data-repos#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
     <td style="background-color:red">URIs full of hashes (probably)</td>
     <td style="background-color:red">URIs full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes</a></td>
     <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
@@ -1225,7 +1235,7 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.html#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.html">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app identifiable from the URI</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
     <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
     <td style="background-color:red;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
-    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#data-layout">CID</a></td>
+    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://atproto.com/guides/data-repos">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://atproto.com/guides/data-repos#data-layout">CID</a></td>
     <td style="background-color:red;text-align:left;">&nbsp;probably<br/>&nbsp;<b>1)</b> user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a><br/>&nbsp;<b>2)</b> p2p network</td>
     <td style="background-color:red;">only p2p network as Ceramic streams are an abstraction over IPFS</td>
     <td style="background-color:red;">unsure - maybe the on-chain NFT post</td>
@@ -1245,7 +1255,7 @@ If handles are permanent to shards then their allocation to shards can be manage
     <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
     <td style="background-color:red">pull only - requires polling a user's Hub for anything new</td>
     <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
-    <td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories">PDR</a> for anything new</td><td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a> for anything new</td>
+    <td style="background-color:red">pull only - requires polling a user's <a href="https://atproto.com/guides/data-repos">PDR</a> for anything new</td><td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a> for anything new</td>
     <td style="background-color:green">both - events are broadcasted & new/individual documents can be requested</td>
     <td style="background-color:grey"></td>
 </tr>
@@ -1340,12 +1350,16 @@ Value capture potential as a line
 
 discoverability
 
+Storage agnostic or opinionated in table
+
+protocol-first vs app-first
+
 names are worthless if they aren't in URIs pointing to documents
 
 The winner take all singleton is the easiest mentally
 
 having everything from a user in a tree with a root hash - easier replication
-https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories
+https://atproto.com/guides/data-repos
 
 -->
 <h1 id="what-other-projects-get-wrong"><a class="header" href="#what-other-projects-get-wrong">What other projects get wrong</a></h1>
@@ -1494,16 +1508,19 @@ https://github.com/farcasterxyz/protocol#message-ordering -->
 <!-- 
 # bluesky
 
-Their architecture: [link](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md)
+deleting an old post requires re-merkleization of the tree
 
-- Email as username ==> resolve to a [DID](https://www.w3.org/TR/did-core/) with [WebFinger](https://webfinger.net/)
-    - Centralization point - relies on DNS for the part after `@`.
+
+
+hash-based intra-PDR addressing - could get very bloated
+
+if a user's PDR goes away all cached documents are no longer linkable to their identity
 
 - **Consortium** of nodes & a transparency log manage the DID registry.
     - Centralization point (not just [logical](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)) - users can be kicked off.
     - This should have been a credibly neutral & self-sustaining blockchain.
 
-- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#root-private-key-management).
+- Requires the use of keypairs which is worse UX compared to Headjack and would hinder mass adoption - although they do talk about [custodial solutions](https://github.com/bluesky-social/adx/blob/main/docs/#root-private-key-management).
 
 - When users post content they update their Personal Data Repositories managed by their Personal Data Servers (PDS) which play somewhat similar roles to [Farcaster](#farcaster)'s managed hosts and Headjack's [IDMs](IDM.md).
 
@@ -1889,6 +1906,23 @@ the health of reporting on the web through video is appaling - decentralization 
 
 
 
+https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
+
+
+> "Today’s internet is an Internet of Beefs. Flat, global networks like Facebook, Twitter, and YouTube are overrun by memetic epidemics — harassment mobs, disinformation, conspiracy theories, alternative facts, troll farms, state actors, ransomware, extremists."
+https://subconscious.substack.com/p/wiki-as-a-commons
+
+
+Just because you can type doesn't mean you can write. And just because you can write doesn't mean that you should
+
+“The real problem of humanity is the following:
+We have Paleolithic emotions, medieval institutions and godlike technology.”  
+— DR. E.O. WILSON, SOCIOBIOLOGIST
+https://www.humanetech.com/
+
+https://www.humanetech.com/key-issues
+
+
 MOVE the taiwan stuff here
 
 https://en.wikipedia.org/wiki/Information_ecology
@@ -2058,6 +2092,11 @@ https://news.ycombinator.com/item?id=32927360</p>
 <p>&quot;The internet creates 1 giant aggregator for everything&quot; - <a href="https://youtube.com/clip/UgkxphJhihcVY-U-PLFEvDl1m7Rb-iq4CGgo">@naval</a></p>
 </blockquote>
 <p>This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.</p>
+<p>TODO:</p>
+<p>https://subconscious.substack.com/i/49124972/text-fragments-select-excerpts-by-search
+https://wicg.github.io/scroll-to-text-fragment/
+https://support.google.com/chrome/answer/10256233?hl=en&amp;co=GENIE.Platform%3DDesktop=
+https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20encyclopedias%20will%20appear%2C%20ready%20made%20with%20a%20mesh%20of%20associative%20trails%20running%20through%20them%2C%20ready%20to%20be%20dropped%20into%20the%20memex%20and%20there%20amplified</p>
 <h1 id="code-as-addressable-data"><a class="header" href="#code-as-addressable-data">Code as addressable data</a></h1>
 <p>Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.</p>
 <h1 id="the-global-git"><a class="header" href="#the-global-git">The global <a href="https://en.wikipedia.org/wiki/Git">Git</a></a></h1>
@@ -2279,6 +2318,8 @@ https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll</p>
 <blockquote>
 <p>&quot;The attention economy has always had its ledger and its cash register, and Web 3 will be no different.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
 </blockquote>
+<p>!! on data brokers
+https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-is-spending-big-bucks-lobbying-congress</p>
 <blockquote>
 <p>&quot;Attribution is the accounting layer of the entire user-acquisition stack: social media, organic community building, referral programs or (gasp!) even ads, they’re all just inputs to attribution. It's much more than just bean-counting, though the bean-counting is important. It’s the capital ‘T’ Truth that the entire ecosystem depends on.&quot; - <a href="https://blog.spindl.xyz/p/why-spindle">source</a></p>
 </blockquote>
@@ -2621,9 +2662,9 @@ https://decrypt.co/105791/new-interoperability-alliance-launches-dao-to-develop-
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<p>Barrett Lyon / The Opte Project
+<!-- Barrett Lyon / The Opte Project
 https://www.opte.org/
-Visualization of the routing paths of the Internet.</p>
+Visualization of the routing paths of the Internet. -->
 <ul>
 <li><a href="mission_ambition.html#goals">Goals</a></li>
 <li><a href="mission_ambition.html#mission-unbundle-media--end-the-host-centric-model-by-linking-data-to-identity-at-scale">Mission: Unbundle media &amp; end the host-centric model by linking data to identity at scale.</a></li>
@@ -2902,6 +2943,12 @@ If an IDM does not let users bind keypairs then they should be boycotted
 IDMs never get access to your private key
 
 
+email and DMs should be the same thing
+
+on DMs
+http://www.backalleycoder.com/wp-content/uploads/2015/10/goat-to-cow-come-in-cow.jpg
+
+
 query IDMs directly for content by person X - polling mechanics like RSS
 
 
@@ -2989,6 +3036,14 @@ if a handle changes hands that shouldn't affect the ID & all the connections (no
 - `handle_change`
 
 
+
+
+needs hierarchy
+    "what is the strongest case against global namespaces?"
+    https://twitter.com/dystopiabreaker/status/1582516816307372032
+    https://twitter.com/zooko/status/1434220535240482819
+
+    maybe the protocol should lease whole TLDs to the highest bidders?
 
 
 
