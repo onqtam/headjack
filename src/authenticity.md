@@ -3,10 +3,9 @@
 https://en.wikipedia.org/wiki/Non-repudiation
 
 Leaving an authentic digital footprint and path
-
 -->
 
-# Trust & the ledger of record
+# The ledger of record
 
 In the current web documents are [host-certified](problems_with_the_web.md#the-host-centric-web) and we refer to data by location instead of contents. Here we'll expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](host_vs_data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents tied to identity.
 

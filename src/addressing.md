@@ -19,10 +19,3 @@ https://culturexchange1.wordpress.com/2015/06/02/the-telephone-switchboard-the-s
 https://api.time.com/wp-content/uploads/2015/08/phones1.jpeg
 https://time.com/4011936/emma-nutt/
 -->
-
-<!--
-handle redirects? twitter.com => twitter, so that all content URLs use twitter and the .com one is just used for convenience? or wtf?
-
-
-
--->
