@@ -151,7 +151,7 @@ Biology is layers of dumb systems that cooperate and mediate between each other.
 
 > "I think just like the internet built information, super highways, I think blockchain is building the cooperation super, super highways." - [Sreeram Kannan](https://twitter.com/sreeramkannan), [source](https://www.listennotes.com/podcasts/zero-knowledge/episode-217-information-pZEIhHAVQwe/)
 
-Blockchains can play a major role in upgrading our systems of trust, reputation & coordination and it all depends on the arrangement of our technological building blocks. The things which unify us the most are: **1)** geography, **2)** language, **3)** ethnicity/culture, **4)** economics/currency, and **5)** narrative/history - Headjack is focused on the last of them.
+Blockchains can play a major role in upgrading our systems of trust, reputation & coordination and it all depends on the arrangement of our technological building blocks. The things which unify us the most are: **1)** geography, **2)** language, **3)** ethnicity & culture, **4)** trade & currency, and **5)** <u>**media, narrative & history**</u> - Headjack is focused on unifying & improving the last of those.
 
 > "First we build the tools, then they build us." - [Marshall McLuhan](https://www.goodreads.com/quotes/484955-first-we-build-the-tools-then-they-build-us)
 
