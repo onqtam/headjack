@@ -156,7 +156,7 @@ omniverse usd (universal scene description)
 -->
 
 
-# Internet, technology, media & society
+# Technology, media, the Internet & society
 
 Evolution is 99.9% memetic at this point & accelerating exponentially. If finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), then media is the battleground of ideas and is just as fundamental.
 
