@@ -1,0 +1,419 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>What really is Headjack - Headjack - the base layer of cyberspace</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('ayu')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="introduction.html"><strong aria-hidden="true">1.</strong> What is Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="principles.html"><strong aria-hidden="true">1.1.</strong> Design - guiding principles</a></li><li class="chapter-item expanded "><a href="identity.html"><strong aria-hidden="true">1.2.</strong> Identity & authorization</a></li><li class="chapter-item expanded "><a href="addressing.html"><strong aria-hidden="true">1.3.</strong> Content addressing</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="host_vs_data_centric.html"><strong aria-hidden="true">1.3.1.</strong> Host vs data-centric</a></li><li class="chapter-item expanded "><a href="blobs_and_uris.html"><strong aria-hidden="true">1.3.2.</strong> Blobs & persistent URIs</a></li><li class="chapter-item expanded "><a href="names_and_paths.html"><strong aria-hidden="true">1.3.3.</strong> Names & paths</a></li></ol></li><li class="chapter-item expanded "><a href="messages.html"><strong aria-hidden="true">1.4.</strong> Messages</a></li><li class="chapter-item expanded "><a href="idms_preferences.html"><strong aria-hidden="true">1.5.</strong> IDMs, preferences & graphs</a></li><li class="chapter-item expanded "><a href="store_and_retrieve.html"><strong aria-hidden="true">1.6.</strong> Data storage & retrievability</a></li><li class="chapter-item expanded "><a href="blocks_state_proofs.html"><strong aria-hidden="true">1.7.</strong> Blocks, state & proofs, oh my!</a></li><li class="chapter-item expanded "><a href="numbers.html"><strong aria-hidden="true">1.8.</strong> Throughput & scalability</a></li><li class="chapter-item expanded "><a href="competition.html"><strong aria-hidden="true">1.9.</strong> Headjack vs the competition</a></li></ol></li><li class="chapter-item expanded "><a href="motivation.html"><strong aria-hidden="true">2.</strong> Why Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="problems_with_the_web.html"><strong aria-hidden="true">2.1.</strong> Problems with the current web</a></li><li class="chapter-item expanded "><a href="information_ecology.html"><strong aria-hidden="true">2.2.</strong> Today's information ecology</a></li><li class="chapter-item expanded "><a href="authenticity.html"><strong aria-hidden="true">2.3.</strong> Trust & the ledger of record</a></li><li class="chapter-item expanded "><a href="possibilities.html"><strong aria-hidden="true">2.4.</strong> What's possible with open data</a></li><li class="chapter-item expanded "><a href="algorithms_feeds_aggregation.html"><strong aria-hidden="true">2.5.</strong> Algorithms, feeds & aggregation</a></li><li class="chapter-item expanded "><a href="business_models.html"><strong aria-hidden="true">2.6.</strong> Business models</a></li><li class="chapter-item expanded "><a href="startup_case_study.html"><strong aria-hidden="true">2.7.</strong> Startup case study</a></li><li class="chapter-item expanded "><a href="what_really_is_headjack.html" class="active"><strong aria-hidden="true">2.8.</strong> What really is Headjack</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇</li><li class="spacer"></li><li class="chapter-item expanded "><a href="execution.html"><strong aria-hidden="true">3.</strong> Implementation of Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="IDM.html"><strong aria-hidden="true">3.1.</strong> Identity managers (IDM)</a></li><li class="chapter-item expanded "><a href="handles.html"><strong aria-hidden="true">3.2.</strong> Handles (names)</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Headjack - the base layer of cyberspace</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/onqtam/headjack" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <!--
+it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
+-->
+<h1 id="what-really-is-headjack"><a class="header" href="#what-really-is-headjack">What really is Headjack</a></h1>
+<p>Let's explore a few mental models &amp; analogies when thinking about Headjack:</p>
+<ul>
+<li><a href="#twitters-original-sin-protocol-vs-company">Twitter's original sin: protocol vs company</a></li>
+<li><a href="#identity---the-base-layer-of-cyberspace">Identity - the base layer of cyberspace</a></li>
+<li><a href="#the-global-event-bus--pub-sub">The global event bus / pub-sub</a></li>
+<li><a href="#the-address-space-of-the-world-computer">The address space of the World Computer</a></li>
+<li><a href="#history-20">History 2.0</a></li>
+<li><a href="#the-supermassive-digital-gravity-well">The supermassive digital gravity well</a></li>
+<li><a href="#the-metaverse-is-the-matrix">The Metaverse is the Matrix</a></li>
+<li><a href="#internet-technology-media--society">Internet, technology, media &amp; society</a></li>
+<li><a href="#goals-of-headjack">Goals of Headjack</a></li>
+<li><a href="#mission">Mission</a></li>
+</ul>
+<h1 id="twitters-original-sin-protocol-vs-company"><a class="header" href="#twitters-original-sin-protocol-vs-company">Twitter's original sin: protocol vs company</a></h1>
+<p>Twitter's potential has fascinated some of the brightest people in the world ever since its inception:</p>
+<blockquote>
+<p>&quot;It's a new messaging protocol, where you don't specify the recipients. New protocols are rare. Or more precisely, new protocols that take off are. There are only a handful of commonly used ones: TCP/IP (the Internet), SMTP (email), HTTP (the web), and so on. So any new protocol is a big deal. But Twitter is a protocol owned by a private company. That's even rarer.&quot; - <a href="http://www.paulgraham.com/twitter.html">Paul Graham</a></p>
+</blockquote>
+<p>But the original sin has been that it's <a href="https://twitter.com/jack/status/1518772754782187520">owned by a company</a> which Jack Dorsey states as <a href="https://twitter.com/jack/status/1562861302242226178">his biggest regret</a> - no wonder that he's been trying to turn it into a protocol - first with <a href="https://twitter.com/jack/status/1204766078468911106">project Bluesky</a> (now <a href="https://atproto.com/">AT Protocol</a>) and more recently with <a href="https://twitter.com/jack/status/1535314738078486533">TBD Web5</a> (both covered in the <a href="competition.html">comparison chapter</a>).</p>
+<blockquote>
+<p>&quot;Evolution only builds on open formats and protocols. That's how technology layers.&quot; - <a href="http://scripting.com/2014/10/10/youngTechnologistsLoveLockin.html">source</a></p>
+</blockquote>
+<h1 id="identity---the-base-layer-of-cyberspace"><a class="header" href="#identity---the-base-layer-of-cyberspace">Identity - the base layer of cyberspace</a></h1>
+<p>Web3 is often associated with user ownership of networks/services/data, governance, NFTs &amp; micropayments, and while all of them will play a part in it, the main aspect is the decentralization of identity and <a href="https://twitter.com/balajis/status/1162401646258749441">making it sovereign</a>. Headjack is an application-specific blockchain which can be thought of as an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> where only the most important bits are decentralized and identity is linked to off-chain data &amp; events with stable &amp; human-readable addressing - giving birth to the <a href="authenticity.html">ledger of record</a>. Anything can be built on top of that.</p>
+<blockquote>
+<p>&quot;Compositionality is the principle that a system should be designed by composing together smaller subsystems, and reasoning about the system should be done recursively on its structure.&quot; - <a href="https://julesh.com/2017/04/22/on-compositionality/">Jules Hedges, On Compositionality</a></p>
+</blockquote>
+<h1 id="the-global-event-bus--pub-sub"><a class="header" href="#the-global-event-bus--pub-sub">The global event bus / pub-sub</a></h1>
+<p>One way to look at Headjack is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network where accounts, message types, tags, application sources &amp; <a href="possibilities.html#event-streams">anything within documents</a> can be treated as topics to subscribe to - a multidimensional notification highway. It's the ultimate user-friendly successor of the <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> RSS - <a href="https://twobithistory.org/2018/12/18/rss.html"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>.</p>
+<p>When compared to <a href="https://kafka.apache.org/intro">Kafka</a>: it provides only logical addressing (allowing for the storage layer to evolve &amp; migrate data seamlessly) and delegates the data availability (storage &amp; retrievability) of the actual documents/events to the entities in the ecosystem (users/IDMs/applications/archives) on a <a href="https://en.wikipedia.org/wiki/Best-effort_delivery">best-effort</a> basis without guarantees (but with <a href="store_and_retrieve.html#how-to-retrieve-data-for-a-random-uri">multiple ways for retrieving data for a URI</a>).</p>
+<p>Twitter's firehose allowed you to ingest all events on the platform in real time for a <a href="https://qr.ae/pvly2N">steep price</a> and was eventually <a href="https://www.forbes.com/sites/benkepes/2015/04/11/how-to-kill-your-ecosystem-twitter-pulls-an-evil-move-with-its-firehose/?sh=4cd97d0f61d3">shut down</a>. Headjack is the global, generalized &amp; permissionless version of it.</p>
+<div style="text-align: center;">
+    <img src="images/meme_man_drinking_from_firehose.png">
+</div>
+<h1 id="the-address-space-of-the-world-computer"><a class="header" href="#the-address-space-of-the-world-computer">The address space of the World Computer</a></h1>
+<p>Headjack's <a href="https://en.wikipedia.org/wiki/Virtual_memory">virtual memory</a> has enough space to address practically infinite number of events with the concatenation of 4 integers (64bit/32bit/64bit/32bit - see <a href="addressing.html">addressing</a>) + the ability for <a href="possibilities.html#intra-document-addressing">intra-document (fractal) addressing</a> which is much better for indexing than hashes. It enables the construction of global <a href="https://en.wikipedia.org/wiki/Causal_consistency">causally consistent</a> distributed systems in regards to authorization - enabling an infinite-core world computer atop <a href="https://en.wikipedia.org/wiki/Distributed_shared_memory">distributed shared memory</a>.</p>
+<p>Think of Headjack as an <a href="https://dl.acm.org/doi/pdf/10.1145/173668.168624">information bus</a> on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing <a href="messages.html">messages</a>, dynamically definable message types &amp; permissionlessness. The service objects that deal with identity &amp; authorization are on-chain and have guaranteed data availability whereas all data objects are just cryptographically anchored and stored off-chain.</p>
+<blockquote>
+<p>&quot;The internet is the computer but it's missing identity and <a href="https://en.wikipedia.org/wiki/Access-control_list">acls</a>.&quot; - <a href="https://news.ycombinator.com/item?id=25734612">koalaman</a>.</p>
+</blockquote>
+<p>Ethereum is <strong>NOT</strong> the world computer - it's the world's settlement layer. The world computer will be built on identity coupled with authorization &amp; a unified address space.</p>
+<!-- maybe, maybe not relevant:
+https://en.wikipedia.org/wiki/K-sorted_sequence -->
+<!-- TODO: think about
+https://en.wikipedia.org/wiki/Consistency_model
+https://en.wikipedia.org/wiki/Memory_coherence
+https://en.wikipedia.org/wiki/Cache_coherence
+https://en.wikipedia.org/wiki/Causal_consistency -->
+<h1 id="history-20"><a class="header" href="#history-20">History 2.0</a></h1>
+<blockquote>
+<p>&quot;Cryptographically verifiable history is the next step after written history&quot; - <a href="https://youtu.be/VeH7qKZr0WI?t=10089">@balajis</a></p>
+</blockquote>
+<p>The Akashic records -
+https://en.wikipedia.org/wiki/Akashic_records</p>
+<!-- Think of all the ethnic, religious and political disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->
+<h1 id="the-supermassive-digital-gravity-well"><a class="header" href="#the-supermassive-digital-gravity-well">The supermassive digital gravity well</a></h1>
+<p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire web - the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a> where all content is cryptographically anchored and totally ordered. The confluence of human-readable &amp; persistent addressing, indexing, identity, names, and the interest graph results in a winner-take-all network effect with unprecedented gravity that can organize the world's data - <a href="https://youtu.be/3qHkcs3kG44?t=3527"><code>@naval: &quot;The internet creates 1 giant aggregator for everything&quot;</code></a>. It can succeed in completely decentralizing <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> and disaggregating traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot;</code></a></p>
+<p>Headjack is the <a href="https://xkcd.com/927/">15th and final</a> standard for decentralized identity and broadcasting. It is the supermassive digital gravity well and is going after the entire web as the coordination substrate of <a href="https://www.eff.org/cyberspace-independence">cyberspace</a>.</p>
+<p>It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it</p>
+<p>Headjack has an ecosystem effect - a product network effect, and identity is at the core of it. Case Study: Dropbox vs. Google Drive
+https://blog.niraj.io/the-ecosystem-effect</p>
+<blockquote>
+<p>&quot;Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;In a society with faltering institutions, rotted from within and mistrusted from without, the chance to finally replace our banks and internet giants (not to even delve into politics) with a new set of characters is too tempting to resist.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
+</blockquote>
+<h1 id="the-metaverse-is-the-matrix"><a class="header" href="#the-metaverse-is-the-matrix">The Metaverse is the Matrix</a></h1>
+<!-- ***And Headjack is the protocol to enter it.*** -->
+<!-- ***And Headjack is the entrance protocol.*** -->
+<p><em><strong>And Headjack is <a href="https://matrix.fandom.com/wiki/Headjack">the interface</a>.</strong></em></p>
+<blockquote>
+<p>&quot;The “metaverse” as I like to envision it, is a globally shared and permanent digital reality not owned by any single entity that any company, platform, or person can plug into, regardless of where they are or what device they’re using.&quot; - <a href="https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg">source</a></p>
+</blockquote>
+<p>The way forward is through a layered stack of technologies &amp; open protocols and that underneath everything sit identity, authorization &amp; content addressing as primitives. All events can &amp; will be interlinked, tied to identity &amp; made easily referencable. Anything can be built &amp; made composable &amp; interoperable on top of these building blocks as long as they don't impose any constraints - no more walled gardens and fractured experiences. Furthermore, the Metaverse is mostly about agency in creation - transaction, exchange &amp; finance are not at the forefront and will be handled by other layers &amp; protocols like public generalized smart contract chains &amp; NFTs.</p>
+<blockquote>
+<p>&quot;The metaverse isn’t a 3D world owned by some corporation. It’s a permissionless market-network which respects and interconnects all user-owned and cryptographically-secured digital identities, reputations, wallets, communities, spaces, and objects.<!-- It’s bootstrapping right now. -->&quot; - <a href="https://twitter.com/naval/status/1434586449068756993">@naval</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;We think of the metaverse as the entirety of all composable and interoperable resources, identities, applications, platforms, services, and protocols that exist in cyberspace.&quot; - <a href="https://blog.ceramic.network/into-the-dataverse/">source</a></p>
+</blockquote>
+<!-- > "Metaverse doesn’t mean 3D, it means decentralized." - [@naval](https://twitter.com/naval/status/1516477829134704641) -->
+<p>The metaverse is connected and there is no connectivity without common addressing and shared identity</p>
+<p>The metaverse is about entities that interact with information under a common global namespace and surf the web through competing applications &amp; views that present &amp; filter commonly addressable data in any way imaginable. <strong>But how does Headjack fit in it?</strong></p>
+<blockquote>
+<p>&quot;The metaverse has nothing to do with “view” modalities — the tools you use to see the metaverse. That’s a convenient meme for those who have control over manufacturing hardware.&quot; - <a href="https://future.com/7-essential-ingredients-of-a-metaverse/">source</a></p>
+</blockquote>
+<p>This section couldn't possibly do justice to all the aspects of what it would take to build the Metaverse - please refer to these 2 resources about it from a16z - perhaps the best ones around:</p>
+<ul>
+<li><a href="https://future.com/7-essential-ingredients-of-a-metaverse/">7 Essential Ingredients of a Metaverse</a></li>
+<li><a href="https://future.com/metaverse-infrastructure-technology-games/">Unlocking the Metaverse: New Opportunities in Games Infrastructure</a></li>
+</ul>
+<!-- The Metaverse will be built on top of public  -->
+<blockquote>
+<p>&quot;Cyberspace does not lie within your borders. Do not think that you can build it, as though it were a public construction project. You cannot. It is an act of nature and it grows itself through our collective actions.&quot; - <a href="https://www.eff.org/cyberspace-independence">&quot;A Declaration of the Independence of Cyberspace&quot; by John Perry Barlow </a></p>
+</blockquote>
+<!-- 
+
+`worldofwarcraft.com/12412/johnny/234/schema/56/boss_headshot`
+
+instance/nonce/collections from an identity - perhaps 100% off-chain issuance with on-chain integer-only updates to facilitate off-chain "namespaces" & libraries of objects
+
+How would marketplaces for off-chain items from a collection work?
+
+Look at improbable for metaverse and M2 - Herman Narula
+
+the visual metaverse could be built on top of headjack and nvidia's omniverse
+omniverse usd (universal scene description)
+
+
+
+> "When thinking about the metaverse, however, the engine takes on a more important role. To break down the walls that separate one game or experience from another, it is likely that games will be wrapped and hosted within the engine, instead of the other way around. In this expanded view, engines become platforms, and communication between these engines will largely define what I think of as the shared metaverse." - [source](https://future.com/metaverse-infrastructure-technology-games/)
+
+
+
+== OTHER:
+
+
+
+> "Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe." - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
+-->
+<h1 id="internet-technology-media--society"><a class="header" href="#internet-technology-media--society">Internet, technology, media &amp; society</a></h1>
+<p>Evolution is 99.9% memetic at this point &amp; accelerating exponentially. If finance is the <a href="https://anthonyleezhang.substack.com/p/the-market-for-promises">market for promises</a>, then media is the battleground of ideas and is just as fundamental.</p>
+<blockquote>
+<p>&quot;The medium is the message&quot; - <a href="https://en.wikipedia.org/wiki/The_medium_is_the_message">Marshall McLuhan</a> proposes that a communication medium itself, not the messages it carries, should be the primary focus of study.</p>
+</blockquote>
+<p>At the root of our greatest challenges are <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">coordination failures</a>. We are like an ant colony suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness &amp; nihilism, playing status games, and running exponential processes in a finite world.</p>
+<blockquote>
+<p>&quot;If code scripts machines, media scripts human beings.&quot; - <a href="https://twitter.com/tferriss/status/1582060370482429953">@balajis</a></p>
+</blockquote>
+<p>Cooperating flexibly in large numbers has led us to an evolutionary advantage - first through stories and then <a href="https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/">markets, clocks</a> &amp; <a href="https://a16z.com/2011/08/20/why-software-is-eating-the-world/">bits</a>. Mechanisms that make those more efficient benefit the species.</p>
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<blockquote>
+<p>&quot;The Internet is the largest engineering project the earth has ever seen - and we're just getting started&quot; - <a href="https://en.wikipedia.org/wiki/Barrett_Lyon">Barrett Lyon</a>, founder of <a href="https://www.opte.org/">OPTE Project</a></p>
+</blockquote>
+<p>Biology is layers of dumb systems that cooperate and mediate between each other. Humans are just a collection of cells - including the &quot;central&quot; nervous system - cells that play along and cooperate which leads to the emergence of consciousness and intelligence. There’s no fundamental reason for humans to not be able to assemble into a unified global <a href="https://en.wikipedia.org/wiki/Collective_intelligence">collective intelligence</a> - a <a href="https://en.wikipedia.org/wiki/Global_brain">hive mind</a>.</p>
+<blockquote>
+<p>&quot;I think just like the internet built information, super highways, I think blockchain is building the cooperation super, super highways.&quot; - <a href="https://twitter.com/sreeramkannan">Sreeram Kannan</a>, <a href="https://www.listennotes.com/podcasts/zero-knowledge/episode-217-information-pZEIhHAVQwe/">source</a></p>
+</blockquote>
+<p>Blockchains can play a major role in upgrading our systems of trust, reputation &amp; coordination and it all depends on the arrangement of our technological building blocks. The things which unify us the most are: <strong>1)</strong> geography, <strong>2)</strong> language, <strong>3)</strong> ethnicity/culture, <strong>4)</strong> economics/currency, and <strong>5)</strong> narrative/history - Headjack is focused on the last of them.</p>
+<blockquote>
+<p>&quot;First we build the tools, then they build us.&quot; - <a href="https://www.goodreads.com/quotes/484955-first-we-build-the-tools-then-they-build-us">Marshall McLuhan</a></p>
+</blockquote>
+<h1 id="goals-of-headjack"><a class="header" href="#goals-of-headjack">Goals of Headjack</a></h1>
+<!-- Goal: minimise friction for devs and users & enable permissionless innovation 
+
+No more gatekeepers
+
+a new era for communication, cooperation & compute
+
+-->
+<ul>
+<li><a href="https://twitter.com/balajis/status/1554228316181127169">distribute power</a> and let people have a <a href="possibilities.html#forking-media--communities">choice</a> - identity should be controlled by no one</li>
+<li>rebuild &amp; scale up trust through <a href="authenticity.html">authenticity</a> and build the <a href="https://twitter.com/balajis/status/1459140902144729088">ledger of record</a></li>
+<li>revive the <a href="possibilities.html#the-semantic-web-aka-the-original-web3">semantic web</a>, <a href="authenticity.html#deduplicating-documents--traceability">deduplicate content &amp; enable traceability</a></li>
+<li>improve transparency - <a href="https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant">&quot;Sunlight is the best disinfectant&quot;</a>
+<ul>
+<li><a href="problems_with_the_web.html#black-boxes--algorithmic-bias">virality, feeds &amp; algorithms</a> needs to be politically &amp; content-neutral</li>
+</ul>
+</li>
+<li>break the <a href="problems_with_the_web.html#vertical-integration-vs-specialization--competition">vertical integration</a> through interoperability &amp; markets - allow for specialization
+<ul>
+<li>lower the barrier to entry for innovation - the design space is limitless</li>
+<li>enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions</li>
+</ul>
+</li>
+<li><a href="possibilities.html#query--plot-anything">enable</a> super users to separate signal from noise through open data &amp; better tooling</li>
+<li>empower storytellers by <a href="possibilities.html#the-future-of-publishing-knowledge--learning">improving books and publications</a></li>
+<li>make infrastructure more resilient through <a href="possibilities.html#redundancy-scaling--topological-flexibility">redundancy</a> and p2p content-addressing</li>
+<li>slay <a href="https://slatestarcodex.com/2014/07/30/meditations-on-moloch/">Moloch</a> - the god of coordination failures &amp; multipolar traps</li>
+</ul>
+<blockquote>
+<p>&quot;Even a billion dollars of capital cannot compete with a project having a soul.&quot; - <a href="https://vitalik.ca/general/2020/12/28/endnotes.html">@VitalikButerin</a></p>
+</blockquote>
+<h1 id="mission"><a class="header" href="#mission">Mission</a></h1>
+<!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
+<div style="text-align: center;">
+    <img src="images/meme_trojan_horse.jpg">
+</div>
+<!-- linking data to identity without keys at scale
+unbundling monopolies, decentralizing media & rearchitecting the web
+Headjack
+Users & devs
+https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
+<h1>
+<u><i>End the host-centric model by linking data to identity at scale & unbundle the media stack.</i></u>
+</h1>
+<img src="images/one_chain_to_link_them_all_1000x800.jpeg">
+<!--
+One Chain to
+Link them all
+One Chain to
+Sort them
+One Chain to
+Prove them all
+and forever
+Bind them
+
+Headjack
+-->
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="startup_case_study.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="execution.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="startup_case_study.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="execution.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

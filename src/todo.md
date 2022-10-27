@@ -6,11 +6,24 @@
     https://en.wikipedia.org/wiki/Object-capability_model
     https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
     how about JWT objects? delegation chain with the same or lesser permissions? revocation?
-    https://ucan.xyz/
 
     https://research.google/pubs/pub41892/
 
+    google: authz
+        https://www.cloudflare.com/learning/access-management/authn-vs-authz/
+        https://cyral.com/glossary/authentication-authn-versus-authorization-authz/
 
+    google: acl vs ucan
+        https://noti.st/expede/IHl7BE/slides
+        https://noti.st/expede/IHl7BE/present
+
+    google: revoke oauth token
+
+    - UCAN
+        https://www.youtube.com/watch?v=grec5KQeU2U
+        https://www.youtube.com/watch?v=rQgecoUvmjU
+        https://ucan.xyz/
+        https://fission.codes/blog/auth-without-backend/
 
 
 - === URIs
@@ -26,6 +39,8 @@
         https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R30
 
     - uri length limit - 2048
+
+    - URIs for DMs?
 
     - message type in URI?
         https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R76
@@ -197,12 +212,18 @@ Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Q
         "warning, you're about to view a custom website"
     easy to identify links to "outside of the addressing"
 
-- can this displace SSL in addition to DNS?
-
 - can CRDTs be used like in farcaster?
     https://github.com/farcasterxyz/protocol#4-replication
 
 - how does The Graph fit into this?!
+
+- proving non-membership in a set with sorted merkle trees
+    https://crypto.stackexchange.com/a/83291/77499
+    https://www.geeksforgeeks.org/blockchain-merkle-trees/
+    potential problem: might be slow to re-generate the entire tree when inserting in the middle
+    https://crypto.stackexchange.com/a/31915/77499
+    https://crypto.stackexchange.com/questions/31914/proof-of-non-membership-on-a-merkle-tree
+    > "Worst of all, you cannot easily update the tree without rebuilding it. To make an update you need to know the whole universe, not just the tip R as is the case for membership. Thus the construct is suitable for static dictionaries which are seldom updated, as well as short round membership protocols like joinmarket below."
 
 # memes
 
@@ -265,7 +286,37 @@ https://archive.ph/Tr57S
 
 
 We could develop AI algorithms to try and spot patterns of corruption in polititians - lets flip the surveilance the other way around
+The collective no lying by public officials panopticon - funding public goods in public in the metaverse
+
+> "Cryptography is a tool for turning lots of different problems into key management problems." [Dr. Lea Kissner, Head of Privacy Eng and CISO at Twitter](https://subconscious.substack.com/p/redecentralization)
+
+
+
+But all other attempts fall short in one regard or another - Headjack can address every need in our global digital infrastructure and can handle the scale.
+
+
+
+
+
 
 
 > "If someone has the fight in them, I think a great step would be to start documenting the power structure. Build a GitHub repo of all the laws. Discover who wrote which part of each bill. Track the financial relationships and flow of money. Build a Wikipedia to document our oligarchs. Reverse engineer their schedules. Trace their lineage. Document the behaviors in real time, do not let the regime continue to hide."
 https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
+
+<!-- > "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear) -->
+
+[IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System), [Filecoin](https://en.wikipedia.org/wiki/Filecoin), [Sia](https://sia.tech/) & [Arweave](https://arwiki.wiki/) are the drivers, Headjack is the filesystem, and the collection of applications & services built on top will be the global OS.
+What about browser in the driver/filesystem/OS analogy?
+
+<!-- # Network structure
+
+https://www.rand.org/pubs/research_memoranda/RM3420.html
+3 ways to look at headjack:
+- identity is logically centralized
+- trusted hubs are decentralized
+- data is distributed and addressable
+Scale-free networks emerge **1)** because [they are efficient](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-because-they-are-efficient), **2)** because of [selection pressure](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-because-of-selection-pressure), and **3)** due to [preferential attachment](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-due-to-preferential-attachment)
+
+> "If you decentralize, the system will recentralize, but one layer up. Something new will be enabled by decentralization. That sounds like [evolution](https://subconscious.substack.com/i/52021619/modularity-is-how-the-system-itself-evolves) through [layering](https://subconscious.substack.com/p/layered-protocols), like [upward-spiraling complexity](https://subconscious.substack.com/p/open-ended-tools-for-infinite-games#:~:text=upward%2Dspirals%20of%20evolutionary%20complexity). That sounds like progress to me." - [source](https://subconscious.substack.com/p/decentralization-enables-permissionless#:~:text=If%20you%20decentralize%2C%20the%20system%20will%20recentralize%2C%20but%20one%20layer%20up.)
+
+-->

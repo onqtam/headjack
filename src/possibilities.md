@@ -1,3 +1,7 @@
+<!--
+with open data anyone will be able to build any kind of dashboard - moving us closer to a data-driven society in an open way
+-->
+
 # What's possible with open data
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables a lot of composability, functionality & innovation.
@@ -57,7 +61,7 @@ Twitter decided that it needs to boost engagement and forced "recent tweet" noti
 
 > "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
 
-When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multi-dimensional for any type of event stream - like `"show me everything from X unless from application A or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
+When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multidimensional for any type of event stream - like `"show me everything from X unless from application A or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
 
 # Bookmarks & playlists
 
@@ -91,6 +95,9 @@ https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20
 # Code as addressable data
 
 Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
+
+TODO: this wouldn't be necessary
+https://twitter.com/armada_infra/status/1584942215217836032
 
 # The global [Git](https://en.wikipedia.org/wiki/Git)
 

@@ -79,6 +79,8 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 
 # Reputation systems
 
+> "Reputations will be of central importance, far more important in dealings than even the credit ratings of today." - [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
+
 We don't need oracles, tokens, automatic on-chain settlement & markets through smart contracts to build reputation systems for predictions & promises - all we need is to immutably sequence predictive messages that are authentically linked to identity and plot the results - the open nature of the data would disincentivize platforms to display it incorrectly which is enough - we trust block explorers after all.
 
 Take the [Tipranks](https://www.tipranks.com/) platform as an example - we can generalize it for anyone in the world - not just for certified financial advisors. The reality is that millions of people are effectively guilty of shilling, despite some preficing it with the infamous [`"this is not financial advice"`](https://twitter.com/DegenSpartan/status/1552968186605490176). We can self-regulate the crypto & financial industries bottom-up in a decentralized way - steps:

@@ -34,3 +34,5 @@ blockspace revenue is insufficient - forms of staking and ownership of the netwo
 - value accrual of token - IDMs & applications required to stake the token depending on how many users depend on them?
 
 
+Tokenomics: using staking to combat the scale-free nature of IDM centralization
+

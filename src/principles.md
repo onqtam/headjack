@@ -41,18 +41,25 @@ It is highly improbable that the masses (and even most crypto natives) would tol
 
 # Web-scale, blockspace & the UNIX philosophy
 
-People grossly underestimate the size of the web and the required infrastructure. Here are some decade old [twitter](https://www.internetlivestats.com/twitter-statistics/), [google](https://www.internetlivestats.com/google-search-statistics/) and [other](https://www.internetlivestats.com/) statistics and a few articles about what it takes to run Twitter: [1](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html), [2](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html), [3](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization), [4](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale), [5](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-). What was going on within a single minute of 2021 is [<ins>truly mind-boggling</ins>](https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html):
+People grossly underestimate the size of the web and the required infrastructure. Here are some decade old [twitter](https://www.internetlivestats.com/twitter-statistics/), [google](https://www.internetlivestats.com/google-search-statistics/) and [other](https://www.internetlivestats.com/) statistics and a few articles about what it takes to run Twitter: [1](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html), [2](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html), [3](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2016/the-infrastructure-behind-twitter-efficiency-and-optimization), [4](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale), [5](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-). What was going on within a single minute of 2021 is [<ins>truly mind-boggling</ins>](https://www.domo.com/learn/infographic/data-never-sleeps-9):
 
 <!-- (this picture is very incomplete) -->
 
 <img src="images/web_scale_techspot.webp">
 
+<!--
+https://www.techspot.com/news/91513-visualizing-minute-internet-2021.html
+https://www.domo.com/data-never-sleeps
+https://www.domo.com/blog/data-never-sleeps-hits-double-digits/
+https://web-assets.domo.com/miyagi/images/product/product-feature-22-data-never-sleeps-10.png -->
+
 <!-- <img src="https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-30-image-32-j.webp"> -->
 
-<!-- infographic generated from these guys:
-https://www.domo.com/learn/infographic/data-never-sleeps-9 -->
-
 Headjack follows the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) - it focuses only on [identity](identity.md) (identifiers represented as numbers & name ownership) & linking data/actions to it without trying to do anything orthogonal (data storage, KYC, profiles, privacy, finance, etc.) that can be layered on top. It doesn't impose constraints on what could be built around it - [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns). All kinds of systems with their own incentives, cryptoeconomics & guarantees can be implemented on top of this identity layer & [addressing](addressing.md). The on-chain vs off-chain tradeoff and what goes into the blockspace is as follows:
+
+<!-- > "Expect the output of every program to become the input to another, as yet unknown, program." - [Unix Philosophy, Bell System Technical Journal, Jul-Aug 1978](https://archive.org/details/bstj57-6-1899) -->
+
+<!-- > "By basing design on increasing levels of abstraction, layering greatly reduces complexity… Since each layer only uses the services of layers below, a layered system can be implemented and tested incrementally." - [Internet Architecture and Innovation](https://www.goodreads.com/book/show/8586192-internet-architecture-and-innovation) -->
 
 - Consensus should be reached on the absolute bare minimum - only [identity](identity.md) (integers), the history of keypairs & authorizations, name ownership & anchors to off-chain activity need [logical centralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) and must be on-chain with guaranteed data availability.
 

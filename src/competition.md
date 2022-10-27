@@ -317,6 +317,8 @@ https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d8
 
 !!!!!
 
+Farcaster can be entirely rebuilt on top of Headjack but not everything that Headjack enables can be built on top of Farcaster.
+
 product-led protocol development
 https://chapterone.substack.com/p/farcaster-the-new-crypto-gtm
 https://twitter.com/TziokasV/status/1581688157204254720

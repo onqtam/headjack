@@ -89,3 +89,10 @@ no right to be forgotten?
 
 Problem: premium features could lock ppl in to idms
 
+https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible
+
+Concern: what if apps depend too much on specific infra companies with economies of scale and have nowhere else to migrate
+
+
+
+
