@@ -19,13 +19,7 @@ Let's take a look how the web works and what are the building blocks & ideas tha
 
 Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unicast) communication - we query [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) to get the IP of servers and open direct connections with them to retrieve the data that they host. But domains, URI paths on servers & the actual files all change & go away which leads to [link rot](https://en.wikipedia.org/wiki/Link_rot) & content drift. Guidance such as ["Cool URIs don't change"](https://www.w3.org/Provider/Style/URI) is just that - guidance - and the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is just a bandaid that can hardly keep up with the digital [memory hole](https://en.wikipedia.org/wiki/Memory_hole). In the host-certified paradigm URLs at best point to a location at which a document may have been available at some point in time - devoid of any cryptographic proofs regarding the contents, the creator, an alternative way to retrieve it or the time of publication. The implications are explored in the [host-centric section in the motivation](problems_with_the_web.html#the-host-centric-web).
 
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-Barrett Lyon / The Opte Project
-https://www.opte.org/
-Visualization of the routing paths of the Internet.
+> "It is generally recognized that the current approach of using IP address both as a locator and as an identifier was a poor design choice." - [David D. Clark](https://en.wikipedia.org/wiki/David_D._Clark), [Designing an Internet](https://www.goodreads.com/book/show/39644174-designing-an-internet)
 
 # Data-centric computing
 

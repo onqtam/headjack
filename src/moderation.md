@@ -162,3 +162,9 @@ https://maciek.blog/attention-as-a-source-of-scarcity-for-decentralized-identity
 https://en.wikipedia.org/wiki/Goodhart%27s_law
 
 
+
+
+== detecting bots:
+- President Trump makes a tweet -- how was his tweet retweeted during the first few minutes afterwards? This method would help to detect bot-like activity on Twitter by scanning time blocks right after a specific account makes a tweet to see if the same accounts are active each time.
+    https://docs.google.com/document/d/1xVrPoNutyqTdQ04DXBEZW4ZW4A5RAQW2he7qIpTmG-M/edit
+

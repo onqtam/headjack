@@ -237,6 +237,12 @@ traditional web2 companies/apps/websites will be able to gradually transition an
 
 <!--
 
+make a diagram how the advertising money flows in youtube between the different actors and how it would flow in headjack
+SANKEY DIAGRAM !!!
+https://developers.google.com/chart/interactive/docs/gallery/sankey
+
+
+
 a challenge would be content licenses...
 
 copyright infringement is beneficial for YouTube

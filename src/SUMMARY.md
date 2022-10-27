@@ -22,10 +22,7 @@
     - [Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
     - [Business models](business_models.md)
     - [Startup case study](startup_case_study.md)
-    - [What really is Headjack](how_to_think_about_it.md)
-    - [Mission](mission_ambition.md)
-
-    <!-- - [What really is Headjack?](how_to_think_about_it.md) -->
+    - [What really is Headjack](what_really_is_headjack.md)
 
 <!-- Mental models for Headjack -->
 
