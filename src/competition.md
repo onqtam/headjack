@@ -265,6 +265,12 @@ https://atproto.com/guides/data-repos
 
 -->
 
+<div style="text-align: center;">
+    <img src="images/meme_15_competing_standards.png">
+</div>
+
+<!-- Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity. -->
+
 
 # What other projects get wrong
 

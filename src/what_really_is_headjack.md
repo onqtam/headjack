@@ -4,7 +4,7 @@ it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
 
 # What really is Headjack
 
-Let's explore a few mental models & analogies when thinking about Headjack:
+Let's explore a few mental models, analogies & points of view when thinking about Headjack:
 
 <!-- toc -->
 
@@ -38,9 +38,11 @@ Twitter's firehose allowed you to ingest all events on the platform in real time
 
 # The address space of the World Computer
 
-Headjack's [virtual memory](https://en.wikipedia.org/wiki/Virtual_memory) has enough space to address practically infinite number of events with the concatenation of 4 integers (64bit/32bit/64bit/32bit - see [addressing](addressing.md)) + the ability for [intra-document (fractal) addressing](possibilities.md#intra-document-addressing) which is much better for indexing than hashes. It enables the construction of global [causally consistent](https://en.wikipedia.org/wiki/Causal_consistency) distributed systems in regards to authorization - enabling an infinite-core world computer atop [distributed shared memory](https://en.wikipedia.org/wiki/Distributed_shared_memory).
+Headjack's [virtual memory](https://en.wikipedia.org/wiki/Virtual_memory) has enough space to address practically infinite number of events with the concatenation of 4 integers (64bit/32bit/64bit/32bit - see [addressing](addressing.md)) + the ability for [intra-document (fractal) addressing](possibilities.md#intra-document-addressing) which is much better for indexing than hashes. We can build an infinite-core world computer atop this [distributed shared memory](https://en.wikipedia.org/wiki/Distributed_shared_memory).
 
-Think of Headjack as an [information bus](https://dl.acm.org/doi/pdf/10.1145/173668.168624) on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing [messages](messages.md), dynamically definable message types & permissionlessness. The service objects that deal with identity & authorization are on-chain and have guaranteed data availability whereas all data objects are just cryptographically anchored and stored off-chain.
+<!-- It enables the construction of global [causally consistent](https://en.wikipedia.org/wiki/Causal_consistency) distributed systems in regards to authorization. -->
+
+Think of it as an [information bus](https://dl.acm.org/doi/pdf/10.1145/173668.168624) on top of which any type of distributed system can be architected thanks to the minimal semantics, self-describing [messages](messages.md), dynamically definable message types & permissionlessness. The service objects that deal with identity & authorization are on-chain with guaranteed data availability whereas all other data objects are off-chain, anchored & sequenced.
 
 > "The internet is the computer but it's missing identity and [acls](https://en.wikipedia.org/wiki/Access-control_list)." - [koalaman](https://news.ycombinator.com/item?id=25734612).
 
@@ -55,7 +57,7 @@ https://en.wikipedia.org/wiki/Memory_coherence
 https://en.wikipedia.org/wiki/Cache_coherence
 https://en.wikipedia.org/wiki/Causal_consistency -->
 
-# History 2.0
+# History 2.0 & the ledger of record
 
 > "Cryptographically verifiable history is the next step after written history" - [@balajis](https://youtu.be/VeH7qKZr0WI?t=10089)
 
@@ -63,38 +65,23 @@ https://en.wikipedia.org/wiki/Causal_consistency -->
 The Akashic records -
 https://en.wikipedia.org/wiki/Akashic_records
 
+<!-- Think of all the ethnic, religious, political & corporate disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->
 
-
-<!-- Think of all the ethnic, religious and political disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->
+the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where all content is cryptographically anchored and totally ordered
 
 # The supermassive digital gravity well
 
+Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.
 
-Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where all content is cryptographically anchored and totally ordered. The confluence of human-readable & persistent addressing, indexing, identity, names, and the interest graph results in a winner-take-all network effect with unprecedented gravity that can organize the world's data - [`@naval: "The internet creates 1 giant aggregator for everything"`](https://youtu.be/3qHkcs3kG44?t=3527). It can succeed in completely decentralizing [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) and disaggregating traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts."`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts)
+<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
 
-Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity and broadcasting. It is the supermassive digital gravity well and is going after the entire web as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence).
+> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
 
-
-
-It is an informational gravity well with a strong network effect that would suck all data to be cryptographically anchored to it
-
-Headjack has an ecosystem effect - a product network effect, and identity is at the core of it. Case Study: Dropbox vs. Google Drive
-https://blog.niraj.io/the-ecosystem-effect
-
-
+Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - acting as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence). It will disaggregate traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts."`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts).
 
 > "Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
 
-> "In a society with faltering institutions, rotted from within and mistrusted from without, the chance to finally replace our banks and internet giants (not to even delve into politics) with a new set of characters is too tempting to resist." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
-
-
-
-
 # The Metaverse is the Matrix
-
-<!-- ***And Headjack is the protocol to enter it.*** -->
-
-<!-- ***And Headjack is the entrance protocol.*** -->
 
 ***And Headjack is [the interface](https://matrix.fandom.com/wiki/Headjack).***
 
@@ -127,7 +114,6 @@ omniverse usd (universal scene description)
 > "Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 -->
 
-
 # Technology, media, the Internet & society
 
 Evolution is 99.9% memetic at this point & accelerating exponentially. If finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), then media is the battleground of ideas and is just as fundamental.
@@ -158,12 +144,19 @@ Blockchains can play a major role in upgrading our systems of trust, reputation 
 # Goals of Headjack
 
 <!-- Goal: minimise friction for devs and users & enable permissionless innovation 
-
 No more gatekeepers
-
 a new era for communication, cooperation & compute
-
 -->
+
+<div style="text-align: center;">
+    <img src="images/meme_trojan_horse.jpg">
+</div>
+
+<!-- linking data to identity without keys at scale
+unbundling monopolies, decentralizing media & rearchitecting the web
+Headjack
+Users & devs
+https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should be controlled by no one
 - rebuild & scale up trust through [authenticity](authenticity.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
@@ -180,19 +173,9 @@ a new era for communication, cooperation & compute
 
 > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
 
-# Mission
-
 <!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
 
-<div style="text-align: center;">
-    <img src="images/meme_trojan_horse.jpg">
-</div>
-
-<!-- linking data to identity without keys at scale
-unbundling monopolies, decentralizing media & rearchitecting the web
-Headjack
-Users & devs
-https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
+# Mission
 
 <h1 style="text-align:center">
 <u><i>End the host-centric model by linking data to identity at scale & unbundle the media stack.</i></u>
@@ -212,3 +195,5 @@ Bind them
 
 Headjack
 -->
+
+Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity.

@@ -17,7 +17,7 @@
 - [Why Headjack](motivation.md)
     - [Problems with the current web](problems_with_the_web.md)
     - [Today's information ecology](information_ecology.md)
-    - [Trust & the ledger of record](authenticity.md)
+    - [The ledger of record](authenticity.md)
     - [What's possible with open data](possibilities.md)
     - [Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
     - [Business models](business_models.md)

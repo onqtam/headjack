@@ -73,6 +73,7 @@
 
     - URIs for on-chain authorization events?
 
+    - handle redirects? twitter.com => twitter, so that all content URLs use twitter and the .com one is just used for convenience? or wtf?
 
 
 == RESEARCH:
@@ -294,7 +295,7 @@ The collective no lying by public officials panopticon - funding public goods in
 
 But all other attempts fall short in one regard or another - Headjack can address every need in our global digital infrastructure and can handle the scale.
 
-
+> "In a society with faltering institutions, rotted from within and mistrusted from without, the chance to finally replace our banks and internet giants (not to even delve into politics) with a new set of characters is too tempting to resist." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
 
 
 
