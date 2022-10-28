@@ -30,7 +30,7 @@ The rule book will be different - instead of [vertically integrated](problems_wi
 - Computed views (aggregate metrics) such as counts of likes & other interactions.
 - Content moderation & safety labelers (malware/copyright/offensive/spam) producing lists with flagged accounts, specific pieces of content or even entire applications.
     - Their output could be used not just for the final presentation layer but also before indexes, models & computed views are created as they could be gamed with spam.
-- Custom types of [data streams](possibilities.md#event-streams), [event subscriptions](possibilities.md#notifications--subscriptions), and anything else one could think of!
+- Custom types of [data streams](data_legos.md#event-streams), [event subscriptions](data_legos.md#notifications--subscriptions), and anything else one could think of!
 
 <div style="text-align: center;">
     <img src="images/meme_toy_story_markets.jpg">

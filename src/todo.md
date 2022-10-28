@@ -297,7 +297,7 @@ But all other attempts fall short in one regard or another - Headjack can addres
 
 > "In a society with faltering institutions, rotted from within and mistrusted from without, the chance to finally replace our banks and internet giants (not to even delve into politics) with a new set of characters is too tempting to resist." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
 
-
+> "However, to rely on purely idealism as a motivator of adoption is naive. We need a user experience that is much better than today and we need to invent tools that users will absolutely never attain in the Web 2 realm." - ["Social Web 3" by Zee Prime Capital](https://zeeprime.capital/social-web-3)
 
 
 
