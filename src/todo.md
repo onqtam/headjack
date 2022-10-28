@@ -309,6 +309,10 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System), [Filecoin](https://en.wikipedia.org/wiki/Filecoin), [Sia](https://sia.tech/) & [Arweave](https://arwiki.wiki/) are the drivers, Headjack is the filesystem, and the collection of applications & services built on top will be the global OS.
 What about browser in the driver/filesystem/OS analogy?
 
+> "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
+
+> "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
+
 <!-- # Network structure
 
 https://www.rand.org/pubs/research_memoranda/RM3420.html

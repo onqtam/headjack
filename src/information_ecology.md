@@ -1,8 +1,43 @@
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
-
 # Today's information ecology
+
+<!-- toc -->
+
+# The host-centric web & its decay
+
+One major problem of the current [host-centric](host_vs_data_centric.md#todays-web-host-centric) internet architecture is that documents are host-certified - we refer to data by location instead of contents, but that leads to link rot & content drift. Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation. We can't expect everyone to be like [@balajis](https://twitter.com/balajis) - linking to articles from the Internet Archive ([Example](https://balajis.com/synthesis/): look what `"Prussian"` in that text is [pointing to](https://archive.ph/O2D45)) - this doesn't scale, data is still not self-authenticating and is reliant on a central point of failure. The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting. It's as permanent as a [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) and its just a matter of time for it to go away. Some great quotes:
+
+> "More than 98% of the information on the web is lost within 20 years" - [a16z Podcast](https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/)
+
+> "The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it." - [tgbugs](https://news.ycombinator.com/item?id=27691442)
+
+> "Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+> "People tend to overlook the decay of the modern web, when in fact these numbers are extraordinary—they represent a comprehensive breakdown in the chain of custody for facts." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+> "If a Pulitzer-finalist 34-part series of investigative journalism can vanish from the web, anything can." - [source](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
+
+# Cultural fragmentation & filter bubbles
+
+The same document may be published through different platforms and because of the host-certified web of today it will get multiple different URLs. Discussion around it becomes fragmented & shallow in the different platforms with separate comment sections and there isn't a way to de-duplicate & unify it. This facilitates polarization as separate echo chambers can form without seeing the opinion of other types of people.
+
+<!-- Alienating large parts of the population & pushing them to alternative closed platforms is not a net benefit. -->
+
+> "Echo chambers are intellectual oppression - as opposed to idea labs where ideas are treated as experiments." - [Tim Urban](https://www.youtube.com/watch?v=ivDwzBYsED4)
+
+Instead imagine being able to view the entire discussion around a specific event by tracing & aggregating all of the re-publications, references & re-tweets & quotes of it from anywhere and applying any type of filter to that.
+
+That is what interoperable identity, content-addressing & broadcasted data enables - we can connect and de-duplicate everything and allow anyone to build tools around that - constructing a much bigger graph that what Google have created for themselves.
+
+# Moderation & censorship
+
+This is an incredibly hairy topic with many aspects - here are just a few of them:
+
+- No clear rules for moderation & censorship - the terms of service are ambiguous and an ever moving goal post. Platform accountability is practically non-existent:
+    - account reach can be down-regulated through opaque techniques like [shadow banning](https://shadowban.yuzurisa.com/)
+    - accounts can be removed subjectively (case in point: earlier Twitter accounts tracking Nancy Pelosi's public stock trades)
+- There is no way for users to "fork" a Reddit community if they no longer agree with the way moderation is happening - they have to recreate a new subreddit from scratch.
+- There is no market for solving certain types of spam such as financial scams - Twitter & YouTube are riddled with templatized messages and their internal [vertically integrated](barriers_to_entry.md#vertical-integration-vs-specialization--competition) teams are unable to deal with yet another problem in a world-class manner. In an open system such as e-mail the competition & innovation for solving spam has been tremendous.
+
 
 <!-- addictive social media - toxic -->
 <!-- 

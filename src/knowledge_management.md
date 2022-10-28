@@ -2,7 +2,7 @@
 with open data anyone will be able to build any kind of dashboard - moving us closer to a data-driven society in an open way
 -->
 
-# What's possible with open data
+# Knowledge management
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables a lot of composability, functionality & innovation.
 
@@ -44,7 +44,7 @@ https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20
 https://twitter.com/Golden
 https://golden.com/blog/golden-raises-40m-series-b/
 
-The biggest hurdle for its adoption has been the [host-centric](problems_with_the_web.md#the-host-centric-web) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](host_vs_data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
+The biggest hurdle for its adoption has been the [host-centric](information_ecology.md#the-host-centric-web--its-decay) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](host_vs_data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
 
 <img src="images/data_information_knowledge.jpg">
 
