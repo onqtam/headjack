@@ -148,16 +148,6 @@ No more gatekeepers
 a new era for communication, cooperation & compute
 -->
 
-<div style="text-align: center;">
-    <img src="images/meme_trojan_horse.jpg">
-</div>
-
-<!-- linking data to identity without keys at scale
-unbundling monopolies, decentralizing media & rearchitecting the web
-Headjack
-Users & devs
-https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
-
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](knowledge_management.md#forking-media--communities) - identity should be controlled by no one
 - rebuild & scale up trust through [authenticity](ledger_of_record.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
 - revive the [semantic web](knowledge_management.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](ledger_of_record.md#deduplicating-documents--traceability)
