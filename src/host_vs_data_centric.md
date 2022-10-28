@@ -21,6 +21,10 @@ Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unic
 
 > "It is generally recognized that the current approach of using IP address both as a locator and as an identifier was a poor design choice." - [David D. Clark](https://en.wikipedia.org/wiki/David_D._Clark), [Designing an Internet](https://www.goodreads.com/book/show/39644174-designing-an-internet)
 
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 # Data-centric computing
 
 [Data-centric computing](https://en.wikipedia.org/wiki/Data-centric_computing) is an emerging concept that has relevance in information architecture and data center design - data is stored independently of the applications, which can be upgraded without costly and complicated data migration. This is a radical shift in information systems that will be needed to address organizational needs for storing, retrieving, moving, and processing exponentially growing data sets. It increases agility by prioritizing data transfer and data computation. Applications become short-lived, constantly added, updated, or removed as algorithms come and go.

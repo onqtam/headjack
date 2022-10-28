@@ -11,7 +11,7 @@ In the current web documents are [host-certified](problems_with_the_web.md#the-h
 
 <!-- toc -->
 
-# The ledger of record
+# Authenticity
 
 We'll be able to computationally verify the authenticity of any document & tie it to an identity as long as we also have the proofs for it - giving birth to the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where argument from cryptography begins superseding argument from authority.
 
@@ -48,6 +48,17 @@ Another important aspect in improving coordination is to build applications that
 Using screenshots of tweets in case the originals get deleted does not constitute evidence. The lack of authenticity is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/).
 
 > "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+# The global [Git](https://en.wikipedia.org/wiki/Git)
+
+Headjack is a global [version control system](https://en.wikipedia.org/wiki/Version_control) with different data availability tradeoffs - storage and retrievability are not guaranteed. If someone processes everything that's linked to the blockchain they'd be able to track the creation and changes of each document - both the edits from the original authors and the forks & references from others, and also the sequence of authorizations that update who has authority to edit a document. All events are cryptographically sealed in time with on-chain commitments and the history cannot be tampered with.
+
+We should be able to view the changes of any document with a diff view - similarly to what [The Internet Archive provides](https://blog.archive.org/2019/10/18/the-wayback-machine-fighting-digital-extinction-in-new-ways/) (see [this as an example](https://web.archive.org/web/diff/20170118202526/20170120040337/https://www.ice.gov/speeches)) but with a lot more control and a wide range of different visualization tools - example: a slider for filtering/jumping through time [like in Discourse](
+https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-controls/44096).
+
+> "The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
+
+We ought to rebuild everything on top of this [ledger of record](ledger_of_record.md#authenticity) - including Wikipedia (no more dead links!), open source code, science and peer review - under one global interlinked namespace where any public event is referencable so that others can comment on it.
 
 # The history of document updates
 
@@ -96,6 +107,24 @@ The argument that specialized message types are unnecessary because AI will even
 <!-- Perhaps the reputation system can be abused - by making 100 accounts and building different prediction timelines throughout time and then using only the winners - this page should be treated just as a starting point and isn't trying to provide all the answers. -->
 
 > "Finally, self-authenticating data provides more mechanisms that can be used to establish trust. Self-authenticated data can retain metadata, like who published something and whether it was changed. Reputation and trust-graphs can be constructed on top of users, content, and services. The transparency provided by [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing) provides a new tool for establishing trust by showing precisely how the results were produced. We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products." - [bluesky](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
+
+# Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
+
+> "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
+
+Open source code is compiled, ran & verified by many independent actors - we should fix the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) in science and push towards more [reproducible research](https://www.coursera.org/learn/reproducible-research).
+
+> "More than 70% of researchers have tried and failed to reproduce another scientist's experiments, and more than half have failed to reproduce their own experiments." - [source](https://www.nature.com/articles/533452a)
+
+> "Imagine if we optimized for number of independent replications over number of citations." - [@balajis](https://twitter.com/balajis/status/1337598439266250752)
+
+Papers can be split into text, data, code & results with all of them referencable with stable URIs & cryptographically tied to identity, reputation & [open peer review](https://en.wikipedia.org/wiki/Open_peer_review). There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable & [replicable](https://twitter.com/balajis/status/1556579944754384897). Citations could become [function calls / imports](https://twitter.com/balajis/status/1309497397236477952) so that we can trace the dependency graph in science and focus on re-testing the most important bits - we might [save a billion or two and avoid lost decades](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease). We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science & facts.
+
+> "Composable science is reproducible science." - [@balajis](https://twitter.com/balajis/status/1555458319070167040)
+
+<!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
+
+<!-- https://www.nature.com/articles/d41586-022-03256-9 -->
 
 
 

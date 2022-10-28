@@ -20,13 +20,13 @@ But the original sin has been that it's [owned by a company](https://twitter.com
 
 # Identity - the base layer of cyberspace
 
-Web3 is often associated with user ownership of networks/services/data, governance, NFTs & micropayments, and while all of them will play a part in it, the main aspect is the decentralization of identity and [making it sovereign](https://twitter.com/balajis/status/1162401646258749441). Headjack is an application-specific blockchain which can be thought of as an [open state database](https://twitter.com/balajis/status/1123092897664880640) where only the most important bits are decentralized and identity is linked to off-chain data & events with stable & human-readable addressing - giving birth to the [ledger of record](authenticity.md). Anything can be built on top of that.
+Web3 is often associated with user ownership of networks/services/data, governance, NFTs & micropayments, and while all of them will play a part in it, the main aspect is the decentralization of identity and [making it sovereign](https://twitter.com/balajis/status/1162401646258749441). Headjack is an application-specific blockchain which can be thought of as an [open state database](https://twitter.com/balajis/status/1123092897664880640) where only the most important bits are decentralized and identity is linked to off-chain data & events with stable & human-readable addressing - giving birth to the [ledger of record](ledger_of_record.md). Anything can be built on top of that.
 
 > "Compositionality is the principle that a system should be designed by composing together smaller subsystems, and reasoning about the system should be done recursively on its structure." - [Jules Hedges, On Compositionality](https://julesh.com/2017/04/22/on-compositionality/)
 
 # The global event bus / pub-sub
 
-One way to look at Headjack is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network where accounts, message types, tags, application sources & [anything within documents](possibilities.md#event-streams) can be treated as topics to subscribe to - a multidimensional notification highway. It's the ultimate user-friendly successor of the [too technical](https://twitter.com/mgsiegler/status/311992206716203008) RSS - [`"people jumped ship as soon as something better came along"`](https://twobithistory.org/2018/12/18/rss.html).
+One way to look at Headjack is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network where accounts, message types, tags, application sources & [anything within documents](data_legos.md#event-streams) can be treated as topics to subscribe to - a multidimensional notification highway. It's the ultimate user-friendly successor of the [too technical](https://twitter.com/mgsiegler/status/311992206716203008) RSS - [`"people jumped ship as soon as something better came along"`](https://twobithistory.org/2018/12/18/rss.html).
 
 When compared to [Kafka](https://kafka.apache.org/intro): it provides only logical addressing (allowing for the storage layer to evolve & migrate data seamlessly) and delegates the data availability (storage & retrievability) of the actual documents/events to the entities in the ecosystem (users/IDMs/applications/archives) on a [best-effort](https://en.wikipedia.org/wiki/Best-effort_delivery) basis without guarantees (but with [multiple ways for retrieving data for a URI](store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri)).
 
@@ -38,7 +38,7 @@ Twitter's firehose allowed you to ingest all events on the platform in real time
 
 # The address space of the World Computer
 
-Headjack's [virtual memory](https://en.wikipedia.org/wiki/Virtual_memory) has enough space to address practically infinite number of events with the concatenation of 4 integers (64bit/32bit/64bit/32bit - see [addressing](addressing.md)) + the ability for [intra-document (fractal) addressing](possibilities.md#intra-document-addressing) which is much better for indexing than hashes. We can build an infinite-core world computer atop this [distributed shared memory](https://en.wikipedia.org/wiki/Distributed_shared_memory).
+Headjack's address space can be thought of as [virtual memory](https://en.wikipedia.org/wiki/Virtual_memory) and is enough for practically infinite number of events with the concatenation of 4 integers (64bit/32bit/64bit/32bit - see [addressing](addressing.md)) + the ability for [intra-document (fractal) addressing](knowledge_management.md#intra-document-addressing) - much better for indexing than hashes. We can build an infinite-core world computer atop this [distributed shared memory](https://en.wikipedia.org/wiki/Distributed_shared_memory).
 
 <!-- It enables the construction of global [causally consistent](https://en.wikipedia.org/wiki/Causal_consistency) distributed systems in regards to authorization. -->
 
@@ -158,17 +158,17 @@ Headjack
 Users & devs
 https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
 
-- [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](possibilities.md#forking-media--communities) - identity should be controlled by no one
-- rebuild & scale up trust through [authenticity](authenticity.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
-- revive the [semantic web](possibilities.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](authenticity.md#deduplicating-documents--traceability)
+- [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](knowledge_management.md#forking-media--communities) - identity should be controlled by no one
+- rebuild & scale up trust through [authenticity](ledger_of_record.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
+- revive the [semantic web](knowledge_management.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](ledger_of_record.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - [virality, feeds & algorithms](problems_with_the_web.md#black-boxes--algorithmic-bias) needs to be politically & content-neutral
 - break the [vertical integration](problems_with_the_web.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
-- [enable](possibilities.md#query--plot-anything) super users to separate signal from noise through open data & better tooling
-- empower storytellers by [improving books and publications](possibilities.md#the-future-of-publishing-knowledge--learning)
-- make infrastructure more resilient through [redundancy](possibilities.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
+- [enable](knowledge_management.md#query--plot-anything) super users to separate signal from noise through open data & better tooling
+- empower storytellers by [improving books and publications](knowledge_management.md#the-future-of-publishing-knowledge--learning)
+- make infrastructure more resilient through [redundancy](improved_infrastructure.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
 - slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
 
 > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
