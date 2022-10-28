@@ -5,9 +5,9 @@ https://en.wikipedia.org/wiki/Non-repudiation
 Leaving an authentic digital footprint and path
 -->
 
-# The ledger of record
+# History 2.0: the ledger of record
 
-In the current web documents are [host-certified](information_ecology.md#the-host-centric-web--its-decay) and we refer to data by location instead of contents. Here we'll expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](host_vs_data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents tied to identity.
+In the current web documents are [host-certified](host_centric.md#the-host-centric-web--its-decay) and we refer to data by location instead of contents. Here we'll expand on problems with the status quo and list the benefits of building a [web of trust](https://en.wikipedia.org/wiki/Web_of_trust) at web-scale through [data-centric](host_vs_data_centric.md) addressing & [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) documents tied to identity.
 
 <!-- toc -->
 
@@ -27,6 +27,12 @@ Forced transparency !!!
 
 https://en.wikipedia.org/wiki/Akashic_records
 
+# History 2.0
+
+> "Cryptographically verifiable history is the next step after written history" - [@balajis](https://youtu.be/VeH7qKZr0WI?t=10089)
+
+
+
 We could establish global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) through authenticity, reputation, and the ledger of record.
 
 Another important aspect in improving coordination is to build applications that will help in forming common knowledge:
@@ -43,11 +49,6 @@ Another important aspect in improving coordination is to build applications that
 > "Perhaps better history needs better databases." - [@balajis](https://twitter.com/balajis/status/1434110543564996612)
 -->
 
----
-
-Using screenshots of tweets in case the originals get deleted does not constitute evidence. The lack of authenticity is being routinely exploited - ["Shedding light on fraudulent takedown notices"](https://today.law.harvard.edu/shedding-light-on-fraudulent-takedown-notices/).
-
-> "For example, thanks to the site’s record-keeping both of deletions and of the source and text of demands for removals, the law professor Eugene Volokh was able to identify a number of removal requests made with fraudulent documentation—nearly 200 out of 700 “court orders” submitted to Google that he reviewed turned out to have been apparently Photoshopped from whole cloth. The Texas attorney general has since sued a company for routinely submitting these falsified court orders to Google for the purpose of forcing content removals." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
 # The global [Git](https://en.wikipedia.org/wiki/Git)
 
@@ -62,7 +63,7 @@ We ought to rebuild everything on top of this [ledger of record](ledger_of_recor
 
 # The history of document updates
 
-Today's web puts authenticity & certification of documents in the [hands of hosts](information_ecology.md#the-host-centric-web--its-decay) which can [do whatever they want](https://news.ycombinator.com/item?id=27690525) and rarely provide the option to see previous versions if edits have been made. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and can be compromised.
+Today's web puts authenticity & certification of documents in the [hands of hosts](host_centric.md#the-host-centric-web--its-decay) which can [do whatever they want](https://news.ycombinator.com/item?id=27690525) and rarely provide the option to see previous versions if edits have been made. The [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) is hardly a mainstream tool which doesn't provide any cryptographic authenticity guarantees and can be compromised.
 
 > "It is really tempting to cover for mistakes by pretending they never happened. Our technology now makes that alarmingly simple" - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
@@ -125,13 +126,5 @@ Papers can be split into text, data, code & results with all of them referencabl
 <!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->
 
 <!-- https://www.nature.com/articles/d41586-022-03256-9 -->
-
-
-
-
-
-
-
-
 
 

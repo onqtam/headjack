@@ -14,12 +14,14 @@ Lack of composability & interoperability
 
 > "The internet changed the topology of human communication, with existing social platforms as a mere proof-of-concepts." - ["Social Web 3" by Zee Prime Capital](https://zeeprime.capital/social-web-3)
 
-The current host-centric web is just a local maximum due to gradient descent. Some problems:
+The current host-centric web is just a local maximum due to gradient descent.
 
+1. [The host-centric web](host_centric.md)
 1. [The information ecology](information_ecology.md)
 1. [Centralization](centralization.md)
 1. [Silo vs interoperability](barriers_to_entry.md)
 1. [Black boxes & bias](black_boxes.md)
+1. [Specific platforms](specific_platforms.md)
 
 <img src="images/local_maximum.jpeg">
 
