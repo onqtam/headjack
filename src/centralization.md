@@ -90,3 +90,4 @@ The terrifying thing about this is that Google is not an elected entity. Google 
 
 > "The only way to avoid this endgame is to demand infrastructure that remains neutral. At the scale of today’s Internet and global economy, infrastructure that does not remain neutral will inevitably turn on its users and coerce them into a set of moral standards that are both arbitrary and enforced without consent."
 
+<!-- TODO: AWS & other cloud providers are also big & influential -->

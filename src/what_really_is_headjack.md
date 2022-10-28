@@ -57,18 +57,6 @@ https://en.wikipedia.org/wiki/Memory_coherence
 https://en.wikipedia.org/wiki/Cache_coherence
 https://en.wikipedia.org/wiki/Causal_consistency -->
 
-# History 2.0 & the ledger of record
-
-> "Cryptographically verifiable history is the next step after written history" - [@balajis](https://youtu.be/VeH7qKZr0WI?t=10089)
-
-
-The Akashic records -
-https://en.wikipedia.org/wiki/Akashic_records
-
-<!-- Think of all the ethnic, religious, political & corporate disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->
-
-the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where all content is cryptographically anchored and totally ordered
-
 # The Metaverse is the Matrix
 
 ***And Headjack is [the interface](https://matrix.fandom.com/wiki/Headjack).***
