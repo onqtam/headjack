@@ -38,9 +38,9 @@ https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol
 
 our activity is being tracked when not using a VPN - even if using https we leak to the network which big tech service we are contacting & using
 
-<!-- <div style="text-align: center;">
+<div style="text-align: center;">
     <img src="images/meme_root_zones_certificate_authorities.jpg">
-</div> -->
+</div>
 
 <!-- the digital revolution
 decentralization through DNS
