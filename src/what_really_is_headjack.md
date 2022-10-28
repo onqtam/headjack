@@ -69,18 +69,6 @@ https://en.wikipedia.org/wiki/Akashic_records
 
 the [ledger of record](https://twitter.com/balajis/status/1459140902144729088) where all content is cryptographically anchored and totally ordered
 
-# The supermassive digital gravity well
-
-Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.
-
-<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
-
-> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
-
-Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - acting as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence). It will disaggregate traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts."`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts).
-
-> "Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
-
 # The Metaverse is the Matrix
 
 ***And Headjack is [the interface](https://matrix.fandom.com/wiki/Headjack).***
@@ -113,6 +101,18 @@ omniverse usd (universal scene description)
 
 > "Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 -->
+
+# The supermassive digital gravity well
+
+Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.
+
+<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
+
+> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
+
+Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - acting as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence). It will disaggregate traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts."`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts).
+
+> "Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
 
 # Technology, media, the Internet & society
 
@@ -153,17 +153,13 @@ a new era for communication, cooperation & compute
 - revive the [semantic web](knowledge_management.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](ledger_of_record.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - [virality, feeds & algorithms](problems_with_the_web.md#black-boxes--algorithmic-bias) needs to be politically & content-neutral
-- break the [vertical integration](problems_with_the_web.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
+- break the [vertical integration](barriers_to_entry.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - [enable](knowledge_management.md#query--plot-anything) super users to separate signal from noise through open data & better tooling
 - empower storytellers by [improving books and publications](knowledge_management.md#the-future-of-publishing-knowledge--learning)
 - make infrastructure more resilient through [redundancy](improved_infrastructure.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
 - slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
-
-> "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
-
-<!-- > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/) -->
 
 # Mission
 

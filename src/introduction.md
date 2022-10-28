@@ -43,7 +43,7 @@ it does not deal with storage and neither with routing - any kind of routing can
 
 - It doesn't deal with off-chain data storage and retrievability - those are separate problems and Headjack simply lets entities point to ways for others to retrieve addressable content.
 
-<!-- - The move from the current [host-centric](problems_with_the_web.md#the-host-centric-web) web towards [data-centric](host_vs_data_centric.md) addressing represents a paradigm shift around data ownership & access - an architectural reset of the internet. -->
+<!-- - The move from the current [host-centric](information_ecology.md#the-host-centric-web--its-decay) web towards [data-centric](host_vs_data_centric.md) addressing represents a paradigm shift around data ownership & access - an architectural reset of the internet. -->
 
 # Book structure
 
