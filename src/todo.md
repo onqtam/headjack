@@ -25,6 +25,15 @@
         https://ucan.xyz/
         https://fission.codes/blog/auth-without-backend/
 
+    - Think about scopes of authorization - multidimensionality
+
+    - figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
+        https://en.wikipedia.org/wiki/OAuth
+        https://twitter.com/docknetwork/status/1570034345649532931
+        https://twitter.com/auth0
+        https://auth0.com/docs/secure/tokens/json-web-tokens
+        https://en.wikipedia.org/wiki/OAuth
+
 
 - === URIs
 
@@ -102,26 +111,26 @@
 
 - Private off chain content - what about the ipfs blob header and the visibility of which users are in the blob?
 
+- https://webmonetization.org/
+- https://interledger.org/
+
+- CanDID - using existing credentials to prove things about you with TLS, intel SGX & maybe ZK
+    https://www.youtube.com/watch?v=Y-M6G5656PU
+    https://eprint.iacr.org/2020/934.pdf
+
 - how to: Not be visible that im part of some subreddit but still be included in the public counter?
 
 - use "scroll-to-text-fragment" for non-twitter external quotes in the URLs
-
-- figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
-https://en.wikipedia.org/wiki/OAuth
-https://twitter.com/docknetwork/status/1570034345649532931
-https://twitter.com/auth0
-https://auth0.com/docs/secure/tokens/json-web-tokens
 
 - what if you create a private post for 20 specific followers - you could insert a unique watermark which gets signed along with the payload and then if any of them leak it it would be known who did it - no more piracy?
 
 - new action type: grant ability to someone to "edit" & publish a new version of an item - but not to post on your behalf entirely - only if it's about a specific document or namespace/collection?
 
-- da pomislq: Kak tochno shte se proverqva authenticityto na private actions za accs bez keypair?
+- da pomislq: Kak tochno shte se proverqva authenticity-to na private actions za accs bez keypair?
 
-- capabilities-based delegation
-- Think about scopes of authorization - multidimensionality
 
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
+    https://en.wikipedia.org/wiki/Provenance
 
 - how to make things with a URI an NFT
 

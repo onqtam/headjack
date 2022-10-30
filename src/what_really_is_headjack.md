@@ -2,7 +2,7 @@
 it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
 -->
 
-# What really is Headjack
+# What REALLY is Headjack
 
 Let's explore a few mental models, analogies & points of view when thinking about Headjack:
 

@@ -51,6 +51,9 @@ http://www.backalleycoder.com/wp-content/uploads/2015/10/goat-to-cow-come-in-cow
 query IDMs directly for content by person X - polling mechanics like RSS
 
 
+https://solidproject.org/
+
+
 DMs
 https://github.com/farcasterxyz/protocol/issues/5
 

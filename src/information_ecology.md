@@ -95,6 +95,61 @@ the health of reporting on the web through video is appaling - decentralization 
 
 
 
+
+
+
+
+
+https://www.youtube.com/watch?v=v3F5Hsua4J4
+How Wisdom Can Protect Humanity from Technology
+- runaway technology ==> complexity gap: complexity of the issues vs ability to make sense of the complexity
+- GPT-3 & synthetic media
+
+- anti-wisdom:
+    - cognitive limits => information overload
+    - dopamine => addictive use
+    - social validation => influencer culture
+    - confirmation bias => fake news
+    - outrage => polarization
+    - trust => bots & deepfakes
+
+- social media creates perception gaps because of filter bubbles
+    - "how good are you at estimating what the other side believes?"
+    - what a group of ppl think vs reality
+    - because the extreme views are overly amplified
+    https://www.google.com/search?q=funhouse+mirror+charlie+chaplin
+
+- even if we know how biases work, we're still biased
+
+
+- silicon valley - current paradigm vs humane technologist
+    - give users what they 'want'       => respect human vulnerabilities
+    - every tech has goods & bads       => minimize harmful externalities
+    - we've always had moral panics     => 
+    - maximize personalization          => create shared understanding
+    - technology is neutral             => support fairness & justice
+    - who are we to choose              => consciously center values
+    - growth at all costs               => 
+    - obsess over metrics               => help people thrive
+    - capture attention                 => 
+
+https://www.humanetech.com/course
+
+
+
+
+
+race to the bottom of the brain stem
+
+
+
+> "We can't have the power of gods without the wisdom, love and prudence of gods." - [Daniel Schmachtenberger](https://twitter.com/danielschmach)
+
+
+
+
+
+
 https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2
 
 

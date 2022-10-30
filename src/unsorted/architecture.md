@@ -44,7 +44,6 @@ http://highscalability.com/all-time-favorites/
 
 
 
-
 alternative open source frontends:
 YouTube → Piped ( https://github.com/TeamPiped/Piped ), Invidious, FreeTube, Yattee
 Twitter → Nitter
@@ -53,6 +52,9 @@ TikTok → ProxiTok
 Reddit → LibReddit, Teddit
 
 twitch
+https://www.youtube.com/watch?v=7AMRfNKwuYo
+How Does Live Streaming Platform Work? (YouTube live, Twitch, TikTok Live)
+
 
 special-purpose networks?
 https://en.wikipedia.org/wiki/Strava
