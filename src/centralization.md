@@ -73,6 +73,9 @@ But despite the concentration of SSO services a lot of identity-related activity
 
 [Linktree](https://en.wikipedia.org/wiki/Linktree) is just a bandaid for today’s fragmentation of identity ([valued at 1.3B$](https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/)) - it is a symptom.
 
+
+TODO: move this to another page
+
 Contrast that to a world with interoperable & exportable identity/data:
 
 > “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)

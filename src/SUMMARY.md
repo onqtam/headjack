@@ -18,18 +18,18 @@
     - [Problems with the web](problems_with_the_web.md)
         - [The host-centric web](host_centric.md)
         - [The information ecology](information_ecology.md)
-        - [Centralization](centralization.md)
+        - [(WIP) Centralization](centralization.md)
         - [Silo vs interoperability](barriers_to_entry.md)
         - [Black boxes & bias](black_boxes.md)
         - [Specific platforms](specific_platforms.md)
-    - [History 2.0: the ledger of record](ledger_of_record.md)
+    - [(WIP) History 2.0: the ledger of record](ledger_of_record.md)
     - [Event streams & data legos](data_legos.md)
     - [Improved infrastructure](improved_infrastructure.md)
     - [Knowledge management](knowledge_management.md)
-    - [Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
-    - [Business models](business_models.md)
+    - [(WIP) Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
+    - [(WIP) Business models](business_models.md)
     - [Startup case study](startup_case_study.md)
-    - [What really is Headjack](what_really_is_headjack.md)
+    - [What REALLY is Headjack](what_really_is_headjack.md)
 
 <!-- Mental models for Headjack -->
 
