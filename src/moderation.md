@@ -162,6 +162,13 @@ https://maciek.blog/attention-as-a-source-of-scarcity-for-decentralized-identity
 https://en.wikipedia.org/wiki/Goodhart%27s_law
 
 
+> "the unaffiliated individual reporting some as-yet unseen fact, and the citizenry, en masse, discovering truth, together, IS the new media. this is the manifestation of the promise of the open internet. and it is vital." - [@friedberg](https://twitter.com/friedberg/status/1587118917213777920)
+
+> "i believe that platforms must create tools that shift responsibility from the citizen journalist (no policing of content) to the reader - with strong tools for filtering, preference, and influence selection being the core offering of the platform. not viral engagement." - [@friedberg](https://twitter.com/friedberg/status/1587118926340554752)
+
+> "by shifting responsibility to the reader, to clearly state what they do, and do not, want to see and read, and revealing to them what other readers "think" about particular content, perhaps we can engage people to think differently and have a more rounded discourse." - [@friedberg](https://twitter.com/friedberg/status/1587118928123158528)
+
+
 
 
 == detecting bots:

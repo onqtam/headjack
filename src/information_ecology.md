@@ -137,6 +137,8 @@ https://www.humanetech.com/course
 
 
 
+Not using instagram is too big of an ask - it means social separation. But what if... we make it easier to separate DMs from content & feeds we'd be able to compartmentalize our time better. But instagram doesn't have an app just for DMs - so you enter the main app and the first thing you see is the feed.
+TODO: separate section about separating DMs from content & feeds - IDMs vs media - wellbeing? compartmentalization?
 
 
 race to the bottom of the brain stem
@@ -146,6 +148,9 @@ race to the bottom of the brain stem
 > "We can't have the power of gods without the wisdom, love and prudence of gods." - [Daniel Schmachtenberger](https://twitter.com/danielschmach)
 
 
+
+incentives vs ethics
+https://twitter.com/TyrantsMuse/status/1586141500429459457
 
 
 
@@ -159,9 +164,7 @@ https://subconscious.substack.com/p/wiki-as-a-commons
 
 Just because you can type doesn't mean you can write. And just because you can write doesn't mean that you should
 
-“The real problem of humanity is the following:
-We have Paleolithic emotions, medieval institutions and godlike technology.”  
-— DR. E.O. WILSON, SOCIOBIOLOGIST
+“The real problem of humanity is the following: We have Paleolithic emotions, medieval institutions and godlike technology.” - DR. E.O. WILSON, SOCIOBIOLOGIST
 https://www.humanetech.com/
 
 https://www.humanetech.com/key-issues
