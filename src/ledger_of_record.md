@@ -3,6 +3,11 @@
 https://en.wikipedia.org/wiki/Non-repudiation
 
 Leaving an authentic digital footprint and path
+
+> "human society benefits massively from a timestamped ledger which is as complete as possible. Inclusion of events in the ledger should not be subject to any censorship pressure." - [@sreeramkannan](https://twitter.com/sreeramkannan/status/1586960579952246785)
+
+> "While it is not possible to bring this hardness to physical history, let us all try to build this timestamped *digital* event history which is as complete as possible, so we can get a new source of "hardness" that did not, and could not, exist before." - [@sreeramkannan](https://twitter.com/sreeramkannan/status/1586960584964440064)
+
 -->
 
 # History 2.0: the ledger of record
