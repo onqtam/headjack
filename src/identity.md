@@ -30,7 +30,7 @@ The vast majority of users will be lightweight: consumers & curators of content 
 
 <!-- https://en.wikipedia.org/wiki/1%25_rule -->
 
-Key & session management (rotation, authorization & revocation) [require](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) ordering that is [logically centralized](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274). It is compatible with any type of [DID](https://www.w3.org/TR/did-core/) - anything could be associated with an integer ID. The on-chain authorization has incredible synergy with the human-readable & persistent [addressing](addressing.md) for off-chain content.
+Key & session management (rotation, authorization & revocation) [require](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) ordering that is [logically centralized](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274). It is compatible with any type of [DID](https://www.w3.org/TR/did-core/) - anything could be associated with an integer ID. The on-chain authorization has great synergy with the human-readable & persistent [addressing](addressing.md) for off-chain content.
 
 <!-- meme: oprah - you get an identity, you get an identity, everyone gets an identity! -->
 

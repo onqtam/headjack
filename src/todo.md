@@ -19,6 +19,10 @@
 
     google: revoke oauth token
 
+    - zCaps
+        https://w3c-ccg.github.io/zcap-spec/
+        https://docs.walt.id/v/storage-kit/concepts/advanced-concepts/components/theory-authorization-capabilities
+
     - UCAN
         https://www.youtube.com/watch?v=grec5KQeU2U
         https://www.youtube.com/watch?v=rQgecoUvmjU
@@ -34,6 +38,17 @@
         https://auth0.com/docs/secure/tokens/json-web-tokens
         https://en.wikipedia.org/wiki/OAuth
 
+
+    - revocation
+        https://github.com/google/trillian/blob/master/docs/papers/RevocationTransparency.pdf
+
+        https://webcache.googleusercontent.com/search?q=cache:HjwUSYfeg2UJ:https://www.links.org/files/RevocationTransparency.pdf&cd=1&hl=bg&ct=clnk&gl=bg
+
+        https://fc18.ifca.ai/bitcoin/papers/bitcoin18-final29.pdf
+
+        https://www.researchgate.net/profile/Nikita-Korzhitskii/publication/359054411_Postcertificates_for_Revocation_Transparency/links/622611aaa39db062db87f509/Postcertificates-for-Revocation-Transparency.pdf
+
+        https://dl.acm.org/doi/10.1145/2019599.2019602
 
 - === URIs
 
@@ -87,11 +102,24 @@
 
 == RESEARCH:
 
+- single use credential
+
+- blind signature
+
+- accumulators
+    https://en.wikipedia.org/wiki/Accumulator_(cryptography)
+    Accumulator (cryptography) vs merkle tree
+    https://medium.com/asecuritysite-when-bob-met-alice/bloom-filters-merkle-trees-and-accumulators-27bc2f7baf5a
+
 - https://web.dev/signed-exchanges/
 
-- same origin policy
+- same origin policy & CORS
     https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
     https://twitter.com/gordonbrander/status/1536721539818606592
+    https://en.wikipedia.org/wiki/Same-origin_policy
+
+    https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+    https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
 - https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/
 
@@ -117,6 +145,7 @@
 - CanDID - using existing credentials to prove things about you with TLS, intel SGX & maybe ZK
     https://www.youtube.com/watch?v=Y-M6G5656PU
     https://eprint.iacr.org/2020/934.pdf
+    https://www.candid.id/
 
 - how to: Not be visible that im part of some subreddit but still be included in the public counter?
 
@@ -133,6 +162,8 @@
     https://en.wikipedia.org/wiki/Provenance
 
 - how to make things with a URI an NFT
+
+- Only ipfs hash to a header blob and no merkle root on chain?
 
 - Think about Headjack through the lens of Palantir Foundry & granular data access & permissions
 
@@ -155,6 +186,7 @@ paywalls? how?
 How to create a view of the discussion with only paid subscribers?
 
 - explore how to link private details to identity with ZK
+    ppl will anonymously talk about companies and prove stuff with ZK and others will make algorithms to surface such signal
 
 - telegram and such mass group chats & channels
 
@@ -238,6 +270,17 @@ Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Q
 # memes
 
 - Drake: no middlemen, better aligned middlemen
+
+# licenses & trademarks
+
+Headjack trademark is free!
+https://uspto.report/TM/85455962
+
+Need to buy this model for the logo?
+https://www.threeding.com/3d-model/10127-headjack-from-matrix-1999
+https://cults3d.com/en/3d-model/various/headjack-from-the-matrix-1999
+https://www.renderhub.com/cosplayitemsrock/headjack-from-the-matrix-1999
+https://in.pinterest.com/pin/headjack-from-the-matrix-1999--788692953497982225/
 
 # Phrases that don't have a place yet
 

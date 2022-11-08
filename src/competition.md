@@ -78,7 +78,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:green">Ethereum ZK rollup with multiple blocks in one L1 slot !!! TODO: !!! ADD FOOTNOTE ABOUT SECURITY OF SUCH BLOCKS</td>
+    <td style="background-color:green">Ethereum ZK validium with multiple blocks in one L1 slot !!! TODO: !!! ADD FOOTNOTE ABOUT SECURITY OF SUCH BLOCKS</td>
     <td style="background-color:yellow">Ethereum</td>
     <td style="background-color:#88ff00">Polkadot</td>
     <td style="background-color:green">centralized consortium of servers</td>
@@ -108,7 +108,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Decentralization for the most important parts</b></td>
-    <td style="background-color:#88ff00">Ethereum ZK rollup with external data availability (validium) - <a href="https://www.layrlabs.com/products">EigenDA</a>?</td>
+    <td style="background-color:#88ff00">Ethereum ZK validium with external data availability (validium) - <a href="https://www.layrlabs.com/products">EigenDA</a>?</td>
     <td style="background-color:green">Ethereum</td>
     <td style="background-color:#88ff00">Polkadot - not big enough set of validators</td>
     <td style="background-color:red">centralized consortium of servers</td>
@@ -432,6 +432,9 @@ Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs
 
 Built on the [Ceramic protocol](https://github.com/ceramicnetwork/ceramic/blob/main/SPECIFICATION.md) & [network](https://ceramic.network/).
 
+TODO: working on incentives for pinning
+https://twitter.com/joelthorst/status/1588863780301156352
+
 - Requires the use of keypairs & wallets.
 
 - Every user has their own Ceramic data stream on top of IPFS - it is yet to be proven that the DHT & p2p layers can scale to hundreds of millions or billions of people.
@@ -456,6 +459,15 @@ For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, S
 - [Decentralized Social Networks](https://medium.com/decentralized-web/decentralized-social-networks-e5a7a2603f53) - Jay Gerber
 - [Blockchain Social Networks](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970) - Jay Gerber
 - There are [many other projects](https://mirror.xyz/shreyjain.eth/TyBzMOegl3rMNxpAFoJ36MjE0pGfdLcrVCBgy-x3qS8) in this space.
+
+
+<!--
+
+
+on mastodon
+https://twitter.com/martinkl/status/1588823207284539392
+-->
+
 
 
 <!-- <div style="text-align: center;">

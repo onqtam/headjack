@@ -237,6 +237,21 @@ traditional web2 companies/apps/websites will be able to gradually transition an
 
 <!--
 
+
+
+Business models - what can IDMs charge for - archive content more than 5gb
+
+
+
+Twitters revenue does not go to its users - 0 attribution for them
+
+
+"Linking to the primary source should be the norm!"
+https://twitter.com/VitalikButerin/status/1588710604935958528
+"The only links they want you clicking are to other articles on the same site"
+https://twitter.com/timo_quinn/status/1588711124345950210
+
+
 make a diagram how the advertising money flows in youtube between the different actors and how it would flow in headjack
 SANKEY DIAGRAM !!!
 https://developers.google.com/chart/interactive/docs/gallery/sankey

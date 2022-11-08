@@ -125,10 +125,29 @@ https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
 https://a16zcrypto.com/social-network-status-traps-web2-learnings/
 
 
+
+Yishan's point: it's about user behavior and not so much about content
+https://twitter.com/yishan/status/1586955288061452289
+https://news.ycombinator.com/item?id=33449791
+
+
+https://slashdot.org/faq/metamod.shtml
+
+
 18+ content?
 
 
 hope for spam & moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email
+
+
+crowdsourced fact checking on Twitter
+https://twitter.github.io/birdwatch
+https://twitter.com/birdwatch
+https://github.com/twitter/birdwatch/blob/main/birdwatch_paper_2022_10_27.pdf
+https://news.ycombinator.com/item?id=33478845
+https://news.ycombinator.com/item?id=33480904
+https://news.ycombinator.com/item?id=33479530
+
 
 
 BS Asymmetry Principle
@@ -175,3 +194,6 @@ https://en.wikipedia.org/wiki/Goodhart%27s_law
 - President Trump makes a tweet -- how was his tweet retweeted during the first few minutes afterwards? This method would help to detect bot-like activity on Twitter by scanning time blocks right after a specific account makes a tweet to see if the same accounts are active each time.
     https://docs.google.com/document/d/1xVrPoNutyqTdQ04DXBEZW4ZW4A5RAQW2he7qIpTmG-M/edit
 
+
+
+> "As I've said for a long time, I don't mind moderation, I just want to be in charge of what I see. Give me the tools that the moderators have, let me be able to filter out bots at some confidence level; let me see "removed" posts, banned accounts; don't mess with my searches unless I've asked for that explicitly. Power to the people." - [source](https://news.ycombinator.com/item?id=33447848)
