@@ -38,6 +38,10 @@ Oauth as a partner
 https://www.defmacro.org/2019/03/26/startup-checklist.html
 
 
+distribution must be prioritized!
+https://twitter.com/FoundersPodcast/status/1589016929439993856
+
+
 partner with:
 - https://www.alchemy.com/
 - https://twitter.com/_n_x_y_z_/status/1580136531552915456
@@ -54,8 +58,7 @@ https://en.wikipedia.org/wiki/Let%27s_Encrypt
 
 vampire attack twitter - by george hotz
 https://geohot.github.io/blog/jekyll/update/2022/04/16/vampire-attack-twitter.html
-
-
+https://twitodon.com/
 
 
 - bootstrapping with ppl will be the hardest problem actually.

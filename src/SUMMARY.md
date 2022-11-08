@@ -25,7 +25,7 @@
     - [(WIP) History 2.0: the ledger of record](ledger_of_record.md)
     - [Event streams & data legos](data_legos.md)
     - [Improved infrastructure](improved_infrastructure.md)
-    - [Knowledge management](knowledge_management.md)
+    - [Information management](knowledge_management.md)
     - [(WIP) Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
     - [(WIP) Business models](business_models.md)
     - [Startup case study](startup_case_study.md)

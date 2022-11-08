@@ -127,6 +127,11 @@ Biology is layers of dumb systems that cooperate and mediate between each other.
 
 Blockchains can play a major role in upgrading our systems of trust, reputation & coordination and it all depends on the arrangement of our technological building blocks. The things which unify us the most are: **1)** geography, **2)** language, **3)** ethnicity & culture, **4)** trade & currency, and **5)** <u>**media, narrative & history**</u> - Headjack is focused on unifying & improving the last of those.
 
+TODO:
+Humanity was born in the fog of war and for the first time we can build a global nervous system
+
+> "Because it consists of billions of bidirectional interactions per day, Twitter can be thought of as a collective, cybernetic super-intelligence" - [@elonmusk](https://twitter.com/elonmusk/status/1588081971221053440)
+
 > "First we build the tools, then they build us." - [Marshall McLuhan](https://www.goodreads.com/quotes/484955-first-we-build-the-tools-then-they-build-us)
 
 # Goals of Headjack
@@ -134,6 +139,8 @@ Blockchains can play a major role in upgrading our systems of trust, reputation 
 <!-- Goal: minimise friction for devs and users & enable permissionless innovation 
 No more gatekeepers
 a new era for communication, cooperation & compute
+- making [Public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) mainstream
+
 -->
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](knowledge_management.md#forking-media--communities) - identity should be controlled by no one

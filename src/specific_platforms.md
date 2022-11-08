@@ -24,6 +24,7 @@ A non-exhaustive list of additional problems (beyond what's already listed) with
 
 Twitter should have added this feature years ago: "follow" a thread (w/o having to comment as a hack way to do this).
 
+<!-- How about remembering how far along the chronological feed you've seen? -->
 
 <!-- tweets & comments without tagging is primitive and inefficient -->
 

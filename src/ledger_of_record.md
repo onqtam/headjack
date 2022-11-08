@@ -47,6 +47,8 @@ Another important aspect in improving coordination is to build applications that
 > "Common knowledge is often important for coordination. For example, a group of people might want to speak out about an issue, but only feel comfortable doing so if there’s enough of them speaking out at the same time that they have safety in numbers." [Vitalik](https://vitalik.ca/general/2022/06/12/nonfin.html)
 
 
+no mentioned "fact" shall remain unanchored/unreferenced - that's what stable URIs and intra-document addressing are for
+
 
 > "We are choked with news and starved of history." - [Will Durant](https://www.goodreads.com/quotes/8716601-we-are-choked-with-news-and-starved-of-history)
 
@@ -132,4 +134,8 @@ Papers can be split into text, data, code & results with all of them referencabl
 
 <!-- https://www.nature.com/articles/d41586-022-03256-9 -->
 
+
+TODO: bringing real-world data on-chain
+
+If we onboard the worlds information and build reputation systems, we will have solved the oracle problem of bringing facts & events to the blockchain. Example: the result of a ufc fight - no longer need an oracle as ufc itself will post the result in an unambiguous way
 

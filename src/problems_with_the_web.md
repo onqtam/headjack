@@ -7,6 +7,10 @@ There are other problems that aren't listed in this page but are mentioned in ot
 
 OMG HAVE A SECURITY SECTION! certificates, harder to do MITM attacks & spoof certificates, etc.
 
+A centralized org like twitter can be infiltrated by spies to understand who is behind some anonymous account and criticizing their regime
+
+Problems with the web section: human nature or the attention economy
+
 Lack of composability & interoperability
 -->
 

@@ -22,3 +22,7 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 1. [What really is Headjack](what_really_is_headjack.md)
 
 > "Millions saw the apple fall, but Newton was the one who asked why." - [Bernard Baruch](https://www.brainyquote.com/quotes/bernard_baruch_122011)
+
+<!--
+Managing information as a chapter name
+-->

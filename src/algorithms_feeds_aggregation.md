@@ -8,6 +8,10 @@ Multidimensional subscriptions & areas of interest can aid algorithms to serve m
 
 The most important aspect of today's media are the [recommendation systems](https://en.wikipedia.org/wiki/Recommender_system) that guide our attention and ultimately our thoughts, opinions & culture at scale. Most algorithms we use are [black boxes](problems_with_the_web.md#black-boxes--algorithmic-bias) - we don't know what they are nor how the ML models are parameterized & trained and if there's any (intentional) bias. And even if that was public information - there would be no way to check because we don't have access to the data either. Furthermore, nobody can build new competing indexes, models & recommendation engines and we're left with the lowest common denominator that optimizes mostly for engagement & time spent in the attention economy.
 
+
+Is it a coincidence that one of the most important papers in AI/ML that introduced transformers was called `"Attention is all you need"`?
+
+
 <!-- > "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - [Herbert A. Simon](https://www.brainyquote.com/quotes/herbert_a_simon_181919) -->
 
 <!-- toc -->
@@ -56,7 +60,17 @@ With open data, systems could show the overlap of communities and focus on what'
 > "The general trajectory of institutionalization associated with steadily increasing specialization, urbanization, and bureaucracy may mean that mass media will continue to rise in importance, playing the role of the juicy gossiper in our increasingly separated existence from one another." - [The Importance of Gossip Across Societies](https://publications.hse.ru/en/articles/135571129)
 
 <!--
+
+Bridging-Based Ranking - Author: Aviv Ovadya | May 17, 2022
+How Platform Recommendation Systems Might Reduce Division and Strengthen Democracy
+https://www.belfercenter.org/publication/bridging-based-ranking
+
+SQL query for feed:
+https://twitter.com/mbateman/status/1589011729618710528
+
 https://ground.news/
+
+https://www.improvethenews.org/
 
 https://twitter.com/disclosetv/status/1557800191700393984
 

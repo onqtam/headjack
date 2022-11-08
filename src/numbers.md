@@ -25,7 +25,7 @@ So far that is `141 bytes` which almost every transaction by an application or I
 
 # Naive scenario
 
-The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for [validium ZK rollups](https://twitter.com/eshita/status/1546911451125649408) as there are already DA solutions that offer [10 mb/s or even much more](https://twitter.com/apolynya/status/1517137629334056960).
+The initial version will target block bandwidth of up to 100 kb/s. This is not a problem for [ ZK validiums](https://twitter.com/eshita/status/1546911451125649408) as there are already DA solutions that offer [10 mb/s or even much more](https://twitter.com/apolynya/status/1517137629334056960).
 
 Assuming:
 - 1 MB block size & 10 second block time (100 kb/s of block bandwidth)
@@ -87,6 +87,11 @@ https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture
 numbers - state - one difference from other cryptos is that this one is append-only and could be designed to be easier on memory access patterns
 
 One difference with other blockchains is that accounts in Headjack are numbers and thus the state tree could be different.
+
+
+on eth state growth:
+https://twitter.com/SalomonCrypto/status/1587983584471633921
+https://hackmd.io/@vbuterin/state_size_management
 
 
 All on-chain changes just append data to one of the few attributes of:

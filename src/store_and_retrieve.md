@@ -40,3 +40,18 @@ There are multiple options:
     - Infrastructure companies that do the heavy lifting for applications and store everything.
     - The analog of the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive) in this ecosystem that also stores everything.
 - IPFS can be forked & reused with the following change: instead of delivering content based on the [CID](https://docs.ipfs.tech/concepts/content-addressing/) hash it can deliver the data + the necessary proofs based on Headjack URIs or their hash (they are unique) - any individual off-chain message that's been anchored would be retrievable as long as someone is hosting it in this p2p network (which needs bootstrapping - could be part of Headjack nodes). However, this won't be very performant due to the granular nature of individual messages with a URI and the use of a global [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table).
+
+
+<div style="text-align: center;">
+    <img src="images/meme_we_are_not_the_same_addressability_vs_storage.jpg">
+</div>
+
+<!-- you deal with storage and retrievability of data
+I address data
+permanently
+and allow for
+storage and
+location to
+change
+we are not the same
+https://imgflip.com/memegenerator/342785297/Gus-Fring-we-are-not-the-same -->
