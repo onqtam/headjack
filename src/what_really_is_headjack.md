@@ -63,6 +63,8 @@ https://en.wikipedia.org/wiki/Causal_consistency -->
 
 > "The “metaverse” as I like to envision it, is a globally shared and permanent digital reality not owned by any single entity that any company, platform, or person can plug into, regardless of where they are or what device they’re using." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 
+<img src="images/headjack-t-shirt_450_600.jpg" align="right" style="margin-left: 8px; width: 35%">
+
 In the Metaverse entities will connect & interact with information under a common global namespace & surf the web through competing applications & views that present & filter commonly addressable data in any way imaginable. It will be built on top of a layered stack of technologies & open protocols and <u>**underneath everything sit Headjack's primitives: identity, authorization & content addressing**</u>. All events can & will be interlinked, tied to identity & made easily referencable. Anything can be built & made composable & interoperable on top of these building blocks as long as they don't impose any constraints - no more walled gardens. Furthermore, the Metaverse is mostly about agency in creation - transaction, exchange & finance are not at the forefront and will be handled by other layers & protocols like generalized smart contract chains & NFTs.
 
 > "The metaverse isn’t a 3D world owned by some corporation. It’s a permissionless market-network which respects and interconnects all user-owned and cryptographically-secured digital identities, reputations, wallets, communities, spaces, and objects.<!-- It’s bootstrapping right now. -->" - [@naval](https://twitter.com/naval/status/1434586449068756993)
@@ -140,6 +142,8 @@ Humanity was born in the fog of war and for the first time we can build a global
 No more gatekeepers
 a new era for communication, cooperation & compute
 - making [Public key infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) mainstream
+
+- bring property rights to identity and data
 
 -->
 
