@@ -105,6 +105,13 @@ Let's empower them.
 
 <!--
 
+read these: tools & techniques for knowledge management:
+https://zettelkasten.de/posts/overview/
+https://numinous.productions/ttft/
+https://maggieappleton.com/garden-history
+
+
+
 The anonymous can get AI-generated animated avatars & build presence in our minds like never before.
 
 journalism is changing as more and more facts are accessible to anyone online in a sea of information - the future belongs to the narrators & curators -  those that dig through public data and expose corruption
