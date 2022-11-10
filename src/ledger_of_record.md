@@ -139,3 +139,10 @@ TODO: bringing real-world data on-chain
 
 If we onboard the worlds information and build reputation systems, we will have solved the oracle problem of bringing facts & events to the blockchain. Example: the result of a ufc fight - no longer need an oracle as ufc itself will post the result in an unambiguous way
 
+<div style="text-align: center;">
+    <img src="images/meme_conspiracy_web_of_trust.jpg">
+</div>
+
+<!-- imagine replacing all these lines & notes
+with local backups of public digital documents tied to identity & interlinked with permanent URIs + cryptographic proof
+https://imgflip.com/memegenerator/92084495/Charlie-Conspiracy-Always-Sunny-in-Philidelphia -->
