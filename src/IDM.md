@@ -8,6 +8,7 @@
 # DMs
 
 https://twitter.com/session_app
+https://twitter.com/THORmaximalist/status/1590702991798984704
 
 - DMs without keys - how?
     maybe rely on the identity providers - ACMs?
