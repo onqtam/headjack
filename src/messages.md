@@ -74,6 +74,7 @@ updates to old post...
 multiple edit events in parallel to the same original message? a fork? :|
 
 
+
 update to post - as a diff, with different kinds of diff algos?
 
 dislike button/protocol/spec? ⇒ reactions

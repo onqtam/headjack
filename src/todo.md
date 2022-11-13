@@ -240,6 +240,9 @@ Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Q
 
 - merge accounts?
 
+- fork a browser (chrome)
+    idea to fork chrome to support this URI scheme natively
+
 - Can Headjack be used interplanetary?
 
 - talk about the fact that anything can be self-hosted - IDMs & applications
@@ -284,7 +287,8 @@ https://in.pinterest.com/pin/headjack-from-the-matrix-1999--788692953497982225/
 
 # Phrases that don't have a place yet
 
-> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
+- digitally we are in the soviet union - you're not allowed to freely migrate from one part to another - you need to ask permission. Interoperable identity & permanent addressing enables everything on top
+
 
 
 > "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)

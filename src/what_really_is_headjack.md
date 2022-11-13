@@ -129,8 +129,7 @@ Biology is layers of dumb systems that cooperate and mediate between each other.
 
 Blockchains can play a major role in upgrading our systems of trust, reputation & coordination and it all depends on the arrangement of our technological building blocks. The things which unify us the most are: **1)** geography, **2)** language, **3)** ethnicity & culture, **4)** trade & currency, and **5)** <u>**media, narrative & history**</u> - Headjack is focused on unifying & improving the last of those.
 
-TODO:
-Humanity was born in the fog of war and for the first time we can build a global nervous system
+Civilization was born in the fog of war and [Satoshi](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) upgraded our capacity for trust & cooperation.
 
 > "Because it consists of billions of bidirectional interactions per day, Twitter can be thought of as a collective, cybernetic super-intelligence" - [@elonmusk](https://twitter.com/elonmusk/status/1588081971221053440)
 
