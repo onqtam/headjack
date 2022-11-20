@@ -67,7 +67,7 @@ Headjack follows the [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philos
 
 >"Developers care about risk." - [Haseeb](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
 
-It must be [**obvious & provable**](numbers.md) that the network has a **credible path to handling billions of users** if entrepreneurs are expected to jump on the opportunity. The easiest mental model will win over developers and users - [singletons](https://en.wikipedia.org/wiki/Singleton_pattern) & opinionated frameworks with a concrete direction are much simpler than a fractured landscape of standards, libraries & chains.
+It must be [**obvious & provable**](numbers.md) that the network has a **credible path to handling billions of users** if entrepreneurs are expected to jump on the opportunity. The easiest mental model will win over developers and users - [singletons](https://en.wikipedia.org/wiki/Singleton_pattern) & opinionated frameworks with a concrete direction are much simpler than a fractured landscape of standards, chains & bridges.
 
 <!-- Most crypto projects are toys compared to what Web2 has been doing in the past couple of decades -->
 
