@@ -31,12 +31,15 @@
 
     - Think about scopes of authorization - multidimensionality
 
-    - figure out a plan to plug into existing SAML/OAuth infrastructure for authentication and authorization
+    - figure out a plan to plug into existing SAML/OAuth/OpenID infrastructure for authentication and authorization
         https://en.wikipedia.org/wiki/OAuth
         https://twitter.com/docknetwork/status/1570034345649532931
         https://twitter.com/auth0
         https://auth0.com/docs/secure/tokens/json-web-tokens
         https://en.wikipedia.org/wiki/OAuth
+
+        !!! What Is Single Sign-on (SSO)? How It Works !!!
+        https://www.youtube.com/watch?v=O1cRJWYF-g4
 
 
     - revocation

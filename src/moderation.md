@@ -124,6 +124,11 @@ https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
 
 https://a16zcrypto.com/social-network-status-traps-web2-learnings/
 
+gini coeficient
+https://twitter.com/dwr/status/1592557080573280257
+https://arxiv.org/pdf/1601.07200.pdf
+
+
 
 
 Yishan's point: it's about user behavior and not so much about content
@@ -135,6 +140,7 @@ https://slashdot.org/faq/metamod.shtml
 
 
 18+ content?
+
 
 
 hope for spam & moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email
