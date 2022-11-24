@@ -153,6 +153,15 @@ https://github.com/twitter/birdwatch/blob/main/birdwatch_paper_2022_10_27.pdf
 https://news.ycombinator.com/item?id=33478845
 https://news.ycombinator.com/item?id=33480904
 https://news.ycombinator.com/item?id=33479530
+Bridging-Based Ranking - Author: Aviv Ovadya | May 17, 2022
+How Platform Recommendation Systems Might Reduce Division and Strengthen Democracy
+https://www.belfercenter.org/publication/bridging-based-ranking
+twitter birdwatch uses it
+https://www.wired.com/story/elon-musk-embraces-twitters-radical-crowdsourcing-experiment/
+"Birdwatch today is like a little baby version of something like an integrated oracle. Wisely, Birdwatch has given itself a much easier job, because it is designed to be wide rather than deep—to rapidly surface undisputed information at scale, not to deeply analyze disputed questions."
+https://graymirror.substack.com/p/designing-the-ministry-of-truth
+
+
 
 
 

@@ -64,6 +64,13 @@ With open data, systems could show the overlap of communities and focus on what'
 Bridging-Based Ranking - Author: Aviv Ovadya | May 17, 2022
 How Platform Recommendation Systems Might Reduce Division and Strengthen Democracy
 https://www.belfercenter.org/publication/bridging-based-ranking
+twitter birdwatch uses it
+https://www.wired.com/story/elon-musk-embraces-twitters-radical-crowdsourcing-experiment/
+
+
+todo: read this
+https://aviv.substack.com/p/platform-democracy-a-different-way-to-govern
+
 
 SQL query for feed:
 https://twitter.com/mbateman/status/1589011729618710528

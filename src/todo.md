@@ -172,6 +172,8 @@
 
 - What if the application web2 website is no longer around?
 
+- how to handle live streaming? what should the URI point to? what's the message type?
+
 - Topics such as $RUNE & hashtags - how do they get parsed?
 
 - https://indieweb.org/Webmention
