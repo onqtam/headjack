@@ -246,6 +246,10 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 
 <!--
 
+
+are applications bottlenecked by the personal data repository of a user? yes in the case of farcaster & bluesky
+
+
 Order of data determined by the URI as a line
 
 Value capture potential as a line
