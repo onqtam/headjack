@@ -236,11 +236,6 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - resolve differences in tenses - can/will/is - present and future
 - more bold in the text to highlight specific sentences & give them more weight
 
-
-== pitch deck:
-https://twitter.com/thealexbanks/status/1551562525732327426
-Jason Choi, Avichal, Valentin Mihov, Protocol Labs, 9 realms (orion & others), Qi life?
-
 # Postponed
 
 - merge accounts?
