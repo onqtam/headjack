@@ -57,6 +57,7 @@ revisions of messages (edit/delete)
 https://github.com/regular/ssb-revisions
 
 New polling/info contribution ways
+polling message type
 
 TODO: look at Data models in ceramic!
 
