@@ -8,6 +8,11 @@ One major problem of the current [host-centric](host_vs_data_centric.md#todays-w
 
 > "More than 98% of the information on the web is lost within 20 years" - [a16z Podcast](https://a16z.com/2020/07/13/a16z-podcast-preserving-digital-history-how-to-close-the-webs-memory-hole/)
 
+<!--
+
+https://twitter.com/emollick/status/1541617216130531328
+-->
+
 > "The problem is that the foundations are shifting sands, and we need something that has significantly more integrity at the bottom layer, we can't just bolt [URNs](https://en.wikipedia.org/wiki/Uniform_Resource_Name) on as an afterthought. Some organizations are able to maintain persistent data over time, but it is in spite of the technology, not because of it." - [tgbugs](https://news.ycombinator.com/item?id=27691442)
 
 > "Society can’t understand itself if it can’t be honest with itself, and it can’t be honest with itself if it can only live in the present moment." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)

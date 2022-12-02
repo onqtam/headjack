@@ -57,7 +57,7 @@ https://en.wikipedia.org/wiki/Memory_coherence
 https://en.wikipedia.org/wiki/Cache_coherence
 https://en.wikipedia.org/wiki/Causal_consistency -->
 
-# The Metaverse is the Matrix
+# The Matrix is the Metaverse
 
 ***And Headjack is [the interface](https://matrix.fandom.com/wiki/Headjack).***
 
@@ -92,6 +92,93 @@ omniverse usd (universal scene description)
 > "Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 -->
 
+<!--
+
+# The second thin waist of the Internet
+
+
+there is an economic flywheel
+- more permissionlessly built components which need to be solved only once (also unique - many impossible until now)
+- more features in composable media with a lower barrier to entry
+- more demand from users due to increased & unique value
+- more room for making money - either through ads and/or new business models
+
+The core enabler for this is the end of the host-centric model and linking data to sovereign identity - making it portable & interoperable between applications.
+
+The core is an unopinionated identity shared database that merely provides addressing of data - a universal connector of networks.
+
+
+
+<img src="images/internet_protocol_stack_hour_glass.jpg">
+
+source: https://twitter.com/alive_eth/status/1228348431443214338
+
+The second narrow waist of the internet
+
+decoupling storage & location from applications?
+
+by providing a single shared database at web-scale:
+1) it allows the addressable market for the supply side - application & service providers - to span the totality of all user needs that might ever be demanded
+2) it allows the demand side - users - to pick and choose services while still everything is linked to their identity & data is interoperable
+2) it makes sure that all actions will be linked to identity? weak phrasing :|
+
+
+every problem needs to be solved only once
+
+A narrow waist should be radically unopinionated about what goes on below or on top of it
+
+An ecosystem on a shared identity layer will outperform closed source solutions not only because of the permissionless innovation but also because of the reduced effort and code reuse
+
+A narrow waist protocol is a constraint that unconstraints everything on top of it when communicating with everything on the bottom
+
+layers can evolve independently of one another - when there are no leaky abstractions
+
+> "The problem with abstraction layers is combinatorial explosion. "
+> "Abstractions leak all the time; there is an explicit cost in terms of hooking things up, and implicit costs in terms of edge cases, dependency management/upgrade/maintenance costs and decision fatigue. Individually, each abstraction might bring enough value to overcome its costs. However the combinatorics of M x N x O x P abstractions in each layer is an externality weighing down the entire ecosystem."
+https://www.swyx.io/narrow-waists
+
+> "So a “narrow waist” intentionally keeps one or more of the middle layers small. This allows for two things:
+- the marketplace effect: lower and upper layers can specialize and optimize to that narrow waist, to the point that they don’t have to worry about the existence of other layers on the other side
+- focus: the concentration of resources on optimizing the specific technology at the waist to make it the best it can be, since there is little other choice"
+https://www.swyx.io/narrow-waists
+
+The Internet Was Designed With a Narrow Waist
+https://www.oilshell.org/blog/2022/02/diagrams.html
+
+- Narrow waists enable interoperability, e.g. in networking, but also in software.
+- Narrow waists avoid writing O(M × N) amounts of code. They make large systems feasible to implement.
+Narrow waist, Thin waist
+Hourglass model
+Distinguished layer, Spanning layer, Universal layer
+
+O(M × N) code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems. This problem can often be mitigated by better software architecture, e.g. with protocols, interchange formats, or intermediate representations.
+https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion
+
+the narrow waist is the most important idea in software architecture, because it describes the biggest and longest-lived systems.
+https://www.oilshell.org/blog/2022/03/backlog-arch.html
+
+The hour glass
+
+The narrow waist is not something god gives you - it's something you have to purposefully make
+> "This narrow waist is not something that God gives you. It's something that you make. It's hard engineering." - [Van Jacobsen](https://www.youtube.com/watch?v=69p78tfm29o)
+https://www.oilshell.org/blog/2022/03/backlog-arch.html
+
+
+This has to be something simple and stable - which you should be able to count on
+
+Unix uses multiple narrow waists to achieve dynamic and extensible polymorphism.
+https://www.oilshell.org/blog/2022/03/backlog-arch.html
+
+Perlis-Thompson Principle. Software with fewer concepts composes, scales, and evolves more easily.
+https://www.oilshell.org/blog/2021/12/review-arch.html
+https://github.com/oilshell/oil/wiki/Perlis-Thompson-Principle
+
+
+Unix and Google
+https://www.youtube.com/watch?v=3Ea3pkTCYx4
+Coding the Perimeter vs. Coding the Area (from the Unix vs. Google video)
+-->
+
 # The supermassive digital gravity well
 
 Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.
@@ -104,34 +191,50 @@ Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel
 
 > "Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
 
-# Technology, media, the Internet & society
+# Media & the Internet
 
 Evolution is 99.9% memetic at this point & accelerating exponentially. If finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), then media is the battleground of ideas and is just as fundamental.
 
 > "The medium is the message" - [Marshall McLuhan](https://en.wikipedia.org/wiki/The_medium_is_the_message) proposes that a communication medium itself, not the messages it carries, should be the primary focus of study.
 
-At the root of our greatest challenges are [coordination failures](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). We are like an ant colony suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history, plagued by short-sightedness & nihilism, playing status games, and running exponential processes in a finite world.
-
 > "If code scripts machines, media scripts human beings." - [@balajis](https://twitter.com/tferriss/status/1582060370482429953)
 
+At the root of our greatest challenges are [coordination failures](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). We are like an ant colony suffering from multiple personality disorder - trapped in multipolar traps, segregated into fabricated factions, oblivious to game theory/markets/economics/history & human nature, plagued by short-sightedness & nihilism, playing status games, and running exponential processes in a finite world. Furthermore:
+
+> "The internet has massively increased the complexity of our information environment, but hasn’t yet produced the tools to make sense of it. Old forms of social sensemaking—institutions, universities, democracy, tradition—all seem to be DDOS’d by the new information environment. They can’t keep up!" - [source](https://subconscious.substack.com/p/thinking-together)
+
+> "We fractally fragment understandings, then algorithmically amplify the confusion to maximize engagement." - [source](https://subconscious.substack.com/p/thinking-together)
+
 Cooperating flexibly in large numbers has led us to an evolutionary advantage - first through stories and then [markets, clocks](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/
-) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Mechanisms that make those more efficient benefit the species.
+) & [bits](https://a16z.com/2011/08/20/why-software-is-eating-the-world/). Mechanisms that make those more efficient benefit the species. The current shape of the Internet is just a local maximum due to gradient descent and we can change it.
+
+> "The Internet is the largest engineering project the earth has ever seen - and we're just getting started" - [Barrett Lyon](https://en.wikipedia.org/wiki/Barrett_Lyon), founder of [OPTE Project](https://www.opte.org/)
 
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-> "The Internet is the largest engineering project the earth has ever seen - and we're just getting started" - [Barrett Lyon](https://en.wikipedia.org/wiki/Barrett_Lyon), founder of [OPTE Project](https://www.opte.org/)
-
-Biology is layers of dumb systems that cooperate and mediate between each other. Humans are just a collection of cells - including the "central" nervous system - cells that play along and cooperate which leads to the emergence of consciousness and intelligence. There’s no fundamental reason for humans to not be able to assemble into a unified global [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) - a [hive mind](https://en.wikipedia.org/wiki/Global_brain).
+Civilization was born in the fog of war and [Satoshi](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) upgraded our capacity for trust & cooperation.
 
 > "I think just like the internet built information, super highways, I think blockchain is building the cooperation super, super highways." - [Sreeram Kannan](https://twitter.com/sreeramkannan), [source](https://www.listennotes.com/podcasts/zero-knowledge/episode-217-information-pZEIhHAVQwe/)
 
 Blockchains can play a major role in upgrading our systems of trust, reputation & coordination and it all depends on the arrangement of our technological building blocks. The things which unify us the most are: **1)** geography, **2)** language, **3)** ethnicity & culture, **4)** trade & currency, and **5)** <u>**media, narrative & history**</u> - Headjack is focused on unifying & improving the last of those.
 
-Civilization was born in the fog of war and [Satoshi](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) upgraded our capacity for trust & cooperation.
+> "When a society hits the information scaling threshold, it stalls out. It can’t function until it invents new ways of making sense that can cope with the complexity of the information environment." - [source](https://subconscious.substack.com/p/thinking-together)
+
+> "The complexity of a sensemaking system must match the complexity of the environment." - [source](https://subconscious.substack.com/p/thinking-together)
+
+# The path to AGI (the G is [Global](https://twitter.com/Sara_Imari/status/1400922067919376384))
+
+> "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
+
+Biology is layers of "dumb" systems that cooperate and mediate between each other. Humans are just a collection of cells - including the "central" nervous system - and they play along and cooperate which leads to the emergence of consciousness and intelligence. There’s no fundamental reason for humans to not be able to assemble into a unified global [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) - a [hive mind](https://en.wikipedia.org/wiki/Global_brain).
+
+> "Every follow is a synapse in a global metabrain" - [Danielle Fong](https://twitter.com/DanielleFong/status/1559185769016729606)
 
 > "Because it consists of billions of bidirectional interactions per day, Twitter can be thought of as a collective, cybernetic super-intelligence" - [@elonmusk](https://twitter.com/elonmusk/status/1588081971221053440)
+
+The [seminal AI paper](https://arxiv.org/abs/1706.03762) on [transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) from 2017 is called `"Attention Is All You Need"`. The way we engineer the application of our attention globally will determine the course of humanity.
 
 > "First we build the tools, then they build us." - [Marshall McLuhan](https://www.goodreads.com/quotes/484955-first-we-build-the-tools-then-they-build-us)
 

@@ -28,6 +28,11 @@
         https://www.youtube.com/watch?v=rQgecoUvmjU
         https://ucan.xyz/
         https://fission.codes/blog/auth-without-backend/
+        https://blog.web3.storage/posts/intro-to-ucan
+
+    - research: Capability-based security vs traditional UNIX permissions and Access Control Lists.
+        https://en.wikipedia.org/wiki/Capability-based_security
+        https://en.wikipedia.org/wiki/Principle_of_least_privilege
 
     - Think about scopes of authorization - multidimensionality
 
@@ -160,7 +165,6 @@
 
 - da pomislq: Kak tochno shte se proverqva authenticity-to na private actions za accs bez keypair?
 
-
 - off-chain NFTs as verifiable credentials? ways to change ownership on-chain?
     https://en.wikipedia.org/wiki/Provenance
 
@@ -238,7 +242,10 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 # Postponed
 
-- merge accounts?
+- merge accounts created from different IDMs?
+
+- think about "Feature Detection Is Better than Version Detection"
+    https://github.com/oilshell/oil/wiki/Feature-Detection-Is-Better-than-Version-Detection
 
 - fork a browser (chrome)
     idea to fork chrome to support this URI scheme natively
