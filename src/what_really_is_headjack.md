@@ -92,92 +92,41 @@ omniverse usd (universal scene description)
 > "Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 -->
 
+# The second narrow waist of the Internet
 <!--
+Hourglass model, Distinguished layer, Spanning layer, Universal layer
+-->
 
-# The second thin waist of the Internet
+> "The narrow waist is the most important idea in software architecture, because it describes the biggest and longest-lived systems." - [source](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
 
+Everything in software deals with abstractions but very few are done right:
 
-there is an economic flywheel
-- more permissionlessly built components which need to be solved only once (also unique - many impossible until now)
-- more features in composable media with a lower barrier to entry
-- more demand from users due to increased & unique value
-- more room for making money - either through ads and/or new business models
+<!-- The problem with abstraction layers is combinatorial explosion. -->
 
-The core enabler for this is the end of the host-centric model and linking data to sovereign identity - making it portable & interoperable between applications.
+> "Abstractions leak all the time; there is an explicit cost in terms of hooking things up, and implicit costs in terms of edge cases, dependency management/upgrade/maintenance costs and decision fatigue. Individually, each abstraction might bring enough value to overcome its costs. However the combinatorics of M x N x O x P abstractions in each layer is an externality weighing down the entire ecosystem." - [source](https://www.swyx.io/narrow-waists)
 
-The core is an unopinionated identity shared database that merely provides addressing of data - a universal connector of networks.
-
-
+A narrow waist protocol is a constraint that unconstrains everything on top of it when communicating with everything on the bottom - allowing for the 2 layers to evolve independently of one another. It should be radically simple, minimalistic, stable & unopinionated about what goes on below or on top of it. The [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) is perhaps the best example:
 
 <img src="images/internet_protocol_stack_hour_glass.jpg">
-
-source: https://twitter.com/alive_eth/status/1228348431443214338
-
-The second narrow waist of the internet
-
-decoupling storage & location from applications?
-
-by providing a single shared database at web-scale:
-1) it allows the addressable market for the supply side - application & service providers - to span the totality of all user needs that might ever be demanded
-2) it allows the demand side - users - to pick and choose services while still everything is linked to their identity & data is interoperable
-2) it makes sure that all actions will be linked to identity? weak phrasing :|
-
-
-every problem needs to be solved only once
-
-A narrow waist should be radically unopinionated about what goes on below or on top of it
-
-An ecosystem on a shared identity layer will outperform closed source solutions not only because of the permissionless innovation but also because of the reduced effort and code reuse
-
-A narrow waist protocol is a constraint that unconstraints everything on top of it when communicating with everything on the bottom
-
-layers can evolve independently of one another - when there are no leaky abstractions
-
-> "The problem with abstraction layers is combinatorial explosion. "
-> "Abstractions leak all the time; there is an explicit cost in terms of hooking things up, and implicit costs in terms of edge cases, dependency management/upgrade/maintenance costs and decision fatigue. Individually, each abstraction might bring enough value to overcome its costs. However the combinatorics of M x N x O x P abstractions in each layer is an externality weighing down the entire ecosystem."
-https://www.swyx.io/narrow-waists
-
-> "So a “narrow waist” intentionally keeps one or more of the middle layers small. This allows for two things:
-- the marketplace effect: lower and upper layers can specialize and optimize to that narrow waist, to the point that they don’t have to worry about the existence of other layers on the other side
-- focus: the concentration of resources on optimizing the specific technology at the waist to make it the best it can be, since there is little other choice"
-https://www.swyx.io/narrow-waists
-
-The Internet Was Designed With a Narrow Waist
-https://www.oilshell.org/blog/2022/02/diagrams.html
-
-- Narrow waists enable interoperability, e.g. in networking, but also in software.
-- Narrow waists avoid writing O(M × N) amounts of code. They make large systems feasible to implement.
-Narrow waist, Thin waist
-Hourglass model
-Distinguished layer, Spanning layer, Universal layer
-
-O(M × N) code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems. This problem can often be mitigated by better software architecture, e.g. with protocols, interchange formats, or intermediate representations.
-https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion
-
-the narrow waist is the most important idea in software architecture, because it describes the biggest and longest-lived systems.
-https://www.oilshell.org/blog/2022/03/backlog-arch.html
-
-The hour glass
-
-The narrow waist is not something god gives you - it's something you have to purposefully make
-> "This narrow waist is not something that God gives you. It's something that you make. It's hard engineering." - [Van Jacobsen](https://www.youtube.com/watch?v=69p78tfm29o)
-https://www.oilshell.org/blog/2022/03/backlog-arch.html
-
-
-This has to be something simple and stable - which you should be able to count on
-
-Unix uses multiple narrow waists to achieve dynamic and extensible polymorphism.
-https://www.oilshell.org/blog/2022/03/backlog-arch.html
-
-Perlis-Thompson Principle. Software with fewer concepts composes, scales, and evolves more easily.
-https://www.oilshell.org/blog/2021/12/review-arch.html
-https://github.com/oilshell/oil/wiki/Perlis-Thompson-Principle
-
-
-Unix and Google
-https://www.youtube.com/watch?v=3Ea3pkTCYx4
-Coding the Perimeter vs. Coding the Area (from the Unix vs. Google video)
+<!-- source:
+https://twitter.com/alive_eth/status/1228348431443214338
 -->
+
+> "A “narrow waist” intentionally keeps one or more of the middle layers small. This allows for:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• **the marketplace effect**: lower and upper layers can specialize and optimize to that narrow waist, and thus they don’t have to worry about the existence of other layers on the other side<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• **focus**: the concentration of resources on optimizing the specific technology at the waist to make it the best it can be, since there is little other choice" - [source](https://www.swyx.io/narrow-waists)
+
+This fundamental concept is the reason [UNIX](https://en.wikipedia.org/wiki/Unix) is now the dominant operating system architecture.
+
+> "Unix uses multiple narrow waists to achieve dynamic and extensible polymorphism." - [source](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
+
+The [`"Unix and Google"`](https://www.youtube.com/watch?v=3Ea3pkTCYx4) video beautifully explains the concept of `Coding the Perimeter` vs. `Coding the Area` where the work for the **perimeter** is `O(M + N)` but for the **area** it is `O(M × N)`.
+
+> "`O(M × N)` code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems." - [source](https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion)
+
+Currently social media applications have to reimplement the same functionality & [vertically integrate](barriers_to_entry.md#vertical-integration-vs-marketscompetition) which is `O(M × N)`. With Headjack there'll be a market for every layer of the stack & solutions can be reused - `O(M + N)`. The core enabler for this is the linking of data to sovereign identity which leads to portability & interoperability between applications - the end of the host-centric model. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation but also because of the reduced effort and code reuse - every problem needs to be solved only once.
+
+> "This narrow waist is not something that God gives you. It's something that you make. It's hard engineering." - [Van Jacobsen](https://www.oilshell.org/blog/2022/03/backlog-arch.html), Internet pioneer
 
 # The supermassive digital gravity well
 
