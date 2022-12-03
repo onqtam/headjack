@@ -2,7 +2,6 @@
 authors = ["onqtam"]
 language = "en"
 multilingual = false
-google_analytics_id = "UA-177858350-1"
 src = "src"
 title = "Headjack - the base layer of cyberspace"
 
