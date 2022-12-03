@@ -163,9 +163,9 @@ it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
 <li><a href="#identity---the-base-layer-of-cyberspace">Identity - the base layer of cyberspace</a></li>
 <li><a href="#the-global-event-bus--pub-sub">The global event bus / pub-sub</a></li>
 <li><a href="#the-address-space-of-the-world-computer">The address space of the World Computer</a></li>
-<li><a href="#the-matrix-is-the-metaverse">The Matrix is the Metaverse</a></li>
 <li><a href="#the-second-narrow-waist-of-the-internet">The second narrow waist of the Internet</a></li>
 <li><a href="#the-supermassive-digital-gravity-well">The supermassive digital gravity well</a></li>
+<li><a href="#the-matrix-is-the-metaverse">The Matrix is the Metaverse</a></li>
 <li><a href="#media--the-internet">Media &amp; the Internet</a></li>
 <li><a href="#the-path-to-agi-the-g-is-global">The path to AGI (the G is Global)</a></li>
 <li><a href="#goals-of-headjack">Goals of Headjack</a></li>
@@ -207,6 +207,50 @@ https://en.wikipedia.org/wiki/Consistency_model
 https://en.wikipedia.org/wiki/Memory_coherence
 https://en.wikipedia.org/wiki/Cache_coherence
 https://en.wikipedia.org/wiki/Causal_consistency -->
+<h1 id="the-second-narrow-waist-of-the-internet"><a class="header" href="#the-second-narrow-waist-of-the-internet">The second narrow waist of the Internet</a></h1>
+<!--
+Hourglass model, Distinguished layer, Spanning layer, Universal layer
+-->
+<blockquote>
+<p>&quot;The narrow waist is the most important idea in software architecture, because it describes the biggest and longest-lived systems.&quot; - <a href="https://www.oilshell.org/blog/2022/03/backlog-arch.html">source</a></p>
+</blockquote>
+<p>Everything in software deals with abstractions but very few are done right:</p>
+<!-- The problem with abstraction layers is combinatorial explosion. -->
+<blockquote>
+<p>&quot;Abstractions leak all the time; there is an explicit cost in terms of hooking things up, and implicit costs in terms of edge cases, dependency management/upgrade/maintenance costs and decision fatigue. Individually, each abstraction might bring enough value to overcome its costs. However the combinatorics of M x N x O x P abstractions in each layer is an externality weighing down the entire ecosystem.&quot; - <a href="https://www.swyx.io/narrow-waists">source</a></p>
+</blockquote>
+<p>A narrow waist protocol is a constraint that unconstrains everything on top of it when communicating with everything on the bottom - allowing for the 2 layers to evolve independently of one another. It should be radically simple, minimalistic, stable &amp; unopinionated about what goes on below or on top of it. The <a href="https://en.wikipedia.org/wiki/Internet_Protocol">Internet Protocol</a> is perhaps the best example:</p>
+<img src="images/internet_protocol_stack_hour_glass.jpg">
+<!-- source:
+https://twitter.com/alive_eth/status/1228348431443214338
+-->
+<blockquote>
+<p>&quot;A “narrow waist” intentionally keeps one or more of the middle layers small. This allows for:<br>
+    • <strong>the marketplace effect</strong>: lower and upper layers can specialize and optimize to that narrow waist, and thus they don’t have to worry about the existence of other layers on the other side<br>
+    • <strong>focus</strong>: the concentration of resources on optimizing the specific technology at the waist to make it the best it can be, since there is little other choice&quot; - <a href="https://www.swyx.io/narrow-waists">source</a></p>
+</blockquote>
+<p>This fundamental concept is the reason <a href="https://en.wikipedia.org/wiki/Unix">UNIX</a> is now the dominant operating system architecture.</p>
+<blockquote>
+<p>&quot;Unix uses multiple narrow waists to achieve dynamic and extensible polymorphism.&quot; - <a href="https://www.oilshell.org/blog/2022/03/backlog-arch.html">source</a></p>
+</blockquote>
+<p>The <a href="https://www.youtube.com/watch?v=3Ea3pkTCYx4"><code>&quot;Unix and Google&quot;</code></a> video beautifully explains the concept of <code>Coding the Perimeter</code> vs. <code>Coding the Area</code> where the work for the <strong>perimeter</strong> is <code>O(M + N)</code> but for the <strong>area</strong> it is <code>O(M × N)</code>.</p>
+<blockquote>
+<p>&quot;<code>O(M × N)</code> code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems.&quot; - <a href="https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion">source</a></p>
+</blockquote>
+<p>Currently social media applications have to reimplement the same functionality &amp; <a href="barriers_to_entry.html#vertical-integration-vs-marketscompetition">vertically integrate</a> which is <code>O(M × N)</code>. With Headjack there'll be a market for every layer of the stack &amp; solutions can be reused - <code>O(M + N)</code>. The core enabler for this is the linking of data to sovereign identity which leads to portability &amp; interoperability between applications - the end of the host-centric model. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation not possible before, but also because of the reduced effort and code reuse - every problem needs to be solved only once.</p>
+<blockquote>
+<p>&quot;This narrow waist is not something that God gives you. It's something that you make. It's hard engineering.&quot; - <a href="https://www.oilshell.org/blog/2022/03/backlog-arch.html">Van Jacobsen</a>, Internet pioneer</p>
+</blockquote>
+<h1 id="the-supermassive-digital-gravity-well"><a class="header" href="#the-supermassive-digital-gravity-well">The supermassive digital gravity well</a></h1>
+<p>Headjack is a confluence of multiple interrelated things (identity, names, authorization &amp; addressing). Their synergy leads to the highest utility for names: they're <a href="names_and_paths.html">embedded in content URIs</a>. This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> - something which <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> would have had a much harder time doing on their own.</p>
+<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
+<blockquote>
+<p>&quot;The internet creates 1 giant aggregator for everything&quot; - <a href="https://youtu.be/3qHkcs3kG44?t=3527">@naval</a></p>
+</blockquote>
+<p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire web - acting as the coordination substrate of <a href="https://www.eff.org/cyberspace-independence">cyberspace</a>. It will disaggregate traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot;</code></a>.</p>
+<blockquote>
+<p>&quot;Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
+</blockquote>
 <h1 id="the-matrix-is-the-metaverse"><a class="header" href="#the-matrix-is-the-metaverse">The Matrix is the Metaverse</a></h1>
 <p><em><strong>And Headjack is <a href="https://matrix.fandom.com/wiki/Headjack">the interface</a>.</strong></em></p>
 <blockquote>
@@ -242,50 +286,6 @@ omniverse usd (universal scene description)
 
 > "Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 -->
-<h1 id="the-second-narrow-waist-of-the-internet"><a class="header" href="#the-second-narrow-waist-of-the-internet">The second narrow waist of the Internet</a></h1>
-<!--
-Hourglass model, Distinguished layer, Spanning layer, Universal layer
--->
-<blockquote>
-<p>&quot;The narrow waist is the most important idea in software architecture, because it describes the biggest and longest-lived systems.&quot; - <a href="https://www.oilshell.org/blog/2022/03/backlog-arch.html">source</a></p>
-</blockquote>
-<p>Everything in software deals with abstractions but very few are done right:</p>
-<!-- The problem with abstraction layers is combinatorial explosion. -->
-<blockquote>
-<p>&quot;Abstractions leak all the time; there is an explicit cost in terms of hooking things up, and implicit costs in terms of edge cases, dependency management/upgrade/maintenance costs and decision fatigue. Individually, each abstraction might bring enough value to overcome its costs. However the combinatorics of M x N x O x P abstractions in each layer is an externality weighing down the entire ecosystem.&quot; - <a href="https://www.swyx.io/narrow-waists">source</a></p>
-</blockquote>
-<p>A narrow waist protocol is a constraint that unconstrains everything on top of it when communicating with everything on the bottom - allowing for the 2 layers to evolve independently of one another. It should be radically simple, minimalistic, stable &amp; unopinionated about what goes on below or on top of it. The <a href="https://en.wikipedia.org/wiki/Internet_Protocol">Internet Protocol</a> is perhaps the best example:</p>
-<img src="images/internet_protocol_stack_hour_glass.jpg">
-<!-- source:
-https://twitter.com/alive_eth/status/1228348431443214338
--->
-<blockquote>
-<p>&quot;A “narrow waist” intentionally keeps one or more of the middle layers small. This allows for:<br>
-    • <strong>the marketplace effect</strong>: lower and upper layers can specialize and optimize to that narrow waist, and thus they don’t have to worry about the existence of other layers on the other side<br>
-    • <strong>focus</strong>: the concentration of resources on optimizing the specific technology at the waist to make it the best it can be, since there is little other choice&quot; - <a href="https://www.swyx.io/narrow-waists">source</a></p>
-</blockquote>
-<p>This fundamental concept is the reason <a href="https://en.wikipedia.org/wiki/Unix">UNIX</a> is now the dominant operating system architecture.</p>
-<blockquote>
-<p>&quot;Unix uses multiple narrow waists to achieve dynamic and extensible polymorphism.&quot; - <a href="https://www.oilshell.org/blog/2022/03/backlog-arch.html">source</a></p>
-</blockquote>
-<p>The <a href="https://www.youtube.com/watch?v=3Ea3pkTCYx4"><code>&quot;Unix and Google&quot;</code></a> video beautifully explains the concept of <code>Coding the Perimeter</code> vs. <code>Coding the Area</code> where the work for the <strong>perimeter</strong> is <code>O(M + N)</code> but for the <strong>area</strong> it is <code>O(M × N)</code>.</p>
-<blockquote>
-<p>&quot;<code>O(M × N)</code> code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems.&quot; - <a href="https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion">source</a></p>
-</blockquote>
-<p>Currently social media applications have to reimplement the same functionality &amp; <a href="barriers_to_entry.html#vertical-integration-vs-marketscompetition">vertically integrate</a> which is <code>O(M × N)</code>. With Headjack there'll be a market for every layer of the stack &amp; solutions can be reused - <code>O(M + N)</code>. The core enabler for this is the linking of data to sovereign identity which leads to portability &amp; interoperability between applications - the end of the host-centric model. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation but also because of the reduced effort and code reuse - every problem needs to be solved only once.</p>
-<blockquote>
-<p>&quot;This narrow waist is not something that God gives you. It's something that you make. It's hard engineering.&quot; - <a href="https://www.oilshell.org/blog/2022/03/backlog-arch.html">Van Jacobsen</a>, Internet pioneer</p>
-</blockquote>
-<h1 id="the-supermassive-digital-gravity-well"><a class="header" href="#the-supermassive-digital-gravity-well">The supermassive digital gravity well</a></h1>
-<p>Headjack is a confluence of multiple interrelated things (identity, names, authorization &amp; addressing). Their synergy leads to the highest utility for names: they're <a href="names_and_paths.html">embedded in content URIs</a>. This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> - something which <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> would have had a much harder time doing on their own.</p>
-<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
-<blockquote>
-<p>&quot;The internet creates 1 giant aggregator for everything&quot; - <a href="https://youtu.be/3qHkcs3kG44?t=3527">@naval</a></p>
-</blockquote>
-<p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire web - acting as the coordination substrate of <a href="https://www.eff.org/cyberspace-independence">cyberspace</a>. It will disaggregate traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot;</code></a>.</p>
-<blockquote>
-<p>&quot;Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
-</blockquote>
 <h1 id="media--the-internet"><a class="header" href="#media--the-internet">Media &amp; the Internet</a></h1>
 <p>Evolution is 99.9% memetic at this point &amp; accelerating exponentially. If finance is the <a href="https://anthonyleezhang.substack.com/p/the-market-for-promises">market for promises</a>, then media is the battleground of ideas and is just as fundamental.</p>
 <blockquote>
@@ -316,9 +316,7 @@ https://twitter.com/alive_eth/status/1228348431443214338
 <blockquote>
 <p>&quot;When a society hits the information scaling threshold, it stalls out. It can’t function until it invents new ways of making sense that can cope with the complexity of the information environment.&quot; - <a href="https://subconscious.substack.com/p/thinking-together">source</a></p>
 </blockquote>
-<blockquote>
-<p>&quot;The complexity of a sensemaking system must match the complexity of the environment.&quot; - <a href="https://subconscious.substack.com/p/thinking-together">source</a></p>
-</blockquote>
+<!-- > "The complexity of a sensemaking system must match the complexity of the environment." - [source](https://subconscious.substack.com/p/thinking-together) -->
 <h1 id="the-path-to-agi-the-g-is-global"><a class="header" href="#the-path-to-agi-the-g-is-global">The path to AGI (the G is <a href="https://twitter.com/Sara_Imari/status/1400922067919376384">Global</a>)</a></h1>
 <blockquote>
 <p>&quot;Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”&quot; - <a href="https://www.britannica.com/biography/Douglas-Engelbart">Douglas Engelbart</a>, Internet pioneer</p>
