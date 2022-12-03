@@ -57,6 +57,54 @@ https://en.wikipedia.org/wiki/Memory_coherence
 https://en.wikipedia.org/wiki/Cache_coherence
 https://en.wikipedia.org/wiki/Causal_consistency -->
 
+# The second narrow waist of the Internet
+<!--
+Hourglass model, Distinguished layer, Spanning layer, Universal layer
+-->
+
+> "The narrow waist is the most important idea in software architecture, because it describes the biggest and longest-lived systems." - [source](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
+
+Everything in software deals with abstractions but very few are done right:
+
+<!-- The problem with abstraction layers is combinatorial explosion. -->
+
+> "Abstractions leak all the time; there is an explicit cost in terms of hooking things up, and implicit costs in terms of edge cases, dependency management/upgrade/maintenance costs and decision fatigue. Individually, each abstraction might bring enough value to overcome its costs. However the combinatorics of M x N x O x P abstractions in each layer is an externality weighing down the entire ecosystem." - [source](https://www.swyx.io/narrow-waists)
+
+A narrow waist protocol is a constraint that unconstrains everything on top of it when communicating with everything on the bottom - allowing for the 2 layers to evolve independently of one another. It should be radically simple, minimalistic, stable & unopinionated about what goes on below or on top of it. The [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) is perhaps the best example:
+
+<img src="images/internet_protocol_stack_hour_glass.jpg">
+<!-- source:
+https://twitter.com/alive_eth/status/1228348431443214338
+-->
+
+> "A “narrow waist” intentionally keeps one or more of the middle layers small. This allows for:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• **the marketplace effect**: lower and upper layers can specialize and optimize to that narrow waist, and thus they don’t have to worry about the existence of other layers on the other side<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• **focus**: the concentration of resources on optimizing the specific technology at the waist to make it the best it can be, since there is little other choice" - [source](https://www.swyx.io/narrow-waists)
+
+This fundamental concept is the reason [UNIX](https://en.wikipedia.org/wiki/Unix) is now the dominant operating system architecture.
+
+> "Unix uses multiple narrow waists to achieve dynamic and extensible polymorphism." - [source](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
+
+The [`"Unix and Google"`](https://www.youtube.com/watch?v=3Ea3pkTCYx4) video beautifully explains the concept of `Coding the Perimeter` vs. `Coding the Area` where the work for the **perimeter** is `O(M + N)` but for the **area** it is `O(M × N)`.
+
+> "`O(M × N)` code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems." - [source](https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion)
+
+Currently social media applications have to reimplement the same functionality & [vertically integrate](barriers_to_entry.md#vertical-integration-vs-marketscompetition) which is `O(M × N)`. With Headjack there'll be a market for every layer of the stack & solutions can be reused - `O(M + N)`. The core enabler for this is the linking of data to sovereign identity which leads to portability & interoperability between applications - the end of the host-centric model. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation not possible before, but also because of the reduced effort and code reuse - every problem needs to be solved only once.
+
+> "This narrow waist is not something that God gives you. It's something that you make. It's hard engineering." - [Van Jacobsen](https://www.oilshell.org/blog/2022/03/backlog-arch.html), Internet pioneer
+
+# The supermassive digital gravity well
+
+Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.
+
+<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
+
+> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
+
+Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - acting as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence). It will disaggregate traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts."`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts).
+
+> "Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
+
 # The Matrix is the Metaverse
 
 ***And Headjack is [the interface](https://matrix.fandom.com/wiki/Headjack).***
@@ -92,54 +140,6 @@ omniverse usd (universal scene description)
 > "Games will be able to check your wallet and change your experience depending on what you’ve acquired in other games. Games built by third-party indie devs could be built around the objects of other games, in a literal way extending the game's universe." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 -->
 
-# The second narrow waist of the Internet
-<!--
-Hourglass model, Distinguished layer, Spanning layer, Universal layer
--->
-
-> "The narrow waist is the most important idea in software architecture, because it describes the biggest and longest-lived systems." - [source](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
-
-Everything in software deals with abstractions but very few are done right:
-
-<!-- The problem with abstraction layers is combinatorial explosion. -->
-
-> "Abstractions leak all the time; there is an explicit cost in terms of hooking things up, and implicit costs in terms of edge cases, dependency management/upgrade/maintenance costs and decision fatigue. Individually, each abstraction might bring enough value to overcome its costs. However the combinatorics of M x N x O x P abstractions in each layer is an externality weighing down the entire ecosystem." - [source](https://www.swyx.io/narrow-waists)
-
-A narrow waist protocol is a constraint that unconstrains everything on top of it when communicating with everything on the bottom - allowing for the 2 layers to evolve independently of one another. It should be radically simple, minimalistic, stable & unopinionated about what goes on below or on top of it. The [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) is perhaps the best example:
-
-<img src="images/internet_protocol_stack_hour_glass.jpg">
-<!-- source:
-https://twitter.com/alive_eth/status/1228348431443214338
--->
-
-> "A “narrow waist” intentionally keeps one or more of the middle layers small. This allows for:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• **the marketplace effect**: lower and upper layers can specialize and optimize to that narrow waist, and thus they don’t have to worry about the existence of other layers on the other side<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• **focus**: the concentration of resources on optimizing the specific technology at the waist to make it the best it can be, since there is little other choice" - [source](https://www.swyx.io/narrow-waists)
-
-This fundamental concept is the reason [UNIX](https://en.wikipedia.org/wiki/Unix) is now the dominant operating system architecture.
-
-> "Unix uses multiple narrow waists to achieve dynamic and extensible polymorphism." - [source](https://www.oilshell.org/blog/2022/03/backlog-arch.html)
-
-The [`"Unix and Google"`](https://www.youtube.com/watch?v=3Ea3pkTCYx4) video beautifully explains the concept of `Coding the Perimeter` vs. `Coding the Area` where the work for the **perimeter** is `O(M + N)` but for the **area** it is `O(M × N)`.
-
-> "`O(M × N)` code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems." - [source](https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion)
-
-Currently social media applications have to reimplement the same functionality & [vertically integrate](barriers_to_entry.md#vertical-integration-vs-marketscompetition) which is `O(M × N)`. With Headjack there'll be a market for every layer of the stack & solutions can be reused - `O(M + N)`. The core enabler for this is the linking of data to sovereign identity which leads to portability & interoperability between applications - the end of the host-centric model. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation but also because of the reduced effort and code reuse - every problem needs to be solved only once.
-
-> "This narrow waist is not something that God gives you. It's something that you make. It's hard engineering." - [Van Jacobsen](https://www.oilshell.org/blog/2022/03/backlog-arch.html), Internet pioneer
-
-# The supermassive digital gravity well
-
-Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.
-
-<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
-
-> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
-
-Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - acting as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence). It will disaggregate traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts."`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts).
-
-> "Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on." - [source](https://www.thepullrequest.com/p/everything-is-an-ad-network)
-
 # Media & the Internet
 
 Evolution is 99.9% memetic at this point & accelerating exponentially. If finance is the [market for promises](https://anthonyleezhang.substack.com/p/the-market-for-promises), then media is the battleground of ideas and is just as fundamental.
@@ -171,7 +171,7 @@ Blockchains can play a major role in upgrading our systems of trust, reputation 
 
 > "When a society hits the information scaling threshold, it stalls out. It can’t function until it invents new ways of making sense that can cope with the complexity of the information environment." - [source](https://subconscious.substack.com/p/thinking-together)
 
-> "The complexity of a sensemaking system must match the complexity of the environment." - [source](https://subconscious.substack.com/p/thinking-together)
+<!-- > "The complexity of a sensemaking system must match the complexity of the environment." - [source](https://subconscious.substack.com/p/thinking-together) -->
 
 # The path to AGI (the G is [Global](https://twitter.com/Sara_Imari/status/1400922067919376384))
 
