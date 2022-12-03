@@ -93,6 +93,18 @@ Currently social media applications have to reimplement the same functionality &
 
 > "This narrow waist is not something that God gives you. It's something that you make. It's hard engineering." - [Van Jacobsen](https://www.oilshell.org/blog/2022/03/backlog-arch.html), Internet pioneer
 
+A narrow waist would enable the following economic flywheel effect:
+
+<img src="images/flywheel.png">
+<!--
+- more composability & code reuse
+- lower barrier to entry
+- more features & innovation
+- more demand from users
+- more revenue (ads & other business models)
+- better infrastructure for services
+-->
+
 # The supermassive digital gravity well
 
 Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.
