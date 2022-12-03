@@ -73,6 +73,9 @@ having a clear case for metaverse companies seems to be a solid route to gain in
 TODO: this goes in the growth strat!
 
 
+think about a migration strategy for twitter
+
+
 hackatons:
 https://devpost.com/
 
