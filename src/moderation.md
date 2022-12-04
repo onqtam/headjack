@@ -128,7 +128,9 @@ gini coeficient
 https://twitter.com/dwr/status/1592557080573280257
 https://arxiv.org/pdf/1601.07200.pdf
 
-
+PROPOSAL: Transparent content moderation
+https://twitter.com/sriramk/status/1599137490417635328
+https://sriramk.com/transparent-content-moderation
 
 
 Yishan's point: it's about user behavior and not so much about content

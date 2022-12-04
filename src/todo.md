@@ -292,6 +292,11 @@ https://cults3d.com/en/3d-model/various/headjack-from-the-matrix-1999
 https://www.renderhub.com/cosplayitemsrock/headjack-from-the-matrix-1999
 https://in.pinterest.com/pin/headjack-from-the-matrix-1999--788692953497982225/
 
+# other
+
+elon musk & ChatGPT on how to visualize tree structured comments
+https://twitter.com/elonmusk/status/1599259281584402432
+
 # Phrases that don't have a place yet
 
 - digitally we are in the soviet union - you're not allowed to freely migrate from one part to another - you need to ask permission. Interoperable identity & permanent addressing enables everything on top
