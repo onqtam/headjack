@@ -183,7 +183,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Can leverage existing Web2 authenticating infrastructure</b></td>
-    <td style="background-color:green">Can leverage all existing OAuth code</td>
+    <td style="background-color:green">Can leverage all existing OAuth / SAML code</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>

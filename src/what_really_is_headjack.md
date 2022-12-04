@@ -189,6 +189,8 @@ Blockchains can play a major role in upgrading our systems of trust, reputation 
 
 > "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
+> "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
+
 Biology is layers of "dumb" systems that cooperate and mediate between each other. Humans are just a collection of cells - including the "central" nervous system - and they play along and cooperate which leads to the emergence of consciousness and intelligence. There’s no fundamental reason for humans to not be able to assemble into a unified global [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) - a [hive mind](https://en.wikipedia.org/wiki/Global_brain).
 
 > "Every follow is a synapse in a global metabrain" - [Danielle Fong](https://twitter.com/DanielleFong/status/1559185769016729606)

@@ -75,6 +75,8 @@ It must be [**obvious & provable**](numbers.md) that the network has a **credibl
 
 # Decentralization, neutrality & sovereignty
 
+> "The Internet has succeeded in no small part because of its purposeful avoidance of any single controlling entity." - [source](https://www.ietf.org/archive/id/draft-nottingham-avoiding-internet-centralization-05.html)
+
 - **Sovereignty**: Users should be able to own their identity & connections with a keypair **even if by default** their activity is managed by an [IDM](IDM.md) - resembling a custodial service.
 
 - [**Credible neutrality**](https://nakamoto.com/credible-neutrality/) - Anyone can permissionlessly have a pseudonymous identity, buy a name, operate an [IDM](IDM.md), serve media through an application and publish & broadcast through Headjack using their identity. [Moderation & censorship](moderation.md) happen at the application & infrastructure level - freedom of speech is guaranteed, but not freedom of reach as that is up to the applications & services that serve media. Individuals will always be able to contact one another for private communication.
