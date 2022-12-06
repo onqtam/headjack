@@ -40,3 +40,5 @@ Tokenomics: using staking to combat the scale-free nature of IDM centralization
 The more stake you have, the cheaper it is to create new accounts
 But the rich get richer?
 
+https://en.wikipedia.org/wiki/Liquid_democracy
+

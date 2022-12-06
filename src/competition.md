@@ -260,6 +260,8 @@ Storage agnostic or opinionated in table
 
 protocol-first vs app-first
 
+Having the app id and doing batch commitments simplifies routing and aids self-authenticity for documents
+
 names are worthless if they aren't in URIs pointing to documents
 
 The winner take all singleton is the easiest mentally
