@@ -94,5 +94,7 @@ https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-
 Concern: what if apps depend too much on specific infra companies with economies of scale and have nowhere else to migrate
 
 
+problem: apple does not allow apps with internal app stores?
+    https://youtu.be/fW9-dEOSX8A?t=562
 
 
