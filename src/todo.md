@@ -30,9 +30,13 @@
         https://fission.codes/blog/auth-without-backend/
         https://blog.web3.storage/posts/intro-to-ucan
 
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
     - research: Capability-based security vs traditional UNIX permissions and Access Control Lists.
         https://en.wikipedia.org/wiki/Capability-based_security
         https://en.wikipedia.org/wiki/Principle_of_least_privilege
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 
     - Think about scopes of authorization - multidimensionality
 
@@ -150,6 +154,8 @@
 - https://webmonetization.org/
 - https://interledger.org/
 
+- your local files & actions in the filesystem could be using this addressing - locally saved & aggregated into an anchor commitment but not made downloadable
+
 - CanDID - using existing credentials to prove things about you with TLS, intel SGX & maybe ZK
     https://www.youtube.com/watch?v=Y-M6G5656PU
     https://eprint.iacr.org/2020/934.pdf
@@ -169,6 +175,10 @@
     https://en.wikipedia.org/wiki/Provenance
 
 - how to make things with a URI an NFT
+
+- what hash function to use - 256-bit Blake2B hash?
+    on choosing the strength of the hash function
+        https://eprint.iacr.org/2019/1492.pdf
 
 - Only ipfs hash to a header blob and no merkle root on chain?
 

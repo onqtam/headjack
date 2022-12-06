@@ -160,7 +160,6 @@ it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
 <p>Let's explore a few mental models, analogies &amp; points of view when thinking about Headjack:</p>
 <ul>
 <li><a href="#twitters-original-sin-protocol-vs-company">Twitter's original sin: protocol vs company</a></li>
-<li><a href="#identity---the-base-layer-of-cyberspace">Identity - the base layer of cyberspace</a></li>
 <li><a href="#the-global-event-bus--pub-sub">The global event bus / pub-sub</a></li>
 <li><a href="#the-address-space-of-the-world-computer">The address space of the World Computer</a></li>
 <li><a href="#the-second-narrow-waist-of-the-internet">The second narrow waist of the Internet</a></li>
@@ -179,11 +178,6 @@ it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
 <p>But the original sin has been that it's <a href="https://twitter.com/jack/status/1518772754782187520">owned by a company</a> which Jack Dorsey states as <a href="https://twitter.com/jack/status/1562861302242226178">his biggest regret</a> - no wonder that he's been trying to turn it into a protocol - first with <a href="https://twitter.com/jack/status/1204766078468911106">project Bluesky</a> (now <a href="https://atproto.com/">AT Protocol</a>) and more recently with <a href="https://twitter.com/jack/status/1535314738078486533">TBD Web5</a> (both covered in the <a href="competition.html">comparison chapter</a>).</p>
 <blockquote>
 <p>&quot;Evolution only builds on open formats and protocols. That's how technology layers.&quot; - <a href="http://scripting.com/2014/10/10/youngTechnologistsLoveLockin.html">source</a></p>
-</blockquote>
-<h1 id="identity---the-base-layer-of-cyberspace"><a class="header" href="#identity---the-base-layer-of-cyberspace">Identity - the base layer of cyberspace</a></h1>
-<p>Web3 is often associated with user ownership of networks/services/data, governance, NFTs &amp; micropayments, and while all of them will play a part in it, the main aspect is the decentralization of identity and <a href="https://twitter.com/balajis/status/1162401646258749441">making it sovereign</a>. Headjack is an application-specific blockchain which can be thought of as an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> where only the most important bits are decentralized and identity is linked to off-chain data &amp; events with stable &amp; human-readable addressing - giving birth to the <a href="ledger_of_record.html">ledger of record</a>. Anything can be built on top of that.</p>
-<blockquote>
-<p>&quot;Compositionality is the principle that a system should be designed by composing together smaller subsystems, and reasoning about the system should be done recursively on its structure.&quot; - <a href="https://julesh.com/2017/04/22/on-compositionality/">Jules Hedges, On Compositionality</a></p>
 </blockquote>
 <h1 id="the-global-event-bus--pub-sub"><a class="header" href="#the-global-event-bus--pub-sub">The global event bus / pub-sub</a></h1>
 <p>One way to look at Headjack is as a global <a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">publish-subscribe</a> messaging network where accounts, message types, tags, application sources &amp; <a href="data_legos.html#event-streams">anything within documents</a> can be treated as topics to subscribe to - a multidimensional notification highway. It's the ultimate user-friendly successor of the <a href="https://twitter.com/mgsiegler/status/311992206716203008">too technical</a> RSS - <a href="https://twobithistory.org/2018/12/18/rss.html"><code>&quot;people jumped ship as soon as something better came along&quot;</code></a>.</p>
@@ -237,11 +231,22 @@ https://twitter.com/alive_eth/status/1228348431443214338
 <blockquote>
 <p>&quot;<code>O(M × N)</code> code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems.&quot; - <a href="https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion">source</a></p>
 </blockquote>
-<p>Currently social media applications have to reimplement the same functionality &amp; <a href="barriers_to_entry.html#vertical-integration-vs-marketscompetition">vertically integrate</a> which is <code>O(M × N)</code>. With Headjack there'll be a market for every layer of the stack &amp; solutions can be reused - <code>O(M + N)</code>. The core enabler for this is the linking of data to sovereign identity which leads to portability &amp; interoperability between applications - the end of the host-centric model. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation not possible before, but also because of the reduced effort and code reuse - every problem needs to be solved only once.</p>
+<hr />
+<p>Today social media applications have to reimplement the same functionality &amp; <a href="barriers_to_entry.html#vertical-integration-vs-marketscompetition">vertically integrate</a> which is <code>O(M × N)</code>. With Headjack there'll be a market for every layer of the stack &amp; solutions can be reused - <code>O(M + N)</code>. The core enabler for this is the linking of data to <a href="https://twitter.com/balajis/status/1162401646258749441">sovereign identity</a> which leads to portability &amp; interoperability between applications &amp; the end of the host-centric model. Think of it as an <a href="https://twitter.com/balajis/status/1123092897664880640">open state database</a> where only the most important bits are decentralized &amp; guaranteed to be around. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation not possible before, but also because of the reduced effort and code reuse - every problem needs to be solved only once.</p>
+<blockquote>
+<p>&quot;Compositionality is the principle that a system should be designed by composing together smaller subsystems, and reasoning about the system should be done recursively on its structure.&quot; - <a href="https://julesh.com/2017/04/22/on-compositionality/">Jules Hedges, On Compositionality</a></p>
+</blockquote>
+<p>Web3 is often associated with user ownership of networks/services/data, governance, NFTs &amp; micropayments, and while all of them will play a part in it, <em><strong>identity is the foundation</strong></em>.</p>
 <blockquote>
 <p>&quot;This narrow waist is not something that God gives you. It's something that you make. It's hard engineering.&quot; - <a href="https://www.oilshell.org/blog/2022/03/backlog-arch.html">Van Jacobsen</a>, Internet pioneer</p>
 </blockquote>
-<p>A narrow waist would enable the following economic flywheel effect:</p>
+<h1 id="the-supermassive-digital-gravity-well"><a class="header" href="#the-supermassive-digital-gravity-well">The supermassive digital gravity well</a></h1>
+<p>Headjack is a confluence of multiple interrelated things (identity, names, authorization &amp; addressing). Their synergy leads to the highest utility for names: they're <a href="names_and_paths.html">embedded in content URIs</a>. This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> - something which <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> would have had a much harder time doing on their own.</p>
+<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
+<blockquote>
+<p>&quot;The internet creates 1 giant aggregator for everything&quot; - <a href="https://youtu.be/3qHkcs3kG44?t=3527">@naval</a></p>
+</blockquote>
+<p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire web - acting as the coordination substrate of <a href="https://www.eff.org/cyberspace-independence">cyberspace</a>. It will disaggregate traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot; - Aristotle</code></a>.</p>
 <img src="images/flywheel.png">
 <!--
 - more composability & code reuse
@@ -251,13 +256,6 @@ https://twitter.com/alive_eth/status/1228348431443214338
 - more revenue (ads & other business models)
 - better infrastructure for services
 -->
-<h1 id="the-supermassive-digital-gravity-well"><a class="header" href="#the-supermassive-digital-gravity-well">The supermassive digital gravity well</a></h1>
-<p>Headjack is a confluence of multiple interrelated things (identity, names, authorization &amp; addressing). Their synergy leads to the highest utility for names: they're <a href="names_and_paths.html">embedded in content URIs</a>. This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> - something which <a href="https://en.wikipedia.org/wiki/Namecoin">Namecoin</a> and <a href="https://handshake.org/">Handshake</a> would have had a much harder time doing on their own.</p>
-<!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
-<blockquote>
-<p>&quot;The internet creates 1 giant aggregator for everything&quot; - <a href="https://youtu.be/3qHkcs3kG44?t=3527">@naval</a></p>
-</blockquote>
-<p>Headjack <a href="https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/">definitively</a> aims to be the backbone of the entire web - acting as the coordination substrate of <a href="https://www.eff.org/cyberspace-independence">cyberspace</a>. It will disaggregate traditional platforms such as Twitter, Reddit, YouTube &amp; Instagram through unbundling, reconstruction &amp; interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts"><code>&quot;The whole is greater than the sum of its parts.&quot;</code></a>.</p>
 <blockquote>
 <p>&quot;Few tech giants of the past have ever been unseated from their dominance via competition alone: Microsoft never lost the desktop, Google never lost search, Twitter has never lost the public square, Amazon will never lose e-commerce, and Apple will never lose mobile devices. The only way to get out from under those weary giants is creating a new playing field and absolutely dominating it before they figure out what’s going on.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
 </blockquote>
