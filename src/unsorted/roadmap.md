@@ -83,6 +83,9 @@ https://devpost.com/
 partner with the internet archive?
 
 
+Strategy: pay engineers to read the book and interview them on camera after that about what they have learned
+
+
 need community & product
 https://www.shawkisukkar.com/2022/farcaster
 
