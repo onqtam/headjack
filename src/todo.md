@@ -19,6 +19,9 @@
 
     google: revoke oauth token
 
+    https://www.google.com/search?q=bearer+token
+    https://farcasterxyz.notion.site/Merkle-v2-API-Documentation-c19a9494383a4ce0bd28db6d44d99ea8
+
     - zCaps
         https://w3c-ccg.github.io/zcap-spec/
         https://docs.walt.id/v/storage-kit/concepts/advanced-concepts/components/theory-authorization-capabilities
