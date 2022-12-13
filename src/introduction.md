@@ -45,6 +45,10 @@ it does not deal with storage and neither with routing - any kind of routing can
 
 <!-- - The move from the current [host-centric](host_centric.md#the-host-centric-web--its-decay) web towards [data-centric](host_vs_data_centric.md) addressing represents a paradigm shift around data ownership & access - an architectural reset of the internet. -->
 
+---
+
+The talk [`"Decentralized identity & content addressing at web-scale"`](https://www.youtube.com/watch?v=pEl2vLTStWE) at code::dive 2022 is a good high-level overview of the project and covers the most important aspects:
+
 <a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="images/youtube_first_talk_thumbnail.png"></a>
 
 # Book structure
