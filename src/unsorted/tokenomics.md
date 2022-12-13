@@ -25,6 +25,11 @@ spam protection: lock tokens to submit data
 https://forums.projectliberty.io/t/05-what-is-capacity-frequency-economics-part-1/248
 
 
+token upside is inversely proportional to network effect
+https://content.1729.com/content/images/size/w1600/2021/05/Screen-Shot-2021-05-11-at-9.50.25-PM.png
+source:
+    https://thenetworkstate.com/network-union
+
 
 The limits of paying for blockspace - alternative forms of value accrual for tokens where the inelasticity of blockspace is a deal breaker
 
