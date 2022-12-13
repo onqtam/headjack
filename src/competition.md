@@ -1,6 +1,6 @@
 # Headjack vs the competition
 
-This chapter focuses only on the disadvantages of some of the more high-profile competing solutions in the space. Most of the issues are solved in Headjack due to its [guiding principles & design goals](principles.md). This page doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another.
+This chapter focuses on the disadvantages of some of the more high-profile competing solutions in the space. Most of the issues are solved in Headjack due to its [guiding principles & design goals](principles.md). This page doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another.
 
 <!-- Corrections for any inaccuracies are welcome! -->
 
@@ -10,7 +10,7 @@ This chapter focuses only on the disadvantages of some of the more high-profile 
 
 # Comparison table
 
-This is the subjective understanding of Headjack's team - many of the claims lack official sources.
+Some of this is a subjective estimation - many of the claims lack official sources.
 
 <div>
 <style type="text/css" scoped>
@@ -37,6 +37,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="width:16%"></td>
     <td><b>Headjack</b></td>
     <td><b><a href="competition.md#farcaster">Farcaster</a></b></td>
+    <!-- https://www.farcaster.xyz/ -->
     <td><b><a href="https://www.dsnp.org/">DSNP</a> & <a href="https://www.frequency.xyz/">Frequency</a></b></td>
     <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a> & <a href="https://atproto.com/">AT Protocol</a></b></td>
     <td><b><a href="https://developer.tbd.website/projects/web5/">TBD web5</a><br/><a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a> & <a href="https://twitter.com/namcios/status/1535302090360250368">tweet</a></b></td>
@@ -49,72 +50,82 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 <tr>
     <td><b>Scalability & potential scope</b></td> 
     <td style="background-color:green">can handle billions of users (<a href="numbers.md">proof</a>) & underpin the entire web</td>
-    <td style="background-color:#88ff00">perhaps could handle up to ~10 million - may need to move to its own rollup for more.</td>
-    <td style="background-color:yellow"></td>
+    <td style="background-color:lime">perhaps up to ~10 million - could move to its own rollup</td>
+    <td style="background-color:yellow">perhaps up to a few million  graph changes are on-chain</td>
     <td style="background-color:green">centralized consortium of servers</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
+    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
     <td style="background-color:red">actions are on-chain as NFTs (follow, post's hash) - even a dedicated EVM chain will be futile</td>
 </tr>
 <tr>
     <td><b>Users paying for TX fees & linking identity to financial accounts by default</b></td>
-    <td style="background-color:green">blockchain costs are paid for by services by default</td>
+    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
     <td style="background-color:yellow">Ethereum L1 costs initially planned for subsidy by services</td>
-    <td style="background-color:yellow"></td>
+    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
     <td style="background-color:green">centralized consortium of servers - no TXs</td>
-    <td style="background-color:#88ff00">the anchors (on-chain Merkle roots) get batched with others</td>
-    <td style="background-color:yellow"></td>
-    <td style="background-color:yellow"></td>
+    <td style="background-color:lime">the anchors (on-chain Merkle roots) get batched with others</td>
+    <td style="background-color:yellow">only the stream anchors to Ethereum L1 have to be paid for occasionally</td>
+    <td style="background-color:red">yes</td>
 </tr>
 <tr>
     <td><b>Blockchain TX fee stability & predictability</b></td>
     <td style="background-color:green"><a href="numbers.md">as scalable as necessary => no congestion</a></td>
     <td style="background-color:red">Ethereum L1 - may need to migrate to its own rollup in the future</td>
-    <td style="background-color:grey"></td>
+    <td style="background-color:lime"><a href="https://forums.projectliberty.io/t/05-what-is-capacity-frequency-economics-part-1/248">their notion of capacity</a> is probably good enough</td>
     <td style="background-color:green">centralized consortium of servers - no TXs</td>
-    <td style="background-color:#88ff00">Bitcoin TX fees are low due to low economic activity</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style="background-color:lime">Bitcoin TX fees are low due to low economic activity</td>
+    <td style="background-color:red">Ethereum L1 for stream anchors</td>
+    <td style="background-color:lime">Polygon PoS</td>
 </tr>
 <tr>
     <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:green">Ethereum ZK validium with multiple blocks in one L1 slot !!! TODO: !!! ADD FOOTNOTE ABOUT SECURITY OF SUCH BLOCKS</td>
-    <td style="background-color:yellow">Ethereum</td>
-    <td style="background-color:#88ff00">Polkadot</td>
+    <td style="background-color:green">Ethereum ZK validium with multiple blocks in one L1 slot</td>
+    <td style="background-color:lime">Ethereum</td>
+    <td style="background-color:lime">Polkadot</td>
     <td style="background-color:green">centralized consortium of servers</td>
     <td style="background-color:red">Bitcoin</td>
-    <td style="background-color:yellow">Ethereum</td>
+    <td style="background-color:yellow">Ethereum, but the anchor might not be immediate</td>
     <td style="background-color:green">Polygon PoS</td>
 </tr>
 <tr>
-    <td><b>Time to finality</b></td>
-    <td style="background-color:green"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td><b>Time to finality for key operations</b></td>
+    <td style="background-color:yellow">Ethereum</td>
+    <td style="background-color:yellow">Ethereum</td>
+    <td style="background-color:lime">Polkadot</td>
+    <td style="background-color:green">centralized consortium of servers</td>
+    <td style="background-color:red">Bitcoin</td>
+    <td style="background-color:yellow">Ethereum</td>
+    <td style="background-color:lime">Polygon PoS</td>
 </tr>
 <tr>
-    <td><b>Contains a name registry for easy discoverability</b></td>
-    <td style="background-color:green">yes - & tightly integrated with addressability - URIs aren't broken even if names change ownership</td>
+    <td><b>Contains a name registry for easy discoverability & can replace DNS</b></td>
+    <td style="background-color:green">yes - & tightly integrated with addressability - URIs aren't broken <a href="names_and_paths.md">even if names change ownership</a></td>
     <td style="background-color:green">yes, also works with ENS</td>
-    <td style="background-color:red">no, but will probably introduce one</td>
-    <td style="background-color:red">no - uses <a href="https://atproto.com/guides/identity">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS => centralized</td>
+    <td style="background-color:red">no, but might introduce it</td>
+    <td style="background-color:red">no - uses <a href="https://atproto.com/guides/identity">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS (centralized)</td>
     <td style="background-color:red">no</td>
-    <td style="background-color:red">no, probably works with ENS</td>
-    <td style="background-color:red">no, probably works with ENS</td>
+    <td style="background-color:red">no, maybe works with ENS</td>
+    <td style="background-color:red">no, maybe works with ENS</td>
 </tr>
 <tr>
-    <td><b>Decentralization for the most important parts</b></td>
-    <td style="background-color:#88ff00">Ethereum ZK validium with external data availability (validium) - <a href="https://www.layrlabs.com/products">EigenDA</a>?</td>
+    <td><b>Decentralization for the most important parts (keys & registries)</b></td>
+    <td style="background-color:lime">Ethereum ZK validium with external data availability (validium) - <a href="https://www.layrlabs.com/products">EigenDA</a>?</td>
     <td style="background-color:green">Ethereum</td>
-    <td style="background-color:#88ff00">Polkadot - not big enough set of validators</td>
+    <td style="background-color:lime">Polkadot - not big enough set of validators</td>
     <td style="background-color:red">centralized consortium of servers</td>
-    <td style="background-color:green">Bitcoin</td>
-    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:yellow">Bitcoin, but DID operations are only anchored</td>
+    <td style="background-color:yellow">Ethereum, but only the stream anchors go there</td>
     <td style="background-color:yellow">Polygon PoS</td>
+</tr>
+<tr>
+    <td><b>Incentive layer & data availability for the most important (keys & registries)</b></td>
+    <td style="background-color:green">Ethereum ZK Validium</td>
+    <td style="background-color:green">Ethereum</td>
+    <td style="background-color:green">Polkadot</td>
+    <td style="background-color:green">centralized consortium of servers</td>
+    <td style="background-color:red">DID operations are stored in a network on IPFS <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">without incentives</a></td>
+    <td style="background-color:red">the actual streams are in a network w/o incentives</td>
+    <td style="background-color:green">Polygon PoS</td>
 </tr>
 <tr>
     <td style="background-color:grey" colspan="8" height=25px><b>Data availability, storage, retrievability & addressing</b></td>
@@ -141,12 +152,12 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Big reliance on a p2p network for delivering fine-grained messages</b></td>
-    <td style="background-color:green">Headjack is pure addressing - storage & retrieval are orthogonal and the p2p network for specific URIs is bottom priority</td>
-    <td style="background-color:red">using a gossip-based pubsub protocol between peers</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style="background-color:green">using a p2p network for specific URIs is the last resort</td>
+    <td style="background-color:red">using a gossip-based pubsub protocol between peers & Hubs</td>
+    <td style="background-color:grey">not sure: their URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> but they don't have an IDM/Hub/ PDR/DWN as a concept (yet)</td>
+    <td style="background-color:green">no - talk directly to a user's <a href="https://atproto.com/guides/data-repos">PDR</a></td>
+    <td style="background-color:grey">not sure: perhaps could directly talk to a user's DWN</td>
+    <td style="background-color:red">yes - IPFS, Ceramic Network & global DHTs</td>
     <td style="background-color:grey"></td>
 </tr>
 <tr>
@@ -169,16 +180,6 @@ This is the subjective understanding of Headjack's team - many of the claims lac
     <td style="background-color:grey"></td>
 </tr>
 <tr>
-    <td><b>Incentive layer & DA for key rotation/revocation & registries</b></td>
-    <td style="background-color:green"></td>
-    <td style="background-color:yellow">Long-term Ethereum L1 might introduce state rent</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-</tr>
-<tr>
     <td style="background-color:grey" colspan="8" height=25px><b>Ease of use for developers & users</b></td>
 </tr>
 <tr>
@@ -193,7 +194,7 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 </tr>
 <tr>
     <td><b>Easy to work with mental model vs high cognitive load & complexity</b></td>
-    <td style="background-color:#88ff00">A bit more complexity compared to Web2</td>
+    <td style="background-color:lime">A bit more complexity compared to Web2</td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
     <td style="background-color:grey"></td>
@@ -247,7 +248,21 @@ This is the subjective understanding of Headjack's team - many of the claims lac
 <!--
 
 
+avoiding signatures by default - only hashing - much faster
+asymmetric cryptography is SLOW
+https://medium.com/logos-network/benchmarking-hash-and-signature-algorithms-6079735ce05
+https://crypto.stackexchange.com/questions/38043/hmac-vs-rsa-speed
+
+bloat because of individual signatures - versus computable hashes that don't need to be stored
+
+
+
+authentic timestamps?
+
+how easy it is to build aggregators for the entire public web?
+
 are applications bottlenecked by the personal data repository of a user? yes in the case of farcaster & bluesky
+
 
 
 Order of data determined by the URI as a line
@@ -259,6 +274,12 @@ discoverability
 Storage agnostic or opinionated in table
 
 protocol-first vs app-first
+
+https://news.ycombinator.com/item?id=33264860
+about bluesky
+4. I wonder what the team will do for authentication and authorization? Will they go the ACL route? (In which case, are they going to include Solid-style client identity, in the ACLs?) Will they go the capabilities route? (UCANs / zCaps). This is the genuine hard part.
+
+
 
 Having the app id and doing batch commitments simplifies routing and aids self-authenticity for documents
 
@@ -424,7 +445,7 @@ Jack Dorsey's new ["web5"](images/meme_web5.jpg) project - [slides](https://docs
 - Only anchors DID events to Bitcoin with vector commitments (Merkle roots) using [ION](https://github.com/decentralized-identity/ion) & the [Sidetree](https://medium.com/decentralized-identity/the-sidetree-scalable-dpki-for-decentralized-identity-1a9105dfbb58) protocol.
     - 10-minute block times with probabilistic finality. Factor in the loading times for the anchored content around key management that's on IPFS - not great at all if you want to log in/authorize a service or revoke access quickly.
 
-- The ION DID network is [not incentivized](https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion) (just like IPFS) and the anchored content around key management, rotations & revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus - which is debatable - logical centralization, uptime, adequate finality & DA guarantees matter a lot when dealing with identity.
+<!-- - The ION DID network is [not incentivized](https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion) (just like IPFS) and the anchored content around key management, rotations & revocations depends on the current cluster of ION nodes. They state not having a consensus mechanism as a plus - which is debatable - logical centralization, uptime, adequate finality & DA guarantees matter a lot when dealing with identity. -->
 
 - Doesn't have a human-readable global name registry - lacks discoverability.
 

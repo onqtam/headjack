@@ -110,7 +110,7 @@ https://zettelkasten.de/posts/overview/
 https://numinous.productions/ttft/
 https://maggieappleton.com/garden-history
 
-
+https://www.jerrysbrain.com/
 
 The anonymous can get AI-generated animated avatars & build presence in our minds like never before.
 

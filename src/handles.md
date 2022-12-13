@@ -102,6 +102,9 @@ https://twitter.com/VitalikButerin/status/1568070721753989120
 uts-46 normalization
 
 
+when having multiple names, an account should specify their preferred one - possibly as a message type
+
+
 ens is not enough - one size fits all aint good
 
 
