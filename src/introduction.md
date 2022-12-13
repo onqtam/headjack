@@ -47,9 +47,9 @@ it does not deal with storage and neither with routing - any kind of routing can
 
 ---
 
-<!-- The talk [`"Decentralized identity & content addressing at web-scale"`](https://www.youtube.com/watch?v=pEl2vLTStWE) at code::dive 2022 is a good high-level overview of the project and covers the most important aspects:
+The talk [`"Decentralized identity & content addressing at web-scale"`](https://www.youtube.com/watch?v=pEl2vLTStWE) at code::dive 2022 is a good high-level overview of the project and covers the most important aspects:
 
-<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="images/youtube_first_talk_thumbnail.png"></a> -->
+<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="images/youtube_first_talk_thumbnail.png"></a>
 
 # Book structure
 
