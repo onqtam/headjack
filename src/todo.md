@@ -13,18 +13,29 @@
         https://www.cloudflare.com/learning/access-management/authn-vs-authz/
         https://cyral.com/glossary/authentication-authn-versus-authorization-authz/
 
-    google: acl vs ucan
+    https://whitepaper.fission.codes/access-control/cap-authz
+
+    https://tersesystems.github.io/ocaps/guide/introduction.html
+
+    https://ocapjs.org/t/ocap-vs-acl-and-evolving-auth-standards/129
+
+    google: acl vs ucan (ucan is actually OCAP)
         https://noti.st/expede/IHl7BE/slides
         https://noti.st/expede/IHl7BE/present
 
     google: revoke oauth token
 
+    https://www.w3.org/wiki/WebAccessControl
+
     https://www.google.com/search?q=bearer+token
+
     https://farcasterxyz.notion.site/Merkle-v2-API-Documentation-c19a9494383a4ce0bd28db6d44d99ea8
 
     - zCaps
         https://w3c-ccg.github.io/zcap-spec/
+        https://w3c-ccg.github.io/zcap-spec/#capabilities-vs-access-control-lists
         https://docs.walt.id/v/storage-kit/concepts/advanced-concepts/components/theory-authorization-capabilities
+        https://github.com/w3c-ccg/zcap-spec/issues/6
 
     - UCAN
         https://www.youtube.com/watch?v=grec5KQeU2U
@@ -41,7 +52,14 @@
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 
+
+    - use of ZKP to hide delegation chains
+        https://blog.ceramic.network/accounts-evolution-of-3id/#:~:text=if%20we%20use%20a-,ZKP,-to%20hide%20certain
+
     - Think about scopes of authorization - multidimensionality
+
+    - the auth flow & what permissions you give:
+        https://twitter.com/dwr/status/1602021100426100736
 
     - figure out a plan to plug into existing SAML/OAuth/OpenID infrastructure for authentication and authorization
         https://en.wikipedia.org/wiki/OAuth
@@ -103,6 +121,8 @@
     - PROBLEM: what if a name is just a number - how does that impact URIs? there can be collisions... must find a way to resolve such conflicts
         - should there be some schema in part of the URI - perhaps before the nonce? what if the URI contains the ID of the message type as well?
         !!! How about a mixed URI where the application has a name but the user is an integer? must distinguish in the URI schema!
+
+        what farcaster does: "fid is the canonical identifier for a user or organization on the Farcaster network. It is a numeric value like !8098 which is distinguished from other values with a preceding exclamation mark. Any reference to the user on the network must always be made with this identifier."
 
         look what substack does with the URIs (both point to the same article):
             https://subconscious.substack.com/p/layered-protocols

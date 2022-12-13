@@ -235,6 +235,8 @@ the historical part is much more important - each block & the hashes that are co
 https://support.mycrypto.com/how-to/getting-started/how-to-sign-and-verify-messages-on-ethereum/
 https://medium.com/mycrypto/the-magic-of-digital-signatures-on-ethereum-98fe184dc9c7
 https://ethvigil.com/docs/eth_sign_example_code/
+https://crypto.stackexchange.com/questions/60383/what-is-the-difference-between-ecdsa-and-eddsa
+
 
 https://vomtom.at/ethereum-private-and-public-keys/
 https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce
@@ -243,6 +245,8 @@ https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-gen
 Ethereum uses a specific signature scheme called ECDSA on a specific elliptic curve called Secp256k1.
 the address is the last 20 bytes of the Keccak-256 hash of the public key.
 
+This ensures that most apps do not end up hosting ECDSA key pairs which create security and regulatory challenges if funds are sent to them on Ethereum.
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#32-authentication
 
 
 https://doc.libsodium.org/
