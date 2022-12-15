@@ -490,9 +490,15 @@ For details about ActivityPub, Matrix, Diaspora, Mastodon, Secure Scuttlebutt, S
 
 <!--
 
+"a truly censorship-resistant alternative to Twitter that has a chance of working"
+not really...
+https://github.com/nostr-protocol/nostr
 
 on mastodon
 https://twitter.com/martinkl/status/1588823207284539392
+
+The problem with Mastodon and similar programs
+https://github.com/nostr-protocol/nostr#the-problem-with-mastodon-and-similar-programs
 -->
 
 
