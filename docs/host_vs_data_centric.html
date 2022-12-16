@@ -164,7 +164,14 @@ Chainlink authenticated data origination
 -->
 <h1 id="host-vs-data-centric"><a class="header" href="#host-vs-data-centric">Host vs data-centric</a></h1>
 <p>Let's take a look how the web works and what are the building blocks &amp; ideas that enable Headjack:</p>
-<!-- toc -->
+<ul>
+<li><a href="#todays-web-host-centric">Today's web: host-centric</a></li>
+<li><a href="#data-centric-computing">Data-centric computing</a></li>
+<li><a href="#content-addressable-storage">Content-addressable storage</a></li>
+<li><a href="#information-centric-networking">Information-centric networking</a></li>
+<li><a href="#named-data-networking">Named Data Networking</a></li>
+<li><a href="#enter-headjack---the-final-iteration">Enter Headjack - the final iteration</a></li>
+</ul>
 <h1 id="todays-web-host-centric"><a class="header" href="#todays-web-host-centric">Today's web: host-centric</a></h1>
 <p>Today's web revolves around hosts &amp; <a href="https://en.wikipedia.org/wiki/Unicast">unicast</a> communication - we query <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> to get the IP of servers and open direct connections with them to retrieve the data that they host. But domains, URI paths on servers &amp; the actual files all change &amp; go away which leads to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> &amp; content drift. Guidance such as <a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a> is just that - guidance - and the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid that can hardly keep up with the digital <a href="https://en.wikipedia.org/wiki/Memory_hole">memory hole</a>. In the host-certified paradigm URLs at best point to a location at which a document may have been available at some point in time - devoid of any cryptographic proofs regarding the contents, the creator, an alternative way to retrieve it or the time of publication. The implications are explored in the <a href="host_centric.html#the-host-centric-web--its-decay">host-centric section in the motivation</a>.</p>
 <blockquote>

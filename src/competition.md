@@ -8,8 +8,6 @@ This chapter focuses on the disadvantages of some of the more high-profile compe
 
 <!-- toc -->
 
-test
-
 # Comparison table
 
 Some of this is a subjective estimation - many of the claims lack official sources.
