@@ -8,16 +8,15 @@
 
         <!-- Custom HTML head -->
         <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMDB9SH6"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMDB9SH6"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+        
+                gtag('config', 'G-6BQMDB9SH6');
+                </script>
 
-        gtag('config', 'G-6BQMDB9SH6');
-        </script>
-
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -42,13 +41,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -64,7 +63,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -76,7 +75,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -111,7 +110,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
                         <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
@@ -143,7 +142,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -158,18 +157,7 @@
 </div>
 <h1 id="business-models"><a class="header" href="#business-models">Business models</a></h1>
 <p>Let's see how the current digital economy could be translated &amp; reimplemented on top of Headjack.</p>
-<ul>
-<li><a href="#why-build-if-vendor-lock-in-isnt-possible">Why build if vendor lock-in isn't possible?</a></li>
-<li><a href="#unbundling-the-media-stack-with-markets">Unbundling the media stack with markets</a></li>
-<li><a href="#attribution">Attribution</a></li>
-<li><a href="#advertising">Advertising</a></li>
-<li><a href="#application-attribution">Application attribution</a></li>
-<li><a href="#identity-managers---the-new-storage-cloud">Identity managers - the new storage cloud</a></li>
-<li><a href="#creator-monetization">Creator monetization</a></li>
-<li><a href="#video-long-form-media--streaming">Video, long-form media &amp; streaming</a></li>
-<li><a href="#the-future-of-influencer-marketing">The future of influencer marketing</a></li>
-<li><a href="#the-first-mover-advantage--the-transition">The first mover advantage &amp; the transition</a></li>
-</ul>
+<!-- toc -->
 <h1 id="why-build-if-vendor-lock-in-isnt-possible"><a class="header" href="#why-build-if-vendor-lock-in-isnt-possible">Why build if <a href="https://en.wikipedia.org/wiki/Vendor_lock-in">vendor lock-in</a> isn't possible?</a></h1>
 <p>Freedom can be a competitive advantage: <a href="https://en.wikipedia.org/wiki/Substack">Substack</a> lets you leave &amp; take your subscribers with you (an email list) - a conscious choice to compete on the quality of service. <strong>But they are an outlier</strong>.</p>
 <p>Headjack's fundamental premise is that it unlocks many possibilities &amp; value to users because the barrier to entry for services would be much lower and they could be composable &amp; interoperable which would lead to greater innovation, quality, choice &amp; freedom. So given that users would benefit more in this ecosystem and that their attention is finite &amp; will be spent either way - it stands to reason that there is money to be made in an even bigger pie! But competition will look different.</p>
@@ -374,7 +362,7 @@ https://www.youtube.com/watch?v=4IaOeVgZ-wc
         </div>
 
         <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
+        <script>
             const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
             const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
             const socket = new WebSocket(wsAddress);
@@ -392,18 +380,18 @@ https://www.youtube.com/watch?v=4IaOeVgZ-wc
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
 
-        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
 
         <!-- Custom JS scripts -->
 
