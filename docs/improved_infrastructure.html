@@ -154,7 +154,12 @@
                     <main>
                         <h1 id="improved-infrastructure"><a class="header" href="#improved-infrastructure">Improved infrastructure</a></h1>
 <p>Tying data to identity and making it freely available &amp; outside of silos through content-centric addressing enables a lot of composability, functionality &amp; innovation.</p>
-<!-- toc -->
+<ul>
+<li><a href="#code-as-addressable-data">Code as addressable data</a></li>
+<li><a href="#better-and-more-competitive-search-engines">Better and more competitive search engines</a></li>
+<li><a href="#optimal-archiving-like-the-internet-archive">Optimal archiving (like the Internet Archive)</a></li>
+<li><a href="#redundancy-scaling--topological-flexibility">Redundancy, scaling &amp; topological flexibility</a></li>
+</ul>
 <h1 id="code-as-addressable-data"><a class="header" href="#code-as-addressable-data">Code as addressable data</a></h1>
 <p>Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.</p>
 <p>TODO: this wouldn't be necessary

@@ -154,7 +154,13 @@
                     <main>
                         <h1 id="data-storage--retrievability"><a class="header" href="#data-storage--retrievability">Data storage &amp; retrievability</a></h1>
 <p>In this chapter we will see the different aspects of handling unlimited amounts of off-chain data:</p>
-<!-- toc -->
+<ul>
+<li><a href="#ingestion-and-transformation-of-blob-data">Ingestion and transformation of blob data</a></li>
+<li><a href="#hierarchical-data-blobs--partial-fetches">Hierarchical data blobs &amp; partial fetches</a></li>
+<li><a href="#direct-ipfs-connections--horizontal-scaling">Direct IPFS connections &amp; horizontal scaling</a></li>
+<li><a href="#sharing-data-before-anchoring-it">Sharing data before anchoring it</a></li>
+<li><a href="#how-to-retrieve-data-for-a-random-uri">How to retrieve data for a random URI</a></li>
+</ul>
 <h1 id="ingestion-and-transformation-of-blob-data"><a class="header" href="#ingestion-and-transformation-of-blob-data">Ingestion and transformation of blob data</a></h1>
 <p>Off-chain blobs with data will be fetched, processed and stored immediately after they are published in more optimal database formats for content to be later directly served by application infrastructure. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request proofs for any event at any time (&amp; cache them locally) because they can be regenerated on the fly as necessary.</p>
 <h1 id="hierarchical-data-blobs--partial-fetches"><a class="header" href="#hierarchical-data-blobs--partial-fetches">Hierarchical data blobs &amp; partial fetches</a></h1>

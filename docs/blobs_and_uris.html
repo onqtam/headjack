@@ -154,7 +154,13 @@
                     <main>
                         <h1 id="blobs--persistent-uris"><a class="header" href="#blobs--persistent-uris">Blobs &amp; persistent URIs</a></h1>
 <p>This chapter will explain how all off-chain <a href="messages.html">messages</a> (actions/events/content) get published:</p>
-<!-- toc -->
+<ul>
+<li><a href="#blob-construction---batching-of-user-events">Blob construction - batching of user events</a></li>
+<li><a href="#stable-intra-blob-addressing-before-publishing">Stable intra-blob addressing before publishing</a></li>
+<li><a href="#persistent--provable-uris">Persistent &amp; provable URIs</a></li>
+<li><a href="#steps-to-prove-the-authenticity-of-a-uri">Steps to prove the authenticity of a URI</a></li>
+<li><a href="#a-few-other-notes">A few other notes</a></li>
+</ul>
 <h1 id="blob-construction---batching-of-user-events"><a class="header" href="#blob-construction---batching-of-user-events">Blob construction - batching of user events</a></h1>
 <p>Applications accumulate off-chain activity from users which they cryptographically anchor in batches with a <a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle root</a> on-chain and they determine how often to do so (it doesn't have to be on every block) - those with little activity may submit only once per minute or even less often - the frequency is determined by applications based on the volume of activity and the on-chain publishing costs.</p>
 <p>When enough activity has been collected it is time for the application to finalize the batch: it is packed in a blob and all the events generated since the last anchored batch are sorted &amp; grouped by accounts in some deterministic way (perhaps accounts based on index and actions based on the type/sequence) with some schema with the following steps:</p>
