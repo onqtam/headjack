@@ -8,16 +8,15 @@
 
         <!-- Custom HTML head -->
         <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMDB9SH6"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMDB9SH6"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+        
+                gtag('config', 'G-6BQMDB9SH6');
+                </script>
 
-        gtag('config', 'G-6BQMDB9SH6');
-        </script>
-
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -42,13 +41,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -64,7 +63,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -76,7 +75,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -111,7 +110,7 @@
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
                         </ul>
                         <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
                             <i class="fa fa-search"></i>
@@ -143,7 +142,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -155,13 +154,7 @@
                     <main>
                         <h1 id="data-storage--retrievability"><a class="header" href="#data-storage--retrievability">Data storage &amp; retrievability</a></h1>
 <p>In this chapter we will see the different aspects of handling unlimited amounts of off-chain data:</p>
-<ul>
-<li><a href="#ingestion-and-transformation-of-blob-data">Ingestion and transformation of blob data</a></li>
-<li><a href="#hierarchical-data-blobs--partial-fetches">Hierarchical data blobs &amp; partial fetches</a></li>
-<li><a href="#direct-ipfs-connections--horizontal-scaling">Direct IPFS connections &amp; horizontal scaling</a></li>
-<li><a href="#sharing-data-before-anchoring-it">Sharing data before anchoring it</a></li>
-<li><a href="#how-to-retrieve-data-for-a-random-uri">How to retrieve data for a random URI</a></li>
-</ul>
+<!-- toc -->
 <h1 id="ingestion-and-transformation-of-blob-data"><a class="header" href="#ingestion-and-transformation-of-blob-data">Ingestion and transformation of blob data</a></h1>
 <p>Off-chain blobs with data will be fetched, processed and stored immediately after they are published in more optimal database formats for content to be later directly served by application infrastructure. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request proofs for any event at any time (&amp; cache them locally) because they can be regenerated on the fly as necessary.</p>
 <h1 id="hierarchical-data-blobs--partial-fetches"><a class="header" href="#hierarchical-data-blobs--partial-fetches">Hierarchical data blobs &amp; partial fetches</a></h1>
@@ -234,7 +227,7 @@ https://imgflip.com/memegenerator/342785297/Gus-Fring-we-are-not-the-same -->
         </div>
 
         <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
+        <script>
             const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
             const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
             const socket = new WebSocket(wsAddress);
@@ -252,18 +245,18 @@ https://imgflip.com/memegenerator/342785297/Gus-Fring-we-are-not-the-same -->
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
 
-        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
 
         <!-- Custom JS scripts -->
 
