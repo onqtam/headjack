@@ -99,4 +99,4 @@ problem: apple does not allow apps with internal app stores?
 
 the cost for IDMs to store the data of their users might be quite high because of all the merkle proofs
 
-
+settlement is not native to this system

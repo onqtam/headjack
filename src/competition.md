@@ -255,6 +255,7 @@ https://crypto.stackexchange.com/questions/38043/hmac-vs-rsa-speed
 
 bloat because of individual signatures - versus computable hashes that don't need to be stored
 
+DA is very important for DID resolution - if there's no guaranteed DA - there's no guaranteed resolution.
 
 
 authentic timestamps?
