@@ -220,3 +220,7 @@ https://twitter.com/FFO_Freedom/status/1590529363942203392
 
 
 > "As I've said for a long time, I don't mind moderation, I just want to be in charge of what I see. Give me the tools that the moderators have, let me be able to filter out bots at some confidence level; let me see "removed" posts, banned accounts; don't mess with my searches unless I've asked for that explicitly. Power to the people." - [source](https://news.ycombinator.com/item?id=33447848)
+
+
+> "Community moderation works. This was the overwhelming lesson of the early internet. It works because it mirrors the social interaction of real life, where social groups exclude people who don’t fit in. And it works because it distributes the task of policing the internet to a vast number of volunteers, who provide the free labor of keeping forums fun, because to them maintaining a community is a labor of love. And it works because if you don’t like the forum you’re in — if the mods are being too harsh, or if they’re being too lenient and the community has been taken over by trolls — you just walk away and find another forum." - [source](https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented)
+

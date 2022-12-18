@@ -84,7 +84,7 @@ Some of this is a subjective estimation - many of the claims lack official sourc
     <td style="background-color:lime">Polkadot</td>
     <td style="background-color:green">centralized consortium of servers</td>
     <td style="background-color:red">Bitcoin</td>
-    <td style="background-color:yellow">Ethereum, but the anchor might not be immediate</td>
+    <td style="background-color:yellow">Ethereum, but the anchors are occasional</td>
     <td style="background-color:green">Polygon PoS</td>
 </tr>
 <tr>

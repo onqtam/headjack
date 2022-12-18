@@ -23,6 +23,16 @@ The web is broken on many fronts - this chapter explores many problematic aspect
 
 > "Millions saw the apple fall, but Newton was the one who asked why." - [Bernard Baruch](https://www.brainyquote.com/quotes/bernard_baruch_122011)
 
+> "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209)
+
 <!--
-Managing information as a chapter name
+Managing information as a sub-chapter name?
+
+The building blocks of media are:
+- data tied to identities
+- preferences (which are also data)
+- the public/private spectrum for data
+- credentials & attestations
+- the public/private spectrum
+
 -->

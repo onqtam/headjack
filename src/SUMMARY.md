@@ -35,7 +35,7 @@
 
 <!-- Mental models for Headjack -->
 
-    <!-- - [Open questions & concerns](concerns.md) -->
+    <!-- - [Challenges for Headjack](concerns.md) -->
     <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
 # ⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇
