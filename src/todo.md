@@ -186,7 +186,7 @@
 
 - how to: Not be visible that im part of some subreddit but still be included in the public counter?
 
-- use "scroll-to-text-fragment" for non-twitter external quotes in the URLs
+- use "scroll-to-text-fragment"/"copy link to highlight" chrome option for non-twitter external quotes in the URLs
 
 - what if you create a private post for 20 specific followers - you could insert a unique watermark which gets signed along with the payload and then if any of them leak it it would be known who did it - no more piracy?
 

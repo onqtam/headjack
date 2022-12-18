@@ -20,6 +20,8 @@ But the original sin has been that it's [owned by a company](https://twitter.com
 
 # The global event bus / pub-sub
 
+<!-- The global digital / unified / singular firehose -->
+
 One way to look at Headjack is as a global [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) messaging network where accounts, message types, tags, application sources & [anything within documents](data_legos.md#event-streams) can be treated as topics to subscribe to - a multidimensional notification highway. It's the ultimate user-friendly successor of the [too technical](https://twitter.com/mgsiegler/status/311992206716203008) RSS - [`"people jumped ship as soon as something better came along"`](https://twobithistory.org/2018/12/18/rss.html).
 
 When compared to [Kafka](https://kafka.apache.org/intro): it provides only logical addressing (allowing for the storage layer to evolve & migrate data seamlessly) and delegates the data availability (storage & retrievability) of the actual documents/events to the entities in the ecosystem (users/IDMs/applications/archives) on a [best-effort](https://en.wikipedia.org/wiki/Best-effort_delivery) basis without guarantees (but with [multiple ways for retrieving data for a URI](store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri)).
@@ -185,6 +187,8 @@ Blockchains can play a major role in upgrading our systems of trust, reputation 
 
 # The path to AGI (the G is [Global](https://twitter.com/Sara_Imari/status/1400922067919376384))
 
+<!-- Information flow theory in our systems - it all comes down to information being at the right place at the right time to make the maximum impact -->
+
 > "Engelbart’s dream was to use computers to connect individuals in a network that would allow them to share and update information in “real time.”" - [Douglas Engelbart](https://www.britannica.com/biography/Douglas-Engelbart), Internet pioneer
 
 > "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
@@ -192,6 +196,8 @@ Blockchains can play a major role in upgrading our systems of trust, reputation 
 Biology is layers of "dumb" systems that cooperate and mediate between each other. Humans are just a collection of cells - including the "central" nervous system - and they play along and cooperate which leads to the emergence of consciousness and intelligence. There’s no fundamental reason for humans to not be able to assemble into a unified global [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence) - a [hive mind](https://en.wikipedia.org/wiki/Global_brain).
 
 > "Every follow is a synapse in a global metabrain" - [Danielle Fong](https://twitter.com/DanielleFong/status/1559185769016729606)
+
+> "I think Twitter is the closest thing we have to a global consciousness." - [@jack](https://twitter.com/jack/status/560861182622724096)
 
 > "Because it consists of billions of bidirectional interactions per day, Twitter can be thought of as a collective, cybernetic super-intelligence" - [@elonmusk](https://twitter.com/elonmusk/status/1588081971221053440)
 
@@ -222,8 +228,11 @@ a new era for communication, cooperation & compute
 - empower storytellers by [improving books and publications](knowledge_management.md#the-future-of-publishing-knowledge--learning)
 - make infrastructure more resilient through [redundancy](improved_infrastructure.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
 - slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
+- launching anything on a different network should be architecturally indefensible
 
 # Mission
+
+<!-- Giving data names forever -->
 
 <h1 style="text-align:center">
 <u><i>End the host-centric model by linking data to identity at scale & unbundle the media stack.</i></u>
