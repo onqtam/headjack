@@ -1,60 +1,86 @@
-<div style="text-align: center;">
-    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
-</div>
+# Concerns with Headjack
 
-# Problems with headjack
-
-
-It's not all roses for the project - here are all the important challenges:
-
-Unintended consequences
-
+A list of the most important problems & challenges for the project:
 
 <!-- toc -->
 
+
+
+Fractured view
+
+
+
 # Data problems
+
+- The proof for an individual document for a URI might be quite big - if there are 1 million events by all users in a blob that a big application anchors with a single commit (realistic for something like Twitter if it anchors once every 10 seconds),then one would need about 20 hashes (log(1,000,000)) in a binary Merkle tree in order to prove the authenticity of any individual element. Suppose an event is just a simple reaction - probably less than 100 bytes including everything necessary. With 32 byte hashes we would end up with 0.64kb just for the proof of inclusion in the binary blob with 1 million elements which is 6.4 times larger than the data itself.
+
+
+A promising way to reduce the size of proofs is to use much wider trees (not binary but with a branching factor of up to 1024, or maybe even more!) with KZG vector commitments - they allow us to prove that an element is part of a set with a small constant size proof - without having to provide the hashes of all sister elements. Ethereum will be moving to a [Verkle tree](https://vitalik.ca/general/2021/06/18/verkle.html) structure for the same reasons - reducing the depth of the tree and the size of proofs for individual elements. 1 million elements can be represented with a tree with a branching factor of 1000 and depth 2 and only 2 KZG proofs would be required to prove the inclusion of any element. However, it's not clear what the performance costs would be when uzing KZG commitments (or their size) - this should be researched. Perhaps a SNARK is another option - not sure.
+
+
+<!--
+
+Reducing merkle proof sizes with Verkle Tries
+"It’s a constant size proof regardless of the width."
+https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum
+Guide to the Ethereum Roadmap | Jon Charbonneau of Delphi Digital
+https://www.youtube.com/watch?v=xuLyZaty9iI
+vector commitments (Merkle proofs)
+https://blog.ethereum.org/2021/12/02/verkle-tree-structure/
+https://www.youtube.com/watch?v=RGJOQHzg3UQ
+https://vitalik.ca/general/2021/06/18/verkle.html
+https://notes.ethereum.org/@vbuterin/verkle_tree_eip
+
+Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean
+https://www.youtube.com/watch?v=Q7rStTKwuYs
+
+https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
+"Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
+
+https://twitter.com/SalomonCrypto/status/1581462447491194880
+https://twitter.com/SalomonCrypto/status/1583573077081792512
+
+-->
+
+
 
 the cost for IDMs to store the data of their users might be quite high because of all the merkle proofs
 
-- negative: proofs might be big - imagine how much would the proofs be for 1000 likes
 
-- could it be that checking with proofs all the content might be too much processing? doubt it...
-
-- what happens if an event that's not anchored yet becomes illegitimate by an IDM unauthorizing an application before the content is anchored? Confusing for people...
-
-Users won't be able to authorize & login to services if the chain is down...
-    but that's true if google went down too
 
 responsibilities and assumptions - users should monitor if apps send their activity to their idm
 
-# Complexity for users
-# Different aggregates & confusion
-- how to count impressions/views of videos?
-- Disadvantage: different criteria for counting engagement would result in different views => confusing?
+- State growth - Headjack keeps a lot of the history in its materialized state in order to guarantee historic data availability so that anyone can generate proofs for older events - not just the "current view" (which also constantly grows because of more and more accounts). However, most of this is compact integers (block ranges for ownership & authorizations, nonce mappings, etc.) and growth will not be very high - should be well below that of Solana even with billions of accounts. If necessary, history older than some threshold (a decade?) could be pruned - older documents with already generated & cached proofs will be self-authenticating and other services could provide archival nodes without pruned history as well.
 
-The dust will settle eventually & people will learn
+# Complexity & confusion
 
-also what happens if some new application is very spammy? should the infra just pay the costs for storage by default?
+- Counters & other aggregates could be different depending on the application / inrfastructure / filters used for it. The landscape of possibilities will be far greater than what is currently possible - it will take time for the dust to settle & people to learn mental models for how to think about data and the different ways it can be presented.
+
+Concern & complexity - users and their data - where is it and what are the guarantees for its storage
+
 
 # Centralization risks
 
-- users not binding keys to their accounts because its complicated & feels "unnecessary"
+The follownig risks are inevitable because we're targeting everything digital at a worldwide scale - there is no better solution and it is an improvement to the status quo in terms of lowering the bar for new entrants to come in and compete.
 
-- IDMs could "lock in" users by not adhering to the standards for exporting data
+- The market will consolidate to only a few infrastructure companies & IDMs in this scale-free network because of **1)** [efficiency](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-because-they-are-efficient), **2)** [selection pressure](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-because-of-selection-pressure), and **3)** [preferential attachment](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-due-to-preferential-attachment).
 
-Problem: premium features could lock ppl in to idms
+- The few biggest infrastructure companies could become the choke points for censorship, but at least new entrants can come in, although it would be prohibitively expensive for them to ingest & index all historic data - it's more likely & practical they'll operate forward from a certain point in time and ignore most or everything before that.
 
-- what if a specific application is very spammy and infrasturcture blacklists it, but some users use it and expect their creations & edits to be visible elsewhere?
+- Some applications might depend too much on specific indexes that can be maintained cost-effectively only by the biggest infrastructure companies and that way they may end up locked-in with nowhere else to go.
 
-Concern with centralization of infrastructure - but theres no way to improve it
+- IDMs & applications could lock-in users by not adhering to the standards for interoperable data & messages by offering custom features, but this problem exists on the web today as well with other open protocols and a strong culture of checking if interoperability is maintained can counteract this.
 
-If an IDM gets hacked along with their private key then all users without a keypair are lost.
-    - IDMs should have a 2nd keypair that is used only to recover in such scenarios
+# Trust issues
 
-could end up with only a few infra companies, but if need be new ones can enter
-concern: censorship based on infra used - forcing apps to move to the "right" infra with the "right" filtering
+- Very few users might bind a keypair to their accounts because it's complicated & feels "unnecessary" leading to more control for IDMs over users.
 
-Concern: what if apps depend too much on specific infra companies with economies of scale and have nowhere else to migrate
+Users with no keys - 
+This is the tradeoff required for mass adoption
+
+- Users without keypairs will probably have to trust their IDMs in regards to the ownership of their names as transactions & changes won't be explicitly signed by them.
+
+- If something goes wrong with an IDM
 
 # name squatting
 
@@ -63,7 +89,9 @@ Concern: what if apps depend too much on specific infra companies with economies
 
 
 
-# Privacy concerns
+# Privacy concerns & regulations around data
+
+- Could be very addictive - no way to hide like count
 
 no right to be forgotten?
 
@@ -72,6 +100,7 @@ what if you by mistake like adult content through your main account and that eve
 https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible
 
 ClearviewAI, but on stereoids
+https://twitter.com/WolfieChristl/status/1604121118578823171
 The cat is out of the bag
 https://twitter.com/driesdepoorter/status/1569285878089908231
 https://metro.co.uk/2022/09/14/ai-art-project-reveals-truth-behind-influencers-instagram-photos-17371535/
@@ -159,7 +188,6 @@ Con: everyone will see the authorized apps?
 
 
 
-- State growth - Headjack keeps a lot of the history in its materialized state as ranges for historic querying & to generate proofs - not just the "current view" which itself constantly grows. However, most of this is compact integers (block ranges for authorization, nonce mappings, etc.) and growth will not be extremely high. [Bluesky](others_list.md#bluesky) similarly wants to be able to prove the authenticity of old content and has a transparency log but it will be much less compact.
 
 - Social graphs & DMs are facilitated by [IDMs](IDM.md) which resemble [Farcaster](others_list.md#farcaster)'s managed hosts and [Bluesky](others_list.md#bluesky)'s Personal Data Servers - a centralization point with some trust assumptions and potential for data breaches. However, this is the best tradeoff that would allow for true mass adoption and is still a massive improvement to the status quo. A big failure scenario is if an IDM that manages millions of accounts goes rogue or shuts down:
     - Those that have not bound a keypair to their accounts will effectively be stuck.
@@ -171,12 +199,15 @@ Con: everyone will see the authorized apps?
 
 - Data pointed to by a URI is not by itself [self-authenticating](https://en.wikipedia.org/wiki/Self-authenticating_document) - it needs accompanying cryptographic Merkle proofs that only full blockchain nodes can generate. However, no solution provides fully self-authenticating content as keypairs might have changed - there will always be a need to consult with a [logically centralized](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) entity. Also archiving & bookmarking services (or fully self-contained articles/books with no external dependencies) that don't want to rely on repetitive requests to the blockchain in the future may request these proofs initially and store them along with the data.
 
+- what happens if an event that's not anchored yet becomes illegitimate by an IDM unauthorizing an application before the content is anchored? Confusing for people...
+
+
 
 
 - the unlimited amount & combinatorial explosion of customization & preferences might be too expensive for the infrastructure to support them
 
-- changing something from public to private
-
-- Could be very addictive - no way to hide like count
+- changing something from public to private and the other way around
 
 
+- what happens if some new application is very spammy? should the infra just pay the costs for storage by default?
+- what if a specific application is very spammy and infrasturcture blacklists it, but some users use it and expect their creations & edits to be visible elsewhere?

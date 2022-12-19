@@ -31,11 +31,11 @@
     - [Reinventing journalism]()
     - [Citizen journalism]()
     - [Startup case study](startup_case_study.md)
+    - [Concerns with Headjack](concerns.md)
     - [What REALLY is Headjack](what_really_is_headjack.md)
 
 <!-- Mental models for Headjack -->
 
-    <!-- - [Challenges for Headjack](concerns.md) -->
     <!-- - [Shortcomings of Headjack](headjack_cons.md) -->
 
 # ⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇

@@ -160,12 +160,7 @@
 
 - https://fidoalliance.org/
 
-- look into Verkle trees & KZG proofs / commitments
-    https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
-    "Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
-
-    https://twitter.com/SalomonCrypto/status/1581462447491194880
-    https://twitter.com/SalomonCrypto/status/1583573077081792512
+- look into Verkle trees & KZG vector commitments - links to resources in the concerns.md page
 
 
 - How to toggle content to be either public/private? Once it is out it is out :|
@@ -421,7 +416,6 @@ https://www.rand.org/pubs/research_memoranda/RM3420.html
 - identity is logically centralized
 - trusted hubs are decentralized
 - data is distributed and addressable
-Scale-free networks emerge **1)** because [they are efficient](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-because-they-are-efficient), **2)** because of [selection pressure](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-because-of-selection-pressure), and **3)** due to [preferential attachment](https://subconscious.substack.com/i/59924410/scale-free-networks-emerge-due-to-preferential-attachment)
 
 > "If you decentralize, the system will recentralize, but one layer up. Something new will be enabled by decentralization. That sounds like [evolution](https://subconscious.substack.com/i/52021619/modularity-is-how-the-system-itself-evolves) through [layering](https://subconscious.substack.com/p/layered-protocols), like [upward-spiraling complexity](https://subconscious.substack.com/p/open-ended-tools-for-infinite-games#:~:text=upward%2Dspirals%20of%20evolutionary%20complexity). That sounds like progress to me." - [source](https://subconscious.substack.com/p/decentralization-enables-permissionless#:~:text=If%20you%20decentralize%2C%20the%20system%20will%20recentralize%2C%20but%20one%20layer%20up.)
 

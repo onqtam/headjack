@@ -230,6 +230,8 @@ a new era for communication, cooperation & compute
 - slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
 - launching anything on a different network should be architecturally indefensible
 
+<!-- argument from cryptography > argument from authority -->
+
 # Mission
 
 <!-- Giving data names forever -->

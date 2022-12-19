@@ -57,6 +57,9 @@ URIs are persistent as long as someone hosts either the individual event + the M
 - Accounts that anchor content on-chain cannot do so twice in the same block - for simplicity.
 
 <!--
+
+Blob construction is a trivially parallelizable problem
+
 # On proof permanence
 
 One thing to consider is if a user revokes the authorization of an application to post on their behalf retroactively - not just going forward but also invalidating all anchored content & follow/unfollow events for the last couple of days through that application. This would mean that cached Merkle proofs for such invalidated content will no longer be valid and the latest state of the blockchain will refuse to produce new such proofs, but the cached proofs could mislead someone. Retroactive revocation can happen only up to `X` days to limit the scope of changes to cached proofs & what infrastructure would need to handle but still give enough time for anyone to react in case an application has posted fraudulent activity on their behalf - a **mostly theoretical concern**. Proofs for blocks older than `X` days are therefore considered permanent.

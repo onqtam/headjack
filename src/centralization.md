@@ -5,6 +5,8 @@
 # DNS & certificate authorities
 
 
+<!-- https://twitter.com/matthew_d_green/status/1604153242505584640 -->
+
 ledger of record page - this can obsolete certificate authorities in the use of TLS
 https://en.wikipedia.org/wiki/Certificate_authority
 host-centric page - reliance on certificate authorities
