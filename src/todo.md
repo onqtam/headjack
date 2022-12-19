@@ -409,6 +409,20 @@ What about browser in the driver/filesystem/OS analogy?
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 
+> "Social media favors viral outbreaks over complex multicellular thought. Can the internet evolve multicellular memes? This seems like an important question for a civilization that is building on top of the internet." - [source](https://subconscious.substack.com/p/ideas-procreate-through-citation)
+
+
+> "Complex ideas procreate through citation" - [source](https://subconscious.substack.com/i/69080819/complex-ideas-procreate-through-citation)
+
+> "Citation lets us compose new ideas from old ideas (heredity), and maybe a bit of novel research (mutation). As the memepool grows, the number of possible combinations scales exponentially." - [source](https://subconscious.substack.com/p/ideas-procreate-through-citation#:~:text=assignment%20in%20syllabi.-,Citation,-lets%20us%20compose)
+
+> "Posit: for a medium to be capable of evolving complex memes, it must have a mechanism for citation." - [source](https://subconscious.substack.com/p/ideas-procreate-through-citation)
+
+> "Social media typically rewards engagement, not composition." - [source](https://subconscious.substack.com/p/ideas-procreate-through-citation)
+
+
+
+
 <!-- # Network structure
 
 https://www.rand.org/pubs/research_memoranda/RM3420.html

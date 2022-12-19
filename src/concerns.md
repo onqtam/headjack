@@ -4,19 +4,11 @@ A list of the most important problems & challenges for the project:
 
 <!-- toc -->
 
-
-
-Fractured view
-
-
-
 # Data problems
 
-- The proof for an individual document for a URI might be quite big - if there are 1 million events by all users in a blob that a big application anchors with a single commit (realistic for something like Twitter if it anchors once every 10 seconds),then one would need about 20 hashes (log(1,000,000)) in a binary Merkle tree in order to prove the authenticity of any individual element. Suppose an event is just a simple reaction - probably less than 100 bytes including everything necessary. With 32 byte hashes we would end up with 0.64kb just for the proof of inclusion in the binary blob with 1 million elements which is 6.4 times larger than the data itself.
-
-
-A promising way to reduce the size of proofs is to use much wider trees (not binary but with a branching factor of up to 1024, or maybe even more!) with KZG vector commitments - they allow us to prove that an element is part of a set with a small constant size proof - without having to provide the hashes of all sister elements. Ethereum will be moving to a [Verkle tree](https://vitalik.ca/general/2021/06/18/verkle.html) structure for the same reasons - reducing the depth of the tree and the size of proofs for individual elements. 1 million elements can be represented with a tree with a branching factor of 1000 and depth 2 and only 2 KZG proofs would be required to prove the inclusion of any element. However, it's not clear what the performance costs would be when uzing KZG commitments (or their size) - this should be researched. Perhaps a SNARK is another option - not sure.
-
+- Proofs for individual documents for a URI might be quite big - if there are 1 million events by all users in a blob that a big application anchors with a single commit (realistic for something like Twitter if it anchors once every 10 seconds),then we'd need about 20 hashes (log(1000000)) in a binary Merkle tree in order to prove the authenticity of any individual element. Suppose an event is just a simple reaction - probably less than 100 bytes including everything necessary. With 32 byte hashes we would end up with 0.64kb just for the proof of inclusion in the blob with 1 million elements which is at least 6.4 times larger than the data itself.
+    - This isn't a problem for infrastructure companies that store the entire data blobs or the applications that publish them as there's enormous overlap in the proofs for the elements witin a blob (so the proof overhead will be less that the entire blob itself and it can even be entirely skipped as the proofs can be re-generated), but entities like IDMs that want to cache individual elements for their users out of the aggregate blobs will have to store a lot more data.
+    - A possible way to reduce the size of proofs is to use much wider trees (not binary but with a branching factor of up to 1024, or maybe even more!) with KZG vector commitments - they allow us to prove that an element is part of a set with a small constant size proof - without having to provide the hashes of all sister elements. Ethereum will be moving to a [Verkle tree](https://vitalik.ca/general/2021/06/18/verkle.html) structure for the same reasons - reducing the depth of the tree and the size of proofs for individual elements. 1 million elements can be represented with a tree with a branching factor of 1000 and depth 2 and only 2 KZG proofs would be required to prove the inclusion of any element. However, it's not clear what the performance costs would be when uzing KZG commitments (or their size) - **this should be researched**.
 
 <!--
 
@@ -42,13 +34,8 @@ https://twitter.com/SalomonCrypto/status/1583573077081792512
 
 -->
 
-
-
-the cost for IDMs to store the data of their users might be quite high because of all the merkle proofs
-
-
-
-responsibilities and assumptions - users should monitor if apps send their activity to their idm
+- Edits/updates or deleting a document will result in a different URI - the original URI/document are unaffected. This means that all infra & apps will have to monitor the network for updates of elements but some might miss it because an update may come from anywhere - not necessarily from the original application that posted the event.
+    - One option is whenever an edit/update/delete is made, the application that's used to generate it would have to explicitly notify the IDM of the user (and maybe also the original application) that there's been an update. The IDM may keep a compact map of document URIs that have had changes and point to the URI of the latest version of those documents (but no intermediate versions) without any proofs. All updates should always refer to the URI of the original version of an event. However, there are 3 problems with this: **1)** if the IDM doesn't check the authenticity of the edits/updates it may be fooled into thinking that the user has changed something, **2)** an application might not inform the IDM, **3)** this will lead to additional storage requirements for IDMs, and **4)** this will lead to a lot of traffic & requests from all kinds of applications to IDMs just to check if there's been an update for a document before visualizing it. **A better solution is needed.**
 
 - State growth - Headjack keeps a lot of the history in its materialized state in order to guarantee historic data availability so that anyone can generate proofs for older events - not just the "current view" (which also constantly grows because of more and more accounts). However, most of this is compact integers (block ranges for ownership & authorizations, nonce mappings, etc.) and growth will not be very high - should be well below that of Solana even with billions of accounts. If necessary, history older than some threshold (a decade?) could be pruned - older documents with already generated & cached proofs will be self-authenticating and other services could provide archival nodes without pruned history as well.
 
@@ -56,8 +43,7 @@ responsibilities and assumptions - users should monitor if apps send their activ
 
 - Counters & other aggregates could be different depending on the application / inrfastructure / filters used for it. The landscape of possibilities will be far greater than what is currently possible - it will take time for the dust to settle & people to learn mental models for how to think about data and the different ways it can be presented.
 
-Concern & complexity - users and their data - where is it and what are the guarantees for its storage
-
+- It would be easy for applications to show different versions of documents because applications & IDMs might be faulty - fracturing & distorting the state of the system.
 
 # Centralization risks
 

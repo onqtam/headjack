@@ -12,6 +12,21 @@ This chapter focuses on the disadvantages of some of the more high-profile compe
 
 Some of this is a subjective estimation - many of the claims lack official sources.
 
+<!-- <iframe src="competition_table.html" title="Comparison table"
+style="width:100%; height:1200px"
+></iframe>
+
+!!!
+https://stackoverflow.com/questions/3934271/horizontal-scrollbar-on-top-and-bottom-of-table
+
+https://stackoverflow.com/questions/16660559/difference-between-iframe-embed-and-object-elements
+
+https://stackoverflow.com/a/31513163
+
+<object data="competition_table.html" style="width:100%; height:1200px"></object>
+
+<iframe src="competition_table.html" onload='javascript:(function(o){o.style.height=(o.contentWindow.document.body.scrollHeight+30)+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe> -->
+
 <div>
 <style type="text/css" scoped>
     .competition_comparison td {
