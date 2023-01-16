@@ -1124,6 +1124,7 @@ data availability guarantees don't need to be as strong as for finance - it won'
 If handles are permanent to shards then their allocation to shards can be managed in the beacon chain and it can be consulted when following urls to content - so that the shard idx doesn't have to be in the urls
 --><div style="break-before: page; page-break-before: always;"></div><h1 id="headjack-vs-the-competition"><a class="header" href="#headjack-vs-the-competition">Headjack vs the competition</a></h1>
 <p>This chapter focuses on the disadvantages of some of the more high-profile competing solutions in the space. Most of the issues are solved in Headjack due to its <a href="principles.html">guiding principles &amp; design goals</a>. This page doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another.</p>
+<!-- > "In order to cure, you must first understand." - [Random scientist, 28 Days Later (2002)](https://www.quotes.net/mquote/962715) -->
 <!-- Corrections for any inaccuracies are welcome! -->
 <!-- If Bluesky, Farcaster and DSNP had a baby with some special MKUltra spice it would be Headjack -->
 <ul>
@@ -1172,7 +1173,7 @@ https://stackoverflow.com/a/31513163
         text-decoration: underline;
     }
 </style>
-<table class="competition_comparison">
+<table class="competition_comparison" style="width:120%;">
 <tr>
     <td style="width:16%"></td>
     <td><b>Headjack</b></td>
@@ -1504,6 +1505,10 @@ https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d8
 -->
 <!-- 
 
+farcaster is a specific social networking protocol that is trying to also handle consistency & conflicts - like not allowing double liking of a post by a specific user, etc.
+
+Their product-led protocol development strategy means they need to chase product-like targets when designing a foundational protocol. Following [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law), when a measure becomes a target, it ceases to be a good measure.
+
 !!!!!
 
 Farcaster can be entirely rebuilt on top of Headjack but not everything that Headjack enables can be built on top of Farcaster.
@@ -1731,9 +1736,9 @@ https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
 <blockquote>
 <p>&quot;Millions saw the apple fall, but Newton was the one who asked why.&quot; - <a href="https://www.brainyquote.com/quotes/bernard_baruch_122011">Bernard Baruch</a></p>
 </blockquote>
-<blockquote>
-<p>&quot;Ideology scales like software.&quot; - <a href="https://twitter.com/balajis/status/1604055568851038209">@balajis</a></p>
-</blockquote>
+<p>https://www.google.com/search?q=start+with+why</p>
+<p>https://www.google.com/search?q=the+golden+circle</p>
+<!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 <!--
 Managing information as a sub-chapter name?
 
@@ -1753,6 +1758,8 @@ TODO: Surveillance capitalism
 There are other problems that aren't listed in this page but are mentioned in other pages where Headjack shines - incomplete!!!
 
 OMG HAVE A SECURITY SECTION! certificates, harder to do MITM attacks & spoof certificates, etc.
+also about data leaks:
+https://twitter.com/haseeb/status/1607063873936580608
 
 A centralized org like twitter can be infiltrated by spies to understand who is behind some anonymous account and criticizing their regime
 
@@ -2061,6 +2068,9 @@ https://en.wikipedia.org/wiki/Root_certificate</p>
 <p>“each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a></p>
 </blockquote>
 <h1 id="infrastructure-centralization"><a class="header" href="#infrastructure-centralization">Infrastructure centralization</a></h1>
+<blockquote>
+<p>&quot;Somehow people got comfortable with allowing a single public corporation being able to man-in-the-middle the entire Internet.&quot; - <a href="https://twitter.com/DavidVorick/status/1375572267933913093"><code>David Vorick</code></a></p>
+</blockquote>
 <p>Google is way more than just a search engine even though the majority of their revenue comes from advertising - they control large percentages of the plumbing of the web - key choke points such as submarine cables, routing, data centers, browsers, DNS, etc. <a href="https://twitter.com/DavidVorick"><code>David Vorick</code></a> puts this perfectly into perspective in <a href="https://blog.sia.tech/the-worrying-depth-and-scope-of-censorship-on-the-internet-ffd4bc5a5486"><code>The Worrying Depth and Scope of Censorship on the Internet</code></a> - some quotes:</p>
 <blockquote>
 <p>&quot;If Google decides they don’t like you, then for 65% of the world you simply stop existing. You have no recourse.
@@ -2193,6 +2203,9 @@ Leaving an authentic digital footprint and path
 > "While it is not possible to bring this hardness to physical history, let us all try to build this timestamped *digital* event history which is as complete as possible, so we can get a new source of "hardness" that did not, and could not, exist before." - [@sreeramkannan](https://twitter.com/sreeramkannan/status/1586960584964440064)
 
 
+> "We’ll need cryptographically signed information to know what’s true as institutional trust falls and AI-generated content rises." - [@balajis](https://twitter.com/balajis/status/1604532312301252609)
+
+
 the Deepfake Singularity is here
 EMBED THIS VIDEO
 https://www.youtube.com/watch?v=F4G6GNFz0O8
@@ -2275,6 +2288,9 @@ no mentioned "fact" shall remain unanchored/unreferenced - that's what stable UR
 <!-- TODO: POAP
 https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&sourceid=chrome&ie=UTF-8 -->
 <h1 id="reputation-systems"><a class="header" href="#reputation-systems">Reputation systems</a></h1>
+<!--
+https://twitter.com/gainzy222/status/1607114941567471621
+-->
 <blockquote>
 <p>&quot;Reputations will be of central importance, far more important in dealings than even the credit ratings of today.&quot; - <a href="https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html">The Crypto Anarchist Manifesto</a></p>
 </blockquote>
@@ -2666,7 +2682,17 @@ https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-i
 <p><a href="https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll">This article</a> posits that attribution has to go on-chain but Headjack offers an alternative - through the infrastructure companies.</p>
 <p>It is inevitable that mass media &amp; aggregation will be handled by centralized services that can save user details in logs - what we could do is make a market for user data and make it easier to opt out of such data harvesting with alternatives &amp; a way for whistleblowers to prove if a contract hasn't been honoured.</p>
 <p>the history of actions and tracked events would be private and shared only between infra platforms and ppl paying for ads?</p>
+<p>Identity wants to emerge
+Over the long run, any stable joinable key becomes an identity as it accumulates more correlated information about you.
+We see this today in the ads ecosystem, where data brokers and cross-site advertising networks use data joining to correlate information about you and track you around the internet. Email addresses, cookies, IP addresses, advertising identifiers—anything that is unique and stable can be used for data joining.
+https://subconscious.substack.com/p/soulbinding-like-a-state</p>
 <p>what if people jump between apps but aren't logged in some of them? chain is broken.</p>
+<p>ad fraud
+https://www.forbes.com/sites/augustinefou/2021/01/12/show-me-dont-tell-me-that-im-wrong-on-this
+https://www.youtube.com/watch?v=gZIXI-eY8OM</p>
+<p>read about ad tracking &amp; GDPR:
+https://whotracks.me/blog/gdpr-what-happened.html
+https://stratechery.com/2018/facebook-lenses/</p>
 <p>applications could strategically choose which infrastructure companies they use in order to provide the best attribution for accounts</p>
 <p>The ad business needs competition:
 https://www.wired.com/story/google-antitrust-ad-market-lawsuit/</p>
@@ -2735,6 +2761,11 @@ Currently, Coca-Cola targets audiences with the same ad but with some precision 
 <p>No other solution has a seamless way to address content on http and bridge with traditional dns</p>
 <p>traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first</p>
 <!--
+
+
+Privacy-first Ad Exchanges — Brave’s Themis uses zero-knowledge proofs to construct a decentralized, on-device ad exchange. The guarantees around attribution and fulfillment are trust-minimized and user privacy is treated as a first class citizen. Can other companies develop high quality privacy preserving ad-exchange experiences?
+https://multicoin.capital/2023/01/11/the-web3-growth-stack/
+https://brave.com/themis/
 
 
 
@@ -2826,6 +2857,15 @@ https://www.youtube.com/watch?v=4IaOeVgZ-wc
 <li>No risk of platforms cutting access to their APIs to third-party apps &amp; changing their <a href="https://en.wikipedia.org/wiki/Terms_of_service">ToS</a> because in this ecosystem everything is a third-party app around unified identity and data is no longer host-certified - addressing is <a href="host_vs_data_centric.html">data-centric</a>. There are no <a href="https://www.investopedia.com/ask/answers/05/economicmoat.asp">MOATs</a> &amp; lock-in - everyone focuses on their niche and competes on competency &amp; offering the best possible service.</li>
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="concerns-with-headjack"><a class="header" href="#concerns-with-headjack">Concerns with Headjack</a></h1>
+<!--
+
+TODO:
+
+mark concerns with some color or shape that are not just relevant to headjack but any decentralized solution
+
+other protocols also suffer from this - how do you update an element identifiable with a hash?
+
+-->
 <p>A list of the most important problems &amp; challenges for the project:</p>
 <ul>
 <li><a href="concerns.html#data-problems">Data problems</a></li>
@@ -2867,6 +2907,9 @@ https://www.youtube.com/watch?v=Q7rStTKwuYs
 
 https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
 "Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
+
+
+https://ethresear.ch/t/using-polynomial-commitments-to-replace-state-roots/7095
 
 https://twitter.com/SalomonCrypto/status/1581462447491194880
 https://twitter.com/SalomonCrypto/status/1583573077081792512
@@ -3436,6 +3479,19 @@ https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-da
 an IDM may also use a social recovery wallet instead of email as login - or just a normal wallet/keypair authorization
 
 the more you rely on IDMs for features and data storage, the less sovereign you are.
+
+security:
+https://simplelogin.io/
+https://twitter.com/SimpleLogin
+https://haveibeenpwned.com/
+
+an IDM should merge with your browsers
+
+https://developer.apple.com/passkeys/
+
+Today, advertisers blast and drip communications to users in hope of capturing attention at the right time. Tomorrow, advertisers can place a price on the cost of a message and pass along an embedded financial incentive for users to read it. We can imagine dynamic inboxes in the future where value can be attached to messages, and mail/messaging apps can automatically push value-laden messages to the top of the inbox. Inboxes themselves can monetize out of these rules, and give users flexibility to select filters or configurations that work while allowing advertisers to target high-value users.
+https://multicoin.capital/2023/01/11/the-web3-growth-stack/
+
 
 
 If an IDM does not let users bind keypairs then they should be boycotted

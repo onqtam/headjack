@@ -37,6 +37,19 @@ an IDM may also use a social recovery wallet instead of email as login - or just
 
 the more you rely on IDMs for features and data storage, the less sovereign you are.
 
+security:
+https://simplelogin.io/
+https://twitter.com/SimpleLogin
+https://haveibeenpwned.com/
+
+an IDM should merge with your browsers
+
+https://developer.apple.com/passkeys/
+
+Today, advertisers blast and drip communications to users in hope of capturing attention at the right time. Tomorrow, advertisers can place a price on the cost of a message and pass along an embedded financial incentive for users to read it. We can imagine dynamic inboxes in the future where value can be attached to messages, and mail/messaging apps can automatically push value-laden messages to the top of the inbox. Inboxes themselves can monetize out of these rules, and give users flexibility to select filters or configurations that work while allowing advertisers to target high-value users.
+https://multicoin.capital/2023/01/11/the-web3-growth-stack/
+
+
 
 If an IDM does not let users bind keypairs then they should be boycotted
 

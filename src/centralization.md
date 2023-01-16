@@ -84,6 +84,8 @@ Contrast that to a world with interoperable & exportable identity/data:
 
 # Infrastructure centralization
 
+> "Somehow people got comfortable with allowing a single public corporation being able to man-in-the-middle the entire Internet." - [`David Vorick`](https://twitter.com/DavidVorick/status/1375572267933913093)
+
 Google is way more than just a search engine even though the majority of their revenue comes from advertising - they control large percentages of the plumbing of the web - key choke points such as submarine cables, routing, data centers, browsers, DNS, etc. [`David Vorick`](https://twitter.com/DavidVorick) puts this perfectly into perspective in [`The Worrying Depth and Scope of Censorship on the Internet`](https://blog.sia.tech/the-worrying-depth-and-scope-of-censorship-on-the-internet-ffd4bc5a5486) - some quotes:
 
 > "If Google decides they don’t like you, then for 65% of the world you simply stop existing. You have no recourse.

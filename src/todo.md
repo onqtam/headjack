@@ -155,6 +155,7 @@
 
     https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
     https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+    https://www.secjuice.com/cross-origin-resource-sharing-what-is-it-cors/
 
 - https://blog.google/technology/safety-security/one-step-closer-to-a-passwordless-future/
 
