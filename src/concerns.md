@@ -1,5 +1,15 @@
 # Concerns with Headjack
 
+<!--
+
+TODO:
+
+mark concerns with some color or shape that are not just relevant to headjack but any decentralized solution
+
+other protocols also suffer from this - how do you update an element identifiable with a hash?
+
+-->
+
 A list of the most important problems & challenges for the project:
 
 <!-- toc -->
@@ -28,6 +38,9 @@ https://www.youtube.com/watch?v=Q7rStTKwuYs
 
 https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
 "Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
+
+
+https://ethresear.ch/t/using-polynomial-commitments-to-replace-state-roots/7095
 
 https://twitter.com/SalomonCrypto/status/1581462447491194880
 https://twitter.com/SalomonCrypto/status/1583573077081792512

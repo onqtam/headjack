@@ -2,6 +2,8 @@
 
 This chapter focuses on the disadvantages of some of the more high-profile competing solutions in the space. Most of the issues are solved in Headjack due to its [guiding principles & design goals](principles.md). This page doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another.
 
+<!-- > "In order to cure, you must first understand." - [Random scientist, 28 Days Later (2002)](https://www.quotes.net/mquote/962715) -->
+
 <!-- Corrections for any inaccuracies are welcome! -->
 
 <!-- If Bluesky, Farcaster and DSNP had a baby with some special MKUltra spice it would be Headjack -->
@@ -47,7 +49,7 @@ https://stackoverflow.com/a/31513163
         text-decoration: underline;
     }
 </style>
-<table class="competition_comparison">
+<table class="competition_comparison" style="width:120%;">
 <tr>
     <td style="width:16%"></td>
     <td><b>Headjack</b></td>
@@ -363,6 +365,10 @@ https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d8
 -->
 
 <!-- 
+
+farcaster is a specific social networking protocol that is trying to also handle consistency & conflicts - like not allowing double liking of a post by a specific user, etc.
+
+Their product-led protocol development strategy means they need to chase product-like targets when designing a foundational protocol. Following [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law), when a measure becomes a target, it ceases to be a good measure.
 
 !!!!!
 

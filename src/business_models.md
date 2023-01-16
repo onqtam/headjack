@@ -113,10 +113,23 @@ It is inevitable that mass media & aggregation will be handled by centralized se
 the history of actions and tracked events would be private and shared only between infra platforms and ppl paying for ads?
 
 
+Identity wants to emerge
+Over the long run, any stable joinable key becomes an identity as it accumulates more correlated information about you.
+We see this today in the ads ecosystem, where data brokers and cross-site advertising networks use data joining to correlate information about you and track you around the internet. Email addresses, cookies, IP addresses, advertising identifiers—anything that is unique and stable can be used for data joining.
+https://subconscious.substack.com/p/soulbinding-like-a-state
+
+
 
 what if people jump between apps but aren't logged in some of them? chain is broken.
 
 
+ad fraud
+https://www.forbes.com/sites/augustinefou/2021/01/12/show-me-dont-tell-me-that-im-wrong-on-this
+https://www.youtube.com/watch?v=gZIXI-eY8OM
+
+read about ad tracking & GDPR:
+https://whotracks.me/blog/gdpr-what-happened.html
+https://stratechery.com/2018/facebook-lenses/
 
 
 applications could strategically choose which infrastructure companies they use in order to provide the best attribution for accounts
@@ -236,6 +249,11 @@ traditional web2 companies/apps/websites will be able to gradually transition an
 
 
 <!--
+
+
+Privacy-first Ad Exchanges — Brave’s Themis uses zero-knowledge proofs to construct a decentralized, on-device ad exchange. The guarantees around attribution and fulfillment are trust-minimized and user privacy is treated as a first class citizen. Can other companies develop high quality privacy preserving ad-exchange experiences?
+https://multicoin.capital/2023/01/11/the-web3-growth-stack/
+https://brave.com/themis/
 
 
 

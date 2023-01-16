@@ -9,6 +9,9 @@ Leaving an authentic digital footprint and path
 > "While it is not possible to bring this hardness to physical history, let us all try to build this timestamped *digital* event history which is as complete as possible, so we can get a new source of "hardness" that did not, and could not, exist before." - [@sreeramkannan](https://twitter.com/sreeramkannan/status/1586960584964440064)
 
 
+> "We’ll need cryptographically signed information to know what’s true as institutional trust falls and AI-generated content rises." - [@balajis](https://twitter.com/balajis/status/1604532312301252609)
+
+
 the Deepfake Singularity is here
 EMBED THIS VIDEO
 https://www.youtube.com/watch?v=F4G6GNFz0O8
@@ -102,6 +105,10 @@ Entities can sign messages that attest facts about other accounts - the creation
 https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&sourceid=chrome&ie=UTF-8 -->
 
 # Reputation systems
+
+<!--
+https://twitter.com/gainzy222/status/1607114941567471621
+-->
 
 > "Reputations will be of central importance, far more important in dealings than even the credit ratings of today." - [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 
