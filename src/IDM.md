@@ -26,6 +26,15 @@ https://en.wikipedia.org/wiki/Double_Ratchet_Algorithm
 https://chat.blockscan.com/start
 https://twitter.com/etherscan/status/1577667362744020992
 
+Whatsapp System design or software architecture
+https://www.youtube.com/watch?v=L7LtmfFYjc4
+
+Farcaster: Secure Messaging Requirements
+https://www.youtube.com/watch?v=NDmKOnGherE
+Farcaster: E2E Encryption
+https://www.youtube.com/watch?v=eMGtBmN7qKE
+Farcaster: Forward Secrecy
+https://www.youtube.com/watch?v=xaejrsT4KDk
 
 
 having everything from a user in a tree with a root hash - easier replication
