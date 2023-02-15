@@ -57,7 +57,7 @@ The talk [`"Decentralized identity & content addressing at web-scale"`](https://
 
 <!-- how it compares with other projects -->
 
-- **Why Headjack** - What's broken with the web and a blueprint of what could be possible - services, business models, infrastructure, algorithms, markets, metaverse, etc.
+- **Why Headjack** - What's broken with the web and a blueprint for what is possible - services, business models, infrastructure, algorithms, markets, metaverse, etc.
 
 - **Implementation of Headjack** - A detailed specification of the implementation.
 
