@@ -165,6 +165,12 @@ https://graymirror.substack.com/p/designing-the-ministry-of-truth
 
 
 
+> "Fact-checkers therefore affect not just what people believe, but what they can believe." - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=Fact%2Dcheckers%20therefore%20affect%20not%20just%20what%20people%20believe%2C%20but%20what%20they%20can%20believe.)
+
+> "fact-checkers, like the priests of old, are only pretending to have divine access to truth. In reality, they’re just as perplexed as the rest of us, and their verdicts are based less on what’s true than on what they’d prefer us to believe. As such, fact-checking should be understood not as the pursuit of truth, but the pursuit of power." - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=fact%2Dcheckers%2C%20like,pursuit%20of%20power.)
+
+
+
 
 
 BS Asymmetry Principle

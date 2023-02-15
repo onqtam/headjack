@@ -87,6 +87,8 @@
 
     - URI VERSIONING !!! https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R87
 
+    - what if the type of message is part of the URI - for easier filtering before fetching the content?
+
     - section about URIs & principles for their development?
         https://github.com/farcasterxyz/protocol/pull/1/files#diff-41a06fd4fdc96d9d6ab16fe8478ce9f47df511b62815efe372a601afd369a125R7
 
@@ -240,6 +242,8 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - What would browsers become?
 
+- throwaway accounts? to not waste account IDs
+
 - use different book generator
     https://github.com/gohugoio/hugo - shows sidebar on the right with the ToC of the page
     also this: https://github.com/zjp-CN/mdbook-theme
@@ -305,6 +309,9 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
     https://crypto.stackexchange.com/a/31915/77499
     https://crypto.stackexchange.com/questions/31914/proof-of-non-membership-on-a-merkle-tree
     > "Worst of all, you cannot easily update the tree without rebuilding it. To make an update you need to know the whole universe, not just the tip R as is the case for membership. Thus the construct is suitable for static dictionaries which are seldom updated, as well as short round membership protocols like joinmarket below."
+    OR NOT USE SORTED MERKLE TREE?
+        https://twitter.com/alinush407/status/1622666041200611328
+        https://alinush.github.io/2023/02/05/Why-you-should-probably-never-sort-your-Merkle-trees-leaves.html
 
 # memes
 
