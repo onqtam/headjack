@@ -14,7 +14,7 @@
     - [Throughput & scalability](numbers.md)
     - [Headjack vs the competition](competition.md)
 
-<!-- - [Why Headjack](motivation.md)
+- [Why Headjack](motivation.md)
     - [Problems with the web](problems_with_the_web.md)
         - [The host-centric web](host_centric.md)
         - [The information ecology](information_ecology.md)
@@ -32,7 +32,7 @@
     - [Citizen journalism]()
     - [Startup case study](startup_case_study.md)
     - [Concerns with Headjack](concerns.md)
-    - [What REALLY is Headjack](what_really_is_headjack.md) -->
+    - [What REALLY is Headjack](what_really_is_headjack.md)
 
 <!-- Mental models for Headjack -->
 

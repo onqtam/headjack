@@ -1,0 +1,426 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>(WIP) Business models - Headjack - the base layer of cyberspace</title>
+
+
+        <!-- Custom HTML head -->
+        <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMDB9SH6"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+        
+                gtag('config', 'G-6BQMDB9SH6');
+                </script>
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('ayu')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="introduction.html"><strong aria-hidden="true">1.</strong> What is Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="principles.html"><strong aria-hidden="true">1.1.</strong> Design - guiding principles</a></li><li class="chapter-item expanded "><a href="identity.html"><strong aria-hidden="true">1.2.</strong> Identity & authorization</a></li><li class="chapter-item expanded "><a href="addressing.html"><strong aria-hidden="true">1.3.</strong> Content addressing</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="host_vs_data_centric.html"><strong aria-hidden="true">1.3.1.</strong> Host vs data-centric</a></li><li class="chapter-item expanded "><a href="blobs_and_uris.html"><strong aria-hidden="true">1.3.2.</strong> Blobs & persistent URIs</a></li><li class="chapter-item expanded "><a href="names_and_paths.html"><strong aria-hidden="true">1.3.3.</strong> Names & paths</a></li></ol></li><li class="chapter-item expanded "><a href="messages.html"><strong aria-hidden="true">1.4.</strong> Messages</a></li><li class="chapter-item expanded "><a href="idms_preferences.html"><strong aria-hidden="true">1.5.</strong> IDMs, preferences & graphs</a></li><li class="chapter-item expanded "><a href="store_and_retrieve.html"><strong aria-hidden="true">1.6.</strong> Data storage & retrievability</a></li><li class="chapter-item expanded "><a href="blocks_state_proofs.html"><strong aria-hidden="true">1.7.</strong> Blocks, state & proofs, oh my!</a></li><li class="chapter-item expanded "><a href="numbers.html"><strong aria-hidden="true">1.8.</strong> Throughput & scalability</a></li><li class="chapter-item expanded "><a href="competition.html"><strong aria-hidden="true">1.9.</strong> Headjack vs the competition</a></li></ol></li><li class="chapter-item expanded "><a href="motivation.html"><strong aria-hidden="true">2.</strong> Why Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="problems_with_the_web.html"><strong aria-hidden="true">2.1.</strong> Problems with the web</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="host_centric.html"><strong aria-hidden="true">2.1.1.</strong> The host-centric web</a></li><li class="chapter-item expanded "><a href="information_ecology.html"><strong aria-hidden="true">2.1.2.</strong> The information ecology</a></li><li class="chapter-item expanded "><a href="centralization.html"><strong aria-hidden="true">2.1.3.</strong> (WIP) Centralization</a></li><li class="chapter-item expanded "><a href="barriers_to_entry.html"><strong aria-hidden="true">2.1.4.</strong> Silo vs interoperability</a></li><li class="chapter-item expanded "><a href="black_boxes.html"><strong aria-hidden="true">2.1.5.</strong> Black boxes & bias</a></li><li class="chapter-item expanded "><a href="specific_platforms.html"><strong aria-hidden="true">2.1.6.</strong> Specific platforms</a></li></ol></li><li class="chapter-item expanded "><a href="ledger_of_record.html"><strong aria-hidden="true">2.2.</strong> (WIP) History 2.0: the ledger of record</a></li><li class="chapter-item expanded "><a href="data_legos.html"><strong aria-hidden="true">2.3.</strong> Event streams & data legos</a></li><li class="chapter-item expanded "><a href="improved_infrastructure.html"><strong aria-hidden="true">2.4.</strong> Improved infrastructure</a></li><li class="chapter-item expanded "><a href="knowledge_management.html"><strong aria-hidden="true">2.5.</strong> Information management</a></li><li class="chapter-item expanded "><a href="algorithms_feeds_aggregation.html"><strong aria-hidden="true">2.6.</strong> (WIP) Algorithms, feeds & aggregation</a></li><li class="chapter-item expanded "><a href="business_models.html" class="active"><strong aria-hidden="true">2.7.</strong> (WIP) Business models</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.8.</strong> Reinventing journalism</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.9.</strong> Citizen journalism</div></li><li class="chapter-item expanded "><a href="startup_case_study.html"><strong aria-hidden="true">2.10.</strong> Startup case study</a></li><li class="chapter-item expanded "><a href="concerns.html"><strong aria-hidden="true">2.11.</strong> Concerns with Headjack</a></li><li class="chapter-item expanded "><a href="what_really_is_headjack.html"><strong aria-hidden="true">2.12.</strong> What REALLY is Headjack</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇</li><li class="spacer"></li><li class="chapter-item expanded "><a href="execution.html"><strong aria-hidden="true">3.</strong> Implementation of Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="IDM.html"><strong aria-hidden="true">3.1.</strong> Identity managers (IDM)</a></li><li class="chapter-item expanded "><a href="handles.html"><strong aria-hidden="true">3.2.</strong> Handles (names)</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Headjack - the base layer of cyberspace</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/onqtam/headjack" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <div style="text-align: center;">
+    <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
+</div>
+<h1 id="business-models"><a class="header" href="#business-models">Business models</a></h1>
+<p>Let's see how the current digital economy could be translated &amp; reimplemented on top of Headjack.</p>
+<ul>
+<li><a href="#why-build-if-vendor-lock-in-isnt-possible">Why build if vendor lock-in isn't possible?</a></li>
+<li><a href="#unbundling-the-media-stack-with-markets">Unbundling the media stack with markets</a></li>
+<li><a href="#attribution">Attribution</a></li>
+<li><a href="#advertising">Advertising</a></li>
+<li><a href="#application-attribution">Application attribution</a></li>
+<li><a href="#identity-managers---the-new-storage-cloud">Identity managers - the new storage cloud</a></li>
+<li><a href="#creator-monetization">Creator monetization</a></li>
+<li><a href="#video-long-form-media--streaming">Video, long-form media &amp; streaming</a></li>
+<li><a href="#the-future-of-influencer-marketing">The future of influencer marketing</a></li>
+<li><a href="#the-first-mover-advantage--the-transition">The first mover advantage &amp; the transition</a></li>
+</ul>
+<h1 id="why-build-if-vendor-lock-in-isnt-possible"><a class="header" href="#why-build-if-vendor-lock-in-isnt-possible">Why build if <a href="https://en.wikipedia.org/wiki/Vendor_lock-in">vendor lock-in</a> isn't possible?</a></h1>
+<p>Freedom can be a competitive advantage: <a href="https://en.wikipedia.org/wiki/Substack">Substack</a> lets you leave &amp; take your subscribers with you (an email list) - a conscious choice to compete on the quality of service. <strong>But they are an outlier</strong>.</p>
+<p>Headjack's fundamental premise is that it unlocks many possibilities &amp; value to users because the barrier to entry for services would be much lower and they could be composable &amp; interoperable which would lead to greater innovation, quality, choice &amp; freedom. So given that users would benefit more in this ecosystem and that their attention is finite &amp; will be spent either way - it stands to reason that there is money to be made in an even bigger pie! But competition will look different.</p>
+<blockquote>
+<p>&quot;The whole is greater than the sum of its parts.&quot; - <a href="https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts">Aristotle</a></p>
+</blockquote>
+<h1 id="unbundling-the-media-stack-with-markets"><a class="header" href="#unbundling-the-media-stack-with-markets">Unbundling the media stack with markets</a></h1>
+<blockquote>
+<p>&quot;There’s only two ways I know of to make money– bundling, and unbundling.&quot; - <a href="https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling">Jim Barksdale</a></p>
+</blockquote>
+<p>The rule book will be different - instead of <a href="barriers_to_entry.html#vertical-integration-vs-marketscompetition">vertically integrated</a> services with tons of employees that reinvent the wheel, companies would specialize and compete on different layers of the stack. <a href="https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/">Markets Are Eating The World</a> - there will be one for each of these:</p>
+<ul>
+<li>Storage &amp; retrieval of historical events, data &amp; results of batch processes.</li>
+<li>Indexing at scale and even custom indexing by specific criteria.</li>
+<li>Training of AI models for recommendation systems, feeds, etc.</li>
+<li>Ad serving engines that match users with ones that would be relevant to them.</li>
+<li>Computed views (aggregate metrics) such as counts of likes &amp; other interactions.</li>
+<li>Content moderation &amp; safety labelers (malware/copyright/offensive/spam) producing lists with flagged accounts, specific pieces of content or even entire applications.
+<ul>
+<li>Their output could be used not just for the final presentation layer but also before indexes, models &amp; computed views are created as they could be gamed with spam.</li>
+</ul>
+</li>
+<li>Custom types of <a href="data_legos.html#event-streams">data streams</a>, <a href="data_legos.html#notifications--subscriptions">event subscriptions</a>, and anything else one could think of!</li>
+</ul>
+<div style="text-align: center;">
+    <img src="images/meme_toy_story_markets.jpg">
+</div>
+<p>Creating a new social application would require just a bit of frontend code by a few developers with all the heavy lifting of infrastructure, data storage &amp; processing, content moderation, ad serving &amp; recommendation engines being provided by pay-as-you-go services through APIs. The (<a href="https://mattturck.com/the-power-of-data-network-effects/">data</a>) network effects will be shared by every actor in the ecosystem. Launching a proof of concept would be trivial and new business models &amp; use cases (no ads for social) would be enabled.</p>
+<img src="images/data_gravity.png">
+<!-- source: https://www.tigosolutions.com/feedstory/1030 -->
+<img src="images/infrastructure_companies.png">
+<ul>
+<li>mention alchemy in business models page about infra companies
+https://www.alchemy.com/
+https://twitter.com/<em>n_x_y_z</em>/status/1580136531552915456
+https://n.xyz/</li>
+</ul>
+<p>It will take some time for markets to mature and the dust to settle once specialization &amp; competition are democratized, but then prices will be low and the efficiency &amp; quality of services high.</p>
+<h1 id="attribution"><a class="header" href="#attribution">Attribution</a></h1>
+<p>TODO: re-read from &quot;A recent example&quot;
+https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll</p>
+<blockquote>
+<p>&quot;Ads are the cave art of the twentieth century.&quot; - <a href="https://www.goodreads.com/quotes/210959-ads-are-the-cave-art-of-the-twentieth-century">Marshall McLuhan</a></p>
+</blockquote>
+<p>The goal is democratized access, competition &amp; innovation  - not the end of the Ad model which is a pipe dream - it isn't going anywhere. The current problem is that we don't have alternatives and that there's no transparency.</p>
+<blockquote>
+<p>&quot;For as long as humans have crafted disembodied versions of their voices, whether it be Pompeiian graffiti or the latest tweet, there have been attempts to both guide user attention in some remunerative direction, and measure the effectiveness of that attention-gathering.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;The attention economy has always had its ledger and its cash register, and Web 3 will be no different.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
+</blockquote>
+<p>!! on data brokers
+https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-is-spending-big-bucks-lobbying-congress</p>
+<blockquote>
+<p>&quot;Attribution is the accounting layer of the entire user-acquisition stack: social media, organic community building, referral programs or (gasp!) even ads, they’re all just inputs to attribution. It's much more than just bean-counting, though the bean-counting is important. It’s the capital ‘T’ Truth that the entire ecosystem depends on.&quot; - <a href="https://blog.spindl.xyz/p/why-spindle">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;Internet monetization is somewhat like a Soviet election: It doesn’t matter who clicks and where, it’s who counts those clicks that matters. The technology and business of that counting of clicks (and everything else you do online besides) goes by the dull-sounding name of attribution, and it determines the fate of trillion-dollar companies.&quot; - <a href="https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll">source</a></p>
+</blockquote>
+<p>Let's examine the following example:</p>
+<blockquote>
+<p>&quot;A recent example of questionable attribution: I tweeted about my e-mountain bike, Jason Calacanis (of all people) saw it and asked about the model. Someone posted a review from bikeradar.com, and Jason (I don’t know if this is true) probably googled for it and maybe bought it. Who deserves the attributions credit? According to Google (surprise, surprise), it’ll be Google … and they’ll take all the credit, which is why Google is worth so much and Twitter so little.&quot; - <a href="https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll">source</a></p>
+</blockquote>
+<p>This entire flow could be tracked </p>
+<p>Furthermore, attribution services could credit accounts that retweet content and add more interactions with it with some of the profits</p>
+<p>de-duplication through content addressing &amp; adding traceability of content helps paint the picture what happened when and by who - aiding attribution. Infrastructure companies on which applications get deployed on can handle such tracking within them but since all the data is openly broadcasted competing services could offer alternative business models.</p>
+<blockquote>
+<p>&quot;Whether it be circulation numbers for 19th-century newspapers (the start of the printed ads business), or Nielsen ratings for pre-cable TV that determined ads rates there, there’s never been a media ecosystem that didn’t have attribution.&quot; - <a href="https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;If you had to conjure some collective mechanism for storing aggregated data that was selectively shareable between publisher and advertiser, it would look much like a blockchain.&quot; - <a href="https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll">source</a></p>
+</blockquote>
+<p>^^ this can be done through verifiable computation &amp; sharing indexes between publishers &amp; advertisers within index infrastructure.</p>
+<p><a href="https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll">This article</a> posits that attribution has to go on-chain but Headjack offers an alternative - through the infrastructure companies.</p>
+<p>It is inevitable that mass media &amp; aggregation will be handled by centralized services that can save user details in logs - what we could do is make a market for user data and make it easier to opt out of such data harvesting with alternatives &amp; a way for whistleblowers to prove if a contract hasn't been honoured.</p>
+<p>the history of actions and tracked events would be private and shared only between infra platforms and ppl paying for ads?</p>
+<p>Identity wants to emerge
+Over the long run, any stable joinable key becomes an identity as it accumulates more correlated information about you.
+We see this today in the ads ecosystem, where data brokers and cross-site advertising networks use data joining to correlate information about you and track you around the internet. Email addresses, cookies, IP addresses, advertising identifiers—anything that is unique and stable can be used for data joining.
+https://subconscious.substack.com/p/soulbinding-like-a-state</p>
+<p>what if people jump between apps but aren't logged in some of them? chain is broken.</p>
+<p>ad fraud
+https://www.forbes.com/sites/augustinefou/2021/01/12/show-me-dont-tell-me-that-im-wrong-on-this
+https://www.youtube.com/watch?v=gZIXI-eY8OM</p>
+<p>read about ad tracking &amp; GDPR:
+https://whotracks.me/blog/gdpr-what-happened.html
+https://stratechery.com/2018/facebook-lenses/</p>
+<p>applications could strategically choose which infrastructure companies they use in order to provide the best attribution for accounts</p>
+<p>The ad business needs competition:
+https://www.wired.com/story/google-antitrust-ad-market-lawsuit/</p>
+<p>TODO: grafika kato tazi:
+https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/388a0504-f0a1-4994-b1ab-a1084aee9008_3453x1949.png</p>
+<p>Users could advertise a wallet for micro payments for attribution - or could be handled by their IDMs</p>
+<blockquote>
+<p>&quot;Advertising will not go away—it never does—but who profits from it will change radically.&quot; - <a href="https://www.thepullrequest.com/p/everything-is-an-ad-network">source</a></p>
+</blockquote>
+<h1 id="advertising"><a class="header" href="#advertising">Advertising</a></h1>
+<p>google currently gets the lions share of the ad revenue</p>
+<blockquote>
+<p>&quot;For every 1,000 ad views, advertisers pay a certain rate to YouTube. YouTube then takes 45% and the creator gets the rest.&quot; - <a href="https://www.businessinsider.com/how-much-money-youtube-creators-influencers-earn-real-examples-2021-6">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;Your take rate is my opportunity&quot; - <a href="https://twitter.com/cdixon/status/1425645842552086532">@cdixon</a></p>
+</blockquote>
+<p>https://a16zcrypto.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-16-at-10.43.30-PM-1024x582.png</p>
+<blockquote>
+<p>&quot;You know something is profoundly wrong with our economy when Big Tech has a higher take rate than the mafia.&quot; - <a href="https://www.goodreads.com/quotes/11251272-you-know-something-is-profoundly-wrong-with-our-economy-when">U.S. Congressman Ritchie Torres</a></p>
+</blockquote>
+<p>One reason Headjack would win is because there will be no wallet fragmentation - users will mostly have 1 account.</p>
+<!--
+Headjack only facilitates addressing but doesn't store anything besides the history of keys and authorizations - all content is off-chain and for example GDPR compliance will affect all services but not Headjack itself (Not sure if this is true). An excellent read on the topic: [The right to never be forgotten](https://www.thepullrequest.com/p/the-right-to-never-be-forgotten).
+
+must read about this:
+https://en.wikipedia.org/wiki/Contextual_integrity
+-->
+<p>Ads themselves are not the root evil - it's the lack of choice &amp; ability to exit in the current monopolistic world due to the benefits of vertical integration in the current host-centric paradigm</p>
+<p>TODO: re-read
+https://www.thepullrequest.com/p/the-right-to-never-be-forgotten</p>
+<p>https://mobiledevmemo.com/app-tracking-transparency-codex-guide-to-idfa-deprecation-and-skadnetwork/</p>
+<p>https://mobiledevmemo.com/how-apple-might-break-fingerprinting-in-ios-16/</p>
+<p>google:
+Apple ATT / SKAdNetwork</p>
+<p>attribution is tricky
+https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3d79eda8-590c-4984-97b1-799a21d7b0f7_3734x1183.png
+https://www.thepullrequest.com/p/everything-is-an-ad-network</p>
+<h1 id="application-attribution"><a class="header" href="#application-attribution">Application attribution</a></h1>
+<p>All content is published through applications and the creator's choice for which one to use is forever embedded in the content URIs. This can serve as advertising for applications because even when a URI is viewed through competing ones, the original source should be displayed and there ought to be a way to view it through the original one - especially if the <a href="messages.html">message type</a> is not supported.</p>
+<p>This can be a powerful way for new applications to get discovered - they can even pay creators to use them in order to attract new users and have their names in the URIs of content <strong>forever</strong>.</p>
+<h1 id="identity-managers---the-new-storage-cloud"><a class="header" href="#identity-managers---the-new-storage-cloud">Identity managers - the new storage cloud</a></h1>
+<p><a href="IDM.html">IDMs</a> will be the central hub to store all user preferences, social graph, DMs, progress on long-form media, personal notes &amp; bookmarks, etc. But also pictures, videos and many other types of data - the one-stop shop for all things identity. There'll be plenty of ways to provide free tiers and yet monetize for more heavy &amp; advanced use. Anyone will be able to host their own IDM.</p>
+<p>IDMs could also provide a <a href="algorithms_feeds_aggregation.html#feeds--home-pages">feed</a> &amp; a home page similar to current social networks with the most &quot;relevant&quot; content for users and even serve ads, but there'll be a lot more configuration options &amp; choice because all IDMs will be in competition with each other &amp; users will be able to migrate.</p>
+<h1 id="creator-monetization"><a class="header" href="#creator-monetization">Creator monetization</a></h1>
+<p>creators will need to shift how they monetize because there won't be platform lock-in &amp; attribution :/
+or actually the application attribution for content naturally leads to users checking it out - creators can and should be paid to generate content through them and based on virality of content they could get paid out? omg.</p>
+<h1 id="video-long-form-media--streaming"><a class="header" href="#video-long-form-media--streaming">Video, long-form media &amp; streaming</a></h1>
+<p>Let's take YouTube for example: currently it is &amp; does many things at once: storage &amp; streaming of video, a recommendation system, serving ads, social features, subscriptions, etc.</p>
+<p>In the brave new world of Headjack it would be completely unbundled</p>
+<p>TODO:</p>
+<ul>
+<li>is the video hash uploaded?</li>
+<li>embedded player required?</li>
+<li>serving ads or just charging apps for the data streams?</li>
+</ul>
+<p>What if some platforms don't freely provide the content but just anchor it and provide APIs like embedding youtube?</p>
+<p>separate content hosting &amp; delivery from the recommendation system and the serving of ads</p>
+<p>streaming</p>
+<h1 id="the-future-of-influencer-marketing"><a class="header" href="#the-future-of-influencer-marketing">The future of influencer marketing</a></h1>
+<p>Currently, companies cannot target you directly with ads without the social media platforms as middlemen - but with open data, any company could analyze the world and decide what their target audience is.
+Currently, Coca-Cola targets audiences with the same ad but with some precision - imagine if they could directly target individuals with tailor-made ads based on them - what if an algorithm picks up that you're gay and coca cola send you an ad with a shirtless male (if you're male) - point taken from Yuval Noah Harari here: https://youtu.be/j0uw7Xc0fLk?t=260</p>
+<p>Imagine influencers being able to use algorithms to generate synthetic versions of themselves pitching different products to different people and having the application infrastructure serve different versions to different people based on who they are. The influencer is the magnet and the algorithms are the tailors. This is the future whether we like it or not. The good thing about an unbundled media stack is that some services will let you avoid ads for a subscription fee.</p>
+<p>Influencer marketing is the end game</p>
+<h1 id="the-first-mover-advantage--the-transition"><a class="header" href="#the-first-mover-advantage--the-transition">The first mover advantage &amp; the transition</a></h1>
+<p>No other solution has a seamless way to address content on http and bridge with traditional dns</p>
+<p>traditional web2 companies/apps/websites will be able to gradually transition and anchor their content into this namespace - cost of entry would be marginal and the first to do so would get indexed and start getting shown in search results in this ecosystem first</p>
+<!--
+
+
+Privacy-first Ad Exchanges — Brave’s Themis uses zero-knowledge proofs to construct a decentralized, on-device ad exchange. The guarantees around attribution and fulfillment are trust-minimized and user privacy is treated as a first class citizen. Can other companies develop high quality privacy preserving ad-exchange experiences?
+https://multicoin.capital/2023/01/11/the-web3-growth-stack/
+https://brave.com/themis/
+
+
+
+Business models - what can IDMs charge for - archive content more than 5gb
+
+
+
+Twitters revenue does not go to its users - 0 attribution for them
+
+
+"Linking to the primary source should be the norm!"
+https://twitter.com/VitalikButerin/status/1588710604935958528
+"The only links they want you clicking are to other articles on the same site"
+https://twitter.com/timo_quinn/status/1588711124345950210
+
+
+make a diagram how the advertising money flows in youtube between the different actors and how it would flow in headjack
+SANKEY DIAGRAM !!!
+https://developers.google.com/chart/interactive/docs/gallery/sankey
+
+
+
+a challenge would be content licenses...
+
+copyright infringement is beneficial for YouTube
+https://www.youtube.com/watch?v=4IaOeVgZ-wc
+
+-->
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="algorithms_feeds_aggregation.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="startup_case_study.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="algorithms_feeds_aggregation.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="startup_case_study.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

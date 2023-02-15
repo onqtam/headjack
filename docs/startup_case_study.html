@@ -1,0 +1,283 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Startup case study - Headjack - the base layer of cyberspace</title>
+
+
+        <!-- Custom HTML head -->
+        <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMDB9SH6"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+        
+                gtag('config', 'G-6BQMDB9SH6');
+                </script>
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('ayu')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="introduction.html"><strong aria-hidden="true">1.</strong> What is Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="principles.html"><strong aria-hidden="true">1.1.</strong> Design - guiding principles</a></li><li class="chapter-item expanded "><a href="identity.html"><strong aria-hidden="true">1.2.</strong> Identity & authorization</a></li><li class="chapter-item expanded "><a href="addressing.html"><strong aria-hidden="true">1.3.</strong> Content addressing</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="host_vs_data_centric.html"><strong aria-hidden="true">1.3.1.</strong> Host vs data-centric</a></li><li class="chapter-item expanded "><a href="blobs_and_uris.html"><strong aria-hidden="true">1.3.2.</strong> Blobs & persistent URIs</a></li><li class="chapter-item expanded "><a href="names_and_paths.html"><strong aria-hidden="true">1.3.3.</strong> Names & paths</a></li></ol></li><li class="chapter-item expanded "><a href="messages.html"><strong aria-hidden="true">1.4.</strong> Messages</a></li><li class="chapter-item expanded "><a href="idms_preferences.html"><strong aria-hidden="true">1.5.</strong> IDMs, preferences & graphs</a></li><li class="chapter-item expanded "><a href="store_and_retrieve.html"><strong aria-hidden="true">1.6.</strong> Data storage & retrievability</a></li><li class="chapter-item expanded "><a href="blocks_state_proofs.html"><strong aria-hidden="true">1.7.</strong> Blocks, state & proofs, oh my!</a></li><li class="chapter-item expanded "><a href="numbers.html"><strong aria-hidden="true">1.8.</strong> Throughput & scalability</a></li><li class="chapter-item expanded "><a href="competition.html"><strong aria-hidden="true">1.9.</strong> Headjack vs the competition</a></li></ol></li><li class="chapter-item expanded "><a href="motivation.html"><strong aria-hidden="true">2.</strong> Why Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="problems_with_the_web.html"><strong aria-hidden="true">2.1.</strong> Problems with the web</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="host_centric.html"><strong aria-hidden="true">2.1.1.</strong> The host-centric web</a></li><li class="chapter-item expanded "><a href="information_ecology.html"><strong aria-hidden="true">2.1.2.</strong> The information ecology</a></li><li class="chapter-item expanded "><a href="centralization.html"><strong aria-hidden="true">2.1.3.</strong> (WIP) Centralization</a></li><li class="chapter-item expanded "><a href="barriers_to_entry.html"><strong aria-hidden="true">2.1.4.</strong> Silo vs interoperability</a></li><li class="chapter-item expanded "><a href="black_boxes.html"><strong aria-hidden="true">2.1.5.</strong> Black boxes & bias</a></li><li class="chapter-item expanded "><a href="specific_platforms.html"><strong aria-hidden="true">2.1.6.</strong> Specific platforms</a></li></ol></li><li class="chapter-item expanded "><a href="ledger_of_record.html"><strong aria-hidden="true">2.2.</strong> (WIP) History 2.0: the ledger of record</a></li><li class="chapter-item expanded "><a href="data_legos.html"><strong aria-hidden="true">2.3.</strong> Event streams & data legos</a></li><li class="chapter-item expanded "><a href="improved_infrastructure.html"><strong aria-hidden="true">2.4.</strong> Improved infrastructure</a></li><li class="chapter-item expanded "><a href="knowledge_management.html"><strong aria-hidden="true">2.5.</strong> Information management</a></li><li class="chapter-item expanded "><a href="algorithms_feeds_aggregation.html"><strong aria-hidden="true">2.6.</strong> (WIP) Algorithms, feeds & aggregation</a></li><li class="chapter-item expanded "><a href="business_models.html"><strong aria-hidden="true">2.7.</strong> (WIP) Business models</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.8.</strong> Reinventing journalism</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">2.9.</strong> Citizen journalism</div></li><li class="chapter-item expanded "><a href="startup_case_study.html" class="active"><strong aria-hidden="true">2.10.</strong> Startup case study</a></li><li class="chapter-item expanded "><a href="concerns.html"><strong aria-hidden="true">2.11.</strong> Concerns with Headjack</a></li><li class="chapter-item expanded "><a href="what_really_is_headjack.html"><strong aria-hidden="true">2.12.</strong> What REALLY is Headjack</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇</li><li class="spacer"></li><li class="chapter-item expanded "><a href="execution.html"><strong aria-hidden="true">3.</strong> Implementation of Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="IDM.html"><strong aria-hidden="true">3.1.</strong> Identity managers (IDM)</a></li><li class="chapter-item expanded "><a href="handles.html"><strong aria-hidden="true">3.2.</strong> Handles (names)</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Headjack - the base layer of cyberspace</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/onqtam/headjack" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="startup-case-study"><a class="header" href="#startup-case-study">Startup case study</a></h1>
+<p><strong>Problem statement</strong>: <u><em>We should be able to comment &amp; annotate long-form media at specific points in time on its timeline as it is increasingly becoming the preferred medium.</em></u></p>
+<ul>
+<li><a href="#the-idea">The idea</a></li>
+<li><a href="#a-unique-interface">A unique interface</a></li>
+<li><a href="#challenges-in-the-current-web2-world">Challenges in the current web2 world</a></li>
+<li><a href="#how-headjacks-paradigm-fosters-innovation">How Headjack's paradigm fosters innovation</a></li>
+</ul>
+<h1 id="the-idea"><a class="header" href="#the-idea">The idea</a></h1>
+<p>Why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments &amp; annotations based on the range and display the threads below Reddit-style with sorting &amp; filtration options? Here's a screenshot of precisely that (ignore the colors &amp; bad style):</p>
+<img src="images/startup_case_study.png">
+<p>The ultimate audio/video player can offer a lot more than just a comment histogram - it has the potential to be a vibrant social experience:</p>
+<ul>
+<li>1-click repositioning &amp; resizing of the filter window to timestamp ranges for different topics plotted as horizontal bars (already done &amp; visible in the screenshot)</li>
+<li>sharing links to specific ranges - as clips, but without losing the context
+<ul>
+<li>many channels re-upload clips from longer videos - this should instead be a simple &quot;retweet&quot; of the original material with a range (window) as a parameter</li>
+</ul>
+</li>
+<li>different types of comments: annotations, questions, personal (private) notes</li>
+<li>search field for within the comments that are in the current filter window</li>
+<li>crowdsourced annotations (tagging resources/events/concepts/entities)</li>
+<li>plotting/toggling different types of histograms (not just comment density):
+<ul>
+<li>plotting different types of reactions</li>
+<li>where other users spend most of their time</li>
+<li>where the user has already played the episode</li>
+<li>comments that have more than X upvotes or up/down ratio</li>
+<li>where the most controversy or facts requiring a crowdsourced check are</li>
+<li>highlighting comments that match the current search filter/query/regex</li>
+</ul>
+</li>
+</ul>
+<p>Here's an <a href="https://www.youtube.com/watch?v=xsJvFr9v7Nk">older video</a> showcasing this UI (can't resize the window with the mouse yet).</p>
+<h1 id="a-unique-interface"><a class="header" href="#a-unique-interface">A unique interface</a></h1>
+<p>This is nothing like SoundCloud where <a href="https://soundcloud.com/liluzivert/for-fun-prod-by-beatsbyjeff">tiny overlapping rectangles</a> with profile pictures are rendered on the timeline that you can just hover with the cursor to see the comment nor like YouTube where you can write a timestamp (<code>hh:mm:ss</code>) in a comment which becomes a clickable link that fast-forwards the player - fighting it out with the other 20 000 comments in the single linear vertically scrollable section of a 3 hour long podcast and hoping to be noticed - both are horribly insufficient and unusable. For both of them comments are just an afterthought - it is extremely hard to discuss specific parts of long-form media &amp; for good localized signal to actually surface &amp; be noticed.</p>
+<h1 id="challenges-in-the-current-web2-world"><a class="header" href="#challenges-in-the-current-web2-world">Challenges in the current web2 world</a></h1>
+<p>How would this work as a web2 company?</p>
+<ul>
+<li>For it to provide value it would need many users commenting on the same video or otherwise there will be no histogram and the whole interface will be pointless. It needs a network effect.</li>
+<li>Discoverability is hard - it would require that users actively share links to it on other platforms.</li>
+<li>What if YouTube/Spotify cut it off &amp; disallows embedding their players &amp; using the APIs?</li>
+<li>Unclear if it should try to be its own platform or just a (browser) plugin to other platforms:
+<ul>
+<li>The platform way is more ambitious but requires a ton more work &amp; <a href="barriers_to_entry.html#vertical-integration-vs-specialization--competition">vertical integration</a>: direct messages, a social graph, notifications, a feed &amp; recommendation systems, etc. Would it need to compete with YouTube &amp; Spotify at some point? The likely <a href="images/startup_failure_outcome.jpg">outcome</a>.</li>
+<li>The plugin way is a much more limited experience. How would users share links to comments &amp; timeline ranges to others that don't have the plugin installed? How will users be notified for comments &amp; replies? You'd be completely beholden to the platforms.</li>
+</ul>
+</li>
+</ul>
+<h1 id="how-headjacks-paradigm-fosters-innovation"><a class="header" href="#how-headjacks-paradigm-fosters-innovation">How Headjack's paradigm fosters innovation</a></h1>
+<p>Contrast that to a web built around Headjack:</p>
+<ul>
+<li>The amount of work for this UI would be minimal - reusing components already present:
+<ul>
+<li>Identity &amp; <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-on</a>, DMs, notifications, progress bars, preferences &amp; connections will all be handled by <a href="IDM.html">IDMs</a>.</li>
+<li>The heavy lifting (processing &amp; indexing all broadcasted events, perhaps moderation &amp; even ad serving) will be handled by infrastructure services which will charge the application just the right amount for the sets of API calls &amp; indexes that it needs - pay-as-you-go. There will be different competing infrastructure providers and applications will be able to migrate to the one with the best service or it may even utilize multiple ones at the same time - offering users the choice which indexes &amp; filters to use.</li>
+<li>The costs &amp; team required to implement this UI will be minimal and focus would be on delivering value to users. The barrier to entry would be lower and better UX &amp; functionality would be unlocked - many more niche needs could be addressed.</li>
+</ul>
+</li>
+<li>Application discoverability - the moment someone with a following posts a comment through it that comment would immediately be visible to their audience on applications like Twitter and the URI for the comment will contain the name of the application that was used for its generation - serving as application attribution &amp; advertisement of the alternative application. No need for influencers to explicitly share <code>&quot;hey! check out this platform where I made a comment and make sure to follow me there&quot;</code> to their audience - it'll be automatic &amp; implicit.</li>
+<li>No risk of platforms cutting access to their APIs to third-party apps &amp; changing their <a href="https://en.wikipedia.org/wiki/Terms_of_service">ToS</a> because in this ecosystem everything is a third-party app around unified identity and data is no longer host-certified - addressing is <a href="host_vs_data_centric.html">data-centric</a>. There are no <a href="https://www.investopedia.com/ask/answers/05/economicmoat.asp">MOATs</a> &amp; lock-in - everyone focuses on their niche and competes on competency &amp; offering the best possible service.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="business_models.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="concerns.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="business_models.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="concerns.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

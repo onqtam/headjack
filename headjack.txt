@@ -1,0 +1,1402 @@
+
+
+
+sunlight is the best disenfecatant
+the fastest way for pro social behaviors is to make sure everyone's reputation is on the line
+
+chapter: "social reputation without settlement"
+
+apps should be able to show you all references to a document - perhaps they might show specific UIs for those that are supported and all others should be in the "other" list without visualization
+
+second brain - note taking
+
+provenance
+> "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
+
+
+
+what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
+
+> "the technological environments we find ourselves in, with their visible and invisible effects on our bodies, minds, cultures, societies, and ecosystems, did not result from design. They were not even significantly influenced by holistic considerations. Instead, the habitats and environments in which we live now emerged as the result of many varied local developments, driven largely by near-term market forces, with little consideration for the longer-term consequences." - [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
+
+> "The lessons of the last century have shown us that without a change to our fundamental approach, technology is likely to continue to damage the fabric of our minds, relationships, and cultures." - [Technology is Not Values Neutral: Ending the Reign of Nihilistic Design](https://consilienceproject.org/technology-is-not-values-neutral-ending-the-reign-of-nihilistic-design-2/)
+
+the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged
+
+> "Democracy is self-government at scale and, therefore, requires sensemaking at scale in the form of an epistemically healthy public sphere." - [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/#:~:text=Democracy%20is%20self%2Dgovernment%20at%20scale%20and%2C%20therefore%2C%20requires%20sensemaking%20at%20scale%20in%20the%20form%20of%20an%20epistemically%20healthy%20public%20sphere.)
+
+> "The ultimate responsibility for good governance in a democracy falls to the voting citizenry, which can only exercise this duty well when it has accurate information about the world." - [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/#:~:text=The%20ultimate%20responsibility%20for%20good%20governance%20in%20a%20democracy%20falls%20to%20the%20voting%20citizenry%2C%20which%20can%20only%20exercise%20this%20duty%20well%20when%20it%20has%20accurate%20information%20about%20the%20world.)
+
+> "Moreover, such a responsibility is poorly fulfilled by only voting and passively consuming political news, but best fulfilled through active participation in public debate, the maintenance of direct relationships with representatives, and intentional auditing of government by the citizenry." - [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/#:~:text=Moreover%2C%20such%20a%20responsibility%20is%20poorly%20fulfilled%20by%C2%A0only%C2%A0voting%20and%20passively%20consuming%20political%20news%2C%20but%20best%20fulfilled%20through%20active%20participation%20in%20public%20debate%2C%20the%20maintenance%20of%20direct%20relationships%20with%20representatives%2C%20and%20intentional%20auditing%20of%20government%20by%20the%20citizenry.)
+
+> "An epistemically healthy public sphere is not only key to the practical and legitimate functioning of democracy, but an existential necessity." - [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/#:~:text=an%20epistemically%20healthy%20public%20sphere%20is%20not%20only%20key%20to%20the%20practical%20and%20legitimate%20functioning%20of%20democracy%2C%20but%20an%20existential%20necessity.)
+
+> "The problem, however, lies in the way that information is created and processed in our society today. Narrative warfare, institutional decline, and the ubiquitous yet opaquely curated world of social media have combined to erode the quality of our public sphere." - [Democracy and the Epistemic Commons](https://consilienceproject.org/democracy-and-the-epistemic-commons/#:~:text=The%20problem%2C%20however%2C%20lies%20in%20the%20way%20that%20information%20is%20created%20and%20processed%20in%20our%20society%20today.%20Narrative%20warfare%2C%20institutional%20decline%2C%20and%20the%20ubiquitous%20yet%20opaquely%20curated%20world%20of%20social%20media%20have%20combined%20to%20erode%20the%20quality%20of%20our%20public%20sphere.)
+
+By severing the connection between identity management and media we can better align the incentives of these systems - our IDMs would not be harvesting our attention and we could tune the addictiveness & notifications
+
+is about expression with 0 integration - either personally or collectively for that expression - its an append-only brain dump. We need open structured data
+
+interlinking enables discoverability - you'd want to reference something specific because then you could be discovered from the referenced thing with a "references" view
+
+everyone can have access to something like Palantir Foundry for the entirety of the open web
+
+we should be able to annotate parts of movies that we are crituiquing and be able to see all public critiques when viewing the original media
+
+@mentions can also be stable! even if handle ownership changes
+
+Headjack fixes this.
+
+> "So when we tell people that “if they want privacy” for their data they should just upload it to their local computer: tell them your local Computer Science professor did that, and the result is that he lost half the photos of his son’s birth." - [Matthew Green](https://twitter.com/matthew_d_green/status/1624462558118789123)
+
+"collective intelligence" as a chapter - not sensemaking
+
+
+write about a spreadsheet-like view over graph data - what if you could define owners of each cell so that they can update their elements and have that in a shared spreadsheet? And why not fork the sheet?
+
+"reshaping the influencer"
+
+> "fact-checkers would be more careful if they weren't anonymous; having reputational skin in the game, like lawyers and journalists, would incentivize them not to cheat" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=fact%2Dcheckers%20would%20be%20more%20careful%20if%20they%20weren%27t%20anonymous%3B%20having%20reputational%20skin%20in%20the%20game%2C%20like%20lawyers%20and%20journalists%2C%20would%20incentivize%20them%20not%20to%20cheat)
+
+> "instead of echo-chambers of fact-checkers who get all their opinions from the Washington Post and New York Times, one could implement a system of adversarial fact-checking in which people of different opinions work together on establishing the facts" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=instead%20of%20echo%2Dchambers%20of%20fact%2Dcheckers%20who%20get%20all%20their%20opinions%20from%20the%20Washington%20Post%20and%20New%20York%20Times%2C%20one%20could%20implement%20a%20system%20of%20adversarial%20fact%2Dchecking%20in%20which%20people%20of%20different%20opinions%20work%20together%20on%20establishing%20the%20facts)
+
+> "we have no choice but to become our own fact-checkers." - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=we%20have%20no%20choice%20but%20to%20become%20our%20own%20fact%2Dcheckers.)
+
+"attention is all we have"
+
+TODO: try this to read the text out loud?
+https://beta.elevenlabs.io/
+
+
+a dynamical system theory lays out the engine - the feedback loop between generation and governance/integration
+> "there is a systematic relationship between a set of enabling & selective constraints" - [John Vervaeke](https://youtu.be/A_gH5VIZO0Q&t=1985&list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ&index=8)
+
+sensemaking is when the pattern in the world matches the pattern in our head. Through crowdsourcing we feed distributed data, and through the system and the ability to look at data & its analysis from different angles we allow for its integration. We look for intersubjective agreement AKA consensus
+^^ this needs more work
+
+
+
+> "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
+
+we should all be labellers - in an open way such that anyone can harness our collective intelligence
+
+Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions should have been codified with structured data & logged in a time-series.
+
+> "Our minds are hurt more often by overeating than by hunger." — Petrarch
+
+> “To be everywhere is to be nowhere.” ― Seneca
+
+Privacy is a human right.
+
+"The superapp is a browser with a configurable/dockable layout"
+
+not multidimensional subscriptions but fractal/granular
+
+concern: negative reputation & "scarlet letters"
+
+IDMs could be responsible for producing "streams" of the user activity - by simply referencing all activity from other applications (applications either need to notify the IDMs or IDMs need to monitor everything - for private data they probably need to be explicitly notified?)
+
+integer keys as opposed to hash-based keys - so that filtering is easy - by and/or-ing bitmaps
+this goes in competition table!
+
+can produce ZKPs for off-chain counts & aggregates and submit those to transactional settlement layers as smart contract inputs
+
+> "Technology for coordinating and coming to large-scale agreements (eg. https://pol.is ) is one of the industries that needs to be accelerated." - [Vitalik Buterin](https://twitter.com/VitalikButerin/status/1599734481190998016)
+
+voting ZK stuff
+https://research.aragon.org/
+TODO: sismo here
+https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603
+https://forum.aragon.org/t/blind-ovote-ovote-with-blind-signatures-for-voter-anonymity/3881
+https://vitalik.ca/general/2022/06/15/using_snarks.html
+https://github.com/privacy-scaling-explorations/maci/
+https://w3c-ccg.github.io/ldp-bbs2020/
+https://link.springer.com/chapter/10.1007/3-540-36413-7_20
+what to want from voting: privacy, correct execution, coercion-resistance (not being able to prove how you voted) and censorship resistance to the voting context
+https://github.com/enricobottazzi/ZK-SBT
+quadratic voting? https://www.radicalxchange.org/concepts/plural-voting/
+
+
+
+REACTION with a comment/note - still structured data, but with added expressiveness
+
+
+
+
+the decision maker: build trees of predicates and based on truth for each of them you can determine the outcome. Be able to play with such a system
+
+
+
+you stumble upon a statement by an account and you also see a few of their other statements and completely disagree with them. What if you could run a query over all of their statements such as "how much overlap does their worldview have with mine"?
+What if everyone could have such a computed score for every other account?
+
+
+by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data
+
+youtube's reaction to swarm downvoting is "remove the count". This system allows you to filter the count any way you want
+
+
+
+
+badges:
+https://twitter.com/TitterTakeover/status/1622323886611202051
+
+
+
+reaction videos
+Jillian Michaels: Don't believe the keto diet hype | Big Think
+https://www.youtube.com/watch?v=LOPOcBVzm7s
+How do we determine if that video is correct? How do we browse the reactions?
+HOW WOULD YOU KNOW there are reactions if you didn't explicitly search for them ?!
+https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction
+The Keto and Low Carb High Fat revolution is entirely enabled by the internet and is a response to the complete failure and corruption of the FDA
+
+The internet is rife with (deliberate) misinformation
+
+a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
+
+imagine being able to view a multi-level depth tree with all citations and conversations and conversations around those conversations and being able to filter the "outcome" based on criteria - labels/annotations/reactions and who we trust for placing those labels/annotations/reactions
+
+imagine being able to pick your "wikipedia editors" - people who curate information in the open web while building a track record - and then anyone would be able to filter information differently based on their own personal criteria - multiple times from different angles (perhaps also by adopting someone else's criteria?)
+
+the future of search is being able to re-run aggregation & statistics based on different filters
+
+
+
+
+can't be evil
+UPDATE - Wikipedia is blocked in Pakistan now.
+https://twitter.com/disclosetv/status/1621843921578991616
+
+
+spamgularity
+https://twitter.com/DanielleFong/status/1622315719298883584
+
+
+Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads
+https://twitter.com/elonmusk/status/1621544497388875777
+
+
+deepfake Lexman Artificial & Eric Weinstein
+https://twitter.com/lexman_ai/status/1615861599197171713
+
+
+
+> "If your social media app requires people to use public keys, then you probably don’t understand what “social” means." - [Matthew Green](https://twitter.com/matthew_d_green/status/1620832280955719681)
+
+MEME: they don't know they can talk to me if they know my public keys
+https://twitter.com/ArvinK/status/1620833678816575488
+
+
+Reveal Reddit's secretly* removed content. Search by username or subreddit (r/):
+https://www.reveddit.com/
+
+
+
+
+> "One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter."
+https://twitter.com/DavidVorick/status/1618277136938274817
+
+
+
+
+> "Central to wisdom are aspects of perspectival meta-cognition" - [The Science of Wisdom in a Polarized World: Knowns and Unknowns, 2020](https://www.researchgate.net/publication/341653068_The_Science_of_Wisdom_in_a_Polarized_World_Knowns_and_Unknowns)
+
+The ability to take multiple perspectives and shift between them
+
+View as - why it would be useful
+
+John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition
+https://www.youtube.com/watch?v=8U2caURO-d4&list=PLND1JCRq8Vuj9U2DCHRN0gBfOwGy-Vcnq&index=61
+
+The current web incentivizes differentiation and no integration - and thus we get group think and echo chambers & bubbles - we lack the complexification of multiple views of the real world - we need to make breaking our own frames & making new ones easier
+
+
+> "Computer scientists, faced with the challenge of scaling, tend to fall back on a hierarchical scheme." - [source](https://twitter.com/gordonbrander/status/1127699384102080514)
+
+
+> "We mistake having likes and friends with actually having participatory social connectedness" - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022](https://youtu.be/8U2caURO-d4?t=3373)
+
+> "The internet doesn't have to go the way it is - there's a possibility of reorienting it that can undermine the bullshit and the fragmentation that makes us prey to the centralization forces" - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022](https://youtu.be/8U2caURO-d4?t=3420)
+
+
+
+
+we have many facets to our personalities - we could share a lot more
+we are social creatures
+
+
+
+
+
+
+
+
+== can't be evil
+> "The rise of transparent, impartial, autonomous code in these mission critical areas is incredibly important as trust in institutions [continues decling](https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf) globally." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+
+> "Rule of law and property rights in the digital domain are unreliable with powerful centralized intermediaries at the helm and there are serious political and economic consequences." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+
+> "Companies make promises. Protocols make guarantees." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+
+
+
+
+TODO: put in ledger of record
+> "It's not about fact checkers, it's about checkable facts." - [@balajis](https://twitter.com/balajis/status/1616198733032742912)
+
+
+
+
+== liquid democracy:
+
+Liquid Democracy with Google Votes
+https://www.youtube.com/watch?v=F4lkCECSBFw
+
+Forby: Collaborative Intelligence and Sensemaking
+https://www.youtube.com/@ForbyCollaborative/videos
+
+https://forby.io/blog/voting-systems
+
+https://en.wikipedia.org/wiki/LiquidFeedback
+
+https://github.com/DemocracyEarth/paper
+
+https://www.tdcommons.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1092&context=dpubs_series
+
+https://vitalik.ca/general/2021/05/25/voting2.html
+
+https://followmyvote.com/liquid-democracy/
+
+Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System
+https://arxiv.org/pdf/1911.08774.pdf
+
+
+
+
+
+
+
+The importance of history cannot be understated. This chapter could never do it justice so please refer to Balaji's book and the second "History as Trajectory" chapter.
+https://thenetworkstate.com/prologue
+It's a book more about history than anything else
+It's a book mostly about history
+
+
+> "Cryptohistory is Cryptographically Verifiable Macrohistory" - [Balaji's The Network State](https://thenetworkstate.com/microhistory-and-macrohistory#cryptohistory-is-cryptographically-verifiable-macrohistory)
+
+
+
+So what do we do about this world we are living in where content can be created by machines and ascribed to us?
+I think we will need to sign everything to signify its validity. When I say sign, I am thinking cryptographically signed, like you sign a transaction in your web3 wallet.
+(Fred Wilson, AVC, 2022, “Sign Everything”)
+https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU
+
+
+
+
+> "If the news is fake, imagine history" - [@AmuseChimp](https://twitter.com/naval/status/1322646025811554304)
+
+
+
+
+What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it. (Herbert A. Simon)
+
+
+
+
+
+> "Our ability to coordinate with each other is pretty fundamental to the selection of what we are as a species" - [Daniel Schmachtenberger](https://youtu.be/hGRNUw559SE?t=1658)
+
+
+
+
+
+
+
+timestamped events?
+    farcaster - no, user reported timestamp
+    "Delta timestamps can be used by applications when generating feeds of information for their users. Such timestamps are untrustworthy since they are user reported and the network cannot verify them. The timestamp trust model is like that of a blog where most users tend to be well behaved since a monitoring service at the application level can be used to detect timestamp abuse."
+
+App id/name in URIs for content generated through them
+
+proofs for the authorization or key ownership at the point of publication are not necessary! they can be reconstructed !!!
+
+infra need to store signatures & proofs?
+
+upper limit for total data on the network/protocol
+
+
+Farcaster focuses on eventual consistency with CRDTs & Delta Graphs but the elephant in the room is different counts based on different filters which cannot be done with CRDTs easily.
+ACTUALLY not sure if that's true :|
+but perhaps CRDTs are just not as performant for trillions of likes
+Our view is that using CRDTs is a constraint - like for example multi-dimensional follows with include/exclude filtering
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#3-delta-graph
+
+limits on data? size & retention?
+CRDTs are a limit for Farcaster.
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#33-bounding-graph-size
+https://hackmd.io/fCa8_RCEQ4qBYZjfnas9Zg
+
+
+
+partial view of the network allowed?
+    not for farcaster
+
+Why go theough the trouble of dealing with crdts and constrains if youll solve just one basic case and not everything thats possible?
+
+
+They aim for Hubs to have a complete view of the network and are aiming for everything to fit in 64TB o_O
+
+"we limit users to storing a finite number of deltas for each type and calculate the limits to keep the size of the graph under 64 TB."
+
+
+
+
+farcaster is too constraining because of the use of CRDTs
+The system cannot be extended by anyone because the Hubs need to agree to run the software that handles any new message type. The protocol is tied to the infra.
+
+
+Farcaster: a lot of complexity, a lot of limitations and no clear path to being general purpose & web-scale
+
+- competition - finish it !!!
+
+    - Point when comparing with others: multiple ways to ask for data from an URI as opposed to just a hash
+    - a URI is not connected to multiple entities and not just a hash - the application & user
+    - Others con - addressability does not include application names - no such direct client attribution mechanism
+    
+    - just because you can interlink everything with hashes doesn't mean that you should
+
+
+
+    - page about the key rotation & anchoring problem and where does the key rotation & revocation data live & latencies? - aka WHY SEQUENCE THIS
+
+- Point when comparing with others: 
+
+
+ANCHORING IS NOT ENOUGH! - you need to know which event invalidated the previous one without having to check if it was invalidated
+
+
+
+
+ordering guarantees?
+
+
+
+Pruned sets - how/which data is stored by hubs
+The protocol is trying to do too much
+Very opinionated - way beyond just decentralized identity
+the hub implementation has a lot of tough choices to make in regards to rate limiting, spam & storage limits/guarantees
+there is a consensus algorithm about 
+https://hackmd.io/@farcasterxyz/BJj3zuVVj
+
+farcaster makes the hubs a bottleneck for applications - instead of allowing different apps to provide their own storage
+
+All this complexity of sets, CRDTs, pruning & size limitations stems from the inability to address content by users without it being created by the hub - a user's hub is a bottleneck for applications
+What is a [CausalRemovesWinIfValid](https://hackmd.io/@farcasterxyz/BJj3zuVVj) set?
+
+> "We expect users to resign their messages when migrating between clients" - [source](https://hackmd.io/@farcasterxyz/HJzK5VM4o)
+wow...
+"When a signer is removed, all messages signed by it present in other CRDT's must now be considered invalid and evicted from those CRDTs."
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#72-signers
+however, even a custory address may change but it may re-authorize signers.
+but if a signer was compromised you have to lose everything signed by it
+
+A negative for headjack is that it's not trivial to obtain the latest version of a document for a URI - if it was deleted you'd probably need to ask the app or the IDM of the user if they have an update, but that update could have been submitted by another app
+
+
+
+Without anchoring data with a Merkle proof and sequencing that in time, it is impossible for a document to be fully self-authenticating because it might have been signed with keys that have been compromised/revoked/rotated.
+
+
+
+
+
+████████████████████████████████████████████████ REAL TODO:
+
+
+- trim devbg presentation & send slides to devbg
+
+- ping protocol labs emails about the grant?
+
+have a slide about the so talked about superapp - and how it is actually complete personal freedom for the choice of what functionality you have in a dashboard
+
+be precise - which are the 2 layers on the 2 sides of the narrow waist - specific examples of functionality?
+
+its all preferences & expression and the vertical is along public and private - its a 2/2 square graph with 4 quadrants
+configuration attributes to accounts
+
+cheaper, faster, better
+
+- really think about the youtuber money flows in business models
+
+████████████████████████████████████████████████ Notes from the 2nd half of November
+
+not engineered for a % of the market - engineered for the entire market
+
+the only web3 identity/social solution that can partner with OAuth/OpenID - and they will signal-boost it
+
+when youtube removes a video of yours - it should still be available by you.
+
+
+history of seen tweets - like history of watched videos on youtube
+
+ability to set priorities for notifications and build a "home dashboard" that takes those into account
+
+farcaster implies a bottleneck with the user's hub
+
+We should all want informational freedom when it comes to querying public information
+
+stability of identifiers is crucial for relational databases.
+The relational model is built on the premise of stable identifiers.
+
+Encoding metadata in the uri avoids the need for requests
+
+your "desktop" for the apps & public data of the world
+
+social aggregation: the mirror within - as a chapter name about signaling of public preferences & poll opinions
+why are twitter polls only for 24 hours? and we can't see how specific people voted?
+abstract polling: count & filter the results from any poll using any KYC filter or whatever ban list (so include/exclude for groups of people)
+Reputation page and the message types that polls could be
+The need for structured data - chapter
+Structured data as a chapter - about polls and reputations
+every claim and counter should be verifiable - even if at a processing cost
+common knowledge should go there?
+
+applications can decide which sets of filters are allowed for viewing media through them, in order for advertisers to be happy
+
+boosting the competent through ranking their public information & track record objectively & transparently
+we need to build the public introspection tool
+
+bringing capitalism to media - slide in pitch with the narrow waist and MxN
+
+distinction: public vs private info
+Public vs private posting. Choosing which preferences to show to all
+
+copy & follow the viewing preferences of others
+
+we can make anything referencable and because of the stable intra-document addressing and we can crowdsource a global reference heatmap of information
+
+imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
+
+different filters & thresholds for cold DMs - it should be easier for people from your communities to contact you. Such preferences should be possible.
+
+this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's a business model for it and demoand
+
+the super app of superapps section
+the superapp - the command center - as a chapter & what the gateway would be - what would the browser in the browser be like
+the way to crowdsource the global superapp through which we could do anything is to decentralize identity, end the host-centric model & allow for a market to emerge for any type of index
+The superapp section should go in "what really is"
+we can turn the web into a personal computer for the public information
+the superapp is the "how would you like to spend your attention" superapp
+
+
+imagine browsing the public web like it was your personal files in your apps and drives - having total control of how you store and group that data. This could be the case with the public web. And we could advertise what kind of filters & grouping options we prefer with public messages which are not options. we can crowdsource preference and show which things are preferred. We can end the binary duopoly in politics by making all opinions and interests unbundled from each other
+
+
+services will no longer have the host-centric model to point to as the reason for siloing data - just the fact that we would give an address to our documents that is beyond any specific host is enough of a reason for the nature of competition to change
+
+the block/content explorer of this ecosystem will be the next google
+
+page about IDMs and what they could personalize for you
+
+A single on-chain message that updates an rpc/rest endpoint can redirect trillions of URIs and exabytes of data instantly - no global DHT used for individual elements
+
+When a key is rotated it doesn’t affect old content for it to be self-authenticating
+
+Insight: names are most useful when in document URIs - not used to identify your personal finances publicly
+
+Global vs local for the feed - locality of information & notifications!
+
+composable media - pick a recommender algo, search, UI
+
+Section: certifiable (verifiable?) credentials and attestations
+
+focus more on the separation of actual data and the presentation layer for archiving?
+
+we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
+
+granularity of verification? many verticals? a bouquet of attestations
+
+
+When you show your Attention you get attention for it - in regards to the signaling
+
+twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
+
+2 types of edit commands: non-branching and branching
+what if IDMs allow us to have pointers like HEAD in git?
+
+just like we need IP over MAC addresses in order to have a hierarchy, for the same reason we need Headjack URIs on top of hashed data - the retrievability process is greatly improved
+
+
+
+friendship should be: you have a DM channel open - without a filter
+
+
+
+giving different types of permissions to IDMs - for example the ability to change your name without a sig from you
+
+imagine being able to select a subset of all accounts worldwide and train a GPT on that subset of human knowledge & opinions
+
+putting data in the real cloud - the one beyond hosts
+
+what if apps have to explicitly pay to infra for their data to be stored?
+
+
+
+
+- "the successor to E-mail" in what really is headjack
+An extension of email
+Extending email to a broadcasting protocol
+this identity layer is the successor to email
+the successor to email - instead of base layer of cyberspace
+DNS+Email+RSS
+
+
+PUT THIS IN ARCHIVABILITY
+we should do better than having the spouses of people who have passed away having to login & post in order to avoid the deletion of a historically important account
+https://twitter.com/halfin/status/1603847718039744512
+
+
+Zero knowledge as a chapter
+https://twitter.com/pseudotheos/status/1603832650707370009
+
+
+████████████████████████████████████████████████ other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity." - [AVC](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
+
+
+
+
+
+
+
+
+
+
+
+
+write about security and how there will be competition for services that keep your data private and we will get eventually the best possible services
+
+we should be able to apply something like birdwatch on the entire web - not just on tweets. We need software composability
+
+
+
+
+
+IDMs keep your preferences
+
+
+
+balaji on cryptography & how the state should use it - relevant to the web of trust idea
+https://twitter.com/balajis/status/1596412557127954433
+
+
+
+
+
+
+
+
+chapter: what journalism would look like
+== RESURRECTING/REVIVING/REINVENTING/reimagining JOURNALISM w/ reputation
+- digital investigative journalism could be quantifiable & codified as algorithms - the role of people could be in building such algorithms/classifiers (which could be chained/imported like in DeSci) & narration
+- anyone should be able to make new classifiers and apps should be free to use (or allow the use of) such classifiers
+- we can co-create the mechanism for sorting through ideas publicly and directing capital what to be fixed next
+- we need to be able to surface any kind of signal from public data
+- we can have a trail (in the web of trust & sequence of events) of who was fraudulently trying to shut off an idea - this can act as an incentive to not publicly try to lie. we need to build the reputation machine, but one where reputation is multi-dimensional and we all participate & compete for competence in different aspects & verticals of society
+- every nation and every official in the top seats of governments should have a public account with identity tied to his broadcasted public actions
+- any public claim can be backed up by an accompanying algorithm that surfaces the signal behind the claim. And there's a record of which other identities are used as sources for the input data, and if the algo is indeed what it's said out to be
+- Give the people the tools they want
+- Competing knowledge graphs that you plug into Troogle (truth google)- see where they differ in what is true (left vs right?) - point from balaji
+- imagine the kind of wikipedia we could build on top of the ledger of record
+    https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+    https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_a_mainstream_encyclopedia
+- With open data we can be more data driven and less narrative driven
+
+
+
+archivability section - the tweets no longer saved stuff
+https://www.npr.org/sections/thetwo-way/2017/12/26/573609499/library-of-congress-will-no-longer-archive-every-tweet
+
+
+complete control of what is public and what is not - what digital trail you leave, and the ability to subscribe to anything for events
+
+
+- In the possibilities - being able to see all the public activity of anyone 
+- in the possibilities - multidimensionality for subscriptions
+
+
+curators of communities can literally whitelist accounts & types of accounts and compete on the best possible discourse - we can let the moderators run the thing and make a buck while doing so - and compete!
+
+
+
+
+Moving everyone on a shared identity layer needs to happen only once. And it will - it's only a matter of time. Why not simply look at the best protocol in terms of merits and shoot with it?
+Lets create the theoretically most secure and scalable solution to this problem.
+Lets tell the best story of why it's necessary
+And let's not botch the tokenomics.
+
+
+
+
+
+
+
+
+
+extensions to twitter shouldn't clutter the comments like this:
+@threadreaderapp unroll
+@memdotai mem it
+@readwise save
+@SaveToNotion
+https://twitter.com/MaficoNFT/status/1591510117094428678
+
+
+
+
+
+
+imagine being able to crowdsource debate requests with specific people and see a ranking of which debates are most desired
+
+
+YouTube recently removed the option to sort the videos of a channel by oldest first - because why not - because they can.
+
+
+
+The value of permanence & self-authenticating documents - not host-centric/host-certified or anything else - truly self-authenticating!
+SBF deleted a tweet that would incriminate him
+https://twitter.com/jonwu_/status/1590099766712549376
+https://twitter.com/AutismCapital/status/1590888993226653697
+The only way to make something truly self-authenticating in perpetuity is to timestamp it. Anchor it. Sequence a set inclusion commitment on-chain.
+
+
+
+
+
+twitter indeed has huge potential - something like it can become the identity, trust & information layer on top of IP
+
+
+
+
+
+“How many hasty, immature, superficial, and misleading judgments are expressed every day [in the press], confusing readers, without any verification.” #Solzhenitsyn
+https://twitter.com/AI_Solzhenitsyn/status/1590086890174160902
+
+“Because instant and credible information has to be given [by the press], it becomes necessary to resort to guesswork, rumors, and suppositions to fill in the voids, and none of them will ever be rectified; they will stay on in the readers' memories.” #Solzhenitsyn
+https://twitter.com/AI_Solzhenitsyn/status/1590055302371500032
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TODO: move the media/tech/internet section to the top of the REALLY page? be first?
+
+TODO: integrate these 2 (about the move from social/interest graph to recommendation algorithms):
+https://twitter.com/jonwu_/status/1587462349018972161
+https://twitter.com/alexeheath/status/1552401066444013568
+
+
+a timestamp machine
+The universal network effect
+Untransferrable property rights for data
+
+
+
+"attention is all you need" in the what really is headjack page
+
+
+
+
+> "Simplicity is the ultimate sophistication." - [Leonardo da Vinci](https://www.goodreads.com/quotes/9010638-simplicity-is-the-ultimate-sophistication-when-once-you-have-tasted)
+
+
+identity-centric
+
+
+
+benefit: no need to store proofs for every single event as they can be derived
+
+> "In a simplistic abstract sense, identity is the capability to distinguish one object from another." - [source](https://hal.inria.fr/hal-01966561/document)
+
+
+> "DNS was invented at nearly the beginning of the Internet itself and pre-dated the Web, and has long been a centralized registry for the identity that mapped human-readable domain names for web-sites to IP addresses." - [source](https://hal.inria.fr/hal-01966561/document)
+
+> "There are today perhaps more OAuth transactions than Visa transactions." - [source](https://hal.inria.fr/hal-01966561/document)
+
+
+
+
+interoperability
+https://balajis.com/yes-you-may-need-a-blockchain/
+
+competition & horizontal gene transfer
+https://twitter.com/sreeramkannan/status/1573832256577224705
+
+
+
+
+HEADJACK:
+- identity
+- linking it to data & events - addressing
+- solving authorizaion & authentication
+
+assumptions to challenge:
+- should everything be anchored & sequenced?
+
+████████████████████████████████████████████████ time table:
+
+12:00-16:00: presentation
+16:00-19:00: fixing notes & writing
+19:00-20:00: reads & twitter & 31st birthday stuff
+
+
+
+
+- competition: 4 days
+- presentation: 5 days
+
+- research autZ/authN: 3 days
+
+████████████████████████████████████████████████ TODO:
+
+
+- snowflake IDs
+    https://en.wikipedia.org/wiki/Snowflake_ID
+    https://twitter.com/_RyanBenson/status/1213870768070610944
+    https://news.ycombinator.com/item?id=19266823
+    https://snowsta.mp/?l=en-us&z=2y&f=auvqv0f1pd-en2
+
+
+when ingesting data, infrastructure can map the "appId/nonce" pair to "block_height/appId"
+
+
+
+
+
+
+
+
+
+
+
+
+
+flexibility - addressing is forever - but the storage & architecture of any application can be changed - without breaking the addressing.
+
+
+
+
+Access Controls - as a point for Headjack
+https://zeeprime.capital/web-3-middleware#access-controls
+
+
+
+
+handle key rotations for private application logins on-chain but only with a number that signifies the version of a session token and track block ranges... like credentials that can be checked on-chain if a previous version is the latest or not
+
+
+
+
+spam protection: we can see the source of accounts that are often labeled as spam - if they are coming from a specific IDM (because it's much cheaper to create new accounts from an IDM)
+
+
+DATA LEGOS page? about streams & composability?
+
+
+TODO: address every one of the problems with a solution in the other pages - don't skip anything
+
+
+████████████████████████████████████████████████ TODO:
+
+
+
+
+- identity page:
+    Hierarchical keys managed by an account - for different devices - in identity page
+
+- add "(fractal)" to
+    possibilities.html#intra-document-addressing
+    names_and_paths.html#addressing-within-content
+
+███ reorgs:
+
+- rework identity & add TOC! Maybe also talk about public vs private & revokable authorizations? 
+
+- move the part about reputation and messages for predictions with a fallback rendering to the messages page?
+
+███ pages:
+
+- new pages: applications & IDM in "what"?
+
+- IDMs & account preferences page
+- messages page
+
+- page about applications? IDMs?
+
+- numbers page - state growth
+    https://twitter.com/keoneHD/status/1574451986501623808
+
+
+
+
+
+- Problems & open questions
+- roadmap page
+    https://spec.dsnp.org/Roadmap.html
+- Postpone topics - prepare notes but set aside
+    - moderation
+    - Postpone stuff about the culture war
+    - new page: cultural implications of the current the information health? - POSTPONE problems with media and misinformation?
+
+
+███ points & phrasing:
+
+- todo: Streams and composability
+    https://cdixon.mirror.xyz/Ie8BQeiM1JTJkKISPVaAao88-XVMoHsdUAtcnS9_Jbs
+    https://twitter.com/naval/status/1444366754650656770
+
+- point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
+
+- point: improved security - the hacking of high-profile accounts and posting on their behalf is almost impossible with the right opsec
+https://twitter.com/VitalikButerin/status/1576275977352536065
+https://twitter.com/tayvano_/status/1611131230074073088
+https://twitter.com/0x796/status/1611332890209419264
+https://twitter.com/0x796/status/1611371424945512460
+https://haveibeenpwned.com/
+https://twitter.com/SimpleLogin
+
+
+
+- focus more on "the whole is more than the sum of its parts"
+
+███ diagrams:
+
+https://sequencediagram.org/
+mermaidjs diagram?
+
+- NOT INVERTED pyramid - identifier, profile info & preferences, generated content/created
+
+- User funnel diagram with multiple possible ways to end up in the system
+- complete flow of an action from creation to displaying in apps
+    - pipeline of publishing and ingesting an event
+
+███ research:
+- https://a16z.com/2022/04/21/investing-in-spruce/
+- https://www.hello.coop/#user-faqs
+- https://www.sismo.io/
+- https://ethdos.xyz/blog
+- verifiable credentials - chains that aim to do solely that are a ghost town - Headjack is a confluence of many things with synergies.
+    https://www.dock.io/
+    https://www.dock.io/post/decentralized-identity
+    https://docknetwork.github.io/sdk/tutorials/tutorial_anoncreds.html
+    https://docknetwork.github.io/sdk/tutorials/concepts_private_delegation.html
+    https://blog.dock.io/exposing-bad-actors-behind-anonymity-with-traceable-credentials/
+
+SISMO !!! and ethdos !!!
+https://twitter.com/shreyjaineth/status/1590310990876659712
+
+https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf
+
+
+
+
+
+
+
+https://paragraph.xyz/@blog/farcaster-comments
+
+
+
+
+VERTICAL INTEGRATION:
+    Youtube now has posts like twitter where you talk to your subscribers - why a separate network ?! why are all these platforms reinventing the same features ?!
+
+    Why does spotify need to build video streaming to compete with youtube?
+
+
+
+
+
+
+
+
+
+
+
+- TODO: do a graphic for the 4 types of headjack use cases:
+    https://twitter.com/TrungTPhan/status/1545413848886169602
+
+    The authorization privilage spectrum - keypair / IDM / application
+    https://en.wikipedia.org/wiki/Principle_of_least_privilege
+
+
+- data centric page -  mention interoperability & composability
+TODO: Ambition => composability => link to possibilities
+
+
+
+
+
+
+
+- Thread on eigenlayer vs polkadot - ask George about polkadot first
+eigenlayer is the final nail in the coffin for the thesis behind Polkadot
+
+
+
+
+merkle tree pic:
+https://miro.medium.com/max/1174/1*prtcx2rVQZmX9oZcyrC_gQ.png
+
+
+
+
+████████████████████████████████████████████████ starkware & zk stuff:
+
+ZK Whiteboard Sessions - Module One: What is a SNARK? by Dan Boneh
+https://www.youtube.com/watch?v=h-94UhJLeck
+
+VERY GOOD!!!
+read onwards from "Type of ZKPs (STARKs and SNARKs) and How They Work"
+https://zeeprime.capital/part-1-Can-We-Kill-Moloch-ZK-Basics-and-Virtual-Machines
+
+very good talk?
+ZKP Workshop 2022: Dan Boneh - Constructing Modern SNARKS
+https://www.youtube.com/watch?v=6psLQv5Hf_I
+
+https://www.notboring.co/p/zero-knowledge
+
+https://appliedzkp.org/
+https://semaphore.appliedzkp.org/
+
+https://www.researchgate.net/publication/221355016_How_to_Explain_Zero-Knowledge_Protocols_to_Your_Children
+
+https://github.com/noir-lang/noir
+
+https://pseudotheos.mirror.xyz/Q9154CY9CFaPzy6AgSlek8-ZBA_kSF_93MTKk-opHRw
+
+GREAT piece/overview about appchains
+https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832
+
+
+https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649
+
+Vitaly Yakovlev - Starknet dApps: How we built DeFi 3.0 with Cairo
+https://www.youtube.com/watch?v=v-TsuOxgOqM
+
+https://twitter.com/sreeramkannan/status/1548377279058743304
+
+https://twitter.com/sreeramkannan/status/1563615609925304320
+
+https://blog.nil.foundation/2022/07/01/starknet-integration.html
+
+https://twitter.com/sreeramkannan/status/1558986641116499968
+
+https://twitter.com/bkiepuszewski/status/1559900576888004609
+
+
+https://twitter.com/jon_charb/status/1555403452485861377
+https://members.delphidigital.io/reports/the-complete-guide-to-rollups
+
+https://twitter.com/jneu_net/status/1563199820742811649
+
+
+https://twitter.com/a16z/status/1555949616406732800
+
+
+https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/
+https://www.youtube.com/watch?v=tg6lKPdR_e4
+https://www.youtube.com/watch?v=cMAI7g3UcoI
+https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
+
+
+OMGOMGOMG use the UTXO model for parallel processing
+https://twitter.com/eshita/status/1546911467936440320
+
+
+
+
+https://twitter.com/jon_charb/status/1555403452485861377
+https://members.delphidigital.io/reports/the-complete-guide-to-rollups
+
+https://vitalik.ca/general/2022/08/04/zkevm.html
+^^ explainer on all the zk EVMs
+
+TODO: ask Sreeram how 2 million dydx tx fit into 10 mb/s of DA:
+https://twitter.com/apolynya/status/1517137629334056960
+
+
+
+https://www.youtube.com/watch?v=VKo00zQT0-E
+https://twitter.com/Scroll_ZKP/status/1554060160674701315
+https://twitter.com/Scroll_Intern_/status/1554643436531499008
+
+https://www.youtube.com/watch?v=4asIQyWwGko
+
+
+https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc
+
+
+https://twitter.com/bkiepuszewski/status/1540793333295075329
+https://twitter.com/gluk64/status/1539953204900790272
+https://twitter.com/gluk64/status/1539953208486936580
+https://twitter.com/gluk64/status/1539953212148654080
+https://twitter.com/gluk64
+- start collecting notes about different solutions - like starkware having vendor lock-in!
+
+https://blog.celestia.org/introducing-sovereign-rollups-to-developers/
+
+- ask starkware about cairo, zkEVM, Solidity & the Eth state merkle patricia trie
+    https://discord.com/channels/793094838509764618/793094838987128844/997172632321544194
+    https://discord.com/channels/793094838509764618/793094838987128844/997349007808536616
+
+
+- read about ZK
+    https://blog.matter-labs.io/zksync-2-0-hello-ethereum-ca48588de179
+    ask pseudotheos about the zkEVM
+        https://twitter.com/messages/743025386720747520-1458046241644892163
+    https://www.youtube.com/watch?v=DT8g3veR17k
+    https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks/
+    https://docs.zksync.io/zkevm/#general
+    https://mirror.xyz/toddz.eth/8HPDEpf7FbirLbXJFeEfI719hN0w-VKITSs1NUgyFFE
+    https://www.alchemy.com/overviews/zkevm
+    https://www.google.com/search?q=zkevm&oq=zkevm&aqs=chrome.0.69i59j0i512l4j69i61l3.859j0j7&sourceid=chrome&ie=UTF-8
+- read the celestia links in blockchain.md
+    https://www.youtube.com/watch?v=6uLlTLE7qrQ&list=PLM-Xjhvin-uWN9ov74srLZIuJsbRSc2ou
+    https://www.youtube.com/watch?v=4L30t_6JBAg
+    https://www.youtube.com/watch?v=TyJp4pqB6u4
+    https://blog.matter-labs.io/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955
+    https://blog.matter-labs.io/zkrollup-vs-validium-starkex-5614e38bc263
+- the hard forking question
+    - also understand what enshrining means
+        https://twitter.com/apolynya/status/1507586019171835905
+        https://twitter.com/apolynya/status/1511623759786307586
+        https://forums.minaprotocol.com/t/enshrined-rollups-in-core-protocol/5676
+        https://www.google.com/search?q=what+is+an+enshrined+rollup&oq=what+is+an+enshrined+rollup&aqs=chrome..69i57j33i160l4.4439j0j7&sourceid=chrome&ie=UTF-8
+    https://www.reddit.com/r/ethereum/comments/vrx9xe/comment/if7auu7/
+
+
+https://twitter.com/fuellabs_/status/1480674488077275136
+
+
+
+
+████████████████████████████████████████████████ on the Ethereum state trie
+
+BIG PROBLEM: eth state limits in terms of tps & slowing throughput?
+Péter Szilágyi - Ethereum in numbers: Where TPS meets physics
+https://www.youtube.com/watch?v=TdsaVoJiy3g
+
+https://github.com/cosmos/cosmos-sdk/issues/6071
+
+https://www.youtube.com/results?search_query=ethereum+state+trie+growth
+
+https://ethereum.org/en/developers/tutorials/merkle-proofs-for-offline-data-integrity/
+
+https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/
+
+https://ethereum-magicians.org/t/protocol-changes-to-bound-witness-size/3885
+
+https://mirprotocol.org/blog/Reducing-state-size-on-Mir
+
+https://www.google.com/search?q=cosmos+state+account+merkle+proof&sxsrf=ALiCzsYYRr3PldZfQdWeqKJqNDjV6ger5A%3A1657725685322&ei=9eLOYsyNE-yGxc8P4ciC0Ao&ved=0ahUKEwiM3O60lfb4AhVsQ_EDHWGkAKoQ4dUDCA4&uact=5&oq=cosmos+state+account+merkle+proof&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQ4wFYpAhg_QloAXAAeACAAcUBiAGmCZIBAzAuOJgBAKABAcABAQ&sclient=gws-wiz
+
+https://medium.com/@eiki1212/ethereum-state-trie-architecture-explained-a30237009d4e
+
+
+"Fifth, Ethereum storage layout carries a huge overhead. The Ethereum storage layout highly relies on Keccak and a huge MPT[4], both of them are not zk-friendly and have a huge proving overhead. For example, Keccak hash is 1000x larger than Poseidon hash in circuit. However, if you replace Keccak with another hash, it will cause some compatibility problems for the existing Ethereum infrastructure."
+https://scroll.io/blog/zkEVM
+
+
+Accounts are integers and the state tree should reflect that - doesnt need to be a trie based on crypto addresses
+
+
+████████████████████████████████████████████████ EigenLayr
+
+
+
+concern for using ETH instead of native token for staking
+https://twitter.com/sreeramkannan/status/1555425874828095488
+
+
+
+Polkadot analogy for Eigen layr - in fact it is way more efficient because the same capital can be restaked multiple times
+However, if the same collateral is used to secure multiple rollups and something goes wrong with one of them and the collateral is slashed - that reduces the collateral for the other rollups too (if slashed by a lot). Polkadot could have implemented this but haven't - it makes the risks much harder to evaluate. Also when a layr gets restaked eth from different other layrs the risk is very unspecified.
+
+Ask a bit more about celestia and their scale
+
+1.3mb/s data availability for celestia requires 1gb/s speed
+
+
+
+
+a few more points about Headjack:
+- accounts are just integers and are not required to have keypairs by default
+- most actions are done through authorized accounts and very few signatures are required
+    - authorizations for X to post on behalf of Y is just a pair of 2 integers on-chain
+- want this to be a cockroach with good liveness & to be as economically sound & capital efficient as possible
+- should have sovereignity - not enshrined to a settlement layer
+- bridging not necessary - only names will be sold on the chain
+    - a marketplace can natively be built in the chain
+- publication & creation network - not a transactional network
+    - accounts can still handle tokens but very few will want/need to
+- trivially shardable problem - X following Y only affects X
+
+- unsure:
+    - not sure if the historic record of blocks should be:
+        - incentivized
+            - perhaps for Headjack it should be baked into the protocol the way Arweave does it?
+        - not incentivized
+        - scrapped altogether - and put historic hashes in the actual state - making it bigger
+    - what finality guarantees do I want?
+    - throughput requirements
+    - big question regarding scale: should the interest graph go on-chain?
+        - historical storage not necessary about the state of the interst graph - only for the proofs for anchored content (merkle root + IPFS CID)
+        - in-protocol incentivization?
+            https://polynya.medium.com/the-endgame-bottleneck-historical-storage-e83c101d2a7c
+
+
+
+
+
+- is having a single leader (sequencer) a problem for something being a cockroach?
+    - can the sequencer be unidentifiable - just one of the p2p nodes without being known by IP?
+
+
+
+
+
+- reading about clusters in the celestia blog - will it be necessary to use something like a zkEVM and have the entire logic of my chain be coded in that so that it can produce ZK proofs that the EVM understands?
+    https://blog.celestia.org/clusters/
+    "Likewise with ZK rollups, they need to understand the ZK proving systems of each other. If you wanted to create a rollup using a new execution environment, you have to create your own cluster or hard fork an existing cluster."
+
+
+- zk
+    - do validity proofs imply ZK tech?
+    - would the state transition & logic need to be coded in something like Cairo?
+        zksync - a zkEVM?
+
+
+- EigenLayr
+    - can EigenLayr be used for a PoS system?
+        - liveness ==> needs PoS & a sequencer set?
+    - can an EigenLayr service determine on its own how much should be restaked for it?
+    - restaked eth - does that mean that the rollup might not need a native token?
+        - what if the lack of a token impairs project growth & community building?
+    - if there's a native token with 100M$ MC and there are just 10M$ of restaked eth - bad?
+    - risk of failing
+        - what if cannot attract restakers?
+        - transition path for my project? different DA layer and moving away from the EigenLayr smart contracts?
+    - restaking seems very similar as the crowdfunded polkadot parachain leases but there's no lower bound to how much security is needed to launch
+
+
+- DataLayr
+    - is the DA layer shared by all rollups using DataLayr and will they fight for resources?
+        - will many separate rollups on DataLayr share the same 10MB/s of DA throughput that has been achieved on the testnet with 100 nodes?
+    - direct IPs and not using a p2p layer?
+        - could DataLayr have been p2p and without public IPs?
+        - how come DoS attacks are avoided too? mentioned here: https://youtu.be/OtUOXTqrSyg?t=1542
+
+
+- Q: why is it hard to hard-fork a standalone chain but easier if consensus & DA are coming from Celestia?
+https://twitter.com/jon_charb/status/1546501640827568128
+
+
+
+
+
+████████████████████████████████████████████████ other
+
+
+
+We can rearchitect the entire web!
+https://i.kym-cdn.com/entries/icons/facebook/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg
+
+announcement: this is what I've been working on for the past 1 year
+https://twitter.com/gainzy222/status/1474761079179907079
+
+
+
+
+
+== greatest challenges & open questions:
+- rollup? sovereign chain? sharding? Near? Cosmos? Polkadot?
+- tokenomics - value accrual not just through block space?
+    - token model that is beyond "paying for blockspace" - smoothening out demand spikes & making it more predictable for services & companies
+- process for name auctioning - preventing squatting & hoarding
+- hiring
+
+
+
+
+
+
+
+
+
+- I want investors who will be excited to continue building applications & infrastructure on top of Headjack and undestand/believe the vision - not just supporting for the initial blockchain.
+
+
+
+
+
+
+
+
+
+
+
+
+- pros/cons table of building it as an Ethereum rollup - win the approval of the eth maxis
+
+- make a glossary page
+    https://spec.dsnp.org/Reference/Glossary.html
+    what is an anchor:
+        https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/#key-revocation-in-ceramic
+        https://research.csiro.au/blockchainpatterns/general-patterns/self-sovereign-identity-patterns/anchoring-to-blockchain/
+
+████████████████████████████████████████████████ Tyler
+
+summary of last 2 months:
+- fixed up the text & developed a few more pages (numbers, messages, account messages & social graph)
+- completed the next chapter (motivational - problems & how headjack fixes them)
+- decided to remove the interest graph from on-chain - leaving only authorization messages & keeping the blockchain state small
+- developed the pitch deck
+- actively looking for co-founders
+- applied to a few conferences to talk about the idea
+- researched ZK rollups - still not sure about it
+
+
+- want to aligh with Ethereum & win that crowd - be on the right side of history
+
+
+- rewritten the introductory page to cut the fluff and cut straight to the chase
+
+- When I tell people that Headjack will change the world - I need to be able to prove it
+
+- Tyler wants 1-2%, 6 months cliff for 75% of tokens, 6 more for the rest
+
+- do you think getting a hold of Balaji or Naval is possible? My project is influenced mostly by their thinking around web3 & media
+
+
+
+██████ project liberty - the competition - thoughts
+
+https://discord.com/channels/969001918460469250/969308056208961606/994887893099221003
+
+=== project liberty competition
+    - Headjack is partially inspired by their whitepaper
+    - slow R&D - 2 years already
+    - decided to see where they are at 2 days ago
+        - polkadot parachain development announced 2 months ago
+        - some improvements in their design since I last looked at it
+        - they have an answer to my economic worries - although I could have figured it out too eventually
+        - biggest difference is addressing - very excited about the human readable URLs of Headjack
+            - also other details which are not a deal breaker - but I think I can design the better system
+            - it is bizzare to be so on-point about so many things and yet fail at addressing
+                - however they *could* fix it
+    - compete?
+        - possible
+            - no community & 0 buzz around them (yet)
+            - not much code written yet - not launching anytime soon - they seem a bit slow
+            - the lead spokesperson continues to be the old billionaire that funded it instead of the team leads
+            - not a big enough team
+            - they don't have a vision for what to build after the blockchain like I do - nor the passion it seems
+        - challenges
+            - they have:
+                - huge backing by the billionaire - and he's actually a decent person & is doing it for the right reasons
+                - official partnership with Polkadot
+            - hard sell for Headjack as a polkadot parachain as it is very similar to the other one?
+            - duplicated effort & fragmentation
+            - hiring, a little bit behind
+    - join them?
+        - very little influence, very little reward
+        - improbable that I'd convince them to use the better addressing & URLs
+        - but higher chance of success
+
+
+
+
+Frequency problems:
+- Polkadot - not as decentralized as Eth
+
+
+
+
+
+
+████████████████████████████████████████████████ The Architect
+
+I'm starting to buy into the modular blockchain idea and am thinking of a validium rollup where the data availability is not on eth but on something like Celestia or DataLayr and only the ZK proof and the settlement is on Ethereum.
+
+turns out the only way to make a zk rollup & have validity proofs is to use either starkware/zksync/or a few other players, and one can use Solidity for all of them:
+https://twitter.com/apolynya/status/1517108067787177984
+
+but that would mean that the materialized rollup state for all accounts will resemble the ethereum state in terms of structure, so the merkle proofs for parts of the state will be dependent on how the state is implemented - what kind of trie, etc.
+
+I have a very important goal, which is to minimize the size of merkle proofs for anything, as I think my chain would be used to request & generate much more merkle proofs than something financial
+
+
+
+██████
+
+
+
+
+
+
+
+
+
+
+
+- would optimint (cosmos with DA & consensus from Celestia) be a good choice?
+
+
+
+https://discord.com/channels/969001918460469250/969308056208961606/996417552962043924
+reply:
+    if there is no "root" delegate that a user uses to delegate to others, then all users will need a keypair, and every time they delegate to a service they'd have to explicitly sign & post on-chain (perhaps the delegate could cover the costs).
+
+    with hierarchical delegates a root delegate could even create accounts without keypairs and can then batch-submit lower-level delegations to services which will be just pairs of account integer ids and no signatures from specific end-users - much more compact
+
+
+
+
+
+
+
