@@ -11,9 +11,48 @@ apps should be able to show you all references to a document - perhaps they migh
 second brain - note taking
 
 provenance
+https://en.wikipedia.org/wiki/Data_lineage
 > "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
 
+provenance graphs - imagine being able to check if any of the inputs of a story has been influenced by a specific source
+PROVENANCE as a chapter?
 
+
+
+data pipelines & lineage - anyone would be able to do such complex analysis on public data
+ontology
+Foundry 2022 Operating System Demo
+https://www.youtube.com/watch?v=uF-GSj-Exms
+reproducibility
+
+incentives & reputation
+> "While no one can achieve perfect objectivity and fair-mindedness, those who strive for it get far closer than those who do not. This is true at both the scale of an individual and the scale of a society." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=While%20no%20one%20can%20achieve%20perfect%20objectivity%20and%20fair%2Dmindedness%2C%20those%20who%20strive%20for%20it%20get%20far%20closer%20than%20those%20who%20do%20not.%20This%20is%20true%20at%20both%20the%20scale%20of%20an%20individual%20and%20the%20scale%20of%20a%20society.)
+
+we should be able to express "I care about deforestation and the Amazon rainforest" and set up filters for notifications for events regarding that
+
+What if the way an event or a piece of news to get to more eyes was not through recommendation algorithms but through explicit annotation of what's inside - such that people can have explicit interest in those?
+
+> "The final, terminal step is seeing that contemporary digital media landscapes are wide open to manipulation, informational warfare, and disorienting, addictive user interfaces. Right when society requires unprecedented upgrades in public sensemaking processes, we face instead a perfect storm of factors contributing to an epistemological crisis." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20final%2C%20terminal,an%20epistemological%20crisis.)
+
+> "The ethics that have governed the growth and flourishing of modern journalism and media are from another, prior society, and must be upgraded substantially to provide for the needs of the risk society." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20ethics%20that%20have%20governed%20the%20growth%20and%20flourishing%20of%20modern%20journalism%20and%20media%20are%20from%20another%2C%20prior%20society%2C%20and%20must%20be%20upgraded%20substantially%20to%20provide%20for%20the%20needs%20of%20the%20risk%20society.)
+
+> "The noise is louder than the signal. Aside from addiction, attention disruption, and other aspects of psychological distress that emerge from long-term engagement with social media user interfaces, there are other very real epistemological risks involved." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20noise%20is%20louder%20than%20the%20signal.%20Aside%20from%20addiction%2C%20attention%20disruption%2C%20and%20other%20aspects%20of%20psychological%20distress%20that%20emerge%20from%20long%2Dterm%20engagement%20with%20social%20media%20user%20interfaces%2C%20there%20are%20other%20very%20real%20epistemological%20risks%20involved)
+
+> "While there are some potentially useful historical parallels, it should be recognized that we face distinctly 21st-century sensemaking challenges. This is not a kind of problem we have seen before, nor even some new combination of old problems." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=while%20there%20are%20some%20potentially%20useful%20historical%20parallels%2C%20it%20should%20be%20recognized%20that%20we%20face%20distinctly%2021st%2Dcentury%20sensemaking%20challenges.%20This%20is%20not%20a%20kind%20of%20problem%20we%20have%20seen%20before%2C%20nor%20even%20some%20new%20combination%20of%20old%20problems.)
+
+> "The Internet presented to you on your phone is not a neutral tool to aid you in your individual sensemaking. Neither is social media a neutral tool to aid everyone in open public sensemaking." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20Internet%20presented%20to%20you%20on%20your%20phone%20is%20not%20a%20neutral%20tool%20to%20aid%20you%20in%20your%20individual%20sensemaking.%20Neither%20is%20social%20media%20a%20neutral%20tool%20to%20aid%20everyone%20in%20open%20public%20sensemaking.)
+
+> "Information technology still has the potential to bring widespread sensemaking to historically unprecedented levels, but this will require us to make the active and informed choice, as a society, to use it that way." - [Teetering Between Oppression and Chaos - The Consilience Project](https://consilienceproject.org/teetering-between-oppression-and-chaos/#:~:text=Information%20technology%20still%20has%20the%20potential%20to%20bring%20widespread%20sensemaking%20to%20historically%20unprecedented%20levels%2C%20but%20this%20will%20require%20us%20to%20make%20the%20active%20and%20informed%20choice%2C%20as%20a%20society%2C%20to%20use%20it%20that%20way.)
+
+
+
+[It’s a MAD Information War - The Consilience Project]()
+
+
+
+We need to deduplicate & reduce the amount of unique joinable keys for nouns, concepts, events & products. In the case when the same noun is published multiple times by different entities - maps of equivalence could be published so that nouns are equated to mean the same thing. We should be able to toggle which equivalence maps to enable.
+
+Moving the vast majority of online activity to structured data and reducing the text reduces the load for content moderation
 
 what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
 
