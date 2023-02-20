@@ -14,6 +14,11 @@ https://en.wikipedia.org/wiki/Public_key_infrastructure
 Public key infrastructure is inherently centralized
 
 
+TODO: read these:
+https://theinternetprotocolblog.wordpress.com/2023/01/17/reflections-on-certificates-part-1/
+https://theinternetprotocolblog.wordpress.com/2023/02/12/reflections-on-certificates-part-2/
+
+
 
 > "According to Netcraft in May 2015, the industry standard for monitoring active TLS certificates, "Although the global [TLS] ecosystem is competitive, it is dominated by a handful of major CAs — three certificate authorities (Symantec, Comodo, GoDaddy) account for three-quarters of all issued [TLS] certificates on public-facing web servers." - [Wikipedia](https://en.wikipedia.org/wiki/Certificate_authority)
 
