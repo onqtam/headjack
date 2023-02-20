@@ -2,11 +2,14 @@
 
 <img src="images/meme_trojan_horse.jpg" align="right" style="margin-left: 8px; width: 55%">
 
+<!-- <img src="images/meme_domino_effect.jpg" align="right" style="margin-left: 8px; width: 55%"> -->
+
 <!-- linking data to identity without keys at scale
 unbundling monopolies, decentralizing media & rearchitecting the web
 Headjack
 Users & devs
-https://imgflip.com/memegenerator/144961820/Trojan-Horse -->
+https://imgflip.com/memegenerator/144961820/Trojan-Horse
+https://imgflip.com/memegenerator/162372564/Domino-Effect -->
 
 The web is broken on many fronts - this chapter explores many problematic aspects and how they can be completely solved or at least improved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
 

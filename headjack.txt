@@ -23,6 +23,8 @@ competing wikipedia-like pages written by different people & being able to selec
 
 
 
+can't be evil - provenance, immutability
+
 
 data pipelines & lineage - anyone would be able to do such complex analysis on public data
 ontology
@@ -228,6 +230,80 @@ https://twitter.com/gordonbrander/status/1619370073722089472
 current platforms constrain our global neural network from freely wiring - we're allowed a very limited set of wiring
 
 
+stable identity keys allows for stable concept/collection/noun keys which allows for stable mapping and deduplication of concepts
+
+key stability ==> information deduplication & integration
+
+chapter: information organization
+
+recommender systems & search engines should NOT give you "other things you might be interested in" interleaved with the results for a specific query just to get you more engaged - but that's something YouTube is doing. You didn't ask for that but you got it
+
+
+
+
+https://twitter.com/SocietyLibrary
+the internet is unstructured
+linked knowledge database
+libraries & debate maps
+libraries - concepts can be linked to different multimedia expressions - resources that describe it
+debate maps are the onthological structure of the debate - aimed at deliberation
+
+what if wikipedia-like "pages" were sitting on top of debate maps, highlighting an editorialized take and perhaps generated/summarized by an LLM? And what if people could choose the editorialization?
+
+knowledge graph
+
+giant global graph
+a massively multiplayer interlinked knowledge database
+
+machine-understandable knowledge representations
+subject-predicate-object triplets in the semantic web
+these are just like subject-verb-object of the human natural language - there's an equivalence
+
+being able to vote/react multiple times on a URI - with different scopes. Suppose you want to upvote a resource in one context but downvote it in another context - contextual reactions - within a domain !!!
+context could be application/tag/campaign
+
+sensemaking is about creating maps
+
+
+
+
+
+
+
+
+
+
+signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
+
+
+claim: this is the boldest attempt at reenvisioning the web
+The great attention misallocation
+
+
+just like in open source problems need to be solved only once, the same way in a world of unified identity & deduplicated concepts interwoven with social media debates need to be had only once
+
+
+the host-centric model allows for platforms to own our content, which leads to misaligned incentives:
+time spent: user disempowerment - everything is AI controlled & recommender systems all the way down - attention maximization
+time well spent: user empowerment in being able to control what they want to see & how much of it
+
+the great attention misallocation - we all think certain issues don't get enough coverage or that other types of content get oversized & undeserved attention - we need to take control of the architecture of virality and the first step is actually having a choice.
+
+the 2 sides of "the consumer is always right":
+- the brain stem one - whatever they engage the most with is the right thing
+- the frontral cortex one - whatever they explicitly choose is the right thing
+
+
+
+can't be evil - reddit's hot/new/top algorithms are no longer public & open source - why not? This makes Reddit as a voting system less democratic and more opaque
+recommender systems are voting systems - user choice is effectively a vote that's fed through a feedback loop which affects what gets recommended to others as well. every user choice affects the available choices for others and the algorithms that do that are opaque - this is the opposite of democratic
+
+
+"deconstructing your digital footprint"
+
+"realigning incentives"
+
+"the promise of decentralized identity & media"
 
 
 
@@ -1451,7 +1527,7 @@ https://twitter.com/jon_charb/status/1546501640827568128
 
 
 
-We can rearchitect the entire web!
+We can rearchitect/rewire the entire web!
 https://i.kym-cdn.com/entries/icons/facebook/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg
 
 announcement: this is what I've been working on for the past 1 year
