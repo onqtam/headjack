@@ -41,6 +41,9 @@ having everything from a user in a tree with a root hash - easier replication
 https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#personal-data-repositories
 
 
+routing endpoints for accounts - advertised by their IDMs
+
+
 
 an IDM may also use a social recovery wallet instead of email as login - or just a normal wallet/keypair authorization
 

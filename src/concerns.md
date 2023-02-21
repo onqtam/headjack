@@ -36,6 +36,9 @@ https://notes.ethereum.org/@vbuterin/verkle_tree_eip
 Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean
 https://www.youtube.com/watch?v=Q7rStTKwuYs
 
+the first multi-client #VerkleTree test with @go_ethereum and @nethermindeth nodes in consensus.
+https://twitter.com/jasoriatanishq/status/1627692040015478785
+
 https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scaling-by-stacking-rollups-on-top-of-rollups
 "Note that because data on rollups is the scarcest resource, a practical implementation of such a scheme would use a SNARK or a KZG proof, rather than a Merkle proof directly, to save space."
 

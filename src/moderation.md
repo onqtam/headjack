@@ -17,8 +17,6 @@ https://steemit.com/community/@baah/a-solution-to-the-downvoting-flagging-proble
 
 https://techcrunch.com/2021/01/15/twitters-vision-of-decentralization-could-also-be-the-far-rights-internet-endgame
 
-https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/
-
 on bots & spam - see "So what’s prohibited?"
 https://blog.twitter.com/en_us/topics/company/2020/bot-or-not
 

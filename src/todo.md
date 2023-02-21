@@ -287,6 +287,8 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - talk about the fact that anything can be self-hosted - IDMs & applications
 
+- "Encrypting every message with the same private key for a lifetime is not a good idea." - https://twitter.com/pippellia/status/1605970280580632578
+
 - look into DID methods
     https://github.com/bluesky-social/adx/blob/main/docs/architecture.md#did-methods
 
