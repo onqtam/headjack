@@ -442,6 +442,11 @@ deleting an old post requires re-merkleization of the tree
 
 
 
+on Nostr
+https://twitter.com/pippellia/status/1605970256807206912
+
+
+
 hash-based intra-PDR addressing - could get very bloated
 
 if a user's PDR goes away all cached documents are no longer linkable to their identity

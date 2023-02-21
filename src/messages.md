@@ -51,6 +51,15 @@ https://github.com/farcasterxyz/hub/issues/430
 https://twitter.com/varunsrin/status/1617294606651260930
 
 
+
+https://www.blockchaincommons.com/introduction/Envelope-Intro/
+
+
+https://www.blockchaincommons.com/introduction/Why-CBOR/
+https://docs.rs/dcbor/latest/dcbor/
+https://www.google.com/search?q=CBOR&oq=CBOR&aqs=chrome..69i57j46i199i465i512j0i512l3j0i10i512j0i512l4.132j0j7&sourceid=chrome&ie=UTF-8
+
+
 Farcaster Messages
 https://hackmd.io/@farcasterxyz/ry2ff0lEj
 

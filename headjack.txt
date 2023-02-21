@@ -1,5 +1,16 @@
 
 
+БООК: what if every page started with the problems that would be addressed in it?
+
+
+The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
+
+Concern: leaked decryption keys for private data
+
+TODO: how much money does DNS & CAs as industries make yearly?
+
+
+
 
 sunlight is the best disenfecatant
 the fastest way for pro social behaviors is to make sure everyone's reputation is on the line
@@ -19,6 +30,14 @@ PROVENANCE as a chapter?
 
 competing wikipedia-like pages written by different people & being able to select between them? no more "trusted source" issues?
 
+
+
+> "The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses." - [Malcolm X](https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have)
+
+
+
+infrastructure - no need for a robots.txt file anymore - they were initially introduced because of [a badly-behaved web crawler that inadvertently caused a denial-of-service attack](https://en.wikipedia.org/wiki/Robots.txt#:~:text=a%20badly%2Dbehaved%20web%20crawler%20that%20inadvertently%20caused%20a%20denial%2Dof%2Dservice%20attack)
+https://en.wikipedia.org/wiki/Robots.txt
 
 
 
@@ -252,6 +271,8 @@ what if wikipedia-like "pages" were sitting on top of debate maps, highlighting 
 
 knowledge graph
 
+this needs to be intertwined with social media, identity & follow graphs
+
 giant global graph
 a massively multiplayer interlinked knowledge database
 
@@ -264,10 +285,27 @@ context could be application/tag/campaign
 
 sensemaking is about creating maps
 
+redundant knowledge & broken chains of provenance
 
 
 
 
+
+
+
+
+Composition in DeFi pales in comparison to the opportunities around data & identity.
+
+
+
+
+
+
+
+
+DIKW pyramid
+data, information, knowledge, and wisdom
+https://en.wikipedia.org/wiki/DIKW_pyramid
 
 
 
