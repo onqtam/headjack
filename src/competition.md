@@ -486,6 +486,14 @@ https://twitter.com/pippellia/status/1605970256807206912
 
 
 
+In case an IDM or application is compromised (but not their keys - only the servers to some extent) it could invalidate all access tokens with a single compact range message - not individually
+
+farcaster - limits on the number of signer keys, also what is the revocation process like?
+
+designing from first principles - what needs to be decentralized? what's the common use case for 99.9% of cases? what are the guarantees we should provide - and nothing less?
+headjack is an exercise in minimalism
+
+
 hash-based intra-PDR addressing - could get very bloated
 
 if a user's PDR goes away all cached documents are no longer linkable to their identity
