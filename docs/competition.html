@@ -671,6 +671,56 @@ farcaster - limits on the number of signer keys, also what is the revocation pro
 designing from first principles - what needs to be decentralized? what's the common use case for 99.9% of cases? what are the guarantees we should provide - and nothing less?
 headjack is an exercise in minimalism
 
+> "Computer scientists, faced with the challenge of scaling, tend to fall back on a hierarchical scheme." - [source](https://twitter.com/gordonbrander/status/1127699384102080514)
+
+
+timestamped events?
+    farcaster - no, user reported timestamp
+    "Delta timestamps can be used by applications when generating feeds of information for their users. Such timestamps are untrustworthy since they are user reported and the network cannot verify them. The timestamp trust model is like that of a blog where most users tend to be well behaved since a monitoring service at the application level can be used to detect timestamp abuse."
+
+App id/name in URIs for content generated through them
+
+proofs for the authorization or key ownership at the point of publication are not necessary! they can be reconstructed !!!
+
+infra need to store signatures & proofs?
+
+upper limit for total data on the network/protocol
+
+
+Farcaster focuses on eventual consistency with CRDTs & Delta Graphs but the elephant in the room is different counts based on different filters which cannot be done with CRDTs easily.
+ACTUALLY not sure if that's true :|
+but perhaps CRDTs are just not as performant for trillions of likes
+Our view is that using CRDTs is a constraint - like for example multi-dimensional follows with include/exclude filtering
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#3-delta-graph
+
+limits on data? size & retention?
+CRDTs are a limit for Farcaster.
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#33-bounding-graph-size
+https://hackmd.io/fCa8_RCEQ4qBYZjfnas9Zg
+
+
+
+partial view of the network allowed?
+    not for farcaster
+
+Why go theough the trouble of dealing with crdts and constrains if youll solve just one basic case and not everything thats possible?
+
+
+They aim for Hubs to have a complete view of the network and are aiming for everything to fit in 64TB o_O
+
+"we limit users to storing a finite number of deltas for each type and calculate the limits to keep the size of the graph under 64 TB."
+
+
+
+
+farcaster is too constraining because of the use of CRDTs
+The system cannot be extended by anyone because the Hubs need to agree to run the software that handles any new message type. The protocol is tied to the infra.
+
+
+Farcaster: a lot of complexity, a lot of limitations and no clear path to being general purpose & web-scale
+
+
+
 
 integer keys as opposed to hash-based keys - so that filtering is easy - by and/or-ing bitmaps
 this goes in competition table!

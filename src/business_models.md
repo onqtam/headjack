@@ -261,6 +261,10 @@ Business models - what can IDMs charge for - archive content more than 5gb
 
 business model: develop open source with a license for commercial use that requires payment - that's ok
 
+perhaps not possible:
+Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads
+https://twitter.com/elonmusk/status/1621544497388875777
+
 
 Twitters revenue does not go to its users - 0 attribution for them
 

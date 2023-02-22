@@ -74,15 +74,60 @@ sensemaking is when the pattern in the world matches the pattern in our head. Th
 
 > "Technology for coordinating and coming to large-scale agreements (eg. https://pol.is ) is one of the industries that needs to be accelerated." - [Vitalik Buterin](https://twitter.com/VitalikButerin/status/1599734481190998016)
 
+> "Central to wisdom are aspects of perspectival meta-cognition" - [The Science of Wisdom in a Polarized World: Knowns and Unknowns, 2020](https://www.researchgate.net/publication/341653068_The_Science_of_Wisdom_in_a_Polarized_World_Knowns_and_Unknowns)
+
+The ability to take multiple perspectives and shift between them
+
+View as - why it would be useful
+
+John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition
+https://www.youtube.com/watch?v=8U2caURO-d4&list=PLND1JCRq8Vuj9U2DCHRN0gBfOwGy-Vcnq&index=61
+
+The current web incentivizes differentiation and no integration - and thus we get group think and echo chambers & bubbles - we lack the complexification of multiple views of the real world - we need to make breaking our own frames & making new ones easier
+
+> "We mistake having likes and friends with actually having participatory social connectedness" - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022](https://youtu.be/8U2caURO-d4?t=3373)
+
+> "The internet doesn't have to go the way it is - there's a possibility of reorienting it that can undermine the bullshit and the fragmentation that makes us prey to the centralization forces" - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022](https://youtu.be/8U2caURO-d4?t=3420)
+
+> "Our ability to coordinate with each other is pretty fundamental to the selection of what we are as a species" - [Daniel Schmachtenberger](https://youtu.be/hGRNUw559SE?t=1658)
+
+
 ██████████████████████████████████████████████████████████████████████████████
 # voting & liquid democracy
 ██████████████████████████████████████████████████████████████████████████████
+
+ranked choice voting
+https://fairvote.org/our-reforms/ranked-choice-voting/
 
 ability to specify criteria for the delegation - no need to pick specific people.
 
 current twitter polls don't allow us to show our vote but we're free to express it in text publicly?
 
 Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll
+
+liquid democracy can be used to inform how recommender systems work for any field - not just for political questions. Even content moderation
+
+Liquid Democracy with Google Votes
+https://www.youtube.com/watch?v=F4lkCECSBFw
+
+Forby: Collaborative Intelligence and Sensemaking
+https://www.youtube.com/@ForbyCollaborative/videos
+
+https://forby.io/blog/voting-systems
+
+https://en.wikipedia.org/wiki/LiquidFeedback
+
+https://github.com/DemocracyEarth/paper
+
+https://www.tdcommons.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1092&context=dpubs_series
+
+https://vitalik.ca/general/2021/05/25/voting2.html
+
+https://followmyvote.com/liquid-democracy/
+
+Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System
+https://arxiv.org/pdf/1911.08774.pdf
+
 
 ██████████████████████████████████████████████████████████████████████████████
 # privacy
