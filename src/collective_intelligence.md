@@ -72,7 +72,7 @@ a dynamical system theory lays out the engine - the feedback loop between genera
 sensemaking is when the pattern in the world matches the pattern in our head. Through crowdsourcing we feed distributed data, and through the system and the ability to look at data & its analysis from different angles we allow for its integration. We look for intersubjective agreement AKA consensus
 ^^ this needs more work
 
-> "Technology for coordinating and coming to large-scale agreements (eg. https://pol.is ) is one of the industries that needs to be accelerated." - [Vitalik Buterin](https://twitter.com/VitalikButerin/status/1599734481190998016)
+> "Technology for coordinating and coming to large-scale agreements (eg. [pol.is](https://pol.is/ ) is one of the industries that needs to be accelerated." - [Vitalik Buterin](https://twitter.com/VitalikButerin/status/1599734481190998016)
 
 > "Central to wisdom are aspects of perspectival meta-cognition" - [The Science of Wisdom in a Polarized World: Knowns and Unknowns, 2020](https://www.researchgate.net/publication/341653068_The_Science_of_Wisdom_in_a_Polarized_World_Knowns_and_Unknowns)
 
