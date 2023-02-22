@@ -9,6 +9,10 @@
 # incentives & the status quo
 ██████████████████████████████████████████████████████████████████████████████
 
+> "Legacy structures of information control have dominated the first decades of the Internet. The evidence suggests that this situation must change." - [The End Of Propaganda - The Consilience Project](https://consilienceproject.org/the-end-of-propaganda/#:~:text=Legacy%20structures%20of%20information%20control%20have%20dominated%20the%20first%20decades%20of%20the%20Internet.%20The%20evidence%20suggests%20that%20this%20situation%20must%20change.)
+
+> "According to technical legal definitions provided by psychologists, so-called “persuasive technologies”—especially social media—have crossed the threshold from persuasion to coercion." - [Social Media Enables Undue Influence - The Consilience Project](https://consilienceproject.org/social-media-enables-undue-influence/#:~:text=according%20to%20technical%20legal%20definitions%20provided%20by%20psychologists%2C%20so%2Dcalled%20%E2%80%9Cpersuasive%20technologies%E2%80%9D%E2%80%94especially%20social%20media%E2%80%94have%20crossed%20the%20threshold%20from%20persuasion%20to%20coercion.)
+
 The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
 
 
