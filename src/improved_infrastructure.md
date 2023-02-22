@@ -16,6 +16,7 @@ EDIT: actually sitemaps are only partially outdated - what about pages that are 
 for search engines to rank modern dynamic & single page apps they need to render them server-side - this can be skipped if data is decoupled from presentation and if the ranking engine is simply listening for document updates. They also currently cache the entire pages - just like an archival service. Massive benefits in a push vs a pull system for crawlers & indexers
 
 
+focus more on the separation of actual data and the presentation layer for archiving?
 
 # Code as addressable data
 
