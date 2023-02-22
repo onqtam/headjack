@@ -58,20 +58,13 @@ https://gurwinder.substack.com/p/the-intellectual-obesity-crisis
 
 
 
-
-
-
-
-you should be allowed to pin a comment explaining your vote. And that comment should be able to evolve & change
-
-
 just like we have a mental model when doing searches that we can request results only from the last month, the same way we'll learn to think in terms of filters & slices
 
 
 
 
 
-current twitter polls don't allow us to show our vote but we're free to express it in text publicly?
+
 
 
 
@@ -86,64 +79,26 @@ Ancient technology in egypt? Give links as evodence
 
 Youtube is just video on the internet along with a recommender algo - completely unimaginative
 
-we should be able to come to consensus about questions such as "how much cobalt goes into EVs, how much EVs are not using cobalt at all anymore, and where is cobalt coming from (hint: not just the congo)"
-
-recommender algorithms incentivise clickbait. Explicit follow graphs incentivise quality & explicit recommendations by people you follow
 
 
 Concern: toggling privacy levels
 
-History should be immutable
-
-Kolegata ot nuodb ot shtatite? Isaac Hartford
-
-Skin in the game
-
-Cant be evil
-Ssi
-Heads of state
-compromising important accounts and posting on their behalf - if their opsec is good enough (with keypairs)
-
-highlighted parts of a page - with surrounding characters - for stable linking of documents even if there have been changes to them elsewhere in a new URI
-
-building participatory governance at scale
-
-Your digital footprint - chapter
-
-In int64 we trust - with an oreol
-Joinability
-
-You can stuff integers in bitmaps and check for intersections - hashes suck
-
-Anything not built around integers is disqualified due to joinability
 
 
-Farcaster - when there isnt a grand vision outsiders implement twitter interface clones with some differences in coloring and layout. And thats it.
 
 
-Simplifying joining is killer f
-Add joining in the pitch
 
 
-I love integers
 
 2 types of apps: sharing and closed
 
-Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll
+
 
 When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users ot not 
 
-Web3 is the end of the host-centric internet
-
-with farcaster all the activity of a user is chained linearly & merklized and that means there's a bottleneck
-https://www.youtube.com/watch?v=1TVI2uKgHtY
-although that does solve problems that are present in headjack...
-
-expressing nuanced views
 
 What is a broker? IDB and not IDM?
 
-This is the real DAO - the hivemind
 
 
 
@@ -155,92 +110,26 @@ Also as a chapter/page
 We need more than the current one size fits all model
 Importance threshold
 
-Offchain name registry
 
-Realizing humanity’s potential for expression at scale
 
 Aggregation - as a chapter
 
 Current social media is garbage- garbage in, garbage out
 
-Farcaster arent thinking bih enough - crdts are a crutch - an unnecessary constraint
-
-Anything without built-in incentives is not suitable as a foundation
-
 The killer feature of online media is programmability by anyone
-
-Trust is earned in public
-
-An instagram-like app could never offer the same level of breadth
 
 We as a society dont know ourselves en masse - only a few companies are in that position
 
-Ultimate expressivity
-
-Making the individual count
-
 Context switching is terrible for the brain - Twitter is an ADHD/ADD machine
 
-Public/private mode for the entire account
 
-Add noun icons in every section of every chapter?
 
-Types of actions
 
-Put the moxie quote in concerns
-
-Farcasyer blocktime - slow but very rarely needed
-
-Concern: might be prohibitively expensive to maintain different versions of feeds for the dame account based on different applications and what they “support”
-
-What if edits are disallowed from other apps? Then there will be only one entity to ask for updates. This can be a message attribute
-
-Todo: how to combat brigading? Concern: might not be able to do it because not a single system
-
-Each page should have a video about it
-Also write summaries at the top after toc
-
-Concern: it will never be possible to display an accurate view count like twitter can
-
-Zk affiliation/attestations/credentials
 
 unlocking the potential of the internet
 
-digital media is not supposed to be unstructured
-
-we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
-
-mistakes such as doing some action publicly when intended for a private action...
-
-not being able to hide the like counter - bad for mental health?
-
-the building blocks of digital media
-
-we don't need a prediction market with settlement - we can get by purely with reputation
-
-Indicate that it is a work in progress
-
-Crowdsourcing chapter
-
-Chapter about increasing the signal/noise ratio
-
-The highest standards of history are permanence and authenticity
-
-Infinite digital twins - show different cross sections of polls based on dofferent filtering and oracle input data
-
-Simulate reputation based on different sources of facts
-
-tipranks-ify finance and predictions
-
-we put way too much importance and give way too much attention to narrative builders and we underestimate the importance of transparency, track record & skin in the game
-
 uploading a clip that could have easily just referenced a part of the whole shouldn't be encouraged - perhaps you'd need to pay for uploading it?
 
-Twitter’s servers cost 1.5 billion per year - we need to engineer for web-scale
-https://twitter.com/ashleevance/status/1605448764851752961
-https://twitter.com/AutismCapital/status/1605448752881229824
-
-Account suspension is too much - perhaps it should be limitations - not removal and not even having access to your DMs
 
 
 
@@ -257,8 +146,6 @@ Account suspension is too much - perhaps it should be limitations - not removal 
 
 
 
-
-can't be evil - provenance, immutability
 
 
 data pipelines & lineage - anyone would be able to do such complex analysis on public data
@@ -281,8 +168,6 @@ we have a distorted view of reality because of the vocal and dominant minority -
 
 incentives & reputation
 > "While no one can achieve perfect objectivity and fair-mindedness, those who strive for it get far closer than those who do not. This is true at both the scale of an individual and the scale of a society." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=While%20no%20one%20can%20achieve%20perfect%20objectivity%20and%20fair%2Dmindedness%2C%20those%20who%20strive%20for%20it%20get%20far%20closer%20than%20those%20who%20do%20not.%20This%20is%20true%20at%20both%20the%20scale%20of%20an%20individual%20and%20the%20scale%20of%20a%20society.)
-
-we should be able to express "I care about deforestation and the Amazon rainforest" and set up filters for notifications for events regarding that
 
 What if the way an event or a piece of news to get to more eyes was not through recommendation algorithms but through explicit annotation of what's inside - such that people can have explicit interest in those?
 
@@ -1876,6 +1761,11 @@ elly iska6e da iztrie komentar na snimkata si - dori i da moje da bude komentira
 The two killer apps of crypto are finance and identity, with the latter one not done properly (yet)
 
 
+Web3 is the end of the host-centric internet
 
 
+Offchain name registry
+
+
+What if edits are disallowed from other apps? Then there will be only one entity to ask for updates. This can be a message attribute
 
