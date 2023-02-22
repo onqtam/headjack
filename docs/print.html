@@ -1658,6 +1658,14 @@ https://twitter.com/pippellia/status/1605970256807206912
 
 
 
+In case an IDM or application is compromised (but not their keys - only the servers to some extent) it could invalidate all access tokens with a single compact range message - not individually
+
+farcaster - limits on the number of signer keys, also what is the revocation process like?
+
+designing from first principles - what needs to be decentralized? what's the common use case for 99.9% of cases? what are the guarantees we should provide - and nothing less?
+headjack is an exercise in minimalism
+
+
 hash-based intra-PDR addressing - could get very bloated
 
 if a user's PDR goes away all cached documents are no longer linkable to their identity
@@ -1781,10 +1789,25 @@ normal people
 using keypairs & signing actions trustlessly
 https://imgflip.com/memegenerator/112528910/Guy-checks-out-red-dress-girl -->
 <div style="break-before: page; page-break-before: always;"></div><p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="incentives"><a class="header" href="#incentives">incentives</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>We're the cattle and the platforms are our ranchers
+The media incentive alignment problem: what we're allowed to do with public data with no programmatic access to it
+&quot;realigning incentives&quot;
+By severing the connection between identity management and media we can better align the incentives of these systems - our IDMs would not be harvesting our attention and we could tune the addictiveness &amp; notifications</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="problems"><a class="header" href="#problems">problems</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already</p>
 <p>fragmentation</p>
+<p>The great attention misallocation</p>
+<p>today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true</p>
+<blockquote>
+<p>&quot;The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses.&quot; - <a href="https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have">Malcolm X</a></p>
+</blockquote>
+<p>Current social media is garbage- garbage in, garbage out</p>
+<p>We as a society dont know ourselves en masse - only a few companies are in that position</p>
+<p>Context switching is terrible for the brain - Twitter is an ADHD/ADD machine</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="collective-intelligence--sensemaking"><a class="header" href="#collective-intelligence--sensemaking">collective intelligence &amp; sensemaking</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -1819,16 +1842,27 @@ the host-centric model hinders our ability to develop the tools for integration 
 <p>This is the real DAO - the hivemind</p>
 <p>distributed cognition or sensemaking?
 https://en.wikipedia.org/wiki/Cognition</p>
+<p>let's boot up the collective intelligence</p>
+<p>we need to build a strong central nervous system for this global organism</p>
+<p>current platforms constrain our global neural network from freely wiring - we're allowed a very limited set of wiring</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="section-230-and-empowering-the-user-to-choose"><a class="header" href="#section-230-and-empowering-the-user-to-choose">section 230 and empowering the user to choose</a></h1>
+<h1 id="recommender-algorithms-choice--section-230"><a class="header" href="#recommender-algorithms-choice--section-230">Recommender algorithms, choice &amp; section 230</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>we should shift curation from explicit moderation by people to tagging &amp; filtration preferences by the consumer</p>
 <p>choice vs algorithmic recommendation</p>
 <p>recommender algorithms incentivise clickbait. Explicit follow graphs incentivise quality &amp; explicit recommendations by people you follow</p>
+<p>recommender systems &amp; search engines should NOT give you &quot;other things you might be interested in&quot; interleaved with the results for a specific query just to get you more engaged - but that's something YouTube is doing. You didn't ask for that but you got it</p>
+<p>misaligned incentives</p>
+<p>on attention:
+https://gurwinder.substack.com/p/the-intellectual-obesity-crisis</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="stable-documents"><a class="header" href="#stable-documents">stable documents</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>IPFS CIDs also let you do Xanadu-style transclusion with standoff markup. Offsets don't break because the CIDs are immutable.
+https://twitter.com/gordonbrander/status/1619370073722089472</p>
 <p>highlighted parts of a page - with surrounding characters - for stable linking of documents even if there have been changes to them elsewhere in a new URI</p>
+<p>Suppose 2 public intellectuals start debating something - others should be able to annotate that conversation with the right tags and topics and add structure to it</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="voting--liquid-democracy"><a class="header" href="#voting--liquid-democracy">voting &amp; liquid democracy</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -1856,9 +1890,40 @@ We can all do what sociologists do</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much broader
 Google failed - they didnt organize the worlds information - they merely ranked it</p>
+<p>just like in open source problems need to be solved only once, the same way in a world of unified identity &amp; deduplicated concepts interwoven with social media debates need to be had only once</p>
+<p>stable identity keys allows for stable concept/collection/noun keys which allows for stable mapping and deduplication of concepts</p>
+<p>key stability ==&gt; information deduplication &amp; integration</p>
+<p>https://twitter.com/SocietyLibrary
+the internet is unstructured
+linked knowledge database
+libraries &amp; debate maps
+libraries - concepts can be linked to different multimedia expressions - resources that describe it
+debate maps are the onthological structure of the debate - aimed at deliberation</p>
+<p>what if wikipedia-like &quot;pages&quot; were sitting on top of debate maps, highlighting an editorialized take and perhaps generated/summarized by an LLM? And what if people could choose the editorialization?</p>
+<p>knowledge graph</p>
+<p>this needs to be intertwined with social media, identity &amp; follow graphs</p>
+<p>giant global graph
+https://en.wikipedia.org/wiki/Giant_Global_Graph
+a massively multiplayer interlinked knowledge database</p>
+<p>machine-understandable knowledge representations
+subject-predicate-object triplets in the semantic web
+these are just like subject-verb-object of the human natural language - there's an equivalence</p>
+<p>being able to vote/react multiple times on a URI - with different scopes. Suppose you want to upvote a resource in one context but downvote it in another context - contextual reactions - within a domain !!!
+context could be application/tag/campaign</p>
+<p>sensemaking is about creating maps</p>
+<p>redundant knowledge &amp; broken chains of provenance</p>
+<p>interlinking enables discoverability - you'd want to reference something specific because then you could be discovered from the referenced thing with a &quot;references&quot; view</p>
+<p>we should be able to annotate parts of movies that we are crituiquing and be able to see all public critiques when viewing the original media</p>
+<p>DIKW pyramid
+data, information, knowledge, and wisdom
+https://en.wikipedia.org/wiki/DIKW_pyramid</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="reputation-systems"><a class="header" href="#reputation-systems">reputation systems</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>incentives &amp; reputation</p>
+<blockquote>
+<p>&quot;While no one can achieve perfect objectivity and fair-mindedness, those who strive for it get far closer than those who do not. This is true at both the scale of an individual and the scale of a society.&quot; - <a href="https://consilienceproject.org/where-arguments-come-from/#:~:text=While%20no%20one%20can%20achieve%20perfect%20objectivity%20and%20fair%2Dmindedness%2C%20those%20who%20strive%20for%20it%20get%20far%20closer%20than%20those%20who%20do%20not.%20This%20is%20true%20at%20both%20the%20scale%20of%20an%20individual%20and%20the%20scale%20of%20a%20society.">Where Arguments Come From</a></p>
+</blockquote>
 <p>Trust is earned. In public.</p>
 <p>Infinite digital twins - show different cross sections of polls based on dofferent filtering and oracle input data</p>
 <p>Simulate reputation based on different sources of facts</p>
@@ -1885,6 +1950,9 @@ what can we build on top of this?</li>
 </ul>
 <p>add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone</p>
 <p>multidimensionality - think about what &quot;friendship&quot; is</p>
+<p>multi dimensionalism of accounts section
+What if we could signal our values and then be held accountable according to them? Like &quot;being considerate instead of tribal&quot; or &quot;considering both sides of an argument&quot;
+https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A</p>
 <p>list explicitly all the different aspects of an online presence - goodreads, medium, quora, stack exchange, reddit, twitter, etc.</p>
 <p>your profile page - a linktree-like thing
 every change, every edit, every commit - all could be linked to your identity if you wished it</p>
@@ -1907,6 +1975,7 @@ To be a good little neuron</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>UIs should be drag/drop composable &amp; layoutable - in the superapp</p>
 <p>think of the the superapp as a browser</p>
+<p>what if your home page was like a desktop?</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="second-brain"><a class="header" href="#second-brain">second brain</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -1922,6 +1991,7 @@ Slicing and dicing - chapter name</p>
 <h1 id="querying--palantir-foundry"><a class="header" href="#querying--palantir-foundry">querying &amp; palantir foundry</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>Graph tool for constructing queries - data processing pipelines like in Foundry</p>
+<p>everyone can have access to something like Palantir Foundry for the entirety of the open web</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="provenance--deduplication"><a class="header" href="#provenance--deduplication">provenance &amp; deduplication</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -1945,6 +2015,14 @@ Message types should be on-chain nouns</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="structured-data--improving-the-signalnoise-ratio"><a class="header" href="#structured-data--improving-the-signalnoise-ratio">Structured data &amp; improving the signal/noise ratio</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>nature has removed every unnecessary bit when it comes to exchange of information - and so should we.</p>
+<p>information theory very well could be as important as or even fundamental to matter &amp; the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it</p>
+<p>signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth</p>
+<p>the hammer is language and unfortunately every problem is a nail</p>
+<p>hashtags should be separated from the text</p>
+<p>Mission: raise the signal/noise ratio</p>
+<p>We need more than the current one size fits all model
+Importance/severity threshold/levels?</p>
 <p>we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise</p>
 <p>digital media is not supposed to be unstructured</p>
 <p>Structured data should be incentivized - we’re drowning in text audio and video</p>
@@ -1959,7 +2037,8 @@ https://twitter.com/gordonbrander/status/1622999277411741698</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="anatomy-of-your-digital-footprint"><a class="header" href="#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
-<p>the building blocks of digital media</p>
+<p>the building blocks of digital media
+&quot;deconstructing your digital footprint&quot;</p>
 <p>even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish</p>
 <p>Public/private mode for the entire account</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>

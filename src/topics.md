@@ -1,12 +1,35 @@
 
 
 ██████████████████████████████████████████████████████████████████████████████
+# incentives
+██████████████████████████████████████████████████████████████████████████████
+
+We're the cattle and the platforms are our ranchers
+The media incentive alignment problem: what we're allowed to do with public data with no programmatic access to it
+"realigning incentives"
+By severing the connection between identity management and media we can better align the incentives of these systems - our IDMs would not be harvesting our attention and we could tune the addictiveness & notifications
+
+██████████████████████████████████████████████████████████████████████████████
 # problems
 ██████████████████████████████████████████████████████████████████████████████
 
 The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
 
+
 fragmentation
+
+The great attention misallocation
+
+today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
+
+> "The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses." - [Malcolm X](https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have)
+
+Current social media is garbage- garbage in, garbage out
+
+We as a society dont know ourselves en masse - only a few companies are in that position
+
+Context switching is terrible for the brain - Twitter is an ADHD/ADD machine
+
 
 ██████████████████████████████████████████████████████████████████████████████
 # collective intelligence & sensemaking
@@ -55,8 +78,15 @@ This is the real DAO - the hivemind
 distributed cognition or sensemaking?
 https://en.wikipedia.org/wiki/Cognition
 
+let's boot up the collective intelligence
+
+we need to build a strong central nervous system for this global organism
+
+current platforms constrain our global neural network from freely wiring - we're allowed a very limited set of wiring
+
 ██████████████████████████████████████████████████████████████████████████████
 # section 230 and empowering the user to choose
+# Recommender algorithms, choice & section 230
 ██████████████████████████████████████████████████████████████████████████████
 
 
@@ -66,13 +96,24 @@ choice vs algorithmic recommendation
 
 recommender algorithms incentivise clickbait. Explicit follow graphs incentivise quality & explicit recommendations by people you follow
 
+recommender systems & search engines should NOT give you "other things you might be interested in" interleaved with the results for a specific query just to get you more engaged - but that's something YouTube is doing. You didn't ask for that but you got it
+
+misaligned incentives
+
+on attention:
+https://gurwinder.substack.com/p/the-intellectual-obesity-crisis
+
 
 ██████████████████████████████████████████████████████████████████████████████
 # stable documents
 ██████████████████████████████████████████████████████████████████████████████
 
+IPFS CIDs also let you do Xanadu-style transclusion with standoff markup. Offsets don't break because the CIDs are immutable.
+https://twitter.com/gordonbrander/status/1619370073722089472
+
 highlighted parts of a page - with surrounding characters - for stable linking of documents even if there have been changes to them elsewhere in a new URI
 
+Suppose 2 public intellectuals start debating something - others should be able to annotate that conversation with the right tags and topics and add structure to it
 
 ██████████████████████████████████████████████████████████████████████████████
 # voting & liquid democracy
@@ -117,10 +158,57 @@ we should be able to express "I care about deforestation and the Amazon rainfore
 google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much broader
 Google failed - they didnt organize the worlds information - they merely ranked it
 
+just like in open source problems need to be solved only once, the same way in a world of unified identity & deduplicated concepts interwoven with social media debates need to be had only once
+
+stable identity keys allows for stable concept/collection/noun keys which allows for stable mapping and deduplication of concepts
+
+key stability ==> information deduplication & integration
+
+https://twitter.com/SocietyLibrary
+the internet is unstructured
+linked knowledge database
+libraries & debate maps
+libraries - concepts can be linked to different multimedia expressions - resources that describe it
+debate maps are the onthological structure of the debate - aimed at deliberation
+
+what if wikipedia-like "pages" were sitting on top of debate maps, highlighting an editorialized take and perhaps generated/summarized by an LLM? And what if people could choose the editorialization?
+
+knowledge graph
+
+this needs to be intertwined with social media, identity & follow graphs
+
+giant global graph
+https://en.wikipedia.org/wiki/Giant_Global_Graph
+a massively multiplayer interlinked knowledge database
+
+machine-understandable knowledge representations
+subject-predicate-object triplets in the semantic web
+these are just like subject-verb-object of the human natural language - there's an equivalence
+
+being able to vote/react multiple times on a URI - with different scopes. Suppose you want to upvote a resource in one context but downvote it in another context - contextual reactions - within a domain !!!
+context could be application/tag/campaign
+
+sensemaking is about creating maps
+
+redundant knowledge & broken chains of provenance
+
+interlinking enables discoverability - you'd want to reference something specific because then you could be discovered from the referenced thing with a "references" view
+
+we should be able to annotate parts of movies that we are crituiquing and be able to see all public critiques when viewing the original media
+
+
+DIKW pyramid
+data, information, knowledge, and wisdom
+https://en.wikipedia.org/wiki/DIKW_pyramid
+
 
 ██████████████████████████████████████████████████████████████████████████████
 # reputation systems
 ██████████████████████████████████████████████████████████████████████████████
+
+incentives & reputation
+> "While no one can achieve perfect objectivity and fair-mindedness, those who strive for it get far closer than those who do not. This is true at both the scale of an individual and the scale of a society." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=While%20no%20one%20can%20achieve%20perfect%20objectivity%20and%20fair%2Dmindedness%2C%20those%20who%20strive%20for%20it%20get%20far%20closer%20than%20those%20who%20do%20not.%20This%20is%20true%20at%20both%20the%20scale%20of%20an%20individual%20and%20the%20scale%20of%20a%20society.)
+
 
 Trust is earned. In public.
 
@@ -163,6 +251,10 @@ add tiny designs/screenshots for the different ideas - like a multi-level tree f
 
 multidimensionality - think about what "friendship" is
 
+multi dimensionalism of accounts section
+What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
+https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
+
 
 list explicitly all the different aspects of an online presence - goodreads, medium, quora, stack exchange, reddit, twitter, etc.
 
@@ -196,6 +288,8 @@ UIs should be drag/drop composable & layoutable - in the superapp
 
 think of the the superapp as a browser
 
+what if your home page was like a desktop?
+
 ██████████████████████████████████████████████████████████████████████████████
 # second brain
 ██████████████████████████████████████████████████████████████████████████████
@@ -219,6 +313,8 @@ we can use something like ChatGTP to summarize the results of polls from differe
 ██████████████████████████████████████████████████████████████████████████████
 
 Graph tool for constructing queries - data processing pipelines like in Foundry
+
+everyone can have access to something like Palantir Foundry for the entirety of the open web
 
 
 ██████████████████████████████████████████████████████████████████████████████
@@ -255,6 +351,22 @@ there should be something like twitter's community notes for any kind of media -
 # Structured data & improving the signal/noise ratio
 ██████████████████████████████████████████████████████████████████████████████
 
+nature has removed every unnecessary bit when it comes to exchange of information - and so should we.
+
+information theory very well could be as important as or even fundamental to matter & the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it
+
+signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
+
+
+the hammer is language and unfortunately every problem is a nail
+
+hashtags should be separated from the text
+
+Mission: raise the signal/noise ratio
+
+We need more than the current one size fits all model
+Importance/severity threshold/levels?
+
 we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
 
 digital media is not supposed to be unstructured
@@ -281,6 +393,7 @@ so much expressed opinions & views are left unanalyzed & unaggregated because th
 ██████████████████████████████████████████████████████████████████████████████
 
 the building blocks of digital media
+"deconstructing your digital footprint"
 
 even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
 

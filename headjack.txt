@@ -1,31 +1,6 @@
 
 
 
-
-
-
-
-
-> "The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses." - [Malcolm X](https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have)
-
-
-
-
-
-there should be something like twitter's community notes for any kind of media - not just tweets
-
-
-
-
-
-
-
-
-today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
-
-
-
-
 anyone should be able to construct graph narratives by selecting "facts" which can be observed & pointed at
 
 
@@ -46,9 +21,6 @@ This is what connecting people looks like - facebook isnt even scratching t he s
 
 
 
-
-on attention:
-https://gurwinder.substack.com/p/the-intellectual-obesity-crisis
 
 
 
@@ -97,36 +69,20 @@ Concern: toggling privacy levels
 When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users ot not 
 
 
-What is a broker? IDB and not IDM?
 
 
 
-
-
-
-
-Mission: raise the signal/noise ratio
-Also as a chapter/page
-We need more than the current one size fits all model
-Importance threshold
 
 
 
 Aggregation - as a chapter
 
-Current social media is garbage- garbage in, garbage out
-
-The killer feature of online media is programmability by anyone
-
-We as a society dont know ourselves en masse - only a few companies are in that position
-
-Context switching is terrible for the brain - Twitter is an ADHD/ADD machine
+The killer feature of online media & digital identity is programmability by anyone
 
 
 
 
 
-unlocking the potential of the internet
 
 uploading a clip that could have easily just referenced a part of the whole shouldn't be encouraged - perhaps you'd need to pay for uploading it?
 
@@ -166,8 +122,6 @@ we have a distorted view of reality because of the vocal and dominant minority -
 
 
 
-incentives & reputation
-> "While no one can achieve perfect objectivity and fair-mindedness, those who strive for it get far closer than those who do not. This is true at both the scale of an individual and the scale of a society." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=While%20no%20one%20can%20achieve%20perfect%20objectivity%20and%20fair%2Dmindedness%2C%20those%20who%20strive%20for%20it%20get%20far%20closer%20than%20those%20who%20do%20not.%20This%20is%20true%20at%20both%20the%20scale%20of%20an%20individual%20and%20the%20scale%20of%20a%20society.)
 
 What if the way an event or a piece of news to get to more eyes was not through recommendation algorithms but through explicit annotation of what's inside - such that people can have explicit interest in those?
 
@@ -270,9 +224,6 @@ in order to deconstruct we must first deconstruct - the foundations of you digit
 
 What if people subscribed to specific types of events by others, in effect guiding them what to produce - even if they aren't already? If you saw that 90% of the interest in you is in financial opinions and not just shitposting - wouldn't you opine?
 
-the hammer is language and unfortunately every problem is a nail
-
-hashtags should be separated from the text
 
 
 regarding the blockchain state - Jellyfish Merkle Tree
@@ -280,19 +231,10 @@ https://developers.diem.com/papers/jellyfish-merkle-tree/2021-01-14.pdf
 https://mirror.xyz/sovlabs.eth/pZl5kAtNIRQiKAjuFvDOQCmFIamGnf0oul3as_DhqGA#:~:text=For%20efficiency%20outside%20of%20the%20zkVM%2C%20we%E2%80%99ll%20use%20the%20Jellyfish%20Merkle%20Tree%20(JMT)%20originally%20developed%20by%20Diem
 
 
-Merging email, instant messaging & publishing - Email 2.0
 
 
-In case an IDM or application is compromised (but not their keys - only the servers to some extent) it could invalidate all access tokens with a single compact range message - not individually
 
-farcaster - limits on the number of signer keys, also what is the revocation process like?
-
-multi dimensionalism of accounts section
-What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
-https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
-
-What if we could flag Bad Faith Communication?
-https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=and%20education%20crises.-,Common%20Strategies%20of%20Bad%20Faith%20Communication,-Misleading%20with%20facts
+What if we could flag [Bad Faith Communication](https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=and%20education%20crises.-,Common%20Strategies%20of%20Bad%20Faith%20Communication,-Misleading%20with%20facts)?
 
 Four Ways of Understanding Facts
 https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=Four%20Ways%20of%20Understanding%20Facts
@@ -305,8 +247,6 @@ the ability to toggle the display of highlights & interlinked objects - turning 
 
 Moving the vast majority of online activity to structured data and reducing the text reduces the load for content moderation
 Also there's less room for emotive/russel conjugation & other such emotionally manipulative language & pre/re-framing https://en.wikipedia.org/wiki/Emotive_conjugation
-
-Suppose 2 public intellectuals start debating something - others should be able to annotate that conversation with the right tags and topics and add structure to it
 
 what if your IDM kept a list of everything you've seen so it can be displayed in the UI?
 
@@ -336,70 +276,9 @@ the level of sophistication in email filtering (in gmail for example) should be 
 
 
 
-ending the host-centric model and linking data to identity enables flexibility to rewire our interaction circuits in any way imaginable
-
-the host-centric model is a hindrance to the evolution & composability of the digital world
-
-what if your home page was like a desktop?
-
-information theory very well could be as important as or even fundamental to matter & the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it
 
 we can crowdsource X and gamify it into success - it's been done before with initiatives like foldit @home
 
-nature has removed every unnecessary bit when it comes to exchange of information - and so should we.
-
-designing from first principles - what needs to be decentralized? what's the common use case for 99.9% of cases? what are the guarantees we should provide - and nothing less?
-headjack is an exercise in minimalism
-
-let's boot up the collective intelligence
-
-we need to build a strong central nervous system for this global organism
-
-IPFS CIDs also let you do Xanadu-style transclusion with standoff markup. Offsets don't break because the CIDs are immutable.
-https://twitter.com/gordonbrander/status/1619370073722089472
-
-
-current platforms constrain our global neural network from freely wiring - we're allowed a very limited set of wiring
-
-
-stable identity keys allows for stable concept/collection/noun keys which allows for stable mapping and deduplication of concepts
-
-key stability ==> information deduplication & integration
-
-chapter: information organization
-
-recommender systems & search engines should NOT give you "other things you might be interested in" interleaved with the results for a specific query just to get you more engaged - but that's something YouTube is doing. You didn't ask for that but you got it
-
-
-
-
-https://twitter.com/SocietyLibrary
-the internet is unstructured
-linked knowledge database
-libraries & debate maps
-libraries - concepts can be linked to different multimedia expressions - resources that describe it
-debate maps are the onthological structure of the debate - aimed at deliberation
-
-what if wikipedia-like "pages" were sitting on top of debate maps, highlighting an editorialized take and perhaps generated/summarized by an LLM? And what if people could choose the editorialization?
-
-knowledge graph
-
-this needs to be intertwined with social media, identity & follow graphs
-
-giant global graph
-https://en.wikipedia.org/wiki/Giant_Global_Graph
-a massively multiplayer interlinked knowledge database
-
-machine-understandable knowledge representations
-subject-predicate-object triplets in the semantic web
-these are just like subject-verb-object of the human natural language - there's an equivalence
-
-being able to vote/react multiple times on a URI - with different scopes. Suppose you want to upvote a resource in one context but downvote it in another context - contextual reactions - within a domain !!!
-context could be application/tag/campaign
-
-sensemaking is about creating maps
-
-redundant knowledge & broken chains of provenance
 
 
 
@@ -408,7 +287,6 @@ redundant knowledge & broken chains of provenance
 
 
 
-Composition in DeFi pales in comparison to the opportunities around data & identity.
 
 
 
@@ -417,22 +295,24 @@ Composition in DeFi pales in comparison to the opportunities around data & ident
 
 
 
-DIKW pyramid
-data, information, knowledge, and wisdom
-https://en.wikipedia.org/wiki/DIKW_pyramid
 
 
 
 
 
-signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
 
 
-claim: this is the boldest attempt at reenvisioning the web
-The great attention misallocation
 
 
-just like in open source problems need to be solved only once, the same way in a world of unified identity & deduplicated concepts interwoven with social media debates need to be had only once
+
+
+
+
+
+
+
+
+
 
 
 the host-centric model allows for platforms to own our content, which leads to misaligned incentives:
@@ -447,37 +327,21 @@ the 2 sides of "the consumer is always right":
 
 
 
-can't be evil - reddit's hot/new/top algorithms are no longer public & open source - why not? This makes Reddit as a voting system less democratic and more opaque
-recommender systems are voting systems - user choice is effectively a vote that's fed through a feedback loop which affects what gets recommended to others as well. every user choice affects the available choices for others and the algorithms that do that are opaque - this is the opposite of democratic
-
-
-"deconstructing your digital footprint"
-
-"realigning incentives"
-
-"the promise of decentralized identity & media"
 
 
 
 
 
-By severing the connection between identity management and media we can better align the incentives of these systems - our IDMs would not be harvesting our attention and we could tune the addictiveness & notifications
 
-is about expression with 0 integration - either personally or collectively for that expression - its an append-only brain dump. We need open structured data
 
-interlinking enables discoverability - you'd want to reference something specific because then you could be discovered from the referenced thing with a "references" view
 
-everyone can have access to something like Palantir Foundry for the entirety of the open web
 
-we should be able to annotate parts of movies that we are crituiquing and be able to see all public critiques when viewing the original media
 
 @mentions can also be stable! even if handle ownership changes
 
 Headjack fixes this.
 
 > "So when we tell people that “if they want privacy” for their data they should just upload it to their local computer: tell them your local Computer Science professor did that, and the result is that he lost half the photos of his son’s birth." - [Matthew Green](https://twitter.com/matthew_d_green/status/1624462558118789123)
-
-"collective intelligence" as a chapter - not sensemaking
 
 
 write about a spreadsheet-like view over graph data - what if you could define owners of each cell so that they can update their elements and have that in a shared spreadsheet? And why not fork the sheet?
@@ -1768,4 +1632,40 @@ Offchain name registry
 
 
 What if edits are disallowed from other apps? Then there will be only one entity to ask for updates. This can be a message attribute
+
+
+
+What is a broker? IDB and not IDM?
+
+
+
+unlocking the potential of the internet
+
+
+
+Merging email, instant messaging & publishing - Email 2.0
+
+
+claim: this is the boldest attempt at reenvisioning the web
+
+
+
+ending the host-centric model and linking data to identity enables flexibility to rewire our interaction circuits in any way imaginable
+
+the host-centric model is a hindrance to the evolution & composability of the digital world
+
+
+"the promise of decentralized identity & media"
+
+
+
+Composition in DeFi pales in comparison to the opportunities around data & identity.
+
+
+
+can't be evil - reddit's hot/new/top algorithms are no longer public & open source - why not? This makes Reddit as a voting system less democratic and more opaque
+recommender systems are voting systems - user choice is effectively a vote that's fed through a feedback loop which affects what gets recommended to others as well. every user choice affects the available choices for others and the algorithms that do that are opaque - this is the opposite of democratic
+
+
+
 
