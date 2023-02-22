@@ -145,6 +145,9 @@ a tiny core on which we have consensus can be used to cryptographically anchor &
 
 TODO: light clients? in addition to merkle proofs for inclusion of content they would need merkle proofs for the state of which applications a user has authorized to post on their behalf in a given block
 
+state growth:
+https://twitter.com/keoneHD/status/1574451986501623808
+
 # Off-chain content
 
 There are no limits for off-chain content as it is all just anchored with merkle roots - it could be as high as hundreds of terabytes per second. There isn't a more minimal design that can link unbounded amounts of off-chain data to billions of identities that can change keys & names and yet still provide the guarantees & mental model simplicity of Headjack - it achieves consensus on the absolute bare minimum.

@@ -6,6 +6,7 @@
 
 ██████████████████████████████████████████████████████████████████████████████
 # problems
+# incentives & the status quo
 ██████████████████████████████████████████████████████████████████████████████
 
 The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
@@ -25,10 +26,6 @@ We as a society dont know ourselves en masse - only a few companies are in that 
 
 Context switching is terrible for the brain - Twitter is an ADHD/ADD machine
 
-██████████████████████████████████████████████████████████████████████████████
-# incentives & the status quo
-██████████████████████████████████████████████████████████████████████████████
-
 We're the cattle and the platforms are our ranchers
 The media incentive alignment problem: what we're allowed to do with public data with no programmatic access to it
 "realigning incentives"
@@ -43,6 +40,11 @@ time well spent: user empowerment in being able to control what they want to see
 YouTube recently removed the option to sort the videos of a channel by oldest first - because why not - because they can.
 
 the great attention misallocation - we all think certain issues don't get enough coverage or that other types of content get oversized & undeserved attention - we need to take control of the architecture of virality and the first step is actually having a choice.
+
+VERTICAL INTEGRATION:
+    Youtube now has posts like twitter where you talk to your subscribers - why a separate network ?! why are all these platforms reinventing the same features ?!
+
+    Why does spotify need to build video streaming to compete with youtube?
 
 ██████████████████████████████████████████████████████████████████████████████
 # section 230 and empowering the user to choose

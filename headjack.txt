@@ -306,43 +306,11 @@ https://twitter.com/sreeramkannan/status/1573832256577224705
 
 
 
-
-- identity page:
-    Hierarchical keys managed by an account - for different devices - in identity page
+███ page about VCs
 
 - add "(fractal)" to
     possibilities.html#intra-document-addressing
     names_and_paths.html#addressing-within-content
-
-███ reorgs:
-
-- rework identity & add TOC! Maybe also talk about public vs private & revokable authorizations? 
-
-- move the part about reputation and messages for predictions with a fallback rendering to the messages page?
-
-███ pages:
-
-- new pages: applications & IDM in "what"?
-
-- IDMs & account preferences page
-- messages page
-
-- page about applications? IDMs?
-
-- numbers page - state growth
-    https://twitter.com/keoneHD/status/1574451986501623808
-
-
-
-
-
-- Problems & open questions
-- roadmap page
-    https://spec.dsnp.org/Roadmap.html
-- Postpone topics - prepare notes but set aside
-    - moderation
-    - Postpone stuff about the culture war
-    - new page: cultural implications of the current the information health? - POSTPONE problems with media and misinformation?
 
 
 ███ points & phrasing:
@@ -351,9 +319,6 @@ https://twitter.com/sreeramkannan/status/1573832256577224705
     https://cdixon.mirror.xyz/Ie8BQeiM1JTJkKISPVaAao88-XVMoHsdUAtcnS9_Jbs
     https://twitter.com/naval/status/1444366754650656770
 
-
-
-- focus more on "the whole is more than the sum of its parts"
 
 ███ diagrams:
 
@@ -388,22 +353,18 @@ https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Ex
 
 
 
+We can rearchitect/rewire the entire web!
+https://i.kym-cdn.com/entries/icons/facebook/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg
 
-https://paragraph.xyz/@blog/farcaster-comments
-
-
-
-
-VERTICAL INTEGRATION:
-    Youtube now has posts like twitter where you talk to your subscribers - why a separate network ?! why are all these platforms reinventing the same features ?!
-
-    Why does spotify need to build video streaming to compete with youtube?
+announcement: this is what I've been working on for the past 1 year
+https://twitter.com/gainzy222/status/1474761079179907079
 
 
-
-
-
-
+- make a glossary page
+    https://spec.dsnp.org/Reference/Glossary.html
+    what is an anchor:
+        https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/#key-revocation-in-ceramic
+        https://research.csiro.au/blockchainpatterns/general-patterns/self-sovereign-identity-patterns/anchoring-to-blockchain/
 
 
 
@@ -412,18 +373,10 @@ VERTICAL INTEGRATION:
 - TODO: do a graphic for the 4 types of headjack use cases:
     https://twitter.com/TrungTPhan/status/1545413848886169602
 
-    The authorization privilage spectrum - keypair / IDM / application
-    https://en.wikipedia.org/wiki/Principle_of_least_privilege
 
 
 - data centric page -  mention interoperability & composability
 TODO: Ambition => composability => link to possibilities
-
-
-
-
-
-
 
 
 
@@ -603,28 +556,7 @@ concern for using ETH instead of native token for staking
 https://twitter.com/sreeramkannan/status/1555425874828095488
 
 
-
-Polkadot analogy for Eigen layr - in fact it is way more efficient because the same capital can be restaked multiple times
-However, if the same collateral is used to secure multiple rollups and something goes wrong with one of them and the collateral is slashed - that reduces the collateral for the other rollups too (if slashed by a lot). Polkadot could have implemented this but haven't - it makes the risks much harder to evaluate. Also when a layr gets restaked eth from different other layrs the risk is very unspecified.
-
-Ask a bit more about celestia and their scale
-
 1.3mb/s data availability for celestia requires 1gb/s speed
-
-
-
-
-a few more points about Headjack:
-- accounts are just integers and are not required to have keypairs by default
-- most actions are done through authorized accounts and very few signatures are required
-    - authorizations for X to post on behalf of Y is just a pair of 2 integers on-chain
-- want this to be a cockroach with good liveness & to be as economically sound & capital efficient as possible
-- should have sovereignity - not enshrined to a settlement layer
-- bridging not necessary - only names will be sold on the chain
-    - a marketplace can natively be built in the chain
-- publication & creation network - not a transactional network
-    - accounts can still handle tokens but very few will want/need to
-- trivially shardable problem - X following Y only affects X
 
 - unsure:
     - not sure if the historic record of blocks should be:
@@ -640,39 +572,7 @@ a few more points about Headjack:
             https://polynya.medium.com/the-endgame-bottleneck-historical-storage-e83c101d2a7c
 
 
-
-
-
-- is having a single leader (sequencer) a problem for something being a cockroach?
-    - can the sequencer be unidentifiable - just one of the p2p nodes without being known by IP?
-
-
-
-
-
-- reading about clusters in the celestia blog - will it be necessary to use something like a zkEVM and have the entire logic of my chain be coded in that so that it can produce ZK proofs that the EVM understands?
-    https://blog.celestia.org/clusters/
-    "Likewise with ZK rollups, they need to understand the ZK proving systems of each other. If you wanted to create a rollup using a new execution environment, you have to create your own cluster or hard fork an existing cluster."
-
-
-- zk
-    - do validity proofs imply ZK tech?
-    - would the state transition & logic need to be coded in something like Cairo?
-        zksync - a zkEVM?
-
-
-- EigenLayr
-    - can EigenLayr be used for a PoS system?
-        - liveness ==> needs PoS & a sequencer set?
-    - can an EigenLayr service determine on its own how much should be restaked for it?
-    - restaked eth - does that mean that the rollup might not need a native token?
-        - what if the lack of a token impairs project growth & community building?
-    - if there's a native token with 100M$ MC and there are just 10M$ of restaked eth - bad?
-    - risk of failing
-        - what if cannot attract restakers?
-        - transition path for my project? different DA layer and moving away from the EigenLayr smart contracts?
-    - restaking seems very similar as the crowdfunded polkadot parachain leases but there's no lower bound to how much security is needed to launch
-
+- transition path for my project? different DA layer and moving away from the EigenLayr smart contracts?
 
 - DataLayr
     - is the DA layer shared by all rollups using DataLayr and will they fight for resources?
@@ -681,54 +581,8 @@ a few more points about Headjack:
         - could DataLayr have been p2p and without public IPs?
         - how come DoS attacks are avoided too? mentioned here: https://youtu.be/OtUOXTqrSyg?t=1542
 
-
 - Q: why is it hard to hard-fork a standalone chain but easier if consensus & DA are coming from Celestia?
 https://twitter.com/jon_charb/status/1546501640827568128
-
-
-
-
-
-████████████████████████████████████████████████ other
-
-
-
-We can rearchitect/rewire the entire web!
-https://i.kym-cdn.com/entries/icons/facebook/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg
-
-announcement: this is what I've been working on for the past 1 year
-https://twitter.com/gainzy222/status/1474761079179907079
-
-
-
-
-
-== greatest challenges & open questions:
-- rollup? sovereign chain? sharding? Near? Cosmos? Polkadot?
-- tokenomics - value accrual not just through block space?
-    - token model that is beyond "paying for blockspace" - smoothening out demand spikes & making it more predictable for services & companies
-- process for name auctioning - preventing squatting & hoarding
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- make a glossary page
-    https://spec.dsnp.org/Reference/Glossary.html
-    what is an anchor:
-        https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/#key-revocation-in-ceramic
-        https://research.csiro.au/blockchainpatterns/general-patterns/self-sovereign-identity-patterns/anchoring-to-blockchain/
-
 
 
 ██████ unsorted

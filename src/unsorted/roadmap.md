@@ -17,6 +17,8 @@ Adapters for current web2 platforma - wrap actions in messages that point to the
 
 - the OAuth-like experience - a major selling point, web2 feel
 
+https://spec.dsnp.org/Roadmap.html
+
 - an open source "twitter core" so that others can spin up competing applications easily
 
 - incentive to be earlier in the system - lower index proves that
