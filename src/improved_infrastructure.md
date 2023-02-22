@@ -24,6 +24,10 @@ we should do better than having the spouses of people who have passed away havin
 https://twitter.com/halfin/status/1603847718039744512
 
 
+archivability section - the tweets no longer saved stuff
+https://www.npr.org/sections/thetwo-way/2017/12/26/573609499/library-of-congress-will-no-longer-archive-every-tweet
+
+TODO: move this to cryptohistory?
 
 # Code as addressable data
 

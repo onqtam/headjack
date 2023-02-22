@@ -42,4 +42,18 @@ Concepts around identity
 - Attestations by countries
 - Names
 
+HEADJACK:
+- identity
+- linking it to data & events - addressing
+- solving authorizaion & authentication
 
+> "In a simplistic abstract sense, identity is the capability to distinguish one object from another." - [source](https://hal.inria.fr/hal-01966561/document)
+
+> "There are today perhaps more OAuth transactions than Visa transactions." - [source](https://hal.inria.fr/hal-01966561/document)
+
+Access Controls - as a point for Headjack
+https://zeeprime.capital/web-3-middleware#access-controls
+
+handle key rotations for private application logins on-chain but only with a number that signifies the version of a session token and track block ranges... like credentials that can be checked on-chain if a previous version is the latest or not
+
+Hierarchical keys managed by an account - for different devices - in identity page

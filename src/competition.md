@@ -568,6 +568,7 @@ just like we need IP over MAC addresses in order to have a hierarchy, for the sa
 
 benefit: no need to store proofs for every single event as they can be derived
 
+flexibility - addressing is forever - but the storage & architecture of any application can be changed - without breaking the addressing.
 
 
 
