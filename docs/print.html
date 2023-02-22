@@ -265,6 +265,9 @@ FIX will/can/should and present tense discrepancies
 <blockquote>
 <p>&quot;The future of mass-market crypto experiences lies within apps that provide familiar, custodial experiences with the ability to graduate into non-custodial experiences.&quot; - <a href="https://future.a16z.com/missing-link-web2-web3-custody-wallets/">a16z</a></p>
 </blockquote>
+<blockquote>
+<p>&quot;If your social media app requires people to use public keys, then you probably don’t understand what “social” means.&quot; - <a href="https://twitter.com/matthew_d_green/status/1620832280955719681">Matthew Green</a></p>
+</blockquote>
 <!-- > "If the goal is to onboard first-time crypto users, the experience must be custodial — at least to start." - [a16z](https://future.a16z.com/missing-link-web2-web3-custody-wallets/) -->
 <!-- > "Wallets, seed phrases, and gas for transactions are all inherently very unfriendly to the user, and until greater levels of abstraction exist, adoption will face headwinds. We must assume that the average user will not deal with the complexity we see today." - [Zee Prime capital](https://zeeprime.capital/web-3-middleware) -->
 <!-- > "If Web3 social is for the crypto community only - it will likely fail. It’s not enough to provide ideological motives. The key here is to introduce new forms of monetization which overlaps with the aforementioned “Web3 commerce” narrative. These new tools must be intuitive and easy to use." - [@mattigags](https://wrongalot.substack.com/p/the-next-big-crypto-narrative) -->
@@ -273,6 +276,9 @@ FIX will/can/should and present tense discrepancies
 <p>Users shouldn't have to think about and pay for the storage of their data &amp; blockchain interactions by default - costs &amp; complexity should be abstracted away &amp; shifted to services in the background. Self-hosting is the opposite of <a href="https://twitter.com/arvanaghi/status/1537519858233008128">customer obsession</a> - let's aim for simplicity.</p>
 <blockquote>
 <p>&quot;People don’t want to run their own servers, and never will.&quot; - <a href="https://moxie.org/2022/01/07/web3-first-impressions.html">Moxie</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;So when we tell people that “if they want privacy” for their data they should just upload it to their local computer: tell them your local Computer Science professor did that, and the result is that he lost half the photos of his son’s birth.&quot; - <a href="https://twitter.com/matthew_d_green/status/1624462558118789123">Matthew Green</a></p>
 </blockquote>
 </li>
 <li>
@@ -423,7 +429,11 @@ Chainlink authenticated data origination
 <li><a href="host_vs_data_centric.html#enter-headjack---the-final-iteration">Enter Headjack - the final iteration</a></li>
 </ul>
 <h1 id="todays-web-host-centric"><a class="header" href="#todays-web-host-centric">Today's web: host-centric</a></h1>
-<p>Today's web revolves around hosts &amp; <a href="https://en.wikipedia.org/wiki/Unicast">unicast</a> communication - we query <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> to get the IP of servers and open direct connections with them to retrieve the data that they host. But domains, URI paths on servers &amp; the actual files all change &amp; go away which leads to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> &amp; content drift. Guidance such as <a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a> is just that - guidance - and the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid that can hardly keep up with the digital <a href="https://en.wikipedia.org/wiki/Memory_hole">memory hole</a>. In the host-certified paradigm URLs at best point to a location at which a document may have been available at some point in time - devoid of any cryptographic proofs regarding the contents, the creator, an alternative way to retrieve it or the time of publication. The implications are explored in the <a href="host_centric.html#the-host-centric-web--its-decay">host-centric section in the motivation</a>.</p>
+<p>Today's web revolves around hosts &amp; <a href="https://en.wikipedia.org/wiki/Unicast">unicast</a> communication - we query <a href="https://en.wikipedia.org/wiki/Domain_Name_System">DNS</a> to get the IP of servers and open direct connections with them to retrieve the data that they host.</p>
+<blockquote>
+<p>&quot;DNS was invented at nearly the beginning of the Internet itself and pre-dated the Web, and has long been a centralized registry for the identity that mapped human-readable domain names for web-sites to IP addresses.&quot; - <a href="https://hal.inria.fr/hal-01966561/document">source</a></p>
+</blockquote>
+<p>But domains, URI paths on servers &amp; the actual files all change &amp; go away which leads to <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a> &amp; content drift. Guidance such as <a href="https://www.w3.org/Provider/Style/URI">&quot;Cool URIs don't change&quot;</a> is just that - guidance - and the <a href="https://en.wikipedia.org/wiki/Internet_Archive">Internet Archive</a> is just a bandaid that can hardly keep up with the digital <a href="https://en.wikipedia.org/wiki/Memory_hole">memory hole</a>. In the host-certified paradigm URLs at best point to a location at which a document may have been available at some point in time - devoid of any cryptographic proofs regarding the contents, the creator, an alternative way to retrieve it or the time of publication. The implications are explored in the <a href="host_centric.html#the-host-centric-web--its-decay">host-centric section in the motivation</a>.</p>
 <blockquote>
 <p>&quot;It is generally recognized that the current approach of using IP address both as a locator and as an identifier was a poor design choice.&quot; - <a href="https://en.wikipedia.org/wiki/David_D._Clark">David D. Clark</a>, <a href="https://www.goodreads.com/book/show/39644174-designing-an-internet">Designing an Internet</a></p>
 </blockquote>
@@ -1480,6 +1490,8 @@ https://atproto.com/guides/data-repos
 </div>
 <!-- Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity. -->
 <h1 id="what-other-projects-get-wrong"><a class="header" href="#what-other-projects-get-wrong">What other projects get wrong</a></h1>
+<img src="images/meme_they_dont_know_pubkeys.jpeg" align="right" style="margin-left: 8px; width: 50%">
+<!-- https://twitter.com/ArvinK/status/1620833678816575488 -->
 <p>A list of problems with the contenders in the decentralized identity/media space:</p>
 <ul>
 <li>No credible path to <a href="principles.html#web-scale-blockspace--the-unix-philosophy">web-scale</a> - some will hit a wall even at 1 million users. Most are vague around their scalability &amp; data structures and don't put it <a href="numbers.html">front and center</a> - obfuscating the most important bit. Instead of focusing on NFTs &amp; developer APIs, start with the data and work up from that.<!-- > "It is the mark of a charlatan to explain a simple concept in a complex way." - [@naval](https://twitter.com/naval/status/752796426208325632) -->
@@ -1966,9 +1978,6 @@ https://imgflip.com/memegenerator/112528910/Guy-checks-out-red-dress-girl -->
 <p>fragmentation</p>
 <p>The great attention misallocation</p>
 <p>today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true</p>
-<blockquote>
-<p>&quot;The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses.&quot; - <a href="https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have">Malcolm X</a></p>
-</blockquote>
 <p>Current social media is garbage- garbage in, garbage out</p>
 <p>We as a society dont know ourselves en masse - only a few companies are in that position</p>
 <p>Context switching is terrible for the brain - Twitter is an ADHD/ADD machine</p>
@@ -2242,6 +2251,7 @@ extensions to twitter shouldn't clutter the comments like this:
 @readwise save
 @SaveToNotion
 https://twitter.com/MaficoNFT/status/1591510117094428678</p>
+<p>REACTION with a comment/note - still structured data, but with added expressiveness</p>
 <p>Let's take 2 sides of a debate around vaccines - Brett Weinstein &amp; Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets &amp; watching endless podcasts &amp; episodes. Their opinions should have been codified with structured data &amp; logged in a time-series.</p>
 <p>the hammer is language and unfortunately every problem is a nail</p>
 <p>hashtags should be separated from the text</p>
@@ -2652,6 +2662,9 @@ https://twitter.com/alexandrosM/status/1614328083645100032</p>
 </blockquote>
 <blockquote>
 <p>&quot;Pol.is takes an n-dimensional space, where n is the number of sentiments shared by a group of people, and visualizes the points of agreement and disagreement through a combination of PCA (Principal Component Analysis) and k-means clustering. The visualization (and underlying data) is open, transparent, and updated in real-time.&quot; - <a href="https://www.radicalxchange.org/media/papers/Taiwan_Grassroots_Digital_Democracy_That_Works_V1_DIGITAL_.pdf">TAIWAN: GRASSROOTS DIGITAL DEMOCRACY THAT WORKS - RADICALxCHANGE</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses.&quot; - <a href="https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have">Malcolm X</a></p>
 </blockquote>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="why-headjack"><a class="header" href="#why-headjack">Why Headjack</a></h1>
 <img src="images/meme_trojan_horse.jpg" align="right" style="margin-left: 8px; width: 55%">

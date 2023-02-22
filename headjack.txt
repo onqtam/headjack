@@ -41,6 +41,39 @@ What if people subscribed to specific types of events by others, in effect guidi
 
 
 
+we should be able to apply something like birdwatch on the entire web - not just on tweets. We need software composability
+
+chapter: what journalism would look like
+== RESURRECTING/REVIVING/REINVENTING/reimagining JOURNALISM w/ reputation
+- digital investigative journalism could be quantifiable & codified as algorithms - the role of people could be in building such algorithms/classifiers (which could be chained/imported like in DeSci) & narration
+- anyone should be able to make new classifiers and apps should be free to use (or allow the use of) such classifiers
+- we can co-create the mechanism for sorting through ideas publicly and directing capital what to be fixed next
+- we need to be able to surface any kind of signal from public data
+- we can have a trail (in the web of trust & sequence of events) of who was fraudulently trying to shut off an idea - this can act as an incentive to not publicly try to lie. we need to build the reputation machine, but one where reputation is multi-dimensional and we all participate & compete for competence in different aspects & verticals of society
+- every nation and every official in the top seats of governments should have a public account with identity tied to his broadcasted public actions
+- any public claim can be backed up by an accompanying algorithm that surfaces the signal behind the claim. And there's a record of which other identities are used as sources for the input data, and if the algo is indeed what it's said out to be
+- Give the people the tools they want
+- Competing knowledge graphs that you plug into Troogle (truth google)- see where they differ in what is true (left vs right?) - point from balaji
+- imagine the kind of wikipedia we could build on top of the ledger of record
+    https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+    https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_a_mainstream_encyclopedia
+- With open data we can be more data driven and less narrative driven
+
+
+
+
+
+
+
+
+
+
+imagine being able to crowdsource debate requests with specific people and see a ranking of which debates are most desired
+
+
+
+
+
 
 
 
@@ -49,23 +82,6 @@ What if people subscribed to specific types of events by others, in effect guidi
 
 
 what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
-
-
-
-
-
-
-
-
-
-
-> "So when we tell people that “if they want privacy” for their data they should just upload it to their local computer: tell them your local Computer Science professor did that, and the result is that he lost half the photos of his son’s birth." - [Matthew Green](https://twitter.com/matthew_d_green/status/1624462558118789123)
-
-> "If your social media app requires people to use public keys, then you probably don’t understand what “social” means." - [Matthew Green](https://twitter.com/matthew_d_green/status/1620832280955719681)
-
-MEME: they don't know they can talk to me if they know my public keys
-https://twitter.com/ArvinK/status/1620833678816575488
-
 
 
 
@@ -88,23 +104,10 @@ The 2 scarcest resources: time & attention
 
 > “To be everywhere is to be nowhere.” ― Seneca
 
-
 > "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert A. Simon
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-REACTION with a comment/note - still structured data, but with added expressiveness
 
 
 
@@ -241,60 +244,6 @@ DNS+Email+RSS
 
 ████████████████████████████████████████████████ other
 
-
-
-
-
-
-
-we should be able to apply something like birdwatch on the entire web - not just on tweets. We need software composability
-
-
-
-
-
-
-chapter: what journalism would look like
-== RESURRECTING/REVIVING/REINVENTING/reimagining JOURNALISM w/ reputation
-- digital investigative journalism could be quantifiable & codified as algorithms - the role of people could be in building such algorithms/classifiers (which could be chained/imported like in DeSci) & narration
-- anyone should be able to make new classifiers and apps should be free to use (or allow the use of) such classifiers
-- we can co-create the mechanism for sorting through ideas publicly and directing capital what to be fixed next
-- we need to be able to surface any kind of signal from public data
-- we can have a trail (in the web of trust & sequence of events) of who was fraudulently trying to shut off an idea - this can act as an incentive to not publicly try to lie. we need to build the reputation machine, but one where reputation is multi-dimensional and we all participate & compete for competence in different aspects & verticals of society
-- every nation and every official in the top seats of governments should have a public account with identity tied to his broadcasted public actions
-- any public claim can be backed up by an accompanying algorithm that surfaces the signal behind the claim. And there's a record of which other identities are used as sources for the input data, and if the algo is indeed what it's said out to be
-- Give the people the tools they want
-- Competing knowledge graphs that you plug into Troogle (truth google)- see where they differ in what is true (left vs right?) - point from balaji
-- imagine the kind of wikipedia we could build on top of the ledger of record
-    https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
-    https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_a_mainstream_encyclopedia
-- With open data we can be more data driven and less narrative driven
-
-
-
-
-
-
-
-
-
-
-imagine being able to crowdsource debate requests with specific people and see a ranking of which debates are most desired
-
-
-
-
-
-
-
-
-
-> "DNS was invented at nearly the beginning of the Internet itself and pre-dated the Web, and has long been a centralized registry for the identity that mapped human-readable domain names for web-sites to IP addresses." - [source](https://hal.inria.fr/hal-01966561/document)
-
-
-
-
-
 interoperability
 https://balajis.com/yes-you-may-need-a-blockchain/
 
@@ -302,9 +251,7 @@ competition & horizontal gene transfer
 https://twitter.com/sreeramkannan/status/1573832256577224705
 
 
-████████████████████████████████████████████████ TODO:
-
-
+- make all quotes with the right [source] and try to use highlights
 
 ███ page about VCs
 

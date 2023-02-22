@@ -319,6 +319,9 @@ https://atproto.com/guides/data-repos
 
 # What other projects get wrong
 
+<img src="images/meme_they_dont_know_pubkeys.jpeg" align="right" style="margin-left: 8px; width: 50%">
+<!-- https://twitter.com/ArvinK/status/1620833678816575488 -->
+
 A list of problems with the contenders in the decentralized identity/media space:
 
 - No credible path to [web-scale](principles.md#web-scale-blockspace--the-unix-philosophy) - some will hit a wall even at 1 million users. Most are vague around their scalability & data structures and don't put it [front and center](numbers.md) - obfuscating the most important bit. Instead of focusing on NFTs & developer APIs, start with the data and work up from that.

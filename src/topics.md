@@ -18,8 +18,6 @@ The great attention misallocation
 
 today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
 
-> "The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses." - [Malcolm X](https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have)
-
 Current social media is garbage- garbage in, garbage out
 
 We as a society dont know ourselves en masse - only a few companies are in that position
@@ -428,6 +426,7 @@ extensions to twitter shouldn't clutter the comments like this:
 @SaveToNotion
 https://twitter.com/MaficoNFT/status/1591510117094428678
 
+REACTION with a comment/note - still structured data, but with added expressiveness
 
 Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions should have been codified with structured data & logged in a time-series.
 
