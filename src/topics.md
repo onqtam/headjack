@@ -50,6 +50,10 @@ the great attention misallocation - we all think certain issues don't get enough
 
 we should shift curation from explicit moderation by people to tagging & filtration preferences by the consumer
 
+TODO: integrate these 2 (about the move from social/interest graph to recommendation algorithms):
+https://twitter.com/jonwu_/status/1587462349018972161
+https://twitter.com/alexeheath/status/1552401066444013568
+
 choice vs algorithmic recommendation
 
 recommender algorithms incentivise clickbait. Explicit follow graphs incentivise quality & explicit recommendations by people you follow
@@ -215,6 +219,8 @@ history of seen tweets - like history of watched videos on youtube
 we have many facets to our personalities - we could share a lot more
 we are social creatures
 
+complete control of what is public and what is not - what digital trail you leave, and the ability to subscribe to anything for events
+
 not multidimensional subscriptions but fractal/granular
 
 how to think about the digital world
@@ -330,6 +336,8 @@ imagine being able to pick your "wikipedia editors" - people who curate informat
 # querying & palantir foundry
 ██████████████████████████████████████████████████████████████████████████████
 
+BigQuery 2.0
+
 Graph tool for constructing queries - data processing pipelines like in Foundry
 
 everyone can have access to something like Palantir Foundry for the entirety of the open web
@@ -363,6 +371,11 @@ https://en.wikipedia.org/wiki/Data_lineage
 
 provenance graphs - imagine being able to check if any of the inputs of a story has been influenced by a specific source
 
+> "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity." - [AVC](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
+
+balaji on cryptography & how the state should use it - relevant to the web of trust idea
+https://twitter.com/balajis/status/1596412557127954433
+
 apps should be able to show you all references to a document - perhaps they might show specific UIs for those that are supported and all others should be in the "other" list without visualization
 
 on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
@@ -384,6 +397,8 @@ force vs opt-in choice
 
 freedom of speech vs freedom of reach
 can't be evil
+
+curators of communities can literally whitelist accounts & types of accounts and compete on the best possible discourse - we can let the moderators run the thing and make a buck while doing so - and compete!
 
 ██████████████████████████████████████████████████████████████████████████████
 # Structured data & improving the signal/noise ratio
@@ -473,6 +488,12 @@ It's a book more about history than anything else
 It's a book mostly about history
 
 > "Cryptohistory is Cryptographically Verifiable Macrohistory" - [Balaji's The Network State](https://thenetworkstate.com/microhistory-and-macrohistory#cryptohistory-is-cryptographically-verifiable-macrohistory)
+
+The value of permanence & self-authenticating documents - not host-centric/host-certified or anything else - truly self-authenticating!
+SBF deleted a tweet that would incriminate him
+https://twitter.com/jonwu_/status/1590099766712549376
+https://twitter.com/AutismCapital/status/1590888993226653697
+The only way to make something truly self-authenticating in perpetuity is to timestamp it. Anchor it. Sequence a set inclusion commitment on-chain.
 
 
 ██████████████████████████████████████████████████████████████████████████████
