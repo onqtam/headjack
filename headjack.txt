@@ -247,27 +247,7 @@ DNS+Email+RSS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-write about security and how there will be competition for services that keep your data private and we will get eventually the best possible services
-
 we should be able to apply something like birdwatch on the entire web - not just on tweets. We need software composability
-
-
-
-
-
-
-
 
 
 
@@ -292,27 +272,7 @@ chapter: what journalism would look like
 
 
 
-archivability section - the tweets no longer saved stuff
-https://www.npr.org/sections/thetwo-way/2017/12/26/573609499/library-of-congress-will-no-longer-archive-every-tweet
 
-
-
-
-
-
-
-
-
-
-
-
-
-extensions to twitter shouldn't clutter the comments like this:
-@threadreaderapp unroll
-@memdotai mem it
-@readwise save
-@SaveToNotion
-https://twitter.com/MaficoNFT/status/1591510117094428678
 
 
 
@@ -322,18 +282,15 @@ https://twitter.com/MaficoNFT/status/1591510117094428678
 imagine being able to crowdsource debate requests with specific people and see a ranking of which debates are most desired
 
 
-YouTube recently removed the option to sort the videos of a channel by oldest first - because why not - because they can.
 
 
 
 
 
-> "In a simplistic abstract sense, identity is the capability to distinguish one object from another." - [source](https://hal.inria.fr/hal-01966561/document)
 
 
 > "DNS was invented at nearly the beginning of the Internet itself and pre-dated the Web, and has long been a centralized registry for the identity that mapped human-readable domain names for web-sites to IP addresses." - [source](https://hal.inria.fr/hal-01966561/document)
 
-> "There are today perhaps more OAuth transactions than Visa transactions." - [source](https://hal.inria.fr/hal-01966561/document)
 
 
 
@@ -343,80 +300,6 @@ https://balajis.com/yes-you-may-need-a-blockchain/
 
 competition & horizontal gene transfer
 https://twitter.com/sreeramkannan/status/1573832256577224705
-
-
-
-
-HEADJACK:
-- identity
-- linking it to data & events - addressing
-- solving authorizaion & authentication
-
-assumptions to challenge:
-- should everything be anchored & sequenced?
-
-████████████████████████████████████████████████ time table:
-
-12:00-16:00: presentation
-16:00-19:00: fixing notes & writing
-19:00-20:00: reads & twitter & 31st birthday stuff
-
-
-
-
-- competition: 4 days
-- presentation: 5 days
-
-- research autZ/authN: 3 days
-
-████████████████████████████████████████████████ TODO:
-
-
-- snowflake IDs
-    https://en.wikipedia.org/wiki/Snowflake_ID
-    https://twitter.com/_RyanBenson/status/1213870768070610944
-    https://news.ycombinator.com/item?id=19266823
-    https://snowsta.mp/?l=en-us&z=2y&f=auvqv0f1pd-en2
-
-
-when ingesting data, infrastructure can map the "appId/nonce" pair to "block_height/appId"
-
-
-
-
-
-
-
-
-
-
-
-
-
-flexibility - addressing is forever - but the storage & architecture of any application can be changed - without breaking the addressing.
-
-
-
-
-Access Controls - as a point for Headjack
-https://zeeprime.capital/web-3-middleware#access-controls
-
-
-
-
-handle key rotations for private application logins on-chain but only with a number that signifies the version of a session token and track block ranges... like credentials that can be checked on-chain if a previous version is the latest or not
-
-
-
-
-spam protection: we can see the source of accounts that are often labeled as spam - if they are coming from a specific IDM (because it's much cheaper to create new accounts from an IDM)
-fighting spam - in this system every event has provable provenance of who sent it and who their IDM is - we can track & label/exclude/punish IDMs that are the originators of spam - this is much better than the crude ways email fought spam - by blacklisting IP ranges and all that
-
-
-DATA LEGOS page? about streams & composability?
-
-
-TODO: address every one of the problems with a solution in the other pages - don't skip anything
 
 
 ████████████████████████████████████████████████ TODO:
@@ -978,3 +861,5 @@ can produce ZKPs for off-chain counts & aggregates and submit those to transacti
 the ability to toggle the display of highlights & interlinked objects - turning plain text into a wikipedia-like page
 
 
+
+when ingesting data, infrastructure can map the "appId/nonce" pair to "block_height/appId"

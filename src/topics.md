@@ -40,6 +40,8 @@ time well spent: user empowerment in being able to control what they want to see
 
 > "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
 
+YouTube recently removed the option to sort the videos of a channel by oldest first - because why not - because they can.
+
 the great attention misallocation - we all think certain issues don't get enough coverage or that other types of content get oversized & undeserved attention - we need to take control of the architecture of virality and the first step is actually having a choice.
 
 ██████████████████████████████████████████████████████████████████████████████
@@ -400,6 +402,9 @@ can't be evil
 
 curators of communities can literally whitelist accounts & types of accounts and compete on the best possible discourse - we can let the moderators run the thing and make a buck while doing so - and compete!
 
+spam protection: we can see the source of accounts that are often labeled as spam - if they are coming from a specific IDM (because it's much cheaper to create new accounts from an IDM)
+fighting spam - in this system every event has provable provenance of who sent it and who their IDM is - we can track & label/exclude/punish IDMs that are the originators of spam - this is much better than the crude ways email fought spam - by blacklisting IP ranges and all that
+
 ██████████████████████████████████████████████████████████████████████████████
 # Structured data & improving the signal/noise ratio
 ██████████████████████████████████████████████████████████████████████████████
@@ -412,6 +417,15 @@ spamgularity
 https://twitter.com/DanielleFong/status/1622315719298883584
 
 signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
+
+new message types!
+extensions to twitter shouldn't clutter the comments like this:
+@threadreaderapp unroll
+@memdotai mem it
+@readwise save
+@SaveToNotion
+https://twitter.com/MaficoNFT/status/1591510117094428678
+
 
 Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions should have been codified with structured data & logged in a time-series.
 
@@ -537,4 +551,4 @@ https://twitter.com/disclosetv/status/1621843921578991616
 Reveal Reddit's secretly* removed content. Search by username or subreddit (r/):
 https://www.reveddit.com/
 
-
+write about security and how there will be competition for services that keep your data private and we will get eventually the best possible services

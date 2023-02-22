@@ -215,6 +215,12 @@
 
 - Topics such as $RUNE & hashtags - how do they get parsed?
 
+- snowflake IDs
+    https://en.wikipedia.org/wiki/Snowflake_ID
+    https://twitter.com/_RyanBenson/status/1213870768070610944
+    https://news.ycombinator.com/item?id=19266823
+    https://snowsta.mp/?l=en-us&z=2y&f=auvqv0f1pd-en2
+
 - https://indieweb.org/Webmention
 
 - https://ipld.io/docs/schemas/
