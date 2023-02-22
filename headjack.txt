@@ -138,7 +138,6 @@ The internet is rife with (deliberate) misinformation
 a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
 
 
-the future of search is being able to re-run aggregation & statistics based on different filters
 
 
 
@@ -154,20 +153,20 @@ the future of search is being able to re-run aggregation & statistics based on d
 - not engineered for a % of the market - engineered for the entire market
 - cheaper, faster, better
 - Headjack's block/content explorer is the next Google
+- the real cloud - beyond physical hosts
+- Moving everyone on a shared identity layer needs to happen only once. It's a matter of time. Why not simply look at the best protocol in terms of merits and shoot with it?
+- Lets create the theoretically most secure and scalable solution to this problem.
+- Lets tell the best story of why it's necessary.
+- And let's not botch the tokenomics.
+- The timestamp machine
+- The universal network effect
+- Untransferrable property rights for data
 
 the only web3 identity/social solution that can partner with OAuth/OpenID - and they will signal-boost it
 
 when youtube removes a video of yours - it should still be available by you.
 
 
-social aggregation: the mirror within - as a chapter name about signaling of public preferences & poll opinions
-why are twitter polls only for 24 hours? and we can't see how specific people voted?
-abstract polling: count & filter the results from any poll using any KYC filter or whatever ban list (so include/exclude for groups of people)
-Reputation page and the message types that polls could be
-The need for structured data - chapter
-Structured data as a chapter - about polls and reputations
-every claim and counter should be verifiable - even if at a processing cost
-common knowledge should go there?
 
 applications can decide which sets of filters are allowed for viewing media through them, in order for advertisers to be happy
 
@@ -208,22 +207,20 @@ Community-centric
 
 twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
 
-2 types of edit commands: non-branching and branching
-what if IDMs allow us to have pointers like HEAD in git?
-
-just like we need IP over MAC addresses in order to have a hierarchy, for the same reason we need Headjack URIs on top of hashed data - the retrievability process is greatly improved
 
 
 
-friendship should be: you have a DM channel open - without a filter
 
 
 
-giving different types of permissions to IDMs - for example the ability to change your name without a sig from you
+
+
+
+
 
 imagine being able to select a subset of all accounts worldwide and train a GPT on that subset of human knowledge & opinions
 
-putting data in the real cloud - the one beyond hosts
+
 
 what if apps have to explicitly pay to infra for their data to be stored?
 
@@ -238,13 +235,8 @@ the successor to email - instead of base layer of cyberspace
 DNS+Email+RSS
 
 
-PUT THIS IN ARCHIVABILITY
-we should do better than having the spouses of people who have passed away having to login & post in order to avoid the deletion of a historically important account
-https://twitter.com/halfin/status/1603847718039744512
 
 
-Zero knowledge as a chapter
-https://twitter.com/pseudotheos/status/1603832650707370009
 
 
 ████████████████████████████████████████████████ other
@@ -266,25 +258,6 @@ https://twitter.com/pseudotheos/status/1603832650707370009
 
 
 
-
-
-
-
-
-
-> "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity." - [AVC](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
-
-
-
-
-
-
-
-
-
-
-
-
 write about security and how there will be competition for services that keep your data private and we will get eventually the best possible services
 
 we should be able to apply something like birdwatch on the entire web - not just on tweets. We need software composability
@@ -293,12 +266,6 @@ we should be able to apply something like birdwatch on the entire web - not just
 
 
 
-IDMs keep your preferences
-
-
-
-balaji on cryptography & how the state should use it - relevant to the web of trust idea
-https://twitter.com/balajis/status/1596412557127954433
 
 
 
@@ -329,22 +296,8 @@ archivability section - the tweets no longer saved stuff
 https://www.npr.org/sections/thetwo-way/2017/12/26/573609499/library-of-congress-will-no-longer-archive-every-tweet
 
 
-complete control of what is public and what is not - what digital trail you leave, and the ability to subscribe to anything for events
 
 
-- In the possibilities - being able to see all the public activity of anyone 
-- in the possibilities - multidimensionality for subscriptions
-
-
-curators of communities can literally whitelist accounts & types of accounts and compete on the best possible discourse - we can let the moderators run the thing and make a buck while doing so - and compete!
-
-
-
-
-Moving everyone on a shared identity layer needs to happen only once. And it will - it's only a matter of time. Why not simply look at the best protocol in terms of merits and shoot with it?
-Lets create the theoretically most secure and scalable solution to this problem.
-Lets tell the best story of why it's necessary
-And let's not botch the tokenomics.
 
 
 
@@ -373,67 +326,7 @@ YouTube recently removed the option to sort the videos of a channel by oldest fi
 
 
 
-The value of permanence & self-authenticating documents - not host-centric/host-certified or anything else - truly self-authenticating!
-SBF deleted a tweet that would incriminate him
-https://twitter.com/jonwu_/status/1590099766712549376
-https://twitter.com/AutismCapital/status/1590888993226653697
-The only way to make something truly self-authenticating in perpetuity is to timestamp it. Anchor it. Sequence a set inclusion commitment on-chain.
 
-
-
-
-
-twitter indeed has huge potential - something like it can become the identity, trust & information layer on top of IP
-
-
-
-
-
-“How many hasty, immature, superficial, and misleading judgments are expressed every day [in the press], confusing readers, without any verification.” #Solzhenitsyn
-https://twitter.com/AI_Solzhenitsyn/status/1590086890174160902
-
-“Because instant and credible information has to be given [by the press], it becomes necessary to resort to guesswork, rumors, and suppositions to fill in the voids, and none of them will ever be rectified; they will stay on in the readers' memories.” #Solzhenitsyn
-https://twitter.com/AI_Solzhenitsyn/status/1590055302371500032
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TODO: move the media/tech/internet section to the top of the REALLY page? be first?
-
-TODO: integrate these 2 (about the move from social/interest graph to recommendation algorithms):
-https://twitter.com/jonwu_/status/1587462349018972161
-https://twitter.com/alexeheath/status/1552401066444013568
-
-
-a timestamp machine
-The universal network effect
-Untransferrable property rights for data
-
-
-
-"attention is all you need" in the what really is headjack page
-
-
-
-
-> "Simplicity is the ultimate sophistication." - [Leonardo da Vinci](https://www.goodreads.com/quotes/9010638-simplicity-is-the-ultimate-sophistication-when-once-you-have-tasted)
-
-
-identity-centric
-
-
-
-benefit: no need to store proofs for every single event as they can be derived
 
 > "In a simplistic abstract sense, identity is the capability to distinguish one object from another." - [source](https://hal.inria.fr/hal-01966561/document)
 

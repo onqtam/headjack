@@ -96,6 +96,16 @@ The current web incentivizes differentiation and no integration - and thus we ge
 # voting & liquid democracy
 ██████████████████████████████████████████████████████████████████████████████
 
+aggregation: the societal mirror - a chapter about signaling of public preferences & poll opinions
+why are twitter polls only for 24 hours? and we can't see how specific people voted?
+abstract polling: count & filter the results from any poll using any KYC filter or whatever ban list (so include/exclude for groups of people)
+Reputation page and the message types that polls could be
+
+the future of search is being able to re-run aggregation & statistics based on different filters
+
+every claim and counter should be verifiable - even if at a processing cost
+common knowledge should go there?
+
 ranked choice voting
 https://fairvote.org/our-reforms/ranked-choice-voting/
 
@@ -137,6 +147,8 @@ Private opinions for polls - you might not want them public but still to be able
 
 Zk affiliation/attestations/credentials
 
+Zero knowledge as a chapter
+https://twitter.com/pseudotheos/status/1603832650707370009
 
 voting ZK stuff
 https://research.aragon.org/
@@ -155,6 +167,10 @@ quadratic voting? https://www.radicalxchange.org/concepts/plural-voting/
 ██████████████████████████████████████████████████████████████████████████████
 # reputation systems & incentives
 ██████████████████████████████████████████████████████████████████████████████
+
+> "How many hasty, immature, superficial, and misleading judgments are expressed every day [in the press], confusing readers, without any verification." - [Solzhenitsyn](https://twitter.com/AI_Solzhenitsyn/status/1590086890174160902)
+
+> "Because instant and credible information has to be given [by the press], it becomes necessary to resort to guesswork, rumors, and suppositions to fill in the voids, and none of them will ever be rectified; they will stay on in the readers' memories." [Solzhenitsyn](https://twitter.com/AI_Solzhenitsyn/status/1590055302371500032)
 
 > "instead of echo-chambers of fact-checkers who get all their opinions from the Washington Post and New York Times, one could implement a system of adversarial fact-checking in which people of different opinions work together on establishing the facts" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=instead%20of%20echo%2Dchambers%20of%20fact%2Dcheckers%20who%20get%20all%20their%20opinions%20from%20the%20Washington%20Post%20and%20New%20York%20Times%2C%20one%20could%20implement%20a%20system%20of%20adversarial%20fact%2Dchecking%20in%20which%20people%20of%20different%20opinions%20work%20together%20on%20establishing%20the%20facts)
 

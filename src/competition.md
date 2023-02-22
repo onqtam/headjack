@@ -564,6 +564,10 @@ When a key is rotated it doesn’t affect old content for it to be self-authenti
 
 Insight: names are most useful when in document URIs - not used to identify your personal finances publicly
 
+just like we need IP over MAC addresses in order to have a hierarchy, for the same reason we need Headjack URIs on top of hashed data - the retrievability process is greatly improved
+
+benefit: no need to store proofs for every single event as they can be derived
+
 
 
 

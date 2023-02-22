@@ -18,6 +18,13 @@ for search engines to rank modern dynamic & single page apps they need to render
 
 focus more on the separation of actual data and the presentation layer for archiving?
 
+
+PUT THIS IN ARCHIVABILITY
+we should do better than having the spouses of people who have passed away having to login & post in order to avoid the deletion of a historically important account
+https://twitter.com/halfin/status/1603847718039744512
+
+
+
 # Code as addressable data
 
 Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.

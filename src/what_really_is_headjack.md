@@ -85,6 +85,8 @@ The [`"Unix and Google"`](https://www.youtube.com/watch?v=3Ea3pkTCYx4) video bea
 
 > "`O(M × N)` code explosion — A system may need bespoke code to fill in every cell of a grid, like M algorithms and N data structures, or M languages and N operating systems." - [source](https://www.oilshell.org/cross-ref.html?tag=m-by-n-explosion#m-by-n-explosion)
 
+> "Simplicity is the ultimate sophistication." - [Leonardo da Vinci](https://www.goodreads.com/quotes/9010638-simplicity-is-the-ultimate-sophistication-when-once-you-have-tasted)
+
 ---
 
 Today social media applications have to reimplement the same functionality & [vertically integrate](barriers_to_entry.md#vertical-integration-vs-marketscompetition) which is `O(M × N)`. With Headjack there'll be a market for every layer of the stack & solutions can be reused - `O(M + N)`. The core enabler for this is the linking of data to [sovereign identity](https://twitter.com/balajis/status/1162401646258749441) which leads to portability & interoperability between applications & the end of the host-centric model. Think of it as an [open state database](https://twitter.com/balajis/status/1123092897664880640) where only the most important bits are decentralized & guaranteed to be around. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation not possible before, but also because of the reduced effort and code reuse - every problem needs to be solved only once.
