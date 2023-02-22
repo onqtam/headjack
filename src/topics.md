@@ -243,6 +243,8 @@ complete control of what is public and what is not - what digital trail you leav
 
 not multidimensional subscriptions but fractal/granular
 
+this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's demand & a business model for it
+
 what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
 
 YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that #shorts are given to you just like normal videos. We should be able to filter that out. Take for example [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) - this is their [rss feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw) and it has everything in there - and we have no easy way to filter it.
@@ -426,6 +428,8 @@ curators of communities can literally whitelist accounts & types of accounts and
 
 spam protection: we can see the source of accounts that are often labeled as spam - if they are coming from a specific IDM (because it's much cheaper to create new accounts from an IDM)
 fighting spam - in this system every event has provable provenance of who sent it and who their IDM is - we can track & label/exclude/punish IDMs that are the originators of spam - this is much better than the crude ways email fought spam - by blacklisting IP ranges and all that
+
+applications can decide which sets of filters are allowed for viewing media through them, in order for advertisers to be happy
 
 ██████████████████████████████████████████████████████████████████████████████
 # Structured data & improving the signal/noise ratio
