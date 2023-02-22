@@ -1,34 +1,8 @@
 
 
-БООК: what if every page started with the problems that would be addressed in it?
-
-
-The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
-
-Concern: leaked decryption keys for private data
-
-TODO: how much money does DNS & CAs as industries make yearly?
 
 
 
-
-sunlight is the best disenfecatant
-the fastest way for pro social behaviors is to make sure everyone's reputation is on the line
-
-chapter: "social reputation without settlement"
-
-apps should be able to show you all references to a document - perhaps they might show specific UIs for those that are supported and all others should be in the "other" list without visualization
-
-second brain - note taking
-
-provenance
-https://en.wikipedia.org/wiki/Data_lineage
-> "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
-
-provenance graphs - imagine being able to check if any of the inputs of a story has been influenced by a specific source
-PROVENANCE as a chapter?
-
-competing wikipedia-like pages written by different people & being able to select between them? no more "trusted source" issues?
 
 
 
@@ -36,251 +10,81 @@ competing wikipedia-like pages written by different people & being able to selec
 
 
 
-infrastructure - no need for a robots.txt file anymore - they were initially introduced because of [a badly-behaved web crawler that inadvertently caused a denial-of-service attack](https://en.wikipedia.org/wiki/Robots.txt#:~:text=a%20badly%2Dbehaved%20web%20crawler%20that%20inadvertently%20caused%20a%20denial%2Dof%2Dservice%20attack)
-https://en.wikipedia.org/wiki/Robots.txt
-sitemaps are also not necessary - they are used to inform crawlers when specific pages were last updated & how often they change, but that's obsolete in a push environment
-https://en.wikipedia.org/wiki/Sitemaps
-EDIT: actually sitemaps are only partially outdated - what about pages that are not reachable at all? that's when sitemaps are also useful - to explicitly mention them
 
-
-
-ability to specify criteria for the delegation - no need to pick specific people i. The liquid voting
-
-There should be a vision for how others can capitalize on the opportunity and be the heroes
-
-
-competition page: batching & compactness (FC does have some fancy hub sync)
-
-Structured data should be incentivized - we’re drowning in text audio and video
-
-The role of something like change.org
-
-add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
-
-UIs should be drag/drop composable & layoutable - in the superapp
-
-roadmap ==> secret master plan
-
-your main job would be to be an annotator - such that you get scored based on performance
-
-free the graph
-
-can't be evil - restore from point
-
-we need to enable freeform networking at scale in order to build a global brain - the host-centric model doesn't allow that - any type of data should be linkable & manipulatable with any other data type
-
-for search engines to rank modern dynamic & single page apps they need to render them server-side - this can be skipped if data is decoupled from presentation and if the ranking engine is simply listening for document updates. They also currently cache the entire pages - just like an archival service. Massive benefits in a push vs a pull system for crawlers & indexers
-
-what if you used your own IDM but authorized a commercial IDM as a proxy for yours - to aggregate your actions along with those of others such that less fees are paid? or this is nonsense? there should be a way to proxy at least some bits to your own server...
-
-the skill tree in linkedin is completely fake - we could crowdsource it or have reputation systems based on real events & attestations and allow for any visualization
-
-we can have a leaderboard for every topic under the sun
-
-business model: develop open source with a license for commercial use that requires payment - that's ok
-
-we can use AI to generate podcast-like conversations that cover the digital interactions of structured data
-
-currently we channel our energy in a useless way - the best we can do is get a hashtag trending. But with this system every type of interaction would count
-
-using structured data circumvents the need to think about the right words - it reduces friction in expression - streamlined expression as a chapter?
-
-think of the the superapp as a browser
-
-Cant be evil - raising the bar for censorship - accountability and exit
-
-Solution to the disjoint documents saved by IDMs - compaction through re-publication? DEFRAGMENTATION !!!
-
-Move the decentralization point from the design page to the cant be evil page
-
-Separate messages into header and payload so that only the header vould be stored for deleted items - but it would contain the metadata such as “reply_to” uri and its own uri for example
-
-multidimensionality - think about what "friendship" is
-
-growth hack: show some badge who invited you to the network (and how many people you have invited) - perhaps with some referral link initially?
-
-Making physical location obsolete for the digital world
-
-Replace signaling with competence
-
-Bazaar protocol - from “the cathedral and the bazaar” essay
-or at least have a chapter about it! with this pic
-https://www.google.com/search?q=the+cathedral+and+the+bazaar+cover&sxsrf=AJOqlzWfP43XK_d9AFgHzQBrtHz9qSX9UA:1675770760517&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZ8J7HrIP9AhWigP0HHVlTBUgQ_AUoAXoECDEQAw&biw=2051&bih=1186&dpr=0.9
-https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
-
-13. Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away. (Attributed to Antoine de Saint-Exupéry)
-https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar#:~:text=Perfection%20(in%20design)%20is%20achieved%20not%20when%20there%20is%20nothing%20more%20to%20add%2C%20but%20rather%20when%20there%20is%20nothing%20more%20to%20take%20away.%20(Attributed%20to%20Antoine%20de%20Saint%2DExup%C3%A9ry)
-
-
-Strategy: use platform APIs to link web2 platform accounts to a headjack account for a gradual transition - as an overlay
-
-One of the apps could be called Pravda
-
-Google failed - they didnt organize the worlds information - they merely ranked it
-
-Steve bannon is famous for saying to flood the zone with shit - lets drain the swamp
-
-"Speech as proof of work is dead."
-https://twitter.com/gordonbrander/status/1622999277411741698
-
-
-list explicitly all the different aspects of an online presence - goodreads, medium, quora, stack exchange, reddit, twitter, etc.
-
-farcaster is too opinionated
-
-streaming platforms will know how much you've watched something. They could sell that data. Apps that request it and mediate it could anonymize the user somehow? But the streaming service will have a direct IP connection with the user - unless the app acts as a bandwidth proxy?
-
-on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
-Message types should be on-chain nouns
-
-what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?
-
-Graph tool for constructing queries - data processing pipelines like in Foundry
-
-TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
-What If You Quit Social Media For 30 Days?
-https://www.youtube.com/watch?v=_u5p6hwS5SM
-
-Anatomy of your digital footprint
-
-even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
 
 there should be something like twitter's community notes for any kind of media - not just tweets
 
-Competitive superiority
 
-what happens to auth tokens if you change your IDM?
 
-high trust (social capital), shared stories & strong institutions - required for democracy, but social media is eroding them - Jonathan Haidt
-https://www.youtube.com/watch?v=hu2jprZ50FY
 
-Write about social media aggregator tools for creators - just a bandaid
 
-google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much broader
 
-What if IDMs issue the integers for credentials and they can upload onchain sparse bitmaps woth these ids when revoking on behalf of users?
 
-Think about making monetary settlements with zl proofs on topnof ethereum for polls
-
-separating the authorization (signature or authZ token) from the content is beneficial - can cache the authZ token once and reuse it for many data items
-
-we should shift curation from explicit moderation by people to tagging & filtration preferences by the consumer
-
-every account should have an AMA associated with them
-
-"We have Paleolithic emotions, medieval institutions, and god-like technology." - Edward O. Wilson
-
-media tells us what is salient but we lack the tools to question the framing
-
-every change, every edit, every commit - all could be linked to your identity if you wished it
-
-your profile page - a linktree-like thing
 
 today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
 
-For old uris where names have changed ownership - can display obsolete names with different color
 
-view profile relevant to the current app VS view full profile with all activity
+
 
 anyone should be able to construct graph narratives by selecting "facts" which can be observed & pointed at
 
-Join protocol
 
-Adapters for current web2 platforma - wrap actions in messages thatnpoint to the web2 platform?
 
 Example: github stars - what if anyone could develop filters for the stars of people with advanced criteria? Different trending dashboads?
 
-Key rotation in competition - for lens perhaps account abstraction would help
+
+
 
 We should be able to view the most pressing questions for public figurrs and CEOs
 Integrating all these different use cases with social media and unified identity and notifications is how to make them viral
 We should be able to surface questions to elites and leaders and make it glaringly obvious if they have responded to them or not
 It is easy to ingore some obscure app but not when everything is built on top of the same identity & data network
 Sporadic Reddit AMAs are absolutely ibadequate
+every account should have an AMA associated with them
 This is what connecting people looks like - facebook isnt even scratching t he surface
 
-A data network in which your input matters in an uncountable number of ways
-Expressivity!
-I want YOU to help build the metabrain
-To be a good little neuron
 
-> "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
 
-elly iska6e da iztrie komentar na snimkata si - dori i da moje da bude komentirana drugade s URL... proximity matters...
+
 
 on attention:
 https://gurwinder.substack.com/p/the-intellectual-obesity-crisis
 
-we should hold people who claim to be public intellectuals to a higher standard - not acknowledging that a comment might have been deleted by mistake and LATER commenting that it wasn't deleted and still there (although it's not there anymore)
-https://prnt.sc/FTXL0rEN6vz3
-https://prnt.sc/MqZJfMJHnJqG
-https://twitter.com/alexandrosM/status/1614328083645100032
 
 
-we should strive to separate causal patterns from correlated patterns
-
-Private opinions for polls - you might not want them public but still to be able to compare with those who are public
-
-Farcaster: with or without CRDTs you should be processing everything anyway, and with a simple fork choice rule you wouldnt need crdts
-
-Follow preferences of others - not hust as notifications but also automatically adopting them
 
 
-Sociology and how anyone can do it - picture: mirror 
 
-Milultidimentionality picture: sphere with spikes with different length and maybe labels
 
-Algorithms could use this liquid interest network to amplify and prioritize certain people on the loud speaker - I bet daniel Schmat would rank quite high - something the youtube algo wouldnt do
 
-identifier type in the table - integer or hash of public key - in competition table
 
-== A self-organizing system - in the sensemaking chapter
-we can achieve cycles of differentiation (random exploration) followed by convergence & integration to refine our collective model of reality in a self-organizing system - just like our minds work
-complexification followed by iterative integration - assimilation & compression - calibration against the real world is the constant flux between the two
-zooming in and zooming out
-https://youtu.be/IZ-tHaHfB8A?t=3112
-stark contrast - Compare that to what we currently have - attention-driven feedback loops of psychosis & epileptic seizures - we are unable to integrate the signal - we have no capacity to adaptively re-fit itself to the world
-The internet is suffering from epilepsy
-our current systems optimize for efficiency (attention capture) - not the evolvability of ideas
-the host-centric model hinders our ability to develop the tools for integration - for interlinking & coming to consensus - we're given one-size-fits-all lowest common denominator functionality in the race to the bottom of the brain stem
 
-we lack precision weighting of the signals ==> hence our psychosis
 
-> "the function of consciousness is to do enhanced relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4094)
 
-> "what consciousness is doing is higher-order relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4199)
-
-our capacity to pay attention in the right way was evolved - it is fundamentally an adaptive ability - it was selected for
 
 you should be allowed to pin a comment explaining your vote. And that comment should be able to evolve & change
 
 
 just like we have a mental model when doing searches that we can request results only from the last month, the same way we'll learn to think in terms of filters & slices
 
-so much expressed opinions & views are left unanalyzed & unaggregated because they're in text - they have an ephemeral impact for a moment and then fade
 
-we can use something like ChatGTP to summarize the results of polls from different points of view and write the text for a topic and always keep it up to date. This is the decentralized wikipedia.
+
 
 
 current twitter polls don't allow us to show our vote but we're free to express it in text publicly?
 
-Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
 
-distributed cognition or sensemaking?
-https://en.wikipedia.org/wiki/Cognition
 
-We can all do what sociologists do
+
 
 
 Sensemaking chapter - video replies without interlinking specific moments is just primitive
 How do we debunk stuff?
 Disallowing comments on a youtube video is just dumb because you cannot disallow comments for it on reddit anyway - all you are doing is trying to hide commentary about what you are presenting
-Moonlandinh faked?
+Moonlanding faked?
 Ancient technology in egypt? Give links as evodence
 
-Youtube is just video on the internet along with a recommender algo - completely unimagiinative
-
-fragmentation....
+Youtube is just video on the internet along with a recommender algo - completely unimaginative
 
 we should be able to come to consensus about questions such as "how much cobalt goes into EVs, how much EVs are not using cobalt at all anymore, and where is cobalt coming from (hint: not just the congo)"
 
@@ -313,12 +117,6 @@ You can stuff integers in bitmaps and check for intersections - hashes suck
 
 Anything not built around integers is disqualified due to joinability
 
-Wikipedia and different prisms
-Slicing and dicing - chapter name
-
-Company name: the white rabbit
-
-Can’t be evil. As a chapter about sovereignty?
 
 Farcaster - when there isnt a grand vision outsiders implement twitter interface clones with some differences in coloring and layout. And thats it.
 
@@ -326,19 +124,10 @@ Farcaster - when there isnt a grand vision outsiders implement twitter interface
 Simplifying joining is killer f
 Add joining in the pitch
 
-Concepts around identity
-- authorization
-- Attestation
-- Attestations by countries
-- Names
 
 I love integers
 
 2 types of apps: sharing and closed
-
-Tech tree instead of roadmap
-
-We need more feedback and error correction
 
 Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll
 
@@ -356,19 +145,10 @@ What is a broker? IDB and not IDM?
 
 This is the real DAO - the hivemind
 
-Moxie quote in concerns
 
-how to think about the digital world
-- public/private
-- anonymous/
-what can we build on top of this?
-DO A DAY WITH STICKY NOTES AT HOME AND FIGURE THIS OUT
 
-Distributed cognition
 
-Chapter on oracles and how theyre not necessary - just do a recount & recalculate reputation based on different facts
 
-The two killer apps of crypto are money and identity, with the latter one not done properly (yet)
 
 Mission: raise the signal/noise ratio
 Also as a chapter/page
@@ -1660,16 +1440,6 @@ TODO: address every one of the problems with a solution in the other pages - don
     https://cdixon.mirror.xyz/Ie8BQeiM1JTJkKISPVaAao88-XVMoHsdUAtcnS9_Jbs
     https://twitter.com/naval/status/1444366754650656770
 
-- point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
-
-- point: improved security - the hacking of high-profile accounts and posting on their behalf is almost impossible with the right opsec
-https://twitter.com/VitalikButerin/status/1576275977352536065
-https://twitter.com/tayvano_/status/1611131230074073088
-https://twitter.com/0x796/status/1611332890209419264
-https://twitter.com/0x796/status/1611371424945512460
-https://haveibeenpwned.com/
-https://twitter.com/SimpleLogin
-
 
 
 - focus more on "the whole is more than the sum of its parts"
@@ -1744,8 +1514,6 @@ TODO: Ambition => composability => link to possibilities
 
 
 
-- Thread on eigenlayer vs polkadot - ask George about polkadot first
-eigenlayer is the final nail in the coffin for the thesis behind Polkadot
 
 
 
@@ -2029,17 +1797,6 @@ https://twitter.com/gainzy222/status/1474761079179907079
 - tokenomics - value accrual not just through block space?
     - token model that is beyond "paying for blockspace" - smoothening out demand spikes & making it more predictable for services & companies
 - process for name auctioning - preventing squatting & hoarding
-- hiring
-
-
-
-
-
-
-
-
-
-- I want investors who will be excited to continue building applications & infrastructure on top of Headjack and undestand/believe the vision - not just supporting for the initial blockchain.
 
 
 
@@ -2052,7 +1809,8 @@ https://twitter.com/gainzy222/status/1474761079179907079
 
 
 
-- pros/cons table of building it as an Ethereum rollup - win the approval of the eth maxis
+
+
 
 - make a glossary page
     https://spec.dsnp.org/Reference/Glossary.html
@@ -2060,112 +1818,62 @@ https://twitter.com/gainzy222/status/1474761079179907079
         https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/#key-revocation-in-ceramic
         https://research.csiro.au/blockchainpatterns/general-patterns/self-sovereign-identity-patterns/anchoring-to-blockchain/
 
-████████████████████████████████████████████████ Tyler
-
-summary of last 2 months:
-- fixed up the text & developed a few more pages (numbers, messages, account messages & social graph)
-- completed the next chapter (motivational - problems & how headjack fixes them)
-- decided to remove the interest graph from on-chain - leaving only authorization messages & keeping the blockchain state small
-- developed the pitch deck
-- actively looking for co-founders
-- applied to a few conferences to talk about the idea
-- researched ZK rollups - still not sure about it
 
 
-- want to aligh with Ethereum & win that crowd - be on the right side of history
+██████ unsorted
 
 
-- rewritten the introductory page to cut the fluff and cut straight to the chase
+There should be a vision for how others can capitalize on the opportunity and be the heroes
 
-- When I tell people that Headjack will change the world - I need to be able to prove it
 
-- Tyler wants 1-2%, 6 months cliff for 75% of tokens, 6 more for the rest
+start with the problems in each page?
 
-- do you think getting a hold of Balaji or Naval is possible? My project is influenced mostly by their thinking around web3 & media
+
+We need more feedback and error correction
+
+
+Making physical location obsolete for the digital world
+
+
+DEFRAGMENTATION !!!
+Solution to the disjoint documents saved by IDMs - compaction through re-publication?
+Separate messages into header and payload so that only the header could be stored for deleted items - but it would contain the metadata such as “reply_to” uri and its own uri for example
 
 
 
-██████ project liberty - the competition - thoughts
+what if you used your own IDM but authorized a commercial IDM as a proxy for yours - to aggregate your actions along with those of others such that less fees are paid? or this is nonsense? there should be a way to proxy at least some bits to your own server...
 
-https://discord.com/channels/969001918460469250/969308056208961606/994887893099221003
 
-=== project liberty competition
-    - Headjack is partially inspired by their whitepaper
-    - slow R&D - 2 years already
-    - decided to see where they are at 2 days ago
-        - polkadot parachain development announced 2 months ago
-        - some improvements in their design since I last looked at it
-        - they have an answer to my economic worries - although I could have figured it out too eventually
-        - biggest difference is addressing - very excited about the human readable URLs of Headjack
-            - also other details which are not a deal breaker - but I think I can design the better system
-            - it is bizzare to be so on-point about so many things and yet fail at addressing
-                - however they *could* fix it
-    - compete?
-        - possible
-            - no community & 0 buzz around them (yet)
-            - not much code written yet - not launching anytime soon - they seem a bit slow
-            - the lead spokesperson continues to be the old billionaire that funded it instead of the team leads
-            - not a big enough team
-            - they don't have a vision for what to build after the blockchain like I do - nor the passion it seems
-        - challenges
-            - they have:
-                - huge backing by the billionaire - and he's actually a decent person & is doing it for the right reasons
-                - official partnership with Polkadot
-            - hard sell for Headjack as a polkadot parachain as it is very similar to the other one?
-            - duplicated effort & fragmentation
-            - hiring, a little bit behind
-    - join them?
-        - very little influence, very little reward
-        - improbable that I'd convince them to use the better addressing & URLs
-        - but higher chance of success
+streaming platforms will know how much you've watched something. They could sell that data. Apps that request it and mediate it could anonymize the user somehow? But the streaming service will have a direct IP connection with the user - unless the app acts as a bandwidth proxy?
 
 
 
-
-Frequency problems:
-- Polkadot - not as decentralized as Eth
+what happens to auth tokens if you change your IDM?
 
 
+What if IDMs issue the integers for credentials and they can upload onchain sparse bitmaps with these ids when revoking on behalf of users?
 
 
-
-
-████████████████████████████████████████████████ The Architect
-
-I'm starting to buy into the modular blockchain idea and am thinking of a validium rollup where the data availability is not on eth but on something like Celestia or DataLayr and only the ZK proof and the settlement is on Ethereum.
-
-turns out the only way to make a zk rollup & have validity proofs is to use either starkware/zksync/or a few other players, and one can use Solidity for all of them:
-https://twitter.com/apolynya/status/1517108067787177984
-
-but that would mean that the materialized rollup state for all accounts will resemble the ethereum state in terms of structure, so the merkle proofs for parts of the state will be dependent on how the state is implemented - what kind of trie, etc.
-
-I have a very important goal, which is to minimize the size of merkle proofs for anything, as I think my chain would be used to request & generate much more merkle proofs than something financial
+Think about making monetary settlements with zk proofs on top of ethereum for polls
 
 
 
-██████
+separating the authorization (signature or authZ token) from the content is beneficial - can cache the authZ token once and reuse it for many data items
 
 
 
+problem: fractured identities across platforms
+Write about social media aggregator tools for creators - just a bandaid
 
 
 
+For old uris where names have changed ownership - can display obsolete names with different color
 
 
+elly iska6e da iztrie komentar na snimkata si - dori i da moje da bude komentirana drugade s URL... proximity matters...
 
 
-
-- would optimint (cosmos with DA & consensus from Celestia) be a good choice?
-
-
-
-https://discord.com/channels/969001918460469250/969308056208961606/996417552962043924
-reply:
-    if there is no "root" delegate that a user uses to delegate to others, then all users will need a keypair, and every time they delegate to a service they'd have to explicitly sign & post on-chain (perhaps the delegate could cover the costs).
-
-    with hierarchical delegates a root delegate could even create accounts without keypairs and can then batch-submit lower-level delegations to services which will be just pairs of account integer ids and no signatures from specific end-users - much more compact
-
-
+The two killer apps of crypto are finance and identity, with the latter one not done properly (yet)
 
 
 

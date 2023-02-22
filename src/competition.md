@@ -440,6 +440,15 @@ Frequency (a Polkadot parachain) is the first implementation of DSNP (Decentrali
 
 deleting an old post requires re-merkleization of the tree
 
+competition page: batching & compactness (FC does have some fancy hub sync)
+
+farcaster is too opinionated
+
+Key rotation in competition - for lens perhaps account abstraction would help
+
+Farcaster: with or without CRDTs you should be processing everything anyway, and with a simple fork choice rule you wouldnt need crdts
+
+identifier type in the table - integer or hash of public key - in competition table
 
 
 on Nostr

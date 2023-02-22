@@ -14,6 +14,8 @@
     - [Throughput & scalability](numbers.md)
     - [Headjack vs the competition](competition.md)
 
+- [Why Headjack v2](topics.md)
+
 - [Why Headjack](motivation.md)
     - [Problems with the web](problems_with_the_web.md)
         - [The host-centric web](host_centric.md)

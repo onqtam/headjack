@@ -259,6 +259,7 @@ https://brave.com/themis/
 
 Business models - what can IDMs charge for - archive content more than 5gb
 
+business model: develop open source with a license for commercial use that requires payment - that's ok
 
 
 Twitters revenue does not go to its users - 0 attribution for them

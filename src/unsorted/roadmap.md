@@ -2,12 +2,18 @@
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png">
 </div>
 
+# Secret master plan - or Tech tree
 
 # Go to market & growth strategy
 
 - first 1k/10k indexes reserved & given with auctions/randomly to influential ppl
     - elon could get index 42 - the answer to the universe
 
+
+growth hack: show some badge who invited you to the network (and how many people you have invited) - perhaps with some referral link initially?
+
+Strategy: use platform APIs to link web2 platform accounts to a headjack account for a gradual transition - as an overlay
+Adapters for current web2 platforma - wrap actions in messages that point to the web2 platform?
 
 - the OAuth-like experience - a major selling point, web2 feel
 

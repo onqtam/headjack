@@ -4,6 +4,19 @@ Tying data to identity and making it freely available & outside of silos through
 
 <!-- toc -->
 
+TODO:
+
+infrastructure - no need for a robots.txt file anymore - they were initially introduced because of [a badly-behaved web crawler that inadvertently caused a denial-of-service attack](https://en.wikipedia.org/wiki/Robots.txt#:~:text=a%20badly%2Dbehaved%20web%20crawler%20that%20inadvertently%20caused%20a%20denial%2Dof%2Dservice%20attack)
+https://en.wikipedia.org/wiki/Robots.txt
+sitemaps are also not necessary - they are used to inform crawlers when specific pages were last updated & how often they change, but that's obsolete in a push environment
+https://en.wikipedia.org/wiki/Sitemaps
+EDIT: actually sitemaps are only partially outdated - what about pages that are not reachable at all? that's when sitemaps are also useful - to explicitly mention them
+
+
+for search engines to rank modern dynamic & single page apps they need to render them server-side - this can be skipped if data is decoupled from presentation and if the ranking engine is simply listening for document updates. They also currently cache the entire pages - just like an archival service. Massive benefits in a push vs a pull system for crawlers & indexers
+
+
+
 # Code as addressable data
 
 Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
