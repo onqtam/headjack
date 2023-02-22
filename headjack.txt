@@ -44,7 +44,6 @@ What if people subscribed to specific types of events by others, in effect guidi
 
 
 
-the ability to toggle the display of highlights & interlinked objects - turning plain text into a wikipedia-like page
 
 
 
@@ -62,9 +61,10 @@ what if you could define additional filtering criteria for sources - like anythi
 
 > "So when we tell people that “if they want privacy” for their data they should just upload it to their local computer: tell them your local Computer Science professor did that, and the result is that he lost half the photos of his son’s birth." - [Matthew Green](https://twitter.com/matthew_d_green/status/1624462558118789123)
 
-
 > "If your social media app requires people to use public keys, then you probably don’t understand what “social” means." - [Matthew Green](https://twitter.com/matthew_d_green/status/1620832280955719681)
 
+MEME: they don't know they can talk to me if they know my public keys
+https://twitter.com/ArvinK/status/1620833678816575488
 
 
 
@@ -137,117 +137,8 @@ The internet is rife with (deliberate) misinformation
 
 a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
 
-imagine being able to view a multi-level depth tree with all citations and conversations and conversations around those conversations and being able to filter the "outcome" based on criteria - labels/annotations/reactions and who we trust for placing those labels/annotations/reactions
-
-imagine being able to pick your "wikipedia editors" - people who curate information in the open web while building a track record - and then anyone would be able to filter information differently based on their own personal criteria - multiple times from different angles (perhaps also by adopting someone else's criteria?)
 
 the future of search is being able to re-run aggregation & statistics based on different filters
-
-
-
-
-
-spamgularity
-https://twitter.com/DanielleFong/status/1622315719298883584
-
-
-
-
-
-deepfake Lexman Artificial & Eric Weinstein
-https://twitter.com/lexman_ai/status/1615861599197171713
-
-
-
-
-MEME: they don't know they can talk to me if they know my public keys
-https://twitter.com/ArvinK/status/1620833678816575488
-
-
-Reveal Reddit's secretly* removed content. Search by username or subreddit (r/):
-https://www.reveddit.com/
-
-
-
-
-> "One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter."
-https://twitter.com/DavidVorick/status/1618277136938274817
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- competition - finish it !!!
-
-    - Point when comparing with others: multiple ways to ask for data from an URI as opposed to just a hash
-    - a URI is not connected to multiple entities and not just a hash - the application & user
-    - Others con - addressability does not include application names - no such direct client attribution mechanism
-    
-    - just because you can interlink everything with hashes doesn't mean that you should
-
-
-
-    - page about the key rotation & anchoring problem and where does the key rotation & revocation data live & latencies? - aka WHY SEQUENCE THIS
-
-- Point when comparing with others: 
-
-
-ANCHORING IS NOT ENOUGH! - you need to know which event invalidated the previous one without having to check if it was invalidated
-
-
-
-
-ordering guarantees?
-
-
-
-Pruned sets - how/which data is stored by hubs
-The protocol is trying to do too much
-Very opinionated - way beyond just decentralized identity
-the hub implementation has a lot of tough choices to make in regards to rate limiting, spam & storage limits/guarantees
-there is a consensus algorithm about 
-https://hackmd.io/@farcasterxyz/BJj3zuVVj
-
-farcaster makes the hubs a bottleneck for applications - instead of allowing different apps to provide their own storage
-
-All this complexity of sets, CRDTs, pruning & size limitations stems from the inability to address content by users without it being created by the hub - a user's hub is a bottleneck for applications
-What is a [CausalRemovesWinIfValid](https://hackmd.io/@farcasterxyz/BJj3zuVVj) set?
-
-> "We expect users to resign their messages when migrating between clients" - [source](https://hackmd.io/@farcasterxyz/HJzK5VM4o)
-wow...
-"When a signer is removed, all messages signed by it present in other CRDT's must now be considered invalid and evicted from those CRDTs."
-https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#72-signers
-however, even a custory address may change but it may re-authorize signers.
-but if a signer was compromised you have to lose everything signed by it
-
-A negative for headjack is that it's not trivial to obtain the latest version of a document for a URI - if it was deleted you'd probably need to ask the app or the IDM of the user if they have an update, but that update could have been submitted by another app
-
-
-
-Without anchoring data with a Merkle proof and sequencing that in time, it is impossible for a document to be fully self-authenticating because it might have been signed with keys that have been compromised/revoked/rotated.
 
 
 
@@ -256,44 +147,18 @@ Without anchoring data with a Merkle proof and sequencing that in time, it is im
 ████████████████████████████████████████████████ REAL TODO:
 
 
-- trim devbg presentation & send slides to devbg
-
-- ping protocol labs emails about the grant?
-
-have a slide about the so talked about superapp - and how it is actually complete personal freedom for the choice of what functionality you have in a dashboard
-
-be precise - which are the 2 layers on the 2 sides of the narrow waist - specific examples of functionality?
-
-its all preferences & expression and the vertical is along public and private - its a 2/2 square graph with 4 quadrants
-configuration attributes to accounts
-
-cheaper, faster, better
-
-- really think about the youtuber money flows in business models
 
 ████████████████████████████████████████████████ Notes from the 2nd half of November
 
-not engineered for a % of the market - engineered for the entire market
+100 ways to describe Headjack:
+- not engineered for a % of the market - engineered for the entire market
+- cheaper, faster, better
+- Headjack's block/content explorer is the next Google
 
 the only web3 identity/social solution that can partner with OAuth/OpenID - and they will signal-boost it
 
 when youtube removes a video of yours - it should still be available by you.
 
-
-history of seen tweets - like history of watched videos on youtube
-
-ability to set priorities for notifications and build a "home dashboard" that takes those into account
-
-farcaster implies a bottleneck with the user's hub
-
-We should all want informational freedom when it comes to querying public information
-
-stability of identifiers is crucial for relational databases.
-The relational model is built on the premise of stable identifiers.
-
-Encoding metadata in the uri avoids the need for requests
-
-your "desktop" for the apps & public data of the world
 
 social aggregation: the mirror within - as a chapter name about signaling of public preferences & poll opinions
 why are twitter polls only for 24 hours? and we can't see how specific people voted?
@@ -314,22 +179,11 @@ bringing capitalism to media - slide in pitch with the narrow waist and MxN
 distinction: public vs private info
 Public vs private posting. Choosing which preferences to show to all
 
-copy & follow the viewing preferences of others
 
 we can make anything referencable and because of the stable intra-document addressing and we can crowdsource a global reference heatmap of information
 
-imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
 
-different filters & thresholds for cold DMs - it should be easier for people from your communities to contact you. Such preferences should be possible.
-
-this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's a business model for it and demoand
-
-the super app of superapps section
-the superapp - the command center - as a chapter & what the gateway would be - what would the browser in the browser be like
-the way to crowdsource the global superapp through which we could do anything is to decentralize identity, end the host-centric model & allow for a market to emerge for any type of index
-The superapp section should go in "what really is"
-we can turn the web into a personal computer for the public information
-the superapp is the "how would you like to spend your attention" superapp
+this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's demand & a business model for it
 
 
 imagine browsing the public web like it was your personal files in your apps and drives - having total control of how you store and group that data. This could be the case with the public web. And we could advertise what kind of filters & grouping options we prefer with public messages which are not options. we can crowdsource preference and show which things are preferred. We can end the binary duopoly in politics by making all opinions and interests unbundled from each other
@@ -337,30 +191,20 @@ imagine browsing the public web like it was your personal files in your apps and
 
 services will no longer have the host-centric model to point to as the reason for siloing data - just the fact that we would give an address to our documents that is beyond any specific host is enough of a reason for the nature of competition to change
 
-the block/content explorer of this ecosystem will be the next google
-
-page about IDMs and what they could personalize for you
-
-A single on-chain message that updates an rpc/rest endpoint can redirect trillions of URIs and exabytes of data instantly - no global DHT used for individual elements
-
-When a key is rotated it doesn’t affect old content for it to be self-authenticating
-
-Insight: names are most useful when in document URIs - not used to identify your personal finances publicly
 
 Global vs local for the feed - locality of information & notifications!
 
-composable media - pick a recommender algo, search, UI
-
 Section: certifiable (verifiable?) credentials and attestations
 
-focus more on the separation of actual data and the presentation layer for archiving?
 
-we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
 granularity of verification? many verticals? a bouquet of attestations
 
 
-When you show your Attention you get attention for it - in regards to the signaling
+
+
+
+Community-centric
 
 twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
 
@@ -1236,5 +1080,8 @@ IDMs could be responsible for producing "streams" of the user activity - by simp
 
 can produce ZKPs for off-chain counts & aggregates and submit those to transactional settlement layers as smart contract inputs
 
+
+
+the ability to toggle the display of highlights & interlinked objects - turning plain text into a wikipedia-like page
 
 

@@ -509,6 +509,66 @@ infra need to store signatures & proofs?
 upper limit for total data on the network/protocol
 
 
+
+
+
+
+- competition - finish it !!!
+
+    - Point when comparing with others: multiple ways to ask for data from an URI as opposed to just a hash
+    - a URI is not connected to multiple entities and not just a hash - the application & user
+    - Others con - addressability does not include application names - no such direct client attribution mechanism
+    
+    - just because you can interlink everything with hashes doesn't mean that you should
+
+
+
+    - page about the key rotation & anchoring problem and where does the key rotation & revocation data live & latencies? - aka WHY SEQUENCE THIS
+
+
+ANCHORING IS NOT ENOUGH! - you need to know which event invalidated the previous one without having to check if it was invalidated
+
+ordering guarantees?
+
+Pruned sets - how/which data is stored by hubs
+The protocol is trying to do too much
+Very opinionated - way beyond just decentralized identity
+the hub implementation has a lot of tough choices to make in regards to rate limiting, spam & storage limits/guarantees
+there is a consensus algorithm about 
+https://hackmd.io/@farcasterxyz/BJj3zuVVj
+
+farcaster makes the hubs a bottleneck for applications - instead of allowing different apps to provide their own storage
+
+All this complexity of sets, CRDTs, pruning & size limitations stems from the inability to address content by users without it being created by the hub - a user's hub is a bottleneck for applications
+What is a [CausalRemovesWinIfValid](https://hackmd.io/@farcasterxyz/BJj3zuVVj) set?
+
+> "We expect users to resign their messages when migrating between clients" - [source](https://hackmd.io/@farcasterxyz/HJzK5VM4o)
+wow...
+"When a signer is removed, all messages signed by it present in other CRDT's must now be considered invalid and evicted from those CRDTs."
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#72-signers
+however, even a custory address may change but it may re-authorize signers.
+but if a signer was compromised you have to lose everything signed by it
+
+A negative for headjack is that it's not trivial to obtain the latest version of a document for a URI - if it was deleted you'd probably need to ask the app or the IDM of the user if they have an update, but that update could have been submitted by another app
+
+
+
+Without anchoring data with a Merkle proof and sequencing that in time, it is impossible for a document to be fully self-authenticating because it might have been signed with keys that have been compromised/revoked/rotated.
+
+Encoding metadata in the uri avoids the need for requests
+
+
+A single on-chain message that updates an rpc/rest endpoint can redirect trillions of URIs and exabytes of data instantly - no global DHT used for individual elements
+
+When a key is rotated it doesn’t affect old content for it to be self-authenticating
+
+Insight: names are most useful when in document URIs - not used to identify your personal finances publicly
+
+
+
+
+
+
 Farcaster focuses on eventual consistency with CRDTs & Delta Graphs but the elephant in the room is different counts based on different filters which cannot be done with CRDTs easily.
 ACTUALLY not sure if that's true :|
 but perhaps CRDTs are just not as performant for trillions of likes

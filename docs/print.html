@@ -1681,6 +1681,66 @@ infra need to store signatures & proofs?
 upper limit for total data on the network/protocol
 
 
+
+
+
+
+- competition - finish it !!!
+
+    - Point when comparing with others: multiple ways to ask for data from an URI as opposed to just a hash
+    - a URI is not connected to multiple entities and not just a hash - the application & user
+    - Others con - addressability does not include application names - no such direct client attribution mechanism
+    
+    - just because you can interlink everything with hashes doesn't mean that you should
+
+
+
+    - page about the key rotation & anchoring problem and where does the key rotation & revocation data live & latencies? - aka WHY SEQUENCE THIS
+
+
+ANCHORING IS NOT ENOUGH! - you need to know which event invalidated the previous one without having to check if it was invalidated
+
+ordering guarantees?
+
+Pruned sets - how/which data is stored by hubs
+The protocol is trying to do too much
+Very opinionated - way beyond just decentralized identity
+the hub implementation has a lot of tough choices to make in regards to rate limiting, spam & storage limits/guarantees
+there is a consensus algorithm about 
+https://hackmd.io/@farcasterxyz/BJj3zuVVj
+
+farcaster makes the hubs a bottleneck for applications - instead of allowing different apps to provide their own storage
+
+All this complexity of sets, CRDTs, pruning & size limitations stems from the inability to address content by users without it being created by the hub - a user's hub is a bottleneck for applications
+What is a [CausalRemovesWinIfValid](https://hackmd.io/@farcasterxyz/BJj3zuVVj) set?
+
+> "We expect users to resign their messages when migrating between clients" - [source](https://hackmd.io/@farcasterxyz/HJzK5VM4o)
+wow...
+"When a signer is removed, all messages signed by it present in other CRDT's must now be considered invalid and evicted from those CRDTs."
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#72-signers
+however, even a custory address may change but it may re-authorize signers.
+but if a signer was compromised you have to lose everything signed by it
+
+A negative for headjack is that it's not trivial to obtain the latest version of a document for a URI - if it was deleted you'd probably need to ask the app or the IDM of the user if they have an update, but that update could have been submitted by another app
+
+
+
+Without anchoring data with a Merkle proof and sequencing that in time, it is impossible for a document to be fully self-authenticating because it might have been signed with keys that have been compromised/revoked/rotated.
+
+Encoding metadata in the uri avoids the need for requests
+
+
+A single on-chain message that updates an rpc/rest endpoint can redirect trillions of URIs and exabytes of data instantly - no global DHT used for individual elements
+
+When a key is rotated it doesn’t affect old content for it to be self-authenticating
+
+Insight: names are most useful when in document URIs - not used to identify your personal finances publicly
+
+
+
+
+
+
 Farcaster focuses on eventual consistency with CRDTs & Delta Graphs but the elephant in the room is different counts based on different filters which cannot be done with CRDTs easily.
 ACTUALLY not sure if that's true :|
 but perhaps CRDTs are just not as performant for trillions of likes
@@ -1863,11 +1923,10 @@ https://imgflip.com/memegenerator/112528910/Guy-checks-out-red-dress-girl -->
 <li><a href="topics.html#second-brain">second brain</a></li>
 <li><a href="topics.html#wikipedia">wikipedia</a></li>
 <li><a href="topics.html#querying--palantir-foundry">querying &amp; palantir foundry</a></li>
-<li><a href="topics.html#provenance--deduplication">provenance &amp; deduplication</a></li>
+<li><a href="topics.html#provenance-deduplication--authenticity">provenance, deduplication &amp; authenticity</a></li>
 <li><a href="topics.html#moderation">Moderation</a></li>
 <li><a href="topics.html#structured-data--improving-the-signalnoise-ratio">Structured data &amp; improving the signal/noise ratio</a></li>
 <li><a href="topics.html#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></li>
-<li><a href="topics.html#idms--personal-stuff">IDMs &amp; personal stuff</a></li>
 <li><a href="topics.html#cryptohistory">cryptohistory</a></li>
 <li><a href="topics.html#security--cant-be-evil">security &amp; can't be evil</a></li>
 </ul>
@@ -1962,6 +2021,8 @@ Google failed - they didnt organize the worlds information - they merely ranked 
 <p>stable identity keys allows for stable concept/collection/noun keys which allows for stable mapping and deduplication of concepts</p>
 <p>We need to deduplicate &amp; reduce the amount of unique joinable keys for nouns, concepts, events &amp; products. In the case when the same noun is published multiple times by different entities - maps of equivalence could be published so that nouns are equated to mean the same thing. We should be able to toggle which equivalence maps to enable.</p>
 <p>joinability</p>
+<p>stability of identifiers is crucial for relational databases.
+The relational model is built on the premise of stable identifiers.</p>
 <p>key stability ==&gt; information deduplication &amp; integration</p>
 <p>If you choose an obscure tag or even if its the same but from an unpopular collection you'd simply limit your visibility &amp; discoverability - there's an implied incentive to use the most popular collections when tagging your content</p>
 <p>We should be able to view the most pressing questions for public figures and CEOs
@@ -2003,6 +2064,8 @@ https://en.wikipedia.org/wiki/DIKW_pyramid</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="multidimensionality"><a class="header" href="#multidimensionality">Multidimensionality</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>configuration attributes to accounts</p>
+<p>history of seen tweets - like history of watched videos on youtube</p>
 <p>we have many facets to our personalities - we could share a lot more
 we are social creatures</p>
 <p>not multidimensional subscriptions but fractal/granular</p>
@@ -2021,6 +2084,9 @@ https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordio
 <p>your profile page - a linktree-like thing
 every change, every edit, every commit - all could be linked to your identity if you wished it</p>
 <p>view profile relevant to the current app VS view full profile with all activity</p>
+<p>copy &amp; follow the viewing preferences of others</p>
+<p>When you show your Attention (what algorithms, apps &amp; settings you're using, &amp; even your history) you get attention for it - in regards to the signaling</p>
+<p>Currently only the platforms get to analyze your behavior - you should be able to choose to let anyone analyze it for the commons</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="expressivity"><a class="header" href="#expressivity">Expressivity</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2039,6 +2105,18 @@ To be a good little neuron</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?</p>
 <p>what if your IDM kept a list of everything you've seen so it can be displayed in the UI?</p>
+<blockquote>
+<p>&quot;One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter.&quot;
+https://twitter.com/DavidVorick/status/1618277136938274817</p>
+</blockquote>
+<p>different filters &amp; thresholds for cold DMs - it should be easier for people from your communities to contact you. Such preferences should be possible.</p>
+<p>TODO: add this in the attention &amp; alarms &amp; notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
+What If You Quit Social Media For 30 Days?
+https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
+<p>the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged</p>
+<p>imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a &quot;seen&quot; list with URIs which you can later browse like the history in youtube - something like this should exist</p>
+<p>ability to set priorities for notifications and build a &quot;home dashboard&quot; that takes those into account</p>
+<p>your &quot;desktop&quot; for the apps &amp; public data of the world</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="the-superapp"><a class="header" href="#the-superapp">The superapp</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2049,6 +2127,12 @@ To be a good little neuron</p>
 <blockquote>
 <p>&quot;True super apps are more akin to an operating system than any Western app&quot; - <a href="https://a16z.com/2022/12/16/super-app-definition-guide/?utm_medium=email&amp;utm_source=newsletter&amp;mkt_tok=MzgyLUpaQi03OTgAAAGJQMdh1n4aMbHdtay_ewCk1kpxnMzQW3u6X4kjIBkQJvTywO1ZZR7C1EzeoBFZCUCKYlmCbu2lwlrl2jRvPWa0HIQSTpr4KmZxzGynKkzLJg#:~:text=True%20super%20apps%20are%20more%20akin%20to%20an%20operating%20system%20than%20any%20Western%20app">a16z: What is a Super App? - Connie Chan</a></p>
 </blockquote>
+<p>the super app of superapps section
+the superapp - the command center - as a chapter &amp; what the gateway would be - what would the browser in the browser be like
+the way to crowdsource the global superapp through which we could do anything is to decentralize identity, end the host-centric model &amp; allow for a market to emerge for any type of index
+The superapp section should go in &quot;what really is&quot;
+we can turn the web into a personal computer for the public information
+the superapp is the &quot;how would you like to spend your attention&quot; superapp</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="second-brain"><a class="header" href="#second-brain">second brain</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2060,6 +2144,7 @@ To be a good little neuron</p>
 <p>Wikipedia and different prisms
 Slicing and dicing - chapter name</p>
 <p>we can use something like ChatGTP to summarize the results of polls from different points of view and write the text for a topic and always keep it up to date. This is the decentralized wikipedia.</p>
+<p>imagine being able to pick your &quot;wikipedia editors&quot; - people who curate information in the open web while building a track record - and then anyone would be able to filter information differently based on their own personal criteria - multiple times from different angles (perhaps also by adopting someone else's criteria?)</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="querying--palantir-foundry"><a class="header" href="#querying--palantir-foundry">querying &amp; palantir foundry</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2075,8 +2160,10 @@ reproducibility</p>
 <p>the decision maker: build trees of predicates and based on truth for each of them you can determine the outcome. Be able to play with such a system</p>
 <p>you stumble upon a statement by an account and you also see a few of their other statements and completely disagree with them. What if you could run a query over all of their statements such as &quot;how much overlap does their worldview have with mine&quot;?</p>
 <p>What if everyone could have such a computed score for every other account?</p>
+<p>imagine being able to view a multi-level depth tree with all citations and conversations and conversations around those conversations and being able to filter the &quot;outcome&quot; based on criteria - labels/annotations/reactions and who we trust for placing those labels/annotations/reactions</p>
+<p>We should all want informational freedom when it comes to querying public information</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
-<h1 id="provenance--deduplication"><a class="header" href="#provenance--deduplication">provenance &amp; deduplication</a></h1>
+<h1 id="provenance-deduplication--authenticity"><a class="header" href="#provenance-deduplication--authenticity">provenance, deduplication &amp; authenticity</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>https://en.wikipedia.org/wiki/Data_lineage</p>
 <blockquote>
@@ -2086,6 +2173,9 @@ reproducibility</p>
 <p>apps should be able to show you all references to a document - perhaps they might show specific UIs for those that are supported and all others should be in the &quot;other&quot; list without visualization</p>
 <p>on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
 Message types should be on-chain nouns</p>
+<p>deepfake Lexman Artificial &amp; Eric Weinstein
+https://twitter.com/lexman_ai/status/1615861599197171713</p>
+<p>we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="moderation"><a class="header" href="#moderation">Moderation</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2098,6 +2188,8 @@ can't be evil</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <p>nature has removed every unnecessary bit when it comes to exchange of information - and so should we.</p>
 <p>information theory very well could be as important as or even fundamental to matter &amp; the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it</p>
+<p>spamgularity
+https://twitter.com/DanielleFong/status/1622315719298883584</p>
 <p>signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth</p>
 <p>Let's take 2 sides of a debate around vaccines - Brett Weinstein &amp; Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets &amp; watching endless podcasts &amp; episodes. Their opinions should have been codified with structured data &amp; logged in a time-series.</p>
 <p>the hammer is language and unfortunately every problem is a nail</p>
@@ -2131,13 +2223,6 @@ https://twitter.com/gordonbrander/status/1622999277411741698</p>
 <p>even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish</p>
 <p>Public/private mode for the entire account</p>
 <p>toggling privacy levels (users could mess that up though...)</p>
-<p>██████████████████████████████████████████████████████████████████████████████</p>
-<h1 id="idms--personal-stuff"><a class="header" href="#idms--personal-stuff">IDMs &amp; personal stuff</a></h1>
-<p>██████████████████████████████████████████████████████████████████████████████</p>
-<p>TODO: add this in the attention &amp; alarms &amp; notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
-What If You Quit Social Media For 30 Days?
-https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
-<p>the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="cryptohistory"><a class="header" href="#cryptohistory">cryptohistory</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2194,6 +2279,8 @@ https://twitter.com/disclosetv/status/1621843921578991616</p>
 <blockquote>
 <p>&quot;Companies make promises. Protocols make guarantees.&quot; - <a href="https://www.syncracy.io/writing/writing-meditationsonmayhem">source</a></p>
 </blockquote>
+<p>Reveal Reddit's secretly* removed content. Search by username or subreddit (r/):
+https://www.reveddit.com/</p>
 <div style="break-before: page; page-break-before: always;"></div><ul>
 <li><a href="collective_intelligence.html#collective-intelligence--sensemaking">collective intelligence &amp; sensemaking</a></li>
 <li><a href="collective_intelligence.html#voting--liquid-democracy">voting &amp; liquid democracy</a></li>
@@ -3178,6 +3265,7 @@ sitemaps are also not necessary - they are used to inform crawlers when specific
 https://en.wikipedia.org/wiki/Sitemaps
 EDIT: actually sitemaps are only partially outdated - what about pages that are not reachable at all? that's when sitemaps are also useful - to explicitly mention them</p>
 <p>for search engines to rank modern dynamic &amp; single page apps they need to render them server-side - this can be skipped if data is decoupled from presentation and if the ranking engine is simply listening for document updates. They also currently cache the entire pages - just like an archival service. Massive benefits in a push vs a pull system for crawlers &amp; indexers</p>
+<p>focus more on the separation of actual data and the presentation layer for archiving?</p>
 <h1 id="code-as-addressable-data"><a class="header" href="#code-as-addressable-data">Code as addressable data</a></h1>
 <p>Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.</p>
 <p>TODO: this wouldn't be necessary
@@ -3488,6 +3576,7 @@ https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-i
 <p>^^ this can be done through verifiable computation &amp; sharing indexes between publishers &amp; advertisers within index infrastructure.</p>
 <p><a href="https://www.thepullrequest.com/p/attribution-rules-the-world-and-itll">This article</a> posits that attribution has to go on-chain but Headjack offers an alternative - through the infrastructure companies.</p>
 <p>It is inevitable that mass media &amp; aggregation will be handled by centralized services that can save user details in logs - what we could do is make a market for user data and make it easier to opt out of such data harvesting with alternatives &amp; a way for whistleblowers to prove if a contract hasn't been honoured.</p>
+<p>composable media - pick a recommender algo, search, UI</p>
 <p>the history of actions and tracked events would be private and shared only between infra platforms and ppl paying for ads?</p>
 <p>Identity wants to emerge
 Over the long run, any stable joinable key becomes an identity as it accumulates more correlated information about you.
@@ -3574,7 +3663,7 @@ Privacy-first Ad Exchanges — Brave’s Themis uses zero-knowledge proofs to co
 https://multicoin.capital/2023/01/11/the-web3-growth-stack/
 https://brave.com/themis/
 
-
+- really think about the youtuber money flows in business models
 
 Business models - what can IDMs charge for - archive content more than 5gb
 

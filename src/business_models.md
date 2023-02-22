@@ -108,6 +108,8 @@ de-duplication through content addressing & adding traceability of content helps
 It is inevitable that mass media & aggregation will be handled by centralized services that can save user details in logs - what we could do is make a market for user data and make it easier to opt out of such data harvesting with alternatives & a way for whistleblowers to prove if a contract hasn't been honoured.
 
 
+composable media - pick a recommender algo, search, UI
+
 
 
 the history of actions and tracked events would be private and shared only between infra platforms and ppl paying for ads?
@@ -255,7 +257,7 @@ Privacy-first Ad Exchanges — Brave’s Themis uses zero-knowledge proofs to co
 https://multicoin.capital/2023/01/11/the-web3-growth-stack/
 https://brave.com/themis/
 
-
+- really think about the youtuber money flows in business models
 
 Business models - what can IDMs charge for - archive content more than 5gb
 

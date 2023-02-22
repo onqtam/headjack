@@ -141,6 +141,9 @@ We need to deduplicate & reduce the amount of unique joinable keys for nouns, co
 
 joinability
 
+stability of identifiers is crucial for relational databases.
+The relational model is built on the premise of stable identifiers.
+
 key stability ==> information deduplication & integration
 
 If you choose an obscure tag or even if its the same but from an unpopular collection you'd simply limit your visibility & discoverability - there's an implied incentive to use the most popular collections when tagging your content
@@ -205,6 +208,10 @@ uploading a clip that could have easily just referenced a part of the whole shou
 # Multidimensionality
 ██████████████████████████████████████████████████████████████████████████████
 
+configuration attributes to accounts
+
+history of seen tweets - like history of watched videos on youtube
+
 we have many facets to our personalities - we could share a lot more
 we are social creatures
 
@@ -231,6 +238,12 @@ every change, every edit, every commit - all could be linked to your identity if
 
 view profile relevant to the current app VS view full profile with all activity
 
+copy & follow the viewing preferences of others
+
+When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
+
+Currently only the platforms get to analyze your behavior - you should be able to choose to let anyone analyze it for the commons
+
 ██████████████████████████████████████████████████████████████████████████████
 # Expressivity
 ██████████████████████████████████████████████████████████████████████████████
@@ -256,6 +269,23 @@ What if IDMs filled that role? What if IDMs could integrate with browsers such t
 
 what if your IDM kept a list of everything you've seen so it can be displayed in the UI?
 
+> "One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter."
+https://twitter.com/DavidVorick/status/1618277136938274817
+
+different filters & thresholds for cold DMs - it should be easier for people from your communities to contact you. Such preferences should be possible.
+
+TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
+What If You Quit Social Media For 30 Days?
+https://www.youtube.com/watch?v=_u5p6hwS5SM
+
+the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged
+
+imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
+
+ability to set priorities for notifications and build a "home dashboard" that takes those into account
+
+your "desktop" for the apps & public data of the world
+
 ██████████████████████████████████████████████████████████████████████████████
 # The superapp
 ██████████████████████████████████████████████████████████████████████████████
@@ -269,6 +299,13 @@ what if your home page was like a desktop?
 "The superapp is a browser with a configurable/dockable layout"
 
 > "True super apps are more akin to an operating system than any Western app" - [a16z: What is a Super App? - Connie Chan](https://a16z.com/2022/12/16/super-app-definition-guide/?utm_medium=email&utm_source=newsletter&mkt_tok=MzgyLUpaQi03OTgAAAGJQMdh1n4aMbHdtay_ewCk1kpxnMzQW3u6X4kjIBkQJvTywO1ZZR7C1EzeoBFZCUCKYlmCbu2lwlrl2jRvPWa0HIQSTpr4KmZxzGynKkzLJg#:~:text=True%20super%20apps%20are%20more%20akin%20to%20an%20operating%20system%20than%20any%20Western%20app)
+
+the super app of superapps section
+the superapp - the command center - as a chapter & what the gateway would be - what would the browser in the browser be like
+the way to crowdsource the global superapp through which we could do anything is to decentralize identity, end the host-centric model & allow for a market to emerge for any type of index
+The superapp section should go in "what really is"
+we can turn the web into a personal computer for the public information
+the superapp is the "how would you like to spend your attention" superapp
 
 ██████████████████████████████████████████████████████████████████████████████
 # second brain
@@ -287,6 +324,7 @@ Slicing and dicing - chapter name
 
 we can use something like ChatGTP to summarize the results of polls from different points of view and write the text for a topic and always keep it up to date. This is the decentralized wikipedia.
 
+imagine being able to pick your "wikipedia editors" - people who curate information in the open web while building a track record - and then anyone would be able to filter information differently based on their own personal criteria - multiple times from different angles (perhaps also by adopting someone else's criteria?)
 
 ██████████████████████████████████████████████████████████████████████████████
 # querying & palantir foundry
@@ -312,8 +350,12 @@ you stumble upon a statement by an account and you also see a few of their other
 
 What if everyone could have such a computed score for every other account?
 
+imagine being able to view a multi-level depth tree with all citations and conversations and conversations around those conversations and being able to filter the "outcome" based on criteria - labels/annotations/reactions and who we trust for placing those labels/annotations/reactions
+
+We should all want informational freedom when it comes to querying public information
+
 ██████████████████████████████████████████████████████████████████████████████
-# provenance & deduplication
+# provenance, deduplication & authenticity
 ██████████████████████████████████████████████████████████████████████████████
 
 https://en.wikipedia.org/wiki/Data_lineage
@@ -325,6 +367,11 @@ apps should be able to show you all references to a document - perhaps they migh
 
 on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
 Message types should be on-chain nouns
+
+deepfake Lexman Artificial & Eric Weinstein
+https://twitter.com/lexman_ai/status/1615861599197171713
+
+we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
 
 ██████████████████████████████████████████████████████████████████████████████
@@ -345,6 +392,9 @@ can't be evil
 nature has removed every unnecessary bit when it comes to exchange of information - and so should we.
 
 information theory very well could be as important as or even fundamental to matter & the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it
+
+spamgularity
+https://twitter.com/DanielleFong/status/1622315719298883584
 
 signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
 
@@ -402,15 +452,6 @@ Public/private mode for the entire account
 
 toggling privacy levels (users could mess that up though...)
 
-██████████████████████████████████████████████████████████████████████████████
-# IDMs & personal stuff
-██████████████████████████████████████████████████████████████████████████████
-
-TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
-What If You Quit Social Media For 30 Days?
-https://www.youtube.com/watch?v=_u5p6hwS5SM
-
-the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged
 
 ██████████████████████████████████████████████████████████████████████████████
 # cryptohistory
@@ -471,5 +512,8 @@ https://twitter.com/disclosetv/status/1621843921578991616
 > "Rule of law and property rights in the digital domain are unreliable with powerful centralized intermediaries at the helm and there are serious political and economic consequences." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
 
 > "Companies make promises. Protocols make guarantees." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+
+Reveal Reddit's secretly* removed content. Search by username or subreddit (r/):
+https://www.reveddit.com/
 
 
