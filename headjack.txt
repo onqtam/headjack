@@ -63,6 +63,7 @@ what if you could define additional filtering criteria for sources - like anythi
 > "So when we tell people that “if they want privacy” for their data they should just upload it to their local computer: tell them your local Computer Science professor did that, and the result is that he lost half the photos of his son’s birth." - [Matthew Green](https://twitter.com/matthew_d_green/status/1624462558118789123)
 
 
+> "If your social media app requires people to use public keys, then you probably don’t understand what “social” means." - [Matthew Green](https://twitter.com/matthew_d_green/status/1620832280955719681)
 
 
 
@@ -88,6 +89,7 @@ The 2 scarcest resources: time & attention
 > “To be everywhere is to be nowhere.” ― Seneca
 
 
+> "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert A. Simon
 
 
 
@@ -99,18 +101,6 @@ The 2 scarcest resources: time & attention
 
 
 
-voting ZK stuff
-https://research.aragon.org/
-TODO: sismo here
-https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603
-https://forum.aragon.org/t/blind-ovote-ovote-with-blind-signatures-for-voter-anonymity/3881
-https://vitalik.ca/general/2022/06/15/using_snarks.html
-https://github.com/privacy-scaling-explorations/maci/
-https://w3c-ccg.github.io/ldp-bbs2020/
-https://link.springer.com/chapter/10.1007/3-540-36413-7_20
-what to want from voting: privacy, correct execution, coercion-resistance (not being able to prove how you voted) and censorship resistance to the voting context
-https://github.com/enricobottazzi/ZK-SBT
-quadratic voting? https://www.radicalxchange.org/concepts/plural-voting/
 
 
 
@@ -119,23 +109,19 @@ REACTION with a comment/note - still structured data, but with added expressiven
 
 
 
-the decision maker: build trees of predicates and based on truth for each of them you can determine the outcome. Be able to play with such a system
 
 
 
-you stumble upon a statement by an account and you also see a few of their other statements and completely disagree with them. What if you could run a query over all of their statements such as "how much overlap does their worldview have with mine"?
-What if everyone could have such a computed score for every other account?
 
 
-by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data
+
+
 
 youtube's reaction to swarm downvoting is "remove the count". This system allows you to filter the count any way you want
 
 
 
 
-badges:
-https://twitter.com/TitterTakeover/status/1622323886611202051
 
 
 
@@ -160,17 +146,12 @@ the future of search is being able to re-run aggregation & statistics based on d
 
 
 
-can't be evil
-UPDATE - Wikipedia is blocked in Pakistan now.
-https://twitter.com/disclosetv/status/1621843921578991616
-
 
 spamgularity
 https://twitter.com/DanielleFong/status/1622315719298883584
 
 
-Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads
-https://twitter.com/elonmusk/status/1621544497388875777
+
 
 
 deepfake Lexman Artificial & Eric Weinstein
@@ -178,7 +159,6 @@ https://twitter.com/lexman_ai/status/1615861599197171713
 
 
 
-> "If your social media app requires people to use public keys, then you probably don’t understand what “social” means." - [Matthew Green](https://twitter.com/matthew_d_green/status/1620832280955719681)
 
 MEME: they don't know they can talk to me if they know my public keys
 https://twitter.com/ArvinK/status/1620833678816575488
@@ -196,30 +176,19 @@ https://twitter.com/DavidVorick/status/1618277136938274817
 
 
 
-> "Central to wisdom are aspects of perspectival meta-cognition" - [The Science of Wisdom in a Polarized World: Knowns and Unknowns, 2020](https://www.researchgate.net/publication/341653068_The_Science_of_Wisdom_in_a_Polarized_World_Knowns_and_Unknowns)
 
-The ability to take multiple perspectives and shift between them
 
-View as - why it would be useful
 
-John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition
-https://www.youtube.com/watch?v=8U2caURO-d4&list=PLND1JCRq8Vuj9U2DCHRN0gBfOwGy-Vcnq&index=61
 
-The current web incentivizes differentiation and no integration - and thus we get group think and echo chambers & bubbles - we lack the complexification of multiple views of the real world - we need to make breaking our own frames & making new ones easier
 
 
-> "Computer scientists, faced with the challenge of scaling, tend to fall back on a hierarchical scheme." - [source](https://twitter.com/gordonbrander/status/1127699384102080514)
 
 
-> "We mistake having likes and friends with actually having participatory social connectedness" - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022](https://youtu.be/8U2caURO-d4?t=3373)
 
-> "The internet doesn't have to go the way it is - there's a possibility of reorienting it that can undermine the bullshit and the fragmentation that makes us prey to the centralization forces" - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022](https://youtu.be/8U2caURO-d4?t=3420)
 
 
 
 
-we have many facets to our personalities - we could share a lot more
-we are social creatures
 
 
 
@@ -228,136 +197,8 @@ we are social creatures
 
 
 
-== can't be evil
-> "The rise of transparent, impartial, autonomous code in these mission critical areas is incredibly important as trust in institutions [continues decling](https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf) globally." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
 
-> "Rule of law and property rights in the digital domain are unreliable with powerful centralized intermediaries at the helm and there are serious political and economic consequences." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
 
-> "Companies make promises. Protocols make guarantees." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
-
-
-
-
-TODO: put in ledger of record
-> "It's not about fact checkers, it's about checkable facts." - [@balajis](https://twitter.com/balajis/status/1616198733032742912)
-
-
-
-
-== liquid democracy:
-
-Liquid Democracy with Google Votes
-https://www.youtube.com/watch?v=F4lkCECSBFw
-
-Forby: Collaborative Intelligence and Sensemaking
-https://www.youtube.com/@ForbyCollaborative/videos
-
-https://forby.io/blog/voting-systems
-
-https://en.wikipedia.org/wiki/LiquidFeedback
-
-https://github.com/DemocracyEarth/paper
-
-https://www.tdcommons.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1092&context=dpubs_series
-
-https://vitalik.ca/general/2021/05/25/voting2.html
-
-https://followmyvote.com/liquid-democracy/
-
-Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System
-https://arxiv.org/pdf/1911.08774.pdf
-
-
-liquid democracy can be used to inform how recommender systems work for any field - not just for political questions. Even content moderation
-
-
-ranked choice voting
-https://fairvote.org/our-reforms/ranked-choice-voting/
-
-
-
-
-The importance of history cannot be understated. This chapter could never do it justice so please refer to Balaji's book and the second "History as Trajectory" chapter.
-https://thenetworkstate.com/prologue
-It's a book more about history than anything else
-It's a book mostly about history
-
-
-> "Cryptohistory is Cryptographically Verifiable Macrohistory" - [Balaji's The Network State](https://thenetworkstate.com/microhistory-and-macrohistory#cryptohistory-is-cryptographically-verifiable-macrohistory)
-
-
-
-So what do we do about this world we are living in where content can be created by machines and ascribed to us?
-I think we will need to sign everything to signify its validity. When I say sign, I am thinking cryptographically signed, like you sign a transaction in your web3 wallet.
-(Fred Wilson, AVC, 2022, “Sign Everything”)
-https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU
-
-
-
-
-> "If the news is fake, imagine history" - [@AmuseChimp](https://twitter.com/naval/status/1322646025811554304)
-
-
-
-
-What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it. (Herbert A. Simon)
-
-
-
-
-
-> "Our ability to coordinate with each other is pretty fundamental to the selection of what we are as a species" - [Daniel Schmachtenberger](https://youtu.be/hGRNUw559SE?t=1658)
-
-
-
-
-
-
-
-timestamped events?
-    farcaster - no, user reported timestamp
-    "Delta timestamps can be used by applications when generating feeds of information for their users. Such timestamps are untrustworthy since they are user reported and the network cannot verify them. The timestamp trust model is like that of a blog where most users tend to be well behaved since a monitoring service at the application level can be used to detect timestamp abuse."
-
-App id/name in URIs for content generated through them
-
-proofs for the authorization or key ownership at the point of publication are not necessary! they can be reconstructed !!!
-
-infra need to store signatures & proofs?
-
-upper limit for total data on the network/protocol
-
-
-Farcaster focuses on eventual consistency with CRDTs & Delta Graphs but the elephant in the room is different counts based on different filters which cannot be done with CRDTs easily.
-ACTUALLY not sure if that's true :|
-but perhaps CRDTs are just not as performant for trillions of likes
-Our view is that using CRDTs is a constraint - like for example multi-dimensional follows with include/exclude filtering
-https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#3-delta-graph
-
-limits on data? size & retention?
-CRDTs are a limit for Farcaster.
-https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#33-bounding-graph-size
-https://hackmd.io/fCa8_RCEQ4qBYZjfnas9Zg
-
-
-
-partial view of the network allowed?
-    not for farcaster
-
-Why go theough the trouble of dealing with crdts and constrains if youll solve just one basic case and not everything thats possible?
-
-
-They aim for Hubs to have a complete view of the network and are aiming for everything to fit in 64TB o_O
-
-"we limit users to storing a finite number of deltas for each type and calculate the limits to keep the size of the graph under 64 TB."
-
-
-
-
-farcaster is too constraining because of the use of CRDTs
-The system cannot be extended by anyone because the Hubs need to agree to run the software that handles any new message type. The protocol is tied to the infra.
-
-
-Farcaster: a lot of complexity, a lot of limitations and no clear path to being general purpose & web-scale
 
 - competition - finish it !!!
 

@@ -85,6 +85,9 @@ the liquid democracy stuff can be used here to "vote" on who is a good curator f
 we can crowdsource X and gamify it into success - it's been done before with initiatives like foldit @home
 reputation! badges!
 
+badges:
+https://twitter.com/TitterTakeover/status/1622323886611202051
+
 ██████████████████████████████████████████████████████████████████████████████
 # stable documents
 ██████████████████████████████████████████████████████████████████████████████
@@ -202,6 +205,9 @@ uploading a clip that could have easily just referenced a part of the whole shou
 # Multidimensionality
 ██████████████████████████████████████████████████████████████████████████████
 
+we have many facets to our personalities - we could share a lot more
+we are social creatures
+
 not multidimensional subscriptions but fractal/granular
 
 how to think about the digital world
@@ -300,7 +306,11 @@ reproducibility
 
 a spreadsheet-like view over graph data - what if you could define owners of each cell so that they can update their elements and have that in a shared spreadsheet? And why not fork the sheet?
 
+the decision maker: build trees of predicates and based on truth for each of them you can determine the outcome. Be able to play with such a system
 
+you stumble upon a statement by an account and you also see a few of their other statements and completely disagree with them. What if you could run a query over all of their statements such as "how much overlap does their worldview have with mine"?
+
+What if everyone could have such a computed score for every other account?
 
 ██████████████████████████████████████████████████████████████████████████████
 # provenance & deduplication
@@ -373,6 +383,8 @@ what if we enable communication through structured data and formal methods on to
 
 so much expressed opinions & views are left unanalyzed & unaggregated because they're in text - they have an ephemeral impact for a moment and then fade
 
+by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data
+
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
 
 ██████████████████████████████████████████████████████████████████████████████
@@ -408,6 +420,18 @@ The highest standards of history are permanence and authenticity
 
 - point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
 
+> "If the news is fake, imagine history" - [@AmuseChimp](https://twitter.com/naval/status/1322646025811554304)
+
+> "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity. When I say sign, I am thinking cryptographically signed, like you sign a transaction in your web3 wallet." [Fred Wilson, AVC, 2022, “Sign Everything”](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
+
+> "It's not about fact checkers, it's about checkable facts." - [@balajis](https://twitter.com/balajis/status/1616198733032742912)
+
+The importance of history cannot be understated. This chapter could never do it justice so please refer to Balaji's book and the second "History as Trajectory" chapter.
+https://thenetworkstate.com/prologue
+It's a book more about history than anything else
+It's a book mostly about history
+
+> "Cryptohistory is Cryptographically Verifiable Macrohistory" - [Balaji's The Network State](https://thenetworkstate.com/microhistory-and-macrohistory#cryptohistory-is-cryptographically-verifiable-macrohistory)
 
 
 ██████████████████████████████████████████████████████████████████████████████
@@ -438,4 +462,14 @@ compromising important accounts and posting on their behalf - if their opsec is 
 
 can't be evil - provenance, immutability
 History should be immutable
+
+UPDATE - Wikipedia is blocked in Pakistan now.
+https://twitter.com/disclosetv/status/1621843921578991616
+
+> "The rise of transparent, impartial, autonomous code in these mission critical areas is incredibly important as trust in institutions [continues decling](https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf) globally." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+
+> "Rule of law and property rights in the digital domain are unreliable with powerful centralized intermediaries at the helm and there are serious political and economic consequences." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+
+> "Companies make promises. Protocols make guarantees." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+
 

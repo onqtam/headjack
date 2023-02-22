@@ -1665,6 +1665,56 @@ farcaster - limits on the number of signer keys, also what is the revocation pro
 designing from first principles - what needs to be decentralized? what's the common use case for 99.9% of cases? what are the guarantees we should provide - and nothing less?
 headjack is an exercise in minimalism
 
+> "Computer scientists, faced with the challenge of scaling, tend to fall back on a hierarchical scheme." - [source](https://twitter.com/gordonbrander/status/1127699384102080514)
+
+
+timestamped events?
+    farcaster - no, user reported timestamp
+    "Delta timestamps can be used by applications when generating feeds of information for their users. Such timestamps are untrustworthy since they are user reported and the network cannot verify them. The timestamp trust model is like that of a blog where most users tend to be well behaved since a monitoring service at the application level can be used to detect timestamp abuse."
+
+App id/name in URIs for content generated through them
+
+proofs for the authorization or key ownership at the point of publication are not necessary! they can be reconstructed !!!
+
+infra need to store signatures & proofs?
+
+upper limit for total data on the network/protocol
+
+
+Farcaster focuses on eventual consistency with CRDTs & Delta Graphs but the elephant in the room is different counts based on different filters which cannot be done with CRDTs easily.
+ACTUALLY not sure if that's true :|
+but perhaps CRDTs are just not as performant for trillions of likes
+Our view is that using CRDTs is a constraint - like for example multi-dimensional follows with include/exclude filtering
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#3-delta-graph
+
+limits on data? size & retention?
+CRDTs are a limit for Farcaster.
+https://github.com/farcasterxyz/protocol/tree/varunsrin/revise-v2-dec-4#33-bounding-graph-size
+https://hackmd.io/fCa8_RCEQ4qBYZjfnas9Zg
+
+
+
+partial view of the network allowed?
+    not for farcaster
+
+Why go theough the trouble of dealing with crdts and constrains if youll solve just one basic case and not everything thats possible?
+
+
+They aim for Hubs to have a complete view of the network and are aiming for everything to fit in 64TB o_O
+
+"we limit users to storing a finite number of deltas for each type and calculate the limits to keep the size of the graph under 64 TB."
+
+
+
+
+farcaster is too constraining because of the use of CRDTs
+The system cannot be extended by anyone because the Hubs need to agree to run the software that handles any new message type. The protocol is tied to the infra.
+
+
+Farcaster: a lot of complexity, a lot of limitations and no clear path to being general purpose & web-scale
+
+
+
 
 integer keys as opposed to hash-based keys - so that filtering is easy - by and/or-ing bitmaps
 this goes in competition table!
@@ -1876,6 +1926,8 @@ https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=Four%20Ways%20o
 <p>the liquid democracy stuff can be used here to &quot;vote&quot; on who is a good curator for different topics</p>
 <p>we can crowdsource X and gamify it into success - it's been done before with initiatives like foldit @home
 reputation! badges!</p>
+<p>badges:
+https://twitter.com/TitterTakeover/status/1622323886611202051</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="stable-documents"><a class="header" href="#stable-documents">stable documents</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -1951,6 +2003,8 @@ https://en.wikipedia.org/wiki/DIKW_pyramid</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="multidimensionality"><a class="header" href="#multidimensionality">Multidimensionality</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>we have many facets to our personalities - we could share a lot more
+we are social creatures</p>
 <p>not multidimensional subscriptions but fractal/granular</p>
 <p>how to think about the digital world</p>
 <ul>
@@ -2018,6 +2072,9 @@ Foundry 2022 Operating System Demo
 https://www.youtube.com/watch?v=uF-GSj-Exms
 reproducibility</p>
 <p>a spreadsheet-like view over graph data - what if you could define owners of each cell so that they can update their elements and have that in a shared spreadsheet? And why not fork the sheet?</p>
+<p>the decision maker: build trees of predicates and based on truth for each of them you can determine the outcome. Be able to play with such a system</p>
+<p>you stumble upon a statement by an account and you also see a few of their other statements and completely disagree with them. What if you could run a query over all of their statements such as &quot;how much overlap does their worldview have with mine&quot;?</p>
+<p>What if everyone could have such a computed score for every other account?</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="provenance--deduplication"><a class="header" href="#provenance--deduplication">provenance &amp; deduplication</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2061,6 +2118,7 @@ Importance/severity threshold/levels?</p>
 https://twitter.com/gordonbrander/status/1622999277411741698</p>
 <p>what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?</p>
 <p>so much expressed opinions &amp; views are left unanalyzed &amp; unaggregated because they're in text - they have an ephemeral impact for a moment and then fade</p>
+<p>by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data</p>
 <blockquote>
 <p>&quot;Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information&quot; - <a href="https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information">Wikipedia page about James Gleick's book &quot;The Information: A History, a Theory, a Flood&quot;</a></p>
 </blockquote>
@@ -2087,6 +2145,22 @@ https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
 <ul>
 <li>point: with AI being democratized - authenticity &amp; a ledger of record will be more important than ever.</li>
 </ul>
+<blockquote>
+<p>&quot;If the news is fake, imagine history&quot; - <a href="https://twitter.com/naval/status/1322646025811554304">@AmuseChimp</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity. When I say sign, I am thinking cryptographically signed, like you sign a transaction in your web3 wallet.&quot; <a href="https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU">Fred Wilson, AVC, 2022, “Sign Everything”</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;It's not about fact checkers, it's about checkable facts.&quot; - <a href="https://twitter.com/balajis/status/1616198733032742912">@balajis</a></p>
+</blockquote>
+<p>The importance of history cannot be understated. This chapter could never do it justice so please refer to Balaji's book and the second &quot;History as Trajectory&quot; chapter.
+https://thenetworkstate.com/prologue
+It's a book more about history than anything else
+It's a book mostly about history</p>
+<blockquote>
+<p>&quot;Cryptohistory is Cryptographically Verifiable Macrohistory&quot; - <a href="https://thenetworkstate.com/microhistory-and-macrohistory#cryptohistory-is-cryptographically-verifiable-macrohistory">Balaji's The Network State</a></p>
+</blockquote>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="security--cant-be-evil"><a class="header" href="#security--cant-be-evil">security &amp; can't be evil</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -2109,6 +2183,17 @@ Heads of state
 compromising important accounts and posting on their behalf - if their opsec is good enough (with keypairs)</p>
 <p>can't be evil - provenance, immutability
 History should be immutable</p>
+<p>UPDATE - Wikipedia is blocked in Pakistan now.
+https://twitter.com/disclosetv/status/1621843921578991616</p>
+<blockquote>
+<p>&quot;The rise of transparent, impartial, autonomous code in these mission critical areas is incredibly important as trust in institutions <a href="https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf">continues decling</a> globally.&quot; - <a href="https://www.syncracy.io/writing/writing-meditationsonmayhem">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;Rule of law and property rights in the digital domain are unreliable with powerful centralized intermediaries at the helm and there are serious political and economic consequences.&quot; - <a href="https://www.syncracy.io/writing/writing-meditationsonmayhem">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;Companies make promises. Protocols make guarantees.&quot; - <a href="https://www.syncracy.io/writing/writing-meditationsonmayhem">source</a></p>
+</blockquote>
 <div style="break-before: page; page-break-before: always;"></div><ul>
 <li><a href="collective_intelligence.html#collective-intelligence--sensemaking">collective intelligence &amp; sensemaking</a></li>
 <li><a href="collective_intelligence.html#voting--liquid-democracy">voting &amp; liquid democracy</a></li>
@@ -2168,12 +2253,44 @@ https://en.wikipedia.org/wiki/Cognition</p>
 <blockquote>
 <p>&quot;Technology for coordinating and coming to large-scale agreements (eg. https://pol.is ) is one of the industries that needs to be accelerated.&quot; - <a href="https://twitter.com/VitalikButerin/status/1599734481190998016">Vitalik Buterin</a></p>
 </blockquote>
+<blockquote>
+<p>&quot;Central to wisdom are aspects of perspectival meta-cognition&quot; - <a href="https://www.researchgate.net/publication/341653068_The_Science_of_Wisdom_in_a_Polarized_World_Knowns_and_Unknowns">The Science of Wisdom in a Polarized World: Knowns and Unknowns, 2020</a></p>
+</blockquote>
+<p>The ability to take multiple perspectives and shift between them</p>
+<p>View as - why it would be useful</p>
+<p>John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition
+https://www.youtube.com/watch?v=8U2caURO-d4&amp;list=PLND1JCRq8Vuj9U2DCHRN0gBfOwGy-Vcnq&amp;index=61</p>
+<p>The current web incentivizes differentiation and no integration - and thus we get group think and echo chambers &amp; bubbles - we lack the complexification of multiple views of the real world - we need to make breaking our own frames &amp; making new ones easier</p>
+<blockquote>
+<p>&quot;We mistake having likes and friends with actually having participatory social connectedness&quot; - <a href="https://youtu.be/8U2caURO-d4?t=3373">John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;The internet doesn't have to go the way it is - there's a possibility of reorienting it that can undermine the bullshit and the fragmentation that makes us prey to the centralization forces&quot; - <a href="https://youtu.be/8U2caURO-d4?t=3420">John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition / 24. 9. 2022</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;Our ability to coordinate with each other is pretty fundamental to the selection of what we are as a species&quot; - <a href="https://youtu.be/hGRNUw559SE?t=1658">Daniel Schmachtenberger</a></p>
+</blockquote>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="voting--liquid-democracy"><a class="header" href="#voting--liquid-democracy">voting &amp; liquid democracy</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>ranked choice voting
+https://fairvote.org/our-reforms/ranked-choice-voting/</p>
 <p>ability to specify criteria for the delegation - no need to pick specific people.</p>
 <p>current twitter polls don't allow us to show our vote but we're free to express it in text publicly?</p>
 <p>Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll</p>
+<p>liquid democracy can be used to inform how recommender systems work for any field - not just for political questions. Even content moderation</p>
+<p>Liquid Democracy with Google Votes
+https://www.youtube.com/watch?v=F4lkCECSBFw</p>
+<p>Forby: Collaborative Intelligence and Sensemaking
+https://www.youtube.com/@ForbyCollaborative/videos</p>
+<p>https://forby.io/blog/voting-systems</p>
+<p>https://en.wikipedia.org/wiki/LiquidFeedback</p>
+<p>https://github.com/DemocracyEarth/paper</p>
+<p>https://www.tdcommons.org/cgi/viewcontent.cgi?referer=&amp;httpsredir=1&amp;article=1092&amp;context=dpubs_series</p>
+<p>https://vitalik.ca/general/2021/05/25/voting2.html</p>
+<p>https://followmyvote.com/liquid-democracy/</p>
+<p>Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System
+https://arxiv.org/pdf/1911.08774.pdf</p>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
 <h1 id="privacy"><a class="header" href="#privacy">privacy</a></h1>
 <p>██████████████████████████████████████████████████████████████████████████████</p>
@@ -3463,6 +3580,10 @@ Business models - what can IDMs charge for - archive content more than 5gb
 
 business model: develop open source with a license for commercial use that requires payment - that's ok
 
+perhaps not possible:
+Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads
+https://twitter.com/elonmusk/status/1621544497388875777
+
 
 Twitters revenue does not go to its users - 0 attribution for them
 
@@ -3561,6 +3682,9 @@ Concern: might be prohibitively expensive to maintain different versions of feed
 
 Todo: how to combat brigading? Concern: might not be able to do it because not a single system
 
+not all business models translate easily:
+Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads
+https://twitter.com/elonmusk/status/1621544497388875777
 
 Concern: it will never be possible to display an accurate view count like twitter can (what about youtube?)
 
