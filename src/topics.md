@@ -45,6 +45,20 @@ VERTICAL INTEGRATION:
     Why does spotify need to build video streaming to compete with youtube?
 
 ██████████████████████████████████████████████████████████████████████████████
+# Ultimate scarcity: time & attention
+██████████████████████████████████████████████████████████████████████████████
+
+`"Attention Is All You Need"`
+"attention is all we have"
+
+> "Our minds are hurt more often by overeating than by hunger." — Petrarch
+
+> “To be everywhere is to be nowhere.” ― Seneca
+
+> "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert A. Simon
+
+
+██████████████████████████████████████████████████████████████████████████████
 # section 230 and empowering the user to choose
 # Recommender algos, choice & section 230
 ██████████████████████████████████████████████████████████████████████████████
@@ -116,6 +130,7 @@ Algorithms could use this liquid interest network to amplify and prioritize cert
 
 ██████████████████████████████████████████████████████████████████████████████
 # infinite possibilities
+# Giant global graph - open data
 ██████████████████████████████████████████████████████████████████████████████
 
 Follow preferences of others - not just as notifications for changes but also the ability to automatically adopt them
@@ -124,6 +139,9 @@ Sociology and how anyone can do it - picture: mirror
 We can all do what sociologists do
 
 we should be able to express "I care about deforestation and the Amazon rainforest" and set up filters for notifications for events regarding that
+
+GitHub stars are effectively likes on repositories
+Example: github stars - what if anyone could develop filters for the stars of people with advanced criteria? Different trending dashboads?
 
 ██████████████████████████████████████████████████████████████████████████████
 # organizing information - interlinking & deduplicating data
@@ -211,7 +229,7 @@ uploading a clip that could have easily just referenced a part of the whole shou
 
 
 ██████████████████████████████████████████████████████████████████████████████
-# Multidimensionality
+# Multidimensionality & subscriptions
 ██████████████████████████████████████████████████████████████████████████████
 
 configuration attributes to accounts
@@ -224,6 +242,10 @@ we are social creatures
 complete control of what is public and what is not - what digital trail you leave, and the ability to subscribe to anything for events
 
 not multidimensional subscriptions but fractal/granular
+
+what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
+
+YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that #shorts are given to you just like normal videos. We should be able to filter that out. Take for example [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) - this is their [rss feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw) and it has everything in there - and we have no easy way to filter it.
 
 how to think about the digital world
 - public/private

@@ -2,8 +2,6 @@
 
 
 
-GitHub stars are effectively likes on repositories
-Example: github stars - what if anyone could develop filters for the stars of people with advanced criteria? Different trending dashboads?
 
 
 Sensemaking chapter - video replies without interlinking specific moments is just primitive
@@ -15,33 +13,12 @@ Ancient technology in egypt? Give links as evidence
 
 
 
+What if people subscribed to specific types of events by others, in effect guiding them what to produce - even if they aren't already? If you saw that 90% of the interest in you is in financial opinions and not just shitposting - wouldn't you opine? Although this is a form of audience capture
 
 
 
 
 
-
-
-
-
-
-
-be able to choose a truth provider & even selectively override entries
-
-
-
-What if people subscribed to specific types of events by others, in effect guiding them what to produce - even if they aren't already? If you saw that 90% of the interest in you is in financial opinions and not just shitposting - wouldn't you opine?
-
-
-
-
-
-
-
-
-
-
-we should be able to apply something like birdwatch on the entire web - not just on tweets. We need software composability
 
 chapter: what journalism would look like
 == RESURRECTING/REVIVING/REINVENTING/reimagining JOURNALISM w/ reputation
@@ -59,6 +36,10 @@ chapter: what journalism would look like
     https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_a_mainstream_encyclopedia
 - With open data we can be more data driven and less narrative driven
 
+be able to choose a truth provider & even selectively override entries
+
+we should be able to apply something like birdwatch on the entire web - not just on tweets. We need software composability
+
 
 
 
@@ -69,48 +50,6 @@ chapter: what journalism would look like
 
 
 imagine being able to crowdsource debate requests with specific people and see a ranking of which debates are most desired
-
-
-
-
-
-
-
-
-
-
-
-
-what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
-
-
-
-
-
-
-
-
-
-
-
-
-Ultimate scarcity: time & attention
-
-The 2 scarcest resources: time & attention
-`"Attention Is All You Need"`
-"attention is all we have"
-
-> "Our minds are hurt more often by overeating than by hunger." — Petrarch
-
-> “To be everywhere is to be nowhere.” ― Seneca
-
-> "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert A. Simon
-
-
-
-
-
-
 
 
 
