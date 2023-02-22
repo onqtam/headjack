@@ -318,3 +318,4 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 > "Pol.is takes an n-dimensional space, where n is the number of sentiments shared by a group of people, and visualizes the points of agreement and disagreement through a combination of PCA (Principal Component Analysis) and k-means clustering. The visualization (and underlying data) is open, transparent, and updated in real-time." - [TAIWAN: GRASSROOTS DIGITAL DEMOCRACY THAT WORKS - RADICALxCHANGE](https://www.radicalxchange.org/media/papers/Taiwan_Grassroots_Digital_Democracy_That_Works_V1_DIGITAL_.pdf)
 
+> "The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses." - [Malcolm X](https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have)
