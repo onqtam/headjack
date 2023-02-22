@@ -48,6 +48,9 @@ we lack precision weighting of the signals ==> hence our psychosis
 
 our capacity to pay attention in the right way was evolved - it is fundamentally an adaptive ability - it was selected for
 
+building participatory governance at scale
+
+This is the real DAO - the hivemind
 
 distributed cognition or sensemaking?
 https://en.wikipedia.org/wiki/Cognition
@@ -59,18 +62,35 @@ https://en.wikipedia.org/wiki/Cognition
 
 we should shift curation from explicit moderation by people to tagging & filtration preferences by the consumer
 
+choice vs algorithmic recommendation
+
+recommender algorithms incentivise clickbait. Explicit follow graphs incentivise quality & explicit recommendations by people you follow
+
 
 ██████████████████████████████████████████████████████████████████████████████
-# liquid democracy & voting
+# stable documents
+██████████████████████████████████████████████████████████████████████████████
+
+highlighted parts of a page - with surrounding characters - for stable linking of documents even if there have been changes to them elsewhere in a new URI
+
+
+██████████████████████████████████████████████████████████████████████████████
+# voting & liquid democracy
 ██████████████████████████████████████████████████████████████████████████████
 
 ability to specify criteria for the delegation - no need to pick specific people.
+
+current twitter polls don't allow us to show our vote but we're free to express it in text publicly?
+
+Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll
 
 ██████████████████████████████████████████████████████████████████████████████
 # privacy
 ██████████████████████████████████████████████████████████████████████████████
 
 Private opinions for polls - you might not want them public but still to be able to compare with those who are public
+
+Zk affiliation/attestations/credentials
 
 ██████████████████████████████████████████████████████████████████████████████
 # recommender algorithms
@@ -88,6 +108,8 @@ Follow preferences of others - not just as notifications but also automatically 
 Sociology and how anyone can do it - picture: mirror
 We can all do what sociologists do
 
+we should be able to express "I care about deforestation and the Amazon rainforest" and set up filters for notifications for events regarding that
+
 ██████████████████████████████████████████████████████████████████████████████
 # information organization - interlinking data
 ██████████████████████████████████████████████████████████████████████████████
@@ -100,11 +122,24 @@ Google failed - they didnt organize the worlds information - they merely ranked 
 # reputation systems
 ██████████████████████████████████████████████████████████████████████████████
 
+Trust is earned. In public.
+
+Infinite digital twins - show different cross sections of polls based on dofferent filtering and oracle input data
+
+Simulate reputation based on different sources of facts
+
+tipranks-ify finance and predictions
+
+we put way too much importance and give way too much attention to narrative builders and we underestimate the importance of transparency, track record & skin in the game
+
+
 the skill tree in linkedin is completely fake - we could crowdsource it or have reputation systems based on real events & attestations and allow for any visualization
 
 we can have a leaderboard for every topic under the sun
 
 Replace signaling with competence
+
+Skin in the game
 
 "social reputation without settlement" - no oracle needed
 Chapter on oracles and how theyre not necessary - just do a recount & recalculate reputation based on different facts
@@ -146,6 +181,10 @@ I want YOU to help build the metabrain
 To be a good little neuron
 
 > "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
+
+Realizing humanity’s potential for expression at scale
+
+Making the individual count
 
 Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
 
@@ -198,8 +237,27 @@ Message types should be on-chain nouns
 
 
 ██████████████████████████████████████████████████████████████████████████████
+# Moderation
+██████████████████████████████████████████████████████████████████████████████
+
+Account suspension is too much - perhaps it should be limitations - not removal and not even having access to your DMs
+
+
+██████████████████████████████████████████████████████████████████████████████
+# Collective intelligence
+██████████████████████████████████████████████████████████████████████████████
+
+we should be able to come to consensus about questions such as "how much cobalt goes into EVs, how much EVs are not using cobalt at all anymore, and where is cobalt coming from (hint: not just the congo)"
+
+there should be something like twitter's community notes for any kind of media - not just tweets
+
+██████████████████████████████████████████████████████████████████████████████
 # Structured data & improving the signal/noise ratio
 ██████████████████████████████████████████████████████████████████████████████
+
+we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
+
+digital media is not supposed to be unstructured
 
 Structured data should be incentivized - we’re drowning in text audio and video
 
@@ -222,8 +280,11 @@ so much expressed opinions & views are left unanalyzed & unaggregated because th
 # Anatomy of your digital footprint
 ██████████████████████████████████████████████████████████████████████████████
 
+the building blocks of digital media
+
 even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
 
+Public/private mode for the entire account
 
 ██████████████████████████████████████████████████████████████████████████████
 # IDMs & personal stuff
@@ -237,6 +298,8 @@ https://www.youtube.com/watch?v=_u5p6hwS5SM
 ██████████████████████████████████████████████████████████████████████████████
 # cryptohistory
 ██████████████████████████████████████████████████████████████████████████████
+
+The highest standards of history are permanence and authenticity
 
 - point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
 
@@ -260,4 +323,10 @@ Cant be evil - raising the bar for censorship - accountability and exit
 
 Move the decentralization point from the design page to the cant be evil page
 
+SSI
+Heads of state
+compromising important accounts and posting on their behalf - if their opsec is good enough (with keypairs)
+
+can't be evil - provenance, immutability
+History should be immutable
 
