@@ -15,6 +15,7 @@
     - [Headjack vs the competition](competition.md)
 
 - [Why Headjack v2](topics.md)
+    - [Collective intelligence](collective_intelligence.md)
 
 - [Why Headjack](motivation.md)
     - [Problems with the web](problems_with_the_web.md)
