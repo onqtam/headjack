@@ -44,6 +44,436 @@ EDIT: actually sitemaps are only partially outdated - what about pages that are 
 
 
 
+ability to specify criteria for the delegation - no need to pick specific people i. The liquid voting
+
+There should be a vision for how others can capitalize on the opportunity and be the heroes
+
+
+competition page: batching & compactness (FC does have some fancy hub sync)
+
+Structured data should be incentivized - we’re drowning in text audio and video
+
+The role of something like change.org
+
+add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
+
+UIs should be drag/drop composable & layoutable - in the superapp
+
+roadmap ==> secret master plan
+
+your main job would be to be an annotator - such that you get scored based on performance
+
+free the graph
+
+can't be evil - restore from point
+
+we need to enable freeform networking at scale in order to build a global brain - the host-centric model doesn't allow that - any type of data should be linkable & manipulatable with any other data type
+
+for search engines to rank modern dynamic & single page apps they need to render them server-side - this can be skipped if data is decoupled from presentation and if the ranking engine is simply listening for document updates. They also currently cache the entire pages - just like an archival service. Massive benefits in a push vs a pull system for crawlers & indexers
+
+what if you used your own IDM but authorized a commercial IDM as a proxy for yours - to aggregate your actions along with those of others such that less fees are paid? or this is nonsense? there should be a way to proxy at least some bits to your own server...
+
+the skill tree in linkedin is completely fake - we could crowdsource it or have reputation systems based on real events & attestations and allow for any visualization
+
+we can have a leaderboard for every topic under the sun
+
+business model: develop open source with a license for commercial use that requires payment - that's ok
+
+we can use AI to generate podcast-like conversations that cover the digital interactions of structured data
+
+currently we channel our energy in a useless way - the best we can do is get a hashtag trending. But with this system every type of interaction would count
+
+using structured data circumvents the need to think about the right words - it reduces friction in expression - streamlined expression as a chapter?
+
+think of the the superapp as a browser
+
+Cant be evil - raising the bar for censorship - accountability and exit
+
+Solution to the disjoint documents saved by IDMs - compaction through re-publication? DEFRAGMENTATION !!!
+
+Move the decentralization point from the design page to the cant be evil page
+
+Separate messages into header and payload so that only the header vould be stored for deleted items - but it would contain the metadata such as “reply_to” uri and its own uri for example
+
+multidimensionality - think about what "friendship" is
+
+growth hack: show some badge who invited you to the network (and how many people you have invited) - perhaps with some referral link initially?
+
+Making physical location obsolete for the digital world
+
+Replace signaling with competence
+
+Bazaar protocol - from “the cathedral and the bazaar” essay
+or at least have a chapter about it! with this pic
+https://www.google.com/search?q=the+cathedral+and+the+bazaar+cover&sxsrf=AJOqlzWfP43XK_d9AFgHzQBrtHz9qSX9UA:1675770760517&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZ8J7HrIP9AhWigP0HHVlTBUgQ_AUoAXoECDEQAw&biw=2051&bih=1186&dpr=0.9
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+
+13. Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away. (Attributed to Antoine de Saint-Exupéry)
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar#:~:text=Perfection%20(in%20design)%20is%20achieved%20not%20when%20there%20is%20nothing%20more%20to%20add%2C%20but%20rather%20when%20there%20is%20nothing%20more%20to%20take%20away.%20(Attributed%20to%20Antoine%20de%20Saint%2DExup%C3%A9ry)
+
+
+Strategy: use platform APIs to link web2 platform accounts to a headjack account for a gradual transition - as an overlay
+
+One of the apps could be called Pravda
+
+Google failed - they didnt organize the worlds information - they merely ranked it
+
+Steve bannon is famous for saying to flood the zone with shit - lets drain the swamp
+
+"Speech as proof of work is dead."
+https://twitter.com/gordonbrander/status/1622999277411741698
+
+
+list explicitly all the different aspects of an online presence - goodreads, medium, quora, stack exchange, reddit, twitter, etc.
+
+farcaster is too opinionated
+
+streaming platforms will know how much you've watched something. They could sell that data. Apps that request it and mediate it could anonymize the user somehow? But the streaming service will have a direct IP connection with the user - unless the app acts as a bandwidth proxy?
+
+on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
+Message types should be on-chain nouns
+
+what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?
+
+Graph tool for constructing queries - data processing pipelines like in Foundry
+
+TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
+What If You Quit Social Media For 30 Days?
+https://www.youtube.com/watch?v=_u5p6hwS5SM
+
+Anatomy of your digital footprint
+
+even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
+
+there should be something like twitter's community notes for any kind of media - not just tweets
+
+Competitive superiority
+
+what happens to auth tokens if you change your IDM?
+
+high trust (social capital), shared stories & strong institutions - required for democracy, but social media is eroding them - Jonathan Haidt
+https://www.youtube.com/watch?v=hu2jprZ50FY
+
+Write about social media aggregator tools for creators - just a bandaid
+
+google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much broader
+
+What if IDMs issue the integers for credentials and they can upload onchain sparse bitmaps woth these ids when revoking on behalf of users?
+
+Think about making monetary settlements with zl proofs on topnof ethereum for polls
+
+separating the authorization (signature or authZ token) from the content is beneficial - can cache the authZ token once and reuse it for many data items
+
+we should shift curation from explicit moderation by people to tagging & filtration preferences by the consumer
+
+every account should have an AMA associated with them
+
+"We have Paleolithic emotions, medieval institutions, and god-like technology." - Edward O. Wilson
+
+media tells us what is salient but we lack the tools to question the framing
+
+every change, every edit, every commit - all could be linked to your identity if you wished it
+
+your profile page - a linktree-like thing
+
+today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
+
+For old uris where names have changed ownership - can display obsolete names with different color
+
+view profile relevant to the current app VS view full profile with all activity
+
+anyone should be able to construct graph narratives by selecting "facts" which can be observed & pointed at
+
+Join protocol
+
+Adapters for current web2 platforma - wrap actions in messages thatnpoint to the web2 platform?
+
+Example: github stars - what if anyone could develop filters for the stars of people with advanced criteria? Different trending dashboads?
+
+Key rotation in competition - for lens perhaps account abstraction would help
+
+We should be able to view the most pressing questions for public figurrs and CEOs
+Integrating all these different use cases with social media and unified identity and notifications is how to make them viral
+We should be able to surface questions to elites and leaders and make it glaringly obvious if they have responded to them or not
+It is easy to ingore some obscure app but not when everything is built on top of the same identity & data network
+Sporadic Reddit AMAs are absolutely ibadequate
+This is what connecting people looks like - facebook isnt even scratching t he surface
+
+A data network in which your input matters in an uncountable number of ways
+Expressivity!
+I want YOU to help build the metabrain
+To be a good little neuron
+
+> "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
+
+elly iska6e da iztrie komentar na snimkata si - dori i da moje da bude komentirana drugade s URL... proximity matters...
+
+on attention:
+https://gurwinder.substack.com/p/the-intellectual-obesity-crisis
+
+we should hold people who claim to be public intellectuals to a higher standard - not acknowledging that a comment might have been deleted by mistake and LATER commenting that it wasn't deleted and still there (although it's not there anymore)
+https://prnt.sc/FTXL0rEN6vz3
+https://prnt.sc/MqZJfMJHnJqG
+https://twitter.com/alexandrosM/status/1614328083645100032
+
+
+we should strive to separate causal patterns from correlated patterns
+
+Private opinions for polls - you might not want them public but still to be able to compare with those who are public
+
+Farcaster: with or without CRDTs you should be processing everything anyway, and with a simple fork choice rule you wouldnt need crdts
+
+Follow preferences of others - not hust as notifications but also automatically adopting them
+
+
+Sociology and how anyone can do it - picture: mirror 
+
+Milultidimentionality picture: sphere with spikes with different length and maybe labels
+
+Algorithms could use this liquid interest network to amplify and prioritize certain people on the loud speaker - I bet daniel Schmat would rank quite high - something the youtube algo wouldnt do
+
+identifier type in the table - integer or hash of public key - in competition table
+
+== A self-organizing system - in the sensemaking chapter
+we can achieve cycles of differentiation (random exploration) followed by convergence & integration to refine our collective model of reality in a self-organizing system - just like our minds work
+complexification followed by iterative integration - assimilation & compression - calibration against the real world is the constant flux between the two
+zooming in and zooming out
+https://youtu.be/IZ-tHaHfB8A?t=3112
+stark contrast - Compare that to what we currently have - attention-driven feedback loops of psychosis & epileptic seizures - we are unable to integrate the signal - we have no capacity to adaptively re-fit itself to the world
+The internet is suffering from epilepsy
+our current systems optimize for efficiency (attention capture) - not the evolvability of ideas
+the host-centric model hinders our ability to develop the tools for integration - for interlinking & coming to consensus - we're given one-size-fits-all lowest common denominator functionality in the race to the bottom of the brain stem
+
+we lack precision weighting of the signals ==> hence our psychosis
+
+> "the function of consciousness is to do enhanced relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4094)
+
+> "what consciousness is doing is higher-order relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4199)
+
+our capacity to pay attention in the right way was evolved - it is fundamentally an adaptive ability - it was selected for
+
+you should be allowed to pin a comment explaining your vote. And that comment should be able to evolve & change
+
+
+just like we have a mental model when doing searches that we can request results only from the last month, the same way we'll learn to think in terms of filters & slices
+
+so much expressed opinions & views are left unanalyzed & unaggregated because they're in text - they have an ephemeral impact for a moment and then fade
+
+we can use something like ChatGTP to summarize the results of polls from different points of view and write the text for a topic and always keep it up to date. This is the decentralized wikipedia.
+
+
+current twitter polls don't allow us to show our vote but we're free to express it in text publicly?
+
+Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
+
+distributed cognition or sensemaking?
+https://en.wikipedia.org/wiki/Cognition
+
+We can all do what sociologists do
+
+
+Sensemaking chapter - video replies without interlinking specific moments is just primitive
+How do we debunk stuff?
+Disallowing comments on a youtube video is just dumb because you cannot disallow comments for it on reddit anyway - all you are doing is trying to hide commentary about what you are presenting
+Moonlandinh faked?
+Ancient technology in egypt? Give links as evodence
+
+Youtube is just video on the internet along with a recommender algo - completely unimagiinative
+
+fragmentation....
+
+we should be able to come to consensus about questions such as "how much cobalt goes into EVs, how much EVs are not using cobalt at all anymore, and where is cobalt coming from (hint: not just the congo)"
+
+recommender algorithms incentivise clickbait. Explicit follow graphs incentivise quality & explicit recommendations by people you follow
+
+
+Concern: toggling privacy levels
+
+History should be immutable
+
+Kolegata ot nuodb ot shtatite? Isaac Hartford
+
+Skin in the game
+
+Cant be evil
+Ssi
+Heads of state
+compromising important accounts and posting on their behalf - if their opsec is good enough (with keypairs)
+
+highlighted parts of a page - with surrounding characters - for stable linking of documents even if there have been changes to them elsewhere in a new URI
+
+building participatory governance at scale
+
+Your digital footprint - chapter
+
+In int64 we trust - with an oreol
+Joinability
+
+You can stuff integers in bitmaps and check for intersections - hashes suck
+
+Anything not built around integers is disqualified due to joinability
+
+Wikipedia and different prisms
+Slicing and dicing - chapter name
+
+Company name: the white rabbit
+
+Can’t be evil. As a chapter about sovereignty?
+
+Farcaster - when there isnt a grand vision outsiders implement twitter interface clones with some differences in coloring and layout. And thats it.
+
+
+Simplifying joining is killer f
+Add joining in the pitch
+
+Concepts around identity
+- authorization
+- Attestation
+- Attestations by countries
+- Names
+
+I love integers
+
+2 types of apps: sharing and closed
+
+Tech tree instead of roadmap
+
+We need more feedback and error correction
+
+Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll
+
+When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users ot not 
+
+Web3 is the end of the host-centric internet
+
+with farcaster all the activity of a user is chained linearly & merklized and that means there's a bottleneck
+https://www.youtube.com/watch?v=1TVI2uKgHtY
+although that does solve problems that are present in headjack...
+
+expressing nuanced views
+
+What is a broker? IDB and not IDM?
+
+This is the real DAO - the hivemind
+
+Moxie quote in concerns
+
+how to think about the digital world
+- public/private
+- anonymous/
+what can we build on top of this?
+DO A DAY WITH STICKY NOTES AT HOME AND FIGURE THIS OUT
+
+Distributed cognition
+
+Chapter on oracles and how theyre not necessary - just do a recount & recalculate reputation based on different facts
+
+The two killer apps of crypto are money and identity, with the latter one not done properly (yet)
+
+Mission: raise the signal/noise ratio
+Also as a chapter/page
+We need more than the current one size fits all model
+Importance threshold
+
+Offchain name registry
+
+Realizing humanity’s potential for expression at scale
+
+Aggregation - as a chapter
+
+Current social media is garbage- garbage in, garbage out
+
+Farcaster arent thinking bih enough - crdts are a crutch - an unnecessary constraint
+
+Anything without built-in incentives is not suitable as a foundation
+
+The killer feature of online media is programmability by anyone
+
+Trust is earned in public
+
+An instagram-like app could never offer the same level of breadth
+
+We as a society dont know ourselves en masse - only a few companies are in that position
+
+Ultimate expressivity
+
+Making the individual count
+
+Context switching is terrible for the brain - Twitter is an ADHD/ADD machine
+
+Public/private mode for the entire account
+
+Add noun icons in every section of every chapter?
+
+Types of actions
+
+Put the moxie quote in concerns
+
+Farcasyer blocktime - slow but very rarely needed
+
+Concern: might be prohibitively expensive to maintain different versions of feeds for the dame account based on different applications and what they “support”
+
+What if edits are disallowed from other apps? Then there will be only one entity to ask for updates. This can be a message attribute
+
+Todo: how to combat brigading? Concern: might not be able to do it because not a single system
+
+Each page should have a video about it
+Also write summaries at the top after toc
+
+Concern: it will never be possible to display an accurate view count like twitter can
+
+Zk affiliation/attestations/credentials
+
+unlocking the potential of the internet
+
+digital media is not supposed to be unstructured
+
+we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
+
+mistakes such as doing some action publicly when intended for a private action...
+
+not being able to hide the like counter - bad for mental health?
+
+the building blocks of digital media
+
+we don't need a prediction market with settlement - we can get by purely with reputation
+
+Indicate that it is a work in progress
+
+Crowdsourcing chapter
+
+Chapter about increasing the signal/noise ratio
+
+The highest standards of history are permanence and authenticity
+
+Infinite digital twins - show different cross sections of polls based on dofferent filtering and oracle input data
+
+Simulate reputation based on different sources of facts
+
+tipranks-ify finance and predictions
+
+we put way too much importance and give way too much attention to narrative builders and we underestimate the importance of transparency, track record & skin in the game
+
+uploading a clip that could have easily just referenced a part of the whole shouldn't be encouraged - perhaps you'd need to pay for uploading it?
+
+Twitter’s servers cost 1.5 billion per year - we need to engineer for web-scale
+https://twitter.com/ashleevance/status/1605448764851752961
+https://twitter.com/AutismCapital/status/1605448752881229824
+
+Account suspension is too much - perhaps it should be limitations - not removal and not even having access to your DMs
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
