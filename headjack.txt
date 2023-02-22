@@ -43,7 +43,7 @@ we should be able to apply something like birdwatch on the entire web - not just
 
 
 
-
+heatmaps
 
 
 
@@ -54,6 +54,44 @@ imagine being able to crowdsource debate requests with specific people and see a
 
 
 
+
+when youtube removes a video of yours - it should still be available by you.
+
+boosting the competent through ranking their public information & track record objectively & transparently
+we need to build the public introspection tool
+
+
+
+
+imagine browsing the public web like it was your personal files in your apps and drives - having total control of how you store and group that data. This could be the case with the public web. And we could advertise what kind of filters & grouping options we prefer with public messages which are not options. we can crowdsource preference and show which things are preferred. We can end the binary duopoly in politics by making all opinions and interests unbundled from each other
+
+
+services will no longer have the host-centric model to point to as the reason for siloing data - just the fact that we would give an address to our documents that is beyond any specific host is enough of a reason for the nature of competition to change
+
+
+Global vs local for the feed - locality of information & notifications!
+
+Section: certifiable (verifiable?) credentials and attestations
+
+
+
+granularity of verification? many verticals? a bouquet of attestations
+
+
+
+
+
+Community-centric
+
+twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
+
+
+
+imagine being able to select a subset of all accounts worldwide and train a GPT on that subset of human knowledge & opinions
+
+
+
+what if apps have to explicitly pay to infra for their data to be stored?
 
 
 
@@ -103,68 +141,10 @@ a long video citing a bunch of external documents - we should be able to react d
 - The timestamp machine
 - The universal network effect
 - Untransferrable property rights for data
-
-the only web3 identity/social solution that can partner with OAuth/OpenID - and they will signal-boost it
-
-when youtube removes a video of yours - it should still be available by you.
+- fixing competition in media
 
 
 
-applications can decide which sets of filters are allowed for viewing media through them, in order for advertisers to be happy
-
-boosting the competent through ranking their public information & track record objectively & transparently
-we need to build the public introspection tool
-
-bringing capitalism to media - slide in pitch with the narrow waist and MxN
-
-distinction: public vs private info
-Public vs private posting. Choosing which preferences to show to all
-
-
-we can make anything referencable and because of the stable intra-document addressing and we can crowdsource a global reference heatmap of information
-
-
-this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's demand & a business model for it
-
-
-imagine browsing the public web like it was your personal files in your apps and drives - having total control of how you store and group that data. This could be the case with the public web. And we could advertise what kind of filters & grouping options we prefer with public messages which are not options. we can crowdsource preference and show which things are preferred. We can end the binary duopoly in politics by making all opinions and interests unbundled from each other
-
-
-services will no longer have the host-centric model to point to as the reason for siloing data - just the fact that we would give an address to our documents that is beyond any specific host is enough of a reason for the nature of competition to change
-
-
-Global vs local for the feed - locality of information & notifications!
-
-Section: certifiable (verifiable?) credentials and attestations
-
-
-
-granularity of verification? many verticals? a bouquet of attestations
-
-
-
-
-
-Community-centric
-
-twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
-
-
-
-
-
-
-
-
-
-
-
-
-imagine being able to select a subset of all accounts worldwide and train a GPT on that subset of human knowledge & opinions
-
-
-
-what if apps have to explicitly pay to infra for their data to be stored?
 
 
 

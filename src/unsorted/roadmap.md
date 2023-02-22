@@ -19,6 +19,8 @@ Adapters for current web2 platforma - wrap actions in messages that point to the
 
 https://spec.dsnp.org/Roadmap.html
 
+the only web3 identity/social solution that can partner with OAuth/OpenID - and they will signal-boost it
+
 - an open source "twitter core" so that others can spin up competing applications easily
 
 - incentive to be earlier in the system - lower index proves that
