@@ -570,6 +570,8 @@ benefit: no need to store proofs for every single event as they can be derived
 
 flexibility - addressing is forever - but the storage & architecture of any application can be changed - without breaking the addressing.
 
+https://paragraph.xyz/@blog/farcaster-comments
+
 
 
 

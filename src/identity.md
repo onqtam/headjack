@@ -57,3 +57,8 @@ https://zeeprime.capital/web-3-middleware#access-controls
 handle key rotations for private application logins on-chain but only with a number that signifies the version of a session token and track block ranges... like credentials that can be checked on-chain if a previous version is the latest or not
 
 Hierarchical keys managed by an account - for different devices - in identity page
+
+public vs private & revokable authorizations? 
+
+The authorization privilage spectrum - keypair / IDM / application
+https://en.wikipedia.org/wiki/Principle_of_least_privilege
