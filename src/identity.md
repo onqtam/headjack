@@ -35,3 +35,11 @@ Key & session management (rotation, authorization & revocation) [require](https:
 <!-- meme: oprah - you get an identity, you get an identity, everyone gets an identity! -->
 
 <!-- TODO: talk about per device key revocation - or how IDMs will be able to track which devices are logged in and they should handle such revocation - as in the traditional Web2 -->
+
+Concepts around identity
+- authorization
+- Attestation
+- Attestations by countries
+- Names
+
+

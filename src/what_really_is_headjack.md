@@ -95,6 +95,17 @@ Web3 is often associated with user ownership of networks/services/data, governan
 
 > "This narrow waist is not something that God gives you. It's something that you make. It's hard engineering." - [Van Jacobsen](https://www.oilshell.org/blog/2022/03/backlog-arch.html), Internet pioneer
 
+
+TODO:
+Bazaar protocol - from “the cathedral and the bazaar” essay
+or at least have a chapter about it! with this pic
+https://www.google.com/search?q=the+cathedral+and+the+bazaar+cover&sxsrf=AJOqlzWfP43XK_d9AFgHzQBrtHz9qSX9UA:1675770760517&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZ8J7HrIP9AhWigP0HHVlTBUgQ_AUoAXoECDEQAw&biw=2051&bih=1186&dpr=0.9
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+
+13. Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away. (Attributed to Antoine de Saint-Exupéry)
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar#:~:text=Perfection%20(in%20design)%20is%20achieved%20not%20when%20there%20is%20nothing%20more%20to%20add%2C%20but%20rather%20when%20there%20is%20nothing%20more%20to%20take%20away.%20(Attributed%20to%20Antoine%20de%20Saint%2DExup%C3%A9ry)
+
+
 # The supermassive digital gravity well
 
 Headjack is a confluence of multiple interrelated things (identity, names, authorization & addressing). Their synergy leads to the highest utility for names: they're [embedded in content URIs](names_and_paths.md). This results in a winner-take-all network effect with unprecedented gravity that would suck all data to be cryptographically anchored to it. It has the potential to truly decentralize [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) - something which [Namecoin](https://en.wikipedia.org/wiki/Namecoin) and [Handshake](https://handshake.org/) would have had a much harder time doing on their own.

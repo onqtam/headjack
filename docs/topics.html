@@ -1,0 +1,397 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Why Headjack v2 - Headjack - the base layer of cyberspace</title>
+
+
+        <!-- Custom HTML head -->
+        <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-6BQMDB9SH6"></script>
+                <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+        
+                gtag('config', 'G-6BQMDB9SH6');
+                </script>
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('ayu')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="introduction.html"><strong aria-hidden="true">1.</strong> What is Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="principles.html"><strong aria-hidden="true">1.1.</strong> Design - guiding principles</a></li><li class="chapter-item expanded "><a href="identity.html"><strong aria-hidden="true">1.2.</strong> Identity & authorization</a></li><li class="chapter-item expanded "><a href="addressing.html"><strong aria-hidden="true">1.3.</strong> Content addressing</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="host_vs_data_centric.html"><strong aria-hidden="true">1.3.1.</strong> Host vs data-centric</a></li><li class="chapter-item expanded "><a href="blobs_and_uris.html"><strong aria-hidden="true">1.3.2.</strong> Blobs & persistent URIs</a></li><li class="chapter-item expanded "><a href="names_and_paths.html"><strong aria-hidden="true">1.3.3.</strong> Names & paths</a></li></ol></li><li class="chapter-item expanded "><a href="messages.html"><strong aria-hidden="true">1.4.</strong> Messages</a></li><li class="chapter-item expanded "><a href="idms_preferences.html"><strong aria-hidden="true">1.5.</strong> IDMs, preferences & graphs</a></li><li class="chapter-item expanded "><a href="store_and_retrieve.html"><strong aria-hidden="true">1.6.</strong> Data storage & retrievability</a></li><li class="chapter-item expanded "><a href="blocks_state_proofs.html"><strong aria-hidden="true">1.7.</strong> Blocks, state & proofs, oh my!</a></li><li class="chapter-item expanded "><a href="numbers.html"><strong aria-hidden="true">1.8.</strong> Throughput & scalability</a></li><li class="chapter-item expanded "><a href="competition.html"><strong aria-hidden="true">1.9.</strong> Headjack vs the competition</a></li></ol></li><li class="chapter-item expanded "><a href="topics.html" class="active"><strong aria-hidden="true">2.</strong> Why Headjack v2</a></li><li class="chapter-item expanded "><a href="motivation.html"><strong aria-hidden="true">3.</strong> Why Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="problems_with_the_web.html"><strong aria-hidden="true">3.1.</strong> Problems with the web</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="host_centric.html"><strong aria-hidden="true">3.1.1.</strong> The host-centric web</a></li><li class="chapter-item expanded "><a href="information_ecology.html"><strong aria-hidden="true">3.1.2.</strong> The information ecology</a></li><li class="chapter-item expanded "><a href="centralization.html"><strong aria-hidden="true">3.1.3.</strong> (WIP) Centralization</a></li><li class="chapter-item expanded "><a href="barriers_to_entry.html"><strong aria-hidden="true">3.1.4.</strong> Silo vs interoperability</a></li><li class="chapter-item expanded "><a href="black_boxes.html"><strong aria-hidden="true">3.1.5.</strong> Black boxes & bias</a></li><li class="chapter-item expanded "><a href="specific_platforms.html"><strong aria-hidden="true">3.1.6.</strong> Specific platforms</a></li></ol></li><li class="chapter-item expanded "><a href="ledger_of_record.html"><strong aria-hidden="true">3.2.</strong> (WIP) History 2.0: the ledger of record</a></li><li class="chapter-item expanded "><a href="data_legos.html"><strong aria-hidden="true">3.3.</strong> Event streams & data legos</a></li><li class="chapter-item expanded "><a href="improved_infrastructure.html"><strong aria-hidden="true">3.4.</strong> Improved infrastructure</a></li><li class="chapter-item expanded "><a href="knowledge_management.html"><strong aria-hidden="true">3.5.</strong> Information management</a></li><li class="chapter-item expanded "><a href="algorithms_feeds_aggregation.html"><strong aria-hidden="true">3.6.</strong> (WIP) Algorithms, feeds & aggregation</a></li><li class="chapter-item expanded "><a href="business_models.html"><strong aria-hidden="true">3.7.</strong> (WIP) Business models</a></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.8.</strong> Reinventing journalism</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">3.9.</strong> Citizen journalism</div></li><li class="chapter-item expanded "><a href="startup_case_study.html"><strong aria-hidden="true">3.10.</strong> Startup case study</a></li><li class="chapter-item expanded "><a href="concerns.html"><strong aria-hidden="true">3.11.</strong> Concerns with Headjack</a></li><li class="chapter-item expanded "><a href="what_really_is_headjack.html"><strong aria-hidden="true">3.12.</strong> What REALLY is Headjack</a></li></ol></li><li class="chapter-item expanded "><li class="part-title">⬇⬇⬇ WORK IN PROGRESS ⬇⬇⬇</li><li class="spacer"></li><li class="chapter-item expanded "><a href="execution.html"><strong aria-hidden="true">4.</strong> Implementation of Headjack</a><a class="toggle"><div>❱</div></a></li><li><ol class="section"><li class="chapter-item expanded "><a href="IDM.html"><strong aria-hidden="true">4.1.</strong> Identity managers (IDM)</a></li><li class="chapter-item expanded "><a href="handles.html"><strong aria-hidden="true">4.2.</strong> Handles (names)</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Headjack - the base layer of cyberspace</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/onqtam/headjack" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="problems"><a class="header" href="#problems">problems</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already</p>
+<p>fragmentation</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="collective-intelligence--sensemaking"><a class="header" href="#collective-intelligence--sensemaking">collective intelligence &amp; sensemaking</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>sunlight is the best disenfecatant
+the fastest way for pro social behaviors is to make sure everyone's reputation is on the line</p>
+<p>The role of something like change.org</p>
+<p>your main job would be to be an annotator - such that you get scored based on performance</p>
+<p>we need to enable freeform networking at scale in order to build a global brain - the host-centric model doesn't allow that - any type of data should be linkable &amp; manipulatable with any other data type</p>
+<p>high trust (social capital), shared stories &amp; strong institutions - required for democracy, but social media is eroding them - Jonathan Haidt
+https://www.youtube.com/watch?v=hu2jprZ50FY</p>
+<p>&quot;We have Paleolithic emotions, medieval institutions, and god-like technology.&quot; - Edward O. Wilson</p>
+<p>media tells us what is salient but we lack the tools to question the framing</p>
+<p>we should strive to separate causal patterns from correlated patterns</p>
+<p>== A self-organizing system - in the sensemaking chapter
+we can achieve cycles of differentiation (random exploration) followed by convergence &amp; integration to refine our collective model of reality in a self-organizing system - just like our minds work
+complexification followed by iterative integration - assimilation &amp; compression - calibration against the real world is the constant flux between the two
+zooming in and zooming out
+https://youtu.be/IZ-tHaHfB8A?t=3112
+stark contrast - Compare that to what we currently have - attention-driven feedback loops of psychosis &amp; epileptic seizures - we are unable to integrate the signal - we have no capacity to adaptively re-fit itself to the world
+The internet is suffering from epilepsy
+our current systems optimize for efficiency (attention capture) - not the evolvability of ideas
+the host-centric model hinders our ability to develop the tools for integration - for interlinking &amp; coming to consensus - we're given one-size-fits-all lowest common denominator functionality in the race to the bottom of the brain stem</p>
+<p>we lack precision weighting of the signals ==&gt; hence our psychosis</p>
+<blockquote>
+<p>&quot;the function of consciousness is to do enhanced relevance realization&quot; - <a href="https://youtu.be/IZ-tHaHfB8A?t=4094">source</a></p>
+</blockquote>
+<blockquote>
+<p>&quot;what consciousness is doing is higher-order relevance realization&quot; - <a href="https://youtu.be/IZ-tHaHfB8A?t=4199">source</a></p>
+</blockquote>
+<p>our capacity to pay attention in the right way was evolved - it is fundamentally an adaptive ability - it was selected for</p>
+<p>distributed cognition or sensemaking?
+https://en.wikipedia.org/wiki/Cognition</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="section-230-and-empowering-the-user-to-choose"><a class="header" href="#section-230-and-empowering-the-user-to-choose">section 230 and empowering the user to choose</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>we should shift curation from explicit moderation by people to tagging &amp; filtration preferences by the consumer</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="liquid-democracy--voting"><a class="header" href="#liquid-democracy--voting">liquid democracy &amp; voting</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>ability to specify criteria for the delegation - no need to pick specific people.</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="privacy"><a class="header" href="#privacy">privacy</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>Private opinions for polls - you might not want them public but still to be able to compare with those who are public</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="recommender-algorithms"><a class="header" href="#recommender-algorithms">recommender algorithms</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>Algorithms could use this liquid interest network to amplify and prioritize certain people on the loud speaker - I bet daniel Schmat would rank quite high - something the youtube algo wouldnt do</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="infinite-possibilities"><a class="header" href="#infinite-possibilities">infinite possibilities</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>Follow preferences of others - not just as notifications but also automatically adopting them</p>
+<p>Sociology and how anyone can do it - picture: mirror
+We can all do what sociologists do</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="information-organization---interlinking-data"><a class="header" href="#information-organization---interlinking-data">information organization - interlinking data</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much broader
+Google failed - they didnt organize the worlds information - they merely ranked it</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="reputation-systems"><a class="header" href="#reputation-systems">reputation systems</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>the skill tree in linkedin is completely fake - we could crowdsource it or have reputation systems based on real events &amp; attestations and allow for any visualization</p>
+<p>we can have a leaderboard for every topic under the sun</p>
+<p>Replace signaling with competence</p>
+<p>&quot;social reputation without settlement&quot; - no oracle needed
+Chapter on oracles and how theyre not necessary - just do a recount &amp; recalculate reputation based on different facts</p>
+<p>we should hold people who claim to be public intellectuals to a higher standard - not acknowledging that a comment might have been deleted by mistake and LATER commenting that it wasn't deleted and still there (although it's not there anymore)
+https://prnt.sc/FTXL0rEN6vz3
+https://prnt.sc/MqZJfMJHnJqG
+https://twitter.com/alexandrosM/status/1614328083645100032</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="multidimensionality"><a class="header" href="#multidimensionality">Multidimensionality</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>how to think about the digital world</p>
+<ul>
+<li>public/private</li>
+<li>anonymous/
+what can we build on top of this?</li>
+</ul>
+<p>add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone</p>
+<p>multidimensionality - think about what &quot;friendship&quot; is</p>
+<p>list explicitly all the different aspects of an online presence - goodreads, medium, quora, stack exchange, reddit, twitter, etc.</p>
+<p>your profile page - a linktree-like thing
+every change, every edit, every commit - all could be linked to your identity if you wished it</p>
+<p>view profile relevant to the current app VS view full profile with all activity</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="expressivity"><a class="header" href="#expressivity">Expressivity</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>A data network in which your input matters in an uncountable number of ways
+Expressivity!
+I want YOU to help build the metabrain
+To be a good little neuron</p>
+<blockquote>
+<p>&quot;Citizen journalism is vital to the future of civilization&quot; - <a href="https://twitter.com/elonmusk/status/1615461396313178115">@elonmusk</a></p>
+</blockquote>
+<p>Many social networks have polls about preferences &amp; beliefs - we've filled so much questionnaires but none of them have been truly meaningful</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="the-superapp"><a class="header" href="#the-superapp">The superapp</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>UIs should be drag/drop composable &amp; layoutable - in the superapp</p>
+<p>think of the the superapp as a browser</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="second-brain"><a class="header" href="#second-brain">second brain</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>note taking</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="wikipedia"><a class="header" href="#wikipedia">wikipedia</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>competing wikipedia-like pages written by different people &amp; being able to select between them? no more &quot;trusted source&quot; issues?</p>
+<p>Wikipedia and different prisms
+Slicing and dicing - chapter name</p>
+<p>we can use something like ChatGTP to summarize the results of polls from different points of view and write the text for a topic and always keep it up to date. This is the decentralized wikipedia.</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="querying--palantir-foundry"><a class="header" href="#querying--palantir-foundry">querying &amp; palantir foundry</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>Graph tool for constructing queries - data processing pipelines like in Foundry</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="provenance--deduplication"><a class="header" href="#provenance--deduplication">provenance &amp; deduplication</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>https://en.wikipedia.org/wiki/Data_lineage</p>
+<blockquote>
+<p>&quot;To make sense of the information and arguments we read, we have to understand where that information comes from.&quot; - <a href="https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.">Where Arguments Come From</a></p>
+</blockquote>
+<p>provenance graphs - imagine being able to check if any of the inputs of a story has been influenced by a specific source</p>
+<p>apps should be able to show you all references to a document - perhaps they might show specific UIs for those that are supported and all others should be in the &quot;other&quot; list without visualization</p>
+<p>on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
+Message types should be on-chain nouns</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="structured-data--improving-the-signalnoise-ratio"><a class="header" href="#structured-data--improving-the-signalnoise-ratio">Structured data &amp; improving the signal/noise ratio</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>Structured data should be incentivized - we’re drowning in text audio and video</p>
+<p>we can use AI to generate podcast-like conversations that cover the digital interactions of structured data</p>
+<p>currently we channel our energy in a useless way - the best we can do is get a hashtag trending. But with this system every type of interaction would count</p>
+<p>using structured data circumvents the need to think about the right words - it reduces friction in expression - streamlined expression as a chapter?</p>
+<p>Steve bannon is famous for saying to flood the zone with shit - lets drain the swamp</p>
+<p>&quot;Speech as proof of work is dead.&quot;
+https://twitter.com/gordonbrander/status/1622999277411741698</p>
+<p>what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?</p>
+<p>so much expressed opinions &amp; views are left unanalyzed &amp; unaggregated because they're in text - they have an ephemeral impact for a moment and then fade</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="anatomy-of-your-digital-footprint"><a class="header" href="#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="idms--personal-stuff"><a class="header" href="#idms--personal-stuff">IDMs &amp; personal stuff</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<p>TODO: add this in the attention &amp; alarms &amp; notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
+What If You Quit Social Media For 30 Days?
+https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="cryptohistory"><a class="header" href="#cryptohistory">cryptohistory</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<ul>
+<li>point: with AI being democratized - authenticity &amp; a ledger of record will be more important than ever.</li>
+</ul>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<h1 id="security--cant-be-evil"><a class="header" href="#security--cant-be-evil">security &amp; can't be evil</a></h1>
+<p>██████████████████████████████████████████████████████████████████████████████</p>
+<ul>
+<li>point: improved security - the hacking of high-profile accounts and posting on their behalf is almost impossible with the right opsec
+https://twitter.com/VitalikButerin/status/1576275977352536065
+https://twitter.com/tayvano_/status/1611131230074073088
+https://twitter.com/0x796/status/1611332890209419264
+https://twitter.com/0x796/status/1611371424945512460
+https://haveibeenpwned.com/
+https://twitter.com/SimpleLogin</li>
+</ul>
+<p>can't be evil - restore account from point</p>
+<p>Cant be evil - raising the bar for censorship - accountability and exit</p>
+<p>Move the decentralization point from the design page to the cant be evil page</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="competition.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="motivation.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="competition.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="motivation.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script>
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js"></script>
+        <script src="mark.min.js"></script>
+        <script src="searcher.js"></script>
+
+        <script src="clipboard.min.js"></script>
+        <script src="highlight.js"></script>
+        <script src="book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
