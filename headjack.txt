@@ -1,6 +1,33 @@
 
 
 
+Освен да разкажа по какво работя :)
+
+Работя по проект за идентичност и адресиране на евенти и документи от тези идентичности, в/у който има потенциал да се преизгради целият интерне (не преувеличавам).
+
+Ноември изнесох лекция на една конференция в Полша:
+https://www.youtube.com/watch?v=pEl2vLTStWE
+
+Информацията там е супер сбита - изрязах доста материал, но пак остана много за тези 45 минути (преди Q&A-a) - реших че ако изрежа още нещо няма да бъде изкомуникирана добре идеята. Аудиторията там не беше правилната - това беше първата крипто лекция в 10 годишната им история.
+
+Кандидатствал съм и на крипто конференции (последно Eth Dubai или на разни други като token2049), но понеже не съм взел финансиране все още и нямам някакви големи имена зад мен никой не ми обръща внимание. В момента се чудя дали да кандидатствам за Eth Zurich след 2 месеца.
+
+Още си разписвам идеята и ще ми трябват поне 2 месеца за това. До скоро беше публично всичко на адрес https://headjack.online/ но наскоро скрих почти всичко защото ще пренаписвам много от главите.
+
+Главният ми фокус последните месеци е всъщност не технологията, ами мотивационната част: какво би могло да се изгради в/у нея и каква е значимостта на това. Как биха могли да изглеждат социалните медии и интернета като цяло, какви биха били бизнес моделите, и т.н.
+
+Надеждата е че лятото вече ще търся активно финансиране, но до тогава карам на запаси.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -79,6 +106,8 @@ granularity of verification? many verticals? a bouquet of attestations
 
 
 
+we should be able to request all inputs that went into an aggregate and verify the calculation locally ourselves
+
 
 
 Community-centric
@@ -94,7 +123,13 @@ imagine being able to select a subset of all accounts worldwide and train a GPT 
 what if apps have to explicitly pay to infra for their data to be stored?
 
 
+deduplicating concepts and reusing them increases the efficiency & compactness of information. Common knowledge as unique concept/noun identifiers allows us to communicate more substance and interlink everything better
+Common knowledge is important for efficient communication
 
+
+context collapse - lack of provenance & the chain of custody of facts
+
+we have the opportunity to deduplicate common knowledge (concepts, nouns, etc). into a set of unique stable identifiers
 
 
 youtube's reaction to swarm downvoting is "remove the count". This system allows you to filter the count any way you want
