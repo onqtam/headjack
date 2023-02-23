@@ -142,7 +142,7 @@ https://arxiv.org/pdf/1911.08774.pdf
 
 
 ██████████████████████████████████████████████████████████████████████████████
-# privacy
+# privacy & anonymity
 ██████████████████████████████████████████████████████████████████████████████
 
 Private opinions for polls - you might not want them public but still to be able to compare with those who are public
