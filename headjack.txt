@@ -1,6 +1,28 @@
 
 
 
+shared context - common knowledge - enables more efficient communication
+we communicate more efficiently within groups when we have inside jokes
+we build dictionaries for efficient communication
+
+duplicated content & concepts leads to less common knowledge as it is harder/impossible to join the data and produce aggregated views - leading to fractured views
+
+context collapse
+https://en.wikipedia.org/wiki/Context_collapse
+
+if we deduplicate most of the information and concepts our attention will be less fractured and we'd have more common knowledge
+common knowledge is a critical component in cooperation
+
+freeform text adds entropy and ambiguity due to the context collapse in the open web where strangers interact with each other without sharing the same cultural & linguistic backgrounds
+
+https://en.wikipedia.org/wiki/Common_knowledge
+
+
+
+"deduplication & giving everything an ID"
+
+
+
 
 the endgame
 
@@ -17,9 +39,30 @@ representative democracy is vulnerable
 A bold idea to replace politicians | César Hidalgo
 https://www.youtube.com/watch?v=CyGWML6cI_k
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CyGWML6cI_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+representative polititians are packages and are full of compromises
+
+what if we could submit all our views & morals and feed that through aggregation algorithms that then score different policies to determine which ones should be chosen? And what if all this data was anonymized and yet public so anyone can re-do the aggregates?
+What if we could pull ZK credentials for different criteria from our real identity and input those (in some anonymized fashion) into the aggregation algorithm?
+
+This algorithm can be public & open source
 
 
 
+The third attractor is bottom-up emergent order
+
+Current social media is stupefying us
+
+
+
+we can bridge/bring along/transfer/extend VCs to the anonymized set of votes
+something could guide or estimate how deanonymizable we become depending on the ZK VCs we bridge
+
+
+
+
+we could have a quiz and give VCs to people that pass it and only count their votes in polls
 
 
 
@@ -27,6 +70,8 @@ https://www.youtube.com/watch?v=CyGWML6cI_k
 
 
 reducing information entropy - the level of surprise
+but aren't we actually reducing the ambiguity?
+bringing order
 reducing the symbol space
 
 reducing the vocabulary of common knowledge
@@ -35,15 +80,20 @@ reducing the vocabulary of common knowledge
 The Metaverse is an MMO (massively multiplayer online) freeform information network - a giant global graph - a metabrain
 https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
 
+massively multiplayer online relational database
+
+There will be SQL interfaces on top of all of the data
 
 think in terms of relations & joinability
 
-
+https://en.wikipedia.org/wiki/Semantic_network
 
 
 > "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure." - [Melvin E. Conway](https://en.wikipedia.org/wiki/Conway%27s_law)
 
 
+
+Notifications from social networks are hideously engineered to get you to get back in the app - we need to separate IDMs from apps
 
 
 
@@ -51,7 +101,6 @@ Sensemaking chapter - video replies without interlinking specific moments is jus
 How do we debunk stuff?
 Moonlanding faked?
 Ancient technology in egypt? Give links as evidence
-
 
 
 
@@ -142,6 +191,8 @@ what if apps have to explicitly pay to infra for their data to be stored?
 deduplicating concepts and reusing them increases the efficiency & compactness of information. Common knowledge as unique concept/noun identifiers allows us to communicate more substance and interlink everything better
 Common knowledge is important for efficient communication
 
+concepts! not nouns
+https://en.wikipedia.org/wiki/Concept
 
 context collapse - lack of provenance & the chain of custody of facts
 
