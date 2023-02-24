@@ -1,4 +1,37 @@
 
+Computable context
+
+Episodes & other creations should get their concept id
+
+Competition - 1-of-N
+
+We can let humans rank respurces for various topics
+
+Participatory - flow - in one with the environment
+Everything is salient
+Connectedness
+Agency
+Meaning
+
+
+
+Names can have an index and subdomains can refer to the names by idx - vbuterin should be in the state once even if rhere is a vbuterin.com and a vbuterin.eth - names are created once and reused by idx
+
+
+
+AI classification isn’t scalable enough and can be ambiguous
+
+Why NFTs are overhyped - but VCs and attestations are not
+
+Due to the scale-free effect there will be a power law distribution for the IDs being used - there will be a convergence - just like imdb movie ids are used in many places
+
+The metaverse is where your entire digital trail resides and underneath that is identity
+
+Meme: fork in the road: host-centric status quo vs SSI and content addressing
+
+Social media is not about pictures of what we ate - its a global coordination substrate
+
+
 
 
 shared context - common knowledge - enables more efficient communication
