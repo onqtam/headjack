@@ -33,6 +33,20 @@ Social media is not about pictures of what we ate - its a global coordination su
 
 
 
+what about flagging an HR person as spammy? that should have its own specialized message type
+
+
+Signing with a private ley requires it to always be loaded - for every new event
+Contrast that to auth tokens - they are created once and reused many times - only the point of creation needs the highest security
+
+A true social network allows data, events and identities to be linked in any way imaginable - today’s platforms are a lowest common denominator with hard constraints on how they can be extended
+
+We’ve never had a true social network
+
+Guaranteed resolvability
+
+
+
 
 shared context - common knowledge - enables more efficient communication
 we communicate more efficiently within groups when we have inside jokes
