@@ -31,7 +31,7 @@ https://www.google.com/search?q=start+with+why
 
 https://www.google.com/search?q=the+golden+circle
 
-> "One of the things I've always found is that **you've got to start with the customer experience and work backwards for the technology.**" - [Steve Jobs](https://www.youtube.com/watch?v=916Ye9XmIjI)
+> "One of the things I've always found is that **you've got to start with the customer experience and work backwards to the technology.**" - [Steve Jobs](https://www.youtube.com/watch?v=916Ye9XmIjI)
 
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/916Ye9XmIjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
