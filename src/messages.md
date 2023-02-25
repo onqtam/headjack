@@ -98,6 +98,8 @@ dislike button/protocol/spec? ⇒ reactions
 
 https://en.wikipedia.org/wiki/Ontology_(information_science)
 https://en.wikipedia.org/wiki/Web_Ontology_Language
+https://en.wikipedia.org/wiki/Concept_map
+https://en.wikipedia.org/wiki/Semantic_network
 
 https://en.wikipedia.org/wiki/Resource_Description_Framework
 
