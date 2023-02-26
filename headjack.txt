@@ -34,6 +34,11 @@ The perpetual AMA
 there's a sociological asymmetry of power - those that produce data and those that have access to it
 
 
+Stack overflow questions can have their titles changed/edited by someone other than the author with the goal of making it more precise - why not do the same for videos & all other kinds of content?
+
+we can compute truthfulness - or at least levels of alignment to a set of beliefs
+
+
 what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
 
 
