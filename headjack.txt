@@ -39,6 +39,9 @@ Stack overflow questions can have their titles changed/edited by someone other t
 we can compute truthfulness - or at least levels of alignment to a set of beliefs
 
 
+a bottom-up global governance system can only be built on top of a shared identity layer, trust, reputation & immutable history
+
+
 what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
 
 
