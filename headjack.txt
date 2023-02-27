@@ -14,6 +14,11 @@ Agency
 Meaning
 
 
+> "The Domain Name Server (DNS) is the Achilles heel of the Web." - [Tim Berners-Lee](https://www.brainyquote.com/quotes/tim_bernerslee_373104)
+
+
+We are so limited - we should be able to sort and filter spotify episodes based on views/engagement. All these apps provide us a limited sandboxed environment
+
 
 hyper agents (extremely influential individuals & entities) need to be held to higher standards & have more scrutiny
 
