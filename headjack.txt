@@ -26,6 +26,9 @@ what if we rewarded those who find divisive fault lines and bridge the gap?
 
 
 what if we could tag/annotate content where human faces are using filters - or at least that we think its happening?
+what if we could choose that the recommender AIs do not show us faces with artificial filters (annotated as such by others) - wouldn't that disincentivize the use of such filters?
+Obviously this isn't thought through completely - it could turn out bad if the annotation isn't reliable - its just trying to illustrate a point.
+we can have a lot more choice in what is being promoted in media
 
 
 hyper agents (extremely influential individuals & entities) need to be held to higher standards & have more scrutiny
