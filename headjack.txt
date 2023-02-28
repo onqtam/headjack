@@ -32,6 +32,27 @@ we could use AI to detect this instead of human annotation & reactions
 we can have a lot more choice in what is being promoted in media
 
 
+What if we could tell recommender algorithms to avoid content about dieting for example? why not be able to include/exclude based on such types?
+
+
+The current social media arms race is in harvesting attention & going to the bottom of the brain stem. What if the nature of competition is changed and the ones that offer the most choice for users win?
+
+
+we can crowdsource a ranking of bad UI mechanics that should be avoided in media and use that to inform which apps & algorithms we use
+the stopping queue has been removed since the invention of the endless feed scrolling mechanic - what if there was a checklist of bad UI decisions that all apps are ranked against?
+
+
+what if we could analyze any piece of media for the degree of use of loaded/manipulative language?
+
+
+
+Its all about choice.
+
+
+
+relevance realization
+
+
 hyper agents (extremely influential individuals & entities) need to be held to higher standards & have more scrutiny
 
 
