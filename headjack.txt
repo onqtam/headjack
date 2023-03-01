@@ -83,6 +83,7 @@ A graph has many ways to be traversed so we could ask AIs to generate a few vers
 The generated linearized/serialized output could have an automatically generated mapping so that we can see which regions correspond to which parts of the graph with some highlighting and we could have both displayed side by side in a synchronized “playback”
 
 People can have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more emphasis on them
+Imagine integrating this in a movie-maker-like software with a timeline widget
 
 We could compute the similarity of views if they were in such graph forms
 
@@ -90,9 +91,30 @@ If we can annotate facts and claims then we’d be able to track the provenance 
 
 We should be thinking in diagrams, graphs and state machines - mind mapping is superior for comprehension and retention of information compared to linearized text - we can augment/upgrade/automate our linguistics for the first time
 
+the future of script writing is graph creation, where refactoring and shuffling things around is just a matter of moving around & reconnecting subgraphs
+
 Linearization/serialization of ideas in language inevitably loses details, precision and connections
 
-the next version of tweets will be small graphs
+The source should always be a graph because our minds represent knowledge and ideas as graphs - even though we communicate through serialization.
+
+The only way for serialization to language to not lose any details, connections & nuance in complex ideas is to be overly verbose and incomprehensible by humans.
+
+the next version of tweets will be small graphs, accompanied by representations in a few media forms for different consumption options
+
+
+
+This is how we should think about humans in the giang global graph:
+https://www.youtube.com/watch?v=V0XfleKJSXM
+History of Ethereum 2013-2018 (Git Visualization)
+gource - git visualization
+
+
+
+
+
+formal language, predicate/first-order logic, 
+
+ontological engineering - woah
 
 
 
@@ -100,6 +122,20 @@ the next version of tweets will be small graphs
 
 
 
+
+
+
+> "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
+
+If you want to understand the Metaverse, think in terms of graphs, identities and events.
+
+
+
+
+
+
+We should be able to relate things and look for relations/references - example:
+The YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) by the creators of the videos is out of order, but someone made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is in proper order. We should be able to see all references for the original playlist when viewing it and filter them and more easily discover the fixed playlist
 
 
 
