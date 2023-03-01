@@ -49,6 +49,66 @@ what if we could analyze any piece of media for the degree of use of loaded/mani
 Its all about choice.
 
 
+why can't we crowdsource "top 10 videos that everyone should watch"
+
+
+all journalism suffers from
+- gelman amnesia   https://theportal.wiki/wiki/The_Gell-Mann_Amnesia_Effect
+- cherry picking - reality is a lot more complex
+- framing / frame control & russell conjugation - what is vs how to feel about what is - this should be an anti signal
+We should be less reliant on narratives and more on data
+
+
+
+translating language to graphs of data is messy and hard - what if we first constructed our belief graphs & thesis explicitly and then used AI to generate us presenting our version of the story in the most coherent way possible? What if we shifted creation to explicit node-based software first before anything else?
+what leads to what, what the probabilities are.
+just like writing forces us to think, the next level is constructing such graphs in forcing us to think
+But until now we haven't had the option to turn such graphs into other types of consumable media
+imagine how we can edit a graph and re-render the final media output to reflect that
+we could even generate media that summarizes the changes of the graph throughout time - "generate change report in X format"
+
+
+
+What if we could debug the logic in our graph circuits - perhaps by checking specific assumptions around other external fact databases?
+
+
+We’d be able to “view source” for the AI-generated summaries
+
+We’d be able to query where else specific facts (semantic triples) are mentioned
+
+“The need for structure”
+
+A graph has many ways to be traversed so we could ask AIs to generate a few versions so that we can pick. Our we could draw a pathing for linguistic linearization
+
+The generated linearized/serialized output could have an automatically generated mapping so that we can see which regions correspond to which parts of the graph with some highlighting and we could have both displayed side by side in a synchronized “playback”
+
+People can have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more emphasis on them
+
+We could compute the similarity of views if they were in such graph forms
+
+If we can annotate facts and claims then we’d be able to track the provenance of ideas - or at least view their first occurance
+
+We should be thinking in diagrams, graphs and state machines - mind mapping is superior for comprehension and retention of information compared to linearized text - we can augment/upgrade/automate our linguistics for the first time
+
+Linearization/serialization of ideas in language inevitably loses details, precision and connections
+
+the next version of tweets will be small graphs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 anonymity - reducing the cost of defection
 
 
