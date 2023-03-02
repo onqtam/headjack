@@ -105,18 +105,36 @@ language evolved hundreds of thousands of years ago - its about time we upgraded
 
 the better we annotate content - the more discoverable it will be. People don't put #hashtags without a good reason - however they are extremely limited
 
+we could (partially) pattern-match our thoughts
+
 This is how we should think about humans in the giang global graph:
 https://www.youtube.com/watch?v=V0XfleKJSXM
 History of Ethereum 2013-2018 (Git Visualization)
 gource - git visualization
 
+the semantic web was held back by the host-centric model and the lack of stable decentralized identities to which we could link/join data
 
+reviving the semantic web
+
+web 3.0 is a graph of identities & events in the cloud - beyond the confines of the host-centric web
+
+accounts have their own concept/noun space with identifiers from 1 and upwards
+others can define onthologies that use those concepts
+others can make equivalence maps between onthologies & concepts
+
+imagine modelling the case around TikTok as a graph/tree
+
+
+Social media 1.0 is a capitalistic artifact of gradient descent. Social media 2.0 is the Metaverse where data has no boundries
+
+Wikipedia 2.0 will be a crowdsourced knowledge graph
+
+with common shared knowledge graphs we could do impact analysis for event prioritization and also root cause analysis and other graphs that perhaps represent someone's essay/thoughts could refer to the main shared graph - acting as an extension to it that can be considered in the context of the whole & analyzed
 
 the semantic web is about replacing the statistical and sporadic links in the web with something actually meaningful and unambiguous & semantic
 
 formal language, predicate/first-order logic, 
 
-ontological engineering - woah
 
 what if we had different knobs to tune the availability of content - not just likes/dislikes
 
@@ -146,7 +164,12 @@ Perspective expansion vs perspective division/separation/certainty
 
 We are what we eat but we are also what we watch
 
+in the current web your interactions lead to better recommendations and better ads. In an open world your interactions would enable all kinds of insight that anyone could surface
+open & shared knowledge graphs would unlock unimaginable services & insight - part of the cold start problem is lack of access to a knowledge graph
+knowledge graphs bring context
+ontological engineering would be required for proper knowledge graphs...
 
+in entity resolution (if records from different data sources represent the same entity) consistency is key, and so is brevity/compactness
 
 
 what if your inputs (likes/votes/etc) weren't seen in the feeds of your followers (as explicit comments or whatever) but could still affect them - as in curating content for them?
@@ -159,8 +182,7 @@ what if your inputs (likes/votes/etc) weren't seen in the feeds of your follower
 
 > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
 
-If you want to understand the Metaverse, think in terms of identities, events & graphs/relations.
-- [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
+> "If you want to find the secrets of the Metaverse, think in terms of identities, events & graphs/relations." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
 
 
 

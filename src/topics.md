@@ -374,7 +374,9 @@ everyone can have access to something like Palantir Foundry for the entirety of 
 
 localized queries - "looking for blood donor"?
 
+THIS also relates to provenance
 data pipelines & lineage - anyone would be able to do such complex analysis on public data
+https://en.wikipedia.org/wiki/Data_lineage
 ontology
 Foundry 2022 Operating System Demo
 https://www.youtube.com/watch?v=uF-GSj-Exms
