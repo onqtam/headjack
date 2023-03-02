@@ -35,6 +35,10 @@ https://twitter.com/VitalikButerin/status/1575890520403869696
 
 
 
+if message headers (where the URI is) also contain the content hash then one service could save only the headers & blob merkle tree without the content and then other apps that don't want to store that data but store only the actual contents could request the blob merkle proofs for a given URI
+we can have a 1-of-n storage for these proofs
+
+
 
 https://en.wikipedia.org/wiki/Resource_Description_Framework
 https://en.wikipedia.org/wiki/RDFa
