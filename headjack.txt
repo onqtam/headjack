@@ -69,7 +69,7 @@ we could even generate media that summarizes the changes of the graph throughout
 
 
 
-What if we could debug the logic in our graph circuits - perhaps by checking specific assumptions around other external fact databases?
+What if we could debug / fact-check the logic in our graph circuits - perhaps by checking specific assumptions around other external fact databases?
 
 
 We’d be able to “view source” for the AI-generated summaries
@@ -101,7 +101,9 @@ The only way for serialization to language to not lose any details, connections 
 
 the next version of tweets will be small graphs, accompanied by representations in a few media forms for different consumption options
 
+language evolved hundreds of thousands of years ago - its about time we upgraded from it
 
+the better we annotate content - the more discoverable it will be. People don't put #hashtags without a good reason - however they are extremely limited
 
 This is how we should think about humans in the giang global graph:
 https://www.youtube.com/watch?v=V0XfleKJSXM
@@ -110,14 +112,44 @@ gource - git visualization
 
 
 
-
+the semantic web is about replacing the statistical and sporadic links in the web with something actually meaningful and unambiguous & semantic
 
 formal language, predicate/first-order logic, 
 
 ontological engineering - woah
 
+what if we had different knobs to tune the availability of content - not just likes/dislikes
+
+not facts/concepts/rules - assertions!
+
+what if we could crowdsource something like Cyc?
+https://www.youtube.com/watch?v=kwYaj-1EVJ0
+
+What if wikipedia was a common knowledge graph with different possible views for it?
 
 
+
+concern: its impossible to have updated views & indexes for every aggregate with a big enough different filtration criteria, but its important for any view to be possible, so that eventually it gets calculated & surfaces
+
+
+
+unlike text, structured data is easily aggregatable for the purpose of visualization through graphs & charts which makes it easily comprehensible
+
+
+The current social apps exploit our social reciprocity - x follows you - follow them back! We should rethink our types of connections and the amount of persuation and manipulation apps can do to us
+
+Can’t be evil - tiktok in 2022 was running jn russia without the ability to view foreign content and russians could not post content about the war
+
+Cant be evil - searcc result manipulation and bias
+
+Perspective expansion vs perspective division/separation/certainty
+
+We are what we eat but we are also what we watch
+
+
+
+
+what if your inputs (likes/votes/etc) weren't seen in the feeds of your followers (as explicit comments or whatever) but could still affect them - as in curating content for them?
 
 
 
@@ -127,7 +159,7 @@ ontological engineering - woah
 
 > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
 
-If you want to understand the Metaverse, think in terms of graphs, identities and events.
+If you want to understand the Metaverse, think in terms of identities, events & graphs/relations.
 - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
 
 

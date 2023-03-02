@@ -145,6 +145,7 @@
 
 - Jellyfish Merkle Tree
     https://developers.diem.com/papers/jellyfish-merkle-tree/2021-01-14.pdf
+    https://twitter.com/sovereign_labs/status/1630994017801617408
     https://mirror.xyz/sovlabs.eth/pZl5kAtNIRQiKAjuFvDOQCmFIamGnf0oul3as_DhqGA#:~:text=For%20efficiency%20outside%20of%20the%20zkVM%2C%20we%E2%80%99ll%20use%20the%20Jellyfish%20Merkle%20Tree%20(JMT)%20originally%20developed%20by%20Diem
 
 - accumulators
