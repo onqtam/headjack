@@ -18,6 +18,8 @@ Is it a coincidence that one of the most important papers in AI/ML that introduc
 
 # Verifiable algorithms, indexes & models
 
+we should be able to request all inputs that went into an aggregate and verify the calculation locally ourselves
+
 Within Headjack, all public data is freely accessible and the [data network effect](https://mattturck.com/the-power-of-data-network-effects/) is shared by every actor in the ecosystem - anyone can train new ML models, compute views and analyze data in new ways. There will be demand for all kinds of indexes & models but because entry is permissionless a market will appear and the ones that process data the most efficiently will be rewarded. The results of such batch processing jobs could be public or private (available only to those who pay for access) and the product would be verifiable - either optimistically (trust by default but with the option to recreate them and check for equivalence at some cost) or through [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing).
 
 > "Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level." - [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)

@@ -37,18 +37,3 @@ If someone implements speech-to-text and starts transcribing audio episodes and 
 https://openai.com/blog/whisper/
 https://news.ycombinator.com/item?id=32927360
 
-# Notifications & subscriptions
-
-Twitter decided that it needs to boost engagement and forced "recent tweet" notifications on us [without the ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/) - that needs to stop - explicit preferences should be honored.
-
-> "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
-
-When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multidimensional for any type of event stream - like `"show me everything from X unless from application A or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
-
-TODO: follow anything
-
-What if you wanted to see when someone follows something as an event/notification - each time they follow someone? There's no way to configure the current platforms for that
-
-We should be able to follow playlists in social media - and be able to turn on notifications for them
-
-

@@ -3,9 +3,8 @@ Computable context
 
 Episodes & other creations should get their concept id
 
-Competition - 1-of-N
 
-We can let humans rank respurces for various topics
+
 
 Participatory - flow - in one with the environment
 Everything is salient
@@ -14,15 +13,11 @@ Agency
 Meaning
 
 
-> "The Domain Name Server (DNS) is the Achilles heel of the Web." - [Tim Berners-Lee](https://www.brainyquote.com/quotes/tim_bernerslee_373104)
+
 
 
 We are so limited - we should be able to sort and filter spotify episodes based on views/engagement. All these apps provide us a limited sandboxed environment
 
-
-we need a shared view of reality and the ability to coordinate around that view of reality
-we need social media that is rewarding synthesis of ideas
-what if we rewarded those who find divisive fault lines and bridge the gap?
 
 
 what if we could tag/annotate content where human faces are using filters - or at least that we think its happening?
@@ -117,6 +112,16 @@ the semantic web was held back by the host-centric model and the lack of stable 
 reviving the semantic web
 
 web 3.0 is a graph of identities & events in the cloud - beyond the confines of the host-centric web
+web 3.0 is the original idea of the semantic web - the original web 3.0
+
+onthology/taxonomy vs the knowledge graph
+https://www.youtube.com/watch?v=7rn3P-RlN3s
+
+example: schema.org and their "identifiers" for relationships:
+https://schema.org/knows
+but this could be just 2 numbers: 1234:651
+
+"pull that up jamie" - see everything that referenced X (identity/URI) and filter types of references (AMA/critiques/annotations/general discussion)
 
 accounts have their own concept/noun space with identifiers from 1 and upwards
 others can define onthologies that use those concepts
@@ -148,6 +153,14 @@ What if wikipedia was a common knowledge graph with different possible views for
 
 
 concern: its impossible to have updated views & indexes for every aggregate with a big enough different filtration criteria, but its important for any view to be possible, so that eventually it gets calculated & surfaces
+
+dehumanization is a psychosocial externality and we should be able to flag it and influence recommender algorithms with our labeling
+
+we can crowdsource improvement proposals for any topic - for example feature requests for recommender algorithms for ANYONE to implement, and when they do, they can mark themselves there and users can migrate to them if they really care about that feature
+
+
+signal/noise reduction & structured data
+less language ==> less need for translation & localization
 
 
 
@@ -416,7 +429,7 @@ imagine being able to crowdsource debate requests with specific people and see a
 
 
 
-when youtube removes a video of yours - it should still be available by you.
+when youtube removes a video of yours - it should still be available by you. It should still have an ID if you wish it so
 
 boosting the competent through ranking their public information & track record objectively & transparently
 we need to build the public introspection tool
@@ -425,9 +438,6 @@ we need to build the public introspection tool
 
 
 imagine browsing the public web like it was your personal files in your apps and drives - having total control of how you store and group that data. This could be the case with the public web. And we could advertise what kind of filters & grouping options we prefer with public messages which are not options. we can crowdsource preference and show which things are preferred. We can end the binary duopoly in politics by making all opinions and interests unbundled from each other
-
-
-services will no longer have the host-centric model to point to as the reason for siloing data - just the fact that we would give an address to our documents that is beyond any specific host is enough of a reason for the nature of competition to change
 
 
 Global vs local for the feed - locality of information & notifications!
@@ -440,11 +450,8 @@ granularity of verification? many verticals? a bouquet of attestations
 
 
 
-we should be able to request all inputs that went into an aggregate and verify the calculation locally ourselves
 
 
-
-Community-centric
 
 twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
 
@@ -454,7 +461,13 @@ imagine being able to select a subset of all accounts worldwide and train a GPT 
 
 
 
-what if apps have to explicitly pay to infra for their data to be stored?
+
+
+
+
+
+
+
 
 
 deduplicating concepts and reusing them increases the efficiency & compactness of information. Common knowledge as unique concept/noun identifiers allows us to communicate more substance and interlink everything better

@@ -89,7 +89,7 @@ The [`"Unix and Google"`](https://www.youtube.com/watch?v=3Ea3pkTCYx4) video bea
 
 ---
 
-Today social media applications have to reimplement the same functionality & [vertically integrate](barriers_to_entry.md#vertical-integration-vs-marketscompetition) which is `O(M × N)`. With Headjack there'll be a market for every layer of the stack & solutions can be reused - `O(M + N)`. The core enabler for this is the linking of data to [sovereign identity](https://twitter.com/balajis/status/1162401646258749441) which leads to portability & interoperability between applications & the end of the host-centric model. Think of it as an [open state database](https://twitter.com/balajis/status/1123092897664880640) where only the most important bits are decentralized & guaranteed to be around. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation not possible before, but also because of the reduced effort and code reuse - every problem needs to be solved only once.
+Today social media applications have to reimplement the same functionality & [vertically integrate](TODO.md#vertical-integration-vs-marketscompetition) which is `O(M × N)`. With Headjack there'll be a market for every layer of the stack & solutions can be reused - `O(M + N)`. The core enabler for this is the linking of data to [sovereign identity](https://twitter.com/balajis/status/1162401646258749441) which leads to portability & interoperability between applications & the end of the host-centric model. Think of it as an [open state database](https://twitter.com/balajis/status/1123092897664880640) where only the most important bits are decentralized & guaranteed to be around. An ecosystem on a shared identity layer with uniform content addressing will outperform closed ecosystems not only because of the permissionless innovation not possible before, but also because of the reduced effort and code reuse - every problem needs to be solved only once.
 
 > "Compositionality is the principle that a system should be designed by composing together smaller subsystems, and reasoning about the system should be done recursively on its structure." - [Jules Hedges, On Compositionality](https://julesh.com/2017/04/22/on-compositionality/)
 
@@ -230,16 +230,16 @@ a new era for communication, cooperation & compute
 -->
 
 - [distribute power](https://twitter.com/balajis/status/1554228316181127169) and let people have a [choice](knowledge_management.md#forking-media--communities) - identity should be controlled by no one
-- rebuild & scale up trust through [authenticity](ledger_of_record.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
-- revive the [semantic web](knowledge_management.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](ledger_of_record.md#deduplicating-documents--traceability)
+- rebuild & scale up trust through [authenticity](cryptohistory.md) and build the [ledger of record](https://twitter.com/balajis/status/1459140902144729088)
+- revive the [semantic web](knowledge_management.md#the-semantic-web-aka-the-original-web3), [deduplicate content & enable traceability](cryptohistory.md#deduplicating-documents--traceability)
 - improve transparency - ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
     - [virality, feeds & algorithms](problems_with_the_web.md#black-boxes--algorithmic-bias) needs to be politically & content-neutral
-- break the [vertical integration](barriers_to_entry.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
+- break the [vertical integration](TODO.md#vertical-integration-vs-specialization--competition) through interoperability & markets - allow for specialization
     - lower the barrier to entry for innovation - the design space is limitless
     - enable alternative business models - the monopolistic ad economy is a paperclip maximizer with huge cultural repercussions
 - [enable](knowledge_management.md#query--plot-anything) super users to separate signal from noise through open data & better tooling
 - empower storytellers by [improving books and publications](knowledge_management.md#the-future-of-publishing-knowledge--learning)
-- make infrastructure more resilient through [redundancy](improved_infrastructure.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
+- make infrastructure more resilient through [redundancy](TODO.md#redundancy-scaling--topological-flexibility) and p2p content-addressing
 - slay [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) - the god of coordination failures & multipolar traps
 - launching anything on a different network should be architecturally indefensible
 

@@ -15,28 +15,23 @@
     - [Headjack vs the competition](competition.md)
 
 - [Why Headjack v2](topics.md)
+    - [History 2.0: cryptohistory](cryptohistory.md)
+    - [Your digital footprint](digital_footprint.md)
+    - [Organizing information](organizing_information.md)
+    - [Incentives & algorithms](incentives_algorithms.md)
     - [Collective intelligence](collective_intelligence.md)
-    - [Organizing information]()
+    - [Can't be evil](cant_be_evil.md)
+    - [Business models](business_models.md)
+    - [Startup case study](startup_case_study.md)
+    - [What REALLY is Headjack](what_really_is_headjack.md)
 
 - [Why Headjack](motivation.md)
     - [Problems with the web](problems_with_the_web.md)
         - [The host-centric web](host_centric.md)
         - [The information ecology](information_ecology.md)
-        - [(WIP) Centralization](centralization.md)
-        - [Silo vs interoperability](barriers_to_entry.md)
-        - [Black boxes & bias](black_boxes.md)
-        - [Specific platforms](specific_platforms.md)
-    - [(WIP) History 2.0: the ledger of record](ledger_of_record.md)
     - [Event streams & data legos](data_legos.md)
-    - [Improved infrastructure](improved_infrastructure.md)
     - [Information management](knowledge_management.md)
     - [(WIP) Algorithms, feeds & aggregation](algorithms_feeds_aggregation.md)
-    - [(WIP) Business models](business_models.md)
-    - [Reinventing journalism]()
-    - [Citizen journalism]()
-    - [Startup case study](startup_case_study.md)
-    - [Concerns with Headjack](concerns.md)
-    - [What REALLY is Headjack](what_really_is_headjack.md)
 
 <!-- Mental models for Headjack -->
 
@@ -47,6 +42,7 @@
 ---
 
 - [Implementation of Headjack](execution.md)
+    - [Concerns with Headjack](concerns.md)
     - [Identity managers (IDM)](IDM.md)
     - [Handles (names)](handles.md)
 

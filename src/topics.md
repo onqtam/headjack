@@ -5,95 +5,12 @@
 <!-- toc -->
 
 ██████████████████████████████████████████████████████████████████████████████
-# problems
-# incentives & the status quo
-██████████████████████████████████████████████████████████████████████████████
-
-> "Legacy structures of information control have dominated the first decades of the Internet. The evidence suggests that this situation must change." - [The End Of Propaganda - The Consilience Project](https://consilienceproject.org/the-end-of-propaganda/#:~:text=Legacy%20structures%20of%20information%20control%20have%20dominated%20the%20first%20decades%20of%20the%20Internet.%20The%20evidence%20suggests%20that%20this%20situation%20must%20change.)
-
-> "According to technical legal definitions provided by psychologists, so-called “persuasive technologies”—especially social media—have crossed the threshold from persuasion to coercion." - [Social Media Enables Undue Influence - The Consilience Project](https://consilienceproject.org/social-media-enables-undue-influence/#:~:text=according%20to%20technical%20legal%20definitions%20provided%20by%20psychologists%2C%20so%2Dcalled%20%E2%80%9Cpersuasive%20technologies%E2%80%9D%E2%80%94especially%20social%20media%E2%80%94have%20crossed%20the%20threshold%20from%20persuasion%20to%20coercion.)
-
-The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
-
-
-fragmentation
-
-The great attention misallocation
-
-today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
-
-Current social media is garbage- garbage in, garbage out
-
-We as a society dont know ourselves en masse - only a few companies are in that position
-
-Context switching is terrible for the brain - Twitter is an ADHD/ADD machine
-
-We're the cattle and the platforms are our ranchers
-The media incentive alignment problem: what we're allowed to do with public data with no programmatic access to it
-"realigning incentives"
-By severing the connection between identity management and media we can better align the incentives of these systems - our IDMs would not be harvesting our attention and we could tune the addictiveness & notifications
-
-the host-centric model allows for platforms to own our content, which leads to misaligned incentives:
-time spent: user disempowerment - everything is AI controlled & recommender systems all the way down - attention maximization
-time well spent: user empowerment in being able to control what they want to see & how much of it
-
-> "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
-
-YouTube recently removed the option to sort the videos of a channel by oldest first - because why not - because they can.
-
-the great attention misallocation - we all think certain issues don't get enough coverage or that other types of content get oversized & undeserved attention - we need to take control of the architecture of virality and the first step is actually having a choice.
-
-VERTICAL INTEGRATION:
-    Youtube now has posts like twitter where you talk to your subscribers - why a separate network ?! why are all these platforms reinventing the same features ?!
-
-    Why does spotify need to build video streaming to compete with youtube?
-
-██████████████████████████████████████████████████████████████████████████████
-# Ultimate scarcity: time & attention
-██████████████████████████████████████████████████████████████████████████████
-
-`"Attention Is All You Need"`
-"attention is all we have"
-
-> "Our minds are hurt more often by overeating than by hunger." — Petrarch
-
-> “To be everywhere is to be nowhere.” ― Seneca
-
-> "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert A. Simon
-
-
-██████████████████████████████████████████████████████████████████████████████
-# section 230 and empowering the user to choose
-# Recommender algos, choice & section 230
-██████████████████████████████████████████████████████████████████████████████
-
-
-we should shift curation from explicit moderation by people to tagging & filtration preferences by the consumer
-
-TODO: integrate these 2 (about the move from social/interest graph to recommendation algorithms):
-https://twitter.com/jonwu_/status/1587462349018972161
-https://twitter.com/alexeheath/status/1552401066444013568
-
-choice vs algorithmic recommendation
-
-recommender algorithms incentivise clickbait. Explicit follow graphs incentivise quality & explicit recommendations by people you follow
-
-recommender systems & search engines should NOT give you "other things you might be interested in" interleaved with the results for a specific query just to get you more engaged - but that's something YouTube is doing. You didn't ask for that but you got it
-
-misaligned incentives
-
-on attention:
-https://gurwinder.substack.com/p/the-intellectual-obesity-crisis
-
-the 2 sides of "the consumer is always right":
-- the brain stem one - whatever they engage the most with is the right thing
-- the frontral cortex one - whatever they explicitly choose is the right thing
-
-██████████████████████████████████████████████████████████████████████████████
 # Curators & labelers
 ██████████████████████████████████████████████████████████████████████████████
 
 "reshaping the influencer"
+
+We can let humans rank resources for various topics
 
 What if we could flag [Bad Faith Communication](https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=and%20education%20crises.-,Common%20Strategies%20of%20Bad%20Faith%20Communication,-Misleading%20with%20facts)?
 
@@ -112,25 +29,6 @@ reputation! badges!
 badges:
 https://twitter.com/TitterTakeover/status/1622323886611202051
 
-██████████████████████████████████████████████████████████████████████████████
-# stable documents
-██████████████████████████████████████████████████████████████████████████████
-
-IPFS CIDs also let you do Xanadu-style transclusion with standoff markup. Offsets don't break because the CIDs are immutable.
-https://twitter.com/gordonbrander/status/1619370073722089472
-
-highlighted parts of a page - with surrounding characters - for stable linking of documents even if there have been changes to them elsewhere in a new URI
-
-Suppose 2 public intellectuals start debating something - others should be able to annotate that conversation with the right tags and topics and add structure to it
-
-overlaying annotations for pieces that lack it
-
-██████████████████████████████████████████████████████████████████████████████
-# recommender algorithms
-██████████████████████████████████████████████████████████████████████████████
-
-Algorithms could use this liquid interest network to amplify and prioritize certain people on the loud speaker - I bet daniel Schmat would rank quite high - something the youtube algo wouldnt do
-
 
 ██████████████████████████████████████████████████████████████████████████████
 # infinite possibilities
@@ -147,180 +45,7 @@ we should be able to express "I care about deforestation and the Amazon rainfore
 GitHub stars are effectively likes on repositories
 Example: github stars - what if anyone could develop filters for the stars of people with advanced criteria? Different trending dashboads?
 
-██████████████████████████████████████████████████████████████████████████████
-# organizing information - interlinking & deduplicating data
-██████████████████████████████████████████████████████████████████████████████
 
-== problems:
-- 
-== solutions:
-- 
-- 
-- knowledge graphs & the semantic web
-
-google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much broader
-Google failed - they didnt organize the worlds information - they merely ranked it
-
-just like in open source problems need to be solved only once, the same way in a world of unified identity & deduplicated concepts interwoven with social media debates need to be had only once
-
-stable identity keys allows for stable concept/collection/noun keys which allows for stable mapping and deduplication of concepts
-
-We need to deduplicate & reduce the amount of unique joinable keys for nouns, concepts, events & products. In the case when the same noun is published multiple times by different entities - maps of equivalence could be published so that nouns are equated to mean the same thing. We should be able to toggle which equivalence maps to enable.
-
-joinability
-
-stability of identifiers is crucial for relational databases.
-The relational model is built on the premise of stable identifiers.
-
-key stability ==> information deduplication & integration
-
-If you choose an obscure tag or even if its the same but from an unpopular collection you'd simply limit your visibility & discoverability - there's an implied incentive to use the most popular collections when tagging your content
-
-We should be able to view the most pressing questions for public figures and CEOs
-Integrating all these different use cases with social media and unified identity and notifications is how to make them viral
-We should be able to surface questions to elites and leaders and make it glaringly obvious if they have responded to them or not
-It is easy to ingore some obscure app but not when everything is built on top of the same identity & data network
-Sporadic Reddit AMAs are absolutely ibadequate
-every account should have an AMA associated with them
-This is what connecting people looks like - facebook isnt even scratching t he surface
-
-Disallowing comments on a youtube video is just dumb because you cannot disallow comments for it on reddit anyway - all you are doing is trying to hide commentary about what you are presenting
-
-concern: negative reputation & "scarlet letters"
-
-fine-grained control
-When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users ot not 
-
-https://twitter.com/SocietyLibrary
-the internet is unstructured
-linked knowledge database
-libraries & debate maps
-libraries - concepts can be linked to different multimedia expressions - resources that describe it
-debate maps are the onthological structure of the debate - aimed at deliberation
-
-what if wikipedia-like "pages" were sitting on top of debate maps, highlighting an editorialized take and perhaps generated/summarized by an LLM? And what if people could choose the editorialization?
-
-knowledge graph
-
-this needs to be intertwined with social media, identity & follow graphs
-
-giant global graph
-https://en.wikipedia.org/wiki/Giant_Global_Graph
-a massively multiplayer interlinked knowledge database
-
-machine-understandable knowledge representations
-subject-predicate-object triplets in the semantic web
-these are just like subject-verb-object of the human natural language - there's an equivalence
-
-being able to vote/react multiple times on a URI - with different scopes. Suppose you want to upvote a resource in one context but downvote it in another context - contextual reactions - within a domain !!!
-context could be application/tag/campaign
-
-sensemaking is about creating maps
-
-redundant knowledge & broken chains of provenance
-
-interlinking enables discoverability - you'd want to reference something specific because then you could be discovered from the referenced thing with a "references" view
-
-we should be able to annotate parts of movies that we are crituiquing and be able to see all public critiques when viewing the original media
-
-
-DIKW pyramid
-data, information, knowledge, and wisdom
-https://en.wikipedia.org/wiki/DIKW_pyramid
-
-
-uploading a clip that could have easily just referenced a part of the whole shouldn't be encouraged - perhaps you'd need to pay for uploading it?
-
-
-██████████████████████████████████████████████████████████████████████████████
-# Multidimensionality & subscriptions
-██████████████████████████████████████████████████████████████████████████████
-
-configuration attributes to accounts
-
-history of seen tweets - like history of watched videos on youtube
-
-we have many facets to our personalities - we could share a lot more
-we are social creatures
-
-complete control of what is public and what is not - what digital trail you leave, and the ability to subscribe to anything for events
-
-not multidimensional subscriptions but fractal/granular
-
-this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's demand & a business model for it
-
-what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
-
-YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that #shorts are given to you just like normal videos. We should be able to filter that out. Take for example [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) - this is their [rss feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw) and it has everything in there - and we have no easy way to filter it.
-
-how to think about the digital world
-- public/private
-- anonymous/
-what can we build on top of this?
-
-add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
-
-multidimensionality - think about what "friendship" is
-
-multi dimensionalism of accounts section
-What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
-https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
-
-
-list explicitly all the different aspects of an online presence - goodreads, medium, quora, stack exchange, reddit, twitter, etc.
-
-your profile page - a linktree-like thing
-every change, every edit, every commit - all could be linked to your identity if you wished it
-
-view profile relevant to the current app VS view full profile with all activity
-
-copy & follow the viewing preferences of others
-
-When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
-
-Currently only the platforms get to analyze your behavior - you should be able to choose to let anyone analyze it for the commons
-
-██████████████████████████████████████████████████████████████████████████████
-# Expressivity
-██████████████████████████████████████████████████████████████████████████████
-
-A data network in which your input matters in an uncountable number of ways
-Expressivity!
-I want YOU to help build the metabrain
-To be a good little neuron
-
-> "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
-
-Realizing humanity’s potential for expression at scale
-
-Making the individual count
-
-Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
-
-██████████████████████████████████████████████████████████████████████████████
-# IDMs & your personal cloud
-██████████████████████████████████████████████████████████████████████████████
-
-What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?
-
-what if your IDM kept a list of everything you've seen so it can be displayed in the UI?
-
-> "One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter."
-https://twitter.com/DavidVorick/status/1618277136938274817
-
-different filters & thresholds for cold DMs - it should be easier for people from your communities to contact you. Such preferences should be possible.
-
-TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
-What If You Quit Social Media For 30 Days?
-https://www.youtube.com/watch?v=_u5p6hwS5SM
-
-the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged
-
-imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
-
-ability to set priorities for notifications and build a "home dashboard" that takes those into account
-
-your "desktop" for the apps & public data of the world
 
 ██████████████████████████████████████████████████████████████████████████████
 # The superapp
@@ -343,81 +68,6 @@ The superapp section should go in "what really is"
 we can turn the web into a personal computer for the public information
 the superapp is the "how would you like to spend your attention" superapp
 
-██████████████████████████████████████████████████████████████████████████████
-# second brain
-██████████████████████████████████████████████████████████████████████████████
-
-note taking
-
-██████████████████████████████████████████████████████████████████████████████
-# wikipedia
-██████████████████████████████████████████████████████████████████████████████
-
-competing wikipedia-like pages written by different people & being able to select between them? no more "trusted source" issues?
-
-Wikipedia and different prisms
-Slicing and dicing - chapter name
-
-we can use something like ChatGTP to summarize the results of polls from different points of view and write the text for a topic and always keep it up to date. This is the decentralized wikipedia.
-
-imagine being able to pick your "wikipedia editors" - people who curate information in the open web while building a track record - and then anyone would be able to filter information differently based on their own personal criteria - multiple times from different angles (perhaps also by adopting someone else's criteria?)
-
-██████████████████████████████████████████████████████████████████████████████
-# querying & palantir foundry
-██████████████████████████████████████████████████████████████████████████████
-
-BigQuery 2.0
-
-Graph tool for constructing queries - data processing pipelines like in Foundry
-
-everyone can have access to something like Palantir Foundry for the entirety of the open web
-
-localized queries - "looking for blood donor"?
-
-THIS also relates to provenance
-data pipelines & lineage - anyone would be able to do such complex analysis on public data
-https://en.wikipedia.org/wiki/Data_lineage
-ontology
-Foundry 2022 Operating System Demo
-https://www.youtube.com/watch?v=uF-GSj-Exms
-reproducibility
-
-a spreadsheet-like view over graph data - what if you could define owners of each cell so that they can update their elements and have that in a shared spreadsheet? And why not fork the sheet?
-
-the decision maker: build trees of predicates and based on truth for each of them you can determine the outcome. Be able to play with such a system
-
-you stumble upon a statement by an account and you also see a few of their other statements and completely disagree with them. What if you could run a query over all of their statements such as "how much overlap does their worldview have with mine"?
-
-What if everyone could have such a computed score for every other account?
-
-imagine being able to view a multi-level depth tree with all citations and conversations and conversations around those conversations and being able to filter the "outcome" based on criteria - labels/annotations/reactions and who we trust for placing those labels/annotations/reactions
-
-We should all want informational freedom when it comes to querying public information
-
-██████████████████████████████████████████████████████████████████████████████
-# provenance, deduplication & authenticity
-██████████████████████████████████████████████████████████████████████████████
-
-https://en.wikipedia.org/wiki/Data_lineage
-> "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
-
-provenance graphs - imagine being able to check if any of the inputs of a story has been influenced by a specific source
-
-> "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity." - [AVC](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
-
-balaji on cryptography & how the state should use it - relevant to the web of trust idea
-https://twitter.com/balajis/status/1596412557127954433
-
-apps should be able to show you all references to a document - perhaps they might show specific UIs for those that are supported and all others should be in the "other" list without visualization
-
-on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
-Message types should be on-chain nouns
-
-deepfake Lexman Artificial & Eric Weinstein
-https://twitter.com/lexman_ai/status/1615861599197171713
-
-we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
-
 
 ██████████████████████████████████████████████████████████████████████████████
 # Moderation
@@ -438,150 +88,108 @@ fighting spam - in this system every event has provable provenance of who sent i
 applications can decide which sets of filters are allowed for viewing media through them, in order for advertisers to be happy
 
 ██████████████████████████████████████████████████████████████████████████████
-# Structured data & improving the signal/noise ratio
+# Infrastructure centralization
 ██████████████████████████████████████████████████████████████████████████████
 
-nature has removed every unnecessary bit when it comes to exchange of information - and so should we.
+> "Somehow people got comfortable with allowing a single public corporation being able to man-in-the-middle the entire Internet." - [`David Vorick`](https://twitter.com/DavidVorick/status/1375572267933913093)
 
-information theory very well could be as important as or even fundamental to matter & the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it
+Google is way more than just a search engine even though the majority of their revenue comes from advertising - they control large percentages of the plumbing of the web - key choke points such as submarine cables, routing, data centers, browsers, DNS, etc. [`David Vorick`](https://twitter.com/DavidVorick) puts this perfectly into perspective in [`The Worrying Depth and Scope of Censorship on the Internet`](https://blog.sia.tech/the-worrying-depth-and-scope-of-censorship-on-the-internet-ffd4bc5a5486) - some quotes:
 
-spamgularity
-https://twitter.com/DanielleFong/status/1622315719298883584
+> "If Google decides they don’t like you, then for 65% of the world you simply stop existing. You have no recourse.
+The terrifying thing about this is that Google is not an elected entity. Google has turned themselves into unelected regulators of the Internet, and they are held accountable only to their own share price."
 
-signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
+> "As our economy and services become more deeply intertwined, an increasing number of players have more influence and ability to de-platform a greater number of businesses and users. And these requirements compound against each other. If one service provider is particularly opinionated and quick to de-platform, everybody else is forced to give them a large amount of breathing room and become more oppressive towards their users to avoid potential conflict."
 
-new message types!
-extensions to twitter shouldn't clutter the comments like this:
-@threadreaderapp unroll
-@memdotai mem it
-@readwise save
-@SaveToNotion
-https://twitter.com/MaficoNFT/status/1591510117094428678
+> "This does not scale. The end result will be a global monoculture where everybody is afraid to take risks or break the status quo because nobody can afford to upset even a single of the hundreds of services that they depend on. Our culture gets established and defined by giants like Facebook and Google rather than users and creators, because only Facebook and Google have the resources to bully everyone else into allowing changes to happen."
 
-REACTION with a comment/note - still structured data, but with added expressiveness
+> "The only way to avoid this endgame is to demand infrastructure that remains neutral. At the scale of today’s Internet and global economy, infrastructure that does not remain neutral will inevitably turn on its users and coerce them into a set of moral standards that are both arbitrary and enforced without consent."
 
-Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions should have been codified with structured data & logged in a time-series.
-
-the hammer is language and unfortunately every problem is a nail
-
-hashtags should be separated from the text
-
-Moving the vast majority of online activity to structured data and reducing the text reduces the load for content moderation
-Also there's less room for emotive/russel conjugation & other such emotionally manipulative language & pre/re-framing https://en.wikipedia.org/wiki/Emotive_conjugation
-
-Mission: raise the signal/noise ratio
-
-We need more than the current one size fits all model
-Importance/severity threshold/levels?
-
-we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
-
-digital media is not supposed to be unstructured
-
-Structured data should be incentivized - we’re drowning in text audio and video
-
-we can use AI to generate podcast-like conversations that cover the digital interactions of structured data
-
-currently we channel our energy in a useless way - the best we can do is get a hashtag trending. But with this system every type of interaction would count
-
-using structured data circumvents the need to think about the right words - it reduces friction in expression - streamlined expression as a chapter?
-
-Steve bannon is famous for saying to flood the zone with shit - lets drain the swamp
-
-"Speech as proof of work is dead."
-https://twitter.com/gordonbrander/status/1622999277411741698
-
-what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?
-
-so much expressed opinions & views are left unanalyzed & unaggregated because they're in text - they have an ephemeral impact for a moment and then fade
-
-by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data
-
-> "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
-
-██████████████████████████████████████████████████████████████████████████████
-# Anatomy of your digital footprint
-██████████████████████████████████████████████████████████████████████████████
-
-in order to reconstruct we must first deconstruct - the foundations of you digital footprint
-
-the building blocks of digital media
-"deconstructing your digital footprint"
-
-even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
-
-Public/private mode for the entire account
-
-toggling privacy levels (users could mess that up though...)
+<!-- TODO: AWS & other cloud providers are also big & influential -->
 
 
-██████████████████████████████████████████████████████████████████████████████
-# cryptohistory
-██████████████████████████████████████████████████████████████████████████████
 
-The highest standards of history are permanence and authenticity
+# Improved infrastructure
 
-- point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
+Tying data to identity and making it freely available & outside of silos through content-centric addressing enables a lot of composability, functionality & innovation.
 
-> "If the news is fake, imagine history" - [@AmuseChimp](https://twitter.com/naval/status/1322646025811554304)
+<!-- toc -->
 
-> "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity. When I say sign, I am thinking cryptographically signed, like you sign a transaction in your web3 wallet." [Fred Wilson, AVC, 2022, “Sign Everything”](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
+TODO:
 
-> "It's not about fact checkers, it's about checkable facts." - [@balajis](https://twitter.com/balajis/status/1616198733032742912)
-
-The importance of history cannot be understated. This chapter could never do it justice so please refer to Balaji's book and the second "History as Trajectory" chapter.
-https://thenetworkstate.com/prologue
-It's a book more about history than anything else
-It's a book mostly about history
-
-> "Cryptohistory is Cryptographically Verifiable Macrohistory" - [Balaji's The Network State](https://thenetworkstate.com/microhistory-and-macrohistory#cryptohistory-is-cryptographically-verifiable-macrohistory)
-
-The value of permanence & self-authenticating documents - not host-centric/host-certified or anything else - truly self-authenticating!
-SBF deleted a tweet that would incriminate him
-https://twitter.com/jonwu_/status/1590099766712549376
-https://twitter.com/AutismCapital/status/1590888993226653697
-The only way to make something truly self-authenticating in perpetuity is to timestamp it. Anchor it. Sequence a set inclusion commitment on-chain.
+infrastructure - no need for a robots.txt file anymore - they were initially introduced because of [a badly-behaved web crawler that inadvertently caused a denial-of-service attack](https://en.wikipedia.org/wiki/Robots.txt#:~:text=a%20badly%2Dbehaved%20web%20crawler%20that%20inadvertently%20caused%20a%20denial%2Dof%2Dservice%20attack)
+https://en.wikipedia.org/wiki/Robots.txt
+sitemaps are also not necessary - they are used to inform crawlers when specific pages were last updated & how often they change, but that's obsolete in a push environment
+https://en.wikipedia.org/wiki/Sitemaps
+EDIT: actually sitemaps are only partially outdated - what about pages that are not reachable at all? that's when sitemaps are also useful - to explicitly mention them
 
 
-██████████████████████████████████████████████████████████████████████████████
-# security & can't be evil
-██████████████████████████████████████████████████████████████████████████████
+for search engines to rank modern dynamic & single page apps they need to render them server-side - this can be skipped if data is decoupled from presentation and if the ranking engine is simply listening for document updates. They also currently cache the entire pages - just like an archival service. Massive benefits in a push vs a pull system for crawlers & indexers
 
-- point: improved security - the hacking of high-profile accounts and posting on their behalf is almost impossible with the right opsec
-https://twitter.com/VitalikButerin/status/1576275977352536065
-https://twitter.com/tayvano_/status/1611131230074073088
-https://twitter.com/0x796/status/1611332890209419264
-https://twitter.com/0x796/status/1611371424945512460
-https://haveibeenpwned.com/
-https://twitter.com/SimpleLogin
 
-can't be evil - restore account from point
+focus more on the separation of actual data and the presentation layer for archiving?
 
-freedom of speech vs freedom of reach
 
-Privacy is a human right.
+PUT THIS IN ARCHIVABILITY
+we should do better than having the spouses of people who have passed away having to login & post in order to avoid the deletion of a historically important account
+https://twitter.com/halfin/status/1603847718039744512
 
-Cant be evil - raising the bar for censorship - accountability and exit
 
-Move the decentralization point from the design page to the cant be evil page
+archivability section - the tweets no longer saved stuff
+https://www.npr.org/sections/thetwo-way/2017/12/26/573609499/library-of-congress-will-no-longer-archive-every-tweet
 
-SSI
-Heads of state
-compromising important accounts and posting on their behalf - if their opsec is good enough (with keypairs)
+TODO: move this to cryptohistory?
 
-can't be evil - provenance, immutability
-History should be immutable
+# Code as addressable data
 
-UPDATE - Wikipedia is blocked in Pakistan now.
-https://twitter.com/disclosetv/status/1621843921578991616
+Frontend code served by applications can be published and have its own URI. Updates to it would happen by broadcasting the next version along with a new URI and then pointing on-chain to it as the latest to use for viewing media. This way presentation layers could be cached locally and in a distributed way with proofs for authenticity - improving redundancy, latency, and throughput. Checking for a newer version would be a small query to the chain if there is a new URI - version control for frontends. This can work even for more dynamic applications that serve different versions depending on region/locale or which are A/B testing - the dynamic part could be served from a centralized host while smaller chunks of code could be referenced through URIs.
 
-> "The rise of transparent, impartial, autonomous code in these mission critical areas is incredibly important as trust in institutions [continues decling](https://www.edelman.com/sites/g/files/aatuss191/files/2022-01/2022%20Edelman%20Trust%20Barometer%20FINAL_Jan25.pdf) globally." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+TODO: this wouldn't be necessary
+https://twitter.com/armada_infra/status/1584942215217836032
 
-> "Rule of law and property rights in the digital domain are unreliable with powerful centralized intermediaries at the helm and there are serious political and economic consequences." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+# Better and more competitive [search engines](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
 
-> "Companies make promises. Protocols make guarantees." - [source](https://www.syncracy.io/writing/writing-meditationsonmayhem)
+- Building indexes would be greatly simplified as they will be plugged to the global message bus and update only on events (push) - instead of periodic batch crawling of the public web (pull). <!-- The history of changes will be granular, precise, complete, structured & authenticated. -->
+- Message schemas will improve the indexing & information extraction from dynamic websites. The [semantic web](knowledge_management.md#the-semantic-web-aka-the-original-web3) will also greatly empower search engines & unlock [powerful queries](knowledge_management.md#query--plot-anything).
+- The move to data-centric addressing and the desegregation of data will lead to a lot less duplicates and more rich & precise context around any event/message.
+- Currently ephemeral experiences (search suggestions) leave no trace and it's extremely hard to prove bias (aks [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies)) - competition & a lower barrier to entry are direly needed.
+- Search engine sophistication would span the full spectrum - from data center scale to those that you can run locally at home, or the specialized - [The Future of Search Is Boutique](https://future.a16z.com/the-future-of-search-is-boutique).
 
-Reveal Reddit's secretly* removed content. Search by username or subreddit (r/):
-https://www.reveddit.com/
+# Optimal archiving (like the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
 
-write about security and how there will be competition for services that keep your data private and we will get eventually the best possible services
+- Actively polling all websites on earth periodically & to check for changes and save snapshots won't be necessary - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.
+- By [decoupling content & presentation HTML](TODO.md#code-as-addressable-data) only the essential could be saved. Applications can signal a change with a new message type in what they serve to browsers for presentation & rendering of content which the archival service could save throughout time as well to provide the historical views. Data duplication in snapshots can be driven to 0.
+- Content that is no longer accessible through the original application that published it and is not archived by the user that posted it (but hasn't been explicitly deleted) would still be accessible by anyone with the same persistent URIs when querying an archival service.
+
+# Redundancy, scaling & topological flexibility
+
+[Data-centric addressing](host_vs_data_centric.md) with self-authenticating data allows for distributed & [resilient to DDoS attacks](https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china) architectures that span the entire globe with horizontal scaling & [store-and-forward](https://en.wikipedia.org/wiki/Store_and_forward) caches. Computed views such as indexes, graphs & aggregate metrics (counts) can also be made addressable, distributed & cached with either optimistic authenticity (trust by default but with a way to recreate them and check for equivalence) or even have a proof with [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing). Furthermore, there are [at least a few points to query](store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri) for the data of a URI.
+
+# Specific platforms
+
+A non-exhaustive list of additional problems (beyond what's already listed) with some platforms:
+
+- YouTube:
+    - there is no longer a down vote count & like/dislike ratio
+    - subscriptions are by now almost meaningless without the notification bell icon
+    - the comment section is just an afterthought - they don't care about it
+        - the presentation is extremely basic & limiting
+        - you cannot even link to a specific comment with a URL
+        - financial scams in comments are abundant - moderation is non-existent
+- Twitter:
+    - we can't even sort the tweets of someone based on engagement
+    - we pin threads of threads on our profiles and sequence them with X/YY numbers
+    - cannot sort quotes/replies of a tweet based on engagement/age
+    - no unrolled thread view option even though it's a no-brainer at this point
+    - filtering & tuning what is shown in lists is nonexistent
+        - lists don't show replies that are not to accounts in that list
+        - can't display likes in lists
+    - we [can't see other people's feeds](https://twitter.com/waitbutwhy/status/1502846781150822402) (although there's this [third-party app](https://vicariously.io/))
+    - no way to opt-out of recommendations in the main feed for topics you don't care about or unrelated activity such as `X received a reply from someone you don't follow`
+    - find the beginning of [this thread](https://twitter.com/lopp/status/1531668215541145601) - is that readable & usable? There should be an alternative Reddit-style application
+
+
+Twitter should have added this feature years ago: "follow" a thread (w/o having to comment as a hack way to do this).
+
+<!-- How about remembering how far along the chronological feed you've seen? -->
+
+<!-- tweets & comments without tagging is primitive and inefficient -->
