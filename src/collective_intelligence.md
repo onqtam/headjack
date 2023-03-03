@@ -14,6 +14,11 @@ The role of something like change.org
 
 your main job would be to be an annotator - such that you get scored based on performance
 
+we need a shared view of reality and the ability to coordinate around that view of reality
+we need social media that is rewarding synthesis of ideas
+what if we rewarded those who find divisive fault lines and bridge the gap?
+
+
 we need to enable freeform networking at scale in order to build a global brain - the host-centric model doesn't allow that - any type of data should be linkable & manipulatable with any other data type
 
 high trust (social capital), shared stories & strong institutions - required for democracy, but social media is eroding them - Jonathan Haidt

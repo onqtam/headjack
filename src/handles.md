@@ -111,4 +111,6 @@ ens is not enough - one size fits all aint good
 
 Off-chain namespaces for handles? Dot something to be off-chain?
 
+names should have an index and that index can be reused in different "TLDs" - alex.eth & alex.com - alex can be identified by the same number so that TXs are small
+
 -->

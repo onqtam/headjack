@@ -42,6 +42,4 @@ The current host-centric web is just a local maximum due to gradient descent.
 > "I think it might make the world more efficient if we were able to instantly verify the authenticity of assets, licenses, and certificates, without the need for every issuer to run massive APIs and authentication services. All one needs to do to ensure the authenticity of an asset is verify the identity and history of the issuer" - [source](https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 
 
-https://mirror.xyz/0xE4f646F0Be4fF5ce185540F5366295f91d75b65D/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg
-
 -->

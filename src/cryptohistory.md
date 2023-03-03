@@ -1,3 +1,35 @@
+# History 2.0: cryptohistory
+
+<!-- toc -->
+
+██████████████████████████████████████████████████████████████████████████████
+# cryptohistory
+██████████████████████████████████████████████████████████████████████████████
+
+The highest standards of history are permanence and authenticity
+
+- point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
+
+> "If the news is fake, imagine history" - [@AmuseChimp](https://twitter.com/naval/status/1322646025811554304)
+
+> "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity. When I say sign, I am thinking cryptographically signed, like you sign a transaction in your web3 wallet." [Fred Wilson, AVC, 2022, “Sign Everything”](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
+
+> "It's not about fact checkers, it's about checkable facts." - [@balajis](https://twitter.com/balajis/status/1616198733032742912)
+
+The importance of history cannot be understated. This chapter could never do it justice so please refer to Balaji's book and the second "History as Trajectory" chapter.
+https://thenetworkstate.com/prologue
+It's a book more about history than anything else
+It's a book mostly about history
+
+> "Cryptohistory is Cryptographically Verifiable Macrohistory" - [Balaji's The Network State](https://thenetworkstate.com/microhistory-and-macrohistory#cryptohistory-is-cryptographically-verifiable-macrohistory)
+
+The value of permanence & self-authenticating documents - not host-centric/host-certified or anything else - truly self-authenticating!
+SBF deleted a tweet that would incriminate him
+https://twitter.com/jonwu_/status/1590099766712549376
+https://twitter.com/AutismCapital/status/1590888993226653697
+The only way to make something truly self-authenticating in perpetuity is to timestamp it. Anchor it. Sequence a set inclusion commitment on-chain.
+
+
 
 <!--
 https://en.wikipedia.org/wiki/Non-repudiation
@@ -75,7 +107,7 @@ https://meta.discourse.org/t/change-right-gutter-to-vertical-timeline-topic-cont
 
 > "The public’s interest in seeing what’s changed—or at least being aware that a change has been made and why—is as legitimate as it is diffuse. And because it’s diffuse, few people are naturally in a position to speak on its behalf." - [source](https://www.theatlantic.com/technology/archive/2021/06/the-internet-is-a-collective-hallucination/619320/)
 
-We ought to rebuild everything on top of this [ledger of record](ledger_of_record.md#authenticity) - including Wikipedia (no more dead links!), open source code, science and peer review - under one global interlinked namespace where any public event is referencable so that others can comment on it.
+We ought to rebuild everything on top of this [ledger of record](cryptohistory.md#authenticity) - including Wikipedia (no more dead links!), open source code, science and peer review - under one global interlinked namespace where any public event is referencable so that others can comment on it.
 
 # The history of document updates
 

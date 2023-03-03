@@ -22,7 +22,7 @@ Headjack's fundamental premise is that it unlocks many possibilities & value to 
 > "There’s only two ways I know of to make money– bundling, and unbundling." - [Jim Barksdale](https://hbr.org/2014/06/how-to-succeed-in-business-by-bundling-and-unbundling)
 
 
-The rule book will be different - instead of [vertically integrated](barriers_to_entry.md#vertical-integration-vs-marketscompetition) services with tons of employees that reinvent the wheel, companies would specialize and compete on different layers of the stack. [Markets Are Eating The World](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/) - there will be one for each of these:
+The rule book will be different - instead of [vertically integrated](TODO.md#vertical-integration-vs-marketscompetition) services with tons of employees that reinvent the wheel, companies would specialize and compete on different layers of the stack. [Markets Are Eating The World](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/) - there will be one for each of these:
 - Storage & retrieval of historical events, data & results of batch processes.
 - Indexing at scale and even custom indexing by specific criteria.
 - Training of AI models for recommendation systems, feeds, etc.
@@ -53,6 +53,11 @@ https://n.xyz/
 
 
 It will take some time for markets to mature and the dust to settle once specialization & competition are democratized, but then prices will be low and the efficiency & quality of services high.
+
+what if apps have to explicitly pay to infra for their data to be stored?
+
+services will no longer have the host-centric model to point to as the reason for siloing data - just the fact that we would give an address to our documents that is beyond any specific host is enough of a reason for the nature of competition to change
+
 
 # Attribution
 

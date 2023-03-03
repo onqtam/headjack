@@ -295,6 +295,10 @@ discoverability
 
 bluesky - dependence on DNS
 
+row: type of account key or joinability or compactness of key: number or (hash of) public key - only farcaster green besides headjack
+
+Competition - 1-of-N
+
 Storage agnostic or opinionated in table
 
 protocol-first vs app-first

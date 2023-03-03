@@ -10,51 +10,6 @@ Tying data to identity and making it freely available & outside of silos through
 
 <!-- toc -->
 
-# Bookmarks & playlists
-
-Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case no one hosts it in the future.
-
-Your personal knowledge base could be built with something like [Logseq](https://logseq.com/) with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.
-
-Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.
-
-# Intra-document addressing
-
-In Medium you can tweet a selection (sentence/word/paragraph) but when going back to the article from the tweet you don't get shown the original selection. With some archival services you can point to a text selection - for example [this link has `"Prussian Model"`](https://archive.ph/O2D45#selection-635.4-635.18) selected from the title when you open the page (`#selection-635.4-635.18`) and you can change the selection which also changes the URL, but that's possible only because there's a specific hash in the URL (`O2D45`) and the document is guaranteed not to change in the archive - however that's not the case with Medium where the authenticity of documents is host-certified and they can change in time.
-
-With Headjack URIs point to a specific version of a document and as explained in the [addressing chapter](names_and_paths.md#addressing-within-content) we could point to parts of documents in the URIs. If a document has been changed, updates will have their own new URIs and when an application is showing an old URI with intra-document addressing it could:
-- either show a label that there's a newer version of the document and the user can switch
-- or directly show the new version if it's possible to transfer the selection without conflicts
-
-Headjack's intra-document addressing is universal - it works for audio & video too and the application from the [startup case study](startup_case_study.md) could display this clip with this quote in a much better way:
-> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtube.com/clip/UgkxphJhihcVY-U-PLFEvDl1m7Rb-iq4CGgo)
-
-This can be pushed further - any composition/remix/meme of media could contain the references to the original text/pictures/audio/video so the sources of something can be traced and credited - imagine something like a movie maker that composes from other clips and all metadata is retained.
-
-TODO:
-
-https://subconscious.substack.com/i/49124972/text-fragments-select-excerpts-by-search
-https://wicg.github.io/scroll-to-text-fragment/
-https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesktop=
-https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20encyclopedias%20will%20appear%2C%20ready%20made%20with%20a%20mesh%20of%20associative%20trails%20running%20through%20them%2C%20ready%20to%20be%20dropped%20into%20the%20memex%20and%20there%20amplified
-
-
-# The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
-
-https://twitter.com/Golden
-https://golden.com/blog/golden-raises-40m-series-b/
-
-The biggest hurdle for its adoption has been the [host-centric](host_centric.md#the-host-centric-web--its-decay) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](host_vs_data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
-
-<img src="images/data_information_knowledge.jpg">
-
-<!-- <img src="images/data_information_knowledge.png"> -->
-
-<!-- source:
-https://www.theifactory.com/news/gaining-wisdom-from-data/
-https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
--->
-
 # Query & plot anything
 
 There are no limits to the types of queries we should be able to make - some simple examples:
