@@ -236,3 +236,7 @@ Con: everyone will see the authorized apps?
 
 - what happens if some new application is very spammy? should the infra just pay the costs for storage by default?
 - what if a specific application is very spammy and infrasturcture blacklists it, but some users use it and expect their creations & edits to be visible elsewhere?
+
+
+
+concern: its impossible to have updated views & indexes for every aggregate with a big enough different filtration criteria, but its important for any view to be possible, so that eventually it gets calculated & surfaces

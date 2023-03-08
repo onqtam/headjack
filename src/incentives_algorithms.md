@@ -13,12 +13,36 @@
 
 The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
 
+We are what we eat but we are also what we watch
+
+The current social apps exploit our social reciprocity - x follows you - follow them back! We should rethink our types of connections and the amount of persuation and manipulation apps can do to us
 
 fragmentation
+Perspective expansion vs perspective division/separation/certainty
 
 The great attention misallocation
 
+Notifications from social networks are hideously engineered to get you to get back in the app - we need to separate IDMs from apps
+
+
+The internet is rife with (deliberate) misinformation
+
+there's a sociological asymmetry of power - those that produce data and those that have access to it
+
+current social media has a choice architecture in the UI that's misaligned with users - they're solely optimizing for engagement & time spent - the goals of people
+
+we take the agency we have in search engines for granted (we explicitly type what we're looking for), but we've completely abdicated agency in the feeds that feed us information in social media - we ought to have a choice there as well
+In search we are looking for something and want control. But aren't we looking for something in our feeds as well? Why not have more agency - even if it leads to less time spent on the app?
+
+in the current web your interactions lead to better recommendations and better ads. In an open world your interactions would enable all kinds of insight that anyone could surface
+open & shared knowledge graphs would unlock unimaginable services & insight - part of the cold start problem is lack of access to a knowledge graph
+knowledge graphs bring context
+
 today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
+
+Social media is not about pictures of what we ate - its a global coordination substrate
+
+Current social media is stupefying us
 
 Current social media is garbage- garbage in, garbage out
 

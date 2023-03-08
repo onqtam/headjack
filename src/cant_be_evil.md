@@ -131,3 +131,38 @@ Does such a search engine exist today? Competition & a lower barrier to entry ar
 The explicit user preferences such as subscriptions & the social graph (following/connections) are routinely discounted in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all respond to outrage & enjoy the occasional viral cat video but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
 
 > "I'm in an ongoing relationship with a moody, sensitive, grudge-holding, and generally crazy girlfriend called the Twitter algorithm. Everything will be going fine and then suddenly I'm getting the cold-shoulder and I don't even really know what I did and just have to wait it out." - [Tim Urban](https://twitter.com/waitbutwhy/status/1506755880578166788)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can’t be evil - tiktok in 2022 was running in russia without the ability to view foreign content and russians could not post content about the war
+
+Cant be evil - search result manipulation and bias
+
+
+
+when youtube removes a video of yours - it should still be available by you. It should still have an ID if you wish it so
+Reuploading elsewhere with a different ID breaks all links in the graph
+
+
+new: AI voice-cloning tech is making phone scams frighteningly believable.
+https://twitter.com/pranshuverma_/status/1632397925908111360
+

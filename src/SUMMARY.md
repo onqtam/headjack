@@ -16,6 +16,7 @@
 
 - [Why Headjack v2](topics.md)
     - [History 2.0: cryptohistory](cryptohistory.md)
+    - [Web 3: the Giant Global Graph](giant_global_graph.md)
     - [Your digital footprint](digital_footprint.md)
     - [Organizing information](organizing_information.md)
     - [Incentives & algorithms](incentives_algorithms.md)

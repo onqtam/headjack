@@ -97,6 +97,45 @@ The current web incentivizes differentiation and no integration - and thus we ge
 > "Our ability to coordinate with each other is pretty fundamental to the selection of what we are as a species" - [Daniel Schmachtenberger](https://youtu.be/hGRNUw559SE?t=1658)
 
 
+abstract meritocracy
+the internet government
+jamie joyce
+what if technology could enable people to represent themselves and directly participate in federal legislative government themselves - politics without polititians
+
+we can separate political ideas from people and representatives
+what if we could inform our politics with such soft online governance in an abstract meritocracy
+
+representative democracy is vulnerable
+
+A bold idea to replace politicians | César Hidalgo
+https://www.youtube.com/watch?v=CyGWML6cI_k
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CyGWML6cI_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+representative polititians are packages and are full of compromises
+
+what if we could submit all our views & morals and feed that through aggregation algorithms that then score different policies to determine which ones should be chosen? And what if all this data was anonymized and yet public so anyone can re-do the aggregates?
+What if we could pull ZK credentials for different criteria from our real identity and input those (in some anonymized fashion) into the aggregation algorithm?
+
+This algorithm can be public & open source
+
+
+
+The third attractor is bottom-up emergent order
+
+> "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure." - [Melvin E. Conway](https://en.wikipedia.org/wiki/Conway%27s_law)
+
+We’ve never had a true social network
+A true social network allows data, events and identities to be linked in any way imaginable - today’s platforms are a lowest common denominator with hard constraints on how they can be extended
+
+a bottom-up global governance system can only be built on top of a shared identity layer, trust, reputation & immutable history
+
+boosting the competent through ranking their public information & track record objectively & transparently
+we need to build the public introspection tool
+
+
+
+
 ██████████████████████████████████████████████████████████████████████████████
 # voting & liquid democracy
 ██████████████████████████████████████████████████████████████████████████████
@@ -169,6 +208,9 @@ https://link.springer.com/chapter/10.1007/3-540-36413-7_20
 what to want from voting: privacy, correct execution, coercion-resistance (not being able to prove how you voted) and censorship resistance to the voting context
 https://github.com/enricobottazzi/ZK-SBT
 quadratic voting? https://www.radicalxchange.org/concepts/plural-voting/
+
+we can bridge/bring along/transfer/extend VCs to the anonymized set of votes
+something could guide or estimate how deanonymizable we become depending on the ZK VCs we bridge
 
 
 ██████████████████████████████████████████████████████████████████████████████
@@ -322,3 +364,12 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 > "[pol.is](https://pol.is/) takes an n-dimensional space, where n is the number of sentiments shared by a group of people, and visualizes the points of agreement and disagreement through a combination of PCA (Principal Component Analysis) and k-means clustering. The visualization (and underlying data) is open, transparent, and updated in real-time." - [Taiwan: grassroots digital democracy that works - RADICALxCHANGE](https://www.radicalxchange.org/media/papers/Taiwan_Grassroots_Digital_Democracy_That_Works_V1_DIGITAL_.pdf)
 
 > "The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses." - [Malcolm X](https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have)
+
+
+
+
+
+
+
+
+anonymity - reducing the cost of defection

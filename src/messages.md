@@ -57,7 +57,14 @@ https://twitter.com/varunsrin/status/1617294606651260930
 
 
 https://www.blockchaincommons.com/introduction/Envelope-Intro/
-
+Introduction to Envelopes
+https://www.youtube.com/watch?v=tQ9SPek0mnI
+Introduction to Gordian Envelope
+https://www.youtube.com/watch?v=OcnpYqHn8NQ
+Gordian Envelope Diffing
+https://www.youtube.com/watch?v=kXk_XTACqh8
+Gordian Architecture: Why CBOR?
+https://www.youtube.com/watch?v=uoD5_Vr6qzw
 
 https://www.blockchaincommons.com/introduction/Why-CBOR/
 https://docs.rs/dcbor/latest/dcbor/

@@ -113,4 +113,7 @@ Off-chain namespaces for handles? Dot something to be off-chain?
 
 names should have an index and that index can be reused in different "TLDs" - alex.eth & alex.com - alex can be identified by the same number so that TXs are small
 
+
+Names can have an index and subdomains can refer to the names by idx - vbuterin should be in the state once even if rhere is a vbuterin.com and a vbuterin.eth - names are created once and reused by idx
+
 -->

@@ -4,31 +4,6 @@
 
 <!-- toc -->
 
-██████████████████████████████████████████████████████████████████████████████
-# Curators & labelers
-██████████████████████████████████████████████████████████████████████████████
-
-"reshaping the influencer"
-
-We can let humans rank resources for various topics
-
-What if we could flag [Bad Faith Communication](https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=and%20education%20crises.-,Common%20Strategies%20of%20Bad%20Faith%20Communication,-Misleading%20with%20facts)?
-
-we should all be labellers - in an open way such that anyone can harness our collective intelligence
-
-What if the way an event or a piece of news to get to more eyes was not through recommendation algorithms but through explicit annotation of what's inside - such that people can have explicit interest in those? What if people would rank stories by importance and then subscribe to filters based on people they trust would rank stories properly? What if you could allocate an attention budget of say 30 minutes per day or 20 news items and get the top after sorting, with the option to get the next batch if you want more?
-
-Four Ways of Understanding Facts
-https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=Four%20Ways%20of%20Understanding%20Facts
-
-the liquid democracy stuff can be used here to "vote" on who is a good curator for different topics
-
-we can crowdsource X and gamify it into success - it's been done before with initiatives like foldit @home
-reputation! badges!
-
-badges:
-https://twitter.com/TitterTakeover/status/1622323886611202051
-
 
 ██████████████████████████████████████████████████████████████████████████████
 # infinite possibilities
