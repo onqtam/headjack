@@ -166,3 +166,5 @@ Reuploading elsewhere with a different ID breaks all links in the graph
 new: AI voice-cloning tech is making phone scams frighteningly believable.
 https://twitter.com/pranshuverma_/status/1632397925908111360
 
+3 strikes with the last one because of your recent video? BAM - entire channel gone with everything else
+

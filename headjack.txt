@@ -40,6 +40,8 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
+How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
+We could engineer the dopamine of this informational global brain.
 
 
 
@@ -48,8 +50,7 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
-
-
+what if instead of caring if someone liked your nonsense tweet you had cast a vote and can see if others vote the same way as you - not liking a textual comment of yours, but you influencing them to vote the same way you did
 
 
 
@@ -252,9 +253,6 @@ context collapse - lack of provenance & the chain of custody of facts
 we have the opportunity to deduplicate common knowledge (concepts, nouns, etc). into a set of unique stable identifiers
 
 
-youtube's reaction to swarm downvoting is "remove the count".
-Disempowerment.
-This system allows you to filter the count any way you want - empowerment.
 
 
 

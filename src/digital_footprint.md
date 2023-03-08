@@ -109,6 +109,9 @@ ability to set priorities for notifications and build a "home dashboard" that ta
 
 your "desktop" for the apps & public data of the world
 
+fine-grained control
+When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users or not
+
 ██████████████████████████████████████████████████████████████████████████████
 # Bookmarks & playlists
 ██████████████████████████████████████████████████████████████████████████████
