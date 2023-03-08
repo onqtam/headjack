@@ -486,6 +486,12 @@ Farcaster arent thinking bih enough - crdts are a crutch - an unnecessary constr
 Anything without built-in incentives is not suitable as a foundation
 
 
+Guaranteed resolvability
+
+Signing with a private ley requires it to always be loaded - for every new event
+Contrast that to auth tokens - they are created once and reused many times - only the point of creation needs the highest security
+
+
 
 with farcaster all the activity of a user is chained linearly & merklized and that means there's a bottleneck
 https://www.youtube.com/watch?v=1TVI2uKgHtY
@@ -507,6 +513,11 @@ designing from first principles - what needs to be decentralized? what's the com
 headjack is an exercise in minimalism
 
 > "Computer scientists, faced with the challenge of scaling, tend to fall back on a hierarchical scheme." - [source](https://twitter.com/gordonbrander/status/1127699384102080514)
+
+> "We can solve any problem by introducing an extra level of indirection." - [The fundamental theorem of software engineering (FTSE) by Andrew Koenig](https://en.wikipedia.org/wiki/Fundamental_theorem_of_software_engineering)
+
+
+in entity resolution (if records from different data sources represent the same entity) consistency & latency are key, and so is brevity/compactness
 
 
 timestamped events?

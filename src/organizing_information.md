@@ -35,10 +35,17 @@ nature has removed every unnecessary bit when it comes to exchange of informatio
 
 information theory very well could be as important as or even fundamental to matter & the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it
 
+
+unlike text, structured data is easily aggregatable for the purpose of visualization through graphs & charts which makes it easily comprehensible
+
+
 spamgularity
 https://twitter.com/DanielleFong/status/1622315719298883584
 
 signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
+
+signal/noise reduction & structured data
+less language ==> less need for translation & localization
 
 new message types!
 extensions to twitter shouldn't clutter the comments like this:
@@ -87,7 +94,125 @@ so much expressed opinions & views are left unanalyzed & unaggregated because th
 
 by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data
 
+reducing information entropy - the level of surprise
+but aren't we actually reducing the ambiguity?
+bringing order
+reducing the symbol space
+
+reducing the vocabulary of common knowledge
+
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
+
+██████████████████████████████████████████████████████████████████████████████
+# Query for anything related to something
+██████████████████████████████████████████████████████████████████████████████
+
+`"Pull that up Jamie"` => We should be able to see all references & content related to any identity, event/document with a URI or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and modifications which we could filter through our UI.
+
+- **Example 1:** Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the scammers & bots and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there - and is most likely fractured across different platforms. The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
+
+- **Example 2:** What if we could provide alternative titles for content and crowdsource the ones which most accurately describe it - removing the clickbait? Users could choose to view the original titles or the crowdsourced versions if there's consensus for a specific title to be way better than the original (what constitutes "better" can be configurable too). But wouldn't content creators object?! Sure, but what are they going to do? The rules of the Metaverse are that data can be composed in any way imaginable without restrictions. This case is like taking the best comment about what a piece should be titled and through something like a browser extension programatically using that instead of the original. This is already happening in StackOverflow - titles of other people's posts can be edited by moderators (and perhaps anyone?) with the goal of improving accuracy.
+
+
+see everything that referenced X (identity/URI) and filter types of references (AMA/critiques/annotations/general discussion)
+We should be able to relate things and look for relations/references - example:
+
+
+
+
+
+The perpetual AMA
+
+hyper agents (extremely influential individuals & entities) need to be held to higher standards & have more scrutiny
+
+reaction videos
+
+
+
+Let's take the [`"Jillian Michaels: Don't believe the keto diet hype | Big Think"`](https://www.youtube.com/watch?v=LOPOcBVzm7s) video for example. How do we determine if what's in there true? All we have is a comment section and a sidebar with algorithmic recommendations. Turns out there are [a number of reactions](https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction) but they're not shown next to the video in any way - how would we know about their existence if we didn't explicitly search for them? The goal is not to be exposed to multiple points of view & reach some conclusion/consensus - it's only engagement.
+
+The data is not interlinked, but suppose it was - we could have a list of reactions displayed somewhere along with scores of disagreement/prominence and other factors and we could more easily discern which one to watch next. The way to expose the complete failure & corruption of the FDA and the misguided policies of the past couple of decades is through a bottom-up crowdsourced effort enabled by the internet and further enabled by linked data, identities & reputation.
+
+Take this YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. Why can't we see a crowdsourced redirection suggestion attached to the first one on which people can vote?
+
+
+
+
+concern: negative reputation & "scarlet letters"
+
+YouTube disabled comments
+
+
+a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
+
+Sensemaking chapter - video replies without interlinking specific moments is just primitive
+How do we debunk stuff?
+Moonlanding faked?
+Ancient technology in egypt? Give links as evidence
+
+youtube's reaction to swarm downvoting is "remove the count".
+Disempowerment.
+This system allows you to filter the count any way you want - empowerment.
+
+
+
+
+A unified identity layer, the ability to deduplicate content, to annotate semantically & the move to structured data greatly helps with being able to deduplicate content & entities and pull everything related to something.
+
+██████████████████████████████████████████████████████████████████████████████
+# Graph data as the source
+██████████████████████████████████████████████████████████████████████████████
+
+AI classification isn’t scalable enough and can be ambiguous
+
+We’d be able to “view source” for the AI-generated summaries
+
+We’d be able to query where else specific facts (semantic triples) are mentioned
+
+A graph has many ways to be traversed so we could ask AIs to generate a few versions so that we can pick. Our we could draw a pathing for linguistic linearization
+
+The generated linearized/serialized output could have an automatically generated mapping so that we can see which regions correspond to which parts of the graph with some highlighting and we could have both displayed side by side in a synchronized “playback”
+
+People can have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more emphasis on them
+Imagine integrating this in a movie-maker-like software with a timeline widget
+
+We could compute the similarity of views if they were in such graph forms
+
+We should be thinking in diagrams, graphs and state machines - mind mapping is superior for comprehension and retention of information compared to linearized text - we can augment/upgrade/automate our linguistics for the first time
+
+the future of script writing is graph creation, where refactoring and shuffling things around is just a matter of moving around & reconnecting subgraphs
+
+Linearization/serialization of ideas in language inevitably loses details, precision and connections
+
+The source should always be a graph because our minds represent knowledge and ideas as graphs - even though we communicate through serialization.
+
+The only way for serialization to language to not lose any details, connections & nuance in complex ideas is to be overly verbose and incomprehensible by humans.
+
+the next version of tweets will be small graphs, accompanied by representations in a few media forms for different consumption options
+
+language evolved hundreds of thousands of years ago - its about time we upgraded from it
+
+the better we annotate content - the more discoverable it will be. People don't put #hashtags without a good reason - however they are extremely limited
+
+we could (partially) pattern-match our thoughts
+
+What if we could debug / fact-check the logic in our graph circuits - perhaps by checking specific assumptions around other external fact databases?
+
+translating language to graphs of data is messy and hard - what if we first constructed our belief graphs & thesis explicitly and then used AI to generate us presenting our version of the story in the most coherent way possible? What if we shifted creation to explicit node-based software first before anything else?
+what leads to what, what the probabilities are.
+just like writing forces us to think, the next level is constructing such graphs in forcing us to think
+But until now we haven't had the option to turn such graphs into other types of consumable media
+imagine how we can edit a graph and re-render the final media output to reflect that
+we could even generate media that summarizes the changes of the graph throughout time - "generate change report in X format"
+
+all journalism suffers from
+- gelman amnesia   https://theportal.wiki/wiki/The_Gell-Mann_Amnesia_Effect
+- cherry picking - reality is a lot more complex
+- framing / frame control & russell conjugation - what is vs how to feel about what is - this should be an anti signal
+We should be less reliant on narratives and more on data
+
+
+what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
 
 ██████████████████████████████████████████████████████████████████████████████
 # second brain
@@ -141,6 +266,44 @@ imagine being able to view a multi-level depth tree with all citations and conve
 
 We should all want informational freedom when it comes to querying public information
 
+██████████████████████████████████████████████████████████████████████████████
+# Curators & labelers
+██████████████████████████████████████████████████████████████████████████████
+
+This is how we should think about humans in the giang global graph:
+https://www.youtube.com/watch?v=V0XfleKJSXM
+History of Ethereum 2013-2018 (Git Visualization)
+gource - git visualization
+
+"reshaping the influencer"
+
+We can let humans rank resources for various topics
+
+What if we could flag [Bad Faith Communication](https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=and%20education%20crises.-,Common%20Strategies%20of%20Bad%20Faith%20Communication,-Misleading%20with%20facts)?
+
+we should all be labellers - in an open way such that anyone can harness our collective intelligence
+
+What if the way an event or a piece of news to get to more eyes was not through recommendation algorithms but through explicit annotation of what's inside - such that people can have explicit interest in those? What if people would rank stories by importance and then subscribe to filters based on people they trust would rank stories properly? What if you could allocate an attention budget of say 30 minutes per day or 20 news items and get the top after sorting, with the option to get the next batch if you want more?
+
+Four Ways of Understanding Facts
+https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=Four%20Ways%20of%20Understanding%20Facts
+
+the liquid democracy stuff can be used here to "vote" on who is a good curator for different topics
+
+what about flagging an HR person as spammy? that should have its own specialized message type
+
+we can crowdsource X and gamify it into success - it's been done before with initiatives like foldit @home
+reputation! badges!
+
+badges:
+https://twitter.com/TitterTakeover/status/1622323886611202051
+
+what if we could tag/annotate content where human faces are using filters - or at least that we think its happening?
+what if we could choose that the recommender AIs do not show us faces with artificial filters (annotated as such by others) - wouldn't that disincentivize the use of such filters?
+Obviously this isn't thought through completely - it could turn out bad if the annotation isn't reliable - its just trying to illustrate a point.
+we could use AI to detect this instead of human annotation & reactions
+we can have a lot more choice in what is being promoted in media
+
 
 ██████████████████████████████████████████████████████████████████████████████
 # organizing information - interlinking & deduplicating data
@@ -180,8 +343,6 @@ every account should have an AMA associated with them
 This is what connecting people looks like - facebook isnt even scratching t he surface
 
 Disallowing comments on a youtube video is just dumb because you cannot disallow comments for it on reddit anyway - all you are doing is trying to hide commentary about what you are presenting
-
-concern: negative reputation & "scarlet letters"
 
 fine-grained control
 When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users ot not 
@@ -261,20 +422,16 @@ https://support.google.com/chrome/answer/10256233?hl=en&co=GENIE.Platform%3DDesk
 https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20encyclopedias%20will%20appear%2C%20ready%20made%20with%20a%20mesh%20of%20associative%20trails%20running%20through%20them%2C%20ready%20to%20be%20dropped%20into%20the%20memex%20and%20there%20amplified
 
 
-██████████████████████████████████████████████████████████████████████████████
-# The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) (a.k.a. the original "Web3")
-██████████████████████████████████████████████████████████████████████████████
 
-https://twitter.com/Golden
-https://golden.com/blog/golden-raises-40m-series-b/
 
-The biggest hurdle for its adoption has been the [host-centric](host_centric.md#the-host-centric-web--its-decay) paradigm and the hoarding of data in silos with no incentive for exporting & interoperability - Headjack changes that through [data-centric addressing](host_vs_data_centric.md) & broadcasting by default. While there will always be companies that enrich & tag data privately with their own ontologies and vocabularies to construct knowledge graphs for themselves, with open data by default and persistent URIs that always point to the same documents anyone will be able to broadcast similarly annotated versions of content with new URIs and relate them to the originals in a stable way for reuse by others. We can give birth to the public [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph) outside of large centralized systems such as Google and Facebook. Machine learning for processing unstructured data has its place but it can only go so far - structuring through the use of different [message types](messages.md) and further annotations will make everything a lot more machine-readable.
 
-<img src="images/data_information_knowledge.jpg">
 
-<!-- <img src="images/data_information_knowledge.png"> -->
 
-<!-- source:
-https://www.theifactory.com/news/gaining-wisdom-from-data/
-https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
--->
+
+
+
+
+
+
+imagine modelling the case around TikTok as a graph/tree
+

@@ -1,16 +1,62 @@
 
+https://www.internetgovernment.org/
+WITH TECHNOLOGY, WE CAN FINALLY UPGRADE THE WAY WE PARTICIPATE IN GOVERNMENT
+Imagine:
+THE MOST INFORMED AND INCLUSIVE NATION-WIDE DEBATES POSSIBLE
+RESEARCH-DRIVEN POLICY DEVELOPMENT WITHOUT THE POLITICS
+TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
+
+
+> "We waste so much time repeating old arguments and running in opposite directions. The internet looked like it would ease the problem by giving us access to vast knowledge and each of us a voice. It seems to have made the situation worse by overwhelming us with disorganized, contradictory information. Social media amplifies bias and creates echo chambers." - ["Canonical Debate Lab" paper](ttps://github.com/canonical-debate-lab/paper#i-abstract:~:text=We%20waste%20so,creates%20echo%20chambers.)
+
+> "The problem is structural in nature, and therefore can be solved with a structural fix." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=the%20problem%20is%20structural%20in%20nature%2C%20and%20therefore%20can%20be%20solved%20with%20a%20structural%20fix.)
+
+> "The state of debate as it occurs online is particularly ineffectual and disorganized. None of the technologies in use today (with the exception of email and a few others) were available twenty years ago, and yet with this incredible growth in capability, we have failed to address fundamental issues with deliberation, and created many new ones." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=The%20state%20of%20debate%20as,and%20created%20many%20new%20ones.)
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+> "" ["Canonical Debate Lab" paper]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Computable context
-
-Episodes & other creations should get their concept id
-
-
-
-
-Participatory - flow - in one with the environment
-Everything is salient
-Connectedness
-Agency
-Meaning
 
 
 
@@ -19,18 +65,10 @@ Meaning
 We are so limited - we should be able to sort and filter spotify episodes based on views/engagement. All these apps provide us a limited sandboxed environment
 
 
-
-what if we could tag/annotate content where human faces are using filters - or at least that we think its happening?
-what if we could choose that the recommender AIs do not show us faces with artificial filters (annotated as such by others) - wouldn't that disincentivize the use of such filters?
-Obviously this isn't thought through completely - it could turn out bad if the annotation isn't reliable - its just trying to illustrate a point.
-we could use AI to detect this instead of human annotation & reactions
-we can have a lot more choice in what is being promoted in media
-
-
 What if we could tell recommender algorithms to avoid content about dieting for example? why not be able to include/exclude based on such types?
 
 
-The current social media arms race is in harvesting attention & going to the bottom of the brain stem. What if the nature of competition is changed and the ones that offer the most choice for users win?
+The current social media arms race is in harvesting attention & going to the bottom of the brain stem. What if the nature of competition is changed and the ones that offer the most choice for users (even if at the expense of reduced overall revenue) win?
 
 
 we can crowdsource a ranking of bad UI mechanics that should be avoided in media and use that to inform which apps & algorithms we use
@@ -40,149 +78,34 @@ the stopping queue has been removed since the invention of the endless feed scro
 what if we could analyze any piece of media for the degree of use of loaded/manipulative language?
 
 
-
-Its all about choice.
+Its all about choice & agency.
 
 
 why can't we crowdsource "top 10 videos that everyone should watch"
 
 
-all journalism suffers from
-- gelman amnesia   https://theportal.wiki/wiki/The_Gell-Mann_Amnesia_Effect
-- cherry picking - reality is a lot more complex
-- framing / frame control & russell conjugation - what is vs how to feel about what is - this should be an anti signal
-We should be less reliant on narratives and more on data
-
-
-
-translating language to graphs of data is messy and hard - what if we first constructed our belief graphs & thesis explicitly and then used AI to generate us presenting our version of the story in the most coherent way possible? What if we shifted creation to explicit node-based software first before anything else?
-what leads to what, what the probabilities are.
-just like writing forces us to think, the next level is constructing such graphs in forcing us to think
-But until now we haven't had the option to turn such graphs into other types of consumable media
-imagine how we can edit a graph and re-render the final media output to reflect that
-we could even generate media that summarizes the changes of the graph throughout time - "generate change report in X format"
-
-
-
-What if we could debug / fact-check the logic in our graph circuits - perhaps by checking specific assumptions around other external fact databases?
-
-
-We’d be able to “view source” for the AI-generated summaries
-
-We’d be able to query where else specific facts (semantic triples) are mentioned
-
-“The need for structure”
-
-A graph has many ways to be traversed so we could ask AIs to generate a few versions so that we can pick. Our we could draw a pathing for linguistic linearization
-
-The generated linearized/serialized output could have an automatically generated mapping so that we can see which regions correspond to which parts of the graph with some highlighting and we could have both displayed side by side in a synchronized “playback”
-
-People can have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more emphasis on them
-Imagine integrating this in a movie-maker-like software with a timeline widget
-
-We could compute the similarity of views if they were in such graph forms
-
-If we can annotate facts and claims then we’d be able to track the provenance of ideas - or at least view their first occurance
-
-We should be thinking in diagrams, graphs and state machines - mind mapping is superior for comprehension and retention of information compared to linearized text - we can augment/upgrade/automate our linguistics for the first time
-
-the future of script writing is graph creation, where refactoring and shuffling things around is just a matter of moving around & reconnecting subgraphs
-
-Linearization/serialization of ideas in language inevitably loses details, precision and connections
-
-The source should always be a graph because our minds represent knowledge and ideas as graphs - even though we communicate through serialization.
-
-The only way for serialization to language to not lose any details, connections & nuance in complex ideas is to be overly verbose and incomprehensible by humans.
-
-the next version of tweets will be small graphs, accompanied by representations in a few media forms for different consumption options
-
-language evolved hundreds of thousands of years ago - its about time we upgraded from it
-
-the better we annotate content - the more discoverable it will be. People don't put #hashtags without a good reason - however they are extremely limited
-
-we could (partially) pattern-match our thoughts
-
-This is how we should think about humans in the giang global graph:
-https://www.youtube.com/watch?v=V0XfleKJSXM
-History of Ethereum 2013-2018 (Git Visualization)
-gource - git visualization
-
-the semantic web was held back by the host-centric model and the lack of stable decentralized identities to which we could link/join data
-
-reviving the semantic web
-
-web 3.0 is a graph of identities & events in the cloud - beyond the confines of the host-centric web
-web 3.0 is the original idea of the semantic web - the original web 3.0
-
-onthology/taxonomy vs the knowledge graph
-https://www.youtube.com/watch?v=7rn3P-RlN3s
-
-example: schema.org and their "identifiers" for relationships:
-https://schema.org/knows
-but this could be just 2 numbers: 1234:651
-
-"pull that up jamie" - see everything that referenced X (identity/URI) and filter types of references (AMA/critiques/annotations/general discussion)
-
-accounts have their own concept/noun space with identifiers from 1 and upwards
-others can define onthologies that use those concepts
-others can make equivalence maps between onthologies & concepts
-
-imagine modelling the case around TikTok as a graph/tree
-
-
-Social media 1.0 is a capitalistic artifact of gradient descent. Social media 2.0 is the Metaverse where data has no boundries
-
-Wikipedia 2.0 will be a crowdsourced knowledge graph
-
-with common shared knowledge graphs we could do impact analysis for event prioritization and also root cause analysis and other graphs that perhaps represent someone's essay/thoughts could refer to the main shared graph - acting as an extension to it that can be considered in the context of the whole & analyzed
-
-the semantic web is about replacing the statistical and sporadic links in the web with something actually meaningful and unambiguous & semantic
-
-formal language, predicate/first-order logic, 
-
-
 what if we had different knobs to tune the availability of content - not just likes/dislikes
-
-not facts/concepts/rules - assertions!
-
-what if we could crowdsource something like Cyc?
-https://www.youtube.com/watch?v=kwYaj-1EVJ0
-
-What if wikipedia was a common knowledge graph with different possible views for it?
-
-
-
-concern: its impossible to have updated views & indexes for every aggregate with a big enough different filtration criteria, but its important for any view to be possible, so that eventually it gets calculated & surfaces
 
 dehumanization is a psychosocial externality and we should be able to flag it and influence recommender algorithms with our labeling
 
 we can crowdsource improvement proposals for any topic - for example feature requests for recommender algorithms for ANYONE to implement, and when they do, they can mark themselves there and users can migrate to them if they really care about that feature
 
 
-signal/noise reduction & structured data
-less language ==> less need for translation & localization
 
 
 
-unlike text, structured data is easily aggregatable for the purpose of visualization through graphs & charts which makes it easily comprehensible
 
 
-The current social apps exploit our social reciprocity - x follows you - follow them back! We should rethink our types of connections and the amount of persuation and manipulation apps can do to us
 
-Can’t be evil - tiktok in 2022 was running jn russia without the ability to view foreign content and russians could not post content about the war
 
-Cant be evil - searcc result manipulation and bias
 
-Perspective expansion vs perspective division/separation/certainty
+“The need for structure”
 
-We are what we eat but we are also what we watch
 
-in the current web your interactions lead to better recommendations and better ads. In an open world your interactions would enable all kinds of insight that anyone could surface
-open & shared knowledge graphs would unlock unimaginable services & insight - part of the cold start problem is lack of access to a knowledge graph
-knowledge graphs bring context
-ontological engineering would be required for proper knowledge graphs...
 
-in entity resolution (if records from different data sources represent the same entity) consistency is key, and so is brevity/compactness
+
+If we can annotate facts and claims then we’d be able to track the provenance of ideas - or at least view their first occurance
+
 
 
 what if your inputs (likes/votes/etc) weren't seen in the feeds of your followers (as explicit comments or whatever) but could still affect them - as in curating content for them?
@@ -193,17 +116,10 @@ what if your inputs (likes/votes/etc) weren't seen in the feeds of your follower
 
 
 
-> "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
 
-> "If you want to find the secrets of the Metaverse, think in terms of identities, events & graphs/relations." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
+== SCORING
 
-
-
-
-
-
-We should be able to relate things and look for relations/references - example:
-The YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) by the creators of the videos is out of order, but someone made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is in proper order. We should be able to see all references for the original playlist when viewing it and filter them and more easily discover the fixed playlist
+- we can compute truthfulness - or at least levels of alignment to a set of beliefs
 
 
 
@@ -213,72 +129,6 @@ The YouTube playlist [`"Journey into information theory | Computer Science | Kha
 
 
 
-anonymity - reducing the cost of defection
-
-
-
-relevance realization
-
-
-hyper agents (extremely influential individuals & entities) need to be held to higher standards & have more scrutiny
-
-
-current social media has a choice architecture in the UI that's misaligned with users - they're solely optimizing for engagement & time spent - the goals of people
-
-we take the agency we have in search engines for granted (we explicitly type what we're looking for), but we've completely abdicated agency in the feeds that feed us information in social media - we ought to have a choice there as well
-In search we are looking for something and want control. But aren't we looking for something in our feeds as well? Why not have more agency - even if it leads to less time spent on the app?
-
-
-what if we could provide alternative names for content in a crowdsourced way - one that is less clickbait-y?
-aligning incentives.
-
-
-The perpetual AMA
-
-
-there's a sociological asymmetry of power - those that produce data and those that have access to it
-
-
-Stack overflow questions can have their titles changed/edited by someone other than the author with the goal of making it more precise - why not do the same for videos & all other kinds of content?
-
-we can compute truthfulness - or at least levels of alignment to a set of beliefs
-
-
-a bottom-up global governance system can only be built on top of a shared identity layer, trust, reputation & immutable history
-
-
-what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
-
-
-Names can have an index and subdomains can refer to the names by idx - vbuterin should be in the state once even if rhere is a vbuterin.com and a vbuterin.eth - names are created once and reused by idx
-
-
-
-AI classification isn’t scalable enough and can be ambiguous
-
-Why NFTs are overhyped - but VCs and attestations are not
-
-Due to the scale-free effect there will be a power law distribution for the IDs being used - there will be a convergence - just like imdb movie ids are used in many places
-
-The metaverse is where your entire digital trail resides and underneath that is identity
-
-Meme: fork in the road: host-centric status quo vs SSI and content addressing
-
-Social media is not about pictures of what we ate - its a global coordination substrate
-
-
-
-what about flagging an HR person as spammy? that should have its own specialized message type
-
-
-Signing with a private ley requires it to always be loaded - for every new event
-Contrast that to auth tokens - they are created once and reused many times - only the point of creation needs the highest security
-
-A true social network allows data, events and identities to be linked in any way imaginable - today’s platforms are a lowest common denominator with hard constraints on how they can be extended
-
-We’ve never had a true social network
-
-Guaranteed resolvability
 
 
 
@@ -306,40 +156,9 @@ https://en.wikipedia.org/wiki/Common_knowledge
 
 
 
-the endgame
-
-abstract meritocracy
-the internet government
-jamie joyce
-what if technology could enable people to represent themselves and directly participate in federal legislative government themselves - politics without polititians
-
-we can separate political ideas from people and representatives
-what if we could inform our politics with such soft online governance in an abstract meritocracy
-
-representative democracy is vulnerable
-
-A bold idea to replace politicians | César Hidalgo
-https://www.youtube.com/watch?v=CyGWML6cI_k
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CyGWML6cI_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-representative polititians are packages and are full of compromises
-
-what if we could submit all our views & morals and feed that through aggregation algorithms that then score different policies to determine which ones should be chosen? And what if all this data was anonymized and yet public so anyone can re-do the aggregates?
-What if we could pull ZK credentials for different criteria from our real identity and input those (in some anonymized fashion) into the aggregation algorithm?
-
-This algorithm can be public & open source
 
 
 
-The third attractor is bottom-up emergent order
-
-Current social media is stupefying us
-
-
-
-we can bridge/bring along/transfer/extend VCs to the anonymized set of votes
-something could guide or estimate how deanonymizable we become depending on the ZK VCs we bridge
 
 
 
@@ -350,39 +169,6 @@ we could have a quiz and give VCs to people that pass it and only count their vo
 
 
 
-
-reducing information entropy - the level of surprise
-but aren't we actually reducing the ambiguity?
-bringing order
-reducing the symbol space
-
-reducing the vocabulary of common knowledge
-
-
-The Metaverse is an MMO (massively multiplayer online) freeform information network - a giant global graph - a metabrain
-https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
-
-massively multiplayer online relational database
-
-There will be SQL interfaces on top of all of the data
-
-think in terms of relations & joinability
-
-https://en.wikipedia.org/wiki/Semantic_network
-
-
-> "Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure." - [Melvin E. Conway](https://en.wikipedia.org/wiki/Conway%27s_law)
-
-
-
-Notifications from social networks are hideously engineered to get you to get back in the app - we need to separate IDMs from apps
-
-
-
-Sensemaking chapter - video replies without interlinking specific moments is just primitive
-How do we debunk stuff?
-Moonlanding faked?
-Ancient technology in egypt? Give links as evidence
 
 
 
@@ -429,27 +215,15 @@ imagine being able to crowdsource debate requests with specific people and see a
 
 
 
-when youtube removes a video of yours - it should still be available by you. It should still have an ID if you wish it so
-
-boosting the competent through ranking their public information & track record objectively & transparently
-we need to build the public introspection tool
-
-
-
-
 imagine browsing the public web like it was your personal files in your apps and drives - having total control of how you store and group that data. This could be the case with the public web. And we could advertise what kind of filters & grouping options we prefer with public messages which are not options. we can crowdsource preference and show which things are preferred. We can end the binary duopoly in politics by making all opinions and interests unbundled from each other
 
 
 Global vs local for the feed - locality of information & notifications!
 
+
+
 Section: certifiable (verifiable?) credentials and attestations
-
-
-
 granularity of verification? many verticals? a bouquet of attestations
-
-
-
 
 
 
@@ -473,15 +247,14 @@ imagine being able to select a subset of all accounts worldwide and train a GPT 
 deduplicating concepts and reusing them increases the efficiency & compactness of information. Common knowledge as unique concept/noun identifiers allows us to communicate more substance and interlink everything better
 Common knowledge is important for efficient communication
 
-concepts! not nouns
-https://en.wikipedia.org/wiki/Concept
-
 context collapse - lack of provenance & the chain of custody of facts
 
 we have the opportunity to deduplicate common knowledge (concepts, nouns, etc). into a set of unique stable identifiers
 
 
-youtube's reaction to swarm downvoting is "remove the count". This system allows you to filter the count any way you want
+youtube's reaction to swarm downvoting is "remove the count".
+Disempowerment.
+This system allows you to filter the count any way you want - empowerment.
 
 
 
@@ -489,17 +262,6 @@ youtube's reaction to swarm downvoting is "remove the count". This system allows
 
 
 
-reaction videos
-Jillian Michaels: Don't believe the keto diet hype | Big Think
-https://www.youtube.com/watch?v=LOPOcBVzm7s
-How do we determine if that video is correct? How do we browse the reactions?
-HOW WOULD YOU KNOW there are reactions if you didn't explicitly search for them ?!
-https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction
-The Keto and Low Carb High Fat revolution is entirely enabled by the internet and is a response to the complete failure and corruption of the FDA
-
-The internet is rife with (deliberate) misinformation
-
-a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
 
 
 
@@ -929,6 +691,10 @@ Composition in DeFi pales in comparison to the opportunities around data & ident
 
 
 
+> "Open state is the next step after open source. You don’t just release a copy of the frontend, you let anyone read and write to the same backend." - [@balajis](https://twitter.com/balajis/status/1632833998442614784)
+
+
+
 can't be evil - reddit's hot/new/top algorithms are no longer public & open source - why not? This makes Reddit as a voting system less democratic and more opaque
 recommender systems are voting systems - user choice is effectively a vote that's fed through a feedback loop which affects what gets recommended to others as well. every user choice affects the available choices for others and the algorithms that do that are opaque - this is the opposite of democratic
 
@@ -967,3 +733,15 @@ the ability to toggle the display of highlights & interlinked objects - turning 
 
 
 when ingesting data, infrastructure can map the "appId/nonce" pair to "block_height/appId"
+
+
+> "Privacy is the power to selectively reveal oneself to the world." - [A Cypherpunk's Manifesto by Eric Hughes, 9 March 1993](https://www.activism.net/cypherpunk/manifesto.html#:~:text=Privacy%20is%20the%20power%20to%20selectively%20reveal%20oneself%20to%20the%20world.)
+
+
+
+Why NFTs are overhyped - but VCs and attestations are not
+
+
+Meme: fork in the road: host-centric status quo vs SSI and content addressing
+
+

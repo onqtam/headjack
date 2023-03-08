@@ -45,6 +45,8 @@ Headjack - having a lower ID
 
 Oauth as a partner
 
+https://www.privy.io/
+
 https://www.defmacro.org/2019/03/26/startup-checklist.html
 
 

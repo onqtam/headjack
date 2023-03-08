@@ -312,6 +312,8 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - can CRDTs be used like in farcaster?
     https://github.com/farcasterxyz/protocol#4-replication
+    CRDTs: The Hard Parts - Martin Kleppmann
+        https://www.youtube.com/watch?v=x7drE24geUw
 
 - how does The Graph fit into this?!
 
