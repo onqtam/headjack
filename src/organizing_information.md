@@ -1,5 +1,7 @@
 # Organizing information
 
+# It's all connected
+
 <!-- toc -->
 
 
@@ -111,29 +113,25 @@ reducing the vocabulary of common knowledge
 # Free-form associations: anything-to-anything
 ██████████████████████████████████████████████████████████████████████████████
 
-`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document with a URI or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and modifications which we could filter through our UI.
+`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document with a URI or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits which we could filter through our UI.
 
-- **Example 1:** Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the scammers & bots and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there - and is most likely fractured across different platforms. The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
+- **Example 1:** Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the scammers & bots and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there (and is most likely fractured across different platforms/subreddits). The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
 
-- **Example 2:** What if we could provide alternative titles for content and crowdsource the ones which most accurately describe it - countering the clickbait? Users could choose to view the original titles or the crowdsourced versions if there's consensus for a specific title to be way better than the original. This is already happening in StackOverflow - titles of other people's posts can be edited by moderators (or anyone?) with the goal of improving accuracy. What constitutes "better" and which/how votes are counted can be configurable too. But wouldn't content creators object?! Sure, but what are they going to do? The rules of the Metaverse are that data can be composed in any way imaginable without restrictions. This is like taking the best comment about what a post/video should be titled and through something like a browser extension programatically using that instead of the original in the UI - you can't stop that. We could even calculate clickbait scores for content creators - I bet many would have more than 90% of their content re-titled according to some criteria. We could even feed such scores into recommendation algorithms - **disincentivizing clickbait**.
+- **Example 2:** What if we could provide alternative titles for content and crowdsource the ones which most accurately describe it - countering the clickbait? Users could choose to view the original titles or the crowdsourced versions if there's consensus for a specific title to be way better than the original. This is already happening in StackOverflow - titles of other people's posts can be edited by moderators (or anyone?) with the goal of improving accuracy. What constitutes "better" and which/how votes are counted can be configurable too. But wouldn't content creators object?! Sure, but what are they going to do? But data can be composed in any way imaginable in the Giant Global Graph. This is like taking the best comment about what a post/video should be titled and through something like a browser extension programatically using that instead of the original in the UI - you can't stop that. We could even calculate clickbait scores for content creators - I bet many would have more than 90% of their content re-titled according to some criteria. We could even feed such scores into recommendation algorithms - **disincentivizing clickbait**.
 
-- **Example 3:** The perpetual AMA - why can't we see an ongoing discussion around celebrities & hyper agents (extremely influential individuals & entities)?
+- **Example 3:** The perpetual AMA (Ask Me Anything) - currently only a small handful of people have done [AMAs in Reddit](https://www.reddit.com/r/AMA) that last only up to a few days with an extremely limiting interface in a sporadic/random fashion. What if every account had an implicit AMA associated with them (something like [ask.fm](https://ask.fm) but a lot more powerful) and we could ask any leader/CEO/celebrity & hyper agent questions with special message types and link them to their accounts? We could collectively surface the most pressing ones and make it glaringly obvious if the important ones aren't answered or if the answer is of poor quality - through different dashboards/charts & sorting/filtering. We could hold them to higher standards & more scrutiny. What if we could pressure companies & CEOs about the use of Cobalt from African mines with slave labor? Doing a poll on [change.org](https://change.org) is extremely ineffectual, but if something like it was integrated with a new more expressive type of social media for virality - it could have drastically different results. It is easy to ingore some obscure app but not when everything is built on top of the same interconnected identity & data network.
 
+- **Example 4:** Reactions that relate to a piece of content. Let's take the [`"Jillian Michaels: Don't believe the keto diet hype | Big Think"`](https://www.youtube.com/watch?v=LOPOcBVzm7s) video for example. How do we determine if what's in there true? All we have is a comment section and a sidebar with algorithmic recommendations. Turns out there are [a number of reactions](https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction) but they're not shown next to the video in any way - how would we know about their existence if we didn't explicitly search for them? The goal is not to be exposed to multiple points of view & reach some conclusion - it's only engagement. The videos are not interlinked, but suppose they were - we could have a list of reactions displayed along with scores of disagreement and other factors and we could more easily discern which one to watch next.
+<!-- The way to expose the complete failure & corruption of the FDA & their misguided policies is through a bottom-up crowdsourced effort enabled by the Internet and further enabled by linked data, identities & reputation. -->
 
-We need to hold them to higher standards & have more scrutiny.
-
-Kim Kardashian promoting Ethereum Max? That should have an entry
-
-
-reaction videos
+- **Example 5:** 
+Take the YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. Why can't we see a crowdsourced redirection suggestion attached to the first one on which people can vote?
 
 
 
-Let's take the [`"Jillian Michaels: Don't believe the keto diet hype | Big Think"`](https://www.youtube.com/watch?v=LOPOcBVzm7s) video for example. How do we determine if what's in there true? All we have is a comment section and a sidebar with algorithmic recommendations. Turns out there are [a number of reactions](https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction) but they're not shown next to the video in any way - how would we know about their existence if we didn't explicitly search for them? The goal is not to be exposed to multiple points of view & reach some conclusion/consensus - it's only engagement.
 
-The data is not interlinked, but suppose it was - we could have a list of reactions displayed somewhere along with scores of disagreement/prominence and other factors and we could more easily discern which one to watch next. The way to expose the complete failure & corruption of the FDA and the misguided policies of the past couple of decades is through a bottom-up crowdsourced effort enabled by the internet and further enabled by linked data, identities & reputation.
 
-Take this YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. Why can't we see a crowdsourced redirection suggestion attached to the first one on which people can vote?
+
 
 
 
@@ -334,18 +332,6 @@ key stability ==> information deduplication & integration
 
 If you choose an obscure tag or even if its the same but from an unpopular collection you'd simply limit your visibility & discoverability - there's an implied incentive to use the most popular collections when tagging your content
 
-We should be able to view the most pressing questions for public figures and CEOs
-Integrating all these different use cases with social media and unified identity and notifications is how to make them viral
-We should be able to surface questions to elites and leaders and make it glaringly obvious if they have responded to them or not
-It is easy to ingore some obscure app but not when everything is built on top of the same identity & data network
-Sporadic Reddit AMAs are absolutely ibadequate
-every account should have an AMA associated with them
-This is what connecting people looks like - facebook isnt even scratching t he surface
-
-Disallowing comments on a youtube video is just dumb because you cannot disallow comments for it on reddit anyway - all you are doing is trying to hide commentary about what you are presenting
-
-fine-grained control
-When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users ot not 
 
 https://twitter.com/SocietyLibrary
 the internet is unstructured
@@ -434,4 +420,7 @@ https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20
 
 
 imagine modelling the case around TikTok as a graph/tree
+
+This is what connecting people looks like - facebook isnt even scratching the surface
+
 
