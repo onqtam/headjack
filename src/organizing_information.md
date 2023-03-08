@@ -113,7 +113,7 @@ reducing the vocabulary of common knowledge
 # Free-form associations: anything-to-anything
 ██████████████████████████████████████████████████████████████████████████████
 
-`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document with a URI or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits which we could filter through our UI.
+`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI.
 
 - **Example 1:** Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the scammers & bots and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there (and is most likely fractured across different platforms/subreddits). The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
 
@@ -125,37 +125,9 @@ reducing the vocabulary of common knowledge
 <!-- The way to expose the complete failure & corruption of the FDA & their misguided policies is through a bottom-up crowdsourced effort enabled by the Internet and further enabled by linked data, identities & reputation. -->
 
 - **Example 5:** 
-Take the YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. Why can't we see a crowdsourced redirection suggestion attached to the first one on which people can vote?
+Take the YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. This is essentially a fork - one that is better than the original. Why can't we see a crowdsourced redirection suggestion attached to the original?
 
-
-
-
-
-
-
-
-
-
-concern: negative reputation & "scarlet letters"
-
-see everything that referenced X (identity/URI) and filter types of references (AMA/critiques/annotations/general discussion)
-
-
-a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
-
-Sensemaking chapter - video replies without interlinking specific moments is just primitive
-How do we debunk stuff?
-Moonlanding faked?
-Ancient technology in egypt? Give links as evidence
-
-youtube's reaction to swarm downvoting is "remove the count".
-Disempowerment.
-This system allows you to filter the count any way you want - empowerment.
-
-
-
-
-A unified identity layer, the ability to deduplicate content, to annotate semantically & the move to structured data greatly helps with being able to deduplicate content & entities and pull everything related to something.
+A unified identity layer, the ability to deduplicate content, to annotate semantically & the move to structured data greatly helps with being able to pull everything related to something. However, one concern is negative reputation & "scarlet letters" - the ability to taint an entity and have the bad reputation follow it without the ability to hide it. But we can develop tools, norms & criteria to evaluate/rank/filter any document & reaction that relates to something. Moreover, even if there isn't a direct data connection between 2 entities (one referring to the other), as long as they are both public someone could index them and make that link. This problem already exists today.
 
 ██████████████████████████████████████████████████████████████████████████████
 # Graph data as the source
