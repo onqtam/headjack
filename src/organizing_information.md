@@ -105,25 +105,25 @@ reducing the vocabulary of common knowledge
 
 ██████████████████████████████████████████████████████████████████████████████
 # Query for anything related to something
+# Anything that's relevant
+# Everything that's relevant
+# Anything relevant to something
+# Free-form associations: anything-to-anything
 ██████████████████████████████████████████████████████████████████████████████
 
-`"Pull that up Jamie"` => We should be able to see all references & content related to any identity, event/document with a URI or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and modifications which we could filter through our UI.
+`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document with a URI or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and modifications which we could filter through our UI.
 
 - **Example 1:** Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the scammers & bots and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there - and is most likely fractured across different platforms. The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
 
-- **Example 2:** What if we could provide alternative titles for content and crowdsource the ones which most accurately describe it - removing the clickbait? Users could choose to view the original titles or the crowdsourced versions if there's consensus for a specific title to be way better than the original (what constitutes "better" can be configurable too). But wouldn't content creators object?! Sure, but what are they going to do? The rules of the Metaverse are that data can be composed in any way imaginable without restrictions. This case is like taking the best comment about what a piece should be titled and through something like a browser extension programatically using that instead of the original. This is already happening in StackOverflow - titles of other people's posts can be edited by moderators (and perhaps anyone?) with the goal of improving accuracy.
+- **Example 2:** What if we could provide alternative titles for content and crowdsource the ones which most accurately describe it - countering the clickbait? Users could choose to view the original titles or the crowdsourced versions if there's consensus for a specific title to be way better than the original. This is already happening in StackOverflow - titles of other people's posts can be edited by moderators (or anyone?) with the goal of improving accuracy. What constitutes "better" and which/how votes are counted can be configurable too. But wouldn't content creators object?! Sure, but what are they going to do? The rules of the Metaverse are that data can be composed in any way imaginable without restrictions. This is like taking the best comment about what a post/video should be titled and through something like a browser extension programatically using that instead of the original in the UI - you can't stop that. We could even calculate clickbait scores for content creators - I bet many would have more than 90% of their content re-titled according to some criteria. We could even feed such scores into recommendation algorithms - **disincentivizing clickbait**.
+
+- **Example 3:** The perpetual AMA - why can't we see an ongoing discussion around celebrities & hyper agents (extremely influential individuals & entities)?
 
 
-see everything that referenced X (identity/URI) and filter types of references (AMA/critiques/annotations/general discussion)
-We should be able to relate things and look for relations/references - example:
+We need to hold them to higher standards & have more scrutiny.
 
+Kim Kardashian promoting Ethereum Max? That should have an entry
 
-
-
-
-The perpetual AMA
-
-hyper agents (extremely influential individuals & entities) need to be held to higher standards & have more scrutiny
 
 reaction videos
 
@@ -140,7 +140,7 @@ Take this YouTube playlist [`"Journey into information theory | Computer Science
 
 concern: negative reputation & "scarlet letters"
 
-YouTube disabled comments
+see everything that referenced X (identity/URI) and filter types of references (AMA/critiques/annotations/general discussion)
 
 
 a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
