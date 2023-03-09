@@ -29,11 +29,11 @@ we will share the digital space with AIs and a web of trust on top of PKI will b
 # Problems with language
 ██████████████████████████████████████████████████████████████████████████████
 
-Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. We are drowning in language, which is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process & aggregate unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
+Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. We are drowning in language, which is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process, aggregate & classify unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
 
 > "Speech as proof of work is dead." - [Gordon Brander](https://twitter.com/gordonbrander/status/1622999277411741698)
 
-When all you have is language, it becomes the hammer and every problem is a nail. Furthermore:
+The one-size-fits-all model: when all you have is language, it becomes the hammer and every problem is a nail. Furthermore:
 
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
 
@@ -43,32 +43,18 @@ When all you have is language, it becomes the hammer and every problem is a nail
 # Structured data & improving the signal/noise ratio
 ██████████████████████████████████████████████████████████████████████████████
 
-Information theory could be as important as or even fundamental to matter & the laws of physics - they are tightly interwoven. Nature strives to remove every unnecessary bit when it comes to exchange of information - and so should we.
+Information theory could be as important as or even fundamental to matter & the laws of physics - they are tightly interwoven. Nature strives to remove unnecessary bits when it comes to exchange of information - and so should we.
+
+What if:
+
+- most comments were turned into reactions/votes/assertions that are unambiguous? There's always the option to comment on your reaction/vote/assertion to clarify it and add context.
+- we could specify importance levels & severity thresholds to each piece of communication?
+- Twitter extensions didn't clutter with text tweets like `@SaveToNotion`, `@readwise save`, `@threadreaderapp unroll` & [`@memdotai mem it`](https://twitter.com/MaficoNFT/status/1591510117094428678) but could use dedicated message types that can be filtered & treated in a special way?
+<!-- - #hashtags weren't part of the text but utilized a tag system? -->
 
 
 
-Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions should have been codified with structured data & logged in a time-series.
-
-Twitter "extensions" utilize text tweets and clutter the user experience
-new message types!
-extensions to twitter shouldn't clutter the comments like this:
-@threadreaderapp unroll
-@memdotai mem it
-@readwise save
-@SaveToNotion
-https://twitter.com/MaficoNFT/status/1591510117094428678
-
-
-
-REACTION with a comment/note - still structured data, but with added expressiveness
-
-hashtags can/should be separated from the text
-
-We need more than the current one size fits all model
-Importance/severity threshold/levels?
-
-Upsides in moving from language to structured data:
-
+== Upsides in moving from language to structured data:
 == If we moved the vast majority of online acitivity to structured data away from language we'd get:
 
 - less need for translation & localization
@@ -76,84 +62,18 @@ Upsides in moving from language to structured data:
 - less emotionally manipulative language & framing such as the [Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation)
 - less need to think of the right words - reducing friction in expression
 
-
-
 unlike text, structured data is easily aggregatable for the purpose of visualization through graphs & charts which makes it easily comprehensible
 
-we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
-
-Structured data should be incentivized
+Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions could have been codified with structured data & logged as time-series so that we can compare, chart & plot the evolution of their views. Structured data should be incentivized.
 
 
 
 
 
-██████████████████████████████████████████████████████████████████████████████
-# Graph data as the source
-# Structured data as the source
-██████████████████████████████████████████████████████████████████████████████
+serialization of thought into language is lossy
 
-AI classification isn’t scalable enough and can be ambiguous
-
-We’d be able to “view source” for the AI-generated summaries
-
-We’d be able to query where else specific facts (semantic triples) are mentioned
-
-A graph has many ways to be traversed so we could ask AIs to generate a few versions so that we can pick. Our we could draw a pathing for linguistic linearization
-
-The generated linearized/serialized output could have an automatically generated mapping so that we can see which regions correspond to which parts of the graph with some highlighting and we could have both displayed side by side in a synchronized “playback”
-
-People can have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more emphasis on them
-Imagine integrating this in a movie-maker-like software with a timeline widget
-
-We could compute the similarity of views if they were in such graph forms
-
-We should be thinking in diagrams, graphs and state machines - mind mapping is superior for comprehension and retention of information compared to linearized text - we can augment/upgrade/automate our linguistics for the first time
-
-the future of script writing is graph creation, where refactoring and shuffling things around is just a matter of moving around & reconnecting subgraphs
-
-Linearization/serialization of ideas in language inevitably loses details, precision and connections
-
-The source should always be a graph because our minds represent knowledge and ideas as graphs - even though we communicate through serialization.
-
-The only way for serialization to language to not lose any details, connections & nuance in complex ideas is to be overly verbose and incomprehensible by humans.
-
-the next version of tweets will be small graphs, accompanied by representations in a few media forms for different consumption options
-
-language evolved hundreds of thousands of years ago - its about time we upgraded from it
-
-the better we annotate content - the more discoverable it will be. People don't put #hashtags without a good reason - however they are extremely limited
-
-we could (partially) pattern-match our thoughts
-
-What if we could debug / fact-check the logic in our graph circuits - perhaps by checking specific assumptions around other external fact databases?
-
-translating language to graphs of data is messy and hard - what if we first constructed our belief graphs & thesis explicitly and then used AI to generate us presenting our version of the story in the most coherent way possible? What if we shifted creation to explicit node-based software first before anything else?
-what leads to what, what the probabilities are.
-just like writing forces us to think, the next level is constructing such graphs in forcing us to think
-But until now we haven't had the option to turn such graphs into other types of consumable media
-imagine how we can edit a graph and re-render the final media output to reflect that
-we could even generate media that summarizes the changes of the graph throughout time - "generate change report in X format"
-
-all journalism suffers from
-- gelman amnesia   https://theportal.wiki/wiki/The_Gell-Mann_Amnesia_Effect
-- cherry picking - reality is a lot more complex
-- framing / frame control & russell conjugation - what is vs how to feel about what is - this should be an anti signal
-We should be less reliant on narratives and more on data
-
-
-what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
-
-
-
-
-we can use AI to generate podcast-like conversations that cover the digital interactions of structured data
 
 currently we channel our energy in a useless way - the best we can do is get a hashtag trending. But with this system every type of interaction would count
-
-
-
-what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?
 
 so much expressed opinions & views are left unanalyzed & unaggregated because they're in text - they have an ephemeral impact for a moment and then fade
 
@@ -165,6 +85,135 @@ bringing order
 reducing the symbol space
 
 reducing the vocabulary of common knowledge
+
+
+
+██████████████████████████████████████████████████████████████████████████████
+# The long-form media source: thought-graphs
+# Thought-graphs: the long-form media source
+# Thought-graphs: an upgrade to linguistics
+██████████████████████████████████████████████████████████████████████████████
+
+<!-- What about complex thoughts? Again, language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
+
+Writing forces us to think, but the act of serializing a complex web of interconnected thoughts is very lossy - most connections, weights & context are either lost or conveyed differently, and every attempt to fix this leads to overly verbose, boring and incomprehensible text. -->
+
+What about complex thoughts? The act of serializing a complex web of interconnected thoughts with language is very lossy - most connections, weights & context are either lost or conveyed differently, and most attempts to fix this lead to overly verbose, boring and incomprehensible text. Language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
+
+What if we expressed our thoughts as directed graphs of ideas, entities & concepts with weights, probabilities & causal relationships? Our canvas could be a node-based software that's seamlessly integrated with the semantic web & the Giant Global Graph instead of a limited text editor.
+
+<!-- > "Writing is the process by which you realize that you do not understand what you are talking about. Importantly, writing is also the process by which you figure it out." - [Why Write? - by Shane Parrish](https://fs.blog/why-write/#:~:text=Writing%20is%20the%20process%20by%20which%20you%20realize%20that%20you%20do%20not%20understand%20what%20you%20are%20talking%20about.%20Importantly%2C%20writing%20is%20also%20the%20process%20by%20which%20you%20figure%20it%20out.) -->
+
+> "If you’re thinking without writing, you only think you’re thinking." - [Leslie Lamport](https://fs.blog/how-to-think/#:~:text=%E2%80%9CIf%20you%E2%80%99re%20thinking,%E2%80%94%20Leslie%20Lamport)
+
+Writing text forces us to think, but graph construction & exploration would make our thinking more precise and our understanding deeper - we can augment our linguistics. Mind Maps are superior when it comes to comprehension and retention of information because they organize information spatially & hierarchically - engaging our brains visually. The source should always be a graph because our minds represent knowledge & ideas as graphs - even though we communicate serially.
+
+Let's take the [`"Why I think there's a one-in-six chance of an imminent global nuclear war (October 2022)"`](https://www.lesswrong.com/posts/Dod9AWz8Rp4Svdpof/why-i-think-there-s-a-one-in-six-chance-of-an-imminent) post by Max Tegmark for example and <u>**ignore if we agree with him or not**</u>.
+
+<img src="images/Why_I_think_there's_a_one-in-six_chance_of_an_imminent_global_nuclear_war.jpeg">
+
+His thesis is effectively a state machine, which he goes on to explain in greater detail with text. But his tool to make that graph was probably for simple diagrams - incomparable in terms of capabilities to what we're envisioning here. Graph-first thinking is simply not how we think & communicate (yet).
+
+But could such a change happen? A good example are [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) notebooks whose documents are interactive with parts of them being executable code, along with the option to plot/visualize/reuse the results. We will continue reinventing how we interface with technology and information - static plain text is not the be-all end-all.
+
+> "In 2021, Nature named [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) as one of ten computing projects that transformed science." - [Project Jupyter, Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter#:~:text=In%202021%2C%20Nature%20named%20Jupyter%20as%20one%20of%20ten%20computing%20projects%20that%20transformed%20science.)
+
+But why would we do that? What other benefits are there?
+
+1. We could **render** our thoughts into different mediums: text, audio & video through the use of LLMs & generative AI - expanding the accessibility of our thoughts beyond those that can view thought-graphs. A graph has many ways to be traversed so we could pick the best version that the AI has generated. We could also specify a node path (which nodes/subgraphs and in what order) for the serialization into text and also paragraphs to be inserted at specific points (perhaps you want to write the introduction or conclusion yourself). We could also have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more or less emphasis. We could have movie-maker-like software with a timeline where we orchestrate the traversal.
+
+1. What about **editing**? Refactoring & "rewriting" will be just a matter of moving & reconnecting nodes & subgraphs, followed by a re-render of the outputs by the AI. A declarative workflow.
+
+1. What if we could **debug / fact-check** the logic in the circuits of thought-graph? Choose onthologies & fact databases and evaluate the connections of your graph for logical consistency.
+
+1. We could **pattern-match** our thought-graph with others 
+
+We’d be able to query where else specific facts (semantic triples) are mentioned
+we could pattern-match our thoughts as subgraphs
+We could compute the similarity of views if they were in such graph forms
+we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
+
+1. **Discoverability** - the better you annotate your thought-graph with well-known & widely used semantic web concepts & ontologies - the easier it will be to discover your content. People don't put #hashtags without a good reason (even though they are extremely limited).
+
+1. The [NYT](https://www.nytimes.com/) & [FT](https://www.ft.com/) have their own proprietary knowledge graphs but they publish simply text. **Analysis** of journalism is at the level of word use frequency throughout time. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked.
+
+    > "It's clearly visible in [@DavidRozado](https://twitter.com/DavidRozado)'s word frequency graphs. They change a lot faster than usage. Injustice, for example, was not invented in 2013." - [Paul Graham](https://twitter.com/paulg/status/1272593601932013568)
+
+    > "According to a new study by David Rozado, there has been a big increase in news headlines suggesting fear, anger, disgust, and sadness since 2000, and especially since about 2010. Journalists are pushing your buttons." - [Paul Graham](https://twitter.com/paulg/status/1583058588687212544)
+
+    > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
+
+1. Imagine being able to say "**view source**" of a text article and being shown the thought-graph that the author used to generate it. The serialized output could also have an automatically generated mapping so that we can see which regions correspond to which nodes & links of the thought-graph with some highlighting and we could have both displayed side by side for synchronized "playback".
+
+- 
+
+If the tools exist - we might demand that publications also annotate their text as graphs (or we could do it ourselves) so that we can process/compare it
+- If no thought-graph exists for an article - someone could construct it and tag it to the original resource - making it discoverable for anyone to use.
+
+1. We could even generate reports for the changes of a thought-graph throughout time.
+
+
+
+
+
+
+
+
+
+
+One reason we haven't been doing this is because until now we didn't have LLMs & AI.
+
+
+
+
+
+the next version of tweets will be small graphs, accompanied by representations in a few media forms for different consumption options
+
+
+
+
+
+
+
+
+
+
+
+
+
+== STABILITY OF DOCUMENTS
+
+- someone can make an overlay that annotates our reasoning even if we didn't make a graph
+
+what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
+
+
+
+
+
+
+
+
+all journalism suffers from
+- gelman amnesia   https://theportal.wiki/wiki/The_Gell-Mann_Amnesia_Effect
+- cherry picking - reality is a lot more complex
+- framing / frame control & russell conjugation - what is vs how to feel about what is - this should be an anti signal
+We should be less reliant on narratives and more on data
+
+
+
+
+
+
+
+
+
+
+██████████████████████████████████████████████████████████████████████████████
+# Second brain
+██████████████████████████████████████████████████████████████████████████████
+
+this is relevant to the above section
 
 ██████████████████████████████████████████████████████████████████████████████
 # Query for anything related to something

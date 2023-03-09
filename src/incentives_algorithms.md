@@ -27,7 +27,23 @@ Notifications from social networks are hideously engineered to get you to get ba
 
 The internet is rife with (deliberate) misinformation
 
+
+
+Why did YouTube decide that it should recommend a street fight video? In my SEARCH RESULTS?
+https://prnt.sc/jhYhM8HADvoC
+
+
+
 there's a sociological asymmetry of power - those that produce data and those that have access to it
+
+
+
+we have become much more visible to centralized institutions, corporations and governments, that can afford excellent data scientists and have easy programatic access to the data, but without this being reciprocal
+Our behavior is not predictable, but we can't predict the behavior of institutions
+Silicon Valley Was Wrong: The Internet Centralized Society
+https://www.youtube.com/watch?v=YtRfmao1vvs
+
+
 
 current social media has a choice architecture in the UI that's misaligned with users - they're solely optimizing for engagement & time spent - the goals of people
 
