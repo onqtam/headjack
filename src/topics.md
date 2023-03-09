@@ -28,6 +28,8 @@ Example: github stars - what if anyone could develop filters for the stars of pe
 
 UIs should be drag/drop composable & layoutable - in the superapp
 
+Elon Musk's vision for the X app pales in comparison to the potential of the superapp
+
 think of the the superapp as a browser
 
 what if your home page was like a desktop?

@@ -16,13 +16,9 @@ provenance graphs - imagine being able to check if any of the inputs of a story 
 
 > "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity." - [AVC](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
 
-balaji on cryptography & how the state should use it - relevant to the web of trust idea
-https://twitter.com/balajis/status/1596412557127954433
+> "People generally only see the words emitted by a politician or corporation. They can't really see the actions. Voting records & balance sheets are currently less legible, less visible, less verifiable, than tweets. Cryptography could fix this..." - [@balajis](https://twitter.com/balajis/status/1596412557127954433)
 
 apps should be able to show you all references to a document - perhaps they might show specific UIs for those that are supported and all others should be in the "other" list without visualization
-
-on-chain nouns with IDs so that no one person controls the set and DA is guaranteed? what if a quorum of validators/tokenholders is required for the approval of a noun set? what if only the keys of the nouns are on-chain, but for big values only the hash can be stored on-chain? but the key is still stable for joins?
-Message types should be on-chain nouns
 
 deepfake Lexman Artificial & Eric Weinstein
 https://twitter.com/lexman_ai/status/1615861599197171713
@@ -30,25 +26,30 @@ https://twitter.com/lexman_ai/status/1615861599197171713
 we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
 ██████████████████████████████████████████████████████████████████████████████
+# Problems with language
+██████████████████████████████████████████████████████████████████████████████
+
+Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. We are drowning in language, which is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process & aggregate unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
+
+> "Speech as proof of work is dead." - [Gordon Brander](https://twitter.com/gordonbrander/status/1622999277411741698)
+
+When all you have is language, it becomes the hammer and every problem is a nail. Furthermore:
+
+> "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
+
+██████████████████████████████████████████████████████████████████████████████
+# The need for structured data
+# Raising the signal/noise ratio
 # Structured data & improving the signal/noise ratio
 ██████████████████████████████████████████████████████████████████████████████
 
-nature has removed every unnecessary bit when it comes to exchange of information - and so should we.
-
-information theory very well could be as important as or even fundamental to matter & the laws of physics and they are tightly interwoven - we should keep that as a perspective - as to why we should strive to optimize it
+Information theory could be as important as or even fundamental to matter & the laws of physics - they are tightly interwoven. Nature strives to remove every unnecessary bit when it comes to exchange of information - and so should we.
 
 
-unlike text, structured data is easily aggregatable for the purpose of visualization through graphs & charts which makes it easily comprehensible
 
+Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions should have been codified with structured data & logged in a time-series.
 
-spamgularity
-https://twitter.com/DanielleFong/status/1622315719298883584
-
-signal/noise ratio - language is unbelievably complex and it compacts so much implied and assumed meaning and expressions of truth
-
-signal/noise reduction & structured data
-less language ==> less need for translation & localization
-
+Twitter "extensions" utilize text tweets and clutter the user experience
 new message types!
 extensions to twitter shouldn't clutter the comments like this:
 @threadreaderapp unroll
@@ -57,80 +58,39 @@ extensions to twitter shouldn't clutter the comments like this:
 @SaveToNotion
 https://twitter.com/MaficoNFT/status/1591510117094428678
 
+
+
 REACTION with a comment/note - still structured data, but with added expressiveness
 
-Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions should have been codified with structured data & logged in a time-series.
-
-the hammer is language and unfortunately every problem is a nail
-
-hashtags should be separated from the text
-
-Moving the vast majority of online activity to structured data and reducing the text reduces the load for content moderation
-Also there's less room for emotive/russel conjugation & other such emotionally manipulative language & pre/re-framing https://en.wikipedia.org/wiki/Emotive_conjugation
-
-Mission: raise the signal/noise ratio
+hashtags can/should be separated from the text
 
 We need more than the current one size fits all model
 Importance/severity threshold/levels?
 
+Upsides in moving from language to structured data:
+
+== If we moved the vast majority of online acitivity to structured data away from language we'd get:
+
+- less need for translation & localization
+- less need for content moderation
+- less emotionally manipulative language & framing such as the [Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation)
+- less need to think of the right words - reducing friction in expression
+
+
+
+unlike text, structured data is easily aggregatable for the purpose of visualization through graphs & charts which makes it easily comprehensible
+
 we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
 
-digital media is not supposed to be unstructured
+Structured data should be incentivized
 
-Structured data should be incentivized - we’re drowning in text audio and video
 
-we can use AI to generate podcast-like conversations that cover the digital interactions of structured data
 
-currently we channel our energy in a useless way - the best we can do is get a hashtag trending. But with this system every type of interaction would count
 
-using structured data circumvents the need to think about the right words - it reduces friction in expression - streamlined expression as a chapter?
-
-Steve bannon is famous for saying to flood the zone with shit - lets drain the swamp
-
-"Speech as proof of work is dead."
-https://twitter.com/gordonbrander/status/1622999277411741698
-
-what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?
-
-so much expressed opinions & views are left unanalyzed & unaggregated because they're in text - they have an ephemeral impact for a moment and then fade
-
-by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data
-
-reducing information entropy - the level of surprise
-but aren't we actually reducing the ambiguity?
-bringing order
-reducing the symbol space
-
-reducing the vocabulary of common knowledge
-
-> "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
-
-██████████████████████████████████████████████████████████████████████████████
-# Query for anything related to something
-# Anything that's relevant
-# Everything that's relevant
-# Anything relevant to something
-# Free-form associations: anything-to-anything
-██████████████████████████████████████████████████████████████████████████████
-
-`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI.
-
-- **Example 1:** Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the [scammers & bots](https://prnt.sc/ORguwjXfLgLR) and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there (and is most likely fractured across different platforms/subreddits). The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
-
-- **Example 2:** What if we could provide alternative titles for content and crowdsource the ones which most accurately describe it - countering the clickbait? Users could choose to view the original titles or the crowdsourced versions if there's consensus for a specific title to be way better than the original. This is already happening in StackOverflow - titles of other people's posts can be edited by moderators (or anyone?) with the goal of improving accuracy. What constitutes "better" and which/how votes are counted can be configurable too. But wouldn't content creators object?! Sure, but what are they going to do? But data can be composed in any way imaginable in the Giant Global Graph. This is like taking the best comment about what a post/video should be titled and through something like a browser extension programatically using that instead of the original in the UI - you can't stop that. We could even calculate clickbait scores for content creators - I bet many would have more than 90% of their content re-titled according to some criteria. We could even feed such scores into recommendation algorithms - **disincentivizing clickbait**.
-
-- **Example 3:** The perpetual AMA (Ask Me Anything) - currently only a small handful of people have done [AMAs in Reddit](https://www.reddit.com/r/AMA) that last only up to a few days with an extremely limiting interface in a sporadic/random fashion. What if every account had an implicit AMA associated with them (something like [ask.fm](https://ask.fm) but a lot more powerful) and we could ask any leader/CEO/celebrity & hyper agent questions with special message types and link them to their accounts? We could collectively surface the most pressing ones and make it glaringly obvious if the important ones aren't answered or if the answer is of poor quality - through different dashboards/charts & sorting/filtering. We could hold them to higher standards & more scrutiny. What if we could pressure companies & CEOs about the use of Cobalt from African mines with slave labor? Doing a poll on [change.org](https://change.org) is extremely ineffectual, but if something like it was integrated with a new more expressive type of social media for virality - it could have drastically different results. It is easy to ingore some obscure app but not when everything is built on top of the same interconnected identity & data network.
-
-- **Example 4:** Reactions that relate to a piece of content. Let's take the [`"Jillian Michaels: Don't believe the keto diet hype | Big Think"`](https://www.youtube.com/watch?v=LOPOcBVzm7s) video for example. How do we determine if what's in there true? All we have is a comment section and a sidebar with algorithmic recommendations. Turns out there are [a number of reactions](https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction) but they're not shown next to the video in any way - how would we know about their existence if we didn't explicitly search for them? The goal is not to be exposed to multiple points of view & reach some conclusion - it's only engagement. The videos are not interlinked, but suppose they were - we could have a list of reactions displayed along with scores of disagreement and other factors and we could more easily discern which one to watch next.
-<!-- The way to expose the complete failure & corruption of the FDA & their misguided policies is through a bottom-up crowdsourced effort enabled by the Internet and further enabled by linked data, identities & reputation. -->
-
-- **Example 5:** 
-Take the YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. This is essentially a fork - one that is better than the original. Why can't we see a crowdsourced redirection suggestion attached to the original?
-
-A unified identity layer, the ability to deduplicate content, to annotate semantically & the move to structured data greatly helps with being able to pull everything related to something. However, one concern is negative reputation & "scarlet letters" - the ability to taint an entity and have the bad reputation follow it without the ability to hide it. But we can develop tools, norms & criteria to evaluate/rank/filter any document & reaction that relates to something. Moreover, even if there isn't a direct data connection between 2 entities (one referring to the other), as long as they are both public someone could index them and make that link. This problem already exists today.
 
 ██████████████████████████████████████████████████████████████████████████████
 # Graph data as the source
+# Structured data as the source
 ██████████████████████████████████████████████████████████████████████████████
 
 AI classification isn’t scalable enough and can be ambiguous
@@ -183,6 +143,52 @@ We should be less reliant on narratives and more on data
 
 
 what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
+
+
+
+
+we can use AI to generate podcast-like conversations that cover the digital interactions of structured data
+
+currently we channel our energy in a useless way - the best we can do is get a hashtag trending. But with this system every type of interaction would count
+
+
+
+what if we enable communication through structured data and formal methods on top of it? What if we enable anyone to build any kind of sophisticated tool for formal modeling of the world around us?
+
+so much expressed opinions & views are left unanalyzed & unaggregated because they're in text - they have an ephemeral impact for a moment and then fade
+
+by increasing the amount of structured data we'd lower the amount of text that has to be checked for the rules - such as incitement of violence. Many freeform posts can be replaced by structured data
+
+reducing information entropy - the level of surprise
+but aren't we actually reducing the ambiguity?
+bringing order
+reducing the symbol space
+
+reducing the vocabulary of common knowledge
+
+██████████████████████████████████████████████████████████████████████████████
+# Query for anything related to something
+# Anything that's relevant
+# Everything that's relevant
+# Anything relevant to something
+# Free-form associations: anything-to-anything
+██████████████████████████████████████████████████████████████████████████████
+
+`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI.
+
+- **Example 1:** Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the [scammers & bots](https://prnt.sc/ORguwjXfLgLR) and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there (and is most likely fractured across different platforms/subreddits). The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
+
+- **Example 2:** What if we could provide alternative titles for content and crowdsource the ones which most accurately describe it - countering the clickbait? Users could choose to view the original titles or the crowdsourced versions if there's consensus for a specific title to be way better than the original. This is already happening in StackOverflow - titles of other people's posts can be edited by moderators (or anyone?) with the goal of improving accuracy. What constitutes "better" and which/how votes are counted can be configurable too. But wouldn't content creators object?! Sure, but what are they going to do? But data can be composed in any way imaginable in the Giant Global Graph. This is like taking the best comment about what a post/video should be titled and through something like a browser extension programatically using that instead of the original in the UI - you can't stop that. We could even calculate clickbait scores for content creators - I bet many would have more than 90% of their content re-titled according to some criteria. We could even feed such scores into recommendation algorithms - **disincentivizing clickbait**.
+
+- **Example 3:** The perpetual AMA (Ask Me Anything) - currently only a small handful of people have done [AMAs in Reddit](https://www.reddit.com/r/AMA) that last only up to a few days with an extremely limiting interface in a sporadic/random fashion. What if every account had an implicit AMA associated with them (something like [ask.fm](https://ask.fm) but a lot more powerful) and we could ask any leader/CEO/celebrity & hyper agent questions with special message types and link them to their accounts? We could collectively surface the most pressing ones and make it glaringly obvious if the important ones aren't answered or if the answer is of poor quality - through different dashboards/charts & sorting/filtering. We could hold them to higher standards & more scrutiny. What if we could pressure companies & CEOs about the use of Cobalt from African mines with slave labor? Doing a poll on [change.org](https://change.org) is extremely ineffectual, but if something like it was integrated with a new more expressive type of social media for virality - it could have drastically different results. It is easy to ingore some obscure app but not when everything is built on top of the same interconnected identity & data network.
+
+- **Example 4:** Reactions that relate to a piece of content. Let's take the [`"Jillian Michaels: Don't believe the keto diet hype | Big Think"`](https://www.youtube.com/watch?v=LOPOcBVzm7s) video for example. How do we determine if what's in there true? All we have is a comment section and a sidebar with algorithmic recommendations. Turns out there are [a number of reactions](https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction) but they're not shown next to the video in any way - how would we know about their existence if we didn't explicitly search for them? The goal is not to be exposed to multiple points of view & reach some conclusion - it's only engagement. The videos are not interlinked, but suppose they were - we could have a list of reactions displayed along with scores of disagreement and other factors and we could more easily discern which one to watch next.
+<!-- The way to expose the complete failure & corruption of the FDA & their misguided policies is through a bottom-up crowdsourced effort enabled by the Internet and further enabled by linked data, identities & reputation. -->
+
+- **Example 5:** 
+Take the YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. This is essentially a fork - one that is better than the original. Why can't we see a crowdsourced redirection suggestion attached to the original?
+
+A unified identity layer, the ability to deduplicate content, to annotate semantically & the move to structured data greatly helps with being able to pull everything related to something. However, one concern is negative reputation & "scarlet letters" - the ability to taint an entity and have the bad reputation follow it without the ability to hide it. But we can develop tools, norms & criteria to evaluate/rank/filter any document & reaction that relates to something. Moreover, even if there isn't a direct data connection between 2 entities (one referring to the other), as long as they are both public someone could index them and make that link. This problem already exists today.
 
 ██████████████████████████████████████████████████████████████████████████████
 # second brain
