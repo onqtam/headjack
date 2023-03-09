@@ -122,16 +122,13 @@ But why would we do that? What other benefits are there?
 
 1. We could **render** our thoughts into different mediums: text, audio & video through the use of LLMs & generative AI - expanding the accessibility of our thoughts beyond those that can view thought-graphs. A graph has many ways to be traversed so we could pick the best version that the AI has generated. We could also specify a node path (which nodes/subgraphs and in what order) for the serialization into text and also paragraphs to be inserted at specific points (perhaps you want to write the introduction or conclusion yourself). We could also have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more or less emphasis. We could have movie-maker-like software with a timeline where we orchestrate the traversal.
 
+1. Imagine being able to say "**view source**" of a text article and being shown the thought-graph that the author used to generate it. The serialized output could also have an automatically generated mapping so that we can see which regions correspond to which nodes & links with some highlighting and we could have both displayed side by side for synchronized "playback".
+
 1. What about **editing**? Refactoring & "rewriting" will be just a matter of moving & reconnecting nodes & subgraphs, followed by a re-render of the outputs by the AI. A declarative workflow.
 
-1. What if we could **debug / fact-check** the logic in the circuits of thought-graph? Choose onthologies & fact databases and evaluate the connections of your graph for logical consistency.
+1. We could **debug / fact-check** the logic in the circuits of thought-graphs. Choose ontologies & fact databases and evaluate the connections of a graph for logical consistency.
 
-1. We could **pattern-match** our thought-graph with others 
-
-We’d be able to query where else specific facts (semantic triples) are mentioned
-we could pattern-match our thoughts as subgraphs
-We could compute the similarity of views if they were in such graph forms
-we should be able to use AI to determine the level of plagiarism between online posts and reduce the noise
+1. We could **pattern-match** our thought-graphs with others and we could compute the similarity of (sub)graphs and track the provenance & plagiarism of ideas.
 
 1. **Discoverability** - the better you annotate your thought-graph with well-known & widely used semantic web concepts & ontologies - the easier it will be to discover your content. People don't put #hashtags without a good reason (even though they are extremely limited).
 
@@ -142,8 +139,6 @@ we should be able to use AI to determine the level of plagiarism between online 
     > "According to a new study by David Rozado, there has been a big increase in news headlines suggesting fear, anger, disgust, and sadness since 2000, and especially since about 2010. Journalists are pushing your buttons." - [Paul Graham](https://twitter.com/paulg/status/1583058588687212544)
 
     > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
-
-1. Imagine being able to say "**view source**" of a text article and being shown the thought-graph that the author used to generate it. The serialized output could also have an automatically generated mapping so that we can see which regions correspond to which nodes & links of the thought-graph with some highlighting and we could have both displayed side by side for synchronized "playback".
 
 - 
 
@@ -365,7 +360,7 @@ the internet is unstructured
 linked knowledge database
 libraries & debate maps
 libraries - concepts can be linked to different multimedia expressions - resources that describe it
-debate maps are the onthological structure of the debate - aimed at deliberation
+debate maps are the ontological structure of the debate - aimed at deliberation
 
 what if wikipedia-like "pages" were sitting on top of debate maps, highlighting an editorialized take and perhaps generated/summarized by an LLM? And what if people could choose the editorialization?
 
