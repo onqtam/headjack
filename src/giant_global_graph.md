@@ -48,14 +48,14 @@ https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
 web 3.0 is a graph of identities & events in the cloud - beyond the confines of the host-centric web
 web 3.0 is the original idea of the semantic web - the original web 3.0
 
-onthology/taxonomy vs the knowledge graph
+ontology/taxonomy vs the knowledge graph
 https://www.youtube.com/watch?v=7rn3P-RlN3s
 
 
 
 accounts have their own concept/noun space with identifiers from 1 and upwards
-others can define onthologies that use those concepts
-others can make equivalence maps between onthologies & concepts
+others can define ontologies that use those concepts
+others can make equivalence maps between ontologies & concepts
 
 Social media 1.0 is a capitalistic artifact of gradient descent. Social media 2.0 is the Metaverse where data has no boundries
 
