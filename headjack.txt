@@ -42,6 +42,10 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
 We could engineer the dopamine of this informational global brain.
+pagerank for people
+TODO: read the twitter community notes whitepaper
+
+
 
 The limiting factor: data processing
 
@@ -248,11 +252,6 @@ imagine being able to select a subset of all accounts worldwide and train a GPT 
 
 
 
-
-
-
-spam
-https://prnt.sc/ORguwjXfLgLR
 
 
 
