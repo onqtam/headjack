@@ -91,6 +91,7 @@ reducing the vocabulary of common knowledge
 ██████████████████████████████████████████████████████████████████████████████
 # The long-form media source: thought-graphs
 # Thought-graphs: the long-form media source
+# Thought-graphs: the source of long-form
 # Thought-graphs: an upgrade to linguistics
 ██████████████████████████████████████████████████████████████████████████████
 
@@ -106,27 +107,27 @@ What if we expressed our thoughts as directed graphs of ideas, entities & concep
 
 > "If you’re thinking without writing, you only think you’re thinking." - [Leslie Lamport](https://fs.blog/how-to-think/#:~:text=%E2%80%9CIf%20you%E2%80%99re%20thinking,%E2%80%94%20Leslie%20Lamport)
 
-Writing text forces us to think, but graph construction & exploration would make our thinking more precise and our understanding deeper - we can augment our linguistics. Mind Maps are superior when it comes to comprehension and retention of information because they organize information spatially & hierarchically - engaging our brains visually. The source should always be a graph because our minds represent knowledge & ideas as graphs - even though we communicate serially.
+Writing text forces us to think, but graph construction & exploration would make our thinking more precise and our understanding deeper. Mind Maps are superior when it comes to comprehension and retention of information because they organize it spatially & hierarchically - engaging our brains visually. The source should always be a graph because our that's how our minds represent knowledge & ideas - even though we communicate serially.
 
 Let's take the [`"Why I think there's a one-in-six chance of an imminent global nuclear war (October 2022)"`](https://www.lesswrong.com/posts/Dod9AWz8Rp4Svdpof/why-i-think-there-s-a-one-in-six-chance-of-an-imminent) post by Max Tegmark for example and <u>**ignore if we agree with him or not**</u>.
 
+<a href="https://www.lesswrong.com/posts/Dod9AWz8Rp4Svdpof/why-i-think-there-s-a-one-in-six-chance-of-an-imminent">
 <img src="images/Why_I_think_there's_a_one-in-six_chance_of_an_imminent_global_nuclear_war.jpeg">
+</a>
 
-His thesis is effectively a state machine, which he goes on to explain in greater detail with text. But his tool to make that graph was probably for simple diagrams - incomparable in terms of capabilities to what we're envisioning here. Graph-first thinking is simply not how we think & communicate (yet).
+His thesis is effectively a [Markov chain](https://en.wikipedia.org/wiki/Markov_chain), which he goes on to explain in greater detail with text. But his tool to make that graph was probably for simple diagrams - incomparable in terms of capabilities to what we're envisioning here. Graph-first thinking is simply not how we think & communicate (yet).
 
-But could such a change happen? A good example are [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) notebooks whose documents are interactive with parts of them being executable code, along with the option to plot/visualize/reuse the results. We will continue reinventing how we interface with technology and information - static plain text is not the be-all end-all.
+But why would we do that? What are the benefits?
 
-> "In 2021, Nature named [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) as one of ten computing projects that transformed science." - [Project Jupyter, Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter#:~:text=In%202021%2C%20Nature%20named%20Jupyter%20as%20one%20of%20ten%20computing%20projects%20that%20transformed%20science.)
-
-But why would we do that? What other benefits are there?
-
-1. We could **render** our thoughts into different mediums: text, audio & video through the use of LLMs & generative AI - expanding the accessibility of our thoughts beyond those that can view thought-graphs. A graph has many ways to be traversed so we could pick the best version that the AI has generated. We could also specify a node path (which nodes/subgraphs and in what order) for the serialization into text and also paragraphs to be inserted at specific points (perhaps you want to write the introduction or conclusion yourself). We could also have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal importance to them so that the AI adds more or less emphasis. We could have movie-maker-like software with a timeline where we orchestrate the traversal.
+1. We could **render** our thoughts into different mediums: text, audio & video through the use of LLMs & generative AI - expanding the accessibility of our work beyond those that can view thought-graphs. A graph has many ways to be traversed so we can ask the AI to generate multiple versions. We could also specify a node path (which nodes/subgraphs and in what order) for the serialization into text and also paragraphs to be inserted at specific points (perhaps you want to write the introduction or conclusion yourself). We could also have fine-grained control such as annotating specific nodes to be skipped from the serialization or to signal their importance so that the AI adds more or less emphasis. We could have movie-maker-like software with a timeline where we orchestrate the traversal. This wasn't possible until the recent advancements of LLMs & AI.
 
 1. Imagine being able to say "**view source**" of a text article and being shown the thought-graph that the author used to generate it. The serialized output could also have an automatically generated mapping so that we can see which regions correspond to which nodes & links with some highlighting and we could have both displayed side by side for synchronized "playback".
 
-1. What about **editing**? Refactoring & "rewriting" will be just a matter of moving & reconnecting nodes & subgraphs, followed by a re-render of the outputs by the AI. A declarative workflow.
+1. What about **editing**? Refactoring & "rewriting" will be just a matter of moving & reconnecting nodes & subgraphs, followed by a re-render of the outputs by the AI.
 
-1. We could **debug / fact-check** the logic in the circuits of thought-graphs. Choose ontologies & fact databases and evaluate the connections of a graph for logical consistency.
+1. We could generate **change reports** & summaries for a thought-graph throughout time.
+
+1. We could **debug / fact-check** the logic in the circuits of thought-graphs. Choose ontologies & fact databases and evaluate the connections of a graph for logical consistency against them.
 
 1. We could **pattern-match** our thought-graphs with others and we could compute the similarity of (sub)graphs and track the provenance & plagiarism of ideas.
 
@@ -140,69 +141,13 @@ But why would we do that? What other benefits are there?
 
     > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
 
-- 
+    Journalism goes hand in hand with frame control ([Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. We can rely less on narratives and more on data. What if we could fork & edit thought-graphs to remove bias?
 
-If the tools exist - we might demand that publications also annotate their text as graphs (or we could do it ourselves) so that we can process/compare it
-- If no thought-graph exists for an article - someone could construct it and tag it to the original resource - making it discoverable for anyone to use.
+1. If no thought-graph exists for an article - anyone could construct it and tag it to the original resource - making it discoverable for anyone to use. <!-- TODO:LINK TO THE OTHER SECTION -->
 
-1. We could even generate reports for the changes of a thought-graph throughout time.
+But could such a change happen? A good example are [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) notebooks whose documents are interactive with parts of them being executable code, along with the option to plot/visualize/reuse the results of that code. We will continue reinventing how we interface with technology and information - static plain text is not the be-all end-all.
 
-
-
-
-
-
-
-
-
-
-One reason we haven't been doing this is because until now we didn't have LLMs & AI.
-
-
-
-
-
-the next version of tweets will be small graphs, accompanied by representations in a few media forms for different consumption options
-
-
-
-
-
-
-
-
-
-
-
-
-
-== STABILITY OF DOCUMENTS
-
-- someone can make an overlay that annotates our reasoning even if we didn't make a graph
-
-what if we could annotate what's being said in text/video with semantic triplets and then being able to check those facts/assumptions against another database or set of facts by our choosing?
-
-
-
-
-
-
-
-
-all journalism suffers from
-- gelman amnesia   https://theportal.wiki/wiki/The_Gell-Mann_Amnesia_Effect
-- cherry picking - reality is a lot more complex
-- framing / frame control & russell conjugation - what is vs how to feel about what is - this should be an anti signal
-We should be less reliant on narratives and more on data
-
-
-
-
-
-
-
-
-
+> "In 2021, Nature named [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) as one of ten computing projects that transformed science." - [Project Jupyter, Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter#:~:text=In%202021%2C%20Nature%20named%20Jupyter%20as%20one%20of%20ten%20computing%20projects%20that%20transformed%20science.)
 
 ██████████████████████████████████████████████████████████████████████████████
 # Second brain
