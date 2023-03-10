@@ -33,7 +33,7 @@ Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.
 
 > "Speech as proof of work is dead." - [Gordon Brander](https://twitter.com/gordonbrander/status/1622999277411741698)
 
-The one-size-fits-all model: when all you have is language, it becomes the hammer and every problem is a nail. Furthermore:
+When all you have is language, it becomes the hammer and everything else a nail. Furthermore:
 
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
 
@@ -149,6 +149,9 @@ But why would we do that? What are the benefits?
 But could such a change happen? A good example are [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) notebooks whose documents are interactive with parts of them being executable code, along with the option to plot/visualize/reuse the results of that code. We will continue reinventing how we interface with technology and information - static plain text is not the be-all end-all.
 
 > "In 2021, Nature named [Jupyter](https://en.wikipedia.org/wiki/Project_Jupyter) as one of ten computing projects that transformed science." - [Project Jupyter, Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter#:~:text=In%202021%2C%20Nature%20named%20Jupyter%20as%20one%20of%20ten%20computing%20projects%20that%20transformed%20science.)
+
+<!-- imagine laying out the case for banning TikTok as a thought-graph or a debate map
+TODO: debate map section here? -->
 
 ██████████████████████████████████████████████████████████████████████████████
 # Second brain
@@ -300,8 +303,7 @@ We need to deduplicate & reduce the amount of unique joinable keys for nouns, co
 
 joinability
 
-stability of identifiers is crucial for relational databases.
-The relational model is built on the premise of stable identifiers.
+The relational model is built on the premise of stable identifiers as foreign keys.
 
 key stability ==> information deduplication & integration
 
@@ -317,10 +319,6 @@ debate maps are the ontological structure of the debate - aimed at deliberation
 
 what if wikipedia-like "pages" were sitting on top of debate maps, highlighting an editorialized take and perhaps generated/summarized by an LLM? And what if people could choose the editorialization?
 
-knowledge graph
-
-this needs to be intertwined with social media, identity & follow graphs
-
 giant global graph
 https://en.wikipedia.org/wiki/Giant_Global_Graph
 a massively multiplayer interlinked knowledge database
@@ -328,9 +326,6 @@ a massively multiplayer interlinked knowledge database
 machine-understandable knowledge representations
 subject-predicate-object triplets in the semantic web
 these are just like subject-verb-object of the human natural language - there's an equivalence
-
-being able to vote/react multiple times on a URI - with different scopes. Suppose you want to upvote a resource in one context but downvote it in another context - contextual reactions - within a domain !!!
-context could be application/tag/campaign
 
 sensemaking is about creating maps
 
@@ -384,17 +379,6 @@ https://en.wikipedia.org/wiki/Vannevar_Bush#:~:text=wholly%20new%20forms%20of%20
 
 
 
-
-
-
-
-
-
-
-
-
-
-imagine modelling the case around TikTok as a graph/tree
 
 This is what connecting people looks like - facebook isnt even scratching the surface
 

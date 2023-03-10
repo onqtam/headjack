@@ -310,8 +310,6 @@ we can crowdsource improvement proposals for any topic - for example feature req
 
 
 
-“The need for structure”
-
 "fork anything"
 
 "your personal space"
@@ -930,9 +928,6 @@ TODO: try this service to read the text out loud?
 https://beta.elevenlabs.io/
 
 
-IDMs could be responsible for producing "streams" of the user activity - by simply referencing all activity from other applications (applications either need to notify the IDMs or IDMs need to monitor everything - for private data they probably need to be explicitly notified?)
-
-
 
 can produce ZKPs for off-chain counts & aggregates and submit those to transactional settlement layers as smart contract inputs
 
@@ -949,13 +944,20 @@ when ingesting data, infrastructure can map the "appId/nonce" pair to "block_hei
 
 
 
-Why NFTs are overhyped - but VCs and attestations are not
+NFTs are overhyped - but VCs and attestations are not
 
 
 Meme: fork in the road: host-centric status quo vs SSI and content addressing
 
 
 make a mission section with a bunch of mission statements - that all come together in a whole
+
+
+being able to vote/react multiple times on a URI - with different scopes. Suppose you want to upvote a resource in one context but downvote it in another context - contextual reactions - within a domain/context !!!
+context could be application/tag/campaign/post/etc.
+
+
+move from @handle to full names in citations
 
 
 
