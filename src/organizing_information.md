@@ -10,7 +10,7 @@
 ██████████████████████████████████████████████████████████████████████████████
 
 https://en.wikipedia.org/wiki/Data_lineage
-> "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
+> "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From - The Consilience Project](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
 
 provenance graphs - imagine being able to check if any of the inputs of a story has been influenced by a specific source
 
@@ -26,10 +26,10 @@ https://twitter.com/lexman_ai/status/1615861599197171713
 we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
 ██████████████████████████████████████████████████████████████████████████████
-# Problems with language
+# We are drowning in language
 ██████████████████████████████████████████████████████████████████████████████
 
-Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. We are drowning in language, which is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process, aggregate & classify unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
+Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. Language is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process, aggregate & classify unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
 
 > "Speech as proof of work is dead." - [Gordon Brander](https://twitter.com/gordonbrander/status/1622999277411741698)
 
@@ -38,10 +38,10 @@ When all you have is language, it becomes the hammer and everything else a nail.
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
 
 ██████████████████████████████████████████████████████████████████████████████
-# The need for structured data
+<!-- # The need for structured data -->
 # Structured data & machine readability
-# Raising the signal/noise ratio
-# Structured data & improving the signal/noise ratio
+<!-- # Raising the signal/noise ratio -->
+<!-- # Structured data & improving the signal/noise ratio -->
 ██████████████████████████████████████████████████████████████████████████████
 
 Information theory could be as important as or even fundamental to matter & the laws of physics - they are tightly interwoven. Nature strives to remove unnecessary bits when it comes to exchange of information - and so should we.
@@ -90,10 +90,10 @@ reducing the vocabulary of common knowledge
 
 
 ██████████████████████████████████████████████████████████████████████████████
-# The long-form media source: thought-graphs
-# Thought-graphs: the long-form media source
+<!-- # The long-form media source: thought-graphs -->
+<!-- # Thought-graphs: the long-form media source -->
 # Thought-graphs: the source of long-form
-# Thought-graphs: an upgrade to linguistics
+<!-- # Thought-graphs: an upgrade to linguistics -->
 ██████████████████████████████████████████████████████████████████████████████
 
 <!-- What about complex thoughts? Again, language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
@@ -160,23 +160,15 @@ TODO: debate map section here? -->
 this is relevant to the above section
 
 ██████████████████████████████████████████████████████████████████████████████
-# Query for anything related to something
-# Anything that's relevant
-# Everything that's relevant
-# Anything relevant to something
-# Free-form associations: anything-to-anything
+<!-- # Query for anything related to something -->
+<!-- # Anything that's relevant -->
+<!-- # Everything that's relevant -->
+<!-- # Anything relevant to something -->
+<!-- # Free-form associations: anything-to-anything -->
+# Show everything related - "Pull that up Jamie"
 ██████████████████████████████████████████████████████████████████████████████
 
-the ability to be able to sever the connection between an action of yours X to criticisms of it has enabled corruption to bubble up
-
-["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
-
-when we're reading books, we should be able to check all feedback and activity around each reference - what has been crowdsourced. Imagine being able to colorize asserts that reference external sources based on a score showing if there's consensus this is true or there's a dispute. We can have a heatmap of the entire book/article to judge how trustworthy it is according to our criteria and which votes count
-
-
-
-
-`"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI. Examples:
+We should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI. Examples:
 
 1. Some YouTube videos have comments disabled. Why? Could be many reasons: **1)** perhaps they don't want to have their content associated with low quality comments, **2)** maybe they don't like the [scammers & bots](https://prnt.sc/ORguwjXfLgLR) and want to protect their audience, **3)** maybe they haven't fully thought this through, **4)** or maybe they are actively trying to hide something. But anything public can be discussed on other platforms (Reddit?) - all you've done is made it harder to find that discussion but it's still there (and is most likely fractured across different platforms/subreddits). The valid reasons (**1** and **2**) can be negated with better tooling for content moderation - both for active participants (tagging, annotating, voting) & the passive ones (simply consuming & filtering through the UI).
 
@@ -189,6 +181,17 @@ when we're reading books, we should be able to check all feedback and activity a
 1. Take the YouTube playlist [`"Journey into information theory | Computer Science | Khan Academy"`](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC9lvrBhVt4UUkhzpp3N5_x) for example. The videos are out of order, but someone has made another playlist [`"Journey into information theory (in order)"`](https://www.youtube.com/playlist?list=PLq2EDMGUqkHHjHLhp88RY-e5mN7uGMP75) that is fixed. This is essentially a fork - one that is better than the original. Why can't we see a crowdsourced redirection suggestion attached to the original?
 
 A unified identity layer, the ability to deduplicate content, to annotate semantically & the move to structured data greatly helps with being able to pull everything related to something. However, one concern is negative reputation & "scarlet letters" - the ability to taint an entity and have the bad reputation follow it without the ability to hide it. But we can develop tools, norms & criteria to evaluate/rank/filter any document & reaction that relates to something. Moreover, even if there isn't a direct data connection between 2 entities (one referring to the other), as long as they are both public someone could index them and make that link. This problem already exists today.
+
+
+
+<!--
+the ability to be able to sever the connection between an action of yours X to criticisms of it has enabled corruption to bubble up
+
+["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
+
+when we're reading books, we should be able to check all feedback and activity around each reference - what has been crowdsourced. Imagine being able to colorize asserts that reference external sources based on a score showing if there's consensus this is true or there's a dispute. We can have a heatmap of the entire book/article to judge how trustworthy it is according to our criteria and which votes count
+-->
+
 
 ██████████████████████████████████████████████████████████████████████████████
 # second brain
