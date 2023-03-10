@@ -92,7 +92,7 @@ reducing the vocabulary of common knowledge
 ██████████████████████████████████████████████████████████████████████████████
 <!-- # The long-form media source: thought-graphs -->
 <!-- # Thought-graphs: the long-form media source -->
-# Thought-graphs: the source of long-form
+# Thought-graphs as the source of long-form
 <!-- # Thought-graphs: an upgrade to linguistics -->
 ██████████████████████████████████████████████████████████████████████████████
 
