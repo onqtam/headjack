@@ -116,7 +116,7 @@ Let's take the [`"Why I think there's a one-in-six chance of an imminent global 
 <img src="images/Why_I_think_there's_a_one-in-six_chance_of_an_imminent_global_nuclear_war.jpeg">
 </a>
 
-His thesis is effectively a [Markov chain](https://en.wikipedia.org/wiki/Markov_chain), which he goes on to explain in greater detail with text. But his tool to make that graph was probably for simple diagrams - incomparable in terms of capabilities to what we're envisioning here. Graph-first thinking is simply not how we think & communicate (yet).
+His thesis is effectively a [Markov chain](https://en.wikipedia.org/wiki/Markov_chain), which he goes on to explain in greater detail with text. But his tool to make that graph was probably for simple diagrams - incomparable in terms of capabilities to what we're envisioning here. Graph-first thinking just isn't how we express & communicate (yet).
 
 But why would we do that? What are the benefits?
 
