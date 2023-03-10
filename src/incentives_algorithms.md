@@ -43,7 +43,13 @@ Our behavior is not predictable, but we can't predict the behavior of institutio
 Silicon Valley Was Wrong: The Internet Centralized Society
 https://www.youtube.com/watch?v=YtRfmao1vvs
 
+whoever has the data wins. What if everyone has access to the data? We'd get the best possible services, not the most extractive services.
 
+aggregators only innovate when they are threatened - we need an open ecosystem around identity to allow for evolution (mutation, heredity & selection)
+
+> "Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can." - [Jamie Zawinski](https://en.wikipedia.org/wiki/Jamie_Zawinski#:~:text=Every%20program%20attempts%20to%20expand%20until%20it%20can%20read%20mail.%20Those%20programs%20which%20cannot%20so%20expand%20are%20replaced%20by%20ones%20which%20can.)
+
+> "Apps that you "live in" all day have pressure to become everything and do everything." - [Jamie Zawinski](https://en.wikipedia.org/wiki/Jamie_Zawinski#:~:text=Apps%20that%20you%20%22live%20in%22%20all%20day%20have%20pressure%20to%20become%20everything%20and%20do%20everything.)
 
 current social media has a choice architecture in the UI that's misaligned with users - they're solely optimizing for engagement & time spent - the goals of people
 
@@ -55,6 +61,10 @@ open & shared knowledge graphs would unlock unimaginable services & insight - pa
 knowledge graphs bring context
 
 today's media is an attention hijacker - one that shows us what is salient to us, but not necessarily what's true
+
+
+misaligned incentives and the separation of IDMs from apps
+
 
 Social media is not about pictures of what we ate - its a global coordination substrate
 
@@ -70,6 +80,8 @@ We're the cattle and the platforms are our ranchers
 The media incentive alignment problem: what we're allowed to do with public data with no programmatic access to it
 "realigning incentives"
 By severing the connection between identity management and media we can better align the incentives of these systems - our IDMs would not be harvesting our attention and we could tune the addictiveness & notifications
+
+Headjack gives you the option to export your data away from any service which will lead to the best services
 
 the host-centric model allows for platforms to own our content, which leads to misaligned incentives:
 time spent: user disempowerment - everything is AI controlled & recommender systems all the way down - attention maximization

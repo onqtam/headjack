@@ -62,6 +62,7 @@
         https://twitter.com/dwr/status/1602021100426100736
 
     - figure out a plan to plug into existing SAML/OAuth/OpenID infrastructure for authentication and authorization
+        https://en.wikipedia.org/wiki/Federated_identity#Technologies
         https://en.wikipedia.org/wiki/OAuth
         https://twitter.com/docknetwork/status/1570034345649532931
         https://twitter.com/auth0

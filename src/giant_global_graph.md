@@ -111,3 +111,9 @@ concepts! not nouns
 https://en.wikipedia.org/wiki/Concept
 
 
+open graph protocol is an extremely simple ontology for semantic data
+The embedded facebook like button in external pages makes use of OGP and is the largest generator of RDF triplets out there. The more you've annotated the content - the easier it is for Facebook to make sense of the data.
+There's a difference from "they liked something on that page" from "they liked this specific shoe from a store sold by X"
+With OGP, only entities like Facebook and the website owner get the structured data - with Headjack such public actions could be available for anyone to use - we'd get a lot more innovation & experimentation in algorithms that make use of the public data
+
+The semantic web on top of extremely long & verbose host-centric URIs was bad

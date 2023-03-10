@@ -188,6 +188,26 @@ https://en.wikipedia.org/wiki/Contextual_integrity
 Ads themselves are not the root evil - it's the lack of choice & ability to exit in the current monopolistic world due to the benefits of vertical integration in the current host-centric paradigm
 
 
+
+Any service that makes more money naturally attracts more eyes and if its some kind of monopoly there's an incentive to crowdsource a competitor if changes are wanted
+
+headjack is not so much about open source (there's plenty of room for commercial players with proprietary software) - it's more about open design - the framework that all services would follow and interplay with each other
+
+it's not a high level of redundancy that is needed - it's a low enough barrier for entry for any component in the media pipeline to be filled by anyone should the need arise - opening up the competition
+
+there's no need for competitors - there's a need for an ecology of business within a stable framework of cooperation and competition, and if any one of them goes away a related one could fill that niche
+
+do a diagram with the flow of information through a few filters & layered indexes - show who is paying who and what is public and what is private and how this can support both ads & subscription models to varying degrees
+
+what if the whitepaper comes with an IDM specification or design such that it would be modular and the individual pieces could be described from the start so that people can jump in and work in parallel towards the same shared vision? This is the data and opinion portability network.
+
+pitch the VCs: this is not constructing a single thing and trying to own it as much as possible - this is a model for collaborative media building and since it's modular and there are plenty of slices for everyone we can simply fund the best teams and not have to compete for the sections that we aren't profficient in. There's no need to fear competition because its in the best interest of everyone to simply do the next chunk that could provide a composable service
+
+
+
+
+
+
 TODO: re-read
 https://www.thepullrequest.com/p/the-right-to-never-be-forgotten
 
