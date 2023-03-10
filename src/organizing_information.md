@@ -39,6 +39,7 @@ The one-size-fits-all model: when all you have is language, it becomes the hamme
 
 ██████████████████████████████████████████████████████████████████████████████
 # The need for structured data
+# Structured data & machine readability
 # Raising the signal/noise ratio
 # Structured data & improving the signal/noise ratio
 ██████████████████████████████████████████████████████████████████████████████
@@ -133,7 +134,7 @@ But why would we do that? What are the benefits?
 
 1. **Discoverability** - the better you annotate your thought-graph with well-known & widely used semantic web concepts & ontologies - the easier it will be to discover your content. People don't put #hashtags without a good reason (even though they are extremely limited).
 
-1. The [NYT](https://www.nytimes.com/) & [FT](https://www.ft.com/) have their own proprietary knowledge graphs but they publish simply text. **Analysis** of journalism is at the level of word use frequency throughout time. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked.
+1. The [NYT](https://www.nytimes.com/) & [FT](https://www.ft.com/) have their own proprietary knowledge graphs but they publish only plain text. **Analysis** of journalism is at the level of word use frequency throughout time.
 
     > "It's clearly visible in [@DavidRozado](https://twitter.com/DavidRozado)'s word frequency graphs. They change a lot faster than usage. Injustice, for example, was not invented in 2013." - [Paul Graham](https://twitter.com/paulg/status/1272593601932013568)
 
@@ -141,7 +142,7 @@ But why would we do that? What are the benefits?
 
     > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
 
-    Journalism goes hand in hand with frame control ([Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. We can rely less on narratives and more on data. What if we could fork & edit thought-graphs to remove bias?
+    Journalism goes hand in hand with frame control ([Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork & edit thought-graphs to remove bias? Can we become post-narrative?
 
 1. If no thought-graph exists for an article - anyone could construct it and tag it to the original resource - making it discoverable for anyone to use. <!-- TODO:LINK TO THE OTHER SECTION -->
 
@@ -162,6 +163,15 @@ this is relevant to the above section
 # Anything relevant to something
 # Free-form associations: anything-to-anything
 ██████████████████████████████████████████████████████████████████████████████
+
+the ability to be able to sever the connection between an action of yours X to criticisms of it has enabled corruption to bubble up
+
+["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
+
+when we're reading books, we should be able to check all feedback and activity around each reference - what has been crowdsourced. Imagine being able to colorize asserts that reference external sources based on a score showing if there's consensus this is true or there's a dispute. We can have a heatmap of the entire book/article to judge how trustworthy it is according to our criteria and which votes count
+
+
+
 
 `"Pull that up Jamie"` - we should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI.
 

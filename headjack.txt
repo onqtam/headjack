@@ -40,6 +40,200 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
+
+
+search engine infra stuff and separating presentation from data could perhaps go to the "organizing information" chapter
+
+GGG as a page?
+
+maybe the chapter should be called "web3 & the semantic web"
+
+move CAs to cryptohistory?
+
+
+concern: a complete mess of message types with overlapping functionality
+
+== double addressing?
+headjack://app_id/nonce/user_id/content_id
+headjack2://user_id:concept_id
+
+The price of authority is legitimacy and reputation/track record/authenticity
+
+what if we all had points for signal boosting beyond a simple like - like with claps in medium
+what if we could signal-boost anything - like "ppl with large following all endorse X futuristic and hopeful movie"
+chapter: signal-boosting
+
+People can still consume text and audio but they’d have the option to trace and inspect the inputs & how the sosage is made
+
+What if we could say “deboostt celebrity gossip/news” and if the people we follow have deboosted that that we inherit part of their preferences?
+
+chapter: "the metaverse is a graph"
+the metaverse is a giant global graph
+
+upgrading the internet beyond the physical
+
+"individuals as neurons" chapter
+the current host-centric world where platforms own our data and is siloed is preventing us as a giant global brain to wire any way we want
+
+what if DeSci was part of this giant global graph/brain? observation, experimentation, and the testing of theories against the evidence obtained - with an immutable trail behind
+
+
+THIS IS A BIG POINT !!!
+what if I don't care about the specific expressions of someone, but would still like them to be taken into consideration when I'm consuming media - perhaps an aggregate of X people I follow can influence my recommendations?
+Tweeting out an opinion is nice but the effects are extremely small. And you have to repeat it for more effect at the risk of alienating your followers. What if you could state it once and have the ability to alter the algorithms of people that choose your influence over their filtration?
+book recommendations? How about inputting the people you respect and getting out a personalized list of recommendations?
+what if this is not used just for recommendations, but also as a lens to score any piece of news & its significance? So if someone sends you directly some document you can quickly give it a relevance score & decide if its even worth inspecting?
+This is how scientists can have an impact even if they're not good communicators - actions can speak louder than words
+
+we should be able to say "don't notify me for likes/reactions - only comments"
+
+What if we could signal what items we think are important and essential and input that in ads and recommendations?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We could upgrade our ability to collectively introspect & investigate
+
+
+
+
+In order to have collective consciousness we need to have global neurons. This is identity
+
+work doesn't even need to be different to be processed by different companies - the same layer can be communally serviced & the cooperation mechanism can be auctioned to the best orchestrator. WTF did I even type?
+
+what if we had an LLM that we could ask to find the right filters, inputs and weights to find the best of X, and they would construct us a search preset that is best suited for our needs.
+
+index designs can be open sourced and crowdsourced - once the infra evaluates the index and calculates the cost.
+
+we can express our values as public preferences, and we win in 2 ways: we actually get the type of information we've requested, and we get to add to aggregates that include your preferences
+
+
+user's ability for fine grained control over their information diet through choice & options is the way towards transparency
+This is identity
+
+
+have a chapter or even page about the cathedral and the bazaar?
+
+we're currently screaming out our beliefs in comments of the culture war when instead we could express our view only once and have it fed through the algorithms where it would actually be taken into account
+
+
+
+indexes can be computed in steps, and different sets of steps can share the common steps and reuse those (intermediary) indexes
+
+we can have an anonymized debate at scale between millenials vs boomers or gen X-ers
+
+this somehow fits in this narrative now
+https://en.wikipedia.org/wiki/All_the_world%27s_a_stage
+
+global questions will have entities that would be followable, with the option to filter notifications - for example "only financial news regarding X". We could have subscriptions such as "notify me when there's consensus by the current committee on this issue and then I'll trust you, but you have to work in public"
+
+"notify me for new opinions or only for mentions in threads in which I've already participated in"
+
+We can signal to ourselves signal by signal
+
+we can construct debate maps for any topic
+
+
+
+This is the way to decentralize AGI and collectively own & steer it
+The way to decentralizing AGI is through collective ownership & steering
+The way to the AGI is through collectivization
+
+we have maladaptive connections and lack neuroplasticity. The global brain lacks neuroplasticity because of fractured identity & the inability to export data from service to service - lack of interoperability
+
+strength is in the numbers
+VS.
+We can reveal only what we don't think we'd be judged about, but still anonymously express concerns - this way the majority cannot silence any minority
+
+we are a circuit board with no elements & connections - a clean canvas we can collectively sense-make ourselves through to the other side - a functioning signal & value amplifier
+
+Every single one of us could browse and inspect the global connectome
+the sets of public preferences & votes & delegations is the global connectome
+https://en.wikipedia.org/wiki/Connectome
+"The significance of the connectome stems from the realization that the structure and function of the human brain are intricately linked, through multiple levels and modes of brain connectivity."
+https://en.wikipedia.org/wiki/Connectome#:~:text=The%20significance%20of%20the%20connectome%20stems%20from%20the%20realization%20that%20the%20structure%20and%20function%20of%20the%20human%20brain%20are%20intricately%20linked%2C%20through%20multiple%20levels%20and%20modes%20of%20brain%20connectivity.
+"The foundation of human cognition lies in the pattern of dynamic interactions shaped by the connectome."
+https://en.wikipedia.org/wiki/Connectome#:~:text=the%20foundation%20of%20human%20cognition%20lies%20in%20the%20pattern%20of%20dynamic%20interactions%20shaped%20by%20the%20connectome.
+
+this is the great unbundling of opinions (until now everything came in bundled groups represented by individuals and organizations - now we can crowdsource competence on any specific topic), followed by the ability to reconstruct specific media experiences with specific recommender algorithms defined by different values & collective consensus or interest heatmap
+
+apps that consume private indexes but done according to public rules and get them uniquely fingerprinted so that leaks are detected, those apps can stake a token in something escrow-like with an amount determined by market forces, and those that produce the indexes and give them with unique fingerprints could slash and/or confiscate their stake
+
+we can put a price on any type of informational preference - it all depends on what kinds of indexes exist and how much they're charging. Apps will simply be interfaces that collect ad revenue and pay to the index maintainers for the ability to service their customers according to their explicitly stated desires
+
+
+
+!!!
+imagine configuring your feed like "I want to see this type of thing and that other one, and also I want to follow these accounts from these sources for anything new by them and I'd also like to inherit their algorithmic preferences
+!!!
+
+!!!
+what if we could follow the best game theorists & geopolititians in telling us which papers & organizations out there have the best models that we should apply to defuse the whole thing
+And what if we could act on their findings - choosing which filter to change or which new rule to add for our information diets - effectively being able to choose the best people for any given topic through crowd sourced reddit-style surface of the best or with the most consensus
+!!!
+
+!!!
+We can see the beliefs of whoever goes public and we can actively count their stated public preference. There could be a KYC-like service to point 
+!!!
+
+what if we could maintain rankings such as "the top 10 or 50 things I think everyone should have read and/or seen" and "what are the top 10 most pressing issues" and have that surfaced objectively - by whoever dares to speak out - we could publicly rank our concerns
+
+
+we can crowdsource such filters by an average from a community and there can be many communities. These communities could have on-chain governance for how to control who is in a set. What if those communities that define the filters for others got the option to collect payments for them maintaining quality and seeking truth, and only those apps that consume them on infrastructure that is doing their bidding would have access to the output. Anyone could leak it but they'd effectively be doing a favor to anyone else? Maybe? But the payload could also be fingerprinted uniquely for every one of them that's paying for it so that if it leaks the rat would be identified.
+
+we can have a service that maintains the verifiable credentials for something like KYC of those that have burned or donated funds to charity (a charity/enterprise/organization of their choosing, but publicly) - if you want to be a part of the global convo in an anonymous way you could simply pay and have your voice heard. And you can bring whatever proofs from the real world with you. So for the things we're not afraid of the public - we work in public so that we can generate a proof, and for the stuff we're concerned to speak up we'd simply prove that we're someone notable on the other side
+
+we are starving for meaning and this project lays a path towards global meritocracy
+immutability, reputation and the ability to see everything relevant to an identity or a specific event or a topic, when put together, produce an idea market & a meritocracy
+
+"here are the 5 things that have made the biggest impression on me (or are the most underrated): "and actually list them! MC course, Carl Sagan's cosmos, Naval, Fall of civilizations. We can signal values and from that public info later decide which people to join/partner with towards a common cause. We can make a heatmap of the global (& local!) causes that people care about, and to what degree
+
+Separate type of connection for friendlyness
+
+not only sensemaking but also meaningmaking - collective progress and transparency through immutability, identity, deduplication & connectedness
+
+Fractal protocol - whats possible with your private data
+
+the metaverse is about agency - the ability to express yourself any way you want
+
+imagine being able to organize the world as folders of bookmarks on a desktop, through which you start interacting with the information however you wish (to the limits of what's available ofc)
+
+we could precisely determine the amount of influence we'd want from any account and then feed that set of weights into different recommendation & scoring algorithms & indexes. If you aspire to be like a set of people - you could adopt their worldview - their news inflow, their beliefs for what's true, their trust network (those who they themselves follow)
+
+Custom feeds. There's a type of news that we're interested in so we keep checking back in at social media and scroll through the feed for it. What if we could set preferences for what to be notified about - with a custom feed?
+
+inoreader for example allows you with a paid feature to construct rules for subcriptions such as "mark as read anything that contains the string #shorts" - we can have this, but generalized and for anything
+
+moving from XXX consumption to deliberate consumption of media
+
+what if we could signal preferences locally for what types of commercials we'd be OK with in our city - could this be the backbone for the nation state?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
 We could engineer the dopamine of this informational global brain.
 pagerank for people
@@ -47,7 +241,7 @@ TODO: read the twitter community notes whitepaper
 
 
 
-The limiting factor: data processing
+The limiting factor: data processing & computation
 
 
 
@@ -119,6 +313,11 @@ we can crowdsource improvement proposals for any topic - for example feature req
 “The need for structure”
 
 "fork anything"
+
+"your personal space"
+
+
+https://en.wikipedia.org/wiki/Conversation_theory
 
 
 
@@ -754,5 +953,9 @@ Why NFTs are overhyped - but VCs and attestations are not
 
 
 Meme: fork in the road: host-centric status quo vs SSI and content addressing
+
+
+make a mission section with a bunch of mission statements - that all come together in a whole
+
 
 
