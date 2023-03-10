@@ -17,7 +17,7 @@ Public/private mode for the entire account
 
 toggling privacy levels (users could mess that up though...)
 
-<img src="images/multidimensionality.png">
+<img src="images/multidimensionality_cropped.png">
 
 
 ██████████████████████████████████████████████████████████████████████████████
