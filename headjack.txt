@@ -42,6 +42,42 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
+
+
+
+
+
+
+
+
+
+
+“POV Issues” with the 1911 Encyclopedia Brittanica according to 2023 Wikipedia
+> "The point of view held by the 1911 Encyclopædia Britannica is roughly the one of the British and American educated classes at the beginning of the twentieth century."
+https://twitter.com/mgellison/status/1635897627203211264
+
+
+
+
+we can even disagree on how to weight the votes of people - equally or some other way. And we could even crowdsource & delegate that.
+
+clips are dysfunctional
+
+what if we could see all the unique claims a person has made (because some of them get repeated) and we could score them against that?
+we could do that by explicit semantic annotation with deduplicated concepts
+
+
+
+
+> "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps" - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
+
+
+
+
+
+remove bannon quote - or at least his name
+
+
 search engine infra stuff and separating presentation from data could perhaps go to the "organizing information" chapter
 
 GGG as a page?
@@ -236,7 +272,7 @@ what if we could signal preferences locally for what types of commercials we'd b
 
 How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
 We could engineer the dopamine of this informational global brain.
-pagerank for people
+pagerank for people - depending on the delegations in the liquid stuff
 TODO: read the twitter community notes whitepaper
 
 
