@@ -3,9 +3,9 @@
 
 <strikethrough>Bitcoin</strikethrough> Headjack fixes this.
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # collective intelligence & sensemaking
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 sunlight is the best disenfecatant
 the fastest way for pro social behaviors is to make sure everyone's reputation is on the line
@@ -136,9 +136,9 @@ we need to build the public introspection tool
 
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # voting & liquid democracy
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 aggregation: the societal mirror - a chapter about signaling of public preferences & poll opinions
 why are twitter polls only for 24 hours? and we can't see how specific people voted?
@@ -185,9 +185,11 @@ Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally
 https://arxiv.org/pdf/1911.08774.pdf
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # privacy & anonymity
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
+
+> "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps" - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
 
 Private opinions for polls - you might not want them public but still to be able to compare with those who are public
 
@@ -213,9 +215,9 @@ we can bridge/bring along/transfer/extend VCs to the anonymized set of votes
 something could guide or estimate how deanonymizable we become depending on the ZK VCs we bridge
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # reputation systems & incentives
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 > "How many hasty, immature, superficial, and misleading judgments are expressed every day [in the press], confusing readers, without any verification." - [Solzhenitsyn](https://twitter.com/AI_Solzhenitsyn/status/1590086890174160902)
 
@@ -259,9 +261,9 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # quotes
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 > "The final, terminal step is seeing that contemporary digital media landscapes are wide open to manipulation, informational warfare, and disorienting, addictive user interfaces. Right when society requires unprecedented upgrades in public sensemaking processes, we face instead a perfect storm of factors contributing to an epistemological crisis." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20final%2C%20terminal,an%20epistemological%20crisis.)
 

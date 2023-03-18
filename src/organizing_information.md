@@ -5,9 +5,9 @@
 <!-- toc -->
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # provenance, deduplication & authenticity
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 https://en.wikipedia.org/wiki/Data_lineage
 > "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From - The Consilience Project](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
@@ -25,9 +25,9 @@ https://twitter.com/lexman_ai/status/1615861599197171713
 
 we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # We are drowning in language
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. Language is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process, aggregate & classify unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
 
@@ -37,12 +37,12 @@ When all you have is language, it becomes the hammer and everything else a nail.
 
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information" - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 <!-- # The need for structured data -->
 # Structured data & machine readability
 <!-- # Raising the signal/noise ratio -->
 <!-- # Structured data & improving the signal/noise ratio -->
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Information theory could be as important as or even fundamental to matter & the laws of physics - they are tightly interwoven. Nature strives to remove unnecessary bits when it comes to exchange of information - and so should we.
 
@@ -89,12 +89,12 @@ reducing the vocabulary of common knowledge
 
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 <!-- # The long-form media source: thought-graphs -->
 <!-- # Thought-graphs: the long-form media source -->
 # Thought-graphs as the source of long-form
 <!-- # Thought-graphs: an upgrade to linguistics -->
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 <!-- What about complex thoughts? Again, language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
 
@@ -153,20 +153,20 @@ But could such a change happen? A good example are [Jupyter](https://en.wikipedi
 <!-- imagine laying out the case for banning TikTok as a thought-graph or a debate map
 TODO: debate map section here? -->
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Second brain
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 this is relevant to the above section
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 <!-- # Query for anything related to something -->
 <!-- # Anything that's relevant -->
 <!-- # Everything that's relevant -->
 <!-- # Anything relevant to something -->
 <!-- # Free-form associations: anything-to-anything -->
 # Show everything related - "Pull that up Jamie"
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 We should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI. Examples:
 
@@ -193,29 +193,33 @@ when we're reading books, we should be able to check all feedback and activity a
 -->
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # second brain
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 note taking
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # wikipedia
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 competing wikipedia-like pages written by different people & being able to select between them? no more "trusted source" issues?
 
 Wikipedia and different prisms
 Slicing and dicing - chapter name
 
+“POV Issues” with the 1911 Encyclopedia Brittanica according to 2023 Wikipedia
+> "The point of view held by the 1911 Encyclopædia Britannica is roughly the one of the British and American educated classes at the beginning of the twentieth century."
+https://twitter.com/mgellison/status/1635897627203211264
+
 we can use something like ChatGTP to summarize the results of polls from different points of view and write the text for a topic and always keep it up to date. This is the decentralized wikipedia.
 
 imagine being able to pick your "wikipedia editors" - people who curate information in the open web while building a track record - and then anyone would be able to filter information differently based on their own personal criteria - multiple times from different angles (perhaps also by adopting someone else's criteria?)
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # querying & palantir foundry
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 BigQuery 2.0
 
@@ -245,9 +249,9 @@ imagine being able to view a multi-level depth tree with all citations and conve
 
 We should all want informational freedom when it comes to querying public information
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Curators & labelers
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 This is how we should think about humans in the giang global graph:
 https://www.youtube.com/watch?v=V0XfleKJSXM
@@ -284,9 +288,9 @@ we could use AI to detect this instead of human annotation & reactions
 we can have a lot more choice in what is being promoted in media
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # organizing information - interlinking & deduplicating data
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 == problems:
 - 
@@ -346,9 +350,9 @@ https://en.wikipedia.org/wiki/DIKW_pyramid
 
 uploading a clip that could have easily just referenced a part of the whole shouldn't be encouraged - perhaps you'd need to pay for uploading it?
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # stable documents
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 IPFS CIDs also let you do Xanadu-style transclusion with standoff markup. Offsets don't break because the CIDs are immutable.
 https://twitter.com/gordonbrander/status/1619370073722089472

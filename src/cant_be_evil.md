@@ -3,9 +3,9 @@
 <!-- toc -->
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # security & can't be evil
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 - point: improved security - the hacking of high-profile accounts and posting on their behalf is almost impossible with the right opsec
 https://twitter.com/VitalikButerin/status/1576275977352536065
@@ -47,9 +47,9 @@ https://www.reveddit.com/
 write about security and how there will be competition for services that keep your data private and we will get eventually the best possible services
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Centralization of DNS & certificate authorities
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 > "The Domain Name Server (DNS) is the Achilles heel of the Web." - [Tim Berners-Lee](https://www.brainyquote.com/quotes/tim_bernerslee_373104)
 
@@ -116,9 +116,9 @@ The internet is under U.S. control
 https://whois.icann.org/en/domain-name-registration-process
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Black boxes & algorithmic bias
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 The recommendation algorithms & the social graph are the architecture of virality - the dynamics of amplification & interaction dictate how ideas surface, propagate, compound & evolve. The people writing the algorithmic feeds are the most powerful in the world - [@naval](https://youtu.be/3qHkcs3kG44?t=3616).
 

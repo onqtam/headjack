@@ -5,10 +5,10 @@
 <!-- toc -->
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # infinite possibilities
 # Giant global graph - open data
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Follow preferences of others - not just as notifications for changes but also the ability to automatically adopt them
 
@@ -22,9 +22,9 @@ Example: github stars - what if anyone could develop filters for the stars of pe
 
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # The superapp
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 UIs should be drag/drop composable & layoutable - in the superapp
 
@@ -46,9 +46,9 @@ we can turn the web into a personal computer for the public information
 the superapp is the "how would you like to spend your attention" superapp
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Moderation
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Account suspension is too much - perhaps it should be limitations - not removal and not even having access to your DMs
 
@@ -64,9 +64,9 @@ fighting spam - in this system every event has provable provenance of who sent i
 
 applications can decide which sets of filters are allowed for viewing media through them, in order for advertisers to be happy
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Infrastructure centralization
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 > "Somehow people got comfortable with allowing a single public corporation being able to man-in-the-middle the entire Internet." - [`David Vorick`](https://twitter.com/DavidVorick/status/1375572267933913093)
 
