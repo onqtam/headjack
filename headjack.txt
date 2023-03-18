@@ -39,22 +39,22 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
+> "In a world of infinite "content", only provenance will count" - [@punk6529](https://twitter.com/punk6529/status/1636275893545967616)
+
+
+Larger vocabulary means better data compression – fewer words needed to express concepts – so higher data rate
+https://twitter.com/elonmusk/status/1636421504538738689
 
 
 
+messages
+if we merkleize them by words we could then quote parts of long documents with proofs that the partial quotes are indeed part of the original files
 
 
 
-
-
-
-
-
-
-
-“POV Issues” with the 1911 Encyclopedia Brittanica according to 2023 Wikipedia
-> "The point of view held by the 1911 Encyclopædia Britannica is roughly the one of the British and American educated classes at the beginning of the twentieth century."
-https://twitter.com/mgellison/status/1635897627203211264
+ON WHY WE NEED SOMETHING LIKE linktree:
+Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of @jason”
+https://twitter.com/Jason/status/1636464901911904257
 
 
 
@@ -67,9 +67,6 @@ what if we could see all the unique claims a person has made (because some of th
 we could do that by explicit semantic annotation with deduplicated concepts
 
 
-
-
-> "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps" - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
 
 
 

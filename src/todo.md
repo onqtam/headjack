@@ -259,7 +259,12 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - use different book generator
     https://github.com/gohugoio/hugo - shows sidebar on the right with the ToC of the page
     also this: https://github.com/zjp-CN/mdbook-theme
+    
     https://github.com/facebook/docusaurus
+    https://docs.pendle.finance/PendlePro/HowItWorks/Fees#swap-fees
+    https://github.com/pendle-finance/documentation/blob/master/docusaurus.config.js
+
+
     like this one? https://github.com/dvitanov/lorevc
     this one shows even the H1 headings in the outline on the left:
         http://mermaid-js.github.io/mermaid/

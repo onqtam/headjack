@@ -2,10 +2,9 @@
 
 <!-- toc -->
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Anatomy of your digital footprint
-██████████████████████████████████████████████████████████████████████████████
-
+██████████████████████████████████████████████████████████████████
 in order to reconstruct we must first deconstruct - the foundations of you digital footprint
 
 the building blocks of digital media
@@ -20,9 +19,9 @@ toggling privacy levels (users could mess that up though...)
 <img src="images/multidimensionality_cropped.png">
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Multidimensionality & subscriptions
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 configuration attributes to accounts
 
@@ -68,9 +67,9 @@ When you show your Attention (what algorithms, apps & settings you're using, & e
 
 Currently only the platforms get to analyze your behavior - you should be able to choose to let anyone analyze it for the commons
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Expressivity
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 A data network in which your input matters in an uncountable number of ways
 Expressivity!
@@ -84,9 +83,9 @@ Realizing humanity’s potential for expression at scale
 Making the individual count
 
 Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # IDMs & your personal cloud
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?
 
@@ -112,9 +111,9 @@ your "desktop" for the apps & public data of the world
 fine-grained control
 When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users or not
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Bookmarks & playlists
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case no one hosts it in the future.
 
@@ -122,9 +121,9 @@ Your personal knowledge base could be built with something like [Logseq](https:/
 
 Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Notifications & subscriptions
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Twitter decided that it needs to boost engagement and forced "recent tweet" notifications on us [without the ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/) - that needs to stop - explicit preferences should be honored.
 
@@ -139,9 +138,9 @@ What if you wanted to see when someone follows something as an event/notificatio
 We should be able to follow playlists in social media - and be able to turn on notifications for them
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Centralized & fragmented identity/preferences
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few players with network effects & [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality.
 

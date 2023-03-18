@@ -2,10 +2,10 @@
 
 <!-- toc -->
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # problems
 # incentives & the status quo
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 > "Legacy structures of information control have dominated the first decades of the Internet. The evidence suggests that this situation must change." - [The End Of Propaganda - The Consilience Project](https://consilienceproject.org/the-end-of-propaganda/#:~:text=Legacy%20structures%20of%20information%20control%20have%20dominated%20the%20first%20decades%20of%20the%20Internet.%20The%20evidence%20suggests%20that%20this%20situation%20must%20change.)
 
@@ -83,6 +83,8 @@ By severing the connection between identity management and media we can better a
 
 Headjack gives you the option to export your data away from any service which will lead to the best services
 
+> "why, on god's sweet green Earth, am I being shown tweets by people I don't follow. I demand answers" - [Eridanus (9R)](https://twitter.com/eridanus_9r/status/1636794559886934016)
+
 the host-centric model allows for platforms to own our content, which leads to misaligned incentives:
 time spent: user disempowerment - everything is AI controlled & recommender systems all the way down - attention maximization
 time well spent: user empowerment in being able to control what they want to see & how much of it
@@ -105,9 +107,9 @@ when twitter decide engagement is low they shove down your throat nonsense algor
 
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # Ultimate scarcity: time & attention
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 `"Attention Is All You Need"`
 "attention is all we have"
@@ -119,18 +121,18 @@ when twitter decide engagement is low they shove down your throat nonsense algor
 > "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert A. Simon
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # recommender algorithms
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 Algorithms could use this liquid interest network to amplify and prioritize certain people on the loud speaker - I bet Daniel Schmat would rank quite high - something the youtube algo wouldnt do
 
 
 
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 # section 230 and empowering the user to choose
 # Recommender algos, choice & section 230
-██████████████████████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████████████
 
 
 we should shift curation from explicit moderation by people to tagging & filtration preferences by the consumer
