@@ -9,10 +9,15 @@
 # provenance, deduplication & authenticity
 ██████████████████████████████████████████████████████████████████
 
+> "In a world of infinite "content", only provenance will count" - [@punk6529](https://twitter.com/punk6529/status/1636275893545967616)
+
 https://en.wikipedia.org/wiki/Data_lineage
 > "To make sense of the information and arguments we read, we have to understand where that information comes from." - [Where Arguments Come From - The Consilience Project](https://consilienceproject.org/where-arguments-come-from/#:~:text=To%20make%20sense%20of%20the%20information%20and%20arguments%20we%20read%2C%20we%20have%20to%20understand%20where%20that%20information%20comes%20from.)
 
 provenance graphs - imagine being able to check if any of the inputs of a story has been influenced by a specific source
+
+If we can annotate facts and claims then we’d be able to track the provenance of ideas - or at least view their first occurance
+
 
 > "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity." - [AVC](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
 
@@ -28,6 +33,10 @@ we will share the digital space with AIs and a web of trust on top of PKI will b
 ██████████████████████████████████████████████████████████████████
 # We are drowning in language
 ██████████████████████████████████████████████████████████████████
+
+
+remove bannon quote - or at least his name
+
 
 Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. Language is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process, aggregate & classify unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
 
@@ -69,7 +78,7 @@ Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. 
 
 
 
-
+> "Larger vocabulary means better data compression – fewer words needed to express concepts – so higher data rate" - [Elon Musk](https://twitter.com/elonmusk/status/1636421504538738689)
 
 serialization of thought into language is lossy
 
@@ -97,6 +106,25 @@ reducing the vocabulary of common knowledge
 ██████████████████████████████████████████████████████████████████
 
 <!-- What about complex thoughts? Again, language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
+
+knowledge engineering
+
+
+Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack
+https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR
+
+we can deduce implications of what we've laid out semantically
+We can then compare those implications around a different set of facts/assertions - fact-checking our thoughts - sufracing bias & contradictions. What if we laid out all our beliefs (privately) as a database such that we can later fact-check our new thoughts against that set of beliefs?
+
+We'll be constructing our (SPARQL?) queries with natural language by interfacing with LLMs like ChatGPT.
+
+SPARQL
+Prolog
+https://en.wikipedia.org/wiki/Cypher_(query_language)
+
+knowledge engineering & semantic representation have been used only for knowledge and facts - we've yet to use it to pattern-match & bridge opinions at scale
+
+the elite form of communication will become semantic
 
 Writing forces us to think, but the act of serializing a complex web of interconnected thoughts is very lossy - most connections, weights & context are either lost or conveyed differently, and every attempt to fix this leads to overly verbose, boring and incomprehensible text. -->
 

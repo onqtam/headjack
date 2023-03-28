@@ -3,6 +3,12 @@
 
 <strikethrough>Bitcoin</strikethrough> Headjack fixes this.
 
+<!--
+alternative titles:
+"Crowds and power"
+
+-->
+
 ██████████████████████████████████████████████████████████████████
 # collective intelligence & sensemaking
 ██████████████████████████████████████████████████████████████████

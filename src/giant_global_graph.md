@@ -2,6 +2,14 @@
 
 <!-- toc -->
 
+
+<!--
+
+maybe the chapter should be called "web3 & the semantic web"
+
+-->
+
+
 ██████████████████████████████████████████████████████████████████
 # a
 ██████████████████████████████████████████████████████████████████
@@ -30,9 +38,16 @@ https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
 
 
 
-> "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
+<!-- > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe) -->
 
-> "If you want to find the secrets of the Metaverse, think in terms of identities, events & graphs/relations." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe)
+> "If you want to understand the metaverse, think of it as a graph of freely interconnectable identities and actions." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe), probably
+
+Why the semantic web hasn't taken off:
+- the host-centric web & the inability for enterpreneurs to freely build on top of the data that platforms have amassed
+- lack of stability for identifiers
+- the fragmentation of identities across services and the lack of uniformity
+- the lack of integration with social media so that activity goes viral
+- the inability for ordinary people to write complex SPARQL queries - changed by ChatGPT
 
 
 > "The Semantic Web is an extension of the current web in which information is given well-defined meaning, better enabling computers and people to work in cooperation." - [Semantic Web Points, W3C](https://www.w3.org/2001/sw/EO/points#:~:text=Semantic%20Web%20Points-,The%20Semantic%20Web%20is%20an%20extension%20of%20the%20current%20web%20in%20which%20information%20is%20given%20well%2Ddefined%20meaning%2C%20better%20enabling%20computers%20and%20people%20to%20work%20in%20cooperation.,-The%20following%20is)
@@ -100,8 +115,6 @@ https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
 massively multiplayer online relational database
 
 There will be SQL interfaces on top of all of the data
-
-think in terms of relations & joinability
 
 https://en.wikipedia.org/wiki/Semantic_network
 

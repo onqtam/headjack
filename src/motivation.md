@@ -40,13 +40,7 @@ https://www.google.com/search?q=the+golden+circle
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 
 <!--
-Managing information as a sub-chapter name?
 
-The building blocks of media are:
-- data tied to identities
-- preferences (which are also data)
-- the public/private spectrum for data
-- credentials & attestations
-- the public/private spectrum
+
 
 -->

@@ -259,7 +259,7 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - use different book generator
     https://github.com/gohugoio/hugo - shows sidebar on the right with the ToC of the page
     also this: https://github.com/zjp-CN/mdbook-theme
-    
+
     https://github.com/facebook/docusaurus
     https://docs.pendle.finance/PendlePro/HowItWorks/Fees#swap-fees
     https://github.com/pendle-finance/documentation/blob/master/docusaurus.config.js
@@ -430,9 +430,6 @@ But all other attempts fall short in one regard or another - Headjack can addres
 https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 
 <!-- > "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear) -->
-
-[IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System), [Filecoin](https://en.wikipedia.org/wiki/Filecoin), [Sia](https://sia.tech/) & [Arweave](https://arwiki.wiki/) are the drivers, Headjack is the filesystem, and the collection of applications & services built on top will be the global OS.
-What about browser in the driver/filesystem/OS analogy?
 
 > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
 

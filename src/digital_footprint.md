@@ -49,6 +49,15 @@ add tiny designs/screenshots for the different ideas - like a multi-level tree f
 
 multidimensionality - think about what "friendship" is
 
+inoreader for example allows you with a paid feature to construct rules for subcriptions such as "mark as read anything that contains the string #shorts" - we can have this, but generalized and for anything
+
+The building blocks of media are:
+- data tied to identities
+- preferences (which are also data)
+- the public/private spectrum for data
+- credentials & attestations
+- the public/private spectrum
+
 multi dimensionalism of accounts section
 What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
 https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
@@ -58,6 +67,11 @@ list explicitly all the different aspects of an online presence - goodreads, med
 
 your profile page - a linktree-like thing
 every change, every edit, every commit - all could be linked to your identity if you wished it
+ON WHY WE NEED SOMETHING LIKE linktree:
+Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of @jason”
+https://twitter.com/Jason/status/1636464901911904257
+
+
 
 view profile relevant to the current app VS view full profile with all activity
 

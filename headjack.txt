@@ -48,22 +48,17 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
-> "In a world of infinite "content", only provenance will count" - [@punk6529](https://twitter.com/punk6529/status/1636275893545967616)
-
-
-Larger vocabulary means better data compression – fewer words needed to express concepts – so higher data rate
-https://twitter.com/elonmusk/status/1636421504538738689
 
 
 
-messages
-if we merkleize them by words we could then quote parts of long documents with proofs that the partial quotes are indeed part of the original files
 
 
 
-ON WHY WE NEED SOMETHING LIKE linktree:
-Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of @jason”
-https://twitter.com/Jason/status/1636464901911904257
+
+
+
+
+
 
 
 
@@ -72,8 +67,6 @@ we can even disagree on how to weight the votes of people - equally or some othe
 
 clips are dysfunctional
 
-what if we could see all the unique claims a person has made (because some of them get repeated) and we could score them against that?
-we could do that by explicit semantic annotation with deduplicated concepts
 
 
 > "We're in the stage where ML model-generated text is going to accelerate the rate of data accumulating on the internet and lower the average quality. This data deluge will degrade trust and user experience across a variety of platforms, increasing pressure on moderation and curation. Combine these trends with accelerating progress in AI and it will be near impossible for one individual to track the changes happening in their own information ecosystem." - [GPT4: The quiet parts and the state of ML](https://robotic.substack.com/p/gpt4-review?utm_source=twitter&utm_campaign=auto_share&r=68gy5#:~:text=We%27re%20in%20the,own%20information%20ecosystem.)
@@ -81,19 +74,9 @@ we could do that by explicit semantic annotation with deduplicated concepts
 
 
 
-remove bannon quote - or at least his name
 
 
-search engine infra stuff and separating presentation from data could perhaps go to the "organizing information" chapter
 
-GGG as a page?
-
-maybe the chapter should be called "web3 & the semantic web"
-
-move CAs to cryptohistory?
-
-
-concern: a complete mess of message types with overlapping functionality
 
 == double addressing?
 headjack://app_id/nonce/user_id/content_id
@@ -255,9 +238,8 @@ we could precisely determine the amount of influence we'd want from any account 
 
 Custom feeds. There's a type of news that we're interested in so we keep checking back in at social media and scroll through the feed for it. What if we could set preferences for what to be notified about - with a custom feed?
 
-inoreader for example allows you with a paid feature to construct rules for subcriptions such as "mark as read anything that contains the string #shorts" - we can have this, but generalized and for anything
 
-moving from XXX consumption to deliberate consumption of media
+Making media consumption deliberate
 
 what if we could signal preferences locally for what types of commercials we'd be OK with in our city - could this be the backbone for the nation state?
 
@@ -283,9 +265,13 @@ TODO: read the twitter community notes whitepaper
 
 
 
-The limiting factor: data processing & computation
 
 
+
+
+
+
+== improving audio & video
 
 a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
 
@@ -309,26 +295,20 @@ what if instead of caring if someone liked your nonsense tweet you had cast a vo
 
 
 
-Computable context
-
-
-
 
 
 We are so limited - we should be able to sort and filter spotify episodes based on views/engagement. All these apps provide us a limited sandboxed environment
 
 
-What if we could tell recommender algorithms to avoid content about dieting for example? why not be able to include/exclude based on such types?
+What if we could tell recommender algorithms to avoid content about dieting for example? why not be able to include/exclude based on such types - even if we have just watched a video like that?
 
 
 The current social media arms race is in harvesting attention & going to the bottom of the brain stem. What if the nature of competition is changed and the ones that offer the most choice for users (even if at the expense of reduced overall revenue) win?
 
 
-we can crowdsource a ranking of bad UI mechanics that should be avoided in media and use that to inform which apps & algorithms we use
-the stopping queue has been removed since the invention of the endless feed scrolling mechanic - what if there was a checklist of bad UI decisions that all apps are ranked against?
 
 
-what if we could analyze any piece of media for the degree of use of loaded/manipulative language?
+
 
 
 Its all about choice & agency.
@@ -337,9 +317,9 @@ Its all about choice & agency.
 why can't we crowdsource "top 10 videos that everyone should watch"
 
 
-what if we had different knobs to tune the availability of content - not just likes/dislikes
 
-dehumanization is a psychosocial externality and we should be able to flag it and influence recommender algorithms with our labeling
+
+
 
 we can crowdsource improvement proposals for any topic - for example feature requests for recommender algorithms for ANYONE to implement, and when they do, they can mark themselves there and users can migrate to them if they really care about that feature
 
@@ -348,20 +328,17 @@ we can crowdsource improvement proposals for any topic - for example feature req
 
 
 
+== crowdsourced algorithm weights & parameters & content modulation
+
+what if we had different knobs to tune the availability of content - not just likes/dislikes
+
+dehumanization is a psychosocial externality and we should be able to flag it and influence recommender algorithms with our labeling
+
+we can crowdsource a ranking of bad UI mechanics that should be avoided in media and use that to inform which apps & algorithms we use
+the stopping queue has been removed since the invention of the endless feed scrolling mechanic - what if there was a checklist of bad UI decisions that all apps are ranked against?
 
 
 
-
-"fork anything"
-
-"your personal space"
-
-
-https://en.wikipedia.org/wiki/Conversation_theory
-
-
-
-If we can annotate facts and claims then we’d be able to track the provenance of ideas - or at least view their first occurance
 
 
 
@@ -374,11 +351,34 @@ what if your inputs (likes/votes/etc) weren't seen in the feeds of your follower
 
 
 
-== SCORING
+
+
+
+
+"fork anything"
+
+https://en.wikipedia.org/wiki/Conversation_theory
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Computable context & SCORING
 
 - we can compute truthfulness - or at least levels of alignment to a set of beliefs
 
+what if we could see all the unique assertions a person has made (because some of them get repeated) and we could score them against that? What if we could analyze how their views changed throughout time?
+we could do that by explicit semantic annotation with deduplicated concepts
 
+what if we could analyze any piece of media for the degree of use of loaded/manipulative language?
 
 
 
@@ -522,6 +522,11 @@ we have the opportunity to deduplicate common knowledge (concepts, nouns, etc). 
 ████████████████████████████████████████████████ REAL TODO:
 
 
+████████████████████████████████████████████████ page organization:
+
+search engine infra stuff and separating presentation from data could perhaps go to the "organizing information" chapter
+
+move CAs to cryptohistory?
 
 ████████████████████████████████████████████████ Notes from the 2nd half of November
 
