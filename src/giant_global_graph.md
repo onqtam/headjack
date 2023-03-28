@@ -44,7 +44,7 @@ https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
 
 Why the semantic web hasn't taken off:
 - the host-centric web & the inability for enterpreneurs to freely build on top of the data that platforms have amassed
-- lack of stability for identifiers
+- lack of stability for identifiers - brittle identifiers due to domains & the host-centric model
 - the fragmentation of identities across services and the lack of uniformity
 - the lack of integration with social media so that activity goes viral
 - the inability for ordinary people to write complex SPARQL queries - changed by ChatGPT
