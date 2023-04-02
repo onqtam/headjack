@@ -45,9 +45,12 @@ https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
 Why the semantic web hasn't taken off:
 - the host-centric web & the inability for enterpreneurs to freely build on top of the data that platforms have amassed
 - lack of stability for identifiers - brittle identifiers due to domains & the host-centric model
+- embedding in today's web is clunky
 - the fragmentation of identities across services and the lack of uniformity
 - the lack of integration with social media so that activity goes viral
 - the inability for ordinary people to write complex SPARQL queries - changed by ChatGPT
+- because there isn't a simply way to query for the semantic annotation of a URI
+
 
 
 > "The Semantic Web is an extension of the current web in which information is given well-defined meaning, better enabling computers and people to work in cooperation." - [Semantic Web Points, W3C](https://www.w3.org/2001/sw/EO/points#:~:text=Semantic%20Web%20Points-,The%20Semantic%20Web%20is%20an%20extension%20of%20the%20current%20web%20in%20which%20information%20is%20given%20well%2Ddefined%20meaning%2C%20better%20enabling%20computers%20and%20people%20to%20work%20in%20cooperation.,-The%20following%20is)
