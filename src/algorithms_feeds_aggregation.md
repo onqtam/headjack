@@ -51,6 +51,10 @@ Currently social media skews our perception of the world because the vocal becom
 
 # Aggregate sentiment - the big picture
 
+TODO: add gif with an order book
+how does the sentiment/order book relate to the overton window? The politically radical is on both ends and the current "market price" is the overton window
+https://youtu.be/KN0f7vhDzvQ?t=1445
+
 The aggregate sentiment on Twitter’s backend is analogous to a liquidity [order book](https://en.wikipedia.org/wiki/Order_book) with the [spread](https://en.wikipedia.org/wiki/Bid%E2%80%93ask_spread) being the [Overton window](https://en.wikipedia.org/wiki/Overton_window) - we could have a completely different understanding of society, history, and politics and have a societal mirror if not for the current information asymmetry that Big Tech has (point taken [from here](https://youtu.be/FV5SqIm5e90?t=883)). Furthermore, we cannot see the "border" between Twitter and Facebook in terms of users - even they (the companies) cannot because the data & backends are private (point taken [from here](https://youtu.be/FV5SqIm5e90?t=4631)).
 
 TODO:

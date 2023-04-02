@@ -36,28 +36,25 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
+!!! calculemus ("may we calculate, may we compute")
+https://en.wiktionary.org/wiki/calculemus
+
+> "The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate[calculemus], without further ado, to see who is right." - [Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) in a [letter to Ph. J. Spener, July 1687](https://medium.com/dave-amiana/the-language-of-calculus-part-1-e646876cf078#:~:text=The%20only%20way%20to%20rectify%20our%20reasonings%20is%20to%20make%20them%20as%20tangible%20as%20those%20of%20the%20Mathematicians%20so%20that%20we%20can%20find%20our%20error%20at%20a%20glance%2C%20and%20when%20there%20are%20disputes%20among%20persons%2C%20we%20can%20simply%20say%3A%20Let%20us%20calculate%5Bcalculemus%5D%2C%20without%20further%20ado%2C%20to%20see%20who%20is%20right.)
+
+
+
+> "Like any rational entity, the algorithm learns how to modify the state of its environment — in this case, the user’s mind — in order to maximize its own reward." - [Stuart Russell, Human Compatible (2019)](https://medium.com/understanding-recommenders/is-optimizing-for-engagement-changing-us-9d0ddfb0c65e#:~:text=Like%20any%20rational,Human%20Compatible%20(2019))
+
+
+
+> "We are flooded with information about catastrophes we cannot change. This is new for humanity and probably bad. What if news recommenders were designed not to show you any story that you can’t do anything about?" - [Jonathan Stray](https://twitter.com/jonathanstray/status/1641808066420064262)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> "What is ignored by the media -- but will be studied by historians? Here's 7 more examples:"
+https://twitter.com/george__mack/status/1641134999406780417
+TODO: how to transform this and turn it into a global "top 7" dashboard/chart? and in the semantic web?
 
 
 
@@ -66,7 +63,7 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 we can even disagree on how to weight the votes of people - equally or some other way. And we could even crowdsource & delegate that.
 
 clips are dysfunctional
-
+clips are reuploaded because uploaders would get the revenue... this needs a solution
 
 
 > "We're in the stage where ML model-generated text is going to accelerate the rate of data accumulating on the internet and lower the average quality. This data deluge will degrade trust and user experience across a variety of platforms, increasing pressure on moderation and curation. Combine these trends with accelerating progress in AI and it will be near impossible for one individual to track the changes happening in their own information ecosystem." - [GPT4: The quiet parts and the state of ML](https://robotic.substack.com/p/gpt4-review?utm_source=twitter&utm_campaign=auto_share&r=68gy5#:~:text=We%27re%20in%20the,own%20information%20ecosystem.)
@@ -225,6 +222,7 @@ immutability, reputation and the ability to see everything relevant to an identi
 "here are the 5 things that have made the biggest impression on me (or are the most underrated): "and actually list them! MC course, Carl Sagan's cosmos, Naval, Fall of civilizations. We can signal values and from that public info later decide which people to join/partner with towards a common cause. We can make a heatmap of the global (& local!) causes that people care about, and to what degree
 
 Separate type of connection for friendlyness
+connection != subscription
 
 not only sensemaking but also meaningmaking - collective progress and transparency through immutability, identity, deduplication & connectedness
 
@@ -245,11 +243,14 @@ what if we could signal preferences locally for what types of commercials we'd b
 
 
 
+> "People can’t share knowledge if they don’t speak a common language." - [Thomas Davenport, 1997](https://team12pori.wordpress.com/ontology-information-science/#:~:text=%E2%80%9CPeople%20can%E2%80%99t%20share%20knowledge%20if%20they%20don%E2%80%99t%20speak%20a%20common%20language.%E2%80%9D)
+<IMG TOWER OF BABEL>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1280px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg
 
 
+> "Our highest-bandwidth information channel is not speech. It's vision and touch." - [Yann LeCun](https://twitter.com/ylecun/status/1640595183946407936)
 
-
-
+instead of crowd-sourcing the truthfulness of a text post we can crowd-source only the mapping of that post to semantic triplets of assertions and automatically check those against an external set
 
 
 

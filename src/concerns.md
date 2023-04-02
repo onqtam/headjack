@@ -14,6 +14,8 @@ concern: a complete mess of message types with overlapping functionality
 
 The limiting factor: data processing & computation
 
+data problem: separate sets of indexes from different infrastructure companies? in case someone is spammy and infra company X doesn't want to work with them? We can still have some sort of federated queries.
+
 Todo: how to combat brigading? Concern: might not be able to do it because not a single system
 
 not all business models translate easily:

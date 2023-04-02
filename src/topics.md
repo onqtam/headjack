@@ -26,6 +26,10 @@ Example: github stars - what if anyone could develop filters for the stars of pe
 # The superapp
 ██████████████████████████████████████████████████████████████████
 
+> "Buying Twitter is an accelerant to creating X, the everything app" - [Elon Musk](https://twitter.com/elonmusk/status/1577428272056389633)
+
+Elon Musk gets it - network effects are a crucial part
+
 UIs should be drag/drop composable & layoutable - in the superapp
 
 Elon Musk's vision for the X app pales in comparison to the potential of the superapp

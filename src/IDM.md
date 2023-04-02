@@ -60,6 +60,14 @@ IDMs could be responsible for producing "streams" of the user activity - by simp
 
 
 
+FOR EXTRA LEVEL OF PRIVACY WHEN DM-ING OTHERS:
+- Designated Verifier Proofs
+    https://twitter.com/shreyjaineth/status/1637503285446803463
+    https://ethresear.ch/t/designated-verifier-signatures/15100
+    Protecting Private Communication Channels with Designated Verifier Proofs
+    https://github.com/enricobottazzi/designated-verifier-proof
+    
+
 
 
 an IDM may also use a social recovery wallet instead of email as login - or just a normal wallet/keypair authorization
@@ -152,6 +160,9 @@ TODO: problem: what happens if an ACM with control of millions of accounts stops
     https://ethresear.ch/t/pragmatic-signature-aggregation-with-bls/2105
     https://ethresear.ch/t/5427
     https://our.status.im/fastest-bls-signature-implementation/
+    https://ethresear.ch/t/adding-cross-transaction-bls-signature-aggregation-to-ethereum/7844
+    https://github.com/eth-infinitism/account-abstraction/pull/92
+    https://medium.com/privacy-scaling-explorations/bls-wallet-bundling-up-data-fb5424d3bdd3
     OR use some ZK magic
 
 
