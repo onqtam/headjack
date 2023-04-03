@@ -115,6 +115,11 @@ Due to the scale-free effect there will be a power law distribution for the IDs 
 The Metaverse is an MMO (massively multiplayer online) freeform information network - a giant global graph - a metabrain
 https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
 
+i want MMORPG for learning 
+- a knowledge graph where you can start at any point and follow your curiosity. a tree or a “fog of war” map. begin anywhere
+- ai helps you explore it by asking questions. you can type back your understanding, store stuff
+https://twitter.com/dan_abramov/status/1642400837400944640
+
 massively multiplayer online relational database
 
 There will be SQL interfaces on top of all of the data
