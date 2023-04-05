@@ -2442,7 +2442,7 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <div style="break-before: page; page-break-before: always;"></div><h1 id="your-digital-footprint"><a class="header" href="#your-digital-footprint">Your digital footprint</a></h1>
 <ul>
 <li><a href="digital_footprint.html#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></li>
-<li><a href="digital_footprint.html#the-2d-visibility-matrix">The 2D visibility matrix</a></li>
+<li><a href="digital_footprint.html#the-2d-visibility--accessibility-matrix">The 2D visibility &amp; accessibility matrix</a></li>
 <li><a href="digital_footprint.html#connections--multidimensional-subscriptions">Connections &amp; multidimensional subscriptions</a></li>
 <li><a href="digital_footprint.html#expressivity">Expressivity</a></li>
 <li><a href="digital_footprint.html#idms-one-cloud-to-rule-them-all">IDMs: one cloud to rule them all</a></li>
@@ -2459,7 +2459,7 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <li><strong>Comments</strong> - on posts/documents and other comments</li>
 <li><strong>Reactions</strong> - to posts/documents/comments</li>
 <li><strong>Profile</strong> - information such as bio, profile picture, link to website &amp; linktree</li>
-<li><strong>Social graph</strong> (also interest graph) - your connections &amp; subscriptions</li>
+<li><strong>Social graph</strong> (or interest graph) - your connections &amp; subscriptions</li>
 <li><strong>Settings &amp; preferences</strong> (+ browser extensions)
 <ul>
 <li><strong>Cosmetic</strong> (UI) - colors, layout, hiding the &quot;recommended videos&quot; panel in YouTube with the &quot;DF Tube - Distraction Free for YouTube&quot; browser extension</li>
@@ -2480,10 +2480,10 @@ With OGP, only entities like Facebook and the website owner get the structured d
 </ul>
 <p>This is a rough scetch and we've omitted things such as edits, DMs, etc.</p>
 <p>██████████████████████████████████████████████████████████████████</p>
-<h1 id="the-2d-visibility-matrix"><a class="header" href="#the-2d-visibility-matrix">The 2D visibility matrix</a></h1>
+<h1 id="the-2d-visibility--accessibility-matrix"><a class="header" href="#the-2d-visibility--accessibility-matrix">The 2D visibility &amp; accessibility matrix</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
 <!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
-<p>Let's consider the visibility spectrum - from <strong>private</strong> (personal) on one end to <strong>public</strong> on the other and <strong>shared in some group</strong> in between. Example: a fully private post or comment is basically a note to yourself. This is what's possible today for 3 of the biggest platforms:</p>
+<p>Let's consider the visibility spectrum - from <strong>private</strong> (personal) on one end to <strong>public</strong> on the other and <strong>shared in some group</strong> in between. Example: a fully private comment is basically a note to yourself. This is what's possible today for 3 of the biggest platforms:</p>
 <div>
 <style type="text/css" scoped>
     .visibility_table {
@@ -2645,35 +2645,17 @@ With OGP, only entities like Facebook and the website owner get the structured d
     <td style="background-color:red">No</td>
 </tr>
 </table>
-<p>What if we could choose the visibility of any of the types of actions listed above?</p>
-<p>We could set different default visibility levels for different types of actions, have the ability to override the visibility of any individual item and even have an identity-wide visibility toggle between public &amp; private (similar to when you open an incognito browser window and (hopefully) not have any of your history recorded &amp; correlated with your identity).</p>
-<p>But why? Who could make use of this? Perhaps public individuals &amp; streamers who are digging into something and want to make their digital trail for the session more easily accessible, analyzable &amp; followable.</p>
-<p>This might not always be a good idea (complexity could be too high &amp; users might mess up and make something public by accident), but it should be possible and we have already learned to use incognito windows as a pattern - such shifts are possible.</p>
-<p>I should be able to signal that if I wish</p>
-<p>expressivity</p>
-<p>Currently only the platforms decide what to do with that data - we might want to share it with other developers &amp; analysts in order to get better products and insight. This is a power imbalance</p>
-<p>There are a couple of things to observe:</p>
+<p>What if we could choose the visibility of any action? We could set different defaults for any of them, have the ability to override it for any individual item and even have an account-wide visibility toggle between public &amp; private - similar to when you open an incognito browser window and (hopefully) not have any of your history recorded &amp; correlated with your identity. This might not always be a good idea (users might mess up and make something public by accident), but it should be possible and we have already learned using incognito windows as a pattern - such shifts are possible.</p>
+<p>But why would we want this flexibility? A few examples:</p>
 <ul>
-<li>
-<p>We're limited to only what product managers in the internet companies have decided is worthwhile for them to implement</p>
-<ul>
-<li>We're restricted to only what makes sense for them &amp; the lowest common denominator</li>
+<li><strong>History</strong>: individuals &amp; streamers who are digging into something might want to make their digital trail for a browsing session public &amp; more easily accessible, analyzable &amp; followable.</li>
+<li><strong>Settings &amp; preferences</strong>: we could &quot;follow&quot; those of others - adopting changes automatically.</li>
+<li><strong>Settings &amp; preferences</strong>: we could aggregate and analyze the shifts in public preferences throughout time - enabling better and more organic discoverability of tools and settings.</li>
+<li>Both <strong>history</strong> and <strong>settings &amp; preferences</strong> can be shared not just publicly but also selectively with entities so that we can monetize our own data. Currently our behavioral patterns are closed &amp; being data mined by companies which make decisions in their own best interest.</li>
 </ul>
-</li>
-<li>
-<p>In a parallel universe there wouldn't be any restrictions on the types of actions we might take - like sharing, reacting to, or commenting on a reaction of someone else.</p>
-</li>
-<li>
-<p>Currently all these are segregated between disparate platforms with separate accounts</p>
-</li>
-</ul>
-<p>Many of the actions you consider private (history) are being used by </p>
-<p>Consider the following:</p>
-<ul>
-<li>What if we could mix &amp; match any of the above?</li>
-<li>What if we had &quot;playback progress&quot; even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.</li>
-</ul>
-<p>For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here.</p>
+<p>A key piece of the puzzle is moving away from the host-centric web by linking data to identity so that it can be seamlessly exported and addressed in a uniform way. Today we're left with only what product managers in Big Tech have decided is worthwhile for them to implement. We're unable to share, react, or comment on the reaction of someone else. Does it always make sense to do so? No, but it should be possible. We're limited to the lowest common denominator of functionality.</p>
+<p>The freedom to share is a form of expression and agency. We should have such granular control.</p>
+<!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 <p>██████████████████████████████████████████████████████████████████</p>
 <!-- # Multidimensionality & subscriptions -->
 <h1 id="connections--multidimensional-subscriptions"><a class="header" href="#connections--multidimensional-subscriptions">Connections &amp; multidimensional subscriptions</a></h1>
@@ -2682,7 +2664,6 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <p>configuration attributes to accounts</p>
 <p>Separate type of connection for friendlyness
 connection != subscription</p>
-<p>history of seen tweets - like history of watched videos on youtube</p>
 <p>we have many facets to our personalities - we could share a lot more
 we are social creatures</p>
 <p>complete control of what is public and what is not - what digital trail you leave, and the ability to subscribe to anything for events</p>
@@ -2729,6 +2710,14 @@ To be a good little neuron</p>
 <h1 id="idms-one-cloud-to-rule-them-all"><a class="header" href="#idms-one-cloud-to-rule-them-all">IDMs: one cloud to rule them all</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
 <p>What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?</p>
+<ul>
+<li>
+<p>What if we had &quot;playback progress&quot; even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.</p>
+</li>
+<li>
+<p>Currently all these are segregated between disparate platforms with separate accounts</p>
+</li>
+</ul>
 <p>what if your IDM kept a list of everything you've seen so it can be displayed in the UI?</p>
 <blockquote>
 <p>&quot;One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter.&quot;
