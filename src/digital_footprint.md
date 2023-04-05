@@ -210,7 +210,6 @@ The freedom to share is a form of expression and agency. We should have granular
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 
 ██████████████████████████████████████████████████████████████████
-<!-- # Multidimensionality & subscriptions -->
 # Connections & multidimensional subscriptions
 ██████████████████████████████████████████████████████████████████
 
@@ -266,7 +265,19 @@ copy & follow the viewing preferences of others
 
 When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
 
-Currently only the platforms get to analyze your behavior - you should be able to choose to let anyone analyze it for the commons
+# Notifications & subscriptions
+
+Twitter decided that it needs to boost engagement and forced "recent tweet" notifications on us [without the ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/) - that needs to stop - explicit preferences should be honored.
+
+> "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
+
+When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multidimensional for any type of event stream - like `"show me everything from X unless from application A or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
+
+TODO: follow anything
+
+What if you wanted to see when someone follows something as an event/notification - each time they follow someone? There's no way to configure the current platforms for that
+
+We should be able to follow playlists in social media - and be able to turn on notifications for them
 
 ██████████████████████████████████████████████████████████████████
 # Expressivity
@@ -326,22 +337,6 @@ Universal bookmarks - they can have a single repository (your IDM) and work for 
 Your personal knowledge base could be built with something like [Logseq](https://logseq.com/) with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.
 
 Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.
-
-██████████████████████████████████████████████████████████████████
-# Notifications & subscriptions
-██████████████████████████████████████████████████████████████████
-
-Twitter decided that it needs to boost engagement and forced "recent tweet" notifications on us [without the ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/) - that needs to stop - explicit preferences should be honored.
-
-> "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
-
-When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multidimensional for any type of event stream - like `"show me everything from X unless from application A or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
-
-TODO: follow anything
-
-What if you wanted to see when someone follows something as an event/notification - each time they follow someone? There's no way to configure the current platforms for that
-
-We should be able to follow playlists in social media - and be able to turn on notifications for them
 
 
 ██████████████████████████████████████████████████████████████████

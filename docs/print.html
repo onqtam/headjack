@@ -2444,10 +2444,10 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <li><a href="digital_footprint.html#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></li>
 <li><a href="digital_footprint.html#the-2d-visibility--accessibility-matrix">The 2D visibility &amp; accessibility matrix</a></li>
 <li><a href="digital_footprint.html#connections--multidimensional-subscriptions">Connections &amp; multidimensional subscriptions</a></li>
+<li><a href="digital_footprint.html#notifications--subscriptions">Notifications &amp; subscriptions</a></li>
 <li><a href="digital_footprint.html#expressivity">Expressivity</a></li>
 <li><a href="digital_footprint.html#idms-one-cloud-to-rule-them-all">IDMs: one cloud to rule them all</a></li>
 <li><a href="digital_footprint.html#bookmarks--playlists">Bookmarks &amp; playlists</a></li>
-<li><a href="digital_footprint.html#notifications--subscriptions">Notifications &amp; subscriptions</a></li>
 <li><a href="digital_footprint.html#centralized--fragmented-identitypreferences">Centralized &amp; fragmented identity/preferences</a></li>
 </ul>
 <p>██████████████████████████████████████████████████████████████████</p>
@@ -2657,7 +2657,6 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <p>The freedom to share is a form of expression and agency. We should have granular control.</p>
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 <p>██████████████████████████████████████████████████████████████████</p>
-<!-- # Multidimensionality & subscriptions -->
 <h1 id="connections--multidimensional-subscriptions"><a class="header" href="#connections--multidimensional-subscriptions">Connections &amp; multidimensional subscriptions</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
 <img src="images/multidimensionality_cropped.png">
@@ -2692,7 +2691,15 @@ https://twitter.com/Jason/status/1636464901911904257</p>
 <p>view profile relevant to the current app VS view full profile with all activity</p>
 <p>copy &amp; follow the viewing preferences of others</p>
 <p>When you show your Attention (what algorithms, apps &amp; settings you're using, &amp; even your history) you get attention for it - in regards to the signaling</p>
-<p>Currently only the platforms get to analyze your behavior - you should be able to choose to let anyone analyze it for the commons</p>
+<h1 id="notifications--subscriptions"><a class="header" href="#notifications--subscriptions">Notifications &amp; subscriptions</a></h1>
+<p>Twitter decided that it needs to boost engagement and forced &quot;recent tweet&quot; notifications on us <a href="https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/">without the ability to turn them off</a> - that needs to stop - explicit preferences should be honored.</p>
+<blockquote>
+<p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/NavalismHQ/status/1556179585347112961">@naval</a></p>
+</blockquote>
+<p>When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular &amp; multidimensional for any type of event stream - like <code>&quot;show me everything from X unless from application A or message type T&quot;</code>. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.</p>
+<p>TODO: follow anything</p>
+<p>What if you wanted to see when someone follows something as an event/notification - each time they follow someone? There's no way to configure the current platforms for that</p>
+<p>We should be able to follow playlists in social media - and be able to turn on notifications for them</p>
 <p>██████████████████████████████████████████████████████████████████</p>
 <h1 id="expressivity"><a class="header" href="#expressivity">Expressivity</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
@@ -2739,17 +2746,6 @@ When viewing a post - have the ability to choose wether to respect the OP’s bl
 <p>Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case no one hosts it in the future.</p>
 <p>Your personal knowledge base could be built with something like <a href="https://logseq.com/">Logseq</a> with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.</p>
 <p>Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.</p>
-<p>██████████████████████████████████████████████████████████████████</p>
-<h1 id="notifications--subscriptions"><a class="header" href="#notifications--subscriptions">Notifications &amp; subscriptions</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
-<p>Twitter decided that it needs to boost engagement and forced &quot;recent tweet&quot; notifications on us <a href="https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/">without the ability to turn them off</a> - that needs to stop - explicit preferences should be honored.</p>
-<blockquote>
-<p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/NavalismHQ/status/1556179585347112961">@naval</a></p>
-</blockquote>
-<p>When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular &amp; multidimensional for any type of event stream - like <code>&quot;show me everything from X unless from application A or message type T&quot;</code>. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.</p>
-<p>TODO: follow anything</p>
-<p>What if you wanted to see when someone follows something as an event/notification - each time they follow someone? There's no way to configure the current platforms for that</p>
-<p>We should be able to follow playlists in social media - and be able to turn on notifications for them</p>
 <p>██████████████████████████████████████████████████████████████████</p>
 <h1 id="centralized--fragmented-identitypreferences"><a class="header" href="#centralized--fragmented-identitypreferences">Centralized &amp; fragmented identity/preferences</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
