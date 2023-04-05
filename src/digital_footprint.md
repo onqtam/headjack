@@ -32,12 +32,12 @@ This is a rough scetch and we've omitted things such as edits, DMs, etc.
 
 <!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
 
-Let's consider the visibility spectrum - from **private** (personal)on one end to **public** on the other end and **shared in some group** in between. For example a fully private post or comment is basically a note to yourself. This is what is possible today for 3 of the biggest platforms:
+Let's consider the visibility spectrum - from **private** (personal) on one end to **public** on the other and **shared in some group** in between. Example: a fully private post or comment is basically a note to yourself. This is what is possible today for 3 of the biggest platforms:
 
 <div>
 <style type="text/css" scoped>
     .visibility_table {
-        margin-top: 15px;
+        margin-top: 20px;
     }
     .visibility_table td {
         padding: 0;
@@ -113,8 +113,8 @@ Let's consider the visibility spectrum - from **private** (personal)on one end t
 <tr>
     <td><b>Public</b></td> 
     <td style="background-color:green">Yes</td>
-    <td style="background-color:yellow">Can't browse them</td>
-    <td style="background-color:yellow">Only counted in aggregate</td>
+    <td style="background-color:yellow">Can't browse</td>
+    <td style="background-color:yellow">Aggregated</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -155,32 +155,32 @@ Let's consider the visibility spectrum - from **private** (personal)on one end t
 <tr>
     <td><b>Public</b></td> 
     <td style="background-color:green">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
 </tr>
 <tr>
     <td><b>Shared</b></td> 
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:grey">Not sure</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
 </tr>
 <tr>
     <td><b>Private</b></td> 
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
-    <td style="background-color:grey">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:grey">Not sure</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:grey">Not sure</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:grey">Not sure</td>
 </tr>
 </table>
 
