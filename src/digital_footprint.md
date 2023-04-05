@@ -11,7 +11,10 @@ In order to reconstruct we must first deconstruct. What types of actions & event
 - **Posts & documents** (sharing/retweeting, credentials & attestations are a type of post too)
 - **Comments** - on posts/documents and other comments
 - **Reactions** - to posts/documents/comments
-- **Profile** - information such as bio, profile picture, link to website
+- **Profile** - information such as bio, profile picture, link to website & linktree
+
+- **Social/interest graph** - your connections & subscriptions
+
 - **Settings & preferences** (+ browser extensions)
     - **Cosmetic** (UI) - colors, layout, hiding the "recommended videos" panel in YouTube with the "DF Tube - Distraction Free for YouTube" browser extension
     - **Functional** - filters, blocked accounts, choice of recommendation algorithm, etc.
@@ -29,12 +32,14 @@ This is a rough scetch and we've omitted things such as edits, DMs, etc.
 
 <!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
 
-Let's consider the visibility spectrum - from **private** (personal)on one end to **public** on the other end and **shared in some group** in between. This is what is possible today:
-
+Let's consider the visibility spectrum - from **private** (personal)on one end to **public** on the other end and **shared in some group** in between. For example a fully private post or comment is basically a note to yourself. This is what is possible today for 3 of the biggest platforms:
 
 <div>
 <style type="text/css" scoped>
-    .competition_comparison td {
+    .visibility_table {
+        margin-top: 15px;
+    }
+    .visibility_table td {
         padding: 0;
         margin: 0;
         width: 12%;
@@ -43,56 +48,141 @@ Let's consider the visibility spectrum - from **private** (personal)on one end t
         text-align: center;
         background-color:white;
     }
-    .competition_comparison td a:link {
+    .visibility_table td a:link {
         color: #0000EE;
         text-decoration: underline;
     }
-    .competition_comparison td a:visited {
+    .visibility_table td a:visited {
         color: #551A8B;
         text-decoration: underline;
     }
 </style>
-<table class="competition_comparison" style="width:120%;">
+<table class="visibility_table">
 <tr>
-    <td style="width:16%"></td>
-    <td><b>Headjack</b></td>
-    <td><b><a href="competition.md#farcaster">Farcaster</a></b></td>
-    <!-- https://www.farcaster.xyz/ -->
-    <td><b><a href="https://www.dsnp.org/">DSNP</a> & <a href="https://www.frequency.xyz/">Frequency</a></b></td>
-    <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a> & <a href="https://atproto.com/">AT Protocol</a></b></td>
-    <td><b><a href="https://developer.tbd.website/projects/web5/">TBD web5</a><br/><a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a> & <a href="https://twitter.com/namcios/status/1535302090360250368">tweet</a></b></td>
-    <td><b><a href="https://ceramic.network/">Ceramic</a> & <a href="https://cyberconnect.me/">CyberConnect</a></b></td>
-    <td><b><a href="https://lens.xyz/">Lens<br/>Protocol</a></b></td>
+    <td style="background-color:teal; width:16%"><b><u>Twitter</u></b></td>
+    <td><b>Posts & documents</b></td>
+    <td><b>Comments</b></td>
+    <td><b>Reactions</b></td>
+    <td><b>Profile</b></td>
+    <td><b>Settings & preferences</b></td>
+    <td><b>History</b></td>
+    <td><b>Bookmarks</b></td>
 </tr>
 <tr>
-    <td style="background-color:grey" colspan="8" height=25px><b>blockchain-related properties</b></td>
+    <td><b>Public</b></td> 
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
 </tr>
 <tr>
-    <td><b>Scalability & potential scope</b></td> 
-    <td style="background-color:green">can handle billions of users (<a href="numbers.md">proof</a>) & underpin the entire web</td>
-    <td style="background-color:lime">perhaps up to ~10 million - could move to its own rollup</td>
-    <td style="background-color:yellow">perhaps up to a few million  graph changes are on-chain</td>
-    <td style="background-color:green">centralized consortium of servers</td>
-    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
-    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
-    <td style="background-color:red">actions are on-chain as NFTs (follow, post's hash) - even a dedicated EVM chain will be futile</td>
+    <td><b>Shared</b></td> 
+    <td style="background-color:yellow">Only followers</td>
+    <td style="background-color:yellow">Only followers</td>
+    <td style="background-color:yellow">Only followers</td>
+    <td style="background-color:yellow">Only followers</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
 </tr>
 <tr>
-    <td><b>Users paying for TX fees & linking identity to financial accounts by default</b></td>
-    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
-    <td style="background-color:yellow">Ethereum L1 costs initially planned for subsidy by services</td>
-    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
-    <td style="background-color:green">centralized consortium of servers - no TXs</td>
-    <td style="background-color:lime">the anchors (on-chain Merkle roots) get batched with others</td>
-    <td style="background-color:yellow">only the stream anchors to Ethereum L1 have to be paid for occasionally</td>
-    <td style="background-color:red">yes</td>
+    <td><b>Private</b></td> 
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:green">Yes</td>
 </tr>
-
-|  | Posts & Comments | Reactions | Profile | Settings & preferences | History | Bookmarks |
-|-|-|-|-|-|-|-|
-| **public** | yes | possible today | ad |
-| **shared** | yes | possible today | ad |
-| **private** | no | not possible today | ad |
+</table>
+<table class="visibility_table">
+<tr>
+    <td style="background-color:teal; width:16%"><b><u>YouTube</u></b></td>
+    <td><b>Posts & documents</b></td>
+    <td><b>Comments</b></td>
+    <td><b>Reactions</b></td>
+    <td><b>Profile</b></td>
+    <td><b>Settings & preferences</b></td>
+    <td><b>History</b></td>
+    <td><b>Bookmarks</b></td>
+</tr>
+<tr>
+    <td><b>Public</b></td> 
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:yellow">Can't browse them</td>
+    <td style="background-color:yellow">Only counted in aggregate</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+</tr>
+<tr>
+    <td><b>Shared</b></td> 
+    <td style="background-color:yellow">Unlisted?</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+</tr>
+<tr>
+    <td><b>Private</b></td> 
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
+</tr>
+</table>
+<table class="visibility_table">
+<tr>
+    <td style="background-color:teal; width:16%"><b><u>Facebook</u></b></td>
+    <td><b>Posts & documents</b></td>
+    <td><b>Comments</b></td>
+    <td><b>Reactions</b></td>
+    <td><b>Profile</b></td>
+    <td><b>Settings & preferences</b></td>
+    <td><b>History</b></td>
+    <td><b>Bookmarks</b></td>
+</tr>
+<tr>
+    <td><b>Public</b></td> 
+    <td style="background-color:green">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+</tr>
+<tr>
+    <td><b>Shared</b></td> 
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+</tr>
+<tr>
+    <td><b>Private</b></td> 
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+    <td style="background-color:grey">Yes</td>
+</tr>
+</table>
 
 What if we could choose the visibility of any of the types of actions listed above?
 
@@ -102,12 +192,9 @@ But why? Who could make use of this? Perhaps public individuals & streamers who 
 
 This might not always be a good idea (users could mess up and make something private public by accident), but it should be possible and we have already learned to use incognito windows as a pattern so such a shift is not be impossible.
 
-
-For example fully private comment is basically a note to yourself.
-
 I should be able to signal that if I wish
 
-
+expressivity
 
 
 There are a couple of things to observe:
