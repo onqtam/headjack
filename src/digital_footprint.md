@@ -4,26 +4,67 @@
 
 ██████████████████████████████████████████████████████████████████
 # Anatomy of your digital footprint
+<!-- # Deconstructing your digital footprint -->
 ██████████████████████████████████████████████████████████████████
-in order to reconstruct we must first deconstruct - the foundations of you digital footprint
 
-the building blocks of digital media
-"deconstructing your digital footprint"
+<!-- In order to reconstruct we must first deconstruct. What are the building blocks & types of events for data?
 
-even browser extensions should be counted as preferences - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
+In order to reconstruct we must first deconstruct. What are the building blocks & events that result in more data? -->
+
+In order to reconstruct we must first deconstruct. What types of actions & events result in more data? What are the building blocks?
+
+- Creating posts & documents (including edits to them)
+    - Sharing/retweeting - a type of post
+- Comments - on posts/documents and other comments
+- Reactions - to posts/documents/comments
+- History of what's been viewed/visited - 2 types:
+    - Browser history (can be synced across devices with cloud accounts)
+    - App-specific history (YouTube has a watched videos list but Twitter has no such thing)
+        - Playback progress is a special type of app-specific history - YouTube & Spotify store & show it for any item (but not which parts of the timeline have been viewed (like a barcode) - and thus moving the playback cursor changes your "progress")
+- Bookmarks
+    - browser & app-specific (Twitter)
+- settings & preferences
+    - these can be cosmetic (UI - colors, layout) or functional ()
+
+
+The other spectrum is visibility - from private (personal) to shared in some group and to public.
+
+There are a couple of things to observe:
+
+- In a parallel universe there wouldn't be any restrictions on the types of actions we might take - like sharing, reacting to, or commenting on a reaction of someone else.
+
+- Currently all these are segregated between disparate platforms with separate accounts 
+
+Many of the actions you consider private (history) are being used by 
+
+Consider the following:
+- What if we could mix & match any of the above?
+- What if we had "playback progress" even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.
+
+
+For example a fully private comment is basically a note to yourself.
+
+even browser extensions should be counted as preferences/settings - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
 
 Public/private mode for the entire account
 
 toggling privacy levels (users could mess that up though...)
 
+For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here.
+
+██████████████████████████████████████████████████████████████████
+<!-- # Multidimensionality & subscriptions -->
+# Connections & multidimensional subscriptions
+██████████████████████████████████████████████████████████████████
+
 <img src="images/multidimensionality_cropped.png">
 
-
-██████████████████████████████████████████████████████████████████
-# Multidimensionality & subscriptions
-██████████████████████████████████████████████████████████████████
-
 configuration attributes to accounts
+
+Separate type of connection for friendlyness
+connection != subscription
+
+
 
 history of seen tweets - like history of watched videos on youtube
 

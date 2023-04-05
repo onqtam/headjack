@@ -56,6 +56,9 @@ https://en.wiktionary.org/wiki/calculemus
 https://twitter.com/george__mack/status/1641134999406780417
 TODO: how to transform this and turn it into a global "top 7" dashboard/chart? and in the semantic web?
 
+What if we could all signal our top X biggest concerns?
+
+One of the biggest drawbacks of language-based communication is the inability to aggregate & analyze sentiment unambiguously and throughout time.
 
 
 
@@ -73,11 +76,6 @@ clips are reuploaded because uploaders would get the revenue... this needs a sol
 
 
 
-
-
-== double addressing?
-headjack://app_id/nonce/user_id/content_id
-headjack2://user_id:concept_id
 
 The price of authority is legitimacy and reputation/track record/authenticity
 
@@ -221,12 +219,9 @@ immutability, reputation and the ability to see everything relevant to an identi
 
 "here are the 5 things that have made the biggest impression on me (or are the most underrated): "and actually list them! MC course, Carl Sagan's cosmos, Naval, Fall of civilizations. We can signal values and from that public info later decide which people to join/partner with towards a common cause. We can make a heatmap of the global (& local!) causes that people care about, and to what degree
 
-Separate type of connection for friendlyness
-connection != subscription
-
 not only sensemaking but also meaningmaking - collective progress and transparency through immutability, identity, deduplication & connectedness
 
-Fractal protocol - whats possible with your private data
+
 
 the metaverse is about agency - the ability to express yourself any way you want
 
@@ -1006,6 +1001,16 @@ context could be application/tag/campaign/post/etc.
 
 
 move from @handle to full names in citations
+
+
+Fractal protocol - what's possible with your private data
+
+
+
+
+== double addressing?
+headjack://app_id/nonce/user_id/content_id
+headjack2://user_id:concept_id
 
 
 
