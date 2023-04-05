@@ -4,51 +4,125 @@
 
 ██████████████████████████████████████████████████████████████████
 # Anatomy of your digital footprint
-<!-- # Deconstructing your digital footprint -->
 ██████████████████████████████████████████████████████████████████
 
-<!-- In order to reconstruct we must first deconstruct. What are the building blocks & types of events for data?
+In order to reconstruct we must first deconstruct. What types of actions & events result in a trail of more data? What are the building blocks?
 
-In order to reconstruct we must first deconstruct. What are the building blocks & events that result in more data? -->
+- **Posts & documents** (sharing/retweeting, credentials & attestations are a type of post too)
+- **Comments** - on posts/documents and other comments
+- **Reactions** - to posts/documents/comments
+- **Profile** - information such as bio, profile picture, link to website
+- **Settings & preferences** (+ browser extensions)
+    - **Cosmetic** (UI) - colors, layout, hiding the "recommended videos" panel in YouTube with the "DF Tube - Distraction Free for YouTube" browser extension
+    - **Functional** - filters, blocked accounts, choice of recommendation algorithm, etc.
+- **History** of what's been viewed/visited - 2 types:
+    - **Browser** history (can be synced across devices with cloud accounts)
+    - **App-specific** history (YouTube has a watched videos list but Twitter has no such thing)
+        - playback progress is a special type of app-specific history - YouTube & Spotify store & show it for any item (but not which parts of the timeline have been viewed (like a barcode) - and thus moving the playback cursor changes your "progress")
+- **Bookmarks**: browser & app-specific (Twitter) - wildly inferior to specialized note-taking apps
 
-In order to reconstruct we must first deconstruct. What types of actions & events result in more data? What are the building blocks?
+This is a rough scetch and we've omitted things such as edits, DMs, etc.
 
-- Creating posts & documents (including edits to them)
-    - Sharing/retweeting - a type of post
-- Comments - on posts/documents and other comments
-- Reactions - to posts/documents/comments
-- History of what's been viewed/visited - 2 types:
-    - Browser history (can be synced across devices with cloud accounts)
-    - App-specific history (YouTube has a watched videos list but Twitter has no such thing)
-        - Playback progress is a special type of app-specific history - YouTube & Spotify store & show it for any item (but not which parts of the timeline have been viewed (like a barcode) - and thus moving the playback cursor changes your "progress")
-- Bookmarks
-    - browser & app-specific (Twitter)
-- settings & preferences
-    - these can be cosmetic (UI - colors, layout) or functional ()
+██████████████████████████████████████████████████████████████████
+# The 2D visibility matrix
+██████████████████████████████████████████████████████████████████
+
+<!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
+
+Let's consider the visibility spectrum - from **private** (personal)on one end to **public** on the other end and **shared in some group** in between. This is what is possible today:
 
 
-The other spectrum is visibility - from private (personal) to shared in some group and to public.
+<div>
+<style type="text/css" scoped>
+    .competition_comparison td {
+        padding: 0;
+        margin: 0;
+        width: 12%;
+        color: black;
+        font-size: 12px;
+        text-align: center;
+        background-color:white;
+    }
+    .competition_comparison td a:link {
+        color: #0000EE;
+        text-decoration: underline;
+    }
+    .competition_comparison td a:visited {
+        color: #551A8B;
+        text-decoration: underline;
+    }
+</style>
+<table class="competition_comparison" style="width:120%;">
+<tr>
+    <td style="width:16%"></td>
+    <td><b>Headjack</b></td>
+    <td><b><a href="competition.md#farcaster">Farcaster</a></b></td>
+    <!-- https://www.farcaster.xyz/ -->
+    <td><b><a href="https://www.dsnp.org/">DSNP</a> & <a href="https://www.frequency.xyz/">Frequency</a></b></td>
+    <td><b><a href="https://en.wikipedia.org/wiki/Bluesky_(protocol)">Bluesky</a> & <a href="https://atproto.com/">AT Protocol</a></b></td>
+    <td><b><a href="https://developer.tbd.website/projects/web5/">TBD web5</a><br/><a href="https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E">slides</a> & <a href="https://twitter.com/namcios/status/1535302090360250368">tweet</a></b></td>
+    <td><b><a href="https://ceramic.network/">Ceramic</a> & <a href="https://cyberconnect.me/">CyberConnect</a></b></td>
+    <td><b><a href="https://lens.xyz/">Lens<br/>Protocol</a></b></td>
+</tr>
+<tr>
+    <td style="background-color:grey" colspan="8" height=25px><b>blockchain-related properties</b></td>
+</tr>
+<tr>
+    <td><b>Scalability & potential scope</b></td> 
+    <td style="background-color:green">can handle billions of users (<a href="numbers.md">proof</a>) & underpin the entire web</td>
+    <td style="background-color:lime">perhaps up to ~10 million - could move to its own rollup</td>
+    <td style="background-color:yellow">perhaps up to a few million  graph changes are on-chain</td>
+    <td style="background-color:green">centralized consortium of servers</td>
+    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
+    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
+    <td style="background-color:red">actions are on-chain as NFTs (follow, post's hash) - even a dedicated EVM chain will be futile</td>
+</tr>
+<tr>
+    <td><b>Users paying for TX fees & linking identity to financial accounts by default</b></td>
+    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
+    <td style="background-color:yellow">Ethereum L1 costs initially planned for subsidy by services</td>
+    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
+    <td style="background-color:green">centralized consortium of servers - no TXs</td>
+    <td style="background-color:lime">the anchors (on-chain Merkle roots) get batched with others</td>
+    <td style="background-color:yellow">only the stream anchors to Ethereum L1 have to be paid for occasionally</td>
+    <td style="background-color:red">yes</td>
+</tr>
+
+|  | Posts & Comments | Reactions | Profile | Settings & preferences | History | Bookmarks |
+|-|-|-|-|-|-|-|
+| **public** | yes | possible today | ad |
+| **shared** | yes | possible today | ad |
+| **private** | no | not possible today | ad |
+
+What if we could choose the visibility of any of the types of actions listed above?
+
+We could set different default visibility levels for different types of actions, have the ability to override the visibility of any individual item and even have an identity-wide visibility toggle between public & private (similar to when you open an incognito browser window and (hopefully) not have any of your history recorded & correlated with your identity).
+
+But why? Who could make use of this? Perhaps public individuals & streamers who are digging into something and want to make their digital trail for the session more easily accessible, analyzable & followable.
+
+This might not always be a good idea (users could mess up and make something private public by accident), but it should be possible and we have already learned to use incognito windows as a pattern so such a shift is not be impossible.
+
+
+For example fully private comment is basically a note to yourself.
+
+I should be able to signal that if I wish
+
+
+
 
 There are a couple of things to observe:
 
+- We're limited to only what product managers in the internet companies have decided is worthwhile for them to implement
+    - We're restricted to only what makes sense for them & the lowest common denominator
 - In a parallel universe there wouldn't be any restrictions on the types of actions we might take - like sharing, reacting to, or commenting on a reaction of someone else.
 
-- Currently all these are segregated between disparate platforms with separate accounts 
+- Currently all these are segregated between disparate platforms with separate accounts
 
 Many of the actions you consider private (history) are being used by 
 
 Consider the following:
 - What if we could mix & match any of the above?
 - What if we had "playback progress" even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.
-
-
-For example a fully private comment is basically a note to yourself.
-
-even browser extensions should be counted as preferences/settings - for example I use a youtube addon that hides the recommended videos on the side - I should be able to signal that if I wish
-
-Public/private mode for the entire account
-
-toggling privacy levels (users could mess that up though...)
 
 For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here.
 
@@ -92,13 +166,6 @@ multidimensionality - think about what "friendship" is
 
 inoreader for example allows you with a paid feature to construct rules for subcriptions such as "mark as read anything that contains the string #shorts" - we can have this, but generalized and for anything
 
-The building blocks of media are:
-- data tied to identities
-- preferences (which are also data)
-- the public/private spectrum for data
-- credentials & attestations
-- the public/private spectrum
-
 multi dimensionalism of accounts section
 What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
 https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
@@ -139,7 +206,7 @@ Making the individual count
 
 Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
 ██████████████████████████████████████████████████████████████████
-# IDMs & your personal cloud
+# IDMs: one cloud to rule them all
 ██████████████████████████████████████████████████████████████████
 
 What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?
