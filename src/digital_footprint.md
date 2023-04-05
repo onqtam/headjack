@@ -12,9 +12,7 @@ In order to reconstruct we must first deconstruct. What types of actions & event
 - **Comments** - on posts/documents and other comments
 - **Reactions** - to posts/documents/comments
 - **Profile** - information such as bio, profile picture, link to website & linktree
-
-- **Social/interest graph** - your connections & subscriptions
-
+- **Social graph** (also interest graph) - your connections & subscriptions
 - **Settings & preferences** (+ browser extensions)
     - **Cosmetic** (UI) - colors, layout, hiding the "recommended videos" panel in YouTube with the "DF Tube - Distraction Free for YouTube" browser extension
     - **Functional** - filters, blocked accounts, choice of recommendation algorithm, etc.
@@ -32,7 +30,7 @@ This is a rough scetch and we've omitted things such as edits, DMs, etc.
 
 <!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
 
-Let's consider the visibility spectrum - from **private** (personal) on one end to **public** on the other and **shared in some group** in between. Example: a fully private post or comment is basically a note to yourself. This is what is possible today for 3 of the biggest platforms:
+Let's consider the visibility spectrum - from **private** (personal) on one end to **public** on the other and **shared in some group** in between. Example: a fully private post or comment is basically a note to yourself. This is what's possible today for 3 of the biggest platforms:
 
 <div>
 <style type="text/css" scoped>
@@ -64,12 +62,14 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
     <td><b>Profile</b></td>
+    <td><b>Social graph</b></td>
     <td><b>Settings & preferences</b></td>
     <td><b>History</b></td>
     <td><b>Bookmarks</b></td>
 </tr>
 <tr>
     <td><b>Public</b></td> 
+    <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
@@ -84,6 +84,7 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td style="background-color:yellow">Only followers</td>
     <td style="background-color:yellow">Only followers</td>
     <td style="background-color:yellow">Only followers</td>
+    <td style="background-color:grey">Not sure</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -94,6 +95,7 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
+    <td style="background-color:yellow">Only as lists</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:red">No</td>
     <td style="background-color:green">Yes</td>
@@ -106,6 +108,7 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
     <td><b>Profile</b></td>
+    <td><b>Social graph</b></td>
     <td><b>Settings & preferences</b></td>
     <td><b>History</b></td>
     <td><b>Bookmarks</b></td>
@@ -119,10 +122,12 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
 </tr>
 <tr>
     <td><b>Shared</b></td> 
     <td style="background-color:yellow">Unlisted?</td>
+    <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -136,6 +141,7 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
+    <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
@@ -148,12 +154,14 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
     <td><b>Profile</b></td>
+    <td><b>Social graph</b></td>
     <td><b>Settings & preferences</b></td>
     <td><b>History</b></td>
     <td><b>Bookmarks</b></td>
 </tr>
 <tr>
     <td><b>Public</b></td> 
+    <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
@@ -168,19 +176,21 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:grey">Not sure</td>
+    <td style="background-color:green">Yes</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
 </tr>
 <tr>
     <td><b>Private</b></td> 
-    <td style="background-color:green">Yes</td>
+    <td style="background-color:grey">Not sure</td>
     <td style="background-color:grey">Not sure</td>
     <td style="background-color:red">No</td>
     <td style="background-color:grey">Not sure</td>
     <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
     <td style="background-color:red">No</td>
-    <td style="background-color:grey">Not sure</td>
+    <td style="background-color:red">No</td>
 </tr>
 </table>
 
@@ -190,12 +200,13 @@ We could set different default visibility levels for different types of actions,
 
 But why? Who could make use of this? Perhaps public individuals & streamers who are digging into something and want to make their digital trail for the session more easily accessible, analyzable & followable.
 
-This might not always be a good idea (users could mess up and make something private public by accident), but it should be possible and we have already learned to use incognito windows as a pattern so such a shift is not be impossible.
+This might not always be a good idea (complexity could be too high & users might mess up and make something public by accident), but it should be possible and we have already learned to use incognito windows as a pattern - such shifts are possible.
 
 I should be able to signal that if I wish
 
 expressivity
 
+Currently only the platforms decide what to do with that data - we might want to share it with other developers & analysts in order to get better products and insight. This is a power imbalance
 
 There are a couple of things to observe:
 

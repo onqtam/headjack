@@ -168,30 +168,18 @@
 <p>██████████████████████████████████████████████████████████████████</p>
 <p>In order to reconstruct we must first deconstruct. What types of actions &amp; events result in a trail of more data? What are the building blocks?</p>
 <ul>
-<li>
-<p><strong>Posts &amp; documents</strong> (sharing/retweeting, credentials &amp; attestations are a type of post too)</p>
-</li>
-<li>
-<p><strong>Comments</strong> - on posts/documents and other comments</p>
-</li>
-<li>
-<p><strong>Reactions</strong> - to posts/documents/comments</p>
-</li>
-<li>
-<p><strong>Profile</strong> - information such as bio, profile picture, link to website &amp; linktree</p>
-</li>
-<li>
-<p><strong>Social/interest graph</strong> - your connections &amp; subscriptions</p>
-</li>
-<li>
-<p><strong>Settings &amp; preferences</strong> (+ browser extensions)</p>
+<li><strong>Posts &amp; documents</strong> (sharing/retweeting, credentials &amp; attestations are a type of post too)</li>
+<li><strong>Comments</strong> - on posts/documents and other comments</li>
+<li><strong>Reactions</strong> - to posts/documents/comments</li>
+<li><strong>Profile</strong> - information such as bio, profile picture, link to website &amp; linktree</li>
+<li><strong>Social graph</strong> (also interest graph) - your connections &amp; subscriptions</li>
+<li><strong>Settings &amp; preferences</strong> (+ browser extensions)
 <ul>
 <li><strong>Cosmetic</strong> (UI) - colors, layout, hiding the &quot;recommended videos&quot; panel in YouTube with the &quot;DF Tube - Distraction Free for YouTube&quot; browser extension</li>
 <li><strong>Functional</strong> - filters, blocked accounts, choice of recommendation algorithm, etc.</li>
 </ul>
 </li>
-<li>
-<p><strong>History</strong> of what's been viewed/visited - 2 types:</p>
+<li><strong>History</strong> of what's been viewed/visited - 2 types:
 <ul>
 <li><strong>Browser</strong> history (can be synced across devices with cloud accounts)</li>
 <li><strong>App-specific</strong> history (YouTube has a watched videos list but Twitter has no such thing)
@@ -201,16 +189,14 @@
 </li>
 </ul>
 </li>
-<li>
-<p><strong>Bookmarks</strong>: browser &amp; app-specific (Twitter) - wildly inferior to specialized note-taking apps</p>
-</li>
+<li><strong>Bookmarks</strong>: browser &amp; app-specific (Twitter) - wildly inferior to specialized note-taking apps</li>
 </ul>
 <p>This is a rough scetch and we've omitted things such as edits, DMs, etc.</p>
 <p>██████████████████████████████████████████████████████████████████</p>
 <h1 id="the-2d-visibility-matrix"><a class="header" href="#the-2d-visibility-matrix">The 2D visibility matrix</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
 <!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
-<p>Let's consider the visibility spectrum - from <strong>private</strong> (personal) on one end to <strong>public</strong> on the other and <strong>shared in some group</strong> in between. Example: a fully private post or comment is basically a note to yourself. This is what is possible today for 3 of the biggest platforms:</p>
+<p>Let's consider the visibility spectrum - from <strong>private</strong> (personal) on one end to <strong>public</strong> on the other and <strong>shared in some group</strong> in between. Example: a fully private post or comment is basically a note to yourself. This is what's possible today for 3 of the biggest platforms:</p>
 <div>
 <style type="text/css" scoped>
     .visibility_table {
@@ -241,12 +227,14 @@
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
     <td><b>Profile</b></td>
+    <td><b>Social graph</b></td>
     <td><b>Settings & preferences</b></td>
     <td><b>History</b></td>
     <td><b>Bookmarks</b></td>
 </tr>
 <tr>
     <td><b>Public</b></td> 
+    <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
@@ -261,6 +249,7 @@
     <td style="background-color:yellow">Only followers</td>
     <td style="background-color:yellow">Only followers</td>
     <td style="background-color:yellow">Only followers</td>
+    <td style="background-color:grey">Not sure</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -271,6 +260,7 @@
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
+    <td style="background-color:yellow">Only as lists</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:red">No</td>
     <td style="background-color:green">Yes</td>
@@ -283,6 +273,7 @@
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
     <td><b>Profile</b></td>
+    <td><b>Social graph</b></td>
     <td><b>Settings & preferences</b></td>
     <td><b>History</b></td>
     <td><b>Bookmarks</b></td>
@@ -296,10 +287,12 @@
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
+    <td style="background-color:red">No</td>
 </tr>
 <tr>
     <td><b>Shared</b></td> 
     <td style="background-color:yellow">Unlisted?</td>
+    <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -313,6 +306,7 @@
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
+    <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
@@ -325,12 +319,14 @@
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
     <td><b>Profile</b></td>
+    <td><b>Social graph</b></td>
     <td><b>Settings & preferences</b></td>
     <td><b>History</b></td>
     <td><b>Bookmarks</b></td>
 </tr>
 <tr>
     <td><b>Public</b></td> 
+    <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
@@ -345,27 +341,30 @@
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:grey">Not sure</td>
+    <td style="background-color:green">Yes</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
 </tr>
 <tr>
     <td><b>Private</b></td> 
-    <td style="background-color:green">Yes</td>
+    <td style="background-color:grey">Not sure</td>
     <td style="background-color:grey">Not sure</td>
     <td style="background-color:red">No</td>
     <td style="background-color:grey">Not sure</td>
     <td style="background-color:green">Yes</td>
+    <td style="background-color:green">Yes</td>
     <td style="background-color:red">No</td>
-    <td style="background-color:grey">Not sure</td>
+    <td style="background-color:red">No</td>
 </tr>
 </table>
 <p>What if we could choose the visibility of any of the types of actions listed above?</p>
 <p>We could set different default visibility levels for different types of actions, have the ability to override the visibility of any individual item and even have an identity-wide visibility toggle between public &amp; private (similar to when you open an incognito browser window and (hopefully) not have any of your history recorded &amp; correlated with your identity).</p>
 <p>But why? Who could make use of this? Perhaps public individuals &amp; streamers who are digging into something and want to make their digital trail for the session more easily accessible, analyzable &amp; followable.</p>
-<p>This might not always be a good idea (users could mess up and make something private public by accident), but it should be possible and we have already learned to use incognito windows as a pattern so such a shift is not be impossible.</p>
+<p>This might not always be a good idea (complexity could be too high &amp; users might mess up and make something public by accident), but it should be possible and we have already learned to use incognito windows as a pattern - such shifts are possible.</p>
 <p>I should be able to signal that if I wish</p>
 <p>expressivity</p>
+<p>Currently only the platforms decide what to do with that data - we might want to share it with other developers &amp; analysts in order to get better products and insight. This is a power imbalance</p>
 <p>There are a couple of things to observe:</p>
 <ul>
 <li>
