@@ -2,6 +2,46 @@
 
 
 
+
+- Your digital footprint
+    - Anatomy of your digital footprint
+    - Multidimensionality & subscriptions
+    - Expressivity
+    - IDMs & your personal cloud
+    - Bookmarks & playlists
+    - Notifications & subscriptions
+    - Centralized & fragmented identity/preferences
+
+- Web 3: the Giant Global Graph
+    - Show everything related - "Pull that up Jamie"
+    - Curators & labelers
+
+
+"THE LIMITS OF LANGUAGE"
+
+- Incentives & algorithms
+
+- organizing information
+    - drowning in language
+    - structured data & machine readability
+    - Thought-graphs as the source of long-form
+
+
+- a
+- a
+    - bb
+    - ga
+- a
+
+
+
+
+
+
+
+
+
+
 <!-- toc -->
 
 
