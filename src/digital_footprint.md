@@ -22,7 +22,7 @@ In order to reconstruct we must first deconstruct. What types of actions & event
         - playback progress is a special type of app-specific history - YouTube & Spotify store & show it for any item (but not which parts of the timeline have been viewed (like a barcode) - and thus moving the playback cursor changes your "progress")
 - **Bookmarks**: browser & app-specific (Twitter) - wildly inferior to specialized note-taking apps
 
-This is a rough scetch and we've omitted things such as edits, DMs, etc.
+This is a rough scetch and we've omitted things such as edits, DMs, etc. Today we're left with only what product managers in Big Tech have decided is worthwhile for them to implement. For example we're unable to react or comment on the reaction of someone else. Does it always make sense to do so? No, but it should be possible. We're limited to the lowest common denominator of functionality.
 
 ██████████████████████████████████████████████████████████████████
 # The 2D visibility & accessibility matrix
@@ -165,7 +165,7 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
+    <td style="background-color:yellow">Only friends</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -176,7 +176,7 @@ Let's consider the visibility spectrum - from **private** (personal) on one end 
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:grey">Not sure</td>
-    <td style="background-color:green">Yes</td>
+    <td style="background-color:yellow">Only friends</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -203,15 +203,15 @@ But why would we want this flexibility? A few examples:
 - **Settings & preferences**: we could aggregate and analyze the shifts in public preferences throughout time - enabling better and more organic discoverability of tools and settings.
 - Both **history** and **settings & preferences** can be shared not just publicly but also selectively with entities so that we can monetize our own data. Currently our behavioral patterns are closed & being data mined by companies which make decisions in their own best interest.
 
-A key piece of the puzzle is moving away from the host-centric web by linking data to identity so that it can be seamlessly exported and addressed in a uniform way. Today we're left with only what product managers in Big Tech have decided is worthwhile for them to implement. For example we're unable to react or comment on the reaction of someone else. Does it always make sense to do so? No, but it should be possible. We're limited to the lowest common denominator of functionality.
-
-The freedom to share is a form of expression and agency. We should have granular control.
+The freedom to share is a form of expression and agency - we should have granular control. A key piece of the puzzle is moving away from the host-centric web by linking data to identity so that it can be seamlessly exported and addressed in a uniform way.
 
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 
 ██████████████████████████████████████████████████████████████████
 # Connections & multidimensional subscriptions
 ██████████████████████████████████████████████████████████████████
+
+Today's form of relations in social media is very primitive. You're either connected or 
 
 <img src="images/multidimensionality_cropped.png">
 
