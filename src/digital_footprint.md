@@ -25,12 +25,12 @@ In order to reconstruct we must first deconstruct. What types of actions & event
 This is a rough scetch and we've omitted things such as edits, DMs, etc. Today we're left with only what product managers in Big Tech have decided is worthwhile for them to implement. For example we're unable to react or comment on the reaction of someone else. Does it always make sense to do so? No, but it should be possible. We're limited to the lowest common denominator of functionality.
 
 ██████████████████████████████████████████████████████████████████
-# The 2D visibility & accessibility matrix
+# The 2D visibility/accessibility matrix
 ██████████████████████████████████████████████████████████████████
 
 <!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
 
-Let's consider the visibility spectrum - from **private** (personal) on one end to **public** on the other and **shared in some group** in between. Example: a fully private comment is basically a note to yourself. This is what's possible today for 3 of the biggest platforms:
+Let's consider the visibility spectrum - from **private** (personal) on one end to **public** on the other and **shared in some group** in between (anonymity will be explored elsewhere). Example: a fully private comment is basically a note to yourself. Here's what's possible with 3 Big Tech platforms:
 
 <div>
 <style type="text/css" scoped>
@@ -208,35 +208,28 @@ The freedom to share is a form of expression and agency - we should have granula
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 
 ██████████████████████████████████████████████████████████████████
-# Connections & multidimensional subscriptions
+<!-- # Connections & multidimensional subscriptions -->
+# Connections, granular subscriptions & control
 ██████████████████████████████████████████████████████████████████
 
-Today's form of relations in social media is very primitive. You're either connected or 
+Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow (at least Facebook does) - you can't have access to someone's private photos without also following them. This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: `"How come you're not following me?"` - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook).
 
 <img src="images/multidimensionality_cropped.png">
 
-configuration attributes to accounts
+What if we could separate being connected from the subscription of updates - AKA following?
+And what if we could choose the visibility of our subscriptions?
 
-Separate type of connection for friendlyness
-connection != subscription
 
 we have many facets to our personalities - we could share a lot more
 we are social creatures
 
-complete control of what is public and what is not - what digital trail you leave, and the ability to subscribe to anything for events
-
-not multidimensional subscriptions but fractal/granular
+the ability to subscribe to anything for events
 
 this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's demand & a business model for it
 
 what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
 
 YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that #shorts are given to you just like normal videos. We should be able to filter that out. Take for example [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) - this is their [rss feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw) and it has everything in there - and we have no easy way to filter it.
-
-how to think about the digital world
-- public/private
-- anonymous/
-what can we build on top of this?
 
 add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
 
