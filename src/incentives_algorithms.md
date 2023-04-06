@@ -76,6 +76,8 @@ We as a society dont know ourselves en masse - only a few companies are in that 
 
 Context switching is terrible for the brain - Twitter is an ADHD/ADD machine
 
+the current system/algorithms aren't simply giving people what they want - they're manufacturing demand - they make people more predictable and train humans to stay more on the site.
+
 We're the cattle and the platforms are our ranchers
 The media incentive alignment problem: what we're allowed to do with public data with no programmatic access to it
 "realigning incentives"
@@ -88,8 +90,6 @@ Headjack gives you the option to export your data away from any service which wi
 the host-centric model allows for platforms to own our content, which leads to misaligned incentives:
 time spent: user disempowerment - everything is AI controlled & recommender systems all the way down - attention maximization
 time well spent: user empowerment in being able to control what they want to see & how much of it
-
-> "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
 
 YouTube recently removed the option to sort the videos of a channel by oldest first - because why not - because they can.
 

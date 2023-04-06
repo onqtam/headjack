@@ -3,6 +3,25 @@
 <!-- toc -->
 
 ██████████████████████████████████████████████████████████████████
+# Status quo: centralized & fragmented identity
+<!-- # Centralization & fragmentation due to convenience & network effects -->
+██████████████████████████████████████████████████████████████████
+
+> "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
+
+Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few players with network effects & [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality.
+
+> "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
+
+But despite the concentration of SSO services a lot of identity-related activity is fragmented between platforms due to the lack of standards & interoperability: settings/preferences, [direct messages](https://twitter.com/jonwu_/status/1524886818725847040), bookmarks, playlists, progress bars, etc.
+
+> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
+
+Contrast that to a world on top of a shared identity network with interoperable & exportable data:
+
+> “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
+
+██████████████████████████████████████████████████████████████████
 # Anatomy of your digital footprint
 ██████████████████████████████████████████████████████████████████
 
@@ -208,53 +227,35 @@ The freedom to share is a form of expression and agency - we should have granula
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 
 ██████████████████████████████████████████████████████████████████
-<!-- # Connections & multidimensional subscriptions -->
 # Connections, granular subscriptions & control
 ██████████████████████████████████████████████████████████████████
 
-Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow (at least Facebook does) - you can't have access to someone's private photos without also following them. This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: `"How come you're not following me?"` - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook).
+Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow - you can't have access to someone's private photos without also following them (at least Facebook has this distinction). This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: `"How come you're not following me?"` - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook). YouTube subscriptions became a mere hint to the recommendation algorithm over time because the platform knows better where your attention should be spent - that's why creators have been nudging users to also `"hit the bell icon"` - a harder & more explicit form of subscription.
+
+We are complex beings with different interests & aspects to our personalities - that's why there are many many apps to address different needs & verticals: Reddit, Twitter, YouTube, Facebook, TikTok, Instagram, Goodreads, Medium, Quora, StackExchange, etc. We are multidimensional:
 
 <img src="images/multidimensionality_cropped.png">
 
-What if we could separate being connected from the subscription of updates - AKA following?
-And what if we could choose the visibility of our subscriptions?
+But that comes at a cost: fragmented identity, duplication & lack of composability. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others - with the ability to control the visibility of our preferences? The ultimate subscription network:
 
+<!--
+TODO:
+add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
+-->
 
-we have many facets to our personalities - we could share a lot more
-we are social creatures
-
-the ability to subscribe to anything for events
-
-this would be the ultimate subscription network - where you could subscribe to any type of data feed - as long as there's demand & a business model for it
+- `"follow"`
+- explicitly include/exclude based on:
+    - application source - `"I want everything from account A from app B"`
+    - content type - `"I want every picture from account A from any app"`
+    - custom filters (contains `"X"` word)
 
 what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
 
-YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that #shorts are given to you just like normal videos. We should be able to filter that out. Take for example [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) - this is their [rss feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw) and it has everything in there - and we have no easy way to filter it.
-
-add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
-
-multidimensionality - think about what "friendship" is
-
-inoreader for example allows you with a paid feature to construct rules for subcriptions such as "mark as read anything that contains the string #shorts" - we can have this, but generalized and for anything
-
-multi dimensionalism of accounts section
-What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
-https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
+YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that `#shorts` are given to you along with normal videos. We should be able to filter that out. Take for example [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) - this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw) and it has everything in there - and we have no easy way to filter it.
 
 
-list explicitly all the different aspects of an online presence - goodreads, medium, quora, stack exchange, reddit, twitter, etc.
+InoReader for example allows you with a paid feature to construct rules for subcriptions such as "mark as read anything that contains the string #shorts" - we can have this, but generalized and for anything
 
-your profile page - a linktree-like thing
-every change, every edit, every commit - all could be linked to your identity if you wished it
-ON WHY WE NEED SOMETHING LIKE linktree:
-Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of @jason”
-https://twitter.com/Jason/status/1636464901911904257
-
-
-
-view profile relevant to the current app VS view full profile with all activity
-
-copy & follow the viewing preferences of others
 
 When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
 
@@ -272,22 +273,18 @@ What if you wanted to see when someone follows something as an event/notificatio
 
 We should be able to follow playlists in social media - and be able to turn on notifications for them
 
-██████████████████████████████████████████████████████████████████
-# Expressivity
-██████████████████████████████████████████████████████████████████
+# Linktree is the symptom, Headjack is the cure
 
-A data network in which your input matters in an uncountable number of ways
-Expressivity!
-I want YOU to help build the metabrain
-To be a good little neuron
+view profile relevant to the current app VS view full profile with all activity
 
-> "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
+your profile page - a linktree-like thing
+every change, every edit, every commit - all could be linked to your identity if you wished it
+ON WHY WE NEED SOMETHING LIKE linktree:
+Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of @jason”
+https://twitter.com/Jason/status/1636464901911904257
 
-Realizing humanity’s potential for expression at scale
+[Linktree](https://en.wikipedia.org/wiki/Linktree) is just a bandaid for today’s fragmentation of identity ([valued at 1.3B$](https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/)) - it is a symptom.
 
-Making the individual count
-
-Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
 ██████████████████████████████████████████████████████████████████
 # IDMs: one cloud to rule them all
 ██████████████████████████████████████████████████████████████████
@@ -331,24 +328,24 @@ Your personal knowledge base could be built with something like [Logseq](https:/
 
 Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.
 
-
 ██████████████████████████████████████████████████████████████████
-# Centralized & fragmented identity/preferences
+# Expressivity
 ██████████████████████████████████████████████████████████████████
 
-Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few players with network effects & [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality.
+A data network in which your input matters in an uncountable number of ways
+Expressivity!
+I want YOU to help build the metabrain
+To be a good little neuron
 
-> "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
+> "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
 
-But despite the concentration of SSO services a lot of identity-related activity is fragmented between platforms due to the lack of standards & interoperability: settings/preferences, [direct messages](https://twitter.com/jonwu_/status/1524886818725847040), bookmarks, playlists, progress bars, etc.
+Realizing humanity’s potential for expression at scale
 
-> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
+Making the individual count
 
-[Linktree](https://en.wikipedia.org/wiki/Linktree) is just a bandaid for today’s fragmentation of identity ([valued at 1.3B$](https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/)) - it is a symptom.
+Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
+
+What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
+https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
 
 
-TODO: move this to another page
-
-Contrast that to a world with interoperable & exportable identity/data:
-
-> “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
