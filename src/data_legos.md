@@ -22,18 +22,3 @@ The public conversation shouldn't be fractured between platforms such as Twitter
 
 <!-- source of image: https://world3d.com/2020/06/the-history-of-lenticular/ -->
 
-# Event streams
-
-<!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
-
-In an open data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage):
-- edits to a specific document identified by a URI
-- references/mentions of an account/entity/word/URI in public documents
-- any other type of filtration criteria - thresholds, exclude lists, etc.
-- complicated streams can be constructed by transforming/joining others - similar to Kafka
-
-If someone implements speech-to-text and starts transcribing audio episodes and publishing the output it would immediately become available to anyone and would automatically end up being parsed, indexed & pushed through data pipelines. Composability. This is not possible with closed platforms - even if someone was willing to pay the processing costs.
-
-https://openai.com/blog/whisper/
-https://news.ycombinator.com/item?id=32927360
-

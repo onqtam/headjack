@@ -3,24 +3,6 @@
 <!-- toc -->
 
 ██████████████████████████████████████████████████████████████████
-# Status quo: centralized & fragmented identity
-██████████████████████████████████████████████████████████████████
-
-> "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
-
-Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few players with network effects & [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality.
-
-> "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
-
-But despite the concentration of SSO services a lot of identity-related activity is fragmented between platforms due to the lack of standards & interoperability: settings/preferences, [direct messages](https://twitter.com/jonwu_/status/1524886818725847040), bookmarks, playlists, progress bars, etc.
-
-> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
-
-Contrast that to a world on top of a shared identity network with interoperable & exportable data:
-
-> “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
-
-██████████████████████████████████████████████████████████████████
 # Anatomy of your digital footprint
 ██████████████████████████████████████████████████████████████████
 
@@ -224,7 +206,7 @@ The freedom to share is a form of expression and agency - we should have granula
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 
 ██████████████████████████████████████████████████████████████████
-# Connections, granular subscriptions & control
+# Connections, following & multidimensionality
 ██████████████████████████████████████████████████████████████████
 
 Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow - you can't have access to someone's private photos without also following them (at least Facebook has this distinction). This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: `"How come you're not following me?"` - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook). YouTube subscriptions became a mere hint to the recommendation algorithm over time because the platform knows better where your attention should be spent - that's why creators have been nudging users to also `"hit the bell icon"` - a harder & more explicit form of subscription.
@@ -235,25 +217,33 @@ We are complex beings with different interests & aspects to our personalities - 
 
 <img src="images/multidimensionality_cropped.png">
 
-But that comes at a cost: fragmented identity, duplication & lack of composability. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others (+ the ability to control the visibility of our preferences)? The ultimate subscription/watch network:
+But that comes at a cost: fragmented identity, duplication & lack of composability to name a few. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others in our feeds (+ the ability to control the visibility of our preferences)?
 
-- application source - `"I want `***`everything`***` from `***`account A`***` coming from `***`app B`***`"`
-- content/event type
+██████████████████████████████████████████████████████████████████
+# Event streams, subscriptions & notifications
+██████████████████████████████████████████████████████████████████
+
+In the the ultimate subscription network you'd be able to listen for and filter events based on:
+
+- **Application source** - `"I want `***`everything`***` from `***`account A`***` coming from `***`app B`***`"`
+- **Content/event type**
     - `"I want `***`all pictures`***` from `***`account A`***`"`
     - `"I want `***`all subscription events`***` from `***`account A`***`"`
-- labels & tags - `"I want `***`all financial advice`***` from `***`account A`***`"`
-- severity & importance - `"I want `***`every alert/warning/importance>5`***` from `***`account A`***`"`
-- custom filters & rules - `"I want `***`any mention of X`***` from `***`account A`***`"`
-- subscriptions not tied to accounts
-    - document - `"I want `***`all changes`***` to `***`playlist P`***`"`
-    - general - `"I want `***`any mention of $ETH`***` from `***`anywhere`***`"`
-- exclusion - any filter from above can also be inverted and layered with an inclusive one
+- **Labels & tags** - `"I want `***`all financial advice`***` from `***`account A`***`"`
+- **Severity & importance** - `"I want `***`every alert/warning/importance>5`***` from `***`account A`***`"`
+- **Custom filters & rules** - `"I want `***`any mention/reference of X`***` from `***`account A`***`"`
+- Subscriptions not tied to accounts
+    - **document** - `"I want `***`all changes`***` to `***`playlist P`***`"`
+    - **general** - `"I want `***`any mention of $ETH`***` from `***`anywhere`***`"`
+- **Exclusion** - any filter from above can also be inverted and layered with an inclusive one
     - `"`***`exclude pictures`***`"` / `"`***`exclude app B`***`"` / `"`***`exclude edits to P`***`"`
-    - this might prove to be the most used form of filters - subscribe to everything from someone initially and then gradually exclude sources & events you aren't interested in
+    - This might prove to be the most used form of filters - subscribe to everything from some entity initially and then gradually exclude sources & events you aren't interested in - this way you'd get by default all new types of events that start to be generated.
 
-These information channels could be bundled together in different sets & event streams which can then be used in separate scrollable feeds & notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Is it straightforward to offer all this with good UX? We haven't actually tried, and there's always the option to offer limited functionality by default with everything advanced hidden behind a menu.
+In an open & interoperable data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage & bandwidth) - we could construct any kind of stream by transforming & joining others - similar to Kafka. If someone starts transcribing audio episodes with speech-to-text ([whisper](https://openai.com/blog/whisper/)?) and publishing the output by referencing the original item it would immediately become available to anyone and could automatically end up being parsed, indexed & pushed through data pipelines. **Composability**.
 
-This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) (this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw)) with an RSS reader you might have noticed that `#shorts` are given to you along with normal videos. [InoReader](https://inoreader.com/) allows you with a paid feature to construct custom rules such as `"`***`mark as read anything`***` that `***`contains`***` the string `***`#shorts`***`"`. We can have this, but generalized for everything.
+These information channels could be bundled together in different sets & event streams which can then be used in separate scrollable feeds & notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Is it straightforward to offer all this with good UX? We haven't actually tried, but there's always the option to offer limited functionality by default with everything advanced hidden behind a menu.
+
+This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) (this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw)) with an RSS reader you might have noticed that `#shorts` are given to you along with normal videos. [InoReader](https://inoreader.com/) allows you with a paid feature to construct custom rules such as `"`***`mark as read anything`***` that `***`contains`***` the string `***`#shorts`***`"`. We can have this, but completely generalized!
 
 > "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
 
@@ -261,12 +251,30 @@ Twitter decided at some point to boost engagement and forced `"recent tweet"` no
 
 When identity is decoupled from the presentation layer (applications) we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified (for example only in specific time ranges of the day). IDMs can monetize us in ways other than advertising and their incentives won't be to suck all of our attention - as opposed to applications that usually serve ads.
 
-██████████████████████████████████████████████████████████████████
-# Linktree is the symptom, Headjack is the cure
-# Linktree = symptom of centralization & fragmentation
+<!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
 
-# Status quo: centralized & fragmented identity
 ██████████████████████████████████████████████████████████████████
+<!-- # Linktree is the symptom, Headjack is the cure -->
+<!-- # Linktree = symptom of centralization & fragmentation -->
+
+# Linktree: the symptom of fragmentation
+
+<!-- # Status quo: centralized & fragmented identity -->
+██████████████████████████████████████████████████████████████████
+
+> "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
+
+Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few players with network effects & [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality.
+
+> "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
+
+But despite the concentration of SSO services a lot of identity-related data is fragmented between platforms due to the lack of standards & interoperability: settings/preferences, [direct messages](https://twitter.com/jonwu_/status/1524886818725847040), bookmarks, playlists, progress bars, etc.
+
+> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
+
+Contrast that to a world on top of a shared identity network with interoperable & exportable data:
+
+> “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
 
 view profile relevant to the current app VS view full profile with all activity
 
