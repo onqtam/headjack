@@ -2445,7 +2445,6 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <li><a href="digital_footprint.html#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></li>
 <li><a href="digital_footprint.html#the-2d-visibilityaccessibility-matrix">The 2D visibility/accessibility matrix</a></li>
 <li><a href="digital_footprint.html#connections-granular-subscriptions--control">Connections, granular subscriptions &amp; control</a></li>
-<li><a href="digital_footprint.html#notifications--subscriptions">Notifications &amp; subscriptions</a></li>
 <li><a href="digital_footprint.html#linktree-is-the-symptom-headjack-is-the-cure">Linktree is the symptom, Headjack is the cure</a></li>
 <li><a href="digital_footprint.html#idms-one-cloud-to-rule-them-all">IDMs: one cloud to rule them all</a></li>
 <li><a href="digital_footprint.html#bookmarks--playlists">Bookmarks &amp; playlists</a></li>
@@ -2680,35 +2679,36 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <p>██████████████████████████████████████████████████████████████████</p>
 <p>Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow - you can't have access to someone's private photos without also following them (at least Facebook has this distinction). This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: <code>&quot;How come you're not following me?&quot;</code> - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook). YouTube subscriptions became a mere hint to the recommendation algorithm over time because the platform knows better where your attention should be spent - that's why creators have been nudging users to also <code>&quot;hit the bell icon&quot;</code> - a harder &amp; more explicit form of subscription.</p>
 <p>We are complex beings with different interests &amp; aspects to our personalities - that's why there are many many apps to address different needs &amp; verticals: Reddit, Twitter, YouTube, Facebook, TikTok, Instagram, Goodreads, Medium, Quora, StackExchange, etc. We are multidimensional:</p>
+<!-- FIXME: edit picture to add text -->
 <img src="images/multidimensionality_cropped.png">
-<p>But that comes at a cost: fragmented identity, duplication &amp; lack of composability. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others - with the ability to control the visibility of our preferences? The ultimate subscription network:</p>
-<!--
-TODO:
-add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
--->
+<p>But that comes at a cost: fragmented identity, duplication &amp; lack of composability. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others (+ the ability to control the visibility of our preferences)? The ultimate subscription/watch network:</p>
 <ul>
-<li><code>&quot;follow&quot;</code></li>
-<li>explicitly include/exclude based on:
+<li>application source - <code>&quot;I want </code><strong><code>everything</code></strong><code>from</code><strong><code>account A</code></strong><code>coming from</code><strong><code>app B</code></strong><code>&quot;</code></li>
+<li>content/event type
 <ul>
-<li>application source - <code>&quot;I want everything from account A from app B&quot;</code></li>
-<li>content type - <code>&quot;I want every picture from account A from any app&quot;</code></li>
-<li>custom filters (contains <code>&quot;X&quot;</code> word)</li>
+<li><code>&quot;I want </code><strong><code>all pictures</code></strong><code>from</code><strong><code>account A</code></strong><code>&quot;</code></li>
+<li><code>&quot;I want </code><strong><code>all subscription events</code></strong><code>from</code><strong><code>account A</code></strong><code>&quot;</code></li>
 </ul>
 </li>
+<li>labels &amp; tags - <code>&quot;I want </code><strong><code>all financial advice</code></strong><code>from</code><strong><code>account A</code></strong><code>&quot;</code></li>
+<li>severity &amp; importance - <code>&quot;I want </code><strong><code>every alert/warning/importance&gt;5</code></strong><code>from</code><strong><code>account A</code></strong><code>&quot;</code></li>
+<li>custom filters &amp; rules - <code>&quot;I want </code><strong><code>any mention of X</code></strong><code>from</code><strong><code>account A</code></strong><code>&quot;</code></li>
+<li>subscriptions not tied to accounts
+<ul>
+<li><code>&quot;I want </code><strong><code>any mention of $ETH</code></strong><code>from</code><strong><code>anywhere</code></strong><code>&quot;</code></li>
+<li><code>&quot;I want </code><strong><code>all changes to playlist/document P</code></strong><code>&quot;</code></li>
 </ul>
-<p>what if you could define additional filtering criteria for sources - like anything that doesn't contain the word &quot;X&quot;</p>
-<p>YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that <code>#shorts</code> are given to you along with normal videos. We should be able to filter that out. Take for example <a href="https://www.youtube.com/@UnchainedPodcast">@UnchainedPodcast</a> - this is their <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw">RSS feed</a> and it has everything in there - and we have no easy way to filter it.</p>
-<p>InoReader for example allows you with a paid feature to construct rules for subcriptions such as &quot;mark as read anything that contains the string #shorts&quot; - we can have this, but generalized and for anything</p>
-<p>When you show your Attention (what algorithms, apps &amp; settings you're using, &amp; even your history) you get attention for it - in regards to the signaling</p>
-<h1 id="notifications--subscriptions"><a class="header" href="#notifications--subscriptions">Notifications &amp; subscriptions</a></h1>
-<p>Twitter decided that it needs to boost engagement and forced &quot;recent tweet&quot; notifications on us <a href="https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/">without the ability to turn them off</a> - that needs to stop - explicit preferences should be honored.</p>
+</li>
+<li>exclusion - any inclusive filter from above can also be inverted - <code>&quot;I want everything </code><strong><code>besides pictures</code></strong><code>from</code><strong><code>account A</code></strong><code>from</code><strong><code>any app</code></strong><code>besides</code><strong><code>app B</code></strong><code>&quot;</code></li>
+</ul>
+<p>These information channels could be bundled together in different sets &amp; event streams which can then be used to construct separate scrollable feeds &amp; notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Is it straightforward to offer all this with good UX? We haven't actually tried, and there's always the option to offer limited functionality by default with everything advanced hidden behind a menu.</p>
+<p>This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to <a href="https://www.youtube.com/@UnchainedPodcast">@UnchainedPodcast</a> (this is their <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw">RSS feed</a>) with an RSS reader you might have noticed that <code>#shorts</code> are given to you along with normal videos. <a href="https://inoreader.com/">InoReader</a> allows you with a paid feature to construct custom rules such as <code>&quot;</code><strong><code>mark as read anything</code></strong><code>that</code><strong><code>contains</code></strong><code>the string</code><strong><code>#shorts</code></strong><code>&quot;</code>. We can have this, but generalized for everything.</p>
 <blockquote>
 <p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/NavalismHQ/status/1556179585347112961">@naval</a></p>
 </blockquote>
-<p>When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular &amp; multidimensional for any type of event stream - like <code>&quot;show me everything from X unless from application A or message type T&quot;</code>. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.</p>
-<p>TODO: follow anything</p>
-<p>What if you wanted to see when someone follows something as an event/notification - each time they follow someone? There's no way to configure the current platforms for that</p>
-<p>We should be able to follow playlists in social media - and be able to turn on notifications for them</p>
+<p>Twitter decided at some point to boost engagement and forced <code>&quot;recent tweet&quot;</code> notifications down our throats <a href="https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/">with no ability to turn them off</a>. Instagram sometimes changes the notifications button indicating something new when in fact there's nothing - we're being conditioned. Such things should never be out of our explicit control.</p>
+<p>When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize.</p>
+<p>Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.</p>
 <h1 id="linktree-is-the-symptom-headjack-is-the-cure"><a class="header" href="#linktree-is-the-symptom-headjack-is-the-cure">Linktree is the symptom, Headjack is the cure</a></h1>
 <p>view profile relevant to the current app VS view full profile with all activity</p>
 <p>your profile page - a linktree-like thing
@@ -2740,6 +2740,7 @@ What If You Quit Social Media For 30 Days?
 https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
 <p>the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged</p>
 <p>imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a &quot;seen&quot; list with URIs which you can later browse like the history in youtube - something like this should exist</p>
+<p>When you show your Attention (what algorithms, apps &amp; settings you're using, &amp; even your history) you get attention for it - in regards to the signaling</p>
 <p>ability to set priorities for notifications and build a &quot;home dashboard&quot; that takes those into account</p>
 <p>your &quot;desktop&quot; for the apps &amp; public data of the world</p>
 <p>fine-grained control
@@ -2934,6 +2935,7 @@ Writing forces us to think, but the act of serializing a complex web of intercon
 <blockquote>
 <p>&quot;We should discuss this graph more. (peer review)&quot; - <a href="https://twitter.com/EricRWeinstein/status/1483860161965932544">Eric Weinstein</a></p>
 </blockquote>
+<p>TODO: https://davidrozado.substack.com/p/gag</p>
 <p>Journalism goes hand in hand with frame control (<a href="https://en.wikipedia.org/wiki/Emotive_conjugation">Russel conjugation</a> - <strong>what is</strong> vs <strong>how to feel about what is</strong>), <a href="https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect">Gell-Mann Amnesia</a>, cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork &amp; edit thought-graphs to remove bias? Can we become post-narrative?</p>
 </li>
 <li>

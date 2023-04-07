@@ -234,44 +234,35 @@ Today's form of relationships in social media are too simplistic - you either fo
 
 We are complex beings with different interests & aspects to our personalities - that's why there are many many apps to address different needs & verticals: Reddit, Twitter, YouTube, Facebook, TikTok, Instagram, Goodreads, Medium, Quora, StackExchange, etc. We are multidimensional:
 
+<!-- FIXME: edit picture to add text -->
+
 <img src="images/multidimensionality_cropped.png">
 
-But that comes at a cost: fragmented identity, duplication & lack of composability. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others - with the ability to control the visibility of our preferences? The ultimate subscription network:
+But that comes at a cost: fragmented identity, duplication & lack of composability. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others (+ the ability to control the visibility of our preferences)? The ultimate subscription/watch network:
 
-<!--
-TODO:
-add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
--->
+- application source - `"I want `**`everything`**` from `**`account A`**` coming from `**`app B`**`"`
+- content/event type
+    - `"I want `**`all pictures`**` from `**`account A`**`"`
+    - `"I want `**`all subscription events`**` from `**`account A`**`"`
+- labels & tags - `"I want `**`all financial advice`**` from `**`account A`**`"`
+- severity & importance - `"I want `**`every alert/warning/importance>5`**` from `**`account A`**`"`
+- custom filters & rules - `"I want `**`any mention of X`**` from `**`account A`**`"`
+- subscriptions not tied to accounts
+    - `"I want `**`any mention of $ETH`**` from `**`anywhere`**`"`
+    - `"I want `**`all changes to playlist/document P`**`"`
+- exclusion - any inclusive filter from above can also be inverted - `"I want everything `**`besides pictures`**` from `**`account A`**` from `**`any app`**` besides `**`app B`**`"`
 
-- `"follow"`
-- explicitly include/exclude based on:
-    - application source - `"I want everything from account A from app B"`
-    - content type - `"I want every picture from account A from any app"`
-    - custom filters (contains `"X"` word)
+These information channels could be bundled together in different sets & event streams which can then be used to construct separate scrollable feeds & notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Is it straightforward to offer all this with good UX? We haven't actually tried, and there's always the option to offer limited functionality by default with everything advanced hidden behind a menu.
 
-what if you could define additional filtering criteria for sources - like anything that doesn't contain the word "X"
-
-YouTube channels have RSS feeds. If you subscribed to one with an RSS reader you might have noticed that that `#shorts` are given to you along with normal videos. We should be able to filter that out. Take for example [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) - this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw) and it has everything in there - and we have no easy way to filter it.
-
-
-InoReader for example allows you with a paid feature to construct rules for subcriptions such as "mark as read anything that contains the string #shorts" - we can have this, but generalized and for anything
-
-
-When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
-
-# Notifications & subscriptions
-
-Twitter decided that it needs to boost engagement and forced "recent tweet" notifications on us [without the ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/) - that needs to stop - explicit preferences should be honored.
+This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) (this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw)) with an RSS reader you might have noticed that `#shorts` are given to you along with normal videos. [InoReader](https://inoreader.com/) allows you with a paid feature to construct custom rules such as `"`**`mark as read anything`**` that `**`contains`**` the string `**`#shorts`**`"`. We can have this, but generalized for everything.
 
 > "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
 
-When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize. We'd be able to set a threshold or filter on anything. Subscriptions can be granular & multidimensional for any type of event stream - like `"show me everything from X unless from application A or message type T"`. Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
+Twitter decided at some point to boost engagement and forced `"recent tweet"` notifications down our throats [with no ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/). Instagram sometimes changes the notifications button indicating something new when in fact there's nothing - we're being conditioned. Such things should never be out of our explicit control.
 
-TODO: follow anything
+When identity is decoupled from the presentation layer we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified. The incentive for an IDM is not to suck all of our attention (as opposed to applications that usually serve ads) - there are other ways to monetize.
 
-What if you wanted to see when someone follows something as an event/notification - each time they follow someone? There's no way to configure the current platforms for that
-
-We should be able to follow playlists in social media - and be able to turn on notifications for them
+Some IDMs could even offer the feature to show notifications only in specific time ranges of the day - for those addicted to dopamine hits.
 
 # Linktree is the symptom, Headjack is the cure
 
@@ -310,6 +301,10 @@ https://www.youtube.com/watch?v=_u5p6hwS5SM
 the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged
 
 imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
+
+
+When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
+
 
 ability to set priorities for notifications and build a "home dashboard" that takes those into account
 
