@@ -1014,3 +1014,7 @@ headjack2://user_id:concept_id
 
 
 
+add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
+
+
+
