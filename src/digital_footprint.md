@@ -4,7 +4,6 @@
 
 ██████████████████████████████████████████████████████████████████
 # Status quo: centralized & fragmented identity
-<!-- # Centralization & fragmentation due to convenience & network effects -->
 ██████████████████████████████████████████████████████████████████
 
 > "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
@@ -46,8 +45,6 @@ This is a rough scetch and we've omitted things such as edits, DMs, etc. Today w
 ██████████████████████████████████████████████████████████████████
 # The 2D visibility/accessibility matrix
 ██████████████████████████████████████████████████████████████████
-
-<!-- The other spectrum is visibility - from **private** (personal) to **shared in a group** and to **public**. -->
 
 Let's consider the visibility spectrum - from **private** (personal) on one end to **public** on the other and **shared in some group** in between (anonymity will be explored elsewhere). Example: a fully private comment is basically a note to yourself. Here's what's possible with 3 Big Tech platforms:
 
@@ -240,29 +237,36 @@ We are complex beings with different interests & aspects to our personalities - 
 
 But that comes at a cost: fragmented identity, duplication & lack of composability. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others (+ the ability to control the visibility of our preferences)? The ultimate subscription/watch network:
 
-- application source - `"I want `**`everything`**` from `**`account A`**` coming from `**`app B`**`"`
+- application source - `"I want `***`everything`***` from `***`account A`***` coming from `***`app B`***`"`
 - content/event type
-    - `"I want `**`all pictures`**` from `**`account A`**`"`
-    - `"I want `**`all subscription events`**` from `**`account A`**`"`
-- labels & tags - `"I want `**`all financial advice`**` from `**`account A`**`"`
-- severity & importance - `"I want `**`every alert/warning/importance>5`**` from `**`account A`**`"`
-- custom filters & rules - `"I want `**`any mention of X`**` from `**`account A`**`"`
+    - `"I want `***`all pictures`***` from `***`account A`***`"`
+    - `"I want `***`all subscription events`***` from `***`account A`***`"`
+- labels & tags - `"I want `***`all financial advice`***` from `***`account A`***`"`
+- severity & importance - `"I want `***`every alert/warning/importance>5`***` from `***`account A`***`"`
+- custom filters & rules - `"I want `***`any mention of X`***` from `***`account A`***`"`
 - subscriptions not tied to accounts
-    - `"I want `**`any mention of $ETH`**` from `**`anywhere`**`"`
-    - `"I want `**`all changes to playlist/document P`**`"`
-- exclusion - any inclusive filter from above can also be inverted - `"I want everything `**`besides pictures`**` from `**`account A`**` from `**`any app`**` besides `**`app B`**`"`
+    - document - `"I want `***`all changes`***` to `***`playlist P`***`"`
+    - general - `"I want `***`any mention of $ETH`***` from `***`anywhere`***`"`
+- exclusion - any filter from above can also be inverted and layered with an inclusive one
+    - `"`***`exclude pictures`***`"` / `"`***`exclude app B`***`"` / `"`***`exclude edits to P`***`"`
+    - this might prove to be the most used form of filters - subscribe to everything from someone initially and then gradually exclude sources & events you aren't interested in
 
-These information channels could be bundled together in different sets & event streams which can then be used to construct separate scrollable feeds & notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Is it straightforward to offer all this with good UX? We haven't actually tried, and there's always the option to offer limited functionality by default with everything advanced hidden behind a menu.
+These information channels could be bundled together in different sets & event streams which can then be used in separate scrollable feeds & notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Is it straightforward to offer all this with good UX? We haven't actually tried, and there's always the option to offer limited functionality by default with everything advanced hidden behind a menu.
 
-This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) (this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw)) with an RSS reader you might have noticed that `#shorts` are given to you along with normal videos. [InoReader](https://inoreader.com/) allows you with a paid feature to construct custom rules such as `"`**`mark as read anything`**` that `**`contains`**` the string `**`#shorts`**`"`. We can have this, but generalized for everything.
+This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) (this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw)) with an RSS reader you might have noticed that `#shorts` are given to you along with normal videos. [InoReader](https://inoreader.com/) allows you with a paid feature to construct custom rules such as `"`***`mark as read anything`***` that `***`contains`***` the string `***`#shorts`***`"`. We can have this, but generalized for everything.
 
 > "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
 
-Twitter decided at some point to boost engagement and forced `"recent tweet"` notifications down our throats [with no ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/). Instagram sometimes changes the notifications button indicating something new when in fact there's nothing - we're being conditioned like rats through regular dopamine hits. Such things should never be out of our explicit control.
+Twitter decided at some point to boost engagement and forced `"recent tweet"` notifications down our throats [with no ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/). Instagram sometimes changes the notifications button indicating something new when in fact there's nothing - we're being conditioned like rats through regular pokes & dopamine hits. Such things should never be out of our explicit control.
 
 When identity is decoupled from the presentation layer (applications) we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified (for example only in specific time ranges of the day). IDMs can monetize us in ways other than advertising and their incentives won't be to suck all of our attention - as opposed to applications that usually serve ads.
 
+██████████████████████████████████████████████████████████████████
 # Linktree is the symptom, Headjack is the cure
+# Linktree = symptom of centralization & fragmentation
+
+# Status quo: centralized & fragmented identity
+██████████████████████████████████████████████████████████████████
 
 view profile relevant to the current app VS view full profile with all activity
 
