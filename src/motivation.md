@@ -37,6 +37,10 @@ https://www.google.com/search?q=the+golden+circle
 <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/916Ye9XmIjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
+> "What is the most important thing you could be working on in the world right now? ... And if you're not working on that, why aren't you?" - [Aaron Swartz](https://www.azquotes.com/quote/1202481)
+
+
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 
 <!--

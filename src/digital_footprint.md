@@ -24,6 +24,8 @@ In order to reconstruct we must first deconstruct. What types of actions & event
 
 This is a rough scetch and we've omitted things such as edits, DMs, etc. Today we're left with only what product managers in Big Tech have decided is worthwhile for them to implement. For example we're unable to react or comment on the reaction of someone else. Does it always make sense to do so? No, but it should be possible. We're limited to the lowest common denominator of functionality.
 
+<!-- > "What I do has to be a function of what I can do, not a function of what people ask me to do." - [Tim Berners-Lee](https://www.azquotes.com/quote/1202766) -->
+
 ██████████████████████████████████████████████████████████████████
 # The 2D visibility/accessibility matrix
 ██████████████████████████████████████████████████████████████████
@@ -206,12 +208,12 @@ The freedom to share is a form of expression and agency - we should have granula
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 
 ██████████████████████████████████████████████████████████████████
-# Connections, following & multidimensionality
+# Connections, follows & multidimensionality
 ██████████████████████████████████████████████████████████████████
 
 Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow - you can't have access to someone's private photos without also following them (at least Facebook has this distinction). This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: `"How come you're not following me?"` - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook). YouTube subscriptions became a mere hint to the recommendation algorithm over time because the platform knows better where your attention should be spent - that's why creators have been nudging users to also `"hit the bell icon"` - a harder & more explicit form of subscription.
 
-We are complex beings with different interests & aspects to our personalities - that's why there are many many apps to address different needs & verticals: Reddit, Twitter, YouTube, Facebook, TikTok, Instagram, Goodreads, Medium, Quora, StackExchange, etc. We are multidimensional:
+We are complex beings with different interests & aspects to our personalities - that's why there are many many apps to address different needs & verticals: Reddit, Twitter, YouTube, Facebook, TikTok, Instagram, LinkedIn, Goodreads, Medium, Quora, StackExchange, etc. We are multidimensional:
 
 <!-- FIXME: edit picture to add text -->
 
@@ -254,37 +256,34 @@ When identity is decoupled from the presentation layer (applications) we could h
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
 
 ██████████████████████████████████████████████████████████████████
-<!-- # Linktree is the symptom, Headjack is the cure -->
-<!-- # Linktree = symptom of centralization & fragmentation -->
-
-# Linktree: the symptom of fragmentation
-
-<!-- # Status quo: centralized & fragmented identity -->
+# Today: centralized & fragmented identity
 ██████████████████████████████████████████████████████████████████
 
 > "He who controls identity controls the (social) world." - [Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
 
-Convenience & simplicity sought by users has lead to extreme levels of centralization of identity in just a few players with network effects & [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) functionality.
+Convenience & network effects have lead to extreme levels of centralization of identity in just a few players with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) (SSO) functionality.
 
-> "as of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
+> "As of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document) by [Harry Halpin](https://twitter.com/harryhalpin)
 
-But despite the concentration of SSO services a lot of identity-related data is fragmented between platforms due to the lack of standards & interoperability: settings/preferences, [direct messages](https://twitter.com/jonwu_/status/1524886818725847040), bookmarks, playlists, progress bars, etc.
+But despite the concentration of SSO services a lot of identity-related data is fragmented between many more websites due to the lack of standards & interoperability: settings/preferences, [direct messages](https://twitter.com/jonwu_/status/1524886818725847040), bookmarks, playlists, history, progress bars, etc.
 
-> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3)
+> "Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes." - [source](https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3#:~:text=Identity%20on%20the,that%20something%20changes.)
 
-Contrast that to a world on top of a shared identity network with interoperable & exportable data:
+Furthermore, the individual services are often extremely limiting - people have resorted to making Twitter threads with links to other of their threads and they pin that master thread to their profiles.
 
-> “each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document)
+> "Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of [@jason](https://twitter.com/Jason)”" - [Jason Calacanis](https://twitter.com/Jason/status/1636464901911904257)
 
-view profile relevant to the current app VS view full profile with all activity
+This has lead to the rise of [Linktree](https://en.wikipedia.org/wiki/Linktree) - a single page where you can display a number of links and conveniently point to it from all other websites ([valued at 1.3B$](https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/)), but it's just a bandaid for today’s fragmentation of identity. Contrast that to a world on top of a single shared identity network with interoperable & exportable data:
 
-your profile page - a linktree-like thing
-every change, every edit, every commit - all could be linked to your identity if you wished it
-ON WHY WE NEED SOMETHING LIKE linktree:
-Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of @jason”
-https://twitter.com/Jason/status/1636464901911904257
+> “Each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document) by [Harry Halpin](https://twitter.com/harryhalpin)
 
-[Linktree](https://en.wikipedia.org/wiki/Linktree) is just a bandaid for today’s fragmentation of identity ([valued at 1.3B$](https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/)) - it is a symptom.
+**Linktree is the symptom, Headjack is the cure.** We can actually go a lot further with our profiles:
+
+we can have multiple different layouts:
+- a general one like Linktree
+- specialized ones for different domain-specific apps & usecases
+    - apps can simply choose to display only the relevant parts from our profile in custom views
+- a full log of all our activity of any kind across any service (similar to the `Replies` tab of an account in Twitter, but with everything (every change, every edit, every commit) + the ability to filter it)
 
 ██████████████████████████████████████████████████████████████████
 # IDMs: one cloud to rule them all
@@ -295,6 +294,10 @@ What if IDMs filled that role? What if IDMs could integrate with browsers such t
 - What if we had "playback progress" even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.
 
 - Currently all these are segregated between disparate platforms with separate accounts
+
+
+"All of your messages In one inbox"
+https://texts.com/
 
 
 what if your IDM kept a list of everything you've seen so it can be displayed in the UI?
