@@ -93,6 +93,16 @@ what if we could crowdsource something like Cyc?
 https://www.youtube.com/watch?v=kwYaj-1EVJ0
 
 
+
+> "The Semantic Web isn't inherently complex. The Semantic Web language, at its heart, is very, very simple. It's just about the relationships between things." - [Tim Berners-Lee](https://www.azquotes.com/quote/602017)
+
+> "The Semantic Web is not a separate Web but an extension of the current one, in which information is given well-defined meaning, better enabling computers and people to work in cooperation." - [Tim Berners-Lee](https://www.azquotes.com/quote/830277)
+
+> "We should work toward a universal linked information system, in which generality and portability are more important than fancy graphics techniques and complex extra facilities." - [Tim Berners-Lee](https://www.azquotes.com/quote/917027)
+
+
+
+
 the semantic web was held back by the host-centric model and the lack of stable decentralized identities to which we could link/join data
 
 reviving the semantic web
