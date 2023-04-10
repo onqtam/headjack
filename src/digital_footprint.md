@@ -1,5 +1,7 @@
 # Your digital footprint
 
+avatar?
+
 <!-- toc -->
 
 ██████████████████████████████████████████████████████████████████
@@ -212,6 +214,9 @@ The freedom to share is a form of expression and agency - we should have granula
 ██████████████████████████████████████████████████████████████████
 
 Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow - you can't have access to someone's private photos without also following them (at least Facebook has this distinction). This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: `"How come you're not following me?"` - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook). YouTube subscriptions became a mere hint to the recommendation algorithm over time because the platform knows better where your attention should be spent - that's why creators have been nudging users to also `"hit the bell icon"` - a harder & more explicit form of subscription.
+
+> "Asked a girl for her Instagram and she just told me to follow her on Venmo?" - [Nikita Bier
+](https://twitter.com/nikitabier/status/1644782161617375233)
 
 We are complex beings with different interests & aspects to our personalities - that's why there are many many apps to address different needs & verticals: Reddit, Twitter, YouTube, Facebook, TikTok, Instagram, LinkedIn, Goodreads, Medium, Quora, StackExchange, etc. We are multidimensional:
 

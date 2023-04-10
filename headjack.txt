@@ -138,30 +138,36 @@ clips are reuploaded because uploaders would get the revenue... this needs a sol
 > "The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - [Tim Berners-Lee](https://www.azquotes.com/quote/171766)
 
 
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
 
 
 
+> "Having a great idea for a product is important, but having a great idea for product distribution is even more important." - [Reid Hoffman](https://www.azquotes.com/quote/716440)
+
+> "Social networks do best when they tap into one of the seven deadly sins. Facebook is ego. Zynga is sloth. LinkedIn is greed." - [Reid Hoffman](https://www.azquotes.com/quote/134480), LinkedIn founder
+!!! A single identity network is all 8 at the same time.
+
+
+
+> "If you’re not acting on your beliefs, then they probably aren’t real." - [Edward Snowden](https://www.azquotes.com/quote/916625)
+
+> "I have been to the darkest corners of government, and what they fear is light." - [Edward Snowden](https://www.azquotes.com/quote/577721)
+
+> "Arguing that you don't care about privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." - [Edward Snowden](https://www.azquotes.com/quote/1335561)
+
+> "Under observation, we act less free, which means we effectively are less free." - [Edward Snowden](https://www.azquotes.com/quote/685660)
+
+> "There is a technical solution to every political problem..." - [Edward Snowden](https://www.azquotes.com/quote/685668)
+
+
+
+> "Everything is based on a simple rule: Quality is the best business plan, period." - [Steve Jobs](https://www.azquotes.com/quote/1060339)
 
 
 
 
 
 
+Even Substack is transitioning to [something like Twitter](https://on.substack.com/p/introducing-notes) but it is built around email for accounts - we can do better.
 
 
 
@@ -335,6 +341,16 @@ what if we could signal preferences locally for what types of commercials we'd b
 > "People can’t share knowledge if they don’t speak a common language." - [Thomas Davenport, 1997](https://team12pori.wordpress.com/ontology-information-science/#:~:text=%E2%80%9CPeople%20can%E2%80%99t%20share%20knowledge%20if%20they%20don%E2%80%99t%20speak%20a%20common%20language.%E2%80%9D)
 <IMG TOWER OF BABEL>
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1280px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg
+https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg
+
+...to speak a common Language:
+● common symbols and concepts (Syntax)
+● agreement about their meaning (Semantics)
+● classification of concepts (Taxonomy)
+● associations and relations of concepts (Thesauri)
+● rules and knowledge about which relations are
+allowed and make sense (Ontologies)
+
 
 
 > "Our highest-bandwidth information channel is not speech. It's vision and touch." - [Yann LeCun](https://twitter.com/ylecun/status/1640595183946407936)

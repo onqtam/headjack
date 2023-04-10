@@ -45,6 +45,8 @@ The most common suggestion we received in regards to our CSAM problem was to con
 
 hope for spam & moderation: if there is a market for it it could be solved faster as compared when a monopoly has to deal with that - like with spam and email - anyone can build tools to fight spam in email
 
+everyone can be free to have their own fact checkers
+https://twitter.com/disclosetv/status/1643992886244147201
 
 this project doesn't have all the answers for moderation & spam protection but it is the base layer that can support anything on top.
 

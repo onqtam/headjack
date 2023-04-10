@@ -380,6 +380,11 @@ DIKW pyramid
 data, information, knowledge, and wisdom
 https://en.wikipedia.org/wiki/DIKW_pyramid
 
+“Data transforms to information by convention, information to knowledge by cognition, and knowledge to wisdom by contemplation.”
+https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/INF5020/h04/undervisningsmateriale/HANDOUTS/L2a-data-info-knowledge.pdf
+
+"parental advisory explicit semantics" - image from the web
+
 
 uploading a clip that could have easily just referenced a part of the whole shouldn't be encouraged - perhaps you'd need to pay for uploading it?
 
