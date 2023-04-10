@@ -205,6 +205,9 @@ pitch the VCs: this is not constructing a single thing and trying to own it as m
 
 
 
+all business models try to capture attention - not just those relying on ads.
+https://twitter.com/jonathanstray/status/1644768765463379968
+maybe don't include this?
 
 
 
