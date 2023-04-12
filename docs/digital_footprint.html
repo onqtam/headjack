@@ -153,31 +153,56 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="your-digital-footprint"><a class="header" href="#your-digital-footprint">Your digital footprint</a></h1>
-<p>avatar?</p>
+<blockquote>
+<p>&quot;He who controls identity controls the (social) world.&quot; - <a href="https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.">Jordan Hall</a></p>
+</blockquote>
+<iframe align="right" width="50%" src="https://www.youtube.com/embed/CyGWML6cI_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <ul>
+<li><a href="#today-centralized--fragmented-identity">Today: centralized &amp; fragmented identity</a></li>
 <li><a href="#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></li>
-<li><a href="#the-2d-visibilityaccessibility-matrix">The 2D visibility/accessibility matrix</a></li>
+<li><a href="#the-2d-visibility-matrix-of-our-actions">The 2D visibility matrix of our actions</a></li>
 <li><a href="#connections-follows--multidimensionality">Connections, follows &amp; multidimensionality</a></li>
 <li><a href="#event-streams-subscriptions--notifications">Event streams, subscriptions &amp; notifications</a></li>
-<li><a href="#today-centralized--fragmented-identity">Today: centralized &amp; fragmented identity</a></li>
-<li><a href="#idms-one-cloud-to-rule-them-all">IDMs: one cloud to rule them all</a></li>
+<li><a href="#idms-one-accountcloud-to-rule-them-all">IDMs: one account/cloud to rule them all</a></li>
 <li><a href="#bookmarks--playlists">Bookmarks &amp; playlists</a></li>
 <li><a href="#expressivity">Expressivity</a></li>
 </ul>
-<p>██████████████████████████████████████████████████████████████████</p>
+<h1 id="today-centralized--fragmented-identity"><a class="header" href="#today-centralized--fragmented-identity">Today: centralized &amp; fragmented identity</a></h1>
+<p>Convenience &amp; network effects have lead to extreme levels of centralization of identity in just a few players with <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-on</a> (SSO) functionality.</p>
+<blockquote>
+<p>&quot;As of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled&quot; - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a> by <a href="https://twitter.com/harryhalpin">Harry Halpin</a></p>
+</blockquote>
+<p>But despite the concentration of SSO services a lot of identity-related data is fragmented between many more websites due to the lack of standards, interoperability &amp; incentives: content, profiles, settings/preferences, social graph, <a href="https://twitter.com/jonwu_/status/1524886818725847040">direct messages</a>, bookmarks, playlists, progress bars, etc.</p>
+<blockquote>
+<p>&quot;Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes.&quot; - <a href="https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3#:~:text=Identity%20on%20the,that%20something%20changes.">source</a></p>
+</blockquote>
+<p>Furthermore, the individual services are often extremely limiting - people have resorted to making Twitter threads with links to other of their threads and they pin that master thread to their profiles.</p>
+<blockquote>
+<p>&quot;Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of <a href="https://twitter.com/Jason">@jason</a>”&quot; - <a href="https://twitter.com/Jason/status/1636464901911904257">Jason Calacanis</a></p>
+</blockquote>
+<p>All this has lead to the rise of apps like <a href="https://en.wikipedia.org/wiki/Linktree">Linktree</a> (a single page where you can display a number of links and conveniently point to it from all other websites - <a href="https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/">valued at 1.3B$ at one point?!</a>), <a href="https://twitter.com/TextsHQ">Texts</a> (which aims to be a single messenger client that aggregates all others) and many more social media aggregators (such as a single interface to streamline posting content on multiple platforms at once) but they will always be at the mercy of the terms of service &amp; APIs of the platforms they're wrapping and are all just a bandaid for today’s fragmentation of identity - they are a symptom.</p>
+<p><strong>Headjack fixes this.</strong></p>
+<blockquote>
+<p>&quot;Asked a girl for her Instagram and she just told me to follow her on Venmo?&quot; - <a href="https://twitter.com/nikitabier/status/1644782161617375233">Nikita Bier
+</a></p>
+</blockquote>
 <h1 id="anatomy-of-your-digital-footprint"><a class="header" href="#anatomy-of-your-digital-footprint">Anatomy of your digital footprint</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
-<p>In order to reconstruct we must first deconstruct. What types of actions &amp; events result in a trail of more data? What are the building blocks?</p>
+<p>In order to reconstruct we must first deconstruct. What types of actions &amp; events result in our trail of data? What are the building blocks? Here's a rough scetch of a few broad categories:</p>
 <ul>
-<li><strong>Posts &amp; documents</strong> (sharing/retweeting, credentials &amp; attestations are a type of post too)</li>
+<li><strong>Authoring documents &amp; events</strong>
+<ul>
+<li><strong>Posts &amp; documents</strong> (sharing/retweeting are a type of post too)</li>
 <li><strong>Comments</strong> - on posts/documents and other comments</li>
 <li><strong>Reactions</strong> - to posts/documents/comments</li>
-<li><strong>Profile</strong> - information such as bio, profile picture, link to website &amp; linktree</li>
+<li><strong>Other</strong> - playlists, issuing credentials/attestations/certificates, RSVPs for events, etc.</li>
+</ul>
+</li>
+<li><strong>Profile</strong> - information such as bio, profile picture, link to website &amp; linktree, etc.</li>
 <li><strong>Social graph</strong> (or interest graph) - your connections &amp; subscriptions</li>
 <li><strong>Settings &amp; preferences</strong> (+ browser extensions)
 <ul>
-<li><strong>Cosmetic</strong> (UI) - colors, layout, hiding the &quot;recommended videos&quot; panel in YouTube with the &quot;DF Tube - Distraction Free for YouTube&quot; browser extension</li>
-<li><strong>Functional</strong> - filters, blocked accounts, choice of recommendation algorithm, etc.</li>
+<li><strong>Cosmetic</strong> (UI) - colors, layout, hiding the &quot;recommended videos&quot; panel in YouTube with the <code>&quot;DF Tube - Distraction Free for YouTube&quot;</code> browser extension, etc.</li>
+<li><strong>Functional</strong> - filters, blocked accounts, topics of interest for the feed, etc.</li>
 </ul>
 </li>
 <li><strong>History</strong> of what's been viewed/visited - 2 types:
@@ -192,12 +217,10 @@
 </li>
 <li><strong>Bookmarks</strong>: browser &amp; app-specific (Twitter) - wildly inferior to specialized note-taking apps</li>
 </ul>
-<p>This is a rough scetch and we've omitted things such as edits, DMs, etc. Today we're left with only what product managers in Big Tech have decided is worthwhile for them to implement. For example we're unable to react or comment on the reaction of someone else. Does it always make sense to do so? No, but it should be possible. We're limited to the lowest common denominator of functionality.</p>
+<p>Here we've omitted things such as edits, DMs, &amp; others. Today we're left with only what product managers in Big Tech have decided is worthwhile for them to implement. For example we're unable to react or comment on the reaction of someone else. Does it always make sense to do so? No, but it should be possible. We're limited to the lowest common denominator of functionality and the APIs used by third party companies to extend the platforms come with very restrictive terms of service &amp; limitations and can change at any point in time - killing entire ecosystems.</p>
 <!-- > "What I do has to be a function of what I can do, not a function of what people ask me to do." - [Tim Berners-Lee](https://www.azquotes.com/quote/1202766) -->
-<p>██████████████████████████████████████████████████████████████████</p>
-<h1 id="the-2d-visibilityaccessibility-matrix"><a class="header" href="#the-2d-visibilityaccessibility-matrix">The 2D visibility/accessibility matrix</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
-<p>Let's consider the visibility spectrum - from <strong>private</strong> (personal) on one end to <strong>public</strong> on the other and <strong>shared in some group</strong> in between (anonymity will be explored elsewhere). Example: a fully private comment is basically a note to yourself. Here's what's possible with 3 Big Tech platforms:</p>
+<h1 id="the-2d-visibility-matrix-of-our-actions"><a class="header" href="#the-2d-visibility-matrix-of-our-actions">The 2D visibility matrix of our actions</a></h1>
+<p>Let's consider the visibility spectrum of our actions - from <strong>private</strong> (personal) on one end to <strong>public</strong> on the other and <strong>shared in some group</strong> in between (forget about anonymity for now). Example: a private comment is basically a note to yourself. Here's what's possible with 3 Big Tech platforms:</p>
 <div>
 <style type="text/css" scoped>
     .visibility_table {
@@ -341,7 +364,7 @@
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
     <td style="background-color:green">Yes</td>
-    <td style="background-color:grey">Not sure</td>
+    <td style="background-color:green">Yes</td>
     <td style="background-color:yellow">Only friends</td>
     <td style="background-color:red">No</td>
     <td style="background-color:red">No</td>
@@ -367,23 +390,15 @@
 <li><strong>Settings &amp; preferences</strong>: we could aggregate and analyze the shifts in public preferences throughout time - enabling better and more organic discoverability of tools and settings.</li>
 <li>Both <strong>history</strong> and <strong>settings &amp; preferences</strong> can be shared not just publicly but also selectively with entities so that we can monetize our own data. Currently our behavioral patterns are closed &amp; being data mined by companies which make decisions in their own best interest.</li>
 </ul>
-<p>The freedom to share is a form of expression and agency - we should have granular control. A key piece of the puzzle is moving away from the host-centric web by linking data to identity so that it can be seamlessly exported and addressed in a uniform way.</p>
+<p>The freedom to share is a form of expression and agency - we should have granular control. A key piece of the puzzle is moving away from the host-centric web by linking data to identity so that it can be seamlessly exported and addressed across services in a uniform way.</p>
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
-<p>██████████████████████████████████████████████████████████████████</p>
 <h1 id="connections-follows--multidimensionality"><a class="header" href="#connections-follows--multidimensionality">Connections, follows &amp; multidimensionality</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
-<p>Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow - you can't have access to someone's private photos without also following them (at least Facebook has this distinction). This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: <code>&quot;How come you're not following me?&quot;</code> - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook). YouTube subscriptions became a mere hint to the recommendation algorithm over time because the platform knows better where your attention should be spent - that's why creators have been nudging users to also <code>&quot;hit the bell icon&quot;</code> - a harder &amp; more explicit form of subscription.</p>
-<blockquote>
-<p>&quot;Asked a girl for her Instagram and she just told me to follow her on Venmo?&quot; - <a href="https://twitter.com/nikitabier/status/1644782161617375233">Nikita Bier
-</a></p>
-</blockquote>
+<p>Today's form of relationships in social media are too simplistic - you either follow someone or you don't. Apps like Instagram don't even have the distinction between a connection (friendship) and a follow - you can't have access to someone's private photos without also following them (at least Facebook has this distinction). This is by design - the less control you have over what activity ends up in your feed - the more engaging the app and the better for them. They're also leveraging social pressure by showing explicitly if someone is following you: <code>&quot;How come you're not following me?&quot;</code> - you can't have a private follow in Instagram and that's on purpose (at least you can in Facebook). YouTube subscriptions became a mere hint to the recommendation algorithm over time because the platform &quot;knows better&quot; what's good for you and how your attention should be spent - that's why creators always say to <code>&quot;hit the bell icon&quot;</code> - a harder &amp; more explicit form of subscription.</p>
 <p>We are complex beings with different interests &amp; aspects to our personalities - that's why there are many many apps to address different needs &amp; verticals: Reddit, Twitter, YouTube, Facebook, TikTok, Instagram, LinkedIn, Goodreads, Medium, Quora, StackExchange, etc. We are multidimensional:</p>
 <!-- FIXME: edit picture to add text -->
 <img src="images/multidimensionality_cropped.png">
-<p>But that comes at a cost: fragmented identity, duplication &amp; lack of composability to name a few. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others in our feeds (+ the ability to control the visibility of our preferences)?</p>
-<p>██████████████████████████████████████████████████████████████████</p>
+<p>But that comes at a cost: fragmented &amp; inconsistent identity, content duplication, &amp; lack of composability to name a few. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others in our feeds (+ the ability to control the visibility of any action)?</p>
 <h1 id="event-streams-subscriptions--notifications"><a class="header" href="#event-streams-subscriptions--notifications">Event streams, subscriptions &amp; notifications</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
 <p>In the the ultimate subscription network you'd be able to listen for and filter events based on:</p>
 <ul>
 <li><strong>Application source</strong> - <code>&quot;I want </code><em><strong><code>everything</code></strong></em><code>from</code><em><strong><code>account A</code></strong></em><code>coming from</code><em><strong><code>app B</code></strong></em><code>&quot;</code></li>
@@ -410,7 +425,7 @@
 </li>
 </ul>
 <p>In an open &amp; interoperable data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage &amp; bandwidth) - we could construct any kind of stream by transforming &amp; joining others - similar to Kafka. If someone starts transcribing audio episodes with speech-to-text (<a href="https://openai.com/blog/whisper/">whisper</a>?) and publishing the output by referencing the original item it would immediately become available to anyone and could automatically end up being parsed, indexed &amp; pushed through data pipelines. <strong>Composability</strong>.</p>
-<p>These information channels could be bundled together in different sets &amp; event streams which can then be used in separate scrollable feeds &amp; notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Is it straightforward to offer all this with good UX? We haven't actually tried, but there's always the option to offer limited functionality by default with everything advanced hidden behind a menu.</p>
+<p>These information channels could be bundled together in different sets &amp; event streams which can then be used in separate scrollable feeds &amp; notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Perhaps it's not straightforward to offer all this with an easy &amp; intuitive UX, but we haven't even tried! There's always the option to offer limited functionality by default with everything advanced hidden behind a menu.</p>
 <p>This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to <a href="https://www.youtube.com/@UnchainedPodcast">@UnchainedPodcast</a> (this is their <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw">RSS feed</a>) with an RSS reader you might have noticed that <code>#shorts</code> are given to you along with normal videos. <a href="https://inoreader.com/">InoReader</a> allows you with a paid feature to construct custom rules such as <code>&quot;</code><em><strong><code>mark as read anything</code></strong></em><code>that</code><em><strong><code>contains</code></strong></em><code>the string</code><em><strong><code>#shorts</code></strong></em><code>&quot;</code>. We can have this, but completely generalized!</p>
 <blockquote>
 <p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/NavalismHQ/status/1556179585347112961">@naval</a></p>
@@ -418,29 +433,12 @@
 <p>Twitter decided at some point to boost engagement and forced <code>&quot;recent tweet&quot;</code> notifications down our throats <a href="https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/">with no ability to turn them off</a>. Instagram sometimes changes the notifications button indicating something new when in fact there's nothing - we're being conditioned like rats through regular pokes &amp; dopamine hits. Such things should never be out of our explicit control.</p>
 <p>When identity is decoupled from the presentation layer (applications) we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified (for example only in specific time ranges of the day). IDMs can monetize us in ways other than advertising and their incentives won't be to suck all of our attention - as opposed to applications that usually serve ads.</p>
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
-<p>██████████████████████████████████████████████████████████████████</p>
-<h1 id="today-centralized--fragmented-identity"><a class="header" href="#today-centralized--fragmented-identity">Today: centralized &amp; fragmented identity</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
+<h1 id="idms-one-accountcloud-to-rule-them-all"><a class="header" href="#idms-one-accountcloud-to-rule-them-all">IDMs: one account/cloud to rule them all</a></h1>
+<p>Let's contrast <a href="#today-centralized--fragmented-identity">today's world of centralized &amp; fragmented identity</a> to a world with a single shared identity network with interoperable &amp; exportable data:</p>
 <blockquote>
-<p>&quot;He who controls identity controls the (social) world.&quot; - <a href="https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.">Jordan Hall</a></p>
+<p>&quot;Each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know&quot; - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a> by <a href="https://twitter.com/harryhalpin">Harry Halpin</a></p>
 </blockquote>
-<p>Convenience &amp; network effects have lead to extreme levels of centralization of identity in just a few players with <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-on</a> (SSO) functionality.</p>
-<blockquote>
-<p>&quot;As of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled&quot; - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a> by <a href="https://twitter.com/harryhalpin">Harry Halpin</a></p>
-</blockquote>
-<p>But despite the concentration of SSO services a lot of identity-related data is fragmented between many more websites due to the lack of standards &amp; interoperability: settings/preferences, <a href="https://twitter.com/jonwu_/status/1524886818725847040">direct messages</a>, bookmarks, playlists, history, progress bars, etc.</p>
-<blockquote>
-<p>&quot;Identity on the internet today is fragmented across many centralized services, each with its own set of user data. Signing up for a new service requires making a brand new identity and re-entering all of your information. This is not only tedious but also means that a user’s identity is going to be inconsistent between services because they are not always going to update key information on every single service every time that something changes.&quot; - <a href="https://blog.sia.tech/skyid-how-to-make-decentralized-identity-using-skynet-2b282682f5b3#:~:text=Identity%20on%20the,that%20something%20changes.">source</a></p>
-</blockquote>
-<p>Furthermore, the individual services are often extremely limiting - people have resorted to making Twitter threads with links to other of their threads and they pin that master thread to their profiles.</p>
-<blockquote>
-<p>&quot;Twitter product request: a custom tab on my profile page i can pin my top 25 tweets — perhaps label it “best of <a href="https://twitter.com/Jason">@jason</a>”&quot; - <a href="https://twitter.com/Jason/status/1636464901911904257">Jason Calacanis</a></p>
-</blockquote>
-<p>This has lead to the rise of <a href="https://en.wikipedia.org/wiki/Linktree">Linktree</a> - a single page where you can display a number of links and conveniently point to it from all other websites (<a href="https://techcrunch.com/2022/03/16/linktree-link-in-bio-series-c-valuation/">valued at 1.3B$</a>), but it's just a bandaid for today’s fragmentation of identity. Contrast that to a world on top of a single shared identity network with interoperable &amp; exportable data:</p>
-<blockquote>
-<p>“Each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know” - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a> by <a href="https://twitter.com/harryhalpin">Harry Halpin</a></p>
-</blockquote>
-<p><strong>Linktree is the symptom, Headjack is the cure.</strong> We can actually go a lot further with our profiles:</p>
+<p>But that's just scratching the surface - let's see how much further we could push things:</p>
 <p>we can have multiple different layouts:</p>
 <ul>
 <li>a general one like Linktree</li>
@@ -451,21 +449,17 @@
 </li>
 <li>a full log of all our activity of any kind across any service (similar to the <code>Replies</code> tab of an account in Twitter, but with everything (every change, every edit, every commit) + the ability to filter it)</li>
 </ul>
-<p>██████████████████████████████████████████████████████████████████</p>
-<h1 id="idms-one-cloud-to-rule-them-all"><a class="header" href="#idms-one-cloud-to-rule-them-all">IDMs: one cloud to rule them all</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
 <p>What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?</p>
+<p>write about DMs and how you'd be able to have a single identity and filters</p>
 <ul>
-<li>
-<p>What if we had &quot;playback progress&quot; even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.</p>
-</li>
-<li>
-<p>Currently all these are segregated between disparate platforms with separate accounts</p>
-</li>
+<li>Currently all these are segregated between disparate platforms with separate accounts</li>
 </ul>
 <p>&quot;All of your messages In one inbox&quot;
 https://texts.com/</p>
 <p>what if your IDM kept a list of everything you've seen so it can be displayed in the UI?</p>
+<ul>
+<li>What if we had &quot;playback progress&quot; even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.</li>
+</ul>
 <blockquote>
 <p>&quot;One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter.&quot;
 https://twitter.com/DavidVorick/status/1618277136938274817</p>
@@ -481,15 +475,11 @@ https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
 <p>your &quot;desktop&quot; for the apps &amp; public data of the world</p>
 <p>fine-grained control
 When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users or not</p>
-<p>██████████████████████████████████████████████████████████████████</p>
 <h1 id="bookmarks--playlists"><a class="header" href="#bookmarks--playlists">Bookmarks &amp; playlists</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
 <p>Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case no one hosts it in the future.</p>
 <p>Your personal knowledge base could be built with something like <a href="https://logseq.com/">Logseq</a> with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.</p>
 <p>Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.</p>
-<p>██████████████████████████████████████████████████████████████████</p>
 <h1 id="expressivity"><a class="header" href="#expressivity">Expressivity</a></h1>
-<p>██████████████████████████████████████████████████████████████████</p>
 <p>A data network in which your input matters in an uncountable number of ways
 Expressivity!
 I want YOU to help build the metabrain
@@ -497,8 +487,6 @@ To be a good little neuron</p>
 <blockquote>
 <p>&quot;Citizen journalism is vital to the future of civilization&quot; - <a href="https://twitter.com/elonmusk/status/1615461396313178115">@elonmusk</a></p>
 </blockquote>
-<p>Realizing humanity’s potential for expression at scale</p>
-<p>Making the individual count</p>
 <p>Many social networks have polls about preferences &amp; beliefs - we've filled so much questionnaires but none of them have been truly meaningful</p>
 <p>What if we could signal our values and then be held accountable according to them? Like &quot;being considerate instead of tribal&quot; or &quot;considering both sides of an argument&quot;
 https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A</p>

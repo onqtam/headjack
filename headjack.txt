@@ -43,6 +43,17 @@ https://en.wiktionary.org/wiki/calculemus
 
 
 
+> "By reformulating arguments and ideas in terms of a characteristica universalis, or universal language, all could be rendered computable." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20reformulating%20arguments%20and%20ideas%20in%20terms%20of%20a%20characteristica%20universalis%2C%20or%20universal%20language%2C%20all%20could%20be%20rendered%20computable.) by Jonathan Gray
+
+> "By means of new artificial languages and methods, our ordinary and imperfect ways of reasoning with words and ideas would give way to a formal, symbolic, rule-governed science — conceived of as a computational process. Disputes, conflict, and grievances arising from ill-formed opinions, emotional hunches, biases, prejudices, and misunderstandings would give way to consensus, peace, and progress." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20means%20of,peace%2C%20and%20progress.) by Jonathan Gray
+
+
+
+> "Everything that can be said can be said clearly." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/328722-everything-that-can-be-thought-at-all-can-be-thought)
+
+
+
+
 > "Like any rational entity, the algorithm learns how to modify the state of its environment — in this case, the user’s mind — in order to maximize its own reward." - [Stuart Russell, Human Compatible (2019)](https://medium.com/understanding-recommenders/is-optimizing-for-engagement-changing-us-9d0ddfb0c65e#:~:text=Like%20any%20rational,Human%20Compatible%20(2019))
 
 
@@ -356,9 +367,6 @@ allowed and make sense (Ontologies)
 > "Our highest-bandwidth information channel is not speech. It's vision and touch." - [Yann LeCun](https://twitter.com/ylecun/status/1640595183946407936)
 
 instead of crowd-sourcing the truthfulness of a text post we can crowd-source only the mapping of that post to semantic triplets of assertions and automatically check those against an external set
-
-
-
 
 
 
@@ -1125,6 +1133,19 @@ headjack2://user_id:concept_id
 
 
 add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
+
+
+
+
+
+██████ slogans
+
+
+Realizing humanity’s potential for expression at scale
+
+Making the individual count
+
+
 
 
 

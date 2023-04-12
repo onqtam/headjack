@@ -1,16 +1,6 @@
 
 
-
-
-
-- Your digital footprint
-    - Anatomy of your digital footprint
-    - Multidimensionality & subscriptions
-    - Expressivity
-    - IDMs & your personal cloud
-    - Bookmarks & playlists
-    - Notifications & subscriptions
-    - Centralized & fragmented identity/preferences
+"the role of LLMs in interfacing with data"
 
 - Web 3: the Giant Global Graph
     - Show everything related - "Pull that up Jamie"
@@ -25,13 +15,6 @@
     - drowning in language
     - structured data & machine readability
     - Thought-graphs as the source of long-form
-
-
-- a
-- a
-    - bb
-    - ga
-- a
 
 
 

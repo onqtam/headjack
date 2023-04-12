@@ -39,6 +39,9 @@ https://firstmonday.org/article/view/10868/10067
 https://www.clamav.net/
 
 
+https://twitter.com/sarahemclaugh/status/1645522677229125656
+
+
 https://blog.sia.tech/the-worrying-depth-and-scope-of-censorship-on-the-internet-ffd4bc5a5486
 The most common suggestion we received in regards to our CSAM problem was to connect our website to Facebook and send them every single file that our users upload, so that Facebook can scan the file and tell us whether the file should be allowed on our website. A similar service is offered by Microsoft, and I believe Apple and Google each have something as well.
 
