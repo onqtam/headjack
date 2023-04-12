@@ -207,6 +207,7 @@ https://twitter.com/pseudotheos/status/1603832650707370009
 voting ZK stuff
 https://research.aragon.org/
 TODO: sismo here
+https://twitter.com/Sismo_eth/status/1636371873377423361
 https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustless-execution/3603
 https://forum.aragon.org/t/blind-ovote-ovote-with-blind-signatures-for-voter-anonymity/3881
 https://vitalik.ca/general/2022/06/15/using_snarks.html
@@ -219,6 +220,10 @@ quadratic voting? https://www.radicalxchange.org/concepts/plural-voting/
 
 we can bridge/bring along/transfer/extend VCs to the anonymized set of votes
 something could guide or estimate how deanonymizable we become depending on the ZK VCs we bridge
+
+secure multi-party computation
+https://github.com/sine-fdn/tandem
+https://sine.foundation/tandem
 
 
 ██████████████████████████████████████████████████████████████████

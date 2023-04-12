@@ -4,6 +4,7 @@
     https://blog.ceramic.network/capability-based-data-security-on-ceramic/
     https://en.wikipedia.org/wiki/Capability-based_security
     https://en.wikipedia.org/wiki/Object-capability_model
+    https://decentralized-id.com/web-standards/object-capabilities/
     https://blog.sia.tech/mysky-your-home-on-the-global-operating-system-of-the-future-5a288f89825c
     how about JWT objects? delegation chain with the same or lesser permissions? revocation?
 
