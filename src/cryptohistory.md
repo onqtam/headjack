@@ -163,6 +163,11 @@ The argument that specialized message types are unnecessary because AI will even
 
 # Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 
+
+TODO:
+DeSci isn't about a token and a DAO that funds X research - it's reproducible research interwoven with a global identity & reputation semantic network
+
+
 > "Society, business & money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity." - [@naval](https://twitter.com/naval/status/790443306886926337)
 
 Open source code is compiled, ran & verified by many independent actors - we should fix the [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) in science and push towards more [reproducible research](https://www.coursera.org/learn/reproducible-research).

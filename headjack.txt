@@ -36,6 +36,66 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
+
+
+== ability to crowdsource badges/labels on accounts
+NPR was labeled by Twitter as government funded (which is true) and then complain about how that would seem in the eyes of the public
+what if such labeling wasn't up to a CEO or specific platform but was crowdsourced & opt-in?
+https://twitter.com/elonmusk/status/1646225066345234437
+https://twitter.com/elonmusk/status/1646228065071292416
+
+
+
+
+
+
+
+
+
+== cybernetics
+
+> "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624)
+
+> "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
+
+> "Cybernetics is the art of steering." - [Paul Pangaro](https://twitter.com/paulpangaro)
+
+What if we could state our goals and then design our feedback system?
+
+https://www.youtube.com/watch?v=Oad8Ro8j_fE
+
+what if we could come to a consensus on a shared loss function?
+https://en.wikipedia.org/wiki/Loss_function
+
+
+
+
+
+
+
+== calculemus!
+"computable context" as a chapter - not just reputation!
+
+the future of status and prestige is authentic computable context & reputation on top of immutable cryptohistory
+
+
+
+> "The goal of media is to make every problem, your problem." - [Naval](https://twitter.com/naval/status/1310306039481262081)
+
+> "The best way, perhaps the only way, to change others is to become an example." - [Naval](https://twitter.com/naval/status/1001968749342273536)
+
+
+
+== immune system chapter
+We can crowdsource the weights for any algorithm
+We need to shift the incentives from content to pure signal, delegation and actual impact
+Behavior != revealed preference! Just because I clicked on a car crash video dorsnt mean thats all i want
+
+
+
+
+
+
 !!! calculemus ("may we calculate, may we compute")
 https://en.wiktionary.org/wiki/calculemus
 
@@ -1121,29 +1181,91 @@ context could be application/tag/campaign/post/etc.
 move from @handle to full names in citations
 
 
-Fractal protocol - what's possible with your private data
-
-
-
+Logo/Cover photo idea: headjack which extends as a vortex/fractal of interconnectedness
 
 == double addressing?
 headjack://app_id/nonce/user_id/content_id
 headjack2://user_id:concept_id
 
 
-
-add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
-
+when we give a universal address to any item extensibility becomes trivial. Suppose you have a list of movies and you want to edit it in a way that's not allowed by the UI - what if you could write a script to fetch it, process it and re-upload the new version?
 
 
+The 2 dirtiest words when it comes to the Twitter API: "rate limited" - read "innovation & insight limited"
 
+we should disincentivize engagement farming
+
+
+fine-grained control
+When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users or not
+
+
+Economics is downstream of coordination
+
+
+there isn't an ounce of fat to remove from this design - anything more minimalistic would complicate the mental model for working with the system.
+
+
+According to cybernetics, intelligence sits on top of feedback loops
+
+Enders game - what kids could do in the metaverse
 
 ██████ slogans
 
+The tweets of the future will be statements of semantic triples
 
 Realizing humanity’s potential for expression at scale
 
 Making the individual count
+
+We need a shared reality
+
+giving everyone an identifier
+
+knowledge worker => semantic worker
+
+I want YOU to help build the metabrain
+
+I want YOU to be a good little neuron
+Be a good little neuron
+
+“What is real social media”
+True social media is free-form
+
+A bicycle for the (hive)mind
+
+Social media 1.0: poop emoji
+Social media 2.0: a global self-organizing brain aka AGI
+
+the metaverse is where anything is possible
+
+Social media 2.0
+The internet 2.0 the dataverse
+
+the metaverse is the address space around the identity network
+
+The matrix vs the superapp - you can fetch & analyze anything and enhance yourself
+
+putting society back in the drivers seat
+
+public data is our commons and it should be programmatically accessible by anyone
+
+
+██████ ideas about page & book structure (& titles!)
+
+
+add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
+
+a data-driven society
+
+"THE LIMITS OF LANGUAGE"
+
+"the role of LLMs in interfacing (with data)"
+
+"Curators & labelers"
+
+Amending google’s failure (to organize the worlds information)
+
 
 
 

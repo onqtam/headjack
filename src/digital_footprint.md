@@ -264,9 +264,13 @@ In an open & interoperable data environment anything could become an event strea
 
 These information channels could be bundled together in different sets & event streams which can then be used in separate scrollable feeds & notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Perhaps it's not straightforward to offer all this with an easy & intuitive UX, but we haven't even tried! There's always the option to offer limited functionality by default with everything advanced hidden behind a menu.
 
+
+TODO: how could us seeing what others are subscribing us for about change what we produce? a sophisticated form of audience capture?
+
+
 This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to [@UnchainedPodcast](https://www.youtube.com/@UnchainedPodcast) (this is their [RSS feed](https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw)) with an RSS reader you might have noticed that `#shorts` are given to you along with normal videos. [InoReader](https://inoreader.com/) allows you with a paid feature to construct custom rules such as `"`***`mark as read anything`***` that `***`contains`***` the string `***`#shorts`***`"`. We can have this, but completely generalized!
 
-> "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/NavalismHQ/status/1556179585347112961)
+> "Notifications are just alarm clocks that someone else is setting for you." - [@naval](https://twitter.com/naval/status/1012389905840816133)
 
 Twitter decided at some point to boost engagement and forced `"recent tweet"` notifications down our throats [with no ability to turn them off](https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/). Instagram sometimes changes the notifications button indicating something new when in fact there's nothing - we're being conditioned like rats through regular pokes & dopamine hits. Such things should never be out of our explicit control.
 
@@ -274,81 +278,51 @@ When identity is decoupled from the presentation layer (applications) we could h
 
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
 
-# IDMs: one account/cloud to rule them all
+# IDMs: one cloud & profile to rule them all
 
 Let's contrast [today's world of centralized & fragmented identity](#today-centralized--fragmented-identity) to a world with a single shared identity network with interoperable & exportable data:
 
 > "Each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document) by [Harry Halpin](https://twitter.com/harryhalpin)
 
-But that's just scratching the surface - let's see how much further we could push things:
+But that's just scratching the surface - how much further could we push things? Some examples:
 
-we can have multiple different layouts:
-- a general one like Linktree
-- specialized ones for different domain-specific apps & usecases
-    - apps can simply choose to display only the relevant parts from our profile in custom views
-- a full log of all our activity of any kind across any service (similar to the `Replies` tab of an account in Twitter, but with everything (every change, every edit, every commit) + the ability to filter it)
-
-
-What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?
-
-
-write about DMs and how you'd be able to have a single identity and filters
-
-
-- Currently all these are segregated between disparate platforms with separate accounts
+- A **single place for all your messages** (DMs & email) - similar to [Texts](https://texts.com/) (`"All of your messages in one inbox"`) but not beholden to the terms of service & ephemerality of platform APIs.
+    - **Define filters & thresholds for cold DMs** - imagine having separate buckets of messages directed towards you which you can define based on different properties (account older than 2 years? credentials of specific type? community overlap - up to 3 degrees of separation from you?), amount paid to contact you (setting a price for yourself), etc.
+- Universal **bookmarks** - they'll work for any type of document from any application and you could even cache locally in your cloud the actual content that a URI points to along with proofs.
+    - **Playlists** are lists of bookmarks and could work even with different audio/video apps which have given URIs to tracks. Spotify could be just an app that uses your IDM for account storage (managing your library & tracking your progress on podcasts) and is paying hosting providers for storage & bandwidth for streaming.
+    - Your **personal knowledge base** could be built with something like [Logseq](https://logseq.com/) or [Roam](https://roamresearch.com/) on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away and could even be seamlessly integrated in the UX.
+    - **Browser integration** - using any IDM for cloud sync through a standard interface.
+- **Profile presets** - different versions of what to display depending on the context:
+    - **Full profile** - a MySpace/Linktree-like page with everything you'd like to show + a log of all your public activity of any kind across any app/service - similar to the `Replies` tab of an account in Twitter, but with everything (changes, edits, commits) and the ability to filter it.
+    - **Context-dependent views** for domain-specific apps - those that deal mostly with images could display the relevant subset of your full profile: pictures & a log of events related only to images. Apps geared towards professional work & resumes could display your CV and a list of credentials & attestations. This can happen either by explicitly defining subsets of attributes as different presets or automatically by the apps through filtering based on type/tag. One could always view the full profile as well.
+- **History of documents you've viewed** - currently we have this for pages in our browsers but what if everything with a URI that we have viewed could also be saved in our cloud? We could then use this history to filter out content from feeds that we've already looked at. We could define different criteria for what constitutes "looked" - could be 1 second on screen, could be 10.
 
 
-"All of your messages In one inbox"
-https://texts.com/
+imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
+
 
 
 what if your IDM kept a list of everything you've seen so it can be displayed in the UI?
 - What if we had "playback progress" even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.
 
+- Define your **home / front page** - shortcuts, dashboards, folders & widgets with a customizable layout - anything you need. But more on that in the superapp section of this book.
 
 
 
 
-> "One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter."
-https://twitter.com/DavidVorick/status/1618277136938274817
-
-different filters & thresholds for cold DMs - it should be easier for people from your communities to contact you. Such preferences should be possible.
-
-TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
-What If You Quit Social Media For 30 Days?
-https://www.youtube.com/watch?v=_u5p6hwS5SM
-
-the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged
-
-imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
 
 
-When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
 
 
-ability to set priorities for notifications and build a "home dashboard" that takes those into account
-
-your "desktop" for the apps & public data of the world
-
-fine-grained control
-When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users or not
 
 
-# Bookmarks & playlists
+All this would be easiest to build around a single unified identity network.
 
-
-Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case no one hosts it in the future.
-
-Your personal knowledge base could be built with something like [Logseq](https://logseq.com/) with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.
-
-Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.
 
 # Expressivity
 
 A data network in which your input matters in an uncountable number of ways
 Expressivity!
-I want YOU to help build the metabrain
-To be a good little neuron
 
 > "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
 
@@ -358,3 +332,28 @@ What if we could signal our values and then be held accountable according to the
 https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
 
 
+
+
+and what if we could mark paragraphs with colors from any document and save that locally?
+
+
+
+
+
+
+
+
+
+
+# other crap
+
+> "One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter."
+https://twitter.com/DavidVorick/status/1618277136938274817
+
+TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
+What If You Quit Social Media For 30 Days?
+https://www.youtube.com/watch?v=_u5p6hwS5SM
+
+When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
+
+the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged

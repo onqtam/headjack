@@ -146,9 +146,17 @@ https://en.wikipedia.org/wiki/Panopticon
 - big disadvantage: once data is out - it is out. Services should honor delete & purge requests but there's no way to force them. Any distributed system will be like this
 
 
+complexity around connections and subscriptions - if they're private then that would hinder discoverability...
 
 
 
+Cambridge analytica
+Targeting
+> "Show us 14 photos of yourself and we can identify who you are." - [Eric Schmidt](https://www.azquotes.com/quote/838235)
+concern: availability cascades & mimetic theory
+Targeted harassment campaigns
+
+concern: Identify gay ppl in Iran
 
 
 

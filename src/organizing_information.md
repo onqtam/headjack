@@ -105,6 +105,9 @@ reducing the vocabulary of common knowledge
 <!-- # Thought-graphs: an upgrade to linguistics -->
 ██████████████████████████████████████████████████████████████████
 
+“Semantic graphs” instead of thought
+Semantic graphs as the primary source
+
 <!-- What about complex thoughts? Again, language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
 
 knowledge engineering
@@ -200,6 +203,14 @@ this is relevant to the above section
 <!-- # Free-form associations: anything-to-anything -->
 # Show everything related - "Pull that up Jamie"
 ██████████████████████████████████████████████████████████████████
+
+suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?
+
+Pull that up jamie - common knowledge is easier this way - also when networks arent fragmented
+
+What if we could see the TL;DR for anything? (connected to changing the titles for less clickbait)
+
+
 
 We should be able to see all references & content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize & filter through the UI. Examples:
 

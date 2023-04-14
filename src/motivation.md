@@ -45,6 +45,8 @@ https://www.google.com/search?q=the+golden+circle
 
 <!--
 
+An architectural blueprint for everything digital
+
 
 
 -->

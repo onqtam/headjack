@@ -299,6 +299,10 @@ row: type of account key or joinability or compactness of key: number or (hash o
 
 Competition - 1-of-N
 
+
+Farcastter has coupled message types with the implementation of their hub
+
+
 Storage agnostic or opinionated in table
 
 protocol-first vs app-first
@@ -315,6 +319,15 @@ about bluesky
 Having the app id and doing batch commitments simplifies routing and aids self-authenticity for documents
 
 names are worthless if they aren't in URIs pointing to documents
+
+the p2p layer is often the biggest & easiest attack surface for protocols - that's why headjack aims to have the hardest possible guarantees for the root of everything - identifiers, keys, names and off-chain ways for off-protocol contact
+
+the problem with the IPFS/Filecoin address space (and any that is data-centric with hashes) is that it is flat - and thus the network suffers when scaled
+
+todo: read
+https://warpcast.notion.site/Warpcast-API-Docs-Signer-Requests-Public-e02ef71883374d2ca8d27239a8cc35d5
+https://github.com/farcasterxyz/protocol#92-signers
+
 
 The winner take all singleton is the easiest mentally
 

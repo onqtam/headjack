@@ -256,6 +256,8 @@ we put way too much importance and give way too much attention to narrative buil
 
 the skill tree in linkedin is completely fake - we could crowdsource it or have reputation systems based on real events & attestations and allow for any visualization
 
+> "Twitter is a much better resumé than LinkedIn." - [Naval](https://twitter.com/naval/status/1089969197264777217)
+
 we can have a leaderboard for every topic under the sun
 
 Replace signaling with competence
