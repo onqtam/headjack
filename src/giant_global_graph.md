@@ -5,6 +5,8 @@
 
 <!--
 
+The semantic web was an afterthought
+
 maybe the chapter should be called "web3 & the semantic web"
 
 -->

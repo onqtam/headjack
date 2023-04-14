@@ -39,6 +39,13 @@ https://firstmonday.org/article/view/10868/10067
 https://www.clamav.net/
 
 
+
+
+!!! READ THIS !!!
+https://blueskyweb.xyz/blog/4-13-2023-moderation
+
+
+
 https://twitter.com/sarahemclaugh/status/1645522677229125656
 
 

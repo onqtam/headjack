@@ -204,6 +204,8 @@ what if the whitepaper comes with an IDM specification or design such that it wo
 pitch the VCs: this is not constructing a single thing and trying to own it as much as possible - this is a model for collaborative media building and since it's modular and there are plenty of slices for everyone we can simply fund the best teams and not have to compete for the sections that we aren't profficient in. There's no need to fear competition because its in the best interest of everyone to simply do the next chunk that could provide a composable service
 
 
+Perhaps the attention exonomy pie will be smaller in a world with less exploitative mechanics btw thats a good thing - the current status quo is maladaptively inflated - a paperclip maximizer
+
 
 all business models try to capture attention - not just those relying on ads.
 https://twitter.com/jonathanstray/status/1644768765463379968

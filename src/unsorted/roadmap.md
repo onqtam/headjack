@@ -45,6 +45,9 @@ Headjack - having a lower ID
 
 Oauth as a partner
 
+
+auction the first 10k indexes in different tiers and raise funds
+
 https://www.privy.io/
 
 https://www.defmacro.org/2019/03/26/startup-checklist.html

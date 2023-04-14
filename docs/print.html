@@ -1492,6 +1492,10 @@ row: type of account key or joinability or compactness of key: number or (hash o
 
 Competition - 1-of-N
 
+
+Farcastter has coupled message types with the implementation of their hub
+
+
 Storage agnostic or opinionated in table
 
 protocol-first vs app-first
@@ -1508,6 +1512,15 @@ about bluesky
 Having the app id and doing batch commitments simplifies routing and aids self-authenticity for documents
 
 names are worthless if they aren't in URIs pointing to documents
+
+the p2p layer is often the biggest & easiest attack surface for protocols - that's why headjack aims to have the hardest possible guarantees for the root of everything - identifiers, keys, names and off-chain ways for off-protocol contact
+
+the problem with the IPFS/Filecoin address space (and any that is data-centric with hashes) is that it is flat - and thus the network suffers when scaled
+
+todo: read
+https://warpcast.notion.site/Warpcast-API-Docs-Signer-Requests-Public-e02ef71883374d2ca8d27239a8cc35d5
+https://github.com/farcasterxyz/protocol#92-signers
+
 
 The winner take all singleton is the easiest mentally
 
@@ -1983,30 +1996,7 @@ https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
 normal people
 using keypairs & signing actions trustlessly
 https://imgflip.com/memegenerator/112528910/Guy-checks-out-red-dress-girl -->
-<div style="break-before: page; page-break-before: always;"></div><p>&quot;the role of LLMs in interfacing with data&quot;</p>
-<ul>
-<li>Web 3: the Giant Global Graph
-<ul>
-<li>Show everything related - &quot;Pull that up Jamie&quot;</li>
-<li>Curators &amp; labelers</li>
-</ul>
-</li>
-</ul>
-<p>&quot;THE LIMITS OF LANGUAGE&quot;</p>
-<ul>
-<li>
-<p>Incentives &amp; algorithms</p>
-</li>
-<li>
-<p>organizing information</p>
-<ul>
-<li>drowning in language</li>
-<li>structured data &amp; machine readability</li>
-<li>Thought-graphs as the source of long-form</li>
-</ul>
-</li>
-</ul>
-<ul>
+<div style="break-before: page; page-break-before: always;"></div><ul>
 <li><a href="topics.html#infinite-possibilities">infinite possibilities</a></li>
 <li><a href="topics.html#giant-global-graph---open-data">Giant global graph - open data</a></li>
 <li><a href="topics.html#the-superapp">The superapp</a></li>
@@ -2023,7 +2013,6 @@ https://imgflip.com/memegenerator/112528910/Guy-checks-out-red-dress-girl -->
 <h1 id="infinite-possibilities"><a class="header" href="#infinite-possibilities">infinite possibilities</a></h1>
 <h1 id="giant-global-graph---open-data"><a class="header" href="#giant-global-graph---open-data">Giant global graph - open data</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
-<p>Follow preferences of others - not just as notifications for changes but also the ability to automatically adopt them</p>
 <p>Sociology and how anyone can do it - picture: mirror
 We can all do what sociologists do</p>
 <p>we should be able to express &quot;I care about deforestation and the Amazon rainforest&quot; and set up filters for notifications for events regarding that</p>
@@ -2037,6 +2026,7 @@ Example: github stars - what if anyone could develop filters for the stars of pe
 </blockquote>
 <p>Elon Musk gets it - network effects are a crucial part</p>
 <p>UIs should be drag/drop composable &amp; layoutable - in the superapp</p>
+<p>we can crowdsource the default view/layout for a given entity in the superapp - with the option to override how we'd want to see it</p>
 <p>Elon Musk's vision for the X app pales in comparison to the potential of the superapp</p>
 <p>think of the the superapp as a browser</p>
 <p>what if your home page was like a desktop?</p>
@@ -2305,6 +2295,8 @@ https://twitter.com/gainzy222/status/1607114941567471621
 <p>&quot;Finally, self-authenticating data provides more mechanisms that can be used to establish trust. Self-authenticated data can retain metadata, like who published something and whether it was changed. Reputation and trust-graphs can be constructed on top of users, content, and services. The transparency provided by <a href="https://en.wikipedia.org/wiki/Verifiable_computing">verifiable computation</a> provides a new tool for establishing trust by showing precisely how the results were produced. We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products.&quot; - <a href="https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol">bluesky</a></p>
 </blockquote>
 <h1 id="science-peer-review--desci"><a class="header" href="#science-peer-review--desci">Science, peer review &amp; <a href="https://future.com/what-is-decentralized-science-aka-desci/">DeSci</a></a></h1>
+<p>TODO:
+DeSci isn't about a token and a DAO that funds X research - it's reproducible research interwoven with a global identity &amp; reputation semantic network</p>
 <blockquote>
 <p>&quot;Society, business &amp; money are downstream of technology, which is itself downstream of science. Science applied is the engine of humanity.&quot; - <a href="https://twitter.com/naval/status/790443306886926337">@naval</a></p>
 </blockquote>
@@ -2334,6 +2326,8 @@ https://imgflip.com/memegenerator/92084495/Charlie-Conspiracy-Always-Sunny-in-Ph
 <li><a href="giant_global_graph.html#the-semantic-web-aka-the-original-web3">The Semantic Web (a.k.a. the original &quot;Web3&quot;)</a></li>
 </ul>
 <!--
+
+The semantic web was an afterthought
 
 maybe the chapter should be called "web3 & the semantic web"
 
@@ -2456,9 +2450,9 @@ With OGP, only entities like Facebook and the website owner get the structured d
 <li><a href="digital_footprint.html#the-2d-visibility-matrix-of-our-actions">The 2D visibility matrix of our actions</a></li>
 <li><a href="digital_footprint.html#connections-follows--multidimensionality">Connections, follows &amp; multidimensionality</a></li>
 <li><a href="digital_footprint.html#event-streams-subscriptions--notifications">Event streams, subscriptions &amp; notifications</a></li>
-<li><a href="digital_footprint.html#idms-one-accountcloud-to-rule-them-all">IDMs: one account/cloud to rule them all</a></li>
-<li><a href="digital_footprint.html#bookmarks--playlists">Bookmarks &amp; playlists</a></li>
+<li><a href="digital_footprint.html#idms-one-cloud--profile-to-rule-them-all">IDMs: one cloud &amp; profile to rule them all</a></li>
 <li><a href="digital_footprint.html#expressivity">Expressivity</a></li>
+<li><a href="digital_footprint.html#other-crap">other crap</a></li>
 </ul>
 <h1 id="today-centralized--fragmented-identity"><a class="header" href="#today-centralized--fragmented-identity">Today: centralized &amp; fragmented identity</a></h1>
 <p>Convenience &amp; network effects have lead to extreme levels of centralization of identity in just a few players with <a href="https://en.wikipedia.org/wiki/Single_sign-on">single sign-on</a> (SSO) functionality.</p>
@@ -2719,70 +2713,72 @@ With OGP, only entities like Facebook and the website owner get the structured d
 </ul>
 <p>In an open &amp; interoperable data environment anything could become an event stream as long as someone is willing to pay for the processing costs (filtration, transformation, storage &amp; bandwidth) - we could construct any kind of stream by transforming &amp; joining others - similar to Kafka. If someone starts transcribing audio episodes with speech-to-text (<a href="https://openai.com/blog/whisper/">whisper</a>?) and publishing the output by referencing the original item it would immediately become available to anyone and could automatically end up being parsed, indexed &amp; pushed through data pipelines. <strong>Composability</strong>.</p>
 <p>These information channels could be bundled together in different sets &amp; event streams which can then be used in separate scrollable feeds &amp; notification folders with different settings and meaning to us. We can explicitly compartmentalize our attention budget in different buckets. Perhaps it's not straightforward to offer all this with an easy &amp; intuitive UX, but we haven't even tried! There's always the option to offer limited functionality by default with everything advanced hidden behind a menu.</p>
+<p>TODO: how could us seeing what others are subscribing us for about change what we produce? a sophisticated form of audience capture?</p>
 <p>This isn't a new idea - the open nature of RSS has enabled readers (software clients) to offer users the ability to construct rules for subcriptions and manage them in folders. A little known fact is that YouTube channels have RSS feeds. If you subscribed to <a href="https://www.youtube.com/@UnchainedPodcast">@UnchainedPodcast</a> (this is their <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCWiiMnsnw5Isc2PP1to9nNw">RSS feed</a>) with an RSS reader you might have noticed that <code>#shorts</code> are given to you along with normal videos. <a href="https://inoreader.com/">InoReader</a> allows you with a paid feature to construct custom rules such as <code>&quot;</code><em><strong><code>mark as read anything</code></strong></em><code>that</code><em><strong><code>contains</code></strong></em><code>the string</code><em><strong><code>#shorts</code></strong></em><code>&quot;</code>. We can have this, but completely generalized!</p>
 <blockquote>
-<p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/NavalismHQ/status/1556179585347112961">@naval</a></p>
+<p>&quot;Notifications are just alarm clocks that someone else is setting for you.&quot; - <a href="https://twitter.com/naval/status/1012389905840816133">@naval</a></p>
 </blockquote>
 <p>Twitter decided at some point to boost engagement and forced <code>&quot;recent tweet&quot;</code> notifications down our throats <a href="https://www.reddit.com/r/Twitter/comments/qwvhhb/how_do_you_disable_recent_tweets_from_x/">with no ability to turn them off</a>. Instagram sometimes changes the notifications button indicating something new when in fact there's nothing - we're being conditioned like rats through regular pokes &amp; dopamine hits. Such things should never be out of our explicit control.</p>
 <p>When identity is decoupled from the presentation layer (applications) we could have IDMs that align with our needs - we could fine-tune how and when we want to be notified (for example only in specific time ranges of the day). IDMs can monetize us in ways other than advertising and their incentives won't be to suck all of our attention - as opposed to applications that usually serve ads.</p>
 <!-- Our minds filter out inconsequential sensations by default but we may tune them in with focus - we should have even greater levels of control in the digital realm. The stream of events for whatever we are interested in needs the most sophisticated filtering and configuration possible and anyone should be able to plug into the global event bus and develop new tools. -->
-<h1 id="idms-one-accountcloud-to-rule-them-all"><a class="header" href="#idms-one-accountcloud-to-rule-them-all">IDMs: one account/cloud to rule them all</a></h1>
+<h1 id="idms-one-cloud--profile-to-rule-them-all"><a class="header" href="#idms-one-cloud--profile-to-rule-them-all">IDMs: one cloud &amp; profile to rule them all</a></h1>
 <p>Let's contrast <a href="digital_footprint.html#today-centralized--fragmented-identity">today's world of centralized &amp; fragmented identity</a> to a world with a single shared identity network with interoperable &amp; exportable data:</p>
 <blockquote>
 <p>&quot;Each time we go from one social network to another we do not need to restate who we are, what our interests are, or who we know&quot; - <a href="https://hal.inria.fr/hal-01966561/document">Decentralizing the Social Web</a> by <a href="https://twitter.com/harryhalpin">Harry Halpin</a></p>
 </blockquote>
-<p>But that's just scratching the surface - let's see how much further we could push things:</p>
-<p>we can have multiple different layouts:</p>
+<p>But that's just scratching the surface - how much further could we push things? Some examples:</p>
 <ul>
-<li>a general one like Linktree</li>
-<li>specialized ones for different domain-specific apps &amp; usecases
+<li>A <strong>single place for all your messages</strong> (DMs &amp; email) - similar to <a href="https://texts.com/">Texts</a> (<code>&quot;All of your messages in one inbox&quot;</code>) but not beholden to the terms of service &amp; ephemerality of platform APIs.
 <ul>
-<li>apps can simply choose to display only the relevant parts from our profile in custom views</li>
+<li><strong>Define filters &amp; thresholds for cold DMs</strong> - imagine having separate buckets of messages directed towards you which you can define based on different properties (account older than 2 years? credentials of specific type? community overlap - up to 3 degrees of separation from you?), amount paid to contact you (setting a price for yourself), etc.</li>
 </ul>
 </li>
-<li>a full log of all our activity of any kind across any service (similar to the <code>Replies</code> tab of an account in Twitter, but with everything (every change, every edit, every commit) + the ability to filter it)</li>
-</ul>
-<p>What if IDMs filled that role? What if IDMs could integrate with browsers such that bookmarks were saved in your IDM cloud?</p>
-<p>write about DMs and how you'd be able to have a single identity and filters</p>
+<li>Universal <strong>bookmarks</strong> - they'll work for any type of document from any application and you could even cache locally in your cloud the actual content that a URI points to along with proofs.
 <ul>
-<li>Currently all these are segregated between disparate platforms with separate accounts</li>
+<li><strong>Playlists</strong> are lists of bookmarks and could work even with different audio/video apps which have given URIs to tracks. Spotify could be just an app that uses your IDM for account storage (managing your library &amp; tracking your progress on podcasts) and is paying hosting providers for storage &amp; bandwidth for streaming.</li>
+<li>Your <strong>personal knowledge base</strong> could be built with something like <a href="https://logseq.com/">Logseq</a> or <a href="https://roamresearch.com/">Roam</a> on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away and could even be seamlessly integrated in the UX.</li>
+<li><strong>Browser integration</strong> - using any IDM for cloud sync through a standard interface.</li>
 </ul>
-<p>&quot;All of your messages In one inbox&quot;
-https://texts.com/</p>
+</li>
+<li><strong>Profile presets</strong> - different versions of what to display depending on the context:
+<ul>
+<li><strong>Full profile</strong> - a MySpace/Linktree-like page with everything you'd like to show + a log of all your public activity of any kind across any app/service - similar to the <code>Replies</code> tab of an account in Twitter, but with everything (changes, edits, commits) and the ability to filter it.</li>
+<li><strong>Context-dependent views</strong> for domain-specific apps - those that deal mostly with images could display the relevant subset of your full profile: pictures &amp; a log of events related only to images. Apps geared towards professional work &amp; resumes could display your CV and a list of credentials &amp; attestations. This can happen either by explicitly defining subsets of attributes as different presets or automatically by the apps through filtering based on type/tag. One could always view the full profile as well.</li>
+</ul>
+</li>
+<li><strong>History of documents you've viewed</strong> - currently we have this for pages in our browsers but what if everything with a URI that we have viewed could also be saved in our cloud? We could then use this history to filter out content from feeds that we've already looked at. We could define different criteria for what constitutes &quot;looked&quot; - could be 1 second on screen, could be 10.</li>
+</ul>
+<p>imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a &quot;seen&quot; list with URIs which you can later browse like the history in youtube - something like this should exist</p>
 <p>what if your IDM kept a list of everything you've seen so it can be displayed in the UI?</p>
 <ul>
-<li>What if we had &quot;playback progress&quot; even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.</li>
+<li>
+<p>What if we had &quot;playback progress&quot; even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.</p>
+</li>
+<li>
+<p>Define your <strong>home / front page</strong> - shortcuts, dashboards, folders &amp; widgets with a customizable layout - anything you need. But more on that in the superapp section of this book.</p>
+</li>
 </ul>
-<blockquote>
-<p>&quot;One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter.&quot;
-https://twitter.com/DavidVorick/status/1618277136938274817</p>
-</blockquote>
-<p>different filters &amp; thresholds for cold DMs - it should be easier for people from your communities to contact you. Such preferences should be possible.</p>
-<p>TODO: add this in the attention &amp; alarms &amp; notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
-What If You Quit Social Media For 30 Days?
-https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
-<p>the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged</p>
-<p>imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a &quot;seen&quot; list with URIs which you can later browse like the history in youtube - something like this should exist</p>
-<p>When you show your Attention (what algorithms, apps &amp; settings you're using, &amp; even your history) you get attention for it - in regards to the signaling</p>
-<p>ability to set priorities for notifications and build a &quot;home dashboard&quot; that takes those into account</p>
-<p>your &quot;desktop&quot; for the apps &amp; public data of the world</p>
-<p>fine-grained control
-When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users or not</p>
-<h1 id="bookmarks--playlists"><a class="header" href="#bookmarks--playlists">Bookmarks &amp; playlists</a></h1>
-<p>Universal bookmarks - they can have a single repository (your IDM) and work for any type of document from any application. They will be persistent and you could even cache the actual contents that a URI points to along with proofs - in case no one hosts it in the future.</p>
-<p>Your personal knowledge base could be built with something like <a href="https://logseq.com/">Logseq</a> with URI references to external documents that can be locally cached. Looking up the discussion/commentary for a resource with a URI would be just 1 click away.</p>
-<p>Playlists are lists of bookmarks and could work even with heterogeneous audio/video providers which anchor the tracks and provide URIs for them. Spotify could be just an application that uses your IDM for account storage and is paying to other media hosting providers for the streaming.</p>
+<p>All this would be easiest to build around a single unified identity network.</p>
 <h1 id="expressivity"><a class="header" href="#expressivity">Expressivity</a></h1>
 <p>A data network in which your input matters in an uncountable number of ways
-Expressivity!
-I want YOU to help build the metabrain
-To be a good little neuron</p>
+Expressivity!</p>
 <blockquote>
 <p>&quot;Citizen journalism is vital to the future of civilization&quot; - <a href="https://twitter.com/elonmusk/status/1615461396313178115">@elonmusk</a></p>
 </blockquote>
 <p>Many social networks have polls about preferences &amp; beliefs - we've filled so much questionnaires but none of them have been truly meaningful</p>
 <p>What if we could signal our values and then be held accountable according to them? Like &quot;being considerate instead of tribal&quot; or &quot;considering both sides of an argument&quot;
 https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A</p>
+<p>and what if we could mark paragraphs with colors from any document and save that locally?</p>
+<h1 id="other-crap"><a class="header" href="#other-crap">other crap</a></h1>
+<blockquote>
+<p>&quot;One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter.&quot;
+https://twitter.com/DavidVorick/status/1618277136938274817</p>
+</blockquote>
+<p>TODO: add this in the attention &amp; alarms &amp; notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
+What If You Quit Social Media For 30 Days?
+https://www.youtube.com/watch?v=_u5p6hwS5SM</p>
+<p>When you show your Attention (what algorithms, apps &amp; settings you're using, &amp; even your history) you get attention for it - in regards to the signaling</p>
+<p>the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="organizing-information"><a class="header" href="#organizing-information">Organizing information</a></h1>
 <h1 id="its-all-connected"><a class="header" href="#its-all-connected">It's all connected</a></h1>
 <ul>
@@ -2881,6 +2877,8 @@ reducing the symbol space</p>
 <h1 id="thought-graphs-as-the-source-of-long-form"><a class="header" href="#thought-graphs-as-the-source-of-long-form">Thought-graphs as the source of long-form</a></h1>
 <!-- # Thought-graphs: an upgrade to linguistics -->
 <p>██████████████████████████████████████████████████████████████████</p>
+<p>“Semantic graphs” instead of thought
+Semantic graphs as the primary source</p>
 <!-- What about complex thoughts? Again, language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
 
 knowledge engineering
@@ -2977,6 +2975,9 @@ TODO: debate map section here? -->
 <!-- # Free-form associations: anything-to-anything -->
 <h1 id="show-everything-related---pull-that-up-jamie"><a class="header" href="#show-everything-related---pull-that-up-jamie">Show everything related - &quot;Pull that up Jamie&quot;</a></h1>
 <p>██████████████████████████████████████████████████████████████████</p>
+<p>suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?</p>
+<p>Pull that up jamie - common knowledge is easier this way - also when networks arent fragmented</p>
+<p>What if we could see the TL;DR for anything? (connected to changing the titles for less clickbait)</p>
 <p>We should be able to see all references &amp; content related to any identity, event/document or entity/concept/noun as a collection of comments, reactions/votes, annotations, redirections and edits/forks which we could organize &amp; filter through the UI. Examples:</p>
 <ol>
 <li>
@@ -3489,6 +3490,9 @@ https://sine.foundation/tandem</p>
 <p>tipranks-ify finance and predictions</p>
 <p>we put way too much importance and give way too much attention to narrative builders and we underestimate the importance of transparency, track record &amp; skin in the game</p>
 <p>the skill tree in linkedin is completely fake - we could crowdsource it or have reputation systems based on real events &amp; attestations and allow for any visualization</p>
+<blockquote>
+<p>&quot;Twitter is a much better resumé than LinkedIn.&quot; - <a href="https://twitter.com/naval/status/1089969197264777217">Naval</a></p>
+</blockquote>
 <p>we can have a leaderboard for every topic under the sun</p>
 <p>Replace signaling with competence</p>
 <p>Skin in the game</p>
@@ -3909,6 +3913,7 @@ https://en.wikipedia.org/wiki/Contextual_integrity
 <p>do a diagram with the flow of information through a few filters &amp; layered indexes - show who is paying who and what is public and what is private and how this can support both ads &amp; subscription models to varying degrees</p>
 <p>what if the whitepaper comes with an IDM specification or design such that it would be modular and the individual pieces could be described from the start so that people can jump in and work in parallel towards the same shared vision? This is the data and opinion portability network.</p>
 <p>pitch the VCs: this is not constructing a single thing and trying to own it as much as possible - this is a model for collaborative media building and since it's modular and there are plenty of slices for everyone we can simply fund the best teams and not have to compete for the sections that we aren't profficient in. There's no need to fear competition because its in the best interest of everyone to simply do the next chunk that could provide a composable service</p>
+<p>Perhaps the attention exonomy pie will be smaller in a world with less exploitative mechanics btw thats a good thing - the current status quo is maladaptively inflated - a paperclip maximizer</p>
 <p>all business models try to capture attention - not just those relying on ads.
 https://twitter.com/jonathanstray/status/1644768765463379968
 maybe don't include this?</p>
@@ -4348,6 +4353,8 @@ https://imgflip.com/memegenerator/162372564/Domino-Effect -->
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 <!--
 
+An architectural blueprint for everything digital
+
 
 
 -->
@@ -4448,7 +4455,7 @@ https://twitter.com/emollick/status/1541617216130531328
 </ul>
 </li>
 <li>There is no way for users to &quot;fork&quot; a Reddit community if they no longer agree with the way moderation is happening - they have to recreate a new subreddit from scratch.</li>
-<li>There is no market for solving certain types of spam such as financial scams - Twitter &amp; YouTube are riddled with templatized messages and their internal <a href="TODO.html#vertical-integration-vs-specialization--competition">vertically integrated</a> teams are unable to deal with yet another problem in a world-class manner. In an open system such as e-mail the competition &amp; innovation for solving spam has been tremendous.</li>
+<li>There is no market for solving certain types of spam such as financial scams - Twitter &amp; YouTube are riddled with templatized messages and their internal <a href="TODO.html#vertical-integration-vs-specialization--competition">vertically integrated</a> teams are unable to deal with yet another problem in a world-class manner. In an open system such as email the competition &amp; innovation for solving spam has been tremendous.</li>
 </ul>
 <!-- Think of all the ethnic, religious, political & corporate disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->
 <!-- addictive social media - toxic -->
@@ -5090,6 +5097,15 @@ https://en.wikipedia.org/wiki/Panopticon</p>
 <ul>
 <li>big disadvantage: once data is out - it is out. Services should honor delete &amp; purge requests but there's no way to force them. Any distributed system will be like this</li>
 </ul>
+<p>complexity around connections and subscriptions - if they're private then that would hinder discoverability...</p>
+<p>Cambridge analytica
+Targeting</p>
+<blockquote>
+<p>&quot;Show us 14 photos of yourself and we can identify who you are.&quot; - <a href="https://www.azquotes.com/quote/838235">Eric Schmidt</a>
+concern: availability cascades &amp; mimetic theory
+Targeted harassment campaigns</p>
+</blockquote>
+<p>concern: Identify gay ppl in Iran</p>
 <h1 id="other-challenges"><a class="header" href="#other-challenges">Other challenges</a></h1>
 <p>This brave new world of new types of media will be at odds with the current system:
 problem: apple does not allow apps with internal app stores?

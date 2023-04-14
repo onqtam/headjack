@@ -1,39 +1,10 @@
 
-
-"the role of LLMs in interfacing with data"
-
-- Web 3: the Giant Global Graph
-    - Show everything related - "Pull that up Jamie"
-    - Curators & labelers
-
-
-"THE LIMITS OF LANGUAGE"
-
-- Incentives & algorithms
-
-- organizing information
-    - drowning in language
-    - structured data & machine readability
-    - Thought-graphs as the source of long-form
-
-
-
-
-
-
-
-
-
-
 <!-- toc -->
-
 
 ██████████████████████████████████████████████████████████████████
 # infinite possibilities
 # Giant global graph - open data
 ██████████████████████████████████████████████████████████████████
-
-Follow preferences of others - not just as notifications for changes but also the ability to automatically adopt them
 
 Sociology and how anyone can do it - picture: mirror
 We can all do what sociologists do
@@ -42,8 +13,6 @@ we should be able to express "I care about deforestation and the Amazon rainfore
 
 GitHub stars are effectively likes on repositories
 Example: github stars - what if anyone could develop filters for the stars of people with advanced criteria? Different trending dashboads?
-
-
 
 ██████████████████████████████████████████████████████████████████
 # The superapp
@@ -54,6 +23,8 @@ Example: github stars - what if anyone could develop filters for the stars of pe
 Elon Musk gets it - network effects are a crucial part
 
 UIs should be drag/drop composable & layoutable - in the superapp
+
+we can crowdsource the default view/layout for a given entity in the superapp - with the option to override how we'd want to see it
 
 Elon Musk's vision for the X app pales in comparison to the potential of the superapp
 
