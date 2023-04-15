@@ -46,6 +46,11 @@ https://twitter.com/elonmusk/status/1646228065071292416
 
 
 
+> "From a historical perspective, Twitter will serve as one of several inspirational ancestors for What Comes Next in the domain of collective sense making platforms. " - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
+
+> "Big platforms tend to only evolve so far until something else with a bigger evolutionary jump supersedes it.  Twitter is rather thin in affordances." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
+
+> "Personally I’d be surprised if Twitter will actually be the base for the self organizing collective intelligence that we need." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
 
 
 
@@ -67,7 +72,9 @@ https://www.youtube.com/watch?v=Oad8Ro8j_fE
 what if we could come to a consensus on a shared loss function?
 https://en.wikipedia.org/wiki/Loss_function
 
+self-regulation
 
+According to cybernetics, intelligence sits on top of feedback loops
 
 
 
@@ -1205,8 +1212,7 @@ Economics is downstream of coordination
 
 there isn't an ounce of fat to remove from this design - anything more minimalistic would complicate the mental model for working with the system.
 
-
-According to cybernetics, intelligence sits on top of feedback loops
+Today we as a global hivemind lack neuroplasticity
 
 Enders game - what kids could do in the metaverse
 
@@ -1250,7 +1256,6 @@ putting society back in the drivers seat
 
 public data is our commons and it should be programmatically accessible by anyone
 
-
 ██████ ideas about page & book structure (& titles!)
 
 
@@ -1263,6 +1268,8 @@ a data-driven society
 "the role of LLMs in interfacing (with data)"
 
 "Curators & labelers"
+
+"self-regulation"
 
 Amending google’s failure (to organize the worlds information)
 
