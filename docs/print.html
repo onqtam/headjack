@@ -3418,17 +3418,21 @@ Reputation page and the message types that polls could be</p>
 common knowledge should go there?</p>
 <p>ranked choice voting
 https://fairvote.org/our-reforms/ranked-choice-voting/</p>
+<p>Ranked: Sortable options as ranked preferences. Arrow's impossibility theorem must be taken into consideration for any innovation regarding ranked ballots.
+https://github.com/DemocracyEarth/paper#22-voting:~:text=Ranked%3A%20Sortable%20options%20as%20ranked%20preferences.%20Arrow%27s%20impossibility%20theorem%20must%20be%20taken%20into%20consideration%20for%20any%20innovation%20regarding%20ranked%20ballots.</p>
+<p>https://en.wikipedia.org/wiki/Cardinal_voting</p>
 <p>ability to specify criteria for the delegation - no need to pick specific people.</p>
 <p>current twitter polls don't allow us to show our vote but we're free to express it in text publicly?</p>
 <p>Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll</p>
 <p>liquid democracy can be used to inform how recommender systems work for any field - not just for political questions. Even content moderation</p>
+<p>problems with liquid democracy
+https://github.com/DemocracyEarth/paper#262-monopoly</p>
 <p>Liquid Democracy with Google Votes
 https://www.youtube.com/watch?v=F4lkCECSBFw</p>
 <p>Forby: Collaborative Intelligence and Sensemaking
 https://www.youtube.com/@ForbyCollaborative/videos</p>
 <p>https://forby.io/blog/voting-systems</p>
 <p>https://en.wikipedia.org/wiki/LiquidFeedback</p>
-<p>https://github.com/DemocracyEarth/paper</p>
 <p>https://www.youtube.com/watch?v=b182vUukcLY</p>
 <p>https://www.tdcommons.org/cgi/viewcontent.cgi?referer=&amp;httpsredir=1&amp;article=1092&amp;context=dpubs_series</p>
 <p>https://vitalik.ca/general/2021/05/25/voting2.html</p>
@@ -5019,6 +5023,40 @@ https://ethresear.ch/t/using-polynomial-commitments-to-replace-state-roots/7095
 https://twitter.com/SalomonCrypto/status/1581462447491194880
 https://twitter.com/SalomonCrypto/status/1583573077081792512
 
+
+
+OMG !!!
+https://cointelegraph.com/explained/merkle-trees-vs-verkle-trees-explained
+> "A Verkle tree would require less than 150 bytes to produce a proof for a tree with a billion data points, compared to a typical binary Merkle tree's around 1 kilobyte."
+
+
+OMG !!!
+Verkle Trees John Kuszmaul
+paper introducing verkle trees - talks about reference implementation with sha256 & proof size reduction
+https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf
+
+HEX-BLOOM: An Efficient Method for Authenticity and Integrity Verification in Privacy-preserving Computing
+https://eprint.iacr.org/2021/773.pdf
+
+
+
+
+
+== stupid stuff START ==
+
+what if messages contain always the hash of the newest block - the chain tip? If the message is signed by the application (so the user doesn't have to) and the hash of the chain tip is included then you can prove that this message was created at least at that point in time - not earlier. And then you can look for invalidations of the access tokens / permissions for that app to post on behalf of the user. Similar to Farcaster - the message was created and signed at some point (or later), but ..... fuck, this doesn't work :|
+
+what if apps had to occasionally commit sets of messages that have been published in the past X number of blocks (with some IDs), such that we can later check if a message was forged much later (after an access token revocation) and "inserted" at a prior time? what if apps had a nonce that gets incremented for every message they publish - forever? ... fuck, this doesn't work :|
+
+what if KZG vector commitments can help? with a tree with a branching factor of 1000 for 1B elements we'd need only 1 million KZG proofs
+
+what if we separated the inclusion (merkle) proofs from the publishing of data? what if we just published the IPFS CID of the blob (which could have a tree structure & header & so on) and also the application nonce (new type of nonce), but the inclusion proofs were submitted separately in an even more compact way? any benefits in that?
+
+what if apps maintain 2 separate sets of inclusion proofs - the original ones, & those that I'm thinking of in here?
+
+== stupid stuff END ==
+
+
 -->
 <ul>
 <li>Edits/updates or deleting a document will result in a different URI - the original URI/document are unaffected. This means that all infra &amp; apps will have to monitor the network for updates of elements but some might miss it because an update may come from anywhere - not necessarily from the original application that posted the event.
@@ -5106,6 +5144,7 @@ concern: availability cascades &amp; mimetic theory
 Targeted harassment campaigns</p>
 </blockquote>
 <p>concern: Identify gay ppl in Iran</p>
+<p>Concern: negative reputation - others posting mean stuff on your wall - you can control who can do that in Facebook (for a reason) - think about this</p>
 <h1 id="other-challenges"><a class="header" href="#other-challenges">Other challenges</a></h1>
 <p>This brave new world of new types of media will be at odds with the current system:
 problem: apple does not allow apps with internal app stores?
@@ -5447,6 +5486,11 @@ https://blog.sia.tech/handshake-retrospective-after-the-first-year-c197e49749c9
 
 Web3 Leads to Cybersquatting 2.0: Here's What Brands Can Do
 https://decrypt.co/104319/ethereum-name-web3-cybersquatting
+
+
+name squatting
+Sex.com being the highest price paid domain
+https://en.wikipedia.org/wiki/Sex.com#Highest_price_paid_for_domain
 
 
 "The mint happens over a two-phase commit reveal to prevent front-running registrations."

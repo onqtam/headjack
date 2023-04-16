@@ -72,6 +72,40 @@ https://ethresear.ch/t/using-polynomial-commitments-to-replace-state-roots/7095
 https://twitter.com/SalomonCrypto/status/1581462447491194880
 https://twitter.com/SalomonCrypto/status/1583573077081792512
 
+
+
+OMG !!!
+https://cointelegraph.com/explained/merkle-trees-vs-verkle-trees-explained
+> "A Verkle tree would require less than 150 bytes to produce a proof for a tree with a billion data points, compared to a typical binary Merkle tree's around 1 kilobyte."
+
+
+OMG !!!
+Verkle Trees John Kuszmaul
+paper introducing verkle trees - talks about reference implementation with sha256 & proof size reduction
+https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf
+
+HEX-BLOOM: An Efficient Method for Authenticity and Integrity Verification in Privacy-preserving Computing
+https://eprint.iacr.org/2021/773.pdf
+
+
+
+
+
+== stupid stuff START ==
+
+what if messages contain always the hash of the newest block - the chain tip? If the message is signed by the application (so the user doesn't have to) and the hash of the chain tip is included then you can prove that this message was created at least at that point in time - not earlier. And then you can look for invalidations of the access tokens / permissions for that app to post on behalf of the user. Similar to Farcaster - the message was created and signed at some point (or later), but ..... fuck, this doesn't work :|
+
+what if apps had to occasionally commit sets of messages that have been published in the past X number of blocks (with some IDs), such that we can later check if a message was forged much later (after an access token revocation) and "inserted" at a prior time? what if apps had a nonce that gets incremented for every message they publish - forever? ... fuck, this doesn't work :|
+
+what if KZG vector commitments can help? with a tree with a branching factor of 1000 for 1B elements we'd need only 1 million KZG proofs
+
+what if we separated the inclusion (merkle) proofs from the publishing of data? what if we just published the IPFS CID of the blob (which could have a tree structure & header & so on) and also the application nonce (new type of nonce), but the inclusion proofs were submitted separately in an even more compact way? any benefits in that?
+
+what if apps maintain 2 separate sets of inclusion proofs - the original ones, & those that I'm thinking of in here?
+
+== stupid stuff END ==
+
+
 -->
 
 - Edits/updates or deleting a document will result in a different URI - the original URI/document are unaffected. This means that all infra & apps will have to monitor the network for updates of elements but some might miss it because an update may come from anywhere - not necessarily from the original application that posted the event.
@@ -158,7 +192,7 @@ Targeted harassment campaigns
 
 concern: Identify gay ppl in Iran
 
-
+Concern: negative reputation - others posting mean stuff on your wall - you can control who can do that in Facebook (for a reason) - think about this
 
 
 

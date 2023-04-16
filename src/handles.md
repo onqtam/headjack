@@ -91,6 +91,11 @@ Web3 Leads to Cybersquatting 2.0: Here's What Brands Can Do
 https://decrypt.co/104319/ethereum-name-web3-cybersquatting
 
 
+name squatting
+Sex.com being the highest price paid domain
+https://en.wikipedia.org/wiki/Sex.com#Highest_price_paid_for_domain
+
+
 "The mint happens over a two-phase commit reveal to prevent front-running registrations."
 "Farcaster Names are ERC-721 tokens that are fully composable with the NFT ecosystem."
 https://github.com/farcasterxyz/protocol

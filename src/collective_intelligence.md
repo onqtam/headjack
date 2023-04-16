@@ -159,6 +159,11 @@ common knowledge should go there?
 ranked choice voting
 https://fairvote.org/our-reforms/ranked-choice-voting/
 
+Ranked: Sortable options as ranked preferences. Arrow's impossibility theorem must be taken into consideration for any innovation regarding ranked ballots.
+https://github.com/DemocracyEarth/paper#22-voting:~:text=Ranked%3A%20Sortable%20options%20as%20ranked%20preferences.%20Arrow%27s%20impossibility%20theorem%20must%20be%20taken%20into%20consideration%20for%20any%20innovation%20regarding%20ranked%20ballots.
+
+https://en.wikipedia.org/wiki/Cardinal_voting
+
 ability to specify criteria for the delegation - no need to pick specific people.
 
 current twitter polls don't allow us to show our vote but we're free to express it in text publicly?
@@ -166,6 +171,9 @@ current twitter polls don't allow us to show our vote but we're free to express 
 Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll
 
 liquid democracy can be used to inform how recommender systems work for any field - not just for political questions. Even content moderation
+
+problems with liquid democracy
+https://github.com/DemocracyEarth/paper#262-monopoly
 
 Liquid Democracy with Google Votes
 https://www.youtube.com/watch?v=F4lkCECSBFw
@@ -176,8 +184,6 @@ https://www.youtube.com/@ForbyCollaborative/videos
 https://forby.io/blog/voting-systems
 
 https://en.wikipedia.org/wiki/LiquidFeedback
-
-https://github.com/DemocracyEarth/paper
 
 https://www.youtube.com/watch?v=b182vUukcLY
 
