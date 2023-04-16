@@ -57,6 +57,14 @@ https://twitter.com/elonmusk/status/1646228065071292416
 
 
 
+== debate maps
+
+!! Read this paragraph again - and the whole section
+https://github.com/DemocracyEarth/paper#22-voting:~:text=A%20canonical%20debate%20is,support%20or%20disprove%20others.
+
+
+
+
 == cybernetics
 
 > "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624)
@@ -75,6 +83,43 @@ https://en.wikipedia.org/wiki/Loss_function
 self-regulation
 
 According to cybernetics, intelligence sits on top of feedback loops
+
+
+what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
+
+
+
+
+== values
+
+> "We’re nearly 20 years into the social media world, yet politicians and companies still have not figured out how to differentiate the loudest voices from the values of the majority" - [Tyler Reynolds](https://twitter.com/tbr90/status/1647286008025587713)
+
+https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
+
+
+
+
+
+
+We should think more carefully about the weights we give when ranking interactions
+example: twitter's algorithm favors replies and gives a boost
+what about CAD’s theorem of topic culture. A smart is less likely to receive a reply than a stupid post because it leaves less to be said, but a really full and comprehensive post will bring the conversation to a halt. 
+
+
+
+
+> "I can’t let you do that, Dave." - HAL 9000 on 2001: A Space Odyssey (1968).
+
+> "Sovereign is he who decides on the exception." - Carl Schmitt, political theorist (1888-1985).
+
+> "Every time users like, upvote, heart, link or retweet content they are signaling a preference that serves a feedback loop generating better recommendations for them. But the action won’t go any further: it’s a fake vote that lacks institutional implications." - [The Social Smart Contract](https://github.com/DemocracyEarth/paper#user-content-231_Liquid:~:text=Every%20time%20users%20like%2C%20upvote%2C%20heart%2C%20link%20or%20retweet%20content%20they%20are%20signaling%20a%20preference%20that%20serves%20a%20feedback%20loop%20generating%20better%20recommendations%20for%20them.%20But%20the%20action%20won%E2%80%99t%20go%20any%20further%3A%20it%E2%80%99s%20a%20fake%20vote%20that%20lacks%20institutional%20implications.)
+
+
+
+
+
+
+
 
 
 
@@ -214,6 +259,10 @@ clips are reuploaded because uploaders would get the revenue... this needs a sol
 > "The amount of control you have over somebody if you can monitor internet activity is amazing." - [Tim Berners-Lee](https://www.azquotes.com/quote/171763)
 
 > "The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - [Tim Berners-Lee](https://www.azquotes.com/quote/171766)
+
+
+> "Unless we have an open, neutral internet we can rely on without worrying about what's happening at the back door, we can't have open government, good democracy, connected communities and diversity of culture. It's not naive to think we can have that, but it is naive to think we can just sit back and get it." - [A Magna Carta for the web
+](https://www.ted.com/talks/tim_berners_lee_a_magna_carta_for_the_web) by Tim Berners-Lee
 
 
 
@@ -590,7 +639,6 @@ https://en.wikipedia.org/wiki/Common_knowledge
 
 
 "deduplication & giving everything an ID"
-
 
 
 
@@ -1255,6 +1303,10 @@ The matrix vs the superapp - you can fetch & analyze anything and enhance yourse
 putting society back in the drivers seat
 
 public data is our commons and it should be programmatically accessible by anyone
+
+strength is in the numbers
+
+
 
 ██████ ideas about page & book structure (& titles!)
 
