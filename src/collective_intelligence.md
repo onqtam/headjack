@@ -153,6 +153,8 @@ Reputation page and the message types that polls could be
 
 the future of search is being able to re-run aggregation & statistics based on different filters
 
+We should be able to split our delegation to multiple other entities with different weights
+
 every claim and counter should be verifiable - even if at a processing cost
 common knowledge should go there?
 
