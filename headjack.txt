@@ -38,6 +38,202 @@ TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
 
 
 
+
+
+Jupiter notebooks for decentralized social science?
+
+
+
+Aiming to make politics downstream of science - not the other way around
+
+
+
+
+
+
+
+what if we had views with different levels of granularity and detail for the whole picture? one set of humans are labelers - a task that is easily checkable and quite unambiguous, but the actual view of the world was produced by combining different labelers with different weights based on their reputation? Neural nets have many layers - feature recognition, etc.
+
+what if we could give (& take) each other points for different actions, and what if we could re-calculate how much points all of us have based on different criteria - simulating forward the exchange of points and seeing how the point ranking would end up with different starting conditions?
+This is different from delegation of votes - this is a reward & scoring system
+What if we applied to jobs not with LinkedIn & StackOverflow accounts but with a contribution score for helping make sense of the world?
+
+how do we make a global neural net for surfacing truth and prioritizating the most important stuff?
+
+
+
+
+
+Toggling layers of the graph or whatever - monetary layer - how money and influence flow
+
+hiding inconvenient facts is most worthwhile to those with the most power. Negative reputation for any entity is a net positive despite the drawbacks
+
+
+
+
+
+Everything is optimized for engagement - “share something” - what if we could change the layout of controls?
+
+
+
+self-regulating without regulators
+
+in cyberspace we can have something other than first-past-the-post voting - we don't need to be limited to it
+
+what if we could query what our top 10 heroes think about how to get your life, diet & fitness in order?
+
+
+
+most modern diseases are diseases of abundance - including "information"
+Naval
+https://youtu.be/3qHkcs3kG44?t=4603
+
+We can reality-test our beliefs
+
+
+
+we should be able to look up if person X has ever made a statement about X, and what they said - for example how do you currently query all the podcasts of Naval if he has ever said anything about Edward Snowden? How do you query that? You simply don't.
+
+our current culture is of consumerism - what if we could shift that? How would we shift that?
+
+empowerment - voter apathy is best explained by the disbelief that their vote would matter or that the pool of options is constrained and nothing is good enough. Also the complexity and cost of actually having a well informed opinion and the lack of ability to delegate automatically to someone they trust
+
+
+
+
+
+
+
+
+
+curing the internet from schizophrenia
+https://en.wikipedia.org/wiki/Schizophrenia#:~:text=Major%20symptoms%20include%20hallucinations%20(typically%20hearing%20voices)%2C%20delusions%2C%20and%20disorganized%20thinking.%5B7%5D%20Other%20symptoms%20include%20social%20withdrawal%2C%20decreased%20emotional%20expression%2C%20and%20apathy.%5B5%5D
+
+shifting social media goals from engagement to impact
+
+we should be able to react to RDF triples that assert something
+
+deep personalization of a feed is anti-democratic - it siloes us in exchange of brave new world style personalized pleasure
+
+querying - with an LLM as the interface!
+
+why can't we specify as a % what number of posts we should get in our feeds that aren't from our social graph but purely a recommendation?
+
+what if we could downregulate/influence the use of things in the real world such as fast foods brands? what if negative reputation is a feature - not a bug? The physical world is now downstream from the digital. Sunlight is the best disinfectant
+
+what if we could gauge the trustfulness of a brand? or how much it is being recommended? What if we could see that healthy & successful people explicitly downregulate fast food - how might that impact us the next time we see a commercial with someone healthy-looking promoting cheap chicken fries?
+
+
+
+The google index is private - it should be public infrastructure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not al combinations will be possible due to 3 reasons: complexity for users, a combinatorial explosion in computation and technical feasibility. But a meaningful set of never-before-seen functionality will emerge and it will have the capacity to evolve gradually to any other subset.
+
+Identity can be computable
+
+Openness enables gradual evolvability
+
+Putting individuals in the drivers seat
+
+Two concepts: subscriptions and power delegation
+Central circulatory system of values and expertise delegation
+
+Russel conjugation - horse dewormer vs ivermectin
+
+How much context and nuance has been lost in translation?
+
+We need not only fact checking but also frame checking - around language
+We have reached “X destroys Y” in headlines through virality A/B testing - what if we could add a negative weight to such content?
+
+Perhaps thought-graphs are overkill. Maybe only simple fact/assertion statements should be present
+
+if someone uploads a clip someone can link it to the original content with timeline mapping so that one can view the original instead of the clip if they wish - similar to the "title change for less clickbait" stuff
+"DISINCENTIVIZING DUPLICATION"
+Todo: chapter about the movie maker - the timeline composer
+
+Public actions should be regarded as public contributions
+
+The metaverse is collaborative
+
+Even thought-graphs could be generated from text as an initial pass, although that would need a human to take a look
+
+what if reputation had a computable value which you couldn't trade, but simply compute? No way to buy your way in - the only way being through a long enough track record?
+
+Concern: no way to add friction when spreading information with sharing - how do you enforce that a link cannot be shared unless you’ve actually visited it? How do we combat the sharing of information based solely on the titles? Perhaps the signalling and labeling can come into play - ppl can show that a given app is not playing according to the good rules
+Same about limiting the number of shares for a piece of content - perhaps up to 2 or 3 hops/levels
+The further down a reshare chain (a reshare of a reshare of a reshare) - the more the distortion (razvalen gramofon)
+If you want to share further beyond some limit you’d have to explicitly copy/paste it - this removes toxicity beyond a certain level
+
+There should be no “magic/secret sauce” when it comes to recommendation algorithms. And we need to put the weights in the control of the users
+
+Weights - should the reactions of someone who spends 8 hours a day online have the same weight as someone who reacts once a week or month? What if someone is producing 100 or 1000 times more content than the average account or more than the 99th percentile - should their ability to influence the ranking be the same as everybody else? Perhaps once you go beyond the activity of the 99th percentile you should start getting less and less impact for your actions for a rolling window
+Compulsive social media users can (and do!) influence the algorithms for the rest of us
+Something like the gini coefficient - capping and/or modulating the influence someone can have on the rest of us
+Most people’s experience is asymmetrically influenced by “the compulsive few”
+“The few, the proud, the compulsive”
+Socially isolated people lean heavily on social media
+Viral outbursts of anxiety
+
+
+These are the types of questions and design decisions we’re simply not having and participating in because we’re outsiders for the social media platforms
+
+Headjack in 100 words:
+Stranica s kolaj ot dumi i frazi koito opisvat proekta - metaverse, cybernetics, global brain, collective intelligence
+
+What if there was a way to signal your preferred solution every time you comment on a problem? And what if we boosted responses that offer solutions/improvements? Inspired by solutions journalism
+
+
+So many ideas that can be implemented as a hackaton at any of the big social media companies are never even attempted - because it doesn’t serve their bottom line. Thats why the host-centric model must go
+
+
+What if anyone could analyze the history of reactions of a post and see if there was an initial coordinated boost by some clique of connected accounts from a troll farm? Currrntly such analysis can be done only by insider data analysts
+
+
+
+
+
+
+The metaverse is enabled by permissionless innovation
+The metaverse differs from social media in that it enables permissionless innovation around the same identity network effect
+
+
+what if you could use something snapchat-like, but without the streaks gamification that gets you back a lot more?
+
+Personal data vault - can encrypt it and have it replicated through other storage protocols
+
+what if we could signal "back me up" for specific posts - leveraging our audience for select issues?
+
+Feedback loop - you see what tags your audience expects and they see your content by tags if you’ve tagged it (or they could use AI to classify but that could be ambiguous)
+
+We can show things in progress - suck as quitting smoking or participating in some challenge - justin.tv but with structured data
+
+What if IDMs had to burn the native token when creating new accounts in a way similar to 1559? And what if this 1559 was not shared but per-idm? So that each IDM is throttled economically according to their own speed of growth?
+
+There is no integration without extreme defuplication of data and identities
+
+
+
+
+
+
+
+
+
+
+
 == ability to crowdsource badges/labels on accounts
 NPR was labeled by Twitter as government funded (which is true) and then complain about how that would seem in the eyes of the public
 what if such labeling wasn't up to a CEO or specific platform but was crowdsourced & opt-in?
@@ -498,6 +694,12 @@ TODO: read the twitter community notes whitepaper
 
 the rules for how the dopamine should work could be voted on with liquid democracy
 evolving internet norms
+
+
+
+
+
+
 
 
 
