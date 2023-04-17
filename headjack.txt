@@ -203,7 +203,7 @@ What if anyone could analyze the history of reactions of a post and see if there
 
 
 
-
+TODO: what about small entities like "year progress" - should they get a unique ID on-chain? Or some other light-weight account type should exist? maybe an "owned" off-chain index that's a child of the creator?
 
 
 The metaverse is enabled by permissionless innovation
