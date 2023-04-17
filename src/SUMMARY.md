@@ -13,6 +13,7 @@
     - [Blocks, state & proofs, oh my!](blocks_state_proofs.md)
     - [Throughput & scalability](numbers.md)
     - [Headjack vs the competition](competition.md)
+    - [The competitive landscape](competition.md)
 
 - [Why Headjack v2](topics.md)
     - [History 2.0: cryptohistory & authenticity](cryptohistory.md)

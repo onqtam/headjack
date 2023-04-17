@@ -54,6 +54,9 @@ https://twitter.com/elonmusk/status/1646228065071292416
 
 
 
+biochemical regulatory mechanisms
+
+socio-reputational regulatory mechanisms
 
 
 
@@ -493,7 +496,8 @@ We could engineer the dopamine of this informational global brain.
 pagerank for people - depending on the delegations in the liquid stuff
 TODO: read the twitter community notes whitepaper
 
-
+the rules for how the dopamine should work could be voted on with liquid democracy
+evolving internet norms
 
 
 
