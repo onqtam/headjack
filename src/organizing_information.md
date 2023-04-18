@@ -131,6 +131,23 @@ We can reality-test our beliefs
 knowledge engineering
 
 
+> "People can’t share knowledge if they don’t speak a common language." - [Thomas Davenport, 1997](https://team12pori.wordpress.com/ontology-information-science/#:~:text=%E2%80%9CPeople%20can%E2%80%99t%20share%20knowledge%20if%20they%20don%E2%80%99t%20speak%20a%20common%20language.%E2%80%9D)
+<IMG TOWER OF BABEL>
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1280px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg
+https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg
+
+...to speak a common Language:
+● common symbols and concepts (Syntax)
+● agreement about their meaning (Semantics)
+● classification of concepts (Taxonomy)
+● associations and relations of concepts (Thesauri)
+● rules and knowledge about which relations are
+allowed and make sense (Ontologies)
+
+> "Our highest-bandwidth information channel is not speech. It's vision and touch." - [Yann LeCun](https://twitter.com/ylecun/status/1640595183946407936)
+
+instead of crowd-sourcing the truthfulness of a text post we can crowd-source only the mapping of that post to semantic triplets of assertions and automatically check those against an external set
+
 Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack
 https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR
 
@@ -285,6 +302,8 @@ imagine being able to pick your "wikipedia editors" - people who curate informat
 ██████████████████████████████████████████████████████████████████
 
 LLMs !!!
+
+what if we had an LLM that we could ask to find the right filters, inputs and weights to find the best of X, and they would construct us a search preset that is best suited for our needs.
 
 BigQuery 2.0
 

@@ -70,6 +70,8 @@ Behavior != revealed preference! Just because I clicked on a car crash video doe
 
 
 == weights and parameters in algorithms
+== crowdsourced algorithm weights & parameters & content modulation
+
 
 
 we can even disagree on how to weight the votes of people - equally or some other way. And we could even crowdsource & delegate that.
@@ -101,11 +103,33 @@ These are the types of questions and design decisions we’re simply not having 
 
 What if there was a way to signal your preferred solution every time you comment on a problem? And what if we boosted responses that offer solutions/improvements? Inspired by solutions journalism
 
+what if we had different knobs to tune the availability of content - not just likes/dislikes
 
+dehumanization is a psychosocial externality and we should be able to flag it and influence recommender algorithms with our labeling
 
+we can crowdsource a ranking of bad UI mechanics that should be avoided in media and use that to inform which apps & algorithms we use
+the stopping queue has been removed since the invention of the endless feed scrolling mechanic - what if there was a checklist of bad UI decisions that all apps are ranked against?
 
+what if your inputs (likes/votes/etc) weren't seen in the feeds of your followers (as explicit comments or whatever) but could still affect them - as in curating content for them?
+
+we can crowdsource improvement proposals for any topic - for example feature requests for recommender algorithms for ANYONE to implement, and when they do, they can mark themselves there and users can migrate to them if they really care about that feature
 
 What if anyone could analyze the history of reactions of a post and see if there was an initial coordinated boost by some clique of connected accounts from a troll farm? Currrntly such analysis can be done only by insider data analysts
+
+> "Now everyone has a license to speak, it’s a question of who gets heard." - [Aaron Swartz](https://www.azquotes.com/quote/916637)
+
+> "These days, the problem isn't how to innovate; it's how to get society to adopt the good ideas that already exist." - [Douglas Engelbart](https://www.azquotes.com/quote/665712)
+
+> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
+
+> "Like any rational entity, the algorithm learns how to modify the state of its environment — in this case, the user’s mind — in order to maximize its own reward." - [Stuart Russell, Human Compatible (2019)](https://medium.com/understanding-recommenders/is-optimizing-for-engagement-changing-us-9d0ddfb0c65e#:~:text=Like%20any%20rational,Human%20Compatible%20(2019))
+
+> "We are flooded with information about catastrophes we cannot change. This is new for humanity and probably bad. What if news recommenders were designed not to show you any story that you can’t do anything about?" - [Jonathan Stray](https://twitter.com/jonathanstray/status/1641808066420064262)
+
+
+
+
+
 
 
 
@@ -156,7 +180,10 @@ https://github.com/DemocracyEarth/paper#22-voting:~:text=A%20canonical%20debate%
 
 consider the case around nuclear energy - we should be able to generate media from the debate map on that problem
 
+debate maps
 
+
+imagine being able to crowdsource debate requests with specific people and see a ranking of which debates are most desired
 
 
 
@@ -180,16 +207,10 @@ consider the case around nuclear energy - we should be able to generate media fr
 == calculemus!
 "computable context" as a chapter - not just reputation!
 
-
-
-
-
 !!! calculemus ("may we calculate, may we compute")
 https://en.wiktionary.org/wiki/calculemus
 
 > "The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate[calculemus], without further ado, to see who is right." - [Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) in a [letter to Ph. J. Spener, July 1687](https://medium.com/dave-amiana/the-language-of-calculus-part-1-e646876cf078#:~:text=The%20only%20way%20to%20rectify%20our%20reasonings%20is%20to%20make%20them%20as%20tangible%20as%20those%20of%20the%20Mathematicians%20so%20that%20we%20can%20find%20our%20error%20at%20a%20glance%2C%20and%20when%20there%20are%20disputes%20among%20persons%2C%20we%20can%20simply%20say%3A%20Let%20us%20calculate%5Bcalculemus%5D%2C%20without%20further%20ado%2C%20to%20see%20who%20is%20right.)
-
-
 
 > "By reformulating arguments and ideas in terms of a characteristica universalis, or universal language, all could be rendered computable." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20reformulating%20arguments%20and%20ideas%20in%20terms%20of%20a%20characteristica%20universalis%2C%20or%20universal%20language%2C%20all%20could%20be%20rendered%20computable.) by Jonathan Gray
 
@@ -215,15 +236,6 @@ https://en.wiktionary.org/wiki/calculemus
 
 
 
-> "Now everyone has a license to speak, it’s a question of who gets heard." - [Aaron Swartz](https://www.azquotes.com/quote/916637)
-
-> "These days, the problem isn't how to innovate; it's how to get society to adopt the good ideas that already exist." - [Douglas Engelbart](https://www.azquotes.com/quote/665712)
-
-> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
-
-> "Like any rational entity, the algorithm learns how to modify the state of its environment — in this case, the user’s mind — in order to maximize its own reward." - [Stuart Russell, Human Compatible (2019)](https://medium.com/understanding-recommenders/is-optimizing-for-engagement-changing-us-9d0ddfb0c65e#:~:text=Like%20any%20rational,Human%20Compatible%20(2019))
-
-> "We are flooded with information about catastrophes we cannot change. This is new for humanity and probably bad. What if news recommenders were designed not to show you any story that you can’t do anything about?" - [Jonathan Stray](https://twitter.com/jonathanstray/status/1641808066420064262)
 
 
 
@@ -264,7 +276,6 @@ https://en.wiktionary.org/wiki/calculemus
 
 
 
-Even Substack is transitioning to [something like Twitter](https://on.substack.com/p/introducing-notes) but it is built around email for accounts - we can do better.
 
 
 
@@ -275,9 +286,6 @@ Even Substack is transitioning to [something like Twitter](https://on.substack.c
 
 
 
-
-what if we could signal-boost anything - like "ppl with large following all endorse X futuristic and hopeful movie"
-chapter: signal-boosting
 
 
 
@@ -307,67 +315,19 @@ What if we could signal what items we think are important and essential and inpu
 
 
 
-
-
-
-
-
-
-
-We could upgrade our ability to collectively introspect & investigate
-
-
-
-
-In order to have collective consciousness we need to have global neurons. This is identity
-
-work doesn't even need to be different to be processed by different companies - the same layer can be communally serviced & the cooperation mechanism can be auctioned to the best orchestrator. WTF did I even type?
-
-what if we had an LLM that we could ask to find the right filters, inputs and weights to find the best of X, and they would construct us a search preset that is best suited for our needs.
-
 index designs can be open sourced and crowdsourced - once the infra evaluates the index and calculates the cost.
-
-we can express our values as public preferences, and we win in 2 ways: we actually get the type of information we've requested, and we get to add to aggregates that include your preferences
-
-
-user's ability for fine grained control over their information diet through choice & options is the way towards transparency
-This is identity
-
-
-have a chapter or even page about the cathedral and the bazaar?
-
-we're currently screaming out our beliefs in comments of the culture war when instead we could express our view only once and have it fed through the algorithms where it would actually be taken into account
-
-
 
 indexes can be computed in steps, and different sets of steps can share the common steps and reuse those (intermediary) indexes
 
-we can have an anonymized debate at scale between millenials vs boomers or gen X-ers
 
-this somehow fits in this narrative now
-https://en.wikipedia.org/wiki/All_the_world%27s_a_stage
 
-global questions will have entities that would be followable, with the option to filter notifications - for example "only financial news regarding X". We could have subscriptions such as "notify me when there's consensus by the current committee on this issue and then I'll trust you, but you have to work in public"
 
 "notify me for new opinions or only for mentions in threads in which I've already participated in"
 
-We can signal to ourselves signal by signal
-
-we can construct debate maps for any topic
 
 
 
-This is the way to decentralize AGI and collectively own & steer it
-The way to decentralizing AGI is through collective ownership & steering
-The way to the AGI is through collectivization
-
-we have maladaptive connections and lack neuroplasticity. The global brain lacks neuroplasticity because of fractured identity & the inability to export data from service to service - lack of interoperability
-
-strength is in the numbers
-VS.
-We can reveal only what we don't think we'd be judged about, but still anonymously express concerns - this way the majority cannot silence any minority
-
-we are a circuit board with no elements & connections - a clean canvas we can collectively sense-make ourselves through to the other side - a functioning signal & value amplifier
+== The global connectome
 
 Every single one of us could browse and inspect the global connectome
 the sets of public preferences & votes & delegations is the global connectome
@@ -379,23 +339,23 @@ https://en.wikipedia.org/wiki/Connectome#:~:text=the%20foundation%20of%20human%2
 
 this is the great unbundling of opinions (until now everything came in bundled groups represented by individuals and organizations - now we can crowdsource competence on any specific topic), followed by the ability to reconstruct specific media experiences with specific recommender algorithms defined by different values & collective consensus or interest heatmap
 
-apps that consume private indexes but done according to public rules and get them uniquely fingerprinted so that leaks are detected, those apps can stake a token in something escrow-like with an amount determined by market forces, and those that produce the indexes and give them with unique fingerprints could slash and/or confiscate their stake
+we have maladaptive connections and lack neuroplasticity. The global brain lacks neuroplasticity because of fractured identity & the inability to export data from service to service - lack of interoperability
+
+In order to have collective consciousness we need to have global neurons. This is identity
+
+
 
 we can put a price on any type of informational preference - it all depends on what kinds of indexes exist and how much they're charging. Apps will simply be interfaces that collect ad revenue and pay to the index maintainers for the ability to service their customers according to their explicitly stated desires
 
 
 
 !!!
-imagine configuring your feed like "I want to see this type of thing and that other one, and also I want to follow these accounts from these sources for anything new by them and I'd also like to inherit their algorithmic preferences
+inherit algorithmic preferences
 !!!
 
 !!!
 what if we could follow the best game theorists & geopolititians in telling us which papers & organizations out there have the best models that we should apply to defuse the whole thing
 And what if we could act on their findings - choosing which filter to change or which new rule to add for our information diets - effectively being able to choose the best people for any given topic through crowd sourced reddit-style surface of the best or with the most consensus
-!!!
-
-!!!
-We can see the beliefs of whoever goes public and we can actively count their stated public preference. There could be a KYC-like service to point 
 !!!
 
 
@@ -408,9 +368,6 @@ we can have a service that maintains the verifiable credentials for something li
 we are starving for meaning and this project lays a path towards global meritocracy
 immutability, reputation and the ability to see everything relevant to an identity or a specific event or a topic, when put together, produce an idea market & a meritocracy
 
-"here are the 5 things that have made the biggest impression on me (or are the most underrated): "and actually list them! MC course, Carl Sagan's cosmos, Naval, Fall of civilizations. We can signal values and from that public info later decide which people to join/partner with towards a common cause. We can make a heatmap of the global (& local!) causes that people care about, and to what degree
-
-not only sensemaking but also meaningmaking - collective progress and transparency through immutability, identity, deduplication & connectedness
 
 
 
@@ -420,31 +377,6 @@ not only sensemaking but also meaningmaking - collective progress and transparen
 
 we could precisely determine the amount of influence we'd want from any account and then feed that set of weights into different recommendation & scoring algorithms & indexes. If you aspire to be like a set of people - you could adopt their worldview - their news inflow, their beliefs for what's true, their trust network (those who they themselves follow)
 
-Custom feeds. There's a type of news that we're interested in so we keep checking back in at social media and scroll through the feed for it. What if we could set preferences for what to be notified about - with a custom feed?
-
-
-
-
-
-
-> "People can’t share knowledge if they don’t speak a common language." - [Thomas Davenport, 1997](https://team12pori.wordpress.com/ontology-information-science/#:~:text=%E2%80%9CPeople%20can%E2%80%99t%20share%20knowledge%20if%20they%20don%E2%80%99t%20speak%20a%20common%20language.%E2%80%9D)
-<IMG TOWER OF BABEL>
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1280px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg
-https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg
-
-...to speak a common Language:
-● common symbols and concepts (Syntax)
-● agreement about their meaning (Semantics)
-● classification of concepts (Taxonomy)
-● associations and relations of concepts (Thesauri)
-● rules and knowledge about which relations are
-allowed and make sense (Ontologies)
-
-
-
-> "Our highest-bandwidth information channel is not speech. It's vision and touch." - [Yann LeCun](https://twitter.com/ylecun/status/1640595183946407936)
-
-instead of crowd-sourcing the truthfulness of a text post we can crowd-source only the mapping of that post to semantic triplets of assertions and automatically check those against an external set
 
 
 
@@ -457,14 +389,15 @@ instead of crowd-sourcing the truthfulness of a text post we can crowd-source on
 
 
 
-== improving audio & video
 
-a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
 
-Sensemaking chapter - video replies without interlinking specific moments is just primitive
-How do we debunk stuff?
-Moonlanding faked?
-Ancient technology in egypt? Give links as evidence
+
+
+
+
+
+
+
 
 youtube's reaction to swarm downvoting is "remove the count".
 Disempowerment.
@@ -474,7 +407,6 @@ This system allows you to filter the count any way you want - empowerment.
 
 
 
-what if instead of caring if someone liked your nonsense tweet you had cast a vote and can see if others vote the same way as you - not liking a textual comment of yours, but you influencing them to vote the same way you did
 
 
 
@@ -497,38 +429,6 @@ The current social media arms race is in harvesting attention & going to the bot
 
 
 
-Its all about choice & agency.
-
-
-why can't we crowdsource "top 10 videos that everyone should watch"
-
-
-
-
-
-
-we can crowdsource improvement proposals for any topic - for example feature requests for recommender algorithms for ANYONE to implement, and when they do, they can mark themselves there and users can migrate to them if they really care about that feature
-
-
-
-
-
-
-== crowdsourced algorithm weights & parameters & content modulation
-
-what if we had different knobs to tune the availability of content - not just likes/dislikes
-
-dehumanization is a psychosocial externality and we should be able to flag it and influence recommender algorithms with our labeling
-
-we can crowdsource a ranking of bad UI mechanics that should be avoided in media and use that to inform which apps & algorithms we use
-the stopping queue has been removed since the invention of the endless feed scrolling mechanic - what if there was a checklist of bad UI decisions that all apps are ranked against?
-
-
-
-
-
-
-what if your inputs (likes/votes/etc) weren't seen in the feeds of your followers (as explicit comments or whatever) but could still affect them - as in curating content for them?
 
 
 
@@ -541,18 +441,19 @@ what if your inputs (likes/votes/etc) weren't seen in the feeds of your follower
 
 
 
-"fork anything"
+
+
+
+
+
+
+
+
+
+
+
 
 https://en.wikipedia.org/wiki/Conversation_theory
-
-
-
-
-
-
-
-
-
 
 
 
@@ -645,22 +546,11 @@ we should be able to apply something like birdwatch on the entire web - not just
 
 
 
-heatmaps
 
 
 
 
 
-imagine being able to crowdsource debate requests with specific people and see a ranking of which debates are most desired
-
-
-
-
-
-imagine browsing the public web like it was your personal files in your apps and drives - having total control of how you store and group that data. This could be the case with the public web. And we could advertise what kind of filters & grouping options we prefer with public messages which are not options. we can crowdsource preference and show which things are preferred. We can end the binary duopoly in politics by making all opinions and interests unbundled from each other
-
-
-Global vs local for the feed - locality of information & notifications!
 
 
 
@@ -669,11 +559,6 @@ granularity of verification? many verticals? a bouquet of attestations
 
 
 
-twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
-
-
-
-imagine being able to select a subset of all accounts worldwide and train a GPT on that subset of human knowledge & opinions
 
 
 
@@ -709,9 +594,6 @@ we have the opportunity to deduplicate common knowledge (concepts, nouns, etc). 
 
 ████████████████████████████████████████████████ page organization:
 
-search engine infra stuff and separating presentation from data could perhaps go to the "organizing information" chapter
-
-move CAs to cryptohistory?
 
 ████████████████████████████████████████████████ Notes from the 2nd half of November
 
@@ -755,7 +637,6 @@ https://balajis.com/yes-you-may-need-a-blockchain/
 competition & horizontal gene transfer
 https://twitter.com/sreeramkannan/status/1573832256577224705
 
-
 - make all quotes with the right [source] and try to use highlights
 
 ███ page about VCs
@@ -784,10 +665,6 @@ mermaidjs diagram?
     - pipeline of publishing and ingesting an event
 
 ███ research:
-- https://a16z.com/2022/04/21/investing-in-spruce/
-- https://www.hello.coop/#user-faqs
-- https://www.sismo.io/
-- https://ethdos.xyz/blog
 - verifiable credentials - chains that aim to do solely that are a ghost town - Headjack is a confluence of many things with synergies.
     https://www.dock.io/
     https://www.dock.io/post/decentralized-identity
@@ -795,8 +672,6 @@ mermaidjs diagram?
     https://docknetwork.github.io/sdk/tutorials/concepts_private_delegation.html
     https://blog.dock.io/exposing-bad-actors-behind-anonymity-with-traceable-credentials/
 
-SISMO !!! and ethdos !!!
-https://twitter.com/shreyjaineth/status/1590310990876659712
 
 https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf
 
@@ -824,12 +699,6 @@ https://twitter.com/gainzy222/status/1474761079179907079
 
 - TODO: do a graphic for the 4 types of headjack use cases:
     https://twitter.com/TrungTPhan/status/1545413848886169602
-
-
-
-- data centric page -  mention interoperability & composability
-TODO: Ambition => composability => link to possibilities
-
 
 
 
@@ -1087,7 +956,6 @@ Write about social media aggregator tools for creators - just a bandaid
 For old uris where names have changed ownership - can display obsolete names with different color
 
 
-elly iska6e da iztrie komentar na snimkata si - dori i da moje da bude komentirana drugade s URL... proximity matters...
 
 
 The two killer apps of crypto are finance and identity, with the latter one not done properly (yet)
@@ -1096,7 +964,6 @@ The two killer apps of crypto are finance and identity, with the latter one not 
 Web3 is the end of the host-centric internet
 
 
-Offchain name registry
 
 
 What if edits are disallowed from other apps? Then there will be only one entity to ask for updates. This can be a message attribute
@@ -1126,6 +993,8 @@ the host-centric model is a hindrance to the evolution & composability of the di
 Composition in DeFi pales in comparison to the opportunities around data & identity.
 
 
+apps that consume private indexes but done according to public rules and get them uniquely fingerprinted so that leaks are detected, those apps can stake a token in something escrow-like with an amount determined by market forces, and those that produce the indexes and give them with unique fingerprints could slash and/or confiscate their stake
+
 
 > "Open state is the next step after open source. You don’t just release a copy of the frontend, you let anyone read and write to the same backend." - [@balajis](https://twitter.com/balajis/status/1632833998442614784)
 
@@ -1137,7 +1006,6 @@ recommender systems are voting systems - user choice is effectively a vote that'
 
 
 democratizing access to what is public anyway - ending the host-centric model
-
 
 
 2 types of apps: sharing (anyone can download the data) and closed (host-centric)
@@ -1171,8 +1039,8 @@ the ability to toggle the display of highlights & interlinked objects - turning 
 when ingesting data, infrastructure can map the "appId/nonce" pair to "block_height/appId"
 
 
-> "Privacy is the power to selectively reveal oneself to the world." - [A Cypherpunk's Manifesto by Eric Hughes, 9 March 1993](https://www.activism.net/cypherpunk/manifesto.html#:~:text=Privacy%20is%20the%20power%20to%20selectively%20reveal%20oneself%20to%20the%20world.)
 
+global questions will have URIs that would be followable, with the option to filter notifications - for example "only financial news regarding X". We could have subscriptions such as "notify me when there's consensus by the current committee on this issue and then I'll trust you, but you have to work in public"
 
 
 NFTs are overhyped - but VCs and attestations are not
@@ -1226,11 +1094,21 @@ Today we as a global hivemind lack neuroplasticity
 
 
 == clips
+== improving audio & video
+
 if someone uploads a clip someone can link it to the original content with timeline mapping so that one can view the original instead of the clip if they wish - similar to the "title change for less clickbait" stuff
 "DISINCENTIVIZING DUPLICATION"
 Todo: chapter about the movie maker - the timeline composer
 clips are dysfunctional
 clips are reuploaded because uploaders would get the revenue... this needs a solution
+
+a long video citing a bunch of external documents - we should be able to react differently to each and every external citation and have a discussion about each of them
+
+Sensemaking chapter - video replies without interlinking specific moments is just primitive
+How do we debunk stuff?
+Moonlanding faked?
+Ancient technology in egypt? Give links as evidence
+
 
 ██████ slogans
 
@@ -1247,6 +1125,8 @@ We need a shared reality
 giving everyone an identifier
 
 knowledge worker => semantic worker
+
+the separation of identity from social network
 
 I want YOU to help build the metabrain
 
@@ -1273,7 +1153,7 @@ public data is our commons and it should be programmatically accessible by anyon
 
 strength is in the numbers
 
-
+"fork anything"
 
 ██████ ideas about page & book structure (& titles!)
 

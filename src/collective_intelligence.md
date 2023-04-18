@@ -244,6 +244,22 @@ https://arxiv.org/pdf/1911.08774.pdf
 
 Private opinions for polls - you might not want them public but still to be able to compare with those who are public
 
+we can have an anonymized debate at scale between millenials vs boomers or gen X-ers
+
+
+strength is in the numbers
+VS.
+We can reveal only what we don't think we'd be judged about, but still anonymously express concerns - this way the majority cannot silence any minority
+
+- https://a16z.com/2022/04/21/investing-in-spruce/
+- https://www.hello.coop/#user-faqs
+- https://www.sismo.io/
+- https://ethdos.xyz/blog
+
+SISMO !!! and ethdos !!!
+https://twitter.com/shreyjaineth/status/1590310990876659712
+
+
 Zk affiliation/attestations/credentials
 
 anonymity - reducing the cost of defection
@@ -281,7 +297,21 @@ https://sine.foundation/tandem
 
 https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
 
+why can't we crowdsource "top 10 videos that everyone should watch"
+
 what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
+
+what if instead of caring if someone liked your nonsense tweet you had cast a vote and can see if others vote the same way as you - not liking a textual comment of yours, but you influencing them to vote the same way you did
+
+what if we could signal-boost anything - like "ppl with large following all endorse X futuristic and hopeful movie"
+chapter: signal-boosting
+
+"here are the 5 things that have made the biggest impression on me (or are the most underrated): "and actually list them! MC course, Carl Sagan's cosmos, Naval, Fall of civilizations. We can signal values and from that public info later decide which people to join/partner with towards a common cause. We can make a heatmap of the global (& local!) causes that people care about, and to what degree
+
+not only sensemaking but also meaningmaking - collective progress and transparency through immutability, identity, deduplication & connectedness
+
+
+we're currently screaming out our beliefs in comments of the culture war when instead we could express our view only once and have it fed through the algorithms where it would actually be taken into account
 
 shifting social media goals from engagement to impact
 

@@ -24,6 +24,8 @@ https://twitter.com/elonmusk/status/1621544497388875777
 
 Concern: it will never be possible to display an accurate view count like twitter can (what about youtube?)
 
+concern: harder to implement recommendation algorithms & feeds for public content and content that's shared only to some group (and there are different such groups) - currently Twitter has a gods-eye view and access to everything that's public and also shared only with those that have hidden their content for outsiders of their graph - in a much more fractured world this could be a lot messier & harder
+
 not being able to hide the like counter - bad for mental health?
 
 mistakes such as doing some action publicly when intended for a private action...
@@ -86,6 +88,7 @@ https://math.mit.edu/research/highschool/primes/materials/2018/Kuszmaul.pdf
 
 HEX-BLOOM: An Efficient Method for Authenticity and Integrity Verification in Privacy-preserving Computing
 https://eprint.iacr.org/2021/773.pdf
+
 
 
 
@@ -193,6 +196,8 @@ Targeted harassment campaigns
 concern: Identify gay ppl in Iran
 
 Concern: negative reputation - others posting mean stuff on your wall - you can control who can do that in Facebook (for a reason) - think about this
+elly iska6e da iztrie komentar na snimkata si - dori i da moje da bude komentirana drugade s URL... proximity matters...
+
 
 
 
