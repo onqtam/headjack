@@ -206,6 +206,10 @@ What if anyone could analyze the history of reactions of a post and see if there
 TODO: what about small entities like "year progress" - should they get a unique ID on-chain? Or some other light-weight account type should exist? maybe an "owned" off-chain index that's a child of the creator?
 
 
+== ideas for apps:
+- feed composer - from subscriptions - with pipes
+
+
 The metaverse is enabled by permissionless innovation
 The metaverse differs from social media in that it enables permissionless innovation around the same identity network effect
 
@@ -283,6 +287,7 @@ self-regulation
 
 According to cybernetics, intelligence sits on top of feedback loops
 
+engineering control loops
 
 what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
 

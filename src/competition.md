@@ -315,6 +315,11 @@ about bluesky
 4. I wonder what the team will do for authentication and authorization? Will they go the ACL route? (In which case, are they going to include Solid-style client identity, in the ACLs?) Will they go the capabilities route? (UCANs / zCaps). This is the genuine hard part.
 
 
+**Size matters**
+**Smaller is better**
+regarding IDs & URIs
+
+
 
 Having the app id and doing batch commitments simplifies routing and aids self-authenticity for documents
 
