@@ -151,6 +151,11 @@ The explicit user preferences such as subscriptions & the social graph (followin
 
 > "Arguing that you don't care about privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." - [Edward Snowden](https://www.azquotes.com/quote/1335561)
 
+> "Privacy is the power to selectively reveal oneself to the world." - [A Cypherpunk's Manifesto by Eric Hughes, 9 March 1993](https://www.activism.net/cypherpunk/manifesto.html#:~:text=Privacy%20is%20the%20power%20to%20selectively%20reveal%20oneself%20to%20the%20world.)
+
+
+
+
 
 
 

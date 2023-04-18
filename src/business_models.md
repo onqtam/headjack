@@ -207,6 +207,11 @@ pitch the VCs: this is not constructing a single thing and trying to own it as m
 Perhaps the attention exonomy pie will be smaller in a world with less exploitative mechanics btw thats a good thing - the current status quo is maladaptively inflated - a paperclip maximizer
 
 
+
+twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
+
+
+
 all business models try to capture attention - not just those relying on ads.
 https://twitter.com/jonathanstray/status/1644768765463379968
 maybe don't include this?

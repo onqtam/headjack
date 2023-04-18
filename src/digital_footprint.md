@@ -242,6 +242,10 @@ We are complex beings with different interests & aspects to our personalities - 
 
 <img src="images/multidimensionality_cropped.png">
 
+
+Even Substack is transitioning to [something like Twitter](https://on.substack.com/p/introducing-notes) but it is built around email for accounts - we can do better.
+
+
 > "Social networks do best when they tap into one of the seven deadly sins. Facebook is ego. Zynga is sloth. LinkedIn is greed." - [Reid Hoffman](https://www.azquotes.com/quote/134480), LinkedIn founder
 
 !!! A single identity network is all 8 at the same time.
