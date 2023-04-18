@@ -72,6 +72,15 @@ What if:
 - less emotionally manipulative language & framing such as the [Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation)
 - less need to think of the right words - reducing friction in expression
 
+Russel conjugation - horse dewormer vs ivermectin
+
+How much context and nuance has been lost in translation?
+
+We need not only fact checking but also frame checking - around language
+
+We have reached “X destroys Y” in headlines through virality A/B testing - what if we could add a negative weight to such content?
+
+
 unlike text, structured data is easily aggregatable for the purpose of visualization through graphs & charts which makes it easily comprehensible
 
 Let's take 2 sides of a debate around vaccines - Brett Weinstein & Scott Adams. It is impossible for someone to quickly see where they've been on the debate throughout time without pouring hundreds of hours sifting through old tweets & watching endless podcasts & episodes. Their opinions could have been codified with structured data & logged as time-series so that we can compare, chart & plot the evolution of their views. Structured data should be incentivized.
@@ -107,6 +116,15 @@ reducing the vocabulary of common knowledge
 
 “Semantic graphs” instead of thought
 Semantic graphs as the primary source
+
+
+Perhaps thought-graphs are overkill. Maybe only simple fact/assertion statements should be present
+
+Even thought-graphs could be generated from text as an initial pass, although that would need a human to take a look
+
+People can still consume text and audio but they’d have the option to trace and inspect the inputs & how the saussage is made
+
+We can reality-test our beliefs
 
 <!-- What about complex thoughts? Again, language is a poor medium - it evolved hundreds of thousands of years ago but now we can do a lot better.
 
@@ -226,6 +244,7 @@ We should be able to see all references & content related to any identity, event
 
 A unified identity layer, the ability to deduplicate content, to annotate semantically & the move to structured data greatly helps with being able to pull everything related to something. However, one concern is negative reputation & "scarlet letters" - the ability to taint an entity and have the bad reputation follow it without the ability to hide it. But we can develop tools, norms & criteria to evaluate/rank/filter any document & reaction that relates to something. Moreover, even if there isn't a direct data connection between 2 entities (one referring to the other), as long as they are both public someone could index them and make that link. This problem already exists today.
 
+<!-- hiding inconvenient facts is most worthwhile to those with the most power. Negative reputation for any entity is a net positive despite the drawbacks -->
 
 
 <!--

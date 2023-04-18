@@ -13,6 +13,19 @@
 
 The public commons are gatekept and harvested by a select few platforms - we need to democratize access to what is public already
 
+why can't we specify as a % what number of posts we should get in our feeds that aren't from our social graph but purely a recommendation?
+
+
+deep personalization of a feed is anti-democratic - it siloes us in exchange of brave new world style personalized pleasure
+
+what if you could use something snapchat-like, but without the streaks gamification that gets you back a lot more?
+
+most modern diseases are diseases of abundance - including "information"
+Naval
+https://youtu.be/3qHkcs3kG44?t=4603
+
+Making media consumption deliberate
+
 We are what we eat but we are also what we watch
 
 The current social apps exploit our social reciprocity - x follows you - follow them back! We should rethink our types of connections and the amount of persuation and manipulation apps can do to us

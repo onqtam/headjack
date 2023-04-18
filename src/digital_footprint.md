@@ -288,7 +288,8 @@ But that's just scratching the surface - how much further could we push things? 
 
 - A **single place for all your messages** (DMs & email) - similar to [Texts](https://texts.com/) (`"All of your messages in one inbox"`) but not beholden to the terms of service & constraining APIs of platforms.
     - **Define filters & thresholds for cold DMs** - have separate inboxes based on properties: account older than 2 years? has credential X? up to 3 degrees of separation from you? amount paid to contact you? (setting a price for yourself), etc.
-- Universal **bookmarks** - they'll work for any type of document/event from any app and you could even cache the actual content that a URI points to along with proofs - forever.
+- **Universal bookmarks** - they'll work for any type of document/event from any app and you could even cache the actual content that a URI points to along with proofs - forever.
+    - **Partial selections** - select a paragraph/sentence or range on a timeline (a clip) and save it - the URI for the underlying document is stable.
     - **Playlists** are lists of bookmarks and could work even with different audio/video apps which have given URIs to tracks. Spotify could be just an app that uses your IDM for account storage (managing your library & tracking your progress on podcasts) and is paying hosting providers for storage & bandwidth for streaming.
     - Your **personal knowledge base** could be built with something like [Logseq](https://logseq.com/) or [Roam](https://roamresearch.com/) on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away - seamlessly integrated in the UI.
     - **Browser integration** - using any IDM for cloud sync through a standard interface.
@@ -304,41 +305,22 @@ But that's just scratching the surface - how much further could we push things? 
 
 All this would be easiest to build around a single unified identity network with data interoperability.
 
-# Expressivity
-
-A data network in which your input matters in an uncountable number of ways
-Expressivity!
-
-> "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
-
-Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
-
-What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
-https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
-
-
-
-
-and what if we could mark paragraphs with colors from any document and save that locally?
 
 
 
 
 
-
-
-
-
-
-# other crap
+<!--
+# random crap
 
 > "One of the more out-there things I'd really like to see with local AI is feed-filtering. You have a personal AI that learns your preferences and is loyal to you. Then it parses the HTML on pages with feeds (YouTube, TikTok, Twitter, etc) and it throws out any clutter."
 https://twitter.com/DavidVorick/status/1618277136938274817
 
-TODO: add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
+add this in the attention & alarms & notifications section of the book - we should be able to take control - anyone should be able to build new frontends where we can set limits
 What If You Quit Social Media For 30 Days?
 https://www.youtube.com/watch?v=_u5p6hwS5SM
 
 When you show your Attention (what algorithms, apps & settings you're using, & even your history) you get attention for it - in regards to the signaling
 
 the level of sophistication in email filtering (in gmail for example) should be matched by any social media. But the incentives of social media is to engage you - not help you be less engaged or more meaningfully engaged
+-->
