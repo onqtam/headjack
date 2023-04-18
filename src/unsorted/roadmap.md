@@ -48,6 +48,8 @@ Oauth as a partner
 
 auction the first 10k indexes in different tiers and raise funds
 
+> "Having a great idea for a product is important, but having a great idea for product distribution is even more important." - [Reid Hoffman](https://www.azquotes.com/quote/716440)
+
 https://www.privy.io/
 
 https://www.defmacro.org/2019/03/26/startup-checklist.html

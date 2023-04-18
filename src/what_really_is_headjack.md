@@ -16,6 +16,12 @@ Twitter's potential has fascinated some of the brightest people in the world eve
 
 But the original sin has been that it's [owned by a company](https://twitter.com/jack/status/1518772754782187520) which Jack Dorsey states as [his biggest regret](https://twitter.com/jack/status/1562861302242226178) - no wonder that he's been trying to turn it into a protocol - first with [project Bluesky](https://twitter.com/jack/status/1204766078468911106) (now [AT Protocol](https://atproto.com/)) and more recently with [TBD Web5](https://twitter.com/jack/status/1535314738078486533) (both covered in the [comparison chapter](competition.md)).
 
+> "From a historical perspective, Twitter will serve as one of several inspirational ancestors for What Comes Next in the domain of collective sense making platforms." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
+
+> "Big platforms tend to only evolve so far until something else with a bigger evolutionary jump supersedes it.  Twitter is rather thin in affordances." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
+
+> "Personally I’d be surprised if Twitter will actually be the base for the self organizing collective intelligence that we need." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
+
 > "Evolution only builds on open formats and protocols. That's how technology layers." - [source](http://scripting.com/2014/10/10/youngTechnologistsLoveLockin.html)
 
 # The global event bus / pub-sub
@@ -267,5 +273,11 @@ Bind them
 
 Headjack
 -->
+
+
+> "If you’re not acting on your beliefs, then they probably aren’t real." - [Edward Snowden](https://www.azquotes.com/quote/916625)
+
+> "What is the most important thing you could be working on in the world right now? ... And if you're not working on that, why aren't you?" - [Aaron Swartz](https://www.azquotes.com/quote/1202481)
+
 
 Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity.

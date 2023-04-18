@@ -42,7 +42,10 @@ https://www.google.com/search?q=the+golden+circle
 </div>
 
 
-> "What is the most important thing you could be working on in the world right now? ... And if you're not working on that, why aren't you?" - [Aaron Swartz](https://www.azquotes.com/quote/1202481)
+> "A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator." - [Peter Thiel](https://www.azquotes.com/quote/929109#:~:text=from%20the%20outside.-,A%20great%20company%20is%20a%20conspiracy%20to%20change%20the%20world%3B%20when%20you%20share%20your%20secret%2C%20the%20recipient%20becomes%20a%20fellow%20conspirator.,-Peter%20Thiel)
+
+
+> "Any conversation I have about innovation starts with the ultimate goal." - [Sergey Brin](https://www.azquotes.com/quote/1104765)
 
 
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->

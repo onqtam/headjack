@@ -100,6 +100,11 @@ https://www.youtube.com/watch?v=kwYaj-1EVJ0
 
 > "We should work toward a universal linked information system, in which generality and portability are more important than fancy graphics techniques and complex extra facilities." - [Tim Berners-Lee](https://www.azquotes.com/quote/917027)
 
+> "The internet explodes when somebody has the creativity to look at a piece of data that's put there for one reason and realise they can connect it with something else." - [Tim Berners-Lee](https://www.azquotes.com/quote/854101)
+
+> "The ultimate goal of the Web is to support and improve our weblike existence in the world. We clump into families, associations, and companies." - [Tim Berners-Lee](https://www.azquotes.com/quote/1097344)
+
+> "The goal of the Web is to serve humanity. We build it now so that those who come to it later will be able to create things that we cannot ourselves imagine." - [Tim Berners-Lee](https://www.azquotes.com/quote/854108)
 
 
 
@@ -117,6 +122,10 @@ Episodes & other creations should get their concept id
 The RDF format & the use of URIs means that most keys are long strings beholden to the host-centric model
 
 we should be able to react to RDF triples that assert something
+
+> "The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - [Tim Berners-Lee](https://www.azquotes.com/quote/171766)
+
+> "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past." - [Tim Berners-Lee](https://www.azquotes.com/quote/171768)
 
 Ontologies are a formal way to describe taxonomies and classification networks, essentially defining the structure of knowledge for various domains: the nouns representing classes of objects and the verbs representing relations between the objects.
 

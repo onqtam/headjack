@@ -281,9 +281,20 @@ https://sine.foundation/tandem
 
 https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
 
+what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
+
 shifting social media goals from engagement to impact
 
 Putting individuals in the drivers seat
+
+> "What is ignored by the media -- but will be studied by historians? Here's 7 more examples:"
+https://twitter.com/george__mack/status/1641134999406780417
+TODO: how to transform this and turn it into a global "top 7" dashboard/chart? and in the semantic web?
+
+What if we could all signal our top X biggest concerns?
+
+One of the biggest drawbacks of language-based communication is the inability to aggregate & analyze sentiment unambiguously and throughout time.
+
 
 A data network in which your input matters in an uncountable number of ways
 Expressivity!
@@ -475,7 +486,11 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 > "The state of debate as it occurs online is particularly ineffectual and disorganized. None of the technologies in use today (with the exception of email and a few others) were available twenty years ago, and yet with this incredible growth in capability, we have failed to address fundamental issues with deliberation, and created many new ones." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=The%20state%20of%20debate%20as,and%20created%20many%20new%20ones.)
 
+> "Everything that can be said can be said clearly." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/328722-everything-that-can-be-thought-at-all-can-be-thought)
 
+> "The goal of media is to make every problem, your problem." - [Naval](https://twitter.com/naval/status/1310306039481262081)
+
+> "The best way, perhaps the only way, to change others is to become an example." - [Naval](https://twitter.com/naval/status/1001968749342273536)
 
 
 

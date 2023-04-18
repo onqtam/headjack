@@ -20,6 +20,8 @@ deep personalization of a feed is anti-democratic - it siloes us in exchange of 
 
 what if you could use something snapchat-like, but without the streaks gamification that gets you back a lot more?
 
+> "It takes discipline not to let social media steal your time." - [Alexis Ohanian](https://www.azquotes.com/quote/900336)
+
 most modern diseases are diseases of abundance - including "information"
 Naval
 https://youtu.be/3qHkcs3kG44?t=4603

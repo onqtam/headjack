@@ -8,6 +8,8 @@
 
 # Today: centralized & fragmented identity
 
+> "The more you enter, the more you become locked in. Your social-networking site becomes a central platform - a closed silo of content, and one that does not give you full control over your information in it. The more this kind of architecture gains widespread use, the more the Web becomes fragmented, and the less we enjoy a single, universal information space." - [Tim Berners-Lee](https://www.azquotes.com/quote/1269744)
+
 Convenience & network effects have lead to extreme levels of centralization of identity in just a few players with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) (SSO) functionality.
 
 > "As of 2018 the consolidation of power and control over the social web by a few large corporations seems unparalleled" - [Decentralizing the Social Web](https://hal.inria.fr/hal-01966561/document) by [Harry Halpin](https://twitter.com/harryhalpin)
@@ -239,6 +241,10 @@ We are complex beings with different interests & aspects to our personalities - 
 <!-- FIXME: edit picture to add text -->
 
 <img src="images/multidimensionality_cropped.png">
+
+> "Social networks do best when they tap into one of the seven deadly sins. Facebook is ego. Zynga is sloth. LinkedIn is greed." - [Reid Hoffman](https://www.azquotes.com/quote/134480), LinkedIn founder
+
+!!! A single identity network is all 8 at the same time.
 
 But that comes at a cost: fragmented & inconsistent identity, content duplication, & lack of composability to name a few. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others in our feeds (+ the ability to control the visibility of any action)?
 
