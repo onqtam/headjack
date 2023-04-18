@@ -89,3 +89,6 @@ It must be [**obvious & provable**](numbers.md) that the network has a **credibl
 - Anyone can self-host & run software locally, browse the ecosystem, and fetch content & events from entities they've subscribed to (although quite bandwidth-intensive), but their experience will be extremely limited in that they won't be able to run any sort of query/filtration/feed algorithm at scale nor aggregate the activity of billions of people in real-time.
 
 > "You can build something centralized on something decentralized but you can’t build something decentralized on top of something centralized. Decentralization is always the base layer." - [@RyanSAdams](https://twitter.com/RyanSAdams/status/1553776203621965826)
+
+> "Unless we have an open, neutral internet we can rely on without worrying about what's happening at the back door, we can't have open government, good democracy, connected communities and diversity of culture. It's not naive to think we can have that, but it is naive to think we can just sit back and get it." - [A Magna Carta for the web
+](https://www.ted.com/talks/tim_berners_lee_a_magna_carta_for_the_web) by Tim Berners-Lee

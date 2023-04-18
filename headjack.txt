@@ -24,7 +24,6 @@ we should be able to look up if person X has ever made a statement about X, and 
 
 
 
-querying - with an LLM as the interface!
 
 
 
@@ -37,22 +36,43 @@ querying - with an LLM as the interface!
 
 
 
+== cybernetics
+
+> "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624)
+
+> "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
+
+> "Cybernetics is the art of steering." - [Paul Pangaro](https://twitter.com/paulpangaro)
+
+What if we could state our goals and then design our feedback system?
+
+https://www.youtube.com/watch?v=Oad8Ro8j_fE
+
+what if we could come to a consensus on a shared loss function?
+https://en.wikipedia.org/wiki/Loss_function
+
+self-regulation
+
+According to cybernetics, intelligence sits on top of feedback loops
+
+engineering control loops
 
 
 
+biochemical regulatory mechanisms
 
+socio-reputational regulatory mechanisms
 
-== clips
-if someone uploads a clip someone can link it to the original content with timeline mapping so that one can view the original instead of the clip if they wish - similar to the "title change for less clickbait" stuff
-"DISINCENTIVIZING DUPLICATION"
-Todo: chapter about the movie maker - the timeline composer
-
-
+== immune system chapter
+We can crowdsource the weights for any algorithm
+We need to shift the incentives from content to pure signal, delegation and actual impact
+Behavior != revealed preference! Just because I clicked on a car crash video doesnt mean thats all i want
 
 
 == weights and parameters in algorithms
 
 
+we can even disagree on how to weight the votes of people - equally or some other way. And we could even crowdsource & delegate that.
 
 what if reputation had a computable value which you couldn't trade, but simply compute? No way to buy your way in - the only way being through a long enough track record?
 
@@ -96,8 +116,6 @@ Identity can be computable
 
 
 
-Personal data vault - can encrypt it and have it replicated through other storage protocols
-
 what if we could signal "back me up" for specific posts - leveraging our audience for select issues?
 
 Feedback loop - you see what tags your audience expects and they see your content by tags if you’ve tagged it (or they could use AI to classify but that could be ambiguous)
@@ -126,11 +144,6 @@ https://twitter.com/elonmusk/status/1646228065071292416
 
 
 
-> "From a historical perspective, Twitter will serve as one of several inspirational ancestors for What Comes Next in the domain of collective sense making platforms. " - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
-
-> "Big platforms tend to only evolve so far until something else with a bigger evolutionary jump supersedes it.  Twitter is rather thin in affordances." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
-
-> "Personally I’d be surprised if Twitter will actually be the base for the self organizing collective intelligence that we need." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
 
 
 
@@ -145,44 +158,6 @@ consider the case around nuclear energy - we should be able to generate media fr
 
 
 
-
-
-== cybernetics
-
-> "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624)
-
-> "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
-
-> "Cybernetics is the art of steering." - [Paul Pangaro](https://twitter.com/paulpangaro)
-
-What if we could state our goals and then design our feedback system?
-
-https://www.youtube.com/watch?v=Oad8Ro8j_fE
-
-what if we could come to a consensus on a shared loss function?
-https://en.wikipedia.org/wiki/Loss_function
-
-self-regulation
-
-According to cybernetics, intelligence sits on top of feedback loops
-
-engineering control loops
-
-what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
-
-
-biochemical regulatory mechanisms
-
-socio-reputational regulatory mechanisms
-
-
-
-
-
-== immune system chapter
-We can crowdsource the weights for any algorithm
-We need to shift the incentives from content to pure signal, delegation and actual impact
-Behavior != revealed preference! Just because I clicked on a car crash video dorsnt mean thats all i want
 
 
 
@@ -205,17 +180,6 @@ Behavior != revealed preference! Just because I clicked on a car crash video dor
 == calculemus!
 "computable context" as a chapter - not just reputation!
 
-the future of status and prestige is authentic computable context & reputation on top of immutable cryptohistory
-
-
-
-> "The goal of media is to make every problem, your problem." - [Naval](https://twitter.com/naval/status/1310306039481262081)
-
-> "The best way, perhaps the only way, to change others is to become an example." - [Naval](https://twitter.com/naval/status/1001968749342273536)
-
-
-
-
 
 
 
@@ -233,133 +197,67 @@ https://en.wiktionary.org/wiki/calculemus
 
 
 
-> "Everything that can be said can be said clearly." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/328722-everything-that-can-be-thought-at-all-can-be-thought)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> "Now everyone has a license to speak, it’s a question of who gets heard." - [Aaron Swartz](https://www.azquotes.com/quote/916637)
+
+> "These days, the problem isn't how to innovate; it's how to get society to adopt the good ideas that already exist." - [Douglas Engelbart](https://www.azquotes.com/quote/665712)
+
+> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
 
 > "Like any rational entity, the algorithm learns how to modify the state of its environment — in this case, the user’s mind — in order to maximize its own reward." - [Stuart Russell, Human Compatible (2019)](https://medium.com/understanding-recommenders/is-optimizing-for-engagement-changing-us-9d0ddfb0c65e#:~:text=Like%20any%20rational,Human%20Compatible%20(2019))
-
-
 
 > "We are flooded with information about catastrophes we cannot change. This is new for humanity and probably bad. What if news recommenders were designed not to show you any story that you can’t do anything about?" - [Jonathan Stray](https://twitter.com/jonathanstray/status/1641808066420064262)
 
 
 
 
-> "What is ignored by the media -- but will be studied by historians? Here's 7 more examples:"
-https://twitter.com/george__mack/status/1641134999406780417
-TODO: how to transform this and turn it into a global "top 7" dashboard/chart? and in the semantic web?
-
-What if we could all signal our top X biggest concerns?
-
-One of the biggest drawbacks of language-based communication is the inability to aggregate & analyze sentiment unambiguously and throughout time.
 
 
 
 
-we can even disagree on how to weight the votes of people - equally or some other way. And we could even crowdsource & delegate that.
-
-clips are dysfunctional
-clips are reuploaded because uploaders would get the revenue... this needs a solution
-
-
-> "We're in the stage where ML model-generated text is going to accelerate the rate of data accumulating on the internet and lower the average quality. This data deluge will degrade trust and user experience across a variety of platforms, increasing pressure on moderation and curation. Combine these trends with accelerating progress in AI and it will be near impossible for one individual to track the changes happening in their own information ecosystem." - [GPT4: The quiet parts and the state of ML](https://robotic.substack.com/p/gpt4-review?utm_source=twitter&utm_campaign=auto_share&r=68gy5#:~:text=We%27re%20in%20the,own%20information%20ecosystem.)
 
 
 
 
-> "As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them." - [Aaron Swartz](https://www.azquotes.com/quote/873585)
 
-> "Now everyone has a license to speak, it’s a question of who gets heard." - [Aaron Swartz](https://www.azquotes.com/quote/916637)
 
-> "Transparency in government leads to reduced corruption." - [Julian Assange](https://www.azquotes.com/quote/1341903)
 
-> "Every War in the past 50 Years is a Result of Media Lies" - [Julian Assange](https://www.azquotes.com/quote/850875)
 
-> "These days, the problem isn't how to innovate; it's how to get society to adopt the good ideas that already exist." - [Douglas Engelbart](https://www.azquotes.com/quote/665712)
 
-> "Simplicity is prerequisite for reliability." - [Edsger Dijkstra](https://www.azquotes.com/quote/78518)
 
-> "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." - [Edsger Dijkstra](https://www.azquotes.com/quote/754978)
-
-> "The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." - [Edsger Dijkstra](https://www.azquotes.com/quote/700184)
-
-> "The steady state of disks is full." - [Ken Thompson](https://www.azquotes.com/quote/1323716)
-
-> "Every two days now we create as much information as we did from the dawn of civilization up until 2003." - [Eric Schmidt, 2010](https://techcrunch.com/2010/08/04/schmidt-data/)
-
-> "The solution to government surveillance is to encrypt everything." - [Eric Schmidt](https://www.azquotes.com/quote/689572)
-
-> "Any conversation I have about innovation starts with the ultimate goal." - [Sergey Brin](https://www.azquotes.com/quote/1104765)
 
 > "People are starving in the world, not because we don't have enough food, but because we're not organized. And computers are part of that." - [Larry Page](https://www.azquotes.com/quote/788555)
 
-> "The companies that do the best job on managing a user's privacy will be the companies that ultimately are the most successful." - [Fred Wilson](https://www.azquotes.com/quote/317282)
-
-> "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
-
-> "A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator." - [Peter Thiel](https://www.azquotes.com/quote/929109#:~:text=from%20the%20outside.-,A%20great%20company%20is%20a%20conspiracy%20to%20change%20the%20world%3B%20when%20you%20share%20your%20secret%2C%20the%20recipient%20becomes%20a%20fellow%20conspirator.,-Peter%20Thiel)
-
 > "You have as much computing power in your iPhone as was available at the time of the Apollo missions. But what is it being used for? It’s being used to throw angry birds at pigs; it’s being used to send pictures of your cat to people halfway around the world; it’s being used to check in as the virtual mayor of a virtual nowhere while you’re riding a subway from the nineteenth century." - [Peter Thiel](https://www.azquotes.com/quote/720837)
-
-> "I think most of the important stuff on the Internet has been built. There will be continued innovation, for sure, but the great problems of the Internet have essentially been solved." - [Elon Musk](https://www.azquotes.com/quote/210157)
-!! NOT REALLY - identity
-
-> "It takes discipline not to let social media steal your time." - [Alexis Ohanian](https://www.azquotes.com/quote/900336)
-
-
-
-> "The goal of the Web is to serve humanity. We build it now so that those who come to it later will be able to create things that we cannot ourselves imagine." - [Tim Berners-Lee](https://www.azquotes.com/quote/854108)
-
-> "The internet explodes when somebody has the creativity to look at a piece of data that's put there for one reason and realise they can connect it with something else." - [Tim Berners-Lee](https://www.azquotes.com/quote/854101)
-
-> "The ultimate goal of the Web is to support and improve our weblike existence in the world. We clump into families, associations, and companies." - [Tim Berners-Lee](https://www.azquotes.com/quote/1097344)
-
-> "The search button on the browser no longer provides an objective search, but a commercial one." - [Tim Berners-Lee](https://www.azquotes.com/quote/1389809)
 
 > "If different cultures connect with each other, they are less likely to want to shoot each other." - [Tim Berners-Lee](https://www.azquotes.com/quote/678697)
 
-> "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past." - [Tim Berners-Lee](https://www.azquotes.com/quote/171768)
-
-> "Data is a precious thing and will last longer than the systems themselves." - [Tim Berners-Lee](https://www.azquotes.com/quote/171730)
-
-> "The more you enter, the more you become locked in. Your social-networking site becomes a central platform - a closed silo of content, and one that does not give you full control over your information in it. The more this kind of architecture gains widespread use, the more the Web becomes fragmented, and the less we enjoy a single, universal information space." - [Tim Berners-Lee](https://www.azquotes.com/quote/1269744)
-
-> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
-
-> "The amount of control you have over somebody if you can monitor internet activity is amazing." - [Tim Berners-Lee](https://www.azquotes.com/quote/171763)
-
-> "The original idea of the web was that it should be a collaborative space where you can communicate through sharing information." - [Tim Berners-Lee](https://www.azquotes.com/quote/171766)
-
-
-> "Unless we have an open, neutral internet we can rely on without worrying about what's happening at the back door, we can't have open government, good democracy, connected communities and diversity of culture. It's not naive to think we can have that, but it is naive to think we can just sit back and get it." - [A Magna Carta for the web
-](https://www.ted.com/talks/tim_berners_lee_a_magna_carta_for_the_web) by Tim Berners-Lee
-
-
-
-
-
-> "Having a great idea for a product is important, but having a great idea for product distribution is even more important." - [Reid Hoffman](https://www.azquotes.com/quote/716440)
-
-> "Social networks do best when they tap into one of the seven deadly sins. Facebook is ego. Zynga is sloth. LinkedIn is greed." - [Reid Hoffman](https://www.azquotes.com/quote/134480), LinkedIn founder
-!!! A single identity network is all 8 at the same time.
-
-
-
-> "If you’re not acting on your beliefs, then they probably aren’t real." - [Edward Snowden](https://www.azquotes.com/quote/916625)
-
-> "I have been to the darkest corners of government, and what they fear is light." - [Edward Snowden](https://www.azquotes.com/quote/577721)
-
-> "Arguing that you don't care about privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." - [Edward Snowden](https://www.azquotes.com/quote/1335561)
-
-> "Under observation, we act less free, which means we effectively are less free." - [Edward Snowden](https://www.azquotes.com/quote/685660)
+> "As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them." - [Aaron Swartz](https://www.azquotes.com/quote/873585)
 
 > "There is a technical solution to every political problem..." - [Edward Snowden](https://www.azquotes.com/quote/685668)
 
+> "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
 
 
-> "Everything is based on a simple rule: Quality is the best business plan, period." - [Steve Jobs](https://www.azquotes.com/quote/1060339)
+
+
 
 
 
@@ -386,7 +284,6 @@ chapter: signal-boosting
 
 
 
-upgrading the internet beyond the physical
 
 "individuals as neurons" chapter
 the current host-centric world where platforms own our data and is siloed is preventing us as a giant global brain to wire any way we want
@@ -1322,6 +1219,19 @@ there isn't an ounce of fat to remove from this design - anything more minimalis
 
 Today we as a global hivemind lack neuroplasticity
 
+
+
+> "I think most of the important stuff on the Internet has been built. There will be continued innovation, for sure, but the great problems of the Internet have essentially been solved." - [Elon Musk](https://www.azquotes.com/quote/210157)
+!! NOT REALLY - identity
+
+
+== clips
+if someone uploads a clip someone can link it to the original content with timeline mapping so that one can view the original instead of the clip if they wish - similar to the "title change for less clickbait" stuff
+"DISINCENTIVIZING DUPLICATION"
+Todo: chapter about the movie maker - the timeline composer
+clips are dysfunctional
+clips are reuploaded because uploaders would get the revenue... this needs a solution
+
 ██████ slogans
 
 The tweets of the future will be statements of semantic triples
@@ -1329,6 +1239,8 @@ The tweets of the future will be statements of semantic triples
 Realizing humanity’s potential for expression at scale
 
 Making the individual count
+
+upgrading the internet beyond the physical
 
 We need a shared reality
 

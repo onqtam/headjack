@@ -128,6 +128,8 @@ Ephemeral experiences such as search suggestions & results leave no trace and it
 
 Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
 
+> "The search button on the browser no longer provides an objective search, but a commercial one." - [Tim Berners-Lee](https://www.azquotes.com/quote/1389809)
+
 The explicit user preferences such as subscriptions & the social graph (following/connections) are routinely discounted in our feeds in favor of algorithm recommendations - platforms optimize for engagement & attention and not for utility & value to end users. We all respond to outrage & enjoy the occasional viral cat video but we should be able to tune & filter what gets shown to us. Have you ever heard a YouTuber tell you to hit the notification bell in addition to subscribing?
 
 > "I'm in an ongoing relationship with a moody, sensitive, grudge-holding, and generally crazy girlfriend called the Twitter algorithm. Everything will be going fine and then suddenly I'm getting the cold-shoulder and I don't even really know what I did and just have to wait it out." - [Tim Urban](https://twitter.com/waitbutwhy/status/1506755880578166788)
@@ -135,11 +137,19 @@ The explicit user preferences such as subscriptions & the social graph (followin
 
 
 
+> "The companies that do the best job on managing a user's privacy will be the companies that ultimately are the most successful." - [Fred Wilson](https://www.azquotes.com/quote/317282)
 
+> "The solution to government surveillance is to encrypt everything." - [Eric Schmidt](https://www.azquotes.com/quote/689572)
 
+> "Transparency in government leads to reduced corruption." - [Julian Assange](https://www.azquotes.com/quote/1341903)
 
+> "Every War in the past 50 Years is a Result of Media Lies" - [Julian Assange](https://www.azquotes.com/quote/850875)
 
+> "The amount of control you have over somebody if you can monitor internet activity is amazing." - [Tim Berners-Lee](https://www.azquotes.com/quote/171763)
 
+> "Under observation, we act less free, which means we effectively are less free." - [Edward Snowden](https://www.azquotes.com/quote/685660)
+
+> "Arguing that you don't care about privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say." - [Edward Snowden](https://www.azquotes.com/quote/1335561)
 
 
 

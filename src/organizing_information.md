@@ -284,6 +284,8 @@ imagine being able to pick your "wikipedia editors" - people who curate informat
 # querying & palantir foundry
 ██████████████████████████████████████████████████████████████████
 
+LLMs !!!
+
 BigQuery 2.0
 
 Graph tool for constructing queries - data processing pipelines like in Foundry
