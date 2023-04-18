@@ -1,102 +1,16 @@
 
-https://www.internetgovernment.org/
-WITH TECHNOLOGY, WE CAN FINALLY UPGRADE THE WAY WE PARTICIPATE IN GOVERNMENT
-Imagine:
-THE MOST INFORMED AND INCLUSIVE NATION-WIDE DEBATES POSSIBLE
-RESEARCH-DRIVEN POLICY DEVELOPMENT WITHOUT THE POLITICS
-TOTALLY INCLUSIVE AND TRANSPARENT REPRESENTATION
-
-
-> "We waste so much time repeating old arguments and running in opposite directions. The internet looked like it would ease the problem by giving us access to vast knowledge and each of us a voice. It seems to have made the situation worse by overwhelming us with disorganized, contradictory information. Social media amplifies bias and creates echo chambers." - ["Canonical Debate Lab" paper](ttps://github.com/canonical-debate-lab/paper#i-abstract:~:text=We%20waste%20so,creates%20echo%20chambers.)
-
-> "The problem is structural in nature, and therefore can be solved with a structural fix." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=the%20problem%20is%20structural%20in%20nature%2C%20and%20therefore%20can%20be%20solved%20with%20a%20structural%20fix.)
-
-> "The state of debate as it occurs online is particularly ineffectual and disorganized. None of the technologies in use today (with the exception of email and a few others) were available twenty years ago, and yet with this incredible growth in capability, we have failed to address fundamental issues with deliberation, and created many new ones." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=The%20state%20of%20debate%20as,and%20created%20many%20new%20ones.)
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-> "" ["Canonical Debate Lab" paper]()
-
-
-
-
-
-
-
-
-Jupiter notebooks for decentralized social science?
-
-
-
-Aiming to make politics downstream of science - not the other way around
-
-
-
 
 
 
 
 what if we had views with different levels of granularity and detail for the whole picture? one set of humans are labelers - a task that is easily checkable and quite unambiguous, but the actual view of the world was produced by combining different labelers with different weights based on their reputation? Neural nets have many layers - feature recognition, etc.
 
-what if we could give (& take) each other points for different actions, and what if we could re-calculate how much points all of us have based on different criteria - simulating forward the exchange of points and seeing how the point ranking would end up with different starting conditions?
-This is different from delegation of votes - this is a reward & scoring system
-What if we applied to jobs not with LinkedIn & StackOverflow accounts but with a contribution score for helping make sense of the world?
-
-how do we make a global neural net for surfacing truth and prioritizating the most important stuff?
-
-
-
-
+# Exploring the Matrix
 
 Toggling layers of the graph or whatever - monetary layer - how money and influence flow
 
-hiding inconvenient facts is most worthwhile to those with the most power. Negative reputation for any entity is a net positive despite the drawbacks
-
-
-
-
-
-Everything is optimized for engagement - “share something” - what if we could change the layout of controls?
-
-
-
-self-regulating without regulators
-
-in cyberspace we can have something other than first-past-the-post voting - we don't need to be limited to it
-
-what if we could query what our top 10 heroes think about how to get your life, diet & fitness in order?
-
-
-
-most modern diseases are diseases of abundance - including "information"
-Naval
-https://youtu.be/3qHkcs3kG44?t=4603
-
-We can reality-test our beliefs
-
-
-
 we should be able to look up if person X has ever made a statement about X, and what they said - for example how do you currently query all the podcasts of Naval if he has ever said anything about Edward Snowden? How do you query that? You simply don't.
 
-our current culture is of consumerism - what if we could shift that? How would we shift that?
-
-empowerment - voter apathy is best explained by the disbelief that their vote would matter or that the pool of options is constrained and nothing is good enough. Also the complexity and cost of actually having a well informed opinion and the lack of ability to delegate automatically to someone they trust
 
 
 
@@ -106,26 +20,12 @@ empowerment - voter apathy is best explained by the disbelief that their vote wo
 
 
 
-curing the internet from schizophrenia
-https://en.wikipedia.org/wiki/Schizophrenia#:~:text=Major%20symptoms%20include%20hallucinations%20(typically%20hearing%20voices)%2C%20delusions%2C%20and%20disorganized%20thinking.%5B7%5D%20Other%20symptoms%20include%20social%20withdrawal%2C%20decreased%20emotional%20expression%2C%20and%20apathy.%5B5%5D
 
-shifting social media goals from engagement to impact
 
-we should be able to react to RDF triples that assert something
 
-deep personalization of a feed is anti-democratic - it siloes us in exchange of brave new world style personalized pleasure
 
 querying - with an LLM as the interface!
 
-why can't we specify as a % what number of posts we should get in our feeds that aren't from our social graph but purely a recommendation?
-
-what if we could downregulate/influence the use of things in the real world such as fast foods brands? what if negative reputation is a feature - not a bug? The physical world is now downstream from the digital. Sunlight is the best disinfectant
-
-what if we could gauge the trustfulness of a brand? or how much it is being recommended? What if we could see that healthy & successful people explicitly downregulate fast food - how might that impact us the next time we see a commercial with someone healthy-looking promoting cheap chicken fries?
-
-
-
-The google index is private - it should be public infrastructure
 
 
 
@@ -140,35 +40,19 @@ The google index is private - it should be public infrastructure
 
 
 
-Not al combinations will be possible due to 3 reasons: complexity for users, a combinatorial explosion in computation and technical feasibility. But a meaningful set of never-before-seen functionality will emerge and it will have the capacity to evolve gradually to any other subset.
 
-Identity can be computable
 
-Openness enables gradual evolvability
-
-Putting individuals in the drivers seat
-
-Two concepts: subscriptions and power delegation
-Central circulatory system of values and expertise delegation
-
-Russel conjugation - horse dewormer vs ivermectin
-
-How much context and nuance has been lost in translation?
-
-We need not only fact checking but also frame checking - around language
-We have reached “X destroys Y” in headlines through virality A/B testing - what if we could add a negative weight to such content?
-
-Perhaps thought-graphs are overkill. Maybe only simple fact/assertion statements should be present
-
+== clips
 if someone uploads a clip someone can link it to the original content with timeline mapping so that one can view the original instead of the clip if they wish - similar to the "title change for less clickbait" stuff
 "DISINCENTIVIZING DUPLICATION"
 Todo: chapter about the movie maker - the timeline composer
 
-Public actions should be regarded as public contributions
 
-The metaverse is collaborative
 
-Even thought-graphs could be generated from text as an initial pass, although that would need a human to take a look
+
+== weights and parameters in algorithms
+
+
 
 what if reputation had a computable value which you couldn't trade, but simply compute? No way to buy your way in - the only way being through a long enough track record?
 
@@ -178,6 +62,10 @@ The further down a reshare chain (a reshare of a reshare of a reshare) - the mor
 If you want to share further beyond some limit you’d have to explicitly copy/paste it - this removes toxicity beyond a certain level
 
 There should be no “magic/secret sauce” when it comes to recommendation algorithms. And we need to put the weights in the control of the users
+
+We should think more carefully about the weights we give when ranking interactions
+example: twitter's algorithm favors replies and gives a boost
+what about CAD’s theorem of topic culture. A smart is less likely to receive a reply than a stupid post because it leaves less to be said, but a really full and comprehensive post will bring the conversation to a halt. 
 
 Weights - should the reactions of someone who spends 8 hours a day online have the same weight as someone who reacts once a week or month? What if someone is producing 100 or 1000 times more content than the average account or more than the 99th percentile - should their ability to influence the ranking be the same as everybody else? Perhaps once you go beyond the activity of the 99th percentile you should start getting less and less impact for your actions for a rolling window
 Compulsive social media users can (and do!) influence the algorithms for the rest of us
@@ -190,31 +78,23 @@ Viral outbursts of anxiety
 
 These are the types of questions and design decisions we’re simply not having and participating in because we’re outsiders for the social media platforms
 
-Headjack in 100 words:
-Stranica s kolaj ot dumi i frazi koito opisvat proekta - metaverse, cybernetics, global brain, collective intelligence
 
 What if there was a way to signal your preferred solution every time you comment on a problem? And what if we boosted responses that offer solutions/improvements? Inspired by solutions journalism
 
 
-So many ideas that can be implemented as a hackaton at any of the big social media companies are never even attempted - because it doesn’t serve their bottom line. Thats why the host-centric model must go
+
 
 
 What if anyone could analyze the history of reactions of a post and see if there was an initial coordinated boost by some clique of connected accounts from a troll farm? Currrntly such analysis can be done only by insider data analysts
 
 
 
-TODO: what about small entities like "year progress" - should they get a unique ID on-chain? Or some other light-weight account type should exist? maybe an "owned" off-chain index that's a child of the creator?
+
+Identity can be computable
 
 
-== ideas for apps:
-- feed composer - from subscriptions - with pipes
 
 
-The metaverse is enabled by permissionless innovation
-The metaverse differs from social media in that it enables permissionless innovation around the same identity network effect
-
-
-what if you could use something snapchat-like, but without the streaks gamification that gets you back a lot more?
 
 Personal data vault - can encrypt it and have it replicated through other storage protocols
 
@@ -254,16 +134,15 @@ https://twitter.com/elonmusk/status/1646228065071292416
 
 
 
-biochemical regulatory mechanisms
-
-socio-reputational regulatory mechanisms
-
 
 
 == debate maps
 
 !! Read this paragraph again - and the whole section
 https://github.com/DemocracyEarth/paper#22-voting:~:text=A%20canonical%20debate%20is,support%20or%20disprove%20others.
+
+consider the case around nuclear energy - we should be able to generate media from the debate map on that problem
+
 
 
 
@@ -292,31 +171,25 @@ engineering control loops
 what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
 
 
+biochemical regulatory mechanisms
 
-
-== values
-
-> "We’re nearly 20 years into the social media world, yet politicians and companies still have not figured out how to differentiate the loudest voices from the values of the majority" - [Tyler Reynolds](https://twitter.com/tbr90/status/1647286008025587713)
-
-https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
+socio-reputational regulatory mechanisms
 
 
 
 
 
-
-We should think more carefully about the weights we give when ranking interactions
-example: twitter's algorithm favors replies and gives a boost
-what about CAD’s theorem of topic culture. A smart is less likely to receive a reply than a stupid post because it leaves less to be said, but a really full and comprehensive post will bring the conversation to a halt. 
-
-
+== immune system chapter
+We can crowdsource the weights for any algorithm
+We need to shift the incentives from content to pure signal, delegation and actual impact
+Behavior != revealed preference! Just because I clicked on a car crash video dorsnt mean thats all i want
 
 
-> "I can’t let you do that, Dave." - HAL 9000 on 2001: A Space Odyssey (1968).
 
-> "Sovereign is he who decides on the exception." - Carl Schmitt, political theorist (1888-1985).
 
-> "Every time users like, upvote, heart, link or retweet content they are signaling a preference that serves a feedback loop generating better recommendations for them. But the action won’t go any further: it’s a fake vote that lacks institutional implications." - [The Social Smart Contract](https://github.com/DemocracyEarth/paper#user-content-231_Liquid:~:text=Every%20time%20users%20like%2C%20upvote%2C%20heart%2C%20link%20or%20retweet%20content%20they%20are%20signaling%20a%20preference%20that%20serves%20a%20feedback%20loop%20generating%20better%20recommendations%20for%20them.%20But%20the%20action%20won%E2%80%99t%20go%20any%20further%3A%20it%E2%80%99s%20a%20fake%20vote%20that%20lacks%20institutional%20implications.)
+
+
+
 
 
 
@@ -341,11 +214,6 @@ the future of status and prestige is authentic computable context & reputation o
 > "The best way, perhaps the only way, to change others is to become an example." - [Naval](https://twitter.com/naval/status/1001968749342273536)
 
 
-
-== immune system chapter
-We can crowdsource the weights for any algorithm
-We need to shift the incentives from content to pure signal, delegation and actual impact
-Behavior != revealed preference! Just because I clicked on a car crash video dorsnt mean thats all i want
 
 
 
@@ -508,25 +376,20 @@ Even Substack is transitioning to [something like Twitter](https://on.substack.c
 
 
 
-The price of authority is legitimacy and reputation/track record/authenticity
 
-what if we all had points for signal boosting beyond a simple like - like with claps in medium
+
 what if we could signal-boost anything - like "ppl with large following all endorse X futuristic and hopeful movie"
 chapter: signal-boosting
 
-People can still consume text and audio but they’d have the option to trace and inspect the inputs & how the sosage is made
 
-What if we could say “deboostt celebrity gossip/news” and if the people we follow have deboosted that that we inherit part of their preferences?
 
-chapter: "the metaverse is a graph"
-the metaverse is a giant global graph
+
+
 
 upgrading the internet beyond the physical
 
 "individuals as neurons" chapter
 the current host-centric world where platforms own our data and is siloed is preventing us as a giant global brain to wire any way we want
-
-what if DeSci was part of this giant global graph/brain? observation, experimentation, and the testing of theories against the evidence obtained - with an immutable trail behind
 
 
 THIS IS A BIG POINT !!!
@@ -638,7 +501,7 @@ And what if we could act on their findings - choosing which filter to change or 
 We can see the beliefs of whoever goes public and we can actively count their stated public preference. There could be a KYC-like service to point 
 !!!
 
-what if we could maintain rankings such as "the top 10 or 50 things I think everyone should have read and/or seen" and "what are the top 10 most pressing issues" and have that surfaced objectively - by whoever dares to speak out - we could publicly rank our concerns
+
 
 
 we can crowdsource such filters by an average from a community and there can be many communities. These communities could have on-chain governance for how to control who is in a set. What if those communities that define the filters for others got the option to collect payments for them maintaining quality and seeking truth, and only those apps that consume them on infrastructure that is doing their bidding would have access to the output. Anyone could leak it but they'd effectively be doing a favor to anyone else? Maybe? But the payload could also be fingerprinted uniquely for every one of them that's paying for it so that if it leaks the rat would be identified.
@@ -654,18 +517,16 @@ not only sensemaking but also meaningmaking - collective progress and transparen
 
 
 
-the metaverse is about agency - the ability to express yourself any way you want
 
-imagine being able to organize the world as folders of bookmarks on a desktop, through which you start interacting with the information however you wish (to the limits of what's available ofc)
+
+
 
 we could precisely determine the amount of influence we'd want from any account and then feed that set of weights into different recommendation & scoring algorithms & indexes. If you aspire to be like a set of people - you could adopt their worldview - their news inflow, their beliefs for what's true, their trust network (those who they themselves follow)
 
 Custom feeds. There's a type of news that we're interested in so we keep checking back in at social media and scroll through the feed for it. What if we could set preferences for what to be notified about - with a custom feed?
 
 
-Making media consumption deliberate
 
-what if we could signal preferences locally for what types of commercials we'd be OK with in our city - could this be the backbone for the nation state?
 
 
 
@@ -687,19 +548,6 @@ allowed and make sense (Ontologies)
 > "Our highest-bandwidth information channel is not speech. It's vision and touch." - [Yann LeCun](https://twitter.com/ylecun/status/1640595183946407936)
 
 instead of crowd-sourcing the truthfulness of a text post we can crowd-source only the mapping of that post to semantic triplets of assertions and automatically check those against an external set
-
-
-
-
-
-How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
-We could engineer the dopamine of this informational global brain.
-pagerank for people - depending on the delegations in the liquid stuff
-TODO: read the twitter community notes whitepaper
-
-the rules for how the dopamine should work could be voted on with liquid democracy
-evolving internet norms
-
 
 
 
@@ -1294,11 +1142,11 @@ https://twitter.com/jon_charb/status/1546501640827568128
 
 ██████ unsorted
 
+TODO: what about small entities like "year progress" - should they get a unique ID on-chain? Or some other light-weight account type should exist? maybe an "owned" off-chain index that's a child of the creator?
 
 There should be a vision for how others can capitalize on the opportunity and be the heroes
-
-
-start with the problems in each page?
+== ideas for apps:
+- feed composer - from subscriptions - with pipes
 
 
 We need more feedback and error correction
@@ -1358,13 +1206,9 @@ What if edits are disallowed from other apps? Then there will be only one entity
 
 
 
-What is a broker? IDB and not IDM?
-
-
-
 unlocking the potential of the internet
 
-
+Aiming to make politics downstream of science - not the other way around
 
 Merging email, instant messaging & publishing - Email 2.0
 
@@ -1410,6 +1254,9 @@ The killer feature of digital identity & media is programmability by anyone
 @mentions can also be stable! even if names (handles) change ownership
 
 
+Public actions should be regarded as public contributions
+
+
 
 TODO: try this service to read the text out loud?
 https://beta.elevenlabs.io/
@@ -1446,6 +1293,7 @@ context could be application/tag/campaign/post/etc.
 
 move from @handle to full names in citations
 
+So many ideas that can be implemented as a hackaton at any of the big social media companies are never even attempted - because it doesn’t serve their bottom line. Thats why the host-centric model must go
 
 Logo/Cover photo idea: headjack which extends as a vortex/fractal of interconnectedness
 
@@ -1461,6 +1309,7 @@ The 2 dirtiest words when it comes to the Twitter API: "rate limited" - read "in
 
 we should disincentivize engagement farming
 
+The google index for public data is private - it should be public infrastructure
 
 fine-grained control
 When viewing a post - have the ability to choose wether to respect the OP’s blocks and not see comments from blocked users or not
@@ -1472,8 +1321,6 @@ Economics is downstream of coordination
 there isn't an ounce of fat to remove from this design - anything more minimalistic would complicate the mental model for working with the system.
 
 Today we as a global hivemind lack neuroplasticity
-
-Enders game - what kids could do in the metaverse
 
 ██████ slogans
 
@@ -1502,12 +1349,9 @@ A bicycle for the (hive)mind
 Social media 1.0: poop emoji
 Social media 2.0: a global self-organizing brain aka AGI
 
-the metaverse is where anything is possible
-
 Social media 2.0
 The internet 2.0 the dataverse
 
-the metaverse is the address space around the identity network
 
 The matrix vs the superapp - you can fetch & analyze anything and enhance yourself
 
@@ -1536,6 +1380,8 @@ a data-driven society
 
 Amending google’s failure (to organize the worlds information)
 
+Headjack in 100 words:
+Stranica s kolaj ot dumi i frazi koito opisvat proekta - metaverse, cybernetics, global brain, collective intelligence
 
 
 

@@ -24,6 +24,10 @@ Elon Musk gets it - network effects are a crucial part
 
 UIs should be drag/drop composable & layoutable - in the superapp
 
+imagine being able to organize the world as folders of bookmarks on a desktop, through which you start interacting with the information however you wish (to the limits of what's available ofc)
+
+Everything is optimized for engagement - “share something” - what if we could change the layout of controls?
+
 we can crowdsource the default view/layout for a given entity in the superapp - with the option to override how we'd want to see it
 
 Elon Musk's vision for the X app pales in comparison to the potential of the superapp

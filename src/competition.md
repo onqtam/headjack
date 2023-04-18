@@ -281,6 +281,8 @@ how easy it is to build aggregators for the entire public web?
 
 are applications bottlenecked by the personal data repository of a user? yes in the case of farcaster & bluesky
 
+Openness enables gradual evolvability
+
 re-read this about farcaster:
 https://twitter.com/varunsrin/status/1605250902935613440
 

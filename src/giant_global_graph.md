@@ -42,8 +42,6 @@ https://www.theifactory.com/wp-content/uploads/2019/01/Data-Wisdom.jpg
 
 <!-- > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe) -->
 
-> "If you want to understand the metaverse, think of it as a graph of freely interconnectable identities and actions." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe), probably
-
 Why the semantic web hasn't taken off:
 - the host-centric web & the inability for enterpreneurs to freely build on top of the data that platforms have amassed
 - lack of stability for identifiers - brittle identifiers due to domains & the host-centric model
@@ -78,7 +76,6 @@ accounts have their own concept/noun space with identifiers from 1 and upwards
 others can define ontologies that use those concepts
 others can make equivalence maps between ontologies & concepts
 
-Social media 1.0 is a capitalistic artifact of gradient descent. Social media 2.0 is the Metaverse where data has no boundries
 
 
 What if wikipedia was a common knowledge graph with different possible views for it?
@@ -119,27 +116,16 @@ Episodes & other creations should get their concept id
 
 The RDF format & the use of URIs means that most keys are long strings beholden to the host-centric model
 
+we should be able to react to RDF triples that assert something
+
 Ontologies are a formal way to describe taxonomies and classification networks, essentially defining the structure of knowledge for various domains: the nouns representing classes of objects and the verbs representing relations between the objects.
 
 Due to the scale-free effect there will be a power law distribution for the IDs being used - there will be a convergence - just like imdb movie ids are used in many places
 
 
-
-The Metaverse is an MMO (massively multiplayer online) freeform information network - a giant global graph - a metabrain
-https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
-
-i want MMORPG for learning 
-- a knowledge graph where you can start at any point and follow your curiosity. a tree or a “fog of war” map. begin anywhere
-- ai helps you explore it by asking questions. you can type back your understanding, store stuff
-https://twitter.com/dan_abramov/status/1642400837400944640
-
-massively multiplayer online relational database
-
 There will be SQL interfaces on top of all of the data
 
 https://en.wikipedia.org/wiki/Semantic_network
-
-The metaverse is where your entire digital trail resides and underneath that is identity
 
 concepts! not nouns
 https://en.wikipedia.org/wiki/Concept
@@ -151,3 +137,39 @@ There's a difference from "they liked something on that page" from "they liked t
 With OGP, only entities like Facebook and the website owner get the structured data - with Headjack such public actions could be available for anyone to use - we'd get a lot more innovation & experimentation in algorithms that make use of the public data
 
 The semantic web on top of extremely long & verbose host-centric URIs was bad
+
+██████████████████████████████████████████████████████████████████
+# the metaverse
+██████████████████████████████████████████████████████████████████
+
+the metaverse is the address space around the identity network
+the metaverse is where anything is possible
+
+the metaverse is about agency - the ability to express yourself any way you want
+
+chapter: "the metaverse is a graph"
+the metaverse is a giant global graph
+
+The Metaverse is an MMO (massively multiplayer online) freeform information network - a giant global graph - a metabrain
+https://en.wikipedia.org/wiki/Massively_multiplayer_online_game
+
+i want MMORPG for learning 
+- a knowledge graph where you can start at any point and follow your curiosity. a tree or a “fog of war” map. begin anywhere
+- ai helps you explore it by asking questions. you can type back your understanding, store stuff
+https://twitter.com/dan_abramov/status/1642400837400944640
+
+massively multiplayer online relational database
+
+The metaverse is where your entire digital trail resides and underneath that is identity
+
+Social media 1.0 is a capitalistic artifact of gradient descent. Social media 2.0 is the Metaverse where data has no boundries
+
+> "If you want to understand the metaverse, think of it as a graph of freely interconnectable identities and actions." - [Nikola Tesla](https://www.goodreads.com/quotes/361785-if-you-want-to-find-the-secrets-of-the-universe), probably
+
+
+The metaverse is collaborative
+
+
+The metaverse is enabled by permissionless innovation
+The metaverse differs from social media in that it enables permissionless innovation around the same identity network effect
+

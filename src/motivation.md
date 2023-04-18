@@ -13,6 +13,10 @@ https://imgflip.com/memegenerator/162372564/Domino-Effect -->
 
 The web is broken on many fronts - this chapter explores many problematic aspects and how they can be completely solved or at least improved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
 
+Not all combinations will be possible due to 3 reasons: complexity for users, a combinatorial explosion in computation and technical feasibility. But a meaningful set of never-before-seen functionality will emerge and it will have the capacity to evolve gradually to any other subset.
+
+You don't have to agree with everything - even we're not 100% sold on all ideas presented here. But its worth exploring possibilities and expanding the frontier of possibility.
+
 1. [Problems with the current web](problems_with_the_web.md)
 1. [Today's information ecology](information_ecology.md)
 1. [Event streams & data legos](data_legos.md)

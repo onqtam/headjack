@@ -34,6 +34,12 @@ https://www.youtube.com/watch?v=hu2jprZ50FY
 
 media tells us what is salient but we lack the tools to question the framing
 
+
+curing the internet from schizophrenia
+https://en.wikipedia.org/wiki/Schizophrenia#:~:text=Major%20symptoms%20include%20hallucinations%20(typically%20hearing%20voices)%2C%20delusions%2C%20and%20disorganized%20thinking.%5B7%5D%20Other%20symptoms%20include%20social%20withdrawal%2C%20decreased%20emotional%20expression%2C%20and%20apathy.%5B5%5D
+
+
+
 we should strive to separate causal patterns from correlated patterns
 
 == A self-organizing system - in the sensemaking chapter
@@ -140,6 +146,33 @@ boosting the competent through ranking their public information & track record o
 we need to build the public introspection tool
 
 
+██████████████████████████████████████████████████████████████████
+# Regulation without regulators
+# Engineering dopamine
+██████████████████████████████████████████████████████████████████
+
+what if we could give (& take) each other points for different actions, and what if we could re-calculate how much points all of us have based on different criteria - simulating forward the exchange of points and seeing how the point ranking would end up with different starting conditions?
+This is different from delegation of votes - this is a reward & scoring system
+What if we applied to jobs not with LinkedIn & StackOverflow accounts but with a contribution score for helping make sense of the world?
+
+self-regulating without regulators
+
+The price of authority is legitimacy and reputation/track record/authenticity
+
+What if we could say “deboostt celebrity gossip/news” and if the people we follow have deboosted that that we inherit part of their preferences?
+
+How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
+We could engineer the dopamine of this informational global brain.
+pagerank for people - depending on the delegations in the liquid stuff
+TODO: read the twitter community notes whitepaper
+
+the rules for how the dopamine should work could be voted on with liquid democracy
+evolving internet norms
+
+what if we all had points for signal boosting beyond a simple like - like with claps in medium
+
+what if we could signal preferences locally for what types of commercials we'd be OK with in our city - could this be the backbone for the nation state?
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -151,9 +184,13 @@ why are twitter polls only for 24 hours? and we can't see how specific people vo
 abstract polling: count & filter the results from any poll using any KYC filter or whatever ban list (so include/exclude for groups of people)
 Reputation page and the message types that polls could be
 
+empowerment - voter apathy is best explained by the disbelief that their vote would matter or that the pool of options is constrained and nothing is good enough. Also the complexity and cost of actually having a well informed opinion and the lack of ability to delegate automatically to someone they trust
+
 the future of search is being able to re-run aggregation & statistics based on different filters
 
 We should be able to split our delegation to multiple other entities with different weights
+
+in cyberspace we can have something other than first-past-the-post voting - we don't need to be limited to it
 
 every claim and counter should be verifiable - even if at a processing cost
 common knowledge should go there?
@@ -209,6 +246,8 @@ Private opinions for polls - you might not want them public but still to be able
 
 Zk affiliation/attestations/credentials
 
+anonymity - reducing the cost of defection
+
 Zero knowledge as a chapter
 https://twitter.com/pseudotheos/status/1603832650707370009
 
@@ -233,6 +272,41 @@ secure multi-party computation
 https://github.com/sine-fdn/tandem
 https://sine.foundation/tandem
 
+
+██████████████████████████████████████████████████████████████████
+# Agency, values, expressivity & impact
+██████████████████████████████████████████████████████████████████
+
+> "We’re nearly 20 years into the social media world, yet politicians and companies still have not figured out how to differentiate the loudest voices from the values of the majority" - [Tyler Reynolds](https://twitter.com/tbr90/status/1647286008025587713)
+
+https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
+
+shifting social media goals from engagement to impact
+
+Putting individuals in the drivers seat
+
+A data network in which your input matters in an uncountable number of ways
+Expressivity!
+
+what if we could downregulate/influence the use of things in the real world such as fast foods brands? what if negative reputation is a feature - not a bug? The physical world is now downstream from the digital. Sunlight is the best disinfectant
+
+> "Every time users like, upvote, heart, link or retweet content they are signaling a preference that serves a feedback loop generating better recommendations for them. But the action won’t go any further: it’s a fake vote that lacks institutional implications." - [The Social Smart Contract](https://github.com/DemocracyEarth/paper#user-content-231_Liquid:~:text=Every%20time%20users%20like%2C%20upvote%2C%20heart%2C%20link%20or%20retweet%20content%20they%20are%20signaling%20a%20preference%20that%20serves%20a%20feedback%20loop%20generating%20better%20recommendations%20for%20them.%20But%20the%20action%20won%E2%80%99t%20go%20any%20further%3A%20it%E2%80%99s%20a%20fake%20vote%20that%20lacks%20institutional%20implications.)
+
+
+what if we could gauge the trustfulness of a brand? or how much it is being recommended? What if we could see that healthy & successful people explicitly downregulate fast food - how might that impact us the next time we see a commercial with someone healthy-looking promoting cheap chicken fries?
+
+our current culture is of consumerism - what if we could shift that? How would we shift that?
+
+what if we could query what our top 10 heroes think about how to get your life, diet & fitness in order?
+
+> "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
+
+what if we could maintain rankings such as "the top 10 or 50 things I think everyone should have read and/or seen" and "what are the top 10 most pressing issues" and have that surfaced objectively - by whoever dares to speak out - we could publicly rank our concerns
+
+Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
+
+What if we could signal our values and then be held accountable according to them? Like "being considerate instead of tribal" or "considering both sides of an argument"
+https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordion-1:~:text=Some%20Signs%20of%20Good%20Faith%20Communication%3A
 
 ██████████████████████████████████████████████████████████████████
 # reputation systems & incentives
@@ -285,6 +359,11 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 ██████████████████████████████████████████████████████████████████
 # quotes
 ██████████████████████████████████████████████████████████████████
+
+
+> "I can’t let you do that, Dave." - HAL 9000 on 2001: A Space Odyssey (1968).
+
+> "Sovereign is he who decides on the exception." - Carl Schmitt, political theorist (1888-1985).
 
 > "The final, terminal step is seeing that contemporary digital media landscapes are wide open to manipulation, informational warfare, and disorienting, addictive user interfaces. Right when society requires unprecedented upgrades in public sensemaking processes, we face instead a perfect storm of factors contributing to an epistemological crisis." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20final%2C%20terminal,an%20epistemological%20crisis.)
 
@@ -390,9 +469,17 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 
 
+> "We waste so much time repeating old arguments and running in opposite directions. The internet looked like it would ease the problem by giving us access to vast knowledge and each of us a voice. It seems to have made the situation worse by overwhelming us with disorganized, contradictory information. Social media amplifies bias and creates echo chambers." - ["Canonical Debate Lab" paper](ttps://github.com/canonical-debate-lab/paper#i-abstract:~:text=We%20waste%20so,creates%20echo%20chambers.)
+
+> "The problem is structural in nature, and therefore can be solved with a structural fix." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=the%20problem%20is%20structural%20in%20nature%2C%20and%20therefore%20can%20be%20solved%20with%20a%20structural%20fix.)
+
+> "The state of debate as it occurs online is particularly ineffectual and disorganized. None of the technologies in use today (with the exception of email and a few others) were available twenty years ago, and yet with this incredible growth in capability, we have failed to address fundamental issues with deliberation, and created many new ones." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=The%20state%20of%20debate%20as,and%20created%20many%20new%20ones.)
 
 
 
 
 
-anonymity - reducing the cost of defection
+
+
+
+
