@@ -287,32 +287,22 @@ Let's contrast [today's world of centralized & fragmented identity](#today-centr
 But that's just scratching the surface - how much further could we push things? Some examples:
 
 - A **single place for all your messages** (DMs & email) - similar to [Texts](https://texts.com/) (`"All of your messages in one inbox"`) but not beholden to the terms of service & constraining APIs of platforms.
-    - **Define filters & thresholds for cold DMs** - have separate inboxes based on properties: account older than 2 years? has credential X? up to 3 degrees of separation from you?, amount paid to contact you? (setting a price for yourself), etc.
-- Universal **bookmarks** - they'll work for any type of document from any application and you could even cache in your cloud the actual content that a URI points to along with proofs.
+    - **Define filters & thresholds for cold DMs** - have separate inboxes based on properties: account older than 2 years? has credential X? up to 3 degrees of separation from you? amount paid to contact you? (setting a price for yourself), etc.
+- Universal **bookmarks** - they'll work for any type of document/event from any app and you could even cache the actual content that a URI points to along with proofs - forever.
     - **Playlists** are lists of bookmarks and could work even with different audio/video apps which have given URIs to tracks. Spotify could be just an app that uses your IDM for account storage (managing your library & tracking your progress on podcasts) and is paying hosting providers for storage & bandwidth for streaming.
     - Your **personal knowledge base** could be built with something like [Logseq](https://logseq.com/) or [Roam](https://roamresearch.com/) on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away - seamlessly integrated in the UI.
     - **Browser integration** - using any IDM for cloud sync through a standard interface.
 - **Profile presets** - different versions of what to display depending on the context:
     - **Full profile** - a MySpace/Linktree-like page with everything you'd like to show + a log of all your public activity of any kind across any app/service - similar to the `Replies` tab of an account in Twitter, but with everything (changes, edits, commits) and the ability to filter it.
-    - **Context-dependent views** for domain-specific apps - those that deal mostly with images could display the relevant subset of your full profile: pictures & a log of events related only to images. Apps geared towards professional work & resumes could display your CV and a list of credentials & attestations. This can happen either by explicitly defining subsets of attributes as different presets or automatically by the apps through filtering based on type/tag. One could always view the full profile as well.
+    - **Context-dependent views** for domain-specific apps - those that deal mostly with images could display the relevant subset of your full profile: pictures & a log of events related only to images. Apps geared towards professional work & resumes could display your CV and a list of credentials & attestations. This can happen either by explicitly defining subsets of attributes as different presets or automatically by the apps through filtering based on type/tag. One could always view the full profile of someone.
 - **History of viewed documents** - a list of URIs in your cloud for everything you've seen.
     - **Filter out seen content** - hide items that you've already looked at from feeds.
-    - **Playback timeline intervals** for audio & video - saving ranges for any part of the timeline that you've played for longer than X seconds. Today YouTube & Spotify save merely the progress as a position which can easily be changed/lost by fast-forwarding the cursor.
+    - **Timeline intervals** for audio & video playback - saving ranges for any part of the timeline that you've played for longer than X seconds. Today YouTube & Spotify save merely the progress as a position which can easily be changed/lost by fast-forwarding the cursor.
     - **Display seen content differently** - with colors or show progress as percentage/time.
-        - **Partial progress for text documents** - record time spent & sections rendered on screen and be able to toggle a heatmap overlay that colors the text accordingly.
-- Define your **home / front page** - shortcuts, dashboards, folders & widgets with a customizable layout - anything you need. But more on that in the superapp section of this book.
+        - **Progress for text documents** - record time spent & sections rendered on screen and be able to toggle a heatmap overlay that colors the text accordingly.
+- Define your **home page** - shortcuts, dashboards, folders & widgets with a customizable layout - anything you need. But more on that in the superapp section of this book.
 
-
-
-
-
-
-
-The biggest reason that these things have not been developed across platforms is the lack of standards around content URIs & interoperability between platforms.
-
-
-All this would be easiest to build around a single unified identity network.
-
+All this would be easiest to build around a single unified identity network with data interoperability.
 
 # Expressivity
 
