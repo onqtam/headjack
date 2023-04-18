@@ -286,25 +286,20 @@ Let's contrast [today's world of centralized & fragmented identity](#today-centr
 
 But that's just scratching the surface - how much further could we push things? Some examples:
 
-- A **single place for all your messages** (DMs & email) - similar to [Texts](https://texts.com/) (`"All of your messages in one inbox"`) but not beholden to the terms of service & ephemerality of platform APIs.
-    - **Define filters & thresholds for cold DMs** - imagine having separate buckets of messages directed towards you which you can define based on different properties (account older than 2 years? credentials of specific type? community overlap - up to 3 degrees of separation from you?), amount paid to contact you (setting a price for yourself), etc.
-- Universal **bookmarks** - they'll work for any type of document from any application and you could even cache locally in your cloud the actual content that a URI points to along with proofs.
+- A **single place for all your messages** (DMs & email) - similar to [Texts](https://texts.com/) (`"All of your messages in one inbox"`) but not beholden to the terms of service & constraining APIs of platforms.
+    - **Define filters & thresholds for cold DMs** - have separate inboxes based on properties: account older than 2 years? has credential X? up to 3 degrees of separation from you?, amount paid to contact you? (setting a price for yourself), etc.
+- Universal **bookmarks** - they'll work for any type of document from any application and you could even cache in your cloud the actual content that a URI points to along with proofs.
     - **Playlists** are lists of bookmarks and could work even with different audio/video apps which have given URIs to tracks. Spotify could be just an app that uses your IDM for account storage (managing your library & tracking your progress on podcasts) and is paying hosting providers for storage & bandwidth for streaming.
-    - Your **personal knowledge base** could be built with something like [Logseq](https://logseq.com/) or [Roam](https://roamresearch.com/) on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away and could even be seamlessly integrated in the UX.
+    - Your **personal knowledge base** could be built with something like [Logseq](https://logseq.com/) or [Roam](https://roamresearch.com/) on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away - seamlessly integrated in the UI.
     - **Browser integration** - using any IDM for cloud sync through a standard interface.
 - **Profile presets** - different versions of what to display depending on the context:
     - **Full profile** - a MySpace/Linktree-like page with everything you'd like to show + a log of all your public activity of any kind across any app/service - similar to the `Replies` tab of an account in Twitter, but with everything (changes, edits, commits) and the ability to filter it.
     - **Context-dependent views** for domain-specific apps - those that deal mostly with images could display the relevant subset of your full profile: pictures & a log of events related only to images. Apps geared towards professional work & resumes could display your CV and a list of credentials & attestations. This can happen either by explicitly defining subsets of attributes as different presets or automatically by the apps through filtering based on type/tag. One could always view the full profile as well.
-- **History of documents you've viewed** - currently we have this for pages in our browsers but what if everything with a URI that we have viewed could also be saved in our cloud? We could then use this history to filter out content from feeds that we've already looked at. We could define different criteria for what constitutes "looked" - could be 1 second on screen, could be 10.
-
-
-imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a "seen" list with URIs which you can later browse like the history in youtube - something like this should exist
-
-
-
-what if your IDM kept a list of everything you've seen so it can be displayed in the UI?
-- What if we had "playback progress" even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.
-
+- **History of viewed documents** - a list of URIs in your cloud for everything you've seen.
+    - **Filter out seen content** - hide items that you've already looked at from feeds.
+    - **Playback timeline intervals** for audio & video - saving ranges for any part of the timeline that you've played for longer than X seconds. Today YouTube & Spotify save merely the progress as a position which can easily be changed/lost by fast-forwarding the cursor.
+    - **Display seen content differently** - with colors or show progress as percentage/time.
+        - **Partial progress for text documents** - record time spent & sections rendered on screen and be able to toggle a heatmap overlay that colors the text accordingly.
 - Define your **home / front page** - shortcuts, dashboards, folders & widgets with a customizable layout - anything you need. But more on that in the superapp section of this book.
 
 
@@ -313,7 +308,7 @@ what if your IDM kept a list of everything you've seen so it can be displayed in
 
 
 
-
+The biggest reason that these things have not been developed across platforms is the lack of standards around content URIs & interoperability between platforms.
 
 
 All this would be easiest to build around a single unified identity network.

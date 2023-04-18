@@ -441,15 +441,15 @@
 </blockquote>
 <p>But that's just scratching the surface - how much further could we push things? Some examples:</p>
 <ul>
-<li>A <strong>single place for all your messages</strong> (DMs &amp; email) - similar to <a href="https://texts.com/">Texts</a> (<code>&quot;All of your messages in one inbox&quot;</code>) but not beholden to the terms of service &amp; ephemerality of platform APIs.
+<li>A <strong>single place for all your messages</strong> (DMs &amp; email) - similar to <a href="https://texts.com/">Texts</a> (<code>&quot;All of your messages in one inbox&quot;</code>) but not beholden to the terms of service &amp; constraining APIs of platforms.
 <ul>
-<li><strong>Define filters &amp; thresholds for cold DMs</strong> - imagine having separate buckets of messages directed towards you which you can define based on different properties (account older than 2 years? credentials of specific type? community overlap - up to 3 degrees of separation from you?), amount paid to contact you (setting a price for yourself), etc.</li>
+<li><strong>Define filters &amp; thresholds for cold DMs</strong> - have separate inboxes based on properties: account older than 2 years? has credential X? up to 3 degrees of separation from you?, amount paid to contact you? (setting a price for yourself), etc.</li>
 </ul>
 </li>
-<li>Universal <strong>bookmarks</strong> - they'll work for any type of document from any application and you could even cache locally in your cloud the actual content that a URI points to along with proofs.
+<li>Universal <strong>bookmarks</strong> - they'll work for any type of document from any application and you could even cache in your cloud the actual content that a URI points to along with proofs.
 <ul>
 <li><strong>Playlists</strong> are lists of bookmarks and could work even with different audio/video apps which have given URIs to tracks. Spotify could be just an app that uses your IDM for account storage (managing your library &amp; tracking your progress on podcasts) and is paying hosting providers for storage &amp; bandwidth for streaming.</li>
-<li>Your <strong>personal knowledge base</strong> could be built with something like <a href="https://logseq.com/">Logseq</a> or <a href="https://roamresearch.com/">Roam</a> on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away and could even be seamlessly integrated in the UX.</li>
+<li>Your <strong>personal knowledge base</strong> could be built with something like <a href="https://logseq.com/">Logseq</a> or <a href="https://roamresearch.com/">Roam</a> on top of such universal bookmarks along with personal notes - your second brain. Looking up anything related to an identity or a document with a URI would be just 1 click away - seamlessly integrated in the UI.</li>
 <li><strong>Browser integration</strong> - using any IDM for cloud sync through a standard interface.</li>
 </ul>
 </li>
@@ -459,18 +459,20 @@
 <li><strong>Context-dependent views</strong> for domain-specific apps - those that deal mostly with images could display the relevant subset of your full profile: pictures &amp; a log of events related only to images. Apps geared towards professional work &amp; resumes could display your CV and a list of credentials &amp; attestations. This can happen either by explicitly defining subsets of attributes as different presets or automatically by the apps through filtering based on type/tag. One could always view the full profile as well.</li>
 </ul>
 </li>
-<li><strong>History of documents you've viewed</strong> - currently we have this for pages in our browsers but what if everything with a URI that we have viewed could also be saved in our cloud? We could then use this history to filter out content from feeds that we've already looked at. We could define different criteria for what constitutes &quot;looked&quot; - could be 1 second on screen, could be 10.</li>
-</ul>
-<p>imagine being able to not see the same things multiple times when you open your feed multiple times and scroll a bit - having a &quot;seen&quot; list with URIs which you can later browse like the history in youtube - something like this should exist</p>
-<p>what if your IDM kept a list of everything you've seen so it can be displayed in the UI?</p>
+<li><strong>History of viewed documents</strong> - a list of URIs in your cloud for everything you've seen.
 <ul>
-<li>
-<p>What if we had &quot;playback progress&quot; even for text posts - by being able to toggle/layer a colorized heatmap of time spent on the different paragraphs? And what if this worked across apps and was managed by our IDM? We could easily come up with a standard interface for apps to talk to IDMs about that.</p>
-</li>
-<li>
-<p>Define your <strong>home / front page</strong> - shortcuts, dashboards, folders &amp; widgets with a customizable layout - anything you need. But more on that in the superapp section of this book.</p>
+<li><strong>Filter out seen content</strong> - hide items that you've already looked at from feeds.</li>
+<li><strong>Playback timeline intervals</strong> for audio &amp; video - saving ranges for any part of the timeline that you've played for longer than X seconds. Today YouTube &amp; Spotify save merely the progress as a position which can easily be changed/lost by fast-forwarding the cursor.</li>
+<li><strong>Display seen content differently</strong> - with colors or show progress as percentage/time.
+<ul>
+<li><strong>Partial progress for text documents</strong> - record time spent &amp; sections rendered on screen and be able to toggle a heatmap overlay that colors the text accordingly.</li>
+</ul>
 </li>
 </ul>
+</li>
+<li>Define your <strong>home / front page</strong> - shortcuts, dashboards, folders &amp; widgets with a customizable layout - anything you need. But more on that in the superapp section of this book.</li>
+</ul>
+<p>The biggest reason that these things have not been developed across platforms is the lack of standards around content URIs &amp; interoperability between platforms.</p>
 <p>All this would be easiest to build around a single unified identity network.</p>
 <h1 id="expressivity"><a class="header" href="#expressivity">Expressivity</a></h1>
 <p>A data network in which your input matters in an uncountable number of ways
