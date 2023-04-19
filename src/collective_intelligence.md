@@ -297,6 +297,9 @@ https://sine.foundation/tandem
 
 https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
 
+https://civilizationemerging.com/books/
+https://fs.blog/knowledge-project-podcast/naval-ravikant/#books-mentioned
+
 why can't we crowdsource "top 10 videos that everyone should watch"
 
 what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
