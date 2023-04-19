@@ -107,6 +107,8 @@ https://www.youtube.com/watch?v=kwYaj-1EVJ0
 > "The goal of the Web is to serve humanity. We build it now so that those who come to it later will be able to create things that we cannot ourselves imagine." - [Tim Berners-Lee](https://www.azquotes.com/quote/854108)
 
 
+"embrace the graph"
+
 
 the semantic web was held back by the host-centric model and the lack of stable decentralized identities to which we could link/join data
 
