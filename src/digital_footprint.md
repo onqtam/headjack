@@ -224,11 +224,13 @@ What if we could choose the visibility of any action? We could set different def
 But why would we want this flexibility? A few examples:
 
 - **History**: individuals & streamers who are digging into something might want to make their digital trail for a browsing session public & more easily accessible, analyzable & followable.
-- **Settings & preferences**: we could "follow" those of others - adopting changes automatically.
+- **Settings & preferences**: we could "follow" those of others - adopting changes automatically. 
 - **Settings & preferences**: we could aggregate and analyze the shifts in public preferences throughout time - enabling better and more organic discoverability of tools and settings.
 - Both **history** and **settings & preferences** can be shared not just publicly but also selectively with entities so that we can monetize our own data. Currently our behavioral patterns are closed & being data mined by companies which make decisions in their own best interest.
 
 The freedom to share is a form of expression and agency - we should have granular control. A key piece of the puzzle is moving away from the host-centric web by linking data to identity so that it can be seamlessly exported and addressed across services in a uniform way.
+
+The following chapters will show why this is so important to be able to show & signal your settings & preferences.
 
 <!-- For the fully private actions there is a 3rd axis - local or in the cloud, but we won't look into that here. -->
 

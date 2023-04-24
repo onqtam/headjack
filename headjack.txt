@@ -17,7 +17,7 @@ we should be able to look up if person X has ever made a statement about X, and 
 
 
 
-
+accountability should be the gold-standard
 
 
 The 8th social sin is power
@@ -87,7 +87,7 @@ we're not going to stumble upon order as a byproduct of incremental changes - we
 
 
 
-
+what if your youtube-like video feed was based on the recommendations or positive interactions with videos of your social graph?
 
 
 
@@ -120,6 +120,12 @@ engineering control loops
 why don't we try to turn the map into the territory?
 
 We can take the map way closer to resembling the territory
+We lack computability and a loss function
+
+> "Rather than love, than money, than fame, give me truth." - [Henry David Thoreau](https://www.goodreads.com/quotes/7762-rather-than-love-than-money-than-fame-give-me-truth)
+
+
+
 
 
 
@@ -1221,7 +1227,6 @@ Social media 2.0: a global self-organizing brain aka AGI
 
 Social media 2.0
 The internet 2.0 the dataverse
-
 
 The matrix vs the superapp - you can fetch & analyze anything and enhance yourself
 
