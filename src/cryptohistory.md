@@ -176,6 +176,7 @@ The argument that specialized message types are unnecessary because AI will even
 
 what if DeSci was part of this giant global graph/brain? observation, experimentation, and the testing of theories against the evidence obtained - with an immutable trail behind
 
+> "Peer review has become circular onanism." - [Max Borders](https://www.aier.org/article/tyrannies-of-hyperreality/#:~:text=peer%20review%20has%20become%20circular%20onanism.)
 
 TODO:
 DeSci isn't about a token and a DAO that funds X research - it's reproducible research interwoven with a global identity & reputation semantic network
