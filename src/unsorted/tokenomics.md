@@ -54,3 +54,5 @@ TODO: how much money does DNS & CAs as industries make yearly?
 Simplicity can demand a premium - in the economics page
 
 
+> "Crypto governance is such a cluster that it’s convinced me that the only correct way to build protocols is governance-free
+Maybe it gets better with regulatory clarity, but far too much effort goes to managing communities instead of building product" - [Tyler Reynolds](https://twitter.com/tbr90/status/1650184067139219459)

@@ -159,6 +159,8 @@ self-regulating without regulators
 
 The price of authority is legitimacy and reputation/track record/authenticity
 
+https://a16zcrypto.com/content/article/reputation-based-systems/
+
 What if we could say “deboostt celebrity gossip/news” and if the people we follow have deboosted that that we inherit part of their preferences?
 
 How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
