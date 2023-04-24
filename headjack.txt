@@ -57,6 +57,11 @@ According to cybernetics, intelligence sits on top of feedback loops
 
 engineering control loops
 
+why don't we try to turn the map into the territory?
+
+We can take the map way closer to resembling the territory
+
+
 
 
 biochemical regulatory mechanisms
@@ -189,16 +194,19 @@ imagine being able to crowdsource debate requests with specific people and see a
 
 
 
+So far we've been networked only linguistically but now we can go to the level of deduplicated concepts and entities - giving us the ability to aggregate sentiment and foster sensemaking
 
 
 
+> "Lousy information will continue contaminating the noosphere until we figure out how to incentivize truth-tracking. So it’s not just that we must set up systems that better track the truth (innovation). We must set ourselves up to better track the truth (wisdom)." - [Max Borders](https://www.aier.org/article/the-screen-of-gyges/#:~:text=Lousy%20information%20will%20continue%20contaminating%20the%20noosphere%20until%20we%20figure%20out%20how%20to%20incentivize%20truth%2Dtracking.%20So%20it%E2%80%99s%20not%20just%20that%20we%20must%20set%20up%20systems%20that%20better%20track%20the%20truth%20(innovation).%20We%20must%20set%20ourselves%20up%20to%20better%20track%20the%20truth%20(wisdom).)
+
+> "The second of the [Yamas](https://www.unitedwecare.com/self-care/yoga/types-of-yoga/raja-yoga/8-limbs-of-yoga/yama) — (“restraints” in Sanskrit) — satya  — reminds us that we must practice living in integrity, which is to be true to ourselves and others in thought, word, and deed." - [Max Borders](https://www.aier.org/article/the-screen-of-gyges/#:~:text=The%20second%20of%20the%20Yamas%20%E2%80%94%20(%E2%80%9Crestraints%E2%80%9D%20in%20Sanskrit)%C2%A0%E2%80%94%C2%A0satya%C2%A0%C2%A0%E2%80%94%C2%A0reminds%20us%20that%20we%20must%20practice%20living%20in%20integrity%2C%20which%20is%20to%20be%20true%20to%20ourselves%20and%20others%20in%20thought%2C%20word%2C%20and%20deed.)
 
 
 
+> "Over the next several years, considerable research investment will likely shift away from model design and optimization and instead, turn toward the design of exploration objectives and data-generation processes. Many recent research initiatives, discussed throughout this article, make it clear that such a shift is already underway." - [Software²: A new generation of AIs that become increasingly general by producing their own training data](https://thegradient.pub/software2-a-new-generation-of-ais-that-become-increasingly-general-by-producing-their-own-training-data/#:~:text=Over%20the%20next,is%20already%20underway.)
 
-
-
-
+> "We are at the cusp of a transition from "learning from data" to "learning what data to learn from" as a central focus of artificial intelligence (AI) research." - [General Intelligence Requires Rethinking Exploration](https://arxiv.org/abs/2211.07819#:~:text=We%20are%20at%20the%20cusp%20of%20a%20transition%20from%20%22learning%20from%20data%22%20to%20%22learning%20what%20data%20to%20learn%20from%22%20as%20a%20central%20focus%20of%20artificial%20intelligence%20(AI)%20research.)
 
 
 
@@ -225,15 +233,19 @@ https://en.wiktionary.org/wiki/calculemus
 
 what if you could "scan" a piece of content for the number of novel (to you) ideas in it - how many statements are in there that you haven't seen until now?
 
+what if we separated statements from fact-checking?
 
 
 
 
 
+https://twitter.com/NYTScience
+
+NYT Science should be just content from the NYT that has the science tag/label
 
 
 
-
+> "Lousy information will continue contaminating the noosphere until we figure out how to incentivize truth-tracking. So it’s not just that we must set up systems that better track the truth (innovation). We must set ourselves up to better track the truth (wisdom)." - [The Screen of Gyges - AIER](https://www.aier.org/article/the-screen-of-gyges/#:~:text=Lousy%20information%20will%20continue%20contaminating%20the%20noosphere%20until%20we%20figure%20out%20how%20to%20incentivize%20truth%2Dtracking.%20So%20it%E2%80%99s%20not%20just%20that%20we%20must%20set%20up%20systems%20that%20better%20track%20the%20truth%20(innovation).%20We%20must%20set%20ourselves%20up%20to%20better%20track%20the%20truth%20(wisdom).)
 
 
 
