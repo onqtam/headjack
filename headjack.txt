@@ -20,6 +20,66 @@ we should be able to look up if person X has ever made a statement about X, and 
 
 
 
+The 8th social sin is power
+Power must be earned
+
+Epistemological bankruptcy - AI
+
+If we publicly vote on interests it would be easier to form communities
+
+Increasing the capacity to introspect globally
+
+The internet 1.0 was connecting machines. The internet 2.0 connects ideas
+
+This is how to collectively build our grand unifying narrative
+
+The freedom to interact
+
+Transparency infrastructure
+
+a civilizational error-correcting mechanism
+civilizational error-correcting through transparency
+
+What is the analog of active noise cancelling in the digital world?
+
+Identity is about information and relations - transactionality is orthogonal
+
+
+This is ultimate freedom in how we globally dissipate information
+
+This is thfe interoperability protocol of the gaming metaverse as well
+
+Artificial global intelligence is agi alignment
+
+what if AI alignment is the process of turning up the level of cooperation democratically and publically and then train LLMs to best extract the most accurate levels of values of society
+
+we can rank different sources of signal differently and prioritize the weights of the LLM differently when "extracting" the compressed version of our collective conscience
+
+THIS IS AI ALIGNMENT - this is the alignment problem.
+1. we must all have access to the data as easily and effortlessly as possible
+2. we must use the crowdsourced competency and non-cancellation score when giving different weights of opinions.
+
+Current AI is compression. Compression of sentiment
+
+the way to alignment is towards increased transparency and accountability between us - we must create a cooperation environment to "train" (aka compress) the AI on
+
+who watches the watchmen - who watches those that set the weights when training the models? what if the complete training could be separated into chunks as snapshots and we could occasionally pay extra to re-run the same part of the algorithm and compare results between expected and produced
+
+
+
+imagine a media app and a set of algorithms and configuration options presented as a spreadsheet where for every cell someone is responsible, and the election for that cell is public and contains a debate map where we can filter the inputs of people based on the rules we determine are appropriate for us
+
+
+
+
+Imagine a sankey diagram with the money flows
+
+Also sankey diagram for liquid votes and influence
+
+
+Giving a unique identifier to any concept and entity - the great deduplication
+
+we're not going to stumble upon order as a byproduct of incremental changes - we have to rebuild everything from the ground up
 
 
 
