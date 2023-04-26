@@ -157,6 +157,8 @@ What if we applied to jobs not with LinkedIn & StackOverflow accounts but with a
 
 self-regulating without regulators
 
+reward circuit
+
 The price of authority is legitimacy and reputation/track record/authenticity
 
 https://a16zcrypto.com/content/article/reputation-based-systems/
@@ -248,6 +250,7 @@ Private opinions for polls - you might not want them public but still to be able
 
 we can have an anonymized debate at scale between millenials vs boomers or gen X-ers
 
+> "To think in an environment infected with simulated thinking is almost to invite a witch hunt." - [On Thinking and Simulated Thinking, by Jordan Hall](https://medium.com/deep-code/on-thinking-and-simulated-thinking-5e434e92cf86#:~:text=To%20think%20in%20an%20environment%20infected%20with%20simulated%20thinking%20is%20almost%20to%20invite%20a%20witch%20hunt.)
 
 strength is in the numbers
 VS.
@@ -289,6 +292,12 @@ something could guide or estimate how deanonymizable we become depending on the 
 secure multi-party computation
 https://github.com/sine-fdn/tandem
 https://sine.foundation/tandem
+
+Trusted Execution Environment: What It is, and What It is Not
+https://hal.science/hal-01246364/document
+
+Functional Encryption: Definitions and Challenges
+https://eprint.iacr.org/2010/543.pdf
 
 
 ██████████████████████████████████████████████████████████████████
