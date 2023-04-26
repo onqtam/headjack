@@ -110,6 +110,11 @@ https://www.youtube.com/watch?v=kwYaj-1EVJ0
 "embrace the graph"
 
 
+
+Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack
+https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR
+
+
 the semantic web was held back by the host-centric model and the lack of stable decentralized identities to which we could link/join data
 
 reviving the semantic web

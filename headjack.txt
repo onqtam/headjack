@@ -92,6 +92,10 @@ what if your youtube-like video feed was based on the recommendations or positiv
 
 
 
+> "If you look at the trajectory of life on Earth it's really about information processing." - [Manolis Kellis](https://youtu.be/wMavKrA-4do?t=657), computational biologist at MIT
+
+
+
 
 
 
@@ -311,7 +315,114 @@ NYT Science should be just content from the NYT that has the science tag/label
 
 
 
-> "Lousy information will continue contaminating the noosphere until we figure out how to incentivize truth-tracking. So it’s not just that we must set up systems that better track the truth (innovation). We must set ourselves up to better track the truth (wisdom)." - [The Screen of Gyges - AIER](https://www.aier.org/article/the-screen-of-gyges/#:~:text=Lousy%20information%20will%20continue%20contaminating%20the%20noosphere%20until%20we%20figure%20out%20how%20to%20incentivize%20truth%2Dtracking.%20So%20it%E2%80%99s%20not%20just%20that%20we%20must%20set%20up%20systems%20that%20better%20track%20the%20truth%20(innovation).%20We%20must%20set%20ourselves%20up%20to%20better%20track%20the%20truth%20(wisdom).)
+> "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
+
+
+
+> "Our future institutional order must be self-assembling, self-organizing and meta-stable. There can be no central organizing structure that is adequate to their construction" - [Jordan Hall](https://medium.com/deep-code/a-prolegomena-to-any-future-politics-8eac11fd678a#:~:text=our%20future%20institutional%20order%20must%20be%20self%2Dassembling%2C%20self%2Dorganizing%20and%20meta%2Dstable.%20There%20can%20be%20no%20central%20organizing%20structure%20that%20is%20adequate%20to%20their%20construction)
+
+> "The main thrust of the current war is that making any sense at all is getting harder and harder." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=the%20main%20thrust%20of%20the%20current%20war%20is%20that%20making%20any%20sense%20at%20all%20is%20getting%20harder%20and%20harder.)
+
+> "Are you sure you know the current limits of the war on sensemaking? Of sock puppets and cognitive hacking and weaponized memetics?" - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=Are%20you%20sure%20you%20know%20the%20current%20limits%20of%20the%20war%20on%20sensemaking%3F%20Of%20sock%20puppets%20and%20cognitive%20hacking%20and%20weaponized%20memetics%3F)
+
+> "This state of affairs — this increasingly generalized condition of complete disorientation — is untenable." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=this%20state%20of%20affairs%20%E2%80%94%20this%20increasingly%20generalized%20condition%20of%20complete%20disorientation%20%E2%80%94%20is%20untenable.)
+
+> "As our ability to make shared sense evaporates and as meaning and purpose are fragmented into so many shards, it becomes increasingly difficult to make good choices. In fact, it becomes increasingly difficult to even want to make good choices." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=As%20our%20ability%20to%20make%20shared%20sense%20evaporates%20and%20as%20meaning%20and%20purpose%20are%20fragmented%20into%20so%20many%20shards%2C%20it%20becomes%20increasingly%20difficult%20to%20make%20good%20choices.%20In%20fact%2C%20it%20becomes%20increasingly%20difficult%20to%20even%20want%20to%20make%20good%20choices.)
+
+> "I hope that soon there will be a deeply shared acceptance that none of our current institutions are trust-worthy and a deeply shared conviction that we can and must (re)build trust ourselves." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=I%20hope%20that%20soon%20there%20will%20be%20a%20deeply%20shared%20acceptance%20that%20none%20of%20our%20current%20institutions%20are%20trust%2Dworthy%20and%20a%20deeply%20shared%20conviction%20that%20we%20can%20and%20must%20(re)build%20trust%20ourselves.)
+
+> "Thinking, real thinking, is collaborative. It doesn’t just tolerate different perspectives, it absolutely requires them." - [On Thinking and Simulated Thinking, by Jordan Hall](https://medium.com/deep-code/on-thinking-and-simulated-thinking-5e434e92cf86#:~:text=Thinking%2C%20real%20thinking%2C%20is%20collaborative.%20It%20doesn%E2%80%99t%20just%20tolerate%20different%20perspectives%2C%20it%20absolutely%20requires%20them.)
+
+> "Thinking has reality on its side. The more reality drifts from the environment that the scripts of simulated thinking were designed for, the more errors the simulation will throw." - [On Thinking and Simulated Thinking, by Jordan Hall](https://medium.com/deep-code/on-thinking-and-simulated-thinking-5e434e92cf86#:~:text=thinking%20has%20reality%20on%20its%20side.%20The%20more%20reality%20drifts%20from%20the%20environment%20that%20the%20scripts%20of%20simulated%20thinking%20were%20designed%20for%2C%20the%20more%20errors%20the%20simulation%20will%20throw.)
+
+> "While the application of supernormal stimuli to our eating choices or mating choices is certainly destructive, the use of supernormal stimuli in social media is particularly risky. This is because supernormal stimuli in social media directly undermine our capacity for individual and collective intelligence." - [What is the problem with social media? by Jordan Hall](https://medium.com/deep-code/what-is-the-problem-with-social-media-5ec873f7a738#:~:text=while%20the%20application,and%20collective%20intelligence.)
+
+> "When it comes to grabbing and holding our attention or to analyzing and profiling our data, the algorithms of social media stand in relationship to our human sensibilities as Alpha Go Zero to an average Go player. They are like gods. And gods that, for now at least, don’t have our best interests in mind." - [What is the problem with social media? by Jordan Hall](https://medium.com/deep-code/what-is-the-problem-with-social-media-5ec873f7a738#:~:text=When%20it%20comes,interests%20in%20mind.)
+
+> "It is not stretching the truth to say that effectively all of our social institutions are a bad combination of corrupt and obsolete. Our education system. Our healthcare system. Our food production systems. Our banking and finance systems. Our journalism and science systems. Our political systems." - [Defund (and redesign) everything, by Jordan Hall](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d#:~:text=It%20is%20not%20stretching%20the%20truth%20to%20say%20that%20effectively%20all%20of%20our%20social%20institutions%20are%20a%20bad%20combination%20of%20corrupt%20and%20obsolete.%20Our%20education%20system.%20Our%20healthcare%20system.%20Our%20food%20production%20systems.%20Our%20banking%20and%20finance%20systems.%20Our%20journalism%20and%20science%20systems.%20Our%20political%20systems.)
+
+> "Designs should strive to build capacity from the ground up, rather than over-ride failures at the ground level with top-down capacity. Make people more capable of being responsible, rather than taking their responsibility away." - [Defund (and redesign) everything, by Jordan Hall](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d#:~:text=Designs%20should%20strive%20to%20build%20capacity%20from%20the%20ground%20up%2C%20rather%20than%20over%2Dride%20failures%20at%20the%20ground%20level%20with%20top%2Ddown%20capacity.%20Make%20people%20more%20capable%20of%20being%20responsible%2C%20rather%20than%20taking%20their%20responsibility%20away.)
+
+> "Fortunately, the money power has repeatedly been shown to have one major weakness that it has not yet reliably patched: it is slow to react to technical innovation." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=Fortunately%2C%20the%20money%20power%20has%20repeatedly%20been%20shown%20to%20have%20one%20major%20weakness%20that%20it%20has%20not%20yet%20reliably%20patched%3A%20it%20is%20slow%20to%20react%20to%20technical%20innovation.)
+
+> "If we can design and implement a technology-based initiative that radically changes the balance of power around both media and elections, we might catch the money power off balance and have window of opportunity." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=if%20we%20can%20design%20and%20implement%20a%20technology%2Dbased%20initiative%20that%20radically%20changes%20the%20balance%20of%20power%20around%20both%20media%20and%20elections%2C%20we%20might%20catch%20the%20money%20power%20off%20balance%20and%20have%20window%20of%20opportunity.)
+
+
+> "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
+
+
+> "When you think about it, our current political architecture is way out of date. Every few years, people play this odd game of selecting from among a handful of individuals some (one) person to “represent” them on a wide variety of issues, at some distant location, for years at a time. Two hundred fifty years ago, when hand written notes delivered by horses was cutting edge, this approach made a lot of sense. Today it makes about as much sense as printing out your email." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=When%20you%20think,out%20your%20email.)
+
+> "With liquid democracy, you have a fluid “swarm” of governance that forms clusters of expertise around given issues and concerns — expertise that is identified not by credentials or graft, but by real “chains of trust” all the way back down to the individual citizens from whom all sovereignty extends." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=with%20liquid%20democracy,all%20sovereignty%20extends.)
+
+> "Rather than a slow moving bureaucracy made up of easy to exploit single points of failure (“representatives”) that change hands only once every few years, you have a platform that can update in realtime and “flow” power and attention where it is needed. In other words, a platform for a resilient and adaptive collective intelligence." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=Rather%20than%20a,adaptive%20collective%20intelligence.)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+"Elon Musk on Improving Democracy"
+https://www.youtube.com/watch?v=n5ECz1YK30M
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+> "The medium really is the message: change the platform, change the game." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=The%20medium%20really%20is%20the%20message%3A%20change%20the%20platform%2C%20change%20the%20game.)
+
+> "The problem, however, is not that we lack power. The problem is that we haven’t adequately imagined how to deploy this power into our contemporary environments." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=The%20problem%2C%20however%2C%20is%20not%20that%20we%20lack%20power.%20The%20problem%20is%20that%20we%20haven%E2%80%99t%20adequately%20imagined%20how%20to%20deploy%20this%20power%20into%20our%20contemporary%20environments.)
+
+> "Wars are won by choosing the battlefield. And the battlefield of politics is media." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Wars%20are%20won%20by%20choosing%20the%20battlefield.%20And%20the%20battlefield%20of%20politics%20is%20media.)
+
+> "If we can move the center of political discourse from old media to new media, we can radically change the balance of power." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=if%20we%20can%20move%20the%20center%20of%20political%20discourse%20from%20old%20media%20to%20new%20media%2C%20we%20can%20radically%20change%20the%20balance%20of%20power.)
+
+> "I don’t care if we are talking about the New York Post or the New York Times. If you are using 20th Century media to understand or evaluate what is going on in your political world, you are a part of the problem." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=I%20don%E2%80%99t%20care%20if%20we%20are%20talking%20about%20the%20New%20York%20Post%20or%20the%20New%20York%20Times.%20If%20you%20are%20using%2020th%20Century%20media%20to%20understand%20or%20evaluate%20what%20is%20going%20on%20in%20your%20political%20world%2C%20you%20are%20a%20part%20of%20the%20problem.)
+
+> "Don’t underestimate the subtle forces of nearly seven decades of adaptive evolution that have shaped the current political machines to the old media. TV for example, is all about surface, personality and persona. It is all about sensory overwhelm and getting behind and around our sensemaking defenses. This is why it leans in the direction of talking heads, soundbites and spin and why the evolution of American politics since Nixon has been irrevocably in the direction of reality TV." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Don%E2%80%99t%20underestimate%20the,of%20reality%20TV.)
+
+> "Our ability to give ourselves what we want has far outstripped our ability to sense what we need." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=our%20ability%20to%20give%20ourselves%20what%20we%20want%20has%20far%20outstripped%20our%20ability%20to%20sense%20what%20we%20need.)
+
+> "Anyone who has used a computer in the last decade is well aware of the problem of malware: be careful installing 3rd party software on your system. Oddly, we are vastly less circumspect when installing 3rd party narrative into our sensemaker." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=Anyone%20who%20has%20used%20a%20computer%20in%20the%20last%20decade%20is%20well%20aware%20of%20the%20problem%20of%20malware%3A%20be%20careful%20installing%203rd%20party%20software%20on%20your%20system.%20Oddly%2C%20we%20are%20vastly%20less%20circumspect%20when%20installing%203rd%20party%20narrative%20into%20our%20sensemaker.)
+
+> "McLuhan was right. At the end of the day, your sensemaker is a result of your experience. And both the nature and content of your experience is deeply influenced by the “architectures” that shape your capacity to experience." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=McLuhan%20was%20right.%20At%20the%20end%20of%20the%20day%2C%20your%20sensemaker%20is%20a%20result%20of%20your%20experience.%20And%20both%20the%20nature%20and%20content%20of%20your%20experience%20is%20deeply%20influenced%20by%20the%20%E2%80%9Carchitectures%E2%80%9D%20that%20shape%20your%20capacity%20to%20experience.)
+
+> "If we take ownership of the conditions of our sensemaking and take care to craft narratives and architectures that are optimized for truth rather than control, we really have no idea of what we are capable. What I feel I can say with confidence is this: through this keyhole lies our best hope for a desirable future." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=if%20we%20take,a%20desirable%20future.)
+
+> "Journalism is the function whereby society sources, orients and processes information." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=journalism%20is%20the%20function%20whereby%20society%20sources%2C%20orients%20and%20processes%20information.)
+
+incredible picture:
+https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4z4cikdT6jw2tkkyi13LkA.jpeg
+taken from here: https://medium.com/emergent-culture/reinvent-everything-556860b63308
+
+> "Given the primary importance and power of “True Information” to a well functioning Abundance Society, we might well expect that providing honest and thoughtful evaluation of experience will become one of the principal activities in the future." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=given%20the%20primary%20importance%20and%20power%20of%20%E2%80%9CTrue%20Information%E2%80%9D%20to%20a%20well%20functioning%20Abundance%20Society%2C%20we%20might%20well%20expect%20that%20providing%20honest%20and%20thoughtful%20evaluation%20of%20experience%20will%20become%20one%20of%20the%20principal%20activities%20in%20the%20future.)
+
+> "A conspicuous feature of the journalism of the future will be a deep lack of authority. There will be no notion of looking for The One Right Answer from an Unimpeachable Authority." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=A%20conspicuous%20feature%20of%20the%20journalism%20of%20the%20future%20will%20be%20a%20deep%20lack%20of%20authority.%20There%20will%20be%20no%20notion%20of%20looking%20for%20The%20One%20Right%20Answer%20from%20an%20Unimpeachable%20Authority.)
+
+> "For all of their flaws, contemporary architectures like Reddit, Yelp and to a lesser extent Wikipedia are embryonic forms of what our future “collective intelligence” architectures will look like." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=for%20all%20of%20their%20flaws%2C%20contemporary%20architectures%20like%20Reddit%2C%20Yelp%20and%20to%20a%20lesser%20extent%20Wikipedia%20are%20embryonic%20forms%20of%20what%20our%20future%20%E2%80%9Ccollective%20intelligence%E2%80%9D%20architectures%20will%20look%20like.)
+
+> "We don’t have to be close to perfect to be vastly better than anything we’ve seen before." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=we%20don%E2%80%99t%20have%20to%20be%20close%20to%20perfect%20to%20be%20vastly%20better%20than%20anything%20we%E2%80%99ve%20seen%20before.)
+
+> "The phrase, “The Medium is the Message” is true. A centralized, broadcast medium (e.g., television) will tend to promote certain kinds of cultural elements and inhibit others; by contrast, a decentralized medium (e.g., the Internet) will tend to present a quite different fitness landscape. Among other things, more voices will be heard and they will compete for attention in very different ways. No longer is owning the only newspaper in town a dominant enculturating position." - [The Art of Culture War, by Jordan Hall](https://medium.com/deep-code/the-art-of-culture-war-2e4a1ccce351#:~:text=the%20phrase%2C%20%E2%80%9CThe,dominant%20enculturating%20position.)
+
+> "Because human beings can so profoundly impact our enviroment and because we can so profoundly change with different “software,” the primary driver of our fitness has moved from the “hardware” into the “software” layer. This is closely linked to so-called “cultural evolution.”" - [Conscious Evolution, by Jordan Hall](https://medium.com/deep-code/conscious-evolution-c974e5415045#:~:text=Because%20human%20beings%20can%20so%20profoundly%20impact%20our%20enviroment%20and%20because%20we%20can%20so%20profoundly%20change%20with%20different%20%E2%80%9Csoftware%2C%E2%80%9D%20the%20primary%20driver%20of%20our%20fitness%20has%20moved%20from%20the%20%E2%80%9Chardware%E2%80%9D%20into%20the%20%E2%80%9Csoftware%E2%80%9D%20layer.%20This%20is%20closely%20linked%20to%20so%2Dcalled%20%E2%80%9Ccultural%20evolution.%E2%80%9D)
+
+> "If we can activate individuals to surface and share the products that they think are special (worthy, important) and/or would “swear by” — depending on their idiosyncratic values — and to invest some time and energy in crafting rich media expressions of these products, we can do to “Leviathan” what Wikipedia did to Britannica." - [A Theoretical Case for “Swell”, by Jordan Hall](https://medium.com/swell-considerations/a-theoretical-case-for-swell-112cbfca4cf4#:~:text=if%20we%20can,did%20to%20Britannica.)
+
+> "What is needed most now is attention. Leviathan is good at buying lots and lots of it. We can’t. What we can do is share. We can thoughtfully and intentionally deploy our attention and energy; spending both to support authentic and caring creators. We can move from discerning consumer to champion. Take the special things that we’ve discovered in our lives and help them get the attention they deserve. That’s why word-of-mouth works and is so threatening. That’s why if you share something awesome that deserves attention you really are making a difference. And if we all do it together, we might just change the world." - [it’s simple, really …, by Jordan Hall](https://medium.com/swell-considerations/swell-vision-92ed397ea99f#:~:text=What%20is%20needed,change%20the%20world.)
+
+> "" - [, by Jordan Hall]()
+
+> "" - [, by Jordan Hall]()
+
+
+
+
+
+> "We are as gods and might as well get good at it." - [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
+
+
+
+> "The greatest tragedy of our modern age is that anger is loud and love is quiet" - [David Holz](https://twitter.com/DavidSHolz/status/1606232701475778560)
+
+
+
+"Liquefying Democracy"
+
+"The coordination Manhattan Project"
 
 
 
@@ -319,16 +430,7 @@ NYT Science should be just content from the NYT that has the science tag/label
 
 
 
-
-
-
-
-
-
-
-
-
-
+FEED CONSTRUCTION - we have robo advisors to help us allocate our money when investing, but what if we could have robo advisors on how to best allocate our attention based on our interests and/or goals?
 
 
 
@@ -1193,6 +1295,9 @@ How do we debunk stuff?
 Moonlanding faked?
 Ancient technology in egypt? Give links as evidence
 
+As a large language model trained by OpenAI, ... just kidding.
+
+
 
 ██████ slogans
 
@@ -1227,6 +1332,8 @@ Social media 2.0: a global self-organizing brain aka AGI
 
 Social media 2.0
 The internet 2.0 the dataverse
+
+bringing logic programming to social networking
 
 The matrix vs the superapp - you can fetch & analyze anything and enhance yourself
 
