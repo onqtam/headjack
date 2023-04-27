@@ -41,6 +41,9 @@ https://www.google.com/search?q=the+golden+circle
 <iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/916Ye9XmIjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+> "Problems are always parochial. Solutions, however, can sometimes be universal." - [Brett Hall](https://twitter.com/ToKTeacher/status/1651422936191078402)
+
+In this chapter we discuss tens of problems - perhaps up to a hundred - all scattered throughout the text.
 
 > "A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator." - [Peter Thiel](https://www.azquotes.com/quote/929109#:~:text=from%20the%20outside.-,A%20great%20company%20is%20a%20conspiracy%20to%20change%20the%20world%3B%20when%20you%20share%20your%20secret%2C%20the%20recipient%20becomes%20a%20fellow%20conspirator.,-Peter%20Thiel)
 

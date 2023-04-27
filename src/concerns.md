@@ -222,6 +222,9 @@ This brave new world of new types of media will be at odds with the current syst
         https://youtu.be/fW9-dEOSX8A?t=562
 
 
+What if there are unintended social dynamics such as pressure to make public your preferences for X - "what are you hiding?". This could be due to the signalling mechanics
+
+
 
 # TODO:
 
