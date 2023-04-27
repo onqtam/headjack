@@ -149,6 +149,8 @@ https://www.google.com/search?q=poap&oq=poap&aqs=chrome..69i57j0i512l9.912j0j7&s
 
 # Reputation systems
 
+https://twitter.com/apolynya/status/1651394338012766208
+
 <!--
 https://twitter.com/gainzy222/status/1607114941567471621
 -->

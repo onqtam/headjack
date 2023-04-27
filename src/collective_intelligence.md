@@ -343,7 +343,7 @@ One of the biggest drawbacks of language-based communication is the inability to
 A data network in which your input matters in an uncountable number of ways
 Expressivity!
 
-what if we could downregulate/influence the use of things in the real world such as fast foods brands? what if negative reputation is a feature - not a bug? The physical world is now downstream from the digital. Sunlight is the best disinfectant
+what if we could downregulate/influence the use of things in the real world such as fast foods brands? what if negative reputation is a feature - not a bug? The physical world is now downstream of the digital. Sunlight is the best disinfectant
 
 > "Every time users like, upvote, heart, link or retweet content they are signaling a preference that serves a feedback loop generating better recommendations for them. But the action won’t go any further: it’s a fake vote that lacks institutional implications." - [The Social Smart Contract](https://github.com/DemocracyEarth/paper#user-content-231_Liquid:~:text=Every%20time%20users%20like%2C%20upvote%2C%20heart%2C%20link%20or%20retweet%20content%20they%20are%20signaling%20a%20preference%20that%20serves%20a%20feedback%20loop%20generating%20better%20recommendations%20for%20them.%20But%20the%20action%20won%E2%80%99t%20go%20any%20further%3A%20it%E2%80%99s%20a%20fake%20vote%20that%20lacks%20institutional%20implications.)
 
