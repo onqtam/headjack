@@ -207,6 +207,8 @@
 - what hash function to use - 256-bit Blake2B hash?
     on choosing the strength of the hash function
         https://eprint.iacr.org/2019/1492.pdf
+    Reasons to prefer BLAKE3 over SHA256:
+    https://twitter.com/zooko/status/1652743779932045313
 
 - Only ipfs hash to a header blob and no merkle root on chain?
 

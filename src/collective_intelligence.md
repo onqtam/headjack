@@ -190,6 +190,10 @@ Reputation page and the message types that polls could be
 
 empowerment - voter apathy is best explained by the disbelief that their vote would matter or that the pool of options is constrained and nothing is good enough. Also the complexity and cost of actually having a well informed opinion and the lack of ability to delegate automatically to someone they trust
 
+https://medium.com/organizer-sandbox/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f#.3w8dw2p99:~:text=3%20of%20the%20main%20problems%3A
+
+liquid democracy is made easier when concepts and assertions have unique stable IDs that can be pointed to
+
 the future of search is being able to re-run aggregation & statistics based on different filters
 
 We should be able to split our delegation to multiple other entities with different weights

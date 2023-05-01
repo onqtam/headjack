@@ -110,6 +110,10 @@ https://www.youtube.com/watch?v=kwYaj-1EVJ0
 "embrace the graph"
 
 
+Wikipedia is sort of a graph - you can even visualize the [backlinks](https://twitter.com/prathyvsh/status/1652225707571904512) to a page
+
+
+
 
 Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack
 https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR
