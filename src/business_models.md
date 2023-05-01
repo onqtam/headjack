@@ -207,6 +207,9 @@ pitch the VCs: this is not constructing a single thing and trying to own it as m
 Perhaps the attention exonomy pie will be smaller in a world with less exploitative mechanics btw thats a good thing - the current status quo is maladaptively inflated - a paperclip maximizer
 
 
+todo: what about this business model? charge per article?
+https://twitter.com/elonmusk/status/1652349875017879552
+
 
 twitter has different subcommunities (FinTwit,AudioTwit,CT) - specialized UIs can have value flow embedded in them so different & unique business models could be used
 
