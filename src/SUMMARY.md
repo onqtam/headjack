@@ -44,7 +44,7 @@
 ---
 
 - [Implementation of Headjack](execution.md)
-    - [Concerns with Headjack](concerns.md)
+    - [Challenges with Headjack](concerns.md)
     - [Identity managers (IDM)](IDM.md)
     - [Handles (names)](handles.md)
 
