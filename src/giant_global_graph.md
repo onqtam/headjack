@@ -167,6 +167,8 @@ the metaverse is where anything is possible
 
 the metaverse is about agency - the ability to express yourself any way you want
 
+the metaverse is conscious
+
 chapter: "the metaverse is a graph"
 the metaverse is a giant global graph
 

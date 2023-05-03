@@ -279,5 +279,6 @@ Headjack
 
 > "What is the most important thing you could be working on in the world right now? ... And if you're not working on that, why aren't you?" - [Aaron Swartz](https://www.azquotes.com/quote/1202481)
 
+<img src="images/meme_get_in_loser_building_the_hivemind.jpg">
 
 Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity.
