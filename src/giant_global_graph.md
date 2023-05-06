@@ -162,6 +162,10 @@ The semantic web on top of extremely long & verbose host-centric URIs was bad
 # the metaverse
 ██████████████████████████████████████████████████████████████████
 
+IMAGE !!!
+Drake reject accept meme zuck metaverse vs futuristic city
+
+
 the metaverse is the address space around the identity network
 the metaverse is where anything is possible
 
