@@ -486,8 +486,146 @@ https://en.wikipedia.org/wiki/All_models_are_wrong
 
 
 
+distributed cognition and self-organization
+> "Neurons that fire together, wire together." - [Donald Hebb](https://www.holstee.com/blogs/mindful-matter/neurons-that-fire-together-wire-together)
+
+
+
+all intelligence is collective intelligence
+
+"Scale-Free Cognition"
+
+> "I hypothesize that higher level goal-directed activity and agency, resulting in larger cognitive boundaries, evolve from the primal homeostatic drive of living things to reduce stress – the difference between current conditions and life-optimal conditions." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=I%20hypothesize%20that%20higher%20level%20goal%2Ddirected%20activity%20and%20agency%2C%20resulting%20in%20larger%20cognitive%20boundaries%2C%20evolve%20from%20the%20primal%20homeostatic%20drive%20of%20living%20things%20to%20reduce%20stress%20%E2%80%93%20the%20difference%20between%20current%20conditions%20and%20life%2Doptimal%20conditions.)
+
+> "The ability of cells to join into domains that execute group decisions, whether deterministic or stochastic, is an essential component of the evolution of complex forms and will be a central component of a proposed definition of a Self." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20ability%20of%20cells%20to%20join%20into%20domains%20that%20execute%20group%20decisions%2C%20whether%20deterministic%20or%20stochastic%2C%20is%20an%20essential%20component%20of%20the%20evolution%20of%20complex%20forms%20and%20will%20be%20a%20central%20component%20of%20a%20proposed%20definition%20of%20a%20Self.)
+
+> "Normal bodies consist of networks of cells working together toward a unified goal - create and maintain specific large structures. In an important sense, each cell is integrated, via physiological signaling, into a coherent swarm intelligence with system-level (anatomical) goals. In cancer, the scope of the coherent Self of a cell reduces from being as large as the boundary of a whole body, to that of just one cell’s surface. The scope of the Self – the structure which a cell works to maintain and support – shrinks drastically." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=Normal%20bodies%20consist,support%20%E2%80%93%20shrinks%20drastically)
+
+> "The boundary between self and non-self can shift: multicellularity enlarges it, while carcinogenesis reduces it, and it is readily seen how this shifts the behavior of cells toward a mode that is not beneficial for the organism level." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=the%20boundary%20between%20self%20and%20non%2Dself%20(David%20Krakauer%20et%20al.%2C%202014)%20can%20shift%3A%20multicellularity%20enlarges%20it%2C%20while%20carcinogenesis%20reduces%20it%2C%20and%20it%20is%20readily%20seen%20how%20this%20shifts%20the%20behavior%20of%20cells%20toward%20a%20mode%20that%20is%20not%20beneficial%20for%20the%20organism%20level.)
+
+> "Being electrically isolated from their neighbors by a shutdown of gap junction synapses, a cell can neither measure distant events nor communicate across anatomical distances with other cells and with the outside world. All of the attention (in terms of measurement and activity toward scaled goals) is focused at the single cell level, while the rest of the body is treated as the “external environment” (and all living things exploit their environment for their own benefit)." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=being%20electrically%20isolated,their%20own%20benefit).)
+
+> "The time horizon of activity shifts from decades (somatic cells execute regenerative and repair processes that maintain a body up to ~100 years) to a much shorter time frame, as cancer cells undertake activity which may kill the host (and themselves) within a mere year. Normal cells pursue goals (organ maintenance) that can be much longer than a cell’s individual lifespan, especially in tissues with rapid cellular turnover – the time scale for such homeostatic activity is one that belongs to the collective, not the cells themselves." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=the%20time%20horizon,the%20cells%20themselves.)
+
+> "The cells in a metazoan organism body are not less selfish than unicellular organisms or cancer cells. They are equally selfish, working only for the benefit of themselves, but the relevant self that they defend is bigger in terms of space, time, and complexity." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=the%20cells%20in%20a%20metazoan%20organism%20body%20are%20not%20less%20selfish%20than%20unicellular%20organisms%20or%20cancer%20cells.%20They%20are%20equally%20selfish%2C%20working%20only%20for%20the%20benefit%20of%20themselves%2C%20but%20the%20relevant%20self%20that%20they%20defend%20is%20bigger%20in%20terms%20of%20space%2C%20time%2C%20and%20complexity.)
+
+> "Is the best strategy chemotherapy, which seeks to identify and destroy irrevocably broken cells, or could there be normalization strategies that re-connect cells into a collective?" - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=Is%20the%20best%20strategy%20chemotherapy%2C%20which%20seeks%20to%20identify%20and%20destroy%20irrevocably%20broken%20cells%2C%20or%20could%20there%20be%20normalization%20strategies%20that%20re%2Dconnect%20cells%20into%20a%20collective%3F)
+
+> "A functional individual is more than the sum of its parts in the sense that goal-directed capacity emerges only from the integrated activity of all of the components." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=a%20functional%20individual%20is%20more%20than%20the%20sum%20of%20its%20parts%20in%20the%20sense%20that%20goal%2Ddirected%20capacity%20emerges%20only%20from%20the%20integrated%20activity%20of%20all%20of%20the%20components)
+
+> "The initial, most primitive feature of a living system is preferences – the fact that some states of the world are better for its welfare than others. This enables learning from positive and negative reinforcement, which leads to an explosion of computational and behavioral capabilities. Preferences evolve into goals to the extent that a system grows in complexity and causal power and becomes able to act in the world in ways that are likely to move it toward preferred regions of its state space (initially, focused on simple metabolic survival, but ranging all the way to complex human psychological needs and perhaps **beyond**)." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20initial%2C%20most,and%20perhaps%20beyond).)
+
+> "The cognitive boundary of an Individual [a “Center of Concern”] is the most distant (in time and space) set of events that this system can measure and attempts to regulate in its goal-directed activity." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20cognitive%20boundary%20of%20an%20Individual%20%5Ba%20%E2%80%9CCenter%20of%20Concern%E2%80%9D%20(Murase%20and%20Asakura%2C%202003)%5D%20is%20the%20most%20distant%20(in%20time%20and%20space)%20set%20of%20events%20that%20this%20system%20can%20measure%20and%20attempts%20to%20regulate%20in%20its%20goal%2Ddirected%20activity.)
+
+IMAGE !!!
+https://www.frontiersin.org/files/Articles/493866/fpsyg-10-02688-HTML/image_m/fpsyg-10-02688-g002.jpg
+
+> "It is unlikely that today’s human cognitive sphere is the maximum possible one." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=it%20is%20unlikely%20that%20today%E2%80%99s%20human%20cognitive%20sphere%20is%20the%20maximum%20possible%20one.)
+
+> "The new Individual is an integrated whole because its subunits no longer exclusively have their own local, distinct microenvironments (and thus internal models of the world) but are constrained to share a bigger, common reality due to the spread of information and influence among them. Such collective individuals can have a higher problem-solving capacity than their members, because they can support a layered architecture with experience-dependent communication channels (synapses, broadly defined), emergence of “virtual governors” with beneficial properties with respect to control capacity, and more complex state space with more attractors and thus can compute meta-system properties not accessible to the single agents." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20new%20Individual,the%20single%20agents)
+
+> "It is thus no coincidence that most anesthetics used to remove cognition and sensory experience, whether in plants or animals, are gap junctional (bioelectric) uncouplers." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=It%20is%20thus%20no%20coincidence%20that%20most%20anesthetics%20used%20to%20remove%20cognition%20and%20sensory%20experience%2C%20whether%20in%20plants%20or%20animals%2C%20are%20gap%20junctional%20(bioelectric)%20uncouplers)
+
+> "To move the whole animal, not just individual cells, the electrical information needs to be scaled considerably, and nervous systems are an ideal extension of ancient, pre-neural bioelectric signaling paths to enable further scaling of the cognitive boundary of cells into organs, organisms, swarms, and societies." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=to%20move%20the,swarms%2C%20and%20societies.)
+
+> "The hypothesis of scale-free cognition does not rely on cooperation per se – it builds up apparent cooperation from selfish agents minimizing their stress (surprise) and competing for information. Greed, at the single-cell level, for information (infotaxis) drives cooperativity, as each unit expands its measurement boundary (communication with neighbors) and thus inevitably becomes part of a bigger self with bigger set points serving as homeostatic attractors. It only looks like cooperation from a perspective of a higher level, because the higher level of organization shows an integrated Self which appears, necessarily, cooperative." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20hypothesis%20of,appears%2C%20necessarily%2C%20cooperative.)
+
+> "There is a deep functional scale-invariance between the decision-making of cells in building body structures, the workings of an insect colony, and the integrated behavior of a human “Person”: these are the cybernetic processes of learning and parameter optimization implemented by large numbers of units pursuing infotaxis and homeostatic goals at whatever scale the sensory channels permit." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=There%20is%20a%20deep,the%20sensory%20channels%20permit.)
+
+
+
+
+
+> "The plasticity of biological bodies, made of cells that die, are born, and significantly rearrange their tissue architecture, suggests that the understanding of cognition is fundamentally a problem of collective intelligence: to understand how stable cognitive structures can persist and map onto swarm dynamics, with preferences and stressors that scale from those of their components." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=The%20plasticity%20of,of%20their%20components.)
+
+> "The whole process of evolution, basically a hill-climbing search algorithm, results in a set of frozen accidents and meandering selection among random tweaks to the micro-level hardware of cells, with impossible to predict large-scale consequences for the emergent system level structure and function. If this short-sighted process, constrained by many forces that have nothing to do with favoring complex cognition, can give rise to true minds, then so can a rational engineering approach." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=the%20whole%20process,rational%20engineering%20approach.)
+
+> "The TAME framework takes the following as the basic hallmarks of being a Self: the ability to pursue goals, to own compound (e.g., associative) memories, and to serve as the locus for credit assignment (be rewarded or punished), where all of these are at a scale larger than possible for any of its components alone." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=The%20TAME%20framework%20takes,of%20its%20components%20alone.)
+
+> "The scope of states that an agent can possibly be stressed by, in effect, defines their degree of cognitive capacity. Stress is a systemic response to a difference between current state and a desired setpoint; it is an essential component to scaling of Selves because it enables different modules (which sense and act on things at different scales and in distributed locations) to be bound together in one global homeostatic loop (toward a larger purpose)." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=life%20on%20Earth%3F-,The%20scope%20of%20states%20that%20an%20agent%20can%20possibly%20be%20stressed,bound%20together%20in%20one%20global%20homeostatic%20loop%20(toward%20a%20larger%20purpose).,-Systemic%20stress%20occurs)
+
+> "Systemic stress occurs when one sub-agent is not satisfied about its local conditions, and propagates its unhappiness outward as hard-to-ignore signals. In this process, stress pathways serve the same function as hidden layers in a network, enabling the system to be more adaptive by connecting diverse modular inputs and outputs to the same basic stress minimization loop. Such networks scale stress, but stress is also what helps the network scale up its agency—a bidirectional positive feedback loop." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=Systemic%20stress%20occurs,positive%20feedback%20loop.)
+
+> "Stress causes other agents to work toward the same goal, serving as an influence that binds subunits across space into a coherent higher Self and resists the “struggle of the parts”." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=stress%20causes%20other%20agents%20to%20work%20toward%20the%20same%20goal%2C%20serving%20as%20an%20influence%20that%20binds%20subunits%20across%20space%20into%20a%20coherent%20higher%20Self%20and%20resists%20the%20%E2%80%9Cstruggle%20of%20the%20parts%E2%80%9D)
+
+> "The degree of intelligence, or sophistication, of an agent in any space is roughly proportional to its ability to deploy memory and prediction (information processing) in order to avoid local maxima." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=The%20degree%20of%20intelligence%2C%20or%20sophistication%2C%20of%20an%20agent%20in%20any%20space%20is%20roughly%20proportional%20to%20its%20ability%20to%20deploy%20memory%20and%20prediction%20(information%20processing)%20in%20order%20to%20avoid%20local%20maxima.)
+
+> "This property of gap junction coupling promotes the creation of a larger Self by partially erasing the mnemic boundaries between the parts which might impair their ability to work toward a common goal. This is a key part of the scaling of the Self by enlarging toward common goals—not by micromanagement, but by bringing multiple subunits into the same goal-directed loop by tightly coupling the sensing, memory, and action steps in a syncytium where all activity is bound toward a system-level teleonomic process." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=this%20property%20of,level%20teleonomic%20process.)
+
+> "Stress signals, propagating through such networks, incentivize other regions of the tissue to act cooperatively in response to distant events by harnessing their selfish drive to reduce their own stress. This facilitates the coherent, system-level response to perturbations beyond their local consequences, and gives rise to larger Selves able to react coherently to stressful departures from more complex, spatially-distributed allostatic setpoints." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=Stress%20signals%2C%20propagating,distributed%20allostatic%20setpoints.)
+
+> "Evolution tackles this task by exploiting a multiscale competency architecture (MCA), where subunits making up each level of organization are themselves homeostatic agents. It’s built on an extremely powerful design principle: error correction." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=Evolution%20tackles%20this%20task%20by%20exploiting%20a%20multiscale%20competency%20architecture%20(MCA)%2C%20where%20subunits%20making%20up%20each%20level%20of%20organization%20are%20themselves%20homeostatic%20agents.%20It%E2%80%99s%20built%20on%20an%20extremely%20powerful%20design%20principle%3A%20error%20correction)
+
+> "Every intelligence is a collective intelligence, and the modular, multi-scale architecture of life means that we are a holobiont in more than just the sense of having a microbiome — we are all patchworks of overlapping, nested, competing, and cooperating agents that have homeostatic (goal-directed) activity within their self-constructed virtual space at a scale that determines their cognitive sophistication." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=Every%20intelligence%20is,their%20cognitive%20sophistication.)
+
+> "Given the ability of human subunits to merge into even larger (social) structures, how do we construct higher-order Selves that promote flourishing for all? The multicellularity-cancer dynamic suggests that tight functional connections that blur cognitive boundaries among subunits is a way to increase cooperation and cognitive capacity. However, simply maximizing loss of identity into massive collectivism is a well-known failure at the social level, always resulting in the same dynamic: the goals of the whole diverge sharply from those of the parts, which become as disposable to the larger social Self as shed skin cells are to us. Thus, the goal of this research program beyond biology is the search for optimal binding policies between subunits, which optimize the tradeoffs needed to maximize individual goals and well-being (preserving freedom or empowerment) while reaping the benefits of a scaled-up Self at the level of groups and entire societies. While the specific binding mechanisms used by evolution are not guaranteed to be the policies we want at the social level, the study of these are critical for jump-starting a rigorous program of research into possible ways of scaling that could have social relevance." - [Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full#:~:text=Given%20the%20ability,have%20social%20relevance.)
+
+
+
+
+
+
+> "The central treadmill (loop) of life is a homeostatic effort to attain a specific setpoint, despite the buffeting influence of the cruel, dissipative environment. The driver of this loop is stress—the delta between current state and desired state, and all of the system’s efforts are guided by the effort to minimize stress (essentially, unhappiness). Defined in this way, “stress” turns out to be a compelling translation of the Sanskrit term duḥkha (otherwise often rendered as “suffering”), which describes a treacherous world inhabited by restlessly craving beings. In this world of stress, existence equals dissatisfaction, and so duḥkha is a continuous state that compels beings to act. This stress-focused perspective can be seen as suggesting that the expansion of cognition across eons was basically a process of scaling goals, from humble metabolic needs to single cells to the grandiose goals of “make and maintain a whole limb” of tissue- and organ-level cellular collectives. It is fascinating to think about how this expansion of concern scales basic self-preservation goals into outward-facing preferences about complex, large states of the environment and even care for the states of other beings." - [Biology, Buddhism, and AI: Care as the Driver of Intelligence](https://www.mdpi.com/1099-4300/24/5/710#:~:text=The%20central%20treadmill,of%20other%20beings.)
+
+> "Stress drives agents towards homeostatic goals—a concept central to Buddhism with its teaching of existence as dissatisfaction, duḥkha. Expanding one’s space of possible goals to face outwards, exhibiting compassion toward other agents’ goals, potentiates the increase of intelligence and thus the potential to identify better, more global solutions. In this scheme, compassion (in the sense of practical concern) and intelligence are tightly linked because the driving definition of an active agent is the bundle of processes that expend energy toward system-level goals. The scale and content of what a given agent measures, prefers, and seeks to implement define its cognitive sophistication." - [Biology, Buddhism, and AI: Care as the Driver of Intelligence](https://www.mdpi.com/1099-4300/24/5/710#:~:text=Stress%20drives%20agents,its%20cognitive%20sophistication.)
+
+
+
+
+
+> "The collective cognition and decision-making of the colony is determined by the interactions between the individuals, resembling mobile neural networks, and the algorithms that determine their output." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "The evolution of brains is a story of increasingly coordinated collective behavior, driven by the emergence of more efficient forms of intercellular communication, increasing differentiation and specialization of cell types, increasing interdependence, and progressive refinement of organization. At each stage, the benefits achieved through cooperation must have outweighed the costs of increased competition for resources that comes with sharing territory. Thus, we view brains as one end of a continuum of collective behavior wherein the collective has become especially coordinated and complex in organization." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Neural structure is not hard-coded into the genes — indeed, there couldn’t possibly be enough information in the human genome to encode neural structure — but instead is robustly reproduced time and again through these competitive dynamics. Malfunction of these processes (i.e., overproduction of neurons or lack of pruning) is associated with a number of brain disorders. Along these lines, proponents of “Neural Darwinism” and related views suggest that brain development, and intelligence more generally, can be understood as analogous to the evolution of a species through variation and selection." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Competitive dynamics are crucial both in brain development and in “online” cognition and behavior. We suggest that it is the precise parameterization of such competition dynamics that contributes to the intelligence of the brain. As such, we believe these mechanisms are best understood as a form of collective decision-making." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Functional networks are known to form and dissipate rapidly — on the order of milliseconds in visual processing, or on the timescale of minutes in skill acquisition — in a process that is often called “soft-assembly”. This process is best understood as a form of selforganization, in that the best functional network for a task or context comes online through distributed interactions, rather than by virtue of a central executive that assembles the best neural partners after assessing a situation." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "We suggest that the dynamic reorganization of functional subnetworks in the brain and the massive interactivity of the brain is best understood through the lens of collective intelligence, akin to a crowd that efficiently forms an effective committee for each task on the fly." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "The intelligence of brains is due not to precisely designed neural circuits that implement specific computations, but instead due to an intrinsic capacity for collections of neurons to spontaneously organize in service of survival of the group. " - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "The structure and development of the brain is characterized by highly efficient and robust mechanisms of competition, cooperation, consensus building, and dynamic reconfiguration of neural coalitions." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Humans may have much to learn from neurons about constructing harmonious societies." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Collective intelligence in humans actually has little to do with how intelligent we are as individuals, and instead to the extent to which we are evolutionarily prepared for spontaneous interpersonal coordination." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Any question about adaptation on a population level becomes one of collective intelligence." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "In a formulation of the “local knowledge problem,” Hayek argued that local, dispersed, and incomplete knowledge held by individuals within a market system allow for the rapid adaptation of the market to inputs and outputs in the economy. Hayek saw the emergence of a central intelligence, in the form of the price system, as being one way in which distributed systems create the appearance of a central actor." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "There is little reason to expect collective intelligence to be restricted to any particular species or spatio-temporal scale of activity." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "A brain is a collection of living cells struggling for survival. By virtue of mechanisms of competition, such as synaptogenesis/pruning and mutual inhibition, and mechanisms of cooperation, such as energysharing through spiking behavior, these collections of cells are able to rapidly self-organize into different patterns of functional connectivity that are adaptive at the group level with respect to a current task and context." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+
+
+
+
+
+
+
+
+
+Today's economy driven by advertising is mostly comprised of positive feedback loops but we also need to develop channels for negative feedback loops
+a positive feedback loop: advertising tricks us into buying processed food which makes us sicker which takes a toll on our finances and happiness which leads to going back to food for pleasure
+positive feedback loops in the economy are way stronger than negative feedback loops because of the disproportionate influence of money and advertising over us
+
+
+
+
+
+
+
+
+
+
 
 relevance realization is your general intelligence
+RR is central to your intelligence
 general intelligence can be understood as a dynamic developmental evolution of your sensory motor fittedness that is regulated by virtual engines that are ultimately regulated by the logistical normativity of the opponent processing between efficiency and resiliency - WAT :D
 John Vervaeke
 https://youtu.be/gfKcVbNd7Xc?t=3238
@@ -496,7 +634,7 @@ https://youtu.be/gfKcVbNd7Xc?t=3238
 
 
 
-
+> "The measure of intelligence is the ability to change." - [Albert Einstein](https://www.goodreads.com/quotes/85475-the-measure-of-intelligence-is-the-ability-to-change)
 
 
 the lone German who refused to give Hitler the Nazi salute
@@ -565,9 +703,27 @@ FEED CONSTRUCTION - we have robo advisors to help us allocate our money when inv
 
 
 
-"civilization is a race between education and catastrophe" - H. G. Wells
+> "Civilization is in a race between education and catastrophe." - [H. G. Wells](https://www.goodreads.com/quotes/107797-civilization-is-in-a-race-between-education-and-catastrophe-let)
+> "Human history becomes more and more a race between education and catastrophe." - [H. G. Wells](https://www.goodreads.com/quotes/39026-human-history-becomes-more-and-more-a-race-between-education)
 
-"The most common way people give up their power is by thinking they don’t have any." - Alice Walker
+> "There's truths you have to grow into." - [H. G. Wells](https://www.goodreads.com/quotes/190581-there-s-truths-you-have-to-grow-into)
+
+> "Our true nationality is mankind." - [H. G. Wells](https://www.goodreads.com/quotes/168434-our-true-nationality-is-mankind)
+
+> "Advertising is legitimised lying." - [H. G. Wells](https://www.goodreads.com/quotes/37198-advertising-is-legitimised-lying)
+
+> "If we don't end war, war will end us." - [H. G. Wells](https://www.goodreads.com/quotes/74384-if-we-don-t-end-war-war-will-end-us)
+
+> "We all have our time machines, don't we. Those that take us back are memories...And those that carry us forward, are dreams." - [H. G. Wells](https://www.goodreads.com/quotes/329653-we-all-have-our-time-machines-don-t-we-those-that)
+
+> "He who does not contemplate the future is destined to be overwhelmed by it." - [H. G. Wells](https://www.azquotes.com/quote/814186)
+
+> "Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write!" - [H. G. Wells](https://www.azquotes.com/quote/685542)
+
+
+
+
+> "The most common way people give up their power is by thinking they don’t have any." - [Alice Walker](https://bigthink.com/words-of-wisdom/alice-walker-people-give-up-their-power-by-thinking-they-dont-have-any-2/)
 
 
 
@@ -631,7 +787,7 @@ https://en.wikipedia.org/wiki/Connectome#:~:text=the%20foundation%20of%20human%2
 
 this is the great unbundling of opinions (until now everything came in bundled groups represented by individuals and organizations - now we can crowdsource competence on any specific topic), followed by the ability to reconstruct specific media experiences with specific recommender algorithms defined by different values & collective consensus or interest heatmap
 
-we have maladaptive connections and lack neuroplasticity. The global brain lacks neuroplasticity because of fractured identity & the inability to export data from service to service - lack of interoperability
+we have maladaptive connections and lack (neuro)plasticity. The global brain lacks (neuro)plasticity because of fractured identity & the inability to export data from service to service - lack of interoperability
 
 In order to have collective consciousness we need to have global neurons. This is identity
 
@@ -1376,8 +1532,6 @@ Economics is downstream of coordination
 
 
 there isn't an ounce of fat to remove from this design - anything more minimalistic would complicate the mental model for working with the system.
-
-Today we as a global hivemind lack neuroplasticity
 
 
 

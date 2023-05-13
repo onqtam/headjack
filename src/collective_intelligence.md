@@ -268,6 +268,7 @@ We can reveal only what we don't think we'd be judged about, but still anonymous
 SISMO !!! and ethdos !!!
 https://twitter.com/shreyjaineth/status/1590310990876659712
 
+https://twitter.com/identhree
 
 Zk affiliation/attestations/credentials
 

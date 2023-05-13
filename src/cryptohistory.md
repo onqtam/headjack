@@ -176,6 +176,21 @@ The argument that specialized message types are unnecessary because AI will even
 
 # Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 
+aseem malhotra - statins overperscribed and how were the original studies carried out in terms of excluding those with side effects and what the actual efficacy really is
+
+ancel keys
+
+https://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html
+
+https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat
+
+> "Corollary 5: The greater the financial and other interests and prejudices in a scientific field, the less likely the research findings are to be true." - [Why Most Published Research Findings Are False, by John P. A. Ioannidis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124#:~:text=Corollary%205%3A%20The%20greater%20the%20financial%20and%20other%20interests%20and%20prejudices%20in%20a%20scientific%20field%2C%20the%20less%20likely%20the%20research%20findings%20are%20to%20be%20true.)
+
+https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False
+https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/
+TODO: read this paper ^^
+
 what if DeSci was part of this giant global graph/brain? observation, experimentation, and the testing of theories against the evidence obtained - with an immutable trail behind
 
 > "Peer review has become circular onanism." - [Max Borders](https://www.aier.org/article/tyrannies-of-hyperreality/#:~:text=peer%20review%20has%20become%20circular%20onanism.)
