@@ -45,6 +45,11 @@ Headjack - having a lower ID
 
 Oauth as a partner
 
+“The open source company”
+We do not have enough of a team but will fund the most capable ones who wosh to build - there is plenty of room to capture value - the pie is big enough
+We can collectively build this thing in parallel
+
+we're not simply raising capital to build the whole thing on our own - we want to actively fund those that are best fit to compete in this new market. We are a fund as well.
 
 auction the first 10k indexes in different tiers and raise funds
 

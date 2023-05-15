@@ -22,9 +22,7 @@ what if you could use something snapchat-like, but without the streaks gamificat
 
 > "It takes discipline not to let social media steal your time." - [Alexis Ohanian](https://www.azquotes.com/quote/900336)
 
-most modern diseases are diseases of abundance - including "information"
-Naval
-https://youtu.be/3qHkcs3kG44?t=4603
+> "Most modern diseases are diseases of abundance - including “information”" - [Naval](https://youtu.be/3qHkcs3kG44?t=4603)
 
 Making media consumption deliberate
 
