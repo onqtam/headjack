@@ -62,12 +62,8 @@ our capacity to pay attention in the right way was evolved - it is fundamentally
 
 building participatory governance at scale
 
-This is the real DAO - the hivemind
-
 distributed cognition or sensemaking?
 https://en.wikipedia.org/wiki/Cognition
-
-let's boot up the collective intelligence
 
 we need to build a strong central nervous system for this global organism
 
@@ -448,11 +444,11 @@ https://consilienceproject.org/the-endgames-of-bad-faith-communication/#accordio
 
 > "Because instant and credible information has to be given [by the press], it becomes necessary to resort to guesswork, rumors, and suppositions to fill in the voids, and none of them will ever be rectified; they will stay on in the readers' memories." [Solzhenitsyn](https://twitter.com/AI_Solzhenitsyn/status/1590055302371500032)
 
-> "instead of echo-chambers of fact-checkers who get all their opinions from the Washington Post and New York Times, one could implement a system of adversarial fact-checking in which people of different opinions work together on establishing the facts" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=instead%20of%20echo%2Dchambers%20of%20fact%2Dcheckers%20who%20get%20all%20their%20opinions%20from%20the%20Washington%20Post%20and%20New%20York%20Times%2C%20one%20could%20implement%20a%20system%20of%20adversarial%20fact%2Dchecking%20in%20which%20people%20of%20different%20opinions%20work%20together%20on%20establishing%20the%20facts)
+> "Instead of echo-chambers of fact-checkers who get all their opinions from the Washington Post and New York Times, one could implement a system of adversarial fact-checking in which people of different opinions work together on establishing the facts" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=instead%20of%20echo%2Dchambers%20of%20fact%2Dcheckers%20who%20get%20all%20their%20opinions%20from%20the%20Washington%20Post%20and%20New%20York%20Times%2C%20one%20could%20implement%20a%20system%20of%20adversarial%20fact%2Dchecking%20in%20which%20people%20of%20different%20opinions%20work%20together%20on%20establishing%20the%20facts)
 
 > "fact-checkers would be more careful if they weren't anonymous; having reputational skin in the game, like lawyers and journalists, would incentivize them not to cheat" - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=fact%2Dcheckers%20would%20be%20more%20careful%20if%20they%20weren%27t%20anonymous%3B%20having%20reputational%20skin%20in%20the%20game%2C%20like%20lawyers%20and%20journalists%2C%20would%20incentivize%20them%20not%20to%20cheat)
 
-> "we have no choice but to become our own fact-checkers." - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=we%20have%20no%20choice%20but%20to%20become%20our%20own%20fact%2Dcheckers.)
+> "We have no choice but to become our own fact-checkers." - [Fact-Checking the Fact-Checkers](https://gurwinder.substack.com/p/why-you-cant-trust-fact-checks#:~:text=we%20have%20no%20choice%20but%20to%20become%20our%20own%20fact%2Dcheckers.)
 
 > "While no one can achieve perfect objectivity and fair-mindedness, those who strive for it get far closer than those who do not. This is true at both the scale of an individual and the scale of a society." - [Where Arguments Come From - The Consilience Project](https://consilienceproject.org/where-arguments-come-from/#:~:text=While%20no%20one%20can%20achieve%20perfect%20objectivity%20and%20fair%2Dmindedness%2C%20those%20who%20strive%20for%20it%20get%20far%20closer%20than%20those%20who%20do%20not.%20This%20is%20true%20at%20both%20the%20scale%20of%20an%20individual%20and%20the%20scale%20of%20a%20society.)
 
@@ -493,7 +489,6 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 ██████████████████████████████████████████████████████████████████
 
 
-> "I can’t let you do that, Dave." - HAL 9000 on 2001: A Space Odyssey (1968).
 
 > "Sovereign is he who decides on the exception." - Carl Schmitt, political theorist (1888-1985).
 

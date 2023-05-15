@@ -142,6 +142,10 @@ https://www.businessinsider.com/the-lone-german-man-who-refused-to-give-hitler-t
 
 
 
+> "I can’t let you do that, Dave." - HAL 9000 on 2001: A Space Odyssey (1968).
+
+
+
 
 > "The companies that do the best job on managing a user's privacy will be the companies that ultimately are the most successful." - [Fred Wilson](https://www.azquotes.com/quote/317282)
 
