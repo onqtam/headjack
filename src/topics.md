@@ -2,6 +2,8 @@
 
 - cryptohistory
 - your digital footprint
+    - ...
+    - ...
 - giant global graph
     - pull that up jamie
     - semantic web
@@ -18,18 +20,21 @@
     - anonymity
     - aggregation
     - models & multiple points of view
+    - fact databases & oracles
     - multidimensional wikipedia
     - communities
     - labeling, tagging, moderation - who watches the watchmen
+        community notes?
     - calculemus
     - reputation systems
+    - Aggregate sentiment - the big picture
 - attention is all you have
     - consciousness
     - relevance realization
     - our collective attention model
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
-    - media & manipulation
+    - (broadcast) media & manipulation
 - collective intelligence
     - all intelligence is collective intelligence
     - cybernetics & control theory & feedback loops
@@ -39,12 +44,15 @@
     - shit is fucked up and stuff
     - sensemaking
     - sankey diagram everything
+    - reward circuits
     - spreadsheets
+    - data driven - plot everything on charts
     - immune system
     - querying & sociology - done by anyone, LLMs
     - AGI & the alignment problem
     - the third attractor
 - the superapp
+    - home page & feeds
 - can't be evil
 - business models
 - startup case study
