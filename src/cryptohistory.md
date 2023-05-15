@@ -15,6 +15,8 @@ The highest standards of history are permanence and authenticity
 > "I have been to the darkest corners of government, and what they fear is light." - [Edward Snowden](https://www.azquotes.com/quote/577721)
 
 
+> "Those who cannot remember the past are condemned to repeat it." - [George Santayana](https://en.wikiquote.org/wiki/George_Santayana#:~:text=infancy%20is%20perpetual.-,Those%20who%20cannot%20remember%20the%20past%20are%20condemned%20to%20repeat%20it.,-This%20famous%20statement)
+
 
 the future of status and prestige is authentic computable context & reputation on top of immutable cryptohistory
 
@@ -197,6 +199,16 @@ what if DeSci was part of this giant global graph/brain? observation, experiment
 
 TODO:
 DeSci isn't about a token and a DAO that funds X research - it's reproducible research interwoven with a global identity & reputation semantic network
+
+How about the science of addiction - that was initially entirely focused around the chemistry and ignored the psycjvology? Isolated rats in cages with just 2 options: cocaine and clean water. Rat park came later - a lot later - with almost no compulsive use and overdose
+
+We should fuse science with social media - but a new and improved version of social media
+
+How many more foundational studies that underpin our model of the world are completely wrong?
+
+The demonization of saturated fat was started by scientists who were paid off about 50k$ - our entire modern food pyramid is influenced by that
+Ancel Keys
+
 
 Jupiter notebooks for decentralized social science?
 

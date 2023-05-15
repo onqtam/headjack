@@ -1,4 +1,50 @@
 
+
+- cryptohistory
+- your digital footprint
+- giant global graph
+    - pull that up jamie
+    - semantic web
+    - the metaverse
+- organizing information
+    - provenance, deduplication & authenticity
+    - language
+    - structured data
+- structure & aggregation
+- aggregation tools
+    - voting & liquid democracy
+    - anonymity
+    - aggregation
+    - models
+    - calculemus
+- attention is all you have
+    - consciousness
+    - our collective attention model
+    - algorithms & incentives
+    - media & manipulation
+- collective intelligence
+    - values, goals & lists
+    - labeling, tagging, moderation
+    - reputation systems
+    - science
+    - shit is fucked up and stuff
+    - cybernetics & control theory & feedback loops
+    - sensemaking
+    - sankey diagram everything
+    - immune system
+    - querying & sociology - done by anyone
+    - the alignment problem
+- the superapp
+- can't be evil
+- business models
+- startup case study
+- The Metaverse manual: a How-to guide
+- what really is headjack
+
+
+- infrastructure stuff?
+- economics & startups & competition? startup case study as part of that? "the competitive landscape"
+
 <!-- toc -->
 
 ██████████████████████████████████████████████████████████████████

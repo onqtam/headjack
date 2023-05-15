@@ -9,13 +9,6 @@ Multidimensional subscriptions & areas of interest can aid algorithms to serve m
 The most important aspect of today's media are the [recommendation systems](https://en.wikipedia.org/wiki/Recommender_system) that guide our attention and ultimately our thoughts, opinions & culture at scale. Most algorithms we use are [black boxes](problems_with_the_web.md#black-boxes--algorithmic-bias) - we don't know what they are nor how the ML models are parameterized & trained and if there's any (intentional) bias. And even if that was public information - there would be no way to check because we don't have access to the data either. Furthermore, nobody can build new competing indexes, models & recommendation engines and we're left with the lowest common denominator that optimizes mostly for engagement & time spent in the attention economy.
 
 
-Is it a coincidence that one of the most important papers in AI/ML that introduced transformers was called `"Attention is all you need"`?
-
-One of the most transformative (pun intended) papers in AI/ML is called ...
-
-
-
-<!-- > "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - [Herbert A. Simon](https://www.brainyquote.com/quotes/herbert_a_simon_181919) -->
 
 <!-- toc -->
 
@@ -115,9 +108,6 @@ Dr. Mariana Raykova (Google), INSAIT 2022 Conference: Exposure Notifications Pri
 https://www.youtube.com/watch?v=CqwhbD8gYqI
 
 
-
-A bold idea to replace politicians | César Hidalgo
-https://www.youtube.com/watch?v=CyGWML6cI_k
 -->
 
 

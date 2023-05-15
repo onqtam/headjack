@@ -19,6 +19,7 @@
     - [History 2.0: cryptohistory & authenticity](cryptohistory.md)
     - [Web 3: the Giant Global Graph](giant_global_graph.md)
     - [Your digital footprint](digital_footprint.md)
+    - [Attention is all you have](attention.md)
     - [Organizing information](organizing_information.md)
     - [Incentives & algorithms](incentives_algorithms.md)
     - [Collective intelligence](collective_intelligence.md)

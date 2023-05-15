@@ -243,6 +243,71 @@ https://followmyvote.com/liquid-democracy/
 Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System
 https://arxiv.org/pdf/1911.08774.pdf
 
+██████████████████████████████████████████████████████████████████
+# immune system & negative feedback
+██████████████████████████████████████████████████████████████████
+
+Yesterday, @MichelleObama announced she is partnering with a junk food company to sell sugar water to kids. We must speak plainly: this is a cynical cash grab. 
+https://twitter.com/calleymeans/status/1654188254336528385
+
+Transitive negative signals: anything relying on this even indirectly should be notified about X
+
+we can reach a consensus what type of negative reputation we want to see
+
+Its not advertising thats the problem - its the lack of negative reputation and the lack pf an immune system
+
+Signaling slot machine tactics through negative reputation
+
+we need to counteract market failures and negative externalities but currently we don't have the means to do so - we can't come to a consensus and organize
+
+wealth leads to power over regulation which leads to making more money in the market - a positive feedback loop that doesn't have a counteracting force - such systems are unstable and self-terminate
+
+The Personal Responsibility Vortex: Bret Weinstein
+https://www.youtube.com/watch?v=SjNRtrZjkfE
+^^ link to this - it is important
+
+Gm killed the electric car - that should haunt them for eternity. And no, they didn't "lead", and that matters
+Mary, you electrified the entire auto industry, you led, and it matters
+https://www.youtube.com/watch?v=UduPjk9gonw
+
+What if we can flag stores for manipulative placement of goods - such as sugary stuff close to the isles and cashiers - because thats when people are tempted the most? Why cant we influence the real world?
+
+Without negative reputation we cant develop an immune system
+Our societal immune system to bullshit is handicapped - crippled
+
+https://en.wikipedia.org/wiki/Positive_feedback
+
+https://en.wikipedia.org/wiki/Negative_feedback
+
+https://www.google.com/search?q=positive+vs+negative+feedback+loop&tbm=isch&ved=2ahUKEwiLuYi73-r-AhXhUOUKHeNuCFwQ2-cCegQIABAA&oq=positive+vs+negative+feedback+loop&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIGCAAQCBAeOgQIIxAnOgcIABCKBRBDOgYIABAHEB5QpAhY8iBgqSJoAHAAeACAAZsBiAHwDZIBBDEyLjaYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=NI1bZIvPLeGhlQfj3aHgBQ#imgrc=79fKTjfMMxYgQM
+
+> "The adaptive immune system is a complex system involving different immune cells, signaling molecules and cytokines, however, the importance of different feedback and feedforward loops (FFLs) and the underlying crosstalks are often overlooked. In particular, negative feedback loops are very important in regulating the response that determines immunity vs. tolerance." - [Importance of Feedback and Feedforward Loops to Adaptive Immune Response Modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6202469/#:~:text=The%20adaptive%20immune%20system,determines%20immunity%20vs.%20tolerance.)
+
+Today's economy driven by advertising is mostly comprised of positive feedback loops but we also need to develop channels for negative feedback loops
+a positive feedback loop: advertising tricks us into buying processed food which makes us sicker which takes a toll on our finances and happiness which leads to going back to food for pleasure
+positive feedback loops in the economy are way stronger than negative feedback loops because of the disproportionate influence of money and advertising over us
+
+
+> "Daily, we see things that are clearly wrong. Indeed, they are clearly, terminally unsustainable. They are all around us, maddeningly so. And yet we find ourselves entirely powerless to do anything about them. We want to address these problems, but find that all of the particular paths of agency invented in the 20th century are impotent. Union and protest movements, the democratic process — none of these tools work any longer." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=Daily%2C%20we%20see,work%20any%20longer.)
+
+> "The problem, however, is not that we lack power. The problem is that we haven’t adequately imagined how to deploy this power into our contemporary environments." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=The%20problem%2C%20however%2C%20is%20not%20that%20we%20lack%20power.%20The%20problem%20is%20that%20we%20haven%E2%80%99t%20adequately%20imagined%20how%20to%20deploy%20this%20power%20into%20our%20contemporary%20environments.)
+
+> "The ‘angry smart mob’ can push back. Indeed, the object of the ‘angry smart mob’ is not simply to influence or restrain Monsanto, but to remove Monsanto from the map completely. A good old fashioned “head on a pike” to send a message to all other corporations: a new sheriff is in town." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=The%20%E2%80%98angry%20smart%20mob%E2%80%99%20can%20push%20back.%20Indeed%2C%20the%20object%20of%20the%20%E2%80%98angry%20smart%20mob%E2%80%99%20is%20not%20simply%20to%20influence%20or%20restrain%20Monsanto%2C%20but%20to%20remove%20Monsanto%20from%20the%20map%20completely.%20A%20good%20old%20fashioned%20%E2%80%9Chead%20on%20a%20pike%E2%80%9D%20to%20send%20a%20message%20to%20all%20other%20corporations%3A%20a%20new%20sheriff%20is%20in%20town.)
+
+> "The second step takes more research: map their supply chain. The objective here is to find every point in the market that is in a position to influence and effect Monsanto and is directly touched by consumers. Let’s say, for example, that McDonalds is a big customer of agribusinesses who are themselves big customers of Monsanto. If so, then McDonalds and their suppliers go “on the List”." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=The%20second%20step,on%20the%20List%E2%80%9D.)
+
+> "The more sociopathic multinational corporations on the List the better. A big part of the ‘angry smart mob’ is using sociopathic corporations against each-other." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=the%20more%20sociopathic%20multinational%20corporations%20on%20the%20List%20the%20better.%20A%20big%20part%20of%20the%20%E2%80%98angry%20smart%20mob%E2%80%99%20is%20using%20sociopathic%20corporations%20against%20each%2Dother.)
+
+> "Time to light the torches: create a pledge. The pledge is simple: “I pledge to not buy anything from any of the companies on the List so long as they do business with any company that is connected with Monsanto.” McDonalds, want me to buy another McWhatever? Then you need to get busy changing to a non-Monsanto supplier for your potatoes." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=Time%20to%20light,for%20your%20potatoes.)
+
+> "What we are doing is combining social proof (people I know are making this pledge and people I know, know I have done so as well) with a relatively easy action. Not going to McDonalds isn’t quite as easy as clicking “like” but it is in the same ballpark. This kind of combo can both go viral and drive action." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=what%20we%20are,and%20drive%20action.)
+
+> "Did Burger King just announce that they are cutting their contract with supplier X? Once they do, don’t just take them off the List, show them the love! Being on the List should mean death — getting off the list should mean life and wealth." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=Did%20Burger%20King%20just%20announce%20that%20they%20are%20cutting%20their%20contract%20with%20supplier%20X%3F%20Once%20they%20do%2C%20don%E2%80%99t%20just%20take%20them%20off%20the%20List%2C%20show%20them%20the%20love!%20Being%20on%20the%20List%20should%20mean%20death%20%E2%80%94%20getting%20off%20the%20list%20should%20mean%20life%20and%20wealth.)
+
+> "The market is heartless and it is more than happy to eat its own." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=The%20market%20is%20heartless%20and%20it%20is%20more%20than%20happy%20to%20eat%20its%20own.)
+
+
+
 
 ██████████████████████████████████████████████████████████████████
 # privacy & anonymity
@@ -251,6 +316,8 @@ https://arxiv.org/pdf/1911.08774.pdf
 > "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps" - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
 
 Private opinions for polls - you might not want them public but still to be able to compare with those who are public
+
+Wikileaks - zkLeaks !!!
 
 we can have an anonymized debate at scale between millenials vs boomers or gen X-ers
 

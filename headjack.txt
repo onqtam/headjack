@@ -95,7 +95,7 @@ what if your youtube-like video feed was based on the recommendations or positiv
 > "If you look at the trajectory of life on Earth it's really about information processing." - [Manolis Kellis](https://youtu.be/wMavKrA-4do?t=657), computational biologist at MIT
 
 
-
+> "Always remember: corporate journalists are just dogs on a leash, hitmen for old money. They’ll never criticize their bosses or even mention them." - [Balaji Srinivasan](https://twitter.com/balajis/status/1657869478338912257)
 
 
 
@@ -141,7 +141,7 @@ socio-reputational regulatory mechanisms
 == immune system chapter
 We can crowdsource the weights for any algorithm
 We need to shift the incentives from content to pure signal, delegation and actual impact
-Behavior != revealed preference! Just because I clicked on a car crash video doesnt mean thats all i want
+Behavior != revealed preference! Just because I clicked on a car crash video or a cute cat doesn't mean thats all I want to see from now on
 
 
 == weights and parameters in algorithms
@@ -310,7 +310,6 @@ what if we separated statements from fact-checking?
 
 
 https://twitter.com/NYTScience
-
 NYT Science should be just content from the NYT that has the science tag/label
 
 
@@ -364,7 +363,10 @@ https://www.youtube.com/watch?v=n5ECz1YK30M
 
 > "The medium really is the message: change the platform, change the game." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=The%20medium%20really%20is%20the%20message%3A%20change%20the%20platform%2C%20change%20the%20game.)
 
-> "The problem, however, is not that we lack power. The problem is that we haven’t adequately imagined how to deploy this power into our contemporary environments." - [Beyond torches and pitchforks: reimagining the angry mob, by Jordan Hall](https://medium.com/practical-imagination/beyond-torches-and-pitchforks-reimagining-the-angry-mob-67594032f49d#:~:text=The%20problem%2C%20however%2C%20is%20not%20that%20we%20lack%20power.%20The%20problem%20is%20that%20we%20haven%E2%80%99t%20adequately%20imagined%20how%20to%20deploy%20this%20power%20into%20our%20contemporary%20environments.)
+
+
+
+
 
 > "Wars are won by choosing the battlefield. And the battlefield of politics is media." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Wars%20are%20won%20by%20choosing%20the%20battlefield.%20And%20the%20battlefield%20of%20politics%20is%20media.)
 
@@ -607,12 +609,13 @@ https://www.frontiersin.org/files/Articles/493866/fpsyg-10-02688-HTML/image_m/fp
 
 
 
+> "Attention is the flexible control of limited computational resources. Why those resources are limited and how they can best be controlled will vary across use cases, but the ability to dynamically alter and route the flow of information has clear benefits for the adaptiveness of any system." - [Attention in Psychology, Neuroscience, and Machine Learning](https://www.frontiersin.org/articles/10.3389/fncom.2020.00029/full#:~:text=Attention%20is%20the%20flexible%20control%20of%20limited%20computational%20resources.%20Why%20those%20resources%20are%20limited%20and%20how%20they%20can%20best%20be%20controlled%20will%20vary%20across%20use%20cases%2C%20but%20the%20ability%20to%20dynamically%20alter%20and%20route%20the%20flow%20of%20information%20has%20clear%20benefits%20for%20the%20adaptiveness%20of%20any%20system.)
 
 
 
-Today's economy driven by advertising is mostly comprised of positive feedback loops but we also need to develop channels for negative feedback loops
-a positive feedback loop: advertising tricks us into buying processed food which makes us sicker which takes a toll on our finances and happiness which leads to going back to food for pleasure
-positive feedback loops in the economy are way stronger than negative feedback loops because of the disproportionate influence of money and advertising over us
+
+
+
 
 
 
@@ -1557,7 +1560,7 @@ Ancient technology in egypt? Give links as evidence
 
 As a large language model trained by OpenAI, ... just kidding.
 
-
+What happens to URIs with names that get used in a blob which doesnt get anchored immediately and name ownership changes before it gets anchored?
 
 ██████ slogans
 
