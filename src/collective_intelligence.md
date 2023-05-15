@@ -252,6 +252,8 @@ we can reach a consensus what type of negative reputation we want to see
 
 We can choose the types of negative reputation and we can vote on norms too
 
+sunlight is the best disenfecatant
+
 > "Advertising is legitimised lying." - [H. G. Wells](https://www.goodreads.com/quotes/37198-advertising-is-legitimised-lying)
 
 
