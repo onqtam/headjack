@@ -10,36 +10,48 @@
     - provenance, deduplication & authenticity
     - language
     - structured data
-- structure & aggregation
-- aggregation tools
+    - clips?
+    - debate maps & "subreddits" for any node/edge/entity/event/concept/statement
+- aggregation & computable context
+    - verifiable credentials and attestations
     - voting & liquid democracy
     - anonymity
     - aggregation
-    - models
+    - models & multiple points of view
+    - multidimensional wikipedia
+    - communities
+    - labeling, tagging, moderation - who watches the watchmen
     - calculemus
+    - reputation systems
 - attention is all you have
     - consciousness
+    - relevance realization
     - our collective attention model
     - algorithms & incentives
+    - weights & parameters of recommendation algorithms
     - media & manipulation
 - collective intelligence
+    - all intelligence is collective intelligence
+    - cybernetics & control theory & feedback loops
+    - the global connectome
     - values, goals & lists
-    - labeling, tagging, moderation
-    - reputation systems
     - science
     - shit is fucked up and stuff
-    - cybernetics & control theory & feedback loops
     - sensemaking
     - sankey diagram everything
+    - spreadsheets
     - immune system
-    - querying & sociology - done by anyone
-    - the alignment problem
+    - querying & sociology - done by anyone, LLMs
+    - AGI & the alignment problem
+    - the third attractor
 - the superapp
 - can't be evil
 - business models
 - startup case study
 - The Metaverse manual: a How-to guide
 - what really is headjack
+    - narrow waist
+    - 100 ways to describe Headjack
 
 
 - infrastructure stuff?
