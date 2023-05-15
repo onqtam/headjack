@@ -254,6 +254,11 @@ Transitive negative signals: anything relying on this even indirectly should be 
 
 we can reach a consensus what type of negative reputation we want to see
 
+We can choose the types of negative reputation and we can vote on norms too
+
+> "Advertising is legitimised lying." - [H. G. Wells](https://www.goodreads.com/quotes/37198-advertising-is-legitimised-lying)
+
+
 Its not advertising thats the problem - its the lack of negative reputation and the lack pf an immune system
 
 Signaling slot machine tactics through negative reputation

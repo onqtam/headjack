@@ -136,6 +136,12 @@ The explicit user preferences such as subscriptions & the social graph (followin
 
 
 
+the lone German who refused to give Hitler the Nazi salute
+https://i.insider.com/559413cc6da811895b51e628?width=1200&format=jpeg
+https://www.businessinsider.com/the-lone-german-man-who-refused-to-give-hitler-the-nazi-salute-2015-6
+
+
+
 
 > "The companies that do the best job on managing a user's privacy will be the companies that ultimately are the most successful." - [Fred Wilson](https://www.azquotes.com/quote/317282)
 
