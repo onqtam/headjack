@@ -37,6 +37,9 @@
     - weights & parameters of recommendation algorithms
     - (broadcast) media & manipulation
 - collective intelligence
+
+    coherence !!!
+
     - all intelligence is collective intelligence
     - cybernetics & control theory & feedback loops
     - the global connectome
