@@ -28,8 +28,9 @@
     - calculemus
     - reputation systems
     - Aggregate sentiment - the big picture
+    - computation and storage as the limiting factor
 - attention is all you have
-    - consciousness
+    - attention, awareness and consciousness
     - relevance realization
     - our collective attention model
     - algorithms & incentives
@@ -42,10 +43,12 @@
     - values, goals & lists
     - science
     - shit is fucked up and stuff
+    - Epistemological bankruptcy
     - sensemaking
     - sankey diagram everything
     - reward circuits
-    - spreadsheets
+    - spreadsheets - Layered multi-governance
+    - Regulation without regulators
     - data driven - plot everything on charts
     - immune system
     - querying & sociology - done by anyone, LLMs
