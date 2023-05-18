@@ -18,9 +18,9 @@
 - [Why Headjack v2](topics.md)
     - [History 2.0: cryptohistory & authenticity](cryptohistory.md)
     - [Web 3: the Giant Global Graph](giant_global_graph.md)
-        <!-- - pull that up jamie -->
-        <!-- - semantic web -->
-        <!-- - the metaverse -->
+        - [pull that up jamie]()
+        - [semantic web]()
+        - [the metaverse]()
     - [Your digital footprint](digital_footprint.md)
 
     - [Computable context & identity](digital_footprint.md)

@@ -33,6 +33,7 @@
     - attention, awareness and consciousness
     - relevance realization
     - our collective attention model
+    - availability cascades
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
     - (broadcast) media & manipulation
