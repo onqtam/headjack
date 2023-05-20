@@ -208,6 +208,8 @@ https://twitter.com/armada_infra/status/1584942215217836032
 
 # Optimal archiving (like the [Internet Archive](https://en.wikipedia.org/wiki/Internet_Archive))
 
+the internet archive is incredibly inefficient because of the web of documents - not of data
+
 - Actively polling all websites on earth periodically & to check for changes and save snapshots won't be necessary - instead it will just watch & save all incoming events and have a complete history without any redundant data & inefficiencies.
 - By [decoupling content & presentation HTML](TODO.md#code-as-addressable-data) only the essential could be saved. Applications can signal a change with a new message type in what they serve to browsers for presentation & rendering of content which the archival service could save throughout time as well to provide the historical views. Data duplication in snapshots can be driven to 0.
 - Content that is no longer accessible through the original application that published it and is not archived by the user that posted it (but hasn't been explicitly deleted) would still be accessible by anyone with the same persistent URIs when querying an archival service.
