@@ -1,6 +1,6 @@
 
 
-- cryptohistory
+- cryptohistory - in can't be evil?
 - your digital footprint
     - ...
     - ...
@@ -21,7 +21,7 @@
     - aggregation
     - models & multiple points of view
     - fact databases & oracles
-    - multidimensional wikipedia
+    - multidimensional wikipedia - MULTIPEDIA
     - communities
     - labeling, tagging, moderation - who watches the watchmen
         community notes?
@@ -31,8 +31,10 @@
     - computation and storage as the limiting factor
 - attention is all you have
     - attention, awareness and consciousness
+    - "attention is the cursor of consciousness" - by Jim Rutt
     - relevance realization
     - our collective attention model
+    - ability to limit yourself digitally - time restricted consumption? notifications?
     - availability cascades
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
