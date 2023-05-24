@@ -43,6 +43,10 @@ events must be self-authenticating - and not requiring that the source (original
 TODO cache the merkle root & IPFS CID from blocks in the state?
 
 
+
+https://www.paradigm.xyz/2023/01/eth-rng#block-hash-oracle-contract-via-snarks
+
+
 if the blockchain doesn't store the full history of authorizations & keys forever then state merkle proofs will have to be saved at some point
 
     - Recursive merkleization of checkpointed L1 blocks/stateRoots so that anything can be referenced even with just the tip of the chain

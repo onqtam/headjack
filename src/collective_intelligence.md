@@ -186,7 +186,30 @@ Reputation page and the message types that polls could be
 
 empowerment - voter apathy is best explained by the disbelief that their vote would matter or that the pool of options is constrained and nothing is good enough. Also the complexity and cost of actually having a well informed opinion and the lack of ability to delegate automatically to someone they trust
 
+The Key Attributes of Liquid Democracy:
+https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=The%20Key%20Attributes%20of%20Liquid%20Democracy%3A
+"Second, we would see increased citizen engagement, a sense of ownership, and higher voting participation rates."
+
+
+> "Even citizens who remained minimally politically engaged — perhaps just resetting their proxies in the main issue areas every year or two — would experience an enhanced sense of ownership of the process of governance, with only a small investment of time." - [An Introduction to Liquid Democracy, by Jim Rutt](https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=Even%20citizens%20who%20remained%20minimally%20politically%20engaged%20%E2%80%94%20perhaps%20just%20resetting%20their%20proxies%20in%20the%20main%20issue%20areas%20every%20year%20or%20two%20%E2%80%94%20would%20experience%20an%20enhanced%20sense%20of%20ownership%20of%20the%20process%20of%20governance%2C%20with%20only%20a%20small%20investment%20of%20time.)
+
+
+> "One approach to this challenge is to have the Liquid Democracy software platform build in levels of viscosity, that is, ways of slowing down the overall process and requiring reconsideration and confirmation of decisions possibly made in haste." - [An Introduction to Liquid Democracy, by Jim Rutt](https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=One%20approach%20to%20this%20challenge%20is%20to%20have%20the%20Liquid%20Democracy%20software%20platform%20build%20in%20levels%20of%20viscosity%2C%20that%20is%2C%20ways%20of%20slowing%20down%20the%20overall%20process%20and%20requiring%20reconsideration%20and%20confirmation%20of%20decisions%20possibly%20made%20in%20haste.)
+
+> "A related problem concerns protections from the “tyranny of the majority.” The Founders of this nation were right to have a Bill of Rights, and to arrange for the protection of minority opinions. In addition to viscosity playing a role in slowing things down, super majorities could be required for certain types of actions, such as those limiting civil liberties, or declarations of war." - [An Introduction to Liquid Democracy, by Jim Rutt](https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=A%20related%20problem,declarations%20of%20war.)
+
+> "Another problem to watch for concerns mob psychology and runaway feedback loops. The cartoon below shows all the dogs on a life raft raising a paw to affirm their leader’s injunction to eat all of the salvaged dog food immediately. Bad decision! As books like [Extraordinary Popular Delusions and the Madness of Crowds](https://www.goodreads.com/book/show/162120.Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds) show, human beings are quite capable of developing mass delusions, so it is not too hard to envision a terrible idea gaining credence and rapidly spreading through the proxy delegation process." - [An Introduction to Liquid Democracy, by Jim Rutt](https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=Another%20problem%20to,proxy%20delegation%20process.)
+
+
+good to link to it as a reference on liquid democracy:
+https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f
+
+todo: read:
+https://bford.info/2014/11/16/deleg.html
+
 https://medium.com/organizer-sandbox/liquid-democracy-true-democracy-for-the-21st-century-7c66f5e53b6f#.3w8dw2p99:~:text=3%20of%20the%20main%20problems%3A
+
+https://democracy.foundation/similar-projects/
 
 liquid democracy is made easier when concepts and assertions have unique stable IDs that can be pointed to
 

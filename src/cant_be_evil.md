@@ -169,7 +169,7 @@ https://www.businessinsider.com/the-lone-german-man-who-refused-to-give-hitler-t
 
 
 
-
+> "The natural flow of technology tends to move in the direction of making surveillance easier." - [Zimmerman's Law](https://twitter.com/lopp/status/1660817471983751168)
 
 
 
