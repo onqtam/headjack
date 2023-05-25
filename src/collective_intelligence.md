@@ -201,8 +201,16 @@ https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=The%20Key%20A
 > "Another problem to watch for concerns mob psychology and runaway feedback loops. The cartoon below shows all the dogs on a life raft raising a paw to affirm their leader’s injunction to eat all of the salvaged dog food immediately. Bad decision! As books like [Extraordinary Popular Delusions and the Madness of Crowds](https://www.goodreads.com/book/show/162120.Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds) show, human beings are quite capable of developing mass delusions, so it is not too hard to envision a terrible idea gaining credence and rapidly spreading through the proxy delegation process." - [An Introduction to Liquid Democracy, by Jim Rutt](https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=Another%20problem%20to,proxy%20delegation%20process.)
 
 
-good to link to it as a reference on liquid democracy:
+good to link to these as a reference on liquid democracy:
 https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f
+
+
+> "The roots of our problems, however, go deeper than the many faults of the two major parties, numerous as they are. Instead — and this is critical to note — our problems are predictable attributes of a system that operates like ours." - [Reclaiming American Democracy — Starting Right NOW!, by Jim Rutt](https://medium.com/@memetic007/reclaiming-american-democracy-starting-right-now-339c13ed5a4#:~:text=The%20roots%20of%20our%20problems%2C%20however%2C%20go%20deeper%20than%20the%20many%20faults%20of%20the%20two%20major%20parties%2C%20numerous%20as%20they%20are.%20Instead%20%E2%80%94%20and%20this%20is%20critical%20to%20note%20%E2%80%94%20our%20problems%20are%20predictable%20attributes%20of%20a%20system%20that%20operates%20like%20ours.)
+
+> "Liquid Democracy is a technologically enabled and scalable hybrid of direct and representative democracy. It enables voters to vote for themselves on some or all issues or to delegate their vote to individuals or not-for-profit organizations of their choice: those whom they trust or whose expertise they believe in." - [Reclaiming American Democracy — Starting Right NOW!, by Jim Rutt](https://medium.com/@memetic007/reclaiming-american-democracy-starting-right-now-339c13ed5a4#:~:text=Liquid%20Democracy%20is,they%20believe%20in.)
+
+> "An animal that has repeatedly been stopped from venturing beyond a certain point will eventually completely give up all exploratory attempts — even if previous barriers or limiting conditions have been removed. We are not all that different on a root behavioral level." - [Reclaiming American Democracy — Starting Right NOW!, by Jim Rutt](https://medium.com/@memetic007/reclaiming-american-democracy-starting-right-now-339c13ed5a4#:~:text=An%20animal%20that%20has%20repeatedly%20been%20stopped%20from%20venturing%20beyond%20a%20certain%20point%20will%20eventually%20completely%20give%20up%20all%20exploratory%20attempts%20%E2%80%94%20even%20if%20previous%20barriers%20or%20limiting%20conditions%20have%20been%20removed.%20We%20are%20not%20all%20that%20different%20on%20a%20root%20behavioral%20level.)
+
 
 todo: read:
 https://bford.info/2014/11/16/deleg.html

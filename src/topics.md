@@ -1,5 +1,10 @@
 
 
+
+tribe diffusion - ending the bipolar political divide
+
+
+
 - cryptohistory - in can't be evil?
 - your digital footprint
     - ...
@@ -52,7 +57,7 @@
     - Epistemological bankruptcy
     - sensemaking
     - sankey diagram everything
-    - reward circuits
+    - reward circuits - reimagining status, dopamine, multidimensional status
     - spreadsheets - Layered multi-governance
     - Regulation without regulators
     - data driven - plot everything on charts

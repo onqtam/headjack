@@ -62,5 +62,5 @@ According to AST ([video](https://www.youtube.com/watch?v=ZlDBYAJ1oUw))
 
 
 
-<!-- > "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - [Herbert A. Simon](https://www.brainyquote.com/quotes/herbert_a_simon_181919) -->
+> "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - [Herbert A. Simon](https://www.brainyquote.com/quotes/herbert_a_simon_181919)
 
