@@ -38,10 +38,6 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 > "In short, we have lost our cognitive sovereignty. We aren’t much more than trained lab rats when it comes to compulsively looking at our phones 80 to 300 times a day!" - [Reclaiming Our Cognitive Sovereignty, by Jim Rutt](https://medium.com/@memetic007/reclaiming-our-cognitive-sovereignty-f49f30eb26bb#:~:text=In%20short%2C%20we%20have%20lost%20our%20cognitive%20sovereignty.%20We%20aren%E2%80%99t%20much%20more%20than%20trained%20lab%20rats%20when%20it%20comes%20to%20compulsively%20looking%20at%20our%20phones%2080%20to%20300%20times%20a%20day!)
 
-> "" - [, by Jim Rutt]()
-
-
-
 
 
 
@@ -200,6 +196,8 @@ sociopathic corporations
 also lacks an immune system - leaving market forces unchecked.
 with the goal of reaching sustainability and homeostasis.
 Nobody is truly in the driver's seat - the system is running on its own
+
+The current economy is the dreaded paperclip maximizer
 
 quote goes here: power of gods but not the wisdom
 

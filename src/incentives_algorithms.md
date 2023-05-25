@@ -131,8 +131,6 @@ when twitter decide engagement is low they shove down your throat nonsense algor
 
 > "To be everywhere is to be nowhere." ― Seneca
 
-> "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - Herbert A. Simon
-
 
 ██████████████████████████████████████████████████████████████████
 # recommender algorithms
