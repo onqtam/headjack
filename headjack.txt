@@ -2,6 +2,7 @@
 
 
 
+
 > "What are “basins of attraction”? Think of a rubber sheet with some heavy lead balls on it. Systems are stable in the basins, in the places where the weights create a depression in the rubber sheets, and they’re unstable between the basins. Over time, it’s typical that complex systems move between basins." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=What%20are%20%E2%80%9Cbasins,move%20between%20basins.)
 
 IMAGE !!!
