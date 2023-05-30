@@ -70,6 +70,11 @@ https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306
 
 
 
+> "Increasingly, Modern AI is now the study of digital domestication: the art and science of taming wild internet-scale data distributions." - [Modern AI is Domestification](https://thegradient.pub/ai-is-domestification/#:~:text=Increasingly%2C%20Modern%20AI%20is%20now%20the%20study%20of%20digital%20domestication%3A%20the%20art%20and%20science%20of%20taming%20wild%20internet%2Dscale%20data%20distributions.)
+
+> "The trillion-dollar question becomes: how do you amplify the good priors in the dataset while suppressing the bad priors? How do you tame the raw models captured directly from wild heterogenous internet distributions?" - [Modern AI is Domestification](https://thegradient.pub/ai-is-domestification/#:~:text=The%20trillion%2Ddollar%20question%20becomes%3A%20how%20do%20you%20amplify%20the%20good%20priors%20in%20the%20dataset%20while%20suppressing%20the%20bad%20priors%3F%20How%20do%20you%20tame%20the%20raw%20models%20captured%20directly%20from%20wild%20heterogenous%20internet%20distributions%3F)
+
+
 
 
 

@@ -40,7 +40,7 @@ tribe diffusion - ending the bipolar political divide
     - relevance realization
     - our collective attention model
     - ability to limit yourself digitally - time restricted consumption? notifications?
-    - availability cascades
+    - availability cascades !!!
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
     - (broadcast) media & manipulation
