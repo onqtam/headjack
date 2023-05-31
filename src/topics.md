@@ -12,6 +12,7 @@ tribe diffusion - ending the bipolar political divide
 - giant global graph
     - pull that up jamie
     - semantic web
+        - document-centric to data-centric - linked data instead of linked documents
     - the metaverse
 - organizing information
     - provenance, deduplication & authenticity
