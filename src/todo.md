@@ -434,6 +434,8 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 
 <!-- > "He who has a why to live for can bear almost any how." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/137-he-who-has-a-why-to-live-for-can-bear) -->
 
+<!-- > "Those who have a 'why' to live, can bear with almost any 'how'." - [Viktor E. Frankl](https://www.goodreads.com/quotes/315385-those-who-have-a-why-to-live-can-bear-with) -->
+
 > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
