@@ -3,6 +3,12 @@
 
 tribe diffusion - ending the bipolar political divide
 
+credentials?
+https://twitter.com/eriktorenberg/status/1217590443468185600
+
+
+COMPLEX ADAPTIVE SYSTEMS !!!
+
 
 
 - cryptohistory - in can't be evil?
@@ -42,6 +48,8 @@ tribe diffusion - ending the bipolar political divide
     - our collective attention model
     - ability to limit yourself digitally - time restricted consumption? notifications?
     - availability cascades !!!
+    - the current thing
+        https://eriktorenberg.substack.com/i/57968918/are-current-things-true
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
     - (broadcast) media & manipulation
