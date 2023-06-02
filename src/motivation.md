@@ -11,6 +11,8 @@ Users & devs
 https://imgflip.com/memegenerator/144961820/Trojan-Horse
 https://imgflip.com/memegenerator/162372564/Domino-Effect -->
 
+synthesis
+
 The web is broken on many fronts - this chapter explores many problematic aspects and how they can be completely solved or at least improved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
 
 Not all combinations will be possible due to 3 reasons: complexity for users, a combinatorial explosion in computation and technical feasibility. But a meaningful set of never-before-seen functionality will emerge and it will have the capacity to evolve gradually to any other subset.
