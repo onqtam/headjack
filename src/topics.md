@@ -8,7 +8,7 @@ https://twitter.com/eriktorenberg/status/1217590443468185600
 
 
 COMPLEX ADAPTIVE SYSTEMS !!!
-
+embracing complexity
 
 Gamification
 
