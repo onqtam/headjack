@@ -70,6 +70,7 @@ What if:
 - less need for translation & localization
 - less need for content moderation
 - less emotionally manipulative language & framing such as the [Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation)
+    https://twitter.com/AshleyRindsberg/status/1666052378083352578
 - less need to think of the right words - reducing friction in expression
 
 Russel conjugation - horse dewormer vs ivermectin

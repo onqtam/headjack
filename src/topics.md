@@ -12,6 +12,9 @@ embracing complexity
 
 Gamification
 
+cui bono
+
+connectionism
 
 meaning
 https://www.psychologytoday.com/us/blog/mind-in-the-machine/202212/the-psychological-benefits-finding-your-cosmic-purpose
@@ -84,6 +87,8 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - a shared grand narrative
 - the superapp
     - home page & feeds
+    - augmented reality
+        https://joshcarpenter.ca/composable-3d-web/
 - can't be evil
 - business models
 - startup case study
