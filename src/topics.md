@@ -65,6 +65,9 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
     - (broadcast) media & manipulation
+    - visualizing our attention - vascularization, the law of flow, sankey diagram
+        https://underthrow.substack.com/p/the-law-of-flow-is-everywhere
+        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2871904/
 - collective intelligence
 
     coherence !!!
@@ -87,6 +90,7 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - Regulation without regulators
     - immune system
     - sensemaking
+    - developing the prefrontal cortex (plannig, delayed gratification) of the global brain
     - AGI & the alignment problem
     - the third attractor
     - a shared grand narrative

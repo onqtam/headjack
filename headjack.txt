@@ -5,7 +5,7 @@
 
 > "What are “basins of attraction”? Think of a rubber sheet with some heavy lead balls on it. Systems are stable in the basins, in the places where the weights create a depression in the rubber sheets, and they’re unstable between the basins. Over time, it’s typical that complex systems move between basins." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=What%20are%20%E2%80%9Cbasins,move%20between%20basins.)
 
-IMAGE !!!
+IMAGE !!! attractors on a fitness landscape
 https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.png
 
 > "Why is government around the world in the pocket of finance and big business? Because money in politics has allowed big money to hack the political system." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=Why%20is%20government%20around%20the%20world%20in%20the%20pocket%20of%20finance%20and%20big%20business%3F%20Because%20money%20in%20politics%20has%20allowed%20big%20money%20to%20hack%20the%20political%20system.)
@@ -25,6 +25,9 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 > "If we don’t build a Game B, a “better attractor,” then when the change comes, it’s going to be to one of those bad attractors I talked about before, and I don’t think any of us wants that." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=If%20we%20don%E2%80%99t%20build%20a%20Game%20B%2C%20a%20%E2%80%9Cbetter%20attractor%2C%E2%80%9D%20then%20when%20the%20change%20comes%2C%20it%E2%80%99s%20going%20to%20be%20to%20one%20of%20those%20bad%20attractors%20I%20talked%20about%20before%2C%20and%20I%20don%E2%80%99t%20think%20any%20of%20us%20wants%20that.)
 
 
+
+
+> "The constructal law describes a principle in natural design: flow systems, animate and inanimate—people, rivers, trees, branches, tectonic plates, traffic, markets, and more—all act the same, in one crucial way. In order to survive, all these systems must adapt to accommodate the currents that flow through them, and they all evolve following a vascular pattern." - [Constructal law, by Adrian Bejan](https://qz.com/957711/everything-including-the-growing-income-disparity-can-be-explained-by-physics#:~:text=The%20constructal%20law%20describes,following%20a%20vascular%20pattern.)
 
 
 
@@ -153,9 +156,36 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 > "We can live our lives as if we are separate from the on-going evolutionary process, and make no conscious contribution to it. But individuals with evolutionary awareness will not find meaning or purpose in such a life. They will find no meaning in a life spent vigorously and energetically seeking the satisfaction of their pre-existing material and emotional urges." - [Evolution's Arrow: the direction of evolution and the future of humanity](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
 
 
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+> "" - [Evolution's Arrow: the direction of evolution and the future of humanity]()
+
+
+
+
+
+
 
 cooperation does not evolve easily
 
+
+> "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
+
+> "Our task is not to overthrow globalisation, but to capture it, and to use it as a vehicle for humanity’s first global democratic revolution." - [George Monbiot](https://www.monbiot.com/books/the-age-of-consent/#:~:text=Our%20task%20is%20not%20to%20overthrow%20globalisation%2C%20but%20to%20capture%20it%2C%20and%20to%20use%20it%20as%20a%20vehicle%20for%20humanity%E2%80%99s%20first%20global%20democratic%20revolution.)
 
 
 
@@ -1450,7 +1480,13 @@ https://youtu.be/gfKcVbNd7Xc?t=3238
 
 > "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." - [Albert Einstein](https://www.goodreads.com/quotes/14977-i-know-not-with-what-weapons-world-war-iii-will)
 
+> "With all my heart I believe that the world’s present system of sovereign nations can only lead to barbarism, war and inhumanity, and that only world law can assure progress towards a civilized peaceful community." - [Albert Einstein](https://quotefancy.com/quote/764188/Albert-Einstein-With-all-my-heart-I-believe-that-the-world-s-present-system-of-sovereign)
 
+> "Nationalism is an infantile disease. It is the measles of mankind." - [Albert Einstein](https://www.brainyquote.com/quotes/albert_einstein_107012)
+
+
+IMAGE: see no evil hear no evil
+https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._SL1500_-1.jpg?fit=660%2C382&ssl=1
 
 
 > "Sensemaking is the ability or attempt to make sense of an ambiguous situation. More exactly, sensemaking is the process of creating situational awareness and understanding in situations of high complexity or uncertainty in order to make decisions. It is “a motivated, continuous effort to understand connections (which can be among people, places, and events) in order to anticipate their trajectories and act effectively" - [Klein](https://thecynefin.co/what-is-sense-making/#:~:text=Sensemaking%20is%20the,and%20act%20effectively)
