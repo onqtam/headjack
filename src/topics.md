@@ -12,6 +12,8 @@ embracing complexity
 
 Gamification
 
+evolutionary activism
+
 cui bono
 
 connectionism
@@ -67,21 +69,24 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
 
     coherence !!!
 
+    COMPLEX ADAPTIVE SYSTEMS
+
     - all intelligence is collective intelligence
     - cybernetics & control theory & feedback loops
     - the global connectome
     - values, goals & lists
     - science
-    - shit is fucked up and stuff
-    - Epistemological bankruptcy
-    - sensemaking
     - sankey diagram everything
     - reward circuits - reimagining status, dopamine, multidimensional status
     - spreadsheets - Layered multi-governance
-    - Regulation without regulators
     - data driven - plot everything on charts
-    - immune system
     - querying & sociology - done by anyone, LLMs
+- alignment ??? the third attractor ???
+    - shit is fucked up and stuff
+    - Epistemological bankruptcy
+    - Regulation without regulators
+    - immune system
+    - sensemaking
     - AGI & the alignment problem
     - the third attractor
     - a shared grand narrative
