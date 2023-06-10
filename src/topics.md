@@ -93,6 +93,9 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - developing the prefrontal cortex (plannig, delayed gratification) of the global brain
     - AGI & the alignment problem
     - the third attractor
+    - overshoot
+        https://www.youtube.com/watch?v=LQTuDttP2Yg
+    - redefining prestige
     - a shared grand narrative
 - the superapp
     - home page & feeds
