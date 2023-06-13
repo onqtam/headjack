@@ -2,6 +2,27 @@
 
 
 
+Sentiment and Presentiment in Twitter: Do Trends in Collective Mood “Feel the Future”?
+https://www.tandfonline.com/doi/full/10.1080/02604027.2023.2216629
+
+
+
+
+
+
+
+
+> "The first phase of the information war was marked by distinctively human displays of incompetence and brute-force intimidation. But the next stage, already underway, is being carried out through both scalable processes of artificial intelligence and algorithmic pre-censorship that are invisibly encoded into the infrastructure of the internet, where they can alter the perceptions of billions of people." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=The%20first%20phase,billions%20of%20people.)
+
+> "Disinformation, now and for all time, is whatever they say it is. That is not a sign that the concept is being misused or corrupted; it is the precise functioning of a totalitarian system." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=Disinformation%2C%20now%20and%20for%20all%20time%2C%20is%20whatever%20they%20say%20it%20is.%20That%20is%20not%20a%20sign%20that%20the%20concept%20is%20being%20misused%20or%20corrupted%3B%20it%20is%20the%20precise%20functioning%20of%20a%20totalitarian%20system.)
+
+> "If the underlying philosophy of the war against disinformation can be expressed in a single claim, it is this: You cannot be trusted with your own mind." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=If%20the%20underlying%20philosophy%20of%20the%20war%20against%20disinformation%20can%20be%20expressed%20in%20a%20single%20claim%2C%20it%20is%20this%3A%20You%20cannot%20be%20trusted%20with%20your%20own%20mind.)
+
+> "It is a supreme irony that the very people who a decade ago led the freedom agenda for other countries have since pushed the United States to implement one of the largest and most powerful censorship machines in existence under the guise of fighting disinformation." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=It%20is%20a%20supreme%20irony%20that%20the%20very%20people%20who%20a%20decade%20ago%20led%20the%20freedom%20agenda%20for%20other%20countries%20have%20since%20pushed%20the%20United%20States%20to%20implement%20one%20of%20the%20largest%20and%20most%20powerful%20censorship%20machines%20in%20existence%20under%20the%20guise%20of%20fighting%20disinformation.)
+
+
+
+
 
 > "What are “basins of attraction”? Think of a rubber sheet with some heavy lead balls on it. Systems are stable in the basins, in the places where the weights create a depression in the rubber sheets, and they’re unstable between the basins. Over time, it’s typical that complex systems move between basins." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=What%20are%20%E2%80%9Cbasins,move%20between%20basins.)
 
@@ -228,11 +249,28 @@ cooperation does not evolve easily
 
 > "Non-zero-sumness (NZS) is the evolution of culture toward deeper and vaster social complexity—an increasing intertwining of our fates. In other words, the growing extent to which we become interdependent on each other." - [The Rise of Positive-Sum Thinking, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-rise-of-positive-sum-thinking#:~:text=Non%2Dzero%2Dsumness%20(NZS)%20is%20the%20evolution%20of%20culture%20toward%20deeper%20and%20vaster%20social%20complexity%E2%80%94an%20increasing%20intertwining%20of%20our%20fates.%20In%20other%20words%2C%20the%20growing%20extent%20to%20which%20we%20become%20interdependent%20on%20each%20other.)
 
-> "" - [Life Capital, by Erik Torenberg]()
+> "What if we could leverage the wisdom of crowds in a systematic way  —  if we could separate the experts from the charlatans  —  and then have the experts weigh in on crucial decisions?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20leverage%20the%20wisdom%20of%20crowds%20in%20a%20systematic%20way%20%E2%80%8A%E2%80%94%20%E2%80%8Aif%20we%20could%20separate%20the%20experts%20from%20the%20charlatans%20%E2%80%8A%E2%80%94%20%E2%80%8Aand%20then%20have%20the%20experts%20weigh%20in%20on%20crucial%20decisions%3F)
 
-> "" - [Life Capital, by Erik Torenberg]()
+> "What if we could aggregate people who are working on the front lines of national security, public health, drug development, movies, government funded projects, trade agreements, banks —  and ask them whether their initiatives are on track?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20aggregate%20people%20who%20are%20working%20on%20the%20front%20lines%20of%20national%20security%2C%20public%20health%2C%20drug%20development%2C%20movies%2C%20government%20funded%20projects%2C%20trade%20agreements%2C%20banks%20%E2%80%94%20%E2%80%8Aand%20ask%20them%20whether%20their%20initiatives%20are%20on%20track%3F)
 
-> "" - [Life Capital, by Erik Torenberg]()
+> "What if, more broadly, everyone had skin in the game for their opinions? What if people had a financial incentive to be diligent in their predictions? What if people put their money where their mouths are? Could this help us make better decisions? That is the hope and promise of prediction markets." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%2C%20more,of%20prediction%20markets.)
+
+> "Politicians make baseless predictions with no accountability, while the media profits from sensationalist journalism. Pundits of all stripes have no skin in the game. Even when they get things wrong, they typically don’t go back to correct themselves. Experts don’t have incentives to speak up. Too much to lose. Charlatans, however, make baseless predictions to build an audience. If they’re wrong, their tribe still supports them. Celebrities are winning The War of Ideas. Tribalism above truth. Entertainment over everything. In an era of fake news, prediction markets can make a big impact." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Politicians%20make%20baseless,a%20big%20impact.)
+
+> "Prediction markets are truth-seeking machines. By forcing people to put their money where their mouths are, people now focus on being correct, rather than being liked, popular, or diplomatic. If they’re unwilling to bet, they’ll be discredited. If they’re wrong, they’ll lose money and reputation. Vice versa, if they win, expertise will be elevated, humility will be appreciated, and charlatanism will be eliminated." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=prediction%20markets%20are%20truth,charlatanism%20will%20be%20eliminated.)
+
+> "It’s not entirely wisdom of crowds  —  it’s wisdom of the “right” crowds  —  the experts. And, just as important, it silences (or cripples) the blowhards." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=It%E2%80%99s%20not%20entirely%20wisdom%20of%20crowds%20%E2%80%8A%E2%80%94%E2%80%8A%20it%E2%80%99s%20wisdom%20of%20the%20%E2%80%9Cright%E2%80%9D%20crowds%E2%80%8A%20%E2%80%94%20%E2%80%8Athe%20experts.%20And%2C%20just%20as%20important%2C%20it%20silences%20(or%20cripples)%20the%20blowhards.)
+
+> "" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg]()
+
+> "" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg]()
+
+
+> "The pace of scientific progress may be hindered by the tendency of our academic institutions to reward being popular, rather than being right." - [Robin Hanson](https://twitter.com/robinhanson)
+
+
+
+> "" - [, by Erik Torenberg]()
 
 
 
@@ -471,6 +509,7 @@ catastrophes vs dystopias - the 2 attractors of chaos & centralization
 
 We're a mindless & unconscious energy-hungry superorganism with an embedded growth obligation in its economy & monetary system that is unable to contract and a lack of an immune system against market failures such as negative externalities and the exploitation of human psychology.
 sociopathic corporations
+we've been culturally hijacked through psychological operations
 also lacks an immune system - leaving market forces unchecked.
 with the goal of reaching sustainability and homeostasis.
 Nobody is truly in the driver's seat - the system is running on its own
