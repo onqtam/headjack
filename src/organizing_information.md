@@ -441,7 +441,7 @@ uploading a clip that could have easily just referenced a part of the whole shou
 # stable documents
 ██████████████████████████████████████████████████████████████████
 
-IPFS CIDs also let you do Xanadu-style transclusion with standoff markup. Offsets don't break because the CIDs are immutable.
+IPFS CIDs also let you do [Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)-style transclusion with standoff markup. Offsets don't break because the CIDs are immutable.
 https://twitter.com/gordonbrander/status/1619370073722089472
 
 highlighted parts of a page - with surrounding characters - for stable linking of documents even if there have been changes to them elsewhere in a new URI

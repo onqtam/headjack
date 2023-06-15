@@ -219,6 +219,8 @@ elly iska6e da iztrie komentar na snimkata si - dori i da moje da bude komentira
 
 # Other challenges
 
+> "Outside of cost, the clarity of the markets and outcomes can be a major challenge. Regarding the markets themselves, we need explicit language without any possibility of misinterpretation. If the market says that Steph Curry will hit a three in tonight’s game on June 20th, 2021, what happens if the game is delayed and he doesn’t hit a three until 1am EST (the next day). If the market is for a project to be completed by a certain date, how do you define “completed”? What if everyone thinks the project is done but then needs follow up work the next month?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Outside%20of%20cost,the%20next%20month%3F)
+
 This brave new world of new types of media will be at odds with the current system:
     problem: apple does not allow apps with internal app stores?
         https://youtu.be/fW9-dEOSX8A?t=562

@@ -50,7 +50,7 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - labeling, tagging, moderation - who watches the watchmen
         community notes?
     - calculemus
-    - reputation systems
+    - reputation systems - or computable context
     - Aggregate sentiment - the big picture
     - computation and storage as the limiting factor
 - attention is all you have
@@ -65,6 +65,7 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
     - (broadcast) media & manipulation
+    - mindspace as a resource
     - visualizing our attention - vascularization, the law of flow, sankey diagram
         https://underthrow.substack.com/p/the-law-of-flow-is-everywhere
         https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2871904/
@@ -80,9 +81,9 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - values, goals & lists
         - ranking (& top 10 lists)
     - science
-    - prediction markets, reputation & futarchy
-        - what people have been getting wrong about prediction markets is making them financial instead of purely reputational - career & finances are downstream from reputation. Financialization is hard to generalize and also excludes many people and requires oracles and a ton more infrastructure to generalize
-    - sankey diagram everything
+    - prediction markets, reputation & futarchy, social capital
+        - what people have been getting wrong about prediction markets is making them financial instead of purely reputational - career & finances are downstream from reputation. Financialization is hard to generalize and also excludes many people and requires oracles and a ton more infrastructure to generalize. This is the future of resumes
+    - sankey diagram everything - cui bono-ify everything in regards to money and connections
     - reward circuits - reimagining status, dopamine, multidimensional status
     - spreadsheets - Layered multi-governance
     - data driven - plot everything on charts
@@ -96,6 +97,9 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - developing the prefrontal cortex (plannig, delayed gratification) of the global brain
     - AGI & the alignment problem
     - the third attractor
+    - the global brain
+    - mental evolution
+    - an integrated society - we are all part of something greater
     - overshoot
         https://www.youtube.com/watch?v=LQTuDttP2Yg
     - redefining prestige
