@@ -1,4 +1,8 @@
 # Concerns with Headjack
+CHALLENGES !!!
+
+
+
 
 <!--
 
@@ -19,6 +23,7 @@ IDMs as single points of failure
 data problem: separate sets of indexes from different infrastructure companies? in case someone is spammy and infra company X doesn't want to work with them? We can still have some sort of federated queries.
 
 Todo: how to combat brigading? Concern: might not be able to do it because not a single system
+swarming
 
 not all business models translate easily:
 Starting today, Twitter will share ad revenue with creators for ads that appear in their reply threads
