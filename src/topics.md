@@ -12,9 +12,9 @@ embracing complexity
 
 Gamification
 
-evolutionary activism
+bayesian thinking/living
 
-cui bono
+evolutionary activism
 
 connectionism
 
