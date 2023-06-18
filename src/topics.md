@@ -14,6 +14,8 @@ Gamification
 
 bayesian thinking/living
 
+deconstructing media down to the claim level
+
 evolutionary activism
 
 connectionism
