@@ -16,6 +16,8 @@ bayesian thinking/living
 
 deconstructing media down to the claim level
 
+informational metabolism, cybernetics & the OODA loop
+
 evolutionary activism
 
 connectionism
