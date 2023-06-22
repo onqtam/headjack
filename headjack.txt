@@ -1,6 +1,352 @@
 
 
 
+Wherever we turn our attention, things should improve
+
+Talk to others with aggregates
+
+social capital
+
+"irrelevant" reaction?
+
+tallying strategy - how to count the votes
+
+Self assembly! There isnt the number 5 in our genome about the number of fingers
+
+We can use reputation and incentives to solve collective action problems - the system is flexible enough to design any type of incentive
+https://en.wikipedia.org/wiki/Collective_action_theory
+
+observer... depends who he is - about any score/prism
+
+Problem: much harder to have 1 person 1 phone number with many IDMs
+
+We get more of what we reward
+
+Earning status in public in the status machine
+
+We organize our view with tags and lists and let others see our prism - this way the prisms will converge
+
+Social media 1.0: crimes against complexification
+Not having unrestricted programmatic access to the public commons is an intellectual crime.
+> "In order to deal properly with the diversity of problems the world throws at you, you need to have a repertoire of responses which are (at least) as nuanced as the problems you face." - [Ashby's Law of Requisite Variety - an alternative description](https://www.businessballs.com/strategy-innovation/ashbys-law-of-requisite-variety/#:~:text=In%20order%20to%20deal%20properly%20with%20the%20diversity%20of%20problems%20the%20world%20throws%20at%20you%2C%20you%20need%20to%20have%20a%20repertoire%20of%20responses%20which%20are%20(at%20least)%20as%20nuanced%20as%20the%20problems%20you%20face.)
+
+Relevance filters
+
+what if we could vote on a captain of the attention ship? someone who aims to illuminate the biggest problems - speaking truth to power
+
+what if the brightest minds in game theory, mathematics and statistics could tune society in public?
+
+the nature of the current social platforms is that they hinder the complexification and sophistication of online society
+
+We put so much effort in trying to optimise attention with the goal of extracting statistical correlations and patterns and yet we do such a bad job at directing the attention of society
+The great misallocation of attention
+
+Picture humanity in the most realistic way possible
+
+Any type of specific interaction will have a bunch of app names associated with it
+
+A new relationship with information
+
+How do we make scientists rich and famous?
+
+This idea will also force the reimplementation of something like patreon
+
+Imagine all the youth competing to surface the most truth to the world in the global transparency game
+
+Imagine if instead of having to read a book like “the real antony fauci” all you had to do was look at the computed score of anthony fauci based on criteria you trust
+
+A network for transparency
+
+
+
+
+
+With canonical deduplicated entries for concepts and events, reality will be harder to ignore
+
+ranking the top concerns of humanity is like becoming aware of our discomfort - a problem well stated is half solved
+
+a permissionless and open-ended event ecosystem around identity is a prerequisite for the global brain
+
+human progress happens when we increase our ability to ask questions
+
+imagine talking with the aggregate sentiment and knowledge of the world with the help of an LLM and exploring humanity in real time through any lens you wish - not with some pre-trained model without a clue how the sausage was made
+
+getting structured data formats wrong isn't fatal - we can always translate old data to newer and more expressive formats. Evolvability.
+
+Ultimate flexibility
+
+some people think that with LLMs we've reached the pinnacle of communication with machines with something as natural as text but that couldn't be further from the truth - we need structured data more than ever
+
+rewarding Nonviolent Communication
+https://en.wikipedia.org/wiki/Nonviolent_Communication
+
+The fundamental issue of attention
+
+imagine crowdsourcing a movie about the future we want based on our current collective values - as a snapshot in time, and redoing it once every 5 years as things progress
+
+The ability to pattern-match any type of event
+
+How do we make the important actually important, even if it is boring
+
+We can have templates for concepts - how to represent them - what types of functionality layout we should want about a specific thing from the real world - what lens to use when regarding a specific type of concept/event
+POSITIONAL SCARCITY !!!
+
+Make accountability liquid
+
+the Aadhaar system in India is serving as the narrow waist of their national digital transformation
+https://en.wikipedia.org/wiki/Aadhaar
+https://tigerfeathers.substack.com/p/the-internet-country
+
+If we measure everything we could simply see the best predictor for any endeavor
+
+We can literally crowd-source how we want things to be
+
+Crowdsource “how to win in society” with our best attempt at re-deriving everything from “be in service to others”
+
+the fairness protocol
+Cheaters Can't Cheat: Fairness Protocol Explained [The value in bitcoin, ethereum, open blockchains]
+https://www.youtube.com/watch?v=JtyRN4YFRFI
+Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk
+https://www.youtube.com/watch?v=meiU6TxysCg
+Capuchin monkey fairness experiment
+https://www.youtube.com/watch?v=-KSryJXDpZo
+"The neuronal basis of empathy and fairness" - unfairness & disgust !!!
+https://pubmed.ncbi.nlm.nih.gov/17214308/
+> "Insula activation associated with perception of ‘unfairness’ has been interpreted as negative emotional reaction to unfair offers. This interpretation is based on prior studies reporting insula involvement in negative or arousing emotional states such as fear, disgust, or anger." - [Unfair? It depends: Neural correlates of fairness in social context](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999761/#:~:text=Insula%20activation%20associated%20with%20perception%20of%20%E2%80%98unfairness%E2%80%99%20has%20been%20interpreted%20as%20negative%20emotional%20reaction%20to%20unfair%20offers.%20This%20interpretation%20is%20based%20on%20prior%20studies%20reporting%20insula%20involvement%20in%20negative%20or%20arousing%20emotional%20states%20such%20as%20fear%2C%20disgust%2C%20or%20anger)
+
+What if we could derive everything from “be good to others”?
+
+“Be good to others” is the r basis for any religion in regards to morals for within the tribe - we can crowdsource the transparency machine for any organization
+
+“This is what is most important for X” - but for anything
+
+The purpose of life is to leave something after yourself and contribute - to be of service to others
+
+A competence market
+
+We can crowdsource our culture - this is the collectively chosen weights
+
+The name of the game is optimization
+
+
+
+How do we solve humanity’s biggest problem: how to coordinate better in order to have the best possible future
+
+
+The metaverse is an mmorpg knowledge graph
+
+futarchy - high dimensional?
+
+we need to change our concept of prestige
+
+How do we ender’s game the global brain and gamify it so participating is interesting?
+
+computable identity: how many times have you shared a news story that contains deepfakes (determined later)?
+
+social learning in regards to the complexity of ontologies and working with knowledge graphs and structured data - since it's all one big social network we'd see how others are using the tools and creating structured data - effectively teaching us how to better express ourselves
+
+The metaverse is the augmentation of the physical with the digital
+
+how to counteract discounting
+
+"synthesis" as project name
+
+better social technologies lower social coordination costs and reduce friction
+
+what if you could define a notification filter for messages/connection requests/etc - anyone with above 10k followers for example
+
+multi-pagerank
+poly/multi
+
+social media posts are ephemeral - they're irrelevant beyond the first couple of days (get burried with time) - they're promoted by the recommendation algorithms only for a a small amount of time as there's a constant stream of new events
+
+hit pieces use points selectively (and its hard to gague them of truthfullness) whereas a model calculating a reputation score would take everything into account
+
+radical interconnectedness - glancing at a blog post and being able to see which sections were quoted elsewhere, and being able to filter the "elsewhere" any way you want
+
+generalized scripting!
+instead of apps offering niche functionalities you could script and do anything with data!
+https://twitter.com/dwr/status/1666102355698364416
+
+The informational multiverse
+
+the next step of encephalization is truly networking our minds - deduplicated identities, concepts & events
+
+we need to upgrade our capacity to learn
+
+A truth market for ideas
+
+Relevance realization: given the near-infinite complexity of the world, how do we intelligibly ignore irrelevant information and zero in on that which is relevant to us?
+
+think of this as collectively writing the guide to/book of life
+
+We need to shift from what are we against to what are we for
+
+It will simply be better and people would shift to it as word goes around
+
+what if we submitted algorithms long a few lines that express more complex things? the collective notebook with interactive code trying to prove stuff?
+
+we could all collectively have a conversation through the distributed aggregate computing of all individuals
+
+
+TODO: relisten to this episode
+Currents 034: Samo Burja on the Consilience Project
+https://www.youtube.com/watch?v=bHCg8bhtbqs
+talks about carbon credits, media, many good things and ideas I've had
+
+If there are no consequences for wall street playing the “short and distort” game with Tesla for a decade (including the hardest of times for them) - then we should be able to de-amplify topics and entities too. Todo: this point needs more thought
+
+strategy:
+we can "import" a part of the web simply by making entries with a message type with an external URI pointing to a traditional page and then allow for commenting and voting and whatnot
+
+what if you want to be able to message someone (they're a contact) but you don't want to follow them on instagram because you're simply not interested in reels and them ending up in your feed and you also don't have a DM channel open with them? its engineered for engagement
+
+we could even split our own vote like 30% from me and the rest 70% split between my delegates for this cause
+
+We need an additional informational signal that is as robust as prices driven by markets and currently media is a failure
+
+write about mycelium
+
+TODO: think about labeling of naughty material and the streisand effect
+
+what if the tags for a creator are automatically updated based on the tags for their individual posts and also ranked by occurance with a histogram?
+
+"Don't look up" but in real life
+https://www.imdb.com/title/tt11286314/
+
+This is the clearest manifestation of democracy and classical liberalism
+careful with the word liberalism - it might not be the right thing here
+
+structured data == AST, where language is the current intermediate representation (IR) and we can upgrade it to structured data
+IR built on top of deduplicated concepts, entities and events
+
+“The religion that is not a religion” - stolen from John
+Wisdom and meaning famine
+
+evolution is a kind of learning - we need to foster gradual evolvability in every direction
+Autodidactic !!!
+
+what if we could short topics? like putting our thumbs on the scales - "show less culture war stuff and surface more important issues"
+
+minimizing ignorance - we need to minimize the error in our models of reality
+
+"complex adaptive systems (CAS) all the way down"
+
+what if we could have citation graphs and ranking for anyone on any topic - not just within the scientific realm?
+
+embracing complexity
+
+anonymity - ZK stuff and dating apps! DATING APPS!
+
+Imagine having your personal jamie to pull things up
+
+fractal debate map
+
+Money on money return
+
+situational awareness - what's the relevant context - being able to view the same thing from different lenses
+
+being wrong should have a cost
+
+We can have competing opt-in committees of experts for health advice
+
+meaning in life comes from connectedness, and especially being connected to something bigger than ourselves
+
+We can crowdsource what is most important and even rank and sort the steps to get to there!!!
+
+complete freedom to experiment in network protocols and self-assembly / self-organization
+
+What if we could develop an opt-in social credit score that we individually determine how it gets calculated? A subjective score
+
+a new choice-making architecture
+
+No Recursively asking “how do we get there? What are the next steps?”
+
+“The recursive subreddit” as a buillding block - a concept
+
+Use a picture of a cockpit with thousands of buttons when talking about social media configurability and the config matrix
+
+A new era of social computing
+“Social computing”
+
+We are effectively unconscious
+
+Egalitarianism, meritocracy and a market for ideas
+
+The ultimate currency is time and thus also attention
+
+Error correction scaled
+
+Transparency, accountability, truth and sunlight
+
+We can crowdsource “a guide to life”
+
+We can have campaigns in which we advocate for our values against those of others - in groups, and showing the progress publicly, and how the vote evolves throughout time
+
+Its all just one big high dimensional wikipedia - a multipedia
+
+Write a chapter about a summary of vervaeke’s work and how heafjack as a project overlaps and aids in building the right social system
+
+We can crowdsource what to teach our children - skills, values, technologies
+And not just children - even adults. We can collectively guide our attention to what is most meaningful
+
+A philosophical & scientific MMORPG
+
+Meaning in the 21st century - become competent in something, be credible and have the ability to influence stuff - and increase the weight of your vote - a weight thats calculated by consensus
+
+Meaning in the 21st century: aiming for a higher impact if your opinions - earning that weight and have the ability for it to decrease at any point if you do wrong things.
+“The reward function” as a chapter
+
+TODO: use high dimensional instead of multi? or not.
+
+Adding dimensionality to thoughts - the ability to filter opinion any way you want
+
+The ability to vote on how votes should be counted in compound model representations
+
+with liquid democracy each person could be a high dimensional representation of their own views
+
+what if we sankey-diagramed every aspect and product of society - from carbon footprint to what transitive connections there are to low-ranking and sociopathic companies and even monetary influence
+
+Negative reputation: carbon footprint, money influence, previous scandals
+
+We can blur our egos together
+
+Bringing liquidity to ideas
+A market for any idea
+
+We are unconscious as a species
+
+Whistleblower friendly ecosystem
+
+the most radical experiment in self-organization and emergent order to date
+
+this can replace even phone numbers
+
+instead of upvote/downvote - 5 star ratings on 2 measures: quality and importance
+
+Music… flow… your attention
+
+game b should parasitize game A
+game b should be meta-stable
+
+The law of attraction - and attention and focus and how we need to view our attention
+
+Consciousness is about directing computational resources - our predictive capacity
+
+
+thinking in exponentials
+
+
+Cultural shorting of sociopathic corporatism
+
+Fall of civilizations in top10
+Fall of Civilizations Podcast
+https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ
+
+
+
+
+
 
 
 
@@ -367,7 +713,9 @@ THIS IS WHAT WE COULD BUILD
 > "Request for Product: If Twitter & Quora had a baby. Something that combines the timely, Github-for-thinking, building-block nature of Twitter w/ the timeless, searchable, compounding-knowledge nature of Quora. A true social network around knowledge. Not news. Not photos." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1113597595551535104)
 
 YES !!! A MAP/GUIDE TO LIFE
+https://80000hours.org/career-guide/
 > "There should be something like a Wikipedia for careers: Lists of career paths, how & what skills you'll need to break-in & rise up, how much $ you’d earn over time, lifestyle/happiness pros&cons, recommended paths based on interests & skills & personality type, case studies, etc." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1609979842463952898)
+
 
 > "" - [Erik Torenberg]()
 
