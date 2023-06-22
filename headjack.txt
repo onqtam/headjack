@@ -207,6 +207,12 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 
 
+
+
+> "Throughout the Holocene, societies developed additional layers of administration and more information-rich instruments for managing and recording transactions and events as they grew in population and territory. Yet, while such increases seem inevitable, they are not." - [Scale and information-processing thresholds in Holocene social evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7224170/#:~:text=Throughout%20the%20Holocene%2C%20societies%20developed%20additional%20layers%20of%20administration%20and%20more%20information%2Drich%20instruments%20for%20managing%20and%20recording%20transactions%20and%20events%20as%20they%20grew%20in%20population%20and%20territory.%20Yet%2C%20while%20such%20increases%20seem%20inevitable%2C%20they%20are%20not.)
+
+
+
 cooperation does not evolve easily
 
 
@@ -251,6 +257,10 @@ cooperation does not evolve easily
 
 > "Non-zero-sumness (NZS) is the evolution of culture toward deeper and vaster social complexity—an increasing intertwining of our fates. In other words, the growing extent to which we become interdependent on each other." - [The Rise of Positive-Sum Thinking, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-rise-of-positive-sum-thinking#:~:text=Non%2Dzero%2Dsumness%20(NZS)%20is%20the%20evolution%20of%20culture%20toward%20deeper%20and%20vaster%20social%20complexity%E2%80%94an%20increasing%20intertwining%20of%20our%20fates.%20In%20other%20words%2C%20the%20growing%20extent%20to%20which%20we%20become%20interdependent%20on%20each%20other.)
 
+> "To compete for high social status is to play a zero-sum game, since status is scarce by definition. Yet one way to successfully earn status is to invent technologies that create new non-zero-sum games." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1120197629072117760)
+
+> "The more complex societies get + the more complex the networks of interdependence within + beyond community + national borders get, the more people are forced in their own interests to find non-zero-sum (NZS) solutions. That is, win-win solutions instead of win-lose solutions." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1120199593478647808)
+
 > "What if we could leverage the wisdom of crowds in a systematic way  —  if we could separate the experts from the charlatans  —  and then have the experts weigh in on crucial decisions?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20leverage%20the%20wisdom%20of%20crowds%20in%20a%20systematic%20way%20%E2%80%8A%E2%80%94%20%E2%80%8Aif%20we%20could%20separate%20the%20experts%20from%20the%20charlatans%20%E2%80%8A%E2%80%94%20%E2%80%8Aand%20then%20have%20the%20experts%20weigh%20in%20on%20crucial%20decisions%3F)
 
 > "What if we could aggregate people who are working on the front lines of national security, public health, drug development, movies, government funded projects, trade agreements, banks —  and ask them whether their initiatives are on track?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20aggregate%20people%20who%20are%20working%20on%20the%20front%20lines%20of%20national%20security%2C%20public%20health%2C%20drug%20development%2C%20movies%2C%20government%20funded%20projects%2C%20trade%20agreements%2C%20banks%20%E2%80%94%20%E2%80%8Aand%20ask%20them%20whether%20their%20initiatives%20are%20on%20track%3F)
@@ -285,9 +295,87 @@ cooperation does not evolve easily
 
 
 
+> "We’ve always disagreed, but at least we had the same coordinates by which we could disagree. Now we’re looking at different maps entirely." - [Reality is up for Grabs, by Erik Torenberg](https://eriktorenberg.substack.com/p/reality-is-up-for-grabs?s=r#:~:text=we%E2%80%99ve%20always%20disagreed%2C%20but%20at%20least%20we%20had%20the%20same%20coordinates%20by%20which%20we%20could%20disagree.%20Now%20we%E2%80%99re%20looking%20at%20different%20maps%20entirely.)
 
 
-> "" - [, by Erik Torenberg]()
+
+
+> "There are various ways of interpreting Current Things.
+>
+> A charitable view is that it’s the wisdom of crowds surfacing the most important problems as well as the best ways of solving those problems. 
+>
+> A less charitable view is that Current Things are “continuous overlapping sequence of emergencies, awakenings and panics, driven by the same interlocking power centers, demanding ever tighter censorship of speech and thought.”
+>
+> An even less charitable view is that Current Things, paraphrasing Balaji, are the social equivalents of pump and dumps: They are pump and dumps for clicks for the journalists, votes for the politicians, and dollars for the activists. After all, the business model of the press & social media might as well be to cause the reader as much outrage as possible, every day, to cause fear and panic and drive them to come back tomorrow.
+>
+> These are all interesting observations — that Current Things involve everyone converging onto the same beliefs and that there are profit motives for increasingly surfacing New Current Things — but they undersell the truthiness of The Current Thing.
+>
+> Current Things always have elements of truth to them, otherwise they wouldn’t capture the world’s imagination. If they didn’t contain at least some kernels of truth, they wouldn't resonate. 
+>
+> That said, there is also often something “off” about The Current Thing as well. If it were so obviously, incontrovertibly accurate, it wouldn’t go viral, since everyone would be convinced already. There’s no need for evangelism when everyone is already converted. What goes viral is often what creates controversy between groups, where people retweet & quote tweet as a way to claim what side they’re on. If they don’t speak up, their tribal loyalty is questioned. Hence the phrase “silence is violence”.
+>
+> Additionally, for a moral incident to go viral — for it to be The Current Thing — it has to be super clear-cut. And real-life events usually aren’t that clear-cut. And so the things that tend to go viral are caricatures, with the messy complexity stripped out." - [The Current Thing, Part 1 - How and why it works, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-1#:~:text=There%20are%20various,complexity%20stripped%20out.)
+
+> "Jonathan Haidt, in his book “[The Righteous Mind](https://en.wikipedia.org/wiki/The_Righteous_Mind)” explained the purpose of Current Things when he wrote “Morality binds and blinds.” Current Things bind people together over common beliefs, and they blind people to independent thought outside of the collective, since independent thought can at times be an impediment to group identity. More specifically regarding blindness, people become unwilling to critically analyze the Current Thing if it goes against the belief, precisely because that analysis is a threat to the coherence of the group. When this happens at the group level, this becomes The Madness of Crowds, as opposed to The Wisdom of Crowds, which we usually get when everyone is thinking as a rational individual, not when they are delegating their opinions to the zeitgeist. " - [The Current Thing, Part 1 - How and why it works, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-1#:~:text=Jonathan%20Haidt%2C%20in,to%20the%20zeitgeist.)
+
+> "So it seems that two things are true: On the one hand, thanks to the great fragmentation enabled by social media and the explosion of information, we have thousands of bespoke realities and reality entrepreneurs seeking to define them.
+>
+> On the other hand, thanks to mimetic desire, social psychology, and social media, the mainstream converges to an intellectual monoculture that becomes more and more shrill in its attempt to fight the reality entrepreneurs away.
+>
+> This is how Current Things encourage ever-increasing levels of rigid lockstep, even as independent media fragments into a thousand diverse intellectual shards." - [The Current Thing, Part 1 - How and why it works, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-1#:~:text=So%20it%20seems,diverse%20intellectual%20shards.)
+
+> "As Martin Gurri chronicled in The Revolt of The Public, after social media suddenly global conversation became two-way instead of one-way. This was a radical shift. If you were living in 1965 and you thought that something was weird with the JFK assassination in 1965, what were you going to do, call somebody and complain? Write a letter to the editor? Good luck getting any attention on that — even if millions of people agreed with you. Whereas today you can instantly spin up a sub-reddit or facebook group or make something go viral on Twitter if it resonates widely. The internet enabled people to research the details of any conspiracy, and share their findings with other people also obsessed with the same experience." - [The Current Thing, Part 2 - Conspiracy theories as Bizarro Current Things, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-2#:~:text=As%20Martin%20Gurri,the%20same%20experience.)
+
+> "Extremists will always care more than people in the middle (see [The Intolerant Minority](https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15)). Whereas people who want to be left alone are by definition no good at recruiting or defending their tribe. If you disagree with The Current Thing or The Bizarro Current Thing and you try to convince both sides to moderate, you will have no home and you will get accused of treason by both sides. Non-aggressors will always lose to aggressors. This is why there’s no durable middle. This is why people pick sides. This is why we can’t have nice things. " - [The Current Thing, Part 3 - Why Current Things are impervious to rational conversation, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-3#:~:text=Extremists%20will%20always,have%20nice%20things.)
+
+> "Marc Andreessen recently [tweeted](https://twitter.com/pmarca/status/1513720791988330498): is the internet an engine or camera?…Are things actually more stupid today, or were they always stupid and we’re just more aware of the stupidity now?
+>
+> Of course, Communism and Nazism predated the internet, and those movements were crazier than anything we’re seeing today. People have been taking political sides and forming up mobs and killing scapegoats since….forever.
+>
+> It seems obvious that the internet is both: It’s a camera that becomes an engine. People act differently in front of the camera—they perform for their tribe, especially when people’s tribal loyalty is in question, as it always is in a society where our tribal bonds are formed over beliefs instead of genetics or geography. And the internet offers the widest camera angle possible—everyone is in the frame 24/7, always at risk of being called out.
+>
+> And this is why we don’t prioritize rational conversation: We care more about being part of the tribe. Everything makes much more sense when we understand that people are hard-wired to choose a tribe, stick within it, and defend it unconditionally." - [The Current Thing, Part 3 - Why Current Things are impervious to rational conversation, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-3#:~:text=Marc%20Andreessen%20recently,defend%20it%20unconditionally.)
+
+> "Here’s the kicker: the crazier a bonding ideology is—the further away it is from objective reality—the more powerful it is in forming tribes. Why? The crazier the idea, or the crazier the way a person defends their idea, the more it proves their loyalty to the group by shutting off their other available options. Your perceived loyalty increases when you make yourself unsuitable for other tribes because it proves you won’t defect and join them. Until you do that, all tribal attachments are fleeting and contingent.
+>
+> Consider the phrase, “Abolish the police”, a Current Thing in 2020. Even the people who claimed “Abolish the police” concede that’s not what they truly meant. They meant redirecting police funds to social services and reforming police accountability. But the phrase “Abolish the police” achieves the goal of improving their reputation within their tribe because, by abandoning reasonableness, they are burning the boats to the enemy tribe, demonstrating their in-group loyalty. 
+>
+> This is also why Abolish the Police was such a textbook Current Thing. “Increased social services for poor people” would have never taken off, nor would “Reform police unions”. People have been trying to get attention to those topics for decades. Only something crazy, but with a kernel of truth, could get such wide attention.
+>
+> To reiterate: The Current Thing is sometimes true, but it certainly isn't run by the scientific method, it's run by high school politics. People are often vessels looking for a hit. They don’t really care where they get it; they only care that it’s good." - [The Current Thing, Part 3 - Why Current Things are impervious to rational conversation, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-3#:~:text=Here%E2%80%99s%20the%20kicker,that%20it%E2%80%99s%20good.)
+
+> "Current Things may be true, but they are not optimized for truth. They are optimized for fitness, or in this case, going viral." - [The Current Thing, Part 3 - Why Current Things are impervious to rational conversation, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-3#:~:text=Current%20Things%20may%20be%20true%2C%20but%20they%20are%20not%20optimized%20for%20truth.%20They%20are%20optimized%20for%20fitness%2C%20or%20in%20this%20case%2C%20going%20viral.)
+
+> "In fact, some ideas are so “fit” that evidence asserting their falsity won’t debunk them. People are so incentivized to believe them that they keep believing in them in spite of evidence to the contrary. Religion, communism, and fascism are common examples. If you expect these to go away via the marketplace of ideas, you're going to be waiting for a long time." - [The Current Thing, Part 3 - Why Current Things are impervious to rational conversation, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-3#:~:text=In%20fact%2C%20some,a%20long%20time.)
+
+
+
+> "Some would call this the "post-truth" era, but that would be misleading — there's more truth than ever. So much so that we don't really know how to process it, since many truths contradict each other. Instead, it feels more like a "post-monopoly-on-truth" era." - [How the Internet Ate Media - And why there's no going back, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-the-internet-ate-media?s=w#:~:text=Some%20would%20call%20this%20the%20%22post%2Dtruth%22%20era%2C%20but%20that%20would%20be%20misleading%20%E2%80%94%20there%27s%20more%20truth%20than%20ever.%20So%20much%20so%20that%20we%20don%27t%20really%20know%20how%20to%20process%20it%2C%20since%20many%20truths%20contradict%20each%20other.%20Instead%2C%20it%20feels%20more%20like%20a%20%22post%2Dmonopoly%2Don%2Dtruth%22%20era.)
+
+> "The internet offers a hyper-accelerated OODA loop, and Twitter is the fastest loop across the entire internet. As a result, Twitter has the ability to disrupt all other forms of reality perception. Which means what you see take off on Twitter will also take off (or influence) what you see elsewhere." - [How the Internet Ate Media - And why there's no going back, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-the-internet-ate-media?s=w#:~:text=the%20internet%20offers%20a%20hyper%2Daccelerated%20OODA%20loop%2C%20and%20Twitter%20is%20the%20fastest%20loop%20across%20the%20entire%20internet.%20As%20a%20result%2C%20Twitter%20has%20the%20ability%20to%20disrupt%20all%20other%20forms%20of%20reality%20perception.%20Which%20means%20what%20you%20see%20take%20off%20on%20Twitter%20will%20also%20take%20off%20(or%20influence)%20what%20you%20see%20elsewhere.)
+
+> "This is exactly why the stakes on Twitter are so high — what gets resolved on Twitter will influence what you see in the media, the education system, and elsewhere in society." - [How the Internet Ate Media - And why there's no going back, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-the-internet-ate-media?s=w#:~:text=This%20is%20exactly%20why%20the%20stakes%20on%20Twitter%20are%20so%20high%20%E2%80%94%20what%20gets%20resolved%20on%20Twitter%20will%20influence%20what%20you%20see%20in%20the%20media%2C%20the%20education%20system%2C%20and%20elsewhere%20in%20society.)
+
+
+> "We need to fix the rivalrousness of our systems. That’s a big deal because separate nation states are the basis of rivalrous systems, and so our private balance sheets. So, these changes would be fundamental." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1183207414775967746)
+
+
+HOW MANY IDEAS LIKE THIS HAVE NEVER BEEN ATTEMPTED DUE TO API GATEKEEPING? something like TaskRabbit
+> "What if you had a real-time, up-to-date spreadsheet of everyone you care about, and what they needed or what would brighten their day? Or the equivalent of away messages, but for needs." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1094832077021732864)
+
+THIS IS WHAT WE COULD BUILD
+> "Request for Product: If Twitter & Quora had a baby. Something that combines the timely, Github-for-thinking, building-block nature of Twitter w/ the timeless, searchable, compounding-knowledge nature of Quora. A true social network around knowledge. Not news. Not photos." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1113597595551535104)
+
+YES !!! A MAP/GUIDE TO LIFE
+> "There should be something like a Wikipedia for careers: Lists of career paths, how & what skills you'll need to break-in & rise up, how much $ you’d earn over time, lifestyle/happiness pros&cons, recommended paths based on interests & skills & personality type, case studies, etc." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1609979842463952898)
+
+> "" - [Erik Torenberg]()
+
+> "" - [Erik Torenberg]()
+
+> "" - [Erik Torenberg]()
+
+
 
 
 
@@ -371,6 +459,9 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 
 
 
+
+
+
 > "A new philosophy of the future is needed. I believe it should be curiosity about the Universe – expand humanity to become a multiplanet, then interstellar, species to see what’s out there." - [Elon Musk](https://twitter.com/elonmusk/status/1552317587694010368)
 
 
@@ -398,6 +489,7 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 > "Since Auschwitz we know what man is capable of. And since Hiroshima we know what is at stake." - [Viktor E. Frankl](https://www.goodreads.com/quotes/475986-since-auschwitz-we-know-what-man-is-capable-of-and)
 
 > "It isn't the past which holds us back, it's the future; and how we undermine it, today." - [Viktor E. Frankl](https://www.azquotes.com/quote/857989)
+
 
 
 
@@ -1138,6 +1230,22 @@ So far we've been networked only linguistically but now we can go to the level o
 > "Lousy information will continue contaminating the noosphere until we figure out how to incentivize truth-tracking. So it’s not just that we must set up systems that better track the truth (innovation). We must set ourselves up to better track the truth (wisdom)." - [Max Borders](https://www.aier.org/article/the-screen-of-gyges/#:~:text=Lousy%20information%20will%20continue%20contaminating%20the%20noosphere%20until%20we%20figure%20out%20how%20to%20incentivize%20truth%2Dtracking.%20So%20it%E2%80%99s%20not%20just%20that%20we%20must%20set%20up%20systems%20that%20better%20track%20the%20truth%20(innovation).%20We%20must%20set%20ourselves%20up%20to%20better%20track%20the%20truth%20(wisdom).)
 
 > "The second of the [Yamas](https://www.unitedwecare.com/self-care/yoga/types-of-yoga/raja-yoga/8-limbs-of-yoga/yama) — (“restraints” in Sanskrit) — satya  — reminds us that we must practice living in integrity, which is to be true to ourselves and others in thought, word, and deed." - [Max Borders](https://www.aier.org/article/the-screen-of-gyges/#:~:text=The%20second%20of%20the%20Yamas%20%E2%80%94%20(%E2%80%9Crestraints%E2%80%9D%20in%20Sanskrit)%C2%A0%E2%80%94%C2%A0satya%C2%A0%C2%A0%E2%80%94%C2%A0reminds%20us%20that%20we%20must%20practice%20living%20in%20integrity%2C%20which%20is%20to%20be%20true%20to%20ourselves%20and%20others%20in%20thought%2C%20word%2C%20and%20deed.)
+
+
+
+> "Imagine a decentralized, participatory system with objectors, supporters, checkers, and bettors–all of whom are evaluating claims made by someone. Claimants are usually targets of the sensemaking system, so while their claims are the most visible, they don’t have to be active participants in the truth-tracking process. Everyone else has to stake something, enough that it stings to lose." - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=Imagine%20a%20decentralized,stings%20to%20lose.)
+
+> "The community can decide which claims should get more eyeballs and which should not. For example, “Fauci lied to Congress” might be more important than “Kim Kardashian was wearing Chanel yesterday.”" - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=the%20community%20can%20decide%20which%20claims%20should%20get%20more%20eyeballs%20and%20which%20should%20not.%20For%20example%2C%20%E2%80%9CFauci%20lied%20to%20Congress%E2%80%9D%20might%20be%20more%20important%20than%20%E2%80%9CKim%20Kardashian%20was%20wearing%20Chanel%20yesterday.%E2%80%9D)
+
+
+
+
+> "Who controls the past controls the future. Who controls the present controls the past." - [George Orwell](https://www.goodreads.com/quotes/6145-who-controls-the-past-controls-the-future-who-controls-the)
+
+> "But if thought corrupts language, language can also corrupt thought." - [George Orwell](https://www.goodreads.com/quotes/72144-but-if-thought-corrupts-language-language-can-also-corrupt-thought)
+
+
+
 
 
 
