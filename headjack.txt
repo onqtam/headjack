@@ -719,6 +719,7 @@ https://80000hours.org/career-guide/
 
 
 
+
 > "The march of entropy destroys witnesses, artifacts, scholarly records, and all other evidence of the past." - [Our Knowledge of History Decays Over Time](https://www.palladiummag.com/2023/03/07/our-knowledge-of-history-decays-over-time/#:~:text=The%20march%20of%20entropy%20destroys%20witnesses%2C%20artifacts%2C%20scholarly%20records%2C%20and%20all%20other%20evidence%20of%20the%20past.)
 
 > "Digital information has fared no better than paper. Between link rot and changes in software standards, tremendous amounts of digital information [become inaccessible](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3851533/) over the course of a single decade. The long-term preservation of digital archives remains a hope rather than a guaranteed fact." - [Our Knowledge of History Decays Over Time](https://www.palladiummag.com/2023/03/07/our-knowledge-of-history-decays-over-time/#:~:text=digital%20information%20has%20fared%20no%20better%20than%20paper.%20Between%20link%20rot%20and%20changes%20in%20software%20standards%2C%20tremendous%20amounts%20of%20digital%20information%20become%20inaccessible%20over%20the%20course%20of%20a%20single%20decade.%20The%20long%2Dterm%20preservation%20of%20digital%20archives%20remains%20a%20hope%20rather%20than%20a%20guaranteed%20fact.)
@@ -727,7 +728,7 @@ https://80000hours.org/career-guide/
 
 
 
-Peter Russell's "The Global Brain" is absolutely prophetic
+Peter Russell's "The Global Brain" feels / is absolutely prophetic
 https://en.wikipedia.org/wiki/Global_brain
 TODO: embed this!!!
 The Global Brain - Peter Russell
@@ -889,6 +890,9 @@ imagine the process of us coming to consensus to what's most important for every
 
 William E. Rees: "The Fundamental Issue - Overshoot" | The Great Simplification #53
 https://www.youtube.com/watch?v=LQTuDttP2Yg
+William E. Rees: The Enigma of Climate Inaction – On the Human Nature of Policy Failure
+https://www.youtube.com/watch?v=WDWhjSUu8UY
+
 
 
 > "We are a way for the cosmos to know itself." - [Carl Sagan](https://www.goodreads.com/quotes/237548-we-are-a-way-for-the-cosmos-to-know-itself)
