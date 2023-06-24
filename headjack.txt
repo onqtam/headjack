@@ -24,6 +24,9 @@ We get more of what we reward
 
 Earning status in public in the status machine
 
+Define arbitrary status models - different pagerank algorithms for identities, concepts & events!
+the results of one page ranking model can be fed into another - layering/wiring complex models
+
 We organize our view with tags and lists and let others see our prism - this way the prisms will converge
 
 Social media 1.0: crimes against complexification
@@ -56,10 +59,6 @@ Imagine all the youth competing to surface the most truth to the world in the gl
 Imagine if instead of having to read a book like “the real antony fauci” all you had to do was look at the computed score of anthony fauci based on criteria you trust
 
 A network for transparency
-
-
-
-
 
 With canonical deduplicated entries for concepts and events, reality will be harder to ignore
 
