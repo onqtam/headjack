@@ -296,10 +296,6 @@ we need to counteract market failures and negative externalities but currently w
 
 wealth leads to power over regulation which leads to making more money in the market - a positive feedback loop that doesn't have a counteracting force - such systems are unstable and self-terminate
 
-The Personal Responsibility Vortex: Bret Weinstein
-https://www.youtube.com/watch?v=SjNRtrZjkfE
-^^ link to this - it is important
-
 Gm killed the electric car - that should haunt them for eternity. And no, they didn't "lead", and that matters
 Mary, you electrified the entire auto industry, you led, and it matters
 https://www.youtube.com/watch?v=UduPjk9gonw
