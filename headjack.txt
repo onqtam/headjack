@@ -929,6 +929,21 @@ https://www.youtube.com/watch?v=WDWhjSUu8UY
 
 
 
+The Personal Responsibility Vortex: Bret Weinstein at TEDxTheEvergreenStateCollege
+https://www.youtube.com/watch?v=SjNRtrZjkfE
+Bret's point is that there is a positive feedback loop between lobbying and making more money due to lobbying which affords more lobbying - aka regulatory capture. We need to engineer a negative feedback force that is adequate enough to constrain such unstable and self-terminating feedback loops.
+This unconstrained feedback loop is perhaps the biggest contributor to wealth and power concentration.
+Furthermore, people and corporations that do the right thing often disadvantage themselves (often in the form of having less money) which leaves them with less power which leads to further disadvantage - Bret calls that the "Personal Responsibility Vortex".
+This personal responsibility should be directed towards collective action aimed at restructuring the incentives that surround the market and chanring the malignant behavior.
+All costs and negative externalities (polution & environmental damage, even debt for future generations) need to be accounted for.
+All manufactured demand needs to be called out.
+The necessary and sufficient conditions for adaptive evolution are: 1) reproduction, 2) variation, 3) heritibility, 4) differential success.
+What if we could engineer an informational environment where truth and error correction is the dominant strategy through the right incentives and mechanisms for collective action?
+Reputation, structured data that anyone can analyze, and deduplicating concepts, entities & events are a big part of that.
+
+
+lets map every negative externality that is unaccounted for in economics
+
 
 > "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://www.azquotes.com/quote/609000)
 
