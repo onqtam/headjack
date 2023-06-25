@@ -27,6 +27,8 @@ Earning status in public in the status machine
 Define arbitrary status models - different pagerank algorithms for identities, concepts & events!
 the results of one page ranking model can be fed into another - layering/wiring complex models
 
+https://en.wikipedia.org/wiki/Trust,_but_verify
+
 We organize our view with tags and lists and let others see our prism - this way the prisms will converge
 
 Social media 1.0: crimes against complexification
@@ -73,6 +75,33 @@ imagine talking with the aggregate sentiment and knowledge of the world with the
 getting structured data formats wrong isn't fatal - we can always translate old data to newer and more expressive formats. Evolvability.
 
 Ultimate flexibility
+
+> "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=%E2%80%9CAs%20technology%20is%20empowering%20our%20choices%20and%20we%20are%20getting%20something%20like%20the%20power%20of%20gods%2C%20you%20have%20to%20have%20something%20like%20the%20love%20and%20the%20wisdom%20of%20gods%20to%20wield%20that%20or%20you%20self%2Ddestruct.%E2%80%9D)
+
+> "Peoples’ minds are the battlefield, the treasure that is trying to be achieved, and also the weapons." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Peoples%E2%80%99%20minds%20are%20the%20battlefield%2C%20the%20treasure%20that%20is%20trying%20to%20be%20achieved%2C%20and%20also%20the%20weapons.)
+
+> "The kinds of AIs that optimize your news feed are higher power AIs than the AIs that beat Kasparov at chess. Kasparov is far better at chess than you are at controlling your attention, and he also knew he was playing a game." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=The%20kinds%20of%20AIs%20that%20optimize%20your%20news%20feed%20are%20higher%20power%20AIs%20than%20the%20AIs%20that%20beat%20Kasparov%20at%20chess.%20Kasparov%20is%20far%20better%20at%20chess%20than%20you%20are%20at%20controlling%20your%20attention%2C%20and%20he%20also%20knew%20he%20was%20playing%20a%20game.)
+
+> "The paradigm shift is basically everything. We need new systems of governance that are not any system of governance the world has ever done so far. They are systems of how do we individually and collectively make sense of what’s going on, make sense of what we actually value, and how those values can be synergistically satisfied rather than in a theory of tradeoffs with each other. We need totally new systems of economics, we need totally new systems of education, all the way down to at an individual level, a new basis for identity, values, our own individual sense-making." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=The%20paradigm%20shift%20is,own%20individual%20sense%2Dmaking.)
+
+> "Why don’t we have group sense-making? Because you have a self-perpetuating system that includes the self-perpetuation of the memes that support the system." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Why%20don%E2%80%99t%20we%20have%20group%20sense%2Dmaking%3F%20Because%20you%20have%20a%20self%2Dperpetuating%20system%20that%20includes%20the%20self%2Dperpetuation%20of%20the%20memes%20that%20support%20the%20system.)
+
+> "Our ability to do choice-making well depends on our ability to sense-make well, which is why controlling peoples’ sense-making is the heart of the war that’s happening." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Our%20ability%20to%20do%20choice%2Dmaking%20well%20depends%20on%20our%20ability%20to%20sense%2Dmake%20well%2C%20which%20is%20why%20controlling%20peoples%E2%80%99%20sense%2Dmaking%20is%20the%20heart%20of%20the%20war%20that%E2%80%99s%20happening.)
+
+> "To what degree am I a sovereign, self-determining agent, and to what degree am I thinking I’m a sovereign, self-determining agent that is actually being influenced in ways I don’t even recognize?" - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=To%20what%20degree%20am%20I%20a%20sovereign%2C%20self%2Ddetermining%20agent%2C%20and%20to%20what%20degree%20am%20I%20thinking%20I%E2%80%99m%20a%20sovereign%2C%20self%2Ddetermining%20agent%20that%20is%20actually%20being%20influenced%20in%20ways%20I%20don%E2%80%99t%20even%20recognize%3F)
+
+> "Economics can be seen as the interface layer between our values and the way we build the world." - [Daniel Schmachtenberger](https://thecitesite.com/authors/daniel-schmachtenberger/#:~:text=Economics%20can%20be%20seen%20as%20the%20interface%20layer%20between%20our%20values%20and%20the%20way%20we%20build%20the%20world.)
+
+
+> "We cannot regulate our interaction with any aspect of reality that our model of reality does not include." - [Stafford Beer](https://bothbrainsrequired.com/2020/04/27/the-history-of-the-environmental-movement-in-5-cartoons/#:~:text=%E2%80%9CWe%20cannot%20regulate,Stafford%20Beer)
+
+
+https://www.brainyquote.com/authors/bret-weinstein-quotes
+> "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
+
+
+
+
 
 some people think that with LLMs we've reached the pinnacle of communication with machines with something as natural as text but that couldn't be further from the truth - we need structured data more than ever
 
