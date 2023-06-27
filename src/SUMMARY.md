@@ -15,8 +15,6 @@
     - [Headjack vs the competition](competition.md)
     - [The competitive landscape](competition.md)
 
-    - [EvArrow](evarrow.md)
-
 - [Why Headjack v2](topics.md)
     - [History 2.0: cryptohistory & authenticity](cryptohistory.md)
     - [Web 3: the Giant Global Graph](giant_global_graph.md)
@@ -34,6 +32,7 @@
     - [Can't be evil](cant_be_evil.md)
     - [Business models](business_models.md)
     - [Startup case study](startup_case_study.md)
+    - [Evolution's Arrow - quotes](evarrow.md)
     - [What REALLY is Headjack](what_really_is_headjack.md)
 
 - [Why Headjack](motivation.md)

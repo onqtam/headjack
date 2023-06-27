@@ -1,10 +1,14 @@
 
 
+# Evolution's Arrow - quotes
 
-This is the most important book.
+
+This is the most important book. This is a list of quotes
 
 [Evolution's Arrow: the direction of evolution and the future of humanity](http://users.tpg.com.au/users/jes999/EvArrow.htm), by John Stewart
 
+
+<!-- toc -->
 
 
 
@@ -27,7 +31,7 @@ This is the most important book.
 
 
 ████████████████████████████████████████████████
-Chapter 1. Introduction
+# Chapter 1. Introduction
 ████████████████████████████████████████████████
 
 > "The emergence of organisms who are conscious of the direction of evolution is one of the most important steps in the evolution of life on any planet. Once organisms discover the direction of evolution, they can use it to guide their own evolution. If they know where evolution is going, they can work out what will produce success in the future, and use this to plan how they will evolve." - [source](http://users.tpg.com.au/users/jes999/1.htm#:~:text=The%20emergence%20of,they%20will%20evolve.)
@@ -75,7 +79,7 @@ Chapter 1. Introduction
 > "One of the most important steps in the evolution of life on any planet is the emergence of organisms who are conscious of the direction of evolution and who use this to guide their own evolution. The actions of individuals who are living now can help ensure that the organism that achieves this milestone on earth will be us." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=life%20on%20earth.-,One%20of%20the%20most%20important%20steps%20in%20the%20evolution%20of%20life,the%20organism%20that%20achieves%20this%20milestone%20on%20earth%20will%20be%20us.,-%5B%C2%A0Previous%C2%A0Chapter)
 
 ████████████████████████████████████████████████
-Chapter 2. The Causes of Progress
+# Chapter 2. The Causes of Progress
 ████████████████████████████████████████████████
 
 > "Technological progress has opened up the potential to improve the living standards of all people on this planet. But this potential for social improvement has not been fully exploited this century. It has not driven on-going social progress. Instead, at the end of the 20th century over 800 million people are chronically undernourished, and each year nearly 13 million under fives die as a direct or indirect result of hunger and malnutrition. In industrialised countries, many people spend much of their lives in unsatisfying, boring and meaningless work, while large numbers choose drugs over reality.
@@ -91,7 +95,7 @@ Chapter 2. The Causes of Progress
 > "The potential for further beneficial cooperation will not be finally exhausted until all living processes are permanently organised into a single entity that is of the largest possible scale. The potential for increases in the scale of cooperation in this universe will end only when the entire universe is subsumed in a single, unified cooperative organisation of living processes. It will end only when the matter, energy and living processes of the universe are managed into a super organism on the scale of the universe." - [source](http://users.tpg.com.au/users/jes999/2.htm#:~:text=The%20potential%20for%20further,scale%20of%20the%20universe.)
 
 ████████████████████████████████████████████████
-Chapter 3. Why Cooperate?
+# Chapter 3. Why Cooperate?
 ████████████████████████████████████████████████
 
 > "Like the goods and services produced in human society, the key functions of the human body are all the product of the coordinated activities of thousand and thousands of differently-specialised and interdependent cells. If this cooperation breaks down, so to do our bodies. Cancer is one example of what happens when cells go their own way at the expense of the body.
@@ -129,7 +133,7 @@ Chapter 3. Why Cooperate?
 > "The potential benefits of cooperation can drive progressive evolution only to the extent that evolution is capable of exploiting the benefits. If evolution is unable to find ways to make cooperation work, progressive evolution will stall. This is a serious difficulty if the views of many mainstream biologists are correct. Most evolutionary theorists believe that evolution is very poor at organising cooperation, and that self-interested organisms will usually win evolutionary struggles. Consistent with this, there are many instances in the world around us where evolution seems unable to organise cooperation." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=the%20potential%20benefits%20of%20cooperation%20can%20drive,where%20evolution%20seems%20unable%20to%20organise%20cooperation.)
 
 ████████████████████████████████████████████████
-Chapter 4. Barriers to Cooperation
+# Chapter 4. Barriers to Cooperation
 ████████████████████████████████████████████████
 
 > "" - [source]()
