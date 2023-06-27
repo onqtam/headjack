@@ -10,7 +10,7 @@ The book itself is one giant quote that everyone should read.
 [Evolution's Arrow: the direction of evolution and the future of humanity (online)](http://users.tpg.com.au/users/jes999/EvArrow.htm), by John Stewart ([Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975))
 
 
-Perhaps 20% of the book has ended up here in the form of the most notable quotes.
+Perhaps 20-30% of the book has ended up here in the form of the most (subjectively) notable quotes.
 
 
 <!-- toc -->
@@ -157,19 +157,27 @@ Perhaps 20% of the book has ended up here in the form of the most notable quotes
 >
 > They have shown that there is a fundamental barrier to the evolution of cooperation amongst animals that can be overcome only in limited circumstances. Even though cooperation can provide significant advantages, the genetic evolutionary mechanism is not very effective at exploiting them. The ‘selfish gene’ perspective can successfully explain why we see only limited cooperation amongst animals." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=Evolutionary%20struggles%20tend,cooperation%20amongst%20animals.)
 
-> "" - [source]()
+> "Evolution will not progress if the barrier to the evolution of cooperation is insurmountable. This threat is even greater once we recognise that the barrier to the evolution of cooperation does not apply only to the animals we see around us. It is not just genetic evolution that is restricted by the barrier. The ‘selfish gene’ perspective can easily be extended to show that a similar barrier applies to the evolution of cooperation amongst all other living processes. It applies to cooperation amongst human organisations, individual humans, single cells, and molecular processes." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=Evolution%20will%20not,%5B5%5D.)
 
-> "" - [source]()
+> "Cooperation emerges only where evolution discovers how to build cooperative organisations out of self-interested components." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=cooperation%20emerges%20only%20where%20evolution%20discovers%20how%20to%20build%20cooperative%20organisations%20out%20of%20self%2Dinterested%20components.)
 
-> "" - [source]()
+> "Consider human corporations that sell their products in a highly competitive market. The corporations that are less efficient will tend to be out-competed, and will go out of business or be taken over. What will happen if the most efficient way corporations can make their products also pollutes the environment? Any corporation that cooperates with the community by reducing pollution will be less efficient and will go out of business. The corporations that pursue only their own interests will be more competitive, and will pollute. No matter how good the intentions of a corporation, it cannot stop polluting if it is to survive. And it does not matter whether it is run by responsible people who genuinely care about the environment. All they will achieve if they steer the corporation towards environmental responsibility is to send it broke.
+>
+> The so-called “free rider problem” undermines cooperation in many human activities. For example, it prevents businesses in an industry from cooperating together to train sufficient employees for the industry. If an industry is to be successful and to expand, enough workers must be trained in the general skills needed in that industry. However, businesses that make the investment needed to train employees can have their trained employees poached by other companies. This will often happen before the businesses have got a good return on their investment in training." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=Consider%20human%20corporations,investment%20in%20training.)
 
-> "" - [source]()
+> "Free riding occurs wherever individuals, whether they are molecular processes, cells, animals, humans or organisations of humans, can get the benefits of cooperation without contributing to its costs. Free riders will always end up ahead of cooperators who use energy or resources by cooperating. Wherever free riding is possible, it undermines cooperation." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=Free%20riding%20occurs,it%20undermines%20cooperation.)
 
-> "" - [source]()
+> "We can conclude confidently that the barrier to the evolution of cooperation applies to all living processes. The circumstances that cause it are universal. Individuals who use resources to help others without benefit to themselves will be out-competed. They will be disadvantaged compared with those who use the resources for their own benefit. And the barrier applies no matter what the evolutionary mechanisms that adapt and evolve individuals. In the examples we have considered, the barrier has applied whether the evolutionary mechanisms are those that adapt corporations, individual humans, other multicellular organisms, single cells, or autocatalytic sets.
+>
+> This barrier makes it difficult for evolutionary mechanisms to take advantage of the potential benefits of cooperation. It makes it difficult, but not impossible. If the barrier completely prevented the evolution of cooperation, evolution would not progress. But as we shall see in the next three Chapters, the barrier is not insurmountable. Evolution can exploit the advantages of cooperation by finding ways to make cooperation pay for the individuals who cooperate. To evolve, cooperation must be organised so that it is in the interests of individuals." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=We%20can%20conclude,interests%20of%20individuals.)
 
-> "" - [source]()
+> "If evolution is to progress, it must meet this central challenge: it must discover ways of building cooperative organisations out of self-interested components—it must learn how to make it in the interests of individuals to cooperate." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=if%20evolution%20is%20to%20progress%2C%20it%20must%20meet%20this%20central%20challenge%3A%20it%20must%20discover%20ways%20of%20building%20cooperative%20organisations%20out%20of%20self%2Dinterested%20components%E2%80%94it%20must%20learn%20how%20to%20make%20it%20in%20the%20interests%20of%20individuals%20to%20cooperate.)
 
-> "" - [source]()
+> "Evolution has had only limited success in building cooperative organisations of greater scale than multicellular organisms. To date, human society is as far as it has progressed. However, as we have seen, human organisation is nowhere near as spectacularly cooperative as the components of cells and as the cells within animals. The potential for beneficial cooperation amongst humans and other organisms on this planet is far from exhausted, and will continue to drive progressive evolution. We are only a step along this way. We are evolutionary work-in-progress. And as we shall see in detail, evolution’s next great challenge on earth is our challenge. To progress, evolution must discover ways to expand and improve cooperative organisation on this planet. Whether this occurs in the near future depends on us. The only evolutionary mechanisms on earth that are capable of discovering these improvements operate through our minds and our social systems." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=evolution%20has%20had%20only,and%20our%20social%20systems.)
+
+████████████████████████████████████████████████
+# Chapter 5. Organising Cooperation
+████████████████████████████████████████████████
 
 > "" - [source]()
 
