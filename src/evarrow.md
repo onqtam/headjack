@@ -1,0 +1,180 @@
+
+
+
+This is the most important book.
+
+[Evolution's Arrow: the direction of evolution and the future of humanity](http://users.tpg.com.au/users/jes999/EvArrow.htm), by John Stewart
+
+
+
+
+> "The potential benefits of cooperation will not be exhausted until all living processes in the universe are united in a single organisation of the largest possible scale. All the matter, energy and living processes of the universe will be managed into a single cooperative organisation." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+> "An organism whose motivations and objectives fail to take into account the evolutionary effects of its actions will not value objectives that do. Instead, the organism will use the immense adaptive capacity unleashed by mental modelling to get better and better at serving the goals of its existing internal reward systems." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+> "An organism will fail to be relevant to future evolution if it remains unorganised on a single planet, serving objectives and motivations established by flawed and shortsighted evolutionary mechanisms." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+> "We are an organism in which the capacity for mental modelling has not yet realised its full potential to take over and improve our evolvability." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+> "Markets include the seeds of their own destruction. They tend to produce individuals and corporations with the power to undermine the effective operation of the market." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+> "Mentally we can abstract individuals out of this on-going process and consider them as separate and independent beings. If we do this and then ask what purpose or meaning there can be in their temporary lives, we must conclude that there can be none. From the point of view of an isolated individual, the inevitability of death makes anything he does during his life irrelevant and meaningless. If there is no afterlife, whatever he does during his short life can make no difference to himself in the long run. He still ends up dead. It is impossible to find meaning in a temporary and isolated life that is not part of some ongoing process." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+> "We can live our lives as if we are separate from the on-going evolutionary process, and make no conscious contribution to it. But individuals with evolutionary awareness will not find meaning or purpose in such a life. They will find no meaning in a life spent vigorously and energetically seeking the satisfaction of their pre-existing material and emotional urges." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+
+
+
+
+████████████████████████████████████████████████
+Chapter 1. Introduction
+████████████████████████████████████████████████
+
+> "The emergence of organisms who are conscious of the direction of evolution is one of the most important steps in the evolution of life on any planet. Once organisms discover the direction of evolution, they can use it to guide their own evolution. If they know where evolution is going, they can work out what will produce success in the future, and use this to plan how they will evolve." - [source](http://users.tpg.com.au/users/jes999/1.htm#:~:text=The%20emergence%20of,they%20will%20evolve.)
+
+> "As evolution proceeds, living things will increasingly coordinate their actions for the benefit of the group rather than acting only in their own individual interests. Cooperators will inherit the earth, and eventually the universe." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=As%20evolution%20proceeds%2C%20living%20things%20will%20increasingly%20coordinate%20their%20actions%20for%20the%20benefit%20of%20the%20group%20rather%20than%20acting%20only%20in%20their%20own%20individual%20interests.%20Cooperators%20will%20inherit%20the%20earth%2C%20and%20eventually%20the%20universe%5B6%5D.)
+
+> "One thing that is striking about this is that the cooperative groups that arose at each step in the sequence became the organisms that then teamed up to form the cooperative groups (and organisms) at the next step in the sequence. The result has been that all larger-scale living organisms are made up of smaller-scale living processes that are in turn made up of still smaller-scale processes and so on. And for the organism to operate effectively, all these layers of living processes must cooperate in the interests of the organism. All organisms, each of us included, are cooperative organisations." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=One%20thing%20that,are%20cooperative%20organisations.)
+
+> "In the evolution of life on this planet, cooperation between living processes began over very small scales and has progressively increased through the formation of larger and larger-scale cooperative groups and organisms. And in the last 10,000 years, this trend has accelerated enormously. Cooperative human groups have increased in scale from small tribal societies to nation states and empires, and now to forms of human organisation that operate on the scale of the planet (e.g. multinational companies, and economic markets)." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=In%20the%20evolution%20of%20life%20on%20this,e.g.%20multinational%20companies%2C%20and%20economic%20markets).)
+
+> "Three thousand million years ago, cooperation extended only between molecular processes that were separated by about a millionth of a metre, the scale of early cells. Now, cooperation extends between human organisms that are separated by up to 12 million metres, the scale of the planet. And by up to 380 million metres when there are moon landings." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=Three%20thousand%20million,are%20moon%20landings.)
+
+> "The advantages of being better at adapting have driven progressive improvements in the evolvability and adaptability of cooperative groups, and of the organisms they eventually produce. The processes that adapt and evolve organisms have got progressively better at discovering the most effective forms of cooperation amongst the living processes that make up the organisms. Evolution itself evolves, and living processes get smarter at evolving." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=The%20advantages%20of%20being,get%20smarter%20at%20evolving.)
+
+> "A key milestone was reached when organisms could communicate with each other about adaptive improvements they had discovered during their lives. Adaptive discoveries no longer died with the individual who made them. They could be passed on to others, and a culture of adaptive information could be developed. Once this ability evolved, the internal adaptive processes qualified as evolutionary mechanisms, able to accumulate adaptive discoveries across the generations. On this planet, only humans and our societies have evolved this capacity to a high level." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=A%20key%20milestone,a%20high%20level.)
+
+> "An organism capable of mental modelling can form internal mental models and mental pictures of how its environment will unfold in the future, and how its actions will affect this. To an extent, it can predict the future. So it is able to try out possible actions mentally, select the one that produces the best future result in its mental models, and only then try it out in practice." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=An%20organism%20capable,%5B11%5D.)
+
+> "Progressively the organisms will be able to model how their environment unfolds over wider and wider scales of space and time. Eventually the organisms will be able to model the wider-scale evolutionary processes that have produced it and will affect them in the future. For the first time they will see themselves as situated at a particular point in an on-going and progressive evolutionary process. And they will not just become aware of the direction of evolution. They will also become aware that their increasing awareness of the direction of evolution is itself a significant step in evolution." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=Progressively%20the%20organisms,step%20in%20evolution.)
+
+> "The organisms will see that their existing physical adaptations and their existing motivations, interests, beliefs, and values are all the products of their evolutionary history. These characteristics will have all been tailored and tuned by past evolution to ensure that the organism survives. As their understanding of the direction of evolution improves, they will also see what they will have to do in the future to continue their evolutionary success. The organisms will see what they have to do both as individuals and socially: they will understand that they must further exploit the benefits of cooperation by forming cooperative organisations of larger and larger scale and greater and greater evolvability." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=The%20organisms%20will%20see,greater%20and%20greater%20evolvability.)
+
+> "But will the organisms use their awareness of the direction of evolution to guide their own evolution? Will they choose to do what is necessary for future evolutionary success? Will they care about their evolutionary future? The difficulty faced by all organisms at this stage in their evolution is that they will be unlikely to find satisfaction and motivation in what they have to do for future evolutionary success. Continued success will demand radical changes in their behaviour and social organisation. But their existing motivations, moral codes, and values will influence their willingness to make these changes. The problem is that their motivations and other predispositions will have been moulded by the needs of past evolution, not future evolution. Past evolution will have tailored their motivations and values so that they find satisfaction in behaviours and actions that would have produced success in the past, not those that will produce success in the future. Up until the development of their capacity for mental modelling, they will have been adapted by evolutionary mechanisms that were without foresight, and could not take into account the needs of future evolution." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=But%20will%20the,of%20future%20evolution.)
+
+> "It is one thing for an organism to know what it has to do for future evolutionary success. It is another thing entirely to want to do something about it. It is a bit like a person who knows that it is in his longer-term interests to work long hours and save money while he is young to provide for a comfortable retirement. As many of us know, awareness of our longer-term interests will not automatically motivate us to do what is necessary to serve those interests. The difficulty in finding motivation to pursue future evolutionary success is even greater. The individual will often not benefit at all through support for evolutionary objectives. It will often be only future generations who do so." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=It%20is%20one,who%20do%20so.)
+
+> "But we will see that an organism that develops a fuller understanding of the evolutionary process and of its place in it will be more likely to break free of its biological and social past, and develop the capacity to do whatever is necessary for future success. Such an organism will become aware that its existing beliefs, motivations and values have no special validity. It knows that if its past evolutionary needs were different, its motivations and values would also be different. These predispositions will be seen as the products of shortsighted evolutionary mechanisms that have been incapable of producing the motivations and values needed for future evolutionary success." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=But%20we%20will,future%20evolutionary%20success.)
+
+> "If they can develop this psychological capacity to adapt their behaviour in whatever way is necessary, they can transcend their biological and social past. They can become self-evolving beings, able to change their behaviour and objectives by conscious choice. They will see themselves as evolutionary work-in-progress, with no fixed characteristics, able to find satisfaction and motivation in doing whatever they choose. The organism will also know that only organisms that choose to struggle to develop this psychological capacity are likely to make a significant contribution to the future evolution of life in the universe. Those who choose instead to continue to serve obsolete values and motivations will be irrelevant to life, and face eventual extinction. The organism will know that the choice that faces it is, in an evolutionary sense, a choice to be or not to be." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=If%20they%20can,not%20to%20be.)
+
+> "An organism can use its modelling capacity not only to model and manage its external environment, but also to model and manage its internal adaptive processes. It can develop mental models of the pre-existing physical, emotional, and mental adaptive processes that determine how it behaves and acts. The models will enable it to understand consciously how its pre-existing adaptive processes operate, what useful effects they have, how they might be modified, and what the consequences of this might be. Through self-knowledge they will develop the capacity to gain control over their internal adaptive processes." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=an%20organism%20can%20use,their%20internal%20adaptive%20processes.)
+
+> "Cooperation amongst humans has expanded considerably in scale over the past 100,000 years. Initially cooperation existed only within small family groups. Since then, cooperative organisation has progressively expanded in scale to produce multi-family bands, tribes, agricultural communities, cities, empires, nation states, and now some forms of economic and social organisation that span the globe." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=Cooperation%20amongst%20humans,%5B14%5D.)
+
+> "The ability of human cooperative organisation to exploit the benefits of cooperation can be greatly improved. Modern human societies are obviously not an endpoint of evolution. The organisms that play a significant role in the evolution of life in the universe will not be those that stop evolving when they reach the position we have. Guided by awareness of evolution’s arrow, they will go on to form cooperative organisations of larger and larger scale and of greater and greater evolvability. First they will form a unified planetary organisation that manages the matter, energy and living processes of the planet. Then this organisation will be progressively expanded to form still larger-scale societies of increasing evolvability. Matter, energy and life will be managed on the scale of the organism’s solar system and, eventually, its galaxy. The greater the scale of the resources the organism is able to manage, the more likely it will be able to adapt to whatever challenges it faces in its conscious pursuit of future evolutionary success." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=the%20ability%20of%20human,of%20future%20evolutionary%20success.)
+
+> "Until its citizens chose to consciously pursue future evolutionary success, the society would therefore continue to serve only the pre-existing biological and cultural needs of its members. The immense evolutionary potential of a society that could intelligently manage matter, energy and life on the scale of the planet would be used to serve values and objectives established by shortsighted and flawed evolutionary mechanisms. The enormous power of our emerging technologies such as artificial intelligence and genetic engineering would not be harnessed to achieve future evolutionary success. Instead they would be used merely to satisfy obsolete desires and values that conflict with future evolutionary needs." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=Until%20its%20citizens,future%20evolutionary%20needs.)
+
+> "A full understanding of evolution and its direction leaves an individual with very limited choices. It is not open to us to choose to ignore the dictates of evolution. Whether we choose to pursue only the values and motivations established in us by our biological and cultural past, or instead decide consciously to serve the future evolutionary interests of humanity, we will be following evolutionary objectives. The only choice is between serving goals established in us by evolutionary mechanisms that are incompetent, or by mechanisms that are the best available. We can choose to live a life that serves obsolete evolutionary goals established by inferior and shortsighted evolutionary mechanisms. Or we can use awareness of the direction of evolution to guide how we can consciously contribute to the future evolutionary success of humanity." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=a%20full%20understanding,success%20of%20humanity.)
+
+> "Once individuals become aware of the direction of evolution, if they decide to continue to serve the dictates of past evolution they are choosing evolutionary failure, in the full knowledge that they are doing so. Individuals that make such a decision are choosing a life that is meaningless, absurd and ridiculous from an evolutionary perspective, and know that they are making such a choice.
+>
+> Individuals who instead use the direction of evolution to guide their actions obtain a clear answer to one of the most central questions of their existence: “What should I do with my life?” They see that they should do what they can to promote the awareness of the direction of evolution amongst others and to develop in themselves and in others the psychological capacity to do what is necessary for future evolutionary success. They will also want to contribute to the formation of a cooperative and evolvable planetary society that manages the matter, energy and living processes of the planet to form organisations of yet larger scale and of greater evolvability. And they will be aware that their actions are contributing to the next great step in the evolution of life on earth." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=Once%20individuals%20become,life%20on%20earth.)
+
+> "One of the most important steps in the evolution of life on any planet is the emergence of organisms who are conscious of the direction of evolution and who use this to guide their own evolution. The actions of individuals who are living now can help ensure that the organism that achieves this milestone on earth will be us." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=life%20on%20earth.-,One%20of%20the%20most%20important%20steps%20in%20the%20evolution%20of%20life,the%20organism%20that%20achieves%20this%20milestone%20on%20earth%20will%20be%20us.,-%5B%C2%A0Previous%C2%A0Chapter)
+
+████████████████████████████████████████████████
+Chapter 2. The Causes of Progress
+████████████████████████████████████████████████
+
+> "Technological progress has opened up the potential to improve the living standards of all people on this planet. But this potential for social improvement has not been fully exploited this century. It has not driven on-going social progress. Instead, at the end of the 20th century over 800 million people are chronically undernourished, and each year nearly 13 million under fives die as a direct or indirect result of hunger and malnutrition. In industrialised countries, many people spend much of their lives in unsatisfying, boring and meaningless work, while large numbers choose drugs over reality.
+>
+> Human society has failed to produce on-going social progress in these areas because it does not include a mechanism that selects and reproduces social improvements when they are discovered or proposed. If society stumbles on improvements either by accident or by conscious effort, there is no process that locks in the improvements and perpetuates them. The economic and political markets that select and reproduce technological advances do not do the same for social improvements.
+>
+> As we shall consider in detail later in this book, it is possible to organise human society so that social improvements are selected and reproduced, and so that social progress is as inevitable, unstoppable and natural as technological progress. And we will see that evolutionary success for humanity will ultimately depend on organising ourselves in this way." - [source](http://users.tpg.com.au/users/jes999/2.htm#:~:text=Technological%20progress%20has,in%20this%20way.)
+
+> "In the case of the mechanisms that adapt individuals, possible improvements are developed, tried out, and selected at the level of the individual human, cell or ant. But in the case of organisational adaptation, it is the collective activity of many individual humans, cells or ants that search for and reproduce adaptations. Through these processes the organisation can solve adaptive problems collectively that individuals cannot. Just as our brain solves problems that are not understood by any cell in the brain, human markets and governments can solve adaptive problems that are not fully understood by any individual." - [source](http://users.tpg.com.au/users/jes999/2.htm#:~:text=In%20the%20case%20of%20the,fully%20understood%20by%20any%20individual.)
+
+> "The genetic mechanism is unable to do this. It cannot directly combine adaptations discovered in different species. When a relatively general advance such as a better eye is discovered, there is no process that enables it to be immediately adopted by all those species that have inferior eyes. Again we find that although genetic evolution is as fundamentally progressive as technological evolution due to the existence of similar potentials for on-going improvement, it is far inferior at exploiting these potentials." - [source](http://users.tpg.com.au/users/jes999/2.htm#:~:text=The%20genetic%20mechanism%20is,at%20exploiting%20these%20potentials.)
+
+> "The potential for further beneficial cooperation will not be finally exhausted until all living processes are permanently organised into a single entity that is of the largest possible scale. The potential for increases in the scale of cooperation in this universe will end only when the entire universe is subsumed in a single, unified cooperative organisation of living processes. It will end only when the matter, energy and living processes of the universe are managed into a super organism on the scale of the universe." - [source](http://users.tpg.com.au/users/jes999/2.htm#:~:text=The%20potential%20for%20further,scale%20of%20the%20universe.)
+
+████████████████████████████████████████████████
+Chapter 3. Why Cooperate?
+████████████████████████████████████████████████
+
+> "Like the goods and services produced in human society, the key functions of the human body are all the product of the coordinated activities of thousand and thousands of differently-specialised and interdependent cells. If this cooperation breaks down, so to do our bodies. Cancer is one example of what happens when cells go their own way at the expense of the body.
+>
+> And the cells themselves are cooperative organisations. Without extensive cooperation between the molecular processes and organelles that make up cells, we would not exist. Each of our million billion cells is made up of thousands of incredibly small and intricate parts that cooperate together to produce the functions of the cell. At the molecular level, a human cell may contain up to 100,000 different proteins. Proteins are differentiated and specialised in many ways: some provide support for the components of the cell, some form part of the cell membrane, some have the ability to contract, moving the cell or parts within it, and many are specific enzymes that regulate the essential chemical reactions that enable the cell to function. Often these enzymes cooperate to form teams in which each member regulates a particular step in a sequence of reactions.
+>
+> Just as humans team up to form corporations, and cells are organised into organs, groups of molecules may also form larger structures called organelles. These too are differentiated and specialised, with mitochondria, the so-called power houses of the cell, releasing and converting energy for use in the cell, ribosomes providing sites for putting together proteins, the nucleus housing most of the genetic material, and lysosomes providing places in which food can be digested without dissolving other parts of the cell." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=Like%20the%20goods,%5B2%5D.)
+
+> "In summary, we are cooperators that are made of cooperators that are made of cooperators and so on. It is cooperation all the way down." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=In%20summary%2C%20we%20are%20cooperators%20that%20are%20made%20of%20cooperators%20that%20are%20made%20of%20cooperators%20and%20so%20on.%20It%20is%20cooperation%20all%20the%20way%20down.)
+
+> "The key to the success of cooperation is that combinations of individuals whose activities are coordinated can do things better than individuals, and can do things that individuals cannot." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=The%20key%20to%20the%20success%20of%20cooperation%20is%20that%20combinations%20of%20individuals%20whose%20activities%20are%20coordinated%20can%20do%20things%20better%20than%20individuals%2C%20and%20can%20do%20things%20that%20individuals%20cannot.)
+
+> "One of the main ways in which cooperation enables things to be done better is through specialisation and division of labour. In a cooperative organisation, every individual does not have to do everything needed for survival. Instead, an individual can specialise in a particular task, performing the task not only for itself but also for others in the group. This lets the others specialise in other tasks for the group. The result is a highly interdependent organisation in which key tasks are performed by individuals who are specially adapted and equipped to do them." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=One%20of%20the,%5B3%5D.)
+
+> "So wherever evolution has been able to fully exploit the benefits of cooperation, we always find the extraordinary level of specialisation and interdependency that results from a high degree of division of labour. We find it within cells, within our bodies, within our social systems, and between nations. And there is every reason to believe it will also be a feature of organisations that are capable of future evolutionary success on even larger scales." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=So%20wherever%20evolution,even%20larger%20scales.)
+
+> "But it is not only through a division of labour that cooperation provides advantages. Cooperation is also able to exploit the fact that combinations often have new features that their components do not. Combinations can do things that individuals cannot." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=But%20it%20is%20not%20only%20through%20a%20division%20of%20labour%20that%20cooperation%20provides%20advantages.%20Cooperation%20is%20also%20able%20to%20exploit%20the%20fact%20that%20combinations%20often%20have%20new%20features%20that%20their%20components%20do%20not%5B5%5D.%20Combinations%20can%20do%20things%20that%20individuals%20cannot.)
+
+> "Similarly, combinations of living things can also do things that individuals cannot: amino acids, the building blocks of proteins, are unable to regulate chemical reactions in the cell by themselves. But when combined to form protein enzymes, they can control and manipulate other atoms and molecules, determining how they react and what larger molecules are constructed in the cell. A flock of birds or a troop of baboons is able to detect stalking predators that individuals are unable to. And combinations of cells in our bodies form tubes to carry blood, teeth that enable us to chew food, and many other useful structures that individual cells cannot." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=Similarly%2C%20combinations%20of,individual%20cells%20cannot.)
+
+> "Cooperative combinations can also have significant evolutionary advantages because of their larger scale. For example, larger-scale organisms can have adaptations that are more complex. A bacterium could not evolve a brain as complex as ours. This level of complexity was possible only after billions of cells teamed up to form multicellular organisms." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=Cooperative%20combinations%20can,form%20multicellular%20organisms.)
+
+> "But more importantly, the ability to form larger-scale cooperative groups enables organisms to manage and manipulate their environment over larger scales. Large human organisations can operate mines, build dams and establish communications networks of a scale unimaginable to small bands of earlier humans. A human social system organised on the scale of the planet is likely to be able to develop the capacity to prevent large asteroids from colliding with the planet. Dinosaurs and bacteria have been unable to adapt on a sufficient scale to do this." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=But%20more%20importantly,to%20do%20this.)
+
+> "A further very general advantage of cooperation is that it can prevent the harmful effects of destructive competition. Non-cooperating individuals pursue their own interests even where this damages the interests of others. A population of such individuals will damage each other’s interests, and all will loose." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=A%20further%20very,all%20will%20loose.)
+
+> "The advantages of cooperation mean that a whole world of new adaptive opportunities is opened whenever living processes team up to form a cooperative organisation. This has clearly been the case when molecular processes teamed up to form cells, when cells teamed up to form multicellular organisms, and when humans teamed up to form social systems. Each of these levels of cooperative organisation has been able to conquer new environments and develop adaptations unknown to the levels that preceded them. We can be sure that new evolutionary opportunities will also be opened up as human organisation expands to the scale of the planet and beyond. Exactly what these new opportunities will be, we cannot know with certainty. The adaptive opportunities that were opened up by the move from single cells to multicellular organisms are unimaginable from the point of view of a single cell and its life experiences. What could the trunk of an elephant, the wings of a bird, the heart of a deer, or a jet aircraft possibly mean to a cell? But what we can know with certainty is that by expanding the scale of human cooperative organisation we will open up greater adaptive capabilities. And as we shall see in later chapters, it will increase the chances that humanity can play a significant role in the future evolution of life in the universe." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=The%20advantages%20of%20cooperation%20mean,of%20life%20in%20the%20universe.)
+
+> "The advantages of cooperation are general. They apply to cooperation between any living processes. They do not depend on the existence of any special local circumstances or conditions. Any organisms, whether of the same species or not, can benefit from the evolution of suitable cooperative relationships between them. Whatever the evolutionary challenges faced by organisms, they can meet them more effectively through cooperation." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=the%20advantages%20of%20cooperation%20are,them%20more%20effectively%20through%20cooperation.)
+
+> "The advantages continue to apply no matter how large cooperative organisation becomes. The advantages do not cease once cooperative organisation reaches a particular scale. Further increases in cooperation will deliver further evolutionary advantages. Increases in the scale of cooperative organisation did not stop providing advantages once cooperation reached the scale of a single cell, or the scale of multicellular organisms, or of human villages. In all these cases, the potential benefits of cooperation between organisations of the largest scale continued to drive the progressive evolution of cooperation." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=the%20advantages%20continue,evolution%20of%20cooperation.)
+
+> "No matter what the scale of cooperative organisation, greater benefits will be achieved by further increases in scale, whether by the expansion of existing organisations, or by the evolution of cooperation between organisations of the largest scale. Living processes that cooperate over the scale of a solar system will have much greater adaptive capabilities and opportunities than us. But their abilities will be far inferior to organisms that cooperate to manage the matter, energy and living resources of a galaxy. The potential benefits of cooperation can be expected to continue to drive increases in the scale of cooperative organisation at least until the universe is organised into a single cooperative organisation of living processes." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=No%20matter%20what,of%20living%20processes.)
+
+> "The potential benefits of cooperation can drive progressive evolution only to the extent that evolution is capable of exploiting the benefits. If evolution is unable to find ways to make cooperation work, progressive evolution will stall. This is a serious difficulty if the views of many mainstream biologists are correct. Most evolutionary theorists believe that evolution is very poor at organising cooperation, and that self-interested organisms will usually win evolutionary struggles. Consistent with this, there are many instances in the world around us where evolution seems unable to organise cooperation." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=the%20potential%20benefits%20of%20cooperation%20can%20drive,where%20evolution%20seems%20unable%20to%20organise%20cooperation.)
+
+████████████████████████████████████████████████
+Chapter 4. Barriers to Cooperation
+████████████████████████████████████████████████
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
