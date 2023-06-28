@@ -21,6 +21,8 @@ informational metabolism, cybernetics & the OODA loop
 
 evolutionary activism
 
+The fairness protocol - transparency, accountability, skin in the game, inquiry
+
 Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
     https://en.wikipedia.org/wiki/Metasystem_transition
     https://upload.wikimedia.org/wikipedia/commons/9/92/Major_Evolutionary_Transitions_digital.jpg
