@@ -311,6 +311,15 @@ Perhaps 20-30% of the book has ended up here in the form of the most (subjective
 >
 > A distributed internal manager clearly has the potential to organise a group cooperatively. It can hard wire individuals so that they participate directly in cooperation, provide resources to maintain group activities, refrain from cheating, theft and free riding, and punish individuals who undermine cooperation. In this way it can cause individuals to act in the interests of the group as a whole, and to treat others in the group as self. An internal manager can organise cooperation directly by hard wiring specific cooperative behaviours in individuals. Or it can do it indirectly by controlling exchanges between individuals so that individuals capture the benefits of their cooperative acts on others. For example, individuals might be hard wired so that they do not cheat in reciprocal cooperative exchanges. This would enable the reciprocal altruism mechanism to operate successfully." - [source](http://users.tpg.com.au/users/jes999/7.htm#:~:text=a%20tribe%20could,to%20operate%20successfully.)
 
+
+
+
+
+
+
+
+Distributed internal management that is unable to suppress competition from other managers within the organisation will not be effective at organising cooperation. It will not be able to capture all the benefits of cooperation. An example is the process of genetical kin selection that we considered earlier. Kin selection begins to operate when an individual contains a genetic manager that predisposes it to cooperate with others. The normal process of reproduction will produce related individuals who also contain the same manager. If it is to be successful, the manager must capture the benefits of the cooperation it produces. So evolution will favour genetic managers that organise individuals to direct their cooperation only towards others who contain copies of itself. As we have seen, managers can use relatedness to target their cooperation in this way[8]. But, because relatedness is not a perfect indicator of a shared manager, a manager will not capture all the benefits of the cooperation it organises. Some of the benefits will leak to individuals who do not include the manager. The manager will not find it profitable to organise some forms of cooperation even though it provides net benefits. As a result, the ability of genetical kin selection to organise cooperation is limited.
+
 > "" - [source]()
 
 > "" - [source]()
