@@ -635,7 +635,7 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 > "Recognizing that we are an essential part of cosmic evolution establishes an agenda with clear milestones for humanity and a rational ethical code. This code is based on the premise that we have a responsibility to do what is good for the living network, which includes not only humans, but all sentient life, as well as the biosphere, since life critically depends on entire ecosystems. We must recognize that we are part of an interdependent, interconnected whole, and we must make decisions that are consistent with the goals of civilization. If we do not become cognizant that the only way to overcome existential challenges is by working together, then human civilization will fail, and those that come after us will get their chance." - [The Romance of Reality: How the Universe Organizes Itself to Create Life, Consciousness, and Cosmic Complexity, by Bobby Azarian](https://nextbigideaclub.com/magazine/romance-reality-universe-organizes-create-life-consciousness-cosmic-complexity-bookbite/35458/#:~:text=Recognizing%20that%20we,get%20their%20chance.)
 
-
+> "Cryptography is truly special in the 21st century because cryptography is one of the very few fields where adversarial conflict continues to heavily favor the defender." - [Vitalik Buterin](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#:~:text=Cryptography%20is%20truly%20special%20in%20the%2021st%20century%20because%20cryptography%20is%20one%20of%20the%20very%20few%20fields%20where%20adversarial%20conflict%20continues%20to%20heavily%20favor%20the%20defender.)
 
 
 
@@ -644,6 +644,7 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 > "Throughout the Holocene, societies developed additional layers of administration and more information-rich instruments for managing and recording transactions and events as they grew in population and territory. Yet, while such increases seem inevitable, they are not." - [Scale and information-processing thresholds in Holocene social evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7224170/#:~:text=Throughout%20the%20Holocene%2C%20societies%20developed%20additional%20layers%20of%20administration%20and%20more%20information%2Drich%20instruments%20for%20managing%20and%20recording%20transactions%20and%20events%20as%20they%20grew%20in%20population%20and%20territory.%20Yet%2C%20while%20such%20increases%20seem%20inevitable%2C%20they%20are%20not.)
 
+> "All life is problem solving" - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
 
 
 cooperation does not evolve easily
