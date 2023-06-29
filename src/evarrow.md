@@ -312,25 +312,37 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 ## Chapter 8. Smarter Cooperation
 
-> "" - [source]()
+> "These examples can also help us to see how the basic change-and-test process can be combined with more complex arrangements to improve the ability of the process to discover adaptations. The basic process searches for adaptation by trying out changes. It can discover improvements even if the changes are chosen randomly. But the search will be more efficient if the changes are chosen so that they have a better than random chance of proving adaptive. Change-and-test processes will do better if the changes they try out are non-random and are instead targeted at the types of changes that are likely to prove adaptively useful." - [source](http://users.tpg.com.au/users/jes999/8.htm#:~:text=These%20examples%20can,prove%20adaptively%20useful.)
 
-> "" - [source]()
+> "The behaviour of young animals generally includes a high level of trial-and-error until they learn to target their behaviour more accurately at their particular adaptive goals.
+>
+> The change-and-test process can be targeted even more accurately if the organism is able to form mental representations or models of itself and of its environment, and is able to test possible changes against these models mentally, before trying them out in practice. Instead of using the change-and-test process to try out actual changes in the real world, possible adaptive changes are first tried out mentally.
+>
+> On this planet, we humans have the most highly developed capacity to search for adaptations using mental processes. In some circumstances our modelling capacity is so effective that it can completely eliminate the need for external trial-and-error. When our mental model of a situation can accurately predict the consequences of our alternative acts, we can mentally design an action that will directly achieve our adaptive goal. We then simply implement the changes that we see will achieve our goal. No external change-and-test process is necessary." - [source](http://users.tpg.com.au/users/jes999/8.htm#:~:text=The%20behaviour%20of,process%20is%20necessary.)
 
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
+> "We have a tendency to think that these complex systems can be best designed and adapted by the use of human intelligence. We think that if we collect enough information about the system, we can understand it sufficiently to decide the course of action needed to produce the result we want. However, we can rarely have sufficient information about complex and rapidly changing systems to make them predictable enough for us to adapt them in this way. The experience of centrally-planned economies has made this increasingly clear in recent years. Attempts to use central planning to match production levels to the needs of consumers have been spectacularly unsuccessful." - [source](http://users.tpg.com.au/users/jes999/8.htm#:~:text=We%20have%20a,been%20spectacularly%20unsuccessful.)
 
 ## Chapter 9. Smarter Genes
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
 
 > "" - [source]()
 
