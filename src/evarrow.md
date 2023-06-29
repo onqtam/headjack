@@ -6,11 +6,7 @@ The most important book in the world is **"Evolution's Arrow: the direction of e
 
 **It represents the pinnacle of recursive relevance realization & adaptability for conscious life.**
 
-Perhaps 20-30% of it has ended up here in the form of the most (subjectively) notable quotes. In all honesty, it should have been 100%.
-
-
-
-
+Perhaps 20-30% of it has ended up here in the form of the most (subjectively) notable quotes. In all honesty, it should have been 100% and everyone should just read it from cover to cover.
 
 <!-- toc -->
 
@@ -30,13 +26,9 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 > "We can live our lives as if we are separate from the on-going evolutionary process, and make no conscious contribution to it. But individuals with evolutionary awareness will not find meaning or purpose in such a life. They will find no meaning in a life spent vigorously and energetically seeking the satisfaction of their pre-existing material and emotional urges." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
 
+# Part 1: Evolutionary Progress?
 
-
-
-
-████████████████████████████████████████████████
-# Chapter 1. Introduction
-████████████████████████████████████████████████
+## Chapter 1. Introduction
 
 > "The emergence of organisms who are conscious of the direction of evolution is one of the most important steps in the evolution of life on any planet. Once organisms discover the direction of evolution, they can use it to guide their own evolution. If they know where evolution is going, they can work out what will produce success in the future, and use this to plan how they will evolve." - [source](http://users.tpg.com.au/users/jes999/1.htm#:~:text=The%20emergence%20of,they%20will%20evolve.)
 
@@ -82,9 +74,7 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 > "One of the most important steps in the evolution of life on any planet is the emergence of organisms who are conscious of the direction of evolution and who use this to guide their own evolution. The actions of individuals who are living now can help ensure that the organism that achieves this milestone on earth will be us." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=life%20on%20earth.-,One%20of%20the%20most%20important%20steps%20in%20the%20evolution%20of%20life,the%20organism%20that%20achieves%20this%20milestone%20on%20earth%20will%20be%20us.,-%5B%C2%A0Previous%C2%A0Chapter)
 
-████████████████████████████████████████████████
-# Chapter 2. The Causes of Progress
-████████████████████████████████████████████████
+## Chapter 2. The Causes of Progress
 
 > "Technological progress has opened up the potential to improve the living standards of all people on this planet. But this potential for social improvement has not been fully exploited this century. It has not driven on-going social progress. Instead, at the end of the 20th century over 800 million people are chronically undernourished, and each year nearly 13 million under fives die as a direct or indirect result of hunger and malnutrition. In industrialised countries, many people spend much of their lives in unsatisfying, boring and meaningless work, while large numbers choose drugs over reality.
 >
@@ -98,9 +88,9 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 > "The potential for further beneficial cooperation will not be finally exhausted until all living processes are permanently organised into a single entity that is of the largest possible scale. The potential for increases in the scale of cooperation in this universe will end only when the entire universe is subsumed in a single, unified cooperative organisation of living processes. It will end only when the matter, energy and living processes of the universe are managed into a super organism on the scale of the universe." - [source](http://users.tpg.com.au/users/jes999/2.htm#:~:text=The%20potential%20for%20further,scale%20of%20the%20universe.)
 
-████████████████████████████████████████████████
-# Chapter 3. Why Cooperate?
-████████████████████████████████████████████████
+# Part 2: The Evolution of Cooperation
+
+## Chapter 3. Why Cooperate?
 
 > "Like the goods and services produced in human society, the key functions of the human body are all the product of the coordinated activities of thousand and thousands of differently-specialised and interdependent cells. If this cooperation breaks down, so to do our bodies. Cancer is one example of what happens when cells go their own way at the expense of the body.
 >
@@ -136,9 +126,7 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 > "The potential benefits of cooperation can drive progressive evolution only to the extent that evolution is capable of exploiting the benefits. If evolution is unable to find ways to make cooperation work, progressive evolution will stall. This is a serious difficulty if the views of many mainstream biologists are correct. Most evolutionary theorists believe that evolution is very poor at organising cooperation, and that self-interested organisms will usually win evolutionary struggles. Consistent with this, there are many instances in the world around us where evolution seems unable to organise cooperation." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=the%20potential%20benefits%20of%20cooperation%20can%20drive,where%20evolution%20seems%20unable%20to%20organise%20cooperation.)
 
-████████████████████████████████████████████████
-# Chapter 4. Barriers to Cooperation
-████████████████████████████████████████████████
+## Chapter 4. Barriers to Cooperation
 
 > "We humans are obviously only partial cooperators. It is true that human economies can be spectacularly cooperative with an extraordinary specialisation and division of labour. It is also clear that internally, within our own bodies, we are cooperative all the way down. But anyone who tries to convince us that humans are always cooperators has a hard job in front of them.
 >
@@ -174,9 +162,7 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 > "Evolution has had only limited success in building cooperative organisations of greater scale than multicellular organisms. To date, human society is as far as it has progressed. However, as we have seen, human organisation is nowhere near as spectacularly cooperative as the components of cells and as the cells within animals. The potential for beneficial cooperation amongst humans and other organisms on this planet is far from exhausted, and will continue to drive progressive evolution. We are only a step along this way. We are evolutionary work-in-progress. And as we shall see in detail, evolution’s next great challenge on earth is our challenge. To progress, evolution must discover ways to expand and improve cooperative organisation on this planet. Whether this occurs in the near future depends on us. The only evolutionary mechanisms on earth that are capable of discovering these improvements operate through our minds and our social systems." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=evolution%20has%20had%20only,and%20our%20social%20systems.)
 
-████████████████████████████████████████████████
-# Chapter 5. Organising Cooperation
-████████████████████████████████████████████████
+## Chapter 5. Organising Cooperation
 
 > "The first major breakthrough in understanding how cooperation might evolve between multicellular animals came with the publication of William Hamilton’s theory of genetical kin selection in 1964. The central idea in the mechanism he described is very simple: consider a cooperator who shares its food with others who have not been able to gather enough. If the cooperator shares food only with other individuals who contain copies of its cooperator gene, the benefits of cooperation will go only to other cooperators. Only those who carry the cooperator gene will benefit. Non-cooperators will be excluded from any of the advantages of cooperation." - [source](http://users.tpg.com.au/users/jes999/5.htm#_ednref1:~:text=The%20first%20major,advantages%20of%20cooperation.)
 
@@ -264,9 +250,7 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 > "Competition between human societies is no longer strong enough or incessant enough to align the interests of human rulers and governments with those of their citizens. When human groups were small and numerous, competition was strong and continual. But as human societies grew larger and fewer, competition between them has decreased. We will see that in the absence of strong and continual competition, the key to the evolution of cooperative human societies is the discovery of new organisational structures. These must align the interests of the ruler or government with those of the members of the society. When this is achieved, a government driven purely by self-interest will manage in the interests of the society. Abuse and exploitation will end, and the benefits of cooperation can be fully exploited." - [source](http://users.tpg.com.au/users/jes999/5.htm#_ednref1:~:text=competition%20between%20human,be%20fully%20exploited.)
 
-████████████████████████████████████████████████
-# Chapter 6. The Evolution of Management
-████████████████████████████████████████████████
+## Chapter 6. The Evolution of Management
 
 > "Eventually, the evolutionary success of a manager will depend totally on its ability to manage the group that it controls. It will have no evolutionary future outside the group it manages. The success of the manager will depend totally on the success of the organisation. The manager will capture all the effects on the organisation of its actions, good and bad, and will therefore treat the organisation as it would treat itself. The self-interested manager will pursue the interests of the organisation as a whole. The group and the manager will form an organisation that is a single, united evolutionary entity." - [source](http://users.tpg.com.au/users/jes999/6.htm#:~:text=Eventually%2C%20the%20evolutionary,united%20evolutionary%20entity.)
 
@@ -298,9 +282,7 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 >
 > As we will see in detail, our current systems of government fail to meet the evolutionary ideal. Democratic processes are not sufficient to completely align the interests of the governors with the governed. As a result, even highly democratic human societies do not harness the benefits of cooperation in the interests of society as a whole. A major challenge for humans in the future is therefore to devise forms of organisation that overcome this limitation, and that are more likely to be successful in evolutionary terms. Even though our societies may not be subject to strong and continual competition at present, we must organise our societies cooperatively so that they will be competitive in future evolution. If evolution on this planet is to continue to progress by exploiting more of the potential benefits of cooperation, we must meet this challenge successfully." - [source](http://users.tpg.com.au/users/jes999/6.htm#:~:text=For%20continued%20evolutionary,this%20challenge%20successfully.)
 
-████████████████████████████████████████████████
-# Chapter 7. Internal Management
-████████████████████████████████████████████████
+## Chapter 7. Internal Management
 
 > "A tribe could be managed by a set of hard-wired predispositions that could reproduce itself in most of the members of the group, and cause them to expel any remaining members who did not appear to contain the hard wiring. I will refer to such a manager as a distributed internal manager: the management is internal to the individuals being managed, and is distributed in the sense that it is contained in each of the members of the group.
 >
@@ -326,9 +308,9 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 >
 > Their evolvability will also determine how effective they are at discovering how to form cooperative organisations of wider and wider scale. Living processes that evolve by the genetic evolutionary mechanism will be slow to discover how to form cooperative organisations. The genetic mechanism has no foresight or ability to anticipate future evolution. It has no capacity to understand the progressive evolutionary sequence of increasing cooperation that I have outlined, and no ability to use the sequence to guide its evolution. The genetic mechanism will still exploit the potential benefits of cooperation, but only when it blindly stumbles on cooperation that proves successful. In contrast, when living processes arise that develop an understanding of the progressive nature of evolution, evolution can move far more rapidly and directly to produce cooperative organisations of increasing scale. Once organisms know where evolution is headed and develop the ability to use this knowledge to guide their own evolution, progressive evolution will accelerate." - [source](http://users.tpg.com.au/users/jes999/7.htm#:~:text=So%20the%20evolution,evolution%20will%20accelerate.)
 
-████████████████████████████████████████████████
-# Chapter 8. Smarter Cooperation
-████████████████████████████████████████████████
+# Part 3: The Evolution of Evolution
+
+## Chapter 8. Smarter Cooperation
 
 > "" - [source]()
 
@@ -348,45 +330,48 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 9. Smarter Genes
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 10. Smarter Organisms
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 11. Smarter Humans
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 12. The Self-Evolving Organism
 
 > "" - [source]()
 
-> "" - [source]()
+# Part 4: The Evolution of Life on Earth – Past, Present and Future
+
+## Chapter 13. Evolution of Life on Earth
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 14. Management by Morals
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 15. The Rise of Governed Societies
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 16. Limitations of Markets
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 17. Planetary Society and Beyond
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 18. Humanity V. Bacteria
 
 > "" - [source]()
 
-> "" - [source]()
+## Chapter 19. The Evolutionary Warrior
 
+> "" - [source]()
