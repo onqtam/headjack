@@ -45,6 +45,8 @@ Headjack - having a lower ID
 
 Oauth as a partner
 
+plan how to enable current websites to gradually migrate to this shared identity layer and data exportability & interoperability
+
 “The open source company”
 We do not have enough of a team but will fund the most capable ones who wosh to build - there is plenty of room to capture value - the pie is big enough
 We can collectively build this thing in parallel

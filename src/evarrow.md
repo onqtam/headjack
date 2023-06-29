@@ -2,11 +2,12 @@
 
 # Evolution's Arrow - quotes
 
-The most important book in the world is [Evolution's Arrow: the direction of evolution and the future of humanity (online)](http://users.tpg.com.au/users/jes999/EvArrow.htm), by John Stewart ([Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)).
+The most important book in the world is **"Evolution's Arrow: the direction of evolution and the future of humanity"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart.
 
 **It represents the pinnacle of recursive relevance realization & adaptability for conscious life.**
 
-Perhaps 20-30% of the book has ended up here in the form of the most (subjectively) notable quotes. The book itself is one giant quote that everyone should read.
+Perhaps 20-30% of it has ended up here in the form of the most (subjectively) notable quotes. In all honesty, it should have been 100%.
+
 
 
 
@@ -315,9 +316,19 @@ Perhaps 20-30% of the book has ended up here in the form of the most (subjective
 
 > "Where distributed internal management has been able to establish complex cooperative organisation, it has done so because it has discovered ways to suppress internal competition without also suppressing innovation." - [source](http://users.tpg.com.au/users/jes999/7.htm#:~:text=where%20distributed%20internal%20management%20has%20been%20able%20to%20establish%20complex%20cooperative%20organisation%2C%20it%20has%20done%20so%20because%20it%20has%20discovered%20ways%20to%20suppress%20internal%20competition%20without%20also%20suppressing%20innovation.)
 
-> "" - [source]()
+> "The evolution of insect societies and of multicellular organisms illustrate how internal management can control and organise a group of living processes to suppress competition and promote cooperation. It can be as effective as external management. But internal distributed control is not as visible or as obvious as external control. This is not just because it controls individuals from within. It is also because the control is distributed amongst each of the individuals that are being controlled. The operation and evolution of internal management cannot be understood by looking at only the behaviour and the evolutionary fate of just one individual. The behaviour and the evolutionary fate of all of the individuals who contain the manager must be taken into account. An internal manager organises its group as a coordinated whole, and it can be understood only as a whole. For example, it is not possible to understand the evolutionary significance of moral codes or systems of religious beliefs without recognising their group effects.
+>
+> A group that is managed by distributed internal management is as much a vertical organisation as a group managed by a separate, external manager. It has an additional layer of organisation compared with a group that is not controlled by a manager. This additional layer is the set of predispositions that are reproduced in each of the members of the group through time. These predispositions control and coordinate the behaviour of members of the group. In the examples we have considered, the additional layer can be a set of genetic predispositions or a set of learnt beliefs such as moral codes." - [source](http://users.tpg.com.au/users/jes999/7.htm#:~:text=The%20evolution%20of%20insect,such%20as%20moral%20codes.)
 
-> "" - [source]()
+> "So the evolution of life has all the key features of a process that is fundamentally progressive: there are virtually unlimited potentials for improvement through the establishment of wider-scale cooperation between living processes. And these potentials can be exploited only through a step-by-step process in which each step necessarily builds on and improves on the previous step.
+>
+> But there is another aspect of the progressive evolution toward increasing cooperation that we have not yet considered. We have seen that the formation of organisations in which a manager controls the other members of the organisation will enable cooperation to be exploited within the organisation. The alignment of the interests of the manager and the interests of the organisation as a whole ensure that the pursuit by managers of their own adaptive interests also serves the adaptive interests of the organisation. However, the extent to which the manager and other members of the organisation are actually successful in discovering the forms of cooperation that are best for the organisation depends on their adaptive ability. It depends on how good they are at evolving, how smart they are at searching out the best cooperative arrangements, and how innovative and creative they are at discovering new cooperative adaptations and adapting these to changing conditions.
+>
+> Their evolvability will also determine how effective they are at discovering how to form cooperative organisations of wider and wider scale. Living processes that evolve by the genetic evolutionary mechanism will be slow to discover how to form cooperative organisations. The genetic mechanism has no foresight or ability to anticipate future evolution. It has no capacity to understand the progressive evolutionary sequence of increasing cooperation that I have outlined, and no ability to use the sequence to guide its evolution. The genetic mechanism will still exploit the potential benefits of cooperation, but only when it blindly stumbles on cooperation that proves successful. In contrast, when living processes arise that develop an understanding of the progressive nature of evolution, evolution can move far more rapidly and directly to produce cooperative organisations of increasing scale. Once organisms know where evolution is headed and develop the ability to use this knowledge to guide their own evolution, progressive evolution will accelerate." - [source](http://users.tpg.com.au/users/jes999/7.htm#:~:text=So%20the%20evolution,evolution%20will%20accelerate.)
+
+████████████████████████████████████████████████
+# Chapter 8. Smarter Cooperation
+████████████████████████████████████████████████
 
 > "" - [source]()
 
