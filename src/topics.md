@@ -30,6 +30,9 @@ Metasystem transition - the emergence, through evolution, of a higher level of o
 connectionism
 
 "PageRank for the 21st century (and beyond)"
+"The alignment protocol/superstructure"
+
+An operating system for humanity in the 21st century (and beyond)
 
 meaning
 https://www.psychologytoday.com/us/blog/mind-in-the-machine/202212/the-psychological-benefits-finding-your-cosmic-purpose
