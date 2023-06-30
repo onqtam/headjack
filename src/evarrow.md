@@ -2,15 +2,15 @@
 
 # Evolution's Arrow - quotes
 
-The most important book in the world is **"Evolution's Arrow: the direction of evolution and the future of humanity"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart.
+The most important book in the world is **"Evolution's Arrow: the direction of evolution and the future of humanity"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
 
 **It represents the pinnacle of recursive relevance realization & adaptability for conscious life.**
 
-Perhaps 20-30% of it has ended up here in the form of the most (subjectively) notable quotes, but reading them is not a substitute for the actual book. In all honesty, it should have been 100% as everyone should just read it from cover to cover.
+Perhaps 20-30% of it ended up here in the form of (subjectively) notable quotes, but reading them is not a substitute for the real thing. In all honesty, it should have been 100% - if everyone in the world had to read 1 book from cover to cover - this one would bring the most benefit to life on earth.
 
 <!-- toc -->
 
-
+<!--
 
 > "The potential benefits of cooperation will not be exhausted until all living processes in the universe are united in a single organisation of the largest possible scale. All the matter, energy and living processes of the universe will be managed into a single cooperative organisation." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
 
@@ -25,6 +25,8 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 > "Mentally we can abstract individuals out of this on-going process and consider them as separate and independent beings. If we do this and then ask what purpose or meaning there can be in their temporary lives, we must conclude that there can be none. From the point of view of an isolated individual, the inevitability of death makes anything he does during his life irrelevant and meaningless. If there is no afterlife, whatever he does during his short life can make no difference to himself in the long run. He still ends up dead. It is impossible to find meaning in a temporary and isolated life that is not part of some ongoing process." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
 
 > "We can live our lives as if we are separate from the on-going evolutionary process, and make no conscious contribution to it. But individuals with evolutionary awareness will not find meaning or purpose in such a life. They will find no meaning in a life spent vigorously and energetically seeking the satisfaction of their pre-existing material and emotional urges." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+
+-->
 
 # Part 1: Evolutionary Progress?
 
@@ -416,43 +418,89 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 ## Chapter 12. The Self-Evolving Organism
 
-> "" - [source]()
+> "Systemic modelling is made possible by the acquisition of generalised mental schema that represent how various types of complex systems unfold and behave through time. Where the individual has a schema that matches a particular system, he can immediately envisage how the key processes of the system will behave. He immediately sees how the system as a whole unfolds over time, rather than having to follow the interactions of the parts of the system step-by-step.
+>
+> Unlike a linear modeller, a successful systemic modeller does not analyse a system into its parts and then try to predict the behaviour of the system by seeing how the parts interact together in a step-by-step fashion. Where the mental schema match the system, the systemic modeller will see how the system will behave at a glance, with a flash of insight or intuition.
+>
+> As systemic modellers improve their ability, they accumulate schema of greater and greater complexity that enable them to model the effects of possible adaptations over wider and wider scales of space and time. They are able to take account of the effects of possible adaptations that linear modellers are completely blind to. But systemic modellers can continue to use linear modelling where it is useful. For example, they still use it where they do not have appropriate schema, and use it as they build up and adapt schema.
+>
+> Because current science is largely founded on linear modelling, it has great difficulty in accepting and incorporating the findings and insights of systemic modelling. This is the case even where systemic modelling has proven to be indispensable for advancing science. Studies show that few of the great discoveries of science have been produced by linear, logical thinking. A high proportion originated from intuitive leaps made possible by systemic modelling. But before these insights gained scientific acceptance, they had to be translated into simple models based on linear chains of cause and effect. Until this was done, the discoveries were invariably rejected as unscientific.
+>
+> Importantly, systemic modellers have the potential to manage complex cooperative organisations. They can model mentally how the organisation will respond to their management. They can choose to implement the management that is shown by their mental modelling to advance their interests and those of the organisation. The development of systemic modelling amongst some humans about 10,000 years ago made possible the rise of human communities managed by kings and other rulers.
+>
+> But until the capacity for systemic modelling is turned inwards to further develop the capacity for self-management, systemic modellers tend to pursue the same kinds of values and goals as linear modellers. They are likely to have already developed a capacity for linear self-management. As a result, they probably have analysed and rejected the religious belief systems that were important in organising cooperation within earlier human societies. They will tend to be ego driven and self-centred, and use their enhanced adaptive ability to serve their existing internal physical and emotional goals. They are likely to use the enormous power of systemic modelling to seek narrow goals such as social status, power, feelings of importance, and sexual and other physical pleasures." - [source](http://users.tpg.com.au/users/jes999/12.htm#:~:text=Systemic%20modelling%20is,other%20physical%20pleasures.)
 
-> "" - [source]()
+> "As the capacity for internal systemic modelling develops, it will increasingly tend to undermine the individual’s self-centeredness. In part this will come about because the individual will begin to see that his particular motivations, goals and values have no absolute value or justification. He will find no valid reason to put them ahead of any other set of goals, and he will be unable to show that a life spent exclusively serving his particular goals and values is inherently better than alternative ways of life. These views will be strengthened as he develops the capacity to model the social processes that have helped to produce his particular set of motivations, goals and values. These models will show that his goals and other adaptive characteristics could have been very different. A different upbringing, different social conditions, a different culture, and he would have different wants and beliefs, and different likes and dislikes. This understanding will begin to undermine the individual’s belief that all his energies and adaptive capacities should be solely directed at satisfying his own particular self-centred reward system. It will also help him understand the different perspectives of others, and the causes of those differences. He will be less able to ignore and dismiss alternative perspectives.
+>
+> Self-centeredness will also be undermined as the individual begins to model the social processes in which he is embedded over wider and wider scales of space and time. He will quickly become aware of his dependence on the effective operation of his social system. He will see that in many respects, he cannot achieve his personal goals unless the social system functions well. The systemic modeller will understand that in many instances, the interests of the social system coincide with his interests, and it is in his interests to promote the effective operation of the social system.
+>
+> When his models of the social system can span historical scales of space and time, he will increasingly see himself and others as temporary. He will tend to see himself as just one of the enormous number of individuals who make up the social system at any time, and who each follow their particular dreams and goals for the relatively short period of their life. It is only the social system itself that will appear to be able to have any permanence and significance. From this perspective, a life spent solely serving self-centred internal rewards and motivations will appear particularly absurd. Such a life can contribute nothing to anything in the universe that has any chance of continuing in existence, or of having meaning in any broader context. This wider perspective can make it easier for the individual to find value in supporting the effective operation of his social system, or at least the part he interacts with most often. Alternatively, if the individual continues to live a self-centred life, the broader perspective can produce the existential despair that has been common in the 20th century. A wider perspective makes a self-centred existence appear temporary, meaningless, and futile.
+>
+> So systemic modelling will tend to undermine self-centeredness. But it does not conclusively point to a new set of values that the individual should pursue. It eventually undermines individualism, but it does not establish a new set of objectives that can guide the individual. It leaves the individual with ambiguity and uncertainty. A belief in cultural relativism is a typical product of systemic modelling. All values, all goals and all motivations are seen as equally valid. Internal systemic modelling increasingly provides self-managers with the ability to harness their motivations and reward systems to new objectives, but it does not establish what those new objectives should be. This is, of course, the position that systemic modellers find themselves in today. It is only with the development of evolutionary modelling that humanity can again find individual and collective direction." - [source](http://users.tpg.com.au/users/jes999/12.htm#:~:text=As%20the%20capacity,and%20collective%20direction.)
 
-> "" - [source]()
+> "The evolutionary modeller will see himself and human society as a product of evolutionary processes that have a past, present and future. He will understand that his values, beliefs and other characteristics have been produced by past evolution, and he will know why these take the form they do. The evolutionary modeller will see himself and his society as evolutionary work-in-progress. His mental models will show him that humanity is situated part way along a progressive evolutionary sequence, and he will see the future evolutionary possibilities and challenges that confront us. The evolutionary modeller will see what work he and others must do if humanity is to be successful in future evolution.
+>
+> The evolutionary modeller will be aware that future success for humanity will require the progressive development of cooperative human organisations of larger and larger scale, and of higher and higher evolvability. And he will see that this will require the development of a new psychological capacity in individuals, evolutionary self-management." - [source](http://users.tpg.com.au/users/jes999/12.htm#:~:text=The%20evolutionary%20modeller,evolutionary%20self%2Dmanagement.)
 
-> "" - [source]()
+> "We have seen how the development of internal systemic modelling can weaken the tendency of the individual to put his narrow personal satisfaction ahead of all else. But systemic modelling leaves the individual in no man’s land. It is unable to replace the weakened self-centred goals with new values and objectives. Internal evolutionary modelling can do this. It can produce psychological conditions within the individual that will increase the likelihood that the individual will adopt evolutionary objectives.
+>
+> First and foremost, evolutionary modelling enables the individual to see the absolute absurdity of continuing to pursue his pre-existing goals at the expense of evolutionary objectives. With an evolutionary perspective, the individual will see that his pre-existing goals are flawed and short sighted, the product of inferior and limited evolutionary mechanisms. The individual will know that his pre-existing goals are evolution’s inadequate attempt to cause him to behave in ways that will bring evolutionary success. Once he has much more effective ways of consciously pursuing evolutionary success, he is likely to see it as absurd to continue to serve the flawed goals.
+>
+> Second, evolutionary modelling enables the individual to see that humans do not have any choice about whether or not they will pursue evolutionary goals. Whether they serve the pre-existing goals, or use modelling to consciously pursue the objective of future evolutionary success, they will be serving evolutionary ends. The only choice they have is about how good a method they will use to pursue evolutionary ends. They can pursue evolutionary ends by serving pre-existing goals that were established by inferior evolutionary mechanisms. But their evolutionary modelling will tell them that these goals will not guide them toward evolutionary success in the future. Alternatively they can use a superior evolutionary mechanism to pursue evolutionary goals. They can use evolutionary modelling to identify and implement whatever is necessary to enable humanity to participate in the future evolution of life in the universe.
+>
+> Third, evolutionary modellers will see that their personal psychological struggle over what objectives they should pursue has a wider evolutionary significance. They will see that their struggle is part of the unfolding of a critical step in the evolution of life on this planet. A similar psychological struggle will be played out on any planet in the universe where organisms become conscious of the evolutionary processes that have formed them and that will determine their future. Evolutionary modellers will see that the way in which humans resolve this struggle will determine the longer-term evolutionary significance of humanity. They will understand that if humanity turns its back on evolutionary objectives and continues to serve the pre-existing goals, we will be evolutionary failures. In an evolutionary sense, humanity would die. We would be irrelevant to the future evolution of life in the universe. For humanity to choose to continue to pursue only pre-existing adaptive goals would be to choose evolutionary suicide and irrelevance. But this would not be a realistic option for a humanity that is capable of evolutionary modelling. Once an individual develops a capacity for internal evolutionary modelling, to reject evolutionary objectives would be as unthinkable as is suicide to an individual who is psychologically healthy.
+>
+> And finally, evolutionary modellers will see that once they have developed the capacity for evolutionary self-management, the direct pursuit of future evolutionary success will not involve any self-sacrifice. They will be able to find motivation and emotional reward in whatever is necessary to pursue evolutionary objectives. Evolutionary self-managers will manage their pre-existing mental, emotional and physical adaptive processes so as to align their operation with evolutionary objectives. This will mean that pursuit of their managed and modified pre-existing goals will result in the pursuit of evolutionary objectives. Self-management will ensure that all pre-existing mental, emotional and physical adaptive processes will also serve the evolutionary objectives identified by evolutionary modelling." - [source](http://users.tpg.com.au/users/jes999/12.htm#:~:text=We%20have%20seen,by%20evolutionary%20modelling.)
 
-> "" - [source]()
+> "The new “I” will be able to consciously manage the resources and capacities of the individual for the pursuit of evolutionary objectives. It will use its understanding of evolutionary processes and the likely course of future evolution to determine what the individual will do with his life. Evolution will have produced a self-evolving organism. Evolution will no longer have to get the organism to do what is best in evolutionary terms by hard wiring it with internal rewards that are correlated with evolutionary success. The organism will no longer spend its life in the pursuit of emotional rewards that are evolution’s indirect way of getting the organism to pursue evolutionary success. By consciously managing its emotional and motivational systems the organism will be able to move at right angles to its biological and social past. The organism will be able to use its own models of the evolutionary consequences of its acts to pursue evolutionary goals directly and consciously." - [source](http://users.tpg.com.au/users/jes999/12.htm#_ednref5:~:text=The%20new%20%E2%80%9CI%E2%80%9D%20will,goals%20directly%20and%20consciously.)
 
-> "" - [source]()
+> "As we have seen, the full potential of mental modelling as an adaptive and evolutionary mechanism will not be realised until it is used to develop a capacity for self-management. Mental modelling cannot fully take over the adaptation of the organism until this capacity is developed. It will be unable to use its understanding of evolution to guide the adaptation of the organism. The first step toward achieving self-management occurs when the modelling capacity is turned inwards. Just as modelling the external environment has enabled organisms to manage and manipulate it, modelling their mental, emotional and physical adaptive systems will enable the organisms to manage these systems. Once the organisms are able to understand how their mental, emotional and physical adaptive systems operate, the evolutionary and other functions they perform, and the consequences of changing them, the organisms will be able to mange them to adapt more effectively. And the organisms will be able to manage their motivational and emotional systems so that they find satisfaction is pursuing evolutionary objectives." - [source](http://users.tpg.com.au/users/jes999/12.htm#_ednref5:~:text=As%20we%20have,pursuing%20evolutionary%20objectives.)
 
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
+> "Humans have barely begun to undertake this psychological transformation. Our psychology is evolutionary work-in-progress. We are an organism in which the capacity for mental modelling has not yet realised its full potential to take over and improve our evolvability. It is only through conscious psychological effort that we will develop the skills and self-knowledge that will enable us to make this transformation." - [source](http://users.tpg.com.au/users/jes999/12.htm#_ednref5:~:text=Humans%20have%20barely,make%20this%20transformation.)
 
 # Part 4: The Evolution of Life on Earth – Past, Present and Future
 
 ## Chapter 13. Evolution of Life on Earth
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
 
 > "" - [source]()
 
