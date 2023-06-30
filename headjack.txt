@@ -1,6 +1,25 @@
 
 
 
+Hey, I know it's been a while. I haven't given up on my idea - actually I've decided to commit my life to it.
+I've since further polished the technical design and I presented it at a non-crypto conference:
+https://www.youtube.com/watch?v=pEl2vLTStWE
+
+But I decided to write an online book that motivates the whole project - I'm trying to define the next iteration of social media and the internet and what it could look like if it was rebuilt around identity, reputation, a reengineered conception of status, and open access to data. I'm trying to architect the global brain - literally.
+
+It will take me at least a couple more months before I have anything worth sharing, but I was wondering about the following strategy to spread it once its ready:
+what if I offered 1 ETH to selected people to read what I've written, and if they regret reading it and don't want to invest - they can keep the 1 ETH.
+
+I guess 1 ETH doesn't move the needle for you, but since I'm not rich it represents a significant commitment on my part. Would you spend 3-4...5 hours reading the most wacky and futuristic vision of humanity from a complexity and information theory perspective?
+
+I'm sure nobody would agree with 100% of the contents of the book, but I'm confident that even 20-30% of the vision would be at least an improvement over the status quo of at least an order of magnitude.
+Thoughts?
+
+
+
+
+
+
 
 
 
