@@ -21,6 +21,8 @@ informational metabolism, cybernetics & the OODA loop
 
 evolutionary activism
 
+reward systems - the god protocol
+
 The fairness protocol - transparency, accountability, skin in the game, inquiry
 
 Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
