@@ -346,27 +346,75 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 ## Chapter 10. Smarter Organisms
 
-> "" - [source]()
+> "The inability of simple change-and-test processes to adapt the organism for the outside/future drove the progressive evolution of more complex change-and-test processes that could do so. Arrangements that could successfully exploit the potential benefits of discovering adaptations for the outside/future had an evolutionary advantage. The result has been a long sequence of improvements in adaptive ability that is still under way." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=The%20inability%20of,still%20under%20way.)
 
-> "" - [source]()
+> "If an adaptive mechanism is to evaluate possible adaptations properly, it must assess all the effects of the alternatives. In order to select the best adaptation, it must take account of all their effects, whether they are good or bad, or whether they arise within the organism, outside it, or in the future. Any limit to the ability of an organism to predict and take account of relevant events and effects that occur elsewhere or in the future will limit its ability to discover the best adaptations. Any relevant effect that is ignored can lead to the selection of inferior adaptations." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=If%20an%20adaptive,of%20inferior%20adaptations.)
 
-> "" - [source]()
+> "We see most easily the limitations of a narrow ability to take account of the future effects of adaptations when we deal with organisms whose ability is narrower than ours. Dogs, cats and children appear particularly handicapped in their adaptive ability when we see them ignoring future dangers that we can easily foresee. Of course, our adaptive strategies might look equally as silly to an organism that could take account of the consequences of our acts over even wider scales of space and time than we can." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=We%20see%20most,than%20we%20can.)
 
-> "" - [source]()
+> "We are only just beginning to understand something of the large-scale progressive evolutionary processes that will determine our evolutionary future. Humanity has barely begun to accumulate the knowledge and abilities needed for it to adapt for its outside/future." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=We%20are%20only%20just%20beginning%20to%20understand%20something%20of%20the%20large%2Dscale%20progressive%20evolutionary%20processes%20that%20will%20determine%20our%20evolutionary%20future.%20Humanity%20has%20barely%20begun%20to%20accumulate%20the%20knowledge%20and%20abilities%20needed%20for%20it%20to%20adapt%20for%20its%20outside/future.)
 
-> "" - [source]()
+> "The genetic mechanism had to establish a new system that would test possible adaptations against their future benefits as well as against their immediate effects. The new system had to immediately reward behaviours that produced longer-term benefits, even though they might not deliver any actual immediate benefits. If attainment of a longer-term goal meant that the organism had to achieve a particular immediate goal, the new system had to produce a need within the organism to achieve the immediate goal. The need would motivate the search for behaviour that could satisfy the immediate goal, and therefore produce the longer-term benefits. The new system would have to do this even though achievement of the immediate goal might produce no actual immediate benefit to the effective operation of the organism. Rather than test alternative behaviours against their immediate impact on essential variables, the new system had to test alternatives against their ability to produce immediate internal rewards that were proxies for longer-term benefits to the organism." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=The%20genetic%20mechanism%20had,benefits%20to%20the%20organism.)
 
-> "" - [source]()
+> "If the individual is to adapt in ways that are best for its longer-term interests, it needs an internal reward system that immediately rewards the adaptive behaviour. The reward system must do this even though the behaviour does not immediately improve the operation of the organism. As a result, when multicellular organisms began to exploit the potential benefits of cooperative social organisation, evolution produced complex new internal reward systems. These systems could motivate and reward the search for social behaviours that provided no immediate benefit, but that served the longer-term interests of individuals by enabling them to interact more effectively with others in the group.
+>
+> As multicellular organisms such as dogs, monkeys, elephants and apes began to form complex social organisations, the genetic mechanism expanded and diversified the internal reward systems into complex emotional systems. This produced social animals that experience a wide range of emotional feelings. These motivate, reward and punish behaviours that often do not immediately impact on the efficient functioning of the organism, but will in the longer term. We humans, the most social of multicellular organisms, experience a wide range of emotions and feelings such as fear, anger, guilt, love, frustration, curiosity, sexual pleasure, self-esteem, grief, delight, shame and depression. All these were initially tuned by natural selection to motivate and reward behaviours that would adapt the organism in ways that produced longer-term benefits." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=if%20the%20individual,longer%2Dterm%20benefits.)
 
-> "" - [source]()
+> "But most organisms with complex emotional systems such as baboons, dogs, cats, horses and dolphins are largely unaware that their internal reward systems have been shaped by evolution for evolutionary objectives. To them, their internal emotional rewards are ends in themselves. They spend their lives in the pursuit of satisfying emotional states, oblivious that this is evolution’s way of getting them to discover the behaviours that are best for producing evolutionary success. Evolution has produced in them a virtual reality that motivates and organises their behaviour. But for them it is their ultimate reality. They cannot see beyond it to its real purpose. Most humans currently fall into this category. They are unaware that the emotional goals that drive their pursuit of wealth, power, sex and social success are merely means to evolutionary ends, not ends in themselves.
+>
+> Because these organisms are unaware of the ultimate goal and purpose of their emotional systems, they are unable to adapt and improve them during their life. They have nothing to judge the effectiveness of their emotional goals against. There is no process within the organism that can evaluate whether any changes made to emotional goals would advance the organism’s evolutionary interests. If they tried out new emotional goals, they would have no way of assessing the longer-term effects of alternatives. They have no insight into the purposes of their emotional systems. If circumstances change, and the immediate goals established by the organism’s existing internal reward system no longer produce evolutionary success, there is no adaptive process within the organism to change the immediate goals. The organism will continue to serve the pre-existing goals that are no longer effective." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=But%20most%20organisms,no%20longer%20effective.)
 
-> "" - [source]()
+> "Even the most highly developed emotional systems found in the social mammals such as ourselves are limited in their ability to adapt during the life of the organism. The framework for the reward system is hard wired into the organism, and is limited in its flexibility during the life of the organism. The immediate behavioural goals that are established by the reward system are not very adaptable. In contrast, the particular behaviours that the organism can use to obtain the rewards provided by its emotional system are not hard wired. The organism can adapt its behaviour to whatever is needed in specific situations. For example, most social mammals have emotional systems that reward behaviour that improves their social status and power. But they are free to search for whatever behaviour will serve these goals in the particular social circumstances in which they live. Organisms can change their behaviour in whatever ways are necessary to achieve their emotional goals, but they cannot change their goals. Their behavioural strategies are highly adaptable, but the goals set by their emotional system are not. Means are very flexible, but ends are not." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=even%20the%20most,ends%20are%20not.)
 
-> "" - [source]()
+> "In the evolution of life on this planet, these limitations are being overcome by the development of a capacity to use mental models to guide the adaptive process. This capacity has evolved most fully amongst humans. With mental modelling, the organism is able to form a mental representation of how aspects of its environment will unfold over time. It can use these representations to see what effects possible adaptations will have in the future. In its most highly developed form, mental modelling can work out the consequences of a wide range of hypothetical behaviours in hypothetical environmental circumstances. The evolution of mental modelling is a major improvement in the ability of organisms to adapt for the outside/future." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=In%20the%20evolution,the%20outside/future.)
 
-> "" - [source]()
+> "Importantly, the models used by the organism can be improved continually as the animal accumulates knowledge and experience during its life. Where it discovers that a model does not accurately predict the future effects of its actions, the organism can revise the model to take account of its discovery. As the organism gains more knowledge of how its environment is structured, how the environment changes through time, and how different behaviours can produce different effects in different environmental circumstances, the ability of its models to target and test possible adaptation will improve. And this improvement in adaptability occurs during the life of the individual, without any involvement of the genetic evolutionary mechanism.
+>
+> As the modelling capacity develops, individuals increasingly accumulate substantial stores of knowledge during their lifetime. This knowledge is extremely valuable to the individual, enabling it to use models to discover better adaptations by predicting the effects of alternative actions. For example, the more knowledge that an early human hunter accumulated about game animals, the better he would be at using mental models to predict which hunting strategies would be most effective. But the knowledge accumulated by an individual during his life died with the individual. So as a capacity for mental modelling evolved in early humans, there was an enormous potential evolutionary advantage to be had by any new arrangement that was able to transfer the store of knowledge between individuals. Any individual that could pass his accumulated knowledge to his offspring, or any individual that could obtain knowledge off others would be greatly advantaged in evolutionary terms.
+>
+> Imitation enabled some transmission of adaptive behaviours between individuals. But it was only with the evolution of language that humans gained a comprehensive ability to share the knowledge they accumulated during their life. Through language, a discovery made by an individual could be passed to others and used by them in their modelling. Importantly, this enabled knowledge to be accumulated and built-on from generation to generation. Each new individual born into the population did not have to start again, with empty models. And in cooperative human societies, particular individuals could specialise in the collection of specific types of knowledge that were useful to the group. The result has been a complex and growing culture of adaptive knowledge that is passed from generation to generation.
+>
+> As knowledge accumulated across the generations, the modelling capacity improved its ability to predict the consequences of possible behaviours. It became more accurate, could predict the consequences of wider ranges of events, and could evaluate the effects of possible adaptations over wider and wider scales of space and time. This improvement in adaptability continued the evolutionary progression that began with the emergence of the first simple change-and-test processes that adapted organisms for the inside/now. Since the first simple processes emerged, internal adaptive processes have progressively developed the capacity to take into account the effects of possible adaptations over wider scales of space and time. The continuation of this progression is now enabling humans and humanity to build mental models of the formation and evolution of the universe." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=Importantly%2C%20the%20models,of%20the%20universe.)
+
+> "we are on the threshold of developing the capacity to do something that no other organism on this planet has been able to do: to consciously use our modelling of the direction of evolution to increase our chances of participating successfully in future evolution. We are in the process of developing complex mental models of the direction of evolution. These will show what we will have to do individually and collectively to contribute to the future evolutionary success of humanity.
+>
+> But being able to mentally model our evolutionary future does not mean that we will want to use these models to guide our behaviour. We will be like the band of hunter-gathers that we visited in our imagination in Chapter 1: they knew what they had to do for future evolutionary success, but did not want to do it. Their existing behavioural goals and predispositions clashed with what they would need to do to achieve future success. Simply knowing that they had to change their behaviour for future success did not make them want to do so. Likewise, rather than embrace evolutionary objectives, many of us will prefer to continue to pursue the values and goals established in us by past evolution. We will continue to use our energies to seek social status, self-esteem, power, wealth and the other goals that currently bring us emotional rewards.
+>
+> The behaviours that will get us these emotional rewards will often clash with what we would have to do for future evolutionary success. As we have seen, our existing emotional reward system has been established by inferior and shortsighted evolutionary mechanisms. These mechanisms are blind to the long-term evolutionary consequences of our acts. They are unable to give us the emotional goals needed for future evolutionary success. If we are to be motivated to embrace evolutionary objectives, we will have to develop new psychological skills. We will need skills that enable us to free ourselves from the dictates of our pre-existing emotional reward system. We will need skills that enable us to find motivation and satisfaction in whatever forms of behaviour are needed for us to contribute to the successful evolution of life in the universe." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=we%20are%20on,in%20the%20universe.)
 
 ## Chapter 11. Smarter Humans
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
 
 > "" - [source]()
 
