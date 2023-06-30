@@ -6,7 +6,7 @@ The most important book in the world is **"Evolution's Arrow: the direction of e
 
 **It represents the pinnacle of recursive relevance realization & adaptability for conscious life.**
 
-Perhaps 20-30% of it has ended up here in the form of the most (subjectively) notable quotes. In all honesty, it should have been 100% and everyone should just read it from cover to cover.
+Perhaps 20-30% of it has ended up here in the form of the most (subjectively) notable quotes, but reading them is not a substitute for the actual book. In all honesty, it should have been 100% as everyone should just read it from cover to cover.
 
 <!-- toc -->
 
@@ -376,7 +376,7 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 >
 > As knowledge accumulated across the generations, the modelling capacity improved its ability to predict the consequences of possible behaviours. It became more accurate, could predict the consequences of wider ranges of events, and could evaluate the effects of possible adaptations over wider and wider scales of space and time. This improvement in adaptability continued the evolutionary progression that began with the emergence of the first simple change-and-test processes that adapted organisms for the inside/now. Since the first simple processes emerged, internal adaptive processes have progressively developed the capacity to take into account the effects of possible adaptations over wider scales of space and time. The continuation of this progression is now enabling humans and humanity to build mental models of the formation and evolution of the universe." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=Importantly%2C%20the%20models,of%20the%20universe.)
 
-> "we are on the threshold of developing the capacity to do something that no other organism on this planet has been able to do: to consciously use our modelling of the direction of evolution to increase our chances of participating successfully in future evolution. We are in the process of developing complex mental models of the direction of evolution. These will show what we will have to do individually and collectively to contribute to the future evolutionary success of humanity.
+> "We are on the threshold of developing the capacity to do something that no other organism on this planet has been able to do: to consciously use our modelling of the direction of evolution to increase our chances of participating successfully in future evolution. We are in the process of developing complex mental models of the direction of evolution. These will show what we will have to do individually and collectively to contribute to the future evolutionary success of humanity.
 >
 > But being able to mentally model our evolutionary future does not mean that we will want to use these models to guide our behaviour. We will be like the band of hunter-gathers that we visited in our imagination in Chapter 1: they knew what they had to do for future evolutionary success, but did not want to do it. Their existing behavioural goals and predispositions clashed with what they would need to do to achieve future success. Simply knowing that they had to change their behaviour for future success did not make them want to do so. Likewise, rather than embrace evolutionary objectives, many of us will prefer to continue to pursue the values and goals established in us by past evolution. We will continue to use our energies to seek social status, self-esteem, power, wealth and the other goals that currently bring us emotional rewards.
 >
@@ -384,41 +384,69 @@ Perhaps 20-30% of it has ended up here in the form of the most (subjectively) no
 
 ## Chapter 11. Smarter Humans
 
-> "" - [source]()
+> "Successful participation in the future evolution of life means we must continue to form cooperative organisations of larger and larger scale. To enable these organisations to fully explore the immense benefits of cooperation, they must be managed as far as possible so that individuals capture the effects of their actions on others, and therefore treat the other as self. And the organisations must be structured so as to maximise their evolvability." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=Successful%20participation%20in,maximise%20their%20evolvability.)
 
-> "" - [source]()
+> "How ready are humans to put the interests of a planetary organisation ahead of those of our nation, ethnic community, and religion? Will we abandon any belief, prejudice and value that might stand in the way of our support for a truly global human society in which all individuals of all races and backgrounds are treated equally? What if this means a reduced standard of living? Will we accept and support the development of a capacity for the planetary society to adapt for the outside/future if this means a lower level of satisfaction of our immediate material, emotional and social needs?" - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=how%20ready%20are,and%20social%20needs%3F)
 
-> "" - [source]()
+> "An organism whose motivations and objectives fail to take into account the evolutionary effects of its actions will not value objectives that do. Instead, the organism will use the immense adaptive capacity unleashed by mental modelling to get better and better at serving the goals of its existing internal reward systems. It will not matter that these were established by limited and flawed evolutionary mechanisms and adaptive processes. When the organism discovers technological advances of great power such as genetic engineering and artificial intelligence, it will use them to serve motivations and objectives that ignore its longer-term evolutionary needs. The same will apply to the organisms’ systems of government and other social arrangements. They will not serve the longer-term evolutionary interests of the organism. No matter how sophisticated its technology and social arrangements, the organism will not achieve evolutionary success. It will get better and better at achieving the wrong ends." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=An%20organism%20whose,the%20wrong%20ends.)
 
-> "" - [source]()
+> "Does this mean that humanity has no alternative but to forever use its capacity for mental modelling to pursue our pre-existing motivations and goals, even though this would condemn us to future evolutionary irrelevance? Or is there another possibility? Can our motivations and goals change through modifications to our psychological software? Is it possible for humans to learn to reorganise ourselves psychologically so that we acquire the capacity to consciously choose our motivations, likes, dislikes, goals and objectives? Through our own psychological efforts can we learn the new ways of thinking and feeling that are needed for future evolutionary success?
+>
+> To begin to answer these questions, we need to look more closely at the sort of psychological capacities that we would have to develop, and consider their feasibility. If we are to free ourselves from our biological and social past, we would have to develop the ability to find motivation and emotional satisfaction in whatever we have to do to pursue evolutionary objectives. This would mean, for example, that we would have to be able to drop our emotional attachments to any ideas, attitudes, beliefs, norms, values, religious systems and moral principles that were inconsistent with future evolutionary success. And we would have to be able to continually change our motivations and our likes and dislikes to fit in with whatever is required for future evolutionary success." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=Does%20this%20mean%20that,for%20future%20evolutionary%20success.)
 
-> "" - [source]()
+> "Successful self-management does not generally override, repress or abandon the pre-existing mental, emotional or physical adaptive systems that currently adapt us for shorter-term goals. The pre-existing systems are effective at adapting us to meet shorter-term requirements. So all that self-management needs to do is to modify the operation of the pre-existing systems only in so far as is necessary to take into account longer-term considerations. In this way it can align their operation with the longer-term goal of future evolutionary success." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=successful%20self%2Dmanagement,future%20evolutionary%20success.)
 
-> "" - [source]()
+> "Linear modelling can work accurately and effectively for processes that are simple. But it is quickly overwhelmed as complexity increases. It is of limited use for understanding processes consisting of many interacting components that all contribute to how the process unfolds. These processes cannot usually be analysed into step-by-step chains of cause and effect. Linear modellers are unable to understand or predict the behaviour of these more complex processes. As a result, linear modelling is also limited in relation to the scales of space and time over which it can model the effects of possible adaptations. Over larger scales of space and time, most processes interact with other processes and become far too complex to understand by linear modelling. For these reasons, logical step-by-step analysis is notoriously ineffective for modelling and understanding the unfolding of complex systems such as human economic systems, ecosystems, human history and the mind and other complex adaptive systems.
+>
+> External linear modelling is the mental capacity we use most often as we adapt consciously in our day-to-day life. It enables us to understand simple processes and to predict their future behaviour. We have built and designed our technology, our housing and our gadgets so that they can be readily understood and manipulated with linear modelling. The environment we have built around us is far more simple and mechanistic than our natural environment. It has been designed by linear modellers for linear modellers. In contrast, we need a capacity for systemic modelling if we are to manipulate our natural environment successfully.
+>
+> Linear modelling is also the basis of most science as it is currently practised. The scientific method has been extraordinarily successful at understanding simple, linear processes and parts of more complex systems that can be reduced to simple processes. But the traditional scientific approaches have had little success in dealing with fields that cover complex systems such as ecology, psychology, economics, sociology and the other social sciences.
+>
+> Humans that are capable only of linear modelling are unable to manage large complex organisations competently. In order to manage complex human social groups successfully, a manager such as a king or other ruler must be able to mentally model the effects on the group of alternative acts of governance. He (or his associates) must be able to mentally simulate the effects of his management on the group. For this reason, until at least some humans had moved beyond the limitations of linear modelling, humans were unable to form complex cooperative organisations managed by external managers. To be competent, external managers must be capable of some form of systemic modelling. It was not until about 10,000 years ago that human societies organised by rulers or other external managers were formed." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=Linear%20modelling%20can,managers%20were%20formed.)
 
-> "" - [source]()
+> "A typical example of the late 20th century is an individual who single-mindedly pursues career goals, repressing and ignoring the internal physical and emotional signals that indicate he should also serve other adaptive needs. In extreme cases, if the individual continues to ignore stress and depression, the result is physical, emotional and mental breakdown.
+>
+> The problem will worsen as the capacity for external linear modelling grows. As knowledge accumulates, the growing ability of modelling to discover effective adaptations means that it will be used increasingly to determine how the individual behaves. More and more, mental modelling will guide the individual on how to achieve the adaptive goals established by his internal reward systems. The result will often be that the individual ignores and represses some of the motivations and needs associated with his pre-existing adaptive system, even though these may be essential for producing behaviour and adaptations that are critically important for the effective operation of the individual.
+>
+> The need to integrate mental modelling with the pre-existing physical and emotional adaptive systems is a problem that will be encountered by any organisms that begin to develop a capacity for mental modelling. Wherever in the universe mental consciousness emerges, it will initially clash with the processes that have adapted the organism up until then. As the mental system develops, it will be used increasingly to control and run a complex, multi-level organisation that it does not understand or appreciate. It will have ultimate power over a complex system it is only dimly aware of. Initially it will have the power but not the wisdom to manage the organism, and it will not know itself well enough to see its own limitations. On every planet where mental consciousness emerges and develops, there will be a demand for personal growth programs that promote the development of psychological skills that can deal with this problem. The organisms that contribute most to the future evolution of life in the universe will be those that successfully overcome the problem by developing the higher levels of modelling capacity that we will discuss in the next Chapter." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=A%20typical%20example,the%20next%20Chapter.)
 
-> "" - [source]()
+> "The capacity to model their own mental processes may also enable linear self-managers to deal with thought processes that are maladaptive, such as unproductive worry. But this capacity can itself be used maladaptively. The individual may discover that he can manage his thoughts in a way that will produce desirable feelings and avoid unpleasant emotional states, even when he is poorly adapted to his external environment. For example, he may be able to think positively in the face of impending disaster, or learn how to treat the external world as an illusion, reducing its ability to produce undesirable emotional states. This maladaptive self-management short circuits the ability of the internal reward system to motivate behaviour that enables the individual to function more effectively in its external environment." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=The%20capacity%20to%20model,in%20its%20external%20environment.)
 
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
+> "The internal linear modeller is fundamentally ego centric, driven by goals that serve the functioning of the individual rather than the social group. The rise of internal linear modelling amongst humanity has produced the abandonment of religion and the rise of rationalism and individualism that we have seen in the last few hundred years of human history. It is only with the further evolution of the modelling capacity through the development of systemic and evolutionary modelling that the individual will eventually become conscious of the need to reinstate behaviours that produce cooperative organisation." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=The%20internal%20linear,produce%20cooperative%20organisation.)
 
 ## Chapter 12. The Self-Evolving Organism
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
 
 > "" - [source]()
 
