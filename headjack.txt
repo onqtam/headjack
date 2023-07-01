@@ -1,19 +1,6 @@
 
 
 
-Hey, I know it's been a while. I haven't given up on my idea - actually I've decided to commit my life to it.
-I've since further polished the technical design and I presented it at a non-crypto conference:
-https://www.youtube.com/watch?v=pEl2vLTStWE
-
-But I decided to write an online book that motivates the whole project - I'm trying to define the next iteration of social media and the internet and what it could look like if it was rebuilt around identity, reputation, a reengineered conception of status, and open access to data. I'm trying to architect the global brain - literally.
-
-It will take me at least a couple more months before I have anything worth sharing, but I was wondering about the following strategy to spread it once its ready:
-what if I offered 1 ETH to selected people to read what I've written, and if they regret reading it and don't want to invest - they can keep the 1 ETH.
-
-I guess 1 ETH doesn't move the needle for you, but since I'm not rich it represents a significant commitment on my part. Would you spend 3-4...5 hours reading the most wacky and futuristic vision of humanity from a complexity and information theory perspective?
-
-I'm sure nobody would agree with 100% of the contents of the book, but I'm confident that even 20-30% of the vision would be at least an improvement over the status quo of at least an order of magnitude.
-Thoughts?
 
 
 
@@ -160,6 +147,7 @@ Social media 1.0: crimes against complexification, sensemaking, evolvability, ad
 the nature of the current social platforms is that they hinder the complexification and sophistication of online society
 Not having unrestricted programmatic access to the public commons is an intellectual crime.
 > "In order to deal properly with the diversity of problems the world throws at you, you need to have a repertoire of responses which are (at least) as nuanced as the problems you face." - [Ashby's Law of Requisite Variety - an alternative description](https://www.businessballs.com/strategy-innovation/ashbys-law-of-requisite-variety/#:~:text=In%20order%20to%20deal%20properly%20with%20the%20diversity%20of%20problems%20the%20world%20throws%20at%20you%2C%20you%20need%20to%20have%20a%20repertoire%20of%20responses%20which%20are%20(at%20least)%20as%20nuanced%20as%20the%20problems%20you%20face.)
+"systems will become only as complex as their niche requires"
 
 
 > "Culture is not like a mission statement; you can’t just set it up and have it last forever. There’s a saying in the military that if you see something below standard and do nothing, then you’ve set a new standard. This is also true of culture—if you see something off-culture and ignore it, you’ve created a new culture." - [Ben Horowitz, What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/quotes/10058754-culture-is-not-like-a-mission-statement-you-can-t-just)
