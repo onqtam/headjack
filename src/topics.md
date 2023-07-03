@@ -9,6 +9,14 @@ contribution, accountability,
 competency & altruism score
 https://imgflip.com/memegenerator/289357455/Girls-gossiping -->
 
+<div style="text-align: center;">
+    <img src="images/meme_all_the_things_externalities.jpg">
+</div>
+
+<!-- Internalize & account for
+all the externalities !!!
+https://imgflip.com/memegenerator/1216800/all-the-things -->
+
 
 
 
