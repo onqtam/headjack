@@ -19,6 +19,8 @@ deconstructing media down to the claim level
 
 informational metabolism, cybernetics & the OODA loop
 
+Distributed internal management
+
 evolutionary activism
 
 reward systems - the god protocol
