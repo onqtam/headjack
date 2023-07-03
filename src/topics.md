@@ -1,5 +1,20 @@
 
 
+<div style="text-align: center;">
+    <img src="images/meme_girls_gossiping_high_score.jpg">
+</div>
+
+<!-- He has high cooperation,
+contribution, accountability,
+competency & altruism score
+https://imgflip.com/memegenerator/289357455/Girls-gossiping -->
+
+
+
+
+
+
+
 
 
 tribe diffusion - ending the bipolar political divide
