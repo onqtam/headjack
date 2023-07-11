@@ -2,31 +2,84 @@
 
 # Evolution's Arrow - quotes
 
-The most important book in the world is **"Evolution's Arrow: the direction of evolution and the future of humanity"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
+The most important book in the world is **"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
 
 **It represents the pinnacle of recursive relevance realization & adaptability for conscious life.**
 
 Perhaps 20-30% of it ended up here in the form of (subjectively) notable quotes, but reading them is not a substitute for the real thing. In all honesty, it should have been 100% - if everyone in the world had to read 1 book from cover to cover - this one (although not perfect) would bring the most benefit to life on earth. Is such a level of coherence realistic? Unfortunately not... for now.
 
-<!-- toc -->
+It isn't perfect - it's quite repetitive and doesn't convincingly lay out what should be done, but still it provides the most important frame for how we should be thinking about our civilization.
 
 <!--
 
-> "The potential benefits of cooperation will not be exhausted until all living processes in the universe are united in a single organisation of the largest possible scale. All the matter, energy and living processes of the universe will be managed into a single cooperative organisation." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
-
-> "An organism whose motivations and objectives fail to take into account the evolutionary effects of its actions will not value objectives that do. Instead, the organism will use the immense adaptive capacity unleashed by mental modelling to get better and better at serving the goals of its existing internal reward systems." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
-
-> "An organism will fail to be relevant to future evolution if it remains unorganised on a single planet, serving objectives and motivations established by flawed and shortsighted evolutionary mechanisms." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
-
-> "We are an organism in which the capacity for mental modelling has not yet realised its full potential to take over and improve our evolvability." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
-
-> "Markets include the seeds of their own destruction. They tend to produce individuals and corporations with the power to undermine the effective operation of the market." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
-
-> "Mentally we can abstract individuals out of this on-going process and consider them as separate and independent beings. If we do this and then ask what purpose or meaning there can be in their temporary lives, we must conclude that there can be none. From the point of view of an isolated individual, the inevitability of death makes anything he does during his life irrelevant and meaningless. If there is no afterlife, whatever he does during his short life can make no difference to himself in the long run. He still ends up dead. It is impossible to find meaning in a temporary and isolated life that is not part of some ongoing process." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
-
-> "We can live our lives as if we are separate from the on-going evolutionary process, and make no conscious contribution to it. But individuals with evolutionary awareness will not find meaning or purpose in such a life. They will find no meaning in a life spent vigorously and energetically seeking the satisfaction of their pre-existing material and emotional urges." - [source](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow)
+Cons from me (2 copied from Keith Gillette's review):
+- quite repetitive
+* Specific strategies for increasing the systemic modeling ability required for more cooperative human behavior to develop.
+* A detailed enough description of how vertical markets in governance might work to really be convincing.
 
 -->
+
+<!-- toc -->
+
+# Reviews
+
+## From [Michael Dowd](https://www.amazon.com/gp/customer-reviews/RIP1P5CHD9W47/)
+
+> "Evolution's Arrow, by John Stewart, is one of the wisest, most insightful, and most inspiring I've ever encountered. I devoured it twice in the last week.
+To tell the truth, I simply cannot speak too highly of this book. My hunch is that at the end of my life I'll still rate Evolution's Arrow as **one of the most significant books I've ever read**." - [source](https://www.amazon.com/gp/customer-reviews/RIP1P5CHD9W47/#:~:text=Evolution%27s%20Arrow%2C%20by,I%27ve%20ever%20read.)
+
+> "Others, of course (Aurobindo, Teilhard, de Rosnay, Wright, Russell, Hubbard, and Wilber come to mind) have said similar things. What makes Stewart's contribution unique, and invaluable, is both the clarity of his argument and, especially, his vision of where and how humanity needs to change in order to align with and embody the evolutionary impulse. His chapter on creating a "vertical market" for models of effective global governance is worth the price of the book in itself. His vision of how to organizationally move into the future, both individually and collectively, is both alluring and compelling. Some readers may find irritating the author's habit of repetition, but I was grateful. By the time I closed the book, his main points had become so much my own that I can trust they will not disappear as a passing enthusiasm. Evolution's Arrow is both mind-expanding and trust building. **If I had to recommend reading only one book on evolution and the future of humanity, I'd suggest this one**. It rocks!" - [source](https://www.amazon.com/gp/customer-reviews/RIP1P5CHD9W47/#:~:text=Others%2C%20of%20course,one.%20It%20rocks!)
+
+## From [Keith Gillette](https://www.goodreads.com/review/show/5318298958)
+
+> "**Long story short:**
+>
+> Cooperative collectives with the ability to exclude free-riders outcompete selfish, independent populations, due to beneficial (positive-sum) interactions among cooperators. Such cooperation requires (cybernetic control) management, either arising from constraints within the individuals or imposed externally, to constrain destructive individual behavior and reign-in free-riders. Once such a controlled system is developed, it becomes an (emergent) level of organization also subject to (substrate independent) evolutionary forces and for which cooperative forms will confer a survival benefit. The upper bound of such an evolutionary process of emergent cooperation is limited only by the scope of the universe. Any organization that does not align itself with this arrow of evolution will not survive to play a continuing role in its unfolding. An adaptive individual with the capacity to evolve over its lifetime has the potential to adapt to changing environmental circumstances and therefore does not need to die in the face of the continued evolution.
+>
+> **Highlights from the text:**
+> > “The potential benefits of cooperation will not be exhausted until all living processes in the universe are united in a single organisation of the largest possible scale. All the matter, energy and living processes of the universe will be managed into a single cooperative organisation.”
+>
+> > “An organism whose motivations and objectives fail to take into account the evolutionary effects of its actions will not value objectives that do. Instead, the organism will use the immense adaptive capacity unleashed by mental modelling to get better and better at serving the goals of its existing internal reward systems.”
+>
+> > “An organism will fail to be relevant to future evolution if it remains unorganised on a single planet, serving objectives and motivations established by flawed and shortsighted evolutionary mechanisms.”
+>
+> > “We are an organism in which the capacity for mental modelling has not yet realised its full potential to take over and improve our evolvability.”
+>
+> > “With appropriate management controls, economic markets are extraordinarily good at enabling the benefits of cooperation to be fully explored and exploited in some circumstances. This is because in these circumstances markets enable individuals to fully capture the benefit to others of their cooperative acts. How do markets achieve this? If an individual in an economic market can produce anything that benefits others, he will be able to exchange it for money. If the money exceeds the cost of production, both the producer and the consumer can end up in front from the exchange.”
+>
+> > “Markets include the seeds of their own destruction. They tend to produce individuals and corporations with the power to undermine the effective operation of the market.”
+>
+> > “Mentally we can abstract individuals out of this on-going process and consider them as separate and independent beings. If we do this and then ask what purpose or meaning there can be in their temporary lives, we must conclude that there can be none. From the point of view of an isolated individual, the inevitability of death makes anything he does during his life irrelevant and meaningless. If there is no afterlife, whatever he does during his short life can make no difference to himself in the long run. He still ends up dead. It is impossible to find meaning in a temporary and isolated life that is not part of some ongoing process.”
+>
+> > “We can live our lives as if we are separate from the on-going evolutionary process, and make no conscious contribution to it. But individuals with evolutionary awareness will not find meaning or purpose in such a life. They will find no meaning in a life spent vigorously and energetically seeking the satisfaction of their pre-existing material and emotional urges.”
+>
+> **What Evolution’s Arrow gets right:**
+> * Change-and-test is the basic evolutionary algorithm.
+> * Evolution is substrate-independent.
+> * Cooperation outcompetes narrow self-interest if free-riders can be excluded.
+> * The problem of goal misalignment due to the unchanging instincts and emotions instilled by genetic evolution.
+> * The cybernetic superiority of markets over central planning for efficient distribution.
+> * The need for outside constraints for markets to work and not self-destruct.
+> * The need for a social safety net/guaranteed basic income.
+> * The need for world governance.
+> * The problem of capture of governments by the wealthy.
+> * The cybernetic superiority of democracy.
+>
+> **What it misses:**
+> * Specific strategies for increasing the systemic modeling ability required for more cooperative human behavior to develop.
+> * A detailed enough description of how vertical markets in governance might work to really be convincing.
+> * A pithier name than “evolutionary warrior”.
+> * The possibility of meaning in an individual life not connected to a grand evolutionary epic.
+> * The promise of genetic engineering to reprogram our biological reward systems to align with our long-term evolutionary interests.
+> * The role of artificial intelligence and our evolutionary future. - [source](https://www.goodreads.com/review/show/5318298958)
+
+## From [Dr. Jim Manganiello](https://www.amazon.com/gp/customer-reviews/RHGE1436WEN24/)
+
+> "John's ideas are what Gurdjieff called A level ideas. They are different than most ideas in most books. They are of exceptional quality because they come forth not from just rigorous scientific/conceptual thought alone, but also from Awareness." - [source](https://www.amazon.com/gp/customer-reviews/RHGE1436WEN24/#:~:text=John%27s%20ideas%20are%20what%20Gurdjieff%20called%20A%20level%20ideas.%20They%20are%20different%20than%20most%20ideas%20in%20most%20books.%20They%20are%20of%20exceptional%20quality%20because%20they%20come%20forth%20not%20from%20just%20rigorous%20scientific/conceptual%20thought%20alone%2C%20but%20also%20from%20Awareness.)
+
+## From [Copthorne Macdonald](https://www.amazon.com/gp/customer-reviews/R12F16XR079SCF/)
+
+> "I can here only hint at the insightful gold that resides between the covers of Evolution's Arrow. Whether your interest is a clearer understanding of evolution, or saving evolution's experiment here on earth from today's human mis-management, get and read this book." - [source](https://www.amazon.com/gp/customer-reviews/R12F16XR079SCF/#:~:text=I%20can%20here%20only%20hint%20at%20the%20insightful%20gold%20that%20resides%20between%20the%20covers%20of%20Evolution%27s%20Arrow.%20Whether%20your%20interest%20is%20a%20clearer%20understanding%20of%20evolution%2C%20or%20saving%20evolution%27s%20experiment%20here%20on%20earth%20from%20today%27s%20human%20mis%2Dmanagement%2C%20get%20and%20read%20this%20book.)
 
 # Part 1: Evolutionary Progress?
 
@@ -640,15 +693,27 @@ Perhaps 20-30% of it ended up here in the form of (subjectively) notable quotes,
 
 ## Chapter 17. Planetary Society and Beyond
 
-> "" - [source]()
+> "We must develop the psychological capacity to adapt in whatever ways are necessary to achieve future evolutionary success. This means that we must no longer pursue motivations and values set by our biological and social past. Instead, we must develop the psychological ability to find motivation and emotional satisfaction in whatever we need to do to achieve future evolutionary success. We must use mental models of our evolutionary future to set our ultimate objectives, and then align our emotional system and other pre-existing adaptive processes with these evolutionary objectives." - [source](http://users.tpg.com.au/users/jes999/17.htm#:~:text=We%20must%20develop,these%20evolutionary%20objectives.)
 
-> "" - [source]()
+> "The only actions of governments that can survive global competition will be those that make their producers more competitive in the market. All other management activities, including those that are needed to correct the deficiencies of the market, will be undermined. Unchecked, this would eventually return us to the unmanaged markets of the nineteenth century, and the widespread misery, poverty and inequality that they produced.
+>
+> The only way in which this process can be stopped is by some form of global governance. Individuals, corporations and nations are powerless to prevent the disintegration of society that unmanaged markets will produce. Even if nobody in the world wants it, unmanaged global markets will continue to undermine national government. Anything a nation does to counter the process will simply make business within the country less competitive. Only global governance can end the competition between national governments that is eroding their ability to correct the deficiencies of the market. Global governance is essential to establish and enforce minimum global standards for wages, working hours, and social security. Only the power of global governance can prevent countries from undercutting these minimum standards and continuing the downward spiral into environmental and social disintegration that is being produced by unmanaged global competition. Global governance can establish minimum standards of living to provide a floor from which business competes in all countries of the world.
+>
+> Just as the misery produced by unmanaged markets in the nineteenth century made the modern welfare state inevitable, the misery produced by unmanaged global markets will make global governance inevitable. The only unanswered question is how much misery will be produced before global governance is established." - [source](http://users.tpg.com.au/users/jes999/17.htm#:~:text=The%20only%20actions,governance%20is%20established.)
 
-> "" - [source]()
+> "But the majority of people on the planet do not yet have the knowledge or the ability to form mental models of how global markets operate and how various alternative forms of global and national governance would interact with those market systems. And the economically powerful are using their influence over public ideas to reinforce simpler and less adequate models. These models point to the evils rather that the benefits of national and global governance. It is in the immediate interests of the wealthy to support the dismantling of the social security and other programs of national governments. They do not need these programs. Their wealth enables them to satisfy their own needs, and to avoid the effects of social disintegration. But governments currently make them contribute to the funding of the programs through their taxes. The wealthy have the most to lose from attempts by governments to redistribute income and to correct other failings of markets. In many industrialised countries, the wealthy have pursued their interests by using the harmful effects of global competition to gain support for dismantling the welfare state even more quickly than the market would have required.
+>
+> In the long run, however, the economically powerful will see that effective global governance is as essential to their interests as were effective systems of national governance earlier this century. Large-scale social unrest is as inevitably a consequence of unmanaged global markets as it was of the unmanaged market systems of the nineteenth century. And this social disintegration will eventually threaten the interests of the economically powerful, as it did earlier this century. Eventually, it will be clear to all that global governance is essential to correct the disadvantages of the global market." - [source](http://users.tpg.com.au/users/jes999/17.htm#:~:text=But%20the%20majority,the%20global%20market.)
 
-> "" - [source]()
+> "But, as we have seen, our existing systems of governance will not do this efficiently and effectively. Our existing forms of government are incompetent. Where governments have competed directly with markets in the organisation of economic activity, governments have proved inadequate. The same deficiencies in government that make it inferior to the market also limit its ability to organise the features of society that markets cannot. As we have seen, governments lack the information they need to manage a complex society effectively. They also must rely on incompetent bureaucracies to design and implement their policies. And their interests are often not aligned with the interests of the society as a whole.
+>
+> Management is essential to produce an effective, cooperative planetary society. But our current forms of government are seriously limited in their ability to discover and adapt the management that is needed. If humanity is to fulfil its evolutionary potential, it must discover new and better processes for establishing the various levels of governance. The development of a managed planetary society is not enough. The next great evolutionary challenge for humanity will be to invent a new form of governance that will overcome the serious flaws in our existing processes.
+>
+> We need a system that is as superior to current governance as is the market. We need a system for establishing and evolving governance that is as dynamic and evolvable as the market. It must be superior at discovering better forms of governance, and at adapting them as circumstances change. Highly evolvable management is essential if we are to have a highly evolvable human society." - [source](http://users.tpg.com.au/users/jes999/17.htm#:~:text=But%2C%20as%20we,evolvable%20human%20society.)
 
-> "" - [source]()
+> "Taken together, these collective actions of producers and consumers operate a supra-individual change-and-test mechanism that can discover better goods and services. The mechanism can do this even though no individual within the market knows which products will prove to be better. As a result, the market is more effective at matching goods and services to the needs of citizens than any group of central planners, or any producer acting alone. And the entire process operates through individuals pursuing only their own immediate interests.
+>
+> Is it possible to establish similar processes to produce and adapt the functions currently performed by government? Could governance be established by supra-individual change-and-test processes that continually search for and implement better governance? Could these processes replace our current political processes and systems of government?" - [source](http://users.tpg.com.au/users/jes999/17.htm#:~:text=Taken%20together%2C%20these,systems%20of%20government%3F)
 
 > "" - [source]()
 
