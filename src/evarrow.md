@@ -2,20 +2,13 @@
 
 The most important book ever written is **"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
 
-**It represents the pinnacle of recursive relevance realization & adaptability for conscious life.**
+<u>**It is an absolute gem that is criminally underappreciated.**</u>
 
-About 30% of it ended up here in the form of (subjectively) notable quotes, but reading them is not a substitute for the real thing. In all honesty, it should have been 100% - if everyone in the world had to read 1 book from cover to cover - this one (although not perfect) would bring the most benefit to life on earth. Is such a level of coherence realistic? Unfortunately not... for now.
+<u>**It provides the most important frame for how we should be thinking about our civilization.**</u>
 
-It is an absolute gem that is criminally underappreciated.
+<u>**It represents the pinnacle of recursive relevance realization & adaptability for conscious life.**</u>
 
-Perhaps this set of quotes is most suitable for revisiting after an initial read of the entire book.
-
-It isn't perfect - it's quite repetitive and doesn't convincingly lay out what should be done, but still it provides the most important frame for how we should be thinking about our civilization.
-
-Cons from me (2 copied from Keith Gillette's review):
-- quite repetitive
-* Specific strategies for increasing the systemic modeling ability required for more cooperative human behavior to develop.
-* A detailed enough description of how vertical markets in governance might work to really be convincing.
+About 30% of it ended up here in the form of (subjectively) notable quotes, but reading them is not a substitute for the real thing. In all honesty, it should have been 100% - if everyone in the world had to read 1 book from cover to cover - this one (although not perfect - a bit repetitive) would bring the most benefit to life on earth. Is such a level of coherence realistic? Unfortunately not... for now. Perhaps this set of quotes is most suitable for revisiting after an initial read of the entire book.
 
 <!-- toc -->
 
