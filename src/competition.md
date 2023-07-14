@@ -383,6 +383,8 @@ A list of problems with the contenders in the decentralized identity/media space
 
     > "For the simplicity on this side of complexity, I wouldn't give you a fig. But for the simplicity on the other side of complexity, for that I would give you anything I have." - [Oliver Wendell Holmes](https://www.goodreads.com/quotes/44564-for-the-simplicity-on-this-side-of-complexity-i-wouldn-t)
 
+    > "...the only simplicity to be trusted is the simplicity to be found on the far side of complexity." - [Alfred North Whitehead](https://www.goodreads.com/quotes/74858-the-only-simplicity-to-be-trusted-is-the-simplicity-to)
+
 - Too financialized & trying to do too much - profiles & posts as NFTs, microtransactions, marketplaces, fan coins, tipping, content creator incentives.
     > "However, a downside I’ve observed in social networks where content is monetized is that user behavior becomes transparently driven by monetary incentives in ways that feel less genuine. This applies to influencer culture on Instagram as well, but cryptocurrency social networks bake it in from the start." - [Jay Gerber](https://medium.com/decentralized-web/blockchain-social-networks-c941fb337970)
 
