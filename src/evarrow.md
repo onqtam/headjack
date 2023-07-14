@@ -1,4 +1,4 @@
-# Evolution's Arrow - quotes
+# John Stewart's work
 
 The most important book ever written is **"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
 
@@ -12,16 +12,18 @@ About 30% of it ended up here in the form of (subjectively) notable quotes, but 
 
 <!-- toc -->
 
-# Reviews
+# Evolution's Arrow: the direction of evolution and the future of humanity (2000)
 
-## From [Michael Dowd](https://www.amazon.com/gp/customer-reviews/RIP1P5CHD9W47/)
+## Reviews
+
+### From [Michael Dowd](https://www.amazon.com/gp/customer-reviews/RIP1P5CHD9W47/)
 
 > "Evolution's Arrow, by John Stewart, is one of the wisest, most insightful, and most inspiring I've ever encountered. I devoured it twice in the last week.
 To tell the truth, I simply cannot speak too highly of this book. My hunch is that at the end of my life I'll still rate Evolution's Arrow as **one of the most significant books I've ever read**." - [source](https://www.amazon.com/gp/customer-reviews/RIP1P5CHD9W47/#:~:text=Evolution%27s%20Arrow%2C%20by,I%27ve%20ever%20read.)
 
 > "Others, of course (Aurobindo, Teilhard, de Rosnay, Wright, Russell, Hubbard, and Wilber come to mind) have said similar things. What makes Stewart's contribution unique, and invaluable, is both the clarity of his argument and, especially, his vision of where and how humanity needs to change in order to align with and embody the evolutionary impulse. His chapter on creating a "vertical market" for models of effective global governance is worth the price of the book in itself. His vision of how to organizationally move into the future, both individually and collectively, is both alluring and compelling. Some readers may find irritating the author's habit of repetition, but I was grateful. By the time I closed the book, his main points had become so much my own that I can trust they will not disappear as a passing enthusiasm. Evolution's Arrow is both mind-expanding and trust building. **If I had to recommend reading only one book on evolution and the future of humanity, I'd suggest this one**. It rocks!" - [source](https://www.amazon.com/gp/customer-reviews/RIP1P5CHD9W47/#:~:text=Others%2C%20of%20course,one.%20It%20rocks!)
 
-## From [Keith Gillette](https://www.goodreads.com/review/show/5318298958)
+### From [Keith Gillette](https://www.goodreads.com/review/show/5318298958)
 
 > "**Long story short:**
 >
@@ -64,17 +66,17 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 > * The promise of genetic engineering to reprogram our biological reward systems to align with our long-term evolutionary interests.
 > * The role of artificial intelligence and our evolutionary future. - [source](https://www.goodreads.com/review/show/5318298958)
 
-## From [Dr. Jim Manganiello](https://www.amazon.com/gp/customer-reviews/RHGE1436WEN24/)
+### From [Dr. Jim Manganiello](https://www.amazon.com/gp/customer-reviews/RHGE1436WEN24/)
 
 > "John's ideas are what Gurdjieff called A level ideas. They are different than most ideas in most books. They are of exceptional quality because they come forth not from just rigorous scientific/conceptual thought alone, but also from Awareness." - [source](https://www.amazon.com/gp/customer-reviews/RHGE1436WEN24/#:~:text=John%27s%20ideas%20are%20what%20Gurdjieff%20called%20A%20level%20ideas.%20They%20are%20different%20than%20most%20ideas%20in%20most%20books.%20They%20are%20of%20exceptional%20quality%20because%20they%20come%20forth%20not%20from%20just%20rigorous%20scientific/conceptual%20thought%20alone%2C%20but%20also%20from%20Awareness.)
 
-## From [Copthorne Macdonald](https://www.amazon.com/gp/customer-reviews/R12F16XR079SCF/)
+### From [Copthorne Macdonald](https://www.amazon.com/gp/customer-reviews/R12F16XR079SCF/)
 
 > "I can here only hint at the insightful gold that resides between the covers of Evolution's Arrow. Whether your interest is a clearer understanding of evolution, or saving evolution's experiment here on earth from today's human mis-management, get and read this book." - [source](https://www.amazon.com/gp/customer-reviews/R12F16XR079SCF/#:~:text=I%20can%20here%20only%20hint%20at%20the%20insightful%20gold%20that%20resides%20between%20the%20covers%20of%20Evolution%27s%20Arrow.%20Whether%20your%20interest%20is%20a%20clearer%20understanding%20of%20evolution%2C%20or%20saving%20evolution%27s%20experiment%20here%20on%20earth%20from%20today%27s%20human%20mis%2Dmanagement%2C%20get%20and%20read%20this%20book.)
 
-# Part 1: Evolutionary Progress?
+## Part 1: Evolutionary Progress?
 
-## Chapter 1. Introduction
+### Chapter 1. Introduction
 
 > "The emergence of organisms who are conscious of the direction of evolution is one of the most important steps in the evolution of life on any planet. Once organisms discover the direction of evolution, they can use it to guide their own evolution. If they know where evolution is going, they can work out what will produce success in the future, and use this to plan how they will evolve." - [source](http://users.tpg.com.au/users/jes999/1.htm#:~:text=The%20emergence%20of,they%20will%20evolve.)
 
@@ -120,7 +122,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "One of the most important steps in the evolution of life on any planet is the emergence of organisms who are conscious of the direction of evolution and who use this to guide their own evolution. The actions of individuals who are living now can help ensure that the organism that achieves this milestone on earth will be us." - [source](http://users.tpg.com.au/users/jes999/1.htm#_ednref2:~:text=life%20on%20earth.-,One%20of%20the%20most%20important%20steps%20in%20the%20evolution%20of%20life,the%20organism%20that%20achieves%20this%20milestone%20on%20earth%20will%20be%20us.,-%5B%C2%A0Previous%C2%A0Chapter)
 
-## Chapter 2. The Causes of Progress
+### Chapter 2. The Causes of Progress
 
 > "Technological progress has opened up the potential to improve the living standards of all people on this planet. But this potential for social improvement has not been fully exploited this century. It has not driven on-going social progress. Instead, at the end of the 20th century over 800 million people are chronically undernourished, and each year nearly 13 million under fives die as a direct or indirect result of hunger and malnutrition. In industrialised countries, many people spend much of their lives in unsatisfying, boring and meaningless work, while large numbers choose drugs over reality.
 >
@@ -134,9 +136,9 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "The potential for further beneficial cooperation will not be finally exhausted until all living processes are permanently organised into a single entity that is of the largest possible scale. The potential for increases in the scale of cooperation in this universe will end only when the entire universe is subsumed in a single, unified cooperative organisation of living processes. It will end only when the matter, energy and living processes of the universe are managed into a super organism on the scale of the universe." - [source](http://users.tpg.com.au/users/jes999/2.htm#:~:text=The%20potential%20for%20further,scale%20of%20the%20universe.)
 
-# Part 2: The Evolution of Cooperation
+## Part 2: The Evolution of Cooperation
 
-## Chapter 3. Why Cooperate?
+### Chapter 3. Why Cooperate?
 
 > "Like the goods and services produced in human society, the key functions of the human body are all the product of the coordinated activities of thousand and thousands of differently-specialised and interdependent cells. If this cooperation breaks down, so to do our bodies. Cancer is one example of what happens when cells go their own way at the expense of the body.
 >
@@ -172,7 +174,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "The potential benefits of cooperation can drive progressive evolution only to the extent that evolution is capable of exploiting the benefits. If evolution is unable to find ways to make cooperation work, progressive evolution will stall. This is a serious difficulty if the views of many mainstream biologists are correct. Most evolutionary theorists believe that evolution is very poor at organising cooperation, and that self-interested organisms will usually win evolutionary struggles. Consistent with this, there are many instances in the world around us where evolution seems unable to organise cooperation." - [source](http://users.tpg.com.au/users/jes999/3.htm#:~:text=the%20potential%20benefits%20of%20cooperation%20can%20drive,where%20evolution%20seems%20unable%20to%20organise%20cooperation.)
 
-## Chapter 4. Barriers to Cooperation
+### Chapter 4. Barriers to Cooperation
 
 > "We humans are obviously only partial cooperators. It is true that human economies can be spectacularly cooperative with an extraordinary specialisation and division of labour. It is also clear that internally, within our own bodies, we are cooperative all the way down. But anyone who tries to convince us that humans are always cooperators has a hard job in front of them.
 >
@@ -208,7 +210,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "Evolution has had only limited success in building cooperative organisations of greater scale than multicellular organisms. To date, human society is as far as it has progressed. However, as we have seen, human organisation is nowhere near as spectacularly cooperative as the components of cells and as the cells within animals. The potential for beneficial cooperation amongst humans and other organisms on this planet is far from exhausted, and will continue to drive progressive evolution. We are only a step along this way. We are evolutionary work-in-progress. And as we shall see in detail, evolution’s next great challenge on earth is our challenge. To progress, evolution must discover ways to expand and improve cooperative organisation on this planet. Whether this occurs in the near future depends on us. The only evolutionary mechanisms on earth that are capable of discovering these improvements operate through our minds and our social systems." - [source](http://users.tpg.com.au/users/jes999/4.htm#:~:text=evolution%20has%20had%20only,and%20our%20social%20systems.)
 
-## Chapter 5. Organising Cooperation
+### Chapter 5. Organising Cooperation
 
 > "The first major breakthrough in understanding how cooperation might evolve between multicellular animals came with the publication of William Hamilton’s theory of genetical kin selection in 1964. The central idea in the mechanism he described is very simple: consider a cooperator who shares its food with others who have not been able to gather enough. If the cooperator shares food only with other individuals who contain copies of its cooperator gene, the benefits of cooperation will go only to other cooperators. Only those who carry the cooperator gene will benefit. Non-cooperators will be excluded from any of the advantages of cooperation." - [source](http://users.tpg.com.au/users/jes999/5.htm#_ednref1:~:text=The%20first%20major,advantages%20of%20cooperation.)
 
@@ -296,7 +298,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "Competition between human societies is no longer strong enough or incessant enough to align the interests of human rulers and governments with those of their citizens. When human groups were small and numerous, competition was strong and continual. But as human societies grew larger and fewer, competition between them has decreased. We will see that in the absence of strong and continual competition, the key to the evolution of cooperative human societies is the discovery of new organisational structures. These must align the interests of the ruler or government with those of the members of the society. When this is achieved, a government driven purely by self-interest will manage in the interests of the society. Abuse and exploitation will end, and the benefits of cooperation can be fully exploited." - [source](http://users.tpg.com.au/users/jes999/5.htm#_ednref1:~:text=competition%20between%20human,be%20fully%20exploited.)
 
-## Chapter 6. The Evolution of Management
+### Chapter 6. The Evolution of Management
 
 > "Eventually, the evolutionary success of a manager will depend totally on its ability to manage the group that it controls. It will have no evolutionary future outside the group it manages. The success of the manager will depend totally on the success of the organisation. The manager will capture all the effects on the organisation of its actions, good and bad, and will therefore treat the organisation as it would treat itself. The self-interested manager will pursue the interests of the organisation as a whole. The group and the manager will form an organisation that is a single, united evolutionary entity." - [source](http://users.tpg.com.au/users/jes999/6.htm#:~:text=Eventually%2C%20the%20evolutionary,united%20evolutionary%20entity.)
 
@@ -328,7 +330,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > As we will see in detail, our current systems of government fail to meet the evolutionary ideal. Democratic processes are not sufficient to completely align the interests of the governors with the governed. As a result, even highly democratic human societies do not harness the benefits of cooperation in the interests of society as a whole. A major challenge for humans in the future is therefore to devise forms of organisation that overcome this limitation, and that are more likely to be successful in evolutionary terms. Even though our societies may not be subject to strong and continual competition at present, we must organise our societies cooperatively so that they will be competitive in future evolution. If evolution on this planet is to continue to progress by exploiting more of the potential benefits of cooperation, we must meet this challenge successfully." - [source](http://users.tpg.com.au/users/jes999/6.htm#:~:text=For%20continued%20evolutionary,this%20challenge%20successfully.)
 
-## Chapter 7. Internal Management
+### Chapter 7. Internal Management
 
 > "A tribe could be managed by a set of hard-wired predispositions that could reproduce itself in most of the members of the group, and cause them to expel any remaining members who did not appear to contain the hard wiring. I will refer to such a manager as a distributed internal manager: the management is internal to the individuals being managed, and is distributed in the sense that it is contained in each of the members of the group.
 >
@@ -354,9 +356,9 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > Their evolvability will also determine how effective they are at discovering how to form cooperative organisations of wider and wider scale. Living processes that evolve by the genetic evolutionary mechanism will be slow to discover how to form cooperative organisations. The genetic mechanism has no foresight or ability to anticipate future evolution. It has no capacity to understand the progressive evolutionary sequence of increasing cooperation that I have outlined, and no ability to use the sequence to guide its evolution. The genetic mechanism will still exploit the potential benefits of cooperation, but only when it blindly stumbles on cooperation that proves successful. In contrast, when living processes arise that develop an understanding of the progressive nature of evolution, evolution can move far more rapidly and directly to produce cooperative organisations of increasing scale. Once organisms know where evolution is headed and develop the ability to use this knowledge to guide their own evolution, progressive evolution will accelerate." - [source](http://users.tpg.com.au/users/jes999/7.htm#:~:text=So%20the%20evolution,evolution%20will%20accelerate.)
 
-# Part 3: The Evolution of Evolution
+## Part 3: The Evolution of Evolution
 
-## Chapter 8. Smarter Cooperation
+### Chapter 8. Smarter Cooperation
 
 > "These examples can also help us to see how the basic change-and-test process can be combined with more complex arrangements to improve the ability of the process to discover adaptations. The basic process searches for adaptation by trying out changes. It can discover improvements even if the changes are chosen randomly. But the search will be more efficient if the changes are chosen so that they have a better than random chance of proving adaptive. Change-and-test processes will do better if the changes they try out are non-random and are instead targeted at the types of changes that are likely to prove adaptively useful." - [source](http://users.tpg.com.au/users/jes999/8.htm#:~:text=These%20examples%20can,prove%20adaptively%20useful.)
 
@@ -368,7 +370,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "We have a tendency to think that these complex systems can be best designed and adapted by the use of human intelligence. We think that if we collect enough information about the system, we can understand it sufficiently to decide the course of action needed to produce the result we want. However, we can rarely have sufficient information about complex and rapidly changing systems to make them predictable enough for us to adapt them in this way. The experience of centrally-planned economies has made this increasingly clear in recent years. Attempts to use central planning to match production levels to the needs of consumers have been spectacularly unsuccessful." - [source](http://users.tpg.com.au/users/jes999/8.htm#:~:text=We%20have%20a,been%20spectacularly%20unsuccessful.)
 
-## Chapter 9. Smarter Genes
+### Chapter 9. Smarter Genes
 
 > "A central dogma of evolutionary biology is that genetic mutation is blind to future evolutionary possibilities. On this view, genetic mutation is not targeted at all. Whether a genetic change proves to be useful in discovering a new adaptation or in adapting to environmental changes is completely a matter of chance. Mutation is random in relation to future adaptive possibilities.
 >
@@ -390,7 +392,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > The inability of the genetic mechanism to adapt organisms continually during their life meant that there was enormous potential for the evolution of new mechanisms that could do this. This drove the evolution of new change-and-test mechanisms within the organism. Initially these were not evolutionary mechanisms. The adaptations that they produced were not passed from generation to generation. But, as we shall see, in humans these internal adaptive mechanisms have evolved into new evolutionary mechanisms that have overcome many of the limitations of the genetic mechanism. And we will see that they have to evolve further in the future to overcome other limitations and to improve the evolvability of humans as individuals and collectively." - [source](http://users.tpg.com.au/users/jes999/9.htm#_ednref2:~:text=An%20obvious%20limitation,individuals%20and%20collectively.)
 
-## Chapter 10. Smarter Organisms
+### Chapter 10. Smarter Organisms
 
 > "The inability of simple change-and-test processes to adapt the organism for the outside/future drove the progressive evolution of more complex change-and-test processes that could do so. Arrangements that could successfully exploit the potential benefits of discovering adaptations for the outside/future had an evolutionary advantage. The result has been a long sequence of improvements in adaptive ability that is still under way." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=The%20inability%20of,still%20under%20way.)
 
@@ -428,7 +430,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > The behaviours that will get us these emotional rewards will often clash with what we would have to do for future evolutionary success. As we have seen, our existing emotional reward system has been established by inferior and shortsighted evolutionary mechanisms. These mechanisms are blind to the long-term evolutionary consequences of our acts. They are unable to give us the emotional goals needed for future evolutionary success. If we are to be motivated to embrace evolutionary objectives, we will have to develop new psychological skills. We will need skills that enable us to free ourselves from the dictates of our pre-existing emotional reward system. We will need skills that enable us to find motivation and satisfaction in whatever forms of behaviour are needed for us to contribute to the successful evolution of life in the universe." - [source](http://users.tpg.com.au/users/jes999/10.htm#:~:text=we%20are%20on,in%20the%20universe.)
 
-## Chapter 11. Smarter Humans
+### Chapter 11. Smarter Humans
 
 > "Successful participation in the future evolution of life means we must continue to form cooperative organisations of larger and larger scale. To enable these organisations to fully explore the immense benefits of cooperation, they must be managed as far as possible so that individuals capture the effects of their actions on others, and therefore treat the other as self. And the organisations must be structured so as to maximise their evolvability." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=Successful%20participation%20in,maximise%20their%20evolvability.)
 
@@ -460,7 +462,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "The internal linear modeller is fundamentally ego centric, driven by goals that serve the functioning of the individual rather than the social group. The rise of internal linear modelling amongst humanity has produced the abandonment of religion and the rise of rationalism and individualism that we have seen in the last few hundred years of human history. It is only with the further evolution of the modelling capacity through the development of systemic and evolutionary modelling that the individual will eventually become conscious of the need to reinstate behaviours that produce cooperative organisation." - [source](http://users.tpg.com.au/users/jes999/11.htm#:~:text=The%20internal%20linear,produce%20cooperative%20organisation.)
 
-## Chapter 12. The Self-Evolving Organism
+### Chapter 12. The Self-Evolving Organism
 
 > "Systemic modelling is made possible by the acquisition of generalised mental schema that represent how various types of complex systems unfold and behave through time. Where the individual has a schema that matches a particular system, he can immediately envisage how the key processes of the system will behave. He immediately sees how the system as a whole unfolds over time, rather than having to follow the interactions of the parts of the system step-by-step.
 >
@@ -502,9 +504,9 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "Humans have barely begun to undertake this psychological transformation. Our psychology is evolutionary work-in-progress. We are an organism in which the capacity for mental modelling has not yet realised its full potential to take over and improve our evolvability. It is only through conscious psychological effort that we will develop the skills and self-knowledge that will enable us to make this transformation." - [source](http://users.tpg.com.au/users/jes999/12.htm#_ednref5:~:text=Humans%20have%20barely,make%20this%20transformation.)
 
-# Part 4: The Evolution of Life on Earth – Past, Present and Future
+## Part 4: The Evolution of Life on Earth – Past, Present and Future
 
-## Chapter 13. Evolution of Life on Earth
+### Chapter 13. Evolution of Life on Earth
 
 > "In each these first three organisational milestones, cooperative organisation was produced by external management, rather than by distributed internal management: in the first, matter and a proto metabolism were managed externally by an autocatalytic set of proteins to form a self-reproducing molecular process; in the second, sets were in turn managed externally by RNA molecules to produce simple cells; and in the third, simple cells were in turn managed by the DNA of a larger cell to produce complex eukaryote cells.
 >
@@ -522,7 +524,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "The sixth and seventh organisational milestones had to await the emergence of multicellular organisms with highly developed abilities to adapt and evolve during their life. As we shall see in detail in the Chapters that follow, the sixth milestone required an organism with the ability to learn new behavioural predispositions and to pass them from generation to generation. The seventh could begin to unfold only once an organism with a capacity for systemic modelling had emerged. And the full potential of the seventh milestone will be realised only when there is an organism with a capacity for evolutionary modelling and self-management. Of course, life on this planet began to acquire these capacities only with the emergence of humans and our recent ancestors. The story of the sixth and seventh organisational milestones is the story of the evolution of human societies." - [source](http://users.tpg.com.au/users/jes999/13.htm#:~:text=The%20sixth%20and,of%20human%20societies.)
 
-## Chapter 14. Management by Morals
+### Chapter 14. Management by Morals
 
 > "Like genetic predispositions, inculcated behaviours are resistant to change during the life of the individual. Once a person is inculcated with a system of religious beliefs and norms, they are likely to be followed no matter what the consequences to the individual. The individual will continue to follow norms even though it may mean giving up more immediate biological and social satisfactions. History gives abundant examples of where individuals have been prepared to die for their beliefs. An individual can be as immutably hard wired with inculcated behaviours as with genetic predispositions.
 >
@@ -564,7 +566,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > Social organisations would be more evolvable if their managers had the ability to search for improvements in management during the life of the organisation. As we will see in the next Chapter, human external managers who are capable of systemic mental modelling have this ability. Human rulers can continually adapt their management of a society in the light of experience if they are capable of systemic modelling. The emergence of humans with this capacity was essential for the 7th major organisational milestone in the evolution of life on this planet." - [source](http://users.tpg.com.au/users/jes999/14.htm#:~:text=In%20summary%2C%20distributed,on%20this%20planet.)
 
-## Chapter 15. The Rise of Governed Societies
+### Chapter 15. The Rise of Governed Societies
 
 > "This extraordinary explosion in the scale and complexity of cooperative organisation in the last 10,000 years would not have been possible without the emergence of a new form of management. In contrast to the distributed internal management of tribal societies, the new management was external. The members of human societies were no longer controlled only by inculcated behaviours. They were now governed externally by powerful rulers. But it was not the externality of the new management that enabled it to organise human societies that were far better at exploiting the potential benefits of cooperation. It was the ability of the new management to adapt its controls during the life of the society. The ruler could continually try out new controls in the search for improved management. He could adapt his management as circumstances changed. In contrast, the internal management of tribal societies had a very limited capacity to evolve during the life of the tribe. As we have seen, successful internal managers must include behaviours that actively suppress alternative management within the society. If alternatives cannot be tested within the group, internal management cannot adapt or evolve during the life of the group.
 >
@@ -618,7 +620,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 > "External management by governments or other rulers has proven far more effective at organising human societies than internal management by inculcated beliefs. The evolvability of societies that are externally managed by rulers capable of systemic modelling is vastly superior. Human societies managed by governments or other rulers have been able to discover and establish far more complex and effective cooperation between their members, and to adapt their management as circumstances change. In the 10,000 years since external managers first emerged, their management ability has improved significantly. But governments and other rulers are still limited in their ability to directly organise cooperation. They lack the information to plan and implement the detailed interventions that would be necessary to ensure that members of the society always capture the effects on others of their actions. Governments lack the ability of economic markets to achieve this in many circumstances. The best way in which a government or other ruler can manage a society in these situations is to establish a system of controls that will enable economic market to emerge." - [source](http://users.tpg.com.au/users/jes999/15.htm#:~:text=external%20management%20by,market%20to%20emerge.)
 
-## Chapter 16. Limitations of Markets
+### Chapter 16. Limitations of Markets
 
 > "Another very important example of services that will not be supplied adequately by a free market alone are education and training. The reason for this is that education and training does not benefit only those individuals who consume it. Educated individuals produce collective benefits. This is true both for general education as well as for work-orientated education and training. For example, a democratic society will operate more effectively if its members are well educated about how the social and economic systems function. And work-orientated training benefits not only the individual who is able to earn higher wages with his improved skills, but also all those who work with the individual and who are more productive because they are working with someone with higher skills. So suppliers of education and training will not be able to capture the full benefits that their service provides to society. Free riding will prevent them from capturing benefits that spill over to others. As for defence, this will undermine the provision of an adequate level of education and training unless government intervenes.
 >
@@ -682,7 +684,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > It is not difficult to develop simple models of this type that have a surface plausibility. In a complex society most actions have a multitude of effects, some of which will advantage a particular group, some of which will not. Any action that advantages the wealthy will probably also have some effects that advantage the poor, as well as some that harm the poor. It is a simple matter to construct models that highlight only the causal chains that suit a particular argument. Such a model will not be wrong because of what it contains, but because of what it leaves out. The logical and causal connections used by the model will be valid. But minds that cannot model the complexity that has been left out of the simple model will not be able to see that the model is inadequate and manipulative." - [source](http://users.tpg.com.au/users/jes999/16.htm#_ednref10:~:text=Of%20course%2C%20in,inadequate%20and%20manipulative.)
 
-## Chapter 17. Planetary Society and Beyond
+### Chapter 17. Planetary Society and Beyond
 
 > "We must develop the psychological capacity to adapt in whatever ways are necessary to achieve future evolutionary success. This means that we must no longer pursue motivations and values set by our biological and social past. Instead, we must develop the psychological ability to find motivation and emotional satisfaction in whatever we need to do to achieve future evolutionary success. We must use mental models of our evolutionary future to set our ultimate objectives, and then align our emotional system and other pre-existing adaptive processes with these evolutionary objectives." - [source](http://users.tpg.com.au/users/jes999/17.htm#:~:text=We%20must%20develop,these%20evolutionary%20objectives.)
 
@@ -778,7 +780,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > To be assured of continued evolutionary success, a planetary organisation must become a self-evolving organism in its own right. Its ability to adapt and evolve must not be limited by the biological and social past of the living processes that participate in it. Through appropriate management of these living processes, the planetary organisation must be able to adapt and evolve in whatever directions are necessary for future evolutionary success." - [source](http://users.tpg.com.au/users/jes999/17.htm#:~:text=It%20is%20much%20more%20likely%20that,are%20necessary%20for%20future%20evolutionary%20success.)
 
-## Chapter 18. Humanity V. Bacteria
+### Chapter 18. Humanity V. Bacteria
 
 > "The fact that many species of bacteria have survived largely unchanged for over 3,500 million years fails to prove that evolution as a whole is not progressive. As I argued in Chapter 2, evolution is fundamentally progressive if there are sequences of potential improvements in living processes that evolution can exploit. The fact that some living processes have not yet exploited the sequences does not mean that the sequences do not exist. It may be that potentials for improvement exist, but the evolutionary mechanisms that have operated until now have not been creative enough to find ways for bacteria to exploit the potentials. This possibility cannot be dismissed without proving that there are no such sequences of potential improvements.
 >
@@ -808,7 +810,7 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > Gould was wrong when he stated that it will always be the age of bacteria. To know what sort of living processes will be successful in future evolution, it is essential to know where evolution is headed. You must know if there are potential improvements in existing living processes that will drive progressive evolution, and, if so, what these improvements are. You must know what the evolutionary game is, and what its winners will look like. We have seen that the evolutionary future will belong to cooperative organisations of living processes that continue to increase in scale and evolvability. If humans change in the right direction both as individuals and socially, we may play a significant role in this future evolution. But we can say with certainty that free-living, unorganised, unmanaged bacteria will not. Non-cooperative, unorganised bacteria have done well in terms of survival up to now. But this is only because it has taken evolution this long to produce an organism that is capable of managing large-scale cooperative organisations of bacteria and other organisms. The future belongs to cooperative organisations, and bacteria will share in this future only to the extent that they participate in and contribute to these organisations. The same applies to us." - [source](http://users.tpg.com.au/users/jes999/18.htm#:~:text=In%20many%20cases,applies%20to%20us.)
 
-## Chapter 19. The Evolutionary Warrior
+### Chapter 19. The Evolutionary Warrior
 
 > "Evolutionary awareness impacts on the individual in two main ways. First, it loosens our attachment to our existing motivations, beliefs, values and objectives. It calls into question the appropriateness of our personal characteristics, and the behaviours they motivate. Second, evolutionary awareness can provide us with new values and objectives, and a new direction to our life. It points to how we can live a life that contributes to the successful evolution of living processes in the universe, a life that is therefore consistent with the forces that are responsible for our existence.
 >
@@ -857,3 +859,112 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 > Finally, we will support the formation of a unified and self-actualised planetary society. We will do what we can to develop a society that uses its understanding of the direction of evolution to guide its own evolution. Critical steps along the way to achieving such a society will be the establishment of a system of global governance, and the implementation of new forms of governance and economic systems that are more evolvable and better at organising cooperation. The society will develop and utilise the potential of all its members in order to fulfil its own potential.
 >
 > It would over-dramatise the situation to say that the future evolutionary success of humanity depends on how well we pursue these projects. We can hope that others who come after us will have the opportunity to repair any damage we cause, and make up for any short fall in what we achieve. But how successful we are at advancing these projects will determine the significance of our lives." - [source](http://users.tpg.com.au/users/jes999/19.htm#:~:text=Against%20this%20background,of%20our%20lives.)
+
+# The Evolutionary Manifesto: Our Role in the Future Evolution of Life
+
+## Part 1: Intentional evolution
+
+> "At present humanity is lost.  We don’t know what we are doing here.  We are without a worldview that can point to our place and purpose in the universe and that can also withstand rational scrutiny." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=At%20present%20humanity%20is%20lost.%C2%A0%20We%20don%E2%80%99t%20know%20what%20we%20are%20doing%20here.%C2%A0%20We%20are%20without%20a%20worldview%20that%20can%20point%20to%20our%20place%20and%20purpose%20in%20the%20universe%20and%20that%20can%20also%20withstand%20rational%20scrutiny.)
+
+> "Socially, the next great step in human evolution is the emergence of a unified and sustainable global society.  Psychologically, the next step is to free our behavior from the dictates of our biological and cultural past, so that we can do that which is necessary for future evolutionary success. The organization of a cooperative global society is an urgent priority.  With it, the threats of world war and global warming can be easily managed.  Without it, human civilization may end this century." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=Socially%2C%20the%20next,end%20this%20century.)
+
+> "The shift to intentional evolution has begun on Earth.  The evolutionary process itself is evolving.  It is transitioning from a process that stumbles forward blindly to one that advances consciously and intentionally." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=The%20shift%20to%20intentional%20evolution%20has%20begun%20on%20Earth.%C2%A0%20The%20evolutionary%20process%20itself%20is%20evolving.%C2%A0%20It%20is%20transitioning%20from%20a%20process%20that%20stumbles%20forward%20blindly%20to%20one%20that%20advances%20consciously%20and%20intentionally.)
+
+> "What might take trial and error many thousands of millions of years to discover can be developed almost instantly by intelligent evolution.  In a few centuries, human technology has produced innovations such as heavier-than-air flight that took past evolution millions of generations of genetic trial and error to accomplish." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=What%20might%20take,error%20to%20accomplish.)
+
+> "Because of the central role of innovation in evolution, humanity will also set out to enhance the creativity of the evolutionary process.  This will mean improving our own capacity to innovate as well as the creativity of the systems we are embedded in.  Understanding and utilizing creative processes such as emergence and collective intelligence will be priorities. 
+>
+> If this major evolution transition is completed successfully, humans will henceforth shape their societies, themselves, and all other living processes on the planet to serve evolutionary goals. Through humanity, the evolutionary process on Earth will have become conscious of itself, and will have acquired the capacity to advance itself intentionally and consciously.  It will have undergone a fundamental and extremely significant transformation.  Evolution will have transitioned from a process that groped its way forward by trial and error to one that strides knowingly into the future, guided by foresight and powered by consciousness. 
+>
+> Humans who are alive during the 21st century, 13.7 billion years of evolution after the ‘big bang’, are extraordinarily fortunate.  The shift to intentional evolution is one of the most significant evolutionary transitions that can occur on any planet on which life emerges.  We have the unique opportunity to contribute to its successful completion on this planet.  And if we choose to make this contribution, we will do so consciously—we will be aware that we are contributing intentionally to the successful completion of a pivotal evolutionary event on this planet." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=Because%20of%20the%20central,event%20on%20this%20planet.)
+
+> "Intentional evolutionaries are aware that they have set themselves an extraordinarily challenging task, but know the transition cannot be completed unless sufficient individuals commit themselves to it.  And if life on Earth does not make the transition, it will not participate in the future evolution of life in the universe.  It will be a failed evolutionary experiment.  Intentional evolutionaries know the deepest evolutionary meaning of the challenge: “If not now, when?  And if not you, who?”. 
+>
+> The allegiance of conscious evolutionaries is not to what is, but to what can be.  They know that they are alive at one of those rare times in history when an old phase is ending, and a new one of infinite possibility is beginning.  They have the courage and wisdom to seize their opportunity and to accept the challenge of the future." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=Intentional%20evolutionaries%20are%20aware,challenge%20of%20the%20future.)
+
+> "The task of identifying what will work in the future is made easier because evolution has a trajectory.  It has headed in particular directions in the past, and there is every reason to believe that it will continue to do so in the future.  It is possible to locate humanity and life on Earth on this trajectory, and to see what needs to happen if we are to continue to advance along its path." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=The%20task%20of,along%20its%20path.)
+
+> "The trajectory of evolution is not produced by an external force, or by some impulse that is intrinsic to the universe, or by an ideal end-point that somehow attracts evolution towards it.  Directionality can be explained and understood fully without resort to mysticism. 
+>
+> For intentional evolutionaries, scientific explanations have a major advantage.  They identify the forces, processes and conditions that produce directionality.  Scientific understanding can therefore be used to work out the kinds of interventions that will advance the process.  In contrast, a readiness to accept mystical explanations can be counterproductive—it can impede the acquisition of the detailed evolutionary understanding that is essential to guide intentional evolution." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=The%20trajectory%20of%20evolution%20is,essential%20to%20guide%20intentional%20evolution.)
+
+> "Two attributes that increase as evolution proceeds are the scale of cooperative organization, and evolvability (i.e. the ability to evolve successfully through the discovery of effective adaptations).  As a result, the advancement of evolution is marked by greater interdependence and cooperation amongst living processes, and by improvement in the ability to respond effectively to adaptive challenges. 
+>
+> Both of these attributes have the potential to provide evolutionary advantage to living processes across a wide range of environments.  This is because they are meta-adaptive capacities—they improve the ability to adapt in all circumstances, although they are not themselves an adaptation to any specific circumstance. 
+>
+> In particular, the larger the scale of a cooperative organization, the more resources commanded by the cooperative, the greater its power, the greater the impact of its actions, and therefore the wider the range of environmental challenges that it can meet successfully.  And the greater the evolvability, the greater the capacity to respond effectively to any challenges." - [source](https://www.evolutionarymanifesto.com/man.html#:~:text=Two%20attributes%20that,to%20any%20challenges.)
+
+## Part 2: Advancing evolution by organizing a cooperative global society
+
+> "Evolution has organized cooperation in similar ways in complex cells, multi-celled organisms and other cooperative systems.  First and foremost, these cooperatives are all structured so as to minimize destructive conflict between their members, and to facilitate cooperation.  Typically, this includes the near eradication of activities such as the inappropriate monopolization of resources by some members, the production of waste products that injure other members, and the withholding from others of the resources they need to realize their potential to contribute to the organization. 
+>
+> For the global society this would mean the virtual eradication of such things as war, terrorism, pollution (including global warming), and corruption at all levels of governance.  To enable each and every person to fulfill their potential to contribute to global society, it would mean eradicating starvation, disease and inadequate education.  It would also necessitate the facilitation of cooperative endeavors between the peoples of the world for mutual benefit." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=Evolution%20has%20organized,for%20mutual%20benefit.)
+
+> "Evolution has organized warring individuals into harmonious cooperatives by aligning the interests of the individual with the interests of the organization.  This ensures that when a member’s actions advantage the organization, they also advantage the member.  And when the actions harm the organization, the member is harmed.  
+>
+> As a result, members who pursue their own individual interests will also pursue the interests of the organization, as if guided by an invisible hand.  Cooperation pays.  Members capture the benefits of anything they can do to assist the organization.  Within the group, they therefore treat the other as self. 
+>
+> Significantly, the emergence of cooperatives does not depend upon the surrender of self-interest.  This would be as impossible at all other levels of organization as in human affairs.  As biologists have long known, organisms that take the benefits of cooperation without cooperating in return will generally out-compete those that cooperate.  Cooperation emerges only when evolution discovers a form of organization in which it pays to cooperate." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=Evolution%20has%20organized%20warring,it%20pays%20to%20cooperate.)
+
+> "Importantly, the emergence of a cooperative, sustainable global society does not require a fundamental change in human nature.  It does not require all humans to suddenly become saint-like.  Past evolution has repeatedly shown how to organize self interested individuals into cooperatives through the institution of effective governance.  A society with a high proportion of wise, compassionate and altruistic citizens would be much easier to govern, but evolution shows that the achievement of a cooperative and sustainable society does not depend upon it." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=Importantly%2C%20the%20emergence,depend%20upon%20it.)
+
+> "A major task for the global society will be to improve its efficiency and effectiveness by developing these forms of intelligence.  Enhancing the evolvability of governance will be a priority, given its current lack of adaptability and responsiveness.  This is likely to require the development of self-organizing, market-like processes to establish and evolve governance (i.e. invisible hand processes that are based on reciprocal exchanges between the providers of governance and those affected by it).  Our current forms of democratic processes are a first, small step in that direction. 
+>
+> Eventually government itself will be replaced with far more intelligent and adaptable processes that utilize the dynamism, creativity and energy of properly-managed markets.  Use is likely to be made of markets in governance, including markets in market structures (vertical markets).  These processes will continually adapt governance to maximize freedom while ensuring that the interests of all (including those who exercise governance) are aligned with the interests of the global civilization." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=A%20major%20task,the%20global%20civilization.)
+
+> "However, despite the fact that it is in the interests of the majority, the emergence of a global society will be resisted by those whose interests it threatens.  Strong opposition can be expected from those involved in activities that will be eradicated, such as arms manufacturing, the monopolization of resources, and power abuse. 
+>
+> As always when the interests of the powerful are threatened, they will buy the support of governments, politicians, scientists, intellectuals, think tanks, and the editorial policies of the mass media.  Many citizens will be absolutely convinced by this support that the institution of global society would mean the end of freedom, democracy and decency, and would hand the planet to the devil himself." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=However%2C%20despite%20the,the%20devil%20himself.)
+
+> "Intentional evolutionaries take advantage of every opportunity to promote the awakening of evolutionary consciousness across the face of the planet.  Their goal is to build a critical mass of evolutionary activists who constitute a powerful political force. 
+>
+> The organization of a unified global society is the urgent priority of intentional evolutionaries.  They know that human civilization cannot continue for long unless we are organized globally.  Already humanity has narrowly missed stumbling into nuclear war.  In the absence of global organization, human civilization is likely to be ended eventually by global warming or other environmental problems, nuclear war, conflicts fueled by competition for diminishing resources, or some combination of these. 
+>
+> The depletion of fossil fuels means that once civilization and technology collapses, it is unlikely to rise again.  It will not have the easily-accessible fuel source needed to power-up to its current level of complexity.  It will be like an egg that has used up its yolk. 
+>
+> Life on Earth probably has only one chance, this chance, to make it to the next level. 
+>
+> The capacity of humanity to embrace and be motivated by the evolutionary worldview is likely to decide whether we seize that opportunity." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=Intentional%20evolutionaries%20take,seize%20that%20opportunity.)
+
+> "The development by the global organization of a capacity to act, adapt and relate as a coherent whole is a very significant step in the evolution of life on this planet.  It will mean that life on Earth can speak with one voice." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=The%20development%20by%20the%20global%20organization%20of%20a%20capacity%20to%20act%2C%20adapt%20and%20relate%20as%20a%20coherent%20whole%20is%20a%20very%20significant%20step%20in%20the%20evolution%20of%20life%20on%20this%20planet.%20%C2%A0It%20will%20mean%20that%20life%20on%20Earth%20can%20speak%20with%20one%20voice.)
+
+> "Whether the global society develops these critically important capacities depends entirely on the emergence of intentional evolutionaries.  Natural selection will not drive the evolution of these abilities.  This is because an entity that spans an entire planet has no immediate competitors.  It is therefore not subject to any immediate process of natural selection that would select and amplify changes that are advantageous in evolutionary terms.  It will continue to evolve successfully only if its members anticipate the demands of future evolution, and intentionally shape the society so that it can meet those demands. 
+>
+> Intentional evolutionaries realize that their embrace of conscious evolution and evolutionary activism is essential if evolution on Earth is to progress.  They realize that life on Earth is part way through a process that can only be completed consciously.  They know that this will happen only if sufficient individuals realize this and commit to advancing the process.  And they know that these are realizations that all humanity must have. 
+>
+> The Earth is not yet a living entity.  But it can be." - [source](https://www.evolutionarymanifesto.com/man2.html#:~:text=whether%20the%20global,it%20can%20be.)
+
+## Part 3: Advancing evolution by enhancing evolvability
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
+> "" - [source]()
+
