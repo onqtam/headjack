@@ -954,17 +954,33 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 
 ## Part 4: The unique capacity of the evolutionary worldview to provide direction and purpose for humanity
 
-> "" - [source]()
+> "Life on Earth will not get far beyond its present stage by chance or accident.  Unless humanity sets out to advance the evolutionary process intentionally, life on Earth does not have a future. 
+>
+> We could try to ignore the large scale processes that govern the evolution of life in the universe.  We could refuse to do what is necessary for life on Earth to avoid being selected out by these processes.  But to do so would be to choose irrelevance, meaninglessness, and eventual oblivion for humanity and life on Earth. 
+>
+> It would mean that everything humanity has experienced until now, the misery, wars, holocausts, triumphs of the spirit, transcendent art, inventions and scientific breakthroughs; all the personal dreams, aspirations, struggles, and strivings; and all the political movements, work, fame, fortunes, families and civilizations would be for nothing.  Everything would be as if it never happened.  Life on Earth would disappear without trace.  The only way we can contribute to something that is not ephemeral is if humanity continues to be successful in evolutionary terms." - [source](https://www.evolutionarymanifesto.com/man4.html#:~:text=Life%20on%20Earth%20will,successful%20in%20evolutionary%20terms.)
 
-> "" - [source]()
+> "Evolutionary consciousness is the culmination of a long developmental sequence." - [source](https://www.evolutionarymanifesto.com/man4.html#:~:text=Evolutionary%20consciousness%20is%20the%20culmination%20of%20a%20long%20developmental%20sequence)
 
-> "" - [source]()
+> "The largest context that we yet know about in any detail is the evolutionary context outlined in this manifesto.  It is the widest, deepest and fullest context and it determines the destiny of all smaller contexts.  The evolutionary context is the next context for humanity to grow into.  Like other contexts before it, living into this wider context demands a revaluation of the strategies, values and goals that made sense in earlier contexts. 
+>
+> The evolutionary context is particularly powerful in this respect because it is the first context of sufficient breadth in space and time to encompass all the processes that have produced each of us and all our characteristics.  It is the first context that enables us to stand outside ourselves and see what it is that has made every aspect of ourselves and everything we experience.  Growing into the evolutionary context therefore causes the most radical reassessment of values—it changes everything." - [source](https://www.evolutionarymanifesto.com/man4.html#:~:text=The%20largest%20context,it%20changes%20everything.)
 
-> "" - [source]()
+> "Whenever living processes move into and master a wider context, they must increase the scale over which they are organized and coordinated if they are to have a meaningful impact at the larger scale.  And they must increase their evolvability, including by developing the capacity to model and understand the larger context." - [source](https://www.evolutionarymanifesto.com/man4.html#:~:text=Whenever%20living%20processes,the%20larger%20context.)
 
-> "" - [source]()
+> "Often, evolutionary epiphanies will be triggered as individuals begin to actually experience themselves as part of the unfolding evolutionary process.  If you develop in this direction, you will find that this begins to occur as your mental representations of the evolutionary process develop in detail, scale and complexity.  The turning point is when you find that you yourself have a role in the representations.  You will begin to see that your life and actions are part of the unfolding of the evolutionary process.  And you will begin to see that you have the potential to play a significant role if you choose to do so. 
+>
+> In particular, you will see that the next great step in the evolution of life on Earth is the transition to intentional evolution.  You will realize that evolution will continue to progress on this planet only if enough individuals dedicate their existence to its advancement.  The success of evolution on Earth depends on individuals awakening to the nature of the evolutionary process, realizing they have a role in driving it forward, and embracing that role. 
+>
+> You will realize that your study of the evolutionary process is itself part of the unfolding of the great transition to intentional evolution.  It is an essential element of the evolutionary awakening that is needed to power the transition.  And you will see that your realization that you have an important role in advancing evolution is itself a significant step in the shift to conscious evolution.  This is a realization that has to be had by sufficient individuals on a planet if the transition is to be successful on that planet.  You will see that the successful evolution of life on Earth depends on you having this realization. 
+>
+> These realizations are exhilarating and energizing and capable of providing a deep sense of meaning and purpose.  Increasingly you will cease to experience yourself primarily as an isolated and self-concerned individual.  Instead, you will begin to see and experience yourself as a participant in the great evolutionary process on this planet.  The object of your self-reflection will change.  When you think of yourself, you will tend to see yourself as a-part-of-the-evolutionary-process.  You will experience yourself as the most recent representative of an unbroken evolutionary lineage that goes back billions of years." - [source](https://www.evolutionarymanifesto.com/man4.html#:~:text=Often%2C%20evolutionary%20epiphanies,billions%20of%20years.)
 
-> "" - [source]()
+> "Of course, life on some planets may not complete the critically important step that currently faces humanity:  the emergence of a unified and sustainable global society.  Life at the threshold of this step is likely to be precarious, as it is for humanity at present.  At this stage, life still comprises separate warring groups that compete destructively with one another.  Like us they will be technologically advanced enough to destroy their civilizations in a war to end all wars.  At the same time, the lack of global controls to restrain competition for ever-diminishing resources will inevitably result in environmental despoliation, as it has on this planet at this time.  This in turn will increase the potential for further conflict and war. 
+>
+> One way or the other, civilizations at this precarious threshold will be temporary:  either they will be driven urgently by evolutionary consciousness to form a unified global society that restrains internal conflict and environmental harm; or they will destroy themselves. 
+>
+> Humanity is at a dangerous stage in the evolution of planetary life, poised somewhere between oblivion and the opening of extraordinary new opportunities.  The fate of humanity is likely to be decided this century, by our actions." - [source](https://www.evolutionarymanifesto.com/man4.html#:~:text=Of%20course%2C%20life,by%20our%20actions.)
 
 > "" - [source]()
 
