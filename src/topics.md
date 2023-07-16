@@ -18,6 +18,17 @@ all the externalities !!!
 https://imgflip.com/memegenerator/1216800/all-the-things -->
 
 
+<div style="text-align: center;">
+    <img src="images/meme_what_is_my_purpose.jpg">
+</div>
+
+<!-- what is my purpose?
+recursive relevance realization
+and intentional evolution
+it all makes
+sense now...
+https://imgflip.com/memegenerator/151945243/what-is-my-purpose -->
+
 
 
 
