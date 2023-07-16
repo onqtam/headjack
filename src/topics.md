@@ -59,6 +59,8 @@ evolutionary activism
 
 reward systems - the god protocol
 
+snapping humanity on the right trajectory - the god machine, recursive relevance realization
+
 The fairness protocol - transparency, accountability, skin in the game, inquiry
 
 Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
