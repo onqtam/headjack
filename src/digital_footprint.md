@@ -33,6 +33,9 @@ All this has lead to the rise of apps like [Linktree](https://en.wikipedia.org/w
 
 In order to reconstruct we must first deconstruct. What types of actions & events result in our trail of data? What are the building blocks? Here's a rough scetch of a few broad categories:
 
+TODO: data exhaust
+https://en.wikipedia.org/wiki/Data_exhaust
+
 - **Authoring documents & events**
     - **Posts & documents** (sharing/retweeting are a type of post too)
     - **Comments** - on posts/documents and other comments
