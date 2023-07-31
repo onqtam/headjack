@@ -67,6 +67,7 @@ https://vitalik.ca/general/2021/06/18/verkle.html
 https://notes.ethereum.org/@vbuterin/verkle_tree_eip
 https://efdn.notion.site/efdn/Verkle-Tries-bf5391f9b3c949fdb375b0ec6a108a25
 
+
 Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean
 https://www.youtube.com/watch?v=Q7rStTKwuYs
 
@@ -80,6 +81,9 @@ https://vitalik.ca/general/2022/09/17/layer_3.html#why-you-cant-just-keep-scalin
 
 dude working on verkle trees:
 https://twitter.com/gballet/status/1648404384080953344
+
+https://twitter.com/gballet/status/1683759612565094401
+https://docs.google.com/presentation/d/1sqr4w4_LyRlMu3ICacaq0LEDdhBytBcFx0EJt1YOA4A/edit#slide=id.p
 
 https://ethresear.ch/t/using-polynomial-commitments-to-replace-state-roots/7095
 
@@ -259,6 +263,9 @@ perhaps spam in email is a harder problem compared to Headjack where everything 
     list of solutions to the sybil attack problem:
         https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/
     - Pruning?
+
+    on sybil attacks and proof of humanity
+    https://twitter.com/nicksdjohnson/status/1683940920146763776
 
 - settlement is not native to this system
 the lack of financial integration & composability with other chains might be an issue?
