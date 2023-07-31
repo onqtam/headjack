@@ -168,6 +168,7 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
 - business models
 - startup case study
 - The Metaverse manual: a How-to guide
+    global brain vocabulary - how to think about events and interactions and data
 - what really is headjack
     - narrow waist
     - 100 ways to describe Headjack
