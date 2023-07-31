@@ -1,11 +1,27 @@
 
 
 
+> "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
+
+
+We need to be able to bet on anything (DO WE?)
+> "Where can I purchase a futures contract on the number of patent citations a physics paper will have in 5 years?" - [Daniel Gross](https://twitter.com/danielgross/status/1684209771895726081)
 
 
 
 
+> "The best way, perhaps the only way, to change others is to become an example." - [Naval Ravikant](https://twitter.com/naval/status/1001968749342273536)
 
+> "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
+
+
+
+> "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts." - [Bertrand Russell](https://twitter.com/thewisebot/status/1681846394443927554)
+
+
+> "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836)
+
+> "Negative feedback dendrites are missing (aka. dislike button). Neural networks do not work without them." - [Toni Engelhardt](https://twitter.com/toniengelhardt/status/1682498181051957248)
 
 
 > "Life sucks order from a sea of disorder." - [James Gleick](https://www.azquotes.com/quote/1046973)
@@ -430,6 +446,7 @@ The metaverse is the address space of the global brain
 
 > "Humanity is suffering from depression. It could do so much, yet it wants to do so little." - [Samo Burja](https://twitter.com/samoburja/status/1675918518876000256)
 
+> "Whatever injsutice of the government or elites you're upset about will be forgotten just as quickly. Understanding politics and power is an exercise in memory." - [Samo Burja](https://twitter.com/SamoBurja/status/1685073306565906432)
 
 > "Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other." - [Oscar Ameringer](https://www.goodreads.com/quotes/415646-politics-is-the-gentle-art-of-getting-votes-from-the)
 
@@ -547,6 +564,7 @@ https://www.edge.org/response-detail/27098
 
 > "You want to recruit producers, not consumers, and for that, you’ll need a purpose." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=You%20want%20to%20recruit%20producers%2C%20not%20consumers%2C%20and%20for%20that%2C%20you%E2%80%99ll%20need%20a%20purpose.)
 
+> "History is a cryptic epic of twisting trajectories." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=history%20is%20a%20cryptic%20epic%20of%20twisting%20trajectories.)
 
 > "A significant fraction of people want moral progress. Just as much as the technologist wants to get to Mars, a large chunk of society wants to feel like the good guys fighting in some grand cause. And if you don’t give them that cause, they’ll make one up, and/or start fighting each other." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/left-is-the-new-right-is-the-new-left#:~:text=a%20significant%20fraction%20of%20people%20want%20moral%20progress.%20Just%20as%20much%20as%20the%20technologist%20wants%20to%20get%20to%20Mars%2C%20a%20large%20chunk%20of%20society%20wants%20to%20feel%20like%20the%20good%20guys%20fighting%20in%20some%20grand%20cause.%20And%20if%20you%20don%E2%80%99t%20give%20them%20that%20cause%2C%20they%E2%80%99ll%20make%20one%20up%2C%20and/or%20start%20fighting%20each%20other.)
 
@@ -554,7 +572,7 @@ https://www.edge.org/response-detail/27098
 How do we figure out what person X recommends as books? Is there a way to get a disambiguated up-to-date list? No. So we browse stale pages like these:
 https://fs.blog/knowledge-project-podcast/naval-ravikant/#books-mentioned
 https://balajianthology.com/balajis-recommended-reading
-
+https://civilizationemerging.com/books/
 
 
 Wherever we turn our attention, things should improve
@@ -2249,10 +2267,17 @@ So far we've been networked only linguistically but now we can go to the level o
 
 
 
+> "This app is really getting aggressive about defaulting to the For You timeline." - [Matthew Green](https://twitter.com/matthew_d_green/status/1681415284521877529)
+
+
+
+
 
 
 == calculemus!
 "computable context" as a chapter - not just reputation!
+
+https://twitter.com/tszzl/status/1680749872469667840
 
 !!! calculemus ("may we calculate, may we compute")
 https://en.wiktionary.org/wiki/calculemus
