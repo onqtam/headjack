@@ -368,6 +368,8 @@ https://atproto.com/guides/data-repos
 
 # What other projects get wrong
 
+> "Good design is simple. You hear this from math to painting. In math it means that a shorter proof tends to be a better one. Where axioms are concerned, especially, less is more. It means much the same thing in programming. For architects and designers it means that beauty should depend on a few carefully chosen structural elements rather than a profusion of superficial ornament." - [Paul Graham](http://www.paulgraham.com/taste.html#:~:text=Good%20design%20is,of%20superficial%20ornament.)
+
 <img src="images/meme_they_dont_know_pubkeys.jpeg" align="right" style="margin-left: 8px; width: 50%">
 <!-- https://twitter.com/ArvinK/status/1620833678816575488 -->
 
