@@ -382,6 +382,8 @@ https://forum.aragon.org/t/we-present-ovote-offchain-voting-with-onchain-trustle
 https://forum.aragon.org/t/blind-ovote-ovote-with-blind-signatures-for-voter-anonymity/3881
 https://vitalik.ca/general/2022/06/15/using_snarks.html
 https://github.com/privacy-scaling-explorations/maci/
+Systems like MACI can prevent you from credibly selling your vote, by allowing you to later cast another vote that invalidates your previous vote, in such a way that no one can tell whether or not you in fact cast such a vote. However, if the briber controls which key you get at registration time, this does not help.
+https://vitalik.ca/general/2023/07/24/biometric.html#:~:text=Systems%20like%20MACI,does%20not%20help.
 https://w3c-ccg.github.io/ldp-bbs2020/
 https://link.springer.com/chapter/10.1007/3-540-36413-7_20
 what to want from voting: privacy, correct execution, coercion-resistance (not being able to prove how you voted) and censorship resistance to the voting context
