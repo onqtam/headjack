@@ -1,4 +1,5 @@
 
+<img src="images/meme_financial_speculation.jpg">
 
 <div style="text-align: center;">
     <img src="images/meme_girls_gossiping_high_score.jpg">
