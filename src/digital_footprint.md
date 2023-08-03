@@ -253,6 +253,7 @@ Even Substack is transitioning to [something like Twitter](https://on.substack.c
 
 > "Social networks do best when they tap into one of the seven deadly sins. Facebook is ego. Zynga is sloth. LinkedIn is greed." - [Reid Hoffman](https://www.azquotes.com/quote/134480), LinkedIn founder
 
+WHAT ABOUT MEANING/PURPOSE/POWER?
 !!! A single identity network is all 8 at the same time.
 
 But that comes at a cost: fragmented & inconsistent identity, content duplication, & lack of composability to name a few. What if everything was built on top of a single unified identity network shared and reused across apps with granular subscriptions (following) for what we want to be notified for and see from others in our feeds (+ the ability to control the visibility of any action)?
