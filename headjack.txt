@@ -22,6 +22,8 @@ vertical markets are a disaggregation of democracy - enabling evolvability of go
 
 If a vertical market exists, an externality is like an unmet personal need in an economic market - a profit opportunity for any enterpreneur who wants to develop an element of governance that corrects that externality in a cooperative fashion
 
+Governance and democracy need to be unbundled - their current forms (electing representatives every few years) were conceived centuries ago because we simply couldn't have done it better back then - we need to reinvent them in the digital era.
+
 
 when you open a youtube video that you've watched previously and reset your view progress - wouldn't it be cool to know if you've seen it before?
 
