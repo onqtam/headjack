@@ -99,6 +99,7 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - verifiable credentials and attestations
     - voting & liquid democracy
     - anonymity
+        https://crypto.stackexchange.com/questions/107464/
     - aggregation
     - models & multiple points of view
     - fact databases & oracles

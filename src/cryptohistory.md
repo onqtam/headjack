@@ -190,6 +190,8 @@ aseem malhotra - statins overperscribed and how were the original studies carrie
 
 ancel keys
 
+academia resembles feudalism
+
 https://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html
 
 https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat
