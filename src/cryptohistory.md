@@ -31,7 +31,7 @@ the future of status and prestige is authentic computable context & reputation o
 
 - point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
 
-> "If the news is fake, imagine history" - [Amused Chimp](https://twitter.com/AmuseChimp/status/906147488582787073)
+> "If the news are fake imagine history" - [Amused Chimp](https://twitter.com/AmuseChimp/status/906147488582787073)
 
 > "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity. When I say sign, I am thinking cryptographically signed, like you sign a transaction in your web3 wallet." [Fred Wilson, AVC, 2022, “Sign Everything”](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
 
