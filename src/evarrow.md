@@ -982,49 +982,20 @@ To tell the truth, I simply cannot speak too highly of this book. My hunch is th
 >
 > Humanity is at a dangerous stage in the evolution of planetary life, poised somewhere between oblivion and the opening of extraordinary new opportunities.  The fate of humanity is likely to be decided this century, by our actions." - [source](https://www.evolutionarymanifesto.com/man4.html#:~:text=Of%20course%2C%20life,by%20our%20actions.)
 
-# TODO: REMOVE SPACES
+# The meaning of life in a developing universe
 
-# THE MEANING OF LIFE IN A DEVELOPING UNIVERSE
-
-https://www.evolutionarymanifesto.com/meaning.pdf
-
-
-
-Humanity is beginning to enter the early stages of the transition to intentional evolution and
+> "Humanity is beginning to enter the early stages of the transition to intentional evolution and
 development.
-As outlined earlier, our evolutionary science has established a strong case that the evolution of
-life on Earth is directional. We have good reasons to believe that this trajectory applies to life
-wherever it originates, and continues after life reaches our stage. Some of the most recent
-developments in evolutionary science suggest the possibility that this wider trajectory is itself
-part of a large-scale developmental process that has been shaped and tuned to reproduce the
-universe.
-Until now, evolution on Earth has moved along this trajectory of its own accord. However, it is
-becoming increasingly clear to evolutionary science that evolution will continue to advance only
-if certain conditions are met: humanity must awaken to the possibility they we are living in the
-midst of a developmental process; we must realize that the continued success of the process
-depends on our actions; and humanity must commit to intentionally moving the process forward
-(Stewart, 2008a).
-As yet there is no certainty that such meaningful larger-scale developmental and evolutionary
-processes exist. However, it is clear that if humanity is to put itself in a position to contribute to
-these processes if they do exist, it must commit to the pursuit of evolutionary goals now, long
-before certainty is achieved. Robust strategizing does not have to await robust science. It is
-possible to identify courses of action that are strategically optimal despite radical long-term
-uncertainty.
-As humanity begins to enter the transition to intentional evolution, we are seeing events emerge
-that are of great evolutionary significance. Similar events are likely to occur on any planet that
-moves through the transition. In particular, a key milestone on each planet will be its first global
-scientific conference that is convened to discuss the large-scale evolution of life in the universe
-and beyond. On this planet, this evolutionary milestone occurred in 2008 (The conference on the
-Evolution and Development of the Universe, held in Paris in October 2008).
-If the transition is to be completed successfully, humanity will have to free itself from the
-dictates of its biological and cultural past. Humanity will have to align its goals and motivations
-with the needs of any larger-scale evolutionary and developmental processes (Stewart, 2008a).
-The imminent possibility of a technological singularity lends great urgency to the development
-of these new psychological capacities and to the adoption of pro-evolutionary goals. Unless we
-develop these capacities before hand, the artificial intelligence and other technologies that enter
-any singularity will have been engineered to serve humanity’s ‘stone age’ desires, as they are at
-present. They will not be engineered to serve pro-developmental goals.
-
+>
+> As outlined earlier, our evolutionary science has established a strong case that the evolution of life on Earth is directional. We have good reasons to believe that this trajectory applies to life wherever it originates, and continues after life reaches our stage. Some of the most recent developments in evolutionary science suggest the possibility that this wider trajectory is itself part of a large-scale developmental process that has been shaped and tuned to reproduce the universe.
+>
+> Until now, evolution on Earth has moved along this trajectory of its own accord. However, it is becoming increasingly clear to evolutionary science that evolution will continue to advance only if certain conditions are met: humanity must awaken to the possibility they we are living in the midst of a developmental process; we must realize that the continued success of the process depends on our actions; and humanity must commit to intentionally moving the process forward (Stewart, 2008a).
+>
+> As yet there is no certainty that such meaningful larger-scale developmental and evolutionary processes exist. However, it is clear that if humanity is to put itself in a position to contribute to these processes if they do exist, it must commit to the pursuit of evolutionary goals now, long before certainty is achieved. Robust strategizing does not have to await robust science. It is possible to identify courses of action that are strategically optimal despite radical long-term uncertainty.
+>
+> As humanity begins to enter the transition to intentional evolution, we are seeing events emerge that are of great evolutionary significance. Similar events are likely to occur on any planet that moves through the transition. In particular, a key milestone on each planet will be its first global scientific conference that is convened to discuss the large-scale evolution of life in the universe and beyond. On this planet, this evolutionary milestone occurred in 2008 (The conference on the Evolution and Development of the Universe, held in Paris in October 2008).
+>
+> If the transition is to be completed successfully, humanity will have to free itself from the dictates of its biological and cultural past. Humanity will have to align its goals and motivations with the needs of any larger-scale evolutionary and developmental processes (Stewart, 2008a). The imminent possibility of a technological singularity lends great urgency to the development of these new psychological capacities and to the adoption of pro-evolutionary goals. Unless we develop these capacities before hand, the artificial intelligence and other technologies that enter any singularity will have been engineered to serve humanity’s ‘stone age’ desires, as they are at present. They will not be engineered to serve pro-developmental goals." - [source](https://www.evolutionarymanifesto.com/meaning.pdf)
 
 
 
