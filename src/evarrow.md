@@ -997,9 +997,15 @@ development.
 >
 > If the transition is to be completed successfully, humanity will have to free itself from the dictates of its biological and cultural past. Humanity will have to align its goals and motivations with the needs of any larger-scale evolutionary and developmental processes (Stewart, 2008a). The imminent possibility of a technological singularity lends great urgency to the development of these new psychological capacities and to the adoption of pro-evolutionary goals. Unless we develop these capacities before hand, the artificial intelligence and other technologies that enter any singularity will have been engineered to serve humanity’s ‘stone age’ desires, as they are at present. They will not be engineered to serve pro-developmental goals." - [source](https://www.evolutionarymanifesto.com/meaning.pdf)
 
+# Strategies for advancing evolution
 
-
-> "" - [source]()
+> "Importantly, the evolutionary worldview is capable of being embraced by all of humanity. This is particularly significant for strategies that are designed to build the power of the movement—it means the movement has the potential to accelerate its accumulation of power by targeting recruitment at powerful individuals. The wealthy and the powerful are as much in need of meaning and purpose in their lives as are the poor and disadvantaged.
+>
+> At present, the wealthy and powerful may consider that their narrow biological needs and desires can be best served by maintaining the status quo and suppressing real change. But the evolutionary worldview is capable of convincing them that real meaning and purpose is to be found in advancing evolution intentionally.
+>
+> This also means that the evolutionary worldview is unlike ideologies such as communism in an important respect. These ideologies reinforce conflicts of interests between groups in society and therefore must rely on overthrowing opponents by force. Communism could not recruit the wealthy and powerful, it had to put an end to their control through revolution.
+>
+> In this respect the evolutionary worldview is more like religious and mythological belief systems. At times in the past, religious worldviews have acquired the capacity to shape the goals and beliefs of societies by gaining the acceptance of elites. At these times they have not had to be imposed and maintained by violence." - [source](https://www.evolutionarymanifesto.com/strategies.pdf)
 
 > "" - [source]()
 
