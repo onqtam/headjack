@@ -171,6 +171,17 @@ We should be able to define any kind of incentives for error correction. Any.
 
 a blueprint for what is possible - not what will happen
 
+We don't have a mechanism to vouch for something and have skin in the game and accountability across all industries
+
+knowledge explorer
+
+influence, incenives & causality throughout our societies need to be mapped out and made traceable & computable
+
+status incentives reputation
+in some competitive games the leaderboards are reset every "season" in order to level the playing field for new entrants - this can also be leveraged in the reputation toolkit
+
+
+
 
 
 
@@ -197,6 +208,9 @@ a blueprint for what is possible - not what will happen
 
 > "Remember the deepest insights you've ever had about what matters." - [Daniel Schmachtenberger](https://youtu.be/nvAbKE8-jYA?t=5013)
 
+
+
+> "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
 
 
 
