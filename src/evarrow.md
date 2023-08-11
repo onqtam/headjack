@@ -1029,6 +1029,16 @@ development.
 
 > "" - [source](https://www.evolutionarymanifesto.com/JCS.pdf)
 
+# The Self-Organizing Society: A Grower’s Guide
+
+> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
+> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
+> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
+> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
 # The significant potential of computer games and related media to develop humanity
 
 > "A comprehensive capacity to engineer strong motivational paths to our longer-term goals would fundamentally change human potential. Computer games and related technologies have an enormous potential to engineer motivational paths, including Flow paths. It is this capacity of computer games to provide flow paths that makes them absorbing and addictive. In large part, the success of a video game is proportional to its ability to evoke a Flow experience. It is easy to see how computer game can be structured to provide motivational paths that meet all the criteria for producing Flow. Sequences of challenges, direct feedback, a requirement for concentration and merging of action and awareness are all easily incorporated into a game framework. And most importantly, the interactivity of computer games enables dynamic matching of the degree of difficulty to the level of the player. Matching can take advantage of interactivity by monitoring and assessing player performance and by allowing player-choice." - [source](http://meaningfulmedia.blogspot.com/2009/04/flow-engineering-using-computer-games.html#:~:text=A%20comprehensive%20capacity,allowing%20player%2Dchoice)
