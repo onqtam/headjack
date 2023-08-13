@@ -1,6 +1,6 @@
 # John Stewart's work
 
-The most important book ever written is **"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"** ([online](http://users.tpg.com.au/users/jes999/EvArrow.htm), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
+The most important book ever written is **"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"** ([online](https://www.evolutionarymanifesto.com/EvArrowBook.pdf), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
 
 <u>**It is an absolute gem that is criminally underappreciated.**</u>
 
@@ -1021,6 +1021,22 @@ development.
 
 > "The central difficulty in responding to global warming is obtaining sufficient support across the planet for implementing an effective regulatory solution. The problem is that restraining carbon emissions is against the immediate interests of most people on the planet as well as against the immediate interests of business. Strategies for Advancing Evolution 21 In the short term, reducing emissions to a safe level would mean reducing the standard of living in industrialized countries. It would also prevent most people in developing countries from attaining the standard of living they dream of (and see daily on their television sets). This difficulty is compounded by the fact that the effects of unrestrained carbon emissions are not direct, concrete and immediate. The causal relationships between carbon emissions and climate change cannot be perceived or experienced directly. The relationship can be seen only with the aid of appropriate knowledge and intellectual understanding. A key necessity is therefore to provide people across the planet with experiences and knowledge that enable them to see the causes and impacts of global warming, and see the need for global regulation. If people are to be willing to sacrifice their immediate interests to avoid a longer-term threat, they need to feel and experience the reality of that threat. We are not talking here about spending a few million dollars on posters and pamphlets. The future of humanity and civilization is at stake. Even in purely financial terms, the multi-trillion dollar impacts of global warming justify multi-billion dollar investments in these types of programs. But economic markets do not provide incentives to anyone to fund the programs. Each year, the invisible hand of the market directs many billions of dollars to the production and dissemination of pornography. But markets organize almost nothing for activities that are essential for the survival of civilized humanity." - [source](https://www.evolutionarymanifesto.com/strategies.pdf)
 
+# The significant potential of computer games and related media to develop humanity
+
+> "A comprehensive capacity to engineer strong motivational paths to our longer-term goals would fundamentally change human potential. Computer games and related technologies have an enormous potential to engineer motivational paths, including Flow paths. It is this capacity of computer games to provide flow paths that makes them absorbing and addictive. In large part, the success of a video game is proportional to its ability to evoke a Flow experience. It is easy to see how computer game can be structured to provide motivational paths that meet all the criteria for producing Flow. Sequences of challenges, direct feedback, a requirement for concentration and merging of action and awareness are all easily incorporated into a game framework. And most importantly, the interactivity of computer games enables dynamic matching of the degree of difficulty to the level of the player. Matching can take advantage of interactivity by monitoring and assessing player performance and by allowing player-choice." - [source](http://meaningfulmedia.blogspot.com/2009/04/flow-engineering-using-computer-games.html#:~:text=A%20comprehensive%20capacity,allowing%20player%2Dchoice)
+
+# The Self-Organizing Society: A Grower’s Guide
+
+This [whole paper](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf) needs to be read.
+
+> "The key enabling requirement for a self-organizing society is ‘consequence-capture’. Broadly this means that all agents in the society must capture sufficient of the benefits (and harms) that are produced by their actions on the goals of the society. ‘Consequence-capture’ can be organized in a society by appropriate management (systems of evolvable constraints) that suppress free riders and support pro-social actions. In human societies these constraints include institutions such as systems of governance and social norms. The paper identifies ways of organizing societies so that effective governance will also self-organize. This will produce a fully selforganizing society in which the interests of all agents (including individuals, associations, firms, multi-national corporations, political organizations, institutions and governments) are aligned with the interests of the society as a whole." - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
+> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
+> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
+> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
+
 # The future evolution of consciousness
 
 > "" - [source](https://www.evolutionarymanifesto.com/JCS.pdf)
@@ -1028,21 +1044,6 @@ development.
 > "" - [source](https://www.evolutionarymanifesto.com/JCS.pdf)
 
 > "" - [source](https://www.evolutionarymanifesto.com/JCS.pdf)
-
-# The Self-Organizing Society: A Grower’s Guide
-
-> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
-
-> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
-
-> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
-
-> "" - [source](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf)
-
-# The significant potential of computer games and related media to develop humanity
-
-> "A comprehensive capacity to engineer strong motivational paths to our longer-term goals would fundamentally change human potential. Computer games and related technologies have an enormous potential to engineer motivational paths, including Flow paths. It is this capacity of computer games to provide flow paths that makes them absorbing and addictive. In large part, the success of a video game is proportional to its ability to evoke a Flow experience. It is easy to see how computer game can be structured to provide motivational paths that meet all the criteria for producing Flow. Sequences of challenges, direct feedback, a requirement for concentration and merging of action and awareness are all easily incorporated into a game framework. And most importantly, the interactivity of computer games enables dynamic matching of the degree of difficulty to the level of the player. Matching can take advantage of interactivity by monitoring and assessing player performance and by allowing player-choice." - [source](http://meaningfulmedia.blogspot.com/2009/04/flow-engineering-using-computer-games.html#:~:text=A%20comprehensive%20capacity,allowing%20player%2Dchoice)
-
 
 
 > "" - [source]()
