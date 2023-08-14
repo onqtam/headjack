@@ -1,5 +1,12 @@
 # John Stewart's work
 
+<details>
+  <summary>Code example</summary>
+  <p>
+    ...
+  </p>
+</details>
+
 The most important book ever written is **"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"** ([online](https://www.evolutionarymanifesto.com/EvArrowBook.pdf), [Goodreads](https://www.goodreads.com/book/show/211260.Evolution_s_Arrow), [Amazon](https://www.amazon.com/gp/product/0646394975)) by John Stewart (Member of the **Evolution, Complexity and Cognition Research Group**, the Free University of Brussels).
 
 <u>**It is an absolute gem that is criminally underappreciated.**</u>
