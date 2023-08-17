@@ -39,8 +39,6 @@ the only web3 identity/social solution that can partner with OAuth/OpenID - and 
     https://compdemocracy.org/about/
 
 - status
-"Almost every social network of note had an early signature proof of work hurdle."
-https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
 Headjack - having a lower ID
 
 Oauth as a partner

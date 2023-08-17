@@ -130,8 +130,6 @@ https://www.thepullrequest.com/p/freeze-peach-and-the-internet
 
 https://philpapers.org/rec/NGUHTG
 
-https://www.eugenewei.com/blog/2019/2/19/status-as-a-service
-
 https://a16zcrypto.com/social-network-status-traps-web2-learnings/
 
 gini coeficient
