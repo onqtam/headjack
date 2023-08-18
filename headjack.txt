@@ -3349,6 +3349,46 @@ https://www.youtube.com/watch?v=n5ECz1YK30M
 
 
 
+> "We are now in the middle of a “big shift” where whole social technology forms like the University, Finance, Healthcare and, yes, Governance are going to be quite substantially changed “all the way down to the roots”." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=we%20are%20now%20in%20the%20middle%20of%20a%20%E2%80%9Cbig%20shift%E2%80%9D%20where%20whole%20social%20technology%20forms%20like%20the%20University%2C%20Finance%2C%20Healthcare%20and%2C%20yes%2C%20Governance%20are%20going%20to%20be%20quite%20substantially%20changed%20%E2%80%9Call%20the%20way%20down%20to%20the%20roots%E2%80%9D.)
+
+> "The best future for a post-Elon Twitter is located precisely here: as a broad platform supporting a diverse number of socio-technical applications and services. I will dub this “Sovereignty as a Service”." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=the%20best%20future%20for%20a%20post%2DElon%20Twitter%20is%20located%20precisely%20here%3A%20as%20a%20broad%20platform%20supporting%20a%20diverse%20number%20of%20socio%2Dtechnical%20applications%20and%20services.%20I%20will%20dub%20this%20%E2%80%9CSovereignty%20as%20a%20Service%E2%80%9D.)
+
+> "Perhaps the most foundational piece, the "commanding heights” of SAAS, is securing and provisioning digital identity in a fashion that is (a) owned and controlled by individual human beings themselves; and (b) valuable and strong enough to displace centralized corporate and nation-state efforts to own and control this important “hill”. He who controls identity controls the (social) world." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=Perhaps%20the%20most,the%20(social)%20world.)
+
+> "The ability to provide fully anonymous identities that are also provably bound to the core identity. At the current moment it appears that zkSNARKs are the correct solution to this problem. Using this technology, we can neatly cut the gordian knot of simultaneously allowing people to take advantage of the virtues of anonymity while (a) ensuring that they aren’t bots and (b) providing methods of extinguishing sociopathic behaviour." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=The%20ability%20to,extinguishing%20sociopathic%20behaviour.)
+
+> "Implicit in the concept of “Network State” is, of course, networks. In the realm of the virtual, the communications-layer *is* the territory. And, just as any geographic sovereign must be able to protect its physical territory, any viable SAAS must provide for the security of the communications layer. To put it simply, it must be difficult if not impossible for any potential adversary to disconnect a person from their SAAS communications network." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=Implicit%20in%20the,SAAS%20communications%20network.)
+
+> "Any valid SAAS must provide a rule of law infrastructure that allows different networks to self-govern according to their values and priorities." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=Any%20valid%20SAAS%20must%20provide%20a%20rule%20of%20law%20infrastructure%20that%20allows%20different%20networks%20to%20self%2Dgovern%20according%20to%20their%20values%20and%20priorities.)
+
+> "The original concept of a jury was not a random selection of complete strangers, but a jury of “peers” (i.e., people who all parties to the conflict knew and respect as being well positioned to weigh in on the conflict). In the social media realm, we can imagine an (opt-in) “Adjudication as a Service” whereby everyone must select some (say) seven or twelve people who they feel comfortable listening to (i.e., a “Council of Elders”). In the event of a conflict between any two members of the network, the system can (use software to) assemble a 3-person jury consisting of one member of each parties Council and a third member of the other two Council-members. Such a jury can be empowered to evaluate the case and adjudicate according to the other tools available to the community on the platform." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=the%20original%20concept,on%20the%20platform)
+
+> "Flexible but clear jurisdiction. Mastodon partitions rule of law by “instance” (or server). We can imagine a more fluid and flexible approach whereby for example users require other people to opt-in to some “Rule of Law” protocol in order to interact with them in some way. A typical example in modern agreements is where the parties agree for a contract to be governed by a given jurisdiction (say Delaware law) or to be mediated by a given organization. “In order to follow me, you must opt into and abide by the rules of XYZ Rule of Law protocol.”" - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=Flexible%20but%20clear,of%20Law%20protocol.%E2%80%9D)
+
+> "The core principles are easy:
+>
+> 1. Subsidiarity - as much responsibility should be handled as intimately to the real lived contexts as possible.
+>
+> 2. Modularity - communities should be able to assemble their own preferred governance stack from components.
+>
+> 3. Automation - render unto software that which should be rendered unto software.
+>
+> 4. Humanization - render unto the human that which should be rendered unto the human,
+>
+> 5. Experiment and evolution - diverse and decentralized efforts to solve the hard problem of how we might properly govern ourselves in this unique virtual domain." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=the%20core%20principles,unique%20virtual%20domain.)
+
+> "Federation is great, but it doesn’t solve the problem of conflict *between* federated communities. Brigading and other coordinated attacks between online communities is already well established and isn’t going to go away. This implies a meta-protocol that is abstract and general enough to include a variety of communities but clear and strong enough to maintain healthy relationships between communities that might have very different values and interests." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=Federation%20is%20great,values%20and%20interests.)
+
+> "Make it implausible for a strong executive to capture the people and the platform itself. This enables the SAAS to align interests with and therefore benefit from the potency of a very strong executive, without risk of tyranny." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=make%20it%20implausible%20for%20a%20strong%20executive%20to%20capture%20the%20people%20and%20the%20platform%20itself.%20This%20enables%20the%20SAAS%20to%20align%20interests%20with%20and%20therefore%20benefit%20from%20the%20potency%20of%20a%20very%20strong%20executive%2C%20without%20risk%20of%20tyranny.)
+
+> "We are undergoing a profound shift that is now unfolding at the core of our social and cultural infrastructure. This shift is deeply entangled with the Meta-Crisis. In some sense, the disruption of our legacy social technologies is causing a lot of pain. In another sense, this pain is akin to the pain of childbirth: and the potential of a post-SAAS culture represents perhaps the only viable solution to the Meta-Crisis.
+>
+> In my estimation, our senescent legacy social technologies are holding us back enormously. We are collectively acting at perhaps 10% of our potential. Perhaps much less. If we begin to successfully navigate the big shift, big chunks of this potential will be unlocked. A doubling or tripling of human capacity is more of a qualitative shift than a quantitative one. If you want to solve hyper-problems, this is the thing. More to the point, if you really want to colonize Mars, this is the thing." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=we%20are%20undergoing%20a%20profound,Mars%2C%20this%20is%20the%20thing.)
+
+
+
+
+
 
 
 > "Wars are won by choosing the battlefield. And the battlefield of politics is media." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Wars%20are%20won%20by%20choosing%20the%20battlefield.%20And%20the%20battlefield%20of%20politics%20is%20media.)
