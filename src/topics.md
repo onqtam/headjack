@@ -52,6 +52,8 @@ bayesian thinking/living
 
 deconstructing media down to the claim level
 
+state vs events - many different views/states (instances) constructed with different rules/models that all use the same set of global events
+
 informational metabolism, cybernetics & the OODA loop
 
 Distributed internal management
