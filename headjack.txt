@@ -2183,19 +2183,59 @@ cooperation does not evolve easily
 
 > "As Nassim Taleb puts it in his book Antifragile, anything done with the explicit intent to improve one’s status likely won’t improve one’s status. Status is a very specific game: any time you think about the game, you lose. After all, the most respected people achieved their status as a byproduct of altruism, honor, and integrity." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=As%20Nassim%20Taleb,honor%2C%20and%20integrity.)
 
-> "" - [Truth, Status, and Tribes, by Erik Torenberg]()
+> "Why do people want to improve their reputation? Well, our main evolutionary goals in life are survival and reproduction. Having a good reputation is what makes those goals possible — it’s what makes people want to work with you, take care of you, and partner with you.
+>
+> But how do status and reputation work? Think about it like this: imagine we all have a number floating above our heads — that's our status score. We can't see it, but we have a sense for where we rank — dating apps even go so far as to quantify it. Over time we learn to perceive both our own score and that of others.
+>
+> We’re so attune to our status score that we’re laser focused on increasing it even at the expense of seeing objective reality, or truth. As Don Hoffman writes in “The Case Against Reality” “An organism that sees reality as it truly is is never more fit than an organism of equal complexity that sees none of reality and is just attuned to fitness payoffs” Or as Don says elsewhere: “Optimizing for truth can make you extinct.”
+>
+> It’s not that we’ll see objective reality (or truth) and consciously ignore it—our brains won’t even filter for it in the first place. In other words, the first thing we see isn’t whether something is true or not, and then decide whether it’s good for us. We do the opposite: We first filter for what’s good for us, and then filter for truth—this explains why we feel emotions first, and then rationalize them after.
+>
+> To be sure, this doesn’t mean objective reality doesn’t exist. It means we often don’t perceive reality accurately because it’s not aligned with our interest. We think people are rational, but if anything, recent scientific discoveries tell us most of human rationality is not used to make decisions, but rather to come up with arguments to rationalize decisions the subconscious brain has already made." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=Why%20do%20people,has%20already%20made.)
 
-> "" - [Truth, Status, and Tribes, by Erik Torenberg]()
+> "The best deceiver is the person who doesn’t even know they’re deceiving. If you truly believe your lie, you won’t betray it. So not only are there selection pressures to deceive others, but also to deceive yourself. The more you deceive yourself, the better you can deceive—or convince—others of the same narrative. The best salespeople are the most fervent believers, those with no traces of doubt." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=the%20best%20deceiver,traces%20of%20doubt.)
 
-> "" - [Truth, Status, and Tribes, by Erik Torenberg]()
+> "What does the prioritization of the status score over objective reality imply? That people who want social status will believe and say whatever is convenient, no matter how crazy. Indeed, it’s more predictive to think of “belief” not as something someone thinks of as true, but as something someone thinks will improve their reputation. Want more evidence people don’t prioritize objective truth? You may have noticed that after centuries of the scientific method, people still believe in things like Astrology.
+>
+> And that’s exactly why the precise content of any ideological point doesn't matter. Brains don’t care about ideology. They didn’t evolve to care about abstract concepts. Indeed: Many people are hypocrites with regard to their overt ideological claims if they can get away with it. Rich elites talk about Global Warming while living in lavish mansions and flying private. Rich parents talk about the importance of public schools while they put their kids in fancy private schools. Cognitive dissonance? No; those cognitive systems are not connected to begin with." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=What%20does%20the,to%20begin%20with.)
 
-> "" - [Truth, Status, and Tribes, by Erik Torenberg]()
+> "This is why people aren’t open to changing their minds — because there's no reason they should be. Ideas aren’t about logic, they’re about loyalty. Ideas are Schelling points for tribes. If saying certain things means you’ll make more friends, well, you’re probably going to say those things. That’s the purpose of ideas — to make better friends.
+>
+> This is also why arguments are often useless, and only cause people to dig into their pre-existing positions. All this stuff about steel-manning other arguments to find truth—it may catalyze scientific progress, but in most social circles, it’s also a surefire way to lose friends and alienate people. (Which is why people who do so are heroes, and why communities who encourage it are foundational for progress).
+>
+> Indeed: Understanding how the outgroup thinks is frowned upon. You’re not supposed to try to understand what’s going on. You’re supposed to not get it and loudly condemn it. We think of this blind allegiance as harmful behavior, but it actually signals and induces loyalty to one’s in-group." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=This%20is%20why%20people,to%20one%E2%80%99s%20in%2Dgroup.)
 
-> "" - [Truth, Status, and Tribes, by Erik Torenberg]()
+> "So then why do we care so much about politics? What's the point of ideology? Ideology is the water you swim in. It’s a structured database of excuses, used to signal your allegiance or defection to the existing ruling coalition. This is why fanatics of one political stripe sometimes convert to fanatics of the other. Different ideas suit different people at different times. Ideas can adapt to people, but more often than not people adapt to ideas. Which is why the culture war is so existential — because the marketplace of ideas isn't run by the scientific method, it's run by high school politics. People are often vessels looking for a hit. They don’t really care where they get it; they only care that it’s good.
+>
+> So what determines what people say? It seems clear that the default mode of thinking for humans is groupthink, and the content of that groupthink is computed with a complex algorithm taking into account one's peer group, the loyalties one owes and to whom, who has more status and what talking points fit better with the religion that one has been dutifully drilled into since kindergarten." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=So%20then%20why,into%20since%20kindergarten.)
 
-
+> "The burden of having to realize our constant self-deception is too big of a cross to bear, since it threatens the edifice of our reality." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=The%20burden%20of%20having%20to%20realize%20our%20constant%20self%2Ddeception%20is%20too%20big%20of%20a%20cross%20to%20bear%2C%20since%20it%20threatens%20the%20edifice%20of%20our%20reality.)
 
 > "Given how ideologies actually work, a gene that made you consistent with your ideology couldn't possibly spread in the gene pool. But a gene for the ability to adroitly deploy Orwellian talking points to signal your loyalty to the winning tribe — now that's helpful." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=Given%20how%20ideologies%20actually%20work%2C%20a%20gene%20that%20made%20you%20consistent%20with%20your%20ideology%20couldn%27t%20possibly%20spread%20in%20the%20gene%20pool.%20But%20a%20gene%20for%20the%20ability%20to%20adroitly%20deploy%20Orwellian%20talking%20points%20to%20signal%20your%20loyalty%20to%20the%20winning%20tribe%20%E2%80%94%20now%20that%27s%20helpful.)
+
+> "Just like economic marketplaces, the speech marketplace contains cartels and players with special privileges." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=Just%20like%20economic%20marketplaces%2C%20the%20speech%20marketplace%20contains%20cartels%20and%20players%20with%20special%20privileges.)
+
+> "What’s so fascinating about the marketplace of ideas (especially as it relates to media) is that there’s such little variance between different media companies. [Marc Andreessen](https://twitter.com/pmarca) recently joked in this [interview](https://niccolo.substack.com/p/the-dubrovnik-interviews-marc-andreessen) that it’s really a “marketplace of idea.” The intellectual monoculture was a shock to him, because in a well-functioning marketplace, you’d have differentiated products." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=What%E2%80%99s%20so%20fascinating,have%20differentiated%20products.)
+
+> "Not only are their predictions wrong and nobody cares, their predictions negatively affect people other than themselves. This is tragic: Elites determine so much policy, and yet they’re the most insulated from all downstream consequences resulting from the changes they demand everybody else make." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=not%20only%20are%20their%20predictions%20wrong%20and%20nobody%20cares%2C%20their%20predictions%20negatively%20affect%20people%20other%20than%20themselves.%20This%20is%20tragic%3A%20Elites%20determine%20so%20much%20policy%2C%20and%20yet%20they%E2%80%99re%20the%20most%20insulated%20from%20all%20downstream%20consequences%20resulting%20from%20the%20changes%20they%20demand%20everybody%20else%20make.)
+
+> "But true ideas don’t always beat untrue ideas. Fit ideas beat unfit ideas. Truth is sometimes fit, but other times not." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=But%20true%20ideas%20don%E2%80%99t%20always%20beat%20untrue%20ideas.%20Fit%20ideas%20beat%20unfit%20ideas.%20Truth%20is%20sometimes%20fit%2C%20but%20other%20times%20not.)
+
+> "The health of a civil society hinges on making dangerous, bad, and stupid ideas unfit for those who spread them. Even libertarian economists admit there are market failures in free market economies, so the marketplace of ideas should be no different.
+>
+> Our marketplace of ideas is indeed flawed. It’s heavily regulated, participants have no skin in the game, and, even when it does exist, the best ideas don’t always win." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=The%20health%20of,don%E2%80%99t%20always%20win.)
+
+> "We need to put serious effort into not only discovering truth, but also spreading it. Society doesn’t progress from ignorance to wisdom in a straight line — the truth needs to be sold." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=We%20need%20to%20put%20serious%20effort%20into%20not%20only%20discovering%20truth%2C%20but%20also%20spreading%20it.%20Society%20doesn%E2%80%99t%20progress%20from%20ignorance%20to%20wisdom%20in%20a%20straight%20line%20%E2%80%94%20the%20truth%20needs%20to%20be%20sold.)
+
+> "" - [, by Erik Torenberg]()
+
+> "" - [, by Erik Torenberg]()
+
+> "" - [, by Erik Torenberg]()
+
+> "" - [, by Erik Torenberg]()
+
+
 
 
 
