@@ -3,6 +3,66 @@
 
 
 
+Who benefits the most from fractured & incoherent epistemic commons and uncoordinated & uneducated masses?
+
+there are no secret laws. We should be able to work on them in public, transparently and accountably
+
+Status economics
+
+We can reward companies when they contribute private data to the public commons
+Power is with the people to vote how to score entities - not with infra providers and applications which want more advertising dollars and have a conflict of interest
+
+Ending destructive competition and unifying humanity makes sense. How do we build the global brain?
+
+We need to gamify the contribution to a coherent and unified knowledge base 
+
+Concepts and events are singular and unique, opinions are subjective and multi-perspectival
+
+What is our civilizational objective function?
+
+Rejecting the rule of hypocrites and psychopaths is moral
+
+Society has a balance sheet - lets crowdsource it
+
+
+People are used to and reduced to passive consumption - recommendation engines
+
+structurally removing the capacity for corruption through technology
+
+a causal map can reveal the fundamental generator functions of our biggest problems
+
+identify perverse incentives, multipolar traps, coordination failures, and destructive competition
+
+society's signal amplification method is broken
+
+signaling at different scales - locally, nationally, globally - trying to tell different things to different group sizes
+
+The elephant in the room is human alignment
+
+
+
+Bitcoin and appchains (the first wave) vs ethereum & fully programmable chains (& even modular designs)
+Analogy: all the different social media apps vs a unified identity layer and permissionless composability. This is the final abstraction
+
+
+If the left and right really dont want to share the same town hall - they can have two different models for the state (built from the events)
+
+What an open identity layer lacks in control over product and customer experience, it makes up for with permissionless composability, reusing the same social graph and efficiency UNIX-style 
+
+concern/challenge: recalculating the state from past events based on different criteria will become more costly as time goes by - leading to ossification and inertia in changing the rules. Perhaps it should be done with a sliding window
+
+Just because everybody can be a writer on public blockchains doesn’t mean that they should
+
+Family/Community accounts? Dad/CEO owns the account of children/employees and can move them to a different IDM in a single tx? But what about the metadata leak?
+
+
+
+
+
+
+
+
+
 
 > "While you can outsource Bitcoin mining to a computer, people still mine for social capital on social networks largely through their own blood, sweat, and tears." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=While%20you%20can%20outsource%20Bitcoin%20mining%20to%20a%20computer%2C%20people%20still%20mine%20for%20social%20capital%20on%20social%20networks%20largely%20through%20their%20own%20blood%2C%20sweat%2C%20and%20tears.)
 
