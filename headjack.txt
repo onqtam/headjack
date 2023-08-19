@@ -1558,6 +1558,48 @@ https://www.edge.org/response-detail/27098
 
 > "A significant fraction of people want moral progress. Just as much as the technologist wants to get to Mars, a large chunk of society wants to feel like the good guys fighting in some grand cause. And if you don’t give them that cause, they’ll make one up, and/or start fighting each other." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/left-is-the-new-right-is-the-new-left#:~:text=a%20significant%20fraction%20of%20people%20want%20moral%20progress.%20Just%20as%20much%20as%20the%20technologist%20wants%20to%20get%20to%20Mars%2C%20a%20large%20chunk%20of%20society%20wants%20to%20feel%20like%20the%20good%20guys%20fighting%20in%20some%20grand%20cause.%20And%20if%20you%20don%E2%80%99t%20give%20them%20that%20cause%2C%20they%E2%80%99ll%20make%20one%20up%2C%20and/or%20start%20fighting%20each%20other.)
 
+> "Much of America’s control circuitry has evolved to live outside the formal state, thereby making it resistant to displacement by democratic election. They laud “democracy” but avoid it in practice, through dual class stock, tenure for their bureaucrats and professors, tax-exempt compounding for their foundations, and ideological purification of their organizations." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/people-of-god-people-of-the-state-people-of-the-network#:~:text=much%20of%20America%E2%80%99s,their%20organizations.)
+
+> "The Soviets had a state-controlled press, but America now had a press-controlled state." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/people-of-god-people-of-the-state-people-of-the-network#:~:text=The%20Soviets%20had%20a%20state%2Dcontrolled%20press%2C%20but%20America%20now%20had%20a%20press%2Dcontrolled%20state.)
+
+> "We consider a startup society to be a new community built internet-first, premised on a societal critique of its parent community, and founded for the purpose of addressing that specific societal problem in an opt-in way – namely, by recruiting people online to voluntarily form an alternative society that shows a better way." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/the-one-commandment#:~:text=we%20consider%20a,a%20better%20way.)
+
+> "We are collecting the kinds of precise, quantitative, microhistorical measurements that typically led to the emergence of a new science…but at the scale of billions of people, and going into our second decade.
+>
+> So, another term for “Big Data” should be “Big History.” All data is a record of past events, sometimes the immediate past, sometimes the past of months or years ago, sometimes (in the case of Google Books or the Digital Michelangelo project) the past of decades or centuries ago. After all, what’s another word for data storage in a computer? Memory. Memory, as in the sense of human memory, and as in the sense of history." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=We%20are%20collecting,sense%20of%20history.)
+
+> "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
+
+> "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+
+
+
+
+
+
 
 How do we figure out what person X recommends as books? Is there a way to get a disambiguated up-to-date list? No. So we browse stale pages like these:
 https://fs.blog/knowledge-project-podcast/naval-ravikant/#books-mentioned
