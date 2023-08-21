@@ -1572,7 +1572,19 @@ https://www.edge.org/response-detail/27098
 
 > "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "To know when states are lying or not, we need a form of truth powerful enough to stand outside any state and judge it from above. A way to respond to official statistics not with either reflexive faith or disbelief, but with dispassionate, independent calculation." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=to%20know%20when%20states%20are%20lying%20or%20not%2C%20we%20need%20a%20form%20of%20truth%20powerful%20enough%20to%20stand%20outside%20any%20state%20and%20judge%20it%20from%20above.%20A%20way%20to%20respond%20to%20official%20statistics%20not%20with%20either%20reflexive%20faith%20or%20disbelief%2C%20but%20with%20dispassionate%2C%20independent%20calculation.)
+
+> "Only a computational history can represent the full population in a statistical sense; anything else is just a biased sample." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=only%20a%20computational%20history%20can%20represent%20the%20full%20population%20in%20a%20statistical%20sense%3B%20anything%20else%20is%20just%20a%20biased%20sample.)
+
+> "What’s the most powerful force on earth? In the 1800s, God. In the 1900s, the US military. And by the mid-2000s, encryption. Because as Assange put it, no amount of violence can solve certain kinds of math problems. So it doesn’t matter how many nuclear weapons you have; if property or information is secured by cryptography, the state can’t seize it without getting the solution to an equation." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=what%E2%80%99s%20the%20most,to%20an%20equation.)
+
+> "The computer always gives the same output given the same input code, unlike the fallible human judiciary with its error-prone (or politicized) enforcement of the law. In this sense, the Network is the next Leviathan, because on key dimensions it is becoming more powerful and more just than the State." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20computer%20always,than%20the%20State.)
+
+> "Imagine truly international law: it’s done programmatically rather than via pieces of paper, across borders outside the domain of legacy states, and by global technologists rather than country-specific lawyers." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=Imagine%20truly%20international%20law%3A%20it%E2%80%99s%20done%20programmatically%20rather%20than%20via%20pieces%20of%20paper%2C%20across%20borders%20outside%20the%20domain%20of%20legacy%20states%2C%20and%20by%20global%20technologists%20rather%20than%20country%2Dspecific%20lawyers.)
+
+> "The blockchain is the most important development in history since the advent of writing itself, as it’s a cryptographically verifiable, highly replicated, unfalsifiable, and provably complete digital record of a system." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20blockchain%20is%20the%20most%20important%20development%20in%20history%20since%20the%20advent%20of%20writing%20itself%2C%20as%20it%E2%80%99s%20a%20cryptographically%20verifiable%2C%20highly%20replicated%2C%20unfalsifiable%2C%20and%20provably%20complete%20digital%20record%20of%20a%20system.)
+
+> "It’s not sufficient to simply “take the articles with a grain of salt”, and discount them a bit. By listening to the establishment, your perception of reality may be off by one million fold." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=it%E2%80%99s%20not%20sufficient%20to%20simply%20%E2%80%9Ctake%20the%20articles%20with%20a%20grain%20of%20salt%E2%80%9D%2C%20and%20discount%20them%20a%20bit.%20By%20listening%20to%20the%20establishment%2C%20your%20perception%20of%20reality%20may%20be%20off%20by%20one%20million%20fold.)
 
 > "" - [The Network State, by Balaji Srinivasan]()
 
@@ -1592,9 +1604,34 @@ https://www.edge.org/response-detail/27098
 
 > "" - [The Network State, by Balaji Srinivasan]()
 
-> "" - [The Network State, by Balaji Srinivasan]()
 
 
+
+> "The arc of the moral universe is long but it bends toward cooperation." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
+
+> "Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/50291-every-man-must-decide-whether-he-will-walk-in-the)
+
+> "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/15696-an-individual-has-not-started-living-until-he-can-rise)
+
+> "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/16300-our-scientific-power-has-outrun-our-spiritual-power-we-have)
+
+> "Not everybody can be famous but everybody can be great, because greatness is determined by service." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/147771-not-everybody-can-be-famous-but-everybody-can-be-great)
+
+
+
+
+
+
+> "And I really regret that Twitter has not taken the turn that I was hoping for. I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9666)
+
+> "I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9670)
+
+> "Humanity has no concept of submitting to reason and duty to life and future survival. We will run until we step past the cliff." - [Joscha Bach](https://twitter.com/Plinz/status/1663916782640308227)
+
+
+
+
+> "the past was all about networked computers; the future is all about networked data structures" - [@syntacrobat](https://twitter.com/syntacrobat/status/1693446789943160984)
 
 
 
