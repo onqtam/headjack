@@ -210,6 +210,8 @@ But why would we do that? What are the benefits?
 
     > "According to a new study by David Rozado, there has been a big increase in news headlines suggesting fear, anger, disgust, and sadness since 2000, and especially since about 2010. Journalists are pushing your buttons." - [Paul Graham](https://twitter.com/paulg/status/1583058588687212544)
 
+    https://twitter.com/paulg/status/1136962504343662592
+
     > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
 
     TODO: https://davidrozado.substack.com/p/gag
