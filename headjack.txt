@@ -541,18 +541,6 @@ What we did on economics is we took the tiniest slice of human behavior self-int
 
 
 
-> "" - [Jon David Erickson]()
-
-> "" - [Jon David Erickson]()
-
-> "" - [Jon David Erickson]()
-
-> "" - [Jon David Erickson]()
-
-> "" - [Jon David Erickson]()
-
-
-
 
 
 
@@ -875,8 +863,6 @@ Civilizational KPIs
 Planning ahead for a debt jubilee
 
 Anything that needs improvement in this new information economy will be collectively incentivised through reputation and pagerank
-
-Da pisha na mariela za jivota i i za tezi dve knigi i kakvo bi mogla da napravi s izkustvo parichno i kato legacy
 
 We should orient our lives towards building reputation that can be taken away from us by collective consensus - aligning our incentives.
 
@@ -1590,7 +1576,17 @@ https://www.edge.org/response-detail/27098
 
 > "The only reason you are hearing about these incidents, and the only reason the rebuttals to them ever came out in the first place, is the Network. It is only because the State’s filtering of social media is not yet complete, that their downranking of dissident voices not fully efficient, that their late-breaking attempt to impose speech and thought controls on a free society not fully consummated, that (a) the initial refutations were even published and (b) that you are seeing some of them combined into one document." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=the%20only%20reason,into%20one%20document.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "The mechanistic reason for Gell-Mann Amnesia is the hub-and-spoke topology of the pre-internet information environment. Suppose you were an expert in computer science, another person was an expert on Japan, a third knew about the bond market, and so on. You are spokes that are all connected to the hub (say, The New York Times) but not each other. Each spoke has superior local information, and can falsify NYT reports in their own domain, but has no mechanism for coordinating with other spokes, let alone establishing a superior hub. Until the internet, the blockchain, and the advent of cryptohistory." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=The%20mechanistic%20reason,of%20cryptohistory.)
+
+> "As the Cold War ended, and the internet rose in the late 1990s, a spate of movies came out — The Matrix, Memento, The Truman Show, Fight Club, The Game, Men in Black, The Eternal Sunshine of the Spotless Mind –— all about a constructed reality where our memories aren’t real. It’s almost as if with the rise of the Network, that there was a dim realization in the collective subconscious that everyone had been lied to, deceived, anesthetized, sedated by the centralized States of the 20th century — not just by the fascists and the communists, but the democratic capitalists too." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=As%20the%20Cold,democratic%20capitalists%20too.)
+
+> "The collection of all that defines someone, in rank order, is their identity stack. The top of the identity stack is the primary identity: the Pittsburgh Steelers for Jim, Bitcoin for Billy, and America for Bob." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/sociopolitical-axes#:~:text=The%20collection%20of%20all%20that%20defines%20someone%2C%20in%20rank%20order%2C%20is%20their%20identity%20stack.%20The%20top%20of%20the%20identity%20stack%20is%20the%20primary%20identity%3A%20the%20Pittsburgh%20Steelers%20for%20Jim%2C%20Bitcoin%20for%20Billy%2C%20and%20America%20for%20Bob.)
+
+> "Why will AR glasses be so big? If you think about how much of your life is spent looking at a screen, whether it’s a laptop or a phone or a watch, >50% of your waking hours is already spent in the matrix. AR glasses would reduce “screen” time in one sense, freeing you up to compute on the go without looking at a screen per se, but increase digital time in another sense, as people would constantly have these HUDs active to see the world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/foreseeable-futures#:~:text=Why%20will%20AR,see%20the%20world.)
+
+> "Without a rising tide that lifts all boats, the “rational” act for some is to sink the other boats, to pull escaping crabs down into the bucket. Why? Because misery loves company, and because stopping someone from getting too far ahead means they can’t outcompete you for houses or mates. The only way out of this negative-sum trap is to build provably positive-sum systems and high-trust societies. But that’s exactly what the US establishment is not doing." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=Without%20a%20rising,is%20not%20doing.)
+
+> "The tech companies that greenlight transactions, communications, and online behavior have in many ways become the de facto privatized governments of the Western world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=the%20tech%20companies%20that%20greenlight%20transactions%2C%20communications%2C%20and%20online%20behavior%20have%20in%20many%20ways%20become%20the%20de%20facto%20privatized%20governments%20of%20the%20Western%20world.)
 
 > "" - [The Network State, by Balaji Srinivasan]()
 
@@ -1602,7 +1598,19 @@ https://www.edge.org/response-detail/27098
 
 > "" - [The Network State, by Balaji Srinivasan]()
 
+> "" - [The Network State, by Balaji Srinivasan]()
 
+> "" - [The Network State, by Balaji Srinivasan]()
+
+> "" - [The Network State, by Balaji Srinivasan]()
+
+
+
+
+
+
+
+> "One of the biggest surprises of my adult life is how unethical reporters are. In movies they're always the good guys." - [Paul Graham](https://twitter.com/paulg/status/1461633512344326146)
 
 
 

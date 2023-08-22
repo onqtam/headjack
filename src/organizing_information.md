@@ -210,6 +210,7 @@ But why would we do that? What are the benefits?
 
     > "According to a new study by David Rozado, there has been a big increase in news headlines suggesting fear, anger, disgust, and sadness since 2000, and especially since about 2010. Journalists are pushing your buttons." - [Paul Graham](https://twitter.com/paulg/status/1583058588687212544)
 
+    more charts
     https://twitter.com/paulg/status/1136962504343662592
 
     > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
@@ -217,6 +218,9 @@ But why would we do that? What are the benefits?
     TODO: https://davidrozado.substack.com/p/gag
 
     Journalism goes hand in hand with frame control ([Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork & edit thought-graphs to remove bias? Can we become post-narrative?
+
+    Michael Crichton > Quotes > Quotable Quote
+    https://www.goodreads.com/quotes/65213-briefly-stated-the-gell-mann-amnesia-effect-is-as-follows-you
 
 1. If no thought-graph exists for an article - anyone could construct it and tag it to the original resource - making it discoverable for anyone to use. <!-- TODO:LINK TO THE OTHER SECTION -->
 
