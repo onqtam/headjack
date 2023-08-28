@@ -182,6 +182,8 @@ Writing text forces us to think, but graph construction & exploration would make
 
 Let's take the [`"Why I think there's a one-in-six chance of an imminent global nuclear war (October 2022)"`](https://www.lesswrong.com/posts/Dod9AWz8Rp4Svdpof/why-i-think-there-s-a-one-in-six-chance-of-an-imminent) post by Max Tegmark for example and <u>**ignore if we agree with him or not**</u>.
 
+TODO: this is a bad example - the picture ain't good and his arguments arent good either and ppl will nitpick them
+
 <a href="https://www.lesswrong.com/posts/Dod9AWz8Rp4Svdpof/why-i-think-there-s-a-one-in-six-chance-of-an-imminent">
 <img src="images/Why_I_think_there's_a_one-in-six_chance_of_an_imminent_global_nuclear_war.jpeg">
 </a>

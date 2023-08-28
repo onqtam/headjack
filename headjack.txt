@@ -1,6 +1,133 @@
 
 
 
+
+
+== my story
+- years not working & missing out on a salary - catching up with the world
+- had an idea 3 years ago for something like a social media
+- 2 transformative ayahuasca experiences
+
+
+
+
+== my architecture
+- crypto is full of crap - either scams or things which are simply detached from reality
+- can handle the entire world and everything digital - it can be the nexus
+- UX - keys, funnel for users
+- most foundational primitive - rethinking everything (literally) from the ground up
+- have thought about economic sustainability & business models
+- transacting != creating
+- users don't have to touch the blockchain ever (but they can if they want to) - treating it as a backbone database hidden behind services
+
+
+- open access to public data - no restrictive APIs - permissionless extensibility, composability, & evolvability - "social media 1.0 is guilty of crimes against complexification"
+
+
+everything linked to the same root identity blockchain with ordering - ZK
+
+Aggregates, ephemerality, knowledge graphs
+Public/private and signaling
+relevance filters on which we vote
+
+- defining/customizing layouts of UI
+- Separate annotation from truthfulness/fact-checking
+- Spreadsheet media
+
+
+
+- what permissionless composability, extensibility and evolvability on top of an open architecture means and could enable
+- social media and the internet through the lens of the latest consciousness theories and research
+- attention allocation, today's algorithmic feeds and what giving users choice to compose their feeds could look like
+- what a merger of twitter/youtube/facebook/wikipedia/stackexchange/(and basically everything from the web) into a mega-social-net could look like
+- Liquid democracy (the ability to delegate your vote to others)
+- PageRank but not for web pages but for identities - reputation based on competence, accountability and contribution
+- viewing the same data from many different points of view & the ability to define different criteria for how to calculate any aggregate (vote/score) - different filters, criteria that we can vote on and collectively choose, etc.
+- self-organization and complexification through bottom-up participation instead of top-down enforcement
+- knowledge graphs and how we can have a single entry for any concept/event/claim instead of thousands of scattered duplicates across many disparate platforms and websites
+- moving away from text-based communication and towards structured data (which would enable much easier processing and aggregation)
+- privacy and anonymity
+- an exploration of cooperation and an evolutionary take on why we need to aggregate into a global collective and reach coherence on what is true in order to tackle our greatest challenges
+- all intelligence is collective intelligence - inspired by biology and nature
+
+
+vote on how to weigh the votes
+
+
+== concerns/challenges:
+- too complex for users? But we've learned how to use computers & the web & spreadsheets
+- fracturing of states/views - many different 
+- ontological engineering - very very hard
+- initial direction, path dependence, and vision are vital
+- social reflexivity & volatility, also what if most people vote for short-term benefits
+
+
+
+== thinking about:
+- generator functions
+- vertical markets from John Stewart
+- SIMPOL? No. SIMPOL-like something embedded in social media 2.0? yes.
+- subsidiarity
+- forced transparency
+- reinventing democracy in the digital age - after horses and paper
+- shared identity & purpose
+
+
+
+
+
+== thesis:
+- the third attractor - a bottom-up participatory & fully transparent world government
+- need the most compelling story possible before any engineering work - detailing how to solve the most fundamental coordination issues
+- lay out everything possible and possible combinations, but not trying to lay out a specific recipe - that can't be predicted on this framework for complexification
+- many other aspects are missing from today's presentation
+- I'm obsessed with this idea & completely devoted to it
+
+
+
+
+
+
+
+
+
+
+> "Tell me why are we so blind to see That the ones we hurt are you and me?" - [Coolio - Gangsta’s Paradise](https://genius.com/Coolio-gangstas-paradise-lyrics#:~:text=Tell%20me%20why%20are%20we%20so%20blind%20to%20see%0AThat%20the%20ones%20we%20hurt%20are%20you%20and%20me%3F)
+
+
+Program or be Programmed - Douglas Rushoff
+https://www.youtube.com/watch?v=imV3pPIUy1k
+
+
+
+> "Our enthusiasm for digital technology about which we have little understanding and over which we have little control leads us not toward greater agency, but toward less...We have surrendered the unfolding of a new technological age to a small elite who have seized the capability on offer. But while Renaissance kings maintained their monopoly over the printing press by force, today's elite is depending on little more than our own disinterest." - [Douglas Rushkoff](https://www.goodreads.com/quotes/855874-our-enthusiasm-for-digital-technology-about-which-we-have-little)
+
+
+
+> "The first gulp from the cup of knowledge is separating us from God, but on the bottom of the cup God is waiting for those who search for him." - [Carl Friedrich von Weizsäcker](https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/#:~:text=the%20first%20gulp%20from%20the%20cup%20of%20knowledge%20is%20separating%20us%20from%20God%2C%20but%20on%20the%20bottom%20of%20the%20cup%20God%20is%20waiting%20for%20those%20who%20search%20for%20him.)
+
+
+
+> "Wherever we find orderly, stable systems in Nature, we find that they are hierarchically structured, for the simple reason that without such structuring of complex systems into sub-assemblies, there could be no order and stability-except the order of a dead universe filled with a uniformly distributed gas." - [Arthur Koestler](https://www.goodreads.com/quotes/9652997-wherever-we-find-orderly-stable-systems-in-nature-we-find)
+
+> "Man has always been prepared not only to kill but also to die for good, bad or completely futile causes. And what can be a more valid proof of the reality of the self-transcending urge than this readiness to die for an ideal?" - [Arthur Koestler](https://www.goodreads.com/quotes/9660371-let-me-repeat-the-crimes-of-violence-committed-for-selfish#:~:text=Man%20has%20always%20been%20prepared%20not%20only%20to%20kill%20but%20also%20to%20die%20for%20good%2C%20bad%20or%20completely%20futile%20causes.%20And%20what%20can%20be%20a%20more%20valid%20proof%20of%20the%20reality%20of%20the%20self%2Dtranscending%20urge%20than%20this%20readiness%20to%20die%20for%20an%20ideal%3F)
+
+> "On successively higher levels of the hierarchy we find more complex, flexible and less predictable patterns of activity, while on successively lower levels we find more and more mechanised, stereotyped and predictable patterns. In the language of the physicist, a holon on a higher level of the hierarchy has more degrees of freedom than a holon on a lower level." - [Arthur Koestler](https://www.goodreads.com/quotes/9653378-on-successively-higher-levels-of-the-hierarchy-we-find-more)
+
+> "The self-assertive tendency is the dynamic expression of the holon's wholeness, the integrative tendency, the dynamic expression of its partness." - [Arthur Koestler](https://www.goodreads.com/quotes/9652981-no-man-is-an-island-he-is-a-holon-a-janus-faced#:~:text=the%20self%2Dassertive%20tendency%20is%20the%20dynamic%20expression%20of%20the%20holon%27s%20wholeness%2C%20the%20integrative%20tendency%2C%20the%20dynamic%20expression%20of%20its%20partness.)
+
+> "Since we cannot in the foreseeable future expect the necessary change in human nature to arise by way of a spontaneous mutation, that is, by natural means, we must induce it by artificial means. We can only hope to survive as a species by developing techniques which supplant biological evolution. We must search for a cure for the schizophysiology inherent in man's nature, and the resulting split in our minds, which led to the situation in which we find ourselves." - [Arthur Koestler](https://www.goodreads.com/quotes/9687493-since-we-cannot-in-the-foreseeable-future-expect-the-necessary)
+
+
+
+
+
+
+> "We are the universe pretending to be individuals." - [Deepak Chopra](https://www.azquotes.com/quote/857304)
+
+
+
+
 > "The definition of the good society is one in which virtue pays." - [Abraham Maslow](https://minimalistquotes.com/abraham-maslow-quote-85683/)
 
 
@@ -421,6 +548,28 @@ https://youtu.be/8XCXvzQdcug?t=9142
 
 > "I hope the attractor of cascading catastrophes or control mechanisms that prevent it, but create dystopias, create a framework for what we want to avoid. And that a third attractor that has the intelligence and regulatory power to avoid the catastrophes while having checks and balances on itself to be non-dystopic, that the creation of a world system that can do that should be the kind of central innovation goal of the world - of which everything is an element or a subsidiary part, and that more total collective intelligence and innovation and motivation being focused on these issues is worthwhile. And I hope that rather than creating a sense of doom or overwhelm, that what this information might create is a sense of almost like a validation of something that has been intuited - an increased sense of clarity that makes the complexity of the challenge space at least start to feel tractable, and because if it is apprehendable, and if there are at least thought experiment-wise possible solutions, then there is a direction of endeavor, and to have more people feel that hopefulness that is not the naive hopefulness of not being aware of all these problems, but the hopefulness that comes on the other side of being aware of all of them and seeing what it would take to move through that, and be oriented to that - that's what I hope becomes of this." - [Daniel Schmachtenberger](https://youtu.be/ZCOfUYrZJMQ?t=6214)
 
+
+
+
+
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+
+
+
+
+
 > "When you say casually "I don't know what I'm seeing" - you don't mean that there are no words in your head to describe it, you mean you literally can't make sense of what you're seeing. So sense making goes beyond words - it goes to like things like pattern recognition, it goes to a literal gut feeling of confusion or clarity, and so on. These are very basic human experiences and the scaling of these basic human experiences is what helps you produce a dynamic coherence to society. So a society that has sense making does not need to just you know follow the leader's gut feeling - it in fact has something of a shared correctly constructed gut feeling versus one that is to a significant extent very chaotic, oppositional, no premise is followed up by a conclusion, no incorrect premise is ever disproven, you say A on monday - B on tuesday, A is more viral, the virality is rewarded - not the correctness. That's the problem. If you wish to have a somewhat free society the sense making has to be participatory, which means that different levels of society can correct each other, different centers of society can correct each other, and they're even able to find this like commonality of speech and so on. Then there's the question of meaning - how do we evaluate things, do we find meaning in them or do we not find meaning in them, what is motivating us even? The sense of enemy often comes with not just a loss of sense making - there are many people in fact who have fairly coherent world views, they even share these worldviews with others but they're fundamentally depressed, and one of the reasons they're often fundamentally depressed is because of the question "So what?" - you said how it is, tell me how it should be. Or rather "I know how it is but I don't know how it should be". And then finally there's the question of choice making and how are decisions between different possible futures made - again both for individuals and society as a whole. The sort of simple solution is that you have a single center that tries to make decisions. The other alternative is sort of anarchy - there are no real decisions made anywhere, and the ideal coherence is that society builds these decisions together through something like a discourse, something like a deliberative process, where deliberative doesn't just merely mean voting - it goes much beyond voting - it is the shared building of the model of the world and the "what about it" & "so what do we do about it" and finally the details of the implementation." - [Samo Burja](https://youtu.be/bHCg8bhtbqs?t=1530)
 
 > "The example you used was actually of implementing a system of carbon accounting. Tell me: is there any agency in the federal government today that you would trust to implement that system? Is there any organ of the United Nations? Is there even a non-profit organization and is there any hope that such a system could be rationally discussed, optimized, taking into account the considerations of the common citizen, of all relevant groups of society? I think the problem is that to set up a system of carbon accounting you actually first need a system of epistemic accounting - you need the epistemic commons once more to function and the epistemic commons have to function updated to the digital world." - [Samo Burja](https://youtu.be/bHCg8bhtbqs?t=2056)
@@ -430,7 +579,6 @@ https://youtu.be/8XCXvzQdcug?t=9142
 > "There's no hope for a tiny country like Estonia to compete with Russia on the dimensions Russia picks, or a tiny island like Taiwan competing with the Chinese mainland on you know whatever dimensions the Chinese mainland picks - they can always build more jet fighters, they can always build more aircraft carriers, they just have 100 times more people - what are you going to do? You have to pursue the asymmetric advantages and because these are both relatively new nations the asymmetric advantages meant integrating digital infrastructure into government, but also integrating digitally native people, staff, talent into government and opening yourself to public discourse as a method of sense-making. You lean into the strength of an open society rather than imitate the strengths of a closed society because if you try to beat China being a close society - well you know it's it's not going to really work out for you especially if China's 100 times larger." - [Samo Burja](https://youtu.be/bHCg8bhtbqs?t=3123)
 
 > "What we did on economics is we took the tiniest slice of human behavior - self-interest - and then we wrapped it with abstract mathematics in the late 1800s. Big chunks of our economic theory has been there ever since. This theory of the self-interested individual wrapped in mathematics is built from the sanctity of the person and personhood and it's kind of all set up to guarantee market equilibrium. It's also over the course of the last hundred+ years a theory that has largely been walled off from other disciplines while growing in influence and in stature and Academia, infecting public policy, business administration, infecting the other social sciences, and even in more recent years affecting the Natural Sciences. When its assumptions are challenged, or when the theory of the rational actor - the self-interested individual - doesn't hold up against other theories or other disciplines, or when the scientific method gets in the way, economists have this very convenient line "it's just a model", or they often quote George box - the statistician - "All models are wrong, some are useful". I would add one little piece to that: "All models are wrong, some are useful" - I agree - "Useful for whom?" - and that's the big question that we need to ask today." - [Jon David Erickson](https://youtu.be/EC11UQD9q3w?t=369)
-
 
 
 
@@ -1392,11 +1540,6 @@ Politics in its current primitive/primal form is the cancer of humanity.
 
 
 
-> "" - []()
-
-
-
-
 > "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
 
 > "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
@@ -1480,24 +1623,54 @@ https://www.edge.org/response-detail/27098
 
 > "The tech companies that greenlight transactions, communications, and online behavior have in many ways become the de facto privatized governments of the Western world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=the%20tech%20companies%20that%20greenlight%20transactions%2C%20communications%2C%20and%20online%20behavior%20have%20in%20many%20ways%20become%20the%20de%20facto%20privatized%20governments%20of%20the%20Western%20world.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "The moral innovation draws people in. It gives a reason for the society to exist, a purpose that’s distinct from the outside world, a universalist complement to the particularist sense of national consciousness, an ideological mission that others will nod their heads at even if they don’t share. The reason we put such a high priority on a moral innovation is that missionary societies outcompete mercenary ones, not just in theory but in practice." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=The%20moral%20innovation%20draws,theory%20but%20in%20practice.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "Supposing we have a collective purpose, what does collective action towards that purpose look like? This is why the process of building a network state includes a network union. From the very outset it organizes people to work together for the benefit of their chosen community through the familiar interface of their screens. This, again, is quite different from current “social” networks like Twitter, which give individual scores for likes and followers but no team dashboard, no way of setting and achieving tangible goals as a group." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=supposing%20we%20have,as%20a%20group.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "The key insight is that “government” is becoming synonymous with digital government. In any US-establishment- controlled territory your Google account will soon be frozen for crossing the US establishment. In any CCP-controlled territory your WeChat account can be frozen for crossing the CCP. But in any crypto-anarchic territory there may not be much in the way of functional digital services at all. So if one wants modernity constrained by cryptography, the concept of the “social smart contract” is one way to achieve consensual, limited government – to limit what a government can do by tightly limiting its access to your digital identity and resources." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=the%20key%20insight,identity%20and%20resources)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "Think about the [scene from Fight Club](https://www.youtube.com/watch?v=DkVRL2po0Y8&t=5s) where the camera swivels around the room to show price tags on everything, and now imagine that in VR, with the cost to materialize each virtual structure in the physical world hovering above it." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=Think%20about%20the%20scene%20from%20Fight%20Club%20where%20the%20camera%20swivels%20around%20the%20room%20to%20show%20price%20tags%20on%20everything%2C%20and%20now%20imagine%20that%20in%20VR%2C%20with%20the%20cost%20to%20materialize%20each%20virtual%20structure%20in%20the%20physical%20world%20hovering%20above%20it.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "A distributed society needs a distributed census. Unlike the US census, and more like Facebook’s [census](https://www.washington.edu/news/2017/10/12/using-facebook-data-as-a-real-time-census/) of its userbase, a startup society’s census can be conducted in real-time rather than [every ten years](https://www.census.gov/programs-surveys/decennial-census/about.html)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=A%20distributed%20society%20needs%20a%20distributed%20census.%20Unlike%20the%20US%20census%2C%20and%20more%20like%20Facebook%E2%80%99s%20census%20of%20its%20userbase%2C%20a%20startup%20society%E2%80%99s%20census%20can%20be%20conducted%20in%20real%2Dtime%20rather%20than%20every%20ten%20years.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "A group of people that lacks a capacity for collective action - like most online communities, frankly - isn’t going to get anywhere." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=A%20group%20of%20people%20that%20lacks%20a%20capacity%20for%20collective%20action%20%2D%20like%20most%20online%20communities%2C%20frankly%20%2D%20isn%E2%80%99t%20going%20to%20get%20anywhere.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "The network state system embraces the fuzzy division of the internet into different sovereign subnetworks. **It is a probabilistic digital division of people rather than a deterministic physical division of land.**" - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20network%20state%20system%20embraces%20the%20fuzzy%20division%20of%20the%20internet%20into%20different%20sovereign%20subnetworks.%20It%20is%20a%20probabilistic%20digital%20division%20of%20people%20rather%20than%20a%20deterministic%20physical%20division%20of%20land.)
 
-> "" - [The Network State, by Balaji Srinivasan]()
+> "In a network state, everything physical is downstream of lines of code and enforced by cryptography, just as in a nation state, everything physical is downstream of pieces of paper and enforced by the police and military." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=in%20a%20network%20state%2C%20everything%20physical%20is%20downstream%20of%20lines%20of%20code%20and%20enforced%20by%20cryptography%2C%20just%20as%20in%20a%20nation%20state%2C%20everything%20physical%20is%20downstream%20of%20pieces%20of%20paper%20and%20enforced%20by%20the%20police%20and%20military.)
+
+> "The Network here is a candidate for the most powerful force in the world, where the Leviathan in the Hobbesian sense is not divinity (God) or military (the State) but community and cryptography (Network)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20Network%20here%20is%20a%20candidate%20for%20the%20most%20powerful%20force%20in%20the%20world%2C%20where%20the%20Leviathan%20in%20the%20Hobbesian%20sense%20is%20not%20divinity%20(God)%20or%20military%20(the%20State)%20but%20community%20and%20cryptography%20(Network).)
+
+> "Facebook and Twitter have succeeded beyond anyone’s expectations, yet they weren’t set up to be governments. People didn’t consciously sign a social contract to be governed by them. Facebook and Twitter grew to take over much of people’s lives, but have no concept of digital property rights. Seizures and silencing weren’t part of the bargain." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Facebook%20and%20Twitter,of%20the%20bargain.)
+
+> "Assuming you could get access to a global dataset like Facebook or Twitter’s network (or scrape it), you could turn all philosophical disputes about what a nation is into simply a set of parameter choices. That means a nation is a subnetwork in a global social graph." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Assuming%20you%20could%20get%20access%20to%20a%20global%20dataset%20like%20Facebook%20or%20Twitter%E2%80%99s%20network%20(or%20scrape%20it)%2C%20you%20could%20turn%20all%20philosophical%20disputes%20about%20what%20a%20nation%20is%20into%20simply%20a%20set%20of%20parameter%20choices.%20That%20means%20a%20nation%20is%20a%20subnetwork%20in%20a%20global%20social%20graph.)
+
+> "Just as the ability to start new currencies moved us from observational to empirical macroeconomics, the ability to start new countries takes us from the realm of political science — the study of what is — to political technology, the engineering of what can be." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Just%20as%20the%20ability%20to%20start%20new%20currencies%20moved%20us%20from%20observational%20to%20empirical%20macroeconomics%2C%20the%20ability%20to%20start%20new%20countries%20takes%20us%20from%20the%20realm%20of%20political%20science%20%E2%80%94%20the%20study%20of%20what%20is%20%E2%80%94%20to%20political%20technology%2C%20the%20engineering%20of%20what%20can%20be.)
+
+> "Right now, we can’t upgrade the state. What if we could?" - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Right%20now%2C%20we%20can%E2%80%99t%20upgrade%20the%20state.%20What%20if%20we%20could%3F)
+
+> "The Internet is to the USA as the Americas were to the UK: a wide open territory that ultimately gave birth to new states and ways of thinking." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=the%20Internet%20is%20to%20the%20USA%20as%20the%20Americas%20were%20to%20the%20UK%3A%20a%20wide%20open%20territory%20that%20ultimately%20gave%20birth%20to%20new%20states%20and%20ways%20of%20thinking.)
 
 
 
+
+
+
+
+> "It’s important the networks we live in serve our best interests. With blockchains emerging as the new global infrastructure, we have the opportunity to create vastly different power structures and program the future we want for ourselves." - [Blockchain Governance: Programming Our Future](https://fehrsam.xyz/blog/blockchain-governance-programming-our-future#:~:text=It%E2%80%99s%20important%20the%20networks%20we%20live%20in%20serve%20our%20best%20interests.%20With%20blockchains%20emerging%20as%20the%20new%20global%20infrastructure%2C%C2%A0we%20have%20the%20opportunity%20to%20create%20vastly%20different%20power%20structures%20and%20program%20the%20future%20we%20want%20for%20ourselves.)
+
+
+
+
+
+
+
+
+
+
+
+
+> "To have done great things together, to want to do more, such are the essential conditions to form a people. . . . Man is not a slave to his race, or his tongue, or his religion." - [Ernest Renan](https://www.goodreads.com/quotes/9059260-to-have-done-great-things-together-to-want-to-do)
 
 
 
