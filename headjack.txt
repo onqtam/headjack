@@ -3,90 +3,6 @@
 
 
 
-== my story
-- years not working & missing out on a salary - catching up with the world
-- had an idea 3 years ago for something like a social media
-- 2 transformative ayahuasca experiences
-
-
-
-
-== my architecture
-- crypto is full of crap - either scams or things which are simply detached from reality
-- can handle the entire world and everything digital - it can be the nexus
-- UX - keys, funnel for users
-- most foundational primitive - rethinking everything (literally) from the ground up
-- have thought about economic sustainability & business models
-- transacting != creating
-- users don't have to touch the blockchain ever (but they can if they want to) - treating it as a backbone database hidden behind services
-
-
-- open access to public data - no restrictive APIs - permissionless extensibility, composability, & evolvability - "social media 1.0 is guilty of crimes against complexification"
-
-
-everything linked to the same root identity blockchain with ordering - ZK
-
-Aggregates, ephemerality, knowledge graphs
-Public/private and signaling
-relevance filters on which we vote
-
-- defining/customizing layouts of UI
-- Separate annotation from truthfulness/fact-checking
-- Spreadsheet media
-
-
-
-- what permissionless composability, extensibility and evolvability on top of an open architecture means and could enable
-- social media and the internet through the lens of the latest consciousness theories and research
-- attention allocation, today's algorithmic feeds and what giving users choice to compose their feeds could look like
-- what a merger of twitter/youtube/facebook/wikipedia/stackexchange/(and basically everything from the web) into a mega-social-net could look like
-- Liquid democracy (the ability to delegate your vote to others)
-- PageRank but not for web pages but for identities - reputation based on competence, accountability and contribution
-- viewing the same data from many different points of view & the ability to define different criteria for how to calculate any aggregate (vote/score) - different filters, criteria that we can vote on and collectively choose, etc.
-- self-organization and complexification through bottom-up participation instead of top-down enforcement
-- knowledge graphs and how we can have a single entry for any concept/event/claim instead of thousands of scattered duplicates across many disparate platforms and websites
-- moving away from text-based communication and towards structured data (which would enable much easier processing and aggregation)
-- privacy and anonymity
-- an exploration of cooperation and an evolutionary take on why we need to aggregate into a global collective and reach coherence on what is true in order to tackle our greatest challenges
-- all intelligence is collective intelligence - inspired by biology and nature
-
-
-vote on how to weigh the votes
-
-
-== concerns/challenges:
-- too complex for users? But we've learned how to use computers & the web & spreadsheets
-- fracturing of states/views - many different 
-- ontological engineering - very very hard
-- initial direction, path dependence, and vision are vital
-- social reflexivity & volatility, also what if most people vote for short-term benefits
-
-
-
-== thinking about:
-- generator functions
-- vertical markets from John Stewart
-- SIMPOL? No. SIMPOL-like something embedded in social media 2.0? yes.
-- subsidiarity
-- forced transparency
-- reinventing democracy in the digital age - after horses and paper
-- shared identity & purpose
-
-
-
-
-
-== thesis:
-- the third attractor - a bottom-up participatory & fully transparent world government
-- need the most compelling story possible before any engineering work - detailing how to solve the most fundamental coordination issues
-- lay out everything possible and possible combinations, but not trying to lay out a specific recipe - that can't be predicted on this framework for complexification
-- many other aspects are missing from today's presentation
-- I'm obsessed with this idea & completely devoted to it
-
-
-
-
-
 
 
 
@@ -170,17 +86,8 @@ we need diversity of opinion and unifying goals - diversity/differentiation and 
 
 > "Disputants who agree to send champions would be given two months to prepare their position papers and support materials, according to formats provided by arena organizers — formats designed to discourage polemic, forcing them to parse their position down to discrete logical elements (e.g. underlying assumptions about human nature, about society, about near and long term goals, etc.) A standard questionnaire may provide a start, so both sides will present comparable answers to the same questions and confess their underlying assumptions." - [Disputation Arenas: Harnessing Conflict and Competitiveness](https://www.davidbrin.com/nonfiction/disputation.html#:~:text=Disputants%20who%20agree,their%20underlying%20assumptions.)
 
-> "" - [Disputation Arenas: Harnessing Conflict and Competitiveness]()
+> "Paraphrasing is hard to do when you've spent years demonizing the opposition, calling them venal or stupid and dismissing their concerns. Success at paraphrasing will be seen as a way of winning credibility. It means "I do understand my opponents... so my disagreement with them is well-informed."" - [Disputation Arenas: Harnessing Conflict and Competitiveness](https://www.davidbrin.com/nonfiction/disputation.html#:~:text=Paraphrasing%20is%20hard%20to%20do%20when%20you%27ve%20spent%20years%20demonizing%20the%20opposition%2C%20calling%20them%20venal%20or%20stupid%20and%20dismissing%20their%20concerns.%20Success%20at%20paraphrasing%20will%20be%20seen%20as%20a%20way%20of%20winning%20credibility.%20It%20means%20%22I%20do%20understand%20my%20opponents...%20so%20my%20disagreement%20with%20them%20is%20well%2Dinformed.%22)
 
-> "" - [Disputation Arenas: Harnessing Conflict and Competitiveness]()
-
-> "" - [Disputation Arenas: Harnessing Conflict and Competitiveness]()
-
-> "" - [Disputation Arenas: Harnessing Conflict and Competitiveness]()
-
-> "" - [Disputation Arenas: Harnessing Conflict and Competitiveness]()
-
-> "" - [Disputation Arenas: Harnessing Conflict and Competitiveness]()
 
 
 
