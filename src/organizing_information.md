@@ -69,11 +69,17 @@ What if:
 
 - less need for translation & localization
 - less need for content moderation
-- less emotionally manipulative language & framing such as the [Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation)
+- less emotionally manipulative language & framing such as the [Russell conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation)
+    In rhetoric, emotive or emotional conjugation (also known as Russell's conjugation)[1] is a rhetorical technique used to create an intrinsic bias towards or against a piece of information. Bias is created by using the emotional connotation of a word to prime a response from the audience by creating a loaded statement.
+    
     https://twitter.com/AshleyRindsberg/status/1666052378083352578
 - less need to think of the right words - reducing friction in expression
 
-Russel conjugation - horse dewormer vs ivermectin
+
+[Lakoff framing](https://en.wikipedia.org/wiki/Metaphorical_framing)
+
+
+Russell conjugation - horse dewormer vs ivermectin
 
 How much context and nuance has been lost in translation?
 
@@ -215,11 +221,14 @@ But why would we do that? What are the benefits?
     more charts
     https://twitter.com/paulg/status/1136962504343662592
 
+    https://davidrozado.substack.com/p/ppdwnmd
+
+
     > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
 
     TODO: https://davidrozado.substack.com/p/gag
 
-    Journalism goes hand in hand with frame control ([Russel conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork & edit thought-graphs to remove bias? Can we become post-narrative?
+    Journalism goes hand in hand with frame control ([Russell conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork & edit thought-graphs to remove bias? Can we become post-narrative?
 
     Michael Crichton > Quotes > Quotable Quote
     https://www.goodreads.com/quotes/65213-briefly-stated-the-gell-mann-amnesia-effect-is-as-follows-you
