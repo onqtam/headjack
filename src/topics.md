@@ -60,6 +60,8 @@ informational metabolism, cybernetics & the OODA loop
 
 Distributed internal management
 
+runaway confirmation bias
+
 evolutionary activism
 
 reward systems - the god protocol
