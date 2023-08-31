@@ -6,6 +6,37 @@
 
 
 
+relevance presets - fixing a problem vs practical tips how to circumvent it and/or live with it - depending on your goals - policy maker vs researcher vs citizen
+also could be applied to different aspects/layers - like security/sustainability/competitiveness
+
+
+
+> "Somehow problem solvers reliably (but not perfectly) zero in on the relevant information to be investigated. They do not do this abstractly, but in the way they formulate the problem. How individuals represent the initial state, goal state, operations, and path constraints, is the way in which they attempt to zero in on relevant information. Problem formulation is how problem solvers constrain the search space of a particular problem so that heuristics can effectively apply to it. Problem formulation captures what problem solvers deem relevant to a specific problem, and this formulation helps them to intelligently ignore most of the information in the search space. To intelligently ignore means that problem solvers do not even consider most available information, and they find and focus upon information that turns out to be relevant without comparing it to all the irrelevant information that is available." - [Relevance Realization and the Neurodynamics and Neuroconnectivity of General Intelligence](https://www.researchgate.net/publication/299812171)
+
+> "Consider how we are beset by ill-defined problems all day long such as following and/or joining a conversation successfully, getting and/or telling a joke or telling a story. As such, we frequently have to generate problem formulations in order to both address ill-definedness and to avoid combinatorial explosion. Not only do we have to zero in on relevant information, we often have to generate missing relevant information in order to do so. Problem formulation handles both of these demands and is a primary way in which we do relevance realization within problem solving.
+>
+> However, sometimes the problem formulation constrains a problem in such a way so that it cannot be solved; the problem formulation itself becomes problematic. In these circumstances, the problem formulations need to be broken up and reformulated. The solver must have an insight: their relevance realization abilities have to be flexibly recursive and self-correcting. They have to realize that they have misformulated the problem and be capable of generating a new relevance profile that then informs a new, more effective formulation." - [Relevance Realization and the Neurodynamics and Neuroconnectivity of General Intelligence](https://www.researchgate.net/publication/299812171)
+
+> "Truly the ability to determine relevance is foundational to our intelligence and would be central to any SmartData system." - [Relevance Realization and the Neurodynamics and Neuroconnectivity of General Intelligence](https://www.researchgate.net/publication/299812171)
+
+> "We never represent all the properties of anything because we are in the finitary predicament. We always only represent a subset of any real world things. This subset of features and how they hang together is an aspect. All representation is aspectual. Yet an aspect is a zeroing in on properties deemed relevant, and a formulation of those properties as highly relevant to each other and to oneself and others. The ability to represent crucially presupposes the ability to realize relevance and therefore cannot serve as a basis of explaining it without circularity." - [Relevance Realization and the Neurodynamics and Neuroconnectivity of General Intelligence](https://www.researchgate.net/publication/299812171)
+
+> "Relevance realization must be happening at a level of analysis more basic than standard information processing. Yet it cannot be handled by some central processor because that processor would face a combinatorial explosion of information facing it even within the brain’s own processing. The processing of relevance realization has to happen as a constraint on all processing both local and global within the brain. Relevance realization has to be internal, sub-semantic, sub-syntactic, and scale invariant in its operations. Finally, it must be completely self-organizing because it has to be a self-correcting and self-transforming process." - [Relevance Realization and the Neurodynamics and Neuroconnectivity of General Intelligence](https://www.researchgate.net/publication/299812171)
+
+> "McKee and Barber note that it is not just any kind of insight that constitutes wisdom. Rather it is some kind of insight through illusion and into reality. Meeks and Jeste indicate that the insight involved in wisdom also has importantly to do with self‐reflection/self‐understanding. The connection here is that illusion is some form of self‐deception, so seeing through illusion and into reality involves important insight into one’s own cognition and how it might be impeding contact with reality." - [Relevance, Meaning and the Cognitive Science of Wisdom](https://www.researchgate.net/publication/286508333)
+
+> "This is the heart of relevance realization: to be able to usefully ignore information in a contextually sensitive manner so as to enable our actions. Taken together, combinatorial complexity in problem solving, the largely ill-defined nature of most problems and the consideration of consequences serve to indicate the centrality of our relevance realization machinery. Thus, relevance realization is central; it involves the ability to frame our cognition and, most importantly, to do this flexibly, i.e. to be able to reframe. This ability to reframe how we find things relevant is sometimes experienced as the “aha” moment called insight." - [Relevance, Meaning and the Cognitive Science of Wisdom](https://www.researchgate.net/publication/286508333)
+
+> "Relevance realization is always a matter of the selective direction of attention, the appraisal of value, and the rationing and commitment of processing resources. Relevance realization is simultaneously attentional, affective, and motivational. Relevance realization largely concerns how you care about and care for information." - [Relevance, Meaning and the Cognitive Science of Wisdom](https://www.researchgate.net/publication/286508333)
+
+> "Evolutionary processes are constantly redefining from within evolution what it means to be fit. Relevance realization must constantly be redefining from within relevance realization what it means for information to be relevant." - [Relevance, Meaning and the Cognitive Science of Wisdom](https://www.researchgate.net/publication/286508333)
+
+
+
+
+
+
+
 
 
 > "Tell me why are we so blind to see That the ones we hurt are you and me?" - [Coolio - Gangsta’s Paradise](https://genius.com/Coolio-gangstas-paradise-lyrics#:~:text=Tell%20me%20why%20are%20we%20so%20blind%20to%20see%0AThat%20the%20ones%20we%20hurt%20are%20you%20and%20me%3F)
@@ -92,6 +123,24 @@ we need diversity of opinion and unifying goals - diversity/differentiation and 
 > "Current social networks don't have great tools for dispute resolution. They're a combination of anarchy (people yelling) and tyranny (arbitrary deplatforming).
 >
 > An alternative approach is a global moderator hierarchy. In the event of dispute, the lowest common ancestor mediates." - [Balaji Srinivasan](https://twitter.com/balajis/status/1415650556375232515)
+
+> "Another possible approach is to use a prediction market where users can upvote/downvote whether posts comply or not with guidelines. A final arbitrator that is occasionally called to clear the market." - [Federico Ast](https://twitter.com/federicoast/status/1415652757873254406)
+
+https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
+
+https://kleros.io/yellowpaper.pdf
+
+
+
+
+
+
+
+
+What is ignored or neglected by the media -- but will be studied by historians?
+https://twitter.com/george__mack/status/1652708537846632449
+https://twitter.com/george__mack/status/1679569846965764096
+
 
 
 
@@ -368,8 +417,18 @@ CA & EC
 think about faking reputation and reviews and etc.
 
 
-Think about parental controls and nudging towards productive time spent for kids and chinesetiktok and their filtering
+Think about parental controls and nudging towards productive time spent for kids and chinese tiktok and their filtering
 The internet is a trap without discipline
+https://twitter.com/elonmusk/status/1657469848429948928
+
+
+
+balaji on real time wikipedia editing:
+One thing I’m a little surprised by is that Google Docs-style real-time collaboration hasn’t come to more apps. The underlying tech (operational transformation) has been around for quite a while now. A v2 of Wikipedia or Medium might benefit from it.
+https://twitter.com/balajis/status/1058943305529024512
+https://en.wikipedia.org/wiki/Operational_transformation
+https://operational-transformation.github.io/
+
 
 
 
