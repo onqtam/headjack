@@ -4,6 +4,157 @@
 
 
 
+we can incentivize people to fill out questions to "complete their profile" and nudge them towards answering "top 10 civilizational concerns" - something they might have never even thought about. Some would perhaps look around at what scientists have had to say and boost their answers - hopefully, few would turn to kim kardashian for that sort of question
+
+delegating your vote to someone that you agree with can be more impactful than voting directly because it elevates them and their arguments and narrows down the set of arguments for a debate - making things more manageable
+
+social norms are the most powerful mechanism to leverage change
+
+"Cooperation & transparency" as the One Commandment
+
+This is how the internet is turned into a neural net
+
+just like Data Availability layers allow for higher-level modular blockchain forking without much infrastructure hassle, the same way communities can fork with different models that treat & interpret the same set of events differently
+
+Internet 2.0 is a global neural net centered around identity
+
+A agent-weighted library of Alexandria
+
+Integrated information processing
+
+Social media 1.0 was designed for consumption - what if we designed it for expressivity, meaning, creation, collaboration and epistemic coherence & compounding?
+
+We can publicly entice/bribe corporations with greater memetic distribution to align with our goals
+
+Objective reputation has to be a cornerstone
+
+
+Radical markets for names?
+
+Money is under the control of misaligned, corrupt, dysfunctional and incompetent governments and banks. Status is under the control of media and money. We can redesign status as a new type of flexible currency thats evolvable to whatever we need it to be
+
+What if we obsoleted the money-on-money-return game in favor of status-on-status-return built on top of competence, accountability and cooperation - the infinite game, not one bound to resources?
+
+The internet & the digital in their final form as a memetic evolutionary substrate - no architectural restrictions
+
+One of the dials could be status vs virality of an event as a spectrum
+
+the only enemy is entropy
+
+separate "severity/importance" and "likelihood", so that we can weight in on these 2 aspects separately
+
+resiliency! can survive internet partitioning like the Chinese firewall if the chain is only on one end - data can be created & made addressable by an application on one side of the internet, then they sign a transaction to anchor the data to the chain, then that anchoring transaction and all the data can be physically moved on some storage device to the other part of the internet & the anchoring transaction can be submitted - now both sides can address the same events the same way. Just like IPFS.
+
+we can vote and agree on what is acceptable and what is not - a big taxonomy of unacceptability - and then use that shared standard to rank online actions
+
+A participatory incentive design system for societies and our civilization
+
+Internet of people/influencers ==> internet of ideas
+
+the global brain in 1 sentence, 1000 words, 1 essay
+
+2 notification? Show only one and save the other for later! pure evil...
+Are the apps working for you?
+We need to put the humans first
+
+Collectively programming humanity
+
+We need to take back control over how the epistemic sausage is made
+
+We need to reimplement the “rules-based  international order”
+UH - united humanity
+
+The terms of the debt jubilee will be dictated by the global brain
+
+A socially wired global neural network
+
+the race to the top on transparency
+
+One commandment: epistemic health
+
+Whistleblowing should play
+
+The one commandment: most people are good
+
+Bashing utopias as unrealistic and dangerous by pointing to epistemologically bankrupt historic examples that lead to catastrophes is a limiting & self-manifesting/reinforcing belief
+It also lacks any imagination and attempt for creativity
+
+The belief that utopian visions are dangerous is a dangerous belief
+
+Turning the other cheek is a metaphor for escaping the dictates of your immediate impulses and motivations. Resisting temptation - the evolutionarily installed impulses that were useful in past evolution.
+We need to learn from religious movements and apply the insights to a materialistic worldview
+
+This is the Manhattan project for reclaiming our consciousness
+
+We can score a NYT piece on a multitude of factors - bias, clickbaity-ness, not presenting the full picture, loaded language, missing citations
+
+What if we treated media like science - requiring citations and quotes for everything?
+
+!!! epistocracy !!!
+https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan
+
+Epistemic architecture
+
+
+
+epistemic crisis - a crisis of knowledge
+
+despite the overwhelming amounts of information available to us - we are more polarized than ever and it is harder to separate fact from fiction
+
+What about the Fermi paradox? Perhaps life everywhere else couldn’t build the global brain.
+
+Motivated reasoning should be abolished/countered/made visible
+
+We can reward pre-commitments how data will be treated
+
+Top 10 ways to improve X field/concept/entity
+
+Think of how current services (science journals, stack exchange websites) can make it so the reputation of someone can be linked to their identity of choice & made addressable & exportable so that it can be fed into models
+
+People are conditioned into passivity, cynicism and helplessness
+
+A distributed and participatory social landscape
+
+A participatory social operating system
+
+The lack of shared intentionality - a shared worldview - is perhaps our fundamental issue
+
+Some of the quotes in this book are probably misattributed - wouldn't it be nice to be able to cryptographically prove their provenance by quoting a part of the source text linked to identity?
+
+btw още няколко неща които ще може да се правят ако експрес-ваме семантично идеите - освен да се изчисли score спрямо някакъв модел/правила и някаква база данни от "факти", ще може човек сам да си дебъг-ва мислите като търси логически конфликти, и ще може да прави diff спрямо идеите на някой друг - да види % препокриване и съгласие (както и конфликт).
+и ще може да query-ваш кои други имат еди какво си мнение
+
+we can have tribunals for claims of corruption and reward journalists & investigators who correctly (according to a tribunal of our choice) map such instances in the real world to entities
+
+Unification of entities/concepts/events and the ability to aggregate and open access to freely compose, associate and extend the data and functionality are a way to fix asymmetries of power
+
+Levels of openness & alignment - different rewards by the network
+- Sharing patents?
+- Open source?
+- Permissive license? License to others in this ecosystem?
+- Planned obsolescence? https://www.youtube.com/watch?v=j5v8D-alAKE
+- using hypernormal stimuli?
+ESG scores
+- pressure/incentivize a basket of companies to pool capital and fund some research so that the funding is distributed, and also define for them all of the areas that need research so that the companies aren't selective for what suits them.
+
+imagine if the insights and conclusions of any book or long-form media were encoded in the giant epistemological graph and you could see which parts of the world are affected, where there is consensus/conflict, etc.
+
+what if the whole system recalculates everything automatically when a fact (assumption) changes and based on specific criteria sends appropriate notifications - showing a diff & implications of the changes?
+What if a core fundamental assumption you have gets overturned - wouldn't you want to know the transitive impact of that change?
+
+Examples for feeds: 1) friends, 2) interests (and for different interests - finance/hobbies), 3) groups
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 relevance presets - fixing a problem vs practical tips how to circumvent it and/or live with it - depending on your goals - policy maker vs researcher vs citizen
