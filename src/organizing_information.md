@@ -71,13 +71,16 @@ What if:
 - less need for content moderation
 - less emotionally manipulative language & framing such as the [Russell conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation)
     In rhetoric, emotive or emotional conjugation (also known as Russell's conjugation)[1] is a rhetorical technique used to create an intrinsic bias towards or against a piece of information. Bias is created by using the emotional connotation of a word to prime a response from the audience by creating a loaded statement.
-    
+
     https://twitter.com/AshleyRindsberg/status/1666052378083352578
 - less need to think of the right words - reducing friction in expression
 
 
 [Lakoff framing](https://en.wikipedia.org/wiki/Metaphorical_framing)
 
+> "The researchers found that, on the one hand, participants who read the "crime is a beast" metaphor were more likely to support crime-fighting strategies such as increasing the number of police officers and building more jails. On the other hand, participants who read the "crime is a virus" metaphor were more likely to support crime-prevention strategies, such as implementing social reforms and calling for an investigation into the root causes of crime." - [source](https://en.wikipedia.org/wiki/Metaphorical_framing#:~:text=The%20researchers%20found,causes%20of%20crime.)
+
+> "Framing is about getting language that fits your worldview. It is not just language. The ideas are primary and the language carries those ideas, evokes those ideas." - [George Lakoff](https://medium.com/@ennuid/george-lakoffs-framing-101-7b88e9c91dac#:~:text=Framing%20is%20about%20getting%20language%20that%20fits%20your%20worldview.%20It%20is%20not%20just%20language.%20The%20ideas%20are%20primary%20and%20the%20language%20carries%20those%20ideas%2C%20evokes%20those%20ideas.)
 
 Russell conjugation - horse dewormer vs ivermectin
 
@@ -223,6 +226,7 @@ But why would we do that? What are the benefits?
 
     https://davidrozado.substack.com/p/ppdwnmd
 
+    https://twitter.com/TheRabbitHole84/status/1655968201422012418
 
     > "We should discuss this graph more. (peer review)" - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/1483860161965932544)
 
