@@ -48,6 +48,8 @@ embracing complexity
 
 Gamification
 
+the medimu is the message - as a whole page about media
+
 Disputation Arenas
 
 bayesian thinking/living

@@ -2,6 +2,69 @@
 
 
 
+
+> "If I were a stakeholder I would simply be aligned." - [@jdan](https://twitter.com/jdan/status/1699870400513982624)
+
+> "Even god seems to create by designing incentives." - [Gordon Brander](https://twitter.com/gordonbrander/status/1700228049399148932)
+
+
+> "Hierarchies evolve from the lowest level up—from the pieces to the whole, from cell to organ to organism, from individual to team, from actual production to management of production. Early farmers decided to come together and form cities for self-protection and for making trade more efficient. Life started with single-cell bacteria, not with elephants. The original purpose of a hierarchy is always to help its originating subsystems do their jobs better. This is something, unfortunately, that both the higher and the lower levels of a greatly articulated hierarchy easily can forget. Therefore, many systems are not meeting our goals because of malfunctioning hierarchies." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=Hierarchies%20evolve%20from,of%20malfunctioning%20hierarchies)
+
+> "When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=When%20a%20subsystem%E2%80%99s%20goals%20dominate%20at%20the%20expense%20of%20the%20total%20system%E2%80%99s%20goals%2C%20the%20resulting%20behavior%20is%20called%20suboptimization.)
+
+> "To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and total system—there must be enough central control to achieve coordination toward the large- system goal, and enough autonomy to keep all subsystems flourishing, functioning, and self-organizing." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=To%20be%20a,and%20self%2Dorganizing.)
+
+> "Suppose all the information stored on computers everywhere were linked, I thought… All the bits of information in every computer at CERN, and on the planet, would be available to me and to anyone else… Computers might not find the solutions to our problems, but they would be able to do the bulk of the legwork required assisting our human minds in intuitively finding ways through the maze." - [Weaving The Web 1999, by Tim Berners-Lee](https://subconscious.substack.com/p/noosphere-at-summer-of-protocols#:~:text=Suppose%20all%20the,through%20the%20maze.) discussing [ENQUIRE](https://en.wikipedia.org/wiki/ENQUIRE) - a wiki-like predecessor of the World Wide Web
+
+
+
+
+
+
+
+
+> "It's not enought for a proof to be correct - a proof should be beautiful." - [Gregory Chaitin](https://youtu.be/JlbbFjAtDEM?t=88)
+It's not enough for a proposed architectural to sort-of be able to address the whole challenge - it must be radically simple and infinitely scalable
+
+
+
+> "What is needed to make this immense sensing, valuing, and acting capability available for intelligence is to interconnect these people and tools via a vast and powerful network. That network too already exists, in the form of the Internet: any information collected or decision made by any human or technological agent(s) can in principle be transmitted nearly instantaneously to any other agent(s) for further processing and/or enacting. The amount of information propagating across this global network is many orders of magnitude larger than the most powerful channel we could envisage to feed a single AI, however advanced its processing capacity." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+> "Just like the neural networks in our brain, the global network processes this information in a distributed manner, with billions of human and technological “neurons” working in parallel—on partly the same, partly different data—while aggregating their results into collective decisions and  actions. Unlike the centralized, tightly controlled systems imagined by AI theorists, this network functions like a complex adaptive system: a decentralized, selforganizing whole formed by an immense variety of interacting agents. This makes the overall system much more powerful, robust, and adaptive than a preprogrammed central processor that takes in information sequentially. As it adapts, this network learns from its experience by expanding and extending the most useful technologies, ideas, links, institutions, and agents, while setting aside and eventually forgetting the less useful ones. Moreover, it learns to ever better coordinate the activities of its components, by creating ever more direct and more powerful links between them. It thus increases its own intelligence. This increase can only accelerate as a more powerful and intelligent network also expands and develops more quickly." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+> "The global brain perspective focuses on intelligence and fitness at the level of planetary society: the whole of humanity together with its artifacts and the ecosystems that it controls and relies on. This system of mutually dependent people, technologies and ecosystems defines the global superorganism" - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+> "The most successful attempt to date at organizing this knowledge is Wikipedia, the global encyclopedia that is being read, written and edited by millions of volunteers worldwide. The basis of its success is [stigmergy](https://en.wikipedia.org/wiki/Stigmergy), a mechanism of self-organizing coordination between independent agents. The principle is that the work of one individual (e.g. an edit of a Wikipedia text) leaves a public trace (e.g. a change in the corresponding web page) that can stimulate one or more other individuals to continue the work (e.g. add further details or correct wrong assumptions). Thus, independent contributions build further the one on top of the other, producing a collective result much richer and more complex than could have been achieved via any traditional, centralized form of organization. There are no obvious limits to such a self-amplifying process of contributions eliciting further contributions." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+> "An essential part of that knowledge will be about the superorganism as a whole: how does the world function, and what opportunities and dangers can we anticipate? This requires, first, a general, transdisciplinary theory of complex systems and their networks of interactions: a global systems science. This theory would then be implemented as a living earth simulator: a comprehensive computer model of global society, the planetary ecosystem, and the way they interact. Such a simulation would allow us to anticipate the effects of different events or interventions on the global superorganism. That would make it possible to formulate a nearly optimal trajectory for global development, while as much as possible steering clear of conceivable obstacles, catastrophes, and negative side effects. However, in order to remain up to date and to adapt to unforeseen disturbances, this model would need to be constantly fed with new data. Moreover, it should be able to test out its hypotheses in the real world, so as to correct possibly inaccurate assumptions. A we noted earlier, this would require a very high-bandwidth interaction network, which Helbing call a planetary nervous system." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+> "A global brain should be able to monitor what is happening everywhere in the world at any moment, so as to extract the relevant information for anticipating what will happen next. Moreover, it should be able to intervene anywhere anytime, in order to tackle challenges the moment they appear." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+> "Not just printers and other assemblers can be directed remotely via distributed intelligence: people, robots, and any Internet-enabled objects that have effectors can be mobilized to perform the right actions at the right time in the right place, and this in a smooth, coordinated manner. The many communities of volunteers on the Internet illustrate that it suffices to formulate a worthwhile objective and to provide an effective collaboration platform to get people to work efficiently towards the most ambitious targets. These include writing down all the world’s knowledge (Wikipedia), programming the software to run the Web (Apache, Linux, …), or supporting start-ups, pro-democracy movements, or charities with money, ideas and volunteer work. An extension of the underlying techniques for encouraging and coordinating such beneficial activity should allow the GB to harness people worldwide to tackle any kind of challenge." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+
+
+
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+
+
+
+
+
+
+
+
 think about how the material of RethinkX would fit in this epistemological ecosystem
 
 we can incentivize people to fill out questions to "complete their profile" and nudge them towards answering "top 10 civilizational concerns" - something they might have never even thought about. Some would perhaps look around at what scientists have had to say and boost their answers - hopefully, few would turn to kim kardashian for that sort of question
@@ -234,6 +297,16 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 shared intentionality (values, beliefs, practices) is necessary for effective human cooperation - and it has broken down in the West
 we need diversity of opinion and unifying goals - diversity/differentiation and integration
 
+chimps follow the head, humans follow the eyes - shared intentionality
+chimps follow the head - even if the eyes are closed.
+humans follow the eyes - even if the head is stationary.
+human eyes are clearly visible - evolved to signal attention (whites, etc), whereas chimp eyes are much more occluded/hidden
+https://youtu.be/BNbeleWvXyQ?t=809
+
+epistemic fragmentation and division are a cancer
+
+
+
 
 
 > "Consider four marvels of our age — science, democracy, the justice system and fair markets. In each case the participants (scientists, litigants, politicians and capitalists) are driven by selfish goals. That won't change; not till we redefine human nature. But for years, rules have been fine-tuned in each of these fields of endeavor, to reduce cheating and let quality or truth win much of the time. By harnessing human competitiveness, instead of suppressing it, these "accountability arenas" nourished much of our unprecedented wealth and freedom." - [Disputation Arenas: Harnessing Conflict and Competitiveness](https://www.davidbrin.com/nonfiction/disputation.html#:~:text=Consider%20four%20marvels,wealth%20and%20freedom.)
@@ -281,9 +354,22 @@ https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
 
 https://kleros.io/yellowpaper.pdf
 
+https://en.wikipedia.org/wiki/Citizens%27_assembly
 
 
 
+
+
+
+on prediction markets...
+Involving money & futures contracts on any outcome might put skin in the game but has proven controversial (especially when it comes to terrorist attacks & assassinations):
+https://en.wikipedia.org/wiki/Policy_Analysis_Market
+https://en.wikipedia.org/wiki/Intrade
+We can reward with reputation/status/influence - not money. Also we can have prediction markets and simply vote which topics would be covered and which would not.
+Involving money requires fixing the oracle problem - we can avoid that and simply choose fact databases and decide how to calculate reputation.
+Financial contracts might probably also require syncing with these folks:
+Not using financial futures contracts avoids problems and dealings with these folks:
+https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 
 
@@ -2712,11 +2798,75 @@ https://80000hours.org/career-guide/
 > "There should be something like a Wikipedia for careers: Lists of career paths, how & what skills you'll need to break-in & rise up, how much $ you’d earn over time, lifestyle/happiness pros&cons, recommended paths based on interests & skills & personality type, case studies, etc." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1609979842463952898)
 
 
-> "" - [Erik Torenberg]()
 
-> "" - [Erik Torenberg]()
 
-> "" - [Erik Torenberg]()
+
+> "In the same way the government outsources to the private sector the censorship it couldn’t do otherwise, the private sector outsources to government monopoly-protecting-regulations that it couldn’t do otherwise. It’s the powerful keeping each other powerful. " - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=In%20the%20same%20way%20the%20government%20outsources%20to%20the%20private%20sector%20the%20censorship%20it%20couldn%E2%80%99t%20do%20otherwise%2C%20the%20private%20sector%20outsources%20to%20government%20monopoly%2Dprotecting%2Dregulations%20that%20it%20couldn%E2%80%99t%20do%20otherwise.%20It%E2%80%99s%20the%20powerful%20keeping%20each%20other%20powerful.)
+
+> "In the same way the government outsources to the private sector the censorship it couldn’t do otherwise, the private sector outsources to government monopoly-protecting-regulations that it couldn’t do otherwise. It’s the powerful keeping each other powerful. 
+>
+> This is why a lot of business has gotten politicized over the past few years. It's not just that people just care more about politics, which is kind of the conventional explanation, it’s that there are attempts to politically control companies for this specific purpose, because it's the escape hatch to be able to do things the government itself can't do.
+>
+> One way to think about this is to imagine if private companies were actually part of the government. To paraphrase a line of thinking others have explained far better: If Harvard were the US department of expertise, would anything really change? If the Brookings Institution was the US department of public policy analysis would anything really change? If The New York Times was the US department of information would anything really change? If Google was the US department of search would anything really change?” If the answer is “little or none”, you know what they are today." - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=In%20the%20same,they%20are%20today.)
+
+> "Not democratic? How could we not be democratic? Well. Let’s think about it. What does democracy imply? That the people make the decisions. Did you vote for the War in Iraq? For our k-12 system? For our healthcare system? For any of the 3 letter agencies?
+>
+> The truth is that 99% of government employees are not accountable to a market nor a democratic process. Neither bought by a customer nor picked by a voter. Which is why democracy isn’t a good way of describing what’s actually happening.
+>
+> And how could it? The reality is that power is always wielded by a tightly organized minority group against a disorganized mess. This is because the masses cannot organize. For a few structural reasons:
+>
+> First, you can’t get everyone in the room at the same time. Second, they neither have the skills nor interest nor the time to educate themselves on the issues, let alone organize for power. A crowd without organized leadership will simply devolve into a rabble. Think Occupy Wall Street.
+>
+> In addition to technical reasons, there are psychological reasons. Most people want to be led. They don’t want to figure out every single thing for themselves. They want to outsource the hard decisions and questions to other leaders far more compelling than themselves. And for the people who want to lead, no amount of power is ever enough. People who acquire power always want to consolidate and extend it. As they say, absolute power corrupts absolutely." - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=Not%20democratic%3F%20How,power%20corrupts%20absolutely.)
+
+> "The present Oligarchy is the fused managerial elites and civil rights state. They reinforce and protect each other. Civil rights is the political story that this oligarchy tells to hold power. Let us rule, and we will smash all oppressive hierarchies. Except our own, of course.
+>
+> The boards and senior executive teams are just like this too. They will do exactly what is expected of them as members of the oligarchic elite. They have the exact same politics as their peers in that structure. And they all implement the same policies at the same time.
+>
+> Indeed: We have a theocratic oligarchy wearing the suit of a representative democracy. The oligarchy spans government officials and bureaucrats as well as heads of companies, universities, media properties, foundations, etc. These people care immensely about what their peers at Davos, at Aspen, in the pages of the New York Times, at Harvard, at their dinner parties think. It is very important that they all be in exact alignment at all time." - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=The%20present%20Oligarchy,at%20all%20time.)
+
+> "As corporations scale, they fear anti-trust, so they depend on the government to let them survive. Governments also depend on companies for tax dollars and support on basic services. The private sector manipulates the public sector via campaign finance and lobbyists, the public sector manipulates the private through regulation and subsidies. 
+>
+> Burnham, Schumpeter, and others observed that the closer you get to government, the more you see how the government operates in conjunction with any given industry. The field of public choice has a name for this, regulatory capture: where corporations gain so much power in the government that they “capture” their regulator and end up implementing regulations in their industry that have the effect of cementing their market positions in place and preventing new competition. We see this in pharma, housing, healthcare, education, taxi cab industry — nearly every regulated industry. 
+>
+> But you also see the reverse happening at the same time, where the government captures companies." - [Burnham, Elon, and The Revenge of Entrepreneurial Capitalism, by Erik Torenberg](https://eriktorenberg.substack.com/p/burnham-elon-and-the-revenge-of-entrepreneurial#:~:text=As%20corporations%20scale,captures%20companies.)
+
+> "Appeals to authority run more of society than we realize: Who designs government policies? Experts. Who do journalists quote in newspapers? Experts. And who are these experts? Professors. Who funds these professors? The government. Who votes for the government? The public. Who educates the public? Professors and journalists. Oh. 
+>
+> Balaji calls this the information supply chain: Stanford does a study which gets published in a peer reviewed journal, like [Nature](https://www.nature.com/) or [Science](https://www.science.org/). That study is then written about in the New York Times and becomes conveyed as truth. Finally, the U.S. Government then enacts some policy based broadly on that original study, claiming their action is based in science. 
+>
+> This phenomenon is codified deeply into our culture. Take Wikipedia as another example. If you wanted to know where the information came from on a given Wikipedia page, you'd see it came from "[reliable sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources)". Who contributes to those "reliable sources"? What exactly is a reliable source? Wikipedia explains in very clear English what a reliable source is. Get ready for it. A reliable source is a source….that’s reliable.
+>
+> Is there a mechanism for determining whether the NYT is or isn't a reliable source? Not really. It’s arbitrary. The NYT is grandfathered in. The NYT could write nonsense everyday, but who keeps track? Who even cares? For most people, it all gets lost in the chaos. Sure, they lose some subscribers on the red team. But the blue team cheers and doubles down on their subscriptions." - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=appeals%20to%20authority,on%20their%20subscriptions.)
+
+> "Once someone has been blessed—as long as they have the morally right opinions—they face little accountability for repeatedly making incorrect claims or wrong predictions. The tautology of the elites is that elites remain elite because they’re elite. QED." - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=once%20someone%20has,they%E2%80%99re%20elite.%20QED.)
+
+> "The core function of science is not peer review, publishing in a prestigious journal, or having an academic affiliation. It’s independent replication — the repetition of an experiment such that the variance of that experiment can be better estimated. 
+>
+> To say that true scientific inquiry is the same as a general appeal to authority is categorically incorrect. The latter may have the form of science, in the sense that it could be laid out like a logically sound argument, but it doesn't have the substance of science, which is based on independent replication. 
+>
+> And yet, we can’t replicate experiments at the drop of a hat, so we do rely on prestige as a proxy. Because it’s so hard for people to disprove claims, or for us to keep track of who’s been right and who’s been wrong over time, they’re more likely to believe  elite media and universities when they say something is true, no matter how often they’re wrong. 
+>
+> Despite how wrong epidemiologists are, despite how wrong nutrition science was for decades—food pyramid anyone?—despite the replication crisis which challenges much of psychology—nothing really changes. When elite media and universities say something is true, people will believe it. Furthermore, often people won’t believe a claim until it gets blessed by the experts.
+>
+> But just because they say something is true, and just because people believe it, doesn’t mean it’s actuallytrue. 
+>
+> You can see this as the difference between political and technical truths.
+>
+> Political truths are judged entirely by social consensus — who the president is, whether the dollar has value, or whether the New York Times or Harvard is elite.
+>
+> But for technology, popularity and truth are not one in the same. Technical truths are things that are true regardless of popularity — the weather, the chemistry of a compound, or the money supply of Bitcoin.
+>
+> What if we had a way to make political truths more like technical truths — a way to make things based on consensus better align with our objective reality?" - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=The%20core%20function,our%20objective%20reality%3F)
+
+> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
+
+> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
+
+> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
+
+> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
+
 
 
 

@@ -234,6 +234,9 @@ But why would we do that? What are the benefits?
 
     Journalism goes hand in hand with frame control ([Russell conjugation](https://en.wikipedia.org/wiki/Emotive_conjugation) - **what is** vs **how to feel about what is**), [Gell-Mann Amnesia](https://en.wikipedia.org/wiki/Michael_Crichton#GellMannAmnesiaEffect), cherry picking and many other problems. Imagine the introspection possible if everything was expressed as thought-graphs and was interlinked. What if we could fork & edit thought-graphs to remove bias? Can we become post-narrative?
 
+    “A rocket will never be able to leave Earth's atmosphere.” -New York Times, 1936
+    https://twitter.com/engineers_feed/status/1698186317606134162
+
     Michael Crichton > Quotes > Quotable Quote
     https://www.goodreads.com/quotes/65213-briefly-stated-the-gell-mann-amnesia-effect-is-as-follows-you
 
