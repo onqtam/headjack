@@ -2859,13 +2859,19 @@ https://80000hours.org/career-guide/
 >
 > What if we had a way to make political truths more like technical truths — a way to make things based on consensus better align with our objective reality?" - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=The%20core%20function,our%20objective%20reality%3F)
 
-> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
+> "The [Iron Law of Oligarchy](https://en.wikipedia.org/wiki/Iron_law_of_oligarchy) states that all organizations, including those committed to democratic ideals and practices, will inevitably succumb to rule by an elite few (an oligarchy). The theory states that true democracy can't happen mechanically, because a large number of people cannot coordinate or organize. Only small groups can organize. So whenever you have “democracy” or a large number of people who are supposed to coordinate, they simply can’t. So instead a small number of people who can coordinate seize all the power." - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/daos-and-the-iron-law-of-oligarchy#:~:text=the%20Iron%20Law%20of%20Oligarchy%20states,can%20coordinate%20seize%20all%20the%20power.)
 
-> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
-
-> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
-
-> "" - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg]()
+> "The cycle from democracy to oligarchy often looks like this:
+>
+> First, a large democratic group is formed. Everyone tries to have a say. This creates conflict, and all discussions go on for a long time as they try to resolve the conflict. Most people leave because the decision-making process is taking too long.
+>
+> Eventually, fewer people remain and some of them present their plans. The crowd picks the plans that make the most sense and the planners get designated as leadership.
+>
+> The planners slowly turn into the elite and start to reinforce their power. These elites also begin to control access to information and become progressively less and less accountable to the rank and file members.
+>
+> Over time, the oligarchy develops values that are at odds with its regular members. Elites become higher status, and feel that they must have some way of [differentiating themselves from the democratic masses](https://eriktorenberg.substack.com/p/beliefs-are-fashions). They slowly begin to push for things that are [good for elites but not necessarily good for the rest of the group](https://eriktorenberg.substack.com/p/the-hypocrisy-of-elites).
+>
+> Once it is in place, democratic members lack the means to displace the oligarchy. It would require coordination that democracies simply don’t have. Additionally, the oligarchy won out as the most effective structure due to its strategic capabilities. For this reason, in any formally democratic organization, power will always slowly disperse away from members and into the hands of an elite." - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/daos-and-the-iron-law-of-oligarchy#:~:text=The%20cycle%20from,of%20an%20elite.)
 
 
 
