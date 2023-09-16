@@ -298,6 +298,13 @@ https://tftc.io/martys-bent/issue-441/
 
 > "Everything is based on a simple rule: Quality is the best business plan, period." - [Steve Jobs](https://www.azquotes.com/quote/1060339)
 
+
+> "Design is not just what it looks like and feels like. Design is how it works." - [Steve Jobs](https://www.goodreads.com/quotes/457177-design-is-not-just-what-it-looks-like-and-feels)
+
+
+> "That’s been one of my mantras — focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains." - [Steve Jobs](https://www.goodreads.com/quotes/915331-that-s-been-one-of-my-mantras-focus-and-simplicity)
+
+
 > "Simplicity is prerequisite for reliability." - [Edsger Dijkstra](https://www.azquotes.com/quote/78518)
 
 > "Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better." - [Edsger Dijkstra](https://www.azquotes.com/quote/754978)
