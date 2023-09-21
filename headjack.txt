@@ -307,6 +307,65 @@ gradually scaling/colling out annotation communities & developing/evolving best 
 for stupid claims like "Elon could have solved world hunger with 5 billion $" - if it's too hard to put into an ontology we could simply let ppl vote on the stupidity of it
 
 
+you should be able to change the way you want top results to be surfaced for any subreddit
+
+what if we could incentivise & signal what the ecology of practices should be
+
+instead of building arctic code vaults to preserve code, we should be working on the root of civilization - incentive design
+
+we need to make the best system for giving the best tools to anyone for anything which does not cause externalities - the nexus of cooperation and coordination - the nexus of global brain though
+
+we are so blind to recognize the suggested improvements by the top complexity scientists and evolutionary thinkers - the most obvious improvements that anyone should be clamoring for. We have a system which does not produce coherence oriented towards what makes sense for all
+
+the bigger the group chat - the bigger the assumed common knowledge. Group chats & trust groups are the way to common knowledge
+
+we need to incentivize the next iteration of wikipedia - not simply writing the opinions of a selected group, but allowing for any group to have their beliefs expressed & comprehended by others & compared
+
+this is the best game to be playing ever - work transparently & earn credibility which is also appreciated by the old system - you win either way - and this protocol of cooperation and transparency can gradually shift to the top
+
+what if instead of the system nudging us towards subscribing to each other within friends so that we stalk each other & generate engagement - what if instead of that, the system nudged us towards subscribing to the best dashboards and where the most consensus & transparency lay
+
+case study: how might we improve & automate reasoning about token emission schedules?
+
+this is how we put social (aka ALL OF HUMANITY) onto the blockchain
+
+separate the currency stuff from the social media account stuff - one set of accounts that are addressed by their public key, and another set of accounts that have integers as IDs and where the IDM magic happens
+
+we need to add cerosine to the engines of optimization of civilization & introspection
+
+imagine if instead of snapchat triggering your psyche with "streaks" we had such incentives for doing work & helping moderate the internet & earn rewards based on competence, volume of work and accountability
+
+we need to allow any aspect of society to be able to evolve towards competence & results with the least amount of effort
+
+how do we crowdsource & self-organize "proof of human"?
+
+recursive self-reflection requires that any concept/entity/event has a single entry that can be referenced, and from then branch towards whatever else needs to be queried. unifying all concepts/entities/events under unique entries is a foundation for optimal recursive thought
+
+we need to give executive power to that which is most competent, visionary, all-loving, accountable and transparent - simple as that. we need an incentive system for that
+
+
+
+
+
+
+Example for what people resort to because of a lack of top10 lists:
+https://guzey.com/favorite/media/
+
+
+Concern:
+> "Everytime I build a high brow product, it flops harder than I could ever predict."
+> "Never forget that humans are animals."
+https://twitter.com/nikitabier/status/1246438096758927360
+
+
+
+> "Lack of truth in most media is one of the vulnerabilities of our society. Besides giving us sensationalized distorted pictures, which leads to bad judgements, it is preventing great leaders from wanting to lead in politics and business." - [Ray Dalio](https://twitter.com/RayDalio/status/999781767312740352)
+
+
+> "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
+>
+> "Even if some of the public doesn’t care about the credibility score, the journalists, editors & publications will. It is how they define themselves." - [Elon Musk](https://twitter.com/elonmusk/status/999369623484039168)
+
 
 > "It's a damn shame that a society be structured such that an approach with honesty and good faith is a sucker strategy." - [Jim Rutt on the Village Global podcast about Game B, at 0:05:24](https://open.spotify.com/episode/68kN2CDBR7RHjktHCtOf20)
 
