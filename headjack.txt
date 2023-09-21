@@ -21,6 +21,273 @@
 
 
 
+
+
+
+
+
+when someone does bad in terms of competence/accountability, in addition to a reputational penalty to them we could also penalize a bit those that gave their votes to that person - for empowering a rotten apple. We could also give rewards for delegating to the right person...?
+
+Human potential is being squandered on a grand scale - why arent we investing the most so that the most disadvantaged rise the fastest? Such an altruistic act is the best way towards building trust
+
+We need a cure for apathy and disengagement
+
+"you need to force behaviours" - larry fink, ESG prince
+https://www.youtube.com/watch?v=KwwN5kwjAtQ
+
+if you see something that you think obviously has an agenda by the media - have a way to express it. Let's see in aggregate who thinks something is politically motivated and who is supporting it. slander needs to be on the record too because if it turns out false - there should be consequences to whoever wrote it
+https://twitter.com/THORmaximalist/status/1703481143436186086
+
+
+this architecture for reputation and competence can be used by nations, by corporations or any kind of organization
+
+
+it is necessary for humanity to realize the necessity of weeding out all corruption - perhaps the singularity is when a species collectively realizes the importance of cooperation and reorienting everything fundamentally on that principle - leading to the next higher level of complexification
+
+The civilizational singularity/step function is when the complete reorientation over the principle of consequence capture occurs
+
+completely trustless is counterproductive (truly crypto-native protocols) - we simply need better trust - a transparency and reputation system - a new game
+
+factor in changing of the IP addresses in the throughput - make a complete best guess showing all use cases with percentages
+
+this is how we solve all types of alignment: AI alignment & human alignment
+
+transparency builds trust and trust attracts customers. Customers of anything - aka humans want the truth despite their irrational psychological predispositions
+
+labeling data needs rewards for correct labeling - an incentive for truth
+
+what is a loss function? it is error correction. What's the loss function of the media landscape? what if we quantified it?
+
+what if we gave incentives for anyone being some kind of annotator - to have to specialize in some area of the world and compete transparently & prove competence & accountability
+We would effectively be training an AI how to label things in any vertical - and we could connect all those verticals in a single latent space and aggregate the predictive wisdom of the crowd that way
+What if this was the data engine for the global brain - a single unified neural network that makes predictions and prescriptions when prodded about the future? With a full trace of thought.
+
+
+
+LINK TO YOUTUBE COMMENT !!! its possible
+https://www.youtube.com/watch?v=Z_wPQCU5O6w&lc=UgyE_U8z0GtO3K3dpT94AaABAg
+
+
+A node-based mode composer - architecting signal computation
+A single query vs a streaming solution with window functions and whatnot
+
+The internet of models - IoM
+Models as a service
+MaaS
+
+Legitimacy needs to be CONTINUALLY earned
+
+what if we could track and visualize the progress of anyone in anything within their  knowledge tree and simply pick publickly the best ones - and make working in public the only way of legitimizing power
+
+what would society look like if it was run by those with a high H index in academia? And what if we could also fix all the flaws in academia?
+https://youtu.be/slURwmgTZbc?t=270
+
+What if one of the measures of a society was how many people can fully comprehend and explain Goedel's incompleteness theorem?
+
+We have a popularity contest intertwined with idiocracy
+
+What if a society would consciously choose to have 10% of the airtime to be interviews of mathematicians and physicists talking about how they fell in love with science and explaining different aspects of it?
+
+A multi perspectival model of the world
+
+
+malevolence shouldn't be able to hide
+
+
+or imagine an ultra wealthy person being able to anonymously say what they think and prove that he has 10B$+ for example
+
+
+imagine when institutes & universities give attestations & credentials to their alumni and staff and we could have for the first time in history an anonymized account of what scientists want to express & convey to us - in aggregate!
+
+
+Empathy needs to be extended - the alternative is war and genocide
+
+
+Case study: the book “the elephant in the brain” doesn’t reveal much to psychologists but it is relevant to professionals in healthcare and other areas. But they ignore it because they bucket it as a psychology book. What if there was a way to simply show the relevance of the book to their field and what parts it touches/impacts?
+Lots of known things in one field get completely neglected in another field - even if highly relevant.
+
+
+what if people could score the open source work of others in terms of how hard it was and how valuable it was, and reward the contributors based on those metrics? If someone consistently says the work of others is bad or was easy he might not get his work scored high even if it deserves it if he has been a jerk
+
+
+
+
+the potential of liquid democracy is way beyond what Google used it for internally - voting for what kinds of snacks to have in the cafeteria and be dumbfounded on the low participation - well duuh - this is the most inconsequential thing ever
+
+
+
+Simplicity as a design goal - the sculpture that is refining itself from fat to thin
+
+Those in power are incapable of something better
+
+Tova e nova religiq
+
+Are napishi edna religiq
+
+a cult around reputation and accountability
+
+Sledvashtiq bitcoin e tova - edna nova religiq okolo reputaciqta
+
+TODO: spomni si purvona4alnite ti idei za browser plugin za fake news ili kakvoto beshe tam
+
+Nomer edno neshtoto koeto imame i trqbva da optimizirame e sposobnostite ni za vninanie
+
+typical neural networks encode patterns and knowledge - this "neural network" encodes competence and instead of distributed it follows a power law distribution in terms of contribution from each neuron
+
+this is not page rank - this is entity rank
+
+we can have a "request for labeling/annotating" signal
+
+concentrating the discussion and arguments/contention to a single place, annotation and linking to media pieces is separate
+
+defining "missions" for tasks that need completion - with requirements, prerequisites, topological sortition, impact analysis, etc.
+Missions - the building block of cooperation
+
+we need to get the expertise and thoughts of people out of their heads and/or scattered & fragmented media and fuse them and make them accessible & explorable in the global brain
+
+There’s effectively no international rules based order
+
+A global news feed for any topic
+
+how the saussage is made when it comes to legitimacy - full raceability & accountability/transparency
+
+
+
+What is tinder? More private chats and browsing. Case study: how to do tinder?
+
+What if every industry was regulating itself? Through transparency
+
+Every nation will be able to archive all data and not have to 100% trust a foreign AWS for example - there’s always a backup option to participate and be completely independent
+
+Anything you’d want to express - you’d be able to (in a way that matters) and have your input weighted based on your contributions
+
+We must eradicate media manipulation
+
+This is the logical addressing layer on top of the physical nature/layer of the internet - aka location in the real world (IP)
+
+Anybody should be able to explore the global opinion of what is meaningful in life - give filtration criteria - a PoV - and get their perspective
+
+Imagine how you would express yourself - “strong dislike” from the emotions menu, or “this should be top10 news for today” - specialized kinds of signals for most of the things we care about
+
+The global reputation arena - the global skill exhibition arena
+
+Describe a perfect world and ask “Why don’t we crowdsource what we want, and after that how do we think we could get it?”
+Civilisational relevance realisation
+
+We should all want a neutral rules-based global world order - one that is truly collective
+
+If we export the competence of people in a trust-building and quantifiable way, we will get the best people. And people should want to compete to be the best
+
+Its alignment all the way down
+
+
+When an AI becomes good enough at annotating content we could deprecate the humans from that job. We could also use zk-ml to prove that a particular model gave the specific output
+
+There’s no escaping status games - but we can culturally evolve our conception of status
+
+Status mobility supercharged - complementary to economic mobility
+
+- How much of our consumption is entirely driven by status games?
+- How much of the GDP comes from defense & war?
+- How much would the GDP shrink because of "health"care implosion if everyone was healthy? And wouldn't that lead to growth in other areas with all that human capital?
+- How much are people underdeveloped and undereducated?
+- How much human & natural resources are misdirected?
+
+How many of your claims have been overturned as a %? And what about with weights? A gauge for trustworthiness & competence 
+
+It will become a competitive advantage for firms to allow their employees to export their achievements and competence and take it with them elsewhere - no more hoarding of information which leads to epistemic asymmetries and more inequality
+
+This is the most literally empowering architecture - a great equalizer - perfect meritocracy/egalitarianism and yet Darwinian
+
+Meritocracy vs epistocracy?
+
+We need to harness the competence of everyone - we require transparency but we reward with a big carrot - the opportunity to earn legitimate and noble status
+
+Optimal common knowledge - only those that need to know about something know about it - perfect modulation of signal according to individual interests, as long as there’s no lying and manipulation, for which there are consequences
+
+What if, just what if, we made an incentive for transparency, competence, and accountability? What would a civilization emerging from that look like?
+
+We need an incentive to not want to harm others
+
+
+
+The less fragmented the info space - the more eyeballs on whatever is public and more common knowledge - making lying harder
+
+Open source corporations - with transparent democracy for any type of reward
+
+Competing hive minds and how they merge gradually and adopt the better parts of others and how they might branch off and merge again later
+
+Competing parallel media ecosystems also have parallel economies
+
+we can have AIs that do documentaries on any subject from multiple different points of view - perfect competition of partially overwrapping hiveminds
+
+Wealth inequality - besides the issues of inflation and lack of education around money and finance for the masses, what if we rewarded CEOs with status a lot more and much less with money? Even stock ownership in terms of options could be reduced a lot if the performance of their company under their rule mattered to their status, future employability and legacy? Instead of a claim over resources.
+
+Regulating the market - it comes down to additional layers of incentives and instead of leaving that to unelected and unaccountable bureaucrats we could crowdsource it
+
+This tweet should be replaced by a recommendation signal
+https://twitter.com/jim_rutt/status/1702678201544171997
+
+this is an incentive protocol that's the same on every level - global and local
+
+
+by expressing an argument that has never been expressed before is being the first to take a position on it and effectively announcing this new poll to the world with your action
+
+what if companies could strive towards the path of a 0 $ marketing budget, by following the requirements of the ecosystem - "if you do X and Y you'd get distribution & mindshare"
+
+journalists are jacks of all trades, masters of none - why do we listen so much to them and form our opinions on so many topics if we can instead extract & harness the understanding of the most capable within a field?
+
+what if there was a languge for expressing any idea uniquely, such that the discussion around it could be focused at a single point - removing confusion & optimizing information dissipation
+
+a structural upgrade - a step change in the ability of the superorganism to process information and introspect
+
+we can annotate the world and make it so that when entities from the real world want to take the voice of their representation - there's a way to redirect everything towards the same ID - a port of all previous data links to point to an account (previously it was a URI element created by someone else)
+
+We need to view this problem through a systems lens
+
+Not an app. Not a platform. Not a protocol. A complex adaptive ecosystem
+
+the goal of this project is to be something that anyone should want and should cheer it to succeed - & funding it eagerly
+
+the world we live in is the result of incentives. Change the incentives (aka bribe their cooperation and coordination and transparency with your attention - guaranteed business) - change the system within the lifecycle of a generation.
+
+define a game nobody could object to. a science-based cult with built-in error correction and a drive for self-improvement. The next religions will be those of self-manifesting incentive designs and this is the first of them.
+
+the real singularity is the shift to perfectly aligned incentives - after which all bets are off for what our civilization could achieve
+
+as soon as some aspect that's been put to a vote changes suddenly in a drastic way one way or another - we could simply look at the top trending topics at that time to quickly gauge what this thing is all about
+
+we need to build incentives for our own media system which disincentivizes lying and bribe a portion of the population to self-organize into the best at labeling certain kinds of data correctly
+
+reducing the problem to a single place where it is discussed, but all other discussions simply point to it. every event/concept/data can be discussed and anywhere it is being mentioned - the epicenter of the discussion around it will be linked to - to browse through different viewpoints
+
+self-manifesting error correction
+
+an inverted panopticon
+a reversed panopticon
+
+at one layer of voting, we vote for which data/signal needs the most to be annotated propositionally - separately from the layer that does the actual work... what? :D
+
+every conceivable question that makes sense should be expressable through a canonical form and be given a unique ID for reference
+
+a system for stacking & compounding layers of transparent sensemaking
+
+for anyone paying attention - there has been so much media bias against a company like Tesla since the start - egregious lying - as long as a civilization we have an incentive & media system that produces that we fail to get the best of the next generation and play most zero-sum games instead of striving towards optimality & cooperation
+
+if you stubmle upon something which should obviously be tried because everyone wins if it works and the first to back it stand to profit - if you stumble upon such a thing - you try to make it work.
+
+
+
+
+
+
+
+
+
+> "It's a damn shame that a society be structured such that an approach with honesty and good faith is a sucker strategy." - [Jim Rutt on the Village Global podcast about Game B, at 0:05:24](https://open.spotify.com/episode/68kN2CDBR7RHjktHCtOf20)
+
+
+
 This is what the human spirit is capable of - self immolating vietnamese monk
 https://upload.wikimedia.org/wikipedia/commons/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg
 https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-1686419067476.png?fm=png&auto=format
