@@ -216,6 +216,8 @@ The less fragmented the info space - the more eyeballs on whatever is public and
 Open source corporations - with transparent democracy for any type of reward
 
 Competing hive minds and how they merge gradually and adopt the better parts of others and how they might branch off and merge again later
+Competing egregores
+https://theosophy.wiki/en/Egregore
 
 Competing parallel media ecosystems also have parallel economies
 
@@ -276,11 +278,33 @@ for anyone paying attention - there has been so much media bias against a compan
 
 if you stubmle upon something which should obviously be tried because everyone wins if it works and the first to back it stand to profit - if you stumble upon such a thing - you try to make it work.
 
+How do we go from "Ice bucket challenge" => to "global calculate-your-carbon-footprint challenge" or "measure your trash in 1 week challenge" or "learn how X works challenge"
 
+compound interest => compound legitimacy
 
+carrot & stick => this model vs the China model
 
+> "Humans and their livestock represent 96% of all mammals on earth in terms of biomass, whereas all wild mammals represent only 4%." - [Wikipedia article on Biomass](https://en.wikipedia.org/wiki/Biomass_(ecology)#:~:text=Humans%20and%20their%20livestock%20represent%2096%25%20of%20all%20mammals%20on%20earth%20in%20terms%20of%20biomass%2C%20whereas%20all%20wild%20mammals%20represent%20only%204%25.)
+^^ just think a bit about that. Think about overfishing. Think about all the ways it could go wrong. And if you can't think about that - you should be able to explore what others have thought about it.
 
+the world as it is vs the world as we'd like it to be
 
+case study: the Oscars redone through this multi-perspective system
+
+what if we mapped what we should care for if we care about our children?
+
+information isn't equal - it needs to be weighted
+
+meme: why can't you be normal?
+what is normal? corruption? kleptocracy? popularity contests every 4 years, multipolar traps, war? we need a system reboot now!
+
+Run PageRank on the data => EventRank!
+
+gradually scaling/colling out annotation communities & developing/evolving best practices cookbooks/guides
+
+"CLICK TO EXPAND FOR MORE QUOTES SUPPORTING THIS THESIS"
+
+for stupid claims like "Elon could have solved world hunger with 5 billion $" - if it's too hard to put into an ontology we could simply let ppl vote on the stupidity of it
 
 
 
@@ -304,6 +328,10 @@ https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-16864190
 
 
 
+> "We live in media, as fish live in water." - [Ted Nelson](https://www.azquotes.com/quote/1405368)
+
+
+
 > "We’re here to put a dent in the universe. Otherwise why else even be here?" - [Steve Jobs](https://www.goodreads.com/quotes/950437-we-re-here-to-put-a-dent-in-the-universe-otherwise)
 
 > "A lot of people in our industry haven't had very diverse experiences. So they don't have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one's understanding of the human experience, the better design we will have." - [Steve Jobs](https://www.goodreads.com/quotes/634056-a-lot-of-people-in-our-industry-haven-t-had-very)
@@ -311,6 +339,28 @@ https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-16864190
 > "Why join the navy if you can be a pirate?" - [Steve Jobs](https://www.goodreads.com/quotes/513460-why-join-the-navy-if-you-can-be-a-pirate)
 
 > "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." - [Steve Jobs](https://www.goodreads.com/quotes/924-here-s-to-the-crazy-ones-the-misfits-the-rebels-the)
+
+
+
+
+
+> "Some might say: ‘Fragmentation of cities, religions, political systems, conflict in the form of wars, general violence, fratricide, etc., are the reality. Wholeness is only an ideal, toward which we should perhaps strive.’ But this is not what is being said here. Rather, what should be said is that wholeness is what is real, and that fragmentation is the response of this whole to man’s action, guided by illusory perception, which is shaped by fragmentary thought." - [David Bohm](https://www.goodreads.com/quotes/6869447-some-might-say-fragmentation-of-cities-religions-political-systems-conflict)
+
+> "The notion of a separate organism is clearly an abstraction, as is also its boundary. Underlying all this is unbroken wholeness even though our civilization has developed in such a way as to strongly emphasize the separation into parts." - [David Bohm](https://www.goodreads.com/quotes/843293-the-notion-of-a-separate-organism-is-clearly-an-abstraction)
+
+> "In the long run it is far more dangerous to adhere to illusion than to face what the actual fact is." - [David Bohm](https://www.goodreads.com/quotes/8210818-in-the-long-run-it-is-far-more-dangerous-to)
+
+> "The notion that all these fragments are separately existent is evidently an illusion, and this illusion cannot do other than lead to endless conflict and confusion." - [David Bohm](https://www.goodreads.com/quotes/6869344-the-notion-that-all-these-fragments-are-separately-existent-is)
+
+> "Indeed, the attempt to live according to the notion that the fragments are really separate is, in essence, what has led to the growing series of extremely urgent crises that is confronting us today. Thus, as is now well known, this way of life has brought about pollution, destruction of the balance of nature, over-population, world-wide economic and political disorder, and the creation of an overall environment that is neither physically nor mentally healthy for most of the people who have to live in it." - [David Bohm](https://www.goodreads.com/quotes/6869346-indeed-the-attempt-to-live-according-to-the-notion-that)
+
+> "So what is needed is for man to give attention to his habit of fragmentary thought, to be aware of it, and thus bring it to an end. Man’s approach to reality may then be whole, and so the response will be whole." - [David Bohm](https://www.goodreads.com/quotes/6869445-so-what-is-needed-is-for-man-to-give-attention)
+
+> "Relativity and quantum theory agree, in that they both imply the need to look on the world as an undivided whole, in which all parts of the universe, including the observer and his instruments, merge and unite in one totality. In this totality, the atomistic form of insight is a simplification and an abstraction, valid only in some limited context." - [David Bohm](https://www.goodreads.com/quotes/6869463-relativity-and-quantum-theory-agree-in-that-they-both-imply)
+
+> "Perhaps because we have at present no coherent world view, there is a widespread tendency to ignore the psychological and social importance of such questions almost altogether." - [David Bohm](https://www.goodreads.com/quotes/6867921-perhaps-because-we-have-at-present-no-coherent-world-view)
+
+> "Deep down the consciousness of mankind is one. This is a virtual certainty because even in the vacuum matter is one; and if we don't see this, it's because we are blinding ourselves to it." - [David Bohm](https://www.azquotes.com/quote/1324965)
 
 
 
@@ -1151,12 +1201,11 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 > "As much as a lot of people think that we're too aware of our problems and we just need to focus on solutions - I actually think that it's a very deep misunderstanding of the real nature of our problems - that is one of the keys. People think the problem is climate change or the problem is systemic racism or whatever the thing is that they're focused on, but what are the generative dynamics that give rise to it and how is it interconnected with the other issues in the world where if you try to change it in a particular way it will externalize harm elsewhere and or fail? So the problem isn't climate change or U.S. China relationships or GDP or it's how all those things fit together and the system incentives of the underlying systems." - [Daniel Schmachtenberger](https://youtu.be/JBU06Wswc7c?t=1267)
 
+> "Think about the scale of the market for a minute - you have something like a 100 trillion dollars exchange hands every day and as has been made clear, all of that involves energy that is involving mining and fracking and extraction and pollution on the other side. Even the services sector depend upon products so all of it has a materials footprint. It all requires central banks, it all requires militaries - nobody gets to make money in that contract hold without the military that holds the monopolies of violence and everything in place that keeps that economic system going. So all of those dollars - the taxes - they pay and whatever are supporting that whole system. So Norrsken is one of the probably larger impact companies around and if you have whatever - a few hundred million dollars to invest - and we're talking about a 100 trillion dollars a day of activity that is right up at planetary boundaries and at the verticalizing part of the exponential tech curve - how do you leverage any activity to be able to affect 100 trillion dollars a day no longer being harm externalizing? That's a question we have to take really seriously. But so that's the size of the economy today and it's obviously growing exponentially just to keep up with interest and if we didn't grow exponential you wouldn't keep up with interest the financial system as we know it would collapse. So we have a financial system - how we meet our basic needs depends upon - that is so obviously incompatible with the biosphere - what the fuck we did - it was so ridiculous. But so what is the market? Think of it as: money is a kind of token for value, it's a kind of token for game theoretic optionality where it has no intrinsic value but it has a maximum optionality to get me any type of value I want - I can get militaries with it, I can get media influence, I can change people's minds, I can get materials, and because I don't know how the environment is going to change - the speed of adaptive response is the most important thing - the [OODA loop](https://en.wikipedia.org/wiki/OODA_loop) - the speed at which I can respond to the environment - so I don't want a lot of materials that might become less useful, I want a lot of optionality to have whatever I want. So if you think of money as a proxy for value, but only value that is measurable, extractable, and exchangeable - and all the types of value that on your deathbed you'll really care about are not measurable extractable and exchangeable - we'll destroy all those types of value in the pursuit of these types and we have to because they are. So now think about that as a decentralized incentive system that is incenting all the 8 billion humans to figure out how to get it because everything else they want requires it and everything they need to exist requires it - the countries relative to each other, the companies relative to each other, the people relative to each other, and so it incents them to innovate and it incents them to act on existing innovation - so search algorithms and optimization algorithms. So you can think of the global market as something like an AI in an intelligent system that is running parallel process on human compute - on human beings - and you know how radically powerful parallel process in the cloud is - being able to run a lot of parallel process on computers did a lot more than centralized supercomputers could do - so this is running parallel process on 8 billion human beings and the clusters of corporations and countries and whatever to incentivize them all to search new ways to make money and to optimize on existing ways and whoever gets good at that system gets more power in it and in turn lobbies and changes laws and changes cultural values of the media they create and whatever that makes a system better for them, and anyone that opposes that system is also opposing those who are doing well at it so that there is agency to suppress that. So the you can think of the global market as a misaligned super intelligence that is already misaligned with planetary well-being in humans that is running on all the humans while also running all the humans that also uses all the compute and all the other technology and that is building all of the narrow AIs in its own service. We said that most of the Nazis weren't Hitler. So the Hitler we're all in relationship to today is this thing - we can call it Moloch, you can call it the superorganism, you can call it the mega machine and that thing has to die. That thing has to die or the biosphere will die. But it's not actually animate - it is running on and made up of human action. So thinking about what would it take to - it has to die and/or be converted to something that it is not." - [Daniel Schmachtenberger](https://youtu.be/4kBoLVvoqVY?t=1614)
 
+> "What would it mean for our species to be wise enough to steward that power safely? What kind of civilization? What kind of economic system? What kind of governance system? What kind of education system? What kind of religious systems of conditioning the sacred and meaning are necessary to be able to steward the power of synthetic biology and artificial intelligence and nuclear tech and globalized supply chain industrial Tech to steward that safely? That's the long-term work." - [Daniel Schmachtenberger](https://youtu.be/4kBoLVvoqVY?t=2534)
 
-
-
-
-
+> "Don't act out of anger, depression, and fear - act out of that sense of the Sacred and that you are in service to a life that is beautiful, to a life with a capital L, to a world that is beautiful, and that you're at a time when there is a higher possible consequence of your action than there has ever been for humans, and there is an obligation in that, and there is a meaningfulness in that, that you don't want to waste." - [Daniel Schmachtenberger](https://youtu.be/4kBoLVvoqVY?t=2838)
 
 > "When you say casually "I don't know what I'm seeing" - you don't mean that there are no words in your head to describe it, you mean you literally can't make sense of what you're seeing. So sense making goes beyond words - it goes to like things like pattern recognition, it goes to a literal gut feeling of confusion or clarity, and so on. These are very basic human experiences and the scaling of these basic human experiences is what helps you produce a dynamic coherence to society. So a society that has sense making does not need to just you know follow the leader's gut feeling - it in fact has something of a shared correctly constructed gut feeling versus one that is to a significant extent very chaotic, oppositional, no premise is followed up by a conclusion, no incorrect premise is ever disproven, you say A on monday - B on tuesday, A is more viral, the virality is rewarded - not the correctness. That's the problem. If you wish to have a somewhat free society the sense making has to be participatory, which means that different levels of society can correct each other, different centers of society can correct each other, and they're even able to find this like commonality of speech and so on. Then there's the question of meaning - how do we evaluate things, do we find meaning in them or do we not find meaning in them, what is motivating us even? The sense of enemy often comes with not just a loss of sense making - there are many people in fact who have fairly coherent world views, they even share these worldviews with others but they're fundamentally depressed, and one of the reasons they're often fundamentally depressed is because of the question "So what?" - you said how it is, tell me how it should be. Or rather "I know how it is but I don't know how it should be". And then finally there's the question of choice making and how are decisions between different possible futures made - again both for individuals and society as a whole. The sort of simple solution is that you have a single center that tries to make decisions. The other alternative is sort of anarchy - there are no real decisions made anywhere, and the ideal coherence is that society builds these decisions together through something like a discourse, something like a deliberative process, where deliberative doesn't just merely mean voting - it goes much beyond voting - it is the shared building of the model of the world and the "what about it" & "so what do we do about it" and finally the details of the implementation." - [Samo Burja](https://youtu.be/bHCg8bhtbqs?t=1530)
 
