@@ -188,7 +188,7 @@ The argument that specialized message types are unnecessary because AI will even
 
 aseem malhotra - statins overperscribed and how were the original studies carried out in terms of excluding those with side effects and what the actual efficacy really is
 
-ancel keys
+how inefficient is reading papers? aren't they bloated in some respects? couldn't we express ideas as linked graphs so that the "reader" (explorer) could choose which nodes to inspect - without having to go through paragraphs ot text because they can't easily navigate to the novel parts in the big wall of text
 
 academia resembles feudalism
 
