@@ -22,6 +22,23 @@
 
 
 
+
+
+
+
+
+> "Life is either a reproducible, almost commonplace manifestation of matter, given certain conditions, or a miracle. Too many steps are involved to allow for something in between." - [Christian de Duve](https://www.goodreads.com/quotes/263446-life-is-either-a-reproducible-almost-commonplace-manifestation-of-matter), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
+> "Natural selection, this all-powerful driving force of biological evolution, has privileged in our genes traits that were immediately favorable to the survival and proliferation of our ancestors, under the conditions that prevailed there and then, with no regard for later consequences. This is intrinsic to the process of natural selection, which sees only the immediate present and does not foresee the future." - [Christian de Duve](https://www.goodreads.com/quotes/9467469-natural-selection-this-all-powerful-driving-force-of-biological-evolution-has), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
+> "We enjoy the unique faculty of being able to act against natural selection. The problem is that, in order to do this, we must actively oppose some of our key genetic traits, surmount our own nature." - [Christian de Duve](https://www.goodreads.com/quotes/9467477-we-enjoy-the-unique-faculty-of-being-able-to-act), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
+> "Focusing on the process of natural selection, de Duve explores the inordinate and now dangerous rise of humankind.  His explanation for this self-defeating success lies in the process of natural selection, which favors traits that are immediately useful, regardless of later consequences. Thus, the human genome determines such properties as tribal and group cohesion and collaboration and often fierce and irrational competition with and hostility toward other groups’ attributes that were once useful but now often ruinously dysfunctional. Christian de Duve suggests that these traits, imprinted into human nature by natural selection, may have been recognized by the writers of Genesis, thus inspiring the myth of original sin." - [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
+
+
+
+
 > "When widespread internet access broke down our sense of a collective reality, what it was toppling was not the legacy of the Enlightenment, but instead an approximately 100-year bubble in media centralization." - [The Politics of Epistemic Fragmentation](https://modernmythology.net/the-politics-of-epistemic-fragmentation-175d6bbb98a4#:~:text=When%20widespread%20internet%20access%20broke%20down%20our%20sense%20of%20a%20collective%20reality%2C%20what%20it%20was%20toppling%20was%20not%20the%20legacy%20of%20the%20Enlightenment%2C%20but%20instead%20an%20approximately%20100%2Dyear%20bubble%20in%20media%20centralization.)
 
 
@@ -44,6 +61,22 @@
 > "The emergence of a fundamentally new information medium and energy structure could suggest the beginnings of a metasystem transition towards a higher level of control. If true the first half of the twenty-first century could be characterized by a fundamental disruption to the operations of the nation-state and the stabilization of new higher forms of human organization. What we can learn from previous human metasystem transitions is that new controls will likely be organized utilizing the highest emergent information medium (in this case, the Internet as medium should play a crucial organizing role)." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
 
 > "The fourth human metasystem would allow us to enter a world as different from the industrial world as the industrial world is from the agricultural world, or as different from the agricultural world as the latter was from the hunting world. But to enter such a world would be to challenge and successfully replace, fundamentally, the current structure of our world. Such a transition would be unprecedented, although the idea of higher global integration has a long and complex history." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
+
+
+
+> "When designed to present both supporting and opposing evidence and arguments for each issue, apply [conflict resolution](https://en.wikipedia.org/wiki/Conflict_resolution) and [Cost–benefit analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) techniques, and actively address [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) and other [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias), E-Democracy could potentially foster a more informed citizenry. However, the development of such a system poses significant challenges. These include designing sophisticated platforms to achieve these aims, navigating the dynamics of populism while acknowledging that not everyone has the time or resources for full-time policy analysis and debate, promoting inclusive participation, and addressing cybersecurity and privacy concerns. Despite these hurdles, some envision e-democracy as a potential facilitator of more participatory governance, a countermeasure to excessive partisan dogmatism, a problem-solving tool, a means for evaluating the validity of pro/con arguments, and a method for balancing power distribution within society." - [E-democracy](https://en.wikipedia.org/wiki/E-democracy#:~:text=When%20designed%20to,distribution%20within%20society.)
+
+
+
+> "The game B synthesis at its deepest is if you're not constraining a society in relationships and obligations and trustworthy people and you've undermined the concept of virtue ethics - of course game theory is going to run amok and what is late game A but game theory run extensively amok." - [Jim Rutt](https://youtu.be/vUwlp6R57p0?t=1259)
+
+
+
+
+> "We argue that human agents learn the shared habits, norms, and expectations of their culture through immersive participation in patterned cultural practices that selectively pattern attention and behaviour. We call this process “thinking through other minds” (TTOM) – in effect, the process of inferring other agents’ expectations about the world and how to behave in social context. We argue that for humans, information from and about other people's expectations constitutes the primary domain of statistical regularities that humans leverage to predict and organize behaviour." - [Thinking through other minds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/thinking-through-other-minds-a-variational-approach-to-cognition-and-culture/9A10399BA85F428D5943DD847092C14A#:~:text=We%20argue%20that,and%20organize%20behaviour.)
+
+> "The popular phrase "What Would Jesus Do" (WWJD) serves as a moral compass for many Christians in the form of a reminder to consider what Jesus might do in a given situation when making moral decisions. The devout Christian who thinks "What Would Jesus Do?" before making a choice has constructed an internal model of Jesus and he has become an agent with causal power inside that person's cognitive system. This mental model is constructed from the information, stories, and teachings found in the Bible and are influenced by an individual's personal beliefs and interpretation of that text." - [Bobby Azarian](https://roadtoomega.substack.com/p/introducing-neuromancy-enhancing#:~:text=The%20popular%20phrase,of%20that%20text.)
+
 
 
 
@@ -70,6 +103,8 @@ this architecture for reputation and competence can be used by nations, by corpo
 it is necessary for humanity to realize the necessity of weeding out all corruption - perhaps the singularity is when a species collectively realizes the importance of cooperation and reorienting everything fundamentally on that principle - leading to the next higher level of complexification
 
 The civilizational singularity/step function is when the complete reorientation over the principle of consequence capture occurs
+
+we can independently assess other models & egregores for their competency - based on our own assumptions and presuppositions
 
 completely trustless is counterproductive (truly crypto-native protocols) - we simply need better trust - a transparency and reputation system - a new game
 
@@ -1844,12 +1879,6 @@ https://www.youtube.com/watch?v=eh7qvXfGQho
 
 
 > "There’s sort of a collective AI in Google Search, where we’re all sort of plugged in like nodes on the network; like leaves on a big tree. And we’re all feeding this network with our questions and answers. We’re all collectively programming the AI. And Google, plus all the humans that connect to it, are one giant cybernetic collective. This is also true of Facebook and Twitter and Instagram, and all these social networks. They’re giant cybernetic collectives." - [Elon Musk](https://www.organism.earth/library/document/human-civilization-and-ai#:~:text=there%E2%80%99s%20sort%20of,giant%20cybernetic%20collectives.)
-
-> "" - [Elon Musk]()
-
-> "" - [Elon Musk]()
-
-> "" - [Elon Musk]()
 
 
 
