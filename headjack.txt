@@ -325,6 +325,8 @@ compound interest => compound legitimacy
 
 carrot & stick => this model vs the China model
 
+division of labor - incentive for this, incentive for that, different specialization verticals
+
 > "Humans and their livestock represent 96% of all mammals on earth in terms of biomass, whereas all wild mammals represent only 4%." - [Wikipedia article on Biomass](https://en.wikipedia.org/wiki/Biomass_(ecology)#:~:text=Humans%20and%20their%20livestock%20represent%2096%25%20of%20all%20mammals%20on%20earth%20in%20terms%20of%20biomass%2C%20whereas%20all%20wild%20mammals%20represent%20only%204%25.)
 ^^ just think a bit about that. Think about overfishing. Think about all the ways it could go wrong. And if you can't think about that - you should be able to explore what others have thought about it.
 
@@ -384,7 +386,16 @@ recursive self-reflection requires that any concept/entity/event has a single en
 
 we need to give executive power to that which is most competent, visionary, all-loving, accountable and transparent - simple as that. we need an incentive system for that
 
+“Program or be programmed” - why programming needs to be fully transparent and participatory
 
+A more human-aligned media landscape where a parallel economy will evolve
+
+There is game theory to joining the network as a nation first - because you could earn the most trust and have more dealings as a result
+
+This coordination infrastructure can be reused for corporations or any kind of human organization - for domain-specific wikis and governance and reputation and dispute resolution and tracking of contribution
+We can make a market where a 10x developer gets 10x the reward
+
+Let's solve every problem just once - like open source
 
 
 
@@ -539,10 +550,6 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 > "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
 
 > "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
-
-
-
-
 
 
 
