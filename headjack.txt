@@ -20,6 +20,36 @@
 
 
 
+> "In the end, we self-perceiving, self-inventing, locked-in mirages are little miracles of self-reference." - [Douglas Hofstadter](https://www.goodreads.com/quotes/229730-in-the-end-we-self-perceiving-self-inventing-locked-in-mirages-are-little)
+
+
+
+> "I Am a Strange Loop argues that the key to understanding selves and consciousness is the “strange loop”—a special kind of abstract feedback loop inhabiting our brains." - [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop#:~:text=I%20Am%20a%20Strange%20Loop%20argues%20that%20the%20key%20to%20understanding%20selves%20and%20consciousness%20is%20the%20%E2%80%9Cstrange%20loop%E2%80%9D%E2%80%94a%20special%20kind%20of%20abstract%20feedback%20loop%20inhabiting%20our%20brains.)
+
+^^ What is our societal (OODA) loop?
+
+
+
+
+> "Some of us, perhaps all of us, believe that it is legitimate to kill enemy soldiers in a war, as if war were a special circumstance that shrinks the sizes of enemy souls." - [Douglas Hofstadter](https://www.goodreads.com/quotes/830578-some-of-us-perhaps-all-of-us-believe-that-it)
+
+> "For now, what is important is not finding the answer, but looking for it." - [Douglas Hofstadter](https://www.goodreads.com/quotes/9315515-for-now-what-is-important-is-not-finding-the-answer)
+
+> "Deep understanding of causality sometimes requires the understanding of very large patterns and their abstract relationships and interactions, not just the understanding of microscopic objects interacting in microscopic time intervals." - [Douglas Hofstadter](https://www.goodreads.com/quotes/6879066-deep-understanding-of-causality-sometimes-requires-the-understanding-of-very)
+
+> "I personally cannot imagine that consciousness will be fully understood without reference to Godelian loops or level-crossing feedback loops." - [Douglas Hofstadter](https://www.goodreads.com/quotes/9682972-i-personally-cannot-imagine-that-consciousness-will-be-fully-understood)
+
+> "Irrationality is the square root of all evil." - [Douglas Hofstadter](https://www.goodreads.com/quotes/8921697-irrationality-is-the-square-root-of-all-evil)
+
+> "Where there's a pattern, there's a reason." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11528303-where-there-s-a-pattern-there-s-a-reason)
+
+> "In short, there are surprising new structures that looping gives rise to that constitute a new level of reality that could in principle be deduced from the basic loop and its detailed properties, but that in practice have a different kind of “life of their own” and that demand — at least when it comes to extremely finite, simplicity-seeking, pattern-loving creatures like us — a new vocabulary and a new level of description that transcend the basic level out of which they emerge." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11734614-in-short-there-are-surprising-new-structures-that-looping-gives)
+
+> "In the world of living things, the magic threshold of representational universality is crossed whenever a system’s repertoire of symbols becomes extensible without any obvious limit. This threshold was crossed on the species level somewhere along the way from earlier primates to ourselves." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11737266-in-the-world-of-living-things-the-magic-threshold-of)
+
+
+
+
 
 > "If you actually wire up a system where you’ve got highly distributed capacities to allow people to use their local sense-making, and the choices that they make appropriately, skin in the game, send the signal out to the rest of the environment and actually prepare the actual infrastructure in a heterogeneous way, and then you’ve also built the mechanisms of being able to take early prototypes and scale the learnings of those prototype systems quite quickly, then you have a response infrastructure that can handle both rapid and complex and subtle systems dynamics." - [Jordan Hall](https://youtu.be/dE_orUarO_s?t=590)
 
