@@ -3,16 +3,16 @@
 
 The 10 themes of the Global Brain:
 
-- EPISTEMICS -   error correction & Bayesian inference
-- OWNERSHIP -      transparency, openness & provenance
-- STRUCTURE -   self-organization, emergence, subsidiarity
-- ALIGNMENT -  incentives, reputation & consequence capture
-- DECISIONS - relevance realization & collective intelligence
-- ATTENTION - availability cascades, The Medium is the Message
-- DYNAMICS - complexity, feedback & Universal Darwinism
-- MEANING - shared intentionality, coherence & defeating entropy
-- DIRECTION - greater scales of cooperation & evolvability
-- TRANSCENDENCE - conscious evolution & evolutionary psychology
+- 1) EPISTEMICS -   error correction & Bayesian inference
+- 2) OWNERSHIP -      transparency, openness & provenance
+- 3) STRUCTURE -   self-organization, emergence, subsidiarity
+- 4) ALIGNMENT -  incentives, reputation & consequence capture
+- 5) DECISIONS - relevance realization & collective intelligence
+- 6) ATTENTION - availability cascades, The Medium is the Message
+- 7) SYSTEMICS - complexity, feedback & Universal Darwinism
+- 8) MEANING - shared intentionality, coherence & defeating entropy
+- 9) DIRECTION - greater scales of cooperation & evolvability
+- 10) TRANSCENDENCE - conscious evolution & evolutionary psychology
 
 persuasion
 
