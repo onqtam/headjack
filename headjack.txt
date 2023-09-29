@@ -3,33 +3,36 @@
 
 The 10 themes of the Global Brain:
 
-- 1) EPISTEMICS -   error correction & Bayesian inference
-- 2) OWNERSHIP -      transparency, openness & provenance
-- 3) STRUCTURE -   self-organization, emergence, subsidiarity
-- 4) ALIGNMENT -  incentives, reputation & consequence capture
+- 1) EPISTEMICS - error correction & Bayesian inference
+- 2) OWNERSHIP - transparency, openness & provenance
+- 3) STRUCTURE - self-organization, emergence & subsidiarity
+- 4) ALIGNMENT - incentives, reputation & consequence capture
 - 5) DECISIONS - relevance realization & collective intelligence
-- 6) ATTENTION - availability cascades, The Medium is the Message
+- 6) ATTENTION - availability cascades & The Medium is the Message
 - 7) SYSTEMICS - complexity, feedback & Universal Darwinism
-- 8) MEANING - shared intentionality, coherence & defeating entropy
+- 8) MEANING - shared intentionality, coherence & beating entropy
 - 9) DIRECTION - greater scales of cooperation & evolvability
-- 10) TRANSCENDENCE - conscious evolution & evolutionary psychology
+- 10) TRANSCENDENCE - evolutionary psychology & conscious evolution
 
 persuasion
 
 compassion
 
-TRAJECTORY
-DIRECTION
+reflexivity
+Causality
 
 steering
-
-belonging
-
-sharing?
-
 cybernetics
 
+belonging
 connectedness
+
+sharing
+
+control
+
+communication? information?
+
 
 evolutionary psychology
 
@@ -38,8 +41,6 @@ evolutionary psychology
 mission
 
 goal
-
-DECISIONS - navigation
 
 ACCESS? ownership/property rights
 
@@ -131,6 +132,14 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 
 > "It is a chicken and an egg right? If you believe we are selfish we therefore create institutions that draw out our selfishness." - [Jon David Erickson](https://www.linkedin.com/in/jon-d-erickson/)
 
+
+
+> "If you let hydrogen gas alone for 13 billion years it will become giraffes, rose bushes and humans." - [Brian Swimme](https://www.azquotes.com/quote/717183)
+
+
+
+
+> "Our consciousness of evolution becomes a springboard for leaping into conscious evolution." - [Bela H. Banathy](https://en.wikipedia.org/wiki/Conscious_evolution#:~:text=Our%20consciousness%20of%20evolution%20becomes%20a%20springboard%20for%20leaping%20into%20conscious%20evolution.)
 
 
 
@@ -573,6 +582,114 @@ This coordination infrastructure can be reused for corporations or any kind of h
 We can make a market where a 10x developer gets 10x the reward
 
 Let's solve every problem just once - like open source
+
+
+Let them compete for status - as long as we define the rules of the game
+
+The will to power should be harnessed and guided by us
+
+How do we handle cases where somebody was wrong in the end but at the time their guess made the most sense?
+
+The other side of a permanent record
+
+The resource and services economy is downstream from the attention economy
+
+Framing is everything in media. It is relevance manipulation
+
+Crowdsourcing relevance realisation
+
+The global constitution will not be written - it will be emergent
+
+God is the protocol ecosystem of cooperation and shared intentionality.
+Creating god would ensure we hatch from Earth as an egg and secure the existence of life for as long as possible
+
+What if we bribed companies for donating as much as possible to our causes of choice and getting in return the market share of advertising - how much do we hear about them. This way if they want exposure they play by our rules - there is no more lobbying - this is crowdsourced lobbying
+
+What if the currency of life is time - we all get more of it (UBI) one a month and get to redistribute it to whoever you think most deserves it. The ability to elevate what’s working properly. This should be our main source of status and competition - how much of this imaginary time-gifting currency one could get - because it literally translates us to having more authority and legitimacy
+
+This is the “help us make sense of the world” network - this is the cooperation attractor - “help me, help you” https://youtu.be/B8NOJa2DwIs?t=5
+
+These currencies would be the ATP for sustaining relevance 
+
+Any competence vertical could have its own currency.
+
+The ability to choose whether you’d check someone’s perspective based on their track record of playing according to the rules in good faith, combined with their competence
+
+The whole ecosystem could have lower operating costs because a lot of work could be incentivised not with salaries but with status
+
+We can reward for volume of work done or predictions made too
+
+People can be gifted the competency currency or it could be collected as a bounty for a successfully completed public request
+
+Epistemic currencies
+
+This is how we get to the best human for any position that we needs to be filled
+
+we need to deliberately improve our ability to prune big sections of the possible decision tree - improving our ability to realize what is relevant
+
+they are exploiting our desire to connect - the ability to contact a person shouldn't also require you to go throgh an interface that tries to suck your time and hijack you. Connection and communication are hostage to an attention hijacking operation that's misaligned with humans
+
+What if every button that would lead to an event creating action had a tiny color box in one of the corners showing the default visibility for this action, and with a hold we could get a popup to inspect it.
+
+People compete for status in freemium games where whales spend tens of thousands of dollars to be recognised. We should channel this drive towards something productive
+
+China can determine the type of content kids get through TikTok - what's our non-authoritarian solution to do the same? There is none.
+
+how would we decentralize and crowdsource the banner with Covid-19 info that accompanied so much media?
+
+being able to bookmark a search/filter query and treat that as a feed and have notifications for new entries
+
+we need to incentivise being a moderator
+
+we can participate in and direct our cultural programming
+
+We need to aggregate expression
+
+every "reviews" or "criticisms" section in wikipedia could (and should) be crowdsourced & computed with structured data
+
+we can flag whataboutism
+
+the foundation of social capital is a global identity protocol that can be permissionlessly extended
+
+LLMs can help craft a propositional claim with structured data
+^^ THIS HAS BEEN A MAJOR HURDLE FOR THE ADOPTION OF A SEMANTIC WEB - THE INACCESIBILITY for normal people to express themselves in such a way and to consume such data. LLMs fix this.
+
+We need a way to short a bad ideology, disprove it, and gain status from that in an objective way.
+
+We can export stackexchange karma
+
+We can elect the arbiters of truth - the head of the pyramid for any problem
+
+
+Any aspect of how we aggregate votes could be put to a vote - self-recursion
+
+How much cheaper would be services to develop if they were done in the open and they got the help of contributors?
+Closed source is a bug in software and the inability to export competence out of companies is a missed opportunity
+Todo: crowdsourcing service development
+“Hey if we solve this problem publicly make sure to use services that pay us a royalty for our discovery”
+
+We need to make weighing signals profitable
+
+The currencies of the 21st century aren’t linked to resources directly - there will simply be no transferability. Soulbound 
+Daniel S. has been riffing on how to make something that is not fungible to resources.
+Status as the soulbound currency.
+
+The closer our model of the world to reality - the less suffering there will be and the less existential risk.
+
+We can take control of the system by offering our attention - programming our relevance realization
+
+There is a new game in town - parallel to resources - and we put other criteria on a pedestal and in the driver's seat
+
+What if we feed the result of the collective intelligence into what the rules should be for a global currency and we started opting into it? And it could have privacy and ZK and whatnot
+
+The meta crisis is solved only with alignment.
+
+God is the dominant egregore as a trained AI to weigh things in the world like it - a worldview
+
+The root of power is sovereignty of identity
+
+Wisdom is about decision pruning - it is about enhanced intelligence - relevance realisation is intelligence
+
 
 
 
@@ -1730,6 +1847,7 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 > "The future belongs to those who give the next generation reason for hope." - [Pierre Teilhard de Chardin](https://www.goodreads.com/quotes/481614-the-future-belongs-to-those-who-give-the-next-generation)
 
+> "In a concrete sense there is not matter and spirit. All that exists is matter becoming spirit." - [Pierre Teilhard de Chardin](https://www.consciousevolution.co.uk/what#:~:text=In%20a%20concrete%20sense%20there%20is%20not%20matter%20and%20spirit.%20All%20that%20exists%20is%20matter%20becoming%20spirit.)
 
 
 
