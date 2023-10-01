@@ -125,19 +125,111 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 
 
 
-> "" - [You’re a Neuron, by Tomas Pueyo]()
+> "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
 
-> "" - [You’re a Neuron, by Tomas Pueyo]()
+https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F784da033-0b6c-4f65-a420-7cf490e68d3c_1078x818.png
 
-> "" - [You’re a Neuron, by Tomas Pueyo]()
+> "Some edges (connections between nodes, between neurons, between you and other people) are stronger than others, like the people you follow more closely and with whom you exchange the longest posts. Others are weaker, like the person that appears on your feed every now to post a vacation picture you end up “liking”. Some neurons are more broadcasters: they have unidirectional connections to millions of other people who listen to what they have to say, but they don’t listen much in return. Others might be the opposite: they follow plenty of people, but don’t never participate, so they don’t influence other neurons much." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Some%20edges%20(connections,other%20neurons%20much.)
 
-> "" - [You’re a Neuron, by Tomas Pueyo]()
+> "TikTok creates a brain that uniformizes neurons at an ever-accelerating speed, creates superbroadcasting neurons, and makes the rest of neurons ever more addicted to interacting with the rest of the brain." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=TikTok%20creates%20a%20brain%20that%20uniformizes%20neurons%20at%20an%20ever%2Daccelerating%20speed%2C%20creates%20superbroadcasting%20neurons%2C%20and%20makes%20the%20rest%20of%20neurons%20ever%20more%20addicted%20to%20interacting%20with%20the%20rest%20of%20the%20brain.)
+
+> "Twitter: It shows first the tweets from those you follow, and it decays their importance very quickly with time: a tweet from 2 days ago will be buried in somebody’s feed. That promotes people coming back very frequently so they’re in the know. It also pushes people to post content superfrequently. And that makes Twitter more a real-time network than, say, LinkedIn.
+>
+> Responses are much more prominent than on TikTok, which invites debate—there’s very little debate on TikTok, so it’s more a broadcasting site. But the debate on Twitter is very linear: all the responses to a tweet are nested into the first tweet, ranked mostly by recency, which doesn’t invite for thoughtful conversation, but rather fast conversation. You can’t have thoughtful and fast conversations at the same time, so conversations on Twitter tend to quickly descend into chaos.
+>
+> You have 3 ways of getting distribution on Twitter: through more Likes, Retweets, and Responses. Which means that different behaviors are incentivized. For Retweets, you want soundbites that people feel good about endorsing with their own identity. That is great to spur identity politics, for example. Lots of Responses also get your tweet distribution: another way to incentivize debate and polarization. Getting only likes is the weakest of the 3. Meanwhile, Likes don’t get you as much distribution. But Likes are by far the thing that people do most when they want to show compassion, for example. As a result, Twitter fosters more debate and polemic than compassion. That’s why it is a fast, aggressive, noisy brain. It’s impossible to use this brain for thoughtful debate." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=at%20Twitter%20now.-,Twitter,noisy%20brain.%20It%E2%80%99s%20impossible%20to%20use%20this%20brain%20for%20thoughtful%20debate.,-It%E2%80%99s%20easy%20to)
+
+> "Humans are humans. We’re able of the best and the worst, and most of that is simply defined by the environment. Our brains are the same as those of Homo Sapiens killing each other 50,000 years ago in Africa. What changes is the influences that surround us. We’re neurons in a brain. Change how we’re connected to each other, you’ll change the brain." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Humans%20are%20humans,change%20the%20brain.)
+
+> "You’re also a neuron for your company whenever you do knowledge work in it. Each person is a neuron in this brain. You bring information from outside and from inside of the company, process it in your individual work, and communicate it back with your deliverables. In the process, you coordinate with many other neurons—people. Each meeting can be seen as a group of neurons lighting together, exchanging information.
+>
+> Your dendrites (your sources of information) go to all the people you hang out with or meet. Your work network. Your axones (the channel with information you send out) go to all the people you share information with—which might not always be the same group.
+>
+> Through these processes emerge the big decisions that companies make: what other companies to buy, what strategy to follow, how to spend their money, who to hire (=what neurons to add to the network), their product design, their marketing…" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=You%E2%80%99re%20also%20a,design%2C%20their%20marketing%E2%80%A6)
+
+> "The role of a manager is not to understand each one of the neural connections, but rather to look at the patterns in the network, and correct them when they are incomplete. For example, when some teams don’t talk to each other—or when they talk too much—, when a group doesn’t have enough autonomy, when a group of neurons doesn’t have enough knowledge about certain disciplines to process their signals proficiently…" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=The%20role%20of,their%20signals%20proficiently%E2%80%A6)
+
+> "Our bodies don’t optimize for every cell. They optimize for the overall body. Individual cells are dispensable. What does that say about our focus on individual rights? How much do they cost societies overall?" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Our%20bodies%20don%E2%80%99t%20optimize%20for%20every%20cell.%20They%20optimize%20for%20the%20overall%20body.%20Individual%20cells%20are%20dispensable.%20What%20does%20that%20say%20about%20our%20focus%20on%20individual%20rights%3F%20How%20much%20do%20they%20cost%20societies%20overall%3F)
 
 
 
-> "" - [How to Make Your Conversations Hyperproductive: 3D Conversation, by Tomas Pueyo]()
+> "The transaction cost in political decision-making is so high that we centralize it. But decentralized decision-making is better. It just needs the proper mechanisms to aggregate the insights of the masses. Like money before, these mechanisms will standardize the decision-making between individual humans. Where today we’re having open debates based in rhetoric, tomorrow decision-making will be formalized into a crowd-sourcing mechanism." - [What the History of Finance Can Tell Us About a Better Democracy, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-the-history-of-finance-can-tell#:~:text=the%20transaction%20cost,crowd%2Dsourcing%20mechanism.)
+
+> "Democracy. It’s full of failures:
+>
+> - Citizens only contribute a few bits of information to the political system every four years, > through their vote. Imagine if instead each of us contributed as much as we could.
+>
+> - Many of those who vote don’t know much about what they’re voting for, and many others simply > don’t vote because they feel disempowered, like their contribution can’t change anything.
+>
+> - Because people feel their voices won't be heard, they use alternative ways of communicating > their opinions, such as demonstrations. These are expensive, slow, don’t convey nuanced > information, and are biased towards those who care a lot about an issue and are very well > organized and well funded, rather than silent majorities.
+>
+> - We elect those who are best at communicating, not managing.
+>
+> - As a result, politicians use emotions rather than facts.
+>
+> - There are only a few decision-makers, which incentivizes corruption.
+>
+> - You can’t combine things you like from different candidates. You have to go with the bundle of > proposals of one single candidate or party.
+>
+> - This is true both for their priorities as well as their solutions. What if you like one party’s > focus on climate change, but you think their solutions are crap?
+>
+> - A few decision-makers in remote corridors of power can’t have a deep understanding of the > problems on the ground. They’re not experts on the problems they solve.
+>
+> - They also can’t easily see if their proposed solutions are working as intended.
+>
+> - The policies are not tested. They’re usually simply approved. So we can’t really know if they > worked or not.
+>
+> - The same debates are repeated over and over.
+>
+> - The obscurity of the inner workings allows for special interests and lobbies to entrench.
+>
+> - There’s no incentive to change situations that are very good for a few but slightly bad for a > majority.
+>
+> - Those elected for the first time don’t have experience. Those elected several times are there > for the power.
+>
+> - There’s a bigger incentive to add laws than to simplify them.
+>
+> - Legislators have limited bandwidth, so they can’t approve or update lots of laws at once.
+>
+> - Laws are written in legalese, which is problematic because sometimes it’s inadvertently ambiguous, and usually it’s incomprehensible." - [What the History of Finance Can Tell Us About a Better Democracy, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-the-history-of-finance-can-tell#:~:text=democracy.%20It%E2%80%99s%20full,usually%20it%E2%80%99s%20incomprehensible.)
 
 
+
+> "The processes of how we organize ourselves were figured out during the Enlightenment. Our political systems are completely failing us:
+>
+> - They don’t happen fast enough.
+>
+> - They make it extremely hard to revise the entire system.
+>
+> - They are taken over by special interests.
+>
+> - They assume an unrealistic level of knowledge from citizens.
+>
+> - They select leaders that are better at communication than management.
+>
+> - They constantly add regulations without explaining them.
+>
+> - The ways that citizens can make their voices heard are obsolete." - [Hypergrowth Society, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/hypergrowth-society#:~:text=the%20processes%20of,heard%20are%20obsolete.)
+
+> "The brain has hundreds of bugs, which we call [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). But you can classify them as a bunch of fun little bugs and one monster3: confirmation bias. It’s the tendency to quickly adopt new information that supports your beliefs and to quickly discount the new information that undermines them. This is among the biggest hindrances to human development, since it’s so hard to correct people’s erroneous beliefs, and so our society carries them forward for ages." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs#:~:text=The%20brain%20has,forward%20for%20ages.)
+
+> "Unlearning is at the core of learning." - [How to Change Beliefs, by Tomas Pueyo]()
+
+> "We’re going towards a world where individuals relinquish freedom for the good of society, but do so in a decentralized way: we create the rules and enforce them together." - [Society Is a Brain, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/society-is-a-brain?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=we%E2%80%99re%20going%20towards%20a%20world%20where%20individuals%20relinquish%20freedom%20for%20the%20good%20of%20society%2C%20but%20do%20so%20in%20a%20decentralized%20way%3A%20we%20create%20the%20rules%20and%20enforce%20them%20together.)
+
+> "News aren’t designed to inform you or to help you make decisions. They’re designed to make money. Best case scenario—which usually means a subscription—they try to inform you in the process. Normally, they pander to keep your subscription alive, which is not always aligned with informing. Worst case scenario—when they live off of ads—they just want you to click on that f****** headline. They also want you to share their articles with somebody else, and they know you’re much more likely to do so if you’re scared, angered, or hear something that sounds very novel or mysterious. So news waste your time because they’re designed to grab your attention, not to inform you." - [How to Consume the News (Don’t), by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-consume-the-news#:~:text=News%20aren%E2%80%99t%20designed,to%20inform%20you.)
+
+> "We’ve evolved to pay attention to these types of news, but now, in countries of tens of millions of people, they’re mostly irrelevant. Outlets take advantage of your old brain circuits to hijack your attention and convert it into cash. On top of that, most journalists don’t have enough time to create truly insightful content." - [How to Consume the News (Don’t), by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-consume-the-news#:~:text=We%E2%80%99ve%20evolved%20to,truly%20insightful%20content.)
+
+> "" - [The Future of Written News, by Tomas Pueyo]()
+
+> "" - [The Future of Written News, by Tomas Pueyo]()
+
+> "" - [The Future of Written News, by Tomas Pueyo]()
+
+> "" - [, by Tomas Pueyo]()
+
+> "" - [, by Tomas Pueyo]()
 
 > "" - [, by Tomas Pueyo]()
 
