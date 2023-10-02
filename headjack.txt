@@ -221,23 +221,35 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "We’ve evolved to pay attention to these types of news, but now, in countries of tens of millions of people, they’re mostly irrelevant. Outlets take advantage of your old brain circuits to hijack your attention and convert it into cash. On top of that, most journalists don’t have enough time to create truly insightful content." - [How to Consume the News (Don’t), by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-consume-the-news#:~:text=We%E2%80%99ve%20evolved%20to,truly%20insightful%20content.)
 
-> "" - [The Future of Written News, by Tomas Pueyo]()
+> "**Lots of supply, lots of demand**, and both buyers and sellers are **perfectly informed**: These characteristics make a perfect market. This is what every market should strive for. But many markets fall short of that." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Lots%20of%20supply%2C%20lots%20of%20demand%2C%20and%20both%20buyers%20and%20sellers%20are%20perfectly%20informed%3A%20These%20characteristics%20make%20a%20perfect%20market.%20This%20is%20what%20every%20market%20should%20strive%20for.%20But%20many%20markets%20fall%20short%20of%20that.)
 
-> "" - [The Future of Written News, by Tomas Pueyo]()
+> "Not enough suppliers, not enough demanders, imperfect information, asymmetric information, moral hazard, externalities, and transaction costs. These are the most typical market failures. They tend to be the ones that need to be regulated away." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Not%20enough%20suppliers%2C%20not%20enough%20demanders%2C%20imperfect%20information%2C%20asymmetric%20information%2C%20moral%20hazard%2C%20externalities%2C%20and%20transaction%20costs.%20These%20are%20the%20most%20typical%20market%20failures.%20They%20tend%20to%20be%20the%20ones%20that%20need%20to%20be%20regulated%20away.)
 
-> "" - [The Future of Written News, by Tomas Pueyo]()
+> "Don’t be dogmatic about the government always being good or bad. Don’t think education or healthcare should always be private or always be public. The question is never what philosophy is better. The question is: *What are each market’s failures, and how can regulation correct them*." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Don%E2%80%99t%20be%20dogmatic%20about%20the%20government%20always%20being%20good%20or%20bad.%20Don%E2%80%99t%20think%20education%20or%20healthcare%20should%20always%20be%20private%20or%20always%20be%20public.%20The%20question%20is%20never%20what%20philosophy%20is%20better.%20The%20question%20is%3A%20What%20are%20each%20market%E2%80%99s%20failures%2C%20and%20how%20can%20regulation%20correct%20them.)
 
-> "" - [, by Tomas Pueyo]()
+> "Today, society has decided that it’s not in the “explore” phase anymore: Whether it’s drone delivery, flying cars, energy too cheap to meter, diseases… We don’t want anybody to run any risk. We don’t want to learn. What we want is to take advantage of the learnings of billions of people before us, but we don’t feel comfortable doing the same for the billions coming after us.
+>
+> We approved this without realizing what we were doing. Without realizing that every year we live today, we’re safer, but it comes at the cost of our own future and that of our children.
+>
+> We left the explore mode sometime in the 20th century. We’re hindering our progress with needless rules. We should get back to it.
+>
+> And yet many of the regulations we’ve enacted in the past are great. Environmental protection is important! Safety is important! How do we know which rules to eliminate?
+>
+> The first set of rules to eliminate is that we should let people take the risks that only apply to them." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=Today%2C%20society%20has,apply%20to%20them.)
 
-> "" - [, by Tomas Pueyo]()
+> "When [we spend more](https://en.wikipedia.org/wiki/Government_spending_in_the_United_States) on people’s retirement than their education, we’re not leaving the world better than we found it. We’re deciding as a society that the enjoyment of our elder years matters more than preparing our children’s future." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=When%20we%20spend%20more%20on%20people%E2%80%99s%20retirement%20than%20their%20education%2C%20we%E2%80%99re%20not%20leaving%20the%20world%20better%20than%20we%20found%20it.%20We%E2%80%99re%20deciding%20as%20a%20society%20that%20the%20enjoyment%20of%20our%20elder%20years%20matters%20more%20than%20preparing%20our%20children%E2%80%99s%20future.)
 
-> "" - [, by Tomas Pueyo]()
-
-
+> "As a society, we should stop being crippled by fear of what we can see, and start paying attention to the value of what we can’t. Progress takes failures. If we’re not OK with failures, we don’t make progress. We’ve moved into exploit mode without realizing it. It’s time to get back to balance explore and exploit modes. It’s time to take more risks." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=As%20a%20society%2C%20we,to%20take%20more%20risks.)
 
 
 
 
+https://unchartedterritories.tomaspueyo.com/p/history-network-effects
+What productivity looks like as a flywheel - causal relationships:
+https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff36318cf-1922-434f-9265-f0c5acb6e43c_1600x896.png
+
+
+> "The Universe is made of stories, not of atoms." - [Muriel Rukeyser](https://en.wikiquote.org/wiki/Muriel_Rukeyser#:~:text=means%2C%20to%20wake.-,The%20Universe%20is%20made%20of%20stories%2C%20not%20of%20atoms.,-%22The%20Speed%20of)
 
 
 
@@ -629,7 +641,7 @@ division of labor - incentive for this, incentive for that, different specializa
 
 the world as it is vs the world as we'd like it to be
 
-case study: the Oscars redone through this multi-perspective system
+case study: the Oscars redone through this multi-perspective system - or how about Nobel prizes?
 
 what if we mapped what we should care for if we care about our children?
 
