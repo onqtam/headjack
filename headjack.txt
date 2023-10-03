@@ -4,125 +4,6 @@
 
 
 
-We need an alignment hierarchy to modulate signals - orchestrating/directing the attention of the world
-
-We can publicly vote on how well someone did on a job
-
-We need a way to ask any question about how to solve any problem and get the best result for that
-
-We are an organism with a dysfunctional information system
-
-Toggle between the views of different egregores
-
-We need a unification mechanism
-
-The only way to alignment is through transparency
-
-We need to transparently crowdsource our management - using reputation and competence as a signal booster
-
-Crowdsourced “Should there be a law for X, and if so - what?” - always up to date and responsive to changes
-
-We need to give every possible expression and idea a unique ID
-
-why we need transparent money flows
-https://twitter.com/samfbiddle/status/1708531501808370002
-https://twitter.com/matthew_d_green/status/1708809676387705002
-
-Top 10 lists - choice ranking - is (collective) relevance realization
-
-What if we could codify social norms & responsibilities - completely opt-in?
-A way to calculate the degree of commitment to an egregore
-
-What is education if not the conscious indoctrination of children into a set of norms and mental models?
-
-Democracy 2.0 is computable
-
-In order to merge our minds we need to give unique and shared addresses for entities
-
-Social media has to be socially controlled
-
-what if every science paper had to have its conclusions expressed with propositional logic?
-
-What if openness is the theme and not ownership?
-Information !!!
-Integration!!!
-
-Minimalism
-
-We can have approved LLMs for tagging data and use zk-ml to prove that the specific model was used
-
-Marrying responsibility with accountability
-
-A toolkit for collective intelligence and information integration
-
-Wanna hear something sexy? Integrated information
-
-Privacy zk and anonymity - the law of conservation - you can only spend your credibility once
-
-
-Our civilisational kernel is an information architecture that can best enable alignment, optimisation and collective consciousness - information integration
-
-Conscious pursuit of alignment is the most potent manifestations of conscious evolution
-
-Tweet: with no community we lack both a unit to sacrifice for and a unit to keep assholes in check
-Joe Norman
-
-
-Coherent pluralism
-
-Why is curiosity good? Because it enhances focus
-
-Integration
-
-Re-list everything you left out of the 10 themes so that you can expand on it
-
-Read about integrated information
-
-Wikipedia, but incentivised (with something other than a claim on resources) and multi-perspectival and complete - all knowledge, all events. All human history.
-
-How do we give the best mental models in the most accessible way topologically sorted based on relevance and complexity to kids?
-
-Universal basic status
-
-Decisions => navigation
-
-Hey global brain, summarize 2023 for me amd play it in a 15 minute clip with the highlights
-
-If we invent a mechanism that would eventually get us to the perfect and most fair state, then taxation should be of our biggest interest
-
-Our number one goal should be to consciously choose how information propagates. The singularity is when life figures out that the only game in town is consciously optimising the flow of information
-
-Integrated information & consciousness
-
-Perfect information
-
-Teansparency is a precursor to alignment
-
-What if we could use AI to generate media that would best let us feel what the global brain is seeing and thinking?
-
-We could browse the global catalog of events, ask AI go give us summaries about any plane of inquiry
-
-Cultural enlightenment or bust
-^^ use youtube transcript to find the exact location in the original video with daniel and brett
-
-Enlightenment
-
-Imagine being able to ask “why are things the way they are” and you could get educated enough to understand any answer
-
-Fairness
-
-How do we make the world fair?
-
-Read all of Hanzis books
-Latest: 12 commandments for extraordinary people to master ordinary life
-
-
-
-
-
-
-
-
 
 
 
@@ -139,6 +20,31 @@ The 10 themes of the Global Brain:
 - 8) MEANING - shared intentionality, coherence & beating entropy
 - 9) DIRECTION - greater scales of cooperation & evolvability
 - 10) TRANSCENDENCE - Know Thyself & conscious evolution
+
+
+
+What if openness is the theme and not ownership?
+Information !!!
+Integration!!!
+
+Minimalism
+
+Enlightenment
+
+Fairness
+
+Integration
+
+Integrated information & consciousness
+
+Decisions => navigation
+
+
+
+Coherent pluralism
+
+
+
 
 deduplication
 
@@ -983,6 +889,84 @@ God is the dominant egregore as a trained AI to weigh things in the world like i
 The root of power is sovereignty of identity
 
 Wisdom is about decision pruning - it is about enhanced intelligence - relevance realisation is intelligence
+
+
+
+We need an alignment hierarchy to modulate signals - orchestrating/directing the attention of the world
+
+We can publicly vote on how well someone did on a job
+
+We need a way to ask any question about how to solve any problem and get the best result for that
+
+We are an organism with a dysfunctional information system
+
+Toggle between the views of different egregores
+
+We need a unification mechanism
+
+The only way to alignment is through transparency
+
+We need to transparently crowdsource our management - using reputation and competence as signal
+
+Crowdsourced “Should there be a law for X, and if so - what?” - always up to date and responsive to changes
+
+We need to give every possible expression and idea a unique ID
+
+why we need transparent money flows
+https://twitter.com/samfbiddle/status/1708531501808370002
+https://twitter.com/matthew_d_green/status/1708809676387705002
+
+Top 10 lists - choice ranking - is (collective) relevance realization
+
+What if we could codify social norms & responsibilities - completely opt-in?
+A way to calculate the degree of commitment to an egregore
+
+What is education if not the conscious indoctrination of children into a set of norms and mental models?
+
+Democracy 2.0 is computable
+
+In order to merge our minds we need to give unique and shared addresses for entities
+
+Social media has to be socially controlled
+
+what if every science paper had to have its conclusions expressed with propositional logic?
+
+We can have approved LLMs for tagging data and use zk-ml to prove that the specific model was used
+
+Marrying responsibility with accountability
+
+A toolkit for collective intelligence and information integration
+
+Privacy zk and anonymity - the law of conservation - you can only spend your credibility once
+
+Our civilisational kernel is an information architecture that can best enable alignment, optimisation and collective consciousness - information integration
+
+Conscious pursuit of alignment is the most potent manifestations of conscious evolution
+
+Why is curiosity good? Because it enhances focus
+
+Re-list everything you left out of the 10 themes so that you can expand on it
+
+Wikipedia, but incentivised (with something other than a claim on resources) and multi-perspectival and complete - all knowledge, all events. All human history.
+
+How do we give the best mental models in the most accessible way topologically sorted based on relevance and complexity to kids?
+
+Universal basic status
+
+Hey global brain, summarize 2023 for me amd play it in a 15 minute clip with the highlights
+
+If we invent a mechanism that would eventually get us to the perfect and most fair state, then taxation should be of our biggest interest
+
+Our number one goal should be to consciously choose how information propagates. The singularity is when life figures out that the only game in town is consciously optimising the flow of information
+
+Teansparency is a precursor to alignment
+
+What if we could use AI to generate media that would best let us feel what the global brain is seeing and thinking?
+
+We could browse the global catalog of events, ask AI go give us summaries about any plane of inquiry
+
+Imagine being able to ask “why are things the way they are” and you could get educated enough to understand any answer
+
 
 
 
@@ -2903,7 +2887,7 @@ We can redefine status through aggregate computing
 
 The metaverse is the address space of the global brain
 
-> "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/-mNP6pQcH88?t=331)
+> "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
 
 
 
