@@ -11,7 +11,7 @@
 The 10 themes of the Global Brain:
 
 - 1) EPISTEMICS - error correction & Bayesian inference
-- 2) OWNERSHIP - transparency, openness & provenance
+- 2) INFORMATION - transparency, openness, provenance & integration
 - 3) STRUCTURE - self-organization, emergence & subsidiarity
 - 4) ALIGNMENT - incentives, reputation & consequence capture
 - 5) DECISIONS - relevance realization & collective intelligence
@@ -42,6 +42,12 @@ Decisions => navigation
 
 
 Coherent pluralism
+
+
+
+Meta-stability
+
+Hierarchy
 
 
 
@@ -354,6 +360,10 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 > "Understanding the often unconscious nature of genetic control is the first step toward understanding that—in many realms, not just sex—we’re all puppets, and our best hope for even partial liberation is to try to decipher the logic of the puppeteer." - [Robert Wright](https://www.goodreads.com/quotes/1210774-understanding-the-often-unconscious-nature-of-genetic-control-is-the)
 
 > "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
+
+
+
+> "With no community, we lack both a unit to sacrifice for, and a unit to keep assholes in check." - [Joe Norman](https://twitter.com/normonics/status/1260572116111458310)
 
 
 
