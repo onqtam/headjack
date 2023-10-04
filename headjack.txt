@@ -2,6 +2,7 @@
 
 - bring back ToC
 - fix page hierarchy
+- remove blog/pages & other unnecessary stuff
 - add search
     https://docusaurus.io/docs/next/search
 - do a successful build
