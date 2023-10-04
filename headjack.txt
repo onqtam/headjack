@@ -1,7 +1,7 @@
 
 
 
-- fix pages that crash
+- fix pages that crash (css style)
 - fix page hierarchy
 - fix competition & public/private events html tables
 - set global background image
