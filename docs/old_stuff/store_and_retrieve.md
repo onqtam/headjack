@@ -42,7 +42,7 @@ There are multiple options:
 - IPFS can be forked & reused with the following change: instead of delivering content based on the [CID](https://docs.ipfs.tech/concepts/content-addressing/) hash it can deliver the data + the necessary proofs based on Headjack URIs or their hash (they are unique) - any individual off-chain message that's been anchored would be retrievable as long as someone is hosting it in this p2p network (which needs bootstrapping - could be part of Headjack nodes). However, this won't be very performant due to the granular nature of individual messages with a URI and the use of a global [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table).
 
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_we_are_not_the_same_addressability_vs_storage.jpg"/>
 </div>
 

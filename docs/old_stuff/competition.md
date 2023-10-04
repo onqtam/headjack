@@ -371,7 +371,7 @@ https://atproto.com/guides/data-repos
 
 -->
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_15_competing_standards.png"/>
 </div>
 
@@ -777,7 +777,7 @@ https://github.com/nostr-protocol/nostr#the-problem-with-mastodon-and-similar-pr
 
 
 
-<!-- <div style="text-align: center;">
+<!-- <div style={{textAlign: "center"}}>
     <img src="images/meme_one_does_not_simply.jpg"/>
 </div> -->
 
@@ -786,7 +786,7 @@ without logically centralizing identity, names, connections & anchoring through 
 https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 
 
-<!-- <div style="text-align: center;">
+<!-- <div style={{textAlign: "center"}}>
     <img src="images/meme_expanding_brain.jpg"/>
 </div> -->
 
@@ -797,7 +797,7 @@ use a blockchain with hierarchical trust & don't require keypairs by default
 https://imgflip.com/memegenerator/Expanding-Brain -->
 
 
-<!-- <div style="text-align: center;">
+<!-- <div style={{textAlign: "center"}}>
     <img src="images/meme_drake_better_trust.jpg"/>
 </div> -->
 
@@ -807,7 +807,7 @@ BETTER TRUST
 hierarchical trust & account management without keypairs by default
 https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
 
-<!-- <div style="text-align: center;">
+<!-- <div style={{textAlign: "center"}}>
     <img src="images/meme_red_dress_better_trust.jpg"/>
 </div> -->
 

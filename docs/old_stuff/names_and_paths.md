@@ -44,7 +44,7 @@ Most Web3 platforms [suffer from unreadable URIs](https://twitter.com/hasufl/sta
 
 **Or is it?!** What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: [question 4](https://stackoverflow.com/questions/4)) but the page router always changes the URL when loading the page to include the title too). [Message types](messages.md) for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming applications as it would be a trivial check.
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_drake_human_readable_hashes.jpg"/>
 </div>
 
@@ -73,7 +73,7 @@ Different schemas could be used for addressing within pieces of content (like a 
 
 For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.
 
-<!-- <div style="text-align: center;">
+<!-- <div style={{textAlign: "center"}}>
     <img src="images/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg"/>
 </div> -->
 
