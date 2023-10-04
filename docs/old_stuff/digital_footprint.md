@@ -1,8 +1,8 @@
 # Your digital footprint
 
-> "He who controls identity controls the (social) world." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
-
 <iframe align="right" width="50%" src="https://www.youtube.com/embed/CyGWML6cI_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> "He who controls identity controls the (social) world." - [Sovereignty as a Service, by Jordan Hall](https://deepcode.substack.com/p/sovereignty-as-a-service#:~:text=He%20who%20controls%20identity%20controls%20the%20(social)%20world.)
 
 # Today: centralized & fragmented identity
 
