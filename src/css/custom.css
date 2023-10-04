@@ -67,3 +67,18 @@
   color: #551A8B;
   text-decoration: underline;
 }
+
+/* https://github.com/facebook/docusaurus/issues/5244#issuecomment-894287249 */
+blockquote {
+  border-left: 6px solid #dadde1;
+  background-color: #55555517;
+  color: #5b626b;
+  font-size: 100%;
+  margin: 0 0 1rem;
+  padding: 1rem;
+  box-shadow: none;
+}
+html[data-theme="dark"] blockquote {
+  border-left: 6px solid #5c5d5f;
+  color: #bcc3cc;
+}

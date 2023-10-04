@@ -1,10 +1,10 @@
 
 
-
+- bring back ToC
 - fix page hierarchy
-- do a successful build
 - add search
     https://docusaurus.io/docs/next/search
+- do a successful build
 
 - try to run npm run build on github pages
 - test headjack.online domain
