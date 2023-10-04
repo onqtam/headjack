@@ -1,16 +1,21 @@
+# Algorithms, feeds & aggregation
+
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
 <!--
 
 Multidimensional subscriptions & areas of interest can aid algorithms to serve more relevant content
 
 -->
 
-# Algorithms, feeds & aggregation
 
 The most important aspect of today's media are the [recommendation systems](https://en.wikipedia.org/wiki/Recommender_system) that guide our attention and ultimately our thoughts, opinions & culture at scale. Most algorithms we use are [black boxes](problems_with_the_web.md#black-boxes--algorithmic-bias) - we don't know what they are nor how the ML models are parameterized & trained and if there's any (intentional) bias. And even if that was public information - there would be no way to check because we don't have access to the data either. Furthermore, nobody can build new competing indexes, models & recommendation engines and we're left with the lowest common denominator that optimizes mostly for engagement & time spent in the attention economy.
 
 
 
-# Verifiable algorithms, indexes & models
+## Verifiable algorithms, indexes & models
 
 we should be able to request all inputs that went into an aggregate and verify the calculation locally ourselves
 
@@ -18,7 +23,7 @@ Within Headjack, all public data is freely accessible and the [data network effe
 
 > "Rather, many, many different individuals and organizations would be able to tweak the system to their own levels of comfort and share them with others—and allow the competition to happen at the implementation layer, rather than at the underlying social network level." - [Protocols, Not Platforms: A Technological Approach to Free Speech](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 
-# Feeds & home pages
+## Feeds & home pages
 
 We have no control over what social media shows us - we're presented with their best attempt at engaging us and nothing more. Feeds are primitive/limited and have their own agenda. Once access to data has been democratized we could finally have a choice as new entrants will differentiate themselves in ways that weren't possible before. What if:
 - you want [the first thing you see to be a dashboard](https://twitter.com/balajis/status/1442863553497554944) with graphs & charts about the things you care about instead of an endless feed to scroll?
@@ -27,7 +32,7 @@ We have no control over what social media shows us - we're presented with their 
 - you want things sorted differently, or to tune out certain kinds of content?
 - you want your video feed to show content that people you follow have engaged with?
 
-# Signaling preferences
+## Signaling preferences
 
 Events coming from an application are an advertisement for it because the URIs point to it as the source - users are effectively signaling what UI, filtration & content moderation they prefer.
 
@@ -43,7 +48,7 @@ This way of signaling fine-grained preferences could allow us to collectively mi
 
 Currently social media skews our perception of the world because the vocal become viral - most people are quiet and rarely (if ever) post anything, but they do consume. We could let them signal their preferences and better gauge our values. **Preferences are a form of expression.**
 
-# Aggregate sentiment - the big picture
+## Aggregate sentiment - the big picture
 
 TODO: add gif with an order book
 how does the sentiment/order book relate to the overton window? The politically radical is on both ends and the current "market price" is the overton window
