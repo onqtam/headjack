@@ -259,32 +259,10 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 
 - throwaway accounts? to not waste account IDs
 
-- use different book generator
-    https://github.com/gohugoio/hugo - shows sidebar on the right with the ToC of the page
-    also this: https://github.com/zjp-CN/mdbook-theme
-
-    https://github.com/facebook/docusaurus
-    https://docs.pendle.finance/PendlePro/HowItWorks/Fees#swap-fees
-    https://github.com/pendle-finance/documentation/blob/master/docusaurus.config.js
-
-
-    like this one? https://github.com/dvitanov/lorevc
-    this one shows even the H1 headings in the outline on the left:
-        http://mermaid-js.github.io/mermaid/
-    gitbook? also shows the outline on the right for the headings in a page:
-        https://docs.gitbook.com/organizations/member-management/roles#reviewer
-    https://github.com/badboy/mdbook-toc/pull/26
-
 - style external & internal to the book links differently?
     https://css-tricks.com/snippets/css/style-links-depending-on-destination/
     https://jsfiddle.net/97sdnwhq/
     a[href="http://google.com"]:link { color:purple; }
-
-- rework the changes in the themes to not have copy-pasted files in the theme/css directory with a few changes but instead to use this in book.toml: `additional-css=["the_file.css"]`
-    changes in general.css: background-image: var(--bg-img);
-    changes in variables.css: --bg-img: url("../images/background.jpg");
-    OR use "RIGHTWARDS ARROW WITH HOOK" manually as a symbol:
-        https://www.w3schools.com/charsets/ref_utf_arrows.asp
 
 - use summary sections at the start of pages like here: https://www.lore.vc/phase-i-preparation
 
