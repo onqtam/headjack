@@ -57,30 +57,7 @@ Here we've omitted things such as edits, DMs, & others. Today we're left with on
 # The 2D visibility matrix of our actions
 
 Let's consider the visibility spectrum of our actions - from **private** (personal) on one end to **public** on the other and **shared in some group** in between (forget about anonymity for now). Example: a private comment is basically a note to yourself. Here's what's possible with 3 Big Tech platforms:
-<!-- 
-<div>
-<style type="text/css" scoped>
-    .visibility_table {
-        margin-top: 20px;
-    }
-    .visibility_table td {
-        padding: 0;
-        margin: 0;
-        width: 12%;
-        color: black;
-        font-size: 12px;
-        text-align: center;
-        background-color:white;
-    }
-    .visibility_table td a:link {
-        color: #0000EE;
-        text-decoration: underline;
-    }
-    .visibility_table td a:visited {
-        color: #551A8B;
-        text-decoration: underline;
-    }
-</style>
+
 <table class="visibility_table">
 <tr>
     <td style={{backgroundColor: "teal", width: "16%"}}><b><u>Twitter</u></b></td>
@@ -218,7 +195,7 @@ Let's consider the visibility spectrum of our actions - from **private** (person
     <td style={{backgroundColor: "red"}}>No</td>
     <td style={{backgroundColor: "red"}}>No</td>
 </tr>
-</table> -->
+</table>
 
 What if we could choose the visibility of any action? We could set different defaults for any of them, have the ability to override it for any individual item and even have an account-wide visibility toggle between public & private - similar to when you open an incognito browser window and (hopefully) not have any of your history recorded & correlated with your identity. This might not always be a good idea (users might mess up and make something public by accident), but it should be possible and we have already learned using incognito windows as a pattern - such shifts are possible.
 

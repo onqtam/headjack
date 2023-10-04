@@ -26,27 +26,7 @@ https://stackoverflow.com/a/31513163
 <object data="competition_table.html" style={{width: "100%", height: "1200px"}}></object>
 
 <iframe src="competition_table.html" onload='javascript:(function(o){o.style.height=(o.contentWindow.document.body.scrollHeight+30)+"px";}(this));' style={{height: "200px", width: "100%", border: "none", overflow: "hidden"}}></iframe> -->
-<!-- 
-<div>
-<style type="text/css" scoped>
-    .competition_comparison td {
-        padding: 0;
-        margin: 0;
-        width: 12%;
-        color: black;
-        font-size: 12px;
-        text-align: center;
-        background-color:white;
-    }
-    .competition_comparison td a:link {
-        color: #0000EE;
-        text-decoration: underline;
-    }
-    .competition_comparison td a:visited {
-        color: #551A8B;
-        text-decoration: underline;
-    }
-</style>
+
 <table class="competition_comparison" style={{width: "120%"}}>
 <tr>
     <td style={{width: "16%"}}></td>
@@ -59,7 +39,7 @@ https://stackoverflow.com/a/31513163
     <td><b><a href="https://lens.xyz/">Lens<br/>Protocol</a></b></td>
 </tr>
 <tr>
-    <td style={{backgroundColor: "grey"}} colspan="8" height=25px><b>blockchain-related properties</b></td>
+    <td style={{backgroundColor: "grey"}} colspan="8" height="25px"><b>blockchain-related properties</b></td>
 </tr>
 <tr>
     <td><b>Scalability & potential scope</b></td> 
@@ -67,8 +47,8 @@ https://stackoverflow.com/a/31513163
     <td style={{backgroundColor: "lime"}}>perhaps up to ~10 million - could move to its own rollup</td>
     <td style={{backgroundColor: "yellow"}}>perhaps up to a few million  graph changes are on-chain</td>
     <td style={{backgroundColor: "green"}}>centralized consortium of servers</td>
-    <td style={{backgroundColor: "yellow"}}>perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
-    <td style={{backgroundColor: "yellow"}}>perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
+    <td style={{backgroundColor: "yellow"}}>perhaps up to<br/>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
+    <td style={{backgroundColor: "yellow"}}>perhaps up to<br/>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
     <td style={{backgroundColor: "red"}}>actions are on-chain as NFTs (follow, post's hash) - even a dedicated EVM chain will be futile</td>
 </tr>
 <tr>
@@ -142,7 +122,7 @@ https://stackoverflow.com/a/31513163
     <td style={{backgroundColor: "green"}}>Polygon PoS</td>
 </tr>
 <tr>
-    <td style={{backgroundColor: "grey"}} colspan="8" height=25px><b>Data availability, storage, retrievability & addressing</b></td>
+    <td style={{backgroundColor: "grey"}} colspan="8" height="25px"><b>Data availability, storage, retrievability & addressing</b></td>
 </tr>
 <tr>
     <td><b>Human-readable & persistent URIs for data without any hashes</b></td>
@@ -194,7 +174,7 @@ https://stackoverflow.com/a/31513163
     <td style={{backgroundColor: "grey"}}></td>
 </tr>
 <tr>
-    <td style={{backgroundColor: "grey"}} colspan="8" height=25px><b>Ease of use for developers & users</b></td>
+    <td style={{backgroundColor: "grey"}} colspan="8" height="25px"><b>Ease of use for developers & users</b></td>
 </tr>
 <tr>
     <td><b>Can leverage existing Web2 authenticating infrastructure</b></td>
@@ -235,7 +215,8 @@ https://stackoverflow.com/a/31513163
     <td style={{backgroundColor: "grey"}}></td>
     <td style={{backgroundColor: "grey"}}></td>
     <td style={{backgroundColor: "grey"}}></td>
-</tr> -->
+</tr>
+
 <!-- <tr>
     <td>-</td>
     <td style={{backgroundColor: "green"}}>-</td>
@@ -248,8 +229,7 @@ https://stackoverflow.com/a/31513163
 </tr> -->
 
 
-<!-- </table>
-</div>
+</table>
 
 <a id="footnote-1-ref" href="#footnote-1">[1]</a>
 <a id="footnote-2-ref" href="#footnote-2">[2]</a>
@@ -259,7 +239,7 @@ https://stackoverflow.com/a/31513163
 </div>
 <div id="footnote-2">
    2. X. <a href="#footnote-2-ref">&#8617;</a>
-</div> -->
+</div>
 
 <!--
 

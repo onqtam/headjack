@@ -1,15 +1,17 @@
 
 
 
-- fix competition & public/private events html tables
 - fix page hierarchy
-- set global background image
+- do a successful build
+- add search
+    https://docusaurus.io/docs/next/search
+
 - try to run npm run build on github pages
 - test headjack.online domain
+- fix google analytics
+    https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics
 
-
-
-
+- set global background image
 
 
 
