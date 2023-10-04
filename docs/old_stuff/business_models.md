@@ -39,17 +39,17 @@ The rule book will be different - instead of [vertically integrated](TODO.md#ver
 - Custom types of [data streams](data_legos.md#event-streams), [event subscriptions](data_legos.md#notifications--subscriptions), and anything else one could think of!
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_toy_story_markets.jpg"/>
+    <img src="/img/meme_toy_story_markets.jpg"/>
 </div>
 
 Creating a new social application would require just a bit of frontend code by a few developers with all the heavy lifting of infrastructure, data storage & processing, content moderation, ad serving & recommendation engines being provided by pay-as-you-go services through APIs. The ([data](https://mattturck.com/the-power-of-data-network-effects/)) network effects will be shared by every actor in the ecosystem. Launching a proof of concept would be trivial and new business models & use cases (no ads for social) would be enabled.
 
 
-<img src="images/data_gravity.png"/>
+<img src="/img/data_gravity.png"/>
 
 <!-- source: https://www.tigosolutions.com/feedstory/1030 -->
 
-<img src="images/infrastructure_companies.png"/>
+<img src="/img/infrastructure_companies.png"/>
 
 
 - mention alchemy in business models page about infra companies

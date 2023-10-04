@@ -200,7 +200,7 @@ Contrast that to open protocols & exportable data where anyone can specialize, i
 Social media platforms are growth-at-all-costs stories because the goal is to achieve a network effect first and become a monopoly with a [MOAT](https://www.investopedia.com/ask/answers/05/economicmoat.asp) at which point the user [value extraction](https://twitter.com/cdixon/status/1473859531343949824) and cannibalization of ecosystems built on top of APIs can ramp up ([1](https://www.siliconrepublic.com/enterprise/twitter-apis-ending), [2](https://nordicapis.com/twitter-10-year-struggle-with-developer-relations/), [3](https://techcrunch.com/2015/05/06/meerkat-founder-on-getting-the-kill-call-from-twitter/), [4](https://techcrunch.com/2018/04/02/instagram-api-limit/), [5](https://mashable.com/article/gmail-ifttt-shutdown-google), [6](https://www.forbes.com/sites/benkepes/2015/04/11/how-to-kill-your-ecosystem-twitter-pulls-an-evil-move-with-its-firehose/?sh=4cd97d0f61d3)). At that point innovation is less necessary (+ is harder due to inertia) and even the quality of service may degrade. User data is the most valuable commodity and scale enables the best AI models & efficiency of value extraction in the advertising model which comes with a slew of problems & perverse incentives.
 
 <div style={{textAlign: "center"}}>
-    <img src="images/data_most_valuable.jpg"/>
+    <img src="/img/data_most_valuable.jpg"/>
 </div>
 
 <!-- https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data -->
@@ -210,7 +210,7 @@ Users are usually locked-in and effectively have no [voice and exit](https://twi
 - or if they leave for an alternative service they'd lose all their connections, audience & reputation and would have to start from scratch
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_web2_social_capital.jpg"/>
+    <img src="/img/meme_web2_social_capital.jpg"/>
 </div>
 
 <!-- users

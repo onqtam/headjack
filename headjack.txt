@@ -3,6 +3,7 @@
 
 
 - fix image URLs
+- fix page hierarchy
 - fix competition html tables
 - set global background image
 - try to run npm run build on github pages

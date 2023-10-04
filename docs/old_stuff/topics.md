@@ -1,8 +1,8 @@
 
-<img src="images/meme_financial_speculation.jpg"/>
+<img src="/img/meme_financial_speculation.jpg"/>
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_girls_gossiping_high_score.jpg"/>
+    <img src="/img/meme_girls_gossiping_high_score.jpg"/>
 </div>
 
 <!-- He has high cooperation,
@@ -11,7 +11,7 @@ competency & altruism score
 https://imgflip.com/memegenerator/289357455/Girls-gossiping -->
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_all_the_things_externalities.jpg"/>
+    <img src="/img/meme_all_the_things_externalities.jpg"/>
 </div>
 
 <!-- Internalize & account for
@@ -20,7 +20,7 @@ https://imgflip.com/memegenerator/1216800/all-the-things -->
 
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_what_is_my_purpose.jpg"/>
+    <img src="/img/meme_what_is_my_purpose.jpg"/>
 </div>
 
 <!-- what is my purpose?

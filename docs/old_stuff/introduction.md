@@ -49,7 +49,7 @@ it does not deal with storage and neither with routing - any kind of routing can
 
 The talk [`"Decentralized identity & content addressing at web-scale"`](https://www.youtube.com/watch?v=pEl2vLTStWE) at code::dive 2022 is a good high-level overview of the project and covers the most important aspects:
 
-<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="images/youtube_first_talk_thumbnail.png"/></a>
+<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="/img/youtube_first_talk_thumbnail.png"/></a>
 
 # Book structure
 
@@ -78,7 +78,7 @@ The talk [`"Decentralized identity & content addressing at web-scale"`](https://
 1. [Headjack vs the competition](competition.md)
 
 <div style={{textAlign: "center"}}>
-    <img src="images/logo.png"/>
+    <img src="/img/logo.png"/>
 </div>
 
 Named after the [data port at the back of the head](https://matrix.fandom.com/wiki/Headjack) of synthetically-grown humans in the Matrix.

@@ -18,7 +18,7 @@ The public conversation shouldn't be fractured between platforms such as Twitter
 
 > "When identities become portable, backends become liquid" - [@balajis](https://twitter.com/coconidodev/status/1504850437727571974)
 
-<img src="images/lenticular_view.png"/>
+<img src="/img/lenticular_view.png"/>
 
 <!-- source of image: https://world3d.com/2020/06/the-history-of-lenticular/ -->
 

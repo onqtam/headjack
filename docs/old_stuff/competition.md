@@ -148,7 +148,7 @@ https://stackoverflow.com/a/31513163
 </tr>
 <tr>
     <td><b>Human-readable & persistent URIs for data without any hashes</b></td>
-    <td style="background-color:green"><a href="names_and_paths.md"><img src="images/meme_yes_chad_green.png"/></a></td>
+    <td style="background-color:green"><a href="names_and_paths.md"><img src="/img/meme_yes_chad_green.png"/></a></td>
     <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (probably)</td>
     <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
     <td style="background-color:red">URIs full of <a href="https://atproto.com/guides/data-repos#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
@@ -372,7 +372,7 @@ https://atproto.com/guides/data-repos
 -->
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_15_competing_standards.png"/>
+    <img src="/img/meme_15_competing_standards.png"/>
 </div>
 
 <!-- Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity. -->
@@ -382,7 +382,7 @@ https://atproto.com/guides/data-repos
 
 > "Good design is simple. You hear this from math to painting. In math it means that a shorter proof tends to be a better one. Where axioms are concerned, especially, less is more. It means much the same thing in programming. For architects and designers it means that beauty should depend on a few carefully chosen structural elements rather than a profusion of superficial ornament." - [Paul Graham](http://www.paulgraham.com/taste.html#:~:text=Good%20design%20is,of%20superficial%20ornament.)
 
-<img src="images/meme_they_dont_know_pubkeys.jpeg" align="right" style="margin-left: 8px; width: 50%"/>
+<img src="/img/meme_they_dont_know_pubkeys.jpeg" align="right" style="margin-left: 8px; width: 50%"/>
 
 <!-- https://twitter.com/ArvinK/status/1620833678816575488 -->
 
@@ -778,7 +778,7 @@ https://github.com/nostr-protocol/nostr#the-problem-with-mastodon-and-similar-pr
 
 
 <!-- <div style={{textAlign: "center"}}>
-    <img src="images/meme_one_does_not_simply.jpg"/>
+    <img src="/img/meme_one_does_not_simply.jpg"/>
 </div> -->
 
 <!-- one does not simply solve media
@@ -787,7 +787,7 @@ https://imgflip.com/memegenerator/One-Does-Not-Simply -->
 
 
 <!-- <div style={{textAlign: "center"}}>
-    <img src="images/meme_expanding_brain.jpg"/>
+    <img src="/img/meme_expanding_brain.jpg"/>
 </div> -->
 
 <!-- trust centralized companies with your identity & data
@@ -798,7 +798,7 @@ https://imgflip.com/memegenerator/Expanding-Brain -->
 
 
 <!-- <div style={{textAlign: "center"}}>
-    <img src="images/meme_drake_better_trust.jpg"/>
+    <img src="/img/meme_drake_better_trust.jpg"/>
 </div> -->
 
 <!-- TRUSTLESS
@@ -808,7 +808,7 @@ hierarchical trust & account management without keypairs by default
 https://imgflip.com/memegenerator/Drake-Hotline-Bling -->
 
 <!-- <div style={{textAlign: "center"}}>
-    <img src="images/meme_red_dress_better_trust.jpg"/>
+    <img src="/img/meme_red_dress_better_trust.jpg"/>
 </div> -->
 
 <!-- better trust & familiar UX

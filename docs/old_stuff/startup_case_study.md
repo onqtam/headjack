@@ -8,7 +8,7 @@
 
 Why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments & annotations based on the range and display the threads below Reddit-style with sorting & filtration options? Here's a screenshot of precisely that (ignore the colors & bad style):
 
-<img src="images/startup_case_study.png"/>
+<img src="/img/startup_case_study.png"/>
 
 The ultimate audio/video player can offer a lot more than just a comment histogram - it has the potential to be a vibrant social experience:
 - 1-click repositioning & resizing of the filter window to timestamp ranges for different topics plotted as horizontal bars (already done & visible in the screenshot)
