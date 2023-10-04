@@ -2,6 +2,12 @@
 
 
 
+- fix image URLs
+- fix competition html tables
+- set global background image
+- try to run npm run build on github pages
+- test headjack.online domain
+
 
 
 
