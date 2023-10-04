@@ -17,8 +17,6 @@ The most important book ever written is **"Evolution's Arrow: the direction of e
 
 About 30% of it ended up here in the form of (subjectively) notable quotes, but reading them is not a substitute for the real thing. In all honesty, it should have been 100% - if everyone in the world had to read 1 book from cover to cover - this one (although not perfect - a bit repetitive) would bring the most benefit to life on earth. Is such a level of coherence realistic? Unfortunately not... for now. Perhaps this set of quotes is most suitable for revisiting after an initial read of the entire book.
 
-<!-- toc -->
-
 # Evolution's Arrow: the direction of evolution and the future of humanity (2000)
 
 ## Reviews

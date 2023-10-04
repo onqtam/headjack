@@ -1,7 +1,5 @@
 # Today's information ecology
 
-<!-- toc -->
-
 # Cultural fragmentation & filter bubbles
 
 The same document may be published through different platforms and because of the host-certified web of today it will get multiple different URLs. Discussion around it becomes fragmented & shallow in the different platforms with separate comment sections and there isn't a way to de-duplicate & unify it. This facilitates polarization as separate echo chambers can form without seeing the opinion of other types of people.

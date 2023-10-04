@@ -2,8 +2,6 @@
 
 In this chapter we will see the different aspects of handling unlimited amounts of off-chain data:
 
-<!-- toc -->
-
 # Ingestion and transformation of blob data
 
 Off-chain blobs with data will be fetched, processed and stored immediately after they are published in more optimal database formats for content to be later directly served by application infrastructure. Most of the cryptography checks will be happening instantly during this process but the proofs don't need to be stored. Users will always be able to request proofs for any event at any time (& cache them locally) because they can be regenerated on the fly as necessary.

@@ -8,8 +8,6 @@ Tying data to identity and making it freely available & outside of silos through
 
 > "However, to rely on purely idealism as a motivator of adoption is naive. We need a user experience that is much better than today and we need to invent tools that users will absolutely never attain in the Web 2 realm." - ["Social Web 3" by Zee Prime Capital](https://zeeprime.capital/social-web-3)
 
-<!-- toc -->
-
 # Query & plot anything
 
 There are no limits to the types of queries we should be able to make - some simple examples:

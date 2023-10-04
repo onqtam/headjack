@@ -1,6 +1,4 @@
 
-<!-- toc -->
-
 <strikethrough>Bitcoin</strikethrough> Headjack fixes this.
 
 <!--

@@ -10,8 +10,6 @@ The most important aspect of today's media are the [recommendation systems](http
 
 
 
-<!-- toc -->
-
 # Verifiable algorithms, indexes & models
 
 we should be able to request all inputs that went into an aggregate and verify the calculation locally ourselves

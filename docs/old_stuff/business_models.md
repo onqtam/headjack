@@ -12,8 +12,6 @@ AD SHARE PAYOUTS?
 https://twitter.com/growing_daniel/status/1681504439251742723
 https://twitter.com/X/status/1684992405626372096
 
-<!-- toc -->
-
 # Why build if [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in) isn't possible?
 
 Freedom can be a competitive advantage: [Substack](https://en.wikipedia.org/wiki/Substack) lets you leave & take your subscribers with you (an email list) - a conscious choice to compete on the quality of service. **But they are an outlier**.

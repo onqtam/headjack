@@ -1,7 +1,5 @@
 # Incentives & algorithms
 
-<!-- toc -->
-
 ██████████████████████████████████████████████████████████████████
 # problems
 # incentives & the status quo

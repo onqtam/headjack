@@ -2,8 +2,6 @@
 
 Headjack is also a name registry - accounts can own a handle and be identified with it. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to [their dedicated page](handles.md). In this chapter:
 
-<!-- toc -->
-
 # Names in URIs
 
 Users and applications don't need a name and can operate as an integer index just fine, but the preferred case will be with handles. Names can change ownership but the blockchain will be able to translate `<application_name>/<nonce>/<user_name>/<content_id>` with strings into the canonical integer form discussed [previously](uris.md) by substituting the application & user names with account IDs.

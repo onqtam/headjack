@@ -2,8 +2,6 @@
 
 This chapter will explain how all off-chain [messages](messages.md) (actions/events/content) get published:
 
-<!-- toc -->
-
 # Blob construction - batching of user events
 
 Applications accumulate off-chain activity from users which they cryptographically anchor in batches with a [Merkle root](https://en.wikipedia.org/wiki/Merkle_tree) on-chain and they determine how often to do so (it doesn't have to be on every block) - those with little activity may submit only once per minute or even less often - the frequency is determined by applications based on the volume of activity and the on-chain publishing costs.

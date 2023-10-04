@@ -1,7 +1,5 @@
 # Web 3: the [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph)
 
-<!-- toc -->
-
 
 
 <!--

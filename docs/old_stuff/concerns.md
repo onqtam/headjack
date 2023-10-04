@@ -45,8 +45,6 @@ what if an application generates too much data for the infrastructure companies 
 
 A list of the most important problems & challenges for the project:
 
-<!-- toc -->
-
 # Data problems
 
 - Proofs for individual documents for a URI might be quite big - if there are 1 million events by all users in a blob that a big application anchors with a single commit (realistic for something like Twitter if it anchors once every 10 seconds), then we'd need about 20 hashes (log(1000000)) in a binary Merkle tree in order to prove the authenticity of any individual element. Suppose an event is just a simple reaction - probably less than 100 bytes including everything necessary. With 32 byte hashes we would end up with 0.64kb just for the proof of inclusion in the blob with 1 million elements which is at least 6.4 times larger than the data itself.

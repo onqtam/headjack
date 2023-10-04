@@ -4,8 +4,6 @@
 
 <iframe align="right" width="50%" src="https://www.youtube.com/embed/CyGWML6cI_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!-- toc -->
-
 # Today: centralized & fragmented identity
 
 > "The more you enter, the more you become locked in. Your social-networking site becomes a central platform - a closed silo of content, and one that does not give you full control over your information in it. The more this kind of architecture gains widespread use, the more the Web becomes fragmented, and the less we enjoy a single, universal information space." - [Tim Berners-Lee](https://www.azquotes.com/quote/1269744)

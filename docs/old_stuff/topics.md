@@ -187,8 +187,6 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
 - infrastructure stuff?
 - economics & startups & competition? startup case study as part of that? "the competitive landscape"
 
-<!-- toc -->
-
 ██████████████████████████████████████████████████████████████████
 # infinite possibilities
 # Giant global graph - open data
@@ -278,8 +276,6 @@ The terrifying thing about this is that Google is not an elected entity. Google 
 # Improved infrastructure
 
 Tying data to identity and making it freely available & outside of silos through content-centric addressing enables a lot of composability, functionality & innovation.
-
-<!-- toc -->
 
 TODO:
 

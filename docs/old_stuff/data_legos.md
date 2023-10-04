@@ -2,8 +2,6 @@
 
 > "Composability is to software as compounding interest is to finance" - [@cdixon](https://twitter.com/cdixon/status/1451703067213066244)
 
-<!-- toc -->
-
 # Same data - different views
 
 > "Data is the center of the universe; applications are ephemeral." - [The Data-Centric Manifesto](http://datacentricmanifesto.org/)
