@@ -8,6 +8,8 @@
 - add search
     https://docusaurus.io/docs/next/search
 
+- fix ToC for all pages (only one top level h1 # per page)
+
 - do a successful build
     fix all broken internal links?
 
