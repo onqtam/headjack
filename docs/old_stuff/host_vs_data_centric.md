@@ -1,3 +1,5 @@
+# Host vs data-centric
+
 <!--
 TODO: look at:
 
@@ -8,8 +10,6 @@ Tos evidence extensions
 Google amp - signed caches
 Chainlink authenticated data origination
 -->
-
-# Host vs data-centric
 
 Let's take a look how the web works and what are the building blocks & ideas that enable Headjack:
 

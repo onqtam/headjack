@@ -28,3 +28,42 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.visibility_table {
+    margin-top: 20px;
+}
+.visibility_table td {
+  padding: 0;
+  margin: 0;
+  width: 12%;
+  color: black;
+  font-size: 12px;
+  text-align: center;
+  background-color:white;
+}
+.visibility_table td a:link {
+  color: #0000EE;
+  text-decoration: underline;
+}
+.visibility_table td a:visited {
+  color: #551A8B;
+  text-decoration: underline;
+}
+
+.competition_comparison td {
+  padding: 0;
+  margin: 0;
+  width: 12%;
+  color: black;
+  font-size: 12px;
+  text-align: center;
+  background-color:white;
+}
+.competition_comparison td a:link {
+  color: #0000EE;
+  text-decoration: underline;
+}
+.competition_comparison td a:visited {
+  color: #551A8B;
+  text-decoration: underline;
+}
