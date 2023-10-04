@@ -1,9 +1,8 @@
 
 
 
-- fix pages that crash (css style)
-- fix page hierarchy
 - fix competition & public/private events html tables
+- fix page hierarchy
 - set global background image
 - try to run npm run build on github pages
 - test headjack.online domain
@@ -3226,6 +3225,8 @@ Not having unrestricted programmatic access to the public commons is an intellec
 
 
 > "Culture is not like a mission statement; you can’t just set it up and have it last forever. There’s a saying in the military that if you see something below standard and do nothing, then you’ve set a new standard. This is also true of culture—if you see something off-culture and ignore it, you’ve created a new culture." - [Ben Horowitz, What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/quotes/10058754-culture-is-not-like-a-mission-statement-you-can-t-just)
+
+> "What you do speaks so loudly that I cannot hear what you say." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear)
 
 > "That’s the nature of culture. It’s not a single decision—it’s a code that manifests itself as a vast set of actions taken over time. No one person makes or takes all these actions. Cultural design is a way to program the actions of an organization, but, like computer programs, every culture has bugs. And cultures are significantly more difficult to debug than programs." - [Ben Horowitz, What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/quotes/10055569-that-s-the-nature-of-culture-it-s-not-a-single-decision-it-s)
 

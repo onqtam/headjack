@@ -2,7 +2,7 @@
 
 <!-- <object width=100% data="images/Untitled-2022-06-08-1154.svg"></object> -->
 
-<!-- <div width=100% style="background-color:green; overflow:auto;"> -->
+<!-- <div width=100% style={{backgroundColor: "green", overflow: "auto"}}> -->
 <!-- add # before include for the preprocessor to work -->
 <!-- {{include images/Untitled-2022-06-08-1154.svg}} -->
 <!-- </div> -->

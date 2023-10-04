@@ -12,7 +12,7 @@ These are the guiding principles when aiming for mass adoption of Headjack:
 
 It is highly improbable that the masses (and even most crypto natives) would tolerate services that are much worse (slow, limited & cumbersome) and [most of the competing attempts for decentralizing media](competition.md) are nowhere close. There are a few aspects to retaining the comforts and UX of Web2 that we've become so accustomed to:
 
-<img src="/img/meme_make_them_learn.png" align="right" style="margin-left: 8px; width: 35%"/>
+<img src="/img/meme_make_them_learn.png" align="right" style={{marginLeft: "8px", width: "35%"}}/>
 
 1. Nobody wants to deal with keys, wallets & self-custody because of all the headaches & complexities that come along with that. Creation & media are different from exchange & finance and it's OK to trust by default as long as there's [a fallback](#decentralization-neutrality--sovereignty). We should be aiming for **better trust** instead of trustlessness at the cost of UX. Users shouldn't have to manage keypairs on multiple devices & explicitly sign every interaction - by default they'll be logging into identity managers ([IDMs](IDM.md)) using email & passwords or [SSO](https://en.wikipedia.org/wiki/Single_sign-on) (`"login with Google"`) and would then be using these IDMs as [SSO](https://en.wikipedia.org/wiki/Single_sign-on) to authorize applications to post on their behalf without requiring keys & signatures - by delegating trust. This way the majority of Web2 identity & authentication plumbing can be reused with Headjack underneath as just another backend. `"Sign-in with Ethereum"` doesn't scale - we should aim for familiarity.
 
@@ -42,7 +42,8 @@ It is highly improbable that the masses (and even most crypto natives) would tol
 
 <!-- source: https://www.tigosolutions.com/feedstory/1030 -->
 
-<!-- <img src="/img/meme_web2_web3_hands.jpg" align="right" style="margin-left: 8px; width: 35%"/> -->
+<!-- <img src="/img/meme_web2_web3_hands.jpg" align="right" style={{marginLeft: "8px", width: "35%"}}/> -->
+
 
 # Web-scale, blockspace & the UNIX philosophy
 
