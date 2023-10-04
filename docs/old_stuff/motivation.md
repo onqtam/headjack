@@ -1,8 +1,8 @@
 # Why Headjack
 
-<img src="/img/meme_trojan_horse.jpg" align="right" style="margin-left: 8px; width: 55%"/>
+<img src="/img/meme_trojan_horse.jpg" align="right" style={{marginLeft: "8px", width: "55%"}}/>
 
-<!-- <img src="/img/meme_domino_effect.jpg" align="right" style="margin-left: 8px; width: 55%"/> -->
+<!-- <img src="/img/meme_domino_effect.jpg" align="right" style={{marginLeft: "8px", width: "55%"}}/> -->
 
 <!-- linking data to identity without keys at scale
 unbundling monopolies, decentralizing media & rearchitecting the web
@@ -41,8 +41,8 @@ https://www.google.com/search?q=the+golden+circle
 
 > "One of the things I've always found is that **you've got to start with the customer experience and work backwards to the technology.**" - [Steve Jobs](https://www.youtube.com/watch?v=916Ye9XmIjI)
 
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube.com/embed/916Ye9XmIjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style={{position: "relative", width: "100%", height: "0", paddingBottom: "56.25%"}}>
+<iframe style={{position: "absolute", top: "0", left: "0", width: "100%", height: "100%"}} src="https://www.youtube-nocookie.com/embed/916Ye9XmIjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 > "Problems are always parochial. Solutions, however, can sometimes be universal." - [Brett Hall](https://twitter.com/ToKTeacher/status/1651422936191078402)

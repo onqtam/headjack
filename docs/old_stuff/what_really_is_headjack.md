@@ -144,7 +144,7 @@ Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel
 
 > "The “metaverse” as I like to envision it, is a globally shared and permanent digital reality not owned by any single entity that any company, platform, or person can plug into, regardless of where they are or what device they’re using." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 
-<img src="/img/headjack-t-shirt_450_600.jpg" align="right" style="margin-left: 8px; width: 35%"/>
+<img src="/img/headjack-t-shirt_450_600.jpg" align="right" style={{marginLeft: "8px", width: "35%"}}/>
 
 In the Metaverse entities will connect & interact with information under a common global namespace & surf the web through competing applications & views that present & filter commonly addressable data in any way imaginable. It will be built on top of a layered stack of technologies & open protocols and <u>**underneath everything sit Headjack's primitives: identity, authorization & content addressing**</u>. All events can & will be interlinked, tied to identity & made easily referencable. Anything can be built & made composable & interoperable on top of these building blocks as long as they don't impose any constraints - no more walled gardens. Furthermore, the Metaverse is mostly about agency in creation - transaction, exchange & finance are not at the forefront and will be handled by other layers & protocols like generalized smart contract chains & NFTs.
 
@@ -192,8 +192,8 @@ Cooperating flexibly in large numbers has led us to an evolutionary advantage - 
 
 > "The Internet is the largest engineering project the earth has ever seen - and we're just getting started" - [Barrett Lyon](https://en.wikipedia.org/wiki/Barrett_Lyon), founder of [OPTE Project](https://www.opte.org/)
 
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style={{position: "relative", width: "100%", height: "0", paddingBottom: "56.25%"}}>
+<iframe style={{position: "absolute", top: "0", left: "0", width: "100%", height: "100%"}} src="https://www.youtube-nocookie.com/embed/DdaElt6oP6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Civilization was born in the fog of war and [Satoshi](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) upgraded our capacity for trust & cooperation.
@@ -257,7 +257,7 @@ a new era for communication, cooperation & compute
 
 <!-- Giving data names forever -->
 
-<h1 style="text-align:center">
+<h1 style={{textAlign: "center"}}>
 <u><i>End the host-centric model by linking data to identity at scale & unbundle the media stack.</i></u>
 </h1>
 
