@@ -1,8 +1,8 @@
 # Why Headjack
 
-<img src="images/meme_trojan_horse.jpg" align="right" style="margin-left: 8px; width: 55%"/>
+<img src="/img/meme_trojan_horse.jpg" align="right" style="margin-left: 8px; width: 55%"/>
 
-<!-- <img src="images/meme_domino_effect.jpg" align="right" style="margin-left: 8px; width: 55%"/> -->
+<!-- <img src="/img/meme_domino_effect.jpg" align="right" style="margin-left: 8px; width: 55%"/> -->
 
 <!-- linking data to identity without keys at scale
 unbundling monopolies, decentralizing media & rearchitecting the web

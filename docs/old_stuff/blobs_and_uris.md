@@ -16,7 +16,7 @@ When enough activity has been collected it is time for the application to finali
 
 The only 2 things that are signed & submitted on-chain are thus the Merkle root and the IPFS CID for the next nonce (auto-increment counter) associated with the application account.
 
-<img src="images/blob_structure.png"/>
+<img src="/img/blob_structure.png"/>
 
 <!-- <object width=100% data="images/blob_structure.svg"></object> -->
 
@@ -30,11 +30,11 @@ Each account has an associated auto-increment counter (nonce) for every time the
 
 <!-- The 2 can be extracted from the block. -->
 
-<img src="images/blob_URI.png"/>
+<img src="/img/blob_URI.png"/>
 
 Once a blob is fetched through the [IPFS CID](https://docs.ipfs.io/concepts/content-addressing/) (hash) we can address specific events by using the offset index in the blob header so a URI like `<application_id>/<nonce>/<user_id>/<content_id>` can point to a specific post, comment or even reaction (activity is grouped by users). The content ID for a specific user is usually a small single-digit number and is necessary only if there has been more than 1 interaction by that user through that application for the given nonce (maybe rare). This is what events with URIs referring to each other looks like:
 
-<img src="images/content_references.png"/>
+<img src="/img/content_references.png"/>
 
 The blockchain can be queried if the application was allowed to post content on behalf of the user with an on-chain authorization (which probably happened through an [IDM](IDM.md)) when that specific block was published in order to determine if the activity is authentic - the state keeps information for each account such as since what block number a given application was authorized to post on behalf of a user (and until when - all ranges). Users may avoid using IDMs and explicitly sign their actions in which case their data will be accompanied by their signatures within the data blobs and the only check required will be for the user keypair used for the specific block number.
 

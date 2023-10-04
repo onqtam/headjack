@@ -10,7 +10,7 @@ Users and applications don't need a name and can operate as an integer index jus
 
 Every name has an associated auto-increment nonce (just like account IDs) for every time they submit an anchor for off-chain content and the blockchain records maps of `<name>/<nonce>` to `<id>/<nonce>` which can then be used to resolve the URI as discussed in the [previous chapter](uris.md).
 
-<img src="images/account_name_state.png"/>
+<img src="/img/account_name_state.png"/>
 
 But we need to be able to translate not just the application name but also the user name which may have changed ownership at any point - for that the blockchain keeps track of the account ID ownership of every name historically as ranges (from block X to block Y name N was owned by account A) so when we determine the block number for a given data blob we'd be able to check to which account ID does a name in a URI correspond to at that time.
 
@@ -45,7 +45,7 @@ Most Web3 platforms [suffer from unreadable URIs](https://twitter.com/hasufl/sta
 **Or is it?!** What about headlines of articles - can we have them included as well - something like `twitter.com/55212/johnny/3/how-I-went-from-vegan-to-keto-and-back-again`? Absolutely! The string is not at all necessary to resolve the piece of content (just like in StackOverflow where the database key for a question is just a number (example: [question 4](https://stackoverflow.com/questions/4)) but the page router always changes the URL when loading the page to include the title too). [Message types](messages.md) for posts with titles will have a dedicated field which will get included in the content hash and thus spoofing the title will be rejected by conforming applications as it would be a trivial check.
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_drake_human_readable_hashes.jpg"/>
+    <img src="/img/meme_drake_human_readable_hashes.jpg"/>
 </div>
 
 <!-- Web3 URIs
@@ -74,7 +74,7 @@ Different schemas could be used for addressing within pieces of content (like a 
 For big types of content (audio/video) the message could be broken down into chunks so that users can load only the message header and then depending on the schema used and the addressing within the content - only the necessary chunks could be requested.
 
 <!-- <div style={{textAlign: "center"}}>
-    <img src="images/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg"/>
+    <img src="/img/meme_buffed_vs_weak_doge_persistent_uris_vs_nft_domains.jpg"/>
 </div> -->
 
 <!-- Persistent

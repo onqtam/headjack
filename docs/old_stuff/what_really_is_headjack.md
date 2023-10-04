@@ -35,7 +35,7 @@ When compared to [Kafka](https://kafka.apache.org/intro): it provides only logic
 Twitter's firehose allowed you to ingest all events on the platform in real time for a [steep price](https://qr.ae/pvly2N) and was eventually [shut down](https://www.forbes.com/sites/benkepes/2015/04/11/how-to-kill-your-ecosystem-twitter-pulls-an-evil-move-with-its-firehose/?sh=4cd97d0f61d3). Headjack is the global, generalized & permissionless version of it.
 
 <div style={{textAlign: "center"}}>
-    <img src="images/meme_man_drinking_from_firehose.png"/>
+    <img src="/img/meme_man_drinking_from_firehose.png"/>
 </div>
 
 # The address space of the World Computer
@@ -74,7 +74,7 @@ Everything in software deals with abstractions but very few are done right:
 
 A narrow waist protocol is a constraint that unconstrains everything on top of it when communicating with everything on the bottom - allowing for the 2 layers to evolve independently of one another. It should be radically simple, minimalistic, stable & unopinionated about what goes on below or on top of it. The [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol) is perhaps the best example:
 
-<img src="images/internet_protocol_stack_hour_glass.jpg"/>
+<img src="/img/internet_protocol_stack_hour_glass.jpg"/>
 
 <!-- source:
 https://twitter.com/alive_eth/status/1228348431443214338
@@ -125,7 +125,7 @@ Headjack is a confluence of multiple interrelated things (identity, names, autho
 
 Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - acting as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence). It will disaggregate traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts." - Aristotle`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts).
 
-<img src="images/flywheel.png"/>
+<img src="/img/flywheel.png"/>
 
 <!--
 - more composability & code reuse
@@ -144,7 +144,7 @@ Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel
 
 > "The “metaverse” as I like to envision it, is a globally shared and permanent digital reality not owned by any single entity that any company, platform, or person can plug into, regardless of where they are or what device they’re using." - [source](https://joshua.mirror.xyz/-xpmr7ceHmi5Hqsl7zRtig9ph_dtCvWjZOoWOVN0bcg)
 
-<img src="images/headjack-t-shirt_450_600.jpg" align="right" style="margin-left: 8px; width: 35%"/>
+<img src="/img/headjack-t-shirt_450_600.jpg" align="right" style="margin-left: 8px; width: 35%"/>
 
 In the Metaverse entities will connect & interact with information under a common global namespace & surf the web through competing applications & views that present & filter commonly addressable data in any way imaginable. It will be built on top of a layered stack of technologies & open protocols and <u>**underneath everything sit Headjack's primitives: identity, authorization & content addressing**</u>. All events can & will be interlinked, tied to identity & made easily referencable. Anything can be built & made composable & interoperable on top of these building blocks as long as they don't impose any constraints - no more walled gardens. Furthermore, the Metaverse is mostly about agency in creation - transaction, exchange & finance are not at the forefront and will be handled by other layers & protocols like generalized smart contract chains & NFTs.
 
@@ -261,7 +261,7 @@ a new era for communication, cooperation & compute
 <u><i>End the host-centric model by linking data to identity at scale & unbundle the media stack.</i></u>
 </h1>
 
-<img src="images/one_chain_to_link_them_all_1000x800.jpeg"/>
+<img src="/img/one_chain_to_link_them_all_1000x800.jpeg"/>
 
 <!--
 One Chain to
@@ -281,6 +281,6 @@ Headjack
 
 > "What is the most important thing you could be working on in the world right now? ... And if you're not working on that, why aren't you?" - [Aaron Swartz](https://www.azquotes.com/quote/1202481)
 
-<img src="images/meme_get_in_loser_building_the_hivemind.jpg"/>
+<img src="/img/meme_get_in_loser_building_the_hivemind.jpg"/>
 
 Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity.

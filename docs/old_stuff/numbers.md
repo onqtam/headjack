@@ -108,7 +108,7 @@ All on-chain changes just append data to one of the few attributes of:
 TODO: should IPFS hashes & merkle roots be saved in the state?
     - no?
 
-<img src="images/account_name_state.png"/>
+<img src="/img/account_name_state.png"/>
 
 <!-- 
 

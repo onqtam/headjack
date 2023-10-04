@@ -7,7 +7,7 @@ There are 3 types of roles in Headjack (although a single entity may play all 3)
 
 All authorizations are represented & submitted on-chain as simple integer pairs (`2131 => 83253, 6331 => 14415`) that get aggregated in compact blobs & signed in bulk by [IDMs](IDM.md) - achieving a very high signal-to-noise ratio (few signatures) ==> improving the throughput in the valuable block space.
 
-<img src="images/sequenced_integer_relations.png"/>
+<img src="/img/sequenced_integer_relations.png"/>
 
 With this foundation we achieve the following range of usage scenarios:
 
@@ -18,11 +18,11 @@ With this foundation we achieve the following range of usage scenarios:
 - Users can be completely anonymous by directly creating an identity with a keypair & paying for an on-chain transaction. They'll be able to use [IDMs](IDM.md) without having to sign with email/pass or a Web2 [SSO](https://en.wikipedia.org/wiki/Single_sign-on) - not revealing anything.
 - Applications will be usable by users that don't use an [IDM](IDM.md) but all their off-chain activity (posts, comments, reactions) will need explicit signatures.
 
-<img src="images/authorizations.png"/>
+<img src="/img/authorizations.png"/>
 
 So at the core of it all is just sequencing relations between integers & Merkle roots for content.
 
-<img src="images/meme_integers_and_relations.jpg"/>
+<img src="/img/meme_integers_and_relations.jpg"/>
 
 In practice, we expect that only cypherpunks & people that have something to lose (big audience/reputation) will go through the trouble to manage a keypair. Almost everyone will use [IDMs](IDM.md) - even most crypto natives don't want to explicitly sign every action and have their keys in hot wallets ready to get hacked. This way 99.9% of the user activity on-chain (mostly authorizations) ends up going through authorized services and gets batched in a compact way - requiring only that the service signs the aggregated payload and thus reducing the amount of signatures on-chain.
 

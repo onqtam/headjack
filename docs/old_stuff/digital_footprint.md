@@ -245,7 +245,7 @@ We are complex beings with different interests & aspects to our personalities - 
 
 <!-- FIXME: edit picture to add text -->
 
-<img src="images/multidimensionality_cropped.png"/>
+<img src="/img/multidimensionality_cropped.png"/>
 
 
 Even Substack is transitioning to [something like Twitter](https://on.substack.com/p/introducing-notes) but it is built around email for accounts - we can do better.

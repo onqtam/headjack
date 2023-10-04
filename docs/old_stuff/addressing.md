@@ -6,14 +6,14 @@ The move from host-centric to data-centric addressing is a complete paradigm shi
 1. [Blobs & persistent URIs](blobs_and_uris.md)
 1. [Names, paths, & more](names_and_paths.md)
 
-<img src="images/telephone_switchboard_1.png"/>
+<img src="/img/telephone_switchboard_1.png"/>
 
 <!-- source:
 https://culturexchange1.files.wordpress.com/2015/06/sans-titre.png
 https://culturexchange1.wordpress.com/2015/06/02/the-telephone-switchboard-the-story-of-a-revolutionary-instrument/
 -->
 
-<!-- <img src="images/telephone_switchboard_2.webp"/> -->
+<!-- <img src="/img/telephone_switchboard_2.webp"/> -->
 
 <!-- source:
 https://api.time.com/wp-content/uploads/2015/08/phones1.jpeg
