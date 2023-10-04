@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'onqtam', // Usually your GitHub org/user name.
+  projectName: 'headjack', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/onqtam/headjack',
             label: 'GitHub',
             position: 'right',
           },
@@ -99,18 +99,18 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+              // {
+              //   label: 'Stack Overflow',
+              //   href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              // },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/8ZDs5Mv',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              // {
+              //   label: 'Twitter',
+              //   href: 'https://twitter.com/docusaurus',
+              // },
             ],
           },
           {
@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/onqtam/headjack',
               },
             ],
           },
