@@ -15,7 +15,7 @@ This chapter focuses on the disadvantages of some of the more high-profile compe
 Some of this is a subjective estimation - many of the claims lack official sources.
 
 <!-- <iframe src="competition_table.html" title="Comparison table"
-style="width:100%; height:1200px"
+style={{width: "100%", height: "1200px"}}
 ></iframe>
 
 !!!
@@ -25,9 +25,9 @@ https://stackoverflow.com/questions/16660559/difference-between-iframe-embed-and
 
 https://stackoverflow.com/a/31513163
 
-<object data="competition_table.html" style="width:100%; height:1200px"></object>
+<object data="competition_table.html" style={{width: "100%", height: "1200px"}}></object>
 
-<iframe src="competition_table.html" onload='javascript:(function(o){o.style.height=(o.contentWindow.document.body.scrollHeight+30)+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe> -->
+<iframe src="competition_table.html" onload='javascript:(function(o){o.style.height=(o.contentWindow.document.body.scrollHeight+30)+"px";}(this));' style={{height: "200px", width: "100%", border: "none", overflow: "hidden"}}></iframe> -->
 <!-- 
 <div>
 <style type="text/css" scoped>
@@ -49,9 +49,9 @@ https://stackoverflow.com/a/31513163
         text-decoration: underline;
     }
 </style>
-<table class="competition_comparison" style="width:120%;">
+<table class="competition_comparison" style={{width: "120%"}}>
 <tr>
-    <td style="width:16%"></td>
+    <td style={{width: "16%"}}></td>
     <td><b>Headjack</b></td>
     <td><b><a href="competition.md#farcaster">Farcaster</a></b></td>
     <td><b><a href="https://www.dsnp.org/">DSNP</a> & <a href="https://www.frequency.xyz/">Frequency</a></b></td>
@@ -61,192 +61,192 @@ https://stackoverflow.com/a/31513163
     <td><b><a href="https://lens.xyz/">Lens<br/>Protocol</a></b></td>
 </tr>
 <tr>
-    <td style="background-color:grey" colspan="8" height=25px><b>blockchain-related properties</b></td>
+    <td style={{backgroundColor: "grey"}} colspan="8" height=25px><b>blockchain-related properties</b></td>
 </tr>
 <tr>
     <td><b>Scalability & potential scope</b></td> 
-    <td style="background-color:green">can handle billions of users (<a href="numbers.md">proof</a>) & underpin the entire web</td>
-    <td style="background-color:lime">perhaps up to ~10 million - could move to its own rollup</td>
-    <td style="background-color:yellow">perhaps up to a few million  graph changes are on-chain</td>
-    <td style="background-color:green">centralized consortium of servers</td>
-    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
-    <td style="background-color:yellow">perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
-    <td style="background-color:red">actions are on-chain as NFTs (follow, post's hash) - even a dedicated EVM chain will be futile</td>
+    <td style={{backgroundColor: "green"}}>can handle billions of users (<a href="numbers.md">proof</a>) & underpin the entire web</td>
+    <td style={{backgroundColor: "lime"}}>perhaps up to ~10 million - could move to its own rollup</td>
+    <td style={{backgroundColor: "yellow"}}>perhaps up to a few million  graph changes are on-chain</td>
+    <td style={{backgroundColor: "green"}}>centralized consortium of servers</td>
+    <td style={{backgroundColor: "yellow"}}>perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
+    <td style={{backgroundColor: "yellow"}}>perhaps up to<br>a few million - lots of reliance on IPFS, DHTs, hashes & keys</td>
+    <td style={{backgroundColor: "red"}}>actions are on-chain as NFTs (follow, post's hash) - even a dedicated EVM chain will be futile</td>
 </tr>
 <tr>
     <td><b>Users paying for TX fees & linking identity to financial accounts by default</b></td>
-    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
-    <td style="background-color:yellow">Ethereum L1 costs initially planned for subsidy by services</td>
-    <td style="background-color:green">all blockchain costs are paid for by services by default</td>
-    <td style="background-color:green">centralized consortium of servers - no TXs</td>
-    <td style="background-color:lime">the anchors (on-chain Merkle roots) get batched with others</td>
-    <td style="background-color:yellow">only the stream anchors to Ethereum L1 have to be paid for occasionally</td>
-    <td style="background-color:red">yes</td>
+    <td style={{backgroundColor: "green"}}>all blockchain costs are paid for by services by default</td>
+    <td style={{backgroundColor: "yellow"}}>Ethereum L1 costs initially planned for subsidy by services</td>
+    <td style={{backgroundColor: "green"}}>all blockchain costs are paid for by services by default</td>
+    <td style={{backgroundColor: "green"}}>centralized consortium of servers - no TXs</td>
+    <td style={{backgroundColor: "lime"}}>the anchors (on-chain Merkle roots) get batched with others</td>
+    <td style={{backgroundColor: "yellow"}}>only the stream anchors to Ethereum L1 have to be paid for occasionally</td>
+    <td style={{backgroundColor: "red"}}>yes</td>
 </tr>
 <tr>
     <td><b>Blockchain TX fee stability & predictability</b></td>
-    <td style="background-color:green"><a href="numbers.md">as scalable as necessary => no congestion</a></td>
-    <td style="background-color:red">Ethereum L1 - may need to migrate to its own rollup in the future</td>
-    <td style="background-color:lime"><a href="https://forums.projectliberty.io/t/05-what-is-capacity-frequency-economics-part-1/248">their notion of capacity</a> is probably good enough</td>
-    <td style="background-color:green">centralized consortium of servers - no TXs</td>
-    <td style="background-color:lime">Bitcoin TX fees are low due to low economic activity</td>
-    <td style="background-color:red">Ethereum L1 for stream anchors</td>
-    <td style="background-color:lime">Polygon PoS</td>
+    <td style={{backgroundColor: "green"}}><a href="numbers.md">as scalable as necessary => no congestion</a></td>
+    <td style={{backgroundColor: "red"}}>Ethereum L1 - may need to migrate to its own rollup in the future</td>
+    <td style={{backgroundColor: "lime"}}><a href="https://forums.projectliberty.io/t/05-what-is-capacity-frequency-economics-part-1/248">their notion of capacity</a> is probably good enough</td>
+    <td style={{backgroundColor: "green"}}>centralized consortium of servers - no TXs</td>
+    <td style={{backgroundColor: "lime"}}>Bitcoin TX fees are low due to low economic activity</td>
+    <td style={{backgroundColor: "red"}}>Ethereum L1 for stream anchors</td>
+    <td style={{backgroundColor: "lime"}}>Polygon PoS</td>
 </tr>
 <tr>
     <td><b>Block time for anchoring key operations</b></td>
-    <td style="background-color:green">Ethereum ZK validium with multiple blocks in one L1 slot</td>
-    <td style="background-color:lime">Ethereum</td>
-    <td style="background-color:lime">Polkadot</td>
-    <td style="background-color:green">centralized consortium of servers</td>
-    <td style="background-color:red">Bitcoin</td>
-    <td style="background-color:yellow">Ethereum, but the anchors are occasional</td>
-    <td style="background-color:green">Polygon PoS</td>
+    <td style={{backgroundColor: "green"}}>Ethereum ZK validium with multiple blocks in one L1 slot</td>
+    <td style={{backgroundColor: "lime"}}>Ethereum</td>
+    <td style={{backgroundColor: "lime"}}>Polkadot</td>
+    <td style={{backgroundColor: "green"}}>centralized consortium of servers</td>
+    <td style={{backgroundColor: "red"}}>Bitcoin</td>
+    <td style={{backgroundColor: "yellow"}}>Ethereum, but the anchors are occasional</td>
+    <td style={{backgroundColor: "green"}}>Polygon PoS</td>
 </tr>
 <tr>
     <td><b>Time to finality for key operations</b></td>
-    <td style="background-color:yellow">Ethereum</td>
-    <td style="background-color:yellow">Ethereum</td>
-    <td style="background-color:lime">Polkadot</td>
-    <td style="background-color:green">centralized consortium of servers</td>
-    <td style="background-color:red">Bitcoin</td>
-    <td style="background-color:yellow">Ethereum</td>
-    <td style="background-color:lime">Polygon PoS</td>
+    <td style={{backgroundColor: "yellow"}}>Ethereum</td>
+    <td style={{backgroundColor: "yellow"}}>Ethereum</td>
+    <td style={{backgroundColor: "lime"}}>Polkadot</td>
+    <td style={{backgroundColor: "green"}}>centralized consortium of servers</td>
+    <td style={{backgroundColor: "red"}}>Bitcoin</td>
+    <td style={{backgroundColor: "yellow"}}>Ethereum</td>
+    <td style={{backgroundColor: "lime"}}>Polygon PoS</td>
 </tr>
 <tr>
     <td><b>Contains a name registry for easy discoverability & can replace DNS</b></td>
-    <td style="background-color:green">yes - & tightly integrated with addressability - URIs aren't broken <a href="names_and_paths.md">even if names change ownership</a></td>
-    <td style="background-color:green">yes, also works with ENS</td>
-    <td style="background-color:red">no, but might introduce it</td>
-    <td style="background-color:red">no - uses <a href="https://atproto.com/guides/identity">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS (centralized)</td>
-    <td style="background-color:red">no</td>
-    <td style="background-color:red">no, maybe works with ENS</td>
-    <td style="background-color:red">no, maybe works with ENS</td>
+    <td style={{backgroundColor: "green"}}>yes - & tightly integrated with addressability - URIs aren't broken <a href="names_and_paths.md">even if names change ownership</a></td>
+    <td style={{backgroundColor: "green"}}>yes, also works with ENS</td>
+    <td style={{backgroundColor: "red"}}>no, but might introduce it</td>
+    <td style={{backgroundColor: "red"}}>no - uses <a href="https://atproto.com/guides/identity">email-like usernames</a> resolved with <a href="https://webfinger.net/">Webfinger</a> to a <a href="https://www.w3.org/TR/did-core/">DID</a> & relies on DNS (centralized)</td>
+    <td style={{backgroundColor: "red"}}>no</td>
+    <td style={{backgroundColor: "red"}}>no, maybe works with ENS</td>
+    <td style={{backgroundColor: "red"}}>no, maybe works with ENS</td>
 </tr>
 <tr>
     <td><b>Decentralization for the most important parts (keys & registries)</b></td>
-    <td style="background-color:lime">Ethereum ZK validium with external data availability (validium) - <a href="https://www.layrlabs.com/products">EigenDA</a>?</td>
-    <td style="background-color:green">Ethereum</td>
-    <td style="background-color:lime">Polkadot - not big enough set of validators</td>
-    <td style="background-color:red">centralized consortium of servers</td>
-    <td style="background-color:yellow">Bitcoin, but DID operations are only anchored</td>
-    <td style="background-color:yellow">Ethereum, but only the stream anchors go there</td>
-    <td style="background-color:yellow">Polygon PoS</td>
+    <td style={{backgroundColor: "lime"}}>Ethereum ZK validium with external data availability (validium) - <a href="https://www.layrlabs.com/products">EigenDA</a>?</td>
+    <td style={{backgroundColor: "green"}}>Ethereum</td>
+    <td style={{backgroundColor: "lime"}}>Polkadot - not big enough set of validators</td>
+    <td style={{backgroundColor: "red"}}>centralized consortium of servers</td>
+    <td style={{backgroundColor: "yellow"}}>Bitcoin, but DID operations are only anchored</td>
+    <td style={{backgroundColor: "yellow"}}>Ethereum, but only the stream anchors go there</td>
+    <td style={{backgroundColor: "yellow"}}>Polygon PoS</td>
 </tr>
 <tr>
     <td><b>Incentive layer & data availability for the most important (keys & registries)</b></td>
-    <td style="background-color:green">Ethereum ZK Validium</td>
-    <td style="background-color:green">Ethereum</td>
-    <td style="background-color:green">Polkadot</td>
-    <td style="background-color:green">centralized consortium of servers</td>
-    <td style="background-color:red">DID operations are stored in a network on IPFS <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">without incentives</a></td>
-    <td style="background-color:red">the actual streams are in a network w/o incentives</td>
-    <td style="background-color:green">Polygon PoS</td>
+    <td style={{backgroundColor: "green"}}>Ethereum ZK Validium</td>
+    <td style={{backgroundColor: "green"}}>Ethereum</td>
+    <td style={{backgroundColor: "green"}}>Polkadot</td>
+    <td style={{backgroundColor: "green"}}>centralized consortium of servers</td>
+    <td style={{backgroundColor: "red"}}>DID operations are stored in a network on IPFS <a href="https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md#q-what-are-the-availability-guarantees-of-ion">without incentives</a></td>
+    <td style={{backgroundColor: "red"}}>the actual streams are in a network w/o incentives</td>
+    <td style={{backgroundColor: "green"}}>Polygon PoS</td>
 </tr>
 <tr>
-    <td style="background-color:grey" colspan="8" height=25px><b>Data availability, storage, retrievability & addressing</b></td>
+    <td style={{backgroundColor: "grey"}} colspan="8" height=25px><b>Data availability, storage, retrievability & addressing</b></td>
 </tr>
 <tr>
     <td><b>Human-readable & persistent URIs for data without any hashes</b></td>
-    <td style="background-color:green"><a href="names_and_paths.md"><img src="/img/meme_yes_chad_green.png"/></a></td>
-    <td style="background-color:red">URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (probably)</td>
-    <td style="background-color:red">URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
-    <td style="background-color:red">URIs full of <a href="https://atproto.com/guides/data-repos#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
-    <td style="background-color:red">URIs full of hashes (probably)</td>
-    <td style="background-color:red">URIs full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes</a></td>
-    <td style="background-color:red">URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
+    <td style={{backgroundColor: "green"}}><a href="names_and_paths.md"><img src="/img/meme_yes_chad_green.png"/></a></td>
+    <td style={{backgroundColor: "red"}}>URIs full of <a href="https://github.com/farcasterxyz/protocol/pull/1/files">hashes</a> (probably)</td>
+    <td style={{backgroundColor: "red"}}>URIs full of <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">hashes</a></td>
+    <td style={{backgroundColor: "red"}}>URIs full of <a href="https://atproto.com/guides/data-repos#data-layout">hashes</a> - <a href="https://github.com/multiformats/cid">CIDs</a> for IPLD objects</td>
+    <td style={{backgroundColor: "red"}}>URIs full of hashes (probably)</td>
+    <td style={{backgroundColor: "red"}}>URIs full of <a href="https://cerscan.com/testnet-clay/stream/kjzl6cwe1jw1474gby1buhqw8xbnvfmfphpvrs0n01n6jls9kvdx7hu41w0sp1m">hashes</a></td>
+    <td style={{backgroundColor: "red"}}>URIs full of <a href="https://lenster.xyz/posts/0x05-0x04f4">hashes</a></td>
 </tr>
 <tr>
     <td><b>Multiple ways to ask for a URI's document<br/>(in addition to caches/archives)</b></td>
-    <td style="background-color:green;text-align:left;"><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.md">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app identifiable from the URI</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
-    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
-    <td style="background-color:red;">URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
-    <td style="background-color:yellow;text-align:left;">&nbsp;<b>1)</b> user's <a href="https://atproto.com/guides/data-repos">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://atproto.com/guides/data-repos#data-layout">CID</a></td>
-    <td style="background-color:red;text-align:left;">&nbsp;probably<br/>&nbsp;<b>1)</b> user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a><br/>&nbsp;<b>2)</b> p2p network</td>
-    <td style="background-color:red;">only p2p network as Ceramic streams are an abstraction over IPFS</td>
-    <td style="background-color:red;">unsure - maybe the on-chain NFT post</td>
+    <td style={{backgroundColor: "green", textAlign: "left"}}><a href="store_and_retrieve.md#how-to-retrieve-data-for-a-random-uri">&nbsp;multiple ways:</a><br/>&nbsp;<b>1)</b> user's <a href="IDM.md">IDM</a><br/>&nbsp;<b>2)</b> <u><b>source app identifiable from the URI</b></u><br/>&nbsp;<b>3)</b> <u><b>IPFS blob from the block</b></u><br/>&nbsp;<b>4)</b> p2p network</td>
+    <td style={{backgroundColor: "yellow", textAlign: "left"}}>&nbsp;<b>1)</b> user's Hub<br/>&nbsp;<b>2)</b> p2p network</td>
+    <td style={{backgroundColor: "red"}}>URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> without user Hubs (yet) & p2p network</td>
+    <td style={{backgroundColor: "yellow", textAlign: "left"}}>&nbsp;<b>1)</b> user's <a href="https://atproto.com/guides/data-repos">PDR</a><br/>&nbsp;<b>2)</b> maybe p2p network with the content <a href="https://atproto.com/guides/data-repos#data-layout">CID</a></td>
+    <td style={{backgroundColor: "red", textAlign: "left"}}>&nbsp;probably<br/>&nbsp;<b>1)</b> user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a><br/>&nbsp;<b>2)</b> p2p network</td>
+    <td style={{backgroundColor: "red"}}>only p2p network as Ceramic streams are an abstraction over IPFS</td>
+    <td style={{backgroundColor: "red"}}>unsure - maybe the on-chain NFT post</td>
 </tr>
 <tr>
     <td><b>Big reliance on a p2p network for delivering fine-grained messages</b></td>
-    <td style="background-color:green">using a p2p network for specific URIs is the last resort</td>
-    <td style="background-color:red">using a gossip-based pubsub protocol between peers & Hubs</td>
-    <td style="background-color:grey">not sure: their URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> but they don't have an IDM/Hub/ PDR/DWN as a concept (yet)</td>
-    <td style="background-color:green">no - talk directly to a user's <a href="https://atproto.com/guides/data-repos">PDR</a></td>
-    <td style="background-color:grey">not sure: perhaps could directly talk to a user's DWN</td>
-    <td style="background-color:red">yes - IPFS, Ceramic Network & global DHTs</td>
-    <td style="background-color:grey"></td>
+    <td style={{backgroundColor: "green"}}>using a p2p network for specific URIs is the last resort</td>
+    <td style={{backgroundColor: "red"}}>using a gossip-based pubsub protocol between peers & Hubs</td>
+    <td style={{backgroundColor: "grey"}}>not sure: their URIs contain only <a href="https://spec.dsnp.org/DSNP/Identifiers.html?highlight=uri#dsnp-content-uri">user id & content hash</a> but they don't have an IDM/Hub/ PDR/DWN as a concept (yet)</td>
+    <td style={{backgroundColor: "green"}}>no - talk directly to a user's <a href="https://atproto.com/guides/data-repos">PDR</a></td>
+    <td style={{backgroundColor: "grey"}}>not sure: perhaps could directly talk to a user's DWN</td>
+    <td style={{backgroundColor: "red"}}>yes - IPFS, Ceramic Network & global DHTs</td>
+    <td style={{backgroundColor: "grey"}}></td>
 </tr>
 <tr>
     <td><b>Push (broadcast) vs pull (polling) for fetching new content</b></td>
-    <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
-    <td style="background-color:red">pull only - requires polling a user's Hub for anything new</td>
-    <td style="background-color:green">both - event batches are broadcasted & new/individual documents can be requested</td>
-    <td style="background-color:red">pull only - requires polling a user's <a href="https://atproto.com/guides/data-repos">PDR</a> for anything new</td><td style="background-color:red">pull only - requires polling a user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a> for anything new</td>
-    <td style="background-color:green">both - events are broadcasted & new/individual documents can be requested</td>
-    <td style="background-color:grey"></td>
+    <td style={{backgroundColor: "green"}}>both - event batches are broadcasted & new/individual documents can be requested</td>
+    <td style={{backgroundColor: "red"}}>pull only - requires polling a user's Hub for anything new</td>
+    <td style={{backgroundColor: "green"}}>both - event batches are broadcasted & new/individual documents can be requested</td>
+    <td style={{backgroundColor: "red"}}>pull only - requires polling a user's <a href="https://atproto.com/guides/data-repos">PDR</a> for anything new</td><td style={{backgroundColor: "red"}}>pull only - requires polling a user's <a href="https://github.com/TBD54566975/dwn-sdk-js">DWN</a> for anything new</td>
+    <td style={{backgroundColor: "green"}}>both - events are broadcasted & new/individual documents can be requested</td>
+    <td style={{backgroundColor: "grey"}}></td>
 </tr>
 <tr>
     <td><b>Self-authenticating documents</b></td>
-    <td style="background-color:green">proofs are validated by the blockchain</td>
-    <td style="background-color:yellow">need to talk to Ethereum <b>AND</b> the host-certified user directory which can disappear OR change</td>
-    <td style="background-color:yellow">merkle roots <a href="https://github.com/LibertyDSNP/frequency/issues/105">not present</a></td>
-    <td style="background-color:green">proofs are validated by the transparency log</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style={{backgroundColor: "green"}}>proofs are validated by the blockchain</td>
+    <td style={{backgroundColor: "yellow"}}>need to talk to Ethereum <b>AND</b> the host-certified user directory which can disappear OR change</td>
+    <td style={{backgroundColor: "yellow"}}>merkle roots <a href="https://github.com/LibertyDSNP/frequency/issues/105">not present</a></td>
+    <td style={{backgroundColor: "green"}}>proofs are validated by the transparency log</td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
 </tr>
 <tr>
-    <td style="background-color:grey" colspan="8" height=25px><b>Ease of use for developers & users</b></td>
+    <td style={{backgroundColor: "grey"}} colspan="8" height=25px><b>Ease of use for developers & users</b></td>
 </tr>
 <tr>
     <td><b>Can leverage existing Web2 authenticating infrastructure</b></td>
-    <td style="background-color:green">Can leverage all existing OAuth / SAML code</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style={{backgroundColor: "green"}}>Can leverage all existing OAuth / SAML code</td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
 </tr>
 <tr>
     <td><b>Easy to work with mental model vs high cognitive load & complexity</b></td>
-    <td style="background-color:lime">A bit more complexity compared to Web2</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style={{backgroundColor: "lime"}}>A bit more complexity compared to Web2</td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
 </tr>
 <tr>
     <td><b>Can use "custodial" hosted services while retaining ultimate control</b></td>
-    <td style="background-color:green"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style={{backgroundColor: "green"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
 </tr>
 <tr>
     <td><b>Ease of indexing & building responsive UI</b></td>
-    <td style="background-color:green">can be as performant as Web2 and not constrained by block time</td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
-    <td style="background-color:grey"></td>
+    <td style={{backgroundColor: "green"}}>can be as performant as Web2 and not constrained by block time</td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
+    <td style={{backgroundColor: "grey"}}></td>
 </tr> -->
 <!-- <tr>
     <td>-</td>
-    <td style="background-color:green">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
-    <td style="background-color:grey">-</td>
+    <td style={{backgroundColor: "green"}}>-</td>
+    <td style={{backgroundColor: "grey"}}>-</td>
+    <td style={{backgroundColor: "grey"}}>-</td>
+    <td style={{backgroundColor: "grey"}}>-</td>
+    <td style={{backgroundColor: "grey"}}>-</td>
+    <td style={{backgroundColor: "grey"}}>-</td>
+    <td style={{backgroundColor: "grey"}}>-</td>
 </tr> -->
 
 
@@ -382,7 +382,7 @@ https://atproto.com/guides/data-repos
 
 > "Good design is simple. You hear this from math to painting. In math it means that a shorter proof tends to be a better one. Where axioms are concerned, especially, less is more. It means much the same thing in programming. For architects and designers it means that beauty should depend on a few carefully chosen structural elements rather than a profusion of superficial ornament." - [Paul Graham](http://www.paulgraham.com/taste.html#:~:text=Good%20design%20is,of%20superficial%20ornament.)
 
-<img src="/img/meme_they_dont_know_pubkeys.jpeg" align="right" style="margin-left: 8px; width: 50%"/>
+<img src="/img/meme_they_dont_know_pubkeys.jpeg" align="right" style={{marginLeft: "8px", width: "50%"}}/>
 
 <!-- https://twitter.com/ArvinK/status/1620833678816575488 -->
 

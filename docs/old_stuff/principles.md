@@ -1,8 +1,10 @@
+# Design - guiding principles
+
 <!--
 FIX will/can/should and present tense discrepancies
 -->
 
-# Design - guiding principles
+
 
 These are the guiding principles when aiming for mass adoption of Headjack:
 

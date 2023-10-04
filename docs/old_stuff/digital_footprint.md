@@ -85,7 +85,7 @@ Let's consider the visibility spectrum of our actions - from **private** (person
 </style>
 <table class="visibility_table">
 <tr>
-    <td style="background-color:teal; width:16%"><b><u>Twitter</u></b></td>
+    <td style={{backgroundColor: "teal", width: "16%"}}><b><u>Twitter</u></b></td>
     <td><b>Posts & documents</b></td>
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
@@ -97,41 +97,41 @@ Let's consider the visibility spectrum of our actions - from **private** (person
 </tr>
 <tr>
     <td><b>Public</b></td> 
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
 </tr>
 <tr>
     <td><b>Shared</b></td> 
-    <td style="background-color:yellow">Only followers</td>
-    <td style="background-color:yellow">Only followers</td>
-    <td style="background-color:yellow">Only followers</td>
-    <td style="background-color:yellow">Only followers</td>
-    <td style="background-color:grey">Not sure</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
+    <td style={{backgroundColor: "yellow"}}>Only followers</td>
+    <td style={{backgroundColor: "yellow"}}>Only followers</td>
+    <td style={{backgroundColor: "yellow"}}>Only followers</td>
+    <td style={{backgroundColor: "yellow"}}>Only followers</td>
+    <td style={{backgroundColor: "grey"}}>Not sure</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
 </tr>
 <tr>
     <td><b>Private</b></td> 
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:yellow">Only as lists</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:green">Yes</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "yellow"}}>Only as lists</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
 </tr>
 </table>
 <table class="visibility_table">
 <tr>
-    <td style="background-color:teal; width:16%"><b><u>YouTube</u></b></td>
+    <td style={{backgroundColor: "teal", width: "16%"}}><b><u>YouTube</u></b></td>
     <td><b>Posts & documents</b></td>
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
@@ -143,41 +143,41 @@ Let's consider the visibility spectrum of our actions - from **private** (person
 </tr>
 <tr>
     <td><b>Public</b></td> 
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:yellow">Can't browse</td>
-    <td style="background-color:yellow">Aggregated</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "yellow"}}>Can't browse</td>
+    <td style={{backgroundColor: "yellow"}}>Aggregated</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
 </tr>
 <tr>
     <td><b>Shared</b></td> 
-    <td style="background-color:yellow">Unlisted?</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
+    <td style={{backgroundColor: "yellow"}}>Unlisted?</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
 </tr>
 <tr>
     <td><b>Private</b></td> 
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
 </tr>
 </table>
 <table class="visibility_table">
 <tr>
-    <td style="background-color:teal; width:16%"><b><u>Facebook</u></b></td>
+    <td style={{backgroundColor: "teal", width: "16%"}}><b><u>Facebook</u></b></td>
     <td><b>Posts & documents</b></td>
     <td><b>Comments</b></td>
     <td><b>Reactions</b></td>
@@ -189,36 +189,36 @@ Let's consider the visibility spectrum of our actions - from **private** (person
 </tr>
 <tr>
     <td><b>Public</b></td> 
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:yellow">Only friends</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "yellow"}}>Only friends</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
 </tr>
 <tr>
     <td><b>Shared</b></td> 
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:yellow">Only friends</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "yellow"}}>Only friends</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
 </tr>
 <tr>
     <td><b>Private</b></td> 
-    <td style="background-color:grey">Not sure</td>
-    <td style="background-color:grey">Not sure</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:grey">Not sure</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:green">Yes</td>
-    <td style="background-color:red">No</td>
-    <td style="background-color:red">No</td>
+    <td style={{backgroundColor: "grey"}}>Not sure</td>
+    <td style={{backgroundColor: "grey"}}>Not sure</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "grey"}}>Not sure</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "green"}}>Yes</td>
+    <td style={{backgroundColor: "red"}}>No</td>
+    <td style={{backgroundColor: "red"}}>No</td>
 </tr>
 </table> -->
 
