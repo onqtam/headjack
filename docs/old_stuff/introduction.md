@@ -77,7 +77,7 @@ The talk [`"Decentralized identity & content addressing at web-scale"`](https://
 1. [Throughput numbers (scaling)](numbers.md)
 1. [Headjack vs the competition](competition.md)
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/logo.png"/>
 </div>
 

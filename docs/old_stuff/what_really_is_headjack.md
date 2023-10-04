@@ -34,7 +34,7 @@ When compared to [Kafka](https://kafka.apache.org/intro): it provides only logic
 
 Twitter's firehose allowed you to ingest all events on the platform in real time for a [steep price](https://qr.ae/pvly2N) and was eventually [shut down](https://www.forbes.com/sites/benkepes/2015/04/11/how-to-kill-your-ecosystem-twitter-pulls-an-evil-move-with-its-firehose/?sh=4cd97d0f61d3). Headjack is the global, generalized & permissionless version of it.
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_man_drinking_from_firehose.png"/>
 </div>
 

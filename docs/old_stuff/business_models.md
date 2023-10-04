@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
 
@@ -38,7 +38,7 @@ The rule book will be different - instead of [vertically integrated](TODO.md#ver
     - Their output could be used not just for the final presentation layer but also before indexes, models & computed views are created as they could be gamed with spam.
 - Custom types of [data streams](data_legos.md#event-streams), [event subscriptions](data_legos.md#notifications--subscriptions), and anything else one could think of!
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_toy_story_markets.jpg"/>
 </div>
 

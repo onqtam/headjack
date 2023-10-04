@@ -1,7 +1,7 @@
 
 <img src="images/meme_financial_speculation.jpg"/>
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_girls_gossiping_high_score.jpg"/>
 </div>
 
@@ -10,7 +10,7 @@ contribution, accountability,
 competency & altruism score
 https://imgflip.com/memegenerator/289357455/Girls-gossiping -->
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_all_the_things_externalities.jpg"/>
 </div>
 
@@ -19,7 +19,7 @@ all the externalities !!!
 https://imgflip.com/memegenerator/1216800/all-the-things -->
 
 
-<div style="text-align: center;">
+<div style={{textAlign: "center"}}>
     <img src="images/meme_what_is_my_purpose.jpg"/>
 </div>
 
