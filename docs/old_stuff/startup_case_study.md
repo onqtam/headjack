@@ -2,8 +2,6 @@
 
 **Problem statement**: <u>*We should be able to comment & annotate long-form media at specific points in time on its timeline as it is increasingly becoming the preferred medium.*</u>
 
-<!-- toc -->
-
 # The idea
 
 Why not just show a histogram of where most of the comments are and provide a resizable window as an additional widget on the timeline (in addition to the progress cursor) which can filter comments & annotations based on the range and display the threads below Reddit-style with sorting & filtration options? Here's a screenshot of precisely that (ignore the colors & bad style):

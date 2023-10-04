@@ -8,8 +8,6 @@ FIX will/can/should and present tense discrepancies
 
 These are the guiding principles when aiming for mass adoption of Headjack:
 
-<!-- toc -->
-
 # Customer obsession & the best possible UX
 
 It is highly improbable that the masses (and even most crypto natives) would tolerate services that are much worse (slow, limited & cumbersome) and [most of the competing attempts for decentralizing media](competition.md) are nowhere close. There are a few aspects to retaining the comforts and UX of Web2 that we've become so accustomed to:

@@ -13,8 +13,6 @@ Chainlink authenticated data origination
 
 Let's take a look how the web works and what are the building blocks & ideas that enable Headjack:
 
-<!-- toc -->
-
 # Today's web: host-centric
 
 Today's web revolves around hosts & [unicast](https://en.wikipedia.org/wiki/Unicast) communication - we query [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) to get the IP of servers and open direct connections with them to retrieve the data that they host.

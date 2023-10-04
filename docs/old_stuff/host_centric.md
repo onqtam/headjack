@@ -1,7 +1,5 @@
 # The host-centric web
 
-<!-- toc -->
-
 # The host-centric web & its decay
 
 One major problem of the current [host-centric](host_vs_data_centric.md#todays-web-host-centric) internet architecture is that documents are host-certified - we refer to data by location instead of contents, but that leads to link rot & content drift. Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation. We can't expect everyone to be like [@balajis](https://twitter.com/balajis) - linking to articles from the Internet Archive ([Example](https://balajis.com/synthesis/): look what `"Prussian"` in that text is [pointing to](https://archive.ph/O2D45)) - this doesn't scale, data is still not self-authenticating and is reliant on a central point of failure. The internet is a [collective hallucination](https://cyber.harvard.edu/sites/default/files/2019-06/2019-06_zittrainIP.pdf) and is rotting. It's as permanent as a [sand mandala](https://en.wikipedia.org/wiki/Sand_mandala) and its just a matter of time for it to go away. Some great quotes:

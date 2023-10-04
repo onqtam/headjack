@@ -8,8 +8,6 @@ This chapter focuses on the disadvantages of some of the more high-profile compe
 
 <!-- If Bluesky, Farcaster and DSNP had a baby with some special MKUltra spice it would be Headjack -->
 
-<!-- toc -->
-
 # Comparison table
 
 Some of this is a subjective estimation - many of the claims lack official sources.

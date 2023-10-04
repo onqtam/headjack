@@ -2,8 +2,6 @@
 
 # It's all connected
 
-<!-- toc -->
-
 
 ██████████████████████████████████████████████████████████████████
 # provenance, deduplication & authenticity

@@ -1,7 +1,5 @@
 # Attention is all you have
 
-<!-- toc -->
-
 
 <!--
 

@@ -6,8 +6,6 @@ it disrupts layers 3, 4 & 5 of the osi model and turns the web into a computer
 
 Let's explore a few mental models, analogies & points of view when thinking about Headjack:
 
-<!-- toc -->
-
 # Twitter's original sin: protocol vs company
 
 Twitter's potential has fascinated some of the brightest people in the world ever since its inception:
