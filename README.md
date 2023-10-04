@@ -2,7 +2,7 @@
 
 https://onqtam.github.io/headjack/
 
-<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="static/img/youtube_first_talk_thumbnail.png"></a>
+<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="static/img/youtube_first_talk_thumbnail.png"/></a>
 
 
 <!-- Google tag (gtag.js) -->
@@ -16,3 +16,14 @@ https://onqtam.github.io/headjack/
         </script>
 
 
+
+    --bg: hsl(210, 25%, 8%);
+    --bg-img: url("../images/background.jpg");
+
+
+    --bg: hsl(0, 0%, 100%);
+    --bg-img: none;
+
+
+    background-color: var(--bg);
+    background-image: var(--bg-img);
