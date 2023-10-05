@@ -1,8 +1,12 @@
+---
+draft: true
+---
+
+# Messages
+
 <div style={{textAlign: "center"}}>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
-
-# Messages
 
 The terms message/event/action/data/document/content are used interchangeably in this book and refer to any type of event/content a user might have generated - post/comment/reaction/etc.
 

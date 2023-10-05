@@ -1,9 +1,12 @@
+---
+draft: true
+---
+
+# Blocks, state & proofs, oh my!
+
 <div style={{textAlign: "center"}}>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
-
-
-# Blocks, state & proofs, oh my!
 
 <!-- 
 

@@ -1,8 +1,12 @@
+---
+draft: true
+---
+
+# Handles (names)
+
 <div style={{textAlign: "center"}}>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
-
-# Handles (names)
 
 <!-- A global mapping of `handle` (`string`) to X helps resolve queries. X contains:
 

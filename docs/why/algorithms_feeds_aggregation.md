@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Algorithms, feeds & aggregation
 
 import TOCInline from '@theme/TOCInline';
