@@ -1,7 +1,7 @@
 
 
 
-- fix page hierarchy & make as draft all non-finished pages
+- make as draft all non-finished pages
 
 - fix all broken internal links?
 
