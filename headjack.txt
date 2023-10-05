@@ -9,8 +9,6 @@
 
 - fix all broken internal links?
 
-- fix homepage
-
 - set global background image
     --bg: hsl(210, 25%, 8%);
     --bg-img: url("../images/background.jpg");
