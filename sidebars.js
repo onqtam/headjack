@@ -21,6 +21,8 @@ const sidebars = {
   tutorialSidebar: [
     'intro',
 
+    // - [What is Headjack](introduction.md)
+
     {
       type: 'category',
       label: 'What is Headjack',
@@ -31,7 +33,29 @@ const sidebars = {
         id: 'what/index',
       },
       items: [
-        'what/trololo',
+        'what/principles',
+        'what/identity',
+
+        {
+          type: 'category',
+          label: 'Addressing',
+          link: {
+            type: 'doc',
+            id: 'what/addressing',
+          },
+          items: [
+            'what/host_vs_data_centric',
+            'what/blobs_and_uris',
+            'what/names_and_paths',
+          ],
+        },
+
+        'what/messages',
+        'what/idms_preferences',
+        'what/store_and_retrieve',
+        'what/blocks_state_proofs',
+        'what/numbers',
+        'what/competition',
       ],
     },
     {
@@ -47,13 +71,6 @@ const sidebars = {
         'why/trololo',
       ],
     },
-
-    // {
-    //   // id: 'IDM',
-    //   type: 'category',
-    //   label: 'Tutorial',
-    //   items: ['stuff'],
-    // },
   ],
 
 };
