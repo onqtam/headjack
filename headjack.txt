@@ -1,37 +1,30 @@
 
 
 
-- make as draft all non-finished pages
-
-- fix all broken internal links?
-
-- do a successful build
-
-- try to run npm run build on github pages
-
-
-
-
-- fix ToC for all pages (only one top level h1 # per page)
-
-- fix homepage
-
 - add search
     https://docusaurus.io/docs/search
     https://docusaurus.io/docs/next/search
     https://github.com/cmfcmf/docusaurus-search-local
     https://docusaurus.io/feature-requests/p/offline-search
+    https://github.com/dvitanov/lorevc/blob/master/docusaurus.config.js#L113
 
-- test headjack.online domain
+
+- make as draft all non-finished pages
+
+- fix ToC for all pages (only one top level h1 # per page)
+
+
+
+- fix all broken internal links?
+
+- fix homepage
+
 - fix google analytics
     https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics
 
-
-
 - set global background image
 
-- Expand 1 level by default?
-    not sure if possible
+- automate deployment to github pages (currently building in the 'build' folder, then checking out 'gh-pages' as a branch and then swapping the contents of the 'docs' folder with the new contents from 'build')
 
 
 
