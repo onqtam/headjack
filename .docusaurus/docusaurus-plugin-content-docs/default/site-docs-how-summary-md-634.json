@@ -1,0 +1,23 @@
+{
+  "unversionedId": "how/summary",
+  "id": "how/summary",
+  "title": "Summary",
+  "description": "- What is Headjack",
+  "source": "@site/docs/how/summary.md",
+  "sourceDirName": "how",
+  "slug": "/how/summary",
+  "permalink": "/docs/how/summary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Algorithms, feeds & aggregation",
+    "permalink": "/docs/why/algorithms_feeds_aggregation"
+  },
+  "next": {
+    "title": "To think about",
+    "permalink": "/docs/how/todo"
+  }
+}

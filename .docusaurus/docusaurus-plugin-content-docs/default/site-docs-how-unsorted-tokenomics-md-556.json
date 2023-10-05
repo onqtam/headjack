@@ -1,0 +1,14 @@
+{
+  "unversionedId": "how/unsorted/tokenomics",
+  "id": "how/unsorted/tokenomics",
+  "title": "tokenomics",
+  "description": "If applications have to stake and leaving the stake has a queue they would have more incentive not to leave - sticky.",
+  "source": "@site/docs/how/unsorted/tokenomics.md",
+  "sourceDirName": "how/unsorted",
+  "slug": "/how/unsorted/tokenomics",
+  "permalink": "/docs/how/unsorted/tokenomics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

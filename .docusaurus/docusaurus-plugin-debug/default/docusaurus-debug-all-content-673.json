@@ -1,0 +1,948 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/onqtam/headjack/sidebars.js",
+          "contentPath": "/home/onqtam/headjack/docs",
+          "contentPathLocalized": "/home/onqtam/headjack/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "how/index",
+              "id": "how/index",
+              "title": "Execution (how)",
+              "description": "How the blockchain & ecosystem are actually implemented (full specification).",
+              "source": "@site/docs/how/index.md",
+              "sourceDirName": "how",
+              "slug": "/how/",
+              "permalink": "/docs/how/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "draft": true
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Algorithms, feeds & aggregation",
+                "permalink": "/docs/why/algorithms_feeds_aggregation"
+              },
+              "next": {
+                "title": "Summary",
+                "permalink": "/docs/how/summary"
+              }
+            },
+            {
+              "unversionedId": "how/summary",
+              "id": "how/summary",
+              "title": "Summary",
+              "description": "- What is Headjack",
+              "source": "@site/docs/how/summary.md",
+              "sourceDirName": "how",
+              "slug": "/how/summary",
+              "permalink": "/docs/how/summary",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Execution (how)",
+                "permalink": "/docs/how/"
+              },
+              "next": {
+                "title": "To think about",
+                "permalink": "/docs/how/todo"
+              }
+            },
+            {
+              "unversionedId": "how/todo",
+              "id": "how/todo",
+              "title": "To think about",
+              "description": "- read & think about permissions, sub-app/domain authorization, private data, \"Data Access Controllers\", \"data domain\"",
+              "source": "@site/docs/how/todo.md",
+              "sourceDirName": "how",
+              "slug": "/how/todo",
+              "permalink": "/docs/how/todo",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Summary",
+                "permalink": "/docs/how/summary"
+              },
+              "next": {
+                "title": "topics",
+                "permalink": "/docs/how/topics"
+              }
+            },
+            {
+              "unversionedId": "how/topics",
+              "id": "how/topics",
+              "title": "topics",
+              "description": "<!-- He has high cooperation,",
+              "source": "@site/docs/how/topics.md",
+              "sourceDirName": "how",
+              "slug": "/how/topics",
+              "permalink": "/docs/how/topics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "To think about",
+                "permalink": "/docs/how/todo"
+              }
+            },
+            {
+              "unversionedId": "how/unsorted/architecture",
+              "id": "how/unsorted/architecture",
+              "title": "architecture",
+              "description": "https://github.com/redsolver/skyfeed",
+              "source": "@site/docs/how/unsorted/architecture.md",
+              "sourceDirName": "how/unsorted",
+              "slug": "/how/unsorted/architecture",
+              "permalink": "/docs/how/unsorted/architecture",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "how/unsorted/blob",
+              "id": "how/unsorted/blob",
+              "title": "blob",
+              "description": "an IPFS CID hash nails 2 birds with 1 stone: both a default way to retrieve it + a way to check the integrity even if retrieved not through IPFS",
+              "source": "@site/docs/how/unsorted/blob.md",
+              "sourceDirName": "how/unsorted",
+              "slug": "/how/unsorted/blob",
+              "permalink": "/docs/how/unsorted/blob",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "how/unsorted/roadmap",
+              "id": "how/unsorted/roadmap",
+              "title": "roadmap",
+              "description": "- first 1k/10k indexes reserved & given with auctions/randomly to influential ppl",
+              "source": "@site/docs/how/unsorted/roadmap.md",
+              "sourceDirName": "how/unsorted",
+              "slug": "/how/unsorted/roadmap",
+              "permalink": "/docs/how/unsorted/roadmap",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "how/unsorted/tokenomics",
+              "id": "how/unsorted/tokenomics",
+              "title": "tokenomics",
+              "description": "If applications have to stake and leaving the stake has a queue they would have more incentive not to leave - sticky.",
+              "source": "@site/docs/how/unsorted/tokenomics.md",
+              "sourceDirName": "how/unsorted",
+              "slug": "/how/unsorted/tokenomics",
+              "permalink": "/docs/how/unsorted/tokenomics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "what/addressing",
+              "id": "what/addressing",
+              "title": "Content addressing",
+              "description": "The move from host-centric to data-centric addressing is a complete paradigm shift by itself but Headjack intertwines that with names, on-chain authorization and sequencing of anchors resulting in the best possible URIs in terms of human-readability & persistence - perhaps the most important aspect of the project. This chapter is broken down into a few sub-chapters:",
+              "source": "@site/docs/what/addressing.md",
+              "sourceDirName": "what",
+              "slug": "/what/addressing",
+              "permalink": "/docs/what/addressing",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Identity & authorization",
+                "permalink": "/docs/what/identity"
+              },
+              "next": {
+                "title": "Host vs data-centric",
+                "permalink": "/docs/what/host_vs_data_centric"
+              }
+            },
+            {
+              "unversionedId": "what/blobs_and_uris",
+              "id": "what/blobs_and_uris",
+              "title": "Blobs & persistent URIs",
+              "description": "This chapter will explain how all off-chain messages (actions/events/content) get published:",
+              "source": "@site/docs/what/blobs_and_uris.md",
+              "sourceDirName": "what",
+              "slug": "/what/blobs_and_uris",
+              "permalink": "/docs/what/blobs_and_uris",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Host vs data-centric",
+                "permalink": "/docs/what/host_vs_data_centric"
+              },
+              "next": {
+                "title": "Names & paths",
+                "permalink": "/docs/what/names_and_paths"
+              }
+            },
+            {
+              "unversionedId": "what/blocks_state_proofs",
+              "id": "what/blocks_state_proofs",
+              "title": "blocks_state_proofs",
+              "description": "<!--",
+              "source": "@site/docs/what/blocks_state_proofs.md",
+              "sourceDirName": "what",
+              "slug": "/what/blocks_state_proofs",
+              "permalink": "/docs/what/blocks_state_proofs",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Data storage & retrievability",
+                "permalink": "/docs/what/store_and_retrieve"
+              },
+              "next": {
+                "title": "Throughput & scalability",
+                "permalink": "/docs/what/numbers"
+              }
+            },
+            {
+              "unversionedId": "what/competition",
+              "id": "what/competition",
+              "title": "Headjack vs the competition",
+              "description": "This chapter focuses on the disadvantages of some of the more high-profile competing solutions in the space. Most of the issues are solved in Headjack due to its guiding principles & design goals. This page doesn't list any of their positives as it would be too long (so not exhaustive by any means) but many of them have served as an inspiration for Headjack in one way or another.",
+              "source": "@site/docs/what/competition.md",
+              "sourceDirName": "what",
+              "slug": "/what/competition",
+              "permalink": "/docs/what/competition",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Throughput & scalability",
+                "permalink": "/docs/what/numbers"
+              },
+              "next": {
+                "title": "Why Headjack",
+                "permalink": "/docs/why/"
+              }
+            },
+            {
+              "unversionedId": "what/handles",
+              "id": "what/handles",
+              "title": "handles",
+              "description": "<!-- A global mapping of handle (string) to X helps resolve queries. X contains:",
+              "source": "@site/docs/what/handles.md",
+              "sourceDirName": "what",
+              "slug": "/what/handles",
+              "permalink": "/docs/what/handles",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "messages",
+                "permalink": "/docs/what/messages"
+              },
+              "next": {
+                "title": "IDMs, preferences & graphs",
+                "permalink": "/docs/what/idms_preferences"
+              }
+            },
+            {
+              "unversionedId": "what/host_vs_data_centric",
+              "id": "what/host_vs_data_centric",
+              "title": "Host vs data-centric",
+              "description": "<!--",
+              "source": "@site/docs/what/host_vs_data_centric.md",
+              "sourceDirName": "what",
+              "slug": "/what/host_vs_data_centric",
+              "permalink": "/docs/what/host_vs_data_centric",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Content addressing",
+                "permalink": "/docs/what/addressing"
+              },
+              "next": {
+                "title": "Blobs & persistent URIs",
+                "permalink": "/docs/what/blobs_and_uris"
+              }
+            },
+            {
+              "unversionedId": "what/identity",
+              "id": "what/identity",
+              "title": "Identity & authorization",
+              "description": "There are 3 types of roles in Headjack (although a single entity may play all 3):",
+              "source": "@site/docs/what/identity.md",
+              "sourceDirName": "what",
+              "slug": "/what/identity",
+              "permalink": "/docs/what/identity",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Design - guiding principles",
+                "permalink": "/docs/what/principles"
+              },
+              "next": {
+                "title": "Content addressing",
+                "permalink": "/docs/what/addressing"
+              }
+            },
+            {
+              "unversionedId": "what/idms_preferences",
+              "id": "what/idms_preferences",
+              "title": "IDMs, preferences & graphs",
+              "description": "<!--",
+              "source": "@site/docs/what/idms_preferences.md",
+              "sourceDirName": "what",
+              "slug": "/what/idms_preferences",
+              "permalink": "/docs/what/idms_preferences",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "handles",
+                "permalink": "/docs/what/handles"
+              },
+              "next": {
+                "title": "Data storage & retrievability",
+                "permalink": "/docs/what/store_and_retrieve"
+              }
+            },
+            {
+              "unversionedId": "what/index",
+              "id": "what/index",
+              "title": "What is Headjack",
+              "description": "What is Headjack",
+              "source": "@site/docs/what/index.md",
+              "sourceDirName": "what",
+              "slug": "/what/",
+              "permalink": "/docs/what/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "What is Headjack"
+              },
+              "sidebar": "mainSidebar",
+              "next": {
+                "title": "Design - guiding principles",
+                "permalink": "/docs/what/principles"
+              }
+            },
+            {
+              "unversionedId": "what/messages",
+              "id": "what/messages",
+              "title": "messages",
+              "description": "The terms message/event/action/data/document/content are used interchangeably in this book and refer to any type of event/content a user might have generated - post/comment/reaction/etc.",
+              "source": "@site/docs/what/messages.md",
+              "sourceDirName": "what",
+              "slug": "/what/messages",
+              "permalink": "/docs/what/messages",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Names & paths",
+                "permalink": "/docs/what/names_and_paths"
+              },
+              "next": {
+                "title": "handles",
+                "permalink": "/docs/what/handles"
+              }
+            },
+            {
+              "unversionedId": "what/names_and_paths",
+              "id": "what/names_and_paths",
+              "title": "Names & paths",
+              "description": "Headjack is also a name registry - accounts can own a handle and be identified with it. For specifics around the details (constraints, subdomains, auctions, distribution, hoarding, leasing, etc.) please refer to their dedicated page. In this chapter:",
+              "source": "@site/docs/what/names_and_paths.md",
+              "sourceDirName": "what",
+              "slug": "/what/names_and_paths",
+              "permalink": "/docs/what/names_and_paths",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Blobs & persistent URIs",
+                "permalink": "/docs/what/blobs_and_uris"
+              },
+              "next": {
+                "title": "messages",
+                "permalink": "/docs/what/messages"
+              }
+            },
+            {
+              "unversionedId": "what/numbers",
+              "id": "what/numbers",
+              "title": "Throughput & scalability",
+              "description": "Everyone claims to be scalable, but here we'll prove that Headjack can handle billions of accounts and anchor unlimited amounts of off-chain content tied to identity with simple napkin math.",
+              "source": "@site/docs/what/numbers.md",
+              "sourceDirName": "what",
+              "slug": "/what/numbers",
+              "permalink": "/docs/what/numbers",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "blocks_state_proofs",
+                "permalink": "/docs/what/blocks_state_proofs"
+              },
+              "next": {
+                "title": "Headjack vs the competition",
+                "permalink": "/docs/what/competition"
+              }
+            },
+            {
+              "unversionedId": "what/principles",
+              "id": "what/principles",
+              "title": "Design - guiding principles",
+              "description": "These are the guiding principles when aiming for mass adoption of Headjack:",
+              "source": "@site/docs/what/principles.md",
+              "sourceDirName": "what",
+              "slug": "/what/principles",
+              "permalink": "/docs/what/principles",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "What is Headjack",
+                "permalink": "/docs/what/"
+              },
+              "next": {
+                "title": "Identity & authorization",
+                "permalink": "/docs/what/identity"
+              }
+            },
+            {
+              "unversionedId": "what/store_and_retrieve",
+              "id": "what/store_and_retrieve",
+              "title": "Data storage & retrievability",
+              "description": "In this chapter we will see the different aspects of handling unlimited amounts of off-chain data:",
+              "source": "@site/docs/what/store_and_retrieve.md",
+              "sourceDirName": "what",
+              "slug": "/what/store_and_retrieve",
+              "permalink": "/docs/what/store_and_retrieve",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "IDMs, preferences & graphs",
+                "permalink": "/docs/what/idms_preferences"
+              },
+              "next": {
+                "title": "blocks_state_proofs",
+                "permalink": "/docs/what/blocks_state_proofs"
+              }
+            },
+            {
+              "unversionedId": "why/algorithms_feeds_aggregation",
+              "id": "why/algorithms_feeds_aggregation",
+              "title": "Algorithms, feeds & aggregation",
+              "description": "<!--",
+              "source": "@site/docs/why/algorithms_feeds_aggregation.md",
+              "sourceDirName": "why",
+              "slug": "/why/algorithms_feeds_aggregation",
+              "permalink": "/docs/why/algorithms_feeds_aggregation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Why Headjack",
+                "permalink": "/docs/why/"
+              },
+              "next": {
+                "title": "Execution (how)",
+                "permalink": "/docs/how/"
+              }
+            },
+            {
+              "unversionedId": "why/attention",
+              "id": "why/attention",
+              "title": "Attention is all you have",
+              "description": "<!--",
+              "source": "@site/docs/why/attention.md",
+              "sourceDirName": "why",
+              "slug": "/why/attention",
+              "permalink": "/docs/why/attention",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/business_models",
+              "id": "why/business_models",
+              "title": "business_models",
+              "description": "Let's see how the current digital economy could be translated & reimplemented on top of Headjack.",
+              "source": "@site/docs/why/business_models.md",
+              "sourceDirName": "why",
+              "slug": "/why/business_models",
+              "permalink": "/docs/why/business_models",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/cant_be_evil",
+              "id": "why/cant_be_evil",
+              "title": "Can't be evil",
+              "description": "██████████████████████████████████████████████████████████████████",
+              "source": "@site/docs/why/cant_be_evil.md",
+              "sourceDirName": "why",
+              "slug": "/why/cant_be_evil",
+              "permalink": "/docs/why/cant_be_evil",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/collective_intelligence",
+              "id": "why/collective_intelligence",
+              "title": "collective_intelligence",
+              "description": "Bitcoin Headjack fixes this.",
+              "source": "@site/docs/why/collective_intelligence.md",
+              "sourceDirName": "why",
+              "slug": "/why/collective_intelligence",
+              "permalink": "/docs/why/collective_intelligence",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/concerns",
+              "id": "why/concerns",
+              "title": "Concerns with Headjack",
+              "description": "CHALLENGES !!!",
+              "source": "@site/docs/why/concerns.md",
+              "sourceDirName": "why",
+              "slug": "/why/concerns",
+              "permalink": "/docs/why/concerns",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/cryptohistory",
+              "id": "why/cryptohistory",
+              "title": "History 2.0: cryptohistory",
+              "description": "██████████████████████████████████████████████████████████████████",
+              "source": "@site/docs/why/cryptohistory.md",
+              "sourceDirName": "why",
+              "slug": "/why/cryptohistory",
+              "permalink": "/docs/why/cryptohistory",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/data_legos",
+              "id": "why/data_legos",
+              "title": "Event streams & data legos",
+              "description": "\"Composability is to software as compounding interest is to finance\" - @cdixon",
+              "source": "@site/docs/why/data_legos.md",
+              "sourceDirName": "why",
+              "slug": "/why/data_legos",
+              "permalink": "/docs/why/data_legos",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/digital_footprint",
+              "id": "why/digital_footprint",
+              "title": "Your digital footprint",
+              "description": "How to think about your digital footprint",
+              "source": "@site/docs/why/digital_footprint.md",
+              "sourceDirName": "why",
+              "slug": "/why/digital_footprint",
+              "permalink": "/docs/why/digital_footprint",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "How to think about your digital footprint",
+                "draft": true
+              }
+            },
+            {
+              "unversionedId": "why/evarrow",
+              "id": "why/evarrow",
+              "title": "John Stewart's work",
+              "description": "Code example",
+              "source": "@site/docs/why/evarrow.md",
+              "sourceDirName": "why",
+              "slug": "/why/evarrow",
+              "permalink": "/docs/why/evarrow",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/giant_global_graph",
+              "id": "why/giant_global_graph",
+              "title": "Web 3: the [Giant Global Graph](https://en.wikipedia.org/wiki/Giant_Global_Graph)",
+              "description": "<!--",
+              "source": "@site/docs/why/giant_global_graph.md",
+              "sourceDirName": "why",
+              "slug": "/why/giant_global_graph",
+              "permalink": "/docs/why/giant_global_graph",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/host_centric",
+              "id": "why/host_centric",
+              "title": "The host-centric web",
+              "description": "One major problem of the current host-centric internet architecture is that documents are host-certified - we refer to data by location instead of contents, but that leads to link rot & content drift. Information is fragile without an ecosystem of identity, reputation, references, context & liability - our digital history lacks a solid foundation. We can't expect everyone to be like @balajis - linking to articles from the Internet Archive (Example",
+              "source": "@site/docs/why/host_centric.md",
+              "sourceDirName": "why",
+              "slug": "/why/host_centric",
+              "permalink": "/docs/why/host_centric",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/incentives_algorithms",
+              "id": "why/incentives_algorithms",
+              "title": "Incentives & algorithms",
+              "description": "██████████████████████████████████████████████████████████████████",
+              "source": "@site/docs/why/incentives_algorithms.md",
+              "sourceDirName": "why",
+              "slug": "/why/incentives_algorithms",
+              "permalink": "/docs/why/incentives_algorithms",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/index",
+              "id": "why/index",
+              "title": "Why Headjack",
+              "description": "-->",
+              "source": "@site/docs/why/index.md",
+              "sourceDirName": "why",
+              "slug": "/why/",
+              "permalink": "/docs/why/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "draft": true
+              },
+              "sidebar": "mainSidebar",
+              "previous": {
+                "title": "Headjack vs the competition",
+                "permalink": "/docs/what/competition"
+              },
+              "next": {
+                "title": "Algorithms, feeds & aggregation",
+                "permalink": "/docs/why/algorithms_feeds_aggregation"
+              }
+            },
+            {
+              "unversionedId": "why/information_ecology",
+              "id": "why/information_ecology",
+              "title": "Today's information ecology",
+              "description": "The same document may be published through different platforms and because of the host-certified web of today it will get multiple different URLs. Discussion around it becomes fragmented & shallow in the different platforms with separate comment sections and there isn't a way to de-duplicate & unify it. This facilitates polarization as separate echo chambers can form without seeing the opinion of other types of people.",
+              "source": "@site/docs/why/information_ecology.md",
+              "sourceDirName": "why",
+              "slug": "/why/information_ecology",
+              "permalink": "/docs/why/information_ecology",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/knowledge_management",
+              "id": "why/knowledge_management",
+              "title": "knowledge_management",
+              "description": "<!--",
+              "source": "@site/docs/why/knowledge_management.md",
+              "sourceDirName": "why",
+              "slug": "/why/knowledge_management",
+              "permalink": "/docs/why/knowledge_management",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/moderation",
+              "id": "why/moderation",
+              "title": "moderation",
+              "description": "content moderation from minds.com",
+              "source": "@site/docs/why/moderation.md",
+              "sourceDirName": "why",
+              "slug": "/why/moderation",
+              "permalink": "/docs/why/moderation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/organizing_information",
+              "id": "why/organizing_information",
+              "title": "Organizing information",
+              "description": "██████████████████████████████████████████████████████████████████",
+              "source": "@site/docs/why/organizing_information.md",
+              "sourceDirName": "why",
+              "slug": "/why/organizing_information",
+              "permalink": "/docs/why/organizing_information",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/problems_with_the_web",
+              "id": "why/problems_with_the_web",
+              "title": "problems_with_the_web",
+              "description": "<!--",
+              "source": "@site/docs/why/problems_with_the_web.md",
+              "sourceDirName": "why",
+              "slug": "/why/problems_with_the_web",
+              "permalink": "/docs/why/problems_with_the_web",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/startup_case_study",
+              "id": "why/startup_case_study",
+              "title": "Startup case study",
+              "description": "Problem statement: We should be able to comment & annotate long-form media at specific points in time on its timeline as it is increasingly becoming the preferred medium.",
+              "source": "@site/docs/why/startup_case_study.md",
+              "sourceDirName": "why",
+              "slug": "/why/startup_case_study",
+              "permalink": "/docs/why/startup_case_study",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "why/what_really_is_headjack",
+              "id": "why/what_really_is_headjack",
+              "title": "what_really_is_headjack",
+              "description": "<!--",
+              "source": "@site/docs/why/what_really_is_headjack.md",
+              "sourceDirName": "why",
+              "slug": "/why/what_really_is_headjack",
+              "permalink": "/docs/why/what_really_is_headjack",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "mainSidebar": [
+              {
+                "type": "category",
+                "label": "What is Headjack",
+                "collapsible": true,
+                "collapsed": false,
+                "link": {
+                  "type": "doc",
+                  "id": "what/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "what/principles"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/identity"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Addressing",
+                    "link": {
+                      "type": "doc",
+                      "id": "what/addressing"
+                    },
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "what/host_vs_data_centric"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "what/blobs_and_uris"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "what/names_and_paths"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/messages"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/handles"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/idms_preferences"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/store_and_retrieve"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/blocks_state_proofs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/numbers"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "what/competition"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Why Headjack",
+                "collapsible": true,
+                "collapsed": false,
+                "link": {
+                  "type": "doc",
+                  "id": "why/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "why/algorithms_feeds_aggregation"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Implementation of Headjack",
+                "collapsible": true,
+                "collapsed": false,
+                "link": {
+                  "type": "doc",
+                  "id": "how/index"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "how/summary"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "how/todo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "how/topics"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

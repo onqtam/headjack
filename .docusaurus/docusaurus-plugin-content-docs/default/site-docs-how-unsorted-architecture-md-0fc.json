@@ -1,0 +1,14 @@
+{
+  "unversionedId": "how/unsorted/architecture",
+  "id": "how/unsorted/architecture",
+  "title": "architecture",
+  "description": "https://github.com/redsolver/skyfeed",
+  "source": "@site/docs/how/unsorted/architecture.md",
+  "sourceDirName": "how/unsorted",
+  "slug": "/how/unsorted/architecture",
+  "permalink": "/docs/how/unsorted/architecture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

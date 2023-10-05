@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/addressing",
+  "id": "what/addressing",
+  "title": "Content addressing",
+  "description": "The move from host-centric to data-centric addressing is a complete paradigm shift by itself but Headjack intertwines that with names, on-chain authorization and sequencing of anchors resulting in the best possible URIs in terms of human-readability & persistence - perhaps the most important aspect of the project. This chapter is broken down into a few sub-chapters:",
+  "source": "@site/docs/what/addressing.md",
+  "sourceDirName": "what",
+  "slug": "/what/addressing",
+  "permalink": "/docs/what/addressing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Identity & authorization",
+    "permalink": "/docs/what/identity"
+  },
+  "next": {
+    "title": "Host vs data-centric",
+    "permalink": "/docs/what/host_vs_data_centric"
+  }
+}

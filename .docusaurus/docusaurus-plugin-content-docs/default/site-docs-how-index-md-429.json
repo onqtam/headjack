@@ -1,0 +1,25 @@
+{
+  "unversionedId": "how/index",
+  "id": "how/index",
+  "title": "Execution (how)",
+  "description": "How the blockchain & ecosystem are actually implemented (full specification).",
+  "source": "@site/docs/how/index.md",
+  "sourceDirName": "how",
+  "slug": "/how/",
+  "permalink": "/docs/how/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "draft": true
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Algorithms, feeds & aggregation",
+    "permalink": "/docs/why/algorithms_feeds_aggregation"
+  },
+  "next": {
+    "title": "Summary",
+    "permalink": "/docs/how/summary"
+  }
+}

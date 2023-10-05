@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/blobs_and_uris",
+  "id": "what/blobs_and_uris",
+  "title": "Blobs & persistent URIs",
+  "description": "This chapter will explain how all off-chain messages (actions/events/content) get published:",
+  "source": "@site/docs/what/blobs_and_uris.md",
+  "sourceDirName": "what",
+  "slug": "/what/blobs_and_uris",
+  "permalink": "/docs/what/blobs_and_uris",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Host vs data-centric",
+    "permalink": "/docs/what/host_vs_data_centric"
+  },
+  "next": {
+    "title": "Names & paths",
+    "permalink": "/docs/what/names_and_paths"
+  }
+}

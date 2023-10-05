@@ -1,0 +1,210 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "what/index",
+          "docs": [
+            {
+              "id": "how/summary",
+              "path": "/docs/how/summary",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "how/todo",
+              "path": "/docs/how/todo",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "how/topics",
+              "path": "/docs/how/topics",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "how/unsorted/architecture",
+              "path": "/docs/how/unsorted/architecture"
+            },
+            {
+              "id": "how/unsorted/blob",
+              "path": "/docs/how/unsorted/blob"
+            },
+            {
+              "id": "how/unsorted/roadmap",
+              "path": "/docs/how/unsorted/roadmap"
+            },
+            {
+              "id": "how/unsorted/tokenomics",
+              "path": "/docs/how/unsorted/tokenomics"
+            },
+            {
+              "id": "what/addressing",
+              "path": "/docs/what/addressing",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/blobs_and_uris",
+              "path": "/docs/what/blobs_and_uris",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/blocks_state_proofs",
+              "path": "/docs/what/blocks_state_proofs",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/competition",
+              "path": "/docs/what/competition",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/handles",
+              "path": "/docs/what/handles",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/host_vs_data_centric",
+              "path": "/docs/what/host_vs_data_centric",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/identity",
+              "path": "/docs/what/identity",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/idms_preferences",
+              "path": "/docs/what/idms_preferences",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/index",
+              "path": "/docs/what/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/messages",
+              "path": "/docs/what/messages",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/names_and_paths",
+              "path": "/docs/what/names_and_paths",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/numbers",
+              "path": "/docs/what/numbers",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/principles",
+              "path": "/docs/what/principles",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "what/store_and_retrieve",
+              "path": "/docs/what/store_and_retrieve",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/algorithms_feeds_aggregation",
+              "path": "/docs/why/algorithms_feeds_aggregation",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "why/attention",
+              "path": "/docs/why/attention"
+            },
+            {
+              "id": "why/business_models",
+              "path": "/docs/why/business_models"
+            },
+            {
+              "id": "why/cant_be_evil",
+              "path": "/docs/why/cant_be_evil"
+            },
+            {
+              "id": "why/collective_intelligence",
+              "path": "/docs/why/collective_intelligence"
+            },
+            {
+              "id": "why/concerns",
+              "path": "/docs/why/concerns"
+            },
+            {
+              "id": "why/cryptohistory",
+              "path": "/docs/why/cryptohistory"
+            },
+            {
+              "id": "why/data_legos",
+              "path": "/docs/why/data_legos"
+            },
+            {
+              "id": "why/evarrow",
+              "path": "/docs/why/evarrow"
+            },
+            {
+              "id": "why/giant_global_graph",
+              "path": "/docs/why/giant_global_graph"
+            },
+            {
+              "id": "why/host_centric",
+              "path": "/docs/why/host_centric"
+            },
+            {
+              "id": "why/incentives_algorithms",
+              "path": "/docs/why/incentives_algorithms"
+            },
+            {
+              "id": "why/information_ecology",
+              "path": "/docs/why/information_ecology"
+            },
+            {
+              "id": "why/knowledge_management",
+              "path": "/docs/why/knowledge_management"
+            },
+            {
+              "id": "why/moderation",
+              "path": "/docs/why/moderation"
+            },
+            {
+              "id": "why/organizing_information",
+              "path": "/docs/why/organizing_information"
+            },
+            {
+              "id": "why/problems_with_the_web",
+              "path": "/docs/why/problems_with_the_web"
+            },
+            {
+              "id": "why/startup_case_study",
+              "path": "/docs/why/startup_case_study"
+            },
+            {
+              "id": "why/what_really_is_headjack",
+              "path": "/docs/why/what_really_is_headjack"
+            }
+          ],
+          "draftIds": [
+            "how/index",
+            "why/digital_footprint",
+            "why/index"
+          ],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/docs/what/",
+                "label": "What is Headjack"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/principles",
+  "id": "what/principles",
+  "title": "Design - guiding principles",
+  "description": "These are the guiding principles when aiming for mass adoption of Headjack:",
+  "source": "@site/docs/what/principles.md",
+  "sourceDirName": "what",
+  "slug": "/what/principles",
+  "permalink": "/docs/what/principles",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "What is Headjack",
+    "permalink": "/docs/what/"
+  },
+  "next": {
+    "title": "Identity & authorization",
+    "permalink": "/docs/what/identity"
+  }
+}

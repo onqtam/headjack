@@ -1,0 +1,14 @@
+{
+  "unversionedId": "why/evarrow",
+  "id": "why/evarrow",
+  "title": "John Stewart's work",
+  "description": "Code example",
+  "source": "@site/docs/why/evarrow.md",
+  "sourceDirName": "why",
+  "slug": "/why/evarrow",
+  "permalink": "/docs/why/evarrow",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

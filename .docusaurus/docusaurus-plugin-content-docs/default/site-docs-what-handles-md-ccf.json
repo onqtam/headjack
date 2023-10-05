@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/handles",
+  "id": "what/handles",
+  "title": "handles",
+  "description": "<!-- A global mapping of handle (string) to X helps resolve queries. X contains:",
+  "source": "@site/docs/what/handles.md",
+  "sourceDirName": "what",
+  "slug": "/what/handles",
+  "permalink": "/docs/what/handles",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "messages",
+    "permalink": "/docs/what/messages"
+  },
+  "next": {
+    "title": "IDMs, preferences & graphs",
+    "permalink": "/docs/what/idms_preferences"
+  }
+}

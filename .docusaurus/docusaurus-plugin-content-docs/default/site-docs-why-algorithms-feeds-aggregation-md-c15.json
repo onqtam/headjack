@@ -1,0 +1,23 @@
+{
+  "unversionedId": "why/algorithms_feeds_aggregation",
+  "id": "why/algorithms_feeds_aggregation",
+  "title": "Algorithms, feeds & aggregation",
+  "description": "<!--",
+  "source": "@site/docs/why/algorithms_feeds_aggregation.md",
+  "sourceDirName": "why",
+  "slug": "/why/algorithms_feeds_aggregation",
+  "permalink": "/docs/why/algorithms_feeds_aggregation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Headjack vs the competition",
+    "permalink": "/docs/what/competition"
+  },
+  "next": {
+    "title": "Summary",
+    "permalink": "/docs/how/summary"
+  }
+}
