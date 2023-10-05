@@ -20,6 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'onqtam', // Usually your GitHub org/user name.
   projectName: 'headjack', // Usually your repo name.
+  trailingSlash: false,
 
   // onBrokenLinks: 'throw',
   onBrokenLinks: 'warn',
