@@ -2,7 +2,7 @@
 
 https://onqtam.github.io/headjack/
 
-<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="/img/youtube_first_talk_thumbnail.png"/></a>
+<a href="https://www.youtube.com/watch?v=pEl2vLTStWE"><img src="static/img/youtube_first_talk_thumbnail.png"/></a>
 
 
 <!-- Google tag (gtag.js) -->
