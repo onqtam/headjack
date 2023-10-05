@@ -21,6 +21,7 @@ const config = {
   organizationName: 'onqtam', // Usually your GitHub org/user name.
   projectName: 'headjack', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   // onBrokenLinks: 'throw',
   onBrokenLinks: 'warn',
