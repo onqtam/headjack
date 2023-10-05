@@ -1,8 +1,12 @@
+---
+draft: true
+---
+
+# Secret master plan - or Tech tree
+
 <div style={{textAlign: "center"}}>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
-
-# Secret master plan - or Tech tree
 
 # Go to market & growth strategy
 

@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # To think about
 
 - read & think about permissions, sub-app/domain authorization, private data, "Data Access Controllers", "data domain"
