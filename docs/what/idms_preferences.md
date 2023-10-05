@@ -1,8 +1,9 @@
+# IDMs, preferences & graphs
+
 <div style={{textAlign: "center"}}>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
 
-# IDMs, preferences & graphs
 
 <!--
 how it gets managed by IDMs (so they will also touch IPFS?!)
