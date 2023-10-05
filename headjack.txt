@@ -1,9 +1,20 @@
 
 
 
-- fix page hierarchy
+- fix page hierarchy & make as draft all non-finished pages
 
 - fix all broken internal links?
+
+- do a successful build
+
+- try to run npm run build on github pages
+
+
+
+
+- fix ToC for all pages (only one top level h1 # per page)
+
+- fix homepage
 
 - add search
     https://docusaurus.io/docs/search
@@ -11,18 +22,18 @@
     https://github.com/cmfcmf/docusaurus-search-local
     https://docusaurus.io/feature-requests/p/offline-search
 
-- Expand 1 level by default?
-
-- fix ToC for all pages (only one top level h1 # per page)
-
-- do a successful build
-
-- try to run npm run build on github pages
 - test headjack.online domain
 - fix google analytics
     https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics
 
+
+
 - set global background image
+
+- Expand 1 level by default?
+    not sure if possible
+
+
 
 
 
