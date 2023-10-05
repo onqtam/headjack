@@ -49,6 +49,7 @@ const sidebars = {
           ],
         },
         'what/messages',
+        'what/handles',
         'what/idms_preferences',
         'what/store_and_retrieve',
         'what/blocks_state_proofs',
@@ -66,7 +67,22 @@ const sidebars = {
         id: 'why/index',
       },
       items: [
-        'why/trololo',
+        'why/algorithms_feeds_aggregation',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Implementation of Headjack',
+      collapsible: true,
+      collapsed: false,
+      link: {
+        type: 'doc',
+        id: 'how/index',
+      },
+      items: [
+        'how/summary',
+        'how/todo',
+        'how/topics',
       ],
     },
   ],
