@@ -38,6 +38,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // collapsible: true,
+          // collapsed: false,
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -61,12 +63,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+      },
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo.png',
       navbar: {
         hideOnScroll: true,
         title: 'Headjack',
@@ -81,7 +86,11 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'search',
+            position: 'right',
+          },
           {
             href: 'https://github.com/onqtam/headjack',
             label: 'GitHub',
@@ -132,6 +141,10 @@ const config = {
             ],
           },
         ],
+        logo: {
+          alt: 'Headjack Logo',
+          src: 'img/logo.png',
+        },
         copyright: `Copyright © ${new Date().getFullYear()} Headjack, Inc. Built with Docusaurus.`,
       },
       prism: {
