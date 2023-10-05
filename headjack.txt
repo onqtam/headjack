@@ -1,11 +1,9 @@
 
 
 
-- Expand 1 level by default?
-
 - fix page hierarchy
 
-- remove blog/pages & other unnecessary stuff
+- fix all broken internal links?
 
 - add search
     https://docusaurus.io/docs/search
@@ -13,10 +11,11 @@
     https://github.com/cmfcmf/docusaurus-search-local
     https://docusaurus.io/feature-requests/p/offline-search
 
+- Expand 1 level by default?
+
 - fix ToC for all pages (only one top level h1 # per page)
 
 - do a successful build
-    fix all broken internal links?
 
 - try to run npm run build on github pages
 - test headjack.online domain

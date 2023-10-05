@@ -1,3 +1,8 @@
+---
+description: How to think about your digital footprint
+draft: true
+---
+
 # Your digital footprint
 
 <iframe align="right" width="50%" src="https://www.youtube.com/embed/CyGWML6cI_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
