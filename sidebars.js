@@ -19,7 +19,7 @@ const sidebars = {
   // But you can create a sidebar manually
 
   tutorialSidebar: [
-    'intro',
+    // 'what/index',
 
     // - [What is Headjack](introduction.md)
 
@@ -35,7 +35,6 @@ const sidebars = {
       items: [
         'what/principles',
         'what/identity',
-
         {
           type: 'category',
           label: 'Addressing',
@@ -49,7 +48,6 @@ const sidebars = {
             'what/names_and_paths',
           ],
         },
-
         'what/messages',
         'what/idms_preferences',
         'what/store_and_retrieve',

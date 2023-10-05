@@ -1,7 +1,6 @@
 ---
 description: How to think about your digital footprint
 draft: true
-sidebar_position: 1
 ---
 
 # Your digital footprint
