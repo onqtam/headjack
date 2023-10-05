@@ -1,12 +1,12 @@
 # Design - guiding principles
 
+These are the guiding principles when aiming for mass adoption of Headjack:
+
 <!--
 FIX will/can/should and present tense discrepancies
 -->
 
 
-
-These are the guiding principles when aiming for mass adoption of Headjack:
 
 # Customer obsession & the best possible UX
 
