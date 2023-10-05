@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/store_and_retrieve",
+  "id": "what/store_and_retrieve",
+  "title": "Data storage & retrievability",
+  "description": "In this chapter we will see the different aspects of handling unlimited amounts of off-chain data:",
+  "source": "@site/docs/what/store_and_retrieve.md",
+  "sourceDirName": "what",
+  "slug": "/what/store_and_retrieve",
+  "permalink": "/docs/what/store_and_retrieve",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "IDMs, preferences & graphs",
+    "permalink": "/docs/what/idms_preferences"
+  },
+  "next": {
+    "title": "blocks_state_proofs",
+    "permalink": "/docs/what/blocks_state_proofs"
+  }
+}

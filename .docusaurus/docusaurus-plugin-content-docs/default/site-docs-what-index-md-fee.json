@@ -1,0 +1,21 @@
+{
+  "unversionedId": "what/index",
+  "id": "what/index",
+  "title": "What is Headjack",
+  "description": "What is Headjack",
+  "source": "@site/docs/what/index.md",
+  "sourceDirName": "what",
+  "slug": "/what/",
+  "permalink": "/docs/what/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "What is Headjack"
+  },
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "Design - guiding principles",
+    "permalink": "/docs/what/principles"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/host_vs_data_centric",
+  "id": "what/host_vs_data_centric",
+  "title": "Host vs data-centric",
+  "description": "<!--",
+  "source": "@site/docs/what/host_vs_data_centric.md",
+  "sourceDirName": "what",
+  "slug": "/what/host_vs_data_centric",
+  "permalink": "/docs/what/host_vs_data_centric",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Content addressing",
+    "permalink": "/docs/what/addressing"
+  },
+  "next": {
+    "title": "Blobs & persistent URIs",
+    "permalink": "/docs/what/blobs_and_uris"
+  }
+}

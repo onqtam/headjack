@@ -1,0 +1,14 @@
+{
+  "unversionedId": "why/attention",
+  "id": "why/attention",
+  "title": "Attention is all you have",
+  "description": "<!--",
+  "source": "@site/docs/why/attention.md",
+  "sourceDirName": "why",
+  "slug": "/why/attention",
+  "permalink": "/docs/why/attention",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

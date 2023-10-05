@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/idms_preferences",
+  "id": "what/idms_preferences",
+  "title": "IDMs, preferences & graphs",
+  "description": "<!--",
+  "source": "@site/docs/what/idms_preferences.md",
+  "sourceDirName": "what",
+  "slug": "/what/idms_preferences",
+  "permalink": "/docs/what/idms_preferences",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "handles",
+    "permalink": "/docs/what/handles"
+  },
+  "next": {
+    "title": "Data storage & retrievability",
+    "permalink": "/docs/what/store_and_retrieve"
+  }
+}

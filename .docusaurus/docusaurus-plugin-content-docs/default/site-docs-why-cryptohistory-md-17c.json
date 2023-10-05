@@ -1,0 +1,14 @@
+{
+  "unversionedId": "why/cryptohistory",
+  "id": "why/cryptohistory",
+  "title": "History 2.0: cryptohistory",
+  "description": "██████████████████████████████████████████████████████████████████",
+  "source": "@site/docs/why/cryptohistory.md",
+  "sourceDirName": "why",
+  "slug": "/why/cryptohistory",
+  "permalink": "/docs/why/cryptohistory",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "why/collective_intelligence",
+  "id": "why/collective_intelligence",
+  "title": "collective_intelligence",
+  "description": "Bitcoin Headjack fixes this.",
+  "source": "@site/docs/why/collective_intelligence.md",
+  "sourceDirName": "why",
+  "slug": "/why/collective_intelligence",
+  "permalink": "/docs/why/collective_intelligence",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

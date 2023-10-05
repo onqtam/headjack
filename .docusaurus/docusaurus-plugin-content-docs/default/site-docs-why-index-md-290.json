@@ -1,0 +1,25 @@
+{
+  "unversionedId": "why/index",
+  "id": "why/index",
+  "title": "Why Headjack",
+  "description": "-->",
+  "source": "@site/docs/why/index.md",
+  "sourceDirName": "why",
+  "slug": "/why/",
+  "permalink": "/docs/why/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "draft": true
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Headjack vs the competition",
+    "permalink": "/docs/what/competition"
+  },
+  "next": {
+    "title": "Algorithms, feeds & aggregation",
+    "permalink": "/docs/why/algorithms_feeds_aggregation"
+  }
+}

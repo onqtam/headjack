@@ -1,0 +1,17 @@
+{
+  "unversionedId": "why/digital_footprint",
+  "id": "why/digital_footprint",
+  "title": "Your digital footprint",
+  "description": "How to think about your digital footprint",
+  "source": "@site/docs/why/digital_footprint.md",
+  "sourceDirName": "why",
+  "slug": "/why/digital_footprint",
+  "permalink": "/docs/why/digital_footprint",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "How to think about your digital footprint",
+    "draft": true
+  }
+}

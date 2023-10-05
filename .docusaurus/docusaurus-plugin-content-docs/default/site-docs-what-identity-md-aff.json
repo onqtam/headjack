@@ -1,0 +1,23 @@
+{
+  "unversionedId": "what/identity",
+  "id": "what/identity",
+  "title": "Identity & authorization",
+  "description": "There are 3 types of roles in Headjack (although a single entity may play all 3):",
+  "source": "@site/docs/what/identity.md",
+  "sourceDirName": "what",
+  "slug": "/what/identity",
+  "permalink": "/docs/what/identity",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Design - guiding principles",
+    "permalink": "/docs/what/principles"
+  },
+  "next": {
+    "title": "Content addressing",
+    "permalink": "/docs/what/addressing"
+  }
+}
