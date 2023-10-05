@@ -22,8 +22,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'onqtam', // Usually your GitHub org/user name.
   projectName: 'headjack', // Usually your repo name.
-  trailingSlash: false,
-  deploymentBranch: 'gh-pages',
+  // trailingSlash: false,
+  // deploymentBranch: 'gh-pages',
 
   // onBrokenLinks: 'throw',
   onBrokenLinks: 'warn',
