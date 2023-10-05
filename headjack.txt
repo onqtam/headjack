@@ -1,14 +1,6 @@
 
 
 
-- add search
-    https://docusaurus.io/docs/search
-    https://docusaurus.io/docs/next/search
-    https://github.com/cmfcmf/docusaurus-search-local
-    https://docusaurus.io/feature-requests/p/offline-search
-    https://github.com/dvitanov/lorevc/blob/master/docusaurus.config.js#L113
-
-
 - fix google analytics
     https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics
     <!-- Google tag (gtag.js) -->
