@@ -275,6 +275,24 @@ https://spec.dsnp.org/DSNP/Identity.html#retroactive-revocation-of-delegation
 - resolve differences in tenses - can/will/is - present and future
 - more bold in the text to highlight specific sentences & give them more weight
 
+
+== DOCUSAURUS:
+    - make as draft all non-finished pages
+    - fix ToC for all pages (only one top level h1 # per page)
+    - FIX ALL BROKEN INTERNAL LINKS !!!
+
+    - set global background image
+        --bg: hsl(210, 25%, 8%);
+        --bg-img: url("../images/background.jpg");
+        --bg: hsl(0, 0%, 100%);
+        --bg-img: none;
+        background-color: var(--bg);
+        background-image: var(--bg-img);
+
+    - automate deployment to github pages (currently building in the 'build' folder, then checking out 'gh-pages' as a branch and then swapping the contents of the 'docs' folder with the new contents from 'build')
+
+
+
 # Postponed
 
 - merge accounts created from different IDMs?

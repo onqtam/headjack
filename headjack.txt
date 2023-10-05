@@ -1,26 +1,6 @@
 
 
 
-- make as draft all non-finished pages
-
-- fix ToC for all pages (only one top level h1 # per page)
-
-
-
-- fix all broken internal links?
-
-- set global background image
-    --bg: hsl(210, 25%, 8%);
-    --bg-img: url("../images/background.jpg");
-    --bg: hsl(0, 0%, 100%);
-    --bg-img: none;
-    background-color: var(--bg);
-    background-image: var(--bg-img);
-
-- automate deployment to github pages (currently building in the 'build' folder, then checking out 'gh-pages' as a branch and then swapping the contents of the 'docs' folder with the new contents from 'build')
-
-
-
 
 
 The 10 themes of the Global Brain:

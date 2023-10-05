@@ -1,8 +1,12 @@
+---
+draft: true
+---
+
+# Business models
+
 <div style={{textAlign: "center"}}>
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
-
-# Business models
 
 Let's see how the current digital economy could be translated & reimplemented on top of Headjack.
 
