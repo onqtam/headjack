@@ -9,16 +9,6 @@
     https://github.com/dvitanov/lorevc/blob/master/docusaurus.config.js#L113
 
 
-- make as draft all non-finished pages
-
-- fix ToC for all pages (only one top level h1 # per page)
-
-
-
-- fix all broken internal links?
-
-- fix homepage
-
 - fix google analytics
     https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-google-analytics
     <!-- Google tag (gtag.js) -->
@@ -30,6 +20,19 @@
 
         gtag('config', 'G-6BQMDB9SH6');
         </script>
+
+
+
+
+- make as draft all non-finished pages
+
+- fix ToC for all pages (only one top level h1 # per page)
+
+
+
+- fix all broken internal links?
+
+- fix homepage
 
 - set global background image
     --bg: hsl(210, 25%, 8%);
