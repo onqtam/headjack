@@ -2,6 +2,8 @@
 draft: true
 ---
 
+# operating manual for the global brain
+
 <img src="/img/meme_financial_speculation.jpg"/>
 
 <div style={{textAlign: "center"}}>
