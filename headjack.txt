@@ -99,6 +99,47 @@ cybernetics is a transdisciplinary approach for exploring regulatory systems—t
 
 
 
+
+
+something like this thread as a timeline, but all other news shouldn't result in duplicates in the feed
+https://twitter.com/vcdgf555/status/1710746952349184420
+
+community noted: - there should be repercussions for spreading bad info like this
+https://twitter.com/bennyjohnson/status/1710678889456943284
+
+> "We cannot reasonably enforce that AI generated content is watermarked, but we can build a robust, reliable, cheap and scalable trust chain infrastructure for certifying content created and vouched for by humans." - [Joscha Bach](https://twitter.com/Plinz/status/1710409853565628463)
+
+few ratings vs lots of ratings:
+https://twitter.com/HumansNoContext/status/1688256147537498113
+
+
+
+> "An open mind is a prerequisite to an open heart." - [Robert Sapolsky](https://www.azquotes.com/quote/1225688)
+
+> "It is incredibly easy to manipulate us as to who counts as an Us, who as a Them." - [Robert Sapolsky](https://www.azquotes.com/quote/1562507)
+
+> "Brains distinguish between an Us and a Them in a fraction of a second. Subliminal processing of a Them activates the amygdala and insular cortex, brain regions that are all about fear, anxiety, aggression, and disgust." - [Robert Sapolsky](https://www.azquotes.com/quote/1562506)
+
+> "What does the frontal cortex do? Gratification postponement, executive function, long-term planning, and impulse control. Basically, it makes you do the harder thing." - [Robert Sapolsky](https://www.azquotes.com/quote/1562499)
+
+> "The frontal cortex doesn't even fully develop until age 25, which is wild!" - [Robert Sapolsky](https://www.azquotes.com/quote/1562498)
+
+> "The regulation of genes is often more interesting than the genes themselves, and it's the environment that regulates genes." - [Robert Sapolsky](https://www.azquotes.com/quote/1562503)
+
+> "The brain is heavily influenced by genes. But from birth through young adulthood, the part of the human brain that most defines us (frontal cortex) is less a product of the genes with which you started life than of what life has thrown at you. Because it is the last to mature, by definition the frontal cortex is the brain region least constrained by genes and most sculpted by experience. This must be so, to be the supremely complex social species that we are. Ironically, it seems that the genetic program of human brain development has evolved to, as much as possible, free the frontal cortex from genes." - [Robert Sapolsky](https://www.goodreads.com/quotes/8643368-the-brain-is-heavily-influenced-by-genes-but-from-birth)
+
+> "In other words, the default state is to trust, and what the amygdala does is learn vigilance and distrust." - [Robert Sapolsky](https://www.goodreads.com/quotes/8701666-in-other-words-the-default-state-is-to-trust-and)
+
+> "We are constantly being shaped by seemingly irrelevant stimuli, subliminal information, and internal forces we don't know a thing about." - [Robert Sapolsky](https://www.goodreads.com/quotes/8921237-we-are-constantly-being-shaped-by-seemingly-irrelevant-stimuli-subliminal)
+
+> "Probably the most important fact about genetics and culture is the delayed maturation of the frontal cortex—the genetic programming for the young frontal cortex to be freer from genes than other brain regions, to be sculpted instead by environment, to sop up cultural norms. To hark back to a theme from the first pages of this book, it doesn’t take a particularly fancy brain to learn how to motorically, say, throw a punch. But it takes a fancy, environmentally malleable frontal cortex to learn culture-specific rules about when it’s okay to throw punches." - [Robert Sapolsky](https://www.goodreads.com/quotes/8955185-probably-the-most-important-fact-about-genetics-and-culture-is)
+
+> "Words have power. They can save, cure, uplift, devastate, deflate, and kill. And unconscious priming with words influences pro- and antisocial behaviors." - [Robert Sapolsky](https://www.goodreads.com/quotes/8796369-words-have-power-they-can-save-cure-uplift-devastate-deflate)
+
+> "Call the game the “Wall Street Game,” and people become less cooperative. Calling it the “Community Game” does the opposite." - [Robert Sapolsky](https://www.goodreads.com/quotes/8702794-call-the-game-the-wall-street-game-and-people-become)
+
+
+
 > "We are beginning to see the entire universe as a holographically interlinked network of energy and information, organically whole and self referential at all scales of its existence. We, and all things in the universe, are non-locally connected with each other and with all other things in ways that are unfettered by the hitherto known limitations of space and time." - [Ervin Laszlo](https://www.azquotes.com/quote/586113)
 
 > "We are forced to choose, for the processes we have initiated in our lifetime cannot continue in the lifetime of our children. Whatever we do either creates the framework for continuing the supreme adventure of life and consciousness on this planet or sets the stage for its termination. The choice before us is urgent and important: it can neither be postponed nor ignored." - [Ervin Laszlo](https://www.azquotes.com/quote/609848)
@@ -6592,8 +6633,6 @@ when we give a universal address to any item extensibility becomes trivial. Supp
 
 
 The 2 dirtiest words when it comes to the Twitter API: "rate limited" - read "innovation & insight limited"
-
-we should disincentivize engagement farming
 
 The google index for public data is private - it should be public infrastructure
 
