@@ -3,6 +3,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 The 10 themes of the Global Brain:
 
 - 1) EPISTEMICS - error correction & Bayesian inference
@@ -101,8 +111,22 @@ cybernetics is a transdisciplinary approach for exploring regulatory systems—t
 
 
 
+
+
+
+
+
+
+> "Relevance realization is the name I give to a process which I argue is central to general intelligence. Your general intelligence is your capacity to solve a wide variety of problems in a wide variety of domains. For most of the problems you face the interrelated tasks of selecting what you are to pay attention to, what you are going to remember, and what you are going to do. The problem facing attention is that the amount of information available to you is astronomically vast. You have to ignore most of it, which is a lot of information. You cannot just arbitrarily guess what you should attend to nor can you methodically check all the information for that would take more time than your lifetime. There is a similar problem facing memory. Your long term memory stores a vast amount of knowledge, and the number of ways that information can be combined is astronomically vast. Similarly, all the possible sequences of actions which you could undertake is astronomically vast. Yet, moment by moment you are neither guessing nor methodically checking all the information, all your memory, or all the options for action. You are homing in on the relevant information while remembering the information relevant to your situation and selecting a relevant course of action. What is so impressive is how this is all obvious to you, and it is very often relevant to the context you are in and to the problem at hand. You can rely on the obviousness of your experience and that it is reliably sensitive to context. However, cognitive science has to explain how you generate such obviousness such that it is contextually sensitive to solving your problems. Saying that relevance is obvious or depends on context does not solve the problem because this merely renames the problem of relevance realization as the problem of generating a sense of the relevance of information in a contextually sensitive manner, and how do we do that? To say we learn it by experience is not helpful because to say we learn is to say that we zero in on relevant information in order to solve our problems. This learning cannot be arbitrary association nor can it use exhaustive examination of situations. Learning presupposes relevance realization and therefore cannot explain it. I currently have a paper under review, where my coauthors and I argue that relevance realization is probably convergent with the precision weighting at the core of predictive processing models. This convergence adds significant theoretical plausibility to the proposal that relevance realization is central to intelligence." - [John Vervaeke](https://www.quora.com/What-is-a-summary-of-relevance-realization-according-to-John-Vervaeke)
+
+
+
 something like this thread as a timeline, but all other news shouldn't result in duplicates in the feed
 https://twitter.com/vcdgf555/status/1710746952349184420
+
+what should a list like Naval's "war" look like? getting every piece of info just once (deduplication), with a timeline, with perhaps blinking when new information is available for the events throughout the timeline
+https://twitter.com/i/lists/1174203958044348418
+
 
 community noted: - there should be repercussions for spreading bad info like this
 https://twitter.com/bennyjohnson/status/1710678889456943284
@@ -111,6 +135,10 @@ https://twitter.com/bennyjohnson/status/1710678889456943284
 
 few ratings vs lots of ratings:
 https://twitter.com/HumansNoContext/status/1688256147537498113
+
+
+
+> "Trying to reduce environmental pollution without reducing consumerism is like combating drug trafficking without reducing the drug addiction." - [Jorge Majfud](https://en.wikipedia.org/wiki/Anti-consumerism#:~:text=Trying%20to%20reduce%20environmental%20pollution%20without%20reducing%20consumerism%20is%20like%20combating%20drug%20trafficking%20without%20reducing%20the%20drug%20addiction.)
 
 
 
@@ -1433,7 +1461,23 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 
 
 
-> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+> "Many people abhor the idea of individuals being controlled by some collective, impersonal “system”, as this seems to deny them their personal freedom. Turchin spends quite some effort defending his views against any associations with the totalitarianism he knows so well, by emphasizing again and again the essential role of freedom and creativity. The rejection of control systems at the social level is more than a superficial emotional reaction to the negative connotations of the word “control”, though." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "A system that is formed by an integration of a variety of subsystems, together with a control co-ordinating and steering the actions of the subsystems, will be fitter than a mere aggregate of subsystems without overall control. It is intuitively obvious that if subsystems collaborate systematically in achieving a goal, they will be more effective than if they would behave anarchistically, without plan or co-ordination. The presently fashionable argument that no overarching plan is needed, since interacting actors will self-organize into stable and efficient patterns of interaction (the “invisible hand” of market forces), does not invalidate this proposition. The spontaneous ordering of a market is the result of complex communications and negotiations that lead to an overall co-ordination and constraint of the different actors’ behaviors. Once a perfectly competitive market has reached equilibrium, no participating actor is able to set prices that significantly diverge from those resulting from supply and demand requirements without being eliminated from the scene (“going broke”). One can debate whether the resulting economic order controls the actions of the participating actors, but it certainly constrains them." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "The problem is that everybody profits from cooperation, but that non-cooperators profit more, since they reap the additional resources produced by synergy, while investing nothing in return. This is the classical "free-rider" problem: everyone benefits from a public transport system funded by individual contributions, but the one who does not pay benefits most. Since evolution never stops, variation will sooner or later produce "free riders" in an otherwise optimized social system, and it is the latter that will be selected, not the earnest cooperators, resulting in the erosion and eventual collapse of the cooperative system." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "The spontaneous evolution of controls or "vicarious selectors" constraining a system's behavior is a central tenet of the Theory of Metasystem Transitions. If actions are not chosen by blind trial-and-error, but are somehow preselected by a control system vicariously anticipating the possibly lethal effects of natural selection, the system will be obviously more fit. Once such a control is established, natural selection will primarily act on the control, rather than on the system itself." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "In almost all other species of animals, however, the different members of a group are able to independently reproduce their genes and thus keep open the possibility for erosion of any cooperative arrangement. This includes human populations. Yet human groups present some of the most extensive cooperative systems, comparable only to the social insects. This can be explained by assuming shared controls additional to the genetic one. Though we will discuss different types of control mechanisms in a later section, the most typically human mechanism can be found in culture: knowledge or beliefs shared between individuals through communication. A belief, piece of knowledge or pattern of behavior that is transmitted from one individual to another one can be said to replicate. In analogy to genes, such cultural replicators can be called "memes"." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "The most productive way to cooperate entails division of labor, each individual focusing on a different subtask while contributing to a common goal. Such independent action is not only easier because it requires less coordination and exchange of information, it is potentially also much more productive because of synergetic complementarity. If different individuals focus on gathering different resources, they will not only be able to avoid the fitness reducing effects of direct competition and arms races, they may even be able to directly enhance each other's fitness by exchanging surplus resources, like in the symbiotic relationship between alga and fungus. For example, in primitive tribes, one part of the population might focus on gathering fruit, while another part might focus on hunting. This will allow each of the two subgroups to develop greater expertise in their domain of specialization, and thus greater efficiency in collecting resources. The more differentiated the specialization becomes, the larger the domain of resources that can be explored by the collective." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "The competition between individual and group levels, which tends to be won by the inherently faster processes at the individual level, poses a fundamental obstacle to the emergence of an integrated, synergetic system at the group level. However, the development of a shared control, which restricts independent evolution on the individual level, provides a possible mechanism for overcoming this obstacle. Once some type of control is established, differentiation of roles within the social system is facilitated. In accordance with Turchin's "law of the branching growth of the penultimate level", increasing differentiation increases the selective pressure for developing social controls, which in turn feed back into increasing differentiation. This process in essence constitutes a social metasystem transition." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "Humans form effective, coordinated, division-of-labor groupings at several levels of aggregation. At each level, there is a problem of metasystem transition. At each level, there is not only competition between other groupings at the same level, but also competition between the interests of the smaller incorporated units and the interests of the larger encompassing unit. Primary, face-to-face, groups are incorporated into organized city-states, and these into nations. A plausible node of selection and inter-organization competition can be envisaged at each of these levels. Our skepticism towards Turchin's prediction about the inevitable organizing of nations into a single world government comes from the lack of any obvious node of selection at the whole-world, multinational level." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "Our previous position accepted the following: (1) Individual selection always dominates group selection at the biological level; (2) "Groups are real" (Campbell, 1958) as opposed to methodological individualism; (3) Self-sacrificial altruism in the service of human social groups genuinely exists; (4) Such altruism can only be produced by group selection. The solution was to limit group selection to non-biological cultural evolution and to see self-sacrificial altruism as a result of cultural group selection of ideologies, social-organizational traditions, moral indoctrination, and religious cosmologies. This point of view had many plausible implications, among them an explanation of why moral commandments and lists of deadly sins contain explicit rejections of innate human nature. There is also the obvious group-coordination utility of beliefs in rewarding and punishing afterlives and reincarnations, which extend perceived self-interest into an afterlife and thus can promote self-sacrificial acts." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
 
 > "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
 
@@ -1445,9 +1489,15 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 
 > "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
 
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
+
+> "" - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
 
 
 
+
+an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
+^^ THIS IS A HUGE POINT !!!
 
 think about how the material of RethinkX would fit in this epistemological ecosystem
 
@@ -2760,6 +2810,14 @@ https://www.youtube.com/watch?v=eh7qvXfGQho
 
 
 > "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts." - [Bertrand Russell](https://twitter.com/thewisebot/status/1681846394443927554)
+
+> "It is the preoccupation with possessions, more than anything else, that prevents us from living freely and nobly." - [Bertrand Russell](https://www.goodreads.com/quotes/5095-it-is-the-preoccupation-with-possessions-more-than-anything-else)
+
+> "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
+
+> "We are faced with the paradoxical fact that education has become one of the chief obstacles to intelligence and freedom of thought." - [Bertrand Russell](https://www.azquotes.com/quote/254924)
+
+
 
 
 > "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836)
