@@ -1498,6 +1498,7 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 
 
 
+
 an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
 ^^ THIS IS A HUGE POINT !!!
 
@@ -1593,6 +1594,8 @@ What if we treated media like science - requiring citations and quotes for every
 https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan
 
 Epistemic architecture
+
+> "If something cannot go on forever, it will stop." - [Herbert Stein](https://www.goodreads.com/quotes/467811-if-something-cannot-go-on-forever-it-will-stop)
 
 
 
