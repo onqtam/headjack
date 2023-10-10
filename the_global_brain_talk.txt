@@ -1,0 +1,120 @@
+
+
+
+
+
+
+
+
+These are some of the topics that I'd hit in a presentation:
+- what permissionless composability, extensibility and evolvability on top of an open architecture means and could enable
+- social media and the internet through the lens of the latest consciousness theories and research
+- attention allocation, today's algorithmic feeds and what giving users choice to compose their feeds could look like
+- what a merger of twitter/youtube/facebook/wikipedia/stackexchange/(and basically everything from the web) into a mega-social-net could look like
+- Liquid democracy (the ability to delegate your vote to others)
+- PageRank but not for web pages but for identities - reputation based on competence, accountability and contribution
+- viewing the same data from many different points of view & the ability to define different criteria for how to calculate any aggregate (vote/score) - different filters, criteria that we can vote on and collectively choose, etc.
+- self-organization and complexification through bottom-up participation instead of top-down enforcement
+- knowledge graphs and how we can have a single entry for any concept/event/claim instead of thousands of scattered duplicates across many disparate platforms and websites
+- moving away from text-based communication and towards structured data (which would enable much easier processing and aggregation)
+- privacy and anonymity
+- an exploration of cooperation and an evolutionary take on why we need to aggregate into a global collective and reach coherence on what is true in order to tackle our greatest challenges
+- all intelligence is collective intelligence - inspired by biology and nature
+
+██████ TITLE
+
+Internet 2.0: The Global Brain
+
+██████ ABSTRACT
+
+Suppose there was an architecture for identity, names, and content addressing that was global, decentralized & neutral (not owned by any corporation or organization), has practically unlimited scalability, has solved the UX problem of dealing with private and public keys (that crypto & blockchain struggle with) and goes beyond the host-centric (IP & DNS) web of today (hint: there is such an architecture). What could we build on top of it?
+
+This talk will explore the transformation of the Internet and social media into a Global Brain - an informational meta-system transition. It isn't going to be very technical (0 code) but we'll explore the types of social and informational dynamics & interactions enabled by the permissionless extensibility & composability of an open system and we'll cover the following topics:
+
+- aggregation & structured data vs text-based communication & ephemerality
+- transparency, openness, provenance & integration of information
+- viewing the same data from many different points of view - different filters & criteria
+- knowledge graphs & deduplicating all concepts/events/claims with a single representation
+- liquid democracy (the ability to delegate your vote to others and split it for different topics)
+- alignment, incentive design, game theory & reputation - PageRank for identities (not web pages)
+- self-organization and complexification through bottom-up participation instead of top-down enforcement
+- debate maps, relevance realization, Bayesian inference & collective intelligence (which is all intelligence)
+- attention, availability cascades & algorithmic feeds that can be composed & configured by users
+- social media and the internet through the lens of the latest consciousness theories and research
+- what a merger of Twitter/YouTube/Facebook/Wikipedia/StackExchange/Quora/(and basically everything from the web) into a mega-social-net could look like
+- privacy and anonymity
+- sensemaking, consequence capture & solving collective action problems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
