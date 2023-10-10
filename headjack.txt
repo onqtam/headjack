@@ -13,6 +13,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 The 10 themes of the Global Brain:
 
 - 1) EPISTEMICS - error correction & Bayesian inference
@@ -34,30 +46,17 @@ Integration!!!
 
 Minimalism
 
-adaptability
-
 Enlightenment
 
 Fairness
 
-Integration
-
-Integrated information & consciousness
-
 Decisions => navigation
 
-
-
 Coherent pluralism
-
-
 
 Meta-stability
 
 Hierarchy
-
-
-
 
 deduplication
 
@@ -80,7 +79,6 @@ control
 
 communication? information?
 
-
 evolutionary psychology
 
 (eco)systems
@@ -91,7 +89,7 @@ goal
 
 ACCESS? ownership/property rights
 
-cybernetics is a transdisciplinary approach for exploring regulatory systems—their structures, constraints, and possibilities.
+Cybernetics is a transdisciplinary approach for exploring regulatory systems — their structures, constraints, and possibilities.
 
 
 
@@ -106,8 +104,6 @@ cybernetics is a transdisciplinary approach for exploring regulatory systems—t
 - evolution's arrow toward greater scales of cooperation (teleological argument)
 - shared intentionality, coherence & defeating entropy (coherence)
 - conscious evolution, self-transcendence & integrity (self-transcendence)
-
-
 
 
 
@@ -871,7 +867,7 @@ Imagine how you would express yourself - “strong dislike” from the emotions 
 The global reputation arena - the global skill exhibition arena
 
 Describe a perfect world and ask “Why don’t we crowdsource what we want, and after that how do we think we could get it?”
-Civilisational relevance realisation
+Civilisational relevance realization
 
 We should all want a neutral rules-based global world order - one that is truly collective
 
@@ -1069,7 +1065,7 @@ The resource and services economy is downstream from the attention economy
 
 Framing is everything in media. It is relevance manipulation
 
-Crowdsourcing relevance realisation
+Crowdsourcing relevance realization
 
 The global constitution will not be written - it will be emergent
 
@@ -1161,9 +1157,11 @@ God is the dominant egregore as a trained AI to weigh things in the world like i
 
 The root of power is sovereignty of identity
 
-Wisdom is about decision pruning - it is about enhanced intelligence - relevance realisation is intelligence
+Wisdom is about decision pruning - it is about enhanced intelligence - relevance realization is intelligence
 
+Synchronicity - conscious triggering of availability cascades around social & environmental issues as awareness campaigns
 
+the ability to view only items that have not yet been viewed, or showing them differently in the UI
 
 We need an alignment hierarchy to modulate signals - orchestrating/directing the attention of the world
 
@@ -1521,7 +1519,22 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 >
 > In human societies, on the other hand, competition at the genetic level continues, though group selection may have developed a genetic basis for certain innate social control mechanisms, like reciprocal altruism and moralistic aggression. This makes humans into profoundly ambivalent social animals. The predominant shared control for humans is cultural: beliefs spread through conformist transmission. However, the conformist mechanisms that keep beliefs similar are not sufficiently strong to keep context-dependence and communicative degradation from producing a continuous belief divergence or "memetic drift". Thus, human society becomes a patchwork of fuzzily defined groups at different levels of aggregation, characterized by clique selfishness and hostility towards competing groups. Different control mechanisms have evolved to complement the limited internalized restraint produced by shared beliefs: mutual monitoring, legal control and market mechanisms. However, each of these mechanisms has its intrinsic shortcomings, and as a whole they are characterized by inconsistency and lack of integration. Though there certainly exist methods and tools that may make social organization more effective, which must be examined urgently, we as yet do not see a straightforward path to social integration at the world level." - [Selection of Organization at the Social Level: obstacles and facilitators of metasystem transitions](http://pespmc1.vub.ac.be/Papers/SocialMST.pdf)
 
-> "" - []()
+
+
+
+> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+
+> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+
+> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+
+> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+
+> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+
+> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+
+> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
 
 
@@ -2413,6 +2426,10 @@ What if we made advertising in its current form obsolete? What if false claims w
 > "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
 
 
+> "Give society what it wants but doesn't know how to get - at scale." - [Naval Ravikant](https://twitter.com/NavalismHQ/status/1711659079230214615)
+
+
+
 
 > "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
 
@@ -2647,7 +2664,7 @@ We can shape and define the psychology of the global brain
 
 What if we asked the entire world every possible question uniquely and could filter out the results?
 
-Our primary objective as a species should be recursive relevance realisation and making a market for objective truth and figure out how to collectively choose 
+Our primary objective as a species should be recursive relevance realization and making a market for objective truth and figure out how to collectively choose 
 
 We must make being able to understand that viewpoint the default state of our civilization
 
