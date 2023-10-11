@@ -152,6 +152,7 @@ https://www.businessinsider.com/the-lone-german-man-who-refused-to-give-hitler-t
 > "Transparency in government leads to reduced corruption." - [Julian Assange](https://www.azquotes.com/quote/1341903)
 
 > "Every War in the past 50 Years is a Result of Media Lies" - [Julian Assange](https://www.azquotes.com/quote/850875)
+https://quotefancy.com/quote/1074522/Julian-Assange-One-of-the-hopeful-things-that-I-ve-discovered-is-that-nearly-every-war
 
 > "The amount of control you have over somebody if you can monitor internet activity is amazing." - [Tim Berners-Lee](https://www.azquotes.com/quote/171763)
 
