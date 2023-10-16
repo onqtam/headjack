@@ -1,6 +1,7 @@
 
 
 
+https://youtu.be/kgMFnfB5E_A?t=6746
 
 
 
@@ -8,89 +9,6 @@
 
 
 
-The 10 themes of the Global Brain:
-
-- 1) EPISTEMICS - error correction & Bayesian inference
-- 2) INFORMATION - transparency, openness, provenance & integration
-- 3) STRUCTURE - self-organization, emergence & subsidiarity
-- 4) ALIGNMENT - incentives, reputation & consequence capture
-- 5) DECISIONS - relevance realization & collective intelligence
-- 6) ATTENTION - availability cascades & The Medium is the Message
-- 7) SYSTEMICS - complexity, feedback, causality & adaptation
-- 8) MEANING - shared intentionality, coherence & beating entropy
-- 9) DIRECTION - greater scales of cooperation & evolvability
-- 10) TRANSCENDENCE - Know Thyself & conscious evolution
-
-
-
-inference?
-
-What if openness is the theme and not ownership?
-Information !!!
-Integration!!!
-
-Minimalism
-
-Enlightenment
-
-Aggregation
-
-Fairness
-
-Decisions => navigation
-
-Coherent pluralism
-
-Meta-stability
-
-Hierarchy
-
-deduplication
-
-persuasion
-
-compassion
-
-reflexivity
-Causality
-
-steering
-cybernetics
-
-belonging
-connectedness
-
-sharing
-
-control
-
-communication? information?
-
-evolutionary psychology
-
-(eco)systems
-
-mission
-
-goal
-
-ACCESS? ownership/property rights
-
-Cybernetics is a transdisciplinary approach for exploring regulatory systems — their structures, constraints, and possibilities.
-
-
-
-
-- error correction & bayesian epistemology (epistemology)
-- transparency, openness & provenance (transparency)
-- relevance realization & collective intelligence (ranking)
-- availability cascades - "The Medium is the Message" (attention)
-- self-organization, emergence, subsidiarity & persuasion (multi-agent systems)
-- incentives, alignment, reputation & consequence capture (incentives)
-- complexity, (eco)systems, feedback & Universal Darwinism (systems thinking)
-- evolution's arrow toward greater scales of cooperation (teleological argument)
-- shared intentionality, coherence & defeating entropy (coherence)
-- conscious evolution, self-transcendence & integrity (self-transcendence)
 
 
 
@@ -98,6 +16,36 @@ Cybernetics is a transdisciplinary approach for exploring regulatory systems —
 
 
 
+
+
+
+
+
+
+
+
+
+
+> "All human groups frown on, make pronouncements against, and punish the following: murder, undue use of authority, cheating that harms group cooperation, major lying, theft, and socially disruptive sexual behavior. These basic rules of conduct appear to be human universals." - [Christopher Boehm](https://www.goodreads.com/quotes/11025360-all-human-groups-frown-on-make-pronouncements-against-and-punish)
+
+> "All over the world, mobile hunter-gatherers use social control guided by moral rules to see to it that when a successful hunter kills a large mammal, his ego is held in check." - [Christopher Boehm](https://www.goodreads.com/quotes/11025365-all-over-the-world-mobile-hunter-gatherers-use-social-control-guided)
+
+
+
+
+
+> "Hunger, poverty, unsustainability, war, healthcare, illiteracy, pollution, global warming, consumerism… All these issues lead to one single common question at their core: our capability to build human organizations that no longer create such outcomes. Our main stake consists in collective intelligence. Today large organizations (governments, corporations, administrations…) encounter insurmountable difficulties when dealing with the complexity and the unexpectedness of the world. They undergo conflicts of interest in many areas – between profitability and sustainability, secrecy and transparency, values and value, individual and collective dynamics, and knowledge fertilizing – that opens – and competition – that closes." - [Collective intelligence](https://cir.institute/collective-intelligence/#:~:text=Hunger%2C%20poverty%2C%20unsustainability,competition%20%E2%80%93%20that%20closes.)
+
+
+
+> "Wrong information always shown by the media
+>
+> Negative images is the main criteria
+>
+> Infecting the young minds faster than bacteria" - [Black Eyed Peas](https://genius.com/Black-eyed-peas-where-is-the-love-lyrics#:~:text=Wrong%20information%20always%20shown%20by%20the%20media%0ANegative%20images%20is%20the%20main%20criteria%0AInfecting%20the%20young%20minds%20faster%20than%20bacteria)
+
+
+> "X should implement a feature called "On This Day." It would rewind the timeline to any given day since Twitter's founding to let you feel the pulse of the moment. A crucial tool for modern historians. This would be the "what happened" that complements "what's happening". The historical research tool that complements the real-time news service." - [Balaji Srinivasan](https://twitter.com/balajis/status/1712665522444390555)
 
 
 
@@ -1317,6 +1265,80 @@ We need to address knowledge - giving a permanent and single ID to anything and 
 Status is a non-fungible currency - if you sell out you’d be destroying a lifetime of work
 
 
+We need a competing signal to the money-on-money return paradigm
+
+"The greatest fallacy of democracy is that everyone's opinion is worth the same." - Robert A. Heinlein
+
+We need a distributed system that fact-checks the fact-checkers
+
+Computing the rules-based order
+
+We need to convert status-seeking through excessive consumption to recognition for contribution - we need to reward the contributors - the altruists
+
+If we crowdsource the collective intelligence for every aspect of a problem along with their relations - well we have solved the problem
+
+The moral offramp from GameA is to start contributing as much as possible
+
+Universal basic rewards bundle - recognition - that can & should be given to others. Who do u recognise and for what?
+
+What is a facebook group? Information and membership curation - a silo. We could have so many such different clubs with differing settings and customs and etc.
+
+We need legitimate global trust
+
+Integration presupposes consequence capture
+
+We can use the top 10% of ranked accounts and use their voices with different weights depending on their ranking and we could vote on the constants for that vote
+
+We need to make smear campaigns impossible
+
+Imagine a mindset where you know the system isn't stacked against you but is actually maximally cooperative and trying to give you the tools to succeed - how much more meaning there would be
+
+Imagine being able to reuse the same browsing architecture from the open web to your private files and data and notes - same algorithms and queryability
+
+An alternative competition outlet - not money but status through knowledge and responsibility
+
+The next Google is the infrastructure of the global brain
+
+Giving data weight
+
+The new incentive system for expertise
+
+Imagine being able to explore how any part of the system works - and the ability of the system to generate the best possible explanation - specialized to you
+
+Anonymous whistleblowing
+
+The bit.ly of addressing in this world is woth just 2 numbers: acc_id/resource_id and the respurce_id can be also a string 
+
+The nations that first jump ship will end up with the highest legitimacy and responsibility
+
+How do we make intentional lying not a thing in media?
+
+The media and entrenched interests are guilty of crimes against humanity for their coverage of Tesla since its inception. It is an a-moral force that needs to be eradicated - corruption should be stopped
+
+We will talk to the global brain through language
+
+Alignment is a game theoretic arrangement - one predicated on transparency
+
+The cure to the late-stage capitalism that is America is the evolution to the next level of the experiment - cooperative integration
+
+Transparent crowdsourcing of the arbiter of truth
+
+We need to make thinking from first principles the cultural norm
+
+The global brain is applied philosophy
+
+Game A is closed. Game B is open - the gates to power are open for the best of the best
+
+The mind is a pattern-marching machine - it makes sense that we should want to pattern-match the most competent and responsible and put them in charge
+
+The global brain is the most meta goal we could have - the one with the highest impact
+
+The current system is a meme. What is our way of consciously evolving that meme? We arent conscious - nobody is in the driver’s seat - its a runaway freight train
+Goliath is an emergent result of our system of systems
+
+We need to see who is pushing for any meme - whats their history and what are their motivations
+
+
 
 
 > "Your political tribe will turn on you the moment you express an opinion they don’t like. That is not “belonging”, that is being held hostage." - [@G_S_Bhogal](https://twitter.com/thewisebot/status/1709418070869999848)
@@ -1557,21 +1579,31 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 >
 > Because of the general disintermediation dynamics, it is likely that this monitoring and propagation of “external” reputation will become increasingly integrated with the universal protocols of the Global Brain. This means in particular that there would no longer be any independent authority, such as a government, NGO, or UN organization, to decide what is good or bad for society. Instead, the different “authorities” would themselves be subjected to the same kind of reputation mechanisms as individual agents. This makes it possible to compute a global reputation as an aggregate of evaluations by individual and organizational agents, weighted by their respective reputation scores. Such an aggregate reputation can be determined in an intelligent manner through the propagation of trust weights in a social  network, using an equivalent of the PageRank algorithm. The result would be a distributed measure of trust or authority that would be more balanced, more diverse in its outlook, and less easily corruptible than any central authority (such as a government) in estimating to what degree the overall effects of an action would be positive or negative." - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+> "A long-term effect of externalities is that they can make the system unsustainable, either by the accumulation of waste or pollution, or the exhaustion of non-renewable resources. A money-based economy can to some degree deal with the exploitation of scarce resources via the price mechanism: as a resource becomes scarcer, its price increases; therefore more effort will be done to save it, or to replace it by a more abundant resource. However, since waste does not have a price, it is ignored by the “invisible hand”, and therefore the market has no incentive to reduce it. Taxing waste or pollution is a traditional way of reducing this problem.
+>
+> However, an offer network can do better, by considering waste as an unconditional offer entered into the system. The network’s coordination algorithms would not only try to maximize the satisfaction of demands (“backward chaining”), but also the exploitation of offers (“forward chaining”). That means that they should search to match this offer of “waste” with some sequence of production rules that may convert it into something for which there is a demand. For example, the grape seeds that are a waste product from wine making can be transformed into grape seed oil, which in turn can be used for the production of food, while plastic from packaging can be reconverted to produce inexpensive park benches and toys.
+>
+> Thus, a well-balanced offer network should maximally recycle any “waste” that is produced as a side effect of satisfying demand. The realizability of full recycling is demonstrated by Chemical Organization Theory, a mathematical formalism based on “reactions” similar to the ones we described as production rules. The theory shows that a network of reactions tends to selforganize into a self-sustaining subnetwork, where everything that is consumed is also produced, and vice versa. The algorithms supporting an intelligent offer network should help us to find such self-sustaining system of cycles more quickly and efficiently." - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+> "Another global challenge that offer networks may be able to tackle is resilience. Complex networks of interdependencies are vulnerable to cascading failures: whenever part of the network is damaged by some unforeseen perturbation (e.g. an earthquake, a bankruptcy, an electricity overload, a computer virus) this problem may start to propagate through the network more quickly than it can be contained, until the network as a whole breaks down. This is for example what happened with  several large-scale electricity blackouts and with the 2008 financial collapse. A system is resilient if it can recover from perturbations before it is irreversibly damaged. Strategies to achieve resilience include:
+>
+> • preventing the positive feedbacks that make local disturbances cascade into global problems;
+>
+> • increasing the diversity of the components of the system, so that a problem affecting one is unlikely to affect others;
+>
+> • increasing redundancy, so that there are sufficient components to take over the function of those that were damaged; and
+>
+> • accurately monitoring (potential) problems so that they can be remedied before they get out of hand.
+>
+> All of these strategies are supported by offer networks. The envisaged surplus of offers creates a buffer against potential scarcity. The great diversity of available offers and methods to connect offers and demands provides sufficient redundancy so that demands can be satisfied even when the traditional supply routes are disrupted. This is similar to how the TCP/IP protocol made the Internet more resilient than rival networks, by providing a wide variety of alternative routes for retransmitting information packets that get lost. Moreover, the offer network would create a fine-grained map of the different needs the moment they appear, while providing intelligent algorithms that mobilize and route offers immediately to the place where the need is highest. Finally, because it does not rely on the accumulation of money, it prevents the positive feedbacks of speculation and the [Matthew effect](https://en.wikipedia.org/wiki/Matthew_effect) that can lead to financial collapses and growing inequality." - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+> "The first requirement for a universal offer network: all users and supporting programs should use the same, unambiguous language for representing conditions and actions. If I need something specific from the offer network, I should be able to formulate that need so that the network can recognize that it matches the offer that someone else has formulated. Natural language tends to be too ambiguous for the purpose, because words can have many meanings or just be too vague to express what I need." - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+> "Building consensual, comprehensive and accurate ontologies is a difficult and timeconsuming task, which has up to now only been done for a relatively small number of domains. A universal offer network will in principle require an ontology that covers anything that could potentially be proposed or requested anywhere on Earth." - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
 
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
-
-> "" - [Towards an Intelligent Network for Matching Offer and Demand: from the sharing economy to the Global Brain](http://pcp.vub.ac.be/Papers/GB-OfferNetwork.pdf)
+> "" - []()
 
 
 
@@ -6902,6 +6934,92 @@ public data is our commons and it should be programmatically accessible by anyon
 strength is in the numbers
 
 "fork anything"
+
+
+██████ The 10 themes of the Global Brain:
+
+- 1) EPISTEMICS - error correction & Bayesian inference
+- 2) INFORMATION - transparency, openness, provenance & integration
+- 3) STRUCTURE - self-organization, emergence & subsidiarity
+- 4) ALIGNMENT - incentives, reputation & consequence capture
+- 5) DECISIONS - relevance realization & collective intelligence
+- 6) ATTENTION - availability cascades & The Medium is the Message
+- 7) SYSTEMICS - complexity, feedback, causality & adaptation
+- 8) MEANING - shared intentionality, coherence & beating entropy
+- 9) DIRECTION - greater scales of cooperation & evolvability
+- 10) TRANSCENDENCE - Know Thyself & conscious evolution
+
+
+
+inference?
+
+What if openness is the theme and not ownership?
+Information !!!
+Integration!!!
+
+Minimalism
+
+Enlightenment
+
+Aggregation
+
+Fairness
+
+Decisions => navigation
+
+Coherent pluralism
+
+Meta-stability
+
+Hierarchy
+
+deduplication
+
+persuasion
+
+compassion
+
+reflexivity
+Causality
+
+steering
+cybernetics
+
+belonging
+connectedness
+
+sharing
+
+control
+
+communication? information?
+
+evolutionary psychology
+
+(eco)systems
+
+mission
+
+goal
+
+ACCESS? ownership/property rights
+
+Cybernetics is a transdisciplinary approach for exploring regulatory systems — their structures, constraints, and possibilities.
+
+
+
+
+- error correction & bayesian epistemology (epistemology)
+- transparency, openness & provenance (transparency)
+- relevance realization & collective intelligence (ranking)
+- availability cascades - "The Medium is the Message" (attention)
+- self-organization, emergence, subsidiarity & persuasion (multi-agent systems)
+- incentives, alignment, reputation & consequence capture (incentives)
+- complexity, (eco)systems, feedback & Universal Darwinism (systems thinking)
+- evolution's arrow toward greater scales of cooperation (teleological argument)
+- shared intentionality, coherence & defeating entropy (coherence)
+- conscious evolution, self-transcendence & integrity (self-transcendence)
+
 
 ██████ ideas about page & book structure (& titles!)
 
