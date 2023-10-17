@@ -18,9 +18,15 @@ https://youtu.be/kgMFnfB5E_A?t=6746
 
 
 
+> "There's a way to do it better - find it." - [Thomas A. Edison](https://www.goodreads.com/quotes/57198-there-s-a-way-to-do-it-better---find-it)
+
+> "I find out what the world needs. Then I go ahead and try to invent it." - [Thomas A. Edison](https://www.goodreads.com/quotes/140060-i-find-out-what-the-world-needs-then-i-go)
+
+> "If we all did the things we are really capable of doing, we would literally astound ourselves." - [Thomas A. Edison](https://www.goodreads.com/quotes/30655-if-we-all-did-the-things-we-are-really-capable)
 
 
 
+> "What we observe is not nature itself, but nature exposed to our method of questioning." - [Werner Heisenberg](https://www.goodreads.com/quotes/64760-what-we-observe-is-not-nature-itself-but-nature-exposed)
 
 
 
@@ -1624,6 +1630,12 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 > "" - [The Global Superorganism: an evolutionary-cybernetic model of the emerging network society, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Superorganism.pdf)
 
 > "" - [The Global Superorganism: an evolutionary-cybernetic model of the emerging network society, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Superorganism.pdf)
+
+
+
+> "Historically, I distinguish three approaches: organicist, encyclopedist and emergentist. While each of these conceptions provides an inspiring metaphor for understanding and guiding social development, each also has major shortcomings. The organicist perspective, by ignoring conflicts and competition and by studying the way things are, rather than how they might be or ought to be, tends to promote a status quo. The encyclopedist view, while inherently progressive, relies too much on rational planning and organization, and tends to ignore not only the potential for conflict, but also the intrinsic difficulty of unifying and centralizing something as context-dependent, complex and changeful as the world’s knowledge. The emergentist perspective, while emphasizing the potential for self-organization and radical evolutionary innovation, seems to suffer from wishful thinking, assuming that we just need to communicate more, become more conscious, or use technology to see a global brain miraculously emerge.
+>
+> I argue that these shortcomings can be overcome by integrating two existing theoretical frameworks: evolutionary theory and cybernetics. Biological evolution points us to the intrinsic sources of conflict, and how these have been overcome by evolving synergetic systems and control mechanisms against free riders. Cybernetics shows us how systems and control are organized in levels, and based on knowledge and communication. Evolutionary cybernetics introduces the concept of metasystem transition: the self-organization of individual components into a positive-sum system that functions at a higher level of intelligence and consciousness. More specific models associated with cybernetics, such as neural networks, distributed knowledge systems and stigmergy, help us to design concrete technologies that could support such a collective intelligence. The World Wide Web, finally, provides an extremely flexible and powerful platform for implementing and testing such technologies at the global level." - [Conceptions of a Global Brain: An Historical Review, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-Conceptions-Rodrigue.pdf)
 
 
 
@@ -6973,7 +6985,7 @@ strength is in the numbers
 - 9) DIRECTION - greater scales of cooperation & evolvability
 - 10) TRANSCENDENCE - Know Thyself & conscious evolution
 
-
+service? for meaning? instead of coherence? Coherence should go elsewhere?
 
 inference?
 
