@@ -1745,6 +1745,9 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 
 
 
+
+
+
 > "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
 
 > "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
