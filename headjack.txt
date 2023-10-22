@@ -5,10 +5,28 @@
 
 
 
+> "" - [David Friedberg](https://youtu.be/65-x2YVUugE?t=3172)
+
+
+
+
+> "Some long for the days of the 6pm newscast. This is most certainly a rose-colored view of the past. Those who recall this era remember being soothed by the packaging of the news. In hindsight, what we were watching was not a careful synthesis of fact-checked news but the opinions and interpretations of a small number of people with very limited expertise and even more limited information. It is only events like "Weapons of Mass Destruction" and others recently that have shown the limits of this process in the face of modern information, data, and analysis. I kept asking myself yesterday how different the WMD story would have been had it happened 20 years later. How would a generation of events have unfolded?" - [Steven Sinofsky](https://twitter.com/stevesi/status/1714709247685263419)
+
+> "The imperfect human process of ascertaining the truth benefits from open sources, free speech, and active debate. And Credentials != Reputation." - [Tim Sweeney](https://twitter.com/TimSweeneyEpic/status/1715425536065826995)
+
+
+
 > "So if you translate this into necessary and insufficient conditions - what seems to be necessary for the emergence of general intelligence in a bunch of cells or units is that basically each of them is a small agent which means it's able to behave with an expectation of minimizing future target value deviations. So it learns that there are configurations of the environment that signal anticipated reward. Next thing - these units need to be not just agents - they need to be connected to each other and they need to get their rewards or proxy rewards - something that allows them to anticipate whether the organism is going to feed them in the future - from other units that are also adaptive. So you need multiple message types and the ability to recognize and send them with a certain degree of reliability." - [Joscha Bach](https://youtu.be/kgMFnfB5E_A?t=6746)
 
 
 > "I wonder how to implement this in a self-organized fashion - if the substrate that you have are individual agents and there is a similarity here between societies and brains and social networks. That is: if you have self-interested agents in a way that try to survive and that get their rewards from other agents that are similar to them structurally, and they have the capacity to learn to some degree, and that capacity is sufficient so they can in the aggregate learn arbitrary programs - arbitrary computable functions - and it's efficient enough so they can converge on the functions that they need to as a group reap rewards - that apply to the whole group - because they have a shared destiny: like the poor little cells that are locked in the same skull and they are all going to die together if they up. So they have to get along, they have to form an organization that is distributing rewards among each other, and this gives us a search space for possible systems that can exist and the search space is mostly given I think by the minimal agent that is able to learn how to distribute rewards efficiently while doing something useful - using these rewards to change how you do something useful. So you have an emerging form of governance in these systems that's not some centralized control that is imposed on the system from the outside as an existing machine learning approaches and AI approaches, but this only is an emergent pattern in the interactions between the individual small units - small reinforcement learning agents - and this control architecture leads to hierarchical government. It's not fully decentralized in any way - there are centralized structures that distribute rewards - for instance via the dopaminergic system - and in a very centralized top-down manner, and that's because every regulation has an optimal layer where it needs to take place: some stuff needs to be decided very high up, some stuff needs to be optimally regulated very low down - depending on the incentives. Game theoretically a government is an agent that imposes an offset on your payoff metrics to make your [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) compatible with the globally best outcome. Right, so to do this you need to have agents that are sensitive to rewards. It's super interesting to think about these reward infrastructures. Elon Musk has bought Twitter I think because he has realized that Twitter is the network of among all the social networks that is closest to a global brain. It's totally mind-blowing to realize that he basically trades a bunch of frothy stock for the opportunity to become Pope. Pope of a religion that has more active participants than Catholicism even, right, daily practitioning people who enter this church and think together and it's a thing that is completely incoherent at this point - almost and completely incoherent. There are bubbles of sentience but for the most part this thing is just screeching at itself. And now the interesting question question: can we fix the incentives of Twitter to turn it into a global brain? And Elon Musk is global brain pilled - he believes that this is the case and that's the experiment that he is trying to do which makes me super excited, right, this might fail - there's a very big chance that it fails, but there is also the chance that we get the global brain - that we get emerging collective intelligence is working in real time using the internet in a way that didn't exist before. So super fascinating thing that might happen here, and it's fascinating that very few people are seeing this that Elon Musk is crazy enough to spend 44 billion dollars on that experiment - just because he can and has nothing else to do and thinks it's meaningful to do it - more meaningful than having so much money in the bank. Right, so this makes me interested in this test bed for rewards and this is something that translates into the way in which society is organized, because social media is not different from society - not separate from it - problem of governing social media is exactly the same thing as governing a society: you need a right form of government, you need a legal system, ultimately you need representation, and all these issues, right - it's not just the moderation team. And the same thing is also true for the brain: what is the government of the brain that emerges in what Gary Edelman calls neural Darwinism among different forms of organization in the mind until you have a model of a self-organizing agent that discovers that what it's computing is driving the behavior of an agent in the real world and discovers a first person perspective and so on. How does that work? How can we get a system that is looking for the right incentive architecture?" - [Joscha Bach](https://youtu.be/kgMFnfB5E_A?t=6054)
+
+
+
+
+
+> "The American Medical Association recommends rice to diabetics." - [Michael Guimarin](https://youtu.be/bGdWgdRA6G8?t=3304)
+
 
 
 
@@ -833,6 +851,26 @@ It will become a competitive advantage for firms to allow their employees to exp
 This is the most literally empowering architecture - a great equalizer - perfect meritocracy/egalitarianism and yet Darwinian
 
 Meritocracy vs epistocracy?
+
+https://www.youtube.com/watch?v=Mn1OZPbN0Do
+Jim Rutt Show EP #32: Jason Brennan on Irrational Democracy & Academia
+epistocracy !!!
+Problems with democracy and voters:
+- people disinterested in politics - not voting at all
+- very low understanding of what is going on
+- systematic misinformation - not just ignorance - ppl get the facts wrong
+- different responses to political questions even after just 1 week without anything having changed - random answers
+- partisanship, tribalism & confirmation (& disconfirmation) bias
+- ignorance, apathy, irrationality
+- no skin in the game
+- position bias (pick the first thing, pay less attention to anything other than the 1st page, etc.)
+- likeability - superficial features of candidates
+- error doesn't cancel out in the real world - it compounds
+- inconsequentiality and bad incentives (a built-in defect in democratic voting) - our votes don't really matter - why be engaged and spend a ton of time to be informed when most others won't put in the same effort and you're just 1 vote out of millions of other votes? The incentive is to be ignorant. Rational irrationality - (instrumental rationality vs epistemic rationality) - promoting your ends vs truth seeking
+
+!!! epistocracy !!!
+https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan
+
 
 We need to harness the competence of everyone - we require transparency but we reward with a big carrot - the opportunity to earn legitimate and noble status
 
@@ -1956,9 +1994,6 @@ This is the Manhattan project for reclaiming our consciousness
 We can score a NYT piece on a multitude of factors - bias, clickbaity-ness, not presenting the full picture, loaded language, missing citations
 
 What if we treated media like science - requiring citations and quotes for everything?
-
-!!! epistocracy !!!
-https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan
 
 Epistemic architecture
 
@@ -4116,7 +4151,22 @@ The name of the game is optimization
 > "People talk about human intelligence as the greatest adaptation in the history of the planet. It is an amazing and marvelous thing, but in evolutionary terms, it is as likely to do us in as to help us along." - [Stephen Jay Gould](https://www.goodreads.com/quotes/55051-people-talk-about-human-intelligence-as-the-greatest-adaptation-in)
 
 
-> "What is history but the story of how politicians have squandered the blood and treasure of the human race." - [Thomas Sowell](https://twitter.com/ancapquotes/status/1679007693648830467)
+> "What is history but the story of how politicians have squandered the blood and treasure of the human race?" - [Thomas Sowell](https://www.goodreads.com/quotes/233336-what-is-history-but-the-story-of-how-politicians-have)
+
+> "The most basic question is not what is best, but who shall decide what is best." - [Thomas Sowell](https://www.goodreads.com/quotes/322271-the-most-basic-question-is-not-what-is-best-but)
+
+> "When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear." - [Thomas Sowell](https://www.goodreads.com/quotes/316762-when-you-want-to-help-people-you-tell-them-the)
+
+> "The problem isn't that Johnny can't read. The problem isn't even that Johnny can't think. The problem is that Johnny doesn't know what thinking is; he confuses it with feeling." - [Thomas Sowell](https://www.goodreads.com/quotes/316759-the-problem-isn-t-that-johnny-can-t-read-the-problem-isn-t)
+
+> "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
+
+> "Rhetoric is no substitute for reality." - [Thomas Sowell](https://www.goodreads.com/quotes/270138-rhetoric-is-no-substitute-for-reality)
+
+> "It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong." - [Thomas Sowell](https://www.goodreads.com/quotes/3823206-it-is-hard-to-imagine-a-more-stupid-or-more)
+
+
+
 
 > "People get confused sometimes they think an economy is money. Money is a database for exchange of goods & services. Money doesn't have power in & of itself. The actual economy is goods & services." - [Elon Musk](https://twitter.com/cb_doge/status/1550819912725123072)
 
@@ -7195,7 +7245,7 @@ strength is in the numbers
 
 ██████ The 10 themes of the Global Brain:
 
-- 1) EPISTEMICS - error correction & Bayesian inference
+- 1) EPISTEMICS - humility, error correction & Bayesian inference
 - 2) INFORMATION - transparency, openness, provenance & integration
 - 3) STRUCTURE - self-organization, emergence & subsidiarity
 - 4) ALIGNMENT - incentives, reputation & consequence capture
