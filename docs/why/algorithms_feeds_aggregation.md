@@ -48,6 +48,8 @@ But this can be pushed a lot further - using public [message types](messages.md)
 
 This way of signaling fine-grained preferences could allow us to collectively migrate to better algorithms - by showing which interests & perspectives we've adopted ourselves. One value to signal would be to use algorithms & models that are transparent and not some [black box](problems_with_the_web.md#black-boxes--algorithmic-bias) - we could study how virality happens. What if some algorithm promotes [antisocial ultra viral content](https://twitter.com/balajis/status/1561032192947458048) close to the borderline of acceptability just for the sake of engagement? We could boycott it. And why not choose indexes & algorithms that up & down regulate specific accounts? Moderation could be done through a set of filters to which users opt in/out by toggling & layering - choosing what to amplify and what to tone down. Such preferences can also be private.
 
+https://techcrunch.com/2018/11/15/facebook-borderline-content/
+
 <!-- what if we could punish accounts that comment irrelevant things at famous people first just to get engagement? Have you seen the comments on any of Elon Musk's tweets? Engagement seeking irrelevant garbage -->
 
 Currently social media skews our perception of the world because the vocal become viral - most people are quiet and rarely (if ever) post anything, but they do consume. We could let them signal their preferences and better gauge our values. **Preferences are a form of expression.**
