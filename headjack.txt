@@ -5,89 +5,15 @@
 
 
 
-In the past 1 year, @THORChain has earned exactly 10M$ from fees (all other LP & node rewards have been from the reserves - currently about 50% of the total "earnings" for LPs & nodes). With a mcap of 673M$ that gives it a P/E ratio of 67. 👇🧵
-https://thorcharts.org/thorchain_liquidity_fees
-
-
-
-
-Volume can easily 100x in the next bull with further wallet/user adoption, self-sovereignty, liquidity & speculation. TC recently processed 350M$ daily volume and can easily handle billions (especially if (when) there's more liquidity for big streaming swaps to not take too long)
-
-
-
-
-The cumulative volume for the past 1 year is 8.7B$ - 100x => 870B$ annualized, 2.4B$ daily volume:
-https://thorcharts.org/thorchain_swap_volume
-
-Uniswap did 1.7T$ of cumulative volume in the past 3 years and it's limited to native and (trustfully) bridged tokens on Ethereum:
-https://defillama.com/dexs/uniswap
-
-
-
-
-
-Capital has a cost - P/E ratios are not a thing of the past. 100x in volumes would give us 1B$ in fees alone (this is fees only for the underlying protocol - affiliate fees for frontends are separate and can (and have been) even higher!).
-
-
-
-
-With the current speculative multiplier (currently about 3x - meaning that 1/3 of the $RUNE supply is in the network as intended) and a 67 P/E ratio, we'd get 67B$ mcap. (Note that if we used the FDV which includes the block rewards reserve we'd have a P/E of 111 - not 67).
-
-
-
-
-It's not clear what will happen to the speculative multiplier in a bull run - it could rise, or it could fall. What if the next bull run takes us to 10T or 20T mcap for crypto? What if CEX-es actually tap into TC liquidity? What if volume grows 200x? 300x? 400x?
-
-
-
-
-
-The system is more stable, battle-tested & hardened than ever. TC is one of the very rare crypto projects that can be rationally analyzed in capitalistic terms, generates real yield, solves a real problem, and has a clear path to incredible results.
-
-
-
-
-Cross-chain bridging (especially for dumb chains like Bitcoin) requires economic guarantees & game theory - you can't solve a custodial problem purely with math & crypto ZK magic. That's why 20$ is FUD.
-
-
-
-
-
-The 2 biggest problems for TC in my opinion are:
-
-1) It's hard to justify integrating really heavy chains like Solana because all nodes in the network have to run them and costs increase drastically, but if the system does 10x+ the volume it would be justified - network effects!
-
-
-
-2) The original sin: in order to get to market faster it was built on top of the Cosmos SDK & the Tendermint consensus algo which limits the number of nodes & their IPs are public - perhaps the consensus algo can be changed in the future?
 
 
 
 
 
 
-Capital has a cost 👏
+> "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes." - [Ray Dalio](https://www.goodreads.com/quotes/7172381-truth---more-precisely-an-accurate-understanding-of-reality--)
 
-@THORChain is a beautiful system 👏
-
-Kudos to whoever thought of streaming swaps - an inflection point for TC 👏
-
-Crypto doesn't have to be speculative 0-sum dump-on-your-"friends"-tech crap 👏
-
-$RUNE $CACAO
-
-
-
-
-
-
-
-
-
-
-
-
-
+> "Because our educational system is hung up on precision, the art of being good at approximations is insufficiently valued. This impedes conceptual thinking." - [Ray Dalio](https://www.goodreads.com/quotes/8836677-because-our-educational-system-is-hung-up-on-precision-the)
 
 
 
