@@ -5,6 +5,89 @@
 
 
 
+In the past 1 year, @THORChain has earned exactly 10M$ from fees (all other LP & node rewards have been from the reserves - currently about 50% of the total "earnings" for LPs & nodes). With a mcap of 673M$ that gives it a P/E ratio of 67. 👇🧵
+https://thorcharts.org/thorchain_liquidity_fees
+
+
+
+
+Volume can easily 100x in the next bull with further wallet/user adoption, self-sovereignty, liquidity & speculation. TC recently processed 350M$ daily volume and can easily handle billions (especially if (when) there's more liquidity for big streaming swaps to not take too long)
+
+
+
+
+The cumulative volume for the past 1 year is 8.7B$ - 100x => 870B$ annualized, 2.4B$ daily volume:
+https://thorcharts.org/thorchain_swap_volume
+
+Uniswap did 1.7T$ of cumulative volume in the past 3 years and it's limited to native and (trustfully) bridged tokens on Ethereum:
+https://defillama.com/dexs/uniswap
+
+
+
+
+
+Capital has a cost - P/E ratios are not a thing of the past. 100x in volumes would give us 1B$ in fees alone (this is fees only for the underlying protocol - affiliate fees for frontends are separate and can (and have been) even higher!).
+
+
+
+
+With the current speculative multiplier (currently about 3x - meaning that 1/3 of the $RUNE supply is in the network as intended) and a 67 P/E ratio, we'd get 67B$ mcap. (Note that if we used the FDV which includes the block rewards reserve we'd have a P/E of 111 - not 67).
+
+
+
+
+It's not clear what will happen to the speculative multiplier in a bull run - it could rise, or it could fall. What if the next bull run takes us to 10T or 20T mcap for crypto? What if CEX-es actually tap into TC liquidity? What if volume grows 200x? 300x? 400x?
+
+
+
+
+
+The system is more stable, battle-tested & hardened than ever. TC is one of the very rare crypto projects that can be rationally analyzed in capitalistic terms, generates real yield, solves a real problem, and has a clear path to incredible results.
+
+
+
+
+Cross-chain bridging (especially for dumb chains like Bitcoin) requires economic guarantees & game theory - you can't solve a custodial problem purely with math & crypto ZK magic. That's why 20$ is FUD.
+
+
+
+
+
+The 2 biggest problems for TC in my opinion are:
+
+1) It's hard to justify integrating really heavy chains like Solana because all nodes in the network have to run them and costs increase drastically, but if the system does 10x+ the volume it would be justified - network effects!
+
+
+
+2) The original sin: in order to get to market faster it was built on top of the Cosmos SDK & the Tendermint consensus algo which limits the number of nodes & their IPs are public - perhaps the consensus algo can be changed in the future?
+
+
+
+
+
+
+Capital has a cost 👏
+
+@THORChain is a beautiful system 👏
+
+Kudos to whoever thought of streaming swaps - an inflection point for TC 👏
+
+Crypto doesn't have to be speculative 0-sum dump-on-your-"friends"-tech crap 👏
+
+$RUNE $CACAO
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -22,6 +105,7 @@
 
 > "Statistics which purport to represent public opinion are actually the tools used by the media to manufacture opinion." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://www.goodreads.com/quotes/3236384-so-instead-we-are-supplied-with-a-constant-stream-of#:~:text=Statistics%20which%20purport%20to%20represent%20public%20opinion%20are%20actually%20the%20tools%20used%20by%20the%20media%20to%20manufacture%20opinion.)
 
+> "To me, the name “God” is an amazing name for all the dreams of humanity projected into one point. What would you name that? You would name it God. And that is what we need to do, to retake the “God” word but just give God proper qualities that we can actually believe in." - [Alexander Bard](https://en.wikipedia.org/wiki/Syntheism#:~:text=To%20me%2C%20the%20name%20%E2%80%9CGod%E2%80%9D%20is%20an%20amazing%20name%20for%20all%20the%20dreams%20of%20humanity%20projected%20into%20one%20point.%20What%20would%20you%20name%20that%3F%20You%20would%20name%20it%20God.%20And%20that%20is%20what%20we%20need%20to%20do%2C%20to%20retake%20the%20%E2%80%9CGod%E2%80%9D%20word%20but%20just%20give%20God%20proper%20qualities%20that%20we%20can%20actually%20believe%20in.)
 
 
 
@@ -879,8 +963,6 @@ It will become a competitive advantage for firms to allow their employees to exp
 
 This is the most literally empowering architecture - a great equalizer - perfect meritocracy/egalitarianism and yet Darwinian
 
-Meritocracy vs epistocracy?
-
 https://www.youtube.com/watch?v=Mn1OZPbN0Do
 Jim Rutt Show EP #32: Jason Brennan on Irrational Democracy & Academia
 epistocracy !!!
@@ -899,8 +981,77 @@ Problems with democracy and voters:
 
 > "Most people believe democracy is a uniquely just form of government. They believe people have the right to an equal share of political power. And they believe that political participation is good for us--it empowers us, helps us get what we want, and tends to make us smarter, more virtuous, and more caring for one another. These are some of our most cherished ideas about democracy. But, Jason Brennan says, they are all wrong." - [Against Democracy, by Jason Brennan](https://www.goodreads.com/book/show/29452500-against-democracy#:~:text=Most%20people%20believe,are%20all%20wrong.)
 
-!!! epistocracy !!!
-https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan
+> "We have to ask ourselves what we think government is actually for. Some people think it has the value a painting has, which is to say that it’s symbolic. In that view, you might think, “We should have democracy because it’s a way of civilizing and expressing the idea that all of us have equal value.”
+>
+> There’s another way of looking at government, which is that it’s a tool, like a hammer, and the purpose of politics is to generate just and good outcomes, to generate efficiency and stability, and to avoid mistreating people. So if you think government is for that purpose, and I do, then you have to wonder if we should pick the form of government that best delivers the goods, whatever that might be." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=We%20have%20to,that%20might%20be.)
+
+> "There was a time in British history ([from around 1600 until 1950](https://wonkhe.com/blogs/the-history-of-university-representation/)) where people who had college degrees would get an extra vote, but this was a stupid idea. It pains me to say this as an educator, but it turns out that university education has very little impact on how much people know. In general, college-educated people know more than non-college-educated people, but it’s not the college that’s making the difference." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=There%20was%20a,making%20the%20difference.)
+
+> "Every kind of political system is abused, and we should guard against that. Here’s what I propose we do: Everyone can vote, even children. No one gets excluded. But when you vote, you do three things.
+>
+> First, you tell us what you want. You cast your vote for a politician, or for a party, or you take a position on a referendum, whatever it might be. Second, you tell us who you are. We get your demographic information, which is anonymously coded, because that stuff affects how you vote and what you support.And the third thing you do is take a quiz of very basic political knowledge. When we have those three bits of information, we can then statistically estimate what the public would have wanted if it was fully informed.
+>
+> Under this system, it’s not really the case that you have more power than I do. We can’t really point to any individual and say you were excluded, or your vote counted for more. The idea is to gauge what the public would actually want if it had all the information it needed." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=Every%20kind%20of,information%20it%20needed.)
+
+> "Here’s my paradoxical-sounding idea: Let democracy decide what goes on the test." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=here%E2%80%99s%20my%20paradoxical%2Dsounding%20idea%3A%20Let%20democracy%20decide%20what%20goes%20on%20the%20test.)
+
+> "If you survey people and ask them what it takes to be an informed voter, they say the same kinds of things I would say, but you quickly find out that many of them don’t know the answers... Voters know in the abstract what they ought to know; they just don’t actually know the things they think they should." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=If%20you%20survey,think%20they%20should.)
+
+> "We have the right to choose our partner, to choose our religion, to choose what we’re going to eat, where we live, what job we’ll do, etc. While some of these things do impose costs on others, they’re primarily about carving out a sphere of autonomy for the individual, and about preventing other people from having control over you.
+>
+> A right to participate in politics seems fundamentally different because it involves imposing your will upon other people. So I’m not sure that any of us should have that kind of right, at least not without any responsibilities." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=We%20have%20the,without%20any%20responsibilities.)
+
+> "This is a weird metaphor, but imagine I couldn’t move my arms because they were tied. But then you were to give me coffee whenever I wanted it. That’s kind of what’s going on in a democracy: I’m still getting the coffee, and that’s awesome, but I’m not actually responsible for the coffee getting into my mouth — you’re the one that’s doing it. No matter how you look at it, it’s really the group that has the power, not the individual, even if we’re in the group that has the power." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=This%20is%20a,has%20the%20power.)
+
+> "My worry is that people too often vote for basically arbitrary or historical reasons that have little to do with interests or ideologies. Certain identity groups get attached to certain parties and that’s just the way it is." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=My%20worry%20is%20that%20people%20too%20often%20vote%20for%20basically%20arbitrary%20or%20historical%20reasons%20that%20have%20little%20to%20do%20with%20interests%20or%20ideologies.%20Certain%20identity%20groups%20get%20attached%20to%20certain%20parties%20and%20that%E2%80%99s%20just%20the%20way%20it%20is.)
+
+> "I like to say I’m a fan of democracy, and I’m also a fan of Iron Maiden, but I think Iron Maiden has quite a few albums that are terrible — and I think democracy is kind of like this. It’s great, it’s the best system we have so far, but we shouldn’t accept that it can’t be improved.
+>
+> We might recognize that it’s better than anything else we’ve tried, and yet we can also see that there are all these persistent pathologies that exist, and so we should be asking, “How can we fix them?” We should be constantly experimenting and discovering what works and what doesn’t." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=I%20like%20to,and%20what%20doesn%E2%80%99t.)
+
+
+> "Noocracy ( where nous means 'wise' and kratos means 'rule' therefore 'rule of the wise' ) is a form of government where decision making is done by wise people. The idea is proposed by various philosophers such as [Plato](https://en.wikipedia.org/wiki/Plato), [Gautama Buddha](https://en.wikipedia.org/wiki/The_Buddha), [al-Farabi](https://en.wikipedia.org/wiki/Al-Farabi) and [Confucius](https://en.wikipedia.org/wiki/Confucius)." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Noocracy%20(/,and%20Confucius.)
+
+> "The irrationality of voters inherent in democracies can be explained by two major behavioral and cognitive patterns. Firstly, most of the voters think that the marginal contribution of their vote will not make a difference on election outcomes; therefore, they do not find it useful to inform themselves on political matters. In other terms, due to the required time and effort of acquiring new information, voters rationally prefer to remain ignorant. Moreover, it has been shown that most citizens process political information in deeply biased, partisan, motivated ways rather than in dispassionate, rational ways. This psychological phenomenon causes voters to strongly identify themselves with a certain political group, specifically find evidence to support arguments aligning with their preferred ideological inclinations, and eventually vote with a high level of bias." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=The%20irrationality%20of,level%20of%20bias.)
+
+> "Singapore has a political system that favors meritocracy; the path to government in Singapore is structured in such a way that only those with above-average skills are identified with strict university-entrance exams, recruiting processes, etc., and then rigorously trained to be able to devise best the solutions that benefit the entire society. In the words of the country's founding father, Lee Kuan Yew, Singapore is a society based on effort and merit, not wealth or privilege depending on birth. This system primarily works due to citizens’ belief that political leaders tend to have a better understanding of country's long-term plans than themselves; therefore, as they see positive policy outcomes, they tend to go along with the system, rather than complain about the meritocratic dimensions." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Singapore%20has%20a,the%20meritocratic%20dimensions.)
+
+> "" - [Noocracy, Wikipedia]()
+
+> "" - [Noocracy, Wikipedia]()
+
+> "" - [Noocracy, Wikipedia]()
+
+One big problem with meritocracy/epistocracy/technocracy/noocracy is that we've been unable to compute the reputation objectively for accountability. They've been often criticised as idealistic/unrealistic and flawed but that's because we haven't had a reliable mechanism to surface competence together with accountability. Proxies such as accreditation have proven bad.
+
+
+
+
+> "But it is possible to create a society in which everybody is given not equal rewards, but equal opportunities, and where rewards vary not in accordance with the ownership of property, but with the worth of a person's contribution to that society. In other words, society should make it worth people's while to give their best to the country. This is the way to progress." - [Lee Kuan Yew](https://www.goodreads.com/quotes/9814929-but-it-is-possible-to-create-a-society-in-which)
+
+> "We accept human nature as it is, then we base our system on it. Your system must accept that human nature is like that. You get the best out of people for society by incentives and disincentives. If you remove too much of their rewards from the top tier, they will migrate." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11294272-we-accept-human-nature-as-it-is-then-we-base)
+
+> "Human beings are created unequal, and no amount of social engineering or government intervention can significantly alter one’s lot in life. At most, government policies can help equalise opportunity at the starting point, but they cannot ensure equal outcomes. Society is bound to end up with unequal outcomes." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11294271-human-beings-are-created-unequal-and-no-amount-of-social)
+
+> "One fundamental difference between American and Oriental culture is the individual’s position in society. In American culture an individual’s interest is primary. This makes American society more aggressively competitive, with a sharper edge and higher performance. In Singapore, the interests of the society take precedence over that of the individual. Nevertheless Singapore has to be competitive in the market for jobs, goods and services. On the other hand the government helps lower income groups to meet their needs for housing, health services and education so that their children will have more of an equal chance to rise through education." - [Lee Kuan Yew](https://www.goodreads.com/quotes/7289186-one-fundamental-difference-between-american-and-oriental-culture-is-the)
+
+> "A society to be successful must maintain a balance between nurturing excellence and encouraging the average to improve." - [Lee Kuan Yew](https://www.goodreads.com/quotes/6774847-a-society-to-be-successful-must-maintain-a-balance-between)
+
+> "I always tried to be correct, not politically correct." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11421404-i-always-tried-to-be-correct-not-politically-correct)
+
+> "We are pragmatists. We don't stick to any ideology. Does it work? Let's try it, and if it does work, fine, let's continue it. If it doesn't work, toss it out, try another one. We are not enamored with any ideology." - [Lee Kuan Yew](https://www.goodreads.com/quotes/10141150-we-are-pragmatists-we-don-t-stick-to-any-ideology-does)
+
+> "I believe that life is a process of continuous change and a constant struggle to make that change one for the better." - [Lee Kuan Yew](https://www.goodreads.com/quotes/7289188-i-believe-that-life-is-a-process-of-continuous-change)
+
+> "The art of government is the art of building up team spirit." - [Lee Kuan Yew](https://www.goodreads.com/quotes/10326600-the-art-of-government-is-the-art-of-building-up)
+
+
+
+> "God is a concept far too important to leave to the religious." - [Quentin Meillassoux](https://en.wikipedia.org/wiki/Syntheism#:~:text=God%20is%20a%20concept%20far%20too%20important%20to%20leave%20to%20the%20religious)
+
+What if God is not the creator but something we create and merge with? We should put God in the future - we should create him.
+
+
 
 
 We need to harness the competence of everyone - we require transparency but we reward with a big carrot - the opportunity to earn legitimate and noble status
@@ -4932,6 +5083,18 @@ The [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) problem
 
 Baraka 1992
 https://www.imdb.com/title/tt0103767/
+
+
+“gang gang mmm ice cream so good yes yes yes” (Pinkydoll, 2023)
+
+
+
+
+
+
+
+
+
 
 
 cultural evolutionary processes
