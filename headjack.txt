@@ -935,6 +935,15 @@ Problems with democracy and voters:
 >
 > We might recognize that it’s better than anything else we’ve tried, and yet we can also see that there are all these persistent pathologies that exist, and so we should be asking, “How can we fix them?” We should be constantly experimenting and discovering what works and what doesn’t." - [Jason Brennan](https://www.vox.com/2018/7/23/17581394/against-democracy-book-epistocracy-jason-brennan#:~:text=I%20like%20to,and%20what%20doesn%E2%80%99t.)
 
+> "Roughly a third of American voters think that the Marxist slogan “From each according to his ability to each according to his need” appears in the Constitution. About as many are incapable of naming even one of the three branches of the United States government. Fewer than a quarter know who their senators are, and only half are aware that their state has two of them. Democracy is other people, and the ignorance of the many has long galled the few." - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=that%20the%20Marxist,galled%20the%20few)
+
+> "If I do not vote, your vote counts more." - [Jason Brennan](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=If%20I%20do%20not%20vote%2C%20your%20vote%20counts%20more)
+
+> "Political scientists have long hoped to find an “invisible hand” in politics comparable to the one that Adam Smith described in economics. Voter ignorance wouldn’t matter much if a democracy were able to weave individual votes into collective political wisdom, the way a market weaves the self-interested buy-and-sell decisions of individual actors into a prudent collective allocation of resources. But, as Brennan reports, the mathematical models that have been proposed work only if voter ignorance has no shape of its own—if, for example, voters err on the side of liberalism as often as they err on the side of conservatism, leaving decisions in the hands of a politically knowledgeable minority in the center. Unfortunately, voter ignorance does seem to have a shape." - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=Political%20scientists%20have,have%20a%20shape.)
+
+> "Voters have punished incumbents for droughts and shark attacks and rewarded them for recent sports victories. Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”" - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=voters%20have%20punished%20incumbents%20for%20droughts%20and%20shark%20attacks%20and%20rewarded%20them%20for%20recent%20sports%20victories.%20Caplan%20dismisses%20retrospective%20voting%2C%20quoting%20a%20pair%20of%20scholars%20who%20call%20it%20%E2%80%9Cno%20more%20rational%20than%20killing%20the%20pharaoh%20when%20the%20Nile%20does%20not%20flood.%E2%80%9D)
+
+
 
 > "Noocracy ( where nous means 'wise' and kratos means 'rule' therefore 'rule of the wise' ) is a form of government where decision making is done by wise people. The idea is proposed by various philosophers such as [Plato](https://en.wikipedia.org/wiki/Plato), [Gautama Buddha](https://en.wikipedia.org/wiki/The_Buddha), [al-Farabi](https://en.wikipedia.org/wiki/Al-Farabi) and [Confucius](https://en.wikipedia.org/wiki/Confucius)." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Noocracy%20(/,and%20Confucius.)
 
@@ -950,6 +959,31 @@ Problems with democracy and voters:
 
 One big problem with meritocracy/epistocracy/technocracy/noocracy is that we've been unable to compute the reputation objectively for accountability. They've been often criticised as idealistic/unrealistic and flawed but that's because we haven't had a reliable mechanism to surface competence together with accountability. Proxies such as accreditation have proven bad.
 
+
+
+> "[Holacracy](https://en.wikipedia.org/wiki/Holacracy) provides a governance framework that is decidedly [holonic](https://en.wikipedia.org/wiki/Holon_(philosophy)) — roughly, systems within systems. In this way, a holacratic organization approximates a living organism as opposed to a machine to be “designed” or “run.” Practitioners aren’t arranged by managers as cogs within a traditional org chart, but rather define their own functional roles within wider spheres of activity, or “circles.”
+>
+> Just as cells make up organs within organisms, people have roles within teams within organizations. And though certain cells and roles might hustle themselves into an “executive function,” both the organism’s and the holacratic organization’s brains are self-organizing." - [Fractal Governance Applied, by Max Borders](https://underthrow.substack.com/p/fractal-governance-applied#:~:text=Holacracy%20provides%20a,are%20self%2Dorganizing.)
+
+> "" - [Fractal Governance Applied, by Max Borders]()
+
+> "" - [Fractal Governance Applied, by Max Borders]()
+
+> "" - [Fractal Governance Applied, by Max Borders]()
+
+> "" - [Fractal Governance Applied, by Max Borders]()
+
+
+
+The enigma of reason - book cover
+https://m.media-amazon.com/images/I/81FL-o50YUL._AC_UF1000,1000_QL80_.jpg
+we are justifying apes - we are not perfectly rational - far from it actually. We need to tame justification
+https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
+> "What reason does, rather, is help us justify our beliefs and actions to others, convince them through argumentation, and evaluate the justifications and arguments that others address to us. In other words, reason helps humans better exploit their uniquely rich social environment. This interactionist interpretation explains why reason may have evolved and how it fits with other cognitive mechanisms. It makes sense of strengths and weaknesses that have long puzzled philosophers and psychologists―why reason is biased in favor of what we already believe, why it may lead to terrible ideas and yet is indispensable to spreading good ones." - [The Enigma of Reason](https://www.goodreads.com/book/show/32336635-the-enigma-of-reason?ac=1&from_search=true&qid=KRXjn7mFzN&rank=1#:~:text=What%20reason%20does,spreading%20good%20ones.)
+
+
+
+> "You may not be interested in memes, but memes are interested in you." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1717838832798703962)
 
 
 
