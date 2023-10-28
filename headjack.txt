@@ -1521,6 +1521,187 @@ We need to see who is pushing for any meme - whats their history and what are th
 
 
 
+the great decoupling (material/resources/fungible currencies vs epistemic status)
+
+
+Contributing a crucial piece of information (a missing piece from a puzzle) could be heavily incentivized, but accompanied by a much bigger penalty for supplying wrong information compared to applying the wrong tag to something. The reward can be delayed so that an agent cannot immediately profit from supplying false information in some time-sensitive arbitrage situations.
+
+The Manhattan Project of integrating the superorganism's information.
+
+What if society votes on how to redistribute some common pool of funds - either taxes or donations (that we can incentivise)?
+
+Why not using wikiquote instead of these two other sources of quotes? Because the lack of a crowdsourced ranking - however imperfect
+
+We should be able to introspect what are the kinds of people we’re allowing to guide us culturally - because we need mass cultural programming - always have been - but we need to put the right people in charge. How?
+
+How do we reinvent TED - a curator for ideas worth spreading, but as a mechanism?
+
+What if we could publicly have a conversation about what kind of movies we should have? This is meta-governance and we’ve left it out of our control
+
+Manifesting science fiction
+
+A crowdfunding campaign where the crowd funders get to decide who gets how much and get to vote publicly on which companies to fund and which builders to back and propose - in addition to the founding team. Let's crowdsource the vanguard of this ecosystem - a fund that owns a bit of everything
+
+Quotes and their rankings are relevance realization - a very crude version of the collective’s vote
+
+We need to become game designers - the choice of what culture we uplift is ours to make
+What is our dopamine economy?
+
+We need to make open source the norm rather than the exception - and push it further than mere code
+https://en.wikipedia.org/wiki/Open-source_governance
+
+> "Open politics is not a top–down theory but a set of best practices from [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism), [participatory democracy](https://en.wikipedia.org/wiki/Participatory_democracy) and [deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy), informed by [e-democracy](https://en.wikipedia.org/wiki/E-democracy) and netroots experiments, applying argumentation framework for issue-based argument... Some variants of it draw on the theory of [scientific method](https://en.wikipedia.org/wiki/Scientific_method) and [market methods](https://en.wikipedia.org/wiki/Price_mechanism), including [prediction markets](https://en.wikipedia.org/wiki/Prediction_market) and [anticipatory democracy](https://en.wikipedia.org/wiki/Anticipatory_democracy)." - [Open-source governance
+, Wikipedia](https://en.wikipedia.org/wiki/Open-source_governance#:~:text=open%20politics%20is,anticipatory%20democracy.)
+
+> "Open government is the governing doctrine which maintains that citizens have the right to access the documents and proceedings of the government to allow for effective public oversight. In its broadest construction, it opposes [reason of state](https://en.wikipedia.org/wiki/National_interest) and other considerations which have tended to legitimize extensive state [secrecy](https://en.wikipedia.org/wiki/Secrecy)." - [Open government, Wikipedia](https://en.wikipedia.org/wiki/Open_government#:~:text=Open%20government%20is%20the,extensive%20state%20secrecy.)
+
+The sign should read: “If you want power - go ahead and get it, but earn it legitimately
+
+We can run a parallel global democracy for years and when ready with the numbers and confidence of the new selects and the mechanisms we can switch the world within a 4 year election cycle
+
+In small tribes we could express an opinion about anything and be heard - how do we express that some show on TV is bad for us?
+
+How to do arbitrage in reputation markets? Signal that someone deserves more credit and them benefit for signalling that after the other person has proven themselves and their success is widely recognised. Same for the other way around
+We need such arbitrage to exist in order to make the reputation “market” efficient
+
+Prediction market vs futures market?
+Futures market for reputations - and we should hire and listen to those that have higher future ranking - if people believe someone’s rank will go up - they are probably underrecognized now
+And what about journalists and all other positions? How do we bet on people and win from betting right?
+
+
+
+
+We need to end even just the possibility of nuclear war - what’s the plan?
+
+Social legitimacy score
+
+The global brain is a moral imperative
+
+Your clothes stink !!!
+
+It is inconceivable why anyone would settle for anything less than futarchy
+
+Causality all the way down
+
+Global brain missionaries help people make sense of the world
+
+Lets get the right kinds of people in the right structures of power
+
+What if we all picked a problem to solve and worked in public?
+
+If you can provably and reliably predict the second and third-order effects of policies and have superior modeling of the world - you should be in charge.
+
+Why dont we crowdsource what we would like out of utopia?
+
+Transparency and truth should be core values - more important than anything - the maximizers of fairness and cooperation. Incorruptability is the only game in town / worth playing. Evolution is telling us so
+
+We need to make as many aspects of history computable as possible
+
+Computation is a kind of memory - that is why we need to make history and reputation computable
+
+We need to crowdsource truth and competence in every vertical of the economy and public service
+
+Excellence, optimisation, and communality
+
+Succumbing to endless growth expressed as consumption of resources should be a sin
+
+How do we crowdsource the most resilient survival algorithm and then find the most compelling and accessible way to consume the story - on every level?
+
+Why don't we crowdsource how we think children should be raised, and why?
+
+What is the real economy?
+
+Here we can express anything and have that actually matter instead of drowning in the void or irrelevance and inconsequality
+
+What if different levels of reputation unlocked benefits that extend to the real world and to resources and consumption - like vacations? What if we could pool money (and nudge companies to donate) and then distribute those funds however we like?
+STACK OVERFLOW BOUNTIES !!!
+Some reputation systems go further, making it explicitly possible to spend reputation within the system to derive a benefit. For example, on the Stack Overflow community, reputation points can be spent on question "bounties" to incentivize other users to answer the question.
+
+The Church ot Truth says that the more transparency and accountability and integration of information - the harder it is to lie.
+
+
+
+
+
+Free will is a harmful concept - we need to focus more on the environment and systems and development and not put all of the responsibility on the individual
+If we don’t aim at giving the best possible education to as many kids as possible - we are dooming humanity or at least exacerbating societal and survival problems in the future
+
+addressing in computing: layer 1: at the OS level, layer 2: at the physical network level (internet, IP), layer 3: identity-based
+
+Dragging and dropping, freely rewiring data & functional nodes
+
+everybody is an author, editor, publisher, critique, curator, librarian
+everything you do you do for yourself, but you also organize the environment for others
+
+what if regulation was cultural and not done through legislature?
+
+learning in public - the best form of career progression
+
+compounding is the root of all progress, but in today's world it's mostly expressed as monetary interest and knowledge and reputation to a much lesser extent. We've let claims on resources to dictate way too much - we need to tilt the scales
+
+Meritocracy is computable and open-source
+
+Uris: what if the 3rd and 4th number are all zeroes and that means that is a “named” resource that should be resolved differently?
+
+Blocking someone doesn’t send them a signal that they’ve done something wrong - a public label that a comment was hateful does something else
+
+The final religion is participation in the creation of God
+
+Participatory culture is the religion of the 21st century - religion starts with a practice
+Religions are participatory
+We’ve never been able to do participatory culture and be tribal at scale until now
+
+Compound identity/reputation - like knowledge and interest
+Reputation compounds just like knowledge and interest
+
+
+What if we could label squatters of names - taking up valuable names for speculation - and what if we could penalize them reputationally? Ala social regulation. Stigma.
+
+Memes all the way down - what is the root meme? We need to surface truth to the best of our abilities and crowd-source morality. We shake hands when we meet - that's culture. How do we fix the rest of culture?
+God in 3 sentences:
+God is the link with everyone else. God is what we have in common and our purpose in life is to discover him. Spirituality is a spectrum and a gradient - a journey, a path.
+We need to learn to enjoy the ride and succumb to it.
+We need to create an aggregate connectome - what we share
+
+Human life is the most precious thing - but we sure as hell aint structured like we value it all that much. How do we make everyone contributors? Transparency and openness lead to integration and fusion of minds.
+TODO: THINK ABOUT AVATAR
+https://james-camerons-avatar.fandom.com/wiki/Consciousness_Transfer
+
+How do we make sure we don't kill curiosity in kids? Make curiosity pay dividends - harness intelligence
+We have generations of gamers - because there’s no alternative. We need to make God their playground and we would be the stewarts of it - generational transmission.
+
+Democracy in its current form is captured - wake up
+
+Crowdsource the question about self-driving cars - all aspects - give examples
+
+Show how collective intelligence is beneficial
+
+How much sugar should we eat? Crowdsource every such question!
+
+What does having a pet cost the world? Why is the media pushing people to reconsider having a pet?
+
+What does it mean to raise a kid - as a globally answered question? Girl? Boy? What's most relevant?
+
+Crowdsourcing the global number of children policy as an opinion?
+
+What is the role of an elite?
+
+Not a carbon tax - an excessive comsumption tax. And without rliminating competition - simply adding another front for status competition that’s not tethered to natural resources
+
+We need to make excessive spending more expensive - progressively
+
+tagging and annotating is classification and organization of data. stigmergy!
+
+the real change happened multiple generations after the invention of the printing press - we're still early with what's about to happen because of the internet
+
+How do we shorten the time for the adoption and dissipation of new knowledge to everywhere it’s needed? Propagation speed is part of the integration puzzle
+
+actions speak louder than words
+
+
+
+
+
 
 > "Your political tribe will turn on you the moment you express an opinion they don’t like. That is not “belonging”, that is being held hostage." - [@G_S_Bhogal](https://twitter.com/thewisebot/status/1709418070869999848)
 
@@ -5050,8 +5231,29 @@ https://www.imdb.com/title/tt0103767/
 
 
 
+> "The universe began about fifteen billion years ago, in almost absolute simplicity, and it's been getting more and more complex ever since. This movement from the simple to the complex is built into the web and weave of the universe, and it's called the tendency toward complexity. We're the products of this complexification, and so are the birds, and the bees, and the trees, and the stars, and even the galaxies of stars. ... Okay, the final or ultimate complexity __ the place where all this complexity is going -- is what, or who, we might call God. And anything that promotes, enhances, or accelerates this movement toward God is good. Anything that inhibits, impedes, or prevents it is evil." - [Gregory David Roberts](https://www.consciousevolution.co.uk/blog/what-is-the-meaning-of-life#:~:text=The%20universe%20began,it%20is%20evil.)
 
+> "The biggest contributor to happiness is not having tons of stuff, but knowing your address in the universe of meaning." - [Chris Arnade](https://twitter.com/EvoConscious/status/1717921294476361902)
 
+> "There are no nations! There is only humanity. And if we don't come to understand that right soon, there will be no nations, because there will be no humanity." - [Isaac Asimov](https://www.goodreads.com/quotes/93498-the-earth-should-not-be-cut-up-into-hundreds-of#:~:text=There%20are%20no%20nations!%20There%20is%20only%20humanity.%20And%20if%20we%20don%27t%20come%20to%20understand%20that%20right%20soon%2C%20there%20will%20be%20no%20nations%2C%20because%20there%20will%20be%20no%20humanity.)
+
+> "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." - [Isaac Asimov](https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science)
+
+> "Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge.'" - [Isaac Asimov](https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through)
+
+> "Violence is the last refuge of the incompetent." - [Isaac Asimov](https://www.goodreads.com/quotes/9658-violence-is-the-last-refuge-of-the-incompetent)
+
+> "Self-education is, I firmly believe, the only kind of education there is." - [Isaac Asimov](https://www.goodreads.com/quotes/131363-self-education-is-i-firmly-believe-the-only-kind-of-education)
+
+> "People think of education as something they can finish." - [Isaac Asimov](https://www.goodreads.com/quotes/696664-people-think-of-education-as-something-they-can-finish)
+
+> "Any book worth banning is a book worth reading." - [Isaac Asimov](https://www.goodreads.com/quotes/1228919-any-book-worth-banning-is-a-book-worth-reading)
+
+> "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
+
+> "It seems to me, Golan, that the advance of civilization is nothing but an exercise in the limiting of privacy." - [Isaac Asimov](https://www.goodreads.com/quotes/773382-it-seems-to-me-golan-that-the-advance-of-civilization)
+
+> "The troubles of modern life come from being divorced from nature." - [Isaac Asimov](https://www.goodreads.com/quotes/7659654-the-troubles-of-modern-life-come-from-being-divorced-from)
 
 
 
