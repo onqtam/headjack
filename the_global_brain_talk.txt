@@ -76,6 +76,8 @@ only a few details have changed since that talk - further simplification and mak
 - supports public/private data
 - maximally flexible - anything can be built on top
 - breaks the monopoly today's social networks have over the social graph and the data is no longer siloed
+    - all apps will have programmatic access to all public data!
+    - permissionless composability & extensibility
 - some differences compared to the current web in terms of what's stored where and the right to be forgotten
 
 ██████ 
@@ -121,9 +123,12 @@ We should be offended by the lack of choice & transparency
 
 ██████ 
 
-
+Not A(G)I => collective intelligence
 
 ██████ 
+
+
+top10 lists
 
 
 
