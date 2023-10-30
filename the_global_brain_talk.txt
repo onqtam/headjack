@@ -54,9 +54,35 @@ This talk will explore the transformation of the Internet and social media into 
 
 
 
+██████ Background
 
+Last year (code::dive 2022):
+Decentralized identity & content addressing at web-scale with a non-financial app-specific blockchain
 
+still in the research phase, no code/funding/token yet.
 
+only a few details have changed since that talk - further simplification and making the design truly scalable
+
+██████ key highlights & properties
+
+- blockchain stores only what's essential - everything else is off-chain
+- can scale to tens of billions of identities (including anonymous ones)
+- solves the UX problem of blockchains & web3 of dealing with public & private keys ==> a web2 experience
+- identify/address any event/document/action/content with just 4 integers
+- has a name registry - URIs are persistent even after name ownership changes!
+    twitter.com/5542/johnny/3 always resolves to the canonical form 2131/6235/77534/3
+- can address practically unlimited amounts of off-chain data - both in terms of size and quantity
+- does not handle storage & retrievability - that's left to other layers & services
+- supports public/private data
+- maximally flexible - anything can be built on top
+- breaks the monopoly today's social networks have over the social graph and the data is no longer siloed
+- some differences compared to the current web in terms of what's stored where and the right to be forgotten
+
+██████ 
+
+Os/physical metwork/logical network addressing
+
+host-centric => data/identity-centric
 
 ██████ 
 
@@ -73,15 +99,23 @@ Multiple personality - not disorder - its a feature!
 split (2016)
 
 
-██████ 
+██████ What can we do on top of this identity network?
 
-Os/physical metwork/logical network addressing
+Let's build the global brain
 
-██████ 
+██████ Some cool things we could do
 
+- Being able to see all the public activity of anyone no matter from which application and what type
+- Multi-dimensional subscriptions - include/exclude based on user, application, content type, tag, keyword
+- Universal bookmarks & playlists - across all apps ⇒ knowledge management tools on top of them
+- Tunable notification settings in our IDMs
+- Forking communities, moderation filters & UIs
 
+We're in an asymmetric relationship with today's platforms - they've siloed our data and we're their captives.
 
-██████ 
+We've been given a single one-size-fits-all algorithmic feed for our information diet that's solely optimizing for engagement & time WELL spent with their ad revenue as the most important metric.
+
+We should be offended by the lack of choice & transparency
 
 
 
@@ -111,7 +145,7 @@ If i had to point to three names:
 Daniel s
 John s
 Francis
-the 3 most under appreciated thinkers - all of whom are alive today 
+the 3 most under appreciated thinkers
 
 
 
@@ -120,11 +154,7 @@ the 3 most under appreciated thinkers - all of whom are alive today
 
 
 
-
-
-
-"Perfect is the enemy of good."
-Voltaire
+"Perfect is the enemy of good." - Voltaire
 https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good
 
 
