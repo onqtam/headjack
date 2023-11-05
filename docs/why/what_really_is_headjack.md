@@ -119,7 +119,7 @@ Headjack is a confluence of multiple interrelated things (identity, names, autho
 
 <!-- At the core of the [ecosystem effect](https://blog.niraj.io/the-ecosystem-effect) is identity (example: Dropbox vs. Google Drive). -->
 
-> "The internet creates 1 giant aggregator for everything" - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
+> "The Internet creates 1 giant aggregator for everything." - [@naval](https://youtu.be/3qHkcs3kG44?t=3527)
 
 Headjack [definitively](https://boxkitemachine.net/posts/zero-to-one-peter-thiel-definite-vs-indefinite-thinking/) aims to be the backbone of the entire web - acting as the coordination substrate of [cyberspace](https://www.eff.org/cyberspace-independence). It will disaggregate traditional platforms such as Twitter, Reddit, YouTube & Instagram through unbundling, reconstruction & interoperability on top of Headjack's building blocks by mixing and matching various presentation layers, architectures, business models, content moderation policies, etc. [`"The whole is greater than the sum of its parts." - Aristotle`](https://www.goodreads.com/quotes/20103-the-whole-is-greater-than-the-sum-of-its-parts).
 
