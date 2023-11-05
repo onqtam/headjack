@@ -82,9 +82,11 @@ Joscha Bach - Consciousness as a coherence-inducing operator
 
 
 
+
 > "The American Medical Association recommends rice to diabetics." - [Michael Guimarin](https://youtu.be/bGdWgdRA6G8?t=3304)
 
-
+"this is healthy"
+https://www.google.com/search?q=this+is+healthy
 
 
 
@@ -501,6 +503,7 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 
 > "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
 
+!!! you_are_a_neuron_by_tomas_pueyo.png !!!
 https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F784da033-0b6c-4f65-a420-7cf490e68d3c_1078x818.png
 
 > "Some edges (connections between nodes, between neurons, between you and other people) are stronger than others, like the people you follow more closely and with whom you exchange the longest posts. Others are weaker, like the person that appears on your feed every now to post a vacation picture you end up “liking”. Some neurons are more broadcasters: they have unidirectional connections to millions of other people who listen to what they have to say, but they don’t listen much in return. Others might be the opposite: they follow plenty of people, but don’t never participate, so they don’t influence other neurons much." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Some%20edges%20(connections,other%20neurons%20much.)
@@ -1127,7 +1130,7 @@ Wealth inequality - besides the issues of inflation and lack of education around
 
 Regulating the market - it comes down to additional layers of incentives and instead of leaving that to unelected and unaccountable bureaucrats we could crowdsource it
 
-This tweet should be replaced by a recommendation signal
+"I recommend X" - This tweet should be replaced by a specialised recommendation signal
 https://twitter.com/jim_rutt/status/1702678201544171997
 
 this is an incentive protocol that's the same on every level - global and local
@@ -1151,9 +1154,9 @@ Not an app. Not a platform. Not a protocol. A complex adaptive ecosystem
 
 the goal of this project is to be something that anyone should want and should cheer it to succeed - & funding it eagerly
 
-the world we live in is the result of incentives. Change the incentives (aka bribe their cooperation and coordination and transparency with your attention - guaranteed business) - change the system within the lifecycle of a generation.
-
 define a game nobody could object to. a science-based cult with built-in error correction and a drive for self-improvement. The next religions will be those of self-manifesting incentive designs and this is the first of them.
+
+the world we live in is the result of incentives. Change the incentives (aka bribe their cooperation and coordination and transparency with your attention - guaranteed business) - change the system within a single generation.
 
 the real singularity is the shift to perfectly aligned incentives - after which all bets are off for what our civilization could achieve
 
@@ -1230,8 +1233,6 @@ what if instead of the system nudging us towards subscribing to each other withi
 
 case study: how might we improve & automate reasoning about token emission schedules?
 
-this is how we put social (aka ALL OF HUMANITY) onto the blockchain
-
 separate the currency stuff from the social media account stuff - one set of accounts that are addressed by their public key, and another set of accounts that have integers as IDs and where the IDM magic happens
 
 we need to add cerosine to the engines of optimization of civilization & introspection
@@ -1266,7 +1267,7 @@ How do we handle cases where somebody was wrong in the end but at the time their
 
 The other side of a permanent record
 
-The resource and services economy is downstream from the attention economy
+The resource and service economies are downstream from the attention economy
 
 Framing is everything in media. It is relevance manipulation
 
@@ -1330,7 +1331,7 @@ LLMs can help craft a propositional claim with structured data
 
 We need a way to short a bad ideology, disprove it, and gain status from that in an objective way.
 
-We can export stackexchange karma
+We can export stackexchange karma through some onboarding strategy
 
 We can elect the arbiters of truth - the head of the pyramid for any problem
 
@@ -1357,8 +1358,6 @@ There is a new game in town - parallel to resources - and we put other criteria 
 What if we feed the result of the collective intelligence into what the rules should be for a global currency and we started opting into it? And it could have privacy and ZK and whatnot
 
 The meta crisis is solved only with alignment.
-
-God is the dominant egregore as a trained AI to weigh things in the world like it - a worldview
 
 The root of power is sovereignty of identity
 
@@ -1421,8 +1420,6 @@ Conscious pursuit of alignment is the most potent manifestations of conscious ev
 
 Why is curiosity good? Because it enhances focus
 
-Re-list everything you left out of the 10 themes so that you can expand on it
-
 Wikipedia, but incentivised (with something other than a claim on resources) and multi-perspectival and complete - all knowledge, all events. All human history.
 
 How do we give the best mental models in the most accessible way topologically sorted based on relevance and complexity to kids?
@@ -1461,14 +1458,12 @@ The opposite of divide and conquer is integration
 
 What if part of your status was calculated based on your positions in previous jobs
 
-Imagine being a corporation that knows about this parallel information system and you dont want to join - why?
+Imagine being a corporation that knows about this parallel information system and you dont want to join - WHY NOT ?!?! Are you hiding something?
 
 
 What if we signal boosted people to be able to say what they want to be heard when they donate to charity, and depending on the amount?
 
 !!! What would discord look like? !!!
-
-Crowdsourcing religion?
 
 The real singularity is when we integrate our information and our minds
 
@@ -1561,7 +1556,7 @@ We need to make smear campaigns impossible
 
 Imagine a mindset where you know the system isn't stacked against you but is actually maximally cooperative and trying to give you the tools to succeed - how much more meaning there would be
 
-Imagine being able to reuse the same browsing architecture from the open web to your private files and data and notes - same algorithms and queryability
+Imagine being able to reuse the same browsing architecture from the open web to your private files and data and notes - same data structures, algorithms and queryability
 
 An alternative competition outlet - not money but status through knowledge and responsibility
 
@@ -1580,6 +1575,8 @@ The bit.ly of addressing in this world is woth just 2 numbers: acc_id/resource_i
 The nations that first jump ship will end up with the highest legitimacy and responsibility
 
 How do we make intentional lying not a thing in media?
+
+> "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
 
 The media and entrenched interests are guilty of crimes against humanity for their coverage of Tesla since its inception. It is an a-moral force that needs to be eradicated - corruption should be stopped
 

@@ -1,53 +1,5 @@
 
-
-
-
-
-
-
-
-These are some of the topics that I'd hit in a presentation:
-- what permissionless composability, extensibility and evolvability on top of an open architecture means and could enable
-- social media and the internet through the lens of the latest consciousness theories and research
-- attention allocation, today's algorithmic feeds and what giving users choice to compose their feeds could look like
-- what a merger of twitter/youtube/facebook/wikipedia/stackexchange/(and basically everything from the web) into a mega-social-net could look like
-- Liquid democracy (the ability to delegate your vote to others)
-- PageRank but not for web pages but for identities - reputation based on competence, accountability and contribution
-- viewing the same data from many different points of view & the ability to define different criteria for how to calculate any aggregate (vote/score) - different filters, criteria that we can vote on and collectively choose, etc.
-- self-organization and complexification through bottom-up participation instead of top-down enforcement
-- knowledge graphs and how we can have a single entry for any concept/event/claim instead of thousands of scattered duplicates across many disparate platforms and websites
-- moving away from text-based communication and towards structured data (which would enable much easier processing and aggregation)
-- privacy and anonymity
-- an exploration of cooperation and an evolutionary take on why we need to aggregate into a global collective and reach coherence on what is true in order to tackle our greatest challenges
-- all intelligence is collective intelligence - inspired by biology and nature
-
-██████ TITLE
-
-Internet 2.0: The Global Brain
-
-██████ ABSTRACT
-
-Suppose there was an architecture for identity, names, and content addressing that was global, decentralized & neutral (not owned by any corporation or organization), has practically unlimited scalability, has solved the UX problem of dealing with private and public keys (that crypto & blockchain struggle with) and goes beyond the host-centric (IP & DNS) web of today (hint: there is such an architecture). What could we build on top of it?
-
-This talk will explore the transformation of the Internet and social media into a Global Brain - an informational meta-system transition. It isn't going to be very technical (0 code) but we'll explore the types of social and informational dynamics & interactions enabled by the permissionless extensibility & composability of an open system and we'll cover the following topics:
-
-- transparency, openness, provenance & integration of information
-
-
-- self-organization and complexification through bottom-up participation instead of top-down enforcement
-- debate maps, relevance realization, Bayesian inference & collective intelligence (which is all intelligence)
-- attention, availability cascades & algorithmic feeds that can be composed & configured by users
-- social media and the internet through the lens of the latest consciousness theories and research
-- what a merger of Twitter/YouTube/Facebook/Wikipedia/StackExchange/Quora/(and basically everything from the web) into a mega-social-net could look like
-- privacy and anonymity
-- sensemaking, consequence capture & solving collective action problems
-
-
-
-
-
-
-
+define different criteria for how to calculate any aggregate (vote/score)
 
 ██████ Background
 
@@ -59,6 +11,9 @@ still in the research phase, no code/funding/token yet.
 only a few details have changed since that talk - further simplification and making the design truly scalable
 
 ██████ key highlights & properties
+
+Suppose there was an architecture for identity, names, and content addressing that was global, decentralized & neutral (not owned by any corporation or organization), has practically unlimited scalability, has solved the UX problem of dealing with private and public keys (that crypto & blockchain struggle with) and goes beyond the host-centric (IP & DNS) web of today (hint: there is such an architecture). What could we build on top of it?
+
 
 - blockchain stores only what's essential - everything else is off-chain
 - sovereignty of identity
@@ -76,6 +31,10 @@ only a few details have changed since that talk - further simplification and mak
     - permissionless composability & extensibility
 - some differences compared to the current web in terms of what's stored where and the right to be forgotten
 
+
+
+permissionless extensibility & composability of an open system
+
 ██████ 
 
 Os/physical metwork/logical network addressing
@@ -86,22 +45,12 @@ OSI-7-layers.png
 
 ██████ 
 
+TODO: knowledge graphs, the semantic web
+
 focus from pages to data/documents/events that are linked to (created by) identities
 
 ██████ 
 
-
-Spaghetti & neurons/connectome - pictures side by side
-
-Today we’ll talk how to make this: <spaghetti picture>
-
-Multiple personality - not disorder - its a feature!
-split (2016)
-
-
-██████ What can we do on top of this identity network?
-
-Let's build the global brain
 
 
 
@@ -117,17 +66,17 @@ Let's build the global brain
 - Tunable notification settings in our IDMs
 - Forking communities, moderation filters & UIs
 
+
 We're in an asymmetric relationship with today's platforms - they've siloed our data and we're their captives.
 
 We've been given a single one-size-fits-all algorithmic feed for our information diet that's solely optimizing for engagement & time WELL spent with their ad revenue as the most important metric.
 
+- choose your recommendation algorithm, compose multiple different feeds from different subscriptions/sources
+algorithmic feeds that can be composed & configured by users
+
+we can define the layout of panels & widgets in the UI - why can't I remove the reels from Instagram? Because they want me to click on those...
+
 We should be offended by the lack of choice & transparency
-
-
-
-██████ 
-
-
 
 
 ██████ liquid democracy
@@ -146,22 +95,12 @@ viewing the same data from many different points of view - different filters & c
 
 - different filters & criteria
 
-A multi perspectival model of the world
+A multi perspectival model of the world - you can look through different lenses/perspectives
 
 giant_global_graph_of_events.png
 
 lenticular_view.png
 source of image: https://world3d.com/2020/06/the-history-of-lenticular/
-
-██████ structured data, aggregation & integration
-
-- aggregation & structured data vs text-based communication & ephemerality
-
-- knowledge graphs & deduplicating all concepts/events/claims with a single representation
-
-we use symbols and categories in our minds and there's a single representation for any concept/entity/event - we should do the same for the global brain
-
-
 
 ██████ giant global graph
 
@@ -175,7 +114,34 @@ suppose a story is written by you - wouldn't you want to fact-check it when it i
 - forks of something
 - disabled youtube comments - but comments on reddit for the youtube link
 
+██████ structured data, aggregation & integration
 
+- moving away from text-based communication and towards structured data (which would enable much easier processing and aggregation)
+
+- a lot less text would need to be moderated with structured data
+
+- aggregation & structured data vs text-based communication & ephemerality
+
+- knowledge graphs & deduplicating all concepts/events/claims with a single representation
+
+instead of thousands of scattered duplicates across many disparate platforms and websites
+
+we use symbols and categories in our minds and there's a single representation for any concept/entity/event - we should do the same for the global brain
+
+██████ unique representation & deduplication for any event/concept/entity/question
+
+- Wikipedia - no more than 1 entry for anything
+- StackExchange - most duplicates are resolved - we can do even better with incentives
+
+with or without propositional logic
+
+"Perfect is the enemy of good." - Voltaire
+https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good
+
+
+
+
+recursive self-reflection requires that any concept/entity/event has a single entry that can be referenced, and from then branch towards whatever else needs to be queried. unifying all concepts/entities/events under unique entries is a foundation for optimal recursive thought
 
 ██████ Argument maps & reinventing debate
 
@@ -183,14 +149,42 @@ suppose a story is written by you - wouldn't you want to fact-check it when it i
 
 https://debates.app/debates/how-old-is-the-universe.SC8x0d_SQqOdFdadhFcqhQ
 
-
-
 ██████ Separating annotation from debate
 
 concentrating the discussion and arguments/contention to a single place, annotation and linking to media pieces is separate
 
 
 
+██████ The Oracle problem
+
+- non-existent - because nothing here is transactional
+
+- not transactional - we can branch & fork our knowledge bases
+- 
+- override a "fact" database only for some facts
+
+██████ Annotation/tagging & incentives
+
++1 if no contestion, -3 if contested & escalated to a higher level with ruling against you
+
+██████ Relevance Realization & visibility templates
+
+credit to John Vervaeke
+
+ranked lists - top10, top50
+- values?
+- what everyone else should watch/read?
+- on any question/concept/event - what are the top10 most important resources?
+
+choice ranking - is (collective) relevance realization
+
+Wisdom is about decision pruning
+
+shared intentionality !!!
+
+- remember the giant global graph where anything could refer to anything and all that's queryable?
+    - visibility templates - what types of data should be shown
+        - competing templates - depending on who you trust
 
 ██████ status seeking monkeys
 
@@ -200,17 +194,62 @@ We can redefine status through aggregate computing
 
 
 
+██████ programmable incentives - Social influence score
+
+we can "bribe" others to do some task that needs doing by offering them
+- higher voting weights
+- higher ranking in recommendation algos - visibility boost
 
 
 
 
-██████ alignment, incentive design, game theory & reputation - PageRank for identities (not web pages)
+- decay?
+- voting on how votes should be weighted
+    - also which votes should be affected
+- reward quickness?
+    - reward quickness of changing your opinion from the "wrong" to the "correct" one?
 
+
+██████ collective action problems:
+
+we can "bribe" organisations as well if they do what we want them to
+- open sourcing your code?
+- opening up your pantents so we can all benefit from more collaboration?
+- trying harder to account for externalities - although it would cost you more?
+    - your advertising gets boosted within the ecosystem, or could even be suggested by default without paying anything
+    - you get a higher score
+    - your employees & leaders get a higher score
+
+How do we force Apple to spend 0.01% of their profits to fix human slavery in the Congo for the cobalt in their phones?
+- 
+
+
+██████ computed history & identity
+
+- we stumble upon something that sounds OK by someone we've never heard of and we might point to them, when in fact they could have a horrible reputation.
+
+- instantly query overlap of beliefs & values, also track record against a "fact" database of your choice
+
+
+
+
+██████ reputation - PageRank for identities (not web pages), alignment, incentive design
+
+consequence capture
+
+> "It takes 20 years to build a reputation and five minuted to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
 
 
 ██████ futarchy
 
 meme_financial_speculation.jpg
+
+
+
+██████ Appreciation points/currencies
+
+- non-transferrable/transactional - simply for accumulation
+- we can invent and create infinite new scoring systems and let people "vote" by giving their points to others
 
 ██████ You’re a Neuron
 
@@ -218,23 +257,50 @@ you_are_a_neuron_by_tomas_pueyo.png
 
 > "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
 
+██████ Automated/implicit influence
+
+- without you having to explicitly read what somebody has said?
 
 
-██████ social media, the Internet & latest consciousness
+██████ attention & availability cascades
+
+
+"Attention is the cursor of consciousness." - Jim Rutt
+
+
+██████ social media, the Internet & consciousness
 
 - attention schema theory
 
 - integrated information theory
 
 
+██████ futarchy & epistocracy
 
-██████ The Oracle problem
+building
+- reputation
+- credibility
+- accountability
+- legitimacy
+in public
 
-- not transactional - we can branch & fork our knowledge bases
+and getting more voting power
 
-██████ 
+> "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
+
+██████ Competing views
+
+We can give more weight to the opinions of those. And we can have different opinions
 
 
+██████ Bayesian inference, agency, causality & modelling
+
+Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available.
+
+
+
+Agency requires making models of the future with causal simulations
+minimizing surprise when predicting the world
 
 ██████ 
 
@@ -273,22 +339,9 @@ Not A(G)I => collective intelligence
 
 
 
-██████ 
 
+██████ privacy and anonymity
 
-top10 lists
-
-
-
-██████ 
-
-
-
-
-
-██████ computed history & identity
-
-- instantly query overlap of beliefs & values, also track record against a "fact" database of your choice
 
 
 
@@ -356,8 +409,16 @@ Democracy in its current form was conceived when people used horses to send pape
 ██████ UNUSED STUFF
 
 
-"Perfect is the enemy of good." - Voltaire
-https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good
+
+
+
+
+Spaghetti & neurons/connectome - pictures side by side
+
+Today we’ll talk how to make this: <spaghetti picture>
+
+Multiple personality - not disorder - its a feature!
+split (2016)
 
 
 
