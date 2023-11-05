@@ -31,12 +31,9 @@ Suppose there was an architecture for identity, names, and content addressing th
 
 This talk will explore the transformation of the Internet and social media into a Global Brain - an informational meta-system transition. It isn't going to be very technical (0 code) but we'll explore the types of social and informational dynamics & interactions enabled by the permissionless extensibility & composability of an open system and we'll cover the following topics:
 
-- aggregation & structured data vs text-based communication & ephemerality
 - transparency, openness, provenance & integration of information
-- viewing the same data from many different points of view - different filters & criteria
-- knowledge graphs & deduplicating all concepts/events/claims with a single representation
-- liquid democracy (the ability to delegate your vote to others and split it for different topics)
-- alignment, incentive design, game theory & reputation - PageRank for identities (not web pages)
+
+
 - self-organization and complexification through bottom-up participation instead of top-down enforcement
 - debate maps, relevance realization, Bayesian inference & collective intelligence (which is all intelligence)
 - attention, availability cascades & algorithmic feeds that can be composed & configured by users
@@ -64,6 +61,7 @@ only a few details have changed since that talk - further simplification and mak
 ██████ key highlights & properties
 
 - blockchain stores only what's essential - everything else is off-chain
+- sovereignty of identity
 - can scale to tens of billions of identities (including anonymous ones)
 - solves the UX problem of blockchains & web3 of dealing with public & private keys ==> a web2 experience
 - identify/address any event/document/action/content with just 4 integers
@@ -84,9 +82,11 @@ Os/physical metwork/logical network addressing
 
 host-centric => data/identity-centric
 
+OSI-7-layers.png
+
 ██████ 
 
-focus from pages to data/documents/events that are linked to identities
+focus from pages to data/documents/events that are linked to (created by) identities
 
 ██████ 
 
@@ -102,6 +102,12 @@ split (2016)
 ██████ What can we do on top of this identity network?
 
 Let's build the global brain
+
+
+
+
+
+
 
 ██████ Some cool things we could do
 
@@ -123,25 +129,67 @@ We should be offended by the lack of choice & transparency
 
 
 
-██████ Same data, different points of view
-
-- different filters & criteria
-
-> "Data is the center of the universe; applications are ephemeral." - [The Data-Centric Manifesto](http://datacentricmanifesto.org/)
-
-██████ 
-
-
-
-██████ 
-
-
 
 ██████ liquid democracy
 
-- direct vs representative vs liquid democracy
+- direct vs representative vs liquid
 
 - the ability to delegate your vote to others and split it for different topics
+
+██████ Events vs State/Views
+
+> "Data is the center of the universe; applications are ephemeral." - [The Data-Centric Manifesto](http://datacentricmanifesto.org/)
+
+Same data/events, different points of view
+
+viewing the same data from many different points of view - different filters & criteria
+
+- different filters & criteria
+
+giant_global_graph_of_events.png
+
+lenticular_view.png
+source of image: https://world3d.com/2020/06/the-history-of-lenticular/
+
+██████ structured data, aggregation & integration
+
+- aggregation & structured data vs text-based communication & ephemerality
+
+- knowledge graphs & deduplicating all concepts/events/claims with a single representation
+
+we use symbols and categories in our minds and there's a single representation for any concept/entity/event - we should do the same for the global brain
+
+
+
+██████ giant global graph
+
+suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?
+
+- different templates of what should be displayed next to something
+
+- rebuttals
+- disabled comment sections - why?
+- name change suggestions - countering clickbait - in stackexchange even the question title can be edited by others!
+- forks of something
+- disabled youtube comments - but comments on reddit for the youtube link
+
+
+
+
+
+
+
+
+
+██████ status seeking monkeys
+
+redefining status
+
+We can redefine status through aggregate computing
+
+
+
+
 
 
 
@@ -149,13 +197,9 @@ We should be offended by the lack of choice & transparency
 
 
 
-██████ 
-
-
-
 ██████ futarchy
 
-
+meme_financial_speculation.jpg
 
 ██████ 
 
@@ -169,13 +213,13 @@ We should be offended by the lack of choice & transparency
 
 
 
+██████ The Oracle problem
+
+- not transactional - we can branch & fork our knowledge bases
+
 ██████ 
 
 
-
-██████ 
-
-giant_global_graph_of_events.png
 
 ██████ 
 
@@ -226,18 +270,6 @@ top10 lists
 
 
 
-██████ giant global graph
-
-suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?
-
-- different templates of what should be displayed next to something
-
-- rebuttals
-- disabled comment sections - why?
-- name change suggestions - countering clickbait - in stackexchange even the question title can be edited by others!
-- forks of something
-- disabled youtube comments - but comments on reddit for the youtube link
-
 
 ██████ computed history & identity
 
@@ -245,23 +277,84 @@ suppose a story is written by you - wouldn't you want to fact-check it when it i
 
 
 
-██████ 
-
-If i had to point to three names:
-Daniel s
-John s
-Francis
-the 3 most under appreciated thinkers
 
 
 
-██████ 
 
 
+
+██████ Metasystems transitions
+
+meme_goat-to-cow-come-in-cow.jpg
+
+telephone_switchboard_1.png
+https://culturexchange1.files.wordpress.com/2015/06/sans-titre.png
+https://culturexchange1.wordpress.com/2015/06/02/the-telephone-switchboard-the-story-of-a-revolutionary-instrument/
+
+> "Metasystems separate two qualitatively different levels of organization. The new level of organization must emerge from the coordination of new controls utilizing a new information medium for the integration of previously disparate subsystems." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
+
+
+> "The emergence of new levels of organization has occurred within the human system three times, and has resulted in three broadly defined levels of higher control, producing three broadly defined levels of group selection (e.g., band/tribe, chiefdom/kingdom, nation-state/international)..... by utilizing the evolutionary emergence of a more powerful information-processing medium (e.g., language, writing, printing press)." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
+
+> "This next metasystem may not be too far from fundamentally disrupting modern control structures, as radically new energy and information systems are developing and could form higher collective synergies than current information-energy systems." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
+
+> "The emergence of a fundamentally new information medium and energy structure could suggest the beginnings of a metasystem transition towards a higher level of control. If true the first half of the twenty-first century could be characterized by a fundamental disruption to the operations of the nation-state and the stabilization of new higher forms of human organization. What we can learn from previous human metasystem transitions is that new controls will likely be organized utilizing the highest emergent information medium (in this case, the Internet as medium should play a crucial organizing role)." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
+
+Democracy in its current form was conceived when people used horses to send paper letters for communication.
+
+██████ So what is the Global Brain?
+
+> "The "global brain" is the name given to the emerging intelligent network that is formed by all people on this planet together with the computers, knowledge bases and communication links that connect them together. Like a human brain, this network is an immensely complex, self-organizing system, that processes information, makes decisions, solves problems, learns new connections and discovers new ideas. It plays the role of a nervous system for the whole of humanity. No single person, organization or computer is in control of this system: its "thought" processes are distributed over all its components." - [The Global Brain as a New Utopia, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-Utopia.pdf)
+
+> "The global brain is controlled by all the people that are part of it. It is not an autonomous system that could suddenly decide no longer to obey commands. The global brain's intelligence, indeed its "mind" or "personality", emerges from the actions of all people collectively." - [The Global Brain as a New Utopia, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-Utopia.pdf)
+
+> "The global brain perspective focuses on intelligence and fitness at the level of planetary society: the whole of humanity together with its artifacts and the ecosystems that it controls and relies on. This system of mutually dependent people, technologies and ecosystems defines the global superorganism." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+
+██████ Current state & roadmap
+
+- ~2mb of disorganized notes - not presentable
+- ~2 more months of research & note taking
+- free online book available by Q2 or Q3 of 2024
+- assembling a team, fundraising & coding Q3 2024
+- not sure about the final name & domain
+- contact me for updates & participation
+
+██████ Q&A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+██████ UNUSED STUFF
 
 
 "Perfect is the enemy of good." - Voltaire
 https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -587,7 +587,7 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "The brain has hundreds of bugs, which we call [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). But you can classify them as a bunch of fun little bugs and one monster3: confirmation bias. It’s the tendency to quickly adopt new information that supports your beliefs and to quickly discount the new information that undermines them. This is among the biggest hindrances to human development, since it’s so hard to correct people’s erroneous beliefs, and so our society carries them forward for ages." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs#:~:text=The%20brain%20has,forward%20for%20ages.)
 
-> "Unlearning is at the core of learning." - [How to Change Beliefs, by Tomas Pueyo]()
+> "Unlearning is at the core of learning." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs)
 
 > "We’re going towards a world where individuals relinquish freedom for the good of society, but do so in a decentralized way: we create the rules and enforce them together." - [Society Is a Brain, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/society-is-a-brain?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=we%E2%80%99re%20going%20towards%20a%20world%20where%20individuals%20relinquish%20freedom%20for%20the%20good%20of%20society%2C%20but%20do%20so%20in%20a%20decentralized%20way%3A%20we%20create%20the%20rules%20and%20enforce%20them%20together.)
 
@@ -726,7 +726,6 @@ sympathetic vs parasympathetic nervous system
 > "With great power, comes power to avoid responsibility." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1720575694886072697)
 
 
-thor12yhqpjpya7m9mxdsedzmq9n34csay5f5rfsrkz
 
 
 
@@ -1224,7 +1223,7 @@ what if we could incentivise & signal what the ecology of practices should be
 
 instead of building arctic code vaults to preserve code, we should be working on the root of civilization - incentive design
 
-we need to make the best system for giving the best tools to anyone for anything which does not cause externalities - the nexus of cooperation and coordination - the nexus of global brain though
+we need to make the best system for giving the best tools to anyone for anything which does not cause externalities - the nexus of cooperation and coordination - the nexus of global brain thought
 
 we are so blind to recognize the suggested improvements by the top complexity scientists and evolutionary thinkers - the most obvious improvements that anyone should be clamoring for. We have a system which does not produce coherence oriented towards what makes sense for all
 
@@ -1601,8 +1600,6 @@ Transparent crowdsourcing of the arbiter of truth
 
 We need to make thinking from first principles the cultural norm
 
-The global brain is applied philosophy
-
 Game A is closed. Game B is open - the gates to power are open for the best of the best
 
 The mind is a pattern-marching machine - it makes sense that we should want to pattern-match the most competent and responsible and put them in charge
@@ -1671,8 +1668,6 @@ We need to end even just the possibility of nuclear war - what’s the plan?
 Social legitimacy score
 
 The global brain is a moral imperative
-
-Your clothes stink !!!
 
 It is inconceivable why anyone would settle for anything less than futarchy
 
@@ -1906,7 +1901,7 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 
 > "Just like the neural networks in our brain, the global network processes this information in a distributed manner, with billions of human and technological “neurons” working in parallel—on partly the same, partly different data—while aggregating their results into collective decisions and  actions. Unlike the centralized, tightly controlled systems imagined by AI theorists, this network functions like a complex adaptive system: a decentralized, selforganizing whole formed by an immense variety of interacting agents. This makes the overall system much more powerful, robust, and adaptive than a preprogrammed central processor that takes in information sequentially. As it adapts, this network learns from its experience by expanding and extending the most useful technologies, ideas, links, institutions, and agents, while setting aside and eventually forgetting the less useful ones. Moreover, it learns to ever better coordinate the activities of its components, by creating ever more direct and more powerful links between them. It thus increases its own intelligence. This increase can only accelerate as a more powerful and intelligent network also expands and develops more quickly." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
 
-> "The global brain perspective focuses on intelligence and fitness at the level of planetary society: the whole of humanity together with its artifacts and the ecosystems that it controls and relies on. This system of mutually dependent people, technologies and ecosystems defines the global superorganism" - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+> "The global brain perspective focuses on intelligence and fitness at the level of planetary society: the whole of humanity together with its artifacts and the ecosystems that it controls and relies on. This system of mutually dependent people, technologies and ecosystems defines the global superorganism." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
 
 > "The most successful attempt to date at organizing this knowledge is Wikipedia, the global encyclopedia that is being read, written and edited by millions of volunteers worldwide. The basis of its success is [stigmergy](https://en.wikipedia.org/wiki/Stigmergy), a mechanism of self-organizing coordination between independent agents. The principle is that the work of one individual (e.g. an edit of a Wikipedia text) leaves a public trace (e.g. a change in the corresponding web page) that can stimulate one or more other individuals to continue the work (e.g. add further details or correct wrong assumptions). Thus, independent contributions build further the one on top of the other, producing a collective result much richer and more complex than could have been achieved via any traditional, centralized form of organization. There are no obvious limits to such a self-amplifying process of contributions eliciting further contributions." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
 
@@ -4087,8 +4082,6 @@ Owning an excessive/lavish 250M$ penthouse might subtract some of your reputatio
 
 we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
 
-Join the opt-in cooperative synapse society of the global brain - it comes with perks!
-
 what if the fabric of society was defined by a layered web of reputation models - an ever-evolving complex incentive structure derived from our values?
 
 AGI vs human alignment
@@ -4113,8 +4106,6 @@ We can crowdsource the best legend of "how to participate and what you need to k
 google reviews !!! - a reputation system
 
 Non-uniform collectivism
-
-The metaverse is the address space within the global brain
 
 the great reset is the rebuilding of society around identity
 
