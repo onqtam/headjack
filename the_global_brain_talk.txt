@@ -52,8 +52,6 @@ This talk will explore the transformation of the Internet and social media into 
 
 
 
-
-
 ██████ Background
 
 Last year (code::dive 2022):
@@ -123,7 +121,98 @@ We should be offended by the lack of choice & transparency
 
 ██████ 
 
+
+
+██████ Same data, different points of view
+
+- different filters & criteria
+
+> "Data is the center of the universe; applications are ephemeral." - [The Data-Centric Manifesto](http://datacentricmanifesto.org/)
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ liquid democracy
+
+- direct vs representative vs liquid democracy
+
+- the ability to delegate your vote to others and split it for different topics
+
+
+
+██████ alignment, incentive design, game theory & reputation - PageRank for identities (not web pages)
+
+
+
+██████ 
+
+
+
+██████ futarchy
+
+
+
+██████ 
+
+
+
+██████ social media, the Internet & latest consciousness
+
+- attention schema theory
+
+- integrated information theory
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ all intelligence is collective intelligence
+
 Not A(G)I => collective intelligence
+
+
+██████ 
+
+
+
+██████ 
+
+
+
+██████ 
+
+
 
 ██████ 
 
@@ -134,14 +223,24 @@ top10 lists
 
 ██████ 
 
-DOD manifesto quote
-
-
-██████ 
 
 
 
-██████ 
+██████ giant global graph
+
+suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?
+
+- different templates of what should be displayed next to something
+
+- rebuttals
+- disabled comment sections - why?
+- name change suggestions - countering clickbait - in stackexchange even the question title can be edited by others!
+- forks of something
+
+
+██████ computed history & identity
+
+- instantly query overlap of beliefs & values, also track record against a "fact" database of your choice
 
 
 
