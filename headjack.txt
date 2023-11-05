@@ -585,7 +585,7 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 >
 > - The ways that citizens can make their voices heard are obsolete." - [Hypergrowth Society, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/hypergrowth-society#:~:text=the%20processes%20of,heard%20are%20obsolete.)
 
-> "The brain has hundreds of bugs, which we call [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). But you can classify them as a bunch of fun little bugs and one monster3: confirmation bias. It’s the tendency to quickly adopt new information that supports your beliefs and to quickly discount the new information that undermines them. This is among the biggest hindrances to human development, since it’s so hard to correct people’s erroneous beliefs, and so our society carries them forward for ages." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs#:~:text=The%20brain%20has,forward%20for%20ages.)
+> "The brain has hundreds of bugs, which we call [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). But you can classify them as a bunch of fun little bugs and one monster: confirmation bias. It’s the tendency to quickly adopt new information that supports your beliefs and to quickly discount the new information that undermines them. This is among the biggest hindrances to human development, since it’s so hard to correct people’s erroneous beliefs, and so our society carries them forward for ages." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs#:~:text=The%20brain%20has,forward%20for%20ages.)
 
 > "Unlearning is at the core of learning." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs)
 
@@ -896,20 +896,13 @@ the potential of liquid democracy is way beyond what Google used it for internal
 
 
 Simplicity as a design goal - the sculpture that is refining itself from fat to thin
+https://www.google.com/search?q=sculpture+carving+itself
 
 Those in power are incapable of something better
 
-Tova e nova religiq
-
-Are napishi edna religiq
-
 a cult around reputation and accountability
 
-Sledvashtiq bitcoin e tova - edna nova religiq okolo reputaciqta
-
 TODO: spomni si purvona4alnite ti idei za browser plugin za fake news ili kakvoto beshe tam
-
-Nomer edno neshtoto koeto imame i trqbva da optimizirame e sposobnostite ni za vninanie
 
 typical neural networks encode patterns and knowledge - this "neural network" encodes competence and instead of distributed it follows a power law distribution in terms of contribution from each neuron
 
