@@ -236,6 +236,7 @@ suppose a story is written by you - wouldn't you want to fact-check it when it i
 - disabled comment sections - why?
 - name change suggestions - countering clickbait - in stackexchange even the question title can be edited by others!
 - forks of something
+- disabled youtube comments - but comments on reddit for the youtube link
 
 
 ██████ computed history & identity
