@@ -800,8 +800,6 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 
 
-> "Go big, because we all go home." - [Naval Ravikant](https://twitter.com/naval/status/1714119368358207872)
-
 
 
 when someone does bad in terms of competence/accountability, in addition to a reputational penalty to them we could also penalize a bit those that gave their votes to that person - for empowering a rotten apple. We could also give rewards for delegating to the right person...?
@@ -1637,7 +1635,7 @@ https://en.wikipedia.org/wiki/Open-source_governance
 
 > "Open government is the governing doctrine which maintains that citizens have the right to access the documents and proceedings of the government to allow for effective public oversight. In its broadest construction, it opposes [reason of state](https://en.wikipedia.org/wiki/National_interest) and other considerations which have tended to legitimize extensive state [secrecy](https://en.wikipedia.org/wiki/Secrecy)." - [Open government, Wikipedia](https://en.wikipedia.org/wiki/Open_government#:~:text=Open%20government%20is%20the,extensive%20state%20secrecy.)
 
-The sign should read: “If you want power - go ahead and get it, but earn it legitimately
+The sign should read: "If you want power - go ahead and get it, but earn it legitimately"
 
 We can run a parallel global democracy for years and when ready with the numbers and confidence of the new selects and the mechanisms we can switch the world within a 4 year election cycle
 
@@ -1703,10 +1701,11 @@ The Church ot Truth says that the more transparency and accountability and integ
 
 
 
-Free will is a harmful concept - we need to focus more on the environment and systems and development and not put all of the responsibility on the individual
+Free will is a harmful concept - we need to focus more on the environment, systems and development and not put all of the responsibility on the individual
 If we don’t aim at giving the best possible education to as many kids as possible - we are dooming humanity or at least exacerbating societal and survival problems in the future
 
 addressing in computing: layer 1: at the OS level, layer 2: at the physical network level (internet, IP), layer 3: identity-based
+personal computing, distributed computing, social computing
 
 Dragging and dropping, freely rewiring data & functional nodes
 
@@ -1733,13 +1732,15 @@ We’ve never been able to do participatory culture and be tribal at scale until
 
 Compound identity/reputation - like knowledge and interest
 Reputation compounds just like knowledge and interest
-
+> "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
+But compounding applies not only to interest but also to reputation and knowledge.
 
 What if we could label squatters of names - taking up valuable names for speculation - and what if we could penalize them reputationally? Ala social regulation. Stigma.
+Any kind of resource hoarding should be stigmatized - not enforced through regulation but simply culturally stigmatized.
 
 Memes all the way down - what is the root meme? We need to surface truth to the best of our abilities and crowd-source morality. We shake hands when we meet - that's culture. How do we fix the rest of culture?
 God in 3 sentences:
-God is the link with everyone else. God is what we have in common and our purpose in life is to discover him. Spirituality is a spectrum and a gradient - a journey, a path.
+God is the link (our connectedness) with everyone else. God is what we have in common and our purpose in life is to discover him. Spirituality is a spectrum and a gradient - a journey, a path towards him - towards connectedness with everyone else.
 We need to learn to enjoy the ride and succumb to it.
 We need to create an aggregate connectome - what we share
 
@@ -2361,7 +2362,7 @@ Internet of people/influencers ==> internet of ideas
 
 the global brain in 1 sentence, 1000 words, 1 essay
 
-2 notification? Show only one and save the other for later! pure evil...
+2 notifications? Show only one and save the other for later! pure evil... some apps do this...
 Are the apps working for you?
 We need to put the humans first
 
@@ -2369,7 +2370,7 @@ Collectively programming humanity
 
 We need to take back control over how the epistemic sausage is made
 
-We need to reimplement the “rules-based  international order”
+We need to reimplement the “rules-based international order”
 UH - united humanity
 
 The terms of the debt jubilee will be dictated by the global brain
@@ -2380,7 +2381,7 @@ the race to the top on transparency
 
 One commandment: epistemic health
 
-Whistleblowing should play
+Whistleblowing should pay
 
 The one commandment: most people are good
 
@@ -2827,7 +2828,7 @@ Nurturing your digital twin - your alter ego
 
 Life and evolution have a direction - towards greater scales of cooperation and greater evolvability - transcendence
 
-What should we do as civilisation? We should teach our kids the general principles that would help them self-actualize and we should have a causal map of the world along with the brst possible training materials for any field - so kids can choose their direction
+What should we do as a civilisation? We should teach our kids the general principles that would help them self-actualize and we should have a causal map of the world along with the best possible training materials for any field - so kids can choose their direction
 
 The one commandment: consequence capture, fairness and cooperation
 
@@ -2929,8 +2930,6 @@ We must consciously raise the awareness and education of the so-called masses
 
 We are failing at raising humans
 
-Psychedelics turn up the volume of consciousness
-
 Facebook is an insult to humanity
 
 We must devote ourselves to excellence
@@ -2959,7 +2958,7 @@ Every human is an LLM - you poke it and stuff comes out
 
 “Should” needs to enter the public conversation
 
-We need to address meaning as a covilization
+We need to address meaning as a civilization
 
 I want to invent what comes after democracy in its current form and the nation state - the first major intentional evolutionary step for life on earth
 

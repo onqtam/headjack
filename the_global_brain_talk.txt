@@ -1,5 +1,6 @@
 
-define different criteria for how to calculate any aggregate (vote/score)
+
+
 
 ██████ Background
 
@@ -95,12 +96,17 @@ viewing the same data from many different points of view - different filters & c
 
 - different filters & criteria
 
+"only professors" or people with X attestation by entity Z
+
 A multi perspectival model of the world - you can look through different lenses/perspectives
 
 giant_global_graph_of_events.png
 
 lenticular_view.png
 source of image: https://world3d.com/2020/06/the-history-of-lenticular/
+
+Multiple personality - not disorder - its a feature!
+split (2016)
 
 ██████ giant global graph
 
@@ -117,6 +123,8 @@ suppose a story is written by you - wouldn't you want to fact-check it when it i
 ██████ structured data, aggregation & integration
 
 - moving away from text-based communication and towards structured data (which would enable much easier processing and aggregation)
+
+Concepts and events are singular and unique, opinions are subjective and multi-perspectival
 
 - a lot less text would need to be moderated with structured data
 
@@ -138,7 +146,9 @@ with or without propositional logic
 "Perfect is the enemy of good." - Voltaire
 https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good
 
-
+we all want to express ourselves
+we all have opinions on different things with differing competences
+how do I express what should be taught in school - like how money works? Or dieting and avoiding sugar?
 
 
 recursive self-reflection requires that any concept/entity/event has a single entry that can be referenced, and from then branch towards whatever else needs to be queried. unifying all concepts/entities/events under unique entries is a foundation for optimal recursive thought
@@ -155,7 +165,7 @@ concentrating the discussion and arguments/contention to a single place, annotat
 
 
 
-██████ The Oracle problem
+██████ The Oracle problem - fact databases
 
 - non-existent - because nothing here is transactional
 
@@ -172,7 +182,7 @@ concentrating the discussion and arguments/contention to a single place, annotat
 credit to John Vervaeke
 
 ranked lists - top10, top50
-- values?
+- values? meaning?
 - what everyone else should watch/read?
 - on any question/concept/event - what are the top10 most important resources?
 
@@ -187,6 +197,8 @@ shared intentionality !!!
         - competing templates - depending on who you trust
 
 ██████ status seeking monkeys
+
+> "While you can outsource Bitcoin mining to a computer, people still mine for social capital on social networks largely through their own blood, sweat, and tears." - [Status as a Service (StaaS)]
 
 redefining status
 
@@ -208,7 +220,10 @@ we can "bribe" others to do some task that needs doing by offering them
     - also which votes should be affected
 - reward quickness?
     - reward quickness of changing your opinion from the "wrong" to the "correct" one?
+- leaderboards, seasons & resetting status
 
+
+- we can bet on people and build a track record of picking winners
 
 ██████ collective action problems:
 
@@ -220,8 +235,11 @@ we can "bribe" organisations as well if they do what we want them to
     - you get a higher score
     - your employees & leaders get a higher score
 
-How do we force Apple to spend 0.01% of their profits to fix human slavery in the Congo for the cobalt in their phones?
-- 
+- engaging in planned obsolescence? ==> Penalty.
+
+- Suppose a company makes tens of billions of earnings per year - why don't they direct 0.1-0.2% of their earnings towards fixing their Cobalt supply chains so that there isn't human slavery in the Congo?
+- we need to be able to shame companies for their exploitative practices - whatever those may be (psychological, monetary, etc.)
+
 
 
 ██████ computed history & identity
@@ -231,16 +249,13 @@ How do we force Apple to spend 0.01% of their profits to fix human slavery in th
 - instantly query overlap of beliefs & values, also track record against a "fact" database of your choice
 
 
-
-
 ██████ reputation - PageRank for identities (not web pages), alignment, incentive design
 
 consequence capture
 
-> "It takes 20 years to build a reputation and five minuted to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
+The elephant in the room is human alignment
 
-
-██████ futarchy
+> "Have I done something for the common good? Then I share in the benefits." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1688958269287755776)
 
 meme_financial_speculation.jpg
 
@@ -275,7 +290,17 @@ you_are_a_neuron_by_tomas_pueyo.png
 - integrated information theory
 
 
-██████ futarchy & epistocracy
+Why hasn't humanity ranked the top 100 challenges? Why haven't we mapped the causality and interconnectedness & feedback of all our issues? Why isn't everything directed towards solving them? Why isn't there any coherence & shared intentionality?
+
+What is our civilizational objective function?
+
+identify perverse incentives, multipolar traps, coordination failures, and destructive competition
+
+talk about apes & shared intentionality
+
+
+
+██████ futarchy, prediction markets & epistocracy
 
 building
 - reputation
@@ -286,7 +311,13 @@ in public
 
 and getting more voting power
 
+If you can provably and reliably predict the second and third-order effects of policies and have superior modeling of the world - you should be in charge.
+
 > "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
+
+> "It takes 20 years to build a reputation and five minuted to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
+
+> "Prediction, not narration, is the real test of our understanding of the world." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177687-prediction-not-narration-is-the-real-test-of-our-understanding)
 
 ██████ Competing views
 
@@ -297,7 +328,7 @@ We can give more weight to the opinions of those. And we can have different opin
 
 Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available.
 
-
+> "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
 
 Agency requires making models of the future with causal simulations
 minimizing surprise when predicting the world
@@ -378,7 +409,19 @@ https://culturexchange1.wordpress.com/2015/06/02/the-telephone-switchboard-the-s
 
 Democracy in its current form was conceived when people used horses to send paper letters for communication.
 
+the real change happened multiple generations after the invention of the printing press - we're still early with what's about to happen because of the internet
+
 > "Nation-states were never built for global action. They are obsolete to the problems we need to solve." - [The End of Nation-States, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-end-of-nation-states?s=w#:~:text=nation%2Dstates%20were%20never%20built%20for%20global%20action.%20They%20are%20obsolete%20to%20the%20problems%20we%20need%20to%20solve.)
+
+██████ Spaghetti vs connectome
+
+pictures side by side
+
+██████ The medium is the message
+
+> "We live in media, as fish live in water." - [Ted Nelson](https://www.azquotes.com/quote/1405368)
+
+We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
 
 ██████ Current state & roadmap
 
@@ -408,17 +451,34 @@ Democracy in its current form was conceived when people used horses to send pape
 
 ██████ UNUSED STUFF
 
+How do I easily query "has X ever expressed an opinion on this topic, an if so - what?"
+Example: Wikipedia page about Utilitarianism - it has a criticism section. Why am I not able to query "show me all criticism of Utilitarianism from people I follow"?
+
+TODO: ontology... big problem
+
+
+
+new kinds of signals - bias, clickbaity-ness, not presenting the full picture, loaded language, missing citations
+
+define different criteria for how to calculate any aggregate (vote/score)
+
+self-organization
+
+connectome slide?
+
+any parameter of a social media could be put to a vote
+
+we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
 
 
 
 
 
-Spaghetti & neurons/connectome - pictures side by side
 
-Today we’ll talk how to make this: <spaghetti picture>
 
-Multiple personality - not disorder - its a feature!
-split (2016)
+
+
+
 
 
 
