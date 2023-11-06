@@ -326,70 +326,6 @@ Not A(G)I => collective intelligence
 
 
 
-██████ Metasystems transitions
-
-meme_goat-to-cow-come-in-cow.jpg
-
-telephone_switchboard_1.png
-https://culturexchange1.files.wordpress.com/2015/06/sans-titre.png
-https://culturexchange1.wordpress.com/2015/06/02/the-telephone-switchboard-the-story-of-a-revolutionary-instrument/
-
-> "Metasystems separate two qualitatively different levels of organization. The new level of organization must emerge from the coordination of new controls utilizing a new information medium for the integration of previously disparate subsystems." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
-
-
-> "The emergence of new levels of organization has occurred within the human system three times, and has resulted in three broadly defined levels of higher control, producing three broadly defined levels of group selection (e.g., band/tribe, chiefdom/kingdom, nation-state/international)..... by utilizing the evolutionary emergence of a more powerful information-processing medium (e.g., language, writing, printing press)." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
-
-> "This next metasystem may not be too far from fundamentally disrupting modern control structures, as radically new energy and information systems are developing and could form higher collective synergies than current information-energy systems." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
-
-> "The emergence of a fundamentally new information medium and energy structure could suggest the beginnings of a metasystem transition towards a higher level of control. If true the first half of the twenty-first century could be characterized by a fundamental disruption to the operations of the nation-state and the stabilization of new higher forms of human organization. What we can learn from previous human metasystem transitions is that new controls will likely be organized utilizing the highest emergent information medium (in this case, the Internet as medium should play a crucial organizing role)." - [Human Metasystem Transition (HMST) Theory](https://www.researchgate.net/publication/284157238_Human_metasystem_transition_HMST_theory)
-
-██████ So what is the Global Brain?
-
-> "The "global brain" is the name given to the emerging intelligent network that is formed by all people on this planet together with the computers, knowledge bases and communication links that connect them together. Like a human brain, this network is an immensely complex, self-organizing system, that processes information, makes decisions, solves problems, learns new connections and discovers new ideas. It plays the role of a nervous system for the whole of humanity. No single person, organization or computer is in control of this system: its "thought" processes are distributed over all its components." - [The Global Brain as a New Utopia, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-Utopia.pdf)
-
-> "The global brain is controlled by all the people that are part of it. It is not an autonomous system that could suddenly decide no longer to obey commands. The global brain's intelligence, indeed its "mind" or "personality", emerges from the actions of all people collectively." - [The Global Brain as a New Utopia, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-Utopia.pdf)
-
-> "The global brain perspective focuses on intelligence and fitness at the level of planetary society: the whole of humanity together with its artifacts and the ecosystems that it controls and relies on. This system of mutually dependent people, technologies and ecosystems defines the global superorganism." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
-
-Democracy in its current form was conceived when people used horses to send paper letters for communication.
-
-the real change happened multiple generations after the invention of the printing press - we're still early with what's about to happen because of the internet
-
-> "Nation-states were never built for global action. They are obsolete to the problems we need to solve." - [The End of Nation-States, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-end-of-nation-states?s=w#:~:text=nation%2Dstates%20were%20never%20built%20for%20global%20action.%20They%20are%20obsolete%20to%20the%20problems%20we%20need%20to%20solve.)
-
-██████ A few parting thoughts
-
-We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
-
-how do we optimize society?
-how do we make sure capital and human labor is allocated better?
-
-> "As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them." - [Aaron Swartz](https://www.azquotes.com/quote/873585)
-
-
-██████ Current state & roadmap
-
-- this presentation is a tiny % of the whole thing
-- ~2mb of disorganized & chaotic notes - not presentable
-- ~2 more months of research & note taking
-- free online book available by Q2 2024
-- assembling a team, fundraising & coding Q3 2024
-- not sure about the final name & domain
-- contact me for updates & participation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ██████ UNUSED STUFF
@@ -430,7 +366,12 @@ layering incentives
 
 
 
+Democracy in its current form was conceived when people used horses to send paper letters between cities.
 
+We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
+
+how do we optimize society?
+how do we make sure capital and human labor is allocated better?
 
 
 
