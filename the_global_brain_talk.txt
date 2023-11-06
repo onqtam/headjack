@@ -1,79 +1,19 @@
 
 
 
-
-██████ Background
-
-Last year (code::dive 2022):
-Decentralized identity & content addressing at web-scale with a non-financial app-specific blockchain
-
-still in the research phase, no code/funding/token yet.
-
-only a few details have changed since that talk - further simplification and making the design truly scalable
-
-██████ key highlights & properties
-
-Suppose there was an architecture for identity, names, and content addressing that was global, decentralized & neutral (not owned by any corporation or organization), has practically unlimited scalability, has solved the UX problem of dealing with private and public keys (that crypto & blockchain struggle with) and goes beyond the host-centric (IP & DNS) web of today (hint: there is such an architecture). What could we build on top of it?
-
-
-- Everything crypto/blockchain related is abstracted away
-
-
-- blockchain stores only what's essential - everything else is off-chain
-- sovereignty of identity
-- can scale to tens of billions of identities (including anonymous ones)
-- solves the UX problem of blockchains & web3 of dealing with public & private keys ==> a web2 experience
-- identify/address any event/document/action/content with just 4 integers
-- has a name registry - URIs are persistent even after name ownership changes!
-    twitter.com/5542/johnny/3 always resolves to the canonical form 2131/6235/77534/3
-- can address practically unlimited amounts of off-chain data - both in terms of size and quantity
-- does not handle storage & retrievability - that's left to other layers & services
-- supports public/private data
-- maximally flexible - anything can be built on top
-- breaks the monopoly today's social networks have over the social graph and the data is no longer siloed
-    - all apps will have programmatic access to all public data!
-    - permissionless composability & extensibility
-- some differences compared to the current web in terms of what's stored where and the right to be forgotten
-
-
-
-permissionless extensibility & composability of an open system
-
-██████ 
-
-Os/physical metwork/logical network addressing
-
-host-centric => data/identity-centric
-
-OSI-7-layers.png
-
-> "the past was all about networked computers; the future is all about networked data structures" - [@syntacrobat](https://twitter.com/syntacrobat/status/1693446789943160984)
-
-██████ 
-
-TODO: knowledge graphs, the semantic web
-
-focus from pages to data/documents/events that are linked to (created by) identities
-
-██████ 
-
-
-
-
-
-
-
-
 ██████ Some cool things we could do
 
+We're in an asymmetric relationship with today's platforms - they've siloed our data and we're their captives.
+We should be offended by the lack of choice & transparency
+
+
+
 - Being able to see all the public activity of anyone no matter from which application and what type
-- Multi-dimensional subscriptions - include/exclude based on user, application, content type, tag, keyword
+- Multi-dimensional & fine-grained subscriptions - include/exclude based on user, application, content type, tag, keyword
 - Universal bookmarks & playlists - across all apps ⇒ knowledge management tools on top of them
-- Tunable notification settings in our IDMs
+- Tunable notification & DM settings
 - Forking communities, moderation filters & UIs
 
-
-We're in an asymmetric relationship with today's platforms - they've siloed our data and we're their captives.
 
 We've been given a single one-size-fits-all algorithmic feed for our information diet that's solely optimizing for engagement & time WELL spent with their ad revenue as the most important metric.
 
@@ -82,38 +22,12 @@ algorithmic feeds that can be composed & configured by users
 
 we can define the layout of panels & widgets in the UI - why can't I remove the reels from Instagram? Because they want me to click on those...
 
-We should be offended by the lack of choice & transparency
-
-
-██████ liquid democracy
-
-- direct vs representative vs liquid
-
-- the ability to delegate your vote to others and split it for different topics
-
-██████ Events vs State/Views
-
-> "Data is the center of the universe; applications are ephemeral." - [The Data-Centric Manifesto](http://datacentricmanifesto.org/)
-
-Same data/events, different points of view
-
-viewing the same data from many different points of view - different filters & criteria
-
-- different filters & criteria
-
-"only professors" or people with X attestation by entity Z
-
-A multi perspectival model of the world - you can look through different lenses/perspectives
-
-giant_global_graph_of_events.png
-
-lenticular_view.png
-source of image: https://world3d.com/2020/06/the-history-of-lenticular/
-
-Multiple personality - not disorder - its a feature!
-split (2016)
 
 ██████ giant global graph
+
+knowledge graphs, the semantic web
+focus from pages to data/documents/events that are linked to (created by) identities
+
 
 suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?
 
@@ -277,12 +191,6 @@ meme_financial_speculation.jpg
 - non-transferrable/transactional - simply for accumulation
 - we can invent and create infinite new scoring systems and let people "vote" by giving their points to others
 
-██████ You’re a Neuron
-
-you_are_a_neuron_by_tomas_pueyo.png
-
-> "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
-
 ██████ Automated/implicit influence
 
 - without you having to explicitly read what somebody has said?
@@ -430,10 +338,6 @@ the real change happened multiple generations after the invention of the printin
 
 > "Nation-states were never built for global action. They are obsolete to the problems we need to solve." - [The End of Nation-States, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-end-of-nation-states?s=w#:~:text=nation%2Dstates%20were%20never%20built%20for%20global%20action.%20They%20are%20obsolete%20to%20the%20problems%20we%20need%20to%20solve.)
 
-██████ Spaghetti vs connectome
-
-pictures side by side
-
 ██████ The medium is the message
 
 > "We live in media, as fish live in water." - [Ted Nelson](https://www.azquotes.com/quote/1405368)
@@ -504,8 +408,11 @@ No. Dont mention this
 
 OODA loop
 
+layering incentives
 
 
+Spaghetti vs connectome
+pictures side by side
 
 
 
