@@ -3507,6 +3507,9 @@ This is the way to participate in the building of our civilization
 > So I have tremendous hope for all of us humans together, using our creative technology, our computers, in order to link each other -- linking our minds, our concepts, our visions. Above all we need a very powerful vision to hold that butterfly image for us. To know where we want to go. Because the old system is very clear about what it wants. And we really do create our realities out of our beliefs. If we don't believe in a positive world in which all humans are liberated to express their creativity, we cannot build it. We must hold the vision very clearly and then go about doing whatever each of us loves doing most, knowing that the others will do the other parts. None us has to do the whole thing. Together we can really make it happen." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=The%20internet%2C%20by,make%20it%20happen.)
 
 
+> "If you’re talking about ‘human rights’ and ‘democracy’ instead of pipelines and the military industrial complex, you have no idea what’s going on in the world and should focus your energy elsewhere." - [@PresentWitness_](https://twitter.com/PresentWitness_)
+
+> "One of the best ways to achieve justice is to expose injustice." - [Julian Assange](https://twitter.com/ancapquotes/status/1721422177029804235)
 
 Politics should be replaced by simply putting the right person at the right spot - incentivising expertise and accountability - alining incentives
 
@@ -3514,7 +3517,7 @@ Mindlink
 
 Everything is connected - what if we mapped it all out?
 
-What if we could collectively agree on offchvain cbdc protocols and could collectively vote what should happen to them?
+What if we could collectively agree on offchain "CBDC" protocols and could collectively vote what should happen to them?
 
 We can crowdsource and agree upon what the most fundamental concept of our civilisation should be, and why, and enforce it within there
 Cooperation and education and the scientific method
@@ -3568,7 +3571,7 @@ Chapter about what twitter should do with headjack - play on their infra skills 
 !!!! The great reset: !!!!
 We should incentivise participating transparently in public and make that the only way of climbing the social ladder - a complete flattening of the power distribution - this is the great reset
 
-The current elites would have to start earning reputation from ground up on the new rules
+The current elites would have to start earning reputation from the ground up on the new rules
 
 Hierarchy is a core tenet in computer science
 
@@ -3616,9 +3619,6 @@ Participatory social engineering
 
 we could give points for "filling your profile" - values, top 10s, etc.
 
-
-Balaji:
-This, again, is quite different from current “social” networks like Twitter, which give individual scores for likes and followers but no team dashboard, no way of setting and achieving tangible goals as a group.
 
 
 
@@ -3950,9 +3950,7 @@ The first and forever biggest network state that engulfs the rest will be the me
 
 This is the idea market
 
-Relevance realization is the square root of the meaning of life
-
-The concern with global government is that it could cement the status quo of broken incentives
+The concern with global government is that it could cement the status quo of broken incentives and misalignment
 
 42 is relevance realization
 
@@ -3966,8 +3964,6 @@ The people dont want the current power structures to be cemented and because of 
 
 AGI is recursive relevance realization that has fully aligned everyone
 The AGI moment is when we start cooperating
-
-Think about what instagram, facebook and threads are.
 
 We need a market for transparency and accountability. On the record
 
@@ -4064,7 +4060,7 @@ What if we could give an account boost for anyone with a job? And so people who 
 What if we gave more status to billionaires if they donated 10% (or 20?) of their wealth?
 TODO: how could this backfire? they could essentially buy attentional influence with their money and make more money... Perhaps reputation should decay?
 Capitalism leads to wealth concentration, (inflationary fiat money does too) but is the best form of aligning incentives and promoting risk-taking and hard work.
-We can augment it (+ markets) by redefining status and incentivizing generosity.
+We can augment it (& markets) by redefining status and incentivizing generosity.
 Donations shouldn't be compelled and shouldn't simply go to the ever-hungry and unaccountable/inefficient/corrupt Uncle Sam in the form of a tax ("tax the rich!!! pay your fair share!!!") - anyone should be free to direct their donation however they choose.
 Owning an excessive/lavish 250M$ penthouse might subtract some of your reputation
 > "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
@@ -4231,6 +4227,8 @@ https://www.edge.org/response-detail/27098
 
 
 
+
+
 > "History is the entire record of everything humanity has done. It’s a very rich data structure that we have only begun to even think of as a data structure." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=History%20is%20the%20entire%20record%20of%20everything%20humanity%20has%20done.%20It%E2%80%99s%20a%20very%20rich%20data%20structure%20that%20we%20have%20only%20begun%20to%20even%20think%20of%20as%20a%20data%20structure.)
 
 
@@ -4386,8 +4384,6 @@ Wherever we turn our attention, things should improve
 
 Talk to others with aggregates
 
-social capital
-
 "irrelevant" reaction?
 https://twitter.com/naval/status/1268690139993133061
 https://prnt.sc/Fi5tgUIHyi7h
@@ -4464,8 +4460,6 @@ The great misallocation of attention
 
 Picture humanity in the most realistic way possible
 
-Any type of specific interaction will have a bunch of app names associated with it
-
 A new relationship with information
 
 How do we make scientists rich and famous?
@@ -4535,8 +4529,6 @@ How do we make the important actually important, even if it is boring
 We can have templates for concepts - how to represent them - what types of functionality layout we should want about a specific thing from the real world - what lens to use when regarding a specific type of concept/event
 POSITIONAL SCARCITY !!!
 crowdsourced relevance realization !!!
-
-Make accountability liquid
 
 the Aadhaar system in India is serving as the narrow waist of their national digital transformation
 https://en.wikipedia.org/wiki/Aadhaar
@@ -4652,15 +4644,11 @@ We need to shift from what are we against to what are we for
 
 It will simply be better and people would shift to it as word goes around
 
-what if we submitted algorithms long a few lines that express more complex things? the collective notebook with interactive code trying to prove stuff?
+what if we submitted algorithms along a few lines that express more complex things? the collective notebook with interactive code trying to prove stuff?
 
 we could all collectively have a conversation through the distributed aggregate computing of all individuals
 
 
-TODO: relisten to this episode
-Currents 034: Samo Burja on the Consilience Project
-https://www.youtube.com/watch?v=bHCg8bhtbqs
-talks about carbon credits, media, many good things and ideas I've had
 
 If there are no consequences for wall street playing the “short and distort” game with Tesla for a decade (including the hardest of times for them) - then we should be able to de-amplify topics and entities too. Todo: this point needs more thought
 
@@ -4702,8 +4690,6 @@ minimizing ignorance - we need to minimize the error in our models of reality
 
 what if we could have citation graphs and ranking for anyone on any topic - not just within the scientific realm?
 
-embracing complexity
-
 anonymity - ZK stuff and dating apps! DATING APPS!
 
 Imagine having your personal jamie to pull things up
@@ -4737,15 +4723,9 @@ Use a picture of a cockpit with thousands of buttons when talking about social m
 A new era of social computing
 “Social computing”
 
-We are effectively unconscious
-
-Egalitarianism, meritocracy and a market for ideas
-
 The ultimate currency is time and thus also attention
 
 Error correction scaled
-
-Transparency, accountability, truth and sunlight
 
 We can crowdsource “a guide to life”
 
@@ -4774,8 +4754,6 @@ with liquid democracy each person could be a high dimensional representation of 
 what if we sankey-diagramed every aspect and product of society - from carbon footprint to what transitive connections there are to low-ranking and sociopathic companies and even monetary influence
 
 Negative reputation: carbon footprint, money influence, previous scandals
-
-We can blur our egos together
 
 Bringing liquidity to ideas
 A market for any idea
@@ -5601,8 +5579,6 @@ negative reputation and scammer websites
 accountability
 Skin in the game
 
-27 май котка хранене
-
 Expertise is earned throughjis predictive capability under intense scrutiny
 
 reimagining wikipedia
@@ -5654,7 +5630,7 @@ Headjack is the most meta thing you could be doing - improving the capacity for 
 
 Feedback loop alignment
 
-What is the pyramids resembled the most stable and prosperous social structure - a bottom-up pyramid of delegation
+What if the pyramids resembled the most stable and prosperous social structure - a bottom-up pyramid of competence/responsibility/delegation
 
 Analogy between the anonymized stress and the zk anonimyty set for votes
 
@@ -5672,7 +5648,6 @@ Every edge is its own subreddit - any public choice and event has a q&a subreddi
 
 Have a chapter about memes
 
-Evolution is intelligence
 
 
 

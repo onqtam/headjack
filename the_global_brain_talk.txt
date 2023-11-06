@@ -16,6 +16,9 @@ only a few details have changed since that talk - further simplification and mak
 Suppose there was an architecture for identity, names, and content addressing that was global, decentralized & neutral (not owned by any corporation or organization), has practically unlimited scalability, has solved the UX problem of dealing with private and public keys (that crypto & blockchain struggle with) and goes beyond the host-centric (IP & DNS) web of today (hint: there is such an architecture). What could we build on top of it?
 
 
+- Everything crypto/blockchain related is abstracted away
+
+
 - blockchain stores only what's essential - everything else is off-chain
 - sovereignty of identity
 - can scale to tens of billions of identities (including anonymous ones)
@@ -43,6 +46,8 @@ Os/physical metwork/logical network addressing
 host-centric => data/identity-centric
 
 OSI-7-layers.png
+
+> "the past was all about networked computers; the future is all about networked data structures" - [@syntacrobat](https://twitter.com/syntacrobat/status/1693446789943160984)
 
 ██████ 
 
@@ -130,6 +135,9 @@ Concepts and events are singular and unique, opinions are subjective and multi-p
 
 - aggregation & structured data vs text-based communication & ephemerality
 
+social media posts are ephemeral - they're irrelevant beyond the first couple of days (get burried with time) - they're promoted by the recommendation algorithms only for a a small amount of time as there's a constant stream of new events
+
+
 - knowledge graphs & deduplicating all concepts/events/claims with a single representation
 
 instead of thousands of scattered duplicates across many disparate platforms and websites
@@ -163,7 +171,7 @@ https://debates.app/debates/how-old-is-the-universe.SC8x0d_SQqOdFdadhFcqhQ
 
 concentrating the discussion and arguments/contention to a single place, annotation and linking to media pieces is separate
 
-
+fact-checking billions of people doesn't scale. incentivizing the correct labeling/tagging of assertions and fact-checking assertions only once scales.
 
 ██████ The Oracle problem - fact databases
 
@@ -178,6 +186,8 @@ concentrating the discussion and arguments/contention to a single place, annotat
 +1 if no contestion, -3 if contested & escalated to a higher level with ruling against you
 
 ██████ Relevance Realization & visibility templates
+
+Relevance realization: given the near-infinite complexity of the world, how do we intelligibly ignore irrelevant information and zero in on that which is relevant to us?
 
 credit to John Vervaeke
 
@@ -212,6 +222,7 @@ we can "bribe" others to do some task that needs doing by offering them
 - higher voting weights
 - higher ranking in recommendation algos - visibility boost
 
+> "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
 
 
 
@@ -283,6 +294,11 @@ you_are_a_neuron_by_tomas_pueyo.png
 "Attention is the cursor of consciousness." - Jim Rutt
 
 
+
+who cares if a submarine imploded as compared to all of our greatest challenges - why does it get surfaced in the global conscience?
+
+
+
 ██████ social media, the Internet & consciousness
 
 - attention schema theory
@@ -307,6 +323,7 @@ building
 - credibility
 - accountability
 - legitimacy
+- prestige
 in public
 
 and getting more voting power
@@ -423,11 +440,19 @@ pictures side by side
 
 We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
 
+how do we optimize society?
+how do we make sure capital and human labor is allocated better?
+
+
+> "Extinction is the rule. Survival is the exception." - [Carl Sagan](https://www.goodreads.com/quotes/295592-extinction-is-the-rule-survival-is-the-exception)
+
+
 ██████ Current state & roadmap
 
-- ~2mb of disorganized notes - not presentable
+- this presentation is a tiny % of the whole thing
+- ~2mb of disorganized & chaotic notes - not presentable
 - ~2 more months of research & note taking
-- free online book available by Q2 or Q3 of 2024
+- free online book available by Q2 2024
 - assembling a team, fundraising & coding Q3 2024
 - not sure about the final name & domain
 - contact me for updates & participation
@@ -470,10 +495,14 @@ any parameter of a social media could be put to a vote
 
 we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
 
+Predictive processing
 
+More on predictions and structured data
 
+We need to make a new adaptive landscape that’s not tied to money and resources and yet people would compete in it
+No. Dont mention this
 
-
+OODA loop
 
 
 
