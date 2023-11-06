@@ -103,6 +103,8 @@ fact-checking billions of people doesn't scale. incentivizing the correct labeli
 
 Relevance realization: given the near-infinite complexity of the world, how do we intelligibly ignore irrelevant information and zero in on that which is relevant to us?
 
+> "The art of being wise is the art of knowing what to overlook." - [David Brooks](https://www.goodreads.com/quotes/7221905-the-art-of-being-wise-is-the-art-of-knowing)
+
 credit to John Vervaeke
 
 ranked lists - top10, top50
@@ -244,6 +246,17 @@ If you can provably and reliably predict the second and third-order effects of p
 
 > "Prediction, not narration, is the real test of our understanding of the world." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177687-prediction-not-narration-is-the-real-test-of-our-understanding)
 
+> "It is my great hope someday, to see science and decision makers rediscover what the ancients have always known. Namely that our highest currency is respect." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/557440-it-is-my-great-hope-someday-to-see-science-and)
+
+> "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
+
+> "What you do speaks so loudly that I cannot hear what you say." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear)
+
+> "Rhetoric is no substitute for reality." - [Thomas Sowell](https://www.goodreads.com/quotes/270138-rhetoric-is-no-substitute-for-reality)
+
+> "A clever person solves a problem. A wise person avoids it." - [Albert Einstein](https://www.goodreads.com/quotes/8241-a-clever-person-solves-a-problem-a-wise-person-avoids)
+
+
 ██████ Competing views
 
 We can give more weight to the opinions of those. And we can have different opinions
@@ -254,6 +267,12 @@ We can give more weight to the opinions of those. And we can have different opin
 Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available.
 
 > "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
+
+> "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
+
+> "One can acquire certainty only by amputating inquiry." - [Marvin Minsky](https://www.azquotes.com/quote/1405335)
+
+> "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
 Agency requires making models of the future with causal simulations
 minimizing surprise when predicting the world
@@ -338,17 +357,14 @@ the real change happened multiple generations after the invention of the printin
 
 > "Nation-states were never built for global action. They are obsolete to the problems we need to solve." - [The End of Nation-States, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-end-of-nation-states?s=w#:~:text=nation%2Dstates%20were%20never%20built%20for%20global%20action.%20They%20are%20obsolete%20to%20the%20problems%20we%20need%20to%20solve.)
 
-██████ The medium is the message
-
-> "We live in media, as fish live in water." - [Ted Nelson](https://www.azquotes.com/quote/1405368)
+██████ A few parting thoughts
 
 We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
 
 how do we optimize society?
 how do we make sure capital and human labor is allocated better?
 
-
-> "Extinction is the rule. Survival is the exception." - [Carl Sagan](https://www.goodreads.com/quotes/295592-extinction-is-the-rule-survival-is-the-exception)
+> "As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them." - [Aaron Swartz](https://www.azquotes.com/quote/873585)
 
 
 ██████ Current state & roadmap
@@ -360,8 +376,6 @@ how do we make sure capital and human labor is allocated better?
 - assembling a team, fundraising & coding Q3 2024
 - not sure about the final name & domain
 - contact me for updates & participation
-
-██████ Q&A
 
 
 
@@ -410,9 +424,6 @@ OODA loop
 
 layering incentives
 
-
-Spaghetti vs connectome
-pictures side by side
 
 
 
