@@ -45,6 +45,8 @@ suppose a story is written by you - wouldn't you want to fact-check it when it i
 
 Concepts and events are singular and unique, opinions are subjective and multi-perspectival
 
+define different criteria for how to calculate any aggregate (vote/score)
+
 - a lot less text would need to be moderated with structured data
 
 - aggregation & structured data vs text-based communication & ephemerality
@@ -75,13 +77,11 @@ how do I express what should be taught in school - like how money works? Or diet
 
 recursive self-reflection requires that any concept/entity/event has a single entry that can be referenced, and from then branch towards whatever else needs to be queried. unifying all concepts/entities/events under unique entries is a foundation for optimal recursive thought
 
-██████ Argument maps & reinventing debate
+██████ Separating claims from truthfulness
 
-> "I believe this topic of Internet disagreement is the single most important problem of humankind. Why? Because exchanging ideas is how we make decisions in society, and how we make decisions drives everything else. If we can do that efficiently, humankind will solve every other problem more efficiently." - [Debate Is Broken. How to Improve It, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken#:~:text=I%20believe%20this,problem%20more%20efficiently.)
+debate
 
-https://debates.app/debates/how-old-is-the-universe.SC8x0d_SQqOdFdadhFcqhQ
-
-██████ Separating annotation from debate
+annotation
 
 concentrating the discussion and arguments/contention to a single place, annotation and linking to media pieces is separate
 
@@ -115,6 +115,7 @@ ranked lists - top10, top50
 choice ranking - is (collective) relevance realization
 
 Wisdom is about decision pruning
+Combinatorial explosions - how do we deal with that?
 
 shared intentionality !!!
 
@@ -209,20 +210,6 @@ who cares if a submarine imploded as compared to all of our greatest challenges 
 
 
 
-██████ social media, the Internet & consciousness
-
-- attention schema theory
-
-- integrated information theory
-
-
-Why hasn't humanity ranked the top 100 challenges? Why haven't we mapped the causality and interconnectedness & feedback of all our issues? Why isn't everything directed towards solving them? Why isn't there any coherence & shared intentionality?
-
-What is our civilizational objective function?
-
-identify perverse incentives, multipolar traps, coordination failures, and destructive competition
-
-talk about apes & shared intentionality
 
 
 
@@ -339,29 +326,30 @@ TODO: ontology... big problem
 
 new kinds of signals - bias, clickbaity-ness, not presenting the full picture, loaded language, missing citations
 
-define different criteria for how to calculate any aggregate (vote/score)
-
 self-organization
 
-connectome slide?
+
 
 any parameter of a social media could be put to a vote
-
 we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
+
+
 
 Predictive processing
 Predictive processing needs precision weighting - prioritizing one set of signals over another
 
 More on predictions and structured data
 
+
+
+
+
+
 We need to make a new adaptive landscape that’s not tied to money and resources and yet people would compete in it
 No. Dont mention this
 
-OODA loop
-
 layering incentives
 
-Combinatorial explosions - how do we deal with that?
 
 The design space for social media is vast - and is far from exhausted by tiktok, facebook and instagram
 
@@ -369,7 +357,7 @@ The design space for social media is vast - and is far from exhausted by tiktok,
 
 
 
-Democracy in its current form was conceived when people used horses to send paper letters between cities.
+Democracy in its current form was conceived when we sent paper letters by horse between cities.
 
 We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
 
