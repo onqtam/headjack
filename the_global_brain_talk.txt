@@ -350,6 +350,7 @@ any parameter of a social media could be put to a vote
 we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
 
 Predictive processing
+Predictive processing needs precision weighting - prioritizing one set of signals over another
 
 More on predictions and structured data
 
@@ -360,7 +361,9 @@ OODA loop
 
 layering incentives
 
+Combinatorial explosions - how do we deal with that?
 
+The design space for social media is vast - and is far from exhausted by tiktok, facebook and instagram
 
 
 
