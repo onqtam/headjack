@@ -19,24 +19,6 @@
 
 
 
-██████ Separating claims from truthfulness
-
-debate
-
-annotation
-
-concentrating the discussion and arguments/contention to a single place, annotation and linking to media pieces is separate
-
-fact-checking billions of people doesn't scale. incentivizing the correct labeling/tagging of assertions and fact-checking assertions only once scales.
-
-██████ The Oracle problem - fact databases
-
-- non-existent - because nothing here is transactional
-
-- not transactional - we can branch & fork our knowledge bases
-- 
-- override a "fact" database only for some facts
-
 ██████ Relevance Realization & visibility templates
 
 Relevance realization: given the near-infinite complexity of the world, how do we intelligibly ignore irrelevant information and zero in on that which is relevant to us?
