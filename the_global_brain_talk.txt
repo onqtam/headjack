@@ -1,33 +1,7 @@
 
 
 
-██████ Some cool things we could do
-
-We're in an asymmetric relationship with today's platforms - they've siloed our data and we're their captives.
-We should be offended by the lack of choice & transparency
-
-
-
-- Being able to see all the public activity of anyone no matter from which application and what type
-- Multi-dimensional & fine-grained subscriptions - include/exclude based on user, application, content type, tag, keyword
-- Universal bookmarks & playlists - across all apps ⇒ knowledge management tools on top of them
-- Tunable notification & DM settings
-- Forking communities, moderation filters & UIs
-
-
-We've been given a single one-size-fits-all algorithmic feed for our information diet that's solely optimizing for engagement & time WELL spent with their ad revenue as the most important metric.
-
-- choose your recommendation algorithm, compose multiple different feeds from different subscriptions/sources
-algorithmic feeds that can be composed & configured by users
-
-we can define the layout of panels & widgets in the UI - why can't I remove the reels from Instagram? Because they want me to click on those...
-
-
 ██████ giant global graph
-
-knowledge graphs, the semantic web
-focus from pages to data/documents/events that are linked to (created by) identities
-
 
 suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?
 
@@ -38,6 +12,10 @@ suppose a story is written by you - wouldn't you want to fact-check it when it i
 - name change suggestions - countering clickbait - in stackexchange even the question title can be edited by others!
 - forks of something
 - disabled youtube comments - but comments on reddit for the youtube link
+
+██████ knowledge graphs & the semantic web
+
+- knowledge graphs & deduplicating all concepts/events/claims with a single representation
 
 ██████ structured data, aggregation & integration
 
@@ -54,13 +32,11 @@ define different criteria for how to calculate any aggregate (vote/score)
 social media posts are ephemeral - they're irrelevant beyond the first couple of days (get burried with time) - they're promoted by the recommendation algorithms only for a a small amount of time as there's a constant stream of new events
 
 
-- knowledge graphs & deduplicating all concepts/events/claims with a single representation
-
 instead of thousands of scattered duplicates across many disparate platforms and websites
 
-we use symbols and categories in our minds and there's a single representation for any concept/entity/event - we should do the same for the global brain
-
 ██████ unique representation & deduplication for any event/concept/entity/question
+
+we use symbols and categories in our minds and there's a single representation for any concept/entity/event - we should do the same for the global brain
 
 - Wikipedia - no more than 1 entry for anything
 - StackExchange - most duplicates are resolved - we can do even better with incentives
@@ -334,6 +310,11 @@ any parameter of a social media could be put to a vote
 we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
 
 
+real time dashboards on global KPIs
+
+ontological engineers
+
+we can crowdsource what someone has said even if they don't have an account. And later when they make an account we can simply link the 2 entities/identifiers and have everything integrated.
 
 Predictive processing
 Predictive processing needs precision weighting - prioritizing one set of signals over another
