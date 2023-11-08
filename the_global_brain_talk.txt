@@ -1,57 +1,23 @@
 
 
 
-██████ giant global graph
-
-suppose a story is written by you - wouldn't you want to fact-check it when it is concerning you?
-
-- different templates of what should be displayed next to something
-
-- rebuttals
-- disabled comment sections - why?
-- name change suggestions - countering clickbait - in stackexchange even the question title can be edited by others!
-- forks of something
-- disabled youtube comments - but comments on reddit for the youtube link
 
 ██████ knowledge graphs & the semantic web
 
 - knowledge graphs & deduplicating all concepts/events/claims with a single representation
 
-██████ structured data, aggregation & integration
-
-- moving away from text-based communication and towards structured data (which would enable much easier processing and aggregation)
-
-Concepts and events are singular and unique, opinions are subjective and multi-perspectival
-
-define different criteria for how to calculate any aggregate (vote/score)
-
-- a lot less text would need to be moderated with structured data
-
-- aggregation & structured data vs text-based communication & ephemerality
-
-social media posts are ephemeral - they're irrelevant beyond the first couple of days (get burried with time) - they're promoted by the recommendation algorithms only for a a small amount of time as there's a constant stream of new events
 
 
-instead of thousands of scattered duplicates across many disparate platforms and websites
-
-██████ unique representation & deduplication for any event/concept/entity/question
-
-we use symbols and categories in our minds and there's a single representation for any concept/entity/event - we should do the same for the global brain
-
-- Wikipedia - no more than 1 entry for anything
-- StackExchange - most duplicates are resolved - we can do even better with incentives
-
-with or without propositional logic
-
-"Perfect is the enemy of good." - Voltaire
-https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good
-
-we all want to express ourselves
-we all have opinions on different things with differing competences
-how do I express what should be taught in school - like how money works? Or dieting and avoiding sugar?
 
 
-recursive self-reflection requires that any concept/entity/event has a single entry that can be referenced, and from then branch towards whatever else needs to be queried. unifying all concepts/entities/events under unique entries is a foundation for optimal recursive thought
+
+
+
+
+
+
+
+
 
 ██████ Separating claims from truthfulness
 
@@ -71,17 +37,17 @@ fact-checking billions of people doesn't scale. incentivizing the correct labeli
 - 
 - override a "fact" database only for some facts
 
-██████ Annotation/tagging & incentives
-
-+1 if no contestion, -3 if contested & escalated to a higher level with ruling against you
-
 ██████ Relevance Realization & visibility templates
 
 Relevance realization: given the near-infinite complexity of the world, how do we intelligibly ignore irrelevant information and zero in on that which is relevant to us?
 
 > "The art of being wise is the art of knowing what to overlook." - [David Brooks](https://www.goodreads.com/quotes/7221905-the-art-of-being-wise-is-the-art-of-knowing)
 
+- different templates of what should be displayed next to something
+
 credit to John Vervaeke
+
+how do I express what should be taught in school - like how money works? Or dieting and avoiding sugar?
 
 ranked lists - top10, top50
 - values? meaning?
