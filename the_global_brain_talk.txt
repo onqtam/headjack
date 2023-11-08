@@ -2,50 +2,10 @@
 
 
 
-██████ knowledge graphs & the semantic web
-
-- knowledge graphs & deduplicating all concepts/events/claims with a single representation
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-██████ Relevance Realization & visibility templates
-
-Relevance realization: given the near-infinite complexity of the world, how do we intelligibly ignore irrelevant information and zero in on that which is relevant to us?
-
-> "The art of being wise is the art of knowing what to overlook." - [David Brooks](https://www.goodreads.com/quotes/7221905-the-art-of-being-wise-is-the-art-of-knowing)
-
-- different templates of what should be displayed next to something
-
-credit to John Vervaeke
-
-how do I express what should be taught in school - like how money works? Or dieting and avoiding sugar?
-
-ranked lists - top10, top50
-- values? meaning?
-- what everyone else should watch/read?
-- on any question/concept/event - what are the top10 most important resources?
-
-choice ranking - is (collective) relevance realization
-
-Wisdom is about decision pruning
-Combinatorial explosions - how do we deal with that?
-
-shared intentionality !!!
-
-- remember the giant global graph where anything could refer to anything and all that's queryable?
-    - visibility templates - what types of data should be shown
-        - competing templates - depending on who you trust
 
 ██████ status seeking monkeys
 
