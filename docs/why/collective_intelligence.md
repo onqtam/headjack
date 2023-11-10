@@ -187,6 +187,10 @@ empowerment - voter apathy is best explained by the disbelief that their vote wo
 Citizens could also rank their proxies by preference, meaning that if their primary proxy does not vote, their vote could be cast by their second-choice proxy.
 https://en.wikipedia.org/wiki/Ranked_voting
 
+https://www.equal.vote/
+https://www.starvoting.org/
+https://en.wikipedia.org/wiki/STAR_voting
+
 
 The Key Attributes of Liquid Democracy:
 https://medium.com/@memetic007/liquid-democracy-9cf7a4cb7f#:~:text=The%20Key%20Attributes%20of%20Liquid%20Democracy%3A
