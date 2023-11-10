@@ -4692,6 +4692,8 @@ https://www.brainyquote.com/authors/bret-weinstein-quotes
 
 > "Twitter reveals a defect in most people’s mode of thinking: if you make an observation about a complex topic—a piece of the puzzle—people will zoom in and see if it leans toward one conclusion or the other, then convict you of holding that position and being vague in order to hide it. This isn’t how proper analytical thinking works." - [Bret Weinstein](https://twitter.com/BretWeinstein/status/1721664622091239549)
 
+> "Markets are excellent at figuring out how to do things and they are terrible at deciding what to do, and we have put them in charge of both jobs... Science is too delicate to allow market forces to govern it... we have turned scientists into salesmen." - [Bret Weinstein](https://youtu.be/pRCzZp1J0v0?t=11100)
+
 
 
 some people think that with LLMs we've reached the pinnacle of communication with machines with something as natural as text but that couldn't be further from the truth - we need structured data more than ever
@@ -5565,6 +5567,8 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 
 
 
+
+> "It shouldn’t be tech companies per se getting into fact checking. It should be open source technology. Free, universally available code and data for epistemology. Take a piece of text, parse it, extract assertions, compare to explicitly specified knowledge graphs and oracles." - [Balaji Srinivasan](https://twitter.com/balajis/status/1266180931435417600)
 
 
 
