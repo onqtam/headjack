@@ -208,6 +208,15 @@ TODO: ontology... big problem
 
 
 
+
+Login with SSO/Google
+
+
+
+LLMs as helpers for structured data
+
+
+
 new kinds of signals - bias, clickbaity-ness, not presenting the full picture, loaded language, missing citations
 
 self-organization
