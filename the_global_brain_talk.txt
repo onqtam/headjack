@@ -5,50 +5,57 @@
 
 
 
-
-
-
-██████ collective action problems:
-
-we can "bribe" organisations as well if they do what we want them to
-- open sourcing your code?
-- opening up your pantents so we can all benefit from more collaboration?
-- trying harder to account for externalities - although it would cost you more?
-    - your advertising gets boosted within the ecosystem, or could even be suggested by default without paying anything
-    - you get a higher score
-    - your employees & leaders get a higher score
-
-- engaging in planned obsolescence? ==> Penalty.
-
-- Suppose a company makes tens of billions of earnings per year - why don't they direct 0.1-0.2% of their earnings towards fixing their Cobalt supply chains so that there isn't human slavery in the Congo?
-- we need to be able to shame companies for their exploitative practices - whatever those may be (psychological, monetary, etc.)
-
-
-
-
-██████ Automated/implicit influence
-
-- without you having to explicitly read what somebody has said?
-
-
 ██████ attention & availability cascades
+
+Attention is all you have
 
 
 "Attention is the cursor of consciousness." - Jim Rutt
 
 
 
-who cares if a submarine imploded as compared to all of our greatest challenges - why does it get surfaced in the global conscience?
+who cares if a submarine imploded as compared to all of our greatest challenges - why does it get surfaced in the global conscience instead of what's more important? How do we regulate that?
+
+
+"Attention is the only hard currency in the virtual world." - [Alexander Bard](https://recollectingphilosophy.wordpress.com/2013/08/09/internet-revolution-attentionalism-and-slow-thinking-with-alexander-bard-and-pierre-bourdieu/#:~:text=The%20decisive%20factor,rather%20than%20capitalist.)
+
+
+
+██████ The design space for social media
+
+The design space for social media 
+
+it is vast - far from exhausted by Tiktok, Facebook & Instagram
 
 
 
 
 
-
-██████ Competing views
-
+competing views
 We can give more weight to the opinions of those. And we can have different opinions
 
+We need to make a new adaptive landscape that’s not tied to money and resources and yet people would compete in it
+No. Dont mention this
+
+
+layering incentives
+new kinds of signals - bias, clickbaity-ness, not presenting the full picture, loaded language, missing citations
+any parameter of a social media could be put to a vote
+we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
+
+
+
+Automated/implicit influence
+- without you having to explicitly read what somebody has said?
+
+
+We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
+
+
+How do we optimize society?
+How do we allocate capital and human labor better?
+How do we get everyone to participate?
+How do we create a true uncorruptible meritocracy?
 
 ██████ 
 
@@ -98,45 +105,12 @@ Login with SSO/Google
 
 
 
-
-
-
-new kinds of signals - bias, clickbaity-ness, not presenting the full picture, loaded language, missing citations
-
-
-
-
-
-any parameter of a social media could be put to a vote
-we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
-
-
 More on predictions and structured data
 
 
 
 
-What if web3 is not "the Internet of value" as in transactional value, but the internet of values?
-
-
-
-
-
-We need to make a new adaptive landscape that’s not tied to money and resources and yet people would compete in it
-No. Dont mention this
-
-layering incentives
-
-The design space for social media is vast - and is far from exhausted by tiktok, facebook and instagram
-
-
-
-
-
-We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
-
-how do we optimize society?
-how do we make sure capital and human labor is allocated better?
+> "We can't have the power of gods without the wisdom, love and prudence of gods." - [Daniel Schmachtenberger](https://twitter.com/danielschmach)
 
 
 
@@ -146,11 +120,6 @@ how do we make sure capital and human labor is allocated better?
 
 
 
-
-
-
-
-> "It is my great hope someday, to see science and decision makers rediscover what the ancients have always known. Namely that our highest currency is respect." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/557440-it-is-my-great-hope-someday-to-see-science-and)
 
 
 
