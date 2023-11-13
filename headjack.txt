@@ -5861,8 +5861,6 @@ We can compress any pocket of the internet with different content values and wei
 
 
 
-Availability cascades in attention
-
 what do we define define as progress?
 
 negative reputation and scammer websites
@@ -8038,18 +8036,6 @@ ACCESS? ownership/property rights
 Cybernetics is a transdisciplinary approach for exploring regulatory systems — their structures, constraints, and possibilities.
 
 
-
-
-- error correction & bayesian epistemology (epistemology)
-- transparency, openness & provenance (transparency)
-- relevance realization & collective intelligence (ranking)
-- availability cascades - "The Medium is the Message" (attention)
-- self-organization, emergence, subsidiarity & persuasion (multi-agent systems)
-- incentives, alignment, reputation & consequence capture (incentives)
-- complexity, (eco)systems, feedback & Universal Darwinism (systems thinking)
-- evolution's arrow toward greater scales of cooperation (teleological argument)
-- shared intentionality, coherence & defeating entropy (coherence)
-- conscious evolution, self-transcendence & integrity (self-transcendence)
 
 
 ██████ ideas about page & book structure (& titles!)
