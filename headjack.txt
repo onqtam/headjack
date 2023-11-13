@@ -1740,8 +1740,7 @@ What is our dopamine economy?
 We need to make open source the norm rather than the exception - and push it further than mere code
 https://en.wikipedia.org/wiki/Open-source_governance
 
-> "Open politics is not a top–down theory but a set of best practices from [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism), [participatory democracy](https://en.wikipedia.org/wiki/Participatory_democracy) and [deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy), informed by [e-democracy](https://en.wikipedia.org/wiki/E-democracy) and netroots experiments, applying argumentation framework for issue-based argument... Some variants of it draw on the theory of [scientific method](https://en.wikipedia.org/wiki/Scientific_method) and [market methods](https://en.wikipedia.org/wiki/Price_mechanism), including [prediction markets](https://en.wikipedia.org/wiki/Prediction_market) and [anticipatory democracy](https://en.wikipedia.org/wiki/Anticipatory_democracy)." - [Open-source governance
-, Wikipedia](https://en.wikipedia.org/wiki/Open-source_governance#:~:text=open%20politics%20is,anticipatory%20democracy.)
+> "Open politics is not a top–down theory but a set of best practices from [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism), [participatory democracy](https://en.wikipedia.org/wiki/Participatory_democracy) and [deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy), informed by [e-democracy](https://en.wikipedia.org/wiki/E-democracy) and netroots experiments, applying argumentation framework for issue-based argument... Some variants of it draw on the theory of [scientific method](https://en.wikipedia.org/wiki/Scientific_method) and [market methods](https://en.wikipedia.org/wiki/Price_mechanism), including [prediction markets](https://en.wikipedia.org/wiki/Prediction_market) and [anticipatory democracy](https://en.wikipedia.org/wiki/Anticipatory_democracy)." - [Open-source governance, Wikipedia](https://en.wikipedia.org/wiki/Open-source_governance#:~:text=open%20politics%20is,anticipatory%20democracy.)
 
 > "Open government is the governing doctrine which maintains that citizens have the right to access the documents and proceedings of the government to allow for effective public oversight. In its broadest construction, it opposes [reason of state](https://en.wikipedia.org/wiki/National_interest) and other considerations which have tended to legitimize extensive state [secrecy](https://en.wikipedia.org/wiki/Secrecy)." - [Open government, Wikipedia](https://en.wikipedia.org/wiki/Open_government#:~:text=Open%20government%20is%20the,extensive%20state%20secrecy.)
 
@@ -2065,7 +2064,9 @@ https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-16864190
 
 > "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." - [Steve Jobs](https://www.goodreads.com/quotes/924-here-s-to-the-crazy-ones-the-misfits-the-rebels-the)
 
+> "People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things." - [Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)
 
+> "Focusing is about saying No." - [Steve Jobs](https://www.goodreads.com/quotes/455912-focusing-is-about-saying-no)
 
 
 
@@ -5519,7 +5520,7 @@ https://www.youtube.com/watch?v=B1sr9x263LM
 We need to make excessive consumption and showing off uncool
 
 
-> "It takes 20 years to build a reputation and five minuted to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
+> "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
 
 > "The pace of scientific progress may be hindered by the tendency of our academic institutions to reward being popular, rather than being right." - [Robin Hanson](https://twitter.com/robinhanson)
 
