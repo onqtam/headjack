@@ -54,29 +54,18 @@ we can "bribe" organisations as well if they do what we want them to
 
 
 
-██████ computed history & identity
-
-- we stumble upon something that sounds OK by someone we've never heard of and we might point to them, when in fact they could have a horrible reputation.
-
-- instantly query overlap of beliefs & values, also track record against a "fact" database of your choice
-
-
-██████ reputation - PageRank for identities (not web pages), alignment, incentive design
-
-consequence capture
-
-The elephant in the room is human alignment
-
-> "Have I done something for the common good? Then I share in the benefits." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1688958269287755776)
-
-meme_financial_speculation.jpg
-
-
 
 ██████ Appreciation points/currencies
 
+alignment, incentive design
+
+The elephant in the room is human alignment
+consequence capture
+
 - non-transferrable/transactional - simply for accumulation
 - we can invent and create infinite new scoring systems and let people "vote" by giving their points to others
+
+> "Have I done something for the common good? Then I share in the benefits." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1688958269287755776)
 
 ██████ Automated/implicit influence
 
@@ -97,56 +86,10 @@ who cares if a submarine imploded as compared to all of our greatest challenges 
 
 
 
-██████ futarchy, prediction markets & epistocracy
-
-building
-- reputation
-- credibility
-- accountability
-- legitimacy
-- prestige
-in public
-
-and getting more voting power
-
-If you can provably and reliably predict the second and third-order effects of policies and have superior modeling of the world - you should be in charge.
-
-> "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
-
-> "It takes 20 years to build a reputation and five minuted to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
-
-> "Prediction, not narration, is the real test of our understanding of the world." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177687-prediction-not-narration-is-the-real-test-of-our-understanding)
-
-> "It is my great hope someday, to see science and decision makers rediscover what the ancients have always known. Namely that our highest currency is respect." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/557440-it-is-my-great-hope-someday-to-see-science-and)
-
-> "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
-
-> "What you do speaks so loudly that I cannot hear what you say." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear)
-
-> "Rhetoric is no substitute for reality." - [Thomas Sowell](https://www.goodreads.com/quotes/270138-rhetoric-is-no-substitute-for-reality)
-
-> "A clever person solves a problem. A wise person avoids it." - [Albert Einstein](https://www.goodreads.com/quotes/8241-a-clever-person-solves-a-problem-a-wise-person-avoids)
-
-
 ██████ Competing views
 
 We can give more weight to the opinions of those. And we can have different opinions
 
-
-██████ Bayesian inference, agency, causality & modelling
-
-Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a hypothesis as more evidence or information becomes available.
-
-> "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
-
-> "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
-
-> "One can acquire certainty only by amputating inquiry." - [Marvin Minsky](https://www.azquotes.com/quote/1405335)
-
-> "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
-
-Agency requires making models of the future with causal simulations
-minimizing surprise when predicting the world
 
 ██████ 
 
@@ -204,7 +147,15 @@ Not A(G)I => collective intelligence
 How do I easily query "has X ever expressed an opinion on this topic, an if so - what?"
 Example: Wikipedia page about Utilitarianism - it has a criticism section. Why am I not able to query "show me all criticism of Utilitarianism from people I follow"?
 
+Being able to query everything that relates to something and filter that - Integration
+
 TODO: ontology... big problem
+ontological engineers
+
+LLMs as helpers for structured data
+
+we can crowdsource what someone has said even if they don't have an account. And later when they make an account we can simply link the 2 entities/identifiers and have everything integrated.
+
 
 
 
@@ -213,7 +164,6 @@ Login with SSO/Google
 
 
 
-LLMs as helpers for structured data
 
 
 
@@ -227,17 +177,12 @@ any parameter of a social media could be put to a vote
 we can put actual psychology professors in charge of the dials of recommendation algorithms and have them tune them in public - transparently
 
 
-real time dashboards on global KPIs
-
-ontological engineers
-
-we can crowdsource what someone has said even if they don't have an account. And later when they make an account we can simply link the 2 entities/identifiers and have everything integrated.
-
-Predictive processing
-Predictive processing needs precision weighting - prioritizing one set of signals over another
-
 More on predictions and structured data
 
+
+
+
+What if web3 is not "the Internet of value" as in transactional value, but the internet of values?
 
 
 
@@ -248,14 +193,11 @@ No. Dont mention this
 
 layering incentives
 
-
 The design space for social media is vast - and is far from exhausted by tiktok, facebook and instagram
 
 
 
 
-
-Democracy in its current form was conceived when we sent paper letters by horse between cities.
 
 We can greate a global participatory social operating system with identity & incentive design as the foundation ang give rise to a true meritocracy.
 
@@ -274,6 +216,11 @@ how do we make sure capital and human labor is allocated better?
 
 
 
+> "It is my great hope someday, to see science and decision makers rediscover what the ancients have always known. Namely that our highest currency is respect." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/557440-it-is-my-great-hope-someday-to-see-science-and)
+
+> "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
+
+> "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
 
 
 
