@@ -1038,6 +1038,10 @@ Anything you’d want to express - you’d be able to (in a way that matters) an
 We must eradicate media manipulation
 
 This is the logical addressing layer on top of the physical nature/layer of the internet - aka location in the real world (IP)
+addressing:
+1) OS => 2) physical network => 3) data network 
+2) host-centric (IP & DNS) => 3) identity-centric
+
 
 Anybody should be able to explore the global opinion of what is meaningful in life - give filtration criteria - a PoV - and get their perspective
 
