@@ -2,6 +2,18 @@
 
 
 
+
+
+
+
+
+
+
+
+> "Technological civilization will not rebound after it collapses because we have used up most of the easily-accessible fossil fuels and mineral resources that would be needed to re-launch industrial civilization." - [John E. Stewart](https://johnstewart1.substack.com/p/why-there-must-be-a-viable-strategy#:~:text=technological%20civilization%20will%20not%20rebound%20after%20it%20collapses%20because%20we%20have%20used%20up%20most%20of%20the%20easily%2Daccessible%20fossil%20fuels%20and%20mineral%20resources%20that%20would%20be%20needed%20to%20re%2Dlaunch%20industrial%20civilization.)
+
+
+
 "do not go gentle into that good night" - quote - right next to beating entropy
 
 
@@ -100,6 +112,15 @@ https://en.wikipedia.org/wiki/Propaganda_techniques
 
 
 
+on education - Zak Stein
+https://lecticalive.org/about/discotest#gsc.tab=0
+https://lecticalive.org/about/vcol#gsc.tab=0
+elon musk kids - synthesis
+https://www.synthesis.com/
+https://www.astranova.org/
+https://www.astranova.org/xyz/about
+
+
 > "The Islamic Republic of Iran was today appointed Chair of the U.N. Human Rights Council Social Forum. This year's theme is technology and promotion of human rights; Iran just hanged Yousef Mehrad and Sadrollah Fazeli Zare for using social media to criticize religion." - [Hillel Neuer](https://twitter.com/HillelNeuer/status/1656276696117460994)
 
 
@@ -128,6 +149,8 @@ https://en.wikipedia.org/wiki/Propaganda_techniques
 > "The decisive factor governing where in the hierarchy an individual ends up is [—] his or her attentionality: their access to and capacity to absorb, sort, overview, generate the necessary attention for, and share valuable information. [—] Attention is the only hard currency in the virtual world. The strategy and logic of the netocracy are therefore attentionalist rather than capitalist." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://recollectingphilosophy.wordpress.com/2013/08/09/internet-revolution-attentionalism-and-slow-thinking-with-alexander-bard-and-pierre-bourdieu/#:~:text=The%20decisive%20factor,rather%20than%20capitalist.)
 
 > "Anyone trying to resist developments and persist with political agitation in the old way would not survive in the society ruled by the netocracy. He or she would look like a despicable information-tyrant. The new conditions of the informational media landscape mean that the plurarchic public is turning its back on the old political stage." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://recollectingphilosophy.wordpress.com/2013/08/09/internet-revolution-attentionalism-and-slow-thinking-with-alexander-bard-and-pierre-bourdieu/#:~:text=Anyone%20trying%20to,old%20political%20stage.)
+
+> "How do we gather attention while in alignment with our deepest values and highest purpose? And how do we transform that attention into intentional action in service of each other and the world?" - [Daniel Thorson](https://thewanderingon.wordpress.com/2013/12/11/alexander-bard-and-attentionalism/#:~:text=How%20do%20we%20gather%20attention%20while%20in%20alignment%20with%20our%20deepest%20values%20and%20highest%20purpose%3F%20And%20how%20do%20we%20transform%20that%20attention%20into%20intentional%20action%20in%20service%20of%20each%20other%20and%20the%20world%3F)
 
 > "Statistics which purport to represent public opinion are actually the tools used by the media to manufacture opinion." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://www.goodreads.com/quotes/3236384-so-instead-we-are-supplied-with-a-constant-stream-of#:~:text=Statistics%20which%20purport%20to%20represent%20public%20opinion%20are%20actually%20the%20tools%20used%20by%20the%20media%20to%20manufacture%20opinion.)
 
@@ -999,6 +1022,8 @@ what if people could score the open source work of others in terms of how hard i
 
 the potential of liquid democracy is way beyond what Google used it for internally - voting for what kinds of snacks to have in the cafeteria and be dumbfounded on the low participation - well duuh - this is the most inconsequential thing ever
 
+what if supermarkets put the closest what we need most often - and put candy and everything else further?
+Google - why do they hide the candy and put the healthy stuff more easily accessible & visible?
 
 
 Simplicity as a design goal - the sculpture that is refining itself from fat to thin
@@ -3510,6 +3535,9 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 > "Give society what it wants but doesn't know how to get - at scale." - [Naval Ravikant](https://twitter.com/NavalismHQ/status/1711659079230214615)
 
 
+> "If you eat, invest, and think according to what the ‘news’ advocates, you’ll end nutritionally, financially, and morally bankrupt." - [Naval Ravikant](https://twitter.com/navalbot/status/1422648752691683331)
+HOW DO WE FIX THIS?
+
 
 
 > "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
@@ -4631,6 +4659,8 @@ https://www.edge.org/response-detail/27098
 
 > "One of the biggest surprises of my adult life is how unethical reporters are. In movies they're always the good guys." - [Paul Graham](https://twitter.com/paulg/status/1461633512344326146)
 
+> "I just moused over someone's name in GMail to see how many followers he had." - [Paul Graham](https://twitter.com/paulg/status/1726942891426410950)
+^^ fragmented identity
 
 
 > "Never argue with a man who buys ink by the barrel." - [Roger Branigin](https://quoteinvestigator.com/2018/04/24/ink/)
