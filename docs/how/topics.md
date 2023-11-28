@@ -10,6 +10,8 @@ draft: true
     <img src="/img/meme_girls_gossiping_high_score.jpg"/>
 </div>
 
+<img src="/img/meme_god_is_the_connectome.jpg"/>
+
 <!-- He has high cooperation,
 contribution, accountability,
 competency & altruism score
