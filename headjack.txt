@@ -17,24 +17,43 @@
 
 
 
-"do not go gentle into that good night" - quote - right next to beating entropy
+> "do not go gentle into that good night" - quote - right next to beating entropy
+
+
+> "Happiness only real when shared." - [Christopher McCandless AKA Alexander Supertramp](https://www.goodreads.com/quotes/184807-happiness-only-real-when-shared)
 
 
 
 
-> "If everybody here plays generous Tit-for-tat, and I play always cooperate, I'm a neutral mutant, I have no disadvantage. Random drift can lead to the takeover of the neutral mutant. Or, in other words, if birds go to an island where there are no predators, they lose their ability to fly. A biological trait, to be evolutionary stable, must be under selection. The retaliation, sometimes retaliation against defection goes out if nobody's trying to defect. So you've got to always cooperate by random drift. But if we'd always cooperate, now we can guess what happens next: we invite Always defect. You have oscillations here, you have a mathematical model of human history, of economic cycles, of ups and downs.
+> "If everybody here plays generous [Tit-for-tat](https://en.wikipedia.org/wiki/Tit_for_tat), and I play always cooperate, I'm a neutral mutant, I have no disadvantage. Random drift can lead to the takeover of the neutral mutant. Or, in other words, if birds go to an island where there are no predators, they lose their ability to fly. A biological trait, to be evolutionary stable, must be under selection. The retaliation, sometimes retaliation against defection goes out if nobody's trying to defect. So you've got to always cooperate by random drift. But if we'd always cooperate, now we can guess what happens next: we invite Always defect. You have oscillations here, you have a mathematical model of human history, of economic cycles, of ups and downs.
 >
 > There is one thing that I have learned in my studies of cooperation over the last 20 years: there is no equilibrium. There is never a stable equilibrium. Cooperation is always being destroyed and has to be rebuilt. How much time you spend on average in a cooperative state depends on how quickly you can rebuild it. The most important aspect is really how quickly you can get away from the Always defect again." - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak](https://www.edge.org/conversation/martin_nowak-the-evolution-of-cooperation-edge-master-class-2011#:~:text=If%20everybody%20here,Always%20defect%20again.)
 
 > "Indirect reciprocity. I help you and that gives me the reputation of a helpful person, and then others help me. So if I don't help you my reputation decreases, if I do help you my reputation increases.
 >
-> We know how this works from the way evaluations work on E-Bay.  For example, you make a deal, you get a good evaluation, your value goes up. We have also played experimental games where people can purchase reputation, they can trade reputation if they have good reputation, so we can actually determine the price of a good reputation in experimental situations. This indirect reciprocity relies on gossip; some people might have an interaction and others observe it, and others talk about it. We are obsessed with gossip.  We are obsessed with talking about others and how it would be to interact with them...
+> We know how this works from the way evaluations work on E-Bay. For example, you make a deal, you get a good evaluation, your value goes up. We have also played experimental games where people can purchase reputation, they can trade reputation if they have good reputation, so we can actually determine the price of a good reputation in experimental situations. This indirect reciprocity relies on gossip; some people might have an interaction and others observe it, and others talk about it. We are obsessed with gossip. We are obsessed with talking about others and how it would be to interact with them...
 >
-> What is very important for efficient indirect reciprocity is language.  Indirect reciprocity leads to the evolution of social intelligence and human language.  In order to evaluate the situation, you have to understand who does what to whom and why.  And we have to have a way to talk about what happened, to gain experience from others.
+> What is very important for efficient indirect reciprocity is language. Indirect reciprocity leads to the evolution of social intelligence and human language. In order to evaluate the situation, you have to understand who does what to whom and why. And we have to have a way to talk about what happened, to gain experience from others.
 >
 > As my friend David Haig at Harvard put it very nicely, "For direct reciprocity you need a face; for Indirect reciprocity you need a name." And I find this beautiful because there is a lot in a face. A lot can be read from facial features. A big part of our brain is there to recognize faces, so we can recognize with whom the interaction was, to play simultaneous repeated games. But for Indirect reciprocity that's not enough; we also need a name." - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak](https://www.edge.org/conversation/martin_nowak-the-evolution-of-cooperation-edge-master-class-2011#:~:text=Indirect%20reciprocity.%20I%20help,also%20need%20a%20name.)
 
-> "Spatial selection is the idea that neighbors help each other. Neighbors form clusters, or you and your friends have many interactions and you cooperate, and you can even be an unconditional cooperator with your friends, and that can work out. This is an evolutionary graph theory where you have a social network and people interact with others on the graph. More recently, we also developed more a powerful mathematical approach that we call evolutionary set theory, where you belong to certain sets, for example, the Mathematics Department, the Biology Department, Harvard, or MIT, or the gym, or the tennis club, and I interact with people in that set. I cooperate with the people in the set and I try to join sets of successful individuals. So the extension to classical evolutionary game theory here is in classic evolutionary game theory, people imitate successful strategies. Here they imitate successful strategies in successful locations.  They want to move into successful locations, and that can give rise to this clustering that allows evolution of cooperation." - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak](https://www.edge.org/conversation/martin_nowak-the-evolution-of-cooperation-edge-master-class-2011#:~:text=Spatial%20selection%20is,evolution%20of%20cooperation.)
+> "Spatial selection is the idea that neighbors help each other. Neighbors form clusters, or you and your friends have many interactions and you cooperate, and you can even be an unconditional cooperator with your friends, and that can work out. This is an evolutionary graph theory where you have a social network and people interact with others on the graph. More recently, we also developed more a powerful mathematical approach that we call evolutionary set theory, where you belong to certain sets, for example, the Mathematics Department, the Biology Department, Harvard, or MIT, or the gym, or the tennis club, and I interact with people in that set. I cooperate with the people in the set and I try to join sets of successful individuals. So the extension to classical evolutionary game theory here is in classic evolutionary game theory, people imitate successful strategies. Here they imitate successful strategies in successful locations. They want to move into successful locations, and that can give rise to this clustering that allows evolution of cooperation." - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak](https://www.edge.org/conversation/martin_nowak-the-evolution-of-cooperation-edge-master-class-2011#:~:text=Spatial%20selection%20is,evolution%20of%20cooperation.)
+
+> "There can be no doubt that the tribe including many members who are always ready to give aid to each other, and to sacrifice themselves for the common good, would be victorious over other tribes. And this would be natural selection." - [Charles Darwin](https://www.edge.org/conversation/martin_nowak-the-evolution-of-cooperation-edge-master-class-2011#:~:text=There%20can%20be%20no%20doubt%20that%20the%20tribe%20including%20many%20members%20who%20are%20always%20ready%20to%20give%20aid%20to%20each%20other%2C%20and%20to%20sacrifice%20themselves%20for%20the%20common%20good%2C%20would%20be%20victorious%20over%20other%20tribes.%20And%20this%20would%20be%20natural%20selection.)
+
+> "Five mechanisms for cooperation:  kin selection: the idea is cooperation with genetic relatives; direct reciprocity: I help you, you help me; indirect reciprocity: I help you, somebody helps me; spatial selection: clusters of cooperators or neighbors to help each other; group selection: groups of cooperators out compete other groups." - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak](https://www.edge.org/conversation/martin_nowak-the-evolution-of-cooperation-edge-master-class-2011#:~:text=I%20have%20discussed,compete%20other%20groups.)
+
+> "What I find very interesting in these games of conditional reciprocity, direct and indirect reciprocity, we can make the point that winning strategies have the following three properties:  they must be generous, hopeful and forgiving.
+>
+> Generous in the following sense: if I have a new interaction, now I realize (and this is I think where most people go wrong) that this is not a game where it's either the other person or me who is winning. Most of our interactions are not like a tennis game in the US Open where one person loses and one person goes to the next round. Most of our interactions are more like let us share the pie and I'm happy to get 49 percent, but the pie is not destroyed. I'm willing to make a deal, and sometimes I accept less than 50 percent. The worst outcome would be to have no deal at all. So in that sense, generous means I never try to get more than the other person.  Tit-for-tat never wins in any single encounter; neither does Generous Tit-for-tat.
+>
+> Hopeful is that if there is a new person coming, I start with cooperation. My first move has to be cooperation. If a strategy starts with defection, it's not a winning strategy.
+>
+> And forgiving, in the sense that if the other person makes a mistake, there must be a mechanism to get over this and to reestablish cooperation." - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak](https://www.edge.org/conversation/martin_nowak-the-evolution-of-cooperation-edge-master-class-2011#:~:text=What%20I%20find,to%20reestablish%20cooperation.)
+
+> "" - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak]()
+
+> "" - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak]()
 
 > "" - [The Evolution of Cooperation Edge Master Class 2011 by Martin Nowak]()
 
@@ -1249,6 +1268,9 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 > "God is a concept far too important to leave to the religious." - [Quentin Meillassoux](https://en.wikipedia.org/wiki/Syntheism#:~:text=God%20is%20a%20concept%20far%20too%20important%20to%20leave%20to%20the%20religious)
 
 What if God is not the creator but something we create and merge with? We should put God in the future - we should create him.
+
+https://en.wikipedia.org/wiki/Syntheism
+
 
 
 
