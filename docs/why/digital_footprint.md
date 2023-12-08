@@ -302,7 +302,8 @@ But that's just scratching the surface - how much further could we push things? 
 All this would be easiest to build around a single unified identity network with data interoperability.
 
 
-
+TODO: take ideas from twitter expanded bios:
+https://twitter.com/oshea/status/1732174506716733482
 
 
 
