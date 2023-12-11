@@ -4,9 +4,21 @@
 
 
 
+> "" - [Happiness is a Compass, Not a Destination, by Matthew Pirkowski]()
+
+> "" - [Matthew Pirkowski]()
 
 
 
+
+stackexchange privileges
+https://stackoverflow.com/help/privileges
+
+
+
+> "The more I think about language, the more it amazes me that people ever understand each other at all." - [Kurt Gödel](https://www.goodreads.com/quotes/336516-the-more-i-think-about-language-the-more-it-amazes)
+
+> "To develop the skill of introspection and correct thinking is to learn — in the first place — what you have to disregard. The ineffectiveness of natural thinking comes from being overwhelmed by an infinity of possibilities and facts. In order to go on, you have to know what to leave out; this is the essence of effective thinking." - [Kurt Gödel](https://medium.com/catalyzingcoherence/a-meditation-on-diversity-equality-and-humanity-48008cd197a#:~:text=To%20develop%20the,of%20effective%20thinking.)
 
 
 
@@ -4658,7 +4670,10 @@ Global Brain Specialists are the future of consulting.
 According to an ideal internet bill of rights, today's social media giants would be in violation as we can't freely associate and assemble - we don't truly own our data and there's no such thing as permissionless innovation.
 
 What concepts should everyone be familiar with?
+Planetary boundaries
 https://en.wikipedia.org/wiki/Planetary_boundaries
+https://www.stockholmresilience.org/research/planetary-boundaries.html
+https://www.stockholmresilience.org/research/research-news/2023-09-13-all-planetary-boundaries-mapped-out-for-the-first-time-six-of-nine-crossed.html
 
 
 
