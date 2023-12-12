@@ -38,7 +38,8 @@ sense now...
 https://imgflip.com/memegenerator/151945243/what-is-my-purpose -->
 
 
-
+<img src="/img/Oliver_Stone_Nixon_directors_cut_Richard_Helms_CIA_black_eyes.png"/>
+CIA director [Richard Helms](https://en.wikipedia.org/wiki/Richard_Helms)' eyes briefly turn completely black while discussing [JFK's assassination](https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy) in the director's cut of [Nixon (1995)](https://www.imdb.com/title/tt0113987) by [Oliver Stone](https://en.wikipedia.org/wiki/Oliver_Stone).
 
 
 
