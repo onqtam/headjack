@@ -1,8 +1,99 @@
 
 
+
+██████████████████████████████████████████████████████████████████
+# Protopia
+██████████████████████████████████████████████████████████████████
+
+
 ██████████████████████████████████████████████████████████████████
 # God
 ██████████████████████████████████████████████████████████████████
+
+
+
+Memes all the way down - what is the root meme? We need to surface truth to the best of our abilities and crowd-source morality. We shake hands when we meet - that's culture. How do we fix the rest of culture?
+God in 3 sentences:
+God is the link (our connectedness) with everyone else. God is what we have in common and our purpose in life is to discover him. Spirituality is a spectrum and a gradient - a journey, a path towards him - towards connectedness with everyone else.
+We need to learn to enjoy the ride and succumb to it.
+We need to create an aggregate connectome - what we share
+The final religion is participation in the creation of God
+
+Participatory culture is the religion of the 21st century - religion starts with a practice
+Religions are participatory
+We’ve never been able to do participatory culture and be tribal at scale until now
+
+Human life is the most precious thing - but we sure as hell aint structured like we value it all that much. How do we make everyone contributors? Transparency and openness lead to integration and fusion of minds.
+TODO: THINK ABOUT AVATAR
+https://james-camerons-avatar.fandom.com/wiki/Consciousness_Transfer
+
+How do we make sure we don't kill curiosity in kids? Make curiosity pay dividends - harness intelligence
+We have generations of gamers - because there’s no alternative. We need to make God their playground and we would be the stewarts of it - generational transmission.
+
+God is compassion
+
+God is a mechanism and a direction. God is alignment. God is consequence capture. God is integrated information. God is connectedness. God is consciousness.
+
+> "I suspect that we can reconstruct the concept of God as an entirely rational concept, as a global optimum of transcendent (emergent collective) agency, affording a space of justifiable vantage points that allow judging between the available event trajectories." - [Joscha Bach](https://twitter.com/Plinz/status/1729067903457366325)
+
+God allows us to ask the question “What is my purpose” and then get an option along with a path for how to get there. You can get multiple options that are personalized to you
+
+God is the search engine of meaning in life
+
+The god of the 21st century is the most just of all
+
+God is the planetary nervous system of humanity
+
+(Sovereign) identity is the key to god
+
+God is the fairness protocol
+
+God is the purest form of cooperation - the most efficient one - achievable only with maximal alignment which requires trust through  transparency and reputation.
+
+People want to be loved.
+
+And we love the most the incorruptible - those who have a track record of ethics
+
+God is leaving the world better after yourself
+
+We need something that would sell itself
+
+God is a story and we can choose him
+
+God is an attractor - an aspiration. God is always further - there’s always more to improve. God delivers protopia - by terhering our values as the source of everything for meaning
+
+God is the answer to meaning - god is what we create. God is what we contribute to - that’s god. The evolution of culture - the human spirit
+
+The God inversion
+God's inversion
+The problem of the creator of God is solved once we decide to be his creators instead of being created by him
+https://en.wikipedia.org/wiki/Problem_of_the_creator_of_God
+
+Your choices of the rules you follow decide the fate of humanity - there’s a responsibility
+
+We choose to create God not because it is easy but because it is necessary - JFK, probably
+
+Enlightenment 1.0 killed god and the 2.0 version needs to reinvent him
+Quote god is waiting at the bottom of the glass
+
+God is the protocol ecosystem of cooperation and shared intentionality.
+Creating god would ensure we hatch from Earth as an egg and secure the existence of life for as long as possible
+
+> "God is a concept far too important to leave to the religious." - [Quentin Meillassoux](https://en.wikipedia.org/wiki/Syntheism#:~:text=God%20is%20a%20concept%20far%20too%20important%20to%20leave%20to%20the%20religious)
+
+What if God is not the creator but something we create and merge with? We should put God in the future - we should create him.
+
+https://en.wikipedia.org/wiki/Syntheism
+
+
+> "The first gulp from the cup of knowledge is separating us from God, but on the bottom of the cup God is waiting for those who search for him." - [Carl Friedrich von Weizsäcker](https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/#:~:text=the%20first%20gulp%20from%20the%20cup%20of%20knowledge%20is%20separating%20us%20from%20God%2C%20but%20on%20the%20bottom%20of%20the%20cup%20God%20is%20waiting%20for%20those%20who%20search%20for%20him.)
+https://www.google.com/search?q=at+the+bottom+of+the+glass+god+is+waiting
+https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/
+https://www.goodreads.com/quotes/9627737-the-first-gulp-from-the-glass-of-natural-sciences-will
+
+> "If God did not exist, it would be necessary to invent him." - [Voltaire](https://www.goodreads.com/quotes/12800-if-god-did-not-exist-it-would-be-necessary-to)
+
+
 
 AVATAR stuff
 
