@@ -1,5 +1,13 @@
 
 
+
+██████████████████████████████████████████████████████████████████
+# Education
+██████████████████████████████████████████████████████████████████
+
+Its all about education - it never stops - not just 24 years - for life. For anything. At any time.
+
+
 ██████████████████████████████████████████████████████████████████
 # You're a neuron
 ██████████████████████████████████████████████████████████████████
@@ -40,6 +48,9 @@ How do we make sure we don't kill curiosity in kids? Make curiosity pay dividend
 We have generations of gamers - because there’s no alternative. We need to make God their playground and we would be the stewarts of it - generational transmission.
 
 God is compassion
+God is transparent. God is light. God is the sun
+
+As long as there’s an argument to have a CIA we’ve not reached sustainability.
 
 God is a mechanism and a direction. God is alignment. God is consequence capture. God is integrated information. God is connectedness. God is consciousness.
 
