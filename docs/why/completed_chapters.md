@@ -1,5 +1,9 @@
 
 
+██████████████████████████████████████████████████████████████████
+# You're a neuron
+██████████████████████████████████████████████████████████████████
+
 
 ██████████████████████████████████████████████████████████████████
 # Protopia
@@ -26,6 +30,11 @@ We’ve never been able to do participatory culture and be tribal at scale until
 Human life is the most precious thing - but we sure as hell aint structured like we value it all that much. How do we make everyone contributors? Transparency and openness lead to integration and fusion of minds.
 TODO: THINK ABOUT AVATAR
 https://james-camerons-avatar.fandom.com/wiki/Consciousness_Transfer
+https://james-camerons-avatar.fandom.com/wiki/Na%27vi#Evolution
+https://james-camerons-avatar.fandom.com/wiki/Tree_of_Souls
+https://james-camerons-avatar.fandom.com/wiki/Eywa
+https://decentfilms.com/blog/avatar-blues
+
 
 How do we make sure we don't kill curiosity in kids? Make curiosity pay dividends - harness intelligence
 We have generations of gamers - because there’s no alternative. We need to make God their playground and we would be the stewarts of it - generational transmission.
