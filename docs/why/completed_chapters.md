@@ -1,6 +1,5 @@
 
 
-
 ██████████████████████████████████████████████████████████████████
 # Education
 ██████████████████████████████████████████████████████████████████
@@ -138,5 +137,12 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 > "I think the problem with the West that we're living with today is that exploitative behavior of the West across the world that caused the current problems was because state and market were left outside of religion." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=2799)
 ^^ Not sure about this...
+
+> "" - [Alexander Bard]()
+
+> "" - [Alexander Bard]()
+
+
+
 
 
