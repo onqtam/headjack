@@ -6,6 +6,7 @@
 
 Its all about education - it never stops - not just 24 years - for life. For anything. At any time.
 
+Harvard is a perverse concept
 
 ██████████████████████████████████████████████████████████████████
 # You're a neuron
@@ -116,6 +117,7 @@ https://www.goodreads.com/quotes/9627737-the-first-gulp-from-the-glass-of-natura
 
 AVATAR stuff
 
+Why do we have pets?
 
 The Exodus
 https://cdn.jns.org/uploads/2020/04/Moses-and-the-Exodus-880x495.jpg
