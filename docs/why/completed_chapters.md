@@ -44,6 +44,9 @@ https://james-camerons-avatar.fandom.com/wiki/Eywa
 https://decentfilms.com/blog/avatar-blues
 
 
+> "If you and I are to live religious lives, it mustn't be that we talk a lot about religion, but that our manner of life is different. It is my belief that only if you try to be helpful to other people will you in the end find your way to God." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/80925-if-you-and-i-are-to-live-religious-lives-it)
+
+
 How do we make sure we don't kill curiosity in kids? Make curiosity pay dividends - harness intelligence
 We have generations of gamers - because there’s no alternative. We need to make God their playground and we would be the stewarts of it - generational transmission.
 
