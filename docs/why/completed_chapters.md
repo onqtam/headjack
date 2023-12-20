@@ -1,7 +1,7 @@
 
 
 ██████████████████████████████████████████████████████████████████
-# Education
+# Education & development
 ██████████████████████████████████████████████████████████████████
 
 Its all about education - it never stops - not just 24 years - for life. For anything. At any time.
