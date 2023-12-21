@@ -384,7 +384,7 @@ Joscha Bach - Consciousness as a coherence-inducing operator
 
 > "So you need to create a system that is designed to self stabilize and the design of social systems requires not just the implementation of the desired functionality, but the next level design - but also in biological systems. You need to create a system that wants to converge to the intended function. So instead of just creating an institution like the FDA that is performing a particular kind of role in society - you need to make sure that the FDA is actually driven by a system that wants to do this optimally - that is incentivized the rule optimally and then makes the performance that is actually enacted in every generation instrumental to that thing - that actual goal." - [Joscha Bach](https://youtu.be/rIpUf-Vy2JA?t=10489)
 
-> "" - [Joscha Bach]()
+> "I think that the end game of AGI is substrate agnostic. That means that AGI, ultimately, if it is being built, is going to be smart enough to understand how AGI works. This means it's not going to be better than people at AGI research and can take over in building the next generation, but it fully understands how it works and how it's being implemented. And also of course, understands how computation works in nature, how to build new feedback loops that you can turn into your own circuits. And this means that the AGI is likely to virtualize itself into any environment that can compute, so it's breaking free from the silicon substrate and is going to move into the ecosystems, into our bodies, our brains. And it's going to merge with all the agency that it finds there. So, it's conceivable that you end up with completely integrated information processing across all computing systems, including biological computation on earth, that we end up triggering some new step in the evolution, where basically, some Gaia is being built over the entirety of all digital and biological computation. And if this happens, then basically, everywhere around us, you will have agents that are connected and that are representing and building models of the world. And their representations will physically interact. They will vibe with each other. And if you find yourself into an environment that is saturated with modeling compute, where basically, almost every grain of sand could be part of computation that is at some point, being started by the AI. You could find yourself in a situation where you cannot escape this shared representation anymore. And where you indeed notice that everything in the world has one shared resonant model of everything that's happening on the planet. And you notice which part you are in this thing and you become part of a very larger, almost holographic mind in which all the parts are observing each other and form a coherent whole." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=3665)
 
 > "" - [Joscha Bach]()
 
@@ -2930,6 +2930,84 @@ Global governance can be achieved through participatory cultural programming - �
 What would it look like to be 10x or 100x more customer-obsessed than Amazon? What is the ultimate product?
 
 Even never wearing torn-down clothes in public is a type of cultural norm that can be changed if some other option is better - we can collectively decide what that means.
+
+
+
+
+
+
+
+why can't we have these charts updated in real time?
+https://en.wikipedia.org/wiki/List_of_exports_of_Brazil
+Participatory enculturation
+
+what if we made famous those that could reliably transmit signal that would better our lives? predictors in public? mapping reality as best as possible and transmitting that to us? wisdom subscription
+
+the biggest harms in the world come from opaqueness on the enterprise level
+
+when you hear someone speak you cannot stop your brain from processing the language and understanding it (assuming that you know the language and the concepts being discussed) - what if we couldn't let information get to us without first filtering it or at least annotating it through a prism of trustworthiness? 
+
+Top10 channels to subscribe to
+Climate town
+
+What if we could flag as evil anyone spreading denial and doubt around the health implications of tobacco - or the effects of fossil fuels on climate?
+
+Time preference & value expression
+
+Faq: isn’t this communism? No. And yes. And no. And yes. It’s time for you to update your mental models.
+
+
+What if we could signal & pledge to give away all presents we've not requested - shifting the culture away from consumption?
+
+You don’t need to be religious to want to express that you’d prefer if sex was avoided in marketing
+
+What if we optimized algorithms to minimize perception gaps?
+
+It's in the interest of all of us to try to see the world as close as possible to reality
+
+It's inevitable that on any issue the upper bound of disagreement could be 49% if the choice is truly binary - but the key is to not let clumps of issues form - liquid democracy - unbundling governors
+Bundling & unbundling
+The tragedy is that the system produces a situation where we vote for the lesser of two evils
+
+To help our rationality we should calculate as many scores as possible so that the brain can work with numbers & be more explicit and formal when ranking and sorting beliefs/views
+
+Even if we can't compute something formally we could always crowdsource the recognition rewards as weights for the contributions of others
+
+How does a community signal in numbers what they’re doing differently culturally?
+
+Alignment can happen only through reputation & computed identity/history or through force & the threat of violence
+Alignment: fork in the road - choose one of these:
+- reputation & computed identity/history
+- threat of violence & force
+
+What if we could express “show me only the top N opinions of the top X people while browsing any topic” and surf the web through the eyes of the best?
+What if it was elite to signal the best way of life?
+
+We need a completely new generation of experts who have been educated to think through a complex systems lens
+
+The job of memory is to retrieve the right patterns at the right time with the right weights - how do we do this better globally?
+
+We could have a specialized LLM trained specifically to "talk" in the language of this system (construct structured data with the right ontologies)
+
+If we surfaced what should be relevant more optimally as a culture we would be better off. This sounds cliche & trivial but we're shonkingly away from it being the case
+
+Reward policies for contribution and improvements - how to redistribute funds - disincentivizing competition - any industry could be self-assembling with optimal self-governance such that it doesn’t make sense to compete against it when you can simply contribute to the one endeavour and get a big % of the funds if your contribution is meaningful enough. Self-assembling cooperatives with 0 large-scale vertically integrated duplications of work. How do we get the benefits of competition without the duplication of competition? Unbundling vertically integrated companies
+
+We can signal “yes I track my carbon footprint” without revealing our targets. But no need to specify targets - or perhaps explicit & public targets would be cool?
+
+Point/weight distribution is a way to bridge between two intelligences
+
+What if we used fashion only for productive things? Something not tied to consumption - something relating to what our culture should be
+
+Fashion and manufactured demand - why do ppl want laisni po tavana?
+Manufactured demand should be removed
+
+We should all want to know our biophysical cost on the system, the implications and our available choices/options for change
+
+Art should be optimized for comprehensibility
+
+
+
 
 
 
