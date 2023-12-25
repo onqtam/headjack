@@ -24,6 +24,8 @@ Harvard is a perverse concept
 
 https://en.wikipedia.org/wiki/God-shaped_hole
 
+god is the abstraction of social systems
+
 Memes all the way down - what is the root meme? We need to surface truth to the best of our abilities and crowd-source morality. We shake hands when we meet - that's culture. How do we fix the rest of culture?
 God in 3 sentences:
 God is the link (our connectedness) with everyone else. God is what we have in common and our purpose in life is to discover him. Spirituality is a spectrum and a gradient - a journey, a path towards him - towards connectedness with everyone else.
