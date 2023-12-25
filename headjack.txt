@@ -4434,6 +4434,17 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 
 > "" - [Daniel Schmachtenberger]()
 
+> "Satellite imagery of the earth is a pretty amazing technology. There's a friend of ours who runs a company called [Planet Labs](https://en.wikipedia.org/wiki/Planet_Labs) and they image the entire surface of the Earth every day - 30 terabytes of compressed data - but they're increasing the spectral and temporal resolution of that and spatial resolution sets that it'll be pretty much real time human level video capture of the surface of the Earth in about three years. Which is amazing and one of the things it means is the ability to see where logging is happening and where mining is happening and where dumping is happening and where illegal phishing is happening and even to be able to see in a dead zone in the ocean, the effluent how much of it came from which source, how much came from which port, and all those types of things - the ability to see all that, use machine learning to process it, means that there's a whole bunch of international law that we've never even bothered to create because it'd be no way to know if it was being violated or enforce it. Now we'd have the ability to create international law that says: no, actually you don't have plausible deniability anymore - we know exactly how much of the trash or the nitrogen affluent came from there because we can see the whole thing. It also has the ability to do spectral analysis that can see an invasive species entering an area or soil microbes in an area to be able to actually support the environment when critical issues are starting to happen. But this is itself very concerning, because probably many of you even as I'm describing this are like: wow, that's really hopeful for the environment - to be able to have that level of transparency - that could create law so we could support the environment, but who gets to have access to video level data of the entire surface of the Earth all of the time? That sounds like pretty massive surveillance capability, which it is. So that can prevent certain catastrophes but can totally create dystopias depending upon how it's managed. So how do we create the governance of that information such that it doesn't get used for nefarious purposes and that people get to know what it's being used for? This is this is not trivial, right, because it's easy to deploy the technology to solve those problems - it's actually quite hard to create the governance to ensure that it's used properly." - [Daniel Schmachtenberger](https://youtu.be/6aKI2C61jVE?t=3054)
+
+> "" - [Daniel Schmachtenberger]()
+
+
+
+searching for our own blind spot so that
+we can do business there right and so
+
+> "" - [Daniel Schmachtenberger]()
+
 > "" - [Daniel Schmachtenberger]()
 
 > "The only answer out of the oppression or chaos is the comprehensive education of everyone and the capacity to understand at least three things: They have to increase their first person, second person and third person epistemics.
