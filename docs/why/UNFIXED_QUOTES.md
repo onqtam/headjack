@@ -54,5 +54,3 @@
 > "" - [Daniel Schmachtenberger]()
 
 > "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
