@@ -22,6 +22,10 @@ Harvard is a perverse concept
 # God
 ██████████████████████████████████████████████████████████████████
 
+God design
+Designing god
+https://twitter.com/zxocw/status/1545495339771334657
+
 https://en.wikipedia.org/wiki/God-shaped_hole
 
 god is the abstraction of social systems
