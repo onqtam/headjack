@@ -9,6 +9,8 @@
 > "" - [Matthew Pirkowski]()
 
 
+> "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
+
 
 > "Human nature is like water. It takes the shape of its container." - [Wallace Stevens](https://www.goodreads.com/quotes/154092-human-nature-is-like-water-it-takes-the-shape-of)
 
@@ -4474,6 +4476,8 @@ HOW DO WE FIX THIS?
 
 > "In a concrete sense there is not matter and spirit. All that exists is matter becoming spirit." - [Pierre Teilhard de Chardin](https://www.consciousevolution.co.uk/what#:~:text=In%20a%20concrete%20sense%20there%20is%20not%20matter%20and%20spirit.%20All%20that%20exists%20is%20matter%20becoming%20spirit.)
 
+> "On the one hand we have a single brain, formed of nervous nuclei, and on the other a Brain of brains. It is true that between these two organic complexes a major difference exists. Whereas in the case of the individual brain thought emerges from a system of nonthinking nervous fibers, in the case of the collective brain each separate unit is in itself an autonomous center of reflection. If the comparison is to be a just one we must, at every point of resemblance, take this difference into account." - [Pierre Teilhard de Chardin](https://humanenergy.io/francis-heylighen/#:~:text=On%20the%20one,difference%20into%20account.)
+
 
 
 we don't want to be going through heaps of disorganized data with search engines and indexes which resembles looking for a needle in a heystack - we want the information and knowledge to be properly interconnected in the first place so that relevance realization is more easily facilitated
@@ -4809,6 +4813,8 @@ https://www.youtube.com/watch?v=eh7qvXfGQho
 > "I want to build an AI agent that I am ok with giving to my children. It’s the same AI I want to build for myself. It will talk to me, join me, extend me. It will fit like a glove around my mind, and you will want one, too. It will allow you and me to interact so deeply that we become one. It is like us, just so much more so. Conscious, curious, loving, playing the longest game." - [Joscha Bach](https://twitter.com/Plinz/status/1725058838192361725)
 
 > "Google gets much of its revenue from connecting user inputs to ads, and the product is squeezing the content. Google has not only lost its direction, it has forgotten its purpose" - [Joscha Bach](https://twitter.com/Plinz/status/1724714156019110397)
+
+> "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
 
 > "You become what you give your attention to." - [Epictetus](https://twitter.com/dailystoic/status/1709689898817777974)
 
@@ -7990,6 +7996,12 @@ FEED CONSTRUCTION - we have robo advisors to help us allocate our money when inv
 > "People are starving in the world, not because we don't have enough food, but because we're not organized. And computers are part of that." - [Larry Page](https://www.azquotes.com/quote/788555)
 
 > "You have as much computing power in your iPhone as was available at the time of the Apollo missions. But what is it being used for? It’s being used to throw angry birds at pigs; it’s being used to send pictures of your cat to people halfway around the world; it’s being used to check in as the virtual mayor of a virtual nowhere while you’re riding a subway from the nineteenth century." - [Peter Thiel](https://www.azquotes.com/quote/720837)
+
+> "Monopoly is the condition of every successful business." - [Peter Thiel](https://www.goodreads.com/quotes/1429665-monopoly-is-the-condition-of-every-successful-business)
+
+> "The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete." - [Peter Thiel](https://www.goodreads.com/quotes/5199889-the-most-valuable-businesses-of-coming-decades-will-be-built)
+
+> "We wanted flying cars, instead we got 140 characters." - [Peter Thiel](https://www.goodreads.com/quotes/697729-we-wanted-flying-cars-instead-we-got-140-characters)
 
 > "If different cultures connect with each other, they are less likely to want to shoot each other." - [Tim Berners-Lee](https://www.azquotes.com/quote/678697)
 
