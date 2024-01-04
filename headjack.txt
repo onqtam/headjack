@@ -18,7 +18,7 @@
 
 
 
-
+> "No input, no output." - [Strummer's Law](https://www.azquotes.com/quote/711545)
 
 stackexchange privileges
 https://stackoverflow.com/help/privileges
@@ -107,9 +107,43 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 > "But it is much later in the game now, and ignorance of the score is inexcusable. To be unaware that a technology comes equipped with a program for social change, to maintain that technology is neutral, to make the assumption that technology is always a friend to culture is, at this late hour, stupidity plain and simple." - [Neil Postman](https://www.goodreads.com/quotes/286008-but-it-is-much-later-in-the-game-now-and)
 
-> "" - [Neil Postman]()
+> "The written word endures, the spoken word disappears." - [Neil Postman](https://www.azquotes.com/quote/488630)
 
-> "" - [Neil Postman]()
+> "Children enter school as question marks and leave as periods." - [Neil Postman](https://www.azquotes.com/quote/599276)
+
+> "If students get a sound education in the history, social effects and psychological biases of technology, they may grow to be adults who use technology rather than be used by it." - [Neil Postman](https://www.azquotes.com/quote/843176)
+
+> "At its best, schooling can be about how to make a life, which is quite different from how to make a living." - [Neil Postman](https://www.azquotes.com/quote/234881)
+
+> "There is no way to help a learner to be disciplined, active, and thoroughly engaged unless he perceives a problem to be a problem or whatever is to-be-learned as worth learning, and unless he plays an active role in determining the process of solution." - [Neil Postman](https://www.azquotes.com/quote/1215352)
+
+> "The whole problem with news on television comes down to this: all the words uttered in an hour of news coverage could be printed on a page of a newspaper. And the world cannot be understood in one page." - [Neil Postman](https://www.azquotes.com/quote/891564)
+
+> "We do not measure a culture by its output of undisguised trivialities but by what it claims as significant." - [Neil Postman](https://www.azquotes.com/quote/456296)
+
+> "If politics is like show business, then the idea is not to pursue excellence, clarity or honesty but to appear as if you are, which is another matter altogether." - [Neil Postman](https://www.azquotes.com/quote/500222)
+
+> "The price of maintaining membership in the establishment is unquestioning acceptance of authority." - [Neil Postman](https://www.azquotes.com/quote/823457)
+
+> "It is inescapable that every culture must negotiate with technology, whether it does so intelligently or not. A bargain is struck in which technology giveth and technology taketh away." - [Neil Postman](https://www.azquotes.com/quote/732989)
+
+> "'The scientific method,' Thomas Henry Huxley once wrote, 'is nothing but the normal working of the human mind.' That is to say, when the mind is working; that is to say further, when it is engaged in correcting its mistakes." - [Neil Postman](https://www.azquotes.com/quote/1122871)
+
+> "With the invention of the clock, Eternity ceased to serve as the measure and focus of human events." - [Neil Postman](https://www.goodreads.com/quotes/594270-with-the-invention-of-the-clock-eternity-ceased-to-serve)
+
+
+
+> "The essence of strategy is choosing what not to do." - [Michael Porter](https://www.azquotes.com/quote/234635)
+
+> "Billions are wasted on ineffective philanthropy. Philanthropy is decades behind business in applying rigorous thinking to the use of money." - [Michael Porter](https://www.azquotes.com/quote/234633)
+
+> "Ultimately, health care fails the most basic test. It's not organized around the needs of the patient." - [Michael Porter](https://www.azquotes.com/quote/1225877)
+
+> "The purpose of the corporation must be redefined as creating shared value, not just profit per se. This will drive the next wave of innovation and productivity growth in the global economy." - [Michael Porter](https://www.azquotes.com/quote/717511)
+
+> "Businesses must reconnect company success with social progress. Shared value is not social responsibility, philanthropy, or even sustainability, but a new way to achieve economic success. It is not on the margin of what companies do but at the center. We believe that it can give rise to the next major transformation of business thinking." - [Michael Porter](https://www.azquotes.com/quote/797287)
+
+> "Sound strategy starts with having the right goal." - [Michael Porter](https://www.azquotes.com/quote/605346)
 
 
 
@@ -3451,6 +3485,11 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 
 > "Since the environment anyway is variable, the more adaptability you have at the moment, the better you are. So there is a tendency to evolve into systems that can adapt to a wide range of things. If they can adapt only to a particular range of things, they are likely to be eliminated by the next change in the environment. So this increase in the range of things we can deal with, that’s something that can be expressed even in the form of a cybernetic law. It’s called the Law of Requisite Variety. The cyberneticist Ashby says: if you have to deal with various perturbations, the more [variety of actions](https://en.wikipedia.org/wiki/Variety_(cybernetics)) that you can do, the better you will be able to deal with all these problems. So there is, you might say, a selective pressure for living systems to increase the variety of things they can do. And increasing the things they can do, that means on the one hand getting the physiological anatomical features to do these things—which means increasing complexity—but it also means a kind of a cognitive increase: an increase in the number of things that they can sense and the amount of knowledge they have to know “How do I deal with these circumstances?” So the selective pressure is to increase the range of challenges you can deal with, and that is a progressive evolution. There is no doubt about that. The example I gave supposed that you have two systems, one that can deal with situation A, B, C, and the other one can deal with situations A, B, C, D. Well, as long as the situation is A, B, or C, they’re both equally good. But the moment that the situation changes into D, the first one gets killed off and the second one remains. So therefore, there is a selective pressure to be able to deal with a wider range of things. And that implies all this progressive evolution towards more intelligence, more consciousness, more flexibility, more complexity, et cetera. So the third story is really that evolution is progressive. We learn to deal with a wider range of situations. We expand our consciousness to a wider range of challenges and opportunities." - [Francis Heylighen](https://www.organism.earth/library/document/glimpsing-the-global-brain#:~:text=since%20the%20environment,challenges%20and%20opportunities.)
 
+> "Self-organizing networks of communication, which are the fabric of all social structures, do have a potential of settling into overly constraining, rigid forms. This is currently one of the most fundamental points of debate within the Global Brain community and also one of the arguments in favor of a more active and normative approach. It is not enough to passively observe, describe and anticipate the emergence of a Global Brain, as earlier theorists have tended to do. We need to ensure that the fundamental diversity in perspectives and constant exploration, presented by Weinbaum and Veitas (2015) as a “world of views”, indeed becomes its operating principle. Therefore, we must actively engage in the conceptual, social and technological development of the Global Brain, and try to make sure that it is not hijacked by special interests, conformity pressures, or processes of homogenization. As Helbing (2016) puts it, in designing the future information society, “we should engage in systemic pluralism and should be much more experimental”, thus constantly expanding and renewing diversity." - [The Global Brain as a model of the future information society: An introduction to the special issue, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TFSC-intro.pdf)
+
+> "As Veitas and Weinbaum (2016) conclude their paper: “No matter what kind of technologies will be enablers of the distributed social governance, it will be based not on the design of optimal institutions, but rather on the processes”. The Global Brain should not be thought of as a static agent, or even as an institution, but as a type of process: a process that explores creative possibilities, connects unconnected dots, and (re)cognizes and exploits potential synergies by bringing into contact the most diverse ideas, people and resources. A better metaphor for this phenomenon than the monotheistic God might be the Tao. The Tao is not an agent, but a “way”, a “path”, a principle of (self-)organization. Such mode of existence positions it below, not above, all other things and this is why “myriad things return to it but it does not rule over them” (Lao-tzu, 2006). In such a holistic, process-based perspective, there is no strict separation between body, mind and world, and therefore no homunculus acting as a central controller. There is merely an endless, encompassing stream of interactions being intelligently coordinated via distributed self-organization." - [The Global Brain as a model of the future information society: An introduction to the special issue, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TFSC-intro.pdf)
+
+
 
 
 > "Their willingness to edit on the spot and pretend they got it right is insane, and a horrible innovation enabled by web journalism (as opposed to print). They should really be hashing/timestamping articles so they have to commit to their words." - [Nic Carter](https://twitter.com/nic__carter/status/1714663896282223098)
@@ -5503,6 +5542,23 @@ https://www.edge.org/response-detail/27098
 > "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/16300-our-scientific-power-has-outrun-our-spiritual-power-we-have)
 
 > "Not everybody can be famous but everybody can be great, because greatness is determined by service." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/147771-not-everybody-can-be-famous-but-everybody-can-be-great)
+
+> "Injustice anywhere is a threat to justice everywhere." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158995)
+
+> "Life's most persistent and urgent question is, 'What are you doing for others?'" - [Martin Luther King Jr.](https://www.azquotes.com/quote/158997)
+
+> "The best way to solve any problem is to remove its cause." - [Martin Luther King Jr.](https://www.azquotes.com/quote/536745)
+
+> "Darkness cannot drive out darkness; only light can do that." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158968)
+
+
+
+> "This country cannot afford to be materially rich and spiritually poor." - [John F. Kennedy](https://www.azquotes.com/quote/536350)
+
+> "Mankind must put an end to war - or war will put an end to mankind." - [John F. Kennedy](https://www.goodreads.com/quotes/118124-mankind-must-put-an-end-to-war---or-war)
+
+> "If not us, who? If not now, when?" - [John F. Kennedy](https://www.goodreads.com/quotes/881019-if-not-us-who-if-not-now-when)
+
 
 
 

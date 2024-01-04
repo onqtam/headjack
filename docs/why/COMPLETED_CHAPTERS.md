@@ -108,7 +108,9 @@ https://en.wikipedia.org/wiki/Problem_of_the_creator_of_God
 
 Your choices of the rules you follow decide the fate of humanity - there’s a responsibility
 
-We choose to create God not because it is easy but because it is necessary - JFK, probably
+> "We choose to create God in this decade and do the other things, not because they are easy, but because they are hard." - [John F. Kennedy](https://www.goodreads.com/quotes/22043-we-choose-to-go-to-the-moon-in-this-decade), probably
+
+> "My fellow neurons, ask not what The Global Brain can do for you, ask what you can do for it." - [John F. Kennedy](https://www.azquotes.com/quote/156160), probably
 
 Enlightenment 1.0 killed god and the 2.0 version needs to reinvent him
 Quote god is waiting at the bottom of the glass
@@ -147,6 +149,8 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 > "The Latin verb religare means to 're-bind'. The Latin noun religio referring to obligation, bond, or reverence is probably based on religare, so religio and its English derivation religion connote a 're-binding'." - [Peter Lucas Hulen on Religion](http://persweb.wabash.edu/facstaff/hulenp/religion.html#:~:text=The%20Latin%20verb%20religare%20means,a%20're%2Dbinding'.)
+
+> "The Global Brain seems to be developing superhuman capabilities similar to the classic attributes of God: omniscience, omnipresence and omnipotence." - [The Global Brain as a model of the future information society: An introduction to the special issue, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TFSC-intro.pdf)
 
 
 
