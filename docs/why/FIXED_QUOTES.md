@@ -303,7 +303,7 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 
 > "When your idea about what a just society is: well let's vindictively punish successful people, let's pretend that male and female have no difference or all the difference according to some set of rules on alternate tuesdays, let's decide that we can redefine what a recession is or the Consumer Price Index, let's decide that we don't need masks - yes we do - no we don't - yes we do, because of the science, science, science - can somebody get rid of these people? We need to be in a society that makes some semblance of sense." - [Eric Weinstein](https://youtu.be/LJxBnSyH0T4?t=11362)
 
-> "" - [Eric Weinstein]()
+> "Many of the voices that we've been listening to because they got jobs in our organs - whether it was the New Yorker, or the Washington Post, or a professorship at Duke - we have to stop listening to these people wholesale. We have to stop being tolerant of the intolerant. If you come from a position that is sufficiently extreme and your whole point is to try to use and weaponize democracy, to weaponize free speech, to weaponize good faith, to weaponize what it means to hold a debate - you need to not really have a voice at the table because we don't have a solution." - [Eric Weinstein](https://youtu.be/LJxBnSyH0T4?t=11455)
 
 > "" - [Eric Weinstein]()
 
