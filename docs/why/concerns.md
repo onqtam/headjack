@@ -65,6 +65,7 @@ https://vitalik.ca/general/2021/06/18/verkle.html
 https://notes.ethereum.org/@vbuterin/verkle_tree_eip
 https://efdn.notion.site/efdn/Verkle-Tries-bf5391f9b3c949fdb375b0ec6a108a25
 
+https://verkle.info/
 
 Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean
 https://www.youtube.com/watch?v=Q7rStTKwuYs
