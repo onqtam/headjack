@@ -1,6 +1,5 @@
 
 
-
 > "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 
 > "The key to cooperation is what Axelrod called ["The Shadow of the Future"](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation#:~:text=the%20shadow%20of%20the%20future). The promise of our continued interaction keeps us in line. Successful cooperation, Axelrod argued, required that people start off by being nice—that is, by being willing to cooperate—but that they had to be willing to punish noncooperative behavior as soon as it appeared. The best approach was to be "nice, forgiving, and retaliatory."" - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=The%20key%20to%20cooperation,nice%2C%20forgiving%2C%20and%20retaliatory.%22)
@@ -21,12 +20,15 @@
 
 
 
+Visualizing “the current thing” throughout 2023
+https://twitter.com/exec_sum/status/1743744897264345445
+^^ THIS IS ATTENTIONAL DISFUNCTION
 
 
 
+> "To attain knowledge, add things everyday. To attain wisdom, remove things every day." - [Lao Tzu](https://www.goodreads.com/quotes/30297-to-attain-knowledge-add-things-everyday-to-attain-wisdom-remove)
 
-
-
+> "It is not a matter of what is true that counts, but a matter of what is perceived to be true." - [Henry Kissinger](https://www.goodreads.com/quotes/40934-it-is-not-a-matter-of-what-is-true-that)
 
 
 > "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81#:~:text=To%20support%20and%20maintain%20a%20man%27s%20private%20credit%2C%20%27tis%20absolutely%20necessary%20that%20the%20world%20have%20a%20fixed%20opinion%20of%20the%20honesty%20and%20integrity%2C%20as%20well%20as%20ability%20of%20a%20person.)
@@ -503,6 +505,10 @@ https://www.google.com/search?q=this+is+healthy
 
 > "An agent is any being that can detect the consequences of it's behavior and modify that behavior in order to achieve it's goals. Another way of putting it is that an agent is a problem solver. Intelligence is the capacity to be a general problem solver - you can solve a wide variety of problems in a wide variety of domains." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=670)
 
+> "Relevance is like biological fittedness. It is cognitive fittedness." - [John Vervaeke](https://twitter.com/tomowenmorgan/status/1742174771196866796)
+
+> "The very processes that make you adaptive make you subject to self-deception, so wisdom, meaning the overcoming of self-deception, is not optional." - [John Vervaeke](https://twitter.com/tomowenmorgan/status/1742174765463298489)
+
 > "You face a problem - in fact it's a meta problem whenever you're trying to do any problem solving - this is the following problem: the amount of information available to you is combinatorily explosive, it is vast, it is overwhelming. The amount of things you could pay attention to in this room - you could look at that spot right there, or that spot, or the relationship between the spots - you can do that, you're capable of it. When you think about it carefully now: the amount of ways you could look at this room and attend to it is combinatorially explosive. It is vast. The amount of information you have in your long-term memory and the possible combinations - it's huge. You could think of an aardvark, you could think of the Aztec empire, you could think of the beginning of the gold standard, and you could possibly even connect them all together. Think of all the ways you can connect all the things in your long-term memory. All the sequences of actions - I'm going to solve a problem - I'm going to start moving my body around, I can move this finger, then this finger could move these two, I could grab I could lift my hands, like oh I can sing - out of all the possible combinations you somehow zero in on the right thing to do, the right thing to pay attention to, and the right things to be remembering right now. You zero in on the relevant information and you ignore most - overwhelmingly most - of the irrelevant information. You frame your cognition and you pay attention only to what's within that frame and you ignore what's outside of that frame. It sounds paradoxical but this is the case - you're intelligent because of your capacity to ignore so much information." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=730)
 
 > "When something is both highly integrated and highly differentiated it can do many different things without falling apart. So complexification enhances agency - it gives you your emergent abilities." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=1250)
@@ -584,6 +590,13 @@ https://twitter.com/HumansNoContext/status/1688256147537498113
 
 > "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
 
+> "Everyone talking about product-market fit. Nobody talking about user-values fit. And we’re supposed to solve AI Alignment?" - [Peter Wang](https://twitter.com/pwang/status/1743377594366496788)
+
+> "The next iteration of Western progress will be rooted in an updated philosophy that doesn’t create a false dichotomy between individual achievement and communal thriving; that generalizes personal spiritual development beyond any single religious tradition and instead centers meaning of mortal life on connection with transcendent dynamics (emergence, awe) in space and time; and is unflinchingly honest about the lessons we’ve learned over the last 400 years about collective action mechanisms, biology, and cognition.
+>
+> Even without AI we can develop this over the next 10-20 years. With AI, it can go even better, even faster.
+>
+> Human alignment, at scale, is possible and is within reach. But it will require killing some very sacred cows of Western liberalism and laissez-faire economics." - [Peter Wang](https://twitter.com/pwang/status/1743618298992861666)
 
 > "A society grows great when old men plant trees in whose shade they shall never sit." - [Greek Proverb](https://www.google.com/search?q=%E2%80%9CA+society+grows+great+when+old+men+plant+trees+in+whose+shade+they+shall+never+sit.%E2%80%9D)
 
@@ -7572,6 +7585,8 @@ NYT Science should be just content from the NYT that has the science tag/label
 > "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
 
 
+
+> "There is no point in fiddling about. Religion is both sine qua non and foundational. Failure to understand this is simply a result of not fully grasping the larger context.  I myself had a deep misunderstanding here for decades." - [Jordan Hall](https://twitter.com/jgreenhall/status/1743671898213408953)
 
 > "Our future institutional order must be self-assembling, self-organizing and meta-stable. There can be no central organizing structure that is adequate to their construction" - [Jordan Hall](https://medium.com/deep-code/a-prolegomena-to-any-future-politics-8eac11fd678a#:~:text=our%20future%20institutional%20order%20must%20be%20self%2Dassembling%2C%20self%2Dorganizing%20and%20meta%2Dstable.%20There%20can%20be%20no%20central%20organizing%20structure%20that%20is%20adequate%20to%20their%20construction)
 
