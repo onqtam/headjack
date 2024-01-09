@@ -1,5 +1,29 @@
 
 
+
+
+
+> "What's [Freeman](https://en.wikipedia.org/wiki/Jo_Freeman)'s ultimate recommendation for creating successful organizations?
+>
+> 1) democratically elect leaders
+>
+> 2) with responsibility over constituents
+>
+> 3) who prioritize apprenticeship > sink-or-swim
+>
+> 4) sharing information
+>
+> 5) and providing equal access to resources" - [Jon Wu](https://twitter.com/jonwu_/status/1743075040269332945)
+
+
+
+
+
+
+
+
+
+
 > "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 
 > "The key to cooperation is what Axelrod called ["The Shadow of the Future"](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation#:~:text=the%20shadow%20of%20the%20future). The promise of our continued interaction keeps us in line. Successful cooperation, Axelrod argued, required that people start off by being nice—that is, by being willing to cooperate—but that they had to be willing to punish noncooperative behavior as soon as it appeared. The best approach was to be "nice, forgiving, and retaliatory."" - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=The%20key%20to%20cooperation,nice%2C%20forgiving%2C%20and%20retaliatory.%22)
@@ -17,20 +41,6 @@
 > "Talkativeness may seem like a curious thing to worry about, but in fact talkativeness has a major impact on the kinds of decisions small groups reach. If you talk a lot in a group, people will tend to think of you as influential almost by default. Talkative people are not necessarily well liked by other members of the group, but they are listened to. And talkativeness feeds on itself. Studies of group dynamics almost always show that the more someone talks, the more he is talked to by others in the group. So people at the center of the group tend to become more important over the course of a discussion. This might be okay if people only spoke when they had expertise in a particular matter. And in many cases, if someone's talking a lot, it's a good sign that they have something valuable to add. But the truth is that there is no clear correlation between talkativeness and expertise." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Talkativeness%20may%20seem,tiveness%20and%20expertise.)
 
 > "Decision markets are well suited to companies because they circumvent the problems that obstruct the flow of information at too many firms: political infighting, sycophancy, and a confusion of status with knowledge. The anonymity of the markets and the fact that they yield a relatively clear solution, while giving individuals an unmistakable incentive to uncover and act on good information, means that their potential value is genuinely hard to overestimate. Major corporate decisions should be informed by decision markets, not made by them. But when the decisions are made, it makes little sense, given everything we know about the virtues of collective decision making and about the importance of diversity, to concentrate power in the hands of one person. In fact, the more important the decision, the more important it is that it not be left in the hands of a single person." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Decision%20markets%20are%20well,of%20a%20single%20person.)
-
-
-
-> "What's [Freeman](https://en.wikipedia.org/wiki/Jo_Freeman)'s ultimate recommendation for creating successful organizations?
->
-> 1) democratically elect leaders
->
-> 2) with responsibility over constituents
->
-> 3) who prioritize apprenticeship > sink-or-swim
->
-> 4) sharing information
->
-> 5) and providing equal access to resources" - [Jon Wu](https://twitter.com/jonwu_/status/1743075040269332945)
 
 
 
