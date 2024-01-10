@@ -4,25 +4,6 @@
 
 
 
-Jim talked quite a lot of time
-
-I really need to read your book because ive been thinking so much about fungibility and currencies and recognition and status. I believe I’ll improve upon your ideas and rebuild everything on top of my design for identity for the internet
-I’m thinking of a bottom-up participatory social credit score in terms of its governance and direction
-I’m not convinced that your proposals are enough for it to work in terms of incentives but ill pick and choose ideas
-
-I think your ideas are lacking something
-If you watch my talk you might get some insights and new ideas
-
-
-
-
-
-
-
-
-
-
-
 > "What's [Freeman](https://en.wikipedia.org/wiki/Jo_Freeman)'s ultimate [recommendation](https://www.jofreeman.com/joreen/tyranny.htm) for creating successful organizations?
 >
 > 1) democratically elect leaders
@@ -43,17 +24,29 @@ Excerpts
 ...
 
 Principles of Democratic Structuring
-Delegation of specific authority to specific individuals for specific tasks by democratic procedures. Letting people assume jobs or tasks by default only means they are not dependably done. If people are selected to do a task, preferably after expressing an interest or willingness to do it, they have made a commitment which cannot easily be ignored.
-Requiring all those to whom authority has been delegated to be responsible to all those who selected them. This is how the group has control over people in positions of authority. Individuals may exercise power, but it is the group that has the ultimate say over how the power is exercised.
-Distribution of authority among as many people as is reasonably possible. This prevents monopoly of power and requires those in positions of authority to consult with many others in the process of exercising it. It also gives many people an opportunity to have responsibility for specific tasks and thereby to learn specific skills.
-Rotation of tasks among individuals. Responsibilities which are held too long by one person, formally or informally, come to be seen as that person's 'property' and are not easily relinquished or controlled by the group. Conversely, if tasks are rotated too frequently the individual does not have time to learn her job well and acquire a sense of satisfaction of doing a good job.
-Allocation of tasks along rational criteria. Selecting someone for a position because they are liked by the group, or giving them hard work because they are disliked, serves neither the group nor the person in the long run. Ability, interest and responsibility have got to be the major concerns in such selection. People should be given an opportunity to learn skills they do not have, but this is best done through some sort of 'apprenticeship' programme rather than the 'sink or swim' method. Having a responsibility one can't handle well is demoralising. Conversely, being blackballed from what one can do well does not encourage one to develop one's skills. Women have been punished for being competent throughout most of human history: the movement does not need to repeat this process.
-Diffusion of information to everyone as frequently as possible. Information is power. Access to information enhances one's power. When an informal network spreads new ideas and information among themselves outside the group, they are already engaged in the process of forming an opinion without the group participating. The more one knows abouthow things work, the more politically effective one can be.
-Equal access to resources needed by the group. This is not always perfectly possible, but should be striven for. A member who maintains a monopoly over a needed resource (like a printing press or a darkroom owned by a husband) can unduly influence the use of that resource. Skills and information are also resources. Members' skills and information can be equally available only when members are willing to teach what they know to others.
+- Delegation of specific authority to specific individuals for specific tasks by democratic procedures. Letting people assume jobs or tasks by default only means they are not dependably done. If people are selected to do a task, preferably after expressing an interest or willingness to do it, they have made a commitment which cannot easily be ignored.
+-  Requiring all those to whom authority has been delegated to be responsible to all those who selected them. This is how the group has control over people in positions of authority. Individuals may exercise power, but it is the group that has the ultimate say over how the power is exercised.
+- Distribution of authority among as many people as is reasonably possible. This prevents monopoly of power and requires those in positions of authority to consult with many others in the process of exercising it. It also gives many people an opportunity to have responsibility for specific tasks and thereby to learn specific skills.
+- Rotation of tasks among individuals. Responsibilities which are held too long by one person, formally or informally, come to be seen as that person's 'property' and are not easily relinquished or controlled by the group. Conversely, if tasks are rotated too frequently the individual does not have time to learn her job well and acquire a sense of satisfaction of doing a good job.
+- Allocation of tasks along rational criteria. Selecting someone for a position because they are liked by the group, or giving them hard work because they are disliked, serves neither the group nor the person in the long run. Ability, interest and responsibility have got to be the major concerns in such selection. People should be given an opportunity to learn skills they do not have, but this is best done through some sort of 'apprenticeship' programme rather than the 'sink or swim' method. Having a responsibility one can't handle well is demoralising. Conversely, being blackballed from what one can do well does not encourage one to develop one's skills. Women have been punished for being competent throughout most of human history: the movement does not need to repeat this process.
+- Diffusion of information to everyone as frequently as possible. Information is power. Access to information enhances one's power. When an informal network spreads new ideas and information among themselves outside the group, they are already engaged in the process of forming an opinion without the group participating. The more one knows abouthow things work, the more politically effective one can be.
+- Equal access to resources needed by the group. This is not always perfectly possible, but should be striven for. A member who maintains a monopoly over a needed resource (like a printing press or a darkroom owned by a husband) can unduly influence the use of that resource. Skills and information are also resources. Members' skills and information can be equally available only when members are willing to teach what they know to others.
 When these principles are applied, they ensure that whatever structures are developed by different movement groups will be controlled by and be responsible to the group. The group of people in positions of authority will be diffuse, flexible, open and temporary. They will not be in such an easy position to institutionalize their power because ultimate decisions will be made by the group at large. The group will have the power to determine who shall exercise authority within it."
 
 
 
+
+> "Context switching is the mindkiller." - [Elon Musk](https://twitter.com/elonmusk/status/1728213431201792492)
+> "Fear is not the mind-killer, context-switching is the mind-killer." - [Elon Musk](https://twitter.com/elonmusk/status/1600439088560996353)
+https://twitter.com/Kristennetten/status/1600444201744801792
+
+
+
+> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
+
+> "He who controls attention controls the universe." - [Frank Herbert](https://www.goodreads.com/quotes/82034-he-who-controls-the-spice-controls-the-universe), probably
+
+> "Belief can be manipulated. Only knowledge is dangerous." - [Frank Herbert](https://www.goodreads.com/quotes/384225-belief-can-be-manipulated-only-knowledge-is-dangerous)
 
 
 
