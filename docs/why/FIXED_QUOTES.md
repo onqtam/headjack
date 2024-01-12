@@ -305,6 +305,26 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 
 > "Many of the voices that we've been listening to because they got jobs in our organs - whether it was the New Yorker, or the Washington Post, or a professorship at Duke - we have to stop listening to these people wholesale. We have to stop being tolerant of the intolerant. If you come from a position that is sufficiently extreme and your whole point is to try to use and weaponize democracy, to weaponize free speech, to weaponize good faith, to weaponize what it means to hold a debate - you need to not really have a voice at the table because we don't have a solution." - [Eric Weinstein](https://youtu.be/LJxBnSyH0T4?t=11455)
 
+> "The internet needs its own version of a religion - it doesn't have to be a god, but it has to be something that has the word mustn't in its vocabulary." - [Eric Weinstein](https://youtu.be/nz7cheVQ15w?t=797)
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
+> "" - [Eric Weinstein]()
+
 > "" - [Eric Weinstein]()
 
 > "" - [Eric Weinstein]()

@@ -55,8 +55,4 @@
 
 ^^ 56:45 till 1:03:27
 
-> "" - [Matthew Pirkowski]()
-
-> "" - [Matthew Pirkowski]()
-
-> "" - [Matthew Pirkowski]()
+> "If you do this homogenization if you get right and you've got what he when he he lumped the two together in terms of this process he called bureaucratization that everything is everything is becoming bureaucratic and he said exactly what jordan said you get the intoxicating salience of the manifest function that says look at how rapidly we can get things in order and get things running but what you have is the latent function the latent functionality is right all that calming stuff all that persons and community stuff doesn't go away but what it does is it gets subverted and undermined so a concrete example is the bureaucracy has the manifest function right of making everything ordered but it has the latent function of diffusing responsibility and shifting blame so that people cease to be listen please they cease to be persons within community and kafka gets that and he holds it up in art and he says luck luck look he keeps doing that again and again and again." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1918)
