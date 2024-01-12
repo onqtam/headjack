@@ -307,29 +307,7 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 
 > "The internet needs its own version of a religion - it doesn't have to be a god, but it has to be something that has the word mustn't in its vocabulary." - [Eric Weinstein](https://youtu.be/nz7cheVQ15w?t=797)
 
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
-
-> "" - [Eric Weinstein]()
+> "If your scientists can't tell you to go fuck yourself they're not going to be scientists." - [Eric Weinstein](https://youtu.be/nz7cheVQ15w?t=3711)
 
 
 
