@@ -1,6 +1,24 @@
 
 
 
+"I think that most capitalists don’t know how to divide the economic pie well and most socialists don’t know how to grow it well, yet we are now at a juncture in which either a) people of different ideological inclinations will work together to skillfully re-engineer the system so that the pie is both divided and grown well or b) we will have great conflict and some form of revolution that will hurt most everyone and will shrink the pie." - [Ray Dalio](https://www.linkedin.com/pulse/why-how-capitalism-needs-reformed-parts-1-2-ray-dalio/#:~:text=I%20think%20that,shrink%20the%20pie.)
+
+
+> "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)
+
+> "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
+
+
+
+
+"The majority of us believe in Open Source government backed by resource based economics on a planetary level. If a computer’s operating system is malfunctioning it is replaced. We view governments as global operating systems, flawed full of bugs and crash reports. Hitting the off switch and rebooting simply won’t help how corrupted these global operating systems have become. Reformatting and installing a humanitarian based open sourced government will insure equality for all." - [Million Mask March 2015 - Anonymous](https://pastebin.com/eJz5JfMD#:~:text=The%20majority%20of%20us%20believe,will%20insure%20equality%20for%20all.)
+
+
+> "We should not assume that experts are the only ones who have a right to express themselves on questions affecting the organization of society." - [Why Socialism? by Albert Einstein](https://monthlyreview.org/2009/05/01/why-socialism/#:~:text=we%20should%20not%20assume%20that%20experts%20are%20the%20only%20ones%20who%20have%20a%20right%20to%20express%20themselves%20on%20questions%20affecting%20the%20organization%20of%20society.)
+
+
+
+
 
 
 
@@ -34,6 +52,8 @@ Principles of Democratic Structuring
 When these principles are applied, they ensure that whatever structures are developed by different movement groups will be controlled by and be responsible to the group. The group of people in positions of authority will be diffuse, flexible, open and temporary. They will not be in such an easy position to institutionalize their power because ultimate decisions will be made by the group at large. The group will have the power to determine who shall exercise authority within it."
 
 
+
+> "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett#:~:text=%22The%20greatest%20shortcoming%20of%20the%20human%20race%20is%20our%20inability%20to%20understand%20the%20exponential%20function.%22)
 
 
 > "Context switching is the mindkiller." - [Elon Musk](https://twitter.com/elonmusk/status/1728213431201792492)
@@ -145,9 +165,6 @@ https://stackoverflow.com/help/privileges
 >
 > Thus the primary questions within this time of extreme phenomenological transformation concern the kinds of structures that we may build from the fragments of prior stratified forms, namely: how might we create modes of communication–novel inter-perspectival grammars–capable of sparking cooperation amongst the different clusters of survivors, otherwise adrift and on the clock?" - [On The Phenomenology of Hyper-Connectivity, by Matthew Pirkowski](https://medium.com/@matthewpirkowski/on-the-phenomenology-of-hyper-connectivity-b04d7d191129#:~:text=we%20may%20view,on%20the%20clock%3F)
 
-
-
-> "Will the owners of the blue planet between Venus and Mars please attend to your vehicle. It is overheating." - [God](https://twitter.com/TheTweetOfGod/status/1470793024925958148)
 
 
 
@@ -3918,6 +3935,7 @@ Levels of openness & alignment - different rewards by the network
 - Open source?
 - Permissive license? License to others in this ecosystem?
 - Planned obsolescence? https://www.youtube.com/watch?v=j5v8D-alAKE
+    - perceived obsolescence
 - using hypernormal stimuli?
 ESG scores
 - pressure/incentivize a basket of companies to pool capital and fund some research so that the funding is distributed, and also define for them all of the areas that need research so that the companies aren't selective for what suits them.
@@ -6861,6 +6879,8 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 
 > "One of the saddest lessons of history is this: If we’ve been bamboozled long enough, we tend to reject any evidence of the bamboozle. We’re no longer interested in finding out the truth. The bamboozle has captured us. It’s simply too painful to acknowledge, even to ourselves, that we’ve been taken." - [Carl Sagan](https://fs.blog/illusory-truth-effect/#:~:text=%E2%80%9COne%20of%20the,%E2%80%94%20Carl%20Sagan)
 
+> "I have a foreboding of an America in my children's or grandchildren's time -- when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what's true, we slide, almost without noticing, back into superstition and darkness." - [Carl Sagan](https://www.goodreads.com/quotes/632474-i-have-a-foreboding-of-an-america-in-my-children-s)
+
 > "Who looks outside, dreams; who looks inside, awakes." - [Carl Jung](https://www.azquotes.com/quote/151492)
 
 > "It is very obvious that we are not influenced by "facts" but by our interpretation of the facts." - [Alfred Adler](https://www.azquotes.com/quote/1124578)
@@ -8270,9 +8290,9 @@ FEED CONSTRUCTION - we have robo advisors to help us allocate our money when inv
 
 > "There is a technical solution to every political problem..." - [Edward Snowden](https://www.azquotes.com/quote/685668)
 
+> "Sometimes I try to imagine a world where scientific young minds enjoyed greater rewards for revolutionizing, like, farming methods, manufacturing, or energy, rather than the dark patterns used to optimize ad-clicks at Google and Facebook. How did we get here?" - [Edward Snowden](https://twitter.com/Snowden/status/1451342274667876353)
+
 > "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
-
-
 
 
 
