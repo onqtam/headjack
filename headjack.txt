@@ -1,5 +1,66 @@
 
 
+What if we did to mass consumer product packaging what the container did to shipping? How do we reuse our packaging more - even across companies & their product lineups?
+Convenience packaging... replacing a depositing system and reusable bottles (deposit 40% of a coke bottle which u get back when u return the bottle)
+reclamation costs have been outsourced to the public in the form of "recycling"
+https://www.youtube.com/watch?v=4XP-BBGMCNs
+Coke Knew Their Plastic Would Trash the Planet…And Did It Anyway
+
+
+
+
+
+
+> "Do not create your reputation system as if it is a monetary system. You do not spend or trade reputation. Once you earn it, it is yours." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=do%20not%20create%20your%20reputation%20system%20as%20if%20it%20is%20a%20monetary%20system.%20You%20do%20not%20spend%20or%20trade%20reputation.%20Once%20you%20earn%20it%2C%20it%20is%20yours.)
+
+> "Money, on the other hand, can be completely anonymous, and in the form of cash, it’s supposed to be. A business selling a product doesn’t care WHO paid, just HOW MUCH was paid. The accounting required for money vs. reputation is quite different. Also, reputation currencies revolve around relationship where money does not." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Money%2C%20on%20the,money%20does%20not.)
+
+> "Think about it, my credit rating (reputation) affects my cost and availability of money. My college degree (reputation) affects what I get paid (monetary). My grades (performance) affect whether I get credit (unit of account) for a course. There are so many ways that different types of currencies can be woven together to create powerful connections and reinforcing relationships. This is really the uncharted frontiers of creativity." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Think%20about%20it,frontiers%20of%20creativity.)
+
+> "If I vouch for someone, it should NOT be like spending reputation like lowering my balance, however, there should be a consequence, whether positive or negative, to the person’s performance. If they perform well, then my reputation should actually INCREASE for choosing to vouch well. If they perform poorly, my reputation should diminish." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=If%20I%20vouch,reputation%20should%20diminish.)
+
+> "Imagine you wanted to design reputation currencies for eBay. Instead of a single unscaled total of positive or negative feedback points, think of how much more useful it would be to know these things, most of which can be tracked from system activity rather than end-user feedback:
+>
+> Sample reputation for an eBay seller:
+>
+> - How long account has been active, & total # sales
+>
+> - % Successful sales (# delivered sales / # total sales)
+>
+> - Avg. days to receive item (from shipping tracking data)
+>
+> - Avg. Rating (1-5) received for “as advertised”
+>
+> - % of transactions requiring problem resolution
+>
+> Sample reputation for an eBay buyer:
+>
+> - How long account has been active & total # bids won
+>
+> - % Successful Purchases (# bids paid / # bids won)
+>
+> - Avg. time to payment (in hours)
+>
+> - Avg. Rating (1-5) given for “as advertised”
+>
+> - % of transactions requiring problem resolution
+>
+> I think if you take a few moments to look at the kind of behaviors that tracking those reputational elements would incent, you might see it’s a heck of a lot better than “feedback extortion” (Threatening to give negative feedback if you receive negative feedback)." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Instead%20of%20a,receive%20negative%20feedback).)
+
+> "Reputation should not be traded. Ever. That’s not what it is for. It is bound to an identity and is only meaningful when it continues to be bound to that identity. If I can buy or spend reputation rather than earning it by performing in the way the reputation currency indicates, then it is a meaningless signal that has broken loose from any sense that the reputation is supposed to impart." - [Avoid Blunders in Designing Reputation Systems, by Arthur Brock](https://www.artbrock.com/2019/01/23/avoid-blunders-in-designing-reputation-systems#:~:text=Reputation%20should%20not,supposed%20to%20impart.)
+
+> "Globally, politics polarizes around that tension: conservative vs. progressive. This is a false choice. Both are mandatory. It doesn’t matter whether we like it or not. When the world around you is changing, and that change is accelerating, the question is never whether to change or stay the same. The questions we must confront are: 1) What changes are vital? (to survival and goals), and 2) How do we implement those changes in a way that doesn’t destroy the integrity of what works? Selecting a conservative vs. a progressive candidate is a false choice that we are forced to make because of broken architectures of governments." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=Globally%2C%20politics%20polarizes,architectures%20of%20governments.)
+
+> "We have politicians without the right expertise, with inherent conflicts of interest by who they have please to keep getting campaign funds, who can’t possibly represent the complexity of their constituency, and are elected by association with ideological simplifications … and we pretend there’s a chance of good governance from this setup." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=We%20have%20politicians,from%20this%20setup.)
+
+> "As the U.S. economy has been transitioning into information age dynamics, it gets harder to even maintain the appearance of relevance. The bureaucracy simply doesn’t have the throughput to keep up with the increased complexity of issues and the pace that the world is changing." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=As%20the%20U,world%20is%20changing.)
+
+> "The cells in our body figured out how to do extremely sophisticated self-governance on scales of trillions. Fully P2P governance. No cell is President or Dictator of the system. If cells can do it, we can too." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=the%20cells%20in,we%20can%20too.)
+
+> "We have to oversimplify issues for people to understand them. Our reasoning is impaired by hundreds of cognitive biases. We say and do things to be accepted by our peers and groups, and let our need for acceptance or preoccupation with immediate desires overshadow our ability to perceive things rationally. We’ve been perfecting the manipulation of people using human irrationality for many decades. Advertising firms use it to make you buy junk. Political campaigns use it to alienate you from opponents, or mobilize people with angering ballot initiatives." - [Challenging Broken Assumptions of Governance, by Arthur Brock](https://www.artbrock.com/2017/02/11/challenging-broken-assumptions-of-governance#:~:text=We%20have%20to,angering%20ballot%20initiatives.)
+
+> "What if the game wasn’t just “one person, one vote” which is rooted in equalizing the power of your vote or your voice, but was instead about finding the highest wisdom or best path? To achieve that, we might have to recognize different people bring different skills, knowledge, competencies, and figure out how to optimize everyone’s unique contribution." - [Challenging Broken Assumptions of Governance, by Arthur Brock](https://www.artbrock.com/2017/02/11/challenging-broken-assumptions-of-governance#:~:text=What%20if%20the,everyone%E2%80%99s%20unique%20contribution.)
+
 
 
 > "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
@@ -6735,9 +6796,30 @@ https://80000hours.org/career-guide/
 >
 > Once it is in place, democratic members lack the means to displace the oligarchy. It would require coordination that democracies simply don’t have. Additionally, the oligarchy won out as the most effective structure due to its strategic capabilities. For this reason, in any formally democratic organization, power will always slowly disperse away from members and into the hands of an elite." - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/daos-and-the-iron-law-of-oligarchy#:~:text=The%20cycle%20from,of%20an%20elite.)
 
+> "Celebrity is to society as sex is to biology, Pirsig says. Celebrity is what forms and moves the culture. While it’s a force in societal evolution, it doesn’t do much for intellectual evolution. Look at some of the people most followed in the world on social media. Justin Beiber. Kim Kardashian. Ariana Grande. Incredible entrepreneurs and movement builders, but not intellectuals." - [On Celebrity - Why living in public is worse for you, but better for others, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-celebrity#:~:text=Celebrity%20is%20to,but%20not%20intellectuals.)
+
+> "The greatest ambition is to make the truth popular. We need the most useful ideas to learn all the arts of populism. It may be idiotic and lamentable that this is what human nature tends to be like. But since it is what human nature tends to be like, rejecting it is not a useful option. Anyone who seeks to protect the truth from vulgarization is, in effect (though with noble intentions), guaranteeing that it cannot be powerful in the world.”
+>
+> There’s also a weird paradox here. There’s a war of ideas. If wise people’s thoughts don't spread, other’s thoughts will. And the people who want their ideas to spread the most are rarely the ones who should be spreading ideas. 
+>
+> So. The tradeoff isn’t just between a rich inner life and an influential external one, it’s between a private life and having the future of our morals lie in the hands of those who shouldn’t be guiding them." - [On Celebrity - Why living in public is worse for you, but better for others, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-celebrity#:~:text=The%20greatest%20ambition,be%20guiding%20them.)
+
+> "The left is deluded in thinking that any differences in outcomes is due to discrimination. The right is deluded in thinking that everyone has the same potential and it’s just a matter of effort or “personal responsibility”." - [People are Different, by Erik Torenberg](https://eriktorenberg.substack.com/p/people-are-different#:~:text=The%20left%20is%20deluded%20in%20thinking%20that%20any%20differences%20in%20outcomes%20is%20due%20to%20discrimination.%20The%20right%20is%20deluded%20in%20thinking%20that%20everyone%20has%20the%20same%20potential%20and%20it%E2%80%99s%20just%20a%20matter%20of%20effort%20or%20%E2%80%9Cpersonal%20responsibility%E2%80%9D.)
+
+> "We should try to raise the floor, and we should take a holistic way of doing that, including encouraging everyone to study the habits that successful communities have adopted, instead of just blaming disparities on discrimination. We should also accept that inequality is the natural state of the world, and any program meant to equalize outcomes is dead on arrival. By accepting that (and studying why) people are different, we can achieve a proper balance between social mobility and hierarchy, between nature and nurture, between what we can change and what we can’t — and deploy our dollars and set our expectations accordingly. By refusing to admit that individual decisions and cultural values make a difference, we’re actually hurting the communities we claim to serve, alienating them from their agency. It might feel kind, but it’s anything but." - [People are Different, by Erik Torenberg](https://eriktorenberg.substack.com/p/people-are-different#:~:text=We%20should%20try,it%E2%80%99s%20anything%20but.)
+
+> "" - [, by Erik Torenberg]()
+
+> "" - [, by Erik Torenberg]()
 
 
 
+
+
+> "Rather than reject the notion of popularity, we should pay close attention to how things get to be popular and try to see how more helpful ideas could be embraced with equally widespread enthusiasm." - [Alain de Botton](https://www.vox.com/conversations/2017/4/29/15468242/9-questions-alain-de-botton-popular-culture-philosophy-humanities#:~:text=Rather%20than%20reject%20the%20notion%20of%20popularity%2C%20we%20should%20pay%20close%20attention%20to%20how%20things%20get%20to%20be%20popular%20and%20try%20to%20see%20how%20more%20helpful%20ideas%20could%20be%20embraced%20with%20equally%20widespread%20enthusiasm.)
+
+
+> "The universe has a direction and we are meant to participate in it. Not because it’s the “right” thing to do from an abstract, moralistic perspective, but because it’s the “optimal” thing to do from an evolutionary and cognitive perspective." - [Brett Andersen](https://brettandersen.substack.com/p/human-beings-were-selected-for-non#:~:text=the%20universe%20has%20a%20direction%20and%20we%20are%20meant%20to%20participate%20in%20it.%20Not%20because%20it%E2%80%99s%20the%20%E2%80%9Cright%E2%80%9D%20thing%20to%20do%20from%20an%20abstract%2C%20moralistic%20perspective%2C%20but%20because%20it%E2%80%99s%20the%20%E2%80%9Coptimal%E2%80%9D%20thing%20to%20do%20from%20an%20evolutionary%20and%20cognitive%20perspective.)
 
 
 
