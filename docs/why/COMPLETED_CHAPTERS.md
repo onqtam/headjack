@@ -67,6 +67,8 @@ God is transparent. God is light. God is the sun
 
 God is our civilization
 
+God is the totality of human relationality - the glue that binds us together
+
 As long as there’s an argument to have a CIA we’ve not reached sustainability.
 
 God is a mechanism and a direction. God is alignment. God is consequence capture. God is integrated information. God is connectedness. God is consciousness.

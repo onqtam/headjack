@@ -6,7 +6,7 @@ reclamation costs have been outsourced to the public in the form of "recycling"
 https://www.youtube.com/watch?v=4XP-BBGMCNs
 Coke Knew Their Plastic Would Trash the Planet…And Did It Anyway
 
-
+why do they make packaging that's impossible to reuse/recycle and is composed of multiple different types of material?
 
 
 
@@ -1588,6 +1588,10 @@ Problems with democracy and voters:
 
 > "The irrationality of voters inherent in democracies can be explained by two major behavioral and cognitive patterns. Firstly, most of the voters think that the marginal contribution of their vote will not make a difference on election outcomes; therefore, they do not find it useful to inform themselves on political matters. In other terms, due to the required time and effort of acquiring new information, voters rationally prefer to remain ignorant. Moreover, it has been shown that most citizens process political information in deeply biased, partisan, motivated ways rather than in dispassionate, rational ways. This psychological phenomenon causes voters to strongly identify themselves with a certain political group, specifically find evidence to support arguments aligning with their preferred ideological inclinations, and eventually vote with a high level of bias." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=The%20irrationality%20of,level%20of%20bias.)
 
+> "Supporters of noocracy see a greater danger in the fact that politicians will actually prefer to implement the policy decisions of citizens to win elections and stabilize their power, without paying particular attention to the content and further outcomes of these policies. In democracies, the problem is that voters are prone to make bad policy decisions and therefore that politicians are incentivized to implement these policies due to personal benefits." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=supporters%20of%20noocracy,to%20personal%20benefits.)
+
+> "Christiano proposes a ruling system based on division of political labor, in which citizens set the agenda for political discussions and determine the aims of the society, whereas legislators are in charge of deciding on the means to achieve these aims. For noocrats, transferring the decision-making mechanism to a body of specifically trained, specialized and experienced body is expected to result in superior and more efficient policy outcomes." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Christiano%20proposes%20a,efficient%20policy%20outcomes.)
+
 > "Singapore has a political system that favors meritocracy; the path to government in Singapore is structured in such a way that only those with above-average skills are identified with strict university-entrance exams, recruiting processes, etc., and then rigorously trained to be able to devise best the solutions that benefit the entire society. In the words of the country's founding father, Lee Kuan Yew, Singapore is a society based on effort and merit, not wealth or privilege depending on birth. This system primarily works due to citizens’ belief that political leaders tend to have a better understanding of country's long-term plans than themselves; therefore, as they see positive policy outcomes, they tend to go along with the system, rather than complain about the meritocratic dimensions." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Singapore%20has%20a,the%20meritocratic%20dimensions.)
 
 > "" - [Noocracy, Wikipedia]()
@@ -1596,7 +1600,62 @@ Problems with democracy and voters:
 
 > "" - [Noocracy, Wikipedia]()
 
+> "" - [Noocracy, Wikipedia]()
+
+
+
+> "" - [Meritocracy, Wikipedia]()
+
+> "" - [Meritocracy, Wikipedia]()
+
+> "" - [Meritocracy, Wikipedia]()
+
+> "" - [Meritocracy, Wikipedia]()
+
+
+
 One big problem with meritocracy/epistocracy/technocracy/noocracy is that we've been unable to compute the reputation objectively for accountability. They've been often criticised as idealistic/unrealistic and flawed but that's because we haven't had a reliable mechanism to surface competence together with accountability. Proxies such as accreditation have proven bad.
+
+
+> "What is a Meritocracy? The holding of power by people selected on the basis of their ability." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=What%20is%20a,of%20their%20ability.)
+
+> "A meritocracy (in theory) is where we judge people on the basis of their individual abilities rather than their position in the social hierarchy or their family connections. For most of human history, we have not lived in anything resembling a meritocracy. Until recently, the most important institution in society was the family. You inherited your position and defined your identity as a member of a family. As a result, society was much more static than it is now. Social mobility was low, and all that mattered was who you knew. You didn’t get jobs on merit –  they were regarded as things that people owned and could pass down to their children. What meritocracy did was create a new kind of aristocracy. The only alternative to the aristocracy of land and inheritance was to replace it with an aristocracy of virtue and talent." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=A%20meritocracy%20(in,virtue%20and%20talent.)
+
+> "The strongest criticism of meritocracy is not that there's something bad about the idea of putting the best people in charge. The critique is that the best people are not in charge... The ruling elite aren’t actually the best, they just got lucky or won thanks to kleptocracy." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=The%20strongest%20criticism,thanks%20to%20kleptocracy.)
+
+> "It was always tricky to discern talent and effort from parents and social class and environment. To unbundle what's in your control (merit) from what isn't (circumstance). Which leads to irresolvable conflict over who's the "best" & who "earns" it. In one sense it’s a fair process in that, in a successful meritocracy, whoever’s the best, should get it. But in another sense it’s unfair in that people didn’t get the same chance. Because of biological or cultural factors, or just sheer luck, not everyone had the same starting line. And this is the fatal flaw of the term meritocracy — it is about who wins the race but, in its quest to be fair, implies there’s an equal starting line." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=it%20was%20always,equal%20starting%20line.)
+
+> "And if we don’t literally mean *equality* of opportunity, let’s just say “sufficient opportunity for all”, meaning we focus on constantly expanding absolute opportunity, without focusing on relative opportunity. Indeed, we should focus on expanding opportunity for all, we should focus on equal treatment under the law for all." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=And%20if%20we,law%20for%20all)
+
+> "Everything you love is a result of inequality. When you seek a mate, do you want someone who is exactly average, just like everyone else, or do you want someone who is special? When you have kids, do you want them to have the same life outcomes as every other kid in the world, or do you want them to do better than that? When you have a job, do you aspire to turn in absolutely average performance, to be careful not to ever exceed the performance of your peers? Or do you aspire to do the best you can, even if that means you do better than your peers? Is it moral to want the best surgeon, the best teachers, or the best spouse to raise a family with?" - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=Everything%20you%20love,a%20family%20with%3F)
+
+> "Belief in an aristocracy of talent is self-fulfilling. If people believe the best people can rise up, and that effort impacts outcomes, they’ll work for it. Which is why threading this needle matters: The best people should be in charge, via a transparent process where anyone can prove they’re the best, but also accepting that people had different opportunities to begin with. In other words, we’re all running the same race, but at different starting lines. And that’s OK. Let’s try to move up everyone’s starting lines, without trying to hold anyone back, and more importantly, let’s try to maximize how far everyone can go." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=Belief%20in%20an,everyone%20can%20go.)
+
+> "The quality of a meritocracy is a product of (1) the team of people and (2) the way those people interact with each other. A meritocracy (and the business itself) is ultimately judged by its (3) outcomes (i.e., performance relative to goals). We spend time defining and measuring the effectiveness of our team and our interactions because we believe that they drive the outcomes on which the company depends directly and that they also drive our outcomes over the longer-term." - [Bridgewater’s Idea Meritocracy](https://www.bridgewater.com/culture/bridgewaters-idea-meritocracy#:~:text=The%20quality%20of,the%20longer%2Dterm)
+
+> "We are aiming for interactions that get the best out of individuals and the team, with truth and a deep desire to excel at their core. We think great leadership in this context is lots of “people in the arena”, meaning people who will relentlessly pursue truth wherever it takes them and who are totally unwilling to be on the sidelines. This means they are: (1) speaking up and exposing their honest thoughts and willing to be wrong, (2) unafraid to be transparent about their stumbles, imperfections, and decision-making and, (3) seeking to find the best ideas and get the most out of others through deliberate inclusion." - [Bridgewater’s Idea Meritocracy](https://www.bridgewater.com/culture/bridgewaters-idea-meritocracy#:~:text=We%20are%20aiming,through%20deliberate%20inclusion.)
+
+> "The more unsure you are and the more assumptions you’re making, the more important it is to engage with curiosity rather than starting with assertions or certainty. In a meritocracy, greatness isn’t being the best debater, winning the most arguments, or personally having the right answer most often. It’s being honest about what you truly think while engaging with deep humility and the intent to learn, and in doing so increasing the probability of the team succeeding. Every member of the community has a responsibility to be honest and direct, and we expect a constant flow of feedback in all directions. It is most critical that feedback flow from those with less power to those with more, not because those with less power should bear the greatest burden, but because there are relatively more challenges to feedback moving in that direction — everything from power dynamics to frequency of interaction. In line with that everyone, but most especially leaders, has a responsibility not just to solicit honesty from others, but to assess whether that’s actually happening across all levels and if not, to diagnose why." - [Bridgewater’s Idea Meritocracy](https://www.bridgewater.com/culture/bridgewaters-idea-meritocracy#:~:text=The%20more%20unsure,to%20diagnose%20why.)
+
+> "Transparency includes everything from exposing the logic of decisions, to putting light on mistakes, to giving feedback publicly, and more. By and large, you should start from the place that more light is better." - [Bridgewater’s Idea Meritocracy](https://www.bridgewater.com/culture/bridgewaters-idea-meritocracy#:~:text=Transparency%20includes%20everything%20from%20exposing%20the%20logic%20of%20decisions%2C%20to%20putting%20light%20on%20mistakes%2C%20to%20giving%20feedback%20publicly%2C%20and%20more.%20By%20and%20large%2C%20you%20should%20start%20from%20the%20place%20that%20more%20light%20is%20better)
+
+> "Focusing on outcomes increases the probability of a good design because it forces you to evaluate whether the team and interactions are sufficient to achieve what you want. It also creates more entrepreneurialism, innovation, and pushes people out on the risk curve as incentives align and teams come together and interact around a shared destination and value creation." - [Bridgewater’s Idea Meritocracy](https://www.bridgewater.com/culture/bridgewaters-idea-meritocracy#:~:text=Focusing%20on%20outcomes,and%20value%20creation.)
+
+
+
+> "" - [‘Binding Chaos’: a vision for a compassionate society]()
+
+> "" - [‘Binding Chaos’: a vision for a compassionate society]()
+
+> "" - [‘Binding Chaos’: a vision for a compassionate society]()
+
+> "" - []()
+
+> "" - []()
+
+
+
+
 
 
 
@@ -6810,9 +6869,21 @@ https://80000hours.org/career-guide/
 
 > "" - [, by Erik Torenberg]()
 
-> "" - [, by Erik Torenberg]()
 
 
+> "The very structure of these games is that you have to do illicit things to win, guaranteeing that the winners will be under the control of the powerbrokers that helped them on the way up. These systems guarantee corruption: corruption is the desired product of the system, because corruption allows for stable, durable, secret extra-judicial control: to have power from the sidelines, even to rule, without any oversight." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=the%20very%20structure,without%20any%20oversight.)
+
+> "So the UN lays out the Sustainable Development Goals. 17 priorities, because hey, that’s a round number right?
+>
+> Designed by committee, self-contradictory, and without any actual unified idea of how things are going to get done. There’s no actual plan to reach these goals, there are no costed spreadsheets and draft legislation stuff. They’re working on it across ten thousand forums. It’s a grab-bag wish list of nice to haves, some of which are necessary to human survival, and some of which are just passing cultural fads. Needless to say, as a compromise product of the global elites, the SDGs are mired in quid-pro-quos two miles deep and sixty meters wide. Everything about them is filthy horse traded compromises, as bad as putting torture regimes on rights panels, a perennial UN favourite.
+>
+> So what would the SDG goals look like done right? If we actually think clearly, rather than trying to gather support through an endless sequence of committees, what is the actual essential universal goal of human life that we can rally everybody around? How do we create a universal design language for working with the future, something which can allow people to come together around a table, in a new light, and solve cooperation problems which are currently insoluble. It’s not a list of 17 global todos." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=So%20the%20UN,17%20global%20todos.)
+
+> "We should stop exploiting each-other’s children and taking away their futures." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=We%20should%20stop%20exploiting%20each%2Dother%E2%80%99s%20children%20and%20taking%20away%20their%20futures.)
+
+> "Civilisation is the pact between adults to make a place to take better care of our children." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=Civilisation%20is%20the%20pact%20between%20adults%20to%20make%20a%20place%20to%20take%20better%20care%20of%20our%20children.)
+
+> "It is as if man had been suddenly appointed managing director of the biggest business of all, the business of evolution—appointed without being asked if he wanted it, and without proper warning and preparation. What is more, he can’t refuse the job. Whether he wants to or not, whether he is conscious of what he is doing or not, he is in point of fact determining the future direction of evolution on this earth. That is his inescapable destiny, and the sooner he realizes it and starts believing in it, the better for all concerned..." - [Transhumanism, by Julian Huxley](https://www.consciousevolution.co.uk/blog/what-is-an-evolutionary#:~:text=It%20is%20as,for%20all%20concerned.%20.%20.%20.)
 
 
 
@@ -7943,7 +8014,7 @@ https://www.youtube.com/watch?v=n5ECz1YK30M
 >
 > • Combine the above with a superhuman capacity to access and use all of the information currently anywhere on the internet (including the many many hacked databases floating around the “darknet”) to produce a level of “social hacking technology” far beyond what we have thus far seen. 
 >
-> Our existing sensemaking systems, built almost entirely in and for an analog environment, simply aren’t up to this threat. Moreover, in the context of our local culture wars and the larger geopolitical unipolar/multipolar struggle, there is already a tremendous amount of effort put towards controlling the frame, shaping the narrative and winning memetic / network wars. All in, as John says, we may find ourselves in downward spiral, losing access to any grasp of “what is real” beyond the reach of our physical environment. " - [The Meta-Crises and Digital Identity, by Jordan Hall](https://deepcode.substack.com/p/the-meta-crises-and-digital-identity#:~:text=Soon%2C%20perhaps%20as,our%20physical%20environment.)
+> Our existing sensemaking systems, built almost entirely in and for an analog environment, simply aren’t up to this threat. Moreover, in the context of our local culture wars and the larger geopolitical unipolar/multipolar struggle, there is already a tremendous amount of effort put towards controlling the frame, shaping the narrative and winning memetic / network wars. All in, as John says, we may find ourselves in downward spiral, losing access to any grasp of “what is real” beyond the reach of our physical environment." - [The Meta-Crises and Digital Identity, by Jordan Hall](https://deepcode.substack.com/p/the-meta-crises-and-digital-identity#:~:text=Soon%2C%20perhaps%20as,our%20physical%20environment.)
 
 > "The solution to to the AI problem grounds out in three specific capabilities:
 >
@@ -7953,7 +8024,7 @@ https://www.youtube.com/watch?v=n5ECz1YK30M
 >
 > 3. We must be able to durably attach trust and permissions to virtual/digital identities that provably are tied to the same real identity over time. For example, if I trust you, I have to be certain that the next time I interact with the identity that I associate with you, that it really is still you (i.e., it hasn’t been stolen or sold).
 >
-> In other words, the solution to the problem of AI deep fakes is digital identity. And so, with AI providing the emergency necessary to force everyone’s hand, the question of who owns the design and governance of digital identity is now quite present. The game is afoot. " - [The Meta-Crises and Digital Identity, by Jordan Hall](https://deepcode.substack.com/p/the-meta-crises-and-digital-identity#:~:text=The%20solution%20to,game%20is%20afoot.)
+> In other words, the solution to the problem of AI deep fakes is digital identity. And so, with AI providing the emergency necessary to force everyone’s hand, the question of who owns the design and governance of digital identity is now quite present. The game is afoot." - [The Meta-Crises and Digital Identity, by Jordan Hall](https://deepcode.substack.com/p/the-meta-crises-and-digital-identity#:~:text=The%20solution%20to,game%20is%20afoot.)
 
 > "In a very deep sense, architecture really is destiny." - [The Meta-Crises and Digital Identity, by Jordan Hall](https://deepcode.substack.com/p/the-meta-crises-and-digital-identity#:~:text=in%20a%20very%20deep%20sense%2C%20architecture%20really%20is%20destiny.)
 
