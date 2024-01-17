@@ -69,6 +69,10 @@ God is our civilization
 
 God is the totality of human relationality - the glue that binds us together
 
+> "God is a human invented symbol is my belief - it's our most powerful symbol - it carries with it awe, reverence, respect. I propose to steal it with love." - [Stuart Kauffman](https://youtu.be/EjQCaC7JSMY?t=3931)
+
+> "We no longer need the Creator God - we just need creativity." - [Gordon Kaufman](https://youtu.be/EjQCaC7JSMY?t=4035)
+
 As long as there’s an argument to have a CIA we’ve not reached sustainability.
 
 God is a mechanism and a direction. God is alignment. God is consequence capture. God is integrated information. God is connectedness. God is consciousness.

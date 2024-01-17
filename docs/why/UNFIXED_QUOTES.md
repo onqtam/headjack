@@ -55,6 +55,14 @@
 
 ^^ 56:45 till 1:03:27
 
+> "To the extent that we as a species or as a community or as a nation any fractal scale you want to choose in this emergent structure to the extent that we are incapable of emergent cooperation you will see the coordinative gap or lack made up for with coercion right so if we cannot cooperate at the scale of interaction that we have attained it will manifest as coercion filling that Gap." - [Matthew Pirkowski](https://youtu.be/L9e3Vn_WZ9c?t=2026)
+
+> "The kind of infrastructure that we're building that we call trustless infrastructure is doing something similar where we're basically trying to take a lot of the previous types of interactions that would have required trust and we're trying to put them into a domain where we can no longer we don't have to worry about whether they're trustworthy or not and we can move to a higher level of the game of cooperation where we can coordinate at a higher level while depending on that previous infrastructure for stability and to not require trust." - [Matthew Pirkowski](https://youtu.be/L9e3Vn_WZ9c?t=2219)
+
+> "We fundamentally require infrastructure that allows us to to bring out the best angels of our nature to plan with one another in ways that are resilient that allow us to overcome our Tendencies toward distraction and our Tendencies towards Temptation and actually you know that's a prerequisite of doing anything over longer time horizons with lower time preferences and that infrastructure that allows us to move certain things that required some of that trust energy into an automated space frees up energy in that space of scarce energy for us to invest more in Low Time preference cooperation." - [Matthew Pirkowski](https://youtu.be/L9e3Vn_WZ9c?t=2365)
+
+> "Every system needs an immune system because the blight will always be there and I have the expression fight the blight the blight being the perfectly reasonable game theoretical tendency for people to cheat if they can get away with it right everything from nepotism to financial embezzlement to to coercion of sexual favors from employees every system that has humans in it the blight is looking for a way to get to work and if you don't design to fight the blight you're going to end up infected and collapsing or at least be grossly sub optimized so don't ever don't ever think that things will ever be uniformly good because the blight will ratchet up but it is our job to make the system more and more blight resistant." - [Jim Rutt](https://youtu.be/L9e3Vn_WZ9c?t=2826)
+
 > "If you do this homogenization if you get right and you've got what he when he he lumped the two together in terms of this process he called bureaucratization that everything is everything is becoming bureaucratic and he said exactly what jordan said you get the intoxicating salience of the manifest function that says look at how rapidly we can get things in order and get things running but what you have is the latent function the latent functionality is right all that calming stuff all that persons and community stuff doesn't go away but what it does is it gets subverted and undermined so a concrete example is the bureaucracy has the manifest function right of making everything ordered but it has the latent function of diffusing responsibility and shifting blame so that people cease to be listen please they cease to be persons within community and kafka gets that and he holds it up in art and he says luck luck look he keeps doing that again and again and again." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1918)
 
 > "Our super wealthy and our institutional class do not deserve the word elite we're talking about a world without an elite which is much more terrifying than a world with an elite i i don't even understand who these people are they have an idea that they're going to escape the apocalypse that they're working to bring about by moving to another country maybe they don't understand the way the atmosphere works or like radioactive particles should there be an exchange i think we have to consider the idea that the people that are referred to as the elite are actually missing a few cards from their decks they're not intellectually capable of understanding the world that they're about to bring into reality." - [Eric Weinstein](https://youtu.be/nz7cheVQ15w?t=1313)
@@ -68,3 +76,27 @@
 > "Children allow us to care as atheists about the world after we die i i seldom meet a hardcore atheist with kids who's also a solipsist and says yeah i don't care what happens to my children when when it's over for me it's lights out for the world we have to care about the world after our deaths and i think we are becoming a legion of assholes who don't." - [Eric Weinstein](https://youtu.be/nz7cheVQ15w?t=3276)
 
 > "I don't know what people mean when they say this is settled science i don't know what they mean that we know this and we have this many years all of these super crisp statements are taking place in an interface between actual science and policy and you find this in economics you find this in epidemiology and virology you find this in climate somebody will say i appreciate that you fancy boys in in the uh ivory towers uh and you ladies and gentlemen in the halls of congress don't speak the same language how do we get the crisp statement so that we can act and then you have to lie you know we have 15 years before we reach the tipping point how we spend those 15 years will determine the fate of the universe okay i get it you want to do the heavy breathing thing and it's making science have an effect in washington dc we need people in congress who can actually solve equations we need technical people and what we've got is a we've got like lawyers and rich people and we need smart people we need lots send more smart people make them rich and get the f out of the labs we need our smart people to be our leaders our technical people." - [Eric Weinstein](https://youtu.be/nz7cheVQ15w?t=3470)
+
+> "We have to reintegrate our entire humanity in a way no civilization has ever done." - [Stuart Kauffman](https://youtu.be/EjQCaC7JSMY?t=2912)
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
+
+> "" - [Stuart Kauffman]()
