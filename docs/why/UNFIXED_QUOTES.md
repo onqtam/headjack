@@ -83,22 +83,8 @@
 
 ^^ 1:15:20 till 1:18:10
 
-> "" - [Stuart Kauffman]()
+> "" - []()
 
-> "" - [Stuart Kauffman]()
+> "" - []()
 
-> "" - [Stuart Kauffman]()
-
-> "" - [Stuart Kauffman]()
-
-> "" - [Stuart Kauffman]()
-
-> "" - [Stuart Kauffman]()
-
-> "" - [Stuart Kauffman]()
-
-> "" - [Stuart Kauffman]()
-
-> "" - [Stuart Kauffman]()
-
-> "" - [Stuart Kauffman]()
+> "" - []()
