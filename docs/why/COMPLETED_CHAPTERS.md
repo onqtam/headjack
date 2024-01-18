@@ -68,6 +68,10 @@ God is transparent. God is light. God is the sun
 God is our civilization
 
 God is the totality of human relationality - the glue that binds us together
+interconnectedness, relations, intentions, hopes and dreams
+
+God is the alignment protocol
+God is the conscious alignment protocol
 
 > "God is a human invented symbol is my belief - it's our most powerful symbol - it carries with it awe, reverence, respect. I propose to steal it with love." - [Stuart Kauffman](https://youtu.be/EjQCaC7JSMY?t=3931)
 
