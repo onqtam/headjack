@@ -10,6 +10,11 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 
 
 
+> "The amount of valuable information stuck in people’s heads about people, products, and companies that would influence investment decisions, purchasing decisions, and hiring/joining decisions is massive." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1746738383127503255)
+
+https://twitter.com/eriktorenberg/status/1748056677449138500
+^^ this but with ZK
+
 
 > "Do not create your reputation system as if it is a monetary system. You do not spend or trade reputation. Once you earn it, it is yours." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=do%20not%20create%20your%20reputation%20system%20as%20if%20it%20is%20a%20monetary%20system.%20You%20do%20not%20spend%20or%20trade%20reputation.%20Once%20you%20earn%20it%2C%20it%20is%20yours.)
 
