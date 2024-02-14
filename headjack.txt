@@ -1,5 +1,9 @@
 
 
+
+
+
+
 What if we did to mass consumer product packaging what the container did to shipping? How do we reuse our packaging more - even across companies & their product lineups?
 Convenience packaging... replacing a depositing system and reusable bottles (deposit 40% of a coke bottle which u get back when u return the bottle)
 reclamation costs have been outsourced to the public in the form of "recycling"
@@ -8,6 +12,11 @@ Coke Knew Their Plastic Would Trash the Planet…And Did It Anyway
 
 why do they make packaging that's impossible to reuse/recycle and is composed of multiple different types of material?
 
+
+> "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words." - [Ursula K. Le Guin](https://www.goodreads.com/quotes/3238058-we-live-in-capitalism-its-power-seems-inescapable-so-did)
+
+
+> "We human beings are still divided into nation states, but these states are rapidly becoming a global civilization…We are attempting to survive our time so we may live into yours. We hope, some day, having solved the problems we face, to join a community of galactic civilizations." - [Message for extra-terrestrial life inscribed on the Golden Record aboard the Voyager One space probe in 1977](https://www.linkedin.com/pulse/evolving%2Dthrough%2Dbottleneck%2Drobert%2Dcobbold%2D1qgpe/#:~:text=We%20human%20beings%20are%20still%20divided%20into%20nation%20states%2C%20but%20these%20states%20are%20rapidly%20becoming%20a%20global%20civilization%E2%80%A6We%20are%20attempting%20to%20survive%20our%20time%20so%20we%20may%20live%20into%20yours.%20We%20hope%2C%20some%20day%2C%20having%20solved%20the%20problems%20we%20face%2C%20to%20join%20a%20community%20of%20galactic%20civilizations.)
 
 
 > "The amount of valuable information stuck in people’s heads about people, products, and companies that would influence investment decisions, purchasing decisions, and hiring/joining decisions is massive." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1746738383127503255)
@@ -242,7 +251,13 @@ https://stackoverflow.com/help/privileges
 >
 > Thus the primary questions within this time of extreme phenomenological transformation concern the kinds of structures that we may build from the fragments of prior stratified forms, namely: how might we create modes of communication–novel inter-perspectival grammars–capable of sparking cooperation amongst the different clusters of survivors, otherwise adrift and on the clock?" - [On The Phenomenology of Hyper-Connectivity, by Matthew Pirkowski](https://medium.com/@matthewpirkowski/on-the-phenomenology-of-hyper-connectivity-b04d7d191129#:~:text=we%20may%20view,on%20the%20clock%3F)
 
+> "The Efficient Grift Hypothesis - Every moral hazard introduced will be exploited. One may question the degree of exploitation or the acceptability of entailed consequences, but not the base reality that it will occur. Those who say otherwise are either in on the grift, or a naive pawn of those in on the grift." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1681718324080816130)
 
+> "It blows my mind how few people in the business world presently see the value of tools capable of modeling and emulating the real time evolution of their causal domain in probabilistic terms, including the way in which their own actions are likely to change the playing field. They're so used to being spoon fed extremely reductive and lagging graphs and charts in .ppt format as reasonable models of their world, that the idea of continuous Socratic interaction with a "living" model comes across as an utterly alien value proposition. And yet that's exactly where things are heading..." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753188223529230376)
+
+> "If there's any hope for forms of meaningful and effective bottom-up governance in the 21st century, it does not lie within the mechanisms of representative democracy created almost 3 centuries ago." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753161324430037054)
+
+> "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
 
 
 > "Things which matter most must never be at the mercy of things which matter least." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy)
@@ -336,7 +351,31 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 > "With the invention of the clock, Eternity ceased to serve as the measure and focus of human events." - [Neil Postman](https://www.goodreads.com/quotes/594270-with-the-invention-of-the-clock-eternity-ceased-to-serve)
 
+> "By bringing together in compact form all the arts of show business-music, drama, imagery, humor, celebrity-the television commercial has mounted the most serious assault on capitalist ideology since the publication of Das Kapital. To understand why, we must remind ourtselves that capitalism, like science and liberal democracy, was an outgrowth of the Enlightenment. Its principal theorists, even its most prosperous practitioners, believed capitalism to be based on the idea that both buyer and seller are sufficiently mature, well informed and reasonable to engage in transactions of mutual self-interest." - [Neil Postman](https://www.goodreads.com/quotes/11011375-by-bringing-together-in-compact-form-all-the-arts-of)
 
+
+
+> "No man should escape our universities without knowing how little he knows." - [J. Robert Oppenheimer](https://www.goodreads.com/quotes/214009-no-man-should-escape-our-universities-without-knowing-how-little)
+
+> "We thought we might start a chain reaction that would destroy the entire world... I believe we did." - [J. Robert Oppenheimer, from the movie](https://www.imdb.com/title/tt15398776/quotes/?item=qt6977002&ref_=ext_shr_lnk)
+
+
+> "" - [Jonathan Pageau]()
+
+> "" - [Jonathan Pageau]()
+
+> "" - [Jonathan Pageau]()
+
+
+> "Moral laundry - as GameA operates on long chains of opaque point-to-point transactions, we all have plausible deniability for bad things done in our name.  For example, the $1/day children mining cobalt and coltran at gun point in eastern Congo for our cell phones and EVs.
+>
+> To bring GameB into being from within GameA will require a moral awakening such that we are no longer willing to tolerate moral laundry on our behalf, even when it provides a material advantage." - [Jim Rutt](https://twitter.com/jim_rutt/status/1754876281148047809)
+
+
+
+> "The problem with the "copy other people's beliefs" algorithm is that it is vulnerable to false information cascades. And when a small but powerful adversarial group controls the seed point for many people's beliefs (such as being able to control the scientific process to output chosen falsehoods), you can end up with an entire society believing an absurd falsehood that happens to be very convenient for that small, powerful adversarial subgroup." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
+
+> "If you can manufacture the right social consensus, control the key nodes in our social epistemology-plex, you can get away with just about anything and nobody will care, except a few very determined contrarians. But I will not go gentle into that good night." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
 > "The essence of strategy is choosing what not to do." - [Michael Porter](https://www.azquotes.com/quote/234635)
 
