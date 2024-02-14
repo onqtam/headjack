@@ -13,11 +13,14 @@ draft: true
 - first 1k/10k indexes reserved & given with auctions/randomly to influential ppl
     - elon could get index 42 - the answer to the universe
 
-
 growth hack: show some badge who invited you to the network (and how many people you have invited) - perhaps with some referral link initially?
 
 Strategy: use platform APIs to link web2 platform accounts to a headjack account for a gradual transition - as an overlay
 Adapters for current web2 platforma - wrap actions in messages that point to the web2 platform?
+
+
+strategy: start it centralized !!! Emulate the blockchain !!!
+
 
 - the OAuth-like experience - a major selling point, web2 feel
 
@@ -44,6 +47,9 @@ the only web3 identity/social solution that can partner with OAuth/OpenID - and 
 
 - status
 Headjack - having a lower ID
+market emerge around FIDs (@farcaster_xyz IDs) on farquest
+https://twitter.com/winnielaux_/status/1754334062037074039
+
 
 Oauth as a partner
 

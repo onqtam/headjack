@@ -535,7 +535,16 @@ Farcaster blocktime - slow but very rarely needed
 
 on Nostr
 https://twitter.com/pippellia/status/1605970256807206912
+https://twitter.com/sethforprivacy/status/1752428095972298826
 
+
+!!!!!!!! READ THIS !!!!!!!!
+bluesky architecture
+Bluesky and the AT Protocol: Usable Decentralized Social Media
+https://arxiv.org/pdf/2402.03239.pdf
+
+
+Farcaster is a humble proof of concept for the value of open protocols around identity - but it is limited in terms of scale and a few other properties 
 
 
 In case an IDM or application is compromised (but not their keys - only the servers to some extent) it could invalidate all access tokens with a single compact range message - not individually
