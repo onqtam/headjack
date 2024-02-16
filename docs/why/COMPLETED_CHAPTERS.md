@@ -17,6 +17,11 @@ Harvard is a perverse concept
 # Protopia
 ██████████████████████████████████████████████████████████████████
 
+██████████████████████████████████████████████████████████████████
+# STONE TABLET IPFS CID HASH OF BOOK
+██████████████████████████████████████████████████████████████████
+
+The beauty of hash chains is that you can’t rewrite the past
 
 ██████████████████████████████████████████████████████████████████
 # God
@@ -35,6 +40,45 @@ https://en.wikipedia.org/wiki/God-shaped_hole
 god is the abstraction of social systems
 
 God is whats beyond the individual
+
+
+What if you could delegate your weights/votes not to identities but to entire weighted sets - gods?
+What if you could say “Amplify what my god thinks” - and then we can track the success rate of battling gods in the reputational battleground
+
+Your god is the morality you can point to
+
+This is the final step in the long arc of god’s evolution
+
+God is comprised of the intersection of all sub-gods in a polytheistic evolutionary landscape and the people who first bet on features of their sub-gods that eventually become part of that intersection will get rewarded
+
+> "Religion is in a word the system of symbols by means of which society becomes conscious of itself." - [Émile Durkheim](https://www.goodreads.com/quotes/9087439-religion-is-in-a-word-the-system-of-symbols-by)
+
+> "Man cannot become attached to higher aims and submit to a rule if he sees nothing above him to which he belongs." - [Émile Durkheim](https://www.goodreads.com/quotes/192485-man-cannot-become-attached-to-higher-aims-and-submit-to)
+
+> "It is society which, fashioning us in its image, fills us with religious, political and moral beliefs that control our actions." - [Émile Durkheim](https://www.goodreads.com/quotes/7867758-it-is-society-which-fashioning-us-in-its-image-fills)
+
+> "Society in general, simply by its effect on men's minds, undoubtedly has all that is required to arouse the sensation of the divine. A society is to its members what a god is to its faithful. A god is first of all a being that man conceives of as superior to himself in some respects and one on whom he believes he depends." - [Émile Durkheim](https://www.goodreads.com/quotes/11119241-society-in-general-simply-by-its-effect-on-men-s-minds)
+
+> "Thus we arrive at the following definition: A religion is a unified system of beliefs and practices relative to sacred things, that is to say, things set apart and forbidden—beliefs and practices which unite into one single moral community called a Church, all those who adhere to them." - [Émile Durkheim](https://www.goodreads.com/quotes/11943534-thus-we-arrive-at-the-following-definition-a-religion-is-a)
+
+> "A society whose members are united by the fact that they think in the same way in regard to the sacred world and its relations with the profane world, and by the fact that they translate these common ideas into common practices, is what is called a Church. In all history, we do not find a single religion without a Church." - [Émile Durkheim](https://www.azquotes.com/quote/1204111)
+
+> "Society is not a mere sum of individuals. Rather, the system formed by their association represents a specific reality which has its own characteristics... The group thinks, feels, and acts quite differently from the way in which its members would were they isolated. If, then, we begin with the individual, we shall be able to understand nothing of what takes place in the group." - [Émile Durkheim](https://www.azquotes.com/quote/541413)
+
+> "Man is only a moral being because he lives in society, since morality consists in solidarity with the group, and varies according to that solidarity. Cause all social life to vanish, and moral life would vanish at the same time, having no object to cling to." - [Émile Durkheim](https://www.azquotes.com/quote/541412)
+
+> "If religion has given birth to all that is essential in society, it is because the idea of society is the soul of religion." - [Émile Durkheim](https://www.azquotes.com/quote/968413)
+
+> "When morals are sufficient, law is unnecessary; when morals are insufficient, law is unenforceable." - [Émile Durkheim](https://www.azquotes.com/quote/825450)
+
+> "The totality of beliefs and sentiments common to the average members of a society forms a determinate system with a life of its own. It can be termed the collective or creative consciousness." - [Émile Durkheim](https://www.azquotes.com/quote/694219)
+
+> "" - [Émile Durkheim]()
+
+
+Michelangelo's ["The Creation of Adam"](https://en.wikipedia.org/wiki/The_Creation_of_Adam) depicts a [human brain behind God](https://en.wikipedia.org/wiki/The_Creation_of_Adam#Portrayal_of_the_human_brain) where he is held and uplifted by angels interwoven in their relationality. Coincidence?
+
+OMEGA POINT STUFF BY BOBBY AZARIAN GOES HERE
 
 we can create the god that binds us all in the most productive, positive and functional way
 
