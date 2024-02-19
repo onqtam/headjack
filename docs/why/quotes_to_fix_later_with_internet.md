@@ -52,6 +52,56 @@
 
 > "In representative democracy we have learned that people in general prefer to place their faith in leaders who are like them instead of leaders who are so expert they do not understand them. In order to avail ourselves of the greatest expertise on each topic, we must place our mostknowledgeable experts in a position of transparent authority while also providing a knowledge bridge leading from their ideas to the casually interested observer." - [Binding Chaos, by Heather Marsh]()
 
+> "The keys to allowing elite expertise but not allowing for elite conspiracies are transparency and knowledge bridges." - [Binding Chaos, by Heather Marsh]()
+
+> "The key to preventing elite knowledge from becoming a tyrannical oligarchy is to maintain control by the user group over action and decisions and treat epistemic communitiesalways as a knowledge resource, not a governing power." - [Binding Chaos, by Heather Marsh]()
+
+> "Open source software with forums open to all are a perfect working example of fully transparent and audited systems of elite knowledge. While the decisions are made by the developers, review and acceptance or rejection of the software is the right of the user group. If the developers refuse to listen to the user group and another development team is willing to work on the project, the original code can be forked and modified to meet the user requirements." - [Binding Chaos, by Heather Marsh]()
+
+> "Online courses such as those offered by Coursera where students teach each other and have direction from an epistemic community of instructors with knowledge bridges of graduates and fellow students is another example of a concentric circle in the cases where the course material is released as creative commons." - [Binding Chaos, by Heather Marsh]()
+
+> "The influence of celebrities from entertainment and sports industries over unrelated topics is illogical but widespread and they are more than ever expected to use that influence in areas completely outside their knowledge sphere." - [Binding Chaos, by Heather Marsh]()
+
+> "A cultural shift is required around celebrity. Celebrity was created to distract attention from issues the true oligarchies did not want scrutinized. The public’s ‘right to know’ was transferred from the business of the government to the plastic surgery of an entertainer." - [Binding Chaos, by Heather Marsh]()
+
+!!! Actually... "Binding Chaos" is absolute crap. ALL quotes by Heather should be scrutinized and maybe discarded.
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
+> "" - [Binding Chaos, by Heather Marsh]()
+
 > "" - [Binding Chaos, by Heather Marsh]()
 
 > "" - [Binding Chaos, by Heather Marsh]()
