@@ -64,7 +64,7 @@
 
 > "A cultural shift is required around celebrity. Celebrity was created to distract attention from issues the true oligarchies did not want scrutinized. The public’s ‘right to know’ was transferred from the business of the government to the plastic surgery of an entertainer." - [Binding Chaos, by Heather Marsh]()
 
-!!! Actually... "Binding Chaos" is absolute crap. ALL quotes by Heather should be scrutinized and maybe discarded.
+!!! Actually... "Binding Chaos" is absolute crap - word salad. ALL quotes by Heather should be scrutinized and maybe discarded.
 
 > "" - [Binding Chaos, by Heather Marsh]()
 
