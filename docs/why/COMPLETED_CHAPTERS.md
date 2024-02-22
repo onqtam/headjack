@@ -80,6 +80,8 @@ Michelangelo's ["The Creation of Adam"](https://en.wikipedia.org/wiki/The_Creati
 
 OMEGA POINT STUFF BY BOBBY AZARIAN GOES HERE
 
+"love and truth are the two primary manifestations of divinity in which we can partake and that in partaking in them we become truer manifestations of the divine" - robert wright, the evolution of god
+
 we can create the god that binds us all in the most productive, positive and functional way
 
 Memes all the way down - what is the root meme? We need to surface truth to the best of our abilities and crowd-source morality. We shake hands when we meet - that's culture. How do we fix the rest of culture?
