@@ -544,6 +544,11 @@ Bluesky and the AT Protocol: Usable Decentralized Social Media
 https://arxiv.org/pdf/2402.03239.pdf
 
 
+
+If we could invite one other company in the world to build with us - it would be Farcaster
+
+
+
 Farcaster is a humble proof of concept for the value of open protocols around identity - but it is limited in terms of scale and a few other properties 
 
 
