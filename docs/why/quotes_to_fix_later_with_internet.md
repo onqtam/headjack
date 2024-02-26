@@ -66,59 +66,37 @@
 
 !!! Actually... "Binding Chaos" is absolute crap - word salad. ALL quotes by Heather should be scrutinized and maybe discarded.
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "The Global Brain is a big idea. The Singularity is a big idea. The Global Brain Singularity is an even bigger idea. The Global Brain represents the idea that all humans and machines on planet Earth are forming (or already forms) an organized totality that will allow (or is allowing) higher order coherence without precedence in evolutionary history. The name ‘Global’ captures the ‘totalizing’ aspect of the phenomenon (all humans and all machines in one system); the name ‘Brain’ captures the metaphorical homology between the structure and function of biological brains and the structure and function of human civilization. The Singularity, in contrast, and specifically in the context of sociotechnological theory, represents the idea of a future qualitative transition in the phenomenal nature of human life. This future qualitative transition is typically described as a technologically mediated transcendence of our nature towards a transhuman or a posthuman horizon. When we combine the idea of the ‘Global Brain’ with the idea of the ‘Singularity’ we are trying to understand the immanence of both human beings and human civilization." - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "What does it mean that a being has come into being which is modelling being and itself in increasingly recursive modalities?" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "The evolutionary view is not deterministic and so we cannot say that the future emergence of a common governance and energy regime will be achieved. However, the possibility of such a common metasystem is the highest potentiality of a Global Brain Singularity." - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "What does it mean to live within an evolutionary universe and be agents of fundamental evolutionary processes? We simply do not have sensical and well-defined answers to these questions. We are used to thinking about the human species as living in an immutable relation to some transcendental structure which exists and persists independent of our existence or action. What in the world happens to our understanding when the transcendental structure that overdetermines our existence becomes something that not only changes across time but is also something constituted by our action and modalities of being?" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "The failure to understand culture, and in particular the relationship between biology and culture as part of cosmic evolution, may be one of the primary failings of science in the modern world. This is a factor in holding back progress in our understanding of both the nature of humanity and the future of humanity." - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "Both reductionism and postmodernity, albeit successful in different ways within the sciences and humanities, cannot help us in terms of formulating a better understanding of universal history and its meaning for the human species moving forward into our common future." - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "Throughout scientific history we have come to imagine ourselves as separate, marginal or accidental by-products in a meaningless universe. In fact, it has not been uncommon for scientific progress in understanding the universe to become coupled with a type of existential nihilistic worldview in relation to the human phenomenon." - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "Whatever ‘act’ comes next in the ‘cosmic drama’ it will emerge from within the domain of collective human social values, cultural creativity and our exploration of latent technological possibility. In this way the universe gives the appearance of internalizing its future potentiality within a network of billions of biocultural nodes that in aggregate represent a phenomenon capable of producing yet another level of complex organization." - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
-
-> "" - [Binding Chaos, by Heather Marsh]()
+> "" - [Global Brain Singularity, by Cadell Last]()
 
