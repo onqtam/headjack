@@ -121,6 +121,64 @@
 
 > "The emergence of the internet has created the foundations for an increasingly global world. In this context we must consider ways to approach a new form of globalization that is shaped by the whole of humanity. This will require a metasystem transition toward a higher level of systems complexity by reinventing the established control hierarchy. This reinvention could allow for the establishment of controls that maximize distributed intelligence and direct democracy within a digital medium that functions from ‘local to global’. Of course, this will require massive control innovation and a cultural revolution committed to radical distribution of concentrated power. Here we can learn from the founders of enlightenment if we have the daring to actually realize their transcendent dreams. There is no reason why control needs to possess a specific physical location in a truly mature information age. Instead, power could be distributed among all interconnected citizens in a multipolar Global Village. Such an organization should allow us to safely navigate the next frontier metasystem of humanity’s evolutionary experiment." - [Global Brain Singularity, by Cadell Last]()
 
+> "It is clear that our ‘present state’ is now out of line with the ‘goal state’ of a governance organization for the global brain." - [Global Brain Singularity, by Cadell Last]()
+
+> "In the monarchical form one or a small group of agents defines all problems relevant to the system as a whole, and explores opportunities unavailable to other agents in the system as a whole. In the democratic form a small group of agents still defines problems and explores opportunities but must undergo constant change and replacement, and also must be subjected to constant feedback processes from the populous as a whole. In the theoretical commons form the center loses its ‘agential dimension’ and instead emerges from the collective interaction of agential consciousness. In this sense the center gains its coherence only from the distributed problem definition and opportunity exploration of the network of agential consciousness in-itself." - [Global Brain Singularity, by Cadell Last]()
+
+> "The failure of religious institutions, particular the Abrahamic religious institutions, to become more decentralized and distributed has arguably defined by their controversial existence throughout the industrial era. Indeed the majority of the atheist critique of religion has little to do with serious transcendental arguments related to the existence or nonexistence of God, and much more to do with social system repression, power and control, which is a feature of centralized and hierarchical organizations. Moreover there has been a recent flourishing of spiritual belief systems and spiritual practices that are capable of expressing the human relationship to the divine without the strict adherence to a single text or scripture.
+>
+> In this nuanced perspective it becomes difficult to know exactly how to interpret the future of religion with any absolute certainty. However, in the challenge propagation framework we can say that the future of spirituality or belief in the supernatural must figure out how to reinvent itself within the context of a structural reorganization of how humans relate to the spirit. Humans have inherent spiritual needs and these needs can manifest in many different ways. In order to foster this spiritual need for faith in a higher power or source or cause of existence the best practice in a challenge propagation framework would be to create the discursive spaces where a real active dialogue about spirituality and faith can emerge. These discursive spaces need not represent one religious leader or one religious domination but allow for conceptual boundaries to be flexible and dynamic and contingent on the needs expressed in the dialogue.
+>
+> If this model is useful in a prescriptive and predictive context then the future spiritual communities will be built on distributed emergence, without the need for permanent leaders, authorities or denomination. This in fact mirrors the patterns we discussed in regards to the future of governance. In essence, religious organizations need to become more decentralized and distributed so that ideas of how the human spirit or consciousness relates to its existential condition can be expressed with less friction or distortion. This would allow different religious groups or identities to move past any theological divisions and find a common meaning or purpose for the twenty-first century that is more in-line with religion’s core drive which is to provide an outlet for people to explore their relationship to the unknown or unknowable.
+>
+> In this context religion can be revived by focusing on the very real dimension of problems for consciousness that have no final or complete answer but are rather fundamental mysteries of the historical process. Some of these very real dimensions include an understanding of universal ethics or morality, the structure of life and death, the design or construction or creation of the universe and the meaning of society and experience in a cosmic context. These dimensions of inquiry are as pressing for contemporary consciousness as they have ever been for consciousness. Thus the possibility for a revived understanding of spirituality and human relation to religion is now an informational potentiality which requires us to rethink a meaningful structure to information control." - [Global Brain Singularity, by Cadell Last]()
+
+> "The theoretical emphasis in technological singularity literature (i.e. emergence of AGI) almost completely ignores the systemic dynamics of technological revolution in relation to the emerging sociotechnological sphere mediated by the totality of the internet as universal medium. In missing this systemic dynamic the technological singularity literature fails to even confront basic issues of systemic transitions in relation to control, power and hierarchy, and thus basic issues of systemic transitions in terms of social, economic and political life." - [Global Brain Singularity, by Cadell Last]()
+
+> "In the AGI technological singularity vision humanity’s attention becomes focused on individual machine-learning programs that enter ‘self-recursive cycles’ of exponential intellect improvement towards ‘post-humanity’. However, in the GB technological singularity vision humanity’s attention becomes focused on collective global issues and metasystemic transitions related to power, control and hierarchy. This is not to say that the GB technological singularity vision totally negates the possibility of the emergence of AGI or even post-humanity, but rather approaches the emerging technological revolution as a phenomenon that must be grounded in the totality of sociotechnological process." - [Global Brain Singularity, by Cadell Last]()
+
+> "In this sense what is wrong with most socioeconomic or sociotechnological thinking today is that it precisely ignores the most important element, i.e. the subjective dimension of socio-processes. At the structural ‘micro-foundations’ of capitalism is the subjective valuation of profit as hegemonic to all other forms of value. Thus, in the same way that a few people thinking in a new way about money and what to do with money due to the rise of new forms of industrial productive potential in the 19th century changed the socioeconomic conditions of the human world (i.e. universal subjective valuation of profit maximization via market exchange over and above all other values), we should again, simply, go back to the ‘micro-foundations’, think new forms of subjective valuation, and draw out their large-scale socioeconomic consequences, i.e. what would be the resulting ‘macro-foundations’ as ‘large-scale political collectives’ that developed due to new ‘micro-foundations’?" - [Global Brain Singularity, by Cadell Last]()
+
+> "Is there not a way to organize the human world with a more distributed and open-ended understanding of subjective valuation so that the homogenizing dimension of ‘profit-maximization as human nature’ could be replaced with a multi-dimensional and processual understanding of human nature?" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
+> "" - [Global Brain Singularity, by Cadell Last]()
+
 > "" - [Global Brain Singularity, by Cadell Last]()
 
 > "" - [Global Brain Singularity, by Cadell Last]()
