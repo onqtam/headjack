@@ -246,6 +246,15 @@ Heylighen, F. 2013. From human computation to the Global Brain: the self-organiz
 
 Rifkin, J. 2014. The zero marginal cost society: The internet of things, the collaborative commons, and the eclipse of capitalism. Palgrave Macmillan Trade.
 
+Chorost, M. 2011. World wide mind: The coming integration of humanity. New York: Simon and Schuster.
+
+Cole-Turner, R. 2012. The singularity and the rapture: Transhumanist and popular Christian views of the future. Zygon, 47: 777-796.
+
+Hayles, N.K. 2012. How we think: Digital media and contemporary technogenesis. Chicago: University of Chicago Press.
+
+Turchin, V. 1977. The Phenomenon of Science: A Cybernetic Approach to Human Evolution. New York: Columbia University Press.
+
+
 
 
 Computer scientist Viktoras Veitas and philosopher David Weinbaum recently proposed a futuristic evolutionary paradigm, the ‘World of Views’, which may be useful to help us situate an exploration of the technocultural world. The ‘World of Views’ attempts to understand a post- scarcity, post-singularity, evolutionary landscape where the primary driver of change is the “multiplicity of unique, modular, and open co-evolving worldviews” (Veitas & Weinbaum 2015, p. 504)
