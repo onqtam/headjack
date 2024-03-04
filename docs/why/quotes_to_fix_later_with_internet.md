@@ -205,39 +205,13 @@
 >
 > But these are the quantitative aspects of future mind. The qualitative aspects are much harder to describe and anticipate, as they will be emergent in their very nature, potentially enabling new forms of game, adventure, exploration, ecstasy and mystery in physical spaces, but also intersubjective virtual spaces." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
-> "" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
-
 > "The difficulty we face in trying to evaluate [the future of intelligence] at our current scale of intelligence would be similar to the challenge facing an intelligent bacterium in our gut that is trying to make sense of the social interactions we engage in." - [John Stewart](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
-> "" - [](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+> "" - []()
 
-> "" - [](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+> "" - []()
 
-> "" - [](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+> "" - []()
 
 
 
@@ -261,6 +235,8 @@ Stewart, J. 2014. The direction of evolution: The rise of cooperative organizati
 Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
 http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
 
+Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
+http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
 
 
 
