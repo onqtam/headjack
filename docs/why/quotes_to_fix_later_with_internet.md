@@ -287,17 +287,17 @@
 
 > "The intelligence of the network could then be equated with the speed of decrease in the average length for all challenge vectors present in the network: the more quickly the network can “relax” its various challenges, the smarter it is. This now allows us to compare many different variations of the model to see which ones exhibit most intelligence. Some obvious variations to investigate are:
 >
-> different criteria used by the agents to select which challenges to address
+> - different criteria used by the agents to select which challenges to address
 >
-> different cognitive architectures (e.g. production rules or neural networks) for the agents
+> - different cognitive architectures (e.g. production rules or neural networks) for the agents
 >
-> different hypergraph topologies (e.g. stigmergy vs. binary graphs)
+> - different hypergraph topologies (e.g. stigmergy vs. binary graphs)
 >
-> different network topologies (e.g. hierarchical, clustering, power-law, etc.)
+> - different network topologies (e.g. hierarchical, clustering, power-law, etc.)
 >
-> different rules for propagating the challenges across the links
+> - different rules for propagating the challenges across the links
 >
-> different learning rules for changing the link weights in the network" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
+> - different learning rules for changing the link weights in the network" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
 > "While the development of such a model will still require a lot of research, the present analysis makes the problem much more tractable, by subdividing it into separate elements (such as challenge, agent and multilink), structures (such as topology of the network, or organization of the agents), processes (such as challenge selection, challenge processing, and challenge propagation), and measures (such as degree of relaxation, priority of a challenge, and overall intelligence)." - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
