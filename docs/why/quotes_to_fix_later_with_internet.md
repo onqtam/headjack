@@ -279,17 +279,39 @@
 >
 > - power-law (many nodes with few links, few nodes with many links)." - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
-> "" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
+> "The connection strength of a (multi)link expresses the probability that a challenge will be successfully propagated across that link, i.e. that an agent in the output set would take up the challenge proposed by an agent in the input set. Link strength can be formalized most simply as the conditional probability P(B|A) that agent B would take on a challenge received from agent A.
+>
+> This probability can depend on different properties of the communicative connection between agents, including: trust (the degree to which the receiving agent takes challenges coming via the link from the sending agent seriously), power (the degree to which the sending agent can compel the sending agent to act), friendship (the degree to which the receiving agent is eager to do something for the sending agent independently of any power relationships), friction (the effort or energy that it costs to transmit the challenge across the link) and bandwidth (the detail and clarity with which information can be transmitted along the link). Link strength therefore may represent any and all of these properties." - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
-> "" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
+> "Note that the success of the crossing (i.e. whether the receiving agent effectively addresses the challenge) depends first of all on that agent itself, that is, its selection criteria for relevance, and its capabilities for processing the challenge. The link strength merely represents the social-communicative aspect of the process, namely the relationship between sending and receiving agent determining in how far the receiving agent is likely to pay attention to the other’s challenges. If the two agents have a very weak relationship (like in two agents who don’t know each other but who both have read the same Wikipedia page), the probability of one picking up a challenge left by the other is a priori very low, and will be determined almost exclusively by the properties of the challenge and of the agents rather than by their relationship. However, this low probability may be compensated by the fact that the multilink connects a very large number of agents, so that at least one agent in the output set is likely to pick up the challenge." - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
-> "" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
+> "The intelligence of the network could then be equated with the speed of decrease in the average length for all challenge vectors present in the network: the more quickly the network can “relax” its various challenges, the smarter it is. This now allows us to compare many different variations of the model to see which ones exhibit most intelligence. Some obvious variations to investigate are:
+>
+> different criteria used by the agents to select which challenges to address
+>
+> different cognitive architectures (e.g. production rules or neural networks) for the agents
+>
+> different hypergraph topologies (e.g. stigmergy vs. binary graphs)
+>
+> different network topologies (e.g. hierarchical, clustering, power-law, etc.)
+>
+> different rules for propagating the challenges across the links
+>
+> different learning rules for changing the link weights in the network" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
-> "" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
-
-> "" - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
+> "While the development of such a model will still require a lot of research, the present analysis makes the problem much more tractable, by subdividing it into separate elements (such as challenge, agent and multilink), structures (such as topology of the network, or organization of the agents), processes (such as challenge selection, challenge processing, and challenge propagation), and measures (such as degree of relaxation, priority of a challenge, and overall intelligence)." - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
 > "" - []()
+
+
+
+
+
+
+
+
+
+
 
 
 Francis Heylighen, Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, Ecco, 2011
@@ -328,6 +350,9 @@ Heylighen and Chielens, p. 10370; Francis Heylighen, ‘What Makes a Meme Succes
 C. Heath and D. Heath, Made to Stick: Why Some Ideas Survive and Others Die (Random House, 2007).
 
 Francis Heylighen, ‘Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information’, in Open Source Jahrbuch 2007, ed. by B. Lutterbeck, M. Baerwolff & R. A. Gehring (Lehmanns Media, 2007), pp. 165–180 <http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf>.
+
+C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journal of Public Information Systems, 1 (2008), 1–24.
+
 
 
 
