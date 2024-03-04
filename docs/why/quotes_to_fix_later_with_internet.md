@@ -207,7 +207,18 @@
 
 > "The difficulty we face in trying to evaluate [the future of intelligence] at our current scale of intelligence would be similar to the challenge facing an intelligent bacterium in our gut that is trying to make sense of the social interactions we engage in." - [John Stewart](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
-> "" - []()
+> "" - [Technology & Society - social, philosophical and ethical implications of on-going innovation, by Francis Heylighen]()
+
+> "" - [Technology & Society - social, philosophical and ethical implications of on-going innovation, by Francis Heylighen]()
+
+> "" - [Technology & Society - social, philosophical and ethical implications of on-going innovation, by Francis Heylighen]()
+
+> "" - [Technology & Society - social, philosophical and ethical implications of on-going innovation, by Francis Heylighen]()
+
+> "" - [Technology & Society - social, philosophical and ethical implications of on-going innovation, by Francis Heylighen]()
+
+> "" - [Technology & Society - social, philosophical and ethical implications of on-going innovation, by Francis Heylighen]()
+
 
 > "" - []()
 
@@ -237,6 +248,11 @@ http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
 
 Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
 http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
+
+Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
+
+Klein, M. 2012. Enabling Large-­‐Scale Deliberation Using Attention-­‐Mediation Metrics.	
+
 
 
 
