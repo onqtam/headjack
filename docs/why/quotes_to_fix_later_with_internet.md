@@ -367,11 +367,11 @@ https://octopusyarn.substack.com/p/why-we-need-a-new-religion
 
 > "How could such a convoluted structure possibly scale to a global religion? The answer is that not everybody has to understand it, they just need to participate in it. I can type these words without knowing how my laptop works. It is much easier to function within a given system than work on the systemic level itself. Only a small part of the population will be called to do the latter and both help Metamodern Religion emerge in the first place and then improve and maintain it. Whoever is called to this work will likely have a certain temperament and a certain level of development in specific areas. Whatever personality typology or developmental frameworks we might apply here, the conclusion will always be that it’s a rather small part of the population. Only these “shamanoid” personalities (as [Bard calls them](https://www.youtube.com/watch?v=r9gYpj0WLcg)) would need to understand the functioning of the structure as a whole and likely undergo significant training to take up their role as stewards or “priests” of Metamodern Religion." - [Cosmo-local coordination, by Octopusyarn](https://octopusyarn.substack.com/p/cosmo-local-coordination)
 
-> "" - [Cosmo-local coordination, by Octopusyarn](https://octopusyarn.substack.com/p/cosmo-local-coordination)
+> "Rather than an “individual”, we might use the term “dividual” to highlight the primacy of relationship and interconnectedness." - [Transforming cultures and selves, by Octopusyarn](https://octopusyarn.substack.com/p/transforming-cultures-and-selves)
 
-> "" - [Cosmo-local coordination, by Octopusyarn](https://octopusyarn.substack.com/p/cosmo-local-coordination)
-
-> "" - [, by Octopusyarn]()
+> "What a treat to be thinking about how to address societies’ biggest problems with a complex system of interlocking holons that have a transformative impact across ontologies to solve global coordination, install new universal values, guide behavior, and create a fractal stack of personal meaning. Right? A new global religion is emerging, and we’re early to the party.
+>
+> The exciting thing is that all of these aspects mapped to the different spheres are coming into being. Now. The galaxy brains linked throughout this text are busy tackling different aspects and are gathering communities and resources around themselves. Powerful psycho-technologies from yoga to meditation and psychedelics are entering the mainstream. More beautiful (and truthful) narratives than the old “infected monkeys on a small speck of dust lost in an infinity of empty space” are gaining hold. The AI community has realized that human alignment is the true alignment problem. Web3 is building new technologies for global coordination (when they are not busy scamming each other)." - [Transforming cultures and selves, by Octopusyarn](https://octopusyarn.substack.com/p/transforming-cultures-and-selves)
 
 > "" - [, by Octopusyarn]()
 
@@ -393,8 +393,20 @@ https://octopusyarn.substack.com/p/why-we-need-a-new-religion
 
 
 
+
+https://twitter.com/jim_rutt/status/1613145091874357249?lang=en
+
+https://medium.com/age-of-awareness/a-metamodern-guide-to-human-development-49fe8d8f0e8f
 
 https://www.youtube.com/watch?v=r9gYpj0WLcg
+
+https://www.youtube.com/watch?v=hKvVdGNzCQk&t=20s
+
+https://www.youtube.com/watch?v=ZzpOUf8OTAA&t=24s
+
+https://www.youtube.com/watch?v=xB1pb3dlrWE
+
+https://www.youtube.com/playlist?list=PLa_4sU5_wQrlw5b9oc1tDaziHyEqXUnl7https://www.youtube.com/playlist?list=https://www.youtube.com/playlist?list=PLa_4sU5_wQrlw5b9oc1tDaziHyEqXUnl7
 
 Gebser calls “aperspectival”
 https://www.weirdstudies.com/56
