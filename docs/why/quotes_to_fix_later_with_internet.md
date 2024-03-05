@@ -301,6 +301,92 @@
 
 > "While the development of such a model will still require a lot of research, the present analysis makes the problem much more tractable, by subdividing it into separate elements (such as challenge, agent and multilink), structures (such as topology of the network, or organization of the agents), processes (such as challenge selection, challenge processing, and challenge propagation), and measures (such as degree of relaxation, priority of a challenge, and overall intelligence)." - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
+https://octopusyarn.substack.com/p/why-we-need-a-new-religion
+
+> "Rather than being dictated top down, we can only hope that the religion of tomorrow will emerge and evolve bottom up. Religion seems to be very much like language, and we’ve seen plenty of failed top-down invented “better” languages as well as religions." - [Why we need a new religion, by Octopusyarn]()
+
+> "It’s easy to discard “religion” altogether when it is understood merely as superstitious adherence to conventions of a holy book, as the “new atheists” have shown. Yes, an all-powerful, all-benevolent creator reigning from the heavens does seem like a childish projection of a father figure. Shitting on SkyDaddy may be fun and allow detached analytical types to feel superior, but it’s cheap to dunk on a strawman." - [Why we need a new religion, by Octopusyarn]()
+
+> "A more interesting framing of religion is to view it as the fabric that ties society together. And what tied traditional societies of a distant past together obviously won’t be able to take on that role today. However, weaving this shared social fabric of religion may be the only way we know of to organise society past the Dunbar number. A broader definition of religion would also include our stories about technology, art, nation states, etc. Geertz defines religion as a “system of symbols which acts to establish pervasive and long-lasting moods and motivations in society”.
+>
+> Any widely shared beliefs, stories, and practices could be conceived of as religious in this broader definition that we are considering here. From trust in the institution of science to the story of progress through globalisation to the ritual of accepting printed paper for goods - it’s all religious in this broader framing.
+>
+> Layman Pascal proposes that religion is fundamentally about the harmonisation and integration of culture, technology, politics, etc. at a given time and place. If this religious integration is successful, it results in an excess of meaning and coherence that can translate into a numinous experience that binds communities together. From this point of view, religion stops seeming like an antiquated mode of superstition. Rather, the emergence of a religion that creates a right integration and surplus coherence for our times suddenly seems like an urgent priority.
+>
+> Old Friedrich declared the death of God more than 140 years ago. And the damn corps has been rotting for so long that we can no longer ignore the stench. As social animals that relate to the world and each other through justifications, it seems like we need a narrative that gives purpose to our lives. Yet more and more find it impossible to believe the silly dogmas of the cultural fossils we generally call “religion”, or to participate in their dead rituals. This is neither an apology for ancient superstitions nor an attempt to resurrect Skydaddy, but we have to admit that there is a gaping hole that these relics used to fill for our ancestors.
+>
+> Alexander Bard asserts that we are inherently tribal and religious and that our reaching for a unifying mythos is non-negotiable, even automatic. Even if God is dead, we can’t help but create a new one, even if unconsciously.
+>
+> > Modern society was never atheist, it just pushed its pantheon into the unconscious, glossed it over with science, money, and status - subconsciously worshipping Gucci God and Mammon.
+>
+> Some might argue that Capital has become our new God - a delicious throwback to the biblical golden calf. A more encompassing diagnosis would be that we ourselves have taken on the role of God in the advent of humanism. Anthropos on the throne, Mammon (Capital & markets) to his right, and Scientia to her left. Seems fitting, since humans are now literally the force shaping our planet (Anthropocene, etc.). Homo Deus wields weapons many orders of magnitude more powerful than what the Gods of old could dream of. Little Boy makes Thor’s hammer and Zeus’ lightning look like Nerf guns. Armageddon is just an autocrat with a big red button away.
+>
+> As Daniel Schmachtenberger diagnosed astutely, a civilization with godly power but lacking in wisdom will self-terminate inexorably. And even if we don’t blow ourselves up, we will eventually degrade the very substrate we depend on in our mindless strive for (economic) growth and progress, as mandated by the archangels of consumerist humanism.
+>
+> Our unconscious global religion not only fails to put us in right relationship with each other and the planet, but it also can’t answer our call for meaning. We are left trapped in a state of the Absurd - feeling atomized, alienated, and nihilistic." - [Why we need a new religion, by Octopusyarn]()
+
+> "The religion of tomorrow needs to resolve these existential issues and falls short if it does not address these coordination failures at the root cause. Because all of these issues are global in nature, we need a religion of global scope. Returning humans to their proper place as the nervous system of Gaia instead of cancer eating away at the very substrate that sustains it. " - [Why we need a new religion, by Octopusyarn]()
+
+> "In addition to these “objective” crises, we are facing a “subjective” crisis of meaning. From Marx to Byung-Chul Han, the persistent alienation and atomization of “modern man” has been diagnosed to death without being able to shift us out of the predicament. Whether we call it “left brain chauvinism” (McGilchrist etc.) or the “tyranny of the propositional” (Vervaeke), there seems to be something off at the very core of our culture. Vervaeke’s work is probably the most complete in outlining an actual solution: The process of relevance realization, if liberated from parasitic processing, can return us to a multi-modal connectedness to the world around us and one another. All [4 kinds of knowing](https://www.psychologytoday.com/us/blog/theory-knowledge/202101/john-vervaeke-s-brilliant-4p3r-metatheory-cognition#:~:text=With%20his%204P%20model%2C%20he,procedural%3B%20and%204)%20propositional.) need to be honed in ecologies of practices to afford an “optimal grip” on reality characterized by flow and insight cascades." - [Why we need a new religion, by Octopusyarn]()
+
+> "Metamodern Religion needs to provide ecologies of practices that can return us to the right relationship with each other and the world and protect us from intersubjective parasites.
+>
+> Together with the external crisis described above, we can then conclude that Metamodern Religion faces the Herculean task of resolving both the Meta Crisis and the Meaning Crisis. I think a genuine religion of our time would resolve our most pressing issues both internally and externally.
+>
+> In summary, we note the following requirements for Metamodern Religion:
+>
+> 1. It needs to provide a sense of personal and shared meaning. This includes moral and ontological frameworks that provide orientation in the world.
+>
+> 2. Its narratives should be able to tie into previous religious views while updating them with our latest scientific understandings. The unifying narrative should allow for significantly different interpretations, practices, and ways of living without losing coherence and fragmenting into competing sects.
+>
+> 3. Existential risk needs to be directly addressed, from climate catastrophe and ecocide to nuclear proliferation and the dangers of rogue AI. Ideally, it would address the “generator function” of these issues, resolving all classes of coordination failures such as multipolar traps and the tragedy of the commons.
+>
+> 4. Psycho-technologies and ecologies of practice need to be built in to allow for personal and collective transformation. We will likely need a large portfolio of techniques that is applied selectively depending on cultural and personal circumstances.
+>
+> 5. Last but not least, it should prevent the failure modes of previous religions, including weaponization for controlling the population and petrification into outdated dogma." - [Why we need a new religion, by Octopusyarn]()
+
+> "The task at hand is to decidedly reject the toxic tendencies of religions (dogma and institutionalized power structures) while exapting their social functions in a way that works for a specific time and place." - [The anatomy of religions, by Octopusyarn]()
+
+> "New atheists didn’t get Chesterton’s fence. They missed how important religion is for social cohesion and a sense of meaning. This is ironic, given Dawkins’ work on Memetics is explicitly about the adaptive fitness of ideas." - [Redeeming Christian concepts, by Octopusyarn]()
+
+> "It makes sense to think of the Devil as a transpersonal being, an egregore. Evil, in turn, is a relational process that creates suffering, not a fixed characteristic. The Devil rises from social conditions that foster Evil." - [Redeeming Christian concepts, by Octopusyarn]()
+
+> "What would religion be without a concept of God? Even though it's arguable the term may carry too much historical baggage, it seems an equivalent concept as a pointer of ultimate value is critical for the overall function of the system." - [A Headless God or religion for our times, by Octopusyarn]()
+
+> "God emerges from an ever-evolving, interconnected net of relations." - [A Headless God or religion for our times, by Octopusyarn]()
+
+> "Traditionally religious speculations have already been coming back as hypotheses wrapped in “science-y” language for the past decades already (see the demarcation problem). The simulation hypothesis is just tech bro gnosticism. The Omega point and the singularity are Silicon Valley eschatology. Cosmological inflation, complexification, quantum entanglement, many worlds. Many words. And all of them have religious implications and offer competing grand narratives, whether their pundits admit it or not. Many of them tie in with great religious traditions and philosophers alike (Hegel, Whitehead, Bergson, de Chardin). A re-integration therefore does not seem out of reach, and we will continue to see more convincing attempts. The prototypical example is Wilber’s Integralism, and more recently, Metamodernism. Interesting attempts that focus even more on the narrative aspects continue to show up, e.g. Emergentism or The Romance of Reality.
+>
+> While the vanguard of science is still undecided on major questions (e.g. interpretations of quantum mechanics or the nature of consciousness) and different narrative strands will end up with quite different interpretations, some common elements seem clear. First and foremost, a development through time with distinct phase changes of emergence with increasing complexity seems like a common denominator. " - [A Headless God or religion for our times, by Octopusyarn]()
+
+> "Being self-aware of its constructedness, a metamodern God concept needs to be able to sustain critique. Daniel Görtz describes this concept of a headless God as follows: “It is a God whose altar can be pissed upon, is insulted again and again, yet remains sacred, is resurrected. (...) Always on its way to the guillotine.” This allows for an anti- fragile dynamic where whatever belief structures are left after ferocious critique can be believed in with much more conviction. This constant critique also acts as a pruning function to get rid of structures no longer needed. Since our God is anti- fragile, there should be no hesitation in tearing down any narratives that are disproven by our scientific advances and reconstructing ones that better reflect reality." - [A Headless God or religion for our times, by Octopusyarn]()
+
+> "This ain’t no fun as a single-player game; Metamodern Religion only comes to life with a collective of believers. Self-aware narrativity is also how we might hope that an increasing number of people will resonate with the stories we come up with: Any valid critique and additions that are useful while being coherent should be included without hesitation. As time progresses, the petrified dogmas of traditional religions will become ever more inconsistent. All the while, the population on average develops further and Metamodern Religion will exert an inexorable pull on adherents of traditional religions. At the same time, more scientific minded people would notice that the stories are in agreement with their worldview but provide much more personal and collective meaningfulness, so they too would be tempted to join in. Filling the God-shaped hole in our hearts in a way that doesn’t compromise on rationality is somewhat of a no-brainer.
+>
+> Metamodern religion will only feel intersubjectively real once a critical mass of “believers” subscribe to it. Just because we know that it’s just a story we made up doesn’t make it feel any less real. Even more so, we can believe it because we know we made it up. There is a certain bootstrapping principle at play here that reminds of Alexander Bard’s Syntheos, the created God, and the concept of Hyperstition. Like a collective placebo effect, we might be surprised how real our headless God will feel once enough of us have agreed on a version we could believe in." - [A Headless God or religion for our times, by Octopusyarn]()
+
+> "How could such a convoluted structure possibly scale to a global religion? The answer is that not everybody has to understand it, they just need to participate in it. I can type these words without knowing how my laptop works. It is much easier to function within a given system than work on the systemic level itself. Only a small part of the population will be called to do the latter and both help Metamodern Religion emerge in the first place and then improve and maintain it. Whoever is called to this work will likely have a certain temperament and a certain level of development in specific areas. Whatever personality typology or developmental frameworks we might apply here, the conclusion will always be that it’s a rather small part of the population. Only these “shamanoid” personalities (as [Bard calls them](https://www.youtube.com/watch?v=r9gYpj0WLcg)) would need to understand the functioning of the structure as a whole and likely undergo significant training to take up their role as stewards or “priests” of Metamodern Religion." - [Cosmo-local coordination, by Octopusyarn](https://octopusyarn.substack.com/p/cosmo-local-coordination)
+
+> "" - [Cosmo-local coordination, by Octopusyarn](https://octopusyarn.substack.com/p/cosmo-local-coordination)
+
+> "" - [Cosmo-local coordination, by Octopusyarn](https://octopusyarn.substack.com/p/cosmo-local-coordination)
+
+> "" - [, by Octopusyarn]()
+
+> "" - [, by Octopusyarn]()
+
+> "" - [, by Octopusyarn]()
+
+> "" - [, by Octopusyarn]()
+
+> "" - [, by Octopusyarn]()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
 > "" - []()
 
 
@@ -308,11 +394,34 @@
 
 
 
+https://www.youtube.com/watch?v=r9gYpj0WLcg
 
+Gebser calls “aperspectival”
+https://www.weirdstudies.com/56
 
+https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/
 
+"The task is to see reality as it is, the method is to look through millions of eyes" - Nietzsche
 
+https://metamoderna.org/hanzis-private-notes-the-5-metamemes-before-metamodernism/
 
+https://en.wikipedia.org/wiki/Demarcation_problem#:~:text=In%20philosophy%20of%20science%20and,art%20and%20literature%20and%20beliefs.
+
+Chesterton’s fence
+
+https://lessfoolish.substack.com/
+
+https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/
+
+https://octopusyarn.substack.com/p/why-we-need-a-new-religion
+
+https://www.quora.com/Why-do-religions-exist-and-what-is-their-purpose-to-society
+
+https://en.wikipedia.org/wiki/Cult_of_the_Supreme_Being
+
+https://www.jstor.org/stable/3087765#metadata_info_tab_contents
+
+https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitter/
 
 Francis Heylighen, Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, Ecco, 2011
 http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf
@@ -355,6 +464,8 @@ C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journa
 
 
 
+“Man is least himself when he talks in his own person. Give him a mask, and he will tell you
+the truth.” - Oscar Wilde
 
 
 
