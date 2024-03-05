@@ -373,14 +373,6 @@ https://octopusyarn.substack.com/p/why-we-need-a-new-religion
 >
 > The exciting thing is that all of these aspects mapped to the different spheres are coming into being. Now. The galaxy brains linked throughout this text are busy tackling different aspects and are gathering communities and resources around themselves. Powerful psycho-technologies from yoga to meditation and psychedelics are entering the mainstream. More beautiful (and truthful) narratives than the old “infected monkeys on a small speck of dust lost in an infinity of empty space” are gaining hold. The AI community has realized that human alignment is the true alignment problem. Web3 is building new technologies for global coordination (when they are not busy scamming each other)." - [Transforming cultures and selves, by Octopusyarn](https://octopusyarn.substack.com/p/transforming-cultures-and-selves)
 
-> "" - [, by Octopusyarn]()
-
-> "" - [, by Octopusyarn]()
-
-> "" - [, by Octopusyarn]()
-
-> "" - [, by Octopusyarn]()
-
 > "" - []()
 
 > "" - []()
@@ -392,6 +384,17 @@ https://octopusyarn.substack.com/p/why-we-need-a-new-religion
 
 
 
+Getting into a flow state during the activity is the gold standard for intrinsic
+motivation. Csíkszentmihályi’s conditions of flow include clear goals, immediate
+feedback, and a match between challenge and capacity.
+
+I recently did a 2-week solo meditation retreat focused on the practice of Shi-ne.
+13-day solo retreat (no human contact, electronic devices, books, etc.)
+8 hours of meditation per day as a target (I only did 6 hours on 3 days and 4
+hours on the last day), split up into 1-hour sessions (occasionally 30 minutes).
+20 minutes of stretching and 1-2 hours of walking per day
+Vegetarian food, 1 coffee per day, nicotine chewing gum on walks
+https://deconstructingyourself.com/
 
 
 https://twitter.com/jim_rutt/status/1613145091874357249?lang=en
