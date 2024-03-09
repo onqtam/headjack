@@ -599,5 +599,10 @@ Martens B. (2004) The Cognitive Mechanics of Economic Development and Institutio
 
 Rodriguez, M.A (2007) Social Decision Making with Multi-Relational Networks and Grammar-Based Particle Swarms, in: 2007 Hawaii International Conference on Systems Science (HICSS) IEEE Computer Society
 
+Kostakis, Vasileios, Wolfgang Drechsler, Diego Gonzalez & Ishan Shapiro. no date. “The
+emergence of open value network: Measuring value and distributing revenue in peer
+production projects” Downloaded on October 23, 2015 from
+http://www.p2plab.gr/en/archives/977
+
 
 
