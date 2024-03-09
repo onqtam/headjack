@@ -249,6 +249,15 @@ https://stackoverflow.com/help/privileges
 
 
 
+
+> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
+
+> "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
+
+> "Our ability to match acceleration to the appropriate constraints, as those constraints emerge within view, constitutes the parameter with the highest predictive power concerning adaptive / maladaptive outcomes." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
+
+> "In the realm of machine learning and AI... the greatest existential threat lies with the emergent human reaction to a rate of functional displacement that exceeds the rate at which humans can adapt. We're quite the adaptive species, but our flexibility is not infinite over finite time horizons, nor is our ability to purposefully redirect our lives an instantaneous property" - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
+
 > "The answer is not degrowth. The answer is growth that maximizes planetary complexity while minimizing the degree to which any entropy not re-usable somewhere else as a source of free energy remains within planetary bounds." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1726787146907037889)
 
 
@@ -808,6 +817,14 @@ https://twitter.com/HumansNoContext/status/1688256147537498113
 > "Working with a small team of researchers, educators, and scientists, we are creating a curriculum on what we are calling “worldview literacy.”31 We define this as the capacity to comprehend and communicate not only our own worldview but also to recognize that our beliefs come from our particular frame of reference and to understand that others hold different and potentially equally valid worldviews out of which their assumptions, and therefore their actions, arise. This capacity also includes being able to adapt to changes that come through a meeting of different perspectives, customs, practices, and belief systems." - [Ervin Laszlo](https://www.goodreads.com/quotes/9533762-working-with-a-small-team-of-researchers-educators-and-scientists)
 
 
+
+How much science & polls [don't replicate](https://twitter.com/johnmsides/status/1765068280694480964)?
+
+> "Companies and corporate structures are 17th-century constructs based on pre-industrial models of allocation of scarcity in the face of risk. The future of humanity is one of physical abundance for our biological forms, but UNLIMITED UPSIDE for our cognitive and spiritual essences. I refuse to submit my & my childrens' future to the lazy inertia of existing economic paradigms.
+>
+> We failed to secure open innovation in software, and we failed to lock the Web open. Instead we produced trillion dollar companies that held our data captive to create surveillance and attention economies, rather than empowering end users and fostering the development of end-user creativity and innovation.
+>
+> Two generations of investors are now completely hooked on this model of extractive network effects. SO MUCH of this growth was fueled by the gift economics of nerd communities producing open-source software and cohering de facto OPEN STANDARDS which neither governments nor BigCo nor academia could produce. These Schelling points that balanced risk, utility, and user needs are brilliant examples of alternative economic models for an abundant, regenerative future." - [Peter Wang](https://twitter.com/pwang/status/1765073129431588994)
 
 > "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
 
