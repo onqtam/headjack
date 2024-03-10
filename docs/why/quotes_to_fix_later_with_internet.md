@@ -486,7 +486,19 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 
 > "First, technologies that are initially formulated in a highly abstract, technical manner eventually get implemented in an intuitive, user-friendly manner, which requires minimal effort from their users. Second, when a system becomes truly useful, people become increasingly motivated to learn to use it in the most effective way, putting in the necessary time and effort to assimilate all the tips and tricks. Third, such usage eventually becomes part of general education—just like reading and writing evolved from highly technical activities performed by a small elite of experts to general skills expected from everybody. Finally, we already alluded to the virtuous cycle of stigmergy: the partial products (such as an incomplete Wikipedia article) of some, when clearly expressed in a common medium, stimulate and guide others to add their own contributions. Thus, contributions build on top of contributions, generating an increasingly rich and sophisticated system in which everyone may eventually find what s/he needs, and where poor material is eventually replaced by better material." - [The Offer Network Protocol: mathematical foundations and a roadmap for the development of a global brain, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Roadmap-OfferNetwork.pdf)
 
-> "" - []()
+> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
 
 > "" - []()
 
