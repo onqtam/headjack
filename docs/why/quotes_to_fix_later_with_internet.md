@@ -519,6 +519,12 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 
 
 
+
+ActInf GuestStream #015.1_ Bobby Azarian, Universal Bayesianism_ A New Kind of Theory of Everything-_JCaic5Cxms
+ActInf GuestStream #015.2 ~ Bobby Azarian _The Integrated Evolutionary Synthesis_-WEfc9X437yY
+ActInf GuestStream #015.3 ~ Bobby Azarian_ _The Teleological Stance_ The Free Energy Principle..._-S-tFHIqtbSI
+
+
 Getting into a flow state during the activity is the gold standard for intrinsic
 motivation. Csíkszentmihályi’s conditions of flow include clear goals, immediate
 feedback, and a match between challenge and capacity.
