@@ -455,7 +455,17 @@ https://octopusyarn.substack.com/p/why-we-need-a-new-religion
 >
 > The only “middleman” involved, in the Open Collaboration/Exchange Network scenario, is the software mediating the matching and distribution of offers and requests, the formation of teams, the inspection of chains and the assignment of reputations. This, however, can be open­source software running peer­to­peer, or using cloud­compute time obtained via offer­network exchange with users. Donations from users of the software would likely be more than enough to fund an open­source development team maintaining and improving the software. Multiple coopeting versions of the software may exist, much like multiple Linux versions today." - [The Global Brain and the Emerging Economy of Abundance: Mutualism, Open Collaboration, Exchange Networks and the Automated Commons](https://goertzel.org/OpenCollaboration.pdf)
 
-> "" - []()
+> "Mathematically, one may say that human beings’ value systems are “partial orderings” – they allow a person to say whether X is more valuable than Y, in a certain context. But money requires something stronger than this – it requires the arrangement of all entities to be valued in a “total ordering”, so that any X and Y can be compared as to their relative values. This has the merit of simplicity; it allows values to be arranged along a number line, so that one can assign each entity whose value is of concern a single number representing its value. But it has the shortcoming of not actually agreeing with the way human minds think and feel about values. In a partial ordering, mathematically, two entities X and Y may simply be incommensurable. NRdimensional vectors (for N>1) are like this; it doesn’t always mean something to say that vector X is “greater than” vector Y. In a value system that is a partial but not total ordering, there may be entities X and Y whose values are incommensurable – there is no clear answer regarding whether X is more valuable than Y or vice versa. This is how human value systems work, even though it’s not how money works." - [Offer Networks, a Potential Infrastructure for a Post-Money Economy, by Ben Goertzel](https://globalbraininstitute.github.io/onet/files/offer_networks.pdf)
+
+> "Using Offer Networks, people would be able to get what they need and some of what they want, and offer what they are willing and able to, without having to pass all their preferences and values through the single dimension of cash value." - [Offer Networks, a Potential Infrastructure for a Post-Money Economy, by Ben Goertzel](https://globalbraininstitute.github.io/onet/files/offer_networks.pdf)
+
+> "Reputation management could end up being the most complex part of an Offer Network system – much as fraud detection is the most complex part of a system like PayPal." - [Offer Networks, a Potential Infrastructure for a Post-Money Economy, by Ben Goertzel](https://globalbraininstitute.github.io/onet/files/offer_networks.pdf)
+
+> "There is a surface parallel between Offer Networks and old-style socialist ideas about computer-controlled centrally planned economies. In these old ideas, as in Offer Networks, a massive integrative system was often posited to balance everyoneus desires against each other. But a critical difference is that, in the Offer Networks approach the clearinghouse doesnut try to determine what anybodyus needs or abilities are. Instead, people specify their offers based on their own value systems; and the clearinghouse just mediates the transactions, in a way that respects the various individualsu desires and values insofar as they have articulated them within their exchange offers." - [Offer Networks, a Potential Infrastructure for a Post-Money Economy, by Ben Goertzel](https://globalbraininstitute.github.io/onet/files/offer_networks.pdf)
+
+> "Why are we willing to work so hard at things we don’t like doing, in order to buy so many things we don’t need? Part of the answer is addiction – we become psychologically addicted to certain routines and possessions, e.g. eating out in restaurants instead of cooking at home, or driving in a private car instead of taking public transport, or the feeling of wearing new & different clothes or jewelry. And part of the answer is social status. Having a lot of money is itself an indicator of high social status; and money can be used to buy other status indicators. A tremendous amount of money is spent on status symbols of one sort or another. Of course, money is not the only status indicator. Einstein had a very high status in the public eye, yet was not terribly rich. The same for Linux Torvalds. But overall, money is surely the best single proxy for social status in modern societies." - [Offer Networks, a Potential Infrastructure for a Post-Money Economy, by Ben Goertzel](https://globalbraininstitute.github.io/onet/files/offer_networks.pdf)
+
+> "It seems possible that a wellRtuned collaborative reputation assignment network could suffice to assign credit to individuals for their contribution to the overall doings of an Open Value Network. " - [Offer Networks, a Potential Infrastructure for a Post-Money Economy, by Ben Goertzel](https://globalbraininstitute.github.io/onet/files/offer_networks.pdf)
 
 > "" - []()
 
@@ -485,6 +495,8 @@ https://deconstructingyourself.com/
 
 
 
+
+Helbing, Dirk (2013). Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society. http://arxiv.org/abs/1305.4078
 
 Delphi procedure ??? what is that - google it
 
