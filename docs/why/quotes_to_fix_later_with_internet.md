@@ -465,6 +465,11 @@
 
 > "While the development of such a model will still require a lot of research, the present analysis makes the problem much more tractable, by subdividing it into separate elements (such as challenge, agent and multilink), structures (such as topology of the network, or organization of the agents), processes (such as challenge selection, challenge processing, and challenge propagation), and measures (such as degree of relaxation, priority of a challenge, and overall intelligence)." - [Challenge Propagation: towards a mathematical theory of distributed intelligence and the Global Brain, by Francis Heylighen]()
 
+http://pespmc1.vub.ac.be/Papers/ChallengePropagation.pdf
+http://pcp.vub.ac.be/Papers/ChallengePropagation-Spanda.pdf
+http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
+??? or not the spanda?
+
 > "" - [The Offer Network Protocol: mathematical foundations and a roadmap for the development of a global brain, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Roadmap-OfferNetwork.pdf)
 
 > "" - [The Offer Network Protocol: mathematical foundations and a roadmap for the development of a global brain, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Roadmap-OfferNetwork.pdf)
@@ -629,4 +634,6 @@ production projects” Downloaded on October 23, 2015 from
 http://www.p2plab.gr/en/archives/977
 
 
+
+> "Inference is actually quite close to a theory of everything - including evolution, consciousness, and life itself." - [Karl Friston](https://www.youtube.com/watch?v=_JCaic5Cxms)
 
