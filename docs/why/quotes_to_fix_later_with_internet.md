@@ -611,7 +611,15 @@ C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journa
 “Man is least himself when he talks in his own person. Give him a mask, and he will tell you
 the truth.” - Oscar Wilde
 
+Heylighen, F., Busseniers, E., Veitas, V., Vidal, C., & Weinbaum, D. R. (2012). Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications (GBI Working Papers No. 2012-05). GBI Working Papers. Retrieved
+from http://pespmc1.vub.ac.be/papers/TowardsGB-model.pdf
 
+Heylighen, F., Kostov, I., & Kiemen, M. (2013). Mobilization Systems: technologies for motivating and coordinating human action. In Peters M. A., Besley T. and Araya D. (Ed.), The New Development Paradigm: Education, Knowledge Economy and Digital
+http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf
+
+Jøsang, A., Ismail, R., & Boyd, C. (2007). A survey of trust and reputation systems for online service provision. Decision Support Systems, Emerging Issues in Collaborative Commerce, 43(2), 618–644. doi:10.1016/j.dss.2005.05.019
+
+Thaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving decisions about health, wealth, and happiness. Yale Univ Pr.
 
 Computer scientist Viktoras Veitas and philosopher David Weinbaum recently proposed a futuristic evolutionary paradigm, the ‘World of Views’, which may be useful to help us situate an exploration of the technocultural world. The ‘World of Views’ attempts to understand a post- scarcity, post-singularity, evolutionary landscape where the primary driver of change is the “multiplicity of unique, modular, and open co-evolving worldviews” (Veitas & Weinbaum 2015, p. 504)
 
@@ -634,7 +642,13 @@ emergence of open value network: Measuring value and distributing revenue in pee
 production projects” Downloaded on October 23, 2015 from
 http://www.p2plab.gr/en/archives/977
 
+Bonabeau, E. (2009). Decisions 2.0: The power of collective intelligence. MIT Sloan
+http://www.worldwideopen.org/uploads/groups_bull/files/30/decision%202.0.pdf
 
+De Alfaro, L., Kulshreshtha, A., Pye, I., & Adler, B. T. (2011). Reputation systems for open collaboration. Communications of the ACM, 54(8), 81–87. Retrieved from
+http://dl.acm.org/citation.cfm?id=1978560
+
+Evrard, A. E., Erdmann, C., Holmquist, J., Damon, J., & Dietrich, D. (2015). Persistent, Global Identity for Scientists via ORCID. arXiv:1502.06274 [astro-ph,physics:physics]. Retrieved from http://arxiv.org/abs/1502.06274
 
 > "Inference is actually quite close to a theory of everything - including evolution, consciousness, and life itself." - [Karl Friston](https://www.youtube.com/watch?v=_JCaic5Cxms)
 
