@@ -490,15 +490,15 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 
 > "Links between systems and components are more likely to be added and reinforced than to be removed. Eventually, all systems will become interconnected, and their pattern of interconnection will become increasingly efficient, maximizing synergies while minimizing conflicts or frictions, so that information can take the most direct route from those that produce it to those that need it. That is why there is a continuing trend for all information technologies to merge into one giant distributed intelligence." - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
 
-> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+> "One of the reasons for the popularity of Internet communities and social media is precisely that they make it easy for people to get recognition for their contributions from peers, thus allowing them to build up a good reputation. The popularity of games, on the other hand, is due for an important part to the fact that they provide immediate feedback about the actions performed by the player, in the form or points, scores, and awards. This creates a sense of achievement, as players can graduate into increasingly advanced “levels” of expertise in the game. While these gaming applications may seem rather frivolous, the underlying psychological mechanism of flow makes a real contribution to people’s level of happiness. Moreover, this mechanism can be extended by techniques such as “gamification” to tasks that are very serious indeed, such as studying mathematics, or increasing fitness. The concept of mobilization system refers to a new type of DIT that encourages and helps people to work towards a worthwhile objective, thus boosting their sense of achievement." - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
 
-> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+> "" - []()
 
-> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+> "" - []()
 
-> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+> "" - []()
 
-> "" - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+> "" - []()
 
 > "" - []()
 
@@ -614,14 +614,14 @@ Heylighen and Chielens, p. 10370; Francis Heylighen, ‘What Makes a Meme Succes
 
 C. Heath and D. Heath, Made to Stick: Why Some Ideas Survive and Others Die (Random House, 2007).
 
-Francis Heylighen, ‘Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information’, in Open Source Jahrbuch 2007, ed. by B. Lutterbeck, M. Baerwolff & R. A. Gehring (Lehmanns Media, 2007), pp. 165–180 <http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf>.
+Francis Heylighen, ‘Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information’, in Open Source Jahrbuch 2007, ed. by B. Lutterbeck, M. Baerwolff & R. A. Gehring (Lehmanns Media, 2007), pp. 165–180
+http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf
 
 C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journal of Public Information Systems, 1 (2008), 1–24.
 
+Michael, D. R., & Chen, S. L. (2005). Serious games: Games that educate, train, and inform. Muska & Lipman/Premier-Trade.
 
-
-“Man is least himself when he talks in his own person. Give him a mask, and he will tell you
-the truth.” - Oscar Wilde
+> "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - [Oscar Wilde]()
 
 Heylighen, F., Busseniers, E., Veitas, V., Vidal, C., & Weinbaum, D. R. (2012). Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications (GBI Working Papers No. 2012-05). GBI Working Papers. Retrieved
 from http://pespmc1.vub.ac.be/papers/TowardsGB-model.pdf
@@ -659,6 +659,10 @@ http://www.worldwideopen.org/uploads/groups_bull/files/30/decision%202.0.pdf
 
 De Alfaro, L., Kulshreshtha, A., Pye, I., & Adler, B. T. (2011). Reputation systems for open collaboration. Communications of the ACM, 54(8), 81–87. Retrieved from
 http://dl.acm.org/citation.cfm?id=1978560
+
+Elmenreich, W., D’Souza, R., Bettstetter, C., & de Meer, H. (2009). A Survey of Models and Design Methods for Self-Organizing Networked Systems. Self-Organizing Systems, 37–49.
+
+Gao, H., Barbier, G., & Goolsby, R. (2011). Harnessing the crowdsourcing power of social media for disaster relief. Intelligent Systems, IEEE, 26(3), 10–14.
 
 Evrard, A. E., Erdmann, C., Holmquist, J., Damon, J., & Dietrich, D. (2015). Persistent, Global Identity for Scientists via ORCID. arXiv:1502.06274 [astro-ph,physics:physics]. Retrieved from http://arxiv.org/abs/1502.06274
 
