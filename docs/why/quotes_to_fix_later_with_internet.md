@@ -550,11 +550,11 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 
 > "According to some estimates, in our present economic system more than half of economic value generated is lost to transaction costs. A fundamental source of transaction costs is uncertainty: since the agent does not know what transaction to enter into, what to agree upon, or what to expect, it will need to spend a lot of energy in search, negotiation, and enforcement of agreements." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
-> "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
+> "The potential for theoretical explanation and practical application of the stigmergy concept is much larger still than hitherto assumed. What (Parunak, 2006) noted about human institutions, that the more difficult issue is to find examples where stigmergy does not apply, extends to complex systems in general, and in particular to systems that exhibit some form of cognition, cooperation, or organization that is the result of evolution. When properly defined, the mechanism of stigmergy appears to be nearly ubiquitous, and able to illuminate a variety of conceptual problems in a non-trivial manner." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
-> "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
+> "Another, even more common misunderstanding is that stigmergy only concerns groups or swarms consisting of many agents. As we will show, stigmergy is just as important for understanding the behavior of a single individual." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
-> "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
+> "Stigmergy is an indirect, mediated mechanism of coordination between actions, in which the trace of an action left on a medium stimulates the performance of a subsequent action." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
 > "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
@@ -743,6 +743,10 @@ ActInf GuestStream #015.1_ Bobby Azarian, Universal Bayesianism_ A New Kind of T
 ActInf GuestStream #015.2 ~ Bobby Azarian _The Integrated Evolutionary Synthesis_-WEfc9X437yY
 ActInf GuestStream #015.3 ~ Bobby Azarian_ _The Teleological Stance_ The Free Energy Principle..._-S-tFHIqtbSI
 
+.2 is a better version of .1
+
+
+
 > "Inference is actually quite close to a theory of everything - including evolution, consciousness, and life itself." - [Karl Friston](https://www.youtube.com/watch?v=_JCaic5Cxms)
 
 > "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://www.youtube.com/watch?v=_JCaic5Cxms)
@@ -758,6 +762,13 @@ evolution is an inference engine
 the organisms that persist are the models that are best able to predict the environment
 
 TODO: landauer/landawer limit? written about at SFI by David someone - about energy efficiency
+
+we can use the dynamics of a system on one level to predict/model the dynamics of the system on another level - all complex adaptive systems have some similar patterns
+isomorphic relationship between different levels of emergence/complexity?
+the principle of consequence capture is one such example that can be found on all levels
+
+Bobby Azarian twitter DM: just listened to your 3rd appearance on the active inference channel where you talk about the isomorphism of some of the patterns of different levels of complex adaptive systems and I couldn't stop thinking about John Stewart's concept of consequence capture from his book Evolution's Arrow which is required for full alignment and for free riders to not outcompete altruists.
+
 
 SCREENSHOTS !!!
 
