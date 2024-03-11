@@ -550,9 +550,6 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 
 > "According to some estimates, in our present economic system more than half of economic value generated is lost to transaction costs. A fundamental source of transaction costs is uncertainty: since the agent does not know what transaction to enter into, what to agree upon, or what to expect, it will need to spend a lot of energy in search, negotiation, and enforcement of agreements." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
-
-
-
 > "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
 > "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
