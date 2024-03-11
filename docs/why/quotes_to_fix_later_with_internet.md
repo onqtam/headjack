@@ -669,10 +669,10 @@ Stewart, J. 2014. The direction of evolution: The rise of cooperative organizati
 Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
 http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
 
-Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
-http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
-
 Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
+In Internet and Web Applications and Services, 2007. ICIW'07. Second International Conference on, 58–58.
+
+Malone, T. W, and M. Klein. (2007). Harnessing collective intelligence to address global climate change. Innovations: Technology, Governance, Globalization 2, no. 3: 15–26.
 
 Klein, M. 2012. Enabling Large-­‐Scale Deliberation Using Attention-­‐Mediation Metrics.	
 
@@ -684,6 +684,7 @@ C. Heath and D. Heath, Made to Stick: Why Some Ideas Survive and Others Die (Ran
 
 Francis Heylighen, ‘Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information’, in Open Source Jahrbuch 2007, ed. by B. Lutterbeck, M. Baerwolff & R. A. Gehring (Lehmanns Media, 2007), pp. 165–180
 http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf
+Why is Open Source Development so Successful? Stigmergic organization and the economics of information in: B. Lutterbeck, M. Baerwolff & R. A. Gehring (eds.) Open Source Jahrbuch 2007, Lehmanns Media.
 
 C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journal of Public Information Systems, 1 (2008), 1–24.
 
@@ -709,8 +710,6 @@ Veitas, V. & Weinbau, D. 2015. A world of views: A world of interacting post-hum
 Coenen T. (2006) Knowledge sharing over social networking systems ECCO working paper 2006-11,
 http://homepages.vub.ac.be/~tcoenen/thesis.pdf
 
-Why is Open Source Development so Successful? Stigmergic organization and the economics of information in: B. Lutterbeck, M. Baerwolff & R. A. Gehring (eds.) Open Source Jahrbuch 2007, Lehmanns Media.
-
 Heylighen F., Heath M., F. Van Overwalle (2004) The Emergence of Distributed Cognition: a conceptual framework, Proceedings of Collective Intentionality IV, Siena (Italy)
 
 Martens B. (2004) The Cognitive Mechanics of Economic Development and Institutional Change, Routledge
@@ -724,6 +723,12 @@ http://www.p2plab.gr/en/archives/977
 
 Bonabeau, E. (2009). Decisions 2.0: The power of collective intelligence. MIT Sloan
 http://www.worldwideopen.org/uploads/groups_bull/files/30/decision%202.0.pdf
+
+Axelrod, R., and M. D. Cohen. (1999). Harnessing Complexity: Organizational Implications of a Scientific Frontier. Free Press
+
+Heylighen, F. (2004): "Mediator Evolution: a general scenario for the origin of dynamical hierarchies"
+
+Corning, P.A. (1998). “The synergism hypothesis”: On the concept of synergy and its role in the evolution of complex systems. Journal of Social and Evolutionary Systems
 
 De Alfaro, L., Kulshreshtha, A., Pye, I., & Adler, B. T. (2011). Reputation systems for open collaboration. Communications of the ACM, 54(8), 81–87. Retrieved from
 http://dl.acm.org/citation.cfm?id=1978560
