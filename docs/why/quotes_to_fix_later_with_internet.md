@@ -706,6 +706,18 @@ http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf
 
 Heylighen, F. 2013. From human computation to the Global Brain: the self-organization of distributed intelligence. In: Michelucci, P. (Ed.), Handbook of Human Computation.
 
+Cristian, F. (1996). Synchronous and asynchronous Group Communication. Communications of the ACM, 39(4), 88–97.
+
+Crowston, K. (1997). A coordination theory approach to organizational process design. Organization Science, 8(2), 157–175.
+
+Dipple, A., Raymond, K., & Docherty, M. (n.d.). General theory of stigmergy: Modelling stigma semantics. Cognitive Systems Research. doi:10.1016/j.cogsys.2014.02.002
+
+Elliott, M. A. (2007). Stigmergic collaboration: a theoretical framework for mass collaboration (PhD thesis).
+http://eprints.infodiv.unimelb.edu.au/00003977/01/elliott_phd_pub_08.10.07.pdf
+
+Gershenson, C., & Heylighen, F. (2005). How can we think complex? In K. Richardson (Ed.), Managing organizational complexity: philosophy, theory and application (pp. 47–61). Information Age
+Publishing. Retrieved from http://pcp.vub.ac.be/Papers/ThinkingComplex.pdf
+
 Rifkin, J. 2014. The zero marginal cost society: The internet of things, the collaborative commons, and the eclipse of capitalism. Palgrave Macmillan Trade.
 
 Chorost, M. 2011. World wide mind: The coming integration of humanity. New York: Simon and Schuster.
@@ -723,6 +735,9 @@ Stewart, J. 2014. The direction of evolution: The rise of cooperative organizati
 Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
 http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
 
+Heylighen, F. (2008b). Complexity and Self-organization. Encyclopedia of Library and Information Sciences,
+http://pespmc1.vub.ac.be/Papers/ELIS-complexity.pdf
+
 Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
 In Internet and Web Applications and Services, 2007. ICIW'07. Second International Conference on, 58–58.
 
@@ -731,6 +746,14 @@ Malone, T. W, and M. Klein. (2007). Harnessing collective intelligence to addres
 Klein, M. 2012. Enabling Large-­‐Scale Deliberation Using Attention-­‐Mediation Metrics.	
 
 Francis Heylighen, Cognitive Systems.
+Heylighen, F. (2010). Cognitive Systems: a cybernetic approach on the new science of the mind. ECCO,
+VUB. Retrieved from http://pespmc1.vub.ac.be/Papers/CognitiveSystems.pdf
+
+Heylighen, F. (2012a). A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior (Working papers No. 2012-06). Brussels, Belgium.
+Retrieved from http://pcp.vub.ac.be/papers/TaleofAdventure.pdf
+
+Heylighen, F., & Joslyn, C. (2003). Cybernetics and Second-Order Cybernetics. In Robert A. Meyers (Ed.), Encyclopedia of Physical Science and Technology (3rd ed., Vol. 4, pp. 155–169). New York:
+Academic Press. Retrieved from http://pespmc1.vub.ac.be/Papers/cybernetics-EPST.pdf
 
 Heylighen and Chielens, p. 10370; Francis Heylighen, ‘What Makes a Meme Successful? Selection Criteria for Cultural Evolution’, in Proc. 16th Int. Congress on Cybernetics (Namur: Association Internat. de Cybernétique, 1998), p. 423–418.
 
@@ -751,6 +774,18 @@ from http://pespmc1.vub.ac.be/papers/TowardsGB-model.pdf
 
 Heylighen, F., Kostov, I., & Kiemen, M. (2013). Mobilization Systems: technologies for motivating and coordinating human action. In Peters M. A., Besley T. and Araya D. (Ed.), The New Development Paradigm: Education, Knowledge Economy and Digital
 http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf
+
+Marsh, L., & Onof, C. (2008). Stigmergic epistemology, stigmergic cognition. Cognitive Systems Research,
+
+Newman, M. E. J. (2003). The structure and function of complex networks. SIAM Review, 167–256.
+
+Parunak, H. V. D. (2006). A survey of environments and mechanisms for human-human stigmergy. In D. Weyns, H. V. D. Parunak, & F. Michel (Eds.), Environments for Multi-Agent Systems II (pp. 163–186). Springer.
+
+Ricci, A., Omicini, A., Viroli, M., Gardelli, L., & Oliva, E. (2006). Cognitive stigmergy: A framework based on agents and artifacts. Third International Workshop on Environments for Multiagent Systems (E4MAS 06).
+
+Robles, G., Merelo, J. J., & Gonzalez-Barahona, J. M. (2005). Self-organized development in libre software: a model based on the stigmergy concept. Proceedings of the 6th International Workshop on Software Process Simulation and Modeling (ProSim 2005), 16.
+
+Sumi, R., Yasseri, T., Rung, A., Kornai, A., & Kertész, J. (2011). Characterization and prediction of Wikipedia edit wars. Retrieved from http://journal.webscience.org/523/
 
 Jøsang, A., Ismail, R., & Boyd, C. (2007). A survey of trust and reputation systems for online service provision. Decision Support Systems, Emerging Issues in Collaborative Commerce, 43(2), 618–644. doi:10.1016/j.dss.2005.05.019
 
@@ -781,6 +816,8 @@ http://www.worldwideopen.org/uploads/groups_bull/files/30/decision%202.0.pdf
 Axelrod, R., and M. D. Cohen. (1999). Harnessing Complexity: Organizational Implications of a Scientific Frontier. Free Press
 
 Heylighen, F. (2004): "Mediator Evolution: a general scenario for the origin of dynamical hierarchies"
+Heylighen, F. (2006). Mediator Evolution: a general scenario for the origin of dynamical hierarchies.
+Worldviews, Science and Us.(Singapore: World Scientific).
 
 Corning, P.A. (1998). “The synergism hypothesis”: On the concept of synergy and its role in the evolution of complex systems. Journal of Social and Evolutionary Systems
 
