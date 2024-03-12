@@ -556,7 +556,25 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 
 > "Stigmergy is an indirect, mediated mechanism of coordination between actions, in which the trace of an action left on a medium stimulates the performance of a subsequent action." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
-> "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
+> "Compared to traditional methods of organization, stigmergy makes absolutely minimal demands on the agents. In particular, in stigmergic collaboration there is no need for:
+>
+> • planning or anticipation: agents only need to know the present state of the activity; the overall goal, next step or end result is irrelevant for their present work. In Wikipedia, there is no plan specifying which information should be added to the encyclopedia when.
+>
+> • memory: agents do not need to remember their previous activity; no information about the state of the work needs to be stored anywhere except in the medium.
+>
+> • communication: no information needs to be transferred between the agents, except via the work done in the medium; there is in particular no need for the agents to negotiate about who does what.
+>
+> • mutual awareness: each agent works independently; it does not even need to know that others participate. For example, contributors to Wikipedia generally do not know each other or communicate with each other.
+>
+> • simultaneous presence: there is in general no need for the agents to be present at the same time or at the same place; tasks are registered in the medium so that they can be picked up by agents whenever and wherever they are available. That is how worldwide communities can collaborate on a single software project.
+>
+> • imposed sequence: actions are performed automatically in the right order, since an action will not be started until the right condition is in place; the workflow emerges spontaneously, as the completion of one task triggers the initiation of the next task(s)
+>
+> • imposed division of labor: each agent will only perform the actions for which it has the required competence, i.e. for which it possesses adequate condition-action rules; normally, the more “confident” the agent is about the right action (i.e. the stronger the connection between condition and action), the more it will be stimulated by the condition, and the quicker it will be to start the job; in this way, tasks are automatically assigned to the most competent agents
+>
+> • commitment: agents do no need to commit to a particular task (in contradiction to what (Jennings, 1993) claims about multi-agent coordination); an agent decides on the spot what work it should do, depending on opportunity and other contingent conditions; an agent that quits or otherwise becomes unavailable is automatically replaced by another one
+>
+> • centralized control or supervision: errors or perturbations are automatically corrected, as they merely create a new condition stimulating new actions to deal with the challenge; the activity is self-organizing: global organization emerges from local interactions, without any centralized control directing the activity. For example, bugs in open-source software are spotted by users, and resolved by other contributors." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
 > "" - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
