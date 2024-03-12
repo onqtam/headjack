@@ -616,7 +616,15 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 >
 > We have examined different variations on this theme by distinguishing basic aspects or dimensions in which the process can vary. The number of agents involved turns out to be less fundamental than is generally assumed. Increasing that number will qualitatively enhance the result only if the agents are sufficiently diverse in the actions they contribute, yet sufficiently aligned in their strategies so that they do not hinder each other. Like the number of agents, the difference between qualitative and quantitative stigmergy does not seem essential, given that the notion of “stimulation” entails a quantitative aspect of intensity or probability, while the actions that are stimulated more or less intensively differ qualitatively. The difference between sematectonic traces—the concrete, observable results of work performed—and markers—traces left to guide subsequent actions, but without contributing to the work itself—is important but subtle. The use of markers allows a more fine-grained control of stigmergic coordination, but demands an advanced level of collective evolution, in which certain traces have acquired a conventional meaning among the agents that use them. The transience of the trace is crucial in order to ensure that the list of “to do’s” remains up to date: in a quickly changing environment, actions need to adapt in time to new circumstances, which means that an outdated trace should decay before it would elicit too much useless activity; in a more stable environment, on the other hand, persistent traces enable the accumulation of a long and detailed memory. A final dimension of variation, the broadcast-narrowcast continuum, is as yet insufficiently investigated. Nevertheless, it hints at an essential continuity between stigmergic mechanisms of self-organization (using a typically broadcasted trace) and the better-known, local interaction mechanisms, where the result of an action only affects linked or neighboring agents." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
-> "" - []()
+> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+
+> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+
+> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+
+> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+
+> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
 
 > "" - []()
 
