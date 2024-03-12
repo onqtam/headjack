@@ -654,13 +654,25 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 >
 > The libertarian-authoritarian axis on the Political Compass is a tradeoff between discoordination and tyranny. You can have everything perfectly coordinated by someone with a god’s-eye-view – but then you risk Stalin. And you can be totally free of all central authority – but then you’re stuck in every stupid multipolar trap Moloch can devise." - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+> "Alternate phrasing for Chomskyites: technology increases the efficiency of manufacturing consent in the same way it increases the efficiency of manufacturing everything else." - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+> "People are using the contingent stupidity of our current government to replace lots of human interaction with mechanisms that cannot be coordinated even in principle. I totally understand why all these things are good right now when most of what our government does is stupid and unnecessary. But there is going to come a time when – after one too many bioweapon or nanotech or nuclear incidents – we, as a civilization, are going to wish we hadn’t established untraceable and unstoppable ways of selling products. And if we ever get real live superintelligence, pretty much by definition it is going to have >51% of the power and all attempts at “coordination” with it will be useless." - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+> "Moloch is exactly what the history books say he is. He is the god of child sacrifice, the fiery furnace into which you can toss your babies in exchange for victory in war. He always and everywhere offers the same deal: throw what you love most into the flames, and I can grant you power. As long as the offer’s open, it will be irresistible. So we need to close the offer. Only another god can kill Moloch." - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
 
 > "" - []()
 
@@ -686,6 +698,8 @@ Vegetarian food, 1 coffee per day, nicotine chewing gum on walks
 https://deconstructingyourself.com/
 
 
+
+http://wiki.lesswrong.com/wiki/Orthogonality_thesis
 
 LessWrong. (2013). Complexity of value. LessWrong. Wiki. Retrieved from
 http://wiki.lesswrong.com/wiki/Complexity_of_value
