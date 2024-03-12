@@ -616,17 +616,43 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 >
 > We have examined different variations on this theme by distinguishing basic aspects or dimensions in which the process can vary. The number of agents involved turns out to be less fundamental than is generally assumed. Increasing that number will qualitatively enhance the result only if the agents are sufficiently diverse in the actions they contribute, yet sufficiently aligned in their strategies so that they do not hinder each other. Like the number of agents, the difference between qualitative and quantitative stigmergy does not seem essential, given that the notion of “stimulation” entails a quantitative aspect of intensity or probability, while the actions that are stimulated more or less intensively differ qualitatively. The difference between sematectonic traces—the concrete, observable results of work performed—and markers—traces left to guide subsequent actions, but without contributing to the work itself—is important but subtle. The use of markers allows a more fine-grained control of stigmergic coordination, but demands an advanced level of collective evolution, in which certain traces have acquired a conventional meaning among the agents that use them. The transience of the trace is crucial in order to ensure that the list of “to do’s” remains up to date: in a quickly changing environment, actions need to adapt in time to new circumstances, which means that an outdated trace should decay before it would elicit too much useless activity; in a more stable environment, on the other hand, persistent traces enable the accumulation of a long and detailed memory. A final dimension of variation, the broadcast-narrowcast continuum, is as yet insufficiently investigated. Nevertheless, it hints at an essential continuity between stigmergic mechanisms of self-organization (using a typically broadcasted trace) and the better-known, local interaction mechanisms, where the result of an action only affects linked or neighboring agents." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
-> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+> "14. Congress. Only 9% of Americans like it, suggesting a [lower approval rating than](http://www.publicpolicypolling.com/main/2013/01/congress-somewhere-below-cockroaches-traffic-jams-and-nickleback-in-americans-esteem.html) cockroaches, head lice, or traffic jams. However, [62% of people](http://www.gallup.com/poll/162362/americans-down-congress-own-representative.aspx) who know who their own Congressional representative is approve of them. In theory, it should be really hard to have a democratically elected body that maintains a 9% approval rating for more than one election cycle. In practice, every representative’s incentive is to appeal to his or her constituency while throwing the rest of the country under the bus – something at which they apparently succeed. From a god’s-eye-view, every Congressperson ought to think only of the good of the nation. From within the system, you do what gets you elected." - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+> "A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don’t take it die out. Eventually, everyone’s relative status is about the same as before, but everyone’s absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse." - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+> "Just as people can level terrain and build canals, so people can alter the incentive landscape in order to build better institutions. But they can only do so when they are incentivized to do so, which is not always. As a result, some pretty wild tributaries and rapids form in some very strange places." - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+> "Like all good mystical experiences, it happened in Vegas. I was standing on top of one of their many tall buildings, looking down at the city below, all lit up in the dark. If you’ve never been to Vegas, it is really impressive. Skyscrapers and lights in every variety strange and beautiful all clustered together. And I had two thoughts, crystal clear:
+>
+> - It is glorious that we can create something like this.
+>
+> - It is shameful that we did.
+>
+> Like, by what standard is building gigantic forty-story-high indoor replicas of Venice, Paris, Rome, Egypt, and Camelot side-by-side, filled with albino tigers, in the middle of the most inhospitable desert in North America, a remotely sane use of our civilization’s limited resources?
+>
+> And it occurred to me that maybe there is no philosophy on Earth that would endorse the existence of Las Vegas. Even Objectivism, which is usually my go-to philosophy for justifying the excesses of capitalism, at least grounds it in the belief that capitalism improves people’s lives. Henry Ford was virtuous because he allowed lots of otherwise car-less people to obtain cars and so made them better off. What does Vegas do? Promise a bunch of shmucks free money and not give it to them.
+>
+> Las Vegas doesn’t exist because of some decision to hedonically optimize civilization, it exists because of a quirk in dopaminergic reward circuits, plus the microstructure of an uneven regulatory environment, plus Schelling points. A rational central planner with a god’s-eye-view, contemplating these facts, might have thought “Hm, dopaminergic reward circuits have a quirk where certain tasks with slightly negative risk-benefit ratios get an emotional valence associated with slightly positive risk-benefit ratios, let’s see if we can educate people to beware of that.” People within the system, following the incentives created by these facts, think: “Let’s build a forty-story-high indoor replica of ancient Rome full of albino tigers in the middle of the desert, and so become slightly richer than people who didn’t!”
+>
+> Just as the course of a river is latent in a terrain even before the first rain falls on it – so the existence of Caesar’s Palace was latent in neurobiology, economics, and regulatory regimes even before it existed. The entrepreneur who built it was just filling in the ghostly lines with real concrete.
+>
+> So we have all this amazing technological and cognitive energy, the brilliance of the human species, wasted on reciting the lines written by poorly evolved cellular receptors and blind economics, like gods being ordered around by a moron.
+>
+> Some people have mystical experiences and see God. There in Las Vegas, I saw Moloch." - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - [What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)](https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+> "" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - []()
+> "" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+> "" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+> "" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+> "" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+> "" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+> "" - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 > "" - []()
 
@@ -869,4 +895,27 @@ the principle of consequence capture is one such example that can be found on al
 Bobby Azarian twitter DM: just listened to your 3rd appearance on the active inference channel where you talk about the isomorphism of some of the patterns of different levels of complex adaptive systems and I couldn't stop thinking about John Stewart's concept of consequence capture from his book Evolution's Arrow which is required for full alignment and for free riders to not outcompete altruists. Also Stigmergy.
 
 SCREENSHOTS !!!
+
+
+
+
+
+The modern research community knows they aren’t producing the best science they could be. There’s lots of
+publication bias, statistics are done in a confusing and misleading way out of sheer inertia, and replications often
+happen very late or not at all. And sometimes someone will say something like “I can’t believe people are too
+dumb to fix Science. All we would have to do is require early registration of studies to avoid publication bias,
+turn this new and powerful statistical technique into the new standard, and accord higher status to scientists who
+do replication experiments. It would be really simple and it would vastly increase scientific progress. I must just
+be smarter than all existing scientists, since I’m able to think of this and they aren’t.”
+And yeah. That would work for the Science God. He could just make a Science Decree that everyone has to use
+the right statistics, and make another Science Decree that everyone must accord replications higher status.
+But things that work from a god’s-eye view don’t work from within the system. No individual scientist has an
+incentive to unilaterally switch to the new statistical technique for her own research, since it would make her
+research less likely to produce earth-shattering results and since it would just confuse all the other scientists.
+They just have an incentive to want everybody else to do it, at which point they would follow along. And no
+individual journal has an incentive to unilaterally switch to early registration and publishing negative results,
+since it would just mean their results are less interesting than that other journal who only publishes ground-
+breaking discoveries. From within the system, everyone is following their own incentives and will continue to do
+so.
+
 
