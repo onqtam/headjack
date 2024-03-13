@@ -660,9 +660,19 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 
 > "Moloch is exactly what the history books say he is. He is the god of child sacrifice, the fiery furnace into which you can toss your babies in exchange for victory in war. He always and everywhere offers the same deal: throw what you love most into the flames, and I can grant you power. As long as the offer’s open, it will be irresistible. So we need to close the offer. Only another god can kill Moloch." - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-> "" - []()
+> "" - [Web 2.0: New Challenges for the Study of E-Democracy in an Era of Informational Exuberance]()
 
-> "" - []()
+> "" - [Web 2.0: New Challenges for the Study of E-Democracy in an Era of Informational Exuberance]()
+
+> "" - [Web 2.0: New Challenges for the Study of E-Democracy in an Era of Informational Exuberance]()
+
+> "" - [Web 2.0: New Challenges for the Study of E-Democracy in an Era of Informational Exuberance]()
+
+> "" - [Web 2.0: New Challenges for the Study of E-Democracy in an Era of Informational Exuberance]()
+
+> "" - [Web 2.0: New Challenges for the Study of E-Democracy in an Era of Informational Exuberance]()
+
+^^ ISJLP_V5N1_009.pdf
 
 > "" - []()
 
