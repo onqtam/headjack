@@ -701,11 +701,7 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 >
 > While these results are promising, our work has led us to conclude that, to fully realize argumentation technology’s potential for supporting large-scale deliberations, we need to address the critical challenge of attention allocation. For the kinds of topics that most require large-scale deliberation, even a user community of moderate size can quickly generate large and rapidly growing argument maps. How can we help users identify the portions of the map that can best benefit from their contributions, in maps with hundreds or thousands of posts? How can the stakeholders assess whether the deliberations are progressing well, whether some intervention is needed to help the deliberations work more effectively, and when the results are mature and ready to “harvest”? Can we foster, for large-scale deliberations, the understanding that participants in small-scale discussions typically have about where the discussion has gone, what remains to be addressed, and where they can best contribute. Without this kind of big picture, we run the risk of severely under-utilizing the collective intelligence potentially provided by large- scale social media." - [Enabling Large-Scale Deliberation Using Attention-Mediation Metrics, by Mark Klein](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics)
 
-> "" - [Enabling Large-Scale Deliberation Using Attention-Mediation Metrics, by Mark Klein](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics)
-
-> "" - [Enabling Large-Scale Deliberation Using Attention-Mediation Metrics, by Mark Klein](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics)
-
-> "" - [Enabling Large-Scale Deliberation Using Attention-Mediation Metrics, by Mark Klein](https://www.researchgate.net/publication/228319392_Enabling_Large-Scale_Deliberation_Using_Attention-Mediation_Metrics)
+Everything from the second half of the paper (page 11 onward - the ATTENTION MEDIATION METRICS section) could/should have been quoted...
 
 ^^ Enabling_Large-Scale_Deliberation_Using_Attention-.pdf
 1 author:
@@ -753,9 +749,16 @@ Conklin, J., Dialogue Mapping: Building Shared Understanding of Wicked Problems.
 
 Erickson, T., et al., Social Translucence: Designing Social Infrastructures that Make Collective Activity Visible. Communications of the ACM, 2002. 45(4): p. 40-44.
 
+Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
+In Internet and Web Applications and Services, 2007. ICIW'07. Second International Conference on, 58–58.
+
+Malone, T. W, and M. Klein. (2007). Harnessing collective intelligence to address global climate change. Innovations: Technology, Governance, Globalization 2, no. 3: 15–26.
+
 Klein, M. and L. Iandoli, Supporting Collaborative Deliberation Using a Large-Scale Argumentation System: The MIT Collaboratorium, in Directions and Implications of Advanced Computing; Conference on Online Deliberation (DIAC-2008/OD2008). 2008: University of California, Berkeley.
 
 Iandoli, L., M. Klein, and G. Zollo, Enabling on-line deliberation and collective decision-making through large-scale argumentation: a new approach to the design of an Internet-based mass collaboration platform. International Journal of Decision Support System Technology, 2009. 1(1): p. 69-91.
+
+Klein, M., A Knowledge-Based Methodology for Designing Reliable Multi-Agent Systems, in Agent-Oriented Software Engineering IV, P. Giorgini, J.P. Mueller, and J. Odell, Editors. 2003, Springer-Verlag. p. 85 - 95.
 
 http://wiki.lesswrong.com/wiki/Orthogonality_thesis
 
@@ -851,13 +854,6 @@ http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
 
 Heylighen, F. (2008b). Complexity and Self-organization. Encyclopedia of Library and Information Sciences,
 http://pespmc1.vub.ac.be/Papers/ELIS-complexity.pdf
-
-Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
-In Internet and Web Applications and Services, 2007. ICIW'07. Second International Conference on, 58–58.
-
-Malone, T. W, and M. Klein. (2007). Harnessing collective intelligence to address global climate change. Innovations: Technology, Governance, Globalization 2, no. 3: 15–26.
-
-Klein, M. 2012. Enabling Large-­‐Scale Deliberation Using Attention-­‐Mediation Metrics.	
 
 Francis Heylighen, Cognitive Systems.
 Heylighen, F. (2010). Cognitive Systems: a cybernetic approach on the new science of the mind. ECCO,
