@@ -83,6 +83,8 @@
 
 ^^ 1:15:20 till 1:18:10
 
+> "We started to gradually stop depending on our local network for our security and our sustenance and we traded the local network for two Anonymous systems one is the market and the other is the government uh and they they're those are transactional cold and inhuman right and further as we know uh let's say welfare for instance one of the problems with welfare is uh that you know people who aren't even trying to help themselves get welfare as well while in the uh you know the social network that's provided by the community uh you know if you're an anti-social person doing harm to the community guess what people aren't going to help you right uh government is unable to make that distinction so it just hands out checks to everybody whether they're good bad or indifferent there's no moral context there's no virtue uh in government and of course there's no virtue in markets quite the contrary right if you take markets to their absurdum say post 1975 capitalism uh where uh capitalism was wrongly interpreted to mean that corporations had a moral obligation to maximize shareholder value above everything else uh then of course it has no moral context whatsoever uh and you end up with things like fast food and Coca-Cola and uh gangster rap and pornography you know most vile imaginable pornography being streamed into the heads of 11 year old boys I mean what the hell right in a righteous Society those people should be taken out and hanged right but they're not." - [Jim Rutt](https://youtu.be/z6y2CTeygNc?t=1676)
+
 > "" - []()
 
 > "" - []()
