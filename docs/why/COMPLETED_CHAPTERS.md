@@ -211,6 +211,8 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "The Global Brain seems to be developing superhuman capabilities similar to the classic attributes of God: omniscience, omnipresence and omnipotence." - [The Global Brain as a model of the future information society: An introduction to the special issue, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TFSC-intro.pdf)
 
 
+> "The religious is the category in culture that is concerned with the fitness to purpose of human cultural environments." - [Jordan Hall](https://youtu.be/SkHeudFqPnk?t=3616)
+
 
 > "Syntheism is essentially idea that God is a good word to use, because God is the ultimate. And we have no better word for the ultimate. So say if you and I would set sit down together and discuss dreams - what we dream about the most and what could possibly sometimes in the future - whether in our lifetime or not - if something could happen that would really really strike us as a worthy goal to work towards - that will give us purpose and meaning with everything we do in our lives - now, now there's no better word for that if that's a shared point - there's no better word for that than God." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=1797)
 
