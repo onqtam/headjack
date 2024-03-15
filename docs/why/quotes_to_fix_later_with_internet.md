@@ -843,8 +843,6 @@ Cole-Turner, R. 2012. The singularity and the rapture: Transhumanist and popular
 
 Hayles, N.K. 2012. How we think: Digital media and contemporary technogenesis. Chicago: University of Chicago Press.
 
-Turchin, V. 1977. The Phenomenon of Science: A Cybernetic Approach to Human Evolution. New York: Columbia University Press.
-
 Stewart, J. 2008. The future of life and what it means for humanity. In: C. Vidal (Ed.), The evolution and development of the universe, pp. 349-352.
 
 Stewart, J. 2014. The direction of evolution: The rise of cooperative organization. Biosystems, DOI: 10.1016/j.biosystems.2014.05.006.
