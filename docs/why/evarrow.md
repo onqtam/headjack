@@ -1054,6 +1054,7 @@ This [whole paper](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf) needs t
 
 > "" - [source](https://www.evolutionarymanifesto.com/JCS.pdf)
 
+
 <!-- 
 > "" - [source]()
 

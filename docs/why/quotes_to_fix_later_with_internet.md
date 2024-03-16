@@ -205,7 +205,7 @@
 >
 > But these are the quantitative aspects of future mind. The qualitative aspects are much harder to describe and anticipate, as they will be emergent in their very nature, potentially enabling new forms of game, adventure, exploration, ecstasy and mystery in physical spaces, but also intersubjective virtual spaces." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
-> "The difficulty we face in trying to evaluate [the future of intelligence] at our current scale of intelligence would be similar to the challenge facing an intelligent bacterium in our gut that is trying to make sense of the social interactions we engage in." - [John Stewart](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+> "The difficulty we face in trying to evaluate [the future of intelligence] at our current scale of intelligence would be similar to the challenge facing an intelligent bacterium in our gut that is trying to make sense of the social interactions we engage in." - [John E. Stewart](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
 > "Rather than being dictated top down, we can only hope that the religion of tomorrow will emerge and evolve bottom up. Religion seems to be very much like language, and we’ve seen plenty of failed top-down invented “better” languages as well as religions." - [Why we need a new religion, by Octopusyarn](https://octopusyarn.substack.com/p/why-we-need-a-new-religion)
 
@@ -710,7 +710,27 @@ Massachusetts Institute of Technology
 422 PUBLICATIONS 8,000 CITATIONS
 
 
-> "" - []()
+> "" - [The future evolution of consciousness, by John E. Stewart](https://www.evolutionarymanifesto.com/JCS.pdf)
+
+> "" - [The evolution and development of consciousness: the subject-object emergence hypothesis, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S0303264722000752)
+
+> "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
+
+
+> "" - [Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf)
+
+
+> "" - [Enlightenment and the Evolution of the Material World, by John E. Stewart](https://www.evolutionarymanifesto.com/SpandaArticle.pdf)
+
+
+> "" - [The direction of evolution: The rise of cooperative organization, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S030326471400080X?via%3Dihub)
+
+
+> "" - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
+
+
 
 > "" - []()
 
@@ -718,11 +738,13 @@ Massachusetts Institute of Technology
 
 > "" - []()
 
-> "" - []()
+https://publik.tuwien.ac.at/files/PubDat_237340.pdf
+https://publik.tuwien.ac.at/files/publik_266970.pdf
 
-> "" - []()
 
-> "" - []()
+
+
+
 
 
 
@@ -773,7 +795,7 @@ Rodriguez, M.A (2007) Social Decision Making with Multi-Relational Networks and 
 Particle Swarms, in: 2007 Hawaii International Conference on Systems Science (HICSS) IEEE
 Computer Society
 
-Heylighen F. (1999a) “The Growth of Structural and Functional Complexity during Evolution“, in: F.
+
 Heylighen, J. Bollen & A. Riegler (eds.) The Evolution of Complexity Kluwer Academic,
 Dordrecht, p. 17-44
 
@@ -818,9 +840,6 @@ https://www.jstor.org/stable/3087765#metadata_info_tab_contents
 
 https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitter/
 
-Francis Heylighen, Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, Ecco, 2011
-http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf
-
 Heylighen, F. 2013. From human computation to the Global Brain: the self-organization of distributed intelligence. In: Michelucci, P. (Ed.), Handbook of Human Computation.
 
 Cristian, F. (1996). Synchronous and asynchronous Group Communication. Communications of the ACM, 39(4), 88–97.
@@ -844,8 +863,6 @@ Cole-Turner, R. 2012. The singularity and the rapture: Transhumanist and popular
 Hayles, N.K. 2012. How we think: Digital media and contemporary technogenesis. Chicago: University of Chicago Press.
 
 Stewart, J. 2008. The future of life and what it means for humanity. In: C. Vidal (Ed.), The evolution and development of the universe, pp. 349-352.
-
-Stewart, J. 2014. The direction of evolution: The rise of cooperative organization. Biosystems, DOI: 10.1016/j.biosystems.2014.05.006.
 
 Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
 http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
