@@ -725,8 +725,6 @@ Massachusetts Institute of Technology
 > "" - [Enlightenment and the Evolution of the Material World, by John E. Stewart](https://www.evolutionarymanifesto.com/SpandaArticle.pdf)
 
 
-> "" - [The direction of evolution: The rise of cooperative organization, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S030326471400080X?via%3Dihub)
-
 
 > "" - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
 
