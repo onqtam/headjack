@@ -726,8 +726,6 @@ Massachusetts Institute of Technology
 
 
 
-> "" - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
-
 
 
 > "" - []()
