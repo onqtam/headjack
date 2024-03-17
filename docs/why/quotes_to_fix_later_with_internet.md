@@ -725,6 +725,9 @@ Massachusetts Institute of Technology
 > "" - [Enlightenment and the Evolution of the Material World, by John E. Stewart](https://www.evolutionarymanifesto.com/SpandaArticle.pdf)
 
 
+> "The management mechanism and its capacity to drive a major transition only arises where the manager has: (1) the power to reach across and control an entire social group, enabling the manager to organize the group as a whole; (2) the capacity to harvest the benefits that are produced by the manager’s promotion of cooperation across the group; and (3) importantly, the ability to command the resources of the group and to deploy them to actively reward and ‘fund’ whatever complex cooperation will benefit the group as a whole. It is only when all the features of the management mechanism are present (not just enforcement per se), that a managed social group is able to complete a transition e.g. by developing group level functionality and by comprehensively exploring the space of complex cooperation." - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart, 2020](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
+
+> "A comprehensive theory of past and future human major cooperative transitions will have major implica­ tions for how humanity organises itself socially, including economically and politically. After all, the subject matter of such a theory will include the current structure, functioning and evolution of our societies. It will include an understanding of how our societies have come to be orga­ nized the way they have, where they might be deficient, how they might be organized more effectively, what the next steps in their evolution might be, and how these steps might need to be organized. It will be a case of evolutionary theory finally catching up with what is evolving in the world here and now, and understanding the forces and processes that will shape what is to evolve in the future." - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart, 2020](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
 
 
 
@@ -740,11 +743,18 @@ https://publik.tuwien.ac.at/files/publik_266970.pdf
 
 
 
+Salthe, S.N., 1985. Evolving Hierarchical Systems. Columbia University Press, New York.
+http://refhub.elsevier.com/S0303-2647(20)30126-X/sref42
 
+Agren, J.A., Davies, N.G., Foster, K.R., 2019. Enforcement is central to the evolution of cooperation. Nat. Ecol. Evol. 3, 1018–1029. https://doi.org/10.1038/s41559-019-0907-1.
 
+Singh, M., Boomsma, J.J., 2015. Policing and punishment across the domains of social evolution. Oikos 124, 971–982. https://doi.org/10.1111/oik.02064.
 
+Olson, M., 1993. Dictatorship, democracy, and development. Am. Polit. Sci. Rev. 87, 567–576.
+http://refhub.elsevier.com/S0303-2647(20)30126-X/sref31
 
-
+Olson, M., 2000. Power and Prosperity: Outgrowing Communist and Capitalist Dictatorships. Basic Books, New York.
+http://refhub.elsevier.com/S0303-2647(20)30126-X/sref32
 
 
 
