@@ -710,10 +710,6 @@ Massachusetts Institute of Technology
 422 PUBLICATIONS 8,000 CITATIONS
 
 
-> "" - [The future evolution of consciousness, by John E. Stewart](https://www.evolutionarymanifesto.com/JCS.pdf)
-
-> "" - [The evolution and development of consciousness: the subject-object emergence hypothesis, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S0303264722000752)
-
 > "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
 
 > "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
@@ -722,14 +718,16 @@ Massachusetts Institute of Technology
 > "" - [Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf)
 
 
-> "" - [Enlightenment and the Evolution of the Material World, by John E. Stewart](https://www.evolutionarymanifesto.com/SpandaArticle.pdf)
 
+> "GWT suggests that conscious processes involve the use of global broadcasts about adaptive challenges to recruit specialist agents from across the brain. Appropriate combinations of these agents can contribute their specialist skills to devise novel adaptive responses to the challenges that have been broadcast. This capacity is particularly useful for developing responses to adaptive challenges that have not been encountered before and are not the sub­ject of pre-existing learned or innate responses i.e. where there are un­certainties and ambiguities about how to adapt." - [The evolution and development of consciousness: the subject-object emergence hypothesis, by John E. Stewart](https://www.sciencedirect.com/science/article/pii/S0303264722000752)
 
 > "The management mechanism and its capacity to drive a major transition only arises where the manager has: (1) the power to reach across and control an entire social group, enabling the manager to organize the group as a whole; (2) the capacity to harvest the benefits that are produced by the manager’s promotion of cooperation across the group; and (3) importantly, the ability to command the resources of the group and to deploy them to actively reward and ‘fund’ whatever complex cooperation will benefit the group as a whole. It is only when all the features of the management mechanism are present (not just enforcement per se), that a managed social group is able to complete a transition e.g. by developing group level functionality and by comprehensively exploring the space of complex cooperation." - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart, 2020](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
 
 > "A comprehensive theory of past and future human major cooperative transitions will have major implica­ tions for how humanity organises itself socially, including economically and politically. After all, the subject matter of such a theory will include the current structure, functioning and evolution of our societies. It will include an understanding of how our societies have come to be orga­ nized the way they have, where they might be deficient, how they might be organized more effectively, what the next steps in their evolution might be, and how these steps might need to be organized. It will be a case of evolutionary theory finally catching up with what is evolving in the world here and now, and understanding the forces and processes that will shape what is to evolve in the future." - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart, 2020](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
 
+> "" - [The future evolution of consciousness, by John E. Stewart](https://www.evolutionarymanifesto.com/JCS.pdf)
 
+> "Dobzhansky’s well known statement “Nothing makes sense in biology except in the light of evolution” applies equally to evolutionary mechanisms themselves-the processes that discover and perpetuate adaptations in living systems. Any theory of evolution which fails to deal with the evolution of evolutionary mechanisms obviously cannot provide an understanding of the present nature and pattern of these processes in living systems, and will thus be incomplete. It will also fail to explore the attractive possibility that biological laws of greatest generality may be found to apply to the evolution of the processes which discover adaptations, rather than to the adaptations themselves." - [Metaevolution, by John E. Stewart](https://www.evolutionarymanifesto.com/metaevolution.pdf)
 
 > "" - []()
 
@@ -742,6 +740,13 @@ https://publik.tuwien.ac.at/files/publik_266970.pdf
 
 
 
+
+Popper, K. R. (1972) Objective Knowledge-An Evolutionary Approach. Oxford: Clarendon.
+
+"Nothing makes sense in biology except in the light of evolution" - Dobzhansky
+
+Heylighen, F., 2001. The science of self-organization and adaptivity. Encycl. Life Support Syst. 5, 253–280.
+http://refhub.elsevier.com/S0303-2647(22)00075-2/sref18
 
 Salthe, S.N., 1985. Evolving Hierarchical Systems. Columbia University Press, New York.
 http://refhub.elsevier.com/S0303-2647(20)30126-X/sref42
@@ -867,8 +872,6 @@ Chorost, M. 2011. World wide mind: The coming integration of humanity. New York:
 Cole-Turner, R. 2012. The singularity and the rapture: Transhumanist and popular Christian views of the future. Zygon, 47: 777-796.
 
 Hayles, N.K. 2012. How we think: Digital media and contemporary technogenesis. Chicago: University of Chicago Press.
-
-Stewart, J. 2008. The future of life and what it means for humanity. In: C. Vidal (Ed.), The evolution and development of the universe, pp. 349-352.
 
 Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
 http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
