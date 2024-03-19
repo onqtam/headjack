@@ -8,7 +8,7 @@ top10 papers:
 - [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart, 2020](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
 The problem with John's papers is that you can't simply quote parts of them as all parts are good - you'd have to use the whole thing. These papers comprise most of the essence of his book `"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"`.
 TODO: maybe just leave the 2014/2018 papers
-- [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
 
 
 hoarding information & profiting from it - example:
