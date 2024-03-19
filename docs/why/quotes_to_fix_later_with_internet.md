@@ -724,7 +724,39 @@ Massachusetts Institute of Technology
 
 
 
+> "For an intelligence to belong properly to a collective, it must arise not from the cleverness of its members but from having the right kind of functional relationships between them." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "All individuals are collectives, made of parts that used to be individuals themselves." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "Multicellular organisms exhibit multi-scale autonomy, a dynamic interplay of competition and cooperation, and coordinated collective action inherent to their development, function and behaviour, while being a society of cells. Thus, individuals like you and I, and collectives like swarms and colonies, are not as categorically different as they ﬁrst appear." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "All intelligences are collectives. Individual intelligence, in the familiar guise of a central nervous system or a brain, arises from the interaction of many unintelligent components (neurons) arranged in the right organisation with the right connections. This is the foundation of connectionism; that intelligence resides not in the individual parts but in the arrangement of the connections between them. The individual neuron is not where all the interesting cognition and learning occur. It is the distributed collective activity in the network that constitutes cognition and changes to the organisation of network connections that constitute learning. So brains are collectives, thus collectives of the right kind do cognise and learn. In fact, brains provide the archetypal example of an intelligent collective." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "Cognition and learning are substrate-independent. The principles of distributed cognition familiar in artiﬁcial neural networks can be implemented by any network of signals and non-linear responses to suitably weighted inputs. Gene-regulation networks, ecological networks and social networks can all compute in the same sense as neural networks if the connections are suitably arranged. In development and organismic biology, many different levels of adaptive networks exist aside from neural networks, including gene-regulation networks, protein networks, metabolic networks, morphogen diffusion networks and endocrine systems. In addition, it is clear that morphogenesis, physiological function and the adaptive processes of robustness and repair all require information integration and collective action that constitute cognition – in many cases without neurons. Each of these phenomena exhibits the same learning behaviours, including the storage and retrieval of multiple associative memories, effecting classiﬁcation and recognition with generalisation capabilities, and learning to solve combi- natorial optimisation problems better with experience." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning, and in all biological individuality... The credit assignment issues of collective intelligence are not categorically distinct from related core issues in individual adaptation, evolution and intelligence." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+^^ ???
+
+> "All intelligences are made out of components that act on local information based on individual feedbacks. In a multicellular organism, for example, the individual cells exhibit agency based on local information and rewards, and the system (cellular swarm) as a whole does also, exhibiting information integration and anatomical decision making at the system-scale." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "In collectives, each component selects behaviours based on the rewards they receive for their own actions. In intelligent systems, the reward feedback is effectively operating at a higher level – and the system as a whole selects behaviours based on the rewards received by the system as a whole. Accordingly, it makes sense that the system selects behaviours that facilitate long- term collective reward. But operationally, each component within the intelligent system is still autonomous, selecting individual actions based on individual rewards given the relational context they ﬁnd themselves in. The question is, what kinds of interaction structures cause collectives to behave like intelligent agents, exhibiting information integration and coordinated action that effect reward feedback at the system level?" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "While connectionist models of cognition and learning do not have all the answers, they do identify the kind of relationships that turn a collection of unintelligent components into a collective intelligence, with cognitive and learning abilities that belong to the whole and not the parts." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "We propose that these relationships are cognitive architectures regardless of the substrate in which they are implemented. That is, the causal structures necessary to create ﬁtness that properly belongs to the whole rather than its parts are the same as those required to carry out the integration of information and coordination of action characteristic of a ’self’. We propose that such functionality constitutes cognition in a formal sense, whether the causal structures are implemented by chemical, gene-regulatory, bio- electrical, neural, ecological or social interactions." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
 > "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
 
 > "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
 
