@@ -616,6 +616,14 @@ http://cleamc11.vub.ac.be/papers/ChallengePropagation-Spanda.pdf
 >
 > We have examined different variations on this theme by distinguishing basic aspects or dimensions in which the process can vary. The number of agents involved turns out to be less fundamental than is generally assumed. Increasing that number will qualitatively enhance the result only if the agents are sufficiently diverse in the actions they contribute, yet sufficiently aligned in their strategies so that they do not hinder each other. Like the number of agents, the difference between qualitative and quantitative stigmergy does not seem essential, given that the notion of “stimulation” entails a quantitative aspect of intensity or probability, while the actions that are stimulated more or less intensively differ qualitatively. The difference between sematectonic traces—the concrete, observable results of work performed—and markers—traces left to guide subsequent actions, but without contributing to the work itself—is important but subtle. The use of markers allows a more fine-grained control of stigmergic coordination, but demands an advanced level of collective evolution, in which certain traces have acquired a conventional meaning among the agents that use them. The transience of the trace is crucial in order to ensure that the list of “to do’s” remains up to date: in a quickly changing environment, actions need to adapt in time to new circumstances, which means that an outdated trace should decay before it would elicit too much useless activity; in a more stable environment, on the other hand, persistent traces enable the accumulation of a long and detailed memory. A final dimension of variation, the broadcast-narrowcast continuum, is as yet insufficiently investigated. Nevertheless, it hints at an essential continuity between stigmergic mechanisms of self-organization (using a typically broadcasted trace) and the better-known, local interaction mechanisms, where the result of an action only affects linked or neighboring agents." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
+> "According to coordination theory, we can distinguish the following fundamental dependencies or connections between actions or processes:
+>
+> 1) one action can be prerequisite for the next action: the product or output of the first is a necessary condition or input for the second. This determines the sequential organization of the process, or workflow, where activity moves step-by-step through a sequence of tasks (what needs to be done next?).
+>
+> 2) two actions can require the same condition (input) and/or contribute to the same effect or goal (output), i.e. they are performed in parallel. This determines the allocation of resources (who receives what?) and the division of labor between agents (who is to do what?).
+>
+> Effective coordination means that the right actions are performed by the right agents at the right time and place." - [Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf)
+
 > "14. Congress. Only 9% of Americans like it, suggesting a [lower approval rating than](http://www.publicpolicypolling.com/main/2013/01/congress-somewhere-below-cockroaches-traffic-jams-and-nickleback-in-americans-esteem.html) cockroaches, head lice, or traffic jams. However, [62% of people](http://www.gallup.com/poll/162362/americans-down-congress-own-representative.aspx) who know who their own Congressional representative is approve of them. In theory, it should be really hard to have a democratically elected body that maintains a 9% approval rating for more than one election cycle. In practice, every representative’s incentive is to appeal to his or her constituency while throwing the rest of the country under the bus – something at which they apparently succeed. From a god’s-eye-view, every Congressperson ought to think only of the good of the nation. From within the system, you do what gets you elected." - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 > "A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don’t take it die out. Eventually, everyone’s relative status is about the same as before, but everyone’s absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse." - [Meditations on Moloch, by Scott Alexander](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
@@ -768,12 +776,21 @@ Massachusetts Institute of Technology
 
 
 
+> "Variation and selection automatically produce differentiation (variety) and integration (dependency), for living as well as non-living systems. Structural complexification is produced by spatial differentiation and the selection of fit linkages between components. Functional complexification follows from the need to increase the variety of actions in order to cope with more diverse environmental perturbations, and the need to integrate actions into higher-order complexes in order to minimize the difficulty of decision-making. Both processes produce a hierarchy of nested supersystems or metasystems, and tend to be self-reinforcing. Though simplicity is a selective factor, it does not tend to arrest or reverse overall complexification. Increase in the absolute components of fitness, which is associated with complexification, defines a preferred direction for evolution, although the process remains wholly unpredictable." - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
 
+> "The last decades have seen a proliferation of theories offering new concepts and principles for modelling complex systems: information theory, general systems theory, cybernetics, non- equilibrium thermodynamics, catastrophe theory, deterministic chaos, complex adaptive systems, etc. These have led to the awareness that complexity is a much more important aspect of the world than classical, reductionist science would have assumed." - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
+
+> "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
+
+> "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
+
+> "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
 
 > "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
 
 
-> "" - [Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf)
+
+
 
 
 
@@ -904,6 +921,7 @@ Heylighen, F. 2013. From human computation to the Global Brain: the self-organiz
 Cristian, F. (1996). Synchronous and asynchronous Group Communication. Communications of the ACM, 39(4), 88–97.
 
 Crowston, K. (1997). A coordination theory approach to organizational process design. Organization Science, 8(2), 157–175.
+^^ maybe ignore, already have a quote here about "coordination theory"
 
 Dipple, A., Raymond, K., & Docherty, M. (n.d.). General theory of stigmergy: Modelling stigma semantics. Cognitive Systems Research. doi:10.1016/j.cogsys.2014.02.002
 
