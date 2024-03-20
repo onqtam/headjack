@@ -344,6 +344,12 @@ Problems with democracy and voters:
 > "Voters have punished incumbents for droughts and shark attacks and rewarded them for recent sports victories. Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”" - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=voters%20have%20punished%20incumbents%20for%20droughts%20and%20shark%20attacks%20and%20rewarded%20them%20for%20recent%20sports%20victories.%20Caplan%20dismisses%20retrospective%20voting%2C%20quoting%20a%20pair%20of%20scholars%20who%20call%20it%20%E2%80%9Cno%20more%20rational%20than%20killing%20the%20pharaoh%20when%20the%20Nile%20does%20not%20flood.%E2%80%9D)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Self-organization
+██████████████████████████████████████████████████████████████████
+
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Stigmergy
 ██████████████████████████████████████████████████████████████████
 
@@ -372,6 +378,20 @@ Problems with democracy and voters:
 ██████████████████████████████████████████████████████████████████
 
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Consciousness
+██████████████████████████████████████████████████████████████████
+
+> "GWT analogizes the mind to a theater, with conscious thought being like material illuminated on the main stage. The brain contains many specialized processes or modules that operate in parallel, much of which is unconscious. Attention acts as a spotlight, bringing some of this unconscious activity into conscious awareness on the global workspace. The global workspace is a functional hub of broadcast and integration that allows information to be disseminated across modules. As such it can be classified as a functionalist theory of consciousness.
+>
+> When sensory input, memories, or internal representations are given attention, they become part of the global workspace and can then be operated on by a variety of processes. As elements compete for attention, the ones that win are granted entry to the global workspace, allowing their information to be distributed and coordinated across the whole cognitive system.
+>
+> GWT resembles the concept of working memory and is proposed to correspond to a 'momentarily active, subjectively experienced' event in working memory. It facilitates top-down control of attention, working memory, planning, and problem-solving through this information sharing.
+>
+> In the 'theater of consciousness', a 'spotlight of selective attention' shines a bright spot on stage, revealing the contents of consciousness. Behind the scenes, in the dark, are the director (executive processes), stagehands, scriptwriters, scene designers, and the like. They shape the visible activities in the bright spot but are themselves invisible.
+>
+> ...It serves as a central information exchange, rather than a locus of cognition itself, enabling different specialized brain networks to interact and supporting integrated and adaptive responses." - [Global workspace theory, Wikipedia](https://en.wikipedia.org/wiki/Global_workspace_theory#:~:text=GWT%20analogizes%20the,and%20adaptive%20responses.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Hierarchy / holacracy / subsidiarity
