@@ -7649,31 +7649,6 @@ https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306
 
 
 
-George Carlin's Greatest Speech
-https://www.youtube.com/watch?v=-ERFBg2Uh1c
-
-After billions of years of monotony, the universe is waking up | David Deutsch
-https://www.youtube.com/watch?v=fh5KLfd9Km8
-
-Carl Sagan - Pale Blue Dot
-https://www.youtube.com/watch?v=wupToqz1e2g
-
-Principles for Dealing with the Changing World Order by Ray Dalio
-https://www.youtube.com/watch?v=xguam0TKMw8
-
-1984 vs Brave New World ► Neil Postman's Amusing Ourselves to Death [Orwell & Huxley]
-https://www.youtube.com/watch?v=ETUGwC9jXCM
-
-The Great Simplification | Film on Energy, Environment, and Our Future
-https://www.youtube.com/watch?v=-xr9rIQxwj4
-
-imagine the process of us coming to consensus to what's most important for everyone to see and read - it would never be complete - an ever-evolving list
-
-William E. Rees: "The Fundamental Issue - Overshoot" | The Great Simplification #53
-https://www.youtube.com/watch?v=LQTuDttP2Yg
-William E. Rees: The Enigma of Climate Inaction – On the Human Nature of Policy Failure
-https://www.youtube.com/watch?v=WDWhjSUu8UY
-
 
 
 > "We are a way for the cosmos to know itself." - [Carl Sagan](https://www.goodreads.com/quotes/237548-we-are-a-way-for-the-cosmos-to-know-itself)
@@ -8176,7 +8151,7 @@ According to cybernetics, intelligence sits on top of feedback loops
 
 engineering control loops
 
-why don't we try to turn the map into the territory?
+why don't we try to turn the map into the territory as best as possible?
 
 We can take the map way closer to resembling the territory
 We lack computability and a loss function
@@ -8853,7 +8828,7 @@ https://www.frontiersin.org/files/Articles/493866/fpsyg-10-02688-HTML/image_m/fp
 
 
 
-> "All models are wrong, but some are useful" - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
+> "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
 
 

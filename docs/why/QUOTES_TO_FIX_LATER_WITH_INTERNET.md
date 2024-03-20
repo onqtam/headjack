@@ -861,7 +861,7 @@ Massachusetts Institute of Technology
 
 
 
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+> "E-marketplaces on the worldwide Web are information and transaction silos, which in the general case don’t allow transactions across their boundaries. The consequence is that the Web, often termed the global marketplace, is fragmented along the dimensions of geography, content domain, supply or demand, user base, and many more. This fragmentation makes it inefﬁcient to buy and sell commodities on the Web." - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
 
 > "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
 
@@ -871,18 +871,17 @@ Massachusetts Institute of Technology
 
 > "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
 
-
-
-
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-https://publik.tuwien.ac.at/files/PubDat_237340.pdf
 https://publik.tuwien.ac.at/files/publik_266970.pdf
+
+
+
+
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
 
 
 
