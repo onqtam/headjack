@@ -1,7 +1,7 @@
 
 
 ██████████████████████████████████████████████████████████████████
-# Education & development
+# SECTION: Education & development
 ██████████████████████████████████████████████████████████████████
 
 Its all about education - it never stops - not just 24 years - for life. For anything. At any time.
@@ -9,22 +9,22 @@ Its all about education - it never stops - not just 24 years - for life. For any
 Harvard is a perverse concept
 
 ██████████████████████████████████████████████████████████████████
-# You're a neuron
+# SECTION: You're a neuron
 ██████████████████████████████████████████████████████████████████
 
 
 ██████████████████████████████████████████████████████████████████
-# Protopia
+# SECTION: Protopia
 ██████████████████████████████████████████████████████████████████
 
 ██████████████████████████████████████████████████████████████████
-# STONE TABLET IPFS CID HASH OF BOOK
+# SECTION: STONE TABLET IPFS CID HASH OF BOOK
 ██████████████████████████████████████████████████████████████████
 
 The beauty of hash chains is that you can’t rewrite the past
 
 ██████████████████████████████████████████████████████████████████
-# God
+# SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
 God design
@@ -227,9 +227,14 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Reputation & skin in the game
+██████████████████████████████████████████████████████████████████
+
+
 
 ██████████████████████████████████████████████████████████████████
-# Meritocracy / Epistocracy / Noocracy / Technocracy
+# SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
 ██████████████████████████████████████████████████████████████████
 
 
@@ -245,13 +250,11 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "Singapore has a political system that favors meritocracy; the path to government in Singapore is structured in such a way that only those with above-average skills are identified with strict university-entrance exams, recruiting processes, etc., and then rigorously trained to be able to devise best the solutions that benefit the entire society. In the words of the country's founding father, Lee Kuan Yew, Singapore is a society based on effort and merit, not wealth or privilege depending on birth. This system primarily works due to citizens’ belief that political leaders tend to have a better understanding of country's long-term plans than themselves; therefore, as they see positive policy outcomes, they tend to go along with the system, rather than complain about the meritocratic dimensions." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Singapore%20has%20a,the%20meritocratic%20dimensions.)
 
 
-> "" - [Meritocracy, Wikipedia]()
+> "Meritocracy is the notion of a political system in which economic goods or political power are vested in individual people based on ability and talent, rather than wealth or social class. Advancement in such a system is based on performance, as measured through examination or demonstrated achievement." - [Meritocracy, Wikipedia](https://en.wikipedia.org/wiki/Meritocracy#:~:text=Meritocracy%20(merit,or%20demonstrated%20achievement.)
 
-> "" - [Meritocracy, Wikipedia]()
+> "In a more general sense, meritocracy can refer to any form of evaluation based on achievement. Like "utilitarian" and "pragmatic", the word "meritocratic" has also developed a broader connotation, and is sometimes used to refer to any government run by "a ruling or influential class of educated or able people"." - [Meritocracy, Wikipedia](https://en.wikipedia.org/wiki/Meritocracy#:~:text=In%20a%20more,or%20able%20people%22.)
 
-> "" - [Meritocracy, Wikipedia]()
-
-> "" - [Meritocracy, Wikipedia]()
+> "It is nowadays applied to merit-based systems of status and reward allocation in distinction to aristocratic or class-based systems, in which inherited factors are the primary determinant for the position of an individual in society." - [Meritocracy, Wikipedia](https://en.wikipedia.org/wiki/Meritocracy#:~:text=it%20is%20nowadays%20applied%20to%20merit%2Dbased%20systems%20of%20status%20and%20reward%20allocation%20in%20distinction%20to%20aristocratic%20or%20class%2Dbased%20systems%2C%20in%20which%20inherited%20factors%20are%20the%20primary%20determinant%20for%20the%20position%20of%20an%20individual%20in%20society.)
 
 
 
@@ -339,6 +342,25 @@ Problems with democracy and voters:
 > "Political scientists have long hoped to find an “invisible hand” in politics comparable to the one that Adam Smith described in economics. Voter ignorance wouldn’t matter much if a democracy were able to weave individual votes into collective political wisdom, the way a market weaves the self-interested buy-and-sell decisions of individual actors into a prudent collective allocation of resources. But, as Brennan reports, the mathematical models that have been proposed work only if voter ignorance has no shape of its own—if, for example, voters err on the side of liberalism as often as they err on the side of conservatism, leaving decisions in the hands of a politically knowledgeable minority in the center. Unfortunately, voter ignorance does seem to have a shape." - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=Political%20scientists%20have,have%20a%20shape.)
 
 > "Voters have punished incumbents for droughts and shark attacks and rewarded them for recent sports victories. Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”" - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=voters%20have%20punished%20incumbents%20for%20droughts%20and%20shark%20attacks%20and%20rewarded%20them%20for%20recent%20sports%20victories.%20Caplan%20dismisses%20retrospective%20voting%2C%20quoting%20a%20pair%20of%20scholars%20who%20call%20it%20%E2%80%9Cno%20more%20rational%20than%20killing%20the%20pharaoh%20when%20the%20Nile%20does%20not%20flood.%E2%80%9D)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Stigmergy
+██████████████████████████████████████████████████████████████████
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Redistribution
+██████████████████████████████████████████████████████████████████
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Alignment
+██████████████████████████████████████████████████████████████████
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Consequence capture
+██████████████████████████████████████████████████████████████████
+
 
 
 
