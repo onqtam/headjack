@@ -353,13 +353,25 @@ Problems with democracy and voters:
 # SECTION: Redistribution
 ██████████████████████████████████████████████████████████████████
 
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Alignment
 ██████████████████████████████████████████████████████████████████
 
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Relevance realization
+██████████████████████████████████████████████████████████████████
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Hierarchy / holacracy / subsidiarity
@@ -375,13 +387,32 @@ Problems with democracy and voters:
 >
 > Just as cells make up organs within organisms, people have roles within teams within organizations. And though certain cells and roles might hustle themselves into an “executive function,” both the organism’s and the holacratic organization’s brains are self-organizing." - [Fractal Governance Applied, by Max Borders](https://underthrow.substack.com/p/fractal-governance-applied#:~:text=Holacracy%20provides%20a,are%20self%2Dorganizing.)
 
-> "" - [Fractal Governance Applied, by Max Borders]()
+> "Holacracy makes an organization a complex adaptive system. Unlike command-and-control hierarchies, complex adaptive organizations respond with relative autonomy to stimuli that are, for lack of a better way of putting things, not quite right. Practitioners call these “tensions.” Every part of the organization wants to get things flowing, [following constructal theorist Adrian Bejan](https://underthrow.substack.com/p/the-law-of-flow-is-everywhere. To resolve tensions is to get things flowing — that is, towards realizing the mission. At the risk of oversimplification, let’s break it down:
+>
+> - Mission. This is why the organization exists and is the end all roles serve. (Because large-scale societies don’t have missions, decentralization is vital.)
+>
+> - Holacracy Constitution. Sets out the relatively fixed protocols and rules that compose Holacracy’s open-source social operating system.
+>
+> - Tactical Meetings. A group process for addressing one-off, operational issues in a formalized way, relevant to some functional sphere of activity.
+>
+> - Governance Meetings. A group process for creating roles, making policies, or assigning ownership of responsibilities.
+>
+> - Information management. The inputs and output of circle meetings are recorded so anyone can see the rules, roles, and policies at any time." - [Fractal Governance Applied, by Max Borders](https://underthrow.substack.com/p/fractal-governance-applied)
 
-> "" - [Fractal Governance Applied, by Max Borders]()
+> "With the holonic structure of circles within circles, we can imagine a greater encompassing supercircle composed of members of lower-order circles. This is an abstract way of describing something similar to a subsidiarity rule, which means decision-making authority should be devolved to the most local feasible level. Holacracy holds the promise of emergent subsidiarity." - [Fractal Governance Applied, by Max Borders](https://underthrow.substack.com/p/fractal-governance-applied#:~:text=With%20the%20holonic,of%20emergent%20subsidiarity.)
 
-> "" - [Fractal Governance Applied, by Max Borders]()
+> "Anarchy comes from the greek “an”, meaning without, plus “arkhos”, meaning rulers. Anarchy doesn’t mean without rules, but without rulers. If you have the right rules, the absence of top-down rulers doesn’t remove order — it simply enables order to emerge dynamically from peer-to-peer interactions distributed throughout a system, one tension at a time. So by this definition, you could describe Holacracy as a rule system for humans working together in anarchy — with rules, but without rulers." - [Brian Robertson](https://underthrow.substack.com/p/fractal-governance-applied#:~:text=Anarchy%20comes%20from%20the%20greek,with%20rules%2C%20but%20without%20rulers.)
 
-> "" - [Fractal Governance Applied, by Max Borders]()
+> "Many founders don’t want employees following their orders. They want a team of leaders stepping up and taking a piece of this organization with autonomy and self-direction." - [Brian Robertson](https://www.holacracy.org/#:~:text=Many%20founders%20don%E2%80%99t%20want%20employees%20following%20their%20orders.%20They%20want%20a%20team%20of%20leaders%20stepping%20up%20and%20taking%20a%20piece%20of%20this%20organization%20with%20autonomy%20and%20self%2Ddirection.)
 
+> "A holarchy is composed of [holons](https://en.wikipedia.org/wiki/Holon_(philosophy)) or units that are autonomous and self-reliant, but also dependent on the greater whole of which they are part. Thus a holarchy is a hierarchy of self-regulating holons that function both as autonomous wholes and as dependent parts." - [Holacracy, Wikipedia](https://en.wikipedia.org/wiki/Holacracy#:~:text=a%20holarchy%20is,as%20dependent%20parts.)
 
-
+> "- Roles instead of job descriptions: The building blocks of Holacracy's organizational structure are roles. Holacracy distinguishes between roles and the people who fill them, as one individual can hold multiple roles at any given time. A role is not a job description; its definition follows a clear format including a name, a purpose, optional "domains" to control, and accountabilities, which are ongoing activities to perform. Roles are defined by each circle—or team—via a collective governance process, and are updated regularly in order to adapt to the ever-evolving needs of the organization.
+>
+> - Circle structure: Holacracy structures the various roles in an organization in a system of self-organizing (but not self-directed) circles. Circles are organized hierarchically, and each circle is assigned a clear purpose and accountabilities by its broader circle. However, each circle has the authority to self-organize internally to best achieve its goals. Circles conduct their own governance meetings, assign members to fill roles, and take responsibility for carrying out work within their domain of authority. Circles are connected by two roles known as "lead link" and "rep link", which sit in the meetings of both their circle and the broader circle to ensure alignment with the broader organization's mission and strategy.
+>
+> - Governance process: Each circle uses a defined governance process to create and regularly update its own roles and policies. Holacracy specifies a structured process known as "integrative decision making" for proposing changes in governance and amending or objecting to proposals. This is not a consensus-based system, not even a consent-based system, but one that integrates relevant input from all parties and ensures that the proposed changes and objections to those changes are anchored in the roles' needs (and through them, the organization's needs), rather than people's preferences or ego.
+>
+> - Operational process: Holacracy specifies processes for aligning teams according to operational needs, and requires that each member of a circle fulfill certain duties in order to work efficiently and effectively together. There are also key roles to help organise the process and workflow of each circle including Facilitator, Secretary, Lead Link, and Rep Link.
+>
+> In contrast to the governance process, which is collective and integrative, each member filling a role has a lot of autonomy and authority to make decisions on how to best achieve his or her goals. Some have described the authority paradigm in Holacracy as completely opposite to the one of the traditional management hierarchy; instead of needing permission to act or innovate, Holacracy gives blanket authority to take any action needed to perform the work of the roles, unless it is restricted via policies in governance or it involves spending some assets of the organization (money, intellectual property, etc.) Holacracy is highly biased toward action and innovation: it defaults to autonomy and freedom, then uses internal processes to limit that autonomy when its use in a specific way turns out to be detrimental." - [Holacracy, Wikipedia](https://en.wikipedia.org/wiki/Holacracy#:~:text=Roles%20instead%20of,to%20be%20detrimental.)
