@@ -860,24 +860,17 @@ Massachusetts Institute of Technology
 
 
 
+> "Electronic marketplaces are built to resemble real marketplaces structurally. Consequently, they are centralized systems, walled gardens with an intrinsic tendency to lock merchants and clients in. We argue that this structure is not necessary on the Web and that all online marketplaces could merge into one global medium for exchange. In this paper, we propose an architecture for such a medium based on semantic Web standards, encompassing the functionalities of publishing an intention to buy or sell, finding transaction partners, and conducting transactions." - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
-> "E-marketplaces on the worldwide Web are information and transaction silos, which in the general case don’t allow transactions across their boundaries. The consequence is that the Web, often termed the global marketplace, is fragmented along the dimensions of geography, content domain, supply or demand, user base, and many more. This fragmentation makes it inefﬁcient to buy and sell commodities on the Web." - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+> "Marketplaces have been known to man for several thousand years. Their historically consistent overall form, a collection of kiosks with goods being offered, and many independent clients buying there, is due to the fundamental asymmetry at the basis of all trade: the asymmetry between its two poles, between supply and demand. Although, conceptually, supply and demand can be said to be of the same kind, namely intentions of taking part in a resource transfer, they differ substantially. Supply appears as the thing being offered, it is thus concrete, can be searched and found, measured and compared. Individual demand, in contrast, denotes the absence of something, thus it does not appear as a physical thing in a traditional marketplace. The same asymmetry pertains to supply and demand on the Web: supply is mostly explicit, has its own representation, such as a product landing page, whereas demand is rarely published as an individual resource. The work at hand aims for reducing this asymmetry. The first step in this direction is to represent both, supply and demand, explicitly as distinct objects on the Web, and to provide a standardized way for them to communicate. Given these prerequisites, the problem of finding a suitable partner for a resource transfer is equivalent to finding a suitable combination of one supply and one demand object. The search for such combinations can be performed manually or automatically by participants from the demand side as well as from the supply side. Moreover, independent entities can assume the role of a matchmaker and inform the participants involved. In order to allow for independent matchmaking, a standardized way of informing supply and demand objects of a possibly interesting combination is required. This set of functions (publishing the intention, performing search or matchmaking, and establishing a communication channel) provides a symmetric base for resource transfer on the Web. This set is minimal and necessary, as no function could be removed without losing the overall functionality." - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+> "" - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+> "" - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+> "" - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
-
-https://publik.tuwien.ac.at/files/publik_266970.pdf
-
-
-
-
-
-> "" - []()
+> "" - [A Linked Data Based Messaging Architecture for the Web of Needs](https://publik.tuwien.ac.at/files/publik_266970.pdf)
 
 > "" - []()
 
@@ -885,6 +878,11 @@ https://publik.tuwien.ac.at/files/publik_266970.pdf
 
 
 
+
+
+L. Keetels, “Collaborative consumption - the inﬂuence of trust on sustainable peer-to-peer product-service systems.” Master’s thesis, Utrecht University, 2012.
+
+S. Tramp, P. Frischmuth, T. Ermilov, S. Shekarpour, and S. Auer, “An architecture of a distributed semantic social network,” Semantic Web, vol. 5, no. 1, pp. 77–95, 2014.
 
 Popper, K. R. (1972) Objective Knowledge-An Evolutionary Approach. Oxford: Clarendon.
 
