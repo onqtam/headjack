@@ -394,6 +394,32 @@ Daniel Schmachtenberger’s talk at Emergence
 https://www.youtube.com/watch?v=eh7qvXfGQho
 
 
+George Carlin's Greatest Speech
+https://www.youtube.com/watch?v=-ERFBg2Uh1c
+
+After billions of years of monotony, the universe is waking up | David Deutsch
+https://www.youtube.com/watch?v=fh5KLfd9Km8
+
+Carl Sagan - Pale Blue Dot
+https://www.youtube.com/watch?v=wupToqz1e2g
+
+Principles for Dealing with the Changing World Order by Ray Dalio
+https://www.youtube.com/watch?v=xguam0TKMw8
+
+1984 vs Brave New World ► Neil Postman's Amusing Ourselves to Death [Orwell & Huxley]
+https://www.youtube.com/watch?v=ETUGwC9jXCM
+
+The Great Simplification | Film on Energy, Environment, and Our Future
+https://www.youtube.com/watch?v=-xr9rIQxwj4
+
+imagine the process of us coming to consensus to what's most important for everyone to see and read - it would never be complete - an ever-evolving list
+
+William E. Rees: "The Fundamental Issue - Overshoot" | The Great Simplification #53
+https://www.youtube.com/watch?v=LQTuDttP2Yg
+William E. Rees: The Enigma of Climate Inaction – On the Human Nature of Policy Failure
+https://www.youtube.com/watch?v=WDWhjSUu8UY
+
+
 what if we could query what our top 10 heroes think about how to get your life, diet & fitness in order?
 
 what if we could maintain rankings such as "the top 10 or 50 things I think everyone should have read and/or seen" and "what are the top 10 most pressing issues" and have that surfaced objectively - by whoever dares to speak out - we could publicly rank our concerns
@@ -516,7 +542,18 @@ https://guzey.com/favorite/media/
 
 
 Top 10 most important podcasts
-- the great simplification
+- Conscious Evolution Podcast (only one season with 6 episodes...)
+- The Great Simplification
+- Rebel Wisdom
+- The Jim Rutt Show
+- Your Undivided Attention (the older ones)
+- 80,000 Hours Podcast?
+- Upstream with Erik Torenberg
+- Dwarkesh Podcast
+- Lex Fridman Podcast
+- Metamodern Spirituality
+- the youtube one with Carl?
+- The knowledge project
 
 Top 10 lists - choice ranking - is (collective) relevance realization
 
