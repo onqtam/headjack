@@ -858,11 +858,18 @@ Massachusetts Institute of Technology
 >
 > Still, it can happen that systems evolve towards a simpler organization, although this seems rare. It is most likely to occur when the system enters a simpler environment, as when an organism becomes an internal parasite or moves back from the land to the water, but these are obviously unusual examples which go against the general trend of environments becoming more complex." - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
 
-> "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
-
-> "" - [The Growth of Structural and Functional Complexity during Evolution, by Francis Heylighen](https://www.researchgate.net/publication/228607447_The_growth_of_structural_and_functional_complexity_during_evolution)
 
 
+
+> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+
+> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+
+> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+
+> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
+
+> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
 
 
 
