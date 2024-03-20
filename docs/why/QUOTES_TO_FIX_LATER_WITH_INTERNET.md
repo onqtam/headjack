@@ -64,7 +64,51 @@
 
 > "A cultural shift is required around celebrity. Celebrity was created to distract attention from issues the true oligarchies did not want scrutinized. The public’s ‘right to know’ was transferred from the business of the government to the plastic surgery of an entertainer." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
-!!! Actually... "Binding Chaos" is absolute crap - word salad. ALL quotes by Heather should be scrutinized and maybe discarded.
+> "Most systems are now run by competitive organizations. Competition creates redundancy, is slow and wastes resources on idea protection, advertisement, and more. Competition also requires secrecy which blocks progress and auditing and causes lost opportunities and ideas. Patents and copyrights further limit speed and the potential for mass input of ideas. Collaboration between the people with the greatest expertise does not happen unless they are hired by the same project." - [Stigmergy, by Heather Marsh](https://web.archive.org/web/20160117235400/https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/)
+
+> "In a competitive environment, a new idea is jealously guarded, legally protected and shrouded in secrecy. Great effort is expended in finding supporters for the idea while also ensuring that the idea remains covered by legal protections such as non-disclosure agreements. The idea remains inextricably bound to the creator until it is legally transferred to another owner and all contributors work for the owner, not the idea. Contributors must then be rewarded by the owner which further limits the potential for development and wastes more resources in legal agreements, lawsuits, etc. Contributors have no interest in whether the project succeeds or fails and no motivation to contribute more than they are rewarded for." - [Stigmergy, by Heather Marsh](https://web.archive.org/web/20160117235400/https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/)
+
+> "It is neither reasonable nor desirable for individual thought and action to be subjugated to group consensus in matters which do not affect the group." - [Stigmergy, by Heather Marsh](https://web.archive.org/web/20160117235400/https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/)
+
+
+
+> "If there was ever a need for political representation or a paternalistic and opaque authority it has been removed by technology. Every political system we have tried has proven incapable of protecting human rights and dignity. Every political system we have tried has devolved into oligarchy. To effect the change we require immediately, to give individuals control and responsibility, to bring regional systems under regional governance, allow global collaboration and protect the heritage of future generations, we need a new political model." - [Heather Marsh](https://kevinbeynon.com/bindingchaos#:~:text=If%20there%20was,new%20political%20model.)
+
+> "The world is long overdue for a completely new system of governance." - [Heather Marsh](https://kevinbeynon.com/bindingchaos#:~:text=The%20world%20is%20long%20overdue%20for%20a%20completely%20new%20system%20of%20governance.)
+
+> "Self-governance does not mean no one is responsible. It means everyone is." - [Heather Marsh](https://www.goodreads.com/quotes/7563051-self-governance-does-not-mean-no-one-is-responsible-it-means)
+
+> "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
+
+> "Ponzi schemes don’t trickle down, they siphon up." - [Heather Marsh](https://www.goodreads.com/quotes/7562640-ponzi-schemes-don-t-trickle-down-they-siphon-up)
+
+> "The world we live in is still mostly governed by a ponzi scheme of power, wealth and celebrity. Those at the top of the ponzi scheme are standing on nothing but the world’s acceptance of their right to be there." - [Heather Marsh](https://www.goodreads.com/quotes/10243852-the-world-we-live-in-is-still-mostly-governed-by)
+
+> "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
+
+> "Who controls the words controls your thoughts." - [Heather Marsh](https://www.goodreads.com/quotes/8003284-who-controls-the-words-controls-your-thoughts)
+
+> "Governance to me is action not an organization. It is something people have to just do. It is only after governance by the people is established that politicians can be lobbied into supporting it until it makes them obsolete." - [Heather Marsh](https://www.goodreads.com/quotes/9716061-governance-to-me-is-action-not-an-organization-it-is)
+
+> "A true democracy is conducted in the open, and open government is the enemy of all bad government." - [Heather Marsh](https://www.goodreads.com/quotes/10158355-a-true-democracy-is-conducted-in-the-open-and-open)
+
+> "Information freedom is the freedom to access, participate in, understand and benefit from knowledge creation. This includes access to raw data, transparent auditing processes which include both elite knowledge and complete and immediate feedback from user groups and anyone else impacted, and interpretation which flows directly from the audit without interference from coercive manipulation." - [Heather Marsh](https://www.goodreads.com/quotes/10153193-information-freedom-is-the-freedom-to-access-participate-in-understand)
+
+> "We could have complete, transparent, participatory knowledge accessible to all, audited at every level of understanding, and protect privacy for everyone. Local governance could be both informed and autonomous and we could collaborate with a speed and accuracy that might just give us a chance to solve the problems we are facing before it is too late. Everyone would have the equal ability to make informed choices at their chosen level of understanding. We could have a universal reality, informed by information from all sources, and we could make decisions free of state and corporate coercion." - [Heather Marsh](https://www.goodreads.com/quotes/10282556-we-could-have-complete-transparent-participatory-knowledge-accessible-to-all)
+
+> "This is a war about information, governance, trade, ownership, personal and environmental health … in short, everything." - [Heather Marsh](https://www.goodreads.com/quotes/10112788-this-is-a-war-about-information-governance-trade-ownership-personal)
+
+> "Economics as we know it, is dead. This does not mean it will disappear completely overnight, or that it will not remain in some form in some places, but, like religions, states, families, and other formerly dominant endogroups, it will no longer be the dominant or authoritative power structure in our lives." - [Heather Marsh](https://www.goodreads.com/quotes/10282567-economics-as-we-know-it-is-dead-this-does-not)
+
+> "Internet reform is necessary because what is being created is no less than the implementation of an inescapable web of global totalitarianism and it will be very, very hard to dismantle when it is complete." - [Heather Marsh](https://www.goodreads.com/quotes/10153205-internet-reform-is-necessary-because-what-is-being-created-is)
+
+> "The future of journalism is in a stigmergic mesh network of amplifiers, investigators and activists who can filter and fact check news in real time, combine it with investigative global knowledge resources and create appropriate local and / or global action. The future is in collaborative investigators sharing knowledge to map everything we need to know to govern ourselves. The future is in activism and aid requested directly by the people who require it and responded to directly by the people who can provide it. The future is in the right and ability of every single person to broadcast their own voice and call for amplification when needed. The future of journalism is in all of us." - [Heather Marsh](https://www.goodreads.com/quotes/9716055-the-future-of-journalism-is-in-a-stigmergic-mesh-network)
+
+> "If news requires no action, it is probably not the news we require in order to govern ourselves. If activism requires no analysis, it is probably not informed or effective." - [Heather Marsh](https://www.goodreads.com/quotes/10158316-if-news-requires-no-action-it-is-probably-not-the)
+
+> "A person who interprets another’s voice instead of amplifying it is assuming control over the originator." - [Heather Marsh](https://www.goodreads.com/quotes/10069678-a-person-who-interprets-another-s-voice-instead-of-amplifying-it)
+
+!!! Actually... "Binding Chaos" is crap - word salad & white man hating. ALL quotes by Heather should be scrutinized and maybe discarded.
 ====================================================
 
 > "The Global Brain is a big idea. The Singularity is a big idea. The Global Brain Singularity is an even bigger idea. The Global Brain represents the idea that all humans and machines on planet Earth are forming (or already forms) an organized totality that will allow (or is allowing) higher order coherence without precedence in evolutionary history. The name ‘Global’ captures the ‘totalizing’ aspect of the phenomenon (all humans and all machines in one system); the name ‘Brain’ captures the metaphorical homology between the structure and function of biological brains and the structure and function of human civilization. The Singularity, in contrast, and specifically in the context of sociotechnological theory, represents the idea of a future qualitative transition in the phenomenal nature of human life. This future qualitative transition is typically described as a technologically mediated transcendence of our nature towards a transhuman or a posthuman horizon. When we combine the idea of the ‘Global Brain’ with the idea of the ‘Singularity’ we are trying to understand the immanence of both human beings and human civilization." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)

@@ -1673,17 +1673,6 @@ It will become a competitive advantage for firms to allow their employees to exp
 
 
 
-> "[Holacracy](https://en.wikipedia.org/wiki/Holacracy) provides a governance framework that is decidedly [holonic](https://en.wikipedia.org/wiki/Holon_(philosophy)) — roughly, systems within systems. In this way, a holacratic organization approximates a living organism as opposed to a machine to be “designed” or “run.” Practitioners aren’t arranged by managers as cogs within a traditional org chart, but rather define their own functional roles within wider spheres of activity, or “circles.”
->
-> Just as cells make up organs within organisms, people have roles within teams within organizations. And though certain cells and roles might hustle themselves into an “executive function,” both the organism’s and the holacratic organization’s brains are self-organizing." - [Fractal Governance Applied, by Max Borders](https://underthrow.substack.com/p/fractal-governance-applied#:~:text=Holacracy%20provides%20a,are%20self%2Dorganizing.)
-
-> "" - [Fractal Governance Applied, by Max Borders]()
-
-> "" - [Fractal Governance Applied, by Max Borders]()
-
-> "" - [Fractal Governance Applied, by Max Borders]()
-
-> "" - [Fractal Governance Applied, by Max Borders]()
 
 
 
@@ -1695,44 +1684,6 @@ It will become a competitive advantage for firms to allow their employees to exp
 
 > "If we don’t succeed at changing the nature of online conversations — and let’s not forget that communications have literally transformed into threaded comment sections and memes — then all we’ll have left as tools include censorship, deplatforming, and perhaps even harsher tyrannical solutions for control over the public mind, media, and mouth. Some have told me this is inevitable and warranted, but I’d frankly love to deconstruct their reasoning on that one." - [The Society Library](https://misinfocon.com/missing-context-in-the-internet-congress-42eb319aed1e#:~:text=If%20we%20don%E2%80%99t,on%20that%20one.)
 
-
-
-
-> "If there was ever a need for political representation or a paternalistic and opaque authority it has been removed by technology. Every political system we have tried has proven incapable of protecting human rights and dignity. Every political system we have tried has devolved into oligarchy. To effect the change we require immediately, to give individuals control and responsibility, to bring regional systems under regional governance, allow global collaboration and protect the heritage of future generations, we need a new political model." - [Heather Marsh](https://kevinbeynon.com/bindingchaos#:~:text=If%20there%20was,new%20political%20model.)
-
-> "The world is long overdue for a completely new system of governance." - [Heather Marsh](https://kevinbeynon.com/bindingchaos#:~:text=The%20world%20is%20long%20overdue%20for%20a%20completely%20new%20system%20of%20governance.)
-
-> "Self-governance does not mean no one is responsible. It means everyone is." - [Heather Marsh](https://www.goodreads.com/quotes/7563051-self-governance-does-not-mean-no-one-is-responsible-it-means)
-
-> "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
-
-> "Ponzi schemes don’t trickle down, they siphon up." - [Heather Marsh](https://www.goodreads.com/quotes/7562640-ponzi-schemes-don-t-trickle-down-they-siphon-up)
-
-> "The world we live in is still mostly governed by a ponzi scheme of power, wealth and celebrity. Those at the top of the ponzi scheme are standing on nothing but the world’s acceptance of their right to be there." - [Heather Marsh](https://www.goodreads.com/quotes/10243852-the-world-we-live-in-is-still-mostly-governed-by)
-
-> "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
-
-> "Who controls the words controls your thoughts." - [Heather Marsh](https://www.goodreads.com/quotes/8003284-who-controls-the-words-controls-your-thoughts)
-
-> "Governance to me is action not an organization. It is something people have to just do. It is only after governance by the people is established that politicians can be lobbied into supporting it until it makes them obsolete." - [Heather Marsh](https://www.goodreads.com/quotes/9716061-governance-to-me-is-action-not-an-organization-it-is)
-
-> "A true democracy is conducted in the open, and open government is the enemy of all bad government." - [Heather Marsh](https://www.goodreads.com/quotes/10158355-a-true-democracy-is-conducted-in-the-open-and-open)
-
-> "Information freedom is the freedom to access, participate in, understand and benefit from knowledge creation. This includes access to raw data, transparent auditing processes which include both elite knowledge and complete and immediate feedback from user groups and anyone else impacted, and interpretation which flows directly from the audit without interference from coercive manipulation." - [Heather Marsh](https://www.goodreads.com/quotes/10153193-information-freedom-is-the-freedom-to-access-participate-in-understand)
-
-> "We could have complete, transparent, participatory knowledge accessible to all, audited at every level of understanding, and protect privacy for everyone. Local governance could be both informed and autonomous and we could collaborate with a speed and accuracy that might just give us a chance to solve the problems we are facing before it is too late. Everyone would have the equal ability to make informed choices at their chosen level of understanding. We could have a universal reality, informed by information from all sources, and we could make decisions free of state and corporate coercion." - [Heather Marsh](https://www.goodreads.com/quotes/10282556-we-could-have-complete-transparent-participatory-knowledge-accessible-to-all)
-
-> "This is a war about information, governance, trade, ownership, personal and environmental health … in short, everything." - [Heather Marsh](https://www.goodreads.com/quotes/10112788-this-is-a-war-about-information-governance-trade-ownership-personal)
-
-> "Economics as we know it, is dead. This does not mean it will disappear completely overnight, or that it will not remain in some form in some places, but, like religions, states, families, and other formerly dominant endogroups, it will no longer be the dominant or authoritative power structure in our lives." - [Heather Marsh](https://www.goodreads.com/quotes/10282567-economics-as-we-know-it-is-dead-this-does-not)
-
-> "Internet reform is necessary because what is being created is no less than the implementation of an inescapable web of global totalitarianism and it will be very, very hard to dismantle when it is complete." - [Heather Marsh](https://www.goodreads.com/quotes/10153205-internet-reform-is-necessary-because-what-is-being-created-is)
-
-> "The future of journalism is in a stigmergic mesh network of amplifiers, investigators and activists who can filter and fact check news in real time, combine it with investigative global knowledge resources and create appropriate local and / or global action. The future is in collaborative investigators sharing knowledge to map everything we need to know to govern ourselves. The future is in activism and aid requested directly by the people who require it and responded to directly by the people who can provide it. The future is in the right and ability of every single person to broadcast their own voice and call for amplification when needed. The future of journalism is in all of us." - [Heather Marsh](https://www.goodreads.com/quotes/9716055-the-future-of-journalism-is-in-a-stigmergic-mesh-network)
-
-> "If news requires no action, it is probably not the news we require in order to govern ourselves. If activism requires no analysis, it is probably not informed or effective." - [Heather Marsh](https://www.goodreads.com/quotes/10158316-if-news-requires-no-action-it-is-probably-not-the)
-
-> "A person who interprets another’s voice instead of amplifying it is assuming control over the originator." - [Heather Marsh](https://www.goodreads.com/quotes/10069678-a-person-who-interprets-another-s-voice-instead-of-amplifying-it)
 
 
 
@@ -4726,13 +4677,7 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 
 
 
-> "Wherever we find orderly, stable systems in Nature, we find that they are hierarchically structured, for the simple reason that without such structuring of complex systems into sub-assemblies, there could be no order and stability-except the order of a dead universe filled with a uniformly distributed gas." - [Arthur Koestler](https://www.goodreads.com/quotes/9652997-wherever-we-find-orderly-stable-systems-in-nature-we-find)
-
 > "Man has always been prepared not only to kill but also to die for good, bad or completely futile causes. And what can be a more valid proof of the reality of the self-transcending urge than this readiness to die for an ideal?" - [Arthur Koestler](https://www.goodreads.com/quotes/9660371-let-me-repeat-the-crimes-of-violence-committed-for-selfish#:~:text=Man%20has%20always%20been%20prepared%20not%20only%20to%20kill%20but%20also%20to%20die%20for%20good%2C%20bad%20or%20completely%20futile%20causes.%20And%20what%20can%20be%20a%20more%20valid%20proof%20of%20the%20reality%20of%20the%20self%2Dtranscending%20urge%20than%20this%20readiness%20to%20die%20for%20an%20ideal%3F)
-
-> "On successively higher levels of the hierarchy we find more complex, flexible and less predictable patterns of activity, while on successively lower levels we find more and more mechanised, stereotyped and predictable patterns. In the language of the physicist, a holon on a higher level of the hierarchy has more degrees of freedom than a holon on a lower level." - [Arthur Koestler](https://www.goodreads.com/quotes/9653378-on-successively-higher-levels-of-the-hierarchy-we-find-more)
-
-> "The self-assertive tendency is the dynamic expression of the holon's wholeness, the integrative tendency, the dynamic expression of its partness." - [Arthur Koestler](https://www.goodreads.com/quotes/9652981-no-man-is-an-island-he-is-a-holon-a-janus-faced#:~:text=the%20self%2Dassertive%20tendency%20is%20the%20dynamic%20expression%20of%20the%20holon%27s%20wholeness%2C%20the%20integrative%20tendency%2C%20the%20dynamic%20expression%20of%20its%20partness.)
 
 > "Since we cannot in the foreseeable future expect the necessary change in human nature to arise by way of a spontaneous mutation, that is, by natural means, we must induce it by artificial means. We can only hope to survive as a species by developing techniques which supplant biological evolution. We must search for a cure for the schizophysiology inherent in man's nature, and the resulting split in our minds, which led to the situation in which we find ourselves." - [Arthur Koestler](https://www.goodreads.com/quotes/9687493-since-we-cannot-in-the-foreseeable-future-expect-the-necessary)
 
