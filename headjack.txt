@@ -2,14 +2,6 @@
 
 
 
-top10 papers:
-- [The direction of evolution: The rise of cooperative organization, by John E. Stewart, 2014](https://www.sciencedirect.com/science/article/pii/S030326471400080X?via%3Dihub)
-- [Evolutionary possibilities: Can a society be constrained so that “the good” self-organizes?, by John E. Stewart, 2018](https://doi.org/10.1080/02604027.2017.1357985)
-- [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart, 2020](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
-The problem with John's papers is that you can't simply quote parts of them as all parts are good - you'd have to use the whole thing. These papers comprise most of the essence of his book `"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"`.
-TODO: maybe just leave the 2014/2018 papers
-
-
 
 hoarding information & profiting from it - example:
 - a hedge fund gets early good information about an upcoming pandemic
@@ -826,15 +818,6 @@ https://twitter.com/HumansNoContext/status/1688256147537498113
 
 
 
-top10 best predictors - hall of fame
-- paul krugman on the internet
-- transitory inflation - split 2nd place for J Powell / J Yellen
-
-
-top10 to watch - or embed this in the section about war - perhaps the most presidential speech of all time
-President John F. Kennedy's Peace Speech - Commencement Address at American University, Washington, D.C., June 10, 1963
-https://www.youtube.com/watch?v=0fkKnfk4k40
-
 
 EMBED THIS 2 minute clip:
 Bobby Azarian Discusses the Emergence of a Global Consciousness
@@ -1284,10 +1267,6 @@ What productivity looks like as a flywheel - causal relationships:
 https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff36318cf-1922-434f-9265-f0c5acb6e43c_1600x896.png
 
 
-top 10 most important
-https://twitter.com/TuckerCarlson/status/1758529993280205039
-Ep. 75  The national security state is the main driver of censorship and election interference in the United States. "What I’m describing is military rule," says Mike Benz. "It’s the inversion of democracy."
-
 
 > "The AI behavior guardrails that are set up with prompt engineering and filtering should be public — the creators should proudly stand behind their vision of what is best for society and how they crystallized it into commands and code. I suspect many are actually ashamed." - [John Carmack](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
 
@@ -1295,14 +1274,6 @@ Ep. 75  The national security state is the main driver of censorship and electio
 > "Economics are the method; the object is to change the soul." - [Margaret Thatcher](https://www.azquotes.com/quote/665382)
 ^^ lol wtf
 
-
-top10 most important reads:
-- https://civilizationemerging.com/new-economics-series-3/
-- https://civilizationemerging.com/new-economics-series-4/
-
-top10 to watch
-- How Complexity Economics Can Save the World, by Eric Beinhocker
-https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 
 > "The Universe is made of stories, not of atoms." - [Muriel Rukeyser](https://en.wikiquote.org/wiki/Muriel_Rukeyser#:~:text=means%2C%20to%20wake.-,The%20Universe%20is%20made%20of%20stories%2C%20not%20of%20atoms.,-%22The%20Speed%20of)
@@ -1671,12 +1642,6 @@ It will become a competitive advantage for firms to allow their employees to exp
 
 
 
-> "" - [Heterarchy, Wikipedia]()
-
-> "" - [Heterarchy, Wikipedia]()
-
-> "" - [Heterarchy, Wikipedia]()
-
 > "" - []()
 
 > "" - []()
@@ -2042,8 +2007,6 @@ why we need transparent money flows
 https://twitter.com/samfbiddle/status/1708531501808370002
 https://twitter.com/matthew_d_green/status/1708809676387705002
 
-Top 10 lists - choice ranking - is (collective) relevance realization
-
 What if we could codify social norms & responsibilities - completely opt-in?
 A way to calculate the degree of commitment to an egregore
 
@@ -2136,10 +2099,6 @@ Such a system would also incentivise more open source - not just from companies 
 
 What if you could browse what the world is trying to tell you - browse it any way you want as a young person?
 
-
-
-Example for what people resort to because of a lack of top10 lists:
-https://guzey.com/favorite/media/
 
 
 
@@ -2857,8 +2816,6 @@ Expression is a primordial desire and need
 We can publicly rate our happiness and then we can query what the happiest people do. Same for success, fulfillment, people dealing with death anxiety, terminal illnesses, etc.
 Imagine being able to ask “what do others think” for every stage and situation of your life
 
-Top10 desires: decriminalize psychedelics
-
 This is a fight for conscious life itself
 The fight of our lives
 
@@ -2898,8 +2855,6 @@ Genesis pair
 Genesis triplet
 
 Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
-
-Top10 regrets?
 
 
 The book of synthesis
@@ -3027,8 +2982,6 @@ Us vs them thinking isnt going away anytime soon - its deeply ingrained in us
 
 so many pdf reports should be instead linked data instead of a file blob detatched from its informational sources
 
-top10 thinks to answer:
-- what do you want to exist even if you don't? And how much of a difference do you make to it now?
 
 If our country was in a war we’d want to know the most important aspects of it, but curiously during peace time we do not engineer our media such that the most important problems are up front and made digestible (because they’re complex & interrelated)
 
@@ -3255,10 +3208,7 @@ what if we made famous those that could reliably transmit signal that would bett
 
 the biggest harms in the world come from opaqueness on the enterprise level
 
-when you hear someone speak you cannot stop your brain from processing the language and understanding it (assuming that you know the language and the concepts being discussed) - what if we couldn't let information get to us without first filtering it or at least annotating it through a prism of trustworthiness? 
-
-Top10 channels to subscribe to
-Climate town
+when you hear someone speak you cannot stop your brain from processing the language and understanding it (assuming that you know the language and the concepts being discussed) - what if we couldn't let information get to us without first filtering it or at least annotating it through a prism of trustworthiness?
 
 What if we could flag as evil anyone spreading denial and doubt around the health implications of tobacco - or the effects of fossil fuels on climate?
 
@@ -3642,9 +3592,6 @@ What if we made the moral high-ground more objective?
 
 Integration is also about taking all opinions worth considering into account and not ignoring what’s inconvenient
 It is also about provenance - is the link to the source of information lost or is it available as a part of the picture?
-
-Top 10 most important podcasts
-- the great simplification
 
 “How/why is this relevant to me?”
 
@@ -4253,7 +4200,7 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 >
 > It is only when the subsystems are incapable of making the right decisions that the higher-order system must intervene and tell them what to do. This means that the more autonomous subsystems are, that is, the more control they have over the way they carry out their function, the less hierarchical supervision they need. This is the essence of Aulin's (1982) law of requisite hierarchy: the required number of hierarchical levels decreases with increasing capacity for control in the subsystems. Since friction decreases and overall efficiency and control increase in all components of society, this means that present organizations and society at large can function with a strongly reduced number of hierarchical levels, thus making perception and action much more efficient. This explains the present trend towards the flattening of hierarchies. The towering pyramids of hierarchical levels in traditional bureaucracies merely reflected the poor regulatory ability of the individuals and subsystems in such a bureaucracy (and the tendency to institutionalize an intricate pecking order).
 >
-> Hierarchies not only tend to flatten, but to turn into heterarchies, that is, networks of mutual influence without subordination...
+> Hierarchies not only tend to flatten, but to turn into [heterarchies](https://en.wikipedia.org/wiki/Heterarchy), that is, networks of mutual influence without subordination...
 >
 > In conclusion, the improvement in communication, processing and control in all components of global society has a far-reaching impact on the structure of that society: the number of organizations performing the same function tends to decrease because of mergers and competitive exclusion, whereas the number of organizations performing different functions tends to increase, because of outsourcing, innovation, specialization and the discovery of new niches. At the same time, hierarchies are flattened or turned into heterarchies, and organizations become more autonomous in how they perform their functions, while becoming more dependent on society as a whole to determine which functions are in demand. Also, organizations become less dependent on specific individuals or geographic regions, and more defined by their activity or function.
 >
@@ -4278,6 +4225,18 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 > Although the effects of these trends are mostly positive, for both individuals and society as a whole, some of the side-effects can be detrimental. Reduced friction in particular increases the risk that positive feedback processes would get out of control. It also leads to increasingly complex causal chains of interconnected events, augmenting the need for information gathering and processing. Controlling these dangers requires a strengthening of the superorganism's nervous system. This control system has both centralized and distributed components. Centralization is exemplified by the growing importance of global institutions, responsible for the formulation and implementation of international standards, rules and laws.
 >
 > Distributed control can be exemplified by the “invisible hand” that mutually adjusts supply and demand. Its effectiveness is boosted by the emerging global computer network. The increasing reach, capacity, and intelligence of this network allow it to automate more and more functions of the superorganism's nervous system. This will transform the World-Wide Web into a “global brain”, capable of sensing, interpreting, learning, thinking, deciding, and initiating actions. Individuals are likely to become more and more intimately connected to this intelligent network, through ubiquitous, intuitive interfaces, and eventually a direct brain-to-web connection." - [The Global Superorganism: an evolutionary-cybernetic model of the emerging network society, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Superorganism.pdf)
+
+
+> "" - [Heterarchy, Wikipedia]()
+
+> "" - [Heterarchy, Wikipedia]()
+
+> "" - [Heterarchy, Wikipedia]()
+
+
+
+
+
 
 
 
@@ -4363,17 +4322,6 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 
 
 
-
-
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
-
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
-
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
-
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
-
-> "" - [The Case for the Web of Needs](https://publik.tuwien.ac.at/files/PubDat_237340.pdf)
 
 
 
@@ -4491,8 +4439,6 @@ an environment where a single identity is used for a long time and it accrues re
 
 think about how the material of RethinkX would fit in this epistemological ecosystem
 
-we can incentivize people to fill out questions to "complete their profile" and nudge them towards answering "top 10 civilizational concerns" - something they might have never even thought about. Some would perhaps look around at what scientists have had to say and boost their answers - hopefully, few would turn to kim kardashian for that sort of question
-
 delegating your vote to someone that you agree with can be more impactful than voting directly because it elevates them and their arguments and narrows down the set of arguments for a debate - making things more manageable
 
 social norms are the most powerful mechanism to leverage change
@@ -4592,8 +4538,6 @@ What about the Fermi paradox? Perhaps life everywhere else couldn’t build the 
 Motivated reasoning should be abolished/countered/made visible
 
 We can reward pre-commitments how data will be treated
-
-Top 10 ways to improve X field/concept/entity
 
 Think of how current services (science journals, stack exchange websites) can make it so the reputation of someone can be linked to their identity of choice & made addressable & exportable so that it can be fed into models
 
@@ -4811,13 +4755,6 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.jpg
 
 
 
-
-top 10 to watch
-Rethinking Humanity - a Film by RethinkX
-https://www.youtube.com/watch?v=r71yNnfY6ss
-
-The Rules for Rulers
-https://www.youtube.com/watch?v=rStL7niR7gs
 
 
 > "Only that which can change can continue." - [James P. Carse](https://www.goodreads.com/quotes/975884-only-that-which-can-change-can-continue)
@@ -5497,26 +5434,6 @@ Remember: you’re peering into the collective wisdom of humanity
 
 
 
-top 10 watch:
-Conscious Evolution Podcast
-https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
-
-top 10 watch:
-'Humanity's Phase Shift', Daniel Schmachtenberger
-https://www.youtube.com/watch?v=nQRzxEobWco
-EMBED THIS !!! not just in the top10 list
-also rewatch it
-
-also in top10:
-The War on Sensemaking, Daniel Schmachtenberger
-https://www.youtube.com/watch?v=7LqaotiGWjQ
-War on Sensemaking II, Daniel Schmachtenberger
-https://www.youtube.com/watch?v=9QGrffjOFko
-War on Sensemaking 4: Pandemic & Conspiracy, Daniel Schmachtenberger
-https://www.youtube.com/watch?v=G70qtM66iY8
-War on Sensemaking V, Daniel Schmachtenberger
-https://www.youtube.com/watch?v=0v5RiMdSqwk
-
 Competing crowdsourced ESG scores
 
 PageRank is the wisdom of crowds
@@ -5689,8 +5606,6 @@ A parallel reputational sensemaking network
 
 Participatory social engineering
 
-we could give points for "filling your profile" - values, top 10s, etc.
-
 
 
 
@@ -5716,13 +5631,6 @@ https://vitalik.ca/general/2023/07/24/biometric.html#what-are-some-early-attempt
 > "Tech firms’ desire to control their platforms is really the biggest threat to freedom everywhere. It creates a small number of chokepoints that governments are learning to exploit. Very few authoritarians could have built such a convenient system by themselves." - [Matthew Green](https://twitter.com/matthew_d_green/status/1684566275044122625)
 
 
-
-
-in top 10 things to watch
-MAN
-https://www.youtube.com/watch?v=WfGMYdalClU
-Daniel Schmachtenberger’s talk at Emergence
-https://www.youtube.com/watch?v=eh7qvXfGQho
 
 
 
@@ -5965,14 +5873,6 @@ This idea is worth worshiping tm
 Virtue’s most literal manifestation is cooperation
 
 The alignment problem is 99% about human alignment
-
-Use the clip of jobs saying that we can change things in the world - or in the top10 things to watch
-"Steve Jobs Secrets of Life"
-https://www.youtube.com/watch?v=kYfNvmF0Bqw
-
-in the top 10 videos list
-UTOK and the Meta Crisis, by Gregg Henriques
-https://www.youtube.com/watch?v=4NK4PvKSmJs
 
 
 Use the quote from naval? About judgement being the most important skill. The ability to develop an intuition of weighting things the most accurately with limited information
@@ -6906,11 +6806,6 @@ thinking in exponentials
 
 Cultural shorting of sociopathic corporatism
 
-Fall of civilizations in top10
-Fall of Civilizations Podcast
-https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ
-
-
 
 
 
@@ -7632,8 +7527,6 @@ cultural evolutionary processes
 > "Can someone take the transcript here, add citations, and fact check it — then post to twitter as a reply? the actual power of twitter is replying with facts — not being hysterical and tweeting that Tucker is a Russian Asset" - [Jason Calacanis](https://twitter.com/Jason/status/1666496960323530752)
 
 
-TOP 10 THINGS to rally against? not just positives, but also negatives
-
 
 In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.
 –President Dwight D. Eisenhower
@@ -7811,11 +7704,6 @@ lets map every negative externality that is unaccounted for in economics
 
 
 
-top 10 things for students
-2015 Commencement Address by David Brooks
-https://www.youtube.com/watch?v=PgoiVAI9B1w
-
-
 
 > "The art of being wise is the art of knowing what to overlook." - [David Brooks](https://www.goodreads.com/quotes/7221905-the-art-of-being-wise-is-the-art-of-knowing)
 
@@ -7855,17 +7743,9 @@ meritocracy as a chapter - an idea battleground
 
 part of strategy: spread with word of mouth
 
-The 14 minute animation in top10
-IN-SHADOW - A Modern Odyssey - Animated Short Film
-https://www.youtube.com/watch?v=j800SVeiS5I
-
-tim urban's life calendar in the top 10 list
-
 network owners & delegators can vote not only on the revenue for the system, but also for future projections - their intentions for the system for 1, 2, 5 years onwards with varying degrees of levels of commitment - this way users of the network (actual apps & services) will be able to forecast the costs of operation for this network. Predictability & a minimalistic design without much governance is perfect for businesses to be built on top of it
 
 only skin in the game and transparency and accountability can give us true progress
-
-game theory for kids as top10 most important - also education to be like those for the kids of spacex employees & elon
 
 We must make everything essential as affordable as possible and figure out the taxes for everything else - we can vote even on that
 
@@ -7955,9 +7835,6 @@ Have a chapter about memes
 
 we are starved for meaning
 
-
-What are the top 10 things we should never forget?
-
 an ongoing poll of how well we're doing with all of the goals
 
 An operating system for networked thought
@@ -7970,9 +7847,6 @@ we need to make the global energy hungry super organism conscious
 Public feeds that u can subscribe to
 
 what if anyone could review and comment on anything - like in peer review?
-
-top 10 myths that need to be debunked?
-https://www.youtube.com/watch?v=qYeZwUVx5MY
 
 different levels of certainty
 
@@ -8034,11 +7908,6 @@ Attention flows/currents and regulating that
 
 Epistemics, truth and attention are the basis of all action
 
-What of we could signal what we core most about
-- net carbon 0 by 2050
-- Obesity metrics down
-- Justice for cause X
-- 
 
 The key thing about information is retrievability and the ability to name it - not to be able to “transact” it
 Events are information - not something to price and re-sell
@@ -8051,19 +7920,14 @@ Transmuting reputation into influence
 
 your operating system for attention distribution - steer your own ship
 
-top 10 recommendations: The Century of the Self
-there should also be top 50/200/etc. - we should simply rank everything - vote with our actions in a global shared OS of events - events to which others can subscribe to
-
 This is your dialing TV - you choose how your version of a feed to be constructed, and participate wherever you have expertise through coting and reactions
 
-the matrix - in the top 10
+
 
 We need to have a **frank** discussion about the monetary system and the EGO (embedded growth obligation), and so many other issues
 
 values: competence and ambition should be rewarded
 
-
-top 10 crowdsourced list: meaning crysis, >A PICTURE OF THE EARTH< , etc.
 
 What if somebody ran for a president with this idea - as funding the development of this
 
@@ -8128,8 +7992,6 @@ We all feel a sense of desperation because things don't function well
 We need to counter our evolutionary baggage such as keeping up with the joneses or any bias that is nowadays maladaptive
 
 what if we could attach a confidence level to any assertion?
-
-How about top 10 mysteries? Why sont we crowdsource that? Example: how on earth did anyone discover ayahuasca
 
 This is the ultimate form of democracy
 

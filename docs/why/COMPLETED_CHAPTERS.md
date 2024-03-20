@@ -380,6 +380,157 @@ Problems with democracy and voters:
 
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Top10 lists
+██████████████████████████████████████████████████████████████████
+
+
+- values, goals & lists
+- ranking (& top 10 lists)
+
+in top 10 things to watch
+MAN
+https://www.youtube.com/watch?v=WfGMYdalClU
+Daniel Schmachtenberger’s talk at Emergence
+https://www.youtube.com/watch?v=eh7qvXfGQho
+
+
+what if we could query what our top 10 heroes think about how to get your life, diet & fitness in order?
+
+what if we could maintain rankings such as "the top 10 or 50 things I think everyone should have read and/or seen" and "what are the top 10 most pressing issues" and have that surfaced objectively - by whoever dares to speak out - we could publicly rank our concerns
+
+
+What are the top 10 things we should never forget?
+
+top 10 concept for life: tim urban's life calendar
+
+top 10 recommendations: The Century of the Self
+there should also be top 50/200/etc. - we should simply rank everything - vote with our actions in a global shared OS of events - events to which others can subscribe to
+
+we can incentivize people to fill out questions to "complete their profile" and nudge them towards answering "top 10 civilizational concerns" - something they might have never even thought about. Some would perhaps look around at what scientists have had to say and boost their answers - hopefully, few would turn to kim kardashian for that sort of question
+we could give points for "filling your profile" - values, top 10s, etc.
+
+
+How about top 10 mysteries? Why dont we crowdsource that? Example: how on earth did anyone discover ayahuasca
+
+top 10 myths that need to be debunked?
+https://www.youtube.com/watch?v=qYeZwUVx5MY
+
+TOP 10 THINGS to rally against? not just positives, but also negatives
+
+What of we could signal what we core most about
+- net carbon 0 by 2050
+- Obesity metrics down
+- Justice for cause X
+- 
+
+the matrix - in the top 10
+
+top 10 crowdsourced list: meaning crysis, >A PICTURE OF THE EARTH< , etc.
+
+top10 papers:
+- [The direction of evolution: The rise of cooperative organization, by John E. Stewart, 2014](https://www.sciencedirect.com/science/article/pii/S030326471400080X?via%3Dihub)
+- [Evolutionary possibilities: Can a society be constrained so that “the good” self-organizes?, by John E. Stewart, 2018](https://doi.org/10.1080/02604027.2017.1357985)
+- [Towards a general theory of the major cooperative evolutionary transitions, by John E. Stewart, 2020](https://www.sciencedirect.com/science/article/pii/S030326472030126X?via%3Dihub)
+The problem with John's papers is that you can't simply quote parts of them as all parts are good - you'd have to use the whole thing. These papers comprise most of the essence of his book `"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"`.
+TODO: maybe just leave the 2014/2018 papers
+
+
+Use the clip of jobs saying that we can change things in the world - or in the top10 things to watch
+"Steve Jobs Secrets of Life"
+https://www.youtube.com/watch?v=kYfNvmF0Bqw
+
+in the top 10 videos list
+UTOK and the Meta Crisis, by Gregg Henriques
+https://www.youtube.com/watch?v=4NK4PvKSmJs
+
+game theory for kids as top10 most important - also education to be like those for the kids of spacex employees & elon
+
+top10 best predictors - hall of fame
+- paul krugman on the internet
+- transitory inflation - split 2nd place for J Powell / J Yellen
+
+top 10 things for students
+2015 Commencement Address by David Brooks
+https://www.youtube.com/watch?v=PgoiVAI9B1w
+
+top 10 watch:
+Conscious Evolution Podcast
+https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
+
+top 10 most important
+https://twitter.com/TuckerCarlson/status/1758529993280205039
+Ep. 75  The national security state is the main driver of censorship and election interference in the United States. "What I’m describing is military rule," says Mike Benz. "It’s the inversion of democracy."
+
+top 10 watch:
+'Humanity's Phase Shift', Daniel Schmachtenberger
+https://www.youtube.com/watch?v=nQRzxEobWco
+EMBED THIS !!! not just in the top10 list
+also rewatch it
+
+why can't we crowdsource "top 10 videos that everyone should watch"
+
+Top 10 ways to improve X field/concept/entity
+
+top 10 to watch
+Rethinking Humanity - a Film by RethinkX
+https://www.youtube.com/watch?v=r71yNnfY6ss
+
+The Rules for Rulers
+https://www.youtube.com/watch?v=rStL7niR7gs
+
+also in top10:
+The War on Sensemaking, Daniel Schmachtenberger
+https://www.youtube.com/watch?v=7LqaotiGWjQ
+War on Sensemaking II, Daniel Schmachtenberger
+https://www.youtube.com/watch?v=9QGrffjOFko
+War on Sensemaking 4: Pandemic & Conspiracy, Daniel Schmachtenberger
+https://www.youtube.com/watch?v=G70qtM66iY8
+War on Sensemaking V, Daniel Schmachtenberger
+https://www.youtube.com/watch?v=0v5RiMdSqwk
+
+
+top10 to watch - or embed this in the section about war - perhaps the most presidential speech of all time
+President John F. Kennedy's Peace Speech - Commencement Address at American University, Washington, D.C., June 10, 1963
+https://www.youtube.com/watch?v=0fkKnfk4k40
+
+top10 most important reads:
+- https://civilizationemerging.com/new-economics-series-3/
+- https://civilizationemerging.com/new-economics-series-4/
+
+top10 to watch
+- How Complexity Economics Can Save the World, by Eric Beinhocker
+https://www.youtube.com/watch?v=Kis6vZlGqHQ
+
+The 14 minute animation in top10
+IN-SHADOW - A Modern Odyssey - Animated Short Film
+https://www.youtube.com/watch?v=j800SVeiS5I
+
+
+Fall of civilizations in top10
+Fall of Civilizations Podcast
+https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ
+
+
+Example for what people resort to because of a lack of top10 lists:
+https://guzey.com/favorite/media/
+
+
+Top 10 most important podcasts
+- the great simplification
+
+Top 10 lists - choice ranking - is (collective) relevance realization
+
+Top10 things to decriminalize: psychedelics
+
+Top10 regrets?
+
+top10 things to answer:
+- what do you want to exist even if you don't? And how much of a difference do you make to it now?
+
+Top10 channels to subscribe to
+Climate town
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Consciousness
 ██████████████████████████████████████████████████████████████████
 

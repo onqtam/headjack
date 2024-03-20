@@ -425,8 +425,6 @@ https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
 https://civilizationemerging.com/books/
 https://fs.blog/knowledge-project-podcast/naval-ravikant/#books-mentioned
 
-why can't we crowdsource "top 10 videos that everyone should watch"
-
 what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
 
 what if instead of caring if someone liked your nonsense tweet you had cast a vote and can see if others vote the same way as you - not liking a textual comment of yours, but you influencing them to vote the same way you did
@@ -466,11 +464,7 @@ what if we could gauge the trustfulness of a brand? or how much it is being reco
 
 our current culture is of consumerism - what if we could shift that? How would we shift that?
 
-what if we could query what our top 10 heroes think about how to get your life, diet & fitness in order?
-
 > "Citizen journalism is vital to the future of civilization" - [@elonmusk](https://twitter.com/elonmusk/status/1615461396313178115)
-
-what if we could maintain rankings such as "the top 10 or 50 things I think everyone should have read and/or seen" and "what are the top 10 most pressing issues" and have that surfaced objectively - by whoever dares to speak out - we could publicly rank our concerns
 
 Many social networks have polls about preferences & beliefs - we've filled so much questionnaires but none of them have been truly meaningful
 
