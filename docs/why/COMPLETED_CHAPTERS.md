@@ -532,7 +532,7 @@ IN-SHADOW - A Modern Odyssey - Animated Short Film
 https://www.youtube.com/watch?v=j800SVeiS5I
 
 
-Fall of civilizations in top10
+Fall of civilizations in top10 to WATCH (not just listen)
 Fall of Civilizations Podcast
 https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ
 
@@ -546,14 +546,15 @@ Top 10 most important podcasts
 - The Great Simplification
 - Rebel Wisdom
 - The Jim Rutt Show
-- Your Undivided Attention (the older ones)
-- 80,000 Hours Podcast?
-- Upstream with Erik Torenberg
+- The Truth with Carlos Farias
 - Dwarkesh Podcast
 - Lex Fridman Podcast
 - Metamodern Spirituality
-- the youtube one with Carl?
 - The knowledge project
+- Your Undivided Attention (the older ones)
+- 80,000 Hours Podcast
+- Upstream with Erik Torenberg
+- "Live Players" with Samo Burja and Erik Torenberg
 
 Top 10 lists - choice ranking - is (collective) relevance realization
 
@@ -564,8 +565,8 @@ Top10 regrets?
 top10 things to answer:
 - what do you want to exist even if you don't? And how much of a difference do you make to it now?
 
-Top10 channels to subscribe to
-Climate town
+Top10 humorous yet informative channels to subscribe to
+- Climate Town
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consciousness
