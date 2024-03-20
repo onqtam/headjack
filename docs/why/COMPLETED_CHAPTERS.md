@@ -361,7 +361,27 @@ Problems with democracy and voters:
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Hierarchy / holacracy / subsidiarity
+██████████████████████████████████████████████████████████████████
 
+> "Wherever we find orderly, stable systems in Nature, we find that they are hierarchically structured, for the simple reason that without such structuring of complex systems into sub-assemblies, there could be no order and stability-except the order of a dead universe filled with a uniformly distributed gas." - [Arthur Koestler](https://www.goodreads.com/quotes/9652997-wherever-we-find-orderly-stable-systems-in-nature-we-find)
+
+> "On successively higher levels of the hierarchy we find more complex, flexible and less predictable patterns of activity, while on successively lower levels we find more and more mechanised, stereotyped and predictable patterns. In the language of the physicist, a holon on a higher level of the hierarchy has more degrees of freedom than a holon on a lower level." - [Arthur Koestler](https://www.goodreads.com/quotes/9653378-on-successively-higher-levels-of-the-hierarchy-we-find-more)
+
+> "The self-assertive tendency is the dynamic expression of the holon's wholeness, the integrative tendency, the dynamic expression of its partness." - [Arthur Koestler](https://www.goodreads.com/quotes/9652981-no-man-is-an-island-he-is-a-holon-a-janus-faced#:~:text=the%20self%2Dassertive%20tendency%20is%20the%20dynamic%20expression%20of%20the%20holon%27s%20wholeness%2C%20the%20integrative%20tendency%2C%20the%20dynamic%20expression%20of%20its%20partness.)
+
+> "[Holacracy](https://en.wikipedia.org/wiki/Holacracy) provides a governance framework that is decidedly [holonic](https://en.wikipedia.org/wiki/Holon_(philosophy)) — roughly, systems within systems. In this way, a holacratic organization approximates a living organism as opposed to a machine to be “designed” or “run.” Practitioners aren’t arranged by managers as cogs within a traditional org chart, but rather define their own functional roles within wider spheres of activity, or “circles.”
+>
+> Just as cells make up organs within organisms, people have roles within teams within organizations. And though certain cells and roles might hustle themselves into an “executive function,” both the organism’s and the holacratic organization’s brains are self-organizing." - [Fractal Governance Applied, by Max Borders](https://underthrow.substack.com/p/fractal-governance-applied#:~:text=Holacracy%20provides%20a,are%20self%2Dorganizing.)
+
+> "" - [Fractal Governance Applied, by Max Borders]()
+
+> "" - [Fractal Governance Applied, by Max Borders]()
+
+> "" - [Fractal Governance Applied, by Max Borders]()
+
+> "" - [Fractal Governance Applied, by Max Borders]()
 
 
 
