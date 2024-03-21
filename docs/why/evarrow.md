@@ -1078,3 +1078,9 @@ This [whole paper](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf) needs t
 
 > "" - [source]()
  -->
+
+The direction of evolution: The rise of cooperative organization
+https://www.sciencedirect.com/science/article/pii/S030326471400080X?via%3Dihub
+https://ars.els-cdn.com/content/image/1-s2.0-S030326471400080X-fx1.jpg
+
+

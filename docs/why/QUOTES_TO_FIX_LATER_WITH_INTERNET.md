@@ -876,6 +876,36 @@ Massachusetts Institute of Technology
 
 > "" - []()
 
+> "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
+
+> "" - [Cognitive Systems, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/CognitiveSystems.pdf)
+
+> "" - [Complexity and Self-organization, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ELIS-complexity.pdf)
+
+> "" - [From human computation to the Global Brain: the self-organization of distributed intelligence, by Francis Heylighen](https://www.researchgate.net/publication/304113807_From_Human_Computation_to_the_Global_Brain_The_Self-Organization_of_Distributed_Intelligence)
+
+> "" - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)
+
+> "" - [Cybernetics and Second-Order Cybernetics, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Cybernetics-EPST.pdf)
+
+> "" - [What Makes a Meme Successful? Selection Criteria for Cultural Evolution, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Memetics-Namur.pdf)
+
+> "" - [Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf)
+
+> "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
+
+> "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
+
+> "" - [The Emergence of Distributed Cognition: a conceptual framework, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Distr.CognitionFramework.pdf)
+
+> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
+
+> "" - [, by Francis Heylighen]()
+
+
+> "" - [Hanzi’s Private Notes: The 5 Metamemes Before Metamodernism](https://metamoderna.org/hanzis-private-notes-the-5-metamemes-before-metamodernism/)
+
+> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
 
 
@@ -887,9 +917,6 @@ S. Tramp, P. Frischmuth, T. Ermilov, S. Shekarpour, and S. Auer, “An architect
 Popper, K. R. (1972) Objective Knowledge-An Evolutionary Approach. Oxford: Clarendon.
 
 "Nothing makes sense in biology except in the light of evolution" - Dobzhansky
-
-Heylighen, F., 2001. The science of self-organization and adaptivity. Encycl. Life Support Syst. 5, 253–280.
-http://refhub.elsevier.com/S0303-2647(22)00075-2/sref18
 
 Salthe, S.N., 1985. Evolving Hierarchical Systems. Columbia University Press, New York.
 http://refhub.elsevier.com/S0303-2647(20)30126-X/sref42
@@ -941,40 +968,11 @@ http://wiki.lesswrong.com/wiki/Orthogonality_thesis
 LessWrong. (2013). Complexity of value. LessWrong. Wiki. Retrieved from
 http://wiki.lesswrong.com/wiki/Complexity_of_value
 
-Helbing, Dirk (2013). Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society. http://arxiv.org/abs/1305.4078
-
-Delphi procedure ??? what is that - google it
-
 Rodriguez, M.A (2007) Social Decision Making with Multi-Relational Networks and Grammar-Based
 Particle Swarms, in: 2007 Hawaii International Conference on Systems Science (HICSS) IEEE
 Computer Society
 
-
-Heylighen, J. Bollen & A. Riegler (eds.) The Evolution of Complexity Kluwer Academic,
-Dordrecht, p. 17-44
-
-https://twitter.com/jim_rutt/status/1613145091874357249?lang=en
-
-https://medium.com/age-of-awareness/a-metamodern-guide-to-human-development-49fe8d8f0e8f
-
-https://www.youtube.com/watch?v=r9gYpj0WLcg
-
-https://www.youtube.com/watch?v=hKvVdGNzCQk&t=20s
-
-https://www.youtube.com/watch?v=ZzpOUf8OTAA&t=24s
-
-https://www.youtube.com/watch?v=xB1pb3dlrWE
-
-https://www.youtube.com/playlist?list=PLa_4sU5_wQrlw5b9oc1tDaziHyEqXUnl7https://www.youtube.com/playlist?list=https://www.youtube.com/playlist?list=PLa_4sU5_wQrlw5b9oc1tDaziHyEqXUnl7
-
-Gebser calls “aperspectival”
-https://www.weirdstudies.com/56
-
-https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/
-
 "The task is to see reality as it is, the method is to look through millions of eyes" - Nietzsche
-
-https://metamoderna.org/hanzis-private-notes-the-5-metamemes-before-metamodernism/
 
 https://en.wikipedia.org/wiki/Demarcation_problem#:~:text=In%20philosophy%20of%20science%20and,art%20and%20literature%20and%20beliefs.
 
@@ -984,8 +982,6 @@ https://lessfoolish.substack.com/
 
 https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/
 
-https://octopusyarn.substack.com/p/why-we-need-a-new-religion
-
 https://www.quora.com/Why-do-religions-exist-and-what-is-their-purpose-to-society
 
 https://en.wikipedia.org/wiki/Cult_of_the_Supreme_Being
@@ -993,8 +989,6 @@ https://en.wikipedia.org/wiki/Cult_of_the_Supreme_Being
 https://www.jstor.org/stable/3087765#metadata_info_tab_contents
 
 https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitter/
-
-Heylighen, F. 2013. From human computation to the Global Brain: the self-organization of distributed intelligence. In: Michelucci, P. (Ed.), Handbook of Human Computation.
 
 Cristian, F. (1996). Synchronous and asynchronous Group Communication. Communications of the ACM, 39(4), 88–97.
 
@@ -1006,9 +1000,6 @@ Dipple, A., Raymond, K., & Docherty, M. (n.d.). General theory of stigmergy: Mod
 Elliott, M. A. (2007). Stigmergic collaboration: a theoretical framework for mass collaboration (PhD thesis).
 http://eprints.infodiv.unimelb.edu.au/00003977/01/elliott_phd_pub_08.10.07.pdf
 
-Gershenson, C., & Heylighen, F. (2005). How can we think complex? In K. Richardson (Ed.), Managing organizational complexity: philosophy, theory and application (pp. 47–61). Information Age
-Publishing. Retrieved from http://pcp.vub.ac.be/Papers/ThinkingComplex.pdf
-
 Rifkin, J. 2014. The zero marginal cost society: The internet of things, the collaborative commons, and the eclipse of capitalism. Palgrave Macmillan Trade.
 
 Chorost, M. 2011. World wide mind: The coming integration of humanity. New York: Simon and Schuster.
@@ -1017,41 +1008,13 @@ Cole-Turner, R. 2012. The singularity and the rapture: Transhumanist and popular
 
 Hayles, N.K. 2012. How we think: Digital media and contemporary technogenesis. Chicago: University of Chicago Press.
 
-Heylighen, F. 2014. Complexity and Evolution: fundamental concepts of a new scientific worldview. Lecture notes 2014-15.
-http://pespmc1.vub.ac.be/books/Complexity-Evolution.pdf
-
-Heylighen, F. (2008b). Complexity and Self-organization. Encyclopedia of Library and Information Sciences,
-http://pespmc1.vub.ac.be/Papers/ELIS-complexity.pdf
-
-Francis Heylighen, Cognitive Systems.
-Heylighen, F. (2010). Cognitive Systems: a cybernetic approach on the new science of the mind. ECCO,
-VUB. Retrieved from http://pespmc1.vub.ac.be/Papers/CognitiveSystems.pdf
-
-Heylighen, F. (2012a). A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior (Working papers No. 2012-06). Brussels, Belgium.
-Retrieved from http://pcp.vub.ac.be/papers/TaleofAdventure.pdf
-
-Heylighen, F., & Joslyn, C. (2003). Cybernetics and Second-Order Cybernetics. In Robert A. Meyers (Ed.), Encyclopedia of Physical Science and Technology (3rd ed., Vol. 4, pp. 155–169). New York:
-Academic Press. Retrieved from http://pespmc1.vub.ac.be/Papers/cybernetics-EPST.pdf
-
-Heylighen and Chielens, p. 10370; Francis Heylighen, ‘What Makes a Meme Successful? Selection Criteria for Cultural Evolution’, in Proc. 16th Int. Congress on Cybernetics (Namur: Association Internat. de Cybernétique, 1998), p. 423–418.
-
 C. Heath and D. Heath, Made to Stick: Why Some Ideas Survive and Others Die (Random House, 2007).
-
-Francis Heylighen, ‘Why Is Open Access Development so Successful? Stigmergic Organization and the Economics of Information’, in Open Source Jahrbuch 2007, ed. by B. Lutterbeck, M. Baerwolff & R. A. Gehring (Lehmanns Media, 2007), pp. 165–180
-http://pespmc1.vub.ac.be/Papers/OpenSourceStigmergy.pdf
-Why is Open Source Development so Successful? Stigmergic organization and the economics of information in: B. Lutterbeck, M. Baerwolff & R. A. Gehring (eds.) Open Source Jahrbuch 2007, Lehmanns Media.
 
 C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journal of Public Information Systems, 1 (2008), 1–24.
 
 Michael, D. R., & Chen, S. L. (2005). Serious games: Games that educate, train, and inform. Muska & Lipman/Premier-Trade.
 
 > "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - [Oscar Wilde]()
-
-Heylighen, F., Busseniers, E., Veitas, V., Vidal, C., & Weinbaum, D. R. (2012). Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications (GBI Working Papers No. 2012-05). GBI Working Papers. Retrieved
-from http://pespmc1.vub.ac.be/papers/TowardsGB-model.pdf
-
-Heylighen, F., Kostov, I., & Kiemen, M. (2013). Mobilization Systems: technologies for motivating and coordinating human action. In Peters M. A., Besley T. and Araya D. (Ed.), The New Development Paradigm: Education, Knowledge Economy and Digital
-http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf
 
 Marsh, L., & Onof, C. (2008). Stigmergic epistemology, stigmergic cognition. Cognitive Systems Research,
 
@@ -1077,8 +1040,6 @@ Veitas, V. & Weinbau, D. 2015. A world of views: A world of interacting post-hum
 Coenen T. (2006) Knowledge sharing over social networking systems ECCO working paper 2006-11,
 http://homepages.vub.ac.be/~tcoenen/thesis.pdf
 
-Heylighen F., Heath M., F. Van Overwalle (2004) The Emergence of Distributed Cognition: a conceptual framework, Proceedings of Collective Intentionality IV, Siena (Italy)
-
 Martens B. (2004) The Cognitive Mechanics of Economic Development and Institutional Change, Routledge
 
 Rodriguez, M.A (2007) Social Decision Making with Multi-Relational Networks and Grammar-Based Particle Swarms, in: 2007 Hawaii International Conference on Systems Science (HICSS) IEEE Computer Society
@@ -1092,10 +1053,6 @@ Bonabeau, E. (2009). Decisions 2.0: The power of collective intelligence. MIT Sl
 http://www.worldwideopen.org/uploads/groups_bull/files/30/decision%202.0.pdf
 
 Axelrod, R., and M. D. Cohen. (1999). Harnessing Complexity: Organizational Implications of a Scientific Frontier. Free Press
-
-Heylighen, F. (2004): "Mediator Evolution: a general scenario for the origin of dynamical hierarchies"
-Heylighen, F. (2006). Mediator Evolution: a general scenario for the origin of dynamical hierarchies.
-Worldviews, Science and Us.(Singapore: World Scientific).
 
 Corning, P.A. (1998). “The synergism hypothesis”: On the concept of synergy and its role in the evolution of complex systems. Journal of Social and Evolutionary Systems
 
@@ -1136,8 +1093,6 @@ we can use the dynamics of a system on one level to predict/model the dynamics o
 isomorphic relationship between different levels of emergence/complexity?
 the principle of consequence capture is one such example that can be found on all levels
 
-Bobby Azarian twitter DM: just listened to your 3rd appearance on the active inference channel where you talk about the isomorphism of some of the patterns of different levels of complex adaptive systems and I couldn't stop thinking about John Stewart's concept of consequence capture from his book Evolution's Arrow which is required for full alignment and for free riders to not outcompete altruists. Also Stigmergy.
-
 SCREENSHOTS !!!
 
 
@@ -1161,5 +1116,5 @@ individual journal has an incentive to unilaterally switch to early registration
 since it would just mean their results are less interesting than that other journal who only publishes ground-
 breaking discoveries. From within the system, everyone is following their own incentives and will continue to do
 so.
-
+https://www.slatestarcodexabridged.com/Meditations-On-Moloch
 
