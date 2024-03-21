@@ -900,7 +900,27 @@ Massachusetts Institute of Technology
 
 > "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
 
+> "" - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
+
+> "" - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+^^ SAME PDF
+
+> "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
+
+> "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MarketCo.html)
+
 > "" - [, by Francis Heylighen]()
+
+> "" - [, by Francis Heylighen]()
+
+> "" - [, by Francis Heylighen]()
+
+> "" - [, by Francis Heylighen]()
+
+
 
 
 > "" - [Hanzi’s Private Notes: The 5 Metamemes Before Metamodernism](https://metamoderna.org/hanzis-private-notes-the-5-metamemes-before-metamodernism/)
