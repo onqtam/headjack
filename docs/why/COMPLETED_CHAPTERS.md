@@ -558,6 +558,10 @@ Top 10 most important podcasts
 
 Top 10 lists - choice ranking - is (collective) relevance realization
 
+top mysteries: how come people who advocate for peace always get wacked? John Lennon / martin luther king jr / Gandhi / kennedy
+How did [Gary Webb](https://en.wikipedia.org/wiki/Gary_Webb) shoot himself twice in the head?
+Why do whistleblowers [keep dying](https://en.wikipedia.org/wiki/John_Barnett_(whistleblower))? Could there be a better way to be a whistleblower?
+
 Top10 things to decriminalize: psychedelics
 
 Top10 regrets?

@@ -265,7 +265,7 @@ https://stackoverflow.com/help/privileges
 
 
 
-
+> "Without improving the systems by which humans collectively navigate the problem of mapping values to actions under shared constraints, that better tech will primarily end up used to destroy humanity, rather than sustainably accelerate it. The belief that better / more capable technological artifacts will alone lead to a better society is just another form of utopian delusion." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1770602256901243331)
 
 > "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
 
@@ -403,6 +403,12 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 > "" - [Alexandros Marinos]()
 
 > "" - [Alexandros Marinos]()
+
+> "Instead of the story emerging according to the facts, the facts emerge according to the prevailing story." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
+
+> "The only way out is through. We need to continue building even deeper and broader understanding of dynamics of narrative, and designing institutions that are structurally incapable of bending their output towards one or another official's preferred narrative. As a simple example, the CDC is currently responsible both for gathering and analyzing information around disease prevalence, and also making policy recommendations. In a narrative-aware world, we'd realize that this creates an irresistible temptation to control the data that is released so that the policy recommendations can seem more correct than they were. In that world those two functions would never be allowed to co-exist in the same organization.
+>
+> On the individual level, we need to rebuild our sensemaking mechanisms to assume that every piece of information we receive is colored by corrupt incentives, much like we refactored the technology stack of the internet away from the initial naive assumptions and towards security- and encryption-by default. Many areas of human endeavor, such as international diplomancy or even most business-to-business transactions already work on such principles, so it's nowhere near as onerous as it may seem. We just need to stop hoping that there is some far-away uncorrupted group of elders that will give us truth on a platter." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
 
 
 
@@ -5205,6 +5211,12 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 > "The first principle is that you must not fool yourself and you are the easiest person to fool." - [Richard Feynman](https://www.goodreads.com/quotes/193533-the-first-principle-is-that-you-must-not-fool-yourself)
 
+> "Science is the belief in the ignorance of experts." - [Richard Feynman](https://www.goodreads.com/quotes/3225333-science-is-the-belief-in-the-ignorance-of-experts)
+
+> "The first principle is that you must not fool yourself and you are the easiest person to fool." - [Richard Feynman](https://www.goodreads.com/quotes/193533-the-first-principle-is-that-you-must-not-fool-yourself)
+
+> "Physics is like sex: sure, it may give some practical results, but that's not why we do it." - [Richard Feynman](https://www.goodreads.com/quotes/117534-physics-is-like-sex-sure-it-may-give-some-practical)
+
 > "Society grows great when old men plant trees whose shade they know they shall never sit in." - [Greek Proverb](https://www.goodreads.com/quotes/666987-society-grows-great-when-old-men-plant-trees-whose-shade)
 
 
@@ -7848,8 +7860,6 @@ we need to constantly evolve our fittedness to the environment
 
 fixing our attentional economy - by infusing it with values, reputation and transparency
 
-top mysteries: how come people who advocate for peace always get wacked? John Lennon / martin luther king jr / Gandhi / kennedy
-How did Gary Webb shoot himself twice in the head
 
 Everytyning is rooted on this one key assumption: most people are good
 Also that everyone should bear responsibility
