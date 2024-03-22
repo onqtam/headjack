@@ -21,6 +21,7 @@ Adapters for current web2 platforma - wrap actions in messages that point to the
 
 strategy: start it centralized !!! Emulate the blockchain !!!
 
+Include a way for people to add their email as early converts and put their counter globally somewhere - visibly online - up to date
 
 - the OAuth-like experience - a major selling point, web2 feel
 
