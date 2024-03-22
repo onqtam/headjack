@@ -923,20 +923,6 @@ Massachusetts Institute of Technology
 
 > "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
 
-> "" - [, by Francis Heylighen]()
-
-> "" - [, by Francis Heylighen]()
-
-> "" - [, by Francis Heylighen]()
-
-> "" - [, by Francis Heylighen]()
-
-> "" - [, by Francis Heylighen]()
-
-> "" - [, by Francis Heylighen]()
-
-> "" - [, by Francis Heylighen]()
-
 > "In essence, the meaning of life is to increase evolutionary fitness." - [Foundations and Methodology for an Evolutionary World View: a review of the Principia Cybernetica Project, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/PCPworldview-FOS.pdf)
 
 
@@ -1052,8 +1038,6 @@ C. Heath and D. Heath, Made to Stick: Why Some Ideas Survive and Others Die (Ran
 C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journal of Public Information Systems, 1 (2008), 1–24.
 
 Michael, D. R., & Chen, S. L. (2005). Serious games: Games that educate, train, and inform. Muska & Lipman/Premier-Trade.
-
-> "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - [Oscar Wilde]()
 
 Marsh, L., & Onof, C. (2008). Stigmergic epistemology, stigmergic cognition. Cognitive Systems Research,
 
