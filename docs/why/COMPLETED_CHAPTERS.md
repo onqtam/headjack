@@ -377,7 +377,7 @@ Problems with democracy and voters:
 # SECTION: Relevance realization
 ██████████████████████████████████████████████████████████████████
 
-
+Why does Nate Hagens always ask his guests at the end of the show about the one thing they would like to say or do? Ranking. RR
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Top10 lists
