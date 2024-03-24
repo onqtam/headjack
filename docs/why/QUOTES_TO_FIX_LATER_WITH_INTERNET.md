@@ -866,6 +866,18 @@ Massachusetts Institute of Technology
 
 
 
+> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
+
+> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
+
+> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
+
+> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
+
+> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
+
+> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
+
 
 
 > "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
@@ -883,8 +895,6 @@ Massachusetts Institute of Technology
 > "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
 
 > "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
-
-> "" - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
 
 > "" - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
 
