@@ -94,7 +94,7 @@
 
 > "I actually think climate change is gonna require a new set of global governments a new form of global governance that we haven't even imagined yet I don't exactly know what it's gonna be but when I think about the issues like solar to engineering I don't think the UN is up for the task and I don't think the framework of the Paris agreement or anything else like that is really capable I think something new is going to emerge and it's not going to emerge because of altruism or because we all have some enlightenment I think it's gonna be because of necessity you know HG Wells had a great line I think it was in the time machine where he wrote we are kept keen on a grindstone of pain and necessity and I think there's a truth to that that that a lot of the innovation in the 21st century is gonna come not because we're enlightened or we reach some kind of spiritual connection with the earth system but because frankly we're up against it and we have to innovate or or fail to survive." - [Daniel Schrag](https://youtu.be/qCJLkwzNy_4?t=5345)
 
-> "" - []()
+> "Illegitimate power is utilizing asymmetric power to maintain and grow the assymetry of power." - [Daniel Schmachtenberger](https://www.youtube.com/watch?v=hKvVdGNzCQk)
 
 > "" - []()
 
