@@ -904,7 +904,7 @@ Massachusetts Institute of Technology
 
 > "Whatever the type of action you are considering, the number of possibilities has in practice become endless. This makes it ever more difficult to make a motivated choice among the alternatives. We may call this the problem of opportunity overload." - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
 
-> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+> "Problems of scarcity are fundamentally addressed by economics, which is the study of how scarce resources can be allocated most efficiently. At the most basic level, “economy” means simply the careful management of resources, so that as little as possible is wasted. From this point of view, individuals should learn to optimally spend the limited amount of attention they have, by investing it only in the most worthwhile items." - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
 
 > "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
 
@@ -914,6 +914,16 @@ Massachusetts Institute of Technology
 
 > "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
 
+
+> "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
+
+> "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
+
+> "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
+
+> "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
+
+> "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
 
 
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
@@ -946,8 +956,6 @@ Massachusetts Institute of Technology
 > "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
 
 > "" - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
-
-> "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
 
 > "" - [FITNESS AS DEFAULT: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
 
