@@ -447,7 +447,7 @@
 >
 > However, a challenge merely inspires or stimulates action, it does not impose it. The reason is that a complex situation will typically present many challenging phenomena, and the agent will not be able to act on all of them. For example, someone surfing the web typically encounters many pages that seem worth investigating, but obviously cannot read all of them. We may assume that an agent is intrinsically capable of choice, and that this choice will be determined partly by subjective preferences, partly by situational influences, partly by chance, i.e. intrinsically unpredictable, “random” fluctuations. Therefore, it is in general impossible to determine exactly how an agent will react to a situation, although it should be possible to derive statistical regularities about the most common choices. The implication for modeling is that an agent should not be represented as a deterministic automaton, but as a stochastic system, which may make different decisions in apparently identical cases, but where it is meaningful to specify conditional probabilities for the different choices, so that in a given condition e.g. 50% of agents can be expected to make choice A, 30% choice B, and 20% choice C.
 >
-> One of the reasons for this unpredictability is that agents have bounded rationality19: they normally never have all the information or cognitive abilities necessary to evaluate the different challenges. They, therefore have to make “informed guesses” about the best course of action to take. Moreover, assuming that similar agents tend to look for similar resources, it is worth making a choice different from the choice of the others, so as to avoid competition for scarce resources. In addition to positivity and negativity, other dimensions worth considering in order to compare challenges are:
+> One of the reasons for this unpredictability is that agents have bounded rationality: they normally never have all the information or cognitive abilities necessary to evaluate the different challenges. They, therefore have to make “informed guesses” about the best course of action to take. Moreover, assuming that similar agents tend to look for similar resources, it is worth making a choice different from the choice of the others, so as to avoid competition for scarce resources. In addition to positivity and negativity, other dimensions worth considering in order to compare challenges are:
 >
 > - prospect (in how far can the agent foresee the different aspects or implications of the challenge?),
 >
@@ -900,6 +900,20 @@ Massachusetts Institute of Technology
 
 > "While at the higher level there is a selective pressure for finding synergetic configurations that minimize conflict, at the lower level there always remains a “temptation” to defect from such an arrangement, leading to the creation of free-riders that eventually undermine the synergy. The precariousness of such symmetric forms of synergy (cooperation) can be counterbalanced by the evolution of asymmetric relations. In this situation, the selective pressure for synergy makes exploiters evolve into cultivators. The control exerted by the cultivator over the cultivated gives the latter the power and the “motivation” to suppress conflict in the former." - [Mediator Evolution: a general scenario for the origin of dynamical hierarchies, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MediatorEvolution.pdf)
 
+> "If causal chains travel more far and wide, we also need to keep more broadly informed about the remote causes of those chains. So, although we may wish to limit our intake of information, ephemeralization forces us to pay attention to ever more data. The problem is that people have clear limits in the amount of information they can process. To use Simon’s well-known phrase, they have bounded rationality. The best known limitation is the "magical number" that governs short-term memory: the psychologist Miller has shown that people can only keep some seven items at once in their working memory." - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+> "Whatever the type of action you are considering, the number of possibilities has in practice become endless. This makes it ever more difficult to make a motivated choice among the alternatives. We may call this the problem of opportunity overload." - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
+> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
+
 
 
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
@@ -932,12 +946,6 @@ Massachusetts Institute of Technology
 > "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
 
 > "" - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
-
-> "" - [Complexity and Information Overload in Society: why increasing efficiency leads to decreasing control, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
-
-> "" - [Tackling Complexity and Information Overload: intelligence amplification, attention economy and the global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Info-overload.pdf)
-
-^^ SAME PDF
 
 > "" - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
 
