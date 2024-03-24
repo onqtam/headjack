@@ -4061,7 +4061,7 @@ This idea is not inherently misaligned with the current American elite because t
 Elon missed the mark
 He didn’t truly go for the thing of the highest impact - he is a product of his time. The Elon of post-Bitcoin would have worked on decentralized identity & media for collective intelligence and alignment and a fundamentally new global system
 
-
+There can be a flag if a text post has been annotated by someone with structured data - as a quick filter for as-yet-to-be-annotated content. There can be many competing annotations.
 
 
 
