@@ -932,6 +932,20 @@ Massachusetts Institute of Technology
 >
 > The basic mechanism behind collaborative filtering systems is the following: 1) a large group of people’s preferences are registered; 2) using a similarity metric, a subgroup of people is selected whose preferences are similar to the preferences of the person who seeks advice; 3) a (possibly weighted) average of the preferences for that subgroup is cal- culated; 4) the resulting preference function is used to recommend options on which the advice-seeker has expressed no personal opinion as yet. Typical similarity metrics are Pearson correlation coefficients between the users’ preference functions and (less fre- quently) vector distances or dot products." - [Collective Intelligence and its Implementation on the Web: algorithms to develop a collective mental map, by Francis Heylighen](http://pcp.vub.ac.be/Papers/CollectiveWebIntelligence.pdf)
 
+> "" - [Evolution, Selfishness and Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - [Evolution, Selfishness and Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - [Evolution, Selfishness and Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - [Evolution, Selfishness and Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - [Evolution, Selfishness and Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+^^ SAME PDF
+
 
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
 
@@ -971,12 +985,6 @@ Massachusetts Institute of Technology
 > "" - [Complexity and Evolution, by Francis Heylighen](https://cris.vub.be/ws/portalfiles/portal/67389235/Complexity_Evolution.pdf)
 
 > "" - [The meaning and origin of goal-directedness: a dynamical systems perspective, by Francis Heylighen](https://cris.vub.be/ws/files/84393768/Goal_DirectednessBJLS_final.pdf)
-
-> "" - [Evolution, Selfishness and Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
-
-> "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
-
-^^ SAME PDF
 
 > "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
 
