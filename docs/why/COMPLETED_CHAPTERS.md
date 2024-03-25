@@ -701,3 +701,13 @@ Top10 humorous yet informative channels to subscribe to
 
 > "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
 
+> "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
+> "" - ['Selfish' Memes and the Evolution of Cooperation, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MemesCooperation.pdf)
+
