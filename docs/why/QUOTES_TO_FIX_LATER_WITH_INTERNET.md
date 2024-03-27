@@ -958,6 +958,10 @@ Massachusetts Institute of Technology
 > "The most logical way to minimize these indeterminacies appears to be the construction of a metamodel, which represents various possible models and their relations with observers and the phenomena they represent. For example, as suggested by Stuart Umpleby, one of the dimensions of a metamodel might be the degree to which an observation affects the phenomenon being observed, with classical, observer-independent observations at one extreme, and quantum observation closer to the other extreme.... Cybernetics as a whole could be defined as an attempt to build a universal metamodel, that would help us to build concrete object models for any specific system or situation." - [Cybernetics and Second-Order Cybernetics, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Cybernetics-EPST.pdf)
 
 
+> "If we zoom out and consider increasingly large distributed cognitive systems, we will notice that imposed organization plays an increasingly small role, while spontaneous networks become increasingly more important. The reason is simply that the more complex the system, the more difficult it becomes to completely specify the rules about which component is to work with which other component in which way. If we compare the poor results of central planning in communist societies with the effectiveness of the “invisible hand” of the market, then we can only conclude that self-organization must be the major driver of coordination in a system as complex as society." - [From human computation to the Global Brain: the self-organization of distributed intelligence, by Francis Heylighen](https://www.researchgate.net/publication/304113807_From_Human_Computation_to_the_Global_Brain_The_Self-Organization_of_Distributed_Intelligence)
+
+> "We must resign ourselves to the fact that we will never be able to fully control the process. Perhaps the most promising overall strategy is what has been called “guided self-organization”: developing schemes, programs, institutions or envi- ronments that stimulate, facilitate and to some degree steer the self- organization of the global brain towards what appear to be the most fruitful directions, while leaving enough freedom for the system to explore a variety of unforeseen approaches." - [From human computation to the Global Brain: the self-organization of distributed intelligence, by Francis Heylighen](https://www.researchgate.net/publication/304113807_From_Human_Computation_to_the_Global_Brain_The_Self-Organization_of_Distributed_Intelligence)
+
 
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
 
@@ -975,8 +979,6 @@ Massachusetts Institute of Technology
 > "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
 
 > "" - [Cognitive Systems, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/CognitiveSystems.pdf)
-
-> "" - [From human computation to the Global Brain: the self-organization of distributed intelligence, by Francis Heylighen](https://www.researchgate.net/publication/304113807_From_Human_Computation_to_the_Global_Brain_The_Self-Organization_of_Distributed_Intelligence)
 
 > "" - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)
 
@@ -1020,7 +1022,8 @@ Massachusetts Institute of Technology
 
 
 
-
+Bernstein, A., Klein, M., & Malone, T. W. (2012). Programming the Global Brain. Communications of the ACM, 55(5), 1. Retrieved from
+http://cci.mit.edu/publications/CCIwp2011-04.pdf
 
 
 Cullen, B. 1999. Parasite ecology and the evolution of religion, in Heylighen F., Bollen J. & Riegler A. (ed.) (1999): The Evolution of Complexity (Kluwer Academic, Dordrecht), p. 255-261..
