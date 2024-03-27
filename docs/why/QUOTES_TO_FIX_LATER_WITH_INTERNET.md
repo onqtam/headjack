@@ -985,6 +985,15 @@ Massachusetts Institute of Technology
 
 
 
+> "A neural circuit that succesfully predicted what would happen gets reinforced; one that made a wrong prediction is weakened. In this way every experience of trying to anticipate phenomena leaves its trace in the organization of the brain, making it ever more effective at further anticipation. This is how we implicitly learn our knowledge.
+>
+> A core tenet of the anticipation-control theory, as emphasized by Hawkins, is that the brain is organized hierarchically, in different levels of invariance or control, whereby a higher level only becomes active when the lower levels fail to make a good prediction. It is this hierarchical structure with massive feedback from the higher to the lower levels, allowing us to recognize and learn ever more complex invariances and covariances of patterns, that distinguishes the anticipation-control model from traditional neural network models." - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
+
+> "The very limited sensory input that an organism has leaves a great amount of uncertainty about the actual state of a complex and changeful world, and about the appropriate actions to take in that situation. Any mechanism of anticipation or expectation that a priori reduces uncertainty will therefore have a large positive impact on the organism's capability for control, and thus on its fitness. The essence of cognition is precisely to produce such a mechanism that can complement or fill in incomplete data. To achieve optimal control, anticipation and perception, or feedforward and feedback, must go hand in hand, the one constantly correcting and extending the other." - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
+
+
+
+
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
 
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
@@ -1007,8 +1016,6 @@ Massachusetts Institute of Technology
 > "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
 
 > "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
-
-> "" - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
 
 > "" - [FITNESS AS DEFAULT: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
 
