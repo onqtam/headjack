@@ -552,11 +552,11 @@ Top 10 most important podcasts
 - The Jim Rutt Show
 - The Truth with Carlos Farias
 - Metamodern Spirituality
-- Your Undivided Attention (the older ones)
 - The knowledge project
 - Dwarkesh Podcast
 - Lex Fridman Podcast
 
+- Your Undivided Attention (the older ones)
 - 80,000 Hours Podcast
 - Upstream with Erik Torenberg
 - "Live Players" with Samo Burja and Erik Torenberg

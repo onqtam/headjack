@@ -992,6 +992,16 @@ Massachusetts Institute of Technology
 > "The very limited sensory input that an organism has leaves a great amount of uncertainty about the actual state of a complex and changeful world, and about the appropriate actions to take in that situation. Any mechanism of anticipation or expectation that a priori reduces uncertainty will therefore have a large positive impact on the organism's capability for control, and thus on its fitness. The essence of cognition is precisely to produce such a mechanism that can complement or fill in incomplete data. To achieve optimal control, anticipation and perception, or feedforward and feedback, must go hand in hand, the one constantly correcting and extending the other." - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
 
 
+> "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
+
+> "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
+
+> "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
+
+> "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
+
+> "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
+
 
 
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
@@ -1024,8 +1034,6 @@ Massachusetts Institute of Technology
 > "" - [Complexity and Evolution, by Francis Heylighen](https://cris.vub.be/ws/portalfiles/portal/67389235/Complexity_Evolution.pdf)
 
 > "" - [The meaning and origin of goal-directedness: a dynamical systems perspective, by Francis Heylighen](https://cris.vub.be/ws/files/84393768/Goal_DirectednessBJLS_final.pdf)
-
-> "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
 
 > "In essence, the meaning of life is to increase evolutionary fitness." - [Foundations and Methodology for an Evolutionary World View: a review of the Principia Cybernetica Project, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/PCPworldview-FOS.pdf)
 
