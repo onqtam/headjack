@@ -195,6 +195,7 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
 
 - The New Enlightenment, by Ashley Hodgson
 https://www.youtube.com/watch?v=xftn-1uUHcs
+We need a [New Enlightenment](https://www.youtube.com/watch?v=xftn-1uUHcs)
 
 
 - infrastructure stuff?
