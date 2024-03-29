@@ -272,6 +272,14 @@ https://github.com/DemocracyEarth/paper#262-monopoly
 Liquid Democracy with Google Votes
 https://www.youtube.com/watch?v=F4lkCECSBFw
 
+
+https://bford.info/deleg/
+Delegative Democracy Revisited
+https://bford.info/2014/11/16/deleg.html
+
+Transitive Delegative Democracy through Facebook for More Permanent Online Movements: How it Could Address the Democratic Deficit, and How it Could Attain Critical Mass
+http://www.wybowiersma.net/pub/AltFutures2013/Wiersma,Wybo,Transitive_delegative_democracy_through_Facebook.pdf
+
 Forby: Collaborative Intelligence and Sensemaking
 https://www.youtube.com/@ForbyCollaborative/videos
 
