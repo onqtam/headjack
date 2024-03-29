@@ -77,8 +77,6 @@ God is comprised of the intersection of all sub-gods in a polytheistic evolution
 
 > "The totality of beliefs and sentiments common to the average members of a society forms a determinate system with a life of its own. It can be termed the collective or creative consciousness." - [Émile Durkheim](https://www.azquotes.com/quote/694219)
 
-> "" - [Émile Durkheim]()
-
 
 Michelangelo's ["The Creation of Adam"](https://en.wikipedia.org/wiki/The_Creation_of_Adam) depicts a [human brain behind God](https://en.wikipedia.org/wiki/The_Creation_of_Adam#Portrayal_of_the_human_brain) where he is held and uplifted by angels interwoven in their relationality. Coincidence?
 

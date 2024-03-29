@@ -403,9 +403,46 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 
 
-> "" - [Alexandros Marinos]()
+> "I've been hinting in various conversations about a distributed news aggregator design...
+>
+> The obvious weakness was governance in the human layer. So long as moderation of any community can't be distributed, all the distributed infrastructure in the world won't help you when your Admins with God Powers get subjected to [rubber hose cryptanalysis](https://www.h-i-r.net/2009/02/rubber-hose-cryptanalysis-and-how-to.html).
+>
+> ...the main problem: any algorithmically guarded objective "center" would become gamed by intelligent and motivated actors.
+>
+> What I didn't know at the time, but learned later, is that I was describing a sub-case of [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law), as applied to large-scale networked systems.
+>
+> There are 2 possible ways around the problem. 
+>
+> 1. peer-to-peer systems with skin-in-the-game
+>
+> 2a. multi-channel triangulation
+>
+> 2b. predictions (aka. motion parallax of time)
+>
+> 1/ Peer-to-peer systems with skin in the game are exemplified in the Web of Trust concept. The main innovation here is that there is no central object to capture, and every agent speaks only for itself and its connections. With no central "home page" or other global object, [Sybil attacks](https://www.sciencedirect.com/topics/computer-science/sybil-attack) lose their potency, especially when the agents in the system keep track over time and losing a long-aged/highly-trusted account becomes costly as the agent has to start over from scratch.
+>
+> 2. While this kind of approach will get us to a place somewhat similar to Twitter (minus the "trending" centralized object), we want to build a community that is more truth-oriented than Twitter. This is where triangulation and "the motion parallax of time" (aka. predictions) come into play. The shared, un-gameable global object all participants have access to is called "underlying reality", featuring the passage of time... Someone building a predictive record with a history of being more correct than others, creates a hard-to-fake signal for the objective value of this account. And much in the spirit of the ELO rating system in chess, observers can then use these predictions to construct a mostly-objective ranking of the various pundits in their field of vision. It may require them to be able to mostly-correctly identify whose predictions have been correct in the past, but that is a far easier task than predicting the future or choosing between different pundits arguing over an issue without access to prior track records. It's up to each agent to evaluate others' track record, and they have skin in the game to lose.
+>
+> The system I'm describing aims to be more like science than religion, where the crucial difference is that different schools of scientific thought can diverge for a while, but ultimately converge, whereas religions only ever diverge and never converge (barring extinction)...
+>
+> The UI each user sees may look very similar to Hacker News, but the voting would work differently. An upvote or a downvote implies strengthening or weakening the connection of the user to the other user(s) that were the conduits to get any particular item visible to this user. The ultimate result of such a dynamic, distributed, weighted and directed graph would be for the overall system to start operating as a bayesian network. Cycles may occur, and can be resolved using known methods from BN literature." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1450012197262741510)
 
-> "" - [Alexandros Marinos]()
+
+> "[Corroborating evidence](https://en.wikipedia.org/wiki/Corroborating_evidence) - Learning something from multiple sources, as unrelated as possible, should increase our confidence that it happened." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1423702201663320064)
+
+
+
+> "" - [Competency-Based Propagative Democracy]()
+
+> "" - [Competency-Based Propagative Democracy]()
+
+> "" - [Competency-Based Propagative Democracy]()
+
+
+
+
+> "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
+
 
 > "Instead of the story emerging according to the facts, the facts emerge according to the prevailing story." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
 
@@ -907,8 +944,6 @@ How much science & polls [don't replicate](https://twitter.com/johnmsides/status
 > "It is immoral and unconscionable to the rest of society to gatekeep the access to the elite through a handful of ideologically captured academic institutions. Every sufficiently clear headed child should have access to an educational path that gets them elite certifications." - [Joscha Bach](https://twitter.com/Plinz/status/1746379894513401891)
 
 > "A tumor is a region of a system that optimizes for its local needs at the expense of the rest of the system. Consequently, it takes more from its environment than it contributes. Tumors happen when a system is unable to recognize whether its constituents serve its specification." - [Joscha Bach](https://twitter.com/Plinz/status/1746988788684083595)
-
-> "" - [Joscha Bach]()
 
 
 on education
@@ -1624,12 +1659,6 @@ It will become a competitive advantage for firms to allow their employees to exp
 
 
 
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
 
 
 
@@ -1665,6 +1694,15 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 > "Reason is flawed, but how badly? How should success or failure in reasoning be assessed? What are the mechanisms responsible? In spite of their often bitter disagreements, parties to these polemics have failed to question a basic dogma. All have taken for granted that the job of reasoning is to help individuals achieve greater knowledge and make better decisions. If you accept the dogma, then, yes, it is quite puzzling that reason should fall short of being impartial, objective, and logical. It is paradoxical that, quite commonly, reasoning should fail to bring people to agree and, even worse, that it should often exacerbate their differences. But why accept the dogma in the first place?" - [The Enigma of Reason](https://www.goodreads.com/quotes/9027487-reason-is-flawed-but-how-badly-how-should-success-or)
 
 > "Whereas reason is commonly viewed as the use of logic, or at least some system of rules to expand and improve our knowledge and our decisions, we argue that reason is much more opportunistic and eclectic and is not bound to formal norms. The main role of logic in reasoning, we suggest, may well be a rhetorical one: logic helps simplify and schematize intuitive arguments, highlighting and often exaggerating their force. So, why did reason evolve? What does it provide, over and above what is provided by more ordinary forms of inference, that could have been of special value to humans and to humans alone? To answer, we adopt a much broader perspective. Reason, we argue, has two main functions: that of producing reasons for justifying oneself, and that of producing arguments to convince others. These two functions rely on the same kinds of reasons and are closely related." - [The Enigma of Reason](https://www.goodreads.com/quotes/9027493-whereas-reason-is-commonly-viewed-as-the-use-of-logic)
+
+
+> "Sperber and Mercier see reason as an evolved module within the brain which specializes in producing reasons for our behavior. These reasons serve to justify our behavior to ourselves and others. It also enables us to evaluate the reasons proposed by others for their behavior. As such, it serves a primarily social role, one of coordination and cooperation, rather than an intellectual one of abstract problem solving... For Sperber and Mercier, what is important is that there is nothing unique about reason per-se, it simply operates on meta-level representations rather than low level primitives as most other inference mechanisms such as visual perception do.
+>
+> The authors propose that reason leads us astray in the pursuit of objective knowledge not because it is flawed, but because that is simply not what it evolved to do in the first place... Rather than reflecting some sort of transcendent capacity for pure abstract logic, human reason is often messy, and relies more on context and perceived relevance rather than stone-cold rules of logical deduction. Chief among these is the so-called myside bias (a generalization of confirmation bias), where humans produce reasons which reinforce their previously held beliefs. The myside bias ironically often leads people to become more wrong after thinking deeply about a problem than if they had to make a decision on the spur of the moment.
+>
+> ... If the hypothesis put forward by Sperber and Mercier is correct though, human reason isn’t even for problem solving, let alone for some hypothetical context-agnostic problem solving. Rather, it is for justification and explanation of behavior and decisions reached implicitly within an embodied social context. In this view, the so-called flaws in human reasoning which a superhuman intelligence would supposedly correct for are not even flaws, but rather the features of the mechanism working as they evolved to...
+>
+> All hope is not lost however, as the authors do discuss the conditions within which reason does in fact aid in the obtaining of objective truth or knowledge, and those are primarily social. For Sperber and Mercier, it is when reason is placed within its proper context, and humans are forced to justify and explain themselves to others, that reason does more than simply serve a social function. This is because critically, humans are better at evaluating reasons than we are at producing them. As a result, the bias towards producing reasons which justify our implicit decisions and the ability of others to find flaws in our reasons end up working together. These two abilities make possible open argumentation and debate to produce reasons which are better tuned to reality, and can thus ultimately drive better problem solving in the future." - [Thoughts on “The Enigma of Reason”, by Arthur Juliani](https://awjuliani.medium.com/thoughts-on-the-enigma-of-reason-11983c90cb75)
 
 
 
@@ -3578,6 +3616,7 @@ It is also about provenance - is the link to the source of information lost or i
 “How/why is this relevant to me?”
 
 Religion as a service
+Religio as a Service
 
 Identity is bigger than money and markets - it is our soul
 
@@ -4366,12 +4405,6 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 > Distributed control can be exemplified by the “invisible hand” that mutually adjusts supply and demand. Its effectiveness is boosted by the emerging global computer network. The increasing reach, capacity, and intelligence of this network allow it to automate more and more functions of the superorganism's nervous system. This will transform the World-Wide Web into a “global brain”, capable of sensing, interpreting, learning, thinking, deciding, and initiating actions. Individuals are likely to become more and more intimately connected to this intelligent network, through ubiquitous, intuitive interfaces, and eventually a direct brain-to-web connection." - [The Global Superorganism: an evolutionary-cybernetic model of the emerging network society, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Superorganism.pdf)
 
 
-> "" - [Heterarchy, Wikipedia]()
-
-> "" - [Heterarchy, Wikipedia]()
-
-> "" - [Heterarchy, Wikipedia]()
-
 
 
 
@@ -4454,10 +4487,6 @@ It's not enough for a proposed architectural to sort-of be able to address the w
 > "The first issue here is the emergence of collective intentionality: how do groups align the targets of their communications and actions? In the domain of language, this problem has been investigated by means of a variety of software simulations and experiments with groups or pairs of conversing individuals. The basic mechanism is that each time an agent targets a particular referent or communicative structure in its interaction with another agent, this primes (weakly prepares) the second agent to target a similar referent, making a shift towards a common referent slightly easier. Many such small, individual shifts eventually snowball into the emergence of a reference shared by the whole group. This research confirms and illustrates the general mechanism of self-organizing alignment, while clarifying the origin of linguistic conventions.
 >
 > A second issue is the emergence of collective intelligence: in how far do people manage to solve problems better as a group than individually? Most research in this domain has focused on the problems of groupthink and polarization, a form of premature alignment in which valuable contributions are suppressed because of a tendency of groups to conform to and reinforce any emerging consensus. This results in phenomena of “collective stupidity” or “madness of crowds”, rather than “collective intelligence” or “wisdom of crowds”. The general  recommendation therefore has been to minimize the (non-linear) interactions between individuals that promote alignment, and to use some neutral mechanism such as averaging to directly aggregate the individual contributions. While this strategy is undoubtedly useful in a number of cases, it risks to throw the baby out with the bathwater, as it makes self-organizing division of labor and especially workflow more difficult." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)
-
-
-
-> "" - []()
 
 
 

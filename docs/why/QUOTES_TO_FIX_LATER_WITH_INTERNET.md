@@ -992,6 +992,8 @@ Massachusetts Institute of Technology
 > "The very limited sensory input that an organism has leaves a great amount of uncertainty about the actual state of a complex and changeful world, and about the appropriate actions to take in that situation. Any mechanism of anticipation or expectation that a priori reduces uncertainty will therefore have a large positive impact on the organism's capability for control, and thus on its fitness. The essence of cognition is precisely to produce such a mechanism that can complement or fill in incomplete data. To achieve optimal control, anticipation and perception, or feedforward and feedback, must go hand in hand, the one constantly correcting and extending the other." - [Towards an anticipation control theory of mind, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AnticipationControl.pdf)
 
 
+
+
 > "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
 
 > "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
@@ -1023,7 +1025,7 @@ Massachusetts Institute of Technology
 
 > "" - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)
 
-> "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
+> "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen & others](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
 
 > "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
 
@@ -1046,6 +1048,14 @@ Massachusetts Institute of Technology
 
 
 > "" - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+> "" - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
+
+> "" - [What is a worldview?, by Clément Vidal](https://web-archive.southampton.ac.uk/cogprints.org/6094/2/Vidal_2008-what-is-a-worldview.pdf)
+
+> "" - [Distributing Cognition: from Local Brains to the Global Brain, by Clément Vidal](https://www.researchgate.net/publication/282284086_Distributing_Cognition_from_Local_Brains_to_the_Global_Brain)
+
+> "" - []()
 
 > "" - []()
 

@@ -92,6 +92,11 @@
 
 
 
+> "We can no longer think about life mind and computation for that matter in purely mechanistic terms we're beginning to realize that we although the enlightenment was a chance in which we tried to say everything could be explained mechanistically we can get rid of teleology we can get rid of undirectedness we can get rid of value talk and maybe darwin gets rid of design you know and now we have this purely mechanistic universe i think now that we've run into these problems with the origins of life the nature of consciousness and what our machines are capable of doing we're now forced to realize that maybe we're going to have to come back and deal with these questions that we thought we'd overcome about meaning and value and teleology about purpose uh now i think that's what the next century is going to be about reintegrating purpose value teleology back into the sciences." - [Terrence Deacon](https://youtu.be/wuijq8TLd-4?t=9827)
+
+
+
+
 > "I actually think climate change is gonna require a new set of global governments a new form of global governance that we haven't even imagined yet I don't exactly know what it's gonna be but when I think about the issues like solar to engineering I don't think the UN is up for the task and I don't think the framework of the Paris agreement or anything else like that is really capable I think something new is going to emerge and it's not going to emerge because of altruism or because we all have some enlightenment I think it's gonna be because of necessity you know HG Wells had a great line I think it was in the time machine where he wrote we are kept keen on a grindstone of pain and necessity and I think there's a truth to that that that a lot of the innovation in the 21st century is gonna come not because we're enlightened or we reach some kind of spiritual connection with the earth system but because frankly we're up against it and we have to innovate or or fail to survive." - [Daniel Schrag](https://youtu.be/qCJLkwzNy_4?t=5345)
 
 > "Illegitimate power is utilizing asymmetric power to maintain and grow the assymetry of power." - [Daniel Schmachtenberger](https://www.youtube.com/watch?v=hKvVdGNzCQk)

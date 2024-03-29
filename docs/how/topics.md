@@ -193,6 +193,10 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - 100 ways to describe Headjack
 
 
+- The New Enlightenment, by Ashley Hodgson
+https://www.youtube.com/watch?v=xftn-1uUHcs
+
+
 - infrastructure stuff?
 - economics & startups & competition? startup case study as part of that? "the competitive landscape"
 
