@@ -174,7 +174,7 @@ what if we could signal preferences locally for what types of commercials we'd b
 
 
 ██████████████████████████████████████████████████████████████████
-# voting & liquid democracy
+# SECTION: voting & liquid democracy
 ██████████████████████████████████████████████████████████████████
 
 aggregation: the societal mirror - a chapter about signaling of public preferences & poll opinions
@@ -251,6 +251,20 @@ current twitter polls don't allow us to show our vote but we're free to express 
 Study shows happiness doesnt increase above 200$k salary. Fuck that - do a poll
 
 liquid democracy can be used to inform how recommender systems work for any field - not just for political questions. Even content moderation
+
+> "- Base-100 Vote: Voters have 100 points that they can cast for any voting issue, they can distribute those points arbitrarily in the network; this allows voters to express “partial agreement” or “partial disagreement votes” with issues and/or particular nodes, giving an unprecedented capacity of plasticity, specificity, self-organization, malleability, resiliency and robustness to the network. Example: A voter wants to automatically issue 50 of his 100 Points for Health-related issues to his doctor, 20 points to a family member that has knowledge in a related field, and keep 30 points for himself.
+>
+> - Negative Voting: Voters can use their points to subtract representational power from other individuals or groups who they feel are gathering too much weight in the system or that represent interests contrary to their stance. Example: A voter wants to use some of the points to mitigate the perceived excessive influence of an individual, while also issuing some of the points in favor of someone who holds a position that is considered to deserve more weight in the system.
+>
+> - Embedded Preference: Voters can propagate their points to their selected representatives with an embedded preference, so the representatives can know what is the personal intention of their representees, and might or might not choose to follow their recommendation. Example: A voter indicates that he is in favor of a certain level of tax, but his representative might choose to cast a vote that is different to that initial preference (The latency system will always offer the owner of the points the chance to certify the use of their voting power)
+>
+> - Divided Voting: Voters might want to vote for individuals or issues that are inherently in opposition to each other, maybe as a way to express their recognition for good political work on different individuals or groups holding different stances, or simply because there is an actual indecision or ambiguity, or because they want to leverage the playing field by making a certain decision more contested. This confers the system a virtually infinite capacity of self-correction and nuanced complexity. Example: A voter might want to use some of the points to support “Individual A” while also recognizing the validity of argument presented by “Individual B”
+>
+> - Transparent or Secret Voting: Voters might chose to cast their points in a public or private way, they can even hide their points from the recipients, to avoid them from playing into populist positions. This quality of the system also reduces strategies of preference falsification that is intrinsic to a scheme that only allows for secret voting, as no user has any evidence of what a certain voter really stands for; by having public voting as an option, individuals can confirm what are the actual positions of other nodes in the network. Example: A voter might want to cast some votes publicly in favor of a certain group or individual, but other voters would not be able to see what other votes have been issued by the same individual if he/she opt for such.
+>
+> - Vote History: Voters have total control over the historical use and current holders of their representational power. Example: A voter might want to cast some votes publicly in favor of a certain group or individual, but other voters would not be able to see what other votes have been issued by the same individual if he/she opt for such.
+>
+> - Boolean & Gradient Voting: The community can vote on boolean (binary) and gradient-ed (nuanced) issues, as the total amount of votes can indicate not only if a decision should be made, but also how much of that decision should be implemented. Example: Should drones fly at +30000 feet with commercial planes? (Yes/No) ? Once the community has voted for “No”, then a vote can be issued about what is the maximum flight at which drones would be allowed to fly (0 ft. to 29 999 ft.) in which case a Bell-Shaped curve of votes would probably result on drones maximum fly height to be set at ~15 000 ft." - [Competency-Based Propagative Democracy](https://ernestoeduardo.medium.com/propagative-democracy-c00e5d327194#:~:text=Base%2D100%20Vote,15%20000%20ft.)
 
 problems with liquid democracy
 https://github.com/DemocracyEarth/paper#262-monopoly
