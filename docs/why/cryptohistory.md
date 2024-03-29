@@ -180,11 +180,15 @@ The argument that specialized message types are unnecessary because AI will even
 
 > "Finally, self-authenticating data provides more mechanisms that can be used to establish trust. Self-authenticated data can retain metadata, like who published something and whether it was changed. Reputation and trust-graphs can be constructed on top of users, content, and services. The transparency provided by [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing) provides a new tool for establishing trust by showing precisely how the results were produced. We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products." - [bluesky](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
 
-# Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
+# SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
+
+Science is broken - how do you easily look up all the criticism of a paper? You have to scan all the references from other papers and try to deduce based on the title which ones try to improve the idea instead of simply referencing it?
 
 aseem malhotra - statins overperscribed and how were the original studies carried out in terms of excluding those with side effects and what the actual efficacy really is
 
 how inefficient is reading papers? aren't they bloated in some respects? couldn't we express ideas as linked graphs so that the "reader" (explorer) could choose which nodes to inspect - without having to go through paragraphs ot text because they can't easily navigate to the novel parts in the big wall of text
+
+When studies don't replicate - that signal should tricke down to everything that references or depends upon them. Imagine reading a book about psychology without having a clue that 10 years later more than 40% of the studies referenced in it are considered bogus and couldn't be replicated. This is information integration.
 
 academia resembles feudalism
 
