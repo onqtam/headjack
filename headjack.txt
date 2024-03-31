@@ -3,37 +3,14 @@
 
 
 
-hoarding information & profiting from it - example:
-- a hedge fund gets early good information about an upcoming pandemic
-- they try to make money by betting on a downturn (and they hope it's bad) and not share the info immediately to the public and try to build a good case to help steer policy such that the downturn isn't that high
-What if the brightest minds were not in hedge funds but instead predicting in public what would happen and try to minimize the problems instead of hoarding the info of what's about to happen for maximum gain? What if helping the public brought bigger or at least comparable gains? We need to redefine status.
 
 
 
 
 
-> In the same way the railroads, the central infrastructure of industrialism, were nationalized in the 20th century, the internet platforms that are at the center of the digital age ought to be, not nationalized—but transnationalized!" - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1764967015184220409)
 
 
-having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit
 
-
-What if we did to mass consumer product packaging what the container did to shipping? How do we reuse our packaging more - even across companies & their product lineups?
-Convenience packaging... replacing a depositing system and reusable bottles (deposit 40% of a coke bottle which u get back when u return the bottle)
-reclamation costs have been outsourced to the public in the form of "recycling"
-https://www.youtube.com/watch?v=4XP-BBGMCNs
-Coke Knew Their Plastic Would Trash the Planet…And Did It Anyway
-
-why do they make packaging that's impossible to reuse/recycle and is composed of multiple different types of material?
-
-
-> "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words." - [Ursula K. Le Guin](https://www.goodreads.com/quotes/3238058-we-live-in-capitalism-its-power-seems-inescapable-so-did)
-
-
-> "We human beings are still divided into nation states, but these states are rapidly becoming a global civilization…We are attempting to survive our time so we may live into yours. We hope, some day, having solved the problems we face, to join a community of galactic civilizations." - [Message for extra-terrestrial life inscribed on the Golden Record aboard the Voyager One space probe in 1977](https://www.linkedin.com/pulse/evolving%2Dthrough%2Dbottleneck%2Drobert%2Dcobbold%2D1qgpe/#:~:text=We%20human%20beings%20are%20still%20divided%20into%20nation%20states%2C%20but%20these%20states%20are%20rapidly%20becoming%20a%20global%20civilization%E2%80%A6We%20are%20attempting%20to%20survive%20our%20time%20so%20we%20may%20live%20into%20yours.%20We%20hope%2C%20some%20day%2C%20having%20solved%20the%20problems%20we%20face%2C%20to%20join%20a%20community%20of%20galactic%20civilizations.)
-
-
-> "The amount of valuable information stuck in people’s heads about people, products, and companies that would influence investment decisions, purchasing decisions, and hiring/joining decisions is massive." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1746738383127503255)
 
 https://twitter.com/eriktorenberg/status/1748056677449138500
 ^^ this but with ZK
@@ -46,59 +23,8 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 
 
 
-> "Religion is the only permanent state of mankind." - [Alexis de Tocqueville](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-ep-156-james-poulos-on-remaining-human/#:~:text=religion%20is%20the%20only%20permanent%20state%20of%20mankind)
 
 
-
-> "Do not create your reputation system as if it is a monetary system. You do not spend or trade reputation. Once you earn it, it is yours." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=do%20not%20create%20your%20reputation%20system%20as%20if%20it%20is%20a%20monetary%20system.%20You%20do%20not%20spend%20or%20trade%20reputation.%20Once%20you%20earn%20it%2C%20it%20is%20yours.)
-
-> "Money, on the other hand, can be completely anonymous, and in the form of cash, it’s supposed to be. A business selling a product doesn’t care WHO paid, just HOW MUCH was paid. The accounting required for money vs. reputation is quite different. Also, reputation currencies revolve around relationship where money does not." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Money%2C%20on%20the,money%20does%20not.)
-
-> "Think about it, my credit rating (reputation) affects my cost and availability of money. My college degree (reputation) affects what I get paid (monetary). My grades (performance) affect whether I get credit (unit of account) for a course. There are so many ways that different types of currencies can be woven together to create powerful connections and reinforcing relationships. This is really the uncharted frontiers of creativity." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Think%20about%20it,frontiers%20of%20creativity.)
-
-> "If I vouch for someone, it should NOT be like spending reputation like lowering my balance, however, there should be a consequence, whether positive or negative, to the person’s performance. If they perform well, then my reputation should actually INCREASE for choosing to vouch well. If they perform poorly, my reputation should diminish." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=If%20I%20vouch,reputation%20should%20diminish.)
-
-> "Imagine you wanted to design reputation currencies for eBay. Instead of a single unscaled total of positive or negative feedback points, think of how much more useful it would be to know these things, most of which can be tracked from system activity rather than end-user feedback:
->
-> Sample reputation for an eBay seller:
->
-> - How long account has been active, & total # sales
->
-> - % Successful sales (# delivered sales / # total sales)
->
-> - Avg. days to receive item (from shipping tracking data)
->
-> - Avg. Rating (1-5) received for “as advertised”
->
-> - % of transactions requiring problem resolution
->
-> Sample reputation for an eBay buyer:
->
-> - How long account has been active & total # bids won
->
-> - % Successful Purchases (# bids paid / # bids won)
->
-> - Avg. time to payment (in hours)
->
-> - Avg. Rating (1-5) given for “as advertised”
->
-> - % of transactions requiring problem resolution
->
-> I think if you take a few moments to look at the kind of behaviors that tracking those reputational elements would incent, you might see it’s a heck of a lot better than “feedback extortion” (Threatening to give negative feedback if you receive negative feedback)." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Instead%20of%20a,receive%20negative%20feedback).)
-
-> "Reputation should not be traded. Ever. That’s not what it is for. It is bound to an identity and is only meaningful when it continues to be bound to that identity. If I can buy or spend reputation rather than earning it by performing in the way the reputation currency indicates, then it is a meaningless signal that has broken loose from any sense that the reputation is supposed to impart." - [Avoid Blunders in Designing Reputation Systems, by Arthur Brock](https://www.artbrock.com/2019/01/23/avoid-blunders-in-designing-reputation-systems#:~:text=Reputation%20should%20not,supposed%20to%20impart.)
-
-> "Globally, politics polarizes around that tension: conservative vs. progressive. This is a false choice. Both are mandatory. It doesn’t matter whether we like it or not. When the world around you is changing, and that change is accelerating, the question is never whether to change or stay the same. The questions we must confront are: 1) What changes are vital? (to survival and goals), and 2) How do we implement those changes in a way that doesn’t destroy the integrity of what works? Selecting a conservative vs. a progressive candidate is a false choice that we are forced to make because of broken architectures of governments." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=Globally%2C%20politics%20polarizes,architectures%20of%20governments.)
-
-> "We have politicians without the right expertise, with inherent conflicts of interest by who they have please to keep getting campaign funds, who can’t possibly represent the complexity of their constituency, and are elected by association with ideological simplifications … and we pretend there’s a chance of good governance from this setup." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=We%20have%20politicians,from%20this%20setup.)
-
-> "As the U.S. economy has been transitioning into information age dynamics, it gets harder to even maintain the appearance of relevance. The bureaucracy simply doesn’t have the throughput to keep up with the increased complexity of issues and the pace that the world is changing." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=As%20the%20U,world%20is%20changing.)
-
-> "The cells in our body figured out how to do extremely sophisticated self-governance on scales of trillions. Fully P2P governance. No cell is President or Dictator of the system. If cells can do it, we can too." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=the%20cells%20in,we%20can%20too.)
-
-> "We have to oversimplify issues for people to understand them. Our reasoning is impaired by hundreds of cognitive biases. We say and do things to be accepted by our peers and groups, and let our need for acceptance or preoccupation with immediate desires overshadow our ability to perceive things rationally. We’ve been perfecting the manipulation of people using human irrationality for many decades. Advertising firms use it to make you buy junk. Political campaigns use it to alienate you from opponents, or mobilize people with angering ballot initiatives." - [Challenging Broken Assumptions of Governance, by Arthur Brock](https://www.artbrock.com/2017/02/11/challenging-broken-assumptions-of-governance#:~:text=We%20have%20to,angering%20ballot%20initiatives.)
-
-> "What if the game wasn’t just “one person, one vote” which is rooted in equalizing the power of your vote or your voice, but was instead about finding the highest wisdom or best path? To achieve that, we might have to recognize different people bring different skills, knowledge, competencies, and figure out how to optimize everyone’s unique contribution." - [Challenging Broken Assumptions of Governance, by Arthur Brock](https://www.artbrock.com/2017/02/11/challenging-broken-assumptions-of-governance#:~:text=What%20if%20the,everyone%E2%80%99s%20unique%20contribution.)
 
 
 
@@ -114,10 +40,6 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 
 "I think that most capitalists don’t know how to divide the economic pie well and most socialists don’t know how to grow it well, yet we are now at a juncture in which either a) people of different ideological inclinations will work together to skillfully re-engineer the system so that the pie is both divided and grown well or b) we will have great conflict and some form of revolution that will hurt most everyone and will shrink the pie." - [Ray Dalio](https://www.linkedin.com/pulse/why-how-capitalism-needs-reformed-parts-1-2-ray-dalio/#:~:text=I%20think%20that,shrink%20the%20pie.)
 
-
-> "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)
-
-> "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
 
 
 
@@ -177,32 +99,12 @@ https://twitter.com/Kristennetten/status/1600444201744801792
 
 > "He who controls attention controls the universe." - [Frank Herbert](https://www.goodreads.com/quotes/82034-he-who-controls-the-spice-controls-the-universe), probably
 
-> "Belief can be manipulated. Only knowledge is dangerous." - [Frank Herbert](https://www.goodreads.com/quotes/384225-belief-can-be-manipulated-only-knowledge-is-dangerous)
-
-> "Absolute power does not corrupt absolutely, absolute power attracts the corruptible." - [Frank Herbert](https://www.goodreads.com/quotes/54212-absolute-power-does-not-corrupt-absolutely-absolute-power-attracts-the)
-
 
 
 > "If I was an alien race that wanted to cripple Earth’s technological development I wouldn’t kill scientists, I would invent new ways to ensure the best and brightest people would choose to work on optimizing ad clicks, create exciting new financial derivatives, or trade vapor assets based on animal memes instead of creating deep technology" - [@nope_its_lily](https://twitter.com/nope_its_lily/status/1773036747833901463)
 
 
 > "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
-
-> "The key to cooperation is what Axelrod called ["The Shadow of the Future"](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation#:~:text=the%20shadow%20of%20the%20future). The promise of our continued interaction keeps us in line. Successful cooperation, Axelrod argued, required that people start off by being nice—that is, by being willing to cooperate—but that they had to be willing to punish noncooperative behavior as soon as it appeared. The best approach was to be "nice, forgiving, and retaliatory."" - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=The%20key%20to%20cooperation,nice%2C%20forgiving%2C%20and%20retaliatory.%22)
-
-> "Fehr and Gächter tweaked the public-goods game to demonstrate: this time, at the end of every round, they revealed what each person had or had not contributed to the public pot, which made the free riders visible to everyone else. Then they offered people the opportunity to punish the free riders. For the price of a third of a token, you could take one token away from the free rider. Two things happened as a result. First, people spent money to punish the evildoers—even though, again, it was economically irrational for them to do so. Second, the free riders shaped up and started contributing their fair share. in fact, even during the last rounds of these games, when there was no reason to keep contributing (since no punishment could be inflicted), people continued to chip in." - [The Wisdom of Crowds, by James Surowiecki](https://wisdomofcrowds.blogspot.com/2011/01/chapter-six-part-vii.html#:~:text=Fehr%20and%20G%C3%A4chter%20tweaked,continued%20to%20chip%20in.)
-
-> "The coin of the realm, for most scientists, is not cash but rather recognition. Even so, scientists are undoubtedly as self-seeking and as self-interested as the rest of us. The genius of the way science is organized, though, makes their self-interested behavior redound to the benefits of all of us. In the process of winning notoriety for themselves, they make the group – that is, the scientific community and then, indirectly, the rest of us – smarter." - [The Wisdom of Crowds, by James Surowiecki](https://backreaction.blogspot.com/2009/07/book-review-wisdom-of-crowds-by-james.html#:~:text=The%20coin%20of,of%20us%20%E2%80%93%20smarter.)
-
-> "Pursuing their own self-interest is more complicated for scientists than it might sound. While scientists are fundamentally competing for recognition and attention, that recognition and attention can only be afforded them by the very people they're competing against. So science presents us with the curious paradox of an enterprise that is simultaneously intensely competitive and intensely cooperative. The quest for recognition ensures a steady infusion of diverse thought, since no one becomes famous for restating what's already known. (This makes it less important that scientists tend to be interested in what other scientists are interested in, since the quest for originality forces researchers to think past convention.) And the competition also works to provide an inherent check on flawed ideas, since, as the philosopher David Hull has argued, showing the flaws in other people's work is one way to make a name for yourself. But all that competition depends on a given level of cooperation, because it's the rare scientist who can flourish in isolation from the work of his peers. What allows this strange blend of collaboration and competition to flourish is the scientific ethos that demands open access to information. This ethos dates back to the origins of the scientific revolution in the seventeenth century. In 1665, the Royal Society— one of the first institutions, and certainly the most important, formed to foster the growth of scientific knowledge—published the first issue of its Philosophical Transactions. It was a seminal moment in the history of science, because of the journal's fierce commitment to the idea that all new discoveries should be disseminated as widely and freely as possible. Henry Oldenburg, the first secretary of the Royal Society and the editor of the Transactions, pioneered the idea that secrecy was inimical to scientific progress, and convinced scientists that they should give up their sole ownership of their ideas in exchange for the recognition they would receive as the creator or discoverer of those ideas. What Oldenburg grasped was the peculiar character of knowledge, which does not, unlike other commodities, get used up as it is consumed and which can be therefore spread widely without losing its value. If anything, in fact, the more a piece of knowledge becomes available, the more valuable it potentially becomes, because of the wider array of possible uses for it. As a result, the historian Joel Mokyr writes, the scientific revolution became the period "in which 'open science' emerged, when knowledge about the natural world became increasingly nonproprietary and scientific advances and discoveries were freely shared with the public at large. Thus scientific knowledge became a public good, communicated freely rather than confined to a secretive exclusive few as had been the custom in medieval Europe." This tradition of open publication and communication of insights was, of course, central to the success of Western science. It's open science that made the self-interested behavior of scientists collectively beneficial. Scientists were willing to publish their insights because that was the route to public recognition and influence. If one wanted to think about this process in market terms—as some have tried to do—you could say that scientists were paid by other people's attention. As the sociologist of science Robert K. Merton famously put it, "In science, one's private property is established by giving its substance away." The challenge the scientific community faces today is whether the success of Western science can survive the growing commercialization of scientific endeavors. Science and commerce have, of course, been intertwined for centuries. But as an increasing share of scientific research and development is funded by corporations, which see themselves as having an economic interest in protecting information rather than in disseminating it widely, the nature of scientific exchange may change. The sociologist Warren Hagstrom talked about science as a "gift economy" rather than an exchange economy. And the idea of science as made up of "invisible colleges" of researchers bound by their common interest in expanding knowledge, if perhaps naive, still has a powerful hold not just on laypeople but on scientists themselves. Corporations, on the other hand, are generally not gift givers nor do they thrive on collegiality. The fact that public funding is still instrumental to science, and particularly to basic research, insulates scientists to some extent from commercial pressures. And although the patent system limits what others can do with a given invention, it also—by requiring the inventor to publish the details of his invention in order to get a patent—plays a role in continuing to fuel the free flow of information. But the conflict between science and business is not imaginary. The spectacle of companies funding studies and then demanding that they be suppressed when the results do not come back to their satisfaction is not something that would have pleased Henry Oldenburg. TALKING ABOUT SCIENTIFIC ENDEAVOR in terms of the quest for recognition may make it sound as if scientists were simply fame hounds (which, of course, some of them are). But recognition is not, at least in theory, about celebrity or fashion. Recognition is instead the proper reward for genuinely new and interesting discoveries. Scientists want to be recognized because it's nice to be recognized. But they also want to be recognized because recognition is what allows new ideas to be incorporated into the general body of scientific knowledge. What's intriguing about science from the perspective of collective problem solving is that it is the community as a whole that bestows the recognition, which is to say that it's the community as a whole that decides whether or not a scientific hypothesis is true and whether it's original. This doesn't mean that scientific truth is in the eye of the beholder. The coronavirus caused SARS before the WHO announced that the coronavirus caused SARS. But in scientific terms, the coronavirus only became the cause of SARS once other scientists had scrutinized the work of the labs and accepted it as proving what they said it proved." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Pursuing%20their%20own,said%20it%20proved.)
-
-> "UNFORTUNATELY, THERE is SOMETHING of a flaw in this idealized picture of the way the scientific community discovers truth. And the flaw is that most scientific work never gets noticed. Study after study has shown that most scientific papers are read by almost no one, while a small number of papers are read by many people. Famous scientists find their work cited vastly more often than scientists who are less well known." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=UNFORTUNATELY%2C%20THERE%20is,less%20well%20known.)
-
-> "Why does polarization occur? One reason is because of people's reliance on "social comparison." This means more than that people are constantly comparing themselves to everyone else (which, of course, they are). It means that people are constantly comparing themselves to everyone else with an eye toward maintaining their relative position within the group. In other words, if you start out in the middle of the group and you believe the group has moved, as it were, to the right, you're inclined to shift your position to the right as well, so that relative to everyone else you're standing still. Of course, by moving to the right you're moving the group to the right, making social comparison something of a self-fulfilling prophecy. What's assumed to be real eventually becomes real. It's important to see, though, that polarization isn't just the result of people trying to stay in tune with the group. It also results, strangely, from people doing their best to figure out what the right answer is. As we saw in our discussion of social proof—remember the passersby who ended up staring into an empty sky—people who are uncertain about what they believe will look to other members of the group for help. That's the point of deliberating, after all. But if a majority of the group already supports one position, then most of the arguments that will be made will be in support of that position. So the uncertain people are likely to be swayed in that direction, in part simply because that's more of what they'll hear. Similarly, people who have more extreme positions are more likely to have strong, coherent arguments in favor of their positions and are also more likely to voice them. This matters because all the evidence suggests that the order in which people speak has a profound effect on the course of a discussion. Earlier comments are more influential, and they tend to provide a framework within which the discussion occurs. As in an information cascade, once that framework is in place, it's difficult for a dissenter to break it down. This wouldn't be a problem if the people who spoke earliest were also more likely to know what they were talking about. But the truth is that, especially when it comes to problems where there is no obvious right answer, there's no guarantee that the most-informed speaker will also be the most influential. On juries, for instance, two-thirds of all foremen—who lead and structure deliberations—are men, and during deliberations men talk far more than women do, even though no one has ever suggested that men as a gender have better insight into questions of guilt and innocence. In groups where the members know each other, status tends to shape speaking patterns, with higher-status people talking more and more often than lower-status people." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Why%20does%20polarization,lower%2Dstatus%20people.)
-
-> "Talkativeness may seem like a curious thing to worry about, but in fact talkativeness has a major impact on the kinds of decisions small groups reach. If you talk a lot in a group, people will tend to think of you as influential almost by default. Talkative people are not necessarily well liked by other members of the group, but they are listened to. And talkativeness feeds on itself. Studies of group dynamics almost always show that the more someone talks, the more he is talked to by others in the group. So people at the center of the group tend to become more important over the course of a discussion. This might be okay if people only spoke when they had expertise in a particular matter. And in many cases, if someone's talking a lot, it's a good sign that they have something valuable to add. But the truth is that there is no clear correlation between talkativeness and expertise." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Talkativeness%20may%20seem,tiveness%20and%20expertise.)
-
-> "Decision markets are well suited to companies because they circumvent the problems that obstruct the flow of information at too many firms: political infighting, sycophancy, and a confusion of status with knowledge. The anonymity of the markets and the fact that they yield a relatively clear solution, while giving individuals an unmistakable incentive to uncover and act on good information, means that their potential value is genuinely hard to overestimate. Major corporate decisions should be informed by decision markets, not made by them. But when the decisions are made, it makes little sense, given everything we know about the virtues of collective decision making and about the importance of diversity, to concentrate power in the hands of one person. In fact, the more important the decision, the more important it is that it not be left in the hands of a single person." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Decision%20markets%20are%20well,of%20a%20single%20person.)
 
 
 
@@ -219,20 +121,13 @@ https://twitter.com/exec_sum/status/1743744897264345445
 > "It is not a matter of what is true that counts, but a matter of what is perceived to be true." - [Henry Kissinger](https://www.goodreads.com/quotes/40934-it-is-not-a-matter-of-what-is-true-that)
 
 
-> "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81#:~:text=To%20support%20and%20maintain%20a%20man%27s%20private%20credit%2C%20%27tis%20absolutely%20necessary%20that%20the%20world%20have%20a%20fixed%20opinion%20of%20the%20honesty%20and%20integrity%2C%20as%20well%20as%20ability%20of%20a%20person.)
 
-
-> "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
 
 
 > "Human nature is like water. It takes the shape of its container." - [Wallace Stevens](https://www.goodreads.com/quotes/154092-human-nature-is-like-water-it-takes-the-shape-of)
 
-> "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
-
 
 > "To attract the sharpest minds to science, drive the returns from sharp elbows towards zero." - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/6677778275)
-
-> "The more heroic you are, the more beautiful you are, the more you will be made to suffer." - [Eric Weinstein](https://youtu.be/o2nG7-eXxko?t=4908)
 
 > "If you think about what peer review is, it’s the exact opposite of what peer review should mean. “Peer review” should mean that you publish your article, and then the peers in the community review it, but in fact what it is is peer suppression. You take your article and you mail it off to somebody who you don’t know. That person gets an early look at it. They might hold it up in review. They then inflict any changes that they want, or they reject it for reasons that make no sense. And then it’s handed back to you.
 >
@@ -2440,7 +2335,6 @@ How do we counter indulgence?
 A social network where your life gets better when you join - thats the goal.
 Meaning, self-improvement, happiness, health and connection. What if you’re assigned to a random group of people who want to improve and are provided with guidelines from the most successful other groups?
 Friendship matchmaking where you deliberately enter your goals initially
-The religion thats not a religion - an ecology of practices - how do we foster that?
 
 Use LLMs to contribute annotations and structured data and use LLMs to speak back at you what the aggregate thinks
 
@@ -2695,8 +2589,6 @@ I don't always want to have to watch your video or read your long text - just gi
 ^^ this is in conflict with the influencer's (or curator's) incentives to some degree, but the best ones that are trusted by millions will still generate enough revenue from the long-form content
 
 Convergence gives us trustworthiness - the opposite of bullshit
-
-“If it bleeds - it leads” - as a chapter name about media
 
 “Contribution to humanity rank/index” for companies - making yet another kind of shampoo or a snack doesn’t get you high in there - just like vulture funds and the reputational damage that comes along from working at one
 
