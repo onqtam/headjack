@@ -993,6 +993,17 @@ Massachusetts Institute of Technology
 
 
 
+> "A mobilization system can then be defined as: a socio-technological system that motivates and coordinates people to work towards a given objective—thus efficiently rallying their efforts. While the term “mobilization system” is new, the underlying ICT techniques have been explored for at least a decade or two, under labels such as “persuasive technology”, “collaborative technology”, “user experience”, and “gamification”." - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
+
+> "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
+
+> "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
+
+> "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
+
+> "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
+
+
 
 > "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
 
@@ -1026,8 +1037,6 @@ Massachusetts Institute of Technology
 > "" - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)
 
 > "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen & others](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
-
-> "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
 
 > "" - [FITNESS AS DEFAULT: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
 
@@ -1066,6 +1075,9 @@ Massachusetts Institute of Technology
 > "" - []()
 
 
+
+
+avaaz.org
 
 Bernstein, A., Klein, M., & Malone, T. W. (2012). Programming the Global Brain. Communications of the ACM, 55(5), 1. Retrieved from
 http://cci.mit.edu/publications/CCIwp2011-04.pdf
