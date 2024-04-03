@@ -182,6 +182,8 @@ The argument that specialized message types are unnecessary because AI will even
 
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 
+https://en.wikipedia.org/wiki/Sci-Hub
+
 Science is broken - how do you easily look up all the criticism of a paper? You have to scan all the references from other papers and try to deduce based on the title which ones try to improve the idea instead of simply referencing it?
 
 aseem malhotra - statins overperscribed and how were the original studies carried out in terms of excluding those with side effects and what the actual efficacy really is
