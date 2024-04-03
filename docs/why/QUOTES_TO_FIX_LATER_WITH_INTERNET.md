@@ -1064,23 +1064,24 @@ Massachusetts Institute of Technology
 
 > "" - [Distributing Cognition: from Local Brains to the Global Brain, by Clément Vidal](https://www.researchgate.net/publication/282284086_Distributing_Cognition_from_Local_Brains_to_the_Global_Brain)
 
-> "" - []()
+> "" - [The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission](https://www.sciencedirect.com/science/article/abs/pii/S1090513800000714)
+
+> "" - [Perception, prestige and PageRank](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216783&type=printable)
+
+> "" - [The Big Man Mechanism: how prestige fosters cooperation and creates prosocial leaders, by Joseph Henrich, Maciej Chudek and Robert Boyd](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0013)
+
+> "" - [Innovation in the collective brain, by Michael Muthukrishna and Joseph Henrich](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0192)
+
+> "" - [Programming the Global Brain](https://dl.acm.org/doi/pdf/10.1145/2160718.2160731)
+
+> "" - [Intelligence as a planetary scale process](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
 
 > "" - []()
 
 > "" - []()
 
-> "" - []()
-
-> "" - []()
 
 
-
-
-avaaz.org
-
-Bernstein, A., Klein, M., & Malone, T. W. (2012). Programming the Global Brain. Communications of the ACM, 55(5), 1. Retrieved from
-http://cci.mit.edu/publications/CCIwp2011-04.pdf
 
 
 Cullen, B. 1999. Parasite ecology and the evolution of religion, in Heylighen F., Bollen J. & Riegler A. (ed.) (1999): The Evolution of Complexity (Kluwer Academic, Dordrecht), p. 255-261..
