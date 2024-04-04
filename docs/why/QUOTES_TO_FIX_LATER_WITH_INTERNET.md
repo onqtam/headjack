@@ -1076,7 +1076,7 @@ Massachusetts Institute of Technology
 
 > "" - [Intelligence as a planetary scale process](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
 
-> "" - []()
+> "" - [Bubble City - A Twitter Alternative Which is not a Social Medium](https://syntience.com/BubbleCity2.pdf)
 
 > "" - []()
 

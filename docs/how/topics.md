@@ -4,6 +4,11 @@ draft: true
 
 # operating manual for the global brain
 
+
+<img src="/img/causal_map_example.webp"/>
+taken from here: https://www.sciencedirect.com/science/article/pii/S0301479720315930
+
+
 <img src="/img/meme_financial_speculation.jpg"/>
 
 <div style={{textAlign: "center"}}>
