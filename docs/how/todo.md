@@ -145,6 +145,10 @@ draft: true
 
 == RESEARCH:
 
+https://en.wikipedia.org/wiki/Digital_object_identifier
+"A DOI aims to resolve to its target, the information object to which the DOI refers. This is achieved by binding the DOI to metadata about the object, such as a URL where the object is located. Thus, by being actionable and interoperable, a DOI differs from ISBNs or ISRCs which are identifiers only."
+"The DOI for a document remains fixed over the lifetime of the document, whereas its location and other metadata may change. Referring to an online document by its DOI should provide a more stable link than directly using its URL. But if its URL changes, the publisher must update the metadata for the DOI to maintain the link to the URL.[4][5][6] It is the publisher's responsibility to update the DOI database. If they fail to do so, the DOI resolves to a dead link, leaving the DOI useless."
+
 - single use credential
 
 - blind signature
