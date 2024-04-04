@@ -1243,21 +1243,13 @@ Gao, H., Barbier, G., & Goolsby, R. (2011). Harnessing the crowdsourcing power o
 
 Evrard, A. E., Erdmann, C., Holmquist, J., Damon, J., & Dietrich, D. (2015). Persistent, Global Identity for Scientists via ORCID. arXiv:1502.06274 [astro-ph,physics:physics]. Retrieved from http://arxiv.org/abs/1502.06274
 
-ActInf GuestStream #015.1_ Bobby Azarian, Universal Bayesianism_ A New Kind of Theory of Everything-_JCaic5Cxms
-ActInf GuestStream #015.2 ~ Bobby Azarian _The Integrated Evolutionary Synthesis_-WEfc9X437yY
-ActInf GuestStream #015.3 ~ Bobby Azarian_ _The Teleological Stance_ The Free Energy Principle..._-S-tFHIqtbSI
-
-.2 is a better version of .1
 
 
+> "Inference is actually quite close to a theory of everything – including evolution, consciousness, and life itself." - [Karl Friston](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference#:~:text=Inference%20is%20actually%20quite%20close%20to%20a%20theory%20of%20everything%20%E2%80%93%20including%20evolution%2C%20consciousness%2C%20and%20life%20itself.)
 
-> "Inference is actually quite close to a theory of everything - including evolution, consciousness, and life itself." - [Karl Friston](https://www.youtube.com/watch?v=_JCaic5Cxms)
+> "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
 
-> "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://www.youtube.com/watch?v=_JCaic5Cxms)
-
-^^ time: 4900
-
-> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.youtube.com/watch?v=_JCaic5Cxms)
+> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
 
 TODO: the good regulator theorem (aka the Internal Model Principle) by Ross Ashby - any system that regulates/controls another system must have a model of that system ==> organisms model their environment
 The law of requisite variety - tells us something about the computational sophistication of the internal model - the complexity of the model must be as complex as the challenges of the niche
@@ -1266,13 +1258,9 @@ The law of requisite variety - tells us something about the computational sophis
 evolution is an inference engine 
 the organisms that persist are the models that are best able to predict the environment
 
-TODO: landauer/landawer limit? written about at SFI by David someone - about energy efficiency
-
 we can use the dynamics of a system on one level to predict/model the dynamics of the system on another level - all complex adaptive systems have some similar patterns
 isomorphic relationship between different levels of emergence/complexity?
 the principle of consequence capture is one such example that can be found on all levels
-
-SCREENSHOTS !!!
 
 
 
