@@ -1,6 +1,6 @@
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Capitalism
+# SECTION: Market & Capitalism
 ██████████████████████████████████████████████████████████████████
 
 > "The amount of valuable information stuck in people’s heads about people, products, and companies that would influence investment decisions, purchasing decisions, and hiring/joining decisions is massive." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1746738383127503255)
@@ -11,6 +11,13 @@ hoarding information & profiting from it - example:
 What if the brightest minds were not in hedge funds but instead predicting in public what would happen and try to minimize the problems instead of hoarding the info of what's about to happen for maximum gain? What if helping the public brought bigger or at least comparable gains? We need to redefine status.
 
 
+> "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
+
+> "The proper locus of distributed cognition is the commons and what the state and the market do is they keep trying to say: no, no, we are the proper place in which distributed cognition functions." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1876)
+
+> "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
+
+"I think that most capitalists don’t know how to divide the economic pie well and most socialists don’t know how to grow it well, yet we are now at a juncture in which either a) people of different ideological inclinations will work together to skillfully re-engineer the system so that the pie is both divided and grown well or b) we will have great conflict and some form of revolution that will hurt most everyone and will shrink the pie." - [Ray Dalio](https://www.linkedin.com/pulse/why-how-capitalism-needs-reformed-parts-1-2-ray-dalio/#:~:text=I%20think%20that,shrink%20the%20pie.)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -19,12 +26,17 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "The more heroic you are, the more beautiful you are, the more you will be made to suffer." - [Eric Weinstein](https://youtu.be/o2nG7-eXxko?t=4908)
 
+> "The purpose of a system is what it does." - [Stafford Beer](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
+
 
 > "Belief can be manipulated. Only knowledge is dangerous." - [Frank Herbert](https://www.goodreads.com/quotes/384225-belief-can-be-manipulated-only-knowledge-is-dangerous)
 
 > "Absolute power does not corrupt absolutely, absolute power attracts the corruptible." - [Frank Herbert](https://www.goodreads.com/quotes/54212-absolute-power-does-not-corrupt-absolutely-absolute-power-attracts-the)
 
 > "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
+
+
+> "The majority of us believe in Open Source government backed by resource based economics on a planetary level. If a computer’s operating system is malfunctioning it is replaced. We view governments as global operating systems, flawed full of bugs and crash reports. Hitting the off switch and rebooting simply won’t help how corrupted these global operating systems have become. Reformatting and installing a humanitarian based open sourced government will insure equality for all." - [Million Mask March 2015 - Anonymous](https://pastebin.com/eJz5JfMD#:~:text=The%20majority%20of%20us%20believe,will%20insure%20equality%20for%20all.)
 
 
 
@@ -40,6 +52,18 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "What if the game wasn’t just “one person, one vote” which is rooted in equalizing the power of your vote or your voice, but was instead about finding the highest wisdom or best path? To achieve that, we might have to recognize different people bring different skills, knowledge, competencies, and figure out how to optimize everyone’s unique contribution." - [Challenging Broken Assumptions of Governance, by Arthur Brock](https://www.artbrock.com/2017/02/11/challenging-broken-assumptions-of-governance#:~:text=What%20if%20the,everyone%E2%80%99s%20unique%20contribution.)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Other dysfunction
+██████████████████████████████████████████████████████████████████
+
+> "If I was an alien race that wanted to cripple Earth’s technological development I wouldn’t kill scientists, I would invent new ways to ensure the best and brightest people would choose to work on optimizing ad clicks, create exciting new financial derivatives, or trade vapor assets based on animal memes instead of creating deep technology" - [@nope_its_lily](https://twitter.com/nope_its_lily/status/1773036747833901463)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Incentives
+██████████████████████████████████████████████████████████████████
+
+
+> "Human nature is like water. It takes the shape of its container." - [Wallace Stevens](https://www.goodreads.com/quotes/154092-human-nature-is-like-water-it-takes-the-shape-of)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Environment

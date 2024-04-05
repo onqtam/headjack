@@ -281,6 +281,9 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 Why does Nate Hagens always ask his guests at the end of the show about the one thing they would like to say or do? Ranking. RR
 
+> "To attain knowledge, add things everyday. To attain wisdom, remove things every day." - [Lao Tzu](https://www.goodreads.com/quotes/30297-to-attain-knowledge-add-things-everyday-to-attain-wisdom-remove)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Top10 lists
 ██████████████████████████████████████████████████████████████████
@@ -488,6 +491,39 @@ Top10 humorous yet informative channels to subscribe to
 > In the 'theater of consciousness', a 'spotlight of selective attention' shines a bright spot on stage, revealing the contents of consciousness. Behind the scenes, in the dark, are the director (executive processes), stagehands, scriptwriters, scene designers, and the like. They shape the visible activities in the bright spot but are themselves invisible.
 >
 > ...It serves as a central information exchange, rather than a locus of cognition itself, enabling different specialized brain networks to interact and supporting integrated and adaptive responses." - [Global workspace theory, Wikipedia](https://en.wikipedia.org/wiki/Global_workspace_theory#:~:text=GWT%20analogizes%20the,and%20adaptive%20responses.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Structure & Organization
+██████████████████████████████████████████████████████████████████
+
+> "What's [Freeman](https://en.wikipedia.org/wiki/Jo_Freeman)'s ultimate [recommendation](https://www.jofreeman.com/joreen/tyranny.htm) for creating successful organizations?
+>
+> 1) democratically elect leaders
+>
+> 2) with responsibility over constituents
+>
+> 3) who prioritize apprenticeship > sink-or-swim
+>
+> 4) sharing information
+>
+> 5) and providing equal access to resources" - [Jon Wu](https://twitter.com/jonwu_/status/1743075040269332945)
+
+https://www.jofreeman.com/joreen/tyranny.htm
+https://wiki.p2pfoundation.net/Tyranny_of_Structurelessness
+Excerpts
+"Contrary to what we would like to believe, there is no such thing as a 'structureless' group. Any group of people of whatever nature coming together for any length of time, for any purpose, will inevitably structure itself in some fashion. The structure may be flexible, it may vary over time, it may evenly or unevenly distribute tasks, power and resources over the members of the group. But it will be formed regardless of the abilities, personalities and intentions of the people involved. The very fact that we are individuals with different talents, predispositions and backgrounds makes this inevitable. Only if we refused to relate or interact on any basis whatsoever could we approximate 'structurelessness' and that is not the nature of a human group.
+
+...
+
+Principles of Democratic Structuring
+- Delegation of specific authority to specific individuals for specific tasks by democratic procedures. Letting people assume jobs or tasks by default only means they are not dependably done. If people are selected to do a task, preferably after expressing an interest or willingness to do it, they have made a commitment which cannot easily be ignored.
+-  Requiring all those to whom authority has been delegated to be responsible to all those who selected them. This is how the group has control over people in positions of authority. Individuals may exercise power, but it is the group that has the ultimate say over how the power is exercised.
+- Distribution of authority among as many people as is reasonably possible. This prevents monopoly of power and requires those in positions of authority to consult with many others in the process of exercising it. It also gives many people an opportunity to have responsibility for specific tasks and thereby to learn specific skills.
+- Rotation of tasks among individuals. Responsibilities which are held too long by one person, formally or informally, come to be seen as that person's 'property' and are not easily relinquished or controlled by the group. Conversely, if tasks are rotated too frequently the individual does not have time to learn her job well and acquire a sense of satisfaction of doing a good job.
+- Allocation of tasks along rational criteria. Selecting someone for a position because they are liked by the group, or giving them hard work because they are disliked, serves neither the group nor the person in the long run. Ability, interest and responsibility have got to be the major concerns in such selection. People should be given an opportunity to learn skills they do not have, but this is best done through some sort of 'apprenticeship' programme rather than the 'sink or swim' method. Having a responsibility one can't handle well is demoralising. Conversely, being blackballed from what one can do well does not encourage one to develop one's skills. Women have been punished for being competent throughout most of human history: the movement does not need to repeat this process.
+- Diffusion of information to everyone as frequently as possible. Information is power. Access to information enhances one's power. When an informal network spreads new ideas and information among themselves outside the group, they are already engaged in the process of forming an opinion without the group participating. The more one knows abouthow things work, the more politically effective one can be.
+- Equal access to resources needed by the group. This is not always perfectly possible, but should be striven for. A member who maintains a monopoly over a needed resource (like a printing press or a darkroom owned by a husband) can unduly influence the use of that resource. Skills and information are also resources. Members' skills and information can be equally available only when members are willing to teach what they know to others.
+When these principles are applied, they ensure that whatever structures are developed by different movement groups will be controlled by and be responsible to the group. The group of people in positions of authority will be diffuse, flexible, open and temporary. They will not be in such an easy position to institutionalize their power because ultimate decisions will be made by the group at large. The group will have the power to determine who shall exercise authority within it."
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Hierarchy / holacracy / subsidiarity

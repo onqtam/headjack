@@ -1,18 +1,8 @@
-# Attention is all you have
-
-
-<!--
-
-The semantic web was an afterthought
-
-maybe the chapter should be called "web3 & the semantic web"
-
--->
-
 
 ██████████████████████████████████████████████████████████████████
-# a
+# SECTION: Attention
 ██████████████████████████████████████████████████████████████████
+
 
 Is it a coincidence that one of the most important papers in AI/ML that introduced transformers was called `"Attention is all you need"`?
 
@@ -62,3 +52,14 @@ According to AST ([video](https://www.youtube.com/watch?v=ZlDBYAJ1oUw))
 
 > "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it." - [Herbert A. Simon](https://www.brainyquote.com/quotes/herbert_a_simon_181919)
 
+
+
+> "He who controls attention controls the universe." - [Frank Herbert](https://www.goodreads.com/quotes/82034-he-who-controls-the-spice-controls-the-universe), probably
+
+> "Context switching is the mindkiller." - [Elon Musk](https://twitter.com/elonmusk/status/1728213431201792492)
+> "Fear is not the mind-killer, context-switching is the mind-killer." - [Elon Musk](https://twitter.com/elonmusk/status/1600439088560996353)
+https://twitter.com/Kristennetten/status/1600444201744801792
+
+Visualizing “the current thing” throughout 2023
+https://twitter.com/exec_sum/status/1743744897264345445
+^^ THIS IS ATTENTIONAL DISFUNCTION
