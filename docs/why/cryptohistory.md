@@ -182,6 +182,15 @@ The argument that specialized message types are unnecessary because AI will even
 
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 
+
+> "If you think about what peer review is, it’s the exact opposite of what peer review should mean. “Peer review” should mean that you publish your article, and then the peers in the community review it, but in fact what it is is peer suppression. You take your article and you mail it off to somebody who you don’t know. That person gets an early look at it. They might hold it up in review. They then inflict any changes that they want, or they reject it for reasons that make no sense. And then it’s handed back to you.
+>
+> Now, why does it have such a positive spin? It’s not long standing in the community. It doesn’t seem to have a very long history, but it came out of an effort to quality control new ideas. We wanted to know if new ideas were coming from reputable people. Were they using reasonable methods? Were they reasonably familiar with their fields? And in fact, that is the good reason that we had this new technique of peer review. Previously, editors have been tasked with being responsible for the field and figuring out whether or not something was up to snuff.
+>
+> In this new situation, it was perfectly constructed for abuse. In fact, what you find is that it’s like what my brother refers to as the low posted speed limit in a southern town. The key question isn’t peer review, it’s how is it enforced for different people? That is, if you are a famous professor who is well plugged into a journal, where your friend is the editor, you are going to have an entirely different experience with peer review than if you submit the exact same article coming from someplace that is not well known to that journal, and in which there is a bias against that group." - [Eric Weinstein](https://theportal.group/18-eric-weinstein-solo-slipping-the-disc-state-of-the-portal-chapter-2020/#:~:text=If%20you%20think%20about%20what,a%20bias%20against%20that%20group.)
+
+
+
 https://en.wikipedia.org/wiki/Sci-Hub
 
 Science is broken - how do you easily look up all the criticism of a paper? You have to scan all the references from other papers and try to deduce based on the title which ones try to improve the idea instead of simply referencing it?

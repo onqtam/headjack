@@ -24,6 +24,20 @@
 > "It is nowadays applied to merit-based systems of status and reward allocation in distinction to aristocratic or class-based systems, in which inherited factors are the primary determinant for the position of an individual in society." - [Meritocracy, Wikipedia](https://en.wikipedia.org/wiki/Meritocracy#:~:text=it%20is%20nowadays%20applied%20to%20merit%2Dbased%20systems%20of%20status%20and%20reward%20allocation%20in%20distinction%20to%20aristocratic%20or%20class%2Dbased%20systems%2C%20in%20which%20inherited%20factors%20are%20the%20primary%20determinant%20for%20the%20position%20of%20an%20individual%20in%20society.)
 
 
+> "The most important ideas are likely to be the ideas that are most disruptive. What if the entire food pyramid, for example, was wildly off? What if fats were not the great danger we thought they were, and those waving fields of wheat that are fabled in American song, in fact, give rise to carbs, which are very dangerous to us all? So if everything were inverted, let’s say, where, in a world where instead of banishing volatility during the so-called Great Moderation before 2008, we were actually building the tinder for the world’s largest financial forest fire. What if, in fact, we had all sorts of things exactly backwards and completely wrong?" - [Eric Weinstein](https://theportal.group/18-eric-weinstein-solo-slipping-the-disc-state-of-the-portal-chapter-2020/#:~:text=The%20most%20important%20ideas%20are,exactly%20backwards%20and%20completely%20wrong%3F)
+
+> "We have effectively entered a period in which we cannot trust our experts. I think that what began as a desire to contribute and to do real work, ended with an understanding that we’ve got two generations of institutional experts that are corrupted, and that we cannot wake up from this crazy fever dream that we’re all in, because we can’t figure out who we can still trust.
+>
+> The doctors are compromised. The professors are compromised. The Journalists are compromised. The politicians are compromised.
+>
+> About the only thing that isn’t badly compromised are people with an independent source of sustenance — individuals and very small groups are about the only thing that is free of this disease of the Embedded Growth Obligation (EGO)." - [Eric Weinstein](https://theportal.wiki/wiki/Embedded_Growth_Obligations#:~:text=We%20have%20effectively%20entered,Embedded%20Growth%20Obligation%20(EGO).)
+
+
+Meritocracy can be computable and open-source
+Meritocracy is the last revolution to be had
+Meritocracy is true alignment and a prerequisite for consciousness
+Meritocracy is a beautiful concept - the current implementation is what sucks
+
 
 One big problem with meritocracy/epistocracy/technocracy/noocracy is that we've been unable to compute the reputation objectively for accountability. They've been often criticised as idealistic/unrealistic and flawed but that's because we haven't had a reliable mechanism to surface competence together with accountability. Proxies such as accreditation have proven bad.
 Another criticism is one of lack of diversity and the superior results of the wisdom of crowds. But we can design a meritocracy/epistocracy/technocracy/noocracy however we like in order to maximize the collective intelligence of as many people as possible - it doesn't have to be a small clique of people that make all the contributions.
@@ -160,3 +174,6 @@ having your post (successfully) labeled as a duplicate of something else could i
 
 
 > "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81#:~:text=To%20support%20and%20maintain%20a%20man%27s%20private%20credit%2C%20%27tis%20absolutely%20necessary%20that%20the%20world%20have%20a%20fixed%20opinion%20of%20the%20honesty%20and%20integrity%2C%20as%20well%20as%20ability%20of%20a%20person.)
+
+> "It won’t be rational for mainstream to reallocate authority to uncredentialized amateurs - no matter how much more correct they are, until there is a very legible and scalable way to delegate trust, so that not everyone has to fact check everything the independent shadow academy — the invisible college — the commons — the bazaar— puts forward against the cathedral of “expert consensus” that is so often state sponsored scientism." - [Conor White-Sullivan](https://twitter.com/Conaw/status/1733062636911411572)
+

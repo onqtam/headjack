@@ -1,6 +1,11 @@
-# Organizing information
 
-# It's all connected
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Openness & transparency
+██████████████████████████████████████████████████████████████████
+
+> "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 
 
 ██████████████████████████████████████████████████████████████████
