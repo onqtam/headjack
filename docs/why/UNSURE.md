@@ -11,3 +11,5 @@
 > "The Internet is to America what America was to Britain. A frontier territory that will ultimately succeed even its worthy progenitor." - [Balaji](https://twitter.com/balajis/status/1774529076742754328)
 
 
+> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
+

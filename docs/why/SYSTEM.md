@@ -63,6 +63,8 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 ██████████████████████████████████████████████████████████████████
 
 
+> "To attract the sharpest minds to science, drive the returns from sharp elbows towards zero." - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/6677778275)
+
 > "Human nature is like water. It takes the shape of its container." - [Wallace Stevens](https://www.goodreads.com/quotes/154092-human-nature-is-like-water-it-takes-the-shape-of)
 
 ██████████████████████████████████████████████████████████████████
