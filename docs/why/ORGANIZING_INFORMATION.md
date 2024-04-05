@@ -4,7 +4,7 @@
 
 
 ██████████████████████████████████████████████████████████████████
-# provenance, deduplication & authenticity
+# SECTION: provenance, deduplication & authenticity
 ██████████████████████████████████████████████████████████████████
 
 > "In a world of infinite "content", only provenance will count" - [@punk6529](https://twitter.com/punk6529/status/1636275893545967616)
@@ -29,9 +29,10 @@ https://twitter.com/lexman_ai/status/1615861599197171713
 we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
 ██████████████████████████████████████████████████████████████████
-# We are drowning in language
+# SECTION: Language
 ██████████████████████████████████████████████████████████████████
 
+> "The more I think about language, the more it amazes me that people ever understand each other at all." - [Kurt Gödel](https://www.goodreads.com/quotes/336516-the-more-i-think-about-language-the-more-it-amazes)
 
 remove bannon quote - or at least his name
 
