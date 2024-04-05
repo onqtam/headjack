@@ -1028,11 +1028,9 @@ Massachusetts Institute of Technology
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
 
 
-> "What if strong, cohesive, religious, demographically uniform communities make people more trusting, generous, and cooperative in a way that also decreases violent crime and other forms of misery?" - [ARCHIPELAGO AND ATOMIC COMMUNITARIANISM](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
 
-> "" - [ARCHIPELAGO AND ATOMIC COMMUNITARIANISM](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
+> "The closer you come to true freedom of association, the closer you get to a world where everyone is a member of more or less the community they deserve." - [Archipelago and Atomic Communitarianism](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
 
-> "" - [ARCHIPELAGO AND ATOMIC COMMUNITARIANISM](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
 
 
 > "The FEP states that living organisms are dynamical systems that are separated from their environment by an interface. We will refer to these living organisms as ‘agents’ for the sake of convenience going forward, since all living organisms sense their environment and act in response to those sensations... Crucially, this interface separates both the environment from the agent and the agent from its surroundings, allowing it to exist as a self-contained and autonomous entity. Agents therefore always necessarily receive sensory information and act through this interface. They never have unmediated access to what is going on in the environment, and as a result always have to guess (or infer) what is the true state of the world based on the information they have access to. According to the FEP, all agents act, as best as they can, to minimize the errors in their guesses about the environment. These errors can be quantified by a metric called ‘free energy,’ and the better an agent can minimize it over time, the better chance the agent has of staying alive and maintaining itself. To understand it intuitively, think of free energy as a measure of surprise or uncertainty." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
@@ -1066,8 +1064,6 @@ Massachusetts Institute of Technology
 
 
 
-
-> "" - [Hanzi’s Private Notes: The 5 Metamemes Before Metamodernism](https://metamoderna.org/hanzis-private-notes-the-5-metamemes-before-metamodernism/)
 
 > "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
