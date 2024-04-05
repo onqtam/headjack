@@ -1028,6 +1028,22 @@ Massachusetts Institute of Technology
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
 
 
+> "What if strong, cohesive, religious, demographically uniform communities make people more trusting, generous, and cooperative in a way that also decreases violent crime and other forms of misery?" - [ARCHIPELAGO AND ATOMIC COMMUNITARIANISM](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
+
+> "" - [ARCHIPELAGO AND ATOMIC COMMUNITARIANISM](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
+
+> "" - [ARCHIPELAGO AND ATOMIC COMMUNITARIANISM](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
+
+
+> "The FEP states that living organisms are dynamical systems that are separated from their environment by an interface. We will refer to these living organisms as ‘agents’ for the sake of convenience going forward, since all living organisms sense their environment and act in response to those sensations... Crucially, this interface separates both the environment from the agent and the agent from its surroundings, allowing it to exist as a self-contained and autonomous entity. Agents therefore always necessarily receive sensory information and act through this interface. They never have unmediated access to what is going on in the environment, and as a result always have to guess (or infer) what is the true state of the world based on the information they have access to. According to the FEP, all agents act, as best as they can, to minimize the errors in their guesses about the environment. These errors can be quantified by a metric called ‘free energy,’ and the better an agent can minimize it over time, the better chance the agent has of staying alive and maintaining itself. To understand it intuitively, think of free energy as a measure of surprise or uncertainty." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+> "The minimization of free energy is not an end in itself. It is ultimately in service of the maintenance of the agent as an individual separated from its environment. Agents do this by attempting to remain in a state of homeostasis. All living agents have some sense of what that homeostasis for them should be, even if it is only represented implicitly within the structure of the agent itself. In the same way that sensory prediction errors increase free energy, so do deviations from the desired homeostasis of the agent, as the homeostatic set points of an agent itself are another kind of prediction about the world." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+> "An interesting aspect of the FEP is that it can often produce behavior which paradoxically doesn’t seem like error minimization, at least in the short-term. Let’s imagine that someone moves to a new neighborhood they are unfamiliar with. They could choose to stay inside their new home, which would indeed allow them to minimize any prediction errors that would arise from the novel environment. On the other hand, they could go outside and explore their new surroundings. Doing the latter will produce many more short-term prediction errors. In the long run though it will allow them to avoid even bigger surprises in the future. It is this dynamic of long-term free energy minimization that can account for various forms of exploration, adventure, and industry which we are motivated to engage in." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+> "We humans distinguish ourselves from other living agents by our ability to not only react to the environment but also establish goals and then set out to accomplish them. This might seem to be a challenge for a theory which suggests that all behavior is in the service of entropy minimization, but the FEP accounts for this quite elegantly as well. In this view, when we set a goal for ourselves, we are making a special kind of prediction about the world. This prediction is one that we know goes against the current sensory evidence, thus increasing free energy. Instead of updating our beliefs to account for the world (and in essence give up on the goal), what we do instead is to set out to act in the world in order to ensure that the sensory evidence corresponds to our prediction, and minimize the free energy in the process... We make a prediction about how we would like the world to be, and then act in order to make that prediction come true." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+
 
 
 > "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
@@ -1056,8 +1072,6 @@ Massachusetts Institute of Technology
 > "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
 
-> "" - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
-
 > "" - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
 
 > "" - [What is a worldview?, by Clément Vidal](https://web-archive.southampton.ac.uk/cogprints.org/6094/2/Vidal_2008-what-is-a-worldview.pdf)
@@ -1081,9 +1095,6 @@ Massachusetts Institute of Technology
 > "" - []()
 
 > "" - []()
-
-> "" - []()
-
 
 
 
