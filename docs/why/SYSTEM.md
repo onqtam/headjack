@@ -3,6 +3,12 @@
 # SECTION: Market & Capitalism
 ██████████████████████████████████████████████████████████████████
 
+Capitalism as alignment 1.0 - What’s its essence?
+- Collective intelligence
+- Competition and evolution
+- Self-interest - human nature
+- Meritocracy
+- Responsibility & skin in the game
 > "The amount of valuable information stuck in people’s heads about people, products, and companies that would influence investment decisions, purchasing decisions, and hiring/joining decisions is massive." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1746738383127503255)
 
 hoarding information & profiting from it - example:
@@ -38,6 +44,7 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "The majority of us believe in Open Source government backed by resource based economics on a planetary level. If a computer’s operating system is malfunctioning it is replaced. We view governments as global operating systems, flawed full of bugs and crash reports. Hitting the off switch and rebooting simply won’t help how corrupted these global operating systems have become. Reformatting and installing a humanitarian based open sourced government will insure equality for all." - [Million Mask March 2015 - Anonymous](https://pastebin.com/eJz5JfMD#:~:text=The%20majority%20of%20us%20believe,will%20insure%20equality%20for%20all.)
 
+> "If there's any hope for forms of meaningful and effective bottom-up governance in the 21st century, it does not lie within the mechanisms of representative democracy created almost 3 centuries ago." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753161324430037054)
 
 
 > "Globally, politics polarizes around that tension: conservative vs. progressive. This is a false choice. Both are mandatory. It doesn’t matter whether we like it or not. When the world around you is changing, and that change is accelerating, the question is never whether to change or stay the same. The questions we must confront are: 1) What changes are vital? (to survival and goals), and 2) How do we implement those changes in a way that doesn’t destroy the integrity of what works? Selecting a conservative vs. a progressive candidate is a false choice that we are forced to make because of broken architectures of governments." - [The Future of Governance is not Governments, by Arthur Brock](https://www.artbrock.com/2017/01/26/future-governance-is-not-governments#:~:text=Globally%2C%20politics%20polarizes,architectures%20of%20governments.)
@@ -52,11 +59,40 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "What if the game wasn’t just “one person, one vote” which is rooted in equalizing the power of your vote or your voice, but was instead about finding the highest wisdom or best path? To achieve that, we might have to recognize different people bring different skills, knowledge, competencies, and figure out how to optimize everyone’s unique contribution." - [Challenging Broken Assumptions of Governance, by Arthur Brock](https://www.artbrock.com/2017/02/11/challenging-broken-assumptions-of-governance#:~:text=What%20if%20the,everyone%E2%80%99s%20unique%20contribution.)
 
+> "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
 ██████████████████████████████████████████████████████████████████
 
 > "If I was an alien race that wanted to cripple Earth’s technological development I wouldn’t kill scientists, I would invent new ways to ensure the best and brightest people would choose to work on optimizing ad clicks, create exciting new financial derivatives, or trade vapor assets based on animal memes instead of creating deep technology" - [@nope_its_lily](https://twitter.com/nope_its_lily/status/1773036747833901463)
+
+> "The Efficient Grift Hypothesis - Every moral hazard introduced will be exploited. One may question the degree of exploitation or the acceptability of entailed consequences, but not the base reality that it will occur. Those who say otherwise are either in on the grift, or a naive pawn of those in on the grift." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1681718324080816130)
+
+> "It is not a matter of what is true that counts, but a matter of what is perceived to be true." - [Henry Kissinger](https://www.goodreads.com/quotes/40934-it-is-not-a-matter-of-what-is-true-that)
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Accountability
+██████████████████████████████████████████████████████████████████
+
+https://www.youtube.com/watch?v=e_ZDQKq2F08
+1994 - Tobacco Company CEOs Testify Before Congress
+^^ How do we make a system where [merchants of doubt](https://en.wikipedia.org/wiki/Merchants_of_Doubt) don't have a market niche?
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Fairness
+██████████████████████████████████████████████████████████████████
+
+> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
+
+> "Compassion is the basis of morality." - [Arthur Schopenhauer](https://www.goodreads.com/quotes/2195-compassion-is-the-basis-of-morality)
+
+> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives
@@ -80,17 +116,10 @@ Coke Knew Their Plastic Would Trash the Planet…And Did It Anyway
 
 why do they make packaging that's impossible to reuse/recycle and is composed of multiple different types of material?
 
+> "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett#:~:text=%22The%20greatest%20shortcoming%20of%20the%20human%20race%20is%20our%20inability%20to%20understand%20the%20exponential%20function.%22)
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Transition
+# SECTION: Existential risks
 ██████████████████████████████████████████████████████████████████
 
-> "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words." - [Ursula K. Le Guin](https://www.goodreads.com/quotes/3238058-we-live-in-capitalism-its-power-seems-inescapable-so-did)
-
-> "We human beings are still divided into nation states, but these states are rapidly becoming a global civilization…We are attempting to survive our time so we may live into yours. We hope, some day, having solved the problems we face, to join a community of galactic civilizations." - [Message for extra-terrestrial life inscribed on the Golden Record aboard the Voyager One space probe in 1977](https://www.linkedin.com/pulse/evolving%2Dthrough%2Dbottleneck%2Drobert%2Dcobbold%2D1qgpe/#:~:text=We%20human%20beings%20are%20still%20divided%20into%20nation%20states%2C%20but%20these%20states%20are%20rapidly%20becoming%20a%20global%20civilization%E2%80%A6We%20are%20attempting%20to%20survive%20our%20time%20so%20we%20may%20live%20into%20yours.%20We%20hope%2C%20some%20day%2C%20having%20solved%20the%20problems%20we%20face%2C%20to%20join%20a%20community%20of%20galactic%20civilizations.)
-
-
-
-
-> "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)
-
-> "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
+> "We thought we might start a chain reaction that would destroy the entire world... I believe we did." - [J. Robert Oppenheimer, from the movie](https://www.imdb.com/title/tt15398776/quotes/?item=qt6977002&ref_=ext_shr_lnk)

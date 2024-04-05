@@ -42,6 +42,8 @@ the only web3 identity/social solution that can partner with OAuth/OpenID - and 
 
 - countering the "if we build it - they will come" wishful thinking with specifics
 
+The goal is for this idea to spread by word of mouth
+
 - partner with
     https://twitter.com/odyseeteam
     https://compdemocracy.org/about/

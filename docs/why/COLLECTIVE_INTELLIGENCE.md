@@ -7,8 +7,50 @@ alternative titles:
 
 -->
 
+
 ██████████████████████████████████████████████████████████████████
-# collective intelligence & sensemaking
+# SECTION: Cognitive biases
+██████████████████████████████████████████████████████████████████
+
+> "No man should escape our universities without knowing how little he knows." - [J. Robert Oppenheimer](https://www.goodreads.com/quotes/214009-no-man-should-escape-our-universities-without-knowing-how-little)
+
+> "If we look at the state of the world, it’s clear that upstream of all of our big problems — climate change, ineffective political systems, unemployment, inequality, war, our very future as a species — is an even bigger problem: our susceptibility to cognitive biases, our inability to recognize their existence, and the extreme difficulty of trying to overcome them. It’s urgent that we level up our cognition, or we will fail as a species." - [13 Steps to Cognitive “Perfection”, by Bryan Johnson](https://medium.com/future-literacy/13-steps-to-cognitive-perfection-86e316569c3f#:~:text=If%20we%20look,as%20a%20species.)
+
+> "Our Brains are Dangerously Flawed. In a sample of 600+ US residents, more than 85% believed they were less biased than the average American. Only one participant believed that he or she was more biased than the average American. Known as the [Bias Blind Spot](https://en.wikipedia.org/wiki/Bias_blind_spot), the study demonstrated that most people are less likely to detect bias in themselves than in others." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=Our%20Brains%20are,than%20in%20others.)
+
+> "This is really important to understand: our political systems, our economic systems, businesses, war, relationships, scientific discovery — everything — all lives downstream from our minds." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=This%20is%20really%20important%20to%20understand%3A%20our%20political%20systems%2C%20our%20economic%20systems%2C%20businesses%2C%20war%2C%20relationships%2C%20scientific%20discovery%20%E2%80%94%20everything%20%E2%80%94%20all%20lives%20downstream%20from%20our%20minds.)
+
+
+
+The bias blind spot is the cognitive bias of recognizing the impact of biases on the judgment of others, while failing to see the impact of biases on one's own judgment.
+https://en.wikipedia.org/wiki/Bias_blind_spot
+
+Cognitive bias cheat sheet
+https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18
+
+cognitive bias codex
+https://de.m.wikipedia.org/wiki/Datei:Cognitive_bias_codex_en.svg
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cognitive_bias_codex_en.svg/2560px-Cognitive_bias_codex_en.svg.png
+
+https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_vignette
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Probability & prediction
+██████████████████████████████████████████████████████████████████
+
+> "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Causality
+██████████████████████████████████████████████████████████████████
+
+> "It blows my mind how few people in the business world presently see the value of tools capable of modeling and emulating the real time evolution of their causal domain in probabilistic terms, including the way in which their own actions are likely to change the playing field. They're so used to being spoon fed extremely reductive and lagging graphs and charts in .ppt format as reasonable models of their world, that the idea of continuous Socratic interaction with a "living" model comes across as an utterly alien value proposition. And yet that's exactly where things are heading..." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753188223529230376)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Collective intelligence & sensemaking
 ██████████████████████████████████████████████████████████████████
 
 sunlight is the best disenfecatant

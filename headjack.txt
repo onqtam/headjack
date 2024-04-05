@@ -8,12 +8,6 @@
 
 
 
-https://www.youtube.com/watch?v=e_ZDQKq2F08
-1994 - Tobacco Company CEOs Testify Before Congress
-^^ How do we make a system where [merchants of doubt](https://en.wikipedia.org/wiki/Merchants_of_Doubt) don't have a market niche?
-
-
-
 https://twitter.com/eriktorenberg/status/1748056677449138500
 ^^ this but with ZK
 
@@ -50,7 +44,6 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 
 
 
-> "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett#:~:text=%22The%20greatest%20shortcoming%20of%20the%20human%20race%20is%20our%20inability%20to%20understand%20the%20exponential%20function.%22)
 
 
 
@@ -60,7 +53,6 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 
 
 
-> "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 
 
 
@@ -70,30 +62,6 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 
 
 
-> "It is not a matter of what is true that counts, but a matter of what is perceived to be true." - [Henry Kissinger](https://www.goodreads.com/quotes/40934-it-is-not-a-matter-of-what-is-true-that)
-
-
-
-
-
-
-> "If you think about what peer review is, it’s the exact opposite of what peer review should mean. “Peer review” should mean that you publish your article, and then the peers in the community review it, but in fact what it is is peer suppression. You take your article and you mail it off to somebody who you don’t know. That person gets an early look at it. They might hold it up in review. They then inflict any changes that they want, or they reject it for reasons that make no sense. And then it’s handed back to you.
->
-> Now, why does it have such a positive spin? It’s not long standing in the community. It doesn’t seem to have a very long history, but it came out of an effort to quality control new ideas. We wanted to know if new ideas were coming from reputable people. Were they using reasonable methods? Were they reasonably familiar with their fields? And in fact, that is the good reason that we had this new technique of peer review. Previously, editors have been tasked with being responsible for the field and figuring out whether or not something was up to snuff.
->
-> In this new situation, it was perfectly constructed for abuse. In fact, what you find is that it’s like what my brother refers to as the low posted speed limit in a southern town. The key question isn’t peer review, it’s how is it enforced for different people? That is, if you are a famous professor who is well plugged into a journal, where your friend is the editor, you are going to have an entirely different experience with peer review than if you submit the exact same article coming from someplace that is not well known to that journal, and in which there is a bias against that group." - [Eric Weinstein](https://theportal.group/18-eric-weinstein-solo-slipping-the-disc-state-of-the-portal-chapter-2020/#:~:text=If%20you%20think%20about%20what,a%20bias%20against%20that%20group.)
-
-> "The most important ideas are likely to be the ideas that are most disruptive. What if the entire food pyramid, for example, was wildly off? What if fats were not the great danger we thought they were, and those waving fields of wheat that are fabled in American song, in fact, give rise to carbs, which are very dangerous to us all? So if everything were inverted, let’s say, where, in a world where instead of banishing volatility during the so-called Great Moderation before 2008, we were actually building the tinder for the world’s largest financial forest fire. What if, in fact, we had all sorts of things exactly backwards and completely wrong?" - [Eric Weinstein](https://theportal.group/18-eric-weinstein-solo-slipping-the-disc-state-of-the-portal-chapter-2020/#:~:text=The%20most%20important%20ideas%20are,exactly%20backwards%20and%20completely%20wrong%3F)
-
-> "We have effectively entered a period in which we cannot trust our experts. I think that what began as a desire to contribute and to do real work, ended with an understanding that we’ve got two generations of institutional experts that are corrupted, and that we cannot wake up from this crazy fever dream that we’re all in, because we can’t figure out who we can still trust.
->
-> The doctors are compromised. The professors are compromised. The Journalists are compromised. The politicians are compromised.
->
-> About the only thing that isn’t badly compromised are people with an independent source of sustenance — individuals and very small groups are about the only thing that is free of this disease of the Embedded Growth Obligation (EGO)." - [Eric Weinstein](https://theportal.wiki/wiki/Embedded_Growth_Obligations#:~:text=We%20have%20effectively%20entered,Embedded%20Growth%20Obligation%20(EGO).)
-
-
-
-> "No input, no output." - [Strummer's Law](https://www.azquotes.com/quote/711545)
 
 stackexchange privileges
 https://stackoverflow.com/help/privileges
@@ -101,91 +69,30 @@ https://stackoverflow.com/help/privileges
 
 
 
-> "To develop the skill of introspection and correct thinking is to learn — in the first place — what you have to disregard. The ineffectiveness of natural thinking comes from being overwhelmed by an infinity of possibilities and facts. In order to go on, you have to know what to leave out; this is the essence of effective thinking." - [Kurt Gödel](https://medium.com/catalyzingcoherence/a-meditation-on-diversity-equality-and-humanity-48008cd197a#:~:text=To%20develop%20the,of%20effective%20thinking.)
 
 
 
 
-> "It won’t be rational for mainstream to reallocate authority to uncredentialized amateurs - no matter how much more correct they are, until there is a very legible and scalable way to delegate trust, so that not everyone has to fact check everything the independent shadow academy — the invisible college — the commons — the bazaar— puts forward against the cathedral of “expert consensus” that is so often state sponsored scientism." - [Conor White-Sullivan](https://twitter.com/Conaw/status/1733062636911411572)
 
 
 
-> "Without improving the systems by which humans collectively navigate the problem of mapping values to actions under shared constraints, that better tech will primarily end up used to destroy humanity, rather than sustainably accelerate it. The belief that better / more capable technological artifacts will alone lead to a better society is just another form of utopian delusion." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1770602256901243331)
-
-> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
-
-> "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
-
-> "Our ability to match acceleration to the appropriate constraints, as those constraints emerge within view, constitutes the parameter with the highest predictive power concerning adaptive / maladaptive outcomes." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
-
-> "In the realm of machine learning and AI... the greatest existential threat lies with the emergent human reaction to a rate of functional displacement that exceeds the rate at which humans can adapt. We're quite the adaptive species, but our flexibility is not infinite over finite time horizons, nor is our ability to purposefully redirect our lives an instantaneous property" - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
-
-> "The answer is not degrowth. The answer is growth that maximizes planetary complexity while minimizing the degree to which any entropy not re-usable somewhere else as a source of free energy remains within planetary bounds." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1726787146907037889)
-
-
-> "Societal evolution parallels that of biology. The complex structures within animals evolved to mediate internal communication flows over millions of years. In societal terms, the Internet connected all of our people cells, practically overnight. We’re now having a seizure." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/977773224397217792)
-
-> "We may view the growing attraction to islands of ideological stability as similar to the instinctual clustering of shipwreck survivors around the remaining pieces of flotsam. Like these lost souls, we find ourselves adrift in the rising tide of novel phenomenological complexity that flows from our rivers of hyper-connectivity. Alas, such survivors’ days are numbered, absent outside intervention.
->
-> And herein lies the paradox of this behavior: the probability of outside intervention is zero. We’re part of an emergent system, and therefore if the ship goes down, no one will come to the aid of humanity.
->
-> Thus the primary questions within this time of extreme phenomenological transformation concern the kinds of structures that we may build from the fragments of prior stratified forms, namely: how might we create modes of communication–novel inter-perspectival grammars–capable of sparking cooperation amongst the different clusters of survivors, otherwise adrift and on the clock?" - [On The Phenomenology of Hyper-Connectivity, by Matthew Pirkowski](https://medium.com/@matthewpirkowski/on-the-phenomenology-of-hyper-connectivity-b04d7d191129#:~:text=we%20may%20view,on%20the%20clock%3F)
-
-> "The Efficient Grift Hypothesis - Every moral hazard introduced will be exploited. One may question the degree of exploitation or the acceptability of entailed consequences, but not the base reality that it will occur. Those who say otherwise are either in on the grift, or a naive pawn of those in on the grift." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1681718324080816130)
-
-> "It blows my mind how few people in the business world presently see the value of tools capable of modeling and emulating the real time evolution of their causal domain in probabilistic terms, including the way in which their own actions are likely to change the playing field. They're so used to being spoon fed extremely reductive and lagging graphs and charts in .ppt format as reasonable models of their world, that the idea of continuous Socratic interaction with a "living" model comes across as an utterly alien value proposition. And yet that's exactly where things are heading..." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753188223529230376)
-
-> "If there's any hope for forms of meaningful and effective bottom-up governance in the 21st century, it does not lie within the mechanisms of representative democracy created almost 3 centuries ago." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753161324430037054)
-
-> "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
-
-
-> "Things which matter most must never be at the mercy of things which matter least." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy)
-
-
-> "Compassion is the basis of morality." - [Arthur Schopenhauer](https://www.goodreads.com/quotes/2195-compassion-is-the-basis-of-morality)
 
 
 
-> "If we look at the state of the world, it’s clear that upstream of all of our big problems — climate change, ineffective political systems, unemployment, inequality, war, our very future as a species — is an even bigger problem: our susceptibility to cognitive biases, our inability to recognize their existence, and the extreme difficulty of trying to overcome them. It’s urgent that we level up our cognition, or we will fail as a species." - [13 Steps to Cognitive “Perfection”, by Bryan Johnson](https://medium.com/future-literacy/13-steps-to-cognitive-perfection-86e316569c3f#:~:text=If%20we%20look,as%20a%20species.)
-
-> "Because of the Existence Bias, for example, we don’t have a plan for the future of the human race. That’s odd, because our existence is built upon obsessive planning. It helps us get what we want. Accordingly, we plan for everything: social events, marriage, education, vacations, careers, health, war and even death. So why don’t we have a plan for the human race? Whether we like it or not, nearly 8 billion of us are interconnected, comprising a vast orchestra, each contributing to a collective fate." - [13 Steps to Cognitive “Perfection”, by Bryan Johnson](https://medium.com/future-literacy/13-steps-to-cognitive-perfection-86e316569c3f#:~:text=Because%20of%20the,a%20collective%20fate.)
-
-> "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
-
-> "Our Brains are Dangerously Flawed. In a sample of 600+ US residents, more than 85% believed they were less biased than the average American. Only one participant believed that he or she was more biased than the average American. Known as the [Bias Blind Spot](https://en.wikipedia.org/wiki/Bias_blind_spot), the study demonstrated that most people are less likely to detect bias in themselves than in others." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=Our%20Brains%20are,than%20in%20others.)
-
-> "This is really important to understand: our political systems, our economic systems, businesses, war, relationships, scientific discovery — everything — all lives downstream from our minds." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=This%20is%20really%20important%20to%20understand%3A%20our%20political%20systems%2C%20our%20economic%20systems%2C%20businesses%2C%20war%2C%20relationships%2C%20scientific%20discovery%20%E2%80%94%20everything%20%E2%80%94%20all%20lives%20downstream%20from%20our%20minds.)
-
-> "When we think about AI, we imagine it as being capable of becoming and doing anything, yet, when it comes to our own potential, we’re woefully unambitious and unimaginative. There is no reason we can’t be as ambitious about our own potential as we are about the potential development of AI." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=When%20we%20think,development%20of%20AI.)
-
-> "How we build and use AI, lives downstream from human minds, at least for now. This co-evolutionary neccessity, to simultaneously uplevel ourselves while building AI for a thriving future, cannot be overstated." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=How%20we%20build%20and%20use%20AI%2C%20lives%20downstream%20from%20human%20minds%2C%20at%20least%20for%20now.%20This%20co%2Devolutionary%20neccessity%2C%20to%20simultaneously%20uplevel%20ourselves%20while%20building%20AI%20for%20a%20thriving%20future%2C%20cannot%20be%20overstated.)
-
-> "Belief systems are the gears of society, determining speed and torque. They’re the most powerful technology to facilitate mass human cooperation and also one of our biggest liabilities. Belief systems are also serious business. More people have died from conflict over belief systems than any other cause in history." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=Belief%20systems%20are,cause%20in%20history.)
-
-> "We now need more inclusive belief systems that recognize the interconnected nature of our fates, versus those that just opt to take care of a singular tribe at the expense of everyone else. We share a single planet, and whether we like it or not, we’re in this together." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=We%20now%20need%20more%20inclusive%20belief%20systems%20that%20recognize%20the%20interconnected%20nature%20of%20our%20fates%2C%20versus%20those%20that%20just%20opt%20to%20take%20care%20of%20a%20singular%20tribe%20at%20the%20expense%20of%20everyone%20else.%20We%20share%20a%20single%20planet%2C%20and%20whether%20we%20like%20it%20or%20not%2C%20we%E2%80%99re%20in%20this%20together.)
-
-> "The faster we can create new belief systems to encourage mass cooperation towards our collective well-being, in this life, the higher our probability that we’ll each get the things we most care about." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=The%20faster%20we%20can%20create%20new%20belief%20systems%20to%20encourage%20mass%20cooperation%20towards%20our%20collective%20well%2Dbeing%2C%20in%20this%20life%2C%20the%20higher%20our%20probability%20that%20we%E2%80%99ll%20each%20get%20the%20things%20we%20most%20care%20about.)
-
-> "What if instead of destroying our enemies we destroy the concept of enemies?" - [Rebooting the Brain, by Bryan Johnson](https://medium.com/future-literacy/rebooting-the-brain-9ff6a83dedaa#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImU0YWRmYjQzNmI5ZTE5N2UyZTExMDZhZjJjODQyMjg0ZTQ5ODZhZmYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTc4MjY4OTY1MDA1MjYxOTE4ODUiLCJlbWFpbCI6InZpay5raXJpbG92QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJuYmYiOjE3MDE4NTIyMTEsIm5hbWUiOiJWaWt0b3IgS2lyaWxvdiIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NKLXF4V3RlUlFSWEh1Mkh3MXNuenBSNzl0ek9sSjl4T29TSjlPbF9mWDVzS3VKPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlZpa3RvciIsImZhbWlseV9uYW1lIjoiS2lyaWxvdiIsImxvY2FsZSI6ImVuIiwiaWF0IjoxNzAxODUyNTExLCJleHAiOjE3MDE4NTYxMTEsImp0aSI6ImVlNjZlOWJkNzdkNTA5YmQxNzE5MWQ4YWQwZWE2ZTVlNTA0YTg4MjAifQ.jKoBilcKU53d8eLBxjvhbN3ICjzRfqFrkJENCCX__hYKqfrFvSEUwDyPLTfp-gh1ytuu_D4XBctyAM9By-cvIEJXyP4lQtp6V5zzKW3UUJvexnYWRw6qsYTmjSeElK8eLw6XRNbuVQL70-ipZ7dNMN9foYBjbijJq1xPiJo0j6eUzy6Q-CvzJFHgVwhZpjyqvoPWQcda5LH5Ao6EpNtZYQ8mrQmnRmRP3cxEIViBDb0Je8UH50lNcsflt6yjL9i7LG4aLhzLKGhvmOLi1GBkw-71UCG7JnKXenjslJQwkmpXywSZnA5SHuGuwcLa4JjYgkMHt96ZMCbkurG_4vTufA:~:text=What%20if%20instead%20of%20destroying%20our%20enemies%20we%20destroy%20the%20concept%20of%20enemies%3F)
-
-
-> "If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." - [Antoine de Saint-Exupéry](https://www.goodreads.com/quotes/384067-if-you-want-to-build-a-ship-don-t-drum-up)
-
-
-The bias blind spot is the cognitive bias of recognizing the impact of biases on the judgment of others, while failing to see the impact of biases on one's own judgment.
-https://en.wikipedia.org/wiki/Bias_blind_spot
-
-Cognitive bias cheat sheet
-https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18
-
-cognitive bias codex
-https://de.m.wikipedia.org/wiki/Datei:Cognitive_bias_codex_en.svg
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cognitive_bias_codex_en.svg/2560px-Cognitive_bias_codex_en.svg.png
 
 
 
-https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_vignette
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -235,9 +142,8 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 
 
-> "No man should escape our universities without knowing how little he knows." - [J. Robert Oppenheimer](https://www.goodreads.com/quotes/214009-no-man-should-escape-our-universities-without-knowing-how-little)
 
-> "We thought we might start a chain reaction that would destroy the entire world... I believe we did." - [J. Robert Oppenheimer, from the movie](https://www.imdb.com/title/tt15398776/quotes/?item=qt6977002&ref_=ext_shr_lnk)
+
 
 
 
@@ -2184,7 +2090,7 @@ learning in public - the best form of career progression
 
 compounding is the root of all progress, but in today's world it's mostly expressed as monetary interest and knowledge and reputation to a much lesser extent. We've let claims on resources to dictate way too much - we need to tilt the scales
 
-Meritocracy is computable and open-source
+
 
 Uris: what if the 3rd and 4th number are all zeroes and that means that is a “named” resource that should be resolved differently?
 
@@ -2682,8 +2588,6 @@ But what is a functional individual? Let's inspect a debate map
 
 Trying is not good enough
 
-Meritocracy is the last revolution to be had
-
 We are at an evolutionary choke point and the only way through it is through a conscious strategy which will be implemented and carried forward through governance
 
 Many people hate profit - they misunderstand capitalism, incentives & human nature
@@ -2765,8 +2669,6 @@ What does a fully reusable and sustainable food chain look like - including from
 A reverse panopticon
 
 We are each forever students and teachers
-
-Meritocracy is true alignment and a prerequisite for consciousness
 
 People have absolutely no clue how much more we could optimize the system
 
@@ -3339,9 +3241,7 @@ The market is a centuries old innovation in collective intelligence and self-org
 Financial prediction markets are a spec of what status based prediction markets could be
 Also financial prediction markets are illegal in the US?
 
-Meritocracy is a beautiful concept - the current implementation is what sucks
-
-Yuval noah hrarri talks about the growing number of useless humans as more and more gets automated away and they are no longer necessary economically or are incapable of contributing economically - few people have had the guts to openly talk about that. But what if we could design a system where there were no such people?
+Yuval noah harrari talks about the growing number of useless humans as more and more gets automated away and they are no longer necessary economically or are incapable of contributing economically - few people have had the guts to openly talk about that. But what if we could design a system where there were no such people?
 
 Quote - the purpose of a system is what it does - our system elects getiantrics because thats its purpose
 
@@ -3668,14 +3568,9 @@ God infrastructure
 
 A protocol as the kernel of cooperation
 
-The division of power should not be about the 2-3 branches of government but about different areas of competency
+The division of power should not be about the 2-3 branches of government but about compartmentalized competency & legitimacy in different areas
 
-Capitalism as alignment 1.0 - What’s its essence?
-Collective intelligence
-Competition and evolution
-Self-interest - human nature
-Meritocracy
-Responsibility skin in the game
+
 
 Sectoral currency
 A sectoral currency is a form of complementary currency that is restricted to a specific sector. Examples of sectoral currency are the Saber, which is restricted to the educational sector and thus can only be used to buy education, and the Fureai kippu, which is restricted to the health care sector.
@@ -3820,8 +3715,6 @@ When someone with a high status builds upon (or at least signal-boosts or approv
 What if we could view the alignment of the financial incentives of anyone towards us as a hostility score?
 
 Computational accountability
-
-Aligning meritocracy
 
 Matchmaking chapter
 
@@ -7757,11 +7650,6 @@ the world needs more transparency, accountability, and truth
 
 
 
-The goal is for this idea to spread by word of mouth
-
-meritocracy as a chapter - an idea battleground
-
-part of strategy: spread with word of mouth
 
 network owners & delegators can vote not only on the revenue for the system, but also for future projections - their intentions for the system for 1, 2, 5 years onwards with varying degrees of levels of commitment - this way users of the network (actual apps & services) will be able to forecast the costs of operation for this network. Predictability & a minimalistic design without much governance is perfect for businesses to be built on top of it
 

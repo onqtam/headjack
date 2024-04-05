@@ -284,6 +284,13 @@ Why does Nate Hagens always ask his guests at the end of the show about the one 
 > "To attain knowledge, add things everyday. To attain wisdom, remove things every day." - [Lao Tzu](https://www.goodreads.com/quotes/30297-to-attain-knowledge-add-things-everyday-to-attain-wisdom-remove)
 
 
+> "To develop the skill of introspection and correct thinking is to learn — in the first place — what you have to disregard. The ineffectiveness of natural thinking comes from being overwhelmed by an infinity of possibilities and facts. In order to go on, you have to know what to leave out; this is the essence of effective thinking." - [Kurt Gödel](https://medium.com/catalyzingcoherence/a-meditation-on-diversity-equality-and-humanity-48008cd197a#:~:text=To%20develop%20the,of%20effective%20thinking.)
+
+> "Things which matter most must never be at the mercy of things which matter least." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy)
+
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Top10 lists
 ██████████████████████████████████████████████████████████████████
