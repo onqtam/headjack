@@ -1042,7 +1042,7 @@ Massachusetts Institute of Technology
 
 > "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen & others](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
 
-> "" - [FITNESS AS DEFAULT: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
+> "" - [Fitness as default: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
 
 > "" - [Social Systems Programming: Behavioral and Emotional Mechanisms Co-opted for Social Control](http://pespmc1.vub.ac.be/Papers/SSP2mechanisms.pdf)
 
