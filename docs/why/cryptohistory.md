@@ -180,8 +180,11 @@ The argument that specialized message types are unnecessary because AI will even
 
 > "Finally, self-authenticating data provides more mechanisms that can be used to establish trust. Self-authenticated data can retain metadata, like who published something and whether it was changed. Reputation and trust-graphs can be constructed on top of users, content, and services. The transparency provided by [verifiable computation](https://en.wikipedia.org/wiki/Verifiable_computing) provides a new tool for establishing trust by showing precisely how the results were produced. We believe verifiable computation will present huge opportunities for sharing indexes and social algorithms without sacrificing trust, but the cryptographic primitives in this field are still being refined and will require active research before they work their way into any products." - [bluesky](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol)
 
+██████████████████████████████████████████████████████████████████
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
+██████████████████████████████████████████████████████████████████
 
+> "The problem with the "copy other people's beliefs" algorithm is that it is vulnerable to false information cascades. And when a small but powerful adversarial group controls the seed point for many people's beliefs (such as being able to control the scientific process to output chosen falsehoods), you can end up with an entire society believing an absurd falsehood that happens to be very convenient for that small, powerful adversarial subgroup." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
 > "If you think about what peer review is, it’s the exact opposite of what peer review should mean. “Peer review” should mean that you publish your article, and then the peers in the community review it, but in fact what it is is peer suppression. You take your article and you mail it off to somebody who you don’t know. That person gets an early look at it. They might hold it up in review. They then inflict any changes that they want, or they reject it for reasons that make no sense. And then it’s handed back to you.
 >

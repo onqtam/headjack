@@ -73,10 +73,26 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 > "It is not a matter of what is true that counts, but a matter of what is perceived to be true." - [Henry Kissinger](https://www.goodreads.com/quotes/40934-it-is-not-a-matter-of-what-is-true-that)
 
 
+> "With great power, comes power to avoid responsibility." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1720575694886072697)
+
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Accountability
+# SECTION: Moral hazzards, Opaqueness & Plausible Deniability
 ██████████████████████████████████████████████████████████████████
+
+> "'Moral laundry': as GameA operates on long chains of opaque point-to-point transactions, we all have plausible deniability for bad things done in our name. For example, the $1/day children mining cobalt and coltran at gun point in eastern Congo for our cell phones and EVs.
+>
+> An implication: If GameB has signaling systems that make bad things more legible, GameA can outcompete GameB in a strictly material sense because GameB will forgo doing bad but profitable things.
+>
+> To bring GameB into being from within GameA will require a moral awakening such that we are no longer willing to tolerate moral laundry on our behalf, even when it provides a material advantage." - [Jim Rutt](https://twitter.com/jim_rutt/status/1754876281148047809)
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Opaqueness & Accountability
+██████████████████████████████████████████████████████████████████
+
+
 
 https://www.youtube.com/watch?v=e_ZDQKq2F08
 1994 - Tobacco Company CEOs Testify Before Congress
