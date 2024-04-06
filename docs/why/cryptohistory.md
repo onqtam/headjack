@@ -16,7 +16,7 @@ The highest standards of history are permanence and authenticity
 source? I made it up
 https://pbs.twimg.com/media/Fzphul-acAED4dj.jpg
 
-
+> "The written word endures, the spoken word disappears." - [Neil Postman](https://www.azquotes.com/quote/488630)
 
 > "I have been to the darkest corners of government, and what they fear is light." - [Edward Snowden](https://www.azquotes.com/quote/577721)
 
