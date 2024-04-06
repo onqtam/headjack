@@ -75,6 +75,11 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "With great power, comes power to avoid responsibility." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1720575694886072697)
 
+> "If politics is like show business, then the idea is not to pursue excellence, clarity or honesty but to appear as if you are, which is another matter altogether." - [Neil Postman](https://www.azquotes.com/quote/500222)
+
+> "The price of maintaining membership in the establishment is unquestioning acceptance of authority." - [Neil Postman](https://www.azquotes.com/quote/823457)
+
+> "If you can manufacture the right social consensus, control the key nodes in our social epistemology-plex, you can get away with just about anything and nobody will care, except a few very determined contrarians. But I will not go gentle into that good night." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Moral hazzards, Opaqueness & Plausible Deniability

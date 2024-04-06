@@ -59,3 +59,10 @@
 > The system I'm describing aims to be more like science than religion, where the crucial difference is that different schools of scientific thought can diverge for a while, but ultimately converge, whereas religions only ever diverge and never converge (barring extinction)...
 >
 > The UI each user sees may look very similar to Hacker News, but the voting would work differently. An upvote or a downvote implies strengthening or weakening the connection of the user to the other user(s) that were the conduits to get any particular item visible to this user. The ultimate result of such a dynamic, distributed, weighted and directed graph would be for the overall system to start operating as a bayesian network. Cycles may occur, and can be resolved using known methods from BN literature." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1450012197262741510)
+
+
+
+> "The whole problem with news on television comes down to this: all the words uttered in an hour of news coverage could be printed on a page of a newspaper. And the world cannot be understood in one page." - [Neil Postman](https://www.azquotes.com/quote/891564)
+
+> "It is inescapable that every culture must negotiate with technology, whether it does so intelligently or not. A bargain is struck in which technology giveth and technology taketh away." - [Neil Postman](https://www.azquotes.com/quote/732989)
+
