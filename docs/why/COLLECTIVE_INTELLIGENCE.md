@@ -9,8 +9,13 @@ alternative titles:
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Cognitive biases
+# SECTION: Cognitive Biases & Evolutionary Psychology
 ██████████████████████████████████████████████████████████████████
+
+
+> "There is no scientific study more vital to man than the study of his own brain. Our entire view of the universe depends on it." - [Francis Crick](https://www.goodreads.com/quotes/148594-there-is-no-scientific-study-more-vital-to-man-than)
+
+> "We admit that we are like apes, but we seldom realize that we are apes." - [Richard Dawkins](https://www.goodreads.com/quotes/109266-we-admit-that-we-are-like-apes-but-we-seldom)
 
 > "No man should escape our universities without knowing how little he knows." - [J. Robert Oppenheimer](https://www.goodreads.com/quotes/214009-no-man-should-escape-our-universities-without-knowing-how-little)
 
@@ -40,6 +45,17 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 > "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
 
+
+> "[Corroborating evidence](https://en.wikipedia.org/wiki/Corroborating_evidence) - Learning something from multiple sources, as unrelated as possible, should increase our confidence that it happened." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1423702201663320064)
+
+
+> "The FEP states that living organisms are dynamical systems that are separated from their environment by an interface. We will refer to these living organisms as ‘agents’ for the sake of convenience going forward, since all living organisms sense their environment and act in response to those sensations... Crucially, this interface separates both the environment from the agent and the agent from its surroundings, allowing it to exist as a self-contained and autonomous entity. Agents therefore always necessarily receive sensory information and act through this interface. They never have unmediated access to what is going on in the environment, and as a result always have to guess (or infer) what is the true state of the world based on the information they have access to. According to the FEP, all agents act, as best as they can, to minimize the errors in their guesses about the environment. These errors can be quantified by a metric called ‘free energy,’ and the better an agent can minimize it over time, the better chance the agent has of staying alive and maintaining itself. To understand it intuitively, think of free energy as a measure of surprise or uncertainty." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+> "The minimization of free energy is not an end in itself. It is ultimately in service of the maintenance of the agent as an individual separated from its environment. Agents do this by attempting to remain in a state of homeostasis. All living agents have some sense of what that homeostasis for them should be, even if it is only represented implicitly within the structure of the agent itself. In the same way that sensory prediction errors increase free energy, so do deviations from the desired homeostasis of the agent, as the homeostatic set points of an agent itself are another kind of prediction about the world." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+> "An interesting aspect of the FEP is that it can often produce behavior which paradoxically doesn’t seem like error minimization, at least in the short-term. Let’s imagine that someone moves to a new neighborhood they are unfamiliar with. They could choose to stay inside their new home, which would indeed allow them to minimize any prediction errors that would arise from the novel environment. On the other hand, they could go outside and explore their new surroundings. Doing the latter will produce many more short-term prediction errors. In the long run though it will allow them to avoid even bigger surprises in the future. It is this dynamic of long-term free energy minimization that can account for various forms of exploration, adventure, and industry which we are motivated to engage in." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
+
+> "We humans distinguish ourselves from other living agents by our ability to not only react to the environment but also establish goals and then set out to accomplish them. This might seem to be a challenge for a theory which suggests that all behavior is in the service of entropy minimization, but the FEP accounts for this quite elegantly as well. In this view, when we set a goal for ourselves, we are making a special kind of prediction about the world. This prediction is one that we know goes against the current sensory evidence, thus increasing free energy. Instead of updating our beliefs to account for the world (and in essence give up on the goal), what we do instead is to set out to act in the world in order to ensure that the sensory evidence corresponds to our prediction, and minimize the free energy in the process... We make a prediction about how we would like the world to be, and then act in order to make that prediction come true." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
 
 
 ██████████████████████████████████████████████████████████████████

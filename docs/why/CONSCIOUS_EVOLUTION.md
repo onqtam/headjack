@@ -26,6 +26,8 @@
 
 > "If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." - [Antoine de Saint-Exupéry](https://www.goodreads.com/quotes/384067-if-you-want-to-build-a-ship-don-t-drum-up)
 
+> "People say we are playing God. My answer is: If we don't play God, who will?" - [James D. Watson](https://www.goodreads.com/quotes/969873-people-say-we-are-playing-god-my-answer-is-if)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████

@@ -147,61 +147,22 @@ https://stackoverflow.com/help/privileges
 
 
 
-> "The system of my dreams is about clustering together enough people with enough care and discernment so that at least they, for themselves and each other, can align with reality as much as possible, despite the fact that many others don't want to or care to." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1753121934425158116)
-
-
-
-> "I've been hinting in various conversations about a distributed news aggregator design...
->
-> The obvious weakness was governance in the human layer. So long as moderation of any community can't be distributed, all the distributed infrastructure in the world won't help you when your Admins with God Powers get subjected to [rubber hose cryptanalysis](https://www.h-i-r.net/2009/02/rubber-hose-cryptanalysis-and-how-to.html).
->
-> ...the main problem: any algorithmically guarded objective "center" would become gamed by intelligent and motivated actors.
->
-> What I didn't know at the time, but learned later, is that I was describing a sub-case of [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law), as applied to large-scale networked systems.
->
-> There are 2 possible ways around the problem. 
->
-> 1. peer-to-peer systems with skin-in-the-game
->
-> 2a. multi-channel triangulation
->
-> 2b. predictions (aka. motion parallax of time)
->
-> 1/ Peer-to-peer systems with skin in the game are exemplified in the Web of Trust concept. The main innovation here is that there is no central object to capture, and every agent speaks only for itself and its connections. With no central "home page" or other global object, [Sybil attacks](https://www.sciencedirect.com/topics/computer-science/sybil-attack) lose their potency, especially when the agents in the system keep track over time and losing a long-aged/highly-trusted account becomes costly as the agent has to start over from scratch.
->
-> 2. While this kind of approach will get us to a place somewhat similar to Twitter (minus the "trending" centralized object), we want to build a community that is more truth-oriented than Twitter. This is where triangulation and "the motion parallax of time" (aka. predictions) come into play. The shared, un-gameable global object all participants have access to is called "underlying reality", featuring the passage of time... Someone building a predictive record with a history of being more correct than others, creates a hard-to-fake signal for the objective value of this account. And much in the spirit of the ELO rating system in chess, observers can then use these predictions to construct a mostly-objective ranking of the various pundits in their field of vision. It may require them to be able to mostly-correctly identify whose predictions have been correct in the past, but that is a far easier task than predicting the future or choosing between different pundits arguing over an issue without access to prior track records. It's up to each agent to evaluate others' track record, and they have skin in the game to lose.
->
-> The system I'm describing aims to be more like science than religion, where the crucial difference is that different schools of scientific thought can diverge for a while, but ultimately converge, whereas religions only ever diverge and never converge (barring extinction)...
->
-> The UI each user sees may look very similar to Hacker News, but the voting would work differently. An upvote or a downvote implies strengthening or weakening the connection of the user to the other user(s) that were the conduits to get any particular item visible to this user. The ultimate result of such a dynamic, distributed, weighted and directed graph would be for the overall system to start operating as a bayesian network. Cycles may occur, and can be resolved using known methods from BN literature." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1450012197262741510)
-
-
-> "[Corroborating evidence](https://en.wikipedia.org/wiki/Corroborating_evidence) - Learning something from multiple sources, as unrelated as possible, should increase our confidence that it happened." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1423702201663320064)
 
 
 
 
 
-> "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
-
-
-> "Instead of the story emerging according to the facts, the facts emerge according to the prevailing story." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
-
-> "The only way out is through. We need to continue building even deeper and broader understanding of dynamics of narrative, and designing institutions that are structurally incapable of bending their output towards one or another official's preferred narrative. As a simple example, the CDC is currently responsible both for gathering and analyzing information around disease prevalence, and also making policy recommendations. In a narrative-aware world, we'd realize that this creates an irresistible temptation to control the data that is released so that the policy recommendations can seem more correct than they were. In that world those two functions would never be allowed to co-exist in the same organization.
->
-> On the individual level, we need to rebuild our sensemaking mechanisms to assume that every piece of information we receive is colored by corrupt incentives, much like we refactored the technology stack of the internet away from the initial naive assumptions and towards security- and encryption-by default. Many areas of human endeavor, such as international diplomancy or even most business-to-business transactions already work on such principles, so it's nowhere near as onerous as it may seem. We just need to stop hoping that there is some far-away uncorrupted group of elders that will give us truth on a platter." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
 
 
 
-> "'Moral laundry': as GameA operates on long chains of opaque point-to-point transactions, we all have plausible deniability for bad things done in our name. For example, the $1/day children mining cobalt and coltran at gun point in eastern Congo for our cell phones and EVs.
->
-> An implication: If GameB has signaling systems that make bad things more legible, GameA can outcompete GameB in a strictly material sense because GameB will forgo doing bad but profitable things.
->
-> To bring GameB into being from within GameA will require a moral awakening such that we are no longer willing to tolerate moral laundry on our behalf, even when it provides a material advantage." - [Jim Rutt](https://twitter.com/jim_rutt/status/1754876281148047809)
 
 
 
-> "The problem with the "copy other people's beliefs" algorithm is that it is vulnerable to false information cascades. And when a small but powerful adversarial group controls the seed point for many people's beliefs (such as being able to control the scientific process to output chosen falsehoods), you can end up with an entire society believing an absurd falsehood that happens to be very convenient for that small, powerful adversarial subgroup." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
+
+
+
+
+
 
 > "If you can manufacture the right social consensus, control the key nodes in our social epistemology-plex, you can get away with just about anything and nobody will care, except a few very determined contrarians. But I will not go gentle into that good night." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
@@ -1130,8 +1091,6 @@ https://twitter.com/disclosetv/status/1678387920955232259
 > "Focusing on the process of natural selection, de Duve explores the inordinate and now dangerous rise of humankind.  His explanation for this self-defeating success lies in the process of natural selection, which favors traits that are immediately useful, regardless of later consequences. Thus, the human genome determines such properties as tribal and group cohesion and collaboration and often fierce and irrational competition with and hostility toward other groups’ attributes that were once useful but now often ruinously dysfunctional. Christian de Duve suggests that these traits, imprinted into human nature by natural selection, may have been recognized by the writers of Genesis, thus inspiring the myth of original sin." - [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
 
 
-
-> "With great power, comes power to avoid responsibility." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1720575694886072697)
 
 
 
@@ -5074,11 +5033,8 @@ But a problem not fully understood is unsolvable.
 > "I think if there were a highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing - that actually can give the harvards and the yales of the world a run for their money. I think that might be the most positive thing we could do to deal with a lot of these problems." - [Greg Lukianoff](https://youtu.be/buarAx_u2qg?t=8883)
 
 
-> "People say we are playing God. My answer is: If we don't play God, who will?" - [James D. Watson](https://www.goodreads.com/quotes/969873-people-say-we-are-playing-god-my-answer-is-if)
 
 
-
-> "We admit that we are like apes, but we seldom realize that we are apes." - [Richard Dawkins](https://www.goodreads.com/quotes/109266-we-admit-that-we-are-like-apes-but-we-seldom)
 
 > "Any altruistic system is inherently unstable, because it is open to abuse by selfish individuals, ready to exploit it." - [Richard Dawkins](https://www.goodreads.com/quotes/567499-any-altruistic-system-is-inherently-unstable-because-it-is-open)
 
@@ -5099,11 +5055,9 @@ But a problem not fully understood is unsolvable.
 
 
 
-> "There is no scientific study more vital to man than the study of his own brain. Our entire view of the universe depends on it." - [Francis Crick](https://www.goodreads.com/quotes/148594-there-is-no-scientific-study-more-vital-to-man-than)
 
 
 
-> "An educational system that trains critical thinkers is incompatible with a system of government that requires the truth to be hidden. An empire of lies must devour its own children to survive." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1694068816425238663)
 
 
 
