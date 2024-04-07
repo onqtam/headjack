@@ -223,6 +223,9 @@ top10 to watch
 - How Complexity Economics Can Save the World, by Eric Beinhocker
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
+top10 channels
+- Ashley's The New Enlightenment
+
 The 14 minute animation in top10
 IN-SHADOW - A Modern Odyssey - Animated Short Film
 https://www.youtube.com/watch?v=j800SVeiS5I
