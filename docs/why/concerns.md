@@ -243,7 +243,7 @@ What if there are unintended social dynamics such as pressure to make public you
 
 takedown requests & liability
 
-adding incentives might have the opposite effect of what was intended/desired - adding a penalty for picking up your kids later results in more parents being late to pick up their kids and simply paying for this extra child care and relief, and many other such examples
+adding incentives might have the opposite effect of what was intended/desired - adding a penalty for picking up your kids later results in more parents being late to pick up their kids and simply paying for this extra child care and relief (a fine becomes simply a price), and many other such examples
 
 # to address in other pages:
 
