@@ -2678,7 +2678,7 @@ Problems with prediction markets with money:
 - Discounting of the future
 - user resolved markets & the oracle problem & fraud
 - many bets on the same side may have totally different arguments for their reasoning and different strategies for next steps but all that is lost
-
+- illegal in the US because similar to casinos
 
 
 Symbiotic intelligence = collective + artificial
