@@ -2679,6 +2679,7 @@ Problems with prediction markets with money:
 - user resolved markets & the oracle problem & fraud
 - many bets on the same side may have totally different arguments for their reasoning and different strategies for next steps but all that is lost
 - illegal in the US because similar to casinos
+- responsibility & accountability get diffused/obfuscated - what if the penalty should be more than simply losing X amount of money but maybe the right on betting in this domain in the future altogether?
 
 
 Symbiotic intelligence = collective + artificial
