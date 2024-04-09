@@ -44,7 +44,7 @@ Its all about education - it never stops - not just 24 years - for life. For any
 Harvard is a perverse concept
 
 The root of the metacrisis is an education crisis (Zak Stein)
-also a legitimation & teacherly authority crisis
+also a legitimation & teacherly authority crisis - its not just a technological problem
 Education is the autopoietic root of society - the way it propagates/maintains/reproduces itself
 
 > "At its best, schooling can be about how to make a life, which is quite different from how to make a living." - [Neil Postman](https://www.azquotes.com/quote/234881)
