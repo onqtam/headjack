@@ -39,6 +39,11 @@
 # SECTION: Education & development
 ██████████████████████████████████████████████████████████████████
 
+TODO: quote from here (from a teacher in NY) about how broken public schooling is
+https://www.youtube.com/watch?v=204qp-YS5Nw
+Zak Stein - The Education Crisis Elevating Consciousness Podcast #
+from minute 9:44 till 13:05
+
 Its all about education - it never stops - not just 24 years - for life. For anything. At any time.
 
 Harvard is a perverse concept
