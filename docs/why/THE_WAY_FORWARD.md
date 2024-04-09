@@ -41,10 +41,12 @@
 
 TODO: quote from here (from a teacher in NY) about how broken public schooling is
 https://www.youtube.com/watch?v=204qp-YS5Nw
-Zak Stein - The Education Crisis Elevating Consciousness Podcast #
+Zak Stein - The Education Crisis Elevating Consciousness Podcast
 from minute 9:44 till 13:05
 
 Its all about education - it never stops - not just 24 years - for life. For anything. At any time.
+
+What if school work was not something that ends up thrown away but was aimed at contributing to society? What if all their work was meaningful and not thrown away once graded? They feel like their work is pointless & ineffectual. They're forced into non-seriousness. We're creating a kind of immaturity. (All thoughts from here: https://www.youtube.com/watch?v=204qp-YS5Nw Zak Stein - The Education Crisis Elevating Consciousness Podcast)
 
 Harvard is a perverse concept
 
