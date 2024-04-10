@@ -50,6 +50,8 @@ What if school work was not something that ends up thrown away but was aimed at 
 
 Harvard is a perverse concept
 
+One upside of having kids learn & compete on serious real world issues in public building a track record is that by the time they're 25-30 they'll have more to show and prove than most 40-50 year olds and could make a serious claim to legitimacy in governance - a way to fix our gerintocracy.
+
 The root of the metacrisis is an education crisis (Zak Stein)
 also a legitimation & teacherly authority crisis - its not just a technological problem
 Education is the autopoietic root of society - the way it propagates/maintains/reproduces itself
