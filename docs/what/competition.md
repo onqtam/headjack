@@ -490,6 +490,9 @@ competition page: batching & compactness (FC does have some fancy hub sync)
 
 farcaster is too opinionated
 
+scaling issues abound
+https://twitter.com/varunsrin/status/1775652290961301725
+
 Key rotation in competition - for lens perhaps account abstraction would help
 
 Farcaster: with or without CRDTs you should be processing everything anyway, and with a simple fork choice rule you wouldnt need crdts
