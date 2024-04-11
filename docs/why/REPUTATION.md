@@ -129,6 +129,8 @@ Problems with democracy and voters:
 # SECTION: Reputation & skin in the game
 ██████████████████████████████████████████████████████████████████
 
+https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
+
 > "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
 
 having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit

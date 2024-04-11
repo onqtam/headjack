@@ -1204,7 +1204,7 @@ Legitimacy needs to be CONTINUALLY earned
 
 what if we could track and visualize the progress of anyone in anything within their  knowledge tree and simply pick publickly the best ones - and make working in public the only way of legitimizing power
 
-what would society look like if it was run by those with a high H index in academia? And what if we could also fix all the flaws in academia?
+what would society look like if it was run by those with a high [H-index](https://en.wikipedia.org/wiki/H-index) in academia? And what if we could also fix all the flaws in academia?
 https://youtu.be/slURwmgTZbc?t=270
 
 What if one of the measures of a society was how many people can fully comprehend and explain Goedel's incompleteness theorem?

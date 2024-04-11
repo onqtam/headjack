@@ -45,11 +45,15 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 https://www.lesswrong.com/tag/futarchy
 
+https://mason.gmu.edu/~rhanson/futarchy.html
+
 https://www.wired.com/1995/09/hanson-if/
 
 https://www.metaculus.com/help/faq/#metaculus-prediction
 
 https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
+
+https://en.wikipedia.org/wiki/Prediction_market
 
 
 
