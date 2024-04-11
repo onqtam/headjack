@@ -7,6 +7,13 @@
 
 > "Belief systems are the gears of society, determining speed and torque. They’re the most powerful technology to facilitate mass human cooperation and also one of our biggest liabilities. Belief systems are also serious business. More people have died from conflict over belief systems than any other cause in history." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=Belief%20systems%20are,cause%20in%20history.)
 
+
+wheeler eye
+https://www.organism.earth/library/document/participatory-universe
+https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-universe.jpg
+
+> "Big history is about placing ourselves in relationship to the universe on the dimensions of time and complexity." - [What Is Big History and Why Does It Matter? by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202312/what-is-big-history-and-why-does-it-matter#:~:text=Big%20history%20is%20about%20placing%20ourselves%20in%20relationship%20to%20the%20universe%20on%20the%20dimensions%20of%20time%20and%20complexity.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
@@ -100,7 +107,7 @@ This as the section for matchmaking and with the leary quote
 
 > "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
 
-Religions are literally false but metaphorically true
+Religions are literally false but metaphorically true - Brett Weinstein
 What if we could make a literally true one?
 
 God design
@@ -303,6 +310,22 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 > "We can plunder all the religious and philosophical history and check out what were the ideas that really survived what were ideas that were timeless and that turns out to be the ideas that concerned humans and what were the ideas that were time specific oh they turned out to be the the concern technology that concerned equality is like learning and reading and speaking and writing or whatever we humans do or artistic expression okay that's what changes over time now if we know that if you see that pattern we can then construct a value system that works for us today and because it concerns a new paradigm as nietzsche would say and we have a freedom then to be creative about this we call that process paradigmatics so what we're creating today is a system of values that work for us and that development is with metamodernism for example today's interest it is interested in what kind of values do we co-create here so we get the really creative discussion and conversation but also that the little genius among us that need their own space to work in the little monasteries to construct whatever they can construct can also do that and so we can also embrace that engineers and traders are creating enormous value and they need our support they might even need some kind of religious direction." - [Alexander Bard](https://youtu.be/BmV9tdYyUUE?t=4657)
 
+> "Our point in offering this obviously oversimplified history is that our understanding of Religion today is very different from what it has been through the vast majority of human life. The problems this difference has led to are the key point of our blog. For most of human history, Religion was not merely a matter of worshipping supernatural gods. Rather, it provided what historian David Christian calls, in his book Origin Stories, a “shared map,” the myth by which members of a community could navigate our “rich, beautiful and sometimes terrifying universe.”
+>
+> This map enabled both individuals and societies to take on tasks such as developing a shared interpretation of the world, a common identity, and a set of behavioral standards. In fact, it was so deeply integrated into society that the first pre-modern scientists—the astronomers of Babylon and Egypt—were priests. “Religion” was not separate from the rest of social behavior; it provided the compass for that behavior." - [What Is Religion? How theism is different from religion, by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/what-is-religion#:~:text=Our%20point%20in,for%20that%20behavior.)
 
+> "Many in the West think of Religion in terms of believing in a supernatural God. A better term for this is theism, and we do not think it is wise to equate the concept of Religion to theism." - [Religion: Why We Need to Regain a Mythos, by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/religion-why-we-need-to-regain-a-mythos#:~:text=Many%20in%20the%20West%20think%20of%20Religion%20in%20terms%20of%20believing%20in%20a%20supernatural%20God.%20A%20better%20term%20for%20this%20is%20theism%2C%20and%20we%20do%20not%20think%20it%20is%20wise%20to%20equate%20the%20concept%20of%20Religion%20to%20theism.)
+
+> "To understand what we mean by mythos, we need to examine how the human brain organizes conscious experience around a symbolic order. Terrence Deacon calls this ordering the “defining attribute of human beings.” That symbolic order enables people in any community to interpret their world so that they can cooperate in meeting the deepest challenges to their survival. As a result, culture creates a shared virtual reality. The beliefs and values of any community emerge from their symbolic order, and, especially in pre-literate societies, that order is communicated in its mythos." - [Religion: Why We Need to Regain a Mythos, by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/religion-why-we-need-to-regain-a-mythos#:~:text=To%20understand%20what,its%20mythos.)
+
+> "Because people in any society are repeatedly exposed to their mythos and the rituals that celebrate it, they learn to think in the terms of their symbolic order and build institutions that reflect it." - [Religion: Why We Need to Regain a Mythos, by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/religion-why-we-need-to-regain-a-mythos#:~:text=Because%20people%20in%20any%20society%20are%20repeatedly%20exposed%20to%20their%20mythos%20and%20the%20rituals%20that%20celebrate%20it%2C%20they%20learn%20to%20think%20in%20the%20terms%20of%20their%20symbolic%20order%20and%20build%20institutions%20that%20reflect%20it.)
+
+> "People need a structure of understanding to explain both why things are the way they are and what is the right way to live, which are implied in their symbolic orders. As a result, they face at least two fundamental challenges—justifying what is the case and justifying what ought to be the case. We can call the first the problem of facts and the second the problem of values." - [Religion: Why We Need to Regain a Mythos, by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/religion-why-we-need-to-regain-a-mythos#:~:text=people%20need%20a,problem%20of%20values.)
+
+> "We can frame religion in terms of the belief-value networks that emerge from our symbolic orders and shape how we see and experience value in the universe, in our collective groups, and in our personal lives. It relates to what binds us together in a story, what gives meaningful shape to the cosmos, and what places us in a network with others that enables us to determine what is sacred or transcendent.
+>
+> This analysis allows us to see clearly why we are facing something of a meaning crisis, especially in the West. In concrete terms, the Christian justification system that emerged in Europe developed both a theistic Religion and a natural philosophy. However, as the natural philosophy grew into natural science, it generated a justification system that undermined a theistic worldview and its dual worlds of heaven and earth. Instead, what we were left with via science was a fairly cold description of “what is,” and essentially no justification system for what ought to be.
+>
+> We believe that humans need to have coherent justifications for both what is the case and what ought to be the case. We can see through the Greek terms “logos” and “mythos” that these are two different kinds of justifications, but we need them both. Science has given us a good way to develop our logos. However, it has not been framed in a way that also is conducive to cultivating a mythos that gives us a shared narrative for how we ought to live in the world. We believe this is one of the great tasks of this century." - [Religion: Why We Need to Regain a Mythos, by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/religion-why-we-need-to-regain-a-mythos#:~:text=we%20can%20frame,of%20this%20century.)
 
 
