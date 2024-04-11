@@ -262,8 +262,8 @@ Top 10 most important podcasts
 - The Great Simplification
 - Rebel Wisdom
 - The Jim Rutt Show
-- 80,000 Hours Podcast
 
+- 80,000 Hours Podcast
 - The Truth with Carlos Farias
 - Metamodern Spirituality
 - The knowledge project
