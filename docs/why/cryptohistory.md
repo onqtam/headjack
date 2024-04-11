@@ -188,11 +188,23 @@ TODO: finish reading from this sentence onwards:
 There are many reasons why scientific communication is so hard.
 https://consilienceproject.org/an-infodemic-plaguing-the-pandemic-response/
 
-> "" - [The Religion of Science And Its Consequences]()
+> "One may build an elaborate mechanical process, as we surely have with all the grants, journals, and peer review, but that process won’t produce truth if the people are not exercising sound judgment in the pursuit of it.
+>
+> Reforms aimed at academic institutions usually set their sights on procedural changes, operating under the belief that tweaking the machine can fix its output. Yet, what remains largely unaddressed is that many scientists are less interested in the truth and more in worldly pursuits: grants, promotions, status, and fame. When these align with truth, it's serendipitous; when they don't, truth is often the casualty." - [The Religion of Science And Its Consequences](https://unfashionable.blog/p/science#:~:text=One%20may%20build,often%20the%20casualty.)
 
-> "" - [The Religion of Science And Its Consequences]()
+> "You can‘t produce reliable, honest science without reliable, honest scientists. There exists no substitute for judgement and integrity." - [The Religion of Science And Its Consequences](https://unfashionable.blog/p/science#:~:text=you%20can%E2%80%98t%20produce%20reliable%2C%20honest%20science%20without%20reliable%2C%20honest%20scientists.%20There%20exists%20no%20substitute%20for%20judgement%20and%20integrity.)
 
-> "" - [The Religion of Science And Its Consequences]()
+> "Scientists already have the option – and arguably the obligation – to make their research as open and transparent as possible. They already should be publishing their data and uploading their code, but for some reason, many don’t. Ian Hussey confirmed again in his [2023 paper](https://osf.io/preprints/psyarxiv/jbu9r) that data is not available upon request:
+>
+> Only 25% of articles’ authors actually shared data upon request." - [The Religion of Science And Its Consequences](https://unfashionable.blog/p/science#:~:text=Scientists%20already%20have,available%20upon%20request%3A)
+
+> "The incentive structure is skewed too: faking data can bring fame and money, while exposing fraud offers little more than moral satisfaction. These incentives, coupled with the social ostracization that comes with criticizing the work of colleagues, have turned "peer review" into an ineffective ritual." - [The Religion of Science And Its Consequences](https://unfashionable.blog/p/science#:~:text=The%20incentive%20structure,an%20ineffective%20ritual.)
+
+> "When scientists are allowed to dictate policy, politics does not become scientific, but science becomes politicized." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1573370555096522753)
+
+> "Even if we knew The Truth, many conflicting ways of moving forward would exist. No amount of “Science” can get rid of the difficult ethical decision that is inherent in choosing a course of action. To ignore this necessary debate on values is to allow a certain cohort—predominantly scientists and journalists—to impose their beliefs and values as the irrefutable standard." - [The Religion of Science And Its Consequences](https://unfashionable.blog/p/science#:~:text=even%20if%20we,the%20irrefutable%20standard.)
+
+
 
 > "The problem with the "copy other people's beliefs" algorithm is that it is vulnerable to false information cascades. And when a small but powerful adversarial group controls the seed point for many people's beliefs (such as being able to control the scientific process to output chosen falsehoods), you can end up with an entire society believing an absurd falsehood that happens to be very convenient for that small, powerful adversarial subgroup." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
