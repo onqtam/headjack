@@ -93,6 +93,16 @@ Education is the autopoietic root of society - the way it propagates/maintains/r
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
+“Find the others” as a Service
+FaaS
+FtoaaS
+This as the section for matchmaking and with the leary quote
+
+> "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
+
+Religions are literally false but metaphorically true
+What if we could make a literally true one?
+
 God design
 Designing god
 https://twitter.com/zxocw/status/1545495339771334657

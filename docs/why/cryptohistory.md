@@ -184,6 +184,16 @@ The argument that specialized message types are unnecessary because AI will even
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
 
+TODO: finish reading from this sentence onwards:
+There are many reasons why scientific communication is so hard.
+https://consilienceproject.org/an-infodemic-plaguing-the-pandemic-response/
+
+> "" - [The Religion of Science And Its Consequences]()
+
+> "" - [The Religion of Science And Its Consequences]()
+
+> "" - [The Religion of Science And Its Consequences]()
+
 > "The problem with the "copy other people's beliefs" algorithm is that it is vulnerable to false information cascades. And when a small but powerful adversarial group controls the seed point for many people's beliefs (such as being able to control the scientific process to output chosen falsehoods), you can end up with an entire society believing an absurd falsehood that happens to be very convenient for that small, powerful adversarial subgroup." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
 > "If you think about what peer review is, it’s the exact opposite of what peer review should mean. “Peer review” should mean that you publish your article, and then the peers in the community review it, but in fact what it is is peer suppression. You take your article and you mail it off to somebody who you don’t know. That person gets an early look at it. They might hold it up in review. They then inflict any changes that they want, or they reject it for reasons that make no sense. And then it’s handed back to you.
