@@ -14,6 +14,8 @@ https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-uni
 
 > "Big history is about placing ourselves in relationship to the universe on the dimensions of time and complexity." - [What Is Big History and Why Does It Matter? by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202312/what-is-big-history-and-why-does-it-matter#:~:text=Big%20history%20is%20about%20placing%20ourselves%20in%20relationship%20to%20the%20universe%20on%20the%20dimensions%20of%20time%20and%20complexity.)
 
+<img src="/img/relatedness_of_all_life_on_earth.jpeg"/>
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
