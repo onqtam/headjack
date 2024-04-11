@@ -43,6 +43,16 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 # SECTION: Probability & prediction
 ██████████████████████████████████████████████████████████████████
 
+https://www.lesswrong.com/tag/futarchy
+
+https://www.wired.com/1995/09/hanson-if/
+
+https://www.metaculus.com/help/faq/#metaculus-prediction
+
+https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
+
+
+
 > "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
 
 
