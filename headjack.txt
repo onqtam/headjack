@@ -20,7 +20,7 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 
 
 
-
+> "Only by making technical systems that offer a variety of mechanisms for checking concentrations of power and by simultaneously building social ideologies constantly on the lookout for failure modes of these mechanisms can we hope to succeed where previous attempts at decentralizing authority have failed." - [Liberation Through Radical Decentralization, by Vitalik Buterin](https://medium.com/@VitalikButerin/liberation-through-radical-decentralization-22fc4bedc2ac#:~:text=Only%20by%20making,authority%20have%20failed.)
 
 
 
@@ -3775,6 +3775,29 @@ In order to minimize surprise for any one individual we need to share our model 
 Link between AST (attention schema theory) and ashby’s law - to control our attention we need a model of it
 
 
+
+How many people play mindless games on their phones and how could that be harnessed?
+
+Nothing is more virtuous than objectively helping humanity succeed. This is the last status game we’d have to ever design/play
+
+What if scientists (or anyone for that matter) could get reputation for being early backers of ideas which aren’t theirs?
+
+You can’t make sense of information well if you cant judge the reputation of the source of it well
+
+The search of the future will be for identities and sources according to objective criteria/filtering
+The future of search is being able to select & filter the identities used as sources of information judged objectively against criteria - todo fix wording, track record, competence, recognition
+
+Suppose you stumble upon a Myers Briggs psychology test online - wouldn’t it be neat if you had a link directly to a page about the test itself and the opinions of anyone that you could explore?
+
+Truth must become the Schelling point
+
+Capitalism, money, markets. & laws:
+When all you have is a hammer then everything looks like a nail
+
+
+
+
+
 > "Your political tribe will turn on you the moment you express an opinion they don’t like. That is not “belonging”, that is being held hostage." - [@G_S_Bhogal](https://twitter.com/thewisebot/status/1709418070869999848)
 
 
@@ -7455,6 +7478,8 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 > "One of the saddest lessons of history is this: If we’ve been bamboozled long enough, we tend to reject any evidence of the bamboozle. We’re no longer interested in finding out the truth. The bamboozle has captured us. It’s simply too painful to acknowledge, even to ourselves, that we’ve been taken." - [Carl Sagan](https://fs.blog/illusory-truth-effect/#:~:text=%E2%80%9COne%20of%20the,%E2%80%94%20Carl%20Sagan)
 
 > "I have a foreboding of an America in my children's or grandchildren's time -- when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what's true, we slide, almost without noticing, back into superstition and darkness." - [Carl Sagan](https://www.goodreads.com/quotes/632474-i-have-a-foreboding-of-an-america-in-my-children-s)
+
+> "Ignorance feeds on ignorance." - [Carl Sagan](https://consilienceproject.org/an-infodemic-plaguing-the-pandemic-response/#:~:text=Ignorance%20feeds%20on%20ignorance.)
 
 > "Who looks outside, dreams; who looks inside, awakes." - [Carl Jung](https://www.azquotes.com/quote/151492)
 

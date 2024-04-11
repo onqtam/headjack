@@ -164,6 +164,8 @@ What of we could signal what we core most about
 
 the matrix - in the top 10
 
+What if we all answered [these questions](https://civilizationemerging.com/dharma-inquiry/) and aggregated the results?
+
 top 10 crowdsourced list: meaning crysis, >A PICTURE OF THE EARTH< , etc.
 
 top10 papers:
