@@ -16,6 +16,11 @@ https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-uni
 
 <img src="/img/relatedness_of_all_life_on_earth.jpeg"/>
 
+<!-- taken from here: https://www.quora.com/How-is-all-life-on-Earth-related -->
+
+UTOK ontology:
+https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
