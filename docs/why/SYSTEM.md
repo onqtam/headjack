@@ -30,6 +30,9 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 # SECTION: Governance & how broken it is
 ██████████████████████████████████████████████████████████████████
 
+ministry of loneliness
+https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
+
 > "The more heroic you are, the more beautiful you are, the more you will be made to suffer." - [Eric Weinstein](https://youtu.be/o2nG7-eXxko?t=4908)
 
 > "The purpose of a system is what it does." - [Stafford Beer](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
@@ -61,10 +64,11 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
 
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
 ██████████████████████████████████████████████████████████████████
+
+<img src="/img/shit_is_fucked_up_and_stuff.jpg"/>
 
 > "If I was an alien race that wanted to cripple Earth’s technological development I wouldn’t kill scientists, I would invent new ways to ensure the best and brightest people would choose to work on optimizing ad clicks, create exciting new financial derivatives, or trade vapor assets based on animal memes instead of creating deep technology" - [@nope_its_lily](https://twitter.com/nope_its_lily/status/1773036747833901463)
 
@@ -82,8 +86,13 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 > "If you can manufacture the right social consensus, control the key nodes in our social epistemology-plex, you can get away with just about anything and nobody will care, except a few very determined contrarians. But I will not go gentle into that good night." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Moral hazzards, Opaqueness & Plausible Deniability
+# SECTION: Conflict vs mistake theory, Moral hazzards, Opaqueness & Plausible Deniability
 ██████████████████████████████████████████████████████████████████
+
+https://www.google.com/search?q=conflict+theory+mistake+theory+plausible+deniability
+https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/
+https://www.lesswrong.com/posts/Zn6itRbwwdjfowHTQ/conflict-theorists-pretend-to-be-mistake-theorists
+
 
 > "'Moral laundry': as GameA operates on long chains of opaque point-to-point transactions, we all have plausible deniability for bad things done in our name. For example, the $1/day children mining cobalt and coltran at gun point in eastern Congo for our cell phones and EVs.
 >

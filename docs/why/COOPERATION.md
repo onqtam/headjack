@@ -9,3 +9,10 @@
 > "Just as blueprints don't necessarily specify blue buildings, selfish genes don't necessarily specify selfish organisms. As we shall see, sometimes the most selfish thing a gene can do is build a selfless brain. Genes are a play within a play, not the interior monologue of the players." - [Steven pinker](https://www.goodreads.com/quotes/122032-just-as-blueprints-don-t-necessarily-specify-blue-buildings-selfish-genes)
 
 
+The Price of Anarchy (PoA) is a concept in economics and game theory that measures how the efficiency of a system degrades due to selfish behavior of its agents. It is a general notion that can be extended to diverse systems and notions of efficiency.
+https://en.wikipedia.org/wiki/Price_of_anarchy
+
+In game theory, the price of stability (PoS) of a game is the ratio between the best objective function value of one of its equilibria and that of an optimal outcome.
+https://en.wikipedia.org/wiki/Price_of_stability
+
+The concepts of price of anarchy and price of stability were introduced to capture the loss in performance of a system due to the selfish behavior of its participants. The price of anarchy captures the worst-case performance of the system at equilibrium relative to the optimal performance possible. The price of stability, on the other hand, captures the relative performance of the best equilibrium of the system.
