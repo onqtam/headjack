@@ -262,14 +262,15 @@ Top 10 most important podcasts
 - The Great Simplification
 - Rebel Wisdom
 - The Jim Rutt Show
+- 80,000 Hours Podcast
+
 - The Truth with Carlos Farias
 - Metamodern Spirituality
 - The knowledge project
 - Dwarkesh Podcast
 - Lex Fridman Podcast
-
 - Your Undivided Attention (the older ones)
-- 80,000 Hours Podcast
+
 - Upstream with Erik Torenberg
 - "Live Players" with Samo Burja and Erik Torenberg
 
