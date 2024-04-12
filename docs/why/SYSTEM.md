@@ -64,6 +64,17 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
 
+
+
+<img src="/img/corruption_is_legal_in_america.png"/>
+
+A [study by Martin Gilens](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B) has revealed that [the most terrifying graph on democracy is a flat line](https://www.vox.com/2014/5/14/5718080/the-most-terrifying-graph-about-democracy-is-a-straight-line)
+
+<iframe width="1122" height="631" src="https://www.youtube.com/embed/5tu32CCA_Ig" title="Corruption is Legal in America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+> "If voting made any difference they wouldn't let us do it." - [Mark Twain](https://www.goodreads.com/quotes/400040-if-voting-made-any-difference-they-wouldn-t-let-us-do)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
 ██████████████████████████████████████████████████████████████████
@@ -144,12 +155,20 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 What if we did to mass consumer product packaging what the container did to shipping? How do we reuse our packaging more - even across companies & their product lineups?
 Convenience packaging... replacing a depositing system and reusable bottles (deposit 40% of a coke bottle which u get back when u return the bottle)
 reclamation costs have been outsourced to the public in the form of "recycling"
+
 https://www.youtube.com/watch?v=4XP-BBGMCNs
 Coke Knew Their Plastic Would Trash the Planet…And Did It Anyway
+
+https://www.youtube.com/watch?v=9GorqroigqM
+The Story of Stuff
 
 why do they make packaging that's impossible to reuse/recycle and is composed of multiple different types of material?
 
 > "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett#:~:text=%22The%20greatest%20shortcoming%20of%20the%20human%20race%20is%20our%20inability%20to%20understand%20the%20exponential%20function.%22)
+
+
+> "Trying to reduce environmental pollution without reducing consumerism is like combating drug trafficking without reducing the drug addiction." - [Jorge Majfud](https://en.wikipedia.org/wiki/Anti-consumerism#:~:text=Trying%20to%20reduce%20environmental%20pollution%20without%20reducing%20consumerism%20is%20like%20combating%20drug%20trafficking%20without%20reducing%20the%20drug%20addiction.)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Existential risks
