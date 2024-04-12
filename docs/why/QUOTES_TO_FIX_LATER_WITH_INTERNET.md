@@ -993,6 +993,13 @@ Massachusetts Institute of Technology
 
 
 
+> "When employees participate in the decision-making process, they may improve understanding and perceptions among colleagues and superiors, and enhance personnel value in the organization...
+>
+> Participatory decision-making can have a wide array of organizational benefits. Researchers have found that PDM may positively impact the following: Job satisfaction, Organizational commitment, Perceived organizational support, Organizational citizenship behavior, Labor-management relations, Job performance and organizational performance, Organizational profits" - [Participative decision-making in organizations, Wikipedia](https://en.wikipedia.org/wiki/Participative_decision-making_in_organizations#:~:text=When%20employees%20participate,Organizational%20profits)
+
+
+
+
 > "A mobilization system can then be defined as: a socio-technological system that motivates and coordinates people to work towards a given objective—thus efficiently rallying their efforts. While the term “mobilization system” is new, the underlying ICT techniques have been explored for at least a decade or two, under labels such as “persuasive technology”, “collaborative technology”, “user experience”, and “gamification”." - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
 
 > "" - [Mobilization Systems: technologies for motivating and coordinating human action, by Francis Heylighen](http://pcp.vub.ac.be/Papers/MobilizationSystems.pdf)
@@ -1081,8 +1088,6 @@ Massachusetts Institute of Technology
 > "" - [Bubble City - A Twitter Alternative Which is not a Social Medium](https://syntience.com/BubbleCity2.pdf)
 
 > "" - [Beyond Markets and States: Polycentric Governance of Complex Economic Systems, by Elinor Ostrom](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf)
-
-> "" - []()
 
 > "" - []()
 
