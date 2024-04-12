@@ -1064,6 +1064,8 @@ Massachusetts Institute of Technology
 
 > "" - [The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission](https://www.sciencedirect.com/science/article/abs/pii/S1090513800000714)
 
+> "" - [Smartocracy: Social Networks for Collective Decision Making](https://www.jenwatkins.com/Research_files/Smarto-Share.pdf)
+
 > "" - [The Role of Hierarchy in Self-Organizing Systems](https://www.researchgate.net/publication/254821737_The_Role_of_Hierarchy_in_Self-Organizing_Systems)
 
 > "" - [Perception, prestige and PageRank](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216783&type=printable)
