@@ -1080,7 +1080,7 @@ Massachusetts Institute of Technology
 
 > "" - [Bubble City - A Twitter Alternative Which is not a Social Medium](https://syntience.com/BubbleCity2.pdf)
 
-> "" - []()
+> "" - [Beyond Markets and States: Polycentric Governance of Complex Economic Systems, by Elinor Ostrom](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf)
 
 > "" - []()
 
