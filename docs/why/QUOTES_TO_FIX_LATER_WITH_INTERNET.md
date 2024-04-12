@@ -1089,31 +1089,13 @@ Massachusetts Institute of Technology
 
 > "" - [Beyond Markets and States: Polycentric Governance of Complex Economic Systems, by Elinor Ostrom](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf)
 
-> "" - []()
+> "" - [Parasite Ecology and the Evolution of Religion](http://pespmc1.vub.ac.be/Papers/Cullen.pdf)
 
-> "" - []()
+> "" - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
 
-> "" - []()
+> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
 
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
+> "" - [Dictatorship, democracy, and development, by Mancur Olson](https://sci-hub.se/10.2307/2938736)
 
 > "" - []()
 
@@ -1122,27 +1104,6 @@ Massachusetts Institute of Technology
 > "" - []()
 
 
-
-
-Cullen, B. 1999. Parasite ecology and the evolution of religion, in Heylighen F., Bollen J. & Riegler A. (ed.) (1999): The Evolution of Complexity (Kluwer Academic, Dordrecht), p. 255-261..
-
-L. Keetels, “Collaborative consumption - the inﬂuence of trust on sustainable peer-to-peer product-service systems.” Master’s thesis, Utrecht University, 2012.
-
-S. Tramp, P. Frischmuth, T. Ermilov, S. Shekarpour, and S. Auer, “An architecture of a distributed semantic social network,” Semantic Web, vol. 5, no. 1, pp. 77–95, 2014.
-
-Popper, K. R. (1972) Objective Knowledge-An Evolutionary Approach. Oxford: Clarendon.
-
-"Nothing makes sense in biology except in the light of evolution" - Dobzhansky
-
-Salthe, S.N., 1985. Evolving Hierarchical Systems. Columbia University Press, New York.
-http://refhub.elsevier.com/S0303-2647(20)30126-X/sref42
-
-Agren, J.A., Davies, N.G., Foster, K.R., 2019. Enforcement is central to the evolution of cooperation. Nat. Ecol. Evol. 3, 1018–1029. https://doi.org/10.1038/s41559-019-0907-1.
-
-Singh, M., Boomsma, J.J., 2015. Policing and punishment across the domains of social evolution. Oikos 124, 971–982. https://doi.org/10.1111/oik.02064.
-
-Olson, M., 1993. Dictatorship, democracy, and development. Am. Polit. Sci. Rev. 87, 567–576.
-http://refhub.elsevier.com/S0303-2647(20)30126-X/sref31
 
 Olson, M., 2000. Power and Prosperity: Outgrowing Communist and Capitalist Dictatorships. Basic Books, New York.
 http://refhub.elsevier.com/S0303-2647(20)30126-X/sref32
