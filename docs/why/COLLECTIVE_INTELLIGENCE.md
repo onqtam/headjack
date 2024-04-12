@@ -45,6 +45,8 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 https://www.lesswrong.com/tag/futarchy
 
+https://www.lesswrong.com/tag/prediction-markets
+
 https://mason.gmu.edu/~rhanson/futarchy.html
 
 https://www.wired.com/1995/09/hanson-if/
