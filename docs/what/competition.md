@@ -492,6 +492,7 @@ farcaster is too opinionated
 
 scaling issues abound
 https://twitter.com/varunsrin/status/1775652290961301725
+https://github.com/farcasterxyz/protocol/discussions/163
 
 Key rotation in competition - for lens perhaps account abstraction would help
 
