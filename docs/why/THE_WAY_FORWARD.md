@@ -22,8 +22,36 @@ UTOK ontology:
 https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Complexity Economics
+██████████████████████████████████████████████████████████████████
+
+complexity_econ_1.png
+complexity_econ_2.png
+complexity_econ_3.png
+complexity_econ_4.png
+complexity_econ_5.png
+complexity_econ_6.png
+complexity_econ_7.png
+complexity_econ_8.png
+complexity_econ_9.png
+complexity_econ_10.png
+complexity_econ_11.png
+complexity_econ_12.png
+
+How Complexity Economics Can Save the World
+https://www.youtube.com/watch?v=Kis6vZlGqHQ
+
+> "Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world." - [Fredric Jameson](https://www.goodreads.com/quotes/7690016-someone-once-said-that-it-is-easier-to-imagine-the)
+
+> "It often happens that the universal belief of one age of mankind... becomes to a subsequent age so palpable an absurdity, that the only difficulty then is to imagine how such a thing can ever have appeared credible." - [John Stuart Mill](https://www.azquotes.com/quote/652591)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
+
+
+<img src="/img/energy_gdp_human_development.png"/>
+
 
 > "The answer is not degrowth. The answer is growth that maximizes planetary complexity while minimizing the degree to which any entropy not re-usable somewhere else as a source of free energy remains within planetary bounds." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1726787146907037889)
 
@@ -52,6 +80,8 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 ██████████████████████████████████████████████████████████████████
 # SECTION: Education & development
 ██████████████████████████████████████████████████████████████████
+
+<img src="/img/educational_crisis.png"/>
 
 TODO: quote from here (from a teacher in NY) about how broken public schooling is
 https://www.youtube.com/watch?v=204qp-YS5Nw
@@ -102,6 +132,20 @@ Education is the autopoietic root of society - the way it propagates/maintains/r
 
 > "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Evolution's Arrow
+██████████████████████████████████████████████████████████████████
+
+> "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [Harold J. Morowitz](https://emersongreenblog.wordpress.com/2019/10/23/thomas-nagels-natural-teleology/#:~:text=We%20start%20with%20observations%2C%20and%20if%20the%20evolving%20cosmos%20has%20an%20observed%20direction%2C%20rejecting%20that%20view%20is%20clearly%20nonempirical.%20There%20need%20not%20necessarily%20be%20a%20knowable%20end%20point%2C%20but%20there%20may%20be%20an%20arrow.)
+
+> "It is conceivable, however that life may have larger role to play than we have yet imagined. Life may succeed against all odds in molding the universe to its own purpose." - [Freeman Dyson](https://www.geocities.ws/johnpaily2002/secret34.htm#:~:text=It%20is%20conceivable%2C%20however%20that%20life%20may%20have%20larger%20role%20to%20play%20than%20we%20have%20yet%20imagined.%20Life%20may%20succeed%20against%20all%20odds%20in%20molding%20the%20universe%20to%20its%20own%20purpose.)
+
+> "We now see how it is possible for the universe to increase both organization and entropy at the same time. The optimistic and pessimistic arrows of time can co-exist: the universe can display creative unidirectional progress even in the face of the second law." - [Paul Davies](https://www.icr.org/article/819/383#:~:text=We%20now%20see%20how%20it%20is%20possible%20for%20the%20universe%20to%20increase%20both%20organization%20and%20entropy%20at%20the%20same%20time.%20The%20optimistic%20and%20pessimistic%20arrows%20of%20time%20can%20co%2Dexist%3A%20the%20universe%20can%20display%20creative%20unidirectional%20progress%20even%20in%20the%20face%20of%20the%20second%20law.)
+
+> "If one can speak of a cosmic war.. it's a war between monotony and novelty, between stasis and creativity. And in this war, our side is not destined to lose. If we choose to apply our unique capacity to create explanatory knowledge, we could win." - [David Deutsch](https://www.thealternative.org.uk/dailyalternative/2019/10/21/be-a-citizen-of-the-universe#:~:text=If%20one%20can,we%20could%20win.)
+
+> "As natural selection pumps information from the inanimate world into life, nature begins modeling itself, encoding its own structure, and the universe begins to wake up. We are the cosmos come alive. Not metaphorically, but literally." - [Bobby Azarian]()
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: God & Religion

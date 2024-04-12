@@ -43,6 +43,9 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 # SECTION: Probability & prediction
 ██████████████████████████████████████████████████████████████████
 
+<img src="/img/famous_failed_prediction_by_economist.png"/>
+
+
 https://www.lesswrong.com/tag/futarchy
 
 https://www.lesswrong.com/tag/prediction-markets
