@@ -1066,6 +1066,8 @@ Massachusetts Institute of Technology
 
 > "" - [Smartocracy: Social Networks for Collective Decision Making](https://www.jenwatkins.com/Research_files/Smarto-Share.pdf)
 
+> "" - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
+
 > "" - [The Role of Hierarchy in Self-Organizing Systems](https://www.researchgate.net/publication/254821737_The_Role_of_Hierarchy_in_Self-Organizing_Systems)
 
 > "" - [Perception, prestige and PageRank](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216783&type=printable)
