@@ -3,6 +3,8 @@
 # SECTION: Worldview
 ██████████████████████████████████████████████████████████████████
 
+<img src="/img/timeline_of_technology.png"/>
+
 > "Because of the Existence Bias, for example, we don’t have a plan for the future of the human race. That’s odd, because our existence is built upon obsessive planning. It helps us get what we want. Accordingly, we plan for everything: social events, marriage, education, vacations, careers, health, war and even death. So why don’t we have a plan for the human race? Whether we like it or not, nearly 8 billion of us are interconnected, comprising a vast orchestra, each contributing to a collective fate." - [13 Steps to Cognitive “Perfection”, by Bryan Johnson](https://medium.com/future-literacy/13-steps-to-cognitive-perfection-86e316569c3f#:~:text=Because%20of%20the,a%20collective%20fate.)
 
 > "Belief systems are the gears of society, determining speed and torque. They’re the most powerful technology to facilitate mass human cooperation and also one of our biggest liabilities. Belief systems are also serious business. More people have died from conflict over belief systems than any other cause in history." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=Belief%20systems%20are,cause%20in%20history.)
