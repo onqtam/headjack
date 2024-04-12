@@ -70,6 +70,10 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 A [study by Martin Gilens](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B) has revealed that [the most terrifying graph on democracy is a flat line](https://www.vox.com/2014/5/14/5718080/the-most-terrifying-graph-about-democracy-is-a-straight-line)
 
+> "Is America a plutocracy? According to a 2014 study from Princeton University professor Martin Gilens and Northwestern University's Benjamin Page that examined close to 2,000 public opinion surveys, the answer may be yes. Gilens and Page found that while the opinions of everyday Americans rarely seemed to significantly influence decisions by Congress, those of the rich and interest groups did.
+>
+> In an ideal world... public support for an idea would more or less correlate with the probability of it becoming law. But the study found that public opinion pretty much hovers at a consistently low level of influence, regardless of how many citizens support or hate a proposal. But while average Americans seem increasingly unable to influence how they are actually governed, economic elites — the wealthy and influential — have a much greater chance of influencing legislators." - [Princeton Study Discovers What Our Politicians Really Think About Us](https://nypan.org/about/news-and-updates/2022/3/21/princeton-study-discovers-what-our-politicians-really-think-about-us#:~:text=Is%20America%20a,the%20chart%20below.)
+
 <iframe width="1122" height="631" src="https://www.youtube.com/embed/5tu32CCA_Ig" title="Corruption is Legal in America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > "If voting made any difference they wouldn't let us do it." - [Mark Twain](https://www.goodreads.com/quotes/400040-if-voting-made-any-difference-they-wouldn-t-let-us-do)
