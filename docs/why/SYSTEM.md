@@ -90,9 +90,12 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 ██████████████████████████████████████████████████████████████████
 
 https://www.google.com/search?q=conflict+theory+mistake+theory+plausible+deniability
+
 https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/
+
 https://www.lesswrong.com/posts/Zn6itRbwwdjfowHTQ/conflict-theorists-pretend-to-be-mistake-theorists
 
+https://www.lesswrong.com/tag/conflict-vs-mistake
 
 > "'Moral laundry': as GameA operates on long chains of opaque point-to-point transactions, we all have plausible deniability for bad things done in our name. For example, the $1/day children mining cobalt and coltran at gun point in eastern Congo for our cell phones and EVs.
 >

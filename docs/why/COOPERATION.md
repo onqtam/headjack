@@ -16,3 +16,18 @@ In game theory, the price of stability (PoS) of a game is the ratio between the 
 https://en.wikipedia.org/wiki/Price_of_stability
 
 The concepts of price of anarchy and price of stability were introduced to capture the loss in performance of a system due to the selfish behavior of its participants. The price of anarchy captures the worst-case performance of the system at equilibrium relative to the optimal performance possible. The price of stability, on the other hand, captures the relative performance of the best equilibrium of the system.
+
+https://ncase.me/trust/notes/
+
+https://prnt.sc/K5nzWpUw8XJh
+
+https://prnt.sc/o5LZhIhNqIFX
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Elinor Ostrom & commons
+██████████████████████████████████████████████████████████████████
+
+https://prnt.sc/kA6pSBBUfZqV
+
+https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22
+
