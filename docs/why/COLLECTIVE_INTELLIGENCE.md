@@ -138,6 +138,7 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes." - [Ray Dalio](https://www.goodreads.com/quotes/7172381-truth---more-precisely-an-accurate-understanding-of-reality--)
 
+> "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
 
 > "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
 

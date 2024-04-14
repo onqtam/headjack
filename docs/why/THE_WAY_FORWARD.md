@@ -73,6 +73,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Deep down the consciousness of mankind is one. This is a virtual certainty because even in the vacuum matter is one; and if we don't see this, it's because we are blinding ourselves to it." - [David Bohm](https://www.azquotes.com/quote/1324965)
 
+> "The only way out is spiritual, intellectual, and emotional revolution in which, finally, we learn to experience first hand the interloping connections between person and person, organism and organism, action and consequence." - [Gregory Bateson](https://www.azquotes.com/quote/788289)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
@@ -244,7 +245,7 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 > "If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." - [Antoine de Saint-Exupéry](https://www.goodreads.com/quotes/384067-if-you-want-to-build-a-ship-don-t-drum-up)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Education & development
+# SECTION: Education, learning & development
 ██████████████████████████████████████████████████████████████████
 
 <img src="/img/educational_crisis.png"/>
@@ -272,6 +273,10 @@ We must consciously raise the awareness and education of the so-called masses
 > "School is training children in solving the most boring puzzles imaginable. Everything I've ever learned not through pain, I learned from solving interesting puzzles." - [Joscha Bach](https://twitter.com/Plinz/status/1746400465229950985)
 
 > "It is immoral and unconscionable to the rest of society to gatekeep the access to the elite through a handful of ideologically captured academic institutions. Every sufficiently clear headed child should have access to an educational path that gets them elite certifications." - [Joscha Bach](https://twitter.com/Plinz/status/1746379894513401891)
+
+> "The whole educational and professional training system is a very elaborate filter, which just weeds out people who are too independent, and who think for themselves, and who don't know how to be submissive, and so on -- because they're dysfunctional to the institutions." - [Noam Chomsky](https://www.goodreads.com/quotes/47436-the-whole-educational-and-professional-training-system-is-a-very)
+
+> "Education is a system of imposed ignorance." - [Noam Chomsky](https://www.goodreads.com/quotes/130126-education-is-a-system-of-imposed-ignorance)
 
 > "There is no such thing as genius, some children are just less damaged than others." - [R. Buckminster Fuller](https://www.azquotes.com/quote/665689)
 
@@ -757,3 +762,11 @@ next steps for readers: sign up for updates, contribute, etc.
 > "Go big, because we all go home." - [Naval Ravikant](https://twitter.com/naval/status/1714119368358207872)
 
 > "Give society what it wants but doesn't know how to get - at scale." - [Naval Ravikant](https://twitter.com/NavalismHQ/status/1711659079230214615)
+
+> "If we can really understand the problem, the answer will come out of it, because the answer is not separate from the problem." - [Jiddu Krishnamurti](https://www.goodreads.com/quotes/131063-if-we-can-really-understand-the-problem-the-answer-will)
+
+> "A problem well stated is a problem half solved." - [Charles Franklin Kettering](https://www.goodreads.com/quotes/449969-a-problem-well-stated-is-a-problem-half-solved)
+
+But a problem not fully understood is unsolvable.
+
+> "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." - [Albert Einstein](https://www.goodreads.com/quotes/60780-if-i-had-an-hour-to-solve-a-problem-i-d)

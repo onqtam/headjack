@@ -51,6 +51,7 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
 
+> "Unfortunately, you can’t vote the rascals out, because you never voted them in, in the first place." - [Noam Chomsky](https://www.goodreads.com/quotes/706849-unfortunately-you-can-t-vote-the-rascals-out-because-you-never)
 
 > "The majority of us believe in Open Source government backed by resource based economics on a planetary level. If a computer’s operating system is malfunctioning it is replaced. We view governments as global operating systems, flawed full of bugs and crash reports. Hitting the off switch and rebooting simply won’t help how corrupted these global operating systems have become. Reformatting and installing a humanitarian based open sourced government will insure equality for all." - [Million Mask March 2015 - Anonymous](https://pastebin.com/eJz5JfMD#:~:text=The%20majority%20of%20us%20believe,will%20insure%20equality%20for%20all.)
 
@@ -193,6 +194,8 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 # SECTION: Individualism & narcissism
 ██████████████████████████████████████████████████████████████████
 
+> "Neoliberal democracy. Instead of citizens, it produces consumers. Instead of communities, it produces shopping malls. The net result is an atomized society of disengaged individuals who feel demoralized and socially powerless. In sum, neoliberalism is the immediate and foremost enemy of genuine participatory democracy, not just in the United States but across the planet." - [Noam Chomsky](https://www.goodreads.com/quotes/324599-neoliberal-democracy-instead-of-citizens-it-produces-consumers-instead-of)
+
 > "The notion of a separate organism is clearly an abstraction, as is also its boundary. Underlying all this is unbroken wholeness even though our civilization has developed in such a way as to strongly emphasize the separation into parts." - [David Bohm](https://www.goodreads.com/quotes/843293-the-notion-of-a-separate-organism-is-clearly-an-abstraction)
 
 > "All over the world, mobile hunter-gatherers use social control guided by moral rules to see to it that when a successful hunter kills a large mammal, his ego is held in check." - [Christopher Boehm](https://www.goodreads.com/quotes/11025365-all-over-the-world-mobile-hunter-gatherers-use-social-control-guided)
@@ -227,7 +230,7 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 
 > "We are the universe pretending to be individuals." - [Deepak Chopra](https://www.azquotes.com/quote/857304)
 https://img.ifunny.co/images/a48d5b157383f50d5d8b87a8b0932da18b9791ecb6ed94fd01eef4490fe84579_3.jpg
-https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.jpg
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism
@@ -267,6 +270,8 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 ██████████████████████████████████████████████████████████████████
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
+
+> "It's not radical Islam that worries the US - it's independence." - [Noam Chomsky](https://www.goodreads.com/quotes/343018-it-s-not-radical-islam-that-worries-the-us----it-s)
 
 > "Some of us, perhaps all of us, believe that it is legitimate to kill enemy soldiers in a war, as if war were a special circumstance that shrinks the sizes of enemy souls." - [Douglas Hofstadter](https://www.goodreads.com/quotes/830578-some-of-us-perhaps-all-of-us-believe-that-it)
 
@@ -336,6 +341,7 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 # SECTION: Environment
 ██████████████████████████████████████████████████████████████████
 
+> "The creature that wins against its environment destroys itself." - [Gregory Bateson](https://www.azquotes.com/quote/695444)
 
 What if we did to mass consumer product packaging what the container did to shipping? How do we reuse our packaging more - even across companies & their product lineups?
 Convenience packaging... replacing a depositing system and reusable bottles (deposit 40% of a coke bottle which u get back when u return the bottle)
@@ -377,4 +383,8 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "In the long run it is far more dangerous to adhere to illusion than to face what the actual fact is." - [David Bohm](https://www.goodreads.com/quotes/8210818-in-the-long-run-it-is-far-more-dangerous-to)
 
 > "If something cannot go on forever, it will stop." - [Herbert Stein](https://www.goodreads.com/quotes/467811-if-something-cannot-go-on-forever-it-will-stop)
+
+> "Can we survive technology?" - [John von Neumann](https://www.goodreads.com/quotes/9193285-can-we-survive-technology)
+
+> "I am thinking about something much more important than bombs. I am thinking about computers." - [John von Neumann](https://www.azquotes.com/quote/1386902)
 

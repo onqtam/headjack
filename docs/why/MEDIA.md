@@ -67,6 +67,9 @@
 
 > "If you eat, invest, and think according to what the ‘news’ advocates, you’ll end nutritionally, financially, and morally bankrupt." - [Naval Ravikant](https://twitter.com/navalbot/status/1422648752691683331)
 
+> "The key element of social control is the strategy of distraction that is to divert public attention from important issues and changes decided by political and economic elites, through the technique of flood or flooding continuous distractions and insignificant information." - [Noam Chomsky](https://www.goodreads.com/quotes/485177-the-key-element-of-social-control-is-the-strategy-of)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer
 ██████████████████████████████████████████████████████████████████
@@ -90,6 +93,26 @@ The opposite of divide and conquer is integration
 
 > "Call the game the “Wall Street Game,” and people become less cooperative. Calling it the “Community Game” does the opposite." - [Robert Sapolsky](https://www.goodreads.com/quotes/8702794-call-the-game-the-wall-street-game-and-people-become)
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Propaganda
+██████████████████████████████████████████████████████████████████
+
+> "Propaganda is the executive arm of the invisible government." - [Edward Bernays](https://www.goodreads.com/quotes/4107781-propaganda-is-the-executive-arm-of-the-invisible-government)
+
+> "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country. ...We are governed, our minds are molded, our tastes formed, our ideas suggested, largely by men we have never heard of. This is a logical result of the way in which our democratic society is organized. Vast numbers of human beings must cooperate in this manner if they are to live together as a smoothly functioning society. ...In almost every act of our daily lives, whether in the sphere of politics or business, in our social conduct or our ethical thinking, we are dominated by the relatively small number of persons...who understand the mental processes and social patterns of the masses. It is they who pull the wires which control the public mind." - [Edward Bernays](https://www.goodreads.com/quotes/203430-the-conscious-and-intelligent-manipulation-of-the-organized-habits-and)
+
+> "The voice of the people expresses the mind of the people, and that mind is made up by the group leaders in whom it believes and by those persons who understand the manipulation of public opinion. It is composed of inherited prejudices and symbols and cliches and verbal formulas supplied to them by the leaders." - [Edward Bernays](https://www.goodreads.com/quotes/8203803-no-serious-sociologist-any-longer-believes-that-the-voice-of#:~:text=The%20voice%20of%20the%20people%20expresses%20the,formulas%20supplied%20to%20them%20by%20the%20leaders.)
+
+> "The only difference between 'propaganda' and 'education,' really, is in the point of view. The advocacy of what we believe in is education. The advocacy of what we don't believe in is propaganda." - [Edward Bernays](https://www.azquotes.com/quote/1337319)
+
+> "State propaganda, when supported by the educated classes and when no deviation is permitted from it, can have a big effect. It was a lesson learned by Hitler and many others, and it has been pursued to this day." - [Noam Chomsky](https://www.goodreads.com/quotes/519354-state-propaganda-when-supported-by-the-educated-classes-and-when)
+
+> "The mass media serve as a system for communicating messages and symbols to the general populace. It is their function to amuse, entertain, and inform, and to inculcate individuals with the values, beliefs, and codes of behavior that will integrate them into the institutional structures of the larger society. In a world of concentrated wealth and major conflicts of class interest, to fulfil this role requires systematic propaganda." - [Noam Chomsky](https://www.goodreads.com/quotes/7168920-the-mass-media-serve-as-a-system-for-communicating-messages)
+
+> "Propaganda is to a democracy what the bludgeon is to a totalitarian state." - [Noam Chomsky](https://www.goodreads.com/quotes/386706-propaganda-is-to-a-democracy-what-the-bludgeon-is-to)
+
+> "It is important to bear in mind that political campaigns are designed by the same people who sell toothpaste and cars." - [Noam Chomsky](https://www.goodreads.com/quotes/590100-it-is-important-to-bear-in-mind-that-political-campaigns)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Advertising
