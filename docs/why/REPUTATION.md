@@ -129,7 +129,7 @@ Problems with democracy and voters:
 > "The reward for being a good problem solver is to be heaped with more and more difficult problems to solve." - [R. Buckminster Fuller](https://www.azquotes.com/quote/943600)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Reputation & skin in the game
+# SECTION: Reputation, accreditation & skin in the game
 ██████████████████████████████████████████████████████████████████
 
 > "First ethical rule: If you see fraud and do not say fraud, you are a fraud." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9928470-first-ethical-rule-if-you-see-fraud-and-do-not)
@@ -201,6 +201,12 @@ having your post (successfully) labeled as a duplicate of something else could i
 > "You can't build a reputation on what you are going to do." - [Henry Ford](https://www.goodreads.com/quotes/7482-you-can-t-build-a-reputation-on-what-you-are-going)
 
 > "The only real mistake is the one from which we learn nothing." - [Henry Ford](https://www.goodreads.com/quotes/106813-the-only-real-mistake-is-the-one-from-which-we)
+
+> "If there were a highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing - that actually can give the harvards and the yales of the world a run for their money. I think that might be the most positive thing we could do." - [Greg Lukianoff](https://youtu.be/buarAx_u2qg?t=8883)
+
+> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
+^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status

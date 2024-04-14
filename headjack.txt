@@ -3629,41 +3629,6 @@ in some competitive games the leaderboards are reset every "season" in order to 
 
 
 
-> "If there were a highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing - that actually can give the harvards and the yales of the world a run for their money. I think that might be the most positive thing we could do." - [Greg Lukianoff](https://youtu.be/buarAx_u2qg?t=8883)
-
-
-
-
-
-> "Any altruistic system is inherently unstable, because it is open to abuse by selfish individuals, ready to exploit it." - [Richard Dawkins](https://www.goodreads.com/quotes/567499-any-altruistic-system-is-inherently-unstable-because-it-is-open)
-
-> "American political opportunities are loaded against those who are simultaneously intelligent and honest." - [Richard Dawkins](https://www.goodreads.com/quotes/84564-american-political-opportunities-are-loaded-against-those-who-are-simultaneously)
-
-> "Perhaps consciousness arises when the brain's simulation of the world becomes so complex that it must include a model of itself." - [Richard Dawkins](https://www.goodreads.com/quotes/842915-perhaps-consciousness-arises-when-the-brain-s-simulation-of-the-world)
-
-> "We are going to die, and that makes us the lucky ones. Most people are never going to die because they are never going to be born. The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Arabia. Certainly those unborn ghosts include greater poets than Keats, scientists greater than Newton. We know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people. In the teeth of these stupefying odds it is you and I, in our ordinariness, that are here.We privileged few, who won the lottery of birth against all odds, how dare we whine at our inevitable return to that prior state from which the vast majority have never stirred?" - [Richard Dawkins](https://www.goodreads.com/quotes/83303-we-are-going-to-die-and-that-makes-us-the)
-
-> "Do not indoctrinate your children. Teach them how to think for themselves, how to evaluate evidence, and how to disagree with you." - [Richard Dawkins](https://www.goodreads.com/quotes/508702-do-not-indoctrinate-your-children-teach-them-how-to-think)
-
-> "After sleeping through a hundred million centuries we have finally opened our eyes on a sumptuous planet, sparkling with color, bountiful with life. Within decades we must close our eyes again. Isn’t it a noble, an enlightened way of spending our brief time in the sun, to work at understanding the universe and how we have come to wake up in it? This is how I answer when I am asked—as I am surprisingly often—why I bother to get up in the mornings." - [Richard Dawkins](https://www.goodreads.com/quotes/91783-after-sleeping-through-a-hundred-million-centuries-we-have-finally)
-
-> "When two opposite points of view are expressed with equal intensity, the truth does not necessarily lie exactly halfway between them. It is possible for one side to be simply wrong." - [Richard Dawkins](https://www.goodreads.com/quotes/28318-when-two-opposite-points-of-view-are-expressed-with-equal)
-
-> "I am thrilled to be alive at time when humanity is pushing against the limits of understanding. Even better, we may eventually discover that there are no limits." - [Richard Dawkins](https://www.goodreads.com/quotes/107403-i-am-thrilled-to-be-alive-at-time-when-humanity)
-
-
-
-
-
-
-
-
-
-
-> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
-^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
-
-
 
 What if radical transparency and cooperation for companies gave them an effectively free marketing budget (they'd be upregulated by the network) and also contributions from everywhere - like with open source? They still price in the labor and input costs, but there's no need for a marketing budget?
 
@@ -3671,43 +3636,7 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 
 
-
-
-> "When kids look up to great scientists the way they do to great musicians and actors, civilization will jump to the next level." - [Brian Greene](https://www.goodreads.com/quotes/169491-when-kids-look-up-to-great-scientists-the-way-they)
-
-> "The limits of my language means the limits of my world." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my)
-
-> "Nothing is so difficult as not deceiving oneself." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/66669-nothing-is-so-difficult-as-not-deceiving-oneself)
-
-> "At the core of all well-founded belief lies belief that is unfounded." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/208999-at-the-core-of-all-well-founded-belief-lies-belief-that)
-
-> "The first principle is that you must not fool yourself and you are the easiest person to fool." - [Richard Feynman](https://www.goodreads.com/quotes/193533-the-first-principle-is-that-you-must-not-fool-yourself)
-
 > "Science is the belief in the ignorance of experts." - [Richard Feynman](https://www.goodreads.com/quotes/3225333-science-is-the-belief-in-the-ignorance-of-experts)
-
-> "The first principle is that you must not fool yourself and you are the easiest person to fool." - [Richard Feynman](https://www.goodreads.com/quotes/193533-the-first-principle-is-that-you-must-not-fool-yourself)
-
-> "Physics is like sex: sure, it may give some practical results, but that's not why we do it." - [Richard Feynman](https://www.goodreads.com/quotes/117534-physics-is-like-sex-sure-it-may-give-some-practical)
-
-> "Society grows great when old men plant trees whose shade they know they shall never sit in." - [Greek Proverb](https://www.goodreads.com/quotes/666987-society-grows-great-when-old-men-plant-trees-whose-shade)
-
-
-
-> "Ask yourself at every moment, 'Is this necessary?'" - [Marcus Aurelius](https://www.goodreads.com/quotes/7998994-ask-yourself-at-every-moment-is-this-necessary)
-
-
-> "The most pragmatic problem is the future of this planet, and its survival. And I think one of the great disgraces of academic economists is that they're not at the forefront of this. It's morally reprehensible that they're not leading the way." - [Geoffrey West](https://twitter.com/sfiscience/status/1193262457566842881)
-
-
-> "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
-
-> "Go big, because we all go home." - [Naval Ravikant](https://twitter.com/naval/status/1714119368358207872)
-
-> "Give society what it wants but doesn't know how to get - at scale." - [Naval Ravikant](https://twitter.com/NavalismHQ/status/1711659079230214615)
-
-
-> "If you eat, invest, and think according to what the ‘news’ advocates, you’ll end nutritionally, financially, and morally bankrupt." - [Naval Ravikant](https://twitter.com/navalbot/status/1422648752691683331)
-HOW DO WE FIX THIS?
 
 
 

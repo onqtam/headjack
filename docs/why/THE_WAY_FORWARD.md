@@ -88,6 +88,21 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Man has always been prepared not only to kill but also to die for good, bad or completely futile causes. And what can be a more valid proof of the reality of the self-transcending urge than this readiness to die for an ideal?" - [Arthur Koestler](https://www.goodreads.com/quotes/9660371-let-me-repeat-the-crimes-of-violence-committed-for-selfish#:~:text=Man%20has%20always%20been%20prepared%20not%20only%20to%20kill%20but%20also%20to%20die%20for%20good%2C%20bad%20or%20completely%20futile%20causes.%20And%20what%20can%20be%20a%20more%20valid%20proof%20of%20the%20reality%20of%20the%20self%2Dtranscending%20urge%20than%20this%20readiness%20to%20die%20for%20an%20ideal%3F)
 
+> "We are going to die, and that makes us the lucky ones. Most people are never going to die because they are never going to be born. The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Arabia. Certainly those unborn ghosts include greater poets than Keats, scientists greater than Newton. We know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people. In the teeth of these stupefying odds it is you and I, in our ordinariness, that are here. We privileged few, who won the lottery of birth against all odds, how dare we whine at our inevitable return to that prior state from which the vast majority have never stirred?" - [Richard Dawkins](https://www.goodreads.com/quotes/83303-we-are-going-to-die-and-that-makes-us-the)
+
+> "After sleeping through a hundred million centuries we have finally opened our eyes on a sumptuous planet, sparkling with color, bountiful with life. Within decades we must close our eyes again. Isn’t it a noble, an enlightened way of spending our brief time in the sun, to work at understanding the universe and how we have come to wake up in it? This is how I answer when I am asked—as I am surprisingly often—why I bother to get up in the mornings." - [Richard Dawkins](https://www.goodreads.com/quotes/91783-after-sleeping-through-a-hundred-million-centuries-we-have-finally)
+
+> "Physics is like sex: sure, it may give some practical results, but that's not why we do it." - [Richard Feynman](https://www.goodreads.com/quotes/117534-physics-is-like-sex-sure-it-may-give-some-practical)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Time preference expansion
+██████████████████████████████████████████████████████████████████
+
+> "With the invention of the clock, Eternity ceased to serve as the measure and focus of human events." - [Neil Postman](https://www.goodreads.com/quotes/594270-with-the-invention-of-the-clock-eternity-ceased-to-serve)
+
+> "Society grows great when old men plant trees whose shade they know they shall never sit in." - [Greek Proverb](https://www.goodreads.com/quotes/666987-society-grows-great-when-old-men-plant-trees-whose-shade)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
 ██████████████████████████████████████████████████████████████████
@@ -191,6 +206,8 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 > "It often happens that the universal belief of one age of mankind... becomes to a subsequent age so palpable an absurdity, that the only difficulty then is to imagine how such a thing can ever have appeared credible." - [John Stuart Mill](https://www.azquotes.com/quote/652591)
 
+> "The most pragmatic problem is the future of this planet, and its survival. And I think one of the great disgraces of academic economists is that they're not at the forefront of this. It's morally reprehensible that they're not leading the way." - [Geoffrey West](https://twitter.com/sfiscience/status/1193262457566842881)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
@@ -227,12 +244,6 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 > "If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." - [Antoine de Saint-Exupéry](https://www.goodreads.com/quotes/384067-if-you-want-to-build-a-ship-don-t-drum-up)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Time preference expansion
-██████████████████████████████████████████████████████████████████
-
-> "With the invention of the clock, Eternity ceased to serve as the measure and focus of human events." - [Neil Postman](https://www.goodreads.com/quotes/594270-with-the-invention-of-the-clock-eternity-ceased-to-serve)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Education & development
 ██████████████████████████████████████████████████████████████████
 
@@ -244,12 +255,17 @@ We are failing at raising humans
 
 We must consciously raise the awareness and education of the so-called masses
 
+> "When kids look up to great scientists the way they do to great musicians and actors, civilization will jump to the next level." - [Brian Greene](https://www.goodreads.com/quotes/169491-when-kids-look-up-to-great-scientists-the-way-they)
+^^ teens in the west want to be influencers, whereas in china they want to be scientists & engineers
+
 > "Age is a hell of a price to pay for wisdom." - [George Carlin](https://www.azquotes.com/quote/1424082)
 ^^ HOW TO WE SPEED THINGS UP TOWARDS WISDOM?
 
 > "The only thing that interferes with my learning is my education." - [Albert Einstein](https://www.goodreads.com/quotes/118223-the-only-thing-that-interferes-with-my-learning-is-my)
 
 > "Student is not a container you have to fill but a torch you have to light up." - [Albert Einstein](https://www.goodreads.com/quotes/249820-student-is-not-a-container-you-have-to-fill-but)
+
+> "Do not indoctrinate your children. Teach them how to think for themselves, how to evaluate evidence, and how to disagree with you." - [Richard Dawkins](https://www.goodreads.com/quotes/508702-do-not-indoctrinate-your-children-teach-them-how-to-think)
 
 > "Elite overproduction is a problem if you are not producing a cognitive elite." - [Joscha Bach](https://twitter.com/Plinz/status/1746430118019678666)
 
@@ -738,4 +754,6 @@ next steps for readers: sign up for updates, contribute, etc.
 
 > "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." - [Steve Jobs](https://www.goodreads.com/quotes/924-here-s-to-the-crazy-ones-the-misfits-the-rebels-the)
 
+> "Go big, because we all go home." - [Naval Ravikant](https://twitter.com/naval/status/1714119368358207872)
 
+> "Give society what it wants but doesn't know how to get - at scale." - [Naval Ravikant](https://twitter.com/NavalismHQ/status/1711659079230214615)
