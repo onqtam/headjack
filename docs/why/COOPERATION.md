@@ -67,15 +67,23 @@ https://prnt.sc/kA6pSBBUfZqV
 
 https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22
 
+> "But until a theoretical explanation -based on human choice – for self-organized and self-governed enterprises is fully developed and accepted, major policy decisions will continue to be undertaken with a presumption that individuals cannot organize themselves and always need to be organized by external authorities." - [Elinor Ostrom](https://www.goodreads.com/quotes/3238607-but-until-a-theoretical-explanation--based-on-human-choice)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Alignment
 ██████████████████████████████████████████████████████████████████
 
+> "If I were a stakeholder I would simply be aligned." - [@jdan](https://twitter.com/jdan/status/1699870400513982624)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████
 
 > "Have I done something for the common good? Then I share in the benefits." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1688958269287755776)
+
+> "The definition of the good society is one in which virtue pays." - [Abraham Maslow](https://minimalistquotes.com/abraham-maslow-quote-85683/)
+
+> "Look deep into nature, and then you will understand everything better." - [Albert Einstein](https://www.goodreads.com/quotes/32930-look-deep-into-nature-and-then-you-will-understand-everything)
 

@@ -157,6 +157,8 @@ https://twitter.com/JamesMelville/status/1652225944067686400
 https://twitter.com/NMukherjee6/status/1654357589562638337
 
 
+> "There is always hope when people are forced to listen to both sides." - [John Stuart Mill](https://www.azquotes.com/quote/660271)
+
 
 > "The amount of control you have over somebody if you can monitor internet activity is amazing." - [Tim Berners-Lee](https://www.azquotes.com/quote/171763)
 

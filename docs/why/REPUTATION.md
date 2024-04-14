@@ -202,6 +202,13 @@ having your post (successfully) labeled as a duplicate of something else could i
 
 > "The only real mistake is the one from which we learn nothing." - [Henry Ford](https://www.goodreads.com/quotes/106813-the-only-real-mistake-is-the-one-from-which-we)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Status
+██████████████████████████████████████████████████████████████████
+
+> "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other

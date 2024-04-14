@@ -27,7 +27,7 @@ message type/format: price predictions with percentage possibilities, so that la
 
 tag type idea: prediction, and later with oracles credibility & track records could be automated
 
-
+summary message type - not just for changing the headline but also crowd-sourcing the summary of something
 
 Announcement type
 

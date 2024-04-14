@@ -12,7 +12,9 @@ Instead imagine being able to view the entire discussion around a specific event
 
 That is what interoperable identity, content-addressing & broadcasted data enables - we can connect and de-duplicate everything and allow anyone to build tools around that - constructing a much bigger graph that what Google have created for themselves.
 
-# Moderation & censorship
+██████████████████████████████████████████████████████████████████
+# SECTION: Moderation
+██████████████████████████████████████████████████████████████████
 
 This is an incredibly hairy topic with many aspects - here are just a few of them:
 
@@ -21,6 +23,16 @@ This is an incredibly hairy topic with many aspects - here are just a few of the
     - accounts can be removed subjectively (case in point: earlier Twitter accounts tracking Nancy Pelosi's public stock trades)
 - There is no way for users to "fork" a Reddit community if they no longer agree with the way moderation is happening - they have to recreate a new subreddit from scratch.
 - There is no market for solving certain types of spam such as financial scams - Twitter & YouTube are riddled with templatized messages and their internal [vertically integrated](TODO.md#vertical-integration-vs-specialization--competition) teams are unable to deal with yet another problem in a world-class manner. In an open system such as email the competition & innovation for solving spam has been tremendous.
+
+
+> "Another possible approach is to use a prediction market where users can upvote/downvote whether posts comply or not with guidelines. A final arbitrator that is occasionally called to clear the market." - [Federico Ast](https://twitter.com/federicoast/status/1415652757873254406)
+
+https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
+
+https://kleros.io/yellowpaper.pdf
+
+https://en.wikipedia.org/wiki/Citizens%27_assembly
+
 
 
 <!-- Think of all the ethnic, religious, political & corporate disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->

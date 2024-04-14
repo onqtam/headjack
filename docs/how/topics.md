@@ -5,6 +5,13 @@ draft: true
 # operating manual for the global brain
 
 
+<details>
+  <summary>Code example</summary>
+  <p>
+    ...
+  </p>
+</details>
+
 <img src="/img/causal_map_example.webp"/>
 taken from here: https://www.sciencedirect.com/science/article/pii/S0301479720315930
 

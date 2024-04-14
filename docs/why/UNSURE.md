@@ -151,4 +151,13 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "A lot of people in our industry haven't had very diverse experiences. So they don't have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one's understanding of the human experience, the better design we will have." - [Steve Jobs](https://www.goodreads.com/quotes/634056-a-lot-of-people-in-our-industry-haven-t-had-very)
 
+> "Some might say: ‘Fragmentation of cities, religions, political systems, conflict in the form of wars, general violence, fratricide, etc., are the reality. Wholeness is only an ideal, toward which we should perhaps strive.’ But this is not what is being said here. Rather, what should be said is that wholeness is what is real, and that fragmentation is the response of this whole to man’s action, guided by illusory perception, which is shaped by fragmentary thought." - [David Bohm](https://www.goodreads.com/quotes/6869447-some-might-say-fragmentation-of-cities-religions-political-systems-conflict)
+
+> "A problem well stated is a problem half solved." - [Charles Franklin Kettering](https://www.goodreads.com/quotes/449969-a-problem-well-stated-is-a-problem-half-solved)
+
+But a problem not fully understood is unsolvable.
+
+> "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." - [Albert Einstein](https://www.goodreads.com/quotes/60780-if-i-had-an-hour-to-solve-a-problem-i-d)
+
+> "Sometimes attaining the deepest familiarity with a question is our best substitute for actually having the answer." - [Brian Greene](https://www.goodreads.com/quotes/1314378-sometimes-attaining-the-deepest-familiarity-with-a-question-is-our)
 

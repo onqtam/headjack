@@ -69,6 +69,11 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "If you let hydrogen gas alone for 13 billion years it will become giraffes, rose bushes and humans." - [Brian Swimme](https://www.azquotes.com/quote/717183)
 
+> "Perhaps because we have at present no coherent world view, there is a widespread tendency to ignore the psychological and social importance of such questions almost altogether." - [David Bohm](https://www.goodreads.com/quotes/6867921-perhaps-because-we-have-at-present-no-coherent-world-view)
+
+> "Deep down the consciousness of mankind is one. This is a virtual certainty because even in the vacuum matter is one; and if we don't see this, it's because we are blinding ourselves to it." - [David Bohm](https://www.azquotes.com/quote/1324965)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
 ██████████████████████████████████████████████████████████████████
@@ -81,11 +86,13 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." - [Sebastian Junger](https://www.goodreads.com/quotes/7694658-humans-don-t-mind-hardship-in-fact-they-thrive-on-it)
 
-> "Have you ever stood and stared at it? Marvelled at its beauty, it’s genius. Billions of people, just living out their lives… oblivious." - [Agent Smith, The Matrix](https://medium.com/rubinas-bojra/12-quotes-from-the-matrix-that-blow-my-mind-every-time-b997c75ea49d#:~:text=Have%20you%20ever%20stood%20and%20stared%20at%20it%3F%20Marvelled%20at%20its%20beauty%2C%20it%E2%80%99s%20genius.%20Billions%20of%20people%2C%20just%20living%20out%20their%20lives%E2%80%A6%20oblivious.)
+> "Man has always been prepared not only to kill but also to die for good, bad or completely futile causes. And what can be a more valid proof of the reality of the self-transcending urge than this readiness to die for an ideal?" - [Arthur Koestler](https://www.goodreads.com/quotes/9660371-let-me-repeat-the-crimes-of-violence-committed-for-selfish#:~:text=Man%20has%20always%20been%20prepared%20not%20only%20to%20kill%20but%20also%20to%20die%20for%20good%2C%20bad%20or%20completely%20futile%20causes.%20And%20what%20can%20be%20a%20more%20valid%20proof%20of%20the%20reality%20of%20the%20self%2Dtranscending%20urge%20than%20this%20readiness%20to%20die%20for%20an%20ideal%3F)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
 ██████████████████████████████████████████████████████████████████
+
+we can - and should - manifest the first major intentional evolutionary step for life on earth
 
 > "Listen, the next revolution is gonna be a revolution of ideas." - [Bill Hicks](https://www.azquotes.com/quote/131769)
 
@@ -231,8 +238,18 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 <img src="/img/educational_crisis.png"/>
 
+children are sponges
+
+We are failing at raising humans
+
+We must consciously raise the awareness and education of the so-called masses
+
 > "Age is a hell of a price to pay for wisdom." - [George Carlin](https://www.azquotes.com/quote/1424082)
 ^^ HOW TO WE SPEED THINGS UP TOWARDS WISDOM?
+
+> "The only thing that interferes with my learning is my education." - [Albert Einstein](https://www.goodreads.com/quotes/118223-the-only-thing-that-interferes-with-my-learning-is-my)
+
+> "Student is not a container you have to fill but a torch you have to light up." - [Albert Einstein](https://www.goodreads.com/quotes/249820-student-is-not-a-container-you-have-to-fill-but)
 
 > "Elite overproduction is a problem if you are not producing a cognitive elite." - [Joscha Bach](https://twitter.com/Plinz/status/1746430118019678666)
 
@@ -385,6 +402,8 @@ https://www.google.com/search?q=this+is+healthy
 > "If one can speak of a cosmic war.. it's a war between monotony and novelty, between stasis and creativity. And in this war, our side is not destined to lose. If we choose to apply our unique capacity to create explanatory knowledge, we could win." - [David Deutsch](https://www.thealternative.org.uk/dailyalternative/2019/10/21/be-a-citizen-of-the-universe#:~:text=If%20one%20can,we%20could%20win.)
 
 > "As natural selection pumps information from the inanimate world into life, nature begins modeling itself, encoding its own structure, and the universe begins to wake up. We are the cosmos come alive. Not metaphorically, but literally." - [Bobby Azarian]()
+
+Life and evolution have a direction - towards greater scales of cooperation and greater evolvability - transcendence
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: God & Religion
@@ -681,6 +700,7 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 >
 > Metamodern religion will only feel intersubjectively real once a critical mass of “believers” subscribe to it. Just because we know that it’s just a story we made up doesn’t make it feel any less real. Even more so, we can believe it because we know we made it up. There is a certain bootstrapping principle at play here that reminds of Alexander Bard’s Syntheos, the created God, and the concept of Hyperstition. Like a collective placebo effect, we might be surprised how real our headless God will feel once enough of us have agreed on a version we could believe in." - [A Headless God or religion for our times, by Octopusyarn](https://octopusyarn.substack.com/p/a-headless-god-or-religion-for-our)
 
+> "Even God seems to create by designing incentives." - [Gordon Brander](https://twitter.com/gordonbrander/status/1700228049399148932)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Redistribution
