@@ -17,6 +17,8 @@ https://imgflip.com/memegenerator/162372564/Domino-Effect -->
 
 synthesis
 
+WHY so many quotes and not paraphrasing and using own words? because its unnecessary, because we can credit those who deserve it, because we are curious about what others think, because it's a way to aggregate opinion - in the spirit of the project.
+
 this book perhaps holds the world record for number of quotes - it speaks through them.
 
 The web is broken on many fronts - this chapter explores many problematic aspects and how they can be completely solved or at least improved. Headjack's paradigm is an architectural reset of the web & opens doors to things which weren't possible before.
