@@ -41,6 +41,8 @@
 
 > "People everywhere confuse what they read in newspapers with news." - [A. J. Liebling](https://www.goodreads.com/quotes/77035-people-everywhere-confuse-what-they-read-in-newspapers-with-news)
 
+> "Some long for the days of the 6pm newscast. This is most certainly a rose-colored view of the past. Those who recall this era remember being soothed by the packaging of the news. In hindsight, what we were watching was not a careful synthesis of fact-checked news but the opinions and interpretations of a small number of people with very limited expertise and even more limited information. It is only events like "Weapons of Mass Destruction" and others recently that have shown the limits of this process in the face of modern information, data, and analysis. I kept asking myself yesterday how different the WMD story would have been had it happened 20 years later. How would a generation of events have unfolded?" - [Steven Sinofsky](https://twitter.com/stevesi/status/1714709247685263419)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer

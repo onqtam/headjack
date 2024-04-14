@@ -52,7 +52,7 @@ When all you have is language, it becomes the hammer and everything else a nail.
 
 ██████████████████████████████████████████████████████████████████
 <!-- # The need for structured data -->
-# Structured data & machine readability
+# SECTION: Structured data & machine readability
 <!-- # Raising the signal/noise ratio -->
 <!-- # Structured data & improving the signal/noise ratio -->
 ██████████████████████████████████████████████████████████████████

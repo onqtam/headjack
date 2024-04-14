@@ -44,9 +44,29 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "If we all did the things we are really capable of doing, we would literally astound ourselves." - [Thomas A. Edison](https://www.goodreads.com/quotes/30655-if-we-all-did-the-things-we-are-really-capable)
 
 
+> "We are beginning to see the entire universe as a holographically interlinked network of energy and information, organically whole and self referential at all scales of its existence. We, and all things in the universe, are non-locally connected with each other and with all other things in ways that are unfettered by the hitherto known limitations of space and time." - [Ervin Laszlo](https://www.azquotes.com/quote/586113)
+
+> "We are forced to choose, for the processes we have initiated in our lifetime cannot continue in the lifetime of our children. Whatever we do either creates the framework for continuing the supreme adventure of life and consciousness on this planet or sets the stage for its termination. The choice before us is urgent and important: it can neither be postponed nor ignored." - [Ervin Laszlo](https://www.azquotes.com/quote/609848)
+
+> "There is a constant and intimate contact among the things that coexist and co-evolve in the universe - a sharing of bonds and messages that makes reality into a stupendous network of interaction and communication." - [Ervin Laszlo](https://www.azquotes.com/quote/1377108)
+
+
+> "Working with a small team of researchers, educators, and scientists, we are creating a curriculum on what we are calling “worldview literacy.” We define this as the capacity to comprehend and communicate not only our own worldview but also to recognize that our beliefs come from our particular frame of reference and to understand that others hold different and potentially equally valid worldviews out of which their assumptions, and therefore their actions, arise. This capacity also includes being able to adapt to changes that come through a meeting of different perspectives, customs, practices, and belief systems." - [Ervin Laszlo](https://www.goodreads.com/quotes/9533762-working-with-a-small-team-of-researchers-educators-and-scientists)
+
+> "A society grows great when old men plant trees in whose shade they shall never sit." - [Greek Proverb](https://www.google.com/search?q=%E2%80%9CA+society+grows+great+when+old+men+plant+trees+in+whose+shade+they+shall+never+sit.%E2%80%9D)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
 ██████████████████████████████████████████████████████████████████
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Culture and norms replacing bureaucracy
+██████████████████████████████████████████████████████████████████
+
+> "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -69,6 +89,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "An open mind is a prerequisite to an open heart." - [Robert Sapolsky](https://www.azquotes.com/quote/1225688)
 
+> "In order for a world-around democracy to prosper, world society must learn how to prosper." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716551)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -141,6 +162,10 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 ██████████████████████████████████████████████████████████████████
 
 <img src="/img/educational_crisis.png"/>
+
+> "There is no such thing as genius, some children are just less damaged than others." - [R. Buckminster Fuller](https://www.azquotes.com/quote/665689)
+
+> "Everyone is born a genius, but the process of living de-geniuses them." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/136839-everyone-is-born-a-genius-but-the-process-of-living)
 
 > "What does the frontal cortex do? Gratification postponement, executive function, long-term planning, and impulse control. Basically, it makes you do the harder thing." - [Robert Sapolsky](https://www.azquotes.com/quote/1562499)
 
@@ -234,6 +259,10 @@ https://www.google.com/search?q=this+is+healthy
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████
+
+> "People never leave a sinking ship until they see the lights of another ship approaching." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1123416)
+
+> "In order to change an existing paradigm you do not struggle to try and change the problematic model. You create a new model and make the old one obsolete." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/35623-in-order-to-change-an-existing-paradigm-you-do-not)
 
 > "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words." - [Ursula K. Le Guin](https://www.goodreads.com/quotes/3238058-we-live-in-capitalism-its-power-seems-inescapable-so-did)
 
