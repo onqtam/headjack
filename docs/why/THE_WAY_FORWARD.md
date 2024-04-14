@@ -97,6 +97,8 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "We are moving from unconscious evolution through natural selection to conscious evolution by choice." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/577820)
 
+> "Nation-states were never built for global action. They are obsolete to the problems we need to solve." - [The End of Nation-States, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-end-of-nation-states?s=w#:~:text=nation%2Dstates%20were%20never%20built%20for%20global%20action.%20They%20are%20obsolete%20to%20the%20problems%20we%20need%20to%20solve.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
 ██████████████████████████████████████████████████████████████████

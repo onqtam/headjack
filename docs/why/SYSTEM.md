@@ -35,6 +35,7 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "The purpose of a system is what it does." - [Stafford Beer](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
 
+> "My biggest takeaway from my work since COVID is that governments are pretty dumb and are managed much more poorly than most companies I’ve worked at." - [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/energy-environment-aging-and-news#:~:text=My%20biggest%20takeaway%20from%20my%20work%20since%20COVID%20is%20that%20governments%20are%20pretty%20dumb%20and%20are%20managed%20much%20more%20poorly%20than%20most%20companies%20I%E2%80%99ve%20worked%20at.)
 
 > "Belief can be manipulated. Only knowledge is dangerous." - [Frank Herbert](https://www.goodreads.com/quotes/384225-belief-can-be-manipulated-only-knowledge-is-dangerous)
 
