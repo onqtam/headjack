@@ -67,11 +67,37 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 ^^ Thank God for the UN
 
+
+> "I smoke. If this bothers anyone, I suggest you look around at the world in which we live and shut your fuckin' mouth." - [Bill Hicks](https://www.goodreads.com/quotes/501200-i-smoke-if-this-bothers-anyone-i-suggest-you-look)
+
+> "There are essentially only two drugs that Western civilization tolerates: Caffeine from Monday to Friday to energize you enough to make you a productive member of society, and alcohol from Friday to Monday to keep you too stupid to figure out the prison that you are living in." - [Bill Hicks](https://www.goodreads.com/quotes/586570-there-are-essentially-only-two-drugs-that-western-civilization-tolerates)
+
+> "This is where we are at right now, as a whole. No one is left out of the loop. We are experiencing a reality based on a thin veneer of lies and illusions. A world where greed is our God and wisdom is sin, where division is key and unity is fantasy, where the ego-driven cleverness of the mind is praised, rather than the intelligence of the heart." - [Bill Hicks](https://www.goodreads.com/quotes/362648-this-is-where-we-are-at-right-now-as-a)
+
+> "Go back to bed, America. Your government has figured out how it all transpired. Go back to bed, America. Your government is in control again. Here. Here's American Gladiators. Watch this, shut up. Go back to bed, America. Here is American Gladiators. Here is 56 channels of it! Watch these pituitary retards bang their fucking skulls together and congratulate you on living in the land of freedom. Here you go, America! You are free to do what we tell you! You are free to do what we tell you!" - [Bill Hicks](https://www.goodreads.com/quotes/188119-go-back-to-bed-america-your-government-has-figured-out)
+
+> "I ascribe to Mark Twain's theory that the last person who should be President is the one who wants it the most. The one who should be picked is the one who should be dragged kicking and screaming into the White House." - [Bill Hicks](https://www.goodreads.com/quotes/289614-i-ascribe-to-mark-twain-s-theory-that-the-last-person)
+
+> "It has become more and more obvious that there is one political party in America, and that is The Business Party." - [Bill Hicks](https://www.azquotes.com/quote/711652)
+
+> "When you're...stepping over a guy on the sidewalk...does it ever occur to you to think, 'Wow. Maybe our system doesn't work?'" - [Bill Hicks](https://www.azquotes.com/quote/830054)
+
+> "People tell me, 'Bill, let it go. The Kennedy assassination was years ago. It was just the assassination of a President and the hijacking of our government by a totalitarian regime - who cares? Just let it go.' I say, 'All right then. That whole Jesus thing? Let it go! It was 2,000 years ago! Who cares?'" - [Bill Hicks](https://www.azquotes.com/quote/1172669)
+
+> "I love talking about the Kennedy assassination. The reason I do is because I'm fascinated by it. I'm fascinated that our government could lie to us so blatantly, so obviously for so long, and we do absolutely nothing about it." - [Bill Hicks](https://www.azquotes.com/quote/1370740)
+
+> "Sometimes my dad even gets on this kick--'You hate this country'....I have to tell him...I just hate being lied to." - [Bill Hicks](https://www.azquotes.com/quote/711671)
+
 > "To ask a politician to lead us is to ask the tail of a dog to lead the dog." - [R. Buckminster Fuller](https://www.azquotes.com/quote/927041)
 
 > "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9104212-bureaucracy-is-a-construction-by-which-a-person-is-conveniently)
 
 > "In poor countries, officials receive explicit bribes; in D.C. they get the sophisticated, implicit, unspoken promise to work for large corporations." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/610868-in-poor-countries-officials-receive-explicit-bribes-in-d-c-they)
+
+
+> "If voting changed anything, it would be illegal." - [George Carlin](https://www.azquotes.com/quote/1248100)
+
+> "When I hear a person talking about political solutions, I know I am not listening to a serious person." - [George Carlin](https://www.azquotes.com/quote/590435)
 
 
 <img src="/img/corruption_is_legal_in_america.png"/>
@@ -98,6 +124,8 @@ Unbreaking America: Solving the Corruption Crisis
 > "As a rule, regulation is acquired by the industry and is designed and operated primarily for its benefit." - [George J. Stigler](https://www.sjsu.edu/faculty/watkins/stigler.htm#:~:text=as%20a%20rule%2C%20regulation%20is%20acquired%20by%20the%20industry%20and%20is%20designed%20and%20operated%20primarily%20for%20its%20benefit.), the father of regulatory capture
 
 >> this is a talk all about regulatory capture: https://www.youtube.com/watch?v=F9cO3-MLHOM
+
+> "That's why they call it the American Dream, because you have to be asleep to believe it." - [George Carlin](https://www.goodreads.com/quotes/17908-that-s-why-they-call-it-the-american-dream-because-you)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -166,6 +194,13 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 >
 > Human alignment, at scale, is possible and is within reach. But it will require killing some very sacred cows of Western liberalism and laissez-faire economics." - [Peter Wang](https://twitter.com/pwang/status/1743618298992861666)
 
+> "If you have selfish, ignorant citizens, you're gonna get selfish, ignorant leaders." - [George Carlin](https://www.azquotes.com/quote/491069)
+
+> "The great human problem of evil stems from the illusion of separateness. Whenever this illusion is overcome, we behave lovingly to one another." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1175884)
+
+> "'Christ' states that those who see themselves as 'separate' and not 'divine' hinder humanity's ability to spiritually evolve. Those who deny their own 'divinity' are like 'cancer cells' in the body of God." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1450151)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism
 ██████████████████████████████████████████████████████████████████
@@ -176,7 +211,13 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 
 > "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
 
+> "Trying to be happy by accumulating possessions is like trying to satisfy hunger by taping sandwiches all over your body." - [George Carlin](https://www.azquotes.com/quote/560826)
 
+> "The Human Species could have been great but instead we became satisfied with lights on our tennis shoes." - [George Carlin](https://www.azquotes.com/quote/396091)
+
+> "I do not believe making money in order to consume goods is mankind’s sole purpose on this planet." - [Bill Hicks](https://www.goodreads.com/quotes/11285184-i-do-not-believe-making-money-in-order-to-consume)
+
+> "They Want You To Be A Docile Apathetic Consumer." - [Bill Hicks](https://www.goodreads.com/quotes/650592-they-want-you-to-be-a-docile-apathetic-consumer)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Opaqueness & Accountability
@@ -194,6 +235,14 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 ██████████████████████████████████████████████████████████████████
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
+
+> "Any organization created out of fear must create fear to survive." - [Bill Hicks](https://www.azquotes.com/quote/798848)
+
+> "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
+
+> "I'm glad mushrooms are against the law, because I took them one time, and you know what happened to me? I laid in a field of green grass for four hours going, "My God! I love everything." Yeah, now if that isn't a hazard to our country … how are we gonna justify arms dealing when we realize that we're all one?" - [Bill Hicks](https://www.goodreads.com/quotes/188118-i-m-glad-mushrooms-are-against-the-law-because-i-took)
+
+> "War is rich old men protecting their property by sending middle class and lower class young men off to die. It always has been." - [George Carlin](https://www.azquotes.com/quote/1369078)
 
 > "Tell me why are we so blind to see That the ones we hurt are you and me?" - [Coolio - Gangsta’s Paradise](https://genius.com/Coolio-gangstas-paradise-lyrics#:~:text=Tell%20me%20why%20are%20we%20so%20blind%20to%20see%0AThat%20the%20ones%20we%20hurt%20are%20you%20and%20me%3F)
 
@@ -258,6 +307,8 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 
 
 > "Trying to reduce environmental pollution without reducing consumerism is like combating drug trafficking without reducing the drug addiction." - [Jorge Majfud](https://en.wikipedia.org/wiki/Anti-consumerism#:~:text=Trying%20to%20reduce%20environmental%20pollution%20without%20reducing%20consumerism%20is%20like%20combating%20drug%20trafficking%20without%20reducing%20the%20drug%20addiction.)
+
+> "I don't see much of a future for this planet. I think it's a cursed planet. The boundaries we've drawn between nations and the profit motive - those two factors have, in my opinion, brought us to the point where almost nothing can stop the utter destruction of the environment and all our earthly life-support systems." - [George Carlin](https://www.azquotes.com/quote/1284811)
 
 
 ██████████████████████████████████████████████████████████████████

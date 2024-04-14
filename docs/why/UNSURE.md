@@ -135,4 +135,9 @@
 
 > "We must progress to the stage of doing all the right things for all the right reasons instead of doing all the right things for all the wrong reasons." - [R. Buckminster Fuller](https://www.azquotes.com/quote/944174)
 
+> "Nothing in biology makes sense except in the light of evolution." - [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution)
+
+> "We can enhance democracy by making it in line with its original vision. Read the dollar bill - E pluribus unum, out of many, one; novus ordo seclorum, a new order of the ages. That's democracy." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/523330)
+
+
 

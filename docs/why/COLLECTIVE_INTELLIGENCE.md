@@ -112,6 +112,7 @@ https://en.wikipedia.org/wiki/Prediction_market
 
 > "Of course, our failures are a consequence of many factors, but possibly one of the most important is the fact that society operates on the theory that specialization is the key to success, not realizing that specialization precludes comprehensive thinking." - [R. Buckminster Fuller](https://www.azquotes.com/quote/826673)
 
+> "Ecology is the science of understanding consequences." - [somebody](http://www.sinanvural.com/seksek/inien/tvd/tvd2.htm#:~:text=ecology%20is%20the%20science%20of%20understanding%20consequences.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Collective intelligence & sensemaking
