@@ -33,6 +33,12 @@ alternative titles:
 
 > "Understanding the often unconscious nature of genetic control is the first step toward understanding that—in many realms, not just sex—we’re all puppets, and our best hope for even partial liberation is to try to decipher the logic of the puppeteer." - [Robert Wright](https://www.goodreads.com/quotes/1210774-understanding-the-often-unconscious-nature-of-genetic-control-is-the)
 
+
+> "Nothing is so difficult as not deceiving oneself." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/66669-nothing-is-so-difficult-as-not-deceiving-oneself)
+
+> "The first principle is that you must not fool yourself and you are the easiest person to fool." - [Richard Feynman](https://www.goodreads.com/quotes/193533-the-first-principle-is-that-you-must-not-fool-yourself)
+
+
 The bias blind spot is the cognitive bias of recognizing the impact of biases on the judgment of others, while failing to see the impact of biases on one's own judgment.
 https://en.wikipedia.org/wiki/Bias_blind_spot
 
@@ -169,6 +175,11 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "We humans distinguish ourselves from other living agents by our ability to not only react to the environment but also establish goals and then set out to accomplish them. This might seem to be a challenge for a theory which suggests that all behavior is in the service of entropy minimization, but the FEP accounts for this quite elegantly as well. In this view, when we set a goal for ourselves, we are making a special kind of prediction about the world. This prediction is one that we know goes against the current sensory evidence, thus increasing free energy. Instead of updating our beliefs to account for the world (and in essence give up on the goal), what we do instead is to set out to act in the world in order to ensure that the sensory evidence corresponds to our prediction, and minimize the free energy in the process... We make a prediction about how we would like the world to be, and then act in order to make that prediction come true." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Towards a language of aggregatable expressions
+██████████████████████████████████████████████████████████████████
+
+> "The limits of my language means the limits of my world." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Causality

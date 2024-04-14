@@ -66,6 +66,8 @@ https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cog
 
 > "We do not measure a culture by its output of undisguised trivialities but by what it claims as significant." - [Neil Postman](https://www.azquotes.com/quote/456296)
 
+> "Ask yourself at every moment, 'Is this necessary?'" - [Marcus Aurelius](https://www.goodreads.com/quotes/7998994-ask-yourself-at-every-moment-is-this-necessary)
+
 > "The essence of strategy is choosing what not to do." - [Michael Porter](https://www.azquotes.com/quote/234635)
 
 > "People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things." - [Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)
@@ -128,6 +130,10 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consciousness
 ██████████████████████████████████████████████████████████████████
+
+> "Consciousness allows you the capacity to plan." - [Gerald Edelman](https://www.azquotes.com/quote/1213454)
+
+> "Perhaps consciousness arises when the brain's simulation of the world becomes so complex that it must include a model of itself." - [Richard Dawkins](https://www.goodreads.com/quotes/842915-perhaps-consciousness-arises-when-the-brain-s-simulation-of-the-world)
 
 > "GWT analogizes the mind to a theater, with conscious thought being like material illuminated on the main stage. The brain contains many specialized processes or modules that operate in parallel, much of which is unconscious. Attention acts as a spotlight, bringing some of this unconscious activity into conscious awareness on the global workspace. The global workspace is a functional hub of broadcast and integration that allows information to be disseminated across modules. As such it can be classified as a functionalist theory of consciousness.
 >

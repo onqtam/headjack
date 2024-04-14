@@ -65,6 +65,8 @@
 >
 > Morpheus: That you are a slave, Neo. Like everyone else you were born into bondage. Into a prison that you cannot taste or see or touch. A prison for your mind." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/3861325-morpheus-the-matrix-is-everywhere-it-is-all-around-us)
 
+> "If you eat, invest, and think according to what the ‘news’ advocates, you’ll end nutritionally, financially, and morally bankrupt." - [Naval Ravikant](https://twitter.com/navalbot/status/1422648752691683331)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer
 ██████████████████████████████████████████████████████████████████

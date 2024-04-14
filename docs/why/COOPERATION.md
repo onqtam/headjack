@@ -87,3 +87,7 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "Look deep into nature, and then you will understand everything better." - [Albert Einstein](https://www.goodreads.com/quotes/32930-look-deep-into-nature-and-then-you-will-understand-everything)
 
+> "Any altruistic system is inherently unstable, because it is open to abuse by selfish individuals, ready to exploit it." - [Richard Dawkins](https://www.goodreads.com/quotes/567499-any-altruistic-system-is-inherently-unstable-because-it-is-open)
+
+> "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
+

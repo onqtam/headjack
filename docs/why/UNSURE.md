@@ -161,3 +161,10 @@ But a problem not fully understood is unsolvable.
 
 > "Sometimes attaining the deepest familiarity with a question is our best substitute for actually having the answer." - [Brian Greene](https://www.goodreads.com/quotes/1314378-sometimes-attaining-the-deepest-familiarity-with-a-question-is-our)
 
+> "I am thrilled to be alive at time when humanity is pushing against the limits of understanding. Even better, we may eventually discover that there are no limits." - [Richard Dawkins](https://www.goodreads.com/quotes/107403-i-am-thrilled-to-be-alive-at-time-when-humanity)
+
+> "When two opposite points of view are expressed with equal intensity, the truth does not necessarily lie exactly halfway between them. It is possible for one side to be simply wrong." - [Richard Dawkins](https://www.goodreads.com/quotes/28318-when-two-opposite-points-of-view-are-expressed-with-equal)
+
+> "At the core of all well-founded belief lies belief that is unfounded." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/208999-at-the-core-of-all-well-founded-belief-lies-belief-that)
+
+

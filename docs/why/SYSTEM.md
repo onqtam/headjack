@@ -321,6 +321,8 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 
 > "To attract the sharpest minds to science, drive the returns from sharp elbows towards zero." - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/6677778275)
 
+> "American political opportunities are loaded against those who are simultaneously intelligent and honest." - [Richard Dawkins](https://www.goodreads.com/quotes/84564-american-political-opportunities-are-loaded-against-those-who-are-simultaneously)
+
 > "Human nature is like water. It takes the shape of its container." - [Wallace Stevens](https://www.goodreads.com/quotes/154092-human-nature-is-like-water-it-takes-the-shape-of)
 
 > "A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play." - [James Carse](https://www.goodreads.com/quotes/400925-a-finite-game-is-played-for-the-purpose-of-winning)
