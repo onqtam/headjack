@@ -45,6 +45,11 @@ https://prnt.sc/o5LZhIhNqIFX
 
 > "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
 
+> "The game B synthesis at its deepest is if you're not constraining a society in relationships and obligations and trustworthy people and you've undermined the concept of virtue ethics - of course game theory is going to run amok and what is late game A but game theory run extensively amok." - [Jim Rutt](https://youtu.be/vUwlp6R57p0?t=1259)
+
+> "You do not rise to the level of your goals. You fall to the level of your systems." - [James Clear](https://www.goodreads.com/quotes/9536717-you-do-not-rise-to-the-level-of-your-goals)
+
+> "“Disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations." - [James Clear](https://www.goodreads.com/quotes/9941975-when-scientists-analyze-people-who-appear-to-have-tremendous-self-control)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge

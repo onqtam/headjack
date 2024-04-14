@@ -280,6 +280,8 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 
 > "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so. The US has made a lot of mistakes of unnecessary wars." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
 
+> "Welcome to the desert of the real." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158633-welcome-to-the-desert-of-the-real-morpheus-the-matrix)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives
 ██████████████████████████████████████████████████████████████████

@@ -75,12 +75,13 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
 
-
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
 
 > "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
 
 > "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." - [Sebastian Junger](https://www.goodreads.com/quotes/7694658-humans-don-t-mind-hardship-in-fact-they-thrive-on-it)
+
+> "Have you ever stood and stared at it? Marvelled at its beauty, it’s genius. Billions of people, just living out their lives… oblivious." - [Agent Smith, The Matrix](https://medium.com/rubinas-bojra/12-quotes-from-the-matrix-that-blow-my-mind-every-time-b997c75ea49d#:~:text=Have%20you%20ever%20stood%20and%20stared%20at%20it%3F%20Marvelled%20at%20its%20beauty%2C%20it%E2%80%99s%20genius.%20Billions%20of%20people%2C%20just%20living%20out%20their%20lives%E2%80%A6%20oblivious.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
@@ -103,8 +104,6 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "The Universe is made of stories, not of atoms." - [Muriel Rukeyser](https://en.wikiquote.org/wiki/Muriel_Rukeyser#:~:text=means%2C%20to%20wake.-,The%20Universe%20is%20made%20of%20stories%2C%20not%20of%20atoms.,-%22The%20Speed%20of)
 
 > "Our consciousness of evolution becomes a springboard for leaping into conscious evolution." - [Bela H. Banathy](https://en.wikipedia.org/wiki/Conscious_evolution#:~:text=Our%20consciousness%20of%20evolution%20becomes%20a%20springboard%20for%20leaping%20into%20conscious%20evolution.)
-
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
@@ -339,10 +338,15 @@ https://www.google.com/search?q=this+is+healthy
 
 > "The body tells the brain how to feel" - [Robert Sapolsky](https://old.reddit.com/r/DrJohnVervaeke/comments/zurer7/maybe_you_wont_solve_the_global_meaning_crisis_or/#:~:text=%22The%20body%20tells%20the%20brain%20how%20to%20feel%22%20%2D%20Robert%20Sapolsky)
 
+> "Be the designer of your world and not merely the consumer of it." - [James Clear](https://www.goodreads.com/quotes/9634706-be-the-designer-of-your-world-and-not-merely-the)
+
+> "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████
+
+> "The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/6410378-the-matrix-is-a-system-neo-that-system-is-our)
 
 > "Don't fight forces, use them." - [R. Buckminster Fuller](https://www.azquotes.com/quote/104088)
 
@@ -692,4 +696,23 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 This is what the human spirit is capable of - self immolating vietnamese monk
 https://upload.wikimedia.org/wikipedia/commons/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg
 https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-1686419067476.png?fm=png&auto=format
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Final section
+██████████████████████████████████████████████████████████████████
+
+> "You have been down there Neo, you know that road, you know exactly where it ends. And I know that's not where you want to be." - [Trinity, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324286&ref_=ext_shr_lnk)
+
+next steps for readers: sign up for updates, contribute, etc.
+
+> "I know you're out there. I can feel you now. I know that you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin. I'm going to hang up this phone, and then I'm going to show these people what you don't want them to see. I'm going to show them a world.. without you. A world without rules or controls, without borders or boundaries. A world where anything is possible. Where we go from there is a choice I leave to you." - [Neo, The Matrix](https://www.finestquotes.com/movie_quotes/movie/Matrix/page/0.htm#:~:text=I%20know%20you%27re,leave%20to%20you.)
+
+^^ THIS but modified (use strikethrough to remove the original parts and add your own - like gatekeepers, not a world without rules/constraints but one of participation, etc.)
+
+> "Remember... all I'm offering is the truth. Nothing more." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324337&ref_=ext_shr_lnk)
+
+^^ not truth but solution
+
+
 

@@ -68,14 +68,6 @@
 
 > "We should not assume that experts are the only ones who have a right to express themselves on questions affecting the organization of society." - [Why Socialism? by Albert Einstein](https://monthlyreview.org/2009/05/01/why-socialism/#:~:text=we%20should%20not%20assume%20that%20experts%20are%20the%20only%20ones%20who%20have%20a%20right%20to%20express%20themselves%20on%20questions%20affecting%20the%20organization%20of%20society.)
 
-> "You do not rise to the level of your goals. You fall to the level of your systems." - [James Clear](https://www.goodreads.com/quotes/9536717-you-do-not-rise-to-the-level-of-your-goals)
-
-> "Be the designer of your world and not merely the consumer of it." - [James Clear](https://www.goodreads.com/quotes/9634706-be-the-designer-of-your-world-and-not-merely-the)
-
-> "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
-
-> "“Disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations." - [James Clear](https://www.goodreads.com/quotes/9941975-when-scientists-analyze-people-who-appear-to-have-tremendous-self-control)
-
 > "Nature does nothing uselessly." - [Aristotle](https://www.goodreads.com/quotes/32921-nature-does-nothing-uselessly)
 
 > "Knowing yourself is the beginning of all wisdom." - [Aristotle](https://www.goodreads.com/quotes/3102-knowing-yourself-is-the-beginning-of-all-wisdom)
@@ -151,7 +143,10 @@
 
 > "In the world of living things, the magic threshold of representational universality is crossed whenever a system’s repertoire of symbols becomes extensible without any obvious limit. This threshold was crossed on the species level somewhere along the way from earlier primates to ourselves." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11737266-in-the-world-of-living-things-the-magic-threshold-of)
 
-> "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
+> "To deny our impulses is to deny the very thing that makes us human." - [Mouse, The Matrix](https://www.goodreads.com/quotes/538425-to-deny-our-impulses-is-to-deny-the-very-thing)
 
+https://www.imdb.com/title/tt0133093/quotes/?item=qt0324255&ref_=ext_shr_lnk
+
+https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 
