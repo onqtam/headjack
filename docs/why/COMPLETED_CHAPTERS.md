@@ -108,6 +108,7 @@ there should also be top 50/200/etc. - we should simply rank everything - vote w
 we can incentivize people to fill out questions to "complete their profile" and nudge them towards answering "top 10 civilizational concerns" - something they might have never even thought about. Some would perhaps look around at what scientists have had to say and boost their answers - hopefully, few would turn to kim kardashian for that sort of question
 we could give points for "filling your profile" - values, top 10s, etc.
 
+Why does Nate Hagens always ask his guests at the end of the show about the one thing they would like to say or do? Ranking. RR
 
 How about top 10 mysteries? Why dont we crowdsource that? Example: how on earth did anyone discover ayahuasca
 
