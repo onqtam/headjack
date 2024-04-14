@@ -1,4 +1,8 @@
 
+
+
+> "Science, as well as technology, will in the near and in the farther future increasingly turn from problems of intensity, substance, and energy, to problems of structure, organization, information, and control." - [John von Neumann](https://www.azquotes.com/quote/1337572)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cybernetics
 ██████████████████████████████████████████████████████████████████

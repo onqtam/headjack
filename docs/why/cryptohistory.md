@@ -8,6 +8,12 @@
 # cryptohistory
 ██████████████████████████████████████████████████████████████████
 
+
+> "History is written by the victors." - unknown
+
+> "Historical amnesia is a dangerous phenomenon not only because it undermines moral and intellectual integrity but also because it lays the groundwork for crimes that still lie ahead." - [Noam Chomsky](https://www.goodreads.com/quotes/7649756-historical-amnesia-is-a-dangerous-phenomenon-not-only-because-it)
+
+
 The highest standards of history are permanence and authenticity
 
 > "We're in the stage where ML model-generated text is going to accelerate the rate of data accumulating on the internet and lower the average quality. This data deluge will degrade trust and user experience across a variety of platforms, increasing pressure on moderation and curation. Combine these trends with accelerating progress in AI and it will be near impossible for one individual to track the changes happening in their own information ecosystem." - [GPT4: The quiet parts and the state of ML](https://robotic.substack.com/p/gpt4-review?utm_source=twitter&utm_campaign=auto_share&r=68gy5#:~:text=We%27re%20in%20the,own%20information%20ecosystem.)

@@ -153,12 +153,6 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "Some might say: ‘Fragmentation of cities, religions, political systems, conflict in the form of wars, general violence, fratricide, etc., are the reality. Wholeness is only an ideal, toward which we should perhaps strive.’ But this is not what is being said here. Rather, what should be said is that wholeness is what is real, and that fragmentation is the response of this whole to man’s action, guided by illusory perception, which is shaped by fragmentary thought." - [David Bohm](https://www.goodreads.com/quotes/6869447-some-might-say-fragmentation-of-cities-religions-political-systems-conflict)
 
-> "A problem well stated is a problem half solved." - [Charles Franklin Kettering](https://www.goodreads.com/quotes/449969-a-problem-well-stated-is-a-problem-half-solved)
-
-But a problem not fully understood is unsolvable.
-
-> "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." - [Albert Einstein](https://www.goodreads.com/quotes/60780-if-i-had-an-hour-to-solve-a-problem-i-d)
-
 > "Sometimes attaining the deepest familiarity with a question is our best substitute for actually having the answer." - [Brian Greene](https://www.goodreads.com/quotes/1314378-sometimes-attaining-the-deepest-familiarity-with-a-question-is-our)
 
 > "I am thrilled to be alive at time when humanity is pushing against the limits of understanding. Even better, we may eventually discover that there are no limits." - [Richard Dawkins](https://www.goodreads.com/quotes/107403-i-am-thrilled-to-be-alive-at-time-when-humanity)
@@ -166,5 +160,12 @@ But a problem not fully understood is unsolvable.
 > "When two opposite points of view are expressed with equal intensity, the truth does not necessarily lie exactly halfway between them. It is possible for one side to be simply wrong." - [Richard Dawkins](https://www.goodreads.com/quotes/28318-when-two-opposite-points-of-view-are-expressed-with-equal)
 
 > "At the core of all well-founded belief lies belief that is unfounded." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/208999-at-the-core-of-all-well-founded-belief-lies-belief-that)
+
+> "Intelligence is the capacity to perceive the essential, the what is; and to awaken this capacity, in oneself and in others, is education." - [Jiddu Krishnamurti](https://www.goodreads.com/quotes/541553-intelligence-is-the-capacity-to-perceive-the-essential-the-what)
+
+> "The beauty of our system is that it isolates everybody. Each person is sitting alone in front of the tube, you know. It's very hard to have ideas or thoughts under those circumstances. You can't fight the world alone" - [Noam Chomsky](https://www.goodreads.com/quotes/625740-the-beauty-of-our-system-is-that-it-isolates-everybody)
+
+> "The major problems in the world are the result of the difference between how nature works and the way people think." - [Gregory Bateson](https://www.goodreads.com/quotes/104738-the-major-problems-in-the-world-are-the-result-of)
+
 
 

@@ -207,6 +207,7 @@ having your post (successfully) labeled as a duplicate of something else could i
 > "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
 ^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
 
+> "I love Twitter: you can make predictions that sound smart and go viral and then delete them when you end up being completely wrong." - [Nikita Bier](https://twitter.com/nikitabier/status/1677733311723245568)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status
