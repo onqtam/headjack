@@ -522,6 +522,9 @@ Farcaster arent thinking bih enough - crdts are a crutch - an unnecessary constr
 
 Anything without built-in incentives is not suitable as a foundation
 
+> "It's not enought for a proof to be correct - a proof should be beautiful." - [Gregory Chaitin](https://youtu.be/JlbbFjAtDEM?t=88)
+It's not enough for a proposed architectural to sort-of be able to address the whole challenge - it must be radically simple and infinitely scalable
+
 
 Guaranteed resolvability
 

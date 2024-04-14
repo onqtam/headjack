@@ -239,6 +239,13 @@ What if there are unintended social dynamics such as pressure to make public you
 
 
 
+Concern:
+> "Everytime I build a high brow product, it flops harder than I could ever predict."
+> "Never forget that humans are animals."
+https://twitter.com/nikitabier/status/1246438096758927360
+
+
+
 # TODO:
 
 takedown requests & liability

@@ -43,6 +43,13 @@
 
 > "Some long for the days of the 6pm newscast. This is most certainly a rose-colored view of the past. Those who recall this era remember being soothed by the packaging of the news. In hindsight, what we were watching was not a careful synthesis of fact-checked news but the opinions and interpretations of a small number of people with very limited expertise and even more limited information. It is only events like "Weapons of Mass Destruction" and others recently that have shown the limits of this process in the face of modern information, data, and analysis. I kept asking myself yesterday how different the WMD story would have been had it happened 20 years later. How would a generation of events have unfolded?" - [Steven Sinofsky](https://twitter.com/stevesi/status/1714709247685263419)
 
+> "Their willingness to edit on the spot and pretend they got it right is insane, and a horrible innovation enabled by web journalism (as opposed to print). They should really be hashing/timestamping articles so they have to commit to their words." - [Nic Carter](https://twitter.com/nic__carter/status/1714663896282223098)
+
+> "Those who can make you believe absurdities, can make you commit atrocities." - [Voltaire](https://www.goodreads.com/quotes/20527-those-who-can-make-you-believe-absurdities-can-make-you)
+
+
+> "Lack of truth in most media is one of the vulnerabilities of our society. Besides giving us sensationalized distorted pictures, which leads to bad judgements, it is preventing great leaders from wanting to lead in politics and business." - [Ray Dalio](https://twitter.com/RayDalio/status/999781767312740352)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer

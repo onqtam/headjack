@@ -66,6 +66,26 @@ https://en.wikipedia.org/wiki/Prediction_market
 > "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes." - [Ray Dalio](https://www.goodreads.com/quotes/7172381-truth---more-precisely-an-accurate-understanding-of-reality--)
 
 
+> "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
+
+> "Doubt is an uncomfortable condition, but certainty is a ridiculous one." - [Voltaire](https://www.goodreads.com/quotes/24949-doubt-is-an-uncomfortable-condition-but-certainty-is-a-ridiculous)
+
+> "Cherish those who seek the truth but beware of those who find it." - [Voltaire](https://www.goodreads.com/quotes/76035-cherish-those-who-seek-the-truth-but-beware-of-those)
+
+> "Perfect is the enemy of good." - [Voltaire](https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good)
+
+
+
+> "The prediction market experiment was a success, but we will not proceed with the programme as it interferes with our ability to shape the narrative around the direction of government policy." - [A G7 government official and advisor to their head of state](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20prediction%20market%20experiment%20was%20a%20success%2C%20but%20we%20will%20not%20proceed%20with%20the%20programme%20as%20it%20interferes%20with%20our%20ability%20to%20shape%20the%20narrative%20around%20the%20direction%20of%20government%20policy.)
+
+> "Your crowdsourced real-time risk radar is remarkable, but we will not use it here. The only person who tells my board about unexploded bombs in this bank is me and people who answer directly to me." - [A leading bank CEO](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=Your%20crowdsourced%20real%2Dtime%20risk%20radar%20is%20remarkable%2C%20but%20we%20will%20not%20use%20it%20here.%20The%20only%20person%20who%20tells%20my%20board%20about%20unexploded%20bombs%20in%20this%20bank%20is%20me%20and%20people%20who%20answer%20directly%20to%20me.)
+
+> "The objective truth should never be more than optional input to any structural narrative in a social system." - [A partner at a prominent US-based global management consultant](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20objective%20truth%20should%20never%20be%20more%20than%20optional%20input%20to%20any%20structural%20narrative%20in%20a%20social%20system.)
+
+> "The problem with prediction markets is that they are the irritating precocious young child, entirely unfiltered socially, and yet forever talking about the elephants in the room that it may or may not be appropriate to talk about." - [A Ivy League Management Guru](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20problem%20with%20prediction%20markets%20is%20that%20they%20are%20the%20irritating%20precocious%20young%20child%2C%20entirely%20unfiltered%20socially%2C%20and%20yet%20forever%20talking%20about%20the%20elephants%20in%20the%20room%20that%20it%20may%20or%20may%20not%20be%20appropriate%20to%20talk%20about.)
+
+> "Prediction, not narration, is the real test of our understanding of the world." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177687-prediction-not-narration-is-the-real-test-of-our-understanding)
+
 > "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
 
 
@@ -88,6 +108,9 @@ https://en.wikipedia.org/wiki/Prediction_market
 ██████████████████████████████████████████████████████████████████
 
 > "It blows my mind how few people in the business world presently see the value of tools capable of modeling and emulating the real time evolution of their causal domain in probabilistic terms, including the way in which their own actions are likely to change the playing field. They're so used to being spoon fed extremely reductive and lagging graphs and charts in .ppt format as reasonable models of their world, that the idea of continuous Socratic interaction with a "living" model comes across as an utterly alien value proposition. And yet that's exactly where things are heading..." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753188223529230376)
+
+
+> "Of course, our failures are a consequence of many factors, but possibly one of the most important is the fact that society operates on the theory that specialization is the key to success, not realizing that specialization precludes comprehensive thinking." - [R. Buckminster Fuller](https://www.azquotes.com/quote/826673)
 
 
 ██████████████████████████████████████████████████████████████████

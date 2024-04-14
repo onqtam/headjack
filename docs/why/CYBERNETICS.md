@@ -91,6 +91,9 @@ The law of requisite variety - tells us something about the computational sophis
 evolution is an inference engine 
 the organisms that persist are the models that are best able to predict the environment
 
+> "The nearest each of us can come to God is by loving the truth." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716546)
+
+> "All of humanity is in peril of extinction if each one of us does not dare, now and henceforth, always to tell only the truth, and all the truth, and to do so promptly - right now." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1267424)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Agency

@@ -25,17 +25,6 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Consumerism
-██████████████████████████████████████████████████████████████████
-
-> "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
-
-> "Civilization has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place." - [Mark Twain](http://www.twainquotes.com/Civilization.html#:~:text=has%20invented%20a%20thousand%20useless%20luxuries%2C%20and%20turned%20them%20into%20necessities%3B%20it%20has%20created%20a%20thousand%20vicious%20appetites%20and%20satisfies%20none%20of%20them%3B%20it%20has%20dethroned%20God%20and%20set%20up%20a%20shekel%20in%20His%20place.)
-
-> "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
-
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Governance & how broken it is
 ██████████████████████████████████████████████████████████████████
 
@@ -80,6 +69,10 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "To ask a politician to lead us is to ask the tail of a dog to lead the dog." - [R. Buckminster Fuller](https://www.azquotes.com/quote/927041)
 
+> "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9104212-bureaucracy-is-a-construction-by-which-a-person-is-conveniently)
+
+> "In poor countries, officials receive explicit bribes; in D.C. they get the sophisticated, implicit, unspoken promise to work for large corporations." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/610868-in-poor-countries-officials-receive-explicit-bribes-in-d-c-they)
+
 
 <img src="/img/corruption_is_legal_in_america.png"/>
 
@@ -96,6 +89,15 @@ https://www.youtube.com/watch?v=TfQij4aQq1k
 Unbreaking America: Solving the Corruption Crisis
 
 > "If voting made any difference they wouldn't let us do it." - [Mark Twain](https://www.goodreads.com/quotes/400040-if-voting-made-any-difference-they-wouldn-t-let-us-do)
+
+
+> "In government, the scum rises to the top." - [Friedrich A. Hayek](https://www.azquotes.com/quote/950261)
+
+> "The state itself becomes more and more identified with the interests of those who run things than with the interests of the people in general." - [Friedrich A. Hayek](https://www.azquotes.com/quote/1300092)
+
+> "As a rule, regulation is acquired by the industry and is designed and operated primarily for its benefit." - [George J. Stigler](https://www.sjsu.edu/faculty/watkins/stigler.htm#:~:text=as%20a%20rule%2C%20regulation%20is%20acquired%20by%20the%20industry%20and%20is%20designed%20and%20operated%20primarily%20for%20its%20benefit.), the father of regulatory capture
+
+>> this is a talk all about regulatory capture: https://www.youtube.com/watch?v=F9cO3-MLHOM
 
 
 ██████████████████████████████████████████████████████████████████
@@ -119,6 +121,12 @@ Unbreaking America: Solving the Corruption Crisis
 
 > "If you can manufacture the right social consensus, control the key nodes in our social epistemology-plex, you can get away with just about anything and nobody will care, except a few very determined contrarians. But I will not go gentle into that good night." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 
+> "It is dangerous to be right in matters on which the established authorities are wrong." - [Voltaire](https://www.goodreads.com/quotes/28326-it-is-dangerous-to-be-right-in-matters-on-which)
+
+> "We are ready to accept almost any explanation of the present crisis of our civilization except one: that the present state of the world may be the result of genuine error on our own part and that the pursuit of some of our most cherished ideals has apparently produced results utterly different from those which we expected." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/973009-we-are-ready-to-accept-almost-any-explanation-of-the)
+
+> "A tumor is a region of a system that optimizes for its local needs at the expense of the rest of the system. Consequently, it takes more from its environment than it contributes. Tumors happen when a system is unable to recognize whether its constituents serve its specification." - [Joscha Bach](https://twitter.com/Plinz/status/1746988788684083595)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conflict vs mistake theory, Moral hazzards, Opaqueness & Plausible Deniability
 ██████████████████████████████████████████████████████████████████
@@ -137,13 +145,38 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 >
 > To bring GameB into being from within GameA will require a moral awakening such that we are no longer willing to tolerate moral laundry on our behalf, even when it provides a material advantage." - [Jim Rutt](https://twitter.com/jim_rutt/status/1754876281148047809)
 
+> "My biggest problem with modernity may lie in the growing separation of the ethical and the legal." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/610845-my-biggest-problem-with-modernity-may-lie-in-the-growing)
+
+> "In science you need to understand the world; in business you need others to misunderstand it." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/6473717-in-science-you-need-to-understand-the-world-in-business)
+
+> "It's a damn shame that a society be structured such that an approach with honesty and good faith is a sucker strategy." - [Jim Rutt on the Village Global podcast about Game B, at 0:05:24](https://open.spotify.com/episode/68kN2CDBR7RHjktHCtOf20)
+
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Individualism
+# SECTION: Individualism & narcissism
 ██████████████████████████████████████████████████████████████████
 
 > "All over the world, mobile hunter-gatherers use social control guided by moral rules to see to it that when a successful hunter kills a large mammal, his ego is held in check." - [Christopher Boehm](https://www.goodreads.com/quotes/11025365-all-over-the-world-mobile-hunter-gatherers-use-social-control-guided)
 
 > "Rather than an “individual”, we might use the term “dividual” to highlight the primacy of relationship and interconnectedness." - [Transforming cultures and selves, by Octopusyarn](https://octopusyarn.substack.com/p/transforming-cultures-and-selves)
+
+> "The next iteration of Western progress will be rooted in an updated philosophy that doesn’t create a false dichotomy between individual achievement and communal thriving; that generalizes personal spiritual development beyond any single religious tradition and instead centers meaning of mortal life on connection with transcendent dynamics (emergence, awe) in space and time; and is unflinchingly honest about the lessons we’ve learned over the last 400 years about collective action mechanisms, biology, and cognition.
+>
+> Even without AI we can develop this over the next 10-20 years. With AI, it can go even better, even faster.
+>
+> Human alignment, at scale, is possible and is within reach. But it will require killing some very sacred cows of Western liberalism and laissez-faire economics." - [Peter Wang](https://twitter.com/pwang/status/1743618298992861666)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Consumerism
+██████████████████████████████████████████████████████████████████
+
+> "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
+
+> "Civilization has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place." - [Mark Twain](http://www.twainquotes.com/Civilization.html#:~:text=has%20invented%20a%20thousand%20useless%20luxuries%2C%20and%20turned%20them%20into%20necessities%3B%20it%20has%20created%20a%20thousand%20vicious%20appetites%20and%20satisfies%20none%20of%20them%3B%20it%20has%20dethroned%20God%20and%20set%20up%20a%20shekel%20in%20His%20place.)
+
+> "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Opaqueness & Accountability
@@ -169,6 +202,10 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 > "Either war is obsolete or men are." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/94311-either-war-is-obsolete-or-men-are)
 
 > "Dare to be naive." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/1268719-dare-to-be-na-ve)
+
+> "Either man is obsolete or war is. War is the ultimate tool of politics. Political leaders look out only for their own side. Politicians are always realistically maneuvering for the next election. They are obsolete as fundamental problem-solvers." - [R. Buckminster Fuller](https://www.azquotes.com/quote/529559)
+
+> "War is obsolete. We are not here to fight something or tear something down; We are here to be the example of what is possible. Any sane individual will tell you that violence is ... not the way." - [R. Buckminster Fuller](https://www.azquotes.com/quote/528770)
 
 
 > "According to Margaret Mead, the institution of war is a cultural invention that can be abolished, so it is not a biological necessity to kill one another on a grand scale." - [War as the Autoimmune Disease of Humanity: Perspectives on a Theoretical Proposal](https://www.globalpoliticsreview.com/publications/2464-9929_v02_i01_p11.pdf)
@@ -236,4 +273,6 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "We Didn't Run Out Of Television Screens And Planes, We Ran Out Of Food." - [School Principal, Interstellar (2014)](https://screenrant.com/interstellar-awesome-quotes-make-you-think/#quot-we-didn-39-t-run-out-of-television-screens-and-planes-we-ran-out-of-food-quot:~:text=%22We%20Didn%27t%20Run%20Out%20Of%20Television%20Screens%20And%20Planes%2C%20We%20Ran%20Out%20Of%20Food.%22)
 
 > "do not go gentle into that good night" - quote
+
+> "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/897104-antifragility-is-beyond-resilience-or-robustness-the-resilient-resists-shocks)
 

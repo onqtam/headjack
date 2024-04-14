@@ -126,15 +126,32 @@ Problems with democracy and voters:
 > "Voters have punished incumbents for droughts and shark attacks and rewarded them for recent sports victories. Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”" - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=voters%20have%20punished%20incumbents%20for%20droughts%20and%20shark%20attacks%20and%20rewarded%20them%20for%20recent%20sports%20victories.%20Caplan%20dismisses%20retrospective%20voting%2C%20quoting%20a%20pair%20of%20scholars%20who%20call%20it%20%E2%80%9Cno%20more%20rational%20than%20killing%20the%20pharaoh%20when%20the%20Nile%20does%20not%20flood.%E2%80%9D)
 
 
+> "The reward for being a good problem solver is to be heaped with more and more difficult problems to solve." - [R. Buckminster Fuller](https://www.azquotes.com/quote/943600)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Reputation & skin in the game
 ██████████████████████████████████████████████████████████████████
+
+> "First ethical rule: If you see fraud and do not say fraud, you are a fraud." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9928470-first-ethical-rule-if-you-see-fraud-and-do-not)
+
+> "In the long-run, the best proof of a good character is good actions." - [John Stuart Mill](https://www.azquotes.com/quote/1377006)
 
 https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
 
 > "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
 
 having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit
+
+> "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
+
+> "Even if some of the public doesn’t care about the credibility score, the journalists, editors & publications will. It is how they define themselves." - [Elon Musk](https://twitter.com/elonmusk/status/999369623484039168)
+
+
+> "A man is honorable in proportion to the personal risks he takes for his opinion." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/3240519-a-man-is-honorable-in-proportion-to-the-personal-risks)
+
+> "Those who talk should do and only those who do should talk." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9137243-those-who-talk-should-do-and-only-those-who-do)
+
+> "Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have—or don’t have—in their portfolio." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1176143-never-ask-anyone-for-their-opinion-forecast-or-recommendation-just)
 
 
 > "Do not create your reputation system as if it is a monetary system. You do not spend or trade reputation. Once you earn it, it is yours." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=do%20not%20create%20your%20reputation%20system%20as%20if%20it%20is%20a%20monetary%20system.%20You%20do%20not%20spend%20or%20trade%20reputation.%20Once%20you%20earn%20it%2C%20it%20is%20yours.)
