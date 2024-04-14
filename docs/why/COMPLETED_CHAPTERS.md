@@ -43,33 +43,6 @@ The beauty of hash chains is that you can’t rewrite the past
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Relevance realization
-██████████████████████████████████████████████████████████████████
-
-> "Relevance is like biological fittedness. It is cognitive fittedness." - [John Vervaeke](https://twitter.com/tomowenmorgan/status/1742174771196866796)
-
-> "You face a problem - in fact it's a meta problem whenever you're trying to do any problem solving - this is the following problem: the amount of information available to you is combinatorily explosive, it is vast, it is overwhelming. The amount of things you could pay attention to in this room - you could look at that spot right there, or that spot, or the relationship between the spots - you can do that, you're capable of it. When you think about it carefully now: the amount of ways you could look at this room and attend to it is combinatorially explosive. It is vast. The amount of information you have in your long-term memory and the possible combinations - it's huge. You could think of an aardvark, you could think of the Aztec empire, you could think of the beginning of the gold standard, and you could possibly even connect them all together. Think of all the ways you can connect all the things in your long-term memory. All the sequences of actions - I'm going to solve a problem - I'm going to start moving my body around, I can move this finger, then this finger could move these two, I could grab I could lift my hands, like oh I can sing - out of all the possible combinations you somehow zero in on the right thing to do, the right thing to pay attention to, and the right things to be remembering right now. You zero in on the relevant information and you ignore most - overwhelmingly most - of the irrelevant information. You frame your cognition and you pay attention only to what's within that frame and you ignore what's outside of that frame. It sounds paradoxical but this is the case - you're intelligent because of your capacity to ignore so much information." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=730)
-
-> "Relevance realization is the name I give to a process which I argue is central to general intelligence. Your general intelligence is your capacity to solve a wide variety of problems in a wide variety of domains. For most of the problems you face the interrelated tasks of selecting what you are to pay attention to, what you are going to remember, and what you are going to do. The problem facing attention is that the amount of information available to you is astronomically vast. You have to ignore most of it, which is a lot of information. You cannot just arbitrarily guess what you should attend to nor can you methodically check all the information for that would take more time than your lifetime. There is a similar problem facing memory. Your long term memory stores a vast amount of knowledge, and the number of ways that information can be combined is astronomically vast. Similarly, all the possible sequences of actions which you could undertake is astronomically vast. Yet, moment by moment you are neither guessing nor methodically checking all the information, all your memory, or all the options for action. You are homing in on the relevant information while remembering the information relevant to your situation and selecting a relevant course of action. What is so impressive is how this is all obvious to you, and it is very often relevant to the context you are in and to the problem at hand. You can rely on the obviousness of your experience and that it is reliably sensitive to context. However, cognitive science has to explain how you generate such obviousness such that it is contextually sensitive to solving your problems. Saying that relevance is obvious or depends on context does not solve the problem because this merely renames the problem of relevance realization as the problem of generating a sense of the relevance of information in a contextually sensitive manner, and how do we do that? To say we learn it by experience is not helpful because to say we learn is to say that we zero in on relevant information in order to solve our problems. This learning cannot be arbitrary association nor can it use exhaustive examination of situations. Learning presupposes relevance realization and therefore cannot explain it. I currently have a paper under review, where my coauthors and I argue that relevance realization is probably convergent with the precision weighting at the core of predictive processing models. This convergence adds significant theoretical plausibility to the proposal that relevance realization is central to intelligence." - [John Vervaeke](https://www.quora.com/What-is-a-summary-of-relevance-realization-according-to-John-Vervaeke)
-
-> "The essence of strategy is choosing what not to do." - [Michael Porter](https://www.azquotes.com/quote/234635)
-
-> "Billions are wasted on ineffective philanthropy. Philanthropy is decades behind business in applying rigorous thinking to the use of money." - [Michael Porter](https://www.azquotes.com/quote/234633)
-
-
-Why does Nate Hagens always ask his guests at the end of the show about the one thing they would like to say or do? Ranking. RR
-
-> "To attain knowledge, add things everyday. To attain wisdom, remove things every day." - [Lao Tzu](https://www.goodreads.com/quotes/30297-to-attain-knowledge-add-things-everyday-to-attain-wisdom-remove)
-
-
-> "To develop the skill of introspection and correct thinking is to learn — in the first place — what you have to disregard. The ineffectiveness of natural thinking comes from being overwhelmed by an infinity of possibilities and facts. In order to go on, you have to know what to leave out; this is the essence of effective thinking." - [Kurt Gödel](https://medium.com/catalyzingcoherence/a-meditation-on-diversity-equality-and-humanity-48008cd197a#:~:text=To%20develop%20the,of%20effective%20thinking.)
-
-> "Things which matter most must never be at the mercy of things which matter least." - [Johann Wolfgang von Goethe](https://www.goodreads.com/quotes/2326-things-which-matter-most-must-never-be-at-the-mercy)
-
-> "We do not measure a culture by its output of undisguised trivialities but by what it claims as significant." - [Neil Postman](https://www.azquotes.com/quote/456296)
-
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Top10 lists
 ██████████████████████████████████████████████████████████████████
 

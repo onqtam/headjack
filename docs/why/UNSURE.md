@@ -99,5 +99,8 @@
 
 > "You may not be interested in memes, but memes are interested in you." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1717838832798703962)
 
+> "The imperfect human process of ascertaining the truth benefits from open sources, free speech, and active debate. And Credentials != Reputation." - [Tim Sweeney](https://twitter.com/TimSweeneyEpic/status/1715425536065826995)
+
+> "Hunger, poverty, unsustainability, war, healthcare, illiteracy, pollution, global warming, consumerism… All these issues lead to one single common question at their core: our capability to build human organizations that no longer create such outcomes. Our main stake consists in collective intelligence. Today large organizations (governments, corporations, administrations…) encounter insurmountable difficulties when dealing with the complexity and the unexpectedness of the world. They undergo conflicts of interest in many areas – between profitability and sustainability, secrecy and transparency, values and value, individual and collective dynamics, and knowledge fertilizing – that opens – and competition – that closes." - [Collective intelligence](https://cir.institute/collective-intelligence/#:~:text=Hunger%2C%20poverty%2C%20unsustainability,competition%20%E2%80%93%20that%20closes.)
 
 

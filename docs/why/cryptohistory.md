@@ -185,6 +185,8 @@ The argument that specialized message types are unnecessary because AI will even
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
 
+How much science & polls [don't replicate](https://twitter.com/johnmsides/status/1765068280694480964)?
+
 > "All theories are error-laden, and all people—including scientists—are fallible. In our modern world, it is troubling to see the title “science” serving as a cloak, underneath which is dogmatism. What started off as an escape from authority is now tending towards the very kind of thing it escaped from. “Believe the science,” they say. The idea that we should defer the responsibility for making the decisions of our society to a few scientists who have an apparent authority on what’s true is tyranny. Authoritarianism in science is heavily ironic. “Belief in science” is an oxymoron, not a creed." - [On the derangements of science](https://criticalrationalism.substack.com/p/on-the-derangements-of-science#:~:text=All%20theories%20are,not%20a%20creed.)
 
 TODO: finish reading from this sentence onwards:
