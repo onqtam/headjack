@@ -43,6 +43,8 @@ https://prnt.sc/o5LZhIhNqIFX
 
 > "Freedom is obedience to self-formulated rules." - [Aristotle](https://www.goodreads.com/quotes/671308-freedom-is-obedience-to-self-formulated-rules)
 
+> "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge

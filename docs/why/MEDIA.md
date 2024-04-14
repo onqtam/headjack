@@ -85,4 +85,8 @@ The opposite of divide and conquer is integration
 # SECTION: Advertising
 ██████████████████████████████████████████████████████████████████
 
+> "Economics are the method; the object is to change the soul." - [Margaret Thatcher](https://www.azquotes.com/quote/665382)
+^^ lol wtf
+
+
 

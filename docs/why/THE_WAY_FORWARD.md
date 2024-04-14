@@ -67,6 +67,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "When you get a new worldview you get a new world. It's like the shift from medieval Christianity to the Renaissance and enlightenment." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1468497)
 
+> "If you let hydrogen gas alone for 13 billion years it will become giraffes, rose bushes and humans." - [Brian Swimme](https://www.azquotes.com/quote/717183)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
@@ -98,6 +99,12 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "We are moving from unconscious evolution through natural selection to conscious evolution by choice." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/577820)
 
 > "Nation-states were never built for global action. They are obsolete to the problems we need to solve." - [The End of Nation-States, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-end-of-nation-states?s=w#:~:text=nation%2Dstates%20were%20never%20built%20for%20global%20action.%20They%20are%20obsolete%20to%20the%20problems%20we%20need%20to%20solve.)
+
+> "The Universe is made of stories, not of atoms." - [Muriel Rukeyser](https://en.wikiquote.org/wiki/Muriel_Rukeyser#:~:text=means%2C%20to%20wake.-,The%20Universe%20is%20made%20of%20stories%2C%20not%20of%20atoms.,-%22The%20Speed%20of)
+
+> "Our consciousness of evolution becomes a springboard for leaping into conscious evolution." - [Bela H. Banathy](https://en.wikipedia.org/wiki/Conscious_evolution#:~:text=Our%20consciousness%20of%20evolution%20becomes%20a%20springboard%20for%20leaping%20into%20conscious%20evolution.)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
@@ -675,7 +682,7 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 # SECTION: Redistribution
 ██████████████████████████████████████████████████████████████████
 
-
+> "Don’t be dogmatic about the government always being good or bad. Don’t think education or healthcare should always be private or always be public. The question is never what philosophy is better. The question is: *What are each market’s failures, and how can regulation correct them*." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Don%E2%80%99t%20be%20dogmatic%20about%20the%20government%20always%20being%20good%20or%20bad.%20Don%E2%80%99t%20think%20education%20or%20healthcare%20should%20always%20be%20private%20or%20always%20be%20public.%20The%20question%20is%20never%20what%20philosophy%20is%20better.%20The%20question%20is%3A%20What%20are%20each%20market%E2%80%99s%20failures%2C%20and%20how%20can%20regulation%20correct%20them.)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -685,3 +692,4 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 This is what the human spirit is capable of - self immolating vietnamese monk
 https://upload.wikimedia.org/wikipedia/commons/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg
 https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-1686419067476.png?fm=png&auto=format
+

@@ -23,6 +23,9 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "A business that makes nothing but money is a poor business." - [Henry Ford](https://www.goodreads.com/quotes/392495-a-business-that-makes-nothing-but-money-is-a-poor)
 
+> "**Lots of supply, lots of demand**, and both buyers and sellers are **perfectly informed**: These characteristics make a perfect market. This is what every market should strive for. But many markets fall short of that." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Lots%20of%20supply%2C%20lots%20of%20demand%2C%20and%20both%20buyers%20and%20sellers%20are%20perfectly%20informed%3A%20These%20characteristics%20make%20a%20perfect%20market.%20This%20is%20what%20every%20market%20should%20strive%20for.%20But%20many%20markets%20fall%20short%20of%20that.)
+
+> "Not enough suppliers, not enough demanders, imperfect information, asymmetric information, moral hazard, externalities, and transaction costs. These are the most typical market failures. They tend to be the ones that need to be regulated away." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Not%20enough%20suppliers%2C%20not%20enough%20demanders%2C%20imperfect%20information%2C%20asymmetric%20information%2C%20moral%20hazard%2C%20externalities%2C%20and%20transaction%20costs.%20These%20are%20the%20most%20typical%20market%20failures.%20They%20tend%20to%20be%20the%20ones%20that%20need%20to%20be%20regulated%20away.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Governance & how broken it is
@@ -197,10 +200,13 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 
 > "If you have selfish, ignorant citizens, you're gonna get selfish, ignorant leaders." - [George Carlin](https://www.azquotes.com/quote/491069)
 
+> "It is a chicken and an egg right? If you believe we are selfish we therefore create institutions that draw out our selfishness." - [Jon David Erickson](https://www.linkedin.com/in/jon-d-erickson/)
+
 > "The great human problem of evil stems from the illusion of separateness. Whenever this illusion is overcome, we behave lovingly to one another." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1175884)
 
 > "'Christ' states that those who see themselves as 'separate' and not 'divine' hinder humanity's ability to spiritually evolve. Those who deny their own 'divinity' are like 'cancer cells' in the body of God." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1450151)
 
+> "With no community, we lack both a unit to sacrifice for, and a unit to keep assholes in check." - [Joe Norman](https://twitter.com/normonics/status/1260572116111458310)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism
@@ -237,6 +243,8 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
 
+> "Some of us, perhaps all of us, believe that it is legitimate to kill enemy soldiers in a war, as if war were a special circumstance that shrinks the sizes of enemy souls." - [Douglas Hofstadter](https://www.goodreads.com/quotes/830578-some-of-us-perhaps-all-of-us-believe-that-it)
+
 > "Any organization created out of fear must create fear to survive." - [Bill Hicks](https://www.azquotes.com/quote/798848)
 
 > "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
@@ -270,6 +278,7 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 
 > "Immense financial, natural and human resources are directed at warfare, even though one trivial realization on a mass scale would result in the total cessation of all hostilities. This realization is that every Other (the so-called “enemy”) is in actuality a fellow cell, because regardless of the superficial differences these very units comprise the living organism we call humanity. The healthy, peaceful, cooperative state of humanity needs to be every responsible human being’s concern." - [War as the Autoimmune Disease of Humanity: Perspectives on a Theoretical Proposal](https://www.globalpoliticsreview.com/publications/2464-9929_v02_i01_p11.pdf)
 
+> "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so. The US has made a lot of mistakes of unnecessary wars." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives
