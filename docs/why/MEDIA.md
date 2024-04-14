@@ -50,6 +50,12 @@
 
 > "Lack of truth in most media is one of the vulnerabilities of our society. Besides giving us sensationalized distorted pictures, which leads to bad judgements, it is preventing great leaders from wanting to lead in politics and business." - [Ray Dalio](https://twitter.com/RayDalio/status/999781767312740352)
 
+> "They'll get it all from you sooner or later 'cause they own this f**kin' place. It's a big club and you ain't in it. You and I are not in the big club. By the way, it's the same big club they use to beat you over the head with all day long when they tell you what to believe. All day long beating you over the head with their media telling you what to believe, what to think and what to buy. The table is tilted, folks. The game is rigged and nobody seems to notice. Nobody seems to care. Good, honest, hard-working people: white collar, blue collar, it doesn't matter what color shirt you have on." - [George Carlin](https://www.azquotes.com/quote/543644)
+
+> "Keep in mind, the news media are not independent; they are a sort of bulletin board and public relations firm for the ruling class-the people who run things. Those who decide what news you will or will not hear are paid by, and tolerated purely at the whim of, those who hold economic power. If the parent corporation doesn't want you to know something, it won't be on the news. Period. Or, at the very least, it will be slanted to suit them, and then rarely followed up." - [George Carlin](https://www.azquotes.com/quote/900399)
+
+> "Our media, which is like a planetary nervous system, are far more sensitive to breakdowns than to breakthroughs. They filter out our creativity and successes, considering them less newsworthy than violence, war, and dissent. When we read newspapers and watch television news, we feel closer to a death in the social body than to an awakening." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1175885)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer
@@ -61,6 +67,11 @@
 
 The opposite of divide and conquer is integration
 
+> "If you want to make a society work, then you don’t keep underscoring the places where you’re different—you underscore your shared humanity" - [Sebastian Junger](https://www.goodreads.com/quotes/7691361-if-you-want-to-make-a-society-work-then-you)
+
+> "All the media and the politicians ever talk about is things that separate us, things that make us different from one another." - [George Carlin](https://www.azquotes.com/quote/1069412)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Power of language
 ██████████████████████████████████████████████████████████████████
@@ -68,4 +79,10 @@ The opposite of divide and conquer is integration
 > "Words have power. They can save, cure, uplift, devastate, deflate, and kill. And unconscious priming with words influences pro- and antisocial behaviors." - [Robert Sapolsky](https://www.goodreads.com/quotes/8796369-words-have-power-they-can-save-cure-uplift-devastate-deflate)
 
 > "Call the game the “Wall Street Game,” and people become less cooperative. Calling it the “Community Game” does the opposite." - [Robert Sapolsky](https://www.goodreads.com/quotes/8702794-call-the-game-the-wall-street-game-and-people-become)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Advertising
+██████████████████████████████████████████████████████████████████
+
 

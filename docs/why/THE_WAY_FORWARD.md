@@ -65,6 +65,37 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "We are called to be the architects of the future, not its victims." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/7799934-we-are-called-to-be-the-architects-of-the-future)
 
+> "When you get a new worldview you get a new world. It's like the shift from medieval Christianity to the Renaissance and enlightenment." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1468497)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Meaning of/in life
+██████████████████████████████████████████████████████████████████
+
+> "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
+
+
+> "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
+
+> "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
+
+> "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." - [Sebastian Junger](https://www.goodreads.com/quotes/7694658-humans-don-t-mind-hardship-in-fact-they-thrive-on-it)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Conscious Evolution
+██████████████████████████████████████████████████████████████████
+
+> "Listen, the next revolution is gonna be a revolution of ideas." - [Bill Hicks](https://www.azquotes.com/quote/131769)
+
+> "Problems are evolutionary drivers." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1506502)
+
+> "Folks, it's time to evolve. That's why we're troubled. You know why our institutions are failing us, the church, the state, everything's failing? It's because, um – they're no longer relevant. We're supposed to keep evolving. Evolution did not end with us growing opposable thumbs. You do know that, right?" - [Bill Hicks](https://www.goodreads.com/quotes/188122-folks-it-s-time-to-evolve-that-s-why-we-re-troubled-you)
+
+> "Everything you do counts forever. You are an expression of the whole process of creation; you are a cocreator." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/577824)
+
+> "In the next 30 years we can destroy our world. With the very same powers - spiritual, social, scientific - we can evolve our world. Our mission is to serve as catalysts for a planetary awakening in our lifetime, to take a non-violent path to the next stage of our evolution." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/535956)
+
+> "We are moving from unconscious evolution through natural selection to conscious evolution by choice." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/577820)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
@@ -192,6 +223,9 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 <img src="/img/educational_crisis.png"/>
 
+> "Age is a hell of a price to pay for wisdom." - [George Carlin](https://www.azquotes.com/quote/1424082)
+^^ HOW TO WE SPEED THINGS UP TOWARDS WISDOM?
+
 > "Elite overproduction is a problem if you are not producing a cognitive elite." - [Joscha Bach](https://twitter.com/Plinz/status/1746430118019678666)
 
 > "School is training children in solving the most boring puzzles imaginable. Everything I've ever learned not through pain, I learned from solving interesting puzzles." - [Joscha Bach](https://twitter.com/Plinz/status/1746400465229950985)
@@ -221,7 +255,9 @@ https://en.wikipedia.org/wiki/Montessori_education
 > "Probably the most important fact about genetics and culture is the delayed maturation of the frontal cortex—the genetic programming for the young frontal cortex to be freer from genes than other brain regions, to be sculpted instead by environment, to sop up cultural norms. To hark back to a theme from the first pages of this book, it doesn’t take a particularly fancy brain to learn how to motorically, say, throw a punch. But it takes a fancy, environmentally malleable frontal cortex to learn culture-specific rules about when it’s okay to throw punches." - [Robert Sapolsky](https://www.goodreads.com/quotes/8955185-probably-the-most-important-fact-about-genetics-and-culture-is)
 
 
+> "There's a reason education sucks, and it's the same reason it will never ever ever be fixed. It's never going to get any better. Don't look for it. Be happy with what you've got, because the owners of this country don't want that. I'm talking about the real owners now... the real owners. The big wealthy business interests that control things and make all the important decisions. Forget the politicians. The politicians are put there to give you the idea that you have freedom of choice. You don't. You have no choice. You have owners." - [George Carlin](https://www.azquotes.com/quote/681872)
 
+> "Governments don't want a population capable of critical thinking, they want obedient workers, people just smart enough to run the machines and just dumb enough to passively accept their situation. You have no choice. You have owners. They own you. They own everything. They own all the important land. They own, and control the corporations. They've long since bought, and paid for the Senate, the Congress, the state houses, the city halls, they got the judges in their back pockets and they own all the big media companies, so they control just about all of the news and information you get to hear." - [George Carlin](https://www.azquotes.com/quote/1140273)
 
 
 
@@ -322,19 +358,6 @@ https://www.google.com/search?q=this+is+healthy
 > "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
 
 > "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Meaning of/in life
-██████████████████████████████████████████████████████████████████
-
-> "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
-
-
-> "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
-
-> "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
-
-> "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." - [Sebastian Junger](https://www.goodreads.com/quotes/7694658-humans-don-t-mind-hardship-in-fact-they-thrive-on-it)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
