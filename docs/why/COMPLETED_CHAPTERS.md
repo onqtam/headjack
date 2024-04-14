@@ -451,12 +451,3 @@ When these principles are applied, they ensure that whatever structures are deve
 ██████████████████████████████████████████████████████████████████
 
 
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Meaning of life
-██████████████████████████████████████████████████████████████████
-
-> "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
-
-
-> "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)

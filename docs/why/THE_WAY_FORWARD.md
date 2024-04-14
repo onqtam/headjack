@@ -55,11 +55,40 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "A society grows great when old men plant trees in whose shade they shall never sit." - [Greek Proverb](https://www.google.com/search?q=%E2%80%9CA+society+grows+great+when+old+men+plant+trees+in+whose+shade+they+shall+never+sit.%E2%80%9D)
 
+> "Every man is guilty of all the good he did not do." - [Voltaire](https://www.goodreads.com/quotes/39266-every-man-is-guilty-of-all-the-good-he-did)
+
+> "The world as a whole has never been richer, and it has never been more heavily in debt, living off borrowed money. The record shows that, for society, the richer we become, the harder it get to live within our means. Abundance is harder for us to handle than scarcity." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/3230542-the-world-as-a-whole-has-never-been-richer-and)
+
+> "Don’t you see how much you have to offer? And yet you still settle for less." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1712226590820884674)
+
+> "We’re here to put a dent in the universe. Otherwise why else even be here?" - [Steve Jobs](https://www.goodreads.com/quotes/950437-we-re-here-to-put-a-dent-in-the-universe-otherwise)
+
+> "We are called to be the architects of the future, not its victims." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/7799934-we-are-called-to-be-the-architects-of-the-future)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
 ██████████████████████████████████████████████████████████████████
 
+> "If man chooses oblivion, he can go right on leaving his fate to his political leaders. If he chooses Utopia, he must initiate an enormous education program - immediately, if not sooner." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1128605)
+
+> "We know now what we could never have known before - that we now have the option for all humanity to make it successfully on this planet in this lifetime. Whether it is to be Utopia or Oblivion will be a touch-and-go relay race right up to the final moment." - [R. Buckminster Fuller](https://www.azquotes.com/quote/570361)
+
+> "Whether it is to be Utopia or Oblivion will be a touch-and-go relay race right up to the final moment… Humanity is in a final exam as to whether or not it qualifies for continuance in the Universe." - [R. Buckminster Fuller](https://david-54838.medium.com/utopia-or-oblivion-c402faf20d77#:~:text=Whether%20it%20is%20to%20be%20Utopia%20or%20Oblivion%20will%20be%20a%20touch%2Dand%2Dgo%20relay%20race%20right%20up%20to%20the%20final%20moment%E2%80%A6%20Humanity%20is%20in%20a%20final%20exam%20as%20to%20whether%20or%20not%20it%20qualifies%20for%20continuance%20in%20the%20Universe.)
+
+> "The future is a choice between Utopia and oblivion." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1373371)
+
+> "The World has become too dangerous for anything less than Utopia." - [R. Buckminster Fuller](https://www.azquotes.com/quote/679207)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Sharing economy, having enough & not competing for status through possession
+██████████████████████████████████████████████████████████████████
+
+
+> "There is enough for everyone. People think that there isn't enough, so they get as much as they can, so many people don't have enough." - [R. Buckminster Fuller](https://www.azquotes.com/quote/546271)
+
+> "Our beds are empty two-thirds of the time. Our living rooms are empty seven-eighths of the time. Our office buildings are empty one-half of the time. It's time we gave this some thought." - [R. Buckminster Fuller](https://www.azquotes.com/quote/945085)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -163,7 +192,17 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 <img src="/img/educational_crisis.png"/>
 
+> "Elite overproduction is a problem if you are not producing a cognitive elite." - [Joscha Bach](https://twitter.com/Plinz/status/1746430118019678666)
+
+> "School is training children in solving the most boring puzzles imaginable. Everything I've ever learned not through pain, I learned from solving interesting puzzles." - [Joscha Bach](https://twitter.com/Plinz/status/1746400465229950985)
+
+> "It is immoral and unconscionable to the rest of society to gatekeep the access to the elite through a handful of ideologically captured academic institutions. Every sufficiently clear headed child should have access to an educational path that gets them elite certifications." - [Joscha Bach](https://twitter.com/Plinz/status/1746379894513401891)
+
 > "There is no such thing as genius, some children are just less damaged than others." - [R. Buckminster Fuller](https://www.azquotes.com/quote/665689)
+
+> "There will come a time when the proper education of children, by a glorified system of spontaneous education of choice, similar to the Montessori System, will be made possible." - [R. Buckminster Fuller](https://www.azquotes.com/quote/927032)
+
+https://en.wikipedia.org/wiki/Montessori_education
 
 > "Everyone is born a genius, but the process of living de-geniuses them." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/136839-everyone-is-born-a-genius-but-the-process-of-living)
 
@@ -260,6 +299,10 @@ https://www.google.com/search?q=this+is+healthy
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████
 
+> "Don't fight forces, use them." - [R. Buckminster Fuller](https://www.azquotes.com/quote/104088)
+
+> "Don't change the man. Change his environment." - [R. Buckminster Fuller](https://www.azquotes.com/quote/964439)
+
 > "People never leave a sinking ship until they see the lights of another ship approaching." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1123416)
 
 > "In order to change an existing paradigm you do not struggle to try and change the problematic model. You create a new model and make the old one obsolete." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/35623-in-order-to-change-an-existing-paradigm-you-do-not)
@@ -279,6 +322,19 @@ https://www.google.com/search?q=this+is+healthy
 > "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
 
 > "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Meaning of/in life
+██████████████████████████████████████████████████████████████████
+
+> "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
+
+
+> "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
+
+> "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
+
+> "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." - [Sebastian Junger](https://www.goodreads.com/quotes/7694658-humans-don-t-mind-hardship-in-fact-they-thrive-on-it)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
@@ -594,3 +650,13 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 # SECTION: Redistribution
 ██████████████████████████████████████████████████████████████████
 
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Other
+██████████████████████████████████████████████████████████████████
+
+This is what the human spirit is capable of - self immolating vietnamese monk
+https://upload.wikimedia.org/wikipedia/commons/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg
+https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-1686419067476.png?fm=png&auto=format

@@ -69,3 +69,6 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████
+
+> "Have I done something for the common good? Then I share in the benefits." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1688958269287755776)
+

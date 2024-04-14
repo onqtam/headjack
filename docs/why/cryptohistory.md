@@ -27,6 +27,8 @@ https://pbs.twimg.com/media/Fzphul-acAED4dj.jpg
 the future of status and prestige is authentic computable context & reputation on top of immutable cryptohistory
 
 
+> "What is history? The lie that everyone agrees on..." - [Voltaire](https://www.goodreads.com/quotes/86931-what-is-history-the-lie-that-everyone-agrees-on)
+
 - point: with AI being democratized - authenticity & a ledger of record will be more important than ever.
 
 > "If the news are fake imagine history" - [Amused Chimp](https://twitter.com/AmuseChimp/status/906147488582787073)
@@ -184,6 +186,10 @@ The argument that specialized message types are unnecessary because AI will even
 ██████████████████████████████████████████████████████████████████
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
+
+> "Research by salaried laborers is becoming a rent-seeking citation ring consisting of large scale imitative rituals, with a decreasing number of results, an increasing cluelessness of participants, and a multiplication of useless rules." - [Nassim Nicholas Taleb](https://twitter.com/nntaleb/status/1009417068926722048)
+
+
 
 How much science & polls [don't replicate](https://twitter.com/johnmsides/status/1765068280694480964)?
 

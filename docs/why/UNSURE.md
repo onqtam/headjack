@@ -103,4 +103,36 @@
 
 > "Hunger, poverty, unsustainability, war, healthcare, illiteracy, pollution, global warming, consumerism… All these issues lead to one single common question at their core: our capability to build human organizations that no longer create such outcomes. Our main stake consists in collective intelligence. Today large organizations (governments, corporations, administrations…) encounter insurmountable difficulties when dealing with the complexity and the unexpectedness of the world. They undergo conflicts of interest in many areas – between profitability and sustainability, secrecy and transparency, values and value, individual and collective dynamics, and knowledge fertilizing – that opens – and competition – that closes." - [Collective intelligence](https://cir.institute/collective-intelligence/#:~:text=Hunger%2C%20poverty%2C%20unsustainability,competition%20%E2%80%93%20that%20closes.)
 
+> "Every man is a creature of the age in which he lives and few are able to raise themselves above the ideas of the time." - [Voltaire](https://www.goodreads.com/quotes/255815-every-man-is-a-creature-of-the-age-in-which)
+
+> "To hold a pen is to be at war." - [Voltaire](https://www.goodreads.com/quotes/30874-to-hold-a-pen-is-to-be-at-war)
+^^ to tune the global weights in public is to be at war
+
+> "Sometimes people ask you a question with their eyes begging you to not tell them the truth." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/8154023-sometimes-people-ask-you-a-question-with-their-eyes-begging)
+
+
+> "It is my great hope someday, to see science and decision makers rediscover what the ancients have always known. Namely that our highest currency is respect." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/557440-it-is-my-great-hope-someday-to-see-science-and)
+
+> "The world in which we live has an increasing number of feedback loops, causing events to be the cause of more events (say, people buy a book because other people bought it), thus generating snowballs and arbitrary and unpredictable planet-wide winner-take-all effects." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/675178-the-world-in-which-we-live-has)
+
+> "Your political tribe will turn on you the moment you express an opinion they don’t like. That is not “belonging”, that is being held hostage." - [@G_S_Bhogal](https://twitter.com/thewisebot/status/1709418070869999848)
+
+> "I'm not trying to copy Nature, I'm trying to find the principles she's using." - [R. Buckminster Fuller](https://www.azquotes.com/quote/808772)
+
+> "A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist." - [R. Buckminster Fuller](https://www.azquotes.com/quote/104097)
+
+> "There are over 2 million cars standing in front of red lights with their engines going. Then we have over 2 million times approximately 100 horsepower being generated as they are idling there, so that we have something like 200 million horses jumping up and down and going nowhere. Now, we have to count that in our economy when we begin to get down to what is the efficiency of the economy." - [R. Buckminster Fuller](https://www.azquotes.com/quote/933404)
+
+> "Nature is a totally efficient, self-regenerating system. If we discover the laws that govern this system and live synergistically within them, sustainability will follow and humankind will be a success." - [R. Buckminster Fuller](https://www.azquotes.com/quote/944201)
+
+> "Now there is one outstanding important fact regarding spaceship earth, and that is that no instruction book came with it." - [R. Buckminster Fuller](https://www.azquotes.com/quote/104131)
+
+> "You cannot question an assumption you do not know you have made." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1522311)
+
+> "Integrity is the essence of everything successful." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/959200-integrity-is-the-essence-of-everything-successful)
+
+> "Humanity is acquiring all the right technology for all the wrong reasons." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/93734-humanity-is-acquiring-all-the-right-technology-for-all-the)
+
+> "We must progress to the stage of doing all the right things for all the right reasons instead of doing all the right things for all the wrong reasons." - [R. Buckminster Fuller](https://www.azquotes.com/quote/944174)
+
 
