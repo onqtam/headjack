@@ -435,18 +435,6 @@ https://twitter.com/disclosetv/status/1678387920955232259
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 when someone does bad in terms of competence/accountability, in addition to a reputational penalty to them we could also penalize a bit those that gave their votes to that person - for empowering a rotten apple. We could also give rewards for delegating to the right person...?
 
 Human potential is being squandered on a grand scale - why arent we investing the most so that the most disadvantaged rise the fastest? Such an altruistic act is the best way towards building trust
@@ -1801,9 +1789,6 @@ Genesis triplet
 
 Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
 
-
-The book of synthesis
-
 Alignment score
 
 Conviviality
@@ -1833,9 +1818,6 @@ We can vote on what kind of stories we want
 Write something with ? And use as tinder bio
 
 There should not be such a thing as private intellectual property
-
-Put a hash of the book on the stone tablet
-Also IPFS CID!!!
 
 How do we ban disposable cups and plates and plastics?
 
@@ -8303,44 +8285,6 @@ https://scroll.io/blog/zkEVM
 
 Accounts are integers and the state tree should reflect that - doesnt need to be a trie based on crypto addresses
 
-
-████████████████████████████████████████████████ EigenLayr
-
-
-
-concern for using ETH instead of native token for staking
-https://twitter.com/sreeramkannan/status/1555425874828095488
-
-
-1.3mb/s data availability for celestia requires 1gb/s speed
-
-- unsure:
-    - not sure if the historic record of blocks should be:
-        - incentivized
-            - perhaps for Headjack it should be baked into the protocol the way Arweave does it?
-        - not incentivized
-        - scrapped altogether - and put historic hashes in the actual state - making it bigger
-    - what finality guarantees do I want?
-    - throughput requirements
-    - big question regarding scale: should the interest graph go on-chain?
-        - historical storage not necessary about the state of the interst graph - only for the proofs for anchored content (merkle root + IPFS CID)
-        - in-protocol incentivization?
-            https://polynya.medium.com/the-endgame-bottleneck-historical-storage-e83c101d2a7c
-
-
-- transition path for my project? different DA layer and moving away from the EigenLayr smart contracts?
-
-- DataLayr
-    - is the DA layer shared by all rollups using DataLayr and will they fight for resources?
-        - will many separate rollups on DataLayr share the same 10MB/s of DA throughput that has been achieved on the testnet with 100 nodes?
-    - direct IPs and not using a p2p layer?
-        - could DataLayr have been p2p and without public IPs?
-        - how come DoS attacks are avoided too? mentioned here: https://youtu.be/OtUOXTqrSyg?t=1542
-
-- Q: why is it hard to hard-fork a standalone chain but easier if consensus & DA are coming from Celestia?
-https://twitter.com/jon_charb/status/1546501640827568128
-
-
 ██████ unsorted
 
 TODO: what about small entities like "year progress" - should they get a unique ID on-chain? Or some other light-weight account type should exist? maybe an "owned" off-chain index that's a child of the creator?
@@ -8389,15 +8333,6 @@ Write about social media aggregator tools for creators - just a bandaid
 
 
 For old uris where names have changed ownership - can display obsolete names with different color
-
-
-
-
-The two killer apps of crypto are finance and identity, with the latter one not done properly (yet)
-
-
-Web3 is the end of the host-centric internet
-
 
 
 
@@ -8659,10 +8594,6 @@ mission
 goal
 
 ACCESS? ownership/property rights
-
-Cybernetics is a transdisciplinary approach for exploring regulatory systems — their structures, constraints, and possibilities.
-
-
 
 
 ██████ ideas about page & book structure (& titles!)
