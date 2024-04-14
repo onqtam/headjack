@@ -26,6 +26,16 @@ https://en.wikipedia.org/wiki/Kialo
 
 https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
+
+> "I believe this topic of Internet disagreement is the single most important problem of humankind. Why? Because exchanging ideas is how we make decisions in society, and how we make decisions drives everything else. If we can do that efficiently, humankind will solve every other problem more efficiently." - [Debate Is Broken. How to Improve It, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken#:~:text=I%20believe%20this,problem%20more%20efficiently.)
+
+Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will China and the US Go to War?" in an Oxford-style debate in his ["Debate Is Broken. How to Improve It"](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken) piece.
+
+> "Traditionally, people would say “this is a nuanced debate, full of insightful points”. What I see instead is confusion. It’s hard to remember all the arguments. Which ones matter most to each side. Which ones are most convincing. Where we’re landing with them. Whether any argument failed to get a response from the other side. What were the supporting points for each. Which facts are true. …" - [Debate Is Broken. How to Improve It, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken#:~:text=Traditionally%2C%20people%20would,%E2%80%A6)
+
+> "Imagine a world where every debate was portrayed with a tool that does this, but even better. One where any person could consult the state of any debate and see where things stand. Where they could contribute in the areas they know about. Where they had an incentive to be right. This is a better world. Now expand that from online debates to any decision you might need to make. And imagine you could reuse the pieces of arguments from other people into your own arguments. This is a much better world." - [Debate Is Broken. How to Improve It, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken#:~:text=imagine%20a%20world,much%20better%20world.)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: You're a neuron
 ██████████████████████████████████████████████████████████████████
