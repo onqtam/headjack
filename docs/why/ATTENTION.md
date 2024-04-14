@@ -63,3 +63,10 @@ https://twitter.com/Kristennetten/status/1600444201744801792
 Visualizing “the current thing” throughout 2023
 https://twitter.com/exec_sum/status/1743744897264345445
 ^^ THIS IS ATTENTIONAL DISFUNCTION
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Consciousness
+██████████████████████████████████████████████████████████████████
+
+
+> "Consciousness allows you the capacity to plan." - [Gerald Edelman](https://www.azquotes.com/quote/1213454)

@@ -4,6 +4,7 @@
 # SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
 ██████████████████████████████████████████████████████████████████
 
+> "Whoever does a thing best ought to be the one to do it. It is criminal to try to get business away from another man—criminal because one is then trying to lower for personal gain the condition of one's fellow man—to rule by force instead of by intelligence." - [Henry Ford](https://www.goodreads.com/quotes/8659213-2-a-disregard-of-competition-whoever-does-a-thing-best)
 
 
 > "Noocracy ( where nous means 'wise' and kratos means 'rule' therefore 'rule of the wise' ) is a form of government where decision making is done by wise people. The idea is proposed by various philosophers such as [Plato](https://en.wikipedia.org/wiki/Plato), [Gautama Buddha](https://en.wikipedia.org/wiki/The_Buddha), [al-Farabi](https://en.wikipedia.org/wiki/Al-Farabi) and [Confucius](https://en.wikipedia.org/wiki/Confucius)." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Noocracy%20(/,and%20Confucius.)
@@ -179,3 +180,16 @@ having your post (successfully) labeled as a duplicate of something else could i
 
 > "It won’t be rational for mainstream to reallocate authority to uncredentialized amateurs - no matter how much more correct they are, until there is a very legible and scalable way to delegate trust, so that not everyone has to fact check everything the independent shadow academy — the invisible college — the commons — the bazaar— puts forward against the cathedral of “expert consensus” that is so often state sponsored scientism." - [Conor White-Sullivan](https://twitter.com/Conaw/status/1733062636911411572)
 
+
+> "You can't build a reputation on what you are going to do." - [Henry Ford](https://www.goodreads.com/quotes/7482-you-can-t-build-a-reputation-on-what-you-are-going)
+
+> "The only real mistake is the one from which we learn nothing." - [Henry Ford](https://www.goodreads.com/quotes/106813-the-only-real-mistake-is-the-one-from-which-we)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Other
+██████████████████████████████████████████████████████████████████
+
+https://twitter.com/eriktorenberg/status/1748056677449138500
+"Backchannel references as a service - Pay money, get a reference. Give a reference, get paid (as long as your reference is desired) If you're seeking a reference, you only pay if we find you someone you want to talk to"
+^^ this but with ZK

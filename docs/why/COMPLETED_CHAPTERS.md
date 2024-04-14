@@ -32,48 +32,25 @@ https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Protopia
-██████████████████████████████████████████████████████████████████
-
-██████████████████████████████████████████████████████████████████
 # SECTION: STONE TABLET IPFS CID HASH OF BOOK
 ██████████████████████████████████████████████████████████████████
 
 The beauty of hash chains is that you can’t rewrite the past
 
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Self-organization
-██████████████████████████████████████████████████████████████████
 
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Stigmergy
-██████████████████████████████████████████████████████████████████
-
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Redistribution
-██████████████████████████████████████████████████████████████████
-
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Alignment
-██████████████████████████████████████████████████████████████████
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Consequence capture
-██████████████████████████████████████████████████████████████████
 
 
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Relevance realization
 ██████████████████████████████████████████████████████████████████
+
+> "Relevance is like biological fittedness. It is cognitive fittedness." - [John Vervaeke](https://twitter.com/tomowenmorgan/status/1742174771196866796)
+
+> "You face a problem - in fact it's a meta problem whenever you're trying to do any problem solving - this is the following problem: the amount of information available to you is combinatorily explosive, it is vast, it is overwhelming. The amount of things you could pay attention to in this room - you could look at that spot right there, or that spot, or the relationship between the spots - you can do that, you're capable of it. When you think about it carefully now: the amount of ways you could look at this room and attend to it is combinatorially explosive. It is vast. The amount of information you have in your long-term memory and the possible combinations - it's huge. You could think of an aardvark, you could think of the Aztec empire, you could think of the beginning of the gold standard, and you could possibly even connect them all together. Think of all the ways you can connect all the things in your long-term memory. All the sequences of actions - I'm going to solve a problem - I'm going to start moving my body around, I can move this finger, then this finger could move these two, I could grab I could lift my hands, like oh I can sing - out of all the possible combinations you somehow zero in on the right thing to do, the right thing to pay attention to, and the right things to be remembering right now. You zero in on the relevant information and you ignore most - overwhelmingly most - of the irrelevant information. You frame your cognition and you pay attention only to what's within that frame and you ignore what's outside of that frame. It sounds paradoxical but this is the case - you're intelligent because of your capacity to ignore so much information." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=730)
+
+> "Relevance realization is the name I give to a process which I argue is central to general intelligence. Your general intelligence is your capacity to solve a wide variety of problems in a wide variety of domains. For most of the problems you face the interrelated tasks of selecting what you are to pay attention to, what you are going to remember, and what you are going to do. The problem facing attention is that the amount of information available to you is astronomically vast. You have to ignore most of it, which is a lot of information. You cannot just arbitrarily guess what you should attend to nor can you methodically check all the information for that would take more time than your lifetime. There is a similar problem facing memory. Your long term memory stores a vast amount of knowledge, and the number of ways that information can be combined is astronomically vast. Similarly, all the possible sequences of actions which you could undertake is astronomically vast. Yet, moment by moment you are neither guessing nor methodically checking all the information, all your memory, or all the options for action. You are homing in on the relevant information while remembering the information relevant to your situation and selecting a relevant course of action. What is so impressive is how this is all obvious to you, and it is very often relevant to the context you are in and to the problem at hand. You can rely on the obviousness of your experience and that it is reliably sensitive to context. However, cognitive science has to explain how you generate such obviousness such that it is contextually sensitive to solving your problems. Saying that relevance is obvious or depends on context does not solve the problem because this merely renames the problem of relevance realization as the problem of generating a sense of the relevance of information in a contextually sensitive manner, and how do we do that? To say we learn it by experience is not helpful because to say we learn is to say that we zero in on relevant information in order to solve our problems. This learning cannot be arbitrary association nor can it use exhaustive examination of situations. Learning presupposes relevance realization and therefore cannot explain it. I currently have a paper under review, where my coauthors and I argue that relevance realization is probably convergent with the precision weighting at the core of predictive processing models. This convergence adds significant theoretical plausibility to the proposal that relevance realization is central to intelligence." - [John Vervaeke](https://www.quora.com/What-is-a-summary-of-relevance-realization-according-to-John-Vervaeke)
 
 > "The essence of strategy is choosing what not to do." - [Michael Porter](https://www.azquotes.com/quote/234635)
 
@@ -291,20 +268,6 @@ top10 things to answer:
 
 Top10 humorous yet informative channels to subscribe to
 - Climate Town
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Consciousness
-██████████████████████████████████████████████████████████████████
-
-> "GWT analogizes the mind to a theater, with conscious thought being like material illuminated on the main stage. The brain contains many specialized processes or modules that operate in parallel, much of which is unconscious. Attention acts as a spotlight, bringing some of this unconscious activity into conscious awareness on the global workspace. The global workspace is a functional hub of broadcast and integration that allows information to be disseminated across modules. As such it can be classified as a functionalist theory of consciousness.
->
-> When sensory input, memories, or internal representations are given attention, they become part of the global workspace and can then be operated on by a variety of processes. As elements compete for attention, the ones that win are granted entry to the global workspace, allowing their information to be distributed and coordinated across the whole cognitive system.
->
-> GWT resembles the concept of working memory and is proposed to correspond to a 'momentarily active, subjectively experienced' event in working memory. It facilitates top-down control of attention, working memory, planning, and problem-solving through this information sharing.
->
-> In the 'theater of consciousness', a 'spotlight of selective attention' shines a bright spot on stage, revealing the contents of consciousness. Behind the scenes, in the dark, are the director (executive processes), stagehands, scriptwriters, scene designers, and the like. They shape the visible activities in the bright spot but are themselves invisible.
->
-> ...It serves as a central information exchange, rather than a locus of cognition itself, enabling different specialized brain networks to interact and supporting integrated and adaptive responses." - [Global workspace theory, Wikipedia](https://en.wikipedia.org/wiki/Global_workspace_theory#:~:text=GWT%20analogizes%20the,and%20adaptive%20responses.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Structure & Organization

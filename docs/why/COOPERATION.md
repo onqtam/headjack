@@ -34,6 +34,16 @@ https://prnt.sc/o5LZhIhNqIFX
 >
 > To overcome coordination failures, we need to be able to communicate despite our differences. And we need to be able to trust that when we act, others will act too. The initial kick can be enough people making their actions visible. Groups can have exponentially greater impacts than individuals. We thus need to think beyond the impact of our own actions and consider what will happen when we act as part of a group." - [Coordination Problems: What It Takes to Change the World](https://fs.blog/coordination-problems/#:~:text=It%E2%80%99s%20possible%20to,of%20a%20group.)
 
+> "All human groups frown on, make pronouncements against, and punish the following: murder, undue use of authority, cheating that harms group cooperation, major lying, theft, and socially disruptive sexual behavior. These basic rules of conduct appear to be human universals." - [Christopher Boehm](https://www.goodreads.com/quotes/11025360-all-human-groups-frown-on-make-pronouncements-against-and-punish)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Constraints
+██████████████████████████████████████████████████████████████████
+
+> "Freedom is obedience to self-formulated rules." - [Aristotle](https://www.goodreads.com/quotes/671308-freedom-is-obedience-to-self-formulated-rules)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge
 ██████████████████████████████████████████████████████████████████
@@ -50,3 +60,12 @@ https://prnt.sc/kA6pSBBUfZqV
 
 https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Alignment
+██████████████████████████████████████████████████████████████████
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Consequence capture
+██████████████████████████████████████████████████████████████████

@@ -66,3 +66,38 @@
 
 > "It is inescapable that every culture must negotiate with technology, whether it does so intelligently or not. A bargain is struck in which technology giveth and technology taketh away." - [Neil Postman](https://www.azquotes.com/quote/732989)
 
+> "We should not assume that experts are the only ones who have a right to express themselves on questions affecting the organization of society." - [Why Socialism? by Albert Einstein](https://monthlyreview.org/2009/05/01/why-socialism/#:~:text=we%20should%20not%20assume%20that%20experts%20are%20the%20only%20ones%20who%20have%20a%20right%20to%20express%20themselves%20on%20questions%20affecting%20the%20organization%20of%20society.)
+
+> "You do not rise to the level of your goals. You fall to the level of your systems." - [James Clear](https://www.goodreads.com/quotes/9536717-you-do-not-rise-to-the-level-of-your-goals)
+
+> "Be the designer of your world and not merely the consumer of it." - [James Clear](https://www.goodreads.com/quotes/9634706-be-the-designer-of-your-world-and-not-merely-the)
+
+> "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
+
+> "“Disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations." - [James Clear](https://www.goodreads.com/quotes/9941975-when-scientists-analyze-people-who-appear-to-have-tremendous-self-control)
+
+> "Nature does nothing uselessly." - [Aristotle](https://www.goodreads.com/quotes/32921-nature-does-nothing-uselessly)
+
+> "Knowing yourself is the beginning of all wisdom." - [Aristotle](https://www.goodreads.com/quotes/3102-knowing-yourself-is-the-beginning-of-all-wisdom)
+
+
+> "You can't learn in school what the world is going to do next year." - [Henry Ford](https://www.goodreads.com/quotes/23497-you-can-t-learn-in-school-what-the-world-is-going)
+
+
+> "Brains operate...not by logic but by pattern recognition. This process is not precise, as is logic and mathematics. Instead, it trades off specificity and precision, if necessary, to increase its range. It is likely, for example, that early human thought proceeded by metaphor, which, even with the late acquisition of precise means such as logic and mathematical thought, continues to be a major source of imagination and creativity in adult life." - [Gerald Edelman](https://www.goodreads.com/quotes/7704253-brains-operate-not-by-logic-but-by-pattern-recognition-this-process)
+
+
+> "Hayek made a quite fruitful suggestion, made contemporaneously by the psychologist Donald Hebb, that whatever kind of encounter the sensory system has with the world, a corresponding event between a particular cell in the brain and some other cell carrying the information from the outside word must result in reinforcement of the connection between those cells. These day, this is known as a Hebbian synapse, but von Hayek quite independently came upon the idea. I think the essence of his analysis still remains with us." - [Gerald Edelman](https://www.azquotes.com/quote/1457170)
+
+> "Since the idea that modification of synaptic function can provide a basis for memory arose shortly after the first anatomical description of the synapse a number of models (Hebb 1949 . . Hayek 1952 . . Kendel 1981) have been proposed in which various cognitive activities are represented by combinations of the firing patterns of individual neurons." - [Gerald Edelman](https://www.azquotes.com/quote/1457174)
+
+> "What we observe is not nature itself, but nature exposed to our method of questioning." - [Werner Heisenberg](https://www.goodreads.com/quotes/64760-what-we-observe-is-not-nature-itself-but-nature-exposed)
+
+> "My 1 repeated learning in life: "There Are No Adults" Everyone's making it up as they go along. Figure it out yourself, and do it." - [Naval Ravikant](https://twitter.com/naval/status/16258463969)
+
+> "Beneath this mask is more than flesh, beneath this mask is an idea." - [V for Vendetta, by Alan Moore](https://www.goodreads.com/author/quotes/6217739.Allan_F_Moore)
+
+> "You may not be interested in memes, but memes are interested in you." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1717838832798703962)
+
+
+
