@@ -139,5 +139,19 @@
 
 > "We can enhance democracy by making it in line with its original vision. Read the dollar bill - E pluribus unum, out of many, one; novus ordo seclorum, a new order of the ages. That's democracy." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/523330)
 
+> "From natural selection’s point of view, status assistance is the main purpose of friendship." - [Robert Wright](https://www.goodreads.com/quotes/9700916-from-natural-selection-s-point-of-view-status-assistance-is-the)
+
+> "For now, what is important is not finding the answer, but looking for it." - [Douglas Hofstadter](https://www.goodreads.com/quotes/9315515-for-now-what-is-important-is-not-finding-the-answer)
+
+> "I personally cannot imagine that consciousness will be fully understood without reference to Godelian loops or level-crossing feedback loops." - [Douglas Hofstadter](https://www.goodreads.com/quotes/9682972-i-personally-cannot-imagine-that-consciousness-will-be-fully-understood)
+
+> "Where there's a pattern, there's a reason." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11528303-where-there-s-a-pattern-there-s-a-reason)
+
+> "In short, there are surprising new structures that looping gives rise to that constitute a new level of reality that could in principle be deduced from the basic loop and its detailed properties, but that in practice have a different kind of “life of their own” and that demand — at least when it comes to extremely finite, simplicity-seeking, pattern-loving creatures like us — a new vocabulary and a new level of description that transcend the basic level out of which they emerge." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11734614-in-short-there-are-surprising-new-structures-that-looping-gives)
+
+> "In the world of living things, the magic threshold of representational universality is crossed whenever a system’s repertoire of symbols becomes extensible without any obvious limit. This threshold was crossed on the species level somewhere along the way from earlier primates to ourselves." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11737266-in-the-world-of-living-things-the-magic-threshold-of)
+
+> "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
+
 
 

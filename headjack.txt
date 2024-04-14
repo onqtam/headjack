@@ -209,11 +209,6 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 
 
 
-> "Management by results is the idea that decisions should be pushed down as much as possible in the hierarchy. One of the most famous examples of this is the system of OKRs.
->
-> Created by Intel and popularized by Google5, it stands for Objectives and Key Results. It’s a management system where the top leadership of a company decides what it wants to achieve, and split these goals across their team members. They, in turn, break down their goals into smaller goals, and distribute them across their own reports.
->
-> This principle of subsidiarity keeps the high-level strategy and direction at the top, but most decisions are made at the bottom by the people. It’s as if the leadership designed the mechanism, the substrate, and everybody else filled in the specifics." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Management%20by%20results%20is,filled%20in%20the%20specifics.)
 
 > "In brains, the more a neuron pays attention to another neuron, the more likely it is to propagate its message. Even if it doesn’t pay that much attention to a neuron, if it receives the same message from many other neurons, it will propagate it too. On Twitter, you're more likely to retweet something from somebody you pay attention to, or if many have retweeted it already.
 >
@@ -222,8 +217,6 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 > "If you think about it, the world’s citizens possess much more knowledge than a small group of individuals. What was lacking before Wikipedia was a mechanism to harness that knowledge. That was the technological breakthrough of Wikipedia: how the editors work together to find a consensus on what the articles say. So Wikipedia is an information technology that decentralizes decision-making for encyclopedia articles. Its core innovation is a mechanism that allows some of the most informed people on any topic to contribute to the articles. The result is a much better result than if these decisions were centralized." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=If%20you%20think,decisions%20were%20centralized.)
 
 > "Open source software has mechanisms to separate small pieces of the code for other developers to build them, and then mechanisms to merge that code back with the rest of it. Put in another way, open-source software development is an information technology that is more efficient than centralized development. It’s achieved that by finding good mechanisms to decentralize the development." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Open%20source%20software,decentralize%20the%20development.)
-
-> "Wikipedia is peer review. Open source is peer review. When you send a draft to a handful of friends to get feedback, that’s peer review. When you publish something to thousands of people to farm for dissent, that’s peer review." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Wikipedia%20is%20peer%20review.%20Open%20source%20is%20peer%20review.%20When%20you%20send%20a%20draft%20to%20a%20handful%20of%20friends%20to%20get%20feedback%2C%20that%E2%80%99s%20peer%20review.%20When%20you%20publish%20something%20to%20thousands%20of%20people%20to%20farm%20for%20dissent%2C%20that%E2%80%99s%20peer%20review.)
 
 > "How are laws written? A bunch of highly educated people, in their office, analyzing data, discussing with colleagues, consulting reference sources, calling some experts. With that serious work, then they write articles, publish them, and that’s how we still get our laws in the 21st century. In other words: the **legislative** process is like centralized planning. It’s like Encyclopedia Britannica before Wikipedia appeared. Citizens have much more time and knowledge than all the lawmakers in the world combined. What we’re missing today is *a mechanism to harness the time and knowledge of broader society to make laws*. We’re missing the Wikipedia mechanism innovation, applied to law-making.
 >
@@ -256,34 +249,6 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 
 > "Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Meeting%20new%20people%20is%20a%20race%20to%20find%20the%20most%20interesting%20overlap%20areas%20between%20your%20knowledge%20trees%20as%20fast%20as%20possible.)
 
-
-
-> "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
-
-!!! you_are_a_neuron_by_tomas_pueyo.png !!!
-https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F784da033-0b6c-4f65-a420-7cf490e68d3c_1078x818.png
-
-> "Some edges (connections between nodes, between neurons, between you and other people) are stronger than others, like the people you follow more closely and with whom you exchange the longest posts. Others are weaker, like the person that appears on your feed every now to post a vacation picture you end up “liking”. Some neurons are more broadcasters: they have unidirectional connections to millions of other people who listen to what they have to say, but they don’t listen much in return. Others might be the opposite: they follow plenty of people, but don’t never participate, so they don’t influence other neurons much." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Some%20edges%20(connections,other%20neurons%20much.)
-
-> "TikTok creates a brain that uniformizes neurons at an ever-accelerating speed, creates superbroadcasting neurons, and makes the rest of neurons ever more addicted to interacting with the rest of the brain." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=TikTok%20creates%20a%20brain%20that%20uniformizes%20neurons%20at%20an%20ever%2Daccelerating%20speed%2C%20creates%20superbroadcasting%20neurons%2C%20and%20makes%20the%20rest%20of%20neurons%20ever%20more%20addicted%20to%20interacting%20with%20the%20rest%20of%20the%20brain.)
-
-> "Twitter: It shows first the tweets from those you follow, and it decays their importance very quickly with time: a tweet from 2 days ago will be buried in somebody’s feed. That promotes people coming back very frequently so they’re in the know. It also pushes people to post content superfrequently. And that makes Twitter more a real-time network than, say, LinkedIn.
->
-> Responses are much more prominent than on TikTok, which invites debate—there’s very little debate on TikTok, so it’s more a broadcasting site. But the debate on Twitter is very linear: all the responses to a tweet are nested into the first tweet, ranked mostly by recency, which doesn’t invite for thoughtful conversation, but rather fast conversation. You can’t have thoughtful and fast conversations at the same time, so conversations on Twitter tend to quickly descend into chaos.
->
-> You have 3 ways of getting distribution on Twitter: through more Likes, Retweets, and Responses. Which means that different behaviors are incentivized. For Retweets, you want soundbites that people feel good about endorsing with their own identity. That is great to spur identity politics, for example. Lots of Responses also get your tweet distribution: another way to incentivize debate and polarization. Getting only likes is the weakest of the 3. Meanwhile, Likes don’t get you as much distribution. But Likes are by far the thing that people do most when they want to show compassion, for example. As a result, Twitter fosters more debate and polemic than compassion. That’s why it is a fast, aggressive, noisy brain. It’s impossible to use this brain for thoughtful debate." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=at%20Twitter%20now.-,Twitter,noisy%20brain.%20It%E2%80%99s%20impossible%20to%20use%20this%20brain%20for%20thoughtful%20debate.,-It%E2%80%99s%20easy%20to)
-
-> "Humans are humans. We’re able of the best and the worst, and most of that is simply defined by the environment. Our brains are the same as those of Homo Sapiens killing each other 50,000 years ago in Africa. What changes is the influences that surround us. We’re neurons in a brain. Change how we’re connected to each other, you’ll change the brain." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Humans%20are%20humans,change%20the%20brain.)
-
-> "You’re also a neuron for your company whenever you do knowledge work in it. Each person is a neuron in this brain. You bring information from outside and from inside of the company, process it in your individual work, and communicate it back with your deliverables. In the process, you coordinate with many other neurons—people. Each meeting can be seen as a group of neurons lighting together, exchanging information.
->
-> Your dendrites (your sources of information) go to all the people you hang out with or meet. Your work network. Your axones (the channel with information you send out) go to all the people you share information with—which might not always be the same group.
->
-> Through these processes emerge the big decisions that companies make: what other companies to buy, what strategy to follow, how to spend their money, who to hire (=what neurons to add to the network), their product design, their marketing…" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=You%E2%80%99re%20also%20a,design%2C%20their%20marketing%E2%80%A6)
-
-> "The role of a manager is not to understand each one of the neural connections, but rather to look at the patterns in the network, and correct them when they are incomplete. For example, when some teams don’t talk to each other—or when they talk too much—, when a group doesn’t have enough autonomy, when a group of neurons doesn’t have enough knowledge about certain disciplines to process their signals proficiently…" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=The%20role%20of,their%20signals%20proficiently%E2%80%A6)
-
-> "Our bodies don’t optimize for every cell. They optimize for the overall body. Individual cells are dispensable. What does that say about our focus on individual rights? How much do they cost societies overall?" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Our%20bodies%20don%E2%80%99t%20optimize%20for%20every%20cell.%20They%20optimize%20for%20the%20overall%20body.%20Individual%20cells%20are%20dispensable.%20What%20does%20that%20say%20about%20our%20focus%20on%20individual%20rights%3F%20How%20much%20do%20they%20cost%20societies%20overall%3F)
 
 
 
@@ -355,11 +320,6 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "We’ve evolved to pay attention to these types of news, but now, in countries of tens of millions of people, they’re mostly irrelevant. Outlets take advantage of your old brain circuits to hijack your attention and convert it into cash. On top of that, most journalists don’t have enough time to create truly insightful content." - [How to Consume the News (Don’t), by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-consume-the-news#:~:text=We%E2%80%99ve%20evolved%20to,truly%20insightful%20content.)
 
-> "**Lots of supply, lots of demand**, and both buyers and sellers are **perfectly informed**: These characteristics make a perfect market. This is what every market should strive for. But many markets fall short of that." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Lots%20of%20supply%2C%20lots%20of%20demand%2C%20and%20both%20buyers%20and%20sellers%20are%20perfectly%20informed%3A%20These%20characteristics%20make%20a%20perfect%20market.%20This%20is%20what%20every%20market%20should%20strive%20for.%20But%20many%20markets%20fall%20short%20of%20that.)
-
-> "Not enough suppliers, not enough demanders, imperfect information, asymmetric information, moral hazard, externalities, and transaction costs. These are the most typical market failures. They tend to be the ones that need to be regulated away." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Not%20enough%20suppliers%2C%20not%20enough%20demanders%2C%20imperfect%20information%2C%20asymmetric%20information%2C%20moral%20hazard%2C%20externalities%2C%20and%20transaction%20costs.%20These%20are%20the%20most%20typical%20market%20failures.%20They%20tend%20to%20be%20the%20ones%20that%20need%20to%20be%20regulated%20away.)
-
-> "Don’t be dogmatic about the government always being good or bad. Don’t think education or healthcare should always be private or always be public. The question is never what philosophy is better. The question is: *What are each market’s failures, and how can regulation correct them*." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Don%E2%80%99t%20be%20dogmatic%20about%20the%20government%20always%20being%20good%20or%20bad.%20Don%E2%80%99t%20think%20education%20or%20healthcare%20should%20always%20be%20private%20or%20always%20be%20public.%20The%20question%20is%20never%20what%20philosophy%20is%20better.%20The%20question%20is%3A%20What%20are%20each%20market%E2%80%99s%20failures%2C%20and%20how%20can%20regulation%20correct%20them.)
 
 > "Today, society has decided that it’s not in the “explore” phase anymore: Whether it’s drone delivery, flying cars, energy too cheap to meter, diseases… We don’t want anybody to run any risk. We don’t want to learn. What we want is to take advantage of the learnings of billions of people before us, but we don’t feel comfortable doing the same for the billions coming after us.
 >
@@ -376,81 +336,22 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 > "As a society, we should stop being crippled by fear of what we can see, and start paying attention to the value of what we can’t. Progress takes failures. If we’re not OK with failures, we don’t make progress. We’ve moved into exploit mode without realizing it. It’s time to get back to balance explore and exploit modes. It’s time to take more risks." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=As%20a%20society%2C%20we,to%20take%20more%20risks.)
 
 
-https://unchartedterritories.tomaspueyo.com/p/history-network-effects
-What productivity looks like as a flywheel - causal relationships:
-https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff36318cf-1922-434f-9265-f0c5acb6e43c_1600x896.png
-
-
-
-> "The AI behavior guardrails that are set up with prompt engineering and filtering should be public — the creators should proudly stand behind their vision of what is best for society and how they crystallized it into commands and code. I suspect many are actually ashamed." - [John Carmack](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
-
-
-> "Economics are the method; the object is to change the soul." - [Margaret Thatcher](https://www.azquotes.com/quote/665382)
-^^ lol wtf
-
-
-
-> "The Universe is made of stories, not of atoms." - [Muriel Rukeyser](https://en.wikiquote.org/wiki/Muriel_Rukeyser#:~:text=means%2C%20to%20wake.-,The%20Universe%20is%20made%20of%20stories%2C%20not%20of%20atoms.,-%22The%20Speed%20of)
-
-
-
-> "It is a chicken and an egg right? If you believe we are selfish we therefore create institutions that draw out our selfishness." - [Jon David Erickson](https://www.linkedin.com/in/jon-d-erickson/)
-
-
-
-> "If you let hydrogen gas alone for 13 billion years it will become giraffes, rose bushes and humans." - [Brian Swimme](https://www.azquotes.com/quote/717183)
 
 
 
 
-> "Our consciousness of evolution becomes a springboard for leaping into conscious evolution." - [Bela H. Banathy](https://en.wikipedia.org/wiki/Conscious_evolution#:~:text=Our%20consciousness%20of%20evolution%20becomes%20a%20springboard%20for%20leaping%20into%20conscious%20evolution.)
-
-
-
-> "In fact, one big lesson from Buddhism is to be suspicious of the intuition that your ordinary way of perceiving the world brings you the truth about it." - [Robert Wright](https://www.goodreads.com/quotes/9108416-in-fact-one-big-lesson-from-buddhism-is-to-be)
-
-> "As Kurzban has summarized this finding: We think we’re better than average at not being biased in thinking that we’re better than average." - [Robert Wright](https://www.goodreads.com/quotes/8788682-as-kurzban-has-summarized-this-finding-we-think-we-re-better)
-
-> "The proposition here is that the human brain is, in large part, a machine for winning arguments, a machine for convincing others that its owner is in the right—and thus a machine for convincing its owner of the same thing. The brain is like a good lawyer: given any set of interests to defend, it sets about convincing the world of their moral and logical worth, regardless of whether they in fact have any of either. Like a lawyer, the human brain wants victory, not truth; and, like a lawyer, it is sometimes more admirable for skill than for virtue." - [Robert Wright](https://www.goodreads.com/quotes/10176731-the-proposition-here-is-that-the-human-brain-is-in)
-
-> "From natural selection’s point of view, status assistance is the main purpose of friendship." - [Robert Wright](https://www.goodreads.com/quotes/9700916-from-natural-selection-s-point-of-view-status-assistance-is-the)
-
-> "Understanding the often unconscious nature of genetic control is the first step toward understanding that—in many realms, not just sex—we’re all puppets, and our best hope for even partial liberation is to try to decipher the logic of the puppeteer." - [Robert Wright](https://www.goodreads.com/quotes/1210774-understanding-the-often-unconscious-nature-of-genetic-control-is-the)
-
-> "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
-
-
-
-> "With no community, we lack both a unit to sacrifice for, and a unit to keep assholes in check." - [Joe Norman](https://twitter.com/normonics/status/1260572116111458310)
-
-
-
-> "In the end, we self-perceiving, self-inventing, locked-in mirages are little miracles of self-reference." - [Douglas Hofstadter](https://www.goodreads.com/quotes/229730-in-the-end-we-self-perceiving-self-inventing-locked-in-mirages-are-little)
-
-
-
-> "I Am a Strange Loop argues that the key to understanding selves and consciousness is the “strange loop”—a special kind of abstract feedback loop inhabiting our brains." - [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop#:~:text=I%20Am%20a%20Strange%20Loop%20argues%20that%20the%20key%20to%20understanding%20selves%20and%20consciousness%20is%20the%20%E2%80%9Cstrange%20loop%E2%80%9D%E2%80%94a%20special%20kind%20of%20abstract%20feedback%20loop%20inhabiting%20our%20brains.)
-
-^^ What is our societal (OODA) loop?
 
 
 
 
-> "Some of us, perhaps all of us, believe that it is legitimate to kill enemy soldiers in a war, as if war were a special circumstance that shrinks the sizes of enemy souls." - [Douglas Hofstadter](https://www.goodreads.com/quotes/830578-some-of-us-perhaps-all-of-us-believe-that-it)
 
-> "For now, what is important is not finding the answer, but looking for it." - [Douglas Hofstadter](https://www.goodreads.com/quotes/9315515-for-now-what-is-important-is-not-finding-the-answer)
 
-> "Deep understanding of causality sometimes requires the understanding of very large patterns and their abstract relationships and interactions, not just the understanding of microscopic objects interacting in microscopic time intervals." - [Douglas Hofstadter](https://www.goodreads.com/quotes/6879066-deep-understanding-of-causality-sometimes-requires-the-understanding-of-very)
 
-> "I personally cannot imagine that consciousness will be fully understood without reference to Godelian loops or level-crossing feedback loops." - [Douglas Hofstadter](https://www.goodreads.com/quotes/9682972-i-personally-cannot-imagine-that-consciousness-will-be-fully-understood)
 
-> "Irrationality is the square root of all evil." - [Douglas Hofstadter](https://www.goodreads.com/quotes/8921697-irrationality-is-the-square-root-of-all-evil)
 
-> "Where there's a pattern, there's a reason." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11528303-where-there-s-a-pattern-there-s-a-reason)
 
-> "In short, there are surprising new structures that looping gives rise to that constitute a new level of reality that could in principle be deduced from the basic loop and its detailed properties, but that in practice have a different kind of “life of their own” and that demand — at least when it comes to extremely finite, simplicity-seeking, pattern-loving creatures like us — a new vocabulary and a new level of description that transcend the basic level out of which they emerge." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11734614-in-short-there-are-surprising-new-structures-that-looping-gives)
 
-> "In the world of living things, the magic threshold of representational universality is crossed whenever a system’s repertoire of symbols becomes extensible without any obvious limit. This threshold was crossed on the species level somewhere along the way from earlier primates to ourselves." - [Douglas Hofstadter](https://www.goodreads.com/quotes/11737266-in-the-world-of-living-things-the-magic-threshold-of)
+
 
 
 
@@ -458,8 +359,6 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 
 sympathetic vs parasympathetic nervous system
-
-
 
 
 > "No one takes hypocrites seriously [John](https://twitter.com/JohnDCaudwell). Actions speak way louder than words." - [Laurence Fox](https://twitter.com/LozzaFox/status/1705941425530011709)
@@ -471,7 +370,6 @@ https://twitter.com/disclosetv/status/1678387920955232259
 
 
 
-> "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so. The US has made a lot of mistakes of unnecessary wars." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
 
 
 

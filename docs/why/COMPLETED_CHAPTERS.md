@@ -286,7 +286,7 @@ Principles of Democratic Structuring
 When these principles are applied, they ensure that whatever structures are developed by different movement groups will be controlled by and be responsible to the group. The group of people in positions of authority will be diffuse, flexible, open and temporary. They will not be in such an easy position to institutionalize their power because ultimate decisions will be made by the group at large. The group will have the power to determine who shall exercise authority within it."
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Hierarchy / holacracy / subsidiarity
+# SECTION: Subsidiarity / Hierarchy / holacracy
 ██████████████████████████████████████████████████████████████████
 
 > "Subsidiarity is a principle of social organization that holds that social and political issues should be dealt with at the most immediate or local level that is consistent with their resolution." - [Subsidiarity, Wikipedia](https://en.wikipedia.org/wiki/Subsidiarity#:~:text=Subsidiarity%20is%20a%20principle%20of%20social%20organization%20that%20holds%20that%20social%20and%20political%20issues%20should%20be%20dealt%20with%20at%20the%20most%20immediate%20or%20local%20level%20that%20is%20consistent%20with%20their%20resolution.)
@@ -332,6 +332,12 @@ When these principles are applied, they ensure that whatever structures are deve
 > - Operational process: Holacracy specifies processes for aligning teams according to operational needs, and requires that each member of a circle fulfill certain duties in order to work efficiently and effectively together. There are also key roles to help organise the process and workflow of each circle including Facilitator, Secretary, Lead Link, and Rep Link.
 >
 > In contrast to the governance process, which is collective and integrative, each member filling a role has a lot of autonomy and authority to make decisions on how to best achieve his or her goals. Some have described the authority paradigm in Holacracy as completely opposite to the one of the traditional management hierarchy; instead of needing permission to act or innovate, Holacracy gives blanket authority to take any action needed to perform the work of the roles, unless it is restricted via policies in governance or it involves spending some assets of the organization (money, intellectual property, etc.) Holacracy is highly biased toward action and innovation: it defaults to autonomy and freedom, then uses internal processes to limit that autonomy when its use in a specific way turns out to be detrimental." - [Holacracy, Wikipedia](https://en.wikipedia.org/wiki/Holacracy#:~:text=Roles%20instead%20of,to%20be%20detrimental.)
+
+> "Management by results is the idea that decisions should be pushed down as much as possible in the hierarchy. One of the most famous examples of this is the system of OKRs.
+>
+> Created by Intel and popularized by Google, it stands for Objectives and Key Results. It’s a management system where the top leadership of a company decides what it wants to achieve, and split these goals across their team members. They, in turn, break down their goals into smaller goals, and distribute them across their own reports.
+>
+> This principle of subsidiarity keeps the high-level strategy and direction at the top, but most decisions are made at the bottom by the people. It’s as if the leadership designed the mechanism, the substrate, and everybody else filled in the specifics." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Management%20by%20results%20is,filled%20in%20the%20specifics.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation, Altruism & Management Theory

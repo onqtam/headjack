@@ -7,6 +7,9 @@
 
 > "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 
+> "The AI behavior guardrails that are set up with prompt engineering and filtering should be public — the creators should proudly stand behind their vision of what is best for society and how they crystallized it into commands and code. I suspect many are actually ashamed." - [John Carmack](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: provenance, deduplication & authenticity
