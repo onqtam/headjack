@@ -17,13 +17,22 @@ hoarding information & profiting from it - example:
 What if the brightest minds were not in hedge funds but instead predicting in public what would happen and try to minimize the problems instead of hoarding the info of what's about to happen for maximum gain? What if helping the public brought bigger or at least comparable gains? We need to redefine status.
 
 
-> "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
-
 > "The proper locus of distributed cognition is the commons and what the state and the market do is they keep trying to say: no, no, we are the proper place in which distributed cognition functions." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1876)
+
+"I think that most capitalists don’t know how to divide the economic pie well and most socialists don’t know how to grow it well, yet we are now at a juncture in which either a) people of different ideological inclinations will work together to skillfully re-engineer the system so that the pie is both divided and grown well or b) we will have great conflict and some form of revolution that will hurt most everyone and will shrink the pie." - [Ray Dalio](https://www.linkedin.com/pulse/why-how-capitalism-needs-reformed-parts-1-2-ray-dalio/#:~:text=I%20think%20that,shrink%20the%20pie.)
+
+> "A business that makes nothing but money is a poor business." - [Henry Ford](https://www.goodreads.com/quotes/392495-a-business-that-makes-nothing-but-money-is-a-poor)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Consumerism
+██████████████████████████████████████████████████████████████████
 
 > "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
 
-"I think that most capitalists don’t know how to divide the economic pie well and most socialists don’t know how to grow it well, yet we are now at a juncture in which either a) people of different ideological inclinations will work together to skillfully re-engineer the system so that the pie is both divided and grown well or b) we will have great conflict and some form of revolution that will hurt most everyone and will shrink the pie." - [Ray Dalio](https://www.linkedin.com/pulse/why-how-capitalism-needs-reformed-parts-1-2-ray-dalio/#:~:text=I%20think%20that,shrink%20the%20pie.)
+> "Civilization has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place." - [Mark Twain](http://www.twainquotes.com/Civilization.html#:~:text=has%20invented%20a%20thousand%20useless%20luxuries%2C%20and%20turned%20them%20into%20necessities%3B%20it%20has%20created%20a%20thousand%20vicious%20appetites%20and%20satisfies%20none%20of%20them%3B%20it%20has%20dethroned%20God%20and%20set%20up%20a%20shekel%20in%20His%20place.)
+
+> "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -64,6 +73,10 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
 
+
+> "The Islamic Republic of Iran was today appointed Chair of the U.N. Human Rights Council Social Forum. This year's theme is technology and promotion of human rights; Iran just hanged Yousef Mehrad and Sadrollah Fazeli Zare for using social media to criticize religion." - [Hillel Neuer](https://twitter.com/HillelNeuer/status/1656276696117460994)
+
+^^ Thank God for the UN
 
 
 <img src="/img/corruption_is_legal_in_america.png"/>
@@ -122,6 +135,11 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 >
 > To bring GameB into being from within GameA will require a moral awakening such that we are no longer willing to tolerate moral laundry on our behalf, even when it provides a material advantage." - [Jim Rutt](https://twitter.com/jim_rutt/status/1754876281148047809)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Individualism
+██████████████████████████████████████████████████████████████████
+
+> "All over the world, mobile hunter-gatherers use social control guided by moral rules to see to it that when a successful hunter kills a large mammal, his ego is held in check." - [Christopher Boehm](https://www.goodreads.com/quotes/11025365-all-over-the-world-mobile-hunter-gatherers-use-social-control-guided)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -136,15 +154,13 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 
 
 
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Fairness
+# SECTION: War
 ██████████████████████████████████████████████████████████████████
 
-> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
+> "It is the impulse of a finite player to go against another nation in war, it is the design of an infinite player to oppose war within a nation." - [James Carse](https://www.goodreads.com/quotes/6844935-it-is-the-impulse-of-a-finite-player-to-go)
 
-> "Compassion is the basis of morality." - [Arthur Schopenhauer](https://www.goodreads.com/quotes/2195-compassion-is-the-basis-of-morality)
-
-> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives
@@ -154,6 +170,13 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 > "To attract the sharpest minds to science, drive the returns from sharp elbows towards zero." - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/6677778275)
 
 > "Human nature is like water. It takes the shape of its container." - [Wallace Stevens](https://www.goodreads.com/quotes/154092-human-nature-is-like-water-it-takes-the-shape-of)
+
+> "A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play." - [James Carse](https://www.goodreads.com/quotes/400925-a-finite-game-is-played-for-the-purpose-of-winning)
+
+> "Every yacht is a market failure." - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1727305844759670955)
+
+> "Capitalism without bankruptcy is like Christianity without hell." - [Frank Borman](https://www.azquotes.com/quote/32544)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Environment
@@ -183,3 +206,12 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 ██████████████████████████████████████████████████████████████████
 
 > "We thought we might start a chain reaction that would destroy the entire world... I believe we did." - [J. Robert Oppenheimer, from the movie](https://www.imdb.com/title/tt15398776/quotes/?item=qt6977002&ref_=ext_shr_lnk)
+
+> "We used to look up at the sky and wonder at our place in the stars. Now we just look down, and worry about our place in the dirt." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2236931&ref_=ext_shr_lnk)
+
+> "Technological civilization will not rebound after it collapses because we have used up most of the easily-accessible fossil fuels and mineral resources that would be needed to re-launch industrial civilization." - [John E. Stewart](https://johnstewart1.substack.com/p/why-there-must-be-a-viable-strategy#:~:text=technological%20civilization%20will%20not%20rebound%20after%20it%20collapses%20because%20we%20have%20used%20up%20most%20of%20the%20easily%2Daccessible%20fossil%20fuels%20and%20mineral%20resources%20that%20would%20be%20needed%20to%20re%2Dlaunch%20industrial%20civilization.)
+
+> "We Didn't Run Out Of Television Screens And Planes, We Ran Out Of Food." - [School Principal, Interstellar (2014)](https://screenrant.com/interstellar-awesome-quotes-make-you-think/#quot-we-didn-39-t-run-out-of-television-screens-and-planes-we-ran-out-of-food-quot:~:text=%22We%20Didn%27t%20Run%20Out%20Of%20Television%20Screens%20And%20Planes%2C%20We%20Ran%20Out%20Of%20Food.%22)
+
+> "do not go gentle into that good night" - quote
+

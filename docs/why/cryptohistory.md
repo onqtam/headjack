@@ -48,6 +48,7 @@ https://twitter.com/jonwu_/status/1590099766712549376
 https://twitter.com/AutismCapital/status/1590888993226653697
 The only way to make something truly self-authenticating in perpetuity is to timestamp it. Anchor it. Sequence a set inclusion commitment on-chain.
 
+> "X should implement a feature called "On This Day." It would rewind the timeline to any given day since Twitter's founding to let you feel the pulse of the moment. A crucial tool for modern historians. This would be the "what happened" that complements "what's happening". The historical research tool that complements the real-time news service." - [Balaji Srinivasan](https://twitter.com/balajis/status/1712665522444390555)
 
 
 <!--
@@ -183,6 +184,8 @@ The argument that specialized message types are unnecessary because AI will even
 ██████████████████████████████████████████████████████████████████
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
+
+> "All theories are error-laden, and all people—including scientists—are fallible. In our modern world, it is troubling to see the title “science” serving as a cloak, underneath which is dogmatism. What started off as an escape from authority is now tending towards the very kind of thing it escaped from. “Believe the science,” they say. The idea that we should defer the responsibility for making the decisions of our society to a few scientists who have an apparent authority on what’s true is tyranny. Authoritarianism in science is heavily ironic. “Belief in science” is an oxymoron, not a creed." - [On the derangements of science](https://criticalrationalism.substack.com/p/on-the-derangements-of-science#:~:text=All%20theories%20are,not%20a%20creed.)
 
 TODO: finish reading from this sentence onwards:
 There are many reasons why scientific communication is so hard.

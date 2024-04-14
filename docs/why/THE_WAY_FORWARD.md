@@ -23,6 +23,54 @@ https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-uni
 UTOK ontology:
 https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
+> "Mankind was born on Earth. It was never meant to die here." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2253996&ref_=ext_shr_lnk)
+
+> "We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievements. But we lost all that. Or perhaps we've just forgotten that we are still pioneers. And we've barely begun. And that our greatest accomplishments cannot be behind us, that our destiny lies above us." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2084353&ref_=ext_shr_lnk)
+
+> "Once you're a parent, you're the ghost of your children's future." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2303151&ref_=ext_shr_lnk)
+
+> "Our problem is not that we aim too high and miss, but that we aim too low and hit." - [Aristotle](https://www.azquotes.com/quote/1241996)
+
+> "To do more for the world than the world does for you - that is success." - [Henry Ford](https://www.goodreads.com/quotes/470128-to-do-more-for-the-world-than-the-world-does)
+
+> "There is no disgrace in honest failure; there is disgrace in fearing to fail." - [Henry Ford](https://www.goodreads.com/quotes/710713-there-is-no-disgrace-in-honest-failure-there-is-disgrace)
+
+> "When finally substantiated by scientific means, such a view will allow an individual to see his place in the world with greater clarity-- how he came from the world and how he may contribute to his fellows while he enjoys for a brief time the privilege of consciousness and communication." - [Gerald Edelman](https://www.goodreads.com/quotes/983916-when-finally-substantiated-by-scientific-means-such-a-view-will)
+
+> "There's a way to do it better - find it." - [Thomas A. Edison](https://www.goodreads.com/quotes/57198-there-s-a-way-to-do-it-better---find-it)
+
+> "I find out what the world needs. Then I go ahead and try to invent it." - [Thomas A. Edison](https://www.goodreads.com/quotes/140060-i-find-out-what-the-world-needs-then-i-go)
+
+> "If we all did the things we are really capable of doing, we would literally astound ourselves." - [Thomas A. Edison](https://www.goodreads.com/quotes/30655-if-we-all-did-the-things-we-are-really-capable)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Protopia
+██████████████████████████████████████████████████████████████████
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Compassion & fairness
+██████████████████████████████████████████████████████████████████
+
+> "Love is the one thing we're capable of perceiving that transcends time and space." - [Brand, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2213908&ref_=ext_shr_lnk)
+
+> "Happiness only real when shared." - [Christopher McCandless AKA Alexander Supertramp](https://www.goodreads.com/quotes/184807-happiness-only-real-when-shared)
+
+> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
+
+> "Compassion is the basis of morality." - [Arthur Schopenhauer](https://www.goodreads.com/quotes/2195-compassion-is-the-basis-of-morality)
+
+> "The arc of the moral universe is long, but it bends toward justice." - [Theodore Parker](https://quoteinvestigator.com/2012/11/15/arc-of-universe/)
+
+> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
+
+> "Educating the mind without educating the heart is no education at all." - [Aristotle](https://www.goodreads.com/quotes/95080-educating-the-mind-without-educating-the-heart-is-no-education)
+
+> "An open mind is a prerequisite to an open heart." - [Robert Sapolsky](https://www.azquotes.com/quote/1225688)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████
@@ -53,6 +101,15 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 
 <img src="/img/energy_gdp_human_development.png"/>
+
+> "Only that which can change can continue." - [James Carse](https://www.goodreads.com/quotes/975884-only-that-which-can-change-can-continue)
+
+> "Finite players play within boundaries; infinite players play with boundaries." - [James Carse](https://www.goodreads.com/quotes/1005320-finite-players-play-within-boundaries-infinite-players-play-with-boundaries)
+
+> "What will undo any boundary is the awareness that it is our vision, and not what we are viewing, that is limited." - [James Carse](https://www.goodreads.com/quotes/1008474-what-will-undo-any-boundary-is-the-awareness-that-it)
+
+
+> "Only by making technical systems that offer a variety of mechanisms for checking concentrations of power and by simultaneously building social ideologies constantly on the lookout for failure modes of these mechanisms can we hope to succeed where previous attempts at decentralizing authority have failed." - [Liberation Through Radical Decentralization, by Vitalik Buterin](https://medium.com/@VitalikButerin/liberation-through-radical-decentralization-22fc4bedc2ac#:~:text=Only%20by%20making,authority%20have%20failed.)
 
 
 > "The answer is not degrowth. The answer is growth that maximizes planetary complexity while minimizing the degree to which any entropy not re-usable somewhere else as a source of free energy remains within planetary bounds." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1726787146907037889)
@@ -85,6 +142,54 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 <img src="/img/educational_crisis.png"/>
 
+> "What does the frontal cortex do? Gratification postponement, executive function, long-term planning, and impulse control. Basically, it makes you do the harder thing." - [Robert Sapolsky](https://www.azquotes.com/quote/1562499)
+
+> "The frontal cortex doesn't even fully develop until age 25, which is wild!" - [Robert Sapolsky](https://www.azquotes.com/quote/1562498)
+
+> "The regulation of genes is often more interesting than the genes themselves, and it's the environment that regulates genes." - [Robert Sapolsky](https://www.azquotes.com/quote/1562503)
+
+> "The brain is heavily influenced by genes. But from birth through young adulthood, the part of the human brain that most defines us (frontal cortex) is less a product of the genes with which you started life than of what life has thrown at you. Because it is the last to mature, by definition the frontal cortex is the brain region least constrained by genes and most sculpted by experience. This must be so, to be the supremely complex social species that we are. Ironically, it seems that the genetic program of human brain development has evolved to, as much as possible, free the frontal cortex from genes." - [Robert Sapolsky](https://www.goodreads.com/quotes/8643368-the-brain-is-heavily-influenced-by-genes-but-from-birth)
+
+> "In other words, the default state is to trust, and what the amygdala does is learn vigilance and distrust." - [Robert Sapolsky](https://www.goodreads.com/quotes/8701666-in-other-words-the-default-state-is-to-trust-and)
+
+> "We are constantly being shaped by seemingly irrelevant stimuli, subliminal information, and internal forces we don't know a thing about." - [Robert Sapolsky](https://www.goodreads.com/quotes/8921237-we-are-constantly-being-shaped-by-seemingly-irrelevant-stimuli-subliminal)
+
+> "Probably the most important fact about genetics and culture is the delayed maturation of the frontal cortex—the genetic programming for the young frontal cortex to be freer from genes than other brain regions, to be sculpted instead by environment, to sop up cultural norms. To hark back to a theme from the first pages of this book, it doesn’t take a particularly fancy brain to learn how to motorically, say, throw a punch. But it takes a fancy, environmentally malleable frontal cortex to learn culture-specific rules about when it’s okay to throw punches." - [Robert Sapolsky](https://www.goodreads.com/quotes/8955185-probably-the-most-important-fact-about-genetics-and-culture-is)
+
+
+
+
+
+
+> "I have never let my schooling interfere with my education." - [Mark Twain](https://www.goodreads.com/quotes/1427-i-have-never-let-my-schooling-interfere-with-my-education)
+
+> "Because our educational system is hung up on precision, the art of being good at approximations is insufficiently valued. This impedes conceptual thinking." - [Ray Dalio](https://www.goodreads.com/quotes/8836677-because-our-educational-system-is-hung-up-on-precision-the)
+
+> "Systems were made for men, and not men for systems, and the interest of man which is self-development, is above all systems, whether theological, political or economic." - [C. H. Douglas](https://en.wikipedia.org/wiki/Social_credit#:~:text=Systems%20were%20made%20for%20men%2C%20and%20not%20men%20for%20systems%2C%20and%20the%20interest%20of%20man%20which%20is%20self%2Ddevelopment%2C%20is%20above%20all%20systems%2C%20whether%20theological%2C%20political%20or%20economic.)
+
+
+what to teach kids (& adults!)
+50 cognitive biases to be aware of
+https://www.google.com/search?q=50+cognitive+biases+to+be+aware+of
+https://twitter.com/elonmusk/status/1472647410568642564
+https://pbs.twimg.com/media/FG_lAyfXIAIduQo?format=jpg&name=large
+
+https://en.wikipedia.org/wiki/List_of_fallacies
+
+https://en.wikipedia.org/wiki/Propaganda_techniques
+
+https://underthrow.substack.com/p/the-vital-syllabus
+
+
+on education - Zak Stein
+https://lecticalive.org/about/discotest#gsc.tab=0
+https://lecticalive.org/about/vcol#gsc.tab=0
+elon musk kids - synthesis
+https://www.synthesis.com/
+https://www.astranova.org/
+https://www.astranova.org/xyz/about
+
+
 TODO: quote from here (from a teacher in NY) about how broken public schooling is
 https://www.youtube.com/watch?v=204qp-YS5Nw
 Zak Stein - The Education Crisis Elevating Consciousness Podcast
@@ -116,7 +221,14 @@ Education is the autopoietic root of society - the way it propagates/maintains/r
 # SECTION: Healthcare
 ██████████████████████████████████████████████████████████████████
 
+"this is healthy"
+https://www.google.com/search?q=this+is+healthy
+
+> "The American Medical Association recommends rice to diabetics." - [Michael Guimarin](https://youtu.be/bGdWgdRA6G8?t=3304)
+
 > "Ultimately, health care fails the most basic test. It's not organized around the needs of the patient." - [Michael Porter](https://www.azquotes.com/quote/1225877)
+
+> "The body tells the brain how to feel" - [Robert Sapolsky](https://old.reddit.com/r/DrJohnVervaeke/comments/zurer7/maybe_you_wont_solve_the_global_meaning_crisis_or/#:~:text=%22The%20body%20tells%20the%20brain%20how%20to%20feel%22%20%2D%20Robert%20Sapolsky)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -128,12 +240,16 @@ Education is the autopoietic root of society - the way it propagates/maintains/r
 > "We human beings are still divided into nation states, but these states are rapidly becoming a global civilization…We are attempting to survive our time so we may live into yours. We hope, some day, having solved the problems we face, to join a community of galactic civilizations." - [Message for extra-terrestrial life inscribed on the Golden Record aboard the Voyager One space probe in 1977](https://www.linkedin.com/pulse/evolving%2Dthrough%2Dbottleneck%2Drobert%2Dcobbold%2D1qgpe/#:~:text=We%20human%20beings%20are%20still%20divided%20into%20nation%20states%2C%20but%20these%20states%20are%20rapidly%20becoming%20a%20global%20civilization%E2%80%A6We%20are%20attempting%20to%20survive%20our%20time%20so%20we%20may%20live%20into%20yours.%20We%20hope%2C%20some%20day%2C%20having%20solved%20the%20problems%20we%20face%2C%20to%20join%20a%20community%20of%20galactic%20civilizations.)
 
 
+> "Newton's third law. You've got to leave something behind." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2373887&ref_=ext_shr_lnk)
+
+> "When everything seem to be going against you, remember that the airplane takes off against the wind, not with it." - [Henry Ford](https://www.goodreads.com/quotes/107178-when-everything-seem-to-be-going-against-you-remember-that)
 
 
 > "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)
 
 > "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
 
+> "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
@@ -381,4 +497,9 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 >
 > We believe that humans need to have coherent justifications for both what is the case and what ought to be the case. We can see through the Greek terms “logos” and “mythos” that these are two different kinds of justifications, but we need them both. Science has given us a good way to develop our logos. However, it has not been framed in a way that also is conducive to cultivating a mythos that gives us a shared narrative for how we ought to live in the world. We believe this is one of the great tasks of this century." - [Religion: Why We Need to Regain a Mythos, by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202403/religion-why-we-need-to-regain-a-mythos#:~:text=we%20can%20frame,of%20this%20century.)
 
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Redistribution
+██████████████████████████████████████████████████████████████████
 

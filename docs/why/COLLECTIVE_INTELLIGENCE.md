@@ -61,6 +61,10 @@ https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-acti
 https://en.wikipedia.org/wiki/Prediction_market
 
 
+> "Education: the path from cocky ignorance to miserable uncertainty." - [Mark Twain](https://www.goodreads.com/quotes/47069-education-the-path-from-cocky-ignorance-to-miserable-uncertainty)
+
+> "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes." - [Ray Dalio](https://www.goodreads.com/quotes/7172381-truth---more-precisely-an-accurate-understanding-of-reality--)
+
 
 > "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
 

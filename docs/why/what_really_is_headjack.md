@@ -12,6 +12,8 @@ Twitter's potential has fascinated some of the brightest people in the world eve
 
 > "It's a new messaging protocol, where you don't specify the recipients. New protocols are rare. Or more precisely, new protocols that take off are. There are only a handful of commonly used ones: TCP/IP (the Internet), SMTP (email), HTTP (the web), and so on. So any new protocol is a big deal. But Twitter is a protocol owned by a private company. That's even rarer." - [Paul Graham](http://www.paulgraham.com/twitter.html)
 
+> "True twitter has never been tried." - [Joscha Bach](https://twitter.com/Plinz/status/1776070632436093246)
+
 But the original sin has been that it's [owned by a company](https://twitter.com/jack/status/1518772754782187520) which Jack Dorsey states as [his biggest regret](https://twitter.com/jack/status/1562861302242226178) - no wonder that he's been trying to turn it into a protocol - first with [project Bluesky](https://twitter.com/jack/status/1204766078468911106) (now [AT Protocol](https://atproto.com/)) and more recently with [TBD Web5](https://twitter.com/jack/status/1535314738078486533) (both covered in the [comparison chapter](competition.md)).
 
 > "From a historical perspective, Twitter will serve as one of several inspirational ancestors for What Comes Next in the domain of collective sense making platforms." - [Jim Rutt](https://twitter.com/jim_rutt/status/1645787927610261504)
