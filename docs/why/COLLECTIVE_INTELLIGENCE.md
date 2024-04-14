@@ -95,7 +95,7 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 
 > "The proposition here is that the human brain is, in large part, a machine for winning arguments, a machine for convincing others that its owner is in the right—and thus a machine for convincing its owner of the same thing. The brain is like a good lawyer: given any set of interests to defend, it sets about convincing the world of their moral and logical worth, regardless of whether they in fact have any of either. Like a lawyer, the human brain wants victory, not truth; and, like a lawyer, it is sometimes more admirable for skill than for virtue." - [Robert Wright](https://www.goodreads.com/quotes/10176731-the-proposition-here-is-that-the-human-brain-is-in)
 
-
+> "What a sad era when it is easier to smash an atom than a prejudice." - [Albert Einstein](https://www.goodreads.com/quotes/70175-what-a-sad-era-when-it-is-easier-to-smash)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Probability & prediction
@@ -118,6 +118,15 @@ https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-acti
 
 https://en.wikipedia.org/wiki/Prediction_market
 
+on prediction markets...
+Involving money & futures contracts on any outcome might put skin in the game but has proven controversial (especially when it comes to terrorist attacks & assassinations):
+https://en.wikipedia.org/wiki/Policy_Analysis_Market
+https://en.wikipedia.org/wiki/Intrade
+We can reward with reputation/status/influence - not money. Also we can have prediction markets and simply vote which topics would be covered and which would not.
+Involving money requires fixing the oracle problem - we can avoid that and simply choose fact databases and decide how to calculate reputation.
+Financial contracts might probably also require syncing with these folks:
+Not using financial futures contracts avoids problems and dealings with these folks:
+https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "Education: the path from cocky ignorance to miserable uncertainty." - [Mark Twain](https://www.goodreads.com/quotes/47069-education-the-path-from-cocky-ignorance-to-miserable-uncertainty)
 
@@ -166,6 +175,9 @@ https://en.wikipedia.org/wiki/Prediction_market
 ██████████████████████████████████████████████████████████████████
 
 > "It blows my mind how few people in the business world presently see the value of tools capable of modeling and emulating the real time evolution of their causal domain in probabilistic terms, including the way in which their own actions are likely to change the playing field. They're so used to being spoon fed extremely reductive and lagging graphs and charts in .ppt format as reasonable models of their world, that the idea of continuous Socratic interaction with a "living" model comes across as an utterly alien value proposition. And yet that's exactly where things are heading..." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753188223529230376)
+
+
+influence, incenives & causality throughout our societies need to be mapped out and made traceable & computable
 
 
 > "Of course, our failures are a consequence of many factors, but possibly one of the most important is the fact that society operates on the theory that specialization is the key to success, not realizing that specialization precludes comprehensive thinking." - [R. Buckminster Fuller](https://www.azquotes.com/quote/826673)

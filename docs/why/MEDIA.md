@@ -24,6 +24,8 @@
 
 > "A lie can travel half way around the world while the truth is putting on its shoes." - [Mark Twain](https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)
 
+> "Whoever is careless with the truth in small matters cannot be trusted with important matters." - [Albert Einstein](https://www.goodreads.com/quotes/32526-whoever-is-careless-with-the-truth-in-small-matters-cannot)
+
 
 > "The cynics are people who haven't accomplished much themselves and stand on the sidelines, while criticizing the heroes who are on their fields of battle. They arrogantly pontificate about how those on the field aren't following the cynics' untested and impractical approaches. Cynics also love to point to the mistakes the heroes make, ignoring the reality that all successful people make plenty of mistakes. In the process, they conjure up unrealistic images that heroes must be perfect rather than imperfect but great and much more successful than unsuccessful.
 >

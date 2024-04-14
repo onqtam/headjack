@@ -1,4 +1,8 @@
 
+
+
+> "Have you ever stood and stared at it? Marvelled at its beauty, it’s genius. Billions of people, just living out their lives… oblivious." - [Agent Smith, The Matrix](https://medium.com/rubinas-bojra/12-quotes-from-the-matrix-that-blow-my-mind-every-time-b997c75ea49d#:~:text=Have%20you%20ever%20stood%20and%20stared%20at%20it%3F%20Marvelled%20at%20its%20beauty%2C%20it%E2%80%99s%20genius.%20Billions%20of%20people%2C%20just%20living%20out%20their%20lives%E2%80%A6%20oblivious.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Market & Capitalism
 ██████████████████████████████████████████████████████████████████
@@ -16,6 +20,7 @@ hoarding information & profiting from it - example:
 - they try to make money by betting on a downturn (and they hope it's bad) and not share the info immediately to the public and try to build a good case to help steer policy such that the downturn isn't that high
 What if the brightest minds were not in hedge funds but instead predicting in public what would happen and try to minimize the problems instead of hoarding the info of what's about to happen for maximum gain? What if helping the public brought bigger or at least comparable gains? We need to redefine status.
 
+> "There is a perverse incentive in general for those who are more focused on opportunity than risk, and as a result we get all the opportunities and all the risks." - [Daniel Schmachtenberger](https://www.organism.earth/library/document/artificial-intelligence-and-the-superorganism#:~:text=there%20is%20a%20perverse%20incentive%20in%20general%20for%20those%20who%20are%20more%20focused%20on%20opportunity%20than%20risk%2C%20and%20as%20a%20result%20we%20get%20all%20the%20opportunities%20and%20all%20the%20risks.)
 
 > "The proper locus of distributed cognition is the commons and what the state and the market do is they keep trying to say: no, no, we are the proper place in which distributed cognition functions." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1876)
 
@@ -188,7 +193,11 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 # SECTION: Individualism & narcissism
 ██████████████████████████████████████████████████████████████████
 
+> "The notion of a separate organism is clearly an abstraction, as is also its boundary. Underlying all this is unbroken wholeness even though our civilization has developed in such a way as to strongly emphasize the separation into parts." - [David Bohm](https://www.goodreads.com/quotes/843293-the-notion-of-a-separate-organism-is-clearly-an-abstraction)
+
 > "All over the world, mobile hunter-gatherers use social control guided by moral rules to see to it that when a successful hunter kills a large mammal, his ego is held in check." - [Christopher Boehm](https://www.goodreads.com/quotes/11025365-all-over-the-world-mobile-hunter-gatherers-use-social-control-guided)
+
+> "A person starts to live when he can live outside himself." - [Albert Einstein](https://www.goodreads.com/quotes/39346-a-person-starts-to-live-when-he-can-live-outside)
 
 > "Rather than an “individual”, we might use the term “dividual” to highlight the primacy of relationship and interconnectedness." - [Transforming cultures and selves, by Octopusyarn](https://octopusyarn.substack.com/p/transforming-cultures-and-selves)
 
@@ -208,11 +217,27 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 
 > "With no community, we lack both a unit to sacrifice for, and a unit to keep assholes in check." - [Joe Norman](https://twitter.com/normonics/status/1260572116111458310)
 
+> "The notion that all these fragments are separately existent is evidently an illusion, and this illusion cannot do other than lead to endless conflict and confusion." - [David Bohm](https://www.goodreads.com/quotes/6869344-the-notion-that-all-these-fragments-are-separately-existent-is)
+
+> "Indeed, the attempt to live according to the notion that the fragments are really separate is, in essence, what has led to the growing series of extremely urgent crises that is confronting us today. Thus, as is now well known, this way of life has brought about pollution, destruction of the balance of nature, over-population, world-wide economic and political disorder, and the creation of an overall environment that is neither physically nor mentally healthy for most of the people who have to live in it." - [David Bohm](https://www.goodreads.com/quotes/6869346-indeed-the-attempt-to-live-according-to-the-notion-that)
+
+> "So what is needed is for man to give attention to his habit of fragmentary thought, to be aware of it, and thus bring it to an end. Man’s approach to reality may then be whole, and so the response will be whole." - [David Bohm](https://www.goodreads.com/quotes/6869445-so-what-is-needed-is-for-man-to-give-attention)
+
+> "Relativity and quantum theory agree, in that they both imply the need to look on the world as an undivided whole, in which all parts of the universe, including the observer and his instruments, merge and unite in one totality. In this totality, the atomistic form of insight is a simplification and an abstraction, valid only in some limited context." - [David Bohm](https://www.goodreads.com/quotes/6869463-relativity-and-quantum-theory-agree-in-that-they-both-imply)
+
+> "We are the universe pretending to be individuals." - [Deepak Chopra](https://www.azquotes.com/quote/857304)
+https://img.ifunny.co/images/a48d5b157383f50d5d8b87a8b0932da18b9791ecb6ed94fd01eef4490fe84579_3.jpg
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.jpg
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism
 ██████████████████████████████████████████████████████████████████
 
 > "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
+
+> "Possessions, outward success, publicity, luxury - to me these have always been contemptible. I believe that a simple and unassuming manner of life is best for everyone, best for both the body and the mind." - [Albert Einstein](https://www.goodreads.com/quotes/119882-possessions-outward-success-publicity-luxury---to-me-these-have)
+
+> "If most of us are ashamed of shabby clothes and shoddy furniture let us be more ashamed of shabby ideas and shoddy philosophies.... It would be a sad situation if the wrapper were better than the meat wrapped inside it." - [Albert Einstein](https://www.goodreads.com/quotes/136243-if-most-of-us-are-ashamed-of-shabby-clothes-and)
 
 > "Civilization has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place." - [Mark Twain](http://www.twainquotes.com/Civilization.html#:~:text=has%20invented%20a%20thousand%20useless%20luxuries%2C%20and%20turned%20them%20into%20necessities%3B%20it%20has%20created%20a%20thousand%20vicious%20appetites%20and%20satisfies%20none%20of%20them%3B%20it%20has%20dethroned%20God%20and%20set%20up%20a%20shekel%20in%20His%20place.)
 
@@ -264,6 +289,13 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 > "Either man is obsolete or war is. War is the ultimate tool of politics. Political leaders look out only for their own side. Politicians are always realistically maneuvering for the next election. They are obsolete as fundamental problem-solvers." - [R. Buckminster Fuller](https://www.azquotes.com/quote/529559)
 
 > "War is obsolete. We are not here to fight something or tear something down; We are here to be the example of what is possible. Any sane individual will tell you that violence is ... not the way." - [R. Buckminster Fuller](https://www.azquotes.com/quote/528770)
+
+> "He who joyfully marches to music rank and file has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would surely suffice. This disgrace to civilization should be done away with at once. Heroism at command, senseless brutality, deplorable love-of-country stance and all the loathsome nonsense that goes by the name of patriotism, how violently I hate all this, how despicable and ignoble war is; I would rather be torn to shreds than be part of so base an action! It is my conviction that killing under the cloak of war is nothing but an act of murder." - [Albert Einstein](https://www.goodreads.com/quotes/23627-he-who-joyfully-marches-to-music-rank-and-file-has)
+
+> "Nationalism is an infantile thing. It is the measles of mankind." - [Albert Einstein](https://www.goodreads.com/quotes/361110-nationalism-is-an-infantile-thing-it-is-the-measles-of)
+
+> "I believe that Gandhi’s views were the most enlightened of all the political men in our time. We should strive to do things in his spirit: not to use violence in fighting for our cause, but by non-participation in anything you believe is evil." - [Albert Einstein](https://www.goodreads.com/quotes/321355-i-believe-that-gandhi-s-views-were-the-most-enlightened-of)
+
 
 
 > "According to Margaret Mead, the institution of war is a cultural invention that can be abolished, so it is not a biological necessity to kill one another on a grand scale." - [War as the Autoimmune Disease of Humanity: Perspectives on a Theoretical Proposal](https://www.globalpoliticsreview.com/publications/2464-9929_v02_i01_p11.pdf)
@@ -322,6 +354,7 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 
 > "I don't see much of a future for this planet. I think it's a cursed planet. The boundaries we've drawn between nations and the profit motive - those two factors have, in my opinion, brought us to the point where almost nothing can stop the utter destruction of the environment and all our earthly life-support systems." - [George Carlin](https://www.azquotes.com/quote/1284811)
 
+> "I have learned to seek my happiness by limiting my desires, rather than in attempting to satisfy them." - [John Stuart Mill](https://www.goodreads.com/quotes/6608-i-have-learned-to-seek-my-happiness-by-limiting-my)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Existential risks
@@ -338,4 +371,8 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "do not go gentle into that good night" - quote
 
 > "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/897104-antifragility-is-beyond-resilience-or-robustness-the-resilient-resists-shocks)
+
+> "In the long run it is far more dangerous to adhere to illusion than to face what the actual fact is." - [David Bohm](https://www.goodreads.com/quotes/8210818-in-the-long-run-it-is-far-more-dangerous-to)
+
+> "If something cannot go on forever, it will stop." - [Herbert Stein](https://www.goodreads.com/quotes/467811-if-something-cannot-go-on-forever-it-will-stop)
 
