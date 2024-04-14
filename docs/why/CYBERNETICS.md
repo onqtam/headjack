@@ -75,12 +75,36 @@ Why does Nate Hagens always ask his guests at the end of the show about the one 
 
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Bayesian Inference
+██████████████████████████████████████████████████████████████████
+
+> "Inference is actually quite close to a theory of everything – including evolution, consciousness, and life itself." - [Karl Friston](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference#:~:text=Inference%20is%20actually%20quite%20close%20to%20a%20theory%20of%20everything%20%E2%80%93%20including%20evolution%2C%20consciousness%2C%20and%20life%20itself.)
+
+> "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
+
+> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
+
+TODO: the good regulator theorem (aka the Internal Model Principle) by Ross Ashby - any system that regulates/controls another system must have a model of that system ==> organisms model their environment
+The law of requisite variety - tells us something about the computational sophistication of the internal model - the complexity of the model must be as complex as the challenges of the niche
+> "Every good regulator must contain a model of the system." - [Good regulator, Wikipedia](https://en.wikipedia.org/wiki/Good_regulator#:~:text=every%20good%20regulator%20must%20contain%20a%20model%20of%20the%20system)
+
+evolution is an inference engine 
+the organisms that persist are the models that are best able to predict the environment
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Agency
 ██████████████████████████████████████████████████████████████████
 
 > "When something is both highly integrated and highly differentiated it can do many different things without falling apart. So complexification enhances agency - it gives you your emergent abilities." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=1250)
 
 > "An agent is any being that can detect the consequences of it's behavior and modify that behavior in order to achieve it's goals. Another way of putting it is that an agent is a problem solver. Intelligence is the capacity to be a general problem solver - you can solve a wide variety of problems in a wide variety of domains." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=670)
+
+Program or be Programmed - Douglas Rushoff
+https://www.youtube.com/watch?v=imV3pPIUy1k
+
+> "Our enthusiasm for digital technology about which we have little understanding and over which we have little control leads us not toward greater agency, but toward less...We have surrendered the unfolding of a new technological age to a small elite who have seized the capability on offer. But while Renaissance kings maintained their monopoly over the printing press by force, today's elite is depending on little more than our own disinterest." - [Douglas Rushkoff](https://www.goodreads.com/quotes/855874-our-enthusiasm-for-digital-technology-about-which-we-have-little)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Rationality

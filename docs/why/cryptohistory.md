@@ -233,6 +233,28 @@ When studies don't replicate - that signal should tricke down to everything that
 
 academia resembles feudalism
 
+
+The modern research community knows they aren’t producing the best science they could be. There’s lots of
+publication bias, statistics are done in a confusing and misleading way out of sheer inertia, and replications often
+happen very late or not at all. And sometimes someone will say something like “I can’t believe people are too
+dumb to fix Science. All we would have to do is require early registration of studies to avoid publication bias,
+turn this new and powerful statistical technique into the new standard, and accord higher status to scientists who
+do replication experiments. It would be really simple and it would vastly increase scientific progress. I must just
+be smarter than all existing scientists, since I’m able to think of this and they aren’t.”
+And yeah. That would work for the Science God. He could just make a Science Decree that everyone has to use
+the right statistics, and make another Science Decree that everyone must accord replications higher status.
+But things that work from a god’s-eye view don’t work from within the system. No individual scientist has an
+incentive to unilaterally switch to the new statistical technique for her own research, since it would make her
+research less likely to produce earth-shattering results and since it would just confuse all the other scientists.
+They just have an incentive to want everybody else to do it, at which point they would follow along. And no
+individual journal has an incentive to unilaterally switch to early registration and publishing negative results,
+since it would just mean their results are less interesting than that other journal who only publishes ground-
+breaking discoveries. From within the system, everyone is following their own incentives and will continue to do
+so.
+https://www.slatestarcodexabridged.com/Meditations-On-Moloch
+
+
+
 https://www.nytimes.com/2016/09/13/well/eat/how-the-sugar-industry-shifted-blame-to-fat.html
 
 https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat

@@ -143,6 +143,7 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 
 > "All over the world, mobile hunter-gatherers use social control guided by moral rules to see to it that when a successful hunter kills a large mammal, his ego is held in check." - [Christopher Boehm](https://www.goodreads.com/quotes/11025365-all-over-the-world-mobile-hunter-gatherers-use-social-control-guided)
 
+> "Rather than an “individual”, we might use the term “dividual” to highlight the primacy of relationship and interconnectedness." - [Transforming cultures and selves, by Octopusyarn](https://octopusyarn.substack.com/p/transforming-cultures-and-selves)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Opaqueness & Accountability
@@ -160,6 +161,8 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 ██████████████████████████████████████████████████████████████████
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
+
+> "Tell me why are we so blind to see That the ones we hurt are you and me?" - [Coolio - Gangsta’s Paradise](https://genius.com/Coolio-gangstas-paradise-lyrics#:~:text=Tell%20me%20why%20are%20we%20so%20blind%20to%20see%0AThat%20the%20ones%20we%20hurt%20are%20you%20and%20me%3F)
 
 > "It is the impulse of a finite player to go against another nation in war, it is the design of an infinite player to oppose war within a nation." - [James Carse](https://www.goodreads.com/quotes/6844935-it-is-the-impulse-of-a-finite-player-to-go)
 
