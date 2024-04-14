@@ -8603,8 +8603,6 @@ add tiny designs/screenshots for the different ideas - like a multi-level tree f
 
 a data-driven society
 
-"THE LIMITS OF LANGUAGE"
-
 "the role of LLMs in interfacing (with data)"
 
 "Curators & labelers"
