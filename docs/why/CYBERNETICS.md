@@ -55,13 +55,7 @@
 “Recursive relevance realization is cognition continually redesigning itself to fit the changing world." - Vervaeke and Ferraro
 https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom
 
-
-> "The essence of strategy is choosing what not to do." - [Michael Porter](https://www.azquotes.com/quote/234635)
-
 > "Billions are wasted on ineffective philanthropy. Philanthropy is decades behind business in applying rigorous thinking to the use of money." - [Michael Porter](https://www.azquotes.com/quote/234633)
-
-
-Why does Nate Hagens always ask his guests at the end of the show about the one thing they would like to say or do? Ranking. RR
 
 > "To attain knowledge, add things everyday. To attain wisdom, remove things every day." - [Lao Tzu](https://www.goodreads.com/quotes/30297-to-attain-knowledge-add-things-everyday-to-attain-wisdom-remove)
 
@@ -72,6 +66,11 @@ Why does Nate Hagens always ask his guests at the end of the show about the one 
 
 > "We do not measure a culture by its output of undisguised trivialities but by what it claims as significant." - [Neil Postman](https://www.azquotes.com/quote/456296)
 
+> "The essence of strategy is choosing what not to do." - [Michael Porter](https://www.azquotes.com/quote/234635)
+
+> "People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things." - [Steve Jobs](https://www.goodreads.com/quotes/629613-people-think-focus-means-saying-yes-to-the-thing-you-ve)
+
+> "Focusing is about saying No." - [Steve Jobs](https://www.goodreads.com/quotes/455912-focusing-is-about-saying-no)
 
 
 ██████████████████████████████████████████████████████████████████

@@ -149,4 +149,6 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324255&ref_=ext_shr_lnk
 
 https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
+> "A lot of people in our industry haven't had very diverse experiences. So they don't have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one's understanding of the human experience, the better design we will have." - [Steve Jobs](https://www.goodreads.com/quotes/634056-a-lot-of-people-in-our-industry-haven-t-had-very)
+
 

@@ -574,10 +574,15 @@ positive feedback loops in the economy are way stronger than negative feedback l
 
 
 ██████████████████████████████████████████████████████████████████
-# privacy & anonymity
+# SECTION: Privacy & anonymity, preference falsification
 ██████████████████████████████████████████████████████████████████
 
-> "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps" - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
+> "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps." - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
+
+> "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - [Oscar Wilde](https://www.goodreads.com/quotes/3736-man-is-least-himself-when-he-talks-in-his-own)
+
+> "Nowadays people know the price of everything and the value of nothing." - [Oscar Wilde](https://www.goodreads.com/quotes/77057-nowadays-people-know-the-price-of-everything-and-the-value)
+
 
 Private opinions for polls - you might not want them public but still to be able to compare with those who are public
 
