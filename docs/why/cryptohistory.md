@@ -199,6 +199,12 @@ The argument that specialized message types are unnecessary because AI will even
 
 > "Wikipedia is peer review. Open source is peer review. When you send a draft to a handful of friends to get feedback, that’s peer review. When you publish something to thousands of people to farm for dissent, that’s peer review." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Wikipedia%20is%20peer%20review.%20Open%20source%20is%20peer%20review.%20When%20you%20send%20a%20draft%20to%20a%20handful%20of%20friends%20to%20get%20feedback%2C%20that%E2%80%99s%20peer%20review.%20When%20you%20publish%20something%20to%20thousands%20of%20people%20to%20farm%20for%20dissent%2C%20that%E2%80%99s%20peer%20review.)
 
+If I write a paper and you write a paper, each of us has one paper. If we each agree to put each other as a co-author on the paper, now each of us has two papers. Lots of academics figure this out very quickly...
+https://twitter.com/skdh/status/1779481377475268664
+
+Gonna dig in here.
+5 papers written by a group of 5 people shoudn't be worth so much more than the exact same 5 papers each written independently by 1 of the 5 people. But the way we count things, it really is.
+https://twitter.com/Quasilocal/status/1779437309554741442
 
 How much science & polls [don't replicate](https://twitter.com/johnmsides/status/1765068280694480964)?
 
