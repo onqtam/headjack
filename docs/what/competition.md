@@ -42,8 +42,8 @@ https://stackoverflow.com/a/31513163
     <td style={{backgroundColor: "grey"}} colspan="8" height="25px"><b>blockchain-related properties</b></td>
 </tr>
 <tr>
-    <td><b>Scalability & potential scope</b></td> 
-    <td style={{backgroundColor: "green"}}>can handle billions of users (<a href="numbers.md">proof</a>) & underpin the entire web</td>
+    <td><b>Scalability & potential scope</b></td>
+    <td style={{backgroundColor: "green"}}><a href="numbers.md"><img src="/img/meme_carl_sagan_billions.jpeg"/></a></td>
     <td style={{backgroundColor: "lime"}}>perhaps up to ~10 million - could move to its own rollup</td>
     <td style={{backgroundColor: "yellow"}}>perhaps up to a few million  graph changes are on-chain</td>
     <td style={{backgroundColor: "green"}}>centralized consortium of servers</td>
