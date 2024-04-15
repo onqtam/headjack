@@ -111,6 +111,9 @@ https://twitter.com/AltcoinPsycho/status/1547203030185017344
 
 https://twitter.com/session_app
 
+https://twitter.com/danielaperlein/status/1777745355490181282
+https://twitter.com/moxie/status/1777732088449663327
+
 - DMs without keys - how?
     maybe rely on the identity providers - ACMs?
     https://twitter.com/elonmusk/status/1519469891455234048
