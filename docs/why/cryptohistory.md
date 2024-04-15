@@ -13,6 +13,8 @@
 
 > "Historical amnesia is a dangerous phenomenon not only because it undermines moral and intellectual integrity but also because it lays the groundwork for crimes that still lie ahead." - [Noam Chomsky](https://www.goodreads.com/quotes/7649756-historical-amnesia-is-a-dangerous-phenomenon-not-only-because-it)
 
+> "That men do not learn very much from the lessons of history is the most important of all the lessons of history." - [Aldous Huxley](https://www.azquotes.com/quote/139992)
+
 
 The highest standards of history are permanence and authenticity
 

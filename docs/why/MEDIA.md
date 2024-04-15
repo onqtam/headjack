@@ -65,6 +65,8 @@
 >
 > Morpheus: That you are a slave, Neo. Like everyone else you were born into bondage. Into a prison that you cannot taste or see or touch. A prison for your mind." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/3861325-morpheus-the-matrix-is-everywhere-it-is-all-around-us)
 
+> "People will come to love their oppression, to adore the technologies that undo their capacities to think." - [Aldous Huxley](https://www.azquotes.com/quote/1144899)
+
 > "If you eat, invest, and think according to what the ‘news’ advocates, you’ll end nutritionally, financially, and morally bankrupt." - [Naval Ravikant](https://twitter.com/navalbot/status/1422648752691683331)
 
 > "The key element of social control is the strategy of distraction that is to divert public attention from important issues and changes decided by political and economic elites, through the technique of flood or flooding continuous distractions and insignificant information." - [Noam Chomsky](https://www.goodreads.com/quotes/485177-the-key-element-of-social-control-is-the-strategy-of)

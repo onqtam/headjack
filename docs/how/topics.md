@@ -58,7 +58,19 @@ CIA director [Richard Helms](https://en.wikipedia.org/wiki/Richard_Helms)' eyes 
 Victoria David Beckham Be Honest Meme Generator
 https://imgflip.com/memegenerator/497281194/Victoria-David-Beckham-Be-Honest
 
-
+CHAPTERS:
+- MEDIA
+- SYSTEM
+- DIGITAL FOOTPRINT
+- GGG
+- INFORMATION
+- ATTENTION
+- CYBERNETICS
+- COLLECTIVE INTEL
+- HISTORY
+- REPUTATION
+- EVIL
+- FORWARD
 
 tribe diffusion - ending the bipolar political divide
 
@@ -70,10 +82,6 @@ COMPLEX ADAPTIVE SYSTEMS !!!
 embracing complexity
 
 Gamification
-
-the medimu is the message - as a whole page about media
-
-Disputation Arenas
 
 bayesian thinking/living
 

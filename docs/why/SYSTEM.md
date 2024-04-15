@@ -3,6 +3,8 @@
 
 > "Have you ever stood and stared at it? Marvelled at its beauty, it’s genius. Billions of people, just living out their lives… oblivious." - [Agent Smith, The Matrix](https://medium.com/rubinas-bojra/12-quotes-from-the-matrix-that-blow-my-mind-every-time-b997c75ea49d#:~:text=Have%20you%20ever%20stood%20and%20stared%20at%20it%3F%20Marvelled%20at%20its%20beauty%2C%20it%E2%80%99s%20genius.%20Billions%20of%20people%2C%20just%20living%20out%20their%20lives%E2%80%A6%20oblivious.)
 
+> "It is no measure of health to be well adjusted to a profoundly sick society." - [Jiddu Krishnamurti](https://www.goodreads.com/quotes/13620-it-is-no-measure-of-health-to-be-well-adjusted)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Market & Capitalism
 ██████████████████████████████████████████████████████████████████
@@ -150,6 +152,8 @@ Unbreaking America: Solving the Corruption Crisis
 
 > "It is not a matter of what is true that counts, but a matter of what is perceived to be true." - [Henry Kissinger](https://www.goodreads.com/quotes/40934-it-is-not-a-matter-of-what-is-true-that)
 
+> "Armaments, universal debt, and planned obsolescence—those are the three pillars of Western prosperity." - [Aldous Huxley](https://www.goodreads.com/quotes/14210-armaments-universal-debt-and-planned-obsolescence-those-are-the-three-pillars)
+
 
 > "With great power, comes power to avoid responsibility." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1720575694886072697)
 
@@ -164,6 +168,18 @@ Unbreaking America: Solving the Corruption Crisis
 > "We are ready to accept almost any explanation of the present crisis of our civilization except one: that the present state of the world may be the result of genuine error on our own part and that the pursuit of some of our most cherished ideals has apparently produced results utterly different from those which we expected." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/973009-we-are-ready-to-accept-almost-any-explanation-of-the)
 
 > "A tumor is a region of a system that optimizes for its local needs at the expense of the rest of the system. Consequently, it takes more from its environment than it contributes. Tumors happen when a system is unable to recognize whether its constituents serve its specification." - [Joscha Bach](https://twitter.com/Plinz/status/1746988788684083595)
+
+> "If you’re talking about ‘human rights’ and ‘democracy’ instead of pipelines and the military industrial complex, you have no idea what’s going on in the world and should focus your energy elsewhere." - [@PresentWitness_](https://twitter.com/PresentWitness_)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Destructive global competition
+██████████████████████████████████████████████████████████████████
+
+https://simpol.org/
+https://www.youtube.com/watch?v=aQuLExIinBE
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+governance needs to be applied at the level at which destructive competition is arising
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conflict vs mistake theory, Moral hazzards, Opaqueness & Plausible Deniability
@@ -232,9 +248,14 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 https://img.ifunny.co/images/a48d5b157383f50d5d8b87a8b0932da18b9791ecb6ed94fd01eef4490fe84579_3.jpg
 https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 
+> "There are no passengers on spaceship earth. We are all crew." - [Marshall McLuhan](https://www.azquotes.com/quote/195272)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism
 ██████████████████████████████████████████████████████████████████
+
+the century of the self
 
 > "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
 
@@ -253,6 +274,8 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 > "I do not believe making money in order to consume goods is mankind’s sole purpose on this planet." - [Bill Hicks](https://www.goodreads.com/quotes/11285184-i-do-not-believe-making-money-in-order-to-consume)
 
 > "They Want You To Be A Docile Apathetic Consumer." - [Bill Hicks](https://www.goodreads.com/quotes/650592-they-want-you-to-be-a-docile-apathetic-consumer)
+
+> "It is the preoccupation with possessions, more than anything else, that prevents us from living freely and nobly." - [Bertrand Russell](https://www.goodreads.com/quotes/5095-it-is-the-preoccupation-with-possessions-more-than-anything-else)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Opaqueness & Accountability
@@ -274,6 +297,8 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 > "It's not radical Islam that worries the US - it's independence." - [Noam Chomsky](https://www.goodreads.com/quotes/343018-it-s-not-radical-islam-that-worries-the-us----it-s)
 
 > "Some of us, perhaps all of us, believe that it is legitimate to kill enemy soldiers in a war, as if war were a special circumstance that shrinks the sizes of enemy souls." - [Douglas Hofstadter](https://www.goodreads.com/quotes/830578-some-of-us-perhaps-all-of-us-believe-that-it)
+
+> "The propagandist's purpose is to make one set of people forget that certain other sets of people are human." - [Aldous Huxley](https://www.goodreads.com/quotes/94619-the-propagandist-s-purpose-is-to-make-one-set-of-people)
 
 > "Any organization created out of fear must create fear to survive." - [Bill Hicks](https://www.azquotes.com/quote/798848)
 

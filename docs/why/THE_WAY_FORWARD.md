@@ -75,6 +75,17 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "The only way out is spiritual, intellectual, and emotional revolution in which, finally, we learn to experience first hand the interloping connections between person and person, organism and organism, action and consequence." - [Gregory Bateson](https://www.azquotes.com/quote/788289)
 
+> "The future belongs to those who give the next generation reason for hope." - [Pierre Teilhard de Chardin](https://www.goodreads.com/quotes/481614-the-future-belongs-to-those-who-give-the-next-generation)
+
+> "In a concrete sense there is not matter and spirit. All that exists is matter becoming spirit." - [Pierre Teilhard de Chardin](https://www.consciousevolution.co.uk/what#:~:text=In%20a%20concrete%20sense%20there%20is%20not%20matter%20and%20spirit.%20All%20that%20exists%20is%20matter%20becoming%20spirit.)
+
+> "Life sucks order from a sea of disorder." - [James Gleick](https://www.azquotes.com/quote/1046973)
+
+> "The universe is computing its own destiny." - [James Gleick](https://www.goodreads.com/quotes/969423-the-universe-is-computing-its-own-destiny)
+
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
 ██████████████████████████████████████████████████████████████████
@@ -95,6 +106,9 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Physics is like sex: sure, it may give some practical results, but that's not why we do it." - [Richard Feynman](https://www.goodreads.com/quotes/117534-physics-is-like-sex-sure-it-may-give-some-practical)
 
+> "Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself." - [James Gleick](https://www.goodreads.com/quotes/427523-every-new-medium-transforms-the-nature-of-human-thought-in)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Time preference expansion
 ██████████████████████████████████████████████████████████████████
@@ -102,6 +116,10 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "With the invention of the clock, Eternity ceased to serve as the measure and focus of human events." - [Neil Postman](https://www.goodreads.com/quotes/594270-with-the-invention-of-the-clock-eternity-ceased-to-serve)
 
 > "Society grows great when old men plant trees whose shade they know they shall never sit in." - [Greek Proverb](https://www.goodreads.com/quotes/666987-society-grows-great-when-old-men-plant-trees-whose-shade)
+
+> "The sociologist Elise Boulding diagnosed the problem of our times as “temporal exhaustion”: “If one is mentally out of breath all the time from dealing with the present, there is no energy left for imaging the future." - [Stewart Brand](https://www.goodreads.com/quotes/7250028-the-sociologist-elise-boulding-diagnosed-the-problem-of-our-times)
+
+> "Civilization is revving itself into a pathologically short attention span. The trend might be coming from the acceleration of technology, the short-horizon perspective of market-driven economics, the next-election perspective of democracies, or the distractions of personal multitasking. All are on the increase. Some sort of balancing corrective to the short-sightedness is needed—some mechanism or myth that encourages the long view and the taking of long-term responsibility, where “the long term” is measured at least in centuries." - [Stewart Brand](https://www.goodreads.com/quotes/7249990-civilization-is-revving-itself-into-a-pathologically-short-attention-span)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -209,6 +227,10 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 > "The most pragmatic problem is the future of this planet, and its survival. And I think one of the great disgraces of academic economists is that they're not at the forefront of this. It's morally reprehensible that they're not leading the way." - [Geoffrey West](https://twitter.com/sfiscience/status/1193262457566842881)
 
+> "We have a hundred trillion cells in our bodies and each one of them has thirty thousand recycling centres renewing our proteins. They're so hi-tech that they can take in a protein, disassemble it, build a new protein (perhaps an entirely different kind) and issue the new protein. That's as if we could stick trees into a chipper machine and get a live tree out the other side. Very hi-tech! We're not nearly as hi-tech yet, as our own internal microworld.
+>
+> We have a great deal to learn from nature. Take economics. If we ran our bodies' economy the way our economy is run it might look something like this. We could call the heart-lung system the “northern industrial organs”. You give them ownership of the bones in which you mine the raw material blood cells that arise in the marrow. Sweep them up here to the northern industrial organs. Purify the blood as actually happens. Add oxygen and then the heart distribution centre announces “The body price for blood today is so much. Who will buy?” And you ship the blood to the organs that can afford it and not all can. This is the situation we have economically in the world today. You can see that a living system can't function that way." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=We%20have%20a%20hundred,can%27t%20function%20that%20way.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
@@ -261,6 +283,8 @@ We must consciously raise the awareness and education of the so-called masses
 
 > "Age is a hell of a price to pay for wisdom." - [George Carlin](https://www.azquotes.com/quote/1424082)
 ^^ HOW TO WE SPEED THINGS UP TOWARDS WISDOM?
+
+> "We are faced with the paradoxical fact that education has become one of the chief obstacles to intelligence and freedom of thought." - [Bertrand Russell](https://www.azquotes.com/quote/254924)
 
 > "The only thing that interferes with my learning is my education." - [Albert Einstein](https://www.goodreads.com/quotes/118223-the-only-thing-that-interferes-with-my-learning-is-my)
 
@@ -409,6 +433,12 @@ https://www.google.com/search?q=this+is+healthy
 > "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
 
 > "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
+
+> "I love this metaphor because it shows us why, first of all, we who want to change the world are co-existing with the old system for a while and why there's no point in attacking the old system because you know the caterpillar is unsustainable so it's going to die. What we have to focus on is “can we build a viable butterfly?” A butterfly that really can fly because that's not guaranteed." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=I%20love%20this,that%27s%20not%20guaranteed.)
+
+> "The internet, by the way, functions like a real self-organizing living system. You have to tolerate a lot of chaos in that situation to see the good things emerging, to see us connecting more and more and that's happening.
+>
+> So I have tremendous hope for all of us humans together, using our creative technology, our computers, in order to link each other -- linking our minds, our concepts, our visions. Above all we need a very powerful vision to hold that butterfly image for us. To know where we want to go. Because the old system is very clear about what it wants. And we really do create our realities out of our beliefs. If we don't believe in a positive world in which all humans are liberated to express their creativity, we cannot build it. We must hold the vision very clearly and then go about doing whatever each of us loves doing most, knowing that the others will do the other parts. None us has to do the whole thing. Together we can really make it happen." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=The%20internet%2C%20by,make%20it%20happen.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
