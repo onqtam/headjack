@@ -2,7 +2,7 @@
 draft: true
 ---
 
-# Why Headjack
+# Why Headjack - A Manifesto
 
 <img src="/img/meme_trojan_horse.jpg" align="right" style={{marginLeft: "8px", width: "55%"}}/>
 

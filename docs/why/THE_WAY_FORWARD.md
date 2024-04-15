@@ -733,7 +733,7 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 > "The task at hand is to decidedly reject the toxic tendencies of religions (dogma and institutionalized power structures) while exapting their social functions in a way that works for a specific time and place." - [The anatomy of religions, by Octopusyarn](https://octopusyarn.substack.com/p/the-anatomy-of-religions)
 
-> "New atheists didn’t get Chesterton’s fence. They missed how important religion is for social cohesion and a sense of meaning. This is ironic, given Dawkins’ work on Memetics is explicitly about the adaptive fitness of ideas." - [Redeeming Christian concepts, by Octopusyarn](https://octopusyarn.substack.com/p/redeeming-christian-concepts)
+> "New atheists didn’t get [Chesterton’s fence](https://en.wiktionary.org/wiki/Chesterton%27s_fence). They missed how important religion is for social cohesion and a sense of meaning. This is ironic, given Dawkins’ work on Memetics is explicitly about the adaptive fitness of ideas." - [Redeeming Christian concepts, by Octopusyarn](https://octopusyarn.substack.com/p/redeeming-christian-concepts)
 
 > "It makes sense to think of the Devil as a transpersonal being, an egregore. Evil, in turn, is a relational process that creates suffering, not a fixed characteristic. The Devil rises from social conditions that foster Evil." - [Redeeming Christian concepts, by Octopusyarn](https://octopusyarn.substack.com/p/redeeming-christian-concepts)
 
