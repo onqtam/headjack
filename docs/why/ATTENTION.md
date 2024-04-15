@@ -63,3 +63,9 @@ https://twitter.com/Kristennetten/status/1600444201744801792
 Visualizing “the current thing” throughout 2023
 https://twitter.com/exec_sum/status/1743744897264345445
 ^^ THIS IS ATTENTIONAL DISFUNCTION
+
+> "You become what you give your attention to." - [Epictetus](https://twitter.com/dailystoic/status/1709689898817777974)
+
+> "When information is cheap, attention becomes expensive." - [James Gleick](https://www.goodreads.com/quotes/393102-when-information-is-cheap-attention-becomes-expensive)
+
+

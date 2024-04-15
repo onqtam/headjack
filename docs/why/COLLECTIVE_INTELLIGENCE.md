@@ -10,6 +10,9 @@ alternative titles:
 > "The body cannot live without the mind." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158662-the-body-cannot-live-without-the-mind-morpheus-the-matrix)
 
 
+> "It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness." - [James Gleick](https://www.goodreads.com/quotes/393099-it-is-not-the-amount-of-knowledge-that-makes-a)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Biases & Evolutionary Psychology
 ██████████████████████████████████████████████████████████████████
@@ -148,6 +151,7 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "Perfect is the enemy of good." - [Voltaire](https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good)
 
+> "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts." - [Bertrand Russell](https://www.goodreads.com/quotes/2597341-the-whole-problem-with-the-world-is-that-fools-and)
 
 
 > "The prediction market experiment was a success, but we will not proceed with the programme as it interferes with our ability to shape the narrative around the direction of government policy." - [A G7 government official and advisor to their head of state](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20prediction%20market%20experiment%20was%20a%20success%2C%20but%20we%20will%20not%20proceed%20with%20the%20programme%20as%20it%20interferes%20with%20our%20ability%20to%20shape%20the%20narrative%20around%20the%20direction%20of%20government%20policy.)
@@ -182,6 +186,8 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "The limits of my language means the limits of my world." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my)
 
+> "Negative feedback dendrites are missing (aka. dislike button). Neural networks do not work without them." - [Toni Engelhardt](https://twitter.com/toniengelhardt/status/1682498181051957248)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Causality
 ██████████████████████████████████████████████████████████████████
@@ -204,9 +210,10 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: You're a neuron
+# SECTION: Neuron
 ██████████████████████████████████████████████████████████████████
 
+> "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836)
 
 > "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
 
@@ -773,6 +780,17 @@ we should hold people who claim to be public intellectuals to a higher standard 
 https://prnt.sc/FTXL0rEN6vz3
 https://prnt.sc/MqZJfMJHnJqG
 https://twitter.com/alexandrosM/status/1614328083645100032
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Global Brain
+██████████████████████████████████████████████████████████████████
+
+> "On the one hand we have a single brain, formed of nervous nuclei, and on the other a Brain of brains. It is true that between these two organic complexes a major difference exists. Whereas in the case of the individual brain thought emerges from a system of nonthinking nervous fibers, in the case of the collective brain each separate unit is in itself an autonomous center of reflection. If the comparison is to be a just one we must, at every point of resemblance, take this difference into account." - [Pierre Teilhard de Chardin](https://humanenergy.io/francis-heylighen/#:~:text=On%20the%20one,difference%20into%20account.)
+
+> "If twitter gets its shit together, millions of people can form coherent ideas and will be much stronger than any government." - [Joscha Bach](https://twitter.com/Plinz/status/1709290106149023819)
+
+> "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
 
 
 

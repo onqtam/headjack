@@ -209,6 +209,11 @@ having your post (successfully) labeled as a duplicate of something else could i
 
 > "I love Twitter: you can make predictions that sound smart and go viral and then delete them when you end up being completely wrong." - [Nikita Bier](https://twitter.com/nikitabier/status/1677733311723245568)
 
+> "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
+
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status
 ██████████████████████████████████████████████████████████████████
@@ -224,3 +229,11 @@ having your post (successfully) labeled as a duplicate of something else could i
 https://twitter.com/eriktorenberg/status/1748056677449138500
 "Backchannel references as a service - Pay money, get a reference. Give a reference, get paid (as long as your reference is desired) If you're seeking a reference, you only pay if we find you someone you want to talk to"
 ^^ this but with ZK
+
+> "One of the best ways to achieve justice is to expose injustice." - [Julian Assange](https://twitter.com/ancapquotes/status/1721422177029804235)
+
+We need to be able to bet on anything (DO WE?)
+> "Where can I purchase a futures contract on the number of patent citations a physics paper will have in 5 years?" - [Daniel Gross](https://twitter.com/danielgross/status/1684209771895726081)
+
+> "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
+

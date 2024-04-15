@@ -72,16 +72,12 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: You're a neuron
-██████████████████████████████████████████████████████████████████
-
-
-██████████████████████████████████████████████████████████████████
 # SECTION: STONE TABLET IPFS CID HASH OF BOOK
 ██████████████████████████████████████████████████████████████████
 
 The beauty of hash chains is that you can’t rewrite the past
 
+also put the bitcoin genesis block hash on there
 
 
 

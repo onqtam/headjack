@@ -167,5 +167,11 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "The major problems in the world are the result of the difference between how nature works and the way people think." - [Gregory Bateson](https://www.goodreads.com/quotes/104738-the-major-problems-in-the-world-are-the-result-of)
 
+> "Now humanity is going through the biggest event since the time that bacteria formed the nucleated cell because we're now trying to form the body of humanity around the globe. Seeing that other species matured out of a youthful competitive phase into a mature cooperative phase means everything to us now. The Darwinian story only goes to the adolescent part where there's hostile competition. You take all you can get. You fight your enemy. You try to out-do him or try to bump him off and that's what makes you survive. But that's not what sustainability is all about. Sustainability happens when species learn to feed each other instead of fight each other. You get mature ecosystems such as rainforests and prairies where you have far more cooperation than you have hostile competition. You can still have friendly competition, but that's very different. So I see humanity doing exactly this right now." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=Now%20humanity%20is,this%20right%20now.)
+
+> "The coalition of the physically and spiritually deformed grows stronger every day that we fail to install a dominate cultural narrative that highlights virtue, strength, and beauty." - [@PresentWitness_](https://twitter.com/PresentWitness_/status/1723003456120672660)
+
+> "I want to build an AI agent that I am ok with giving to my children. It’s the same AI I want to build for myself. It will talk to me, join me, extend me. It will fit like a glove around my mind, and you will want one, too. It will allow you and me to interact so deeply that we become one. It is like us, just so much more so. Conscious, curious, loving, playing the longest game." - [Joscha Bach](https://twitter.com/Plinz/status/1725058838192361725)
+
 
 

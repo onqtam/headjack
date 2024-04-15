@@ -26,6 +26,7 @@
 ██████████████████████████████████████████████████████████████████
 
 
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Relevance realization
 ██████████████████████████████████████████████████████████████████
@@ -99,6 +100,8 @@ the organisms that persist are the models that are best able to predict the envi
 > "The nearest each of us can come to God is by loving the truth." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716546)
 
 > "All of humanity is in peril of extinction if each one of us does not dare, now and henceforth, always to tell only the truth, and all the truth, and to do so promptly - right now." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1267424)
+
+> "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Agency

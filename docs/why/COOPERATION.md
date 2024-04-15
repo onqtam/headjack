@@ -1,4 +1,9 @@
 
+
+
+> "Selfishness beats altruism within groups. Altruistic groups beat selfish groups. Everything else is commentary." - [David Sloan Wilson](https://www.goodreads.com/quotes/950594-selfishness-beats-altruism-within-groups-altruistic-groups-beat-selfish-groups)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
@@ -79,6 +84,9 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "If it's wrong when they do it, it's wrong when we do it." - [Noam Chomsky](https://www.goodreads.com/quotes/599016-if-it-s-wrong-when-they-do-it-it-s-wrong-when)
 
+> "The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago." - [David Sloan Wilson](https://www.goodreads.com/quotes/11665166-the-eternal-struggle-between-good-and-evil-takes-place-within)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████
@@ -93,3 +101,4 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
 
+> "So self-interest is good as long as its contained by the self-interest of a community. You see, that makes us always be aware of other levels. If we can learn this as humans to say when we're making a decision: Is this good for me, my family, for my ecosystem, for my nation for my world? And then if it's good at some levels and at least harmless at others, like the Hippocratic oath “Do No Harm” then go ahead and try it. You're a creative human being." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=So%20self%2Dinterest,creative%20human%20being.)

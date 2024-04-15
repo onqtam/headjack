@@ -114,6 +114,8 @@ The internet is under U.S. control
 https://whois.icann.org/en/domain-name-registration-process
 
 
+> "Tech firms’ desire to control their platforms is really the biggest threat to freedom everywhere. It creates a small number of chokepoints that governments are learning to exploit. Very few authoritarians could have built such a convenient system by themselves." - [Matthew Green](https://twitter.com/matthew_d_green/status/1684566275044122625)
+
 ██████████████████████████████████████████████████████████████████
 # Black boxes & algorithmic bias
 ██████████████████████████████████████████████████████████████████
@@ -123,6 +125,8 @@ The recommendation algorithms & the social graph are the architecture of viralit
 Ephemeral experiences such as search suggestions & results leave no trace and it's extremely hard to prove bias as [Dr. Robert Epstein](https://en.wikipedia.org/wiki/Robert_Epstein#Contributions_to_Internet_Studies) would [attest](https://open.spotify.com/episode/4q0cNkAHQQMBTu4NmeNW7E) - there is 0 accountability.
 
 > "But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm." - [the original Google search engine whitepaper](https://perma.cc/8GDJ-K6AX)
+
+> "Google gets much of its revenue from connecting user inputs to ads, and the product is squeezing the content. Google has not only lost its direction, it has forgotten its purpose" - [Joscha Bach](https://twitter.com/Plinz/status/1724714156019110397)
 
 Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
 
