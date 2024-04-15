@@ -1349,37 +1349,23 @@ Massachusetts Institute of Technology
 
 > "" - [Dictatorship, democracy, and development, by Mancur Olson](https://sci-hub.se/10.2307/2938736)
 
-> "" - []()
+> "" - [Wicked Problems](https://cognexus.org/wpf/wickedproblems.pdf)
+
+> "" - [Social Translucence: Designing Social Infrastructures that Make Collective Activity Visible](https://dl.acm.org/doi/10.1145/505248.505270)
+
+> "" - [Social Decision Making with Multi-Relational Networks and Grammar-Based Particle Swarms](https://arxiv.org/abs/cs/0609034)
 
 > "" - []()
 
 > "" - []()
 
+> "" - []()
+
+> "" - []()
 
 
-Olson, M., 2000. Power and Prosperity: Outgrowing Communist and Capitalist Dictatorships. Basic Books, New York.
-http://refhub.elsevier.com/S0303-2647(20)30126-X/sref32
 
 
-
-Getting into a flow state during the activity is the gold standard for intrinsic
-motivation. Csíkszentmihályi’s conditions of flow include clear goals, immediate
-feedback, and a match between challenge and capacity.
-
-I recently did a 2-week solo meditation retreat focused on the practice of Shi-ne.
-13-day solo retreat (no human contact, electronic devices, books, etc.)
-8 hours of meditation per day as a target (I only did 6 hours on 3 days and 4
-hours on the last day), split up into 1-hour sessions (occasionally 30 minutes).
-20 minutes of stretching and 1-2 hours of walking per day
-Vegetarian food, 1 coffee per day, nicotine chewing gum on walks
-https://deconstructingyourself.com/
-
-
-Benkler, Y., The Wealth of Networks: How Social Production Transforms Markets and Freedom. 2006: Yale University Press.
-
-Conklin, J., Dialogue Mapping: Building Shared Understanding of Wicked Problems. 2005: John Wiley and Sons, Ltd
-
-Erickson, T., et al., Social Translucence: Designing Social Infrastructures that Make Collective Activity Visible. Communications of the ACM, 2002. 45(4): p. 40-44.
 
 Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
 In Internet and Web Applications and Services, 2007. ICIW'07. Second International Conference on, 58–58.
@@ -1392,32 +1378,14 @@ Iandoli, L., M. Klein, and G. Zollo, Enabling on-line deliberation and collectiv
 
 Klein, M., A Knowledge-Based Methodology for Designing Reliable Multi-Agent Systems, in Agent-Oriented Software Engineering IV, P. Giorgini, J.P. Mueller, and J. Odell, Editors. 2003, Springer-Verlag. p. 85 - 95.
 
-http://wiki.lesswrong.com/wiki/Orthogonality_thesis
 
-LessWrong. (2013). Complexity of value. LessWrong. Wiki. Retrieved from
-http://wiki.lesswrong.com/wiki/Complexity_of_value
 
-Rodriguez, M.A (2007) Social Decision Making with Multi-Relational Networks and Grammar-Based
-Particle Swarms, in: 2007 Hawaii International Conference on Systems Science (HICSS) IEEE
-Computer Society
-
-"The task is to see reality as it is, the method is to look through millions of eyes" - Nietzsche
-
-https://en.wikipedia.org/wiki/Demarcation_problem#:~:text=In%20philosophy%20of%20science%20and,art%20and%20literature%20and%20beliefs.
-
-Chesterton’s fence
-
-https://lessfoolish.substack.com/
 
 https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/
 
 https://www.quora.com/Why-do-religions-exist-and-what-is-their-purpose-to-society
 
-https://en.wikipedia.org/wiki/Cult_of_the_Supreme_Being
 
-https://www.jstor.org/stable/3087765#metadata_info_tab_contents
-
-https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitter/
 
 Cristian, F. (1996). Synchronous and asynchronous Group Communication. Communications of the ACM, 39(4), 88–97.
 
