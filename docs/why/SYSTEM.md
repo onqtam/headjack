@@ -1,6 +1,9 @@
 
 
 
+
+> "Welcome to the desert of the real." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158633-welcome-to-the-desert-of-the-real-morpheus-the-matrix)
+
 > "Have you ever stood and stared at it? Marvelled at its beauty, it’s genius. Billions of people, just living out their lives… oblivious." - [Agent Smith, The Matrix](https://medium.com/rubinas-bojra/12-quotes-from-the-matrix-that-blow-my-mind-every-time-b997c75ea49d#:~:text=Have%20you%20ever%20stood%20and%20stared%20at%20it%3F%20Marvelled%20at%20its%20beauty%2C%20it%E2%80%99s%20genius.%20Billions%20of%20people%2C%20just%20living%20out%20their%20lives%E2%80%A6%20oblivious.)
 
 > "It is no measure of health to be well adjusted to a profoundly sick society." - [Jiddu Krishnamurti](https://www.goodreads.com/quotes/13620-it-is-no-measure-of-health-to-be-well-adjusted)
@@ -342,7 +345,7 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 
 > "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so. The US has made a lot of mistakes of unnecessary wars." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
 
-> "Welcome to the desert of the real." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158633-welcome-to-the-desert-of-the-real-morpheus-the-matrix)
+> "It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.'" - [Aldous Huxley](https://www.goodreads.com/quotes/9861-it-is-a-bit-embarrassing-to-have-been-concerned-with)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives
