@@ -190,6 +190,8 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "Negative feedback dendrites are missing (aka. dislike button). Neural networks do not work without them." - [Toni Engelhardt](https://twitter.com/toniengelhardt/status/1682498181051957248)
 
+> "You don’t see something until you have the right metaphor to let you perceive it." - [James Gleick](https://www.goodreads.com/quotes/6490400-you-don-t-see-something-until-you-have-the-right-metaphor)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Causality
 ██████████████████████████████████████████████████████████████████
@@ -794,6 +796,9 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 > "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
 
+> "The Internet looks to me like the backbone of the emergent thing. I mean, the Internet is a huge and not fully comprehended cultural step that we have now totally committed ourselves to. It’s nothing less than the building of a thinking nervous system the size of the entire planet." - [Terence McKenna](https://www.organism.earth/library/document/valley-of-novelty#:~:text=the%20Internet%20looks%20to%20me%20like%20the%20backbone%20of%20the%20emergent%20thing.%20I%20mean%2C%20the%20Internet%20is%20a%20huge%20and%20not%20fully%20comprehended%20cultural%20step%20that%20we%20have%20now%20totally%20committed%20ourselves%20to.%20It%E2%80%99s%20nothing%20less%20than%20the%20building%20of%20a%20thinking%20nervous%20system%20the%20size%20of%20the%20entire%20planet.)
+
+> "There’s sort of a collective AI in Google Search, where we’re all sort of plugged in like nodes on the network; like leaves on a big tree. And we’re all feeding this network with our questions and answers. We’re all collectively programming the AI. And Google, plus all the humans that connect to it, are one giant cybernetic collective. This is also true of Facebook and Twitter and Instagram, and all these social networks. They’re giant cybernetic collectives." - [Elon Musk](https://www.organism.earth/library/document/human-civilization-and-ai#:~:text=there%E2%80%99s%20sort%20of,giant%20cybernetic%20collectives.)
 
 
 ██████████████████████████████████████████████████████████████████

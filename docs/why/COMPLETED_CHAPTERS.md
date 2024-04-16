@@ -190,6 +190,11 @@ top10 papers:
 The problem with John's papers is that you can't simply quote parts of them as all parts are good - you'd have to use the whole thing. These papers comprise most of the essence of his book `"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"`.
 TODO: maybe just leave the 2014/2018 papers
 
+What concepts should everyone be familiar with?
+Planetary boundaries
+https://en.wikipedia.org/wiki/Planetary_boundaries
+https://www.stockholmresilience.org/research/planetary-boundaries.html
+https://www.stockholmresilience.org/research/research-news/2023-09-13-all-planetary-boundaries-mapped-out-for-the-first-time-six-of-nine-crossed.html
 
 Use the clip of jobs saying that we can change things in the world - or in the top10 things to watch
 "Steve Jobs Secrets of Life"
