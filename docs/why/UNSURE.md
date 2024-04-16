@@ -187,6 +187,9 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "The constructal law describes a principle in natural design: flow systems, animate and inanimate—people, rivers, trees, branches, tectonic plates, traffic, markets, and more—all act the same, in one crucial way. In order to survive, all these systems must adapt to accommodate the currents that flow through them, and they all evolve following a vascular pattern." - [Constructal law, by Adrian Bejan](https://qz.com/957711/everything-including-the-growing-income-disparity-can-be-explained-by-physics#:~:text=The%20constructal%20law%20describes,following%20a%20vascular%20pattern.)
 
+> "Throughout the Holocene, societies developed additional layers of administration and more information-rich instruments for managing and recording transactions and events as they grew in population and territory. Yet, while such increases seem inevitable, they are not." - [Scale and information-processing thresholds in Holocene social evolution](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7224170/#:~:text=Throughout%20the%20Holocene%2C%20societies%20developed%20additional%20layers%20of%20administration%20and%20more%20information%2Drich%20instruments%20for%20managing%20and%20recording%20transactions%20and%20events%20as%20they%20grew%20in%20population%20and%20territory.%20Yet%2C%20while%20such%20increases%20seem%20inevitable%2C%20they%20are%20not.)
+
+
 
 
 

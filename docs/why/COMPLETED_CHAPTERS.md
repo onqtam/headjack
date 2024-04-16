@@ -28,6 +28,10 @@ https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
 > "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
+> "True ignorance is not the absence of knowledge, but the refusal to acquire it." - [Karl Popper](https://www.azquotes.com/quote/492103)
+
+> "The war of ideas is a Greek invention. It is one of the most important inventions ever made. Indeed, the possibility of fighting with words and ideas instead of fighting with swords is the very basis of our civilization, and especially of all its legal and parliamentary institutions." - [Karl Popper](https://www.goodreads.com/quotes/784074-the-war-of-ideas-is-a-greek-invention-it-is)
+
 > "I never allow myself to hold an opinion on anything that I don't know the other side's argument better than they do." - [Charlie Munger](https://www.goodreads.com/quotes/7447184-i-never-allow-myself-to-hold-an-opinion-on-anything)
 
 > "We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side." - [Charlie Munger](https://www.goodreads.com/quotes/12934-we-all-are-learning-modifying-or-destroying-ideas-all-the)

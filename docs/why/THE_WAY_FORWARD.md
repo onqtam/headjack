@@ -305,6 +305,8 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 
 > "In the end ... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
 
+> "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Values & virtues
 ██████████████████████████████████████████████████████████████████
@@ -599,6 +601,8 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 > "The internet, by the way, functions like a real self-organizing living system. You have to tolerate a lot of chaos in that situation to see the good things emerging, to see us connecting more and more and that's happening.
 >
 > So I have tremendous hope for all of us humans together, using our creative technology, our computers, in order to link each other -- linking our minds, our concepts, our visions. Above all we need a very powerful vision to hold that butterfly image for us. To know where we want to go. Because the old system is very clear about what it wants. And we really do create our realities out of our beliefs. If we don't believe in a positive world in which all humans are liberated to express their creativity, we cannot build it. We must hold the vision very clearly and then go about doing whatever each of us loves doing most, knowing that the others will do the other parts. None us has to do the whole thing. Together we can really make it happen." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=The%20internet%2C%20by,make%20it%20happen.)
+
+> "Our task is not to overthrow globalisation, but to capture it, and to use it as a vehicle for humanity’s first global democratic revolution." - [George Monbiot](https://www.monbiot.com/books/the-age-of-consent/#:~:text=Our%20task%20is%20not%20to%20overthrow%20globalisation%2C%20but%20to%20capture%20it%2C%20and%20to%20use%20it%20as%20a%20vehicle%20for%20humanity%E2%80%99s%20first%20global%20democratic%20revolution.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow

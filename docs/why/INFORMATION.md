@@ -44,6 +44,7 @@ we will share the digital space with AIs and a web of trust on top of PKI will b
 
 remove bannon quote - or at least his name
 
+> "In my view, aiming at simplicity and lucidity is a moral duty of all intellectuals: lack of clarity is a sin, and pretentiousness is a crime." - [Karl Popper](https://www.goodreads.com/quotes/7444490-in-my-view-aiming-at-simplicity-and-lucidity-is-a)
 
 Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. Language is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process, aggregate & classify unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
 

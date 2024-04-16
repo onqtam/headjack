@@ -223,6 +223,8 @@ The argument that specialized message types are unnecessary because AI will even
 
 > "If the studies are fake, imagine the meta-analyses." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1761418446842044460)
 
+> "In so far as a scientific statement speaks about reality, it must be falsifiable; and in so far as it is not falsifiable, it does not speak about reality." - [Karl Popper](https://www.azquotes.com/quote/234478)
+
 > "Science is the belief in the ignorance of experts." - [Richard Feynman](https://www.goodreads.com/quotes/3225333-science-is-the-belief-in-the-ignorance-of-experts)
 
 > "Research by salaried laborers is becoming a rent-seeking citation ring consisting of large scale imitative rituals, with a decreasing number of results, an increasing cluelessness of participants, and a multiplication of useless rules." - [Nassim Nicholas Taleb](https://twitter.com/nntaleb/status/1009417068926722048)
