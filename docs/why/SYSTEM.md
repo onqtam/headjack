@@ -311,6 +311,8 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 
 the century of the self
 
+We need to make excessive consumption and showing off uncool
+
 > "Reject the basic assumptions of civilization, especially the importance of material possessions." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/101141-reject-the-basic-assumptions-of-civilization-especially-the-importance-of)
 
 > "You buy furniture. You tell yourself, this is the last sofa I will ever need in my life. Buy the sofa, then for a couple years you're satisfied that no matter what goes wrong, at least you've got your sofa issue handled. Then the right set of dishes. Then the perfect bed. The drapes. The rug. Then you're trapped in your lovely nest, and the things you used to own, now they own you." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/12892-you-buy-furniture-you-tell-yourself-this-is-the-last)
@@ -530,3 +532,6 @@ we need a response to ted kazinsky's unibomber manifesto
 
 > "If we don’t build a Game B, a “better attractor,” then when the change comes, it’s going to be to one of those bad attractors I talked about before, and I don’t think any of us wants that." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=If%20we%20don%E2%80%99t%20build%20a%20Game%20B%2C%20a%20%E2%80%9Cbetter%20attractor%2C%E2%80%9D%20then%20when%20the%20change%20comes%2C%20it%E2%80%99s%20going%20to%20be%20to%20one%20of%20those%20bad%20attractors%20I%20talked%20about%20before%2C%20and%20I%20don%E2%80%99t%20think%20any%20of%20us%20wants%20that.)
 
+> "With the detonation of the first atomic bomb, a new age of humanity began. At that moment, a rapidly accelerating technological power finally reached the threshold where we might be able to destroy ourselves — the first point where the threat to humanity from within exceeded the threats from the natural world. A point where the entire future of humanity hangs in the balance. Where every advance our ancestors have made could be squandered, and every advance our descendants may achieve could be denied." - [The Precipice, by Toby Ord](https://forum.effectivealtruism.org/posts/QHxjRx8zpqL4xxsXT/toby-ord-fireside-chat-and-q-and-a#:~:text=With%20the%20detonation,could%20be%20denied.)
+
+> "These threats to humanity and how we address them define our time. The advent of nuclear weapons posed a real risk of human extinction in the 20th century. With the continued acceleration of technology, and without serious efforts to protect humanity, there is strong reason to believe the risk will be higher this century, and increase with each century that technological progress continues. Because these anthropogenic risks outstrip all natural risks combined, they set the clock on how long humanity has left to pull back from the brink." - [The Precipice, by Toby Ord](https://forum.effectivealtruism.org/posts/QHxjRx8zpqL4xxsXT/toby-ord-fireside-chat-and-q-and-a#:~:text=These%20threats%20to,from%20the%20brink.)

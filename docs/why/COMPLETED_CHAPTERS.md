@@ -133,6 +133,9 @@ Daniel Schmachtenberger’s talk at Emergence
 https://www.youtube.com/watch?v=eh7qvXfGQho
 
 
+Baraka 1992
+https://www.imdb.com/title/tt0103767/
+
 George Carlin's Greatest Speech
 https://www.youtube.com/watch?v=-ERFBg2Uh1c
 

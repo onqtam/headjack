@@ -301,6 +301,8 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 
 > "Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat." - [Charlie Munger](https://www.goodreads.com/quotes/7238535-remember-that-reputation-and-integrity-are-your-most-valuable-assets-and)
 
+> "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other
 ██████████████████████████████████████████████████████████████████
