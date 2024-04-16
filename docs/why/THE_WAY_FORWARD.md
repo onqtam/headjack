@@ -140,6 +140,10 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 > "Folks, it's time to evolve. That's why we're troubled. You know why our institutions are failing us, the church, the state, everything's failing? It's because, um – they're no longer relevant. We're supposed to keep evolving. Evolution did not end with us growing opposable thumbs. You do know that, right?" - [Bill Hicks](https://www.goodreads.com/quotes/188122-folks-it-s-time-to-evolve-that-s-why-we-re-troubled-you)
 
+
+> "Since we cannot in the foreseeable future expect the necessary change in human nature to arise by way of a spontaneous mutation, that is, by natural means, we must induce it by artificial means. We can only hope to survive as a species by developing techniques which supplant biological evolution. We must search for a cure for the schizophysiology inherent in man's nature, and the resulting split in our minds, which led to the situation in which we find ourselves." - [Arthur Koestler](https://www.goodreads.com/quotes/9687493-since-we-cannot-in-the-foreseeable-future-expect-the-necessary)
+
+
 > "Everything you do counts forever. You are an expression of the whole process of creation; you are a cocreator." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/577824)
 
 > "In the next 30 years we can destroy our world. With the very same powers - spiritual, social, scientific - we can evolve our world. Our mission is to serve as catalysts for a planetary awakening in our lifetime, to take a non-violent path to the next stage of our evolution." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/535956)
@@ -288,6 +292,11 @@ We are all complicit in ignorance
 We are failing at raising humans
 
 We must consciously raise the awareness and education of the so-called masses
+
+> "I know no safe depository of the ultimate powers of the society but the people themselves ; and if we think them not enlightened enough to exercise their control with a wholesome discretion, the remedy is not to take it from them, but to inform their discretion by education. This is the true corrective of abuses of constitutional power." - [Thomas Jefferson](https://www.goodreads.com/quotes/26169-i-know-no-safe-depository-of-the-ultimate-powers-of)
+
+> "A primary object should be the education of our youth in the science of government." - [George Washington](https://www.goodreads.com/quotes/26168-a-primary-object-should-be-the-education-of-our-youth)
+
 
 > "When kids look up to great scientists the way they do to great musicians and actors, civilization will jump to the next level." - [Brian Greene](https://www.goodreads.com/quotes/169491-when-kids-look-up-to-great-scientists-the-way-they)
 ^^ teens in the west want to be influencers, whereas in china they want to be scientists & engineers
@@ -450,6 +459,12 @@ https://www.google.com/search?q=this+is+healthy
 > "The internet, by the way, functions like a real self-organizing living system. You have to tolerate a lot of chaos in that situation to see the good things emerging, to see us connecting more and more and that's happening.
 >
 > So I have tremendous hope for all of us humans together, using our creative technology, our computers, in order to link each other -- linking our minds, our concepts, our visions. Above all we need a very powerful vision to hold that butterfly image for us. To know where we want to go. Because the old system is very clear about what it wants. And we really do create our realities out of our beliefs. If we don't believe in a positive world in which all humans are liberated to express their creativity, we cannot build it. We must hold the vision very clearly and then go about doing whatever each of us loves doing most, knowing that the others will do the other parts. None us has to do the whole thing. Together we can really make it happen." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=The%20internet%2C%20by,make%20it%20happen.)
+
+we are about to hatch the global superorganism - fossil fuels have been our yolk and our current economic system is the scaffolding required to complexify to the next level of emergence
+words by John Stewart
+https://youtu.be/ftuY7BIzn9M?t=5451
+TODO: fix the exact time for the above link
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow

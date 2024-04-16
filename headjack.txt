@@ -3263,11 +3263,9 @@ also could be applied to different aspects/layers - like security/sustainability
 
 
 
-> "Since we cannot in the foreseeable future expect the necessary change in human nature to arise by way of a spontaneous mutation, that is, by natural means, we must induce it by artificial means. We can only hope to survive as a species by developing techniques which supplant biological evolution. We must search for a cure for the schizophysiology inherent in man's nature, and the resulting split in our minds, which led to the situation in which we find ourselves." - [Arthur Koestler](https://www.goodreads.com/quotes/9687493-since-we-cannot-in-the-foreseeable-future-expect-the-necessary)
 
 
 
-> "Altruism is not an improbable achievement against the individualizing forces of natural selection; rather, it is an integral part of the social lives of all beings that live with others interdependently—up to a (mathematical) point." - [Michael Tomasello](https://www.goodreads.com/quotes/10710208-altruism-is-not-an-improbable-achievement-against-the-individualizing-forces)
 
 > "Joint attention and common ground, both personal and cultural, constitute the necessary intersubjective infrastructure for many other uniquely human activities." - [Michael Tomasello](https://www.goodreads.com/quotes/11371432-joint-attention-and-common-ground-both-personal-and-cultural-constitute)
 
@@ -3364,107 +3362,6 @@ concern/challenge: recalculating the state from past events based on different c
 Just because everybody can be a writer on public blockchains doesn’t mean that they should
 
 Family/Community accounts? Dad/CEO owns the account of children/employees and can move them to a different IDM in a single tx? But what about the metadata leak?
-
-
-
-
-
-
-
-
-
-
-> "While you can outsource Bitcoin mining to a computer, people still mine for social capital on social networks largely through their own blood, sweat, and tears." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=While%20you%20can%20outsource%20Bitcoin%20mining%20to%20a%20computer%2C%20people%20still%20mine%20for%20social%20capital%20on%20social%20networks%20largely%20through%20their%20own%20blood%2C%20sweat%2C%20and%20tears.)
-
-> "The more people who follow you, the more followers you gain because of leaderboards and recommended follower algorithms and other such common discovery mechanisms. It's true that as more people join a network, more social capital is up for grabs in the aggregate. However, in general, if you come to a social network later, unless you bring incredible exogenous social capital (Taylor Swift can join any social network on the planet and collect a massive following immediately), the competition for attention is going to be more intense than it was in the beginning. Everyone has more of an understanding of how the game works so the competition is stiffer." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20more%20people,competition%20is%20stiffer.)
-
-> "Value is tied to scarcity, and scarcity on social networks derives from proof of work. Status isn't worth much if there's no skill and effort required to mine it. It's not that a social network that makes it easy for lots of users to perform well can't be a useful one, but competition for relative status still motivates humans. Recall our first tenet: humans are status-seeking monkeys. Status is a relative ladder. By definition, if everyone can achieve a certain type of status, it’s no status at all, it’s a participation trophy." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Value%20is%20tied,a%20participation%20trophy.)
-
-> "Thirst for status is potential energy. It is the lifeblood of a Status as a Service business. To succeed at carving out unique space in the market, social networks offer their own unique form of status token, earned through some distinctive proof of work." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Thirst%20for%20status%20is%20potential%20energy.%20It%20is%20the%20lifeblood%20of%20a%20Status%20as%20a%20Service%20business.%20To%20succeed%20at%20carving%20out%20unique%20space%20in%20the%20market%2C%20social%20networks%20offer%20their%20own%20unique%20form%20of%20status%20token%2C%20earned%20through%20some%20distinctive%20proof%20of%20work.)
-
-> "The second tenet is that people seek out the most efficient path to maximize their social capital. To do so, they must have a sense for how different strategies vary in effectiveness." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20second%20tenet%20is%20that%20people%20seek%20out%20the%20most%20efficient%20path%20to%20maximize%20their%20social%20capital.%20To%20do%20so%2C%20they%20must%20have%20a%20sense%20for%20how%20different%20strategies%20vary%20in%20effectiveness.)
-
-> "Graph-based social capital allocation mechanisms can suffer from runaway winner-take-all effects. In essence, some networks reward those who gain a lot of followers early on with so much added exposure that they continue to gain more followers than other users, regardless of whether they've earned it through the quality of their posts. One hypothesis on why social networks tend to lose heat at scale is that this type of old money can't be cleared out, and new money loses the incentive to play the game." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=graph%2Dbased%20social,play%20the%20game.)
-
-> "It's not that the existence of old money or old social capital dooms a social network to inevitable stagnation, but a social network should continue to prioritize distribution for the best content, whatever the definition of quality, regardless of the vintage of user producing it. Otherwise a form of social capital inequality sets in, and in the virtual world, where exit costs are much lower than in the real world, new users can easily leave for a new network where their work is more properly rewarded and where status mobility is higher." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=It%27s%20not%20that%20the,status%20mobility%20is%20higher.)
-
-> "As a newbie, how quickly, if you put in the work, are you "in the game"? Proof of work should define its own meritocracy. The same way many social networks track keystone metrics like time to X followers, they should track the ROI on posts for new users. It's likely a leading metric that governs retention or churn." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20a%20newbie,retention%20or%20churn.)
-
-> "Whatever the mechanisms, social networks must devote a lot of resources to market making between content and the right audience for that content so that users feel sufficient return on their work. Distribution is king, even when, or especially when it allocates social capital." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Whatever%20the%20mechanisms%2C%20social%20networks%20must%20devote%20a%20lot%20of%20resources%20to%20market%20making%20between%20content%20and%20the%20right%20audience%20for%20that%20content%20so%20that%20users%20feel%20sufficient%20return%20on%20their%20work.%20Distribution%20is%20king%2C%20even%20when%2C%20or%20especially%20when%20it%20allocates%20social%20capital.)
-
-> "By definition, if the proof of work is the same, you're not really creating a new status ladder game, and so there isn't a real compelling reason to switch when the new network really has no one in it." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=By%20definition%2C%20if%20the%20proof%20of%20work%20is%20the%20same%2C%20you%27re%20not%20really%20creating%20a%20new%20status%20ladder%20game%2C%20and%20so%20there%20isn%27t%20a%20real%20compelling%20reason%20to%20switch%20when%20the%20new%20network%20really%20has%20no%20one%20in%20it.)
-
-> "Do you really want your coworkers and business colleagues and family and friends watching you lip synch to "It's Getting Hot in Here" by Nelly on Lasso?" - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Do%20you%20really%20want%20your%20coworkers%20and%20business%20colleagues%20and%20family%20and%20friends%20watching%20you%20lip%20synch%20to%20%22It%27s%20Getting%20Hot%20in%20Here%22%20by%20Nelly%20on%20Lasso%3F)
-
-^^ TODO: THINK ABOUT NOT JUST MULTI-DIMENSIONAL FOLLOWS BUT ALSO MULTI-DIMENSIONAL CONNECTIONS/FRIENDSHIP?
-
-> "The Stories format is a genuine innovation on the social modesty problem of social networks. That is, all but the most egregious showoffs feel squeamish about publishing too much to their followers. Stories, by putting the onus on the viewer to pull that content, allows everyone to publish away guilt-free, without regard for the craft that regular posts demand in the ever escalating game that is life publishing." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=the%20Stories%20format,is%20life%20publishing.)
-
-> "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=You%20can%20take%20the%20monkey%20out%20of%20the%20status%2Dseeking%20game%2C%20but%20you%20can%27t%20take%20the%20status%2Dseeking%20out%20of%20the%20monkey.)
-
-> "As people start following more and more accounts on a social network, they reach a point where the number of candidate stories exceeds their capacity to see them all. Even before that point, the sheer signal-to-noise ratio may decline to the point that it affects engagement. Almost any network that hits this inflection point turns to the same solution: an algorithmic feed. Remember, status derives value from some  type of scarcity. What is the one fundamental scarcity in the age of abundance? User attention. The launch of an algorithmic feed raises the stakes of the social media game. Even if someone follows you, they might no longer see every one of your posts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20people%20start,of%20your%20posts.)
-
-> "Could social networks have chosen to keep likes and other such metrics about posts private, visible only to the recipient? Could we have kept this social capital arms race from escalating? Some tech CEO's now look back and, like Alan Greenspan, bemoan the irrational exuberance that led us to where we are now, but let's be honest, the incentives to lower interest rates on social capital in all these networks, given their goals and those of their investors, were just too great. If one company hadn’t flooded the market with status, others would have filled the void many times over." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Could%20social%20networks,many%20times%20over.)
-
-> "Some businesses work best at scale, and if you believe that people want to accumulate social capital as efficiently as possible, putting a bound on how much they can earn is a challenging business model, as dark as that may be." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Some%20businesses%20work%20best%20at%20scale%2C%20and%20if%20you%20believe%20that%20people%20want%20to%20accumulate%20social%20capital%20as%20efficiently%20as%20possible%2C%20putting%20a%20bound%20on%20how%20much%20they%20can%20earn%20is%20a%20challenging%20business%20model%2C%20as%20dark%20as%20that%20may%20be.)
-
-> "Young people are generally social capital poor unless they've lucked into a fat inheritance. They have no job title, they may not have finished college, they own few assets like homes and cars, and often if they've finished college they're saddled with substantial school debt. For them, the fastest and most efficient path to gaining social capital, while they wait to level up enough to win at more grown-up games like office politics, is to ply their trade on social media or video games." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Young%20people%20are,or%20video%20games)
-
-> "People maximize their social capital the most efficient way possible. Both the young and old pursue optimal strategies." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=people%20maximize%20their%20social%20capital%20the%20most%20efficient%20way%20possible.%20Both%20the%20young%20and%20old%20pursue%20optimal%20strategies.)
-
-> "If this generational divide on social media between the old and the young was simply a one-time anomaly given the recent birth of social networks, and if future generations will be virtual status-seeking experts for womb to tomb, then capturing users in their formative social media years becomes even more critical for social networks." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=If%20this%20generational,for%20social%20networks.)
-
-> "Teens and twenty-somethings, more so than the middle-aged and elderly, tend to juggle more identities. In middle and high school, kids have to maintain an identity among classmates at school, then another identity at home with family. Twenty-somethings craft one identity among coworkers during the day, then another among their friends outside of work. Often those spheres have differing status games, and there is some penalty to merging those identities." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=teens%20and%20twenty,merging%20those%20identities.)
-
-> "The expiration of content, whether explicitly executed on Instagram (you can easily kill off a meme account after you've outgrown it, for example), or automatically handled on a service like Snapchat, is a must-have feature for those for whom multiple identity management is a fact of life. Facebook, with its explicit attachment to the real world graph and its enforcement of a single public identity, is just a poor structural fit for the more complex social capital requirements of the young." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20expiration%20of,of%20the%20young.)
-
-> "Remember Snapchat's original Best Friends list? I'm going to guess many of my readers don't, because, as noted earlier, old people probably didn't play that status game, if they'd even figured out how to use Snapchat by that point. This was just about as pure a status game feature as could be engineered for teens. Not only did it show the top three people you Snapped with most frequently, you could look at who the top three best friends were for any of your contacts. Essentially, it made the hierarchy of everyone's “friendships” public, making the popularity scoreboard explicit.
->
-> As with aggregate follower counts and likes, the Best Friends list was a mechanism for people to accumulate a very specific form of social capital. From a platform perspective, however, there's a big problem with this feature: each user could only have one best friend. It put an artificial ceiling on the amount of social capital one could compete for and accumulate.
->
-> In a clever move to unbound social capital accumulation and to turn a zero-sum game into a positive sum game, broadening the number of users working hard or engaging, Snapchat deprecated the very popular Best Friends list and replaced it with streaks.
->
-> If you and a friend Snap back and forth for consecutive days, you build up a streak which is tracked in your friends list. Young people quickly threw their heart and souls into building and maintaining streaks with their friends. This was literally proof of work as proof of friendship, quantified and tracked.
->
-> Streaks, of course, have the wonderful quality of being unbounded. You can maintain as many streaks as you like. If you don't think social capital has value, you've never seen, as I have, a young person sobbing over having to go on vacation without their phone, or to somewhere without cell or wifi access, only to see all their streaks broken. Some kids have resorted, when forced to go abroad on a vacation, to leaving their phone with a friend who helps to keep all the streaks alive, like some sort of social capital babysitter or surrogate.
->
-> What's hilarious is how efficiently young people maintain streaks. It's a daily ritual that often consists of just quickly running down your friend list and snapping something random, anything, just to increment the streak count. My nephew often didn’t even bother framing the camera up, most his streak-maintenance snaps were blurry pics of the side of his elbow, half his shoulder, things like that.
->
-> Of course, as evidence of the fragility of social capital structures, streaks have started to lose heat. Many younger users of Snapchat no longer bother with them. Maintaining social capital games is always going to be a volatile game, prone to sudden and massive deflationary events, but while they work, they’re a hell of a drug. They also can be useful; for someone Snapping frequently, like all teens do, having a best friends list sorted to the top of your distribution list is a huge time-saver. Social capital and utility often can’t be separated cleanly." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Remember%20Snapchat%27s%20original,be%20separated%20cleanly.)
-
-> "Some people find status games distasteful. Despite this, everyone I know is engaged in multiple status games. Some people sneer at people hashtag spamming on Instagram, but then retweet praise on Twitter. Others roll their eyes at photo albums of expensive meals on Facebook but then submit research papers to prestigious journals in the hopes of being published. Parents show off photos of their children performances at recitals, people preen in the mirror while assessing their outfits, employees flex on their peers in meetings, entrepreneurs complain about 30 under 30 lists while wishing to be on them, reporters check the Techmeme leaderboards; life is nothing if not a nested series of status contests." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Some%20people%20find,of%20status%20contests.)
-
-> "IMDb and Wikipedia are two companies which built up entire valuable databases almost entirely by building mechanisms to harness the equal mix of status-seeking and altruism of domain experts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=IMDb%20and%20Wikipedia%20are%20two%20companies%20which%20built%20up%20entire%20valuable%20databases%20almost%20entirely%20by%20building%20mechanisms%20to%20harness%20the%20equal%20mix%20of%20status%2Dseeking%20and%20altruism%20of%20domain%20experts.)
-
-> "You can think of social capital accumulation incentives like these as ways to transform the potential energy of status into whatever form of kinetic energy your venture needs." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=You%20can%20think%20of%20social%20capital%20accumulation%20incentives%20like%20these%20as%20ways%20to%20transform%20the%20potential%20energy%20%20of%20status%20into%20whatever%20form%20of%20kinetic%20energy%20your%20venture%20needs.)
-
-> "The solution also doesn’t lie in ignoring that humans are wired to pursue social capital. In fact, overlooking this fundamental aspect of human nature arguably landed us here, at the end of this first age of social network goliaths, wondering where it all went haywire. If we think of these networks as marketplaces trading only in information, and not in status, then we're only seeing part of the machine." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=the%20solution%20also,of%20the%20machine.)
-
-
-
-
-
-
-> "The nature of search and recommendation algorithms is such that most YouTube viewers, who would be rightly concerned and outraged about videos of child exploitation, never even see the videos that need to be reported. In other words, YouTube’s design makes its attempt to leverage the Internet broadly as moderator doomed to fail." - [Ben Thompson](https://stratechery.com/2017/the-pollyannish-assumption/#:~:text=the%20nature%20of,doomed%20to%20fail.)
-
-^^ TODO: WHAT IF we retroactively give negative points to those that have interacted with bad content but didn't report it?
-https://www.buzzfeednews.com/article/charliewarzel/youtube-is-addressing-its-massive-child-exploitation-problem
-
-
-
-> "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
-https://quoteinvestigator.com/2015/07/23/great-power/
-
-
-
-
-
-> "I know no safe depository of the ultimate powers of the society but the people themselves ; and if we think them not enlightened enough to exercise their control with a wholesome discretion, the remedy is not to take it from them, but to inform their discretion by education. This is the true corrective of abuses of constitutional power." - [Thomas Jefferson](https://www.goodreads.com/quotes/26169-i-know-no-safe-depository-of-the-ultimate-powers-of)
-
-> "A primary object should be the education of our youth in the science of government." - [George Washington](https://www.goodreads.com/quotes/26168-a-primary-object-should-be-the-education-of-our-youth)
-
-
-
 
 
 We need to show all the ways we and information are interconnected - drawing interest for anyone. We should be able to easily query “how relevant is this to my network, and how”
@@ -3636,9 +3533,6 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 
 
-> "Science is the belief in the ignorance of experts." - [Richard Feynman](https://www.goodreads.com/quotes/3225333-science-is-the-belief-in-the-ignorance-of-experts)
-
-
 
 > "All stable processes we shall predict. All unstable processes we shall control." - [John von Neumann](https://www.azquotes.com/quote/878804)
 
@@ -3718,12 +3612,6 @@ consequence capture all the way down
 consequence capture is what is applied recursively through all of the levels of complexification, cooperation and emergence.
 
 
-we are about to hatch the global superorganism - fossil fuels have been our yolk and our current economic system is the scaffolding required to complexify to the next level of emergence
-words by John Stewart
-https://youtu.be/ftuY7BIzn9M?t=5451
-TODO: fix the exact time for the above link
-
-
 
 
 parts of the human body don't keep secrets from other parts
@@ -3760,10 +3648,6 @@ We must make being able to understand that viewpoint the default state of our ci
 Cooperation worship
 
 It is our responsibility to erect an elite that deserves it
-
-Capitalism is blind
-
-Philip morris Indonesia kids
 
 If its good enough for nature, it is good enough for us. We are part of nature.
 

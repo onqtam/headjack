@@ -168,6 +168,12 @@ Unbreaking America: Solving the Corruption Crisis
 
 > "The evil of aristocracy is not that it necessarily leads to the infliction of bad things or the suffering of sad ones; the evil of aristocracy is that it places everything in the hands of a class of people who can always inflict what they never suffer." - [G.K. Chesterton](https://www.goodreads.com/quotes/9067926-the-evil-of-aristocracy-is-not-that-it-necessarily-leads)
 
+> "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
+<!-- https://quoteinvestigator.com/2015/07/23/great-power/ -->
+
+
+
+
 > "With great power, comes power to avoid responsibility." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1720575694886072697)
 
 > "If politics is like show business, then the idea is not to pursue excellence, clarity or honesty but to appear as if you are, which is another matter altogether." - [Neil Postman](https://www.azquotes.com/quote/500222)
@@ -300,7 +306,7 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 1994 - Tobacco Company CEOs Testify Before Congress
 ^^ How do we make a system where [merchants of doubt](https://en.wikipedia.org/wiki/Merchants_of_Doubt) don't have a market niche?
 
-
+Philip morris Indonesia kids
 
 
 ██████████████████████████████████████████████████████████████████
