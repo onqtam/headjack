@@ -89,8 +89,13 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "The universe is computing its own destiny." - [James Gleick](https://www.goodreads.com/quotes/969423-the-universe-is-computing-its-own-destiny)
 
+> "Because of the immense technical power that’s come into our hands, the design process of the whole planet is now on our desk. And we’re being asked to essentially step into stewardship of the entire planetary environment. We have to have, then, a vision. We have to have a dream. Not a vision, or a dream—the vision, the dream!" - [Terence McKenna](https://www.organism.earth/library/document/awakening-to-archaic-values#:~:text=because%20of%20the,vision%2C%20the%20dream!)
 
+> "What we are is almost an ontological transformation of life. We are to life what life is to the inorganic realm." - [Terence McKenna](https://www.organism.earth/library/document/awakening-to-archaic-values#:~:text=what%20we%20are%20is%20almost%20an%20ontological%20transformation%20of%20life.%20We%20are%20to%20life%20what%20life%20is%20to%20the%20inorganic%20realm.)
 
+> "What all the myths have to deal with is transformation of consciousness. That you’re thinking in this way, and you have now to think in that way." - [Joseph Campbell](https://www.organism.earth/library/document/power-of-myth-1#:~:text=what%20all%20the%20myths%20have%20to%20deal%20with%20is%20transformation%20of%20consciousness.%20That%20you%E2%80%99re%20thinking%20in%20this%20way%2C%20and%20you%20have%20now%20to%20think%20in%20that%20way.)
+
+> "The only myth that’s going to be worth thinking about in the immediate future is one that’s talking about the planet. Not this city, not these people, but the planet and everybody on it. That’s my main thought for what the future myth is going to be. And what it will have to deal with will be exactly what all myths have dealt with: the maturation of the individual, the gradual, pedagogical way to follow, from dependency through adulthood to maturity, and then to the exit and how to do it. And then how to relate to this society, and how to relate this society to the world of nature and the cosmos. That’s what the myths have all talked about; that’s what this one’s got to talk about. But the society that it’s going to talk about is the society of the planet, and until that gets going, you don’t have anything." - [Joseph Campbell](https://www.organism.earth/library/document/power-of-myth-1#:~:text=the%20only%20myth,Moyers)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
@@ -101,6 +106,8 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
 
 > "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
+
+> "There is nothing we need more right now in our culture than the kind of conviction that comes from knowing at a deep level that what we do is real and genuinely matters." - [Carter Phipps](https://www.consciousevolution.co.uk/how#:~:text=There%20is%20nothing%20we%20need%20more%20right%20now%20in%20our%20culture%20than%20the%20kind%20of%20conviction%20that%20comes%20from%20knowing%20at%20a%20deep%20level%20that%20what%20we%20do%20is%20real%20and%20genuinely%20matters.)
 
 > "Humans don’t mind hardship, in fact they thrive on it; what they mind is not feeling necessary. Modern society has perfected the art of making people not feel necessary." - [Sebastian Junger](https://www.goodreads.com/quotes/7694658-humans-don-t-mind-hardship-in-fact-they-thrive-on-it)
 
@@ -113,7 +120,6 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "Physics is like sex: sure, it may give some practical results, but that's not why we do it." - [Richard Feynman](https://www.goodreads.com/quotes/117534-physics-is-like-sex-sure-it-may-give-some-practical)
 
 > "Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself." - [James Gleick](https://www.goodreads.com/quotes/427523-every-new-medium-transforms-the-nature-of-human-thought-in)
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Time preference expansion
@@ -133,6 +139,8 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 ██████████████████████████████████████████████████████████████████
 
 we can - and should - manifest the first major intentional evolutionary step for life on earth
+
+> "We are evolution become conscious of itself." - [Julian Huxley](https://www.consciousevolution.co.uk/what#:~:text=%E2%80%9CWe%20are%20evolution%20become%20conscious%20of%20itself.%E2%80%99)
 
 > "Natural selection, this all-powerful driving force of biological evolution, has privileged in our genes traits that were immediately favorable to the survival and proliferation of our ancestors, under the conditions that prevailed there and then, with no regard for later consequences. This is intrinsic to the process of natural selection, which sees only the immediate present and does not foresee the future." - [Christian de Duve](https://www.goodreads.com/quotes/9467469-natural-selection-this-all-powerful-driving-force-of-biological-evolution-has), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
 
@@ -162,6 +170,29 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 > "Our consciousness of evolution becomes a springboard for leaping into conscious evolution." - [Bela H. Banathy](https://en.wikipedia.org/wiki/Conscious_evolution#:~:text=Our%20consciousness%20of%20evolution%20becomes%20a%20springboard%20for%20leaping%20into%20conscious%20evolution.)
 
+> "Our world is in crisis because of the absence of consciousness." - [Terence McKenna](https://www.goodreads.com/quotes/332489-you-are-an-explorer-and-you-represent-our-species-and#:~:text=Our%20world%20is%20in%20crisis%20because%20of%20the%20absence%20of%20consciousness.)
+
+> "It's clearly a crisis of two things: of consciousness and conditioning. We have the technological power, the engineering skills to save our planet, to cure disease, to feed the hungry, to end war; But we lack the intellectual vision, the ability to change our minds. We must decondition ourselves from 10,000 years of bad behavior. And, it's not easy." - [Terence McKenna](https://www.goodreads.com/quotes/513821-it-s-clearly-a-crisis-of-two-things-of-consciousness-and)
+
+> "The universe didn’t begin in a singularity. Who knows how the universe began, or would even presume to judge! But the universe ends in a singularity. It has been growing more singular, more complex, more unique, more novel every passing moment since it burst into existence. And if that’s true, then we represent a kind of concrescence of universal intent. We’re not mere spectators, or a cosmic accident, or some sideshow, or the Greek chorus to the main event. The human experience is the main event. The coordination of perception, of hope, of dream, of vision that occurs inside the human heart-mind-body interface is the most complex phenomenon in the universe." - [Terence McKenna](https://www.organism.earth/library/document/eros-and-the-eschaton#:~:text=The%20universe%20didn%E2%80%99t,in%20the%20universe.)
+
+> "Through all these successive layers of evolution a clear direction can be discerned: despite plenty of wobbles and setbacks, the evolutionary process is characterised by ever wider circles of cooperation, an increase in agency, evolvability, and creativity, and higher and higher forms of consciousness.
+>
+> We are on the cusp of just such a transition: the next step in the evolution of life on this planet, the next evolutionary mechanism to emerge, is the ability to use our capacity for self-reflection to free ourselves from the deterministic influences of our biological and cultural heritage, and to use our understanding of the arrow of evolution to align our individual lives and redesign our societies.
+>
+> Just as the birth of sexual reproduction unleashed the latent potential of biological evolution, Conscious Evolution will unleash the latent potential of human cultural evolution." - [What is conscious evolution?](https://www.consciousevolution.co.uk/what#:~:text=Through%20all%20these,human%20cultural%20evolution.)
+
+> "Climate change is a tragedy of the commons and can only be solved by global cooperation. Similarly, the threat of nuclear war will never disappear until we stop identifying with our individual nation and start identifying as global citizens. 
+>
+> Up till now the ever widening circles of cooperation seen in biological evolution and recapitulated in human cultural evolution have been powered by game theory and blind natural selection. There has always been an out group to compete against, to spur and incentivise the formation of ever larger cooperatives.
+>
+> But now human cooperation spans the planet we have run out of out-groups to compete against.
+>
+> And that’s why the transition to a united global cooperative can only be achieved consciously, intentionally, by human beings who have awakened to the fact that the unfolding of evolution happens through and in us, and that its future direction depends upon the choices we make right now!" - [Why do we need conscious evolution?](https://www.consciousevolution.co.uk/why#:~:text=climate%20change%20is,make%20right%20now!)
+
+> "We can no longer afford to live in a world where the incentives of any agent in the system are misaligned with the incentives of the collective. Where a lack of accountability means that the rational thing for an individual to do is steal or cheat, when companies are free to externalise the costs of production to the environment to the point where we are destroying the very systems which sustain us, when the geopolitical cost of disarmament is potentially so high that governments are forced to compete in an arms race to the point where we now have enough nuclear weapons to destroy the entire population of the earth many times over…and yet still we keep building nuclear weapons." - [How can we consciously evolve?](https://www.consciousevolution.co.uk/how#:~:text=We%20can%20no,building%20nuclear%20weapons.)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
 ██████████████████████████████████████████████████████████████████
@@ -175,6 +206,8 @@ we can - and should - manifest the first major intentional evolutionary step for
 > "The future is a choice between Utopia and oblivion." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1373371)
 
 > "The World has become too dangerous for anything less than Utopia." - [R. Buckminster Fuller](https://www.azquotes.com/quote/679207)
+
+> "What civilization is, is: six billion people trying to make themselves happy by standing on each other’s shoulders and kicking each other’s teeth in. It’s not a pleasant situation. And yet, you can stand back and look at this planet and see that we have the money, the power, the medical understanding, the scientific know-how, the love, and the community to produce a kind of human paradise. But we are led by the least among us: the least intelligent, the least noble, the least visionary. We are led by the least among us, and we do not fight back against the dehumanizing values that are handed down as control icons." - [Terence McKenna](https://www.organism.earth/library/document/psychedelics-in-the-age-of-intelligent-machines#:~:text=what%20civilization%20is,as%20control%20icons.)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -443,6 +476,10 @@ https://www.google.com/search?q=this+is+healthy
 
 > "The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/6410378-the-matrix-is-a-system-neo-that-system-is-our)
 
+> "Nobody’s in charge. Not the IMF, the pope, the communist party, the Jews. No, no, no! Nobody has their finger on what’s going on. So then, why hope? Isn’t it just a runaway train out of control? I don’t think so. I think the out-of-control-ness is the most hopeful thing about it. After all, whose control is it out of? You and I never controlled it in the first place!" - [Terence McKenna](https://www.organism.earth/library/document/eros-and-the-eschaton#:~:text=nobody%E2%80%99s%20in%20charge,the%20first%20place!)
+
+> "If you don't have a plan, you become part of somebody else's plan." - [Terence McKenna](https://www.azquotes.com/quote/473335)
+
 > "Don't fight forces, use them." - [R. Buckminster Fuller](https://www.azquotes.com/quote/104088)
 
 > "Don't change the man. Change his environment." - [R. Buckminster Fuller](https://www.azquotes.com/quote/964439)
@@ -455,6 +492,7 @@ https://www.google.com/search?q=this+is+healthy
 
 > "We human beings are still divided into nation states, but these states are rapidly becoming a global civilization…We are attempting to survive our time so we may live into yours. We hope, some day, having solved the problems we face, to join a community of galactic civilizations." - [Message for extra-terrestrial life inscribed on the Golden Record aboard the Voyager One space probe in 1977](https://www.linkedin.com/pulse/evolving%2Dthrough%2Dbottleneck%2Drobert%2Dcobbold%2D1qgpe/#:~:text=We%20human%20beings%20are%20still%20divided%20into%20nation%20states%2C%20but%20these%20states%20are%20rapidly%20becoming%20a%20global%20civilization%E2%80%A6We%20are%20attempting%20to%20survive%20our%20time%20so%20we%20may%20live%20into%20yours.%20We%20hope%2C%20some%20day%2C%20having%20solved%20the%20problems%20we%20face%2C%20to%20join%20a%20community%20of%20galactic%20civilizations.)
 
+> "This is what’s happening to us. History is a process of metamorphosis. It’s a pupation stage. It begins with naked monkeys and it ends with a human–machine planet-girdling interface capable of releasing the energies that light the stars. And it lasts about 15,000–20,000 years, and during that period the entire process hangs in the balance. It’s a period of high risk." - [Terence McKenna](https://www.organism.earth/library/document/eros-and-the-eschaton#:~:text=This%20is%20what%E2%80%99s%20happening,period%20of%20high%20risk.)
 
 > "Newton's third law. You've got to leave something behind." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2373887&ref_=ext_shr_lnk)
 
@@ -473,12 +511,6 @@ https://www.google.com/search?q=this+is+healthy
 >
 > So I have tremendous hope for all of us humans together, using our creative technology, our computers, in order to link each other -- linking our minds, our concepts, our visions. Above all we need a very powerful vision to hold that butterfly image for us. To know where we want to go. Because the old system is very clear about what it wants. And we really do create our realities out of our beliefs. If we don't believe in a positive world in which all humans are liberated to express their creativity, we cannot build it. We must hold the vision very clearly and then go about doing whatever each of us loves doing most, knowing that the others will do the other parts. None us has to do the whole thing. Together we can really make it happen." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=The%20internet%2C%20by,make%20it%20happen.)
 
-we are about to hatch the global superorganism - fossil fuels have been our yolk and our current economic system is the scaffolding required to complexify to the next level of emergence
-words by John Stewart
-https://youtu.be/ftuY7BIzn9M?t=5451
-TODO: fix the exact time for the above link
-
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
 ██████████████████████████████████████████████████████████████████
@@ -494,6 +526,15 @@ TODO: fix the exact time for the above link
 > "As natural selection pumps information from the inanimate world into life, nature begins modeling itself, encoding its own structure, and the universe begins to wake up. We are the cosmos come alive. Not metaphorically, but literally." - [Bobby Azarian]()
 
 Life and evolution have a direction - towards greater scales of cooperation and greater evolvability - transcendence
+
+we are about to hatch the global superorganism - fossil fuels have been our yolk and our current economic system is the scaffolding required to complexify to the next level of emergence
+words by John Stewart
+https://youtu.be/ftuY7BIzn9M?t=5451
+TODO: fix the exact time for the above link
+
+> "Out of atomic systems come chemical systems. Out of chemical systems comes the covalent hydrogen bond, the carbon bond; complex chemistry that is prebiotic, organic. Out of that chemistry come the macro-physical systems that we call membranes, jells, charge transfer complexes, this sort of thing. These systems are the chemical preconditions for life—simple life; the life of the prokaryotes, the life of naked unnucleated DNA that characterized primitive life on the planet. Out of that life come eukaryotes—nucleated cells—and then complex colonies of cells. And then cell specialization, leading to higher animals, leading to social animals, leading to complex social systems, leading to technologies, leading to globe-girdling, electronically-based, information-transfer oriented cultures like ourselves." - [Terence McKenna](https://www.organism.earth/library/document/eros-and-the-eschaton#:~:text=out%20of%20atomic,cultures%20like%20ourselves.)
+
+> "Apparently, the way the universe works is upon a platform of previously achieved complexity... We could almost say that the universe — nature — is a novelty-conserving or complexity-conversing engine. It makes complexity and it preserves it, and it uses it as the basis for further complexity... This is very profound, because... if in fact the conservation and complexification of novelty is what the universe is striving for, then, suddenly, our own human enterprise — previously marginalized — takes on an immense new importance. We are apparently players in the cosmic drama, and in this particular act of the cosmic drama we hold a very central role. We are at the pinnacle of the expression of complexification." - [Terence McKenna](https://www.organism.earth/library/document/eros-and-the-eschaton#:~:text=apparently%2C%20the%20way,expression%20of%20complexification)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: God & Religion
@@ -839,3 +880,10 @@ next steps for readers: sign up for updates, contribute, etc.
 But a problem not fully understood is unsolvable.
 
 > "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." - [Albert Einstein](https://www.goodreads.com/quotes/60780-if-i-had-an-hour-to-solve-a-problem-i-d)
+
+> "Our task is to create memes... Launch your meme boldly and see if it will replicate." - [Terence McKenna](https://www.azquotes.com/quote/1417621)
+
+> "Life and intelligence are the wildcards in the universal deck." - [Terence McKenna](https://www.organism.earth/library/document/vertigo-at-historys-edge)
+
+> "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+

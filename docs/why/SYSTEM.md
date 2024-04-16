@@ -120,6 +120,7 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "In poor countries, officials receive explicit bribes; in D.C. they get the sophisticated, implicit, unspoken promise to work for large corporations." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/610868-in-poor-countries-officials-receive-explicit-bribes-in-d-c-they)
 
+> "World War III is a guerrilla information war with no division between military and civilian participation." - [Marshall McLuhan](https://www.azquotes.com/quote/808551)
 
 > "If voting changed anything, it would be illegal." - [George Carlin](https://www.azquotes.com/quote/1248100)
 
@@ -191,6 +192,8 @@ Unbreaking America: Solving the Corruption Crisis
 > "A tumor is a region of a system that optimizes for its local needs at the expense of the rest of the system. Consequently, it takes more from its environment than it contributes. Tumors happen when a system is unable to recognize whether its constituents serve its specification." - [Joscha Bach](https://twitter.com/Plinz/status/1746988788684083595)
 
 > "If you’re talking about ‘human rights’ and ‘democracy’ instead of pipelines and the military industrial complex, you have no idea what’s going on in the world and should focus your energy elsewhere." - [@PresentWitness_](https://twitter.com/PresentWitness_)
+
+> "We are led by the least among us - the least intelligent, the least noble, the least visionary. We are led by the least among us and we do not fight back against the dehumanizing values that are handed down as control icons." - [Terence McKenna](https://www.azquotes.com/quote/1277985)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Destructive global competition
@@ -298,6 +301,14 @@ the century of the self
 
 > "It is the preoccupation with possessions, more than anything else, that prevents us from living freely and nobly." - [Bertrand Russell](https://www.goodreads.com/quotes/5095-it-is-the-preoccupation-with-possessions-more-than-anything-else)
 
+> "We can’t preach to the have-nots the virtue of voluntary simplicity when we’re riding around in BMWs and collecting Monets. That doesn’t make a lot of sense." - [Terence McKenna](https://www.organism.earth/library/document/awakening-to-archaic-values#:~:text=we%20can%E2%80%99t%20preach%20to%20the%20have%2Dnots%20the%20virtue%20of%20voluntary%20simplicity%20when%20we%E2%80%99re%20riding%20around%20in%20BMWs%20and%20collecting%20Monets.%20That%20doesn%E2%80%99t%20make%20a%20lot%20of%20sense.)
+
+> "No one takes hypocrites seriously [John](https://twitter.com/JohnDCaudwell). Actions speak way louder than words." - [Laurence Fox](https://twitter.com/LozzaFox/status/1705941425530011709)
+^^ climate hypocrisy - could we flag that? could we feed that to his status & carbon footprint?
+
+La Dolce Vita in Italy: For visits to the countryside for lunch, dinner, or disco, "climate activist" Leonardo DiCaprio likes to take the helicopter from his luxury yacht, BILD reports.
+https://twitter.com/disclosetv/status/1678387920955232259
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Opaqueness & Accountability
 ██████████████████████████████████████████████████████████████████
@@ -392,6 +403,7 @@ Philip morris Indonesia kids
 What if we did to mass consumer product packaging what the container did to shipping? How do we reuse our packaging more - even across companies & their product lineups?
 Convenience packaging... replacing a depositing system and reusable bottles (deposit 40% of a coke bottle which u get back when u return the bottle)
 reclamation costs have been outsourced to the public in the form of "recycling"
+what's the shipping container of packaging?
 
 https://www.youtube.com/watch?v=4XP-BBGMCNs
 Coke Knew Their Plastic Would Trash the Planet…And Did It Anyway
@@ -409,12 +421,6 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "I don't see much of a future for this planet. I think it's a cursed planet. The boundaries we've drawn between nations and the profit motive - those two factors have, in my opinion, brought us to the point where almost nothing can stop the utter destruction of the environment and all our earthly life-support systems." - [George Carlin](https://www.azquotes.com/quote/1284811)
 
 > "I have learned to seek my happiness by limiting my desires, rather than in attempting to satisfy them." - [John Stuart Mill](https://www.goodreads.com/quotes/6608-i-have-learned-to-seek-my-happiness-by-limiting-my)
-
-> "No one takes hypocrites seriously [John](https://twitter.com/JohnDCaudwell). Actions speak way louder than words." - [Laurence Fox](https://twitter.com/LozzaFox/status/1705941425530011709)
-^^ climate hypocrisy - could we flag that? could we feed that to his status & carbon footprint?
-
-La Dolce Vita in Italy: For visits to the countryside for lunch, dinner, or disco, "climate activist" Leonardo DiCaprio likes to take the helicopter from his luxury yacht, BILD reports.
-https://twitter.com/disclosetv/status/1678387920955232259
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Existential risks
@@ -446,4 +452,5 @@ https://twitter.com/disclosetv/status/1678387920955232259
 
 > "Our current systems are perfectly organized to result in the self-organization of the destruction of human civilization." - [John Stewart](https://youtu.be/ftuY7BIzn9M?&t=6312)
 
+we need a response to ted kazinsky's unibomber manifesto
 

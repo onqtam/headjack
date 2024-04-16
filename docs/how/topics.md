@@ -12,6 +12,11 @@ draft: true
   </p>
 </details>
 
+^^ interleave the quotes with your own commentary where there are such in these "click to expand for more" sections - like haikus
+
+
+
+
 <img src="/img/causal_map_example.webp"/>
 taken from here: https://www.sciencedirect.com/science/article/pii/S0301479720315930
 

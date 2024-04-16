@@ -120,6 +120,8 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "The moral consequences of totalitarian propaganda...are destructive of all morals because they undermine one of the foundations of all morals: the sense of and respect for truth." - [Friedrich A. Hayek](https://www.azquotes.com/quote/939124)
 
+> "One believes things because one has been conditioned to believe them." - [Aldous Huxley](https://www.goodreads.com/quotes/244019-one-believes-things-because-one-has-been-conditioned-to-believe)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Advertising
 ██████████████████████████████████████████████████████████████████
@@ -127,5 +129,6 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 > "Economics are the method; the object is to change the soul." - [Margaret Thatcher](https://www.azquotes.com/quote/665382)
 ^^ lol wtf
 
+> "Reclaim your mind and get it out of the hands of the cultural engineers who want to turn you into a half-baked moron consuming all this trash that's being manufactured out of the bones of a dying world." - [Terence McKenna](https://www.goodreads.com/quotes/1244995-reclaim-your-mind-and-get-it-out-of-the-hands)
 
 
