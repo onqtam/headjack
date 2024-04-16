@@ -175,6 +175,8 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "We shape our rules, and then our rules shape us." - [Max Borders](https://underthrow.substack.com/p/how-we-become-the-social-safety-net#:~:text=We%20shape%20our%20rules%2C%20and%20then%20our%20rules%20shape%20us.)
 
+> "Life is either a reproducible, almost commonplace manifestation of matter, given certain conditions, or a miracle. Too many steps are involved to allow for something in between." - [Christian de Duve](https://www.goodreads.com/quotes/263446-life-is-either-a-reproducible-almost-commonplace-manifestation-of-matter), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
 
 
 

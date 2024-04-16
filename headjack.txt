@@ -339,55 +339,7 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 sympathetic vs parasympathetic nervous system
-
-
-> "No one takes hypocrites seriously [John](https://twitter.com/JohnDCaudwell). Actions speak way louder than words." - [Laurence Fox](https://twitter.com/LozzaFox/status/1705941425530011709)
-^^ climate hypocrisy - could we flag that? could we feed that to his status & carbon footprint?
-
-La Dolce Vita in Italy: For visits to the countryside for lunch, dinner, or disco, "climate activist" Leonardo DiCaprio likes to take the helicopter from his luxury yacht, BILD reports.
-https://twitter.com/disclosetv/status/1678387920955232259
-
-
-
-
-
-
-
-
-
-> "Life is either a reproducible, almost commonplace manifestation of matter, given certain conditions, or a miracle. Too many steps are involved to allow for something in between." - [Christian de Duve](https://www.goodreads.com/quotes/263446-life-is-either-a-reproducible-almost-commonplace-manifestation-of-matter), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
-
-> "Natural selection, this all-powerful driving force of biological evolution, has privileged in our genes traits that were immediately favorable to the survival and proliferation of our ancestors, under the conditions that prevailed there and then, with no regard for later consequences. This is intrinsic to the process of natural selection, which sees only the immediate present and does not foresee the future." - [Christian de Duve](https://www.goodreads.com/quotes/9467469-natural-selection-this-all-powerful-driving-force-of-biological-evolution-has), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
-
-> "We enjoy the unique faculty of being able to act against natural selection. The problem is that, in order to do this, we must actively oppose some of our key genetic traits, surmount our own nature." - [Christian de Duve](https://www.goodreads.com/quotes/9467477-we-enjoy-the-unique-faculty-of-being-able-to-act), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
-
-> "Focusing on the process of natural selection, de Duve explores the inordinate and now dangerous rise of humankind.  His explanation for this self-defeating success lies in the process of natural selection, which favors traits that are immediately useful, regardless of later consequences. Thus, the human genome determines such properties as tribal and group cohesion and collaboration and often fierce and irrational competition with and hostility toward other groups’ attributes that were once useful but now often ruinously dysfunctional. Christian de Duve suggests that these traits, imprinted into human nature by natural selection, may have been recognized by the writers of Genesis, thus inspiring the myth of original sin." - [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
-
-
-
-
-
-
 
 
 
@@ -2899,9 +2851,7 @@ Integration is also about common knowledge and making it explicit and reducing f
 
 Voluntary/invitation leadership
 
-People grind for status in the dumbest possible pay-to-win “games” - we need to give them an avenue for their competitiveness and expression
-
-Any kind of curation is relevance realization. YouTube is a treasure trove of learning matrrials but the search is absolute shit - we can crowdsource a ranking overlay/index of recommendations on top of it or in parallel
+Any kind of curation is relevance realization. YouTube is a treasure trove of learning materials but the search is absolute shit - we can crowdsource a ranking overlay/index of recommendations on top of it or in parallel
 
 A single inbox for all DMs & email-like communication is easy to program and tune
 
@@ -2913,8 +2863,6 @@ Retroactive back-propagation of status
 Giving more weight to better predictors ~ hebbian learning
 
 If we legitimately trusted what society wants most of us - we would aim at satisfying that
-
-Eudaemonic economy
 
 Common weights as a democratic Schelling point - due to energetic, computational, and complexity constraints - the base model of humanity
 
@@ -3035,58 +2983,7 @@ When all you have is a hammer then everything looks like a nail
 
 
 
-
-
-
-
-
-> "Hierarchies evolve from the lowest level up—from the pieces to the whole, from cell to organ to organism, from individual to team, from actual production to management of production. Early farmers decided to come together and form cities for self-protection and for making trade more efficient. Life started with single-cell bacteria, not with elephants. The original purpose of a hierarchy is always to help its originating subsystems do their jobs better. This is something, unfortunately, that both the higher and the lower levels of a greatly articulated hierarchy easily can forget. Therefore, many systems are not meeting our goals because of malfunctioning hierarchies." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=Hierarchies%20evolve%20from,of%20malfunctioning%20hierarchies)
-
-> "When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=When%20a%20subsystem%E2%80%99s%20goals%20dominate%20at%20the%20expense%20of%20the%20total%20system%E2%80%99s%20goals%2C%20the%20resulting%20behavior%20is%20called%20suboptimization.)
-
-> "To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and total system—there must be enough central control to achieve coordination toward the large- system goal, and enough autonomy to keep all subsystems flourishing, functioning, and self-organizing." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=To%20be%20a,and%20self%2Dorganizing.)
-
-> "Suppose all the information stored on computers everywhere were linked, I thought… All the bits of information in every computer at CERN, and on the planet, would be available to me and to anyone else… Computers might not find the solutions to our problems, but they would be able to do the bulk of the legwork required assisting our human minds in intuitively finding ways through the maze." - [Weaving The Web 1999, by Tim Berners-Lee](https://subconscious.substack.com/p/noosphere-at-summer-of-protocols#:~:text=Suppose%20all%20the,through%20the%20maze.) discussing [ENQUIRE](https://en.wikipedia.org/wiki/ENQUIRE) - a wiki-like predecessor of the World Wide Web
-
-
-
-
-
-
-> "The cybernetic intelligence of corporations and nation-states and the world as a whole is already a general autonomous superintelligence—running on all the humans as general intelligences (rather than running on CPUs), but also using all the CPUs and TPUs and GPUs—in service of the collection of all the narrow goals." - [Daniel Schmachtenberger](https://www.organism.earth/library/document/artificial-intelligence-and-the-superorganism#:~:text=the%20cybernetic%20intelligence,the%20narrow%20goals.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 > "The problem with experts is that they do not know what they do not know." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177683-the-problem-with-experts-is-that-they-do-not-know)
-
-
-
-
-> "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. To the naive mind that can conceive of order only as the product of deliberate arrangement, it may seem absurd that in complex conditions order, and adaptation to the unknown, can be achieved more effectively by decentralizing decisions and that a division of authority will actually extend the possibility of overall order. Yet that decentralization actually leads to more information being taken into account." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6867865-the-curious-task-of-economics-is-to-demonstrate-to-men)
-
-> "Civilization rests on the fact that we all benefit from knowledge which we do not possess." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6539631-civilization-rests-on-the-fact-that-we-all-benefit-from)
-
-> "The moral consequences of totalitarian propaganda...are destructive of all morals because they undermine one of the foundations of all morals: the sense of and respect for truth." - [Friedrich A. Hayek](https://www.azquotes.com/quote/939124)
-
-
 
 
 
@@ -3179,8 +3076,6 @@ We can score a NYT piece on a multitude of factors - bias, clickbaity-ness, not 
 
 What if we treated media like science - requiring citations and quotes for everything?
 
-Epistemic architecture
-
 epistemic crisis - a crisis of knowledge
 
 despite the overwhelming amounts of information available to us - we are more polarized than ever and it is harder to separate fact from fiction
@@ -3253,74 +3148,12 @@ also could be applied to different aspects/layers - like security/sustainability
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> "Joint attention and common ground, both personal and cultural, constitute the necessary intersubjective infrastructure for many other uniquely human activities." - [Michael Tomasello](https://www.goodreads.com/quotes/11371432-joint-attention-and-common-ground-both-personal-and-cultural-constitute)
-
-> "We have the most basic structural framework of uniquely human cognition: socially shared realities and the ability to flexibly manipulate and coordinate different perspectives on aspects of those shared realities (mental coordination). This structural framework fundamentally transforms great ape cognition by turning straightforward cognitive representations into perspectival cognitive representations." - [Michael Tomasello](https://www.goodreads.com/quotes/11372505-and-so-we-have-the-most-basic-structural-framework-of#:~:text=we%20have%20the,perspectival%20cognitive%20representations.)
-
-shared intentionality (values, beliefs, practices) is necessary for effective human cooperation - and it has broken down in the West
-we need diversity of opinion and unifying goals - diversity/differentiation and integration
-
-chimps follow the head, humans follow the eyes - shared intentionality
-chimps follow the head - even if the eyes are closed.
-humans follow the eyes - even if the head is stationary.
-human eyes are clearly visible - evolved to signal attention (whites, etc), whereas chimp eyes are much more occluded/hidden
-https://youtu.be/BNbeleWvXyQ?t=809
-
-epistemic fragmentation and division are a cancer
-
-
-
-
-
-
-> "Current social networks don't have great tools for dispute resolution. They're a combination of anarchy (people yelling) and tyranny (arbitrary deplatforming).
->
-> An alternative approach is a global moderator hierarchy. In the event of dispute, the lowest common ancestor mediates." - [Balaji Srinivasan](https://twitter.com/balajis/status/1415650556375232515)
-
-
-
-
-
-
-
-
-What is ignored or neglected by the media -- but will be studied by historians?
-https://twitter.com/george__mack/status/1652708537846632449
-https://twitter.com/george__mack/status/1679569846965764096
-
-
-
-
-
-
-> "Only that which can change can continue." - [James P. Carse](https://www.goodreads.com/quotes/975884-only-that-which-can-change-can-continue)
-
-
-
-Who benefits the most from fractured & incoherent epistemic commons and uncoordinated & uneducated masses?
-
 there are no secret laws. We should be able to work on them in public, transparently and accountably
 
 Status economics
 
 We can reward companies when they contribute private data to the public commons
 Power is with the people to vote how to score entities - not with infra providers and applications which want more advertising dollars and have a conflict of interest
-
-Ending destructive competition and unifying humanity makes sense. How do we build the global brain?
 
 We need to gamify the contribution to a coherent and unified knowledge base 
 

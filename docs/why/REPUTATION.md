@@ -222,6 +222,8 @@ booting up the reputation/accountability/status market
 
 > "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
 
+People grind for status in the dumbest possible pay-to-win “games” - we need to give them an avenue for their competitiveness and expression
+
 > "While you can outsource Bitcoin mining to a computer, people still mine for social capital on social networks largely through their own blood, sweat, and tears." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=While%20you%20can%20outsource%20Bitcoin%20mining%20to%20a%20computer%2C%20people%20still%20mine%20for%20social%20capital%20on%20social%20networks%20largely%20through%20their%20own%20blood%2C%20sweat%2C%20and%20tears.)
 
 > "The more people who follow you, the more followers you gain because of leaderboards and recommended follower algorithms and other such common discovery mechanisms. It's true that as more people join a network, more social capital is up for grabs in the aggregate. However, in general, if you come to a social network later, unless you bring incredible exogenous social capital (Taylor Swift can join any social network on the planet and collect a massive following immediately), the competition for attention is going to be more intense than it was in the beginning. Everyone has more of an understanding of how the game works so the competition is stiffer." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20more%20people,competition%20is%20stiffer.)

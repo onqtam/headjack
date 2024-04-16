@@ -75,7 +75,7 @@
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer
 ██████████████████████████████████████████████████████████████████
-
+Who benefits the most from fractured & incoherent epistemic commons and uncoordinated & uneducated masses?
 > "It is incredibly easy to manipulate us as to who counts as an Us, who as a Them." - [Robert Sapolsky](https://www.azquotes.com/quote/1562507)
 
 > "Brains distinguish between an Us and a Them in a fraction of a second. Subliminal processing of a Them activates the amygdala and insular cortex, brain regions that are all about fear, anxiety, aggression, and disgust." - [Robert Sapolsky](https://www.azquotes.com/quote/1562506)
@@ -85,6 +85,8 @@ The opposite of divide and conquer is integration
 > "If you want to make a society work, then you don’t keep underscoring the places where you’re different—you underscore your shared humanity" - [Sebastian Junger](https://www.goodreads.com/quotes/7691361-if-you-want-to-make-a-society-work-then-you)
 
 > "All the media and the politicians ever talk about is things that separate us, things that make us different from one another." - [George Carlin](https://www.azquotes.com/quote/1069412)
+
+Who benefits the most from fractured & incoherent epistemic commons and uncoordinated & uneducated masses?
 
 
 ██████████████████████████████████████████████████████████████████
@@ -115,6 +117,8 @@ The opposite of divide and conquer is integration
 > "Propaganda is to a democracy what the bludgeon is to a totalitarian state." - [Noam Chomsky](https://www.goodreads.com/quotes/386706-propaganda-is-to-a-democracy-what-the-bludgeon-is-to)
 
 > "It is important to bear in mind that political campaigns are designed by the same people who sell toothpaste and cars." - [Noam Chomsky](https://www.goodreads.com/quotes/590100-it-is-important-to-bear-in-mind-that-political-campaigns)
+
+> "The moral consequences of totalitarian propaganda...are destructive of all morals because they undermine one of the foundations of all morals: the sense of and respect for truth." - [Friedrich A. Hayek](https://www.azquotes.com/quote/939124)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Advertising

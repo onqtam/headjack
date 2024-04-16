@@ -38,6 +38,10 @@ https://kleros.io/yellowpaper.pdf
 
 https://en.wikipedia.org/wiki/Citizens%27_assembly
 
+> "Current social networks don't have great tools for dispute resolution. They're a combination of anarchy (people yelling) and tyranny (arbitrary deplatforming).
+>
+> An alternative approach is a global moderator hierarchy. In the event of dispute, the lowest common ancestor mediates." - [Balaji Srinivasan](https://twitter.com/balajis/status/1415650556375232515)
+
 
 
 <!-- Think of all the ethnic, religious, political & corporate disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->

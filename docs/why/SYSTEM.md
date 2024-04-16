@@ -42,6 +42,8 @@ Manufactured demand coupled with markets breaks the purpose of an economy
 According to John Stewart mercantilism was the main driver behind the Enlightenment.
 It incentivized the development of rational cognition
 
+> "The cybernetic intelligence of corporations and nation-states and the world as a whole is already a general autonomous superintelligence—running on all the humans as general intelligences (rather than running on CPUs), but also using all the CPUs and TPUs and GPUs—in service of the collection of all the narrow goals." - [Daniel Schmachtenberger](https://www.organism.earth/library/document/artificial-intelligence-and-the-superorganism#:~:text=the%20cybernetic%20intelligence,the%20narrow%20goals.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Governance & how broken it is
 ██████████████████████████████████████████████████████████████████
@@ -407,6 +409,12 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "I don't see much of a future for this planet. I think it's a cursed planet. The boundaries we've drawn between nations and the profit motive - those two factors have, in my opinion, brought us to the point where almost nothing can stop the utter destruction of the environment and all our earthly life-support systems." - [George Carlin](https://www.azquotes.com/quote/1284811)
 
 > "I have learned to seek my happiness by limiting my desires, rather than in attempting to satisfy them." - [John Stuart Mill](https://www.goodreads.com/quotes/6608-i-have-learned-to-seek-my-happiness-by-limiting-my)
+
+> "No one takes hypocrites seriously [John](https://twitter.com/JohnDCaudwell). Actions speak way louder than words." - [Laurence Fox](https://twitter.com/LozzaFox/status/1705941425530011709)
+^^ climate hypocrisy - could we flag that? could we feed that to his status & carbon footprint?
+
+La Dolce Vita in Italy: For visits to the countryside for lunch, dinner, or disco, "climate activist" Leonardo DiCaprio likes to take the helicopter from his luxury yacht, BILD reports.
+https://twitter.com/disclosetv/status/1678387920955232259
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Existential risks
