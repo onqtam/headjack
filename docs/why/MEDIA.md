@@ -124,6 +124,22 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "The Soviets had a state-controlled press, but America now had a press-controlled state." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/people-of-god-people-of-the-state-people-of-the-network#:~:text=The%20Soviets%20had%20a%20state%2Dcontrolled%20press%2C%20but%20America%20now%20had%20a%20press%2Dcontrolled%20state.)
 
+> "It’s not sufficient to simply “take the articles with a grain of salt”, and discount them a bit. By listening to the establishment, your perception of reality may be off by one million fold." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=it%E2%80%99s%20not%20sufficient%20to%20simply%20%E2%80%9Ctake%20the%20articles%20with%20a%20grain%20of%20salt%E2%80%9D%2C%20and%20discount%20them%20a%20bit.%20By%20listening%20to%20the%20establishment%2C%20your%20perception%20of%20reality%20may%20be%20off%20by%20one%20million%20fold.)
+
+> "Power over truth. In these incidents, if you stop to count, you often realize that the reports were off not by say 50%, but by 1000X or more. Why do these “reporters” still have their jobs, then? Because their job wasn’t to make money, but to make power. That is, they weren’t trying to predict the future correctly for the sake of making good investments, but to repeat the party line to keep people in line. They’re like actors, in that their role was to say (or write) the right thing at the right time, to manufacture your consent, to misinform you about everything from weapons of mass destruction to the probability of inflation, and to then claim democratic legitimacy after people voted on the basis of their [official misinformation](https://twitter.com/balajis/status/1242006583535489024)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=Power%20over%20truth,official%20misinformation.)
+
+> "The only reason you are hearing about these incidents, and the only reason the rebuttals to them ever came out in the first place, is the Network. It is only because the State’s filtering of social media is not yet complete, that their downranking of dissident voices not fully efficient, that their late-breaking attempt to impose speech and thought controls on a free society not fully consummated, that (a) the initial refutations were even published and (b) that you are seeing some of them combined into one document." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=the%20only%20reason,into%20one%20document.)
+
+> "As the Cold War ended, and the internet rose in the late 1990s, a spate of movies came out — The Matrix, Memento, The Truman Show, Fight Club, The Game, Men in Black, The Eternal Sunshine of the Spotless Mind –— all about a constructed reality where our memories aren’t real. It’s almost as if with the rise of the Network, that there was a dim realization in the collective subconscious that everyone had been lied to, deceived, anesthetized, sedated by the centralized States of the 20th century — not just by the fascists and the communists, but the democratic capitalists too." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=As%20the%20Cold,democratic%20capitalists%20too.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Gell-Mann Amnesia
+██████████████████████████████████████████████████████████████████
+
+> "The mechanistic reason for Gell-Mann Amnesia is the hub-and-spoke topology of the pre-internet information environment. Suppose you were an expert in computer science, another person was an expert on Japan, a third knew about the bond market, and so on. You are spokes that are all connected to the hub (say, The New York Times) but not each other. Each spoke has superior local information, and can falsify NYT reports in their own domain, but has no mechanism for coordinating with other spokes, let alone establishing a superior hub. Until the internet, the blockchain, and the advent of cryptohistory." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=The%20mechanistic%20reason,of%20cryptohistory.)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Advertising
 ██████████████████████████████████████████████████████████████████

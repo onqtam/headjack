@@ -106,7 +106,7 @@ reward systems - the god protocol
 
 snapping humanity on the right trajectory - the god machine, recursive relevance realization
 
-The fairness protocol - transparency, accountability, skin in the game, inquiry
+list all ways our system is broken and could be optimized in one section
 
 Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
     https://en.wikipedia.org/wiki/Metasystem_transition

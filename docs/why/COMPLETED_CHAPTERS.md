@@ -80,6 +80,14 @@ also put the bitcoin genesis block hash on there with 15 or 16 AS (after satoshi
 > "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: augmented reality
+██████████████████████████████████████████████████████████████████
+
+> "Why will AR glasses be so big? If you think about how much of your life is spent looking at a screen, whether it’s a laptop or a phone or a watch, >50% of your waking hours is already spent in the matrix. AR glasses would reduce “screen” time in one sense, freeing you up to compute on the go without looking at a screen per se, but increase digital time in another sense, as people would constantly have these HUDs active to see the world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/foreseeable-futures#:~:text=Why%20will%20AR,see%20the%20world.)
+
+> "Think about the [scene from Fight Club](https://www.youtube.com/watch?v=DkVRL2po0Y8&t=5s) where the camera swivels around the room to show price tags on everything, and now imagine that in VR, with the cost to materialize each virtual structure in the physical world hovering above it." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=Think%20about%20the%20scene%20from%20Fight%20Club%20where%20the%20camera%20swivels%20around%20the%20room%20to%20show%20price%20tags%20on%20everything%2C%20and%20now%20imagine%20that%20in%20VR%2C%20with%20the%20cost%20to%20materialize%20each%20virtual%20structure%20in%20the%20physical%20world%20hovering%20above%20it.)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: shared intentionality
 ██████████████████████████████████████████████████████████████████
 
