@@ -10,6 +10,10 @@
 
 > "Altruism is not an improbable achievement against the individualizing forces of natural selection; rather, it is an integral part of the social lives of all beings that live with others interdependently—up to a (mathematical) point." - [Michael Tomasello](https://www.goodreads.com/quotes/10710208-altruism-is-not-an-improbable-achievement-against-the-individualizing-forces)
 
+> "The competition between the two forces can be succinctly expressed as follows: Within groups selfish individuals beat altruistic individuals, but groups of altruists beat groups of selfish individuals. Or, risking oversimplification, individual selection promoted sin, while group selection promoted virtue." - [Edward O. Wilson](https://www.goodreads.com/quotes/3233345-the-competition-between-the-two-forces-can-be-succinctly-expressed)
+
+^^ but altruism & group selection are not stable - we need consequence capture & managers
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
@@ -125,6 +129,13 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 > "When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=When%20a%20subsystem%E2%80%99s%20goals%20dominate%20at%20the%20expense%20of%20the%20total%20system%E2%80%99s%20goals%2C%20the%20resulting%20behavior%20is%20called%20suboptimization.)
 
 > "To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and total system—there must be enough central control to achieve coordination toward the large-system goal, and enough autonomy to keep all subsystems flourishing, functioning, and self-organizing." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=To%20be%20a,and%20self%2Dorganizing.)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: multipolar traps & anti-rivalry
+██████████████████████████████████████████████████████████████████
+
+> "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=%E2%80%9CAs%20technology%20is%20empowering%20our%20choices%20and%20we%20are%20getting%20something%20like%20the%20power%20of%20gods%2C%20you%20have%20to%20have%20something%20like%20the%20love%20and%20the%20wisdom%20of%20gods%20to%20wield%20that%20or%20you%20self%2Ddestruct.%E2%80%9D)
 
 
 ██████████████████████████████████████████████████████████████████

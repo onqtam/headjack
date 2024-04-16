@@ -306,10 +306,31 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 > "In the end ... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Values & virtues
+██████████████████████████████████████████████████████████████████
+
+Thomas Aquinas
+The rational polities - practical virtues - 4
+https://en.wikipedia.org/wiki/Cardinal_virtues
+Temperance - internal regulation - self control
+Fairness/justice
+Goal rationality, prudence
+Exploitation vs exploration - corush?
+3 more: (the divine virtues) - required for a multi agent system to merge into a next level agent
+Faith - willing to submit and project this next level agent
+Love - discovery of a shared purpose
+Hope - Willingness to invest in it before it is there
+Logically derived for forming a coherent next level system
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████
 
 Eudaemonic economy
+
+> "Economics can be seen as the interface layer between our values and the way we build the world." - [Daniel Schmachtenberger](https://thecitesite.com/authors/daniel-schmachtenberger/#:~:text=Economics%20can%20be%20seen%20as%20the%20interface%20layer%20between%20our%20values%20and%20the%20way%20we%20build%20the%20world.)
+
+> "People get confused sometimes they think an economy is money. Money is a database for exchange of goods & services. Money doesn't have power in & of itself. The actual economy is goods & services." - [Elon Musk](https://twitter.com/cb_doge/status/1550819912725123072)
 
 complexity_econ_1.png
 complexity_econ_2.png
@@ -345,6 +366,8 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
 
+
+> "The paradigm shift is basically everything. We need new systems of governance that are not any system of governance the world has ever done so far. They are systems of how do we individually and collectively make sense of what’s going on, make sense of what we actually value, and how those values can be synergistically satisfied rather than in a theory of tradeoffs with each other. We need totally new systems of economics, we need totally new systems of education, all the way down to at an individual level, a new basis for identity, values, our own individual sense-making." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=The%20paradigm%20shift%20is,own%20individual%20sense%2Dmaking.)
 
 <img src="/img/energy_gdp_human_development.png"/>
 
@@ -384,6 +407,8 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 <img src="/img/educational_crisis.png"/>
 
 children are sponges
+
+> "You teach me, I forget. You show me, I remember. You involve me, I understand." - [Edward O. Wilson](https://www.goodreads.com/quotes/800111-you-teach-me-i-forget-you-show-me-i-remember)
 
 According to John Stewart we need an escalator to meta-systemic cognition - to have a path for anyone to raise their awareness and understanding of our place in the developmental process and the forces within it
 A cultural enlightenment
@@ -530,6 +555,8 @@ https://www.google.com/search?q=this+is+healthy
 ██████████████████████████████████████████████████████████████████
 
 > "The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/6410378-the-matrix-is-a-system-neo-that-system-is-our)
+
+> "Should you find yourself in a chronically leaking boat, energy devoted to changing vessels is likely to be more productive than energy devoted to patching leaks." - [Warren Buffett](https://www.goodreads.com/quotes/47192-should-you-find-yourself-in-a-chronically-leaking-boat-energy)
 
 > "Nobody’s in charge. Not the IMF, the pope, the communist party, the Jews. No, no, no! Nobody has their finger on what’s going on. So then, why hope? Isn’t it just a runaway train out of control? I don’t think so. I think the out-of-control-ness is the most hopeful thing about it. After all, whose control is it out of? You and I never controlled it in the first place!" - [Terence McKenna](https://www.organism.earth/library/document/eros-and-the-eschaton#:~:text=nobody%E2%80%99s%20in%20charge,the%20first%20place!)
 
@@ -915,6 +942,7 @@ This is what the human spirit is capable of - self immolating vietnamese monk
 https://upload.wikimedia.org/wikipedia/commons/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg
 https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-1686419067476.png?fm=png&auto=format
 
+> "Human nature is deeper and broader than the artificial contrivance of any existing culture." - [Edward O. Wilson](https://www.goodreads.com/quotes/17735-human-nature-is-deeper-and-broader-than-the-artificial-contrivance)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Final section

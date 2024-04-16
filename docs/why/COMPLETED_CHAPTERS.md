@@ -26,6 +26,7 @@ https://en.wikipedia.org/wiki/Kialo
 
 https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
+> "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
 > "I believe this topic of Internet disagreement is the single most important problem of humankind. Why? Because exchanging ideas is how we make decisions in society, and how we make decisions drives everything else. If we can do that efficiently, humankind will solve every other problem more efficiently." - [Debate Is Broken. How to Improve It, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken#:~:text=I%20believe%20this,problem%20more%20efficiently.)
 

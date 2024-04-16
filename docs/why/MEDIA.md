@@ -136,6 +136,13 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "As the Cold War ended, and the internet rose in the late 1990s, a spate of movies came out — The Matrix, Memento, The Truman Show, Fight Club, The Game, Men in Black, The Eternal Sunshine of the Spotless Mind –— all about a constructed reality where our memories aren’t real. It’s almost as if with the rise of the Network, that there was a dim realization in the collective subconscious that everyone had been lied to, deceived, anesthetized, sedated by the centralized States of the 20th century — not just by the fascists and the communists, but the democratic capitalists too." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=As%20the%20Cold,democratic%20capitalists%20too.)
 
+> "To what degree am I a sovereign, self-determining agent, and to what degree am I thinking I’m a sovereign, self-determining agent that is actually being influenced in ways I don’t even recognize?" - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=To%20what%20degree%20am%20I%20a%20sovereign%2C%20self%2Ddetermining%20agent%2C%20and%20to%20what%20degree%20am%20I%20thinking%20I%E2%80%99m%20a%20sovereign%2C%20self%2Ddetermining%20agent%20that%20is%20actually%20being%20influenced%20in%20ways%20I%20don%E2%80%99t%20even%20recognize%3F)
+
+> "Our ability to do choice-making well depends on our ability to sense-make well, which is why controlling peoples’ sense-making is the heart of the war that’s happening." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Our%20ability%20to%20do%20choice%2Dmaking%20well%20depends%20on%20our%20ability%20to%20sense%2Dmake%20well%2C%20which%20is%20why%20controlling%20peoples%E2%80%99%20sense%2Dmaking%20is%20the%20heart%20of%20the%20war%20that%E2%80%99s%20happening.)
+
+> "Why don’t we have group sense-making? Because you have a self-perpetuating system that includes the self-perpetuation of the memes that support the system." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Why%20don%E2%80%99t%20we%20have%20group%20sense%2Dmaking%3F%20Because%20you%20have%20a%20self%2Dperpetuating%20system%20that%20includes%20the%20self%2Dperpetuation%20of%20the%20memes%20that%20support%20the%20system.)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Gell-Mann Amnesia
 ██████████████████████████████████████████████████████████████████

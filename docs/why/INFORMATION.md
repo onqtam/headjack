@@ -308,6 +308,9 @@ the ability to be able to sever the connection between an action of yours X to c
 
 ["Sunlight is the best disinfectant"](https://en.wiktionary.org/wiki/sunlight_is_the_best_disinfectant)
 
+> "Darkness cannot drive out darkness; only light can do that." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158968)
+
+
 when we're reading books, we should be able to check all feedback and activity around each reference - what has been crowdsourced. Imagine being able to colorize asserts that reference external sources based on a score showing if there's consensus this is true or there's a dispute. We can have a heatmap of the entire book/article to judge how trustworthy it is according to our criteria and which votes count
 -->
 

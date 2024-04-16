@@ -60,6 +60,10 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 > "Irrationality is the square root of all evil." - [Douglas Hofstadter](https://www.goodreads.com/quotes/8921697-irrationality-is-the-square-root-of-all-evil)
 
+> "The problem isn't that Johnny can't read. The problem isn't even that Johnny can't think. The problem is that Johnny doesn't know what thinking is; he confuses it with feeling." - [Thomas Sowell](https://www.goodreads.com/quotes/316759-the-problem-isn-t-that-johnny-can-t-read-the-problem-isn-t)
+
+> "Rhetoric is no substitute for reality." - [Thomas Sowell](https://www.goodreads.com/quotes/270138-rhetoric-is-no-substitute-for-reality)
+
 > "We cannot reason ourselves out of our basic irrationality. All we can do is learn the art of being irrational in a reasonable way." - [Aldous Huxley](https://www.goodreads.com/quotes/330383-we-cannot-reason-ourselves-out-of-our-basic-irrationality-all)
 
 > "The very processes that make you adaptive make you subject to self-deception, so wisdom, meaning the overcoming of self-deception, is not optional." - [John Vervaeke](https://twitter.com/tomowenmorgan/status/1742174765463298489)
@@ -114,6 +118,7 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 
 <img src="/img/famous_failed_prediction_by_economist.png"/>
 
+> "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
 
 https://www.lesswrong.com/tag/futarchy
 
@@ -807,6 +812,7 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 > "I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9670)
 
+the next step of encephalization is truly networking our minds - deduplicated identities, concepts & events
 
 ██████████████████████████████████████████████████████████████████
 # quotes
