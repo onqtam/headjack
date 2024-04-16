@@ -185,6 +185,9 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/50291-every-man-must-decide-whether-he-will-walk-in-the)
 
+> "The constructal law describes a principle in natural design: flow systems, animate and inanimate—people, rivers, trees, branches, tectonic plates, traffic, markets, and more—all act the same, in one crucial way. In order to survive, all these systems must adapt to accommodate the currents that flow through them, and they all evolve following a vascular pattern." - [Constructal law, by Adrian Bejan](https://qz.com/957711/everything-including-the-growing-income-disparity-can-be-explained-by-physics#:~:text=The%20constructal%20law%20describes,following%20a%20vascular%20pattern.)
+
+
 
 
 

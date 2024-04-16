@@ -185,6 +185,7 @@ Unbreaking America: Solving the Corruption Crisis
 > "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
 <!-- https://quoteinvestigator.com/2015/07/23/great-power/ -->
 
+> "It’s part of the sucker game of the status quo to keep people’s political energy used up in surface fights about things like abortion, gay marriage, legalization of marijuana, etc. I believe all of those are important things, but they’re not fundamental; they don’t get to the institutional structure of how our society works." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=it%E2%80%99s%20part%20of,our%20society%20works.)
 
 
 
@@ -512,4 +513,6 @@ we need a response to ted kazinsky's unibomber manifesto
 > "The real problem of humanity is the following: We have Paleolithic emotions, medieval institutions and godlike technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall." - [Edward O. Wilson](https://www.goodreads.com/quotes/9770741-the-real-problem-of-humanity-is-the-following-we-have)
 
 > "People talk about human intelligence as the greatest adaptation in the history of the planet. It is an amazing and marvelous thing, but in evolutionary terms, it is as likely to do us in as to help us along." - [Stephen Jay Gould](https://www.goodreads.com/quotes/55051-people-talk-about-human-intelligence-as-the-greatest-adaptation-in)
+
+> "If we don’t build a Game B, a “better attractor,” then when the change comes, it’s going to be to one of those bad attractors I talked about before, and I don’t think any of us wants that." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=If%20we%20don%E2%80%99t%20build%20a%20Game%20B%2C%20a%20%E2%80%9Cbetter%20attractor%2C%E2%80%9D%20then%20when%20the%20change%20comes%2C%20it%E2%80%99s%20going%20to%20be%20to%20one%20of%20those%20bad%20attractors%20I%20talked%20about%20before%2C%20and%20I%20don%E2%80%99t%20think%20any%20of%20us%20wants%20that.)
 
