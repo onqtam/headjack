@@ -122,6 +122,8 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "World War III is a guerrilla information war with no division between military and civilian participation." - [Marshall McLuhan](https://www.azquotes.com/quote/808551)
 
+> "Peoples’ minds are the battlefield, the treasure that is trying to be achieved, and also the weapons." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Peoples%E2%80%99%20minds%20are%20the%20battlefield%2C%20the%20treasure%20that%20is%20trying%20to%20be%20achieved%2C%20and%20also%20the%20weapons.)
+
 Politics in its current primitive/primal form is the cancer of humanity.
 
 > "If voting changed anything, it would be illegal." - [George Carlin](https://www.azquotes.com/quote/1248100)
@@ -157,6 +159,11 @@ Unbreaking America: Solving the Corruption Crisis
 > "That's why they call it the American Dream, because you have to be asleep to believe it." - [George Carlin](https://www.goodreads.com/quotes/17908-that-s-why-they-call-it-the-american-dream-because-you)
 
 
+> "What is history but the story of how politicians have squandered the blood and treasure of the human race?" - [Thomas Sowell](https://www.goodreads.com/quotes/233336-what-is-history-but-the-story-of-how-politicians-have)
+
+> "The most basic question is not what is best, but who shall decide what is best." - [Thomas Sowell](https://www.goodreads.com/quotes/322271-the-most-basic-question-is-not-what-is-best-but)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
 ██████████████████████████████████████████████████████████████████
@@ -172,6 +179,8 @@ Unbreaking America: Solving the Corruption Crisis
 > "Armaments, universal debt, and planned obsolescence—those are the three pillars of Western prosperity." - [Aldous Huxley](https://www.goodreads.com/quotes/14210-armaments-universal-debt-and-planned-obsolescence-those-are-the-three-pillars)
 
 > "The evil of aristocracy is not that it necessarily leads to the infliction of bad things or the suffering of sad ones; the evil of aristocracy is that it places everything in the hands of a class of people who can always inflict what they never suffer." - [G.K. Chesterton](https://www.goodreads.com/quotes/9067926-the-evil-of-aristocracy-is-not-that-it-necessarily-leads)
+
+> "It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong." - [Thomas Sowell](https://www.goodreads.com/quotes/3823206-it-is-hard-to-imagine-a-more-stupid-or-more)
 
 > "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
 <!-- https://quoteinvestigator.com/2015/07/23/great-power/ -->
@@ -378,7 +387,18 @@ Philip morris Indonesia kids
 > "Immense financial, natural and human resources are directed at warfare, even though one trivial realization on a mass scale would result in the total cessation of all hostilities. This realization is that every Other (the so-called “enemy”) is in actuality a fellow cell, because regardless of the superficial differences these very units comprise the living organism we call humanity. The healthy, peaceful, cooperative state of humanity needs to be every responsible human being’s concern." - [War as the Autoimmune Disease of Humanity: Perspectives on a Theoretical Proposal](https://www.globalpoliticsreview.com/publications/2464-9929_v02_i01_p11.pdf)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Incentives
+# SECTION: Blindness
+██████████████████████████████████████████████████████████████████
+
+> "The most dangerous worldview is the worldview of those who have not viewed the world." - [Edward O. Wilson](https://www.goodreads.com/quotes/9082954-the-most-dangerous-worldview-is-the-worldview-of-those-who)
+
+> "We cannot regulate our interaction with any aspect of reality that our model of reality does not include." - [Stafford Beer](https://bothbrainsrequired.com/2020/04/27/the-history-of-the-environmental-movement-in-5-cartoons/#:~:text=%E2%80%9CWe%20cannot%20regulate,Stafford%20Beer)
+
+> "Risk comes from not knowing what you're doing." - [Warren Buffett](https://www.goodreads.com/quotes/329807-risk-comes-from-not-knowing-what-you-re-doing)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Incentives 
 ██████████████████████████████████████████████████████████████████
 
 
@@ -394,12 +414,18 @@ Philip morris Indonesia kids
 
 > "Capitalism without bankruptcy is like Christianity without hell." - [Frank Borman](https://www.azquotes.com/quote/32544)
 
+> "Never ask a barber if you need a haircut." - [Warren Buffett](https://www.goodreads.com/quotes/476828-never-ask-a-barber-if-you-need-a-haircut)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Environment
 ██████████████████████████████████████████████████████████████████
 
 > "The creature that wins against its environment destroys itself." - [Gregory Bateson](https://www.azquotes.com/quote/695444)
+
+> "Perhaps the time has come to cease calling it the 'environmentalist' view, as though it were a lobbying effort outside the mainstream of human activity, and to start calling it the real-world view." - [Edward O. Wilson](https://www.goodreads.com/quotes/5201-perhaps-the-time-has-come-to-cease-calling-it-the)
+
+> "Destroying rainforest for economic gain is like burning a Renaissance painting to cook a meal." - [Edward O. Wilson](https://www.goodreads.com/quotes/419446-destroying-rainforest-for-economic-gain-is-like-burning-a-renaissance)
 
 What if we did to mass consumer product packaging what the container did to shipping? How do we reuse our packaging more - even across companies & their product lineups?
 Convenience packaging... replacing a depositing system and reusable bottles (deposit 40% of a coke bottle which u get back when u return the bottle)
@@ -422,6 +448,9 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "I don't see much of a future for this planet. I think it's a cursed planet. The boundaries we've drawn between nations and the profit motive - those two factors have, in my opinion, brought us to the point where almost nothing can stop the utter destruction of the environment and all our earthly life-support systems." - [George Carlin](https://www.azquotes.com/quote/1284811)
 
 > "I have learned to seek my happiness by limiting my desires, rather than in attempting to satisfy them." - [John Stuart Mill](https://www.goodreads.com/quotes/6608-i-have-learned-to-seek-my-happiness-by-limiting-my)
+
+> "We cannot win this battle to save species and environments without forging an emotional bond between ourselves and nature as well - for we will not fight to save what we do not love." - [Stephen Jay Gould](https://www.azquotes.com/quote/598451)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Existential risks
@@ -458,4 +487,10 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 we need a response to ted kazinsky's unibomber manifesto
 
 > "Humanity has no concept of submitting to reason and duty to life and future survival. We will run until we step past the cliff." - [Joscha Bach](https://twitter.com/Plinz/status/1663916782640308227)
+
+> "The most important thing to do if you find yourself in a hole is to stop digging." - [Warren Buffett](https://www.goodreads.com/quotes/9095-the-most-important-thing-to-do-if-you-find-yourself)
+
+> "The real problem of humanity is the following: We have Paleolithic emotions, medieval institutions and godlike technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall." - [Edward O. Wilson](https://www.goodreads.com/quotes/9770741-the-real-problem-of-humanity-is-the-following-we-have)
+
+> "People talk about human intelligence as the greatest adaptation in the history of the planet. It is an amazing and marvelous thing, but in evolutionary terms, it is as likely to do us in as to help us along." - [Stephen Jay Gould](https://www.goodreads.com/quotes/55051-people-talk-about-human-intelligence-as-the-greatest-adaptation-in)
 

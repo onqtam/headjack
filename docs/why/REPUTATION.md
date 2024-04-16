@@ -134,6 +134,11 @@ Problems with democracy and voters:
 
 > "First ethical rule: If you see fraud and do not say fraud, you are a fraud." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9928470-first-ethical-rule-if-you-see-fraud-and-do-not)
 
+> "Culture is not like a mission statement; you can’t just set it up and have it last forever. There’s a saying in the military that if you see something below standard and do nothing, then you’ve set a new standard. This is also true of culture—if you see something off-culture and ignore it, you’ve created a new culture." - [Ben Horowitz, What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/quotes/10058754-culture-is-not-like-a-mission-statement-you-can-t-just)
+
+
+
+
 > "In the long-run, the best proof of a good character is good actions." - [John Stuart Mill](https://www.azquotes.com/quote/1377006)
 
 https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
@@ -221,6 +226,8 @@ booting up the reputation/accountability/status market
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status
 ██████████████████████████████████████████████████████████████████
+
+we need to change our concept of prestige
 
 > "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
 

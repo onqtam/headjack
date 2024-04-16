@@ -68,4 +68,8 @@ https://twitter.com/exec_sum/status/1743744897264345445
 
 > "When information is cheap, attention becomes expensive." - [James Gleick](https://www.goodreads.com/quotes/393102-when-information-is-cheap-attention-becomes-expensive)
 
+> "The kinds of AIs that optimize your news feed are higher power AIs than the AIs that beat Kasparov at chess. Kasparov is far better at chess than you are at controlling your attention, and he also knew he was playing a game." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=The%20kinds%20of%20AIs%20that%20optimize%20your%20news%20feed%20are%20higher%20power%20AIs%20than%20the%20AIs%20that%20beat%20Kasparov%20at%20chess.%20Kasparov%20is%20far%20better%20at%20chess%20than%20you%20are%20at%20controlling%20your%20attention%2C%20and%20he%20also%20knew%20he%20was%20playing%20a%20game.)
+
+The fundamental issue of attention
+
 
