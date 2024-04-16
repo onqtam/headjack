@@ -276,6 +276,7 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 
 > "There are no passengers on spaceship earth. We are all crew." - [Marshall McLuhan](https://www.azquotes.com/quote/195272)
 
+> "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/15696-an-individual-has-not-started-living-until-he-can-rise)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism
@@ -362,7 +363,7 @@ Philip morris Indonesia kids
 
 > "I believe that Gandhi’s views were the most enlightened of all the political men in our time. We should strive to do things in his spirit: not to use violence in fighting for our cause, but by non-participation in anything you believe is evil." - [Albert Einstein](https://www.goodreads.com/quotes/321355-i-believe-that-gandhi-s-views-were-the-most-enlightened-of)
 
-
+> "Mankind must put an end to war - or war will put an end to mankind." - [John F. Kennedy](https://www.goodreads.com/quotes/118124-mankind-must-put-an-end-to-war---or-war)
 
 > "According to Margaret Mead, the institution of war is a cultural invention that can be abolished, so it is not a biological necessity to kill one another on a grand scale." - [War as the Autoimmune Disease of Humanity: Perspectives on a Theoretical Proposal](https://www.globalpoliticsreview.com/publications/2464-9929_v02_i01_p11.pdf)
 
@@ -375,10 +376,6 @@ Philip morris Indonesia kids
 > "In the classic of Liji (Book of Rites) there is the famous passage generally called datongpian (Essay on Grand Harmony) which is one of the hallmarks of Chinese civilization. The Essay depicts the utopia of the ancients which is a society governed by the most virtuous and capable people. There is no unrest, robbery, theft, machination, and people do not need to close their doors when they sleep at night." - [War as the Autoimmune Disease of Humanity: Perspectives on a Theoretical Proposal](https://www.globalpoliticsreview.com/publications/2464-9929_v02_i01_p11.pdf)
 
 > "Immense financial, natural and human resources are directed at warfare, even though one trivial realization on a mass scale would result in the total cessation of all hostilities. This realization is that every Other (the so-called “enemy”) is in actuality a fellow cell, because regardless of the superficial differences these very units comprise the living organism we call humanity. The healthy, peaceful, cooperative state of humanity needs to be every responsible human being’s concern." - [War as the Autoimmune Disease of Humanity: Perspectives on a Theoretical Proposal](https://www.globalpoliticsreview.com/publications/2464-9929_v02_i01_p11.pdf)
-
-> "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so. The US has made a lot of mistakes of unnecessary wars." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
-
-> "It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.'" - [Aldous Huxley](https://www.goodreads.com/quotes/9861-it-is-a-bit-embarrassing-to-have-been-concerned-with)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives
@@ -448,6 +445,8 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 
 > "Can we survive technology?" - [John von Neumann](https://www.goodreads.com/quotes/9193285-can-we-survive-technology)
 
+> "This country cannot afford to be materially rich and spiritually poor." - [John F. Kennedy](https://www.azquotes.com/quote/536350)
+
 > "I am thinking about something much more important than bombs. I am thinking about computers." - [John von Neumann](https://www.azquotes.com/quote/1386902)
 
 > "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
@@ -457,4 +456,6 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "Our current systems are perfectly organized to result in the self-organization of the destruction of human civilization." - [John Stewart](https://youtu.be/ftuY7BIzn9M?&t=6312)
 
 we need a response to ted kazinsky's unibomber manifesto
+
+> "Humanity has no concept of submitting to reason and duty to life and future survival. We will run until we step past the cliff." - [Joscha Bach](https://twitter.com/Plinz/status/1663916782640308227)
 

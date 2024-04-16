@@ -186,6 +186,12 @@ What of we could signal what we core most about
 
 the matrix - in the top 10
 
+How do we figure out what person X recommends as books? Is there a way to get a disambiguated up-to-date list? No. So we browse stale pages like these:
+https://fs.blog/knowledge-project-podcast/naval-ravikant/#books-mentioned
+https://balajianthology.com/balajis-recommended-reading
+https://civilizationemerging.com/books/
+
+
 What if we all answered [these questions](https://civilizationemerging.com/dharma-inquiry/) and aggregated the results?
 
 top 10 crowdsourced list: meaning crysis, >A PICTURE OF THE EARTH< , etc.

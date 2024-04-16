@@ -71,6 +71,10 @@
 
 > "The key element of social control is the strategy of distraction that is to divert public attention from important issues and changes decided by political and economic elites, through the technique of flood or flooding continuous distractions and insignificant information." - [Noam Chomsky](https://www.goodreads.com/quotes/485177-the-key-element-of-social-control-is-the-strategy-of)
 
+> "One of the biggest surprises of my adult life is how unethical reporters are. In movies they're always the good guys." - [Paul Graham](https://twitter.com/paulg/status/1461633512344326146)
+
+> "Never argue with a man who buys ink by the barrel." - [Roger Branigin](https://quoteinvestigator.com/2018/04/24/ink/)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer

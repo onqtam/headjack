@@ -8,8 +8,6 @@
 
 
 
-> "The Internet is to America what America was to Britain. A frontier territory that will ultimately succeed even its worthy progenitor." - [Balaji](https://twitter.com/balajis/status/1774529076742754328)
-
 
 > "Without improving the systems by which humans collectively navigate the problem of mapping values to actions under shared constraints, that better tech will primarily end up used to destroy humanity, rather than sustainably accelerate it. The belief that better / more capable technological artifacts will alone lead to a better society is just another form of utopian delusion." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1770602256901243331)
 
@@ -182,6 +180,10 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 > "People are computer programs. That's just a fact about the laws of physics. Propose new laws or get over it." - [David Deutsch](https://twitter.com/DavidDeutschOxf/status/674467877823635456)
 
 > "The collection of all that defines someone, in rank order, is their identity stack. The top of the identity stack is the primary identity: the Pittsburgh Steelers for Jim, Bitcoin for Billy, and America for Bob." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/sociopolitical-axes#:~:text=The%20collection%20of%20all%20that%20defines%20someone%2C%20in%20rank%20order%2C%20is%20their%20identity%20stack.%20The%20top%20of%20the%20identity%20stack%20is%20the%20primary%20identity%3A%20the%20Pittsburgh%20Steelers%20for%20Jim%2C%20Bitcoin%20for%20Billy%2C%20and%20America%20for%20Bob.)
+
+> "To have done great things together, to want to do more, such are the essential conditions to form a people... Man is not a slave to his race, or his tongue, or his religion." - [Ernest Renan](https://www.goodreads.com/quotes/9059260-to-have-done-great-things-together-to-want-to-do)
+
+> "Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/50291-every-man-must-decide-whether-he-will-walk-in-the)
 
 
 
