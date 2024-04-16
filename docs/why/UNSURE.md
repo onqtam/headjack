@@ -173,5 +173,8 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "I want to build an AI agent that I am ok with giving to my children. It’s the same AI I want to build for myself. It will talk to me, join me, extend me. It will fit like a glove around my mind, and you will want one, too. It will allow you and me to interact so deeply that we become one. It is like us, just so much more so. Conscious, curious, loving, playing the longest game." - [Joscha Bach](https://twitter.com/Plinz/status/1725058838192361725)
 
+> "We shape our rules, and then our rules shape us." - [Max Borders](https://underthrow.substack.com/p/how-we-become-the-social-safety-net#:~:text=We%20shape%20our%20rules%2C%20and%20then%20our%20rules%20shape%20us.)
+
+
 
 

@@ -34,6 +34,11 @@ https://pbs.twimg.com/media/Fzphul-acAED4dj.jpg
 
 the future of status and prestige is authentic computable context & reputation on top of immutable cryptohistory
 
+> "Who controls the past controls the future. Who controls the present controls the past." - [George Orwell](https://www.goodreads.com/quotes/6145-who-controls-the-past-controls-the-future-who-controls-the)
+
+> "The most effective way to destroy people is to deny and obliterate their own understanding of their history." - [George Orwell](https://www.goodreads.com/quotes/7076-the-most-effective-way-to-destroy-people-is-to-deny)
+
+> "Whatever injsutice of the government or elites you're upset about will be forgotten just as quickly. Understanding politics and power is an exercise in memory." - [Samo Burja](https://twitter.com/SamoBurja/status/1685073306565906432)
 
 > "What is history? The lie that everyone agrees on..." - [Voltaire](https://www.goodreads.com/quotes/86931-what-is-history-the-lie-that-everyone-agrees-on)
 
@@ -194,6 +199,8 @@ The argument that specialized message types are unnecessary because AI will even
 ██████████████████████████████████████████████████████████████████
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
+
+> "If the studies are fake, imagine the meta-analyses." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1761418446842044460)
 
 > "Research by salaried laborers is becoming a rent-seeking citation ring consisting of large scale imitative rituals, with a decreasing number of results, an increasing cluelessness of participants, and a multiplication of useless rules." - [Nassim Nicholas Taleb](https://twitter.com/nntaleb/status/1009417068926722048)
 

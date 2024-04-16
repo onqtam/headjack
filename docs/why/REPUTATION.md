@@ -211,7 +211,9 @@ having your post (successfully) labeled as a duplicate of something else could i
 
 > "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
 
+google reviews !!! - a reputation system
 
+booting up the reputation/accountability/status market
 
 
 ██████████████████████████████████████████████████████████████████

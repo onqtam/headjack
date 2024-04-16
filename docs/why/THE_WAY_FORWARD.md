@@ -20,6 +20,12 @@ https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-uni
 
 <!-- taken from here: https://www.quora.com/How-is-all-life-on-Earth-related -->
 
+> "Humanity is suffering from depression. It could do so much, yet it wants to do so little." - [Samo Burja](https://twitter.com/samoburja/status/1675918518876000256)
+
+> "Our problem is that we are a small civilization with small ambitions with the technology to reshape planets." - [Samo Burja](https://twitter.com/SamoBurja/status/1675917984374861824)
+
+Mention the carbon pulse
+
 UTOK ontology:
 https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
@@ -273,6 +279,11 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 <img src="/img/educational_crisis.png"/>
 
 children are sponges
+
+According to John Stewart we need an escalator to meta-systemic cognition - to have a path for anyone to raise their awareness and understanding of our place in the developmental process and the forces within it
+A cultural enlightenment
+
+We are all complicit in ignorance
 
 We are failing at raising humans
 

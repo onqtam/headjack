@@ -102,3 +102,6 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 > "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
 
 > "So self-interest is good as long as its contained by the self-interest of a community. You see, that makes us always be aware of other levels. If we can learn this as humans to say when we're making a decision: Is this good for me, my family, for my ecosystem, for my nation for my world? And then if it's good at some levels and at least harmless at others, like the Hippocratic oath “Do No Harm” then go ahead and try it. You're a creative human being." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=So%20self%2Dinterest,creative%20human%20being.)
+
+> "Consequence capture - so basically what governance does is reflect back onto the individuals of the collective the consequences of their actions on the collective as a whole. If an individual within a collective - a cell in your body for example - does something to harm your body, then the governance will reflect that back on the individual cell and harm the cell. Similarly for anything beneficial." - [John Stewart](https://youtu.be/XFqjbuYczc8?t=2198)
+
