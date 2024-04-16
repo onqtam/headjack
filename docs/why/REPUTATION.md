@@ -215,6 +215,8 @@ google reviews !!! - a reputation system
 
 booting up the reputation/accountability/status market
 
+> "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status
@@ -306,3 +308,6 @@ We need to be able to bet on anything (DO WE?)
 
 > "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
 
+> "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
+
+> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)

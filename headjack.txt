@@ -3872,17 +3872,10 @@ Donations shouldn't be compelled and shouldn't simply go to the ever-hungry and 
 Owning an excessive/lavish 250M$ penthouse might subtract some of your reputation
 > "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
 
-we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
-
 what if the fabric of society was defined by a layered web of reputation models - an ever-evolving complex incentive structure derived from our values?
 
 AGI vs human alignment
 https://twitter.com/owocki/status/1673478260330729472?s=46
-
-Most people have read at leats a couple of books in their life. What if we could socially nudge ourselves into coherence for what is most important and point to the most important books?
-
-== You will own nothing, and be happy
-Few people could predict uber and airbnb - most were extremely sceptical. The same will be true for the sharing economy
 
 The further away from iron curtains - the better
 
@@ -3962,7 +3955,6 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "The scientific landscape has long been dominated by reductionism, a methodological approach that seeks to understand complex phenomena by breaking them down into simpler component parts. While this perspective has undeniably fostered significant advances in our understanding of the natural world, it has also contributed to a fragmented and disconnected view of reality that implies that life is accidental and meaningless. In recent decades, the nihilism of postmodernism has added another layer of complexity and confusion to the scientific discourse, casting doubt on the very foundations of knowledge and truth. As we grapple with the challenges of the 21st century, a new scientific and philosophical paradigm is urgently needed—one that transcends the limitations of both reductionism and postmodernism, while retaining their contributions to our understanding of the world." - [Poetic Meta-Naturalism: A New Philosophy of Reality for the Metamodern Age](https://roadtoomega.substack.com/p/poetic-meta-naturalism-a-new-philosophy#:~:text=The%20scientific%20landscape,of%20the%20world.)
 
-> "The energy that flows through a system acts to organize that system." - [Energy Flow in Biology (1968), by Harold J. Morowitz](https://en.wikipedia.org/wiki/Harold_J._Morowitz#:~:text=the%20energy%20that%20flows%20through%20a%20system%20acts%20to%20organize%20that%20system)
 
 
 
@@ -3975,76 +3967,8 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 
 
-Politics in its current primitive/primal form is the cancer of humanity.
 
 
-
-
-
-
-
-> "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
-
-> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
-
-
-
-
-
-fighting misinformation with a logical reasoning system
-Julia Galef: Think Rationally via Bayes' Rule | Big Think
-https://www.youtube.com/watch?v=NEqHML98RgU
-A visual guide to Bayesian thinking
-https://www.youtube.com/watch?v=BrK7X_XlGB8
-https://en.wikipedia.org/wiki/Bayesian_inference
-https://en.wikipedia.org/wiki/Bayesian_approaches_to_brain_function
-https://www.lesswrong.com/posts/x7kL42bnATuaL4hrD/bayesian-reasoning-explained-like-you-re-five
-https://www.edge.org/response-detail/27098
-
-
-
-> "Earth provides enough to satisfy every man's needs, but not every man's greed." - [Mahatma Gandhi](https://www.goodreads.com/quotes/30431-earth-provides-enough-to-satisfy-every-man-s-needs-but-not)
-
-
-> "Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove rulers or policies without violence when they are." - [David Deutsch](https://www.goodreads.com/quotes/7684716-good-political-institutions-are-those-that-make-it-as-easy)
-
-> "Without error-correction all information processing, and hence all knowledge-creation, is necessarily bounded. Error-correction is the beginning of infinity." - [David Deutsch](https://www.goodreads.com/quotes/9507955-without-error-correction-all-information-processing-and-hence-all-knowledge-creation-is)
-
-> "People are computer programs. That's just a fact about the laws of physics. Propose new laws or get over it." - [David Deutsch](https://twitter.com/DavidDeutschOxf/status/674467877823635456)
-
-
-
-
-> "History is the entire record of everything humanity has done. It’s a very rich data structure that we have only begun to even think of as a data structure." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=History%20is%20the%20entire%20record%20of%20everything%20humanity%20has%20done.%20It%E2%80%99s%20a%20very%20rich%20data%20structure%20that%20we%20have%20only%20begun%20to%20even%20think%20of%20as%20a%20data%20structure.)
-
-
-> "You want to recruit producers, not consumers, and for that, you’ll need a purpose." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=You%20want%20to%20recruit%20producers%2C%20not%20consumers%2C%20and%20for%20that%2C%20you%E2%80%99ll%20need%20a%20purpose.)
-
-> "History is a cryptic epic of twisting trajectories." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=history%20is%20a%20cryptic%20epic%20of%20twisting%20trajectories.)
-
-> "A significant fraction of people want moral progress. Just as much as the technologist wants to get to Mars, a large chunk of society wants to feel like the good guys fighting in some grand cause. And if you don’t give them that cause, they’ll make one up, and/or start fighting each other." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/left-is-the-new-right-is-the-new-left#:~:text=a%20significant%20fraction%20of%20people%20want%20moral%20progress.%20Just%20as%20much%20as%20the%20technologist%20wants%20to%20get%20to%20Mars%2C%20a%20large%20chunk%20of%20society%20wants%20to%20feel%20like%20the%20good%20guys%20fighting%20in%20some%20grand%20cause.%20And%20if%20you%20don%E2%80%99t%20give%20them%20that%20cause%2C%20they%E2%80%99ll%20make%20one%20up%2C%20and/or%20start%20fighting%20each%20other.)
-
-> "Much of America’s control circuitry has evolved to live outside the formal state, thereby making it resistant to displacement by democratic election. They laud “democracy” but avoid it in practice, through dual class stock, tenure for their bureaucrats and professors, tax-exempt compounding for their foundations, and ideological purification of their organizations." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/people-of-god-people-of-the-state-people-of-the-network#:~:text=much%20of%20America%E2%80%99s,their%20organizations.)
-
-> "The Soviets had a state-controlled press, but America now had a press-controlled state." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/people-of-god-people-of-the-state-people-of-the-network#:~:text=The%20Soviets%20had%20a%20state%2Dcontrolled%20press%2C%20but%20America%20now%20had%20a%20press%2Dcontrolled%20state.)
-
-> "We consider a startup society to be a new community built internet-first, premised on a societal critique of its parent community, and founded for the purpose of addressing that specific societal problem in an opt-in way – namely, by recruiting people online to voluntarily form an alternative society that shows a better way." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/the-one-commandment#:~:text=we%20consider%20a,a%20better%20way.)
-
-> "We are collecting the kinds of precise, quantitative, microhistorical measurements that typically led to the emergence of a new science…but at the scale of billions of people, and going into our second decade.
->
-> So, another term for “Big Data” should be “Big History.” All data is a record of past events, sometimes the immediate past, sometimes the past of months or years ago, sometimes (in the case of Google Books or the Digital Michelangelo project) the past of decades or centuries ago. After all, what’s another word for data storage in a computer? Memory. Memory, as in the sense of human memory, and as in the sense of history." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=We%20are%20collecting,sense%20of%20history.)
-
-> "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
-
-> "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
-
-> "To know when states are lying or not, we need a form of truth powerful enough to stand outside any state and judge it from above. A way to respond to official statistics not with either reflexive faith or disbelief, but with dispassionate, independent calculation." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=to%20know%20when%20states%20are%20lying%20or%20not%2C%20we%20need%20a%20form%20of%20truth%20powerful%20enough%20to%20stand%20outside%20any%20state%20and%20judge%20it%20from%20above.%20A%20way%20to%20respond%20to%20official%20statistics%20not%20with%20either%20reflexive%20faith%20or%20disbelief%2C%20but%20with%20dispassionate%2C%20independent%20calculation.)
-
-> "Only a computational history can represent the full population in a statistical sense; anything else is just a biased sample." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=only%20a%20computational%20history%20can%20represent%20the%20full%20population%20in%20a%20statistical%20sense%3B%20anything%20else%20is%20just%20a%20biased%20sample.)
-
-> "What’s the most powerful force on earth? In the 1800s, God. In the 1900s, the US military. And by the mid-2000s, encryption. Because as Assange put it, no amount of violence can solve certain kinds of math problems. So it doesn’t matter how many nuclear weapons you have; if property or information is secured by cryptography, the state can’t seize it without getting the solution to an equation." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=what%E2%80%99s%20the%20most,to%20an%20equation.)
-
-> "The computer always gives the same output given the same input code, unlike the fallible human judiciary with its error-prone (or politicized) enforcement of the law. In this sense, the Network is the next Leviathan, because on key dimensions it is becoming more powerful and more just than the State." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20computer%20always,than%20the%20State.)
 
 > "Imagine truly international law: it’s done programmatically rather than via pieces of paper, across borders outside the domain of legacy states, and by global technologists rather than country-specific lawyers." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=Imagine%20truly%20international%20law%3A%20it%E2%80%99s%20done%20programmatically%20rather%20than%20via%20pieces%20of%20paper%2C%20across%20borders%20outside%20the%20domain%20of%20legacy%20states%2C%20and%20by%20global%20technologists%20rather%20than%20country%2Dspecific%20lawyers.)
 

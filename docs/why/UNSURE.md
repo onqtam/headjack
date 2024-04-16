@@ -177,6 +177,11 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "Life is either a reproducible, almost commonplace manifestation of matter, given certain conditions, or a miracle. Too many steps are involved to allow for something in between." - [Christian de Duve](https://www.goodreads.com/quotes/263446-life-is-either-a-reproducible-almost-commonplace-manifestation-of-matter), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
 
+> "The energy that flows through a system acts to organize that system." - [Energy Flow in Biology (1968), by Harold J. Morowitz](https://en.wikipedia.org/wiki/Harold_J._Morowitz#:~:text=the%20energy%20that%20flows%20through%20a%20system%20acts%20to%20organize%20that%20system)
+
+> "People are computer programs. That's just a fact about the laws of physics. Propose new laws or get over it." - [David Deutsch](https://twitter.com/DavidDeutschOxf/status/674467877823635456)
+
+
 
 
 

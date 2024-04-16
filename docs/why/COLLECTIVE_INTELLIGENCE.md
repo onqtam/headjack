@@ -129,6 +129,8 @@ https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-acti
 
 https://en.wikipedia.org/wiki/Prediction_market
 
+we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
+
 on prediction markets...
 Involving money & futures contracts on any outcome might put skin in the game but has proven controversial (especially when it comes to terrorist attacks & assassinations):
 https://en.wikipedia.org/wiki/Policy_Analysis_Market

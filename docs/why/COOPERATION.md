@@ -69,6 +69,14 @@ https://prnt.sc/o5LZhIhNqIFX
 > "Common knowledge depends not only on me knowing that you receive a message but also on the existence of a shared symbolic system which allows me to know how you understand it." - [Rational Ritual: Culture, Coordination, and Common Knowledge](https://www.goodreads.com/work/quotes/1103225-rational-ritual-culture-coordination-and-common-knowledge)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Coherence
+██████████████████████████████████████████████████████████████████
+
+
+Most people have read at leats a couple of books in their life. What if we could socially nudge ourselves into coherence for what is most important and point to the most important books?
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Elinor Ostrom & commons
 ██████████████████████████████████████████████████████████████████
 

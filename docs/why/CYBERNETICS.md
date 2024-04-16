@@ -84,6 +84,14 @@ https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cog
 # SECTION: Bayesian Inference
 ██████████████████████████████████████████████████████████████████
 
+fighting misinformation with a logical reasoning system
+Julia Galef: Think Rationally via Bayes' Rule | Big Think
+https://www.youtube.com/watch?v=NEqHML98RgU
+A visual guide to Bayesian thinking
+https://www.youtube.com/watch?v=BrK7X_XlGB8
+https://www.lesswrong.com/posts/x7kL42bnATuaL4hrD/bayesian-reasoning-explained-like-you-re-five
+https://www.edge.org/response-detail/27098
+
 > "Inference is actually quite close to a theory of everything – including evolution, consciousness, and life itself." - [Karl Friston](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference#:~:text=Inference%20is%20actually%20quite%20close%20to%20a%20theory%20of%20everything%20%E2%80%93%20including%20evolution%2C%20consciousness%2C%20and%20life%20itself.)
 
 > "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
