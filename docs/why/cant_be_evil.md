@@ -1,5 +1,6 @@
 # Can't be evil
 
+Whistleblower friendly ecosystem
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Centralization and control

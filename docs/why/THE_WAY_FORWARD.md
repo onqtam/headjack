@@ -414,7 +414,7 @@ According to John Stewart we need an escalator to meta-systemic cognition - to h
 A cultural enlightenment
 
 We are all complicit in ignorance
-
+we need to upgrade our capacity to learn
 We are failing at raising humans
 
 We must consciously raise the awareness and education of the so-called masses
@@ -567,6 +567,11 @@ https://www.google.com/search?q=this+is+healthy
 > "Don't change the man. Change his environment." - [R. Buckminster Fuller](https://www.azquotes.com/quote/964439)
 
 > "People never leave a sinking ship until they see the lights of another ship approaching." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1123416)
+
+> "What are “basins of attraction”? Think of a rubber sheet with some heavy lead balls on it. Systems are stable in the basins, in the places where the weights create a depression in the rubber sheets, and they’re unstable between the basins. Over time, it’s typical that complex systems move between basins." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=What%20are%20%E2%80%9Cbasins,move%20between%20basins.)
+
+IMAGE !!! attractors on a fitness landscape
+https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.png
 
 > "We consider a startup society to be a new community built internet-first, premised on a societal critique of its parent community, and founded for the purpose of addressing that specific societal problem in an opt-in way – namely, by recruiting people online to voluntarily form an alternative society that shows a better way." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/the-one-commandment#:~:text=we%20consider%20a,a%20better%20way.)
 
@@ -989,4 +994,7 @@ But a problem not fully understood is unsolvable.
 > "Life and intelligence are the wildcards in the universal deck." - [Terence McKenna](https://www.organism.earth/library/document/vertigo-at-historys-edge)
 
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+
+> "The number one priority for people today should be creating a winning, good attractor for our civilization." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=the%20number%20one%20priority%20for%20people%20today%20should%20be%20creating%20a%20winning%2C%20good%20attractor%20for%20our%20civilization.)
+
 

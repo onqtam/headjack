@@ -1431,8 +1431,6 @@ Computed history/identity is important not only to gauge someone’s reputation 
 
 Nature is telling us “hey you fools, before spewing out whatever comes to mind try to learn from prior art - there is nothing more art than nature
 
-Strategy: let people help with the global brain - gaining reputation in return
-
 Internet 2.0 is about values, knowledge, and alignment
 
 We need to wake up after this multi-century intermission of purpose  
@@ -1514,8 +1512,6 @@ The culmination of Darwin's discovery is the complete understanding and consciou
 What if successful kids could publicly signal what kind of media they avoid, so that other kids can make a conscious choice about where they want to take their lives going forward?
 
 "give me the view of the world of the top 100 people according to a ruleset X, and if they don't have an opinion on something - inherit the opinion of whoever they've delegated expertise to (liquid democracy)"
-
-strategy: dogfooding the system - piping every aspect/argument/assumption of the vision through the collective sensemaking system as soon as possible and allowing for iteration on every aspect of it
 
 Opinions on complex topics should be expressed as weights in argument maps
 
@@ -1623,8 +1619,6 @@ We can have a license that allows only other companies within this ecosystem to 
 Embrace infinity in every conceivable way
 
 Enculturation architecture
-
-“Don't look up” is a diagnosis
 
 Our hobby should be problem-solving
 
@@ -3662,8 +3656,6 @@ John Vervake’s legacy will be the contribution of relevance realization as a m
 
 We can gamify alignment
 
-We can literally find ourselves in the situation of the movie dont look up
-
 We can have a means to accurately assess the quality of the leaders we choose
 
 Blockchain is the alignment technology that supersedes the old paradigm of nation states and markets with their current flaws 
@@ -4169,10 +4161,6 @@ https://twitter.com/dwr/status/1666102355698364416
 
 The informational multiverse
 
-we need to upgrade our capacity to learn
-
-A truth market for ideas
-
 Relevance realization: given the near-infinite complexity of the world, how do we intelligibly ignore irrelevant information and zero in on that which is relevant to us?
 
 think of this as collectively writing the guide to/book of life
@@ -4189,9 +4177,6 @@ we could all collectively have a conversation through the distributed aggregate 
 
 If there are no consequences for wall street playing the “short and distort” game with Tesla for a decade (including the hardest of times for them) - then we should be able to de-amplify topics and entities too. Todo: this point needs more thought
 
-strategy:
-we can "import" a part of the web simply by making entries with a message type with an external URI pointing to a traditional page and then allow for commenting and voting and whatnot
-
 what if you want to be able to message someone (they're a contact) but you don't want to follow them on instagram because you're simply not interested in reels and them ending up in your feed and you also don't have a DM channel open with them? its engineered for engagement
 
 we could even split our own vote like 30% from me and the rest 70% split between my delegates for this cause
@@ -4203,9 +4188,6 @@ write about mycelium
 TODO: think about labeling of naughty material and the streisand effect
 
 what if the tags for a creator are automatically updated based on the tags for their individual posts and also ranked by occurance with a histogram?
-
-"Don't look up" but in real life
-https://www.imdb.com/title/tt11286314/
 
 This is the clearest manifestation of democracy and classical liberalism
 careful with the word liberalism - it might not be the right thing here
@@ -4230,8 +4212,6 @@ what if we could have citation graphs and ranking for anyone on any topic - not 
 anonymity - ZK stuff and dating apps! DATING APPS!
 
 Imagine having your personal jamie to pull things up
-
-fractal debate map
 
 Money on money return
 
@@ -4297,15 +4277,11 @@ A market for any idea
 
 We are unconscious as a species
 
-Whistleblower friendly ecosystem
-
-the most radical experiment in self-organization and emergent order to date
+the most radical experiment in self-organization and emergence to date
 
 this can replace even phone numbers
 
 instead of upvote/downvote - 5 star ratings on 2 measures: quality and importance
-
-Music… flow… your attention
 
 game b should parasitize game A
 game b should be meta-stable
@@ -4318,7 +4294,7 @@ Consciousness is about directing computational resources - our predictive capaci
 thinking in exponentials
 
 
-Cultural shorting of sociopathic corporatism
+Culturally short sociopathic corporatism
 
 
 
@@ -4328,41 +4304,12 @@ Cultural shorting of sociopathic corporatism
 
 
 
-> "The first phase of the information war was marked by distinctively human displays of incompetence and brute-force intimidation. But the next stage, already underway, is being carried out through both scalable processes of artificial intelligence and algorithmic pre-censorship that are invisibly encoded into the infrastructure of the internet, where they can alter the perceptions of billions of people." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=The%20first%20phase,billions%20of%20people.)
-
-> "Disinformation, now and for all time, is whatever they say it is. That is not a sign that the concept is being misused or corrupted; it is the precise functioning of a totalitarian system." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=Disinformation%2C%20now%20and%20for%20all%20time%2C%20is%20whatever%20they%20say%20it%20is.%20That%20is%20not%20a%20sign%20that%20the%20concept%20is%20being%20misused%20or%20corrupted%3B%20it%20is%20the%20precise%20functioning%20of%20a%20totalitarian%20system.)
-
-> "If the underlying philosophy of the war against disinformation can be expressed in a single claim, it is this: You cannot be trusted with your own mind." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=If%20the%20underlying%20philosophy%20of%20the%20war%20against%20disinformation%20can%20be%20expressed%20in%20a%20single%20claim%2C%20it%20is%20this%3A%20You%20cannot%20be%20trusted%20with%20your%20own%20mind.)
-
-> "It is a supreme irony that the very people who a decade ago led the freedom agenda for other countries have since pushed the United States to implement one of the largest and most powerful censorship machines in existence under the guise of fighting disinformation." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=It%20is%20a%20supreme%20irony%20that%20the%20very%20people%20who%20a%20decade%20ago%20led%20the%20freedom%20agenda%20for%20other%20countries%20have%20since%20pushed%20the%20United%20States%20to%20implement%20one%20of%20the%20largest%20and%20most%20powerful%20censorship%20machines%20in%20existence%20under%20the%20guise%20of%20fighting%20disinformation.)
-
-
-
-
-
-> "What are “basins of attraction”? Think of a rubber sheet with some heavy lead balls on it. Systems are stable in the basins, in the places where the weights create a depression in the rubber sheets, and they’re unstable between the basins. Over time, it’s typical that complex systems move between basins." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=What%20are%20%E2%80%9Cbasins,move%20between%20basins.)
-
-IMAGE !!! attractors on a fitness landscape
-https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.png
-
-> "Why is government around the world in the pocket of finance and big business? Because money in politics has allowed big money to hack the political system." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=Why%20is%20government%20around%20the%20world%20in%20the%20pocket%20of%20finance%20and%20big%20business%3F%20Because%20money%20in%20politics%20has%20allowed%20big%20money%20to%20hack%20the%20political%20system.)
-
-> "We used to have a control mechanism: the will of the people as expressed through political institutions. That served as a restraint on run-away financialization and other forms of exploitation by big money. The system now has no self-restraint; it’s an out-of-control machine only optimizing on short-term money-on-money return. What is the result? Systemic fragility." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=We%20used%20to%20have%20a%20control,What%20is%20the%20result%3F%20Systemic%20fragility.)
-
-> "The number one priority for people today should be creating a winning, good attractor for our civilization." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=the%20number%20one%20priority%20for%20people%20today%20should%20be%20creating%20a%20winning%2C%20good%20attractor%20for%20our%20civilization.)
-
-> "The first couple of things that need to be done are to break the power of money in politics. That’s job one; without that, the rest of it’s impossible. And then build restraints back into the economic system. I’m not a person who speaks against the market; the market is actually a brilliant invention that creates many semi-equilibria that interoperate without much top-down decision making. It is the most effective platform found so far for real-time information sharing through the mechanism of pricing. Run correctly, it’s like a furnace that can heat our house. But the way we’re currently operating our economic system, we’ve let the fire out of the furnace, and it’s burning the house down. It’ll probably burn the whole neighborhood down if we don’t do something about it." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=The%20first%20couple,something%20about%20it.)
-
-> "So what are some things that need to be done? Build new values. Imagine if “self-actualization” becomes our number one value instead of “he who dies with the most toys wins.”" - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=So%20what%20are,most%20toys%20wins.%E2%80%9D)
-
-> "I agree with what Ralph Nader said: “The Democrats are the pro-abortion Wall Street party, and the Republicans are the anti-abortion Wall Street party.”" - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=I%20agree%20with%20what%20Ralph%20Nader%20said%3A%20%E2%80%9CThe%20Democrats%20are%20the%20pro%2Dabortion%20Wall%20Street%20party%2C%20and%20the%20Republicans%20are%20the%20anti%2Dabortion%20Wall%20Street%20party.%E2%80%9D)
 
 > "It’s part of the sucker game of the status quo to keep people’s political energy used up in surface fights about things like abortion, gay marriage, legalization of marijuana, etc. I believe all of those are important things, but they’re not fundamental; they don’t get to the institutional structure of how our society works." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=it%E2%80%99s%20part%20of,our%20society%20works.)
 
 > "If we don’t build a Game B, a “better attractor,” then when the change comes, it’s going to be to one of those bad attractors I talked about before, and I don’t think any of us wants that." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=If%20we%20don%E2%80%99t%20build%20a%20Game%20B%2C%20a%20%E2%80%9Cbetter%20attractor%2C%E2%80%9D%20then%20when%20the%20change%20comes%2C%20it%E2%80%99s%20going%20to%20be%20to%20one%20of%20those%20bad%20attractors%20I%20talked%20about%20before%2C%20and%20I%20don%E2%80%99t%20think%20any%20of%20us%20wants%20that.)
 
 
-> "If I install software, I know on some level a software engineer wrote this, but think much more implicit is that in yours and everybody's head, some political engineer, some meme-genius, installed memes in our head we can' even trace the origin of." - [Balaji Srinivasan](https://twitter.com/eriktorenberg/status/1230295332690354176)
 
 > "Currently, there's a strong disincentive for speaking the truth if it makes your in-group look worse or your out-group look better. Financial incentives help counteract those tribal incentives." - [Balaji Srinivasan](https://twitter.com/eriktorenberg/status/1227423830559248385)
 

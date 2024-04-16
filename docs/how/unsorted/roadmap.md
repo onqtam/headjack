@@ -23,6 +23,14 @@ strategy: start it centralized !!! Emulate the blockchain !!!
 
 strategy: referral links and giving status retroactively to individuals you invite 
 
+Strategy: let people help with the global brain - gaining reputation in return
+
+strategy:
+we can "import" a part of the web simply by making entries with a message type with an external URI pointing to a traditional page and then allow for commenting and voting and whatnot
+
+strategy: dogfooding the system - piping every aspect/argument/assumption of the vision through the collective sensemaking system as soon as possible and allowing for iteration on every aspect of it
+
+
 Include a way for people to add their email as early converts and put their counter globally somewhere - visibly online - up to date
 
 - the OAuth-like experience - a major selling point, web2 feel
