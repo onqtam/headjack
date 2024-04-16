@@ -105,6 +105,8 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
 
+> "A significant fraction of people want moral progress. Just as much as the technologist wants to get to Mars, a large chunk of society wants to feel like the good guys fighting in some grand cause. And if you don’t give them that cause, they’ll make one up, and/or start fighting each other." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/left-is-the-new-right-is-the-new-left#:~:text=a%20significant%20fraction%20of%20people%20want%20moral%20progress.%20Just%20as%20much%20as%20the%20technologist%20wants%20to%20get%20to%20Mars%2C%20a%20large%20chunk%20of%20society%20wants%20to%20feel%20like%20the%20good%20guys%20fighting%20in%20some%20grand%20cause.%20And%20if%20you%20don%E2%80%99t%20give%20them%20that%20cause%2C%20they%E2%80%99ll%20make%20one%20up%2C%20and/or%20start%20fighting%20each%20other.)
+
 > "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
 
 > "There is nothing we need more right now in our culture than the kind of conviction that comes from knowing at a deep level that what we do is real and genuinely matters." - [Carter Phipps](https://www.consciousevolution.co.uk/how#:~:text=There%20is%20nothing%20we%20need%20more%20right%20now%20in%20our%20culture%20than%20the%20kind%20of%20conviction%20that%20comes%20from%20knowing%20at%20a%20deep%20level%20that%20what%20we%20do%20is%20real%20and%20genuinely%20matters.)
@@ -486,6 +488,8 @@ https://www.google.com/search?q=this+is+healthy
 
 > "People never leave a sinking ship until they see the lights of another ship approaching." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1123416)
 
+> "We consider a startup society to be a new community built internet-first, premised on a societal critique of its parent community, and founded for the purpose of addressing that specific societal problem in an opt-in way – namely, by recruiting people online to voluntarily form an alternative society that shows a better way." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/the-one-commandment#:~:text=we%20consider%20a,a%20better%20way.)
+
 > "In order to change an existing paradigm you do not struggle to try and change the problematic model. You create a new model and make the old one obsolete." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/35623-in-order-to-change-an-existing-paradigm-you-do-not)
 
 > "We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings. Resistance and change often begin in art, and very often in our art, the art of words." - [Ursula K. Le Guin](https://www.goodreads.com/quotes/3238058-we-live-in-capitalism-its-power-seems-inescapable-so-did)
@@ -834,6 +838,13 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "Even God seems to create by designing incentives." - [Gordon Brander](https://twitter.com/gordonbrander/status/1700228049399148932)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: The sharing economy
+██████████████████████████████████████████████████████████████████
+
+== You will own nothing, and be happy
+Few people could predict uber and airbnb - most were extremely sceptical. The same will be true for the sharing economy
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Redistribution
 ██████████████████████████████████████████████████████████████████
 
@@ -864,6 +875,8 @@ next steps for readers: sign up for updates, contribute, etc.
 > "Remember... all I'm offering is the truth. Nothing more." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324337&ref_=ext_shr_lnk)
 
 ^^ not truth but solution
+
+> "You want to recruit producers, not consumers, and for that, you’ll need a purpose." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=You%20want%20to%20recruit%20producers%2C%20not%20consumers%2C%20and%20for%20that%2C%20you%E2%80%99ll%20need%20a%20purpose.)
 
 > "Why join the navy if you can be a pirate?" - [Steve Jobs](https://www.goodreads.com/quotes/513460-why-join-the-navy-if-you-can-be-a-pirate)
 

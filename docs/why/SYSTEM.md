@@ -122,6 +122,8 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "World War III is a guerrilla information war with no division between military and civilian participation." - [Marshall McLuhan](https://www.azquotes.com/quote/808551)
 
+Politics in its current primitive/primal form is the cancer of humanity.
+
 > "If voting changed anything, it would be illegal." - [George Carlin](https://www.azquotes.com/quote/1248100)
 
 > "When I hear a person talking about political solutions, I know I am not listening to a serious person." - [George Carlin](https://www.azquotes.com/quote/590435)
@@ -309,11 +311,13 @@ the century of the self
 La Dolce Vita in Italy: For visits to the countryside for lunch, dinner, or disco, "climate activist" Leonardo DiCaprio likes to take the helicopter from his luxury yacht, BILD reports.
 https://twitter.com/disclosetv/status/1678387920955232259
 
+> "Earth provides enough to satisfy every man's needs, but not every man's greed." - [Mahatma Gandhi](https://www.goodreads.com/quotes/30431-earth-provides-enough-to-satisfy-every-man-s-needs-but-not)
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Opaqueness & Accountability
+# SECTION: Accountability & Opaqueness
 ██████████████████████████████████████████████████████████████████
 
-
+> "Much of America’s control circuitry has evolved to live outside the formal state, thereby making it resistant to displacement by democratic election. They laud “democracy” but avoid it in practice, through dual class stock, tenure for their bureaucrats and professors, tax-exempt compounding for their foundations, and ideological purification of their organizations." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/people-of-god-people-of-the-state-people-of-the-network#:~:text=much%20of%20America%E2%80%99s,their%20organizations.)
 
 https://www.youtube.com/watch?v=e_ZDQKq2F08
 1994 - Tobacco Company CEOs Testify Before Congress

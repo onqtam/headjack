@@ -65,6 +65,22 @@ The only way to make something truly self-authenticating in perpetuity is to tim
 
 > "X should implement a feature called "On This Day." It would rewind the timeline to any given day since Twitter's founding to let you feel the pulse of the moment. A crucial tool for modern historians. This would be the "what happened" that complements "what's happening". The historical research tool that complements the real-time news service." - [Balaji Srinivasan](https://twitter.com/balajis/status/1712665522444390555)
 
+> "History is the entire record of everything humanity has done. It’s a very rich data structure that we have only begun to even think of as a data structure." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=History%20is%20the%20entire%20record%20of%20everything%20humanity%20has%20done.%20It%E2%80%99s%20a%20very%20rich%20data%20structure%20that%20we%20have%20only%20begun%20to%20even%20think%20of%20as%20a%20data%20structure.)
+
+> "History is a cryptic epic of twisting trajectories." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=history%20is%20a%20cryptic%20epic%20of%20twisting%20trajectories.)
+
+> "We are collecting the kinds of precise, quantitative, microhistorical measurements that typically led to the emergence of a new science…but at the scale of billions of people, and going into our second decade.
+>
+> So, another term for “Big Data” should be “Big History.” All data is a record of past events, sometimes the immediate past, sometimes the past of months or years ago, sometimes (in the case of Google Books or the Digital Michelangelo project) the past of decades or centuries ago. After all, what’s another word for data storage in a computer? Memory. Memory, as in the sense of human memory, and as in the sense of history." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=We%20are%20collecting,sense%20of%20history.)
+
+> "To know when states are lying or not, we need a form of truth powerful enough to stand outside any state and judge it from above. A way to respond to official statistics not with either reflexive faith or disbelief, but with dispassionate, independent calculation." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=to%20know%20when%20states%20are%20lying%20or%20not%2C%20we%20need%20a%20form%20of%20truth%20powerful%20enough%20to%20stand%20outside%20any%20state%20and%20judge%20it%20from%20above.%20A%20way%20to%20respond%20to%20official%20statistics%20not%20with%20either%20reflexive%20faith%20or%20disbelief%2C%20but%20with%20dispassionate%2C%20independent%20calculation.)
+
+> "Only a computational history can represent the full population in a statistical sense; anything else is just a biased sample." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/political-power-and-technological-truth#:~:text=only%20a%20computational%20history%20can%20represent%20the%20full%20population%20in%20a%20statistical%20sense%3B%20anything%20else%20is%20just%20a%20biased%20sample.)
+
+> "What’s the most powerful force on earth? In the 1800s, God. In the 1900s, the US military. And by the mid-2000s, encryption. Because as Assange put it, no amount of violence can solve certain kinds of math problems. So it doesn’t matter how many nuclear weapons you have; if property or information is secured by cryptography, the state can’t seize it without getting the solution to an equation." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=what%E2%80%99s%20the%20most,to%20an%20equation.)
+
+> "The computer always gives the same output given the same input code, unlike the fallible human judiciary with its error-prone (or politicized) enforcement of the law. In this sense, the Network is the next Leviathan, because on key dimensions it is becoming more powerful and more just than the State." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20computer%20always,than%20the%20State.)
+
 
 <!--
 https://en.wikipedia.org/wiki/Non-repudiation

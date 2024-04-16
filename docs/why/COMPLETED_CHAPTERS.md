@@ -75,10 +75,9 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 # SECTION: STONE TABLET IPFS CID HASH OF BOOK
 ██████████████████████████████████████████████████████████████████
 
-The beauty of hash chains is that you can’t rewrite the past
+also put the bitcoin genesis block hash on there with 15 or 16 AS (after satoshi)
 
-also put the bitcoin genesis block hash on there
-
+> "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: shared intentionality
@@ -423,9 +422,12 @@ When these principles are applied, they ensure that whatever structures are deve
 
 > "Decision markets are well suited to companies because they circumvent the problems that obstruct the flow of information at too many firms: political infighting, sycophancy, and a confusion of status with knowledge. The anonymity of the markets and the fact that they yield a relatively clear solution, while giving individuals an unmistakable incentive to uncover and act on good information, means that their potential value is genuinely hard to overestimate. Major corporate decisions should be informed by decision markets, not made by them. But when the decisions are made, it makes little sense, given everything we know about the virtues of collective decision making and about the importance of diversity, to concentrate power in the hands of one person. In fact, the more important the decision, the more important it is that it not be left in the hands of a single person." - [The Wisdom of Crowds, by James Surowiecki](https://www.sweetstudy.com/files/jamessurowiecki-thewisdomofcrowds-anchor2005-pdf#:~:text=Decision%20markets%20are%20well,of%20a%20single%20person.)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Error Correction
+██████████████████████████████████████████████████████████████████
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Emergence & Metasystem Transitions
-██████████████████████████████████████████████████████████████████
+> "Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove rulers or policies without violence when they are." - [David Deutsch](https://www.goodreads.com/quotes/7684716-good-political-institutions-are-those-that-make-it-as-easy)
+
+> "Without error-correction all information processing, and hence all knowledge-creation, is necessarily bounded. Error-correction is the beginning of infinity." - [David Deutsch](https://www.goodreads.com/quotes/9507955-without-error-correction-all-information-processing-and-hence-all-knowledge-creation-is)
 
 

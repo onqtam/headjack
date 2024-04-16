@@ -122,6 +122,8 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "One believes things because one has been conditioned to believe them." - [Aldous Huxley](https://www.goodreads.com/quotes/244019-one-believes-things-because-one-has-been-conditioned-to-believe)
 
+> "The Soviets had a state-controlled press, but America now had a press-controlled state." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/people-of-god-people-of-the-state-people-of-the-network#:~:text=The%20Soviets%20had%20a%20state%2Dcontrolled%20press%2C%20but%20America%20now%20had%20a%20press%2Dcontrolled%20state.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Advertising
 ██████████████████████████████████████████████████████████████████
