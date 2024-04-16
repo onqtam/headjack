@@ -206,6 +206,23 @@ Unbreaking America: Solving the Corruption Crisis
 
 > "We are led by the least among us - the least intelligent, the least noble, the least visionary. We are led by the least among us and we do not fight back against the dehumanizing values that are handed down as control icons." - [Terence McKenna](https://www.azquotes.com/quote/1277985)
 
+"Don't look up" but in real life
+https://www.imdb.com/title/tt11286314/
+We can literally find ourselves in the situation of the movie dont look up
+“Don't look up” is a diagnosis
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Money
+██████████████████████████████████████████████████████████████████
+
+> "Why is government around the world in the pocket of finance and big business? Because money in politics has allowed big money to hack the political system." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=Why%20is%20government%20around%20the%20world%20in%20the%20pocket%20of%20finance%20and%20big%20business%3F%20Because%20money%20in%20politics%20has%20allowed%20big%20money%20to%20hack%20the%20political%20system.)
+
+> "We used to have a control mechanism: the will of the people as expressed through political institutions. That served as a restraint on run-away financialization and other forms of exploitation by big money. The system now has no self-restraint; it’s an out-of-control machine only optimizing on short-term money-on-money return. What is the result? Systemic fragility." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=We%20used%20to%20have%20a%20control,What%20is%20the%20result%3F%20Systemic%20fragility.)
+
+> "The first couple of things that need to be done are to break the power of money in politics. That’s job one; without that, the rest of it’s impossible. And then build restraints back into the economic system. I’m not a person who speaks against the market; the market is actually a brilliant invention that creates many semi-equilibria that interoperate without much top-down decision making. It is the most effective platform found so far for real-time information sharing through the mechanism of pricing. Run correctly, it’s like a furnace that can heat our house. But the way we’re currently operating our economic system, we’ve let the fire out of the furnace, and it’s burning the house down. It’ll probably burn the whole neighborhood down if we don’t do something about it." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=The%20first%20couple,something%20about%20it.)
+
+> "I agree with what Ralph Nader said: “The Democrats are the pro-abortion Wall Street party, and the Republicans are the anti-abortion Wall Street party.”" - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=I%20agree%20with%20what%20Ralph%20Nader%20said%3A%20%E2%80%9CThe%20Democrats%20are%20the%20pro%2Dabortion%20Wall%20Street%20party%2C%20and%20the%20Republicans%20are%20the%20anti%2Dabortion%20Wall%20Street%20party.%E2%80%9D)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Destructive global competition
 ██████████████████████████████████████████████████████████████████
@@ -322,6 +339,8 @@ La Dolce Vita in Italy: For visits to the countryside for lunch, dinner, or disc
 https://twitter.com/disclosetv/status/1678387920955232259
 
 > "Earth provides enough to satisfy every man's needs, but not every man's greed." - [Mahatma Gandhi](https://www.goodreads.com/quotes/30431-earth-provides-enough-to-satisfy-every-man-s-needs-but-not)
+
+> "So what are some things that need to be done? Build new values. Imagine if “self-actualization” becomes our number one value instead of “he who dies with the most toys wins.”" - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=So%20what%20are,most%20toys%20wins.%E2%80%9D)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Accountability & Opaqueness
