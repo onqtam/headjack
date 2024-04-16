@@ -96,6 +96,12 @@ https://www.edge.org/response-detail/27098
 
 > "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
 
+> "Our aim as scientists is objective truth; more truth, more interesting truth, more intelligible truth. We cannot reasonably aim at certainty. Once we realize that human knowledge is fallible, we realize also that we can never be completely certain that we have not made a mistake." - [Karl Popper](https://www.goodreads.com/quotes/770441-our-aim-as-scientists-is-objective-truth-more-truth-more)
+
+> "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
+
+> "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
+
 > "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
 
 TODO: the good regulator theorem (aka the Internal Model Principle) by Ross Ashby - any system that regulates/controls another system must have a model of that system ==> organisms model their environment
@@ -129,6 +135,7 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 # SECTION: Goal directedness
 ██████████████████████████████████████████████████████████████████
 
+> "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
 
 
 

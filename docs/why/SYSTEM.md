@@ -311,6 +311,13 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 
 the century of the self
 
+> "Reject the basic assumptions of civilization, especially the importance of material possessions." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/101141-reject-the-basic-assumptions-of-civilization-especially-the-importance-of)
+
+> "You buy furniture. You tell yourself, this is the last sofa I will ever need in my life. Buy the sofa, then for a couple years you're satisfied that no matter what goes wrong, at least you've got your sofa issue handled. Then the right set of dishes. Then the perfect bed. The drapes. The rug. Then you're trapped in your lovely nest, and the things you used to own, now they own you." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/12892-you-buy-furniture-you-tell-yourself-this-is-the-last)
+
+> "Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history. No purpose or place. We have no Great War, No Great Depression. Our great war is a spiritual war. Our great depression is our lives." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/747996-advertising-has-us-chasing-cars-and-clothes-working-jobs-we)
+
+
 > "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
 
 > "Possessions, outward success, publicity, luxury - to me these have always been contemptible. I believe that a simple and unassuming manner of life is best for everyone, best for both the body and the mind." - [Albert Einstein](https://www.goodreads.com/quotes/119882-possessions-outward-success-publicity-luxury---to-me-these-have)

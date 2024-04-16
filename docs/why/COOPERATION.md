@@ -13,11 +13,11 @@
 > "The competition between the two forces can be succinctly expressed as follows: Within groups selfish individuals beat altruistic individuals, but groups of altruists beat groups of selfish individuals. Or, risking oversimplification, individual selection promoted sin, while group selection promoted virtue." - [Edward O. Wilson](https://www.goodreads.com/quotes/3233345-the-competition-between-the-two-forces-can-be-succinctly-expressed)
 
 ^^ but altruism & group selection are not stable - we need consequence capture & managers
+cooperation does not evolve easily
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
-
 
 > "Nature promotes cooperation, collaboration, and synergy because it is thermodynamically beneficial for all parties, and for that reason, synergistic collective configurations will eventually be discovered by any many-component system that is exploring various states or configurations through the blind-variation-and-selective-retention mechanism. Organisms only compete until they finally figure out that working together makes everyone’s task easier, and that goes for humans too." - [Bobby Azarian]()
 
