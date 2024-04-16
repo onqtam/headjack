@@ -7,6 +7,9 @@
 
 > "The tech companies that greenlight transactions, communications, and online behavior have in many ways become the de facto privatized governments of the Western world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=the%20tech%20companies%20that%20greenlight%20transactions%2C%20communications%2C%20and%20online%20behavior%20have%20in%20many%20ways%20become%20the%20de%20facto%20privatized%20governments%20of%20the%20Western%20world.)
 
+> "Facebook and Twitter have succeeded beyond anyone’s expectations, yet they weren’t set up to be governments. People didn’t consciously sign a social contract to be governed by them. Facebook and Twitter grew to take over much of people’s lives, but have no concept of digital property rights. Seizures and silencing weren’t part of the bargain." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Facebook%20and%20Twitter,of%20the%20bargain.)
+
+
 ██████████████████████████████████████████████████████████████████
 # security & can't be evil
 ██████████████████████████████████████████████████████████████████

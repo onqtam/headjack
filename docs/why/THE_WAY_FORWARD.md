@@ -97,6 +97,9 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "The only myth that’s going to be worth thinking about in the immediate future is one that’s talking about the planet. Not this city, not these people, but the planet and everybody on it. That’s my main thought for what the future myth is going to be. And what it will have to deal with will be exactly what all myths have dealt with: the maturation of the individual, the gradual, pedagogical way to follow, from dependency through adulthood to maturity, and then to the exit and how to do it. And then how to relate to this society, and how to relate this society to the world of nature and the cosmos. That’s what the myths have all talked about; that’s what this one’s got to talk about. But the society that it’s going to talk about is the society of the planet, and until that gets going, you don’t have anything." - [Joseph Campbell](https://www.organism.earth/library/document/power-of-myth-1#:~:text=the%20only%20myth,Moyers)
 
+> "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/16300-our-scientific-power-has-outrun-our-spiritual-power-we-have)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
 ██████████████████████████████████████████████████████████████████
@@ -122,6 +125,12 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "Physics is like sex: sure, it may give some practical results, but that's not why we do it." - [Richard Feynman](https://www.goodreads.com/quotes/117534-physics-is-like-sex-sure-it-may-give-some-practical)
 
 > "Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself." - [James Gleick](https://www.goodreads.com/quotes/427523-every-new-medium-transforms-the-nature-of-human-thought-in)
+
+> "Not everybody can be famous but everybody can be great, because greatness is determined by service." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/147771-not-everybody-can-be-famous-but-everybody-can-be-great)
+
+> "Life's most persistent and urgent question is, 'What are you doing for others?'" - [Martin Luther King Jr.](https://www.azquotes.com/quote/158997)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Time preference expansion
@@ -230,8 +239,23 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Fairness
+# SECTION: Fairness & justice
 ██████████████████████████████████████████████████████████████████
+
+> "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
+
+Computing the rules-based order
+
+The global norms-based order
+
+It's up to us to create the rules-based order
+
+There’s effectively no international rules based order
+
+We need to reimplement the “rules-based international order”
+UH - united humanity
+
+We should all want a neutral rules-based global world order - one that is truly collective
 
 The fairness protocol - transparency, accountability, skin in the game, inquiry
 
@@ -255,6 +279,11 @@ https://pubmed.ncbi.nlm.nih.gov/17214308/
 
 satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 
+> "It’s important the networks we live in serve our best interests. With blockchains emerging as the new global infrastructure, we have the opportunity to create vastly different power structures and program the future we want for ourselves." - [Blockchain Governance: Programming Our Future](https://fehrsam.xyz/blog/blockchain-governance-programming-our-future#:~:text=It%E2%80%99s%20important%20the%20networks%20we%20live%20in%20serve%20our%20best%20interests.%20With%20blockchains%20emerging%20as%20the%20new%20global%20infrastructure%2C%C2%A0we%20have%20the%20opportunity%20to%20create%20vastly%20different%20power%20structures%20and%20program%20the%20future%20we%20want%20for%20ourselves.)
+
+> "Injustice anywhere is a threat to justice everywhere." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158995)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Compassion
@@ -272,6 +301,9 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 
 > "In order for a world-around democracy to prosper, world society must learn how to prosper." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716551)
 
+> "It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.'" - [Aldous Huxley](https://www.goodreads.com/quotes/9861-it-is-a-bit-embarrassing-to-have-been-concerned-with)
+
+> "In the end ... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
@@ -909,6 +941,8 @@ next steps for readers: sign up for updates, contribute, etc.
 > "Why join the navy if you can be a pirate?" - [Steve Jobs](https://www.goodreads.com/quotes/513460-why-join-the-navy-if-you-can-be-a-pirate)
 
 > "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." - [Steve Jobs](https://www.goodreads.com/quotes/924-here-s-to-the-crazy-ones-the-misfits-the-rebels-the)
+
+> "If not us, who? If not now, when?" - [John F. Kennedy](https://www.goodreads.com/quotes/881019-if-not-us-who-if-not-now-when)
 
 > "Go big, because we all go home." - [Naval Ravikant](https://twitter.com/naval/status/1714119368358207872)
 

@@ -45,6 +45,7 @@ https://prnt.sc/o5LZhIhNqIFX
 
 > "All human groups frown on, make pronouncements against, and punish the following: murder, undue use of authority, cheating that harms group cooperation, major lying, theft, and socially disruptive sexual behavior. These basic rules of conduct appear to be human universals." - [Christopher Boehm](https://www.goodreads.com/quotes/11025360-all-human-groups-frown-on-make-pronouncements-against-and-punish)
 
+> "The arc of the moral universe is long but it bends toward cooperation." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Constraints

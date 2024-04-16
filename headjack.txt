@@ -501,8 +501,6 @@ Missions - the building block of cooperation
 
 we need to get the expertise and thoughts of people out of their heads and/or scattered & fragmented media and fuse them and make them accessible & explorable in the global brain
 
-There’s effectively no international rules based order
-
 A global news feed for any topic
 
 how the saussage is made when it comes to legitimacy - full raceability & accountability/transparency
@@ -533,8 +531,6 @@ The global reputation arena - the global skill exhibition arena
 
 Describe a perfect world and ask “Why don’t we crowdsource what we want, and after that how do we think we could get it?”
 Civilisational relevance realization
-
-We should all want a neutral rules-based global world order - one that is truly collective
 
 If we export the competence of people in a trust-building and quantifiable way, we will get the best people. And people should want to compete to be the best
 
@@ -1033,8 +1029,6 @@ We need a competing signal to the money-on-money return paradigm
 "The greatest fallacy of democracy is that everyone's opinion is worth the same." - Robert A. Heinlein
 
 We need a distributed system that fact-checks the fact-checkers
-
-Computing the rules-based order
 
 We need to convert status-seeking through excessive consumption to recognition for contribution - we need to reward the contributors - the altruists
 
@@ -1905,8 +1899,6 @@ Capitalism is suffering from opacity
 
 Transparency and openness are the soul of cooperation
 
-It's up to us to create the rules-based order
-
 What if we could compute concepts? What if the degree of recursion was the "stepen"? Relevance realization squared means two levels of recursion.
 
 Psychedelics can be a tool for change - making evolution more conscious
@@ -2586,8 +2578,6 @@ How do we continually answer each new pressing problem as best as possible forev
 
 What shouldn't we be divided on?
 
-The global norms-based order
-
 We are universal problem solvers - we are the singularity in evolution
 
 There’s a new status game in town
@@ -3046,9 +3036,6 @@ We need to put the humans first
 Collectively programming humanity
 
 We need to take back control over how the epistemic sausage is made
-
-We need to reimplement the “rules-based international order”
-UH - united humanity
 
 The terms of the debt jubilee will be dictated by the global brain
 
@@ -3980,8 +3967,6 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "The Network here is a candidate for the most powerful force in the world, where the Leviathan in the Hobbesian sense is not divinity (God) or military (the State) but community and cryptography (Network)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20Network%20here%20is%20a%20candidate%20for%20the%20most%20powerful%20force%20in%20the%20world%2C%20where%20the%20Leviathan%20in%20the%20Hobbesian%20sense%20is%20not%20divinity%20(God)%20or%20military%20(the%20State)%20but%20community%20and%20cryptography%20(Network).)
 
-> "Facebook and Twitter have succeeded beyond anyone’s expectations, yet they weren’t set up to be governments. People didn’t consciously sign a social contract to be governed by them. Facebook and Twitter grew to take over much of people’s lives, but have no concept of digital property rights. Seizures and silencing weren’t part of the bargain." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Facebook%20and%20Twitter,of%20the%20bargain.)
-
 > "Assuming you could get access to a global dataset like Facebook or Twitter’s network (or scrape it), you could turn all philosophical disputes about what a nation is into simply a set of parameter choices. That means a nation is a subnetwork in a global social graph." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Assuming%20you%20could%20get%20access%20to%20a%20global%20dataset%20like%20Facebook%20or%20Twitter%E2%80%99s%20network%20(or%20scrape%20it)%2C%20you%20could%20turn%20all%20philosophical%20disputes%20about%20what%20a%20nation%20is%20into%20simply%20a%20set%20of%20parameter%20choices.%20That%20means%20a%20nation%20is%20a%20subnetwork%20in%20a%20global%20social%20graph.)
 
 > "Just as the ability to start new currencies moved us from observational to empirical macroeconomics, the ability to start new countries takes us from the realm of political science — the study of what is — to political technology, the engineering of what can be." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Just%20as%20the%20ability%20to%20start%20new%20currencies%20moved%20us%20from%20observational%20to%20empirical%20macroeconomics%2C%20the%20ability%20to%20start%20new%20countries%20takes%20us%20from%20the%20realm%20of%20political%20science%20%E2%80%94%20the%20study%20of%20what%20is%20%E2%80%94%20to%20political%20technology%2C%20the%20engineering%20of%20what%20can%20be.)
@@ -3990,93 +3975,21 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "The Internet is to the USA as the Americas were to the UK: a wide open territory that ultimately gave birth to new states and ways of thinking." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=the%20Internet%20is%20to%20the%20USA%20as%20the%20Americas%20were%20to%20the%20UK%3A%20a%20wide%20open%20territory%20that%20ultimately%20gave%20birth%20to%20new%20states%20and%20ways%20of%20thinking.)
 
+> "The Internet is to America what America was to Britain. A frontier territory that will ultimately succeed even its worthy progenitor." - [Balaji](https://twitter.com/balajis/status/1774529076742754328)
 
 
 
 
-
-
-> "It’s important the networks we live in serve our best interests. With blockchains emerging as the new global infrastructure, we have the opportunity to create vastly different power structures and program the future we want for ourselves." - [Blockchain Governance: Programming Our Future](https://fehrsam.xyz/blog/blockchain-governance-programming-our-future#:~:text=It%E2%80%99s%20important%20the%20networks%20we%20live%20in%20serve%20our%20best%20interests.%20With%20blockchains%20emerging%20as%20the%20new%20global%20infrastructure%2C%C2%A0we%20have%20the%20opportunity%20to%20create%20vastly%20different%20power%20structures%20and%20program%20the%20future%20we%20want%20for%20ourselves.)
-
-
-
-
-
-
-
-
-
-
-
-
-> "To have done great things together, to want to do more, such are the essential conditions to form a people. . . . Man is not a slave to his race, or his tongue, or his religion." - [Ernest Renan](https://www.goodreads.com/quotes/9059260-to-have-done-great-things-together-to-want-to-do)
-
-
-
-
-> "One of the biggest surprises of my adult life is how unethical reporters are. In movies they're always the good guys." - [Paul Graham](https://twitter.com/paulg/status/1461633512344326146)
 
 > "I just moused over someone's name in GMail to see how many followers he had." - [Paul Graham](https://twitter.com/paulg/status/1726942891426410950)
 ^^ fragmented identity
-
-
-> "Never argue with a man who buys ink by the barrel." - [Roger Branigin](https://quoteinvestigator.com/2018/04/24/ink/)
-
-
-
-
-> "The arc of the moral universe is long but it bends toward cooperation." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
-
-> "Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/50291-every-man-must-decide-whether-he-will-walk-in-the)
-
-> "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/15696-an-individual-has-not-started-living-until-he-can-rise)
-
-> "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/16300-our-scientific-power-has-outrun-our-spiritual-power-we-have)
-
-> "Not everybody can be famous but everybody can be great, because greatness is determined by service." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/147771-not-everybody-can-be-famous-but-everybody-can-be-great)
-
-> "Injustice anywhere is a threat to justice everywhere." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158995)
-
-> "Life's most persistent and urgent question is, 'What are you doing for others?'" - [Martin Luther King Jr.](https://www.azquotes.com/quote/158997)
-
-> "The best way to solve any problem is to remove its cause." - [Martin Luther King Jr.](https://www.azquotes.com/quote/536745)
 
 > "Darkness cannot drive out darkness; only light can do that." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158968)
 
 
 
-> "This country cannot afford to be materially rich and spiritually poor." - [John F. Kennedy](https://www.azquotes.com/quote/536350)
-
-> "Mankind must put an end to war - or war will put an end to mankind." - [John F. Kennedy](https://www.goodreads.com/quotes/118124-mankind-must-put-an-end-to-war---or-war)
-
-> "If not us, who? If not now, when?" - [John F. Kennedy](https://www.goodreads.com/quotes/881019-if-not-us-who-if-not-now-when)
-
-
-
-
-
-
-
-> "And I really regret that Twitter has not taken the turn that I was hoping for. I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9666)
-
-> "I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9670)
-
-> "Humanity has no concept of submitting to reason and duty to life and future survival. We will run until we step past the cliff." - [Joscha Bach](https://twitter.com/Plinz/status/1663916782640308227)
-
-
-
 
 > "the past was all about networked computers; the future is all about networked data structures" - [@syntacrobat](https://twitter.com/syntacrobat/status/1693446789943160984)
-
-
-
-
-
-
-How do we figure out what person X recommends as books? Is there a way to get a disambiguated up-to-date list? No. So we browse stale pages like these:
-https://fs.blog/knowledge-project-podcast/naval-ravikant/#books-mentioned
-https://balajianthology.com/balajis-recommended-reading
-https://civilizationemerging.com/books/
 
 
 Wherever we turn our attention, things should improve
@@ -4103,10 +4016,6 @@ tallying strategy - how to count the votes
 
 We can use reputation and incentives to solve collective action problems - the system is flexible enough to design any type of incentive
 https://en.wikipedia.org/wiki/Collective_action_theory
-
-observer... depends who he is - about any score/prism
-
-Problem: much harder to have 1 person 1 phone number with many IDMs
 
 We get more of what we reward
 
@@ -4137,8 +4046,6 @@ Not having unrestricted programmatic access to the public commons is an intellec
 > "The competition between the two forces can be succinctly expressed as follows: Within groups selfish individuals beat altruistic individuals, but groups of altruists beat groups of selfish individuals. Or, risking oversimplification, individual selection promoted sin, while group selection promoted virtue." - [Edward O. Wilson](https://www.goodreads.com/quotes/3233345-the-competition-between-the-two-forces-can-be-succinctly-expressed)
 
 > "The most dangerous worldview is the worldview of those who have not viewed the world." - [Edward O. Wilson](https://www.goodreads.com/quotes/9082954-the-most-dangerous-worldview-is-the-worldview-of-those-who)
-
-> "In the end ... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
 
 > "Human nature is deeper and broader than the artificial contrivance of any existing culture." - [Edward O. Wilson](https://www.goodreads.com/quotes/17735-human-nature-is-deeper-and-broader-than-the-artificial-contrivance)
 
