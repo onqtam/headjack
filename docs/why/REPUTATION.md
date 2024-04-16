@@ -299,6 +299,7 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 
 > "The solution also doesn’t lie in ignoring that humans are wired to pursue social capital. In fact, overlooking this fundamental aspect of human nature arguably landed us here, at the end of this first age of social network goliaths, wondering where it all went haywire. If we think of these networks as marketplaces trading only in information, and not in status, then we're only seeing part of the machine." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=the%20solution%20also,of%20the%20machine.)
 
+> "Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat." - [Charlie Munger](https://www.goodreads.com/quotes/7238535-remember-that-reputation-and-integrity-are-your-most-valuable-assets-and)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other

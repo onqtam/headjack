@@ -92,6 +92,13 @@ The opposite of divide and conquer is integration
 
 Who benefits the most from fractured & incoherent epistemic commons and uncoordinated & uneducated masses?
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Availability cascades
+██████████████████████████████████████████████████████████████████
+
+> "The great algorithm to remember in dealing with this tendency is simple: an idea or a fact is not worth more merely because it’s easily available to you." - [Charlie Munger](https://www.goodreads.com/quotes/7264450-the-great-algorithm-to-remember-in-dealing-with-this-tendency)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Power of language
