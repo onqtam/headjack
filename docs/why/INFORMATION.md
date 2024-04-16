@@ -47,6 +47,8 @@ remove bannon quote - or at least his name
 
 Steve Bannon's infamous quote [`"to flood the zone with $#it"`](https://edition.cnn.com/2021/11/16/media/steve-bannon-reliable-sources/index.html) perhaps best describes today's information landscape. Language is unbelievably complex and contains a lot of implied & assumed meaning. Almost nothing is properly interlinked and there's a crisis of fragmentation, duplication & lack of provenance. Data is hard to process, aggregate & classify unambiguously and we have reached the [spamgularity](https://twitter.com/DanielleFong/status/1622315719298883584) with the recent advancements in LLMs:
 
+> "But if thought corrupts language, language can also corrupt thought." - [George Orwell](https://www.goodreads.com/quotes/72144-but-if-thought-corrupts-language-language-can-also-corrupt-thought)
+
 > "Speech as proof of work is dead." - [Gordon Brander](https://twitter.com/gordonbrander/status/1622999277411741698)
 
 When all you have is language, it becomes the hammer and everything else a nail. Furthermore:

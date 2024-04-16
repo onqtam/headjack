@@ -37,6 +37,11 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "Not enough suppliers, not enough demanders, imperfect information, asymmetric information, moral hazard, externalities, and transaction costs. These are the most typical market failures. They tend to be the ones that need to be regulated away." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Not%20enough%20suppliers%2C%20not%20enough%20demanders%2C%20imperfect%20information%2C%20asymmetric%20information%2C%20moral%20hazard%2C%20externalities%2C%20and%20transaction%20costs.%20These%20are%20the%20most%20typical%20market%20failures.%20They%20tend%20to%20be%20the%20ones%20that%20need%20to%20be%20regulated%20away.)
 
+Manufactured demand coupled with markets breaks the purpose of an economy
+
+According to John Stewart mercantilism was the main driver behind the Enlightenment.
+It incentivized the development of rational cognition
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Governance & how broken it is
 ██████████████████████████████████████████████████████████████████
@@ -81,6 +86,10 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 > "The Islamic Republic of Iran was today appointed Chair of the U.N. Human Rights Council Social Forum. This year's theme is technology and promotion of human rights; Iran just hanged Yousef Mehrad and Sadrollah Fazeli Zare for using social media to criticize religion." - [Hillel Neuer](https://twitter.com/HillelNeuer/status/1656276696117460994)
 
 ^^ Thank God for the UN
+
+> "Politicians should wear sponsor jackets like Nascar drivers, then we know who owns them." - [Robin Williams](https://quotepark.com/quotes/2092802-robin-williams-politicians-should-wear-sponsor-jackets-like-nasca/)
+
+> "Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other." - [Oscar Ameringer](https://www.goodreads.com/quotes/415646-politics-is-the-gentle-art-of-getting-votes-from-the)
 
 
 > "I smoke. If this bothers anyone, I suggest you look around at the world in which we live and shut your fuckin' mouth." - [Bill Hicks](https://www.goodreads.com/quotes/501200-i-smoke-if-this-bothers-anyone-i-suggest-you-look)
@@ -157,6 +166,7 @@ Unbreaking America: Solving the Corruption Crisis
 
 > "Armaments, universal debt, and planned obsolescence—those are the three pillars of Western prosperity." - [Aldous Huxley](https://www.goodreads.com/quotes/14210-armaments-universal-debt-and-planned-obsolescence-those-are-the-three-pillars)
 
+> "The evil of aristocracy is not that it necessarily leads to the infliction of bad things or the suffering of sad ones; the evil of aristocracy is that it places everything in the hands of a class of people who can always inflict what they never suffer." - [G.K. Chesterton](https://www.goodreads.com/quotes/9067926-the-evil-of-aristocracy-is-not-that-it-necessarily-leads)
 
 > "With great power, comes power to avoid responsibility." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1720575694886072697)
 
@@ -415,4 +425,11 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 > "Can we survive technology?" - [John von Neumann](https://www.goodreads.com/quotes/9193285-can-we-survive-technology)
 
 > "I am thinking about something much more important than bombs. I am thinking about computers." - [John von Neumann](https://www.azquotes.com/quote/1386902)
+
+> "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
+
+> "The most dangerous worldview is the naive progress narrative, expressed as techno and capitalist optimism." - [Daniel Schmachtenberger](https://youtu.be/-McfN9r8DzI?t=2000)
+
+> "Our current systems are perfectly organized to result in the self-organization of the destruction of human civilization." - [John Stewart](https://youtu.be/ftuY7BIzn9M?&t=6312)
+
 

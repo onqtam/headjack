@@ -245,6 +245,9 @@ Concern:
 https://twitter.com/nikitabier/status/1246438096758927360
 
 
+concern: permanent record
+
+
 
 # TODO:
 
