@@ -5,10 +5,14 @@
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Cooperation
+# SECTION: Altruism
 ██████████████████████████████████████████████████████████████████
 
-> "We’d be wiser to negotiate a social contract that puts us in a positive-sum game: neither gets to harm the other, and both are encouraged to help the other." - [Steven pinker](https://www.goodreads.com/quotes/9102934-if-my-starting-offer-is-i-get-to-rob-beat#:~:text=We%E2%80%99d%20be%20wiser%20to%20negotiate%20a%20social%20contract%20that%20puts%20us%20in%20a%20positive%2Dsum%20game%3A%20neither%20gets%20to%20harm%20the%20other%2C%20and%20both%20are%20encouraged%20to%20help%20the%20other.)
+> "Altruism is not an improbable achievement against the individualizing forces of natural selection; rather, it is an integral part of the social lives of all beings that live with others interdependently—up to a (mathematical) point." - [Michael Tomasello](https://www.goodreads.com/quotes/10710208-altruism-is-not-an-improbable-achievement-against-the-individualizing-forces)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Cooperation
+██████████████████████████████████████████████████████████████████
 
 
 > "Nature promotes cooperation, collaboration, and synergy because it is thermodynamically beneficial for all parties, and for that reason, synergistic collective configurations will eventually be discovered by any many-component system that is exploring various states or configurations through the blind-variation-and-selective-retention mechanism. Organisms only compete until they finally figure out that working together makes everyone’s task easier, and that goes for humans too." - [Bobby Azarian]()
@@ -104,4 +108,6 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 > "So self-interest is good as long as its contained by the self-interest of a community. You see, that makes us always be aware of other levels. If we can learn this as humans to say when we're making a decision: Is this good for me, my family, for my ecosystem, for my nation for my world? And then if it's good at some levels and at least harmless at others, like the Hippocratic oath “Do No Harm” then go ahead and try it. You're a creative human being." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=So%20self%2Dinterest,creative%20human%20being.)
 
 > "Consequence capture - so basically what governance does is reflect back onto the individuals of the collective the consequences of their actions on the collective as a whole. If an individual within a collective - a cell in your body for example - does something to harm your body, then the governance will reflect that back on the individual cell and harm the cell. Similarly for anything beneficial." - [John Stewart](https://youtu.be/XFqjbuYczc8?t=2198)
+
+> "We’d be wiser to negotiate a social contract that puts us in a positive-sum game: neither gets to harm the other, and both are encouraged to help the other." - [Steven pinker](https://www.goodreads.com/quotes/9102934-if-my-starting-offer-is-i-get-to-rob-beat#:~:text=We%E2%80%99d%20be%20wiser%20to%20negotiate%20a%20social%20contract%20that%20puts%20us%20in%20a%20positive%2Dsum%20game%3A%20neither%20gets%20to%20harm%20the%20other%2C%20and%20both%20are%20encouraged%20to%20help%20the%20other.)
 

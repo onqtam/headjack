@@ -24,6 +24,11 @@ This is an incredibly hairy topic with many aspects - here are just a few of the
 - There is no way for users to "fork" a Reddit community if they no longer agree with the way moderation is happening - they have to recreate a new subreddit from scratch.
 - There is no market for solving certain types of spam such as financial scams - Twitter & YouTube are riddled with templatized messages and their internal [vertically integrated](TODO.md#vertical-integration-vs-specialization--competition) teams are unable to deal with yet another problem in a world-class manner. In an open system such as email the competition & innovation for solving spam has been tremendous.
 
+> "The nature of search and recommendation algorithms is such that most YouTube viewers, who would be rightly concerned and outraged about videos of child exploitation, never even see the videos that need to be reported. In other words, YouTube’s design makes its attempt to leverage the Internet broadly as moderator doomed to fail." - [Ben Thompson](https://stratechery.com/2017/the-pollyannish-assumption/#:~:text=the%20nature%20of,doomed%20to%20fail.)
+
+^^ TODO: WHAT IF we retroactively give negative points to those that have interacted with bad content but didn't report it?
+https://www.buzzfeednews.com/article/charliewarzel/youtube-is-addressing-its-massive-child-exploitation-problem
+
 
 > "Another possible approach is to use a prediction market where users can upvote/downvote whether posts comply or not with guidelines. A final arbitrator that is occasionally called to clear the market." - [Federico Ast](https://twitter.com/federicoast/status/1415652757873254406)
 
