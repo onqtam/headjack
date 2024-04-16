@@ -308,6 +308,8 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 "Backchannel references as a service - Pay money, get a reference. Give a reference, get paid (as long as your reference is desired) If you're seeking a reference, you only pay if we find you someone you want to talk to"
 ^^ this but with ZK
 
+> "Currently, there's a strong disincentive for speaking the truth if it makes your in-group look worse or your out-group look better. Financial incentives help counteract those tribal incentives." - [Balaji Srinivasan](https://twitter.com/eriktorenberg/status/1227423830559248385)
+
 > "One of the best ways to achieve justice is to expose injustice." - [Julian Assange](https://twitter.com/ancapquotes/status/1721422177029804235)
 
 We need to be able to bet on anything (DO WE?)
