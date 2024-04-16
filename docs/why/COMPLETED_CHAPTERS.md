@@ -28,6 +28,10 @@ https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
 > "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
+> "I never allow myself to hold an opinion on anything that I don't know the other side's argument better than they do." - [Charlie Munger](https://www.goodreads.com/quotes/7447184-i-never-allow-myself-to-hold-an-opinion-on-anything)
+
+> "We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side." - [Charlie Munger](https://www.goodreads.com/quotes/12934-we-all-are-learning-modifying-or-destroying-ideas-all-the)
+
 > "I believe this topic of Internet disagreement is the single most important problem of humankind. Why? Because exchanging ideas is how we make decisions in society, and how we make decisions drives everything else. If we can do that efficiently, humankind will solve every other problem more efficiently." - [Debate Is Broken. How to Improve It, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken#:~:text=I%20believe%20this,problem%20more%20efficiently.)
 
 Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will China and the US Go to War?" in an Oxford-style debate in his ["Debate Is Broken. How to Improve It"](https://unchartedterritories.tomaspueyo.com/p/debate-is-broken) piece.

@@ -11,6 +11,8 @@
 
 > "History is written by the victors." - unknown
 
+> "There is no better teacher than history in determining the future... There are answers worth billions of dollars in 30$ history book." - [Charlie Munger](https://www.goodreads.com/quotes/1399539-there-is-no-better-teacher-than-history-in-determining-the)
+
 > "Historical amnesia is a dangerous phenomenon not only because it undermines moral and intellectual integrity but also because it lays the groundwork for crimes that still lie ahead." - [Noam Chomsky](https://www.goodreads.com/quotes/7649756-historical-amnesia-is-a-dangerous-phenomenon-not-only-because-it)
 
 > "That men do not learn very much from the lessons of history is the most important of all the lessons of history." - [Aldous Huxley](https://www.azquotes.com/quote/139992)

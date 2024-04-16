@@ -355,10 +355,14 @@ https://www.youtube.com/watch?v=e_ZDQKq2F08
 
 Philip morris Indonesia kids
 
+> "An example of a really responsible system is the system the Romans used when they built an arch. The guy who created the arch stood under it as the scaffolding was removed. It’s like packing your own parachute." - [Charlie Munger](https://www.goodreads.com/quotes/7336729-an-example-of-a-really-responsible-system-is-the-system)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
+
+> "WAR is a racket. It always has been. It is possibly the oldest, easily the most profitable, surely the most vicious. It is the only one international in scope. It is the only one in which the profits are reckoned in dollars and the losses in lives." - [Smedley D. Butler](https://www.goodreads.com/quotes/816646-war-is-a-racket-it-always-has-been-it-is)
 
 > "It's not radical Islam that worries the US - it's independence." - [Noam Chomsky](https://www.goodreads.com/quotes/343018-it-s-not-radical-islam-that-worries-the-us----it-s)
 
@@ -421,6 +425,9 @@ Philip morris Indonesia kids
 # SECTION: Incentives 
 ██████████████████████████████████████████████████████████████████
 
+> "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
+
+> "The iron rule of nature is: you get what you reward for. If you want ants to come, you put sugar on the floor." - [Charlie Munger](https://www.goodreads.com/quotes/7220279-the-iron-rule-of-nature-is-you-get-what-you)
 
 > "To attract the sharpest minds to science, drive the returns from sharp elbows towards zero." - [Eric Weinstein](https://twitter.com/EricRWeinstein/status/6677778275)
 
