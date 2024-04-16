@@ -134,6 +134,12 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 we can - and should - manifest the first major intentional evolutionary step for life on earth
 
+> "Natural selection, this all-powerful driving force of biological evolution, has privileged in our genes traits that were immediately favorable to the survival and proliferation of our ancestors, under the conditions that prevailed there and then, with no regard for later consequences. This is intrinsic to the process of natural selection, which sees only the immediate present and does not foresee the future." - [Christian de Duve](https://www.goodreads.com/quotes/9467469-natural-selection-this-all-powerful-driving-force-of-biological-evolution-has), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
+> "We enjoy the unique faculty of being able to act against natural selection. The problem is that, in order to do this, we must actively oppose some of our key genetic traits, surmount our own nature." - [Christian de Duve](https://www.goodreads.com/quotes/9467477-we-enjoy-the-unique-faculty-of-being-able-to-act), author of [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
+> "Focusing on the process of natural selection, de Duve explores the inordinate and now dangerous rise of humankind. His explanation for this self-defeating success lies in the process of natural selection, which favors traits that are immediately useful, regardless of later consequences. Thus, the human genome determines such properties as tribal and group cohesion and collaboration and often fierce and irrational competition with and hostility toward other groups’ attributes that were once useful but now often ruinously dysfunctional. Christian de Duve suggests that these traits, imprinted into human nature by natural selection, may have been recognized by the writers of Genesis, thus inspiring the myth of original sin." - [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
+
 > "Listen, the next revolution is gonna be a revolution of ideas." - [Bill Hicks](https://www.azquotes.com/quote/131769)
 
 > "Problems are evolutionary drivers." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1506502)
@@ -215,6 +221,8 @@ we can - and should - manifest the first major intentional evolutionary step for
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████
 
+Eudaemonic economy
+
 complexity_econ_1.png
 complexity_econ_2.png
 complexity_econ_3.png
@@ -241,6 +249,10 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 >
 > We have a great deal to learn from nature. Take economics. If we ran our bodies' economy the way our economy is run it might look something like this. We could call the heart-lung system the “northern industrial organs”. You give them ownership of the bones in which you mine the raw material blood cells that arise in the marrow. Sweep them up here to the northern industrial organs. Purify the blood as actually happens. Add oxygen and then the heart distribution centre announces “The body price for blood today is so much. Who will buy?” And you ship the blood to the organs that can afford it and not all can. This is the situation we have economically in the world today. You can see that a living system can't function that way." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=We%20have%20a%20hundred,can%27t%20function%20that%20way.)
 
+> "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. To the naive mind that can conceive of order only as the product of deliberate arrangement, it may seem absurd that in complex conditions order, and adaptation to the unknown, can be achieved more effectively by decentralizing decisions and that a division of authority will actually extend the possibility of overall order. Yet that decentralization actually leads to more information being taken into account." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6867865-the-curious-task-of-economics-is-to-demonstrate-to-men)
+
+> "Civilization rests on the fact that we all benefit from knowledge which we do not possess." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6539631-civilization-rests-on-the-fact-that-we-all-benefit-from)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
@@ -249,6 +261,7 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 <img src="/img/energy_gdp_human_development.png"/>
 
 > "Only that which can change can continue." - [James Carse](https://www.goodreads.com/quotes/975884-only-that-which-can-change-can-continue)
+
 
 > "Finite players play within boundaries; infinite players play with boundaries." - [James Carse](https://www.goodreads.com/quotes/1005320-finite-players-play-within-boundaries-infinite-players-play-with-boundaries)
 
