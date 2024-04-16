@@ -2,6 +2,12 @@
 
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Centralization and control
+██████████████████████████████████████████████████████████████████
+
+> "The tech companies that greenlight transactions, communications, and online behavior have in many ways become the de facto privatized governments of the Western world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=the%20tech%20companies%20that%20greenlight%20transactions%2C%20communications%2C%20and%20online%20behavior%20have%20in%20many%20ways%20become%20the%20de%20facto%20privatized%20governments%20of%20the%20Western%20world.)
+
+██████████████████████████████████████████████████████████████████
 # security & can't be evil
 ██████████████████████████████████████████████████████████████████
 
@@ -14,6 +20,8 @@ https://haveibeenpwned.com/
 https://twitter.com/SimpleLogin
 
 can't be evil - restore account from point
+
+> "The key insight is that “government” is becoming synonymous with digital government. In any US-establishment-controlled territory your Google account will soon be frozen for crossing the US establishment. In any CCP-controlled territory your WeChat account can be frozen for crossing the CCP. But in any crypto-anarchic territory there may not be much in the way of functional digital services at all. So if one wants modernity constrained by cryptography, the concept of the “social smart contract” is one way to achieve consensual, limited government – to limit what a government can do by tightly limiting its access to your digital identity and resources." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=the%20key%20insight,identity%20and%20resources)
 
 freedom of speech vs freedom of reach
 

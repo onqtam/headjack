@@ -81,6 +81,9 @@ The only way to make something truly self-authenticating in perpetuity is to tim
 
 > "The computer always gives the same output given the same input code, unlike the fallible human judiciary with its error-prone (or politicized) enforcement of the law. In this sense, the Network is the next Leviathan, because on key dimensions it is becoming more powerful and more just than the State." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20computer%20always,than%20the%20State.)
 
+> "The blockchain is the most important development in history since the advent of writing itself, as it’s a cryptographically verifiable, highly replicated, unfalsifiable, and provably complete digital record of a system." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20blockchain%20is%20the%20most%20important%20development%20in%20history%20since%20the%20advent%20of%20writing%20itself%2C%20as%20it%E2%80%99s%20a%20cryptographically%20verifiable%2C%20highly%20replicated%2C%20unfalsifiable%2C%20and%20provably%20complete%20digital%20record%20of%20a%20system.)
+
+
 
 <!--
 https://en.wikipedia.org/wiki/Non-repudiation

@@ -230,20 +230,41 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Compassion & fairness
+# SECTION: Fairness
+██████████████████████████████████████████████████████████████████
+
+The fairness protocol - transparency, accountability, skin in the game, inquiry
+
+Cheaters Can't Cheat: Fairness Protocol Explained [The value in bitcoin, ethereum, open blockchains]
+https://www.youtube.com/watch?v=JtyRN4YFRFI
+Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk
+https://www.youtube.com/watch?v=meiU6TxysCg
+Capuchin monkey fairness experiment
+https://www.youtube.com/watch?v=-KSryJXDpZo
+"The neuronal basis of empathy and fairness" - unfairness & disgust !!!
+https://pubmed.ncbi.nlm.nih.gov/17214308/
+> "Insula activation associated with perception of ‘unfairness’ has been interpreted as negative emotional reaction to unfair offers. This interpretation is based on prior studies reporting insula involvement in negative or arousing emotional states such as fear, disgust, or anger." - [Unfair? It depends: Neural correlates of fairness in social context](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999761/#:~:text=Insula%20activation%20associated%20with%20perception%20of%20%E2%80%98unfairness%E2%80%99%20has%20been%20interpreted%20as%20negative%20emotional%20reaction%20to%20unfair%20offers.%20This%20interpretation%20is%20based%20on%20prior%20studies%20reporting%20insula%20involvement%20in%20negative%20or%20arousing%20emotional%20states%20such%20as%20fear%2C%20disgust%2C%20or%20anger)
+
+> "Imagine truly international law: it’s done programmatically rather than via pieces of paper, across borders outside the domain of legacy states, and by global technologists rather than country-specific lawyers." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=Imagine%20truly%20international%20law%3A%20it%E2%80%99s%20done%20programmatically%20rather%20than%20via%20pieces%20of%20paper%2C%20across%20borders%20outside%20the%20domain%20of%20legacy%20states%2C%20and%20by%20global%20technologists%20rather%20than%20country%2Dspecific%20lawyers.)
+
+> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
+
+> "The arc of the moral universe is long, but it bends toward justice." - [Theodore Parker](https://quoteinvestigator.com/2012/11/15/arc-of-universe/)
+
+> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
+
+satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Compassion
 ██████████████████████████████████████████████████████████████████
 
 > "Love is the one thing we're capable of perceiving that transcends time and space." - [Brand, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2213908&ref_=ext_shr_lnk)
 
 > "Happiness only real when shared." - [Christopher McCandless AKA Alexander Supertramp](https://www.goodreads.com/quotes/184807-happiness-only-real-when-shared)
 
-> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
-
 > "Compassion is the basis of morality." - [Arthur Schopenhauer](https://www.goodreads.com/quotes/2195-compassion-is-the-basis-of-morality)
-
-> "The arc of the moral universe is long, but it bends toward justice." - [Theodore Parker](https://quoteinvestigator.com/2012/11/15/arc-of-universe/)
-
-> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
 
 > "Educating the mind without educating the heart is no education at all." - [Aristotle](https://www.goodreads.com/quotes/95080-educating-the-mind-without-educating-the-heart-is-no-education)
 
@@ -554,6 +575,9 @@ This as the section for matchmaking and with the leary quote
 Religions are literally false but metaphorically true - Brett Weinstein
 What if we could make a literally true one?
 
+The fairness protocol as god
+The god protocol is about fairness and consent
+
 God design
 Designing god
 https://twitter.com/zxocw/status/1545495339771334657
@@ -863,6 +887,10 @@ https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-16864190
 ██████████████████████████████████████████████████████████████████
 # SECTION: Final section
 ██████████████████████████████████████████████████████████████████
+
+> "The moral innovation draws people in. It gives a reason for the society to exist, a purpose that’s distinct from the outside world, a universalist complement to the particularist sense of national consciousness, an ideological mission that others will nod their heads at even if they don’t share. The reason we put such a high priority on a moral innovation is that missionary societies outcompete mercenary ones, not just in theory but in practice." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=The%20moral%20innovation%20draws,theory%20but%20in%20practice.)
+
+> "Supposing we have a collective purpose, what does collective action towards that purpose look like? This is why the process of building a network state includes a network union. From the very outset it organizes people to work together for the benefit of their chosen community through the familiar interface of their screens. This, again, is quite different from current “social” networks like Twitter, which give individual scores for likes and followers but no team dashboard, no way of setting and achieving tangible goals as a group." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=supposing%20we%20have,as%20a%20group.)
 
 > "You have been down there Neo, you know that road, you know exactly where it ends. And I know that's not where you want to be." - [Trinity, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324286&ref_=ext_shr_lnk)
 

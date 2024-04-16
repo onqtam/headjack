@@ -3233,8 +3233,6 @@ Error correction is the noblest of pursuits
 
 Consequence capture is imperative for humanity
 
-satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
-
 
 we need to rebuild our civilization around consequence capture
 our civilization needs to gradually morph into one that has consequence capture as a foundation
@@ -3811,9 +3809,6 @@ An opt-in panopticon
 
 we need to augment capitalism with values and accountability
 
-The fairness protocol as god
-The god protocol is about fairness and consent
-
 We are incapable of collectively paying attention to what matters - who cares if a submarine imploded as compared to all of our greatest challenges - why does it get surfaced in the global conscience?
 
 
@@ -3970,35 +3965,10 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 
 
-> "Imagine truly international law: it’s done programmatically rather than via pieces of paper, across borders outside the domain of legacy states, and by global technologists rather than country-specific lawyers." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=Imagine%20truly%20international%20law%3A%20it%E2%80%99s%20done%20programmatically%20rather%20than%20via%20pieces%20of%20paper%2C%20across%20borders%20outside%20the%20domain%20of%20legacy%20states%2C%20and%20by%20global%20technologists%20rather%20than%20country%2Dspecific%20lawyers.)
 
-> "The blockchain is the most important development in history since the advent of writing itself, as it’s a cryptographically verifiable, highly replicated, unfalsifiable, and provably complete digital record of a system." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20blockchain%20is%20the%20most%20important%20development%20in%20history%20since%20the%20advent%20of%20writing%20itself%2C%20as%20it%E2%80%99s%20a%20cryptographically%20verifiable%2C%20highly%20replicated%2C%20unfalsifiable%2C%20and%20provably%20complete%20digital%20record%20of%20a%20system.)
 
-> "It’s not sufficient to simply “take the articles with a grain of salt”, and discount them a bit. By listening to the establishment, your perception of reality may be off by one million fold." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=it%E2%80%99s%20not%20sufficient%20to%20simply%20%E2%80%9Ctake%20the%20articles%20with%20a%20grain%20of%20salt%E2%80%9D%2C%20and%20discount%20them%20a%20bit.%20By%20listening%20to%20the%20establishment%2C%20your%20perception%20of%20reality%20may%20be%20off%20by%20one%20million%20fold.)
-
-> "Power over truth. In these incidents, if you stop to count, you often realize that the reports were off not by say 50%, but by 1000X or more. Why do these “reporters” still have their jobs, then? Because their job wasn’t to make money, but to make power. That is, they weren’t trying to predict the future correctly for the sake of making good investments, but to repeat the party line to keep people in line. They’re like actors, in that their role was to say (or write) the right thing at the right time, to manufacture your consent, to misinform you about everything from weapons of mass destruction to the probability of inflation, and to then claim democratic legitimacy after people voted on the basis of their [official misinformation](https://twitter.com/balajis/status/1242006583535489024)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=Power%20over%20truth,official%20misinformation.)
-
-> "The only reason you are hearing about these incidents, and the only reason the rebuttals to them ever came out in the first place, is the Network. It is only because the State’s filtering of social media is not yet complete, that their downranking of dissident voices not fully efficient, that their late-breaking attempt to impose speech and thought controls on a free society not fully consummated, that (a) the initial refutations were even published and (b) that you are seeing some of them combined into one document." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=the%20only%20reason,into%20one%20document.)
-
-> "The mechanistic reason for Gell-Mann Amnesia is the hub-and-spoke topology of the pre-internet information environment. Suppose you were an expert in computer science, another person was an expert on Japan, a third knew about the bond market, and so on. You are spokes that are all connected to the hub (say, The New York Times) but not each other. Each spoke has superior local information, and can falsify NYT reports in their own domain, but has no mechanism for coordinating with other spokes, let alone establishing a superior hub. Until the internet, the blockchain, and the advent of cryptohistory." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=The%20mechanistic%20reason,of%20cryptohistory.)
-
-> "As the Cold War ended, and the internet rose in the late 1990s, a spate of movies came out — The Matrix, Memento, The Truman Show, Fight Club, The Game, Men in Black, The Eternal Sunshine of the Spotless Mind –— all about a constructed reality where our memories aren’t real. It’s almost as if with the rise of the Network, that there was a dim realization in the collective subconscious that everyone had been lied to, deceived, anesthetized, sedated by the centralized States of the 20th century — not just by the fascists and the communists, but the democratic capitalists too." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=As%20the%20Cold,democratic%20capitalists%20too.)
-
-> "The collection of all that defines someone, in rank order, is their identity stack. The top of the identity stack is the primary identity: the Pittsburgh Steelers for Jim, Bitcoin for Billy, and America for Bob." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/sociopolitical-axes#:~:text=The%20collection%20of%20all%20that%20defines%20someone%2C%20in%20rank%20order%2C%20is%20their%20identity%20stack.%20The%20top%20of%20the%20identity%20stack%20is%20the%20primary%20identity%3A%20the%20Pittsburgh%20Steelers%20for%20Jim%2C%20Bitcoin%20for%20Billy%2C%20and%20America%20for%20Bob.)
-
-> "Why will AR glasses be so big? If you think about how much of your life is spent looking at a screen, whether it’s a laptop or a phone or a watch, >50% of your waking hours is already spent in the matrix. AR glasses would reduce “screen” time in one sense, freeing you up to compute on the go without looking at a screen per se, but increase digital time in another sense, as people would constantly have these HUDs active to see the world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/foreseeable-futures#:~:text=Why%20will%20AR,see%20the%20world.)
 
 > "Without a rising tide that lifts all boats, the “rational” act for some is to sink the other boats, to pull escaping crabs down into the bucket. Why? Because misery loves company, and because stopping someone from getting too far ahead means they can’t outcompete you for houses or mates. The only way out of this negative-sum trap is to build provably positive-sum systems and high-trust societies. But that’s exactly what the US establishment is not doing." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=Without%20a%20rising,is%20not%20doing.)
-
-> "The tech companies that greenlight transactions, communications, and online behavior have in many ways become the de facto privatized governments of the Western world." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=the%20tech%20companies%20that%20greenlight%20transactions%2C%20communications%2C%20and%20online%20behavior%20have%20in%20many%20ways%20become%20the%20de%20facto%20privatized%20governments%20of%20the%20Western%20world.)
-
-> "The moral innovation draws people in. It gives a reason for the society to exist, a purpose that’s distinct from the outside world, a universalist complement to the particularist sense of national consciousness, an ideological mission that others will nod their heads at even if they don’t share. The reason we put such a high priority on a moral innovation is that missionary societies outcompete mercenary ones, not just in theory but in practice." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=The%20moral%20innovation%20draws,theory%20but%20in%20practice.)
-
-> "Supposing we have a collective purpose, what does collective action towards that purpose look like? This is why the process of building a network state includes a network union. From the very outset it organizes people to work together for the benefit of their chosen community through the familiar interface of their screens. This, again, is quite different from current “social” networks like Twitter, which give individual scores for likes and followers but no team dashboard, no way of setting and achieving tangible goals as a group." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=supposing%20we%20have,as%20a%20group.)
-
-> "The key insight is that “government” is becoming synonymous with digital government. In any US-establishment- controlled territory your Google account will soon be frozen for crossing the US establishment. In any CCP-controlled territory your WeChat account can be frozen for crossing the CCP. But in any crypto-anarchic territory there may not be much in the way of functional digital services at all. So if one wants modernity constrained by cryptography, the concept of the “social smart contract” is one way to achieve consensual, limited government – to limit what a government can do by tightly limiting its access to your digital identity and resources." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=the%20key%20insight,identity%20and%20resources)
-
-> "Think about the [scene from Fight Club](https://www.youtube.com/watch?v=DkVRL2po0Y8&t=5s) where the camera swivels around the room to show price tags on everything, and now imagine that in VR, with the cost to materialize each virtual structure in the physical world hovering above it." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=Think%20about%20the%20scene%20from%20Fight%20Club%20where%20the%20camera%20swivels%20around%20the%20room%20to%20show%20price%20tags%20on%20everything%2C%20and%20now%20imagine%20that%20in%20VR%2C%20with%20the%20cost%20to%20materialize%20each%20virtual%20structure%20in%20the%20physical%20world%20hovering%20above%20it.)
 
 > "A distributed society needs a distributed census. Unlike the US census, and more like Facebook’s [census](https://www.washington.edu/news/2017/10/12/using-facebook-data-as-a-real-time-census/) of its userbase, a startup society’s census can be conducted in real-time rather than [every ten years](https://www.census.gov/programs-surveys/decennial-census/about.html)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=A%20distributed%20society%20needs%20a%20distributed%20census.%20Unlike%20the%20US%20census%2C%20and%20more%20like%20Facebook%E2%80%99s%20census%20of%20its%20userbase%2C%20a%20startup%20society%E2%80%99s%20census%20can%20be%20conducted%20in%20real%2Dtime%20rather%20than%20every%20ten%20years.)
 
@@ -4285,16 +4255,7 @@ We can literally crowd-source how we want things to be
 
 Crowdsource “how to win in society” with our best attempt at re-deriving everything from “be in service to others”
 
-the fairness protocol
-Cheaters Can't Cheat: Fairness Protocol Explained [The value in bitcoin, ethereum, open blockchains]
-https://www.youtube.com/watch?v=JtyRN4YFRFI
-Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk
-https://www.youtube.com/watch?v=meiU6TxysCg
-Capuchin monkey fairness experiment
-https://www.youtube.com/watch?v=-KSryJXDpZo
-"The neuronal basis of empathy and fairness" - unfairness & disgust !!!
-https://pubmed.ncbi.nlm.nih.gov/17214308/
-> "Insula activation associated with perception of ‘unfairness’ has been interpreted as negative emotional reaction to unfair offers. This interpretation is based on prior studies reporting insula involvement in negative or arousing emotional states such as fear, disgust, or anger." - [Unfair? It depends: Neural correlates of fairness in social context](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999761/#:~:text=Insula%20activation%20associated%20with%20perception%20of%20%E2%80%98unfairness%E2%80%99%20has%20been%20interpreted%20as%20negative%20emotional%20reaction%20to%20unfair%20offers.%20This%20interpretation%20is%20based%20on%20prior%20studies%20reporting%20insula%20involvement%20in%20negative%20or%20arousing%20emotional%20states%20such%20as%20fear%2C%20disgust%2C%20or%20anger)
+
 
 What if we could derive everything from “be good to others”?
 
