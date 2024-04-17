@@ -197,9 +197,11 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "Can someone take the transcript here, add citations, and fact check it — then post to twitter as a reply? the actual power of twitter is replying with facts — not being hysterical and tweeting that Tucker is a Russian Asset" - [Jason Calacanis](https://twitter.com/Jason/status/1666496960323530752)
 
-> "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)
-
-
+> "So the UN lays out the Sustainable Development Goals. 17 priorities, because hey, that’s a round number right?
+>
+> Designed by committee, self-contradictory, and without any actual unified idea of how things are going to get done. There’s no actual plan to reach these goals, there are no costed spreadsheets and draft legislation stuff. They’re working on it across ten thousand forums. It’s a grab-bag wish list of nice to haves, some of which are necessary to human survival, and some of which are just passing cultural fads. Needless to say, as a compromise product of the global elites, the SDGs are mired in quid-pro-quos two miles deep and sixty meters wide. Everything about them is filthy horse traded compromises, as bad as putting torture regimes on rights panels, a perennial UN favourite.
+>
+> So what would the SDG goals look like done right? If we actually think clearly, rather than trying to gather support through an endless sequence of committees, what is the actual essential universal goal of human life that we can rally everybody around? How do we create a universal design language for working with the future, something which can allow people to come together around a table, in a new light, and solve cooperation problems which are currently insoluble. It’s not a list of 17 global todos." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=So%20the%20UN,17%20global%20todos.)
 
 
 

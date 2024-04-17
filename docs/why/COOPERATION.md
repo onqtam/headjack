@@ -103,6 +103,7 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "The eternal struggle between good and evil takes place within our own bodies and has since the origin of multicellular organisms roughly a billion years ago." - [David Sloan Wilson](https://www.goodreads.com/quotes/11665166-the-eternal-struggle-between-good-and-evil-takes-place-within)
 
+> "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change, that lives within the means available and works co-operatively against common threats." - [Charles Darwin](https://www.azquotes.com/quote/1397543)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consequence capture

@@ -30,6 +30,7 @@ https://pbs.twimg.com/media/Fzphul-acAED4dj.jpg
 
 > "I have been to the darkest corners of government, and what they fear is light." - [Edward Snowden](https://www.azquotes.com/quote/577721)
 
+> "You have to know the past to understand the present." - [Carl Sagan](https://www.goodreads.com/quotes/194992-you-have-to-know-the-past-to-understand-the-present)
 
 > "Those who cannot remember the past are condemned to repeat it." - [George Santayana](https://en.wikiquote.org/wiki/George_Santayana#:~:text=infancy%20is%20perpetual.-,Those%20who%20cannot%20remember%20the%20past%20are%20condemned%20to%20repeat%20it.,-This%20famous%20statement)
 
@@ -41,6 +42,10 @@ the future of status and prestige is authentic computable context & reputation o
 > "The most effective way to destroy people is to deny and obliterate their own understanding of their history." - [George Orwell](https://www.goodreads.com/quotes/7076-the-most-effective-way-to-destroy-people-is-to-deny)
 
 > "Whatever injsutice of the government or elites you're upset about will be forgotten just as quickly. Understanding politics and power is an exercise in memory." - [Samo Burja](https://twitter.com/SamoBurja/status/1685073306565906432)
+
+> "The march of entropy destroys witnesses, artifacts, scholarly records, and all other evidence of the past." - [Our Knowledge of History Decays Over Time](https://www.palladiummag.com/2023/03/07/our-knowledge-of-history-decays-over-time/#:~:text=The%20march%20of%20entropy%20destroys%20witnesses%2C%20artifacts%2C%20scholarly%20records%2C%20and%20all%20other%20evidence%20of%20the%20past.)
+
+> "Digital information has fared no better than paper. Between link rot and changes in software standards, tremendous amounts of digital information [become inaccessible](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3851533/) over the course of a single decade. The long-term preservation of digital archives remains a hope rather than a guaranteed fact." - [Our Knowledge of History Decays Over Time](https://www.palladiummag.com/2023/03/07/our-knowledge-of-history-decays-over-time/#:~:text=digital%20information%20has%20fared%20no%20better%20than%20paper.%20Between%20link%20rot%20and%20changes%20in%20software%20standards%2C%20tremendous%20amounts%20of%20digital%20information%20become%20inaccessible%20over%20the%20course%20of%20a%20single%20decade.%20The%20long%2Dterm%20preservation%20of%20digital%20archives%20remains%20a%20hope%20rather%20than%20a%20guaranteed%20fact.)
 
 > "What is history? The lie that everyone agrees on..." - [Voltaire](https://www.goodreads.com/quotes/86931-what-is-history-the-lie-that-everyone-agrees-on)
 
@@ -222,6 +227,8 @@ The argument that specialized message types are unnecessary because AI will even
 ██████████████████████████████████████████████████████████████████
 
 > "If the studies are fake, imagine the meta-analyses." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1761418446842044460)
+
+> "The scientist is not a person who gives the right answers, he’s one who asks the right questions." - [Claude Lévi-Strauss](https://fs.blog/spot-bad-science/#:~:text=%E2%80%9CThe%20scientist%20is%20not%20a%20person%20who%20gives%20the%20right%20answers%2C%20he%E2%80%99s%20one%20who%20asks%20the%20right%20questions.%E2%80%9D%20%E2%80%95Claude%20L%C3%A9vi%2DStrauss)
 
 > "The pace of scientific progress may be hindered by the tendency of our academic institutions to reward being popular, rather than being right." - [Robin Hanson](https://twitter.com/robinhanson)
 

@@ -6,6 +6,11 @@ Whistleblower friendly ecosystem
 
 > "Freedom is self-determination." - [Baruch Spinoza](https://www.azquotes.com/quote/1395002)
 
+
+can't be evil
+https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Centralization and control
 ██████████████████████████████████████████████████████████████████

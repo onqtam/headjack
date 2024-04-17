@@ -113,6 +113,9 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 # SECTION: Propaganda
 ██████████████████████████████████████████████████████████████████
 
+"WE ACCEPT THE REALITY OF THE WORLD WITH WHICH WE ARE PRESENTED" - from the Truman Show
+https://www.youtube.com/watch?v=-bLyjGH4ZAE
+
 > "Propaganda is the executive arm of the invisible government." - [Edward Bernays](https://www.goodreads.com/quotes/4107781-propaganda-is-the-executive-arm-of-the-invisible-government)
 
 > "The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country. ...We are governed, our minds are molded, our tastes formed, our ideas suggested, largely by men we have never heard of. This is a logical result of the way in which our democratic society is organized. Vast numbers of human beings must cooperate in this manner if they are to live together as a smoothly functioning society. ...In almost every act of our daily lives, whether in the sphere of politics or business, in our social conduct or our ethical thinking, we are dominated by the relatively small number of persons...who understand the mental processes and social patterns of the masses. It is they who pull the wires which control the public mind." - [Edward Bernays](https://www.goodreads.com/quotes/203430-the-conscious-and-intelligent-manipulation-of-the-organized-habits-and)
@@ -157,9 +160,11 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "It is a supreme irony that the very people who a decade ago led the freedom agenda for other countries have since pushed the United States to implement one of the largest and most powerful censorship machines in existence under the guise of fighting disinformation." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=It%20is%20a%20supreme%20irony%20that%20the%20very%20people%20who%20a%20decade%20ago%20led%20the%20freedom%20agenda%20for%20other%20countries%20have%20since%20pushed%20the%20United%20States%20to%20implement%20one%20of%20the%20largest%20and%20most%20powerful%20censorship%20machines%20in%20existence%20under%20the%20guise%20of%20fighting%20disinformation.)
 
+> "Peoples’ minds are the battlefield, the treasure that is trying to be achieved, and also the weapons." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Peoples%E2%80%99%20minds%20are%20the%20battlefield%2C%20the%20treasure%20that%20is%20trying%20to%20be%20achieved%2C%20and%20also%20the%20weapons.)
+
 > "If I install software, I know on some level a software engineer wrote this, but think much more implicit is that in yours and everybody's head, some political engineer, some meme-genius, installed memes in our head we can't even trace the origin of." - [Balaji Srinivasan](https://twitter.com/eriktorenberg/status/1230295332690354176)
 
-
+> "The further a society drifts from the truth, the more it will hate those that speak it." - [Selwyn Duke](https://www.goodreads.com/quotes/8204871-the-further-a-society-drifts-from-the-truth-the-more)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Gell-Mann Amnesia

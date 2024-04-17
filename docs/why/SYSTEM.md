@@ -124,7 +124,7 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "World War III is a guerrilla information war with no division between military and civilian participation." - [Marshall McLuhan](https://www.azquotes.com/quote/808551)
 
-> "Peoples’ minds are the battlefield, the treasure that is trying to be achieved, and also the weapons." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Peoples%E2%80%99%20minds%20are%20the%20battlefield%2C%20the%20treasure%20that%20is%20trying%20to%20be%20achieved%2C%20and%20also%20the%20weapons.)
+> "The very structure of these games is that you have to do illicit things to win, guaranteeing that the winners will be under the control of the powerbrokers that helped them on the way up. These systems guarantee corruption: corruption is the desired product of the system, because corruption allows for stable, durable, secret extra-judicial control: to have power from the sidelines, even to rule, without any oversight." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=the%20very%20structure,without%20any%20oversight.)
 
 Politics in its current primitive/primal form is the cancer of humanity.
 
@@ -308,10 +308,23 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 > "An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/15696-an-individual-has-not-started-living-until-he-can-rise)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Culture in decline
+██████████████████████████████████████████████████████████████████
+
+“gang gang mmm ice cream so good yes yes yes” (Pinkydoll, 2023)
+
+> "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism
 ██████████████████████████████████████████████████████████████████
 
 the century of the self
+
+shoppers!!! behold
+"Walmart stampede"
+The Black Friday Stampede Supercut: 2014
+https://www.youtube.com/watch?v=vjTGmirfaR8
 
 We need to make excessive consumption and showing off uncool
 
@@ -376,6 +389,8 @@ Philip morris Indonesia kids
 > "WAR is a racket. It always has been. It is possibly the oldest, easily the most profitable, surely the most vicious. It is the only one international in scope. It is the only one in which the profits are reckoned in dollars and the losses in lives." - [Smedley D. Butler](https://www.goodreads.com/quotes/816646-war-is-a-racket-it-always-has-been-it-is)
 
 > "It's not radical Islam that worries the US - it's independence." - [Noam Chomsky](https://www.goodreads.com/quotes/343018-it-s-not-radical-islam-that-worries-the-us----it-s)
+
+> "An organism at war with itself is doomed." - [Carl Sagan](https://www.goodreads.com/quotes/83663-an-organism-at-war-with-itself-is-doomed)
 
 > "Some of us, perhaps all of us, believe that it is legitimate to kill enemy soldiers in a war, as if war were a special circumstance that shrinks the sizes of enemy souls." - [Douglas Hofstadter](https://www.goodreads.com/quotes/830578-some-of-us-perhaps-all-of-us-believe-that-it)
 
@@ -547,3 +562,11 @@ we need a response to ted kazinsky's unibomber manifesto
 > "These threats to humanity and how we address them define our time. The advent of nuclear weapons posed a real risk of human extinction in the 20th century. With the continued acceleration of technology, and without serious efforts to protect humanity, there is strong reason to believe the risk will be higher this century, and increase with each century that technological progress continues. Because these anthropogenic risks outstrip all natural risks combined, they set the clock on how long humanity has left to pull back from the brink." - [The Precipice, by Toby Ord](https://forum.effectivealtruism.org/posts/QHxjRx8zpqL4xxsXT/toby-ord-fireside-chat-and-q-and-a#:~:text=These%20threats%20to,from%20the%20brink.)
 
 > "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." - [Isaac Asimov](https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science)
+
+> "Since Auschwitz we know what man is capable of. And since Hiroshima we know what is at stake." - [Viktor E. Frankl](https://www.goodreads.com/quotes/475986-since-auschwitz-we-know-what-man-is-capable-of-and)
+
+> "The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five." - [Carl Sagan](https://www.goodreads.com/quotes/117594-the-nuclear-arms-race-is-like-two-sworn-enemies-standing)
+
+> "I have a foreboding of an America in my children's or grandchildren's time -- when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what's true, we slide, almost without noticing, back into superstition and darkness." - [Carl Sagan](https://www.goodreads.com/quotes/632474-i-have-a-foreboding-of-an-america-in-my-children-s)
+
+

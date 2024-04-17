@@ -1066,19 +1066,6 @@ This [whole paper](https://www.evolutionarymanifesto.com/SelfOrgSoc.pdf) needs t
 
 > "When we actively engage with the world, cognition can be more effective in the absence of sequences of thought. However, few would confirm this on the basis of their subjective experience. In part this is because we rarely have direct experience of engaging with the world while our consciousness is unloaded by sequences of thought and imagining. But it is also because we are not directly aware of unconscious information processing in our brain, no matter how complex and effective it is. We are only aware of processing that occupies the GW and becomes contents of consciousness, such as declarative modelling organised by sequences of thought. It is difficult to accept that the cognition we know about (and are continually involved in) is often less effective than cognition we are not even aware of. But our belief in the importance of thought has a deeper origin: unless we think something, we don’t know that we know it. More significantly, if we don’t continually think about who we are and why we are acting, we don’t know who we are and why we act. In an important sense, if we stop thinking, we cease to know that we exist." - [The future evolution of consciousness, by John E. Stewart](https://www.evolutionarymanifesto.com/JCS.pdf)
 
-
-<!-- 
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
-
-> "" - [source]()
- -->
-
 The direction of evolution: The rise of cooperative organization
 https://www.sciencedirect.com/science/article/pii/S030326471400080X?via%3Dihub
 https://ars.els-cdn.com/content/image/1-s2.0-S030326471400080X-fx1.jpg
