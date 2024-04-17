@@ -225,7 +225,7 @@ booting up the reputation/accountability/status market
 negative reputation and scammers
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Status
+# SECTION: Status & Prestige
 ██████████████████████████████████████████████████████████████████
 
 we need to change our concept of prestige
