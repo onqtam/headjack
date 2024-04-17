@@ -4773,35 +4773,10 @@ https://80000hours.org/career-guide/
 The [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) problem can be solved simply by voting which votes to count, and how.
 
 
-
-
-
 > "Increasingly, Modern AI is now the study of digital domestication: the art and science of taming wild internet-scale data distributions." - [Modern AI is Domestification](https://thegradient.pub/ai-is-domestification/#:~:text=Increasingly%2C%20Modern%20AI%20is%20now%20the%20study%20of%20digital%20domestication%3A%20the%20art%20and%20science%20of%20taming%20wild%20internet%2Dscale%20data%20distributions.)
 
 > "The trillion-dollar question becomes: how do you amplify the good priors in the dataset while suppressing the bad priors? How do you tame the raw models captured directly from wild heterogenous internet distributions?" - [Modern AI is Domestification](https://thegradient.pub/ai-is-domestification/#:~:text=The%20trillion%2Ddollar%20question%20becomes%3A%20how%20do%20you%20amplify%20the%20good%20priors%20in%20the%20dataset%20while%20suppressing%20the%20bad%20priors%3F%20How%20do%20you%20tame%20the%20raw%20models%20captured%20directly%20from%20wild%20heterogenous%20internet%20distributions%3F)
 
-
-
-
-
-
-
-> "This is not a fight against a single person, policy, or political party, but rather a struggle for the soul of our digital civilization and the separate nations it houses." - [A Grand Campaign of Remoralization, by Moritz Bierling](https://twitter.com/bierlingm/status/1660663668357361664)
-
-
-> "It starts with awareness, with recognizing the forces at work, with understanding the implications of our digital behaviors, and with an open and critical examination of the kinds of people we must be and the kinds of responsibilities we must shoulder that can hold up a free, productive, and lawful internet, and with it a world that relies on this kind of internet to demonstrate the very same properties in the world of atoms." - [A Grand Campaign of Remoralization, by Moritz Bierling](https://twitter.com/bierlingm/status/1660663668357361664)
-
-> "We need to hold those with power and influence accountable. From corporate entities to collectives and individuals who shape our digital experiences, it's up to us to not just insist on transparency, integrity, and respect for our rights as digital citizens, but to create, use, and defend the means that guarantee us this experience." - [A Grand Campaign of Remoralization, by Moritz Bierling](https://twitter.com/bierlingm/status/1660663668357361664)
-
-
-
-
-
-
-
-> "We are a way for the cosmos to know itself." - [Carl Sagan](https://www.goodreads.com/quotes/237548-we-are-a-way-for-the-cosmos-to-know-itself)
-
-> "Through our eyes, the universe is perceiving itself." - [Alan Watts](https://www.goodreads.com/quotes/226051-through-our-eyes-the-universe-is-perceiving-itself-through-our)
 
 
 
@@ -4819,35 +4794,13 @@ Reputation, structured data that anyone can analyze, and deduplicating concepts,
 We can engineer our fitness landscape.
 https://en.wikipedia.org/wiki/Fitness_landscape
 
+
+
+
+
 lets map every negative externality that is unaccounted for in economics
 
-
-> "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://www.azquotes.com/quote/609000)
-
-
-
-
-
-> "The art of being wise is the art of knowing what to overlook." - [David Brooks](https://www.goodreads.com/quotes/7221905-the-art-of-being-wise-is-the-art-of-knowing)
-
-
-
-> "Creativity is the way that the cosmos evolves and communicates with itself." - [Alex Grey](https://youtu.be/0_YJToyOp_4?t=1263)
-https://twitter.com/fretta_bisco/status/1340820359814275074
-
-
-cryptohistory
-“Chancellor on Brink of Second Bailout for Banks”
-https://twitter.com/Blockstream/status/1477925767375994881
-
-
-
 If we manage to enlarge the self and make it conscious we might be able to solve humanity’s greatest challenges
-
-
-the world needs more transparency, accountability, and truth
-
-> "can’t be evil > don’t be evil" - [Chris Dixon](https://twitter.com/cdixon/status/1470223992757927936)
 
 
 > "When a system is far from equilibrium, small islands of coherence have the capacity to shift the entire system." - [Ilya Prigogine](https://www.gameb.wiki/index.php?title=An_Introduction_to_Game_B#:~:text=When%20a%20system%20is%20far%20from%20equilibrium%2C%20small%20islands%20of%20coherence%20have%20the%20capacity%20to%20shift%20the%20entire%20system.)

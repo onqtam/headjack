@@ -3,6 +3,13 @@
 # SECTION: Worldview
 ██████████████████████████████████████████████████████████████████
 
+> "We are a way for the cosmos to know itself." - [Carl Sagan](https://www.goodreads.com/quotes/237548-we-are-a-way-for-the-cosmos-to-know-itself)
+
+> "Through our eyes, the universe is perceiving itself." - [Alan Watts](https://www.goodreads.com/quotes/226051-through-our-eyes-the-universe-is-perceiving-itself-through-our)
+
+> "Creativity is the way that the cosmos evolves and communicates with itself." - [Alex Grey](https://youtu.be/0_YJToyOp_4?t=1263)
+https://twitter.com/fretta_bisco/status/1340820359814275074
+
 <img src="/img/timeline_of_technology.png"/>
 
 > "Because of the Existence Bias, for example, we don’t have a plan for the future of the human race. That’s odd, because our existence is built upon obsessive planning. It helps us get what we want. Accordingly, we plan for everything: social events, marriage, education, vacations, careers, health, war and even death. So why don’t we have a plan for the human race? Whether we like it or not, nearly 8 billion of us are interconnected, comprising a vast orchestra, each contributing to a collective fate." - [13 Steps to Cognitive “Perfection”, by Bryan Johnson](https://medium.com/future-literacy/13-steps-to-cognitive-perfection-86e316569c3f#:~:text=Because%20of%20the,a%20collective%20fate.)
@@ -433,6 +440,8 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 > "Businesses must reconnect company success with social progress. Shared value is not social responsibility, philanthropy, or even sustainability, but a new way to achieve economic success. It is not on the margin of what companies do but at the center. We believe that it can give rise to the next major transformation of business thinking." - [Michael Porter](https://www.azquotes.com/quote/797287)
 
 > "If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea." - [Antoine de Saint-Exupéry](https://www.goodreads.com/quotes/384067-if-you-want-to-build-a-ship-don-t-drum-up)
+
+> "We need to hold those with power and influence accountable. From corporate entities to collectives and individuals who shape our digital experiences, it's up to us to not just insist on transparency, integrity, and respect for our rights as digital citizens, but to create, use, and defend the means that guarantee us this experience." - [A Grand Campaign of Remoralization, by Moritz Bierling](https://twitter.com/bierlingm/status/1660663668357361664)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Education, learning & development

@@ -203,7 +203,9 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 >
 > So what would the SDG goals look like done right? If we actually think clearly, rather than trying to gather support through an endless sequence of committees, what is the actual essential universal goal of human life that we can rally everybody around? How do we create a universal design language for working with the future, something which can allow people to come together around a table, in a new light, and solve cooperation problems which are currently insoluble. It’s not a list of 17 global todos." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=So%20the%20UN,17%20global%20todos.)
 
+> "This is not a fight against a single person, policy, or political party, but rather a struggle for the soul of our digital civilization and the separate nations it houses." - [A Grand Campaign of Remoralization, by Moritz Bierling](https://twitter.com/bierlingm/status/1660663668357361664)
 
+> "It starts with awareness, with recognizing the forces at work, with understanding the implications of our digital behaviors, and with an open and critical examination of the kinds of people we must be and the kinds of responsibilities we must shoulder that can hold up a free, productive, and lawful internet, and with it a world that relies on this kind of internet to demonstrate the very same properties in the world of atoms." - [A Grand Campaign of Remoralization, by Moritz Bierling](https://twitter.com/bierlingm/status/1660663668357361664)
 
 
 

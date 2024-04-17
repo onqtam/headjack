@@ -11,6 +11,8 @@ can't be evil
 https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306
 
 
+> "can’t be evil > don’t be evil" - [Chris Dixon](https://twitter.com/cdixon/status/1470223992757927936)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Centralization and control
 ██████████████████████████████████████████████████████████████████
