@@ -112,6 +112,12 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 
 > "What a sad era when it is easier to smash an atom than a prejudice." - [Albert Einstein](https://www.goodreads.com/quotes/70175-what-a-sad-era-when-it-is-easier-to-smash)
 
+> "To kill an error is as good a service as, and sometimes even better than, the establishing of a new truth or fact." - [Charles Darwin](https://www.goodreads.com/quotes/808100-to-kill-an-error-is-as-good-a-service-as)
+
+> "If it can be destroyed by the truth, it deserves to be destroyed by the truth." - [Carl Sagan](https://www.goodreads.com/quotes/834574-if-it-can-be-destroyed-by-the-truth-it-deserves)
+
+> "One of the saddest lessons of history is this: If we’ve been bamboozled long enough, we tend to reject any evidence of the bamboozle. We’re no longer interested in finding out the truth. The bamboozle has captured us. It’s simply too painful to acknowledge, even to ourselves, that we’ve been taken." - [Carl Sagan](https://fs.blog/illusory-truth-effect/#:~:text=%E2%80%9COne%20of%20the,%E2%80%94%20Carl%20Sagan)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: group think
 ██████████████████████████████████████████████████████████████████
@@ -988,6 +994,27 @@ https://www.youtube.com/watch?v=B1sr9x263LM
 
 
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Consciousness
+██████████████████████████████████████████████████████████████████
+
+> "Until you make the unconscious conscious, it will direct your life and you will call it fate." - [Carl Jung](https://www.azquotes.com/quote/355847)
+
+> "Consciousness allows you the capacity to plan." - [Gerald Edelman](https://www.azquotes.com/quote/1213454)
+
+> "Perhaps consciousness arises when the brain's simulation of the world becomes so complex that it must include a model of itself." - [Richard Dawkins](https://www.goodreads.com/quotes/842915-perhaps-consciousness-arises-when-the-brain-s-simulation-of-the-world)
+
+> "GWT analogizes the mind to a theater, with conscious thought being like material illuminated on the main stage. The brain contains many specialized processes or modules that operate in parallel, much of which is unconscious. Attention acts as a spotlight, bringing some of this unconscious activity into conscious awareness on the global workspace. The global workspace is a functional hub of broadcast and integration that allows information to be disseminated across modules. As such it can be classified as a functionalist theory of consciousness.
+>
+> When sensory input, memories, or internal representations are given attention, they become part of the global workspace and can then be operated on by a variety of processes. As elements compete for attention, the ones that win are granted entry to the global workspace, allowing their information to be distributed and coordinated across the whole cognitive system.
+>
+> GWT resembles the concept of working memory and is proposed to correspond to a 'momentarily active, subjectively experienced' event in working memory. It facilitates top-down control of attention, working memory, planning, and problem-solving through this information sharing.
+>
+> In the 'theater of consciousness', a 'spotlight of selective attention' shines a bright spot on stage, revealing the contents of consciousness. Behind the scenes, in the dark, are the director (executive processes), stagehands, scriptwriters, scene designers, and the like. They shape the visible activities in the bright spot but are themselves invisible.
+>
+> ...It serves as a central information exchange, rather than a locus of cognition itself, enabling different specialized brain networks to interact and supporting integrated and adaptive responses." - [Global workspace theory, Wikipedia](https://en.wikipedia.org/wiki/Global_workspace_theory#:~:text=GWT%20analogizes%20the,and%20adaptive%20responses.)
+
+> "Until you make the unconscious conscious, it will direct your life and you will call it fate." - [Carl Jung](https://www.azquotes.com/quote/355847)
 
 
 

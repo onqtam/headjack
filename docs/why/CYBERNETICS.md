@@ -26,6 +26,11 @@
 ██████████████████████████████████████████████████████████████████
 
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Intelligence
+██████████████████████████████████████████████████████████████████
+
+> "Intelligence is based on how efficient a species became at doing the things they need to survive." - [Charles Darwin](https://www.goodreads.com/quotes/337972-intelligence-is-based-on-how-efficient-a-species-became-at)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Relevance realization
@@ -148,22 +153,4 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 > "I Am a Strange Loop argues that the key to understanding selves and consciousness is the “strange loop”—a special kind of abstract feedback loop inhabiting our brains." - [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop#:~:text=I%20Am%20a%20Strange%20Loop%20argues%20that%20the%20key%20to%20understanding%20selves%20and%20consciousness%20is%20the%20%E2%80%9Cstrange%20loop%E2%80%9D%E2%80%94a%20special%20kind%20of%20abstract%20feedback%20loop%20inhabiting%20our%20brains.)
 
 ^^ What is our societal (OODA) loop?
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Consciousness
-██████████████████████████████████████████████████████████████████
-
-> "Consciousness allows you the capacity to plan." - [Gerald Edelman](https://www.azquotes.com/quote/1213454)
-
-> "Perhaps consciousness arises when the brain's simulation of the world becomes so complex that it must include a model of itself." - [Richard Dawkins](https://www.goodreads.com/quotes/842915-perhaps-consciousness-arises-when-the-brain-s-simulation-of-the-world)
-
-> "GWT analogizes the mind to a theater, with conscious thought being like material illuminated on the main stage. The brain contains many specialized processes or modules that operate in parallel, much of which is unconscious. Attention acts as a spotlight, bringing some of this unconscious activity into conscious awareness on the global workspace. The global workspace is a functional hub of broadcast and integration that allows information to be disseminated across modules. As such it can be classified as a functionalist theory of consciousness.
->
-> When sensory input, memories, or internal representations are given attention, they become part of the global workspace and can then be operated on by a variety of processes. As elements compete for attention, the ones that win are granted entry to the global workspace, allowing their information to be distributed and coordinated across the whole cognitive system.
->
-> GWT resembles the concept of working memory and is proposed to correspond to a 'momentarily active, subjectively experienced' event in working memory. It facilitates top-down control of attention, working memory, planning, and problem-solving through this information sharing.
->
-> In the 'theater of consciousness', a 'spotlight of selective attention' shines a bright spot on stage, revealing the contents of consciousness. Behind the scenes, in the dark, are the director (executive processes), stagehands, scriptwriters, scene designers, and the like. They shape the visible activities in the bright spot but are themselves invisible.
->
-> ...It serves as a central information exchange, rather than a locus of cognition itself, enabling different specialized brain networks to interact and supporting integrated and adaptive responses." - [Global workspace theory, Wikipedia](https://en.wikipedia.org/wiki/Global_workspace_theory#:~:text=GWT%20analogizes%20the,and%20adaptive%20responses.)
 

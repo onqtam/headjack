@@ -16,6 +16,8 @@ https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-uni
 
 > "Big history is about placing ourselves in relationship to the universe on the dimensions of time and complexity." - [What Is Big History and Why Does It Matter? by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202312/what-is-big-history-and-why-does-it-matter#:~:text=Big%20history%20is%20about%20placing%20ourselves%20in%20relationship%20to%20the%20universe%20on%20the%20dimensions%20of%20time%20and%20complexity.)
 
+> "I think the next century will be the century of complexity." - [Stephen Hawking](https://www.azquotes.com/quote/636709)
+
 <img src="/img/relatedness_of_all_life_on_earth.jpeg"/>
 
 <!-- taken from here: https://www.quora.com/How-is-all-life-on-Earth-related -->
@@ -99,10 +101,17 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Our scientific power has outrun our spiritual power. We have guided missiles and misguided men." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/16300-our-scientific-power-has-outrun-our-spiritual-power-we-have)
 
+> "A new philosophy of the future is needed. I believe it should be curiosity about the Universe – expand humanity to become a multiplanet, then interstellar, species to see what’s out there." - [Elon Musk](https://twitter.com/elonmusk/status/1552317587694010368)
+
+> "We should stop exploiting each-other’s children and taking away their futures." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=We%20should%20stop%20exploiting%20each%2Dother%E2%80%99s%20children%20and%20taking%20away%20their%20futures.)
+
+> "Civilisation is the pact between adults to make a place to take better care of our children." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=Civilisation%20is%20the%20pact%20between%20adults%20to%20make%20a%20place%20to%20take%20better%20care%20of%20our%20children.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
 ██████████████████████████████████████████████████████████████████
+
+> "When a person can't find a deep sense of meaning, they distract themselves with pleasure." - [Viktor E. Frankl](https://www.goodreads.com/quotes/5738688-when-a-person-can-t-find-a-deep-sense-of-meaning)
 
 > "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
 
@@ -164,6 +173,10 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 # SECTION: Conscious Evolution
 ██████████████████████████████████████████████████████████████████
 
+> "It is as if man had been suddenly appointed managing director of the biggest business of all, the business of evolution—appointed without being asked if he wanted it, and without proper warning and preparation. What is more, he can’t refuse the job. Whether he wants to or not, whether he is conscious of what he is doing or not, he is in point of fact determining the future direction of evolution on this earth. That is his inescapable destiny, and the sooner he realizes it and starts believing in it, the better for all concerned..." - [Transhumanism, by Julian Huxley](https://www.consciousevolution.co.uk/blog/what-is-an-evolutionary#:~:text=It%20is%20as,for%20all%20concerned.%20.%20.%20.)
+
+> "Who looks outside, dreams; who looks inside, awakes." - [Carl Jung](https://www.azquotes.com/quote/151492)
+
 we can - and should - manifest the first major intentional evolutionary step for life on earth
 
 > "We are evolution become conscious of itself." - [Julian Huxley](https://www.consciousevolution.co.uk/what#:~:text=%E2%80%9CWe%20are%20evolution%20become%20conscious%20of%20itself.%E2%80%99)
@@ -174,7 +187,7 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 > "Focusing on the process of natural selection, de Duve explores the inordinate and now dangerous rise of humankind. His explanation for this self-defeating success lies in the process of natural selection, which favors traits that are immediately useful, regardless of later consequences. Thus, the human genome determines such properties as tribal and group cohesion and collaboration and often fierce and irrational competition with and hostility toward other groups’ attributes that were once useful but now often ruinously dysfunctional. Christian de Duve suggests that these traits, imprinted into human nature by natural selection, may have been recognized by the writers of Genesis, thus inspiring the myth of original sin." - [Genetics of Original Sin: The Impact of Natural Selection on the Future of Humanity](https://www.goodreads.com/book/show/8111375-genetics-of-original-sin)
 
-> "Listen, the next revolution is gonna be a revolution of ideas." - [Bill Hicks](https://www.azquotes.com/quote/131769)
+> "It isn't the past which holds us back, it's the future; and how we undermine it, today." - [Viktor E. Frankl](https://www.azquotes.com/quote/857989)
 
 > "Problems are evolutionary drivers." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/1506502)
 
@@ -257,6 +270,8 @@ we can - and should - manifest the first major intentional evolutionary step for
 # SECTION: Fairness & justice
 ██████████████████████████████████████████████████████████████████
 
+> "If you're intellectually honest and advocate for a system that controls people, turn over the keys to your enemies for a dry run." - [Naval](https://twitter.com/naval/status/857429690860003328)
+
 > "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
 
 Computing the rules-based order
@@ -338,6 +353,8 @@ Faith - willing to submit and project this next level agent
 Love - discovery of a shared purpose
 Hope - Willingness to invest in it before it is there
 Logically derived for forming a coherent next level system
+
+> "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
@@ -424,6 +441,8 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 <img src="/img/educational_crisis.png"/>
 
 children are sponges
+
+> "Ignorance feeds on ignorance." - [Carl Sagan](https://consilienceproject.org/an-infodemic-plaguing-the-pandemic-response/#:~:text=Ignorance%20feeds%20on%20ignorance.)
 
 > "You teach me, I forget. You show me, I remember. You involve me, I understand." - [Edward O. Wilson](https://www.goodreads.com/quotes/800111-you-teach-me-i-forget-you-show-me-i-remember)
 
@@ -570,6 +589,12 @@ https://www.google.com/search?q=this+is+healthy
 > "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Fashion - reclaiming it
+██████████████████████████████████████████████████████████████████
+
+> "Rather than reject the notion of popularity, we should pay close attention to how things get to be popular and try to see how more helpful ideas could be embraced with equally widespread enthusiasm." - [Alain de Botton](https://www.vox.com/conversations/2017/4/29/15468242/9-questions-alain-de-botton-popular-culture-philosophy-humanities#:~:text=Rather%20than%20reject%20the%20notion%20of%20popularity%2C%20we%20should%20pay%20close%20attention%20to%20how%20things%20get%20to%20be%20popular%20and%20try%20to%20see%20how%20more%20helpful%20ideas%20could%20be%20embraced%20with%20equally%20widespread%20enthusiasm.)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████
 
@@ -624,6 +649,8 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
 ██████████████████████████████████████████████████████████████████
+
+> "The universe has a direction and we are meant to participate in it. Not because it’s the “right” thing to do from an abstract, moralistic perspective, but because it’s the “optimal” thing to do from an evolutionary and cognitive perspective." - [Brett Andersen](https://brettandersen.substack.com/p/human-beings-were-selected-for-non#:~:text=the%20universe%20has%20a%20direction%20and%20we%20are%20meant%20to%20participate%20in%20it.%20Not%20because%20it%E2%80%99s%20the%20%E2%80%9Cright%E2%80%9D%20thing%20to%20do%20from%20an%20abstract%2C%20moralistic%20perspective%2C%20but%20because%20it%E2%80%99s%20the%20%E2%80%9Coptimal%E2%80%9D%20thing%20to%20do%20from%20an%20evolutionary%20and%20cognitive%20perspective.)
 
 > "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [Harold J. Morowitz](https://emersongreenblog.wordpress.com/2019/10/23/thomas-nagels-natural-teleology/#:~:text=We%20start%20with%20observations%2C%20and%20if%20the%20evolving%20cosmos%20has%20an%20observed%20direction%2C%20rejecting%20that%20view%20is%20clearly%20nonempirical.%20There%20need%20not%20necessarily%20be%20a%20knowable%20end%20point%2C%20but%20there%20may%20be%20an%20arrow.)
 
@@ -998,6 +1025,8 @@ next steps for readers: sign up for updates, contribute, etc.
 > "You want to recruit producers, not consumers, and for that, you’ll need a purpose." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=You%20want%20to%20recruit%20producers%2C%20not%20consumers%2C%20and%20for%20that%2C%20you%E2%80%99ll%20need%20a%20purpose.)
 
 > "Why join the navy if you can be a pirate?" - [Steve Jobs](https://www.goodreads.com/quotes/513460-why-join-the-navy-if-you-can-be-a-pirate)
+
+> "Listen, the next revolution is gonna be a revolution of ideas." - [Bill Hicks](https://www.azquotes.com/quote/131769)
 
 > "Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do." - [Steve Jobs](https://www.goodreads.com/quotes/924-here-s-to-the-crazy-ones-the-misfits-the-rebels-the)
 

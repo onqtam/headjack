@@ -28,6 +28,8 @@ https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
 > "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
+> "It shouldn’t be tech companies per se getting into fact checking. It should be open source technology. Free, universally available code and data for epistemology. Take a piece of text, parse it, extract assertions, compare to explicitly specified knowledge graphs and oracles." - [Balaji Srinivasan](https://twitter.com/balajis/status/1266180931435417600)
+
 > "True ignorance is not the absence of knowledge, but the refusal to acquire it." - [Karl Popper](https://www.azquotes.com/quote/492103)
 
 > "The war of ideas is a Greek invention. It is one of the most important inventions ever made. Indeed, the possibility of fighting with words and ideas instead of fighting with swords is the very basis of our civilization, and especially of all its legal and parliamentary institutions." - [Karl Popper](https://www.goodreads.com/quotes/784074-the-war-of-ideas-is-a-greek-invention-it-is)
@@ -80,6 +82,7 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 
 > "Paraphrasing is hard to do when you've spent years demonizing the opposition, calling them venal or stupid and dismissing their concerns. Success at paraphrasing will be seen as a way of winning credibility. It means "I do understand my opponents... so my disagreement with them is well-informed."" - [Disputation Arenas: Harnessing Conflict and Competitiveness](https://www.davidbrin.com/nonfiction/disputation.html#:~:text=Paraphrasing%20is%20hard%20to%20do%20when%20you%27ve%20spent%20years%20demonizing%20the%20opposition%2C%20calling%20them%20venal%20or%20stupid%20and%20dismissing%20their%20concerns.%20Success%20at%20paraphrasing%20will%20be%20seen%20as%20a%20way%20of%20winning%20credibility.%20It%20means%20%22I%20do%20understand%20my%20opponents...%20so%20my%20disagreement%20with%20them%20is%20well%2Dinformed.%22)
 
+> "It is very obvious that we are not influenced by "facts" but by our interpretation of the facts." - [Alfred Adler](https://www.azquotes.com/quote/1124578)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: STONE TABLET IPFS CID HASH OF BOOK
