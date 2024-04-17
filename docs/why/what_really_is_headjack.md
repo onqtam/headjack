@@ -284,3 +284,5 @@ Headjack
 <img src="/img/meme_get_in_loser_building_the_hivemind.jpg"/>
 
 Headjack is the [15th and final](https://xkcd.com/927/) standard for decentralized identity.
+
+Every other network will be irrelevant

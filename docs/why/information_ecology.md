@@ -42,7 +42,9 @@ https://en.wikipedia.org/wiki/Citizens%27_assembly
 >
 > An alternative approach is a global moderator hierarchy. In the event of dispute, the lowest common ancestor mediates." - [Balaji Srinivasan](https://twitter.com/balajis/status/1415650556375232515)
 
-
+Pay moderators to check more of your tweets - otherwise infra wouldn't show more than X items of yours per day
+This way overly active people will pay the most
+This will also incentivize structured data in favor of text
 
 <!-- Think of all the ethnic, religious, political & corporate disputes that would never have existed if we had a ledger of record with all documents, events & human knowledge tied to identity & reputation with cryptographic certainty. -->
 

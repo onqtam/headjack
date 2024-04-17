@@ -222,6 +222,7 @@ booting up the reputation/accountability/status market
 
 > "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
 
+negative reputation and scammers
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status

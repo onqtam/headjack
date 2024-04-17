@@ -571,3 +571,15 @@ we need a response to ted kazinsky's unibomber manifesto
 
 > "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://www.azquotes.com/quote/609000)
 
+> "Extinction is the rule. Survival is the exception." - [Carl Sagan](https://www.goodreads.com/quotes/295592-extinction-is-the-rule-survival-is-the-exception)
+
+
+We're a mindless & unconscious energy-hungry superorganism with an embedded growth obligation in its economy & monetary system that is unable to contract and a lack of an immune system against market failures such as negative externalities and the exploitation of human psychology.
+sociopathic corporations
+we've been culturally hijacked through psychological operations
+also lacks an immune system - leaving market forces unchecked.
+with the goal of reaching sustainability and homeostasis.
+Nobody is truly in the driver's seat - the system is running on its own
+The current economy is the dreaded paperclip maximizer
+quote goes here: power of gods but not the wisdom
+

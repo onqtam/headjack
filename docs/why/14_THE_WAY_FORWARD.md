@@ -118,6 +118,8 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 # SECTION: Meaning of/in life
 ██████████████████████████████████████████████████████████████████
 
+we are starved for meaning
+
 > "When a person can't find a deep sense of meaning, they distract themselves with pleasure." - [Viktor E. Frankl](https://www.goodreads.com/quotes/5738688-when-a-person-can-t-find-a-deep-sense-of-meaning)
 
 > "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
@@ -174,6 +176,11 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 > "The sociologist Elise Boulding diagnosed the problem of our times as “temporal exhaustion”: “If one is mentally out of breath all the time from dealing with the present, there is no energy left for imaging the future." - [Stewart Brand](https://www.goodreads.com/quotes/7250028-the-sociologist-elise-boulding-diagnosed-the-problem-of-our-times)
 
 > "Civilization is revving itself into a pathologically short attention span. The trend might be coming from the acceleration of technology, the short-horizon perspective of market-driven economics, the next-election perspective of democracies, or the distractions of personal multitasking. All are on the increase. Some sort of balancing corrective to the short-sightedness is needed—some mechanism or myth that encourages the long view and the taking of long-term responsibility, where “the long term” is measured at least in centuries." - [Stewart Brand](https://www.goodreads.com/quotes/7249990-civilization-is-revving-itself-into-a-pathologically-short-attention-span)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Enlarging the self
+██████████████████████████████████████████████████████████████████
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -610,6 +617,9 @@ https://www.google.com/search?q=this+is+healthy
 > "When a system is far from equilibrium, small islands of coherence have the capacity to shift the entire system." - [Ilya Prigogine](https://www.gameb.wiki/index.php?title=An_Introduction_to_Game_B#:~:text=When%20a%20system%20is%20far%20from%20equilibrium%2C%20small%20islands%20of%20coherence%20have%20the%20capacity%20to%20shift%20the%20entire%20system.)
 
 > "When a system is far from equilibrium, small islands of coherence have the capacity to shift the entire system." - [Ilya Prigogine](https://www.systeminnovation.org/blog/five-lessons-from-system-shifters-lesson-three#:~:text=When%20a%20system%20is%20far%20from%20equilibrium%2C%20small%20islands%20of%20coherence%20have%20the%20capacity%20to%20shift%20the%20entire%20system.)
+
+game b should parasitize game A
+game b should be meta-stable
 
 > "The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/6410378-the-matrix-is-a-system-neo-that-system-is-our)
 
@@ -1065,4 +1075,5 @@ But a problem not fully understood is unsolvable.
 
 > "The number one priority for people today should be creating a winning, good attractor for our civilization." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=the%20number%20one%20priority%20for%20people%20today%20should%20be%20creating%20a%20winning%2C%20good%20attractor%20for%20our%20civilization.)
 
+The GB is the most meta high impact thing you could be doing - improving the capacity for cooperation and sensemaking for humanity
 
