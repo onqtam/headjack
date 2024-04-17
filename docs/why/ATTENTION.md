@@ -82,5 +82,7 @@ The fundamental issue of attention
 
 > "In short, we have lost our cognitive sovereignty. We aren’t much more than trained lab rats when it comes to compulsively looking at our phones 80 to 300 times a day!" - [Reclaiming Our Cognitive Sovereignty, by Jim Rutt](https://medium.com/@memetic007/reclaiming-our-cognitive-sovereignty-f49f30eb26bb#:~:text=In%20short%2C%20we%20have%20lost%20our%20cognitive%20sovereignty.%20We%20aren%E2%80%99t%20much%20more%20than%20trained%20lab%20rats%20when%20it%20comes%20to%20compulsively%20looking%20at%20our%20phones%2080%20to%20300%20times%20a%20day!)
 
+if you can insert a topic from the top-down that grabs 5-10% of the attention of people - you've reduced the attention over everything else by 5-10% as well - which you might want. Attention is the scarcest of resources
+"incoming war? Cue the UFO stuff"
 
 
