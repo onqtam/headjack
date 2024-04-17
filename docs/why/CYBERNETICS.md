@@ -84,6 +84,7 @@ https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cog
 
 > "Focusing is about saying No." - [Steve Jobs](https://www.goodreads.com/quotes/455912-focusing-is-about-saying-no)
 
+> "The art of being wise is the art of knowing what to overlook." - [David Brooks](https://www.goodreads.com/quotes/7221905-the-art-of-being-wise-is-the-art-of-knowing)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Bayesian Inference
