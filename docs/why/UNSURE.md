@@ -189,6 +189,16 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "If you want the present to be different from the past, study the past." - [Baruch Spinoza](https://www.goodreads.com/quotes/38724-if-you-want-the-present-to-be-different-from-the)
 
+> "Self-education is, I firmly believe, the only kind of education there is." - [Isaac Asimov](https://www.goodreads.com/quotes/131363-self-education-is-i-firmly-believe-the-only-kind-of-education)
+
+> "It seems to me, Golan, that the advance of civilization is nothing but an exercise in the limiting of privacy." - [Isaac Asimov](https://www.goodreads.com/quotes/773382-it-seems-to-me-golan-that-the-advance-of-civilization)
+
+> "The troubles of modern life come from being divorced from nature." - [Isaac Asimov](https://www.goodreads.com/quotes/7659654-the-troubles-of-modern-life-come-from-being-divorced-from)
+
+> "Can someone take the transcript here, add citations, and fact check it — then post to twitter as a reply? the actual power of twitter is replying with facts — not being hysterical and tweeting that Tucker is a Russian Asset" - [Jason Calacanis](https://twitter.com/Jason/status/1666496960323530752)
+
+> "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)
+
 
 
 

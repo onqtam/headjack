@@ -118,6 +118,8 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
 
+> "There is more wisdom in your body than in your deepest philosophy." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/68916-there-is-more-wisdom-in-your-body-than-in-your)
+
 > "Now, where do you look for models? Where do you go? The answer is so obvious. You go to nature. Nature has been playing this game for three billion years on this planet. We have been playing the game—we, the apostles of Christian scientism—for about 2,000 years. Nature has an economy, an elegance, a style that, if we could but emulate it, we could rise out of the rubble that we are making of the planet." - [A crisis in consciousness (1995), by Terence McKenna](https://www.organism.earth/library/document/crisis-in-consciousness#:~:text=Now%2C%20where,of%20the%20planet.)
 
 > "So self-interest is good as long as its contained by the self-interest of a community. You see, that makes us always be aware of other levels. If we can learn this as humans to say when we're making a decision: Is this good for me, my family, for my ecosystem, for my nation for my world? And then if it's good at some levels and at least harmless at others, like the Hippocratic oath “Do No Harm” then go ahead and try it. You're a creative human being." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=So%20self%2Dinterest,creative%20human%20being.)
@@ -137,6 +139,11 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=%E2%80%9CAs%20technology%20is%20empowering%20our%20choices%20and%20we%20are%20getting%20something%20like%20the%20power%20of%20gods%2C%20you%20have%20to%20have%20something%20like%20the%20love%20and%20the%20wisdom%20of%20gods%20to%20wield%20that%20or%20you%20self%2Ddestruct.%E2%80%9D)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Cultural evolution
+██████████████████████████████████████████████████████████████████
+
+> "Like natural selection, our cultural learning abilities give rise to “dumb” processes that can, operating over generations, produce practices that are smarter than any individual or even group. Much of our seeming intelligence actually comes not from raw brainpower or a plethora of instincts, but rather from the accumulated repertoire of mental tools (e.g., integers), skills (differentiating right from left), concepts (fly wheels), and categories (basic color terms) that we inherit culturally from earlier generations." - [The secret of our success: How culture is driving human evolution, domesticating our species, and making us smarter](https://ebin.pub/the-secret-of-our-success-how-culture-is-driving-human-evolution-domesticating-our-species-and-making-us-smarter-978-0-691-16685-8.html#:~:text=Like%20natural%20selection,from%20earlier%20generations.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation, Altruism & Management Theory

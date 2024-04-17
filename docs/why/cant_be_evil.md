@@ -2,6 +2,10 @@
 
 Whistleblower friendly ecosystem
 
+> "Any book worth banning is a book worth reading." - [Isaac Asimov](https://www.goodreads.com/quotes/1228919-any-book-worth-banning-is-a-book-worth-reading)
+
+> "Freedom is self-determination." - [Baruch Spinoza](https://www.azquotes.com/quote/1395002)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Centralization and control
 ██████████████████████████████████████████████████████████████████

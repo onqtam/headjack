@@ -113,6 +113,12 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 > "What a sad era when it is easier to smash an atom than a prejudice." - [Albert Einstein](https://www.goodreads.com/quotes/70175-what-a-sad-era-when-it-is-easier-to-smash)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: group think
+██████████████████████████████████████████████████████████████████
+
+> "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/2137-in-individuals-insanity-is-rare-but-in-groups-parties-nations)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Probability & prediction
 ██████████████████████████████████████████████████████████████████
 
@@ -133,6 +139,8 @@ https://www.metaculus.com/help/faq/#metaculus-prediction
 https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
 
 https://en.wikipedia.org/wiki/Prediction_market
+
+> "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
 
 we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
 
@@ -813,6 +821,16 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 > "I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9670)
 
 the next step of encephalization is truly networking our minds - deduplicated identities, concepts & events
+
+> "You can't gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it." - [Robert E. Kahn](https://www.azquotes.com/quote/1522179)
+
+
+Peter Russell's "The Global Brain" feels / is absolutely prophetic
+https://en.wikipedia.org/wiki/Global_brain
+TODO: embed this!!!
+The Global Brain - Peter Russell
+https://www.youtube.com/watch?v=B1sr9x263LM
+
 
 ██████████████████████████████████████████████████████████████████
 # quotes
