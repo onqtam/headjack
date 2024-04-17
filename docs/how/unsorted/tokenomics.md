@@ -49,6 +49,9 @@ Tokenomics: using staking to combat the scale-free nature of IDM centralization
 The more stake you have, the cheaper it is to create new accounts
 But the rich get richer?
 
+network owners & delegators can vote not only on the revenue for the system, but also for future projections - their intentions for the system for 1, 2, 5 years onwards with varying degrees of levels of commitment - this way users of the network (actual apps & services) will be able to forecast the costs of operation for this network. Predictability & a minimalistic design without much governance is perfect for businesses to be built on top of it
+
+
 https://en.wikipedia.org/wiki/Liquid_democracy
 
 https://twitter.com/apolynya/status/1614832389343285249

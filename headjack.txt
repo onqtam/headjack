@@ -3865,6 +3865,8 @@ The metaverse is the address space of the global brain
 
 > "Civilization advances by extending the number of important operations which we can perform without thinking of them." - [Alfred North Whitehead](https://www.goodreads.com/quotes/53970-civilization-advances-by-extending-the-number-of-important-operations-which)
 
+> "We grow in direct proportion to the amount of chaos we can sustain and dissipate." - [Ilya Prigogine](https://www.azquotes.com/quote/387208)
+
 
 
 
@@ -4282,9 +4284,6 @@ the most radical experiment in self-organization and emergence to date
 this can replace even phone numbers
 
 instead of upvote/downvote - 5 star ratings on 2 measures: quality and importance
-
-game b should parasitize game A
-game b should be meta-stable
 
 The law of attraction - and attention and focus and how we need to view our attention
 
@@ -4782,10 +4781,10 @@ The [Eternal September](https://en.wikipedia.org/wiki/Eternal_September) problem
 
 The Personal Responsibility Vortex: Bret Weinstein at TEDxTheEvergreenStateCollege
 https://www.youtube.com/watch?v=SjNRtrZjkfE
-Bret's point is that there is a positive feedback loop between lobbying and making more money due to lobbying which affords more lobbying - aka regulatory capture. We need to engineer a negative feedback force that is adequate enough to constrain such unstable and self-terminating feedback loops.
+Bret's point is that there is a positive feedback loop between lobbying and making more money due to lobbying which affords more lobbying - aka regulatory capture. We need to engineer a negative feedback force that is adequate enough to regulate/constrain such unstable and self-terminating feedback loops.
 This unconstrained feedback loop is perhaps the biggest contributor to wealth and power concentration.
 Furthermore, people and corporations that do the right thing often disadvantage themselves (often in the form of having less money) which leaves them with less power which leads to further disadvantage - Bret calls that the "Personal Responsibility Vortex".
-This personal responsibility should be directed towards collective action aimed at restructuring the incentives that surround the market and chanring the malignant behavior.
+This personal responsibility should be directed towards collective action aimed at restructuring the incentives that surround the market and changing the malignant behavior.
 All costs and negative externalities (polution & environmental damage, even debt for future generations) need to be accounted for.
 All manufactured demand needs to be called out.
 The necessary and sufficient conditions for adaptive evolution are: 1) reproduction, 2) variation, 3) heritibility, 4) differential success.
@@ -4800,17 +4799,12 @@ https://en.wikipedia.org/wiki/Fitness_landscape
 
 lets map every negative externality that is unaccounted for in economics
 
-If we manage to enlarge the self and make it conscious we might be able to solve humanity’s greatest challenges
-
-> "We grow in direct proportion to the amount of chaos we can sustain and dissipate." - [Ilya Prigogine](https://www.azquotes.com/quote/387208)
 
 
 
 
 
 
-
-network owners & delegators can vote not only on the revenue for the system, but also for future projections - their intentions for the system for 1, 2, 5 years onwards with varying degrees of levels of commitment - this way users of the network (actual apps & services) will be able to forecast the costs of operation for this network. Predictability & a minimalistic design without much governance is perfect for businesses to be built on top of it
 
 We must make everything essential as affordable as possible and figure out the taxes for everything else - we can vote even on that
 
@@ -4818,52 +4812,18 @@ We can compress any pocket of the internet with different content values and wei
 
 
 
-what do we define define as progress?
-
-negative reputation and scammer websites
-
-Expertise is earned through predictive capability under intense scrutiny
-
-
-
-Pay moderators to check more of your tweets - otherwise infra wouldn't show more than X items of yours per day
-This way overly active people  will pay the most
-This will also incentivize structured data in favor of text
-
-
-
-catastrophes vs dystopias - the 2 attractors of chaos & centralization
-
-We're a mindless & unconscious energy-hungry superorganism with an embedded growth obligation in its economy & monetary system that is unable to contract and a lack of an immune system against market failures such as negative externalities and the exploitation of human psychology.
-sociopathic corporations
-we've been culturally hijacked through psychological operations
-also lacks an immune system - leaving market forces unchecked.
-with the goal of reaching sustainability and homeostasis.
-Nobody is truly in the driver's seat - the system is running on its own
-
-The current economy is the dreaded paperclip maximizer
-
-quote goes here: power of gods but not the wisdom
+what do we define as progress?
 
 
 
 
 
-what if you burn tokens in the protocol to signify yourself as an individual and not a bot? that way the value would flow back to the chain. IDMs could be paying in bulk and publishing only off-chain which accounts have paid
 
-There is nothing more important than alignment - both intra species and across towards AIs. Its about cooperation
+catastrophes vs dystopias - the 2 attractors of chaos & tyranny
 
-Headjack is the most meta thing you could be doing - improving the capacity for cooperation and sensemaking for humanity
 
-Feedback loop alignment
-
-What if the pyramids resembled the most stable and prosperous social structure - a bottom-up pyramid of competence/responsibility/delegation
 
 Analogy between the anonymized stress and the zk anonimyty set for votes
-
-we can engineer our economy the way we want it - not the way it is made for us
-
-Every other network will be irrelevant
 
 I would put antibiotics up there in the top 20 worse things
 
@@ -4874,21 +4834,12 @@ We can have subreddits about values such as “what are the most impactful  caus
 Every edge is its own subreddit - any public choice and event has a q&a subreddit
 
 
-
-we are starved for meaning
-
 an ongoing poll of how well we're doing with all of the goals
 
 An operating system for networked thought
 
 
 Reputation should be computable
-
-we need to make the global energy hungry super organism conscious
-
-Public feeds that u can subscribe to
-
-what if anyone could review and comment on anything - like in peer review?
 
 different levels of certainty
 
