@@ -89,6 +89,8 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 ^^ Thank God for the UN
 
+> "Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge.'" - [Isaac Asimov](https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through)
+
 > "Politicians should wear sponsor jackets like Nascar drivers, then we know who owns them." - [Robin Williams](https://quotepark.com/quotes/2092802-robin-williams-politicians-should-wear-sponsor-jackets-like-nasca/)
 
 > "Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other." - [Oscar Ameringer](https://www.goodreads.com/quotes/415646-politics-is-the-gentle-art-of-getting-votes-from-the)
@@ -379,6 +381,12 @@ Philip morris Indonesia kids
 
 > "The propagandist's purpose is to make one set of people forget that certain other sets of people are human." - [Aldous Huxley](https://www.goodreads.com/quotes/94619-the-propagandist-s-purpose-is-to-make-one-set-of-people)
 
+> "There are no nations! There is only humanity. And if we don't come to understand that right soon, there will be no nations, because there will be no humanity." - [Isaac Asimov](https://www.goodreads.com/quotes/93498-the-earth-should-not-be-cut-up-into-hundreds-of#:~:text=There%20are%20no%20nations!%20There%20is%20only%20humanity.%20And%20if%20we%20don%27t%20come%20to%20understand%20that%20right%20soon%2C%20there%20will%20be%20no%20nations%2C%20because%20there%20will%20be%20no%20humanity.)
+
+In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of misplaced power exists and will persist.
+–President Dwight D. Eisenhower
+https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20the%20councils%20of%20government%2C%20we%20must%20guard%20against%20the%20acquisition%20of%20unwarranted%20influence%2C%20whether%20sought%20or%20unsought%2C%20by%20the%20military%2Dindustrial%20complex.%20The%20potential%20for%20the%20disastrous%20rise%20of%20misplaced%20power%20exists%20and%20will%20persist.%0A%E2%80%93President%20Dwight%20D.%20Eisenhower
+
 > "Any organization created out of fear must create fear to survive." - [Bill Hicks](https://www.azquotes.com/quote/798848)
 
 > "Did you ever stop to thnk about all the people we kill? They're always people who tell us to live together in harmony and try to love one another: Jesus, Ghandi, Lincoln, John Kennedy, Bobby Kennedy, Medgar Evers, Malcolm X, Martin Luther King, John Lennon. They all said: 'Try to live together peacefully.' BAM! Right in the f--in head! Aparently we're not ready for that!" - [George Carlin](https://www.azquotes.com/quote/891216)
@@ -388,6 +396,8 @@ Philip morris Indonesia kids
 > "War is rich old men protecting their property by sending middle class and lower class young men off to die. It always has been." - [George Carlin](https://www.azquotes.com/quote/1369078)
 
 > "Tell me why are we so blind to see That the ones we hurt are you and me?" - [Coolio - Gangsta’s Paradise](https://genius.com/Coolio-gangstas-paradise-lyrics#:~:text=Tell%20me%20why%20are%20we%20so%20blind%20to%20see%0AThat%20the%20ones%20we%20hurt%20are%20you%20and%20me%3F)
+
+> "Violence is the last refuge of the incompetent." - [Isaac Asimov](https://www.goodreads.com/quotes/9658-violence-is-the-last-refuge-of-the-incompetent)
 
 > "It is the impulse of a finite player to go against another nation in war, it is the design of an infinite player to oppose war within a nation." - [James Carse](https://www.goodreads.com/quotes/6844935-it-is-the-impulse-of-a-finite-player-to-go)
 
@@ -535,3 +545,5 @@ we need a response to ted kazinsky's unibomber manifesto
 > "With the detonation of the first atomic bomb, a new age of humanity began. At that moment, a rapidly accelerating technological power finally reached the threshold where we might be able to destroy ourselves — the first point where the threat to humanity from within exceeded the threats from the natural world. A point where the entire future of humanity hangs in the balance. Where every advance our ancestors have made could be squandered, and every advance our descendants may achieve could be denied." - [The Precipice, by Toby Ord](https://forum.effectivealtruism.org/posts/QHxjRx8zpqL4xxsXT/toby-ord-fireside-chat-and-q-and-a#:~:text=With%20the%20detonation,could%20be%20denied.)
 
 > "These threats to humanity and how we address them define our time. The advent of nuclear weapons posed a real risk of human extinction in the 20th century. With the continued acceleration of technology, and without serious efforts to protect humanity, there is strong reason to believe the risk will be higher this century, and increase with each century that technological progress continues. Because these anthropogenic risks outstrip all natural risks combined, they set the clock on how long humanity has left to pull back from the brink." - [The Precipice, by Toby Ord](https://forum.effectivealtruism.org/posts/QHxjRx8zpqL4xxsXT/toby-ord-fireside-chat-and-q-and-a#:~:text=These%20threats%20to,from%20the%20brink.)
+
+> "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom." - [Isaac Asimov](https://www.goodreads.com/quotes/4078-the-saddest-aspect-of-life-right-now-is-that-science)

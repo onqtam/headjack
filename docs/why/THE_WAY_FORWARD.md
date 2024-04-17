@@ -108,7 +108,11 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
 
+> "We are living through the most exciting, challenging and most critical time in human history. Never before has so much been possible; and never before has so much been at stake." - [Peter Russell](https://www.azquotes.com/quote/1336466)
+
 > "A significant fraction of people want moral progress. Just as much as the technologist wants to get to Mars, a large chunk of society wants to feel like the good guys fighting in some grand cause. And if you don’t give them that cause, they’ll make one up, and/or start fighting each other." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/left-is-the-new-right-is-the-new-left#:~:text=a%20significant%20fraction%20of%20people%20want%20moral%20progress.%20Just%20as%20much%20as%20the%20technologist%20wants%20to%20get%20to%20Mars%2C%20a%20large%20chunk%20of%20society%20wants%20to%20feel%20like%20the%20good%20guys%20fighting%20in%20some%20grand%20cause.%20And%20if%20you%20don%E2%80%99t%20give%20them%20that%20cause%2C%20they%E2%80%99ll%20make%20one%20up%2C%20and/or%20start%20fighting%20each%20other.)
+
+> "The biggest contributor to happiness is not having tons of stuff, but knowing your address in the universe of meaning." - [Chris Arnade](https://twitter.com/EvoConscious/status/1717921294476361902)
 
 > "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
 
@@ -130,6 +134,17 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Life's most persistent and urgent question is, 'What are you doing for others?'" - [Martin Luther King Jr.](https://www.azquotes.com/quote/158997)
 
+> "The other mistake is to wallow in, or even celebrate, nihilism — to accept it as an end state and as the necessary consequence of the scientific revolution. Nietzsche believed that the correct path was not to avoid nihilism or to accept it as an end state, but rather to pass through nihilism as a necessary stepping stone on the way to something better. Nietzsche believed that we must allow our previous conception of the world to die off, but we should not wallow in or celebrate this death as an end point. Rather, we must find a new conception of the world that once again re-establishes meaning." - [The Revaluation of All Values, Part 3, by Brett Andersen](https://brettandersen.substack.com/p/revaluation3#:~:text=The%20other%20mistake,re%2Destablishes%20meaning.)
+
+> "All the sciences have now to pave the way for the future task of the philosopher; this task being understood to mean, that he must solve the problem of value, that he has to fix the hierarchy of values." - [Friedrich Nietzsche (Genealogy of Morals, I. 17)](https://en.wikisource.org/wiki/Page:The_Genealogy_of_Morals.djvu/63#:~:text=All%20the%20sciences%20have%20now%20to%20pave%20the%20way%20for%20the%20future%20task%20of%20the%20philosopher%3B%20this%20task%20being%20understood%20to%20mean%2C%20that%20he%20must%20solve%20the%20problem%20of%20value%2C%20that%20he%20has%20to%20fix%20the%20hierarchy%20of%20values.)
+
+> "I know my fate. One day my name will be associated with the memory of something tremendous — a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/273825-i-know-my-fate-one-day-my-name-will-be)
+
+> "Man is a rope stretched between the animal and the Superman--a rope over an abyss. A dangerous crossing, a dangerous wayfaring, a dangerous looking-back, a dangerous trembling and halting." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/384722-man-is-a-rope-stretched-between-the-animal-and-the#:~:text=Man%20is%20a%20rope%20stretched%20between%20the%20animal%20and%20the%20Superman%2D%2Da%20rope%20over%20an%20abyss.%0A%0AA%20dangerous%20crossing%2C%20a%20dangerous%20wayfaring%2C%20a%20dangerous%20looking%2Dback%2C%20a%20dangerous%20trembling%20and%20halting.)
+
+"Where has God gone?... We have killed him... Who gave us the sponge to wipe away the entire horizon? What did we do when we unchained the earth from its sun?... Are we not perpetually falling? Backward, sideward, forward, in all directions? Is there any up or down left?... God is dead... And we have killed him... Must we not ourselves become gods simply to be worthy of it?" - [Friedrich Nietzsche](https://www.age-of-the-sage.org/philosophy/friedrich_nietzsche_quotes.html#:~:text=%22Where%20has%20God,all%20history%20hitherto.%22)
+Nietzsche's Wake-Up Call | John Vervaeke & Theo Von
+https://www.youtube.com/watch?v=uysmjkuP58U
 
 
 ██████████████████████████████████████████████████████████████████
@@ -420,6 +435,8 @@ we need to upgrade our capacity to learn
 We are failing at raising humans
 
 We must consciously raise the awareness and education of the so-called masses
+
+> "People think of education as something they can finish." - [Isaac Asimov](https://www.goodreads.com/quotes/696664-people-think-of-education-as-something-they-can-finish)
 
 > "I know no safe depository of the ultimate powers of the society but the people themselves ; and if we think them not enlightened enough to exercise their control with a wholesome discretion, the remedy is not to take it from them, but to inform their discretion by education. This is the true corrective of abuses of constitutional power." - [Thomas Jefferson](https://www.goodreads.com/quotes/26169-i-know-no-safe-depository-of-the-ultimate-powers-of)
 
@@ -753,6 +770,8 @@ God is the conscious alignment protocol
 > "God is a human invented symbol is my belief - it's our most powerful symbol - it carries with it awe, reverence, respect. I propose to steal it with love." - [Stuart Kauffman](https://youtu.be/EjQCaC7JSMY?t=3931)
 
 > "We no longer need the Creator God - we just need creativity." - [Gordon Kaufman](https://youtu.be/EjQCaC7JSMY?t=4035)
+
+> "The universe began about fifteen billion years ago, in almost absolute simplicity, and it's been getting more and more complex ever since. This movement from the simple to the complex is built into the web and weave of the universe, and it's called the tendency toward complexity. We're the products of this complexification, and so are the birds, and the bees, and the trees, and the stars, and even the galaxies of stars. ... Okay, the final or ultimate complexity - the place where all this complexity is going - is what, or who, we might call God. And anything that promotes, enhances, or accelerates this movement toward God is good. Anything that inhibits, impedes, or prevents it is evil." - [Gregory David Roberts](https://www.consciousevolution.co.uk/blog/what-is-the-meaning-of-life#:~:text=The%20universe%20began,it%20is%20evil.)
 
 As long as there’s an argument to have a CIA we’ve not reached sustainability.
 
