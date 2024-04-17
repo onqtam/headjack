@@ -605,7 +605,7 @@ https://www.google.com/search?q=this+is+healthy
 > "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Fashion - reclaiming it
+# SECTION: Fashion, mimetic desire and mimicry
 ██████████████████████████████████████████████████████████████████
 
 > "Rather than reject the notion of popularity, we should pay close attention to how things get to be popular and try to see how more helpful ideas could be embraced with equally widespread enthusiasm." - [Alain de Botton](https://www.vox.com/conversations/2017/4/29/15468242/9-questions-alain-de-botton-popular-culture-philosophy-humanities#:~:text=Rather%20than%20reject%20the%20notion%20of%20popularity%2C%20we%20should%20pay%20close%20attention%20to%20how%20things%20get%20to%20be%20popular%20and%20try%20to%20see%20how%20more%20helpful%20ideas%20could%20be%20embraced%20with%20equally%20widespread%20enthusiasm.)
