@@ -3,6 +3,8 @@
 # SECTION: Worldview
 ██████████████████████████████████████████████████████████████████
 
+How do we most optimally crowdsource the best possible worldview?
+
 > "We are a way for the cosmos to know itself." - [Carl Sagan](https://www.goodreads.com/quotes/237548-we-are-a-way-for-the-cosmos-to-know-itself)
 
 > "Through our eyes, the universe is perceiving itself." - [Alan Watts](https://www.goodreads.com/quotes/226051-through-our-eyes-the-universe-is-perceiving-itself-through-our)
@@ -192,6 +194,8 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 # SECTION: Enlarging the self
 ██████████████████████████████████████████████████████████████████
 
+Sublimation of the individual self into a higher entity
+
 > "With all my heart I believe that the world’s present system of sovereign nations can only lead to barbarism, war and inhumanity, and that only world law can assure progress towards a civilized peaceful community." - [Albert Einstein](https://quotefancy.com/quote/764188/Albert-Einstein-With-all-my-heart-I-believe-that-the-world-s-present-system-of-sovereign)
 
 > "Nationalism is an infantile thing. It is the measles of mankind." - [Albert Einstein](https://www.goodreads.com/quotes/361110-nationalism-is-an-infantile-thing-it-is-the-measles-of)
@@ -213,6 +217,9 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 > "The wellbeing of one is tied to the wellbeing of all. Envisioning humanity as a global superorganism allows for a reimagining of individual and collective identity. The suffering of any one part is a wound to the collective whole." - [Harmonizing Humanity: A Unifying Worldview is the Only Lasting Solution to Peace in the Middle East, by Bobby Azarian](https://roadtoomega.substack.com/p/harmonizing-humanity-a-unifying-worldview#:~:text=the%20wellbeing%20of%20one%20is%20tied%20to%20the%20wellbeing%20of%20all.%20Envisioning%20humanity%20as%20a%20global%20superorganism%20allows%20for%20a%20reimagining%20of%20individual%20and%20collective%20identity.%20The%20suffering%20of%20any%20one%20part%20is%20a%20wound%20to%20the%20collective%20whole.)
 
 > "This is the essence of the superorganism worldview — one that sees not a battleground of competing tribes but a tapestry of human endeavor, rich with the potential for synthesis and harmony while preserving its unique variety of cultures and customs. It calls for a new kind of global cooperation, one that transcends tribalistic divisions and unites us in the common pursuit of a world that is sustainable, just, and flourishing." - [Harmonizing Humanity: A Unifying Worldview is the Only Lasting Solution to Peace in the Middle East, by Bobby Azarian](https://roadtoomega.substack.com/p/harmonizing-humanity-a-unifying-worldview#:~:text=This%20is%20the,just%2C%20and%20flourishing.)
+
+Mark Zuckerberg bunker - he hasn't got the memo that we're all in this together
+https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doomsday-bunker-blast-resistant-door
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
@@ -316,6 +323,8 @@ we can - and should - manifest the first major intentional evolutionary step for
 ██████████████████████████████████████████████████████████████████
 # SECTION: Reducing or improving bureaucracy through culture, norms, automation & collective intelligence
 ██████████████████████████████████████████████████████████████████
+
+How much legislature and bureaucracy can be replaced simply by norms, culture, stigma and reputation? Humanity operated like that for thousands of years
 
 > "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
 
@@ -447,6 +456,8 @@ Logically derived for forming a coherent next level system
 
 Alexander Bard is right that from a certain perspective the separation of church and state has been a mistake (just one perspective !!!)
 
+What if web3 is not "the Internet of value" as in transactional value, but the internet of values?
+
 > "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)
 
 > "I believe a Magna Carta for the internet is exactly what we need. We need to encode our values not just in writing but in the structure of the internet." - [Edward Snowden](https://www.theregister.com/2014/03/21/quotw_ending_march_20/#:~:text=I%20believe%20a%20Magna%20Carta%20for%20the%20internet%20is%20exactly%20what%20we%20need.%20We%20need%20to%20encode%20our%20values%20not%20just%20in%20writing%20but%20in%20the%20structure%20of%20the%20internet.)
@@ -462,6 +473,8 @@ Alexander Bard is right that from a certain perspective the separation of church
 ██████████████████████████████████████████████████████████████████
 
 Eudaemonic economy
+
+Conscious economics
 
 > "Economics can be seen as the interface layer between our values and the way we build the world." - [Daniel Schmachtenberger](https://thecitesite.com/authors/daniel-schmachtenberger/#:~:text=Economics%20can%20be%20seen%20as%20the%20interface%20layer%20between%20our%20values%20and%20the%20way%20we%20build%20the%20world.)
 
@@ -572,6 +585,8 @@ Stagnation & optimizing for the wrong thing (GDP)
 
 children are sponges
 
+Curiosity/acc
+
 > "Civilization is in a race between education and catastrophe." - [H. G. Wells](https://www.goodreads.com/quotes/107797-civilization-is-in-a-race-between-education-and-catastrophe-let)
 > "Human history becomes more and more a race between education and catastrophe." - [H. G. Wells](https://www.goodreads.com/quotes/39026-human-history-becomes-more-and-more-a-race-between-education)
 
@@ -586,7 +601,11 @@ We are all complicit in ignorance
 we need to upgrade our capacity to learn
 We are failing at raising humans
 
+What if our games taught skills that the GB needs?
+
 We must consciously raise the awareness and education of the so-called masses
+
+> "My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!" - [Steve Jobs, 1985](https://x.com/sjobs_stories/status/1748435166349975643)
 
 > "People think of education as something they can finish." - [Isaac Asimov](https://www.goodreads.com/quotes/696664-people-think-of-education-as-something-they-can-finish)
 
@@ -621,9 +640,10 @@ We must consciously raise the awareness and education of the so-called masses
 
 > "There is no such thing as genius, some children are just less damaged than others." - [R. Buckminster Fuller](https://www.azquotes.com/quote/665689)
 
-> "There will come a time when the proper education of children, by a glorified system of spontaneous education of choice, similar to the Montessori System, will be made possible." - [R. Buckminster Fuller](https://www.azquotes.com/quote/927032)
+> "There will come a time when the proper education of children, by a glorified system of spontaneous education of choice, similar to the [Montessori System](https://en.wikipedia.org/wiki/Montessori_education), will be made possible." - [R. Buckminster Fuller](https://www.azquotes.com/quote/927032)
 
-https://en.wikipedia.org/wiki/Montessori_education
+> "A society to be successful must maintain a balance between nurturing excellence and encouraging the average to improve." - [Lee Kuan Yew](https://www.goodreads.com/quotes/6774847-a-society-to-be-successful-must-maintain-a-balance-between)
+
 
 > "Everyone is born a genius, but the process of living de-geniuses them." - [R. Buckminster Fuller](https://www.goodreads.com/quotes/136839-everyone-is-born-a-genius-but-the-process-of-living)
 
@@ -748,6 +768,13 @@ https://www.google.com/search?q=this+is+healthy
 > "The transaction cost in political decision-making is so high that we centralize it. But decentralized decision-making is better. It just needs the proper mechanisms to aggregate the insights of the masses. Like money before, these mechanisms will standardize the decision-making between individual humans. Where today we’re having open debates based in rhetoric, tomorrow decision-making will be formalized into a crowd-sourcing mechanism." - [What the History of Finance Can Tell Us About a Better Democracy, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-the-history-of-finance-can-tell#:~:text=the%20transaction%20cost,crowd%2Dsourcing%20mechanism.)
 
 > "When designed to present both supporting and opposing evidence and arguments for each issue, apply [conflict resolution](https://en.wikipedia.org/wiki/Conflict_resolution) and [Cost–benefit analysis](https://en.wikipedia.org/wiki/Cost%E2%80%93benefit_analysis) techniques, and actively address [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) and other [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias), E-Democracy could potentially foster a more informed citizenry. However, the development of such a system poses significant challenges. These include designing sophisticated platforms to achieve these aims, navigating the dynamics of populism while acknowledging that not everyone has the time or resources for full-time policy analysis and debate, promoting inclusive participation, and addressing cybersecurity and privacy concerns. Despite these hurdles, some envision e-democracy as a potential facilitator of more participatory governance, a countermeasure to excessive partisan dogmatism, a problem-solving tool, a means for evaluating the validity of pro/con arguments, and a method for balancing power distribution within society." - [E-democracy](https://en.wikipedia.org/wiki/E-democracy#:~:text=When%20designed%20to,distribution%20within%20society.)
+
+We need to make open source the norm rather than the exception - and push it further than mere code
+https://en.wikipedia.org/wiki/Open-source_governance
+
+> "Open politics is not a top–down theory but a set of best practices from [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism), [participatory democracy](https://en.wikipedia.org/wiki/Participatory_democracy) and [deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy), informed by [e-democracy](https://en.wikipedia.org/wiki/E-democracy) and netroots experiments, applying argumentation framework for issue-based argument... Some variants of it draw on the theory of [scientific method](https://en.wikipedia.org/wiki/Scientific_method) and [market methods](https://en.wikipedia.org/wiki/Price_mechanism), including [prediction markets](https://en.wikipedia.org/wiki/Prediction_market) and [anticipatory democracy](https://en.wikipedia.org/wiki/Anticipatory_democracy)." - [Open-source governance, Wikipedia](https://en.wikipedia.org/wiki/Open-source_governance#:~:text=open%20politics%20is,anticipatory%20democracy.)
+
+> "Open government is the governing doctrine which maintains that citizens have the right to access the documents and proceedings of the government to allow for effective public oversight. In its broadest construction, it opposes [reason of state](https://en.wikipedia.org/wiki/National_interest) and other considerations which have tended to legitimize extensive state [secrecy](https://en.wikipedia.org/wiki/Secrecy)." - [Open government, Wikipedia](https://en.wikipedia.org/wiki/Open_government#:~:text=Open%20government%20is%20the,extensive%20state%20secrecy.)
 
 > "An ethos is the characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations. The establishment of a new global ethos based on the human superorganism perspective requires a fundamental shift in how we envision international cooperation. Systems thinking is an analytical approach that views complex problems through the lens of the whole system rather than isolated parts. It focuses on designing resilient and adaptive systems capable of withstanding and evolving through challenges, with an understanding that changes in one part of a system can significantly impact the entire system.
 >
@@ -898,7 +925,24 @@ What if we could make a literally true one?
 The fairness protocol as god
 The god protocol is about fairness and consent
 
+How do we anthropomorphize the global brain just like we’ve done with past gods?
+
+God is the puppet master
+God is whatever he needs to be
+
+God is the engine and totality of human knowledge
+
+
 > "The religion of the future will be a cosmic religion. It should transcend a personal God and avoid dogmas and theology." - [Albert Einstein](https://www.goodreads.com/quotes/501883-the-religion-of-the-future-will-be-a-cosmic-religion)
+
+God was always trending/leaning towards what we needed him to be and what was achievable given the civilizational path dependence. The enlightenment and the industrial revolution have given us orders of magnitude more knowledge about the world and its time to use all that and define the next version of god
+
+To be in the presence of god is to be engaged in the most win-win game possible
+
+The evolution of god shows us how god is usually the point towards which we’re aiming at
+God is consciousness - god is matter knowing itself and managing to command itself - god is attention - god is phenomenology - as a process god is experience
+
+God is the solution for us going through this evolutionary bottleneck - god is survivability - god is life - god is meaning
 
 God design
 Designing god
@@ -1296,4 +1340,10 @@ kennedy quote - choose to go to the moon not because it is easy but because it i
 > "As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them." - [Aaron Swartz](https://www.azquotes.com/quote/873585)
 
 > "There is a technical solution to every political problem..." - [Edward Snowden](https://www.azquotes.com/quote/685668)
+
+Civilization is stories all the way down
+Turtles all the way down
+Alignment all the way down
+
+Abrahamic religion and money itself are the only competitors
 

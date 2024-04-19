@@ -129,12 +129,20 @@ https://en.wiktionary.org/wiki/calculemus
 
 > "It is obvious that if we could find characters or signs suited for expressing all our thoughts as clearly and as exactly as arithmetic expresses numbers or geometry expresses lines, we could do in all matters insofar as they are subject to reasoning all that we can do in arithmetic and geometry. For all investigations which depend on reasoning would be carried out by transposing these characters and by a species of calculus." - [Gottfried Wilhelm Leibniz](http://www.artandpopularculture.com/Gottfried_Leibniz#:~:text=It%20is%20obvious,species%20of%20calculus.)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: PageRank 2.0
+██████████████████████████████████████████████████████████████████
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status & Prestige
 ██████████████████████████████████████████████████████████████████
 
-we need to change our concept of prestige
+“Let the (status) game begin”
+With a picture of the clown from the movie “saw”
+
+we need to change our concept of status
 
 > "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
 
@@ -216,12 +224,18 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 
 > "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
 
+> "The world is not driven by greed; it's driven by envy." - [Charlie Munger](https://x.com/shaneaparrish/status/1748353737167356305)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Reverse panopticon
 ██████████████████████████████████████████████████████████████████
 
 opt-in or inverted panopticon
 https://en.wikipedia.org/wiki/Panopticon
+
+
+The Hawthorne effect is a type of human behavior reactivity in which individuals modify an aspect of their behavior in response to their awareness of being observed.
+https://en.wikipedia.org/wiki/Hawthorne_effect
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Whistleblowing

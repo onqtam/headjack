@@ -50,10 +50,15 @@ It incentivized the development of rational cognition
 # SECTION: Governance & how broken it is
 ██████████████████████████████████████████████████████████████████
 
+Dumb criminals break laws, smart criminals make laws
+
 ministry of loneliness
 https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "The more heroic you are, the more beautiful you are, the more you will be made to suffer." - [Eric Weinstein](https://youtu.be/o2nG7-eXxko?t=4908)
+
+It will either be the "penetrated political cabinets with young global leaders", or us that is in charge of humanity's direction.
+https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 > "The purpose of a system is what it does." - [Stafford Beer](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does)
 
@@ -254,6 +259,15 @@ Unbreaking America: Solving the Corruption Crisis
 > - They constantly add regulations without explaining them.
 >
 > - The ways that citizens can make their voices heard are obsolete." - [Hypergrowth Society, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/hypergrowth-society#:~:text=the%20processes%20of,heard%20are%20obsolete.)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Corruption
+██████████████████████████████████████████████████████████████████
+
+If you don’t think media & the system are corrupt to the core - read Balaji’s piece on SBF & FTX
+https://balajis.com/p/crypto-twitter-found-sbfs-fraud
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
@@ -500,6 +514,8 @@ Philip morris Indonesia kids
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
 
+the biggest contributor as an entity to global warming is The Pentagon
+
 > "WAR is a racket. It always has been. It is possibly the oldest, easily the most profitable, surely the most vicious. It is the only one international in scope. It is the only one in which the profits are reckoned in dollars and the losses in lives." - [Smedley D. Butler](https://www.goodreads.com/quotes/816646-war-is-a-racket-it-always-has-been-it-is)
 
 > "It's not radical Islam that worries the US - it's independence." - [Noam Chomsky](https://www.goodreads.com/quotes/343018-it-s-not-radical-islam-that-worries-the-us----it-s)
@@ -627,6 +643,8 @@ The Story of Stuff
 
 why do they make packaging that's impossible to reuse/recycle and is composed of multiple different types of material?
 
+Ecocide - insects are dying at 2% per year
+
 > "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett#:~:text=%22The%20greatest%20shortcoming%20of%20the%20human%20race%20is%20our%20inability%20to%20understand%20the%20exponential%20function.%22)
 
 
@@ -638,6 +656,8 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 
 > "We cannot win this battle to save species and environments without forging an emotional bond between ourselves and nature as well - for we will not fight to save what we do not love." - [Stephen Jay Gould](https://www.azquotes.com/quote/598451)
 
+How do we force companies to not waste any resources? Why would any company waste a perfectly good router and not reuse it when it is returned in perfect condition? This is parasitic behavior - it is maladaptive to humanity as a whole. Most such needless waste must be eliminated. How do we turn into a value and how do we force companies to do this?
+https://www.techspot.com/news/85862-record-amount-e-waste-generated-2019.html
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Existential risks
