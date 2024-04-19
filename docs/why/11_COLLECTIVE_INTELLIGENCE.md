@@ -150,6 +150,10 @@ https://en.wikipedia.org/wiki/Prediction_market
 
 > "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
 
+> "A clever person solves a problem. A wise person avoids it." - [Albert Einstein](https://www.goodreads.com/quotes/8241-a-clever-person-solves-a-problem-a-wise-person-avoids)
+
+> "Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write!" - [H. G. Wells](https://www.azquotes.com/quote/685542)
+
 we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
 
 on prediction markets...
@@ -209,6 +213,13 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 # SECTION: Multiperspectival viewing
 ██████████████████████████████████████████████████████████████████
 
+> "If we understood something just one way, we would not understand it at all." - [Marvin Minsky](https://www.azquotes.com/quote/525942)
+> "You don't understand anything until you learn it more than one way." - [Marvin Minsky](https://www.azquotes.com/quote/526097)
+
+> "One can acquire certainty only by amputating inquiry." - [Marvin Minsky](https://www.azquotes.com/quote/1405335)
+
+> "The secret of what anything means to us depends on how we've connected it to all the other things we know. That's why it's almost always wrong to seek the "real meaning" of anything. A thing with just one meaning has scarcely any meaning at all." - [Marvin Minsky](https://www.azquotes.com/quote/1461405)
+
 > "A conspicuous feature of the journalism of the future will be a deep lack of authority. There will be no notion of looking for The One Right Answer from an Unimpeachable Authority." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=A%20conspicuous%20feature%20of%20the%20journalism%20of%20the%20future%20will%20be%20a%20deep%20lack%20of%20authority.%20There%20will%20be%20no%20notion%20of%20looking%20for%20The%20One%20Right%20Answer%20from%20an%20Unimpeachable%20Authority.)
 
 ██████████████████████████████████████████████████████████████████
@@ -224,6 +235,8 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 ██████████████████████████████████████████████████████████████████
 # SECTION: Causality
 ██████████████████████████████████████████████████████████████████
+
+> "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
 > "It blows my mind how few people in the business world presently see the value of tools capable of modeling and emulating the real time evolution of their causal domain in probabilistic terms, including the way in which their own actions are likely to change the playing field. They're so used to being spoon fed extremely reductive and lagging graphs and charts in .ppt format as reasonable models of their world, that the idea of continuous Socratic interaction with a "living" model comes across as an utterly alien value proposition. And yet that's exactly where things are heading..." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753188223529230376)
 
@@ -276,7 +289,7 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "Our bodies don’t optimize for every cell. They optimize for the overall body. Individual cells are dispensable. What does that say about our focus on individual rights? How much do they cost societies overall?" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Our%20bodies%20don%E2%80%99t%20optimize%20for%20every%20cell.%20They%20optimize%20for%20the%20overall%20body.%20Individual%20cells%20are%20dispensable.%20What%20does%20that%20say%20about%20our%20focus%20on%20individual%20rights%3F%20How%20much%20do%20they%20cost%20societies%20overall%3F)
 
-
+the current host-centric world where platforms own our data and is siloed is preventing us as a giant global brain to wire any way we want
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Collective intelligence & sensemaking
@@ -411,6 +424,42 @@ boosting the competent through ranking their public information & track record o
 we need to build the public introspection tool
 
 
+
+
+
+all intelligence is collective intelligence
+
+> "The collective cognition and decision-making of the colony is determined by the interactions between the individuals, resembling mobile neural networks, and the algorithms that determine their output." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "The evolution of brains is a story of increasingly coordinated collective behavior, driven by the emergence of more efficient forms of intercellular communication, increasing differentiation and specialization of cell types, increasing interdependence, and progressive refinement of organization. At each stage, the benefits achieved through cooperation must have outweighed the costs of increased competition for resources that comes with sharing territory. Thus, we view brains as one end of a continuum of collective behavior wherein the collective has become especially coordinated and complex in organization." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Neural structure is not hard-coded into the genes — indeed, there couldn’t possibly be enough information in the human genome to encode neural structure — but instead is robustly reproduced time and again through these competitive dynamics. Malfunction of these processes (i.e., overproduction of neurons or lack of pruning) is associated with a number of brain disorders. Along these lines, proponents of “Neural Darwinism” and related views suggest that brain development, and intelligence more generally, can be understood as analogous to the evolution of a species through variation and selection." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Competitive dynamics are crucial both in brain development and in “online” cognition and behavior. We suggest that it is the precise parameterization of such competition dynamics that contributes to the intelligence of the brain. As such, we believe these mechanisms are best understood as a form of collective decision-making." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Functional networks are known to form and dissipate rapidly — on the order of milliseconds in visual processing, or on the timescale of minutes in skill acquisition — in a process that is often called “soft-assembly”. This process is best understood as a form of selforganization, in that the best functional network for a task or context comes online through distributed interactions, rather than by virtue of a central executive that assembles the best neural partners after assessing a situation." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "We suggest that the dynamic reorganization of functional subnetworks in the brain and the massive interactivity of the brain is best understood through the lens of collective intelligence, akin to a crowd that efficiently forms an effective committee for each task on the fly." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "The intelligence of brains is due not to precisely designed neural circuits that implement specific computations, but instead due to an intrinsic capacity for collections of neurons to spontaneously organize in service of survival of the group." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "The structure and development of the brain is characterized by highly efficient and robust mechanisms of competition, cooperation, consensus building, and dynamic reconfiguration of neural coalitions." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Humans may have much to learn from neurons about constructing harmonious societies." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Collective intelligence in humans actually has little to do with how intelligent we are as individuals, and instead to the extent to which we are evolutionarily prepared for spontaneous interpersonal coordination." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "Any question about adaptation on a population level becomes one of collective intelligence." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "In a formulation of the “local knowledge problem,” Hayek argued that local, dispersed, and incomplete knowledge held by individuals within a market system allow for the rapid adaptation of the market to inputs and outputs in the economy. Hayek saw the emergence of a central intelligence, in the form of the price system, as being one way in which distributed systems create the appearance of a central actor." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "There is little reason to expect collective intelligence to be restricted to any particular species or spatio-temporal scale of activity." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+> "A brain is a collection of living cells struggling for survival. By virtue of mechanisms of competition, such as synaptogenesis/pruning and mutual inhibition, and mechanisms of cooperation, such as energysharing through spiking behavior, these collections of cells are able to rapidly self-organize into different patterns of functional connectivity that are adaptive at the group level with respect to a current task and context." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
+
+
+
+
 ██████████████████████████████████████████████████████████████████
 # Regulation without regulators
 # Engineering dopamine
@@ -447,6 +496,8 @@ what if we could signal preferences locally for what types of commercials we'd b
 ██████████████████████████████████████████████████████████████████
 # SECTION: voting & liquid democracy
 ██████████████████████████████████████████████████████████████████
+
+"Liquefying Democracy"
 
 aggregation: the societal mirror - a chapter about signaling of public preferences & poll opinions
 why are twitter polls only for 24 hours? and we can't see how specific people voted?

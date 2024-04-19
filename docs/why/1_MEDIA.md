@@ -84,6 +84,8 @@ who thinks others are manipulated by media meme
 # SECTION: Sensemaking
 ██████████████████████████████████████████████████████████████████
 
+> "Sensemaking is the ability or attempt to make sense of an ambiguous situation. More exactly, sensemaking is the process of creating situational awareness and understanding in situations of high complexity or uncertainty in order to make decisions. It is “a motivated, continuous effort to understand connections (which can be among people, places, and events) in order to anticipate their trajectories and act effectively." - [Klein](https://thecynefin.co/what-is-sense-making/#:~:text=Sensemaking%20is%20the,and%20act%20effectively)
+
 > "Our ability to do choice-making well depends on our ability to sense-make well, which is why controlling peoples’ sense-making is the heart of the war that’s happening." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Our%20ability%20to%20do%20choice%2Dmaking%20well%20depends%20on%20our%20ability%20to%20sense%2Dmake%20well%2C%20which%20is%20why%20controlling%20peoples%E2%80%99%20sense%2Dmaking%20is%20the%20heart%20of%20the%20war%20that%E2%80%99s%20happening.)
 
 > "Why don’t we have group sense-making? Because you have a self-perpetuating system that includes the self-perpetuation of the memes that support the system." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Why%20don%E2%80%99t%20we%20have%20group%20sense%2Dmaking%3F%20Because%20you%20have%20a%20self%2Dperpetuating%20system%20that%20includes%20the%20self%2Dperpetuation%20of%20the%20memes%20that%20support%20the%20system.)
@@ -129,6 +131,7 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "The great algorithm to remember in dealing with this tendency is simple: an idea or a fact is not worth more merely because it’s easily available to you." - [Charlie Munger](https://www.goodreads.com/quotes/7264450-the-great-algorithm-to-remember-in-dealing-with-this-tendency)
 
+> "What is right is not always popular and what is popular is not always right." - [Albert Einstein](https://www.goodreads.com/quotes/67533-what-is-right-is-not-always-popular-and-what-is)
 
 > "While the application of supernormal stimuli to our eating choices or mating choices is certainly destructive, the use of supernormal stimuli in social media is particularly risky. This is because supernormal stimuli in social media directly undermine our capacity for individual and collective intelligence." - [What is the problem with social media? by Jordan Hall](https://medium.com/deep-code/what-is-the-problem-with-social-media-5ec873f7a738#:~:text=while%20the%20application,and%20collective%20intelligence.)
 

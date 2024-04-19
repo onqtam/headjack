@@ -10,6 +10,8 @@
 
 > "Altruism is not an improbable achievement against the individualizing forces of natural selection; rather, it is an integral part of the social lives of all beings that live with others interdependently—up to a (mathematical) point." - [Michael Tomasello](https://www.goodreads.com/quotes/10710208-altruism-is-not-an-improbable-achievement-against-the-individualizing-forces)
 
+> "Nothing truly valuable can be achieved except by the unselfish cooperation of many individuals." - [Albert Einstein](https://www.goodreads.com/quotes/1170750-nothing-truly-valuable-can-be-achieved-except-by-the-unselfish)
+
 > "The competition between the two forces can be succinctly expressed as follows: Within groups selfish individuals beat altruistic individuals, but groups of altruists beat groups of selfish individuals. Or, risking oversimplification, individual selection promoted sin, while group selection promoted virtue." - [Edward O. Wilson](https://www.goodreads.com/quotes/3233345-the-competition-between-the-two-forces-can-be-succinctly-expressed)
 
 ^^ but altruism & group selection are not stable - we need consequence capture & managers
@@ -64,6 +66,8 @@ https://prnt.sc/o5LZhIhNqIFX
 > "You do not rise to the level of your goals. You fall to the level of your systems." - [James Clear](https://www.goodreads.com/quotes/9536717-you-do-not-rise-to-the-level-of-your-goals)
 
 > "“Disciplined” people are better at structuring their lives in a way that does not require heroic willpower and self-control. In other words, they spend less time in tempting situations." - [James Clear](https://www.goodreads.com/quotes/9941975-when-scientists-analyze-people-who-appear-to-have-tremendous-self-control)
+
+> "Societies need rules that make no sense for individuals. For example, it makes no difference whether a single car drives on the left or on the right. But it makes all the difference when there are many cars!" - [Marvin Minsky](https://www.azquotes.com/quote/699378)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge

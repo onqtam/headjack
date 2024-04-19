@@ -215,5 +215,7 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "We currently know of no form of control structure that is adequate — even in principle." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=we%20currently%20know%20of%20no%20form%20of%20control%20structure%20that%20is%20adequate%20%E2%80%94%20even%20in%20principle.)
 
+> "People are starving in the world, not because we don't have enough food, but because we're not organized. And computers are part of that." - [Larry Page](https://www.azquotes.com/quote/788555)
+
 
 

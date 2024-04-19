@@ -107,6 +107,14 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "It is not stretching the truth to say that effectively all of our social institutions are a bad combination of corrupt and obsolete. Our education system. Our healthcare system. Our food production systems. Our banking and finance systems. Our journalism and science systems. Our political systems." - [Defund (and redesign) everything, by Jordan Hall](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d#:~:text=It%20is%20not%20stretching%20the%20truth%20to%20say%20that%20effectively%20all%20of%20our%20social%20institutions%20are%20a%20bad%20combination%20of%20corrupt%20and%20obsolete.%20Our%20education%20system.%20Our%20healthcare%20system.%20Our%20food%20production%20systems.%20Our%20banking%20and%20finance%20systems.%20Our%20journalism%20and%20science%20systems.%20Our%20political%20systems.)
 
+> "At this point, it is increasingly evident that every single one of our social institutions are in what I call the “rococo stage” or the “root bound” stage: they are complex, heavy, ineffective, poorly designed and essentially impossible to change for the better. Education, healthcare, policing, legislative and regulatory decision making, wealth distribution, monetary system, etc, etc. You name it." - [Situational Assessment 2015, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2015-91222a66c834#:~:text=At%20this%20point%2C%20it,etc.%20You%20name%20it.)
+
+> "A huge amount of our social energy is tied up in these increasingly destructive institutions. e.g., Consider how much human capital is being wasted in our education system; or how our food/health systems destroy both food and health while simultaneously generating massive negative ecological impact." - [Situational Assessment 2015, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2015-91222a66c834#:~:text=A%20huge%20amount%20of%20our%20social%20energy%20is%20tied%20up%20in%20these%20increasingly%20destructive%20institutions.%20e.g.%2C%20Consider%20how%20much%20human%20capital%20is%20being%20wasted%20in%20our%20education%20system%3B%20or%20how%20our%20food/health%20systems%20destroy%20both%20food%20and%20health%20while%20simultaneously%20generating%20massive%20negative%20ecological%20impact.)
+
+> "The “cognitive monopoly” on ideas held by the old civilization toolkit inhibits the discovery and implementation of actually good ideas at the individual, group and social levels." - [Situational Assessment 2015, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2015-91222a66c834#:~:text=The%20%E2%80%9Ccognitive%20monopoly%E2%80%9D%20on%20ideas%20held%20by%20the%20old%20civilization%20toolkit%20inhibits%20the%20discovery%20and%20implementation%20of%20actually%20good%20ideas%20at%20the%20individual%2C%20group%20and%20social%20levels.)
+
+> "Its one thing to face major problems. Its another thing when the tools, techniques and models that you’ve learned to solve problems with are themselves the problem. When you feel bad but also feel powerless to help yourself..." - [Situational Assessment 2015, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2015-91222a66c834#:~:text=Its%20one%20thing%20to%20face%20major%20problems.%20Its%20another%20thing%20when%20the%20tools%2C%20techniques%20and%20models%20that%20you%E2%80%99ve%20learned%20to%20solve%20problems%20with%20are%20themselves%20the%20problem.%20When%20you%20feel%20bad%20but%20also%20feel%20powerless%20to%20help%20yourself%20.%20.%20.)
+
 > "Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge.'" - [Isaac Asimov](https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through)
 
 > "Politicians should wear sponsor jackets like Nascar drivers, then we know who owns them." - [Robin Williams](https://quotepark.com/quotes/2092802-robin-williams-politicians-should-wear-sponsor-jackets-like-nasca/)
@@ -339,6 +347,8 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 
 the century of the self
 
+Minimalism
+
 shoppers!!! behold
 "Walmart stampede"
 The Black Friday Stampede Supercut: 2014
@@ -413,7 +423,20 @@ Philip morris Indonesia kids
 
 > "It's not radical Islam that worries the US - it's independence." - [Noam Chomsky](https://www.goodreads.com/quotes/343018-it-s-not-radical-islam-that-worries-the-us----it-s)
 
+> "If we don't end war, war will end us." - [H. G. Wells](https://www.goodreads.com/quotes/74384-if-we-don-t-end-war-war-will-end-us)
+
 > "An organism at war with itself is doomed." - [Carl Sagan](https://www.goodreads.com/quotes/83663-an-organism-at-war-with-itself-is-doomed)
+
+> "You cannot simultaneously prevent and prepare for war." - [Albert Einstein](https://www.goodreads.com/quotes/11596-you-cannot-simultaneously-prevent-and-prepare-for-war)
+
+> "Peace cannot be kept by force; it can only be achieved by understanding." - [Albert Einstein](https://www.goodreads.com/quotes/4464-peace-cannot-be-kept-by-force-it-can-only-be)
+
+> "If you took the profit out of war, there would be no war. What the hell do you think war is? You think we go to another country to bring democracy? We go there 'cause there's oil, resources or something we need." - [Jacque Fresco](https://www.azquotes.com/quote/728472)
+
+> "If you had a free society you couldn't get people to go to war, if you had an intelligent type of upbringing in ones children. They would say; There must be many other ways of solving problems other then killing people." - [Jacque Fresco](https://www.azquotes.com/quote/728471)
+
+> "Armies are created to protect an established system, not people. In the future, an educated humanity will not stand for war." - [Jacque Fresco](https://www.azquotes.com/quote/728503)
+
 
 > "Some of us, perhaps all of us, believe that it is legitimate to kill enemy soldiers in a war, as if war were a special circumstance that shrinks the sizes of enemy souls." - [Douglas Hofstadter](https://www.goodreads.com/quotes/830578-some-of-us-perhaps-all-of-us-believe-that-it)
 
@@ -448,8 +471,6 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 > "War is obsolete. We are not here to fight something or tear something down; We are here to be the example of what is possible. Any sane individual will tell you that violence is ... not the way." - [R. Buckminster Fuller](https://www.azquotes.com/quote/528770)
 
 > "He who joyfully marches to music rank and file has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would surely suffice. This disgrace to civilization should be done away with at once. Heroism at command, senseless brutality, deplorable love-of-country stance and all the loathsome nonsense that goes by the name of patriotism, how violently I hate all this, how despicable and ignoble war is; I would rather be torn to shreds than be part of so base an action! It is my conviction that killing under the cloak of war is nothing but an act of murder." - [Albert Einstein](https://www.goodreads.com/quotes/23627-he-who-joyfully-marches-to-music-rank-and-file-has)
-
-> "Nationalism is an infantile thing. It is the measles of mankind." - [Albert Einstein](https://www.goodreads.com/quotes/361110-nationalism-is-an-infantile-thing-it-is-the-measles-of)
 
 > "I believe that Gandhi’s views were the most enlightened of all the political men in our time. We should strive to do things in his spirit: not to use violence in fighting for our cause, but by non-participation in anything you believe is evil." - [Albert Einstein](https://www.goodreads.com/quotes/321355-i-believe-that-gandhi-s-views-were-the-most-enlightened-of)
 
@@ -547,6 +568,8 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 
 > "Technological civilization will not rebound after it collapses because we have used up most of the easily-accessible fossil fuels and mineral resources that would be needed to re-launch industrial civilization." - [John E. Stewart](https://johnstewart1.substack.com/p/why-there-must-be-a-viable-strategy#:~:text=technological%20civilization%20will%20not%20rebound%20after%20it%20collapses%20because%20we%20have%20used%20up%20most%20of%20the%20easily%2Daccessible%20fossil%20fuels%20and%20mineral%20resources%20that%20would%20be%20needed%20to%20re%2Dlaunch%20industrial%20civilization.)
 
+> "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." - [Albert Einstein](https://www.goodreads.com/quotes/14977-i-know-not-with-what-weapons-world-war-iii-will)
+
 > "We Didn't Run Out Of Television Screens And Planes, We Ran Out Of Food." - [School Principal, Interstellar (2014)](https://screenrant.com/interstellar-awesome-quotes-make-you-think/#quot-we-didn-39-t-run-out-of-television-screens-and-planes-we-ran-out-of-food-quot:~:text=%22We%20Didn%27t%20Run%20Out%20Of%20Television%20Screens%20And%20Planes%2C%20We%20Ran%20Out%20Of%20Food.%22)
 
 > "do not go gentle into that good night" - quote
@@ -607,3 +630,4 @@ Nobody is truly in the driver's seat - the system is running on its own
 The current economy is the dreaded paperclip maximizer
 quote goes here: power of gods but not the wisdom
 
+> "Every time that the foundations started to shake, we’ve consistently chosen “more of the same.” The result is that we’ve been living in an increasingly delusional systemic environment." - [Situational Assessment 2015, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2015-91222a66c834#:~:text=every%20time%20that%20the%20foundations%20started%20to%20shake%2C%20we%E2%80%99ve%20consistently%20chosen%20%E2%80%9Cmore%20of%20the%20same.%E2%80%9D%20The%20result%20is%20that%20we%E2%80%99ve%20been%20living%20in%20an%20increasingly%20delusional%20systemic%20environment.)
