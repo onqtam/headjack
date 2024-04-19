@@ -10,8 +10,11 @@ who thinks others are manipulated by media meme
 
 > "Instead of the story emerging according to the facts, the facts emerge according to the prevailing story." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
 
+> "News aren’t designed to inform you or to help you make decisions. They’re designed to make money. Best case scenario—which usually means a subscription—they try to inform you in the process. Normally, they pander to keep your subscription alive, which is not always aligned with informing. Worst case scenario—when they live off of ads—they just want you to click on that f****** headline. They also want you to share their articles with somebody else, and they know you’re much more likely to do so if you’re scared, angered, or hear something that sounds very novel or mysterious. So news waste your time because they’re designed to grab your attention, not to inform you." - [How to Consume the News (Don’t), by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-consume-the-news#:~:text=News%20aren%E2%80%99t%20designed,to%20inform%20you.)
 
-> "An educational system that trains critical thinkers is incompatible with a system of government that requires the truth to be hidden. An empire of lies must devour its own children to survive." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1694068816425238663)
+> "We’ve evolved to pay attention to these types of news, but now, in countries of tens of millions of people, they’re mostly irrelevant. Outlets take advantage of your old brain circuits to hijack your attention and convert it into cash. On top of that, most journalists don’t have enough time to create truly insightful content." - [How to Consume the News (Don’t), by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-consume-the-news#:~:text=We%E2%80%99ve%20evolved%20to,truly%20insightful%20content.)
+
+> "Statistics which purport to represent public opinion are actually the tools used by the media to manufacture opinion." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://www.goodreads.com/quotes/3236384-so-instead-we-are-supplied-with-a-constant-stream-of#:~:text=Statistics%20which%20purport%20to%20represent%20public%20opinion%20are%20actually%20the%20tools%20used%20by%20the%20media%20to%20manufacture%20opinion.)
 
 
 > "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed." - [Mark Twain](https://www.goodreads.com/quotes/10001-if-you-don-t-read-the-newspaper-you-re-uninformed-if-you)
@@ -161,6 +164,8 @@ https://www.youtube.com/watch?v=-bLyjGH4ZAE
 
 > "The only difference between 'propaganda' and 'education,' really, is in the point of view. The advocacy of what we believe in is education. The advocacy of what we don't believe in is propaganda." - [Edward Bernays](https://www.azquotes.com/quote/1337319)
 
+> "An educational system that trains critical thinkers is incompatible with a system of government that requires the truth to be hidden. An empire of lies must devour its own children to survive." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1694068816425238663)
+
 > "State propaganda, when supported by the educated classes and when no deviation is permitted from it, can have a big effect. It was a lesson learned by Hitler and many others, and it has been pursued to this day." - [Noam Chomsky](https://www.goodreads.com/quotes/519354-state-propaganda-when-supported-by-the-educated-classes-and-when)
 
 > "The mass media serve as a system for communicating messages and symbols to the general populace. It is their function to amuse, entertain, and inform, and to inculcate individuals with the values, beliefs, and codes of behavior that will integrate them into the institutional structures of the larger society. In a world of concentrated wealth and major conflicts of class interest, to fulfil this role requires systematic propaganda." - [Noam Chomsky](https://www.goodreads.com/quotes/7168920-the-mass-media-serve-as-a-system-for-communicating-messages)
@@ -216,4 +221,15 @@ https://www.youtube.com/watch?v=-bLyjGH4ZAE
 
 > "Reclaim your mind and get it out of the hands of the cultural engineers who want to turn you into a half-baked moron consuming all this trash that's being manufactured out of the bones of a dying world." - [Terence McKenna](https://www.goodreads.com/quotes/1244995-reclaim-your-mind-and-get-it-out-of-the-hands)
 
+> "The television commercial is not at all about the character of products to be consumed. It is about the character of the consumers of products." - [Neil Postman](https://www.goodreads.com/quotes/39392-the-television-commercial-is-not-at-all-about-the-character)
+
+> "By bringing together in compact form all the arts of show business-music, drama, imagery, humor, celebrity-the television commercial has mounted the most serious assault on capitalist ideology since the publication of Das Kapital. To understand why, we must remind ourtselves that capitalism, like science and liberal democracy, was an outgrowth of the Enlightenment. Its principal theorists, even its most prosperous practitioners, believed capitalism to be based on the idea that both buyer and seller are sufficiently mature, well informed and reasonable to engage in transactions of mutual self-interest." - [Neil Postman](https://www.goodreads.com/quotes/11011375-by-bringing-together-in-compact-form-all-the-arts-of)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Dumbification
+██████████████████████████████████████████████████████████████████
+
+> "It is not necessary to conceal anything from a public insensible to contradiction and narcotized by technological diversions." - [Neil Postman](https://www.goodreads.com/quotes/817099-it-is-not-necessary-to-conceal-anything-from-a-public)
+
+> "Television is altering the meaning of 'being informed' by creating a species of information that might properly be called disinformation. I am using this world almost in the precise sense in which it is used by spies in the CIA or KGB. Disinformation does not mean false information. It means misleading information--misplace, irrelevant, fragmented or superficial information--information that creates the illusion of knowing something but which in fact leads one away from knowing. In saying this, I do not mean to imply that television news deliberately aims to deprive Americans of a coherent, contextual understanding of their world. I mean to say that when news is packaged as entertainment, that is the inevitable result. And in saying that the television news show entertains but does not inform, I am saying something far more serious than that we are being deprived of authentic information. I am saying we are losing our sense of what it means to be well informed. Ignorance is always correctable. But what shall we do if we take ignorance to be knowledge?" - [Neil Postman](https://www.goodreads.com/quotes/685783-in-america-everyone-is-entitled-to-an-opinion-and-it#:~:text=television%20is%20altering,to%20be%20knowledge%3F)
 

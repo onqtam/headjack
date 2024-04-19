@@ -64,9 +64,6 @@
 
 > "We should not assume that experts are the only ones who have a right to express themselves on questions affecting the organization of society." - [Why Socialism? by Albert Einstein](https://monthlyreview.org/2009/05/01/why-socialism/#:~:text=we%20should%20not%20assume%20that%20experts%20are%20the%20only%20ones%20who%20have%20a%20right%20to%20express%20themselves%20on%20questions%20affecting%20the%20organization%20of%20society.)
 
-> "Nature does nothing uselessly." - [Aristotle](https://www.goodreads.com/quotes/32921-nature-does-nothing-uselessly)
-
-> "Knowing yourself is the beginning of all wisdom." - [Aristotle](https://www.goodreads.com/quotes/3102-knowing-yourself-is-the-beginning-of-all-wisdom)
 
 
 > "You can't learn in school what the world is going to do next year." - [Henry Ford](https://www.goodreads.com/quotes/23497-you-can-t-learn-in-school-what-the-world-is-going)

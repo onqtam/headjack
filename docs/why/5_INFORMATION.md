@@ -36,6 +36,7 @@ https://twitter.com/lexman_ai/status/1615861599197171713
 
 we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
+> "We cannot reasonably enforce that AI generated content is watermarked, but we can build a robust, reliable, cheap and scalable trust chain infrastructure for certifying content created and vouched for by humans." - [Joscha Bach](https://twitter.com/Plinz/status/1710409853565628463)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Language & its limits

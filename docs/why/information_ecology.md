@@ -185,9 +185,6 @@ https://subconscious.substack.com/p/wiki-as-a-commons
 
 Just because you can type doesn't mean you can write. And just because you can write doesn't mean that you should
 
-“The real problem of humanity is the following: We have Paleolithic emotions, medieval institutions and godlike technology.” - DR. E.O. WILSON, SOCIOBIOLOGIST
-https://www.humanetech.com/
-
 https://www.humanetech.com/key-issues
 
 
