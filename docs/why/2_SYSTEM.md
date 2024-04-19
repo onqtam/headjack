@@ -103,8 +103,7 @@ https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 > "What if the game wasn’t just “one person, one vote” which is rooted in equalizing the power of your vote or your voice, but was instead about finding the highest wisdom or best path? To achieve that, we might have to recognize different people bring different skills, knowledge, competencies, and figure out how to optimize everyone’s unique contribution." - [Challenging Broken Assumptions of Governance, by Arthur Brock](https://www.artbrock.com/2017/02/11/challenging-broken-assumptions-of-governance#:~:text=What%20if%20the,everyone%E2%80%99s%20unique%20contribution.)
 
-> "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
-
+> "When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear." - [Thomas Sowell](https://www.goodreads.com/quotes/316762-when-you-want-to-help-people-you-tell-them-the)
 
 > "The Islamic Republic of Iran was today appointed Chair of the U.N. Human Rights Council Social Forum. This year's theme is technology and promotion of human rights; Iran just hanged Yousef Mehrad and Sadrollah Fazeli Zare for using social media to criticize religion." - [Hillel Neuer](https://twitter.com/HillelNeuer/status/1656276696117460994)
 

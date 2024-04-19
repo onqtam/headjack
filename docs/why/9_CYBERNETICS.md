@@ -11,6 +11,7 @@
 
 > "Cybernetics is the art of steering." - [Paul Pangaro](https://twitter.com/paulpangaro)
 
+> "As life adapts to its surroundings, natural selection generates predictive knowledge, and recursive self-organization generates increasingly complex, resilient, and intelligent cybernetic systems." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=As%20life%20adapts%20to%20its%20surroundings%2C%20natural%20selection%20generates%20predictive%20knowledge%2C%20and%20recursive%20self%2Dorganization%20generates%20increasingly%20complex%2C%20resilient%2C%20and%20intelligent%20cybernetic%20systems.)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -111,6 +112,10 @@ https://www.lesswrong.com/posts/x7kL42bnATuaL4hrD/bayesian-reasoning-explained-l
 https://www.edge.org/response-detail/27098
 
 > "Inference is actually quite close to a theory of everything – including evolution, consciousness, and life itself." - [Karl Friston](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference#:~:text=Inference%20is%20actually%20quite%20close%20to%20a%20theory%20of%20everything%20%E2%80%93%20including%20evolution%2C%20consciousness%2C%20and%20life%20itself.)
+
+> "The logical reasoning system known as Bayesian inference is the only surefire way to acquire valid knowledge about the world." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=the%20logical%20reasoning%20system%20known%20as%C2%A0Bayesian%20inference%C2%A0is%20the%20only%20surefire%20way%20to%20acquire%20valid%20knowledge%20about%20the%20world.)
+
+> "[Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) is a unifying approach to determining truth. Absolute truth is never attainable, but we do get closer to understanding objective reality by formulating and testing theories." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=Bayesian%20epistemology%C2%A0is%20a%20unifying%20approach%20to%20determining%20truth.%20Absolute%20truth%20is%20never%20attainable%2C%20but%20we%20do%20get%20closer%20to%20understanding%20objective%20reality%20by%20formulating%20and%20testing%20theories.)
 
 > "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
 
