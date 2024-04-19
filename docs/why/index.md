@@ -59,6 +59,7 @@ In this chapter we discuss tens of problems - perhaps up to a hundred - all scat
 
 > "A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator." - [Peter Thiel](https://www.azquotes.com/quote/929109#:~:text=from%20the%20outside.-,A%20great%20company%20is%20a%20conspiracy%20to%20change%20the%20world%3B%20when%20you%20share%20your%20secret%2C%20the%20recipient%20becomes%20a%20fellow%20conspirator.,-Peter%20Thiel)
 
+> "Monopoly is the condition of every successful business." - [Peter Thiel](https://www.goodreads.com/quotes/1429665-monopoly-is-the-condition-of-every-successful-business)
 
 > "Any conversation I have about innovation starts with the ultimate goal." - [Sergey Brin](https://www.azquotes.com/quote/1104765)
 

@@ -17,6 +17,9 @@ alternative titles:
 # SECTION: Biases & Evolutionary Psychology
 ██████████████████████████████████████████████████████████████████
 
+> "The brain has hundreds of bugs, which we call [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). But you can classify them as a bunch of fun little bugs and one monster: confirmation bias. It’s the tendency to quickly adopt new information that supports your beliefs and to quickly discount the new information that undermines them. This is among the biggest hindrances to human development, since it’s so hard to correct people’s erroneous beliefs, and so our society carries them forward for ages." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs#:~:text=The%20brain%20has,forward%20for%20ages.)
+
+> "Knowing yourself is the beginning of all wisdom." - [Aristotle](https://www.goodreads.com/quotes/3102-knowing-yourself-is-the-beginning-of-all-wisdom)
 
 > "There is no scientific study more vital to man than the study of his own brain. Our entire view of the universe depends on it." - [Francis Crick](https://www.goodreads.com/quotes/148594-there-is-no-scientific-study-more-vital-to-man-than)
 
@@ -293,6 +296,20 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 the current host-centric world where platforms own our data and is siloed is preventing us as a giant global brain to wire any way we want
 
+> "In brains, the more a neuron pays attention to another neuron, the more likely it is to propagate its message. Even if it doesn’t pay that much attention to a neuron, if it receives the same message from many other neurons, it will propagate it too. On Twitter, you're more likely to retweet something from somebody you pay attention to, or if many have retweeted it already.
+>
+> In a brain, the more a certain pathway between neurons fires up, the stronger it will become. The axons and dendrites strengthen. Eventually, some groups of neurons start firing up very close to each other, following each other's behavior. They form a brain subsystem. On Twitter, the more you like somebody's tweets, the more you're likely to follow them. You'll tend to form groups with the ppl who follow the same ppl and topics & have the same opinions. You'll RT each other. You form a Twitter subsystem." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=In%20brains%2C%20the,a%20Twitter%20subsystem.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Stigmergy
+██████████████████████████████████████████████████████████████████
+
+> "If you think about it, the world’s citizens possess much more knowledge than a small group of individuals. What was lacking before Wikipedia was a mechanism to harness that knowledge. That was the technological breakthrough of Wikipedia: how the editors work together to find a consensus on what the articles say. So Wikipedia is an information technology that decentralizes decision-making for encyclopedia articles. Its core innovation is a mechanism that allows some of the most informed people on any topic to contribute to the articles. The result is a much better result than if these decisions were centralized." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=If%20you%20think,decisions%20were%20centralized.)
+
+> "Open source software has mechanisms to separate small pieces of the code for other developers to build them, and then mechanisms to merge that code back with the rest of it. Put in another way, open-source software development is an information technology that is more efficient than centralized development. It’s achieved that by finding good mechanisms to decentralize the development." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Open%20source%20software,decentralize%20the%20development.)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Collective intelligence & sensemaking
 ██████████████████████████████████████████████████████████████████
@@ -313,8 +330,6 @@ we need to enable freeform networking at scale in order to build a global brain 
 
 high trust (social capital), shared stories & strong institutions - required for democracy, but social media is eroding them - Jonathan Haidt
 https://www.youtube.com/watch?v=hu2jprZ50FY
-
-"We have Paleolithic emotions, medieval institutions, and god-like technology." - Edward O. Wilson
 
 media tells us what is salient but we lack the tools to question the framing
 
@@ -337,10 +352,6 @@ our current systems optimize for efficiency (attention capture) - not the evolva
 the host-centric model hinders our ability to develop the tools for integration - for interlinking & coming to consensus - we're given one-size-fits-all lowest common denominator functionality in the race to the bottom of the brain stem
 
 we lack precision weighting of the signals ==> hence our psychosis
-
-> "the function of consciousness is to do enhanced relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4094)
-
-> "what consciousness is doing is higher-order relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4199)
 
 our capacity to pay attention in the right way was evolved - it is fundamentally an adaptive ability - it was selected for
 
@@ -934,6 +945,7 @@ EMBED THIS 2 minute clip:
 Bobby Azarian Discusses the Emergence of a Global Consciousness
 https://www.youtube.com/watch?v=SBoW9as_JCM
 
+> "If successful, 𝕏 will evolve to be the collective consciousness of humanity or, more accurately, the human-machine collective." - [Elon Musk](https://twitter.com/elonmusk/status/1711608729731211352)
 
 ██████████████████████████████████████████████████████████████████
 # quotes
@@ -1094,6 +1106,12 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consciousness
 ██████████████████████████████████████████████████████████████████
+
+consciousness contains a model of the self - but do we own our collective model of humanity or is it privatized by a few big actors?
+
+> "the function of consciousness is to do enhanced relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4094)
+
+> "what consciousness is doing is higher-order relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4199)
 
 > "Until you make the unconscious conscious, it will direct your life and you will call it fate." - [Carl Jung](https://www.azquotes.com/quote/355847)
 

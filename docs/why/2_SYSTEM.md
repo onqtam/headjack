@@ -4,6 +4,8 @@
 
 > "Welcome to the desert of the real." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158633-welcome-to-the-desert-of-the-real-morpheus-the-matrix)
 
+> "There's truths you have to grow into." - [H. G. Wells](https://www.goodreads.com/quotes/190581-there-s-truths-you-have-to-grow-into)
+
 > "Have you ever stood and stared at it? Marvelled at its beauty, it’s genius. Billions of people, just living out their lives… oblivious." - [Agent Smith, The Matrix](https://medium.com/rubinas-bojra/12-quotes-from-the-matrix-that-blow-my-mind-every-time-b997c75ea49d#:~:text=Have%20you%20ever%20stood%20and%20stared%20at%20it%3F%20Marvelled%20at%20its%20beauty%2C%20it%E2%80%99s%20genius.%20Billions%20of%20people%2C%20just%20living%20out%20their%20lives%E2%80%A6%20oblivious.)
 
 > "It is no measure of health to be well adjusted to a profoundly sick society." - [Jiddu Krishnamurti](https://www.goodreads.com/quotes/13620-it-is-no-measure-of-health-to-be-well-adjusted)
@@ -199,6 +201,60 @@ Unbreaking America: Solving the Corruption Crisis
 > "The most basic question is not what is best, but who shall decide what is best." - [Thomas Sowell](https://www.goodreads.com/quotes/322271-the-most-basic-question-is-not-what-is-best-but)
 
 
+> "Democracy. It’s full of failures:
+>
+> - Citizens only contribute a few bits of information to the political system every four years, through their vote. Imagine if instead each of us contributed as much as we could.
+>
+> - Many of those who vote don’t know much about what they’re voting for, and many others simply don’t vote because they feel disempowered, like their contribution can’t change anything.
+>
+> - Because people feel their voices won't be heard, they use alternative ways of communicating their opinions, such as demonstrations. These are expensive, slow, don’t convey nuanced information, and are biased towards those who care a lot about an issue and are very well organized and well funded, rather than silent majorities.
+>
+> - We elect those who are best at communicating, not managing.
+>
+> - As a result, politicians use emotions rather than facts.
+>
+> - There are only a few decision-makers, which incentivizes corruption.
+>
+> - You can’t combine things you like from different candidates. You have to go with the bundle of proposals of one single candidate or party.
+>
+> - This is true both for their priorities as well as their solutions. What if you like one party’s focus on climate change, but you think their solutions are crap?
+>
+> - A few decision-makers in remote corridors of power can’t have a deep understanding of the problems on the ground. They’re not experts on the problems they solve.
+>
+> - They also can’t easily see if their proposed solutions are working as intended.
+>
+> - The policies are not tested. They’re usually simply approved. So we can’t really know if they worked or not.
+>
+> - The same debates are repeated over and over.
+>
+> - The obscurity of the inner workings allows for special interests and lobbies to entrench.
+>
+> - There’s no incentive to change situations that are very good for a few but slightly bad for a majority.
+>
+> - Those elected for the first time don’t have experience. Those elected several times are there for the power.
+>
+> - There’s a bigger incentive to add laws than to simplify them.
+>
+> - Legislators have limited bandwidth, so they can’t approve or update lots of laws at once.
+>
+> - Laws are written in legalese, which is problematic because sometimes it’s inadvertently ambiguous, and usually it’s incomprehensible." - [What the History of Finance Can Tell Us About a Better Democracy, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-the-history-of-finance-can-tell#:~:text=democracy.%20It%E2%80%99s%20full,usually%20it%E2%80%99s%20incomprehensible.)
+
+> "The processes of how we organize ourselves were figured out during the Enlightenment. Our political systems are completely failing us:
+>
+> - They don’t happen fast enough.
+>
+> - They make it extremely hard to revise the entire system.
+>
+> - They are taken over by special interests.
+>
+> - They assume an unrealistic level of knowledge from citizens.
+>
+> - They select leaders that are better at communication than management.
+>
+> - They constantly add regulations without explaining them.
+>
+> - The ways that citizens can make their voices heard are obsolete." - [Hypergrowth Society, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/hypergrowth-society#:~:text=the%20processes%20of,heard%20are%20obsolete.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
 ██████████████████████████████████████████████████████████████████
@@ -347,6 +403,10 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 “gang gang mmm ice cream so good yes yes yes” (Pinkydoll, 2023)
 
 > "We will rise or fall to the level of our cultural affordances." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1757530236894552448)
+
+> "What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy. As Huxley remarked in Brave New World Revisited, the civil libertarians and rationalists who are ever on the alert to oppose tyranny "failed to take into account man's almost infinite appetite for distractions."
+>
+> In 1984, Huxley added, "people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure. In short, Orwell feared that what we hate will ruin us. Huxley feared that what we love will ruin us"." - [Neil Postman](https://www.goodreads.com/quotes/7942005-what-orwell-feared-were-those-who-would-ban-books-what)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consumerism

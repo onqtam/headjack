@@ -139,8 +139,7 @@ Algorithms could use this liquid interest network to amplify and prioritize cert
 
 
 ██████████████████████████████████████████████████████████████████
-# section 230 and empowering the user to choose
-# Recommender algos, choice & section 230
+# Recommender algos, user choice & section 230
 ██████████████████████████████████████████████████████████████████
 
 

@@ -297,11 +297,44 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Culture and norms replacing bureaucracy
+# SECTION: Technology is not neutral
+██████████████████████████████████████████████████████████████████
+
+> "But it is much later in the game now, and ignorance of the score is inexcusable. To be unaware that a technology comes equipped with a program for social change, to maintain that technology is neutral, to make the assumption that technology is always a friend to culture is, at this late hour, stupidity plain and simple." - [Neil Postman](https://www.goodreads.com/quotes/286008-but-it-is-much-later-in-the-game-now-and)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Reducing or improving bureaucracy through culture, norms, automation & collective intelligence
 ██████████████████████████████████████████████████████████████████
 
 > "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
 
+> "Cyberocracy, from the roots 'cyber-' and '-cracy' signifies rule by way of information, especially when using interconnected computer networks. The concept involves information and its control as the source of power and is viewed as the next stage of the political evolution. The fundamental feature of a cyberocracy would be the rapid transmission of relevant information from the source of a problem to the people in a position able to fix said problem, most likely via a system of interconnected computer networks and automated information sorting software, with human decision makers only being called into use in the case of unusual problems, problem trends, or through an appeal process pursued by an individual. Cyberocracy is the functional antithesis of traditional bureaucracies." - [Cyberocracy, Wikipedia](https://en.wikipedia.org/wiki/Cyberocracy#:~:text=Cyberocracy%2C%20from%20the,other%20unfortunate%20qualities.)
+
+> "How are laws written? A bunch of highly educated people, in their office, analyzing data, discussing with colleagues, consulting reference sources, calling some experts. With that serious work, then they write articles, publish them, and that’s how we still get our laws in the 21st century. In other words: the **legislative** process is like centralized planning. It’s like Encyclopedia Britannica before Wikipedia appeared. Citizens have much more time and knowledge than all the lawmakers in the world combined. What we’re missing today is *a mechanism to harness the time and knowledge of broader society to make laws*. We’re missing the Wikipedia mechanism innovation, applied to law-making.
+>
+> 1. In the military, that mechanism is mission command: tell your subordinates very clearly what the mission is, and give them information and autonomy to make the decisions themselves.
+>
+> 2. Business people call it management by results.
+>
+> 3. In the economy, that mechanism is capitalism: people benefit when they benefit others. If you let them free to figure out what others want—and keep some of the value created—they will figure it out.
+>
+> 4. In ant colonies, that mechanism is the chemical communication between ants. That way, each ant can influence the behavior of another ant in a way that benefits the colony.
+>
+> 5. In the brain, that mechanism is the neural networks: the action potentials that flow through the system of axons and dendrites that connect neurons.
+>
+> 6. In Twitter, that mechanism is tweets, likes, and retweets.
+>
+> 7. In artificial intelligence, that system is neural networks and all the innovations around them: gradient descent, back-propagation, etc.
+>
+> 8. In Wikipedia, that mechanism is edit rights: what allows anybody to edit an article, but when there’s conflict, more and more senior members debate and vote.
+>
+> 9. In open source, that mechanism is the process to branch out and merge branches back into the source code, which allows hundreds (or thousands) or developers to work on the same code base in parallel.
+>
+> 10. In peer reviews, that mechanism might be as simple as asking for feedback.
+>
+> 11. In forecasting, that mechanism is prediction markets: ask people to bet on how a question will be resolved.
+>
+> With all these examples, it’s obvious that the future of democracy won’t be a better voting system. It will be a system that allows everybody to actively contribute to the policy-making process. Contributions can include the analysis of problems or suggest a policy that would solve them. The laws that rule the community will be approved directly by the community. It’s a matter of time. Somebody will come up with that mechanism in the not-too-distant future, lawmaking will become fast, prolific, and intelligent, and we won’t all be angry all the time at the terrible politicians we’ve had to elect." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=How%20are%20laws,had%20to%20elect.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Fairness & justice
@@ -401,6 +434,8 @@ Love - discovery of a shared purpose
 Hope - Willingness to invest in it before it is there
 Logically derived for forming a coherent next level system
 
+Alexander Bard is right that from a certain perspective the separation of church and state has been a mistake (just one perspective !!!)
+
 > "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)
 
 > "I believe a Magna Carta for the internet is exactly what we need. We need to encode our values not just in writing but in the structure of the internet." - [Edward Snowden](https://www.theregister.com/2014/03/21/quotw_ending_march_20/#:~:text=I%20believe%20a%20Magna%20Carta%20for%20the%20internet%20is%20exactly%20what%20we%20need.%20We%20need%20to%20encode%20our%20values%20not%20just%20in%20writing%20but%20in%20the%20structure%20of%20the%20internet.)
@@ -424,6 +459,10 @@ Eudaemonic economy
 > We failed to secure open innovation in software, and we failed to lock the Web open. Instead we produced trillion dollar companies that held our data captive to create surveillance and attention economies, rather than empowering end users and fostering the development of end-user creativity and innovation.
 >
 > Two generations of investors are now completely hooked on this model of extractive network effects. SO MUCH of this growth was fueled by the gift economics of nerd communities producing open-source software and cohering de facto OPEN STANDARDS which neither governments nor BigCo nor academia could produce. These Schelling points that balanced risk, utility, and user needs are brilliant examples of alternative economic models for an abundant, regenerative future." - [Peter Wang](https://twitter.com/pwang/status/1765073129431588994)
+
+> "The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete." - [Peter Thiel](https://www.goodreads.com/quotes/5199889-the-most-valuable-businesses-of-coming-decades-will-be-built)
+
+> "Sometimes I try to imagine a world where scientific young minds enjoyed greater rewards for revolutionizing, like, farming methods, manufacturing, or energy, rather than the dark patterns used to optimize ad-clicks at Google and Facebook. How did we get here?" - [Edward Snowden](https://twitter.com/Snowden/status/1451342274667876353)
 
 complexity_econ_1.png
 complexity_econ_2.png
@@ -457,9 +496,18 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 > "Civilization rests on the fact that we all benefit from knowledge which we do not possess." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6539631-civilization-rests-on-the-fact-that-we-all-benefit-from)
 
+Stagnation & optimizing for the wrong thing (GDP)
+
+> "You have as much computing power in your iPhone as was available at the time of the Apollo missions. But what is it being used for? It’s being used to throw angry birds at pigs; it’s being used to send pictures of your cat to people halfway around the world; it’s being used to check in as the virtual mayor of a virtual nowhere while you’re riding a subway from the nineteenth century." - [Peter Thiel](https://www.azquotes.com/quote/720837)
+
+> "We wanted flying cars, instead we got 140 characters." - [Peter Thiel](https://www.goodreads.com/quotes/697729-we-wanted-flying-cars-instead-we-got-140-characters)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
+
+> "The most common way people give up their power is by thinking they don’t have any." - [Alice Walker](https://bigthink.com/words-of-wisdom/alice-walker-people-give-up-their-power-by-thinking-they-dont-have-any-2/)
 
 > "We are as gods and might as well get good at it." - [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
@@ -653,6 +701,10 @@ Education is the autopoietic root of society - the way it propagates/maintains/r
 
 > "There are no bad people, there are people with insufficient information to make appropriate decisions." - [Jacque Fresco](https://www.goodreads.com/quotes/883493-there-are-no-bad-people-there-are-people-with-insufficient)
 
+> "Unlearning is at the core of learning." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs)
+
+> "Forgetting used to be a failing, a waste, a sign of senility. Now it takes effort. It may be as important as remembering." - [James Gleick](https://www.goodreads.com/quotes/969425-forgetting-used-to-be-a-failing-a-waste-a-sign)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Healthcare
 ██████████████████████████████████████████████████████████████████
@@ -675,6 +727,30 @@ https://www.google.com/search?q=this+is+healthy
 ██████████████████████████████████████████████████████████████████
 
 > "Rather than reject the notion of popularity, we should pay close attention to how things get to be popular and try to see how more helpful ideas could be embraced with equally widespread enthusiasm." - [Alain de Botton](https://www.vox.com/conversations/2017/4/29/15468242/9-questions-alain-de-botton-popular-culture-philosophy-humanities#:~:text=Rather%20than%20reject%20the%20notion%20of%20popularity%2C%20we%20should%20pay%20close%20attention%20to%20how%20things%20get%20to%20be%20popular%20and%20try%20to%20see%20how%20more%20helpful%20ideas%20could%20be%20embraced%20with%20equally%20widespread%20enthusiasm.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: The future of governance & democracy
+██████████████████████████████████████████████████████████████████
+
+> "The transaction cost in political decision-making is so high that we centralize it. But decentralized decision-making is better. It just needs the proper mechanisms to aggregate the insights of the masses. Like money before, these mechanisms will standardize the decision-making between individual humans. Where today we’re having open debates based in rhetoric, tomorrow decision-making will be formalized into a crowd-sourcing mechanism." - [What the History of Finance Can Tell Us About a Better Democracy, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-the-history-of-finance-can-tell#:~:text=the%20transaction%20cost,crowd%2Dsourcing%20mechanism.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Netocracy & Attentionalism
+██████████████████████████████████████████████████████████████████
+
+attentionalism - embed this clip in the attention page
+https://www.youtube.com/watch?v=4FuI0-ad6GA
+"Capitalism is DEAD. All hail the Attentionalism" - Alexander Bard
+
+> "This society is by definition post-capitalist, because the requirements needed to achieve status under capitalism – money, fame, titles, and so on – no longer have any value for entrance applications to any of the higher and more powerful networks. The netocratic status which is now in demand requires entirely different characteristics: knowledge, contacts, overview, vision. In other words: qualities which contribute to increasing the network’s status and making it even more powerful." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://recollectingphilosophy.wordpress.com/2013/08/09/internet-revolution-attentionalism-and-slow-thinking-with-alexander-bard-and-pierre-bourdieu/#:~:text=This%20society%20is,even%20more%20powerful.)
+
+> "The rules will change, but the constant underlying message of the curators [a kind of master netocrats] to their net-citizens will be simple and unambiguous: you can never network well enough, you can never be good enough at communicating, you can never let yourself rest, you must constantly be ready to jump, constantly ready to learn new things. Thus a new set of masters will seize power and the language of power with which to control informational society." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://recollectingphilosophy.wordpress.com/2013/08/09/internet-revolution-attentionalism-and-slow-thinking-with-alexander-bard-and-pierre-bourdieu/#:~:text=The%20rules%20will,control%20informational%20society.)
+
+> "The decisive factor governing where in the hierarchy an individual ends up is [—] his or her attentionality: their access to and capacity to absorb, sort, overview, generate the necessary attention for, and share valuable information. [—] Attention is the only hard currency in the virtual world. The strategy and logic of the netocracy are therefore attentionalist rather than capitalist." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://recollectingphilosophy.wordpress.com/2013/08/09/internet-revolution-attentionalism-and-slow-thinking-with-alexander-bard-and-pierre-bourdieu/#:~:text=The%20decisive%20factor,rather%20than%20capitalist.)
+
+> "Anyone trying to resist developments and persist with political agitation in the old way would not survive in the society ruled by the netocracy. He or she would look like a despicable information-tyrant. The new conditions of the informational media landscape mean that the plurarchic public is turning its back on the old political stage." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://recollectingphilosophy.wordpress.com/2013/08/09/internet-revolution-attentionalism-and-slow-thinking-with-alexander-bard-and-pierre-bourdieu/#:~:text=Anyone%20trying%20to,old%20political%20stage.)
+
+> "How do we gather attention while in alignment with our deepest values and highest purpose? And how do we transform that attention into intentional action in service of each other and the world?" - [Daniel Thorson](https://thewanderingon.wordpress.com/2013/12/11/alexander-bard-and-attentionalism/#:~:text=How%20do%20we%20gather%20attention%20while%20in%20alignment%20with%20our%20deepest%20values%20and%20highest%20purpose%3F%20And%20how%20do%20we%20transform%20that%20attention%20into%20intentional%20action%20in%20service%20of%20each%20other%20and%20the%20world%3F)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transition
@@ -1198,4 +1274,7 @@ kennedy quote - choose to go to the moon not because it is easy but because it i
 
 > "If you think we can't change the world, it just means you're not one of those who will." - [Jacque Fresco](https://www.goodreads.com/quotes/7622314-if-you-think-we-can-t-change-the-world-it-just)
 
+> "As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them." - [Aaron Swartz](https://www.azquotes.com/quote/873585)
+
+> "There is a technical solution to every political problem..." - [Edward Snowden](https://www.azquotes.com/quote/685668)
 

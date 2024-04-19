@@ -69,6 +69,8 @@ https://prnt.sc/o5LZhIhNqIFX
 
 > "Societies need rules that make no sense for individuals. For example, it makes no difference whether a single car drives on the left or on the right. But it makes all the difference when there are many cars!" - [Marvin Minsky](https://www.azquotes.com/quote/699378)
 
+> "We’re going towards a world where individuals relinquish freedom for the good of society, but do so in a decentralized way: we create the rules and enforce them together." - [Society Is a Brain, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/society-is-a-brain?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=we%E2%80%99re%20going%20towards%20a%20world%20where%20individuals%20relinquish%20freedom%20for%20the%20good%20of%20society%2C%20but%20do%20so%20in%20a%20decentralized%20way%3A%20we%20create%20the%20rules%20and%20enforce%20them%20together.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge
 ██████████████████████████████████████████████████████████████████
@@ -128,6 +130,8 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 > "Any altruistic system is inherently unstable, because it is open to abuse by selfish individuals, ready to exploit it." - [Richard Dawkins](https://www.goodreads.com/quotes/567499-any-altruistic-system-is-inherently-unstable-because-it-is-open)
 
 > "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
+
+> "Nature does nothing uselessly." - [Aristotle](https://www.goodreads.com/quotes/32921-nature-does-nothing-uselessly)
 
 > "There is more wisdom in your body than in your deepest philosophy." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/68916-there-is-more-wisdom-in-your-body-than-in-your)
 
