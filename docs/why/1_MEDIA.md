@@ -63,6 +63,16 @@ who thinks others are manipulated by media meme
 >
 > Morpheus: That you are a slave, Neo. Like everyone else you were born into bondage. Into a prison that you cannot taste or see or touch. A prison for your mind." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/3861325-morpheus-the-matrix-is-everywhere-it-is-all-around-us)
 
+> "Just like economic marketplaces, the speech marketplace contains cartels and players with special privileges." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=Just%20like%20economic%20marketplaces%2C%20the%20speech%20marketplace%20contains%20cartels%20and%20players%20with%20special%20privileges.)
+
+> "What’s so fascinating about the marketplace of ideas (especially as it relates to media) is that there’s such little variance between different media companies. [Marc Andreessen](https://twitter.com/pmarca) recently joked in this [interview](https://niccolo.substack.com/p/the-dubrovnik-interviews-marc-andreessen) that it’s really a “marketplace of idea.” The intellectual monoculture was a shock to him, because in a well-functioning marketplace, you’d have differentiated products." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=What%E2%80%99s%20so%20fascinating,have%20differentiated%20products.)
+
+> "True ideas don’t always beat untrue ideas. Fit ideas beat unfit ideas. Truth is sometimes fit, but other times not." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=But%20true%20ideas%20don%E2%80%99t%20always%20beat%20untrue%20ideas.%20Fit%20ideas%20beat%20unfit%20ideas.%20Truth%20is%20sometimes%20fit%2C%20but%20other%20times%20not.)
+
+> "The health of a civil society hinges on making dangerous, bad, and stupid ideas unfit for those who spread them. Even libertarian economists admit there are market failures in free market economies, so the marketplace of ideas should be no different.
+>
+> Our marketplace of ideas is indeed flawed. It’s heavily regulated, participants have no skin in the game, and, even when it does exist, the best ideas don’t always win." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=The%20health%20of,don%E2%80%99t%20always%20win.)
+
 > "People will come to love their oppression, to adore the technologies that undo their capacities to think." - [Aldous Huxley](https://www.azquotes.com/quote/1144899)
 
 > "If you eat, invest, and think according to what the ‘news’ advocates, you’ll end nutritionally, financially, and morally bankrupt." - [Naval Ravikant](https://twitter.com/navalbot/status/1422648752691683331)

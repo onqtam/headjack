@@ -67,6 +67,8 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 > "Rhetoric is no substitute for reality." - [Thomas Sowell](https://www.goodreads.com/quotes/270138-rhetoric-is-no-substitute-for-reality)
 
+> "They’re right when they say all narratives are fallacies, but they’re wrong when they suggest we don’t use narratives. We are narrative creatures. Reason is just a device to help us back into a narrative." - [Faith over Logic, by Erik Torenberg](https://eriktorenberg.substack.com/p/faith-over-logic#:~:text=They%E2%80%99re%20right%20when%20they%20say%20all%20narratives%20are%20fallacies%2C%20but%20they%E2%80%99re%20wrong%20when%20they%20suggest%20we%20don%E2%80%99t%20use%20narratives.%20We%20are%20narrative%20creatures.%20Reason%20is%20just%20a%20device%20to%20help%20us%20back%20into%20a%20narrative)
+
 > "We cannot reason ourselves out of our basic irrationality. All we can do is learn the art of being irrational in a reasonable way." - [Aldous Huxley](https://www.goodreads.com/quotes/330383-we-cannot-reason-ourselves-out-of-our-basic-irrationality-all)
 
 > "The very processes that make you adaptive make you subject to self-deception, so wisdom, meaning the overcoming of self-deception, is not optional." - [John Vervaeke](https://twitter.com/tomowenmorgan/status/1742174765463298489)
