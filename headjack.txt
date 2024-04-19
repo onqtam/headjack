@@ -199,8 +199,6 @@ It will become a competitive advantage for firms to allow their employees to exp
 
 > "One fundamental difference between American and Oriental culture is the individual’s position in society. In American culture an individual’s interest is primary. This makes American society more aggressively competitive, with a sharper edge and higher performance. In Singapore, the interests of the society take precedence over that of the individual. Nevertheless Singapore has to be competitive in the market for jobs, goods and services. On the other hand the government helps lower income groups to meet their needs for housing, health services and education so that their children will have more of an equal chance to rise through education." - [Lee Kuan Yew](https://www.goodreads.com/quotes/7289186-one-fundamental-difference-between-american-and-oriental-culture-is-the)
 
-> "A society to be successful must maintain a balance between nurturing excellence and encouraging the average to improve." - [Lee Kuan Yew](https://www.goodreads.com/quotes/6774847-a-society-to-be-successful-must-maintain-a-balance-between)
-
 > "I always tried to be correct, not politically correct." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11421404-i-always-tried-to-be-correct-not-politically-correct)
 
 > "We are pragmatists. We don't stick to any ideology. Does it work? Let's try it, and if it does work, fine, let's continue it. If it doesn't work, toss it out, try another one. We are not enamored with any ideology." - [Lee Kuan Yew](https://www.goodreads.com/quotes/10141150-we-are-pragmatists-we-don-t-stick-to-any-ideology-does)
@@ -721,12 +719,6 @@ Quotes and their rankings are relevance realization - a very crude version of th
 We need to become game designers - the choice of what culture we uplift is ours to make
 What is our dopamine economy?
 
-We need to make open source the norm rather than the exception - and push it further than mere code
-https://en.wikipedia.org/wiki/Open-source_governance
-
-> "Open politics is not a top–down theory but a set of best practices from [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism), [participatory democracy](https://en.wikipedia.org/wiki/Participatory_democracy) and [deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy), informed by [e-democracy](https://en.wikipedia.org/wiki/E-democracy) and netroots experiments, applying argumentation framework for issue-based argument... Some variants of it draw on the theory of [scientific method](https://en.wikipedia.org/wiki/Scientific_method) and [market methods](https://en.wikipedia.org/wiki/Price_mechanism), including [prediction markets](https://en.wikipedia.org/wiki/Prediction_market) and [anticipatory democracy](https://en.wikipedia.org/wiki/Anticipatory_democracy)." - [Open-source governance, Wikipedia](https://en.wikipedia.org/wiki/Open-source_governance#:~:text=open%20politics%20is,anticipatory%20democracy.)
-
-> "Open government is the governing doctrine which maintains that citizens have the right to access the documents and proceedings of the government to allow for effective public oversight. In its broadest construction, it opposes [reason of state](https://en.wikipedia.org/wiki/National_interest) and other considerations which have tended to legitimize extensive state [secrecy](https://en.wikipedia.org/wiki/Secrecy)." - [Open government, Wikipedia](https://en.wikipedia.org/wiki/Open_government#:~:text=Open%20government%20is%20the,extensive%20state%20secrecy.)
 
 The sign should read: "If you want power - go ahead and get it, but earn it legitimately"
 
@@ -908,7 +900,6 @@ How do we counter indulgence?
 
 A social network where your life gets better when you join - thats the goal.
 Meaning, self-improvement, happiness, health and connection. What if you’re assigned to a random group of people who want to improve and are provided with guidelines from the most successful other groups?
-Friendship matchmaking where you deliberately enter your goals initially
 
 Use LLMs to contribute annotations and structured data and use LLMs to speak back at you what the aggregate thinks
 
@@ -963,8 +954,6 @@ Consciousness is a gift. How do we make a system where we could expand it?
 
 We need to crowdsource censorship by leveraging collective intelligence and a truth market
 
-How do we force companies to not waste any resources? Why would any company waste a perfectly good router and not reuse it when it is returned in perfect condition? This is parasitic behavior - it is maladaptive to humanity as a whole. Most such needless waste must be eliminated. How do we turn into a value and how do we force companies to do this?
-https://www.techspot.com/news/85862-record-amount-e-waste-generated-2019.html
 
 The older the problem - the older the solution. This is profound
 
@@ -996,9 +985,6 @@ Transparency and openness fixed the problem with interviewing for jobs - all you
 Every single aspect of this system should be dog fed to itself for further refinement, scrutiny and improvement - a self-referential system for governance
 Next level forums
 
-If you don’t think media & the system are corrupt to the core - read Balaji’s piece on SBF & FTX
-https://balajis.com/p/crypto-twitter-found-sbfs-fraud
-
 Legitimacy should be earned - not bought or inherited.
 
 Many good people don’t want to stick their necks out in the current political and media environment. But what if the system was fixed such that only good-faith actors were elevated?
@@ -1014,12 +1000,6 @@ The level of education is positively correlated with confirmation bias - at leas
 Money on money return is a feedback loop - how do we transition away from competing for claims over resources to a status-on-status return feedback loop?
 
 You dont have to agree with everything proposed here - and thats the cool thing - you’d be able to push back against what you don’t like
-
-What if web3 is not "the Internet of value" as in transactional value, but the internet of values?
-
-
-
-
 
 
 
@@ -1040,8 +1020,6 @@ It's all feedback within the mother of all complex adaptive systems called human
 The current media environment is breaking many people and in different ways - some become completely dysfunctional
 
 Reductionism vs complexity - the study of the dancer vs the dance
-
-Multimatrix
 
 fragment and conquer
 
@@ -1311,19 +1289,6 @@ Write as you are addressing kids - tell them about the word they’re about to i
 This is for the teenagers - those that are still neuroplastic
 Most people die at 25-30 because they stop developing
 
-
-
-Prev:
-Block hash of “on brink of second bailout for banks”
-0x000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
-https://en.bitcoin.it/wiki/Genesis_block
-
-The two genesis “blocks”/CIDs
-Genesis pair
-Genesis triplet
-
-Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
-
 Alignment score
 
 Conviviality
@@ -1394,17 +1359,6 @@ Degrowth? More like desalary and deconsumption
 A prestigious enterprise minimizes trash and environmental impact - we can boycott such ones and signal we won’t go to such places
 
 Endocrine disruptors
-
-Ecocide - insects are dying at 2% per year
-
-
-
-
-
-
-
-
-
 
 we can have debate maps for how "fascist" some entity/concept is, and later calculate someone's bias score based on if they call that thing fascist
 
@@ -1849,14 +1803,6 @@ How do we implement a parallel self-sustaining system with something like tenure
 https://en.wikipedia.org/wiki/Wikipedia:Trust_network
 trust network - choose what to trust depending on the trust network that is X number of hops away from you (starting from you)
 
-
-
-
-
-"The world is not driven by greed; it's driven by envy."
-—Charlie Munger
-https://x.com/shaneaparrish/status/1748353737167356305
-
 The cognitive elite rejects the Zuck algo feed
 
 Accountability begets competition
@@ -1870,9 +1816,6 @@ Due to the opacity of corporations we don’t have a good idea how important dif
 Why can’t we define groups of people for reels - why do we have to have all of them for everyone we follow clumped - what if we could compartmentalise that?
 
 The underclass of the future would be those that compete for status exclusively through material possessions and showing off
-
-"My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!"—Steve Jobs, 1985
-https://x.com/sjobs_stories/status/1748435166349975643?s=46
 
 What if we could retroactively penalise all accounts related to a scam? And we could define the relation - merely amplifying/spreading it or being part of the core group that first started it.
 
@@ -1902,8 +1845,6 @@ Quote - the purpose of a system is what it does - our system elects getiantrics 
 
 Collective intelligence is not just about superior cognitive results - it is also about coherence and getting everybody to understand the goals and rules and constraints and processes
 
-The Global Brain is to identity what Google is to web pages.
-
 A system that produces/delivers a Joe Biden or a Trump is a hopelessly broken system
 
 We should crowdsource our norms and then rate media against them
@@ -1912,8 +1853,6 @@ Chris Dixon is wrong - not read/write/own but read/write/compose
 The progression from web1 to web3 is not about read => write => own
 Its about read => write => compose
 https://x.com/kirilovvik/status/1751998879359176965?s=46
-
-How much legislature and bureaucracy can be replaced simply by norms and culture and reputation? Humanity operated like that for thousands of years
 
 Reinvent capital allocation
 
@@ -2066,12 +2005,6 @@ We’re carbon from the cores of stars that has been shuffled around and endless
 
 We all want to be loved
 
-
-The story of the story is the story
-https://twitter.com/niraj/status/1760004892008251670
-Evolution is the story
-This book contains the full history and evolution of a stream of consciousness dumped in a text editor and git
-
 Universal income does not have to be basic - it can be multidimentional - our cogngition and RR points that we should distribute
 
 We’re all distributors of incentive points - harnessing of intelligence through alignment
@@ -2138,11 +2071,7 @@ Science works most in trust and objectivity and fairness
 
 Time-restricted stories are an addiction mechanism - if you want to see everything from someone you have to open the app every day
 
-God is a voluntary informational structure
-
 The purpose of life is to give birth to something better than you
-
-To be in the presence of god is to be engaged in the most win-win game possible
 
 We can vote on which coalitions will do beat and we can calculate the difference between them and the losers
 
@@ -2151,17 +2080,7 @@ Interpersonality
 
 The meaning of life is a good problem to work on
 
-God was always trending/leaning towards what we needed him to be and what was achievable given the civilizational path dependence. The enlightenment and the industrial revolution have given us orders of magnitude more knowledge about the world and its time to use all that and define the next version of god
-
-
-The evolution of god shows us how god is usually the point towards which we’re aiming at
-God is consciousness - god is matter knowing itself and managing to command itself - god is attention - god is phenomenology - as a process god is experience
-
-God is the solution for us going through this evolutionary bottleneck - god is survivability - god is life - god is meaning
-
 Reparations should be a form of global subsidy
-
-Conscious economics
 
 We need a system to trust for most of pur sensemaking - we need to crowdsource our interpersonal protocols and norms
 
@@ -2175,10 +2094,6 @@ Approval points - recognition
 Relevancism
 Relevance economics
 Relevance is the highest good in intelligence and agency
-
-
-The Hawthorne effect is a type of human behavior reactivity in which individuals modify an aspect of their behavior in response to their awareness of being observed.
-https://en.wikipedia.org/wiki/Hawthorne_effect
 
 There is no higher moral ground to stand on than supporting this vision.
 
@@ -2251,21 +2166,13 @@ Our top predictors should be celebrities
 
 How do we collectively update our priors - the whole of humanity?
 
-How do we anthropomorphize the global brain just like we’ve done with past gods?
-
 This book is about consciously optimizing memes and is itself a meme that’s aiming at taking over - a meta meme - a meme about memetics. Self-reference - humanity is also a strange loop
 
 Those who can understand this book will be converted after the first reading, and after the second they’ll have a good grasp of most aspects of it - it’s a one-way street
 
 Competition works best when players are judged objectively through reason
 
-How do we collectively help improve the matchmaking process in every field?
-
-Curiosity/acc
-
 How do we enable and encourage people to become the best possible version of themselves?
-
-God is the puppet master
 
 The point of life is to witness things together and go “Hey! Did you see that?! Yea, yea I did!”
 
@@ -2282,11 +2189,6 @@ AGI alignment (with humans) and human alignment are mostly the same problem
 Who are the PhDs working on the problem of organizing civilization?
 
 We can track the reputation of indexes that are organizing the web - they can commit to a view at a certain point in time and later on someone can claim that what they were serving is way off and we can transparently adjudicate that and trust our compressors of knowledge - this is an optimistic scheme
-
-“Let the (status) game begin”
-With a picture of the clown from the movie “saw”
-
-Conscious economics is the only goal of the GB
 
 Funds will be directed towards handling crisis - how that direction happens should be of concern to all - redistribution of rewards is the most meta goal there is - we need to decide as a society what we want to reward - with our points and our money
 
@@ -2312,15 +2214,7 @@ The Metaverse is the commonality/intersection of all the sub-verses of the GB - 
 Differences in an open ecosystem:
 - you won’t be able to remove a follower of yours for your public stuff
 
-God is whatever he needs to be
-
-God is the engine and totality of human knowledge
-
-Conscious economics
-
 Intelligent design is not about the past but about the future.
-
-Sublimation of the individual self into a higher entity
 
 In a sane system you wouldn’t get Kamala regulating AI.
 
@@ -2353,12 +2247,6 @@ The ultimate sidekick
 
 Event Reinterpretability
 
-Abrahamic religion and money itself are the only competitors
-
-Civilization is stories all the way down
-Turtles all the way down
-Alignment all the way down
-
 Imagine browsing the causal map pf the metacrisis in layers - psychologically, economically, environmentally - which are the important components and how are they linked
 
 When someone with a high status builds upon (or at least signal-boosts or approves) the work of someone with a low status - the resulting work can inherit the status of the last interaction - and thus we can imbue/associate stigmergic actions with status
@@ -2366,8 +2254,6 @@ When someone with a high status builds upon (or at least signal-boosts or approv
 What if we could view the alignment of the financial incentives of anyone towards us as a hostility score?
 
 Computational accountability
-
-Matchmaking chapter
 
 Integration is also about common knowledge and making it explicit and reducing friction
 
@@ -2392,17 +2278,11 @@ If we legitimately trusted what society wants most of us - we would aim at satis
 
 Common weights as a democratic Schelling point - due to energetic, computational, and complexity constraints - the base model of humanity
 
-What if our games taught skills that the GB needs?
-
-We can replace bureaucracy with stigma
-
 Alignment is here - it's just not evenly distributed
 
 We can collectively value how much we value something - we need the optimal fund allocation - the ultimate state - a nested hierarchy of “companies”
 
 The system that more optimally processes information and solves problems quicker will win.
-
-How do we most optimally crowdsource the best possible worldview?
 
 The extent to which we implement consequence capture is the extent to which we will secure a future and minimize risks
 
@@ -2414,12 +2294,7 @@ Misaligned capitalism on a global level is a pressure cooker - we need a valve t
 
 We can filter sources transitively - if some identities that are behind a publication raise red flags - that red flag could be associated with the publication
 
-Headjack is on the right side of napkin math
-
-the biggest contributor as an entity to global warming is The Pentagon
-
 The bigger and more synergistic the vision - the higher the chance for any one of its elements/components seeing the light of day and crossing the valley of viability
-
 
 How do we eliminate or at least reduce manufactured demand?
 
@@ -2453,10 +2328,6 @@ There can be a flag if a text post has been annotated by someone with structured
 
 
 Sex runs the world - but what if instead of showing tits and asses next to every conceivable thing in advertising the sex that actually does the selecting starts consciously selecting for better and more aligned & synergistic competition?
-
-Dumb criminals break laws, smart criminals make laws
-
-May the best meme win
 
 There is no replacement for the sense of belonging, purpose and recognition/appreciation
 
@@ -2734,7 +2605,6 @@ We need to allow the next generations to grown into their rightful place in the 
 > "Science advances one funeral at a time." - [Max Planck](https://www.goodreads.com/quotes/111818-science-advances-one-funeral-at-a-time)
 
 Error correction, conscious evolution, scientific method
-Fauci is not science
 
 The essence of spirituality and transcendence is the feeling of being a part of something greater than one self. We can feel the calling of evolution’s arrow towards greater levels of aggregation and cooperation
 
@@ -2879,15 +2749,6 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 
 
-
-> "All stable processes we shall predict. All unstable processes we shall control." - [John von Neumann](https://www.azquotes.com/quote/878804)
-
-
-
-
-
-
-
 > "The best argument against democracy is a five-minute conversation with the average voter." - [Winston Churchill](https://www.goodreads.com/quotes/5980-the-best-argument-against-democracy-is-a-five-minute-conversation-with)
 
 > "Democracy is the worst form of government – except for all the others that have been tried." - [Winston Churchill](https://blogs.fcdo.gov.uk/petermillett/2014/03/05/the-worst-form-of-government/)
@@ -2898,22 +2759,6 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 
 > "If we were to forgo our television addiction for just one year, the world would have over a trillion hours of cognitive surplus to commit to share projects." - [Peter H. Diamandis](https://www.goodreads.com/quotes/7185540-if-we-were-to-forgo-our-television-addiction-for-just)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3032,9 +2877,6 @@ Anything that needs improvement in this new information economy will be collecti
 
 We should orient our lives towards building reputation that can be taken away from us by collective consensus - aligning our incentives.
 
-
-PageRank 2.0
-
 We can design the incentive system for participating in constructing the worldview that should be taught to everyone
 
 Not living your best self is hurting the whole
@@ -3052,8 +2894,6 @@ What if it becomes a competitive advantage for companies to allow their employee
 This is the real neuralink - the real way we link our minds
 
 We should crowdsource the best possible guide to being a human
-
-Reinventing governance
 
 Cooperation is the ultimate intentionally evolutional goal
 
@@ -3116,10 +2956,6 @@ Participatory social engineering
 
 
 
-Mark Zuckerberg bunker
-https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doomsday-bunker-blast-resistant-door
-
-
 
 > "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
 
@@ -3131,9 +2967,6 @@ proof of humanity
 sybil attack
 KYC
 https://vitalik.ca/general/2023/07/24/biometric.html#what-are-some-early-attempts-at-proof-of-personhood
-
-
-
 
 
 
@@ -3269,20 +3102,7 @@ For some people the state is their god - how would the global government that yo
 
 The people dont want the current power structures to be cemented and because of the fear of the slippery slope to tyranny we reject globalisation
 
-AGI is recursive relevance realization that has fully aligned everyone
-The AGI moment is when we start cooperating
-
 We need a market for transparency and accountability. On the record
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3319,9 +3139,6 @@ digital IDs are envisioned from the perspective of top-down control, but they co
 
 “You Either Die A Hero, Or You Live Long Enough To See Yourself Become The Villain” — Harvey Dent in The Dark Knight (2008).
 "You either participate in the engineering and definition of the social credit score, or you live long enough for someone else to do it for you." — Harvey Dent in The Dark Knight (2008), probably
-
-It will either be the "penetrated political cabinets with young global leaders", or us that is in charge of humanity's direction.
-https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 Currently, Wikipedia contributors get no status for their work beyond within their in-group - no wonder that so many people were skeptical it would ever work in the beginning. But what if they could earn computable and provable status that could be exported outside?
 

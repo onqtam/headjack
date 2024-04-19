@@ -8,6 +8,12 @@
 
 > "Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Meeting%20new%20people%20is%20a%20race%20to%20find%20the%20most%20interesting%20overlap%20areas%20between%20your%20knowledge%20trees%20as%20fast%20as%20possible.)
 
+
+How do we collectively help improve the matchmaking process in every field?
+
+Friendship matchmaking where you deliberately enter your goals initially
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Argument maps / Debate Maps
 ██████████████████████████████████████████████████████████████████
@@ -109,7 +115,23 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 # SECTION: STONE TABLET IPFS CID HASH OF BOOK
 ██████████████████████████████████████████████████████████████████
 
+Prev:
+Block hash of “on brink of second bailout for banks”
+0x000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+https://en.bitcoin.it/wiki/Genesis_block
+
+The two genesis “blocks”/CIDs
+Genesis pair
+Genesis triplet
+
+Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
+
 also put the bitcoin genesis block hash on there with 15 or 16 AS (after satoshi)
+
+The story of the story is the story
+https://twitter.com/niraj/status/1760004892008251670
+Evolution is the story
+This book contains the full history and evolution of a stream of consciousness dumped in a text editor and git
 
 > "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
 

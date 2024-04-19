@@ -303,6 +303,8 @@ discoverability
 
 bluesky - dependence on DNS
 
+Headjack is on the right side of napkin math
+
 
 > "Out of clutter, find simplicity." - [Albert Einstein](https://www.goodreads.com/quotes/14212-out-of-clutter-find-simplicity)
 
