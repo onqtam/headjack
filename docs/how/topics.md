@@ -96,6 +96,8 @@ Metasystem transition - the emergence, through evolution, of a higher level of o
 
 connectionism
 
+competence heterarchy
+
 "PageRank for the 21st century (and beyond)"
 "The alignment protocol/superstructure"
 
@@ -148,7 +150,6 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
         https://eriktorenberg.substack.com/i/57968918/are-current-things-true
     - algorithms & incentives
     - weights & parameters of recommendation algorithms
-    - (broadcast) media & manipulation
     - mindspace as a resource
     - visualizing our attention - vascularization, the law of flow, sankey diagram
         https://underthrow.substack.com/p/the-law-of-flow-is-everywhere
@@ -156,8 +157,6 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
 - collective intelligence
 
     coherence !!!
-
-    COMPLEX ADAPTIVE SYSTEMS
 
     - all intelligence is collective intelligence
     - cybernetics & control theory & feedback loops

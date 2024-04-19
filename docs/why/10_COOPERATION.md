@@ -77,8 +77,13 @@ https://prnt.sc/o5LZhIhNqIFX
 # SECTION: Coherence
 ██████████████████████████████████████████████████████████████████
 
+Coherent pluralism - Jim Rutt
 
 Most people have read at leats a couple of books in their life. What if we could socially nudge ourselves into coherence for what is most important and point to the most important books?
+
+> "Coherence is one of the most important concepts in the management of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Coherence%20is%20one%20of%20the%20most%20important%20concepts%20in%20the%20management%20of%20complexity.)
+
+> "Society cannot function without a regulatory structure adequate to its level of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Society%20cannot%20function%20without%20a%20regulatory%20structure%20adequate%20to%20its%20level%20of%20complexity.)
 
 
 ██████████████████████████████████████████████████████████████████

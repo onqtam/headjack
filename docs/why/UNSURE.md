@@ -211,5 +211,9 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "The second of the [Yamas](https://www.unitedwecare.com/self-care/yoga/types-of-yoga/raja-yoga/8-limbs-of-yoga/yama) — (“restraints” in Sanskrit) — satya  — reminds us that we must practice living in integrity, which is to be true to ourselves and others in thought, word, and deed." - [Max Borders](https://www.aier.org/article/the-screen-of-gyges/#:~:text=The%20second%20of%20the%20Yamas%20%E2%80%94%20(%E2%80%9Crestraints%E2%80%9D%20in%20Sanskrit)%C2%A0%E2%80%94%C2%A0satya%C2%A0%C2%A0%E2%80%94%C2%A0reminds%20us%20that%20we%20must%20practice%20living%20in%20integrity%2C%20which%20is%20to%20be%20true%20to%20ourselves%20and%20others%20in%20thought%2C%20word%2C%20and%20deed.)
 
+> "Because human beings can so profoundly impact our enviroment and because we can so profoundly change with different “software,” the primary driver of our fitness has moved from the “hardware” into the “software” layer. This is closely linked to so-called “cultural evolution.”" - [Conscious Evolution, by Jordan Hall](https://medium.com/deep-code/conscious-evolution-c974e5415045#:~:text=Because%20human%20beings%20can%20so%20profoundly%20impact%20our%20enviroment%20and%20because%20we%20can%20so%20profoundly%20change%20with%20different%20%E2%80%9Csoftware%2C%E2%80%9D%20the%20primary%20driver%20of%20our%20fitness%20has%20moved%20from%20the%20%E2%80%9Chardware%E2%80%9D%20into%20the%20%E2%80%9Csoftware%E2%80%9D%20layer.%20This%20is%20closely%20linked%20to%20so%2Dcalled%20%E2%80%9Ccultural%20evolution.%E2%80%9D)
+
+> "We currently know of no form of control structure that is adequate — even in principle." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=we%20currently%20know%20of%20no%20form%20of%20control%20structure%20that%20is%20adequate%20%E2%80%94%20even%20in%20principle.)
+
 
 

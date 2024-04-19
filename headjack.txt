@@ -675,9 +675,6 @@ reducing the problem to a single place where it is discussed, but all other disc
 
 self-manifesting error correction
 
-an inverted panopticon
-a reversed panopticon
-
 at one layer of voting, we vote for which data/signal needs the most to be annotated propositionally - separately from the layer that does the actual work... what? :D
 
 every conceivable question that makes sense should be expressable through a canonical form and be given a unique ID for reference
@@ -1764,8 +1761,6 @@ We should reuse even balloons
 
 Lets start asking “how do I improve the world”
 
-Hash the book and put it on the stone tablet - then hash the photo and put its hash on. The blockchain
-
 We are evolutionary agents of distributed cognition.
 
 We can learn from one attempt
@@ -1775,8 +1770,6 @@ What does a fully sustainable life look like and how do we build it?
 Lets reward with status the first couple of companies that jump on this opportunity - picking a slice of the pie
 
 What does a fully reusable and sustainable food chain look like - including from the store to the kitchen? How do we minimize waste?
-
-A reverse panopticon
 
 We are each forever students and teachers
 
@@ -1872,14 +1865,6 @@ Symbiotic intelligence = collective + artificial
 All games have a loop and for GameA that loop is the money-on-money return - everything boils down to the optimization and pursuit of a single perfectly fungible metric
 We need to replace that loop with a civilizational OODA loop
 
-Private jets are immoral - how could you possibly expect normal people to listen to what you have to say about climate change if you don’t practice what you preach? Or if you don’t send your kids to war but expect everybody else to do so?
-
-
-100th anniversary from that as a goal
-July 16, 1945
-https://en.wikipedia.org/wiki/Trinity_(nuclear_test)
-August 6, 1945
-https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
 
 
 Information session management
@@ -3771,8 +3756,7 @@ We need to answer every question just once and in the best possible way - so tha
 
 What if we could tag the response of someone as open-minded and willing to change their mind when confronted with facts - aka genuinely seeking truth? We need to reward good faith communication
 
-The evolutionary octagon
-An opt-in panopticon
+The evolutionary octagon where fittedness equates to truth and alignment
 
 we need to augment capitalism with values and accountability
 
@@ -4970,11 +4954,7 @@ different scroring criteria are different models of the world - different lenses
 
 we can color-code in the UI any URI where the names no longer belong to their former owners at the time of publication
 
-
-The internet put an end to the coherence of broadcast media but we can have our cake and eat it too if we go beyond the host-centric model
-Just like our bodies are made up of trillions of cells
-
-Our world is hopelessly broken - the american dream has been dead for decades and this is the culminatiom?!
+Our world is hopelessly broken - the american dream has been dead for decades and this is the culmination?!
 
 we hold concepts in our minds singularly and can "browse" our memories that are connected to them - however/albeit inperfectly. But in the digital world concepts and entities are fractured and duplicated - there are many instances of the same thing and information is incoherent
 
@@ -5138,21 +5118,9 @@ what if your youtube-like video feed was based on the recommendations or positiv
 
 
 
-> "If you look at the trajectory of life on Earth it's really about information processing." - [Manolis Kellis](https://youtu.be/wMavKrA-4do?t=657), computational biologist at MIT
+> "Rather than love, than money, than fame, give me truth." - [Henry David Thoreau](https://www.goodreads.com/quotes/7762-rather-than-love-than-money-than-fame-give-me-truth)
 
 
-> "Always remember: corporate journalists are just dogs on a leash, hitmen for old money. They’ll never criticize their bosses or even mention them." - [Balaji Srinivasan](https://twitter.com/balajis/status/1657869478338912257)
-
-
-
-
-== cybernetics
-
-> "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624)
-
-> "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
-
-> "Cybernetics is the art of steering." - [Paul Pangaro](https://twitter.com/paulpangaro)
 
 What if we could state our goals and then design our feedback system?
 
@@ -5163,19 +5131,12 @@ https://en.wikipedia.org/wiki/Loss_function
 
 self-regulation
 
-According to cybernetics, intelligence sits on top of feedback loops
-
 engineering control loops
 
 why don't we try to turn the map into the territory as best as possible?
 
 We can take the map way closer to resembling the territory
 We lack computability and a loss function
-
-> "Rather than love, than money, than fame, give me truth." - [Henry David Thoreau](https://www.goodreads.com/quotes/7762-rather-than-love-than-money-than-fame-give-me-truth)
-
-
-
 
 
 
@@ -5405,69 +5366,24 @@ NYT Science should be just content from the NYT that has the science tag/label
 
 
 
-> "If we can move the center of political discourse from old media to new media, we can radically change the balance of power." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=if%20we%20can%20move%20the%20center%20of%20political%20discourse%20from%20old%20media%20to%20new%20media%2C%20we%20can%20radically%20change%20the%20balance%20of%20power.)
 
-> "Our ability to give ourselves what we want has far outstripped our ability to sense what we need." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=our%20ability%20to%20give%20ourselves%20what%20we%20want%20has%20far%20outstripped%20our%20ability%20to%20sense%20what%20we%20need.)
 
-> "Anyone who has used a computer in the last decade is well aware of the problem of malware: be careful installing 3rd party software on your system. Oddly, we are vastly less circumspect when installing 3rd party narrative into our sensemaker." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=Anyone%20who%20has%20used%20a%20computer%20in%20the%20last%20decade%20is%20well%20aware%20of%20the%20problem%20of%20malware%3A%20be%20careful%20installing%203rd%20party%20software%20on%20your%20system.%20Oddly%2C%20we%20are%20vastly%20less%20circumspect%20when%20installing%203rd%20party%20narrative%20into%20our%20sensemaker.)
-
-> "McLuhan was right. At the end of the day, your sensemaker is a result of your experience. And both the nature and content of your experience is deeply influenced by the “architectures” that shape your capacity to experience." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=McLuhan%20was%20right.%20At%20the%20end%20of%20the%20day%2C%20your%20sensemaker%20is%20a%20result%20of%20your%20experience.%20And%20both%20the%20nature%20and%20content%20of%20your%20experience%20is%20deeply%20influenced%20by%20the%20%E2%80%9Carchitectures%E2%80%9D%20that%20shape%20your%20capacity%20to%20experience.)
-
-> "If we take ownership of the conditions of our sensemaking and take care to craft narratives and architectures that are optimized for truth rather than control, we really have no idea of what we are capable. What I feel I can say with confidence is this: through this keyhole lies our best hope for a desirable future." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=if%20we%20take,a%20desirable%20future.)
-
-> "Journalism is the function whereby society sources, orients and processes information." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=journalism%20is%20the%20function%20whereby%20society%20sources%2C%20orients%20and%20processes%20information.)
 
 incredible picture:
 https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4z4cikdT6jw2tkkyi13LkA.jpeg
 taken from here: https://medium.com/emergent-culture/reinvent-everything-556860b63308
 
-> "Given the primary importance and power of “True Information” to a well functioning Abundance Society, we might well expect that providing honest and thoughtful evaluation of experience will become one of the principal activities in the future." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=given%20the%20primary%20importance%20and%20power%20of%20%E2%80%9CTrue%20Information%E2%80%9D%20to%20a%20well%20functioning%20Abundance%20Society%2C%20we%20might%20well%20expect%20that%20providing%20honest%20and%20thoughtful%20evaluation%20of%20experience%20will%20become%20one%20of%20the%20principal%20activities%20in%20the%20future.)
 
-> "A conspicuous feature of the journalism of the future will be a deep lack of authority. There will be no notion of looking for The One Right Answer from an Unimpeachable Authority." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=A%20conspicuous%20feature%20of%20the%20journalism%20of%20the%20future%20will%20be%20a%20deep%20lack%20of%20authority.%20There%20will%20be%20no%20notion%20of%20looking%20for%20The%20One%20Right%20Answer%20from%20an%20Unimpeachable%20Authority.)
 
-> "For all of their flaws, contemporary architectures like Reddit, Yelp and to a lesser extent Wikipedia are embryonic forms of what our future “collective intelligence” architectures will look like." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=for%20all%20of%20their%20flaws%2C%20contemporary%20architectures%20like%20Reddit%2C%20Yelp%20and%20to%20a%20lesser%20extent%20Wikipedia%20are%20embryonic%20forms%20of%20what%20our%20future%20%E2%80%9Ccollective%20intelligence%E2%80%9D%20architectures%20will%20look%20like.)
 
-> "We don’t have to be close to perfect to be vastly better than anything we’ve seen before." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=we%20don%E2%80%99t%20have%20to%20be%20close%20to%20perfect%20to%20be%20vastly%20better%20than%20anything%20we%E2%80%99ve%20seen%20before.)
 
-> "The phrase, “The Medium is the Message” is true. A centralized, broadcast medium (e.g., television) will tend to promote certain kinds of cultural elements and inhibit others; by contrast, a decentralized medium (e.g., the Internet) will tend to present a quite different fitness landscape. Among other things, more voices will be heard and they will compete for attention in very different ways. No longer is owning the only newspaper in town a dominant enculturating position." - [The Art of Culture War, by Jordan Hall](https://medium.com/deep-code/the-art-of-culture-war-2e4a1ccce351#:~:text=the%20phrase%2C%20%E2%80%9CThe,dominant%20enculturating%20position.)
 
-> "Because human beings can so profoundly impact our enviroment and because we can so profoundly change with different “software,” the primary driver of our fitness has moved from the “hardware” into the “software” layer. This is closely linked to so-called “cultural evolution.”" - [Conscious Evolution, by Jordan Hall](https://medium.com/deep-code/conscious-evolution-c974e5415045#:~:text=Because%20human%20beings%20can%20so%20profoundly%20impact%20our%20enviroment%20and%20because%20we%20can%20so%20profoundly%20change%20with%20different%20%E2%80%9Csoftware%2C%E2%80%9D%20the%20primary%20driver%20of%20our%20fitness%20has%20moved%20from%20the%20%E2%80%9Chardware%E2%80%9D%20into%20the%20%E2%80%9Csoftware%E2%80%9D%20layer.%20This%20is%20closely%20linked%20to%20so%2Dcalled%20%E2%80%9Ccultural%20evolution.%E2%80%9D)
-
-> "If we can activate individuals to surface and share the products that they think are special (worthy, important) and/or would “swear by” — depending on their idiosyncratic values — and to invest some time and energy in crafting rich media expressions of these products, we can do to “Leviathan” what Wikipedia did to Britannica." - [A Theoretical Case for “Swell”, by Jordan Hall](https://medium.com/swell-considerations/a-theoretical-case-for-swell-112cbfca4cf4#:~:text=if%20we%20can,did%20to%20Britannica.)
-
-> "What is needed most now is attention. Leviathan is good at buying lots and lots of it. We can’t. What we can do is share. We can thoughtfully and intentionally deploy our attention and energy; spending both to support authentic and caring creators. We can move from discerning consumer to champion. Take the special things that we’ve discovered in our lives and help them get the attention they deserve. That’s why word-of-mouth works and is so threatening. That’s why if you share something awesome that deserves attention you really are making a difference. And if we all do it together, we might just change the world." - [it’s simple, really …, by Jordan Hall](https://medium.com/swell-considerations/swell-vision-92ed397ea99f#:~:text=What%20is%20needed,change%20the%20world.)
-
-> "It is not a stretch to say that almost our entire contemporary economy from top to bottom is designed to get us to want what we do not need. As a consequence, by participating in our current economy we find ourselves all too often “full but not fulfilled.”" - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=it%20is%20not%20a%20stretch%20to%20say%20that%20almost%20our%20entire%20contemporary%20economy%20from%20top%20to%20bottom%20is%20designed%20to%20get%20us%20to%20want%20what%20we%20do%20not%20need.%20As%20a%20consequence%2C%20by%20participating%20in%20our%20current%20economy%20we%20find%20ourselves%20all%20too%20often%20%E2%80%9Cfull%20but%20not%20fulfilled.%E2%80%9D)
-
-> "No economic system, however productive and however judiciously distributive can do its job of providing for our wellbeing if we are unable to accurately and consistently identify and share our real needs." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=No%20economic%20system%2C%20however%20productive%20and%20however%20judiciously%20distributive%20can%20do%20its%20job%20of%20providing%20for%20our%20wellbeing%20if%20we%20are%20unable%20to%20accurately%20and%20consistently%20identify%20and%20share%20our%20real%20needs.)
-
-> "“What is the new literacy of the 21st Century?” My answer is that is that the new literacy is “evaluation”." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=%E2%80%9CWhat%20is%20the%20new%20literacy%20of%20the%2021st%20Century%3F%E2%80%9D%20My%20answer%20is%20that%20is%20that%20the%20new%20literacy%20is%20%E2%80%9Cevaluation%E2%80%9D.)
-
-> "It is my proposition that the ability to provide honest and discerning evaluation of your experiences is going to become a primary economic contribution in the 21st Century." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=It%20is%20my%20proposition%20that%20the%20ability%20to%20provide%20honest%20and%20discerning%20evaluation%20of%20your%20experiences%20is%20going%20to%20become%20a%20primary%20economic%20contribution%20in%20the%2021st%20Century.)
-
-> "Coherence is one of the most important concepts in the management of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Coherence%20is%20one%20of%20the%20most%20important%20concepts%20in%20the%20management%20of%20complexity.)
-
-> "Society cannot function without a regulatory structure adequate to its level of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Society%20cannot%20function%20without%20a%20regulatory%20structure%20adequate%20to%20its%20level%20of%20complexity.)
-
-> "This is the formal core of the Blue Church: it solves the problem of 20th Century social complexity through the use of mass media to generate manageable social coherence." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=This%20is%20the%20formal%20core%20of%20the%20Blue%20Church%3A%20it%20solves%20the%20problem%20of%2020th%20Century%20social%20complexity%20through%20the%20use%20of%20mass%20media%20to%20generate%20manageable%20social%20coherence.)
 
 > "Broadcast. Asymmetry. An architecture that enables a scalable division of labor for social sensemaking and decision making. No one could possibly try and understand even a small fraction of what is going on in the world. So we break the problem up into bits, hand the smaller problems up the expertise hierarchy where they are processed and reduced to simple shared “good opinion” which is then broadcast down and out to the whole population." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Broadcast.%20Asymmetry.%20An,the%20whole%20population.)
-
-> "We have a really hard time distinguishing between “having attention” and “deserving attention;”" - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=We%20have%20a%20really%20hard%20time%20distinguishing%20between%20%E2%80%9Chaving%20attention%E2%80%9D%20and%20%E2%80%9Cdeserving%20attention%3B%E2%80%9D)
-
-> "When we look at our hardwired “attention allocation” functions, we discover that human beings use a pretty simple model: pay attention to the people who other people are paying attention to." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=when%20we%20look%20at%20our%20hardwired%20%E2%80%9Cattention%20allocation%E2%80%9D%20functions%2C%20we%20discover%20that%20human%20beings%20use%20a%20pretty%20simple%20model%3A%20pay%20attention%20to%20the%20people%20who%20other%20people%20are%20paying%20attention%20to.)
-
-> "As a society, we are obsessed with who has attention, and conspicuously less interested in whether it is deserved. Among many things, this deficit leads to the cultural consequence of “celebrity”. Since having attention is hard to separate from deserving attention, simply having the camera pointing at you implicitly confers upon you some of the power and credentials of authority. This is why we find ourselves in the situation where Hollywood entertainers and professional athletes are empowered to steward good opinion far beyond their actual expertise." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=As%20a%20society,their%20actual%20expertise.)
-
-> "In a broadcast world, merely being “on camera” is to be credentialed. Regardless of your actual capabilities, insight, or character, if you can somehow manage to get on camera you are granted actual audience *and* social authority (Kim Kardashian)." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=In%20a%20broadcast%20world%2C%20merely%20being%20%E2%80%9Con%20camera%E2%80%9D%20is%20to%20be%20credentialed.%20Regardless%20of%20your%20actual%20capabilities%2C%20insight%2C%20or%20character%2C%20if%20you%20can%20somehow%20manage%20to%20get%20on%20camera%20you%20are%20granted%20actual%20audience%20*and*%20social%20authority%20(Kim%20Kardashian).)
 
 > "One primary driver behind the collapse of the Blue Church is the swift replacement of the very mass media it is premised upon with a new symmetric kind of media — the Internet. This new media presents a niche for coherence that is very different from the one that gave rise to the Blue Church. It is a fundamentally different landscape. Like polar bears condemned to extinction by a thawing ice cap, the Blue Church’s days are numbered by the relentless erosion of broadcast mindshare to the new much more symmetrical media of the Internet." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=One%20primary%20driver,of%20the%20Internet.)
 
 > "In the face of this ongoing acceleration, the Blue Church control structure is no longer adequate. The level of complexity of the 21st Century is simply outside of the control capacity that is possible within the form of the Blue Church. Unless we abandon the Church and move to a new approach, our race into the future will be increasingly out of control." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=In%20the%20face,out%20of%20control.)
-
-> "We currently know of no form of control structure that is adequate — even in principle." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=we%20currently%20know%20of%20no%20form%20of%20control%20structure%20that%20is%20adequate%20%E2%80%94%20even%20in%20principle.)
-
-^^ We beg to differ - collective intelligence.
 
 > "We need to switch from trying to manage complex systems with complicated control structures and invent entirely new techniques for intrinsically up regulating the complex systems that make up our natural world. We don’t yet know how to do this." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=We%20need%20to%20switch%20from%20trying%20to%20manage%20complex%20systems%20with%20complicated%20control%20structures%20and%20invent%20entirely%20new%20techniques%20for%20intrinsically%20up%20regulating%20the%20complex%20systems%20that%20make%20up%20our%20natural%20world.%20We%20don%E2%80%99t%20yet%20know%20how%20to%20do%20this.)
 
@@ -5487,25 +5403,8 @@ taken from here: https://medium.com/emergent-culture/reinvent-everything-556860b
 
 > "This transition will prove more significant than the transition from single cell to multi-cellular life two billion years ago. Everything that happens next is dependent on what happens here." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84#:~:text=this%20transition%20will%20prove%20more%20significant%20than%20the%20transition%20from%20single%20cell%20to%20multi%2Dcellular%20life%20two%20billion%20years%20ago.%20Everything%20that%20happens%20next%20is%20dependent%20on%20what%20happens%20here.)
 
-> "All Collective Intelligence is gated by Sensemaking. Right now, our collective sensemaking systems are in complete disarray. We don’t know who or what to trust. We barely even know how." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84#:~:text=All%20Collective%20Intelligence%20is%20gated%20by%20Sensemaking.%20Right%20now%2C%20our%20collective%20sensemaking%20systems%20are%20in%20complete%20disarray.%20We%20don%E2%80%99t%20know%20who%20or%20what%20to%20trust.%20We%20barely%20even%20know%20how.)
-
-> "Over and over again, our survival depended on becoming capable of leaving one niche and adapting to a new one. Ultimately, this problem itself *became* our fundamental niche. Evolution finally found a way to create a species whose niche is niche transition." - [Situational Assessment 2019: AOC Edition, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2019-aoc-edition-b6e31897f35c#:~:text=Over%20and%20over%20again%2C%20our%20survival%20depended%20on%20becoming%20capable%20of%20leaving%20one%20niche%20and%20adapting%20to%20a%20new%20one.%20Ultimately%2C%20this%20problem%20itself%20*became*%20our%20fundamental%20niche.%20Evolution%20finally%20found%20a%20way%20to%20create%20a%20species%20whose%20niche%20is%20niche%20transition.)
 
 
-
-
-
-
-
-Moving from hill climbing to valley crossing
-https://twitter.com/jgreenhall/status/1647949521010171909
-
-> "What is valley crossing? Its when you make a locally irrational choice on the hope that (maybe) there is a global optima somewhere within your range of agency - but beyond your range of perception." - [Jordan Hall](https://twitter.com/jgreenhall/status/1647949530011189251)
-
-> "While valley crossing is irrational from the local perspective of a given organism, from the larger perspective of the genome, having some fraction of organisms be wired to valley cross is a net win." - [Jordan Hall](https://twitter.com/jgreenhall/status/1647949532729167872)
-
-the way to enable the capacity for valley crossing is to boot up global consciousness
-something beyond our cells, the invidivual or the genome with all of its rivalrous competitiveness and hill climbing affinity
 
 
 
@@ -6288,165 +6187,6 @@ https://miro.medium.com/max/1174/1*prtcx2rVQZmX9oZcyrC_gQ.png
 
 
 
-████████████████████████████████████████████████ starkware & zk stuff:
-
-ZK Whiteboard Sessions - Module One: What is a SNARK? by Dan Boneh
-https://www.youtube.com/watch?v=h-94UhJLeck
-
-VERY GOOD!!!
-read onwards from "Type of ZKPs (STARKs and SNARKs) and How They Work"
-https://zeeprime.capital/part-1-Can-We-Kill-Moloch-ZK-Basics-and-Virtual-Machines
-
-very good talk?
-ZKP Workshop 2022: Dan Boneh - Constructing Modern SNARKS
-https://www.youtube.com/watch?v=6psLQv5Hf_I
-
-https://www.notboring.co/p/zero-knowledge
-
-https://appliedzkp.org/
-https://semaphore.appliedzkp.org/
-
-https://www.researchgate.net/publication/221355016_How_to_Explain_Zero-Knowledge_Protocols_to_Your_Children
-
-https://github.com/noir-lang/noir
-
-https://pseudotheos.mirror.xyz/Q9154CY9CFaPzy6AgSlek8-ZBA_kSF_93MTKk-opHRw
-
-GREAT piece/overview about appchains
-https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832
-
-
-https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649
-
-Vitaly Yakovlev - Starknet dApps: How we built DeFi 3.0 with Cairo
-https://www.youtube.com/watch?v=v-TsuOxgOqM
-
-https://twitter.com/sreeramkannan/status/1548377279058743304
-
-https://twitter.com/sreeramkannan/status/1563615609925304320
-
-https://blog.nil.foundation/2022/07/01/starknet-integration.html
-
-https://twitter.com/sreeramkannan/status/1558986641116499968
-
-https://twitter.com/bkiepuszewski/status/1559900576888004609
-
-
-https://twitter.com/jon_charb/status/1555403452485861377
-https://members.delphidigital.io/reports/the-complete-guide-to-rollups
-
-https://twitter.com/jneu_net/status/1563199820742811649
-
-
-https://twitter.com/a16z/status/1555949616406732800
-
-
-https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/
-https://www.youtube.com/watch?v=tg6lKPdR_e4
-https://www.youtube.com/watch?v=cMAI7g3UcoI
-https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
-
-
-OMGOMGOMG use the UTXO model for parallel processing
-https://twitter.com/eshita/status/1546911467936440320
-
-
-
-
-https://twitter.com/jon_charb/status/1555403452485861377
-https://members.delphidigital.io/reports/the-complete-guide-to-rollups
-
-https://vitalik.ca/general/2022/08/04/zkevm.html
-^^ explainer on all the zk EVMs
-
-TODO: ask Sreeram how 2 million dydx tx fit into 10 mb/s of DA:
-https://twitter.com/apolynya/status/1517137629334056960
-
-
-
-https://www.youtube.com/watch?v=VKo00zQT0-E
-https://twitter.com/Scroll_ZKP/status/1554060160674701315
-https://twitter.com/Scroll_Intern_/status/1554643436531499008
-
-https://www.youtube.com/watch?v=4asIQyWwGko
-
-
-https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc
-
-
-https://twitter.com/bkiepuszewski/status/1540793333295075329
-https://twitter.com/gluk64/status/1539953204900790272
-https://twitter.com/gluk64/status/1539953208486936580
-https://twitter.com/gluk64/status/1539953212148654080
-https://twitter.com/gluk64
-- start collecting notes about different solutions - like starkware having vendor lock-in!
-
-https://blog.celestia.org/introducing-sovereign-rollups-to-developers/
-
-- ask starkware about cairo, zkEVM, Solidity & the Eth state merkle patricia trie
-    https://discord.com/channels/793094838509764618/793094838987128844/997172632321544194
-    https://discord.com/channels/793094838509764618/793094838987128844/997349007808536616
-
-
-- read about ZK
-    https://blog.matter-labs.io/zksync-2-0-hello-ethereum-ca48588de179
-    ask pseudotheos about the zkEVM
-        https://twitter.com/messages/743025386720747520-1458046241644892163
-    https://www.youtube.com/watch?v=DT8g3veR17k
-    https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks/
-    https://docs.zksync.io/zkevm/#general
-    https://mirror.xyz/toddz.eth/8HPDEpf7FbirLbXJFeEfI719hN0w-VKITSs1NUgyFFE
-    https://www.alchemy.com/overviews/zkevm
-    https://www.google.com/search?q=zkevm&oq=zkevm&aqs=chrome.0.69i59j0i512l4j69i61l3.859j0j7&sourceid=chrome&ie=UTF-8
-- read the celestia links in blockchain.md
-    https://www.youtube.com/watch?v=6uLlTLE7qrQ&list=PLM-Xjhvin-uWN9ov74srLZIuJsbRSc2ou
-    https://www.youtube.com/watch?v=4L30t_6JBAg
-    https://www.youtube.com/watch?v=TyJp4pqB6u4
-    https://blog.matter-labs.io/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955
-    https://blog.matter-labs.io/zkrollup-vs-validium-starkex-5614e38bc263
-- the hard forking question
-    - also understand what enshrining means
-        https://twitter.com/apolynya/status/1507586019171835905
-        https://twitter.com/apolynya/status/1511623759786307586
-        https://forums.minaprotocol.com/t/enshrined-rollups-in-core-protocol/5676
-        https://www.google.com/search?q=what+is+an+enshrined+rollup&oq=what+is+an+enshrined+rollup&aqs=chrome..69i57j33i160l4.4439j0j7&sourceid=chrome&ie=UTF-8
-    https://www.reddit.com/r/ethereum/comments/vrx9xe/comment/if7auu7/
-
-
-https://twitter.com/fuellabs_/status/1480674488077275136
-
-
-
-
-████████████████████████████████████████████████ on the Ethereum state trie
-
-BIG PROBLEM: eth state limits in terms of tps & slowing throughput?
-Péter Szilágyi - Ethereum in numbers: Where TPS meets physics
-https://www.youtube.com/watch?v=TdsaVoJiy3g
-
-https://github.com/cosmos/cosmos-sdk/issues/6071
-
-https://www.youtube.com/results?search_query=ethereum+state+trie+growth
-
-https://ethereum.org/en/developers/tutorials/merkle-proofs-for-offline-data-integrity/
-
-https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/
-
-https://ethereum-magicians.org/t/protocol-changes-to-bound-witness-size/3885
-
-https://mirprotocol.org/blog/Reducing-state-size-on-Mir
-
-https://www.google.com/search?q=cosmos+state+account+merkle+proof&sxsrf=ALiCzsYYRr3PldZfQdWeqKJqNDjV6ger5A%3A1657725685322&ei=9eLOYsyNE-yGxc8P4ciC0Ao&ved=0ahUKEwiM3O60lfb4AhVsQ_EDHWGkAKoQ4dUDCA4&uact=5&oq=cosmos+state+account+merkle+proof&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQ4wFYpAhg_QloAXAAeACAAcUBiAGmCZIBAzAuOJgBAKABAcABAQ&sclient=gws-wiz
-
-https://medium.com/@eiki1212/ethereum-state-trie-architecture-explained-a30237009d4e
-
-
-"Fifth, Ethereum storage layout carries a huge overhead. The Ethereum storage layout highly relies on Keccak and a huge MPT[4], both of them are not zk-friendly and have a huge proving overhead. For example, Keccak hash is 1000x larger than Poseidon hash in circuit. However, if you replace Keccak with another hash, it will cause some compatibility problems for the existing Ethereum infrastructure."
-https://scroll.io/blog/zkEVM
-
-
-Accounts are integers and the state tree should reflect that - doesnt need to be a trie based on crypto addresses
-
 ██████ unsorted
 
 TODO: what about small entities like "year progress" - should they get a unique ID on-chain? Or some other light-weight account type should exist? maybe an "owned" off-chain index that's a child of the creator?
@@ -6555,9 +6295,6 @@ Public actions should be regarded as public contributions
 
 
 
-TODO: try this service to read the text out loud?
-https://beta.elevenlabs.io/
-
 
 
 can produce ZKPs for off-chain counts & aggregates and submit those to transactional settlement layers as smart contract inputs
@@ -6588,16 +6325,10 @@ being able to vote/react multiple times on a URI - with different scopes. Suppos
 context could be application/tag/campaign/post/etc.
 
 
-move from @handle to full names in citations in the book
 
 So many ideas that can be implemented as a hackaton at any of the big social media companies are never even attempted - because it doesn’t serve their bottom line. Thats why the host-centric model must go
 
 Logo/Cover photo idea: headjack which extends as a vortex/fractal of interconnectedness
-
-== double addressing?
-headjack://app_id/nonce/user_id/content_id
-headjack2://user_id:concept_id
-
 
 when we give a universal address to any item extensibility becomes trivial. Suppose you have a list of movies and you want to edit it in a way that's not allowed by the UI - what if you could write a script to fetch it, process it and re-upload the new version?
 
@@ -6672,12 +6403,7 @@ A bicycle for the (hive)mind
 Social media 1.0: poop emoji
 Social media 2.0: a global self-organizing brain aka AGI
 
-Social media 2.0
-The internet 2.0 the dataverse
-
 bringing logic programming to social networking
-
-The matrix vs the superapp - you can fetch & analyze anything and enhance yourself
 
 putting society back in the drivers seat
 
@@ -6686,98 +6412,6 @@ public data is our commons and it should be programmatically accessible by anyon
 strength is in the numbers
 
 "fork anything"
-
-
-██████ The 10 themes of the Global Brain:
-
-- 1) EPISTEMICS - humility, error correction & Bayesian inference
-- 2) INFORMATION - transparency, openness, provenance & integration
-- 3) STRUCTURE - self-organization, emergence & subsidiarity
-- 4) ALIGNMENT - incentives, reputation & consequence capture
-- 5) DECISIONS - relevance realization & collective intelligence
-- 6) ATTENTION - availability cascades & The Medium is the Message
-- 7) SYSTEMICS - complexity, feedback, causality & adaptation
-- 8) MEANING - shared intentionality, service & beating entropy
-- 9) DIRECTION - greater scales of cooperation & evolvability
-- 10) TRANSCENDENCE - Know Thyself & conscious evolution
-
-We don’t have just shared intentionality - we also have a shared fate.
-
-inference?
-
-What if openness is the theme and not ownership?
-Information !!!
-Integration!!!
-
-Minimalism
-
-Enlightenment
-
-Aggregation
-
-Fairness
-
-Decisions => navigation
-
-coherence
-Coherent pluralism
-
-Meta-stability
-
-Hierarchy
-
-deduplication
-
-persuasion
-
-compassion
-
-reflexivity
-Causality
-
-steering
-cybernetics
-
-belonging
-connectedness
-
-sharing
-
-control
-
-communication? information?
-
-evolutionary psychology
-
-(eco)systems
-
-mission
-
-goal
-
-ACCESS? ownership/property rights
-
-
-██████ ideas about page & book structure (& titles!)
-
-
-add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
-
-a data-driven society
-
-"the role of LLMs in interfacing (with data)"
-
-"Curators & labelers"
-
-"self-regulation"
-
-Amending google’s failure (to organize the worlds information)
-
-Headjack in 100 words:
-Stranica s kolaj ot dumi i frazi koito opisvat proekta - metaverse, cybernetics, global brain, collective intelligence
-
-
-
 
 
 

@@ -206,6 +206,12 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 > "We humans distinguish ourselves from other living agents by our ability to not only react to the environment but also establish goals and then set out to accomplish them. This might seem to be a challenge for a theory which suggests that all behavior is in the service of entropy minimization, but the FEP accounts for this quite elegantly as well. In this view, when we set a goal for ourselves, we are making a special kind of prediction about the world. This prediction is one that we know goes against the current sensory evidence, thus increasing free energy. Instead of updating our beliefs to account for the world (and in essence give up on the goal), what we do instead is to set out to act in the world in order to ensure that the sensory evidence corresponds to our prediction, and minimize the free energy in the process... We make a prediction about how we would like the world to be, and then act in order to make that prediction come true." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Multiperspectival viewing
+██████████████████████████████████████████████████████████████████
+
+> "A conspicuous feature of the journalism of the future will be a deep lack of authority. There will be no notion of looking for The One Right Answer from an Unimpeachable Authority." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=A%20conspicuous%20feature%20of%20the%20journalism%20of%20the%20future%20will%20be%20a%20deep%20lack%20of%20authority.%20There%20will%20be%20no%20notion%20of%20looking%20for%20The%20One%20Right%20Answer%20from%20an%20Unimpeachable%20Authority.)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Towards a language of aggregatable expressions
 ██████████████████████████████████████████████████████████████████
 
@@ -573,6 +579,17 @@ https://followmyvote.com/liquid-democracy/
 
 Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System
 https://arxiv.org/pdf/1911.08774.pdf
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Evaluation, curation & labelling
+██████████████████████████████████████████████████████████████████
+
+> "“What is the new literacy of the 21st Century?” My answer is that the new literacy is “evaluation”." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=%E2%80%9CWhat%20is%20the%20new%20literacy%20of%20the%2021st%20Century%3F%E2%80%9D%20My%20answer%20is%20that%20is%20that%20the%20new%20literacy%20is%20%E2%80%9Cevaluation%E2%80%9D.)
+
+> "It is my proposition that the ability to provide honest and discerning evaluation of your experiences is going to become a primary economic contribution in the 21st Century." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=It%20is%20my%20proposition%20that%20the%20ability%20to%20provide%20honest%20and%20discerning%20evaluation%20of%20your%20experiences%20is%20going%20to%20become%20a%20primary%20economic%20contribution%20in%20the%2021st%20Century.)
+
+
+> "If we can activate individuals to surface and share the products that they think are special (worthy, important) and/or would “swear by” — depending on their idiosyncratic values — and to invest some time and energy in crafting rich media expressions of these products, we can do to “Leviathan” what Wikipedia did to Britannica." - [A Theoretical Case for “Swell”, by Jordan Hall](https://medium.com/swell-considerations/a-theoretical-case-for-swell-112cbfca4cf4#:~:text=if%20we%20can,did%20to%20Britannica.)
 
 ██████████████████████████████████████████████████████████████████
 # immune system & negative feedback

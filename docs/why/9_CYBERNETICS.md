@@ -7,6 +7,8 @@
 # SECTION: Cybernetics
 ██████████████████████████████████████████████████████████████████
 
+> "Cybernetics is the art of steering." - [Paul Pangaro](https://twitter.com/paulpangaro)
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -31,6 +33,8 @@
 ██████████████████████████████████████████████████████████████████
 
 > "Intelligence is based on how efficient a species became at doing the things they need to survive." - [Charles Darwin](https://www.goodreads.com/quotes/337972-intelligence-is-based-on-how-efficient-a-species-became-at)
+
+According to cybernetics, intelligence sits on top of feedback loops
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Relevance realization
@@ -126,6 +130,10 @@ the organisms that persist are the models that are best able to predict the envi
 ██████████████████████████████████████████████████████████████████
 # SECTION: Agency
 ██████████████████████████████████████████████████████████████████
+
+> "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624)
+
+> "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
 
 > "When something is both highly integrated and highly differentiated it can do many different things without falling apart. So complexification enhances agency - it gives you your emergent abilities." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=1250)
 

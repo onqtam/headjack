@@ -36,6 +36,7 @@ https://twitter.com/lexman_ai/status/1615861599197171713
 
 we will share the digital space with AIs and a web of trust on top of PKI will be incredibly important
 
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Language & its limits
 ██████████████████████████████████████████████████████████████████
