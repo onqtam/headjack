@@ -195,6 +195,14 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "The troubles of modern life come from being divorced from nature." - [Isaac Asimov](https://www.goodreads.com/quotes/7659654-the-troubles-of-modern-life-come-from-being-divorced-from)
 
+> "Our main problem is a lack of understanding of what it means to be human and that we are not separate from nature." - [Jacque Fresco](https://www.goodreads.com/quotes/3179912-our-main-problem-is-a-lack-of-understanding-of-what)
+
+> "The only limitations on the future of the humankind are those we impose upon ourselves." - [Jacque Fresco](https://www.goodreads.com/quotes/10091102-the-only-limitations-on-the-future-of-the-humankind-are)
+
+> "If we are genuinely concerned about the environment and the fellow human beings, and want to end territorial disputes, war, crime, poverty, hunger, and the other problems that confront us today, the intelligent use of science and technology are the tools with which to achieve a new direction – one that will serve all people, and not just a select few." - [Jacque Fresco](https://www.azquotes.com/quote/728509)
+
+> "The only hope for developing a new civilization is to accept responsibility for improving our lives through knowledge, understanding, and a deeper comprehension of humanity’s relationship to natural processes of evolution. Our future is determined by effort we put forth to achieve this transition." - [Jacque Fresco](https://www.azquotes.com/quote/728559)
+
 > "Can someone take the transcript here, add citations, and fact check it — then post to twitter as a reply? the actual power of twitter is replying with facts — not being hysterical and tweeting that Tucker is a Russian Asset" - [Jason Calacanis](https://twitter.com/Jason/status/1666496960323530752)
 
 > "So the UN lays out the Sustainable Development Goals. 17 priorities, because hey, that’s a round number right?

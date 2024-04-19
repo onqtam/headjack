@@ -380,6 +380,10 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 
 > "We have more than enough to take care of everybody on earth at this time. If we have a shortage of anything, it's very easy for science to make a substitute material. There's no shortage of anything except brains in Washington." - [Jacque Fresco](https://www.azquotes.com/quote/728486)
 
+> "The question is not whether there is intelligent life out there, the question is, whether there is intelligent life down here. As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/866263)
+
+> "We talk about civilization as though it's a static state. There are no civilized people yet, it's a process that's constantly going on... As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/728456)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Values & virtues
 ██████████████████████████████████████████████████████████████████
@@ -403,6 +407,7 @@ Logically derived for forming a coherent next level system
 
 > "War, poverty, corruption, hunger, misery, human suffering will not change in a monetary system. That is, there will be very little significant change. It’s going to take the redesign of our culture and values." - [Jacque Fresco](https://www.azquotes.com/quote/728457)
 
+> "Everyone talking about product-market fit. Nobody talking about user-values fit. And we’re supposed to solve AI Alignment?" - [Peter Wang](https://twitter.com/pwang/status/1743377594366496788)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
@@ -413,6 +418,12 @@ Eudaemonic economy
 > "Economics can be seen as the interface layer between our values and the way we build the world." - [Daniel Schmachtenberger](https://thecitesite.com/authors/daniel-schmachtenberger/#:~:text=Economics%20can%20be%20seen%20as%20the%20interface%20layer%20between%20our%20values%20and%20the%20way%20we%20build%20the%20world.)
 
 > "People get confused sometimes they think an economy is money. Money is a database for exchange of goods & services. Money doesn't have power in & of itself. The actual economy is goods & services." - [Elon Musk](https://twitter.com/cb_doge/status/1550819912725123072)
+
+> "Companies and corporate structures are 17th-century constructs based on pre-industrial models of allocation of scarcity in the face of risk. The future of humanity is one of physical abundance for our biological forms, but UNLIMITED UPSIDE for our cognitive and spiritual essences. I refuse to submit my & my childrens' future to the lazy inertia of existing economic paradigms.
+>
+> We failed to secure open innovation in software, and we failed to lock the Web open. Instead we produced trillion dollar companies that held our data captive to create surveillance and attention economies, rather than empowering end users and fostering the development of end-user creativity and innovation.
+>
+> Two generations of investors are now completely hooked on this model of extractive network effects. SO MUCH of this growth was fueled by the gift economics of nerd communities producing open-source software and cohering de facto OPEN STANDARDS which neither governments nor BigCo nor academia could produce. These Schelling points that balanced risk, utility, and user needs are brilliant examples of alternative economic models for an abundant, regenerative future." - [Peter Wang](https://twitter.com/pwang/status/1765073129431588994)
 
 complexity_econ_1.png
 complexity_econ_2.png
@@ -1100,9 +1111,17 @@ Few people could predict uber and airbnb - most were extremely sceptical. The sa
 # SECTION: The best that money can't buy
 ██████████████████████████████████████████████████████████████████
 
+“The best that money can’t buy” - book by Jacque Fresco (RIP) but reusing it - we need to design status games such that you can’t buy your way in
+
 property rights
 
 > "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: the world game
+██████████████████████████████████████████████████████████████████
+
+as the name by bucky fuller
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other

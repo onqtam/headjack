@@ -226,6 +226,8 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 # SECTION: Towards a language of aggregatable expressions
 ██████████████████████████████████████████████████████████████████
 
+We need to define the language of the internet so that we may aggregate and integrate all events and signals
+
 > "The limits of my language means the limits of my world." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/12577-the-limits-of-my-language-means-the-limits-of-my)
 
 > "Negative feedback dendrites are missing (aka. dislike button). Neural networks do not work without them." - [Toni Engelhardt](https://twitter.com/toniengelhardt/status/1682498181051957248)
@@ -893,6 +895,15 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 # SECTION: Global Brain
 ██████████████████████████████████████████████████████████████████
 
+How do we develop a global brain prefrontal cortex - to plan, model the future, delay gratification, and develop a capacity for impulse control?
+
+Is it like something to be the GB? Does it have phenomenology?
+
+Consciousness is being the character in your own movie - how do we let anyone step in the shoes of the GB?
+
+Consciousness as the eye of sauron
+Properly selected & governed identity aggregates will be way more competent than individual identities - we’ll no longer vote for individuals
+
 > "On the one hand we have a single brain, formed of nervous nuclei, and on the other a Brain of brains. It is true that between these two organic complexes a major difference exists. Whereas in the case of the individual brain thought emerges from a system of nonthinking nervous fibers, in the case of the collective brain each separate unit is in itself an autonomous center of reflection. If the comparison is to be a just one we must, at every point of resemblance, take this difference into account." - [Pierre Teilhard de Chardin](https://humanenergy.io/francis-heylighen/#:~:text=On%20the%20one,difference%20into%20account.)
 
 > "If twitter gets its shit together, millions of people can form coherent ideas and will be much stronger than any government." - [Joscha Bach](https://twitter.com/Plinz/status/1709290106149023819)
@@ -917,6 +928,11 @@ https://en.wikipedia.org/wiki/Global_brain
 TODO: embed this!!!
 The Global Brain - Peter Russell
 https://www.youtube.com/watch?v=B1sr9x263LM
+
+
+EMBED THIS 2 minute clip:
+Bobby Azarian Discusses the Emergence of a Global Consciousness
+https://www.youtube.com/watch?v=SBoW9as_JCM
 
 
 ██████████████████████████████████████████████████████████████████
