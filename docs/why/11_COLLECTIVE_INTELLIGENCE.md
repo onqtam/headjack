@@ -308,8 +308,6 @@ the current host-centric world where platforms own our data and is siloed is pre
 
 > "Open source software has mechanisms to separate small pieces of the code for other developers to build them, and then mechanisms to merge that code back with the rest of it. Put in another way, open-source software development is an information technology that is more efficient than centralized development. It’s achieved that by finding good mechanisms to decentralize the development." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Open%20source%20software,decentralize%20the%20development.)
 
-
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Collective intelligence & sensemaking
 ██████████████████████████████████████████████████████████████████
