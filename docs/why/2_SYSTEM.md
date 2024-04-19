@@ -121,6 +121,13 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other." - [Oscar Ameringer](https://www.goodreads.com/quotes/415646-politics-is-the-gentle-art-of-getting-votes-from-the)
 
+> "Democracy is a con game. It’s a word invented to placate people to make them accept a given institution. All institutions sing, ‘We are free.’ The minute you hear ‘freedom’ and ‘democracy’, watch out… because in a truly free nation, no one has to tell you you’re free." - [Jacque Fresco](https://www.goodreads.com/quotes/725613-democracy-is-a-con-game-it-s-a-word-invented-to)
+
+> "Truly free people do not need to be told they are free." - [Jacque Fresco](https://www.azquotes.com/quote/879036)
+
+> "The government means industry, if you know what I mean." - [Jacque Fresco](https://www.azquotes.com/quote/728463)
+
+> "We live in a world where our social system is old, our language is old, the way we acquire goods and services is outdated, our cities are detrimental to our health, chaotic and a tremendous waste of resource, and most of all our politics and values no longer serve us." - [Jacque Fresco](https://www.azquotes.com/quote/728468)
 
 > "I smoke. If this bothers anyone, I suggest you look around at the world in which we live and shut your fuckin' mouth." - [Bill Hicks](https://www.goodreads.com/quotes/501200-i-smoke-if-this-bothers-anyone-i-suggest-you-look)
 
@@ -631,3 +638,6 @@ The current economy is the dreaded paperclip maximizer
 quote goes here: power of gods but not the wisdom
 
 > "Every time that the foundations started to shake, we’ve consistently chosen “more of the same.” The result is that we’ve been living in an increasingly delusional systemic environment." - [Situational Assessment 2015, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2015-91222a66c834#:~:text=every%20time%20that%20the%20foundations%20started%20to%20shake%2C%20we%E2%80%99ve%20consistently%20chosen%20%E2%80%9Cmore%20of%20the%20same.%E2%80%9D%20The%20result%20is%20that%20we%E2%80%99ve%20been%20living%20in%20an%20increasingly%20delusional%20systemic%20environment.)
+
+> "Either we learn to live together in full cooperation or we will cause our own extinction." - [Jacque Fresco](https://www.goodreads.com/quotes/7322215-either-we-learn-to-live-together-in-full-cooperation-or)
+

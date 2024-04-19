@@ -100,6 +100,7 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "But until a theoretical explanation -based on human choice – for self-organized and self-governed enterprises is fully developed and accepted, major policy decisions will continue to be undertaken with a presumption that individuals cannot organize themselves and always need to be organized by external authorities." - [Elinor Ostrom](https://www.goodreads.com/quotes/3238607-but-until-a-theoretical-explanation--based-on-human-choice)
 
+> "Only when science and technology are used with human concern in a world in which all of the earth's resources are held as the common heritage of all of the earth's people can we truly say that there is intelligent life on Earth." - [Jacque Fresco](https://www.azquotes.com/quote/728558)
 
 
 ██████████████████████████████████████████████████████████████████
