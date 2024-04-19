@@ -335,6 +335,8 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 
 > "Love is the one thing we're capable of perceiving that transcends time and space." - [Brand, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2213908&ref_=ext_shr_lnk)
 
+> "No one can be perfectly free till all are free; no one can be perfectly moral till all are moral; no one can be perfectly happy till all are happy." - [Herbert Spencer](https://www.azquotes.com/quote/279406)
+
 > "Happiness only real when shared." - [Christopher McCandless AKA Alexander Supertramp](https://www.goodreads.com/quotes/184807-happiness-only-real-when-shared)
 
 > "Compassion is the basis of morality." - [Arthur Schopenhauer](https://www.goodreads.com/quotes/2195-compassion-is-the-basis-of-morality)
@@ -724,6 +726,7 @@ https://en.wikipedia.org/wiki/God-shaped_hole
 
 > "People say we are playing God. My answer is: If we don't play God, who will?" - [James D. Watson](https://www.goodreads.com/quotes/969873-people-say-we-are-playing-god-my-answer-is-if)
 
+> "There is no point in fiddling about. Religion is both [sine qua non](https://en.wikipedia.org/wiki/Sine_qua_non) and foundational. Failure to understand this is simply a result of not fully grasping the larger context.  I myself had a deep misunderstanding here for decades." - [Jordan Hall](https://twitter.com/jgreenhall/status/1743671898213408953)
 
 > "A religion, old or new, that stressed the magnificence of the Universe as revealed by modern science might be able to draw forth reserves of reverence and awe hardly tapped by the conventional faiths. Sooner or later such a religion will emerge." - [Carl Sagan](https://bigthink.com/thinking/why-carl-sagan-believed-that-science-is-a-source-of-spirituality/#:~:text=A%20religion%2C%20old%20or%20new%2C%20that%20stressed%20the%20magnificence%20of%20the%20Universe%20as%20revealed%20by%20modern%20science%20might%20be%20able%20to%20draw%20forth%20reserves%20of%20reverence%20and%20awe%20hardly%20tapped%20by%20the%20conventional%20faiths.%20Sooner%20or%20later%20such%20a%20religion%20will%20emerge.)
 

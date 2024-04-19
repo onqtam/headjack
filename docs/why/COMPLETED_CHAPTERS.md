@@ -28,6 +28,8 @@ https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
 > "There are no solutions. There are only trade-offs." - [Thomas Sowell](https://www.goodreads.com/quotes/1411380-there-are-no-solutions-there-are-only-trade-offs)
 
+we should be able to generate media from the debate map
+
 > "It shouldn’t be tech companies per se getting into fact checking. It should be open source technology. Free, universally available code and data for epistemology. Take a piece of text, parse it, extract assertions, compare to explicitly specified knowledge graphs and oracles." - [Balaji Srinivasan](https://twitter.com/balajis/status/1266180931435417600)
 
 > "True ignorance is not the absence of knowledge, but the refusal to acquire it." - [Karl Popper](https://www.azquotes.com/quote/492103)

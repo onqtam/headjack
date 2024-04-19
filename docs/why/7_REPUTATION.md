@@ -1,4 +1,5 @@
 
+- compartmentalization
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
@@ -223,6 +224,31 @@ booting up the reputation/accountability/status market
 > "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
 
 negative reputation and scammers
+
+> "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
+
+> "The ultimate result of shielding men from the effects of folly is to fill the world with fools." - [Herbert Spencer](https://www.goodreads.com/quotes/79987-the-ultimate-result-of-shielding-men-from-the-effects-of)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Calculemus! Computable Context
+██████████████████████████████████████████████████████████████████
+
+== calculemus!
+"computable context" as a chapter - not just reputation!
+
+https://twitter.com/tszzl/status/1680749872469667840
+
+!!! calculemus ("may we calculate, may we compute")
+https://en.wiktionary.org/wiki/calculemus
+
+> "The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate[calculemus], without further ado, to see who is right." - [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) in a [letter to Ph. J. Spener, July 1687](https://medium.com/dave-amiana/the-language-of-calculus-part-1-e646876cf078#:~:text=The%20only%20way%20to%20rectify%20our%20reasonings%20is%20to%20make%20them%20as%20tangible%20as%20those%20of%20the%20Mathematicians%20so%20that%20we%20can%20find%20our%20error%20at%20a%20glance%2C%20and%20when%20there%20are%20disputes%20among%20persons%2C%20we%20can%20simply%20say%3A%20Let%20us%20calculate%5Bcalculemus%5D%2C%20without%20further%20ado%2C%20to%20see%20who%20is%20right.)
+
+> "By reformulating arguments and ideas in terms of a characteristica universalis, or universal language, all could be rendered computable." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20reformulating%20arguments%20and%20ideas%20in%20terms%20of%20a%20characteristica%20universalis%2C%20or%20universal%20language%2C%20all%20could%20be%20rendered%20computable.) by Jonathan Gray
+
+> "By means of new artificial languages and methods, our ordinary and imperfect ways of reasoning with words and ideas would give way to a formal, symbolic, rule-governed science — conceived of as a computational process. Disputes, conflict, and grievances arising from ill-formed opinions, emotional hunches, biases, prejudices, and misunderstandings would give way to consensus, peace, and progress." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20means%20of,peace%2C%20and%20progress.) by Jonathan Gray
+
+> "It is obvious that if we could find characters or signs suited for expressing all our thoughts as clearly and as exactly as arithmetic expresses numbers or geometry expresses lines, we could do in all matters insofar as they are subject to reasoning all that we can do in arithmetic and geometry. For all investigations which depend on reasoning would be carried out by transposing these characters and by a species of calculus." - [Gottfried Wilhelm Leibniz](http://www.artandpopularculture.com/Gottfried_Leibniz#:~:text=It%20is%20obvious,species%20of%20calculus.)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status & Prestige

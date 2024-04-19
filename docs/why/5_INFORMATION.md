@@ -57,6 +57,13 @@ When all you have is language, it becomes the hammer and everything else a nail.
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information." - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Integration
+██████████████████████████████████████████████████████████████████
+
+
+There is no integration without complete deduplication of data and identities
+
+██████████████████████████████████████████████████████████████████
 <!-- # The need for structured data -->
 # SECTION: Structured data & machine readability
 <!-- # Raising the signal/noise ratio -->
