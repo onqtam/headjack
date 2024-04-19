@@ -229,6 +229,9 @@ negative reputation and scammers
 
 > "The ultimate result of shielding men from the effects of folly is to fill the world with fools." - [Herbert Spencer](https://www.goodreads.com/quotes/79987-the-ultimate-result-of-shielding-men-from-the-effects-of)
 
+> "Imagine a decentralized, participatory system with objectors, supporters, checkers, and bettors–all of whom are evaluating claims made by someone. Claimants are usually targets of the sensemaking system, so while their claims are the most visible, they don’t have to be active participants in the truth-tracking process. Everyone else has to stake something, enough that it stings to lose." - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=Imagine%20a%20decentralized,stings%20to%20lose.)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Calculemus! Computable Context
 ██████████████████████████████████████████████████████████████████

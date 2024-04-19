@@ -85,4 +85,6 @@ The fundamental issue of attention
 if you can insert a topic from the top-down that grabs 5-10% of the attention of people - you've reduced the attention over everything else by 5-10% as well - which you might want. Attention is the scarcest of resources
 "incoming war? Cue the UFO stuff"
 
+> "The community can decide which claims should get more eyeballs and which should not. For example, “Fauci lied to Congress” might be more important than “Kim Kardashian was wearing Chanel yesterday.”" - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=the%20community%20can%20decide%20which%20claims%20should%20get%20more%20eyeballs%20and%20which%20should%20not.%20For%20example%2C%20%E2%80%9CFauci%20lied%20to%20Congress%E2%80%9D%20might%20be%20more%20important%20than%20%E2%80%9CKim%20Kardashian%20was%20wearing%20Chanel%20yesterday.%E2%80%9D)
+
 

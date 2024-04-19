@@ -75,6 +75,17 @@
 
 > "Never argue with a man who buys ink by the barrel." - [Roger Branigin](https://quoteinvestigator.com/2018/04/24/ink/)
 
+> "The main thrust of the current war is that making any sense at all is getting harder and harder." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=the%20main%20thrust%20of%20the%20current%20war%20is%20that%20making%20any%20sense%20at%20all%20is%20getting%20harder%20and%20harder.)
+
+> "Are you sure you know the current limits of the war on sensemaking? Of sock puppets and cognitive hacking and weaponized memetics?" - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=Are%20you%20sure%20you%20know%20the%20current%20limits%20of%20the%20war%20on%20sensemaking%3F%20Of%20sock%20puppets%20and%20cognitive%20hacking%20and%20weaponized%20memetics%3F)
+
+> "This state of affairs — this increasingly generalized condition of complete disorientation — is untenable." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=this%20state%20of%20affairs%20%E2%80%94%20this%20increasingly%20generalized%20condition%20of%20complete%20disorientation%20%E2%80%94%20is%20untenable.)
+
+> "Wars are won by choosing the battlefield. And the battlefield of politics is media." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Wars%20are%20won%20by%20choosing%20the%20battlefield.%20And%20the%20battlefield%20of%20politics%20is%20media.)
+
+> "I don’t care if we are talking about the New York Post or the New York Times. If you are using 20th Century media to understand or evaluate what is going on in your political world, you are a part of the problem." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=I%20don%E2%80%99t%20care%20if%20we%20are%20talking%20about%20the%20New%20York%20Post%20or%20the%20New%20York%20Times.%20If%20you%20are%20using%2020th%20Century%20media%20to%20understand%20or%20evaluate%20what%20is%20going%20on%20in%20your%20political%20world%2C%20you%20are%20a%20part%20of%20the%20problem.)
+
+> "Don’t underestimate the subtle forces of nearly seven decades of adaptive evolution that have shaped the current political machines to the old media. TV for example, is all about surface, personality and persona. It is all about sensory overwhelm and getting behind and around our sensemaking defenses. This is why it leans in the direction of talking heads, soundbites and spin and why the evolution of American politics since Nixon has been irrevocably in the direction of reality TV." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Don%E2%80%99t%20underestimate%20the,of%20reality%20TV.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer
@@ -92,6 +103,8 @@ The opposite of divide and conquer is integration
 
 Who benefits the most from fractured & incoherent epistemic commons and uncoordinated & uneducated masses?
 
+> "As our ability to make shared sense evaporates and as meaning and purpose are fragmented into so many shards, it becomes increasingly difficult to make good choices. In fact, it becomes increasingly difficult to even want to make good choices." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=As%20our%20ability%20to%20make%20shared%20sense%20evaporates%20and%20as%20meaning%20and%20purpose%20are%20fragmented%20into%20so%20many%20shards%2C%20it%20becomes%20increasingly%20difficult%20to%20make%20good%20choices.%20In%20fact%2C%20it%20becomes%20increasingly%20difficult%20to%20even%20want%20to%20make%20good%20choices.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Availability cascades
 ██████████████████████████████████████████████████████████████████
@@ -99,6 +112,9 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 > "The great algorithm to remember in dealing with this tendency is simple: an idea or a fact is not worth more merely because it’s easily available to you." - [Charlie Munger](https://www.goodreads.com/quotes/7264450-the-great-algorithm-to-remember-in-dealing-with-this-tendency)
 
 
+> "While the application of supernormal stimuli to our eating choices or mating choices is certainly destructive, the use of supernormal stimuli in social media is particularly risky. This is because supernormal stimuli in social media directly undermine our capacity for individual and collective intelligence." - [What is the problem with social media? by Jordan Hall](https://medium.com/deep-code/what-is-the-problem-with-social-media-5ec873f7a738#:~:text=while%20the%20application,and%20collective%20intelligence.)
+
+> "When it comes to grabbing and holding our attention or to analyzing and profiling our data, the algorithms of social media stand in relationship to our human sensibilities as Alpha Go Zero to an average Go player. They are like gods. And gods that, for now at least, don’t have our best interests in mind." - [What is the problem with social media? by Jordan Hall](https://medium.com/deep-code/what-is-the-problem-with-social-media-5ec873f7a738#:~:text=When%20it%20comes,interests%20in%20mind.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Power of language
