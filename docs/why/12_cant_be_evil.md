@@ -36,6 +36,8 @@ https://twitter.com/SimpleLogin
 
 can't be evil - restore account from point
 
+> "Cryptography is truly special in the 21st century because cryptography is one of the very few fields where adversarial conflict continues to heavily favor the defender." - [Vitalik Buterin](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#:~:text=Cryptography%20is%20truly%20special%20in%20the%2021st%20century%20because%20cryptography%20is%20one%20of%20the%20very%20few%20fields%20where%20adversarial%20conflict%20continues%20to%20heavily%20favor%20the%20defender.)
+
 > "The key insight is that “government” is becoming synonymous with digital government. In any US-establishment-controlled territory your Google account will soon be frozen for crossing the US establishment. In any CCP-controlled territory your WeChat account can be frozen for crossing the CCP. But in any crypto-anarchic territory there may not be much in the way of functional digital services at all. So if one wants modernity constrained by cryptography, the concept of the “social smart contract” is one way to achieve consensual, limited government – to limit what a government can do by tightly limiting its access to your digital identity and resources." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=the%20key%20insight,identity%20and%20resources)
 
 freedom of speech vs freedom of reach
