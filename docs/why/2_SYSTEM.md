@@ -303,6 +303,20 @@ https://www.imdb.com/title/tt11286314/
 We can literally find ourselves in the situation of the movie dont look up
 “Don't look up” is a diagnosis
 
+> "Today, society has decided that it’s not in the “explore” phase anymore: Whether it’s drone delivery, flying cars, energy too cheap to meter, diseases… We don’t want anybody to run any risk. We don’t want to learn. What we want is to take advantage of the learnings of billions of people before us, but we don’t feel comfortable doing the same for the billions coming after us.
+>
+> We approved this without realizing what we were doing. Without realizing that every year we live today, we’re safer, but it comes at the cost of our own future and that of our children.
+>
+> We left the explore mode sometime in the 20th century. We’re hindering our progress with needless rules. We should get back to it.
+>
+> And yet many of the regulations we’ve enacted in the past are great. Environmental protection is important! Safety is important! How do we know which rules to eliminate?
+>
+> The first set of rules to eliminate is that we should let people take the risks that only apply to them." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=Today%2C%20society%20has,apply%20to%20them.)
+
+> "When [we spend more](https://en.wikipedia.org/wiki/Government_spending_in_the_United_States) on people’s retirement than their education, we’re not leaving the world better than we found it. We’re deciding as a society that the enjoyment of our elder years matters more than preparing our children’s future." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=When%20we%20spend%20more%20on%20people%E2%80%99s%20retirement%20than%20their%20education%2C%20we%E2%80%99re%20not%20leaving%20the%20world%20better%20than%20we%20found%20it.%20We%E2%80%99re%20deciding%20as%20a%20society%20that%20the%20enjoyment%20of%20our%20elder%20years%20matters%20more%20than%20preparing%20our%20children%E2%80%99s%20future.)
+
+> "As a society, we should stop being crippled by fear of what we can see, and start paying attention to the value of what we can’t. Progress takes failures. If we’re not OK with failures, we don’t make progress. We’ve moved into exploit mode without realizing it. It’s time to get back to balance explore and exploit modes. It’s time to take more risks." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=As%20a%20society%2C%20we,to%20take%20more%20risks.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Money
 ██████████████████████████████████████████████████████████████████

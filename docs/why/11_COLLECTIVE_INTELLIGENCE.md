@@ -10,8 +10,6 @@ alternative titles:
 > "The body cannot live without the mind." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158662-the-body-cannot-live-without-the-mind-morpheus-the-matrix)
 
 
-> "It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness." - [James Gleick](https://www.goodreads.com/quotes/393099-it-is-not-the-amount-of-knowledge-that-makes-a)
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Biases & Evolutionary Psychology
@@ -236,6 +234,8 @@ We need to define the language of the internet so that we may aggregate and inte
 > "Negative feedback dendrites are missing (aka. dislike button). Neural networks do not work without them." - [Toni Engelhardt](https://twitter.com/toniengelhardt/status/1682498181051957248)
 
 > "You don’t see something until you have the right metaphor to let you perceive it." - [James Gleick](https://www.goodreads.com/quotes/6490400-you-don-t-see-something-until-you-have-the-right-metaphor)
+
+> "If we don’t succeed at changing the nature of online conversations — and let’s not forget that communications have literally transformed into threaded comment sections and memes — then all we’ll have left as tools include censorship, deplatforming, and perhaps even harsher tyrannical solutions for control over the public mind, media, and mouth. Some have told me this is inevitable and warranted, but I’d frankly love to deconstruct their reasoning on that one." - [The Society Library](https://misinfocon.com/missing-context-in-the-internet-congress-42eb319aed1e#:~:text=If%20we%20don%E2%80%99t,on%20that%20one.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Causality
@@ -917,6 +917,8 @@ Properly selected & governed identity aggregates will be way more competent than
 
 > "On the one hand we have a single brain, formed of nervous nuclei, and on the other a Brain of brains. It is true that between these two organic complexes a major difference exists. Whereas in the case of the individual brain thought emerges from a system of nonthinking nervous fibers, in the case of the collective brain each separate unit is in itself an autonomous center of reflection. If the comparison is to be a just one we must, at every point of resemblance, take this difference into account." - [Pierre Teilhard de Chardin](https://humanenergy.io/francis-heylighen/#:~:text=On%20the%20one,difference%20into%20account.)
 
+> "It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness." - [James Gleick](https://www.goodreads.com/quotes/393099-it-is-not-the-amount-of-knowledge-that-makes-a)
+
 > "If twitter gets its shit together, millions of people can form coherent ideas and will be much stronger than any government." - [Joscha Bach](https://twitter.com/Plinz/status/1709290106149023819)
 
 > "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
@@ -946,6 +948,12 @@ Bobby Azarian Discusses the Emergence of a Global Consciousness
 https://www.youtube.com/watch?v=SBoW9as_JCM
 
 > "If successful, 𝕏 will evolve to be the collective consciousness of humanity or, more accurately, the human-machine collective." - [Elon Musk](https://twitter.com/elonmusk/status/1711608729731211352)
+
+
+> "The noosphere is a philosophical concept developed and popularized by the biogeochemist Vladimir Vernadsky, and philosopher and Jesuit priest Pierre Teilhard de Chardin. Vernadsky defined the noosphere as the new state of the biosphere and described as the planetary "sphere of reason". The noosphere represents the highest stage of biospheric development, that of humankind's rational activities. The word is derived from the Greek νόος ("nous, mind, reason") and σφαῖρα ("sphere"), in lexical analogy to "atmosphere" and "biosphere"." - [Noosphere, Wikipedia](https://en.wikipedia.org/wiki/Noosphere#:~:text=The%20noosphere%20(alternate,and%20%22biosphere%22.)
+
+> "For de Chardin, the noosphere emerges through and is constituted by the interaction of human minds... As mankind organizes itself in more complex social networks, the higher the noosphere will grow in awareness. This concept extends Teilhard's Law of Complexity/Consciousness, the law describing the nature of evolution in the universe. Teilhard argued the noosphere is growing towards an even greater integration and unification, culminating in the Omega Point - an apex of thought/consciousness - which he saw as the goal of history." - [Noosphere, Wikipedia](https://en.wikipedia.org/wiki/Noosphere#:~:text=For%20de%20Chardin,goal%20of%20history.)
+
 
 ██████████████████████████████████████████████████████████████████
 # quotes
