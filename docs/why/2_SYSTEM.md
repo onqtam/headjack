@@ -381,6 +381,10 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 # SECTION: Individualism & narcissism
 ██████████████████████████████████████████████████████████████████
 
+> "Everywhere I look, I see people who are free — free to be alone and adrift, without callings or commitments." - [The Limitations of Freedom, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-limitations-of-freedom#:~:text=Everywhere%20I%20look%2C%20I%20see%20people%20who%20are%20free%20%E2%80%94%20free%20to%20be%20alone%20and%20adrift%2C%20without%20callings%20or%20commitments.%C2%A0%20%C2%A0%C2%A0)
+
+> "The same buffer that frees you from constraints on family, society, and religion, is the same buffer that isolates you. And there’s a profound loneliness in this, because meaning is now entirely up to you. You’re alone in an endeavor that humans have been trying to do as a collective for thousands of years…Good luck!" - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=the%20same%20buffer%20that%20frees,thousands%20of%20years%E2%80%A6Good%20luck!)
+
 > "Neoliberal democracy. Instead of citizens, it produces consumers. Instead of communities, it produces shopping malls. The net result is an atomized society of disengaged individuals who feel demoralized and socially powerless. In sum, neoliberalism is the immediate and foremost enemy of genuine participatory democracy, not just in the United States but across the planet." - [Noam Chomsky](https://www.goodreads.com/quotes/324599-neoliberal-democracy-instead-of-citizens-it-produces-consumers-instead-of)
 
 > "The notion of a separate organism is clearly an abstraction, as is also its boundary. Underlying all this is unbroken wholeness even though our civilization has developed in such a way as to strongly emphasize the separation into parts." - [David Bohm](https://www.goodreads.com/quotes/843293-the-notion-of-a-separate-organism-is-clearly-an-abstraction)

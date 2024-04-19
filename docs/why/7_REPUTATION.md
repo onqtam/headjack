@@ -133,7 +133,9 @@ https://en.wiktionary.org/wiki/calculemus
 # SECTION: PageRank 2.0
 ██████████████████████████████████████████████████████████████████
 
+> "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
 
+> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status & Prestige
@@ -394,6 +396,5 @@ We need to be able to bet on anything (DO WE?)
 
 > "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
 
-> "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
+> "As Nassim Taleb puts it in his book Antifragile, anything done with the explicit intent to improve one’s status likely won’t improve one’s status. Status is a very specific game: any time you think about the game, you lose. After all, the most respected people achieved their status as a byproduct of altruism, honor, and integrity." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=As%20Nassim%20Taleb,honor%2C%20and%20integrity.)
 
-> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
