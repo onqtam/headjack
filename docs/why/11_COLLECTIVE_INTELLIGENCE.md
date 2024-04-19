@@ -60,6 +60,8 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 > "Irrationality is the square root of all evil." - [Douglas Hofstadter](https://www.goodreads.com/quotes/8921697-irrationality-is-the-square-root-of-all-evil)
 
+> "Thinking, real thinking, is collaborative. It doesn’t just tolerate different perspectives, it absolutely requires them." - [On Thinking and Simulated Thinking, by Jordan Hall](https://medium.com/deep-code/on-thinking-and-simulated-thinking-5e434e92cf86#:~:text=Thinking%2C%20real%20thinking%2C%20is%20collaborative.%20It%20doesn%E2%80%99t%20just%20tolerate%20different%20perspectives%2C%20it%20absolutely%20requires%20them.)
+
 > "The problem isn't that Johnny can't read. The problem isn't even that Johnny can't think. The problem is that Johnny doesn't know what thinking is; he confuses it with feeling." - [Thomas Sowell](https://www.goodreads.com/quotes/316759-the-problem-isn-t-that-johnny-can-t-read-the-problem-isn-t)
 
 > "Rhetoric is no substitute for reality." - [Thomas Sowell](https://www.goodreads.com/quotes/270138-rhetoric-is-no-substitute-for-reality)
@@ -446,6 +448,17 @@ abstract polling: count & filter the results from any poll using any KYC filter 
 Reputation page and the message types that polls could be
 
 empowerment - voter apathy is best explained by the disbelief that their vote would matter or that the pool of options is constrained and nothing is good enough. Also the complexity and cost of actually having a well informed opinion and the lack of ability to delegate automatically to someone they trust
+
+> "When you think about it, our current political architecture is way out of date. Every few years, people play this odd game of selecting from among a handful of individuals some (one) person to “represent” them on a wide variety of issues, at some distant location, for years at a time. Two hundred fifty years ago, when hand written notes delivered by horses was cutting edge, this approach made a lot of sense. Today it makes about as much sense as printing out your email." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=When%20you%20think,out%20your%20email.)
+
+> "With liquid democracy, you have a fluid “swarm” of governance that forms clusters of expertise around given issues and concerns — expertise that is identified not by credentials or graft, but by real “chains of trust” all the way back down to the individual citizens from whom all sovereignty extends." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=with%20liquid%20democracy,all%20sovereignty%20extends.)
+
+> "Rather than a slow moving bureaucracy made up of easy to exploit single points of failure (“representatives”) that change hands only once every few years, you have a platform that can update in realtime and “flow” power and attention where it is needed. In other words, a platform for a resilient and adaptive collective intelligence." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=Rather%20than%20a,adaptive%20collective%20intelligence.)
+
+> "The medium really is the message: change the platform, change the game." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=The%20medium%20really%20is%20the%20message%3A%20change%20the%20platform%2C%20change%20the%20game.)
+
+"Elon Musk on Improving Democracy"
+https://www.youtube.com/watch?v=n5ECz1YK30M
 
 Citizens could also rank their proxies by preference, meaning that if their primary proxy does not vote, their vote could be cast by their second-choice proxy.
 https://en.wikipedia.org/wiki/Ranked_voting

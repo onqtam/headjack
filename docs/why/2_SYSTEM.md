@@ -63,6 +63,20 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
 > "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
 
+> "Sure, Locke and Montesquieu came along with their checks, balances, and natural rights, but that only replaced kingly caprice with special-interest capture. Throw in a couple of election spectacles, **et voila**, you’ve got a more tolerable form of serfdom." - [Putting Compulsion in its Place, by Max Borders](https://underthrow.substack.com/p/putting-compulsion-in-its-place?utm_medium=email#:~:text=Sure%2C%20Locke%20and%20Montesquieu%20came%20along%20with%20their%20checks%2C%20balances%2C%20and%20natural%20rights%2C%20but%20that%20only%20replaced%20kingly%20caprice%20with%20special%2Dinterest%20capture.%20Throw%20in%20a%20couple%20of%20election%20spectacles%2C%20et%20voila%2C%20you%E2%80%99ve%20got%20a%20more%20tolerable%20form%20of%20serfdom.)
+
+> "What foul offspring slinks from the coital bed of business and government?
+>
+> - Pharmaceutical corporations and regulatory agencies collude to prevent data transparency and product liability while authorities mandate the company’s experimental products;
+>
+> - Military contractors whose revenues are made almost entirely of taxpayer largesse, giving rise to the military-industrial complex;
+>
+> - Financial institutions designated ‘too big to fail’ reap massive profits in good times but receive heavy subsidies in bad times and benefit first from the Federal Reserve’s quantitative easing.  
+>
+> Monstrous moral hybrids comprise a large portion of the world’s economy." - [Putting Compulsion in its Place, by Max Borders](https://underthrow.substack.com/p/putting-compulsion-in-its-place?utm_medium=email#:~:text=What%20foul%20offspring,the%20world%E2%80%99s%20economy.)
+
+> "The incentives reward predation, parasitism, and power struggles. Indeed, Game A creates selection pressures that tend to reward sociopathy, which means those willing to use questionable means—to step on the necks of others or gobble up limited resources—get to the top." - [Game Mechanics for a Vulnerable World, by Max Borders](https://underthrow.substack.com/p/game-mechanics-for-a-vulnerable-world?r=2u220&utm_campaign=post&utm_medium=web#:~:text=the%20incentives%20reward%20predation%2C%20parasitism%2C%20and%20power%20struggles.%20Indeed%2C%20Game%20A%20creates%20selection%20pressures%20that%20tend%20to%20reward%20sociopathy%2C%20which%20means%20those%20willing%20to%20use%20questionable%20means%E2%80%94to%20step%20on%20the%20necks%20of%20others%20or%20gobble%20up%20limited%20resources%E2%80%94get%20to%20the%20top.)
+
 > "Unfortunately, you can’t vote the rascals out, because you never voted them in, in the first place." - [Noam Chomsky](https://www.goodreads.com/quotes/706849-unfortunately-you-can-t-vote-the-rascals-out-because-you-never)
 
 > "The majority of us believe in Open Source government backed by resource based economics on a planetary level. If a computer’s operating system is malfunctioning it is replaced. We view governments as global operating systems, flawed full of bugs and crash reports. Hitting the off switch and rebooting simply won’t help how corrupted these global operating systems have become. Reformatting and installing a humanitarian based open sourced government will insure equality for all." - [Million Mask March 2015 - Anonymous](https://pastebin.com/eJz5JfMD#:~:text=The%20majority%20of%20us%20believe,will%20insure%20equality%20for%20all.)
@@ -88,6 +102,10 @@ https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 > "The Islamic Republic of Iran was today appointed Chair of the U.N. Human Rights Council Social Forum. This year's theme is technology and promotion of human rights; Iran just hanged Yousef Mehrad and Sadrollah Fazeli Zare for using social media to criticize religion." - [Hillel Neuer](https://twitter.com/HillelNeuer/status/1656276696117460994)
 
 ^^ Thank God for the UN
+
+> "I hope that soon there will be a deeply shared acceptance that none of our current institutions are trust-worthy and a deeply shared conviction that we can and must (re)build trust ourselves." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=I%20hope%20that%20soon%20there%20will%20be%20a%20deeply%20shared%20acceptance%20that%20none%20of%20our%20current%20institutions%20are%20trust%2Dworthy%20and%20a%20deeply%20shared%20conviction%20that%20we%20can%20and%20must%20(re)build%20trust%20ourselves.)
+
+> "It is not stretching the truth to say that effectively all of our social institutions are a bad combination of corrupt and obsolete. Our education system. Our healthcare system. Our food production systems. Our banking and finance systems. Our journalism and science systems. Our political systems." - [Defund (and redesign) everything, by Jordan Hall](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d#:~:text=It%20is%20not%20stretching%20the%20truth%20to%20say%20that%20effectively%20all%20of%20our%20social%20institutions%20are%20a%20bad%20combination%20of%20corrupt%20and%20obsolete.%20Our%20education%20system.%20Our%20healthcare%20system.%20Our%20food%20production%20systems.%20Our%20banking%20and%20finance%20systems.%20Our%20journalism%20and%20science%20systems.%20Our%20political%20systems.)
 
 > "Anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good as your knowledge.'" - [Isaac Asimov](https://www.goodreads.com/quotes/84250-anti-intellectualism-has-been-a-constant-thread-winding-its-way-through)
 
@@ -454,6 +472,7 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 
 > "Risk comes from not knowing what you're doing." - [Warren Buffett](https://www.goodreads.com/quotes/329807-risk-comes-from-not-knowing-what-you-re-doing)
 
+> "Thinking has reality on its side. The more reality drifts from the environment that the scripts of simulated thinking were designed for, the more errors the simulation will throw." - [On Thinking and Simulated Thinking, by Jordan Hall](https://medium.com/deep-code/on-thinking-and-simulated-thinking-5e434e92cf86#:~:text=thinking%20has%20reality%20on%20its%20side.%20The%20more%20reality%20drifts%20from%20the%20environment%20that%20the%20scripts%20of%20simulated%20thinking%20were%20designed%20for%2C%20the%20more%20errors%20the%20simulation%20will%20throw.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives 

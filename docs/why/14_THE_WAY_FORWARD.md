@@ -671,6 +671,16 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 > "Our task is not to overthrow globalisation, but to capture it, and to use it as a vehicle for humanity’s first global democratic revolution." - [George Monbiot](https://www.monbiot.com/books/the-age-of-consent/#:~:text=Our%20task%20is%20not%20to%20overthrow%20globalisation%2C%20but%20to%20capture%20it%2C%20and%20to%20use%20it%20as%20a%20vehicle%20for%20humanity%E2%80%99s%20first%20global%20democratic%20revolution.)
 
+> "There are only two ways to get another to do what you want him to do--compulsion and persuasion. There is no other way. You can get someone to do something through lying or trickery, but these are just vicious forms of persuasion. You can calmly and gently inform someone that you have a gun, so they must open the till, but that’s just polite compulsion. In other words, one is left free to make her own decisions, or she is not. The world runs on compulsion and persuasion, and the preponderance of either in a society shapes it utterly." - [Putting Compulsion in its Place, by Max Borders](https://underthrow.substack.com/p/putting-compulsion-in-its-place?utm_medium=email#:~:text=There%20are%20only,shapes%20it%20utterly.)
+
+> "***Ought*** respects choice. ***Or else*** does not." - [Putting Compulsion in its Place, by Max Borders](https://underthrow.substack.com/p/putting-compulsion-in-its-place?utm_medium=email#:~:text=Ought%20respects%20choice.%20Or%20else%20does%20not.)
+
+> "Our quiet failures of imagination also bias us to the status quo. Here, though, I want to demonstrate another possibility, struggling to exist and exert itself: The way of consent is the way of liberation. The path of persuasion is the way to flourishing. Can we accelerate our journey towards persuasion-based governance, fist in palm?" - [Putting Compulsion in its Place, by Max Borders](https://underthrow.substack.com/p/putting-compulsion-in-its-place?utm_medium=email#:~:text=Our%20quiet%20failures,fist%20in%20palm%3F)
+
+> "Fortunately, the money power has repeatedly been shown to have one major weakness that it has not yet reliably patched: it is slow to react to technical innovation." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=Fortunately%2C%20the%20money%20power%20has%20repeatedly%20been%20shown%20to%20have%20one%20major%20weakness%20that%20it%20has%20not%20yet%20reliably%20patched%3A%20it%20is%20slow%20to%20react%20to%20technical%20innovation.)
+
+> "If we can design and implement a technology-based initiative that radically changes the balance of power around both media and elections, we might catch the money power off balance and have window of opportunity." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=if%20we%20can%20design%20and%20implement%20a%20technology%2Dbased%20initiative%20that%20radically%20changes%20the%20balance%20of%20power%20around%20both%20media%20and%20elections%2C%20we%20might%20catch%20the%20money%20power%20off%20balance%20and%20have%20window%20of%20opportunity.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
 ██████████████████████████████████████████████████████████████████
@@ -1017,6 +1027,11 @@ Few people could predict uber and airbnb - most were extremely sceptical. The sa
 
 > "Don’t be dogmatic about the government always being good or bad. Don’t think education or healthcare should always be private or always be public. The question is never what philosophy is better. The question is: *What are each market’s failures, and how can regulation correct them*." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Don%E2%80%99t%20be%20dogmatic%20about%20the%20government%20always%20being%20good%20or%20bad.%20Don%E2%80%99t%20think%20education%20or%20healthcare%20should%20always%20be%20private%20or%20always%20be%20public.%20The%20question%20is%20never%20what%20philosophy%20is%20better.%20The%20question%20is%3A%20What%20are%20each%20market%E2%80%99s%20failures%2C%20and%20how%20can%20regulation%20correct%20them.)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: The best that money can't buy
+██████████████████████████████████████████████████████████████████
+
+> "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other
