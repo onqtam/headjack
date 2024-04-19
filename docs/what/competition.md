@@ -303,6 +303,10 @@ discoverability
 
 bluesky - dependence on DNS
 
+
+> "Out of clutter, find simplicity." - [Albert Einstein](https://www.goodreads.com/quotes/14212-out-of-clutter-find-simplicity)
+
+
 row: type of account key or joinability or compactness of key: number or (hash of) public key - only farcaster green besides headjack
 
 Competition - 1-of-N

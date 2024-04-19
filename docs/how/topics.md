@@ -155,13 +155,7 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
         https://underthrow.substack.com/p/the-law-of-flow-is-everywhere
         https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2871904/
 - collective intelligence
-
-    coherence !!!
-
-    - all intelligence is collective intelligence
-    - cybernetics & control theory & feedback loops
     - the global connectome
-    - science
     - prediction markets, reputation & futarchy, social capital
         - what people have been getting wrong about prediction markets is making them financial instead of purely reputational - career & finances are downstream from reputation. Financialization is hard to generalize and also excludes many people and requires oracles and a ton more infrastructure to generalize. This is the future of resumes
     - sankey diagram everything - cui bono-ify everything in regards to money and connections

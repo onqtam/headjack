@@ -32,6 +32,8 @@
 # SECTION: Intelligence
 ██████████████████████████████████████████████████████████████████
 
+> "The measure of intelligence is the ability to change." - [Albert Einstein](https://www.goodreads.com/quotes/85475-the-measure-of-intelligence-is-the-ability-to-change)
+
 > "Intelligence is based on how efficient a species became at doing the things they need to survive." - [Charles Darwin](https://www.goodreads.com/quotes/337972-intelligence-is-based-on-how-efficient-a-species-became-at)
 
 According to cybernetics, intelligence sits on top of feedback loops
@@ -89,6 +91,12 @@ https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cog
 > "Focusing is about saying No." - [Steve Jobs](https://www.goodreads.com/quotes/455912-focusing-is-about-saying-no)
 
 > "The art of being wise is the art of knowing what to overlook." - [David Brooks](https://www.goodreads.com/quotes/7221905-the-art-of-being-wise-is-the-art-of-knowing)
+
+relevance realization is your general intelligence
+RR is central to your intelligence
+general intelligence can be understood as a dynamic developmental evolution of your sensory motor fittedness that is regulated by virtual engines that are ultimately regulated by the logistical normativity of the opponent processing between efficiency and resiliency - WAT :D
+John Vervaeke
+https://youtu.be/gfKcVbNd7Xc?t=3238
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Bayesian Inference
@@ -148,6 +156,8 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 ██████████████████████████████████████████████████████████████████
 # SECTION: Goal directedness
 ██████████████████████████████████████████████████████████████████
+
+> "Sound strategy starts with having the right goal." - [Michael Porter](https://www.azquotes.com/quote/605346)
 
 > "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
 

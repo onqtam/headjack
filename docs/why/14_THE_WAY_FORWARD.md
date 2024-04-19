@@ -122,6 +122,8 @@ we are starved for meaning
 belonging
 connectedness
 
+> "Only a life lived for others is a life worthwhile." - [Albert Einstein](https://www.goodreads.com/quotes/16909-only-a-life-lived-for-others-is-a-life-worthwhile)
+
 > "When a person can't find a deep sense of meaning, they distract themselves with pleasure." - [Viktor E. Frankl](https://www.goodreads.com/quotes/5738688-when-a-person-can-t-find-a-deep-sense-of-meaning)
 
 > "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
@@ -186,7 +188,21 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 # SECTION: Enlarging the self
 ██████████████████████████████████████████████████████████████████
 
+> "With all my heart I believe that the world’s present system of sovereign nations can only lead to barbarism, war and inhumanity, and that only world law can assure progress towards a civilized peaceful community." - [Albert Einstein](https://quotefancy.com/quote/764188/Albert-Einstein-With-all-my-heart-I-believe-that-the-world-s-present-system-of-sovereign)
 
+> "Nationalism is an infantile thing. It is the measles of mankind." - [Albert Einstein](https://www.goodreads.com/quotes/361110-nationalism-is-an-infantile-thing-it-is-the-measles-of)
+
+> "Nationalism is just racism with a flag." - [Peter Joseph](https://www.azquotes.com/quote/1344628)
+
+> "Everyone smiles in the same language." - [George Carlin](https://www.azquotes.com/quote/413244)
+
+> "A human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." - [Albert Einstein](https://www.goodreads.com/quotes/369-a-human-being-is-a-part-of-the-whole-called)
+
+> "The greatest tragedy of our modern age is that anger is loud and love is quiet" - [David Holz](https://twitter.com/DavidSHolz/status/1606232701475778560)
+
+> "Our true nationality is mankind." - [H. G. Wells](https://www.goodreads.com/quotes/168434-our-true-nationality-is-mankind)
+
+> "If different cultures connect with each other, they are less likely to want to shoot each other." - [Tim Berners-Lee](https://www.azquotes.com/quote/678697)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
@@ -195,6 +211,8 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 > "It is as if man had been suddenly appointed managing director of the biggest business of all, the business of evolution—appointed without being asked if he wanted it, and without proper warning and preparation. What is more, he can’t refuse the job. Whether he wants to or not, whether he is conscious of what he is doing or not, he is in point of fact determining the future direction of evolution on this earth. That is his inescapable destiny, and the sooner he realizes it and starts believing in it, the better for all concerned..." - [Transhumanism, by Julian Huxley](https://www.consciousevolution.co.uk/blog/what-is-an-evolutionary#:~:text=It%20is%20as,for%20all%20concerned.%20.%20.%20.)
 
 > "Who looks outside, dreams; who looks inside, awakes." - [Carl Jung](https://www.azquotes.com/quote/151492)
+
+> "He who does not contemplate the future is destined to be overwhelmed by it." - [H. G. Wells](https://www.azquotes.com/quote/814186)
 
 we can - and should - manifest the first major intentional evolutionary step for life on earth
 
@@ -297,6 +315,8 @@ Computing the rules-based order
 
 The global norms-based order
 
+> "We must stop constantly fighting for human rights and equal justice in an unjust system, and start building a society where equal rights are an integral part of the design." - [Jacque Fresco](https://www.azquotes.com/quote/728487)
+
 It's up to us to create the rules-based order
 
 There’s effectively no international rules based order
@@ -358,6 +378,8 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 
 > "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
 
+> "We have more than enough to take care of everybody on earth at this time. If we have a shortage of anything, it's very easy for science to make a substitute material. There's no shortage of anything except brains in Washington." - [Jacque Fresco](https://www.azquotes.com/quote/728486)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Values & virtues
 ██████████████████████████████████████████████████████████████████
@@ -376,6 +398,11 @@ Hope - Willingness to invest in it before it is there
 Logically derived for forming a coherent next level system
 
 > "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)
+
+> "I believe a Magna Carta for the internet is exactly what we need. We need to encode our values not just in writing but in the structure of the internet." - [Edward Snowden](https://www.theregister.com/2014/03/21/quotw_ending_march_20/#:~:text=I%20believe%20a%20Magna%20Carta%20for%20the%20internet%20is%20exactly%20what%20we%20need.%20We%20need%20to%20encode%20our%20values%20not%20just%20in%20writing%20but%20in%20the%20structure%20of%20the%20internet.)
+
+> "War, poverty, corruption, hunger, misery, human suffering will not change in a monetary system. That is, there will be very little significant change. It’s going to take the redesign of our culture and values." - [Jacque Fresco](https://www.azquotes.com/quote/728457)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
@@ -413,6 +440,8 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 >
 > We have a great deal to learn from nature. Take economics. If we ran our bodies' economy the way our economy is run it might look something like this. We could call the heart-lung system the “northern industrial organs”. You give them ownership of the bones in which you mine the raw material blood cells that arise in the marrow. Sweep them up here to the northern industrial organs. Purify the blood as actually happens. Add oxygen and then the heart distribution centre announces “The body price for blood today is so much. Who will buy?” And you ship the blood to the organs that can afford it and not all can. This is the situation we have economically in the world today. You can see that a living system can't function that way." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=We%20have%20a%20hundred,can%27t%20function%20that%20way.)
 
+> "What kind of competition is there in your body? Suppose your brain said ' I'm the most important organ, and the liver said 'I am, and I want to go in a free enterprise-system.' You would rot away in a month, if every organ of your body, were out for itself." - [Jacque Fresco](https://www.azquotes.com/quote/728466)
+
 > "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. To the naive mind that can conceive of order only as the product of deliberate arrangement, it may seem absurd that in complex conditions order, and adaptation to the unknown, can be achieved more effectively by decentralizing decisions and that a division of authority will actually extend the possibility of overall order. Yet that decentralization actually leads to more information being taken into account." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6867865-the-curious-task-of-economics-is-to-demonstrate-to-men)
 
 > "Civilization rests on the fact that we all benefit from knowledge which we do not possess." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6539631-civilization-rests-on-the-fact-that-we-all-benefit-from)
@@ -421,6 +450,7 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
 
+> "We are as gods and might as well get good at it." - [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
 > "The paradigm shift is basically everything. We need new systems of governance that are not any system of governance the world has ever done so far. They are systems of how do we individually and collectively make sense of what’s going on, make sense of what we actually value, and how those values can be synergistically satisfied rather than in a theory of tradeoffs with each other. We need totally new systems of economics, we need totally new systems of education, all the way down to at an individual level, a new basis for identity, values, our own individual sense-making." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=The%20paradigm%20shift%20is,own%20individual%20sense%2Dmaking.)
 
@@ -428,6 +458,7 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 > "Only that which can change can continue." - [James Carse](https://www.goodreads.com/quotes/975884-only-that-which-can-change-can-continue)
 
+> "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking." - [Albert Einstein](https://www.goodreads.com/quotes/1799-the-world-as-we-have-created-it-is-a-process)
 
 > "Finite players play within boundaries; infinite players play with boundaries." - [James Carse](https://www.goodreads.com/quotes/1005320-finite-players-play-within-boundaries-infinite-players-play-with-boundaries)
 
@@ -457,6 +488,10 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 > "We need to hold those with power and influence accountable. From corporate entities to collectives and individuals who shape our digital experiences, it's up to us to not just insist on transparency, integrity, and respect for our rights as digital citizens, but to create, use, and defend the means that guarantee us this experience." - [A Grand Campaign of Remoralization, by Moritz Bierling](https://twitter.com/bierlingm/status/1660663668357361664)
 
+> "The conflict of the 21st Century is about forming a collective intelligence that can outwit and out innovate all of its competitors. The central challenge then is precisely to innovate a way of collaborating and cohering individuals that maximally deploys their individual perspectives, capabilities, understandings and insights with each-other. To achieve a decisive advantage in innovative capacity." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84#:~:text=The%20conflict%20of,in%20innovative%20capacity.)
+
+> "This transition will prove more significant than the transition from single cell to multi-cellular life two billion years ago. Everything that happens next is dependent on what happens here." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84#:~:text=this%20transition%20will%20prove%20more%20significant%20than%20the%20transition%20from%20single%20cell%20to%20multi%2Dcellular%20life%20two%20billion%20years%20ago.%20Everything%20that%20happens%20next%20is%20dependent%20on%20what%20happens%20here.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Education, learning & development
 ██████████████████████████████████████████████████████████████████
@@ -464,6 +499,9 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 <img src="/img/educational_crisis.png"/>
 
 children are sponges
+
+> "Civilization is in a race between education and catastrophe." - [H. G. Wells](https://www.goodreads.com/quotes/107797-civilization-is-in-a-race-between-education-and-catastrophe-let)
+> "Human history becomes more and more a race between education and catastrophe." - [H. G. Wells](https://www.goodreads.com/quotes/39026-human-history-becomes-more-and-more-a-race-between-education)
 
 > "Ignorance feeds on ignorance." - [Carl Sagan](https://consilienceproject.org/an-infodemic-plaguing-the-pandemic-response/#:~:text=Ignorance%20feeds%20on%20ignorance.)
 
@@ -593,6 +631,16 @@ Education is the autopoietic root of society - the way it propagates/maintains/r
 > "There is no way to help a learner to be disciplined, active, and thoroughly engaged unless he perceives a problem to be a problem or whatever is to-be-learned as worth learning, and unless he plays an active role in determining the process of solution." - [Neil Postman](https://www.azquotes.com/quote/1215352)
 
 > "The question is not, Does or doesn't public schooling create a public? The question is, What kind of public does it create? A conglomerate of self-indulgent consumers? Angry, soulless, directionless masses? Indifferent, confused citizens? Or a public imbued with confidence, a sense of purpose, a respect for learning, and tolerance? The answer to this question has nothing whatever to do with computers, with testing, with teacher accountability, with class size, and with the other details of managing schools. The right answer depends on two things, and two things alone: the existence of shared narratives and the capacity of such narratives to provide an inspired reason for schooling." - [Neil Postman](https://www.goodreads.com/quotes/1364209-public-education-does-not-serve-a-public-it-creates-a#:~:text=The%20question%20is,reason%20for%20schooling.)
+
+> "Human behavior is subject to the same laws as any other natural phenomenon. Our customs, behaviors, and values are byproducts of our culture. No one is born with greed, prejudice, bigotry, patriotism and hatred; these are all learned behavior patterns. If the environment is unaltered, similar behavior will reoccur." - [Jacque Fresco](https://www.azquotes.com/quote/728513)
+
+> "When education and resources are available to all without a price tag, there will be no limit to the human potential." - [Jacque Fresco](https://www.azquotes.com/quote/1275953)
+
+> "The difference between a serial killer and a saint is environment. That's a very hard thing to accept because that raises a lot of questions." - [Jacque Fresco](https://www.azquotes.com/quote/728512)
+
+> "If technology does not liberate all people for the pursuit of higher aspirations in human achievement, then all its technical potential will be meaningless." - [Jacque Fresco](https://www.azquotes.com/quote/728555)
+
+> "There are no bad people, there are people with insufficient information to make appropriate decisions." - [Jacque Fresco](https://www.goodreads.com/quotes/883493-there-are-no-bad-people-there-are-people-with-insufficient)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Healthcare
@@ -736,11 +784,15 @@ This as the section for matchmaking and with the leary quote
 
 > "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
 
+> "Science without religion is lame, religion without science is blind." - [Albert Einstein](https://www.goodreads.com/quotes/1612-science-without-religion-is-lame-religion-without-science-is-blind)
+
 Religions are literally false but metaphorically true - Brett Weinstein
 What if we could make a literally true one?
 
 The fairness protocol as god
 The god protocol is about fairness and consent
+
+> "The religion of the future will be a cosmic religion. It should transcend a personal God and avoid dogmas and theology." - [Albert Einstein](https://www.goodreads.com/quotes/501883-the-religion-of-the-future-will-be-a-cosmic-religion)
 
 God design
 Designing god
@@ -1074,6 +1126,8 @@ https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-16864190
 
 next steps for readers: sign up for updates, contribute, etc.
 
+> "We all have our time machines, don't we. Those that take us back are memories...And those that carry us forward, are dreams." - [H. G. Wells](https://www.goodreads.com/quotes/329653-we-all-have-our-time-machines-don-t-we-those-that)
+
 > "I know you're out there. I can feel you now. I know that you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin. I'm going to hang up this phone, and then I'm going to show these people what you don't want them to see. I'm going to show them a world.. without you. A world without rules or controls, without borders or boundaries. A world where anything is possible. Where we go from there is a choice I leave to you." - [Neo, The Matrix](https://www.finestquotes.com/movie_quotes/movie/Matrix/page/0.htm#:~:text=I%20know%20you%27re,leave%20to%20you.)
 
 ^^ THIS but modified (use strikethrough to remove the original parts and add your own - like gatekeepers, not a world without rules/constraints but one of participation, etc.)
@@ -1122,5 +1176,7 @@ August 6, 1945
 https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
 
 kennedy quote - choose to go to the moon not because it is easy but because it is hard
+
+> "If you think we can't change the world, it just means you're not one of those who will." - [Jacque Fresco](https://www.goodreads.com/quotes/7622314-if-you-think-we-can-t-change-the-world-it-just)
 
 
