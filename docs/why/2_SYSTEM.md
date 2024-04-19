@@ -286,6 +286,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
 > "It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong." - [Thomas Sowell](https://www.goodreads.com/quotes/3823206-it-is-hard-to-imagine-a-more-stupid-or-more)
 
+> "Not only are their predictions wrong and nobody cares, their predictions negatively affect people other than themselves. This is tragic: Elites determine so much policy, and yet they’re the most insulated from all downstream consequences resulting from the changes they demand everybody else make." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=not%20only%20are%20their%20predictions%20wrong%20and%20nobody%20cares%2C%20their%20predictions%20negatively%20affect%20people%20other%20than%20themselves.%20This%20is%20tragic%3A%20Elites%20determine%20so%20much%20policy%2C%20and%20yet%20they%E2%80%99re%20the%20most%20insulated%20from%20all%20downstream%20consequences%20resulting%20from%20the%20changes%20they%20demand%20everybody%20else%20make.)
+
 > "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
 <!-- https://quoteinvestigator.com/2015/07/23/great-power/ -->
 

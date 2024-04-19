@@ -146,6 +146,8 @@ With a picture of the clown from the movie “saw”
 
 we need to change our concept of status
 
+> "To compete for high social status is to play a zero-sum game, since status is scarce by definition. Yet one way to successfully earn status is to invent technologies that create new non-zero-sum games." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1120197629072117760)
+
 > "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
 
 People grind for status in the dumbest possible pay-to-win “games” - we need to give them an avenue for their competitiveness and expression

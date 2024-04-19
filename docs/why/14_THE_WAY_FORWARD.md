@@ -886,6 +886,8 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 
 > "How do we gather attention while in alignment with our deepest values and highest purpose? And how do we transform that attention into intentional action in service of each other and the world?" - [Daniel Thorson](https://thewanderingon.wordpress.com/2013/12/11/alexander-bard-and-attentionalism/#:~:text=How%20do%20we%20gather%20attention%20while%20in%20alignment%20with%20our%20deepest%20values%20and%20highest%20purpose%3F%20And%20how%20do%20we%20transform%20that%20attention%20into%20intentional%20action%20in%20service%20of%20each%20other%20and%20the%20world%3F)
 
+> "We need to put serious effort into not only discovering truth, but also spreading it. Society doesn’t progress from ignorance to wisdom in a straight line — the truth needs to be sold." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=We%20need%20to%20put%20serious%20effort%20into%20not%20only%20discovering%20truth%2C%20but%20also%20spreading%20it.%20Society%20doesn%E2%80%99t%20progress%20from%20ignorance%20to%20wisdom%20in%20a%20straight%20line%20%E2%80%94%20the%20truth%20needs%20to%20be%20sold.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████
@@ -896,6 +898,8 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 
 game b should parasitize game A
 game b should be meta-stable
+
+> "Nietzsche saw Nihilism as an opportunity because it opened the way for something new. Only when you lose everything can you really have anything. Only when we no longer believe our previous mythologies can we create new and better ones." - [The Necessary Nihilism, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-necessary-nihilism#:~:text=Nietzsche%20saw%20Nihilism%20as%20an%20opportunity%20because%20it%20opened%20the%20way%20for%20something%20new.%20Only%20when%20you%20lose%20everything%20can%20you%20really%20have%20anything.%20Only%20when%20we%20no%20longer%20believe%20our%20previous%20mythologies%20can%20we%20create%20new%20and%20better%20ones.)
 
 > "The Matrix is a system, Neo. That system is our enemy. But when you're inside, you look around, what do you see? Businessmen, teachers, lawyers, carpenters. The very minds of the people we are trying to save. But until we do, these people are still a part of that system and that makes them our enemy. You have to understand, most of these people are not ready to be unplugged. And many of them are so inured, so hopelessly dependent on the system, that they will fight to protect it." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/6410378-the-matrix-is-a-system-neo-that-system-is-our)
 
