@@ -220,7 +220,7 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "We currently know of no form of control structure that is adequate — even in principle." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=we%20currently%20know%20of%20no%20form%20of%20control%20structure%20that%20is%20adequate%20%E2%80%94%20even%20in%20principle.)
 
-> "People are starving in the world, not because we don't have enough food, but because we're not organized. And computers are part of that." - [Larry Page](https://www.azquotes.com/quote/788555)
+> "The popular phrase "What Would Jesus Do" (WWJD) serves as a moral compass for many Christians in the form of a reminder to consider what Jesus might do in a given situation when making moral decisions. The devout Christian who thinks "What Would Jesus Do?" before making a choice has constructed an internal model of Jesus and he has become an agent with causal power inside that person's cognitive system. This mental model is constructed from the information, stories, and teachings found in the Bible and are influenced by an individual's personal beliefs and interpretation of that text." - [Bobby Azarian](https://roadtoomega.substack.com/p/introducing-neuromancy-enhancing#:~:text=The%20popular%20phrase,of%20that%20text.)
 
 
 
