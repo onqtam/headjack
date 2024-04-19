@@ -1,4 +1,6 @@
 
+who thinks others are manipulated by media meme
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Media
 “If it bleeds - it leads” - as a chapter name about media
@@ -6,15 +8,7 @@
 
 > "We live in media, as fish live in water." - [Ted Nelson](https://www.azquotes.com/quote/1405368)
 
-
-> "There's a reason legacy media fought so hard to retain control. Losing their centralized chokepoint over information is truly at the level of the fall of communism." - [Balaji Srinivasan](https://twitter.com/balajis/status/1767749721156980935)
-
-
 > "Instead of the story emerging according to the facts, the facts emerge according to the prevailing story." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
-
-> "The only way out is through. We need to continue building even deeper and broader understanding of dynamics of narrative, and designing institutions that are structurally incapable of bending their output towards one or another official's preferred narrative. As a simple example, the CDC is currently responsible both for gathering and analyzing information around disease prevalence, and also making policy recommendations. In a narrative-aware world, we'd realize that this creates an irresistible temptation to control the data that is released so that the policy recommendations can seem more correct than they were. In that world those two functions would never be allowed to co-exist in the same organization.
->
-> On the individual level, we need to rebuild our sensemaking mechanisms to assume that every piece of information we receive is colored by corrupt incentives, much like we refactored the technology stack of the internet away from the initial naive assumptions and towards security- and encryption-by default. Many areas of human endeavor, such as international diplomancy or even most business-to-business transactions already work on such principles, so it's nowhere near as onerous as it may seem. We just need to stop hoping that there is some far-away uncorrupted group of elders that will give us truth on a platter." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
 
 
 > "An educational system that trains critical thinkers is incompatible with a system of government that requires the truth to be hidden. An empire of lies must devour its own children to survive." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1694068816425238663)
@@ -37,6 +31,7 @@
 >
 > Infecting the young minds faster than bacteria" - [Black Eyed Peas](https://genius.com/Black-eyed-peas-where-is-the-love-lyrics#:~:text=Wrong%20information%20always%20shown%20by%20the%20media%0ANegative%20images%20is%20the%20main%20criteria%0AInfecting%20the%20young%20minds%20faster%20than%20bacteria)
 
+> "Always remember: corporate journalists are just dogs on a leash, hitmen for old money. They’ll never criticize their bosses or even mention them." - [Balaji Srinivasan](https://twitter.com/balajis/status/1657869478338912257)
 
 > "Freedom of the press is limited to those who own one." - [A. J. Liebling](https://www.goodreads.com/quotes/177973-freedom-of-the-press-is-limited-to-those-who-own)
 
@@ -75,21 +70,44 @@
 
 > "Never argue with a man who buys ink by the barrel." - [Roger Branigin](https://quoteinvestigator.com/2018/04/24/ink/)
 
+> "Wars are won by choosing the battlefield. And the battlefield of politics is media." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Wars%20are%20won%20by%20choosing%20the%20battlefield.%20And%20the%20battlefield%20of%20politics%20is%20media.)
+
+> "I don’t care if we are talking about the New York Post or the New York Times. If you are using 20th Century media to understand or evaluate what is going on in your political world, you are a part of the problem." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=I%20don%E2%80%99t%20care%20if%20we%20are%20talking%20about%20the%20New%20York%20Post%20or%20the%20New%20York%20Times.%20If%20you%20are%20using%2020th%20Century%20media%20to%20understand%20or%20evaluate%20what%20is%20going%20on%20in%20your%20political%20world%2C%20you%20are%20a%20part%20of%20the%20problem.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Broadcast vs decentralization
+██████████████████████████████████████████████████████████████████
+
+> "This is the formal core of the Blue Church: it solves the problem of 20th Century social complexity through the use of mass media to generate manageable social coherence." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=This%20is%20the%20formal%20core%20of%20the%20Blue%20Church%3A%20it%20solves%20the%20problem%20of%2020th%20Century%20social%20complexity%20through%20the%20use%20of%20mass%20media%20to%20generate%20manageable%20social%20coherence.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Sensemaking
+██████████████████████████████████████████████████████████████████
+
+> "Our ability to do choice-making well depends on our ability to sense-make well, which is why controlling peoples’ sense-making is the heart of the war that’s happening." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Our%20ability%20to%20do%20choice%2Dmaking%20well%20depends%20on%20our%20ability%20to%20sense%2Dmake%20well%2C%20which%20is%20why%20controlling%20peoples%E2%80%99%20sense%2Dmaking%20is%20the%20heart%20of%20the%20war%20that%E2%80%99s%20happening.)
+
+> "Why don’t we have group sense-making? Because you have a self-perpetuating system that includes the self-perpetuation of the memes that support the system." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Why%20don%E2%80%99t%20we%20have%20group%20sense%2Dmaking%3F%20Because%20you%20have%20a%20self%2Dperpetuating%20system%20that%20includes%20the%20self%2Dperpetuation%20of%20the%20memes%20that%20support%20the%20system.)
+
+> "The only way out is through. We need to continue building even deeper and broader understanding of dynamics of narrative, and designing institutions that are structurally incapable of bending their output towards one or another official's preferred narrative. As a simple example, the CDC is currently responsible both for gathering and analyzing information around disease prevalence, and also making policy recommendations. In a narrative-aware world, we'd realize that this creates an irresistible temptation to control the data that is released so that the policy recommendations can seem more correct than they were. In that world those two functions would never be allowed to co-exist in the same organization.
+>
+> On the individual level, we need to rebuild our sensemaking mechanisms to assume that every piece of information we receive is colored by corrupt incentives, much like we refactored the technology stack of the internet away from the initial naive assumptions and towards security- and encryption-by default. Many areas of human endeavor, such as international diplomancy or even most business-to-business transactions already work on such principles, so it's nowhere near as onerous as it may seem. We just need to stop hoping that there is some far-away uncorrupted group of elders that will give us truth on a platter." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
+
 > "The main thrust of the current war is that making any sense at all is getting harder and harder." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=the%20main%20thrust%20of%20the%20current%20war%20is%20that%20making%20any%20sense%20at%20all%20is%20getting%20harder%20and%20harder.)
 
 > "Are you sure you know the current limits of the war on sensemaking? Of sock puppets and cognitive hacking and weaponized memetics?" - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=Are%20you%20sure%20you%20know%20the%20current%20limits%20of%20the%20war%20on%20sensemaking%3F%20Of%20sock%20puppets%20and%20cognitive%20hacking%20and%20weaponized%20memetics%3F)
 
 > "This state of affairs — this increasingly generalized condition of complete disorientation — is untenable." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=this%20state%20of%20affairs%20%E2%80%94%20this%20increasingly%20generalized%20condition%20of%20complete%20disorientation%20%E2%80%94%20is%20untenable.)
 
-> "Wars are won by choosing the battlefield. And the battlefield of politics is media." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Wars%20are%20won%20by%20choosing%20the%20battlefield.%20And%20the%20battlefield%20of%20politics%20is%20media.)
-
-> "I don’t care if we are talking about the New York Post or the New York Times. If you are using 20th Century media to understand or evaluate what is going on in your political world, you are a part of the problem." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=I%20don%E2%80%99t%20care%20if%20we%20are%20talking%20about%20the%20New%20York%20Post%20or%20the%20New%20York%20Times.%20If%20you%20are%20using%2020th%20Century%20media%20to%20understand%20or%20evaluate%20what%20is%20going%20on%20in%20your%20political%20world%2C%20you%20are%20a%20part%20of%20the%20problem.)
+> "All Collective Intelligence is gated by Sensemaking. Right now, our collective sensemaking systems are in complete disarray. We don’t know who or what to trust. We barely even know how." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84#:~:text=All%20Collective%20Intelligence%20is%20gated%20by%20Sensemaking.%20Right%20now%2C%20our%20collective%20sensemaking%20systems%20are%20in%20complete%20disarray.%20We%20don%E2%80%99t%20know%20who%20or%20what%20to%20trust.%20We%20barely%20even%20know%20how.)
 
 > "Don’t underestimate the subtle forces of nearly seven decades of adaptive evolution that have shaped the current political machines to the old media. TV for example, is all about surface, personality and persona. It is all about sensory overwhelm and getting behind and around our sensemaking defenses. This is why it leans in the direction of talking heads, soundbites and spin and why the evolution of American politics since Nixon has been irrevocably in the direction of reality TV." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=Don%E2%80%99t%20underestimate%20the,of%20reality%20TV.)
+
+> "Anyone who has used a computer in the last decade is well aware of the problem of malware: be careful installing 3rd party software on your system. Oddly, we are vastly less circumspect when installing 3rd party narrative into our sensemaker." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=Anyone%20who%20has%20used%20a%20computer%20in%20the%20last%20decade%20is%20well%20aware%20of%20the%20problem%20of%20malware%3A%20be%20careful%20installing%203rd%20party%20software%20on%20your%20system.%20Oddly%2C%20we%20are%20vastly%20less%20circumspect%20when%20installing%203rd%20party%20narrative%20into%20our%20sensemaker.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Divide and Conquer
 ██████████████████████████████████████████████████████████████████
+
 Who benefits the most from fractured & incoherent epistemic commons and uncoordinated & uneducated masses?
 > "It is incredibly easy to manipulate us as to who counts as an Us, who as a Them." - [Robert Sapolsky](https://www.azquotes.com/quote/1562507)
 
@@ -163,10 +181,6 @@ https://www.youtube.com/watch?v=-bLyjGH4ZAE
 > "As the Cold War ended, and the internet rose in the late 1990s, a spate of movies came out — The Matrix, Memento, The Truman Show, Fight Club, The Game, Men in Black, The Eternal Sunshine of the Spotless Mind –— all about a constructed reality where our memories aren’t real. It’s almost as if with the rise of the Network, that there was a dim realization in the collective subconscious that everyone had been lied to, deceived, anesthetized, sedated by the centralized States of the 20th century — not just by the fascists and the communists, but the democratic capitalists too." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/if-the-news-is-fake-imagine-history#:~:text=As%20the%20Cold,democratic%20capitalists%20too.)
 
 > "To what degree am I a sovereign, self-determining agent, and to what degree am I thinking I’m a sovereign, self-determining agent that is actually being influenced in ways I don’t even recognize?" - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=To%20what%20degree%20am%20I%20a%20sovereign%2C%20self%2Ddetermining%20agent%2C%20and%20to%20what%20degree%20am%20I%20thinking%20I%E2%80%99m%20a%20sovereign%2C%20self%2Ddetermining%20agent%20that%20is%20actually%20being%20influenced%20in%20ways%20I%20don%E2%80%99t%20even%20recognize%3F)
-
-> "Our ability to do choice-making well depends on our ability to sense-make well, which is why controlling peoples’ sense-making is the heart of the war that’s happening." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Our%20ability%20to%20do%20choice%2Dmaking%20well%20depends%20on%20our%20ability%20to%20sense%2Dmake%20well%2C%20which%20is%20why%20controlling%20peoples%E2%80%99%20sense%2Dmaking%20is%20the%20heart%20of%20the%20war%20that%E2%80%99s%20happening.)
-
-> "Why don’t we have group sense-making? Because you have a self-perpetuating system that includes the self-perpetuation of the memes that support the system." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=Why%20don%E2%80%99t%20we%20have%20group%20sense%2Dmaking%3F%20Because%20you%20have%20a%20self%2Dperpetuating%20system%20that%20includes%20the%20self%2Dperpetuation%20of%20the%20memes%20that%20support%20the%20system.)
 
 > "The first phase of the information war was marked by distinctively human displays of incompetence and brute-force intimidation. But the next stage, already underway, is being carried out through both scalable processes of artificial intelligence and algorithmic pre-censorship that are invisibly encoded into the infrastructure of the internet, where they can alter the perceptions of billions of people." - [A Guide to Understanding the Hoax of the Century - Thirteen ways of looking at disinformation](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation#:~:text=The%20first%20phase,billions%20of%20people.)
 

@@ -369,10 +369,6 @@ https://twitter.com/elonmusk/status/1599259281584402432
 
 - digitally we are in the soviet union - you're not allowed to freely migrate from one part to another - you need to ask permission. Interoperable identity & permanent addressing enables everything on top
 
-
-
-> "Throughout history, decentralization has been a remarkably effective evolutionary strategy. Just ask the Fungi Kingdom, which has continuously thrived for over 1.3 billion years. Uniquely adaptive masters of survival, fungi forgo a central “brain” in favor of a mycelium network: a branching, underground root system that distributes control throughout the organism. Mycelium networks efficiently allocate resources, respond to external stimuli, and remain functional even if one part of the organism is destroyed." - [source](https://guide.getzion.com/inspiration-for-zion)
-
 - DNS
     DNS was the original “decentralization” (although not in the crypto sense)
     RSS was an attempt for the next iteration
@@ -411,7 +407,7 @@ A specialized blockchain is required. Finance is mostly about specific accounts 
 
 
 Headjack is storage agnostic - it can be changed and yet still retrievable
-storage is ephemeral - addressing is forever
+storage is ephemeral - (strikethrough diamonds) addressing is forever
 Headjack is future proof
 Built with UX in mind - for high throughput/performance and low latency
 
@@ -473,3 +469,183 @@ https://www.rand.org/pubs/research_memoranda/RM3420.html
 > "If you decentralize, the system will recentralize, but one layer up. Something new will be enabled by decentralization. That sounds like [evolution](https://subconscious.substack.com/i/52021619/modularity-is-how-the-system-itself-evolves) through [layering](https://subconscious.substack.com/p/layered-protocols), like [upward-spiraling complexity](https://subconscious.substack.com/p/open-ended-tools-for-infinite-games#:~:text=upward%2Dspirals%20of%20evolutionary%20complexity). That sounds like progress to me." - [source](https://subconscious.substack.com/p/decentralization-enables-permissionless#:~:text=If%20you%20decentralize%2C%20the%20system%20will%20recentralize%2C%20but%20one%20layer%20up.)
 
 -->
+
+
+
+
+████████████████████████████████████████████████ starkware & zk stuff:
+
+ZK Whiteboard Sessions - Module One: What is a SNARK? by Dan Boneh
+https://www.youtube.com/watch?v=h-94UhJLeck
+
+VERY GOOD!!!
+read onwards from "Type of ZKPs (STARKs and SNARKs) and How They Work"
+https://zeeprime.capital/part-1-Can-We-Kill-Moloch-ZK-Basics-and-Virtual-Machines
+
+very good talk?
+ZKP Workshop 2022: Dan Boneh - Constructing Modern SNARKS
+https://www.youtube.com/watch?v=6psLQv5Hf_I
+
+https://www.notboring.co/p/zero-knowledge
+
+https://appliedzkp.org/
+https://semaphore.appliedzkp.org/
+
+https://www.researchgate.net/publication/221355016_How_to_Explain_Zero-Knowledge_Protocols_to_Your_Children
+
+https://github.com/noir-lang/noir
+
+https://pseudotheos.mirror.xyz/Q9154CY9CFaPzy6AgSlek8-ZBA_kSF_93MTKk-opHRw
+
+GREAT piece/overview about appchains
+https://medium.com/1kxnetwork/application-specific-blockchains-9a36511c832
+
+
+https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649
+
+Vitaly Yakovlev - Starknet dApps: How we built DeFi 3.0 with Cairo
+https://www.youtube.com/watch?v=v-TsuOxgOqM
+
+https://twitter.com/sreeramkannan/status/1548377279058743304
+
+https://twitter.com/sreeramkannan/status/1563615609925304320
+
+https://blog.nil.foundation/2022/07/01/starknet-integration.html
+
+https://twitter.com/sreeramkannan/status/1558986641116499968
+
+https://twitter.com/bkiepuszewski/status/1559900576888004609
+
+
+https://twitter.com/jon_charb/status/1555403452485861377
+https://members.delphidigital.io/reports/the-complete-guide-to-rollups
+
+https://twitter.com/jneu_net/status/1563199820742811649
+
+
+https://twitter.com/a16z/status/1555949616406732800
+
+
+https://a16zcrypto.com/measuring-snark-performance-frontends-backends-and-the-future/
+https://www.youtube.com/watch?v=tg6lKPdR_e4
+https://www.youtube.com/watch?v=cMAI7g3UcoI
+https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
+
+
+OMGOMGOMG use the UTXO model for parallel processing
+https://twitter.com/eshita/status/1546911467936440320
+
+
+
+
+https://twitter.com/jon_charb/status/1555403452485861377
+https://members.delphidigital.io/reports/the-complete-guide-to-rollups
+
+https://vitalik.ca/general/2022/08/04/zkevm.html
+^^ explainer on all the zk EVMs
+
+TODO: ask Sreeram how 2 million dydx tx fit into 10 mb/s of DA:
+https://twitter.com/apolynya/status/1517137629334056960
+
+
+
+https://www.youtube.com/watch?v=VKo00zQT0-E
+https://twitter.com/Scroll_ZKP/status/1554060160674701315
+https://twitter.com/Scroll_Intern_/status/1554643436531499008
+
+https://www.youtube.com/watch?v=4asIQyWwGko
+
+
+https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc
+
+
+https://twitter.com/bkiepuszewski/status/1540793333295075329
+https://twitter.com/gluk64/status/1539953204900790272
+https://twitter.com/gluk64/status/1539953208486936580
+https://twitter.com/gluk64/status/1539953212148654080
+https://twitter.com/gluk64
+- start collecting notes about different solutions - like starkware having vendor lock-in!
+
+https://blog.celestia.org/introducing-sovereign-rollups-to-developers/
+
+- ask starkware about cairo, zkEVM, Solidity & the Eth state merkle patricia trie
+    https://discord.com/channels/793094838509764618/793094838987128844/997172632321544194
+    https://discord.com/channels/793094838509764618/793094838987128844/997349007808536616
+
+
+- read about ZK
+    https://blog.matter-labs.io/zksync-2-0-hello-ethereum-ca48588de179
+    ask pseudotheos about the zkEVM
+        https://twitter.com/messages/743025386720747520-1458046241644892163
+    https://www.youtube.com/watch?v=DT8g3veR17k
+    https://consensys.net/blog/blockchain-explained/zero-knowledge-proofs-starks-vs-snarks/
+    https://docs.zksync.io/zkevm/#general
+    https://mirror.xyz/toddz.eth/8HPDEpf7FbirLbXJFeEfI719hN0w-VKITSs1NUgyFFE
+    https://www.alchemy.com/overviews/zkevm
+    https://www.google.com/search?q=zkevm&oq=zkevm&aqs=chrome.0.69i59j0i512l4j69i61l3.859j0j7&sourceid=chrome&ie=UTF-8
+- read the celestia links in blockchain.md
+    https://www.youtube.com/watch?v=6uLlTLE7qrQ&list=PLM-Xjhvin-uWN9ov74srLZIuJsbRSc2ou
+    https://www.youtube.com/watch?v=4L30t_6JBAg
+    https://www.youtube.com/watch?v=TyJp4pqB6u4
+    https://blog.matter-labs.io/evaluating-ethereum-l2-scaling-solutions-a-comparison-framework-b6b2f410f955
+    https://blog.matter-labs.io/zkrollup-vs-validium-starkex-5614e38bc263
+- the hard forking question
+    - also understand what enshrining means
+        https://twitter.com/apolynya/status/1507586019171835905
+        https://twitter.com/apolynya/status/1511623759786307586
+        https://forums.minaprotocol.com/t/enshrined-rollups-in-core-protocol/5676
+        https://www.google.com/search?q=what+is+an+enshrined+rollup&oq=what+is+an+enshrined+rollup&aqs=chrome..69i57j33i160l4.4439j0j7&sourceid=chrome&ie=UTF-8
+    https://www.reddit.com/r/ethereum/comments/vrx9xe/comment/if7auu7/
+
+
+https://twitter.com/fuellabs_/status/1480674488077275136
+
+
+
+
+████████████████████████████████████████████████ on the Ethereum state trie
+
+BIG PROBLEM: eth state limits in terms of tps & slowing throughput?
+Péter Szilágyi - Ethereum in numbers: Where TPS meets physics
+https://www.youtube.com/watch?v=TdsaVoJiy3g
+
+https://github.com/cosmos/cosmos-sdk/issues/6071
+
+https://www.youtube.com/results?search_query=ethereum+state+trie+growth
+
+https://ethereum.org/en/developers/tutorials/merkle-proofs-for-offline-data-integrity/
+
+https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/
+
+https://ethereum-magicians.org/t/protocol-changes-to-bound-witness-size/3885
+
+https://mirprotocol.org/blog/Reducing-state-size-on-Mir
+
+https://www.google.com/search?q=cosmos+state+account+merkle+proof&sxsrf=ALiCzsYYRr3PldZfQdWeqKJqNDjV6ger5A%3A1657725685322&ei=9eLOYsyNE-yGxc8P4ciC0Ao&ved=0ahUKEwiM3O60lfb4AhVsQ_EDHWGkAKoQ4dUDCA4&uact=5&oq=cosmos+state+account+merkle+proof&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGAFKBAhGGABQ4wFYpAhg_QloAXAAeACAAcUBiAGmCZIBAzAuOJgBAKABAcABAQ&sclient=gws-wiz
+
+https://medium.com/@eiki1212/ethereum-state-trie-architecture-explained-a30237009d4e
+
+
+"Fifth, Ethereum storage layout carries a huge overhead. The Ethereum storage layout highly relies on Keccak and a huge MPT[4], both of them are not zk-friendly and have a huge proving overhead. For example, Keccak hash is 1000x larger than Poseidon hash in circuit. However, if you replace Keccak with another hash, it will cause some compatibility problems for the existing Ethereum infrastructure."
+https://scroll.io/blog/zkEVM
+
+
+Accounts are integers and the state tree should reflect that - doesnt need to be a trie based on crypto addresses
+
+██████ ideas about page & book structure (& titles!)
+
+move from @handle to full names in citations in the book
+
+add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
+
+a data-driven society
+
+"the role of LLMs in interfacing (with data)"
+
+"self-regulation"
+
+Amending google’s failure (to organize the worlds information)
+
+TODO: try this service to read the text out loud?
+https://beta.elevenlabs.io/
+

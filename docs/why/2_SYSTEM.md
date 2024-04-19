@@ -352,6 +352,7 @@ We need to make excessive consumption and showing off uncool
 
 > "Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history. No purpose or place. We have no Great War, No Great Depression. Our great war is a spiritual war. Our great depression is our lives." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/747996-advertising-has-us-chasing-cars-and-clothes-working-jobs-we)
 
+> "It is not a stretch to say that almost our entire contemporary economy from top to bottom is designed to get us to want what we do not need. As a consequence, by participating in our current economy we find ourselves all too often “full but not fulfilled.”" - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=it%20is%20not%20a%20stretch%20to%20say%20that%20almost%20our%20entire%20contemporary%20economy%20from%20top%20to%20bottom%20is%20designed%20to%20get%20us%20to%20want%20what%20we%20do%20not%20need.%20As%20a%20consequence%2C%20by%20participating%20in%20our%20current%20economy%20we%20find%20ourselves%20all%20too%20often%20%E2%80%9Cfull%20but%20not%20fulfilled.%E2%80%9D)
 
 > "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
 
@@ -381,9 +382,13 @@ We need to make excessive consumption and showing off uncool
 La Dolce Vita in Italy: For visits to the countryside for lunch, dinner, or disco, "climate activist" Leonardo DiCaprio likes to take the helicopter from his luxury yacht, BILD reports.
 https://twitter.com/disclosetv/status/1678387920955232259
 
+Private jets are immoral (unless you can actually show the R/R - perhaps its ok for musk or a president) - how could you possibly expect normal people to listen to what you have to say about climate change if you don’t practice what you preach? Or if you don’t send your kids to war but expect everybody else to do so?
+
 > "Earth provides enough to satisfy every man's needs, but not every man's greed." - [Mahatma Gandhi](https://www.goodreads.com/quotes/30431-earth-provides-enough-to-satisfy-every-man-s-needs-but-not)
 
 > "So what are some things that need to be done? Build new values. Imagine if “self-actualization” becomes our number one value instead of “he who dies with the most toys wins.”" - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=So%20what%20are,most%20toys%20wins.%E2%80%9D)
+
+> "Our ability to give ourselves what we want has far outstripped our ability to sense what we need." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=our%20ability%20to%20give%20ourselves%20what%20we%20want%20has%20far%20outstripped%20our%20ability%20to%20sense%20what%20we%20need.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Accountability & Opaqueness

@@ -340,6 +340,14 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 > "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Reverse panopticon
+██████████████████████████████████████████████████████████████████
+
+opt-in or inverted panopticon
+https://en.wikipedia.org/wiki/Panopticon
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Other
 ██████████████████████████████████████████████████████████████████
 

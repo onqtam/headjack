@@ -119,6 +119,8 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 ██████████████████████████████████████████████████████████████████
 
 we are starved for meaning
+belonging
+connectedness
 
 > "When a person can't find a deep sense of meaning, they distract themselves with pleasure." - [Viktor E. Frankl](https://www.goodreads.com/quotes/5738688-when-a-person-can-t-find-a-deep-sense-of-meaning)
 
@@ -148,6 +150,8 @@ we are starved for meaning
 
 > "Every new medium transforms the nature of human thought. In the long run, history is the story of information becoming aware of itself." - [James Gleick](https://www.goodreads.com/quotes/427523-every-new-medium-transforms-the-nature-of-human-thought-in)
 
+> "If you look at the trajectory of life on Earth it's really about information processing." - [Manolis Kellis](https://youtu.be/wMavKrA-4do?t=657), computational biologist at MIT
+
 > "Not everybody can be famous but everybody can be great, because greatness is determined by service." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/147771-not-everybody-can-be-famous-but-everybody-can-be-great)
 
 > "Life's most persistent and urgent question is, 'What are you doing for others?'" - [Martin Luther King Jr.](https://www.azquotes.com/quote/158997)
@@ -164,6 +168,7 @@ we are starved for meaning
 Nietzsche's Wake-Up Call | John Vervaeke & Theo Von
 https://www.youtube.com/watch?v=uysmjkuP58U
 
+> "No economic system, however productive and however judiciously distributive can do its job of providing for our wellbeing if we are unable to accurately and consistently identify and share our real needs." - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=No%20economic%20system%2C%20however%20productive%20and%20however%20judiciously%20distributive%20can%20do%20its%20job%20of%20providing%20for%20our%20wellbeing%20if%20we%20are%20unable%20to%20accurately%20and%20consistently%20identify%20and%20share%20our%20real%20needs.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Time preference expansion
@@ -681,6 +686,18 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 > "If we can design and implement a technology-based initiative that radically changes the balance of power around both media and elections, we might catch the money power off balance and have window of opportunity." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=if%20we%20can%20design%20and%20implement%20a%20technology%2Dbased%20initiative%20that%20radically%20changes%20the%20balance%20of%20power%20around%20both%20media%20and%20elections%2C%20we%20might%20catch%20the%20money%20power%20off%20balance%20and%20have%20window%20of%20opportunity.)
 
+> "Over and over again, our survival depended on becoming capable of leaving one niche and adapting to a new one. Ultimately, this problem itself *became* our fundamental niche. Evolution finally found a way to create a species whose niche is niche transition." - [Situational Assessment 2019: AOC Edition, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2019-aoc-edition-b6e31897f35c#:~:text=Over%20and%20over%20again%2C%20our%20survival%20depended%20on%20becoming%20capable%20of%20leaving%20one%20niche%20and%20adapting%20to%20a%20new%20one.%20Ultimately%2C%20this%20problem%20itself%20*became*%20our%20fundamental%20niche.%20Evolution%20finally%20found%20a%20way%20to%20create%20a%20species%20whose%20niche%20is%20niche%20transition.)
+
+Moving from hill climbing to valley crossing
+https://twitter.com/jgreenhall/status/1647949521010171909
+
+> "What is valley crossing? Its when you make a locally irrational choice on the hope that (maybe) there is a global optima somewhere within your range of agency - but beyond your range of perception." - [Jordan Hall](https://twitter.com/jgreenhall/status/1647949530011189251)
+
+> "While valley crossing is irrational from the local perspective of a given organism, from the larger perspective of the genome, having some fraction of organisms be wired to valley cross is a net win." - [Jordan Hall](https://twitter.com/jgreenhall/status/1647949532729167872)
+
+the way to enable the capacity for valley crossing is to boot up global consciousness
+something beyond our cells, the invidivual or the genome with all of its rivalrous competitiveness and hill climbing affinity
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
 ██████████████████████████████████████████████████████████████████
@@ -1031,6 +1048,8 @@ Few people could predict uber and airbnb - most were extremely sceptical. The sa
 # SECTION: The best that money can't buy
 ██████████████████████████████████████████████████████████████████
 
+property rights
+
 > "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
 
 ██████████████████████████████████████████████████████████████████
@@ -1094,4 +1113,14 @@ But a problem not fully understood is unsolvable.
 > "The number one priority for people today should be creating a winning, good attractor for our civilization." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=the%20number%20one%20priority%20for%20people%20today%20should%20be%20creating%20a%20winning%2C%20good%20attractor%20for%20our%20civilization.)
 
 The GB is the most meta high impact thing you could be doing - improving the capacity for cooperation and sensemaking for humanity
+
+
+100th anniversary from one of these 2 years as a goal
+July 16, 1945
+https://en.wikipedia.org/wiki/Trinity_(nuclear_test)
+August 6, 1945
+https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
+
+kennedy quote - choose to go to the moon not because it is easy but because it is hard
+
 
