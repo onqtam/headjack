@@ -63,6 +63,14 @@ In this chapter we discuss tens of problems - perhaps up to a hundred - all scat
 
 > "Any conversation I have about innovation starts with the ultimate goal." - [Sergey Brin](https://www.azquotes.com/quote/1104765)
 
+# why quotes:
+
+- the sources deserve more than a number in angle brackets and a reference (and no actual quote) burried at the end of a book
+- saves time - not having to rephrase their message
+- is lengthier, but more interesting to read
+- provides multiple perspectives that converge on the same issues and solutions
+- makes this book unique in the way it's written/composed
+
 
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 

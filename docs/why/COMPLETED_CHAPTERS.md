@@ -1,20 +1,6 @@
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Matchmaking
-██████████████████████████████████████████████████████████████████
-
-> "If you had a map of the other person’s knowledge tree, colored by interest, you could easily figure out what to talk about. But we don’t carry our colored knowledge trees around, so we’re forced to use the highly inefficient, sequential system of talking to touch on lots of topics until we find something mutually interesting." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=If%20you%20had,something%20mutually%20interesting.)
-
-> "Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Meeting%20new%20people%20is%20a%20race%20to%20find%20the%20most%20interesting%20overlap%20areas%20between%20your%20knowledge%20trees%20as%20fast%20as%20possible.)
-
-
-How do we collectively help improve the matchmaking process in every field?
-
-Friendship matchmaking where you deliberately enter your goals initially
-
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Argument maps / Debate Maps
 ██████████████████████████████████████████████████████████████████
 

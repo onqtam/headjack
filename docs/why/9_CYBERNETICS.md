@@ -100,47 +100,6 @@ https://youtu.be/gfKcVbNd7Xc?t=3238
 > "Because we retain more of our information now than at any previous point in human history, it takes much more effort to delete or remove unwanted information than to accumulate it. This is the ultimate entropy cost of generating additional information." - [Wikipedia page about James Gleick's book "The Information: A History, a Theory, a Flood"](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood#:~:text=because%20we%20retain%20more%20of%20our%20information%20now%20than%20at%20any%20previous%20point%20in%20human%20history%2C%20it%20takes%20much%20more%20effort%20to%20delete%20or%20remove%20unwanted%20information%20than%20to%20accumulate%20it.%20This%20is%20the%20ultimate%20entropy%20cost%20of%20generating%20additional%20information)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Bayesian Inference
-██████████████████████████████████████████████████████████████████
-
-fighting misinformation with a logical reasoning system
-Julia Galef: Think Rationally via Bayes' Rule | Big Think
-https://www.youtube.com/watch?v=NEqHML98RgU
-A visual guide to Bayesian thinking
-https://www.youtube.com/watch?v=BrK7X_XlGB8
-https://www.lesswrong.com/posts/x7kL42bnATuaL4hrD/bayesian-reasoning-explained-like-you-re-five
-https://www.edge.org/response-detail/27098
-
-> "Inference is actually quite close to a theory of everything – including evolution, consciousness, and life itself." - [Karl Friston](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference#:~:text=Inference%20is%20actually%20quite%20close%20to%20a%20theory%20of%20everything%20%E2%80%93%20including%20evolution%2C%20consciousness%2C%20and%20life%20itself.)
-
-> "The logical reasoning system known as Bayesian inference is the only surefire way to acquire valid knowledge about the world." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=the%20logical%20reasoning%20system%20known%20as%C2%A0Bayesian%20inference%C2%A0is%20the%20only%20surefire%20way%20to%20acquire%20valid%20knowledge%20about%20the%20world.)
-
-> "[Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) is a unifying approach to determining truth. Absolute truth is never attainable, but we do get closer to understanding objective reality by formulating and testing theories." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=Bayesian%20epistemology%C2%A0is%20a%20unifying%20approach%20to%20determining%20truth.%20Absolute%20truth%20is%20never%20attainable%2C%20but%20we%20do%20get%20closer%20to%20understanding%20objective%20reality%20by%20formulating%20and%20testing%20theories.)
-
-> "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
-
-> "Our aim as scientists is objective truth; more truth, more interesting truth, more intelligible truth. We cannot reasonably aim at certainty. Once we realize that human knowledge is fallible, we realize also that we can never be completely certain that we have not made a mistake." - [Karl Popper](https://www.goodreads.com/quotes/770441-our-aim-as-scientists-is-objective-truth-more-truth-more)
-
-> "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
-
-> "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
-
-> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
-
-TODO: the good regulator theorem (aka the Internal Model Principle) by Ross Ashby - any system that regulates/controls another system must have a model of that system ==> organisms model their environment
-The law of requisite variety - tells us something about the computational sophistication of the internal model - the complexity of the model must be as complex as the challenges of the niche
-> "Every good regulator must contain a model of the system." - [Good regulator, Wikipedia](https://en.wikipedia.org/wiki/Good_regulator#:~:text=every%20good%20regulator%20must%20contain%20a%20model%20of%20the%20system)
-
-evolution is an inference engine 
-the organisms that persist are the models that are best able to predict the environment
-
-> "The nearest each of us can come to God is by loving the truth." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716546)
-
-> "All of humanity is in peril of extinction if each one of us does not dare, now and henceforth, always to tell only the truth, and all the truth, and to do so promptly - right now." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1267424)
-
-> "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Agency
 ██████████████████████████████████████████████████████████████████
 
