@@ -838,10 +838,70 @@ https://www.google.com/search?q=this+is+healthy
 > "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Fashion, mimetic desire and mimicry
+# SECTION: Fashion, Celebrity, mimetic desire and mimicry
 ██████████████████████████████████████████████████████████████████
 
 > "Rather than reject the notion of popularity, we should pay close attention to how things get to be popular and try to see how more helpful ideas could be embraced with equally widespread enthusiasm." - [Alain de Botton](https://www.vox.com/conversations/2017/4/29/15468242/9-questions-alain-de-botton-popular-culture-philosophy-humanities#:~:text=Rather%20than%20reject%20the%20notion%20of%20popularity%2C%20we%20should%20pay%20close%20attention%20to%20how%20things%20get%20to%20be%20popular%20and%20try%20to%20see%20how%20more%20helpful%20ideas%20could%20be%20embraced%20with%20equally%20widespread%20enthusiasm.)
+
+> "Celebrity is to society as sex is to biology, Pirsig says. Celebrity is what forms and moves the culture. While it’s a force in societal evolution, it doesn’t do much for intellectual evolution. Look at some of the people most followed in the world on social media. Justin Beiber. Kim Kardashian. Ariana Grande. Incredible entrepreneurs and movement builders, but not intellectuals." - [On Celebrity - Why living in public is worse for you, but better for others, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-celebrity#:~:text=Celebrity%20is%20to,but%20not%20intellectuals.)
+
+> "The greatest ambition is to make the truth popular. We need the most useful ideas to learn all the arts of populism. It may be idiotic and lamentable that this is what human nature tends to be like. But since it is what human nature tends to be like, rejecting it is not a useful option. Anyone who seeks to protect the truth from vulgarization is, in effect (though with noble intentions), guaranteeing that it cannot be powerful in the world.”
+>
+> There’s also a weird paradox here. There’s a war of ideas. If wise people’s thoughts don't spread, other’s thoughts will. And the people who want their ideas to spread the most are rarely the ones who should be spreading ideas. 
+>
+> So. The tradeoff isn’t just between a rich inner life and an influential external one, it’s between a private life and having the future of our morals lie in the hands of those who shouldn’t be guiding them." - [On Celebrity - Why living in public is worse for you, but better for others, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-celebrity#:~:text=The%20greatest%20ambition,be%20guiding%20them.)
+
+> "Elites have abandoned their responsibility to the masses: they have stopped celebrating the habits and structures that they abide by in order to be successful, and have indirectly encouraged the opposite." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=elites%20have%20abandoned%20their%20responsibility%20to%20the%20masses%3A%20they%20have%20stopped%20celebrating%20the%20habits%20and%20structures%20that%20they%20abide%20by%20in%20order%20to%20be%20successful%2C%20and%20have%20indirectly%20encouraged%20the%20opposite.)
+
+> "Our new elites are in denial that they’re elite. Our present aristocratic oligarchs think aristocracy is evil and that they personally are fighting for the little people.
+>
+> Pareto called this the aristocracy of lions vs. the aristocracy of foxes. Lions are proud, forceful aristocrats who explicitly own their position as leaders. Foxes, however, are humble servants who will forever deny that they’re in charge. While lions want to run the world, foxes want to save the world.
+>
+> Because our new elites are foxes and not lions, they no longer feel comfortable celebrating productive habits for the rest of society.
+>
+> Our old elites used to share a sense of common responsibility and noblesse oblige — not just to give back, but to expect the masses to act in a way that would let them rise up as well. Old elites knew that on average they had more productive habits than the masses (e.g. marital fidelity, two-parent households, steady employment, etc), and so it was thus their job to provide the masses an example to aspire to.
+>
+> But our new elites are less likely to admit they’re more productive; if anything, they deny it. While this humility seems generous on the surface — it’s nicer to imply that elites are successful solely because of privilege and not also because they’re more productive — this also denies the elites of any responsibility to the masses.
+>
+> To be sure, new elites do recognize their privilege, but this only necessitates that they give resources, not that they also need to transmit the right habits. So they try to provide a safety net which is great, but they don’t bestow the behaviors that would help the masses best utilize that safety net after they get it. Give a man fish, sure, but also teach him how to fish, etc." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=our%20new%20elites,to%20fish%2C%20etc.)
+
+> "One area where elites have shielded the masses from responsibility is marriage. Having a child out of wedlock used to make you a pariah. Now having a baby as a single parent is sometimes [celebrated](https://www.brookings.edu/blog/social-mobility-memos/2015/05/08/celebrating-single-mothers-by-choice/). I understand the desire to destigmatize — after all, someone who has a baby out of wedlock may already be in a tough position, so why make it harder? However, the slippery slope from destigmatizing something to tolerating it and then eventually to celebrating and promoting it seems inevitable." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=One%20area%20where,it%20seems%20inevitable.)
+
+> "There is a significant difference between being nice and being good. Being non-judgmental may seem like the nice thing to do, but it has real costs: children living in fatherless homes are [ten times more likely to experience abuse](https://www.center4research.org/child-abuse-father-figures-kind-families-safest-grow/) (often from the mother’s boyfriends) or neglect than those who grow up with fathers. By destigmatizing fatherlessness, we are implying that those costs stem from the continued stigma on single parents, and not from the consequences of the actions the stigma aimed to prevent—fatherlessness itself." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=there%20is%20a,prevent%E2%80%94fatherlessness%20itself.)
+
+> "The luxury belief class thinks that the unhappiness associated with certain behaviors and choices primarily stems from the negative social judgments they elicit, **rather than the behaviors and choices themselves.**”
+>
+> But in fact, negative social judgments serve as guardrails to deter detrimental decisions that lead to unhappiness.
+>
+> To avoid misery we have to first admit that certain actions and choices are actually in and of themselves undesirable—fatherlessness, obesity, substance abuse, crime, and so on—and not simply in need of normalization." - [Rob Henderson](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=%E2%80%9CThe%20luxury%20belief,need%20of%20normalization.%E2%80%9D)
+
+> "One ostensible reason we withhold stigma is to grant people dignity, which here means not judging them for making choices that hurt themselves and those around them. This non-judgmentalism, however, is an ineffective version of dignity. Real dignity is the feeling one gets when they know that they have done the best that they can with what they have. Real dignity cannot be given. It can only be earned." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=One%20ostensible%20reason,only%20be%20earned.)
+
+> "By destigmatizing behaviors that are harmful to social cohesion — e.g. not getting married, not taking a job — the new elite are enabling the masses to stay poor, all in the name of not making them feel bad about it. Norms like marriage will have higher adherence if breaking them is stigmatized. That’s why the stigma exists in the first place—it’s the OG nudge!" - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=By%20destigmatizing%20behaviors,the%20OG%20nudge!)
+
+> "There is a general pattern that applies to lots of situations: In order to make life easier for the person at the fringes, we sacrifice cohesion for the majority. We pathologize the normal and normalize the pathological. While reversing the direction of stigma may be helpful for the struggling person who can’t change their circumstance, it may also make it harder for the struggling person who can improve their condition to get help.
+>
+> Of course, we should try to find a way to have strong norms without shaming people. If we need to keep certain stigmas, we should also try to solve for their downsides. After all, there are many injustices that people can’t change, that they’re suffering through due to no fault of their own. Life is unfair, there is no equality of opportunity." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=There%20is%20a%20general,equality%20of%20opportunity.)
+
+> "The new elites say: You don’t need religion, [religion’s dumb](https://aninjusticemag.com/please-respect-that-i-truly-believe-religion-is-harmful-e9a06370b2f3). You don't need family, [family’s oppressive](https://www.dezeen.com/2019/04/18/nuclear-family-home-tool-repression-phineas-harper/). You don’t need marriage, [marriage’s sexist](https://www.teenvogue.com/story/marriage-racist-sexist-history). You don’t need your relationship even, [it’s holding you back](https://www.thecut.com/2018/02/married-women-on-tinder.html). You don’t need kids, [you’ll hate being a parent](https://www.macleans.ca/regretful-mothers/). You don’t need to send kids to gifted programs, [it won’t make them better anyway](https://hechingerreport.org/proof-points-gifted-programs-provide-little-to-no-academic-boost-new-study-says/). You don’t need to work harder, [everyone else should work less hard](https://www.refinery29.com/en-gb/work-hard-and-youll-succeed-is-a-myth).
+>
+> You don’t need to do any of those things, but which of those things do the elites do? [All of them](https://eriktorenberg.substack.com/p/the-hypocrisy-of-elites).
+>
+> Today’s elites are not only denying that they’re elite, they’re denying other people the opportunity to become elite by claiming it’s impossible, minimizing the effects of hard work, or celebrating the opposite of what they practice.
+>
+> In not wanting to champion, say, fitness, marriage, and hard work, elites end up encouraging [fat pride](https://en.wikipedia.org/wiki/Fat_acceptance_movement), [divorce](https://www.theatlantic.com/family/archive/2021/12/divorce-parenting/621054/), and [anti-work](https://www.bbc.com/worklife/article/20220126-the-rise-of-the-anti-work-movement)—all while being fit, married, and hard-working themselves.
+>
+> Today’s elites are too ashamed to admit they’re elite, let alone acknowledge the behaviors that keep them elite. While elites think they’re being egalitarian, by celebrating something different from what they’re practicing, they’re actually just widening the gap between them and everyone else." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=The%20new%20elites%20say,them%20and%20everyone%20else.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: choice architecture
+██████████████████████████████████████████████████████████████████
+
+> "A famous example of a “nudge” is that when you set up a cafeteria in the school, if you put the healthy food as the first thing you see, you’re more likely to stock up on healthy food rather than the dessert. Now there's lots of ways we can organize choice architectures, but to pretend that you can create a situation in which there's no choice architecture is impossible—there is always a choice architecture." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=A%20famous%20example,a%20choice%20architecture.)
+
+> "Eliminating the stigma eliminates the choice architecture, the guardrails that kept people on the right track. Ripping out the stigma because shame hurts ends up hurting them even more, because it no longer saves them from the act that was stigmatized. And it create a self perpetuating loop where their lives get worse and we think it’s because of the stigma as opposed to the negative behavior they’re doing that the stigma aimed to prevent in the first place." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=Eliminating%20the%20stigma,the%20first%20place.)
+
+> "Stigma and other informal norms set up a basic package of signals for individuals that may not offer guaranteed happiness but offer insurance against patented forms of misery. Most people follow the informal norms of their society willingly or blindly, as they are the “default”. If we set the default to “choose your own adventure”, the knowledge encoded in previous traditions is lost and people are led to repeat the same mistakes again." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=stigma%20and%20other,same%20mistakes%20again.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The future of governance & democracy

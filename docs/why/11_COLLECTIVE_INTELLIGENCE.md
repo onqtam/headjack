@@ -212,6 +212,69 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "We humans distinguish ourselves from other living agents by our ability to not only react to the environment but also establish goals and then set out to accomplish them. This might seem to be a challenge for a theory which suggests that all behavior is in the service of entropy minimization, but the FEP accounts for this quite elegantly as well. In this view, when we set a goal for ourselves, we are making a special kind of prediction about the world. This prediction is one that we know goes against the current sensory evidence, thus increasing free energy. Instead of updating our beliefs to account for the world (and in essence give up on the goal), what we do instead is to set out to act in the world in order to ensure that the sensory evidence corresponds to our prediction, and minimize the free energy in the process... We make a prediction about how we would like the world to be, and then act in order to make that prediction come true." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
 
+
+> "What if we could leverage the wisdom of crowds in a systematic way  —  if we could separate the experts from the charlatans  —  and then have the experts weigh in on crucial decisions?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20leverage%20the%20wisdom%20of%20crowds%20in%20a%20systematic%20way%20%E2%80%8A%E2%80%94%20%E2%80%8Aif%20we%20could%20separate%20the%20experts%20from%20the%20charlatans%20%E2%80%8A%E2%80%94%20%E2%80%8Aand%20then%20have%20the%20experts%20weigh%20in%20on%20crucial%20decisions%3F)
+
+> "What if we could aggregate people who are working on the front lines of national security, public health, drug development, movies, government funded projects, trade agreements, banks —  and ask them whether their initiatives are on track?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20aggregate%20people%20who%20are%20working%20on%20the%20front%20lines%20of%20national%20security%2C%20public%20health%2C%20drug%20development%2C%20movies%2C%20government%20funded%20projects%2C%20trade%20agreements%2C%20banks%20%E2%80%94%20%E2%80%8Aand%20ask%20them%20whether%20their%20initiatives%20are%20on%20track%3F)
+
+> "What if, more broadly, everyone had skin in the game for their opinions? What if people had a financial incentive to be diligent in their predictions? What if people put their money where their mouths are? Could this help us make better decisions? That is the hope and promise of prediction markets." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%2C%20more,of%20prediction%20markets.)
+
+> "Politicians make baseless predictions with no accountability, while the media profits from sensationalist journalism. Pundits of all stripes have no skin in the game. Even when they get things wrong, they typically don’t go back to correct themselves. Experts don’t have incentives to speak up. Too much to lose. Charlatans, however, make baseless predictions to build an audience. If they’re wrong, their tribe still supports them. Celebrities are winning The War of Ideas. Tribalism above truth. Entertainment over everything. In an era of fake news, prediction markets can make a big impact." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Politicians%20make%20baseless,a%20big%20impact.)
+
+> "Prediction markets are truth-seeking machines. By forcing people to put their money where their mouths are, people now focus on being correct, rather than being liked, popular, or diplomatic. If they’re unwilling to bet, they’ll be discredited. If they’re wrong, they’ll lose money and reputation. Vice versa, if they win, expertise will be elevated, humility will be appreciated, and charlatanism will be eliminated." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=prediction%20markets%20are%20truth,charlatanism%20will%20be%20eliminated.)
+
+> "It’s not entirely wisdom of crowds  —  it’s wisdom of the “right” crowds  —  the experts. And, just as important, it silences (or cripples) the blowhards." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=It%E2%80%99s%20not%20entirely%20wisdom%20of%20crowds%20%E2%80%8A%E2%80%94%E2%80%8A%20it%E2%80%99s%20wisdom%20of%20the%20%E2%80%9Cright%E2%80%9D%20crowds%E2%80%8A%20%E2%80%94%20%E2%80%8Athe%20experts.%20And%2C%20just%20as%20important%2C%20it%20silences%20(or%20cripples)%20the%20blowhards.)
+
+> "By helping aggregate more information, decision markets might allow us to more accurately estimate the consequences of important decisions, and in the process elevate experts and drown out post-truth charlatans." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=by%20helping%20aggregate%20more%20information%2C%20decision%20markets%20might%20allow%20us%20to%20more%20accurately%20estimate%20the%20consequences%20of%20important%20decisions%2C%20and%20in%20the%20process%20elevate%20experts%20and%20drown%20out%20post%2Dtruth%20charlatans.)
+
+> "In a Futarchy, governments can do the following: 1) allow citizens to democratically vote on which metrics to optimize for and 2) create markets to let the wisdom of the crowd inform how to reach those goals. Democracy tells us what we want while speculators bet on how to get it. The Government could ask its citizens to rank order their priorities (GDP, education, and healthcare, for example), and then optimize against those priorities. Then, the Futarchy optimizes on that vector." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=In%20a%20Futarchy,on%20that%20vector.)
+
+> "When democracy was invented, the world was very different. Interests were more regional than they are today, and the cost of communicating was much higher. These factors made sending regional representatives to a central legislature an obvious democratic strategy. Nowadays, politicians don't win by telling the truth or making reasonable arguments. Under a Futarchy, there would at least be some market for truth-telling politicians." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=When%20democracy%20was,truth%2Dtelling%20politicians.)
+
+> "Not only does a Futarchy help us make better decisions, it helps us make quicker, more scalable solutions by automating the process & reducing overhead. Right now, our government is bloated and its main business model is entrenching itself. Perhaps a Futarchy could fix that." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Not%20only%20does%20a%20Futarchy%20help%20us%20make%20better%20decisions%2C%20it%20helps%20us%20make%20quicker%2C%20more%20scalable%20solutions%20by%20automating%20the%20process%20%26%20reducing%20overhead.%20Right%20now%2C%20our%20government%20is%20bloated%20and%20its%20main%20business%20model%20is%20entrenching%20itself.%20Perhaps%20a%20Futarchy%20could%20fix%20that.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Bayesian Inference
+██████████████████████████████████████████████████████████████████
+
+fighting misinformation with a logical reasoning system
+Julia Galef: Think Rationally via Bayes' Rule | Big Think
+https://www.youtube.com/watch?v=NEqHML98RgU
+A visual guide to Bayesian thinking
+https://www.youtube.com/watch?v=BrK7X_XlGB8
+https://www.lesswrong.com/posts/x7kL42bnATuaL4hrD/bayesian-reasoning-explained-like-you-re-five
+https://www.edge.org/response-detail/27098
+
+> "Inference is actually quite close to a theory of everything – including evolution, consciousness, and life itself." - [Karl Friston](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference#:~:text=Inference%20is%20actually%20quite%20close%20to%20a%20theory%20of%20everything%20%E2%80%93%20including%20evolution%2C%20consciousness%2C%20and%20life%20itself.)
+
+> "The logical reasoning system known as Bayesian inference is the only surefire way to acquire valid knowledge about the world." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=the%20logical%20reasoning%20system%20known%20as%C2%A0Bayesian%20inference%C2%A0is%20the%20only%20surefire%20way%20to%20acquire%20valid%20knowledge%20about%20the%20world.)
+
+> "[Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) is a unifying approach to determining truth. Absolute truth is never attainable, but we do get closer to understanding objective reality by formulating and testing theories." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=Bayesian%20epistemology%C2%A0is%20a%20unifying%20approach%20to%20determining%20truth.%20Absolute%20truth%20is%20never%20attainable%2C%20but%20we%20do%20get%20closer%20to%20understanding%20objective%20reality%20by%20formulating%20and%20testing%20theories.)
+
+> "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
+
+> "Our aim as scientists is objective truth; more truth, more interesting truth, more intelligible truth. We cannot reasonably aim at certainty. Once we realize that human knowledge is fallible, we realize also that we can never be completely certain that we have not made a mistake." - [Karl Popper](https://www.goodreads.com/quotes/770441-our-aim-as-scientists-is-objective-truth-more-truth-more)
+
+> "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
+
+> "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
+
+> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
+
+TODO: the good regulator theorem (aka the Internal Model Principle) by Ross Ashby - any system that regulates/controls another system must have a model of that system ==> organisms model their environment
+The law of requisite variety - tells us something about the computational sophistication of the internal model - the complexity of the model must be as complex as the challenges of the niche
+> "Every good regulator must contain a model of the system." - [Good regulator, Wikipedia](https://en.wikipedia.org/wiki/Good_regulator#:~:text=every%20good%20regulator%20must%20contain%20a%20model%20of%20the%20system)
+
+evolution is an inference engine 
+the organisms that persist are the models that are best able to predict the environment
+
+> "The nearest each of us can come to God is by loving the truth." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716546)
+
+> "All of humanity is in peril of extinction if each one of us does not dare, now and henceforth, always to tell only the truth, and all the truth, and to do so promptly - right now." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1267424)
+
+> "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Multiperspectival viewing
 ██████████████████████████████████████████████████████████████████

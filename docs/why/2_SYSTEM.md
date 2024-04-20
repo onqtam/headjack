@@ -269,6 +269,90 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Oligarchy & Regulatory Capture
+██████████████████████████████████████████████████████████████████
+
+> "The [Iron Law of Oligarchy](https://en.wikipedia.org/wiki/Iron_law_of_oligarchy) states that all organizations, including those committed to democratic ideals and practices, will inevitably succumb to rule by an elite few (an oligarchy). The theory states that true democracy can't happen mechanically, because a large number of people cannot coordinate or organize. Only small groups can organize. So whenever you have “democracy” or a large number of people who are supposed to coordinate, they simply can’t. So instead a small number of people who can coordinate seize all the power." - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/daos-and-the-iron-law-of-oligarchy#:~:text=the%20Iron%20Law%20of%20Oligarchy%20states,can%20coordinate%20seize%20all%20the%20power.)
+
+> "The cycle from democracy to oligarchy often looks like this:
+>
+> First, a large democratic group is formed. Everyone tries to have a say. This creates conflict, and all discussions go on for a long time as they try to resolve the conflict. Most people leave because the decision-making process is taking too long.
+>
+> Eventually, fewer people remain and some of them present their plans. The crowd picks the plans that make the most sense and the planners get designated as leadership.
+>
+> The planners slowly turn into the elite and start to reinforce their power. These elites also begin to control access to information and become progressively less and less accountable to the rank and file members.
+>
+> Over time, the oligarchy develops values that are at odds with its regular members. Elites become higher status, and feel that they must have some way of [differentiating themselves from the democratic masses](https://eriktorenberg.substack.com/p/beliefs-are-fashions). They slowly begin to push for things that are [good for elites but not necessarily good for the rest of the group](https://eriktorenberg.substack.com/p/the-hypocrisy-of-elites).
+>
+> Once it is in place, democratic members lack the means to displace the oligarchy. It would require coordination that democracies simply don’t have. Additionally, the oligarchy won out as the most effective structure due to its strategic capabilities. For this reason, in any formally democratic organization, power will always slowly disperse away from members and into the hands of an elite." - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/daos-and-the-iron-law-of-oligarchy#:~:text=The%20cycle%20from,of%20an%20elite.)
+
+
+> "In the same way the government outsources to the private sector the censorship it couldn’t do otherwise, the private sector outsources to government monopoly-protecting-regulations that it couldn’t do otherwise. It’s the powerful keeping each other powerful." - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=In%20the%20same%20way%20the%20government%20outsources%20to%20the%20private%20sector%20the%20censorship%20it%20couldn%E2%80%99t%20do%20otherwise%2C%20the%20private%20sector%20outsources%20to%20government%20monopoly%2Dprotecting%2Dregulations%20that%20it%20couldn%E2%80%99t%20do%20otherwise.%20It%E2%80%99s%20the%20powerful%20keeping%20each%20other%20powerful.)
+
+> "In the same way the government outsources to the private sector the censorship it couldn’t do otherwise, the private sector outsources to government monopoly-protecting-regulations that it couldn’t do otherwise. It’s the powerful keeping each other powerful. 
+>
+> This is why a lot of business has gotten politicized over the past few years. It's not just that people just care more about politics, which is kind of the conventional explanation, it’s that there are attempts to politically control companies for this specific purpose, because it's the escape hatch to be able to do things the government itself can't do.
+>
+> One way to think about this is to imagine if private companies were actually part of the government. To paraphrase a line of thinking others have explained far better: If Harvard were the US department of expertise, would anything really change? If the Brookings Institution was the US department of public policy analysis would anything really change? If The New York Times was the US department of information would anything really change? If Google was the US department of search would anything really change?” If the answer is “little or none”, you know what they are today." - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=In%20the%20same,they%20are%20today.)
+
+> "Not democratic? How could we not be democratic? Well. Let’s think about it. What does democracy imply? That the people make the decisions. Did you vote for the War in Iraq? For our k-12 system? For our healthcare system? For any of the 3 letter agencies?
+>
+> The truth is that 99% of government employees are not accountable to a market nor a democratic process. Neither bought by a customer nor picked by a voter. Which is why democracy isn’t a good way of describing what’s actually happening.
+>
+> And how could it? The reality is that power is always wielded by a tightly organized minority group against a disorganized mess. This is because the masses cannot organize. For a few structural reasons:
+>
+> First, you can’t get everyone in the room at the same time. Second, they neither have the skills nor interest nor the time to educate themselves on the issues, let alone organize for power. A crowd without organized leadership will simply devolve into a rabble. Think Occupy Wall Street.
+>
+> In addition to technical reasons, there are psychological reasons. Most people want to be led. They don’t want to figure out every single thing for themselves. They want to outsource the hard decisions and questions to other leaders far more compelling than themselves. And for the people who want to lead, no amount of power is ever enough. People who acquire power always want to consolidate and extend it. As they say, absolute power corrupts absolutely." - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=Not%20democratic%3F%20How,power%20corrupts%20absolutely.)
+
+> "The present Oligarchy is the fused managerial elites and civil rights state. They reinforce and protect each other. Civil rights is the political story that this oligarchy tells to hold power. Let us rule, and we will smash all oppressive hierarchies. Except our own, of course.
+>
+> The boards and senior executive teams are just like this too. They will do exactly what is expected of them as members of the oligarchic elite. They have the exact same politics as their peers in that structure. And they all implement the same policies at the same time.
+>
+> Indeed: We have a theocratic oligarchy wearing the suit of a representative democracy. The oligarchy spans government officials and bureaucrats as well as heads of companies, universities, media properties, foundations, etc. These people care immensely about what their peers at Davos, at Aspen, in the pages of the New York Times, at Harvard, at their dinner parties think. It is very important that they all be in exact alignment at all time." - [America the Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/america-the-oligarchy#:~:text=The%20present%20Oligarchy,at%20all%20time.)
+
+
+> "As corporations scale, they fear anti-trust, so they depend on the government to let them survive. Governments also depend on companies for tax dollars and support on basic services. The private sector manipulates the public sector via campaign finance and lobbyists, the public sector manipulates the private through regulation and subsidies. 
+>
+> Burnham, Schumpeter, and others observed that the closer you get to government, the more you see how the government operates in conjunction with any given industry. The field of public choice has a name for this, regulatory capture: where corporations gain so much power in the government that they “capture” their regulator and end up implementing regulations in their industry that have the effect of cementing their market positions in place and preventing new competition. We see this in pharma, housing, healthcare, education, taxi cab industry — nearly every regulated industry. 
+>
+> But you also see the reverse happening at the same time, where the government captures companies." - [Burnham, Elon, and The Revenge of Entrepreneurial Capitalism, by Erik Torenberg](https://eriktorenberg.substack.com/p/burnham-elon-and-the-revenge-of-entrepreneurial#:~:text=As%20corporations%20scale,captures%20companies.)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Appeals to authority & the information supply chain
+██████████████████████████████████████████████████████████████████
+
+> "Appeals to authority run more of society than we realize: Who designs government policies? Experts. Who do journalists quote in newspapers? Experts. And who are these experts? Professors. Who funds these professors? The government. Who votes for the government? The public. Who educates the public? Professors and journalists. Oh. 
+>
+> Balaji calls this the information supply chain: Stanford does a study which gets published in a peer reviewed journal, like [Nature](https://www.nature.com/) or [Science](https://www.science.org/). That study is then written about in the New York Times and becomes conveyed as truth. Finally, the U.S. Government then enacts some policy based broadly on that original study, claiming their action is based in science. 
+>
+> This phenomenon is codified deeply into our culture. Take Wikipedia as another example. If you wanted to know where the information came from on a given Wikipedia page, you'd see it came from "[reliable sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources)". Who contributes to those "reliable sources"? What exactly is a reliable source? Wikipedia explains in very clear English what a reliable source is. Get ready for it. A reliable source is a source….that’s reliable.
+>
+> Is there a mechanism for determining whether the NYT is or isn't a reliable source? Not really. It’s arbitrary. The NYT is grandfathered in. The NYT could write nonsense everyday, but who keeps track? Who even cares? For most people, it all gets lost in the chaos. Sure, they lose some subscribers on the red team. But the blue team cheers and doubles down on their subscriptions." - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=appeals%20to%20authority,on%20their%20subscriptions.)
+
+> "Once someone has been blessed—as long as they have the morally right opinions—they face little accountability for repeatedly making incorrect claims or wrong predictions. The tautology of the elites is that elites remain elite because they’re elite. QED." - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=once%20someone%20has,they%E2%80%99re%20elite.%20QED.)
+
+> "The core function of science is not peer review, publishing in a prestigious journal, or having an academic affiliation. It’s independent replication — the repetition of an experiment such that the variance of that experiment can be better estimated. 
+>
+> To say that true scientific inquiry is the same as a general appeal to authority is categorically incorrect. The latter may have the form of science, in the sense that it could be laid out like a logically sound argument, but it doesn't have the substance of science, which is based on independent replication. 
+>
+> And yet, we can’t replicate experiments at the drop of a hat, so we do rely on prestige as a proxy. Because it’s so hard for people to disprove claims, or for us to keep track of who’s been right and who’s been wrong over time, they’re more likely to believe  elite media and universities when they say something is true, no matter how often they’re wrong. 
+>
+> Despite how wrong epidemiologists are, despite how wrong nutrition science was for decades—food pyramid anyone?—despite the replication crisis which challenges much of psychology—nothing really changes. When elite media and universities say something is true, people will believe it. Furthermore, often people won’t believe a claim until it gets blessed by the experts.
+>
+> But just because they say something is true, and just because people believe it, doesn’t mean it’s actuallytrue. 
+>
+> You can see this as the difference between political and technical truths.
+>
+> Political truths are judged entirely by social consensus — who the president is, whether the dollar has value, or whether the New York Times or Harvard is elite.
+>
+> But for technology, popularity and truth are not one in the same. Technical truths are things that are true regardless of popularity — the weather, the chemistry of a compound, or the money supply of Bitcoin.
+>
+> What if we had a way to make political truths more like technical truths — a way to make things based on consensus better align with our objective reality?" - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=The%20core%20function,our%20objective%20reality%3F)
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
 ██████████████████████████████████████████████████████████████████
 
@@ -353,6 +437,8 @@ https://www.youtube.com/watch?v=aQuLExIinBE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 governance needs to be applied at the level at which destructive competition is arising
+
+> "We need to fix the rivalrousness of our systems. That’s a big deal because separate nation states are the basis of rivalrous systems, and so our private balance sheets. So, these changes would be fundamental." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1183207414775967746)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conflict vs mistake theory, Moral hazzards, Opaqueness & Plausible Deniability
