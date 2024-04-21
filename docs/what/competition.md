@@ -410,6 +410,8 @@ A list of problems with the contenders in the decentralized identity/media space
 
 <!-- What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. -->
 
+> "We have no serious competition." - [Elon Musk](https://twitter.com/Teslaconomics/status/1756477051463434505)
+
 # [Farcaster](https://www.farcaster.xyz/)
 
 <!--

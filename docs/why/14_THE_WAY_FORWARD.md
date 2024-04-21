@@ -406,6 +406,8 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 How much legislature and bureaucracy can be replaced simply by norms, culture, stigma and reputation? Humanity operated like that for thousands of years
 
+> "The crisis of bureaucracy always comes with a failure of processing information." - [Samo Burja](https://youtu.be/7GyFkRuqcNc?t=263)
+
 > "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
 
 > "Cyberocracy, from the roots 'cyber-' and '-cracy' signifies rule by way of information, especially when using interconnected computer networks. The concept involves information and its control as the source of power and is viewed as the next stage of the political evolution. The fundamental feature of a cyberocracy would be the rapid transmission of relevant information from the source of a problem to the people in a position able to fix said problem, most likely via a system of interconnected computer networks and automated information sorting software, with human decision makers only being called into use in the case of unusual problems, problem trends, or through an appeal process pursued by an individual. Cyberocracy is the functional antithesis of traditional bureaucracies." - [Cyberocracy, Wikipedia](https://en.wikipedia.org/wiki/Cyberocracy#:~:text=Cyberocracy%2C%20from%20the,other%20unfortunate%20qualities.)
