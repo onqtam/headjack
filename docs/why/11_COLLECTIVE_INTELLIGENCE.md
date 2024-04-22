@@ -994,6 +994,16 @@ Properly selected & governed identity aggregates will be way more competent than
 
 > "I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9670)
 
+> "I perceive twitter as a brain. Everyone is a neuron, growing a dendritic tree into our environment to select messages from other neurons, passing them on, recomposing them. Conflict is part of error correction, but we have to figure out how to minimize the need for it.
+>
+> I wish I could zoom out to understand my far neighborhood, gain greater understanding and control about where I am located in the global brain, and how I can improve the harmonic function of my environment. The current tools for this are crude or non-existent.
+>
+> For a brain to function, each neuron needs to receive messages from thousands of others, sometimes directly, and sometimes filtered and curated upstream. But more importantly, it needs to be *separated* from billions of other neurons that would disrupt its function.
+>
+> The tools for separation should minimize unnecessary conflict while maintaining the integrity of communication in the network. Block, mute and unfollow are not very good at this. How about intelligent moderation (eg. letting thread starters moderate the discussion in the thread)?
+>
+> Twitter should support its denizens in discovering the right neighborhood for them. Every participant is the center of their own TPOT, a cloud of like minded individuals who connect them to the rest of the universe. Twitter should support the construction of optimal topology." - [Joscha Bach](https://twitter.com/Plinz/status/1781786438641885643)
+
 the next step of encephalization is truly networking our minds - deduplicated identities, concepts & events
 
 > "You can't gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it." - [Robert E. Kahn](https://www.azquotes.com/quote/1522179)

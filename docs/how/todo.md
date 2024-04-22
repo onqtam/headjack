@@ -232,6 +232,8 @@ https://en.wikipedia.org/wiki/Digital_object_identifier
 
 - Topics such as $RUNE & hashtags - how do they get parsed?
 
+- onion-like routing through public identities?
+
 - snowflake IDs
     https://en.wikipedia.org/wiki/Snowflake_ID
     https://twitter.com/_RyanBenson/status/1213870768070610944
