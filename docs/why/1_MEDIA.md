@@ -1,5 +1,5 @@
 
-who thinks others are manipulated by media meme
+<img src="/img/meme_controlled_by_media.jpg"/>
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Media

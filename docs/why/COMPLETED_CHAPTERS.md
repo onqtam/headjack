@@ -293,10 +293,6 @@ top 10 watch:
 Conscious Evolution Podcast
 https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
 
-top 10 most important
-https://twitter.com/TuckerCarlson/status/1758529993280205039
-Ep. 75  The national security state is the main driver of censorship and election interference in the United States. "What I’m describing is military rule," says Mike Benz. "It’s the inversion of democracy."
-
 top 10 watch:
 'Humanity's Phase Shift', Daniel Schmachtenberger
 https://www.youtube.com/watch?v=nQRzxEobWco
