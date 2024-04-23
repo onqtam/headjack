@@ -250,6 +250,8 @@ The argument that specialized message types are unnecessary because AI will even
 If I write a paper and you write a paper, each of us has one paper. If we each agree to put each other as a co-author on the paper, now each of us has two papers. Lots of academics figure this out very quickly...
 https://twitter.com/skdh/status/1779481377475268664
 
+Science: references should point to the exact parts of referenced papers when applicable/possible
+
 Gonna dig in here.
 5 papers written by a group of 5 people shoudn't be worth so much more than the exact same 5 papers each written independently by 1 of the 5 people. But the way we count things, it really is.
 https://twitter.com/Quasilocal/status/1779437309554741442
