@@ -2771,6 +2771,29 @@ status incentives reputation
 in some competitive games the leaderboards are reset every "season" in order to level the playing field for new entrants - this can also be leveraged in the reputation toolkit
 
 
+A moral overlay for markets
+
+We can use status and incentives to get entities to provide data availability for crucial naming or whatever metadata thats offchain and there’s room for many entities for redundancy
+
+A single show (Queens gambit) has had a massive effect on how much chess is played - what cultural artefacts might we produce to fuel the participation into the global brain?
+
+What if we could easily view/query/crowdsource what are the failure modes of anything?
+
+Talking to the aggregate - an AI that can summarize the latest changes since the last time you spoke with the aggregate, the ability to query the most important or relevant aspects to you, etc.
+
+It's preposterous to rely merely on the price signal and the invisible hand in the age of the internet and AI
+It's preposterous to claim that we’re at the global optimum as an attractor
+
+We are failing as a species to rank our problems and who is a competent leader
+
+We can use LLMs to annotate long-form media and link to all the claims
+
+How to spread innovation faster - integration - what if orgs had to self-certify which latest best practices they’re following - producing a ranking - incentives
+
+Success-based cultural learning
+Kids track competence
+Conformist transmission
+
 
 
 > "Peace cannot be kept by force; it can only be achieved by understanding." - [Albert Einstein](https://www.goodreads.com/quotes/4464-peace-cannot-be-kept-by-force-it-can-only-be)
