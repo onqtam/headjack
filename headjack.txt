@@ -2853,6 +2853,7 @@ Remember: you’re peering into the collective wisdom of humanity
 
 
 Competing crowdsourced ESG scores
+also GDI scores (global disinformation index) which affects the pockets of media with bad scores
 
 PageRank is the wisdom of crowds
 PageRank is a republic - not a perfect democracy. (Todo: what is a republic) - pages have different influence on other pages

@@ -293,6 +293,10 @@ top 10 watch:
 Conscious Evolution Podcast
 https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
 
+Everything You Need to Know about the Government’s Mass Censorship Campaign - Mike Benz
+https://www.youtube.com/watch?v=CRYSKaS-XtQ
+^^ or not.
+
 top 10 watch:
 'Humanity's Phase Shift', Daniel Schmachtenberger
 https://www.youtube.com/watch?v=nQRzxEobWco
