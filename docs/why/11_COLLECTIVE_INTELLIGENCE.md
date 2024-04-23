@@ -1,4 +1,6 @@
 
+Maybe rename file from CI to self-organization?
+
 <strikethrough>Bitcoin</strikethrough> Headjack fixes this.
 
 <!--

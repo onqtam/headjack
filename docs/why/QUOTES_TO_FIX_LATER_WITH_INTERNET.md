@@ -1357,65 +1357,29 @@ Massachusetts Institute of Technology
 
 > "" - [The when and who of social learning and conformist transmission](https://henrich.fas.harvard.edu/files/henrich/files/muthukrishna_morgan_henrich_2016.pdf)
 
+> "" - [Coordination Theory: A Ten-Year Retrospective](https://crowston.syr.edu/sites/crowston.syr.edu/files/CT%20Review%20to%20distribute.pdf)
+
+> "" - [Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration](https://dlc.dlib.indiana.edu/dlc/handle/10535/3574)
+
+> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Stigmergic epistemology, stigmergic cognition](https://sci-hub.se/10.1016/j.cogsys.2007.06.009)
+
+> "" - []()
+
+> "" - []()
+
 > "" - []()
 
 > "" - []()
 
 > "" - []()
 
+> "" - []()
 
 
 
 
-Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
-In Internet and Web Applications and Services, 2007. ICIW'07. Second International Conference on, 58–58.
-
-Malone, T. W, and M. Klein. (2007). Harnessing collective intelligence to address global climate change. Innovations: Technology, Governance, Globalization 2, no. 3: 15–26.
-
-Klein, M. and L. Iandoli, Supporting Collaborative Deliberation Using a Large-Scale Argumentation System: The MIT Collaboratorium, in Directions and Implications of Advanced Computing; Conference on Online Deliberation (DIAC-2008/OD2008). 2008: University of California, Berkeley.
-
-Iandoli, L., M. Klein, and G. Zollo, Enabling on-line deliberation and collective decision-making through large-scale argumentation: a new approach to the design of an Internet-based mass collaboration platform. International Journal of Decision Support System Technology, 2009. 1(1): p. 69-91.
-
-Klein, M., A Knowledge-Based Methodology for Designing Reliable Multi-Agent Systems, in Agent-Oriented Software Engineering IV, P. Giorgini, J.P. Mueller, and J. Odell, Editors. 2003, Springer-Verlag. p. 85 - 95.
-
-
-
-
-https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/
-
-https://www.quora.com/Why-do-religions-exist-and-what-is-their-purpose-to-society
-
-
-
-Cristian, F. (1996). Synchronous and asynchronous Group Communication. Communications of the ACM, 39(4), 88–97.
-
-Crowston, K. (1997). A coordination theory approach to organizational process design. Organization Science, 8(2), 157–175.
-^^ maybe ignore, already have a quote here about "coordination theory"
-
-Dipple, A., Raymond, K., & Docherty, M. (n.d.). General theory of stigmergy: Modelling stigma semantics. Cognitive Systems Research. doi:10.1016/j.cogsys.2014.02.002
-
-Elliott, M. A. (2007). Stigmergic collaboration: a theoretical framework for mass collaboration (PhD thesis).
-http://eprints.infodiv.unimelb.edu.au/00003977/01/elliott_phd_pub_08.10.07.pdf
-
-Rifkin, J. 2014. The zero marginal cost society: The internet of things, the collaborative commons, and the eclipse of capitalism. Palgrave Macmillan Trade.
-
-Chorost, M. 2011. World wide mind: The coming integration of humanity. New York: Simon and Schuster.
-
-Cole-Turner, R. 2012. The singularity and the rapture: Transhumanist and popular Christian views of the future. Zygon, 47: 777-796.
-
-Hayles, N.K. 2012. How we think: Digital media and contemporary technogenesis. Chicago: University of Chicago Press.
-
-C. Heath and D. Heath, Made to Stick: Why Some Ideas Survive and Others Die (Random House, 2007).
-
-C. Gershenson, ‘Towards Self-organizing Bureaucracies’, International Journal of Public Information Systems, 1 (2008), 1–24.
-
-Michael, D. R., & Chen, S. L. (2005). Serious games: Games that educate, train, and inform. Muska & Lipman/Premier-Trade.
-
-Marsh, L., & Onof, C. (2008). Stigmergic epistemology, stigmergic cognition. Cognitive Systems Research,
-
-Newman, M. E. J. (2003). The structure and function of complex networks. SIAM Review, 167–256.
-
-Parunak, H. V. D. (2006). A survey of environments and mechanisms for human-human stigmergy. In D. Weyns, H. V. D. Parunak, & F. Michel (Eds.), Environments for Multi-Agent Systems II (pp. 163–186). Springer.
 
 Ricci, A., Omicini, A., Viroli, M., Gardelli, L., & Oliva, E. (2006). Cognitive stigmergy: A framework based on agents and artifacts. Third International Workshop on Environments for Multiagent Systems (E4MAS 06).
 

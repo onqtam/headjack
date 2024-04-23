@@ -961,6 +961,8 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 
 > "When a system is far from equilibrium, small islands of coherence have the capacity to shift the entire system." - [Ilya Prigogine](https://www.systeminnovation.org/blog/five-lessons-from-system-shifters-lesson-three#:~:text=When%20a%20system%20is%20far%20from%20equilibrium%2C%20small%20islands%20of%20coherence%20have%20the%20capacity%20to%20shift%20the%20entire%20system.)
 
+> "The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire." - [Malcolm Gladwell](https://www.goodreads.com/quotes/105251-the-tipping-point-is-that-magic-moment-when-an-idea)
+
 > "If steered in the right direction by a unifying worldview, the imminent phase transition will push the social system we call civilization toward a state of higher order, functionality, control, and causal power." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=If%20steered%20in%20the%20right%20direction%20by%20a%C2%A0unifying%20worldview%2C%20the%20imminent%20phase%20transition%20will%20push%20the%20social%20system%20we%20call%20civilization%20toward%20a%20state%20of%20higher%20order%2C%20functionality%2C%20control%2C%20and%20causal%20power.)
 
 game b should parasitize game A
