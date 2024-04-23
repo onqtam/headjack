@@ -6,6 +6,8 @@
 
 > "'Debate-checking' is the logical end of 'fact-checking.' If you are 'proving' one fact/premise/argument at a time, it's essentially cherry-picking. If you are searching for truth, it needs to be conducted in a manner that's maximizing the context of the inquiry space, so relevant arguments, counterarguments, evidence, etc. can be assessed holistically. Once you have done the work of debate mapping, it's very easy to see how one piece of knowledge can completely change the likely veracity and relevance of another piece of knowledge." - [Jamie Joyce](https://twitter.com/JustJamieJoyce/status/1775303902814220342)
 
+Interactive AI-driven argument map explorer/explainer
+
 Debate Tree - visualize the debate surrounding a topic. 
 https://twitter.com/pranavmarla/status/1670967219126169601
 
@@ -109,6 +111,8 @@ https://en.bitcoin.it/wiki/Genesis_block
 The two genesis “blocks”/CIDs
 Genesis pair
 Genesis triplet
+
+Timestamp the stone tablet selfie as an NFT with a 5-10% royalty on each resale
 
 Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
 

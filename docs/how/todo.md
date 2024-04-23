@@ -642,6 +642,8 @@ add tiny designs/screenshots for the different ideas - like a multi-level tree f
 
 a data-driven society
 
+100 what-ifs as a section
+
 "the role of LLMs in interfacing (with data)"
 
 "self-regulation"

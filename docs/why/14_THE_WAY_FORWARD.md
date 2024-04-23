@@ -895,6 +895,11 @@ https://www.google.com/search?q=this+is+healthy
 >
 > Today’s elites are too ashamed to admit they’re elite, let alone acknowledge the behaviors that keep them elite. While elites think they’re being egalitarian, by celebrating something different from what they’re practicing, they’re actually just widening the gap between them and everyone else." - [How Elites Abandoned the Masses, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-elites-abandoned-the-masses#:~:text=The%20new%20elites%20say,them%20and%20everyone%20else.)
 
+The "Angelina Jolie" Effect
+https://hms.harvard.edu/news/angelina-jolie-effect
+Angelina jolie learning about a gene linked to cancer & getting a procedure ==> thousands of followers doing the same tests - much higher impact in cancer screening than educational campaigns from institutions
+Prestige is underutilized
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: choice architecture
 ██████████████████████████████████████████████████████████████████

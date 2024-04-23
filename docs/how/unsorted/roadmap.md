@@ -18,6 +18,7 @@ growth hack: show some badge who invited you to the network (and how many people
 Strategy: use platform APIs to link web2 platform accounts to a headjack account for a gradual transition - as an overlay
 Adapters for current web2 platforma - wrap actions in messages that point to the web2 platform?
 
+Strategy: donate money from the start, gain status and have your “share” of the company be donated to a collective process
 
 strategy: start it centralized !!! Emulate the blockchain !!!
 
