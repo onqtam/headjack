@@ -8,6 +8,19 @@
 
 Interactive AI-driven argument map explorer/explainer
 
+
+    Klein, M. 2007. Achieving Collective Intelligence via Large-­‐Scale On-­‐Line Argumentation.
+    In Internet and Web Applications and Services, 2007. ICIW'07. Second International Conference on, 58–58.
+
+    Malone, T. W, and M. Klein. (2007). Harnessing collective intelligence to address global climate change. Innovations: Technology, Governance, Globalization 2, no. 3: 15–26.
+
+    Klein, M. and L. Iandoli, Supporting Collaborative Deliberation Using a Large-Scale Argumentation System: The MIT Collaboratorium, in Directions and Implications of Advanced Computing; Conference on Online Deliberation (DIAC-2008/OD2008). 2008: University of California, Berkeley.
+
+    Iandoli, L., M. Klein, and G. Zollo, Enabling on-line deliberation and collective decision-making through large-scale argumentation: a new approach to the design of an Internet-based mass collaboration platform. International Journal of Decision Support System Technology, 2009. 1(1): p. 69-91.
+
+    Klein, M., A Knowledge-Based Methodology for Designing Reliable Multi-Agent Systems, in Agent-Oriented Software Engineering IV, P. Giorgini, J.P. Mueller, and J. Odell, Editors. 2003, Springer-Verlag. p. 85 - 95.
+
+
 Debate Tree - visualize the debate surrounding a topic. 
 https://twitter.com/pranavmarla/status/1670967219126169601
 

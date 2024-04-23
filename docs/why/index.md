@@ -70,6 +70,8 @@ In this chapter we discuss tens of problems - perhaps up to a hundred - all scat
 - is lengthier, but more interesting to read
 - provides multiple perspectives that converge on the same issues and solutions
 - makes this book unique in the way it's written/composed
+- credibility
+- ideas have sex as Matt Ridley put it: https://www.youtube.com/watch?v=OLHh9E5ilZ4
 
 
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
