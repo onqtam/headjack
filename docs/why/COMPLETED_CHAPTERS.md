@@ -126,6 +126,7 @@ Genesis pair
 Genesis triplet
 
 Timestamp the stone tablet selfie as an NFT with a 5-10% royalty on each resale
+ConstitutionDAO raised 47$ million - this could eventually top that
 
 Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
 

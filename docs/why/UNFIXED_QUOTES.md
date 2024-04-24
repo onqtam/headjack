@@ -134,3 +134,28 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 > "" - []()
 
 > "" - []()
+
+
+> "It sounds like the key thing that you shared in there is the increase in sharing and transparency and thus collaboration and thus collective intelligence and collective capacity where the current incentive structure incentivizes owning and hoarding IP and making sure nobody else uses the things that you discovered because you're gonna make your money on patents and not sharing what you're learning until it's published because the whole thing is published know that really what you're talking about is the ability to change the information ecology the incentives that change the information ecology from ones that incentivize hoarding information and making it hard for other people to use they have to pay for license and even dis informing - one that maximizes informing sharing and collaboration." - [Daniel Schmachtenberger](https://youtu.be/OUv-ZOM0dOo?t=2540)
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "The first we talked about a little bit which is the ability to keep records or as our friend Michael Bastyr talks about it the ability to actually deliver justice which he defines as making sure that the loops are closed the value created needs to be value returned and that externalities need to be returned to the critters of externalities right and if you have injustice if you have bad records in a system if you don't have the ability to determine who created how much value and who created how much externality and thereby return it then you get a system that the drifts quite rapidly I mean where a lot of strategies are about stealing credit and avoiding responsibility so that's one piece or so one piece is just radically increasing the quality of the records that are being kept and therefore closing more and more loops which is say creating more and more justice...
+>
+> It's not that people have to become sort of more pro bono it's just that the good things they do will be noticed and rewarded and the bad things they do will be noticed and punished done right it's pretty simple like that's straightforward as long as you can provide that framework where people have clean boundaries and good choices or rewarding bad choices are punished they will begin to move in that direction the beginning to move in direction on mass." - [Jordan Hall](https://youtu.be/OUv-ZOM0dOo?t=2591)
+
+> "I think a big part of it has to do with this is this notion of gold has no smell meaning that again you know person a shows up in the in the market with ten apples and person B shows up in the market with five apples the fact that person a stole those apples from person B is since of the market in may have no capacity to perceive at all and in fact we don't even think about that as a market transaction that's called justice that's what happened so what we says okay well person B then needs to find some way to sue or otherwise rebalance the underlying infrastructure so we would think about then is that the market is consisting of a whole bunch of little circles that are communicating with each other through transactions and it doesn't actually have any information outside of that information flow so it has in an inability to perceive all the different ways that somebody might actually falsify the stuff that the market actually needs to be able to make good choices meaning that if you think about what the game the startup do the right thing and it slides all the way down if everybody who's playing the market game is self-enforcing to do the right thing you know social norms would really really work and anybody who plays in anything but the most virtuous way is selected against through the sort of to the normative channel then the mark so we'll actually tend to do a pretty good job well there's more to it than that and there's a whole bunch of other stuff to think about that but that's one that we can focus on right here and but that's the sense markets actually have very little ability to perceive that kind of a thing in fact they outsource that to other areas social norms laws etc that's the channel you gain are you game that channel and so you show up as a really great market player you're a bank you've got a giant building with marble columns and a actually completely covered in marble and impress the people wearing fancy suits that all signal certain things that the market can perceive but you know the gap between signal and the thing being signified is something the market has effectively no capacity to perceive at all and that then becomes the game when you move more and more and more power and choice making into the market you end up basically creating a niche for gaming what the market can't perceive and simulating what the market perceives as being a good answer." - [Jordan Hall](https://youtu.be/OUv-ZOM0dOo?t=2728)
+
+> "" - [Jordan Hall]()
+
+> "" - [Jordan Hall]()
+
+> "" - [Jordan Hall]()
+
+> "" - [Jordan Hall]()
+
+> "" - [Jordan Hall]()

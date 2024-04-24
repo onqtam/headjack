@@ -143,6 +143,8 @@ https://www.lesswrong.com/tag/futarchy
 
 https://www.lesswrong.com/tag/prediction-markets
 
+https://www.lesswrong.com/posts/a4jRN9nbD79PAhWTB/prediction-markets-when-do-they-work
+
 https://mason.gmu.edu/~rhanson/futarchy.html
 
 https://www.wired.com/1995/09/hanson-if/
