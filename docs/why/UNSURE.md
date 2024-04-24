@@ -122,6 +122,8 @@
 
 > "Nothing in biology makes sense except in the light of evolution." - [Theodosius Dobzhansky](https://en.wikipedia.org/wiki/Nothing_in_Biology_Makes_Sense_Except_in_the_Light_of_Evolution)
 
+^^ Nothing at all makes sense except in the light of evolution.
+
 > "We can enhance democracy by making it in line with its original vision. Read the dollar bill - E pluribus unum, out of many, one; novus ordo seclorum, a new order of the ages. That's democracy." - [Barbara Marx Hubbard](https://www.azquotes.com/quote/523330)
 
 > "From natural selection’s point of view, status assistance is the main purpose of friendship." - [Robert Wright](https://www.goodreads.com/quotes/9700916-from-natural-selection-s-point-of-view-status-assistance-is-the)

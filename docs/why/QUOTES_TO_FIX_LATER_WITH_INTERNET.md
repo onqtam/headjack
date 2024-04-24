@@ -1381,6 +1381,9 @@ Massachusetts Institute of Technology
 
 
 
+
+Parunak, H. V. D. (2006). A survey of environments and mechanisms for human-human stigmergy. In D. Weyns, H. V. D. Parunak, & F. Michel (Eds.), Environments for Multi-Agent Systems II (pp. 163–186). Springer.
+
 Ricci, A., Omicini, A., Viroli, M., Gardelli, L., & Oliva, E. (2006). Cognitive stigmergy: A framework based on agents and artifacts. Third International Workshop on Environments for Multiagent Systems (E4MAS 06).
 
 Robles, G., Merelo, J. J., & Gonzalez-Barahona, J. M. (2005). Self-organized development in libre software: a model based on the stigmergy concept. Proceedings of the 6th International Workshop on Software Process Simulation and Modeling (ProSim 2005), 16.

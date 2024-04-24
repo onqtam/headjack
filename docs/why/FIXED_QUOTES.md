@@ -280,21 +280,7 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 > So how do we stop something with this much momentum? We don’t. We build a new autopoietic system with faster feedback loops that is not self-terminating and it wins. To ensure that the new system doesn’t eventually self-terminate, it has to have the same type of complexity-increasing antifragility of the natural world. It has to be an extension of the symbiosis and novelty maximizing, complex system dynamics of nature. Factoring the inexorability of both exponential technology (more ability to affect the world with our choices) and increasing anthrocomplexity (more agents making higher impact and less predictable choices)…an adequate civilization design must be antifragile in the presence of those realities. This requires a fundamentally anti-rivalrous macro-context. Unsurprisingly, this maps to reversing each of the components of the ring of power: extraction is replaced with contextualization; (value) abstraction with instantiation; and accumulation with distribution and flow dynamics. If you think this would resemble a technologically advanced ecology more than an economy, you are right! (That is the topic of the next part in this series.) To have faster feedback loops so it is more adaptive and creates greater output per unit of input, while being aligned with the long term viability goals…its source of competitive advantage (over the current system) has to come from optimizing coherence – of the agents with each other and with reality. This is a type of competitive advantage, which is needed to take hold and proliferate within the current game theoretic context, that can out-compete the current system while obsoleting pathological competition in the new system. At adequate scale to prototype the full system dynamics, omni-win-win as a new type of collective intelligence outcompetes the win-lose collective intelligence. The end of rivalrous game theory is transcending itself." - [New Economic Series: Part 4, by Daniel Schmachtenberger](https://civilizationemerging.com/new-economics-series-4/)
 
 
-> "" - [Daniel Schmachtenberger]()
 
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
 
 > "Human cognition is in volume the largest input of raw material into society." - [Bryan Johnson](https://youtu.be/1YbcB6b4A2U?t=3518)
 
