@@ -973,6 +973,8 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 # SECTION: Global Brain
 ██████████████████████████████████████████████████████████████████
 
+<img src="/img/the_global_brain_from_bobby_azarian.png"/>
+
 How do we develop a global brain prefrontal cortex - to plan, model the future, delay gratification, and develop a capacity for impulse control?
 
 Is it like something to be the GB? Does it have phenomenology?
