@@ -326,6 +326,9 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 
 > "Whoever does a thing best ought to be the one to do it. It is criminal to try to get business away from another man—criminal because one is then trying to lower for personal gain the condition of one's fellow man—to rule by force instead of by intelligence." - [Henry Ford](https://www.goodreads.com/quotes/8659213-2-a-disregard-of-competition-whoever-does-a-thing-best)
 
+> "But it is possible to create a society in which everybody is given not equal rewards, but equal opportunities, and where rewards vary not in accordance with the ownership of property, but with the worth of a person's contribution to that society. In other words, society should make it worth people's while to give their best to the country. This is the way to progress." - [Lee Kuan Yew](https://www.goodreads.com/quotes/9814929-but-it-is-possible-to-create-a-society-in-which)
+
+> "Human beings are created unequal, and no amount of social engineering or government intervention can significantly alter one’s lot in life. At most, government policies can help equalise opportunity at the starting point, but they cannot ensure equal outcomes. Society is bound to end up with unequal outcomes." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11294271-human-beings-are-created-unequal-and-no-amount-of-social)
 
 > "Noocracy ( where nous means 'wise' and kratos means 'rule' therefore 'rule of the wise' ) is a form of government where decision making is done by wise people. The idea is proposed by various philosophers such as [Plato](https://en.wikipedia.org/wiki/Plato), [Gautama Buddha](https://en.wikipedia.org/wiki/The_Buddha), [al-Farabi](https://en.wikipedia.org/wiki/Al-Farabi) and [Confucius](https://en.wikipedia.org/wiki/Confucius)." - [Noocracy, Wikipedia](https://en.wikipedia.org/wiki/Noocracy#:~:text=Noocracy%20(/,and%20Confucius.)
 
@@ -452,16 +455,6 @@ Problems with democracy and voters:
 > "The left is deluded in thinking that any differences in outcomes is due to discrimination. The right is deluded in thinking that everyone has the same potential and it’s just a matter of effort or “personal responsibility”." - [People are Different, by Erik Torenberg](https://eriktorenberg.substack.com/p/people-are-different#:~:text=The%20left%20is%20deluded%20in%20thinking%20that%20any%20differences%20in%20outcomes%20is%20due%20to%20discrimination.%20The%20right%20is%20deluded%20in%20thinking%20that%20everyone%20has%20the%20same%20potential%20and%20it%E2%80%99s%20just%20a%20matter%20of%20effort%20or%20%E2%80%9Cpersonal%20responsibility%E2%80%9D.)
 
 > "We should try to raise the floor, and we should take a holistic way of doing that, including encouraging everyone to study the habits that successful communities have adopted, instead of just blaming disparities on discrimination. We should also accept that inequality is the natural state of the world, and any program meant to equalize outcomes is dead on arrival. By accepting that (and studying why) people are different, we can achieve a proper balance between social mobility and hierarchy, between nature and nurture, between what we can change and what we can’t — and deploy our dollars and set our expectations accordingly. By refusing to admit that individual decisions and cultural values make a difference, we’re actually hurting the communities we claim to serve, alienating them from their agency. It might feel kind, but it’s anything but." - [People are Different, by Erik Torenberg](https://eriktorenberg.substack.com/p/people-are-different#:~:text=We%20should%20try,it%E2%80%99s%20anything%20but.)
-
-██████████████████████████████████████████████████████████████████
-# SECTION: The Great Reset
-██████████████████████████████████████████████████████████████████
-
-We should incentivise participating transparently in public and make that the only way of climbing the social ladder - a complete flattening of the power distribution - this is the great reset
-
-> "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
-
-The current elites would have to start earning reputation from the ground up on the new rules
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other

@@ -114,6 +114,8 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 # SECTION: Alignment
 ██████████████████████████████████████████████████████████████████
 
+Alignment is predicated on transparency
+
 > "If I were a stakeholder I would simply be aligned." - [@jdan](https://twitter.com/jdan/status/1699870400513982624)
 
 > "If it's wrong when they do it, it's wrong when we do it." - [Noam Chomsky](https://www.goodreads.com/quotes/599016-if-it-s-wrong-when-they-do-it-it-s-wrong-when)

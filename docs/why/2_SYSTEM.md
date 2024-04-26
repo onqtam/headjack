@@ -167,8 +167,6 @@ https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 Politics in its current primitive/primal form is the cancer of humanity.
 
-> "If voting changed anything, it would be illegal." - [George Carlin](https://www.azquotes.com/quote/1248100)
-
 > "When I hear a person talking about political solutions, I know I am not listening to a serious person." - [George Carlin](https://www.azquotes.com/quote/590435)
 
 
@@ -185,9 +183,6 @@ A [study by Martin Gilens](https://www.cambridge.org/core/journals/perspectives-
 There's also another longer video on the same topic:
 https://www.youtube.com/watch?v=TfQij4aQq1k
 Unbreaking America: Solving the Corruption Crisis
-
-> "If voting made any difference they wouldn't let us do it." - [Mark Twain](https://www.goodreads.com/quotes/400040-if-voting-made-any-difference-they-wouldn-t-let-us-do)
-
 
 > "In government, the scum rises to the top." - [Friedrich A. Hayek](https://www.azquotes.com/quote/950261)
 
@@ -259,6 +254,22 @@ Unbreaking America: Solving the Corruption Crisis
 >
 > - The ways that citizens can make their voices heard are obsolete." - [Hypergrowth Society, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/hypergrowth-society#:~:text=the%20processes%20of,heard%20are%20obsolete.)
 
+Rational ignorance is refraining from acquiring knowledge when the supposed cost of educating oneself on an issue exceeds the expected potential benefit that the knowledge would provide.
+https://en.wikipedia.org/wiki/Rational_ignorance
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Voting
+██████████████████████████████████████████████████████████████████
+
+> "If voting made any difference they wouldn't let us do it." - [Mark Twain](https://www.goodreads.com/quotes/400040-if-voting-made-any-difference-they-wouldn-t-let-us-do)
+
+> "If voting changed anything, it would be illegal." - [George Carlin](https://www.azquotes.com/quote/1248100)
+
+> "The best argument against democracy is a five-minute conversation with the average voter." - [Winston Churchill](https://www.goodreads.com/quotes/5980-the-best-argument-against-democracy-is-a-five-minute-conversation-with)
+
+> "Democracy is the worst form of government – except for all the others that have been tried." - [Winston Churchill](https://blogs.fcdo.gov.uk/petermillett/2014/03/05/the-worst-form-of-government/)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Corruption
@@ -323,6 +334,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 # SECTION: Appeals to authority & the information supply chain
 ██████████████████████████████████████████████████████████████████
 
+> "Blind belief in authority is the greatest enemy of truth." - [Albert Einstein](https://www.goodreads.com/quotes/10610-blind-belief-in-authority-is-the-greatest-enemy-of-truth)
+
 > "Appeals to authority run more of society than we realize: Who designs government policies? Experts. Who do journalists quote in newspapers? Experts. And who are these experts? Professors. Who funds these professors? The government. Who votes for the government? The public. Who educates the public? Professors and journalists. Oh. 
 >
 > Balaji calls this the information supply chain: Stanford does a study which gets published in a peer reviewed journal, like [Nature](https://www.nature.com/) or [Science](https://www.science.org/). That study is then written about in the New York Times and becomes conveyed as truth. Finally, the U.S. Government then enacts some policy based broadly on that original study, claiming their action is based in science. 
@@ -351,6 +364,20 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 >
 > What if we had a way to make political truths more like technical truths — a way to make things based on consensus better align with our objective reality?" - [The Tautology of the Elites, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-tautology-of-the-elites#:~:text=The%20core%20function,our%20objective%20reality%3F)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Lack of accountability
+██████████████████████████████████████████████████████████████████
+
+> "I always tried to be correct, not politically correct." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11421404-i-always-tried-to-be-correct-not-politically-correct)
+
+> "The evil of aristocracy is not that it necessarily leads to the infliction of bad things or the suffering of sad ones; the evil of aristocracy is that it places everything in the hands of a class of people who can always inflict what they never suffer." - [G.K. Chesterton](https://www.goodreads.com/quotes/9067926-the-evil-of-aristocracy-is-not-that-it-necessarily-leads)
+
+> "It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong." - [Thomas Sowell](https://www.goodreads.com/quotes/3823206-it-is-hard-to-imagine-a-more-stupid-or-more)
+
+> "Not only are their predictions wrong and nobody cares, their predictions negatively affect people other than themselves. This is tragic: Elites determine so much policy, and yet they’re the most insulated from all downstream consequences resulting from the changes they demand everybody else make." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=not%20only%20are%20their%20predictions%20wrong%20and%20nobody%20cares%2C%20their%20predictions%20negatively%20affect%20people%20other%20than%20themselves.%20This%20is%20tragic%3A%20Elites%20determine%20so%20much%20policy%2C%20and%20yet%20they%E2%80%99re%20the%20most%20insulated%20from%20all%20downstream%20consequences%20resulting%20from%20the%20changes%20they%20demand%20everybody%20else%20make.)
+
+> "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
+<!-- https://quoteinvestigator.com/2015/07/23/great-power/ -->
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
@@ -365,15 +392,6 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 > "It is not a matter of what is true that counts, but a matter of what is perceived to be true." - [Henry Kissinger](https://www.goodreads.com/quotes/40934-it-is-not-a-matter-of-what-is-true-that)
 
 > "Armaments, universal debt, and planned obsolescence—those are the three pillars of Western prosperity." - [Aldous Huxley](https://www.goodreads.com/quotes/14210-armaments-universal-debt-and-planned-obsolescence-those-are-the-three-pillars)
-
-> "The evil of aristocracy is not that it necessarily leads to the infliction of bad things or the suffering of sad ones; the evil of aristocracy is that it places everything in the hands of a class of people who can always inflict what they never suffer." - [G.K. Chesterton](https://www.goodreads.com/quotes/9067926-the-evil-of-aristocracy-is-not-that-it-necessarily-leads)
-
-> "It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong." - [Thomas Sowell](https://www.goodreads.com/quotes/3823206-it-is-hard-to-imagine-a-more-stupid-or-more)
-
-> "Not only are their predictions wrong and nobody cares, their predictions negatively affect people other than themselves. This is tragic: Elites determine so much policy, and yet they’re the most insulated from all downstream consequences resulting from the changes they demand everybody else make." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=not%20only%20are%20their%20predictions%20wrong%20and%20nobody%20cares%2C%20their%20predictions%20negatively%20affect%20people%20other%20than%20themselves.%20This%20is%20tragic%3A%20Elites%20determine%20so%20much%20policy%2C%20and%20yet%20they%E2%80%99re%20the%20most%20insulated%20from%20all%20downstream%20consequences%20resulting%20from%20the%20changes%20they%20demand%20everybody%20else%20make.)
-
-> "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
-<!-- https://quoteinvestigator.com/2015/07/23/great-power/ -->
 
 > "It’s part of the sucker game of the status quo to keep people’s political energy used up in surface fights about things like abortion, gay marriage, legalization of marijuana, etc. I believe all of those are important things, but they’re not fundamental; they don’t get to the institutional structure of how our society works." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=it%E2%80%99s%20part%20of,our%20society%20works.)
 
@@ -464,6 +482,7 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 
 > "It's a damn shame that a society be structured such that an approach with honesty and good faith is a sucker strategy." - [Jim Rutt on the Village Global podcast about Game B, at 0:05:24](https://open.spotify.com/episode/68kN2CDBR7RHjktHCtOf20)
 
+Is [COINTELPRO](https://en.wikipedia.org/wiki/COINTELPRO) just an unconvenient historical footnote or is it a precursor to something a lot more sophisticated that might still be part of our system?
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Individualism & narcissism
@@ -694,6 +713,8 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 # SECTION: Incentives 
 ██████████████████████████████████████████████████████████████████
 
+> "We accept human nature as it is, then we base our system on it. Your system must accept that human nature is like that. You get the best out of people for society by incentives and disincentives. If you remove too much of their rewards from the top tier, they will migrate." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11294272-we-accept-human-nature-as-it-is-then-we-base)
+
 > "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
 
 > "The iron rule of nature is: you get what you reward for. If you want ants to come, you put sugar on the floor." - [Charlie Munger](https://www.goodreads.com/quotes/7220279-the-iron-rule-of-nature-is-you-get-what-you)
@@ -716,6 +737,9 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 ██████████████████████████████████████████████████████████████████
 # SECTION: Environment
 ██████████████████████████████████████████████████████████████████
+
+> "Humans and their livestock represent 96% of all mammals on earth in terms of biomass, whereas all wild mammals represent only 4%." - [Wikipedia article on Biomass](https://en.wikipedia.org/wiki/Biomass_(ecology)#:~:text=Humans%20and%20their%20livestock%20represent%2096%25%20of%20all%20mammals%20on%20earth%20in%20terms%20of%20biomass%2C%20whereas%20all%20wild%20mammals%20represent%20only%204%25.)
+^^ just think a bit about that. Think about overfishing. Think about all the ways it could go wrong. And if you can't think about that - you should be able to explore what others have thought about it.
 
 > "The creature that wins against its environment destroys itself." - [Gregory Bateson](https://www.azquotes.com/quote/695444)
 
