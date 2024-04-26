@@ -3,14 +3,6 @@
 
 
 
-> "Metanarratives can save lives. They can save civilizations. Or said differently, lack of metanarratives can kill off civilizations. It’s happened before that civilizations drive off a cliff because their people failed to see the bigger picture they were part of." - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1782326212913766586)
-
-
-
-
-
-
-
 > "" - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian]()
 
 > "" - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian]()
@@ -228,28 +220,6 @@ It will become a competitive advantage for firms to allow their employees to exp
 
 
 
-> "But it is possible to create a society in which everybody is given not equal rewards, but equal opportunities, and where rewards vary not in accordance with the ownership of property, but with the worth of a person's contribution to that society. In other words, society should make it worth people's while to give their best to the country. This is the way to progress." - [Lee Kuan Yew](https://www.goodreads.com/quotes/9814929-but-it-is-possible-to-create-a-society-in-which)
-
-> "We accept human nature as it is, then we base our system on it. Your system must accept that human nature is like that. You get the best out of people for society by incentives and disincentives. If you remove too much of their rewards from the top tier, they will migrate." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11294272-we-accept-human-nature-as-it-is-then-we-base)
-
-> "Human beings are created unequal, and no amount of social engineering or government intervention can significantly alter one’s lot in life. At most, government policies can help equalise opportunity at the starting point, but they cannot ensure equal outcomes. Society is bound to end up with unequal outcomes." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11294271-human-beings-are-created-unequal-and-no-amount-of-social)
-
-> "One fundamental difference between American and Oriental culture is the individual’s position in society. In American culture an individual’s interest is primary. This makes American society more aggressively competitive, with a sharper edge and higher performance. In Singapore, the interests of the society take precedence over that of the individual. Nevertheless Singapore has to be competitive in the market for jobs, goods and services. On the other hand the government helps lower income groups to meet their needs for housing, health services and education so that their children will have more of an equal chance to rise through education." - [Lee Kuan Yew](https://www.goodreads.com/quotes/7289186-one-fundamental-difference-between-american-and-oriental-culture-is-the)
-
-> "I always tried to be correct, not politically correct." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11421404-i-always-tried-to-be-correct-not-politically-correct)
-
-> "We are pragmatists. We don't stick to any ideology. Does it work? Let's try it, and if it does work, fine, let's continue it. If it doesn't work, toss it out, try another one. We are not enamored with any ideology." - [Lee Kuan Yew](https://www.goodreads.com/quotes/10141150-we-are-pragmatists-we-don-t-stick-to-any-ideology-does)
-
-> "I believe that life is a process of continuous change and a constant struggle to make that change one for the better." - [Lee Kuan Yew](https://www.goodreads.com/quotes/7289188-i-believe-that-life-is-a-process-of-continuous-change)
-
-> "The art of government is the art of building up team spirit." - [Lee Kuan Yew](https://www.goodreads.com/quotes/10326600-the-art-of-government-is-the-art-of-building-up)
-
-
-
-
-
-
-
 We need to harness the competence of everyone - we require transparency but we reward with a big carrot - the opportunity to earn legitimate and noble status
 
 Optimal common knowledge - only those that need to know about something know about it - perfect modulation of signal according to individual interests, as long as there’s no lying and manipulation, for which there are consequences
@@ -332,9 +302,6 @@ compound interest => compound legitimacy
 carrot & stick => this model vs the China model
 
 division of labor - incentive for this, incentive for that, different specialization verticals
-
-> "Humans and their livestock represent 96% of all mammals on earth in terms of biomass, whereas all wild mammals represent only 4%." - [Wikipedia article on Biomass](https://en.wikipedia.org/wiki/Biomass_(ecology)#:~:text=Humans%20and%20their%20livestock%20represent%2096%25%20of%20all%20mammals%20on%20earth%20in%20terms%20of%20biomass%2C%20whereas%20all%20wild%20mammals%20represent%20only%204%25.)
-^^ just think a bit about that. Think about overfishing. Think about all the ways it could go wrong. And if you can't think about that - you should be able to explore what others have thought about it.
 
 the world as it is vs the world as we'd like it to be
 
@@ -697,27 +664,17 @@ Imagine being able to explore how any part of the system works - and the ability
 
 Anonymous whistleblowing
 
-The bit.ly of addressing in this world is woth just 2 numbers: acc_id/resource_id and the respurce_id can be also a string 
-
 The nations that first jump ship will end up with the highest legitimacy and responsibility
 
-How do we make intentional lying not a thing in media?
-
-> "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
+How do we make intentional lying/bias not a thing in media?
 
 The media and entrenched interests are guilty of crimes against humanity for their coverage of Tesla since its inception. It is an a-moral force that needs to be eradicated - corruption should be stopped
 
 We will talk to the global brain through language
 
-Alignment is a game theoretic arrangement - one predicated on transparency
-
-The cure to the late-stage capitalism that is America is the evolution to the next level of the experiment - cooperative integration
-
 Transparent crowdsourcing of the arbiter of truth
 
 We need to make thinking from first principles the cultural norm
-
-Game A is closed. Game B is open - the gates to power are open for the best of the best
 
 The mind is a pattern-marching machine - it makes sense that we should want to pattern-match the most competent and responsible and put them in charge
 
@@ -838,11 +795,8 @@ what if regulation was cultural and not done through legislature?
 
 learning in public - the best form of career progression
 
-compounding is the root of all progress, but in today's world it's mostly expressed as monetary interest and knowledge and reputation to a much lesser extent. We've let claims on resources to dictate way too much - we need to tilt the scales
 
 
-
-Uris: what if the 3rd and 4th number are all zeroes and that means that is a “named” resource that should be resolved differently?
 
 Blocking someone doesn’t send them a signal that they’ve done something wrong - a public label that a comment was hateful does something else
 
@@ -851,6 +805,8 @@ Compound identity/reputation - like knowledge and interest
 Reputation compounds just like knowledge and interest
 > "Compound interest is the eighth wonder of the world." - [Albert Einstein](https://www.goodreads.com/quotes/76863-compound-interest-is-the-eighth-wonder-of-the-world-he)
 But compounding applies not only to interest but also to reputation and knowledge.
+compounding is the root of all progress, but in today's world it's mostly expressed as monetary interest and knowledge and reputation to a much lesser extent. We've allowed claims on resources to dictate way too much - we need to tilt the scales
+
 
 What if we could label squatters of names - taking up valuable names for speculation - and what if we could penalize them reputationally? Ala social regulation. Stigma.
 Any kind of resource hoarding should be stigmatized - not enforced through regulation but simply culturally stigmatized.
@@ -1702,9 +1658,6 @@ Art should be optimized for comprehensibility
 What if we implemented our own opt-in social security along with our own rules for funds redistribution and guidelines and policing?
 And what if we could at any point opt out and take the remaining share of our funds that we've contributed with us? And what if our vote for redistribution was weighted according to our share of the total pool?
 
-Rational ignorance is refraining from acquiring knowledge when the supposed cost of educating oneself on an issue exceeds the expected potential benefit that the knowledge would provide.
-https://en.wikipedia.org/wiki/Rational_ignorance
-
 Suppose the doctors we trust haven’t expressed an opinion about something, but if they’ve expressed negative opinions about some other doctor who has an opinion about this thing we can infer the opposite or at least flag it as an opinion from a doc who is disliked by our doc network
 
 What is the most optimal layout of walking alleys on a campus? Let people walk before constructing the alleys and build them once the patterns and preferences are established. We can do the same in this ecosystem when it comes to ontologies - we can simply observe where people spend the most effort and we can amplify that effort
@@ -1715,25 +1668,12 @@ How do we produce humans that don’t need fixing - especially when it comes to 
 
 How do we signal that we dont drink alcohol and that we abstain from the internet & our phones for some period every day?
 
-Nfc - non fungible currencies
-
 Mention explicitly the youtube extensions
 
 we can come to an agreement on what should trigger guilt, what should be shameful, what is disgusting/taboo. Or maybe be careful with these things
 https://prnt.sc/gcqM59UTGOOF
 
 Conscious, participatory and meritocratic indoctrination
-
-Is COINTELPRO just a historical footnote or is it just a big example of something that's still part of our system?
-https://en.wikipedia.org/wiki/COINTELPRO
-
-TECHNICAL OPTIMIZATION: think about proper URIs for apps that nevertheless use a proxy for optimal block space use - on-chain rights to increment the nonce on behalf of another app?
-What if there are 2 modes for proxy apps: to explicitly say which other app’s nonces should be incremented and also assumed by default as “on” - increment the other app’s nonce without having to constantly publish bytes in chain for it? And the apps can have ToS agreements with proxy apps. Proxy apps as nonce clocks with a tick rate and off-chain synchronisation for when a batch is finished and the next one should be started
-Apps will pay proxy apps through other means - no need for atomicity and contracts and all that jazz
-
-Not everything has to make a profit - we can and should think of what truly needs subsidizing and how to make the governance of that process corruption-free and meritocratic.
-
-The League of Extraordinary Ladies & Gentlemen - the cultural stewards that set the initial direction of the enculturation process and onboard the next 10x and 100x people - until 1,000,000 is reached. And this can be done in parallel with competing cultures & social systems within the same shared global enculturation landscape - different cultures can have different champions.
 
 How do we see what real proven intellectuals (not merely credentialed) actually think?
 
@@ -2638,9 +2578,6 @@ What should we do as a civilisation? We should teach our kids the general princi
 
 Fractal knowledge - zoom however much you want to go deeper
 
-We need to allow the next generations to grown into their rightful place in the hierarchy and avoid gerontocracy
-> "Science advances one funeral at a time." - [Max Planck](https://www.goodreads.com/quotes/111818-science-advances-one-funeral-at-a-time)
-
 Error correction, conscious evolution, scientific method
 
 The essence of spirituality and transcendence is the feeling of being a part of something greater than one self. We can feel the calling of evolution’s arrow towards greater levels of aggregation and cooperation
@@ -2798,20 +2735,12 @@ Conformist transmission
 
 > "Peace cannot be kept by force; it can only be achieved by understanding." - [Albert Einstein](https://www.goodreads.com/quotes/4464-peace-cannot-be-kept-by-force-it-can-only-be)
 
-> "Blind belief in authority is the greatest enemy of truth." - [Albert Einstein](https://www.goodreads.com/quotes/10610-blind-belief-in-authority-is-the-greatest-enemy-of-truth)
 
 
 
 
-What if radical transparency and cooperation for companies gave them an effectively free marketing budget (they'd be upregulated by the network) and also contributions from everywhere - like with open source? They still price in the labor and input costs, but there's no need for a marketing budget?
-
-What if we made advertising in its current form obsolete? What if false claims were not allowed? What if demand could not be manufactured? What if we had an immune system?
 
 
-
-> "The best argument against democracy is a five-minute conversation with the average voter." - [Winston Churchill](https://www.goodreads.com/quotes/5980-the-best-argument-against-democracy-is-a-five-minute-conversation-with)
-
-> "Democracy is the worst form of government – except for all the others that have been tried." - [Winston Churchill](https://blogs.fcdo.gov.uk/petermillett/2014/03/05/the-worst-form-of-government/)
 
 
 
@@ -2955,15 +2884,6 @@ What if it becomes a competitive advantage for companies to allow their employee
 This is the real neuralink - the real way we link our minds
 
 We should crowdsource the best possible guide to being a human
-
-Cooperation is the ultimate intentionally evolutional goal
-
-Write about wealth distribution and accumulation and how we should think about it
-
-We could individually give 100 “credit boost” credits initially so we can directly port our current importance graph that we all contain in our heads. The great reset - bootstrapping a brand new importance graph as a starting point
-^^ this should be in the roadmap as a strategy
-
-Chapter about what twitter should do with headjack - play on their infra skills and capture the AWS-like part of the future business ecosystem because its a nobrainer and they have expertise
 
 Our technical capability is growing exponentially while our capacity to make sense of the exponentially increasing complexity of the world is diminishing - this runs off a cliff
 our information ecology is increasingly more broken
@@ -3830,8 +3750,6 @@ there isn't anything bigger than trying to optimize the antroposcene
 
 different scroring criteria are different models of the world - different lenses
 
-
-we can color-code in the UI any URI where the names no longer belong to their former owners at the time of publication
 
 Our world is hopelessly broken - the american dream has been dead for decades and this is the culmination?!
 
@@ -4744,21 +4662,9 @@ There should be a vision for how others can capitalize on the opportunity and be
 == ideas for apps:
 - feed composer - from subscriptions - with pipes
 
-
-We need more feedback and error correction
-
-
 Making physical location obsolete for the digital world
 
-
-DEFRAGMENTATION !!!
-Solution to the disjoint documents saved by IDMs - compaction through re-publication?
-Separate messages into header and payload so that only the header could be stored for deleted items - but it would contain the metadata such as “reply_to” uri and its own uri for example
-
-
-
 what if you used your own IDM but authorized a commercial IDM as a proxy for yours - to aggregate your actions along with those of others such that less fees are paid? or this is nonsense? there should be a way to proxy at least some bits to your own server...
-
 
 streaming platforms will know how much you've watched something. They could sell that data. Apps that request it and mediate it could anonymize the user somehow? But the streaming service will have a direct IP connection with the user - unless the app acts as a bandwidth proxy?
 

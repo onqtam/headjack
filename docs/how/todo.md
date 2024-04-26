@@ -216,6 +216,19 @@ https://en.wikipedia.org/wiki/Digital_object_identifier
 
 - how to make things with a URI an NFT
 
+TECHNICAL OPTIMIZATION: think about proper URIs for apps that nevertheless use a proxy for optimal block space use - on-chain rights to increment the nonce on behalf of another app?
+What if there are 2 modes for proxy apps: to explicitly say which other app’s nonces should be incremented and also assumed by default as “on” - increment the other app’s nonce without having to constantly publish bytes in chain for it? And the apps can have ToS agreements with proxy apps. Proxy apps as nonce clocks with a tick rate and off-chain synchronisation for when a batch is finished and the next one should be started
+Apps will pay proxy apps through other means - no need for atomicity and contracts and all that jazz
+
+Uris: what if the 3rd and 4th number are all zeroes and that means that is a “named” resource that should be resolved differently?
+The bit.ly of addressing in this world is woth just 2 numbers: acc_id/resource_id and the respurce_id can be also a string 
+
+we can color-code in the UI any URI where the names no longer belong to their former owners at the time of publication
+
+DEFRAGMENTATION !!!
+Solution to the disjoint documents saved by IDMs - compaction through re-publication?
+Separate messages into header and payload so that only the header could be stored for deleted items - but it would contain the metadata such as “reply_to” uri and its own uri for example
+
 - what hash function to use - 256-bit Blake2B hash?
     on choosing the strength of the hash function
         https://eprint.iacr.org/2019/1492.pdf

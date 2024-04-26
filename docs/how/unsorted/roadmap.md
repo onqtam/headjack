@@ -26,11 +26,14 @@ strategy: referral links and giving status retroactively to individuals you invi
 
 Strategy: let people help with the global brain - gaining reputation in return
 
+strategy: We could individually give 100 “credit boost” credits initially so we can directly port our current importance graph that we all contain in our heads. The great reset - bootstrapping a brand new importance graph as a starting point
+
 strategy:
 we can "import" a part of the web simply by making entries with a message type with an external URI pointing to a traditional page and then allow for commenting and voting and whatnot
 
 strategy: dogfooding the system - piping every aspect/argument/assumption of the vision through the collective sensemaking system as soon as possible and allowing for iteration on every aspect of it
 
+Chapter about what twitter should do with headjack - play on their infra skills and capture the AWS-like part of the future business ecosystem because its a nobrainer and they have expertise
 
 Include a way for people to add their email as early converts and put their counter globally somewhere - visibly online - up to date
 

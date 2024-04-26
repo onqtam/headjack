@@ -142,3 +142,7 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 
 we should be thinking in terms of sensory & motor systems - OODA loop
 
+> "We are pragmatists. We don't stick to any ideology. Does it work? Let's try it, and if it does work, fine, let's continue it. If it doesn't work, toss it out, try another one. We are not enamored with any ideology." - [Lee Kuan Yew](https://www.goodreads.com/quotes/10141150-we-are-pragmatists-we-don-t-stick-to-any-ideology-does)
+
+> "I believe that life is a process of continuous change and a constant struggle to make that change one for the better." - [Lee Kuan Yew](https://www.goodreads.com/quotes/7289188-i-believe-that-life-is-a-process-of-continuous-change)
+

@@ -5,6 +5,8 @@
 
 How do we most optimally crowdsource the best possible worldview?
 
+> "Metanarratives can save lives. They can save civilizations. Or said differently, lack of metanarratives can kill off civilizations. It’s happened before that civilizations drive off a cliff because their people failed to see the bigger picture they were part of." - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1782326212913766586)
+
 > "We are a way for the cosmos to know itself." - [Carl Sagan](https://www.goodreads.com/quotes/237548-we-are-a-way-for-the-cosmos-to-know-itself)
 
 > "Through our eyes, the universe is perceiving itself." - [Alan Watts](https://www.goodreads.com/quotes/226051-through-our-eyes-the-universe-is-perceiving-itself-through-our)
@@ -258,6 +260,8 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 
 > "By promoting the emergence of self-organizing social, political, and economic networks, decentralization and hyperconnection may bring about new levels of order and knowledge. Supporting this movement is an ethical and spiritual imperative for those who want to see the human race succeed and evolve into something greater." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=By%20promoting%20the,into%20something%20greater.)
 
+> "The art of government is the art of building up team spirit." - [Lee Kuan Yew](https://www.goodreads.com/quotes/10326600-the-art-of-government-is-the-art-of-building-up)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Time preference expansion
 ██████████████████████████████████████████████████████████████████
@@ -385,22 +389,6 @@ we can - and should - manifest the first major intentional evolutionary step for
 > "The Protopian believes that the games of life are real and just as hurtful as we experience them, but that they have been changed throughout history, they can be changed again, and they very likely will be at one time or another. The Protopian believes in [Game Change](https://metamoderna.org/game-change-yes-please/) and what I have formerly called “relative utopia” — if slavery did end and democracy did prevail, why shouldn’t corresponding leaps be possible in the future?" - [What’s The Difference between Utopia, Eutopia and Protopia?, by Hanzi Freinacht](https://metamoderna.org/whats-the-difference-between-utopia-eutopia-and-protopia/#:~:text=The%20Protopian%20believes%20that%20the,be%20possible%20in%20the%20future%3F)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Sharing economy, having enough & not competing for status through possession
-██████████████████████████████████████████████████████████████████
-
-
-> "There is enough for everyone. People think that there isn't enough, so they get as much as they can, so many people don't have enough." - [R. Buckminster Fuller](https://www.azquotes.com/quote/546271)
-
-> "Our beds are empty two-thirds of the time. Our living rooms are empty seven-eighths of the time. Our office buildings are empty one-half of the time. It's time we gave this some thought." - [R. Buckminster Fuller](https://www.azquotes.com/quote/945085)
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Technology is not neutral
-██████████████████████████████████████████████████████████████████
-
-> "But it is much later in the game now, and ignorance of the score is inexcusable. To be unaware that a technology comes equipped with a program for social change, to maintain that technology is neutral, to make the assumption that technology is always a friend to culture is, at this late hour, stupidity plain and simple." - [Neil Postman](https://www.goodreads.com/quotes/286008-but-it-is-much-later-in-the-game-now-and)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Reducing or improving bureaucracy through culture, norms, automation & collective intelligence
 ██████████████████████████████████████████████████████████████████
 
@@ -520,6 +508,12 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 > "We talk about civilization as though it's a static state. There are no civilized people yet, it's a process that's constantly going on... As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/728456)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Technology is not neutral
+██████████████████████████████████████████████████████████████████
+
+> "But it is much later in the game now, and ignorance of the score is inexcusable. To be unaware that a technology comes equipped with a program for social change, to maintain that technology is neutral, to make the assumption that technology is always a friend to culture is, at this late hour, stupidity plain and simple." - [Neil Postman](https://www.goodreads.com/quotes/286008-but-it-is-much-later-in-the-game-now-and)
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Values & virtues
 ██████████████████████████████████████████████████████████████████
 
@@ -549,67 +543,6 @@ What if web3 is not "the Internet of value" as in transactional value, but the i
 > "Everyone talking about product-market fit. Nobody talking about user-values fit. And we’re supposed to solve AI Alignment?" - [Peter Wang](https://twitter.com/pwang/status/1743377594366496788)
 
 > "We argue that human agents learn the shared habits, norms, and expectations of their culture through immersive participation in patterned cultural practices that selectively pattern attention and behaviour. We call this process “thinking through other minds” (TTOM) – in effect, the process of inferring other agents’ expectations about the world and how to behave in social context. We argue that for humans, information from and about other people's expectations constitutes the primary domain of statistical regularities that humans leverage to predict and organize behaviour." - [Thinking through other minds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/thinking-through-other-minds-a-variational-approach-to-cognition-and-culture/9A10399BA85F428D5943DD847092C14A#:~:text=We%20argue%20that,and%20organize%20behaviour.)
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Complexity Economics
-██████████████████████████████████████████████████████████████████
-
-Eudaemonic economy
-
-Conscious economics
-
-> "Economics can be seen as the interface layer between our values and the way we build the world." - [Daniel Schmachtenberger](https://thecitesite.com/authors/daniel-schmachtenberger/#:~:text=Economics%20can%20be%20seen%20as%20the%20interface%20layer%20between%20our%20values%20and%20the%20way%20we%20build%20the%20world.)
-
-> "People get confused sometimes they think an economy is money. Money is a database for exchange of goods & services. Money doesn't have power in & of itself. The actual economy is goods & services." - [Elon Musk](https://twitter.com/cb_doge/status/1550819912725123072)
-
-> "Companies and corporate structures are 17th-century constructs based on pre-industrial models of allocation of scarcity in the face of risk. The future of humanity is one of physical abundance for our biological forms, but UNLIMITED UPSIDE for our cognitive and spiritual essences. I refuse to submit my & my childrens' future to the lazy inertia of existing economic paradigms.
->
-> We failed to secure open innovation in software, and we failed to lock the Web open. Instead we produced trillion dollar companies that held our data captive to create surveillance and attention economies, rather than empowering end users and fostering the development of end-user creativity and innovation.
->
-> Two generations of investors are now completely hooked on this model of extractive network effects. SO MUCH of this growth was fueled by the gift economics of nerd communities producing open-source software and cohering de facto OPEN STANDARDS which neither governments nor BigCo nor academia could produce. These Schelling points that balanced risk, utility, and user needs are brilliant examples of alternative economic models for an abundant, regenerative future." - [Peter Wang](https://twitter.com/pwang/status/1765073129431588994)
-
-> "The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete." - [Peter Thiel](https://www.goodreads.com/quotes/5199889-the-most-valuable-businesses-of-coming-decades-will-be-built)
-
-> "Sometimes I try to imagine a world where scientific young minds enjoyed greater rewards for revolutionizing, like, farming methods, manufacturing, or energy, rather than the dark patterns used to optimize ad-clicks at Google and Facebook. How did we get here?" - [Edward Snowden](https://twitter.com/Snowden/status/1451342274667876353)
-
-complexity_econ_1.png
-complexity_econ_2.png
-complexity_econ_3.png
-complexity_econ_4.png
-complexity_econ_5.png
-complexity_econ_6.png
-complexity_econ_7.png
-complexity_econ_8.png
-complexity_econ_9.png
-complexity_econ_10.png
-complexity_econ_11.png
-complexity_econ_12.png
-
-How Complexity Economics Can Save the World
-https://www.youtube.com/watch?v=Kis6vZlGqHQ
-
-> "Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world." - [Fredric Jameson](https://www.goodreads.com/quotes/7690016-someone-once-said-that-it-is-easier-to-imagine-the)
-
-> "It often happens that the universal belief of one age of mankind... becomes to a subsequent age so palpable an absurdity, that the only difficulty then is to imagine how such a thing can ever have appeared credible." - [John Stuart Mill](https://www.azquotes.com/quote/652591)
-
-> "The most pragmatic problem is the future of this planet, and its survival. And I think one of the great disgraces of academic economists is that they're not at the forefront of this. It's morally reprehensible that they're not leading the way." - [Geoffrey West](https://twitter.com/sfiscience/status/1193262457566842881)
-
-> "We have a hundred trillion cells in our bodies and each one of them has thirty thousand recycling centres renewing our proteins. They're so hi-tech that they can take in a protein, disassemble it, build a new protein (perhaps an entirely different kind) and issue the new protein. That's as if we could stick trees into a chipper machine and get a live tree out the other side. Very hi-tech! We're not nearly as hi-tech yet, as our own internal microworld.
->
-> We have a great deal to learn from nature. Take economics. If we ran our bodies' economy the way our economy is run it might look something like this. We could call the heart-lung system the “northern industrial organs”. You give them ownership of the bones in which you mine the raw material blood cells that arise in the marrow. Sweep them up here to the northern industrial organs. Purify the blood as actually happens. Add oxygen and then the heart distribution centre announces “The body price for blood today is so much. Who will buy?” And you ship the blood to the organs that can afford it and not all can. This is the situation we have economically in the world today. You can see that a living system can't function that way." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#:~:text=We%20have%20a%20hundred,can%27t%20function%20that%20way.)
-
-> "What kind of competition is there in your body? Suppose your brain said ' I'm the most important organ, and the liver said 'I am, and I want to go in a free enterprise-system.' You would rot away in a month, if every organ of your body, were out for itself." - [Jacque Fresco](https://www.azquotes.com/quote/728466)
-
-> "The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design. To the naive mind that can conceive of order only as the product of deliberate arrangement, it may seem absurd that in complex conditions order, and adaptation to the unknown, can be achieved more effectively by decentralizing decisions and that a division of authority will actually extend the possibility of overall order. Yet that decentralization actually leads to more information being taken into account." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6867865-the-curious-task-of-economics-is-to-demonstrate-to-men)
-
-> "Civilization rests on the fact that we all benefit from knowledge which we do not possess." - [Friedrich A. Hayek](https://www.goodreads.com/quotes/6539631-civilization-rests-on-the-fact-that-we-all-benefit-from)
-
-Stagnation & optimizing for the wrong thing (GDP)
-
-> "You have as much computing power in your iPhone as was available at the time of the Apollo missions. But what is it being used for? It’s being used to throw angry birds at pigs; it’s being used to send pictures of your cat to people halfway around the world; it’s being used to check in as the virtual mayor of a virtual nowhere while you’re riding a subway from the nineteenth century." - [Peter Thiel](https://www.azquotes.com/quote/720837)
-
-> "We wanted flying cars, instead we got 140 characters." - [Peter Thiel](https://www.goodreads.com/quotes/697729-we-wanted-flying-cars-instead-we-got-140-characters)
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
@@ -1405,27 +1338,22 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "Even God seems to create by designing incentives." - [Gordon Brander](https://twitter.com/gordonbrander/status/1700228049399148932)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: The sharing economy
+# SECTION: The Great Reset & The New Elite
 ██████████████████████████████████████████████████████████████████
 
-== You will own nothing, and be happy
-Few people could predict uber and airbnb - most were extremely sceptical. The same will be true for the sharing economy
+We should incentivise participating transparently in public and make that the only way of climbing the social ladder - a complete flattening of the power distribution - this is the great reset
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Redistribution
-██████████████████████████████████████████████████████████████████
+> "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
 
-> "Don’t be dogmatic about the government always being good or bad. Don’t think education or healthcare should always be private or always be public. The question is never what philosophy is better. The question is: *What are each market’s failures, and how can regulation correct them*." - [Martels vs Hasfiris, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/martels-vs-hasfiris#:~:text=Don%E2%80%99t%20be%20dogmatic%20about%20the%20government%20always%20being%20good%20or%20bad.%20Don%E2%80%99t%20think%20education%20or%20healthcare%20should%20always%20be%20private%20or%20always%20be%20public.%20The%20question%20is%20never%20what%20philosophy%20is%20better.%20The%20question%20is%3A%20What%20are%20each%20market%E2%80%99s%20failures%2C%20and%20how%20can%20regulation%20correct%20them.)
+The current elites would have to start earning reputation from the ground up on the new rules
 
-██████████████████████████████████████████████████████████████████
-# SECTION: The best that money can't buy
-██████████████████████████████████████████████████████████████████
+The League of Extraordinary Ladies & Gentlemen - the cultural stewards that set the initial direction of the enculturation process and onboard the next 10x and 100x people - until 1,000,000 is reached. And this can be done in parallel with competing cultures & social systems within the same shared global enculturation landscape - different cultures can have different champions.
 
-“The best that money can’t buy” - book by Jacque Fresco (RIP) but reusing it - we need to design status games such that you can’t buy your way in
+Game A is mostly closed - there is theoretic social mobility but it's heavily skewed. Game B is open - the gates to power are open for the best of the best
 
-property rights
+We need to allow the next generations to grown into their rightful place in the hierarchy and avoid gerontocracy
+> "Science advances one funeral at a time." - [Max Planck](https://www.goodreads.com/quotes/111818-science-advances-one-funeral-at-a-time)
 
-> "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: the world game
