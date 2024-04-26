@@ -41,6 +41,9 @@ According to cybernetics, intelligence sits on top of feedback loops
 # SECTION: Relevance realization
 ██████████████████████████████████████████████████████████████████
 
+at the core of intelligence is the capacity for relevance realization - according to john vervaeke
+relevance realization is self-organizing
+
 > "Relevance is like biological fittedness. It is cognitive fittedness." - [John Vervaeke](https://twitter.com/tomowenmorgan/status/1742174771196866796)
 
 > "You face a problem - in fact it's a meta problem whenever you're trying to do any problem solving - this is the following problem: the amount of information available to you is combinatorily explosive, it is vast, it is overwhelming. The amount of things you could pay attention to in this room - you could look at that spot right there, or that spot, or the relationship between the spots - you can do that, you're capable of it. When you think about it carefully now: the amount of ways you could look at this room and attend to it is combinatorially explosive. It is vast. The amount of information you have in your long-term memory and the possible combinations - it's huge. You could think of an aardvark, you could think of the Aztec empire, you could think of the beginning of the gold standard, and you could possibly even connect them all together. Think of all the ways you can connect all the things in your long-term memory. All the sequences of actions - I'm going to solve a problem - I'm going to start moving my body around, I can move this finger, then this finger could move these two, I could grab I could lift my hands, like oh I can sing - out of all the possible combinations you somehow zero in on the right thing to do, the right thing to pay attention to, and the right things to be remembering right now. You zero in on the relevant information and you ignore most - overwhelmingly most - of the irrelevant information. You frame your cognition and you pay attention only to what's within that frame and you ignore what's outside of that frame. It sounds paradoxical but this is the case - you're intelligent because of your capacity to ignore so much information." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=730)
@@ -136,4 +139,6 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 > "I Am a Strange Loop argues that the key to understanding selves and consciousness is the “strange loop”—a special kind of abstract feedback loop inhabiting our brains." - [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop#:~:text=I%20Am%20a%20Strange%20Loop%20argues%20that%20the%20key%20to%20understanding%20selves%20and%20consciousness%20is%20the%20%E2%80%9Cstrange%20loop%E2%80%9D%E2%80%94a%20special%20kind%20of%20abstract%20feedback%20loop%20inhabiting%20our%20brains.)
 
 ^^ What is our societal (OODA) loop?
+
+we should be thinking in terms of sensory & motor systems - OODA loop
 

@@ -24,6 +24,7 @@ provenance graphs - imagine being able to check if any of the inputs of a story 
 
 If we can annotate facts and claims then we’d be able to track the provenance of ideas - or at least view their first occurance
 
+we use symbols and categories in our minds and there's a single representation for any concept/entity/event - we should do the same for the global brain
 
 > "So what do we do about this world we are living in where content can be created by machines and ascribed to us? I think we will need to sign everything to signify its validity." - [AVC](https://avc.mirror.xyz/JpTblGUpDMA7SMS6HYdoYgbQE9H_a_wYq330pit_aRU)
 

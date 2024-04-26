@@ -308,11 +308,17 @@ https://en.wikipedia.org/wiki/Hawthorne_effect
 
 > "The world is a dangerous place to live, not because of the people who are evil, but because of the people who don't do anything about it." - [Albert Einstein](https://www.goodreads.com/quotes/29875-the-world-is-a-dangerous-place-to-live-not-because)
 
+the right kind should be rewarded
+
 TODO INTERNET
 IMAGE: see no evil hear no evil
 https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._SL1500_-1.jpg?fit=660%2C382&ssl=1
 
 > "Even 20 years ago people might have considered a whistleblower more a patriot than a national security threat. Now we've moved more towards the direction of considering whistleblowers national security threats. I think that says negative things about our prospects even if perhaps tactically it's the right thing to do in a competitive environment." - [Samo Burja](https://youtu.be/FyJa_TnwSB4?t=2193)
+
+> "Currently, there's a strong disincentive for speaking the truth if it makes your in-group look worse or your out-group look better. Financial incentives help counteract those tribal incentives." - [Balaji Srinivasan](https://twitter.com/eriktorenberg/status/1227423830559248385)
+
+> "One of the best ways to achieve justice is to expose injustice." - [Julian Assange](https://twitter.com/ancapquotes/status/1721422177029804235)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
@@ -448,16 +454,22 @@ Problems with democracy and voters:
 > "We should try to raise the floor, and we should take a holistic way of doing that, including encouraging everyone to study the habits that successful communities have adopted, instead of just blaming disparities on discrimination. We should also accept that inequality is the natural state of the world, and any program meant to equalize outcomes is dead on arrival. By accepting that (and studying why) people are different, we can achieve a proper balance between social mobility and hierarchy, between nature and nurture, between what we can change and what we can’t — and deploy our dollars and set our expectations accordingly. By refusing to admit that individual decisions and cultural values make a difference, we’re actually hurting the communities we claim to serve, alienating them from their agency. It might feel kind, but it’s anything but." - [People are Different, by Erik Torenberg](https://eriktorenberg.substack.com/p/people-are-different#:~:text=We%20should%20try,it%E2%80%99s%20anything%20but.)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: The Great Reset
+██████████████████████████████████████████████████████████████████
+
+We should incentivise participating transparently in public and make that the only way of climbing the social ladder - a complete flattening of the power distribution - this is the great reset
+
+> "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
+
+The current elites would have to start earning reputation from the ground up on the new rules
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Other
 ██████████████████████████████████████████████████████████████████
 
 https://twitter.com/eriktorenberg/status/1748056677449138500
 "Backchannel references as a service - Pay money, get a reference. Give a reference, get paid (as long as your reference is desired) If you're seeking a reference, you only pay if we find you someone you want to talk to"
 ^^ this but with ZK
-
-> "Currently, there's a strong disincentive for speaking the truth if it makes your in-group look worse or your out-group look better. Financial incentives help counteract those tribal incentives." - [Balaji Srinivasan](https://twitter.com/eriktorenberg/status/1227423830559248385)
-
-> "One of the best ways to achieve justice is to expose injustice." - [Julian Assange](https://twitter.com/ancapquotes/status/1721422177029804235)
 
 We need to be able to bet on anything (DO WE?)
 > "Where can I purchase a futures contract on the number of patent citations a physics paper will have in 5 years?" - [Daniel Gross](https://twitter.com/danielgross/status/1684209771895726081)
