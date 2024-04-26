@@ -317,6 +317,9 @@ We need to define the language of the internet so that we may aggregate and inte
 
 influence, incenives & causality throughout our societies need to be mapped out and made traceable & computable
 
+the better we causally map reality, the better we'd navigate and realize what is relevant
+
+we need a holistic view of the inerconnectedness of our civilization
 
 > "Of course, our failures are a consequence of many factors, but possibly one of the most important is the fact that society operates on the theory that specialization is the key to success, not realizing that specialization precludes comprehensive thinking." - [R. Buckminster Fuller](https://www.azquotes.com/quote/826673)
 

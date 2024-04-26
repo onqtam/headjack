@@ -39,6 +39,9 @@ In order to reconstruct we must first deconstruct. What types of actions & event
 TODO: data exhaust
 https://en.wikipedia.org/wiki/Data_exhaust
 
+TODO:
+We should be able to export our listening history from spotify and migrate our tastes with greater precision that simply our liked songs (which we also can’t take with us elsewhere)
+
 - **Authoring documents & events**
     - **Posts & documents** (sharing/retweeting are a type of post too)
     - **Comments** - on posts/documents and other comments

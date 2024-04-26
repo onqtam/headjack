@@ -469,6 +469,8 @@ https://www.lesswrong.com/tag/conflict-vs-mistake
 # SECTION: Individualism & narcissism
 ██████████████████████████████████████████████████████████████████
 
+hyperindividualism will be our doom
+
 > "Everywhere I look, I see people who are free — free to be alone and adrift, without callings or commitments." - [The Limitations of Freedom, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-limitations-of-freedom#:~:text=Everywhere%20I%20look%2C%20I%20see%20people%20who%20are%20free%20%E2%80%94%20free%20to%20be%20alone%20and%20adrift%2C%20without%20callings%20or%20commitments.%C2%A0%20%C2%A0%C2%A0)
 
 > "The same buffer that frees you from constraints on family, society, and religion, is the same buffer that isolates you. And there’s a profound loneliness in this, because meaning is now entirely up to you. You’re alone in an endeavor that humans have been trying to do as a collective for thousands of years…Good luck!" - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=the%20same%20buffer%20that%20frees,thousands%20of%20years%E2%80%A6Good%20luck!)
@@ -733,6 +735,8 @@ https://www.youtube.com/watch?v=9GorqroigqM
 The Story of Stuff
 
 why do they make packaging that's impossible to reuse/recycle and is composed of multiple different types of material?
+
+We are debasing the substrate upon which we depend
 
 Ecocide - insects are dying at 2% per year
 

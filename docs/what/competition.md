@@ -253,6 +253,9 @@ bloat because of individual signatures - versus computable hashes that don't nee
 
 DA is very important for DID resolution - if there's no guaranteed DA - there's no guaranteed resolution.
 
+Headjack offers a few distinct data retrievability setups - fully decentralized or proxy-mediated
+
+Hierarchy is a core tenet in computer science
 
 authentic timestamps?
 
