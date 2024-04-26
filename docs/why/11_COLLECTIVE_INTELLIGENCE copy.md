@@ -971,7 +971,6 @@ https://prnt.sc/FTXL0rEN6vz3
 https://prnt.sc/MqZJfMJHnJqG
 https://twitter.com/alexandrosM/status/1614328083645100032
 
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Global Brain
 ██████████████████████████████████████████████████████████████████
@@ -1036,6 +1035,35 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 
 > "For de Chardin, the noosphere emerges through and is constituted by the interaction of human minds... As mankind organizes itself in more complex social networks, the higher the noosphere will grow in awareness. This concept extends Teilhard's Law of Complexity/Consciousness, the law describing the nature of evolution in the universe. Teilhard argued the noosphere is growing towards an even greater integration and unification, culminating in the Omega Point - an apex of thought/consciousness - which he saw as the goal of history." - [Noosphere, Wikipedia](https://en.wikipedia.org/wiki/Noosphere#:~:text=For%20de%20Chardin,goal%20of%20history.)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: LLMs & interfacing with the GB
+██████████████████████████████████████████████████████████████████
+
+We can use LLMs to annotate long-form media and link to all the claims
+
+LLMs can help craft a propositional claim with structured data
+^^ THIS HAS BEEN A MAJOR HURDLE FOR THE ADOPTION OF A SEMANTIC WEB - THE INACCESIBILITY for normal people to express themselves in such a way and to consume such data. LLMs fix this.
+
+We can have approved LLMs for tagging data and use zk-ml to prove that the specific model was used
+
+how do we express "I don't want fast food in my neightbourhood"?
+What if you could ask an LLM "what does my neightbourhood want to change?"
+
+Use LLMs to contribute annotations and structured data and use LLMs to speak back at you what the aggregate thinks
+
+LLMs will be the global brain interpreters and narrators
+
+We could have a specialized LLM trained specifically to "talk" in the language of this system (construct structured data with the right ontologies)
+
+We can use LLMs to generate the headlines/summaries to combat clickbait
+
+LLMs are the gate/bridge to structure, aggregation, and integration
+
+imagine talking with the aggregate sentiment and knowledge of the world with the help of an LLM and exploring humanity in real time through any lens you wish - not with some pre-trained model without a clue how the sausage was made
+
+what if AI alignment is the process of turning up the level of cooperation democratically and publically and then train LLMs to best extract the most accurate levels of values of society
+
+we can rank different sources of signal differently and prioritize the weights of the LLM differently when "extracting" the compressed version of our collective conscience
 
 ██████████████████████████████████████████████████████████████████
 # quotes

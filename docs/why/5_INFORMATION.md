@@ -77,6 +77,8 @@ There is no integration without complete deduplication of data and identities
 
 Information theory could be as important as or even fundamental to matter & the laws of physics - they are tightly interwoven. Nature strives to remove unnecessary bits when it comes to exchange of information - and so should we.
 
+some people think that with LLMs we've reached the pinnacle of communication with machines with something as natural as text but that couldn't be further from the truth - we need structured data more than ever
+
 What if:
 
 - most comments were turned into reactions/votes/assertions that are unambiguous? There's always the option to comment on your reaction/vote/assertion to clarify it and add context.

@@ -600,6 +600,8 @@ What if web3 is not "the Internet of value" as in transactional value, but the i
 
 children are sponges
 
+It is fundamentally an education crisis
+
 Curiosity/acc
 
 > "We can start teaching our citizens, especially children, how to think through problems and scenarios logically, so that they aren’t vulnerable to psychological manipulation by politicians and marketers. Most of these are no-brainers, but without an overarching ideology, we have no road map to efficiently guide us toward the social phase transition we desire." - [Could a "Cosmic Religion" Unite a Divided Nation?, by Bobby Azarian](https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-religion-unite-divided-nation#:~:text=We%20can%20start,transition%20we%20desire.)
@@ -617,6 +619,8 @@ A cultural enlightenment
 We are all complicit in ignorance
 we need to upgrade our capacity to learn
 We are failing at raising humans
+
+Humans are LLMs - you poke poke and stuff comes out, and they go through very suboptimal life-long training
 
 What if our games taught skills that the GB needs?
 
@@ -892,6 +896,11 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████
 
+Meme: Fork in the road: dysfunctional gameA vs solving the metacrisis
+
+meme: Dad - what did you do - fucking legend - I helped revitalize civilization and make it multi-planetary
+
+
 > "When a system is far from equilibrium, small islands of coherence have the capacity to shift the entire system." - [Ilya Prigogine](https://www.systeminnovation.org/blog/five-lessons-from-system-shifters-lesson-three#:~:text=When%20a%20system%20is%20far%20from%20equilibrium%2C%20small%20islands%20of%20coherence%20have%20the%20capacity%20to%20shift%20the%20entire%20system.)
 
 > "The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire." - [Malcolm Gladwell](https://www.goodreads.com/quotes/105251-the-tipping-point-is-that-magic-moment-when-an-idea)
@@ -1018,6 +1027,7 @@ What if we could make a literally true one?
 
 The fairness protocol as god
 The god protocol is about fairness and consent
+God is an attractor that pulls us towards becoming him - with transcendence as his offering
 
 How do we anthropomorphize the global brain just like we’ve done with past gods?
 
@@ -1344,6 +1354,11 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 We should incentivise participating transparently in public and make that the only way of climbing the social ladder - a complete flattening of the power distribution - this is the great reset
 
 > "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
+
+accountability should be the gold-standard
+
+The 8th social sin is power
+Power must be earned
 
 The current elites would have to start earning reputation from the ground up on the new rules
 

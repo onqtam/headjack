@@ -146,15 +146,11 @@ Google - why do they hide the candy and put the healthy stuff more easily access
 Simplicity as a design goal - the sculpture that is refining itself from fat to thin
 https://www.google.com/search?q=sculpture+carving+itself
 
-Those in power are incapable of something better
-
 a cult around reputation and accountability
 
 TODO: spomni si purvona4alnite ti idei za browser plugin za fake news ili kakvoto beshe tam
 
 typical neural networks encode patterns and knowledge - this "neural network" encodes competence and instead of distributed it follows a power law distribution in terms of contribution from each neuron
-
-this is not page rank - this is entity rank
 
 we can have a "request for labeling/annotating" signal
 
@@ -268,8 +264,6 @@ We need to view this problem through a systems lens
 
 Not an app. Not a platform. Not a protocol. A complex adaptive ecosystem
 
-the goal of this project is to be something that anyone should want and should cheer it to succeed - & funding it eagerly
-
 define a game nobody could object to. a science-based cult with built-in error correction and a drive for self-improvement. The next religions will be those of self-manifesting incentive designs and this is the first of them.
 
 the world we live in is the result of incentives. Change the incentives (aka bribe their cooperation and coordination and transparency with your attention - guaranteed business) - change the system within a single generation.
@@ -313,8 +307,6 @@ information isn't equal - it needs to be weighted
 
 meme: why can't you be normal?
 what is normal? corruption? kleptocracy? popularity contests every 4 years, multipolar traps, war? we need a system reboot now!
-
-Run PageRank on the data => EventRank!
 
 gradually scaling/colling out annotation communities & developing/evolving best practices cookbooks/guides
 
@@ -433,9 +425,6 @@ we can flag whataboutism
 
 the foundation of social capital is a global identity protocol that can be permissionlessly extended
 
-LLMs can help craft a propositional claim with structured data
-^^ THIS HAS BEEN A MAJOR HURDLE FOR THE ADOPTION OF A SEMANTIC WEB - THE INACCESIBILITY for normal people to express themselves in such a way and to consume such data. LLMs fix this.
-
 We need a way to short a bad ideology, disprove it, and gain status from that in an objective way.
 
 We can export stackexchange karma through some onboarding strategy
@@ -509,8 +498,6 @@ In order to merge our minds we need to give unique and shared addresses for enti
 Social media has to be socially controlled
 
 what if every science paper had to have its conclusions expressed with propositional logic?
-
-We can have approved LLMs for tagging data and use zk-ml to prove that the specific model was used
 
 Marrying responsibility with accountability
 
@@ -880,9 +867,6 @@ Our cutting-edge understanding of the world isn’t evenly distributed. It is in
 
 The world runs on stories and there is no bigger story than this - unlike AGI, this is participatory
 
-how do we express "I don't want fast food in my neightbourhood"?
-What if you could ask an LLM "what does my neightbourhood want to change?"
-
 Collective intelligence => collective sensemaking
 
 Informational compulsive overconsumption & addiction
@@ -894,8 +878,6 @@ How do we counter indulgence?
 A social network where your life gets better when you join - thats the goal.
 Meaning, self-improvement, happiness, health and connection. What if you’re assigned to a random group of people who want to improve and are provided with guidelines from the most successful other groups?
 
-Use LLMs to contribute annotations and structured data and use LLMs to speak back at you what the aggregate thinks
-
 Make a series titled “solving the meaning crisis”
 
 How do we build de-escalation into the system?
@@ -904,9 +886,6 @@ What happens if you literally ask in tandem “what is most important” togethe
 Curiosity is the seed of intelligence - it needs to be nourished above all else
 
 We can calculate at any point in time how far you are from consensus on any issue in this ever-changing complex world and we can choose how much to discount your views by
-
-The only way to alignment is through transparency and interpretability
-LLMs will be the global brain interpreters and narrators
 
 Sovereignty for consciousness
 
@@ -1136,8 +1115,6 @@ The ultimate product is the ultimate system which is responsible for every other
 The purest manifestation of “give people what they want”
 Naval quote go big because we all go home
 
-Dad - what did you do - fucking legend meme - I helped revitalize civilization and make it multi-planetary
-
 People can express their views and also their reasoning/reasons - we might only count votes that have also given a reason and we might even require that people have seen the reasoning proposed by others and to have acknowledged it and given those reasons also a weight relative to their own reasons
 
 A separate feed with the truffle pigs - select a few high-grade curators and let their picks show up in your “top 10 daily feed” - no infinite scroll
@@ -1160,19 +1137,11 @@ Twitter and modern day algos & ephemerality are incentivising throwaway engageme
 
 Retrospective time well spent - ask people once a month how they rank their past activity - to tune the system
 
-We have a global economy and local governance - that’s a mismatch
-We need to regulate the balance between competition and cooperation
-The neo-liberal economic order needs to be replaced
-
 What if we could add a cost to politicians if they can’t reach an agreement?
 
 If we’re operating into a self-organising meritocratic & alignment structure - wouldn’t an AGI be more likely to simply tag along with us within this most powerful cooperation structure? Isn’t biology the ultimate self-assembling & recycling substrate for within the environment? The ultimate closed materials loop (barring energy from the sun)?
 
-Fork in the road meme: evil gameA vs solving the metacrisis
-
 If everything is out in the open - people will be more engaged and less disenfranchised
-
-Nietzchie’s madman proclaimed the death of god - now the time for nation states has come.
 
 How do we conserve energy? How do we make it fashionable and into the consciousness/awareness of everyone? What are the lifestyle changes that are necessary?
 
@@ -1630,8 +1599,6 @@ We need a completely new generation of experts who have been educated to think t
 
 The job of memory is to retrieve the right patterns at the right time with the right weights - how do we do this better globally?
 
-We could have a specialized LLM trained specifically to "talk" in the language of this system (construct structured data with the right ontologies)
-
 If we surfaced what should be relevant more optimally as a culture we would be better off. This sounds cliche & trivial but we're shonkingly away from it being the case
 
 Reward policies for contribution and improvements - how to redistribute funds - disincentivizing competition - any industry could be self-assembling with optimal self-governance such that it doesn’t make sense to compete against it when you can simply contribute to the one endeavour and get a big % of the funds if your contribution is meaningful enough. Self-assembling cooperatives with 0 large-scale vertically integrated duplications of work. How do we get the benefits of competition without the duplication of competition? Unbundling vertically integrated companies
@@ -1696,8 +1663,6 @@ What % of the economy is financial services?
 Query which cohorts are using AG1 and also what % of them are paid for promoting it
 
 Follower counts and views are regularly manipulated - an open identity network can fix such manipulation
-
-We can use LLMs to generate the headlines/summaries to combat clickbait
 
 The best and most optimal governing and sensemaking stack can be built on top of an architecture centered around identity and has the highest chance of evolving to the state of optimality precisely on it.
 
@@ -1943,8 +1908,6 @@ Alignment is all about conscious/intentional design of cooperative evolutionary 
 Collectively we are psychologically ill - there is no coherence - we can’t agree on big important probable truths - its like schizophrenia
 
 Multidimensional weights
-
-LLMs are the gate/bridge to structure, aggregation, and integration
 
 Religion as a participatory, binding, and coherence-building process
 
@@ -2355,15 +2318,6 @@ Truth must become the Schelling point
 Capitalism, money, markets. & laws:
 When all you have is a hammer then everything looks like a nail
 
-
-
-> "The problem with experts is that they do not know what they do not know." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177683-the-problem-with-experts-is-that-they-do-not-know)
-
-
-
-an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
-^^ THIS IS A HUGE POINT !!!
-
 think about how the material of RethinkX would fit in this epistemological ecosystem
 
 delegating your vote to someone that you agree with can be more impactful than voting directly because it elevates them and their arguments and narrows down the set of arguments for a debate - making things more manageable
@@ -2377,8 +2331,6 @@ This is how the internet is turned into a neural net
 just like Data Availability layers allow for higher-level modular blockchain forking without much infrastructure hassle, the same way communities can fork with different models that treat & interpret the same set of events differently
 
 Internet 2.0 is a global neural net centered around identity
-
-A agent-weighted library of Alexandria
 
 Integrated information processing
 
@@ -2683,8 +2635,6 @@ https://twitter.com/dwr/status/1691482927430037504
 
 The elites have abandoned the masses
 
-Every human is an LLM - you poke it and stuff comes out
-
 “Should” needs to enter the public conversation
 
 We need to address meaning as a civilization
@@ -2723,8 +2673,6 @@ It's preposterous to claim that we’re at the global optimum as an attractor
 
 We are failing as a species to rank our problems and who is a competent leader
 
-We can use LLMs to annotate long-form media and link to all the claims
-
 How to spread innovation faster - integration - what if orgs had to self-certify which latest best practices they’re following - producing a ranking - incentives
 
 Success-based cultural learning
@@ -2739,27 +2687,12 @@ Conformist transmission
 
 
 
-
-
-
-
-
-
-
-
-> "If we were to forgo our television addiction for just one year, the world would have over a trillion hours of cognitive surplus to commit to share projects." - [Peter H. Diamandis](https://www.goodreads.com/quotes/7185540-if-we-were-to-forgo-our-television-addiction-for-just)
-
-
-
-
 we don't want to be going through heaps of disorganized data with search engines and indexes which resembles looking for a needle in a heystack - we want the information and knowledge to be properly interconnected in the first place so that relevance realization is more easily facilitated
 
 
 
 We need to culturally redefine the fitness landscape - conscious cultural niche construction through collective participation and sensemaking
 
-
-God is an attractor that pulls us towards becoming him - with transcendence as his offering
 
 What if we did a topological sort of our civilizational tasks based on a few maps: 1) a causal map, 2) a dependence map, 3) a values map (importance weights), and started offering status to those that work on the most pressing issues?
 
@@ -2807,14 +2740,9 @@ Remember: you’re peering into the collective wisdom of humanity
 Competing crowdsourced ESG scores
 also GDI scores (global disinformation index) which affects the pockets of media with bad scores
 
-PageRank is the wisdom of crowds
-PageRank is a republic - not a perfect democracy. (Todo: what is a republic) - pages have different influence on other pages
-
 When you browse someone’s lists you’re basically in a one-way conversation with them - “what do you value most, what do you recommend most, etc”
 
 Working transparently and accountably deserves status. The highest accountability level deserves status.
-
-PageRank for accountable and competent individuals is the human alignment problem
 
 Google - relevance realization in the kitchen - sweet stuff is hidden in boxes by default. Why cant we design shops like that? As a “shop” template?
 
@@ -3086,9 +3014,6 @@ Currently, Wikipedia contributors get no status for their work beyond within the
 
 scaling labeling through progressive hierarchical escalation & fixing incentives
 
-status for page rank could have decay
-
-
 What if having worked for a company that got penalized also penalized your reputation - tainting?
 
 Starting with banning pizzerias to burn coal is the most retarded thing we could be doing compared to a carbon tax or fixing our values and status as a society.
@@ -3103,8 +3028,6 @@ what if we could penalize someone for re-uploading a clip instead of linking to 
 
 Recursive relevance realization
 For everything
-
-It is fundamentally an education crisis
 
 Why don’t we derive everything from “most people are good?”
 
@@ -3131,9 +3054,6 @@ https://twitter.com/owocki/status/1673478260330729472?s=46
 The further away from iron curtains - the better
 
 fact-checking billions of people doesn't scale. incentivizing the correct labeling/tagging of assertions and fact-checking assertions only once scales.
-
-https://twitter.com/paulg/status/1673622294227308546?s=46
-What if we could reward the switching of beliefs in such a way as to incentivize early adopters of better ideas?
 
 What if we could allow the greatest minds, scientists & game theorists to compete and engineer the best models for ranking humans based on their public contributions? Rewarding competency, predictive power, and adaptability (changing their minds when they're initially wrong). This can be the greatest game of all time - scoring high in the ever-evolving global ranking - where even anonymous accounts can participate. Enders game?
 
@@ -3215,10 +3135,6 @@ We get more of what we reward
 
 Earning status in public in the status machine
 
-Define arbitrary status models - different pagerank algorithms for identities, concepts & events!
-the results of one page ranking model can be fed into another - layering/wiring complex models
-Google's page rank algorithm simply counts the number of inbound links to a page. It's surely evolved to include other heuristics and some notion of reputation, but pales in comparison to the ranking flexibility and power of an open-ended system built around identity and reputation.
-
 https://en.wikipedia.org/wiki/Trust,_but_verify
 
 We organize our view with tags and lists and let others see our prism - this way the prisms will converge
@@ -3269,8 +3185,6 @@ a permissionless and open-ended event ecosystem around identity is a prerequisit
 
 human progress happens when we increase our ability to ask questions
 
-imagine talking with the aggregate sentiment and knowledge of the world with the help of an LLM and exploring humanity in real time through any lens you wish - not with some pre-trained model without a clue how the sausage was made
-
 getting structured data formats wrong isn't fatal - we can always translate old data to newer and more expressive formats. Evolvability.
 
 Ultimate flexibility
@@ -3284,8 +3198,6 @@ https://www.brainyquote.com/authors/bret-weinstein-quotes
 
 
 
-
-some people think that with LLMs we've reached the pinnacle of communication with machines with something as natural as text but that couldn't be further from the truth - we need structured data more than ever
 
 rewarding Nonviolent Communication
 https://en.wikipedia.org/wiki/Nonviolent_Communication
@@ -3346,9 +3258,6 @@ how to counteract discounting
 better social technologies lower social coordination costs and reduce friction
 
 what if you could define a notification filter for messages/connection requests/etc - anyone with above 10k followers for example
-
-multi-pagerank
-poly/multi
 
 social media posts are ephemeral - they're irrelevant beyond the first couple of days (get burried with time) - they're promoted by the recommendation algorithms only for a a small amount of time as there's a constant stream of new events
 
@@ -3840,13 +3749,7 @@ we should be able to look up if person X has ever made a statement about X, and 
 
 
 
-accountability should be the gold-standard
-
-
-The 8th social sin is power
-Power must be earned
-
-Epistemological bankruptcy - AI
+Epistemological bankruptcy
 
 If we publicly vote on interests it would be easier to form communities
 
@@ -3863,20 +3766,11 @@ Transparency infrastructure
 a civilizational error-correcting mechanism
 civilizational error-correcting through transparency
 
-What is the analog of active noise cancelling in the digital world?
-
-Identity is about information and relations - transactionality is orthogonal
-
-
 This is ultimate freedom in how we globally dissipate information
 
 This is the interoperability protocol of the gaming metaverse as well
 
 Artificial global intelligence is agi alignment
-
-what if AI alignment is the process of turning up the level of cooperation democratically and publically and then train LLMs to best extract the most accurate levels of values of society
-
-we can rank different sources of signal differently and prioritize the weights of the LLM differently when "extracting" the compressed version of our collective conscience
 
 THIS IS AI ALIGNMENT - this is the alignment problem.
 1. we must all have access to the data as easily and effortlessly as possible
