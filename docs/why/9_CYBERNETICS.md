@@ -70,8 +70,7 @@ relevance realization is self-organizing
 
 > "Evolutionary processes are constantly redefining from within evolution what it means to be fit. Relevance realization must constantly be redefining from within relevance realization what it means for information to be relevant." - [Relevance, Meaning and the Cognitive Science of Wisdom](https://www.researchgate.net/publication/286508333)
 
-“Recursive relevance realization is cognition continually redesigning itself to fit the changing world." - Vervaeke and Ferraro
-https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom
+“Recursive relevance realization is cognition continually redesigning itself to fit the changing world." - [Vervaeke and Ferraro](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)
 
 > "Billions are wasted on ineffective philanthropy. Philanthropy is decades behind business in applying rigorous thinking to the use of money." - [Michael Porter](https://www.azquotes.com/quote/234633)
 

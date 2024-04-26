@@ -57,6 +57,7 @@ the only web3 identity/social solution that can partner with OAuth/OpenID - and 
 - countering the "if we build it - they will come" wishful thinking with specifics
 
 The goal is for this idea to spread by word of mouth
+the goal of this project is to be something that anyone should want and should cheer it to succeed - & funding it eagerly - the objections should be way fewer than the arguments in support once fully understood - spread by word of mouth
 
 - partner with
     https://twitter.com/odyseeteam

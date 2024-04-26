@@ -1,8 +1,17 @@
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Attention
+# SECTION: Regulating attention
 ██████████████████████████████████████████████████████████████████
 
+> "If we were to forgo our television addiction for just one year, the world would have over a trillion hours of cognitive surplus to commit to share projects." - [Peter H. Diamandis](https://www.goodreads.com/quotes/7185540-if-we-were-to-forgo-our-television-addiction-for-just)
+
+What is the analog of active noise cancelling in the digital world?
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Attention
+██████████████████████████████████████████████████████████████████
 
 Is it a coincidence that one of the most important papers in AI/ML that introduced transformers was called `"Attention is all you need"`?
 

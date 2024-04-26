@@ -50,7 +50,7 @@ It incentivized the development of rational cognition
 # SECTION: Governance & how broken it is
 ██████████████████████████████████████████████████████████████████
 
-Dumb criminals break laws, smart criminals make laws
+Those in power are incapable of something better
 
 ministry of loneliness
 https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
@@ -65,8 +65,6 @@ https://www.youtube.com/watch?v=SjxJ1wPnkk4
 > "My biggest takeaway from my work since COVID is that governments are pretty dumb and are managed much more poorly than most companies I’ve worked at." - [Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/energy-environment-aging-and-news#:~:text=My%20biggest%20takeaway%20from%20my%20work%20since%20COVID%20is%20that%20governments%20are%20pretty%20dumb%20and%20are%20managed%20much%20more%20poorly%20than%20most%20companies%20I%E2%80%99ve%20worked%20at.)
 
 > "Belief can be manipulated. Only knowledge is dangerous." - [Frank Herbert](https://www.goodreads.com/quotes/384225-belief-can-be-manipulated-only-knowledge-is-dangerous)
-
-> "Absolute power does not corrupt absolutely, absolute power attracts the corruptible." - [Frank Herbert](https://www.goodreads.com/quotes/54212-absolute-power-does-not-corrupt-absolutely-absolute-power-attracts-the)
 
 > "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
 
@@ -275,6 +273,10 @@ https://en.wikipedia.org/wiki/Rational_ignorance
 # SECTION: Corruption
 ██████████████████████████████████████████████████████████████████
 
+Dumb criminals break laws, smart criminals make laws
+
+> "Absolute power does not corrupt absolutely, absolute power attracts the corruptible." - [Frank Herbert](https://www.goodreads.com/quotes/54212-absolute-power-does-not-corrupt-absolutely-absolute-power-attracts-the)
+
 If you don’t think media & the system are corrupt to the core - read Balaji’s piece on SBF & FTX
 https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
@@ -457,6 +459,10 @@ https://www.youtube.com/watch?v=aQuLExIinBE
 governance needs to be applied at the level at which destructive competition is arising
 
 > "We need to fix the rivalrousness of our systems. That’s a big deal because separate nation states are the basis of rivalrous systems, and so our private balance sheets. So, these changes would be fundamental." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1183207414775967746)
+
+We have a global economy and local governance - that’s a mismatch
+We need to regulate the balance between competition and cooperation
+The neo-liberal economic order needs to be updated
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conflict vs mistake theory, Moral hazzards, Opaqueness & Plausible Deniability
@@ -702,6 +708,8 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 ██████████████████████████████████████████████████████████████████
 
 > "The most dangerous worldview is the worldview of those who have not viewed the world." - [Edward O. Wilson](https://www.goodreads.com/quotes/9082954-the-most-dangerous-worldview-is-the-worldview-of-those-who)
+
+> "The problem with experts is that they do not know what they do not know." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177683-the-problem-with-experts-is-that-they-do-not-know)
 
 > "We cannot regulate our interaction with any aspect of reality that our model of reality does not include." - [Stafford Beer](https://bothbrainsrequired.com/2020/04/27/the-history-of-the-environmental-movement-in-5-cartoons/#:~:text=%E2%80%9CWe%20cannot%20regulate,Stafford%20Beer)
 

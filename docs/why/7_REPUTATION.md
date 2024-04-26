@@ -108,6 +108,15 @@ negative reputation and scammers
 
 > "Imagine a decentralized, participatory system with objectors, supporters, checkers, and bettors–all of whom are evaluating claims made by someone. Claimants are usually targets of the sensemaking system, so while their claims are the most visible, they don’t have to be active participants in the truth-tracking process. Everyone else has to stake something, enough that it stings to lose." - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=Imagine%20a%20decentralized,stings%20to%20lose.)
 
+an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
+^^ THIS IS A HUGE POINT !!!
+
+██████████████████████████████████████████████████████████████████
+# SECTION: stick & carrot
+██████████████████████████████████████████████████████████████████
+
+https://twitter.com/paulg/status/1673622294227308546?s=46
+What if we could reward the switching of beliefs in such a way as to incentivize early adopters of better ideas?
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Calculemus! Computable Context
@@ -132,6 +141,24 @@ https://en.wiktionary.org/wiki/calculemus
 ██████████████████████████████████████████████████████████████████
 # SECTION: PageRank 2.0
 ██████████████████████████████████████████████████████████████████
+
+Run PageRank on the data => EventRank!
+
+PageRank is the wisdom of crowds
+PageRank is a republic - not a perfect democracy. (Todo: what is a republic) - pages have different influence on other pages
+
+PageRank for accountable and competent individuals is the human alignment problem
+
+Define arbitrary status models - different pagerank algorithms for identities, concepts & events!
+the results of one page ranking model can be fed into another - layering/wiring complex models
+Google's page rank algorithm simply counts the number of inbound links to a page. It's surely evolved to include other heuristics and some notion of reputation, but pales in comparison to the ranking flexibility and power of an open-ended system built around identity and reputation.
+
+multi-pagerank
+poly/multi
+
+status for page rank could have decay
+
+this is not page rank - this is entity rank
 
 > "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
 

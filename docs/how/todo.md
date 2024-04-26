@@ -653,6 +653,8 @@ move from @handle to full names in citations in the book
 
 add tiny designs/screenshots for the different ideas - like a multi-level tree for subscriptions and how you could be partially subscribed to someone
 
+almost every section could have an example of what could be ranked/sorted for RR
+
 a data-driven society
 
 100 what-ifs as a section

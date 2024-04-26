@@ -257,6 +257,8 @@ Headjack offers a few distinct data retrievability setups - fully decentralized 
 
 Hierarchy is a core tenet in computer science
 
+Identity is about information and relations - transactionality is orthogonal
+
 authentic timestamps?
 
 how easy it is to build aggregators for the entire public web?
@@ -409,7 +411,6 @@ A list of problems with the contenders in the decentralized identity/media space
     - Some anchor to Bitcoin but the time to finality matters a lot for UX - 10-minute block times with probabilistic finality is horrendous.
 
 - Some lack an economic incentive layer.
-    > "Show me the incentive and I will show you the outcome." - [Charlie Munger](https://quotefancy.com/quote/1561882/Charlie-Munger-Show-me-the-incentive-and-I-will-show-you-the-outcome)
 
 <!-- What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. -->
 
