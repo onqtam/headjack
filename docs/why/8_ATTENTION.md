@@ -7,6 +7,9 @@
 
 What is the analog of active noise cancelling in the digital world?
 
+> "We are flooded with information about catastrophes we cannot change. This is new for humanity and probably bad. What if news recommenders were designed not to show you any story that you can’t do anything about?" - [Jonathan Stray](https://twitter.com/jonathanstray/status/1641808066420064262)
+
+> "Now everyone has a license to speak, it’s a question of who gets heard." - [Aaron Swartz](https://www.azquotes.com/quote/916637)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -103,6 +106,8 @@ if you can insert a topic from the top-down that grabs 5-10% of the attention of
 > "As a society, we are obsessed with who has attention, and conspicuously less interested in whether it is deserved. Among many things, this deficit leads to the cultural consequence of “celebrity”. Since having attention is hard to separate from deserving attention, simply having the camera pointing at you implicitly confers upon you some of the power and credentials of authority. This is why we find ourselves in the situation where Hollywood entertainers and professional athletes are empowered to steward good opinion far beyond their actual expertise." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=As%20a%20society,their%20actual%20expertise.)
 
 > "In a broadcast world, merely being “on camera” is to be credentialed. Regardless of your actual capabilities, insight, or character, if you can somehow manage to get on camera you are granted actual audience *and* social authority (Kim Kardashian)." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=In%20a%20broadcast%20world%2C%20merely%20being%20%E2%80%9Con%20camera%E2%80%9D%20is%20to%20be%20credentialed.%20Regardless%20of%20your%20actual%20capabilities%2C%20insight%2C%20or%20character%2C%20if%20you%20can%20somehow%20manage%20to%20get%20on%20camera%20you%20are%20granted%20actual%20audience%20*and*%20social%20authority%20(Kim%20Kardashian).)
+
+> "Like any rational entity, the algorithm learns how to modify the state of its environment — in this case, the user’s mind — in order to maximize its own reward." - [Stuart Russell, Human Compatible (2019)](https://medium.com/understanding-recommenders/is-optimizing-for-engagement-changing-us-9d0ddfb0c65e#:~:text=Like%20any%20rational,Human%20Compatible%20(2019))
 
 
 ██████████████████████████████████████████████████████████████████

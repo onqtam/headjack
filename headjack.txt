@@ -3810,23 +3810,7 @@ we can crowdsource improvement proposals for any topic - for example feature req
 
 What if anyone could analyze the history of reactions of a post and see if there was an initial coordinated boost by some clique of connected accounts from a troll farm? Currrntly such analysis can be done only by insider data analysts
 
-> "Now everyone has a license to speak, it’s a question of who gets heard." - [Aaron Swartz](https://www.azquotes.com/quote/916637)
-
 > "These days, the problem isn't how to innovate; it's how to get society to adopt the good ideas that already exist." - [Douglas Engelbart](https://www.azquotes.com/quote/665712)
-
-> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
-
-> "Like any rational entity, the algorithm learns how to modify the state of its environment — in this case, the user’s mind — in order to maximize its own reward." - [Stuart Russell, Human Compatible (2019)](https://medium.com/understanding-recommenders/is-optimizing-for-engagement-changing-us-9d0ddfb0c65e#:~:text=Like%20any%20rational,Human%20Compatible%20(2019))
-
-> "We are flooded with information about catastrophes we cannot change. This is new for humanity and probably bad. What if news recommenders were designed not to show you any story that you can’t do anything about?" - [Jonathan Stray](https://twitter.com/jonathanstray/status/1641808066420064262)
-
-
-
-
-
-
-
-
 
 Identity can be computable
 
