@@ -337,6 +337,8 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 # SECTION: Neuron
 ██████████████████████████████████████████████████████████████████
 
+> "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
+
 > "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836)
 
 > "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
