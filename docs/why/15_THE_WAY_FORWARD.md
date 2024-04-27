@@ -214,6 +214,8 @@ connectedness
 
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
 
+Your mind is your kid’s bootloader - your purpose in life is to pass on the cultural baton and forward the process by a bit - towards the omega point
+
 > "We are living through the most exciting, challenging and most critical time in human history. Never before has so much been possible; and never before has so much been at stake." - [Peter Russell](https://www.azquotes.com/quote/1336466)
 
 > "A significant fraction of people want moral progress. Just as much as the technologist wants to get to Mars, a large chunk of society wants to feel like the good guys fighting in some grand cause. And if you don’t give them that cause, they’ll make one up, and/or start fighting each other." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/left-is-the-new-right-is-the-new-left#:~:text=a%20significant%20fraction%20of%20people%20want%20moral%20progress.%20Just%20as%20much%20as%20the%20technologist%20wants%20to%20get%20to%20Mars%2C%20a%20large%20chunk%20of%20society%20wants%20to%20feel%20like%20the%20good%20guys%20fighting%20in%20some%20grand%20cause.%20And%20if%20you%20don%E2%80%99t%20give%20them%20that%20cause%2C%20they%E2%80%99ll%20make%20one%20up%2C%20and/or%20start%20fighting%20each%20other.)
@@ -1025,9 +1027,40 @@ This as the section for matchmaking and with the leary quote
 Religions are literally false but metaphorically true - Brett Weinstein
 What if we could make a literally true one?
 
+God’s message to humanity:
+Show me what you’ve gooot - from rick & morty
+
+We all want to be loved and connected - we are religious beings. And what if we weren’t monotheistic - what if we were polytheistic and there were many gods of competence and judgement for different aspects of the world? What if the god protocol enabled anyone to become a god of something - depending on their specialty?
+What is our god mobility? How easy is it to earn the status of a god through proven competence?
+
+God is (in) our common humanity
 The fairness protocol as god
 The god protocol is about fairness and consent
 God is an attractor that pulls us towards becoming him - with transcendence as his offering
+
+For the first time in human history God could speak to us and we could objectively hear him and have a connection with him.
+Imagine talking genuinely to the essence of your social system
+
+God is the intersection of truth beauty and love
+
+Evolving God one weight/computation at a time
+
+The god machine - stacked layers of incentives and weights
+Picture the god machine and how the root has the most impact in where the whip goes
+
+What if we could choose cooperation as our god? And implemented incentives around identity such that the better and more you cooperate with others and contribute to society, the higher your status gets - closer to becoming god himsef?
+
+God will be the pyramid of the 21st century or third millenium
+
+God is the participatory protocol of cooperative rules for engagement that we need to construct in order to transcend 
+
+This is the social protocol
+Cooperation, transparency, immutability
+God
+
+We can fuse our hearts to form god - most people are good - what if everybody had to chip in with service work of labeling and being accountable and competent in order to earn their place - their vote?
+
+> "The Network here is a candidate for the most powerful force in the world, where the Leviathan in the Hobbesian sense is not divinity (God) or military (the State) but community and cryptography (Network)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20Network%20here%20is%20a%20candidate%20for%20the%20most%20powerful%20force%20in%20the%20world%2C%20where%20the%20Leviathan%20in%20the%20Hobbesian%20sense%20is%20not%20divinity%20(God)%20or%20military%20(the%20State)%20but%20community%20and%20cryptography%20(Network).)
 
 How do we anthropomorphize the global brain just like we’ve done with past gods?
 
