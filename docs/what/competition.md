@@ -424,6 +424,8 @@ https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d8
 
 <!-- 
 
+https://www.varunsrinivasan.com/2024/04/28/the-goldilocks-consensus-problem
+
 farcaster is a specific social networking protocol that is trying to also handle consistency & conflicts - like not allowing double liking of a post by a specific user, etc.
 
 Their product-led protocol development strategy means they need to chase product-like targets when designing a foundational protocol. Following [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law), when a measure becomes a target, it ceases to be a good measure.
