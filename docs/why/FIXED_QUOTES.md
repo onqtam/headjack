@@ -287,6 +287,10 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 
 
 
+> "We spent most of the 20th century figuring out how to strip mine the physical resources of the planet. Now with these digital tools, we're spending most of the 21st century figuring out how to strip mine the cognitive resources of the planet. If we understand that that's the basic arc of what's been happening, then we can get enough distance to imagine a different way that this could go. If you get too involved in the tiny thing, it's like, "Well, this person got banned off of Twitter and that person got pulled back on, and now I'm going to go fight about that." No, no, no. At the higher level, we got multiple companies that are doing cognitive strip mining, that are basically... The sanctity of your thought processes is now intruded with ads and misinformation and on finite resources, which is, how many coherent thoughts can a person have in a lifetime? It's not infinite, because it takes a certain amount of time for neurons to go fire. The signals in your neurons, at their fastest pace, only move 90 feet per second. There's a actual, physical limit to how quickly one can think and how many actual, skilled, coherent thoughts they can have in a lifetime. We're ruining that resource right now." - [Tom Chi](https://youtu.be/AjGOGfzAvyc?t=7459)
+
+> "Any civilization that is net negative to nature, even a little bit, let's say a civilization is only 0.1% net negative to nature per year. It still has a thousand years, and that's its death date, because nature runs out. When you take away 0.1% per year, in a thousand years, you got nothing left. Literally, the goal construction is also something that obviously must be true, at some point in human history, otherwise we will not survive. Every civilization that has the opposite goal construction, where it's even a little bit net negative, we'll have a death date on civilization." - [Tom Chi](https://youtu.be/AjGOGfzAvyc?t=7949)
+
 
 
 
