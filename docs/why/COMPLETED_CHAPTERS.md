@@ -235,7 +235,7 @@ what if we could query what our top 10 heroes think about how to get your life, 
 what if we could maintain rankings such as "the top 10 or 50 things I think everyone should have read and/or seen" and "what are the top 10 most pressing issues" and have that surfaced objectively - by whoever dares to speak out - we could publicly rank our concerns
 
 
-What are the top 10 things we should never forget?
+What are the top 10 things we should never forget? Or what's attractive in a partner?
 
 top 10 concept for life: tim urban's life calendar
 
