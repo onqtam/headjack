@@ -649,6 +649,8 @@ We must consciously raise the awareness and education of the so-called masses
 
 > "Student is not a container you have to fill but a torch you have to light up." - [Albert Einstein](https://www.goodreads.com/quotes/249820-student-is-not-a-container-you-have-to-fill-but)
 
+> "It is a miracle that curiosity survives formal education." - [Albert Einstein](https://www.goodreads.com/quotes/261800-it-is-a-miracle-that-curiosity-survives-formal-education)
+
 > "Do not indoctrinate your children. Teach them how to think for themselves, how to evaluate evidence, and how to disagree with you." - [Richard Dawkins](https://www.goodreads.com/quotes/508702-do-not-indoctrinate-your-children-teach-them-how-to-think)
 
 > "Elite overproduction is a problem if you are not producing a cognitive elite." - [Joscha Bach](https://twitter.com/Plinz/status/1746430118019678666)
