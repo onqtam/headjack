@@ -3,7 +3,6 @@
 
 > "Selfishness beats altruism within groups. Altruistic groups beat selfish groups. Everything else is commentary." - [David Sloan Wilson](https://www.goodreads.com/quotes/950594-selfishness-beats-altruism-within-groups-altruistic-groups-beat-selfish-groups)
 
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Altruism
 ██████████████████████████████████████████████████████████████████
@@ -20,6 +19,8 @@ cooperation does not evolve easily
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
+
+> "A cooperative enterprise. Co-, together + operari, work. Acting in concert. Coordinating individual behavior in pursuit of shared goals." - [Kevin Simler](https://meltingasphalt.com/minimum-viable-superorganism/#:~:text=a%20cooperative%20enterprise.%20Co%2D%2C%20together%20%2B%20operari%2C%20work.%20Acting%20in%20concert.%20Coordinating%20individual%20behavior%20in%20pursuit%20of%20shared%20goals.)
 
 > "Nature promotes cooperation, collaboration, and synergy because it is thermodynamically beneficial for all parties, and for that reason, synergistic collective configurations will eventually be discovered by any many-component system that is exploring various states or configurations through the blind-variation-and-selective-retention mechanism. Organisms only compete until they finally figure out that working together makes everyone’s task easier, and that goes for humans too." - [Bobby Azarian]()
 
