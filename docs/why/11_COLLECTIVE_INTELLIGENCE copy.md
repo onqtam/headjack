@@ -125,6 +125,8 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 
 > "One of the saddest lessons of history is this: If we’ve been bamboozled long enough, we tend to reject any evidence of the bamboozle. We’re no longer interested in finding out the truth. The bamboozle has captured us. It’s simply too painful to acknowledge, even to ourselves, that we’ve been taken." - [Carl Sagan](https://fs.blog/illusory-truth-effect/#:~:text=%E2%80%9COne%20of%20the,%E2%80%94%20Carl%20Sagan)
 
+> "... the besetting danger is not so much of embracing falsehood for truth, as of mistaking part of the truth for the whole. It might be plausibly maintained that in almost every one of the leading controversies, past or present, in social philosophy, both sides were in the right in what they affirmed, though wrong in what they denied; and that if either could have been made to take the other’s views in addition to its own, little more would have been needed to make its doctrine correct." - [John Stuart Mill](https://www.goodreads.com/quotes/7916323-all-students-of-man-and-society-who-possess-that-first)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: group think
 ██████████████████████████████████████████████████████████████████
