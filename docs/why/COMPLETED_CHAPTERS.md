@@ -200,6 +200,9 @@ https://www.youtube.com/watch?v=WfGMYdalClU
 Daniel Schmachtenberger’s talk at Emergence
 https://www.youtube.com/watch?v=eh7qvXfGQho
 
+Cosmos (1980) by Carl Sagan
+https://www.imdb.com/title/tt0081846/
+https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 
 Baraka 1992
 https://www.imdb.com/title/tt0103767/

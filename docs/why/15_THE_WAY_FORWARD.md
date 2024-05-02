@@ -204,6 +204,7 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 we are starved for meaning
 belonging
+significance
 connectedness
 
 > "Only a life lived for others is a life worthwhile." - [Albert Einstein](https://www.goodreads.com/quotes/16909-only-a-life-lived-for-others-is-a-life-worthwhile)
@@ -223,6 +224,22 @@ Your mind is your kid’s bootloader - your purpose in life is to pass on the cu
 > "The biggest contributor to happiness is not having tons of stuff, but knowing your address in the universe of meaning." - [Chris Arnade](https://twitter.com/EvoConscious/status/1717921294476361902)
 
 > "Meaning comes from making consequential choices." - [Peter Wang](https://twitter.com/jim_rutt/status/1651959455058100233)
+
+> "A thing X will be perceived as meaningful in context C to the extent that it's connected to other meaningful things in C... what kind of connections are we talking about? Typically they will be causal: X influences Y. Sometimes they will be epistemic: X justifies or explains Y. But they might also be narrative connections or even mere coincidences. Regardless, the more densely or strongly connected something is to the rest of the meaning "soup," the more meaningful it will be perceived to be... So the more arrows issuing out from something, the greater its meaning.
+>
+> We can also gauge meaning by asking the counterfactual question: "How much of an effect would removing X from C have on the other meaningful things in C?" The greater the effect, the more the meaning." - [A Nihilist's Guide to Meaning, by Kevin Simler](https://meltingasphalt.com/a-nihilists-guide-to-meaning/#:~:text=A%20thing%20X,more%20the%20meaning.)
+
+https://meltingasphalt.com/wp-content/uploads/2016/06/high_vs_low_meaning.png
+
+> "If meaning is about connectedness, and especially causal influence, we can see why it's adaptive to pursue meaning. Perceptions of meaning allow us to answer a question we're always asking ourselves, "Why am I bothering to do this?" If an activity feels meaningful, it merits our continued attention and investment. Whereas if it feels meaningless, an appropriate response is to stop doing it — to give up and search for a more meaningful path. To seek meaning, then, helps us avoid dead-ends and retain control over our lives. Just as boredom and ennui are emotions that prompt us to make better use of our time or to look for other opportunities, our perceptions of meaning (or lack thereof) prompt us to think about the deepest, longest-term impact of our actions, and to steer toward better outcomes." - [A Nihilist's Guide to Meaning, by Kevin Simler](https://meltingasphalt.com/a-nihilists-guide-to-meaning/#:~:text=if%20meaning%20is,toward%20better%20outcomes.)
+
+> "What does matter, as they say, "in the grand scheme of things"? It might be helpful to think in extremes. The least meaningful life, for example, is the causal dead-end — a person so inessential and irrelevant that the world doesn't so much as bat an eyelash when they die. A hermit who spends his whole life alone in the woods, perhaps. Or someone who toils in utter obscurity, leaving no children and no other mark on the world. On the other hand, the most meaningful life is the one on which everything depends: the fate of humanity, Good triumphing over Evil, etc." - [A Nihilist's Guide to Meaning, by Kevin Simler](https://meltingasphalt.com/a-nihilists-guide-to-meaning/#:~:text=what%20does%20matter,over%20Evil%2C%20etc.)
+
+> "If meaning is pointing, then the meaning of one's life must reside in the arrows that point outward from it, influencing the external world. That's why we so often talk about meaningful activities in generic terms like "connecting with others," "paying it forward," "having an impact," "leaving a legacy," or participating in something "bigger than oneself." - [A Nihilist's Guide to Meaning, by Kevin Simler](https://meltingasphalt.com/a-nihilists-guide-to-meaning/#:~:text=if%20meaning%20is%20pointing,something%20%22bigger%20than%20oneself.%22)
+
+> "If your work is low-impact and routinized — i.e., if you're easy to replace — it's only natural to wonder, "What difference would it make if I quit?" In other words, you'll feel a dearth of meaning. Karl Marx called it [alienation](https://en.wikipedia.org/wiki/Marx%27s_theory_of_alienation), the way the industrial era disconnects its workers from reliable sources of meaning. This happens especially but not exclusively in factories, where workers are disconnected from the final product, from other workers, and from consumers." - [A Nihilist's Guide to Meaning, by Kevin Simler](https://meltingasphalt.com/a-nihilists-guide-to-meaning/#:~:text=If%20your%20work%20is%20low,other%20workers%2C%20and%20from%20consumers.)
+
+> "Huge swathes of people, in Europe and North America in particular, spend their entire working lives performing tasks they secretly believe do not really need to be performed. The moral and spiritual damage that comes from this situation is profound. It is a scar across our collective soul." - [David Graeber](https://meltingasphalt.com/a-nihilists-guide-to-meaning/#:~:text=Huge%20swathes%20of%20people%2C%20in%20Europe%20and%20North%20America%20in%20particular%2C%20spend%20their%20entire%20working%20lives%20performing%20tasks%20they%20secretly%20believe%20do%20not%20really%20need%20to%20be%20performed.%20The%20moral%20and%20spiritual%20damage%20that%20comes%20from%20this%20situation%20is%20profound.%20It%20is%20a%20scar%20across%20our%20collective%20soul.)
 
 > "There is nothing we need more right now in our culture than the kind of conviction that comes from knowing at a deep level that what we do is real and genuinely matters." - [Carter Phipps](https://www.consciousevolution.co.uk/how#:~:text=There%20is%20nothing%20we%20need%20more%20right%20now%20in%20our%20culture%20than%20the%20kind%20of%20conviction%20that%20comes%20from%20knowing%20at%20a%20deep%20level%20that%20what%20we%20do%20is%20real%20and%20genuinely%20matters.)
 
