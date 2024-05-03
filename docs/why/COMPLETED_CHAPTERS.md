@@ -240,6 +240,8 @@ what if we could maintain rankings such as "the top 10 or 50 things I think ever
 
 What are the top 10 things we should never forget? Or what's attractive in a partner?
 
+top 10 insights from any scientist
+
 top 10 concept for life: tim urban's life calendar
 
 top 10 recommendations: The Century of the Self
