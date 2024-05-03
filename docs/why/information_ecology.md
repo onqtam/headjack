@@ -36,6 +36,11 @@ https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312
 
 https://kleros.io/yellowpaper.pdf
 
+"Finally got around to reading the @eigenlayer "intersubjective work token" paper and it's actually pretty mind-blowing Eigenlayer is basically proposing to build a fully crypto-native court system that's able to arbitrate on any subjective dispute"
+https://twitter.com/ZeMariaMacedo/status/1786030571195408688
+
+arbitration???
+
 https://en.wikipedia.org/wiki/Citizens%27_assembly
 
 > "Current social networks don't have great tools for dispute resolution. They're a combination of anarchy (people yelling) and tyranny (arbitrary deplatforming).
