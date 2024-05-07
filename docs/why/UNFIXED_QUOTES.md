@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 > "They ask why is fire hot it's the same kind of thing right like well we can talk about what the photon releasing is and how photons are exchanging energy in the hand but then why are my subjectively experiencing it as hot and so what happens is we just don't know so we don't answer their questions well and we instead steer them to things that we do know that are really not interesting like how to spell something or what the capital is something that is and we turn them off to schooling we turn them off to learning turn them off to their innate fascination of existing so when we look at the whole issue of the kind of welfare model dynamic where we think if people are not capitalistic aliy motivated they'll just watch TV all the time kids are so intrinsically motivated to learn everything they can and to build stuff and to create and to like want to go to work with mom or dad and figure out how to do stuff what happens is when we don't facilitate their interests and then we actively force them to be interested in that's just not interesting to them because there's more to do with memorization and getting it right than understanding mechanics in or dynamics and interesting ways we break their innate intrinsic interest in life and make them deferring to extrinsic Authority and then they just want to get away from that which ends up looking like play chill out is some form of you know escape from broken interest in life so the future of Education has the ability to have polymath be the new normal you know comprehensively developed multimodal genius as the new normal because that's actually innate to every child a friendly facility." - [Daniel Schmachtenberger](https://youtu.be/6fWfvO72vAw?t=502)
 
@@ -95,9 +98,10 @@
 
 > "So far we don't have the right tools for the collective intelligence network to do uniformly high-quality sense-making there is not only a lot of good material out in the peer-to-peer information world but there's also a lot of real horseshit and I would say 90% of people don't have the discernment powers to tell one from the other in a precoded world an example is some screwy ass thing called queuing on right which is a classic decentralized grassroots conspiracy theory which to my mind is an example of a peer-to-peer distributed network having a schizophrenic event that resonates with a number of the equivalent of neurons meaning humans and has produced very bad garbage which has filled the minds of many millions of people with worse than useless horseshit we don't yet have the tools for mass discernment that could have downregulated queuing on to all right there's a few freaks over there let them freak but let's not many of us pay too much attention to it in the kovin world we are in an ad hoc fashion finding these ways to filter and I believe one of the thing one of the learnings that will come out of the Covid 19 crisis is how does one do group peer to peer discernment to separate the shit from the shinola the wheat from the chaff." - [Jim Rutt](https://youtu.be/jbVlRHCMW_o?t=2919)
 
+<!-- 
 > "" - [Jonathan Pageau]()
 
-> "" - [Jonathan Pageau]()
+> "" - [Jonathan Pageau]() -->
 
 
 
@@ -129,20 +133,22 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "We underestimate the value of long-term thinking combined with brilliant Vision I think we are too interested in process controls there's a discussion that government stalemate and the sort of do nothing congress are features rather than bugs people are so worried about the negative outlier and you know some people might see Trump is that outlier there were people arguing Obama was that negative outlier do I think that's clearly not panned out but I feel we have not paid enough attention to the positive potential of human organizations is best expressed by its positive outliers and if you produce a system that by Design constrains individuals and constrains humans you have cut out that positive potential as much as you might have cut out the negative potential so I think Singapore works great because there was a leanu around if there was not a leanu around the authoritarian government might have been very very negative it might have ended up squandering some of Singapore's good advantages and natural advantages but let's remember when Singapore started off its GDP per capita was lower than that of Jamaica today Jamaica is a wonderful place to visit it's a nice Caribbean country but it's not a first world country of the states of post colonial states Singapore is the only country to have traveled from third world to First that's a remarkable achievement and if we only endorse systems of government and sort of these kind of overly strict limitations and what you can and cannot do while in government we will cut out the positive potentialities of those kinds of transition to our own detriment." - [Samo Burja](https://youtu.be/Kw74a1dPEJQ?t=1108)
 
+<!-- 
 > "" - []()
 
 > "" - []()
 
-> "" - []()
+> "" - []() -->
 
 
 > "It sounds like the key thing that you shared in there is the increase in sharing and transparency and thus collaboration and thus collective intelligence and collective capacity where the current incentive structure incentivizes owning and hoarding IP and making sure nobody else uses the things that you discovered because you're gonna make your money on patents and not sharing what you're learning until it's published because the whole thing is published know that really what you're talking about is the ability to change the information ecology the incentives that change the information ecology from ones that incentivize hoarding information and making it hard for other people to use they have to pay for license and even dis informing - one that maximizes informing sharing and collaboration." - [Daniel Schmachtenberger](https://youtu.be/OUv-ZOM0dOo?t=2540)
 
+<!-- 
 > "" - [Daniel Schmachtenberger]()
 
 > "" - [Daniel Schmachtenberger]()
 
-> "" - [Daniel Schmachtenberger]()
+> "" - [Daniel Schmachtenberger]() -->
 
 > "The first we talked about a little bit which is the ability to keep records or as our friend Michael Bastyr talks about it the ability to actually deliver justice which he defines as making sure that the loops are closed the value created needs to be value returned and that externalities need to be returned to the critters of externalities right and if you have injustice if you have bad records in a system if you don't have the ability to determine who created how much value and who created how much externality and thereby return it then you get a system that the drifts quite rapidly I mean where a lot of strategies are about stealing credit and avoiding responsibility so that's one piece or so one piece is just radically increasing the quality of the records that are being kept and therefore closing more and more loops which is say creating more and more justice...
 >
@@ -150,6 +156,7 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "I think a big part of it has to do with this is this notion of gold has no smell meaning that again you know person a shows up in the in the market with ten apples and person B shows up in the market with five apples the fact that person a stole those apples from person B is since of the market in may have no capacity to perceive at all and in fact we don't even think about that as a market transaction that's called justice that's what happened so what we says okay well person B then needs to find some way to sue or otherwise rebalance the underlying infrastructure so we would think about then is that the market is consisting of a whole bunch of little circles that are communicating with each other through transactions and it doesn't actually have any information outside of that information flow so it has in an inability to perceive all the different ways that somebody might actually falsify the stuff that the market actually needs to be able to make good choices meaning that if you think about what the game the startup do the right thing and it slides all the way down if everybody who's playing the market game is self-enforcing to do the right thing you know social norms would really really work and anybody who plays in anything but the most virtuous way is selected against through the sort of to the normative channel then the mark so we'll actually tend to do a pretty good job well there's more to it than that and there's a whole bunch of other stuff to think about that but that's one that we can focus on right here and but that's the sense markets actually have very little ability to perceive that kind of a thing in fact they outsource that to other areas social norms laws etc that's the channel you gain are you game that channel and so you show up as a really great market player you're a bank you've got a giant building with marble columns and a actually completely covered in marble and impress the people wearing fancy suits that all signal certain things that the market can perceive but you know the gap between signal and the thing being signified is something the market has effectively no capacity to perceive at all and that then becomes the game when you move more and more and more power and choice making into the market you end up basically creating a niche for gaming what the market can't perceive and simulating what the market perceives as being a good answer." - [Jordan Hall](https://youtu.be/OUv-ZOM0dOo?t=2728)
 
+<!-- 
 > "" - [Jordan Hall]()
 
 > "" - [Jordan Hall]()
@@ -164,4 +171,4 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "" - [Robert Wright]()
 
-> "" - [Robert Wright]()
+> "" - [Robert Wright]() -->

@@ -11,6 +11,7 @@ What is the analog of active noise cancelling in the digital world?
 
 > "Now everyone has a license to speak, it’s a question of who gets heard." - [Aaron Swartz](https://www.azquotes.com/quote/916637)
 
+> "I would support instating a National Conversation Topic Czar if that allowed us to get rid of celebrities." - [Steven Kaas, 2010](https://twitter.com/stevenkaas/status/22206547821)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Attention
