@@ -165,7 +165,7 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "" - [Jordan Hall]()
 
-> "" - [Robert Wright]()
+> "I think fundamentally the problem is human nature and the challenge is to in some sense transcend the more unfortunate parts of it I mean you know conflicts are very diverse superficially conflicts among nations polarization within Nations cold Wars hot Wars but I think they tend to involve the same pretty limited set of cognitive biases that warp our perspective and I think it we understand these biases now it's just that they're very stubborn and subtle and tricky and hard to overcome um and I think that's our mission as a species." - [Robert Wright](https://youtu.be/6ZkWe-YvJ5Q?t=1813)
 
 > "" - [Robert Wright]()
 
