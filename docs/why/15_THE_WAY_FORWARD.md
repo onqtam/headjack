@@ -1019,7 +1019,7 @@ something beyond our cells, the invidivual or the genome with all of its rivalro
 
 > "If one can speak of a cosmic war.. it's a war between monotony and novelty, between stasis and creativity. And in this war, our side is not destined to lose. If we choose to apply our unique capacity to create explanatory knowledge, we could win." - [David Deutsch](https://www.thealternative.org.uk/dailyalternative/2019/10/21/be-a-citizen-of-the-universe#:~:text=If%20one%20can,we%20could%20win.)
 
-> "As natural selection pumps information from the inanimate world into life, nature begins modeling itself, encoding its own structure, and the universe begins to wake up. We are the cosmos come alive. Not metaphorically, but literally." - [Bobby Azarian]()
+> "As natural selection pumps information from the inanimate world into life, nature begins modeling itself, encoding its own structure, and the universe begins to wake up. We are the cosmos come alive. Not metaphorically, but literally." - [Bobby Azarian](https://twitter.com/BobbyAzarian)
 
 Life and evolution have a direction - towards greater scales of cooperation and greater evolvability - transcendence
 

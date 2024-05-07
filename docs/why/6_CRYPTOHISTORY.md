@@ -18,6 +18,7 @@
 > "That men do not learn very much from the lessons of history is the most important of all the lessons of history." - [Aldous Huxley](https://www.azquotes.com/quote/139992)
 
 https://balajis.com/p/gil-duran-faked-a-quote-for-the-new
+https://twitter.com/balajis/status/1785708534966992938
 
 The highest standards of history are permanence and authenticity
 

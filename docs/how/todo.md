@@ -151,7 +151,7 @@ https://en.wikipedia.org/wiki/Digital_object_identifier
 
 - think about URIs with identities & hashes in them - no need to merkelize & anchor
 
-- what if we shuffle the positions in the URIs: <app>/<user>/<app_nonce>/<user_nonce> - then when the "app" is 0 we could use the other 2 as document id & version of that id
+<!-- - what if we shuffle the positions in the URIs: <app>/<user>/<app_nonce>/<user_nonce> - then when the "app" is 0 we could use the other 2 as document id & version of that id -->
 
 - single use credential
 
@@ -456,6 +456,8 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 <!-- > "Those who have a 'why' to live, can bear with almost any 'how'." - [Viktor E. Frankl](https://www.goodreads.com/quotes/315385-those-who-have-a-why-to-live-can-bear-with) -->
 
 > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
+
+remake: Not even a trillion $ can compete with a project that has a soul
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 

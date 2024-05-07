@@ -227,6 +227,8 @@ Friendship matchmaking where you deliberately enter your goals initially
 # SECTION: Status & Prestige
 ██████████████████████████████████████████████████████████████████
 
+> "Deriving comfort from anything other than status signals low status." - [Steven Kaas](https://twitter.com/stevenkaas/status/223317583737257984)
+
 “Let the (status) game begin”
 With a picture of the clown from the movie “saw”
 

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 
 
@@ -1365,23 +1368,24 @@ Massachusetts Institute of Technology
 
 > "" - [Stigmergic epistemology, stigmergic cognition](https://sci-hub.se/10.1016/j.cogsys.2007.06.009)
 
-> "" - [The Toxoplasma Of Rage, by Scott Alexander]()
 
-> "" - [The Toxoplasma Of Rage, by Scott Alexander]()
+<!-- 
 
-> "" - [The Toxoplasma Of Rage, by Scott Alexander]()
+> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
 
-> "" - [The Toxoplasma Of Rage, by Scott Alexander]()
+> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
 
-> "" - []()
+> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
 
-> "" - []()
-
-> "" - []()
+> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
 
 > "" - []()
 
 > "" - []()
+
+> "" - []()
+
+> "" - []() -->
 
 
 

@@ -4,6 +4,34 @@ draft: true
 
 # Why Headjack - A Manifesto
 
+
+<details>
+  <summary>Code example</summary>
+
+> "He who controls *~~the spice~~* **attention** controls the universe." - [Frank Herbert](https://www.goodreads.com/quotes/82034-he-who-controls-the-spice-controls-the-universe), probably
+
+- aaa
+- bbb
+- ccc
+
+<details>
+  <summary>Code example</summary>
+
+> "He who controls *~~the spice~~* **attention** controls the universe." - [Frank Herbert](https://www.goodreads.com/quotes/82034-he-who-controls-the-spice-controls-the-universe), probably
+
+- aaa
+- bbb
+- ccc
+
+</details>
+
+</details>
+
+https://github.com/facebook/docusaurus/issues/2924
+https://github.com/facebook/docusaurus/pull/5216
+
+> "He who controls *~~the spice~~* **attention** controls the universe." - [Frank Herbert](https://www.goodreads.com/quotes/82034-he-who-controls-the-spice-controls-the-universe), probably
+
 <img src="/img/meme_trojan_horse.jpg" align="right" style={{marginLeft: "8px", width: "55%"}}/>
 
 <!-- <img src="/img/meme_domino_effect.jpg" align="right" style={{marginLeft: "8px", width: "55%"}}/> -->
