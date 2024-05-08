@@ -1344,10 +1344,6 @@ Massachusetts Institute of Technology
 
 > "" - [Beyond Markets and States: Polycentric Governance of Complex Economic Systems, by Elinor Ostrom](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf)
 
-> "" - [Parasite Ecology and the Evolution of Religion](http://pespmc1.vub.ac.be/Papers/Cullen.pdf)
-
-> "" - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
-
 > "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
 
 > "" - [Dictatorship, democracy, and development, by Mancur Olson](https://sci-hub.se/10.2307/2938736)
