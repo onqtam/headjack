@@ -159,6 +159,19 @@ The only way to alignment is through transparency and interpretability
 > "To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and total system—there must be enough central control to achieve coordination toward the large-system goal, and enough autonomy to keep all subsystems flourishing, functioning, and self-organizing." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=To%20be%20a,and%20self%2Dorganizing.)
 
 
+
+> "We argue that enforcement is an underappreciated, and often critical, ingredient for cooperation across all scales of biological organization." - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
+
+> "The evolution of cooperation is central to all living systems. Evolutionary history can be defined by a series of major transitions in which replicating units came together, lost their independence and formed new levels of biological organization. As a consequence, life is organized in a hierarchy of cooperation: genes work together in genomes, genomes in cells, cells in multicellular organisms and multicellular organisms in eusocial groups." - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
+
+> "We define enforcement as an action that evolves, at least in part, to reduce selfish behaviour within a cooperative alliance. Selfish behaviours are those that benefit an actor and reduce its cooperation with one or more recipients in the alliance." - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
+
+> "All models identify conditions under which enforcement will evolve and increase cooperation. As is typical for evolutionary models, benefits and costs matter. In particular, high costs to enforcement can make it less likely to evolve, or less effective when it does evolve. Nevertheless, enforcement is predicted in every system, and importantly, this occurs over a wide range of parameters, which is consistent with the general importance of enforcement independently of both biological details and scale." - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
+
+> "There is now a large body of evidence that enforcement shapes cooperation across all levels of biology. This includes systems that have undergone a major transition, like some social insects, as well as those that have not, like many mutualisms... While high costs can be prohibitive, a given cooperative system may explore diverse enforcement strategies over evolutionary time until a low-cost solution arises. Low costs to enforcement are further facilitated by power asymmetries. Enforcement can be enabled by a single powerful individual, such as a host who exercises control over symbionts, or by majority rule, such as within an animal society. There is also a role for pre-adaptations: pre-existing features of the biology of a system can enable enforcement and promote its effectiveness. Systems in which enforcement is not possible will be less likely to see increases in cooperation over evolutionary time, or they may even see cooperation fall away. It is in those systems where enforcement does arise that we see the full extent, and wonders, of cooperative evolution." - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: multipolar traps & anti-rivalry
 ██████████████████████████████████████████████████████████████████
