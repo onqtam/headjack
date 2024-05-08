@@ -237,6 +237,8 @@ The argument that specialized message types are unnecessary because AI will even
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
 
+how do we rank how many times a specific paper is being referenced in another - not simply if it was referenced but also how many times compared to the other references? AKA on which other papers does the current one most rely on?
+
 > "If the studies are fake, imagine the meta-analyses." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1761418446842044460)
 
 > "The scientist is not a person who gives the right answers, he’s one who asks the right questions." - [Claude Lévi-Strauss](https://fs.blog/spot-bad-science/#:~:text=%E2%80%9CThe%20scientist%20is%20not%20a%20person%20who%20gives%20the%20right%20answers%2C%20he%E2%80%99s%20one%20who%20asks%20the%20right%20questions.%E2%80%9D%20%E2%80%95Claude%20L%C3%A9vi%2DStrauss)
