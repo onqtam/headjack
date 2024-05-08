@@ -25,6 +25,23 @@
 ██████████████████████████████████████████████████████████████████
 
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Coordination
+██████████████████████████████████████████████████████████████████
+
+
+> "This paper proposes self-organization as a method to improve the efficiency and adaptability of bureaucracies and similar social systems. Bureaucracies are described as networks of agents, where the main design principle is to reduce local “friction” to increase local and global “satisfaction”. Following this principle, solutions are proposed for improving communication within bureaucracies, sensing public satisfaction, dynamic modification of hierarchies, and contextualization of procedures. Each of these reduces friction between agents (internal or external), increasing the efficiency of bureaucracies." - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Enhancing digital coordination
 ██████████████████████████████████████████████████████████████████

@@ -1328,7 +1328,12 @@ Massachusetts Institute of Technology
 
 > "" - [Smartocracy: Social Networks for Collective Decision Making](https://www.jenwatkins.com/Research_files/Smarto-Share.pdf)
 
-> "" - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
+
+
+
+
+
+
 
 > "" - [The Role of Hierarchy in Self-Organizing Systems](https://www.researchgate.net/publication/254821737_The_Role_of_Hierarchy_in_Self-Organizing_Systems)
 
@@ -1362,8 +1367,6 @@ Massachusetts Institute of Technology
 > "" - [Coordination Theory: A Ten-Year Retrospective](https://crowston.syr.edu/sites/crowston.syr.edu/files/CT%20Review%20to%20distribute.pdf)
 
 > "" - [Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration](https://dlc.dlib.indiana.edu/dlc/handle/10535/3574)
-
-> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
 
 > "" - [Stigmergic epistemology, stigmergic cognition](https://sci-hub.se/10.1016/j.cogsys.2007.06.009)
 
