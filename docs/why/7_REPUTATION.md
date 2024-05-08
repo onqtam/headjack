@@ -111,6 +111,15 @@ negative reputation and scammers
 an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
 ^^ THIS IS A HUGE POINT !!!
 
+
+
+> "It takes many good deeds to build a good reputation, and only one bad one to lose it." - [Benjamin Franklin](https://hbr.org/2007/02/reputation-and-its-risks)
+
+> "Executives know the importance of their companies’ reputations. Firms with strong positive reputations attract better people. They are perceived as providing more value, which often allows them to charge a premium. Their customers are more loyal and buy broader ranges of products and services. Because the market believes that such companies will deliver sustained earnings and future growth, they have higher price-earnings multiples and market values and lower costs of capital. Moreover, in an economy where 70% to 80% of market value comes from hard-to-assess intangible assets such as brand equity, intellectual capital, and goodwill, organizations are especially vulnerable to anything that damages their reputations." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
+
+> "Reputation is a matter of perception. A company’s overall reputation is a function of its reputation among its various stakeholders (investors, customers, suppliers, employees, regulators, politicians, nongovernmental organizations, the communities in which the firm operates) in specific categories (product quality, corporate governance, employee relations, customer service, intellectual capital, financial performance, handling of environmental and social issues). A strong positive reputation among stakeholders across multiple categories will result in a strong positive reputation for the company overall." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: stick & carrot
 ██████████████████████████████████████████████████████████████████
