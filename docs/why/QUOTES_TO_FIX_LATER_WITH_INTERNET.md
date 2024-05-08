@@ -1350,7 +1350,10 @@ Massachusetts Institute of Technology
 
 > "" - [Wicked Problems](https://cognexus.org/wpf/wickedproblems.pdf)
 
-> "" - [Social Translucence: Designing Social Infrastructures that Make Collective Activity Visible](https://dl.acm.org/doi/10.1145/505248.505270)
+
+
+
+
 
 > "" - [Social Decision Making with Multi-Relational Networks and Grammar-Based Particle Swarms](https://arxiv.org/abs/cs/0609034)
 
