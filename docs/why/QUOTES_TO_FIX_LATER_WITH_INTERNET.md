@@ -1335,8 +1335,6 @@ Massachusetts Institute of Technology
 
 
 
-> "" - [The Role of Hierarchy in Self-Organizing Systems](https://www.researchgate.net/publication/254821737_The_Role_of_Hierarchy_in_Self-Organizing_Systems)
-
 > "" - [Perception, prestige and PageRank](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216783&type=printable)
 
 > "" - [The Big Man Mechanism: how prestige fosters cooperation and creates prosocial leaders, by Joseph Henrich, Maciej Chudek and Robert Boyd](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0013)
@@ -1402,6 +1400,13 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 
 
+Gershenson, C. (2006). A general methodology for designing self-organizing systems. Technical Report 2005-05, ECCO.
+
+Beer, S. (1966). Decision and Control. John Wiley and Sons, New York.
+
+Radner, R. (1993). The organization of decentralized information processing. Econometrica, 61(5):1109–1146.
+
+Helbing, D. and Vicsek, T. (1999). Optimal self-organization. New Journal of Physics, 1:13.1–13.17.
 
 Parunak, H. V. D. (2006). A survey of environments and mechanisms for human-human stigmergy. In D. Weyns, H. V. D. Parunak, & F. Michel (Eds.), Environments for Multi-Agent Systems II (pp. 163–186). Springer.
 

@@ -26,20 +26,31 @@
 
 
 
+
+> "Hierarchy is now defined as a vertical sequence of layers of accountability, based on different degrees of abstraction." - [The Role of Hierarchy in Self-Organizing Systems](https://www.researchgate.net/publication/254821737_The_Role_of_Hierarchy_in_Self-Organizing_Systems)
+
+
+
+
+> "This paper proposes self-organization as a method to improve the efficiency and adaptability of bureaucracies and similar social systems. Bureaucracies are described as networks of agents, where the main design principle is to reduce local “friction” to increase local and global “satisfaction”. Following this principle, solutions are proposed for improving communication within bureaucracies, sensing public satisfaction, dynamic modification of hierarchies, and contextualization of procedures. Each of these reduces friction between agents (internal or external), increasing the efficiency of bureaucracies." - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "Bureaucracies can be found in governments, corporations, and other social institutions. They have social goals and responsibilities that are achieved by a division of labor that is usually hierarchical. Examples of bureaucracies can be seen with tax collection systems, immigration services, and steering of educational and academic institutions. The efficiency of a bureaucracy is related to the fulfillment of its goals. Thus, it would be desirable to increase functional efficiency in bureaucracies. Ideally, such a system could be designed to reach maximal efficiency." - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "A system described as self-organizing is one in which elements interact in order to achieve dynamically a global function or behavior." - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Coordination
 ██████████████████████████████████████████████████████████████████
 
-
-> "This paper proposes self-organization as a method to improve the efficiency and adaptability of bureaucracies and similar social systems. Bureaucracies are described as networks of agents, where the main design principle is to reduce local “friction” to increase local and global “satisfaction”. Following this principle, solutions are proposed for improving communication within bureaucracies, sensing public satisfaction, dynamic modification of hierarchies, and contextualization of procedures. Each of these reduces friction between agents (internal or external), increasing the efficiency of bureaucracies." - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
-
-> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
-
-> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
-
-> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
-
-> "" - [Towards Self-organizing Bureaucracies](https://arxiv.org/pdf/nlin/0603045.pdf)
 
 
 ██████████████████████████████████████████████████████████████████
