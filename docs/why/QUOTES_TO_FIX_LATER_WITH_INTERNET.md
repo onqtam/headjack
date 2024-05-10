@@ -1333,13 +1333,9 @@ Massachusetts Institute of Technology
 
 
 
-
-
 > "" - [Perception, prestige and PageRank](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216783&type=printable)
 
 > "" - [The Big Man Mechanism: how prestige fosters cooperation and creates prosocial leaders, by Joseph Henrich, Maciej Chudek and Robert Boyd](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0013)
-
-> "" - [Innovation in the collective brain, by Michael Muthukrishna and Joseph Henrich](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0192)
 
 > "" - [Intelligence as a planetary scale process](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
 

@@ -3888,6 +3888,9 @@ what if your youtube-like video feed was based on the recommendations or positiv
 
 
 
+> "To hold a pen is to be at war." - [Voltaire](https://www.goodreads.com/quotes/30874-to-hold-a-pen-is-to-be-at-war)
+^^ to tune the global weights in public is to be at war
+
 
 > "Rather than love, than money, than fame, give me truth." - [Henry David Thoreau](https://www.goodreads.com/quotes/7762-rather-than-love-than-money-than-fame-give-me-truth)
 

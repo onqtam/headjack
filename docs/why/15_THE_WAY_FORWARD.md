@@ -518,7 +518,7 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 
 > "It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.'" - [Aldous Huxley](https://www.goodreads.com/quotes/9861-it-is-a-bit-embarrassing-to-have-been-concerned-with)
 
-> "In the end ... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
+> "In the end... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
 
 > "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
 
@@ -1221,7 +1221,7 @@ God is the conscious alignment protocol
 
 > "We no longer need the Creator God - we just need creativity." - [Gordon Kaufman](https://youtu.be/EjQCaC7JSMY?t=4035)
 
-> "The universe began about fifteen billion years ago, in almost absolute simplicity, and it's been getting more and more complex ever since. This movement from the simple to the complex is built into the web and weave of the universe, and it's called the tendency toward complexity. We're the products of this complexification, and so are the birds, and the bees, and the trees, and the stars, and even the galaxies of stars. ... Okay, the final or ultimate complexity - the place where all this complexity is going - is what, or who, we might call God. And anything that promotes, enhances, or accelerates this movement toward God is good. Anything that inhibits, impedes, or prevents it is evil." - [Gregory David Roberts](https://www.consciousevolution.co.uk/blog/what-is-the-meaning-of-life#:~:text=The%20universe%20began,it%20is%20evil.)
+> "The universe began about fifteen billion years ago, in almost absolute simplicity, and it's been getting more and more complex ever since. This movement from the simple to the complex is built into the web and weave of the universe, and it's called the tendency toward complexity. We're the products of this complexification, and so are the birds, and the bees, and the trees, and the stars, and even the galaxies of stars... Okay, the final or ultimate complexity - the place where all this complexity is going - is what, or who, we might call God. And anything that promotes, enhances, or accelerates this movement toward God is good. Anything that inhibits, impedes, or prevents it is evil." - [Gregory David Roberts](https://www.consciousevolution.co.uk/blog/what-is-the-meaning-of-life#:~:text=The%20universe%20began,it%20is%20evil.)
 
 As long as there’s an argument to have a CIA we’ve not reached sustainability.
 

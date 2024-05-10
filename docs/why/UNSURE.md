@@ -90,9 +90,6 @@
 
 > "Every man is a creature of the age in which he lives and few are able to raise themselves above the ideas of the time." - [Voltaire](https://www.goodreads.com/quotes/255815-every-man-is-a-creature-of-the-age-in-which)
 
-> "To hold a pen is to be at war." - [Voltaire](https://www.goodreads.com/quotes/30874-to-hold-a-pen-is-to-be-at-war)
-^^ to tune the global weights in public is to be at war
-
 > "Sometimes people ask you a question with their eyes begging you to not tell them the truth." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/8154023-sometimes-people-ask-you-a-question-with-their-eyes-begging)
 
 
