@@ -449,6 +449,12 @@ We can literally find ourselves in the situation of the movie dont look up
 > "I agree with what Ralph Nader said: “The Democrats are the pro-abortion Wall Street party, and the Republicans are the anti-abortion Wall Street party.”" - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=I%20agree%20with%20what%20Ralph%20Nader%20said%3A%20%E2%80%9CThe%20Democrats%20are%20the%20pro%2Dabortion%20Wall%20Street%20party%2C%20and%20the%20Republicans%20are%20the%20anti%2Dabortion%20Wall%20Street%20party.%E2%80%9D)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: bullshit jobs
+██████████████████████████████████████████████████████████████████
+
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Destructive global competition
 ██████████████████████████████████████████████████████████████████
 

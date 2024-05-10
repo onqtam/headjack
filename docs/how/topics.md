@@ -164,7 +164,6 @@ https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-
     - data driven - plot everything on charts
     - querying & sociology - done by anyone, LLMs
 - alignment ??? the third attractor ???
-    - shit is fucked up and stuff
     - Epistemological bankruptcy
     - Regulation without regulators
     - immune system
