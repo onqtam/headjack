@@ -172,6 +172,21 @@ The only way to alignment is through transparency and interpretability
 
 
 
+
+
+> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
+
+> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
+
+> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
+
+> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
+
+> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
+
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: multipolar traps & anti-rivalry
 ██████████████████████████████████████████████████████████████████

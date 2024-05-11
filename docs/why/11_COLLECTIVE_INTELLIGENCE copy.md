@@ -1078,6 +1078,16 @@ what if AI alignment is the process of turning up the level of cooperation democ
 we can rank different sources of signal differently and prioritize the weights of the LLM differently when "extracting" the compressed version of our collective conscience
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Fragmentation vs. Integration
+██████████████████████████████████████████████████████████████████
+
+> "Collective intelligence is a natural property of socially shared cognition, a natural enabler of collaboration. But there are also natural forces that challenge collective intelligence, forces that doom projects and make collaboration difficult or impossible. These are forces of fragmentation.
+>
+> The concept of fragmentation provides a name and an image for a phenomenon that pulls apart something which is potentially whole. Fragmentation suggests a condition in which the people involved see themselves as more separate than united, and in which information and knowledge are chaotic and scattered. The fragmented pieces are, in essence, the perspectives, understandings, and intentions of the collaborators. Fragmentation, for example, is when the stakeholders in a project are all convinced that their version of the problem is correct. Fragmentation can be hidden, as when stakeholders don’t even realize that there are incompatible tacit assumptions about the problem, and each believes that his or her understandings are complete and shared by all. The antidote to fragmentation is shared understanding and shared commitment." - [Wicked Problems & Social Complexity, by Jeff Conklin](https://cognexus.org/wpf/wickedproblems.pdf)
+
+> "The antidote for fragmentation is coherence. How, then, do we create coherence? In organizations and project teams – in situations where collaboration is the life blood of success – coherence amounts to shared understanding and shared commitment. Shared understanding of meaning and context, and of the dimensions and issues in the problem. Shared commitment to the processes of project work and to the emergent solution matrix. Coherence means that stakeholders have shared meaning for key terms and concepts, that they are clear about their role in the effort, that together they have a shared understanding of the background for the project and what the issues are, and that they have a shared commitment to how the project will reach its objectives and achieve success. Coherence means that the project team understands and is aligned with the goals of the project and how to reach them. Coherence means that a wicked problem is recognized as such, and appropriate tools and processes are constantly used to ‘defragment’ the project. With increased coherence, more collective intelligence becomes available to deal with change and complexity." - [Wicked Problems & Social Complexity, by Jeff Conklin](https://cognexus.org/wpf/wickedproblems.pdf)
+
+██████████████████████████████████████████████████████████████████
 # quotes
 ██████████████████████████████████████████████████████████████████
 

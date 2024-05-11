@@ -1347,7 +1347,7 @@ Massachusetts Institute of Technology
 
 > "" - [Dictatorship, democracy, and development, by Mancur Olson](https://sci-hub.se/10.2307/2938736)
 
-> "" - [Wicked Problems](https://cognexus.org/wpf/wickedproblems.pdf)
+
 
 
 
@@ -1355,8 +1355,6 @@ Massachusetts Institute of Technology
 
 
 > "" - [Social Decision Making with Multi-Relational Networks and Grammar-Based Particle Swarms](https://arxiv.org/abs/cs/0609034)
-
-> "" - [The when and who of social learning and conformist transmission](https://henrich.fas.harvard.edu/files/henrich/files/muthukrishna_morgan_henrich_2016.pdf)
 
 > "" - [Coordination Theory: A Ten-Year Retrospective](https://crowston.syr.edu/sites/crowston.syr.edu/files/CT%20Review%20to%20distribute.pdf)
 
