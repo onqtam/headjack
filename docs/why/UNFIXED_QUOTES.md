@@ -169,3 +169,9 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 > "I think the Buddha was right and the reason we suffer and make other people suffer - and that includes conflicts - is because we don't see the world clearly." - [Robert Wright](https://youtu.be/6ZkWe-YvJ5Q?t=3373)
 
 > "I think fundamentally the problem is human nature and the challenge is to in some sense transcend the more unfortunate parts of it I mean you know conflicts are very diverse superficially conflicts among nations polarization within Nations cold Wars hot Wars but I think they tend to involve the same pretty limited set of cognitive biases that warp our perspective and I think it we understand these biases now it's just that they're very stubborn and subtle and tricky and hard to overcome um and I think that's our mission as a species." - [Robert Wright](https://youtu.be/6ZkWe-YvJ5Q?t=1813)
+
+
+
+> "The meta-crisis is a lack of a new Mythos it's a nihilistic state where the old Mythos is dead - it's not a death of a god - it's a death of a Paradigm and a new paradigm has to be installed and we're in between paradigms and we're we lost." - [Alexander Bard](https://youtu.be/NM8OsoEZjiY?t=2358)
+
+> "We might need God because we have invented the devil - we did: August 6 1945 we blew up the bomb of roshima the devil very much exist and we invented the devil so we have to do theology again and understand we did invent the devil where is God to save us from the devil." - [Alexander Bard](https://youtu.be/NM8OsoEZjiY?t=2778)

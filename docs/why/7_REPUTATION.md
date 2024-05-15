@@ -173,6 +173,15 @@ this is not page rank - this is entity rank
 
 > "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Indexes (ESG, CPI, etc)
+██████████████████████████████████████████████████████████████████
+
+> "Are we being silently poisoned? It’s an empirical question. Just test food. And publish ratings. It’s a form of decentralized regulation." - [Balaji Srinivasan](https://twitter.com/balajis/status/1789322947490205862)
+
+greenwashing
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status over truth
 ██████████████████████████████████████████████████████████████████

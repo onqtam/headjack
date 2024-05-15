@@ -67,6 +67,10 @@ https://efdn.notion.site/efdn/Verkle-Tries-bf5391f9b3c949fdb375b0ec6a108a25
 
 https://verkle.info/
 
+some notes on verkle trees in here:
+https://vitalik.eth.limo/general/2024/05/09/multidim.html
+https://github.com/crate-crypto/go-ipa
+
 Stateless Ethereum: How Verkle Trees Make Ethereum Lean and Mean
 https://www.youtube.com/watch?v=Q7rStTKwuYs
 

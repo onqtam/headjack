@@ -237,6 +237,8 @@ The argument that specialized message types are unnecessary because AI will even
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
 
+> "With enough of us, around the world, we'll not just send a strong message opposing the privatization of knowledge - we'll make it a thing of the past. Will you join us?" - [Aaron Swartz](https://capitalaspower.com/2019/12/the-legacy-of-aaron-swartz-the-fight-for-open-access/#:~:text=With%20enough%20of%20us%2C%20around%20the%20world%2C%20we%E2%80%99ll%20not%20just%20send%20a%20strong%20message%20opposing%20the%20privatization%20of%20knowledge%20%E2%80%94%20we%E2%80%99ll%20make%20it%20a%20thing%20of%20the%20past.%20Will%20you%20join%20us%3F)
+
 how do we rank how many times a specific paper is being referenced in another - not simply if it was referenced but also how many times compared to the other references? AKA on which other papers does the current one most rely on?
 
 > "If the studies are fake, imagine the meta-analyses." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1761418446842044460)

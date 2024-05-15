@@ -101,6 +101,9 @@ In this chapter we discuss tens of problems - perhaps up to a hundred - all scat
 - credibility
 - ideas have sex as Matt Ridley put it: https://www.youtube.com/watch?v=OLHh9E5ilZ4
 
+"I shall never be ashamed to go to a bad author for a good quotation." — Seneca
+
+How many worthwhile quotes are left out because we can't properly sort contributions to the noosphere?
 
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 
