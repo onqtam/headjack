@@ -1331,7 +1331,7 @@ Massachusetts Institute of Technology
 
 
 
-
+> "" - [Economics for the future – Beyond the superorganism, by N.J. Hagens](https://www.sciencedirect.com/science/article/pii/S0921800919310067)
 
 > "" - [Perception, prestige and PageRank](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0216783&type=printable)
 
@@ -1342,8 +1342,6 @@ Massachusetts Institute of Technology
 > "" - [Bubble City - A Twitter Alternative Which is not a Social Medium](https://syntience.com/BubbleCity2.pdf)
 
 > "" - [Beyond Markets and States: Polycentric Governance of Complex Economic Systems, by Elinor Ostrom](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
 
 > "" - [Dictatorship, democracy, and development, by Mancur Olson](https://sci-hub.se/10.2307/2938736)
 

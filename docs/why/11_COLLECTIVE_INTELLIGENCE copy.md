@@ -1269,8 +1269,6 @@ consciousness contains a model of the self - but do we own our collective model 
 >
 > ...It serves as a central information exchange, rather than a locus of cognition itself, enabling different specialized brain networks to interact and supporting integrated and adaptive responses." - [Global workspace theory, Wikipedia](https://en.wikipedia.org/wiki/Global_workspace_theory#:~:text=GWT%20analogizes%20the,and%20adaptive%20responses.)
 
-> "Until you make the unconscious conscious, it will direct your life and you will call it fate." - [Carl Jung](https://www.azquotes.com/quote/355847)
-
 
 
 

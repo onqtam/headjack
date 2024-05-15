@@ -1,5 +1,7 @@
 
-
+TITLE: desert of the real
+put a morpheus picture at the bottom
+https://i0.wp.com/thedailyenlightenment.com/wp-content/uploads/2020/03/desert.gif?resize=600%2C249&ssl=1
 
 
 > "Welcome to the desert of the real." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158633-welcome-to-the-desert-of-the-real-morpheus-the-matrix)
@@ -742,6 +744,7 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 > "A finite game is played for the purpose of winning, an infinite game for the purpose of continuing the play." - [James Carse](https://www.goodreads.com/quotes/400925-a-finite-game-is-played-for-the-purpose-of-winning)
 
 > "Every yacht is a market failure." - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1727305844759670955)
+^^ not a market but a METABOLIC one
 
 > "Capitalism without bankruptcy is like Christianity without hell." - [Frank Borman](https://www.azquotes.com/quote/32544)
 
@@ -867,4 +870,12 @@ quote goes here: power of gods but not the wisdom
 > "Every time that the foundations started to shake, we’ve consistently chosen “more of the same.” The result is that we’ve been living in an increasingly delusional systemic environment." - [Situational Assessment 2015, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2015-91222a66c834#:~:text=every%20time%20that%20the%20foundations%20started%20to%20shake%2C%20we%E2%80%99ve%20consistently%20chosen%20%E2%80%9Cmore%20of%20the%20same.%E2%80%9D%20The%20result%20is%20that%20we%E2%80%99ve%20been%20living%20in%20an%20increasingly%20delusional%20systemic%20environment.)
 
 > "Either we learn to live together in full cooperation or we will cause our own extinction." - [Jacque Fresco](https://www.goodreads.com/quotes/7322215-either-we-learn-to-live-together-in-full-cooperation-or)
+
+> "Humanity lives within two interlinked systems: the biosphere and global civilization. Together, they are the life support system for all humans. For the first time in history, the structure of our growing global civilization is undermining the integrity of the biosphere upon which it depends. We are crossing planetary boundaries of both extraction and pollution, threatening the ability of our civilizational system to continue.
+>
+> We are rapidly developing and distributing increasingly powerful new technologies across most domains in society. Technological progress is changing our civilization radically, bringing many benefits, while at the same time expanding the range and scope of catastrophic risks.
+>
+> Advanced technologies increase the potential scale and externalities of violence and warfare. No earlier civilization could rapidly destroy the world in totalizing warfare, nor debase the integrity of the entire biosphere. An increasing range of new catastrophic weaponry continues to advance and move into the hands of a wider variety of actors. New types of chemical pollution and greater tools of environmental extraction are being developed, despite the passing of critical planetary boundaries. The increasing number and probability of human-induced global catastrophic risks is unprecedented and nearing irreversibility.
+>
+> We have the technological ability to split the nucleus of an atom, edit the genetic base code of life, drive the rapid extinction of many species, create new genetically modified organisms, destroy whole ecosystems, and construct vast human-built environments. And now we have the ability to create artificial intelligences capable of advancing all categories of technology—as well as their strategic deployment—exponentially faster." - [Civilization Research Institute](https://civilizationresearchinstitute.org/#:~:text=Humanity%20lives%20within,deployment%E2%80%94exponentially%20faster.)
 

@@ -6,6 +6,12 @@
 
 > "'Debate-checking' is the logical end of 'fact-checking.' If you are 'proving' one fact/premise/argument at a time, it's essentially cherry-picking. If you are searching for truth, it needs to be conducted in a manner that's maximizing the context of the inquiry space, so relevant arguments, counterarguments, evidence, etc. can be assessed holistically. Once you have done the work of debate mapping, it's very easy to see how one piece of knowledge can completely change the likely veracity and relevance of another piece of knowledge." - [Jamie Joyce](https://twitter.com/JustJamieJoyce/status/1775303902814220342)
 
+https://www.societylibrary.org/ai-debate-blog/2024/5/14/a-debate-map-about-openais-nsfw-policy
+
+https://societylibrary.medium.com/making-decisions-about-ai-or-anything-adfc88e8ea8b
+
+
+
 Interactive AI-driven argument map explorer/explainer
 
 
