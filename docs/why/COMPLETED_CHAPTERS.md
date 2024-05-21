@@ -170,29 +170,6 @@ Hash the book and put it on the stone tablet - then hash the photo and put its h
 
 > "Think about the [scene from Fight Club](https://www.youtube.com/watch?v=DkVRL2po0Y8&t=5s) where the camera swivels around the room to show price tags on everything, and now imagine that in VR, with the cost to materialize each virtual structure in the physical world hovering above it." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=Think%20about%20the%20scene%20from%20Fight%20Club%20where%20the%20camera%20swivels%20around%20the%20room%20to%20show%20price%20tags%20on%20everything%2C%20and%20now%20imagine%20that%20in%20VR%2C%20with%20the%20cost%20to%20materialize%20each%20virtual%20structure%20in%20the%20physical%20world%20hovering%20above%20it.)
 
-██████████████████████████████████████████████████████████████████
-# SECTION: shared intentionality
-██████████████████████████████████████████████████████████████████
-
-
-> "Joint attention and common ground, both personal and cultural, constitute the necessary intersubjective infrastructure for many other uniquely human activities." - [Michael Tomasello](https://www.goodreads.com/quotes/11371432-joint-attention-and-common-ground-both-personal-and-cultural-constitute)
-
-> "We have the most basic structural framework of uniquely human cognition: socially shared realities and the ability to flexibly manipulate and coordinate different perspectives on aspects of those shared realities (mental coordination). This structural framework fundamentally transforms great ape cognition by turning straightforward cognitive representations into perspectival cognitive representations." - [Michael Tomasello](https://www.goodreads.com/quotes/11372505-and-so-we-have-the-most-basic-structural-framework-of#:~:text=we%20have%20the,perspectival%20cognitive%20representations.)
-
-shared intentionality (values, beliefs, practices) is necessary for effective human cooperation - and it has broken down in the West
-we need diversity of opinion and unifying goals - diversity/differentiation and integration
-
-chimps follow the head, humans follow the eyes - shared intentionality
-chimps follow the head - even if the eyes are closed.
-humans follow the eyes - even if the head is stationary.
-human eyes are clearly visible - evolved to signal attention (whites, etc), whereas chimp eyes are much more occluded/hidden
-https://youtu.be/BNbeleWvXyQ?t=809
-
-epistemic fragmentation and division are a cancer
-
-We don’t have just shared intentionality - we also have a shared fate.
-
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Top10 lists

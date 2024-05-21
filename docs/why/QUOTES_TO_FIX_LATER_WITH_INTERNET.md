@@ -1298,7 +1298,9 @@ Massachusetts Institute of Technology
 
 > "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
 
-> "" - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)
+
+
+
 
 > "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen & others](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
 
