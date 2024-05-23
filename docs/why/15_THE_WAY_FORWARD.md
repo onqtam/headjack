@@ -647,16 +647,6 @@ https://www.google.com/search?q=this+is+healthy
 > "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: choice architecture
-██████████████████████████████████████████████████████████████████
-
-> "A famous example of a “nudge” is that when you set up a cafeteria in the school, if you put the healthy food as the first thing you see, you’re more likely to stock up on healthy food rather than the dessert. Now there's lots of ways we can organize choice architectures, but to pretend that you can create a situation in which there's no choice architecture is impossible—there is always a choice architecture." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=A%20famous%20example,a%20choice%20architecture.)
-
-> "Eliminating the stigma eliminates the choice architecture, the guardrails that kept people on the right track. Ripping out the stigma because shame hurts ends up hurting them even more, because it no longer saves them from the act that was stigmatized. And it create a self perpetuating loop where their lives get worse and we think it’s because of the stigma as opposed to the negative behavior they’re doing that the stigma aimed to prevent in the first place." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=Eliminating%20the%20stigma,the%20first%20place.)
-
-> "Stigma and other informal norms set up a basic package of signals for individuals that may not offer guaranteed happiness but offer insurance against patented forms of misery. Most people follow the informal norms of their society willingly or blindly, as they are the “default”. If we set the default to “choose your own adventure”, the knowledge encoded in previous traditions is lost and people are led to repeat the same mistakes again." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=stigma%20and%20other,same%20mistakes%20again.)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: The future of governance & democracy
 ██████████████████████████████████████████████████████████████████
 
@@ -1337,4 +1327,8 @@ Alignment all the way down
 Abrahamic religion and money itself are the only competitors
 
 The biggest question for humanity and its current trajectory is: bend or break?
+
+The ultimate product is the ultimate system which is responsible for every other product
+The purest manifestation of “give people what they want”
+Naval quote go big because we all go home
 

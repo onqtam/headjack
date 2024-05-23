@@ -13,6 +13,7 @@ https://www.societylibrary.org/ai-debate-blog/2024/5/14/a-debate-map-about-opena
 https://societylibrary.medium.com/making-decisions-about-ai-or-anything-adfc88e8ea8b
 
 
+People can express their views and also their reasoning/reasons - we might only count votes that have also given a reason and we might even require that people acknowledge that they've seen the reasoning proposed by others and also give those reasons a weight relative to their own reasons
 
 Interactive AI-driven argument map explorer/explainer
 
@@ -53,6 +54,8 @@ https://en.wikipedia.org/wiki/Flow_(policy_debate)
 we should be able to generate media from the debate map
 
 > "It shouldn’t be tech companies per se getting into fact checking. It should be open source technology. Free, universally available code and data for epistemology. Take a piece of text, parse it, extract assertions, compare to explicitly specified knowledge graphs and oracles." - [Balaji Srinivasan](https://twitter.com/balajis/status/1266180931435417600)
+
+> "For those seeking to improve the state of the epistemic commons, and address 21st-century challenges to sensemaking, there is no way forward that does not involve fundamental upgrades to how “facts” are handled in public discourse." - [How to Mislead the Facts - The Consilience Project](https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=For%20those%20seeking%20to%20improve%20the%20state%20of%20the%20epistemic%20commons%2C%20and%20address%2021st%2Dcentury%20challenges%20to%20sensemaking%2C%20there%20is%20no%20way%20forward%20that%20does%20not%20involve%20fundamental%20upgrades%20to%20how%20%E2%80%9Cfacts%E2%80%9D%20are%20handled%20in%20public%20discourse.)
 
 > "True ignorance is not the absence of knowledge, but the refusal to acquire it." - [Karl Popper](https://www.azquotes.com/quote/492103)
 
