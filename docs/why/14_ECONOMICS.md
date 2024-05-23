@@ -104,6 +104,7 @@ The metaverse is a parallel economy
 Parallel media, economy & governance
 
 
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Aligning & incentivizing companies
 ██████████████████████████████████████████████████████████████████
@@ -120,6 +121,21 @@ Credentialed expression rights - we should demand that companies give us credent
 The right to credentialed expression
 
 
+██████████████████████████████████████████████████████████████████
+# SECTION: choice architecture
+██████████████████████████████████████████████████████████████████
+
+Nested templates: root template might have one entry for safety pointing to a sub-template with more options and categories of things relating to safety - MENUS !!!
+MENUS !!! ^^
+Choice architecture - RR - visibility templates
+
+> "A famous example of a “nudge” is that when you set up a cafeteria in the school, if you put the healthy food as the first thing you see, you’re more likely to stock up on healthy food rather than the dessert. Now there's lots of ways we can organize choice architectures, but to pretend that you can create a situation in which there's no choice architecture is impossible—there is always a choice architecture." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=A%20famous%20example,a%20choice%20architecture.)
+
+> "Eliminating the stigma eliminates the choice architecture, the guardrails that kept people on the right track. Ripping out the stigma because shame hurts ends up hurting them even more, because it no longer saves them from the act that was stigmatized. And it create a self perpetuating loop where their lives get worse and we think it’s because of the stigma as opposed to the negative behavior they’re doing that the stigma aimed to prevent in the first place." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=Eliminating%20the%20stigma,the%20first%20place.)
+
+> "Stigma and other informal norms set up a basic package of signals for individuals that may not offer guaranteed happiness but offer insurance against patented forms of misery. Most people follow the informal norms of their society willingly or blindly, as they are the “default”. If we set the default to “choose your own adventure”, the knowledge encoded in previous traditions is lost and people are led to repeat the same mistakes again." - [Reintroducing Stigma, by Erik Torenberg](https://eriktorenberg.substack.com/p/reintroducing-stigma#:~:text=stigma%20and%20other,same%20mistakes%20again.)
+
+“Contribution to humanity rank/index” for companies - making yet another kind of shampoo or a snack doesn’t get you high in there - just like vulture funds and the reputational damage that comes along from working at one
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Sharing economy, having enough & not competing for status through possession

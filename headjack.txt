@@ -1267,12 +1267,7 @@ Politicians have to constantly run photo ops and waste their time - because the 
 A post-scarcity world is one where scarcity doesn’t matter (is irrelevant) - not one where it doesn’t exist
 
 
-Nested templates: root template might have one entry for safety pointing to a sub-template with more options and categories of things relating to safety - MENUS !!!
-MENUS !!! ^^
-Choice architecture - RR - visibility templates
-
-
-Expertise from one sector is not translatable to another - unlike fungible money. Furthermore, experts in one field grossly overestimate their understanding of other fields (a cognitive bias). We should make it impossible for outside influence over a field - either by experts from other fields or by money - reputation and expertise are not fungible from one field to another
+Expertise from one sector is rarely if ever transferrable/translatable to another - unlike fungible money. Furthermore, experts in one field grossly overestimate their understanding of other fields (a cognitive bias). We should make it impossible for outside influence over a field - either by experts from other fields or by money - reputation and expertise are not fungible from one field to another
 
 How do we let people take ownership & responsibility?
 
@@ -1285,16 +1280,6 @@ I don't always want to have to watch your video or read your long text - just gi
 ^^ this is in conflict with the influencer's (or curator's) incentives to some degree, but the best ones that are trusted by millions will still generate enough revenue from the long-form content
 
 Convergence gives us trustworthiness - the opposite of bullshit
-
-“Contribution to humanity rank/index” for companies - making yet another kind of shampoo or a snack doesn’t get you high in there - just like vulture funds and the reputational damage that comes along from working at one
-
-How do we short aspects of culture?
-
-The ultimate product is the ultimate system which is responsible for every other product
-The purest manifestation of “give people what they want”
-Naval quote go big because we all go home
-
-People can express their views and also their reasoning/reasons - we might only count votes that have also given a reason and we might even require that people have seen the reasoning proposed by others and to have acknowledged it and given those reasons also a weight relative to their own reasons
 
 A separate feed with the truffle pigs - select a few high-grade curators and let their picks show up in your “top 10 daily feed” - no infinite scroll
 
