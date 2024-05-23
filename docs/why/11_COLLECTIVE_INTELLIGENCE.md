@@ -1,5 +1,5 @@
 
-Maybe rename file from CI to self-organization?
+
 
 <strikethrough>Bitcoin</strikethrough> Headjack fixes this.
 
@@ -11,7 +11,7 @@ alternative titles:
 
 > "The body cannot live without the mind." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158662-the-body-cannot-live-without-the-mind-morpheus-the-matrix)
 
-
+Symbiotic intelligence = collective + artificial
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Biases & Evolutionary Psychology
@@ -153,7 +153,7 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 # SECTION: Probability & prediction
 ██████████████████████████████████████████████████████████████████
 
-<img src="/img/famous_failed_prediction_by_economist.png"/>
+<img src="/img/famous_failed_prediction.png"/>
 
 > "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
 

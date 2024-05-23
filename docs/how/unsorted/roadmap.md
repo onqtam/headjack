@@ -35,6 +35,8 @@ strategy: dogfooding the system - piping every aspect/argument/assumption of the
 
 Chapter about what twitter should do with headjack - play on their infra skills and capture the AWS-like part of the future business ecosystem because its a nobrainer and they have expertise
 
+The Liminal Web as the first target group for this project
+
 Include a way for people to add their email as early converts and put their counter globally somewhere - visibly online - up to date
 
 - the OAuth-like experience - a major selling point, web2 feel

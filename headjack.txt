@@ -255,17 +255,11 @@ sympathetic vs parasympathetic nervous system
 
 
 
-when someone does bad in terms of competence/accountability, in addition to a reputational penalty to them we could also penalize a bit those that gave their votes to that person - for empowering a rotten apple. We could also give rewards for delegating to the right person...?
 
-Human potential is being squandered on a grand scale - why arent we investing the most so that the most disadvantaged rise the fastest? Such an altruistic act is the best way towards building trust
-
-We need a cure for apathy and disengagement
+Human potential is being squandered on a grand scale
 
 "you need to force behaviours" - larry fink, ESG prince - how about forcing his behaviour?
 https://www.youtube.com/watch?v=KwwN5kwjAtQ
-
-if you see something that you think obviously has an agenda by the media - have a way to express it. Let's see in aggregate who thinks something is politically motivated and who is supporting it. slander needs to be on the record too because if it turns out false - there should be consequences to whoever wrote it
-
 
 this architecture for reputation and competence can be used by nations, by corporations or any kind of organization
 
@@ -278,15 +272,9 @@ we can independently assess other models & egregores for their competency - base
 
 completely trustless is counterproductive (truly crypto-native protocols) - we simply need better trust - a transparency and reputation system - a new game
 
-factor in changing of the IP addresses in the throughput - make a complete best guess showing all use cases with percentages
-
-this is how we solve all types of alignment: AI alignment & human alignment
-
 transparency builds trust and trust attracts customers. Customers of anything - aka humans want the truth despite their irrational psychological predispositions
 
 labeling data needs rewards for correct labeling - an incentive for truth
-
-what is a loss function? it is error correction. What's the loss function of the media landscape? what if we quantified it?
 
 what if we gave incentives for anyone being some kind of annotator - to have to specialize in some area of the world and compete transparently & prove competence & accountability
 We would effectively be training an AI how to label things in any vertical - and we could connect all those verticals in a single latent space and aggregate the predictive wisdom of the crowd that way
@@ -1276,17 +1264,8 @@ We need to solve governance before AGI
 
 Politicians have to constantly run photo ops and waste their time - because the way we elect them is the wrong way
 
-Parallel media, economy & governance
-
-Credentialed expression rights - we should demand that companies give us credentials for this new sensemaking & governance infrastructure
-
 A post-scarcity world is one where scarcity doesn’t matter (is irrelevant) - not one where it doesn’t exist
 
-Another collective action problem: the right to repair - should stigmatise companies for this
-
-How do we make a system that would give you the best sequence of information/education so that you are your best self - mature, capable, playing to your unique strengths, self-actualised, rational and contributing? Capable of thinking critically, sovereign, capable of handling complexity?
-
-The Liminal Web as the first target group for this project
 
 Nested templates: root template might have one entry for safety pointing to a sub-template with more options and categories of things relating to safety - MENUS !!!
 MENUS !!! ^^
@@ -1558,10 +1537,6 @@ If our country was in a war we’d want to know the most important aspects of it
 How do we develop a love of nature instead of shopping malls in kids?
 How do we simulate the experience of being in space and looking back at earth? And how do we scale that to everyone? How do we make global Mexican awareness waves for every important thing?
 
-The biggest question for humanity and its current trajectory is: bend or break?
-
-Conscious redirection/redefinition of Girardian mimetic desire
-
 Problems with prediction markets with money:
 - bootstrapping liquidity
 - locking up money for years until resolution
@@ -1573,8 +1548,6 @@ Problems with prediction markets with money:
 - what if we wanted small rewards for successful predictions and big penalties for getting it wrong?
 
 
-Symbiotic intelligence = collective + artificial
-
 All games have a loop and for GameA that loop is the money-on-money return - everything boils down to the optimization and pursuit of a single perfectly fungible metric
 We need to replace that loop with a civilizational OODA loop
 
@@ -1584,49 +1557,26 @@ Information session management
 
 We need intents for our media consumption - not just for complex transactions
 
-We need to move from a money-on-money-return world to a transparency-on-transparency-return world
-
-Capitalism is suffering from opacity
 
 Transparency and openness are the soul of cooperation
 
 What if we could compute concepts? What if the degree of recursion was the "stepen"? Relevance realization squared means two levels of recursion.
-
-Psychedelics can be a tool for change - making evolution more conscious
 
 What we need to build is the epitome of information becoming aware of itself - consciousness through self-referential recursive lookups
 
 The fundamental problem is that the system could be producing individuals who want to improve themselves and the system a lot more than they currently do.
 What happens if we optimize and improve everything for everyone as much as possible? Shouldn’t that be the ultimate goal - the North Star?
 
-The metaverse is  a parallel economy
-
-The Cantillon effect has to be exterminated
-
 
 If identity compounds then cooperation would be much more widespread because destroying your identity & starting from scratch will be too costly.
 
-How do we incentivize companies like Google to spread their know-how about their cafeteria instead of keeping it to themselves?
-
-What if we can reward associating with the right forces so that employees pick their companies that way?
-
-What should every human know?
-
-Your personal AI tutor - aligned the way you’ve chosen it
-
 what if we could ZK-prove commitments of an X % of salaries to a common pool and reward that with status?
-
-We haven’t metabolized the bomb - we’ve merely put it out of our minds
 
 Signal the change you want to see in the world
 
 We can elect our predictors and even decide how many prediction points to give them to work with
 
 We need to replace rhetoric with prediction
-
-what if not advertisers could buycott platforms, but users could collectively boycott advertisers? What if we reject crap products, ads & ideologies?
-
-The 4 most scary words are “cultural enlightenment or bust”
 
 We can collectively answer what is the meaning of life and let it evolve through time
 
@@ -1722,19 +1672,6 @@ How do we pattern-extract the best from the best and reuse as much as possible?
 
 Alignment is the only north star - scaling of trust and concern
 
-Any country could jump in first and reap the benefits - and the “jump” could be gradual
-
-This idea would never have a chance in China - and that’s why preserving the West is important. It's not about just morals - it’s simply more resilient because of Ashby’s law of requisite variety
-
-We need to encode/enshrine the advice of the best of us into culture - even long after they are dead
-
-Optimal integration is the only goal
-
-Here’s what the operating system for humanity should enable: state a problem and incentivize someone to solve it. Recursively/iteratively and in parallel - pointing to problems, ranking them, and rewarding for them being solved
-
-Pointing to the truth is a Schelling point - that's why sunlight is the best disinfectant - if we create the tools for people to elevate competency & sensemake - we win. That's the singularity - we are the most underutilized general intelligence
-
-We need to crowdsource the quantification of how much anything costs
 
 Imagine we all had game points UBI for multiple “resources” and we got a constant stream and could allot more points for recognition as “upgrading a tech tree - contributing a finite resource for some cause explicitly. What if we made public who is working towards what so that we can rank them by importance and morality and also tracked who are the best performers for each of those verticals?
 

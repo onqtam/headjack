@@ -128,6 +128,10 @@ The only way to alignment is through transparency and interpretability
 
 > "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is the most adaptable to change, that lives within the means available and works co-operatively against common threats." - [Charles Darwin](https://www.azquotes.com/quote/1397543)
 
+
+this is how we solve all types of alignment: AI alignment & human alignment
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████

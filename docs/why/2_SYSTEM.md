@@ -889,3 +889,4 @@ quote goes here: power of gods but not the wisdom
 
 > "Humanity spends more on ice cream each year than ensuring the technologies we develop don't destroy us." - [Toby Ord](https://www.goodreads.com/quotes/11214538-humanity-spends-more-on-ice-cream-each-year-than-ensuring)
 
+We haven’t metabolized the bomb - we’ve merely put it out of our minds

@@ -113,8 +113,11 @@ TODO: should IPFS hashes & merkle roots be saved in the state?
 The growth of the chain and the state will differ by a few things:
 
 
+
 One difference between Headjack and financial blockchains is that they don't force historical records into the state whereas that is the main value proposition of Headjack.
 
+
+factor in changing of the IP addresses in the throughput - make a complete best guess showing all use cases with percentages
 
 
 This is a solution that is provably possible and better and can only get better in time with further innovation and scaling
