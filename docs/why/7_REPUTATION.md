@@ -119,6 +119,7 @@ an environment where a single identity is used for a long time and it accrues re
 
 > "Reputation is a matter of perception. A company’s overall reputation is a function of its reputation among its various stakeholders (investors, customers, suppliers, employees, regulators, politicians, nongovernmental organizations, the communities in which the firm operates) in specific categories (product quality, corporate governance, employee relations, customer service, intellectual capital, financial performance, handling of environmental and social issues). A strong positive reputation among stakeholders across multiple categories will result in a strong positive reputation for the company overall." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
 
+There is no accountability without accounting. In business and finance accounting is about money. In the status, purpose, and meaning world accounting is calculated reputation.
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: stick & carrot
@@ -173,6 +174,8 @@ this is not page rank - this is entity rank
 
 > "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
 
+When tracking portfolio success - ppl will initially define the parameters & risk against which they should be judged - aiming for 100x vs minimizing downside
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Indexes (ESG, CPI, etc)
@@ -225,6 +228,7 @@ greenwashing
 
 > "Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Meeting%20new%20people%20is%20a%20race%20to%20find%20the%20most%20interesting%20overlap%20areas%20between%20your%20knowledge%20trees%20as%20fast%20as%20possible.)
 
+What if we made Tinder, but along with coaching for the personal life?
 
 How do we collectively help improve the matchmaking process in every field?
 

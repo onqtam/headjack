@@ -188,6 +188,7 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 > "Sound strategy starts with having the right goal." - [Michael Porter](https://www.azquotes.com/quote/605346)
 
 > "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
+Our hobby should be problem-solving
 
 
 
