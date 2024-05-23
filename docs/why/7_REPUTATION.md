@@ -247,6 +247,10 @@ Friendship matchmaking where you deliberately enter your goals initially
 
 > "Deriving comfort from anything other than status signals low status." - [Steven Kaas](https://twitter.com/stevenkaas/status/223317583737257984)
 
+> "The worst parts of human nature are always near the surface - ready to rise when cultural restraints weaken. We are not blank slates as some behavioralists once imagined. We are organisms whose more egregious tendencies can be greatly if arduously subdued and the primary reason for this tenuous optimism is the abject flexibility whith which status is sought. We will do almost anything for respect, including: not act like animals." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
+
+> "The whole point of the human brain is behavioural flexibility." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
+
 “Let the (status) game begin”
 With a picture of the clown from the movie “saw”
 
@@ -335,6 +339,11 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 > "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
 
 > "The world is not driven by greed; it's driven by envy." - [Charlie Munger](https://x.com/shaneaparrish/status/1748353737167356305)
+
+> "From natural selection’s point of view, status assistance is the main purpose of friendship." - [Robert Wright](https://www.goodreads.com/quotes/9700916-from-natural-selection-s-point-of-view-status-assistance-is-the)
+
+> "We spend our lives desperately seeking status; we are addicted to social esteem in a fairly literal sense, dependent on the neurotransmitters we get upon impressing people. Many of us claim to be self-sufficient, to have a moral gyroscope, to hold fast to our values, come what may. But people truly oblivious to peer approval get labeled sociopaths. And the epithets reserved for people at the other end of the spectrum, people who seek esteem most ardently—“self-promoter,” “social climber”—are only signs of our constitutional blindness. We are all self-promoters and social climbers. The people known as such are either so effective as to arouse envy or so graceless as to make their effort obvious, or both." - [Robert Wright](https://www.goodreads.com/quotes/9799532-we-spend-our-lives-desperately-seeking-status-we-are-addicted)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Reverse panopticon

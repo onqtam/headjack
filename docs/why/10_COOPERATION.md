@@ -171,6 +171,12 @@ The only way to alignment is through transparency and interpretability
 > "There is now a large body of evidence that enforcement shapes cooperation across all levels of biology. This includes systems that have undergone a major transition, like some social insects, as well as those that have not, like many mutualisms... While high costs can be prohibitive, a given cooperative system may explore diverse enforcement strategies over evolutionary time until a low-cost solution arises. Low costs to enforcement are further facilitated by power asymmetries. Enforcement can be enabled by a single powerful individual, such as a host who exercises control over symbionts, or by majority rule, such as within an animal society. There is also a role for pre-adaptations: pre-existing features of the biology of a system can enable enforcement and promote its effectiveness. Systems in which enforcement is not possible will be less likely to see increases in cooperation over evolutionary time, or they may even see cooperation fall away. It is in those systems where enforcement does arise that we see the full extent, and wonders, of cooperative evolution." - [Enforcement is central to the evolution of cooperation](https://sci-hub.se/10.1038/s41559-019-0907-1)
 
 
+> "A free society that allows each individual to seek his or her own selfish ends (without deliberately trying to harm anyone else) will produce a state in which everyone's interest is optimized without any individual knowing in advance what that state might be." - [Stuart Kauffman](https://www.azquotes.com/quote/580554)
+
+> "Evolution is not the enemy of ethics but its first source." - [Stuart Kauffman](https://www.azquotes.com/quote/792121)
+
+
+
 
 
 

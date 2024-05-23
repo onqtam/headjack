@@ -198,6 +198,8 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "Recognizing that we are an essential part of cosmic evolution establishes an agenda with clear milestones for humanity and a rational ethical code. This code is based on the premise that we have a responsibility to do what is good for the living network, which includes not only humans, but all sentient life, as well as the biosphere, since life critically depends on entire ecosystems. We must recognize that we are part of an interdependent, interconnected whole, and we must make decisions that are consistent with the goals of civilization. If we do not become cognizant that the only way to overcome existential challenges is by working together, then human civilization will fail, and those that come after us will get their chance." - [The Romance of Reality: How the Universe Organizes Itself to Create Life, Consciousness, and Cosmic Complexity, by Bobby Azarian](https://nextbigideaclub.com/magazine/romance-reality-universe-organizes-create-life-consciousness-cosmic-complexity-bookbite/35458/#:~:text=Recognizing%20that%20we,get%20their%20chance.)
 
+> "It is my belief that we need a new transnational sustaining 'myth' that can impart value and respect. It is my further belief that we are coming to see our universe and life as creative, without a directing agency. Meaning emerges with life. If this view becomes widespread, it has the promise to become the sustaining myth we need to sustain in turn an emerging global civilization." - [Stuart Kauffman](https://www.azquotes.com/quote/792122)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meaning of/in life
 ██████████████████████████████████████████████████████████████████
@@ -324,11 +326,20 @@ Sublimation of the individual self into a higher entity
 Mark Zuckerberg bunker - he hasn't got the memo that we're all in this together
 https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doomsday-bunker-blast-resistant-door
 
+> "Think of it: zillions and zillions of organisms running around, each under the hypnotic spell of a single truth, all these truths identical, and all logically incompatible with one another: 'My hereditary material is the most important material on earth; its survival justifies your frustration, pain, even death'. And you are one of those organisms, living your life in the thrall of a logical absurdity." - [Robert Wright](https://www.azquotes.com/quote/577877)
+
+> "If you truly loved yourself, you could never hurt another." - [Gautama Buddha](https://www.goodreads.com/quotes/40567-if-you-truly-loved-yourself-you-could-never-hurt-another)
+
+> "The Buddha said anger has a “poisoned root and honeyed tip”." - [Robert Wright](https://www.goodreads.com/quotes/9331529-the-buddha-said-anger-has-a-poisoned-root-and-honeyed)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
 ██████████████████████████████████████████████████████████████████
 
 > "It is as if man had been suddenly appointed managing director of the biggest business of all, the business of evolution—appointed without being asked if he wanted it, and without proper warning and preparation. What is more, he can’t refuse the job. Whether he wants to or not, whether he is conscious of what he is doing or not, he is in point of fact determining the future direction of evolution on this earth. That is his inescapable destiny, and the sooner he realizes it and starts believing in it, the better for all concerned..." - [Transhumanism, by Julian Huxley](https://www.consciousevolution.co.uk/blog/what-is-an-evolutionary#:~:text=It%20is%20as,for%20all%20concerned.%20.%20.%20.)
+
+> "We are agents who alter the unfolding of the universe." - [Stuart Kauffman](https://www.goodreads.com/quotes/8508105-we-are-agents-who-alter-the-unfolding-of-the-universe)
 
 > "Who looks outside, dreams; who looks inside, awakes." - [Carl Jung](https://www.azquotes.com/quote/151492)
 
@@ -388,6 +399,9 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 > "We can no longer afford to live in a world where the incentives of any agent in the system are misaligned with the incentives of the collective. Where a lack of accountability means that the rational thing for an individual to do is steal or cheat, when companies are free to externalise the costs of production to the environment to the point where we are destroying the very systems which sustain us, when the geopolitical cost of disarmament is potentially so high that governments are forced to compete in an arms race to the point where we now have enough nuclear weapons to destroy the entire population of the earth many times over…and yet still we keep building nuclear weapons." - [How can we consciously evolve?](https://www.consciousevolution.co.uk/how#:~:text=We%20can%20no,building%20nuclear%20weapons.)
 
+> "Human beings are a species splendid in their array of moral equipment, tragic in their propensity to misuse it, and pathetic in their ignorance of the misuse." - [Robert Wright](https://www.goodreads.com/quotes/53242-human-beings-are-a-species-splendid-in-their-array-of)
+
+> "God knows greed won't vanish. Neither will hatred or chauvanism. Human nature is a stubborn thing. But it isn't beyond control. Even if our core impulses can't be banished, they can be tempered and redirected." - [Robert Wright](https://www.azquotes.com/quote/661020)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
@@ -858,10 +872,11 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 # SECTION: Transition
 ██████████████████████████████████████████████████████████████████
 
-Meme: Fork in the road: dysfunctional gameA vs solving the metacrisis
-
 meme: Dad - what did you do - fucking legend - I helped revitalize civilization and make it multi-planetary
 
+> "In the great non-zero sum games of history, if you're part of the problem, then you'll likely be a victim of the solution." - [Robert Wright](https://www.azquotes.com/quote/1457465)
+
+> "None of our current socio-politico-economic operating system was brought down from Mt Sinai by Moses. We built it, we can change it. We own the moral responsibility for the nature of our society." - [Jim Rutt](https://twitter.com/jim_rutt/status/1783469872569082063)
 
 > "When a system is far from equilibrium, small islands of coherence have the capacity to shift the entire system." - [Ilya Prigogine](https://www.systeminnovation.org/blog/five-lessons-from-system-shifters-lesson-three#:~:text=When%20a%20system%20is%20far%20from%20equilibrium%2C%20small%20islands%20of%20coherence%20have%20the%20capacity%20to%20shift%20the%20entire%20system.)
 
@@ -1028,6 +1043,10 @@ God is the puppet master
 God is whatever he needs to be
 
 God is the engine and totality of human knowledge
+
+> "William James wrote in The Varieties of Religious Experience that religion 'consists of the belief that there is an unseen order, and that our supreme good lies in harmoniously adjusting ourselves thereto'." - [Robert Wright](https://www.goodreads.com/quotes/8953319-william-james-wrote-in-the-varieties-of-religious-experience-that)
+
+> "Religion is a feature of cultural evolution that, among other things, addresses anxieties created by cultural evolution; it helps keep social change safe from itself." - [Robert Wright](https://www.goodreads.com/quotes/1101921-religion-is-a-feature-of-cultural-evolution-that-among-other)
 
 > "The problem that we’re identifying is that you can take the man out of religion, but you can’t take the religious nature out of the man." - [Religion, Rationality, and Religious Rationality, by Erik Torenberg](https://eriktorenberg.substack.com/p/religion-rationality-and-religious#:~:text=The%20problem%20that%20we%E2%80%99re%20identifying%20is%20that%20you%20can%20take%20the%20man%20out%20of%20religion%2C%20but%20you%20can%E2%80%99t%20take%20the%20religious%20nature%20out%20of%20the%20man.%C2%A0)
 
@@ -1468,6 +1487,8 @@ https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
 kennedy quote - choose to go to the moon not because it is easy but because it is hard
 
 > "If you think we can't change the world, it just means you're not one of those who will." - [Jacque Fresco](https://www.goodreads.com/quotes/7622314-if-you-think-we-can-t-change-the-world-it-just)
+
+> "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?" - [Gautama Buddha](https://www.goodreads.com/quotes/1268-however-many-holy-words-you-read-however-many-you-speak)
 
 > "As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them." - [Aaron Swartz](https://www.azquotes.com/quote/873585)
 
