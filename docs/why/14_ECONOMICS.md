@@ -103,6 +103,19 @@ Capitalism is suffering from opacity
 The metaverse is a parallel economy
 Parallel media, economy & governance
 
+Laissez-faire capitalism needs to end
+We're in a free for all and that should scare everybody
+
+The invisible hand has no competition - it’s left unchecked and is ripping meaning and morals out of our civilization. If you truly care about competition we should introduce it at the most fundamental level and give rise to another invisible hand that’s not fungible to material possessions but is all about the meaning of life and recognition by and connection to others.
+We need a meta-invisible hand that will tune the relationship and distribution of money (claims over resources) and human values
+
+
+An open-source economy
+
+the biggest harms in the world come from opaqueness on the enterprise level
+
+We have to incentivise contribution to the common good and we have to decouple that from resources - we need a new incentive
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -137,6 +150,20 @@ Choice architecture - RR - visibility templates
 
 “Contribution to humanity rank/index” for companies - making yet another kind of shampoo or a snack doesn’t get you high in there - just like vulture funds and the reputational damage that comes along from working at one
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Elinor Ostrom & commons
+██████████████████████████████████████████████████████████████████
+
+https://prnt.sc/kA6pSBBUfZqV
+
+https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22
+
+> "But until a theoretical explanation -based on human choice – for self-organized and self-governed enterprises is fully developed and accepted, major policy decisions will continue to be undertaken with a presumption that individuals cannot organize themselves and always need to be organized by external authorities." - [Elinor Ostrom](https://www.goodreads.com/quotes/3238607-but-until-a-theoretical-explanation--based-on-human-choice)
+
+> "Only when science and technology are used with human concern in a world in which all of the earth's resources are held as the common heritage of all of the earth's people can we truly say that there is intelligent life on Earth." - [Jacque Fresco](https://www.azquotes.com/quote/728558)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Sharing economy, having enough & not competing for status through possession
 ██████████████████████████████████████████████████████████████████
@@ -154,6 +181,8 @@ Few people could predict uber and airbnb - most were extremely sceptical. The sa
 ██████████████████████████████████████████████████████████████████
 
 how we should think about wealth distribution and accumulation
+
+What if we implemented the most competent, fair and incorruptible redistributive economy?
 
 Not everything has to make a profit - we can and should think of what truly needs subsidizing and how to make the governance of that process corruption-free and meritocratic.
 

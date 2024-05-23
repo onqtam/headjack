@@ -461,7 +461,7 @@ We can literally find ourselves in the situation of the movie dont look up
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Destructive global competition
+# SECTION: Destructive global competition DGC
 ██████████████████████████████████████████████████████████████████
 
 https://simpol.org/
@@ -479,6 +479,8 @@ The neo-liberal economic order needs to be updated
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conflict vs mistake theory, Moral hazzards, Opaqueness & Plausible Deniability
 ██████████████████████████████████████████████████████████████████
+
+2 dirty words: plausible deniability
 
 https://www.google.com/search?q=conflict+theory+mistake+theory+plausible+deniability
 
@@ -507,6 +509,8 @@ Is [COINTELPRO](https://en.wikipedia.org/wiki/COINTELPRO) just an unconvenient h
 ██████████████████████████████████████████████████████████████████
 
 hyperindividualism will be our doom
+
+We’ve put the self on a pedestal
 
 > "Everywhere I look, I see people who are free — free to be alone and adrift, without callings or commitments." - [The Limitations of Freedom, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-limitations-of-freedom#:~:text=Everywhere%20I%20look%2C%20I%20see%20people%20who%20are%20free%20%E2%80%94%20free%20to%20be%20alone%20and%20adrift%2C%20without%20callings%20or%20commitments.%C2%A0%20%C2%A0%C2%A0)
 
@@ -573,6 +577,8 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 the century of the self
 
 Minimalism
+
+We are locked into an individualistic multi-polar trap of conspicuous consumption
 
 shoppers!!! behold
 "Walmart stampede"
@@ -784,6 +790,8 @@ why do they make packaging that's impossible to reuse/recycle and is composed of
 We are debasing the substrate upon which we depend
 
 Ecocide - insects are dying at 2% per year
+
+The extent to which we shift to frugality is the extent to which catastrophic risks will be minimized
 
 > "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett#:~:text=%22The%20greatest%20shortcoming%20of%20the%20human%20race%20is%20our%20inability%20to%20understand%20the%20exponential%20function.%22)
 

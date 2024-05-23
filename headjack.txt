@@ -613,13 +613,6 @@ we can flag whataboutism
 
 the foundation of social capital is a global identity protocol that can be permissionlessly extended
 
-We need a way to short a bad ideology, disprove it, and gain status from that in an objective way.
-
-We can export stackexchange karma through some onboarding strategy
-
-We can elect the arbiters of truth - the head of the pyramid for any problem
-
-
 Any aspect of how we aggregate votes could be put to a vote - self-recursion
 
 How much cheaper would be services to develop if they were done in the open and they got the help of contributors?
@@ -1316,110 +1309,38 @@ Any claim can be put on two scales: certainty/likelihood and importance. That's 
 
 We can have a license that allows only other companies within this ecosystem to use our stuff - representing a barrier/membrane between gameA and gameB
 
-Embrace infinity in every conceivable way
-
-Enculturation architecture
-
-Our hobby should be problem-solving
-
-Constraints are freedom
-
-List an incredible amount of things and accomplishments and needless deaths that would simply have not mattered if we fail in this transition - not trillions or quadrillions - an infinite number of causes and effects and events and signals and aspirations and gestures 
-The worst thing in the universe is irrelevance - inconsequentiality - pure meaninglessness
-
-We used to sing and dance around the fire
-
-The extent to which we shift to frugality is the extent to which catastrophic risks will be minimized
-
 We need to purge everything dysfunctional - we need to puke it before it's too late
 
 The ultimate litmus test is prediction
 
-We’ve put the self on a pedestal 
-
-Just like life, the internet also evolved blindly and unconsciously - gradient descent. But we are architects and can consciously choose our civilizational foundation
-
 If you care about something you should express it publicly
-
-Learning should be a joy - an honor
-
-Nature is counting on the next generation to step up to the challenge or fade into irrelevance
-
-Intelligence didn’t evolve to not be taken seriously
 
 We should be terrified by our capacity for self-hate and we should channel that energy toward improvement
 
-Laissez-faire capitalism needs to end
-
-We can fail nature - we’ve surpassed it but have not fully learned from it
-
-We’ve not fully integrated everything nature has to tell us
-
-It is disrespectful to nature to not learn from it - nature is the embodiment of wisdom
-
-We're in a free for all and that should scare everybody
-
-A civilization and culture before us built the pyramids - what’s our legacy?
-We should build the biggest pyramid by 2100
-
-Napravi video v koeto pravish nqkakvo kalpavo kulbo i sped tova se izpravqsh indirektno zapochvash da govorish za vuzmojno nai-golqmata ideq v sveta - sincere irony?
-
 Our votes lead to governments whose laws are public for anyone to see - why not do the same for voting?
 
-DGC - destructive global competition
 
-
-
-The invisible hand has no competition - it’s left unchecked and is ripping meaning and morals out of our civilization. If you truly care about competition we should introduce it at the most fundamental level and give rise to another invisible hand that’s not fungible to material possessions but is all about the meaning of life and recognition by and connection to others.
-We need a meta-invisible hand that will tune the relationship and distribution of money (claims over resources) and human values
-
-When tracking portfolio success - ppl will initially define the parameters & risk against which they should be judged - aiming for 100x vs minimizing downside
-
-We are locked into an individualistic multi-polar trap of conspicuous consumption
-
-There is no accountability without accounting. In business and finance accounting is about money. In the status, purpose, and meaning world accounting is about reputation.
-
-> "Culture is the collective arena at the cognitive level on how we distribute challenges and do proper problem formulation." - [Tim Bishop](https://www.youtube.com/watch?v=-2oqxo_wHr0)
 
 You don’t want what's relevant to you to be determined by people who are not aligned with you
-
-An open-source economy
 
 Expression is a primordial desire and need
 
 We can publicly rate our happiness and then we can query what the happiest people do. Same for success, fulfillment, people dealing with death anxiety, terminal illnesses, etc.
 Imagine being able to ask “what do others think” for every stage and situation of your life
 
-This is a fight for conscious life itself
-The fight of our lives
-
-Ritualised suffering
 
 Give and ye shall receive
-
-We have to incentivise contribution to the common good and we have to decouple that from resources - we need a new incentive
 
 Every dysfunctional individual is a tragedy and a symptom of our dysfunctional culture
 But what is a functional individual? Let's inspect a debate map
 
-Trying is not good enough
-
 We are at an evolutionary choke point and the only way through it is through a conscious strategy which will be implemented and carried forward through governance
-
-Many people hate profit - they misunderstand capitalism, incentives & human nature
-
-Relevance realization is the most important mental mode
-
-Write as you are addressing kids - tell them about the word they’re about to inherit and what they could do to influence its direction
-
-This is for the teenagers - those that are still neuroplastic
-Most people die at 25-30 because they stop developing
 
 Alignment score
 
 Conviviality
 
-How do we make a society 100% free from plastic?
+How do we make a society close to 100% free from plastic?
 
 How do we best improve the idea to make it such that others are falling in love with it?
 
@@ -1431,17 +1352,11 @@ The great fragmentation
 
 We need to signal to the market what we consciously want based on merit - not just to signal through spending money
 
-We can simply tag areas we would like to fix and then work on that and signal competence
-
-The edge of chaos - as a central idea - and how the concentration of debate plays in that
+We can simply tag areas we would like to improve and then work on that and signal competence
 
 We should build the pro-social generator on top of the internet
 
 Identity is feudal
-
-We can vote on what kind of stories we want
-
-Write something with ? And use as tinder bio
 
 There should not be such a thing as private intellectual property
 
@@ -1491,8 +1406,6 @@ we can have debate maps for how "fascist" some entity/concept is, and later calc
 children should start from scratch with their reputation (it should be earned) - they can only inherit material wealth - not reputation
 
 what if you could see in advance the effects of your actions on different rankings & views? Make explicit the effects of the signal you're about to emit
-
-The Egyptians built pyramids out of stone that have lasted for (decades of) millennia but have perished as a civilization - we need to build an informational superstructure - a meritocratic pyramid - that would guarantee the survival of our civilization
 
 what if journalists (& journals) had a doxxing score - how many times they've doxxed someone?
 https://twitter.com/balajis/status/1733450406641221689
@@ -1599,18 +1512,11 @@ Ultimately it's all about values - everything is causally interwoven
 
 the participatory & subsidiary statehood operating system
 
-Consciously directed culture evolution should be participatory & done in public
-
 How do we increase the clock rate of relevance realization? How do we overclock our CPU? How do we better integrate distributed cognition and add that consciously to our civilizational architecture?
 
 Talk about doctest and how much value it delivers and how it cannot muster the financial support that’s required for its ongoing maintenance - a tragedy of the commons - how do we reward the right behavior?
 
-2 dirty words: plausible deniability
-Conflict vs mistake theory
-
 Death is the most important event of our lives
-
-What if we implemented the most competent and incorruptible redistributive economy?
 
 20th-century capitalism played its role but now it's time to create something better out of its fruits (of which there are many!)
 The push towards the current levels of technologic capability for the billions in terms of connectivity - the fastest way to get to scale for comms was capitalism. Now we need to upgrade the system for the next level of metasystem transitions
@@ -1619,11 +1525,7 @@ Cultural alignment needs to happen before mass climate migration.
 
 We need to be honest about how the current world came to be - who we are and where we come from - the evolutionary context.
 
-Participatory incentive design
-
 The global forecaster academy
-
-What if we made Tinder, but along with coaching for the personal life?
 
 What if - just what if - we do subsidies properly?
 What's a company - doesn't it decide internally what to subsidize?
@@ -1632,18 +1534,15 @@ We need a system where we could experience what its like to be someone else from
 
 Problems are bad. How do we have less problems? How do we surface truth? How do we forecast the future better?
 
-We are nothing without everyone else
 
 
 
 
-Why do we have kids? To pass on a portion of our soul - of our existence. Contributing to the collective memetic heritage
+
 
 The larger the trust network - the smaller per capita necessary for defence - trending towards 0
 
 A permissioning protocol for granting access to your data - with different levels and custom categories and tags
-
-How do we encode competence in culture?
 
 We can simply vote on what we think should happen - and given sufficient evidence and arguments it would be blatant corruption or incompetence to not follow up good judgement with enforcement - making the global brain upstream of legislature
 
@@ -1673,21 +1572,24 @@ Even never wearing torn-down clothes in public is a type of cultural norm that c
 
 
 
-why can't we have these charts updated in real time?
-https://en.wikipedia.org/wiki/List_of_exports_of_Brazil
-Participatory enculturation
+
 
 what if we made famous those that could reliably transmit signal that would better our lives? predictors in public? mapping reality as best as possible and transmitting that to us? wisdom subscription
 
-the biggest harms in the world come from opaqueness on the enterprise level
+
+
+
+
+
+
+
+why can't we have these charts updated in real time?
+https://en.wikipedia.org/wiki/List_of_exports_of_Brazil
+
 
 when you hear someone speak you cannot stop your brain from processing the language and understanding it (assuming that you know the language and the concepts being discussed) - what if we couldn't let information get to us without first filtering it or at least annotating it through a prism of trustworthiness?
 
 What if we could flag as evil anyone spreading denial and doubt around the health implications of tobacco - or the effects of fossil fuels on climate?
-
-Time preference & value expression
-
-Faq: isn’t this communism? No. And yes. And no. And yes. What kind of a question is that? It's also capitalistic and libertarian and so on. It’s time for you to upgrade your capacity for complex thinking and not just let others define the boxes you should put ideas in so easily. What's proposed here is at least an order of magnitude more complex than either communism or capitalism - something entirely new.
 
 What if we could signal & pledge to give away all presents we've not requested - shifting the culture away from consumption?
 
@@ -4584,8 +4486,6 @@ https://twitter.com/sreeramkannan/status/1573832256577224705
 
 https://sequencediagram.org/
 mermaidjs diagram?
-
-- NOT INVERTED pyramid - identifier, profile info & preferences, generated content/created
 
 - User funnel diagram with multiple possible ways to end up in the system
 - complete flow of an action from creation to displaying in apps

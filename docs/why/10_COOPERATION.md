@@ -64,6 +64,8 @@ https://prnt.sc/o5LZhIhNqIFX
 # SECTION: Constraints
 ██████████████████████████████████████████████████████████████████
 
+Constraints are freedom
+
 > "Freedom is obedience to self-formulated rules." - [Aristotle](https://www.goodreads.com/quotes/671308-freedom-is-obedience-to-self-formulated-rules)
 
 > "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
@@ -97,20 +99,6 @@ Most people have read at leats a couple of books in their life. What if we could
 > "Coherence is one of the most important concepts in the management of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Coherence%20is%20one%20of%20the%20most%20important%20concepts%20in%20the%20management%20of%20complexity.)
 
 > "Society cannot function without a regulatory structure adequate to its level of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Society%20cannot%20function%20without%20a%20regulatory%20structure%20adequate%20to%20its%20level%20of%20complexity.)
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Elinor Ostrom & commons
-██████████████████████████████████████████████████████████████████
-
-https://prnt.sc/kA6pSBBUfZqV
-
-https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22
-
-> "But until a theoretical explanation -based on human choice – for self-organized and self-governed enterprises is fully developed and accepted, major policy decisions will continue to be undertaken with a presumption that individuals cannot organize themselves and always need to be organized by external authorities." - [Elinor Ostrom](https://www.goodreads.com/quotes/3238607-but-until-a-theoretical-explanation--based-on-human-choice)
-
-> "Only when science and technology are used with human concern in a world in which all of the earth's resources are held as the common heritage of all of the earth's people can we truly say that there is intelligent life on Earth." - [Jacque Fresco](https://www.azquotes.com/quote/728558)
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Alignment
@@ -207,6 +195,9 @@ this is how we solve all types of alignment: AI alignment & human alignment
 > "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
 
 
+We can fail nature - we’ve surpassed it but have not fully learned from it
+We’ve not fully integrated everything nature has to tell us
+It is disrespectful to nature to not learn from it - nature is wisdom
 
 
 ██████████████████████████████████████████████████████████████████
@@ -214,12 +205,6 @@ this is how we solve all types of alignment: AI alignment & human alignment
 ██████████████████████████████████████████████████████████████████
 
 > "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=%E2%80%9CAs%20technology%20is%20empowering%20our%20choices%20and%20we%20are%20getting%20something%20like%20the%20power%20of%20gods%2C%20you%20have%20to%20have%20something%20like%20the%20love%20and%20the%20wisdom%20of%20gods%20to%20wield%20that%20or%20you%20self%2Ddestruct.%E2%80%9D)
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Cultural evolution
-██████████████████████████████████████████████████████████████████
-
-> "Like natural selection, our cultural learning abilities give rise to “dumb” processes that can, operating over generations, produce practices that are smarter than any individual or even group. Much of our seeming intelligence actually comes not from raw brainpower or a plethora of instincts, but rather from the accumulated repertoire of mental tools (e.g., integers), skills (differentiating right from left), concepts (fly wheels), and categories (basic color terms) that we inherit culturally from earlier generations." - [The secret of our success: How culture is driving human evolution, domesticating our species, and making us smarter](https://ebin.pub/the-secret-of-our-success-how-culture-is-driving-human-evolution-domesticating-our-species-and-making-us-smarter-978-0-691-16685-8.html#:~:text=Like%20natural%20selection,from%20earlier%20generations.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation, Altruism & Management Theory

@@ -211,6 +211,9 @@ connectedness
 
 We need a cure for apathy and disengagement
 
+List an incredible amount of things and accomplishments and needless deaths that would simply have not mattered if we fail in this transition - not trillions or quadrillions - an infinite number of causes and effects and events and signals and aspirations and gestures 
+The worst thing in the universe is irrelevance - inconsequentiality - pure meaninglessness
+
 > "Only a life lived for others is a life worthwhile." - [Albert Einstein](https://www.goodreads.com/quotes/16909-only-a-life-lived-for-others-is-a-life-worthwhile)
 
 > "When a person can't find a deep sense of meaning, they distract themselves with pleasure." - [Viktor E. Frankl](https://www.goodreads.com/quotes/5738688-when-a-person-can-t-find-a-deep-sense-of-meaning)
@@ -218,6 +221,8 @@ We need a cure for apathy and disengagement
 > "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
 
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
+
+Why do we have kids? To pass on a portion of our soul - of our existence. Contributing to the collective memetic heritage
 
 Your mind is your kid’s bootloader - your purpose in life is to pass on the cultural baton and forward the process by a bit - towards the omega point
 
@@ -302,6 +307,8 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 ██████████████████████████████████████████████████████████████████
 
 Sublimation of the individual self into a higher entity
+
+We are nothing without everyone else
 
 > "With all my heart I believe that the world’s present system of sovereign nations can only lead to barbarism, war and inhumanity, and that only world law can assure progress towards a civilized peaceful community." - [Albert Einstein](https://quotefancy.com/quote/764188/Albert-Einstein-With-all-my-heart-I-believe-that-the-world-s-present-system-of-sovereign)
 
@@ -404,6 +411,8 @@ we can - and should - manifest the first major intentional evolutionary step for
 > "Human beings are a species splendid in their array of moral equipment, tragic in their propensity to misuse it, and pathetic in their ignorance of the misuse." - [Robert Wright](https://www.goodreads.com/quotes/53242-human-beings-are-a-species-splendid-in-their-array-of)
 
 > "God knows greed won't vanish. Neither will hatred or chauvanism. Human nature is a stubborn thing. But it isn't beyond control. Even if our core impulses can't be banished, they can be tempered and redirected." - [Robert Wright](https://www.azquotes.com/quote/661020)
+
+Just like life, the internet also evolved blindly and unconsciously - gradient descent. But we are architects and can consciously choose our civilizational foundation
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
@@ -1331,4 +1340,9 @@ The biggest question for humanity and its current trajectory is: bend or break?
 The ultimate product is the ultimate system which is responsible for every other product
 The purest manifestation of “give people what they want”
 Naval quote go big because we all go home
+
+The Egyptians built pyramids out of stone that have lasted for (decades of) millennia but have perished as a civilization - we need to build an informational superstructure - a meritocratic pyramid - a nervous system for humanity that would guarantee the survival of our civilization
+
+This is a fight for conscious life itself
+The fight of our lives
 
