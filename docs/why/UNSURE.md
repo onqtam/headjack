@@ -221,5 +221,10 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "The popular phrase "What Would Jesus Do" (WWJD) serves as a moral compass for many Christians in the form of a reminder to consider what Jesus might do in a given situation when making moral decisions. The devout Christian who thinks "What Would Jesus Do?" before making a choice has constructed an internal model of Jesus and he has become an agent with causal power inside that person's cognitive system. This mental model is constructed from the information, stories, and teachings found in the Bible and are influenced by an individual's personal beliefs and interpretation of that text." - [Bobby Azarian](https://roadtoomega.substack.com/p/introducing-neuromancy-enhancing#:~:text=The%20popular%20phrase,of%20that%20text.)
 
+> "Doing nothing is better than being busy doing nothing." - [Lao Tzu](https://www.goodreads.com/quotes/351859-doing-nothing-is-better-than-being-busy-doing-nothing)
+
+> "Ultimately, happiness comes down to choosing between the discomfort of becoming aware of your mental afflictions and the discomfort of being ruled by them." - [Robert Wright](https://www.goodreads.com/quotes/8745652-ultimately-happiness-comes-down-to-choosing-between-the-discomfort-of)
+
+> "If you put these three principles of design together, you get a pretty plausible explanation of the human predicament as diagnosed by the Buddha. Yes, as he said, pleasure is fleeting, and, yes, this leaves us recurrently dissatisfied. And the reason is that pleasure is designed by natural selection to evaporate so that the ensuing dissatisfaction will get us to pursue more pleasure. Natural selection doesn’t “want” us to be happy, after all; it just “wants” us to be productive, in its narrow sense of productive. And the way to make us productive is to make the anticipation of pleasure very strong but the pleasure itself not very long-lasting." - [Robert Wright](https://www.goodreads.com/quotes/9075501-if-you-put-these-three-principles-of-design-together-you)
 
 

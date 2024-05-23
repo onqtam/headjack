@@ -57,6 +57,14 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cognitive_bias_codex_e
 
 https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_vignette
 
+> "One big lesson from Buddhism is to be suspicious of the intuition that your ordinary way of perceiving the world brings you the truth about it." - [Robert Wright](https://www.goodreads.com/quotes/9108416-in-fact-one-big-lesson-from-buddhism-is-to-be)
+
+> "As Kurzban has summarized this finding, “We think we’re better than average at not being biased in thinking that we’re better than average." - [Robert Wright](https://www.goodreads.com/quotes/8788682-as-kurzban-has-summarized-this-finding-we-think-we-re-better)
+
+> "We're all puppets, and our best hope for even partial liberation is to try to decipher the logic of the puppeteer. Just because natural selection created us doesn't mean we have to slavishly follow its peculiar agenda. (If anything, we might be tempted to spite it for all the ridiculous baggage it's saddled us with.)" - [Robert Wright](https://www.azquotes.com/quote/1414155)
+
+> "Who we are cannot be separated from where we're from." - [Malcolm Gladwell](https://www.goodreads.com/quotes/133262-who-we-are-cannot-be-separated-from-where-we-re-from)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Rationality
 ██████████████████████████████████████████████████████████████████
