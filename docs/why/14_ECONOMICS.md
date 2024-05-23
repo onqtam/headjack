@@ -92,6 +92,35 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 
 
+We need to crowdsource the quantification of how much anything costs
+
+Here’s what the operating system for humanity should enable: state a problem and incentivize someone to solve it. Recursively/iteratively and in parallel - pointing to problems, ranking them, and rewarding for them being solved
+
+We need to move from a money-on-money-return world to a transparency-on-transparency-return world
+
+Capitalism is suffering from opacity
+
+The metaverse is a parallel economy
+Parallel media, economy & governance
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Aligning & incentivizing companies
+██████████████████████████████████████████████████████████████████
+
+How do we incentivize companies like Google to spread their know-how about their cafeteria instead of keeping it to themselves?
+
+What if we can reward associating with the right forces so that employees pick their companies that way?
+
+what if not advertisers could buycott platforms, but users could collectively boycott advertisers? What if we reject crap products, ads & ideologies?
+
+Another collective action problem: the right to repair - should stigmatise companies for this
+
+Credentialed expression rights - we should demand that companies give us credentials for this new sensemaking & governance infrastructure
+The right to credentialed expression
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Sharing economy, having enough & not competing for status through possession
 ██████████████████████████████████████████████████████████████████
@@ -125,3 +154,5 @@ Not everything has to make a profit - we can and should think of what truly need
 property rights
 
 > "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
+
+

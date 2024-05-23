@@ -345,8 +345,9 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 > "We spend our lives desperately seeking status; we are addicted to social esteem in a fairly literal sense, dependent on the neurotransmitters we get upon impressing people. Many of us claim to be self-sufficient, to have a moral gyroscope, to hold fast to our values, come what may. But people truly oblivious to peer approval get labeled sociopaths. And the epithets reserved for people at the other end of the spectrum, people who seek esteem most ardently—“self-promoter,” “social climber”—are only signs of our constitutional blindness. We are all self-promoters and social climbers. The people known as such are either so effective as to arouse envy or so graceless as to make their effort obvious, or both." - [Robert Wright](https://www.goodreads.com/quotes/9799532-we-spend-our-lives-desperately-seeking-status-we-are-addicted)
 
 
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Reverse panopticon
+# SECTION: Reverse panopticon & Truth as a schelling point
 ██████████████████████████████████████████████████████████████████
 
 opt-in or inverted panopticon
@@ -355,6 +356,14 @@ https://en.wikipedia.org/wiki/Panopticon
 
 The Hawthorne effect is a type of human behavior reactivity in which individuals modify an aspect of their behavior in response to their awareness of being observed.
 https://en.wikipedia.org/wiki/Hawthorne_effect
+
+What's the loss function of the media landscape? What if we quantified it? How do we incentivise error correction?
+
+when someone does bad in terms of competence/accountability, in addition to a reputational penalty to them we could also penalize a bit those that gave their votes to that person - for empowering a rotten apple. We could also give rewards for delegating to the right person...?
+
+if you see something that you think obviously has an agenda by the media - have a way to express it. Let's see in aggregate who thinks something is politically motivated and who is supporting it. slander needs to be on the record too because if it turns out false - there should be consequences to whoever wrote it
+
+Pointing to the truth is a Schelling point - that's why sunlight is the best disinfectant - if we create the tools for people to elevate competency & sensemake - we win. That's the singularity - we are the most underutilized general intelligence
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Whistleblowing
