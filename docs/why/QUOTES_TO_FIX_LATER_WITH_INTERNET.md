@@ -1317,8 +1317,6 @@ Massachusetts Institute of Technology
 
 
 
-> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
-
 
 > "" - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
 

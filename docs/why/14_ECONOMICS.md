@@ -66,6 +66,32 @@ What if radical transparency and cooperation for companies gave them an effectiv
 What if we made advertising in its current form obsolete? What if false claims were not allowed? What if demand could not be manufactured? What if we had an immune system?
 
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Economics 2.0
+██████████████████████████████████████████████████████████████████
+
+
+> "As the complexity of socio-economic systems increases, networked decisionmaking and bottom-up self-regulation will be more and more important features. It will be explained why, besides the “homo economicus” with strictly self-regarding preferences, natural selection has also created a “homo socialis” with other-regarding preferences. While the “homo economicus” optimizes the own prospects in separation, the decisions of the “homo socialis” are self-determined, but interconnected, a fact that may be characterized by the term “networked minds”. Notably, the “homo socialis” manages to earn higher payoffs than the “homo economicus”.
+>
+> I show that the “homo economicus” and the “homo socialis” imply a different kind of dynamics and distinct aggregate outcomes. Therefore, next to the traditional economics for the “homo economicus” (“economics 1.0”), a complementary theory must be developed for the “homo socialis”. This economic theory might be called “economics 2.0” or “socionomics”. The names are justified, because the Web 2.0 is currently promoting a transition to a new market organization, which benefits from social media platforms and could be characterized as “participatory market society”.
+>
+> To thrive, the “homo socialis” requires suitable institutional settings such a particular kinds of reputation systems, which will be sketched in this paper. I also propose a new kind of money, so-called “qualified money”, which may overcome some of the problems of our current financial system." - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Sharing economy, having enough & not competing for status through possession
 ██████████████████████████████████████████████████████████████████
