@@ -116,7 +116,26 @@ the biggest harms in the world come from opaqueness on the enterprise level
 
 We have to incentivise contribution to the common good and we have to decouple that from resources - we need a new incentive
 
+The completely open global do-it-all company
 
+A publicly run parallel socioeconomic system embedded within the current one - parasitizing it from within
+
+We need to make a single coherent company for everyone for everything - we need to reduce the costs of cooperation and define the protocols for status and redistribution
+
+The most meta-economic thing to do is to incentivize the truth bubble up
+
+The most important thing to compute is the most optimal way to cooperate and coordinate.
+
+"The Coorperation"
+The coorperative
+BeWe or WeBe - from WeWork
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Doughnut_(economic_model)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Aligning & incentivizing companies

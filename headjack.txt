@@ -1591,10 +1591,6 @@ when you hear someone speak you cannot stop your brain from processing the langu
 
 What if we could flag as evil anyone spreading denial and doubt around the health implications of tobacco - or the effects of fossil fuels on climate?
 
-What if we could signal & pledge to give away all presents we've not requested - shifting the culture away from consumption?
-
-You don’t need to be religious to want to express that you’d prefer if sex was avoided in marketing
-
 What if we optimized algorithms to minimize perception gaps?
 
 It's in the interest of all of us to try to see the world as close as possible to reality
@@ -1606,8 +1602,6 @@ The tragedy is that the system produces a situation where we vote for the lesser
 To help our rationality we should calculate as many scores as possible so that the brain can work with numbers & be more explicit and formal when ranking and sorting beliefs/views
 
 Even if we can't compute something formally we could always crowdsource the recognition rewards as weights for the contributions of others
-
-How does a community signal in numbers what they’re doing differently culturally?
 
 Alignment can happen only through reputation & computed identity/history or through force & the threat of violence
 Alignment: fork in the road - choose one of these:
@@ -1657,12 +1651,10 @@ How do we produce humans that don’t need fixing - especially when it comes to 
 
 How do we signal that we dont drink alcohol and that we abstain from the internet & our phones for some period every day?
 
-Mention explicitly the youtube extensions
+Mention explicitly the youtube extensions that hide the addictive stuff
 
 we can come to an agreement on what should trigger guilt, what should be shameful, what is disgusting/taboo. Or maybe be careful with these things
 https://prnt.sc/gcqM59UTGOOF
-
-Conscious, participatory and meritocratic indoctrination
 
 How do we see what real proven intellectuals (not merely credentialed) actually think?
 
@@ -1729,22 +1721,10 @@ We need to crowdsource what is according to us the highest standard for which we
 
 We need to vote on what we want and then also vote for who we think is a fit for every one of the verticals
 
-The completely open global do-it-all company - the Amazon of everything
-
-A publicly run parallel socioeconomic system embedded within the current one - parasitizing it from within
-
-We need to make a single coherent company for everyone for everything - we need to reduce the costs of cooperation and define the protocols for status and redistribution
-
-The most meta-economic thing to do is to incentivize the truth bubble up
 
 
-The most important thing to compute is the most optimal way to cooperate and coordinate.
+What if YouTubers didn't have to optimize for length (10-15 min videos filled with fluff) but instead optimized for the signal/noise ratio and a bang for the buck in terms of attention?
 
-What if YouTubers didn't have to optimize for length (10-15 min videos filled with fluff) but instead optimized for the signal/noise ratio and a bang for the buck of attention?
-
-"The Coorperation"
-The coorperative
-BeWe or WeBe - from WeWork
 
 A new breed of cooperators
 
