@@ -797,6 +797,8 @@ something beyond our cells, the invidivual or the genome with all of its rivalro
 # SECTION: Evolution's Arrow
 ██████████████████████████████████████████████████████████████████
 
+<img src="/img/evarrow_gb_eye.jpg"/>
+
 > "The universe has a direction and we are meant to participate in it. Not because it’s the “right” thing to do from an abstract, moralistic perspective, but because it’s the “optimal” thing to do from an evolutionary and cognitive perspective." - [Brett Andersen](https://brettandersen.substack.com/p/human-beings-were-selected-for-non#:~:text=the%20universe%20has%20a%20direction%20and%20we%20are%20meant%20to%20participate%20in%20it.%20Not%20because%20it%E2%80%99s%20the%20%E2%80%9Cright%E2%80%9D%20thing%20to%20do%20from%20an%20abstract%2C%20moralistic%20perspective%2C%20but%20because%20it%E2%80%99s%20the%20%E2%80%9Coptimal%E2%80%9D%20thing%20to%20do%20from%20an%20evolutionary%20and%20cognitive%20perspective.)
 
 > "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [Harold J. Morowitz](https://emersongreenblog.wordpress.com/2019/10/23/thomas-nagels-natural-teleology/#:~:text=We%20start%20with%20observations%2C%20and%20if%20the%20evolving%20cosmos%20has%20an%20observed%20direction%2C%20rejecting%20that%20view%20is%20clearly%20nonempirical.%20There%20need%20not%20necessarily%20be%20a%20knowable%20end%20point%2C%20but%20there%20may%20be%20an%20arrow.)
