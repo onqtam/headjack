@@ -438,13 +438,17 @@ We can literally find ourselves in the situation of the movie dont look up
 
 > "As a society, we should stop being crippled by fear of what we can see, and start paying attention to the value of what we can’t. Progress takes failures. If we’re not OK with failures, we don’t make progress. We’ve moved into exploit mode without realizing it. It’s time to get back to balance explore and exploit modes. It’s time to take more risks." - [Standing on the Shoulders of Gnomes, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/standing-on-the-shoulders-of-gnomes#:~:text=As%20a%20society%2C%20we,to%20take%20more%20risks.)
 
+> "Such a brilliant play by the status quo to divert conversations about their extractions from fractional reserve banking, money in politics, and the revolving door between regulatory agencies and industry and redirect it to arguing over trans bathrooms in North Carolina. One of the great genius political moves." - [Jim Rutt](https://x.com/jim_rutt/status/1791515382232084643)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Money
 ██████████████████████████████████████████████████████████████████
 
 https://www.youtube.com/watch?v=jk_HWmmwiAs
 How Money & Banking Work (& why they're broken today), by Lyn Alden
-
+^^ while this video focuses too much on Bitcoin as the solution, we believe that open source money is the way forward - not necessarily Bitcoin.
 
 > "Let me end my talk by abusing slightly my status as an official representative of the Federal Reserve. I would like to say to Milton and Anna: Regarding the Great Depression, you're right. We did it. We're very sorry. But thanks to you, we won't do it again." - [Ben S. Bernanke](https://en.wikipedia.org/wiki/Great_Contraction#:~:text=Let%20me%20end%20my%20talk%20by%20abusing%20slightly%20my%20status%20as%20an%20official%20representative%20of%20the%20Federal%20Reserve.%20I%20would%20like%20to%20say%20to%20Milton%20and%20Anna%3A%20Regarding%20the%20Great%20Depression%2C%20you%27re%20right.%20We%20did%20it.%20We%27re%20very%20sorry.%20But%20thanks%20to%20you%2C%20we%20won%27t%20do%20it%20again.) #trustmebro
 
