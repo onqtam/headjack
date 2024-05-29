@@ -483,6 +483,10 @@ When these principles are applied, they ensure that whatever structures are deve
 >
 > In contrast to the governance process, which is collective and integrative, each member filling a role has a lot of autonomy and authority to make decisions on how to best achieve his or her goals. Some have described the authority paradigm in Holacracy as completely opposite to the one of the traditional management hierarchy; instead of needing permission to act or innovate, Holacracy gives blanket authority to take any action needed to perform the work of the roles, unless it is restricted via policies in governance or it involves spending some assets of the organization (money, intellectual property, etc.) Holacracy is highly biased toward action and innovation: it defaults to autonomy and freedom, then uses internal processes to limit that autonomy when its use in a specific way turns out to be detrimental." - [Holacracy, Wikipedia](https://en.wikipedia.org/wiki/Holacracy#:~:text=Roles%20instead%20of,to%20be%20detrimental.)
 
+on holons
+https://www.sloww.co/tenets-integral-theory/
+
+
 > "Management by results is the idea that decisions should be pushed down as much as possible in the hierarchy. One of the most famous examples of this is the system of OKRs.
 >
 > Created by Intel and popularized by Google, it stands for Objectives and Key Results. It’s a management system where the top leadership of a company decides what it wants to achieve, and split these goals across their team members. They, in turn, break down their goals into smaller goals, and distribute them across their own reports.
