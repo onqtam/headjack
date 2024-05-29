@@ -237,6 +237,8 @@ The argument that specialized message types are unnecessary because AI will even
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
 
+how many scientists support the mission of sci-hub.se but don't dare to speak out publically? we need anonymous polling
+
 > "As a societal institution, academia has failed to an almost comical degree: Nearly all the people inside it contribute nothing meaningful to our intellectual culture, while the people who do meaningfully contribute are nearly all outside it." - [Marko Jukic](https://x.com/mmjukic/status/1795506042727522787)
 
 > "With enough of us, around the world, we'll not just send a strong message opposing the privatization of knowledge - we'll make it a thing of the past. Will you join us?" - [Aaron Swartz](https://capitalaspower.com/2019/12/the-legacy-of-aaron-swartz-the-fight-for-open-access/#:~:text=With%20enough%20of%20us%2C%20around%20the%20world%2C%20we%E2%80%99ll%20not%20just%20send%20a%20strong%20message%20opposing%20the%20privatization%20of%20knowledge%20%E2%80%94%20we%E2%80%99ll%20make%20it%20a%20thing%20of%20the%20past.%20Will%20you%20join%20us%3F)
