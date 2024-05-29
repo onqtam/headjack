@@ -107,6 +107,8 @@ How many worthwhile quotes are left out because we can't properly sort contribut
 
 > "In quoting others, we cite ourselves." - [Julio Cortazar](https://www.goodreads.com/quotes/122290-in-quoting-others-we-cite-ourselves)
 
+- the point is not to become a great writer for future writing after this project (which requries a lot of practice) - the point is to convey the message that makes the most sense - using other people's words is just as good - if not even better - it's an entertaining shortcut and an accelerant for this project.
+
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 
 <!--
