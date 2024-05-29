@@ -121,7 +121,8 @@ https://twitter.com/moxie/status/1777732088449663327
     https://www.youtube.com/watch?v=DXv1boalsDI
     https://www.youtube.com/watch?v=L2kuipP3lxk
 
-
+what it means to be a “secure encrypted messaging app.”
+https://x.com/matthew_d_green/status/1795495269011988812
 
 - messaging protocol - XMTP & signal
 https://en.wikipedia.org/wiki/Forward_secrecy

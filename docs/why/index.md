@@ -105,6 +105,8 @@ In this chapter we discuss tens of problems - perhaps up to a hundred - all scat
 
 How many worthwhile quotes are left out because we can't properly sort contributions to the noosphere?
 
+> "In quoting others, we cite ourselves." - [Julio Cortazar](https://www.goodreads.com/quotes/122290-in-quoting-others-we-cite-ourselves)
+
 <!-- > "Ideology scales like software." - [@balajis](https://twitter.com/balajis/status/1604055568851038209) -->
 
 <!--

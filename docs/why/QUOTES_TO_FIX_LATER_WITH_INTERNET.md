@@ -1384,8 +1384,6 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - []()
 
-> "" - []()
-
 > "" - []() -->
 
 

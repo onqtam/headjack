@@ -255,6 +255,37 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "Not only does a Futarchy help us make better decisions, it helps us make quicker, more scalable solutions by automating the process & reducing overhead. Right now, our government is bloated and its main business model is entrenching itself. Perhaps a Futarchy could fix that." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Not%20only%20does%20a%20Futarchy%20help%20us%20make%20better%20decisions%2C%20it%20helps%20us%20make%20quicker%2C%20more%20scalable%20solutions%20by%20automating%20the%20process%20%26%20reducing%20overhead.%20Right%20now%2C%20our%20government%20is%20bloated%20and%20its%20main%20business%20model%20is%20entrenching%20itself.%20Perhaps%20a%20Futarchy%20could%20fix%20that.)
 
+<!-- QUOTES THAT SHOULD PROBABLY STAY HIDDEN:
+
+> "The brain is a multi-layer prediction machine. All neural processing consists of two streams: a bottom-up stream of sense data, and a top-down stream of predictions. These streams interface at each level of processing, comparing themselves to each other and adjusting themselves as necessary.
+>
+> The bottom-up stream starts out as all that incomprehensible light and darkness and noise that we need to process. It gradually moves up all the cognitive layers that we already knew existed – the edge-detectors that resolve it into edges, the object-detectors that shape the edges into solid objects, et cetera.
+>
+> The top-down stream starts with everything you know about the world, all your best heuristics, all your priors, everything that’s ever happened to you before – everything from “solid objects can’t pass through one another” to “e=mc^2” to “that guy in the blue uniform is probably a policeman”. It uses its knowledge of concepts to make predictions – not in the form of verbal statements, but in the form of expected sense data. It makes some guesses about what you’re going to see, hear, and feel next, and asks “Like this?” These predictions gradually move down all the cognitive layers to generate lower-level predictions. If that uniformed guy was a policeman, how would that affect the various objects in the scene? Given the answer to that question, how would it affect the distribution of edges in the scene? Given the answer to that question, how would it affect the raw-sense data received?
+>
+> Both streams are probabilistic in nature. The bottom-up sensory stream has to deal with fog, static, darkness, and neural noise; it knows that whatever forms it tries to extract from this signal might or might not be real. For its part, the top-down predictive stream knows that predicting the future is inherently difficult and its models are often flawed. So both streams contain not only data but estimates of the precision of that data. A bottom-up percept of an elephant right in front of you on a clear day might be labelled “very high precision”; one of a a vague form in a swirling mist far away might be labelled “very low precision”. A top-down prediction that water will be wet might be labelled “very high precision”; one that the stock market will go up might be labelled “very low precision”.
+>
+> As these two streams move through the brain side-by-side, they continually interface with each other. Each level receives the predictions from the level above it and the sense data from the level below it. Then each level uses Bayes’ Theorem to integrate these two sources of probabilistic evidence as best it can. This can end up a couple of different ways.
+>
+> First, the sense data and predictions may more-or-less match. In this case, the layer stays quiet, indicating “all is well”, and the higher layers never even hear about it. The higher levels just keep predicting whatever they were predicting before.
+>
+> Second, low-precision sense data might contradict high-precision predictions. The Bayesian math will conclude that the predictions are still probably right, but the sense data are wrong. The lower levels will “cook the books” – rewrite the sense data to make it look as predicted – and then continue to be quiet and signal that all is well. The higher levels continue to stick to their predictions.
+>
+> Third, there might be some unresolvable conflict between high-precision sense-data and predictions. The Bayesian math will indicate that the predictions are probably wrong. The neurons involved will fire, indicating “surprisal” – a gratuitiously-technical neuroscience term for surprise. The higher the degree of mismatch, and the higher the supposed precision of the data that led to the mismatch, the more surprisal – and the louder the alarm sent to the higher levels.
+>
+> When the higher levels receive the alarms from the lower levels, this is their equivalent of bottom-up sense-data. They ask themselves: “Did the even-higher-levels predict this would happen?” If so, they themselves stay quiet. If not, they might try to change their own models that map higher-level predictions to lower-level sense data. Or they might try to cook the books themselves to smooth over the discrepancy. If none of this works, they send alarms to the even-higher-levels.
+>
+> All the levels really hate hearing alarms. Their goal is to minimize surprisal – to become so good at predicting the world (conditional on the predictions sent by higher levels) that nothing ever surprises them. Surprise prompts a frenzy of activity adjusting the parameters of models – or deploying new models – until the surprise stops.
+>
+> All of this happens several times a second. The lower levels constantly shoot sense data at the upper levels, which constantly adjust their hypotheses and shoot them down at the lower levels. When surprise is registered, the relevant levels change their hypotheses or pass the buck upwards. After umpteen zillion cycles, everyone has the right hypotheses, nobody is surprised by anything, and the brain rests and moves on to the next task. As per the book:
+>
+> "To deal rapidly and fluently with an uncertain and noisy world, brains like ours have become masters of prediction – surfing the waves and noisy and ambiguous sensory stimulation by, in effect, trying to stay just ahead of them. A skilled surfer stays ‘in the pocket’: close to, yet just ahead of the place where the wave is breaking. This provides power and, when the wave breaks, it does not catch her. The brain’s task is not dissimilar. By constantly attempting to predict the incoming sensory signal we become able – in ways we shall soon explore in detail – to learn about the world around us and to engage that world in thought and action."
+>
+> The result is perception, which the PP theory describes as “controlled hallucination”. You’re not seeing the world as it is, exactly. You’re seeing your predictions about the world, cashed out as expected sensations, then shaped/constrained by the actual sense data." - [Book Review: Surfing Uncertainty, by Scott Alexander](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/#:~:text=the%20brain%20is,actual%20sense%20data.)
+
+-->
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Bayesian Inference
 ██████████████████████████████████████████████████████████████████
