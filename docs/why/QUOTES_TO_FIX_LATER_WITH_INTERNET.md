@@ -1380,11 +1380,21 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
 
+> "" - [Discriminatory punishment undermines the enforcement of group cooperation](https://www.nature.com/articles/s41598-023-33167-2)
+
+> "" - [Pride and shame: Key components of a culturally universal status management system](https://labs.la.utexas.edu/buss/files/2019/08/pride-and-shame-EHB-2019.pdf)
+
+> "" - [Shared intentionality, by Michael Tomasello and Malinda Carpenter](https://www.eva.mpg.de/documents/Wiley-Blackwell/Tomasello_Shared_DevScience_2007_1554748.pdf)
+
+> "" - [Origins of human communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - []()
+
 > "" - []()
 
 > "" - []()
 
-> "" - []() -->
+-->
 
 
 

@@ -708,6 +708,10 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 
 meme: Dad - what did you do - fucking legend - I helped revitalize civilization and make it multi-planetary
 
+In order to escape from the grip of an attractor we need to inject some chaos into the system
+Joker - an agent of chaos meme
+An open invitation for agents of chaos
+
 Any country could jump in first and reap the benefits - and the “jump” could be gradual
 
 > "In the great non-zero sum games of history, if you're part of the problem, then you'll likely be a victim of the solution." - [Robert Wright](https://www.azquotes.com/quote/1457465)
@@ -839,6 +843,12 @@ This as the section for matchmaking and with the leary quote
 
 Religions are literally false but metaphorically true - Brett Weinstein
 What if we could make a literally true one?
+
+What if we could harness the will to power in the attempt of becoming god by 
+"harnessing the will to power"
+The will to power should be harnessed and guided by us
+
+> "Even the body within which individuals treat each other as equals ... will have to be an incarnate will to power, it will strive to grow, spread, seize, become predominant – not from any morality or immorality but because it is living and because life simply is will to power." - [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Will_to_power#:~:text=Even%20the%20body%20within%20which%20individuals%20treat%20each%20other%20as%20equals%C2%A0...%20will%20have%20to%20be%20an%20incarnate%20will%20to%20power%2C%20it%20will%20strive%20to%20grow%2C%20spread%2C%20seize%2C%20become%20predominant%C2%A0%E2%80%93%20not%20from%20any%20morality%20or%20immorality%20but%20because%20it%20is%20living%20and%20because%20life%20simply%20is%20will%20to%20power.)
 
 God’s message to humanity:
 Show me what you’ve gooot - from rick & morty

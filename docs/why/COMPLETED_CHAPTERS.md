@@ -150,6 +150,10 @@ This book contains the full history and evolution of a stream of consciousness d
 
 > "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
 
+Humanity’s constitution of the 21st century is the global brain as a participatory social system - if the constitutionDAO raised 40 mil then this ought to deserve at least 10 mil even in the early stages
+And unlike the constitution there will only be one copy of this NFT - just one.
+The american constitution is in the process of crumbling under the weight of exponential complexity and entropy - what’s the price of a 0-to-1 upgrade of it that encompasses all of humanity and is unique?
+
 Hash the book and put it on the stone tablet - then hash the photo and put its hash on. The blockchain
 
 ██████ The 10 themes of the Global Brain:
