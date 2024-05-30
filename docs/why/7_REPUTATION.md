@@ -185,6 +185,7 @@ When tracking portfolio success - ppl will initially define the parameters & ris
 
 greenwashing
 
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Status over truth
 ██████████████████████████████████████████████████████████████████
@@ -300,7 +301,7 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 
 > "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=You%20can%20take%20the%20monkey%20out%20of%20the%20status%2Dseeking%20game%2C%20but%20you%20can%27t%20take%20the%20status%2Dseeking%20out%20of%20the%20monkey.)
 
-> "As people start following more and more accounts on a social network, they reach a point where the number of candidate stories exceeds their capacity to see them all. Even before that point, the sheer signal-to-noise ratio may decline to the point that it affects engagement. Almost any network that hits this inflection point turns to the same solution: an algorithmic feed. Remember, status derives value from some  type of scarcity. What is the one fundamental scarcity in the age of abundance? User attention. The launch of an algorithmic feed raises the stakes of the social media game. Even if someone follows you, they might no longer see every one of your posts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20people%20start,of%20your%20posts.)
+> "As people start following more and more accounts on a social network, they reach a point where the number of candidate stories exceeds their capacity to see them all. Even before that point, the sheer signal-to-noise ratio may decline to the point that it affects engagement. Almost any network that hits this inflection point turns to the same solution: an algorithmic feed. Remember, status derives value from some type of scarcity. What is the one fundamental scarcity in the age of abundance? User attention. The launch of an algorithmic feed raises the stakes of the social media game. Even if someone follows you, they might no longer see every one of your posts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20people%20start,of%20your%20posts.)
 
 > "Could social networks have chosen to keep likes and other such metrics about posts private, visible only to the recipient? Could we have kept this social capital arms race from escalating? Some tech CEO's now look back and, like Alan Greenspan, bemoan the irrational exuberance that led us to where we are now, but let's be honest, the incentives to lower interest rates on social capital in all these networks, given their goals and those of their investors, were just too great. If one company hadn’t flooded the market with status, others would have filled the void many times over." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Could%20social%20networks,many%20times%20over.)
 
@@ -348,6 +349,65 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 
 > "We spend our lives desperately seeking status; we are addicted to social esteem in a fairly literal sense, dependent on the neurotransmitters we get upon impressing people. Many of us claim to be self-sufficient, to have a moral gyroscope, to hold fast to our values, come what may. But people truly oblivious to peer approval get labeled sociopaths. And the epithets reserved for people at the other end of the spectrum, people who seek esteem most ardently—“self-promoter,” “social climber”—are only signs of our constitutional blindness. We are all self-promoters and social climbers. The people known as such are either so effective as to arouse envy or so graceless as to make their effort obvious, or both." - [Robert Wright](https://www.goodreads.com/quotes/9799532-we-spend-our-lives-desperately-seeking-status-we-are-addicted)
 
+
+
+> "We all want status, but we can’t admit it. Why? Because it’s uncool. Wanting status makes us look selfish, insecure, and low-status. Ew. We’re not supposed to care about petty things like money or fame; we’re supposed to care about noble things like integrity or authenticity or something. Admitting we’re desperate for status is like admitting we’re horny for a co-worker or jealous of a friend’s success: it’s not a good look. So we pretend we don’t care about status, as a way of gaining status. It’s kind of confusing.
+>
+> That means status games—i.e., the mutually-agreed-upon rules for winning and losing status—are fragile. We can only play a status game if we lack awareness that it’s status game. As soon as we become aware of the game we’re playing, we stop getting status for playing it. In fact, we lose status: we look selfish, insecure, and low-status. Ew. So virtue signalers cannot know they’re virtue signaling, and neither can the people who award them virtue. “Brave” truth-tellers cannot know they’re seeking praise from their political tribe, and neither can the tribe who praises them. “Rebellious” nonconformists cannot know they’re conforming to the norms of their subculture, and neither can their subculture. Status games must never be emblazoned with a neon sign that says “STATUS GAME”, or else they’ll disintegrate in the light like vampires. We have to play our status games in the dark.
+>
+> So what happens when the lights come on? The game collapses. People stop playing, for fear of looking uncool. Instead, they start playing an anti-status game to show how cool and not-interested-in-status they are. The point of an anti-status game is to show that you care about more important things than status, like integrity or authenticity or something. Anti-status games emerge in opposition to a collapsing status game, and they often take the opposite form. If people are showing off their immaculately coifed hair, for example, anti-status-seekers might wear their hair artfully tussled.
+>
+> In other words, anti-status games are just another kind of status game. We could remove the “anti” if we wanted to, but it’s useful to keep it there to get a handle on what’s going on, so we can see why these games are so weird. Status games are constantly collapsing and re-emerging in antithetical forms. They give rise to anti-status games, then anti-anti-status games, and so on. Different cultures split off as status symbols twirl in fractal, quasi-cyclical patterns." - [Status Is Weird, by David Pinsof](https://www.everythingisbullshit.blog/p/status-is-weird#:~:text=We%20all%20want,quasi%2Dcyclical%20patterns.)
+
+> "But is it possible to evaluate our status games from a more rational, dispassionate perspective? Can we somehow learn to defend the status games that actually make the world better and attack the ones that actually make the world worse? Is our sorry species even remotely capable of such a project?
+>
+> Maybe? Possibly? If there’s any way to pull it off, it’s by appealing to young people, or people having a midlife crisis, or people who haven’t yet won too many status points in any particular game, or who don’t yet know which game they’re most likely to win. Maybe if we urge these on-the-fence people to think a little harder about which status game to play, we can gradually, as a species, move toward status games that make us all better off.
+>
+> And maybe that project—the quest to improve the world through thinking hard and seeing through bullshit—is a sacred value too, a covert status game that you and I are playing, and convincing other people to play, because we think we stand a good chance of winning it...
+>
+> So if you still haven’t found the right status game to play, please: choose wisely... The fate of humanity depends on it." - [Status Is Weird, by David Pinsof](https://www.everythingisbullshit.blog/p/status-is-weird#:~:text=But%20is%20it,depends%20on%20it.)
+
+> "There's plenty of anecdotal evidence in the form of us not liking showoffs, braggarts, snobs, narcissists, ass-kissers, bigshots, bullies, social climbers, virtue signalers, thirst trappers, power trippers, etc. The fact that we have so many words for this is good linguistic evidence that status-seekers are judged negatively. There's also ethnographic evidence that bragging and bigshot behavior is severely punished in hunter gatherer societies (see Christopher Boehm's Hierarchy in the Forest and Moral Origins)." - [Status Is Weird, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/status-is-weird?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=39015446)
+
+> "I'm not saying that status is bad, or that wanting status is bad. I actually think wanting status is morally neutral and pragmatically good. I'm just saying that people *think* wanting status is bad. So if you're trying to get it, you should be careful not to make it look like you were trying to get it." - [Status Is Weird, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/status-is-weird?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=38969526)
+
+
+
+
+> "Here’s a list of things we want and don’t want. See if you can spot the pattern:
+>
+> 1. We don’t just want to make money; we want to make more money than our neighbors.
+>
+> 2. We don’t just want a job; want to have a more prestigious job than our peers.
+>
+> 3. We don’t just want people to like us; we want people to like us more than they like other people.
+>
+> 4. We don’t just want to be educated; we want to have better educational credentials than our competitors on the job market.
+>
+> 5. We don’t just want to belong to a group; we want our group to be better than other groups.
+>
+> 6. We don’t just want to have opinions; we want to have more interesting opinions than other people.
+>
+> 7. We don’t just want to be attractive; we want to be more attractive than our rivals. 
+>
+> 8. We don’t just want to be a good person; we want to be holier than thou.
+>
+> 9. We don’t just want to help the environment; we want to be greener than thou.
+>
+> 10. We don’t just want a house; we want to a prettier house, with a nicer view, in a better school district, than other people have.
+>
+> Did you spot the pattern? Of course you did. It’s the unflattering way our desires work. We’re constantly comparing ourselves to the people around us, and we’re never quite satisfied until we’re just a little bit better than, or better off than, they are. This isn’t true of all our desires (sometimes, we’re just thirsty and want a glass of water), but it’s true of a large percentage of them—dare I say most of them. The majority of our time and energy is consumed by small-minded social competition, and we really hate to admit this. Our need to cover it up is, perhaps, the greatest source of human bullshit.
+>
+> Why are our desires secretly like this? Because natural selection, the thing that made our desires, is an icky, competitive process. Animals compete with members of their species for genetic representation in future generations. They do this by competing for physical stuff (like food and territory), social stuff (like friends and mates), and the capacity to get social and physical stuff (like status and power). The competition rages over thousands of generations, and the winners leave more descendants than the losers. We are descendants of the winners, and we have inherited their winning characteristics, including their desire to win—and to conceal that desire from themselves and others (in order to win)." - [There's a Problem with Our Desires, by David Pinsof](https://www.everythingisbullshit.blog/p/theres-a-problem-with-our-desires?utm_source=profile&utm_medium=reader2#:~:text=Here%E2%80%99s%20a%20list,to%20win).)
+
+> "The reason our desires exist is because our ancestors, who had them, reliably got more stuff than their rivals, who didn’t have them. That means our desires must have somehow caused our ancestors to get more stuff than their rivals. How did our desires cause our ancestors to get more stuff than their rivals? In all likelihood, by motivating them to do that.
+>
+> Here's the problem. It never ends. Our secretly icky desires cannot all be fulfilled. We cannot give everyone what they want if what they want is to be better than, or better off than, other people. Our desires simply don’t fit together. We will never all get along." - [There's a Problem with Our Desires, by David Pinsof](https://www.everythingisbullshit.blog/p/theres-a-problem-with-our-desires?utm_source=profile&utm_medium=reader2#:~:text=The%20reason%20our,all%20get%20along.)
+
+
+> "We are too naïve about signaling games. We think we can escape them. We think there is an “opt out” button we can press at any time. But that button does not exist. We have no choice but to signal. In a judgy species like ours, every little thing we do gets noticed, including the things we don’t do—or the things we say we don’t do while we do them.
+>
+> Besides, even if we can manage to avoid sending a signal, we still haven’t escaped. The absence of information is still information. Not having an opinion is like having the wrong opinion. Not taking a side is like betraying both sides." - [I Don't Care If You Read This, David Pinsof](https://www.everythingisbullshit.blog/p/i-dont-care-if-you-read-this#:~:text=We%20are%20too,both%20sides.)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -439,7 +499,7 @@ Also we can separate decision making from values & overall direction & goals so 
 
 > "What is a Meritocracy? The holding of power by people selected on the basis of their ability." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=What%20is%20a,of%20their%20ability.)
 
-> "A meritocracy (in theory) is where we judge people on the basis of their individual abilities rather than their position in the social hierarchy or their family connections. For most of human history, we have not lived in anything resembling a meritocracy. Until recently, the most important institution in society was the family. You inherited your position and defined your identity as a member of a family. As a result, society was much more static than it is now. Social mobility was low, and all that mattered was who you knew. You didn’t get jobs on merit –  they were regarded as things that people owned and could pass down to their children. What meritocracy did was create a new kind of aristocracy. The only alternative to the aristocracy of land and inheritance was to replace it with an aristocracy of virtue and talent." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=A%20meritocracy%20(in,virtue%20and%20talent.)
+> "A meritocracy (in theory) is where we judge people on the basis of their individual abilities rather than their position in the social hierarchy or their family connections. For most of human history, we have not lived in anything resembling a meritocracy. Until recently, the most important institution in society was the family. You inherited your position and defined your identity as a member of a family. As a result, society was much more static than it is now. Social mobility was low, and all that mattered was who you knew. You didn’t get jobs on merit – they were regarded as things that people owned and could pass down to their children. What meritocracy did was create a new kind of aristocracy. The only alternative to the aristocracy of land and inheritance was to replace it with an aristocracy of virtue and talent." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=A%20meritocracy%20(in,virtue%20and%20talent.)
 
 > "The strongest criticism of meritocracy is not that there's something bad about the idea of putting the best people in charge. The critique is that the best people are not in charge... The ruling elite aren’t actually the best, they just got lucky or won thanks to kleptocracy." - [On Meritocracy, by Erik Torenberg](https://eriktorenberg.substack.com/p/on-meritocracy#:~:text=The%20strongest%20criticism,thanks%20to%20kleptocracy.)
 
@@ -572,7 +632,7 @@ We need to be able to bet on anything (DO WE?)
 >
 > Nietzsche named this envy “[Ressentiment](https://en.wikipedia.org/wiki/Ressentiment)”. Ayn Rand called it “Hatred of the good for being the good.” In a world where we believe that we can be anything, if we don’t end up the next Elon Musk or Michelle Obama or Kim Kardashian or whoever celebrity we admire, we seek someone to blame. We could blame ourselves, but that would be depressing. It’s easier to blame other people or larger societal injustices. Ressentiment is “a reassignment of the pain of feeling one's own inferiority onto an external scapegoat. The ego creates the illusion of an enemy — a cause that can be "blamed" for one's own failure. Thus, one can consider themself thwarted not by a personal failure, but rather by an external "evil.""
 >
-> Ressentiment explains why the endless Twitter debates about [whether hard work matters](https://eriktorenberg.substack.com/p/on-hustle-culture) are so contentious. This is also why the idea of [meritocracy](https://eriktorenberg.substack.com/p/on-meritocracy) is so controversial. Anything that implies that people *earned* their success implies that other people didn’t. That’s a  hard pill to swallow for many. It’s the endless battle between Nietszsche’s idea of “Priest Morality,” or valoration of the victim against the oppressor, vs “Warrior Morality,” or valoration of the strong against the weak." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=Remember%2C%20our%20150,against%20the%20weak.)
+> Ressentiment explains why the endless Twitter debates about [whether hard work matters](https://eriktorenberg.substack.com/p/on-hustle-culture) are so contentious. This is also why the idea of [meritocracy](https://eriktorenberg.substack.com/p/on-meritocracy) is so controversial. Anything that implies that people *earned* their success implies that other people didn’t. That’s a hard pill to swallow for many. It’s the endless battle between Nietszsche’s idea of “Priest Morality,” or valoration of the victim against the oppressor, vs “Warrior Morality,” or valoration of the strong against the weak." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=Remember%2C%20our%20150,against%20the%20weak.)
 
 > "True pros play both games simultaneously. “Complaining about how busy one is hits a sweet spot of oppression — I cannot manage my life! — and importance — because I am so in demand!” 
 >
@@ -595,3 +655,4 @@ We need to be able to bet on anything (DO WE?)
 > Will Storr, in his book “[The Status Game](https://www.amazon.com/Status-Game-Position-Governs-Everything-ebook/dp/B08H7Y414K)”, recommends pursuing warmth, sincerity, and competence. When you're warm, you’re basically saying “I’m not going to play a dominance game with you and you're not going to receive any threats from me — you're in a safe place.” Similarly when you're sincere, you're saying “I'm going to be virtuous and not going to bullshit you. When things are going badly, I'm going to tell you. And lastly when you’re competent, you’re saying “I'm going to be useful. I've got a skill that’s useful to our game, and I can help you benefit from it and maybe even learn how to do it too.” One can analyze status dynamics in a million ways, but in some ways maybe it’s as simple as being warm, sincere, competent—and loyal." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=it%E2%80%99s%20very%20difficult,competent%E2%80%94and%20loyal.)
 
 > "We want people to think we’re virtuous—that’s a big incentive for us. But there’s a convoluted structure surrounding this incentive. We can only look virtuous by making it look like we weren’t trying to look virtuous. Which means that, to win the virtue game, we have to do all sorts of social maneuvering: we have to send “buried signals” of anonymous or inconspicuous altruism (to get credit for not caring about getting credit), show “modesty” or “humility” (to look morally superior to non-humble people), “bravely” defy social norms (to win the approval of our peers), and display our adherence to ethical principles independent of our self-interest (which is, ultimately, in our self-interest). It’s all very confusing." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=We%20want%20people,all%20very%20confusing.)
+

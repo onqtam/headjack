@@ -16,6 +16,42 @@
 ^^ but altruism & group selection are not stable - we need consequence capture & managers
 cooperation does not evolve easily
 
+
+> "It’s bullshit. Indiscriminate altruism, untainted by vanity, reciprocity, or partiality, cannot evolve. It just can’t. I’m sorry. Any altruism that wasn't laser-focused toward our families or our allies, or that wasn’t otherwise shrewdly calculated to increase our status, would be mercilessly selected against by evolution. Darwinian accounting is scrupulous: debts must be repaid, costs must be cut, investments must be recouped." - [Darwin the Cynic, by David Pinsof](https://www.everythingisbullshit.blog/p/darwin-the-cynic#:~:text=it%E2%80%99s%20bullshit.%20Indiscriminate,must%20be%20recouped.)
+
+> "The impartial, unreciprocated, non-status-boosting sacrifice for the greater good—cannot evolve. People really do not like this. They try to wriggle out of it in all sorts of frantic ways." - [Darwin the Cynic, by David Pinsof](https://www.everythingisbullshit.blog/p/darwin-the-cynic#:~:text=the%20impartial%2C%20unreciprocated,of%20frantic%20ways.)
+
+> "You don’t need a desire for moral progress to get moral progress, any more than you need a desire for traffic to get traffic. Here are some of the best, cynically Darwinian explanations I’ve seen for moral progress:
+>
+> 1. It’s a side-effect of capitalism.
+>
+> a) If you only sell stuff to members of your tribe, you’re not going to make as much money as someone who sells stuff to everyone. The same thing goes for consumers. If you only buy from your tribe, you’re going to get crappier stuff. Ditto for workers. If you only work for your tribe, you’ll get fewer job offers. And if you reward workers based on tribal loyalty, instead of productivity, you’ll get lower productivity, and less profit. That’s how all these WEIRD ideas about “meritocracy” and “treating people equally” emerged. They were self-interested strategies for buyers, sellers, workers, and employers. But once the capitalist pro-tip of “treating people equally” spread (and got written into the constitution), people started to look like hypocrites for not, you know, treating people equally. Low-status groups used the hypocrisy to rally people to their side in political conflicts.
+>
+> b) In a market economy, status accrues to those who are most successful in providing desirable goods and services at affordable prices. So when low-status groups enter the labor market in greater numbers, they rise in status. For example, at the turn of the 20th century, women entered the labor market in greater numbers. Why? Because with the rise of automation, there was a decline in manual labor that advantaged humans with greater upper body strength and no uteruses (i.e., men), and a rise in other kinds of service-based labor that women were good at. Women’s status, accordingly, rose. They began to leverage their rising status to advance their self-interest, as humans are wont to do. No, they weren’t seeking moral progress for everyone: the suffragists excluded African Americans from protests and didn’t like the idea of black men voting.
+>
+> 2. It’s a side-effect of communication technologies (itself a side-effect of capitalism):
+>
+> a) We didn’t evolve to estimate a group’s formidability based on census statistics; we evolved to estimate it based on how big and well-coordinated they look. To our stone-age brains, a marching minority looks bigger and stronger than it really is, as a percentage of the population. Transportation moves far-flung minorities into the same space to flex their muscles, and television transmits the image to everyone in the nation. When marginalized groups create the illusion of collective formidability, we no longer want to mess with them.
+>
+> b) When tribes start to become equally powerful, or start to appear equally powerful due to mass media, it creates an intergroup stalemate, a kind of mutually assured destruction. Hot wars turn into cold wars. Cold wars turn into culture wars.
+>
+> 3. It’s a side-effect of democracy (itself a side-effect of capitalism)
+>
+> a) When marginalized groups flex their muscles and win the right to vote, savvy politicians compete to attract their votes, and the coalition that recruits them gains political power. The partisans who find themselves in a political coalition with the marginalized groups start to look upon them with fondness. We like our allies—they’re on our team. So you get performative allyship and a decline of overt racism among whichever political coalition joins up with ethnic minorities. If that happens among cultural elites, who shape social norms, then you might get some new social norms about “political correctness” or “wokeness” or whatever you want to call it. And you might get a backlash to these norms among the elites’ political rivals (i.e., the working class “populists”).
+>
+> This is all very interesting, but don’t miss the point: moral progress was an accident. In fact, it must have been it accident, because our motives were designed by natural selection, and a motive for “moral progress” makes no evolutionary sense. Which means we shouldn’t feel too proud of ourselves. We’re the same old primates we always were—selfish, nepotistic, and groupish. We have the same capacity for evil, and the same capacity to rationalize it, as our forebears." - [Darwin the Cynic, by David Pinsof](https://www.everythingisbullshit.blog/p/darwin-the-cynic#:~:text=You%20don%E2%80%99t%20need,as%20our%20forebears.)
+
+> "I'm saying it's more insightful, useful, and predictively powerful to focus on the deeper goal, because that is the lever we must pull if we want to shape the behavior, and that is the key to understanding and predicting when and where the behavior will be performed. We must choose insight over idealism." - [Darwin the Cynic, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/darwin-the-cynic?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=42426004)
+
+> "I don’t think it really matters whether the motive is conscious or not. Worldviews help us predict and explain people’s behavior. That’s their job. If I’m trying to predict and explain behavior, cynicism is going to help me do that, regardless of whether the cynical motives are conscious or not. It doesn’t matter why people *think* they’re donating to charity. What matters is why they are *actually* donating to charity—the specific causal factors that are influencing their decision. Those factors are inevitably going to be reputational, status-driven, nepotistic, reciprocal, and/ or groupish in nature. If I’m trying to design institutions with incentives that promote charitable giving, I need to look at people’s *actual* motives, not the motives they say they have... Motives are the things that causally influence and explain our behavior across a range of situations, regardless of whether we’re aware of them or not. Motives (and psychological systems) are the things that natural selection selects—not behaviors. When you understand the process that created our motives, there is simply no other option than to say those motives are selfish, nepotistic, or groupish. If you can think of another way for a motive to evolve that doesn’t involve replicating the genes that built it, I’d love to hear it. But until then, I’m going with Darwinian cynicism as the best way to explain and predict people’s behavior." - [Darwin the Cynic, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/darwin-the-cynic?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=45901765)
+
+> "" - [Darwin the Cynic, by David Pinsof]()
+
+> "" - [Darwin the Cynic, by David Pinsof]()
+
+> "" - [Darwin the Cynic, by David Pinsof]()
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
@@ -205,6 +241,35 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 ██████████████████████████████████████████████████████████████████
 
 > "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=%E2%80%9CAs%20technology%20is%20empowering%20our%20choices%20and%20we%20are%20getting%20something%20like%20the%20power%20of%20gods%2C%20you%20have%20to%20have%20something%20like%20the%20love%20and%20the%20wisdom%20of%20gods%20to%20wield%20that%20or%20you%20self%2Ddestruct.%E2%80%9D)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Incentive design
+██████████████████████████████████████████████████████████████████
+
+> "How does society work? Five words or less: Behavior is determined by incentives." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=%E2%80%9CHow%20does%20society,determined%20by%20incentives.%E2%80%9D)
+
+> "The particular arrangement of incentives across time, space, and causality is called an incentive structure." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=The%20particular%20arrangement%20of%20incentives%20across%20time%2C%20space%2C%20and%20causality%20is%20called%20an%20incentive%20structure.)
+
+> "What about free will? It’s the ability to respond to our incentives. Being a good person? It’s having an incentive to behave in ways we call “good”—that is, wanting to win the virtue game... Let’s give this worldview a name. Let’s call it incentive determinism.
+>
+> Incentive determinism is obvious. It’s just a bunch of tautologies: we are who we are, we want what we want, and we do what we’re caused to do. And yet, barely anybody thinks this way. It’s a cold, alien way of thinking." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=What%20about%20free,way%20of%20thinking.)
+
+> "We spend very little time discussing which incentive structures are the best, and tons of time talking about which sets of words are the right words and which sets of people are the right people. It’s why we write words at all: we think we’re the right people with the right words, and if we just say those words loudly enough, we’ll improve the world." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=We%20spend%20very,improve%20the%20world.)
+
+> "People don’t like incentive determinism because it’s disorienting. It tells us that our single greatest obsession, likability, is a distraction. It’s bullshit—a destroyer of insight, an enemy of understanding. It plays no special role in explaining how the world works. All it does is give us the illusion of understanding—the feeling of superiority to our apparently unlikable rivals (another big incentive for us)—while leaving us in ignorance of the causal structure of the world.
+>
+> And that causal structure is everything. If there are powerful incentives to help others, then even “evil” people will help others. If there are powerful incentives to hurt others, then even “good” people will hurt others. In fact, if being a “good” person just means being strongly incentivized by others’ moral approval (i.e., really wanting to win the virtue game), then good people are more likely to hurt people when it wins them moral approval. The “good” members of ISIS are the ones who bravely volunteer to commit suicide bombings, and the “bad” members of ISIS are the ones who cravenly fail to make the ultimate sacrifice. People are only as good as their incentives.
+>
+> But maybe there’s a way out. Maybe figuring out how this all works—understanding the machinery of society—can, itself, change our incentive structures. Insight is a thing in the world that human primates evolved to want, at least sometimes.
+>
+> If there’s any hope to be found in this cold, alien view of the world, it’s this: the more we all become aware of our incentive structures, the more incentivized we will be to choose them wisely." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=People%20don%E2%80%99t%20like,choose%20them%20wisely.)
+
+> "If we're collectively aware of our incentive structures, and aware that others know that we're aware, then we have an incentive to pick one that makes everyone better off, so that people won't judge as selfish. So the key is achieving widespread awareness, or common knowledge, of our incentive structures." - [Incentives Are Everything, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/incentives-are-everything?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=47963804)
+
+> "Randomness is hugely important, but we're trying to explain the part of reality that is not random. That is all we can do. And when we look at that part, incentives are everything." - [Incentives Are Everything, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/incentives-are-everything?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=51093816)
+
+> "I don't see incentive determinism as a "theory" so much as a different way of thinking, or a useful conceptual framework. It's honestly just a way of activating a different part of the brain--the tool-use part--to understand society as a machine of moving parts. It's more of a metatheory, really, or a useful way of coming up with other theories. It can give rise to more specific theories about the incentive structures we face, and how they work, which can then be tested. Insofar as the theories it gives rise to are always false, then, sure, it's false. But given that incentive-based thinking lies at the heart of economics and much of social science (not to mention evolutionary biology), it seems like a pretty damn good metatheory and I don't know of a better one. I cannot even conceive a better one, to be honest." - [Incentives Are Everything, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/incentives-are-everything?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=51257762)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation, Altruism & Management Theory

@@ -101,6 +101,10 @@ In this chapter we discuss tens of problems - perhaps up to a hundred - all scat
 - credibility
 - ideas have sex as Matt Ridley put it: https://www.youtube.com/watch?v=OLHh9E5ilZ4
 
+Quotes break the monotony
+
+in a proper memetic supply chain every single source of this synthesis would be credited appropriately
+
 "I shall never be ashamed to go to a bad author for a good quotation." — Seneca
 
 How many worthwhile quotes are left out because we can't properly sort contributions to the noosphere?
