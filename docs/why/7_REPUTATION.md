@@ -405,6 +405,10 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 > Here's the problem. It never ends. Our secretly icky desires cannot all be fulfilled. We cannot give everyone what they want if what they want is to be better than, or better off than, other people. Our desires simply don’t fit together. We will never all get along." - [There's a Problem with Our Desires, by David Pinsof](https://www.everythingisbullshit.blog/p/theres-a-problem-with-our-desires?utm_source=profile&utm_medium=reader2#:~:text=The%20reason%20our,all%20get%20along.)
 
 
+
+> "The people we’re trying to manipulate and persuade—they’re out there in the world, and their judgments matter for our fitness. Their judgments might even be the single greatest thing that matters for our fitness. If you want to understand the nature of our hyper-social species, you cannot take your eye off the ball of reputation and status." - [The Truth About Self-Deception, by David Pinsof](https://www.optimallyirrational.com/p/the-truth-about-self-deception#:~:text=The%20people%20we%E2%80%99re,reputation%20and%20status.)
+
+
 > "We are too naïve about signaling games. We think we can escape them. We think there is an “opt out” button we can press at any time. But that button does not exist. We have no choice but to signal. In a judgy species like ours, every little thing we do gets noticed, including the things we don’t do—or the things we say we don’t do while we do them.
 >
 > Besides, even if we can manage to avoid sending a signal, we still haven’t escaped. The absence of information is still information. Not having an opinion is like having the wrong opinion. Not taking a side is like betraying both sides." - [I Don't Care If You Read This, David Pinsof](https://www.everythingisbullshit.blog/p/i-dont-care-if-you-read-this#:~:text=We%20are%20too,both%20sides.)
