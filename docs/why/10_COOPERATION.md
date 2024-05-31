@@ -124,6 +124,8 @@ Constraints are freedom
 
 > "Common knowledge depends not only on me knowing that you receive a message but also on the existence of a shared symbolic system which allows me to know how you understand it." - [Rational Ritual: Culture, Coordination, and Common Knowledge](https://www.goodreads.com/work/quotes/1103225-rational-ritual-culture-coordination-and-common-knowledge)
 
+> "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Coherence
 ██████████████████████████████████████████████████████████████████

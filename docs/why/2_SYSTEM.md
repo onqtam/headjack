@@ -641,6 +641,12 @@ Private jets are immoral (unless you can actually show the R/R - perhaps its ok 
 
 > "Our ability to give ourselves what we want has far outstripped our ability to sense what we need." - [Constructing a New Narrative, by Jordan Hall](https://medium.com/emergent-culture/constructing-a-new-narrative-6b717b566fc4#:~:text=our%20ability%20to%20give%20ourselves%20what%20we%20want%20has%20far%20outstripped%20our%20ability%20to%20sense%20what%20we%20need.)
 
+
+
+> "Bullshit is a product. It can be better or worse. It can be more or less effective. Companies compete to offer us that product, just as companies compete to offer us the best hamburgers and toothpaste. Newspapers, magazines, blogs, podcasts, movies, TV shows, books—all these offer us a cornucopia of different kinds of bullshit to choose from. Bullshit that speaks to us. Bullshit that reflects who we are. Like our junk food and our pornography, our bullshit is a [superstimulus](https://en.wikipedia.org/wiki/Supernormal_stimulus). It’s survived endless cycles of market competition, and it’s the sweetest smelling bullshit in the world...
+>
+> I’ve already argued that [no one wants to be happy](https://www.everythingisbullshit.blog/p/happiness-is-bullshit), and that when we say we want to be happy, we’re bullshitting. But what I didn’t realize was that the “pursuit of happiness” meme is a commodity. It’s a product of market competition. It’s exquisitely crafted, focus-group-tested bullshit designed to mask our [unflattering motives](https://www.everythingisbullshit.blog/p/theres-a-problem-with-our-desires) and justify crass consumerism." - [The WEIRDest Bullshit in the World, by David Pinsof](https://www.everythingisbullshit.blog/p/the-weirdest-bullshit-in-the-world#:~:text=Bullshit%20is%20a,justify%20crass%20consumerism.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Accountability & Opaqueness
 ██████████████████████████████████████████████████████████████████
