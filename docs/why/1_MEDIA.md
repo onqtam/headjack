@@ -1,6 +1,10 @@
 
 <img src="/img/meme_controlled_by_media.jpg"/>
 
+https://www.conspicuouscognition.com/p/the-media-very-rarely-makes-things
+
+https://www.conspicuouscognition.com/p/how-dangerous-is-misinformation
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Media
 “If it bleeds - it leads” - as a chapter name about media
