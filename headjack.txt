@@ -7,6 +7,14 @@ Michael Sauder, Freda Lynn, and Joel Podolny, “Status: Insights from Organizat
 
 
 
+
+
+
+
+
+
+
+
 > "When we talk about “social technology”... We mean something analogous to the idea of social engineering, a concept that came about at the end of the 19th century that refers to the intentional design of specific social arrangements and ways of operating. The Reddit platform itself is not social technology, but its use of moderators is...
 >
 > It’s important to note that all except the simplest social technologies are designed. Though many of our crucial social technologies seem like natural parts of reality today, this was not always so. At some point they required intentional construction and adoption. Many social technologies we take for granted, including the very idea of having such critical systems as currency, law, and government, were born from concerted human agency. It is for this reason that we call it social technology, rather than social “norms”, or take a broader anthropological or philosophical approach. Much like material technology, social technology is designed, adopted, and scaled. It is proceduralized and documentable.
@@ -55,7 +63,7 @@ Michael Sauder, Freda Lynn, and Joel Podolny, “Status: Insights from Organizat
 >
 > We should temper our enthusiasm for intense political and economic competition and instead develop a greater appreciation for the importance of successful succession. This change would go far in remedying contemporary institutional sclerosis and stagnation." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
-> "" - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+> "As argued by Gregory Clark in his book The Son Also Rises, social mobility is about the same in all societies, and is much lower than we usually propose. Regardless of how meritocratic a system claims to be, power tends to remain in the same families." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
 > "" - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
