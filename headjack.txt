@@ -2,6 +2,11 @@
 
 
 
+
+Michael Sauder, Freda Lynn, and Joel Podolny, “Status: Insights from Organizational Sociology,” Annual Review of Sociology 38, no. 267–283 (April 25, 2012), https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-071811-145503.
+
+
+
 > "When we talk about “social technology”... We mean something analogous to the idea of social engineering, a concept that came about at the end of the 19th century that refers to the intentional design of specific social arrangements and ways of operating. The Reddit platform itself is not social technology, but its use of moderators is...
 >
 > It’s important to note that all except the simplest social technologies are designed. Though many of our crucial social technologies seem like natural parts of reality today, this was not always so. At some point they required intentional construction and adoption. Many social technologies we take for granted, including the very idea of having such critical systems as currency, law, and government, were born from concerted human agency. It is for this reason that we call it social technology, rather than social “norms”, or take a broader anthropological or philosophical approach. Much like material technology, social technology is designed, adopted, and scaled. It is proceduralized and documentable.
@@ -37,7 +42,10 @@
 
 > "The more closely social status corresponds to activity that’s ultimately beneficial for society, the more such activity is incentivized, much more strongly than by even a large financial reward. Wisely distributing status makes the difference between a world where most kids dream of becoming YouTubers and one where they dream of taking us to space." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
-> "" - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+> "Status is one of the irreplaceable currencies whose necessary transfer is often denounced in this way. Michael Sauder et al. define status as the relative respect and patterns of deference accorded to people, groups and organizations by wider society... People cannot engage in any common projects without some commonly agreed-upon deference to people, groups or organizations, nor can they engage in common projects without someone or something holding, and yes, spending status. Status is a coordination mechanism, and this makes it valuable.
+>
+> If we come together to do great things, much status is required, whether vested in an institution or an individual. That someone will be holding status in this sense, personally or as a representative of an organization, then, is an unavoidable consequence of people coming together to do things. Perhaps one can argue for a dispersed distribution of status as the best way for us to organize such efforts, but the fact is that deference by some towards others on technical and resource distribution questions is still the central guiding factor." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+^^ maybe remove the second part
 
 > "" - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
