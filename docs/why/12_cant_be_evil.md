@@ -151,7 +151,7 @@ Ephemeral experiences such as search suggestions & results leave no trace and it
 
 > "But we believe the issue of advertising causes enough mixed incentives that it is crucial to have a competitive search engine that is transparent and in the academic realm." - [the original Google search engine whitepaper](https://perma.cc/8GDJ-K6AX)
 
-> "Google gets much of its revenue from connecting user inputs to ads, and the product is squeezing the content. Google has not only lost its direction, it has forgotten its purpose" - [Joscha Bach](https://twitter.com/Plinz/status/1724714156019110397)
+> "Google gets much of its revenue from connecting user inputs to ads, and the product is squeezing the content. Google has not only lost its direction, it has forgotten its purpose." - [Joscha Bach](https://twitter.com/Plinz/status/1724714156019110397)
 
 Does such a search engine exist today? Competition & a lower barrier to entry are direly needed.
 
