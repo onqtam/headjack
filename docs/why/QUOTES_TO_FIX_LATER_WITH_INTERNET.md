@@ -1382,8 +1382,6 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Discriminatory punishment undermines the enforcement of group cooperation](https://www.nature.com/articles/s41598-023-33167-2)
 
-> "" - [Shared intentionality, by Michael Tomasello and Malinda Carpenter](https://www.eva.mpg.de/documents/Wiley-Blackwell/Tomasello_Shared_DevScience_2007_1554748.pdf)
-
 > "" - [Origins of human communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
 
 > "" - []()

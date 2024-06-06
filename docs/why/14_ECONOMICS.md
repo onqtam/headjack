@@ -225,6 +225,28 @@ property rights
 # SECTION: Kudonomics & the intangible hand
 ██████████████████████████████████████████████████████████████████
 
+TODO: quotes
+
+Aquinas (mid-thirteenth century): Honour is the greatest good among external goods.
+(Aquinas 1958: Index 156)
+
+Thomas Hobbes (1642): Few except those who love praise do anything to deserve it.
+(Hobbes 1998: 23)
+
+John Locke (1678) The principal spring from which the actions of men take their rise, the
+rule they conduct them by, and the end to which they direct them, seems to be credit
+and reputation, and that which at any rate they avoid, is in the greatest part shame and
+disgrace. (Locke 1993: 236)
+
+Kant (1786): A craving to inspire in others esteem for ourselves, through good behaviour
+(repression of that which could arouse in them a poor opinion of us) is the real
+basis of all true sociality. (Lovejoy 1961: 193)
+
+John Adams (1790): no appetite in human nature is more universal than that for honor.
+(Adams 1973: 51)
+
+
+
 TODO: fix internet URL
 
 > "The three ruling passions in human life are often said to be the desire for property, the desire for power, and the desire for prestige or status or esteem. The eVects of the Wrst desire are charted in standard economics, the eVects of the second in political science—and of course in the annals of history. But the eVects of the desire for esteem have escaped the sustained attention of social scientists. It is almost as if there were a conspiracy not to register or document the fact that we are, and always have been, an honour-hungry species." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit]()
@@ -265,7 +287,7 @@ TODO: fix internet URL
 
 > "Among the things that may be expected to move people most reliably and forcibly is the desire to be thought well of by their fellows and the aversion to being regarded badly. People, so it was generally held, live under the regime or law of opinion and that regime moulds all that they are and do. It provides a gravitational field that silently shapes their dispositions and their doings, exerting a long, insistent influence that can only be resisted at the cost of considerable effort and self-sacrifice." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit]()
 
-> "" - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit]()
+> "In many cases... we will prefer someone to behave more virtuously, if with a greater desire for esteem, than to have them behave less virtuously but with a lesser concern to be admired." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit]()
 
 > "" - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit]()
 
