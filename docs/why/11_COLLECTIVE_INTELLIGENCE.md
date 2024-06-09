@@ -382,6 +382,15 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "The best way to solve any problem is to remove its cause." - [Martin Luther King Jr.](https://www.azquotes.com/quote/536745)
 
+
+
+
+> "And, worse yet, we have the cows now in Kansas on these CAFOs, concentrated animal feeding operations where all the cattle are basically in pens and can't move. And so, they're all lying in their own excrement and they're eating corn, which is not high in legumes, is not high in some of the compounds that are needed for immunologic competency. So, these cows get sick very easily. And so what happens? The cattlemen have to give the cows shots of antibiotics. So, virtually all of the CAFO-treated meat that we consume in this country is all antibiotic laden. So, what are those antibiotics doing? Does that carry over into our gut microbiome and disrupt it? Absolutely. And it disrupts the cow's microbiome. So, it kills off the good beneficial bacteria in the cow's microbiome and allows the methanogens, the methane-producing bacteria to basically take over. So, each cow today is making six times the methane than they did in 1968." - [Robert Lustig](https://youtu.be/onVqjZOYlQs?t=3599)
+
+^^ Causality & indirect effects: cows => improper food => sickness => antibiotics => messed up microbiome => 6x more methane compared to cows from a few decades ago
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Neuron
 ██████████████████████████████████████████████████████████████████
