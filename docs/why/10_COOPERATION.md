@@ -45,12 +45,6 @@ cooperation does not evolve easily
 
 > "I don’t think it really matters whether the motive is conscious or not. Worldviews help us predict and explain people’s behavior. That’s their job. If I’m trying to predict and explain behavior, cynicism is going to help me do that, regardless of whether the cynical motives are conscious or not. It doesn’t matter why people *think* they’re donating to charity. What matters is why they are *actually* donating to charity—the specific causal factors that are influencing their decision. Those factors are inevitably going to be reputational, status-driven, nepotistic, reciprocal, and/ or groupish in nature. If I’m trying to design institutions with incentives that promote charitable giving, I need to look at people’s *actual* motives, not the motives they say they have... Motives are the things that causally influence and explain our behavior across a range of situations, regardless of whether we’re aware of them or not. Motives (and psychological systems) are the things that natural selection selects—not behaviors. When you understand the process that created our motives, there is simply no other option than to say those motives are selfish, nepotistic, or groupish. If you can think of another way for a motive to evolve that doesn’t involve replicating the genes that built it, I’d love to hear it. But until then, I’m going with Darwinian cynicism as the best way to explain and predict people’s behavior." - [Darwin the Cynic, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/darwin-the-cynic?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=45901765)
 
-> "" - [Darwin the Cynic, by David Pinsof]()
-
-> "" - [Darwin the Cynic, by David Pinsof]()
-
-> "" - [Darwin the Cynic, by David Pinsof]()
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation
