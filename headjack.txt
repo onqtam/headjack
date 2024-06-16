@@ -159,9 +159,11 @@ INDEX 257
 
 
 
+> "The real acceleration will not begin until someone makes a factorio/civ/starcraft style game that is an interface for the real world." - [@bayeslord](https://x.com/bayeslord/status/1801794146039902580)
 
 
 
+> "The very word "secrecy" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it." - [John F. Kennedy](https://paulgraham.com/quo.html#:~:text=%22The%20very%20word,John%20F.%20Kennedy)
 
 
 
@@ -1306,9 +1308,6 @@ We don’t have just shared intentionality - we also have a shared fate.
 Consciousness is a gift. How do we make a system where we could expand it?
 
 We need to crowdsource censorship by leveraging collective intelligence and a truth market
-
-
-The older the problem - the older the solution. This is profound
 
 It's all about sexual selection? Always has been
 Money is about sexual selection - we need to make an alternative competitive field that's unconvertible to claims over resources

@@ -1384,6 +1384,14 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Origins of human communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
 
+> "" - [Towards a global participatory platform: democratising open data, complexity science and collective intelligence](https://link.springer.com/content/pdf/10.1140/epjst/e2012-01690-3.pdf)
+
+> "" - [Optimal incentives for collective intelligence](https://www.pnas.org/doi/abs/10.1073/pnas.1618722114)
+
+> "" - []()
+
+> "" - []()
+
 > "" - []()
 
 > "" - []()

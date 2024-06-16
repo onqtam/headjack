@@ -166,6 +166,8 @@ this is how we solve all types of alignment: AI alignment & human alignment
 
 > "The older the problem, the older the solution." - [Naval Ravikant](https://twitter.com/naval/status/1001905796479778816)
 
+> "The imagination of nature is far, far greater than the imagination of man." - [Richard Feynman](https://www.goodreads.com/quotes/3237775-the-imagination-of-nature-is-far-far-greater-than-the)
+
 > "Nature does nothing uselessly." - [Aristotle](https://www.goodreads.com/quotes/32921-nature-does-nothing-uselessly)
 
 > "There is more wisdom in your body than in your deepest philosophy." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/68916-there-is-more-wisdom-in-your-body-than-in-your)

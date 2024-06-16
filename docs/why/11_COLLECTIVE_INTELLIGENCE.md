@@ -165,6 +165,8 @@ https://www.lesswrong.com/posts/a4jRN9nbD79PAhWTB/prediction-markets-when-do-the
 
 https://mason.gmu.edu/~rhanson/futarchy.html
 
+https://www.overcomingbias.com/p/merkles-futarchyhtml
+
 https://www.wired.com/1995/09/hanson-if/
 
 https://www.metaculus.com/help/faq/#metaculus-prediction
