@@ -296,6 +296,8 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 # SECTION: Time preference expansion
 ██████████████████████████████████████████████████████████████████
 
+Bryan Johnson’s dont die initiative could play a big role in extending our time horizons
+
 > "With the invention of the clock, Eternity ceased to serve as the measure and focus of human events." - [Neil Postman](https://www.goodreads.com/quotes/594270-with-the-invention-of-the-clock-eternity-ceased-to-serve)
 
 > "Society grows great when old men plant trees whose shade they know they shall never sit in." - [Greek Proverb](https://www.goodreads.com/quotes/666987-society-grows-great-when-old-men-plant-trees-whose-shade)

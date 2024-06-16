@@ -75,6 +75,11 @@ market emerge around FIDs (@farcaster_xyz IDs) on farquest
 https://twitter.com/winnielaux_/status/1754334062037074039
 
 
+after the right abstractions are picked, new use cases will be rapidly tested by different ways to compose the building blocks
+
+> "My number one predictor of whether or not a company will find product-market fit: High shipping cadence." - [Naval Ravikant](https://x.com/naval/status/1128346098362281984)
+
+
 Oauth as a partner
 
 plan how to enable current websites to gradually migrate to this shared identity layer and data exportability & interoperability
