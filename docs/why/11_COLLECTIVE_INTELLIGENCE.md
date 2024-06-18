@@ -1110,6 +1110,8 @@ LLMs can help craft a propositional claim with structured data
 ^^ THIS HAS BEEN A MAJOR HURDLE FOR THE ADOPTION OF A SEMANTIC WEB - THE INACCESIBILITY for normal people to express themselves in such a way and to consume such data. LLMs fix this.
 
 We can have approved LLMs for tagging data and use zk-ml to prove that the specific model was used
+ZK-ML alternatives: optimistic fraud proofs & cryptoeconomics
+https://medium.com/dragonfly-research/dont-trust-verify-an-overview-of-decentralized-inference-c471a9f7a586
 
 how do we express "I don't want fast food in my neightbourhood"?
 What if you could ask an LLM "what does my neightbourhood want to change?"

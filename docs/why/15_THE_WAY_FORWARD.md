@@ -655,7 +655,7 @@ https://www.google.com/search?q=this+is+healthy
 
 > "Ultimately, health care fails the most basic test. It's not organized around the needs of the patient." - [Michael Porter](https://www.azquotes.com/quote/1225877)
 
-> "The body tells the brain how to feel" - [Robert Sapolsky](https://old.reddit.com/r/DrJohnVervaeke/comments/zurer7/maybe_you_wont_solve_the_global_meaning_crisis_or/#:~:text=%22The%20body%20tells%20the%20brain%20how%20to%20feel%22%20%2D%20Robert%20Sapolsky)
+> "The body tells the brain how to feel." - [Robert Sapolsky](https://old.reddit.com/r/DrJohnVervaeke/comments/zurer7/maybe_you_wont_solve_the_global_meaning_crisis_or/#:~:text=%22The%20body%20tells%20the%20brain%20how%20to%20feel%22%20%2D%20Robert%20Sapolsky)
 
 > "Be the designer of your world and not merely the consumer of it." - [James Clear](https://www.goodreads.com/quotes/9634706-be-the-designer-of-your-world-and-not-merely-the)
 
