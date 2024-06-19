@@ -1088,7 +1088,7 @@ Creating god would ensure we hatch from Earth as an egg and secure the existence
 
 What if God is not the creator but something we create and merge with? We should put God in the future - we should create him.
 
-https://en.wikipedia.org/wiki/Syntheism
+
 
 
 > "The first gulp from the cup of knowledge is separating us from God, but on the bottom of the cup God is waiting for those who search for him." - [Carl Friedrich von Weizsäcker](https://evolutionnews.org/2022/04/at-the-bottom-of-the-glass-god-is-waiting/#:~:text=the%20first%20gulp%20from%20the%20cup%20of%20knowledge%20is%20separating%20us%20from%20God%2C%20but%20on%20the%20bottom%20of%20the%20cup%20God%20is%20waiting%20for%20those%20who%20search%20for%20him.)
