@@ -88,21 +88,6 @@ Michael Sauder, Freda Lynn, and Joel Podolny, “Status: Insights from Organizat
 
 > "Why can’t I simply write code that interfaces with Facebook on my behalf? After all, Facebook’s app itself uses an API to talk to the Facebook servers. But in order to do that I would have to hack the Facebook app to figure out what the API calls are, and how to authenticate myself to them. Unfortunately, in the US there are three separate laws that make those steps illegal. The first is the anti-circumvention provision of the Digital Millennium Copyright Act (DMCA). The second is the Computer Fraud and Abuse Act (CFAA). And the third is the legal construction that by clicking ‘I accept’ on an End User License Agreement (EULA) or a set of Terms of Service (TOS), I am legally bound to respect whatever restrictions Facebook decides to impose. The last of these three is a civil matter, but criminal convictions under the first two laws carry mandatory prison sentences." - [The World After Capital, by Albert Wenger](https://worldaftercapital.gitbook.io/worldaftercapital/part-four/informational#:~:text=Why%20can%E2%80%99t%20I,mandatory%20prison%20sentences.)
 
-> "" - [The World After Capital, by Albert Wenger]()
-
-> "" - [The World After Capital, by Albert Wenger]()
-
-> "" - [The World After Capital, by Albert Wenger]()
-
-> "" - [The World After Capital, by Albert Wenger]()
-
-> "" - [The World After Capital, by Albert Wenger]()
-
-> "" - [The World After Capital, by Albert Wenger]()
-
-> "" - [The World After Capital, by Albert Wenger]()
-
-
 
 
 
