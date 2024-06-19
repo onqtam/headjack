@@ -586,6 +586,9 @@ the century of the self
 
 Minimalism
 
+hedonic treadmill
+https://en.wikipedia.org/wiki/Hedonic_treadmill
+
 We are locked into an individualistic multi-polar trap of conspicuous consumption
 
 > "We are living in an unsustainable state of cultural tension. Stress and depression are becoming more common, we are destroying our environment and while the rich become richer, inequality has spread both domestically and globally. The world's entire democratic system is strained and the only 'meaningful' story left is our role as consumers. We flee to and are trapped by the gilded illusion of happiness that is dictated to us by consumerism." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create#:~:text=We%20are%20living,us%20by%20consumerism.)
@@ -927,4 +930,10 @@ We haven’t metabolized the bomb - we’ve merely put it out of our minds
 > "We’re tribal, factional, nepotistic, [moralistic](https://www.everythingisbullshit.blog/p/morality-is-not-nice), short-sighted, close-minded, superstitious, self-deluded, and surreptitiously selfish. We aren’t [naturally motivated](https://www.everythingisbullshit.blog/p/darwin-the-cynic) to make the world a better place, nor are we naturally motivated to see ourselves as mediocre humans, [saddled with the same flaws as every other human](https://www.everythingisbullshit.blog/p/i-am-not-human). We consume [“interesting” information—not useful or true information](https://www.everythingisbullshit.blog/p/you-will-find-this-interesting) — which prevents us from understanding our predicament. We defend the [status games we’re winning](https://www.everythingisbullshit.blog/p/status-is-weird) — not the ones that improve the world—which worsens the world. We’re in thrall to [bullshit political beliefs](https://www.everythingisbullshit.blog/p/what-are-ideologies-all-about), including the belief that we’re morally and intellectually superior to our outgroup, which is exactly what our outgroup thinks of us, and what every ingroup has wrongly believed about their outgroup since the dawn of humanity. [We should be troubled about this](https://www.everythingisbullshit.blog/p/you-should-be-troubled), but we’re not. We’d rather point the finger at the baddies, and cast ourselves as the heroes, than [fix our broken incentives](https://www.everythingisbullshit.blog/p/incentives-are-everything). You might have expected psychologists to help us out here, but they’re too busy [doing the same bullshit](https://www.everythingisbullshit.blog/p/psychologizing-psychologists)." - [Mediocrity as an Existential Risk, by David Pinsof](https://www.everythingisbullshit.blog/p/mediocrity-as-an-existential-risk?utm_source=profile&utm_medium=reader2#:~:text=We%E2%80%99re%20tribal%2C%20factional,same%20bullshit.)
 
 News Coverage of Coal’s Link to Global Warming, in 1912
+
 https://archive.nytimes.com/dotearth.blogs.nytimes.com/2016/10/21/coals-link-to-global-warming-explained-in-1912/
+
+https://static01.nyt.com/images/2016/10/21/blogs/dotclimate1912/dotclimate1912-blog480-v2.jpg
+
+https://paperspast.natlib.govt.nz/newspapers/ROTWKG19120814.2.56.5
+
