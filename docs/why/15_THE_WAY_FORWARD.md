@@ -213,6 +213,9 @@ connectedness
 
 We need a cure for apathy and disengagement
 
+https://www.reddit.com/r/quotes/comments/2ydw36/at_the_end_of_the_game_the_king_and_the_pawn_go/
+"At the end of the game, the king and the pawn go back in the same box." -Italian Proverb
+
 List an incredible amount of things and accomplishments and needless deaths that would simply have not mattered if we fail in this transition - not trillions or quadrillions - an infinite number of causes and effects and events and signals and aspirations and gestures 
 The worst thing in the universe is irrelevance - inconsequentiality - pure meaninglessness
 
