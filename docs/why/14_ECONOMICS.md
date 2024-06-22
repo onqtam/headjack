@@ -325,3 +325,11 @@ Publicity and Accepted Standards
 > "" - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 
 > "" - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: other
+██████████████████████████████████████████████████████████████████
+
+
+> "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
