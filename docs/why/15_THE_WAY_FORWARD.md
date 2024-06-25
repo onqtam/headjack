@@ -839,6 +839,8 @@ TODO: fix the exact time for the above link
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
+we are all religious - as a section name
+
 “Find the others” as a Service
 FaaS
 FtoaaS
