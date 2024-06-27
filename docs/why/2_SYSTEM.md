@@ -196,8 +196,6 @@ Unbreaking America: Solving the Corruption Crisis
 
 
 
-> "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
-
 
 
 
@@ -377,6 +375,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 ██████████████████████████████████████████████████████████████████
 # SECTION: Lack of accountability
 ██████████████████████████████████████████████████████████████████
+
+> "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
 
 > "I always tried to be correct, not politically correct." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11421404-i-always-tried-to-be-correct-not-politically-correct)
 
