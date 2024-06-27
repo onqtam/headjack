@@ -195,6 +195,12 @@ Unbreaking America: Solving the Corruption Crisis
 > "That's why they call it the American Dream, because you have to be asleep to believe it." - [George Carlin](https://www.goodreads.com/quotes/17908-that-s-why-they-call-it-the-american-dream-because-you)
 
 
+
+> "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
+
+
+
+
 > "What is history but the story of how politicians have squandered the blood and treasure of the human race?" - [Thomas Sowell](https://www.goodreads.com/quotes/233336-what-is-history-but-the-story-of-how-politicians-have)
 
 > "The most basic question is not what is best, but who shall decide what is best." - [Thomas Sowell](https://www.goodreads.com/quotes/322271-the-most-basic-question-is-not-what-is-best-but)
