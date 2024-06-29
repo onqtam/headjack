@@ -26,3 +26,9 @@ Communism ignored human nature - this embraces it. This is infinitely more sophi
 
 
 
+
+## Will this work?
+
+No clue. But what we can say with 100% confidence that we must try to create a better system than the current one.
+
+

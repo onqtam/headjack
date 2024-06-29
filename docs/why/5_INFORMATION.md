@@ -15,6 +15,8 @@
 # SECTION: provenance, deduplication & authenticity
 ██████████████████████████████████████████████████████████████████
 
+LAW OF DEDUPLICATION: THERE SHALL ONLY BE ONE ENTRY/ID FOR ANY ENTITY/CONCEPT/EVENT
+
 > "In a world of infinite "content", only provenance will count" - [@punk6529](https://twitter.com/punk6529/status/1636275893545967616)
 
 https://en.wikipedia.org/wiki/Data_lineage
