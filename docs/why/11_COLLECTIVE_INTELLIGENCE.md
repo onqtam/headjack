@@ -175,6 +175,8 @@ https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-acti
 
 https://en.wikipedia.org/wiki/Prediction_market
 
+https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e
+
 > "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
 
 > "A clever person solves a problem. A wise person avoids it." - [Albert Einstein](https://www.goodreads.com/quotes/8241-a-clever-person-solves-a-problem-a-wise-person-avoids)

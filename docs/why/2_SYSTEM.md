@@ -262,6 +262,14 @@ Rational ignorance is refraining from acquiring knowledge when the supposed cost
 https://en.wikipedia.org/wiki/Rational_ignorance
 
 
+
+
+> "At the federal level, no one voted for the Fed or the regulatory state. And with career tenure, many bureaucrats can't be voted out either. Hence, not a democracy.
+>
+> At the international level, France with 67M people has a UN security council seat while India with 1.38B people does not. Hence, not democratic either.
+>
+> So: defending the current system isn't "defending" democracy. It's attacking it." - [Balaji Srinivasan](https://x.com/balajis/status/1805922957224792176)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Voting
 ██████████████████████████████████████████████████████████████████
@@ -924,6 +932,7 @@ quote goes here: power of gods but not the wisdom
 
 We haven’t metabolized the bomb - we’ve merely put it out of our minds
 
+> "Civilizations die from suicide, not by murder." - [Arnold J. Toynbee](https://www.goodreads.com/quotes/25960-civilizations-die-from-suicide-not-by-murder)
 
 > "Consider the challenge of continued progress. Scientific advancement is slowing. Low-hanging fruit are being plucked, as new ideas—and disruptive ideas—are getting harder to find. Economic growth is slowing. Innovative patents are declining. Birth rates are falling. Populations are aging. Debt is rising. Culture is drifting. Political progress—i.e. toward liberal democracy—is reversing. The climate is changing. The international order is breaking. Space colonies may be harder than we thought, and less politically appealing than we thought. New technologies may be less revolutionary and more overregulated than we thought (especially if we ban or “pause” AI, as many EAs want to do). Our ability to outcompete our elders—possibly the main thing holding our society together—is slipping away.
 >
