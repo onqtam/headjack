@@ -313,6 +313,10 @@ Bryan Johnson’s dont die initiative could play a big role in extending our tim
 # SECTION: Enlarging the self
 ██████████████████████████████████████████████████████████████████
 
+> "The mark of a civilized man is the capacity to read a column of numbers and weep." - [Bertrand Russell](https://www.goodreads.com/quotes/10819849-the-mark-of-a-civilized-man-is-the-capacity-to)
+
+> "For the psychologist Paul Bloom, this is a huge downside. Empathy, he argues, focuses our attention on single individuals, leading us to become both parochial and insensitive to scale. As Bertrand Russell is often reported to have said, “The mark of a civilized man is the capacity to read a column of numbers and weep,” but few of us are capable of truly feeling statistics in this way. If only we could be moved more by our heads than our hearts, we could do a lot more good. And yet the incentives to show empathy and spontaneous compassion are overwhelming. Think about it: Which kind of people are likely to make better friends, coworkers, and spouses—“calculators” who manage their generosity with a spreadsheet, or “emoters” who simply can’t help being moved to help people right in front of them? Sensing that emoters, rather than calculators, are generally preferred as allies, our brains are keen to advertise that we are emoters. Spontaneous generosity may not be the most effective way to improve human welfare on a global scale, but it’s effective where our ancestors needed it to be: at finding mates and building a strong network of allies." - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.goodreads.com/quotes/9035068-for-the-psychologist-paul-bloom-this-is-a-huge-downside)
+
 Sublimation of the individual self into a higher entity
 
 We are nothing without everyone else
@@ -773,8 +777,6 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 > "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)
 
 > "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
-
-> "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
 
 > "I love this metaphor because it shows us why, first of all, we who want to change the world are co-existing with the old system for a while and why there's no point in attacking the old system because you know the caterpillar is unsustainable so it's going to die. What we have to focus on is “can we build a viable butterfly?” A butterfly that really can fly because that's not guaranteed." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=I%20love%20this,that%27s%20not%20guaranteed.)
 

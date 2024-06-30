@@ -1,6 +1,6 @@
 # FAQ
 
-
+> "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
 
 ## Is this a revolution?
 
