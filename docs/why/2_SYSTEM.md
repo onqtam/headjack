@@ -604,6 +604,7 @@ hedonic treadmill
 https://en.wikipedia.org/wiki/Hedonic_treadmill
 
 We are locked into an individualistic multi-polar trap of conspicuous consumption
+https://en.wikipedia.org/wiki/Conspicuous_consumption
 
 > "We are living in an unsustainable state of cultural tension. Stress and depression are becoming more common, we are destroying our environment and while the rich become richer, inequality has spread both domestically and globally. The world's entire democratic system is strained and the only 'meaningful' story left is our role as consumers. We flee to and are trapped by the gilded illusion of happiness that is dictated to us by consumerism." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create#:~:text=We%20are%20living,us%20by%20consumerism.)
 
