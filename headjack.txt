@@ -352,6 +352,81 @@ What if we collectively tracked our sins & good deeds in culture & the economy a
 
 
 
+> "Consistently pressing ecological limits is risky to the point of being suicidal. Unfortunately, civilization does just that: as a system, its basic mode is overshoot and collapse. That is, it tends to continue developing well beyond the point of ecological sense." - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+> "" - [Immoderate Greatness: Why Civilizations Fail, by William Ophuls](https://www.goodreads.com/book/show/17567194-immoderate-greatness)
+
+
+
+
+
+
+
+
+> "What a neuron is and what it does depends on whom you ask. If you ask a biologist, neurons are the primary cells that make up the nervous system. If you ask a machine learning researcher, neurons are the fundamental units of neural networks, little accumulators that perform the basic task of computing a weighted summation of their inputs. If you ask a psychophysicist, neurons are the sensors that measure features of the external world. If you ask a neuroscientist specializing in motor control, neurons are effectors, the controllers of muscles and movement. If you ask other people, you might get a wide range of answers, from “Neurons are little electrical wires in your head” to “Neurons are the stuff of consciousness.” All of these answers are right, carrying a kernel of the whole truth, but incomplete on their own." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "When animals categorize stimuli into good and bad, psychologists and neuroscientists say they are imbuing stimuli with valence. Valence is the goodness or badness of a stimulus. Valence isn’t about a moral judgment; it’s something far more primitive: whether an animal will respond to a stimulus by approaching it or avoiding it. The valence of a stimulus is, of course, not objective; a chemical, image, or temperature, on its own, has no goodness or badness. Instead, the valence of a stimulus is subjective, defined only by the brain’s evaluation of its goodness or badness." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "Steering requires at least four things: a bilateral body plan for turning, valence neurons for detecting and categorizing stimuli into good and bad, a brain for integrating input into a single steering decision, and the ability to modulate valence based on internal states. But still, evolution continued tinkering. There is another trick that emerged in early bilaterian brains, a trick that further bolstered the effectiveness of steering. That trick was the early kernel of what we now call emotion." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "Valence exists not only in our assessment of external stimuli but also in our internal states. Our internal states are not only imbued with a level of valence, but also a degree of arousal. Blood-boiling fury is not only a bad mood but an aroused bad mood. Different from an unaroused bad mood, like depression or boredom. Similarly, the tingly serenity of lying on a warm beach is not only a good mood but a good mood with low arousal." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "If dopamine is the something-good-is-nearby chemical, then serotonin is the something-good-is-actually-happening chemical. Dopamine drives the hunt for food; serotonin drives the enjoyment of it once it is being eaten." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "While dopamine has no impact on liking reactions, serotonin decreases both liking and disliking reactions. When given drugs that increase serotonin levels, rats smack their lips less to good food and shake their heads less to bitter food. This is also what we would expect given the evolutionary origin of serotonin: serotonin is the satiation, things-are-okay-now, satisfaction chemical, designed to turn off valence responses.
+>
+> Dopamine and serotonin are primarily involved in navigating the happy side of affective states—the different flavors of positive affect. There are additional neuromodulators, equally ancient, that undergird the mechanisms of negative affect—of stress, anxiety, and depression." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "Dopamine is not a signal for reward but for reinforcement. As Sutton found, reinforcement and reward must be decoupled for reinforcement learning to work. To solve the temporal credit assignment problem, brains must reinforce behaviors based on changes in predicted future rewards, not actual rewards. This is why animals get addicted to dopamine-releasing behaviors despite it not being pleasurable, and this is why dopamine responses quickly shift their activations to the moments when animals predict upcoming reward and away from rewards themselves." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "In early bilaterians, dopamine was a signal for good things nearby—a primitive version of wanting.* In the transition to vertebrates, however, this good-things-are-nearby signal was elaborated to not only trigger a state of wanting but also to communicate a precisely computed temporal difference learning signal. Indeed, it makes sense that dopamine was the neuromodulator that evolution reshaped into a temporal difference learning signal, as the signal for nearby rewards it was the closest thing to a measure of predicted future reward. And so, dopamine was transformed from a good-things-are-nearby signal to a there-is-a-35 percent-chance-of-something-awesome-happening-in-exactly-ten-seconds signal. Repurposed from a fuzzy average of recently detected food to an ever fluctuating, precisely measured, and meticulously computed predicted-future-reward signal." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "How can the absence of something be reinforcing? The answer is that the omission of an expected punishment is itself reinforcing; it is relieving. And the omission of an expected reward is itself punishing; it is disappointing." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "Our Facebook and Instagram feeds exploit this as well. With each scroll, there is a new post, and randomly, after some number of scrolls, something interesting shows up. Even though you might not want to use Instagram, the same way gamblers don’t want to gamble or drug addicts don’t want to use anymore, the behavior is subconsciously reinforced, making it harder and harder to stop. Gambling and social feeds work by hacking into our five-hundred-million-year-old preference for surprise, producing a maladaptive edge case that evolution has not had time to account for. Curiosity and reinforcement learning coevolved because curiosity is a requirement for reinforcement learning to work. With the newfound ability to recognize patterns, remember places, and flexibly change behavior based on past rewards and punishments, the first vertebrates were presented with a new opportunity: for the first time, learning became, in and of itself, an extremely valuable activity. The more patterns a vertebrate recognized and the more places she remembered, the better she would survive. And the more new things she tried, the more likely she was to learn the correct contingencies between her actions and their corresponding outcomes. And so it was 500 million years ago in the tiny brain of our fish-like ancestors when curiosity first emerged." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "Our unique language, with declarative labels and grammar, enables groups of brains to transfer their inner simulations to each other with an unprecedented degree of detail and flexibility. One can say “Smash the rock from the top” or “Joe was rude to Yousef” or “Remember that dog we saw yesterday,” and in all these cases, the talker is deliberately selecting an inner simulation of images and actions to be transferred to nearby listeners. A group of n brains can all re-render the same mental movie of the dog they saw yesterday with merely a few noises or gestures." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "All these practical benefits emerge from the fact that language expands the scope of sources a brain can extract learnings from. The breakthrough of reinforcing enabled early vertebrates to learn from their own actual actions (trial and error). The breakthrough of simulating enabled early mammals to learn from their own imagined actions (vicarious trial and error). The breakthrough of mentalizing enabled early primates to learn from other people’s actual actions (imitation learning). But the breakthrough of speaking uniquely enabled early humans to learn from other people’s imagined actions." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "With the ability to construct common myths, we can coordinate the behavior of an incredibly large number of strangers. This was a massive improvement over the system of social cohesion provided by primate mentalizing. Coordinating behavior using mentalizing alone works only by each member of a group directly knowing each other. This mechanism of cooperation doesn’t scale; the limit of human group size maintained only by direct relationships has been estimated to be about one hundred fifty people. In contrast, common myths of things like countries, money, corporations, and governments allow us to cooperate with billions of strangers." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "The true power of DNA is not the products it constructs (hearts, livers, brains) but the process it enables (evolution). In this same way, the power of language is not its products (better teaching, coordinating, and common myths) but the process of ideas being transferred, accumulated, and modified across generations. Just as genes persist by hopping from parent cell to offspring cell, ideas persist by hopping from brain to brain, from generation to generation. And as with genes, this hopping is not uniform but operates under its own quasi-evolutionary rules—there is a continual selecting of good ideas and pruning of bad ideas. Ideas that helped humans survive persisted, while those that did not perished." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+> "The real reason why humans are unique is that we accumulate our shared simulations (ideas, knowledge, concepts, thoughts) across generations. We are the hive-brain apes. We synchronize our inner simulations, turning human cultures into a kind of meta-life-form whose consciousness is instantiated within the persistent ideas and thoughts flowing through millions of human brains over generations. The bedrock of this hive brain is our language.
+>
+> The emergence of language marked an inflection point in humanity’s history, the temporal boundary when this new and unique kind of evolution began: the evolution of ideas. In this way, the emergence of language was as monumental an event as the emergence of the first self-replicating DNA molecules. Language transformed the human brain from an ephemeral organ to an eternal medium of accumulating inventions.
+>
+> These inventions included new technologies, new laws, new social etiquettes, new ways of thinking, new systems of coordination, new ways of selecting leaders, new thresholds for violence versus forgiveness, new values, new shared fictions. The neurological mechanisms that enable language came far before anyone was doing math, using computers, or discussing the merits of capitalism. But once humans were armed with language, these developments were all but inevitable. It was just a matter of time. Indeed, the incredible ascent of humankind during the past few thousand years had nothing to do with better genes and everything to do with the accumulation of better and more sophisticated ideas." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+
+
+
+
+
+> "In 2012 about 56 million people died throughout the world; 620,000 of them died due to human violence (war killed 120,000 people, and crime killed another 500,000). In contrast, 800,000 committed suicide, and 1.5 million died of diabetes. Sugar is now more dangerous than gunpowder." - [Yuval Noah Harari](https://www.goodreads.com/quotes/7957329-in-2012-about-56-million-people-died-throughout-the-world)
+
 
 
 
@@ -2414,9 +2489,6 @@ We need to invert the current scaling laws of cooperation/coordination - right n
 We need an attractor with an inverted law of cooperation/coordination
 We need the network effect of cooperation and coordination - the complete harnessing of specialisation and cognition - where strength is in the numbers not just in terms of liability but also in capability
 Alignment & coherence
-
-How do we consciously manipulate our discount rate and extend our time horizons?
-Cartoon: i think we got the discount rate wrong - climate change
 
 A protocol as the kernel of cooperation
 

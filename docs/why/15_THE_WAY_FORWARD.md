@@ -301,6 +301,9 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 
 Bryan Johnson’s dont die initiative could play a big role in extending our time horizons
 
+How do we consciously manipulate our discount rate and extend our time horizons? Interest & inflation play a role.
+Cartoon: i think we got the discount rate wrong - climate change
+
 > "With the invention of the clock, Eternity ceased to serve as the measure and focus of human events." - [Neil Postman](https://www.goodreads.com/quotes/594270-with-the-invention-of-the-clock-eternity-ceased-to-serve)
 
 > "Society grows great when old men plant trees whose shade they know they shall never sit in." - [Greek Proverb](https://www.goodreads.com/quotes/666987-society-grows-great-when-old-men-plant-trees-whose-shade)
@@ -851,6 +854,8 @@ This as the section for matchmaking and with the leary quote
 > "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
 
 > "Science without religion is lame, religion without science is blind." - [Albert Einstein](https://www.goodreads.com/quotes/1612-science-without-religion-is-lame-religion-without-science-is-blind)
+
+> "Two kinds of fools - those who take religion literally, and those who think it has no value." - [Naval Ravikant](https://x.com/naval/status/1442737996814589952)
 
 Religions are literally false but metaphorically true - Brett Weinstein
 What if we could make a literally true one?
