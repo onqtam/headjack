@@ -454,6 +454,15 @@ Just like life, the internet also evolved blindly and unconsciously - gradient d
 
 How much legislature and bureaucracy can be replaced simply by norms, culture, stigma and reputation? Humanity operated like that for thousands of years
 
+
+https://en.wikipedia.org/wiki/Parkinson%27s_law
+- "work expands so as to fill the time available for its completion",
+- the number of workers within public administration, bureaucracy or officialdom tends to grow, regardless of the amount of work to be done. This was attributed mainly to two factors: that officials want subordinates, not rivals, and that officials make work for each other.
+
+
+> "Bureaucracy, the rule of nobody." - [Hannah Arendt](https://x.com/ancapquotes/status/1805163971156087230)
+
+
 > "The crisis of bureaucracy always comes with a failure of processing information." - [Samo Burja](https://youtu.be/7GyFkRuqcNc?t=263)
 
 > "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)

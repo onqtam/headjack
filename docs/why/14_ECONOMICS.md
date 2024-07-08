@@ -333,3 +333,7 @@ Publicity and Accepted Standards
 
 
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
+
+We can tell the money where to go
+
+

@@ -157,8 +157,6 @@ https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 > "To ask a politician to lead us is to ask the tail of a dog to lead the dog." - [R. Buckminster Fuller](https://www.azquotes.com/quote/927041)
 
-> "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9104212-bureaucracy-is-a-construction-by-which-a-person-is-conveniently)
-
 > "In poor countries, officials receive explicit bribes; in D.C. they get the sophisticated, implicit, unspoken promise to work for large corporations." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/610868-in-poor-countries-officials-receive-explicit-bribes-in-d-c-they)
 
 > "World War III is a guerrilla information war with no division between military and civilian participation." - [Marshall McLuhan](https://www.azquotes.com/quote/808551)
@@ -385,6 +383,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 ██████████████████████████████████████████████████████████████████
 
 > "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
+
+> "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9104212-bureaucracy-is-a-construction-by-which-a-person-is-conveniently)
 
 > "I always tried to be correct, not politically correct." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11421404-i-always-tried-to-be-correct-not-politically-correct)
 
