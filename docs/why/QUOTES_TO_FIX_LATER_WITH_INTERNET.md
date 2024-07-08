@@ -1388,9 +1388,9 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Optimal incentives for collective intelligence](https://www.pnas.org/doi/abs/10.1073/pnas.1618722114)
 
-> "" - []()
+> "" - [Status: Insights from Organizational Sociology](https://sci-hub.se/10.1146/annurev-soc-071811-145503)
 
-> "" - []()
+> "" - [Friendship and the Banker's Paradox: Other Pathways to the Evolution of Adaptations for Altruism](https://www.researchgate.net/publication/232419330_Friendship_and_the_Banker's_Paradox_Other_Pathways_to_the_Evolution_of_Adaptations_for_Altruism)
 
 > "" - []()
 
