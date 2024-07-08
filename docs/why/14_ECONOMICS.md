@@ -336,4 +336,14 @@ Publicity and Accepted Standards
 
 We can tell the money where to go
 
+How to program “CBDCs”
+
+Private intellectual property is a suboptimization
+
+Explore more the perverse incentive to keep a company alive and growing - planned obsolesence & induced demand
+
+The global common special economic zone
+
+
+
 
