@@ -160,15 +160,22 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "I think a big part of it has to do with this is this notion of gold has no smell meaning that again you know person a shows up in the in the market with ten apples and person B shows up in the market with five apples the fact that person a stole those apples from person B is since of the market in may have no capacity to perceive at all and in fact we don't even think about that as a market transaction that's called justice that's what happened so what we says okay well person B then needs to find some way to sue or otherwise rebalance the underlying infrastructure so we would think about then is that the market is consisting of a whole bunch of little circles that are communicating with each other through transactions and it doesn't actually have any information outside of that information flow so it has in an inability to perceive all the different ways that somebody might actually falsify the stuff that the market actually needs to be able to make good choices meaning that if you think about what the game the startup do the right thing and it slides all the way down if everybody who's playing the market game is self-enforcing to do the right thing you know social norms would really really work and anybody who plays in anything but the most virtuous way is selected against through the sort of to the normative channel then the mark so we'll actually tend to do a pretty good job well there's more to it than that and there's a whole bunch of other stuff to think about that but that's one that we can focus on right here and but that's the sense markets actually have very little ability to perceive that kind of a thing in fact they outsource that to other areas social norms laws etc that's the channel you gain are you game that channel and so you show up as a really great market player you're a bank you've got a giant building with marble columns and a actually completely covered in marble and impress the people wearing fancy suits that all signal certain things that the market can perceive but you know the gap between signal and the thing being signified is something the market has effectively no capacity to perceive at all and that then becomes the game when you move more and more and more power and choice making into the market you end up basically creating a niche for gaming what the market can't perceive and simulating what the market perceives as being a good answer." - [Jordan Hall](https://youtu.be/OUv-ZOM0dOo?t=2728)
 
-<!-- 
 > "" - [Jordan Hall]()
 
 > "" - [Jordan Hall]()
 
 > "" - [Jordan Hall]()
 
+
+> "GameA has to do with a trade-off of local selective advantage at the cost of global selective advantage which is of course another way of describing Moloch in the context of a technological arms race." - [Jordan Hall](https://youtu.be/rf1nXskea9Q?t=881)
+
+> "One of the characteristics of game B is in principle the diversity of individuals actually has no particular limit the amount of space contained within the sphere of a particular collaborative field is therefore arbitrarily large I.E orders of magnitude more generative than we currently are as a population so it's unimaginable like I can't actually it's impossible to describe the carrot because the amount of potential that we're talking about is so much larger than anything we have any frame for thinking about we have no language to describe it." - [Jordan Hall](https://youtu.be/rf1nXskea9Q?t=3114)
+
 > "" - [Jordan Hall]()
--->
+
+> "" - [Jordan Hall]()
+
+
 
 > "I think the Buddha was right and the reason we suffer and make other people suffer - and that includes conflicts - is because we don't see the world clearly." - [Robert Wright](https://youtu.be/6ZkWe-YvJ5Q?t=3373)
 
@@ -187,6 +194,4 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 > "Economists say that we are inherently insatiable but the last I looked at this with got the data was like early 2000s we spent the equivalent of the gdp of canada on advertising convincing people that they're insatiable if we were insatiable you wouldn't need to spend that much to convince us we are getting rid of advertising can be an enormous play an enormous role in reducing our expectations of you know how much we should consume and how much we should work." - [Josh Farley](https://youtu.be/cI7KqBSBXdA?t=2899)
 
 > "What makes us a super organism is the messages we constantly receive together that makes us believe certain ways and if those are controlled for the for-profit motive advertising and social media for profit shape our super organism in this you know ever expanding consumption way if we change the goals towards which we use those technologies to focus on you know finding meaning through other things i think that would be a huge part of changing the super organism." - [Josh Farley](https://youtu.be/cI7KqBSBXdA?t=4504)
-
-
 

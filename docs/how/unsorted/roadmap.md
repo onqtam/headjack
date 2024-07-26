@@ -80,6 +80,7 @@ after the right abstractions are picked, new use cases will be rapidly tested by
 
 A public list of who has signed up for this system
 
+summoning the GB as a ritual - until self-reference is achieved ala Hofstadter's strange loop thingie
 
 > "My number one predictor of whether or not a company will find product-market fit: High shipping cadence." - [Naval Ravikant](https://x.com/naval/status/1128346098362281984)
 

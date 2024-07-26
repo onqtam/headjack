@@ -1392,7 +1392,7 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Friendship and the Banker's Paradox: Other Pathways to the Evolution of Adaptations for Altruism](https://www.researchgate.net/publication/232419330_Friendship_and_the_Banker's_Paradox_Other_Pathways_to_the_Evolution_of_Adaptations_for_Altruism)
 
-> "" - []()
+> "" - [Symbiotic Intelligence: self-organizing knowledge on distributed networks driven by human interaction](https://www.osti.gov/servlets/purl/663205)
 
 > "" - []()
 
