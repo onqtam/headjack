@@ -228,6 +228,7 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "Call the game the “Wall Street Game,” and people become less cooperative. Calling it the “Community Game” does the opposite." - [Robert Sapolsky](https://www.goodreads.com/quotes/8702794-call-the-game-the-wall-street-game-and-people-become)
 
+> "Media literally intermediates reality and programs voters by framing the acceptable parameters of any debate." - [Naval Ravikant](https://medium.com/the-mission/american-spring-d6a8320bf712#:~:text=Media%20literally%20intermediates%20reality%20and%20programs%20voters%20by%20framing%20the%20acceptable%20parameters%20of%20any%20debate.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Propaganda

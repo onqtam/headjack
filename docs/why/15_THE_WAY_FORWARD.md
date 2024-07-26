@@ -213,6 +213,8 @@ connectedness
 
 We need a cure for apathy and disengagement
 
+> "All of us dream of being part of something greater than ourselves. All of us want to make a contribution. The greatest contribution you make isn't in the money you give to charities. It isn't in the nonprofit foundations you establish. And it isn't in the work you do as a volunteer. Your greatest contribution to something greater, to the lives of others, comes in what you do from nine to five." - [Howard Bloom](https://www.goodreads.com/quotes/7472459-all-of-us-dream-of-being-part-of-something-greater)
+
 https://www.reddit.com/r/quotes/comments/2ydw36/at_the_end_of_the_game_the_king_and_the_pawn_go/
 "At the end of the game, the king and the pawn go back in the same box." -Italian Proverb
 

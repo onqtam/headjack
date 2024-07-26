@@ -384,6 +384,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
 > "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
 
+> "The actual control planes of the system are tenured or inherited — not elected." - [Balaji Srinivasan](https://x.com/balajis/status/1815190452251038133)
+
 > "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9104212-bureaucracy-is-a-construction-by-which-a-person-is-conveniently)
 
 > "I always tried to be correct, not politically correct." - [Lee Kuan Yew](https://www.goodreads.com/quotes/11421404-i-always-tried-to-be-correct-not-politically-correct)

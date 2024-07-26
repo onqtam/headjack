@@ -183,6 +183,8 @@ https://quotefancy.com/quote/1074522/Julian-Assange-One-of-the-hopeful-things-th
 https://twitter.com/JamesMelville/status/1652225944067686400
 https://twitter.com/NMukherjee6/status/1654357589562638337
 
+"Democracies are always lied into war... It's not just lies by intelligence analysts, it's lies by the big media machine" - Julian Assange
+https://x.com/wikileaks/status/1814697054402191748
 
 > "There is always hope when people are forced to listen to both sides." - [John Stuart Mill](https://www.azquotes.com/quote/660271)
 
