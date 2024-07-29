@@ -127,6 +127,9 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 # SECTION: STONE TABLET IPFS CID HASH OF BOOK
 ██████████████████████████████████████████████████████████████████
 
+
+> "Behind this *~~mask~~* **hash** there is more than just *~~flesh~~* **words**. Beneath this *~~mask~~* **hash** there is an idea... and ideas are bulletproof." - [V](https://www.goodreads.com/quotes/102108-behind-this-mask-there-is-more-than-just-flesh-beneath), probably
+
 Prev:
 Block hash of “on brink of second bailout for banks”
 0x000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
