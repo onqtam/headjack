@@ -171,6 +171,10 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "One of the characteristics of game B is in principle the diversity of individuals actually has no particular limit the amount of space contained within the sphere of a particular collaborative field is therefore arbitrarily large I.E orders of magnitude more generative than we currently are as a population so it's unimaginable like I can't actually it's impossible to describe the carrot because the amount of potential that we're talking about is so much larger than anything we have any frame for thinking about we have no language to describe it." - [Jordan Hall](https://youtu.be/rf1nXskea9Q?t=3114)
 
+> "The first game B institution must be a new form of collective intelligence because only a new form of collective intelligence that has a categorically qualitatively higher capacity across dimensions of total complexity precision and all these different characteristics of what makes an effective intelligence has the capacity to be the instrumentality to produce the next layer of institutional structures." - [Jordan Hall](https://youtu.be/rf1nXskea9Q?t=4063)
+
+> "" - [Jordan Hall]()
+
 > "" - [Jordan Hall]()
 
 > "" - [Jordan Hall]()
