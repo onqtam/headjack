@@ -173,11 +173,22 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "The first game B institution must be a new form of collective intelligence because only a new form of collective intelligence that has a categorically qualitatively higher capacity across dimensions of total complexity precision and all these different characteristics of what makes an effective intelligence has the capacity to be the instrumentality to produce the next layer of institutional structures." - [Jordan Hall](https://youtu.be/rf1nXskea9Q?t=4063)
 
-> "" - [Jordan Hall]()
+> "The first game B institution must be a new form of collective intelligence because only a new form of collective intelligence that has a categorically qualitatively higher capacity across dimensions of total complexity precision and all these different characteristics of what makes an effective intelligence has the capacity to be the instrumentality to produce the next layer of institutional structures does that make sense I mean to me it seems very straightforward but it's sort of a been difficult to land like many many many people almost everybody wants to jump that step and start working on let's make new kinds of schools or new kinds of Farms or new kinds of tech companies or new kinds of money using Legacy Collective intelligences yeah it won't work you have to form the new kind of collective intelligence that has the minimum of sort of viable product capacity to produce the next layer of Institutions." - [Jordan Hall](https://youtu.be/rf1nXskea9Q?t=4064)
 
-> "" - [Jordan Hall]()
 
-> "" - [Jordan Hall]()
+
+
+
+
+
+
+> "I don't think that hyek and and uh and Marx uh and Adam Smith have the solutions for a world with AI and so why is it that we're not forming institutes and conferences that say capitalism is not going to survive AI and that could be a great thing?" - [Eric Weinstein](https://youtu.be/lyXYVvMZf4I?t=702)
+
+> "At what point did we lose the ability to break out new space and say I want to fill this with something that hasn't existed without being back referenced to fail ideas?" - [Eric Weinstein](https://youtu.be/lyXYVvMZf4I?t=737)
+
+> "We can't even get an institute or a conference that says: 'we obviously need a new economics, it's an emergency, what economics is this going to be?' - because we have this idea is that if we give up capitalism communism will fill the vacuum." - [Eric Weinstein](https://youtu.be/lyXYVvMZf4I?t=780)
+
+
 
 
 
