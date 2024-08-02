@@ -291,7 +291,7 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 
 > "Any civilization that is net negative to nature, even a little bit, let's say a civilization is only 0.1% net negative to nature per year. It still has a thousand years, and that's its death date, because nature runs out. When you take away 0.1% per year, in a thousand years, you got nothing left. Literally, the goal construction is also something that obviously must be true, at some point in human history, otherwise we will not survive. Every civilization that has the opposite goal construction, where it's even a little bit net negative, we'll have a death date on civilization." - [Tom Chi](https://youtu.be/AjGOGfzAvyc?t=7949)
 
-
+> "I can break your regulation in three months, it takes you seven years to do it. Like, you, there's a, there's a concept I call rates not states, right? People always bemoan the state of the world. But they forget that the world is the way that it is because of the rates at which things happen. The reason that we haven't just gotten on top of regulatory for all the damaging things in our environment, including in the food system, you know, like, you know, endocrine disrupting, flame retardants in our clothes, and just on and on. Is because the regulatory thing is like a seven year push five, seven, 10 year. And then the work around molecularly is like a three to four month push. So like rates are more important than states rates will define what the states will become, or they define why the states are the way that they are." - [Tom Chi](https://youtu.be/P-5YBAYcE3g?t=2147)
 
 
 
