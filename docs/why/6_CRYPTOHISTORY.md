@@ -237,6 +237,12 @@ The argument that specialized message types are unnecessary because AI will even
 # SECTION: Science, peer review & [DeSci](https://future.com/what-is-decentralized-science-aka-desci/)
 ██████████████████████████████████████████████████████████████████
 
+commenting & ranking science platforms
+https://x.com/ResearchHub
+https://x.com/askalphaxiv
+https://x.com/StanfordAILab/status/1818669016325800216
+
+
 how many scientists support the mission of sci-hub.se but don't dare to speak out publically? we need anonymous polling
 
 > "The average scientist knows nothing about the history of peer review. They attribute it I think to the 16-1700s because of sort of faulty work of Merton and as a result we don't realize that this peer review thing is basically an attempt to keep the populace out of elite scientific conversations." - [Eric Weinstein](https://youtu.be/lyXYVvMZf4I?t=1677)
