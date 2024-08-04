@@ -358,6 +358,9 @@ top10 to watch
 - How Complexity Economics Can Save the World, by Eric Beinhocker
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
+Chimp Empire
+https://www.imdb.com/title/tt27205918/
+
 top10 channels
 - Ashley's The New Enlightenment
 
