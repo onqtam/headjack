@@ -530,6 +530,7 @@ Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk
 https://www.youtube.com/watch?v=meiU6TxysCg
 Capuchin monkey fairness experiment
 https://www.youtube.com/watch?v=-KSryJXDpZo
+https://www.youtube.com/watch?v=meiU6TxysCg
 "The neuronal basis of empathy and fairness" - unfairness & disgust !!!
 https://pubmed.ncbi.nlm.nih.gov/17214308/
 > "Insula activation associated with perception of ‘unfairness’ has been interpreted as negative emotional reaction to unfair offers. This interpretation is based on prior studies reporting insula involvement in negative or arousing emotional states such as fear, disgust, or anger." - [Unfair? It depends: Neural correlates of fairness in social context](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999761/#:~:text=Insula%20activation%20associated%20with%20perception%20of%20%E2%80%98unfairness%E2%80%99%20has%20been%20interpreted%20as%20negative%20emotional%20reaction%20to%20unfair%20offers.%20This%20interpretation%20is%20based%20on%20prior%20studies%20reporting%20insula%20involvement%20in%20negative%20or%20arousing%20emotional%20states%20such%20as%20fear%2C%20disgust%2C%20or%20anger)

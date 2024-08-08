@@ -220,6 +220,9 @@ https://www.youtube.com/watch?v=ETUGwC9jXCM
 The Great Simplification | Film on Energy, Environment, and Our Future
 https://www.youtube.com/watch?v=-xr9rIQxwj4
 
+Reality 101 Long Course, by Nate Hagens
+https://www.youtube.com/playlist?list=PLdc087VsWiC7IF4OZAs6XPXFhYhhzrGXH
+
 imagine the process of us coming to consensus to what's most important for everyone to see and read - it would never be complete - an ever-evolving list
 
 William E. Rees: "The Fundamental Issue - Overshoot" | The Great Simplification #53
@@ -357,12 +360,6 @@ top10 most important reads:
 top10 to watch
 - How Complexity Economics Can Save the World, by Eric Beinhocker
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
-
-Reality 101 Long Course, by Nate Hagens
-https://www.youtube.com/playlist?list=PLdc087VsWiC7IF4OZAs6XPXFhYhhzrGXH
-!!! OR the short version
-Reality 101 Short Course, by Nate Hagens
-https://www.youtube.com/playlist?list=PLdc087VsWiC4AdSNFNq1a_n_O18Cko8Cr
 
 Chimp Empire
 https://www.imdb.com/title/tt27205918/
