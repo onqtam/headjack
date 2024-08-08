@@ -294,10 +294,6 @@ https://www.youtube.com/watch?v=7LqaotiGWjQ
 > "I can break your regulation in three months, it takes you seven years to do it. Like, you, there's a, there's a concept I call rates not states, right? People always bemoan the state of the world. But they forget that the world is the way that it is because of the rates at which things happen. The reason that we haven't just gotten on top of regulatory for all the damaging things in our environment, including in the food system, you know, like, you know, endocrine disrupting, flame retardants in our clothes, and just on and on. Is because the regulatory thing is like a seven year push five, seven, 10 year. And then the work around molecularly is like a three to four month push. So like rates are more important than states rates will define what the states will become, or they define why the states are the way that they are." - [Tom Chi](https://youtu.be/P-5YBAYcE3g?t=2147)
 
 
-> "" - [Tom Chi]()
-
-> "" - [Tom Chi]()
-
 
 
 
