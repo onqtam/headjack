@@ -358,6 +358,12 @@ top10 to watch
 - How Complexity Economics Can Save the World, by Eric Beinhocker
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
+Reality 101 Long Course, by Nate Hagens
+https://www.youtube.com/playlist?list=PLdc087VsWiC7IF4OZAs6XPXFhYhhzrGXH
+!!! OR the short version
+Reality 101 Short Course, by Nate Hagens
+https://www.youtube.com/playlist?list=PLdc087VsWiC4AdSNFNq1a_n_O18Cko8Cr
+
 Chimp Empire
 https://www.imdb.com/title/tt27205918/
 
