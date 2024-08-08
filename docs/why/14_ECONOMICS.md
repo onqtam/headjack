@@ -3,6 +3,13 @@ https://www.google.com/search?q=keiretsu
 
 
 
+
+embed this:
+Faces of Capitalism with Liv Boeree
+https://www.youtube.com/watch?v=xMNil06mODE
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████
