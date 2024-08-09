@@ -2522,7 +2522,9 @@ Levels of openness & alignment - different rewards by the network
     https://www.techdirt.com/2012/10/18/there-are-250000-active-patents-that-impact-smartphones-representing-one-six-active-patents-today/
 - Open source?
 - Permissive license? License to others in this ecosystem?
-- Planned obsolescence? https://www.youtube.com/watch?v=j5v8D-alAKE
+- Planned obsolescence? right to repair?
+    https://www.youtube.com/watch?v=j5v8D-alAKE
+    https://www.youtube.com/watch?v=6IZe7KjIJg4
     - perceived obsolescence
 - using hypernormal stimuli?
 ESG scores
