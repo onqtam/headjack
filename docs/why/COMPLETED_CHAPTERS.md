@@ -202,6 +202,9 @@ https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 Baraka 1992
 https://www.imdb.com/title/tt0103767/
 
+Samsara 2011
+https://www.imdb.com/title/tt0770802
+
 George Carlin's Greatest Speech
 https://www.youtube.com/watch?v=-ERFBg2Uh1c
 
@@ -219,17 +222,18 @@ https://www.youtube.com/watch?v=ETUGwC9jXCM
 
 The Great Simplification | Film on Energy, Environment, and Our Future
 https://www.youtube.com/watch?v=-xr9rIQxwj4
-
 Reality 101 Long Course, by Nate Hagens
 https://www.youtube.com/playlist?list=PLdc087VsWiC7IF4OZAs6XPXFhYhhzrGXH
+No, not everything in there is endorsed or completely true, but still very much worthwhile
 
 imagine the process of us coming to consensus to what's most important for everyone to see and read - it would never be complete - an ever-evolving list
+
 
 William E. Rees: "The Fundamental Issue - Overshoot" | The Great Simplification #53
 https://www.youtube.com/watch?v=LQTuDttP2Yg
 William E. Rees: The Enigma of Climate Inaction – On the Human Nature of Policy Failure
 https://www.youtube.com/watch?v=WDWhjSUu8UY
-
+No, not everything in there is endorsed or completely true, but still very much worthwhile
 
 what if we could query what our top 10 heroes think about how to get your life, diet & fitness in order?
 

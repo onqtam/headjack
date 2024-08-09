@@ -268,6 +268,25 @@ https://en.wikipedia.org/wiki/Rational_ignorance
 >
 > So: defending the current system isn't "defending" democracy. It's attacking it." - [Balaji Srinivasan](https://x.com/balajis/status/1805922957224792176)
 
+> "A one party system ran the United States, and the United States ran the world.
+>
+> The US had checks and balances — governing required consensus, and the people were freed from kings. To protect speech, the framers left out a rule against conspiracies to monopolize the vote.
+>
+> Political parties formed to monopolize the vote. The losing parties kept ganging up until only two parties remained. Resembling vast and immortal corporations, they consolidated all political power.
+>
+> The parties need mass media to win elections. Media literally intermediates reality and programs voters by framing the acceptable parameters of any debate. Mass media costs mass money.
+>
+> The elites, a plutocracy of the top few percent, bought the parties. So cheaply in fact, that they bought both.
+>
+> The elites are merely people that went to the right schools, grew up in the right neighborhoods, and came from the right money and the right families. It’s not a formal conspiracy — rather an intricate and distributed system, organized by the invisible hand of the market, voting with dollars and newspaper ink, and controlling the country all the same.
+>
+> Within some parameters, the elites argue — bombs from the air or boots on the ground? How much should we tax income?
+>
+> Mostly the elites agree to keep power with elite institutions, controlling the masses who cannot be trusted. Yes to wars, yes to mass surveillance, yes to bailouts, yes to war on drugs, yes to war on terror, yes to endless copyrights, yes to monopolies and oligopolies, no to term limits, no to wealth taxes… On these and others, pick R or D, there are no choices.
+>
+> The Elite Party runs the system and it basically works. The elite stay elite. Income may be taxed, but wealth compounds. The most belligerent and implacable of the masses are sent to fight in mercifully distant wars. Crime happens in other people’s neighborhoods. The prisons are full and everyone is being watched. The pie expands, slowly and un-evenly, and all is well." - [American Spring, by Naval](https://medium.com/the-mission/american-spring-d6a8320bf712#:~:text=A%20one%20party,all%20is%20well.)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Voting
 ██████████████████████████████████████████████████████████████████
