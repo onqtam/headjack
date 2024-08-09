@@ -947,23 +947,71 @@ for it.’
 
 > "The development of self-respect and mutual respect among the mass of modern functional workers is clearly an intimate concern of the Open Conspiracy." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "The Open Conspiracy must be heterogeneous in origin. Its initial groupings and associations will be of no uniform pattern. They will be of a very different size, average age, social experience, and influence. Their particular activities will be determined by the things. Their diverse qualities and influences will express themselves by diverse attempts at organization, each effective in its own sphere. A group or movement of students may find itself capable of little more than self-education and personal propaganda; a handful of middle-class people in small town may find its small resources fully engaged at first in such things as, for example, seeing that desirable literature is available for sale or in local public library, protecting books and news vendors from suppression, or influencing local teachers. Most parents of school children can press for the teaching of universal history and sound biology and protest against the inculcation of aggressive patriotism. There is much scope for the single individual in this direction. On the other hand, a group of ampler experience and resources may undertake the printing, publication, and distribution of literature, and exercise considerable influence upon public opinion in turning education in the right direction." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "The normal militant diplomacy and warfare of the present time are offences against civilization, processes in the nature of brigandage, sedition, and civil war, and that serious men cannot be expected to play anything but a röle of disapproval, non-participation, or active prevention towards them. Our loyalty to our current government, we would intimate, is subject to its sane and adult behaviour." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "Our immortality is conditional and lies in the race and not in our individual selves." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "The whole psychology of industry and industrial relationship needs to be revised and restated in terms of the collective efficiency and welfare of mankind. And just as far as can be contrived, the counsel and the confidences of those who now direct great industrial and financial operations will be invoked. The first special task of a banker, or a bank clerk for that matter, who joins the Open Conspiracy, will be to answer the questions: "What is a bank?" "What are you going to do about it?" "What have we to do about it?" The first questions to a manufacturer will be: "What are you making and why?" and "What are you and we to do about it?" Instead of the crude proposals to "expropriate" and "take over by the State" of the primitive socialism, the Open Conspiracy will build up an encyclopædic conception of the modern economic complex as a labyrinthine pseudo-system progressively eliminating waste and working its way along multitudinous channels towards unity, towards clarity of purpose and method, towards abundant productivity and efficient social service." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "The character of the Open Conspiracy will now be plainly displayed. It will have become a great world movement as wide-spread and evident as socialism or communism. It will have taken the place of these movements very largely. It will be more than they were, it will be frankly a world religion. This large, loose assimilatory mass of movements, groups, and societies will be definitely and obviously attempting to swallow up the entire population of the world and become the new human community." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "The communist party has trained a whole generation of disciples to believe that the overthrow of a vaguely apprehended "Capitalism" is the simple solution of all human difficulties. No movement ever succeeded so completely in substituting phrases for thought. In Moscow communism has trampled "Capitalism" underfoot for ten eventful years, and still finds all the problems of social and political construction before it.
+>
+> But as soon as the Socialist or Communist can be got to realize that his repudiation of private monopolization is not a complete programme but just a preliminary principle, he is ripe for the ampler concepts of the modern outlook. The Open Conspiracy is the natural inheritor of socialist and communist enthusiasms; it may be in control of Moscow before it is in control of New York." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "I would sustain the proposition that none of these movements of partial reconstruction has the sound common sense quality its supporters suppose. All these movements are worth while if they can be taken into the world-wide movement; all in isolation are futile. They will be overlaid and lost in the general drift. The policy of the whole hog is the best one, the sanest one, the easiest, and the most hopeful. If sufficient men and women of intelligence can realize that simple truth and give up their lives to it, mankind may yet achieve a civilization and power and fullness of life beyond our present dreams. If they do not, frustration will triumph, and war, violence, and a drivelling waste of time and strength and desire, more disgusting even than war, will be the lot of our race down through the ages to its emaciated and miserable end. For this little planet of ours is quite off the course of any rescue ships, if the will in our species fails." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "Now in each generation the Open Conspiracy, until it can develop its own reproductive methods, must remain a minority movement of intelligent converts. A unified progressive world community demands its own type of home and training. It needs to have its fundamental concepts firmly established in as many minds as possible and to guard its children from the infection of the old racial and national hatreds and jealousies, old superstitions and bad mental habits, and base interpretations of life." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
-> "" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+> "There lies a great work for various groups of the Open Conspiracy. Successful schools would become laboratories of educational methods and patterns for new state schools. Necessarily for a time, but we may hope unconsciously, the Open Conspiracy children will become a social élite; from their first conscious moments they will begin to think and talk among clear-headed people speaking distinctly and behaving frankly, and it will be a waste and loss to put them back for the scholastic stage among their mentally indistinct and morally muddled contemporaries. A phase when there will be a special educational system for the Open Conspiracy seems, therefore, to be indicated. Its children will learn to speak, draw, think, compute lucidly and subtly, and into their vigorous minds they will take the broad concepts of history, biology, and mechanical progress, the basis of the new world, naturally and easily. Meanwhile, those who grow up outside the advancing educational frontier of the Open Conspiracy will never come under the full influence of its ideas, or they will get hold of them only after a severe struggle against a mass of misrepresentations and elaborately instilled prejudices. An adolescent and adult educational campaign, to undo the fixations and suggestions of the normal conservative and reactionary schools and colleges, is and will long remain an important part of the work of the Open Conspiracy." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+
+> "Youth is what youth has always been, eager for fine interpretations of life, capable of splendid resolves. It has no natural disposition towards the shallow and confused life. Its demand as ever is, "What am I to do with myself?"...
+>
+> The old flags and faiths have lost their magic for the intelligence of the young; they can command it no more; it is in the mighty revolution to which the Open Conspiracy directs itself that the youth of mankind must find its soul, if ever it is to find its soul again." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+
+> "The Open Conspiracy proposes to end and shows how an end may be put to that huge substratum of underdeveloped, undereducated, subjugated, exploited, and frustrated lives upon which such civilization as the world has known hitherto has rested, and upon which most of our social systems still rest.
+>
+> Whenever possible, the Open Conspiracy will advance by illumination and persuasion. But it has to advance, and even from the outset, where it is not allowed to illuminate and persuade, it must fight. Its first fights will probably be for the right to spread its system of ideas plainly and clearly throughout the world." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+
+> "While the Open Conspiracy is no more than a discussion it may spread unopposed because it is disregarded. As a mainly passive resistance to militarism it may still be tolerable. But as its knowledge and experience accumulate and its organization become more effective and aggressive, as it begins to lay hands upon education, upon social habits, upon business developments, as it proceeds to take over the organization of the community, it will marshal not only its own forces but its enemies. A complex of interests will find themselves restrained and threatened by it, and it may easily evoke that most dangerous of human mass feelings, fear. In ways quite unpredictable it may raise a storm against itself beyond all our present imaginings. Our conception of an almost bloodless domination of the Atlantic communities may be merely the confident dream of a thinker whose thoughts have yet to be squarely challenged." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+
+> "The Open Conspiracy is the awaking of mankind from a nightmare, an infantile nightmare, of the struggle for existence and the inevitability of war. The light of day thrusts between our eyelids, and the multitudinous sounds of morning clamour in our ears. A time will come when men will sit with history before them or with some old newspaper before them and ask incredulously, "Was there ever such a world?"" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+
+
+
+
+
+
+
+
+
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
+> "" - [The New World Order, by H.G. Wells](https://gutenberg.net.au/ebooks04/0400671h.html)
+
 
 
 
