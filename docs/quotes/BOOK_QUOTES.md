@@ -336,7 +336,7 @@ What if we collectively tracked our sins & good deeds in culture & the economy a
 
 > "Dopamine is not a signal for reward but for reinforcement. As Sutton found, reinforcement and reward must be decoupled for reinforcement learning to work. To solve the temporal credit assignment problem, brains must reinforce behaviors based on changes in predicted future rewards, not actual rewards. This is why animals get addicted to dopamine-releasing behaviors despite it not being pleasurable, and this is why dopamine responses quickly shift their activations to the moments when animals predict upcoming reward and away from rewards themselves." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
 
-> "In early bilaterians, dopamine was a signal for good things nearby—a primitive version of wanting.* In the transition to vertebrates, however, this good-things-are-nearby signal was elaborated to not only trigger a state of wanting but also to communicate a precisely computed temporal difference learning signal. Indeed, it makes sense that dopamine was the neuromodulator that evolution reshaped into a temporal difference learning signal, as the signal for nearby rewards it was the closest thing to a measure of predicted future reward. And so, dopamine was transformed from a good-things-are-nearby signal to a there-is-a-35 percent-chance-of-something-awesome-happening-in-exactly-ten-seconds signal. Repurposed from a fuzzy average of recently detected food to an ever fluctuating, precisely measured, and meticulously computed predicted-future-reward signal." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
+> "In early bilaterians, dopamine was a signal for good things nearby—a primitive version of wanting. In the transition to vertebrates, however, this good-things-are-nearby signal was elaborated to not only trigger a state of wanting but also to communicate a precisely computed temporal difference learning signal. Indeed, it makes sense that dopamine was the neuromodulator that evolution reshaped into a temporal difference learning signal, as the signal for nearby rewards it was the closest thing to a measure of predicted future reward. And so, dopamine was transformed from a good-things-are-nearby signal to a there-is-a-35 percent-chance-of-something-awesome-happening-in-exactly-ten-seconds signal. Repurposed from a fuzzy average of recently detected food to an ever fluctuating, precisely measured, and meticulously computed predicted-future-reward signal." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
 
 > "How can the absence of something be reinforcing? The answer is that the omission of an expected punishment is itself reinforcing; it is relieving. And the omission of an expected reward is itself punishing; it is disappointing." - [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence)
 
@@ -978,6 +978,49 @@ for it.’
 > "While the Open Conspiracy is no more than a discussion it may spread unopposed because it is disregarded. As a mainly passive resistance to militarism it may still be tolerable. But as its knowledge and experience accumulate and its organization become more effective and aggressive, as it begins to lay hands upon education, upon social habits, upon business developments, as it proceeds to take over the organization of the community, it will marshal not only its own forces but its enemies. A complex of interests will find themselves restrained and threatened by it, and it may easily evoke that most dangerous of human mass feelings, fear. In ways quite unpredictable it may raise a storm against itself beyond all our present imaginings. Our conception of an almost bloodless domination of the Atlantic communities may be merely the confident dream of a thinker whose thoughts have yet to be squarely challenged." - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
 
 > "The Open Conspiracy is the awaking of mankind from a nightmare, an infantile nightmare, of the struggle for existence and the inevitability of war. The light of day thrusts between our eyelids, and the multitudinous sounds of morning clamour in our ears. A time will come when men will sit with history before them or with some old newspaper before them and ask incredulously, "Was there ever such a world?"" - [The Open Conspiracy: What Are We To Do With Our Lives? by H.G. Wells](https://gutenberg.net.au/ebooks13/1303661h.html)
+
+
+
+
+
+> "The bent for reciprocal exchange is not the only aspect of human nature that helps propel society toward complexity. Evolutionary psychologists—and, for that matter, non-evolutionary psychologists—have shown that human beings naturally pursue social status with a certain ferocity.40 We all relentlessly, if often unconsciously, try to raise our standing by impressing peers. And we naturally, if unconsciously, evaluate other people in terms of their standing. We especially value the friendship of high-status people (since alliance with the powerful tends to come in handy), and we especially fear their disfavor (since the enmity of the powerful tends not to). Human beings evolved amid social hierarchies, and our minds are designed to negotiate them.
+>
+> This gives social complexity a head start in at least two ways. First, deference to the high and mighty (though the deference is far from reflexive, as we’ll see) paves the way for complex hierarchical organization. Hunter-gatherer peoples may or may not have a formally designated “headman,” but they recognize a leader when the occasion demands. Just look at how readily a Shoshone “rabbit boss” pops up when the rabbits do.
+>
+> Second, the ongoing quest for social status is a great spur to cultural innovation. We don’t know who invented the rabbit net, but we can safely assume it didn’t hurt his or her popularity. And so it is in all societies: one sure way to elevate your standing is to create something that is widely adopted and praised.
+>
+> There is an irony here. To compete for high-status positions is to play a zero-sum game, since they are by definition a scarce resource. Yet one way to compete successfully is to invent technologies that create new non-zero-sum games. This is one of various senses in which the impetus behind cultural evolution, behind social complexification, lies in a paradox of human nature: we are deeply gregarious, and deeply cooperative, yet deeply competitive. We instinctively play both non-zero-sum and zero-sum games. The interplay of these two dynamics throughout history is a story that takes some time to tell. For now I’ll just say that, though they have been responsible for much suffering, the tension between them is, in the end, creative." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "The mixture of cooperative and competitive human instincts, the subtle but potent quest for status, the ingenuity it fuels—these were evident long before Darwinian theory came along to explain their reason for being. In the eighteenth century, for example, Immanuel Kant noted the “unsocial sociability” of man, with special emphasis on the “unsocial” part and its ironic consequences. “Through the desire for honor, power or property, it drives him to seek status among his fellows, whom he cannot bear yet cannot bear to leave.”41 Via this quest for status, “the first true steps are taken from barbarism to culture, which in fact consists in the social worthiness of man.” Thus commences “a continued process of enlightenment” as “all man’s talents are now gradually developed, his taste cultivated.”
+>
+> Without these “asocial qualities (far from admirable in themselves),” human beings “would live an Arcadian, pastoral existence of perfect concord, self-sufficiency and mutual love.42 But all human talents would remain hidden forever in a dormant state, and men, as good-natured as the sheep they tended, would scarcely render their existence more valuable than that of their animals.” In that event, “the end for which they were created, their rational nature, would be an unfilled void. Nature should thus be thanked for fostering social incompatibility, enviously competitive vanity, and insatiable desires for possession or even power.”
+>
+> Kant made those remarks in an essay called “Idea for a Universal History with a Cosmopolitan Purpose,” which suggested that human history embodied a “hidden plan of nature.”43 Perhaps as history unfolds, he wrote, we will see “how the human race eventually works its way upward to a situation in which all the germs implanted by nature can be developed fully, and in which man’s destiny can be fulfilled here on earth.” Kant imagined that this destiny would include enduring peace among nations, ensured by a kind of world governance—a final, ironic payoff for millennia of antagonism and “unsocial” striving.
+>
+> This was all conjecture, Kant stressed. Writing in 1784, before the harnessing of electricity, before the telegraph or typewriter or computer, he admitted that so far there was just “a little” evidence of such a “purposeful natural process.” Only time would tell. “For this cycle of events seems to take so long a time to complete, that the small part of it traversed by mankind up till now does not allow us to determine with certainty the shape of the whole cycle, and the relation of its parts to the whole.” Well, that was then." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+the whole of chapter 4 "the invisible brain" is a worthy quote
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+
+
+
+
 
 
 

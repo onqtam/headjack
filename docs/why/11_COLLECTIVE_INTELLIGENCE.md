@@ -185,6 +185,8 @@ https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e
 
 we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
 
+Prediction markets are not necessarily for telling you what's true - they're for separating the winners from the losers. A constant influx of new entrants enables the aggregate to be skewed. We can have something like prediction markets that are non-financial but tied around identity
+
 on prediction markets...
 Involving money & futures contracts on any outcome might put skin in the game but has proven controversial (especially when it comes to terrorist attacks & assassinations):
 https://en.wikipedia.org/wiki/Policy_Analysis_Market
