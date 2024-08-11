@@ -352,6 +352,10 @@ https://www.youtube.com/watch?v=G70qtM66iY8
 War on Sensemaking V, Daniel Schmachtenberger
 https://www.youtube.com/watch?v=0v5RiMdSqwk
 
+Daniel Schmachtenberger: "A Vision for Betterment" | The Great Simplification 126
+https://www.youtube.com/watch?v=tmusbHBKW84
+The Wide Boundary Impacts of AI with Daniel Schmachtenberger | TGS 132
+https://www.youtube.com/watch?v=1NFuddEAi5s
 
 top10 to watch - or embed this in the section about war - perhaps the most presidential speech of all time
 President John F. Kennedy's Peace Speech - Commencement Address at American University, Washington, D.C., June 10, 1963
