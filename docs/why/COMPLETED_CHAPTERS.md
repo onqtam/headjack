@@ -364,6 +364,7 @@ https://www.youtube.com/watch?v=0fkKnfk4k40
 top10 most important reads:
 - https://civilizationemerging.com/new-economics-series-3/
 - https://civilizationemerging.com/new-economics-series-4/
+- https://civilizationemerging.com/dharma-inquiry-2/
 
 top10 to watch
 - How Complexity Economics Can Save the World, by Eric Beinhocker

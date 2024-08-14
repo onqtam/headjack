@@ -942,9 +942,6 @@ https://eprint.iacr.org/2010/543.pdf
 
 https://pbs.twimg.com/media/FtxV5AyWcAA3itz?format=jpg
 
-https://civilizationemerging.com/books/
-https://fs.blog/knowledge-project-podcast/naval-ravikant/#books-mentioned
-
 what if you value funding fundamental science and want to signal that more than 0.1% of the GDP should go towards it?
 
 what if instead of caring if someone liked your nonsense tweet you had cast a vote and can see if others vote the same way as you - not liking a textual comment of yours, but you influencing them to vote the same way you did
