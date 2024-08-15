@@ -1045,6 +1045,100 @@ the whole of chapter 4 "the invisible brain" is a worthy quote
 >
 > The truth is more nearly the opposite. The key to the pattern of history isn’t the fixedness of everything that people do. The key is the pattern’s long-run imperviousness to the lack of fixedness. A Ming ruler, perhaps out of sheer caprice, rescinds China’s oceanic voyages, and the most sophisticated nation on earth turns inward—yet the big picture remains unchanged: globalization and the information age, with all their political import, are in the cards." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
 
+> "This simultaneous upward and downward migration of power is sometimes called a “paradox,” but on close inspection, it isn’t truly contradictory. Whether dividing or uniting, the printing press was often elevating coherence.
+>
+> The empires it helped break up were in some sense† arbitrary empires—ungainly expanses encompassing sharply different cultures and languages. Meanwhile, when the press helped fuse small polities, the borders it erased were in many cases artificial and dysfunctional—impediments to economic efficiency." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "Political freedom, notwithstanding its setbacks, seems to be the basic direction in which the world has been headed for centuries now. And, at the risk of oversimplifying, the main reason is ever cheaper and more powerful information technology, as represented by the printing press. By carrying the cost of mass publication to lower and lower levels, the press allowed less and less privileged groups to mobilize against repression." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "No, the reason printing implied eventual political freedom is not that it can’t be silenced, but, rather, the high cost of silencing it. Both technological innovation and everyday capitalism are collaborative enterprises, dependent on the free and fast transmission of data...
+>
+> But in modern times, the implied freedom was greater. The lower the cost of transmitting information, the more broadly and intricately productive a society’s invisible brain can be, both in the short-run sense of everyday economics and the long-run sense of technological advance. But realizing this potential means empowering a commensurately broad swath of the population to serve as nodes in that brain: fostering literacy, for example, and giving people some leeway in what they read and write." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "Pluralism—the sharing of power by diverse groups—has the considerable upside of complicating efforts by ruling elites to seize the lion’s share of the non-zero-sum surplus. In a society’s ongoing (and often implicit) negotiations over how to divvy up that surplus, growing pluralism means that bargaining power is more broadly distributed. This is truly a trend worth celebrating—especially if you recall the starker concentrations of power that (so far as we can tell) were common in chiefdoms and ancient states.
+>
+> ... Pluralism beats despotism, but it isn’t nirvana; by making parasitism more of an equal-opportunity endeavor, it complicates the challenge of keeping the society’s overall non-zero-sum gains robust." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "But “chains of inspiration” could be taken to explain the whole history of technical advance, which, after all, has always been driven by a collective social brain. What was new about the industrial revolution was how short the links were in time even when they were long in space; Europe was becoming a very large yet fast brain. A primary reason was the printing press, a new means of forging links in the chains of inspiration—a new technology for making new technologies.
+>
+> ...
+>
+> The locomotive, along with other rapid data carriers, accented the truth highlighted by the printing press: the more easily data can move, the larger and denser a social brain can be. The vast, fast collaboration allowed by information technologies slowly turned the multinational technical community into an almost unified consciousness." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "Each such breakthrough—by further easing the transmission of data, whether by sound, print, or image—only raised the chances of further breakthroughs. Via endless positive feedback, the technological infrastructure for a global brain was, in a sense, building itself.
+>
+> And this infrastructure, of course, did double duty. It sponsored not just long-range inventing, but the workaday business of animating the economy; it carried the signals that allocated goods and services. As the process got faster—as, for example, locomotives, governed by telegraph signals, carried nicely illustrated Sears catalogues to small American towns and then carried order forms back to the big city—everyday economics came to resemble a kind of superorganic metabolism. And the superorganism increasingly assumed planetary scope." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "With the benefits of peace growing, stability became more and more a conscious goal of foreign policy. Not coincidentally, it was the intensely commercial Italian states of the early modern period that had pioneered the idea of having a resident ambassador in another state. By the early nineteenth century, with the industrial revolution turning even large nation-states into intimate neighbors, Europe’s great powers had made ambassadors a permanent fixture." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "Intellectuals, along with merchants, increasingly became a transnational class, creating a supranational consciousness that nourished the evolution of international law and international ethics. The press, having helped break up empires, helped weave filaments among the fragments.
+>
+> Once again, the printing press was exhibiting its paradoxical properties, as both solvent and glue. And once again, the paradox is resolved by viewing the press as a congealer of common interest, a tool by which people with shared goals reap positive sums through concerted action." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "Several trends span all of human history: improvement in the transport and processing of matter, improvement in the transport and processing of energy, improvement in the transport and processing of information. We know that these trends will continue, even though we don’t know the technical details that will sustain them. Or, at least, we know with, say, 99. 99 percent confidence that these trends will continue. That’s good enough for me.
+>
+> ...
+>
+> Finding predictive value in trends makes me guilty of “historicism.” According to Popper, historicism involves the belief that insight into the future can be had by discovering “the ‘rhythms’ or the ‘patterns,’ the ‘laws’ or the ‘trends’ that underlie the evolution of history.” Popper considered historicism not just misguided, but dangerous. For example, people persecuted under Hitler were victims “of the historicist superstitions of the Third Reich.” Popper failed to note that by his definition the Enlightenment-era thinkers who founded American democracy, with their progressivist view of history and their attendant sense of mission, harbored “historicist superstitions” as well.
+>
+> Whether the world of tomorrow will indeed be a logical outgrowth of today’s trends is, of course, a question we can’t settle today. The (fleeting) beauty of any predictions made in the next two chapters is their temporary unfalsifiability. But one thing we can do today is see whether the world of today is a logical outgrowth of yesterday’s trends. If it is, then maybe extrapolating from trends isn’t quite the muddled and heinous endeavor that Popper alleged it to be.
+>
+> Consider seven basic features of the contemporary world that have gotten much attention from social and political analysts. All of these features are genuinely important—even, in some cases, as important as the analysts claim. But none of these features is new. All, indeed, are grounded in very old, very basic dynamics of cultural evolution. Their past stubbornness is valid reason to expect their future persistence.
+>
+> Not-so-new feature #1: The Declining Relevance of Distance...
+>
+> Not-so-new feature #2: The “Ideas” Economy...
+>
+> Not-so-new feature #3: The New, Weightless Economy...
+>
+> Not-so-new feature #4: Liberation by Microchip...
+>
+> Not-so-new feature #5: Narrowcasting...
+>
+> Not-so-new feature #6: Jihad vs. McWorld...
+>
+> Not-so-new feature #7: The Twilight of Sovereignty..." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "With the coming of TV, the computer, the microcomputer, and allied technologies, this century has seen breakthroughs in information technology that rival all past such breakthroughs, even the inventions of writing, money, and the printing press. Given the centrality of information technology to non-zero-sumness, and the centrality of non-zero-sumness to social structure, is it possible that we are passing through a true threshold, a change as basic as the transitions from hunter-gatherer village to chiefdom, from chiefdom to ancient state?
+>
+> And if so, what lies on the other side? Is it the promised land? After eons of oppression can liberty at last blossom worldwide? After millennia of mindless strife can there be peace?...
+>
+> For the basic arrow of history—the conversion of non-zero-sumness into sums that are on balance positive, and the attendant creation of yet more non-zero-sumness—does seem to have entailed a certain kind of moral progress. By this I don’t mean that savages are savage, barbarians barbaric, and civilized peoples civilized. Indeed, it would be hard to argue that there was net moral gain between the hunter-gatherer and ancient-state phases of cultural evolution. The Egyptians had slaves—which virtually no known hunter-gatherer societies had—and their soldiers returned from wars of conquest proudly brandishing the severed penises of slain foes." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "As we’ve seen, in the process of expanding, non-zero-sumness has brought not only more respect for more people, but more liberty for more people. The point isn’t just—as such thinkers as Adam Smith have been saying since the eighteenth century—that free markets are best operated by free minds. The point is that the ongoing evolution of information technology heightens this synergy, underscores it, makes it something rulers can less and less afford to ignore.
+>
+> The world remains in many ways a horribly immoral place by almost anyone’s standard. Still, the standards we apply now are much tougher than the standards of old." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
 > "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
 
 > "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
