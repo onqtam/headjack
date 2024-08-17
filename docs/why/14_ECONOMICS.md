@@ -159,6 +159,8 @@ What if we can reward associating with the right forces so that employees pick t
 what if not advertisers could buycott platforms, but users could collectively boycott advertisers? What if we reject crap products, ads & ideologies?
 
 Another collective action problem: the right to repair - should stigmatise companies for this
+How Companies Profit off Unfixable Devices (ft. Louis Rossmann)
+https://www.youtube.com/watch?v=6IZe7KjIJg4
 
 Credentialed expression rights - we should demand that companies give us credentials for this new sensemaking & governance infrastructure
 The right to credentialed expression
