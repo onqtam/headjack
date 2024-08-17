@@ -228,9 +228,13 @@ Not everything has to make a profit - we can and should think of what truly need
 
 “The best that money can’t buy” - book by Jacque Fresco (RIP) but reusing it - we need to design status games such that you can’t buy your way in
 
+Artificial/engineered non-fungible scarcity but not for diamonds but for social standing
+
+
 property rights
 
 > "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
+
 
 
 
