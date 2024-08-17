@@ -1269,6 +1269,34 @@ the whole of chapter 4 "the invisible brain" is a worthy quote
 
 > "In biological evolution, as in cultural evolution, Kant’s “unsocial sociability” is a recurring theme. Indeed, “unsociality”—that’s a polite way of putting it, actually—is central to natural selection: organisms vie for finite resources, and the losers slip from the pages of history. And the “slipping” assumes such forms as starvation, disease, and getting devoured. Natural selection creates by discarding, and it doesn’t discard gently." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
 
+> "Did basic properties of natural selection make it very likely that someday some animal would be smart enough to invent neat gadgets? And figure out that the earth revolves around the sun? And ponder the mind-body problem? Does biological evolution intrinsically favor the growth of biological complexity—including behavioral flexibility, and its underpinning, intelligence? Is this biological “progress” somehow natural?
+>
+> It has long been unfashionable to answer yes. One big reason is the same big reason that made belief in directional cultural evolution so unfashionable: past political misuse.
+>
+> Early this century, biological progressivism was dear to the hearts of “social Darwinists,” who used it to justify things like racism, imperialism, and laissez-faire indifference to poverty. The logic behind social Darwinism—to the extent that it had a coherent logic—was something like the following: The suffering, even death, of the weak at the hands of the strong is an example of “survival of the fittest.” And the “survival of the fittest” has God’s blessing. And how do we know that the “survival of the fittest” has God’s blessing? Because He built the dynamic into His great creative process, natural selection. And how do we know that natural selection is God’s handiwork? Because of its inexorable tendency to create organisms as majestic as ourselves, organisms worthy of admission to heaven! In short, biological progressivism was used to deify nature in all its aspects, and nature, thus deified, was invoked in support of oppression.
+>
+> ... the fact that an academic proposition can be misused doesn’t mean it’s not true." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "Gould writes: “The vaunted progress of life is really random motion away from simple beginnings, not directed impetus toward inherently advantageous complexity.”
+>
+> Again, as with Gould’s emphasis on stagnant “modal” complexity, one might ask how much this argument really matters for philosophical purposes. The question behind this whole exercise, remember, is whether the evolution of something as smart and complex as us was very likely. If the combination of a “random walk” and a “wall of zero complexity” leads people to conclude that the answer is yes, then, well, their answer is yes. If, as Gould fears, people are inclined to take a “yes” answer as evidence of higher purpose, they probably aren’t going to be too picky about the exact type of “yes.” God, they will say, works in strange and wondrous ways.
+>
+> Still, the more factors favoring the evolution of complexity, the more irresistible the “yes” answer is—the more likely evolution was to eventually reach a human level of intelligence. So it’s worth seeing if Gould is somehow overlooking “non-random” factors that are conducive to complexity. He is. They fall under the rubric of “positive feedback”—the evolution of complexity strengthens the logic behind the evolution of complexity, which strengthens the logic behind the evolution of complexity … and so on." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "Over the past two decades, various prominent biologists—Richard Dawkins, John Tyler Bonner—have noted how arms races favor the evolution of complexity. Gould, in the course of a two-volume meditation on the evolution of complexity, doesn’t mention the phenomenon." - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
+> "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
+
 > "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
 
 > "" - [Nonzero: The Logic of Human Destiny, by Robert Wright](https://www.goodreads.com/book/show/9526993-nonzero)
