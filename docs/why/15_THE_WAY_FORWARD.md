@@ -1239,6 +1239,11 @@ Emergentism emphasizes the teleological emergence of consciousness out of matter
 
 
 
+> "Any sufficiently advanced technology is indistinguishable from magic." - [Arthur C. Clarke](https://www.goodreads.com/quotes/14885-any-sufficiently-advanced-technology-is-indistinguishable-from-magic)
+Any sufficiently advanced social technology is indistinguishable from God.
+
+> "It may be that our role on this planet is not to worship God--but to create him." - [Arthur C. Clarke](https://www.goodreads.com/quotes/22829-it-may-be-that-our-role-on-this-planet-is)
+
 
 If Brendan Graham Dempsey' Emergentism & Alexander Bard's Syntheism had a baby
 
@@ -1251,6 +1256,10 @@ If Brendan Graham Dempsey' Emergentism & Alexander Bard's Syntheism had a baby
 > "" - [Brendan Graham Dempsey]()
 
 > "" - [Brendan Graham Dempsey]()
+
+
+
+
 
 
 
