@@ -1391,6 +1391,95 @@ the whole of chapter 4 "the invisible brain" is a worthy quote
 
 
 
+> "Today, we lose more people to despair than to natural disasters, conflicts, and war—combined. For the first time in human history, you, reader, are more likely to die due to the emptiness in your heart than the emptiness in your stomach." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "Culture is not just something we passively experience, but also something we actively influence. The sociological categories themselves are thus, in a real way, up for re-conception and re-invention. Government, economics, education, and yes, even religion are social structures and systems whose parameters should not be taken as immutable givens but, within reason, and subject to constraints, be up for redesign. Jamie Wheal calls such work “culture architecture.” I tend to think of it as “civilizational design,” wherein culture-artists develop new ways of living and being for a world so urgently in need of new possibilities." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "While only 10 years ago it would have sounded utterly preposterous to be talking in terms of architecting new religions and co-creating worldviews, today these sorts of projects are at the cutting edge of systems change activism and civilizational design. More and more, people are realizing that to fix the unimaginably knotty problems our society faces requires intervention at levels never before imagined. Fortunately, as our problems become more profound, so does the leading edge of our thought, so that even as we grapple with the prospect of global civilizational breakdown and climatological catastrophe, we also have the conceptual tools to develop new spiritual frameworks and even whole worldviews that can meet these existential challenges head-on." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "So, what is Emergentism, exactly? Well, let’s start with the name. The concept of “emergence” and “emergent properties” has become crucial to the new science I have been referring to—nowadays known simply as “complexity science.” The basic idea is that, as things become more and more complex, completely novel and unpredictable phenomena arise—entirely new layers of reality, in fact, which behave according to their own laws and principles. These new levels are said to “emerge” out of interactions occurring lower down, and so possess their own unique “emergent properties” not reducible to their parts." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "According to the cosmology of the new science, consciousness itself is what has been breaking forth from its concealment in mere matter. The evolution of the cosmos has been unfolding so as to bring forth self-awareness and self-knowledge. The universe itself is waking up—including waking up to this very realization (through us). For we are that consciousness." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "A worldview with a broken sense of how parts relate to wholes can break our relationship to the whole world. And isn’t that precisely what has happened?
+>
+> Consider, for instance, that meaning itself is a whole-part relationship. For something to have meaning, it must be a means—that is, it must exist for something else, as a means to something else. It must have a causal significance, we would say, in something “bigger” than itself.
+>
+> ...
+>
+> If, then, our sense of the relationship between parts and wholes becomes corrupted, we are at risk of losing our very sense of meaning itself—just as, in fact, we have done. We have become parts without a whole, at the same time that we cannot even claim to be whole ourselves." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "The world, we all know, is immensely complex. The word “complex” comes from Latin and means “woven together.” And that is indeed an apt metaphor, since all you have to do is look around you to see the countless varied phenomena endlessly interacting, intermingling, and interrelating in infinite combinations." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "This is how we’ve come to use rationality to analyze the world. The word “analyze” means, literally, “to break apart.” By breaking the world into its parts and assessing each one in isolation, the early modern scientists hoped to gain an understanding of how the whole loaf of reality works.
+>
+> And, in countless crucial ways, they did! The astonishing triumph of modern science (as well as its limiting weakness, as we’ll see) lay in this: its isolation of the part from the whole." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "Everything could—or would—be explained by simple material part-icles in motion: a metaphysical framework known as materialism.
+>
+> Thus, with the triumph of reductionism, the entire religious edifice of tradition cracked, its metaphysical Great Chain and cosmic story rapidly eroding. In its place was modernity’s new worldview—with its own metaphysics and unnerving new narrative.
+>
+> This metaphysical framework was valueless. The hierarchy of reality was not organized by good and evil, only size—and the smallest parts were the most important. There was no personal God, only deterministic laws that govern the universe—and these were as indifferent to humans’ existential lot as any machine. Whatever could not be described in terms of fundamental particles in motion was either a fiction or an illusion.
+>
+> The cosmic story of this worldview was, as a consequence, radically different from that of traditional religion. Having stripped a benevolent God of any causal power, there was no providential “creation” per se; the universe just was (and presumably always was; or, if it did have a beginning, arose from chance).
+>
+> There was no divine drama or omniscient Plan. Human beings, and all life, were essentially just complicated machines, governed not by their agency but by their constituent parts following deterministic paths through space. And just as there is no meaning to turning gears or pumps, neither is there any meaning, ultimately, to human life.
+>
+> In this way, it should be clear that reductionism was what first sowed the seeds of our contemporary meaning crisis. With the rise of modern reductionistic science, humanity’s role in a divine saga was lost, and the perceived whole of conscious human life itself was reduced to its smallest parts—where one no longer finds any meaning, only law.
+>
+> This idea continues to reverberate and resonate today. Millions of despairing souls still believe it—and it is driving them to the nihilistic conclusions nascent in it. Until, at last, here we are: We have become parts without a whole, at the same time that we cannot even claim to be whole ourselves.
+>
+> Our lives lack the larger context of a cosmic story in which we play an important causal role. Nor can we even claim to be genuine agents with volitional integrity, since our wills and even our conscious awareness itself are merely “epi-phenomenal” illusions: vestigial byproducts of particles acting in deterministic fashion deeper down." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "But things become more problematic with the second law, likewise deduced from observation, which says that the total energy in the system will gradually and irrevocably dissipate until a homogenous equilibrium state is reached. Differences even out, distinctions blur, and gradients are eradicated over time.
+>
+> Think what happens when you add hot water to a thermos of cold water. That energetic hot water won’t stay all clumped together in one place; instead, the heat will spread out (or “dissipate”) until all the water in the thermos finally becomes one uniform temperature. This is called “entropy,” and the second law asserts that free energy is always being entropically dissipated over time—degraded, you could say, until eventually it’s totally useless and the system reaches a uniform, featureless balance: equilibrium.
+>
+> This insight created a big problem for the conception of Newtonian reality as particles in motion whose future and past states could all be predicted with deterministic certitude. Instead of being able to deduce it, once something reaches equilibrium it’s impossible to know its earlier state (AKA its “initial conditions”). You can’t deduce from a warm thermos that there was ever hot water of a certain temperature added to cold water of a certain temperature; all of that information is lost once the temperatures mix due to entropy.
+>
+> The laws of Newtonian physics were completely reversible. Gravity might bring a rock down, but enough force against gravity could throw a rock right back up again. The laws of thermodynamics, by contrast, had a clear irreversible trajectory. The hot and cold water will mix spontaneously over time, but trying to separate them again requires a lot of energy—free energy that no longer exists in the system, precisely because it’s been dissipated.
+>
+> In short, according to Newton’s laws, time was negligible; according to the laws of thermodynamics, however, time has a clear direction. It gives us what Arthur Eddington famously called the “arrow of time.” And, according to the laws of thermodynamics, that arrow seemed to move only one way: from a gradient to equilibrium, from difference to sameness, from distinct order to jumbled chaos. According to the second law, entropy in a closed system can only increase, suggesting the universe itself must be like an engine irrevocably running out of fuel, destined for dissolution and death.
+>
+> At least, that was how its cosmic implications came to be interpreted by an increasingly modernized world. Primed to imagine life as a meaningless accident in an indifferent cosmos, this discovery fell comfortably in line with the grim reductionist worldview—even though it actually flew in the face of the scientific reductionism that had helped found that worldview (and would eventually help overthrow it entirely—something we’ll come back to)." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "Reductionist science—along with nihilistic interpretations of thermodynamics and evolution—had fundamentally changed people’s perspective regarding the part that humans played in the cosmic whole, leading them to no longer see themselves as agential wholes but only deterministic meat-suits moving through space.
+>
+> As a consequence, people today who feel they know a thing or two (and likely find themselves in positions of power) can, as we said, confidently assert: Life’s just a cosmic accident; the fit survive by preying on the weak and stupid; morality’s a fairy tale invented to keep people in line; and, sooner or later, the sun will explode, the universe will end in heat death, and none of this dazzling sound and fury will have meant a goddamn thing—so why not live it up while we can? By the early 20th century, all of the ingredients for the meaning crisis were firmly in place.
+>
+> As it turns out, however, this nihilistic worldview is actually… well… just simply wrong. It is based on contradictions, incomplete science, and unjustified extrapolations—failures that the new science has since begun to correct, but which nevertheless still hold sway in the public imagination. Let’s unpack this and, in the process, introduce the new science of complexity.
+>
+> First of all, the classical reductionism of Newtonian physics was reversible; it didn’t matter in which direction you “ran the tape”—backwards or forwards—everything was just a matter of deterministic particles in motion.
+>
+> However, both thermodynamics and evolution were different. They presented a model of reality quite contrary to this idea, with laws that had a direction. Entropy demanded a distinct “arrow of time,” and descent with modification meant that life was growing more and more varied with time.
+>
+> Thus, despite being subsumed into the bleak modern worldview, these paradigms seemed to contradict some of its founding assumptions.
+>
+> But if this were true, and the universe was irreversibly unfolding in some particular direction, which direction was it? Thermodynamics and evolution glaringly contradicted one another on this crucial point. One suggested the world was losing its usable energy and winding down towards the simple uniformity and homogeneity of equilibrium; the other, that the world was becoming ever more differentiated and elaborately structured—even in a “progress towards perfection.”
+>
+> Well, which was it? Chaos or order? Inert sameness or dynamic novelty? What was the true ending to the cosmic story science was telling?
+>
+> The resolution of this conundrum would only come with the transcendence of the reductionist paradigm altogether—a process set in motion towards the end of the 19th century, and only fully realized quite recently." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+
+
+
+
+
+
+
 
 
 
