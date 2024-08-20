@@ -1461,7 +1461,63 @@ the whole of chapter 4 "the invisible brain" is a worthy quote
 >
 > The resolution of this conundrum would only come with the transcendence of the reductionist paradigm altogether—a process set in motion towards the end of the 19th century, and only fully realized quite recently." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+> "Reductionism, and the worldview it gave rise to, are predicated on the idea that we can understand reality best by isolating parts from the whole. By first analyzing the components, thought the pioneers of modern science, we can then work our way up to an understanding of the totality—because, after all, isn’t the whole just a sum of its parts?
+>
+> Well, it just so happens: Nope, it’s not. It’s really, really not. We know now something that the early scientists didn’t (and couldn’t): that when it comes to the more complex realities of nature, it’s not just about the parts and how they work by themselves. It’s just as much—if not more—about how the parts relate to one another.
+>
+> Wholes are made not only of parts, but of the relations of those parts. How one part works in concert with another part, and that one with another, and all of them together—those are dynamics that matter as much as the stuff of the parts themselves. Wholes aren’t just things—they’re also processes." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "Life had escaped understanding in terms of classical physics precisely because it was, contrary to the “isolated systems” studied in fields like thermodynamics, connected to and in direct relationship with its environment by flows of matter and energy.
+>
+> All of this would eventually lead to a truly revolutionary discovery—beginning a whole new field called non-equilibrium thermodynamics—which would contribute immensely to a radical re-conception of how energy behaves, and thus how life itself emerges and operates.
+>
+> ...
+>
+> But, Prigogine wondered, what if the system isn’t closed, but opened up to a flow of energy? That is, let’s say we’re not looking at water in a closed thermos anymore, but a pan of water over a lit stove. How does the system behave now?
+>
+> Simple as the idea was, the results were truly extraordinary. For, rather than spontaneously dissolving towards the disorder of equilibrium, the water in this scenario does the opposite: it spontaneously self-organizes, and structure emerges!
+>
+> Structures like this (called Bénard cells, after their original discoverer Henri Bénard) arise naturally, fueled by the energy flowing into the system. In fact—and here’s the amazing part—they arise precisely in order to dissipate that energy and generate the entropy demanded by the second law of thermodynamics! They emerge naturally because such configurations are simply more efficient at producing that entropy than more chaotic, disordered ones.
+>
+> A much more familiar example of such a dissipative structure (as Prigogine called them) is the whirlpool that appears in your bathtub when you pull the stopper. This highly ordered spiral gyre emerges naturally and spontaneously as the result of countless water molecules self-organizing. Why? Because such a configuration actually allows the water to drain faster.
+>
+> The natural tendency of the universe to seek balance and equilibrium can actually propel systems to become temporarily more ordered to achieve this end. That is, the same law that drives closed systems towards disorder and equilibrium actually drives open systems to generate order and complexity—and to remain “far from equilibrium,” in fact, as long as that flow of energy into the system persists.
+>
+> If this dynamic sounds familiar, it should. This is precisely the way that all living organisms operate, too! For life to accomplish all of the complex processes it must perform to resist entropy and stay highly ordered, it must be continually taking in new energy sources to metabolize.
+>
+> Or, in terms more familiar to us: If you don’t eat, you die. Life is always in relational exchange with its environment—a complex, open system, in which the second law operates to facilitate self-organization, keeping it far from equilibrium (i.e., death)." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "Based on such discoveries, an additional law of thermodynamics has been proposed (first by Alfred Lotka and later by H. T. Odum) that includes the evolutionary implications of energy: “During self-organization, system designs develop and prevail that maximize power intake, energy transformation, and those uses that reinforce production and efficiency.”
+>
+> Energy self-organizes matter into life, and life self-organizes by maximizing energy. Or, as complexity scientist Harold Morowitz put it, “The energy that flows through a system acts to organize that system.”
+>
+> In this way, the dynamics of life became considerably clearer—not by looking at smaller and smaller parts (the way reductionism sought—and failed—to make sense of things), but by considering precisely the opposite: the relationship with the broader whole in which parts are embedded.
+>
+> More than that, a consideration of how the whole is changing can inform our understanding of the parts. In this case, the whole is the universe itself and the parts are everything in it. The fact that the universe as a whole is expanding means that the second law does not require that everything one day end in heat death. This assumption was likely far too hasty. The great complexity scientist Stuart Kauffman summarizes this point in reassuring terms in his 2016 book Humanity in a Creative Universe:
+>
+> 'The second law says free energy is running down. But we know now that the expansion of the universe is accelerating due to the mysterious dark energy that comprises about 70 percent of the energy of the entire universe. The implications of this accelerating expansion is that we do not have to worry about enough free energy. As the universe becomes larger, its maximum entropy increases faster than the loss of free energy by the second law, so there is always more than enough free energy to do work.'
+>
+> The takeaway? The initial conclusions scientists had drawn from the laws of thermodynamics were wrong: the universe was not destined only to grow more and more disordered with time. That idea arose on the false assumption that isolated systems could tell us everything we needed to know about energy." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "This self-organizing dynamic is a naturally cumulative, snowballing process that keeps building on itself—a process Prigogine called “order through fluctuation.” As energy pushes open systems farther from equilibrium, fluctuations in the energized system lead to threshold “bifurcation points,” at which the system is presented with novel, higher-order configurations as potential next stages of its evolution." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "Evolution had suggested an increase in novelty, diversity, and complexity; now, thermodynamics agreed. More than that, it actually helped explain why and how complexification occurs, by linking the evolutionary process to free energy and emergent self-organization.
+>
+> In this way, evolutionary development was no longer something unique to life, but a process that could be expanded to include less complex matter, too. In his book Cosmic Evolution: The Rise of Complexity in Nature, Eric Chaisson writes:
+>
+> 'Life is an open, coherent, spacetime structure maintained far from thermodynamic equilibrium by a flow of energy through it—a carbon-based system operating in a water-based medium, with higher forms metabolizing oxygen. Although the second part of this definition pertains to the living state as we know it, the first part could well apply to a galaxy, star, or planet… And that is the crux of our argument: Life likely differs from the rest of clumped matter only in degree, not in kind.'
+>
+> The degree to which it differs is one of complexity—for which Chaisson employs a specific metric, one that can be used to measure the complexity of anything from stars to living organisms: free energy rate density.
+>
+> As systems theorist Ervin László summarizes it in his pioneering book Evolution: The Grand Synthesis:
+>
+> 'Free-energy flux density is a measure of the free energy per unit of time per unit of mass: for example, erg/second/gram. A complex chemical system retains more of this factor than a monatomic gas; a living system retains more than a complex chemical system. This indicates a basic direction of evolution, an overarching sweep that, together with the decrease of entropy and of equilibrium, defines the arrow of time in the physical as well as in the biological and the social world.'
+>
+> Free energy flows through systems, organizing them into more orderly configurations. Order builds upon order, and complexity mounts—until whole new emergent levels appear, like life from matter. In this way, complexity is really just a measure of how energy organizes matter—something it has been doing to exponentially greater degrees as time passes." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "something else emerges: agency. Work by complexity researchers like Sara Walker, George Ellis, Giulio Tononi, Erik Hoel, and others has shed considerable light on the way more complex organisms come to exhibit causal power on their lower-level constituent parts. Such causal emergence repudiates the old deterministic account of organisms as being nothing but particles in motion. Rather, it shows that information generated at higher levels can have a causal effect on its material substrate. In this way, there is not only “bottom-up” causation from particles, but also “top-down” causation, as information encoded in patterns of organization at the macro-level works to direct material particles at the micro-level towards specific states and goals.
+>
+> Such causal emergence appears for the first time in earnest with the origin of life, as information in the genome is able to supervene over the molecular and atomic level, leveraging the parts towards the aims of the biological whole. This sort of agency gains entirely new levels of causal freedom and power, however, with the rise of more complex minded animals. In this way, the self-consciousness such as human beings exhibit can be understood as a uniquely complex form of causal emergence, whereby activity at the mental level exerts itself over and above the activity of the body. In this way, the will itself emerges. We are, then, not just determined automatons the way reductionists like Laplace envisioned, but genuinely free agents with self-determination, whose choices matter." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
 > "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
@@ -1473,7 +1529,13 @@ the whole of chapter 4 "the invisible brain" is a worthy quote
 
 > "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+
+^^ make a note about this book - where to focus on the notes the next time around
 
 
 

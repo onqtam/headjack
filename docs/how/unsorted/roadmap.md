@@ -82,6 +82,8 @@ A public list of who has signed up for this system
 
 summoning the GB as a ritual - until self-reference is achieved ala Hofstadter's strange loop thingie
 
+Public tweeting of claiming to want to sign up in the system - and rewarding you for being early. Telling your friends to also read it and tweet it is a competitive advantage - it is a form of caring to share with your friends to be early in the next game of humanity
+
 > "My number one predictor of whether or not a company will find product-market fit: High shipping cadence." - [Naval Ravikant](https://x.com/naval/status/1128346098362281984)
 
 

@@ -1,7 +1,5 @@
 # FAQ
 
-> "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
-
 ## Is this a revolution?
 
 Yes
@@ -27,8 +25,15 @@ Communism ignored human nature - this embraces it. This is infinitely more sophi
 
 
 
-## Will this work?
+## This can't possibly work!
 
-No clue. But what we can say with 100% confidence that we must try to create a better system than the current one.
+> "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
+
+Will this work? No clue. But what we can say with 100% confidence that we must try to create a better system than the current one.
+
+## TL;DR?
+
+The later you read this the more of a laggard you will be - this system is inevitable
+
 
 

@@ -357,6 +357,11 @@ Explore more the perverse incentive to keep a company alive and growing - planne
 
 The global common special economic zone
 
+1 dollar 1 vote enables the rich to choose the winners that benefit them
+
+Collectively engineered social scarcity
+
+We use/consume less and give & produce more & are even happier while doing it.
 
 
 
