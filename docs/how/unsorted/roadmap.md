@@ -177,3 +177,55 @@ In parallel:
     A for-profit Twitter clone utilizing the core
     Other types of for-profit applications - unpinch?
     Talking to other platforms & partnerships - Odysee, etc.
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: STONE TABLET IPFS CID HASH OF BOOK
+██████████████████████████████████████████████████████████████████
+
+
+> "Behind this *~~mask~~* **hash** there is more than just *~~flesh~~* **words**. Beneath this *~~mask~~* **hash** there is an idea... and ideas are bulletproof." - [V](https://www.goodreads.com/quotes/102108-behind-this-mask-there-is-more-than-just-flesh-beneath), probably
+
+Prev:
+Block hash of “on brink of second bailout for banks”
+0x000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+https://en.bitcoin.it/wiki/Genesis_block
+
+The two genesis “blocks”/CIDs
+Genesis pair
+Genesis triplet
+
+Timestamp the stone tablet selfie as an NFT with a 5-10% royalty on each resale
+ConstitutionDAO raised 47$ million - this could eventually top that
+
+Unfortunately (or perhaps fortunately) hash chains cannot be self-referential and have loops
+
+also put the bitcoin genesis block hash on there with 15 or 16 AS (after satoshi)
+
+The story of the story is the story
+https://twitter.com/niraj/status/1760004892008251670
+Evolution is the story
+This book contains the full history and evolution of a stream of consciousness dumped in a text editor and git
+
+> "We are not arguing that Bitcoin is infallible. We are arguing that it is the best technology yet invented for recording human history. And if the concept of cryptocurrency can endure past the invention of quantum decryption, we will likely think of the beginning of cryptographically verifiable history as on par with the beginning of written history millennia ago. Future societies may think of the year 2022 AD as the year 13 AS, with “After Satoshi” as the new “Anno Domini,” and the [block clock](https://blockclockmini.com/) as the new universal time." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=we%20are%20not,new%20universal%20time.)
+
+Humanity’s constitution of the 21st century is the global brain as a participatory social system - if the constitutionDAO raised 40 mil then this ought to deserve at least 10 mil even in the early stages
+And unlike the constitution there will only be one copy of this NFT - just one.
+The american constitution is in the process of crumbling under the weight of exponential complexity and entropy - what’s the price of a 0-to-1 upgrade of it that encompasses all of humanity and is unique?
+
+Hash the book and put it on the stone tablet - then hash the photo and put its hash on. The blockchain
+
+██████ The 10 themes of the Global Brain:
+
+- 1) EPISTEMICS - humility, error correction & Bayesian inference
+- 2) INFORMATION - transparency, openness, provenance & integration
+- 3) STRUCTURE - self-organization, emergence & subsidiarity
+- 4) ALIGNMENT - incentives, reputation & consequence capture
+- 5) DECISIONS - relevance realization & collective intelligence
+- 6) ATTENTION - availability cascades & The Medium is the Message
+- 7) SYSTEMICS - complexity, feedback, causality & adaptation
+- 8) MEANING - shared intentionality, service & beating entropy
+- 9) DIRECTION - greater scales of cooperation & evolvability
+- 10) TRANSCENDENCE - Know Thyself & conscious evolution
+
