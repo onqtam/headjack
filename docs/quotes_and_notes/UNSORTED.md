@@ -12,6 +12,10 @@
 
 
 
+> "Metamodernism ... is a cultural logic that can reflect on the cultural logic of cultural logics. It reflexively reflects on its capacity to reflexively reflect on reflection." - [Brendan Graham Dempsey](https://brendangrahamdempsey.substack.com/p/what-is-metamodernism#:~:text=Metamodernism%2C%20you%20could%20say%2C%20is%20a%20cultural%20logic%20that%20can%20reflect%20on%20the%20cultural%20logic%20of%20cultural%20logics.%20It%20reflexively%20reflects%20on%20its%20capacity%20to%20reflexively%20reflect%20on%20reflection.)
+
+
+
 > "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
 
 
@@ -4043,6 +4047,9 @@ What’s proposed here is kryptonite more for China than the West.
 
 The final major evolutionary transition
 
+
+Broken integration of information - example: book reviews - why can't I easily see that Brendan (someone who I follow) has reviewed this book when I go to goodreads or amazon?
+https://www.brendangrahamdempsey.com/post/reflections-on-the-dawn-of-everything
 
 
 

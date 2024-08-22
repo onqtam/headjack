@@ -227,19 +227,6 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "A meaning as psychologically fulfilling as traditionalist mythology, as accurate and dependable as modern science, and as social-contextually aware as postmodern critique. Such a paradigm strikes me as the natural end of a distinctly metamodern spirituality, a framework for exploring our ultimate concerns as humans." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/metamodern-spirituality-and-the-meaning-crisis#:~:text=a%20meaning%20as,concerns%20as%20humans)
 
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
-
-
 The 4 horseman of nihilism, meaninglessness, despair & learned helplessness:
 - current mainstream zeitgeist about the second law of thermodynamics
 - Reductionism - no free will, deterministic clockwork universe
@@ -403,6 +390,10 @@ https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doo
 > "If you truly loved yourself, you could never hurt another." - [Gautama Buddha](https://www.goodreads.com/quotes/40567-if-you-truly-loved-yourself-you-could-never-hurt-another)
 
 > "The Buddha said anger has a “poisoned root and honeyed tip”." - [Robert Wright](https://www.goodreads.com/quotes/9331529-the-buddha-said-anger-has-a-poisoned-root-and-honeyed)
+
+
+
+
 
 
 ██████████████████████████████████████████████████████████████████

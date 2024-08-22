@@ -232,3 +232,10 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 > "Human status is acquired within the context of a social exchange contract of service-for-prestige, which stipulates that group members will allocate greater status to individuals to the extent that they generate beneﬁts for the community and its members. If high-ranking individuals fail to generate suﬃcient beneﬁts to deserve their status, other group members can easily depose them through coalitional action. Thus, to an unprecedented degree among the apes, the acquisition and maintenance of status by ancestral humans was dependent upon the extent to which an individual's perceived contributions to a community were intrinsically valued by others." - [Pride and shame: Key components of a culturally universal status management system](https://labs.la.utexas.edu/buss/files/2019/08/pride-and-shame-EHB-2019.pdf)
 
 
+
+
+
+
+
+
+
