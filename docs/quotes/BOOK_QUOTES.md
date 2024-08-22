@@ -1579,11 +1579,17 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "This scientific revolution has allowed us to understand far more accurately aspects of what our religious forebears partially intuited, so that we can now re-integrate our findings into a comprehensive vision of the full richness of reality. When we do this, we are confronted with a truly remarkable vision. The cosmos is indeed organized according to a graded, hierarchical sequence. However, this sequence is arranged according to complexity. All its levels are made of the same basic stuff, and the scale unfolds through time, endlessly evolving and developing on its way towards an infinitely receding realization of perfection." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+> "Religion is ultimately meaningless if it doesn’t affect how people live in the real world. It’s one thing to know, it’s another to do, and taking cosmic complexification seriously has a plethora of transformational implications for how we ought to be showing up in the world. Wisdom informs action. Hence the second meaning of religio: “observance,” as in “observing one’s duties/responsibilities”; the etymological opposite of the word “neglect.” Religion means living your beliefs." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+> "Simply put, Emergentist spiritual practice is about conscious participation in the awakening of the Universe.
+>
+> That means taking responsibility for ourselves as self-conscious agents, and directing our powers to intentionally raise the level of complexity-consciousness in ourselves, in others, and in the cosmos as a whole—ultimately, toward the realization that these are all the same." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+> "How might we amplify and assist the increase in order vs. chaos, vitality vs. decay, pleasure vs. pain, and Self-knowledge vs. ignorance? To develop a personal ecology of practices that succeeds in these endeavors would mean that we are consciously aiding the Universe in its own journey of awakening. We are the Self-consciousness of the Universe; our spiritual journey is God’s spiritual journey.
+>
+> ...
+>
+> From atoms to cells to moving bodies to symbolically-mediated self-consciousnesses, we have the Universe inside us. We must tend to all levels of the Wisdom Stack, then, if we are to be maximally integrated beings. And only as such integrated beings will we be ready and responsible to rise still further, through the next emergence on the horizon, towards our divine calling. For, ultimately, we must follow this trajectory to its true telos: an awakening to God consciousness, wherein we experience the true mystical union—subject with object, self with Self, that we might say “I AM,” knowing we are God, we are the Universe, we are Everything—the true Whole." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
 > "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
@@ -1613,17 +1619,25 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 >
 > ...
 >
-> Matter emerged out of the haze, and gravity condensed it into clumps. Nature retained these clumps, which became stars and black holes swirling galaxies around them. Planets emerged, turning around the stars turning around the galaxies. Dissipative adaption built on dissipative adaptation, as energy organized what it flowed through. Life clicked on, and learned its environment through ever-updating genetic code. Elaborate nervous systems networked sensory input together into an integrated whole, and Mind emerged to learn its environment through ever-updating experience. Mind complexified, gaining the capacity for language and concept, wherein self-consciousness clicked on, and Culture began its long journey of psycho-social memetic complexification." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+> Matter emerged out of the haze, and gravity condensed it into clumps. Nature retained these clumps, which became stars and black holes swirling galaxies around them. Planets emerged, turning around the stars turning around the galaxies. Dissipative adaption built on dissipative adaptation, as energy organized what it flowed through. Life clicked on, and learned its environment through ever-updating genetic code. Elaborate nervous systems networked sensory input together into an integrated whole, and Mind emerged to learn its environment through ever-updating experience. Mind complexified, gaining the capacity for language and concept, wherein self-consciousness clicked on, and Culture began its long journey of psycho-social memetic complexification.
+>
+> In the course of this cultural evolution through the shapes of consciousness and their associated metamemes, Culture refined its own knowledge-creation process, eventually hitting on science, a human epistemological version of the Great Algorithm of variation and selective retention. With this, it began the above-mentioned differentiation and integration process, distinguishing Nature’s many parts before realizing their emergent holistic levels of holarchic order.
+>
+> Culturally, this is where we find ourselves today: between the Great Tearing Apart and the Great Re-Integration. Many people remain stuck in the fragmentation of 3D consciousness and its Modern reductionistic narrative, gripped by nihilism. Others recoil from this, and seek out the comforts of old 2D religion, with the old mythic God above and Judgment Day ahead. Those who have developed a 4D perspective can see the limitations of traditional religion as well as the modern world we’ve made, but often fall victim to the radical relativism of endless contextualization, or themselves recoil to the naive belief that 0D animism is what holds the key for all our ills.
+>
+> What is really needed, though, is to keep going forward, to keep evolving—to complete the integration phase, wherein we regain a holistic framework required for a meaningful existence and thus a sustainable world. The new cosmic story revealed by the unifying, integrative visions from complexity science will be key to this fruition." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
-^^ make a note about this book - where to focus on the notes the next time around
+> "We need a Religion 2.0 that has learned from the failures and limitations of Religion 1.0: namely, its dogmatic rigidity, censorship, oppressive power hierarchies, denigration of the body and the Other. We need a religion that’s open, up to date, and ethical. In short, we need a religion that works.
+>
+> Clearly, we must get ourselves right with purpose if we’re to survive an Anthropocene era. To use the language of systems analysis, we must find the “leverage points” for systems-level change, the points where solutions can be applied with maximal effect. And in a complex sociocultural system, where else is such an Archimedean Point to be found but in people’s beliefs—in their psychic orientations to reality, their foundational philosophies and unspoken axioms about the world? An intervention at this fundamental level for individuals can have vast, cascading effects on the larger systems they inhabit. Could Emergentism provide such a lever?
+>
+> The sort of “religion that’s not a religion” explored in this book is not just another closed-canon, close-minded set of beliefs either imposed, adopted, or rejected. Emergentism is open-source, co-created, and personally developed. Its cosmic story comes from scientists; its scriptures, from poets and artists. It is a religion of evolution and development by means of evolution and development. It is a religion of knowledge creation, refinement, and correction, and so itself shall be continually refined and corrected according to the same mechanisms the Universe itself has used to gain Self-knowledge since the dawn of time.
+>
+> Today, when people feel increasingly beset by despair and meaninglessness, Emergentism offers the invitation to participate in the manifestation of ultimate knowledge, beauty, power, and goodness in the world. At a time when people feel adrift and lost, without purpose, Emergentism calls us to help God incarnate and thereby realize the very telos of the Universe. At a time when everything feels pointless and nothing seems to matter, we are summoned to an epic cultural project to build the Cathedral of a new worldview, a new religion, a new age and a new Divinity—by means of our own unique and special flavor of individuality.
+>
+> You matter. You are a way for the cosmos to know itself. You are a railway for the cosmic Lightning. You are the very Self of the Universe coming to greater Self-consciousness: God awakening, God learning, God knowing, caring, and loving. You are the latent and creative light of emergence.
+>
+> Emerge." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
 
 
