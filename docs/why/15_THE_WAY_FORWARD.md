@@ -1249,9 +1249,23 @@ If Brendan Graham Dempsey' Emergentism & Alexander Bard's Syntheism had a baby
 
 > "We are all torch-bearers on the road to Omega." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/emergentism-vs-integral-theory#:~:text=We%20are%20all%20torch%2Dbearers%20on%20the%20road%20to%20Omega.)
 
+> "Emergentism emphasizes the teleological emergence of consciousness out of matter. This is the very aim of existence, and the Omega point toward which it is moving is understood as the divine attractor whose continual realization culminates infinitely towards the emergence of God consciousness. God emerges from chaos as an immanent deity. The Universe is the development of God." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/emergentism-vs-integral-theory#:~:text=Emergentism%20emphasizes%20the,development%20of%20God.)
+
 > "After so much deconstruction of traditional religion, we are finally in a place to start putting things back together. “After deconstruction,” say the metamodernists, “comes reconstruction.” And so a metamodern spirituality must indeed approach the task of reconstructing religion. It must build something new. And what it builds must be an efficacious meaningful narrative to meet the urgent demands of the meaning crisis. What might this be? What if it is the co-creation of religion itself? What if people found purpose in the collective endeavor to better imagine spirituality for the world? To salvage God from tradition’s limits and give expression to the sacred in new ways that work? What if the new mythology we need is a myth of God’s coming into being, of God’s becoming, God’s metamorphosis, God’s rebirth? For the old God is dead. But what new God is possible? What God is waiting to be born—by us, through us, by means of us? A life spent in the service of rendering divinity into reality? What more purposeful task could one hope for? Such an idea may sound radical. And yet, it is precisely what the religious deconstructions of modernity and postmodernity have prepared us for." - [Brendan Graham Dempsey](https://youtu.be/szrm_qOpaqs?t=2576)
 
-> "Emergentism emphasizes the teleological emergence of consciousness out of matter. This is the very aim of existence, and the Omega point toward which it is moving is understood as the divine attractor whose continual realization culminates infinitely towards the emergence of God consciousness. God emerges from chaos as an immanent deity. The Universe is the development of God." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/emergentism-vs-integral-theory#:~:text=Emergentism%20emphasizes%20the,development%20of%20God.)
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
 
 > "" - [Brendan Graham Dempsey]()
 

@@ -1591,7 +1591,25 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 >
 > From atoms to cells to moving bodies to symbolically-mediated self-consciousnesses, we have the Universe inside us. We must tend to all levels of the Wisdom Stack, then, if we are to be maximally integrated beings. And only as such integrated beings will we be ready and responsible to rise still further, through the next emergence on the horizon, towards our divine calling. For, ultimately, we must follow this trajectory to its true telos: an awakening to God consciousness, wherein we experience the true mystical union—subject with object, self with Self, that we might say “I AM,” knowing we are God, we are the Universe, we are Everything—the true Whole." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
+> "If the aim of Emergentist spiritual practice is to assist the Universal learning process as it gains more and more Self-knowledge, Culture offers a truly privileged context in which to do so. When we understand what is driving the entire evolution of the Universe itself, something as simple as reading a book gains a whole new metaphysical significance!
+>
+> In broad terms, conceptual learning in all its forms becomes a key spiritual practice. Far from some luxury for intellectuals, education should be the very essence of the spiritual life for all people. This, of course, can take countless forms. But the end goal of all of them is the increase of understanding about how the world works—from physics to chemistry to biology to the social sciences, to our own phenomenological minds.
+>
+> ...
+>
+> Today, education is largely seen as only a practical necessity, something we do to get a good job to pay the bills—or, at best, something we engage in to “better ourselves.” But the intellectual life can also be (and has been) seen as a genuinely spiritual practice. Philosophia, the “love of wisdom,” was no mere academic discipline to the ancient philosophers. From Pythagoras to Plato, Epicurus to Plotinus, philosophy was a total way of life imbued with deep spiritual significance.
+>
+> Today, we would do well to recover this spiritual sense of the life of the mind. For it is no exaggeration to say that our learning is the very means by which suffering decreases, our ability to affect positive change grows, and God comes to manifest in more concrete form.
+>
+> Traditionally religious folks look to their scriptures to understand the nature and workings of God. Emergentists look to books of all kinds. The full story of God is told in physics books and biology books and in the historical records of humanity. Such stuff is not mere trivia; it is the biography of the Universe, it is the sacred history of reality.
+>
+> ...
+>
+> Unfortunately, we are often misled to believe, based on how our institutions are set up, that education ends in early adulthood. One turns a certain age and is no longer deemed a minor; one graduates from school and the reading stops. (According to recent survey data, 42% of college graduates never read another book after college!) But maturation, development, and learning are things that can and should continue throughout our lives.
+>
+> ...
+>
+> Education that is intentionally structured to help the individual progress to the highest shapes of consciousness possible is called Bildung. It is a lifelong process that meets the eternal student where they are at developmentally, with the aim of helping them transcend their unique limitations at every stage." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
 > "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
