@@ -208,6 +208,49 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 <img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
 
+
+> "We live in a world reeling from multiples crises: ecological, political, economic, social. We call this the “meta-crisis.” But there’s another one, what John Vervaeke has dubbed “the meaning crisis,” which I believe undergirds them all, providing this “meta-crisis” its fuel and its inertia. 
+>
+> We live in a meaning crisis, a crisis of meaning at the collective level, which both exacerbates the causes of the meta-crisis while simultaneously keeping us from the kind of cohesive, purposeful vision we might summon to respond to it. 
+>
+> Naïve fundamentalist sureties, and despairing nihilistic apathies everywhere thwart some genuine progress towards regaining our footing in flourishing. Both are direct consequences of the meaning crisis, representing either a reactionary retreat into the secure domain of traditionalism, or the unmoored fall into the abyss of postmodern relativism. Each, in their own way, only adds fuel to the fire of a burning world. It’s my conviction then that, to solve the meta-crisis, we must first solve the meaning crisis. We must get ourselves right with purpose if we’re to survive an Anthropocene era. 
+>
+> To use the language of systems analysis, we must find the ‘leverage points’ for systems-level change. In a complex socio-political system, such an Archimedean Point is to be found, I believe, in people’s beliefs, their psychic orientations to reality, their foundational philosophies and unspoken axioms about the world. An intervention at this fundamental level for individuals can have vast, cascading effects on the larger systems they inhabit. 
+>
+> Thus, if we are to, as the metamodernists winkingly say, “save the world,” we will need to articulate a form of meaning that works again. We will need efficacious meaning to spread, virally, memetically propagating in organic, bottom-up renewal. But, to do this, we must first re-construct meaning after it’s been so precipitously deconstructed." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/metamodern-spirituality-and-the-meaning-crisis#:~:text=We%20live%20in,so%20precipitously%20deconstructed.)
+
+> "Meaning is necessary, absolutely necessary, for human beings. If individuals lose a sense of meaning, the society they comprise will likewise unravel. This is, I believe, precisely what is happening. The death of God, long ago pronounced by Nietzsche, is finally being realized by the rest of us. The shadow of God has finally dimmed. And everywhere, people are waking up to a world they don’t know how to live in, how to make sense of, how to make meaningful. 
+>
+> As an increasingly complex world has occasioned the collapse of both traditional religion and modernity (what Jamie Wheal calls “Meaning 1.0 and 2.0, respectively), it is absolutely vital that we get to reconstructing a new working spiritual framework for human society—what Wheal calls Meaning 3.0, and what I am thinking of as metamodern spirituality. Broadly speaking, that’s the goal. 
+>
+> To achieve it, we’ll need to answer a dauntingly difficult question: how do we preserve that pure, immediate, inspirational and motivational sense of meaning that humans once found through traditional mythology without losing or otherwise abandoning the gains of critical, reflective thought, provided so well by modern and postmodern interrogation? This to me seems to be of the utmost importance, because getting this equation wrong has occasioned so much of the sense-making and meaning-making breakdown we see proliferating all around us, and which continues to threaten the very continuance of human civilization on this planet." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/metamodern-spirituality-and-the-meaning-crisis#:~:text=meaning%20is%20necessary,on%20this%20planet.)
+
+> "A meaning as psychologically fulfilling as traditionalist mythology, as accurate and dependable as modern science, and as social-contextually aware as postmodern critique. Such a paradigm strikes me as the natural end of a distinctly metamodern spirituality, a framework for exploring our ultimate concerns as humans." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/metamodern-spirituality-and-the-meaning-crisis#:~:text=a%20meaning%20as,concerns%20as%20humans)
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+> "" - [Brendan Graham Dempsey]()
+
+
+The 4 horseman of nihilism, meaninglessness, despair & learned helplessness:
+- current mainstream zeitgeist about the second law of thermodynamics
+- Reductionism - no free will, deterministic clockwork universe
+- Lack of direction in evolution & Ignoring the cooperation part of the story in evolution & the selfish gene - fluke accident, chemical scum (hawking quote)
+- bad karma from previous applications of science to social organization (social darwinism)
+- The murder of curiosity and agency in school
+- hyper individuality - a radical separation of the self from the whole - partly a product of reductionism
+
+> "With so clean and rosy picture as that as one’s basis, the modern narrative may indeed seem bleak, dull, and dark by comparison: a incomprehensibly vast, unguided universe of infinite space; everything just atoms in a void; the emergence of life a fluke; its evolution an unseemly narrative of “eat or be eaten”; human suffering without justification, and death, the ultimate end." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/deconstructing-religion#:~:text=With%20so%20clean,the%20ultimate%20end.)
+
+
 we are starved for meaning
 belonging
 significance
@@ -1263,15 +1306,15 @@ https://www.youtube.com/watch?v=szrm_qOpaqs
 
 > "Traditional religion succeeded admirably at telling meaningful stories that helped us orient ourselves and bind together in effective communities. Those stories spoke to the deepest yearnings and aspirations of the human psyche." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reconstructing-religion#:~:text=Traditional%20religion%20succeeded%20admirably%20at%20telling%20meaningful%20stories%20that%20helped%20us%20orient%20ourselves%20and%20bind%20together%20in%20effective%20communities.%20Those%20stories%20spoke%20to%20the%20deepest%20yearnings%20and%20aspirations%20of%20the%20human%20psyche.)
 
-> "" - [Brendan Graham Dempsey]()
+> "Today, we need not only myth, but very specific myths. We need a myth that tells us the Earth is sacred and not something to be trashed. We need a myth that life is precious and meaningful. We need a myth that places the profound advances in cosmology, physics, and biology into a poetic and psychologically-fulfilling narrative. 
+>
+> We need metamodern mythmakers—poets of the sacred. But, like poetry, the effort of such reconstructionists will necessarily be individual and decentralized. We don’t need another capital C Church, propagating a new organizing dogma for everyone to adopt by coercion. What we need is organic creativity and highly personal expressions of the divine. The Religion of Tomorrow is not another closed-canon, close-minded set of beliefs either imposed, adopted, or rejected. The Religion of Tomorrow is open-source, co-created, and personally developed. And as more and more creatives recognize the significance of such a task, more and more myths will spread among us, providing people material they can adopt or adapt as they see fit, as fits their psychic needs. In this religion of tomorrow, not everyone needs to be a creative mythmaker, just as in our current digital world not everyone is necessarily creating memes or recording podcasts. Artists create for themselves, but also for the world. So, too, the mythopoets to come. What gets created can become a mythological commons, open to inspire meaning in others, and fair use for development and adaptation. For either by transformation, adaptation, invention, or propagation, we can all be co-creating the sacred." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reconstructing-religion#:~:text=Today%2C%20we%20need,creating%20the%20sacred.)
 
-> "" - [Brendan Graham Dempsey]()
+> "When we speak of God, we are, perforce, speaking mythologically. The very word “God” carries with it millennia of connotation, association, and depth—an aura of awesomness, a patina of profundity. What if our new mythology was itself rooted in the narrative of working with God to realize God’s self in the world? To assist God in God’s coming-to-be? Perhaps we see all religious traditions as participatory in this great endeavor. Perhaps this effort has been unfolding for millennia, as elements of God came online, now in Egypt, now in Mesopotamia, India, China, Palestine. Perhaps we stand at the edge of an unprecedented period, to which these various developments have been leading: our conscious awareness of God’s transformation and humanity’s role in the process. What has hitherto been unfolding haphazardly over the centuries can now become intentional, conscious, deliberate, as human beings turn to myth, to art, to poetry, to sculpt the latent God out of the rock of time, in order that God can become more what God has been becoming all this time. 
+>
+> Such a project seems far more compelling than all this mindless getting and spending of late capitalism, I’d say. Such a goal seems more evocative than the paltry aspirations towards comfort and convenience which have stripped modern and postmodern humanity of its soul. Such an effort seems Meaningful, I think, in the deepest imaginable way." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reconstructing-religion#:~:text=When%20we%20speak,deepest%20imaginable%20way.)
 
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
+> "We live in a time between worlds, which means that the old world has passed away, or is passing away, but the new has not yet arrived. We have a sense of where we’ve been, but no certainty of where we’re going. And as the chasm between past and future opens wider, more and more people are desperately scrambling for something to hold onto. Some clutch their fundamentalisms or absolutist ideologies, while others free-fall into nihilism, apathy, or despair. None of this helps. What we need is genuine, efficacious Meaning, up to date with reality, functional, aspirational, bottom-up and broadly applicable." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reconstructing-religion#:~:text=We%20live%20in,and%20broadly%20applicable.)
 
 
 

@@ -4043,16 +4043,6 @@ What’s proposed here is kryptonite more for China than the West.
 
 The final major evolutionary transition
 
-The 4 horseman of nihilism, meaninglessness, despair & learned helplessness:
-- current mainstream zeitgeist about the second law of thermodynamics
-- Reductionism - no free will, deterministic clockwork universe
-- Lack of direction in evolution & Ignoring the cooperation part of the story in evolution & the selfish gene - fluke accident, chemical scum (hawking quote)
-- bad karma from previous applications of science to social organization (social darwinism)
-- The murder of curiosity and agency in school
-- hyper individuality - a radical separation of the self from the whole - partly a product of reductionism
-
-> "With so clean and rosy picture as that as one’s basis, the modern narrative may indeed seem bleak, dull, and dark by comparison: a incomprehensibly vast, unguided universe of infinite space; everything just atoms in a void; the emergence of life a fluke; its evolution an unseemly narrative of “eat or be eaten”; human suffering without justification, and death, the ultimate end." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/deconstructing-religion#:~:text=With%20so%20clean,the%20ultimate%20end.)
-
 
 
 
