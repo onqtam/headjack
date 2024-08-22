@@ -206,6 +206,8 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 # SECTION: Meaning of/in life
 ██████████████████████████████████████████████████████████████████
 
+<img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
+
 we are starved for meaning
 belonging
 significance
@@ -1247,19 +1249,19 @@ Any sufficiently advanced social technology is indistinguishable from God.
 
 If Brendan Graham Dempsey' Emergentism & Alexander Bard's Syntheism had a baby
 
+embed this video:
+Deconstruction and Spiritual Growth: Reflections on Metamodern Spirituality
+https://www.youtube.com/watch?v=szrm_qOpaqs
+
 > "We are all torch-bearers on the road to Omega." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/emergentism-vs-integral-theory#:~:text=We%20are%20all%20torch%2Dbearers%20on%20the%20road%20to%20Omega.)
 
 > "Emergentism emphasizes the teleological emergence of consciousness out of matter. This is the very aim of existence, and the Omega point toward which it is moving is understood as the divine attractor whose continual realization culminates infinitely towards the emergence of God consciousness. God emerges from chaos as an immanent deity. The Universe is the development of God." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/emergentism-vs-integral-theory#:~:text=Emergentism%20emphasizes%20the,development%20of%20God.)
 
-> "After so much deconstruction of traditional religion, we are finally in a place to start putting things back together. “After deconstruction,” say the metamodernists, “comes reconstruction.” And so a metamodern spirituality must indeed approach the task of reconstructing religion. It must build something new. And what it builds must be an efficacious meaningful narrative to meet the urgent demands of the meaning crisis. What might this be? What if it is the co-creation of religion itself? What if people found purpose in the collective endeavor to better imagine spirituality for the world? To salvage God from tradition’s limits and give expression to the sacred in new ways that work? What if the new mythology we need is a myth of God’s coming into being, of God’s becoming, God’s metamorphosis, God’s rebirth? For the old God is dead. But what new God is possible? What God is waiting to be born—by us, through us, by means of us? A life spent in the service of rendering divinity into reality? What more purposeful task could one hope for? Such an idea may sound radical. And yet, it is precisely what the religious deconstructions of modernity and postmodernity have prepared us for." - [Brendan Graham Dempsey](https://youtu.be/szrm_qOpaqs?t=2576)
+> "After so much deconstruction of traditional religion, we are finally in a place to start putting things back together. “After deconstruction,” say the metamodernists, “comes reconstruction.” And so a metamodern spirituality must indeed approach the task of reconstructing religion. It must build something new. And what it builds must be an efficacious meaningful narrative to meet the urgent demands of the meaning crisis. What might this be? What if it is the co-creation of religion itself? What if people found purpose in the collective endeavor to better imagine spirituality for the world? To salvage God from tradition’s limits and give expression to the sacred in new ways that work? What if the new mythology we need is a myth of God’s coming into being, of God’s becoming, God’s metamorphosis, God’s rebirth? For the old God is dead. But what new God is possible? What God is waiting to be born—by us, through us, by means of us? A life spent in the service of rendering divinity into reality? What more purposeful task could one hope for? Such an idea may sound radical. And yet, it is precisely what the religious deconstructions of modernity and postmodernity have prepared us for." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reconstructing-religion#:~:text=After%20so%20much,prepared%20us%20for.)
 
-> "" - [Brendan Graham Dempsey]()
+> "Those who would engage ultimate concerns through this medium and attempt to craft new narratives, new symbols, new metaphors for framing sacred experience are working at the very cusp of religious reconstruction." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reconstructing-religion#:~:text=Those%20who%20would%20engage%20ultimate%20concerns%20through%20this%20medium%20and%20attempt%20to%20craft%20new%20narratives%2C%20new%20symbols%2C%20new%20metaphors%20for%20framing%20sacred%20experience%20are%20working%20at%20the%20very%20cusp%20of%20religious%20reconstruction.)
 
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
-
-> "" - [Brendan Graham Dempsey]()
+> "Traditional religion succeeded admirably at telling meaningful stories that helped us orient ourselves and bind together in effective communities. Those stories spoke to the deepest yearnings and aspirations of the human psyche." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reconstructing-religion#:~:text=Traditional%20religion%20succeeded%20admirably%20at%20telling%20meaningful%20stories%20that%20helped%20us%20orient%20ourselves%20and%20bind%20together%20in%20effective%20communities.%20Those%20stories%20spoke%20to%20the%20deepest%20yearnings%20and%20aspirations%20of%20the%20human%20psyche.)
 
 > "" - [Brendan Graham Dempsey]()
 
