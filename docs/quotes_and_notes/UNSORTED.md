@@ -12,9 +12,6 @@
 
 
 
-> "Metamodernism ... is a cultural logic that can reflect on the cultural logic of cultural logics. It reflexively reflects on its capacity to reflexively reflect on reflection." - [Brendan Graham Dempsey](https://brendangrahamdempsey.substack.com/p/what-is-metamodernism#:~:text=Metamodernism%2C%20you%20could%20say%2C%20is%20a%20cultural%20logic%20that%20can%20reflect%20on%20the%20cultural%20logic%20of%20cultural%20logics.%20It%20reflexively%20reflects%20on%20its%20capacity%20to%20reflexively%20reflect%20on%20reflection.)
-
-
 
 > "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
 
@@ -3679,6 +3676,67 @@ Ot morality is about redistribution - it is about helping
 
 
 
+If we live under the pretense that anyone and everyone can succeed - we need to make damn sure that’s possible and we need to define it and keep ourselves accountable how well we’re approaching the omega point of complete recycling and robustness - we are an organism
+We need to express through and merge with it - the directionality - the promise of continual improvement and hope
+
+Our collective dreams will be our MMOs that we participate in - with forks of our current universe where we can simulate societies and try different parameters and evolve incentives and creativity
+
+You do ‘t really care about life if you’re not curious what it actually is - until you start digging for yourself into evolution and big historyand complecity and dissipative structures - u til then you don’t really have an informed opinion of what is life all about
+
+Picture what the most awesome day would look like: wake up, whats the PoV in life? How do you approach your day? How do you win and help others win too?
+Co-create the game
+
+We need to imbue a story with our life energy
+
+Peak experiences with psychedelics are religious because they dissolve the sef completely and what you’re left is pure curiosity and boundless self-aware self - pure experience from a more impartial observer
+Pure binding with the whole
+
+The most meta thing an aligned AGI could do is to improve our chances of survival and improve our system of interaction - how do a bunch of conscious beings cohere around common goals and best stave off entropy for all in perpetuity?
+
+We need to delegate our trust and express opinions globally freely
+
+Cosmic music will be the ripples we made woth our identities in the neuronal connections
+
+The publicly verifiable “be good” protocol
+
+We should want to live for others
+
+Make gold smell again!
+Entropic forces accounting/provenance
+Traceability of benefit - cui bono
+
+The great decoupling of status - the addition of a dinensionality to status - separating money & claims over real world resources from morality and defining two separate laws while retaining the competitive factor
+
+We need the competition and ingenious creativity and effort but with less material inequality
+
+We need to make the case why we explicitly want other groups to do well
+
+The greatest game theoretic experiment is how quickly nations will realize that this is the future. The first will simply become the best in governance at all - and they will demonstrate it and will get pushed higher in status and exposure and expertise in collective optimality
+The game is on
+
+Identity memetics
+
+UBI for dummies
+
+Topologically crowdsourcing the ideal form - the highest form of architecture is memetic - that’s where the highest application of precision and beauty and effort is required
+
+What is the most beautiful moral architecture?
+
+What is the point of life?
+
+The essence of life is expression - the channeling of quantum entropy and aggregating it and shoving it through your complex neurology and produce a decision - our expression of free will is when we do something hard and not in our default mode
+
+We need to ask the question: how much do we care for others and why?
+
+We need to make moralism a new job - a competition for scientifically justified morality and incentivisatiom memes
+
+We need to say to our geniuses “tune our collective incentives optimally and we shall make it worth it for you”
+
+A game for the betterment of our collective service game. We need to implement service within maximal alignment
+
+Government are people, governance is a (cultural) protocol
+
+Your public weights will be part of humanity’s memome (as in memetic genome)
 
 
 

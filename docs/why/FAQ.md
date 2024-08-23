@@ -10,7 +10,7 @@ Yes
 
 ## Is this utopia?
 
-Yes
+Its even better: it can actually work
 
 ## Is this communism?
 
