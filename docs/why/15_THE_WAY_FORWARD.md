@@ -234,6 +234,7 @@ The 4 horseman of nihilism, meaninglessness, despair & learned helplessness:
 - bad karma from previous applications of science to social organization (social darwinism)
 - The murder of curiosity and agency in school
 - hyper individuality - markets - a radical separation of the self from the whole - partly a product of reductionism
+- postmodernism?
 
 > "With so clean and rosy picture as that as one’s basis, the modern narrative may indeed seem bleak, dull, and dark by comparison: a incomprehensibly vast, unguided universe of infinite space; everything just atoms in a void; the emergence of life a fluke; its evolution an unseemly narrative of “eat or be eaten”; human suffering without justification, and death, the ultimate end." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/deconstructing-religion#:~:text=With%20so%20clean,the%20ultimate%20end.)
 
