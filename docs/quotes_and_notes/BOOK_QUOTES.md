@@ -1611,14 +1611,6 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 >
 > Education that is intentionally structured to help the individual progress to the highest shapes of consciousness possible is called Bildung. It is a lifelong process that meets the eternal student where they are at developmentally, with the aim of helping them transcend their unique limitations at every stage." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
-> "" - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
-
 > "The advent of modernity brought an incredible advance in human knowledge as it shifted culture from a relatively simple religious traditionalism rooted in 2D consciousness to a more complex naturalistic worldview rooted in 3D consciousness. Early science led the way, opening up vast horizons of understanding through a novel methodological approach that could cut through the confusion of a noisy world and zero in on the fundamental laws and forces of the Universe.
 >
 > Such reductionism was revolutionary for analyzing the world according to its discrete parts. It set off a cascade of dissection and differentiation, revealing the former subjective (con)fusion endemic to religious holism. So the individual self emerged more fully from its embedding in the world; the subjective/objective split was now complete.
@@ -1658,6 +1650,68 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 > Emerge." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
 
+
+
+> "Successful religions have always tended to salvation at the social level, encouraging behaviors that bring order. As we’ve also seen, pre-Abrahamic religions of the Middle East were especially explicit about this goal. Civilization was constantly threatened by the forces of chaos, and obeying the gods, or at least the good gods, was the way to keep chaos at bay. 
+>
+> Today the social system, an incipiently global social system, is again threatened by chaos. But now religion seems to be the problem, not the solution. Tensions among Jews, Christians, and Muslims—or at least among some Jews, Christians, and Muslims —imperil the world’s order. And the tensions are heightened by the scriptures of these religions—or at least by the scriptures as they’re being interpreted by the people who are heightening the tensions. Three great religions of salvation have helped put the world in need of salvation." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "Globalization, for all its dislocations, entails lots of non-zero-sumness. You buy a new car, and you’re playing one of the most complex non-zero-sum games in the history of humanity: you pay a tiny fraction of the wages of thousands of workers on various continents, and they, in turn, make you a car. A popular term for this is interdependence —they depend on you for money, you depend on them for a car—and interdependence is just another name for non-zero-sumness. Because the fortunes of two players in a non-zero-sum game are correlated, the welfare of each of them depends partly on the situation of the other." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "This is the way moral evolution happens—in ancient Israel, in the Rome of early Christianity, in Muhammad’s Arabia, in the modern world: a people’s culture adapts to salient shifts in game-theoretical dynamics by changing its evaluation of the moral status of the people it is playing the game with. If the culture is a religious one, this adaptation will involve changes in the way scriptures are interpreted and in the choice of which scriptures to highlight. It happened in ancient times, and it happens now." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "In theory. But in fact various things can keep non-zero-sum potential from translating into the feelings that will realize that potential. 
+First is the problem of recognizing that you’re in a non-zero-sum game. How many car buyers are aware of how many workers in how many countries helped build their car? 
+>
+> Second is the problem of trust. Palestinians and Israelis are playing a non-zero-sum game, because neither is going to expel the other from the area; given the inevitability of coexistence, lasting peace would be good for both sides and lasting war bad for both. And many people on both sides see this correlation of fortunes, at least in the abstract. But it’s still hard to reach a deal because each side suspects that the other would violate it. 
+>
+> These two barriers to non-zero-sum solution—recognition, trust—may sound formidable, but in a sense neither is really the big problem. The big problem is something that compounds the problems of recognition and trust and also brings whole new problems to the table. The big problem is the human mind, as designed by natural selection." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "What’s good for Muslims broadly is bad for radical Muslims. If Muslims get less happy with their place in the world, more resentful of their treatment by the West, support for radical Islam will grow, so things will get worse for the West. If, on the other hand, more and more Muslims feel respected by the West and feel they benefit from involvement with it, that will cut support for radical Islam, and westerners will be more secure from terrorism." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "So what’s going on here? Where’s the part of human nature that was on display in ancient times—the part that senses whether you’re in the same boat as another group of people and, if you are, fosters sympathy for or at least tolerance of them? 
+>
+> It’s in there somewhere, but it’s misfiring. And one big reason is that our mental equipment for dealing with game-theoretical dynamics was designed for a hunter-gatherer environment, not for the modern world. That’s why dealing with current events wisely requires strenuous mental effort—effort that ultimately, as it happens, could bring moral progress." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "And here is the problem with feeling antipathy toward those cartoon protesters, flag burners, and even suicide bombers. It isn’t that pouring lots of sympathy on them would help things. (In some ways it could hurt.) It’s that, because of the way the human mind is built, antipathy can impede comprehension. Hating protesters, flag burners, and even terrorists makes it harder to understand them well enough to keep others from joining their ranks." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "The way hatred blocks comprehension is by cramping our “moral imagination,” our capacity to put ourselves in the shoes of another person. This cramping isn’t unnatural. Indeed, the tendency of the moral imagination to shrink in the presence of enemies is built into our brains by natural selection. It’s part of the machinery that leads us to grant tolerance and understanding to people we see in non-zero-sum terms and deny it to those we consign to the zero-sum category. We’re naturally pretty good at putting ourselves in the shoes of close relatives and good friends (people who tend to have nonzero-sum links with us), and naturally bad at putting ourselves in the shoes of rivals and enemies (where zero-sumness is more common). We can’t understand these people from the inside." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "In other words, we have trouble achieving comprehension without achieving sympathy. And this puts us in a fix because, as we’ve seen, some people it is in our profound interest to comprehend—terrorists, for example—are people we’re understandably reluctant to sympathize with." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "In short, the moral imagination, like other parts of the human mind, is designed to steer us through the successful playing of games—to realize the gains of non-zero-sum games when those gains are to be had, and to get the better of the other party in zero-sum games. Indeed, the moral imagination is one of the main drivers of the pattern we’ve seen throughout the book: the tendency to find tolerance in one’s religion when the people in question are people you can do business with and to find intolerance or even belligerence when you perceive the relationship to be instead zero-sum. 
+>
+> And now we see one curious residue of this machinery: our “understanding” of the motivations of others tends to come with a prepackaged moral judgment. Either we understand their motivation internally, even intimately—relate to them, extend moral imagination to them, and judge their grievances leniently—or we understand their motivation externally and in terms that imply the illegitimacy of their grievances. Pure understanding, uncolored by judgment, is hard to come by.
+>
+> It might be nice if we could sever this link between comprehension and judgment, if we could understand people’s behavior in more clinical terms—just see things from their point of view without attaching a verdict to their grievances. That might more closely approach the perspective of God and might also, to boot, allow us to better pursue our interests. We could coolly see when we’re in a non-zero-sum relationship with someone, coolly appraise their perspective, and coolly decide to make those changes in our own behavior that could realize non-zero-sumness. But those of us who fail to attain Buddhahood will spend much of our lives locked into a more human perspective: we extend moral imagination to people to the extent that we see win-win possibilities with them.
+>
+> Given this fact, the least we can do is ask that the machinery work as designed: that when we are in a non-zero-sum relationship with someone we do extend moral imagination to them. That would better serve the interests of both parties and would steer us toward a truer understanding of the other—toward an understanding of what their world looks like from the inside. 
+>
+> And this is what often fails to happen. The bulk of westerners and the bulk of Muslims are in a deeply non-zero-sum relationship, yet by and large aren’t very good at extending moral imagination to one another. 
+>
+> So a machine that was designed to serve our interests is misfiring. The moral imagination was built to help us discriminate between people we can do business with and people we can’t do business with—to expand or contract, respectively. When Americans fail to extend moral imagination to Muslims, this is their unconscious mind’s way of saying, “We judge these people to be not worth dealing with.” Yet most of them are worth dealing with.
+>
+> We’ve already seen one reason for this malfunction. Technology is warping our perception of the other player in this non-zero-sum game. The other player is a vast population of Muslims who, though perhaps not enamored of the West, don’t spend their time burning flags and killing westerners. But what we see on TV—and what we may conflate with this other player—is a subset of Muslims who truly, and perhaps irreversibly, hate the West. We accurately perceive the stubborn hostility of the latter and our moral imagination contracts accordingly, but in the process it excludes the former." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
+
+> "" - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
 
 
 
