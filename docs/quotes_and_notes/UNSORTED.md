@@ -3744,6 +3744,70 @@ Your public weights will be part of humanity’s memome (as in memetic genome)
 
 
 
+> "Plurality-inspired mechanism design: there is a set of principled mathematical techniques by which you can design social, political and economic mechanisms that treat not just individuals, but also connections between individuals as a first-class object. Doing this can create newer forms of markets and democracy that solve common problems in markets and democracy today, particularly around bridging tribal divides and polarization." - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/08/21/plurality.html#:~:text=Plurality%2Dinspired%20mechanism,divides%20and%20polarization.)
+
+> "" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin]()
+
+> "" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin]()
+
+> "" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin]()
+
+> "" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin]()
+
+> "" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin]()
+
+
+
+
+
+
+> "Perhaps it's impossible to wear an identity without becoming what you pretend to be." - [Orson Scott Card, Ender's Game](https://www.goodreads.com/quotes/17335-perhaps-it-s-impossible-to-wear-an-identity-without-becoming-what)
+
+> "If you try and lose then it isn't your fault. But if you don't try and we lose, then it's all your fault." - [Orson Scott Card, Ender's Game](https://www.goodreads.com/quotes/17333-if-you-try-and-lose-then-it-isn-t-your-fault)
+
+> "Humanity does not ask us to be happy. It merely asks us to be brilliant on its behalf." - [Orson Scott Card, Ender's Game](https://www.goodreads.com/quotes/315058-humanity-does-not-ask-us-to-be-happy-it-merely)
+
+> "So the whole war is because we can't talk to each other." - [Orson Scott Card, Ender's Game](https://www.goodreads.com/quotes/523886-so-the-whole-war-is-because-we-can-t-talk-to)
+
+
+
+> "Though politicians are regarded as scum, government as a machine is held to be almost infallible." - [Matt Ridley](https://www.goodreads.com/quotes/7343748-though-politicians-are-regarded-as-scum-government-as-a-machine)
+
+> "It is strange to me that most people assume companies will be imperfect (as they are), but they assume that government agencies will be perfect, which they are not." - [Matt Ridley](https://www.goodreads.com/quotes/501608-it-is-strange-to-me-that-most-people-assume-companies)
+
+> "The market is a system of mass cooperation." - [Matt Ridley](https://www.goodreads.com/quotes/7437574-the-market-is-a-system-of-mass-cooperation)
+
+> "So if gangsters become governments, does this mean that governments began as gangsters?" - [Matt Ridley](https://www.goodreads.com/quotes/7817709-so-if-gangsters-become-governments-does-this-mean-that-governments)
+
+> "Because it is a monopoly, government brings inefficiency and stagnation to most things it runs; government agencies pursue the inflation of their budgets rather than the service of their customers; pressure groups form an unholy alliance with agencies to extract more money from taxpayers for their members. Yet despite all this, most clever people still call for government to run more things and assume that if it did so, it would somehow be more perfect, more selfless, next time." - [Matt Ridley](https://www.azquotes.com/quote/470787)
+
+> "At some point, human intelligence became collective and cumulative in a way that happened to no other animal." - [Matt Ridley](https://www.azquotes.com/quote/1093615)
+
+> "It is not a zero sum game. The simple idea of the gains from trade lies at the heart of the modern and the ancient economy, not the power of capital. There is nothing else to it." - [Matt Ridley](https://www.azquotes.com/quote/604293)
+
+> "Life is a Sisyphean race, run ever faster toward a finish line that is merely the start of the next race." - [Matt Ridley](https://www.azquotes.com/quote/368256)
+
+> "Intelligence will become more and more collective; innovation and order will become more and more bottom-up." - [Matt Ridley](https://www.azquotes.com/quote/758177)
+
+
+
+
+> "To get more innovation, we need more innovators. The prevailing belief is that innovators have a magical quality that allows them to do what most cannot. But innovation is just solving complex problems, almost always in collaboration with others. This is a skill. Like any skill, it can be trained through practice.
+>
+> This training is not likely to happen in our current education system, which was intended from the beginning to train factory workers and bureaucrats. It is as anti-innovation as a system can be. Efforts at widespread reform of the existing system have failed consistently for over 100 years.
+>
+> But this is no reason to be discouraged. We do not need to rebuild the entire system to achieve a 100x increase in our civilization's innovative capacity. Because innovation scales. A tiny number of people can produce innovations that benefit millions. We don't need everyone to be an innovator. Even 1% of us innovating would utterly transform our world." - [Chrisman Frank, CEO at Synthesis School](https://chrismanfrank.com/innovators#:~:text=To%20get%20more,transform%20our%20world.)
+
+> "The 20th century Industrial-Education Complex is the single biggest anchor on human ingenuity and freedom in the west. The highest value of this system is compliance. It prepares humans to act as cogs in the vast bureaucracies and factories of the mid-20th century. It was never meant to cultivate the beauty, genius, and freedom of your child.
+>
+> At my previous company, ClassDojo, I discovered something odd: none of the hundreds of teachers, parents, principals, and district administrators I spoke with stand with the system. They were the system, yet did not support it. The biggest obstacle to progress is mere inertia." - [Chrisman Frank, CEO at Synthesis School](https://chrismanfrank.com/unbundling#:~:text=The%2020th%20century,is%20mere%20inertia.)
+
+> "As new institutions form on the internet and gain in prestige, the traditional barriers disappear. The only barriers will be internet access, and time. I believe this will be transformational. Talent is everywhere, but opportunity is not. Internet education will change that. One of the end results will be a 1000x increase in the ranks of technological innovators, as people with ambition and ability find each other early in life, form relationships, and push each other to ever higher levels of achievement." - [Chrisman Frank, CEO at Synthesis School](https://chrismanfrank.com/unbundling#:~:text=As%20new%20institutions,levels%20of%20achievement)
+
+> "human ingenuity — our ability to work together to creatively solve complex problems — is the only driver of progress. There is no other way to solve our problems, or build our dreams. Consider the impact of freeing even one child from the meaningless "waiting place" we call school. Now multiply that by one billion kids on the planet. The scale of impact is unimaginable." - [Chrisman Frank, CEO at Synthesis School](https://chrismanfrank.com/unbundling#:~:text=human%20ingenuity%20%E2%80%94%20our,impact%20is%20unimaginable.)
+
+
+
 
 > "Without a rising tide that lifts all boats, the “rational” act for some is to sink the other boats, to pull escaping crabs down into the bucket. Why? Because misery loves company, and because stopping someone from getting too far ahead means they can’t outcompete you for houses or mates. The only way out of this negative-sum trap is to build provably positive-sum systems and high-trust societies. But that’s exactly what the US establishment is not doing." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/american-anarchy-chinese-control-international-intermediate#:~:text=Without%20a%20rising,is%20not%20doing.)
 
