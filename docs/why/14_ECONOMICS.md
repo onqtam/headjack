@@ -148,6 +148,14 @@ BeWe or WeBe - from WeWork
 
 https://en.wikipedia.org/wiki/Doughnut_(economic_model)
 
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Bullshit jobs
+██████████████████████████████████████████████████████████████████
+
+https://www.economist.com/open-future/2018/06/29/bullshit-jobs-and-the-yoke-of-managerial-feudalism
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Aligning & incentivizing companies
 ██████████████████████████████████████████████████████████████████

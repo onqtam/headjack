@@ -319,12 +319,20 @@ top10 most important reads:
 - https://civilizationemerging.com/new-economics-series-4/
 - https://civilizationemerging.com/dharma-inquiry-2/
 
+https://civilizationemerging.com/dharma-inquiry-2/
+^^ how do we all answer these questions?
+
 top10 to watch
 - How Complexity Economics Can Save the World, by Eric Beinhocker
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 Chimp Empire
 https://www.imdb.com/title/tt27205918/
+
+top10 documentaries
+"Don't look up" but in real life
+https://www.imdb.com/title/tt11286314/
+“Don't look up” is a diagnosis
 
 top10 channels
 - Ashley's The New Enlightenment - CRIMINALLY UNDERAPPRECIATED

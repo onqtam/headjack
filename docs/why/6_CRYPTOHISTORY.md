@@ -242,6 +242,7 @@ https://x.com/ResearchHub
 https://x.com/askalphaxiv
 https://x.com/StanfordAILab/status/1818669016325800216
 
+> "The scientific method is simply that body of practices best suited for obtaining reliable knowledge." - [John Brockman](https://www.edge.org/annual-question/what-scientific-term-or%C2%A0concept-ought-to-be-more-widely-known#:~:text=The%20scientific%20method%20is%20simply%20that%20body%20of%20practices%20best%20suited%20for%20obtaining%20reliable%20knowledge.)
 
 how many scientists support the mission of sci-hub.se but don't dare to speak out publically? we need anonymous polling
 
