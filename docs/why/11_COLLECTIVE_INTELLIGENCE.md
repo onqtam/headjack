@@ -367,6 +367,8 @@ We need to define the language of the internet so that we may aggregate and inte
 
 > "All models are wrong, but some are useful." - [George E. P. Box](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
+> "The complexity and noise permeating any real causal nexus generates a fog of uncertainty. Slight biases in causal attribution, or in blameworthiness (e.g., sins of commission are worse than sins of omission) allow a stable niche for extracting undeserved credit or targeting undeserved blame. If the patient recovers, it was due to my heroic efforts; if not, the underlying disease was too severe. If it weren't for my macroeconomic policy, the economy would be even worse. The abandonment of moral warfare, and a wider appreciation of nexus causality and misattribution arbitrage would help us all shed at least some of the destructive delusions that cost humanity so much." - [John Tooby](https://www.edge.org/response-detail/11211#:~:text=The%20complexity%20and,humanity%20so%20much.)
+
 > "It blows my mind how few people in the business world presently see the value of tools capable of modeling and emulating the real time evolution of their causal domain in probabilistic terms, including the way in which their own actions are likely to change the playing field. They're so used to being spoon fed extremely reductive and lagging graphs and charts in .ppt format as reasonable models of their world, that the idea of continuous Socratic interaction with a "living" model comes across as an utterly alien value proposition. And yet that's exactly where things are heading..." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1753188223529230376)
 
 
