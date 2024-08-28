@@ -9,6 +9,7 @@
 
 
 
+
 > "Without improving the systems by which humans collectively navigate the problem of mapping values to actions under shared constraints, that better tech will primarily end up used to destroy humanity, rather than sustainably accelerate it. The belief that better / more capable technological artifacts will alone lead to a better society is just another form of utopian delusion." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1770602256901243331)
 
 > "Our ability to match acceleration to the appropriate constraints, as those constraints emerge within view, constitutes the parameter with the highest predictive power concerning adaptive / maladaptive outcomes." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
