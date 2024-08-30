@@ -457,6 +457,9 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 # SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
 ██████████████████████████████████████████████████████████████████
 
+Meritocracy and Topocracy of Networks - Cesar Hidalgo
+https://www.youtube.com/watch?v=CTJ8TAMv3sk
+
 > "Whoever does a thing best ought to be the one to do it. It is criminal to try to get business away from another man—criminal because one is then trying to lower for personal gain the condition of one's fellow man—to rule by force instead of by intelligence." - [Henry Ford](https://www.goodreads.com/quotes/8659213-2-a-disregard-of-competition-whoever-does-a-thing-best)
 
 > "But it is possible to create a society in which everybody is given not equal rewards, but equal opportunities, and where rewards vary not in accordance with the ownership of property, but with the worth of a person's contribution to that society. In other words, society should make it worth people's while to give their best to the country. This is the way to progress." - [Lee Kuan Yew](https://www.goodreads.com/quotes/9814929-but-it-is-possible-to-create-a-society-in-which)
