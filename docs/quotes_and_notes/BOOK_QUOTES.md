@@ -1877,8 +1877,6 @@ First is the problem of recognizing that you’re in a non-zero-sum game. How ma
 
 > "History is, above all else, the creation and recording of that heritage; progress is its increasing abundance, preservation, ransmission, and use." - [The Lessons of History, by Will & Ariel Durant](https://www.goodreads.com/book/show/174713.The_Lessons_of_History)
 
-> "If a man is fortunate he will, before he dies, gather up as much as he can of his civilized heritage and transmit it to his children. And to his final breath he will be grateful for this inexhaustible legacy, knowing that it is our nourishing mother and our lasting life." - [The Lessons of History, by Will & Ariel Durant](https://www.goodreads.com/book/show/174713.The_Lessons_of_History)
-
 
 
 

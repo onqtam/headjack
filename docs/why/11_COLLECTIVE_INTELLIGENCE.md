@@ -1043,8 +1043,6 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 # SECTION: Global Brain
 ██████████████████████████████████████████████████████████████████
 
-<img src="/img/the_global_brain_from_bobby_azarian.png"/>
-
 > "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
 
 
