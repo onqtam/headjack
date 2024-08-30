@@ -4526,7 +4526,9 @@ We need to get rid of the junk food in all walks of life - not just nutrition
 We can gradually reshape the matrix from the current form towards a crowdsourced one: A new world order - built upon consent and competence
 The new world order is one which actually has order - where we’re not ruled by senility and the competent are actually in charge
 
-
+<div style={{textAlign: "center"}}>
+    <img src="/img/meme_for_dummies_new_world_order.jpg.jpg"/>
+</div>
 
 > "'Real' is simply electrical signals interpreted by your brain." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/3860871-what-is-real-how-do-you-define-real-if-you-re)
 

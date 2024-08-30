@@ -50,6 +50,16 @@ cooperation does not evolve easily
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
 
+
+What Game Theory Reveals About Life, The Universe, and Everything
+https://www.youtube.com/watch?v=mScpHTIi-kM
+
+the evolution of trust
+https://ncase.me/trust/notes/
+https://prnt.sc/K5nzWpUw8XJh
+https://prnt.sc/o5LZhIhNqIFX
+
+
 > "A cooperative enterprise. Co-, together + operari, work. Acting in concert. Coordinating individual behavior in pursuit of shared goals." - [Kevin Simler](https://meltingasphalt.com/minimum-viable-superorganism/#:~:text=a%20cooperative%20enterprise.%20Co%2D%2C%20together%20%2B%20operari%2C%20work.%20Acting%20in%20concert.%20Coordinating%20individual%20behavior%20in%20pursuit%20of%20shared%20goals.)
 
 > "Nature promotes cooperation, collaboration, and synergy because it is thermodynamically beneficial for all parties, and for that reason, synergistic collective configurations will eventually be discovered by any many-component system that is exploring various states or configurations through the blind-variation-and-selective-retention mechanism. Organisms only compete until they finally figure out that working together makes everyone’s task easier, and that goes for humans too." - [Bobby Azarian](https://twitter.com/BobbyAzarian)
@@ -69,11 +79,6 @@ In game theory, the price of stability (PoS) of a game is the ratio between the 
 https://en.wikipedia.org/wiki/Price_of_stability
 
 The concepts of price of anarchy and price of stability were introduced to capture the loss in performance of a system due to the selfish behavior of its participants. The price of anarchy captures the worst-case performance of the system at equilibrium relative to the optimal performance possible. The price of stability, on the other hand, captures the relative performance of the best equilibrium of the system.
-
-the evolution of trust
-https://ncase.me/trust/notes/
-https://prnt.sc/K5nzWpUw8XJh
-https://prnt.sc/o5LZhIhNqIFX
 
 > "Take the case of academic publishing, given as a classic coordination failure by Eliezer Yudkowsky in Inadequate Equilibria: Where and How Civilizations Get Stuck. Academic journals publish research within a given field and charge for access to it, often at exorbitant rates. In order to get the best jobs and earn prestige within a field, researchers need to publish in the most respected journals. If they don’t, no one will take their work seriously.
 >

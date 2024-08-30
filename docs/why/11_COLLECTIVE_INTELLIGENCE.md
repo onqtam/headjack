@@ -648,6 +648,9 @@ what if we could signal preferences locally for what types of commercials we'd b
 # SECTION: voting & liquid democracy
 ██████████████████████████████████████████████████████████████████
 
+Why Democracy Is Mathematically Impossible - Veritasium
+https://www.youtube.com/watch?v=qf7ws2DF-zk
+
 "Liquefying Democracy"
 
 aggregation: the societal mirror - a chapter about signaling of public preferences & poll opinions

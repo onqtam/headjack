@@ -372,4 +372,12 @@ Collectively engineered social scarcity
 We use/consume less and give & produce more & are even happier while doing it.
 
 
+IP is a very crude mechanism for incentivising innovation - there are more synergistic ones
+
+Shift from quantitative to qualitative growth
+
+From bond markets to binding markets - binding your word to be held accountable and rewarded for proper conduct
+
+
+
 

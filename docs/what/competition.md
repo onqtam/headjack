@@ -558,7 +558,7 @@ Farcaster blocktime - slow but very rarely needed
 on Nostr
 https://twitter.com/pippellia/status/1605970256807206912
 https://twitter.com/sethforprivacy/status/1752428095972298826
-
+https://x.com/BobMcElrath/status/1828763959001804956
 
 !!!!!!!! READ THIS !!!!!!!!
 bluesky architecture
