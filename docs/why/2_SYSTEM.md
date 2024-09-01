@@ -705,6 +705,8 @@ Philip morris Indonesia kids
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
 
+> "This is a difference between nuclear weapons and bayonets. It is not in the number of people they can eventually kill but in the speed with which it can be done, in the centralization of decision, in the divorce of the war from political processes, and in computerized programs that threaten to take the war out of human hands once it begins." - [Thomas C. Schelling](https://www.goodreads.com/quotes/9241963-this-is-a-difference-between-nuclear-weapons-and-bayonets-it)
+
 the biggest contributor as an entity to global warming is The Pentagon
 
 > "WAR is a racket. It always has been. It is possibly the oldest, easily the most profitable, surely the most vicious. It is the only one international in scope. It is the only one in which the profits are reckoned in dollars and the losses in lives." - [Smedley D. Butler](https://www.goodreads.com/quotes/816646-war-is-a-racket-it-always-has-been-it-is)

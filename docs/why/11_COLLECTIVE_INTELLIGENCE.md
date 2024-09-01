@@ -44,6 +44,7 @@ Symbiotic intelligence = collective + artificial
 
 > "The first principle is that you must not fool yourself and you are the easiest person to fool." - [Richard Feynman](https://www.goodreads.com/quotes/193533-the-first-principle-is-that-you-must-not-fool-yourself)
 
+> "It's strange that cognitive biases are not a core part of school curricula. Teaching kids facts without teaching them how their mind uses facts doesn't make them smarter, it just makes them more skilled at being stupid." - [Gurwinder](https://x.com/G_S_Bhogal/status/1829624243031625908)
 
 The bias blind spot is the cognitive bias of recognizing the impact of biases on the judgment of others, while failing to see the impact of biases on one's own judgment.
 https://en.wikipedia.org/wiki/Bias_blind_spot

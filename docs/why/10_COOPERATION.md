@@ -1,6 +1,9 @@
 
 
 
+AND COORDINATION !!!
+
+
 > "Selfishness beats altruism within groups. Altruistic groups beat selfish groups. Everything else is commentary." - [David Sloan Wilson](https://www.goodreads.com/quotes/950594-selfishness-beats-altruism-within-groups-altruistic-groups-beat-selfish-groups)
 
 ██████████████████████████████████████████████████████████████████
@@ -121,9 +124,62 @@ Constraints are freedom
 
 > "As Michael Suk-Young Chwe writes in Rational Ritual: Culture, Coordination, and Common Knowledge, “Successful communication sometimes is not simply a matter of whether a given message is received. It also depends on whether people are aware that other people also receive it.” According to Suk-Young Chwe, for people to coordinate on the basis of certain information it must be “common knowledge,” a phrase used here to mean “everyone knows it, everyone knows that everyone knows it, everyone knows that everyone knows that everyone knows it, and so on.” The more public and visible the change is, the better." - [Coordination Problems: What It Takes to Change the World](https://fs.blog/coordination-problems/#:~:text=As%20Michael%20Suk,is%2C%20the%20better.)
 
-> "Common knowledge depends not only on me knowing that you receive a message but also on the existence of a shared symbolic system which allows me to know how you understand it." - [Rational Ritual: Culture, Coordination, and Common Knowledge](https://www.goodreads.com/work/quotes/1103225-rational-ritual-culture-coordination-and-common-knowledge)
-
 > "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
+
+“Submitting to a social or political authority is a coordination problem - each person is more willing to support an authority the more others are willing to support it” - quote from “rational ritual” book
+
+
+
+> "How do individuals coordinate their actions? Here we consider "coordination problems," in which each person wants to participate in a group action but only if others also participate. For example, each person might want to take part in an antigovernment protest but only if there are enough total protesters to make arrests and police repression unlikely. People most often "solve" coordination problems by communicating with each other. Simply receiving a message, however, is not enough to make an individual participate. Because each individual wants to participate only if others do, each person must also know that others received a message. For that matter, because each person knows that other people need to be confident that others will participate, each person must know that other people know that other people have received a message, and so forth. In other words, knowledge of the message is not enough; what is also required is knowledge of others' knowledge, knowledge of others' knowledge of others' knowledge, and so on-that is, "common knowledge." To understand how people solve coordination problems, we should thus look at social processes that generate common knowledge. The best examples turn out to be "public rituals," such as public ceremonies, rallies, and media events.
+>
+> Public rituals can thus be understood as social practices that generate common knowledge. For example, public ceremonies help maintain social integration and existing systems of authority; public rallies and demonstrations are also crucial in political and social change. Social integration and political change can both be understood as coordination problems; I am more likely to support an authority or social system, either existing or insurgent, the more others support it. Public rituals, rallies, and ceremonies generate the necessary common knowledge. A public ritual is not just about the transmission of meaning from a central source to each member of an audience; it is also about letting audience members know what other audience members know." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "I then look at examples of people facing each other in circles, as in the kiva, a ritual structure found in prehistoric structures in the southwestern United States, the seating configuration of various U.S. city halls, and revolutionary festivals during the French Revolution. In each of these examples, the circular form was seemingly intended to foster social unity. But how? Our explanation is based on common knowledge generation. An inward-facing circle allows maximum eye contact; each person knows that other people know because each person can visually verify that others are paying attention." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "Buying certain kinds of goods can be a coordination problem; for example, a person might want to see a movie more the more popular it is. To get people to buy these "coordination problem" goods, an advertiser should try to generate common knowledge." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "To understand public rituals, one should understand how they generate the common knowledge that the logic of rationality requires. To understand how rational individuals solve coordination problems, one should understand public rituals." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "Common knowledge depends not only on me knowing that you receive a message but also on the existence of a shared symbolic system which allows me to know how you understand it.
+>
+> Because common knowledge generation is important for coordinated action, it is something people fight over; for example, censorship typically cracks down hardest on public communications." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "Common knowledge not only helps a group coordinate but also, to some extent, can create groups, collective identities, "imagined communities" in which, for example, each newspaper reader is aware of millions of fellow readers." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "Successful communication sometimes is not simply a matter of whether a given message is received. It also depends on whether people are aware that other people also receive it. In other words, it is not just about people's knowledge of the message; it is also about people knowing that other people know about it, the "metaknowledge" of the message.
+>
+> Say that when our acquaintance yells, I see you raise your head and look around for me, but I'm not sure if you manage to find me. Even though I know about the yell, and I know that you know since I see you look up, I still decide to stay on the bus because I do not know that you know that I know. So just one "level" of metaknowledge is not enough.
+>
+> Taking this further, one soon realizes that every level of metaknowledge is necessary: I must know about the yell, you must know, I must know that you know, you must know that I know, I must know that you know that I know, and so on; that is, the yell must be "common knowledge." The term "common knowledge" is used in many ways but here we stick to a precise definition. We say that an event or fact is common knowledge among a group of people if everyone knows it, everyone knows that everyone knows it, everyone knows that everyone knows that everyone knows it, and so on. Two people can create these many levels of metaknowledge simply through eye contact: say that when our acquaintance yells I am looking at you and you are looking at me. Thus I know you know about the yell, you know that I know that you know (you see me looking at you), and so on. lf we do manage to make eye contact, we get off the bus; communication is successful." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "Changing the size or taste of the loaves is not the same public event as raising its price." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "I should make clear that a coordination problem is not a "free rider problem," also known as the "prisoners' dilemma." In a free rider problem, no person wants to participate under any circumstances: each person always prefers to "free ride" on the participation of others. We all want to keep the common field green, for example, but everyone has an incentive to let his herd overgraze. "Solving" free rider problems hence requires enlarging people's possible motivations, by for example legal or social sanctions against free riders or repeated contexts in which free riding now might make people not cooperate with you later. "Solving" coordination problems, however, does not require changing peoples' motivations: when everyone cooperates, each person wants to do so because everyone else is. Although the term "collective action problem" is often used to refer only to free rider problems (Olson 1971), some argue that collective actions such as political protest are better described as coordination problems (e.g., Chong 1991; see also Moore 1995). Also, even when solving free rider problems via sanctions, for example, there is the "prior" coordination problem of getting people to participate in a system of sanctions, because usually a person wants to participate in sanctioning only if others do also." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+
+
+> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+
+> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+
+> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+
+> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Coherence
@@ -273,6 +329,13 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 > "Randomness is hugely important, but we're trying to explain the part of reality that is not random. That is all we can do. And when we look at that part, incentives are everything." - [Incentives Are Everything, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/incentives-are-everything?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=51093816)
 
 > "I don't see incentive determinism as a "theory" so much as a different way of thinking, or a useful conceptual framework. It's honestly just a way of activating a different part of the brain--the tool-use part--to understand society as a machine of moving parts. It's more of a metatheory, really, or a useful way of coming up with other theories. It can give rise to more specific theories about the incentive structures we face, and how they work, which can then be tested. Insofar as the theories it gives rise to are always false, then, sure, it's false. But given that incentive-based thinking lies at the heart of economics and much of social science (not to mention evolutionary biology), it seems like a pretty damn good metatheory and I don't know of a better one. I cannot even conceive a better one, to be honest." - [Incentives Are Everything, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/incentives-are-everything?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=51257762)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Schelling point
+██████████████████████████████████████████████████████████████████
+
+https://en.wikipedia.org/wiki/Focal_point_(game_theory)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation, Altruism & Management Theory

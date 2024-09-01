@@ -244,6 +244,10 @@ https://x.com/StanfordAILab/status/1818669016325800216
 
 > "The scientific method is simply that body of practices best suited for obtaining reliable knowledge." - [John Brockman](https://www.edge.org/annual-question/what-scientific-term-or%C2%A0concept-ought-to-be-more-widely-known#:~:text=The%20scientific%20method%20is%20simply%20that%20body%20of%20practices%20best%20suited%20for%20obtaining%20reliable%20knowledge.)
 
+
+> "Do you want a revolution in science? Do what businesspeople do when they want a technological revolution: Just change the rules a bit. Let in a few revolutionaries. Make the hierarchy a bit flatter, to give the young people more scope and freedom. Create some opportunities for high-risk/high-payoff people, so as to balance the huge investment you made in low-risk, incremental science. The technology companies and investment banks use this strategy. Why not try it in academia? The payoff could be discovering how the universe works." - [Lee Smolin](https://www.goodreads.com/quotes/8753353-do-you-want-a-revolution-in-science-do-what-businesspeople)
+
+
 how many scientists support the mission of sci-hub.se but don't dare to speak out publically? we need anonymous polling
 
 > "The average scientist knows nothing about the history of peer review. They attribute it I think to the 16-1700s because of sort of faulty work of Merton and as a result we don't realize that this peer review thing is basically an attempt to keep the populace out of elite scientific conversations." - [Eric Weinstein](https://youtu.be/lyXYVvMZf4I?t=1677)

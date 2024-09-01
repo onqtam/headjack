@@ -3,6 +3,107 @@
 
 
 
+> "The art of looking at the problem from the other person's point of view, identifying his opportunities and his interests, an art that has traditionally been practiced by diplomats, lawyers, and chess players, is at the center of strategic analysis." - [Thomas C. Schelling](https://www.goodreads.com/quotes/10670713-the-art-of-looking-at-the-problem-from-the-other)
+
+
+
+> "The juvenile sea squirt wanders through the sea searching for a suitable rock or hunk of coral to cling to and make its home for life. For this task, it has a rudimentary nervous system. When it finds its spot and takes root, it doesn't need its brain anymore, so it eats it! It's rather like getting tenure." - [Daniel Dennett](https://www.goodreads.com/quotes/52415-the-juvenile-sea-squirt-wanders-through-the-sea-searching-for)
+
+> "To put it bluntly but fairly, anyone today who doubts that the variety of life on this planet was produced by a process of evolution is simply ignorant—inexcusably ignorant, in a world where three out of four people have learned to read and write." - [Daniel Dennett](https://www.goodreads.com/quotes/453116-to-put-it-bluntly-but-fairly-anyone-today-who-doubts)
+
+> "Not a single one of the cells that compose you knows who you are, or cares." - [Daniel Dennett](https://www.azquotes.com/quote/447787)
+
+> "The only meaning of life worth caring about is one that can withstand our best efforts to examine it." - [Daniel Dennett](https://www.azquotes.com/quote/1048953)
+
+> "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
+
+
+
+
+> "The self is a repeatedly reconstructed biological state." - [Antonio Damasio](https://www.goodreads.com/quotes/7656886-the-self-is-a-repeatedly-reconstructed-biological-state)
+
+> "We are not thinking machines that feel; rather, we are feeling machines that think." - [Antonio Damasio](https://www.azquotes.com/quote/733647)
+
+> "Consciousness begins when brains acquire the power, the simple power I must add, of telling a story." - [Antonio Damasio](https://www.azquotes.com/quote/1350141)
+
+> "In the heart of consciousness is subjectivity, this sense of having a self that observes one's own organism and the world around that organism. That is really the heart of consciousness." - [Antonio Damasio](https://www.azquotes.com/quote/1494201)
+
+
+> "To neglect the common ground with other primates, and to deny the evolutionary roots of human morality, would be like arriving at the top of a tower to declare that the rest of the building is irrelevant, that the precious concept of "tower" ought to be reserved for the summit." - [Frans de Waal](https://www.azquotes.com/quote/1390053)
+
+> "Darwin wasn't just provocative in saying that we descend from the apes - he didn't go far enough. We are apes in every way, from our long arms and tailless bodies to our habits and temperament." - [Frans de Waal](https://www.azquotes.com/quote/330226)
+
+> "Morality, after all, has nothing to do with selflessness. On the contrary, self-interest is precisely the basis of the categorical imperative." - [Frans de Waal](https://www.azquotes.com/quote/1349687)
+
+> "The sturdiest pillars of human morality are compassion and a sense of justice." - [Frans de Waal](https://www.azquotes.com/quote/330207)
+
+> "If you ask anyone, what is morality based on? These are the two factors that always come out: One is reciprocity, … a sense of fairness, and the other one is empathy and compassion." - [Frans de Waal](https://www.azquotes.com/quote/733710)
+
+> "You need to indoctrinate empathy out of people in order to arrive at extreme capitalist positions." - [Frans de Waal](https://www.azquotes.com/quote/692798)
+
+> "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
+
+> "You should know as much as you can about the human species if you have a hand in designing human society." - [Frans de Waal](https://www.azquotes.com/quote/1051528)
+
+> "Competitiveness is just as much a part of our nature as empathy. The ideal, in my view, is a democratic system with a social market economy, because it takes both tendencies into account." - [Frans de Waal](https://www.azquotes.com/quote/1349688)
+
+> "If I were God, I'd work on the reach of empathy." - [Frans de Waal](https://www.azquotes.com/quote/576491)
+
+
+
+> "We're facing a danger that economics is rigorous deduction based upon faulty assumptions. Science after science gets that way from time to time. When it does, we're in real trouble." - [W. Brian Arthur](https://www.azquotes.com/quote/1370542)
+
+> "Economists got away from really questioning how the world works, how decisions actually got made. If something doesn't conform to neoclassical models ... people are not somehow behaving themselves properly." - [W. Brian Arthur](https://www.azquotes.com/quote/1370204)
+
+> "" - [W. Brian Arthur]()
+
+> "" - [W. Brian Arthur]()
+
+> "" - [W. Brian Arthur]()
+
+> "" - [W. Brian Arthur]()
+
+> "" - [W. Brian Arthur]()
+
+> "" - [W. Brian Arthur]()
+
+
+
+
+
+> "If civilization is to survive, it must live on the interest, not the capital, of nature." - [Ronald Wright](https://www.goodreads.com/quotes/380970-if-civilization-is-to-survive-it-must-live-on-the)
+
+> "The most compelling reason for reforming our system is that the system is in no one's interest. It is a suicide machine." - [Ronald Wright](https://www.goodreads.com/quotes/280775-the-most-compelling-reason-for-reforming-our-system-is-that)
+
+> "To use a computer analogy, we are running twenty-first-century software on hardware last upgraded 50,000 years ago or more. This may explain quite a lot of what we see in the news." - [Ronald Wright](https://www.goodreads.com/quotes/7295907-to-use-a-computer-analogy-we-are-running-twenty-first-century-software)
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+
+
+
+
+> "Great companies have missions, not metrics." - [Palladium Magazine](https://x.com/palladiummag/status/1829549384322994535)
+
+
+
+> "I have made the most important discovery of my career, the most important discovery of my life: It is only in the mysterious equations of love that any logic or reasons can be found." - [John Forbes Nash](https://www.azquotes.com/quote/526908)
+
+> "Classes will dull your mind, destroy the potential for authentic creativity." - [John Forbes Nash](https://www.azquotes.com/quote/750790)
+
+> "The only thing greater than the power of the mind is the courage of the heart." - [John Forbes Nash](https://www.goodreads.com/quotes/795192-the-only-thing-greater-than-the-power-of-the-mind)
+
+> "The Best for the Group comes when everyone in the group does what's best for himself AND the group." - [John Forbes Nash](https://www.goodreads.com/quotes/229916-the-best-for-the-group-comes-when-everyone-in-the)
+
+
+
+
+
+
 > "In 2012 about 56 million people died throughout the world; 620,000 of them died due to human violence (war killed 120,000 people, and crime killed another 500,000). In contrast, 800,000 committed suicide, and 1.5 million died of diabetes. Sugar is now more dangerous than gunpowder." - [Yuval Noah Harari](https://www.goodreads.com/quotes/7957329-in-2012-about-56-million-people-died-throughout-the-world)
 
 
@@ -2310,9 +2411,6 @@ Computational accountability
 
 Integration is also about common knowledge and making it explicit and reducing friction
 
-“Submitting to a social or political authority is a coordination problem - each person is more willing to support an authority the more others are willing to support it” - quote from “rational ritual” book
-
-^^ a double edged sword - a blessing and a curse
 
 Voluntary/invitation leadership
 

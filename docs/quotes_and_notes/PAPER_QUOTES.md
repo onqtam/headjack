@@ -1437,7 +1437,7 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Symbiotic Intelligence: self-organizing knowledge on distributed networks driven by human interaction](https://www.osti.gov/servlets/purl/663205)
 
-> "" - []()
+> "" - [On the Design of Hierarchies: Coordination versus Specialization](https://sci-hub.se/10.1086/431794)
 
 > "" - []()
 

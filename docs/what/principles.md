@@ -85,6 +85,8 @@ It must be [**obvious & provable**](numbers.md) that the network has a **credibl
 
 > "You can build something centralized on something decentralized but you can’t build something decentralized on top of something centralized. Decentralization is always the base layer." - [@RyanSAdams](https://twitter.com/RyanSAdams/status/1553776203621965826)
 
+https://x.com/antiprosynth/status/1538805665250131971
+
 > "All systems consolidate as they age and grow. But a decentralized system that has consolidated is very different from one that started out centralized. A consolidated decentralized system can fall back to decentralization in crisis. Resilient." - [Gordon Brander](https://twitter.com/gordonbrander/status/1697969661554393461)
 
 > "Unless we have an open, neutral internet we can rely on without worrying about what's happening at the back door, we can't have open government, good democracy, connected communities and diversity of culture. It's not naive to think we can have that, but it is naive to think we can just sit back and get it." - [A Magna Carta for the web

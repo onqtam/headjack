@@ -227,7 +227,7 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "A meaning as psychologically fulfilling as traditionalist mythology, as accurate and dependable as modern science, and as social-contextually aware as postmodern critique. Such a paradigm strikes me as the natural end of a distinctly metamodern spirituality, a framework for exploring our ultimate concerns as humans." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/metamodern-spirituality-and-the-meaning-crisis#:~:text=a%20meaning%20as,concerns%20as%20humans)
 
-The 4 horseman of nihilism, meaninglessness, despair & learned helplessness:
+The 10 horseman of nihilism, meaninglessness, despair & learned helplessness:
 - current mainstream zeitgeist about the second law of thermodynamics
 - Reductionism - no free will, deterministic clockwork universe
 - Lack of direction in evolution & Ignoring the cooperation part of the story in evolution & the selfish gene - fluke accident, chemical scum (hawking quote)
@@ -235,6 +235,7 @@ The 4 horseman of nihilism, meaninglessness, despair & learned helplessness:
 - The murder of curiosity and agency in school
 - hyper individuality - markets - a radical separation of the self from the whole - partly a product of reductionism
 - postmodernism?
+- Inefficacy of democracy & broken governance and lack of coherence
 
 > "With so clean and rosy picture as that as one’s basis, the modern narrative may indeed seem bleak, dull, and dark by comparison: a incomprehensibly vast, unguided universe of infinite space; everything just atoms in a void; the emergence of life a fluke; its evolution an unseemly narrative of “eat or be eaten”; human suffering without justification, and death, the ultimate end." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/deconstructing-religion#:~:text=With%20so%20clean,the%20ultimate%20end.)
 
