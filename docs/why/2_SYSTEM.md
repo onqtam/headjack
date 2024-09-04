@@ -70,6 +70,8 @@ https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 > "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
 
+> "If we do not break the duopoly it will break us." - [Eric Weinstein](https://youtu.be/PYRYXhU4kxM?t=11914)
+
 > "Sure, Locke and Montesquieu came along with their checks, balances, and natural rights, but that only replaced kingly caprice with special-interest capture. Throw in a couple of election spectacles, **et voila**, you’ve got a more tolerable form of serfdom." - [Putting Compulsion in its Place, by Max Borders](https://underthrow.substack.com/p/putting-compulsion-in-its-place?utm_medium=email#:~:text=Sure%2C%20Locke%20and%20Montesquieu%20came%20along%20with%20their%20checks%2C%20balances%2C%20and%20natural%20rights%2C%20but%20that%20only%20replaced%20kingly%20caprice%20with%20special%2Dinterest%20capture.%20Throw%20in%20a%20couple%20of%20election%20spectacles%2C%20et%20voila%2C%20you%E2%80%99ve%20got%20a%20more%20tolerable%20form%20of%20serfdom.)
 
 > "What foul offspring slinks from the coital bed of business and government?

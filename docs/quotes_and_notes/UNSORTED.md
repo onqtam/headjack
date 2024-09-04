@@ -3,6 +3,7 @@
 
 
 
+
 > "The art of looking at the problem from the other person's point of view, identifying his opportunities and his interests, an art that has traditionally been practiced by diplomats, lawyers, and chess players, is at the center of strategic analysis." - [Thomas C. Schelling](https://www.goodreads.com/quotes/10670713-the-art-of-looking-at-the-problem-from-the-other)
 
 
@@ -2063,8 +2064,6 @@ An attractor for coherence and integration
 The parable about the elephant in regards to aggregation and integration
 
 Nobody is developing open source malware and hacks. Stuxnet wasn’t developed in the open. If we make the entire economy open with the proper relationship between collaboration and competition it would be much harder for someone to work on something with scale in opacity
-
-Civilization should be designed from the perspective of the veil of ignorance
 
 If we had to self-regulate crypto - how would we incentivise that founders don’t cash out unless their product actually works out?
 
