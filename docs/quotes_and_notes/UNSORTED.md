@@ -2,6 +2,40 @@
 
 
 
+> "Our instinctual tendencies toward Vengeance are a Great Filter whose perennial nature is more or less obvious...
+>
+> Christianity explicitly articulated and widely encoded the cultural *technology* that is forgiveness, whose *meta-rationality* outcompetes the high time-preference object-level rationality that prescribes Tit-for-Tat. This is why the only strategy that predictably beats Tit-for-Tat is Tit-for-Tat...With Forgiveness.
+>
+> Cancel Culture is a terrible cultural weapon, but it *is not* nuclear warfare. The game theory is entirely different, and Mutually Assured Destruction *will not* result in detente.
+>
+> Like the vast majority of vengeance-driven behavior disguised as "the only rational choice", returning fire via the mechanism of Cancel Culture in hopes of reaching detente is more like gassing a bunch of enemy foot-soldiers who'd previously gassed your foot-soldiers while hoping that this will encourage the Command Structure to alter course.
+>
+> But it will not. It will not precisely because––unlike with nuclear war––the Command Structure remains largely insulated from the retaliatory mechanism, and will simply seek another weapon with which to endow their expendable foot-soldiers.
+>
+> Repeat after me: *you cannot kill an ideology by fueling the feud it uses to justify its own existence*.
+>
+> Down this path lies mountains of corpses on both sides, with zero movement beyond the existing ideological frustration that generated the feud to begin with.
+>
+> The only way to sustainably move beyond this moment of ideological tension is to (at least for a time) transcend it.
+>
+> And the only way to transcend it is to forge new networks and institutions linked by a culture capable of resisting Cancel Culture while setting a *more attractive example*.
+>
+> The goal is to rebuild the 21st century networked variant of the Shining City on a Hill––from within whose walls one need not fear strategies like Cancel Culture.
+>
+> The goal is to become sufficiently resilient and therefore sufficiently indifferent to the resentful attacks of pathological ideologies and their myriad cultural avatars.
+>
+> The goal is to create a culture––ultimately a civilization––of such undeniable vitality that one's enemies find themselves attracted to it at a depth of visceral recognition they can't even fully articulate." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1813990220414783878)
+
+
+
+
+> "In our current scientific paradigm, we operate with a cause-effect linear approach and a reductionist vision. This mindset often leads us to fail in accounting for systemic impacts and second-order effects, resulting in greater issues than those we set out to solve. This oversight is not just a minor flaw; it represents our greatest crisis of perception and understanding." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=In%20our%20current,perception%20and%20understanding.)
+
+> "If there’s one perspective we desperately need in today’s world, it’s a systemic view. But what exactly is a systemic view? In simple terms, it’s the opportunity to truly understand a system — its components, interactions, and underlying patterns. It’s not just about the elements within a system, but what happens in the dynamic relationships between these elements." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=If%20there%E2%80%99s%20one,between%20these%20elements.)
+
+> "Metacrisis is the crisis of perception and understanding that lies within the range of crises humanity faces." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=Metacrisis%20is%20the%20crisis%20of%20perception%20and%20understanding%20that%20lies%20within%20the%20range%20of%20crises%20humanity%20faces.)
+
+
 
 
 > "The art of looking at the problem from the other person's point of view, identifying his opportunities and his interests, an art that has traditionally been practiced by diplomats, lawyers, and chess players, is at the center of strategic analysis." - [Thomas C. Schelling](https://www.goodreads.com/quotes/10670713-the-art-of-looking-at-the-problem-from-the-other)

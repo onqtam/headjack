@@ -910,6 +910,8 @@ This as the section for matchmaking and with the leary quote
 
 > "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
 
+> "God is what mind becomes when it has passed beyond the scale of our comprehension." - [Freeman Dyson](https://www.azquotes.com/quote/1046023)
+
 > "Science without religion is lame, religion without science is blind." - [Albert Einstein](https://www.goodreads.com/quotes/1612-science-without-religion-is-lame-religion-without-science-is-blind)
 
 > "Two kinds of fools - those who take religion literally, and those who think it has no value." - [Naval Ravikant](https://x.com/naval/status/1442737996814589952)
