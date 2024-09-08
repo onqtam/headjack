@@ -1445,6 +1445,21 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 
 
+Knowing one's place: a free-energy approach to pattern regulation
+Karl Friston, Michael Levin
+https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.1383
+
+
+Collective intelligence: A unifying concept for integrating biology across scales and substrates
+Patrick McMillen & Michael Levin
+https://www.nature.com/articles/s42003-024-06037-4.pdf
+
+On Having No Head: Cognition throughout Biological Systems
+Michael Levin
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00902/full
+
+
+
 
 
 Gershenson, C. (2006). A general methodology for designing self-organizing systems. Technical Report 2005-05, ECCO.
