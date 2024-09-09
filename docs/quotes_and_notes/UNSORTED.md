@@ -90,18 +90,6 @@
 
 > "Economists got away from really questioning how the world works, how decisions actually got made. If something doesn't conform to neoclassical models ... people are not somehow behaving themselves properly." - [W. Brian Arthur](https://www.azquotes.com/quote/1370204)
 
-> "" - [W. Brian Arthur]()
-
-> "" - [W. Brian Arthur]()
-
-> "" - [W. Brian Arthur]()
-
-> "" - [W. Brian Arthur]()
-
-> "" - [W. Brian Arthur]()
-
-> "" - [W. Brian Arthur]()
-
 
 
 
@@ -126,7 +114,79 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 
 
-> "" - []()
+> "We are only just beginning to understand the power of love because we are just beginning to understand the weakness of force and aggression." - [B. F. Skinner](https://www.goodreads.com/quotes/393169-we-are-only-just-beginning-to-understand-the-power-of)
+
+> "No one asks how to motivate a baby. A baby naturally explores everything it can get at, unless restraining forces have already been at work. And this tendency doesn't die out, it's wiped out." - [B. F. Skinner](https://www.goodreads.com/quotes/394392-no-one-asks-how-to-motivate-a-baby-a-baby)
+
+> "The consequences of an act affect the probability of its occurring again." - [B. F. Skinner](https://www.goodreads.com/quotes/1054191-the-consequences-of-an-act-affect-the-probability-of-its)
+
+> "Men build society and society builds men." - [B. F. Skinner](https://www.goodreads.com/quotes/450985-men-build-society-and-society-builds-men)
+
+> "The world's a poor standard. Any society which is free of hunger and violence looks bright against that background." - [B. F. Skinner](https://www.goodreads.com/quotes/451077-the-world-s-a-poor-standard-any-society-which-is-free)
+
+
+
+
+> "Scientific theories never dictate human values, but they can often cast new light on ethical issues. From a sexual selection viewpoint, moral philosophy and political theory have mostly been attempts to shift male human sexual competitiveness from physical violence to the peaceful accumulation of wealth and status. The rights to life, liberty, and property are cultural inventions that function, in part, to keep males from killing and stealing from one another while they compete to attract sexual partners." - [Geoffrey Miller](https://www.azquotes.com/quote/927979)
+
+> "You may think that tax policy sounds like the most boring topic in the world. That is precisely what most governments, corporations, and special interests would like you to think, because tax policy is where much of society and the economy gets shaped. It is also where well-informed citizens can achieve socioeconomic revolutions with astonishing speed and effectiveness—but only if they realize how much power they might wield in this domain. If citizens don’t understand taxes, they don’t understand how, when, and where their government expropriates money, time, and freedom from their lives. They also don’t understand how most governments bias consumption over savings, and bias some forms of consumption over other forms, thereby distorting the trait-display systems that people might otherwise favor." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213268-you-may-think-that-tax-policy-sounds-like-the-most)
+
+> "Existing political philosophies all developed before evolutionary game theory, so they do not take equilibrium selection into account. Socialism pretends that individuals are not selfish sexual competitors, so it ignores equilibria altogether. Conservatism pretends that there is only one possible equilibrium—a nostalgic version of the status quo—that society could play. Libertarianism ignores the possibility of equilibrium selection at the level of rational social discourse, and assumes that decentralized market dynamics will magically lead to equilibria that yield the highest aggregate social benefits. Far from being a scientific front for a particular set of political views, modern evolutionary psychology makes most standard views look simplistic and unimaginitive." - [Geoffrey Miller](https://www.goodreads.com/quotes/214893-existing-political-philosophies-all-developed-before-evolutionary-game-theory-so)
+
+> "Capitalism is not “materialistic,” but “semiotic.” It concerns mainly the psychological world of signs, symbols, images, and brands." - [Geoffrey Miller](https://www.goodreads.com/quotes/5594626-capitalism-is-not-materialistic-but-semiotic-it-concerns-mainly-the)
+
+> "Thus, consumption taxes tend to reduce conspicuous consumption and promote longer-term retirement security, family wealth, social welfare, technical progress, and economic growth. In essence, income taxes penalize people for what they contribute to society (labor and capital), whereas consumption taxes penalize people for what they take out of society (new retail purchases). So, to tax experts, it is no surprise that U.S. and U.K. citizens spend too much and don’t save enough, relative to what would be optimal for society and even for themselves." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213272-thus-consumption-taxes-tend-to-reduce-conspicuous-consumption-and-promote)
+
+> "The discriminatory nature of sexual choice undermines all egalitarian Utopias. Women might like the idea of all men being able to have equal amounts of sex, but no individual woman would be willing to forgo her power of sexual choice to allow an unattractive, unfit man to copulate with her." - [Geoffrey Miller](https://www.goodreads.com/quotes/11253954-the-discriminatory-nature-of-sexual-choice-undermines-all-egalitarian-utopias)
+
+> "Many products are signals first and material objects second. Our vast social-primate brains evolved to pursue one central social goal: to look good in the eyes of others. Buying impressive products in a money-based economy is just the most recent way to fulfill that goal." - [Geoffrey Miller](https://www.goodreads.com/quotes/11433462-many-products-are-signals-first-and-material-objects-second-our)
+
+> "The ad viewer himself need not believe that the brand has any logical or statistical link to the aspirational trait he wants to display. He must simply believe that other ad viewers from his social circle will perceive such a link." - [Geoffrey Miller](https://www.goodreads.com/review/show/274484662)
+
+
+Turn on, tune in, drop out
+https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
+
+> "Women who seek to be equal with men lack ambition." - [Timothy Leary](https://www.goodreads.com/quotes/52841-women-who-seek-to-be-equal-with-men-lack-ambition)
+
+
+
+> "I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong." - [John Lennon](https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not)
+
+> "If everyone demanded peace instead of another television set, then there'd be peace." - [John Lennon](https://www.goodreads.com/quotes/4601-if-everyone-demanded-peace-instead-of-another-television-set-then)
+
+> "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one." - [John Lennon](https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the)
+
+> "God is a concept by which we measure our pain." - [John Lennon](https://www.goodreads.com/quotes/40871-god-is-a-concept-by-which-we-measure-our-pain)
+
+
+> "Our society is run by insane people for insane objectives." - [John Lennon](https://www.goodreads.com/quotes/166129-our-society-is-run-by-insane-people-for-insane-objectives)
+
+> "All you need is love." - [John Lennon](https://www.goodreads.com/quotes/432663-all-you-need-is-love)
+
+
+
+> "The most important question facing humanity is this: Can we reach global empathy in time to avoid the collapse of civilization and save the Earth?" - [Jeremy Rifkin](https://www.goodreads.com/quotes/6496558-the-most-important-question-facing-humanity-is-this-can-we)
+
+> "A half century from now, our grandchildren are likely to look back at the era of mass employment in the market with the same sense of utter disbelief as we look upon slavery and serfdom in former times. The very idea that a human being’s worth was measured almost exclusively by his or her productive output of goods and services and material wealth will seem primitive, even barbaric, and be regarded as a terrible loss of human value to our progeny living in a highly automated world where much of life is lived on the Collaborative Commons." - [Jeremy Rifkin](https://www.goodreads.com/quotes/6934118-a-half-century-from-now-our-grandchildren-are-likely-to)
+
+
+
+> "" - [Michael J. Sandel]()
+
+> "" - [Michael J. Sandel]()
+
+> "" - [Michael J. Sandel]()
+
+> "" - [Michael J. Sandel]()
+
+> "" - [Michael J. Sandel]()
+
+> "" - [Michael J. Sandel]()
+
+> "" - [Michael J. Sandel]()
+
+
 
 > "" - []()
 
@@ -134,6 +194,7 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 > "" - []()
 
+> "" - []()
 
 
 
@@ -3544,9 +3605,9 @@ Digital church
 
 Applied isomorphism - consciously re-applying the principles & mechanisms that evolution has discovered
 
-Rage rage against the anti-nesting principle
-A defiance against the Anti-nesting principle for consciousness
-https://en.wikipedia.org/wiki/Anti-nesting_principle
+
+> "Rage, rage against the [Anti-nesting principle for consciousness](https://en.wikipedia.org/wiki/Anti-nesting_principle) which would lead to the dying of the light." - [Do not go gentle into that good night, by Dylan Thomas](https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night)
+
 
 Unsustainability/overshoot should be a conscious tradeoff - a calculation
 
@@ -4463,6 +4524,132 @@ We need a system that people can believe in
 The opposite of apathy, cynicism & nihilism
 
 Consciousness is about optimal/efficient attention/curiosity
+
+
+we need a cultural evolution architecture that's most conducive and facilitating to evolution - how do we get to the best possible culture (that includes a mechanism for it's own improvement) as fast as possible and display that as unequivocally as possible to everyone else?
+
+How do we outsource our beliefs and sensemaking to a system we can trust?
+
+The scaling of cooperation protocols is the game of life
+
+The children we create are what our legacy will be - what kind of a civilization carries forth the torch of life
+
+What does it mean to have kids?
+
+Most people are on an autopilot existence
+
+How do we get the right memes in peoples heads? And how do we determine what is right?
+
+God is a governance protocol
+
+Be the pattern you want to see in the world
+
+I feel like everyone who is blindly complicit in the current system is robbing me of meaning in life by engendering what I hold most sacred which is the existence of life
+
+The Actual Situational Awareness: the century ahead
+https://situational-awareness.ai/
+
+Interactive timeline querying and filtering around a specific theme of event or chain of events
+
+Diff followers kardashians and boyan slat
+
+How to effectively operate in a super-organism
+
+If we come to an agreement on how to objectively answer questions (by looking at their unique representations and choosing who to trust with the opinions) we can then use LLMs to link any text or audio long-form media and fact-check them
+
+Cultural norm: the kill is not attributed to the hunter that killed an animal nor is he the one that distributes the meat, but the owner of the arrow - used to check the egos of the best hunters
+
+how to apply "Divide and choose" and something like a veil of ignorance for international resource disputes or even at any scale, and how could we inject pure randomness for the decisions? What if we made international law computable? What if we simplified inter-body relations on all scales into a single template and simplified the reasoning for problems on any scale and any domain?
+We need to radically distill the essential frames and methods for how to think about communities and society on any scale.
+
+From bloodline to memeline - who you managed to convert and if they acknowledged you as the one that brought them in
+
+The cosmic battle of the GB vs Moloch - good vs evil
+
+simpsons meme writing on wall "we should all care about how we think of what is true and what is probable to happen and what is just and how to competently plan accordingly and play our part"
+
+we can use LLMs to go through claims within a field and do proper credit assignment when an idea is finally picked up - handling ambiguity and non-uniformness of its expression in the past. We can also trace the evolution of an idea throughout a timeline
+
+
+
+Your worldview tells you what you are. How do we realize what we are with greater depth?
+
+How do we increase the stack size in people’s heads?
+
+Life is a gift that we choose whether to pass it forward or to simply consume selfishly and hedonically with regard only to our limited self - not recognizing the bigger self we’re all inherently supposed to be a family of
+
+What does it mean to treat humanity as a family?
+
+We’ll be rendering and ingesting generative takes of our mythology for the forces in the world and the biggest picture we should be aware of
+
+Imagine if women got to tell the men what they want to see out of them - the power they could wield
+
+We need to run the compact and cleanup procedures over our memeplex and let the optimal way for going forward from all we’ve learned so far emerge - how do we describe our next system and how best to justify its existence and righteousness?
+
+The answer is not 42. The answer to what one should do with their life is to
+The answer is “help life survive and thrive”
+
+Each and every action of each one of us is leaving a mark forever on the destiny of life on earth - each and every one of us can and should find our common humanity and dedicate our lives to something larger than ourselves. How do we cultivate the desire for legacy and greatness? How do we maintain a dream and actually rationally and competently pursue it?
+
+Let's collectively solve every problem as best as possible
+
+You were put on this earth to improve the far-from-thermodynamic-equilibrium-maintaining manifestation of our meta-meme
+
+We can economize out inequality while maintaining the incentives for competition - the frugal society on the higher moral ground
+In this case morality and competence/efficiency overlap
+
+The contractual layer over society and commerce
+
+What if publicly committing yourself to frugality came with other benefits? How do we incentivize frugality while still retaining morale - even supercharging it? What if we gave people meaning - a story about their possible agency and the tools for their participation
+
+We must do multiculturalism and for that, we need to recognize our common humanity as much as possible - our extent of compassion while maintaining competency and collective consciousness is our measure of greatness
+
+We can construct the self of the higher order - each and every one of us can gift his trust to something
+
+We should all care about the Amazon - it's in everyone’s business to ensure the health of the biosphere - while we’re still dumping
+
+Our measure as a civilization should be measured by the standard of living for the least fortunate of us - the better we redistribute funds - the more competent and aligned we prove to be - identity is the backbone of the self
+
+We’ve never been able to express memetically this more efficient and optimal mode of cooperation - thus far we’ve had money and primitive capitalism as our method to reward those that deserve it but there are so many holes that we need to patch up - holes of alignment, justice & credit assignment for contributions and rewards
+
+A currency and sensemaking regime/jurisdiction - our collective participatory worldview
+
+By participating in and defining the GB we also get to define moloch - the opposite system with its current failures - we need a new social currency regime
+
+An inversion of the game - to a more efficient one because it is more aligned and competent
+
+Any other system is more genocidal, ignorant, unconscious, and heartless - we need to collectively have a conversation about humanity
+
+Churchonomics - the study of trade and currency in a religion
+
+We need to improve our projection capability
+
+What should the floor that we should try to guarantee be like? The minimum standard of living that we think every human in 100 years might accept as dignifying and just? When are we finally making the commitment to the whole of humanity with proper representation? Why don't we all vote for the just representation publicly? Skin in the game - prove your case for why the pie should be divided your way - the great justification system
+
+How do we minimise war? How do we reduce the need for great military concentration and weaponry and move more towards local policing of a global contractual agreement - one which truly binds people together - a. Ew cloud mental jurisdiction
+
+The great social alignment & contract adjudication machine
+
+Humanity and its memeplex represent the pinnacle of evolution but we are still shy of our grand part in the span of time
+
+In order to properly contractualise the system we’d need professional/religious identity
+
+What if psychedelic molecules are nature’s way of supplying a cognitive enhancer for the biosphere to foster the expansion of a mind
+
+It's in everyone’s interests to join the game earlier - we can implement our own tax and retirement regime
+
+We need to solve the problem of religion in the most open and self-improving way possible - the alternative is mass death & possible extinction
+
+Higher/deeper alignment with others is a competitive advantage
+
+Each and every one of us is a member of the keystone species - the guardians of life itself
+
+We should all care about Epstein’s list - we need to have a mapping for probable/possible compromisation because of being extorted - the destruction of the image has found itself a place in the market as a service
+
+This is the best possible path
+We are programs - we do what we think we should do. We have a story for ourselves - an inner narrative within a movie. Our consciousness and free will lies in consciously thinking about life seriously
+
+Religion is a contractual agreement for solving certain kinds of problems
 
 
 
