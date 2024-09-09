@@ -217,6 +217,19 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 Few people could predict uber and airbnb - most were extremely sceptical. The same will be true for the sharing economy
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Replacing GDP as our ultimate metric
+██████████████████████████████████████████████████████████████████
+
+Why Economic Growth (GDP) Does Not Bring Population Wellbeing | Economic Myth
+https://www.youtube.com/watch?v=H3MAMn6DyZI
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Gold has no smell
+██████████████████████████████████████████████████████████████████
+
+fungibility, ability to hide malice
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Redistribution
 ██████████████████████████████████████████████████████████████████
 

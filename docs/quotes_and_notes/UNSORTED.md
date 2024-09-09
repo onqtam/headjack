@@ -105,6 +105,37 @@
 
 
 
+> "The essential point to grasp is that in dealing with capitalism we are dealing with an evolutionary process." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/604241)
+
+> "Economic progress, in capitalist society, means turmoil." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/262761)
+
+> "At the heart of capitalism is creative destruction." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1413855)
+
+In Hinduism, the god Shiva is simultaneously destroyer and creator
+https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
+
+> "There exists no more democratic institution than the market." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1341985)
+
+> "The stock exchange is a poor substitute for the Holy Grail." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1103162)
+
+> "Politicians are like bad horsemen who are so preoccupied with staying in the saddle that they can’t bother about where they’re going." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/7582316-politicians-are-like-bad-horsemen-who-are-so-preoccupied-with)
+
+> "Created by wars that required it, the machine now created the wars it required." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/7905235-created-by-wars-that-required-it-the-machine-now-created)
+
+> "The first thing a man will do for his ideals is lie." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/1171071-the-first-thing-a-man-will-do-for-his-ideals)
+
+
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+
+
 
 > "If civilization is to survive, it must live on the interest, not the capital, of nature." - [Ronald Wright](https://www.goodreads.com/quotes/380970-if-civilization-is-to-survive-it-must-live-on-the)
 
@@ -112,11 +143,62 @@
 
 > "To use a computer analogy, we are running twenty-first-century software on hardware last upgraded 50,000 years ago or more. This may explain quite a lot of what we see in the news." - [Ronald Wright](https://www.goodreads.com/quotes/7295907-to-use-a-computer-analogy-we-are-running-twenty-first-century-software)
 
-> "" - []()
 
-> "" - []()
 
-> "" - []()
+
+> "Standard economics assumes that we are rational... But, as the results presented in this book (and others) show, we are far less rational in our decision making... Our irrational behaviors are neither random nor senseless- they are systematic and predictable. We all make the same types of mistakes over and over, because of the basic wiring of our brains." - [Dan Ariely](https://www.goodreads.com/quotes/791943-standard-economics-assumes-that-we-are-rational-but-as-the)
+
+> "Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but often more effective as well." - [Dan Ariely](https://www.goodreads.com/quotes/6801932-money-as-it-turns-out-is-very-often-the-most)
+
+> "That’s a lesson we can all learn: the more we have, the more we want. And the only cure is to break the cycle of relativity." - [Dan Ariely](https://www.goodreads.com/quotes/1194732-that-s-a-lesson-we-can-all-learn-the-more-we)
+
+> "There are many examples to show that people will work more for a cause than for cash." - [Dan Ariely](https://www.goodreads.com/quotes/1400152-there-are-many-examples-to-show-that-people-will-work)
+
+> "Division of labor, in my mind, is one of the dangers of work-based technology. Modern IT infrastructure allows us to break projects into very small, discrete parts and assign each person to do only one of the many parts. In so doing, companies run the risk of taking away employees' sense of the big picture, purpose, and sense of completion." - [Dan Ariely](https://www.goodreads.com/quotes/315819-d-ivision-of-labor-in-my-mind-is-one-of-the)
+
+> "Tom had discovered a great law of human action, namely, that in order to make a man covet a thing, it is only necessary to make the thing difficult to attain." - [Dan Ariely](https://www.goodreads.com/quotes/3174658-tom-had-discovered-a-great-law-of-human-action-namely)
+
+> "Wouldn't economics make a lot more sense if it were based on how people actually behave, instead of how they should behave?" - [Dan Ariely](https://www.goodreads.com/quotes/1241283-wouldn-t-economics-make-a-lot-more-sense-if-it-were)
+
+> "One of the big lessons from behavioral economics is that we make decisions as a function of the environment that we're in." - [Dan Ariely](https://www.azquotes.com/quote/1481313)
+
+> "The most difficult thing is to recognize that sometimes we too are blinded by our own incentives. Because we don’t see how our conflicts of interest work on us." - [Dan Ariely](https://www.azquotes.com/quote/733215)
+
+
+
+> "The greatest question of our time is not communism vs. individualism, not Europe vs. America, not even the East vs. the West; it is whether men can bear to live without God." - [Will Durant](https://www.goodreads.com/quotes/58869-the-greatest-question-of-our-time-is-not-communism-vs)
+
+> "Most history is guessing, and the rest is prejudice." - [Will Durant](https://www.goodreads.com/quotes/6539581-most-history-is-guessing-and-the-rest-is-prejudice)
+
+> "It is not the race that makes the civilization, it is the civilization that makes the people: circumstances geographical, economic, and political create a culture, and the culture creates a human type." - [Will Durant](https://www.goodreads.com/quotes/6880284-it-is-not-the-race-that-makes-the-civilization-it)
+
+> "Science is organized knowledge. Wisdom is organized life." - [Will Durant](https://www.goodreads.com/quotes/11764-science-is-organized-knowledge-wisdom-is-organized-life)
+
+> "Education is a progressive discovery of our own ignorance." - [Will Durant](https://www.goodreads.com/quotes/31315-education-is-a-progressive-discovery-of-our-own-ignorance)
+
+> "History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all." - [Will Durant](https://www.goodreads.com/quotes/1055330-history-reports-that-the-men-who-can-manage-men-manage)
+
+> "Tolerance grows only when faith loses certainty; certainty is murderous." - [Will Durant](https://www.goodreads.com/quotes/84593-tolerance-grows-only-when-faith-loses-certainty-certainty-is-murderous)
+
+> "You can’t fool all the people all the time, but you can fool enough of them to rule a large country." - [Will Durant](https://www.goodreads.com/quotes/3240120-you-can-t-fool-all-the-people-all-the-time-but)
+
+> "A great civilization is not conquered from without, until it has destroyed itself from within. The essential causes of Rome's decline lay in her people, her morals, her class struggle, her failing trade, her bureaucratic despotism, her stifling taxes, her consuming wars." - [Will Durant](https://www.azquotes.com/quote/722731)
+
+> "If we have never been amazed by the very fact that we exist, we are squandering the greatest fact of all." - [Will Durant](https://www.azquotes.com/quote/824182)
+
+> "The political machine triumphs because it is a united minority acting against a divided majority." - [Will Durant](https://www.azquotes.com/quote/83455)
+
+> "In my youth I stressed freedom, and in my old age I stress order. I have made the great discovery that liberty is a product of order." - [Will Durant](https://www.azquotes.com/quote/83462)
+
+> "When liberty destroys order the hunger for order will destroy liberty." - [Will Durant](https://www.azquotes.com/quote/567559)
+
+> "Never mind your happiness; do your duty." - [Will Durant](https://www.azquotes.com/quote/569873)
+
+> "The health of nations is more important than the wealth of nations." - [Will Durant](https://www.azquotes.com/quote/524420)
+
+> "Education is the transmission of civilization." - [Will Durant](https://www.azquotes.com/quote/522317)
+
+
 
 
 
