@@ -1334,6 +1334,8 @@ Massachusetts Institute of Technology
 
 
 
+
+
 > "The closer you come to true freedom of association, the closer you get to a world where everyone is a member of more or less the community they deserve." - [Archipelago and Atomic Communitarianism](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
 
 
