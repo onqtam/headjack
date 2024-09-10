@@ -260,15 +260,6 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "I think a lot of people have this experience that when someone is doing something that is obviously amazing but not what they're trying to do it's easy to appreciate it right like you're a mathematician and you go to a concert and see an amazing musician and you're like wow it's harder for people to sometimes appreciate someone who's doing amazing work in the field that they're wanting to do work because that's where their ego gets wrapped up because they've identified that wait wait that's whatever credit that person is getting whatever love and appreciation they're getting whatever Mastery they have I'm supposed to be getting that and yet if you've dedicated your life to an area for the right reason that you actually love it and want to serve it and someone else is doing amazing at serving that thing you should be the most stoked and if not there's something to look at inside regarding where it's coming from it's coming from some place of not wholeness love and service it's coming from some other place and that's fine like that happens but that's where your own psychological work matters um and it's why the coming from the place of just a depth of connection communion Love and Desire to serve it if someone else is solving a problem that I was wanting to solve then I get to be so stoked and be like I didn't know if I could solve that I didn't know like I was failing in many ways at that like I'm glad more people are working on it." - [Daniel Schmachtenberger](https://youtu.be/DTNGlyBd6O8?t=3963)
 
-> "Money equals optionality to do lots of things. So money is a decentralized incentive system to incentivize people to figure out how to get better at making it and which means novelty search and optimization do a better job of whatever you already figured out how to do. And obviously you can make money via production but also extraction, you can make money via value adding but also externalization of cost. And so when we're talking about organizing towards these other purposes, towards a fundamentally different mastery, you might still have to figure out how to pay your bills, but it's not what is motivating you. Still, you will need to be in coordination with other people who are similarly motivated to you but have different capacities. Now can we come back to externalities, how to avoid externalities?" - [Daniel Schmachtenberger](https://youtu.be/Kep8Fi_rUUI?t=2081)
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
 
 
 
