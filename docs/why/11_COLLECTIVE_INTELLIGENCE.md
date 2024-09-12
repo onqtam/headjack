@@ -872,9 +872,16 @@ positive feedback loops in the economy are way stronger than negative feedback l
 
 > "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps." - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
 
+
+> "To believe in something, and not to live it, is dishonest." - [Mahatma Gandhi](https://www.goodreads.com/quotes/8052-to-believe-in-something-and-not-to-live-it-is)
+
+
 > "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth." - [Oscar Wilde](https://www.goodreads.com/quotes/3736-man-is-least-himself-when-he-talks-in-his-own)
 
 > "Nowadays people know the price of everything and the value of nothing." - [Oscar Wilde](https://www.goodreads.com/quotes/77057-nowadays-people-know-the-price-of-everything-and-the-value)
+
+
+> "Hateful to me as the gates of Hades is that man who hides one thing in his heart and speaks another." - [Homer](https://www.goodreads.com/quotes/64305-hateful-to-me-as-the-gates-of-hades-is-that)
 
 
 Private opinions for polls - you might not want them public but still to be able to compare with those who are public

@@ -377,6 +377,8 @@ We are nothing without everyone else
 
 > "Everyone smiles in the same language." - [George Carlin](https://www.azquotes.com/quote/413244)
 
+> "The day the power of love overrules the love of power, the world will know peace." - [Mahatma Gandhi](https://www.goodreads.com/quotes/248476-the-day-the-power-of-love-overrules-the-love-of)
+
 > "A human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." - [Albert Einstein](https://www.goodreads.com/quotes/369-a-human-being-is-a-part-of-the-whole-called)
 
 > "The greatest tragedy of our modern age is that anger is loud and love is quiet" - [David Holz](https://twitter.com/DavidSHolz/status/1606232701475778560)
@@ -782,6 +784,9 @@ meme: Dad - what did you do - fucking legend - I helped revitalize civilization 
 In order to escape from the grip of an attractor we need to inject some chaos into the system
 Joker - an agent of chaos meme
 An open invitation for agents of chaos
+
+
+> "It is easier to resist at the beginning than at the end." - [Leonardo da Vinci](https://www.goodreads.com/quotes/187861-it-is-easier-to-resist-at-the-beginning-than-at)
 
 Any country could jump in first and reap the benefits - and the “jump” could be gradual
 

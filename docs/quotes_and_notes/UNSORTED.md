@@ -220,9 +220,74 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-> "" - []()
+> "Everything flows and nothing stays." - [Homer](https://www.azquotes.com/quote/588324)
 
-> "" - []()
+> "I know not what the future holds, but I know who holds the future." - [Homer](https://www.goodreads.com/quotes/594969-i-know-not-what-the-future-holds-but-i-know)
+
+> "The blade itself incites to deeds of violence." - [Homer](https://www.goodreads.com/quotes/368547-the-blade-itself-incites-to-deeds-of-violence)
+
+
+
+> "The true measure of any society can be found in how it treats its most vulnerable members." - [Mahatma Gandhi](https://www.azquotes.com/quote/877037)
+
+> "The best way to find yourself is to lose yourself in the service of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/11416-the-best-way-to-find-yourself-is-to-lose-yourself)
+
+> "An eye for an eye will only make the whole world blind." - [Mahatma Gandhi](https://www.goodreads.com/quotes/4553-an-eye-for-an-eye-will-only-make-the-whole)
+
+> "It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business." - [Mahatma Gandhi](https://www.goodreads.com/quotes/32774-it-is-easy-enough-to-be-friendly-to-one-s-friends)
+
+> "You cannot shake hands with a clenched fist." - [Mahatma Gandhi](https://www.goodreads.com/quotes/309773-you-cannot-shake-hands-with-a-clenched-fist)
+
+> "Live simply so that others may simply live." - [Mahatma Gandhi](https://www.goodreads.com/quotes/286133-live-simply-so-that-others-may-simply-live)
+
+> "I call him religious who understands the suffering of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/79037-i-call-him-religious-who-understands-the-suffering-of-others)
+
+> "Our ability to reach unity in diversity will be the beauty and the test of our civilisation." - [Mahatma Gandhi](https://www.goodreads.com/quotes/7352037-our-ability-to-reach-unity-in-diversity-will-be-the)
+
+> "I want freedom for the full expression of my personality." - [Mahatma Gandhi](https://www.goodreads.com/quotes/82961-i-want-freedom-for-the-full-expression-of-my-personality)
+
+> "Our greatest ability as humans is not to change the world; but to change ourselves." - [Mahatma Gandhi](https://www.azquotes.com/quote/850719)
+
+
+
+
+
+
+
+> "Not to punish evil is equivalent to authorizing it." - [Leonardo da Vinci](https://www.azquotes.com/quote/1080575)
+
+
+
+
+
+> "Kites rise highest against the wind, not with it." - [Winston Churchill](https://www.goodreads.com/quotes/11419-kites-rise-highest-against-the-wind-not-with-it)
+
+> "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals." - [Winston Churchill](https://www.goodreads.com/quotes/8912-i-am-fond-of-pigs-dogs-look-up-to-us)
+
+> "Healthy citizens are the greatest asset any country can have." - [Winston Churchill](https://www.goodreads.com/quotes/97948-healthy-citizens-are-the-greatest-asset-any-country-can-have)
+
+> "The empires of the future are the empires of the mind." - [Winston Churchill](https://www.goodreads.com/quotes/21921-the-empires-of-the-future-are-the-empires-of-the)
+
+> "Unless we establish some form of world government, it will not be possible for us to avert a World War III in the future." - [Winston Churchill](https://www.azquotes.com/quote/785081)
+
+> "I began my education at a very early age; in fact, right after I left college." - [Winston Churchill](https://www.azquotes.com/quote/558395)
+
+> "Life is fraught with opportunities to keep your mouth shut." - [Winston Churchill](https://www.azquotes.com/quote/415384)
+
+> "There is no such thing as public opinion. There is only published opinion." - [Winston Churchill](https://www.azquotes.com/quote/56353)
+
+> "A nation that fails to honor its heroes, soon will have no heroes to honor." - [Winston Churchill](https://www.azquotes.com/quote/722245)
+
+> "You have enemies? Good. That means you've stood up for something, sometime in your life." - [Winston Churchill](https://www.azquotes.com/quote/56283)
+
+> "The difference between mere management and leadership is communication." - [Winston Churchill](https://www.azquotes.com/quote/895708)
+
+
+
+
+> "It's not the people who vote that count. It's the people who count the votes." - [Joseph Stalin](https://www.azquotes.com/quote/639772)
+
+
 
 
 
@@ -1282,7 +1347,7 @@ Transparent crowdsourcing of the arbiter of truth
 
 We need to make thinking from first principles the cultural norm
 
-The mind is a pattern-marching machine - it makes sense that we should want to pattern-match the most competent and responsible and put them in charge
+The mind is a pattern-matching machine - it makes sense that we should want to pattern-match the most competent and responsible and put them in charge
 
 The global brain is the most meta goal we could have - the one with the highest impact
 
@@ -2541,8 +2606,6 @@ We want to be good and we are to the degree of the good that we’ve experienced
 
 There is no greater goal than optimizing humanity and being a scientist in the great canvas of history
 
-
-We’re doing an uncapped and perpetuating open financing round
 
 AGI alignment (with humans) and human alignment are mostly the same problem
 

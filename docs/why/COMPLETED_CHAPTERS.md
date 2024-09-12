@@ -179,6 +179,11 @@ No, not everything in there is endorsed or completely true, but still very much 
 
 imagine the process of us coming to consensus to what's most important for everyone to see and read - it would never be complete - an ever-evolving list
 
+Gregg Henriques - Contemplative Interview with Life Itself - Part I
+https://www.youtube.com/watch?v=BeOAVH5eyY4
+Gregg Henriques - Contemplative Interview with Life Itself - Part II
+https://www.youtube.com/watch?v=q8u52CiIkX0
+
 
 William E. Rees: "The Fundamental Issue - Overshoot" | The Great Simplification #53
 https://www.youtube.com/watch?v=LQTuDttP2Yg

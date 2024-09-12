@@ -35,5 +35,12 @@ Will this work? No clue. But what we can say with 100% confidence that we must t
 
 The later you read this the more of a laggard you will be - this system is inevitable
 
+> "I am sorry to have made such a long speech, but I did not have time to write a shorter one." - [Winston Churchill](https://www.azquotes.com/quote/788641)
 
+## Why are so many quotes here not real?
 
+Because we have a broken digital system for attributing who said and expressed what. How about we change that?
+
+## Won't the powers that be oppose this system?
+
+[This book](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) should help.

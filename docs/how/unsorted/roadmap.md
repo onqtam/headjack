@@ -28,6 +28,8 @@ Strategy: let people help with the global brain - gaining reputation in return
 
 strategy: We could individually give 100 “credit boost” credits initially so we can directly port our current importance graph that we all contain in our heads. The great reset - bootstrapping a brand new importance graph as a starting point
 
+We’re doing an uncapped and perpetuating open financing round
+
 strategy:
 we can "import" a part of the web simply by making entries with a message type with an external URI pointing to a traditional page and then allow for commenting and voting and whatnot
 
