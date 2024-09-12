@@ -250,7 +250,34 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
+> "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
 
+> "God is the unlimited conceptual realization of the absolute wealth of potentiality." - [Alfred North Whitehead](https://www.goodreads.com/quotes/8139417-god-is-the-unlimited-conceptual-realization-of-the-absolute-wealth)
+
+> "The art of progress is to preserve order amid change and to preserve change amid order." - [Alfred North Whitehead](https://www.azquotes.com/quote/521410)
+
+
+
+> "We are hurtling toward a day of ecological reckoning. We should have acted many years ago to contain the damage and build a bridge to a different kind of civilization. Now we are faced with an increased population, worse pollution, dwindling resources, progressive biological destruction, much greater complexity, compounding debt, and enormous inertia in the system—a nexus of problems that have no separate solutions, only an aggregate solution requiring a total revolution in our way of life." - [William Ophuls](https://www.goodreads.com/quotes/9727827-we-are-hurtling-toward-a-day-of-ecological-reckoning-we)
+
+> "Anthropologists have long noted that the initial response of primal peoples to radically changed circumstances is not adaptation, but a “revitalization movement”—that is, a fanatical, last-ditch, and often self-destructive effort to preserve the old ways—and the more successful the culture has been in the past, the more likely it is to resist change." - [William Ophuls](https://www.goodreads.com/quotes/11382077-anthropologists-have-long-noted-that-the-initial-response-of-primal)
+
+
+
+
+> "" - [Norbert Wiener]()
+
+> "" - [Norbert Wiener]()
+
+> "" - [Norbert Wiener]()
+
+> "" - [Norbert Wiener]()
+
+> "" - [Norbert Wiener]()
+
+> "" - [Norbert Wiener]()
+
+> "" - [Norbert Wiener]()
 
 
 
