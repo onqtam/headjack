@@ -174,6 +174,8 @@ https://www.metaculus.com/help/faq/#metaculus-prediction
 
 https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
 
+metaculus, polymarket, manifold
+
 https://en.wikipedia.org/wiki/Prediction_market
 
 https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e

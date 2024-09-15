@@ -31,6 +31,10 @@ Communism ignored human nature - this embraces it. This is infinitely more sophi
 
 Will this work? No clue. But what we can say with 100% confidence that we must try to create a better system than the current one.
 
+
+> "A vision should be judged by the clarity of its values, not the clarity of its implementation path." - [Donella H. Meadows](https://www.goodreads.com/quotes/163481-a-vision-should-be-judged-by-the-clarity-of-its)
+
+
 ## TL;DR?
 
 The later you read this the more of a laggard you will be - this system is inevitable

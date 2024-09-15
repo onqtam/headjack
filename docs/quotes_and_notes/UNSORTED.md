@@ -265,20 +265,48 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-> "" - [Norbert Wiener]()
+> "Any use of a human being in which less is demanded of him and less is attributed to him than his full status is a degradation and a waste." - [Norbert Wiener](https://www.azquotes.com/quote/780182)
 
-> "" - [Norbert Wiener]()
+> "We are but whirlpools in a river of ever-flowing water. We are not stuff that abides, but patterns that perpetuate themselves. A pattern is a message, and may be transmitted as a message." - [Norbert Wiener](https://www.azquotes.com/quote/703349)
 
-> "" - [Norbert Wiener]()
+> "Until we in the community have made up our minds that what we really want is expiation, or removal, or reform, or or the discouragement of potential criminals, we shall get none of these, but only a confusion in which crime breeds more crime." - [Norbert Wiener](https://www.azquotes.com/quote/1084944)
 
-> "" - [Norbert Wiener]()
 
-> "" - [Norbert Wiener]()
 
-> "" - [Norbert Wiener]()
 
-> "" - [Norbert Wiener]()
 
+
+
+> "There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion." - [Donella H. Meadows](https://www.goodreads.com/quotes/1332893-there-are-no-separate-systems-the-world-is-a-continuum)
+
+> "You think that because you understand “one” that you must therefore understand “two” because one and one make two. But you forget that you must also understand “and.”" - [Donella H. Meadows](https://www.goodreads.com/quotes/1196427-you-think-that-because-you-understand-one-that-you-must)
+
+> "But rules for sustainability, like every workable social rule, would be put into place not to destroy freedoms, but to create freedoms or to protect them. A ban on bank robbing inhibits the freedom of the thief in order to assure that everyone else has the freedom to deposit and withdraw money safely. A ban on overuse of a renewable resource or on the generation of a dangerous pollutant protects vital freedoms in a similar way." - [Donella H. Meadows](https://www.goodreads.com/quotes/576820-but-rules-for-sustainability-like-every-workable-social-rule-would)
+
+> "A system is an interconnected set of elements that is coherently organized in a way that achieves something." - [Donella H. Meadows](https://www.goodreads.com/quotes/7134925-a-system-is-an-interconnected-set-of-elements-that-is)
+
+> "If you define the goal of a society as GNP, that society will do its best to produce GNP. It will not produce welfare, equity, justice, or efficiency unless you define a goal and regularly measure and report the state of welfare, equity, justice, or efficiency." - [Donella H. Meadows](https://www.goodreads.com/quotes/3232017-if-you-define-the-goal-of-a-society-as-gnp)
+
+> "System structure is the source of system behavior. System behavior reveals itself as a series of events over time." - [Donella H. Meadows](https://www.goodreads.com/quotes/9401327-system-structure-is-the-source-of-system-behavior-system-behavior)
+
+> "The world is a complex, interconnected, finite, ecological - social - psychological - economic system. We treat it as if it were not, as if it were divisible, separable, simple, and infinite. Our persistent, intractable global problems arise directly from this mismatch." - [Donella H. Meadows](https://www.azquotes.com/quote/1118199)
+
+> "Eleventh Commandment: Thou shalt not distort, delay, or sequester information." - [Donella H. Meadows](https://www.azquotes.com/quote/1344901)
+
+
+
+
+
+> "" - []()
+
+
+
+
+> "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)
+
+
+
+> "Most of what we call civilization depends on reciprocal vulnerability." - [Thomas Schelling](https://www.armscontrolwonk.com/archive/1209738/heroes-of-arms-control-thomas-schelling/#:~:text=Most%20of%20what%20we%20call%20civilization%20depends%20on%20reciprocal%20vulnerability.)
 
 
 > "Not to punish evil is equivalent to authorizing it." - [Leonardo da Vinci](https://www.azquotes.com/quote/1080575)
