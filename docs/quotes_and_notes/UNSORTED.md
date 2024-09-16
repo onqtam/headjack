@@ -297,7 +297,22 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
+> "There can be no liberty for a community which lacks the means by which to detect lies." - [Walter Lippmann](https://www.goodreads.com/quotes/53931-there-can-be-no-liberty-for-a-community-which-lacks)
+
+> "Ours is a problem in which deception has become organized and strong; where truth is poisoned at its source; one in which the skill of the shrewdest brains is devoted to misleading a bewildered people." - [Walter Lippmann](https://www.azquotes.com/quote/1090709)
+
+> "But what is propaganda, if not the effort to alter the picture to which men respond, to substitute one social pattern for another?" - [Walter Lippmann](https://www.goodreads.com/quotes/967104-but-what-is-propaganda-if-not-the-effort-to-alter)
+
+
+
+> "I think the idea that a society has to be responsible for all of its citizens, those who do well and those who do not, is really a precondition of a good society." - [Kenneth Arrow](https://www.azquotes.com/quote/1563668)
+
+> "I think on the efficiency level, not only the distribution level, capitalism is a flawed system. It probably has the same virtues as Churchill attributed to democracy: It's the worst system except for any other." - [Kenneth Arrow](https://www.azquotes.com/quote/1563673)
+
+
+
 > "" - []()
+
 
 
 
