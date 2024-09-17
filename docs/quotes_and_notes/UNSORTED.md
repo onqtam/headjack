@@ -311,8 +311,75 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-> "" - []()
+> "If you live for having it all, what you have is never enough." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/106478-if-you-live-for-having-it-all-what-you-have)
 
+> "The key is remembering that anything you buy and don’t use, anything you throw away, anything you consume and don’t enjoy is money down the drain, wasting your life energy and wasting the finite resources of the planet. Any waste of your life energy means more hours lost to the rat race, making a dying. Frugality is the user-friendly and earth-friendly lifestyle." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/10463240-the-key-is-remembering-that-anything-you-buy-and-don-t)
+
+> "The only real asset you have is your time. The hours of your life." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/10368158-the-only-real-asset-you-have-is-your-time-the)
+
+> "What kind of society turns its young people into a profit center for the debt industry?" - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/9463762-what-kind-of-society-turns-its-young-people-into-a)
+
+> "Consumption seems to be our favorite high, our nationally sanctioned addiction, the all-American form of substance abuse." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/9530885-consumption-seems-to-be-our-favorite-high-our-nationally-sanctioned)
+
+
+
+
+> "We believe there is no inherent conflict between the techno-capital machine and the natural environment. Per-capita US carbon emissions are lower now than they were 100 years ago, even without nuclear power." - [The Techno-Optimist Manifesto, by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/#:~:text=We%20believe%20there%20is%20no%20inherent%20conflict%20between%20the%20techno%2Dcapital%20machine%20and%20the%20natural%20environment.%20Per%2Dcapita%20US%20carbon%20emissions%20are%20lower%20now%20than%20they%20were%20100%20years%20ago%2C%20even%20without%20nuclear%20power.)
+
+^^ this is what ignoring what's been exported to third world countries looks like
+
+
+
+
+> "The core problem is not ultimately material, but conceptual - a crisis of meaning and an inadequate understanding of human nature, our environment, and our place in the cosmos. The rise of the scientific worldview has enabled us to manipulate the material world with incredible precision, but has also fragmented our conceptual frameworks and left us without a coherent, compelling vision of who we are and what we should be aiming at individually and collectively.
+>
+> At the root... is a failure to appreciate the deep patterning of nature and how humanity fits into the larger unfolding of the universe. We have lost the sense of enchantment and inherent purposiveness that pervaded premodern worldviews, but have not yet developed a rigorous, empirically grounded understanding of meaning and mattering to replace it. The result is a growing sense of arbitrariness, alienation, and angst in modern life." - [Tomer Solomon](https://tomersolomon.substack.com/p/uptm-prelude-on-bildungsromans-and#:~:text=the%20core%20problem,in%20modern%20life.)
+
+> "Greek philosophy, especially Plato and Aristotle, provides the foundational insight that nature is imbued with inherent purposiveness, or telos. In recent times, Alfred North Whitehead reconciles Plato’s intuition with the latest scientific enterprise. Just as the acorn naturally grows into the oak tree which then seeds new acorns, realizing its essential form, so too do all things have a natural end state they are striving to actualize. This teleological view challenges the reductionistic materialism that pervades modern thought, revealing a cosmos pregnant with meaning and value.
+>
+> Mathematics, namely the free energy principle, in turn, shows us that this purposive unfolding is deeply patterned in precise, compressible ways where ancient metaphysics can become actual physics from the latest statistical formulations of identity, Markov blankets. From the symmetries of physics to the fractals of biology and the beautiful simplicity of the free energy principle, we find nature expressing herself in stunningly beautiful and regular forms. This points to an underlying generative order or logos that gives rise to the manifest complexity of the universe. Furthermore, we are now in an intellectual position to merge mathematics and philosophy. Meaning, in this view, is about discerning and aligning ourselves with this deep patterning.
+>
+> Computational neuroscience, particularly the Bayesian brain hypothesis, further illuminates the process by which we detect these meaningful patterns. Our brains, it turns out, are essentially prediction machines, continuously modeling regularities in our environment and using those models to anticipate the future. We experience the world as meaningful to the extent that we can successfully compress its complexity into reliable patterns and make sense of unfolding events. This suggests that the mind reflects the underlying structure of nature and that meaning is not some abstract property, but a function of how well we can understand and navigate the world." - [Tomer Solomon](https://tomersolomon.substack.com/p/uptm-prelude-on-bildungsromans-and#:~:text=Greek%20philosophy%2C%20especially,navigate%20the%20world.)
+
+> "What if we could design our organizational systems to be optimally aligned with the deep structures of the mind and the principles of complexity theory? Just as the human brain is a marvel of self-organizing complexity, with billions of neurons cooperating to give rise to the emergent phenomena of consciousness and intelligence, could we architect our institutions to harness the same generative dynamics?
+>
+> Imagine businesses, governments, and social initiatives that were explicitly modeled on the latest insights from neuroscience, complex systems theory, and evolutionary biology. These organizations would be designed to cultivate the conditions for individual flourishing and collective intelligence. They would be adaptive, resilient, and self-optimizing, with feedback loops and error-correction mechanisms analogous to those found in living systems." - [Tomer Solomon](https://tomersolomon.substack.com/p/uptm-prelude-on-bildungsromans-and#:~:text=what%20if%20we,in%20living%20systems.)
+
+
+
+
+> "We are not only observers. We are participators. In some strange sense this is aparticipatory universe." - [John Wheeler](https://www.azquotes.com/quote/1458863)
+
+
+
+
+> "The world’s leaders are correctly fixated on economic growth as the answer to virtually all problems, but they’re pushing with all their might in the wrong direction." - [Leverage Points: Places to Intervene in a System, by Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/#:~:text=The%20world%E2%80%99s%20leaders%20are%20correctly%20fixated%20on%20economic%20growth%20as%20the%20answer%20to%20virtually%20all%20problems%2C%20but%20they%E2%80%99re%20pushing%20with%20all%20their%20might%20in%20the%20wrong%20direction.)
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
+
+
+
+> "" - []()
 
 
 
@@ -4172,6 +4239,68 @@ A game for the betterment of our collective service game. We need to implement s
 Government are people, governance is a (cultural) protocol
 
 Your public weights will be part of humanity’s memome (as in memetic genome)
+
+
+
+
+
+We will initially be at a tax disadvantage because our participants will be taxed by states in addition to our own tax/redistribution system but we will outcompete the rest. We will tcare of our own and the services of states will be rendered obsolete 1 by 1. We will look for ways to reduce the unnecessary tax burden imposed on us by the obsolete decaying system that we are replacing.
+
+We shall split our collective holdings in many different jurisdictions and also in many different vaults with cryptocurrency - there shall be no single point of failure.
+
+This is the proper manifestation of an extinction rebellion - compared to the current organization in the UK
+
+Disintegration of information, divide and conquer, frame control
+
+We should reward super-forecasters not just for getting things right but also for helping others improve
+
+I want to report to twitter that im annoyed that when i load the site and i see a notification number for a second and then it disappears for the next 10 seconds until the notifications can actually be browsed - forcing me to wait and spend time on the platform - how do I report this annoyance to the platform in a way such that any other reports about that get aggregated? LLMs. And we should be able to trace who was the psychology hire that suggested that to get implemented. It is put there by design.
+
+Memes - Be fruitful and multiply and fill the noosphere
+https://en.wikipedia.org/wiki/Be_fruitful_and_multiply
+
+proper credit assignment is important for 2 reasons: to know who to ask in the future and give more weight to their opinion, and also to motivate them
+
+A true rules-based order is more powerful than the blob of people that are leading any government
+
+
+
+The system that can be named is not the system
+> "The Tao that can be told is not the eternal Tao." - [Lao Tzu](https://www.goodreads.com/quotes/230935-the-tao-that-can-be-told-is-not-the-eternal)
+
+We need to implement valence in our markets - we must regulate the way money and power work
+https://en.wikipedia.org/wiki/Valence_(psychology)
+
+Conscious design of the social welfare function
+What is our global social welfare function?
+What is welfare anyway? What do we want for humanity?
+
+We need to starve the current system both in resources and in purpose of existence - we need the unequivocal higher moral ground
+
+Luxury is suicidal
+
+Entire sections of the economy are working purely for the 1% to satisfy their needs of luxury.
+
+What if we stigmatized extreme luxury for a century and we pointed to a better system for collective intelligence and wealth generation and distribution?
+
+The intelligence that Bryan wants to surrender his life to is not going to be a single AGI but the collective global brain - alignment is only achieved through transparency and common knowledge
+
+We should replace our gdp metric with reducing nuclear warheads as the main thing to optimize for
+
+The friendship protocol - the “pick the optimal side” protocol
+
+Telos as a service
+
+We need to gamify the world and pet the young compete with us for status
+
+Solving
+The alignment problem
+The answer to life
+
+The answer is the game of life itself - play to win it.
+
+Our telos is love itself
+The “im not afraid of death” meme is virtue signalling and/or ignorance - we all cope somehow
 
 
 

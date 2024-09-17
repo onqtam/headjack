@@ -146,6 +146,9 @@ TODO: this goes in the growth strat!
 think about a migration strategy for twitter
 
 
+How do we get 1m people to have read this in 1 year and a billion in 10 years?
+
+
 hackatons:
 https://devpost.com/
 
