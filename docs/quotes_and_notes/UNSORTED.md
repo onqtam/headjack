@@ -379,8 +379,122 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
+
+
+> "The task of universal pragmatics is to identify and reconstruct universal conditions of possible mutual understanding." - [Jürgen Habermas](https://www.azquotes.com/quote/1108143)
+
+
+
+> "Human beings are not perfectly rational calculators. Our behavior and decisions are based on a mixture of calculation, emotions, and internalized norms, with calculation often a minor component of the cocktail." - [Peter Turchin](https://www.goodreads.com/quotes/11410588-we-also-know-of-course-that-human-beings-are-not)
+
+> "Our oversized brains evolved, in large part, to detect and resist manipulation by those who want to get ahead at our expense." - [Peter Turchin](https://www.goodreads.com/quotes/8237449-our-oversized-brains-evolved-in-large-part-to-detect-and)
+
+> "For tens if not hundreds of thousands of years before agriculture, human societies had very effective social norms and institutions for controlling bullies. Why would they suddenly (in a few thousand years) replace them with institutions that gave the upstarts legitimacy?" - [Peter Turchin](https://www.goodreads.com/quotes/8237451-for-tens-if-not-hundreds-of-thousands-of-years-before)
+
+> "Around 2,500 years ago, we see qualitatively new forms of social organization—the larger and more durable Axial mega-empires that employed new forms of legitimation of political power. The new sources of this legitimacy were the Axial religions, or more broadly ideologies, such as Zoroastrianism, Buddhism, and Confucianism (and later Christianity and Islam). During this time, gods evolved from capricious projections of human desire (who as often as not squabbled among themselves) into transcendental moralizers concerned above all with prosocial behavior by all, including the rulers." - [Peter Turchin](https://www.goodreads.com/quotes/8237686-around-2-500-years-ago-we-see-qualitatively-new-forms-of)
+
+
+
+> "The public has a distorted view of science because children are taught in school that science is a collection of firmly established truths. In fact, science is not a collection of truths. It is a continuing exploration of mysteries." - [Freeman Dyson](https://www.goodreads.com/quotes/360178-the-public-has-a-distorted-view-of-science-because-children)
+
+> "It is better to be wrong than to be vague." - [Freeman Dyson](https://www.goodreads.com/quotes/482676-it-is-better-to-be-wrong-than-to-be-vague)
+
+> "The poorer half of humanity needs cheap housing, cheap health care, and cheap education, accessible to everybody, with high quality and high aesthetic standards. The fundamental problem for human society in the next century is the mismatch between the three new waves of technology and the three basic needs of poor people. The gap between technology and needs is wide and growing wider. If technology continues along its present course, ignoring the needs of the poor and showering benefits upon the rich, the poor will sooner or later rebel against the tyranny of technology and turn to irrational and violent remedies. In the future, as in the past, the revolt of the poor is likely to impoverish rich and poor together." - [Freeman Dyson](https://www.goodreads.com/quotes/7974718-the-poorer-half-of-humanity-needs-cheap-housing-cheap-health)
+
+> "Technology without morality is barbarous; morality without technology is impotent." - [Freeman Dyson](https://www.azquotes.com/quote/1405345)
+
+
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+
+
+
+> "Both bad driving and bad voting are dangerous not merely to the individual who practices them, but to innocent bystanders." - [Bryan Caplan](https://www.goodreads.com/quotes/6702747-both-bad-driving-and-bad-voting-are-dangerous-not-merely)
+
+> "Good intentions are ubiquitous in politics; what is scarce is accurate beliefs." - [Bryan Caplan](https://www.goodreads.com/quotes/8070673-good-intentions-are-ubiquitous-in-politics-what-is-scarce-is)
+
+> "Would we still have a "democracy" if you needed to pass a test of economic literacy to vote? If you needed a college degree? Both of these measures raise the economic understanding of the median voter, leading to more sensible policies. Franchise restrictions were historically used for discriminatory ends, but that hardly implies that they should never be used again for any reason. A test of voter competence is no more objectionable than a driving test." - [Bryan Caplan](https://www.goodreads.com/quotes/6702746-would-we-still-have-a-democracy-if-you-needed-to)
+
+> "If voters are systematically mistaken about what policies work, there is a striking implication: They will not be satisfied by the politicians they elect. A politician who ignores the public’s policy preferences looks like a corrupt tool of special interests. A politician who implements the public’s policy preferences looks incompetent because of the bad consequences." - [Bryan Caplan](https://www.goodreads.com/quotes/7674777-if-voters-are-systematically-mistaken-about-what-policies-work-there)
+
+> "It is irrational to be politically well-informed because the low returns from data simply do not justify their cost in time and other resources." - [Bryan Caplan](https://www.goodreads.com/quotes/8514423-it-is-irrational-to-be-politically-well-informed-because-the-low)
+
+> "Irrationality in politics is not a puzzle. It is precisely what an economic theory of irrationality predicts." - [Bryan Caplan](https://www.goodreads.com/quotes/9114546-irrationality-in-politics-is-not-a-puzzle-it-is-precisely)
+
+> "In daily life, reality gives us material incentives to restrain our irrationality. But what incentive do we have to think rationally about politics?" - [Bryan Caplan](https://www.azquotes.com/quote/679518)
+
+
+
+> "My view of the internet is that it is way overrated in what it’s done to date but considerably underrated in what it will do." - [Tyler Cowen](https://www.azquotes.com/quote/790439)
+
+
+
+> "The economy is a wholly owned subsidiary of the environment, not the reverse." - [Herman E. Daly](https://www.goodreads.com/quotes/250276-the-economy-is-a-wholly-owned-subsidiary-of-the-environment)
+
+> "There is something fundamentally wrong in treating the Earth as if it were a business in liquidation." - [Herman E. Daly](https://www.goodreads.com/quotes/16932-there-is-something-fundamentally-wrong-in-treating-the-earth-as)
+
+> "If nonsatiety were the natural state of human nature then aggressive want-stimulating advertising would not be necessary, nor would the barrage of novelty aimed at promoting dissatisfaction with last year's model. The system attempts to remake people to fit its own presuppositions. If people's wants are not naturally insatiable we must make them so, in order to keep the system going." - [Herman E. Daly](https://www.goodreads.com/quotes/250277-if-nonsatiety-were-the-natural-state-of-human-nature-then)
+
+> "Malthus has been buried many times, and Malthusian scarcity with him. But as Garrett Hardin remarked, anyone who has to be reburied so often cannot be entirely dead." - [Herman E. Daly](https://www.goodreads.com/quotes/16929-malthus-has-been-buried-many-times-and-malthusian-scarcity-with)
+
+> "Future progress simply must be made in terms of the things that really count rather than the things that are merely countable." - [Herman E. Daly](https://www.goodreads.com/quotes/7227811-future-progress-simply-must-be-made-in-terms-of-the)
+
+
+
+> "Teaching is not entertainment, but it is unlikely to be successful unless it is interesting." - [Herbert Simon](https://www.goodreads.com/quotes/9126681-teaching-is-not-entertainment-but-it-is-unlikely-to-be)
+
+> "Solving a problem simply means representing it so as to make the solution transparent." - [Herbert Simon](https://www.azquotes.com/quote/1314684)
+
+> "A complex decision is like a great river, drawing from its many tributaries the innumerable premises of which it is constituted." - [Herbert Simon](https://www.azquotes.com/quote/1346037)
+
+> "The intelligent altruists, though less altruistic than unintelligent altruists, will be fitter than both unintelligent altruists and selfish individuals." - [Herbert Simon](https://www.azquotes.com/quote/1177956)
+
+
+
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+> "" - [Yanis Varoufakis]()
+
+
+
+
 > "" - []()
 
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
 
 
 

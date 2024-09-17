@@ -709,6 +709,8 @@ Philip morris Indonesia kids
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
 
+> "Each murder is one too many." - [Jürgen Habermas](https://www.azquotes.com/quote/994093)
+
 > "This is a difference between nuclear weapons and bayonets. It is not in the number of people they can eventually kill but in the speed with which it can be done, in the centralization of decision, in the divorce of the war from political processes, and in computerized programs that threaten to take the war out of human hands once it begins." - [Thomas C. Schelling](https://www.goodreads.com/quotes/9241963-this-is-a-difference-between-nuclear-weapons-and-bayonets-it)
 
 the biggest contributor as an entity to global warming is The Pentagon
