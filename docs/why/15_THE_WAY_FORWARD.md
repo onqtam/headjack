@@ -240,6 +240,9 @@ The 10 horseman of nihilism, meaninglessness, despair & learned helplessness:
 > "With so clean and rosy picture as that as one’s basis, the modern narrative may indeed seem bleak, dull, and dark by comparison: a incomprehensibly vast, unguided universe of infinite space; everything just atoms in a void; the emergence of life a fluke; its evolution an unseemly narrative of “eat or be eaten”; human suffering without justification, and death, the ultimate end." - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/deconstructing-religion#:~:text=With%20so%20clean,the%20ultimate%20end.)
 
 
+> "A human being unable to have a meaningful impact on the world ceases to exist." - [David Graeber](https://www.goodreads.com/quotes/9664160-a-human-being-unable-to-have-a-meaningful-impact-on)
+
+
 we are starved for meaning
 belonging
 significance
@@ -835,6 +838,8 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 > "This is what’s happening to us. History is a process of metamorphosis. It’s a pupation stage. It begins with naked monkeys and it ends with a human–machine planet-girdling interface capable of releasing the energies that light the stars. And it lasts about 15,000–20,000 years, and during that period the entire process hangs in the balance. It’s a period of high risk." - [Terence McKenna](https://www.organism.earth/library/document/eros-and-the-eschaton#:~:text=This%20is%20what%E2%80%99s%20happening,period%20of%20high%20risk.)
 
 > "Newton's third law. You've got to leave something behind." - [Cooper, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2373887&ref_=ext_shr_lnk)
+
+> "The supreme art of war is to subdue the enemy without fighting." - [Sun Tzu](https://www.azquotes.com/quote/548148)
 
 > "When everything seem to be going against you, remember that the airplane takes off against the wind, not with it." - [Henry Ford](https://www.goodreads.com/quotes/107178-when-everything-seem-to-be-going-against-you-remember-that)
 

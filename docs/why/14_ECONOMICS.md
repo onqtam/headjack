@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=xMNil06mODE
 
 
 
+> "My reason for writing it was the conviction that the economy is too important to leave to the economists." - [Yanis Varoufakis](https://www.goodreads.com/quotes/9743802-my-reason-for-writing-it-was-the-conviction-that-the)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████

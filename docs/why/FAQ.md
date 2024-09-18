@@ -25,7 +25,7 @@ Communism ignored human nature - this embraces it. This is infinitely more sophi
 
 
 
-## This can't possibly work!
+## This can't possibly work! How will X work?
 
 > "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
 
@@ -33,6 +33,10 @@ Will this work? No clue. But what we can say with 100% confidence that we must t
 
 
 > "A vision should be judged by the clarity of its values, not the clarity of its implementation path." - [Donella H. Meadows](https://www.goodreads.com/quotes/163481-a-vision-should-be-judged-by-the-clarity-of-its)
+
+
+
+> "Normally, when you challenge the conventional wisdom—that the current economic and political system is the only possible one—the first reaction you are likely to get is a demand for a detailed architectural blueprint of how an alternative system would work, down to the nature of its financial instruments, energy supplies, and policies of sewer maintenance. Next, you are likely to be asked for a detailed program of how this system will be brought into existence. Historically, this is ridiculous. When has social change ever happened according to someone’s blueprint? It’s not as if a small circle of visionaries in Renaissance Florence conceived of something they called “capitalism,” figured out the details of how the stock exchange and factories would someday work, and then put in place a program to bring their visions into reality. In fact, the idea is so absurd we might well ask ourselves how it ever occurred to us to imagine this is how change happens to begin." - [David Graeber](https://www.goodreads.com/quotes/776644-normally-when-you-challenge-the-conventional-wisdom-that-the-current-economic)
 
 
 ## TL;DR?

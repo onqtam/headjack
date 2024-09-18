@@ -405,23 +405,159 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-> "" - [Yanis Varoufakis]()
 
-> "" - [Yanis Varoufakis]()
 
-> "" - [Yanis Varoufakis]()
+> "Bullshit is a greater enemy of the truth than lies are." - [Harry G. Frankfurt](https://www.azquotes.com/quote/749991)
 
-> "" - [Yanis Varoufakis]()
+> "One of the most salient features of our culture is that there is so much bullshit." - [Harry G. Frankfurt](https://www.goodreads.com/quotes/3199922-one-of-the-most-salient-features-of-our-culture-is)
 
-> "" - [Yanis Varoufakis]()
+> "Bullshit is unavoidable whenever circumstances require someone to talk without knowing what he is talking about. Thus the production of bullshit is stimulated whenever a person’s obligations or opportunities to speak about some topic are more excessive than his knowledge of the facts that are relevant to that topic. This discrepancy is common in public life, where people are frequently impelled — whether by their own propensities or by the demands of others — to speak extensively about matters of which they are to some degree ignorant. Closely related instances arise from the widespread conviction that it is the responsibility of a citizen in a democracy to have opinions about everything, or at least everything that pertains to the conduct of his country’s affairs. The lack of any significant connection between a person’s opinions and his apprehension of reality will be even more severe, needless to say, for someone who believes it his responsibility, as a conscientious moral agent, to evaluate events and conditions in all parts of the world." - [Harry G. Frankfurt](https://www.goodreads.com/quotes/1134985-bullshit-is-unavoidable-whenever-circumstances-require-someone-to-talk-without)
 
-> "" - [Yanis Varoufakis]()
+> "From the point of view of morality, it is not important that everyone should have the same. What is morally important is that each should have enough." - [Harry G. Frankfurt](https://www.goodreads.com/quotes/9231737-from-the-point-of-view-of-morality-it-is-not)
 
-> "" - [Yanis Varoufakis]()
+> "The realms of advertising and of public relations, and the nowadays closely related realm of politics, are replete with instances of bullshit so unmitigated that they can serve among the most indisputable and classic paradigms of the concept. And in these realms there are exquisitely sophisticated craftsmen who - with the help of advanced and demanding techniques of market research, of public opinion polling, of psychological testing, and so forth - dedicate themselves tirelessly to getting every word and image they produce exactly right." - [Harry G. Frankfurt](https://www.goodreads.com/quotes/7385997-the-notion-of-carefully-wrought-bullshit-involves-then-a-certain)
 
-> "" - [Yanis Varoufakis]()
 
-> "" - [Yanis Varoufakis]()
+
+> "Everyday we wake up and collectively make a world together; but which one of us, left to our own devices, would ever decide they wanted to make a world like this one?" - [David Graeber](https://www.goodreads.com/quotes/10594390-everyday-we-wake-up-and-collectively-make-a-world-together)
+
+> "We are usually told that democracy originated in ancient Athens - like science, or philosophy, it was a Greek invention. It's never entirely clear what this is supposed to mean. Are we supposed to believe that before the Athenians, it never really occurred to anyone, anywhere, to gather all the members of their community in order to make joint decisions in a way that gave everyone equal say?" - [David Graeber](https://www.azquotes.com/quote/509744)
+
+> "It's a difficult business, creating a new, alternative civilization." - [David Graeber](https://www.azquotes.com/quote/983315)
+
+> "If you want to minimize the possibility of unexpected breakthroughs, tell people they will receive no resources at all unless they spend the bulk of their time competing against each other to convince you they know in advance what they are going to discover." - [David Graeber](https://www.azquotes.com/quote/1138987)
+
+> "We need each other to do things that we can't do for ourselves. If we are intimately connected with each other, we just give things to each other; if we don't know each other we find another way to handle it. If you think about it, each according to his or her abilities and each according to his or her needs is sort of the same thing as supply and demand." - [David Graeber](https://www.azquotes.com/quote/1579074)
+
+
+
+> "Mercy to the guilty is cruelty to the innocent." - [Adam Smith](https://www.goodreads.com/quotes/548339-mercy-to-the-guilty-is-cruelty-to-the-innocent)
+
+> "No society can surely be flourishing and happy of which by far the greater part of the numbers are poor and miserable." - [Adam Smith](https://www.goodreads.com/quotes/235355-no-society-can-surely-be-flourishing-and-happy-of-which)
+
+> "It is unjust that the whole of society should contribute towards an expence of which the benefit is confined to a part of the society." - [Adam Smith](https://www.azquotes.com/quote/1323948)
+
+> "It must always be remembered, however, that it is the luxuries, and not the necessary expense of the inferior ranks of people, that ought ever to be taxed." - [Adam Smith](https://www.azquotes.com/quote/1312493)
+
+> "With the greater part of rich people, the chief enjoyment of riches consists in the parade of riches." - [Adam Smith](https://www.azquotes.com/quote/274737)
+
+> "The interest of businessmen is always in some respects different from, and even opposite to, that of the public ... The proposal of any new law or regulation of commerce which comes from this order ... ought never to be adopted, till after having been long and carefully examined ... with the most suspicious attention. It comes from an order of men ... who have generally an interest to deceive and even oppress the public." - [Adam Smith](https://www.azquotes.com/quote/1312483)
+
+> "" - [Adam Smith]()
+
+> "" - [Adam Smith]()
+
+> "" - [Adam Smith]()
+
+> "" - [Adam Smith]()
+
+> "" - [Adam Smith]()
+
+> "" - [Adam Smith]()
+
+
+
+> "I'm skeptical about even educating voters as a chance for being successful. You know, when we look at what people retain from high school a year after they've graduated, they've forgotten most everything about history and civics and everything, and I think the main worry here is that because your individual vote counts for so little, you just don't have a strong incentive to invest in the knowledge, to retain the knowledge, to process information in a rational way." - [Jason Brennan](https://www.azquotes.com/quote/1527215)
+
+> "The power to regulate the economy is the same thing as the power to distribute favors." - [Jason Brennan](https://www.azquotes.com/quote/935058)
+
+> "When I'm crossing the street, I look both ways and I process the information rationally because if I make a mistake I get hurt, but when I cast a vote, kind of regardless of how I voted, doesn't make a difference and that's sort of a recipe for uninformed and irrational voting." - [Jason Brennan](https://www.azquotes.com/quote/1527211)
+
+> "My main worry about referendums is that you are taking a very complicated political question that requires knowledge of a bunch of background facts in the social sciences and you're handing that question to people who don't know those facts and in fact, are systematically misinformed about them." - [Jason Brennan](https://www.azquotes.com/quote/1527209)
+
+> "It's often considered elitist to say that well maybe voters are uninformed and that they should know more before they cast their votes. It's strange to say that because it's also elitist to say that to run a radio station requires skill or to be a plumber requires skill and background knowledge." - [Jason Brennan](https://www.azquotes.com/quote/1527212)
+
+> "In real markets, agents make bad choices. They are often ignorant, misinformed, and irrational. Yet, markets tend to punish agents for making bad choices, and they tend to learn from their mistakes. For instance, if you fail to pay your bills, your credit rating declines and you have a harder time getting loans. If you fail to do research and buy an unreliable car, you suffer from repair bills. In contrast, when people in government make bad choices, the political process almost never punishes them. Studies show that voters are terrible at retrospective voting—they do not know whom to blame for bad government—and so politicians are not punished for making bad choices." - [Jason Brennan](https://www.goodreads.com/quotes/1423301-in-real-markets-agents-make-bad-choices-they-are-often)
+
+> "To justify democracy takes more work: we have to explain why some people should have the right to impose bad decisions on others. In particular, as I will show in later chapters, to justify democracy, we’ll need to explain why it’s legitimate to impose incompetently made decisions on innocent people." - [Jason Brennan](https://www.goodreads.com/quotes/8273853-to-justify-democracy-takes-more-work-we-have-to-explain)
+
+> "Consider the following topics: gun control, global warming, how to handle the Islamic State of Iraq and Syria, mandatory paid maternity leave for women, the minimum wage, gay marriage, the Common Core curriculum, and flag burning. If I know your stance on any one of these issues, I can predict with a high degree of reliability what your stance is on all the others. If you think about that, it’s rather strange. The issues are logically unrelated. The arguments for and against abortion rights have almost nothing to do with gun control. Yet if you’re pro-choice, you’re almost certainly pro-gun control, and if you’re pro-life, you’re almost certainly anti-gun control." - [Jason Brennan](https://www.goodreads.com/quotes/10276398-consider-the-following-topics-gun-control-global-warming-how-to)
+
+
+
+> "" - [Joseph Henrich]()
+
+> "" - [Joseph Henrich]()
+
+> "" - [Joseph Henrich]()
+
+> "" - [Joseph Henrich]()
+
+> "" - [Joseph Henrich]()
+
+
+
+> "Hell is truth seen too late." - [Thomas Hobbes](https://www.goodreads.com/quotes/622711-hell-is-truth-seen-too-late)
+
+> "Unnecessary laws are not good laws, but traps for money." - [Thomas Hobbes](https://www.azquotes.com/quote/523503)
+
+
+
+> "As soon as any man says of the affairs of the State "What does it matter to me?" the State may be given up for lost." - [Jean-Jacques Rousseau](https://www.goodreads.com/quotes/371894-as-soon-as-any-man-says-of-the-affairs-of)
+
+> "Freedom is the power to choose our own chains." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/371725)
+
+> "One can buy anything with money except morality." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/1117236)
+
+> "The falsification of history has done more to impede human development than any one thing known to mankind." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/834144)
+
+> "Those people who treat politics and morality separately will never understand either of them." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/688553)
+
+
+
+> "History records that the money changers have used every form of abuse, intrigue, deceit, and violent means possible to maintain their control over governments by controlling money and it's issuance." - [James Madison](https://www.goodreads.com/quotes/161878-history-records-that-the-money-changers-have-used-every-form)
+
+> "If tyranny and oppression come to this land, it will be in the guise of fighting a foreign enemy." - [James Madison](https://www.goodreads.com/quotes/1184946-if-tyranny-and-oppression-come-to-this-land-it-will)
+
+
+
+> "Two truths cannot contradict one another." - [Galileo Galilei](https://www.azquotes.com/quote/573723)
+
+> "Measure what can be measured, and make measureable what cannot be measured." - [Galileo Galilei](https://www.azquotes.com/quote/905195)
+
+
+
+> "The further a society drifts from truth the more it will hate those who speak it." - [George Orwell](https://www.azquotes.com/quote/498864)
+
+> "War against a foreign country only happens when the moneyed classes think they are going to profit from it." - [George Orwell](https://www.azquotes.com/quote/221214)
+
+> "All the war-propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting." - [George Orwell](https://www.azquotes.com/quote/221215)
+
+> "Journalism is printing what someone else does not want printed: everything else is public relations." - [George Orwell](https://www.azquotes.com/quote/364418)
+
+
+
+
+> "Man cannot endure his own littleness unless he can translate it into meaningfulness on the largest possible level." - [Ernest Becker](https://www.goodreads.com/quotes/279205-man-cannot-endure-his-own-littleness-unless-he-can-translate)
+
+> "People try so hard to win converts for their point of view because it is more than merely an outlook on life: it is an immortality formula." - [Ernest Becker](https://www.goodreads.com/quotes/393070-when-we-are-young-we-are-often-puzzled-by-the)
+
+> "What does it mean to be a self-conscious animal? The idea is ludicrous, if it is not monstrous. It means to know that one is food for worms. This is the terror: to have emerged from nothing, to have a name, consiousness of self, deep inner feelings, an excruciating inner yearning for life and self-expression and with all this yet to die." - [Ernest Becker](https://www.goodreads.com/quotes/1324113-what-does-it-mean-to-be-a-self-conscious-animal-the)
+
+> "Man is literally split in two: he has an awareness of his own splendid uniqueness in that he sticks out of nature with a towering majesty, and yet he goes back into the ground a few feet in order blindly and dumbly to rot and disappear forever." - [Ernest Becker](https://www.goodreads.com/quotes/890179-man-is-literally-split-in-two-he-has-an-awareness)
+
+> "" - [Ernest Becker]()
+
+> "" - [Ernest Becker]()
+
+> "" - [Ernest Becker]()
+
+> "" - [Ernest Becker]()
+
+> "" - [Ernest Becker]()
+
+> "" - [Ernest Becker]()
+
+
+
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+
 
 
 
@@ -718,7 +854,7 @@ I assume that something new will emerge in human society, and it will present us
 
 > "With the right virtues encoded in a population, one can trust the results that emerge from trusting the population." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1816171647709372578)
 
-> "" - [Matthew Pirkowski]()
+> "e/acc (gas pedal) absent e/discernment (steering wheel) and e/decel (brakes) is actually just a shitty death trap of a vehicle. Unfortunately, all the tribal virtue signaling brings out those aspects of our nature least capable of weaving these threads into a long-term adaptive teleology." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1836139608448602269)
 
 
 

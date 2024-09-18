@@ -113,6 +113,14 @@ an environment where a single identity is used for a long time and it accrues re
 
 
 
+> "Researchers find our reward systems are activated most when we achieve relative rather than absolute rewards; we’re designed to feel best not when we get more, but when we get more than those around us." - [Will Storr](https://www.goodreads.com/quotes/11605041-researchers-find-our-reward-systems-are-activated-most-when-we)
+
+> "The story idealists sometimes tell of humanity says we're natural seekers of equality. This isn't true. Utopians talk of injustice whilst building new hierarchies and placing themselves at the top. We all do this. It's in our nature.
+>
+> The urge for rank is ineradicable. It's the secret goal of our lives, to win status for ourselves and our game - and gain as much of it over you and you and you as we can. It's how we make meaning. It's how we make identity. It's the worst of us, it's the best of us and it's the inescapable truth of us: for humans, equality will always be the impossible dream." - [Will Storr](https://www.goodreads.com/quotes/11892473-the-story-idealists-sometimes-tell-of-humanity-says-we-re-natural)
+
+
+
 > "It takes many good deeds to build a good reputation, and only one bad one to lose it." - [Benjamin Franklin](https://hbr.org/2007/02/reputation-and-its-risks)
 
 > "Executives know the importance of their companies’ reputations. Firms with strong positive reputations attract better people. They are perceived as providing more value, which often allows them to charge a premium. Their customers are more loyal and buy broader ranges of products and services. Because the market believes that such companies will deliver sustained earnings and future growth, they have higher price-earnings multiples and market values and lower costs of capital. Moreover, in an economy where 70% to 80% of market value comes from hard-to-assess intangible assets such as brand equity, intellectual capital, and goodwill, organizations are especially vulnerable to anything that damages their reputations." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
