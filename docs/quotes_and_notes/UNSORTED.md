@@ -380,9 +380,12 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-
 > "The task of universal pragmatics is to identify and reconstruct universal conditions of possible mutual understanding." - [Jürgen Habermas](https://www.azquotes.com/quote/1108143)
 
+
+
+> "They muddy the water, to make it seem deep." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/119332-they-muddy-the-water-to-make-it-seem-deep)
+^^ we need to radically simplify our social organizational structure such that anyone can grasp it and how it works on all levels
 
 
 > "Human beings are not perfectly rational calculators. Our behavior and decisions are based on a mixture of calculation, emotions, and internalized norms, with calculation often a minor component of the cocktail." - [Peter Turchin](https://www.goodreads.com/quotes/11410588-we-also-know-of-course-that-human-beings-are-not)
@@ -443,18 +446,6 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 > "The interest of businessmen is always in some respects different from, and even opposite to, that of the public ... The proposal of any new law or regulation of commerce which comes from this order ... ought never to be adopted, till after having been long and carefully examined ... with the most suspicious attention. It comes from an order of men ... who have generally an interest to deceive and even oppress the public." - [Adam Smith](https://www.azquotes.com/quote/1312483)
 
-> "" - [Adam Smith]()
-
-> "" - [Adam Smith]()
-
-> "" - [Adam Smith]()
-
-> "" - [Adam Smith]()
-
-> "" - [Adam Smith]()
-
-> "" - [Adam Smith]()
-
 
 
 > "I'm skeptical about even educating voters as a chance for being successful. You know, when we look at what people retain from high school a year after they've graduated, they've forgotten most everything about history and civics and everything, and I think the main worry here is that because your individual vote counts for so little, you just don't have a strong incentive to invest in the knowledge, to retain the knowledge, to process information in a rational way." - [Jason Brennan](https://www.azquotes.com/quote/1527215)
@@ -475,15 +466,9 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-> "" - [Joseph Henrich]()
+> "Humans are undergoing what biologists call a major transition. Such transitions occur when less complex forms of life combine in some way to give rise to more complex forms. Examples include the transition from independently replicating molecules to replicating packages called chromosomes or, the transition from different kinds of simple cells to more complex cells in which these once-distinct simple cell types came to perform critical functions and become entirely mutually interdependent, such as the nucleus and mitochondria in our own cells. Our species’ dependence on cumulative culture for survival, on living in cooperative groups, on alloparenting and a division of labor and information, and on our communicative repertoires mean that humans have begun to satisfy all the requirements for a major biological transition. Thus, we are literally the beginnings of a new kind of animal. By contrast, the wrong way to understand humans is to think that we are just a really smart, though somewhat less hairy, chimpanzee. This view is surprisingly common. Understanding how this major transition is occurring alters how we think about the origins of our species, about the reasons for our immense ecological success, and about the uniqueness of our place in nature. The insights generated alter our understandings of intelligence, faith, innovation, intergroup competition, cooperation, institutions, rituals, and the psychological differences between populations. Recognizing that we are a cultural species means that, even in the short run (when genes don’t have enough time to change), institutions, technologies, and languages are coevolving with psychological biases, cognitive abilities, emotional responses, and preferences. In the longer run, genes are evolving to adapt to these culturally constructed worlds, and this has been, and is now, the primary driver of human genetic evolution." - [Joseph Henrich](https://www.goodreads.com/quotes/10125274-the-case-i-ve-presented-in-this-book-suggests-that-humans)
 
-> "" - [Joseph Henrich]()
-
-> "" - [Joseph Henrich]()
-
-> "" - [Joseph Henrich]()
-
-> "" - [Joseph Henrich]()
+> "The results reveal the power of prestige: when the gold-starred player had the opportunity to contribute money first, he or she tended to contribute to, and thus cooperate in, the joint effort, and then the following player—the low-prestige person—usually did as well. So, everyone won. However, when the low-prestige player got to contribute money first (or not), he or she tended not to contribute to the joint project (not cooperate), and then, neither did the high-prestige player." - [Joseph Henrich](https://www.goodreads.com/quotes/7450066-the-results-reveal-the-power-of-prestige-when-the-gold-starred)
 
 
 
@@ -536,17 +521,28 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 > "Man is literally split in two: he has an awareness of his own splendid uniqueness in that he sticks out of nature with a towering majesty, and yet he goes back into the ground a few feet in order blindly and dumbly to rot and disappear forever." - [Ernest Becker](https://www.goodreads.com/quotes/890179-man-is-literally-split-in-two-he-has-an-awareness)
 
-> "" - [Ernest Becker]()
+> "The point is that if the love object is divine perfection, then one’s own self is elevated by joining one’s destiny to it." - [Ernest Becker](https://www.goodreads.com/quotes/1310418-the-point-is-that-if-the-love-object-is-divine)
 
-> "" - [Ernest Becker]()
+> "The crisis of modern society is precisely that the youth no longer feel heroic in the plan for action that their culture has set up. They don’t believe it is empirically true to the problems of their lives and times." - [Ernest Becker](https://www.goodreads.com/quotes/6746789-the-crisis-of-modern-society-is-precisely-that-the-youth)
 
-> "" - [Ernest Becker]()
+> "The world of human aspiration is largely fictitious and if we do not understand this we understand nothing about man." - [Ernest Becker](https://www.goodreads.com/quotes/1175284-the-world-of-human-aspiration-is-largely-fictitious-and-if)
 
-> "" - [Ernest Becker]()
+> "What man really fears is not so much extinction, but extinction with insignificance." - [Ernest Becker](https://www.azquotes.com/quote/864456)
 
-> "" - [Ernest Becker]()
 
-> "" - [Ernest Becker]()
+
+> "According to terror management theory, the combination of a basic biological inclination toward self-preservation with sophisticated cognitive capacities renders us humans aware of our perpetual vulnerabilities and inevitable mortality, which gives rise to potentially paralyzing terror. Cultural worldviews and self-esteem help manage this terror by convincing us that we are special beings with souls and identities that will persist, literally and/or symbolically, long past our own physical death. We are thus pervasively preoccupied with maintaining confidence in our cultural scheme of things and satisfying the standards of value associated with it." - [Sheldon Solomon](https://www.goodreads.com/quotes/11603507-according-to-terror-management-theory-the-combination-of-a-basic)
+
+> "We can reflect on the fact that each of us is, in Otto Rank’s lovely words, a “temporal representative”." - [Sheldon Solomon](https://www.goodreads.com/quotes/8818137-we-can-reflect-on-the-fact-that-each-of-us)
+
+> "Although we typically take our cultural worldview for granted, it is actually a fragile human construction that people spend great energy creating, maintaining, and defending. Since we’re constantly on the brink of realizing that our existence is precarious, we cling to our culture’s governmental, educational, and religious institutions and rituals to buttress our view of human life as uniquely significant and eternal." - [Sheldon Solomon](https://www.goodreads.com/quotes/9031825-although-we-typically-take-our-cultural-worldview-for-granted-it)
+
+> "We humans procure psychological equanimity by being valued in the eyes of higher powers: at first our parents, and, as we mature, the culture at large." - [Sheldon Solomon](https://www.goodreads.com/quotes/11600902-we-humans-procure-psychological-equanimity-by-being-valued-in-the)
+
+
+
+
+
 
 
 
@@ -558,6 +554,15 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "" - []()
 
 
+
+
+> "Right now, however, the extreme asymmetries of knowledge and power that have accrued to surveillance capitalism abrogate these elemental rights as our lives are unilaterally rendered as data, expropriated, and repurposed in new forms of social control, all of it in the service of others’ interests and in the absence of our awareness or means of combat. We have yet to invent the politics and new forms of collaborative action—this century’s equivalent of the social movements of the late nineteenth and twentieth centuries that aimed to tether raw capitalism to society—that effectively assert the people’s right to a human future. And while the work of these inventions awaits us, this mobilization and the resistance it engenders will define a key battleground upon which the fight for a human future unfolds." - [The Age of Surveillance Capitalism](https://www.goodreads.com/quotes/10583315-right-now-however-the-extreme-asymmetries-of-knowledge-and-power)
+
+> "Industrial capitalism transformed nature’s raw materials into commodities, and surveillance capitalism lays its claims to the stuff of human nature for a new commodity invention. Now it is human nature that is scraped, torn, and taken for another century’s market project. It is obscene to suppose that this harm can be reduced to the obvious fact that users receive no fee for the raw material they supply. That critique is a feat of misdirection that would use a pricing mechanism to institutionalize and therefore legitimate the extraction of human behavior for manufacturing and sale. It ignores the key point that the essence of the exploitation here is the rendering of our lives as behavioral data for the sake of others’ improved control of us. The remarkable questions here concern the facts that our lives are rendered as behavioral data in the first place; that ignorance is a condition of this ubiquitous rendition; that decision rights vanish before one even knows that there is a decision to make; that there are consequences to this diminishment of rights that we can neither see nor foretell; that there is no exit, no voice, and no loyalty, only helplessness, resignation, and psychic numbing; and that encryption is the only positive action left to discuss when we sit around the dinner table and casually ponder how to hide from the forces that hide from us." - [The Age of Surveillance Capitalism](https://www.goodreads.com/quotes/10319796-industrial-capitalism-transformed-nature-s-raw-materials-into-commodities-and-surveillance)
+
+> "Two men at Google who do not enjoy the legitimacy of the vote, democratic oversight, or the demands of shareholder governance exercise control over the organization and presentation of the world’s information. One man at Facebook who does not enjoy the legitimacy of the vote, democratic oversight, or the demands of shareholder governance exercises control over an increasingly universal means of social connection along with the information concealed in its networks." - [The Age of Surveillance Capitalism](https://www.goodreads.com/quotes/9699339-two-men-at-google-who-do-not-enjoy-the-legitimacy)
+
+> "We are no longer the subjects of value realization. Nor are we, as some have insisted, the “product” of Google’s sales. Instead, we are the objects from which raw materials are extracted and expropriated for Google’s prediction factories. Predictions about our behavior are Google’s products, and they are sold to its actual customers but not to us. We are the means to others’ ends." - [The Age of Surveillance Capitalism](https://www.goodreads.com/quotes/10565214-we-are-no-longer-the-subjects-of-value-realization-nor)
 
 
 
@@ -5184,7 +5189,26 @@ Higher/deeper alignment with others is a competitive advantage
 
 Each and every one of us is a member of the keystone species - the guardians of life itself
 
+
+
 We should all care about Epstein’s list - we need to have a mapping for probable/possible compromisation because of being extorted - the destruction of the image has found itself a place in the market as a service
+
+> "What fraction of apparent ‘elite’ preference is downstream of blackmail?" - [Jordan Hall](https://x.com/jgreenhall/status/1836741719804514548)
+
+> "Well, he's dead, so in general you always have to be careful..." - [Bill Gates](https://www.yahoo.com/news/bill-gates-answered-questions-meetings-124750218.html#:~:text=Well%2C%20he%27s%20dead%2C%20so%20in%20general%20you%20always%20have%20to%20be%20careful%2C)
+
+
+
+
+> "A fun game is to go through [this list](https://www.worldometers.info/gdp/gdp-by-country/) of country gdps, scroll down to Kuwait, and see all the countries whose entire economic output can't cover what Americans spend annually on their pets (186 bn)." - [Jake Bornstein](https://x.com/JLBornstein/status/1836835877936615855)
+
+
+
+> "... Think about it. Exponentially more people, making exponentially more impact per person, and an exponential curve point reaching escape’s velocity — eventually you can't externalize anymore. Our intuition is not scoped for the challenge that we face. We increasingly have the power of gods without the wisdom of gods, and any society that has exponential increase in risk without exponential increase in choice-making capacity will self-terminate. In summary, for the first time, this means that one civilization’s collapse is truly existential. We can’t put the technological curve caps back in the bag — we must innovate our way through this. This is our predicament — and this is why we need to transfer from Game A to Game B. What exactly is Game A? Game A is the way things are currently run. Markets. Democracy. Socialism. Everything we’ve tried since agricultural revolution. It’s our civilizational toolkit—the thing that has produced 7.5 billion people in unprecedented levels of wealth & well being. Game A leads to amazing abundance, but, as it currently stands, it can’t solve the problems it creates. While things are getting exponentially better, they’re also getting exponentially worse (increased exponential risk), which means destabilization. Game A is a kind of paperclip maximizer. It is a system that is optimized to continue growing its complicatedness in order to pursue its aim of reducing everything that is complex into something that is simple (e.g. a complex tree in an ecosystem, into wood, into money). To be clear, Game A used to work— In fact, it worked so well it sowed the seeds for its own destruction. While it was perfect for our needs at the time, for the existential risks we now face, it falls short. What got us here won’t get us there. We need something different. Existential risks have similar root causes. If you try to solve one without solving the root, you’re just playing whack-a-mole. Existential risks are symptoms of a couple underlying root generator functions: One of them is Rivalrous/Zero-Sum Games. Ok. So existential risks are why we need to move on from Game A to Game B. If Game A is everything to date, What’s Game B? Simply—It’s what’s next. Game B isn't a fully fleshed out idea, it’s a design space. Wait. Why can’t we just tinker within Game A? Why can’t it be democratic capitalism? TLDR on why unchecked markets aren't sustainable: If I’m internalizing externalities, but you’re not, then I’m losing. So no one can internalize externalities and still survive. But regulation often falls short too: You cannot legislate against incentives long-term. If you make a piece of law that says it's illegal to do X, but it's still profitable to do X, companies and gov'ts will still do X. Even our sacred democracies are Game A. When Winston Churchill said democracy is the worst form of governance ever created save for all the other forms, what he was saying that was really insightful was that getting lots of humans to agree on anything is just a hard thing to do. So if the solution isn’t democratic capitalism, or anything else we’ve tried — what is it? We don’t know yet —Remember Game B is a design space — and we’re wary of people who claim to have all the answers. Game B trusts the process rather than trafficking in utopias. We don’t know what it is specifically, but we know what it isn’t. We know that it’s not going to look like nation states and private balance sheets. It's not Marxism, it's not socialism, it's not capitalism. It's not democracy. It's not a retrofit of any of those systems either We may not know how to get there, but we know the general direction: We know that the incentive of every agent in the system, and that's every person or group of people has to be better aligned with the well being of every other agent *and* of the commons writ large. We know that it involves a real-time balance sheet of the commons that internalizes more externalities. We now have new technologies that can help us do exactly that (sensor grid, IOT, satellites, people sensor processes) We know it has to be a structure whereby actual innovation is rewarded in proportion to its value, that rent seeking is eliminated from the system and that the reward takes into account the "externalities" produced by the innovation. So: How do we get from here to there? For starters, Game B needs to beat Game A on its own terms (e.g in the market) Game B evolves by creating the systems of economics+ governance that deliver on the promises of Game A better than Game A can, thereby rendering Game A obsolete An example is Wikipedia. It's functioning within the existing system, competing with old encyclopedias and for profit enterprises by delivering information for free, and it's winning, because it's superior. ... We need new economic systems. As long as I'm incentivized to do something that is harmful to you, it can't be prevented. But if we change the underlying incentive, and make it to where your well being and mine and the commons are more tightly coupled, then it can. We need new governance systems. How can we avoid both the top down kind of structured organizational model of trying to create consensus, or the bottom up thing, which takes so long that no one's ever gonna actually come to agreement in time to solve the problem? ... We're all connected: When we also identify as fundamentally interconnected parts of an interconnected universe rather than separate discrete things, we cease thinking there is any definition of success for self that isn't also success for the whole. That’s fundamental. ... OK, I can think about myself as a separate thing. But what am i without the atmosphere? I don't even exist. What am I without the plants that generate the atmosphere? I don't even exist. You get the idea. This solves the rivalrous problem, because zero-sum games require separate sense of self, leading to rivalrous competition for some scarcity. Ppl think about optimizing their own quality of life independent of + maybe even at the expense of other ppl's quality of life + climate. If instead, however, we see self as an emergent property of everything, as a fundamentally interconnected property of the biosphere, then we can't get ahead at the expense of that which we're connected to. When we internalize interconnectedness, we become positive sum by default. How else do we get to Game B? Civilization Prototype What’s the minimum viable scale to start prototyping a different economy, a different governance, a different materials economy, a different set of social dynamics and coherence? ... For inspiration of what Game B can look like, consider the human body The heart and the lungs are not rivalrous with each other. They’re not competing to extract scarce resource and hoard it. They’re in this radically necessarily symbiotic relationship. And if you tried to model like the organs in a capitalist relationship with each other, where the heart and the lungs were competing against each other for scarce resource to hoard as much resource for future as possible, the body would die very quickly." - [Erik Torenberg](https://x.com/eriktorenberg/status/1186020467468955648)
+
+
+
+
 
 This is the best possible path
 We are programs - we do what we think we should do. We have a story for ourselves - an inner narrative within a movie. Our consciousness and free will lies in consciously thinking about life seriously

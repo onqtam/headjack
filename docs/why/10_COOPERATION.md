@@ -118,6 +118,8 @@ Constraints are freedom
 
 > "We’re going towards a world where individuals relinquish freedom for the good of society, but do so in a decentralized way: we create the rules and enforce them together." - [Society Is a Brain, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/society-is-a-brain?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=we%E2%80%99re%20going%20towards%20a%20world%20where%20individuals%20relinquish%20freedom%20for%20the%20good%20of%20society%2C%20but%20do%20so%20in%20a%20decentralized%20way%3A%20we%20create%20the%20rules%20and%20enforce%20them%20together.)
 
+> "The chief aim of order is to give room for good things to run wild." - [G. K. Chesterton](https://www.studiometis.co/#:~:text=The%20chief%20aim%20of%20order%20is%20to%20give%20room%20for%20good%20things%20to%20run%20wild.)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge
 ██████████████████████████████████████████████████████████████████
