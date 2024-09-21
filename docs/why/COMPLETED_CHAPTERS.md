@@ -150,6 +150,9 @@ Cosmos (1980) by Carl Sagan
 https://www.imdb.com/title/tt0081846/
 https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 
+Koyaanisqatsi (1982)
+https://www.imdb.com/title/tt0085809/
+
 Baraka 1992
 https://www.imdb.com/title/tt0103767/
 

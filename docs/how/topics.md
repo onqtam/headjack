@@ -43,10 +43,6 @@ all the externalities !!!
 https://imgflip.com/memegenerator/1216800/all-the-things -->
 
 
-<div style={{textAlign: "center"}}>
-    <img src="/img/meme_what_is_my_purpose.jpg"/>
-</div>
-
 <!-- what is my purpose?
 recursive relevance realization
 and intentional evolution

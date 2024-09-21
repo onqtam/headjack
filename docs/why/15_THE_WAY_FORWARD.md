@@ -148,10 +148,6 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "Nature has given life a mandate: spread as far and as fast as you can. Of course, spreading more quickly over the long term will often require choosing to spread less quickly over the short term. This is not a paradox. Continued growth passed a certain point takes foresight, and an understanding that resources for growth will be limited until the time comes when we figure out how to unlock more of nature’s free energy supply." - [The Paradigm of Emergence: A Unifying Worldview for a Divided World and a Solution to the Meaning Crisis](https://roadtoomega.substack.com/p/the-paradigm-of-emergence-a-unifying#:~:text=Nature%20has%20given,free%20energy%20supply.)
 
-TODO INTERNET
-IMAGE !!! Recursive Emergence Through Hierarchical Self-Organization
-https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F591aa7dd-dda4-4bf2-b181-bddb832ab89a_3000x1667.png
-
 > "How does a biological agent acquire a world model that contains knowledge of its environment? First, by way of evolution through natural selection over many generations, then by adaptive learning during one’s lifetime, and later by the process of science, which builds models of the world through hypothesis testing. The Integrated Evolutionary Synthesis will reveal why all these processes are equivalent and rely on the same problem-solving algorithm, known as variation-and-selection, which is a form of trial-and-error learning." - [Turn Your Life into a Game With the Teleological Stance and Learn to Live Optimally](https://roadtoomega.substack.com/p/turn-your-life-into-a-game-with-the#:~:text=How%20does%20a,error%20learning.)
 
 > "Life is an infinite game against the tendency toward decay described by the second law of thermodynamics. By optimizing your model of the world, you can play that game to the best of your ability." - [Turn Your Life into a Game With the Teleological Stance and Learn to Live Optimally](https://roadtoomega.substack.com/p/turn-your-life-into-a-game-with-the#:~:text=Life%20is%20an%20infinite%20game%20against%20the%20tendency%20toward%20decay%20described%20by%20the%20second%20law%20of%20thermodynamics.%20By%20optimizing%20your%20model%20of%20the%20world%2C%20you%20can%20play%20that%20game%20to%20the%20best%20of%20your%20ability.)
@@ -919,6 +915,8 @@ FtoaaS
 This as the section for matchmaking and with the leary quote
 
 > "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
+
+myth and superstition in religions are just the means to an end which is to bind people together - to scale trust and empathy over larger groups of people who are not genetically related, and also to give answers (albeit imperfect and often outright false but soothing nonetheless) to perennial existential questions that torment us all
 
 > "God is what mind becomes when it has passed beyond the scale of our comprehension." - [Freeman Dyson](https://www.azquotes.com/quote/1046023)
 

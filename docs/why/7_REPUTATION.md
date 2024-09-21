@@ -451,8 +451,9 @@ Pointing to the truth is a Schelling point - that's why sunlight is the best dis
 
 the right kind should be rewarded
 
-TODO INTERNET
+
 IMAGE: see no evil hear no evil
+<img src="/img/hear_see_no_evil.webp"/>
 https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._SL1500_-1.jpg?fit=660%2C382&ssl=1
 
 > "Even 20 years ago people might have considered a whistleblower more a patriot than a national security threat. Now we've moved more towards the direction of considering whistleblowers national security threats. I think that says negative things about our prospects even if perhaps tactically it's the right thing to do in a competitive environment." - [Samo Burja](https://youtu.be/FyJa_TnwSB4?t=2193)

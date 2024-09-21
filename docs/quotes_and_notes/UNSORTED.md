@@ -839,13 +839,28 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow.
-—Harold Morowitz, The Emergence of Everything
+
+> "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
+
+> "I assume that something new will emerge in human society, and it will present us with undreamed possibilities in science and the arts. This emergence requires our efforts and requires something spiritual that goes beyond the mind. There will be a new emergence, and we will play a part in what that emergence is. That is our destiny." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
+
+> "The flow of energy through a system acts to organize that system." - [Harold Morowitz](https://www.azquotes.com/quote/736471)
 
 
-I assume that something new will emerge in human society, and it will present us with undreamed possibilities in science and the arts. This emergence requires our efforts and requires something spiritual that goes beyond the mind. There will be a new emergence, and we will play a part in what that emergence is. That is our destiny.
-—Harold Morowitz, The Emergence of Everything
 
+
+> "Evolution provides a scientific foundation for the core values shared by most Christians and conservatives, and by accepting–and embracing–the theory of evolution, Christians and conservatives strengthen their religion, their politics, and science itself. The conflict between science and religion is senseless. It is based on fears and misunderstandings rather than on facts and moral wisdom." - [Michael Shermer](https://www.goodreads.com/quotes/286095-evolution-provides-a-scientific-foundation-for-the-core-values-shared)
+
+> "Testing the theory that we have an innate moral sense as proposed by such Enlightenment thinkers as Adam Smith and Thomas Jefferson, Bloom provides experimental evidence that “our natural endowments” include “a moral sense—some capacity to distinguish between kind and cruel actions; empathy and compassion—suffering at the pain of those around us and the wish to make this pain go away; a rudimentary sense of fairness—a tendency to favor equal divisions of resources; a rudimentary sense of justice—a desire to see good actions rewarded and bad actions punished." - [Michael Shermer](https://www.goodreads.com/quotes/7145562-testing-the-theory-that-we-have-an-innate-moral-sense)
+
+> "We can ground human values and morals not just in philosophical principles such as Aristotle’s virtue ethics, Kant’s categorical imperative, Mill’s utilitarianism, or Rawls’s fairness ethics, but in science as well." - [Michael Shermer](https://www.goodreads.com/quotes/7250878-in-other-words-we-can-ground-human-values-and-morals)
+
+> "Bertrand Russell reached deep into human history to identify the divide: “From 600 B.C. to the present day, philosophers have been divided into those who wished to tighten social bonds and those who wished to relax them.… It is clear that each party to this dispute—as to all that persist through long periods of time—is partly right and partly wrong. Social cohesion is a necessity, and mankind has never yet succeeded in enforcing cohesion by merely rational arguments. Every community is exposed to two opposite dangers: ossification through too much discipline and reverence for tradition, on the one hand; on the other hand, dissolution, or subjection to foreign conquest, through the growth of an individualism and personal independence that makes cooperation impossible.”" - [Michael Shermer](https://www.goodreads.com/quotes/7250835-bertrand-russell-reached-deep-into-human-history-to-identify-the)
+
+
+
+
+> "The moment one begins thinking about morality in terms of well-being, it becomes remarkably easy to discern a moral hierarchy across human societies." - [Sam Harris](https://www.goodreads.com/quotes/7444203-the-moment-one-begins-thinking-about-morality-in-terms-of)
 
 
 
@@ -872,13 +887,94 @@ I assume that something new will emerge in human society, and it will present us
 
 
 
-> "" - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian]()
+> "If the trends of complexity growth and technological progress continue over the course of this century, and the inevitability of life spreading through the cosmos becomes increasingly apparent to us, then I believe this new cosmic narrative will become the world’s reigning “religion,” as science will have shown that an existential philosophy of meaning, purpose, and morality is the correct one. The evolutionary process would have a moral arc, where conscious agents become increasingly spiritual and empathetic as they gain a more sophisticated “theory of mind.” That is, the more we become aware that other agents, human and otherwise, are conscious entities with the capacity for joy and suffering, the more we will care about those agents. The “golden rule” is emergent from a theory of mind and our mirror neuron system. We should treat others as we want to be treated, because such behavior increases the chances that we will be treated well. Morality and utility go hand in hand." - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian](https://roadtoomega.substack.com/p/waking-up-the-universe-a-teleological#:~:text=If%20the%20trends,hand%20in%20hand.)
 
-> "" - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian]()
+> "The idea of a compatibility between human agency or free will and cosmic destiny is a Christian doctrine that seemed paradoxical, though the self-organizing universe paradigm supports it and makes scientific sense of it. Since I have a 3500-word article to be published by Noema on May 21st, I will just explain the basic premise of the idea. With intrinsic uncertainty and randomness in nature, both at the quantum level and now it seems at the classical level in chaotic phenomena (see the recent work of physicist Nicholas Gisin), combined with the notion of top-down causation that explains how organisms with minds can have causal power in the world, we get a paradox-free mechanism for agency or “will.” With humans’ ability to imagine multiple future possibilities and select a choice from the menu of options based on their values and goals, we have free will in every meaningful sense of the term. At the same time, the self-organizing universe is one that evolves toward a predetermined state of maximal complexity, giving rise to a type of “global determinism” that allows for randomness and volition within that deterministic trajectory. This compatibility between free will and cosmic destiny is fascinating and spiritually satisfying." - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian](https://roadtoomega.substack.com/p/waking-up-the-universe-a-teleological#:~:text=The%20idea%20of%20a,fascinating%20and%20spiritually%20satisfying.)
 
-> "" - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian]()
+> "Ironically, mutually-assured destruction will be our savior. So the story of cosmic self-organization will be one that features the evolution of brutal beings into spiritual entities that value cooperation over conflict. We will transcend our primitive nature, and the grand meta-religion can feature a new evolutionary version of the concept of original sin." - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian](https://roadtoomega.substack.com/p/waking-up-the-universe-a-teleological#:~:text=Ironically%2C%20mutually%2Dassured,of%20original%20sin.)
 
-> "" - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian]()
+> "Religion is the product of collective human inference, and represents our best existential philosophies given what we knew at the time of their invention. In the same way that Teilhard de Chardin was able to see a clear picture of the progressive evolutionary process, leading to visions of a noosphere and an Omega Point, a revisitation of religion in light of the sciences of complexity and emerge could lead to new insights that complete our understanding of a self-organizing reality in which life plays a significant role." - [Waking Up the Universe: A Teleological Vision for a Meta-Religion, by Bobby Azarian](https://roadtoomega.substack.com/p/waking-up-the-universe-a-teleological#:~:text=religion%20is%20the,a%20significant%20role.)
+
+
+
+> "We’re back to a situation where we have zero idea about how the universe is going to end." - [Hints of twisted light offer clues to dark energy’s nature, by Sean Carroll](https://www.nature.com/articles/d41586-020-03201-8)
+
+Life Need Not Ever End
+New interpretations of the laws of thermodynamics suggest the infamous “heat death” hypothesis, which foretells the end of all life and organization in the universe, might not hold.
+https://www.noemamag.com/life-need-not-ever-end/
+
+
+
+
+> "The free energy principle might be the most all-encompassing idea since the theory of natural selection." - [Wired magazine](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/#:~:text=Karl%20Friston%E2%80%99s%20free%20energy%20principle%20might%20be%20the%20most%20all%2Dencompassing%20idea%20since%20the%20theory%20of%20natural%20selection)
+
+
+
+> "The Integrated Evolutionary Synthesis starts with what many consider to be the most important law in all of physics, the almighty second law of thermodynamics. The second law can be summarized simply as “Things fall apart.” In other words, systems naturally tend toward decay and disorder. The technical term for disorder is “entropy,” and because the second law says entropy tends to increase, nature is constantly pulling us toward death.
+>
+> In his 1944 book What is LIfe?, the quantum physicist Erwin Schrodinger explained that a biological system can avoid the tendency toward decay (or keep its internal entropy low) by feeding on “negative entropy” in the environment. Negative entropy was Schrodinger’s name for free energy—which is simply the available energy in the world that can be used to do physical work. Free energy allows an ordered system to stay ordered so that it may continue playing the Game of Life.
+>
+> As animals, we consume free energy by eating food, which gets turned into mechanical work through the process of metabolism. Similarly, plants absorb free energy from sunlight and convert it into work through the process of photosynthesis. If an organism does not continually absorb energy, it will die and it will undergo entropic decay until the ordered system is no longer intact. When an energy-starved organism succumbs to the effects of the second law, the Game of Life has come to end for that player. If we choose not to play the game—that is, if we do nothing at all—we will soon cease to exist.
+>
+> This fact makes it easy to see how the natural tendency toward disorder creates an intrinsic goal for all living systems, which turns life into a game of sorts and gives it a purpose. To continue persisting in a world that abides by the second law—to continue playing the Game of Life—we must be able to capture free energy, and we must be able to do so while avoiding threats.
+>
+> However, navigating one’s environment in a chaotic and constantly changing world is no easy task. It requires that the living system acquire information about the environment, because that information reduces the organism’s uncertainty or ignorance about the relevant variables of the world it is embedded in. We may call the information that reduces an organism’s uncertainty knowledge. Evolutionary adaptation is therefore a learning process, and learning processes can also be seen as a form of adaptation. This was the insight of Karl Popper, and the basis for the influential philosophy known as evolutionary epistemology (which provided a basis for universal Darwinism, proposed by Richard Dawkins and Daniel Dennett).
+>
+> Based on the same logic, one may also say that to survive an organism must acquire a map or model of its environment. This model is the result of knowledge accumulation, and an agent’s model can be thought of as being comprised of “beliefs” about the world, or what it expects to encounter. This model is a predictive model, which allows the organism to anticipate events in a complex world.
+>
+> In humans and other animals, this predictive model is encoded in our brains, and it represents what we think of as the “mind.” Our mind consists of many different mental models that allow us to achieve our goals and make sense of a complicated and confusing reality." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=The%20Integrated%20Evolutionary%20Synthesis%20starts,a%20complicated%20and%20confusing%20reality.)
+
+> "The free energy principle is a law of life that emerged from Karl Friston’s “Bayesian brain hypothesis,” but it applies to brainless organisms as well. In fact, it presumably applies to every complex adaptive system in nature, societies included. The free energy principle is a framework for understanding how self-organized systems maintain themselves in a world that abides by the second law. Here we will focus on its applications for humans.
+>
+> The principle proposes that the brain is an organ that is designed to reduce uncertainty about the world around us and make predictions about future events. This is accomplished by generating internal predictions and comparing them to incoming sensory information. The brain then uses this comparison to update the beliefs of its model. In other words, the free energy principle suggests that the brain is constantly trying to minimize the difference between its internal model and reality. When the brain receives new information that contradicts its predictions, it experiences a state of "free energy" which drives it to update its beliefs and reduce its ignorance. To be clear, this is not thermodynamic free energy, but information-theoretic free energy, a term used in the field of machine learning. Performing this function allows us to make more accurate predictions, and makes us better adapted to nature." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=The%20free%20energy%20principle%20is,us%20better%20adapted%20to%20nature.)
+
+> "Ashby’s law of requisite variety is a cybernetics principle that tells you something about how complex your world model should be. This law—as applied to evolutionary biology—says that to continue to survive, an organism must have a repertoire of states or responses that is equal to the number of different challenges or problems presented by its environment. In other words, the more options a system has to respond to a given situation, the more effectively it can control that situation." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=Ashby%E2%80%99s%20law%20of,control%20that%20situation.)
+
+> "This principle has important implications for practical situations: since the variety of perturbations a system can potentially be confronted with is unlimited, we should always try to maximize its internal variety (or diversity), so as to be optimally prepared for any foreseeable or unforeseeable contingency." - [Francis Heylighen](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=This%20principle%20has,or%20unforeseeable%20contingency.)
+
+> "In recent years, a growing number of influential minds have recognized the societal significance of a statistical reasoning method known as Bayesian reasoning, which is a procedure for updating your theory, model, or belief system in the face of new evidence. What Bayesian reasoning provides in a nutshell is a universal approach to determining truth. Beliefs should not be believed blindly; they should be tested continually. Using this reasoning system is a way to minimize free energy, so it can be seen as an extension of the free energy principle...
+>
+> All you have to do is 1) consider all possible explanations for something, rather than relying purely on “gut instinct,” 2) rank and rate each theory or belief according to how likely it is to be true based on all the known facts, 3) test each theory/belief by using it to make future predictions, and 4) update how you ranked and rated the likelihood of each being true to reflect what you learned from the testing phase.
+>
+> If you are living in a “Bayes-optimal” manner, then when some new information you get exposed to discredits your prior beliefs, you should update your model to reflect that reality. For example, if you are a flat-Earther and I take you up in a rocket and let you see that the Earth is round with your own eyes, and you come back down and continue believing the Earth is flat, then you are not being Bayes optimal. You are not updating your model in light of new evidence." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=In%20recent%20years%2C%20a,light%20of%20new%20evidence.)
+
+
+<img src="/img/Major_Evolutionary_Transitions_digital.jpg"/>
+https://upload.wikimedia.org/wikipedia/commons/9/92/Major_Evolutionary_Transitions_digital.jpg
+https://en.wikipedia.org/wiki/Metasystem_transition#Contemporary_perspectives
+
+
+> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
+
+> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
+
+> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
+
+> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
+
+> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
+
+
+
+> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
+
+> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
+
+> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
+
+> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
+
+
+
+> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
+
+> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
+
+> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
+
+> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
+
+> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
 
 
 
@@ -889,6 +985,11 @@ I assume that something new will emerge in human society, and it will present us
 > "" - [Constructing the Meta-Religion: Mapping Concepts from Eastern and Western Religion onto the Story of a Self-Organizing Universe, by Bobby Azarian]()
 
 > "" - [Constructing the Meta-Religion: Mapping Concepts from Eastern and Western Religion onto the Story of a Self-Organizing Universe, by Bobby Azarian]()
+
+> "" - [Constructing the Meta-Religion: Mapping Concepts from Eastern and Western Religion onto the Story of a Self-Organizing Universe, by Bobby Azarian]()
+
+
+
 
 
 
@@ -5865,11 +5966,7 @@ NYT Science should be just content from the NYT that has the science tag/label
 
 
 
-
-
-TODO INTERNET:
-incredible picture:
-https://miro.medium.com/v2/resize:fit:1400/format:webp/1*4z4cikdT6jw2tkkyi13LkA.jpeg
+<img src="/img/time_magazine_points_of_view.webp"/>
 taken from here: https://medium.com/emergent-culture/reinvent-everything-556860b63308
 
 
@@ -5919,7 +6016,7 @@ reframing cancer from "how to kill the cancerous cells" to "how to re-connect th
 
 > "The cognitive boundary of an Individual [a “Center of Concern”] is the most distant (in time and space) set of events that this system can measure and attempts to regulate in its goal-directed activity." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20cognitive%20boundary%20of%20an%20Individual%20%5Ba%20%E2%80%9CCenter%20of%20Concern%E2%80%9D%20(Murase%20and%20Asakura%2C%202003)%5D%20is%20the%20most%20distant%20(in%20time%20and%20space)%20set%20of%20events%20that%20this%20system%20can%20measure%20and%20attempts%20to%20regulate%20in%20its%20goal%2Ddirected%20activity.)
 
-IMAGE !!! TODO INTERNET
+<img src="/img/cognitive_light_cones.jpg"/>
 https://www.frontiersin.org/files/Articles/493866/fpsyg-10-02688-HTML/image_m/fpsyg-10-02688-g002.jpg
 
 > "It is unlikely that today’s human cognitive sphere is the maximum possible one." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=it%20is%20unlikely%20that%20today%E2%80%99s%20human%20cognitive%20sphere%20is%20the%20maximum%20possible%20one.)

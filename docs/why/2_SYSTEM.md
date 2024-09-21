@@ -984,3 +984,6 @@ https://static01.nyt.com/images/2016/10/21/blogs/dotclimate1912/dotclimate1912-b
 
 https://paperspast.natlib.govt.nz/newspapers/ROTWKG19120814.2.56.5
 
+
+
+> "Oh, geez." - [Morty](https://www.imdb.com/title/tt2861424/quotes/?item=qt3598659)

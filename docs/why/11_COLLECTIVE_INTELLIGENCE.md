@@ -106,11 +106,12 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 > Why are people so bad at reasoning? For the same reason they’re so bad at letting poisonous spiders walk all over their face without freaking out. Both “skills” are really bad ideas, most of the people who tried them died in the process, so evolution removed those genes from the population, and successful cultures stigmatized them enough to give people an internalized fear of even trying." - [Book review: The Secret of Our Success, by Scott Alexander](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/#:~:text=There%E2%80%99s%20a%20monster,of%20even%20trying.)
 
 
-The enigma of reason - book cover
-TODO INTERNET
+<img src="/img/the_enigma_of_reason_book_cover.jpg"/>
 https://m.media-amazon.com/images/I/81FL-o50YUL._AC_UF1000,1000_QL80_.jpg
+
 we are justifying apes - we are not perfectly rational - far from it actually. We need to tame justification
 https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
+
 > "What reason does, rather, is help us justify our beliefs and actions to others, convince them through argumentation, and evaluate the justifications and arguments that others address to us. In other words, reason helps humans better exploit their uniquely rich social environment. This interactionist interpretation explains why reason may have evolved and how it fits with other cognitive mechanisms. It makes sense of strengths and weaknesses that have long puzzled philosophers and psychologists―why reason is biased in favor of what we already believe, why it may lead to terrible ideas and yet is indispensable to spreading good ones." - [The Enigma of Reason](https://www.goodreads.com/book/show/32336635-the-enigma-of-reason?ac=1&from_search=true&qid=KRXjn7mFzN&rank=1#:~:text=What%20reason%20does,spreading%20good%20ones.)
 
 > "Most reasons are after-the-fact rationalizations. Still, this fictional use of reasons plays a central role in human interactions, from the most trivial to the most dramatic." - [The Enigma of Reason](https://www.goodreads.com/quotes/9567524-it-is-based-however-on-a-convenient-fiction-most-reasons)
@@ -293,6 +294,11 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 > The result is perception, which the PP theory describes as “controlled hallucination”. You’re not seeing the world as it is, exactly. You’re seeing your predictions about the world, cashed out as expected sensations, then shaped/constrained by the actual sense data." - [Book Review: Surfing Uncertainty, by Scott Alexander](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/#:~:text=the%20brain%20is,actual%20sense%20data.)
 
 -->
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Free Energy Principle
+██████████████████████████████████████████████████████████████████
+
 
 
 ██████████████████████████████████████████████████████████████████
