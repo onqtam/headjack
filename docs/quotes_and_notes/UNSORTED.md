@@ -943,15 +943,9 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
+> "Internet, social media, and blockchain. If the interconnected network of organisms that we call a biosphere is evolving toward higher complexity and integration, technology that connects us all is favored by the intrinsic dynamics of the evolutionary process." - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian](https://roadtoomega.substack.com/p/how-to-predict-the-future-the-law#:~:text=Internet%2C%20social%20media%2C%20and%20blockchain.%20If%20the%20interconnected%20network%20of%20organisms%20that%20we%20call%20a%20biosphere%20is%20evolving%20toward%20higher%20complexity%20and%20integration%2C%20technology%20that%20connects%20us%20all%20is%20favored%20by%20the%20intrinsic%20dynamics%20of%20the%20evolutionary%20process.)
 
-> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
-
-> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
-
-> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
-
-> "" - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian]()
+> "One thing we can be certain of is that the internet is here to stay. It is not a fad — it is the synaptic substrate of the global brain... Social media is also here to stay, and in its infancy. New platforms will continuously be created, and the most powerful ones have likely not been invented yet. When a new platform with major funding pops up, be among the first to use it." - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian](https://roadtoomega.substack.com/p/how-to-predict-the-future-the-law#:~:text=One%20thing%20we,to%20use%20it.)
 
 
 
