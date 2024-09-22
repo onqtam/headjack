@@ -121,6 +121,31 @@ Constraints are freedom
 > "The chief aim of order is to give room for good things to run wild." - [G. K. Chesterton](https://www.studiometis.co/#:~:text=The%20chief%20aim%20of%20order%20is%20to%20give%20room%20for%20good%20things%20to%20run%20wild.)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Metasystem transition
+██████████████████████████████████████████████████████████████████
+
+Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
+
+https://en.wikipedia.org/wiki/Metasystem_transition
+
+<img src="/img/Major_Evolutionary_Transitions_digital.jpg"/>
+https://upload.wikimedia.org/wikipedia/commons/9/92/Major_Evolutionary_Transitions_digital.jpg
+
+> "The other major mechanism of complexity and intelligence increase is known as an “evolutionary transition,” which has also been called a “metasystem transition”... These terms typically refer to events where organisms come together, through cooperative evolution, to form a larger organism—a superorganism that has a collective intelligence that is greater than the intelligence of any of its members.  
+>
+> One such transition occurred when single-celled organisms formed a multicellular organism. Another occurred when multicellular organisms came together to form societies. Ant colonies are a popular example, but human civilization is another, although we don’t typically think of the global population of humans as forming a superorganism. But what we are collectively is a global brain, in which humans and their devices and AIs form something like a neural network that spans the planet. The body of the superorganism that supports the global brain is the entire biosphere, and the processes of life make up its physiology." - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian](https://roadtoomega.substack.com/p/the-purposeful-universe-why-the-emergence#:~:text=The%20other%20major,up%20its%20physiology.)
+
+> "“Meta” denotes that the causal structure of reality has levels, with new ones always coming into existence through phase transitions known as metasystem transitions. These transitions will be explained in detail in the next post, but they refer to the process by which systems come together to form more complex, higher-level systems — such as cells coming together to form a multicellular organism, and organisms coming together to form societies. With metasystem transitions, novel phenomena and properties emerge that transcend the previous definition of the “natural world.”" - [Poetic Meta-Naturalism: A New Philosophy of Reality for the Metamodern Age, by Bobby Azarian](https://roadtoomega.substack.com/p/poetic-meta-naturalism-a-new-philosophy#:~:text=%E2%80%9CMeta%E2%80%9D%20denotes%20that,the%20%E2%80%9Cnatural%20world.%E2%80%9D)
+
+
+
+
+> "We can better understand the true nature of reality by thinking about the evolutionary process in terms of loops and levels. Without these concepts, it would be impossible to understand key properties of biological systems, like cybernetic control and consciousness. “Loops” refers to cycles, feedback, recursion, iteration, and self-reference, while “levels” refers to hierarchy, nestedness, and levels of organization. These are the two defining characteristics of all complex adaptive systems." - [Poetic Meta-Naturalism: A New Philosophy of Reality for the Metamodern Age, by Bobby Azarian](https://roadtoomega.substack.com/p/poetic-meta-naturalism-a-new-philosophy#:~:text=we%20can%20better,complex%20adaptive%20systems.)
+
+> "The metasystem transition is the most important process in the story of cosmic evolution, because it is the mechanism of emergence. A metasystem transition is when individual systems come together to form a larger system, and it is through these transitions that the matter in the universe organizes itself into increasingly complex and functional arrangements. The next major metasystem transition is the emergence of a higher level of integration and coordination among the different human societies (nations), which will lead to the emergence of a collective human intelligence that will enable us to overcome the existential threats we currently face." - [Poetic Meta-Naturalism: A New Philosophy of Reality for the Metamodern Age, by Bobby Azarian](https://roadtoomega.substack.com/p/poetic-meta-naturalism-a-new-philosophy#:~:text=the%20metasystem%20transition%20%E2%80%94%20is,threats%20we%20currently%20face.)
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge
 ██████████████████████████████████████████████████████████████████
 

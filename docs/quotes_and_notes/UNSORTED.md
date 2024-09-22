@@ -531,15 +531,6 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-> "According to terror management theory, the combination of a basic biological inclination toward self-preservation with sophisticated cognitive capacities renders us humans aware of our perpetual vulnerabilities and inevitable mortality, which gives rise to potentially paralyzing terror. Cultural worldviews and self-esteem help manage this terror by convincing us that we are special beings with souls and identities that will persist, literally and/or symbolically, long past our own physical death. We are thus pervasively preoccupied with maintaining confidence in our cultural scheme of things and satisfying the standards of value associated with it." - [Sheldon Solomon](https://www.goodreads.com/quotes/11603507-according-to-terror-management-theory-the-combination-of-a-basic)
-
-> "We can reflect on the fact that each of us is, in Otto Rank’s lovely words, a “temporal representative”." - [Sheldon Solomon](https://www.goodreads.com/quotes/8818137-we-can-reflect-on-the-fact-that-each-of-us)
-
-> "Although we typically take our cultural worldview for granted, it is actually a fragile human construction that people spend great energy creating, maintaining, and defending. Since we’re constantly on the brink of realizing that our existence is precarious, we cling to our culture’s governmental, educational, and religious institutions and rituals to buttress our view of human life as uniquely significant and eternal." - [Sheldon Solomon](https://www.goodreads.com/quotes/9031825-although-we-typically-take-our-cultural-worldview-for-granted-it)
-
-> "We humans procure psychological equanimity by being valued in the eyes of higher powers: at first our parents, and, as we mature, the culture at large." - [Sheldon Solomon](https://www.goodreads.com/quotes/11600902-we-humans-procure-psychological-equanimity-by-being-valued-in-the)
-
-
 
 
 
@@ -903,7 +894,7 @@ Life Need Not Ever End
 New interpretations of the laws of thermodynamics suggest the infamous “heat death” hypothesis, which foretells the end of all life and organization in the universe, might not hold.
 https://www.noemamag.com/life-need-not-ever-end/
 
-
+> "This process need never come to an end. There are no inherent limits to the growth of knowledge and progress." - [David Deutsch](https://roadtoomega.substack.com/p/the-purposeful-universe-why-the-emergence#:~:text=This%20process%20need%20never%20come%20to%20an%20end.%20There%20are%20no%20inherent%20limits%20to%20the%C2%A0growth%20of%20knowledge%20and%20progress.)
 
 
 > "The free energy principle might be the most all-encompassing idea since the theory of natural selection." - [Wired magazine](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/#:~:text=Karl%20Friston%E2%80%99s%20free%20energy%20principle%20might%20be%20the%20most%20all%2Dencompassing%20idea%20since%20the%20theory%20of%20natural%20selection)
@@ -939,30 +930,16 @@ https://www.noemamag.com/life-need-not-ever-end/
 > If you are living in a “Bayes-optimal” manner, then when some new information you get exposed to discredits your prior beliefs, you should update your model to reflect that reality. For example, if you are a flat-Earther and I take you up in a rocket and let you see that the Earth is round with your own eyes, and you come back down and continue believing the Earth is flat, then you are not being Bayes optimal. You are not updating your model in light of new evidence." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=In%20recent%20years%2C%20a,light%20of%20new%20evidence.)
 
 
-<img src="/img/Major_Evolutionary_Transitions_digital.jpg"/>
-https://upload.wikimedia.org/wikipedia/commons/9/92/Major_Evolutionary_Transitions_digital.jpg
-https://en.wikipedia.org/wiki/Metasystem_transition#Contemporary_perspectives
-
-
-> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
-
-> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
-
-> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
-
-> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
-
-> "" - [The Purposeful Universe: Why the Emergence and Continual Evolution of Life and Intelligence are Inevitable Products of Cosmic Complexification, by Bobby Azarian]()
 
 
 
-> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
-
-> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
-
-> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
-
-> "" - [Terror Management Theory Suggests That a Unifying Worldview is the Solution to Tribalism, Political Polarization, and the Culture War, by Bobby Azarian]()
+> "When we are trying to understand the nature of a multiply realizable phenomenon, the “true” description of that phenomenon is not to be found at any single level—the deepest understanding would come from recognizing the common abstraction that can be extracted from the different levels. For example, we can understand how a biosphere functions as a self-regulating complex adaptive system by seeing its similarities with biological organisms. This property of nature is known as [self-similarity](https://en.wikipedia.org/wiki/Self-similarity), and mathematicians have studied it using abstract methods such as [reflection principles](https://en.wikipedia.org/wiki/Reflection_principle). These ideas are somewhat obscure at the current time, and there is likely much to gain by applying them to the study of complex adaptive systems, like cells and cities, which have similar dynamics and organization, despite existing on massively different scales (see Geoffrey West’s book [Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582)).
+>
+> Self-similarity in the biological world suggests that the levels in a nested complex adaptive system can inform each other by revealing dynamics and mechanisms that might be hard to observe, for whatever reason, at some other level. For example, the dynamics of ecosystems might tell us something about the dynamics of autocatalytic sets, and vice versa. One might also assume that learning about the dynamics of a complex adaptive system at one level in the hierarchy of life might tell us something about the levels that have not yet emerged but are to be expected. For example, studying how consciousness emerges in human brains could tell us something about how consciousness might emerge in the global brain that is being formed by humans connected by their online devices. In this way, Poetic Meta-Naturalism has predictive power that no reductionist theory has. Rather than ignoring emergent phenomena, it uses them to predict the behavior of isomorphic patterns at various scales of size.
+>
+> Perhaps the most interesting thing about Poetic Meta-Naturalism is that it is a theory that is “self-aware,” in the sense that it refers to itself. Because it describes emergent phenomena, and paradigms are also emergent phenomena, the theory becomes aware of its role in the evolutionary process, as well as its own limitations.
+>
+> Specifically, Poetic Meta-Naturalism predicts that its model of the reality will have errors, and it gives instructions for how it is supposed to be updated when new evidence comes in (using Bayes’ theorem). It is also by definition an incomplete theory, as it acknowledges that new phenomena with novel properties will inevitably emerge in the future, requiring that the framework be expanded." - [Poetic Meta-Naturalism: A New Philosophy of Reality for the Metamodern Age, by Bobby Azarian](https://roadtoomega.substack.com/p/poetic-meta-naturalism-a-new-philosophy#:~:text=When%20we%20are,framework%20be%20expanded.)
 
 
 

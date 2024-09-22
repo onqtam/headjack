@@ -410,6 +410,10 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 ^^ Causality & indirect effects: cows => improper food => sickness => antibiotics => messed up microbiome => 6x more methane compared to cows from a few decades ago
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Credit assignment
+██████████████████████████████████████████████████████████████████
+
 
 
 ██████████████████████████████████████████████████████████████████

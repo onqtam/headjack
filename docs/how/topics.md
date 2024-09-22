@@ -86,10 +86,6 @@ snapping humanity on the right trajectory - the god machine, recursive relevance
 
 list all ways our system is broken and could be optimized in one section
 
-Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
-    https://en.wikipedia.org/wiki/Metasystem_transition
-    https://upload.wikimedia.org/wikipedia/commons/9/92/Major_Evolutionary_Transitions_digital.jpg
-
 connectionism
 
 competence heterarchy
