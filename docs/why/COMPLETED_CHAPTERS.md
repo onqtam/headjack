@@ -333,6 +333,9 @@ top10 most important reads:
 https://civilizationemerging.com/dharma-inquiry-2/
 ^^ how do we all answer these questions?
 
+top10 blogs:
+- [Road to Omega](https://roadtoomega.substack.com/), by Bobby Azarian
+
 top10 to watch
 - How Complexity Economics Can Save the World, by Eric Beinhocker
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
@@ -436,6 +439,13 @@ When these principles are applied, they ensure that whatever structures are deve
 ██████████████████████████████████████████████████████████████████
 # SECTION: Subsidiarity / Hierarchy / holacracy
 ██████████████████████████████████████████████████████████████████
+
+As above, so below
+https://en.wikipedia.org/wiki/As_above,_so_below
+
+> "That which is above is like to that which is below, and that which is below is like to that which is above." - ["As above, so below" - part of a Hermetic text](https://en.wikipedia.org/wiki/As_above,_so_below#:~:text=That%20which%20is%20above%20is%20like%20to%20that%20which%20is%20below%2C%20and%20that%20which%20is%20below%20is%20like%20to%20that%20which%20is%20above.)
+
+
 
 > "Subsidiarity is a principle of social organization that holds that social and political issues should be dealt with at the most immediate or local level that is consistent with their resolution." - [Subsidiarity, Wikipedia](https://en.wikipedia.org/wiki/Subsidiarity#:~:text=Subsidiarity%20is%20a%20principle%20of%20social%20organization%20that%20holds%20that%20social%20and%20political%20issues%20should%20be%20dealt%20with%20at%20the%20most%20immediate%20or%20local%20level%20that%20is%20consistent%20with%20their%20resolution.)
 
