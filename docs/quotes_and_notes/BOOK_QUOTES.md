@@ -521,48 +521,6 @@ John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
 
 > "All progress, both theoretical and practical, has resulted from a single human activity: the quest for what I call good explanations. Though this quest is uniquely human, its effectiveness is also a fundamental fact about reality at the most impersonal, cosmic level – namely that it conforms to universal laws of nature that are indeed good explanations. This simple relationship between the cosmic and the human is a hint of a central role of people in the cosmic scheme of things." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
-This is why the Royal Society (one of the earliest
-scientific academies, founded in London in 1660) took as its motto
-‘Nullius in verba’, which means something like ‘Take no one’s word
-for it.’
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-
 
 
 
@@ -1816,7 +1774,7 @@ First is the problem of recognizing that you’re in a non-zero-sum game. How ma
 
 > "Nature smiles at the union of freedom and equality in our utopias. For freedom and equality are sworn and everlasting enemies, and when one prevails the other dies. Leave men free, and their natural inequalities will multiply almost geometrically, as in England and America in the nineteenth century under laissez-faire. To check the growth of inequality, liberty must be sacrificed, as in Russia after 1917. Even when repressed, inequality grows; only the man who is below the average in economic ability desires equality; those who are conscious of superior ability desire freedom; and in the end superior ability has its way. Utopias of equality are biologically doomed, and the best that the amiable philosopher can hope for is an approximate equality of legal justice and educational opportunity. A society in which all potential abilities are allowed to develop and function will have a survival advantage in the competition of groups." - [The Lessons of History, by Will & Ariel Durant](https://www.goodreads.com/book/show/174713.The_Lessons_of_History)
 
-> ""Racial" antipathies have some roots in ethnic origin, but they are also generated, perhaps predominantly, by differences of acquired culture-of language, dress, habits, morals, or religion. There is no cure for such antipathies except a broadened education. A knowledge of history may teach us that civilization is a co-operative product, that nearly all peoples have contributed to it; it is our common heritage and debt; and the civilized soul will reveal itself in treating every man or woman, hmvever lowly, as a representative of one of these creative and contributory groups." - [The Lessons of History, by Will & Ariel Durant](https://www.goodreads.com/book/show/174713.The_Lessons_of_History)
+> "'Racial' antipathies have some roots in ethnic origin, but they are also generated, perhaps predominantly, by differences of acquired culture-of language, dress, habits, morals, or religion. There is no cure for such antipathies except a broadened education. A knowledge of history may teach us that civilization is a co-operative product, that nearly all peoples have contributed to it; it is our common heritage and debt; and the civilized soul will reveal itself in treating every man or woman, hmvever lowly, as a representative of one of these creative and contributory groups." - [The Lessons of History, by Will & Ariel Durant](https://www.goodreads.com/book/show/174713.The_Lessons_of_History)
 
 > "Known history shows little alteration in the conduct of mankind. The Greeks of Plato's time behaved very much like the French of modern centuries; and the Romans behaved like the English. Means and instrumentalities change; motives and ends remain the same: to act or rest, to acquire or give, to fight or retreat, to seek association or privacy, to mate or reject, to offer or resent parental care. Nor does human nature alter as between classes: by and large the poor have the same impulses as the rich, with only less opportunity or skill to implement them. Nothing is clearer in history than the adoption by successful rebels of the methods they were accustomed to condemn in the forces they deposed. Evolution in man during recorded time has been social rather than biological: it has proceeded not by heritable variations in the species, but mostly by economic, political, intellectual, and moral innovation transmitted to individuals and generations by imitation, custom, or education." - [The Lessons of History, by Will & Ariel Durant](https://www.goodreads.com/book/show/174713.The_Lessons_of_History)
 

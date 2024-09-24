@@ -797,6 +797,134 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
+> "Men are not prisoners of fate, but only prisoners of their own minds." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/45529-men-are-not-prisoners-of-fate-but-only-prisoners-of)
+
+> "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35186-the-test-of-our-progress-is-not-whether-we-add)
+
+> "We have always known that heedless self interest was bad morals, we now know that it is bad economics." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35219-we-have-always-known-that-heedless-self-interest-was-bad)
+
+> "The first truth is that the liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism -- ownership of government by an individual, by a group, or by any other controlling private power.... Among us today a concentration of private power without equal in history is growing." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/220096-the-first-truth-is-that-the-liberty-of-a-democracy)
+
+> "A war of ideas can no more be won without books than a naval war can be won without ships. Books, like ships, have the toughest armor, the longest cruising range, and mount the most powerful guns." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/37756-a-war-of-ideas-can-no-more-be-won-without)
+
+> "Competition has been shown to be useful up to a certain point and no further, but cooperation, which is the thing we must strive for today, begins where competition leaves off." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/423760-competition-has-been-shown-to-be-useful-up-to-a)
+
+> "The only sure bulwark of continuing liberty is a government strong enough to protect the interests of the people, and a people strong enough and well enough informed to maintain its sovereign control over the government." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/244156-the-only-sure-bulwark-of-continuing-liberty-is-a-government)
+
+> "Taxes, after all, are dues that we pay for the privileges of membership in an organized society." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/531171-taxes-after-all-are-dues-that-we-pay-for-the)
+
+> "Today we are faced with the pre-eminent fact that if civilization is to survive, we must cultivate the science of human relationships, the ability of all peoples of all kins to live together and to work together in the same world at peace." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/55106-today-we-are-faced-with-the-pre-eminent-fact-that-if)
+
+> "Physical strength can never permanently withstand the impact of spiritual force." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/415349-physical-strength-can-never-permanently-withstand-the-impact-of-spiritual)
+
+> "We must especially beware of that small group of selfish men who would clip the wings of the American Eagle in order to feather their own nests." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/9411068-we-must-especially-beware-of-that-small-group-of-selfish)
+
+> "That, in its essence, is Fascism — ownership of Government by an individual, by a group, or by any other controlling private power." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/665464)
+
+> "In our democracy officers of the government are the servants, and never the masters of the people." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/558977)
+
+> "We know that equality of individual ability has never existed and never will, but we do insist that equality of opportunity still must be sought." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/522436)
+
+> "Change is like fire- if uncontrolled, it will consume us." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/1335483)
+
+> "The real safeguard of democracy is education." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/867124)
+
+> "The Nation that destroys its soil destroys itself." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/250921)
+
+
+
+
+
+> "This generation of *~~Americans~~* **humanity** has a rendezvous with destiny." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/250944), probably
+
+> "The fate of *~~America~~* **humanity** cannot depend on any one *~~man~~* **country**. The greatness of *~~America~~* **humanity** is grounded in principles **and mechanisms** and not on any single *~~personality~~* **country**." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/950724), probably
+
+
+
+> "Do I not destroy my enemies when I make them my friends?" - [Abraham Lincoln](https://www.goodreads.com/quotes/10667-do-i-not-destroy-my-enemies-when-i-make-them)
+
+> "When I do good, I feel good. When I do bad, I feel bad. That's my religion." - [Abraham Lincoln](https://www.goodreads.com/quotes/7941-when-i-do-good-i-feel-good-when-i-do)
+
+> "The best way to predict your future is to create it." - [Abraham Lincoln](https://www.goodreads.com/quotes/328848-the-best-way-to-predict-your-future-is-to-create)
+
+> "I have always found that mercy bears richer fruits than strict justice." - [Abraham Lincoln](https://www.goodreads.com/quotes/23675-i-have-always-found-that-mercy-bears-richer-fruits-than)
+
+> "You cannot escape the responsibility of tomorrow by evading it today." - [Abraham Lincoln](https://www.goodreads.com/quotes/32184-you-cannot-escape-the-responsibility-of-tomorrow-by-evading-it)
+
+> "Achievement has no color." - [Abraham Lincoln](https://www.goodreads.com/quotes/137323-achievement-has-no-color)
+
+> "The greatest fine art of the future will be the making of a comfortable living from a small piece of land." - [Abraham Lincoln](https://www.goodreads.com/quotes/36568-the-greatest-fine-art-of-the-future-will-be-the)
+
+> "The ballot is stronger than the bullet." - [Abraham Lincoln](https://www.goodreads.com/quotes/15203-the-ballot-is-stronger-than-the-bullet)
+
+> "If there is anything that links the human to the divine, it is the courage to stand by a principle when everybody else rejects it." - [Abraham Lincoln](https://www.goodreads.com/quotes/322696-if-there-is-anything-that-links-the-human-to-the)
+
+> "No man stands so tall as when he stoops to help a child." - [Abraham Lincoln](https://www.goodreads.com/quotes/43167-no-man-stands-so-tall-as-when-he-stoops-to)
+
+> "Commitment is what transforms a promise into reality." - [Abraham Lincoln](https://www.goodreads.com/quotes/340549-commitment-is-what-transforms-a-promise-into-reality)
+
+> "I am nothing, truth is everything." - [Abraham Lincoln](https://www.goodreads.com/quotes/136559-i-am-nothing-truth-is-everything)
+
+> "You must remember that some things legally right are not morally right." - [Abraham Lincoln](https://www.azquotes.com/quote/730407)
+
+> "When you make it to the top, turn and reach down for the person behind you." - [Abraham Lincoln](https://www.azquotes.com/quote/1123411)
+
+> "If we exchange one dollar, we both have one dollar each. But if we exchange one good thought, we both have two good thoughts." - [Abraham Lincoln](https://www.azquotes.com/quote/873058)
+
+> "A nation that does not honor its heroes will not long endure." - [Abraham Lincoln](https://www.azquotes.com/quote/856201)
+
+> "The philosophy of the school room in one generation will be the philosophy of government in the next." - [Abraham Lincoln](https://www.azquotes.com/quote/176105)
+
+
+
+> "Victory has a hundred fathers and defeat is an orphan." - [John F. Kennedy](https://www.goodreads.com/quotes/41024-victory-has-a-hundred-fathers-and-defeat-is-an-orphan)
+
+
+
+> "The whole art of government consists in the art of being honest." - [Thomas Jefferson](https://www.goodreads.com/quotes/38795-the-whole-art-of-government-consists-in-the-art-of)
+
+> "The will of the people is the only legitimate foundation of any government, and to protect its free expression should be our first object." - [Thomas Jefferson](https://www.goodreads.com/quotes/4966-the-will-of-the-people-is-the-only-legitimate-foundation)
+
+> "Peace and friendship with all mankind is our wisest policy, and I wish we may be permitted to pursue it." - [Thomas Jefferson](https://www.goodreads.com/quotes/18726-peace-and-friendship-with-all-mankind-is-our-wisest-policy)
+
+> "The doctor of the future will give no medicine, but will interest his (sic)patient in the care of the human frame, in diet and in the cause and prevention of disease." - [Thomas Jefferson](https://www.goodreads.com/quotes/367285-the-doctor-of-the-future-will-give-no-medicine-but)
+
+
+
+> "Let your heart feel for the afflictions and distress of everyone." - [George Washington](https://www.goodreads.com/quotes/677346-let-your-heart-feel-for-the-afflictions-and-distress-of)
+
+> "I hold the maxim no less applicable to public than to private affairs, that honesty is always the best policy." - [George Washington](https://www.goodreads.com/quotes/103494-i-hold-the-maxim-no-less-applicable-to-public-than)
+
+> "You have only one way to convince others, listen to them." - [George Washington](https://www.azquotes.com/quote/882375)
+
+> "Religion and morality are the essential pillars of civil society." - [George Washington](https://www.azquotes.com/quote/579378)
+
+
+
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+> "" - [Benjamin Franklin]()
+
+
+
+
+
+
 
 
 > "Imagine a world where the way to make the most money is to tell the hardest truths." - [Alexandros Marinos](https://x.com/alexandrosM/status/1806072469922660485)

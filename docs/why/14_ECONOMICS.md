@@ -395,6 +395,8 @@ Shift from quantitative to qualitative growth
 
 From bond markets to binding markets - binding your word to be held accountable and rewarded for proper conduct
 
+we can tax industries through stigma alone - limiting their market
+
 
 
 

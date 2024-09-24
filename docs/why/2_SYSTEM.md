@@ -619,6 +619,9 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 # SECTION: Consumerism
 ██████████████████████████████████████████████████████████████████
 
+
+Our perennial ["war of all against all"](https://en.wikipedia.org/wiki/Bellum_omnium_contra_omnes) manifesting in conspicuous consumption and status games will be our doom.
+
 the century of the self
 
 Minimalism
