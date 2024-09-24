@@ -159,6 +159,8 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 
 > "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
 
+> "What I cannot *~~create~~* **predict**, I do not understand." - [Richard Feynman](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand), probably
+
 https://www.lesswrong.com/tag/futarchy
 
 https://www.lesswrong.com/tag/prediction-markets
