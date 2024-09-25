@@ -1844,33 +1844,6 @@ First is the problem of recognizing that you’re in a non-zero-sum game. How ma
 
 
 
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-> "" - [The Phenomenon of Science: A Cybernetic Approach to Human Evolution, by Valentin Turchin](https://www.goodreads.com/book/show/2466227.The_Phenomenon_of_Science)
-
-
 
 
 
