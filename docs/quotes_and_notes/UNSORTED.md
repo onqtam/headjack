@@ -601,24 +601,13 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
-> "" - [Yanis Varoufakis]()
 
-> "" - [Yanis Varoufakis]()
-
-> "" - [Yanis Varoufakis]()
-
-> "" - [Yanis Varoufakis]()
-
-> "" - [Yanis Varoufakis]()
-
-> "" - [Yanis Varoufakis]()
+> "The greatest challenge today, not just in cell biology and ecology but in all of science, is the accurate and complete description of complex systems." - [Edward O. Wilson](https://www.goodreads.com/quotes/10317579-the-greatest-challenge-today-not-just-in-cell-biology-and)
 
 
 
 
-> "" - []()
 
-> "" - []()
 
 > "" - []()
 

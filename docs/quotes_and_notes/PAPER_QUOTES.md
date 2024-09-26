@@ -1283,6 +1283,73 @@ Massachusetts Institute of Technology
 
 
 
+> "What is the Post-Liberal Synthesis? That is, the direction of history forces us to consider the looming failure of liberalism, and the need for a graceful restructuring that salvages its strengths. We think this can take the form of a coherent post-liberal synthesis, which is an actual philosophical advance, not simply the chronological sequent. The uncertain nature of the moment is the chaotic process of different historical possibilities vying for substantiation. Without the development of a coherent post-liberal synthesis, this chaotic movement away from liberalism will be entirely negative." - [Towards the Post-Liberal Synthesis, Palladium Magazine](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/#:~:text=What%20is%20the,be%20entirely%20negative.)
+
+> "Liberalism is generally defined as a political ideology that emphasizes a synthesis of individual rights, free markets, free speech, freedom of culture and religion, primacy of the individual over society, democracy, limited government, division of powers, checks and balances, and separation of church and state. The modern mainstream consensus includes additional elements, like social justice, social and economic equality, deconstruction of old-fashioned social structures, and so on. To make this more concrete, we are talking not just about these ideas, but the current liberal international order and the entire body of social and political practice they legitimate." - [Towards the Post-Liberal Synthesis, Palladium Magazine](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/#:~:text=Liberalism%20is%20generally,practice%20they%20legitimate.)
+
+> "If the failure of liberalism is predetermined by its own flaws, then fighting harder for it is ultimately futile. And yet, it would still seem we must do something, because a full collapse of the liberal international order is not acceptable. If liberalism collapses without replacement, or is overtaken by misguided revolutionaries, the result is a much more chaotic and uncertain world, potentially for a long time." - [Towards the Post-Liberal Synthesis, Palladium Magazine](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/#:~:text=If%20the%20failure,a%20long%20time.)
+
+> "Liberalism is flawed, but can be upgraded or replaced in an orderly fashion. If somehow we can identify the key flaws with more certainty before the possible moment of crisis, we could begin the theoretical, philosophical, and organizational work to gracefully transition from liberalism to some post-liberal synthesis. Such a synthesis must preserve most of the value and key practical victories of liberalism, and would have to follow in the liberal intellectual tradition. But it would also have to resolve liberalism’s systemic flaws, to be able to pick up the slack, and make headway on the key problems which have stalled its progress." - [Towards the Post-Liberal Synthesis, Palladium Magazine](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/#:~:text=liberalism%20is%20flawed,stalled%20its%20progress.)
+
+> "First of all, it will not be an attempt to create the One True Ideology. It will self-consciously be an incremental improvement in how we think about how to organize society. It will be an upgrade of liberalism, which throws out and replaces many key assumptions and concepts, but does not abandon its key realized victories. It will be built in the understanding that it, too, will have problems, and will need to be replaced with a new and again superior synthesis in the future.
+>
+> Second, to be properly post-liberal, as opposed to just illiberal, it must be based on a serious and deep engagement with the liberal tradition. It will have to understand and salvage as much of the good of liberalism and progressivism as possible. It will have to engage with and address the rationales for liberalism, only some of which are explicitly stated.
+>
+> Third, the most obvious source of relevant critique of liberalism, where we will find the most important problems to fix and address, will be in the current opposition. From both left and right, the post-liberal synthesis must integrate the critiques of capitalism, systems of oppression, democracy, fake and controlled public discourse, valueless secularism, government overgrowth, fiat money, etc. Even if currently frustrating and destructive, the opponents of liberalism have many legitimate concerns and insights to offer, which should be incorporated into the synthesis.
+>
+> Fourth, instead of being based on unattainable ideals and thought experiments about states of nature that never happened, it should be thoroughly rooted in a clear examination of how power and governance and social control actually work, and are actually experienced, and in the real processes of how political order actually comes about.
+>
+> Finally, while being a self-consciously temporary and pragmatic mashup of ideas, the post-liberal synthesis must be something new, unique, and coherent in its own right, capable of inspiring real belief, especially among the elite. It can’t be just a mashup of ideas that don’t fit together; it must be the most coherent worldview we can produce, a real philosophical advance over liberalism, while fitting the constraints and opportunities of the current historical moment.
+>
+> Let’s not have any illusions: even while the forces of history push towards a post-liberal synthesis, such a major step forward in the social philosophy of society, no matter how humble and pragmatic, is inherently a herculean task. It will not happen by accident, or by default, but will take deliberate effort. A willful philosophical development is required to gracefully navigate this historical transition." - [Towards the Post-Liberal Synthesis, Palladium Magazine](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis/#:~:text=First%20of%20all,this%20historical%20transition.)
+
+> "The media has left analysis to those most personally and financially invested in war. Without retaking the initiative for independent analysis of military policy, the media will continue serving as nothing more than stenographers for a lobby financially incentivized to promote ongoing military intervention. The longer the status quo remains, the more impervious it becomes to the Fourth Estate." - [The Danger of the Media’s Military Experts, Palladium Magazine](https://www.palladiummag.com/2019/01/10/the-danger-of-the-medias-military-experts/#:~:text=the%20media%20has,the%20Fourth%20Estate.)
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+
 
 
 
