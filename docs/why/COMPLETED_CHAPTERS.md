@@ -283,6 +283,8 @@ How to Get Rich - Naval
 Everything You Need to Know about the Government’s Mass Censorship Campaign - Mike Benz
 https://www.youtube.com/watch?v=CRYSKaS-XtQ
 ^^ or not.
+"The History of the Intelligence State" - Mike Benz @ Hillsdale College
+https://x.com/MikeBenzCyber/status/1838448979799085456
 
 top 10 watch:
 'Humanity's Phase Shift', Daniel Schmachtenberger
