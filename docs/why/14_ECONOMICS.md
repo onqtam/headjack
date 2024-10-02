@@ -52,6 +52,9 @@ complexity_econ_12.png
 How Complexity Economics Can Save the World
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
+> "It's easier to imagine the end of the world than the end of capitalism." - [Mark Fisher](https://www.goodreads.com/quotes/10177494-it-s-easier-to-imagine-the-end-of-the-world-than)
+
+
 > "Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world." - [Fredric Jameson](https://www.goodreads.com/quotes/7690016-someone-once-said-that-it-is-easier-to-imagine-the)
 
 > "It often happens that the universal belief of one age of mankind... becomes to a subsequent age so palpable an absurdity, that the only difficulty then is to imagine how such a thing can ever have appeared credible." - [John Stuart Mill](https://www.azquotes.com/quote/652591)

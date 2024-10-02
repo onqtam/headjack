@@ -402,6 +402,8 @@ Open source code is compiled, ran & verified by many independent actors - we sho
 
 Papers can be split into text, data, code & results with all of them referencable with stable URIs & cryptographically tied to identity, reputation & [open peer review](https://en.wikipedia.org/wiki/Open_peer_review). There will always be an element of trust for the input data coming from the physical world but the digital part can be locally verifiable & [replicable](https://twitter.com/balajis/status/1556579944754384897). Citations could become [function calls / imports](https://twitter.com/balajis/status/1309497397236477952) so that we can trace the dependency graph in science and focus on re-testing the most important bits - we might [save a billion or two and avoid lost decades](https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease). We then could easily change the data in one paper and see the ripple effects for everything that depends on it. Let's build the digital chain of custody for papers, science & facts.
 
+> "If it takes them a quarter century to find the most provable types of fraud, it means almost all of the fraud is going undetected." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1840055895369363856)
+
 > "Composable science is reproducible science." - [@balajis](https://twitter.com/balajis/status/1555458319070167040)
 
 <!-- https://twitter.com/manveerbasra_/status/1555405612506157056 -->

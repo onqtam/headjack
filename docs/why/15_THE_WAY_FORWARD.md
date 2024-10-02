@@ -862,6 +862,9 @@ Joker - an agent of chaos meme
 An open invitation for agents of chaos
 
 
+> "You hear that Mr. Anderson?... That is the sound of inevitability..." - [Agent Smith](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324266), probably
+
+
 > "It is easier to resist at the beginning than at the end." - [Leonardo da Vinci](https://www.goodreads.com/quotes/187861-it-is-easier-to-resist-at-the-beginning-than-at)
 
 Any country could jump in first and reap the benefits - and the “jump” could be gradual

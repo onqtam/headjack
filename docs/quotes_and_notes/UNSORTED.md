@@ -323,11 +323,20 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 
 
+Why America is Not An Open Society - Samo Burja
+https://www.youtube.com/watch?v=AP9p38-C2j4
+
+> "With 35-45% of U.S. GDP spent by the government, and perhaps another 10% spent by nonprofits, it is possible that a majority of U.S. GDP is spent outside of the market, without regard to market signals or forces. It is perhaps time to rethink what we call this economic system." - [Bismarck Analysis](https://x.com/bismarckanlys/status/1840781279198929182)
+
+
 
 > "We believe there is no inherent conflict between the techno-capital machine and the natural environment. Per-capita US carbon emissions are lower now than they were 100 years ago, even without nuclear power." - [The Techno-Optimist Manifesto, by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/#:~:text=We%20believe%20there%20is%20no%20inherent%20conflict%20between%20the%20techno%2Dcapital%20machine%20and%20the%20natural%20environment.%20Per%2Dcapita%20US%20carbon%20emissions%20are%20lower%20now%20than%20they%20were%20100%20years%20ago%2C%20even%20without%20nuclear%20power.)
 
 ^^ this is what ignoring what's been exported to third world countries looks like
 
+
+
+> "Consciousness is the ability to share your mental states with yourself while they happen." - [Joscha Bach](https://x.com/Plinz/status/1841091145562275850)
 
 
 
