@@ -282,6 +282,9 @@ https://en.wikipedia.org/wiki/Mortality_salience
 <img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
 
 
+> "Rather than infinite consumption, let us reorient our civilization towards infinite work." - [Marko Jukic](https://x.com/mmjukic/status/1694369198695223637)
+
+
 > "We live in a world reeling from multiples crises: ecological, political, economic, social. We call this the “meta-crisis.” But there’s another one, what John Vervaeke has dubbed “the meaning crisis,” which I believe undergirds them all, providing this “meta-crisis” its fuel and its inertia. 
 >
 > We live in a meaning crisis, a crisis of meaning at the collective level, which both exacerbates the causes of the meta-crisis while simultaneously keeping us from the kind of cohesive, purposeful vision we might summon to respond to it. 

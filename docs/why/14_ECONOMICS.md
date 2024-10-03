@@ -55,6 +55,14 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 > "It's easier to imagine the end of the world than the end of capitalism." - [Mark Fisher](https://www.goodreads.com/quotes/10177494-it-s-easier-to-imagine-the-end-of-the-world-than)
 
 
+
+> "The fact that even in 2024 we are driven to LARP what is basically 18th century merchant ideology from England and Holland, rather than some other arbitrary LARP, is an instance of our technology and industrial capability outpacing our intellectual culture by centuries." - [Marko Jukic](https://x.com/mmjukic/status/1796481645538578518)
+
+> "Our civilization still relies on outdated and malfunctioning social technology from the age of swords and sails. Real industrial civilization has never been tried... Our current design for industrial civilization is based on the idea of satisfying arbitrary types and amounts of appetites through consumption." - [Marko Jukic](https://x.com/mmjukic/status/1773311404985954532)
+
+
+
+
 > "Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world." - [Fredric Jameson](https://www.goodreads.com/quotes/7690016-someone-once-said-that-it-is-easier-to-imagine-the)
 
 > "It often happens that the universal belief of one age of mankind... becomes to a subsequent age so palpable an absurdity, that the only difficulty then is to imagine how such a thing can ever have appeared credible." - [John Stuart Mill](https://www.azquotes.com/quote/652591)
