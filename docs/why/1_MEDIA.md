@@ -21,6 +21,10 @@ https://www.conspicuouscognition.com/p/how-dangerous-is-misinformation
 > "Statistics which purport to represent public opinion are actually the tools used by the media to manufacture opinion." - [Netocracy: The new power elite and life after capitalism, by Alexander Bard](https://www.goodreads.com/quotes/3236384-so-instead-we-are-supplied-with-a-constant-stream-of#:~:text=Statistics%20which%20purport%20to%20represent%20public%20opinion%20are%20actually%20the%20tools%20used%20by%20the%20media%20to%20manufacture%20opinion.)
 
 
+> "This is extremely dangerous to our democracy." - [synchronized talking heads](https://www.youtube.com/watch?v=_fHfgU8oMSo)
+
+
+
 > "If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed." - [Mark Twain](https://www.goodreads.com/quotes/10001-if-you-don-t-read-the-newspaper-you-re-uninformed-if-you)
 
 > "A lie can travel half way around the world while the truth is putting on its shoes." - [Mark Twain](https://www.goodreads.com/quotes/76-a-lie-can-travel-half-way-around-the-world-while)
