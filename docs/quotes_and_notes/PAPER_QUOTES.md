@@ -1368,15 +1368,42 @@ Massachusetts Institute of Technology
 
 
 
-> "" - [Intellectual Legitimacy, by Samo Burja]()
+> "Individuals routinely use legitimacy as a shortcut for evaluating the quality of the ideas around them. What may intuitively feel like evaluating an idea on its merits has oftentimes already factored in how an idea is communicated, and who is communicating it. We do this because it is harder for us to assess claims in fields that are outside our areas of expertise and so, instead, we learn from experience which sources to rely on. Evaluating an idea’s intellectual legitimacy is often safer and easier than evaluating the idea itself, and in a healthy society, the shortcut works. This makes the shortcut an efficient and effective heuristic for individuals. Even then, though, an intellectually valid idea that is correctly perceived as legitimate might ultimately still turn out to be false... This shortcut is so common we could argue that intellectual legitimacy is one of the foundations of power in our society." - [Intellectual Legitimacy, by Samo Burja](https://samoburja.com/intellectual-legitimacy/)
 
-> "" - [Intellectual Legitimacy, by Samo Burja]()
+> "How can intellectual legitimacy grow detached from truth or intellectual validity? Society’s perception of legitimacy can be incorrect, sometimes even when available information easily disproves views still held to be legitimate. This is because perception is outsourced to various authorities—sometimes independently prominent individuals, but most commonly to institutions and those acting as their representatives. It takes live players or practitioners of living traditions of knowledge to orient such institutions towards the truth. Incentives inside of old, automated organizations are at best weakly coupled to truth, and at times actively push against it. What do such incentives look like in practice?
+>
+> Consider a manager selecting between two applicants, the first with a Harvard degree and the second without. Even if the manager has learned that the second applicant is more qualified for the job, in many workplaces it would be more prudent for the manager to choose the first applicant. If the manager passes up the first applicant in favor of the second, but the second underperforms, it is the manager who is in trouble for a poor hiring decision. But if the first candidate underperforms, the manager has an excuse: they trusted the Harvard degree!  Whether it was the correct choice or not, the manager’s hiring decision will not be seen as impulsive or irresponsible. Enough iterations of such choices could completely decouple legitimacy and merit from each other.
+>
+> Bureaucracies are especially influenced by the perceived legitimacy or illegitimacy of knowledge. Oftentimes bureaucracies have been constructed in such a way as to only recognize certain pre-existing bureaucratic markers of legitimacy as valid. The tenure committee recognizes papers published as valid indicators of a professor’s academic success, but not blog posts with the same information and reach...
+>
+> Markers of legitimacy have a strong impact on the way ideas are used and decisions are made, simply because the more legitimate a piece of knowledge is, the more an individual person in society can use that idea to justify decisions. For a good idea to have the most impact, that idea cannot just be freely available – that idea also needs to achieve legitimacy. This means that legitimacy is a necessary prerequisite for an idea to spread to wide audiences and become mainstream." - [Intellectual Legitimacy, by Samo Burja](https://samoburja.com/intellectual-legitimacy/#:~:text=How%20can%20intellectual,and%20become%20mainstream.)
 
-> "" - [Intellectual Legitimacy, by Samo Burja]()
+> "While working as a physicist at NASA, Professor Hanson had the idea now known as futarchy: a system of government in which some of the decision-making power is held by prediction markets. Physicists, however, do not have intellectual authority on the topic of how society should be run. Economists do. The intellectual legitimacy of an idea partially depends on whether it is proposed by someone with intellectual authority. Intellectual authority is a personal reputation. It reflects not only perceived expertise, but perceived pro-social orientation of the individual. Intellectual authority rests with people who are seen as possessing good intellectual judgement that is not only technically correct, but also takes into account social and political factors." - [Intellectual Authority, by Samo Burja](https://samoburja.com/intellectual-authority/#:~:text=While%20working%20as,and%20political%20factors.)
 
-> "" - [Intellectual Legitimacy, by Samo Burja]()
+> "The intellectual legitimacy of ideas is partially determined by who communicates them. The messenger matters for the reputation of an idea. Often those with the highest intellectual authority aren’t necessarily the most generative. As a consequence, credit for originating a legitimized idea nearly always flows to the person with the highest intellectual authority that has a claim to it... Generativity, validation, and authority can be aligned through functional institutions, although this is an exceptional rather than ordinary state of affairs. Different social roles hold different amounts of intellectual authority. The academic has more intellectual authority than the journalist, who in turn has more authority than the blogger... The intellectual authority of these different social roles themselves can change over time. In this way such roles are an example of borrowed power: one can use one’s socially legible role to legitimate one’s ideas, but at the end of the day one’s social role is contingent on a broader social landscape that is prone to change... The intellectual authority of a role changes with success or failure at social, economic, and political competition between niches. Legible intellectual successes can change the authority of a social role as well. A good example of this is 20th century physics. The triumphs of theories such as general relativity and quantum mechanics greatly enhanced the intellectual authority of the profession." - [Intellectual Authority, by Samo Burja](https://samoburja.com/intellectual-authority/)
 
-> "" - [Intellectual Legitimacy, by Samo Burja]()
+
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
 
 
 

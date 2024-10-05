@@ -63,6 +63,14 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 
 
+> "When people talk about a “market economy”, what exactly does that mean? You might assume it means a society where all or most economic decisions are made through markets. But this does not describe our own economy, or anything else that gets called a “market economy”. Most economic decisions are made inside particular organizations, which make their internal decisions according to hierarchical structures and individual judgment, taking markets into account as one factor among many. If two workers both want to avoid a Monday morning shift, or two department heads are arguing over hiring policy, or two engineers are debating which design to adopt, no one expects the people involved to start setting prices and bidding against each other like they would in a market. And yet markets are nevertheless crucial to our economic organization, in ways that are notably different from non-“market economies”. How, then, does the market fit in?
+>
+> What markets make possible is smooth interaction between independent units. Organizations have hierarchical control over their own assets, including very complex social processes like medical schools or aircraft control towers, but they also need to coordinate with other parts of society external to the organization itself, like customers and suppliers. Markets make this easy and reliable. The market is a thin layer of crucial but simple social technology that lets an organization ignore the deep complexity of the people and organizations it interacts with. This is helpful because the market interface an organization presents to the outside world is so much simpler than the non-market-based coordination it uses internally.
+>
+> In a way, the market is like the docking module between the Apollo and Soyuz rockets. It’s a crucial component, and without it the entire system couldn’t possibly function as a unified whole, but it’s still a relatively small fraction of the system’s mass and complexity. Understanding how it works won’t tell you all that much about how the Soyuz itself works." - [Markets Are Thin, by Ben Landau-Taylor](https://www.benlandautaylor.com/p/markets-are-thin#:~:text=When%20people%20talk,Soyuz%20itself%20works.)
+
+
+
 > "Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world." - [Fredric Jameson](https://www.goodreads.com/quotes/7690016-someone-once-said-that-it-is-easier-to-imagine-the)
 
 > "It often happens that the universal belief of one age of mankind... becomes to a subsequent age so palpable an absurdity, that the only difficulty then is to imagine how such a thing can ever have appeared credible." - [John Stuart Mill](https://www.azquotes.com/quote/652591)
