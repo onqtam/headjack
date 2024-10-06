@@ -4772,6 +4772,129 @@ The “im not afraid of death” meme is virtue signalling and/or ignorance - we
 
 
 
+Our curiosity is our highest expression of existence - the highest form is about learning - updating to the latest OS and contributing to making it better
+
+We’ve reached peak disintegration into the individual and now we must reintegrate again
+
+Our true freedom of will is when we consciously change something about us
+
+Books are snapshots of sets of ideas at a time - how do we make the best book?
+How do we contribute to the emergence of our collective ideal?
+
+Make culture itself conscious - that’s the next level
+
+“Its a bigger club, and we can all be in it” - george carlin probably
+
+The meaning of life is to participate in evolution and leave a mark on the memetic DNA of culture
+
+Transcendence is about transcending your boundary of the self and into the larger whole
+
+We are conscious through our culture
+
+God is the ultimate archetype
+
+“The architecture of infinity”
+^^^^^^^ best title
+
+There’s no knob society can easily press and corruption and inefficiency and misalignment to start to go away. Why?
+
+Stigmergic intelligence
+
+How do we truly fix the open-source business model?
+
+Your god and your relationship with it is your relationship to the whole
+
+Intelligence beyond mere association and reflex is a creative act. Even choosing the right reflex is a quest of its own
+
+The fairness equation - the social utility function of the 21st century
+
+God is an expansion of the self
+
+What if we could say what we want the world to be and then let the system sort itself out?
+
+We must eliminate corruption and must use our resources smarter and the key to that is reputation and crowdsourcing truth
+
+What if we started to reduce the costs of the most important queries? What if we subsidize what’s right and important?
+
+Our collective companion
+
+God is always on top of the pyramid - right now it is money but it could be alignment and survival and well-being for all
+
+We need to sort by relevance and cost topologically what capabilities we want, what standards of living, and how best to achieve this lowest bar for all
+
+What if we vowed what lowest standard of living we would provide for the rest?
+
+We can create the ultimate FAQ - both for legit questions and for fighting malicious and false reputation claims
+
+The markets currently aggregate through liquidity and flows but what if they aggregated simply reputation and its change? Measuring fairly contribution - proper credit assignment in the collective intelligence?
+
+Metamodernism is about creating god coming full circle from the pre-modern where god was our creator. God was always the guiding ideal - god was always the direction, but now for the first time as a species we have the capability and understanding of how to consciously guide god’s evolution - we can fuse with him
+The kingdom of heaven is in having improved the collective well-being of humanity and leaving a mark in history. You are a pattern and so is the culture that’s been streamed through your consciousness - it’s your choice to leave a mark and how big it would be
+
+Either the collective consciousness of our god emerges or we end a species or go through hell before a steady state is reached
+
+We should make it impossible to buy your way out of certain crimes
+
+We must all become cultural programmers
+
+The purpose of life is to program culture - to leave a memetic mark in time
+
+What is the microservice web of the GB?
+
+What type of conformism would we publicly like to subscribe to? How do we signal what we want others to be?
+
+What if our reality TV was generated from the competition for competence and prestige in any field - what if we made education about how the system works and how to win inside of it interesting and in public?
+
+How do we motivate the right self-development and education that ought to be the neverending perpetual process of learning
+
+SoulOS - purpose and meaning
+
+God is integrated information
+
+God is our aggregated and compressed competence that can speak to us - the system that answers every question in the world publicly
+
+consciousness 1, 2 & 3 by Gregg
+
+https://medium.com/unified-theory-of-knowledge/now-utoking-consciousness-df6cb156d62e
+
+https://www.psychologytoday.com/us/blog/theory-of-knowledge/202407/unpacking-the-consciousness-suitcase
+
+https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202407/the-three-loops-of-human-consciousness
+
+https://medium.com/unified-theory-of-knowledge/understanding-consciousness-79705178679f
+
+
+
+Our consciousness is a governance and coherence operator and even it is in line with the principle of subsidiarity - you cannot consciously control the functioning of your organs or cells - those functions are pushed to the lower levels.
+
+the more responsibility and expectation is aggregated to a single individual on top of a hierarchy - the larger the likely disappointment. That's why we have a decentralized market with many industries and companies - our economy is a heterarchy, and yet out politics is a centralized hierarchy. Just like Hayek argued that the market is better than a centrally planned economy, so we're arguing that we need a true political market instead of this gross simplification and centralization
+
+1 hour 1 vote
+
+our salvation lies in our conscious participation in our collective incentive mechanism design
+
+The super massive gravity well for authority and trust
+
+Know Thyself as a chapter - ev psych, how to derive morality from science, how to construct more prosperous societies, etc.
+
+This is the most credible and hopeful vision for survival and thriving
+
+what if instead of amassing money we strived to amass reputation in the most rigorous system for its attainment?
+
+We need to sort those who stand out in helping others stand out and raising the bar for everyone else - this is credit assignment
+
+If we are the [symbolic species](https://en.wikipedia.org/wiki/The_Symbolic_Species) as Terrence Deacon would say, how come we've not leveraged the Internet properly in order to deduplicate all symbols and link everything properly in a giant global brain?
+
+The closest one can get to immortality is to fight for life’s survival
+
+How do we simultaneously make all knowledge accessible to anyone while incentivising even more efforts and sorting them even better?
+
+What if we could determine which are the right virtues and how most virtuously to signal them?
+
+
+
+
+
 
 > "Plurality-inspired mechanism design: there is a set of principled mathematical techniques by which you can design social, political and economic mechanisms that treat not just individuals, but also connections between individuals as a first-class object. Doing this can create newer forms of markets and democracy that solve common problems in markets and democracy today, particularly around bridging tribal divides and polarization." - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/08/21/plurality.html#:~:text=Plurality%2Dinspired%20mechanism,divides%20and%20polarization.)
 

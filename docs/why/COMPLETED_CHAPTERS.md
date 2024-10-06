@@ -500,6 +500,19 @@ https://www.sloww.co/tenets-integral-theory/
 > "Hierarchies evolve from the lowest level up—from the pieces to the whole, from cell to organ to organism, from individual to team, from actual production to management of production. Early farmers decided to come together and form cities for self-protection and for making trade more efficient. Life started with single-cell bacteria, not with elephants. The original purpose of a hierarchy is always to help its originating subsystems do their jobs better. This is something, unfortunately, that both the higher and the lower levels of a greatly articulated hierarchy easily can forget. Therefore, many systems are not meeting our goals because of malfunctioning hierarchies." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=Hierarchies%20evolve%20from,of%20malfunctioning%20hierarchies)
 
 
+
+TODO: paper:
+Evolution of Complex Hierarchical Societies, by Peter Turchin 
+https://peterturchin.com/publications/evolution-of-complex-hierarchical-societies/
+
+> "Hierarchy is a ubiquitous organizing principle in biology: it helps to explain why evolution produced complex, evolvable mechanisms. With a degree of centralization in connection-making, complex biological systems need fewer connections and things [run more efficiently](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004829). Similarly, hierarchy helps to explain why society produced complex organizations. The only way large human groups can arrive at common course of action is by hierarchically structuring interpersonal connections. In history, as [Peter Turchin explains](https://peterturchin.com/publications/evolution-of-complex-hierarchical-societies/), “societies that were larger and better organized outcompeted smaller and more shambolic ones. Hierarchical organizations was one of the cultural traits that was heavily favored by the new selection regime in the Holocene [which started roughly 12,000 years ago with the end of the ice age] … It’s a pipe dream to imagine that a large-scale society (e.g., a million or more – a small nation by today’s standards!) can be organized in a non-hierarchical, horizontal way. Hierarchy (in a neutral sense) is the only way to organize large-scale societies.” Just as it’s impossible to efficiently connect large numbers of engineered components without hierarchy, it’s similarly impossible to connect large numbers of people in an efficient way without a hierarchically structured social organization. In short, efficiency is a clear benefit of hierarchy." - [The Case for Hierarchy, Palladium Magazine](https://www.palladiummag.com/2020/03/16/the-case-for-hierarchy/#:~:text=hierarchy%20is%20a,benefit%20of%20hierarchy.)
+
+> "" - [The Case for Hierarchy, Palladium Magazine]()
+
+> "" - [The Case for Hierarchy, Palladium Magazine]()
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Collective intelligence & the wisdom of crowds
 ██████████████████████████████████████████████████████████████████
@@ -533,6 +546,16 @@ https://www.sloww.co/tenets-integral-theory/
 ██████████████████████████████████████████████████████████████████
 # SECTION: Gaming
 ██████████████████████████████████████████████████████████████████
+
+
+> "Somebody in the internet used a phrase that really stuck with me i think it goes by illimitable man or something one of these uh inspiration accounts but he said that um he said that video games are shadow careers and when i read that at that moment i knew video games were leaving my life because it was absolutely spot on right i was building a career except i was building a career in some fake lands a fake game where the rules would change or some 12 year old would come along and crush me the next week and i saw it for what it was it was a shadow career because i wasn't putting that same effort into my main career because my main career didn't really line up with what i wanted to do and that's why i knew it needs to make a change so don't waste your life in these shadow careers even even if you find yourself craving holidays that means that you're not enjoying every day that you're sort of like robbing yourself of your of what should be a pretty good day." - [Naval](https://youtu.be/JdUVIwuNy_c?t=1548)
+
+^^ SHADOW CAREER
+
+> "Games are a shadow career. It's like a career that you're building that's fake. You know it's a shadow, it's just going to disappear." - [Naval](https://x.com/Mahesh_Lambe/status/1842247156918604240)
+
+> "Sometimes, when we’re terrified of embracing our true calling, we’ll pursue a shadow calling instead. The shadow career is a metaphor for our real career. Its shape is similar, its contours feel tantalizingly the same. But a shadow career entails no real risk. If we fail at a shadow career, the consequences are meaningless to us. Are you pursuing a shadow career?" - [Steven Pressfield](https://stevenpressfield.com/2012/06/more-from-turning-pro/#:~:text=Sometimes%2C%20when%20we%E2%80%99re,a%20shadow%20career%3F)
+
 
 What if people were willing to pay for better UIs to participate in the global brain and get ahead just like they pay for video games? What if we removed all unnecessary barriers to entry to helping humanity?
 

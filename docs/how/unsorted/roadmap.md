@@ -80,6 +80,12 @@ https://twitter.com/winnielaux_/status/1754334062037074039
 after the right abstractions are picked, new use cases will be rapidly tested by different ways to compose the building blocks
 
 
+This is the next logical step for apple - to adopt the ultimate identity network of the world for AppleID
+The ultimate appleId that spans even across every aspect of the global brain
+Here is what facebook should do
+Here is what insta
+
+
 A public list of who has signed up for this system
 
 summoning the GB as a ritual - until self-reference is achieved ala Hofstadter's strange loop thingie
