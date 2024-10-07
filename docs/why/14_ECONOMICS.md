@@ -62,6 +62,41 @@ https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
 
 
+"Why isn't economics an evolutionary science?" by Thorstein Veblen 1 century ago
+"why not also a thermodynamic, information-theoretic science? A system of free-energy minimization within constraints"
+
+the genius of markets is not necessarily in its efficiency and allocation, but in creating an evolutionary competition for solving human problems
+
+business is about solving human problems, the role of the state is to create the conditions for large-scale cooperation to allow that process to happen. That means:
+- promoting inclusion - no large-scale cooperation if excluding large groups of people
+- need fair social contract
+- institutions that build trust: rule of law, money, regulation
+- also need the state to solve collective action problems to grease the wheels of cooperation
+
+In a democratic system people have a right - even a duty - to define the fitness function that the market system is evolving towards.
+Social equity, climate change & others are valid social concerns that should be reflected in that market fitness function.
+
+We should worry more about creating a healthy ecology that promotes real tangible improvements in people's lives and less worrying about theoretical trade-offs and efficiency...?
+Instead of thinking of markets and states as competitors - think of them as a joint system.
+This ecology has lots of different forms of organization, not just markets and states, but a broader zoo of forms.
+
+Dominant ideology: pursuing self-interest is good.
+One of the most dangerous ideas in economics: Methodological individualism
+https://en.wikipedia.org/wiki/Methodological_individualism
+This led to Margaret Thatcher's quote "there's no such thing as society" which leads to one no longer believing that society can act together to handle climate change or other technological challenges.
+At the root of this is a confusion between collectivism, which the neoliberals critiqued, quite rightly, versus solving collective-action problems.
+One of the big successes of the Enlightenment was the emphasis on individual freedom, individual rights & so on, a huge jump for mankind. But then, taking that to an extreme, we lose sight of our ability to work together to solve collective-action problems.
+We have to rediscover ways to create an ideology and system of thought that allows us to tackle existential problems together.
+
+^^ many of the above points have been taken from santa fe economics simposium - have only a screenshot from my phone of the text on my kindle - can't properly attribute now to who said it
+
+M. O. Jackson on our ignorance of what the state does... Part of the problem is ignorance. It's easy to be ignorant of all the things the state does. What if we had an accurate and real-time representation of the budget that we could inspect and try to allocate differently and reason through that - on a national/state/local level and so forth? People need an impression how much goes into each part like roads, K-12 education, etc. You need to see the numbers in order to also see the tradeoffs. People are ignorant of the scope and size of the state. Removing this ignorance is a good step towards more trust & understanding.
+
+E. D. Beinhocker: One big thing that Hayek got right was, in complex social systems predicting the future is a dangerous business. Popper's answer to that challenge was what he called "piecemeal social engineering", so he was very much against Utopianism and kind of big grand plans. But he saw that in the historical records... that you make reforms one step at a time. You sort of march your way forward and you try stuff and not everything works but some stuff does work and you do more of what works and less of what doesn't. That's an evolutionary process. And evolution can grope its way toward whatever goals exist in a complex system. One could argue the three great inventions of the Enlightenment - taking into account the blind spots - were three evolutionary systems: science, which is an evolutionary epistemological system; democracy, which is a kind of evolutionary political system; and markets, which are an evolutionary economic system. But... in recent decades we've had an ideology that has said the only fitness function that matters is the maximization of self-interest and a narrow definition of profits and so on. So, we've had a system that has been adapting to that and giving us the results that we have today. One of the key ways to handle these big challenges is to reinvigorate these evolutionary processes in our society and get them pointed at solving our biggest societal challenges.
+
+
+
+
 
 > "When people talk about a “market economy”, what exactly does that mean? You might assume it means a society where all or most economic decisions are made through markets. But this does not describe our own economy, or anything else that gets called a “market economy”. Most economic decisions are made inside particular organizations, which make their internal decisions according to hierarchical structures and individual judgment, taking markets into account as one factor among many. If two workers both want to avoid a Monday morning shift, or two department heads are arguing over hiring policy, or two engineers are debating which design to adopt, no one expects the people involved to start setting prices and bidding against each other like they would in a market. And yet markets are nevertheless crucial to our economic organization, in ways that are notably different from non-“market economies”. How, then, does the market fit in?
 >

@@ -4912,6 +4912,9 @@ What if we could determine which are the right virtues and how most virtuously t
 
 
 
+> "Government is simply the name we give to the things we choose to do together." - [Barney Frank](https://reason.com/2013/11/11/the-intolerant-state/#:~:text=%22Government%20is%20simply%20the%20name%20we%20give%20to%20the%20things%20we%20choose%20to%20do%20together.%22)
+
+
 
 > "Perhaps it's impossible to wear an identity without becoming what you pretend to be." - [Orson Scott Card, Ender's Game](https://www.goodreads.com/quotes/17335-perhaps-it-s-impossible-to-wear-an-identity-without-becoming-what)
 
