@@ -4893,6 +4893,45 @@ What if we could determine which are the right virtues and how most virtuously t
 
 
 
+Instead of blindly stimulating demand we must consciously program demand - we must program culture itself
+
+Through culture, we can reduce the need for law enforcement and contract law
+
+We must get our collective justification to cohere - to allow it to inspect itself recursively - to make it conscious
+
+Atman = Brahman - the second Schrodinger equation
+
+We must calculate the contribution of everything
+What if instead of the current way of amassing wealth, we distributed it according to their contribution in terms of importance?
+We must reinvent the financier
+
+Literally, every single one of us will most probably die someday - mostly in the next 100 years. We are already in the history book whether we’re aware of that or not. Every single moment the choice of what to do next could potentially be an act toward utopia
+But one day humanity will reach immortality for the individual
+
+We can automate judgment through AI compression of objective rules
+
+Fairness through AI
+
+A memetic collective computer - we must collectively compute the answer to the universe - our purpose
+
+We can redraw the borders - we can express how we think the borders ahould be and the arrangements for not defecting
+
+Multi-scale status communism
+
+Political science should be all about how to incentivize and how to tax within a jurisdiction
+
+We must crowdsource values and taxation laws - we need to employ our own tax man - one that’s fully aligned
+
+How do we best nurture individuals?
+
+How do we define our TV culture in which people’s perspectives of the world are created?
+
+We should crowdsource what we should individually want. We must incentivize specific kinds of conspicuous consumption - we must program resource use
+
+We must determine how inheritance works - an opt-in moral and prestige and efficiency
+
+What if we participated in the conscious collective crowdsourcing of TV, myths, values, and everything else?
+
 
 
 
