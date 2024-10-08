@@ -198,6 +198,12 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "It is my belief that we need a new transnational sustaining 'myth' that can impart value and respect. It is my further belief that we are coming to see our universe and life as creative, without a directing agency. Meaning emerges with life. If this view becomes widespread, it has the promise to become the sustaining myth we need to sustain in turn an emerging global civilization." - [Stuart Kauffman](https://www.azquotes.com/quote/792122)
 
+
+maybe embed this?
+Is Our World Broken? Kurzgesagt – In a Nutshell
+https://www.youtube.com/watch?v=c1nYtX-NUsc
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Terror Management Theory
 ██████████████████████████████████████████████████████████████████
