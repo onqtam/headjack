@@ -326,7 +326,6 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 Why America is Not An Open Society - Samo Burja
 https://www.youtube.com/watch?v=AP9p38-C2j4
 
-> "With 35-45% of U.S. GDP spent by the government, and perhaps another 10% spent by nonprofits, it is possible that a majority of U.S. GDP is spent outside of the market, without regard to market signals or forces. It is perhaps time to rethink what we call this economic system." - [Bismarck Analysis](https://x.com/bismarckanlys/status/1840781279198929182)
 
 
 
