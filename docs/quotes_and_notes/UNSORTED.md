@@ -2645,6 +2645,8 @@ Problems are bad. How do we have less problems? How do we surface truth? How do 
 
 
 
+what if delegating your trust/opinion to someone entitles you to a slice of their reputational earnings?
+
 
 
 The larger the trust network - the smaller per capita necessary for defence - trending towards 0

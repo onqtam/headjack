@@ -805,6 +805,8 @@ What if web3 is not "the Internet of value" as in transactional value, but the i
 "this is healthy"
 https://www.google.com/search?q=this+is+healthy
 
+everyone should watch JRE #2210 with Calley Means & Casey Means - just ignore the political stuff regarding Trump & RFK - everything else should be heard by everyone
+
 > "The American Medical Association recommends rice to diabetics." - [Michael Guimarin](https://youtu.be/bGdWgdRA6G8?t=3304)
 
 > "Ultimately, health care fails the most basic test. It's not organized around the needs of the patient." - [Michael Porter](https://www.azquotes.com/quote/1225877)
