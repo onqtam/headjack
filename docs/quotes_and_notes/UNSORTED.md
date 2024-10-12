@@ -2647,6 +2647,8 @@ Problems are bad. How do we have less problems? How do we surface truth? How do 
 
 what if delegating your trust/opinion to someone entitles you to a slice of their reputational earnings?
 
+imagine a concept map/graph where you can track your progress with comprehending it - there could be competing videos/texts that explain different parts of it and to different degrees, and depending on how much of the videos you've watched your progress of concept comprehension could be updated automatically. You could get notified when new nodes in the graph emerged or if there were other changes, or if new explanatory content was made available.
+
 
 
 The larger the trust network - the smaller per capita necessary for defence - trending towards 0
@@ -4181,7 +4183,7 @@ Naval quote go big because we all go home - to the stars - from stardust to star
 https://x.com/naval/status/1714119368358207872
 The biggest big is our system
 https://x.com/KirilovVik/status/1714212060345626836
-The biggest big is changing our system such that the stardust that we are ends up home amongst the stars
+The biggest big is changing our system such that the stardust that we are ends up once again among the stars
 
 We need a system that could answer why we chose X over Y
 
@@ -4953,6 +4955,10 @@ What if we participated in the conscious collective crowdsourcing of TV, myths, 
 
 
 > "Government is simply the name we give to the things we choose to do together." - [Barney Frank](https://reason.com/2013/11/11/the-intolerant-state/#:~:text=%22Government%20is%20simply%20the%20name%20we%20give%20to%20the%20things%20we%20choose%20to%20do%20together.%22)
+
+
+
+> "Reality must take precedence over public relations, for nature cannot be fooled." - [Richard Feynman](https://www.palladiummag.com/2020/05/28/how-social-engineering-drives-technology/#:~:text=reality%20must%20take%20precedence%20over%20public%20relations%2C%20for%20nature%20cannot%20be%20fooled.)
 
 
 
