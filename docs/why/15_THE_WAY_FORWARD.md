@@ -738,6 +738,11 @@ Logically derived for forming a coherent next level system
 
 Alexander Bard is right that from a certain perspective the separation of church and state has been a mistake (just one perspective !!!)
 
+- integrity
+- sharing
+ends in themselves that end up promoting other good stuff we want
+these values become self-generating and autopoetic
+
 What if web3 is not "the Internet of value" as in transactional value, but the internet of values?
 
 > "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)

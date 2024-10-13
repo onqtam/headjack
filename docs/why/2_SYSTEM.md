@@ -288,6 +288,9 @@ https://en.wikipedia.org/wiki/Rational_ignorance
 >
 > The Elite Party runs the system and it basically works. The elite stay elite. Income may be taxed, but wealth compounds. The most belligerent and implacable of the masses are sent to fight in mercifully distant wars. Crime happens in other people’s neighborhoods. The prisons are full and everyone is being watched. The pie expands, slowly and un-evenly, and all is well." - [American Spring, by Naval](https://medium.com/the-mission/american-spring-d6a8320bf712#:~:text=A%20one%20party,all%20is%20well.)
 
+TODO INTERNET: embed this YT video - it's about money in politics and how we don't pick our options for who to vote for, & other dysfunctions
+OR maybe just take the best points from the video and don't link to it
+Our democracy no longer represents the people. Here's how we fix it _ Larry Lessig _ TEDxMidAtlantic
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Voting
@@ -835,6 +838,9 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 ██████████████████████████████████████████████████████████████████
 # SECTION: Environment
 ██████████████████████████████████████████████████████████████████
+
+Climate Change Is Inevitable - 10 page summary of most of what's going to happen
+https://www.palladiummag.com/2021/03/06/climate-change-is-inevitable/
 
 > "Humans and their livestock represent 96% of all mammals on earth in terms of biomass, whereas all wild mammals represent only 4%." - [Wikipedia article on Biomass](https://en.wikipedia.org/wiki/Biomass_(ecology)#:~:text=Humans%20and%20their%20livestock%20represent%2096%25%20of%20all%20mammals%20on%20earth%20in%20terms%20of%20biomass%2C%20whereas%20all%20wild%20mammals%20represent%20only%204%25.)
 ^^ just think a bit about that. Think about overfishing. Think about all the ways it could go wrong. And if you can't think about that - you should be able to explore what others have thought about it.
