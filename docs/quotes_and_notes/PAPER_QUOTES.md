@@ -1439,6 +1439,68 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "What if the only way to build the future is to lead with a positive vision of the good? Of course, we need a monumental vision of the future that overawes us and reaches for the heavens, in order to shake us from the sloth and apathy that has consumed us today. But all monuments worth building are monuments to something. We must be drawn out of ourselves for the sake of being drawn into something beyond ourselves." - [It’s Time to Build for Good, Palladium Magazine](https://www.palladiummag.com/2020/04/30/its-time-to-build-for-good/#:~:text=What%20if%20the,something%20beyond%20ourselves.)
 
+> "First, clarity of purpose and a leadership capable of defining that purpose are fundamental to getting large projects off the ground. From the War on Poverty to the War on Terror, American leadership has often made its objectives nebulous, making momentum harder to sustain. Second, the right people with the right motivation can overcome insurmountable obstacles. The modern managerial and expert class often lacks the versatility of skills essential to this project, due to overspecialization. Third, the outcome of an ambitious project cannot and ought not be reduced to the objective itself. Great projects such as decarbonization and Mars colonization should not have to be justified only on account of their direct benefits. To do so would harm their ability to succeed. Through all of these lessons, we see grandness as integral to a project’s success." - [The Political Machine Behind the Apollo Program, Palladium Magazine](https://www.palladiummag.com/2020/07/15/the-political-machine-behind-the-apollo-program/)
+
+> "The boundary between state and society is also imaginary. Let’s describe and think of society and the state as they actually are: a teeming forest of growing and decaying institutions and conspiracies in various states of coordination with each other, the commanding heights of which are integrated into a semi-institutionalized, semi-coherent central power, the formal parts of which we call the state. It’s a system of information flows, power empires, social technologies, social network hubs, and inert human resources. A complex sociopolitical narrative of legitimacy supporting and mapping a complex sociopolitical reality that it only partially resembles. A complex adaptive system.
+>
+> Political order is the structural integrity of this pyramid. It means ensuring that all subordinate institutions stay subordinate, the ruling institutions stay ruling, the loyal are promoted, rebels stay suppressed, the parts work together instead of fighting, and the people support the regime. Without political order, you get instability, as rival power centers challenge the regime, and fragmentation creates broken parts while a weakened center fails to coordinate its empire. Political order cannot be taken for granted. Nor is it an anachronism. It is deeply central to any society, and needs to be continuously renewed.
+>
+> Active construction of political order, by building, deconstructing, and herding subordinate power centers, is inseparable from the actual capabilities of the state. The central power of a modern society has immense ability to reshape and control nearly every aspect of life, within the constraints of knowing how to do so, getting the institutions to cooperate, and building necessary machinery. Almost nothing can be done by pure fiat, but almost anything can be done. The game is much more about mapping and manipulating this actual ruling structure towards a generally defined end than it is about twiddling technocratic policy knobs.
+>
+> To update our question, then, what does it even mean to be in charge of such a thing? How shall its power be organized behind our own conception of the good?
+>
+> Being in charge means being in a position of strong influence over the central powerful institutions in the empire in question. It means having a deep and fluent understanding of power, especially our own base of power. Being in charge is a much more active position. At the same time, it means identifying ourselves with the center of an institutional machine larger than ourselves, becoming an instrument of its imagination, and thinking up ideas of what to do with its power, from its own perspective. Being in charge becomes a mixture of actively maneuvering to build and possess the institution, and playing a role in letting it possess you.
+>
+> With this more active set of concerns, our perspective shifts again. We come to focus on the institutions themselves, on building and repairing a base of power, on maintaining information flows, sniffing out and resolving discoordination, and on finding new ways to extend the power to accomplish our vision, including by empowering others. We aggressively centralize power here, and apply a restrained decentralization there.
+>
+> This is very different from the initial focus on twiddling policy knobs in pursuit of a naively imagined objective notion of responsible government. This is also a much firmer set of realities on which to ground the idea of good policy: good policy must actively maintain and develop political order in the complex system of society.
+>
+> Again, this is another step towards a healthier way of seeing things. We’re engaging more with actual reality, and building a much more organic, responsive, and politically inclusive sort of regime. And we’re also starting to ground the perspective of the state in something more solid. But we’re not done yet." - [Power Exists꞉ How Shall We Use It?, Palladium Magazine](https://www.palladiummag.com/2024/04/09/power-exists-how-shall-we-use-it/)
+
+> "The decadence of late dynasties and new money is not reflective of wisdom, but of ignorance. They have forgotten, or not yet learned, that private luxury and corruption is just far lamer and less interesting than effective pursuit of the higher ends. Or they just don’t know how to reach for anything more substantial. One of the most important jobs of the philosopher in society is to remind us—and create a narrative for us—of the intrinsic superiority of the higher pursuits." - [Power Exists꞉ How Shall We Use It?, Palladium Magazine](https://www.palladiummag.com/2024/04/09/power-exists-how-shall-we-use-it/)
+
+> "The end result of this transition will be a new kind of meta-organism above both biological life and machines, encompassing and unifying what we separately call ecosystems, civilizations, peoples, cultures, states, and industrial stacks. These garden empires will increasingly blur such distinctions as peoples become inseparable from the symbiotic industrial and biological ecosystems they maintain as their bases of power. As the power and impact of civilization increases, nearly all aspects of what is now the environment will be internalized as its internal organic processes.
+>
+> For example, as with our photosynthetic predecessors, scaling up our energy economy with fossil fuels has destroyed our comfortable post-Ice Age climate equilibrium. Unlike previously, life may now have the power and intelligence to simply solve such problems by directly geo-engineering the stable climate that we prefer. Thus the climate itself would become internal to the teleological fabric of life. The atmosphere would no longer be part of the environment, but yet another organic fluid-like cellular cytoplasm or blood plasma. The climate will not be the only process subsumed in this manner. 
+>
+> Unlike replicator evolution and animal intelligence, cultural intelligence has no immediate technical scaling limit. When it is freed from technical constraint, the fundamental tendency of complex order is to grow and integrate. Trade globalizes. Power centralizes. Intelligence organizes. So we might imagine that the outcome of this transition will be a unified whole Earth as a single planetary meta-organism: the Gaia hypothesis made real. This is Pierre Teilhard de Chardin’s noosphere, the global consciousness that grows out of and unifies the biosphere. 
+>
+> Influenced by such ideas, our twentieth-century predecessors imagined that planetary environmental problems meant planetary governance solutions. Excited at the prospect of being able to fulfill the enlightenment ideal of a rationalistic universal polity, they used global environmental issues and arguments about globalization to justify their political projects. 
+>
+> But despite the lack of technical barriers to this unification, political unity only happens at the expense of the ambitions of its constituents. It is only ever justified by the presence of some even more pressing external need. In the absence of an outside threat, the tendency for all internal suborders is to push apart and cannibalize the political commons for their particular gain. This has been the eventual fate of all attempted universal empires in history and myth all the way back to the Tower of Babel. 
+>
+> So despite the centralizing tendency, the most natural outcome for this new order of life is not full unification but a diverse patchwork or multipolar balance of powers that only partially cooperate, and mostly compete within the shared noosphere. This is fortunate in a way, because all individual organisms are mortal. A diversity of powers is necessary for life to survive the inevitable rise and fall of particular powers. Full unification is not only impossible; it would be deeply dangerous to the future of life." - [The Rise of the Garden Empires, Palladium Magazine](https://www.palladiummag.com/2022/09/08/the-rise-of-the-garden-empires/)
+
+> "Our big-picture environmental situation is not just a small issue of externalities or competing value systems. It is not just about rising temperatures or marginal health years. It’s not even about merely human ideals of beauty and justice. It’s much bigger than that. We are undergoing a major transition in the nature of life itself, rivaling the original event of the creation of life in its centrality to cosmic history. As in previous transitions, the holistic empires of this new world order will be ruled by highly intelligent, comparatively god-like beings distinguished above all by their practical wisdom, strategic foresight, and political will." - [The Rise of the Garden Empires, Palladium Magazine](https://www.palladiummag.com/2022/09/08/the-rise-of-the-garden-empires/)
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
 > "" - [, Palladium Magazine]()
 
 > "" - [, Palladium Magazine]()
