@@ -352,6 +352,20 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 TODO INTERNET: fix YT links !!!
 
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
+> "" - [Daniel Schmachtenberger]()
+
 
 > "" - []()
 
