@@ -1535,16 +1535,6 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > Another important role that elites play is in the regulation of status and prestige within society. Not all societies in history have been motivated primarily by the same concerns. Some could be distinguished by their focus on economic concerns, others on scientific, martial, religious, or humanitarian ones. But all of them had a system of awarding, regulating, and seizing status and prestige and, in fact, that system is the engine that drives a society to concern itself with something or other beyond its mere survival." - [Reform Is Driven by Rising Elites, Palladium Magazine](https://www.palladiummag.com/2020/08/19/reform-is-driven-by-rising-elites/)
 
-> "In my examples, the individuals were all doing from a young age as opposed to merely attending school. And while they may not have wanted to work, the work was nonetheless something that they, their families, and society felt was useful, purposeful, and appreciated. In a sense, they had useful childhoods. Do children today have useful childhoods?" - [School Is Not Enough, Palladium Magazine](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
-
-> "" - [School Is Not Enough, Palladium Magazine](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
-
-> "" - [School Is Not Enough, Palladium Magazine](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
-
-> "" - [School Is Not Enough, Palladium Magazine](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
-
-> "" - [School Is Not Enough, Palladium Magazine](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
-
 > "" - [, Palladium Magazine]()
 
 > "" - [, Palladium Magazine]()
