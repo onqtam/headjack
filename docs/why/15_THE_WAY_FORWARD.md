@@ -466,6 +466,11 @@ Sublimation of the individual self into a higher entity
 
 We are nothing without everyone else
 
+Family ~ familiarity
+We have to be familiar with someone to consider them family - enlarging the boundary of the self
+Relatedness
+Transparency, trust
+
 > "Nothing is more essential, than that permanent, inveterate antipathies against particular Nations, and passionate attachments for others, should be excluded; and that, in place of them, just and amicable feelings towards all should be cultivated." - [George Washington](https://www.goodreads.com/quotes/693672-nothing-is-more-essential-than-that-permanent-inveterate-antipathies-against)
 
 > "With all my heart I believe that the world’s present system of sovereign nations can only lead to barbarism, war and inhumanity, and that only world law can assure progress towards a civilized peaceful community." - [Albert Einstein](https://quotefancy.com/quote/764188/Albert-Einstein-With-all-my-heart-I-believe-that-the-world-s-present-system-of-sovereign)

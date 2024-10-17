@@ -4953,6 +4953,13 @@ What if we participated in the conscious collective crowdsourcing of TV, myths, 
 
 
 
+> "... the over-connected topology leading to what Kauffman coined a Complexity Catastrophe in his work on adaptive landscapes. Beyond a given threshold, the connectivity becomes more disruptive than catalytic to the playing out of adaptive potentials. Likely the reason evolution selects for, not against, scale-specific boundaries / membranes / flow regulating mechanisms that enable complex co-operation and the accretion of complex adaptive structure." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1845546271215616117)
+
+
+> "The purpose of the creation of God is the minimization of free energy." - [Joscha Bach](https://x.com/Plinz/status/1845687311637647842)
+
+
+
 
 > "Government is simply the name we give to the things we choose to do together." - [Barney Frank](https://reason.com/2013/11/11/the-intolerant-state/#:~:text=%22Government%20is%20simply%20the%20name%20we%20give%20to%20the%20things%20we%20choose%20to%20do%20together.%22)
 
@@ -5572,6 +5579,23 @@ Higher/deeper alignment with others is a competitive advantage
 Each and every one of us is a member of the keystone species - the guardians of life itself
 
 
+A better social contract
+
+Our social contract is a form of religion - how do we add evolutionary mechanisms to it towards goals we define?
+
+We can prove with zk that someone has truly paid their taxes
+
+What if we implemented competence hierarchies about every aspect of aligning humanity?
+
+We must become the game designers
+
+Behaviour is a pattern of many patterns
+
+How do we download patterns in people’s heads and make that democratic?
+
+Every time you buy a big mac you celebrate and fund death and parasitism
+
+What if instead of voting for people we voted on mechanisms and principles that would determine which people and institutions are in charge - being subjective about how to be objective
 
 We should all care about Epstein’s list - we need to have a mapping for probable/possible compromisation because of being extorted - the destruction of the image has found itself a place in the market as a service
 

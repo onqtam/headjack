@@ -423,6 +423,10 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 > "The representatives of the Convention must understand that a great responsibility is the inseparable result of a great power." - ["Plan of Work, Surveillance, and Correspondence", 8 May 1793, during the French Revolution](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility#:~:text=%5BThe%20representatives%20of%20the%20Convention%5D%20must%20understand%20that%20a%20great%20responsibility%20is%20the%20inseparable%20result%20of%20a%20great%20power)
 <!-- https://quoteinvestigator.com/2015/07/23/great-power/ -->
 
+> "Americans are the most gullible people in the world. They’ll look at a government program which has spent a hundred billion dollars while building literally nothing, then be like “maybe the contractors are bad at their jobs.”" - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1813678215740944745)
+
+https://x.com/paultoo/status/1845957636086468805
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other dysfunction
 ██████████████████████████████████████████████████████████████████
@@ -571,6 +575,8 @@ We’ve put the self on a pedestal
 > "All over the world, mobile hunter-gatherers use social control guided by moral rules to see to it that when a successful hunter kills a large mammal, his ego is held in check." - [Christopher Boehm](https://www.goodreads.com/quotes/11025365-all-over-the-world-mobile-hunter-gatherers-use-social-control-guided)
 
 > "A person starts to live when he can live outside himself." - [Albert Einstein](https://www.goodreads.com/quotes/39346-a-person-starts-to-live-when-he-can-live-outside)
+
+> "Cultures built around responsibilities and duties can scale across generations. Those predicated on individual freedoms and the reification of arbitrary preferences atomize and degenerate. America’s mythos relied on the inertia of the former while framing itself as primarily the latter. But with each passing day, more notice this dirty little secret, and increasingly realize that it implies—absent a rejuvenation of responsibility and duty at the heart of American culture—the end of this nation. The Story of American Liberty is powerful, beautiful even, but means nothing without the less glamorous foundations of a Responsible and Dutiful People." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1844511461282079050)
 
 > "Rather than an “individual”, we might use the term “dividual” to highlight the primacy of relationship and interconnectedness." - [Transforming cultures and selves, by Octopusyarn](https://octopusyarn.substack.com/p/transforming-cultures-and-selves)
 
