@@ -13,6 +13,8 @@ alternative titles:
 
 Symbiotic intelligence = collective + artificial
 
+<img src="/img/meme_wojak_brain.jpg"/>
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Biases & Evolutionary Psychology
 ██████████████████████████████████████████████████████████████████
