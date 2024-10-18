@@ -288,9 +288,10 @@ https://en.wikipedia.org/wiki/Rational_ignorance
 >
 > The Elite Party runs the system and it basically works. The elite stay elite. Income may be taxed, but wealth compounds. The most belligerent and implacable of the masses are sent to fight in mercifully distant wars. Crime happens in other people’s neighborhoods. The prisons are full and everyone is being watched. The pie expands, slowly and un-evenly, and all is well." - [American Spring, by Naval](https://medium.com/the-mission/american-spring-d6a8320bf712#:~:text=A%20one%20party,all%20is%20well.)
 
-TODO INTERNET: embed this YT video - it's about money in politics and how we don't pick our options for who to vote for, & other dysfunctions
+embed this YT video - it's about money in politics and how we don't pick our options for who to vote for, & other dysfunctions
 OR maybe just take the best points from the video and don't link to it
-Our democracy no longer represents the people. Here's how we fix it _ Larry Lessig _ TEDxMidAtlantic
+Our democracy no longer represents the people. Here's how we fix it - Larry Lessig
+https://www.youtube.com/watch?v=PJy8vTu66tE
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Voting

@@ -1610,6 +1610,47 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 
 
+
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+
+
+
+
+
+
+
+
+
 > "Successful religions have always tended to salvation at the social level, encouraging behaviors that bring order. As we’ve also seen, pre-Abrahamic religions of the Middle East were especially explicit about this goal. Civilization was constantly threatened by the forces of chaos, and obeying the gods, or at least the good gods, was the way to keep chaos at bay. 
 >
 > Today the social system, an incipiently global social system, is again threatened by chaos. But now religion seems to be the problem, not the solution. Tensions among Jews, Christians, and Muslims—or at least among some Jews, Christians, and Muslims —imperil the world’s order. And the tensions are heightened by the scriptures of these religions—or at least by the scriptures as they’re being interpreted by the people who are heightening the tensions. Three great religions of salvation have helped put the world in need of salvation." - [The Evolution of God, by Robert Wright](https://www.goodreads.com/book/show/6340873-the-evolution-of-god)
