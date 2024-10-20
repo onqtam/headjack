@@ -1535,7 +1535,15 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > Another important role that elites play is in the regulation of status and prestige within society. Not all societies in history have been motivated primarily by the same concerns. Some could be distinguished by their focus on economic concerns, others on scientific, martial, religious, or humanitarian ones. But all of them had a system of awarding, regulating, and seizing status and prestige and, in fact, that system is the engine that drives a society to concern itself with something or other beyond its mere survival." - [Reform Is Driven by Rising Elites, Palladium Magazine](https://www.palladiummag.com/2020/08/19/reform-is-driven-by-rising-elites/)
 
-> "" - [, Palladium Magazine]()
+> "Implicit in the ESG framework is the idea that investors can discipline firms and whole economies to be more aligned with social and political goals. But the finance industry does not possess the ability to discipline firms in this way. In practice, ESG funds do not move financial capital towards different goals: not only do these funds underperform on the market, but the amount of capital they are able to raise already appears to be slowing after the initial period of excitement. Theoretically, the primary mechanism to discipline business decisions would be the voting power of shareholders, especially in replacing board members and executives. But shareholders rarely exercise such disciplining power: in the most recent voting data, Blackrock supported 90 percent of directors standing for election, and Vanguard supported 91 percent. In other words, institutional investors tend to go with the flow of company leadership decisions. Even in high-profile exceptions, such as the time Exxon lost three of its board members to shareholder activism in 2021 due to environmental concerns, the actual impact is muted. Despite long-term pledges to get to net zero greenhouse gas emissions by 2050, Exxon plans to continue expanding oil production for the next decade and has been rewarded by stock price growth that’s beaten the market and the oil industry as a whole since 2021. Despite this ineffectiveness in reaching its stated goals, the world’s largest investors continue to institutionalize ESG in both business practice and ideological marketing. Its rise does not mark a departure from the finance industry’s interest in the maximization of value extraction, nor does it represent a serious attempt to deal with any of society’s supposed ills. ESG should instead be understood as a pure and simple luxury commodity for those who need ownership of financial assets to maintain their position in society, with a new language of justification for the same decisions. Central to it is the conspicuous consumption of the bourgeoisie—owners, investors, and shareholders—as well as high-earning professionals. This means that ESG is neither an improved concept of fiduciary duty nor a veiled attempt to impose a planned economy. Rather, it is yet another symptom of an ossified society that is primarily centered around conspicuous consumption. Capitalism may still be dominant, but the individual capitalists have become averse to direct action. In reality, desirable social outcomes are achieved by taking on risks to build organizations and mobilize people and resources toward them. ESG is the perfect luxury financial good for those who fear taking on the challenge of acting on the world directly." - [ESG Is the Opium of the Investors, Palladium Magazine](https://www.palladiummag.com/2023/05/05/esg-is-the-opium-of-the-investors/)
+
+> "" - [ESG Is the Opium of the Investors, Palladium Magazine](https://www.palladiummag.com/2023/05/05/esg-is-the-opium-of-the-investors/)
+
+> "" - [ESG Is the Opium of the Investors, Palladium Magazine](https://www.palladiummag.com/2023/05/05/esg-is-the-opium-of-the-investors/)
+
+> "" - [ESG Is the Opium of the Investors, Palladium Magazine](https://www.palladiummag.com/2023/05/05/esg-is-the-opium-of-the-investors/)
+
+> "" - [ESG Is the Opium of the Investors, Palladium Magazine](https://www.palladiummag.com/2023/05/05/esg-is-the-opium-of-the-investors/)
 
 > "" - [, Palladium Magazine]()
 
@@ -1878,7 +1886,13 @@ On Having No Head: Cognition throughout Biological Systems
 Michael Levin
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00902/full
 
+Stress sharing as cognitive glue for collective intelligences: A computational model of stress as a coordinator for morphogenesis
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=luouyakAAAAJ&sortby=pubdate&citation_for_view=luouyakAAAAJ:SgM-ki2adj0C
+https://www.sciencedirect.com/science/article/pii/S0006291X2400932X
 
+
+Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=luouyakAAAAJ&sortby=pubdate&citation_for_view=luouyakAAAAJ:PklR0melJeUC
 
 
 

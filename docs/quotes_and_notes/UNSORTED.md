@@ -5599,6 +5599,49 @@ What if instead of voting for people we voted on mechanisms and principles that 
 
 We should all care about Epstein’s list - we need to have a mapping for probable/possible compromisation because of being extorted - the destruction of the image has found itself a place in the market as a service
 
+
+
+We need to make the most entertaining shows for learning different aspects of the world
+Instead of randos living in a house or surviving on an island - they should be competently striving in a field and documenting and explaining their approaches and struggles - we should make actual transmission of knowledge entertaining
+
+Religion == “about what should I do”
+Fuck the naturalistic fallacy
+The global pvp for our collective should in a global justificatory system
+Lets determine how things should be
+“Why” gives us “should” only through the application of telos
+
+Universal basic access to a blueprint diet
+
+Life is the conscious pursuit of the minimization of the delta between the telos and our current course
+
+We need to describe the best plan for a course of action by anyone in life - we should tell ourselves what to do through the application of science
+
+We need to provide the best possible “why” for anything
+
+We need to reduce the distance between the metaverse and reality
+
+We must strike the optimal balance for what to have coherence about
+
+We need to collectively explore and learn what we are and each and everyone should strive to reduce that delta both individually and collectively
+
+We must perfect the game of life
+
+This religion is the detoxification of the western project from its disfunction and corruption
+
+Cancer is the breakdown of multicellular integration
+
+Use the NPC meme where someone is installing new mental OS and how we should do that culturally
+
+The end of history is not liberal democracy - it is god
+
+We are more justifying than rational - we are motivated reasoners
+
+Justification comes from justice
+
+All reasoning is motivated
+Motivation is energised by particular values
+
+
 > "What fraction of apparent ‘elite’ preference is downstream of blackmail?" - [Jordan Hall](https://x.com/jgreenhall/status/1836741719804514548)
 
 > "Well, he's dead, so in general you always have to be careful..." - [Bill Gates](https://www.yahoo.com/news/bill-gates-answered-questions-meetings-124750218.html#:~:text=Well%2C%20he%27s%20dead%2C%20so%20in%20general%20you%20always%20have%20to%20be%20careful%2C)
