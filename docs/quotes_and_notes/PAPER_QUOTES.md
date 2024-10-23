@@ -1575,15 +1575,7 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "For the most part, whether we believe something depends on whether and how we trust the source. Whether and how we trust the source often has more to do with our relationship to the source than the source’s relationship to the information. We don’t believe our high school physics teachers because we think they’ve run the experiments themselves; we believe them because they are positioned as authorities who can help and reward us. Our world models are built and calibrated more on the feedback of our social reward circuitry than on the feedback of our raw sensory perception." - [Everyone’s Existential Crisis, Palladium Magazine](https://www.palladiummag.com/2023/12/29/everyones-existential-crisis/)
 
-> "" - [, Palladium Magazine]()
-
-> "" - [, Palladium Magazine]()
-
-> "" - [, Palladium Magazine]()
-
-> "" - [, Palladium Magazine]()
-
-> "" - [, Palladium Magazine]()
+> "We can bypass the tragedy that it’s been more profitable for pharmaceutical companies to extend the unhealthy lifespan of a cancer patient by 3 months than to improve a non-patient’s healthspan by 3 years... If we can unlearn our moral biases, we may finally build a health system that lives up to its name—and to the age-old goal of extending health at the same pace we extend life." - [Aging Is No Blessing, Palladium Magazine](https://www.palladiummag.com/2024/02/16/aging-is-no-blessing/)
 
 > "" - [, Palladium Magazine]()
 

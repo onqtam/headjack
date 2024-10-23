@@ -390,10 +390,22 @@ Convergent Evolution_ The Co-Revolution of AI & Biology with Prof Michael Levin 
 
 
 
+> "" - [Karl Friston]()
 
-> "" - []()
+^^ from 
+Karl Friston on the FEP, cognition, life, agency, enactivism _ Thing in itself w- Ashar Khan
 
-> "" - []()
+> "" - [Karl Friston]()
+
+^^ from 
+Karl Friston on the FEP, cognition, life, agency, enactivism _ Thing in itself w- Ashar Khan
+
+> "" - [Karl Friston]()
+
+^^ from 
+Karl Friston on the FEP, cognition, life, agency, enactivism _ Thing in itself w- Ashar Khan
+
+
 
 > "" - []()
 

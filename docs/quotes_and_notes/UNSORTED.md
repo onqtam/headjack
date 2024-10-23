@@ -566,22 +566,6 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "Both bad driving and bad voting are dangerous not merely to the individual who practices them, but to innocent bystanders." - [Bryan Caplan](https://www.goodreads.com/quotes/6702747-both-bad-driving-and-bad-voting-are-dangerous-not-merely)
-
-> "Good intentions are ubiquitous in politics; what is scarce is accurate beliefs." - [Bryan Caplan](https://www.goodreads.com/quotes/8070673-good-intentions-are-ubiquitous-in-politics-what-is-scarce-is)
-
-> "Would we still have a "democracy" if you needed to pass a test of economic literacy to vote? If you needed a college degree? Both of these measures raise the economic understanding of the median voter, leading to more sensible policies. Franchise restrictions were historically used for discriminatory ends, but that hardly implies that they should never be used again for any reason. A test of voter competence is no more objectionable than a driving test." - [Bryan Caplan](https://www.goodreads.com/quotes/6702746-would-we-still-have-a-democracy-if-you-needed-to)
-
-> "If voters are systematically mistaken about what policies work, there is a striking implication: They will not be satisfied by the politicians they elect. A politician who ignores the public’s policy preferences looks like a corrupt tool of special interests. A politician who implements the public’s policy preferences looks incompetent because of the bad consequences." - [Bryan Caplan](https://www.goodreads.com/quotes/7674777-if-voters-are-systematically-mistaken-about-what-policies-work-there)
-
-> "It is irrational to be politically well-informed because the low returns from data simply do not justify their cost in time and other resources." - [Bryan Caplan](https://www.goodreads.com/quotes/8514423-it-is-irrational-to-be-politically-well-informed-because-the-low)
-
-> "Irrationality in politics is not a puzzle. It is precisely what an economic theory of irrationality predicts." - [Bryan Caplan](https://www.goodreads.com/quotes/9114546-irrationality-in-politics-is-not-a-puzzle-it-is-precisely)
-
-> "In daily life, reality gives us material incentives to restrain our irrationality. But what incentive do we have to think rationally about politics?" - [Bryan Caplan](https://www.azquotes.com/quote/679518)
-
-
-
 > "My view of the internet is that it is way overrated in what it’s done to date but considerably underrated in what it will do." - [Tyler Cowen](https://www.azquotes.com/quote/790439)
 
 
@@ -980,7 +964,11 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-
+== NOTES FROM THIS YOUTUBE LECTURE: Bart Vanderhaegen - Creating open management systems in companies
+Karl Popper's criterium for good political systems: instead of asking "Who should rule?" we should be asking "How to set things up so that bad rulers and bad policies can be removed without violence?"
+In management: from "Who should get the job?" to "How to set things up so that bad ideas and be removed & improved without increased disengagement?"
+Or stated differently: "How to create an open management system with open ended knowledge creation and increasing engagement?"
+The ultimate question/criterium for management methods: "Is it entrenching errors or is it providing the means to correct errors?"
 
 
 

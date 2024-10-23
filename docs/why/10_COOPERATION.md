@@ -97,6 +97,40 @@ The concepts of price of anarchy and price of stability were introduced to captu
 
 > "The arc of the moral universe is long but it bends toward cooperation." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Morality
+██████████████████████████████████████████████████████████████████
+
+
+
+TODO INTERNET: fix YT links !!!
+
+> "" - [Oliver Scott Curry]()
+
+^^ from 
+Oliver Scott Curry _ Moral problems_ a Popperian approach
+
+> "" - [Oliver Scott Curry]()
+
+^^ from 
+Oliver Scott Curry _ Moral problems_ a Popperian approach
+
+> "" - [Oliver Scott Curry]()
+
+^^ from 
+Oliver Scott Curry _ Moral problems_ a Popperian approach
+
+> "" - [Oliver Scott Curry]()
+
+^^ from 
+Oliver Scott Curry _ Moral problems_ a Popperian approach
+
+> "" - [Oliver Scott Curry]()
+
+^^ from 
+Oliver Scott Curry _ Moral problems_ a Popperian approach
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Constraints
