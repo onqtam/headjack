@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 > "Belief can be manipulated. Only knowledge is dangerous." - [Frank Herbert](https://www.goodreads.com/quotes/384225-belief-can-be-manipulated-only-knowledge-is-dangerous)
 
-> "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads)
+> "Senator, we run ads." - [Mark Zuckerberg](https://www.goodreads.com/quotes/11950283-senator-we-run-ads) teaching those that should be capable of regulating tech such as his
 
 > "If we do not break the duopoly it will break us." - [Eric Weinstein](https://youtu.be/PYRYXhU4kxM?t=11914)
 
