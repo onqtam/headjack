@@ -104,6 +104,11 @@ The only way to make something truly self-authenticating in perpetuity is to tim
 > "The blockchain is the most important development in history since the advent of writing itself, as it’s a cryptographically verifiable, highly replicated, unfalsifiable, and provably complete digital record of a system." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20blockchain%20is%20the%20most%20important%20development%20in%20history%20since%20the%20advent%20of%20writing%20itself%2C%20as%20it%E2%80%99s%20a%20cryptographically%20verifiable%2C%20highly%20replicated%2C%20unfalsifiable%2C%20and%20provably%20complete%20digital%20record%20of%20a%20system.)
 
 
+> "Dude, I already can’t remember the significance of things that I was urged were of apocalyptic import a few years ago. Will we remember them? No—because structurally the assault is on memory itself in issue after issue. A memory is a drag on action. It causes you to raise your hand and go, wait a second." - [Walter Kirn on How America Lost the Plot, Palladium Magazine](https://www.palladiummag.com/2023/07/25/walter-kirn-on-how-america-lost-the-plot/)
+
+
+> "Not only do you not want to have memory, you don’t even want to have profound experiences! Where are you then? You might think that you’re on a great individualist adventure ahead of everything else. But what you really are is a total pawn of someone else’s power. You are a perfect victim. You are owned. Not only are you not attached to the past, but you don’t even fall in love with the present. You can’t even counter their story with your own. You don’t have a story at all. As a dramatist, I can tell you that without memory, you don’t even have a story." - [Walter Kirn on How America Lost the Plot, Palladium Magazine](https://www.palladiummag.com/2023/07/25/walter-kirn-on-how-america-lost-the-plot/)
+
 
 <!--
 https://en.wikipedia.org/wiki/Non-repudiation
