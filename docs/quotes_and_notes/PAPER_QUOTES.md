@@ -1633,7 +1633,17 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > Open coordination comes by way of slogan. Central authorities lead the party by condensing their plans, goals, and assessments into slogans designed to ceaselessly cycle through official speeches, party directives, guiding regulations, and daily propaganda. Through this omnipresent whir of words, the leadership instills a shared conceptual vocabulary that individual party cadres can then adapt to their particular circumstances. A tremendous amount can be learned by studying these slogans and the documents that they appear in. Unlike interviews and field surveys, there is little worry that Western analysts will be cut off from these documents. Because they are central to the workings of the party-state, the party apparatus promotes them with feverish intensity." - [Why We Need the Center for Strategic Translation, Palladium Magazine](https://www.palladiummag.com/2022/11/14/why-we-need-the-center-for-strategic-translation/)
 
-> "" - [, Palladium Magazine]()
+> "" - [Why Civilizations Collapse, Palladium Magazine](https://www.palladiummag.com/2024/03/08/why-civilizations-collapse/)
+
+> "" - [Why Civilizations Collapse, Palladium Magazine](https://www.palladiummag.com/2024/03/08/why-civilizations-collapse/)
+
+> "" - [Why Civilizations Collapse, Palladium Magazine](https://www.palladiummag.com/2024/03/08/why-civilizations-collapse/)
+
+> "" - [Why Civilizations Collapse, Palladium Magazine](https://www.palladiummag.com/2024/03/08/why-civilizations-collapse/)
+
+> "" - [Why Civilizations Collapse, Palladium Magazine](https://www.palladiummag.com/2024/03/08/why-civilizations-collapse/)
+
+> "" - [Why Civilizations Collapse, Palladium Magazine](https://www.palladiummag.com/2024/03/08/why-civilizations-collapse/)
 
 > "" - [, Palladium Magazine]()
 

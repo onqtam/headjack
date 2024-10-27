@@ -108,10 +108,6 @@ These quotes from YouTube videos haven't been cleaned up for correct words & pun
 
 > "So far we don't have the right tools for the collective intelligence network to do uniformly high-quality sense-making there is not only a lot of good material out in the peer-to-peer information world but there's also a lot of real horseshit and I would say 90% of people don't have the discernment powers to tell one from the other in a precoded world an example is some screwy ass thing called queuing on right which is a classic decentralized grassroots conspiracy theory which to my mind is an example of a peer-to-peer distributed network having a schizophrenic event that resonates with a number of the equivalent of neurons meaning humans and has produced very bad garbage which has filled the minds of many millions of people with worse than useless horseshit we don't yet have the tools for mass discernment that could have downregulated queuing on to all right there's a few freaks over there let them freak but let's not many of us pay too much attention to it in the kovin world we are in an ad hoc fashion finding these ways to filter and I believe one of the thing one of the learnings that will come out of the Covid 19 crisis is how does one do group peer to peer discernment to separate the shit from the shinola the wheat from the chaff." - [Jim Rutt](https://youtu.be/jbVlRHCMW_o?t=2919)
 
-<!-- 
-> "" - [Jonathan Pageau]()
-
-> "" - [Jonathan Pageau]() -->
 
 
 
@@ -393,6 +389,10 @@ Convergent Evolution_ The Co-Revolution of AI & Biology with Prof Michael Levin 
 
 ^^ from 1:10:21 till 1:12:14
 Convergent Evolution_ The Co-Revolution of AI & Biology with Prof Michael Levin & Dr.Leo Pio Lopez - cognitive revolution podcast
+
+
+
+
 
 
 
