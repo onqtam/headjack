@@ -315,30 +315,6 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 
 > "A smart person can rationalize and the interesting thing is that rationalizing is the opposite of rationality right the idea of rationality is we're taking some like hopefully clear formal process of assessing the world rationalization is you come to a belief based on ingroup Identity or motivated reasoning or whatever types of things and then you rationally backfill why you came there but the reason that you say you came there and why you actually came there aren't the same but you probably have low enough psychological insight that you don't realize that and um so one should be very very attentive to their own rationalization and motivated reasoning um but the other thing is that the smart person because they have an identity as a smart person and maybe they are a they have a job as a smart person supported by the people who support them to believe that stuff because they speak to an audience on the left or an audience on the right who wants them to be the smart person who says those things where if they started saying more nuanced things they would lose their support base um so it's not just that they're better capable of rationalizing it might also be that they start to get success and identity associated with narrow applications of smart just like narrow applications of progress." - [Daniel Schmachtenberger](https://youtu.be/LSx8j8lSewA?t=12711)
 
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-
-
-
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
 
 
 
@@ -357,14 +333,6 @@ rp daily_ a conversation that will blow your mind with Daniel Schmachtenberger
 
 ^^ from 1:26:54 till 1:43:28
 rp daily_ a conversation that will blow your mind with Daniel Schmachtenberger
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
-
-> "" - [Daniel Schmachtenberger]()
 
 
 

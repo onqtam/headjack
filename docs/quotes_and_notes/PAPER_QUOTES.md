@@ -1653,6 +1653,42 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > Those in the community had judged their leap of faith well, invested in their bonds, and reciprocated each others’ goodwill. Any social body that accepts an outsider is taking a chance that the new person can integrate into the bonds it has established and make them stronger. A truly compelling form of life often brings people in under the power of sheer attraction, drawing in outsiders through its obvious beauty and worth. This makes it even more important that the social body rigorously enforces its own norms on those who enter, reforming or rejecting behaviors that could threaten to undermine it. To transform strangers into valued kin and highly functional members of your social body, parasitism must be ruthlessly punished and excluded." - [The Triumph of the Good Samaritan, Palladium Magazine](https://www.palladiummag.com/2023/07/06/the-triumph-of-the-good-samaritan/)
 
+> "" - [Singapore Is Failing at Digital Sovereignty, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
+> "" - [, Palladium Magazine]()
+
 > "" - [, Palladium Magazine]()
 
 > "" - [, Palladium Magazine]()
