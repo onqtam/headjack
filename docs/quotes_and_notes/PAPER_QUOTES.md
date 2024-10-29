@@ -1653,17 +1653,22 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > Those in the community had judged their leap of faith well, invested in their bonds, and reciprocated each others’ goodwill. Any social body that accepts an outsider is taking a chance that the new person can integrate into the bonds it has established and make them stronger. A truly compelling form of life often brings people in under the power of sheer attraction, drawing in outsiders through its obvious beauty and worth. This makes it even more important that the social body rigorously enforces its own norms on those who enter, reforming or rejecting behaviors that could threaten to undermine it. To transform strangers into valued kin and highly functional members of your social body, parasitism must be ruthlessly punished and excluded." - [The Triumph of the Good Samaritan, Palladium Magazine](https://www.palladiummag.com/2023/07/06/the-triumph-of-the-good-samaritan/)
 
-> "" - [Singapore Is Failing at Digital Sovereignty, Palladium Magazine]()
+> "As the world discovered in 2020, perception management only goes so far. If disaster blooms into catastrophe, governing elites focused on panic prevention find their disaster response effort suddenly dependent on the very public they are frightened of. What is needed then is honesty and leadership. Leaders then have no choice but to rely on, assist, and lead the uncoordinated, selfdirected efforts of the masses. What these efforts need to succeed is information and good strategy—and the trust that they will use this information well. The people must be trusted with fear, and the governing class must be comfortable with leadership during times of crisis. Fear is an unpleasant emotion— but at times, a useful one. Fear lends urgency to action. Fear forces the afraid to focus on that which matters. This is the great lesson of the 2020 coronavirus: We should have been allowed to fear. Alas, our leaders feared our fear more than they feared our deaths. The world bears the consequences of this stark faith in the myth of panic." - [The Myth of Panic, Palladium Magazine](https://www.palladiummag.com/2021/07/15/the-myth-of-panic/)
 
-> "" - [, Palladium Magazine]()
+> "Where we grind away human capital by plunging our greatest minds into a never-ending rat-race through the unproductive spheres of America’s managerial elite, Confucian theorists invite us to produce statesmen and intellectuals who can steward the political order. Where we build systems whose main goal is to restrain the power of bad rulers, Confucians ask why our institutions produce incompetent and unvirtuous elites in the first place. Where we expect the invisible hand to harness talent for us, Confucians emphasize the need to plan the selection of qualities that have nothing to do with market forces." - [America’s Next Aristocracy, Palladium Magazine](https://www.palladiummag.com/2021/10/29/americas-next-aristocracy/)
 
-> "" - [, Palladium Magazine]()
+> "Since hierarchies are inescapable, the central task of politics is to design institutions that ensure that the elite remains talented, virtuous, and wellorganized. More than ever, the fundamental purpose of elite universities—and institutions of elite production more broadly—lies in the identification, empowerment, and elevation of those who can rule well.
+>
+> ... we need to... embrace a resolutely functionalist approach to hierarchy, and reshape our institutions to elevate character over sheer competence. America’s central problem is not a lack of technical expertise but an absence of moral vision. We do not want for means to our ends; we thirst for a new class of elites dedicated to the functional stewardship of an organic social order. This is not a question of privilege and desert, but of virtue and orientation.
+>
+> Ultimately, elite universities should serve this explicitly aristocratic function: a place where the talented can develop a broader historical and moral perspective, away from popular distractions; where aspiring elites cultivate virtues like asabiyyah and courage, not managerial activism; where education shapes statesmen and guardians of high culture, not consultants and Excel spread-sheeters." - [America’s Next Aristocracy, Palladium Magazine](https://www.palladiummag.com/2021/10/29/americas-next-aristocracy/)
 
-> "" - [, Palladium Magazine]()
+> "In the 2020s, the essential core capability for governing a city better—or solving any essentially political governance problem—is non-capitalist political coordination techniques to hold power in institutions and use those institutions to provision public goods. It’s not a matter of winning elections, getting city or national elites on your side, or directly navigating the complicated political networks. Those will come with time. The most essential matter is being able to trust your comrades without recourse to law or mainstream value ideology as you coordinate to build, take, hold, and govern institutions." - [Entrepreneurial Statecraft Gets the Goods, Palladium Magazine](https://www.palladiummag.com/2023/04/25/entrepreneurial-statecraft-gets-the-goods/)
 
-> "" - [, Palladium Magazine]()
 
-> "" - [, Palladium Magazine]()
+
+Only the State Can Succeed at Decentralization
+
 
 > "" - [, Palladium Magazine]()
 

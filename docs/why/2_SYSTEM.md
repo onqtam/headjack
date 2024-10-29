@@ -891,6 +891,21 @@ The extent to which we shift to frugality is the extent to which catastrophic ri
 How do we force companies to not waste any resources? Why would any company waste a perfectly good router and not reuse it when it is returned in perfect condition? This is parasitic behavior - it is maladaptive to humanity as a whole. Most such needless waste must be eliminated. How do we turn into a value and how do we force companies to do this?
 https://www.techspot.com/news/85862-record-amount-e-waste-generated-2019.html
 
+
+TODO INTERNET: fix YT links !!!
+
+> "I've stated many times on this podcast um the fact that Maman biomass on Earth is 98% uh humans and our livestock um and if you include uh mammals in water then it's 96% the per person per human amount of animal biomass is 2 and2 kilog so that's like 5 PBS so every human on the planet there's like five pounds of wild animal uh um remaining we've lost 70% of the populations of wild animals since 1970 one to 2% annual declines in insects birds which results in 75% per century and and the list is is long from there." - [Tales from the Carbon Pulse - Reality Roundtable 11]()
+
+^^ from 05:17 to 06:09
+
+> "Looking back at the past the 2 and a half kilog Today Was 80 kg per person of wild mammal Mass land mammal mass in 1800 and it was 50,000 kg per person 10,000 years ago so I just want to make that shifting Baseline is really important." - [Tales from the Carbon Pulse - Reality Roundtable 11]()
+
+^^ from 14:08 to 14:27
+
+> "There was a recent paper in nature which I'll link in the in the show notes that highlighted that the built Mass from humans around the planet - building, skyscrapers, stadiums, trampolines, amusement parks, cars - everything outweighs all the living biomass on Earth." - [Tales from the Carbon Pulse - Reality Roundtable 11]()
+
+^^ from 25:09 to 25:32
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Existential risks
 ██████████████████████████████████████████████████████████████████

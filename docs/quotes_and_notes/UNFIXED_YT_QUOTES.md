@@ -361,9 +361,6 @@ Convergent Evolution_ The Co-Revolution of AI & Biology with Prof Michael Levin 
 
 
 
-
-
-
 > "" - [Karl Friston]()
 
 ^^ from 
