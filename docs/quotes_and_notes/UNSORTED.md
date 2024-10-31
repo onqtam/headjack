@@ -5726,6 +5726,7 @@ We can reimplement banking and finance with ZK
 
 
 
+
 > "A fun game is to go through [this list](https://www.worldometers.info/gdp/gdp-by-country/) of country gdps, scroll down to Kuwait, and see all the countries whose entire economic output can't cover what Americans spend annually on their pets (186 bn)." - [Jake Bornstein](https://x.com/JLBornstein/status/1836835877936615855)
 
 
