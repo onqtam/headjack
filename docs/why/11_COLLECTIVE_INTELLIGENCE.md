@@ -800,6 +800,7 @@ https://www.youtube.com/watch?v=b182vUukcLY
 https://www.tdcommons.org/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1092&context=dpubs_series
 
 https://vitalik.ca/general/2021/05/25/voting2.html
+https://vitalik.eth.limo/general/2021/05/25/voting2.html
 
 https://followmyvote.com/liquid-democracy/
 

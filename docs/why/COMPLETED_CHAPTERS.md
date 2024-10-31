@@ -392,9 +392,6 @@ Top10 regrets?
 top10 things to answer:
 - what do you want to exist even if you don't? And how much of a difference do you make to it now?
 
-Top10 humorous yet informative channels to subscribe to
-- Climate Town
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Structure & Organization
 ██████████████████████████████████████████████████████████████████
