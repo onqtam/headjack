@@ -483,6 +483,10 @@ From bond markets to binding markets - binding your word to be held accountable 
 we can tax industries through stigma alone - limiting their market
 
 
-
+> "i subscribe to the theory of capitalism that 'incentives' don't matter nearly as much as the 'death operator' for killing failing organizations at all levels and reallocating their resources
+>
+> ...
+>
+> dispassionate death is a blunt instrument that's unfortunately irreplaceable -- many organizations should be dead not because of ill intent of their creators but because of the finite planning ability of mankind in an irreducible universe. man proposes, god disposes" - [roon](https://x.com/tszzl/status/1846325106806870121)
 
 

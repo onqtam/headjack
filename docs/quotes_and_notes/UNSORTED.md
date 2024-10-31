@@ -5630,6 +5630,95 @@ All reasoning is motivated
 Motivation is energised by particular values
 
 
+
+
+Disney as a service - participating in the programming of the culture for the next generation
+
+Revelation as a Service
+
+IRS as a Service
+“Consciousness is like fame in the brain” - daniel denett
+Ala global workspace theory
+
+Evolution is the most american thing ever
+
+We must pay people to learn our chosen and refined worldview and fund this endeavour through opt-in taxation
+
+Its not so much centralization by itself that’s the problem when it comes to economies but the reduction of intelligence and decreased capacity for learning and evolution that are the problem
+
+We have the wrong system while some groups of people want to kill other groups of people
+
+How do we increase the capacity and clock speed of error correction everywhere in every aspect of the evonomy? And what should our economy be ultimately economising? What comes after GDP?
+From gross domestic product to gross collective/synergistic/alligned contribution?
+
+We must find societal’s optimal optimization function
+
+We must make our shared world model more coherent and conscious so that we can ask it what it sees and how it feels - perception coupled with possible actions with an assigned valence
+
+We must transition god’s evolution from unconscious and blind to conscious and goal-oriented
+
+Truth must become the schelling point
+
+Not all ideas are equal - how do we rank them?
+
+What is our collective world model? What’s the epistemic health of our information space?
+
+The superiorly justified justification system
+
+What should other people know, and why?
+
+What are the biggest truths? How do we rank the most relevant we should all know and the differently specialized groups in its meritocracy should know?
+
+We must optimally sort and interrelate all  concepts for their importance and repevance
+
+God is the ultimate process
+
+Right side of the history as a service
+
+The better every body else does, the better you do
+
+How do we reward the highest impact ideas weighted by their impact optimally?
+
+How do we collectively apply “attention is all we need”?
+
+The problem of justification: getting shared propositional networks that legitimize is and ought.
+Direct quote from Greg
+
+Different collectives may define different rules for how they reward each other individually and how to aggregate themselves, and yet they can interface with the global brain as a whole
+
+Freedom of frame - away from frame control
+
+how do we better communicate patterns to each other and how do we optimize and surface the patterns - what's the feedback loop for "the right pattern"? Isn't something like the Bible the ultimate pattern? How do we crowdsource that?
+
+What is the ultimate tool if not the most important social technology - our bible? Bible/acc
+
+We can actually wipe ourselves out - not simply because we have the bomb, but because of incentives and possible system dynamics for which there is a non-zero chance. We should be minimizing that chance and the metric to track is the number of nuclear warheads. This is the most clear and incorruptible signal for our civilizational health - inversely correlated to hope and adequacy.
+
+When scale is avhieved we can start strategically outright acquiring conpanies and changing them to function according to our higher and better standards
+
+Some people blow themselves up for their god - we should give everything and live to the fullest possible extent for ours and our children - People are our God’s hardware
+
+We are God’s sex organs - we are the reproductive system of our God - our cultural memeplex
+
+
+What if we respected most the winners in this new system? How do we find them? What are the rules? What are the incentives?
+
+“Telos” as the name of the facebook/google of this system
+
+Telos as a service - but a service on your part where you pay with (the time of) your life - you get a chance to serve something greater than yourself - you get to serve the expansion of the self which is the final major evolutionary metasystem transition - you get to manifest God - the Ultimate.
+
+This is a service that gives you a way to truly serve the divine
+What is divine? Everlasting? Eternal? The ultimate?
+
+This is applied science - the meta-study summarizing the best of science & human knowledge/insight in terms of how to structure our system of incentives - our telos
+
+Become the better establishment - enroll now!
+
+We can reimplement banking and finance with ZK
+
+
+
+
 > "What fraction of apparent ‘elite’ preference is downstream of blackmail?" - [Jordan Hall](https://x.com/jgreenhall/status/1836741719804514548)
 
 > "Well, he's dead, so in general you always have to be careful..." - [Bill Gates](https://www.yahoo.com/news/bill-gates-answered-questions-meetings-124750218.html#:~:text=Well%2C%20he%27s%20dead%2C%20so%20in%20general%20you%20always%20have%20to%20be%20careful%2C)

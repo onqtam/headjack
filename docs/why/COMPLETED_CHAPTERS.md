@@ -392,6 +392,31 @@ Top10 regrets?
 top10 things to answer:
 - what do you want to exist even if you don't? And how much of a difference do you make to it now?
 
+Top10 tracks
+- mawenzi, Elfenberg
+- Yigi Yigi, David Hudson & Friends
+- Agualita, Lua Maria & Adrian Freedman
+- Forest Gathering, Inlakesh
+- Theory of Everything, Stephan Bodzin
+- The Hymn of Fallen Dreams, KAS:ST
+- Feed my Ancestors, Hiro Kone
+- Converter, Mega Drive
+- Atlas, BICEP
+- X, BICEP & Clara La San
+- Random Notes Orchestra, Adriatique
+- Studies In Dance Theory, Adriatique
+- Undone Fragments, Reasonandu
+- Jorge - Satori Remix, Acid Pauli
+- Intense Emotions, MEMPHIDOS
+- Deep Jungle Walk, Astrix
+- Shamanic Tales, Astrix
+- The Cycle Of Being, Unusual Cosmic Process
+- Pulse Of Progression, Enrico Sangiuliano
+- Lyra, Teho
+- Medicine Work, Byron Metcalf & Inlakesh
+- You Don’t Have Time, Zymosis
+- 
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Structure & Organization
 ██████████████████████████████████████████████████████████████████

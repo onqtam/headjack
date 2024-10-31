@@ -426,6 +426,10 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 ^^ from 7:51 till 11:44
 
 
+> "Meaning is the way that an organism, or let's say more broadly, any entity in its context... leverages the mutual information linking it to that environment in such a way as causality bears on its well-being, its continued persistence, its growth, and its flourishing." - [Brendan Graham Dempsey](https://x.com/jim_rutt/status/1849803716729176225)
+
+
+
 
 
 ██████████████████████████████████████████████████████████████████
