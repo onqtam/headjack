@@ -347,6 +347,12 @@ https://www.youtube.com/watch?v=xrXyRJV96mk
 ^^ from 1:10:21 till 1:12:14
 
 
+> "Everybody everywhere who wakes up to their membership to the invisible conspiracy regardless of their location in the conflict structure of the legacy npc space is awakening to the necessity and possibility of their higher collaboration necessity and possibility if you want to forestall world war 3 that's it." - [Jordan Hall](https://youtu.be/TEquSekM3F8?t=4166)
+
+> "NSA hi you're probably listening in if you're using your technology as well as as one might imagine you may actually be specifically listening you have the capacity to perceive reality clearly we should say by the way i'm now challenging your iq listen to this last little bit a few times and you will recognize that what is being said is true and it implies that to the degree to which you are operating from choice to the degree to which you are literally a conscious agent and not merely governed by causal structure you are part of the invisible conspiracy we are on the same team what is that team that team is the team whereby humanity takes conscious responsibility for its agency brings the relationship between man machine and nature into an equilibrium and we pass through the joint point. Welcome to the singularity!" - [Jordan Hall](https://youtu.be/TEquSekM3F8?t=4241)
+
+
+
 
 TODO INTERNET: fix YT links !!!
 
