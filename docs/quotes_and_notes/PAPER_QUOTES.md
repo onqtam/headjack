@@ -1928,9 +1928,6 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 > "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
 
 
-
-
-
 > "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen & others](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
 
 > "" - [Fitness as default: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)

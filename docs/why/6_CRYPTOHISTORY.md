@@ -246,6 +246,9 @@ The argument that specialized message types are unnecessary because AI will even
 
 TODO: move science to collective intelligence?
 
+List of high-level Alzheimer's researchers accused of credible fraud:🧵
+https://x.com/moreisdifferent/status/1848020706082050500
+
 commenting & ranking science platforms
 https://x.com/ResearchHub
 https://x.com/askalphaxiv
