@@ -1922,7 +1922,9 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "The closer you come to true freedom of association, the closer you get to a world where everyone is a member of more or less the community they deserve." - [Archipelago and Atomic Communitarianism](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
 
+> "" - [What is a Singleton?, Nick Bostrom](https://www.fhi.ox.ac.uk/wp-content/uploads/singleton.pdf)
 
+> "" - [Driven by Compression Progress](https://arxiv.org/abs/0812.4360)
 
 
 > "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
@@ -2028,26 +2030,40 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 
 
-Knowing one's place: a free-energy approach to pattern regulation
-Karl Friston, Michael Levin
-https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.1383
+> "" - [Knowing one's place: a free-energy approach to pattern regulation, by Karl Friston, Michael Levin](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.1383)
+
+> "" - [Collective intelligence: A unifying concept for integrating biology across scales and substrates, by Patrick McMillen & Michael Levin](https://www.nature.com/articles/s42003-024-06037-4.pdf)
+
+> "" - [On Having No Head: Cognition throughout Biological Systems, by Michael Levin](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00902/full)
+
+> "" - [What Is Consciousness? Integrated Information vs. Inference, by James E. Cooke](https://www.mdpi.com/1099-4300/23/8/1032)
+
+> "" - [The living mirror theory of consciousness, by James E. Cooke](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=ZnbVkL0AAAAJ&citation_for_view=ZnbVkL0AAAAJ:eQOLeE2rZwMC)
+
+> "" - [Stress sharing as cognitive glue for collective intelligences: A computational model of stress as a coordinator for morphogenesis](https://www.sciencedirect.com/science/article/pii/S0006291X2400932X)
+
+> "" - [Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales](https://www.mdpi.com/1099-4300/26/7/532)
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
 
 
-Collective intelligence: A unifying concept for integrating biology across scales and substrates
-Patrick McMillen & Michael Levin
-https://www.nature.com/articles/s42003-024-06037-4.pdf
-
-On Having No Head: Cognition throughout Biological Systems
-Michael Levin
-https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00902/full
-
-Stress sharing as cognitive glue for collective intelligences: A computational model of stress as a coordinator for morphogenesis
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=luouyakAAAAJ&sortby=pubdate&citation_for_view=luouyakAAAAJ:SgM-ki2adj0C
-https://www.sciencedirect.com/science/article/pii/S0006291X2400932X
 
 
-Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=luouyakAAAAJ&sortby=pubdate&citation_for_view=luouyakAAAAJ:PklR0melJeUC
+
+
+
+
+
+
+
+
+
+
+
 
 
 

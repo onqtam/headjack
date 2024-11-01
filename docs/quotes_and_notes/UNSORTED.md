@@ -54,6 +54,10 @@
 
 
 
+> "Building an audience on a proprietary network is building an elaborate castle on sand." - [Naval](https://x.com/naval/status/1325531565724639233)
+
+> "Emergence is the closest thing to magic that is actually a scientific term." - [Daniel Schmachtenberger](https://systems-souls-society.com/emergence/emerge/#:~:text=%E2%80%98Emergence%20is%20the%20closest%20thing%20to%20magic%20that%20is%20actually%20a%20scientific%20term%E2%80%99)
+
 
 > "The self is a repeatedly reconstructed biological state." - [Antonio Damasio](https://www.goodreads.com/quotes/7656886-the-self-is-a-repeatedly-reconstructed-biological-state)
 
