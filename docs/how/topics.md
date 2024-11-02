@@ -94,10 +94,6 @@ competence heterarchy
 
 An operating system for humanity in the 21st century (and beyond)
 
-meaning
-https://www.psychologytoday.com/us/blog/mind-in-the-machine/202212/the-psychological-benefits-finding-your-cosmic-purpose
-https://www.psychologytoday.com/us/blog/mind-in-the-machine/202006/could-cosmic-religion-unite-divided-nation
-
 
 - cryptohistory - in can't be evil?
 - your digital footprint
