@@ -344,6 +344,9 @@ top10 documentaries
 https://www.imdb.com/title/tt11286314/
 “Don't look up” is a diagnosis
 
+top10 most important psychologists alive today:
+- Gregg Henriques
+
 top10 channels
 - Ashley's The New Enlightenment - CRIMINALLY UNDERAPPRECIATED
 https://www.youtube.com/@thenewenlightenmentwithash8465
@@ -465,6 +468,9 @@ https://en.wikipedia.org/wiki/As_above,_so_below
 
 
 
+
+
+
 > "Subsidiarity is a principle of social organization that holds that social and political issues should be dealt with at the most immediate or local level that is consistent with their resolution." - [Subsidiarity, Wikipedia](https://en.wikipedia.org/wiki/Subsidiarity#:~:text=Subsidiarity%20is%20a%20principle%20of%20social%20organization%20that%20holds%20that%20social%20and%20political%20issues%20should%20be%20dealt%20with%20at%20the%20most%20immediate%20or%20local%20level%20that%20is%20consistent%20with%20their%20resolution.)
 
 > "Wherever we find orderly, stable systems in Nature, we find that they are hierarchically structured, for the simple reason that without such structuring of complex systems into sub-assemblies, there could be no order and stability-except the order of a dead universe filled with a uniformly distributed gas." - [Arthur Koestler](https://www.goodreads.com/quotes/9652997-wherever-we-find-orderly-stable-systems-in-nature-we-find)
@@ -521,6 +527,9 @@ https://www.sloww.co/tenets-integral-theory/
 
 > "Hierarchies evolve from the lowest level up—from the pieces to the whole, from cell to organ to organism, from individual to team, from actual production to management of production. Early farmers decided to come together and form cities for self-protection and for making trade more efficient. Life started with single-cell bacteria, not with elephants. The original purpose of a hierarchy is always to help its originating subsystems do their jobs better. This is something, unfortunately, that both the higher and the lower levels of a greatly articulated hierarchy easily can forget. Therefore, many systems are not meeting our goals because of malfunctioning hierarchies." - [Thinking in Systems 2008, by Donella Meadows](https://subconscious.substack.com/p/fragments-vertebrate-technology#:~:text=Hierarchies%20evolve%20from,of%20malfunctioning%20hierarchies)
 
+
+
+> "Hierarchical organization—the recursive composition of sub-modules—is ubiquitous in biological networks, including neural, metabolic, ecological, and genetic regulatory networks, and in human-made systems, such as large organizations and the Internet. To date, most research on hierarchy in networks has been limited to quantifying this property. However, an open, important question in evolutionary biology is why hierarchical organization evolves in the first place. It has recently been shown that modularity evolves because of the presence of a cost for network connections. Here we investigate whether such connection costs also tend to cause a hierarchical organization of such modules. In computational simulations, we find that networks without a connection cost do not evolve to be hierarchical, even when the task has a hierarchical structure. However, with a connection cost, networks evolve to be both modular and hierarchical, and these networks exhibit higher overall performance and evolvability (i.e. faster adaptation to new environments). Additional analyses confirm that hierarchy independently improves adaptability after controlling for modularity. Overall, our results suggest that the same force–the cost of connections–promotes the evolution of both hierarchy and modularity, and that these properties are important drivers of network performance and adaptability." - [The Evolutionary Origins of Hierarchy](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004829)
 
 
 TODO: paper:

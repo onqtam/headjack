@@ -5716,6 +5716,26 @@ We can reimplement banking and finance with ZK
 
 
 
+a justification system for what is allowed and how we tax & incentivize stuff - how do we win at that and justify the best possible system?
+
+
+What if we stigmatized rent seeking out of existence? We can steer taxation through culture and norms and not with a legal system and bureaucracy
+
+We can do strategic and to the best of our abilities charity so that we educate the most people and grow the most as an organization. We need the global church as our justification and taxation system
+
+Jim Simons and his quant firm are a misallocation of talent and that’s due to the incentives in our system - the most capable go where the reward is the greatest in terms of brilliance - what if we incentivized the refinement of our most relevant aspects with the highest benefits? If you beat the market that much and so consistently - you’re more capable of running the government. Why aren’t you and towards the most benefit to all? Why don't we have the best talent optimizing the most fundamental aspects of society - our incentives? Who t f is tuning our culture? A non-conscious self-devouring logic of incentives that’s due for a fundamental upgrade
+
+Sort by good
+
+We’re meant to export ourselves culturally to the pattern of life and merge with it - that’s transcendence
+
+We must describe the collective ideal
+
+How do we increase the amount and quality of conscious experience?
+
+We must facilitate the optimization of search in the problem space
+
+
 > "What fraction of apparent ‘elite’ preference is downstream of blackmail?" - [Jordan Hall](https://x.com/jgreenhall/status/1836741719804514548)
 
 > "Well, he's dead, so in general you always have to be careful..." - [Bill Gates](https://www.yahoo.com/news/bill-gates-answered-questions-meetings-124750218.html#:~:text=Well%2C%20he%27s%20dead%2C%20so%20in%20general%20you%20always%20have%20to%20be%20careful%2C)
