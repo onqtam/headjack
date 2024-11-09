@@ -837,6 +837,30 @@ What if web3 is not "the Internet of value" as in transactional value, but the i
 "this is healthy"
 https://www.google.com/search?q=this+is+healthy
 
+[The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
+
+
+> "These interventions did improve specific health outcomes, but only by treating emergent symptoms while the underlying malignancy—a physiologically harmful way of eating and living—continued to metastasize.
+>
+> The modern diet underwent a second phase of rapid degradation in the late twentieth century. With the advent of fast-food chains and addictive snacks that contained high-fructose corn syrup—consumption of which increased tenfold from 1970 to 1990—non-processed food sources eroded rapidly. Oreos, potato chips, and Coca-Cola could soon be found all over the world, owing to the lowering of trade barriers, brilliant corporate marketing strategies, and the fundamental addictiveness of the products being sold. Coca-Cola was not regularly consumed in Mexico in the 1950s; by 2019, residents of Chiapas, Mexico’s poorest state, drank an average of 2.2 liters of Coke a day." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
+
+> "In this historical context, the “nutrition transition” of the last two centuries begins to look more like a dietary apocalypse. It represents the extirpation of traditional, local foodways across the world in favor of an inflammatory, nutrient-poor diet of processed foods, with catastrophic consequences for human health." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
+
+> "We do not know what exactly is going on with our bodies, or what these ongoing changes will mean. But since the underlying pathology continues unchecked, the grim truth is that, for developed and “developing” countries alike, the strange and malign health trends of the last few decades are likely only to worsen." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
+
+> "The simple fact that whole, organic food is expensive creates a class divide in health that is severe enough to be visible in the geography of American cities: the disparity in life expectancy between the Roxbury and Beacon Hill neighborhoods of Boston, for instance, is now about as large as the gap between El Salvador and Finland—with the poorest sub-neighborhoods of Roxbury, like Egleston Square, reporting life expectancies lower than those of Haiti or Liberia.
+>
+> But this metastasizing crisis will not spare the health-conscious: even people who avoid the modern diet still bear the costs, direct and indirect, of living in unhealthy societies...
+>
+> Such approaches will only manage diseases, chronic and pandemic, without solving the malignancies from which they stem. Bad nutrition creates damage at a scale that cannot be fully remedied through past facto intervention: the public health and medical frameworks which respond to problems after they emerge are much less effective than simply avoiding those problems in the first place. These approaches essentially operate within the modern dietary paradigm, disciplined into a symbiotic relationship with it. They create societies with more resources dedicated to medicine—more drugs, more treatments—but not necessarily one with a greater degree of population health. They present not an exit, but a trap.
+>
+> Actually escaping the health trap requires moving from managing poor health to preventing it: an immense reform of how societies grow and consume food, and by extension how it structures and regulates human behavior. Logistically—not to mention politically, culturally, and socially— this is an immense challenge. It requires not just weaning populations off highly addictive diets, but attempting to recreate and even improve the healthier agricultural economies that were decimated by twentieth-century centralization...
+>
+> But the reality is that no current institutions have the capacity or incentive to do much of anything about the diet question: the food industry has tremendous power, and most of the medical establishment is more focused on post facto intervention and selling drugs than on general population health. The problem would have to be solved by a state that is willing to reshape the modern diet...
+>
+> The modern diet was the creation of conscious decisions; the same could be true for a health-restoring successor... On the theoretical level, it will require a new state paradigm where the regeneration of a healthy populace—and not just the management of its illnesses for profit or stability—is a matter of species-level biosecurity, and afforded the priority that such a problem demands." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
+
+
 everyone should watch JRE #2210 with Calley Means & Casey Means - just ignore the political stuff regarding Trump & RFK - everything else should be heard by everyone
 
 > "The American Medical Association recommends rice to diabetics." - [Michael Guimarin](https://youtu.be/bGdWgdRA6G8?t=3304)

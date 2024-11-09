@@ -1783,9 +1783,13 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > - There’s no immediate need to turn a profit, but there is an intense need to show growth. A startup that gets valued at 30x sales in one round and 5x sales at IPO has a similar cadence of external cash flows to a steel company that starts out getting 50% of its revenues from export subsidies and matures with 95% of its revenues from real customers." - [Lessons From the East Asian Economic Miracle, Palladium Magazine](https://www.palladiummag.com/2021/07/05/lessons-from-the-east-asian-economic-miracle/)
 
-> "" - [, Palladium Magazine]()
+> "" - [Science Needs Sovereigns, Palladium Magazine](https://www.palladiummag.com/2022/10/03/science-needs-sovereigns/)
 
-> "" - [, Palladium Magazine]()
+> "" - [Science Needs Sovereigns, Palladium Magazine](https://www.palladiummag.com/2022/10/03/science-needs-sovereigns/)
+
+> "" - [Science Needs Sovereigns, Palladium Magazine](https://www.palladiummag.com/2022/10/03/science-needs-sovereigns/)
+
+> "" - [Science Needs Sovereigns, Palladium Magazine](https://www.palladiummag.com/2022/10/03/science-needs-sovereigns/)
 
 > "" - [, Palladium Magazine]()
 
