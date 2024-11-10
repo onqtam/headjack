@@ -469,6 +469,9 @@ https://en.wikipedia.org/wiki/As_above,_so_below
 
 
 
+> "The famous “Model Parliament” was convened by Edward I in 1295, under the maxim quod omnes tangit, ab omnibus tractari et approbari debet—“What touches all should be considered and approved by all.”" - [Institutional Reforms Built the British Empire, Palladium Magazine](https://www.palladiummag.com/2022/10/31/institutional-reforms-built-the-british-empire/)
+
+
 
 
 > "Subsidiarity is a principle of social organization that holds that social and political issues should be dealt with at the most immediate or local level that is consistent with their resolution." - [Subsidiarity, Wikipedia](https://en.wikipedia.org/wiki/Subsidiarity#:~:text=Subsidiarity%20is%20a%20principle%20of%20social%20organization%20that%20holds%20that%20social%20and%20political%20issues%20should%20be%20dealt%20with%20at%20the%20most%20immediate%20or%20local%20level%20that%20is%20consistent%20with%20their%20resolution.)
