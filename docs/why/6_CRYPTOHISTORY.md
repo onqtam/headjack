@@ -452,6 +452,30 @@ Papers can be split into text, data, code & results with all of them referencabl
 
 
 
+> "Science had an important flaw in its epistemic foundation, dating back to Boyle and the Royal Society—its failure to determine the proper conditions and use of scientific authority. “Nullius in verba” made some sense in 1660, before much science was settled and when the enterprise was small enough that most natural philosophers could personally observe or replicate the experiments of the others. It came to make less sense as science itself succeeded, scaled up, and acquired intellectual authority. Perhaps a better answer to the question of scientific authority would have led science to take a different course.
+>
+> Turning from the past to the future, we now face the worrying prospect that the union of science and the state may have weakened science itself. Some time ago, commentators raised the specter of scientific slowdown, and more recent analysis has provided further justification for these fears. Why is science slowing? To put it simply, it may be difficult to have science be both authoritative and exploratory at the same time.
+>
+> When scientists are meant to be authoritative, they’re supposed to know the answer. When they’re exploring, it’s okay if they don’t. Hence, encouraging scientists to reach authoritative conclusions prematurely may undermine their ability to explore—thereby yielding scientific slowdown. Such a dynamic may be difficult to detect, since the people who are supposed to detect it might themselves be wrapped up in a premature authoritative consensus.
+>
+> Thus, from an unfixed flaw in the foundation, the surprise accumulation of authority and premature acceptance of that authority, science completed the inversion of its original ethos—and nullius in verba became “trust the science.”
+>
+> ...
+>
+> The next phase of the evolution of science will necessarily involve the reconciliation of its exploratory and authoritative elements. This will require changes both at the level of scientific practice and public understanding.
+>
+> At the level of scientific practice, we should expect vast changes in institutions. Some scientific fields and subfields should continue to claim authority. Others, however, should disclaim it partly or completely. Some journals should continue to expect authoritatively written papers. Others should discourage authoritative writing, or even ban it. Many have fretted over the replication crisis and its solution—for fields below a certain level of replication, we might consider decertification.
+>
+> Sweeping proposals are like a bludgeon; a masterful restructuring of science would operate like a scalpel. In some cases, the best solution might be to break a field into multiple separate and rarely interacting components, thereby preventing premature consensus. In other cases, it may be necessary to introduce many different gradations of acceptance and authority.
+>
+> The funding landscape may also need to be restructured, with funding for the exploratory parts of science becoming much more decentralized. Career tracks might be distinguished into types depending on the solidity of the scientific field—quite naturally, different people will succeed in later-stage sciences than in earlier-stage ones.
+>
+> The use of scientific authority in public will have to more thoroughly integrate certain truths that every practicing scientist knows and takes for granted. These include that some parts of science are settled and others far from it, that different fields have different degrees of solidity, and that different results carry different degrees of authority.
+>
+> Together, these changes would amount to an important change in the nature of science, both epistemically and as a public institution. Nullius in verba would be set to one side, “trust the science” would be set to the other. Between them, taking each in correct measure, we may find a new and better middle way. Previous transformations of science have taken centuries; with effort and care, this one may go faster." - [The Transformations of Science, Palladium Magazine](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
+
+
+
 TODO: bringing real-world data on-chain
 
 If we onboard the worlds information and build reputation systems, we will have solved the oracle problem of bringing facts & events to the blockchain. Example: the result of a ufc fight - no longer need an oracle as ufc itself will post the result in an unambiguous way
