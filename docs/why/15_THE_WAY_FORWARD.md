@@ -889,6 +889,7 @@ https://www.google.com/search?q=this+is+healthy
 
 [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
 
+[The Rise and Fall of Liberal Democratic Peace Theory, Palladium Magazine](https://www.palladiummag.com/2018/10/15/the-rise-and-fall-of-liberal-democratic-peace-theory/)
 
 > "These interventions did improve specific health outcomes, but only by treating emergent symptoms while the underlying malignancy—a physiologically harmful way of eating and living—continued to metastasize.
 >
