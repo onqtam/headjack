@@ -782,6 +782,56 @@ What if web3 is not "the Internet of value" as in transactional value, but the i
 ^^ from 7:50 till 12:21
 
 
+> "I used to make fun of my friends for their obsessions with clothing brands, lifestyle aspirations, music subcultures, and social performances. It didn’t work. People think of social failure just in terms of drugs, mental illness, and suicide. But in practice, there are years of desperate attempts to fit in somewhere before that. People go all-in on these weird subcultures with plausible but false values. They think that if they push deeper into the aesthetic, it will give them somewhere to belong. But it doesn’t work, so they go even harder. It’s the classic pattern in cults of all kinds, and it leads only to misery." - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
+
+> "Your values are a bet on what is best in life. There are multiple answers that work, but this is not a subjective question. If your value instincts are good, the world rewards you with power and life. If you make the wrong bets on what to do with your life, you end up unsuccessful or dead. If someone else can influence your values for their own purposes, you can end up slaving your life away for something that has nothing to do with your own real interests. I think this is what happened to my friends, and what is happening to many of you.
+>
+> The self-destructive lifestyles that take our friends don’t just happen spontaneously; they are ideological subcultures sustained by the activities they teach. The parties bring in new people, the drugs are a sort of initiation, the clothes are a uniform that identifies you as bought in, and the music and media supply a steady stream of ideals and ingroup perspective. Even diets serve as ingroup markers and separate you from outsiders.
+>
+> The resulting alienation from friends and family removes you from countervailing influences. All of these contribute to the social reproduction of the subculture and whatever values it teaches. If a lifestyle of partying, drugs, and alienation finally turns deadly, that’s fine as long as the average participant has by that point initiated enough new blood to sustain that lifestyle. When I’ve tried to talk to people who are on these paths, their answers are bizarre. They think it’s all good for them, and anyone questioning it is an enemy. It’s like talking to someone in a cult.
+>
+> Likewise, behind the anxieties that drive America’s upper middle class are the employers, schools, lifestyle brands, and political causes that are only too happy to feed those fears. As soon as you get too much of your social perspective from the society you live in, you are in danger. Whatever institutions can get your ear will teach you whatever values most efficiently motivate you for their own purposes. They’ll gladly feed you suggestions that have nothing to do with your own real interests, as long as it’s useful to them to do so. It would be too real to pay you in actual power, actual freedom, and actual vitality, so instead you’ll be taught to accept payment in slavecoin.
+>
+> Slavecoin is anything that is apparently valuable from inside the spectacle, but in fact, offers no possible independence from it, and can’t be redeemed for hard vital power. Slavecoin is fake in its substance: think of all the prestige, credentials, career attainment, identity validation, pleasures, luxuries, and financialized wealth that no longer buys power. These things seem valuable and have extensive social narratives backing them up. But when viewed skeptically from outside the system, there is much less substance there than the trusted social consensus would lead you to think.
+>
+> When I look at the things my friends were into before they destroyed themselves, this is what I see: false value sold to them by institutions and subcultures that have no structural reason to care about their real interests. But this applies to far more people than just the few that didn’t make it. Almost everybody is trapped in some kind of propaganda complex, wasting their lives working for effectively nothing.
+>
+> ... everyone was caught up in false neuroses taught to them by systems of extraction...
+>
+> Your social perspective, which includes your values, is a complex living system. It contains not just bets on what is most important, but also all the practical life wisdom that supports and implements those values, and defensive responses to the various counterarguments life and critics will throw at you. This is too big for you to produce by yourself. It is too big to even maintain by yourself. Like any other product of industry, a sane social perspective requires an extensive and trustworthy supply chain of information, ideas, and values bringing together the work of many other people.
+>
+> ... Trustworthy social perspective formation is what is missing in our society, and it is this that explains our strange social problems. For a variety of historical reasons, our social fabric is substantially weaker than it should be.
+>
+> Without being able to triangulate to a trustworthy shared social perspective, you are stuck between getting taken for a ride by propagandists and collecting kooky conspiracy theories. No matter how hard you try to be rational, you simply lack the logistical backing necessary for precision. Your social ideas will be crude and misfocused...
+>
+> The obvious solution is to rebuild real social fabric, or otherwise systematically provision trustworthy social perspective. This is easier said than done, but not exactly new technology either. Many churches pull off partial solutions every day, and we all have our networks of trusted friends. Besides, a large amount of power is sitting on the table for whoever can do it properly.
+>
+> The real problem is that there are many powerful and wealthy institutions in our society invested in the lies that keep people working for false value. Slavecoin is big business. Any effort to rebuild trustworthy social perspective would very quickly threaten these lies and thus find powerful enemies in these groups...
+>
+> This makes both social fabric and trustworthy social perspective intensely political problems. It also gives some clues as to how the whole social apocalypse is locked in. If the fundamental crisis is one of low trustworthiness in social perspective formation, and if powerful groups and institutions are taking advantage of that crisis with their own cults of false value, then we have a vicious feedback loop. Those powers will reinforce the conditions that degrade trustworthiness.
+>
+> ...
+>
+> Well-grounded values, which is to say values that actually serve and accelerate life rather than deplete it, come from only one source: hard engagement with reality, where you can form an experience-building feedback loop of trial, error, and vitality. Call it evolution, science, revelation, or just clear seeing—that’s the only way real knowledge gets built about anything." - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
+
+> "We now translate the thing that called Abraham forward as “the LORD” or “God almighty,” but thousands of years of built-up ontological baggage do not necessarily help us understand what the authors of Genesis were getting at. The original word is closely related to a verb meaning simply “to exist” or “to cause.” It later identified itself to Moses as “I am.” In a more familiar cosmology, we might understand it as the living will of existence as such, the fundamental power behind all nature and contingent life.
+>
+> ...
+>
+> Abraham rejected the cults and their false and unnatural values. Instead of valuing the socially constructed and overly entangled values of the societies around him, Abraham expected a reward in the values natural to living existence. The various revelations he heard amounted to “I will make you a great nation. I will make your offspring as numerous as the dust on the ground and the stars in the sky. I will give them a great land, taken from those who sin against me. I will make your name great. I will bless those who bless you, and curse those who curse you. Through you, all the peoples of the earth will be blessed.”
+>
+> The values invoked are significant: multiplication of biological kin, sovereign control of living space, eternal fame, rewards to friends and punishments to enemies, a universal benevolent impact, and harmony with the plans and laws of God and nature. These are things that, unlike slavecoin, have a very hard material existence outside of any particular symbolic social system. They are not the product of moralism, propaganda, or symbol manipulation. They are the fruits and substance of true life and true independence. This is the ball that Abraham kept his eye on in all his dealings." - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
+
+> "There is nothing that can be done for those who have already fallen. Our neighbors that are currently caught in the false value vortex can only be helped on the margin. But for ourselves and the next generation, we have options.
+>
+> Our most important low-hanging fruit is to recognize the problem: most of the values we learn from the institutions around us are fake and exploitative. They do not represent our real interests.
+>
+> The issue isn’t just individual, either. A society overrun with these kinds of false value cults eventually has a very hard time sustaining even its own interests in real terms either. This problem is a symptom and cause of overall decline. No society where even the elites are hopped up on a previous generation’s manipulative propaganda can survive...
+>
+> In contrast to these false values, what we can do is recognize and orient ourselves more rigorously to Abraham’s hard natural values. Are you winning at a biological level? Are you getting more territory at a more sovereign level of control? Are you living rigorously in contact with natural law? Are you working on something that will achieve eternal fame? Are your enemies being cursed and your friends blessed? Does your winning at these things serve any great and higher plan of blessing for all creation and all peoples?" - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
