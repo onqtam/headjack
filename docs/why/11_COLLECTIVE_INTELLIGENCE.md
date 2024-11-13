@@ -21,6 +21,8 @@ Symbiotic intelligence = collective + artificial
 
 > "The brain has hundreds of bugs, which we call [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). But you can classify them as a bunch of fun little bugs and one monster: confirmation bias. It’s the tendency to quickly adopt new information that supports your beliefs and to quickly discount the new information that undermines them. This is among the biggest hindrances to human development, since it’s so hard to correct people’s erroneous beliefs, and so our society carries them forward for ages." - [How to Change Beliefs, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/how-to-change-beliefs#:~:text=The%20brain%20has,forward%20for%20ages.)
 
+> "We cannot imagine our strongly held political ideologies as mere “collections of ad hoc justifications, rationalizations, moralizations, embellishments, and rhetorical tactics designed to advance the interests of ever-shifting political alliances in competition with their rivals.” They don’t feel that way from the inside. But we can easily imagine them as being correct—and not merely correct, but so blindingly obvious that anyone who doesn’t share them must be crazy or evil." - [David Pinsof](https://www.everythingisbullshit.blog/p/imagination-is-bullshit#:~:text=We%20cannot%20imagine%20our,be%20crazy%20or%20evil.)
+
 > "Knowing yourself is the beginning of all wisdom." - [Aristotle](https://www.goodreads.com/quotes/3102-knowing-yourself-is-the-beginning-of-all-wisdom)
 
 > "There is no scientific study more vital to man than the study of his own brain. Our entire view of the universe depends on it." - [Francis Crick](https://www.goodreads.com/quotes/148594-there-is-no-scientific-study-more-vital-to-man-than)
