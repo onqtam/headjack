@@ -422,6 +422,83 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 > Besides, even if we can manage to avoid sending a signal, we still haven’t escaped. The absence of information is still information. Not having an opinion is like having the wrong opinion. Not taking a side is like betraying both sides." - [I Don't Care If You Read This, David Pinsof](https://www.everythingisbullshit.blog/p/i-dont-care-if-you-read-this#:~:text=We%20are%20too,both%20sides.)
 
 
+
+
+> "Here are some of the concepts that govern the day-to-day biology of social status:
+>
+> • Prestige vs. dominance. Joseph Henrich (of WEIRD fame) distinguishes two types of status. Prestige is the kind of status we get from being an impressive human specimen (think Meryl Streep), and it's governed by our 'approach' instincts. Dominance, on the other hand, is the kind of status we get from being able to intimidate others (think Joseph Stalin), and is governed by fear and other 'avoid' instincts. Of course these two types of status aren't mutually exclusive, but they're analytically distinct strategies with different biological expressions.
+>
+> • Fitness displays. In The Mating Mind, Geoffrey Miller argues that many of our most prized, socially-desirable qualities — athleticism, artistic skill, eloquence, intelligence, physical beauty — serve as fitness displays, i.e., advertisements for the quality of our genes. We are attracted, socially and sexually, to people with high skill and beauty, largely because these traits are honest signals of good genes.
+>
+> • Hormones. There are at least two hormones involved in processing social status: testosterone and cortisol. To grossly oversimplify, testosterone is the 'aggression hormone' while cortisol is the 'stress hormone...
+>
+> • Body language...
+>
+> The point I'm trying to make here is that social status is not arbitrary. Instead, it's grounded, very concretely, in the biology of honest signals — and as such, it's subject to very real constraints. Wild swings of status are possible, but they're mostly the stuff of stories. Our daily lives are governed by much smaller — and more predictable — gains and losses.
+>
+> SOCIOLOGY: KEEPING (AND COOKING) THE BOOKS
+>
+> Ultimately, status lives in the minds (and bodies) of all the humans within a given community — by which I mean, primarily, other people's minds and bodies. You might maintain a sense of your own status, but it's not really up to you. Status is fundamentally about how others perceive and interact with you (and what they allow you to get away with). It's like keeping a checkbook — you might maintain your own ledger for planning and making decisions, but the official balance lies with the bank. There are many ways to define status, but as a working definition let's take status to be "the total amount of social influence a person has over the other members of his or her community." There's a lot to unpack from this definition. Here are some of the more interesting implications:
+>
+> • Status is defined with respect to a community. This accords with how we reason about status in the real world. You don't have one canonical status for all occasions. You might have relatively low status in your workplace but high status at your church, with hardly any cognitive dissonance on the part of everyone involved.
+>
+> • Status is zero-sum (to a first approximation). There's only a fixed amount of influence to go around. Some have squirmed to dodge this conclusion, but let's just bite the bullet and be done with it. If nothing else, this should motivate our discussion of status as an economic good.
+>
+> • Status is not a positional good. It's sometimes argued (e.g. on Wikipedia) that status doesn't have a cardinal value — only ordinal (rank) values. According to this view, status is synonymous with your relative position on the totem pole — but I don't think this is correct. You can be the highest-status member of your community by a wide or narrow margin, depending on how much influence you have. There are 'distances' involved, not just relative positions. Geert Hofstede's power distance index is an illustration of the cardinal nature of status. Status is a value that summarizes a very high-dimensional quality. The underlying reality is the set of all pairwise influence values (A's influence over B, A's influence over C, etc.). These values can be averaged or summed (which is how we typically think of status), but they also have a variance, a kurtosis, etc. To complicate things even further, we might consider treating status as the weighted sum of all the pairwise influences — weighted (perhaps perversely) by the status of each of the people being influenced. Additionally, some influences aren't pairwise at all — you can have influence over an entire group, even without having much influence over any of the members in isolation. I don't think it changes much of the analysis here, but it's useful to know that we're dealing in approximations.
+>
+> • Status is (in part) a knowledge problem. Your status is based not just on how people react to you, but also on how people think everyone else will react to you. This gives rise to all manner of higher-order effects: common knowledge issues, perception management, manipulation of consensus reality, etc.
+>
+> Because of these higher-order effects, status is most reliably measured in public. We tweak our private estimates during every pairwise interaction, but reconcile those estimates during interactions that take place in front of larger audiences — because that's where we can observe the reactions of everyone else. This explains some of our desire to watch speeches, movies, events, etc. in large crowds, despite the convenience of watching from a screen at home. Large crowds can be manipulated, of course, but the very manipulation is itself an honest signal of influence.
+>
+> BASIC STATUS TRANSACTIONS
+>
+> Now we get to the really interesting stuff: the economic properties of social status. Let's start with transactions, since they form the basis of an economy. Status is part of our system for competing over scarce resources, so it should be no surprise that it participates in so many of our daily transactions. Some examples:
+>
+> • We trade status for favors (and vice versa). This is so common you might not even realize it, but even the simple act of saying "please" and "thank you" accords a nominal amount of status to the person doing the favor. The fact that status is at stake in these transactions becomes clear when the pleasantries are withheld, which we often interpret as an insult (i.e., a threat to our status).
+>
+> • An apology is a ritual lowering of one's status to compensate for a (real or perceived) affront. As with gratitude, withholding an apology is perceived as an insult.
+>
+> • We trade status for information (and vice versa). This is one component of "powertalk," as illustrated in the Gervais Principle series.
+>
+> • We trade status for sex (and vice versa), which often goes by the name "seduction." Sometimes even the institution of marriage functions as a sex-forstatus transaction. Dowries illustrate this principle by working against it — they reinforce class/caste systems by making it harder for high-status men to marry low-status women.
+>
+> • We reward employees in the form of institutionalized status (titles, promotions, parking spots), which trade off against salary as a form of compensation.
+>
+> • We can turn money into status by means of conspicuous consumption, or status into money by means of endorsement (i.e., being paid to lend status to an endeavor).
+>
+> None of these transactions is perfectly clean, and most of them are impossible to audit (arguably a feature rather than a bug, for some transactions). Paying with status is much murkier than paying with dollars, and it's easy to get something other than what you expected. But don't let the uncertainty or the potential for cheating distract you. There are real gains to be had from these kinds of trades — so, as humans always do, we find a way. Our emotions, for example, often tell us when we've been cheated in a status transaction, even if it's hard to articulate exactly how.
+>
+> In addition to participating in direct, X-for-Y trades like the above, status also functions as collateral or "table stakes." (We often call this type of status "reputation.") In many ways, a favor is like a loan (of time, energy, or some other resource) collateralized by the status of the borrower. It's a weird kind of collateral, since it can't be transfered to the creditor if the borrower defaults. But the borrower's status can be destroyed or ruined, which provides incentive enough for most purposes. The bigger the favor, of course, the more status needs to be put up as collateral. This explains why it's hard for a lowstatus person to ask a high-status person for a favor, but easy for a high-status person to make the request.
+>
+> "Bidding for status" is another activity with economic characteristics. The nature of a bid is that it sets a particular 'price' that can be accepted or rejected. Robin Hanson suspects that speaking in public is a way of bidding for status. The very act of standing in front of a group and speaking authoritatively represents a claim to relatively high status. If you speak on behalf of the group — i.e., making statements that summarize the group's position or commit the group to a course of action — then you're claiming even higher status. These bids can either be accepted by the group (if they show approval or rapt attention, and let you continue to speak) or rejected (if they show disapproval, interrupt you, ignore you, or boo you off stage).
+>
+> 
+
+
+" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+> "" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+> "" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+> "" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+> "" - [The Economics of Social Status, by Kevin Simler]()
+
+> "" - [The Economics of Social Status, by Kevin Simler]()
+
+> "" - [The Economics of Social Status, by Kevin Simler]()
+
+> "" - [The Economics of Social Status, by Kevin Simler]()
+
+
+
+
+
+
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Reverse panopticon & Truth as a schelling point
 ██████████████████████████████████████████████████████████████████

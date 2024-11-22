@@ -668,6 +668,8 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
+== regarding the quotes below: Dan Ariely probably has committed scientific fraud, even if these quotes make sense and are probably true - evaluate if I want them in here
+
 > "Standard economics assumes that we are rational... But, as the results presented in this book (and others) show, we are far less rational in our decision making... Our irrational behaviors are neither random nor senseless- they are systematic and predictable. We all make the same types of mistakes over and over, because of the basic wiring of our brains." - [Dan Ariely](https://www.goodreads.com/quotes/791943-standard-economics-assumes-that-we-are-rational-but-as-the)
 
 > "Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but often more effective as well." - [Dan Ariely](https://www.goodreads.com/quotes/6801932-money-as-it-turns-out-is-very-often-the-most)
@@ -685,6 +687,9 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 > "One of the big lessons from behavioral economics is that we make decisions as a function of the environment that we're in." - [Dan Ariely](https://www.azquotes.com/quote/1481313)
 
 > "The most difficult thing is to recognize that sometimes we too are blinded by our own incentives. Because we don’t see how our conflicts of interest work on us." - [Dan Ariely](https://www.azquotes.com/quote/733215)
+
+== ^^ Dan Ariely probably has committed scientific fraud, even if these quotes make sense and are probably true - evaluate if I want them in here
+
 
 
 
@@ -1299,16 +1304,6 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
 
 > "" - []()
 

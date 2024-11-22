@@ -1886,8 +1886,31 @@ First is the problem of recognizing that you’re in a non-zero-sum game. How ma
 
 
 
+> "" - [Democracy Is Self-Government, by Harold W. Percival](https://www.goodreads.com/book/show/3930193-democracy-is-self-government)
+
+> "" - [Democracy Is Self-Government, by Harold W. Percival](https://www.goodreads.com/book/show/3930193-democracy-is-self-government)
+
+> "" - [Democracy Is Self-Government, by Harold W. Percival](https://www.goodreads.com/book/show/3930193-democracy-is-self-government)
+
+> "" - [Democracy Is Self-Government, by Harold W. Percival](https://www.goodreads.com/book/show/3930193-democracy-is-self-government)
+
+> "" - [Democracy Is Self-Government, by Harold W. Percival](https://www.goodreads.com/book/show/3930193-democracy-is-self-government)
 
 
+
+
+
+> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+
+> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+
+> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+
+> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+
+> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+
+> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 
 
 
