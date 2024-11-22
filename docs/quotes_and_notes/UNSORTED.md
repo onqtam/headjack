@@ -4918,6 +4918,50 @@ What if we participated in the conscious collective crowdsourcing of TV, myths, 
 
 
 
+The large idea collider
+
+The meaning of life is to propagate it
+
+How do we remove certain evolutionary niches of degeneracy and lack of values? How do we culturally short braindead stuff thats just there for mindless entertainment? How do we add a social cost to that?
+
+How do we add incentives and disincentives that aren’t dependent on the legislature?
+
+Here is why travel is good when done right - why everyone should have a right to visit other cultures
+
+Private sufficiency and public luxury
+
+A new economic sphere that eliminates inefficiencies such as marketing, finance, rent-seeking and others
+Minimizing the cost of retraining and transition, achieving the biggest economies of scale, the highest trust and synergy, extinguishing friction
+
+We have this all or nothing mindset and resort to the state and law enforcement for so many problems when we could culturally regulate with so much more nuance
+
+What if we valued things in a new monetary paradigm such that there was no such thing as liquidity and therefore no liquidity crisis?
+
+We must co-create the meaning of life - define it and manifest it
+
+We must make transparency pay
+
+We can derive morality and then assign a valence to everything in the world according to our judgement of it is
+
+If someone understands the mechanics and logics of the system then they’d easily trust most of it by default and have a better level of degree of certainty/conviction
+We need to crowdsource the search for competence and also the reward fund for the winners weighted by contribution
+
+Reading this book constitutes initiation into the parallel society
+
+We need to vote on mechanisms - not people
+
+This is the highest leverage anyone could find
+
+You can speculate on the future evaluation of the level of importance of any one matter - what if proper prioritisation pays? Specialising in evaluation/prioritisation/RR
+
+Existence 2.0
+
+The answer has always been about the most read book
+The only game in town has always been what’s the #1 book
+
+
+
+
 > "Plurality-inspired mechanism design: there is a set of principled mathematical techniques by which you can design social, political and economic mechanisms that treat not just individuals, but also connections between individuals as a first-class object. Doing this can create newer forms of markets and democracy that solve common problems in markets and democracy today, particularly around bridging tribal divides and polarization." - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/08/21/plurality.html#:~:text=Plurality%2Dinspired%20mechanism,divides%20and%20polarization.)
 
 > "" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin]()
