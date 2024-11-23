@@ -970,8 +970,13 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 > "We need to put serious effort into not only discovering truth, but also spreading it. Society doesn’t progress from ignorance to wisdom in a straight line — the truth needs to be sold." - [The Marketplace of Ideas is Rigged, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-marketplace-of-ideas-is-rigged#:~:text=We%20need%20to%20put%20serious%20effort%20into%20not%20only%20discovering%20truth%2C%20but%20also%20spreading%20it.%20Society%20doesn%E2%80%99t%20progress%20from%20ignorance%20to%20wisdom%20in%20a%20straight%20line%20%E2%80%94%20the%20truth%20needs%20to%20be%20sold.)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Transition
+# SECTION: Transition / Exodus
 ██████████████████████████████████████████████████████████████████
+
+The Exodus
+https://cdn.jns.org/uploads/2020/04/Moses-and-the-Exodus-880x495.jpg
+Tune in drop out
+https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 meme: Dad - what did you do - fucking legend - I helped revitalize civilization and make it multi-planetary
 
@@ -1381,12 +1386,6 @@ https://www.goodreads.com/quotes/9627737-the-first-gulp-from-the-glass-of-natura
 
 
 Why do we have pets?
-
-The Exodus
-https://cdn.jns.org/uploads/2020/04/Moses-and-the-Exodus-880x495.jpg
-Tune in drop out
-https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
-
 
 
 > "To me, the name “God” is an amazing name for all the dreams of humanity projected into one point. What would you name that? You would name it God. And that is what we need to do, to retake the “God” word but just give God proper qualities that we can actually believe in." - [Alexander Bard](https://en.wikipedia.org/wiki/Syntheism#:~:text=To%20me%2C%20the%20name%20%E2%80%9CGod%E2%80%9D%20is%20an%20amazing%20name%20for%20all%20the%20dreams%20of%20humanity%20projected%20into%20one%20point.%20What%20would%20you%20name%20that%3F%20You%20would%20name%20it%20God.%20And%20that%20is%20what%20we%20need%20to%20do%2C%20to%20retake%20the%20%E2%80%9CGod%E2%80%9D%20word%20but%20just%20give%20God%20proper%20qualities%20that%20we%20can%20actually%20believe%20in.)
