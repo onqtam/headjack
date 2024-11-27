@@ -470,26 +470,15 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 >
 > In addition to participating in direct, X-for-Y trades like the above, status also functions as collateral or "table stakes." (We often call this type of status "reputation.") In many ways, a favor is like a loan (of time, energy, or some other resource) collateralized by the status of the borrower. It's a weird kind of collateral, since it can't be transfered to the creditor if the borrower defaults. But the borrower's status can be destroyed or ruined, which provides incentive enough for most purposes. The bigger the favor, of course, the more status needs to be put up as collateral. This explains why it's hard for a lowstatus person to ask a high-status person for a favor, but easy for a high-status person to make the request.
 >
-> "Bidding for status" is another activity with economic characteristics. The nature of a bid is that it sets a particular 'price' that can be accepted or rejected. Robin Hanson suspects that speaking in public is a way of bidding for status. The very act of standing in front of a group and speaking authoritatively represents a claim to relatively high status. If you speak on behalf of the group — i.e., making statements that summarize the group's position or commit the group to a course of action — then you're claiming even higher status. These bids can either be accepted by the group (if they show approval or rapt attention, and let you continue to speak) or rejected (if they show disapproval, interrupt you, ignore you, or boo you off stage).
->
-> 
+> "Bidding for status" is another activity with economic characteristics. The nature of a bid is that it sets a particular 'price' that can be accepted or rejected. Robin Hanson suspects that speaking in public is a way of bidding for status. The very act of standing in front of a group and speaking authoritatively represents a claim to relatively high status. If you speak on behalf of the group — i.e., making statements that summarize the group's position or commit the group to a course of action — then you're claiming even higher status. These bids can either be accepted by the group (if they show approval or rapt attention, and let you continue to speak) or rejected (if they show disapproval, interrupt you, ignore you, or boo you off stage)." - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
 
+^^ TODO: continue where this quote leaves off
 
-" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
 
-> "" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+> "" - [Contra Simler on Prestige, by Scott Alexander](https://slatestarcodex.com/2015/10/21/contra-simler-on-prestige/)
 
-> "" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
-
-> "" - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
-
-> "" - [The Economics of Social Status, by Kevin Simler]()
+> "" - [Social Status II: Cults and Loyalty, by Kevin Simler](https://meltingasphalt.com/social-status-ii-cults-and-loyalty/)
 
 
 
