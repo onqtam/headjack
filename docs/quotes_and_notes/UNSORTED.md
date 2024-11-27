@@ -4961,6 +4961,8 @@ The only game in town has always been what’s the #1 book
 
 
 
+> "For every outside there is an inside and for every inside there is an outside, and although they are different, they go together." - [Alan Watts](https://www.goodreads.com/quotes/59836-really-the-fundamental-ultimate-mystery----the-only-thing-you)
+
 
 > "Plurality-inspired mechanism design: there is a set of principled mathematical techniques by which you can design social, political and economic mechanisms that treat not just individuals, but also connections between individuals as a first-class object. Doing this can create newer forms of markets and democracy that solve common problems in markets and democracy today, particularly around bridging tribal divides and polarization." - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/08/21/plurality.html#:~:text=Plurality%2Dinspired%20mechanism,divides%20and%20polarization.)
 
