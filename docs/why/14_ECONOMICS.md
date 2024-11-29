@@ -534,6 +534,10 @@ we can tax industries through stigma alone - limiting their market
 
 
 
+> "Our financial institutions, which used to exist to channel savings into real investments, are now out-of-control beasts that dominate the economy. In 1960, the financial sector represented about 15 percent of corporate profits. By 2006, it was 41 percent. After a brief fall, it’s back up again to around 38 percent." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=Our%20financial%20institutions,around%2038%20percent.)
+
+> "We need to design a financial system that is an enabler for useful work, not an end in itself. When finance becomes an end and not a means, as it is today, the system is in trouble and the resultant society will be unjust." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=we%20need%20to%20design%20a%20financial%20system%20that%20is%20an%20enabler%20for%20useful%20work%2C%20not%20an%20end%20in%20itself.%20When%20finance%20becomes%20an%20end%20and%20not%20a%20means%2C%20as%20it%20is%20today%2C%20the%20system%20is%20in%20trouble%20and%20the%20resultant%20society%20will%20be%20unjust.)
+
 
 > "When asked why his bank was so profitable in the face of a sluggish American recovery, he replied: “The people of Goldman Sachs are among the most productive in the world.”
 >

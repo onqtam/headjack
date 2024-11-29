@@ -4960,6 +4960,37 @@ The answer has always been about the most read book
 The only game in town has always been what’s the #1 book
 
 
+If you hear of a system that reliably can deliver the best memes for anything - the best source of justification - wouldn’t you want to use that system and join it?
+The opt-in property rights regime - a new competitive landscape for property law
+
+The surest way to make our kids prosperous is to make them most cooperative with other cooperative individuals - help build their religion
+
+Hoq do we optimally install the rught algorithms in people - the most beneficial and important memes in terms of the self-govering mechanisms?
+How do we crowdsource the best memes?
+
+We must sort our memes
+
+Collective relevance realization
+
+How do we best make the most capable, energetic, healthy, intelligent and happy people possible as a system?
+
+How do we make our kids less envious? Less selfish? More intelligent? How do we program/infuse virtue into society?
+Making addictive products isnt virtuous
+
+What is the ultimate attention allocation system?
+
+We can EveOnlinify the whole economy
+
+Participatory game design
+
+The real human potential
+
+Use this open source stack of civilizational tools and u’ll be able to trade with us with 0% taxes and u get a guaranteed market and mindshare
+
+Submission to the rules of your choice - choose your own bondage - bondage/constraints as a service
+
+The more we move away from biased ape/identity-based decisions and towards impartial mechanism design - the better
+
 
 > "For every outside there is an inside and for every inside there is an outside, and although they are different, they go together." - [Alan Watts](https://www.goodreads.com/quotes/59836-really-the-fundamental-ultimate-mystery----the-only-thing-you)
 
