@@ -4992,6 +4992,9 @@ Submission to the rules of your choice - choose your own bondage - bondage/const
 The more we move away from biased ape/identity-based decisions and towards impartial mechanism design - the better
 
 
+> "In our infinite ignorance we are all equal." - [Karl Popper](https://www.goodreads.com/quotes/640011-while-differing-widely-in-the-various-little-bits-we-know)
+
+
 > "For every outside there is an inside and for every inside there is an outside, and although they are different, they go together." - [Alan Watts](https://www.goodreads.com/quotes/59836-really-the-fundamental-ultimate-mystery----the-only-thing-you)
 
 

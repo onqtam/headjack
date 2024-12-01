@@ -603,6 +603,8 @@ Just like life, the internet also evolved blindly and unconsciously - gradient d
 
 > "The Protopian believes that the games of life are real and just as hurtful as we experience them, but that they have been changed throughout history, they can be changed again, and they very likely will be at one time or another. The Protopian believes in [Game Change](https://metamoderna.org/game-change-yes-please/) and what I have formerly called “relative utopia” — if slavery did end and democracy did prevail, why shouldn’t corresponding leaps be possible in the future?" - [What’s The Difference between Utopia, Eutopia and Protopia?, by Hanzi Freinacht](https://metamoderna.org/whats-the-difference-between-utopia-eutopia-and-protopia/#:~:text=The%20Protopian%20believes%20that%20the,be%20possible%20in%20the%20future%3F)
 
+> "A map of the world that does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing. And when Humanity lands there, it looks out, and, seeing a better country, sets sail. Progress is the realisation of Utopias." - [Oscar Wilde](https://www.goodreads.com/quotes/150705-a-map-of-the-world-that-does-not-include-utopia)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Reducing or improving bureaucracy through culture, norms, automation & collective intelligence
 ██████████████████████████████████████████████████████████████████
@@ -1666,4 +1668,6 @@ The Egyptians built pyramids out of stone that have lasted for (decades of) mill
 
 This is a fight for conscious life itself
 The fight of our lives
+
+> "Sometimes inevitabilities sail through the stormy seas of human opinion." - [Bryan Johnson](https://x.com/bryan_johnson/status/1645243315670089728)
 
