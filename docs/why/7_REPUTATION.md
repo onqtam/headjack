@@ -670,6 +670,11 @@ Problems with democracy and voters:
 > "Voters have punished incumbents for droughts and shark attacks and rewarded them for recent sports victories. Caplan dismisses retrospective voting, quoting a pair of scholars who call it “no more rational than killing the pharaoh when the Nile does not flood.”" - [The Case Against Democracy](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=voters%20have%20punished%20incumbents%20for%20droughts%20and%20shark%20attacks%20and%20rewarded%20them%20for%20recent%20sports%20victories.%20Caplan%20dismisses%20retrospective%20voting%2C%20quoting%20a%20pair%20of%20scholars%20who%20call%20it%20%E2%80%9Cno%20more%20rational%20than%20killing%20the%20pharaoh%20when%20the%20Nile%20does%20not%20flood.%E2%80%9D)
 
 
+
+> "Many scholars argue that retrospective votingis a powerful information shortcut that offsets widespread voter ignorance. Even deeply ignorant voters, it is claimed, can effectively punish incumbents for bad performance and reward them if things go well. But if voters’ understanding of which officials are responsible for which outcomes is systematically biased, retrospective voting becomes an independent source of political failure rather than a cure for it. We design and administer a new survey of the general public and political experts to test for such biases. Our analysis reveals frequent, large, robust biases in voter attributions of responsibility for a variety of political actors and outcomes with a tendency for the public to overestimate influence, although important examples of underestimation also exist." - [Systematically Biased Beliefs about Political Influence: Evidence from the Perceptions of Political Influence on Policy Outcomes Survey](https://econfaculty.gmu.edu/bcaplan/politicalinfluence.pdf)
+
+
+
 > "The reward for being a good problem solver is to be heaped with more and more difficult problems to solve." - [R. Buckminster Fuller](https://www.azquotes.com/quote/943600)
 
 

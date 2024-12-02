@@ -521,6 +521,15 @@ John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
 
 > "All progress, both theoretical and practical, has resulted from a single human activity: the quest for what I call good explanations. Though this quest is uniquely human, its effectiveness is also a fundamental fact about reality at the most impersonal, cosmic level – namely that it conforms to universal laws of nature that are indeed good explanations. This simple relationship between the cosmic and the human is a hint of a central role of people in the cosmic scheme of things." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
 
+> "The Enlightenment is the moment at which explanatory knowledge is beginning to assume its soon-to-be-normal role as the most important determinant of physical events. At least it could be: we had better remember that what we are attempting – the sustained creation of knowledge – has never worked before. Indeed, everything that we shall ever try to achieve from now on will never have worked before. We have, so far, been transformed from the victims (and enforcers) of an eternal status quo into the mainly passive recipients of the benefits of relatively rapid innovation in a bumpy transition period. We now have to accept, and rejoice in bringing about, our next transformation: to active agents of progress in the emerging rational society – and universe." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+> "" - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+
+
 
 
 
