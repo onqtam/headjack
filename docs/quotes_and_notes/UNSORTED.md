@@ -4992,6 +4992,11 @@ Submission to the rules of your choice - choose your own bondage - bondage/const
 The more we move away from biased ape/identity-based decisions and towards impartial mechanism design - the better
 
 
+How do we make individuals thrive mostly in service to the collective?
+
+We must reward the best predictors also based on how well they train others to be good predictors as well
+
+
 > "In our infinite ignorance we are all equal." - [Karl Popper](https://www.goodreads.com/quotes/640011-while-differing-widely-in-the-various-little-bits-we-know)
 
 
