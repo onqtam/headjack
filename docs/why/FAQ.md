@@ -2,7 +2,7 @@
 
 ## Is this a revolution?
 
-Yes
+Yes, but a peaceful one - entirely opt-in.
 
 ## Is this a religion?
 

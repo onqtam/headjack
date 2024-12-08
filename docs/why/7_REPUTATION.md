@@ -675,6 +675,9 @@ Problems with democracy and voters:
 
 
 
+> "Academia's intellectual authority is in free-fall. The natural heir is the subculture of online intellectual weirdoes, which long since took over academia's load-bearing epistemic functions. The biggest missing piece is a way of making the turboautists' judgments legible to wider society, so they can recognize who to defer to on which subjects. If this is solved, most of the rest will fall naturally into place." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1863669335396401224)
+
+
 > "The reward for being a good problem solver is to be heaped with more and more difficult problems to solve." - [R. Buckminster Fuller](https://www.azquotes.com/quote/943600)
 
 

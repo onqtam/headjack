@@ -390,6 +390,43 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 > "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
 
 
+> "Many of these environmental solutions are considered “uneconomic”, but that is because the economics have been figured only for the most short-term and close-in links of the chains. If we calculated the effects on the whole system, we’d see that the wages of environmental sin may be deadly, but the wages of environmental good sense can be enormous." - [Problems are Interconnected — And so are Solutions, by Donella Meadows](https://donellameadows.org/archives/problems-are-interconnected-and-so-are-solutions/#:~:text=Many%20of%20these,can%20be%20enormous.)
+
+> "Are there indeed thresholds below which ecological assaults are tolerable, above which they are not? If there are thresholds, where are they, and most important, what are the signs of their approach? How resilient, really, are ecosystems? At what point does destruction become irreversible? Is irreversibility an off- on state, or a continuum of increasing time to repair damage? To what extent are the small cogwheels of specific ecosystems tied to the great flywheels of geochemical cycles?" - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=Are%20there%20indeed,of%20geochemical%20cycles%3F)
+
+> "Society forms itself around the things that are said over and over. Our society says things such as: economic growth is necessary and good; if someone profits from an activity, it ought to be done; nature only has value when it is exploited; we can’t afford the luxury of cleaning up pollution; new technologies will come along and solve all our problems." - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=Society%20forms%20itself,all%20our%20problems.)
+
+> "... some good news mixed in with the bad can be tremendously invigorating. It can communicate all the basic lessons about how ecosystems work, while simultaneously giving people positive ideas of how to act and what to do. People are more responsive to new ideas when they are challenged by example, rather than loaded with guilt. People aiming toward a positive vision have a better idea of where to go than people fleeing from a possible disaster." - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=some%20good%20news,a%20possible%20disaster.)
+
+> "We all know that caring is the heart of the issue. But how do we create caring? Or where it already exists but is dormant, how do we awaken it? Some clues can come from examining where your own caring came from.
+>
+> ...
+>
+> I conclude that people have to know nature – preferably through direct experience – in order to love and protect nature. We ought to get kids, especially city kids, out into natural areas as much as possible, in every part of the world.
+>
+> There are undoubtedly other keys to caring, which you may find in your own experience. I assume that in fact a deep identity with nature is inherent in the human species. One has only to watch a child react to a flower or an animal to get that impression. But caring can get covered over with concepts and rationalizations and social and economic pressures, and it must be uncovered, reawakened.
+>
+> We are sometimes advised to capture people’s interest by speaking of matters about which they have been conditioned to care – economic matters. We are asked to explain why, in economic terms, biota should be preserved. I think we can easily meet that challenge. Nearly every straight economic analysis that takes into account the whole system with all externalities shows the enormous value of the biota. We should speak that economic language, do those calculations, and play that game – we can win it." - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=We%20all%20know,can%20win%20it.)
+
+> "" - [Dancing With Systems, by Donella Meadows]()
+
+> "" - [Dancing With Systems, by Donella Meadows]()
+
+> "" - [Dancing With Systems, by Donella Meadows]()
+
+> "" - [Dancing With Systems, by Donella Meadows]()
+
+> "" - [Dancing With Systems, by Donella Meadows]()
+
+
+
+
+> "Engagement-farming is rent-seeking in the attention/information economy. It is polluting @X because it pays. We’d be wise to systematically penalize it so it doesn’t spread and evolve." - [Bret Weinstein](https://x.com/BretWeinstein/status/1864008116960129516)
+
+
+
+> "1.4 million American women do OnlyFans" - [World of Statistics](https://x.com/stats_feed/status/1863789883149422618)
+
 
 
 > "The task of universal pragmatics is to identify and reconstruct universal conditions of possible mutual understanding." - [Jürgen Habermas](https://www.azquotes.com/quote/1108143)

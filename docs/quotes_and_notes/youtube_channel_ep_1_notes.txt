@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+
+- recap of my talk from 1 year ago in a more freeform way and without the rush - easier to listen to
+- foundation for future EPs
+- no blockchain technicalities today (in future EP)
+
+
+
+- UX of web2, no practical scalability limitations, u fully own your identity (sovereign)
+
+- single social graph
+    - can build any functionality/social app on top of it
+    - open ecosystem, anyone can extend
+    - no API wall guarding
+    - no predatory lock-in - facebook/messenger separation but not for instagram
+
+- any type of signal/event - not just like/post/comment
+    - structured data - enables easy aggregation without ambiguity
+
+- fine-grained subscriptions - event type / app source / custom filter
+
+- many custom feeds with different feed algos
+
+- liquid democracy
+    - direct vs representative
+
+- public/private events, following settings/algo choices
+
+- events vs state, multiperspectival, forking, competing views
+    - how and which
+        - votes to count
+        - content to show
+
+- deduplicating any concept/event/entity - like wikipedia pages or questions in SO/Quora
+    - by humans & by algos
+    - 1 unique identifier, many opinions attached to it
+
+- debate maps for any question/argument - quora/SO
+
+- fact databases
+
+- RR/ranking/sorting
+    - top 10/100 lists
+    - aggregating the results (the top10 concerns list is unique/deduplicated and the concerns themselves are unique/deduplicated)
+
+- query "everything relating to this" & filter the result set
+    - I want just comments by PhDs in economics from X university
+    - just opinions of certified doctors (can also be anonymous yet provable certification)
+    - templates for positional scarcity when viewing X - what is most relevant
+        - competing templates, can inherit templates from who u follow in a liquid-democracy style
+
+- reputation - not just 1 number (follower count) but for any aspect - compartmentalized
+    - democratic rules for how it is calculated
+        - subjective objectivity
+    - can stack/compose complex rulesets for calculating it
+    - fork/branch off the rules for how reputation is determined if u want to
+
+- why reputation?
+    - leaderboards
+    - higher voting power in a given domain
+    - boost post visibility in algo feeds
+    - monetary reward from common pool of funds
+
+- collectives ranking brands/companies & using positional scarcity - democratic competing "ESG-like" scores
+    - open more patents and data and internal documents/processes
+    - don't engage in planned obsolescense
+    - fix your cobalt supply chain
+    - pay the open source projects you're using (multi-trillion dollar companies not paying a dime for many OSS they rely on - common tragedy of the commons)
+    - reward: boost post visibility in algo feeds & reduced marketing spend
+
+
+
+
+
+
+
+
+
