@@ -1,6 +1,9 @@
 
 
 
+Identity, networking, signals, reputation, incentives, relevance & voting - EP #1
+
+
 
 
 
@@ -76,7 +79,7 @@
 
 
 
-
+- will keep track of what's been discussed so far and fill the gaps in the future and make things more clear
 
 
 

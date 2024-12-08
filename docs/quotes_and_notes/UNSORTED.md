@@ -5034,6 +5034,76 @@ How do we make individuals thrive mostly in service to the collective?
 We must reward the best predictors also based on how well they train others to be good predictors as well
 
 
+I want to express how other people should behave and what to strive for
+
+How do we enable others to raise the best possible children?
+
+How do we collectively co-create our lineage?
+
+How do we express what we want it all to mean?
+
+We glorify mediocrity because we as a society are uncapable of greatness with our current culture
+
+“I vow to not take above the minimum we’ve determined that everyone must have access to until we meet the needs of all - and then unlock the next tranche of wealth inequality. Stepwise raising of the style of living for everyone in a contractually binding way
+
+Why it must make sense to help others - what’s the ling term logic behind it - the community insurance policy with optimal morality and efficiency
+
+The more scientists and enginners we can produce - the more we will be able to
+
+The largest collective will determine the largest currency
+
+How fi we create the ultimate story? The one that is most competent and fair and desired by the most possible people?
+
+The consciousness guide to the galaxy
+
+What must everybody read and understand? What is the most important set of memes and what is their most compressed yet comprehensible form?
+
+We must form the biggest collective and start gradually taking control over the funding of armies and weapons manufacturing - if we wield the biggest currency we will define the world - the biggest collective gets to set the rules.
+
+We must collectively create global governance
+
+One of the biggest global level failings of Science as an institution is that it has not recognized John Stewart’s ideas for the insight and relevance that they hold
+
+Our market for ideas is broken - the wrong/broken stuff often gets to win - we must properly rank the importance of ideas, of institutions, of services and products.
+Science has settled for mere mediocrity, cowardice and nihilism.
+
+What if pervasive antibiotics causes autism? We are a decrepid civilization for allowing the mass health to worsen so much by our own collective produce - we manufacture misalignment - externalising harms is the greatest collective unconscious ain
+
+We must all become the channel for this new idea to be retransmitted to others
+
+Consuming more than the standard that your society wishes to give to everyone else out of respect and love - consuming more than that is a sin.
+
+We can/must make functional minimalism truly fashionable
+
+We have an economy in which there are so many dumb jobs
+
+Can this be funded like star citizen?
+
+The evolution of property rights
+
+The precision of our biological clock across trillions of cells is incredible. One never sees someone with an old left arm, but a young right arm.
+Aging can obviously be fixed. The real question is whether it should be.
+https://x.com/elonmusk/status/1645220289586790401
+
+The most cooperative way of being inevitably has to make use of the most advanced infrastructure for cooperation
+
+Universal Basic Blueprint
+
+The only question is: how do we make better and greater people? There is no other ultimate question - everything else is in service to this one
+
+We need to reconceptualize fame
+
+What is humanity’s byzantine tolerant consensus algorithm?
+
+How do we grow/cultivate a better ruling elite?
+
+Consequences should be proportional to the severity/importance of a misjudgement and also factoring conviction
+
+
+
+
+
+
 > "In our infinite ignorance we are all equal." - [Karl Popper](https://www.goodreads.com/quotes/640011-while-differing-widely-in-the-various-little-bits-we-know)
 
 
