@@ -5103,6 +5103,7 @@ Consequences should be proportional to the severity/importance of a misjudgement
 
 
 
+> "Wait… You think you understand reality, but still posit an either / or distinction wrt individualism and collectivism, and can’t see the fractally nested generative tension between individuated autonomy and collective agency that extends back to the origin of life itself?" - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1865672024477327411)
 
 > "In our infinite ignorance we are all equal." - [Karl Popper](https://www.goodreads.com/quotes/640011-while-differing-widely-in-the-various-little-bits-we-know)
 
