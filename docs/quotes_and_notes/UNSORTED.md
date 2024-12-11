@@ -5099,7 +5099,7 @@ How do we grow/cultivate a better ruling elite?
 
 Consequences should be proportional to the severity/importance of a misjudgement and also factoring conviction
 
-
+what if teachers were evaluated not only based on the success of their current class but also on their future performance in the long term, so there's more incentive for the students to actually learn the material in a functional way?
 
 
 
