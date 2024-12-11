@@ -2184,15 +2184,251 @@ concepts thus entail directives.
 >
 > What We Could Do Differently – Limited Companies
 >
-> " - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+> The particular way our corporate laws and many internal rules in large companies are articulated may appear self-evident and logically necessary. However, they are more contingent than they initially appear. Since many companies use the same internal rules to govern their decision-making processes, it is tempting to suggest that they do so out of necessity. But on closer scrutiny, they are often shaped by rather arbitrary historical processes and tend to depend on customs and conventions rather than case-specific considerations. As shareholders, for instance, we usually have the right to exercise our influence once every year. But why exactly should this depend on how many days it takes for the Earth to do a lap around the sun? In some cases, it could actually be preferable to do this more often or make it an on-going process. Just because the merchants in Venice during the Italian Renaissance thought it was appropriate to gather to make decisions each spring does not mean that this should also be the case in all situations today.
+>
+> Our corporate laws have emerged from historical coincidences and particular conditions in the past, but we are actually free to redesign them if we like. Indeed, it would probably be advantageous if we did. In the course of centuries, the legal entity of a limited company that we have today emerged from the needs of balancing the interests of governments, those of the public and that of creating financial security and incentives for investments. Sometimes one of these priorities took primacy, sometimes another. The company has evolved through a number of different societal conditions that it had to be adapted to, from the guild system of the late medieval period, over the mercantilist economy of the colonial era, to the industrial factory economy of the nineteenth century. At every era, changes were made in order to compromise between the interests of the state, civil society and capital owners. During the mercantilist age, a corporation could own slaves and employ troops to occupy large tracts of land in foreign countries. This model was then abandoned during the industrial age, when civil society’s concerns with the liberty of individuals led to the abolition of slavery and the state’s need for security and stability made the government take over the trading corporation’s territorial possessions. Today, a corporation cannot own human beings, employ soldiers or invade foreign countries (we take that for granted, but history teaches us that it could be different), which obviously inhibits the extent of corporate interests over those of others. But it has been a long time since there have been any substantial changes to the way we legally define a company. It is basically the same construct as the one we had in the industrial age, albeit the companies we have today are much larger and sometimes even more powerful than states.
+>
+> ..
+>
+> Another historical coincidence that could have been different is the curious case of legal personhood for companies. That such artificial entities are legally equal to that of natural persons is far from self-evident. In fact, most people tend to be surprised by this circumstance the first time they hear about it. Since it is rather counterintuitive that natural persons are not considered legally above companies, it is thus easy to imagine an alternative historical development where the rights of individuals enjoyed higher protection vis-à-vis companies. If so, this could for instance have led to a higher proportion of cases where courts ruled in favour of individual humans rather than companies. We could also imagine that the legal notion of personhood would have entailed many of the things we expect from individuals, such as good public behaviour, helping others in times of need (it is actually a criminal offence to refuse someone help if their life and safety is in danger) and the obligation to serve one’s country (like that of compulsory military duty). Since companies are not as frail and mortal as we humans and generally have much larger resources at their disposal, such societal obligations could have been adapted to reflect these facts. There could thus be legal requirements for companies to spend a share of their resources on civic duties, such as the maintenance of public infrastructure in their surroundings, making their facilities available for various public activities or providing security measures in case of national emergencies. If capable, companies would thus be legally required to assist if accidents or disasters were to occur, similar to the conduct expected of individual citizens when others are in danger. We could also imagine that companies would be banned from destroying their surplus production and be legally required to donate it to the public, or that they would be obliged to participate in public hearings beyond purely legal matters where they had to listen to the interests of the public.
+>
+> There is also a significant discrepancy between the legal repercussions applying to natural persons and corporate personhoods. If humans break the law they can get a prison sentence with severe personal consequences as a result. If a company breaks the law, it mainly risks financial penalties – which can often be worth it. Even if managers can get prison sentences if they go against the law, the financial incentives of their company can be so great that they are encouraged to take the risk nevertheless – with the prospect of considerable legal assistance from expensive lawyers and support from government officials on the company’s payroll in case they get caught. Since companies have far greater capabilities of circumventing the legal system than natural persons, it is not unreasonable to demand that legislation should attempt to accommodate this fact by setting higher standards for companies and imposing more severe penalties when they break the law. Fines should therefore not be the only repercussion, but also include other punitive measures such as prison sentences for owners and board members overseeing the criminal conduct of managers, revoking the owners’ voting rights for a period and dismissing the current board members in favour of new ones chosen by the court, or perhaps even nationalisation with the purpose of auctioning it to the public.
+>
+> Even when it does not entail any legal violations, individuals are often subject to social repercussions when they behave indecently and fail to comply with the prevailing standards of good behaviour. Given their comparably larger resources, the extent to which companies can misbehave without being penalised is therefore considerably greater. To ensure that companies do not behave in ways that are otherwise considered socially unacceptable, there could thus be institutionalised arenas to scrutinise their societally immoral, but technically legal, actions and various punitive measures to encourage changes in their behaviour. Some of these things do exist in some forms and to varying degrees, but if we were to treat corporate personhoods in ways that paralleled their power, such measures would probably be more comprehensive.
+>
+> I am not advocating that we should necessarily make all of the above changes to the current system, merely that it is possible to imagine that corporate law could have been different if history had taken a different course. Some of these examples could serve as inspiration for improvements.
+>
+> There are, however, some amendments that I believe could provide more efficiency and justice to the current system:
+>
+> 1. Other stakeholders than owners and creditors should be given legal consideration and rights in limited companies. If employees and the local community were given voting rights and representation on the board of directors, the decision-making process would be likely to serve the interests of more people. And if societal concerns were written into corporate law and better balanced in relation to that of the profit motives of creditors and shareholders, the risks of societally important facilities being dismantled or government resorting to bailouts would be smaller. 
+>
+> 2. The introduction of other types of bottom lines beyond the purely financial, for instance a social and an environmental one. If a company has a very negative bottom line in terms of social responsibility and ecological sustainability, it should be subjected to external control and demands for change in the same way a negative financial bottom line does in relation to its creditors. If all companies were expected to present a positive social and ecological bottom line, the companies who emphasise these would not be at a competitive disadvantage in relation to those who do not. 
+>
+> 3. Shareholders should be given greater influence and extended obligations, such as keeping the board accountable for ensuring that production is socially and environmentally sustainable, that the company upholds its ethical codex, and that the company upholds its responsibilities to the local community.  
+>
+> 4. Limited companies’ status of personhood should be restricted and made secondary to that of natural persons. Companies should still be treated as single legal entities, but this should not entail the same rights as those of individual citizens such as the right to influence politics, unrestricted freedom of expression or liberty to always do with their property as they please. Since large companies have overwhelmingly more power than individual citizens, it can endanger our democracy if we give them the same rights. A system in which the rights of natural persons are above those of artificially conceived legal entities could balance out the disproportionate power of corporations in favour of the former.
+>
+> 5. Finally, we should create a number of new legal corporate forms that better encourage social entrepreneurship, sustainability and other purposes than profit alone. The current system primarily favours organisations that are either driven by profit incentives or purely devoted to charity. There is little legal consideration for those in between. But since many of the companies with the greatest prospects of fostering higher social and ecological sustainability are a kind of hybrid organisation, legislation should be adapted to better accommodate their particular needs. Many companies that strictly speaking are not non-profit organisations are still founded on other purpose-driven principles than profit and managed by decision processes, such as sociocracy and holacracy,7 involving more stakeholders than traditional profit-driven companies. Often, they also contain alternative notions of ownership. These kinds of companies currently have very little support in legislation. Changing corporate law in ways that gave such company forms higher legal recognition and protection, made them easier to register and institutionalised their principles could assist the transition to more socially responsible and ecologically sustainable business models.
+>
+> ...
+>
+> What We Could Do Differently – Taxation
+>
+> All economists agree that taxes have negative effects on the efficiency of the market. In my view, it would therefore be better to make the market outcome different at the outset. By doing so, we would also avoid the feeling of something rightfully deserved being taken from us. The reason for the existence of taxation is, of course, that the acquisition of economic assets with military means, basically robbing people, was the only way for the rulers of the past to fill the state coffers. We have merely inherited this system, and the principle is the same: if you don’t pay your taxes, the state’s monopoly on violence will make sure that you do. Yet if we defined the market better from the start, we would not need as extensive a redistribution system as the one we have now. Our Stone Age brains would then not make us feel robbed of something considered honestly earned. It is unwise to go against human psychology, although we may be irrational. So even if it technically does not make much difference whether we receive a large sum to begin with only to pay back a proportion later or whether we receive a smaller sum without the need for further redistribution, in psychological terms it is always preferable to aim for the latter.
+>
+> Income taxation could be replaced by a system in which the state derived its revenue from property rights, for example if all natural resources were considered the shared property of every citizen. All exploitation of natural resources – anything from oil extraction to air pollution – would then incur a fee. A similar system already exists in the US state of Alaska, whose inhabitants are considered the joint owners of the state’s oil resources, receiving an annual dividend accordingly. A similar principle could, if the political will is available, be implemented to encompass all of our limited natural resources. Another source of revenue could be that of fees on copyrights, as previously mentioned.
+>
+> As consumers we could also be charged for our use of natural resources when we purchase physical products and properties. This does in fact exist in most countries in the form of value-added tax (VAT) and yearly property taxes. The advantage of taxing people when they purchase a product is that it does not cause the same psychological penalty as income taxation. If the state derived a larger share of its revenues from VAT on physical products and to a lesser degree from income tax, it would probably make the taxation system more frictionless and thereby increase society’s overall economic efficiency. It could even improve ecological sustainability and increase employment. Higher VAT would entail higher prices on physical products and lower income tax would lower the price on human labour. In this way it could become more cost-efficient to pay people to repair and renovate old products rather than to buy new ones. The environment would benefit greatly and people struggling to find manual employment in our current hi-tech information economy would get new opportunities to make a living. This development could be further encouraged by higher VAT on environmentally damaging products and lower VAT – if any – on services.
+>
+> Higher property tax is another source of income that could compensate for the loss of revenue to the state if we were to abolish income tax. The advantage of taxing property is that it prevents a small number of property owners from enriching themselves at the expense of people with low incomes – who actually pay a form of tax to the owners by paying rent. Higher property tax could thus ensure that a proportion of the property owners’ profits came to serve the greater good. It would also encourage productive labour rather than speculation since the gains of owning real estate would be that much lower. As a result, society would likely become more equal, with fewer people owning a disproportionately large share of all available property, while ambitious people would probably be more inclined towards using their skills and energy on more productive endeavours than speculating in real estate. Since the richest individuals primarily derive their wealth from property and not actual work, higher property tax could compensate for the relative inequality caused by lower income tax and higher VAT.
+>
+> ...
+>
+> Let Us Create a Better Market
+>
+> It is impossible to imagine our current world without the market. The market is the primary engine of production and creativity, and its efficiency is central for our welfare and security. Every day we make political decisions that influence how the market works. These decisions should always be seen in relation to the three crucial aspects of society – efficiency, fairness and meaning – so that we may ask ourselves the following:
+>
+> • Efficiency: are we using the market in the best conceivable way? Is the market the best tool in a particular case, or should we use a different one to better accomplish what we want to do? In simple terms, will the market be able to bake the pie? 
+>
+> • Fairness: what distributive effects will our decisions have? Who will be the winners and who will be the losers? Can we design the rules differently to create fewer losers? How will the market, given these new rules, divide the pie? 
+>
+> • Meaning: what other human values, aside from economic efficiency, do we strive for on a particular issue? Ecological and social sustainability, cultural enrichment, or perhaps existential meaning? And how do we safeguard these values? Will the pie look the way we wish when we take it out of the oven?
+>
+> If our political decisions regarding the market were based on informed discussions about its efficiency at carrying on particular tasks, how to make it generate fairer outcomes and what exactly we want it to accomplish, we would be more likely to create a better-functioning market – decisions based on ideologically inclined convictions of being either for or against the market simply won’t. Although I am critical of the market being allowed to penetrate parts of society where it does not belong, the secular market society still remains the best foundation from which to build a better future society in my view. Even if there is a connection between the market and neoliberal, postmodern emptiness, this does not mean it cannot be used for the good. In fact, it may be one of the most powerful tools at our disposal.
+>
+> A hundred years ago it was much easier to get an overview of the market economy than it is today. In those days it was usually sufficient to think in terms of linearly conceived economic plans where the most important variables were accounted for, and further economic development was more predictable. Central planning functioned fairly well for a time, but during the twentieth century the world became too complex for this to ensure efficiency. The Soviet Union collapsed for the very reason that their linear way of economic thinking no longer worked. The world had become too complex. The market economy has worked better at coordinating this complexity, but recently there have been signs that we are no longer guaranteed that it will organise itself to produce the most desirable outcomes. The economy is growing, albeit slower than before, but new technologies, a vast and uncontrollable global financial market and burgeoning economies in the developing world have made it more difficult to create sufficiently well-considered economic policies. We also need to consider new phenomena such as climate change and the surprising insight that increased GDP does not automatically equal higher levels of satisfaction and continuous social advancement. There are truly more variables to consider in our hypercomplex global information society today than back when we could create a sufficiently accurate overview of the economy from the perspective of the industrial nation-state. As such, we need to increase our capacity to grasp and manage complexity above what we have previously been used to.
+>
+> ...
+>
+> The market as we conceive it today is a myth that worked well in the industrial age. But it remains a social construction that we largely imagine, not an objective fact that could not be different. It is important that we become aware of this fact if we are to change it to better accommodate increasing complexity. In the same way that we could not leave the religious thought perspective behind us before a sufficient number of us started seeing God as a social imaginary that we ourselves had created, a larger proportion of the population in modern society needs to see the market as a similar socially constructed myth if we are to move forwards. When we do that, we can see it as an object for manipulation, rather than blindly experiencing it as an all-encompassing reality that we do not grasp we are mentally embedded in.
+>
+> ... it becomes harder to see the market as the arbitrary human construction it is. It has simply become a natural fact of life. It has become to us as water is to the fish." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 
-> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+> "At the system level we not only think in terms of concrete cause and effect connections, but also in terms of the systems’ overarching properties. To the extent we see the systemic properties responsible for the emergence and persistence of various problems, it becomes obvious that we need to change and redesign the system itself. In regard to the issue of vandalism, it may revolve around things such as ensuring young people feel more respected and valued, strengthening their self-esteem, promoting positive role models, increasing their faith in the future or perhaps even advocating new masculinity norms that encourage pro-social behaviour." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 
-> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+> "If we use this model vis-à-vis an issue such as terrorism and take the attack on Charlie Hebdo in Paris in 2015 as an example, it becomes clear how an all too low complexity level is unable to handle the problem:
+>
+> • At the category level, we only see things such as Islamist terrorists attacking the offices of Charlie Hebdo. The terrorists define themselves as Muslims and the editorial board defines itself as a satire publication. Concretely there is hence a need to protect satire against terrorism and Islam and to force Muslims to accept satire aimed at their religion. The solutions are thus likely to include more security measures and surveillance. 
+>
+> • At the connection level, more variables become visible. There is not just one type of Muslim, there is an Islamist ideology and a peaceful religion, there is a connection between immigration and alienation, there are socioeconomic factors, there is a lack of cultural capital that creates intolerance towards satire, there is resentment towards the West, there is too much testosterone and too little meaningful work for young men, especially if they have an immigrant background, etc. The proposed solutions are therefore greater social community efforts, more education, various integration projects, etc. 
+>
+> • At the system level, we can see several factors and interacting contextual connections at the same time. However, those who carry out the analysis rarely see their own perspectives. The social worker sees how social factors influence each other, but not how psychological aspects also play a role. The psychologist sees how various factors can affect the psyche of young people under certain circumstances and how, based on their age, they cannot handle their rage, but not the significance of religious sentiments. The imam sees how a specific variant of Islam destroys the search for context and meaning inherent in the religion, but does not have the necessary knowledge to understand the interplay of social and psychological factors in this. And so on. Society’s reply is thereby defined by those who get the task, while no one sees the whole picture. Any of these may alleviate the problem to some extent, but the lack of coordination and mutual understanding between different perspectives can make their efforts less efficient and sometimes even futile.
+>
+> • At the perspective level, we attempt to understand the personal perspective of those who react violently and harbour antagonistic feelings towards society. We wonder why a society with so much to offer still creates so much personal and collective anger and so little meaning that young men become terrorists, and accordingly attempt to find out how those factors and perspectives are connected. Our response thus becomes a string of questions that do revolve not only around economic, social and religious issues here and now, but also as intimately connected processes over time. We then try to identify the structural developmental changes needed for young people with immigrant backgrounds to feel hope, meaning and a sense of belongingness in society. The perspective level has a deeper existential understanding of individuals and society – and the history of both. We thus attempt to combine the many informed perspectives on terrorism, religious fundamentalism, social marginalisation and security measures to find the optimal coordination between these to solve the problem.
+>
+> From the discussion above we understand that in a more and more complex world, the ability to understand the world in more complex terms becomes more and more important. The increase in outer complexity in the world will have to be met by an increase in the inner, cognitive complexity of our minds.
+>
+> When we look at psychological research on children’s development, it is evident we humans go through various cognitive stages of development as we mature. Earlier developmental models about our ability to handle complexity usually ended with a stage corresponding to the connection level. However, today we have good reasons to believe this isn’t the final stage of cognitive complexity; that some individuals develop beyond this level during their adult life.
+>
+> Typically adult cognitive development is understood in quantitative terms such as experiences, knowledge, specific competences or abilities and the like, with the basic assumption that the qualitative or transformative cognitive development ground to a halt after the teen years. The focus has been on the content of our consciousness rather than our consciousness’s ability for scope and complexity.
+>
+> But as we shall see in the next chapter, modern developmental psychology of today has shown that we as individuals have great variation in how complex a question or reasoning we can handle at a given age.4 It also proves that our ability to handle complexity is not fully developed at an early adult age, but the ability of our consciousness to handle complexity can continue to develop throughout life.
+>
+> In the same way that it was necessary with a population that could function at a higher complexity level to get our modern society to work, it also seems reasonable to assume that we need a population that has the ability to act from thinking that corresponds to the world’s increasing complexity in the global society of the future.
+>
+> We cannot, however, expect that it will happen in and of itself. The development is rapidly complexifying, and if we do not react quickly, we risk the collapse of our political system as well as the entire biosphere. We only have our Stone Age brain to rely on, so the only solution is – once again – to reshape our symbol world in a way that favours a sustainable development. The big question then becomes how we can create the best frameworks for the development of humanity, so that as many as possible can act from the higher complexity levels needed. How can we make sure that as many as possible reach a level of personal development during the course of life that makes it possible for more people to develop an understanding and feel for the complex problems humanity stands before? The survival of democracy and of our planet depends upon this.
+>
+> ...
+>
+> As a result of the increasing complexity, we have throughout history undergone a number of paradigm shifts in which we started to think differently and see the world and ourselves with new eyes. A paradigm is how we collectively think, rather than what we think...
+>
+> Paradigms are constituted by our thoughts about how the world works and how we should best go about trying to understand it. In philosophical terms, our paradigms are formed by our ontology and our epistemology. Paradigm shifts typically happen when both our ontology and epistemology are altered, and both of these are anchored in our symbol world. This is when our symbol world changes – for example, when a newly dominant thought perspective has prevailed, as a result of technological development or new scientific breakthroughs, such as Darwin’s theory of evolution or new philosophical insights; or when someone creates great art or popular culture that makes us view the world differently.
+>
+> ...
+>
+> If we look at the development of the scientific paradigms that have supplanted each other throughout the ages, the historical trajectory, as we saw in Part 1, looks something like this:
+>
+> 1. During the Renaissance and the Enlightenment both the Bible and Aristotle are questioned, and especially by Newton the mechanistic worldview is developed.
+>
+> 2. With the steam engine, thermodynamics is one shift away from the mechanistic worldview.
+>
+> 3. Einstein develops the theory of relativity but still has a strictly causal view on cause and effect.
+>
+> 4. Bohr and Heisenberg discover quantum mechanics, which holds true at atom-level, where cause and effect according to our usual assumptions are disconnected from each other. Quantum ontology and therein the quantum paradigms that are developed from it break radically with ordinary human experience of the world.
+>
+> 5. With computers it becomes possible to find completely new patterns in data, and from there theories on complexity, networks, chaos and self-organising systems are developed. Complexity theory’s explanation of emergent phenomena allows us to comprehend how life, consciousness and culture have arisen out of matter and we can start to regard ourselves as open systems instead of merely individuals.
+>
+> All these scientific paradigms define not only what we can understand but how. They were and are frameworks for how we can understand our environments, and they were developed because the prevailing paradigm was no longer sufficiently explanatory.
+>
+> Paradigm shifts are scarcely easy to predict, and often arrive with bombastic claims that may require equally incisive evidence. The allergens that guard against charlatanism or simple error in disciplines must, when a justified paradigm shift arrives, be combatted by insurgents who often do the thankless work of questioning fundamental principles. This is in contrast with usual scientific work, which engages well-defined research questions within the given paradigm. Rather than rocking the boat, most researchers add to it, expanding its hull and following the set course that previous revolutionary thinkers laid down. It is only once a critical mass of evidence has been reached, and it has overcome the social struggle of winning over territorially minded and rigorously defensive (for good cause) scientists, that one paradigm can usurp another.
+>
+> ...
+>
+> Our worldview has for some time been so dominated by the rational thought perspective that it is not surprising it faces a backlash from the post-rationalist postmodern thought perspective. Similarly, we should not be shocked if the allergies of members of both camps are sparked by our all too human ability to read what we want to understand, and ascribe the motives we assume our ‘antagonists’ hold. We are replete with biases, and to pretend otherwise is to abscond from our responsibility to hold them in lucid view, so that they can be variously distinguished between the necessary features of our nature as embodied, perspectival agents; and the unnecessary, damaging failures of intersubjectivity that these same predispositions can become." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 
-> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+> "Societal and technological progress may appear as a gradual process, though, and to an extent it certainly is. But from a longer historical perspective it becomes visible that it is often characterised by sudden change and longer periods of stability or stagnation. In evolutionary biology it is widely recognised that major biological changes do not occur through processes of steady piecemeal increases, but through sudden bursts of rapidly evolving complexity. The same dynamic seems to apply to societal development as well. When new levels of societal complexity emerge, it usually does so in accordance with the aforementioned dynamics of sudden chaotic phase transitions.
+>
+> ... Although economic growth has been staggering since the early twentieth century, the fundamental qualitative properties of our current society – market economy, parliamentary institutions, rule of law, etc. – are arguably more or less the same. Our society has changed, but it does not differ as much from that of 100 years ago as that of the early twentieth century differs from the late eighteenth century.
+>
+> Our society has changed dramatically in terms of economic growth, technological progress, population increase and so on during the past 100 years, but the changes that have occurred may only be as different as water at 1° Celsius is from that at 99°. The temperature of water can have significantly different effects on a human body, but the fundamental property of water itself is still the same. It remains a liquid. Similarly, our current society still remains a rationalist, market-liberal democracy. These are its most fundamental properties. Given the many quantitative changes since the early twentieth century such as the ones mentioned above, our society certainly has widely different effects on its inhabitants today. But in itself, it basically behaves in accordance with the same overarching principles and self-organising dynamics as a century ago.
+>
+> However, this may not last very long. For all we know, we might be at a state of 99° and stand before a tipping point at which everything solid melts into air. It has happened before." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 
-> "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+> "Linear ways of thinking that are common today are those such as:
+>
+> • That the job market revolves around giving people jobs. 
+>
+> • That education revolves around giving people the competencies required for them to be able to participate in the job market. 
+>
+> • That people’s competences increase through longer education. 
+>
+> • That the society of the future is more of the same of that which we have today. 
+>
+> • That the decisive environmental issue is a reduction of emissions. 
+>
+> • That poor psychological health in society is primarily contravened through more resources for psychiatric treatment. 
+>
+> • That public health is primarily improved through more resources for health care. 
+>
+> • That crime is primarily fought through more resources for crime fighting. 
+>
+> • That social problems are primarily ameliorated through more resources for social services. 
+>
+> • That injustices are primarily prevented through a redistribution of economic resources. 
+>
+> • That society becomes gender equal through courses in gender equality. 
+>
+> • That gender equality is about a 50/50 distribution between women and men in all spheres of life. 
+>
+> • That culture is primarily enriched through financial support to art, music and theatre. 
+>
+> • That economic growth in itself improves human beings’ living standards through gradual progress. 
+>
+> • That the government and parliament will solve society’s decisive problems. 
+>
+> • That development occurs through free competition on the market. 
+>
+> • That people are first and foremost individuals with specific interests. 
+>
+> • That society constitutes the sum of all individuals. 
+>
+> • That technological development eventually solves all of our problems.
+>
+> Even if some of these linear thoughts can be justified in certain situations, none of them can sufficiently address the fundamental issues we are placed before today. Accordingly, this sort of thinking must be complemented with a more holistic non-linear way of thinking that can handle issues like the above more effectively. The critical problem of linear thinking is that the interrelated, systemic and evolutionary properties of reality make our world develop and behave in non-linear and emergent ways and thus cannot be predicted or fully be accounted for through linear reasoning. Attempting to identify linear cause and effect chains rarely leads us to the source of complex societal problems. Measures derived from linear analysis thus tend to be directed in a straight line against the symptom itself, which can sometimes mitigate the problem for a while, but less often manages to provide a sustainable solution. Often a linear approach to a non-linear problem is counterproductive and such an approach and understanding can even be a part of the original problem.
+>
+> Let us take an example of different levels of complexity thinking in action. Contemporary politics has great difficulties in handling the challenges of multicultural society since politics has not managed to integrate the astonishing diversity of perspectives, identities and norms that prevail in our current society. In other words, there is a lack of complexity in our thinking corresponding to that of our multicultural reality today. In practice, there are currently at least three political ways to tackle the challenges of multiculturalism:
+>
+> 1. Maintaining one ethnic identity at the cost of other identities (to flatten or reduce diversity). To build walls. Primarily to be found in nationalist movements. This thinking corresponds to the category level.
+>
+> 2. Relying on the job market to adjust cultural disagreements (more or less disregarding cultural diversity all together). The mainstream conception of most political parties, from the more traditional branches of the Labour and Democratic parties in the UK and US respectively, their social-liberal equivalents elsewhere, to the majority of most moderate conservatives and libertarians. This thinking corresponds to the connection level.
+>
+> 3. Affirming diversity in all its forms (opining that all cultural communities are equally good, but in spite of this still consider the presence of more different cultures better than fewer). This is typical of the more progressive branches within the Labour and Democratic parties, far-Left parties elsewhere, green parties and feminists. This thinking corresponds to the system level.
+>
+> However, none of the above manages to fully meet the multicultural society’s challenges: The ethnocentric approach of the nationalists cannot successfully integrate people who refuse to be assimilated into the majority culture, the mainstream economic approach cannot alleviate the cultural misunderstandings and conflicts that nevertheless occur even if people have jobs, and neither can the diversity approach, which even fails to qualify why any kind of diversity is necessarily a good thing.
+>
+> A method to more effectively manage the greater complexity of multicultural society would instead sincerely attempt to see and fully understand all of the many different perspectives that make up a society, majorities and minorities alike, on their own terms, and in a way that explores their many varying realities while carefully considering the multitude of different interests, frustrations and needs – optimally, without judgement or moralisation, but still recognise that all individuals and cultures have the possibility – and need – to grow and mature. This level of complex thought hence gives rise to entirely new political questions that are seldom conceived of on the lower levels, such as:
+>
+> • What challenges do those Muslims who have a literal interpretation of their religion encounter when they attempt to live in accordance with their faith and traditions in a secular society?
+>
+> • How can their lives be made easier in ways that do not conflict with the rest of society?
+>
+> • Is it a conflict between Christianity and Islam that creates problems, or is it more specifically a conflict between religion and atheism/secularism? Or perhaps even a conflict between the religious and modern thought perspectives that creates problems in the encounter between native modern Westerners and immigrants from the Middle East? Or all three? 
+>
+> • What competences and types of understanding do Muslims need in order for their needs to be satisfied with the least possible disagreements as a result?
+>
+> • What adaptations are reasonable to demand from Muslims and majority society respectively?
+>
+> • How can these adaptations be facilitated?
+>
+> • And if we see the same issue from the opposing perspective, questions may arise such as: what challenges face the part of the population that is seeing the country they have been part of building radically changed by migrant populations? Is it reasonable to demand that all traditions and norms be adapted to a multicultural reality? How do we best accommodate the wishes and desires of different cultures to make them live peacefully together and develop together?
+>
+> As you see, these questions are less judgemental or moralising than both the ethnocentric and diversity approach. Neither a single culture nor diversity in of itself are valued higher than the other, and the questions do not suggest that anyone should subordinate themselves or conform to a particular view considered the morally superior one. It is a more pragmatic approach, and it does not close its eyes in anticipation of the problems solving themselves given enough time and economic progress, as the mainstream stance suggests.
+>
+> Posing these types of questions meets our complex reality at a corresponding level of inquiry so as to cultivate novel approaches that can foster a well-functioning society at today’s societal complexity level. A politics carried out from such a viewpoint has a greater potential to change people’s lives for the better – but also requires considerably deeper knowledge of people’s everyday lives and realities.
+>
+> This kind of thinking promotes a new level of political questions that take people’s various experienced realities and their mutual relations into greater consideration. No matter how much people deviate in terms of culture and worldview, or psychological development for that matter, all should be able to express themselves freely and without judgement and feel at home in society – it’s simply ethically untenable to ask for less.
+>
+> When thinking on a higher complexity level we are not limited to a single perspective but can attempt to create space and opportunity for further development to occur within the diversity of the existing (and possibly future) perspectives. As seen above, we can thereby ask questions that are more likely to handle problems that today appear insoluble.
+>
+> As we have seen, the level of our thinking’s complexity can affect our political prioritisations and solutions. Below I have sketched a few examples of how this can manifest itself on the meta-level, how the different levels can give rise to very different overall approaches to politics:
+>
+> 1. Politics of interest (the category level): a particular group’s specific interest or worldview is defended. 
+>
+> 2. Politics of reconciliation (the connection level): various interests are weighed together and integrated pragmatically. 
+>
+> 3. Politics of ideas (the system level): there is an attempt to establish a particular idea of the human being and society, with measures sought to disseminate ideas and norms considered superior. 
+>
+> 4. Politics of emergence (the perspective level): particular consideration is taken to how the ideas, norms and identities that govern society come into being, with this emergence made the kernel of politics.
+>
+> We can, however, also add a level that lies above the perspective level, one I have chosen to call the complexity level:
+>
+> 5. Complexity politics: Deliberate measures to create prerequisites for a multitude of emergences of apprehensions of reality; the development and mutual relationship of these are made the kernel of politics.
+>
+> Political questions can be posed from every complexity level. Now, as an example, in the area of gender and racial equality:
+>
+> 1. The category level: how can the interests of women, ethnic minorities and homosexuals be defended? 
+>
+> 2. The connection level: how can the interests of women, ethnic minorities and homosexuals be reconciled vis-à-vis those of men, whites and heterosexuals? 
+>
+> 3. The system level: how can multicultural and feminist values come to permeate society? 
+>
+> 4. The perspective level: how can well-functioning values of gender and racial equality and acceptance of alternative life-ways emerge spontaneously in various societal groups? 
+>
+> 5. The complexity level: how can better prerequisites be created for healthy and mutual beneficial relationships between genders and ethnicities, positive gender, cultural and sexual identities, and feelings of security, self-confidence and freedom in everybody’s life?
+>
+> The first three questions are characterised by linear thinking (to various extents). It is the first three questions that historically have dominated politics of gender and racial equality. Initially, from the beginning of the twentieth century and onwards, women’s and men’s interests were pitted against each other. This has in our time evolved towards the third issue, where discrimination has been regarded as an unfortunate part of society that can be replaced with superior values of equality. The less complex questions are potentially more oppressive than the more complex ones. Note how the last two questions do not create as much antagonism. They take a stand for everyone, regardless of where they are in society. The fourth question handles spontaneous emergence of various experiences from which the first three questions become meaningful. The last question handles the greatest complexity since it looks to the prerequisites for the diversity of emergence and how these can be developed in interaction with each other.
+>
+> Almost all current political organisations start from one of the three lower complexity levels. The result is that major parts of the population are forced to comply and subordinate themselves to a certain amount of compulsory adaptation. It hardly needs to be explained how this poses certain problems: forcing people to comply to new norms obviously fosters resistance since people generally do not like being told what to do and think, which in the end makes the politics in question more likely to fail.
+>
+> As such, it is time for politics to build on the two higher complexity levels. This requires changes in our political culture, in the political system, and in society at large. We thus need to ask new political questions such as:
+>
+> • How are the many diverse perspectives and ideas that determine people’s actions created?
+>
+> • And how can we coordinate and further develop these perspectives in ways that are not perceived as oppressive?
+>
+> • What do different kinds of people really need to feel that their lives are meaningful and full of joy?
+>
+> • How are the desires and needs that shape economic life created?
+>
+> • And how can we reshape them in ways that are more socially and environmentally sustainable?
+>
+> • How can people’s sense of self-worth be developed and how does this development influence the political debate in society as a whole?
+>
+> • And how can we further the psychological and emotional development of the average citizen to a degree that makes them more competent at managing and relating to our increasingly complex world?
+>
+> These questions may seem rather obvious when put in a list like this, nothing controversial really, but they do remain out of the ordinary in our common political discourse today. This is very unfortunate, because we need to ask questions like these if we are to solve the current crises. We need to develop our way of doing politics, and our way of thinking.
+>
+> This is the great challenge of our age, and something demanding the utmost of our cognitive capacities. If we want to change the way we think about society and politics today, it will require that we are willing to make sacrifices, personal and societal, and that we put great efforts into the difficult task of coordinating a multitude of perspectives alien to ourselves, developing the necessary complexity and perspectival awareness to do so. However, it has been done before. Humanity has, as we have seen in this book, always managed to eventually advance to a higher and more complex thought perspective." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 
 > "" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 
