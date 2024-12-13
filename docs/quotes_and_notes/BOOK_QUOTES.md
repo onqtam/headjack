@@ -1655,6 +1655,56 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 >
 > When we appreciate that 1) entities exist (i.e., faithfully convey their informational identity into future states) through correlation with the information of environmental contexts (“mutual information”), 2) this correlation is the basis of meaning, and 3) entities are complexifying via this informational exchange, then we are led to an interesting conclusion: namely, that meaning itself must be complexifying." - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
 
+> "If energy, information, and structural order are indeed all related, then we should expect to see a clear correlation between these measures in a complexifying universe. As entities move further from equilibrium, they should require more energy to sustain their informational richness and organizational depth. That is, we should expect to find greater energy flows per increasing measure of structural complexity. And, indeed, that is precisely what the calculations reveal.
+>
+> In his book Cosmic Evolution: The Rise of Complexity in Nature, physicist Eric Chaisson charts the universe’s trajectory towards greater complexity by mapping these interrelated measures across big history. In full accordance with the Second Law, he writes,
+>
+> 'the growing departure from thermodynamic equilibrium allows the cosmos to produce increasing amounts of net entropy and macroscopic information. We thereby have a means to appreciate in the main, if perhaps not yet understand the particulars, the observed rise in complexity throughout the eons of cosmic evolution.'
+>
+> From an initial state of homogeneity soon after the Big Bang, the universe began to self-organize and complexify. Chaisson’s graphs all show a cosmos moving further from equilibrium, with entities of increasing free energy rate density and informational richness over time.
+>
+> Indeed, using free energy rate density (Φ��) calculations alone, Chaisson charts a clear trend towards complexification from matter to plant life to animals to culture...
+>
+> ...
+>
+> Learning thus appears to be the natural consequence (and driver) of a complexifying universe, as more energetically dense entities emerge to embody and encode more information about their environments.
+>
+> In this process, the very means by which information gets processed complexify, with novel computational mechanisms emerging out of earlier ones to process new kinds of information. As physicist and quantum computing theorist Seth Lloyd expresses it:
+>
+> 'The history of the universe in terms of information-processing revolutions, each arising naturally from the previous one, already hints at why a computing universe necessarily gives rise to complexity. In fact, we can prove mathematically that a universe that computes must, with high probability, give rise to a stream of ever-more complex structures.'
+>
+> If increasingly complex entities-in-context are processing more and more semantic information to maintain themselves in the face of entropy, then we must conclude that meaning itself has been complexifying through time." - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+!!! this book is absolutely brilliant and I can't (and shouldn't) capture everything of value from it as quotes here
+
+> "To say it again, meaning of this kind has causal power; to meaningfully know a thing is to integrate its information in an adaptive way. Meaning is what enhances viability at every level by informing the behavioral interventions needed for entities to thrive.
+>
+> Thus, the more complex an entity is, the more complex information it must process across the numerous planes of reality. While all semantic information does ultimately “cash out” at the thermodynamic level, there are, it must be repeatedly stressed, novel layers to meaning introduced as complexity unfolds. These novel layers emerge as more complex information is processed through the universal learning process, such that meaningful information gets generated differently as you move up the complexity stack but accumulates in an accretive way. Meaning for cells is processed as genetic information; but meaning for an animal modifies mere genetic selection with an overlay of neuronally meaningful information processing. For humans, viability-enhancing meaning must be sought across both of these informational domains as well as through symbolic exchanges." - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "Teleological or “goal-directed” behavior is thus evident even in prebiotic entities. That is, all of this learning unfolds entirely on the plane of Matter. And while the details of abiogenesis out of dissipative adaptation remain to be filled in, there are promising signs that the evident continuity between material dissipative structures and biological organisms (which are clearly a subset of the former) will offer new revelations about the origins of Life. At the very least, it shows us that an entity need not be a full-blown biological organism to exist in an entity–field relationship whose correlation defines meaningful knowledge to the entity. Rather, a very crude, simplistic form of meaning exists even for a whirlpool (as Kolchinsky and Wolpert’s framework posits).
+>
+> While this may seem at first to diminish the very idea of meaning, it actually does the opposite, I believe. For, by showing that meaning connects down into the very rudiments of reality, we can see the error (common these days) of presuming it to be merely subjective, or as a thing only humans “make up” as some arbitrary “social construction.” To the contrary, meaning, along with a related word, “teleology,” are both quite real—something cyberneticists and complexity scientists have long appreciated as they have endeavored to explain goal-directed material phenomena like dissipative structures. As Azarian concludes, with dissipative structures
+>
+> 'a natural pressure to minimize free energy and produce entropy spontaneously creates an ordered structure with an objective function. With the emergence of dissipative structures, we see the emergence of purpose in nature…'" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "Of course, the universal learning process (and thus meaning) becomes appreciably clearer to recognize when, around 3.8 billion years ago, we see its first truly sublime product: Life—a particular kind of dissipative structure that can also reproduce itself via meaningful information. Such is the system–environment knowledge contained in the “genetic code.” Here, meaning truly comes into view, as the goal-directed character of biological behavior becomes overt and undeniable.
+>
+> On this point, the work of neuroanthropologist Terence Deacon has been especially elucidating, offering a profound contribution to the reappraisal of meaning and teleology in the biological sciences. Since Darwin, teleology had been summarily eschewed from naturalistic descriptions of life and its development, replaced instead by an emphasis on blind meandering and undirected chance. Having identified the crucial efficient cause of natural selection (that is, the basic material cause-effect mechanism), biologists of the 19th and early 20th centuries believed they could then dispense with the idea of any teleological final cause such as Aristotle had once identified for organisms—which is to say, the idea that their end, goal, or purpose structurally in-forms them.
+>
+> Ultimately, however, the failures of a purely reductionistic biology to adequately explain biological organisms without reference to goals and aims has led to a paradigm shift in the field, as emergentist frameworks from complexity science have helped shed important new light on long-vexing problems about biological behavior. Deacon’s work is a significant contribution to this paradigm shift. In his comprehensive 2012 book Incomplete Nature: How Mind Emerged from Matter, he offers a scientifically robust and philosophically compelling reconsideration of teleology’s role in biology. By emphasizing the inherent lack or need of goal-directed entities (i.e., their “incompleteness”), Deacon removes teleology from a speculative metaphysical register and places it comfortably within a processual physical one. This allows us to see the commonalities that exist between all entities intrinsically constituted in processual relation to an absent goal state. As he puts it:
+>
+> 'Such concepts as information, function, purpose, meaning, intention, significance, consciousness, and value are intrinsically defined by their fundamental incomplete-ness. They exist only in relation to something they are not.'
+>
+> Such absence thus “motivates” (in the most basic etymological sense, we might say: “causes to move, animates”) the behavior of biological entities.
+>
+> This dynamic is clearest in highly complex organisms like ourselves, who aspire, wish, will, intend, etc. Meaning and purpose are clear, we might say, within the PTB’s “person–society field” of Culture. But appreciating the deeper dynamic of motivational absence allows us to trace the quality of such meaning back down through less complex forms—which is precisely what we have been endeavoring to do here. As Deacon proposes:" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
+> "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
+
 > "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
 
 > "" - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)

@@ -53,6 +53,28 @@ https://en.wikipedia.org/wiki/Flow_(policy_debate)
 
 we should be able to generate media from the debate map
 
+what we should minimize:
+- strawmanning
+- differences of definitions - "socialism" - like Sweden or the USSR or what?
+- [nutpicking](https://rationalwiki.org/wiki/Nutpicking) - focusing on the dumbest, craziest arguments from the dumbest, craziest members of a group to discredit them and their arguments
+- echo chambers
+- foul language
+- ignorant people with 0 clue being let in
+- [whataboutism](https://en.wikipedia.org/wiki/Whataboutism)
+- fallacies
+    > "And what about all the fallacies? There’s the ad hominem fallacy (She’s cringe; therefore, she’s wrong), the appeal to authority (I’m credentialed, therefore I’m right), guilt by association (He has some asshole followers, therefore he’s wrong), the argument from incredulity (I cannot imagine how x is true, therefore x is false), and the argument from uncoolness (Believing x has uncool vibes, therefore x is false). Why would anyone be persuaded by this bullshit?" - [Arguing Is Bullshit](https://www.everythingisbullshit.blog/p/arguing-is-bullshit#:~:text=And%20what%20about%20all,persuaded%20by%20this%20bullshit%3F)
+- > "Then there’s the way we talk about arguing, as if it were war. We “defend” our claims against “attacks” from “the other side.” We talk about “strong” or “knock-down” arguments that are “devastating” to our “opponents.” But if arguing is about persuasion—the citing of evidence, the sharing of views—then the war metaphor is odd. Why not a show-and-tell metaphor, or a scouting metaphor, or a family-style meal metaphor, where we share our different views like plates of food?" - [Arguing Is Bullshit](https://www.everythingisbullshit.blog/p/arguing-is-bullshit#:~:text=Then%20there%E2%80%99s%20the,plates%20of%20food%3F)
+
+(list is inspired from here: https://www.everythingisbullshit.blog/p/arguing-is-bullshit )
+
+Conceding a point and being persuaded is a loss of status - what if there was an incentive to correct your opinions as early as possible bigger than the incentive to save face?
+
+
+
+
+
+
+
 > "It shouldn’t be tech companies per se getting into fact checking. It should be open source technology. Free, universally available code and data for epistemology. Take a piece of text, parse it, extract assertions, compare to explicitly specified knowledge graphs and oracles." - [Balaji Srinivasan](https://twitter.com/balajis/status/1266180931435417600)
 
 > "For those seeking to improve the state of the epistemic commons, and address 21st-century challenges to sensemaking, there is no way forward that does not involve fundamental upgrades to how “facts” are handled in public discourse." - [How to Mislead the Facts - The Consilience Project](https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=For%20those%20seeking%20to%20improve%20the%20state%20of%20the%20epistemic%20commons%2C%20and%20address%2021st%2Dcentury%20challenges%20to%20sensemaking%2C%20there%20is%20no%20way%20forward%20that%20does%20not%20involve%20fundamental%20upgrades%20to%20how%20%E2%80%9Cfacts%E2%80%9D%20are%20handled%20in%20public%20discourse.)
