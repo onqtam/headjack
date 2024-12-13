@@ -249,6 +249,17 @@ top10 papers:
 The problem with John's papers is that you can't simply quote parts of them as all parts are good - you'd have to use the whole thing. These papers comprise most of the essence of his book `"Evolution's Arrow: the direction of evolution and the future of humanity (2000)"`.
 TODO: maybe just leave the 2014/2018 papers
 
+top10 books:
+- ev arrow
+- the romance of reality
+- nonzero
+- the evolution of god
+...
+honorable mentions:
+- brendan's books on emergence & meaning?
+- the world we create: from god to market
+
+
 What concepts should everyone be familiar with?
 Planetary boundaries
 https://en.wikipedia.org/wiki/Planetary_boundaries
