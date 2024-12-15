@@ -1878,6 +1878,46 @@ NOTE 78 on consciousness with quotes from Gregg H. is great
 
 > "None of this should be surprising, given that one and the same political meta-ideology overshadows the bickering of day-to-day politics. The Nordic countries have proportional parliamentary systems, which favors the formation of six to ten parties, rather than two major ones. If the voter takes an online test before the elections (for party sympathies), she often finds only a small difference between her degree of agreement with the number one party and the number two on her list. Let’s say the gap is five percent. Can you expect her to tie her personal identity to that party, to make it her own project, to stand up for and support it, to hand out stickers and wave flags in its name—only for those meager five percent?" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
+> "Do the math—an increasing number of accelerating revolutions and crises, all cross-pollinating at an accelerating pace (the solution to the equation is “boom!”—we just don’t know if it’s fireworks or atom bombs)." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "What we are looking for is a logically and practically coherent vision of a society that is, by our measures, without poverty and social insecurity, that has fully free enterprise and that is ecologically sustainable—in other words: an extremely social, extremely libertarian and extremely green society." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "We are talking about generativity—i.e. the propensity of society as a cultural, economic and social-psychological system to, on average and over time, generate the conditions for psychological thriving and growth to occur. We are not talking about shoving some formula for the good life down everybody’s throat. We’re talking about creating likelihoods for good conditions.
+>
+> But what are we trying to “fix”, really? What’s “wrong” with society in the first place? While we cannot “repair” society once and for all, we can certainly understand some things that are deeply messed up—and address them in an efficient and productive manner.
+>
+> Here’s a rough diagnosis to start from. What we think of as “normal life” is simply too harsh and cruel on our psyches, too demanding and full of insoluble dilemmas. We thereby, from childhood and onwards, become mutilated versions of our fuller potentials. Because of these many wounds, scars and arrested developments, we fail to become truly kind, intelligent an open-minded. On a subtle level we fear the world; we expend energy protecting ourselves, and this means that we fail to awaken in ourselves the playful curiosity and love that are needed for us to comprehend and respond to the challenges of the world. We make poor decisions for how to live our lives, what to prioritize, what to care about, and what to produce and consume. And we hold ourselves and each other back." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "It is morally wrong to uncritically reproduce a society that displays the amount of misery and long-lasting traumas prevalent in modern countries—even the comparatively happy ones like Canada and Denmark. It’s not that pre-modern societies are any better, but today we have more options available, which lends us greater moral responsibility." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "The fact that happiness isn’t everything, that it isn’t the only worthy personal and societal goal, doesn’t mean that it’s nothing and no worthy goal." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "Nasty whirlwinds of feedback cycles blow through this great multidimensional web, pulsating with hurt and degradation. My lacking human development blocks your possible human development. My lack of understanding of you, your needs and perspectives, hurts you in a million subtle ways. I become a bad lover, a bad colleague, a bad fellow citizen and human being. We are interconnected: You cannot get away from my hurt and wounds. They will follow you all of your life—I will be your daughter’s abusive boyfriend, your belligerent neighbor from hell. And you will never grow wings, because there will always be mean bosses, misunderstanding families and envious friends. And you will tell yourself that is how life must be.
+>
+> But it is not how life has to be. Once you begin to be able to see the social-psychological fabric of everyday life, it becomes increasingly apparent that the fabric is relatively easy to change, to develop. Metamodern politics aims to make everyone secure at the deepest psychological level, so that we can live authentically; a byproduct of which is a sense of meaning in life and lasting happiness; a byproduct of which is kindness and an increased ability to cooperate with others; a byproduct of which is deeper freedom and better concrete results in the lives of everyone; a byproduct of which is a society less likely to collapse into a heap of atrocities.
+>
+> ...
+>
+> We desperately need a deeper kind of welfare, beyond the confines of material welfare and medical security—a listening society, where every person is seen and heard (rather than made invisible and then put under surveillance). How can this be achieved?" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
 > "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
 > "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
