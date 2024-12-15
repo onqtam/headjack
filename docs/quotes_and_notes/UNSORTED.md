@@ -408,16 +408,6 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 >
 > We are sometimes advised to capture people’s interest by speaking of matters about which they have been conditioned to care – economic matters. We are asked to explain why, in economic terms, biota should be preserved. I think we can easily meet that challenge. Nearly every straight economic analysis that takes into account the whole system with all externalities shows the enormous value of the biota. We should speak that economic language, do those calculations, and play that game – we can win it." - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=We%20all%20know,can%20win%20it.)
 
-> "" - [Dancing With Systems, by Donella Meadows]()
-
-> "" - [Dancing With Systems, by Donella Meadows]()
-
-> "" - [Dancing With Systems, by Donella Meadows]()
-
-> "" - [Dancing With Systems, by Donella Meadows]()
-
-> "" - [Dancing With Systems, by Donella Meadows]()
-
 
 
 
@@ -5778,10 +5768,14 @@ We need to make the most entertaining shows for learning different aspects of th
 Instead of randos living in a house or surviving on an island - they should be competently striving in a field and documenting and explaining their approaches and struggles - we should make actual transmission of knowledge entertaining
 
 Religion == “about what should I do”
-Fuck the naturalistic fallacy
 The global pvp for our collective should in a global justificatory system
 Lets determine how things should be
 “Why” gives us “should” only through the application of telos
+
+Fuck the naturalistic fallacy
+> "[57] A rudimentary beginning of “emotion” emerges here… The bacterium must sense its world and act to avoid toxins and to obtain food. The evaluation of “good” versus “bad,” arguably the “first sense,” enters here. …I note also that Hume’s famous: “one cannot deduce an ‘ought’ from an ‘is’”, the famous naturalistic fallacy, rests on the critical fallacy that Hume, like Descartes, thought of a mind “knowing” its world. Hume did not think of an agent “acting” in its world. Given “action” and “doing”, doing “it” well or poorly enters inevitably, and with it, “ought.” With ought, the need for evaluation, the rudiments of emotion without positing consciousness, enter. (“Evolution Beyond Newton, Darwin, and Entailing Law: The Origin of Complexity in the Evolving Biosphere,” in Complexity and the Arrow of Time, ed. Charles H. Lineweaver, Paul Davies, and Michael Ruse (Cambridge: Cambridge University Press, 2013), 169)" - [Stuart Kauffman](quote_taken_from_the_book_A_Universal_Learning_Process,_by_Brendan_Graham_Dempsey)
+
+
 
 Universal basic access to a blueprint diet
 
