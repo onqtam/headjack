@@ -227,3 +227,6 @@ https://twitter.com/pranshuverma_/status/1632397925908111360
 
 3 strikes with the last one because of your recent video? BAM - entire channel gone with everything else
 
+good material on mass surveilalnce: the first chapter of [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+
