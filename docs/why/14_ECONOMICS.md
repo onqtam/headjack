@@ -613,3 +613,13 @@ we can tax industries through stigma alone - limiting their market
 
 > "Mazzucato refrains from providing a fleshed out valuetheory of her own; however, her clear goal is that economists and governments alike to cease viewing value as a purely subjective and individualistic measure." - [Mariana Mazzucato Has Reinvigorated the Most Important Battle in Economics, Palladium Magazine](https://www.palladiummag.com/2019/11/21/mariana-mazzucato-has-reinvigorated-the-most-important-battle-in-economics/)
 
+
+
+Roland Coase
+The nature of the firm
+higher trust because of reputation & accountability => easier to "hire" others
+also onboarding is easier if everything is out in the open - including the best materials to onboard someone and get him up to speed + building coherence with others
+
+
+
+

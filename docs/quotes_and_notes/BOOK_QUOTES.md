@@ -2161,7 +2161,65 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 > "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
 
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
 
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+
+
+
+
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
 
 
 
