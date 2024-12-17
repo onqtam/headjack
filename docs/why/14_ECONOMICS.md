@@ -147,7 +147,7 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Economics 2.0
+# SECTION: Economics 2.0 - socionomics
 ██████████████████████████████████████████████████████████████████
 
 
@@ -157,7 +157,49 @@ What if we made advertising in its current form obsolete? What if false claims w
 >
 > To thrive, the “homo socialis” requires suitable institutional settings such a particular kinds of reputation systems, which will be sketched in this paper. I also propose a new kind of money, so-called “qualified money”, which may overcome some of the problems of our current financial system." - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
-> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+> "In the past, societies have invented various institutions to overcome “tragedies of the commons”, for example, genetic favoritism, direct reciprocity (“I help you, if you help me”), or punitive institutions (such as police, courts, prisons and regulatory authorities). However, all of these mechanisms can lead to undesirable side effects such as civil wars or corruption. Our current system is built on punitive institutions, but such top-down regulation is very costly and creates many inefficiencies, including negative impacts on innovation." - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "In the situation studied above, where everyone starts as a defecting “homo economicus”, no single individual can establish profitable cooperation, not even by optimizing decisions over an infinitely long time horizon. It takes a few “friendly” deviations to trigger cascade effects that eventually change the macro-level outcome. Therefore, it is important to recognize that a critical number of interacting individuals need to be friendly and cooperative by coincidence. The “homo socialis” would never evolve without the occurrence of random “mistakes” (here: the birth of “idealists” who are exploited by everyone). However, given suitable feedback effects, such “errors” enable better outcomes. Here, they eventually overcome the “tragedy of the commons” (Hardin, 1968), resulting in an “upward spiral” towards cooperation with high payoffs. Remarkably, this is not the outcome of an optimization process, but rather of an evolutionary process.
+>
+> ... In accordance with a lot of work in social psychology, the “homo socialis” may be characterized by “empathy” in the sense that the “homo socialis” puts himself or herself into the shoes of others. More precisely, the “homo socialis” takes into account the perspective, interests, and success of others when taking own decisions.17 This effectively explains the fairness preference observed in behavioral economics (G¨uth et al., 1982; Fehr and Schmidt, 1999; Henrich et al., 2001; Fehr and Fischbacher, 2003). Note, however, that the “homo socialis” should not be imagined as a “homo economicus” sharing some payoff with others. The “homo socialis” decides differently from the “homo economicus”, and that is why “tragedies of the commons” can be overcome.
+>
+> Decisions of the “homo socialis” are interdependent, in contrast to the “homo economicus”, who takes decisions indendently without the consideration of effects on others. Therefore, the “homo socialis” may be characterized by the term “networked minds”. This implies a complex dynamics of systems where many such decision-makers interact, with important economic implications (Helbing and Kirman, 2013). While methods from statistics should be good enough to characterize the “homo economicus”, the description of the “homo socialis” requires methods drawn from complexity science." - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+
+> "In other words, in social dilemma situations, Adam Smith’s principle of the “invisible hand” works only for the “homo socialis”, but not for the “homo economicus”. Without suitable institutional settings or regulations, the “homo economicus” will run into a “tragedy of the commons” with very poor payoffs for the great majority. Note that the principle of the “invisible hand” would work for the “homo economicus” as well, if the underlying assumptions of the First Theorem of Welfare Economics were fulfilled, i.e. if all individuals would interact in one shared market without transaction costs and externalities (Arrow and Debreu, 1954; Debreu, 1959). However, these assumptions are quite restrictive, and the macro-level outcome depends on them in a sensitive manner...
+>
+> As the “homo economicus” decides strictly according to self-interest, the coordination of decisionmakers and efforts to overcome “tragedies of the commons” or market failures requires some kind of top-down regulation. This results in a steadily growing number of laws and regulations and costly investments into regulatory and sanctioning institutions (such as police, courts, market regulators, etc.). This can significantly decrease systemic efficiency. In addition, regulation tends to reduce diversity, which can affect innovation in a negative way.
+>
+> In comparison with the “homo economicus”, the “homo socialis” is able to cope with social dilemma situations based on local interactions. I will characterize this as bottom-up self-regulation, considering that the emergent level of “friendliness” overcoming the “tragedy of the commons” results from a decentralized, evolutionary process. Since top-down regulation (as required for the “homo economicus”) is just the opposite of bottom-up self-regulation (as typical for the “homo socialis”), it is misleading to say that the “homo socialis” is just a variant of the “homo economicus” or vice versa. Speaking metaphorically, the “homo economicus” and the “homo socialis” must be distinguished like night and day. This is mainly due to the discontinuous transition in the systemic outcome when the “friendliness” increases beyond a certain critical level (“tipping point”). Passing the tipping point is like switching the light on or off, with dramatic impacts on the average payoff.
+>
+> 5 Socionomics: A Promising New Field of Research
+>
+> The existence of two different kinds of people, the “homo economicus” and the “homo socialis”, has relevant practical implications: A second body of work must be developed for the “homo socialis” to supplement the extant economic body of work for the “homo economicus”. I will call the science of the “homo economicus” - “economics”, and the science of the “homo socialis” “socionomics” or also “economics 2.0” in order to reflect that the Web 2.0 is a key factor promoting a “participatory market society”.  It is important to note that our understanding of socionomics does not assume emotionally or irrationally acting agents. In the simulations underlying Figs. 1 and 2, the “homo socialis” decides rationally, trying to optimize the individual utility, but this utility also reflects the externalities of others. In social dilemma situations, the “homo socialis” can outperform the “homo economicus” through reaching higher payoffs.
+>
+> ...
+>
+> But what might be distinguishing features of socionomies as compared to economies?
+>
+> • In socionomies, self-regarding optimization is replaced by individual decisions that take into account the implications for others (“externalities”), thereby supporting mutual coordination and cooperation.
+>
+> • Therefore, in socionomies, agents would have cooperative motives in addition to competitive ones. This is sometimes characterized by the term “coopetition”.
+>
+> • In socionomies, regulation can happen in a bottom-up way, which is called “self-regulation”.
+>
+> • In socionomies, social dilemma situations can also be overcome without financial incentives and fines, for example, by reputation systems (see Sec. 6.2).
+>
+> • In socionomies, sharing information and other resources pays off, as this supports coordination and cooperation.
+>
+> ...
+>
+> 5.1 What One Can Learn from Traffic Light Control
+>
+> ...
+>
+> Figure 5: Table highlighting the differences between the nature of a central planner, the “homo economicus”, and the “homo socialis”, including their different system dynamics and systemic outcomes. The First Theorem of Welfare Economics(Arrow and Debreu, 1954; Debreu, 1959), which states that competitive markets lead to an efficient allocation of resources, only holds if there is a complete set of markets and all market participants are price-takers, and there are neither externalities nor transaction costs. As conventional market economies tend to create negative externalities, top-down regulation by a strong state is needed to counter related market failures. Examples of negative externalities are resource depletion and environmental pollution, which eventually lead to the creation of regulatory institutions such as the emission trading scheme or financial regulatory authorities. As regulation tends to be costly for regulators and regulated agents, bottom-up self-regulation is expected to unleash large creative potentials of “networked minds”, which are currently not fully used (see Sec. 7). The performance gains may well be comparable to the gains when moving from a top-down regulation to a conventional market economy building on self-organization (see Sec. 5.1). “Socionomies” (also called “economies 2.0” or “participatory market societies”), are characterized by high levels of cooperation, established through self-regulation. To protect a “homo socialis” from being exploited, it is important to know whether one is interacting with another “homo socialis” or a “homo economicus”. Therefore, suitable institutions such as reputation mechanisms need to be established, which allow like-minded agents to interact successfully, and differently minded agents to cope with each other. Examples for socionomic systems are Wikipedia, Open Streetmap, open source software communities (such as Linux or GitHub), and social media platforms. Note that the “homo socialis” should not be confused with someone, who is redistributing gains. A redistribution strategy (via donations, or taxes and social benefit systems) might be able to “heal” or reduce problems such as an “unhealthy” degree of inequality, but it would usually not be able to avoid or overcome “tragedies of the commons”. Hence, redistribution is inefficient and often not a suitable solution for social dilemma situations (see also footnote 27). The main difference to the “homo economicus” is that the “homo socialis” decides more “responsibly” or “wisely”, considering not only the own interests, but also those of others when taking self-determined decisions. If enough people do this, other-regarding preferences pays off.
+>
+> ...
+>
+> In conclusion, a central regulator fails to be efficient for lack of computational capacity, which is required to handle the algorithmic complexity of a NP-hard optimization problem within large system in real-time. Applying the principle of the “homo economicus” on a local level, fails due to lack of coordination. In contrast, the approach of the other-regarding “homo socialis” can overcome both problems by combining self-organization with self-regulation. A self-regulation based on suitable local interactions can produce resource-efficient solutions delivering high system performance.23 These solutions also tend to be resilient to perturbations (such as accidents, road works, etc.). Again, the “homo socialis” can make the principle of the “invisible hand” work under conditions, where it fails for the independent optimization attempts of a “homo economicus” (see Fig. 7). Many of the above conclusions also seem to be relevant for socio-economic systems, when agents have incompatible interests that cannot be satisfied at the same time." - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
 > "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
@@ -165,9 +207,12 @@ What if we made advertising in its current form obsolete? What if false claims w
 
 > "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
-> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
-> "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
+<img src="/img/economics_2_0_figure_4_by_Dirk_Helbing.png"/>
+
+<img src="/img/economics_2_0_figure_5_by_Dirk_Helbing.png"/>
+
+taken from here: [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
 
 
