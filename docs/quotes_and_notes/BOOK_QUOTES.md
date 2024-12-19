@@ -2041,31 +2041,201 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 >
 > The great economist Amartya Sen coined the term “development as freedom”. He meant that human development and civil liberties could be drivers to lift populations out of poverty. Psychological and social development can—and will—lift us out of spiritual and emotional poverty." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "I bring this up because, for every one person who enthusiastically and playfully (but realistically) embraces the idea of criticizing and reforming society, I meet ten people who just get angry and resentful. If you learn and understand the ideas of this book, you are likely to have the same experience when communicating with others. Either people get angry because you are suggesting that the future might be good, or they get mad because you suggest that society today is bad.
+>
+> What, then, is the way out of this grid-lock? Fundamentally, it is a matter of understanding that society is both very, very good and simultaneously very, very bad. Reality is rich. It has room for plenty of extremes. It has multitudes of contradictions. We must increasingly learn to live and deal with such paradoxes.
+>
+> ... the only sane and respectful attitude towards society is to be both critical and optimistic. I would even claim that it is slightly insane not to take the great potentials of the world seriously, given the great changes that have already occurred and the ones that are undeniably underway." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "Another example of transpartisanism. During the increasing pressures of migration, party leader Uffe Elbæk wrote an open letter in the paper, kindly asking the center-right prime minister (who is rather restrictive on immigration) for a dialogue on how to avoid bitter polarization of the Danish public on this hot topic. So what are the dogmas of debate? There are six of them, renamed “debate principles” on their English homepage:
+>
+> • We will openly discuss both the advantages and the disadvantages of a certain argument or line of action.
+>
+> • We will listen more than we speak, and we will meet our political opponents on their own ground.
+>
+> • We will emphasize the core set of values that guide our arguments.
+>
+> • We will acknowledge when we have no answer to a question or when we make mistakes.
+>
+> • We will be curious about each and every person with whom we are debating.
+>
+> • We will argue openly and factually as to how The Alternative’s political vision can be realized.
+>
+> As voters, many of us often recognize that we cannot know the answers to all the complicated societal questions. And frankly, neither can the politicians reasonably be expected to. But what we can know with some reliability is that if politicians are more humble in their opinions—and more open to new information and thereby more intelligent in their dialogue and debate with others—we are likely to get more balanced and sound politics.
+>
+> And we can know that the process oriented party vouches for a better dialogue, thereby improving the climate for discussion and deliberation throughout the political realm, not just within that particular party, but within and between all parties. Hence, this approach speaks to the tendency of the electorate to be increasingly disenchanted with the ongoing debates in postindustrial party politics. It targets a deep nerve within the population of a liberal democracy, where the Left and Right no longer represent clearly defined class interests, and people long for a more honest and nuanced discussion.
+>
+> ...
+>
+> We are here approaching one of the strange paradoxes of our time, one of the many cases where a both-and thinking is required. The paradox is this: We need to simultaneously deal with increasingly clear and well-defined hierarchies, and we need society to become more democratic and inclusive.
+>
+> The people who end up on top in this strange new hierarchy are the most democratic ones—the people who have the personalities, skills and cultural codes necessary to create social settings that are more inclusive and nuanced. Such social settings can handle contradicting views, allow for more autonomy and experimentation, and can handle a greater number of relationships with fewer conflicts. Conflicts are resolved with greater openness and less carnage." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "Strangely, it is much easier to defeat someone if you honestly care about them and see the world with their eyes, stand in their shoes." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "Issues such as universal freedom of migration, international security, terrorism, internet policing, climate crisis, ecological sustainability, stabilizing international finance and banking, global poverty, basic material security, basic income, labor rights, human and animal rights all share one fundamental trait: they are transnational by nature. They all function through borders and beyond nations. You are probably familiar with these issues as being different versions of “prisoners’ dilemma games”, where nation states are pitched against one another and all end up losing unless they manage the risk that mutual cooperation necessarily entails.
+>
+> In the long run, we know that the nation state cannot remain the primary, or at least not the hegemonic, building block of our governance and self-organization. There are two simple reasons for this. The first is that we are increasingly facing problems that are not solvable at the national level. The second is that there are a growing number of “societies” that don’t correspond to nation state constructs, such as dynamic economic regions built around major transnational cities—with growing, influential and successful populations who lead lives beyond nation state identities and national legislative or symbolic frameworks. Basically, there are a growing lot of issues and people and cities that just don’t fit into the nation state.
+>
+> The state can remain, of course, as a kind of administrative and democratic “train station” in a larger meshwork of governance: local, regional, city-based, corporate, continental, digital and global. In other words, the long-term attractor (the point we are likely to approach) is some kind of more intricate meshwork of governance structures and institutions. There are other forms of governance that are beginning to work beyond states—supranational institutions, administrations of strong city regions (often more in tune with the day and age than national parliaments), corporate structures and NGOs. It is true that nation states still control the armies, but warfare is becoming less central to political reality—even if militaristic relapses of geopolitics and wars are unavoidable.
+>
+> To be clear, the transnational way of thinking first of all means that “metamodernists know no borders”, that the ethics and values are world-centric, or perhaps cosmo-centric. It also means that you have a general way of thinking where the nation state or region are not the primary categories of society, but rather just tools or train stations in a longer journey of the historical development of governance, of human self-organization.
+>
+> This also means that you refrain from over-essentializing nationalities and ethnicities. Frenchness, Chineseness, Arabicness, the Nordic ideology, the German ideology—it’s all nonsense; just temporary, contingent patterns, cutting through water. The cultures evolve; the forms of governance, languages and economies continuously transmute. National cultures are what Irish-American anthropologist Benedict Anderson called “imagined communities”, continuously being reimagined. They are based on what Norwegian anthropologist Fredrik Barth called “ethnic boundary making”: I am German because I am not Danish, and so forth." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "The metamodern aristocracy doesn’t work according to a linear plan about what will come (like those damned communists). They just share some common conceptual maps, personal traits, perspectives and political sentiments. This makes them difficult to spot with the naked eye. They are a loose network of people who recognize each other and who share some common overarching perspectives. They work together in a myriad of different ways—lending resources and support for the development of ideas, arranging key events, starting businesses and other organizations or projects, and affecting policy making.
+>
+> ...
+>
+> To con-spire means to breathe together. The conspiracy is to educate and seduce humanity into taking the path towards a more existential and sustainable civilization. To educate and to seduce—these two words come from the same Latin root. To this playful aristocracy, the world stage is a great, multidimensional puzzle, where the aim is to find unexpected synergies that work in the direction of human development—by way of playing, educating, seducing. They don’t press their agenda on others, but they tickle the dialectic processes to see what emerges, having strong intuitions about in which directions it might go. Often, this is done through art and cultural expression, hinting at new perspectives and potentials. Just by breathing the same air, the fresh air of a potential—but not predetermined—future society.
+>
+> ...
+>
+> On the one hand, the new global vanguard is emerging; that is just a fact of life. And it must recognize itself as such in order to be fully efficient. On the other hand, the metamodern aristocracy fails its own moral standards if it does not work for a much more democratic, transparent and open world—it loses all legitimacy without a deep commitment to egalitarian values and the dignity of all humans..." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "Just promise me three things. You won’t send peasants to death camps, you won’t conquer North Africa—and please don’t behead the king." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "The French philosopher Deleuze proposes that we should see society as made up by dividuals, i.e. that we all are in fact part of one another and affect one another. We consist of many different influences, roles and perspectives, within a multitude of contexts.
+>
+> I am offering a related bid for anti-individualism: the transpersonal perspective. The transpersonal perspective holds two seemingly opposed, but in reality complementary, positions. 
+>
+> The first position is to see society as determined by the deep, inner lives—the most personal relations and tender emotions—of human beings. This takes the unique lived experience of each human being very seriously. Such lived experience is taken to be the very foundation of society: if there is anger or love in our hearts, if there is peace in our minds, and if all manner of psychological issues have been properly dealt with. Such things determine if we turn out engaged world citizens, mindless consumers or bitter reactionaries.
+>
+> The second position is that this deeply human and personal experience is in turn created by societal processes that are largely invisible to each single person, and accessible only through a profound and systematic sociological and psychological analysis of society.
+>
+> So this lands us in an apparent paradox: To really see the singular human being, to really respect her rights and uniqueness, we must go beyond the idea of the individual; we must see through it and strive to see how society is present within each single person as well as in the relationships through which she is born as a “self”. We go from the idea of the individual (vs. “the collective”), to simply seeing society as an evolving, interlinked set of transindividuals. This is the transpersonal perspective. It’s not just that we are each a billiard ball that “interacts” with other people. We co-emerge. Or, as the physicist-philosopher Karen Barad has put it: we intra-act.
+>
+> ...
+>
+> The idea of the listening society serves the transindividual: The human being is seen as more than a unique, separate life story. The idea of the transindividual sees the human being as inseparable from her language, her deep unconscious, her relations, roles, societal positions, values, emotions, developmental psychology, biological organism and so forth. Each human being is viewed as an open and social process, a whirlwind of participation and co-creation of society. Society as a whole is viewed as a self-organizing system which creates such transindividuals who are in turn able to recreate society.
+>
+> ... It is by looking at deep psychological issues, the inner development of each of us, and how such properties are generated within society, that we address the core of society’s problems. In the appendix, you will find some more condensed definitions of what the transpersonal perspective means.
+>
+> ... Breivik, the mass murderer, was born in the school yard, in the dysfunctional family, in the peer group, on the internet, in the labor market, in failed love aspirations, in sexual frustrations, in failed masculinity (a recurring theme in his crazed “manifesto”, released the same day as the killings occurred—he even spent his last night with two expensive prostitutes and champagne), in hurt pride, in failed interethnic relations and stalling integration processes. In short, he was born as a result of the entire fabric of society.
+>
+> ... Think about it; the only way to have prevented this from occurring would be if people like Breivik were simply much less likely to emerge in the first place. We can’t really protect each single person from the ill will of all conceivable wrongdoers, not even with super-efficient policing. No matter how much we “stand up for the rights of the individual”, the individual will still be limited and harmed in a million ways, even to the point of being murdered, if we don’t see her deeper insides and the social-psychological contexts of which she is part—if we fail to see the transindividual and stand up for her rights.
+>
+> ... What we can do, however, is to make sure that the average person is happier and healthier, has better relationships, better self-knowledge and more support. Because the terrible truth is that Breivik is you and me. He is a direct result of the society we create and uphold every day. He is not an alien force. He is that kid from school who came back and killed our kids. It’s all interconnected. We are all interconnected. Obviously Breivik is an extreme example of social deviance, but he emerges in continuity with the rest of us. Somehow, we are made of the same stuff. The answer to the horror show that Breivik unleashed is to be found deep within ourselves.
+>
+> ...
+>
+> To serve the individual—or the collective—is thus increasingly becoming regressive and harmful. “The individual” and “the collective” are analytically faulty positions. We are not simply balancing individual and collective interests; we are attacking both in the name of the transindividual.
+>
+> To see human beings as “individuals” in an obviously interconnected and co-evolving universe is not only poor social philosophy. It is an unforgivable insult to the greatness of the human soul. We are more than individuals; we are much larger beings. This is why, in a transpersonal perspective, I can say in all sincerity: Death to the individual.
+>
+> Long live the dividual—or the transindividual." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "With the view from complexity, it becomes apparent that you can’t really blame the individual behaviors of the many people who interact, and you can’t really identify an evil “power structure” out there, which you can just get rid of and things will be fine. You have to look at the rules of the game, at the patterns of interactions, and how we create one another through those interactions—and how that in turn produces society as a whole.
+>
+> If you want to change society, you need to change these games. You have to change minute things in people’s behaviors and you have to develop the quality of their relationships.
+>
+> Let’s take another example, one from criminology and police research. In 1992, a British criminologist named Robert Reiner noted that there appears to be five interacting mechanisms that make the police direct more attention towards certain ethnic minorities:
+>
+> • Categorical discrimination, i.e. that the police themselves choose to stop and frisk more black people (or other minorities).
+>
+> • Transferred discrimination, i.e. that people in the general public call the police more often when they see black people around.
+>
+> • Interactional discretion, i.e. that the police have more cultural difficulties when it comes to interacting with certain groups and hence more often end up in situation that escalate to violence and arrest.
+>
+> • Institutionalized discrimination, i.e. that some areas with higher criminality are patrolled more and thus more people in these areas are put under surveillance.
+>
+> • Statistical discrimination, i.e. that the crime statistics of certain groups start bad cycles as the police direct their attention to these groups and hence reinforce the statistical overrepresentation of criminality within this group.
+>
+> Reiner contended that categorical discrimination—the one we generally think of when it comes to police racism—is the least powerful mechanism. In other words, Reiner was telling us that the rules of the game generated racism and discrimination (rather than the racism of the police officers themselves). In my own work on police ethnography, I have found plenty of reasons to believe that Reiner was right. With the view from complexity you see, again, that racism is an emergent pattern; a phenomenon that emerges not through the actions of individual people, but as a result of the interactions of many different people.
+>
+> ...
+>
+> The view from complexity may seem less exiting than images of a villainous patriarchy or the grim towers of capitalism. Somehow, it seems silly to gather in the hundreds and march down the street shouting: “Let’s develop our behaviors and slightly tweak the games of everyday life so that we, together, in the long run, produce dramatically better emergent properties!” There’s just not that oomph, not that “zing”. If you know what I mean.
+>
+> But here’s the deal. The more primitive and stupid your ideas about society, the cruder your “bad-guy theory” will be. To the Nazis, the bad-guys are the Jews, plain and simple. To the nationalist conservatives, the bad-guys are not necessarily Arabs, but certain problematic aspects of their culture and religion. To the modern libertarian, the bad-guys are laziness and lacking sense of responsibility—and all those pesky leftwing control freaks. To the Left it is capitalism. To the critical sociologist it is power structures. To the ecologist it is industrialism and a consumer society disconnected from the ecological systems.
+>
+> To the metamodernist, there are almost no bad-guys left, nobody and nothing to blame: not even an impersonal structure. With the view from complexity, there is only the painstaking tweaking of many small things that can help us fix the failures of our society and mitigate the tragedies of existence. Fighting the power structures and killing the Jews might be more exciting. But it won’t solve our problems, I’m afraid." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "A large part of this issue is to transcend one’s own political allergies. Let’s try out a few words, allergies of the Left: market, power, capitalism, authority, profit—and of the Right: radical, social, feminism, revolution, public.
+>
+> If you get a sense of spontaneous disgust or aggression upon reading any of these words, if the word itself comes out on the paper sheet as repulsive, you have a political allergy, hijacking your political mind. One needs to recognize that these are not inherent essences or givens. They can all be good or bad, depending on the context—and more pertinently, they are all good and bad. It just makes relatively little sense to “hate” or “be against” such vague and open categories as “the market”. It limits your thinking. It makes you dumb.
+>
+> All of these three systems—democratic bureaucracy, the market and civil sphere—are simply forms of governance that process information about the behavior of humans, coordinating our actions in order to create desirable common and individual results. Each of them has its pathologies, its own sicknesses, its own limitations as well as its own magnificent qualities. There are intelligent and unintelligent markets, intelligent and unintelligent bureaucracies and democratic institutions, and the civil sphere can be equally inclusive as it can be oppressive.
+>
+> The three systems depend upon one another for their functioning, for their very existence. There are no countries without markets—and no larger markets without regulating states and bureaucracies..." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "So you need to keep three stages in mind. One: markets, politics and personal relations are not clearly differentiated; two: in modern society these three spheres gain a great measure of independence from one another; three: in metamodern society, these three spheres are being re-integrated, ideally without any one of them dominating or contaminating the other two.
+>
+> Examples of this re-integration abound. Let’s mention just a few: Market mechanisms applied to public sector organization; planning of “triple helix models” for regional economic development (triple helix means collaborations between public, private and university agents in a region); an increasing pressure from civil sphere influence to break the alienating management and bureaucracy of both private corporations and the public sector; and personal relations within professional firms being increasingly honed and invested in. Again, this is a major process of our time. These examples are just a few superficial such changes visible in today’s society.
+>
+> The growing re-integration of these three different spheres of social life—the civic (politics, democracy, bureaucracy, public), the professional (market exchange) and the personal (the civil sphere, family life, communities)—requires of us a kind of political thought that does not take one of the dimensions as fundamental or inherently superior to the other two. We must see the totality of social and political life. This is what it means to go beyond Left and Right.
+>
+> ...
+>
+> But there really is an underpinning to all of this, a central insight. The philosophical principle of metamodern politics is as simple as it is elegant. This principle holds that social life is of fractal nature, and that society consists of three interdependent dimensions that always repeat themselves but ultimately depend on one another: solidarity, trade and competition.
+>
+> • Solidarity—in all societies that have ever existed, there has been cooperation and what the anarchist classic Peter Kropotkin termed “mutual aid”. And in all of our lives, there are always at least some aspects of such things as caring, brotherhood, friendship, cooperation, help, charity, alliances, affiliation, liking, love and so forth. The principle is: you, rather than me.
+>
+> • Trade—in all societies that have ever existed, and in everyone’s life, in every relationship, there is an element of exchange: tit for tat, something for something. The principle is: me and you, but only conditionally. “Only conditionally” serves to underscore that we only make trade transactions if there is something for us to gain.
+>
+> • Competition—in all societies that have ever existed, and in everyone’s life, in every goddamn relationship, there is an element of competition: conflicting interests, power relations, struggle, manipulations, violence, animosity, enmity and so on. The principle is: me, not you.
+>
+> The unstated, irrational belief that people have, is that one of these three dimensions somehow makes up a higher truth than the other two. The Left somehow believes, in a subtle but pervasive manner, that solidarity is the highest truth. The libertarian Right believes that trade is the first principle. The conservative and the fascist believe in their hearts that fierce competition lies beyond the other two, that it ultimately defines social reality.
+>
+> ...
+>
+> You can play the same game with another, related triad: equality, freedom and order. They sometimes work against one another, sometimes create synergies—but they cannot even exist without one another. If you love freedom, you must also see that, at its very core, freedom is born through order and equality, both of which in turn need freedom to exist. Higher degrees of order is often what allows for greater freedom—but only if the order is of a general and abstract form. Simply making people “organized” by having them march together, as in North Korea, hardly makes for a free society. Having functional policing, orderly statistics and revision of public finances, might." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "Look very honestly at yourself—how many of your current views did you really hold ten years ago? Have you had any new insights, adopted new opinions or taken up any new values? Personally, I have continuously changed throughout my life. Other people, hopefully often (but certainly not always) the ones better informed than myself, have rewritten me and recoded me in a thousand ways—most of which happened outside of my conscious awareness, but not necessarily outside of theirs. And, most likely, the same goes for you.
+>
+> ...
+>
+> Indeed, the very fact that we manage to take ourselves this seriously, when we are almost certain to be utterly blind, confused and downright mistaken about so many, so fundamental issues, can only be described as a form of madness. We are all staring at the incomprehensible, absurd mess that is reality—and with the glazed eyes of mad conviction, we somehow manage to believe that we really get it. Preposterous, really.
+>
+> ...
+>
+> The cardinal of all such linear models in politics the belief that “if only people were like me, had my opinions, the world would be alright”. This is the point zero of political understanding. If you have this feeling, you know nothing.
+>
+> The point is that everybody already is like you—a very limited, vulnerable, hurt, single human being with almost infinite distortions and blind spots, working from within the narrow frames of her emotions, intellect and experience. And that is exactly why the world is a complete, utter mess. And because the world is a mess, you are a mess. You cannot trust yourself and your current conceptions and ideas.
+>
+> What then, can we trust? We can—or, at least, we have to—trust the processes that come out of our communication with one another, given that such processes are fair, open, without excessive emotional pressures and are conducted in a shared language. We must trust that if enough people break their ideas and emotional investments against one another, on average, and over time, something better (authentic, resilient, sustainable) can come out of it." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "The Heracles, Prometheus or Achilles of our age is whoever can think the most abstractly and act the most non-linearly—those who can live with and skillfully handle uncertainty and not be paralyzed by it. To do so, one must manage to stay determined even when the expected paths and results are largely unknown." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "In reality, liberal democracy in industrial society has been a party-political trench war between working class (worker, employee) and bourgeois (industry, professional, consumer, share owner) interests. Industrial society, its classes and categories, has spliced aspects of us into different shards, from which political identities have been formed. From these different identities we could then form parties and belief systems about what modern life is and should be.
+>
+> Liberal democracy works as a power balance between these different aspects of ourselves, as a dialectical process resulting from the interaction of different ideas—ideas that by themselves are partial and largely mistaken, but that together form a dynamic process that we know as the liberal, democratic market economy with public welfare (leading up to Green Social Liberalism). It never actually worked through the “informed citizen” and certainly not the “public intellectual”. The ideological positions, Left and Right, were false all along. What we hailed as liberal democracy was never based on deliberation about the common good, but rather on the dialectic between conflicting interests, checked in a dynamic power balance.
+>
+> It is only when industrial society fully blooms into postindustrial society (and education levels rise dramatically and class distinctions and the categories of class become blurred), that liberal democracy begins to live up to its own mythos as a deliberation between equal citizens. In such societies we begin to observe a situation in which arguments and reasoning of informed citizens actually do matter. This is what pushes us towards “the Nordic ideology” and its more self-consciously deliberative co-development.
+>
+> It is a popular sentiment that democracy has lost its vitality these days. Political scientists in country after country show appalling research results—the younger generation would sell their votes, don’t care about democracy, and would even support dictators. But that democracy is losing ground is a superficial analysis, an illusion. Truth be told, democracy (as the rule of informed, deliberating citizens) is only becoming real once society develops past the trench wars of industrial class parties. Before that, we never had democracy in any deeper, qualitative sense anyway. The whole system was built around the fact that our interests were at odds. You couldn’t actually unite “the people” or “let the people rule”.
+>
+> ...
+>
+> You can no longer believe that you are the libertarian defender of freedom, up against the odds with so many nasty control freaks of the Left and conservatives. You can no longer be the defender of the poor against the high bosses of neoliberalism and capital. You can no longer be the upstanding citizen, reacting against multiculturalism and relativist degeneracy, no longer a Green environmentalist reacting against the excesses of industrial society.
+>
+> All these positions still believe in those little shards that were one part of the greater whole. Once you see the larger process and identify with the dialectic of society as a whole, each of these positions is revealed as a partial, silly belief, a childish dream.
+>
+> There is something endearing, almost cute, about being so blinded by the current forms of liberal democracy, that you think that you can take one position within it, and it just so happens to be the right one. It is innocent, in a way. It is very much like when people in pre-modern times used to believe in Jesus or Mohammed just because they happened to be born on opposite sides of the Mediterranean; the highest cosmic truth was in all seriousness believed to be determined by flukes of geography. Modern people are “religious” in a corresponding way; they believe that the people born and raised in their position in society have the “correct” beliefs and values; that the truth is somehow dependent on where you are situated on a sociological map.
+>
+> Once you adopt the metamodern perspective on politics, you lose that innocence. You become secular in a more profound and systematic way. The modern worldviews, such as those of libertarians or socialists, appear as irrational as Kali, goddess of creation, with blue skin and four arms.
+>
+> ...
+>
+> And that leads us to a second, even deeper, belief of the liberal innocent: That you can choose not to act, and just be a normal citizen, and that you are thereby innocent. The belief holds that, if you “don’t want to control others” and “just live your life”, you are innocent; that only the politicians, reformists and dictators bear the true responsibility.
+>
+> But you are society as a whole, more than Louis XIV, the Sun King, ever was the state (the one who said l’état, c’est moi). Society is you—Left and Right, up and down. There is no “default position” to which you can revert, no way of “just being normal”. Ours is a meat-eating, animal-exploiting, cruel, capitalist, alienating, unfair, oppressive, unscientific, undemocratic, unsustainable society. If you partake in it, you are complicit in its crimes, mistakes and vices.
+>
+> And if you tolerate this, your children will be next. When I make suggestions about how to improve society, and you say no, but offer nothing in return, you are not being innocent, a liberal defender of freedom—you are killing children and burying them in invisible graves. When you call yourself an anarchist, an environmentalist, an anti-capitalist or just an honest working citizen, you are not pure, not taking the “right path” and leaving it to others to mess up the world. You are hiding behind a small shard of the totality of human And if you tolerate this, your children will be next. When I make suggestions about how to improve society, and you say no, but offer nothing in return, you are not being innocent, a liberal defender of freedom—you are killing children and burying them in invisible graves. When you call yourself an anarchist, an environmentalist, an anti-capitalist or just an honest working citizen, you are not pure, not taking the “right path” and leaving it to others to mess up the world. You are hiding behind a small shard of the totality of human existence and failing to take responsibility.
+>
+> Third and last. Once you see, with a transpersonal perspective, that you are the whole process of evolving language games, that you are the polarities and dynamics of the social and political developments, you also recognize that all of your positions, all of your opinions, all of your choices, both do good and cause harm. You are causing harm, doctor. You are causing harm.
+>
+> ...
+>
+> If you, like me, tend towards liberal stances on narcotics, you are also saying that you would cause many young, innocent people to suffer irreparable psychiatric harm, let them live through unimaginable hells, in order for humanity to stop the global terrorism, civil wars, criminality and prison-industrial excesses emanating from drug bans. Yes, I admit it; I will cause them harm.
+>
+> It is a question of choosing totality over partiality. Partiality is only possible if you believe in the liberal innocent. Once you choose totality, once you begin to see society as a whole, liberal innocence is lost.
+>
+> ...
+>
+> The modern worldview is ridden with inherent self-contradictions, with analytical dead-ends that cause intolerable suffering and are likely to eventually lead to the collapse of civilization. Against these dead-end brick walls of contradiction we must round up the ideas of modern life, the dearly held beliefs of people we love and care about, and execute them in the name of the revolution.
+>
+> When analytical rifles shoot ideas, they also shoot the human souls that worship them. We are attacking your time, your society and your way of life. Let the mass killings of liberal innocents begin." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
 > "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
