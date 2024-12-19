@@ -2401,9 +2401,43 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 >
 > Note that the different political stances at stage 13 Metasystematic generally have more in common with one another than with the corresponding ideological positions at the earlier stages. This has important implications for metamodern politics." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "The other thing that happened was that I learned more about cognitive development (more generally, not just the MHC) and came across ideas that nuance the picture. I’d like to bring two of them to the table here: downward assimilation and scaffolding.
+>
+> Downward assimilation means that, because of our ability to share a common language, you can take a word, symbol, sentence or even an attitude, that originated at a higher order of complexity, and still use it. Your use of that symbol will then inevitably follow the logic of your own stage, but it might still bring some meaning with it, and you can perhaps partake in conversations that would otherwise lie beyond your own stage of complexity. The complex symbol is assimilated “downwards”.
+>
+> ...
+>
+> The second concept, scaffolding, brings some hope to this misery. It is possible, namely, through the means of language and communicative actions, to support someone’s cognitive stage upwards—not just one, but two stages. Language has to be nature’s most awesome creation! Through language and interaction you create a “scaffold” that helps the other person to partake in behaviors that would otherwise be beyond his or her cognitive stage...
+>
+> The same goes for the rest of us: Language structures seem to be able to help us more than a bit. That’s largely how education works. But it usually takes long hours of interaction with people who are of higher stage than ourselves and who really walk us through the correct sequences again and again.
+>
+> So this social-psychological aspect of development creates plenty of room for flexibility (if you like, a compromise between Piaget’s rigid stages and Vygotsky’s faith in social context and human malleability).
+>
+> The common language also “stores” structures and patterns for us to use, so that a certain thought or behavior becomes more easily attainable. For instance, it is easier to understand what a “gravity field” is once people have discovered, named and explained it. So scaffolding is the other side of the coin of “downward assimilation”; when we grasp for notions that are out of our cognitive depth, we also stretch our minds, and we come under the influence of thoughts and ideas that would otherwise be beyond us.
+>
+> These two concepts, downward assimilation and scaffolding, explain a lot about why the MHC stages are so difficult to spot in the fussy world around us: We simply misinterpret the MHC stages because of their dependence on contexts and interactions. Add to this that we have three more dimensions of adult development (code, state and depth), and also IQ, specific skills, different levels of education, psychological health, and different ways to evaluate each other’s smarts. To further complicate things, the transition between two stages seems to happen in eight steps, where you gradually learn to coordinate things at the preceding order of complexity (the discussion of which I have omitted from this text). Phew! It should come as no surprise that the MHC stages are hidden in plain sight.
+>
+> When the underlying order in the chaos is so difficult to see, it can be very tempting to conclude that the world is simply fussy, disordered—and even to wear that skeptical conclusion as a badge of anti-reductionist honor, as a mark of our own open-mindedness, humility and spirituality. But there is nothing open-minded, humble or spiritual in failing to see—and properly respond to—the undeniable regularities in human behavior that are revealed by the elegant but merciless simplicity of experimental, empirical science.
+>
+> People try to resist these perspectives and theories in many ways, the most common perhaps being to attempt to typify the stages, making them into different “types” that cannot really be compared, thus relativizing the differences. It is a tempting move, because types are a so much less sensitive topic.
+>
+> Such relativization is in fact an inversion of what 19th century colonial thinkers did when they “stageified” different types (human races) into dominator hierarchies (white above black, etc.). Just as the Europeans invented false and arbitrary stage theories to justify their colonial political stances, so do people today invent false and arbitrary type theories to defend their political stances (ignoring the relevant research results of stage theories)—to defend ideals of equality.
+>
+> But you can’t wish the stage differences away. It’s just dishonest and counter-productive. There really is a logic to the order, and being at stage 10 Abstract is not simply “same, same but different” as being at stage 13 Metasystematic. There is a huge qualitative difference.
+>
+> Developmental stages should not be confused with “types” (black/ white, male/female, East/West, quiet/talkative, etc.). Types are those things that really are beyond hierarchical comparison, indeed “same, same but different”. Stages constitute a logical, hierarchical and empirically verifiable order.
+>
+> ...
+>
+> But remember what David Hume taught us: an “ought” cannot be derived from an “is”. The fact that something happens to be true doesn’t make it right in a moral sense. Likewise, the opposite is true: an “is” cannot be derived from and “ought”. That something factual doesn’t rhyme with a moral intuition we have, doesn’t make it fictional. No matter how provocative—it’s still true, whether we like it or not, and then we have to make the best of it...
+>
+> Listen, the fact is that people are of different cognitive stages, plain and simple. Deal with it, and use it for something good. Because, again, the facts of the matter are just one part of reality. The real reality comes into being when we use the facts to tell new stories, to create new realities." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "In the future of democracy cognitive stages may have an important role to play. But the point is not to exclude the voices of all the stage 10 Abstract and stage 11 Formal thinkers—that would be unethical and sure to backfire dramatically. The point is to create processes in which people’s perspectives make up a part of a larger whole, a whole which resides at a higher order of complexity.
+>
+> The main political implications have to do with the cultivation and design of a deeper democracy, not the contrary. In our current political system we are not nearly democratic enough, and that’s exactly what holds the more complex ideas and solutions in check. In a good democracy the more complex answers to life’s problems can emerge, answers that are more inclusive to a multiplicity of interests and perspectives. In a poor democracy, the lowest common denominator sets the limit." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+^^ last 2 sentences are really good
 
 > "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
