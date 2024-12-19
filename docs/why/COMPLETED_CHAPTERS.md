@@ -281,6 +281,13 @@ honorable mentions:
 - brendan's books on emergence & meaning?
 - the world we create: from god to market
 
+top10 heresies:
+- random mutations are a small part in the variation of biological evolution and we're yet to discover/explain the full picture
+
+top10 mavericks of psychology alive today:
+- Gregg Henriques
+
+
 
 What concepts should everyone be familiar with?
 Planetary boundaries
