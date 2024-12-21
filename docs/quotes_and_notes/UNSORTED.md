@@ -5918,6 +5918,41 @@ How do we increase the amount and quality of conscious experience?
 We must facilitate the optimization of search in the problem space
 
 
+
+
+Do not destroy the means of memetic distillation/integration/competition/evolution/compression
+
+From wealth inequality to personal consumption inequality - but status and productively and competently steered capital should remain with no upper bound - we should absolutely want freaks of nature like Elon Musk to gain as much responsibility as possible
+
+Rise, rise, stigmergic brain
+deshi basara - the chant from the dark knight rises
+
+God is the all-encompassing and farthest-reaching cognitive light cone
+
+FAQ: how will this play out?
+Refer to roadmap
+
+What is the best set of resources to help me understand the most important questions in life - what we are, how the world works and what to do?
+
+What is success, what leads to it, and why?
+
+
+Make humanity deserving/worthy again
+MHD/WA
+
+Relevance is sacred
+
+Evolution’s arrow points towards hierarchical self-organization
+
+What if we gifted each other recognition instead of tokens for conspicuously consuming real-world resources
+How do we scale practical, efficient, and optimal minimalism? How do we make asceticism easy and cool at the same time?
+
+Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity
+Purity is giving the most while taking the least while actively promoting the same ideology. Purity is living for others.
+
+
+
+
 > "What fraction of apparent ‘elite’ preference is downstream of blackmail?" - [Jordan Hall](https://x.com/jgreenhall/status/1836741719804514548)
 
 > "Well, he's dead, so in general you always have to be careful..." - [Bill Gates](https://www.yahoo.com/news/bill-gates-answered-questions-meetings-124750218.html#:~:text=Well%2C%20he%27s%20dead%2C%20so%20in%20general%20you%20always%20have%20to%20be%20careful%2C)
