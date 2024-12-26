@@ -259,6 +259,8 @@ https://x.com/StanfordAILab/status/1818669016325800216
 
 > "The scientific method is simply that body of practices best suited for obtaining reliable knowledge." - [John Brockman](https://www.edge.org/annual-question/what-scientific-term-or%C2%A0concept-ought-to-be-more-widely-known#:~:text=The%20scientific%20method%20is%20simply%20that%20body%20of%20practices%20best%20suited%20for%20obtaining%20reliable%20knowledge.)
 
+In science ideas (papers) rise in popularity with their citations. But what if someone wants to credit an idea without necessarily having to write a paper to reference it?
+
 What if instead of the publish or perish paradigm for producing science we evaluated ideas in terms of their importance and not simply how many papers there are - actually we should reduce the ratio of papers to significant contributions
 
 > "Do you want a revolution in science? Do what businesspeople do when they want a technological revolution: Just change the rules a bit. Let in a few revolutionaries. Make the hierarchy a bit flatter, to give the young people more scope and freedom. Create some opportunities for high-risk/high-payoff people, so as to balance the huge investment you made in low-risk, incremental science. The technology companies and investment banks use this strategy. Why not try it in academia? The payoff could be discovering how the universe works." - [Lee Smolin](https://www.goodreads.com/quotes/8753353-do-you-want-a-revolution-in-science-do-what-businesspeople)

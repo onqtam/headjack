@@ -2093,6 +2093,8 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
 
+> "" - [The local prospect theory of subjective experience (working paper), by Francis Heylighen & Shima Beigi](https://cris.vub.be/ws/portalfiles/portal/115370906/ConsciousLocalFieldTheory_working_paper.pdf)
+
 
 
 > "" - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)

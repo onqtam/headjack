@@ -2439,35 +2439,254 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 ^^ last 2 sentences are really good
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+at some point I gave up taking quotes because most of it is good
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "You have to try to construct a synthesis from all that you know from the earlier symbol-stages, in order to create a society that solves the three major problems of modern life: the excessive global inequalities, the alienation or neurotic anxieties of modern life, and ecological unsustainability.
+>
+> This synthesis must of course be open-ended and continuously revised, a proto-synthesis. You have to offer a path to Utopia yourself, and it has to really include the traditional, modern and postmodern—even while knowing that this path will never be the only one or “the right one”. We do it because we have to, even at the very great risk of being wrong.
+>
+> And this requires that you take all the former metamemes much more seriously: you have to actually deal with the prospect of One Universal Truth, that you harbor and cultivate within yourself a deep, sincere faith (symbol-stage D Postfaustian); you must look for objective truth that we can all agree upon and seek to wield it to engender progress (symbol-stage E Modern); and you must seek to criticize and find all possible cracks and excluded voices in that story (symbol-stage F Postmodern).
+>
+> ...
+>
+> Dear pomo, you have been monolithic in your embrace of multiplicity, narrow-minded in your attempts at open-mindedness, judgmental in your non-judgment, hierarchical in your anti-hierarchy. In a few words, your problem is not that you have been too critical, postmodern and mulitiplistic—you have not been nearly critical, postmodern and multiplistic enough.
+>
+> ...
+>
+> The metamodern mind takes all of the earlier perspectives at face value, as real; it’s just that some of them are more real than others. They are ranked, compared and balanced against one another. And for that, one must be able to truly listen to and understand—and to a certain extent agree with—even one’s most bitter enemy. We must learn to listen to another person and to see with her eyes and to merge our reality with hers, to see how her perspective is a real, ontological, part of reality. Listening to a stranger becomes the highest form of jihad.
+>
+> ...
+>
+> If you want to include all perspectives and treat them fairly, you have to be able to compare them to one another, and see how they are each an important part of reality, and how they fit together. Otherwise you are being condescending and monolithic yourself.
+>
+> If you want to transcend and leave behind the obsession with hierarchies, you must be able to dispassionately describe hierarchies and relate to them productively. If you resent hierarchies and deny them, you are still in their grip, still obsessed with them. Precisely by demystifying hierarchy we can free ourselves from this obsession." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "What I am claiming, however, is that states are more volatile and easier to affect than stages of cognitive complexity—and that this has vast implications for society as a whole and the future of life. It is a moral imperative, I would argue, to organize society in a way that optimizes the likelihood for higher subjective states of living organisms." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "Just listen to a person like Eckhart Tolle, the author of the book The Power of Now, who has been featured on Oprah Winfrey and gained great traction. He obviously has high states. But his answers on any social or societal issues, and the theories propounded in his books, are of average complexity (MHC stage 11 Formal, more precisely). He just doesn’t have the answers. Which is okay. The only problem is that he makes all sorts of analyses of society, from politics to mental health to gender and sexuality—and many people listen. It should be made perfectly clear that this man, while being both kind and wise, is poorly educated and, truth be told, not very clever. Nothing wrong with it, but it should be recognized." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "To conclude: Yes, the subjective state of organisms is the most important thing in the world, and yes, it should therefore be made a central goal of society. And yes, it has great significance for the overall development of people and societies. But no, having higher state does not give you all the answers. And no, we should not build a society that creates hierarchies based upon vague and unverifiable phenomena such as subjective state. And YES, more research is needed." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "“Great-depth” people are the ones who have experienced a wider range of subjective states, who are well acquainted with being in such states and who have learned to handle them. This goes both for lower states and higher ones. For instance, depth by lower states can come to a person like Viktor Frankl. He survived in a Nazi concentration camp by finding meaning...
+>
+> ...
+>
+> So “depth” is the stretch between the lowest states that we intimately remember, know and accept, and the highest states that we have tasted and aspire towards. Depth is the number of states that have become inseparable parts of us; integrated into our memories and personalities. Note that this means that a person can have a relatively low average state, but still have great depth, as she has experienced higher states before and holds them in clear memory—she “knows her way around them” and can understand other people living, acting or thinking from such states, even if she herself may never again experience these same states." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "To understand how depth develops we must again underscore the difference between state and depth. The subjective state of an organism only ever exists in the “now”, in any one given moment. Depth is something that develops and accumulates over time. States come and go; depth very rarely decreases (only if you become senile or the like)—once you have reached a level of depth, it tends to stay." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "The people we like to imagine as “spiritual masters” are the ones that have both high average state and great depth. But then again, we should really not deify such folks; first of all, they too have bad days, and second of all, we might be mistaken (and there is no reliable way for us to check). And there is also a host of potential pathologies (sicknesses) that come with the territory of greater depth and higher states (spiritual arrogance, tendencies for holistic visions that lean towards totalitarianism, and other things; these things need not concern us here). And, again, they can be limited in other respects (low complexity, outdated code, etc.). In fact, they usually are.
+>
+> So, developing depth means to experience new states and to integrate them into one’s psychological constitution so that they “permanently” change one’s relatedness to the world and to existence as a whole." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "What a strange faculty! How can it be, that a human being can look into a deep-space telescope and recognize faraway galaxies as aesthetically pleasing or awe-inspiring? Beauty, in this sense, is a kind of recognition. We recognize things such as harmony, balance, proportionality, contrast, pattern, variation, rhythm, repetition; aspects of the world that we spontaneously seem to appreciate. We appear to be able to deepen our relationship with reality by expanding this recognition." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "In a world of misery and evil, at least there is the truth. The pre-modern wisdom traditions have been (and still are) quite weak in this regard, despite the rich scholarly traditions of our monasteries. The awe and curiosity that stem from recognizing the open horizons of the mysteries of the elegant universe, of nature, and of reality itself, are not what people will usually learn to cultivate at Zen retreats. In fact, there tends to be lingering pre-modern irrationalities and beliefs that disrespect any honest search for truth, often supported by explicit anti-intellectualism. On the other hand, our scientifically inspired mainstream society tends to instrumentalize science and knowledge to an excessive degree, reframing it as “academic achievement”. The spiritual meaning of science, of knowingness, is subdued to grosser human needs, such as acknowledgment, status, accomplishment, material prosperity and survival. That being said, the recognition of mystery may be the most accepted and encouraged form of depth development in modern society. There should probably be better ways to tap into it, in order to cultivate a more existentially mature and transnational civilization." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "The third form of depth development is the recognition of tragedy. It is the sense and realization that we live in a tragic universe. If there is a fundamental divide between the innocence of (healthy) childhood and the maturity of adulthood, it is that children live in blissful unknowing of the utter tragedy of existence, whereas the (spiritually mature) adult lives in full awareness of suffering. To be spiritually mature means both accepting the unavoidability of suffering and being resolved to prevent and mitigate it.
+>
+> ...
+>
+> Depth as tragedy is development of the 2nd person relatedness to reality. This is the depth of the saint, the bodhisattva (an Eastern equivalent of the saint) and of what in Western philosophy is called “philosophical pessimism” (perhaps Schopenhauer is the best example). It is the depth that grows from living with a broken heart. Tragedy is necessary for us to mature beyond our current, limited form of “humanity” and begin to take responsibility for all sentient beings in all times. Only a sense of tragedy can drive us to work for the wretched of the earth: loving until it hurts; as medieval nuns of contemplative Christianity, licking the wounds of lepers. And for this reason—I can say with perfect conviction—that only broken hearts can save the world." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "We surrender to the primacy of subjective experience (beauty), to the innocent face we have to serve and protect (tragedy), or to the search for truth (mystery)." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "A large portion of people in modern society believe that they have tear-drenched, profound inner depths which can only rarely be found in others. But as I said, it’s a mirage. The truth is that very many of us harbor greater inner depths than we normally manifest in our lives, or than others normally recognize in us. We are just not offered the social situations to manifest these inner depths. So we keep it to ourselves. There, another meaningless and excruciating tragedy of existence.
+>
+> Moreover, we are generally only capable of recognizing the forms of depth that we have developed ourselves: The mystery-driven scientist fails to see that her seemingly simple-minded neighbor has developed a much more profound sense of tragedy of the world, and so forth. With “the voice in our heads” (our normal verbalized thinking) we continue long monologues over the years, believing that we are different from the others. And they think that they are different in the same way. In a way, we are talking about the opposite problem from the one that shows up in spiritual communities, where everyone pretends to be of higher state than they really are: In mainstream society, we generally pretend to have less depth than we really do.
+>
+> As a society, we have not admitted to ourselves just how utterly vulnerable, how beautiful and pathetically tragic we are—and in our loneliness we tend to flatter ourselves with unwarranted beliefs of how uniquely profound we are as “individuals”, just how different we are from “most other people” (but we’re not).
+>
+> A crucial aspect of the maturation of humanity is that we not only begin to actively and deliberately cultivate depth in all three aspects (beauty, mystery and tragedy) as well as depth in both its light and dark form—but also that we create institutions and social settings in everyday life that are much more proficient when it comes to accommodating our inner depths. This includes managing the inescapable and troublesome fact that people are at different levels of depth." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "The effective value meme is an overall pattern of the mind; it is an equilibrium upon which one’s values and worldview tend to stabilize, setting the framework for the political behavior of a citizen. The effective value meme is usually not an explicitly held body of thought—it’s more like the water a fish swims in; how your whole reality appears to you, even before you notice anything that dwells within that reality.
+>
+> A population always has a developmental demographic of some kind, with some people at earlier and others at later effective value memes. Later value memes are more logically and functionally in tune with larger and more complex societies. A large host of the problems of today’s world are of this nature; they are developmental imbalances.
+>
+> The world is a terrible mess because the world-system we live in corresponds to a very high effective value meme, while almost all of the world’s population is still left at earlier effective value memes.
+>
+> We live, essentially, in a retarded world. Our value systems do not correspond to the society we live in. Our ways of seeing, sensing, feeling, acting and understanding do not correspond to the very society that we ourselves have created. This glitch is lethal. And this is the issue of our age: to develop the political psychology of the world population. Unfortunately, stimulating such political-psychological development is an enormously tricky matter.
+>
+> So developing the effective value meme of the general population is one of the most important things in the world right now. But a higher effective value meme is not always good: Each stage of development has its own risks and its own pathologies—there are new things that can (and sooner or later always do) go horribly, horribly wrong.
+>
+> Your effective value meme is a kind of average between your complexity, code, state and depth. It is called “effective” value meme because people tend to have an overall pattern of how they function in society even if they cannot easily be squeezed into one of Beck and Cowan’s vMemes; hence they are “in effect” at one value meme, even if they may differ in one or more regards (for instance having lower complexity or greater depth)." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
 
-> "" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+> "METAMODERN VALUE MEME... The primary characteristic of people of this value meme is that they value qualitative development of human beings: that people go up in stage, that psychological development is supported and that you work to create a new society beyond the modern one. Because they have a more developmental perspective, they also accept, learn from and try to include all of the former value memes. This is quite unlike any of the other value memes, all of whom believe that they alone have the right path. The Metamodern value meme is less judgmental; it seeks to integrate elements from all the former ones; it sees partial truths in all of them; it wants to integrate them in one grand synergistic scheme, and seeks to accommodate them—to create a society in which traditional, modern and postmodern people live together harmoniously.
+>
+> And in that vein, the Metamodern value meme is less ostensibly oriented towards a political Right or Left. People of other value memes, like the exploitative boards of major corporations, even folks like the fundamentalist terrorists, are not seen as evil. They are, to put it bluntly, developmentally challenged. Retarded. This means that you need to understand these people and why things couldn’t be any different, and why they bear no guilt. It is a sociological-developmental view of life. Of course, the risk with seeing development instead of moral responsibility, is that you can be condescending. It is simply part of the challenge; if you are seen as condescending, it simply means that you have failed to successfully take the perspective of others and adjust your communication accordingly.
+>
+> But the metamodern mind also realizes that an inclusive and harmonious society cannot be achieved within the confines of modern life or by means of a postmodern critique thereof. Hence, a new society must be created from the modern one, which means that the metamodernist must ultimately be against modern society.
+>
+> The second characteristic is that they value inner dimensions much more. So you will find that people of this value meme seek to create more authenticity and intimacy in work organization, to democratize institutions with clever social innovations, to promulgate mindfulness and meditation practices, to emphasize more philosophical and existential issues in their work. They will tend to be very process-oriented, trying to involve people in interactive processes a lot more." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "But all of this has a rather innocent origin: bad theory. The cure to this madness is good theory." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "So, death to TURQUOISE (and its equally unrealistic counterparts in other theories). Long live the Metamodern effective value meme. Even if it is still being born, it can and will change the world. There will of course be value memes beyond the Metamodern, but the time just hasn’t come, not by far. The “post-metamodern” value meme can only show up once a Metamodern society has manifested and can be criticized on its own premises. Up until that point, the belief in higher value memes is fool’s gold." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "Which brings us to the Metamodern value meme. The postmodern mind believes in there being such things as “power structures”, “ideology”, “postcolonialism”, “patriarchy” and “discourses”. The metamodern mind sees beyond these explanations; it understands that the postmodern mind is still being essentialist, i.e. that it believes in essences which are inherent to these invisible forces. The postmodern mind thinks that there is some kind of metaphysical evil called “power structures” and that you can remove this evil by invoking its opposite: emancipating critique, deconstruction, inclusion, more soft and relativist values and so forth. But that means you still believe in there being some evil “out there” and you being the “good guy”: No longer the bad intentions of others, but certainly a collective and sociological evil that must be destroyed. The Metamodern value meme doesn’t believe in anything like that. It sees that all of these things only emerge by necessity, as emergent properties of complex systems. It sees the world as more mechanical, and less good or evil—all things are explainable, and there are no evil patriarchy spirits or ghosts of colonialism past. These are illusions, just interpretations of effects of self-organizing systems. And the way to solve these problems is not by “crushing patriarchy”, but by genuinely understanding the ideas, perspectives and behaviors of all stakeholders, and by finding ways to develop them and otherwise affect their behaviors and interactions. More secular than the postmodern mind.
+>
+> So step by step, the belief in a “ground of reality”, in “true essences”, is pushed farther into the periphery. Step by step, people acquire a worldview in which larger parts of reality can be questioned, and thereby explained, and thereby governed. The spirits and ghosts are exorcized again and again. The main takeaway from this is, as I have indicated several times already, that we shouldn’t see people at the Modern value meme as “secular”. They believe all sorts of deeply irrational and crazy things, and they cannot be trusted to act rationally in matters of societal development. This is because they will tend to rely upon much too rigid an unquestioned assumptions about reality. Only the Metamodern value meme can see the world with a sufficient sobriety. Secularism isn’t really about religion vs. non-religion, or spirituality vs. non-spirituality; it is about expanding the ability to question and recreate reality.
+>
+> To achieve a secular world is not about making people not believe in Jesus or Allah anymore; that’s just a speck on the larger map. A secular world must be governed by metamodern principles. That’s what it’s about. Anything less than that will still be a world governed by crazy, irrational and outdated ideas. You go from spirits to gods to a universal God, to reductionist science, to critique and sociology of knowledge, to an understanding of transpersonalism and complexity. At every step, you kill the spirits and gods of yesteryear. The metamodern creed is, at its core, married to an atheism so pervasive and radical that even the modern and postmodern gods are exposed as illusions.
+>
+> All of the value memes claim to be secular. All claim to speak of universal truth. The problem is that they can only see as far as their own value meme; hence they all believe that they have dispelled the myths and reached “reality”. They are all wrong. Even metamodernism is wrong. But unlike all the others, we know it ourselves. A higher form of secularism is rising. And lagging terribly." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "When societies, for any number of reasons, produce large segments of populations that are lagging behind when it comes to value meme development, you get value meme retardation. The word retardation means “being too late”, which is what we’re talking about here. It is important to understand that this is indeed what is going on...
+>
+> ... What I want with the term is simply to point out that we, as a global society, are falling behind in our developmental psychology.
+>
+> I also did it for effect. We live, essentially, in a retarded world. Not then, an evil world, a fallen world, a world of greed and capitalism, a world out of touch with Mother Nature, a crude materialist world—but a retarded world." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "So where do “magic beliefs” come from? Of course, in an animistic society, it is normal to believe in magic. But strangely, you can find all kinds of magic beliefs in modern people as well—even among the educated and intelligent ones. For instance, I have encountered any number of successful modern people who think that fate has something in stall for them, that the world around them conspired to reveal that they were special, that they can “sense” what is going to happen, that there is such a thing as “synchronicity” (the idea that very improbable things happen because the world supports you in your spiritual journey), that a loving heart can literally heal somebody at a distance, that really advanced Zen masters can walk through walls or levitate (float above the ground)—the list goes on. Of course, none of this is true. It’s all make-believe and nonsense or there are perfectly natural explanations (for instance, the experience of “synchronicity” can be explained by a combination of selective memory, self-deceit, narcissism, probability theory and network or cluster effects). We live in a magical and miraculous world, but there is no magic and there are no miracles.
+>
+> What we are dealing with in these many cases is the occurrence of the magic residual, i.e. that people have seen greater depth, mystery and beauty in the world than their cognitive minds—and their available symbolic codes—can handle. Thus, there is a glitch, a developmental imbalance, through which magical beliefs and other superstitions can sneak in.
+>
+> The way we conventionally think about it is that intelligent and complex thinkers are the ones that are resistant to magical beliefs. There is of course a lot of research to support this claim. But I hold that this is only half-true. The researchers didn’t ask the right question. What you should look for is how depth, state, complexity and code relate to one another. You find magic beliefs in people who are of greater depth and higher state in comparison to their complexity and symbolic code. Magic can be reintroduced again and again in smaller doses at the higher stages of complexity. Whereas kids believe in snarks and magic tricks, above average complex adults can believe in “synchronicity”, reincarnation, the astral plane, flows of subtle energy, spiritual family constellation work, telepathy, the Maya calendar, that you can “manifest” things in your life by way of thoughts and wishes, or even just that God hears your prayers (again, it’s all utter bogus).
+>
+> I have heard any number of serious psychotherapists and PhDs (even within the natural sciences) go on about this stuff. It is not because these folks are more stupid than your average modern Joe—on the contrary, they are above average intelligence—but because they out-depth and out-state themselves.
+>
+> This creates a rather strange matter of affairs: The people at the highest value memes—like Metamodern—are more likely, rather than less, to believe in preposterous and magical things. The magic residual has snuck in. The exact same openness towards the beauty and mystery of the universe, that sense of grand wholeness and awe, also cracks your head open so that the most dim-witted of ideas can sneak in and stick.
+>
+> ...
+>
+> Hey, I told you development wasn’t an easy, straightforward matter. I told you higher value memes aren’t always better. But then again, is it so bad if these folks believe in a little magic? Has it ever done any harm?
+>
+> Yes. It is deeply, severely harmful. In today’s global capitalist, postindustrial internet society, magical beliefs are a social pathology, a disease of the mind. Why? Because they open up the door for any number of misuses of power. If there is magic in the world, anyone who you believe has more contact with this magic than you do, gains arbitrary power over you. You surrender your own mental faculties to them, and from there on, very bad things can and will happen. It is the royal road to totalitarianism.
+>
+> Also, all magic beliefs make you waste time and energy doing things that simply don’t work. These faulty towers of thought can cause all kinds of nasty hang-ups that make your life miserable. And given the state of the world, we just don’t have the time for your “subtle energy purification” and magic spells. Not even for your prayers—unless you mean contemplative prayer, the purpose of which is to develop your own psychology. Most of all, this kind of fuzzy thinking makes it difficult to think correct, complex, analytical thoughts: It can hinder your successful management of complexity.
+>
+> But there is another kind of developmental imbalance that is just as harmful: reductionism. The prickly people. It is when you out-complex and out-code your own depth and state. Whereas the harm in magic beliefs is quite obvious, reductionism is harmful in a more subtle way. It is when your mind picks everything apart and uses its intellect in a much-too-instrumental manner. The world appears too dead, too meaningless, too mechanical for you to really care about it.
+>
+> At a subtle level, the reductionist feels a vague aggression towards reality and existence: “Was this all?” You gain a sense of satisfaction, a faint feeling of revenge, from exposing reality for the meaningless, dead piece of indifferent shit that it really is. You pick it apart and see that there is always hardness beneath the softness, selfishness beneath the love, mechanics beneath the wonder, and so forth. The reductionist mind is blind to the greater whole, blind to serving a deeper principle of life. It becomes a cancer: Thinking, thinking, serving small and selfish desires by turning all of existence into an extraction project. And why not? Reality is dead, meaningless dirt. And I will use my hard, effective reason to show that all that glitters is only ever grime. But at least I will get what I want." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "What happens if you have a modern state, with all of its power, bureaucracy and technology—and you rule it with the mental framework of Genghis Khan? Nazism, that’s what happens. Nazism isn’t pure evil; it is a value meme retardation, a developmental imbalance. Nothing more.
+>
+> What happens if you have free information in a super-efficient, self-organizing global network of computers (i.e. the internet) and some people use it for holy war, following the Faustian value meme so that its warriors can go to Valhalla? You get Al-Qaeda and ISIS.
+>
+> What happens if you have nanotechnology and biological hacking readily available, and millions of people use these super-technologies in a narrowly profit-maximizing capitalist manner? What happens when an authoritarian Chinese government gets its hands on metamodern theory (or an equivalent) and starts using it in a non-democratic, manipulative way? I guess we’ll find out pretty soon.
+>
+> Can you see now that development matters? That inner dimensions matter? Can you see that we need to balance science and cognitive complexity with inner growth—and vice versa?" - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "I guess I am saying: The value memes are good at explaining the world, and for understanding society, politics and people around us. But they obviously don’t answer all of your questions. So when you go out and apply these insights in your life, please keep in mind that there is much more to psychology, sociology and politics. Still though, it is my honest belief that you have just been equipped with one of the best and most powerful theories around. Use it well." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "Why the Postmoderns Cannot Save the World
+>
+> To the pomos, the metamodern revolution looks like something that crawled straight out of hell. Suddenly, it’s all back: hierarchies and developmental models and grandes histories and social engineering—even spirituality.
+>
+> Except this time, you keep losing the arguments. Every time you attack this obvious evil, you end up being the bad guy. When you say that they are hierarchical, they admit it and say that if you don’t accept hierarchies, you are being judgmental yourself. When you tell them they are accommodating hillbilly racists, they say that hillbilly perspectives cannot be excluded and that you are attacking them from a position of greater cultural capital, a position of privilege. (Besides, if you despise hillbillies and mainstream whites but not the same positions within other communities, you are implicitly downgrading other ethnicities, as whites are seen as more morally responsible than minorities.) When you accuse them of excusing capitalism, they point out that they are better at creating an alternative than you have been (see my other book, Outcompeting Capitalism). When you say that they are deterministic, crude developmentalists, they answer with empirical evidence and note that if you’re not a developmentalist you can’t say why feminism and animals rights would be better than mainstream capitalism. When you say that they are being mystical and “new agey”, they point out that your own position is based upon beliefs that cannot be proven, and that you are excluding and degrading minorities if you devalue all their spiritual experiences. When you tell them that their developmental view is elitist, they point out that a vast majority of the population feels extremely alienated by your own values, but that metamoderns at least allow for a developmental path that leads to their own position. When you say they don’t oppose patriarchy, they point out that patriarchy is context dependent and so you cannot categorically hate it. When you rage against the machine and neoliberalism, they point out that you are being essentialist, ascribing inherent qualities to complex phenomena that couldn’t possibly have an “inner essence”. When you say that they are not egalitarian enough, they point out that you have an elitist, narrow conception of equality. When you say that they think they have the one truth, they say that their developmental model implies that there are yet higher value memes, which your own model does not. When you say they are obsessed with development, they point out that development is always messy, context bound and problematic and that your only alternative seems to be moralism.
+>
+> Being confronted with metamodernism is an extremely frustrating experience for the postmodern mind. People so much want to believe that they themselves are the good guys. But when faced with a higher effective value meme, you are beaten on your own terms.
+>
+> It is, admittedly, tempting to gloat at the painful confusion that this can cause people who hold opinions and perspectives differing from our own. Postmodernists have shown very little mercy against the modern mainstream people these last few decades: Using all manner of judgmental shaming strategies and political correctness to make people comply with moral causes like gender equality, anti-racism and animal rights.
+>
+> Note, however, that the real difference between postmodernists and metamodernists is that the latter have solidarity with the perspectives of others. Hence, unlike the postmodernists, the metamodernists don’t judge people for their opinions. And so, they will understand that a normal postmodern person has struggled all her life to find some meaning and a moral compass in this dark world. And now that she has finally found it, and uses it to serve her conscience, some strange person shows up and takes it away from her—leaving her alone and confused in a world of darkness, where evil can and will reign. (Or that’s what it feels like.)
+>
+> And because the metamodern mind can see that, because she takes responsibility for and cares about people working from all perspectives, she is superior to the postmodern mind. She doesn’t judge capitalist society, or conservative Christians, or even the terrorist bombers. She sees that only by understanding their perspectives—and synthesizing them so that they can work together, or at least find less destructive outlets—can you affect their behaviors. And she doesn’t judge the postmodern, but has solidarity with her.
+>
+> Because the fact is, for global society to become genuinely peaceful, non-exploitative, sustainable and free from animal slavery, you would need a solid majority of the world population at the Postmodern value meme. Since that isn’t going to happen anytime soon—perhaps not for another century—our society can and will crash if people don’t actively and consciously manage all of the existing value memes: from animistic to metamodern.
+>
+> And since the Postmodern value meme doesn’t admit the existence of value memes—and believes that all will be fine if you go on “fighting patriarchy” and “explaining abolitionist animal rights” and “curbing racism” or “crushing global capitalism” or “creating a movement of protestors” or “criticizing society’s power structures” or making more casual words and expressions taboo—they simply cannot productively manage the other value memes.
+>
+> The postmoderns end up alienating a vast majority of normal modern people, making them feel confused, insulted and frustrated. And once that has gone on for a long while, the majority revolts and begins voting with Trump and the nationalists. Non-postmodern people begin to feel a subtle sense of revenge when somebody speaks out against political correctness.
+>
+> The Metamodern value meme can and will manage people of lower value memes, finding ways to include them in more productive manners. This is what the postmoderns cannot do. Nor can they devise a plan for increasing the effective value meme over a few decades.
+>
+> So the Metamodern value meme is here to stay. It is just a fact of life that the different value memes cannot really be friends. After all, each value meme is defined precisely opposing its predecessor.
+>
+> But again—why can’t we just stay at postmodern? After all, things were so nice. We were the good guys; anarchists, communitarians, multiculturalists, environmentalists, vegans, queer feminists, inter-faith dialogue people, volunteering activists, creative industries workers who gave much of our income to charity. Why can’t we just keep doing our thing?
+>
+> Because it doesn’t work, that’s why. Most people are of other value memes, and they really don’t want what you want. And because you cannot get most people on board, because you confuse, alienate and even disgust them, they won’t cooperate. They won’t buy your framework. Did you ever notice that most people just don’t care about your activism? They really don’t care about you.
+>
+> Postmoderns cannot save the world. Certainly not Noam Chomsky. The poor old man, for all his intelligence and kindness, is profoundly deluded. Noam Chomsky is profoundly deluded. The world doesn’t work the way he says it does. Not even Bono can save us.
+>
+> What can? The metamodern value meme. And how? By means of creating a listening society; one that can bring a majority of people to the Postmodern value meme, and a solid percentage to the Metamodern value meme—perhaps even more than two percent of the population. We can develop both code, state and depth. It remains to be seen to what extent cognitive complexity can be extended in a human population.
+>
+> But since there are currently no metamodern governments in the world, nobody’s expending time and resources to find out. Which might be a problem." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "Metamodernists define themselves through the struggle of value memes against value memes: It’s not if you’re Right or Left that matters the most, but how complex your thinking is." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+> "Metamodernism, the word, is a silly adaptation in a way. “Meta” means “after” in old Greek, just like “post” does in Latin—so it’s the same word as postmodernism, basically. But the connotations are different. The “meta” prefix brings to mind such things as “meta-discussion”, i.e. a discussion about the discussion and “meta-theory”, which is theory about theories. So the metamodern cultural phase somehow brings with it a bird’s eye on modern life and it begins to reflect more deliberately upon it, to try to shape it.
+>
+> Meta is often taken to mean above, or beyond—and sometimes both of these. Metamodernism as a cultural phase is what comes after postmodernism, but it does so by being more postmodern than postmodernism itself—just as the postmodernism of the 1980s was more secular and disenchanted than the modernist mindset itself.
+>
+> ... But metamodernism is qualitatively very, very different from postmodernism: It accepts progress, hierarchy, sincerity, spirituality, development, grand narratives, party politics, both-and thinking and much else. It puts forward dreams and makes suggestions. And it is still being born." - [The Listening Society, by Hanzi Freinacht](https://www.goodreads.com/book/show/36107916-the-listening-society)
+
+
+
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
 
 

@@ -86,6 +86,9 @@ Here is what facebook should do
 Here is what insta
 
 
+Comics po knigata - za vseki chapter/section
+
+
 A public list of who has signed up for this system
 
 summoning the GB as a ritual - until self-reference is achieved ala Hofstadter's strange loop thingie
