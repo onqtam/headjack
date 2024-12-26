@@ -2614,17 +2614,55 @@ at some point I gave up taking quotes because most of it is good
 
 
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "That the very social fabric of everyday life can and must be intelli­gent­ly developed is the essence of political meta­modern­ism...
+>
+> ...
+>
+> “The listening society” is the name for a vision of the future welfare sys­tem which expands and deepens the current universal welfare pro­grams by add­ressing the higher psychological needs of human beings such as belong­ing, esteem and self-actualization—a welfare system determined to ensure that as many as possible don’t feel lonely, socially inferior or trapp­ed in meaning­less lives.
+>
+> The listening society is a welfare society that considers the emo­tional wellbeing of people just as important as their economic welfare; a society that takes into account the more intimate psychological needs of human beings: good relationships, inner security, meaning, self-know­ledge. This would be a soc­iety where depression, stress and alienation have become political iss­ues in the same vein as security, jobs and housing are today.
+>
+> ...
+>
+> The central idea is that by cultivating a list­en­ing society, we can not only create much happier human lives, but also dramatically spur the psychological development of larger parts of the pop­ulation into the higher stages. Such development is necessary for people to create, part­icipate in, and uphold functional societies in this increasingly comp­lex world—an endeavor that has both incredible poten­tials and great risks." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "What is the main difference between the winners and losers of history? Answer: Getting the attractors right.
+>
+> Whereas the amateur studies how the present has been shaped by the past to foresee the future, the pro studies how the future is already sha­ping the present. Many of the great change-makers in history, whether we’re talking about political figures such as Mahatma Gandhi or entrepre­neurs like Steve Jobs, seem to have had an intuitive understanding of the way the future exerts a kind of gravitational effect upon the present; that dev­elop­ments in the present in certain ways are pulled towards the unrea­li­zed potentials of the future. What happens in the present is namely just as much a result of what has been as what can become. Without knowing the attractors, you are destined to miss the starting gun.
+>
+> Gandhi saw the world was headed towards universal principles like democracy, human rights, racial equality and rule of law, which inevi­tably would render colonial rule ethically indefensible, even to the coloni­zers themselves. This enabled him to understand how India could be freed in a peaceful and democratic manner; he knew that history—the long-term att­ractors—was on his side. Similarly, because Jobs saw that digitiza­tion was the future, he realized before most others that everyone would want a personal computer.
+>
+> To those who couldn’t see these attractors, home computers or the end of colonial rule appeared as distant dreams or science fiction. More­over, blindness to attractors makes it exceedingly difficult to know what exactly to do if you actually do indulge in such dreams. With a well-devel­oped sense of the attractors you get a much clearer picture of what is poss­ible in the near future and what remains a more distant prospect.
+>
+> If you are able to discern different attractors from one another, under­standing their gravitational pull and intricate dynamics, you will be much more capable of successfully navigating the tides of historical chan­ge. The most astonishing and admirable achievements have rarely been made by those who set about to wrestle history and single­handedly ini­tiate a great change, and more often by those who knew the direction of the winds and adjusted their sails accordingly." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "Technically speaking, an “attractor” is a patter­n or equil­ibrium that under certain conditions is very likely to emerge and stab­ilize within a dyna­mical system, such as a society. We went from hunter-gatherer soci­e­­ties to agriculture—in Eurasia and the pre-Columbian Americas separat­ely—because agriculture was an attractor. We electrified the world, be­cause electricity was an attractor. We all started using interconnected com­puters, be­cause digitization was an attractor. These things did not happen random­ly.
+>
+> The world is a chaotic place and the future is never predetermined; but on the general level, some things are just more likely to happen than others, and some are very likely to happen. How likely one development or another is to occur is determined by the “gravitational strength” of the att­ractors.
+>
+> ... We all make choices, and we take great pains to ensure we make the right ones in order to avoid our actions being completely hap­hazard. As such (given that certain choices have proven so abu­ndantly preferable to others), wouldn’t it be fair to claim that our choices, on a collective level, tend to form certain patterns that are more likely to emerge than others; that we are destined to decide between a limited range of societal models whenever they become poss­ible?
+>
+> After all, there are a million ways to organize society. Yet human soci­eties tend to be remarkably similar at any stage of historical develop­ment. We could organize society in accordance with the teachings of the Jones­town suicide cult, or Robert Nozick’s minimal state, or set out to make reality of Orwell’s big brother society, or make children the only electable candidates for government, or have all decisions made by rolling dice—the possibilities are endless. But for some reason most of today’s coun­tries have chosen and tried to organize themselves along the lines of a modern state or polity with a tripartite structure of govern­ance.
+>
+> ... The modern demo­cratic state is not the only attractor, but it is certainly one of the most compet­itive ones." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "What structures are most likely to survive and out­compete other structures under the currently emerging historical cir­cum­stan­ces?
+>
+> So we’re not just fancifully making up what “would be nice”; we are looking for “what is likely to beat the living crap out of all the others under the current and emerging circumstances”...
+>
+> Such a syst­em of thought must be inherently logical, like the tripartite division of pow­­ers—or else it can hardly be sustainable as a new equil­i­brium. What you need to do is to learn to see this attractor, how it is inhe­r­ently logical, how and why it gets its competitive edge. This attra­ctor is the lodestone of the navi­gator, allowing us to blaze new paths for soc­iety, because we can see—not quite where we are going—but which dir­ections do exist: where is north and where is Mecca?
+>
+> ... Mar­x­ism has been an incred­ibly productive intellectual field for the last century and a half, but Marx’s att­empt to identify the attractors of hist­orical development was simply not satisfactory. Society did not follow the fundamental dynamics he propo­sed, nor did it develop through the stages he and his followers ima­gined. The mistakes of this theory killed about a hundred million people dur­ing the 20th century—however indirectly." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "I hold that our current society is based on a number of false assum­p­tions; a number of sacred cows must be brought to the slaughter house and shown little mercy (said by a vegan, mind you). I hold that these false ass­um­ptions can and will kill or otherwise harm millions—in indirect, non-linear ways—because they do not match the new dynamics of a glo­bal, digitized, postindustrial soc­iety. The chief such false assumption is that we can and should continue the current social-liberal “business as usual” pol­itics within the framework of left-right party pol­itics.
+>
+> The failure to spread more accurate ideas about society can cause, or fail to prevent, un­ima­­ginable quantities of suffering. So we must put for­ward the best ideas and try to spread them—to the right people, at the right moments, from the right angles.
+>
+> ...
+>
+> The libertarian reflexes warn us of important risks, but as a general dis­missal of social engineering they don’t compute. They offer no defense aga­inst the Nordic ideology, which seeks to create a deeper and more psy­ch­ological form of welfare. Lene Andersen and Tomas Björk­­man show in their book, The Nordic Secret , how Scandinavian reformers explicitly sought to support widespread psycho­logical development in the popula­tion." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "And alien­ation—a pervading sense of estrangement and exis­t­ential angst—causes young people to suffer depression and com­mit suicide to an unpre­ce­­dented degree. It causes people to live mean­ingless and empty lives ami­dst what superficially looks like freedom and abundance; lives in which we become increasingly stressed out and often exper­ience burnout." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
 > "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 

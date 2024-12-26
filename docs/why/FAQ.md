@@ -22,7 +22,10 @@ No. And yes. And no. And yes. What kind of a question is that? It's also capital
 
 Communism ignored human nature - this embraces it. This is infinitely more sophisticated than communism and is thus nothing like it - it is as far from laizees-fare capitalism as it is from communism - this is its own thing - something entirely novel.
 
+## Why so dense?
 
+Because sparseness and vagueness is a disrespect to the finitude of life and attention of others
+And this material is comprehensible by a tiny fraction of people anyway
 
 
 ## This can't possibly work! How will X work?

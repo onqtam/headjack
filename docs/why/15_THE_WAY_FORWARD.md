@@ -1598,6 +1598,7 @@ next steps for readers: sign up for updates, contribute, etc.
 > "I know you're out there. I can feel you now. I know that you're afraid. You're afraid of us. You're afraid of change. I don't know the future. I didn't come here to tell you how this is going to end. I came here to tell you how it's going to begin. I'm going to hang up this phone, and then I'm going to show these people what you don't want them to see. I'm going to show them a world.. without you. A world without rules or controls, without borders or boundaries. A world where anything is possible. Where we go from there is a choice I leave to you." - [Neo, The Matrix](https://www.finestquotes.com/movie_quotes/movie/Matrix/page/0.htm#:~:text=I%20know%20you%27re,leave%20to%20you.)
 
 ^^ THIS but modified (use strikethrough to remove the original parts and add your own - like gatekeepers, not a world without rules/constraints but one of participation, etc.)
+or a world without grift/corruption and unearned wealth? and instead of "you're afraid of change" to be "of autists"?
 
 > "Remember... all I'm offering is the truth. Nothing more." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324337&ref_=ext_shr_lnk)
 
