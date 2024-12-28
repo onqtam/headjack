@@ -6,6 +6,9 @@ https://i0.wp.com/thedailyenlightenment.com/wp-content/uploads/2020/03/desert.gi
 
 > "Welcome to the desert of the real." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158633-welcome-to-the-desert-of-the-real-morpheus-the-matrix)
 
+treat this page as a relic of a naive attempt at listing what's broken in our system in a provocative way - this is impossible in anything less than a full book
+
+
 > "There's truths you have to grow into." - [H. G. Wells](https://www.goodreads.com/quotes/190581-there-s-truths-you-have-to-grow-into)
 
 > "Have you ever stood and stared at it? Marvelled at its beauty, it’s genius. Billions of people, just living out their lives… oblivious." - [Agent Smith, The Matrix](https://medium.com/rubinas-bojra/12-quotes-from-the-matrix-that-blow-my-mind-every-time-b997c75ea49d#:~:text=Have%20you%20ever%20stood%20and%20stared%20at%20it%3F%20Marvelled%20at%20its%20beauty%2C%20it%E2%80%99s%20genius.%20Billions%20of%20people%2C%20just%20living%20out%20their%20lives%E2%80%A6%20oblivious.)

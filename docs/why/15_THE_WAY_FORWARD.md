@@ -893,6 +893,8 @@ https://www.google.com/search?q=this+is+healthy
 
 [The Rise and Fall of Liberal Democratic Peace Theory, Palladium Magazine](https://www.palladiummag.com/2018/10/15/the-rise-and-fall-of-liberal-democratic-peace-theory/)
 
+> "The most effective health habit is a cultural norm. When others do it, you will too." - [Bryan Johnson](https://x.com/bryan_johnson/status/1873040951314436132)
+
 > "These interventions did improve specific health outcomes, but only by treating emergent symptoms while the underlying malignancy—a physiologically harmful way of eating and living—continued to metastasize.
 >
 > The modern diet underwent a second phase of rapid degradation in the late twentieth century. With the advent of fast-food chains and addictive snacks that contained high-fructose corn syrup—consumption of which increased tenfold from 1970 to 1990—non-processed food sources eroded rapidly. Oreos, potato chips, and Coca-Cola could soon be found all over the world, owing to the lowering of trade barriers, brilliant corporate marketing strategies, and the fundamental addictiveness of the products being sold. Coca-Cola was not regularly consumed in Mexico in the 1950s; by 2019, residents of Chiapas, Mexico’s poorest state, drank an average of 2.2 liters of Coke a day." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)

@@ -2664,7 +2664,49 @@ at some point I gave up taking quotes because most of it is good
 
 > "And alien­ation—a pervading sense of estrangement and exis­t­ential angst—causes young people to suffer depression and com­mit suicide to an unpre­ce­­dented degree. It causes people to live mean­ingless and empty lives ami­dst what superficially looks like freedom and abundance; lives in which we become increasingly stressed out and often exper­ience burnout." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "Progress is when the game of life be­comes fairer, kinder, more transparent, more inclusive, more forgiving, more sustain­able, more rational, more fulfilling. Game change is a good thing. But it is, paradoxically enough, the bast­ard child of two evils: game denial and game acceptance.
+>
+> ...
+>
+> Yet, many of us frequently fall victim to what I call “game denial ”: the inability to perceive, or a negligence of, the logical and behavioral rules that regulate human relations. Game denial is when you ignore or “wish away” certain uncomfortable truths regarding human relations and how reality works. Or simply when you deny the realities of life and forcefully impose your own “ought” upon what “is”.
+>
+> In a subtle sense, your crime is against truth itself. And when the truth has been sacrificed for a few candy bars worth of emotional reward—people start dying as the consequences of your false assumptions begin to manifest. And from there on you are stuck with defending your lala-land from actu­ality, making things even worse.
+>
+> Game denial is, to this day, ram­pant. And its victims are not nec­essarily dead; it has victims in all walks of life, all scarred by unsust­ainable and un­realistic social relations, expectations and moralistic impo­sitions of “what ought to be” upon what “actually is”. Crimes agai­nst act­uality are crimes against humanity, against all life on our planet.
+>
+> Since game denial often “sounds nice”, it may be more convenient to def­end in a pub­lic debate (because you can easily take the moral high gro­und), but in actual reality, in a given con­text, it tends to have negative or other­wise unsust­ainable consequences. You pre­tend that the world works by rules which it does not.
+>
+> Game denial can show up in so many ways because life is always open to interpretation and reinterpretation. And of course, there is not one “set” game in life in which “God” crowns the winners. But the fact that life has ambiguity is a mixed blessing: It means we can make more fav­orable interpretations and save our positive self-images, but it also mea­ns the leeway to deny obvious competitions and conflicting inter­ests is huge. And because there are such strong psychological forces driving us towards game denial, we all partake in it.
+>
+> ...
+>
+> To try to eradicate the game is only a form of individual or collective repression, and it will always produce pathological results—namely opp­ress­ion. Whatever game you want to repress—like capitalism—this can only be done by activating a grosser level of game—like the game for political totalitarian power . Communist states rep­re­ssed the mechanisms of “games for profit” by playing a much crueler game for pol­itical power.
+>
+> But oppression is not the worst part of game denial. Oppression can be toppled; evil reigns can end. No, the worst part is that denying the exist­ence of the game means that the game cannot be described, taught and learned. The game is hidden away, made taboo. Hence, game denial is in the service of the privileged elite, making the game less fair by serving those who already know the rules and deceiving those who do not. They’ll never know what hit them.
+>
+> ...
+>
+> It’s not al­ways easy to tell game denial apart from more legitimate forms of ideal­ism. A rule of thumb, however, is that game denial very often arr­ives in the company of her twisted little sister: moralism —being subtly (or not so subtly) jud­g­­m­ental and self-righteous.
+>
+> The alliance between game denial and moralism works in cunning ways. They help each other staying in the back­gr­ound, so that neither has to come out in the light and get busted in all their obviousness. For inst­ance, in academia and critical social sci­ence, there is a pre­supp­osition of a pro-immigration, leftist econo­mics, rad­ical fem­in­ism, anti-mili­tarism, anti-disciplinary view of educa­tion and a few other taken-for-granted opin­ions.
+>
+> When you go to the liberal sociological seminars, listening for inst­ance to Judith Butler’s advanced, learn­ed and very initiated talks about femin­ism, all focus is on the spec­ifics of the argument, on the mas­ter­fully craf­ted critical social theory and research. All of this creates a thick smoke­screen concealing any number of game denials. All the left-wing game denial stays in the background and limits the discussion.
+>
+> There is no focus on, and no leeway to dis­cuss, all this game denial bagg­age (because it would be seen as morally wrong, and who­ever brings it up is seen as impure). The underlying moralism covers up the game den­ial. And the game denial covers up the moralism because the fact that the gam­es of life are hidden away makes the moralism appear as common sense and decency.
+>
+> ...
+>
+> Not believing in game denial and its ubiquitous presence is in itself a form of game denial. The reason people do all the game denial is often that it is a useful tool for them to win the small struggles in every­day life: for moral worth, for admiration, for power, money, sex and stat­us—or just to avoid shaming and judgment, or to have the solemn pleasure of shaming and judging others.
+>
+> Iron­ically, it is because people are always in a game that they can win by deny­ing its existence. Of course, there are other reasons, such as lack­ing intelli­gence or relevant perspectives. But the social rewards of game denial are part of it—and they should not be denied. It is as if many of the pro­gressive intellectuals are “bribed” by the social rewards they can attain by taking part in game denial. These are emotional and cognitive bribes that distort thinking processes, discourses and truth seeking.
+>
+> Real kindness needs to make sense; it needs to compute. If the numbers don’t add up, they simply don’t. Hence, any kindness that does not com­pute is a disguised form of evil.
+>
+> ...
+>
+> The first victim of game denial is the truth. Its next victim is the inno­­cent child who has to suffer the consequences of your lies. Crimes against act­uality are crimes against hum­anity and all life on our planet.
+>
+> ... Even if Yianno­poulos and Trump may embody exagge­rations of conservative sentim­ents, at least they rain some sweet venge­ance upon the often so suffocating polit­ically correct establishment, the smoth­ering welfare state and per­ceived status quo . A mellow sen­se of satis­faction arises in the conservative tummy." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
 > "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
