@@ -5952,6 +5952,9 @@ Purity is giving the most while taking the least while actively promoting the sa
 
 
 
+> "You get used to it, I don't even see the code, All I see is blonde, brunette, redhead" - [Cypher, The Matrix (1999)](https://www.youtube.com/watch?v=fBDifUjNzbQ)
+^^ all I see is ignorance, overconfidence, bias, insensitivity, fragmentation, incoherence, irrationality, failures to aggregate all context and opinions, to focus on what’s relevant, to rank the signals and lack of complexity and nuance in justifications
+
 
 > "What fraction of apparent ‘elite’ preference is downstream of blackmail?" - [Jordan Hall](https://x.com/jgreenhall/status/1836741719804514548)
 
