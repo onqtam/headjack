@@ -2668,6 +2668,10 @@ at some point I gave up taking quotes because most of it is good
 >
 > ...
 >
+> Game Denial
+>
+> ...
+>
 > Yet, many of us frequently fall victim to what I call “game denial ”: the inability to perceive, or a negligence of, the logical and behavioral rules that regulate human relations. Game denial is when you ignore or “wish away” certain uncomfortable truths regarding human relations and how reality works. Or simply when you deny the realities of life and forcefully impose your own “ought” upon what “is”.
 >
 > In a subtle sense, your crime is against truth itself. And when the truth has been sacrificed for a few candy bars worth of emotional reward—people start dying as the consequences of your false assumptions begin to manifest. And from there on you are stuck with defending your lala-land from actu­ality, making things even worse.
@@ -2706,7 +2710,45 @@ at some point I gave up taking quotes because most of it is good
 >
 > The first victim of game denial is the truth. Its next victim is the inno­­cent child who has to suffer the consequences of your lies. Crimes against act­uality are crimes against hum­anity and all life on our planet.
 >
-> ... Even if Yianno­poulos and Trump may embody exagge­rations of conservative sentim­ents, at least they rain some sweet venge­ance upon the often so suffocating polit­ically correct establishment, the smoth­ering welfare state and per­ceived status quo . A mellow sen­se of satis­faction arises in the conservative tummy." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> ...
+>
+> Game Acceptance
+>
+> ...
+>
+> I have said that crimes against reality are crimes against humanity. But crimes against potentiality are also crimes against humanity, and aga­in­st all life on our planet—against all beautiful futures. Game accep­tance also kills. In fact, these killing grounds are far greater and more brutal than the ones of game denial
+>
+> Game acceptance means to prostrate before the game and take it as a law of nature in its current form, denying that the game can and must evolve. Or, more often, the game accepter holds that real and substantial changes are only ever poss­ible in a distant and irrelevant future.
+>
+> This makes us justify illegitimate force and injustice. It makes us think the un­fair sides of the game are somehow indeed fair, because some­one, some­­where “deserved it”. And that injustice is all for the best in the long run because it serves the game. Game accept­ance is the tune of pol­itical real­ism, “political theology” (Jean Bodin, Thomas Hobbes, Vilfredo Par­eto, Niccolò Machiavelli…), neo-liberalism, conservatism...
+>
+> The central principle of game acceptance is hence: That which could be is not, and hence it should not be. As David Hume warn­ed us already in the 18th century, this is a fallacy—deriving an “ought” from an “is”. That some­thing is the case doesn’t mean is should be the case.
+>
+> ...
+>
+> And just as there is an embodied form of game denial, so there is an embodied form of game acceptance . Especially those of us who have had high social status during our upbringing and reflexively assume we can win out in any confrontation that shows up can be tempted to think all such confrontations are necessarily good and just. Losers get what they deserve; that’s not just an idea, but a felt bodily experience that sets our mind up for game acceptance.
+>
+> ...
+>
+> But it doesn’t stop there. The worst crime of game acceptance is that it blocks legitimate, necessary and very possible change. The game accepter remains serial killer calm in the face of glaring injustice. If you look at the thousands of very preventable maladies that have been perpetuated by game accept­ance throughout history, you see a silent, invisible death toll looming larger than any other crime in world history.
+>
+> Should we be complacent towards obviously avoidable suffering? What the barreling fuck! Of course we could end slavery. Of course we can end animal slavery. Of course the rich world can and should support sust­ainable global growth with a significant percentage of its GDP. Of course the trade system should be fairer. Of course most wars were avoidable. Of course everyone can have free basic health care. Of course we can live less waste­fully and still be healthier, happier and have mean­ingful lives. Crimes against potentiality are crimes against humanity.
+>
+> Don’t Hate the Game
+>
+> Before we go on, I should note that neither game denial nor game accep­tance is a consciously held perspective . They are, of course, mis­takes we make because of unconscious biases and emotional invest­ments in ideas and identities (“I am a radical anarchist!” invites game denial, etc.). They constitute subtle forms of self-deceit.
+>
+> The mom­ent game denial and game acceptance are recog­nized for what they are it becomes apparent that they cannot be sustained. Every­one will veh­emently deny their own game den­ial or game acc­ept­ance and claim to be a responsible “game changer” if con­front­ed.
+>
+> ...
+>
+> Classical liberalism, neo-liberalism, conservatism, capitalism and fascism are all based upon accepting the game and an attitude of “may the best player win”. They are all defen­ders and upholders of in­justice, cruelty and suffering that just can­not be ethically justified. So what if I win? In a deeper sense, you have still lost. You must change the games of life. That is the only result that counts. That is the only vic­tory worth keeping, because it includes everybody. The game of life will still produce losers and winners, but the results will be deter­mined through much less bloodshed and losing will come at a much lower cost. This will be a society in which people get more than one shot at glory. Don’t hate the player, and don’t hate the game either. We need to love the game, learn to play it—and change it, because we love the play­ers.
+>
+> ...
+>
+> Thus: Let go of game denial and game acceptance—and go for game chan­ge. The idea is not to eradicate competition from life, but to trans­form and refine the nature of competition in all aspects of life: on the labor market, in work culture, in the political deliberations and elections, in the games of love, sex and family, in peer groups and in research and education.
+>
+> So again—don’t hate the player. And don’t hate the game, either. We need to love the game, learn to play it. And change its rules. Because we love the players." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
 > "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
