@@ -2660,7 +2660,7 @@ at some point I gave up taking quotes because most of it is good
 >
 > ...
 >
-> The libertarian reflexes warn us of important risks, but as a general dis­missal of social engineering they don’t compute. They offer no defense aga­inst the Nordic ideology, which seeks to create a deeper and more psy­ch­ological form of welfare. Lene Andersen and Tomas Björk­­man show in their book, The Nordic Secret , how Scandinavian reformers explicitly sought to support widespread psycho­logical development in the popula­tion." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> The libertarian reflexes warn us of important risks, but as a general dis­missal of social engineering they don’t compute. They offer no defense aga­inst the Nordic ideology, which seeks to create a deeper and more psy­ch­ological form of welfare. Lene Andersen and Tomas Björk­­man show in their book, The Nordic Secret, how Scandinavian reformers explicitly sought to support widespread psycho­logical development in the popula­tion." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
 > "And alien­ation—a pervading sense of estrangement and exis­t­ential angst—causes young people to suffer depression and com­mit suicide to an unpre­ce­­dented degree. It causes people to live mean­ingless and empty lives ami­dst what superficially looks like freedom and abundance; lives in which we become increasingly stressed out and often exper­ience burnout." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
@@ -2782,7 +2782,21 @@ at some point I gave up taking quotes because most of it is good
 >
 > ... This is the tragedy at hand: a painful wheel turning from integration, to oppression, to resistance and eman­cipation, to greater dividuation and alienation, back to new integration. The different political strands of mainstream Western politics relate to different parts of this wheel of dividuation and integration. None of them have successfully identified the whole process." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+> "Nothing hurts our sense of “chosenness” and immortality more than the manifest sublimity of another’s soul. Not only that they are succ­essful, but that they are idealistic, good-hearted, high-minded and fruit­fully en­gaged in deeply significant pursuits—when we are not. That they are pow­erful in the deep Nietzschean sense of the word. That they are living their lives to the fullest—when we are not. All of us long for power in some sense; all of us are born creators. To deny this is game denial. To defend suffocating inequalities is game acc­ep­tance. To accept this game of life and to evolve it—is game change. This, I believe, is one of the greatest challenges of the times ahead: So many beautiful minds and hearts will emerge to rise to the challenges of the coming period, and so many will work—unconsciously but conni­vingly—to stop them.
+>
+> ... Where does it leave us then? We need to develop a corresponding level of introspective skills in as many members of society as possible. We need to be able to really look inwards. To bust our own bull­shit. We must deve­lop greater interpersonal trust, but we must also, on a pro­found level, be­come more trustworthy. We must develop self-know­ledge; higher stages of in­ner development. It is relatively easy to wish one another well, that no harm should befall our fellow citizens and peers. We don’t wish for one another to fall off a cliff—that would be terrible! But rarely do we sincerely wish for our lowly buddy to be­come the next Barack Obama. We prefer it if he gets about the same amount of happiness and success as ourselves; preferably slightly less.
+>
+> ... We must defeat the veiled demons of envy. Our very survival depends upon it—as we have never needed the audacity and creative intellect of others more than we do today.
+>
+> ... One important aspect of this training for higher freedom that is not fully caught by either Fromm or Kegan is described in­stead by the novelist Steven Press­field. In his book The War of Art, he viv­idly and intimately outlines the enemy of all artists: what he calls “resist­ance”. How many of us can truly overcome the resistance to create? Can we tolerate the empty canvas staring back at us? How many of us keep stalling our inner­most dreams indefin­itely? How many of us can bear the terror of freedom and muster the discipline and die-hard motivation to defeat the inner demons of distraction and excuse? Simple procrast­ination can also be an escape from freedom. Pressfield points out it is this denied and undealt-with inner res­ist­ance that shows up as an urge, not only to deny our own higher poten­tials, but to unproductively criticize and try to smother it in others —what I have called Sklavenmoral (and its two cronies, envy and nar­ciss­ism). So it’s not just a matter of individual inner struggle. Even at a civiliza­tional level, we are facing the onslaught of the inability to overcome inner resist­ance, which translates to envy, which translates to Sklavenmoral, and this translates to narcissism—all of which are corrosive, if not antitheti­cal, to the collective good of higher free­dom.
+>
+> ... And by yet another tragic and ironic twist of fate, it just so happens that we live in a digital capitalist society in which every corner and every mom­ent and every shelf is overflowing with excuses, distractions, quick rewards and new promises. How many ways are there not to lose our focus and sense of dir­ection? It’s even worse than that; it is the case that the relative success of one person’s manifested deeper potential and creative outlet easily becomes the sour­ce of distraction for others—if I am to be a successful writer, I must distract at least some of my fellow co-creators from their higher call­ings. The same goes for so many other creators. So much “amuse­ment” and “support” around, so many workshops to take and genuinely breath­taking talents caught on YouTube-clips to be shared on Face­book. Milli­ons of views. Billions of clicks. Digital weapons of mass distraction. Higher freedom from extrinsic emotional pressures must grow in pace with higher stages of inner deve­lop­ment, lest we be doomed to deceive our­­selves into new sugar­coated escapes from freedom. We must learn to disci­pline ourselves—to crack the code of how inner self-discipline is taught and acquired.
+>
+> ... When the intergalactic gods look upon human civilization on Cos­mic Judg­ment Day, what will be their verdict? Will they see that we grew up and became artists, co-creators of the universe? Or will they see that we have escaped from freedom, into new Pleasure Palaces? Will they scoff: “This species has amused itself to death”." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
+
+> "That innocent wish we so often hail as uni­versally human: “I just want to be respected, loved and desired”, has an inescapable dark side, whisp­er­ing under its breath: “I merely want to be respected, loved and de­sired… by the ones I respect, love and desire”. And we often respect, love and de­sire someone simply because other people seem to.
+>
+> ... If we play our cards wrong, if we convene with the lonely, the failures, the nerds, with those who cannot offer us new and productive outlets for life, this will not only create limited rewards for us; it will spill over and affect how others judge our status and standing in society. Hence, we stay clear of those who have little recognition, in turn offer­ing them no re­cogni­tion so that we can gain the recognition we so desire. The wounds of the lonely and the despised are as frightening and con­tagious as lepro­sy." - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
 > "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
@@ -2838,10 +2852,45 @@ at some point I gave up taking quotes because most of it is good
 
 > "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
-> "" - [Nordic Ideology, by Hanzi Freinacht](https://www.goodreads.com/book/show/46147242-nordic-ideology)
 
 
 
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
+
+> "" - [The Evolution of Everything: How New Ideas Emerge, by Matt Ridley](https://www.goodreads.com/book/show/25816925-the-evolution-of-everything)
 
 
 

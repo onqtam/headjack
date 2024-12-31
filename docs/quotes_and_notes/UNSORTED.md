@@ -5951,9 +5951,21 @@ Morality as a service - opt-in financial chains in exchange for a new form of pr
 Purity is giving the most while taking the least while actively promoting the same ideology. Purity is living for others.
 
 
+in the matrix humans were merely incapacitated batteries - in the global brain humans are bits of intelligence, relevance realization, and perspective - in the global brain humans are shards of the soul
+
+We vow to make humanity immortal even if we don't ourselves live to see that happen.
+Making humanity immortal is a deeper task compared to making it multi-planetary - one leads to the other but not the way around - if we haven't figured out immortality and governance we risk failing at 2 times parallelly instead of at one place only
+We must answer what life is about and devote ourseves to that
+
+God/Agi is a universal justification system - a protocol for inter-agent interaction/cooperation
+
+Kids play competitive games to sort themselves out into hierarchies - what if they could interface with the world and that was facilitated to the best of our abilities? To bring them up to speed as quickly as possible through teacherly authority?
+
+> "Mindedness is what Darwinian evolution looks like when it occurs within the lifetime of an organism." - [James Cooke](https://x.com/DrJamesCooke/status/1873809863069098145)
+
 
 > "You get used to it, I don't even see the code, All I see is blonde, brunette, redhead" - [Cypher, The Matrix (1999)](https://www.youtube.com/watch?v=fBDifUjNzbQ)
-^^ all I see is ignorance, overconfidence, bias, insensitivity, fragmentation, incoherence, irrationality, failures to aggregate all context and opinions, to focus on what’s relevant, to rank the signals and lack of complexity and nuance in justifications
+^^ all I see is ignorance, overconfidence, bias, insensitivity, fragmentation, incoherence, irrationality, lack of accountability, corruption, failures to aggregate all context and opinions, to focus on what’s relevant, to rank the signals and lack of complexity and nuance in justifications
 
 
 > "What fraction of apparent ‘elite’ preference is downstream of blackmail?" - [Jordan Hall](https://x.com/jgreenhall/status/1836741719804514548)

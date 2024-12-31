@@ -984,6 +984,9 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 meme: Dad - what did you do - fucking legend - I helped revitalize civilization and make it multi-planetary
 
+Sasquatch music festival 2009 - Guy starts dance party
+https://www.youtube.com/watch?v=GA8z7f7a2Pk
+
 In order to escape from the grip of an attractor we need to inject some chaos into the system
 Joker - an agent of chaos meme
 An open invitation for agents of chaos
