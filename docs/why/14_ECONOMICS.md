@@ -349,6 +349,9 @@ fungibility, ability to hide malice
 # SECTION: Redistribution
 ██████████████████████████████████████████████████████████████████
 
+Why Peter Singer Says You’re Guilty of Ordinary Evil - Carlos Farias
+https://www.youtube.com/watch?v=Et2ocXkIKXU
+
 how we should think about wealth distribution and accumulation
 
 What if we implemented the most competent, fair and incorruptible redistributive economy?

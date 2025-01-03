@@ -431,6 +431,8 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 ██████████████████████████████████████████████████████████████████
 
 
+If a CEO optimizes for short term benefits in the next few years and then quits when the stock is at an ATH and cashes out but a few years later his policies of reducing R&D & optimizing for short-term profitability ultimately hurt the company - there should be a way for his reputation to be damaged retrospectively if it is later deemed that his actions doomed the company in the long term. we need better accountability & credit assignment
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Neuron
