@@ -1,10 +1,28 @@
 
 
+intro: watch intro to channel if new here
+
+
+
 
 Collective intelligence
+all intelligence is CI
+all live is problem solving - popper quote
 Consensus slower and worse results with size of committee - looking for the opposite
 Wisdom of crowds
-Cancelling bias
-Backpropagation
+Cancelling bias, fostering coordination, rationality
+we're a neuron
+relevance realization
+credit assignment, accounting, Backpropagation, accountability, skin in the game
+evolution - evodevo?
+stigmergy
+integration of information vs fragmentation
+incentives for more open & shared data => better shared memory
+deduplicated entities/events/questions
+attention allocation
+consciousness
+coherence
+culture & justification
 
+maybe talk about attention & consciousness in a later episode?
 
