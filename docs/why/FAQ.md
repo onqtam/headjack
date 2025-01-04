@@ -28,9 +28,15 @@ Because sparseness and vagueness is a disrespect to the finitude of life and att
 And this material is comprehensible by a tiny fraction of people anyway
 
 
-## This can't possibly work! How will X work?
+## This is all BS
 
 > "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
+
+## I vehemently disagree or don't understand 10-20% of the content here
+
+Good! that means you're on board with the other 80-90% and we can focus on either fixing the other 10-20% or helping you fill the gaps to get you further.
+
+## This can't possibly work! How will X work?
 
 Will this work? No clue. But what we can say with 100% confidence that we must try to create a better system than the current one.
 

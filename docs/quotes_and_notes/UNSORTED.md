@@ -5961,6 +5961,8 @@ God/Agi is a universal justification system - a protocol for inter-agent interac
 
 Kids play competitive games to sort themselves out into hierarchies - what if they could interface with the world and that was facilitated to the best of our abilities? To bring them up to speed as quickly as possible through teacherly authority?
 
+how do we most optimally network our minds?
+
 > "The solution to our problems is exclusively the development of a rational social worldview and an aggressive new elite capable of explicitly taking society in hand for transcendent ends. Nothing will be solved short of that, only muddled through." - [Wolf Tivy](https://x.com/wolftivy/status/1874190841658667518)
 
 > "Mindedness is what Darwinian evolution looks like when it occurs within the lifetime of an organism." - [James Cooke](https://x.com/DrJamesCooke/status/1873809863069098145)
