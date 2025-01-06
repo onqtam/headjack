@@ -27,6 +27,7 @@ Communism ignored human nature - this embraces it. This is infinitely more sophi
 Because sparseness and vagueness is a disrespect to the finitude of life and attention of others
 And this material is comprehensible by a tiny fraction of people anyway
 
+This is not meant for the average reader - few will be able to plow through it with ease and fully grasp what it entails.
 
 ## This is all BS
 

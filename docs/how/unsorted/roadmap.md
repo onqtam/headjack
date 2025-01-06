@@ -88,6 +88,8 @@ Here is what insta
 
 Comics po knigata - za vseki chapter/section
 
+dogfeeding the system: how to get most issues from "the listening society" & "nordic ideology" books into this system?
+
 
 A public list of who has signed up for this system
 

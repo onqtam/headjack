@@ -96,6 +96,9 @@ https://www.conspicuouscognition.com/p/how-dangerous-is-misinformation
 
 > "I don’t care if we are talking about the New York Post or the New York Times. If you are using 20th Century media to understand or evaluate what is going on in your political world, you are a part of the problem." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9#:~:text=I%20don%E2%80%99t%20care%20if%20we%20are%20talking%20about%20the%20New%20York%20Post%20or%20the%20New%20York%20Times.%20If%20you%20are%20using%2020th%20Century%20media%20to%20understand%20or%20evaluate%20what%20is%20going%20on%20in%20your%20political%20world%2C%20you%20are%20a%20part%20of%20the%20problem.)
 
+TODO INTERNET:
+the NPR ceo and her comments about not valuing truth
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Broadcast vs decentralization
 ██████████████████████████████████████████████████████████████████

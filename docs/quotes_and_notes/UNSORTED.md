@@ -2998,6 +2998,7 @@ What if we made the moral high-ground more objective?
 
 Integration is also about taking all opinions worth considering into account and not ignoring what’s inconvenient
 It is also about provenance - is the link to the source of information lost or is it available as a part of the picture?
+integration is about how well different parts/aspects reinforce and strengthen each other and about less contradiction and undermining of each other
 
 “How/why is this relevant to me?”
 

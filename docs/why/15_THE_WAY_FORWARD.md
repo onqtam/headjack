@@ -1128,6 +1128,10 @@ FaaS
 FtoaaS
 This as the section for matchmaking and with the leary quote
 
+"... those who say that reli­gion has nothing to do with politics do not know what religion means".
+—Gandhi
+quote taken from the nordic ideology book
+
 > "Find the others." - [Timothy Leary](https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close#:~:text=Do%20the%20unexpected.-,Find%20the%20others,-%E2%80%A6%E2%80%9D)
 
 myth and superstition in religions are just the means to an end which is to bind people together - to scale trust and empathy over larger groups of people who are not genetically related, and also to give answers (albeit imperfect and often outright false but soothing nonetheless) to perennial existential questions that torment us all
@@ -1647,6 +1651,11 @@ July 16, 1945
 https://en.wikipedia.org/wiki/Trinity_(nuclear_test)
 August 6, 1945
 https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
+
+quote from LOTR: isildur - cast it into the fire
+
+
+
 
 kennedy quote - choose to go to the moon not because it is easy but because it is hard
 
