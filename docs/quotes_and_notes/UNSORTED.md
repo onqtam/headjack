@@ -3000,6 +3000,8 @@ Integration is also about taking all opinions worth considering into account and
 It is also about provenance - is the link to the source of information lost or is it available as a part of the picture?
 integration is about how well different parts/aspects reinforce and strengthen each other and about less contradiction and undermining of each other
 
+Multicast messages - define a filter and broadcast to a select set of identities. Then the recipients can in turn filter the incoming messages based in upvotes for example
+
 “How/why is this relevant to me?”
 
 Religion as a service
