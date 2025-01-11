@@ -1195,7 +1195,7 @@ we can rank different sources of signal differently and prioritize the weights o
 
 
 
-> "Sovereign is he who decides on the exception." - Carl Schmitt, political theorist (1888-1985).
+> "Sovereign is he who decides on the exception." - Carl Schmitt (1888-1985)
 
 > "The final, terminal step is seeing that contemporary digital media landscapes are wide open to manipulation, informational warfare, and disorienting, addictive user interfaces. Right when society requires unprecedented upgrades in public sensemaking processes, we face instead a perfect storm of factors contributing to an epistemological crisis." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20final%2C%20terminal,an%20epistemological%20crisis.)
 

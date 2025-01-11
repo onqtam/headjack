@@ -16,11 +16,14 @@ Its even better: it can actually work
 
 > "Good ideology. Wrong species." - [E. O. Wilson on Marxism](https://paulgraham.com/quo.html#:~:text=%22Good%20ideology.%20Wrong%20species.%22%0A%0A%E2%80%93%20E.%20O.%20Wilson%20on%20Marxism)
 
+Do you expect a properly summarized account of communism's failures and a thorough comparison with it in a FAQ? Just pick up the book Nordic Ideology and look at appendix A.
 
 
 No. And yes. And no. And yes. What kind of a question is that? It's also capitalistic and libertarian and so on. It’s time for you to upgrade your capacity for complex thinking and not just let others define the boxes you should put ideas in so easily. What's proposed here is at least an order of magnitude more complex than either communism or capitalism - something entirely new.
 
 Communism ignored human nature - this embraces it. This is infinitely more sophisticated than communism and is thus nothing like it - it is as far from laizees-fare capitalism as it is from communism - this is its own thing - something entirely novel.
+
+or maybe scrap all of this - appendix A of the book Nordic Ideology gives a much better account of communism and its failures than u could ever come up with. focusing on human nature only is simplistic - you can't give a thorough answer here without including most (all?) of what's in that book.
 
 ## Why so dense?
 
@@ -61,4 +64,11 @@ Because we have a broken digital system for attributing who said and expressed w
 
 ## Won't the powers that be oppose this system?
 
-[This book](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) should help.
+
+
+
+
+
+
+This is for those that can read between the lines
+

@@ -2109,6 +2109,8 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 
 
+> "" - [The Information Theory of Individuality](https://arxiv.org/abs/1412.2447)
+
 > "" - [Reputation helps solve the `tragedy of the commons'](https://sci-hub.se/10.1038/415424a)
 
 > "" - [Meaning and Intentionality = Information + Evolution, by Carlo Rovelli](https://www.semanticscholar.org/paper/Meaning-and-Intentionality-%3D-Information-%2B-Rovelli/6434010d3cf97619e842c317ae8493d031992271)

@@ -57,6 +57,8 @@ https://www.youtube.com/watch?v=_V_AZRZfu9I
 
 > "It's easier to imagine the end of the world than the end of capitalism." - [Mark Fisher](https://www.goodreads.com/quotes/10177494-it-s-easier-to-imagine-the-end-of-the-world-than)
 
+> "Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world." - [Fredric Jameson](https://www.goodreads.com/quotes/7690016-someone-once-said-that-it-is-easier-to-imagine-the)
+
 
 
 > "The fact that even in 2024 we are driven to LARP what is basically 18th century merchant ideology from England and Holland, rather than some other arbitrary LARP, is an instance of our technology and industrial capability outpacing our intellectual culture by centuries." - [Marko Jukic](https://x.com/mmjukic/status/1796481645538578518)
@@ -118,8 +120,6 @@ E. D. Beinhocker: One big thing that Hayek got right was, in complex social syst
 > In a way, the market is like the docking module between the Apollo and Soyuz rockets. It’s a crucial component, and without it the entire system couldn’t possibly function as a unified whole, but it’s still a relatively small fraction of the system’s mass and complexity. Understanding how it works won’t tell you all that much about how the Soyuz itself works." - [Markets Are Thin, by Ben Landau-Taylor](https://www.benlandautaylor.com/p/markets-are-thin#:~:text=When%20people%20talk,Soyuz%20itself%20works.)
 
 
-
-> "Someone once said that it is easier to imagine the end of the world than to imagine the end of capitalism. We can now revise that and witness the attempt to imagine capitalism by way of imagining the end of the world." - [Fredric Jameson](https://www.goodreads.com/quotes/7690016-someone-once-said-that-it-is-easier-to-imagine-the)
 
 > "It often happens that the universal belief of one age of mankind... becomes to a subsequent age so palpable an absurdity, that the only difficulty then is to imagine how such a thing can ever have appeared credible." - [John Stuart Mill](https://www.azquotes.com/quote/652591)
 
@@ -385,6 +385,9 @@ property rights
 
 stuff from "the market myth" & "the world we create" goes here
 
+https://cadmusjournal.org/files/pdfreprints/vol2issue6/cadmus-v2-i6-market-myth-tborkman-reprint.pdf
+https://systems-souls-society.com/the-market-myth/
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Redirecting surplus
 ██████████████████████████████████████████████████████████████████
@@ -627,5 +630,9 @@ higher trust because of reputation & accountability => easier to "hire" others
 also onboarding is easier if everything is out in the open - including the best materials to onboard someone and get him up to speed + building coherence with others
 
 
+very very important episode - 45 min - relisten it - very much in line with my line of thinking
+Palladium Podcast 47: The Social Role of Billionaires
+https://palladiummag.podbean.com/e/palladium-podcast-47-the-social-role-of-billionaires/
+https://www.palladiummag.com/2020/11/09/palladium-podcast-47-the-social-role-of-billionaires/
 
 
