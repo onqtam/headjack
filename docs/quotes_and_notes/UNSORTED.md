@@ -4808,9 +4808,6 @@ We are conscious through our culture
 
 God is the ultimate archetype
 
-“The architecture of infinity”
-^^^^^^^ best title
-
 There’s no knob society can easily press and corruption and inefficiency and misalignment to start to go away. Why?
 
 Stigmergic intelligence

@@ -69,6 +69,16 @@ embracing complexity
 
 Gamification
 
+
+"Summa Organisationa"
+"Summa Systemica"
+"Summa Ideologica"
+https://en.wikipedia.org/wiki/Summa_Theologica
+"The Architecture of infinity"
+"The Third Attractor"
+^^ title of book?
+
+
 deconstructing media down to the claim level
 
 state vs events - many different views/states (instances) constructed with different rules/models that all use the same set of global events

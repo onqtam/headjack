@@ -630,6 +630,24 @@ higher trust because of reputation & accountability => easier to "hire" others
 also onboarding is easier if everything is out in the open - including the best materials to onboard someone and get him up to speed + building coherence with others
 
 
+> "Coase published a paper titled “The Nature of the Firm.” Not long before, Coase had made a visit to the United States during which he toured Ford and General Motors. The industrial behemoths left him puzzled. How, he wondered, could economists say that Stalin was mistaken to run the Soviet Union like one gigantic company when Henry Ford and Alfred P. Sloan, Jr., ran their own gigantic companies in similar ways? After all, the marketplace is theoretically the best mechanism for matching supply with demand, establishing prices, and extracting maximum utility from finite resources. So why don’t all individuals act as individual buyers and sellers, rather than gather in companies with tens of thousands of coworkers?
+>
+> Coase argued that there were good reasons for the seemingly contradictory structure of the vertically integrated corporation. One of the main reasons has to do with the cost of information. Producing a loaf of bread, assembling a car, or running a hospital emergency room involve steps where close cooperation and common purpose are essential to producing a useful product. In day-to-day practice it was not practical to break down manufacturing and other business processes into a series of separately negotiated transactions. Each transaction would incur costs that would outweigh whatever savings were achieved by competitive pressures.
+>
+> First, there would be search costs, such as finding different suppliers and determining if their goods were appropriate. Second, there would be contracting costs, such as negotiating the price and contract conditions. Third, there would be coordination costs of meshing the different products and processes. Coase called these “transaction costs.” And the upshot was that most corporations concluded it made the most sense to perform as many functions as possible in-house.
+>
+> All this leads to what we and our colleagues call “Coase’s law”: A firm will tend to expand until the costs of organizing an extra transaction within the firm become equal to the costs of carrying out the same transaction on the open market. As long as it is cheaper to perform a transaction inside your firm, keep it there. But if it is cheaper to go to the marketplace, do not try to do it internally.
+>
+> How has the Internet affected Coase’s law? Strictly speaking, the law remains as valid as ever. But the Internet has caused transaction costs to plunge so steeply that it has become much more useful to read Coase’s law, in effect, backward: Nowadays firms should shrink until the cost of performing a transaction internally no longer exceeds the cost of performing it externally. Transaction costs still exist, but now they’re often more onerous in corporations than in the marketplace.
+>
+> Take another look at Coase’s three kinds of collaboration costs. Henry Ford and Alfred P. Sloan had to physically seek out promising suppliers, inspect their factories, and haggle over prices. In most cases, the costs of sourcing external suppliers were so high that ownership of production processes across the automotive value chain was warranted, even if individual links were thereby shielded from market disciplines. Ford Motor’s infamous River Rouge plant, which drew raw rubber and steel into one end and pushed finished cars out the other, was the quintessential example of this. Today’s automotive firms type “axle” or “window glass” into any number of industry exchanges, and negotiate the price on the Web. If they want, they can check a supplier’s trustworthiness—just scan through the treasure trove of analytic services available online.
+>
+> How about contracting and coordination costs? Need steel from China, rubber from Malaysia, or glass from Wichita, Kansas? No problem. Online clearinghouses for each of these products enable purchasers to contract for price, quality, and delivery dates with a few clicks of a mouse. An executive can even track each shipment on a virtual map that shows its precise location at any point in the journey." - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+^^ how does coase's law relate to open source and shared commons? how quickly would it be for someone to come in and be effective in helping if everything is open?
+
+
+
 very very important episode - 45 min - relisten it - very much in line with my line of thinking
 Palladium Podcast 47: The Social Role of Billionaires
 https://palladiummag.podbean.com/e/palladium-podcast-47-the-social-role-of-billionaires/
