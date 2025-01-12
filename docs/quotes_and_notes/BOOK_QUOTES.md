@@ -3464,6 +3464,93 @@ Milton Friedman: “The only way that has ever been discovered to have a lot of 
 
 
 
+> "Every economic system needs three things to function. First, the system needs information—it needs some way to coordinate people’s actions, to convey to people what they need to do in light of what others are doing. Second, it needs incentives—it needs some way to induce people to act on the information they receive. Third, because people make mistakes, it needs learning—a process by which people become better at responding to information and incentives.
+>
+> ... In economic theory, the “Socialist Calculation Problem” or “Knowledge Problem” holds that in large-scale societies it is close to impossible to make good economic calculations without market prices or a good substitute for market prices. Market prices are not, as non-economists commonly believe, arbitrary numbers set by capricious managers. They are instead a function of supply and demand. Market prices thus convey information about the relative scarcity of goods in light of the effective demand for those goods. Market prices, therefore, tell producers and consumers how to adjust their behavior to other people’s wants and needs.
+>
+> So, for instance, if more industries start trying to buy aluminum, the sellers of aluminum will try to raise their prices. When The Coca-Cola Company notices that the price of aluminum is rising, it will try to find a way to use less aluminum. In fact, soda cans use much less aluminum now than they did 40 years ago, but the cans have a better design that allows them to be stacked high despite containing less metal. This is not because executives at The Coca-Cola Company are environmentalists, but because they knew they’d make more profit if they could cut costs.
+>
+> Or, suppose there’s a power outage. You rush to the store for ice to keep your beer cold. But when you get to the store, you find the now scarce ice is selling for $12 a bag. You’ll probably decide it’s not worth buying ice for your beer. What you don’t realize, though, is that by choosing not to buy the ice, you thereby leave it for the diabetic who needs it to cool his insulin. As economics textbooks say, market prices tend to ensure goods go to their highest value uses.
+>
+> Consider a simple object—a number 2 pencil. You might not realize it, but literally millions of people worked together to produce that pencil, although only a few hundred of them realized they were doing so. The person who mines the iron that will go into the ball bearings in machines that grind up the graphite and clay that will end up on the pencil might have little idea that he is helping to make pencils. Yet market prices bring these millions of people together to produce pencils.
+>
+> Few people, aside from academic economists, understand what market prices are, how prices convey information, and how such prices coordinate billions of people to work together. But the magic of prices is that they help us work together even though we don’t understand what prices mean. People don’t need to understand how the market works in order for the market to work." - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+The comedian Louis C. K. jokes in a Singerian spirit, “My life is really evil. There are people who are starving in the world, and I drive an Infiniti. That’s really evil…. There are people who are like born and then they go, ‘Oh, I’m hungry,’ and then they just die, and that’s all they ever got to do. And, meanwhile, I’m in my car—boom boom, brrr!—like having a great time, and I sleep like a baby…. I could trade my Infiniti for like a really good car, like a nice Ford Focus … and I’d get back like twenty thousand dollars, and I could save hundreds of people from dying of starvation with that money. And every day, I don’t do it.” See http://www.youtube.com/watch?v=lC4FnfNKwUo
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+> "" - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
+
+
+
+
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
+
+
+
+
+
 > "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
 
 > "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
