@@ -3316,35 +3316,36 @@ The following is from appendix C
 
 
 
-> "The new defines itself in response to what is already established; at the same time, the established has to reconfigure itself in response to the new... Tradition counts for nothing when it is no longer contested and modified. A culture that is merely preserved is no culture at all." - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "And the problem—as historian Lewis Namier once quipped—is that we all tend to “remember the future.” By which he meant that we don’t and can’t document what will happen in the future. Instead, most of us unconsciously project forward assumptions about what is possible based on our actual experience of the past. We “remember” forward that which we unconsciously take for granted. This works most of the time, but it works terribly in times of great change." - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "When critical long, long trends do not improve—when they steadily get worse, year in and year out—it is clear that we face deeply rooted systemic problems, not simply political problems in the usual sense of the term... The question is: How do we deal with a systemic crisis—something built in to the way the political-economic world works—rather than a simple political crisis or economic crisis?" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
-> "" - [Capitalist Realism - Is There No Alternative? by Mark Fisher](https://www.goodreads.com/book/show/6763725-capitalist-realism)
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
+
+> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
 
 
 
