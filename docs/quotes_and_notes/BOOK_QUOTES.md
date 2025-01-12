@@ -3317,35 +3317,9 @@ The following is from appendix C
 
 
 
-> "And the problem—as historian Lewis Namier once quipped—is that we all tend to “remember the future.” By which he meant that we don’t and can’t document what will happen in the future. Instead, most of us unconsciously project forward assumptions about what is possible based on our actual experience of the past. We “remember” forward that which we unconsciously take for granted. This works most of the time, but it works terribly in times of great change." - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
+Milton Friedman: “The only way that has ever been discovered to have a lot of people cooperate together voluntarily is through the free market.”1 And here are the views of another Nobel-winning conservative economist, Friedrich Hayek: “I regard the preservation . . . of the system of free markets and the private ownership of the means of production, as an essential condition of the very survival of mankind.”
 
-> "When critical long, long trends do not improve—when they steadily get worse, year in and year out—it is clear that we face deeply rooted systemic problems, not simply political problems in the usual sense of the term... The question is: How do we deal with a systemic crisis—something built in to the way the political-economic world works—rather than a simple political crisis or economic crisis?" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
-
-> "" - [What then must we do? Straight talk about the next American revolution, by Gar Alperovitz](https://www.goodreads.com/book/show/16255164-what-then-must-we-do)
+^^ rewrite these in terms of reputation and accountability
 
 
 
