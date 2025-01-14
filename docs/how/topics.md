@@ -76,6 +76,7 @@ Gamification
 https://en.wikipedia.org/wiki/Summa_Theologica
 "The Architecture of infinity"
 "The Third Attractor"
+"Self-interest" with an expanding cognitive light cone from michael levin's paper
 ^^ title of book?
 
 

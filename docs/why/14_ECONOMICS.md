@@ -351,6 +351,12 @@ fungibility, ability to hide malice
 
 Why Peter Singer Says You’re Guilty of Ordinary Evil - Carlos Farias
 https://www.youtube.com/watch?v=Et2ocXkIKXU
+^^ maybe don't include this - don't get too bogged down in specific arguments and taking sides - focus on what's general and obvious
+
+there is an equilibrium for how much redistribution is worth it -> leading to the most shared benefits - and we're nowhere close to it
+
+> "And so, Rawls argues, the bargainers in the original position will pick principles of justice that allow inequality, provided inequality causes everyone to get a bigger slice. The bargainers realize that by rewarding certain people for being unusually productive or talented, everyone can be better off. It is to everyone’s advantage to live by rules under which a Steve Jobs or Warren Buffett can accumulate more wealth than less talented, ambitious, or conscientious people. Once we realize that the size of the pie depends upon people making that pie, we want to encourage pie-making. This holds true even if a large part of Jobs’s and Buffett’s talent is luck—having won the genetic lottery." - [Why not capitalism? by Jason Brennan](https://www.goodreads.com/book/show/18762452-why-not-capitalism)
+
 
 how we should think about wealth distribution and accumulation
 
