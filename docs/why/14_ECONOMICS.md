@@ -3,6 +3,10 @@ https://www.google.com/search?q=keiretsu
 
 
 
+As John Maynard Keynes wrote in the conclusion of his General Theory of Employment, Interest and Money, “The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed, the world is ruled by little else.”
+From John Maynard Keynes’s 1936 The General Theory of Employment, Interest and Money, ch 24, part V.
+
+
 
 embed this:
 Faces of Capitalism with Liv Boeree
@@ -807,13 +811,17 @@ this whole part "NOT THE ISSUE: DOES HUMAN NATURE IMPOSE LIMITS ON JUSTICE?" is 
 
 
 
+> "... wealth creation is the product of a simple, but profoundly powerful, three-step formula—differentiate, select, and amplify—the formula of evolution... Evolution can perform its tricks not just in the “substrate” of DNA, but in any system that has the right information-processing and information-storage characteristics. In short, evolution’s simple recipe of “differentiate, select, and amplify” is a type of computer program—a program for creating novelty, knowledge, and growth. Because evolution is a form of information processing, it can do its order-creating work in realms ranging from computer software to the mind, to human culture, and to the economy... Our intentionality, rationality, and creativity do matter as a driving force in the economy, but they matter as part of a larger evolutionary process.
+>
+> ... Businesses fuse Physical and Social Technologies together and express them into the environment in the form of products and services. Businesses are themselves a form of design. The design of a business encompasses its strategy, organizational structure, management processes, culture, and a host of other factors. Business designs evolve over time through a process of differentiation, selection, and amplification, with the market as the ultimate arbiter of fitness. One of the major themes of this book is that it is the three-way coevolution of Physical Technologies, Social Technologies, and business designs that accounts for the patterns of change and growth we see in the economy.
+>
+> ... Darwin’s great insight into the critical role of natural selection in evolution was thus inspired by economics... a number of great economists, including Joseph Schumpeter and Friedrich Hayek, delved into the relationship between economics and evolutionary theory.
+>
+> ... Scientists refer to parts or particles that have the ability to process information and adapt their behavior as agents and call the systems that agents interact in complex adaptive systems." - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
 
+> "Smith’s great insight was that the secret to wealth creation was improving the productivity of labor. The more bowls a potter can make in an hour, the richer he or she will be. The secret to greater productivity in turn was the division of labor and the specialization that it enables." - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
 
-> "" - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
-
-> "" - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
-
-> "" - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
+> "... the hallmark of a science is not its ability to forecast the future, but its ability to explain things—to increase our understanding of the workings of the universe. As mentioned before, the role of prediction in science is to help us distinguish between competing explanations. A well-formulated theory will have logical implications that can be tested... Science is a continuous learning process in which the logical implications of competing explanations are tested and a body of evidence is accumulated over time. As Sir Karl Popper showed in the 1930s, there is no “final proof” that a theory is correct, but one can say whether a theory is disproved by data, whether one theory fits the data better than another, and whether a theory has yet to be contradicted by data. For example, one cannot say that Einstein’s theory of relativity has been proven, but one can say that its predictions have been well tested, it has yet to be contradicted, and it fits the data better than any alternative explanation proposed thus far. Science thus goes through a process of proposing various explanations, rigorously articulating them in ways that can be tested, eliminating theories that fail the tests, and building on the ones that succeed." - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
 
 > "" - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
 
