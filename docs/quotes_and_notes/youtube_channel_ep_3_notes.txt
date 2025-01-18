@@ -5,13 +5,18 @@ today's topic
 watch intro to channel if new here
 
 - what I missed in the last episode
+- take 2? after last episode
     - alignment: easier if things are shared, transparent, and we express our goals and we have better systems of decision making and tradeoffs, also if we're more coherent
+    - coherence
+    - integration of information vs fragmentation
+    - credit assignment: if a nobody proposes the right idea first and things are deduplicated - they will get the lion's share of reputation and quickly rise
+    - relevance realization & coherence: not just which are the most important ideas but also what are the best teaching materials
+        - we need a generalized less-than comparison operator for sorting anything in society - we need to think algorithmically
+
 
 
 - consciousness
 - attention & its allocation
 - sense of self
-
-- coherence take 2? after last episode
 
 
