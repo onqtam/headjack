@@ -4617,9 +4617,9 @@ concepts thus entail directives.
 
 > "Nature has been far more clever at connectionism than have we. Her mechanisms for information swapping, data processing, and collective creation are more intricate and agile than anything the finest computer theoreticians have yet foreseen." - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
 
-> "" - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
+> "... a collective learning machine achieves its feats by using five elements. This quintet of essentials includes: (1) conformity enforcers; (2) diversity generators; (3) inner-judges; (4) resource shifters; and (5) intergroup tournaments." - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
 
-> "" - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
+> "Jesus captured the resource shifters’ algorithm—its working rule—when he said, “To he who hath it shall be given; from he who hath not, even what he hath shall be taken away.”" - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
 
 > "" - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
 

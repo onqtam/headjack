@@ -1,28 +1,42 @@
 
 
-intro: watch intro to channel if new here
 
+today's topic
+watch intro to channel if new here
 
+2 more major influences:
+- Hanzi Freinacht - political metamodernism & sociology
+- Michael Levin - multicellularity & CI
 
+realization: this whole series until the end of the year will touch a tiny % of all ideas & justifications for them
 
 Collective intelligence
-all intelligence is CI
-all live is problem solving - popper quote
-Consensus slower and worse results with size of committee - looking for the opposite
-Wisdom of crowds
-Cancelling bias, fostering coordination, rationality
-we're a neuron
-relevance realization
-credit assignment, accounting, Backpropagation, accountability, skin in the game
-evolution - evodevo?
-stigmergy
-integration of information vs fragmentation
-incentives for more open & shared data => better shared memory
-deduplicated entities/events/questions
-attention allocation
-consciousness
-coherence
-culture & justification
+- all live is problem solving - popper quote
+- all intelligence is CI
+- Consensus slower and worse results with size of committee - looking for the opposite
+- Wisdom of crowds - cancelling bias & fostering rationality
+- we're neurons
+- social brain - size, division of labor & specialization, sharing, synergy
+- relevance realization - sortition/ranking: problems, solutions, importance, people
+- goal directedness & agency
+- deduplicated entities/events/questions - goals/problems/solutions/executors
+- credit assignment, reputation, backpropagation, accountability, skin in the game
+- coordination
+- causality
+- stigmergy, shared memory & incentives for sharing/opening
+- integration of information vs fragmentation
+- culture & justification
+- alignment
+- coherence
 
-maybe talk about attention & consciousness in a later episode?
+
+incentives for more open & shared data
+
+
+
+- future episodes:
+    - consciousness
+    - attention & its allocation
+    - sense of self
+
 
