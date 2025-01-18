@@ -4,12 +4,6 @@
 today's topic
 watch intro to channel if new here
 
-2 more major influences:
-- Hanzi Freinacht - political metamodernism & sociology
-- Michael Levin - multicellularity & CI
-
-realization: this whole series until the end of the year will touch a tiny % of all ideas & justifications for them
-
 Collective intelligence
 - all live is problem solving - popper quote
 - all intelligence is CI
@@ -33,3 +27,16 @@ Collective intelligence
 incentives for more open & shared data
 
 
+00:00 introduction
+00:21 collective intelligence & the wisdom of crowds
+05:02 neurons in a social brain
+06:44 relevance realization & ranking/sorting
+09:37 deduplicated concepts/events/entities
+18:45 credit assignment, reputation, backpropagation
+22:43 coordination
+24:36 causality & sensemaking
+28:04 alignment & coherence
+32:25 stigmergy, shared data & wikipedia 2.0
+34:39 integrated information vs fragmentation
+36:12 culture & justification
+38:41 next episode: consciousness & attention
