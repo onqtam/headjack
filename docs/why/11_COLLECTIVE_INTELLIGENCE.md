@@ -433,6 +433,10 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 
 If a CEO optimizes for short term benefits in the next few years and then quits when the stock is at an ATH and cashes out but a few years later his policies of reducing R&D & optimizing for short-term profitability ultimately hurt the company - there should be a way for his reputation to be damaged retrospectively if it is later deemed that his actions doomed the company in the long term. we need better accountability & credit assignment
 
+reinforcement:
+
+> "Jesus captured the resource shifters’ algorithm—its working rule—when he said, “To he who hath it shall be given; from he who hath not, even what he hath shall be taken away.”" - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Neuron

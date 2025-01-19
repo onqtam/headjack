@@ -5944,6 +5944,8 @@ MHD/WA
 
 Relevance is sacred
 
+what's our fitness function? getting it wrong will lead to a wrong design of the system that springs up / evolves.
+
 Evolution’s arrow points towards hierarchical self-organization
 
 What if we gifted each other recognition instead of tokens for conspicuously consuming real-world resources
