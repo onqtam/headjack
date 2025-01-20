@@ -6016,7 +6016,7 @@ We’re the current batch in the great evolutionary relay of life
 Its possible to make private predictions and prove them with ZK proofs so you can prove your track record without having to reveal your entries/exits at the exact time you make them and potentially to get frontran by others if you stated them even before entering your positions in order to maximize your proven returns by absorbing your own market impact in your prediction. And it is possible to commit to your series of private predictions so that later you can prove you didn’t run multiple betting histories in parallel and showing only the most profitable one.
 
 
-
+long bets in financial prediction markets are infeasible because of opportunity costs and locking up capital for many years - this isn't a problem in non-financial prediction markets
 
 
 Morpheus quote: all im offering is the truth - nothing more
