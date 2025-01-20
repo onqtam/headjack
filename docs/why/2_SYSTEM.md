@@ -500,6 +500,9 @@ https://www.youtube.com/watch?v=jk_HWmmwiAs
 How Money & Banking Work (& why they're broken today), by Lyn Alden
 ^^ while this video focuses too much on Bitcoin as the solution, we believe that open source money is the way forward - not necessarily Bitcoin.
 
+> "The guys with the money printer really want you to think that the problem is the billionaires." - [Alexandros Marinos](https://x.com/alexandrosM/status/1878469069067927971)
+
+
 > "Let me end my talk by abusing slightly my status as an official representative of the Federal Reserve. I would like to say to Milton and Anna: Regarding the Great Depression, you're right. We did it. We're very sorry. But thanks to you, we won't do it again." - [Ben S. Bernanke](https://en.wikipedia.org/wiki/Great_Contraction#:~:text=Let%20me%20end%20my%20talk%20by%20abusing%20slightly%20my%20status%20as%20an%20official%20representative%20of%20the%20Federal%20Reserve.%20I%20would%20like%20to%20say%20to%20Milton%20and%20Anna%3A%20Regarding%20the%20Great%20Depression%2C%20you%27re%20right.%20We%20did%20it.%20We%27re%20very%20sorry.%20But%20thanks%20to%20you%2C%20we%20won%27t%20do%20it%20again.) #trustmebro
 
 > "It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning." - [Henry Ford](https://www.goodreads.com/quotes/34770-it-is-well-enough-that-people-of-the-nation-do)
@@ -634,6 +637,7 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 # SECTION: Consumerism
 ██████████████████████████████████████████████████████████████████
 
+Sam altman in koenigsegg car picture
 
 > "Consumerism is an existential threat to humanity." - [Marko Jukic](https://x.com/mmjukic/status/1694368729373503781)
 

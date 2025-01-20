@@ -72,3 +72,10 @@ Because we have a broken digital system for attributing who said and expressed w
 
 This is for those that can read between the lines
 
+
+
+
+
+Faq: why so many quotes? Multiple reasons:
+1) unique style
+2) an example how this complex set of expressions could have been aggregated from so many sources

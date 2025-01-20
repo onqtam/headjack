@@ -5946,6 +5946,8 @@ Relevance is sacred
 
 what's our fitness function? getting it wrong will lead to a wrong design of the system that springs up / evolves.
 
+what if we could attach a motivation/justification along with any vote? so that elites can't falsely spin narratives about which groups voted for who and why and shift blame or take credit
+
 Evolution’s arrow points towards hierarchical self-organization
 
 What if we gifted each other recognition instead of tokens for conspicuously consuming real-world resources
@@ -5966,6 +5968,60 @@ God/Agi is a universal justification system - a protocol for inter-agent interac
 Kids play competitive games to sort themselves out into hierarchies - what if they could interface with the world and that was facilitated to the best of our abilities? To bring them up to speed as quickly as possible through teacherly authority?
 
 how do we most optimally network our minds?
+
+
+
+
+There isn’t a problem that wouldn’t benefit from better problem solving and thus the ultimate problem is how to improve our problem solving capacity which is ultimately dependent on what our system is. Captain obvious strikes again! As logical and obvious as this is - we couldn’t be further from actually embodying that frame of mind. We swim in ignorance, complacency, nihilism & feelings of powerlessness and fail to realise what out to be most salient to us
+
+Remember remember the 11-th of january
+https://x.com/halfin/status/1110302988
+https://x.com/beadmomsw/status/1878125819614159065
+Hal finney running bitcoin tweet and aaron swartz suicide
+
+By enlarging the self the wellbeing of others becomes self interest
+
+We need the best justification for less consumption
+
+We need the best justification for anything
+
+The global bid for maximum power - competence, integration, foresight, coherence, alignment, freedom
+
+This is not simy moral highground - this is the only moral ground - anything less than this will simply go underwater
+
+This is a call for anyone in academia worth their soul to understand this project and to publicly support and spread it - this is how science regains its rightful place in society - every individual must publicly risk their career and support the most scientific explanation of how to upgrade our system the most
+
+Conviviality - describe the perfect commune
+
+We need to increase the precision of expression and optimize the allocation of attention
+
+Idiocracy and don’t look up needn’t be prophecies
+
+Turns out political philosophy in the 21st century is all about technology - shocker!
+
+Social algorithms to live by
+
+We should shift from voting for people based on popularity to voting on principles and mechanisms and rules based on popularity which in turn will erect people based on efficacy
+
+The philosopher king as an emergent egregore
+
+The road to serfdom is doubling down on hyper individualistic free market fundamentalist dogma in the face of the next millennia’s most powerful cooperation mechanism and its gravitational pull
+
+Visibility template => perspective
+
+We’re the current batch in the great evolutionary relay of life
+
+20k ratings on goodreads or amazon means nothing if you can’t analyze them and what those people believe to be true
+
+Its possible to make private predictions and prove them with ZK proofs so you can prove your track record without having to reveal your entries/exits at the exact time you make them and potentially to get frontran by others if you stated them even before entering your positions in order to maximize your proven returns by absorbing your own market impact in your prediction. And it is possible to commit to your series of private predictions so that later you can prove you didn’t run multiple betting histories in parallel and showing only the most profitable one.
+
+
+
+
+
+Morpheus quote: all im offering is the truth - nothing more
+All im offering is a competitive advantage for collectives - nothing more
+> "Remember, all I'm offering is the truth – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no)
 
 > "The solution to our problems is exclusively the development of a rational social worldview and an aggressive new elite capable of explicitly taking society in hand for transcendent ends. Nothing will be solved short of that, only muddled through." - [Wolf Tivy](https://x.com/wolftivy/status/1874190841658667518)
 
