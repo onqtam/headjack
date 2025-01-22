@@ -449,6 +449,8 @@ Cartoon: i think we got the discount rate wrong - climate change
 
 > "Civilization is revving itself into a pathologically short attention span. The trend might be coming from the acceleration of technology, the short-horizon perspective of market-driven economics, the next-election perspective of democracies, or the distractions of personal multitasking. All are on the increase. Some sort of balancing corrective to the short-sightedness is needed—some mechanism or myth that encourages the long view and the taking of long-term responsibility, where “the long term” is measured at least in centuries." - [Stewart Brand](https://www.goodreads.com/quotes/7249990-civilization-is-revving-itself-into-a-pathologically-short-attention-span)
 
+iraquai lakota 7th generation thinking
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Enlarging the self
 ██████████████████████████████████████████████████████████████████

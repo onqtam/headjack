@@ -3468,38 +3468,6 @@ Milton Friedman: “The only way that has ever been discovered to have a lot of 
 
 
 
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-> "" - [THE BEST THAT MONEY CAN’T BUY - BEYOND POLITICS, POVERTY, & WAR, BY JACQUE FRESCO](https://www.goodreads.com/book/show/2422980.The_Best_That_Money_Can_t_Buy)
-
-
-
 
 
 

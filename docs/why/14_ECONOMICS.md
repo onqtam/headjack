@@ -524,6 +524,12 @@ Publicity and Accepted Standards
 
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: why capitalism works
+██████████████████████████████████████████████████████████████████
+
+"In order to cure, you must first understand." - quote from 28 days later by a scientist
+
+██████████████████████████████████████████████████████████████████
 # SECTION: other
 ██████████████████████████████████████████████████████████████████
 

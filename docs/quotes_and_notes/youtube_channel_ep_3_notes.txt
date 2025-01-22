@@ -9,6 +9,8 @@ watch intro to channel if new here
     - alignment: easier if things are shared, transparent, and we express our goals and we have better systems of decision making and tradeoffs, also if we're more coherent
     - coherence
     - integration of information vs fragmentation
+        - argument/debate maps
+        - divide and conquer
         - easily finding all opinions pointing at something and filtering them
         - solving something once can be reused by others instead of reinventing the wheel constantly
     - credit assignment: if a nobody proposes the right idea first and things are deduplicated - they will get the lion's share of reputation and quickly rise
@@ -20,8 +22,16 @@ watch intro to channel if new here
 - consciousness
 - attention & its allocation
 - sense of self
+- cybernetics
+
+
 
 
 facebook & attention allocation
 availability cascades
+
+
+
+incentives & collective programming
+
 
