@@ -5118,6 +5118,13 @@ what if teachers were evaluated not only based on the success of their current c
 
 
 
+> "Our mental models thus tend to settle over time, and it takes progressively bigger and bigger shocks to shake them up." - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
+^^ thus it is incredibly important that we give people the most accurate and functional models as early as possible - the most consequential and relevant ones.
+
+
+"Never doubt that a group of people can change the world. Indeed that is all that ever has." - Margaret Mead
+
+
 > "... the over-connected topology leading to what Kauffman coined a Complexity Catastrophe in his work on adaptive landscapes. Beyond a given threshold, the connectivity becomes more disruptive than catalytic to the playing out of adaptive potentials. Likely the reason evolution selects for, not against, scale-specific boundaries / membranes / flow regulating mechanisms that enable complex co-operation and the accretion of complex adaptive structure." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1845546271215616117)
 
 
@@ -6017,6 +6024,9 @@ Its possible to make private predictions and prove them with ZK proofs so you ca
 
 
 long bets in financial prediction markets are infeasible because of opportunity costs and locking up capital for many years - this isn't a problem in non-financial prediction markets
+
+we need to integrate information such that when ppl cite milton freedman to support their free market dogma they also get exposed to all of his views and in his later years as well (redistribution & taxes, something like UBI) - or like with adam smith and his theory of moral sentiment
+
 
 
 Morpheus quote: all im offering is the truth - nothing more
