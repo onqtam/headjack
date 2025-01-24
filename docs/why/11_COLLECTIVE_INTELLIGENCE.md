@@ -491,6 +491,7 @@ the current host-centric world where platforms own our data and is siloed is pre
 # SECTION: Collective intelligence & sensemaking
 ██████████████████████████████████████████████████████████████████
 
+
 sunlight is the best disenfecatant
 the fastest way for pro social behaviors is to make sure everyone's reputation is on the line
 
@@ -647,6 +648,8 @@ all intelligence is collective intelligence
 
 > "A brain is a collection of living cells struggling for survival. By virtue of mechanisms of competition, such as synaptogenesis/pruning and mutual inhibition, and mechanisms of cooperation, such as energysharing through spiking behavior, these collections of cells are able to rapidly self-organize into different patterns of functional connectivity that are adaptive at the group level with respect to a current task and context." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
 
+
+> "The great cognitive scientist and artificial intelligence researcher Marvin Minsky observed that what we call “intelligence” is not a singular thing; rather, it is an emergent phenomenon that arises from the collective interactions of many individual parts. The magic of intelligence is that when those parts are organized in a particular way, they can do things that no individual part could do on its own. Minsky called this description of intelligence “the society of mind.”" - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
 
 
 
