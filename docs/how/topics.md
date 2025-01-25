@@ -74,6 +74,7 @@ Gamification
 "Summa Systemica"
 "Summa Ideologica"
 https://en.wikipedia.org/wiki/Summa_Theologica
+mention the business plan search space for a 500-page book(s) from the book the origin of wealth
 "The Architecture of infinity"
 "The Third Attractor"
 "Self-interest" with an expanding cognitive light cone from michael levin's paper

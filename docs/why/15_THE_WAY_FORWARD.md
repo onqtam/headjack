@@ -433,8 +433,10 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Time preference expansion
+# SECTION: Time preference expansion & discount rate
 ██████████████████████████████████████████████████████████████████
+
+what if we found a way to invert our discount rate, such that we valued the long future mor than the immediate present?
 
 Bryan Johnson’s dont die initiative could play a big role in extending our time horizons
 

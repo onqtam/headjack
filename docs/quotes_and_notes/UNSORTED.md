@@ -6029,6 +6029,52 @@ we need to integrate information such that when ppl cite milton freedman to supp
 
 
 
+What is the most meta thing we could possibly conceive of?
+
+We seek to reproduce ourselves as consciousness - either through our kids culturally or through our work and impact and ideas
+
+What if we made the best system to tell what others should do with their kids and how to raise them? What do they watch, what do they believe and value? What has gone through their moral compass and story-building of who they are and what they should do with themselves? Why not have that as an option?
+
+We should all want to tell what others should participate in - we should actively desire to tell others what we want them to desire
+We need to topologically sort what we should desire
+
+We should figure out what system can and should evolve the most and why - we must point to the most meta-incentive layer possible that we could conceive of
+
+Only a religion would allow people to tell others how to raise their kids
+
+We need to crowdsource the meaning of life - we need to point to the best possible conception of how to live our lives
+
+The biggest competitive advantage one could give to our kids is the most beneficial and cooperative meta ideology to grow into - this is the single most important thing to determine - more than country - ideology. Everything is downstream from ideology
+
+We need to sort the best in anything in the most provable and trusted manner possible and broadcast the result.
+We must unleash and cultivate and speed up evolution in the most positive direction - we must reclaim the telos that was robbed of us through faulty ideology - one that castrated itself with the ignorance of its limits
+
+The worldview that will succeed the most is the one that harnesses as much of the collective intelligence towards problem-solving and control and proven legitimacy through competence
+
+Everybody should be allowed and encouraged to strive for the maximum
+
+How do we compress as much as possible of the most relevant and credible meta-theories by justifying every aspect of them - how they function and why they are there?
+
+Alignment only comes through transparency and trust - there is no other way
+We must supercharge the evolution of alignment and evolvability in tandem
+
+The art of living in this era is not simply a repackaging of old ideas under a banner - it is a complete reinvention that takes advantage of the most powerful information communication capabilities any species that’s a universal explainer has ever discovered
+
+We live in a normative world - why are we pretending otherwise?
+
+Our current system isn’t self-healing and self-improving as much as it could because there are large-scale issues that have an apparent solution that isn’t even being tried because of incompetence and corruption - we must incentivize differently
+
+We can’t simply rely on market prices - an ancient social technology - to remain our best achievement as a collective protocol in the 21st century
+
+This ideology will nonviolently and gently and compassionately wipe the floor with any of its competitors and conquer and assimilate and subsume and pacify and outcompete and improve them
+
+We can incentivize people to share their predictions publicly and not simply prove their performance with ZK by allowing others to credit them for having influenced their specific bets as well
+
+Also because a black market for anonymous and provable insider information will spring up - this will further incentivize companies to be more transparent - because it will be easier than ever to leak information along with anonymity and proof
+
+
+
+
 Morpheus quote: all im offering is the truth - nothing more
 All im offering is a competitive advantage for collectives - nothing more
 > "Remember, all I'm offering is the truth – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no)
