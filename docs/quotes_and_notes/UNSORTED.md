@@ -6073,6 +6073,27 @@ We can incentivize people to share their predictions publicly and not simply pro
 Also because a black market for anonymous and provable insider information will spring up - this will further incentivize companies to be more transparent - because it will be easier than ever to leak information along with anonymity and proof
 
 
+We need to create the large meta-theory collider
+
+We understand through explanations as justifications and all of that is structured hierarchically
+
+What if we traded tokens for the rights of control of objects such that we programmed how much we could consume and what to rent and we voluntarily capped our consumption and entered into an agreement on how to divide the resources optimally and most fairly and productively
+
+We can describe the perfect city and build it for ourselves - or plans to integrate with existing cities and gradually win over their population to opt-in to our ideology
+
+We must compute our way to the best ideology - we must rank the problems, sort them topologically, give them proper weights, and find the best solutions by employing the best people through the most fair competition process and then start solving the graph of governance problems
+
+We need to program our ownership through morality - make “ought” great again - MOGA
+
+Make Ideology Great Again - MIGA
+
+We need to reinvent bar culture
+
+We need the best system to have kids (& adults) in
+
+How best to be a human
+
+The first countries to utilize this architecture will be the biggest winners.
 
 
 Morpheus quote: all im offering is the truth - nothing more
