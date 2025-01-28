@@ -693,6 +693,8 @@ We need to make excessive consumption and showing off uncool
 
 > "They Want You To Be A Docile Apathetic Consumer." - [Bill Hicks](https://www.goodreads.com/quotes/650592-they-want-you-to-be-a-docile-apathetic-consumer)
 
+> "The economy is just smart people paying beautiful people to promote stuff to insecure people." - [Shaan Puri](https://x.com/ShaanVP/status/1694382412422402353)
+
 > "It is the preoccupation with possessions, more than anything else, that prevents us from living freely and nobly." - [Bertrand Russell](https://www.goodreads.com/quotes/5095-it-is-the-preoccupation-with-possessions-more-than-anything-else)
 
 > "We can’t preach to the have-nots the virtue of voluntary simplicity when we’re riding around in BMWs and collecting Monets. That doesn’t make a lot of sense." - [Terence McKenna](https://www.organism.earth/library/document/awakening-to-archaic-values#:~:text=we%20can%E2%80%99t%20preach%20to%20the%20have%2Dnots%20the%20virtue%20of%20voluntary%20simplicity%20when%20we%E2%80%99re%20riding%20around%20in%20BMWs%20and%20collecting%20Monets.%20That%20doesn%E2%80%99t%20make%20a%20lot%20of%20sense.)

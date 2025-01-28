@@ -74,6 +74,7 @@ Gamification
 "Summa Systemica"
 "Summa Ideologica"
 https://en.wikipedia.org/wiki/Summa_Theologica
+https://en.wikipedia.org/wiki/Summa_logicae
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
 "The Architecture of infinity"
 "The Third Attractor"

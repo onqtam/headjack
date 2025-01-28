@@ -461,12 +461,19 @@ What is the Self?
 The neuroscience of ego death | Dr. James Cooke
 https://www.youtube.com/watch?v=W0Gor8BYY00
 
+https://www.youtube.com/watch?v=l7AWnfFRc7g
+RSA ANIMATE: The Empathic Civilisation
+
 https://en.wikipedia.org/wiki/Default_mode_network
 what if we implemented something like the Default mode network in the GB?
 
 > "The mark of a civilized man is the capacity to read a column of numbers and weep." - [Bertrand Russell](https://www.goodreads.com/quotes/10819849-the-mark-of-a-civilized-man-is-the-capacity-to)
 
 > "For the psychologist Paul Bloom, this is a huge downside. Empathy, he argues, focuses our attention on single individuals, leading us to become both parochial and insensitive to scale. As Bertrand Russell is often reported to have said, “The mark of a civilized man is the capacity to read a column of numbers and weep,” but few of us are capable of truly feeling statistics in this way. If only we could be moved more by our heads than our hearts, we could do a lot more good. And yet the incentives to show empathy and spontaneous compassion are overwhelming. Think about it: Which kind of people are likely to make better friends, coworkers, and spouses—“calculators” who manage their generosity with a spreadsheet, or “emoters” who simply can’t help being moved to help people right in front of them? Sensing that emoters, rather than calculators, are generally preferred as allies, our brains are keen to advertise that we are emoters. Spontaneous generosity may not be the most effective way to improve human welfare on a global scale, but it’s effective where our ancestors needed it to be: at finding mates and building a strong network of allies." - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.goodreads.com/quotes/9035068-for-the-psychologist-paul-bloom-this-is-a-huge-downside)
+
+
+> "... the most important task is to be in a new way: to experience, to be conscious, in a new way. We need to make the shift from this, the skin-encapsulated model of the self, to this, what some have referred to as “leaky margins.” The boundaries are still there, but they are much less solid. In addition, we now experience a greater oneness with the world outside." - [Peter Russell](https://www.organism.earth/library/document/global-brain#:~:text=the%20most%20important%20task%20is,oneness%20with%20the%20world%20outside.)
+
 
 Sublimation of the individual self into a higher entity
 

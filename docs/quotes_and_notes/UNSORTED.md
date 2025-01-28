@@ -6096,6 +6096,10 @@ How best to be a human
 The first countries to utilize this architecture will be the biggest winners.
 
 
+> "At the atomic level there’s no atom in your body that you didn’t eat, drink, or breathe from the planet. So we usually think of ourselves as living beings that sit on the planet, but it’s just as reasonable to say—complementarity—that we are the planet that has self-organized its material into beings that think of themselves as separate." - [Neil Theise](https://www.organism.earth/library/document/inherent-compassion#:~:text=At%20the%20atomic,themselves%20as%20separate.)
+
+> "The nervous system, in organizing all the functions of the body, is dealing with thousands of variables at once, for the brain operates intelligently without having to stop to think." - [Alan Watts](https://www.organism.earth/library/topic/ontology#:~:text=The%20nervous%20system%2C%20in%20organizing%20all%20the%20functions%20of%20the%20body%2C%20is%20dealing%20with%20thousands%20of%20variables%20at%20once%2C%20for%20the%20brain%20operates%20intelligently%20without%20having%20to%20stop%20to%20think.)
+
 Morpheus quote: all im offering is the truth - nothing more
 All im offering is a competitive advantage for collectives - nothing more
 > "Remember, all I'm offering is the truth – nothing more." - [Morpheus, The Matrix](https://www.goodreads.com/quotes/1158642-this-is-your-last-chance-after-this-there-is-no)
@@ -6116,6 +6120,8 @@ Culture is what Darwinian evolution looks like when it occurs within a collectiv
 > "Well, he's dead, so in general you always have to be careful..." - [Bill Gates](https://www.yahoo.com/news/bill-gates-answered-questions-meetings-124750218.html#:~:text=Well%2C%20he%27s%20dead%2C%20so%20in%20general%20you%20always%20have%20to%20be%20careful%2C)
 
 
+
+> "We are beginning to share our thinking. We are beginning to connect up mentally. We are beginning to link mind to mind. And as we begin to understand each other, an even deeper level of linking is occurring: a linking of soul to soul. We are beginning to appreciate our sensual unity and oneness. So the next stage of evolution could be humanity beginning to link together—physically and mentally, beginning to work and function on many different levels as an integrated system." - [Peter Russell](https://www.organism.earth/library/document/global-brain#:~:text=We%20are%20beginning%20to%20share,levels%20as%20an%20integrated%20system.)
 
 
 

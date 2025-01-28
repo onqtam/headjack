@@ -435,8 +435,7 @@ If a CEO optimizes for short term benefits in the next few years and then quits 
 
 reinforcement:
 
-> "Jesus captured the resource shifters’ algorithm—its working rule—when he said, “To he who hath it shall be given; from he who hath not, even what he hath shall be taken away.”" - [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century, by Howard Bloom](https://www.goodreads.com/book/show/22517.Global_Brain)
-
+> "To he who hath it shall be given; from he who hath not even what he hath shall be taken away." - [Jesus, Matthew 13:12, 25:29](https://www.biblegateway.com/passage/?search=Matthew%2013%3A12%2CMatthew%2025%3A29&version=NIV)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Neuron

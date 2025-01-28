@@ -2240,11 +2240,30 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales](https://www.mdpi.com/1099-4300/26/7/532)
 
+> "" - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
+
+> "" - [Theory of collective mind, by Garriy Shteynberg](https://for2812.rub.de/upload/file/1693389778_3579661f6c727a030d0c/ShteynbergHirsh_Echterhoff_CollectMind_TiCS2023.pdf)
+
+> "" - [Why Is Anything Conscious? by Michael Timothy Bennett & others](https://osf.io/preprints/osf/mtgn7_v1)
+
+> "" - [Merging Minds: The Conceptual and Ethical Impacts of Emerging Technologies for Collective Minds, by David Lyreskog](https://link.springer.com/article/10.1007/s12152-023-09516-3)
+
+> "" - [In Defence of the Hivemind Society, by John Danaher and Steve Petersen](https://philarchive.org/rec/DANIDO-10)
+
+> "" - []()
+
 > "" - []()
 
 > "" - []()
 
 > "" - []()
+
+> "" - []()
+
+> "" - []()
+
+
+
 
 
 

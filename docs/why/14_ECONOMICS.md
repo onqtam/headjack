@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=xMNil06mODE
 
 
 
+"There is no alternative" (TINA) - liberal capitalism is the only viable system
+https://en.wikipedia.org/wiki/There_is_no_alternative
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████
