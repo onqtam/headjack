@@ -6096,6 +6096,7 @@ How best to be a human
 The first countries to utilize this architecture will be the biggest winners.
 
 
+
 > "At the atomic level there’s no atom in your body that you didn’t eat, drink, or breathe from the planet. So we usually think of ourselves as living beings that sit on the planet, but it’s just as reasonable to say—complementarity—that we are the planet that has self-organized its material into beings that think of themselves as separate." - [Neil Theise](https://www.organism.earth/library/document/inherent-compassion#:~:text=At%20the%20atomic,themselves%20as%20separate.)
 
 > "The nervous system, in organizing all the functions of the body, is dealing with thousands of variables at once, for the brain operates intelligently without having to stop to think." - [Alan Watts](https://www.organism.earth/library/topic/ontology#:~:text=The%20nervous%20system%2C%20in%20organizing%20all%20the%20functions%20of%20the%20body%2C%20is%20dealing%20with%20thousands%20of%20variables%20at%20once%2C%20for%20the%20brain%20operates%20intelligently%20without%20having%20to%20stop%20to%20think.)

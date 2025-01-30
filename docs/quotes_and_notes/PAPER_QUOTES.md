@@ -2246,6 +2246,8 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Why Is Anything Conscious? by Michael Timothy Bennett & others](https://osf.io/preprints/osf/mtgn7_v1)
 
+> "" - [Symbol Emergence and The Solutions to Any Task, by Michael Timothy Bennett](https://arxiv.org/abs/2109.01281)
+
 > "" - [Merging Minds: The Conceptual and Ethical Impacts of Emerging Technologies for Collective Minds, by David Lyreskog](https://link.springer.com/article/10.1007/s12152-023-09516-3)
 
 > "" - [In Defence of the Hivemind Society, by John Danaher and Steve Petersen](https://philarchive.org/rec/DANIDO-10)
