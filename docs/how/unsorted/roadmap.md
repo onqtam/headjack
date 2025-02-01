@@ -88,14 +88,15 @@ Here is what insta
 
 Comics po knigata - za vseki chapter/section
 
-dogfeeding the system: how to get most issues from "the listening society" & "nordic ideology" books into this system?
-
 
 A public list of who has signed up for this system
 
 summoning the GB as a ritual - until self-reference is achieved ala Hofstadter's strange loop thingie
 
 Public tweeting of claiming to want to sign up in the system - and rewarding you for being early. Telling your friends to also read it and tweet it is a competitive advantage - it is a form of caring to share with your friends to be early in the next game of humanity
+
+dogfeeding the system: how to get most issues from "the listening society" & "nordic ideology" books into this system?
+dogfeeding the system: plugging the political insights from "the listning society", "nordic ideology", "the origin of wealth" last chapters into the system with causal links and weights based on relevance
 
 > "My number one predictor of whether or not a company will find product-market fit: High shipping cadence." - [Naval Ravikant](https://x.com/naval/status/1128346098362281984)
 

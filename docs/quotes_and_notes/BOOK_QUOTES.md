@@ -4583,7 +4583,21 @@ concepts thus entail directives.
 
 
 
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
 
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
+
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
+
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
+
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
+
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
+
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
+
+> "" - [Neurosphere - The Convergence of Evolution, Group Mind, and the Internet, by Donald P. Dulchinos](https://www.goodreads.com/book/show/993943.Neurosphere)
 
 
 
