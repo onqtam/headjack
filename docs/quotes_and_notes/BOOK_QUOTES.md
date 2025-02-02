@@ -4603,6 +4603,40 @@ concepts thus entail directives.
 
 
 
+
+> "Macrocognition occurs where no subsystem is capable of producing an authoritative representation and where the representations of multiple subsystems can be coordinated and integrated to yield flexible, skillful, goal-directed system-level behavior. My primary goal in this book is to extend this relatively familiar claim about individual cognition to establish that the flow of information through a network of individuals can produce a macrocognitive system. Specifically, I  argue that there are some collectivities where specialized individuals encode information in iconic and linguistic formats, and rely on interpersonal transactions to convey computationally salient information to guide flexible, skillful, goal-directed collective behavior. The interfaces in such collectivities often take the form of “trading languages,” where individuals only query one another about outputs, ignoring the computations that others have carried out. This allows complex representations to be constructed on the basis of locally available information, and it produces a computational architecture that differs markedly from merely aggregative systems whose behavior can be fully explained in terms of a linear “summing up” of the output of computational subroutines that are all doing essentially the same thing. Where we find collectivities whose flexible, goal-directed behavior is subserved by a computational architecture of this sort, I argue that this provides us with good evidence that the operation of the system is determined both by the intentional states of individuals and by the architecture of the system. Put simply, in these cases, macrocognition bubbles up through the integrated activity of specialized mechanisms, each of which is carrying out less sophisticated computations relative to the task at hand.
+>
+> ... Principle 1 : Do not posit collective mentality where collective behavior results from an organizational structure set up to achieve the goals or realize the intentions of a few powerful and/or intelligent people.
+>
+> ... Principle 2: Do not posit collective mental states or processes where collective behavior bubbles up from simple rules governing the behavior of individuals; intentional states, decisions, or purposes cannot legitimately be ascribed to such collectivities.
+>
+> ... Principle 3: Do not posit collective mental states where the capacities of the components belong to the same intentional kind as the capacity that is being ascribed to the collectivity and where the collective computations are no more sophisticated than the computations that are carried out by the individuals who compose the collectivity.
+>
+> ...  To summarize, collective mentality arises where information processed by a number of distributive individuals (or individuals and technological apparatuses, or committ ees of individuals) is interfaced to allow a collectivity to cope with features of the environment that are salient to the collectivity itself. Collectivities that exhibit such a computational structure diff er markedly from merely aggregative systems whose behavior can be fully explained in terms of a linear “summing up” of the output of computational subroutines that are all doing essentially the same thing.
+>
+> " - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+> "" - [Macrocognition - A Theory of Distributed Minds and Collective Intentionality, by Bryce Huebner](https://www.goodreads.com/book/show/18172535-macrocognition)
+
+
+
+
 > "" - [World Brain, by H.G. Wells](https://gutenberg.net.au/ebooks13/1303731h.html)
 
 > "" - [World Brain, by H.G. Wells](https://gutenberg.net.au/ebooks13/1303731h.html)
