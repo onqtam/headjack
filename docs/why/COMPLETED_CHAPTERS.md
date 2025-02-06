@@ -280,6 +280,8 @@ top10 books:
 honorable mentions:
 - brendan's books on emergence & meaning?
 - the world we create: from god to market
+- hanzi's books the listening society & nordic ideology
+- The origin of Wealth, by Eric Beinhocker
 
 top10 heresies:
 - random mutations are a small part in the variation of biological evolution and we're yet to discover/explain the full picture
@@ -436,7 +438,7 @@ top10 things to answer:
 - what do you want to exist even if you don't? And how much of a difference do you make to it now?
 
 Top10 tracks
-- mawenzi, Elfenberg
+- Mawenzi, Elfenberg
 - Yigi Yigi, David Hudson & Friends
 - Agualita, Lua Maria & Adrian Freedman
 - Forest Gathering, Inlakesh
