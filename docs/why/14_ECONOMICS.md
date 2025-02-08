@@ -22,6 +22,39 @@ https://www.youtube.com/watch?v=xMNil06mODE
 https://en.wikipedia.org/wiki/There_is_no_alternative
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Institutions
+██████████████████████████████████████████████████████████████████
+
+institutions: rules, roles & enforcement of those rules that structure human interaction
+examples: markets, marriage, corporations, legal system (also specific courts as specific sub-institution), journalism, higher education, regulatory bodies, etc. - organizations are specific instantiations of institutions
+they structure relationships to avoid conflict, avoid opportunistic behavior, etc.
+^^ taken from 1 Definition of Institutions in Economics [cxEhWDvJUEg] from ashley from her institutional economics playlist
+
+institutional economics: coordination costs, efficiency, collective action, repeated interaction games, theory, reputation-building, property rights, principal-agent problem, the evolutionary nature of what survives
+
+internal vs external institutions
+- enforcement in internal (decentralized): norms, social pressure/judgement/expectations, conventions, habits
+- in external (centralized): organizational rules, legal system
+internal & external should be compatible - if there's a mismatch there will be problems
+
+search costs in institutional economics:
+- matchmaking, labor markets, other markets, opportunity costs
+- related: Roland Coase, The nature of the firm
+
+institution vs organization: org has a clear boundry & specific purpose/instantiation & hierarchical/official structure
+every org is an institu, but not every institu is an org (eg: marriage, regulatory body (not a specific one), institu of a firm (not a specific one), school, nonprofit, (labor) market, etc. - conceptual ones)
+institutions can be nested: K12 => disctrict => specific school
+
+the information paradox: how do u determine if its worth expending scarce resources pursuing information which u don't know how valuable it will be?
+
+3 different types of efficiency: technical (mechanical), economic (within a firm: organizational, social, human beings - not machines) & dynamic (whole economy - higher level of complexity - unpredictable, untestable)
+
+TODO: continue from ep 8 forward from ashley's institu econ playlist
+
+
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████
 

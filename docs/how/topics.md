@@ -79,6 +79,9 @@ mention the business plan search space for a 500-page book(s) from the book the 
 "The Architecture of infinity"
 "The Third Attractor"
 "Meta"
+The Mind/Psychology of God
+The Fifth Joint Point
+Reputation/Identity in the 21st century - like the book about capital
 "Self-interest" with an expanding cognitive light cone from michael levin's paper
 ^^ title of book?
 
