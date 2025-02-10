@@ -6097,6 +6097,54 @@ The first countries to utilize this architecture will be the biggest winners.
 
 
 
+
+We live in a world where our brightest minds earn fortunes in finance without providing almost anything of value to society. That’s a badly designed system.
+
+Universal Global Brain Education
+
+We’ve allowed our religeos incentive to die out and leaving everything in the hands of the market instead of just a part - we need a moral opt-in tax regime that’s uncorruptible
+
+The US should i stantly dump a few hundred thousand billion for building this and passing the money through its emergent incentive structure.
+
+The re-source of civilization
+
+Make people great again
+Make institutions trustworthy / great again
+MITA
+
+The united states government is a failure to the degree to which there is corruption and incompetence and a lack of vision/wisdom/foresight in it
+
+The US government should not try to stop this system to take root in it - it simply needs to step aside and perhaps provide some funding - that’s all winning takes. This is what the future of progress looks like.
+
+We take no prisoners because we don’t generate them - we solve for poverty, morality, culture and education - we produce better people and we rarely resort to incarcerating one another.
+
+Outmusking Musk
+
+We will give you money but you’ll have to go through our enculturation process
+
+We should be able to easily locate any new/original opinions and easily see how much support an opinion has - in the current situation where people leave (repetitive) comments constantly and everywhere that is not the case
+
+This reputation layer will in essence own the means of regulation - it will own money itself and reputation in this game will be the ultimate currency - not ohm, not eth. They will be rollups to the master chain
+The reputation / trust later is the ultimate store of value
+
+We need the ultimate psychologist god
+
+We must crowdsource mass television programming - we must define the best possible channels for common knowledge where the incentives are for the knowledge to be as accurate and meaningful as possible
+BETTER COMMON KNOWLEDGE
+
+The best explanation for what we are leads to the best possible plan what we should become
+
+We need the most optimal regulatory and tax regime such that we get the most common public funds to spend in the most logical way collectively
+
+We win by getting more people on our aide and providing actual benefits to them for them to join our economy
+
+How do we make Kanye’s manic episodes on social media NOT go viral? This is a symptom of our disease/problem
+We could probably calculate what % of all of humanity’s limited attention and time is misspent when kanye has a public meltdown. We can quantify with him the degree of total failure to upregulate what’s meaningful
+
+Its funny how the AI sages all say its about compression and yet we as a society have failed to continue integrating and compressing and sorting our best theories after capitalism & democracy - we’ve collectively failed at relevance realization
+
+
+
 > "At the atomic level there’s no atom in your body that you didn’t eat, drink, or breathe from the planet. So we usually think of ourselves as living beings that sit on the planet, but it’s just as reasonable to say—complementarity—that we are the planet that has self-organized its material into beings that think of themselves as separate." - [Neil Theise](https://www.organism.earth/library/document/inherent-compassion#:~:text=At%20the%20atomic,themselves%20as%20separate.)
 
 > "The nervous system, in organizing all the functions of the body, is dealing with thousands of variables at once, for the brain operates intelligently without having to stop to think." - [Alan Watts](https://www.organism.earth/library/topic/ontology#:~:text=The%20nervous%20system%2C%20in%20organizing%20all%20the%20functions%20of%20the%20body%2C%20is%20dealing%20with%20thousands%20of%20variables%20at%20once%2C%20for%20the%20brain%20operates%20intelligently%20without%20having%20to%20stop%20to%20think.)

@@ -4649,6 +4649,30 @@ concepts thus entail directives.
 
 
 
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+> "" - [Origins of Human Communication, by Michael Tomasello](http://f.javier.io/public/books/Origins-of-Human-Communication.pdf)
+
+
+
+
+
 
 > "" - [World Brain, by H.G. Wells](https://gutenberg.net.au/ebooks13/1303731h.html)
 
