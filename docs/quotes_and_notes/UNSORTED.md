@@ -6083,10 +6083,6 @@ We can describe the perfect city and build it for ourselves - or plans to integr
 
 We must compute our way to the best ideology - we must rank the problems, sort them topologically, give them proper weights, and find the best solutions by employing the best people through the most fair competition process and then start solving the graph of governance problems
 
-We need to program our ownership through morality - make “ought” great again - MOGA
-
-Make Ideology Great Again - MIGA
-
 We need to reinvent bar culture
 
 We need the best system to have kids (& adults) in
@@ -6144,6 +6140,7 @@ We could probably calculate what % of all of humanity’s limited attention and 
 Its funny how the AI sages all say its about compression and yet we as a society have failed to continue integrating and compressing and sorting our best theories after capitalism & democracy - we’ve collectively failed at relevance realization
 
 
+> "We should all feel an obligation to tell stories about a human future that we actually want to be a part of." - [David Holz](https://x.com/DavidSHolz/status/1888838844046582113)
 
 > "At the atomic level there’s no atom in your body that you didn’t eat, drink, or breathe from the planet. So we usually think of ourselves as living beings that sit on the planet, but it’s just as reasonable to say—complementarity—that we are the planet that has self-organized its material into beings that think of themselves as separate." - [Neil Theise](https://www.organism.earth/library/document/inherent-compassion#:~:text=At%20the%20atomic,themselves%20as%20separate.)
 
