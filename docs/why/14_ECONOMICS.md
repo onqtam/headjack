@@ -576,6 +576,7 @@ forecasting - what if there was a disincentive to play on short term volatility 
 Renaissance Technologies has not contributed tens of billions of value to the economy to be rewarded that much - they extracted that from market volatility by simply outsmarting everyone else. The most incredible of minds end up extracting and not contributing. Companies would have been fine without Ren Tech "helping" get their valuation closer to equilibrium by a few percentage points (actually they might have even helped valuations deviate further just by amplyfing trends) - very few companies end up selling shared on the market for financing their operations once public so their valuation being off by a few basis points won't matter at all to the economy - Ren Tech's actual contribution to the economy is close to 0. This is true of most (if not all) hedge funds.
 
 > "Your margin is my opportunity." - [Jeff Bezos](https://www.goodreads.com/quotes/706779-your-margin-is-my-opportunity)
+Your conspicuous consumption is our opportunity
 
 We can tell the money where to go
 

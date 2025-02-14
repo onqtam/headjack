@@ -79,14 +79,21 @@ mention the business plan search space for a 500-page book(s) from the book the 
 "The Architecture of infinity"
 "The Third Attractor"
 "Meta"
+"multi scale competency architecture"
 The Mind/Psychology of God
 The Fifth Joint Point
 Reputation/Identity in the 21st century - like the book about capital
 "Self-interest" with an expanding cognitive light cone from michael levin's paper
 ^^ title of book?
+The apex meme
+R-naught of greater than 1
+“Greater than 1”
+Peter thiel gave u from 0 to 1, this is greater than 1
+
+
 
 This is a book with multiple titles? why not?
-
+Buy all of the domains for all the titles and let people browse it through their preferred domain - the one that resonates the most
 
 deconstructing media down to the claim level
 

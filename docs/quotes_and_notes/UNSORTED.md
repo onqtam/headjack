@@ -6140,6 +6140,91 @@ We could probably calculate what % of all of humanity’s limited attention and 
 Its funny how the AI sages all say its about compression and yet we as a society have failed to continue integrating and compressing and sorting our best theories after capitalism & democracy - we’ve collectively failed at relevance realization
 
 
+
+
+Our experience is the expression of the universe
+
+A creative act of expression
+
+We need to structure our incentives in our system such that it is most conducive to beneficial and positive outcomes
+
+Civilization is cultivated - it is grown and renewed and built upon
+
+A culture of praise and recognition
+
+Hail relevance
+
+Judgement as a service
+Justification as a service
+Reason as a service
+Coherence as a service
+Shared memory as a service
+Shared identity as a service
+Wikimeaning as a service
+
+Theory allows you to see and understand - theory is an explanation - a justification
+
+how do we not only create more content like Veritasium but also create more desire to look precisely at things like that instead of low-grade culture slop? How do we reduce the consumption of low-grade culture slop? how do we enable and help people get a better education about how the world works and what makes sense for them to do? How do we funnel more people to go through brilliant and with better success rates? how do we enable as many people as possible to go through the best possible education they could get? How do we crowdsource the most optimal curriculum and enable it to perpetually evolve and keep improvements that go through the criticism & argumentation gauntlet
+
+
+Integration of theories is about cross connections and applicability and synergy between them in different dimensions - they each help explain all the rest because of the interconnectedness of everything in complexity
+
+people who have read the book should tweet out the hash of it - and we'll use social media to count the public aggregation of sentiment towards this singular and most precise and thoughtful expression for our next ideology
+
+To expect people to give to others is ok only if those others are also willing to give something else back in return - there should be symmetry
+Not sure about this
+It's not just about feeding the poor - it is about helping them most effectively to catch up to you as fast as possible while contributing to your problem-solving efforts - adding brain power, creativity, and judgment and aggregating consciousness towards solving issues faster and better
+
+Death is the single most important event in life - it is about the abrupt end of your conscious being - the end of you as a conscious and coherent self that is self-maintaining and recreating. What you leave behind is your children and the behavioral patterns and systems of justification and perspectives for the world that we download into them. What lives on after we’re gone is an informational pattern - become the best informational pattern and replicate yourself - struggle to become the best possible pattern and struggle to propagate yourself into the heads of others - struggle to make a mark by improving things for everyone - join the most logical and self-consistent and coherent and glorious ideology that you can get your mind around and rage, rage against the dying of the light
+The most important thing to do in life is obvious - to contribute to something larger than oneself
+
+How do we arm people with better cognition and better ideology and cooperation protocols - rules of the game? We feed them but we expect them to police themselves to uphold certain virtues that are most generative - we want others to be catching up to us technologically - we need to lift as many conscious human beings as possible to the highest cognitive levels and advanced tools possible
+
+Garbage in - garbage out
+This is as true about nutrition as it is about ideas
+
+
+https://bg.wiktionary.org/wiki/%D1%81%D1%8A%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5
+Consciousness in bulgarian is “suznanie” - “su”-“znanie” - collective knowing - consciousness is the coherent collective perspective of the self - consciousness is the most complex emergent information processing pattern that evolution has been able to come up with because of its adaptability and evolvability - iteraitng over ideas and propositions and justifications in culture space - the latest plane of evolution and complexification is entirely in the abstract emergent and co-doscovered/co-created world of ideas
+
+We should all wish to be able to talk to more people about more things in more depth - more conscious understanding - better grasp of our finest memetic conceptions of the pattern of reality that we are co-constructing to orient ourselves collectively - our shared imaginary
+
+The engine/computational architecture of ideology
+
+This book is an invitation to a higher level of philosophy
+
+We can gradually start redirecting resources and incentives as such: how to feed better more poor, how to engage them in the whole enterprise such that they contribute and that they want it to succeed - they need to feel connected to something larger than themselves - an offer for transcendence - a way to leave a mark
+
+We need to point out which arguments are better and how we came to that conclusion - we need to justify what is true and why we should converge on it and how we think we know what is true - what is our epistemology
+
+This book is an experience of comprehension - go at it through any way you find most compelling and gradually visit all of the nodes and be familiar with the entire memeplex
+
+We must reinvent the SAT test
+
+We need to enable the religions to converge on the ultimate truth
+
+We sculpt the psychologies of our kids
+The better we infuse them with relevance - the better
+
+The free to choose network
+Relevance is sacred
+Relevance is about choice and comparison - with comparison we also get choice - we get the ranking
+
+What does humanity stand for?
+
+picture what is possible in the next century
+
+Contribution rights > property rights
+
+
+> "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
+You can just program society
+Programming the hive mind
+Moral programming - valence
+The real fine-tuning problem is about how we fine-tune society and its incentives - how do we program ourselves as a collective
+
+
+
 > "We should all feel an obligation to tell stories about a human future that we actually want to be a part of." - [David Holz](https://x.com/DavidSHolz/status/1888838844046582113)
 
 > "At the atomic level there’s no atom in your body that you didn’t eat, drink, or breathe from the planet. So we usually think of ourselves as living beings that sit on the planet, but it’s just as reasonable to say—complementarity—that we are the planet that has self-organized its material into beings that think of themselves as separate." - [Neil Theise](https://www.organism.earth/library/document/inherent-compassion#:~:text=At%20the%20atomic,themselves%20as%20separate.)
