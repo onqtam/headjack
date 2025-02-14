@@ -85,10 +85,9 @@ The Fifth Joint Point
 Reputation/Identity in the 21st century - like the book about capital
 "Self-interest" with an expanding cognitive light cone from michael levin's paper
 ^^ title of book?
-The apex meme
-R-naught of greater than 1
+
 “Greater than 1”
-Peter thiel gave u from 0 to 1, this is greater than 1
+Peter thiel gave u from 0 to 1, this is the apex meme with an R-naught greater than 1, although what about herd immunity... maybe just >1 is not enough
 
 
 

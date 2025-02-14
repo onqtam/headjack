@@ -227,6 +227,9 @@ top 10 insights from any scientist
 
 top 10 concept for life: tim urban's life calendar
 
+top 10 things I wish I knew earlier:
+https://eriktorenberg.substack.com/p/35
+
 top 10 recommendations: The Century of the Self
 there should also be top 50/200/etc. - we should simply rank everything - vote with our actions in a global shared OS of events - events to which others can subscribe to
 

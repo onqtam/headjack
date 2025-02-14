@@ -515,7 +515,7 @@ private (intellectual) property, trade secrets and redundancy in companies reduc
 
 
 The Beginning of Infinity, by David Deutsch
-I've read only chapters 1, 2, 5, 13 (choices), 15
+I've read only chapters 1, 2, 5 (abstractions), 13 (choices), 15 (culture)
 
 > "Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?"
 John Archibald Wheeler, Annals of the New York Academy of Sciences, 480 (1986)
