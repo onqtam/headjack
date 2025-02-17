@@ -79,6 +79,7 @@ mention the business plan search space for a 500-page book(s) from the book the 
 "The Architecture of infinity"
 "The Third Attractor"
 "Meta"
+Principia Mathematica
 "multi scale competency architecture"
 The Mind/Psychology of God
 The Fifth Joint Point
