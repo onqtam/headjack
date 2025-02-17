@@ -6216,6 +6216,10 @@ picture what is possible in the next century
 
 Contribution rights > property rights
 
+Emergent World Order
+
+we need to properly sort people in order to properly sort opinions on what we should be doing - individually and collectively
+
 
 > "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
 You can just program society
@@ -6257,6 +6261,20 @@ Culture is what Darwinian evolution looks like when it occurs within a collectiv
 
 
 > "A fun game is to go through [this list](https://www.worldometers.info/gdp/gdp-by-country/) of country gdps, scroll down to Kuwait, and see all the countries whose entire economic output can't cover what Americans spend annually on their pets (186 bn)." - [Jake Bornstein](https://x.com/JLBornstein/status/1836835877936615855)
+
+
+
+> "The vestiges of social organization are crumbling. As culture and society atomize, it becomes impossible to maintain a coherent ideology. Religions decohere into vague “spirituality,” and political isms give way to bizarre, transient, reality-impaired online movements. Decontextualized, contradictory, intensely-proclaimed religious and political “beliefs” displace legacy systems of meaning. These are not beliefs in an ordinary sense, but advertisements of personal qualities and tribal identication. The atomized mode generates paranoia, because without the systematic mode’s “therefores,” its structure of justication, there are no memetic defenses against bad ideas... We build selves by internalizing meanings from our culture and from social relationships. As culture and society atomize, we are bombarded with a kaleidoscopic chaos of brightly-colored atoms of meaning, and it becomes impossible to construct or maintain a coherent self... Overall, the problem is that without structures and boundaries, shards of meaning do not relate to each other, so it’s impossible to compare them. There is no standard of value, so everything seems equally trivial—or equally earth-shaking, or equally threatening. Our lives are so full of so many tiny tasty things, and so many crises and outrages, that it may all fail to add up to much... The diference is that we now need to manage hugely more complexity, diversity, volume, and urgency of meanings.Individuals can get by in the atomized world without coherent understanding. Societies cannot." - [Atomization: the kaleidoscope of meaning | Meaningness](https://meaningness.com/atomized-mode)
+
+
+
+> "In any particular time and place, political aliation tends to range along a single continuum, which gets labeled let to right. However, “left” and “right” mean quite different things in different places and eras. Ideologues often claim that “what left and right mean is”—whatever serves their argument. However, political scientists agree that there is no defining issue or axis that consistently distinguishes the two. In American politics, left and right have been redefined several times... American first-past-the-post voting rules force a two-party system. For many issues, there are more than two possible choices; and groups who agree on one topic may disagree on another. These facts imply that the two parties must always assemble incoherent coalitions of interest groups, somehow held together to cover roughly half the voters. When the sizes of groups change, or a group changes its party affiliation, the system becomes unstable, and new coalitions must be organized." - [Rotating politics ninety degrees clockwise | Meaningness](https://meaningness.com/political-left-right-rotated)
+
+
+
+> "Politics is supposed to be the way to deal with vast problems and impending catastrophes. It is totally not working. It’s the problem, not the solution... When politics is mostly about sex, drugs, religion, and cartoon frogs, it is much easier to cut backroom deals that capture regulatory agencies and redirect trillions of tax dollars to business interests. So long as a policy question does not line up with the monist-vs.-dualist axis, it is not “political” and therefore can be sold to the highest-bidding lobbyists. For the past decade, globally, macroeconomic policy has been run largely for the benefit of the financial industry, at an enormous cost to everyone else. This is not a right-vs.-let issue. It is not even a rich-vs.-poor issue. It’s an everybody-else-vs.-the-financial-industry issue. How can subsidies in excess of a trillion dollars a year persist, with no popular support from either the right or the left? Because it’s not about “values,” it is “not political” under the current definition of politics. The Great Rotation removed the single most important policy issue from the democratic process." - [Wreckage: the culture war | Meaningness](https://meaningness.com/counterculture-war)
+
+
 
 
 
