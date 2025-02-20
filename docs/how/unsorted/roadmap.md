@@ -115,6 +115,8 @@ auction the first 10k indexes in different tiers and raise funds
 
 > "Having a great idea for a product is important, but having a great idea for product distribution is even more important." - [Reid Hoffman](https://www.azquotes.com/quote/716440)
 
+> "A war of ideas can no more be won without books than a naval war can be won without ships. Books, like ships, have the toughest armor, the longest cruising range, and mount the most powerful guns." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/37756-a-war-of-ideas-can-no-more-be-won-without)
+
 https://www.privy.io/
 
 https://www.defmacro.org/2019/03/26/startup-checklist.html

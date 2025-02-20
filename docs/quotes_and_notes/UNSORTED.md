@@ -554,25 +554,7 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "Kites rise highest against the wind, not with it." - [Winston Churchill](https://www.goodreads.com/quotes/11419-kites-rise-highest-against-the-wind-not-with-it)
-
-> "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals." - [Winston Churchill](https://www.goodreads.com/quotes/8912-i-am-fond-of-pigs-dogs-look-up-to-us)
-
-> "Healthy citizens are the greatest asset any country can have." - [Winston Churchill](https://www.goodreads.com/quotes/97948-healthy-citizens-are-the-greatest-asset-any-country-can-have)
-
-> "The empires of the future are the empires of the mind." - [Winston Churchill](https://www.goodreads.com/quotes/21921-the-empires-of-the-future-are-the-empires-of-the)
-
 > "Unless we establish some form of world government, it will not be possible for us to avert a World War III in the future." - [Winston Churchill](https://www.azquotes.com/quote/785081)
-
-> "I began my education at a very early age; in fact, right after I left college." - [Winston Churchill](https://www.azquotes.com/quote/558395)
-
-> "Life is fraught with opportunities to keep your mouth shut." - [Winston Churchill](https://www.azquotes.com/quote/415384)
-
-> "There is no such thing as public opinion. There is only published opinion." - [Winston Churchill](https://www.azquotes.com/quote/56353)
-
-> "A nation that fails to honor its heroes, soon will have no heroes to honor." - [Winston Churchill](https://www.azquotes.com/quote/722245)
-
-> "You have enemies? Good. That means you've stood up for something, sometime in your life." - [Winston Churchill](https://www.azquotes.com/quote/56283)
 
 > "The difference between mere management and leadership is communication." - [Winston Churchill](https://www.azquotes.com/quote/895708)
 
@@ -582,178 +564,9 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 > "It's not the people who vote that count. It's the people who count the votes." - [Joseph Stalin](https://www.azquotes.com/quote/639772)
 
 
-
-
-
-> "If civilization is to survive, it must live on the interest, not the capital, of nature." - [Ronald Wright](https://www.goodreads.com/quotes/380970-if-civilization-is-to-survive-it-must-live-on-the)
-
-> "The most compelling reason for reforming our system is that the system is in no one's interest. It is a suicide machine." - [Ronald Wright](https://www.goodreads.com/quotes/280775-the-most-compelling-reason-for-reforming-our-system-is-that)
-
-> "To use a computer analogy, we are running twenty-first-century software on hardware last upgraded 50,000 years ago or more. This may explain quite a lot of what we see in the news." - [Ronald Wright](https://www.goodreads.com/quotes/7295907-to-use-a-computer-analogy-we-are-running-twenty-first-century-software)
-
-
-
-
-== regarding the quotes below: Dan Ariely probably has committed scientific fraud, even if these quotes make sense and are probably true - evaluate if I want them in here
-
-> "Standard economics assumes that we are rational... But, as the results presented in this book (and others) show, we are far less rational in our decision making... Our irrational behaviors are neither random nor senseless- they are systematic and predictable. We all make the same types of mistakes over and over, because of the basic wiring of our brains." - [Dan Ariely](https://www.goodreads.com/quotes/791943-standard-economics-assumes-that-we-are-rational-but-as-the)
-
-> "Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but often more effective as well." - [Dan Ariely](https://www.goodreads.com/quotes/6801932-money-as-it-turns-out-is-very-often-the-most)
-
-> "That’s a lesson we can all learn: the more we have, the more we want. And the only cure is to break the cycle of relativity." - [Dan Ariely](https://www.goodreads.com/quotes/1194732-that-s-a-lesson-we-can-all-learn-the-more-we)
-
-> "There are many examples to show that people will work more for a cause than for cash." - [Dan Ariely](https://www.goodreads.com/quotes/1400152-there-are-many-examples-to-show-that-people-will-work)
-
-> "Division of labor, in my mind, is one of the dangers of work-based technology. Modern IT infrastructure allows us to break projects into very small, discrete parts and assign each person to do only one of the many parts. In so doing, companies run the risk of taking away employees' sense of the big picture, purpose, and sense of completion." - [Dan Ariely](https://www.goodreads.com/quotes/315819-d-ivision-of-labor-in-my-mind-is-one-of-the)
-
-> "Tom had discovered a great law of human action, namely, that in order to make a man covet a thing, it is only necessary to make the thing difficult to attain." - [Dan Ariely](https://www.goodreads.com/quotes/3174658-tom-had-discovered-a-great-law-of-human-action-namely)
-
-> "Wouldn't economics make a lot more sense if it were based on how people actually behave, instead of how they should behave?" - [Dan Ariely](https://www.goodreads.com/quotes/1241283-wouldn-t-economics-make-a-lot-more-sense-if-it-were)
-
-> "One of the big lessons from behavioral economics is that we make decisions as a function of the environment that we're in." - [Dan Ariely](https://www.azquotes.com/quote/1481313)
-
-> "The most difficult thing is to recognize that sometimes we too are blinded by our own incentives. Because we don’t see how our conflicts of interest work on us." - [Dan Ariely](https://www.azquotes.com/quote/733215)
-
-== ^^ Dan Ariely probably has committed scientific fraud, even if these quotes make sense and are probably true - evaluate if I want them in here
-
-
-
-
-> "The greatest question of our time is not communism vs. individualism, not Europe vs. America, not even the East vs. the West; it is whether men can bear to live without God." - [Will Durant](https://www.goodreads.com/quotes/58869-the-greatest-question-of-our-time-is-not-communism-vs)
-
-> "Most history is guessing, and the rest is prejudice." - [Will Durant](https://www.goodreads.com/quotes/6539581-most-history-is-guessing-and-the-rest-is-prejudice)
-
-> "It is not the race that makes the civilization, it is the civilization that makes the people: circumstances geographical, economic, and political create a culture, and the culture creates a human type." - [Will Durant](https://www.goodreads.com/quotes/6880284-it-is-not-the-race-that-makes-the-civilization-it)
-
 > "Science is organized knowledge. Wisdom is organized life." - [Will Durant](https://www.goodreads.com/quotes/11764-science-is-organized-knowledge-wisdom-is-organized-life)
 
-> "Education is a progressive discovery of our own ignorance." - [Will Durant](https://www.goodreads.com/quotes/31315-education-is-a-progressive-discovery-of-our-own-ignorance)
 
-> "History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all." - [Will Durant](https://www.goodreads.com/quotes/1055330-history-reports-that-the-men-who-can-manage-men-manage)
-
-> "Tolerance grows only when faith loses certainty; certainty is murderous." - [Will Durant](https://www.goodreads.com/quotes/84593-tolerance-grows-only-when-faith-loses-certainty-certainty-is-murderous)
-
-> "You can’t fool all the people all the time, but you can fool enough of them to rule a large country." - [Will Durant](https://www.goodreads.com/quotes/3240120-you-can-t-fool-all-the-people-all-the-time-but)
-
-> "A great civilization is not conquered from without, until it has destroyed itself from within. The essential causes of Rome's decline lay in her people, her morals, her class struggle, her failing trade, her bureaucratic despotism, her stifling taxes, her consuming wars." - [Will Durant](https://www.azquotes.com/quote/722731)
-
-> "If we have never been amazed by the very fact that we exist, we are squandering the greatest fact of all." - [Will Durant](https://www.azquotes.com/quote/824182)
-
-> "The political machine triumphs because it is a united minority acting against a divided majority." - [Will Durant](https://www.azquotes.com/quote/83455)
-
-> "In my youth I stressed freedom, and in my old age I stress order. I have made the great discovery that liberty is a product of order." - [Will Durant](https://www.azquotes.com/quote/83462)
-
-> "When liberty destroys order the hunger for order will destroy liberty." - [Will Durant](https://www.azquotes.com/quote/567559)
-
-> "Never mind your happiness; do your duty." - [Will Durant](https://www.azquotes.com/quote/569873)
-
-> "The health of nations is more important than the wealth of nations." - [Will Durant](https://www.azquotes.com/quote/524420)
-
-> "Education is the transmission of civilization." - [Will Durant](https://www.azquotes.com/quote/522317)
-
-
-
-
-
-
-
-> "Great companies have missions, not metrics." - [Palladium Magazine](https://x.com/palladiummag/status/1829549384322994535)
-
-
-
-> "I have made the most important discovery of my career, the most important discovery of my life: It is only in the mysterious equations of love that any logic or reasons can be found." - [John Forbes Nash](https://www.azquotes.com/quote/526908)
-
-> "Classes will dull your mind, destroy the potential for authentic creativity." - [John Forbes Nash](https://www.azquotes.com/quote/750790)
-
-> "The only thing greater than the power of the mind is the courage of the heart." - [John Forbes Nash](https://www.goodreads.com/quotes/795192-the-only-thing-greater-than-the-power-of-the-mind)
-
-> "The Best for the Group comes when everyone in the group does what's best for himself AND the group." - [John Forbes Nash](https://www.goodreads.com/quotes/229916-the-best-for-the-group-comes-when-everyone-in-the)
-
-
-
-
-
-
-> "In 2012 about 56 million people died throughout the world; 620,000 of them died due to human violence (war killed 120,000 people, and crime killed another 500,000). In contrast, 800,000 committed suicide, and 1.5 million died of diabetes. Sugar is now more dangerous than gunpowder." - [Yuval Noah Harari](https://www.goodreads.com/quotes/7957329-in-2012-about-56-million-people-died-throughout-the-world)
-
-
-
-
-> "For civilization is not something inborn or imperishable; it must be acquired anew by every generation, and any serious interruption in its financing or its transmission may bring it to an end." - [Will Durant](https://www.goodreads.com/quotes/11637140-for-civilization-is-not-something-inborn-or-imperishable-it-must)
-
-
-
-
-> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
-
-
-> "Determine truth better than the existing system and you will replace it." - [George Hotz](https://x.com/realGeorgeHotz/status/1825227545178231236)
-
-
-> "There is a certain sense in which I would say the universe has a purpose. It's not there just somehow by chance. Some people take the view that the universe is simply there and it runs along-it's a bit as though it just sort of computes, and we happen by accident to find ourselves in this thing. I don't think that's a very fruitful or helpful way of looking at the universe, I think that there is something much deeper about it, about its existence, which we have very little inkling of at the moment." - [Roger Penrose](https://www.azquotes.com/quote/927312)
-
-> "The most incomprehensible thing about the universe is that it is comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it)
-
-
-
-> "What corrupts is the absence of a feedback signal. And suppression of speech is nothing if not suppression of the feedback signal." - [Alexandros Marinos](https://x.com/alexandrosM/status/1804267083137483040)
-
-
-
-
-
-
-> "Knowledge, like air, is vital to life. Like air, no one should be denied it." - [V](https://www.goodreads.com/quotes/423650-knowledge-like-air-is-vital-to-life-like-air-no)
-
-
-> "The human mind is a story processor, not a logic processor." - [Jonathan Haidt](https://www.goodreads.com/quotes/1023735-the-human-mind-is-a-story-processor-not-a-logic)
-
-> "Groups create supernatural beings not to explain the universe but to order their societies." - [Jonathan Haidt](https://www.goodreads.com/quotes/878558-groups-create-supernatural-beings-not-to-explain-the-universe-but)
-
-
-
-
-> "Men are not prisoners of fate, but only prisoners of their own minds." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/45529-men-are-not-prisoners-of-fate-but-only-prisoners-of)
-
-> "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35186-the-test-of-our-progress-is-not-whether-we-add)
-
-> "We have always known that heedless self interest was bad morals, we now know that it is bad economics." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35219-we-have-always-known-that-heedless-self-interest-was-bad)
-
-> "The first truth is that the liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism -- ownership of government by an individual, by a group, or by any other controlling private power.... Among us today a concentration of private power without equal in history is growing." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/220096-the-first-truth-is-that-the-liberty-of-a-democracy)
-
-> "A war of ideas can no more be won without books than a naval war can be won without ships. Books, like ships, have the toughest armor, the longest cruising range, and mount the most powerful guns." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/37756-a-war-of-ideas-can-no-more-be-won-without)
-
-> "Competition has been shown to be useful up to a certain point and no further, but cooperation, which is the thing we must strive for today, begins where competition leaves off." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/423760-competition-has-been-shown-to-be-useful-up-to-a)
-
-> "The only sure bulwark of continuing liberty is a government strong enough to protect the interests of the people, and a people strong enough and well enough informed to maintain its sovereign control over the government." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/244156-the-only-sure-bulwark-of-continuing-liberty-is-a-government)
-
-> "Taxes, after all, are dues that we pay for the privileges of membership in an organized society." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/531171-taxes-after-all-are-dues-that-we-pay-for-the)
-
-> "Today we are faced with the pre-eminent fact that if civilization is to survive, we must cultivate the science of human relationships, the ability of all peoples of all kins to live together and to work together in the same world at peace." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/55106-today-we-are-faced-with-the-pre-eminent-fact-that-if)
-
-> "Physical strength can never permanently withstand the impact of spiritual force." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/415349-physical-strength-can-never-permanently-withstand-the-impact-of-spiritual)
-
-> "We must especially beware of that small group of selfish men who would clip the wings of the American Eagle in order to feather their own nests." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/9411068-we-must-especially-beware-of-that-small-group-of-selfish)
-
-> "That, in its essence, is Fascism — ownership of Government by an individual, by a group, or by any other controlling private power." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/665464)
-
-> "In our democracy officers of the government are the servants, and never the masters of the people." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/558977)
-
-> "We know that equality of individual ability has never existed and never will, but we do insist that equality of opportunity still must be sought." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/522436)
-
-> "Change is like fire- if uncontrolled, it will consume us." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/1335483)
-
-> "The real safeguard of democracy is education." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/867124)
-
-> "The Nation that destroys its soil destroys itself." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/250921)
-
-
-
-
-
-> "This generation of *~~Americans~~* **humanity** has a rendezvous with destiny." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/250944), probably
-
-> "The fate of *~~America~~* **humanity** cannot depend on any one *~~man~~* **country**. The greatness of *~~America~~* **humanity** is grounded in principles **and mechanisms** and not on any single *~~personality~~* **country**." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/950724), probably
 
 
 
@@ -785,75 +598,13 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 > "When you make it to the top, turn and reach down for the person behind you." - [Abraham Lincoln](https://www.azquotes.com/quote/1123411)
 
-> "If we exchange one dollar, we both have one dollar each. But if we exchange one good thought, we both have two good thoughts." - [Abraham Lincoln](https://www.azquotes.com/quote/873058)
-
 > "A nation that does not honor its heroes will not long endure." - [Abraham Lincoln](https://www.azquotes.com/quote/856201)
 
-> "The philosophy of the school room in one generation will be the philosophy of government in the next." - [Abraham Lincoln](https://www.azquotes.com/quote/176105)
+
 
 
 
 > "Victory has a hundred fathers and defeat is an orphan." - [John F. Kennedy](https://www.goodreads.com/quotes/41024-victory-has-a-hundred-fathers-and-defeat-is-an-orphan)
-
-
-
-> "The whole art of government consists in the art of being honest." - [Thomas Jefferson](https://www.goodreads.com/quotes/38795-the-whole-art-of-government-consists-in-the-art-of)
-
-> "The will of the people is the only legitimate foundation of any government, and to protect its free expression should be our first object." - [Thomas Jefferson](https://www.goodreads.com/quotes/4966-the-will-of-the-people-is-the-only-legitimate-foundation)
-
-> "Peace and friendship with all mankind is our wisest policy, and I wish we may be permitted to pursue it." - [Thomas Jefferson](https://www.goodreads.com/quotes/18726-peace-and-friendship-with-all-mankind-is-our-wisest-policy)
-
-> "The doctor of the future will give no medicine, but will interest his (sic)patient in the care of the human frame, in diet and in the cause and prevention of disease." - [Thomas Jefferson](https://www.goodreads.com/quotes/367285-the-doctor-of-the-future-will-give-no-medicine-but)
-
-
-
-> "Let your heart feel for the afflictions and distress of everyone." - [George Washington](https://www.goodreads.com/quotes/677346-let-your-heart-feel-for-the-afflictions-and-distress-of)
-
-> "I hold the maxim no less applicable to public than to private affairs, that honesty is always the best policy." - [George Washington](https://www.goodreads.com/quotes/103494-i-hold-the-maxim-no-less-applicable-to-public-than)
-
-> "You have only one way to convince others, listen to them." - [George Washington](https://www.azquotes.com/quote/882375)
-
-> "Religion and morality are the essential pillars of civil society." - [George Washington](https://www.azquotes.com/quote/579378)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> "Why is there something rather than nothing?" - [Gottfried Wilhelm Leibniz](https://www.goodreads.com/quotes/7582418-why-is-there-something-rather-than-nothing)
-
-
-
-
-> "Self-preservation is the primary and only foundation of virtue." - [Baruch Spinoza](https://www.azquotes.com/quote/500068)
-
-> "He who seeks equality between unequals seeks an absurdity." - [Baruch Spinoza](https://www.azquotes.com/quote/1022995)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

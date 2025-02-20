@@ -246,6 +246,36 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 
 
+== regarding the quotes below: Dan Ariely probably has committed scientific fraud, even if these quotes make sense and are probably true - evaluate if I want them in here
+
+> "Standard economics assumes that we are rational... But, as the results presented in this book (and others) show, we are far less rational in our decision making... Our irrational behaviors are neither random nor senseless- they are systematic and predictable. We all make the same types of mistakes over and over, because of the basic wiring of our brains." - [Dan Ariely](https://www.goodreads.com/quotes/791943-standard-economics-assumes-that-we-are-rational-but-as-the)
+
+> "Money, as it turns out, is very often the most expensive way to motivate people. Social norms are not only cheaper, but often more effective as well." - [Dan Ariely](https://www.goodreads.com/quotes/6801932-money-as-it-turns-out-is-very-often-the-most)
+
+> "That’s a lesson we can all learn: the more we have, the more we want. And the only cure is to break the cycle of relativity." - [Dan Ariely](https://www.goodreads.com/quotes/1194732-that-s-a-lesson-we-can-all-learn-the-more-we)
+
+> "There are many examples to show that people will work more for a cause than for cash." - [Dan Ariely](https://www.goodreads.com/quotes/1400152-there-are-many-examples-to-show-that-people-will-work)
+
+> "Division of labor, in my mind, is one of the dangers of work-based technology. Modern IT infrastructure allows us to break projects into very small, discrete parts and assign each person to do only one of the many parts. In so doing, companies run the risk of taking away employees' sense of the big picture, purpose, and sense of completion." - [Dan Ariely](https://www.goodreads.com/quotes/315819-d-ivision-of-labor-in-my-mind-is-one-of-the)
+
+> "Tom had discovered a great law of human action, namely, that in order to make a man covet a thing, it is only necessary to make the thing difficult to attain." - [Dan Ariely](https://www.goodreads.com/quotes/3174658-tom-had-discovered-a-great-law-of-human-action-namely)
+
+> "Wouldn't economics make a lot more sense if it were based on how people actually behave, instead of how they should behave?" - [Dan Ariely](https://www.goodreads.com/quotes/1241283-wouldn-t-economics-make-a-lot-more-sense-if-it-were)
+
+> "One of the big lessons from behavioral economics is that we make decisions as a function of the environment that we're in." - [Dan Ariely](https://www.azquotes.com/quote/1481313)
+
+> "The most difficult thing is to recognize that sometimes we too are blinded by our own incentives. Because we don’t see how our conflicts of interest work on us." - [Dan Ariely](https://www.azquotes.com/quote/733215)
+
+== ^^ Dan Ariely probably has committed scientific fraud, even if these quotes make sense and are probably true - evaluate if I want them in here
+
+
+
+> "Never mind your happiness; do your duty." - [Will Durant](https://www.azquotes.com/quote/569873)
+
+> "To use a computer analogy, we are running twenty-first-century software on hardware last upgraded 50,000 years ago or more. This may explain quite a lot of what we see in the news." - [Ronald Wright](https://www.goodreads.com/quotes/7295907-to-use-a-computer-analogy-we-are-running-twenty-first-century-software)
+
+
+
 
 
 

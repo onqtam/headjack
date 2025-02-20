@@ -229,19 +229,17 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Taxes
-██████████████████████████████████████████████████████████████████
-
-> "You may think that tax policy sounds like the most boring topic in the world. That is precisely what most governments, corporations, and special interests would like you to think, because tax policy is where much of society and the economy gets shaped. It is also where well-informed citizens can achieve socioeconomic revolutions with astonishing speed and effectiveness—but only if they realize how much power they might wield in this domain. If citizens don’t understand taxes, they don’t understand how, when, and where their government expropriates money, time, and freedom from their lives. They also don’t understand how most governments bias consumption over savings, and bias some forms of consumption over other forms, thereby distorting the trait-display systems that people might otherwise favor." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213268-you-may-think-that-tax-policy-sounds-like-the-most)
-
-> "Thus, consumption taxes tend to reduce conspicuous consumption and promote longer-term retirement security, family wealth, social welfare, technical progress, and economic growth. In essence, income taxes penalize people for what they contribute to society (labor and capital), whereas consumption taxes penalize people for what they take out of society (new retail purchases). So, to tax experts, it is no surprise that U.S. and U.K. citizens spend too much and don’t save enough, relative to what would be optimal for society and even for themselves." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213272-thus-consumption-taxes-tend-to-reduce-conspicuous-consumption-and-promote)
-
-
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Accounting beyond the price signal - properly calculating contribution and relevance
 ██████████████████████████████████████████████████████████████████
+
+
+> "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
+
+
+
+> "A nation that fails to honor its heroes, soon will have no heroes to honor." - [Winston Churchill](https://www.azquotes.com/quote/722245)
 
 > "The wealthy and powerful have rigged the system to perpetuate their privilege; the professional classes have figured out how to pass their advantages on to their children, converting the meritocracy into a hereditary aristocracy; colleges that claim to select students on merit give an edge to the sons and daughters of the wealthy and the well-connected. According to this complaint, meritocracy is a myth, a distant promise yet to be redeemed." - [Michael J. Sandel](https://www.goodreads.com/quotes/10557710-the-wealthy-and-powerful-have-rigged-the-system-to-perpetuate)
 
@@ -251,6 +249,73 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 > "A half century from now, our grandchildren are likely to look back at the era of mass employment in the market with the same sense of utter disbelief as we look upon slavery and serfdom in former times. The very idea that a human being’s worth was measured almost exclusively by his or her productive output of goods and services and material wealth will seem primitive, even barbaric, and be regarded as a terrible loss of human value to our progeny living in a highly automated world where much of life is lived on the Collaborative Commons." - [Jeremy Rifkin](https://www.goodreads.com/quotes/6934118-a-half-century-from-now-our-grandchildren-are-likely-to)
 
 > "Imagine a world where the way to make the most money is to tell the hardest truths." - [Alexandros Marinos](https://x.com/alexandrosM/status/1806072469922660485)
+
+> "Determine truth better than the existing system and you will replace it." - [George Hotz](https://x.com/realGeorgeHotz/status/1825227545178231236)
+
+
+
+
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Reducing or improving bureaucracy through culture, norms, automation & collective intelligence
+██████████████████████████████████████████████████████████████████
+
+How much legislature and bureaucracy can be replaced simply by norms, culture, stigma and reputation? Humanity operated like that for thousands of years
+
+
+https://en.wikipedia.org/wiki/Parkinson%27s_law
+- "work expands so as to fill the time available for its completion",
+- the number of workers within public administration, bureaucracy or officialdom tends to grow, regardless of the amount of work to be done. This was attributed mainly to two factors: that officials want subordinates, not rivals, and that officials make work for each other.
+
+
+> "Bureaucracy, the rule of nobody." - [Hannah Arendt](https://x.com/ancapquotes/status/1805163971156087230)
+
+
+> "The crisis of bureaucracy always comes with a failure of processing information." - [Samo Burja](https://youtu.be/7GyFkRuqcNc?t=263)
+
+> "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
+
+> "Complexity catastrophes help explain why bureaucracy seems to grow with the tenacity of weeds. Many companies go through bureaucracy-clearing exercises only to find it has sprung back a few years later. No one ever sits down to deliberately design a bureaucratic muddle. Instead, bureaucracy springs up as people just try to optimize their local patch of the network: finance is just trying to ensure that the numbers add up, legal wants to keep us out of jail, and marketing is trying to promote the brand. The problem isn't dumb people or evil intentions. Rather, network growth creates interdependencies, interdependencies create conflicting constraints, and conflicting constraints create slow decision making and, ultimately, bureaucratic gridlock." - [Eric D. Beinhocker](https://www.goodreads.com/quotes/10012188-complexity-catastrophes-help-explain-why-bureaucracy-seems-to-grow-with)
+
+> "Cyberocracy, from the roots 'cyber-' and '-cracy' signifies rule by way of information, especially when using interconnected computer networks. The concept involves information and its control as the source of power and is viewed as the next stage of the political evolution. The fundamental feature of a cyberocracy would be the rapid transmission of relevant information from the source of a problem to the people in a position able to fix said problem, most likely via a system of interconnected computer networks and automated information sorting software, with human decision makers only being called into use in the case of unusual problems, problem trends, or through an appeal process pursued by an individual. Cyberocracy is the functional antithesis of traditional bureaucracies." - [Cyberocracy, Wikipedia](https://en.wikipedia.org/wiki/Cyberocracy#:~:text=Cyberocracy%2C%20from%20the,other%20unfortunate%20qualities.)
+
+> "How are laws written? A bunch of highly educated people, in their office, analyzing data, discussing with colleagues, consulting reference sources, calling some experts. With that serious work, then they write articles, publish them, and that’s how we still get our laws in the 21st century. In other words: the **legislative** process is like centralized planning. It’s like Encyclopedia Britannica before Wikipedia appeared. Citizens have much more time and knowledge than all the lawmakers in the world combined. What we’re missing today is *a mechanism to harness the time and knowledge of broader society to make laws*. We’re missing the Wikipedia mechanism innovation, applied to law-making.
+>
+> 1. In the military, that mechanism is mission command: tell your subordinates very clearly what the mission is, and give them information and autonomy to make the decisions themselves.
+>
+> 2. Business people call it management by results.
+>
+> 3. In the economy, that mechanism is capitalism: people benefit when they benefit others. If you let them free to figure out what others want—and keep some of the value created—they will figure it out.
+>
+> 4. In ant colonies, that mechanism is the chemical communication between ants. That way, each ant can influence the behavior of another ant in a way that benefits the colony.
+>
+> 5. In the brain, that mechanism is the neural networks: the action potentials that flow through the system of axons and dendrites that connect neurons.
+>
+> 6. In Twitter, that mechanism is tweets, likes, and retweets.
+>
+> 7. In artificial intelligence, that system is neural networks and all the innovations around them: gradient descent, back-propagation, etc.
+>
+> 8. In Wikipedia, that mechanism is edit rights: what allows anybody to edit an article, but when there’s conflict, more and more senior members debate and vote.
+>
+> 9. In open source, that mechanism is the process to branch out and merge branches back into the source code, which allows hundreds (or thousands) or developers to work on the same code base in parallel.
+>
+> 10. In peer reviews, that mechanism might be as simple as asking for feedback.
+>
+> 11. In forecasting, that mechanism is prediction markets: ask people to bet on how a question will be resolved.
+>
+> With all these examples, it’s obvious that the future of democracy won’t be a better voting system. It will be a system that allows everybody to actively contribute to the policy-making process. Contributions can include the analysis of problems or suggest a policy that would solve them. The laws that rule the community will be approved directly by the community. It’s a matter of time. Somebody will come up with that mechanism in the not-too-distant future, lawmaking will become fast, prolific, and intelligent, and we won’t all be angry all the time at the terrible politicians we’ve had to elect." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=How%20are%20laws,had%20to%20elect.)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: win-win & open source & sharing
+██████████████████████████████████████████████████████████████████
+
+> "If we exchange one dollar, we both have one dollar each. But if we exchange one good thought, we both have two good thoughts." - [Abraham Lincoln](https://www.azquotes.com/quote/873058)
+
+> "Knowledge, like air, is vital to life. Like air, no one should be denied it." - [V](https://www.goodreads.com/quotes/423650-knowledge-like-air-is-vital-to-life-like-air-no)
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -456,9 +521,17 @@ https://www.youtube.com/watch?v=H3MAMn6DyZI
 
 fungibility, ability to hide malice
 
+
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Redistribution
+# SECTION: Taxes & Redistribution
 ██████████████████████████████████████████████████████████████████
+
+> "Taxes, after all, are dues that we pay for the privileges of membership in an organized society." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/531171-taxes-after-all-are-dues-that-we-pay-for-the)
+
+> "You may think that tax policy sounds like the most boring topic in the world. That is precisely what most governments, corporations, and special interests would like you to think, because tax policy is where much of society and the economy gets shaped. It is also where well-informed citizens can achieve socioeconomic revolutions with astonishing speed and effectiveness—but only if they realize how much power they might wield in this domain. If citizens don’t understand taxes, they don’t understand how, when, and where their government expropriates money, time, and freedom from their lives. They also don’t understand how most governments bias consumption over savings, and bias some forms of consumption over other forms, thereby distorting the trait-display systems that people might otherwise favor." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213268-you-may-think-that-tax-policy-sounds-like-the-most)
+
+> "Thus, consumption taxes tend to reduce conspicuous consumption and promote longer-term retirement security, family wealth, social welfare, technical progress, and economic growth. In essence, income taxes penalize people for what they contribute to society (labor and capital), whereas consumption taxes penalize people for what they take out of society (new retail purchases). So, to tax experts, it is no surprise that U.S. and U.K. citizens spend too much and don’t save enough, relative to what would be optimal for society and even for themselves." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213272-thus-consumption-taxes-tend-to-reduce-conspicuous-consumption-and-promote)
 
 Why Peter Singer Says You’re Guilty of Ordinary Evil - Carlos Farias
 https://www.youtube.com/watch?v=Et2ocXkIKXU
@@ -482,6 +555,20 @@ Not everything has to make a profit - we can and should think of what truly need
 
 > "I guess I’m basically saying we have to redistribute the wealth, however, the government is the absolute last group of people I’d ever trust to do this. I don’t trust the wealth redistribution in crypto either, the current rich have had too much time to adjust and the biggest morons I know are now saying blockchain. How do we set up a society such that wealth flows to the productive? It seems so distant from what we have now. This probably happens over a long time horizon regardless, but it’s so frustrating hearing what people’s values are. Money isn’t real! It’s not the territory, it’s the map!" - [George Hotz](https://geohot.github.io//blog/jekyll/update/2024/11/13/collective-marshmallow-test.html#:~:text=I%20guess%20I%E2%80%99m,it%E2%80%99s%20the%20map!)
 
+
+> "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35186-the-test-of-our-progress-is-not-whether-we-add)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Concentrated power
+██████████████████████████████████████████████████████████████████
+
+> "We must especially beware of that small group of selfish men who would clip the wings of the American Eagle in order to feather their own nests." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/9411068-we-must-especially-beware-of-that-small-group-of-selfish)
+
+> "That, in its essence, is Fascism — ownership of Government by an individual, by a group, or by any other controlling private power." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/665464)
+
+> "The first truth is that the liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism -- ownership of government by an individual, by a group, or by any other controlling private power.... Among us today a concentration of private power without equal in history is growing." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/220096-the-first-truth-is-that-the-liberty-of-a-democracy)
+
+> "In our democracy officers of the government are the servants, and never the masters of the people." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/558977)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The best that money can't buy
@@ -508,6 +595,9 @@ https://systems-souls-society.com/the-market-myth/
 ██████████████████████████████████████████████████████████████████
 # SECTION: Redirecting surplus
 ██████████████████████████████████████████████████████████████████
+
+> "We have always known that heedless self interest was bad morals, we now know that it is bad economics." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35219-we-have-always-known-that-heedless-self-interest-was-bad)
+
 
 > "From surplus above subsistence, we get the whole mass of profits, savings, investment, and consumption of luxury commodities. In capitalism, ownership of this surplus, much of which is spent on luxury, has been used as an incentive to increase production and boost growth; it is what encourages investors to invest, savers to save, and landlords to rent. The disproportionate power of billionaires and the effort of those who aspire to such levels of wealth is this incentive in action. But like all things in economics, this incentive is a tradeoff. There are costs to this luxurious incentive mechanism: the production costs of the luxury goods themselves, the free time afforded to those who have secured the means of their substance without labor, the redundancies of production demanded by market competition and consumer choice, the power and talent directed into the zero-sum games in the financial industry which must manage this accumulated wealth, and the speculative bubbles which naturally result from such accumulation." - [The Luxuries We Can No Longer Afford, Palladium Magazine](https://www.palladiummag.com/2020/04/24/the-luxuries-we-can-no-longer-afford/)
 
@@ -640,6 +730,8 @@ Publicity and Accepted Standards
 # SECTION: other
 ██████████████████████████████████████████████████████████████████
 
+
+> "Great companies have missions, not metrics." - [Palladium Magazine](https://x.com/palladiummag/status/1829549384322994535)
 
 
 forecasting - what if there was a disincentive to play on short term volatility and trends and there was incentive to be as close to the end result with your prediction as possible and for as long as possible? This would reduce momentum trading and technical analysis and focus on what really matters most - making liquidity matter less and bringing us closer to what traditional economic theory would suggest (equilibrium and efficiency).

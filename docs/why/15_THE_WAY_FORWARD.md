@@ -3,7 +3,15 @@
 # SECTION: Worldview
 ██████████████████████████████████████████████████████████████████
 
+> "Why is there something rather than nothing?" - [Gottfried Wilhelm Leibniz](https://www.goodreads.com/quotes/7582418-why-is-there-something-rather-than-nothing)
+
+> "If we have never been amazed by the very fact that we exist, we are squandering the greatest fact of all." - [Will Durant](https://www.azquotes.com/quote/824182)
+
+> "The most incomprehensible thing about the universe is that it is comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it)
+
 How do we most optimally crowdsource the best possible worldview?
+
+> "There is a certain sense in which I would say the universe has a purpose. It's not there just somehow by chance. Some people take the view that the universe is simply there and it runs along-it's a bit as though it just sort of computes, and we happen by accident to find ourselves in this thing. I don't think that's a very fruitful or helpful way of looking at the universe, I think that there is something much deeper about it, about its existence, which we have very little inkling of at the moment." - [Roger Penrose](https://www.azquotes.com/quote/927312)
 
 > "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
 
@@ -462,11 +470,18 @@ iraquai lakota 7th generation thinking
 # SECTION: Enlarging the self
 ██████████████████████████████████████████████████████████████████
 
+> "Let your heart feel for the afflictions and distress of everyone." - [George Washington](https://www.goodreads.com/quotes/677346-let-your-heart-feel-for-the-afflictions-and-distress-of)
+
+> "Today we are faced with the pre-eminent fact that if civilization is to survive, we must cultivate the science of human relationships, the ability of all peoples of all kins to live together and to work together in the same world at peace." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/55106-today-we-are-faced-with-the-pre-eminent-fact-that-if)
+
+
 > "Not a single one of the cells that compose you knows who you are, or cares." - [Daniel Dennett](https://www.azquotes.com/quote/447787)
 
 > "The self is a repeatedly reconstructed biological state." - [Antonio Damasio](https://www.goodreads.com/quotes/7656886-the-self-is-a-repeatedly-reconstructed-biological-state)
 
 > "In the heart of consciousness is subjectivity, this sense of having a self that observes one's own organism and the world around that organism. That is really the heart of consciousness." - [Antonio Damasio](https://www.azquotes.com/quote/1494201)
+
+
 
 
 What is the Self?
@@ -532,6 +547,7 @@ https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doo
 > "The Buddha said anger has a “poisoned root and honeyed tip”." - [Robert Wright](https://www.goodreads.com/quotes/9331529-the-buddha-said-anger-has-a-poisoned-root-and-honeyed)
 
 
+> "Peace and friendship with all mankind is our wisest policy, and I wish we may be permitted to pursue it." - [Thomas Jefferson](https://www.goodreads.com/quotes/18726-peace-and-friendship-with-all-mankind-is-our-wisest-policy)
 
 
 
@@ -629,57 +645,10 @@ Just like life, the internet also evolved blindly and unconsciously - gradient d
 > "A map of the world that does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing. And when Humanity lands there, it looks out, and, seeing a better country, sets sail. Progress is the realisation of Utopias." - [Oscar Wilde](https://www.goodreads.com/quotes/150705-a-map-of-the-world-that-does-not-include-utopia)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Reducing or improving bureaucracy through culture, norms, automation & collective intelligence
-██████████████████████████████████████████████████████████████████
-
-How much legislature and bureaucracy can be replaced simply by norms, culture, stigma and reputation? Humanity operated like that for thousands of years
-
-
-https://en.wikipedia.org/wiki/Parkinson%27s_law
-- "work expands so as to fill the time available for its completion",
-- the number of workers within public administration, bureaucracy or officialdom tends to grow, regardless of the amount of work to be done. This was attributed mainly to two factors: that officials want subordinates, not rivals, and that officials make work for each other.
-
-
-> "Bureaucracy, the rule of nobody." - [Hannah Arendt](https://x.com/ancapquotes/status/1805163971156087230)
-
-
-> "The crisis of bureaucracy always comes with a failure of processing information." - [Samo Burja](https://youtu.be/7GyFkRuqcNc?t=263)
-
-> "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
-
-> "Complexity catastrophes help explain why bureaucracy seems to grow with the tenacity of weeds. Many companies go through bureaucracy-clearing exercises only to find it has sprung back a few years later. No one ever sits down to deliberately design a bureaucratic muddle. Instead, bureaucracy springs up as people just try to optimize their local patch of the network: finance is just trying to ensure that the numbers add up, legal wants to keep us out of jail, and marketing is trying to promote the brand. The problem isn't dumb people or evil intentions. Rather, network growth creates interdependencies, interdependencies create conflicting constraints, and conflicting constraints create slow decision making and, ultimately, bureaucratic gridlock." - [Eric D. Beinhocker](https://www.goodreads.com/quotes/10012188-complexity-catastrophes-help-explain-why-bureaucracy-seems-to-grow-with)
-
-> "Cyberocracy, from the roots 'cyber-' and '-cracy' signifies rule by way of information, especially when using interconnected computer networks. The concept involves information and its control as the source of power and is viewed as the next stage of the political evolution. The fundamental feature of a cyberocracy would be the rapid transmission of relevant information from the source of a problem to the people in a position able to fix said problem, most likely via a system of interconnected computer networks and automated information sorting software, with human decision makers only being called into use in the case of unusual problems, problem trends, or through an appeal process pursued by an individual. Cyberocracy is the functional antithesis of traditional bureaucracies." - [Cyberocracy, Wikipedia](https://en.wikipedia.org/wiki/Cyberocracy#:~:text=Cyberocracy%2C%20from%20the,other%20unfortunate%20qualities.)
-
-> "How are laws written? A bunch of highly educated people, in their office, analyzing data, discussing with colleagues, consulting reference sources, calling some experts. With that serious work, then they write articles, publish them, and that’s how we still get our laws in the 21st century. In other words: the **legislative** process is like centralized planning. It’s like Encyclopedia Britannica before Wikipedia appeared. Citizens have much more time and knowledge than all the lawmakers in the world combined. What we’re missing today is *a mechanism to harness the time and knowledge of broader society to make laws*. We’re missing the Wikipedia mechanism innovation, applied to law-making.
->
-> 1. In the military, that mechanism is mission command: tell your subordinates very clearly what the mission is, and give them information and autonomy to make the decisions themselves.
->
-> 2. Business people call it management by results.
->
-> 3. In the economy, that mechanism is capitalism: people benefit when they benefit others. If you let them free to figure out what others want—and keep some of the value created—they will figure it out.
->
-> 4. In ant colonies, that mechanism is the chemical communication between ants. That way, each ant can influence the behavior of another ant in a way that benefits the colony.
->
-> 5. In the brain, that mechanism is the neural networks: the action potentials that flow through the system of axons and dendrites that connect neurons.
->
-> 6. In Twitter, that mechanism is tweets, likes, and retweets.
->
-> 7. In artificial intelligence, that system is neural networks and all the innovations around them: gradient descent, back-propagation, etc.
->
-> 8. In Wikipedia, that mechanism is edit rights: what allows anybody to edit an article, but when there’s conflict, more and more senior members debate and vote.
->
-> 9. In open source, that mechanism is the process to branch out and merge branches back into the source code, which allows hundreds (or thousands) or developers to work on the same code base in parallel.
->
-> 10. In peer reviews, that mechanism might be as simple as asking for feedback.
->
-> 11. In forecasting, that mechanism is prediction markets: ask people to bet on how a question will be resolved.
->
-> With all these examples, it’s obvious that the future of democracy won’t be a better voting system. It will be a system that allows everybody to actively contribute to the policy-making process. Contributions can include the analysis of problems or suggest a policy that would solve them. The laws that rule the community will be approved directly by the community. It’s a matter of time. Somebody will come up with that mechanism in the not-too-distant future, lawmaking will become fast, prolific, and intelligent, and we won’t all be angry all the time at the terrible politicians we’ve had to elect." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=How%20are%20laws,had%20to%20elect.)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Technology is not neutral
 ██████████████████████████████████████████████████████████████████
+
+> "Change is like fire- if uncontrolled, it will consume us." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/1335483)
 
 > "But it is much later in the game now, and ignorance of the score is inexcusable. To be unaware that a technology comes equipped with a program for social change, to maintain that technology is neutral, to make the assumption that technology is always a friend to culture is, at this late hour, stupidity plain and simple." - [Neil Postman](https://www.goodreads.com/quotes/286008-but-it-is-much-later-in-the-game-now-and)
 
@@ -688,6 +657,11 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 ██████████████████████████████████████████████████████████████████
 
 > "The present is saturated with the past and pregnant with the future." - [Gottfried Wilhelm Leibniz](https://www.azquotes.com/quote/1032469)
+
+> "Physical strength can never permanently withstand the impact of spiritual force." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/415349-physical-strength-can-never-permanently-withstand-the-impact-of-spiritual)
+
+
+> "Men are not prisoners of fate, but only prisoners of their own minds." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/45529-men-are-not-prisoners-of-fate-but-only-prisoners-of)
 
 Turn on, tune in, drop out
 https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
@@ -735,52 +709,6 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "The conflict of the 21st Century is about forming a collective intelligence that can outwit and out innovate all of its competitors. The central challenge then is precisely to innovate a way of collaborating and cohering individuals that maximally deploys their individual perspectives, capabilities, understandings and insights with each-other. To achieve a decisive advantage in innovative capacity." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84#:~:text=The%20conflict%20of,in%20innovative%20capacity.)
 
 > "This transition will prove more significant than the transition from single cell to multi-cellular life two billion years ago. Everything that happens next is dependent on what happens here." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84#:~:text=this%20transition%20will%20prove%20more%20significant%20than%20the%20transition%20from%20single%20cell%20to%20multi%2Dcellular%20life%20two%20billion%20years%20ago.%20Everything%20that%20happens%20next%20is%20dependent%20on%20what%20happens%20here.)
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Healthcare
-██████████████████████████████████████████████████████████████████
-
-"this is healthy"
-https://www.google.com/search?q=this+is+healthy
-
-[The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
-
-[The Rise and Fall of Liberal Democratic Peace Theory, Palladium Magazine](https://www.palladiummag.com/2018/10/15/the-rise-and-fall-of-liberal-democratic-peace-theory/)
-
-> "The most effective health habit is a cultural norm. When others do it, you will too." - [Bryan Johnson](https://x.com/bryan_johnson/status/1873040951314436132)
-
-> "These interventions did improve specific health outcomes, but only by treating emergent symptoms while the underlying malignancy—a physiologically harmful way of eating and living—continued to metastasize.
->
-> The modern diet underwent a second phase of rapid degradation in the late twentieth century. With the advent of fast-food chains and addictive snacks that contained high-fructose corn syrup—consumption of which increased tenfold from 1970 to 1990—non-processed food sources eroded rapidly. Oreos, potato chips, and Coca-Cola could soon be found all over the world, owing to the lowering of trade barriers, brilliant corporate marketing strategies, and the fundamental addictiveness of the products being sold. Coca-Cola was not regularly consumed in Mexico in the 1950s; by 2019, residents of Chiapas, Mexico’s poorest state, drank an average of 2.2 liters of Coke a day." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
-
-> "In this historical context, the “nutrition transition” of the last two centuries begins to look more like a dietary apocalypse. It represents the extirpation of traditional, local foodways across the world in favor of an inflammatory, nutrient-poor diet of processed foods, with catastrophic consequences for human health." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
-
-> "We do not know what exactly is going on with our bodies, or what these ongoing changes will mean. But since the underlying pathology continues unchecked, the grim truth is that, for developed and “developing” countries alike, the strange and malign health trends of the last few decades are likely only to worsen." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
-
-> "The simple fact that whole, organic food is expensive creates a class divide in health that is severe enough to be visible in the geography of American cities: the disparity in life expectancy between the Roxbury and Beacon Hill neighborhoods of Boston, for instance, is now about as large as the gap between El Salvador and Finland—with the poorest sub-neighborhoods of Roxbury, like Egleston Square, reporting life expectancies lower than those of Haiti or Liberia.
->
-> But this metastasizing crisis will not spare the health-conscious: even people who avoid the modern diet still bear the costs, direct and indirect, of living in unhealthy societies...
->
-> Such approaches will only manage diseases, chronic and pandemic, without solving the malignancies from which they stem. Bad nutrition creates damage at a scale that cannot be fully remedied through past facto intervention: the public health and medical frameworks which respond to problems after they emerge are much less effective than simply avoiding those problems in the first place. These approaches essentially operate within the modern dietary paradigm, disciplined into a symbiotic relationship with it. They create societies with more resources dedicated to medicine—more drugs, more treatments—but not necessarily one with a greater degree of population health. They present not an exit, but a trap.
->
-> Actually escaping the health trap requires moving from managing poor health to preventing it: an immense reform of how societies grow and consume food, and by extension how it structures and regulates human behavior. Logistically—not to mention politically, culturally, and socially— this is an immense challenge. It requires not just weaning populations off highly addictive diets, but attempting to recreate and even improve the healthier agricultural economies that were decimated by twentieth-century centralization...
->
-> But the reality is that no current institutions have the capacity or incentive to do much of anything about the diet question: the food industry has tremendous power, and most of the medical establishment is more focused on post facto intervention and selling drugs than on general population health. The problem would have to be solved by a state that is willing to reshape the modern diet...
->
-> The modern diet was the creation of conscious decisions; the same could be true for a health-restoring successor... On the theoretical level, it will require a new state paradigm where the regeneration of a healthy populace—and not just the management of its illnesses for profit or stability—is a matter of species-level biosecurity, and afforded the priority that such a problem demands." - [The Modern Diet Is a Biosecurity Threat, Palladium Magazine](https://www.palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
-
-
-everyone should watch JRE #2210 with Calley Means & Casey Means - just ignore the political stuff regarding Trump & RFK - everything else should be heard by everyone
-
-> "The American Medical Association recommends rice to diabetics." - [Michael Guimarin](https://youtu.be/bGdWgdRA6G8?t=3304)
-
-> "Ultimately, health care fails the most basic test. It's not organized around the needs of the patient." - [Michael Porter](https://www.azquotes.com/quote/1225877)
-
-> "The body tells the brain how to feel." - [Robert Sapolsky](https://old.reddit.com/r/DrJohnVervaeke/comments/zurer7/maybe_you_wont_solve_the_global_meaning_crisis_or/#:~:text=%22The%20body%20tells%20the%20brain%20how%20to%20feel%22%20%2D%20Robert%20Sapolsky)
-
-> "Be the designer of your world and not merely the consumer of it." - [James Clear](https://www.goodreads.com/quotes/9634706-be-the-designer-of-your-world-and-not-merely-the)
-
-> "You don’t have to be the victim of your environment. You can also be the architect of it." - [James Clear](https://www.goodreads.com/quotes/9725529-you-don-t-have-to-be-the-victim-of-your-environment)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The future of governance & democracy
@@ -850,6 +778,7 @@ An open invitation for agents of chaos
 
 > "You hear that Mr. Anderson?... That is the sound of inevitability..." - [Agent Smith](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324266), probably
 
+> "The only thing greater than the power of the mind is the courage of the heart." - [John Forbes Nash](https://www.goodreads.com/quotes/795192-the-only-thing-greater-than-the-power-of-the-mind)
 
 > "It is easier to resist at the beginning than at the end." - [Leonardo da Vinci](https://www.goodreads.com/quotes/187861-it-is-easier-to-resist-at-the-beginning-than-at)
 
@@ -905,6 +834,9 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 > "When everything seem to be going against you, remember that the airplane takes off against the wind, not with it." - [Henry Ford](https://www.goodreads.com/quotes/107178-when-everything-seem-to-be-going-against-you-remember-that)
 
+> "Kites rise highest against the wind, not with it." - [Winston Churchill](https://www.goodreads.com/quotes/11419-kites-rise-highest-against-the-wind-not-with-it)
+
+
 
 > "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)
 
@@ -939,6 +871,11 @@ https://twitter.com/jgreenhall/status/1647949521010171909
 
 the way to enable the capacity for valley crossing is to boot up global consciousness
 something beyond our cells, the invidivual or the genome with all of its rivalrous competitiveness and hill climbing affinity
+
+█████ IN EXPANDED SECTION
+
+> "You have enemies? Good. That means you've stood up for something, sometime in your life." - [Winston Churchill](https://www.azquotes.com/quote/56283)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Evolution's Arrow
@@ -983,8 +920,14 @@ TODO: fix the exact time for the above link
 
 > "If I were God, I'd work on the reach of empathy." - [Frans de Waal](https://www.azquotes.com/quote/576491)
 
+> "The greatest question of our time is not communism vs. individualism, not Europe vs. America, not even the East vs. the West; it is whether men can bear to live without God." - [Will Durant](https://www.goodreads.com/quotes/58869-the-greatest-question-of-our-time-is-not-communism-vs)
+
+> "Religion and morality are the essential pillars of civil society." - [George Washington](https://www.azquotes.com/quote/579378)
+
 > "I assume that something new will emerge in human society, and it will present us with undreamed possibilities in science and the arts. This emergence requires our efforts and requires something spiritual that goes beyond the mind. There will be a new emergence, and we will play a part in what that emergence is. That is our destiny." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
 
+
+> "Groups create supernatural beings not to explain the universe but to order their societies." - [Jonathan Haidt](https://www.goodreads.com/quotes/878558-groups-create-supernatural-beings-not-to-explain-the-universe-but)
 
 > "I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong." - [John Lennon](https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not)
 
@@ -1465,6 +1408,11 @@ https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-16864190
 # SECTION: Final section
 ██████████████████████████████████████████████████████████████████
 
+> "This generation of *~~Americans~~* **humanity** has a rendezvous with destiny." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/250944), probably
+
+> "The fate of *~~America~~* **humanity** cannot depend on any one *~~man~~* **country**. The greatness of *~~America~~* **humanity** is grounded in principles **and mechanisms** and not on any single *~~personality~~* **country**." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/950724), probably
+
+
 > "The moral innovation draws people in. It gives a reason for the society to exist, a purpose that’s distinct from the outside world, a universalist complement to the particularist sense of national consciousness, an ideological mission that others will nod their heads at even if they don’t share. The reason we put such a high priority on a moral innovation is that missionary societies outcompete mercenary ones, not just in theory but in practice." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=The%20moral%20innovation%20draws,theory%20but%20in%20practice.)
 
 > "Supposing we have a collective purpose, what does collective action towards that purpose look like? This is why the process of building a network state includes a network union. From the very outset it organizes people to work together for the benefit of their chosen community through the familiar interface of their screens. This, again, is quite different from current “social” networks like Twitter, which give individual scores for likes and followers but no team dashboard, no way of setting and achieving tangible goals as a group." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=supposing%20we%20have,as%20a%20group.)
@@ -1481,8 +1429,9 @@ next steps for readers: sign up for updates, contribute, etc.
 or a world without grift/corruption and unearned wealth? and instead of "you're afraid of change" to be "of autists"?
 
 > "Remember... all I'm offering is the truth. Nothing more." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324337&ref_=ext_shr_lnk)
-
 ^^ not truth but solution
+
+> "The empires of the future are the empires of the mind." - [Winston Churchill](https://www.goodreads.com/quotes/21921-the-empires-of-the-future-are-the-empires-of-the)
 
 > "You want to recruit producers, not consumers, and for that, you’ll need a purpose." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=You%20want%20to%20recruit%20producers%2C%20not%20consumers%2C%20and%20for%20that%2C%20you%E2%80%99ll%20need%20a%20purpose.)
 
@@ -1511,6 +1460,10 @@ But a problem not fully understood is unsolvable.
 > "Life and intelligence are the wildcards in the universal deck." - [Terence McKenna](https://www.organism.earth/library/document/vertigo-at-historys-edge)
 
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+
+
+> "The human mind is a story processor, not a logic processor." - [Jonathan Haidt](https://www.goodreads.com/quotes/1023735-the-human-mind-is-a-story-processor-not-a-logic)
+
 
 > "The number one priority for people today should be creating a winning, good attractor for our civilization." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=the%20number%20one%20priority%20for%20people%20today%20should%20be%20creating%20a%20winning%2C%20good%20attractor%20for%20our%20civilization.)
 

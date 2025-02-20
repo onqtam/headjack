@@ -11,6 +11,9 @@ Whistleblower friendly ecosystem
 can't be evil
 https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306
 
+> "The will of the people is the only legitimate foundation of any government, and to protect its free expression should be our first object." - [Thomas Jefferson](https://www.goodreads.com/quotes/4966-the-will-of-the-people-is-the-only-legitimate-foundation)
+
+> "What corrupts is the absence of a feedback signal. And suppression of speech is nothing if not suppression of the feedback signal." - [Alexandros Marinos](https://x.com/alexandrosM/status/1804267083137483040)
 
 > "can’t be evil > don’t be evil" - [Chris Dixon](https://twitter.com/cdixon/status/1470223992757927936)
 

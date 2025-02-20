@@ -217,6 +217,10 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 
 > "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
 
+
+> "Tolerance grows only when faith loses certainty; certainty is murderous." - [Will Durant](https://www.goodreads.com/quotes/84593-tolerance-grows-only-when-faith-loses-certainty-certainty-is-murderous)
+
+
 > "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
 
 > "Doubt is an uncomfortable condition, but certainty is a ridiculous one." - [Voltaire](https://www.goodreads.com/quotes/24949-doubt-is-an-uncomfortable-condition-but-certainty-is-a-ridiculous)
@@ -366,6 +370,8 @@ the organisms that persist are the models that are best able to predict the envi
 ██████████████████████████████████████████████████████████████████
 # SECTION: Multiperspectival viewing
 ██████████████████████████████████████████████████████████████████
+
+> "You have only one way to convince others, listen to them." - [George Washington](https://www.azquotes.com/quote/882375)
 
 > "If we understood something just one way, we would not understand it at all." - [Marvin Minsky](https://www.azquotes.com/quote/525942)
 > "You don't understand anything until you learn it more than one way." - [Marvin Minsky](https://www.azquotes.com/quote/526097)
@@ -923,6 +929,8 @@ positive feedback loops in the economy are way stronger than negative feedback l
 # SECTION: Preference falsification
 ██████████████████████████████████████████████████████████████████
 
+> "Life is fraught with opportunities to keep your mouth shut." - [Winston Churchill](https://www.azquotes.com/quote/415384)
+
 > "Preference falsification is an information theory term for the tendency for people to express a public preference that is different from their private, interior preference. For various reasons, certain preferences may not be publicly acceptable to express; they may be punished by execution, or labor camps, or exile, or social exclusion, or at the very least suspicion and a risk of some of these things. When people do not express their true preferences, they are deprived of the opportunity to coordinate with each other to create a more preferable outcome for both. Preference falsification is not just a political phenomenon, but a product of our dual nature, experiencing ourselves on the one hand from the privileged first-person perspective, and on the other hand from the imagined perspective of others. Pretending to have different preferences than one really does may be necessary to maintain a sense of safety, social belonging, and status." - [Weaponized Sacredness, by Sarah Perry](https://www.ribbonfarm.com/2015/05/07/weaponized-sacredness/)
 
 
@@ -1123,6 +1131,12 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transparency
 ██████████████████████████████████████████████████████████████████
+
+> "I hold the maxim no less applicable to public than to private affairs, that honesty is always the best policy." - [George Washington](https://www.goodreads.com/quotes/103494-i-hold-the-maxim-no-less-applicable-to-public-than)
+
+> "The whole art of government consists in the art of being honest." - [Thomas Jefferson](https://www.goodreads.com/quotes/38795-the-whole-art-of-government-consists-in-the-art-of)
+
+
 
 > "The very word "secrecy" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it." - [John F. Kennedy](https://paulgraham.com/quo.html#:~:text=%22The%20very%20word,John%20F.%20Kennedy)
 

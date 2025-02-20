@@ -66,6 +66,8 @@ https://www.conspicuouscognition.com/p/how-dangerous-is-misinformation
 
 > "When widespread internet access broke down our sense of a collective reality, what it was toppling was not the legacy of the Enlightenment, but instead an approximately 100-year bubble in media centralization." - [The Politics of Epistemic Fragmentation](https://modernmythology.net/the-politics-of-epistemic-fragmentation-175d6bbb98a4#:~:text=When%20widespread%20internet%20access%20broke%20down%20our%20sense%20of%20a%20collective%20reality%2C%20what%20it%20was%20toppling%20was%20not%20the%20legacy%20of%20the%20Enlightenment%2C%20but%20instead%20an%20approximately%20100%2Dyear%20bubble%20in%20media%20centralization.)
 
+> "There is no such thing as public opinion. There is only published opinion." - [Winston Churchill](https://www.azquotes.com/quote/56353)
+
 > "Morpheus: The Matrix is everywhere. It is all around us. Even now, in this very room. You can see it when you look out your window or when you turn on your television. You can feel it when you go to work... when you go to church... when you pay your taxes. It is the world that has been pulled over your eyes to blind you from the truth.
 >
 > Neo: What truth?

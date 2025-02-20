@@ -53,6 +53,8 @@ the future of status and prestige is authentic computable context & reputation o
 
 > "Whatever injsutice of the government or elites you're upset about will be forgotten just as quickly. Understanding politics and power is an exercise in memory." - [Samo Burja](https://twitter.com/SamoBurja/status/1685073306565906432)
 
+> "Most history is guessing, and the rest is prejudice." - [Will Durant](https://www.goodreads.com/quotes/6539581-most-history-is-guessing-and-the-rest-is-prejudice)
+
 > "The most radical political action you can take every day is to have a memory." - [Marko Jukic](https://x.com/mmjukic/status/1880383233470394868)
 
 > "The march of entropy destroys witnesses, artifacts, scholarly records, and all other evidence of the past." - [Our Knowledge of History Decays Over Time, Palladium Magazine](https://www.palladiummag.com/2023/03/07/our-knowledge-of-history-decays-over-time/#:~:text=The%20march%20of%20entropy%20destroys%20witnesses%2C%20artifacts%2C%20scholarly%20records%2C%20and%20all%20other%20evidence%20of%20the%20past.)

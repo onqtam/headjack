@@ -57,6 +57,14 @@ It incentivized the development of rational cognition
 
 Those in power are incapable of something better
 
+> "You can’t fool all the people all the time, but you can fool enough of them to rule a large country." - [Will Durant](https://www.goodreads.com/quotes/3240120-you-can-t-fool-all-the-people-all-the-time-but)
+
+
+> "The political machine triumphs because it is a united minority acting against a divided majority." - [Will Durant](https://www.azquotes.com/quote/83455)
+
+> "A great civilization is not conquered from without, until it has destroyed itself from within. The essential causes of Rome's decline lay in her people, her morals, her class struggle, her failing trade, her bureaucratic despotism, her stifling taxes, her consuming wars." - [Will Durant](https://www.azquotes.com/quote/722731)
+
+
 ministry of loneliness
 https://en.wikipedia.org/wiki/Jo_Cox_Commission_on_Loneliness
 
@@ -496,6 +504,8 @@ We can literally find ourselves in the situation of the movie dont look up
 # SECTION: Money
 ██████████████████████████████████████████████████████████████████
 
+> "History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all." - [Will Durant](https://www.goodreads.com/quotes/1055330-history-reports-that-the-men-who-can-manage-men-manage)
+
 https://www.youtube.com/watch?v=jk_HWmmwiAs
 How Money & Banking Work (& why they're broken today), by Lyn Alden
 ^^ while this video focuses too much on Bitcoin as the solution, we believe that open source money is the way forward - not necessarily Bitcoin.
@@ -827,6 +837,8 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 
 > "Thinking has reality on its side. The more reality drifts from the environment that the scripts of simulated thinking were designed for, the more errors the simulation will throw." - [On Thinking and Simulated Thinking, by Jordan Hall](https://medium.com/deep-code/on-thinking-and-simulated-thinking-5e434e92cf86#:~:text=thinking%20has%20reality%20on%20its%20side.%20The%20more%20reality%20drifts%20from%20the%20environment%20that%20the%20scripts%20of%20simulated%20thinking%20were%20designed%20for%2C%20the%20more%20errors%20the%20simulation%20will%20throw.)
 
+> "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals." - [Winston Churchill](https://www.goodreads.com/quotes/8912-i-am-fond-of-pigs-dogs-look-up-to-us)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentives 
 ██████████████████████████████████████████████████████████████████
@@ -889,6 +901,12 @@ Ecocide - insects are dying at 2% per year
 The extent to which we shift to frugality is the extent to which catastrophic risks will be minimized
 
 > "The greatest shortcoming of the human race is our inability to understand the exponential function." - [Albert Allen Bartlett](https://en.wikipedia.org/wiki/Albert_Allen_Bartlett#:~:text=%22The%20greatest%20shortcoming%20of%20the%20human%20race%20is%20our%20inability%20to%20understand%20the%20exponential%20function.%22)
+
+
+
+> "If civilization is to survive, it must live on the interest, not the capital, of nature." - [Ronald Wright](https://www.goodreads.com/quotes/380970-if-civilization-is-to-survive-it-must-live-on-the)
+
+> "The most compelling reason for reforming our system is that the system is in no one's interest. It is a suicide machine." - [Ronald Wright](https://www.goodreads.com/quotes/280775-the-most-compelling-reason-for-reforming-our-system-is-that)
 
 
 > "Trying to reduce environmental pollution without reducing consumerism is like combating drug trafficking without reducing the drug addiction." - [Jorge Majfud](https://en.wikipedia.org/wiki/Anti-consumerism#:~:text=Trying%20to%20reduce%20environmental%20pollution%20without%20reducing%20consumerism%20is%20like%20combating%20drug%20trafficking%20without%20reducing%20the%20drug%20addiction.)

@@ -58,6 +58,9 @@ https://x.com/StefanFSchubert/status/1646881900508635139
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
 
+> "The Best for the Group comes when everyone in the group does what's best for himself AND the group." - [John Forbes Nash](https://www.goodreads.com/quotes/229916-the-best-for-the-group-comes-when-everyone-in-the)
+
+> "Competition has been shown to be useful up to a certain point and no further, but cooperation, which is the thing we must strive for today, begins where competition leaves off." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/423760-competition-has-been-shown-to-be-useful-up-to-a)
 
 What Game Theory Reveals About Life, The Universe, and Everything
 https://www.youtube.com/watch?v=mScpHTIi-kM
@@ -105,6 +108,8 @@ The concepts of price of anarchy and price of stability were introduced to captu
 ██████████████████████████████████████████████████████████████████
 # SECTION: Morality, Compassion & Empathy
 ██████████████████████████████████████████████████████████████████
+
+> "I have made the most important discovery of my career, the most important discovery of my life: It is only in the mysterious equations of love that any logic or reasons can be found." - [John Forbes Nash](https://www.azquotes.com/quote/526908)
 
 > "The moment one begins thinking about morality in terms of well-being, it becomes remarkably easy to discern a moral hierarchy across human societies." - [Sam Harris](https://www.goodreads.com/quotes/7444203-the-moment-one-begins-thinking-about-morality-in-terms-of)
 
@@ -366,6 +371,10 @@ We need to define property rights and ownership and taxation through morality
 ██████████████████████████████████████████████████████████████████
 
 Constraints are freedom
+
+> "In my youth I stressed freedom, and in my old age I stress order. I have made the great discovery that liberty is a product of order." - [Will Durant](https://www.azquotes.com/quote/83462)
+
+> "When liberty destroys order the hunger for order will destroy liberty." - [Will Durant](https://www.azquotes.com/quote/567559)
 
 > "Freedom is obedience to self-formulated rules." - [Aristotle](https://www.goodreads.com/quotes/671308-freedom-is-obedience-to-self-formulated-rules)
 

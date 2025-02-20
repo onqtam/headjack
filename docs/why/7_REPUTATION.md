@@ -533,6 +533,10 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 # SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
 ██████████████████████████████████████████████████████████████████
 
+> "He who seeks equality between unequals seeks an absurdity." - [Baruch Spinoza](https://www.azquotes.com/quote/1022995)
+
+> "We know that equality of individual ability has never existed and never will, but we do insist that equality of opportunity still must be sought." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/522436)
+
 Meritocracy and Topocracy of Networks - Cesar Hidalgo
 https://www.youtube.com/watch?v=CTJ8TAMv3sk
 
