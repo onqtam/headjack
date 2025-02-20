@@ -225,6 +225,23 @@ Oliver Scott Curry _ Moral problems_ a Popperian approach
 
 > "If you're intellectually honest and advocate for a system that controls people, turn over the keys to your enemies for a dry run." - [Naval](https://twitter.com/naval/status/857429690860003328)
 
+> "Debates about justice and rights are often, unavoidably, debates about the purpose of social institutions, the goods they allocate, and the virtues they honor and reward. Despite our best attempts to make law neutral on such questions, it may not be possible to say what’s just without arguing about the nature of the good life." - [Michael J. Sandel](https://www.goodreads.com/quotes/7457837-debates-about-justice-and-rights-are-often-unavoidably-debates-about)
+
+> "Justice is not only about the right way to distribute things. It is also about the right way to value things." - [Michael J. Sandel](https://www.goodreads.com/quotes/7473389-justice-is-not-only-about-the-right-way-to-distribute)
+
+> "For why do the successful owe anything to the less-advantaged members of society? The answer to this question depends on recognizing that, for all our striving, we are not self-made and self-sufficient; finding ourselves in a society that prizes our talents is our good fortune, not our due. A lively sense of the contingency of our lot can inspire a certain humility: "There, but for the grace of God, or the accident of birth, or the mystery of fate, go I." Such humility is the beginning of the way back from the harsh ethic of success that drives us apart. It points beyond the tyranny of merit toward a less rancorous, more generous public life." - [Michael J. Sandel](https://www.goodreads.com/quotes/11121354-for-why-do-the-successful-owe-anything-to-the-less-advantaged)
+
+> "For the more we think of ourselves as self-made and self-sufficient, the harder it is to learn gratitude and humility. And without these sentiments, it is hard to care for the common good." - [Michael J. Sandel](https://www.goodreads.com/quotes/10810623-for-the-more-we-think-of-ourselves-as-self-made-and)
+
+> "The more we regard our success as our own doing, the less responsibility we feel for those who fall behind." - [Michael J. Sandel](https://www.goodreads.com/quotes/9708553-the-more-we-regard-our-success-as-our-own-doing)
+
+> "First, individual rights cannot be sacrificed for the sake of the general good, and second, the principles of justice that specify these rights cannot be premised on any particular vision of the good life. What justifies the rights is not that they maximize the general welfare or otherwise promote the good, but rather that they comprise a fair framework within which individuals and groups can choose their own values and ends, consistent with a similar liberty for others." - [Michael J. Sandel](https://www.goodreads.com/quotes/309296-first-individual-rights-cannot-be-sacrificed-for-the-sake-of)
+
+> "A better way to mutual respect is to engage directly with the moral convictions citizens bring to public life, rather than to require that people leave their deepest moral convictions outside politics before they enter." - [Michael J. Sandel](https://www.azquotes.com/quote/799709)
+
+> "To argue about justice is unavoidably to argue about virtues, about substantive moral and even spiritual questions." - [Michael J. Sandel](https://www.azquotes.com/quote/1080399)
+
+
 > "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
 
 Computing the rules-based order
@@ -460,6 +477,9 @@ https://sci-hub.se/10.1016/j.tree.2015.12.013
 
 
 
+> "Humans are undergoing what biologists call a major transition. Such transitions occur when less complex forms of life combine in some way to give rise to more complex forms. Examples include the transition from independently replicating molecules to replicating packages called chromosomes or, the transition from different kinds of simple cells to more complex cells in which these once-distinct simple cell types came to perform critical functions and become entirely mutually interdependent, such as the nucleus and mitochondria in our own cells. Our species’ dependence on cumulative culture for survival, on living in cooperative groups, on alloparenting and a division of labor and information, and on our communicative repertoires mean that humans have begun to satisfy all the requirements for a major biological transition. Thus, we are literally the beginnings of a new kind of animal. By contrast, the wrong way to understand humans is to think that we are just a really smart, though somewhat less hairy, chimpanzee. This view is surprisingly common. Understanding how this major transition is occurring alters how we think about the origins of our species, about the reasons for our immense ecological success, and about the uniqueness of our place in nature. The insights generated alter our understandings of intelligence, faith, innovation, intergroup competition, cooperation, institutions, rituals, and the psychological differences between populations. Recognizing that we are a cultural species means that, even in the short run (when genes don’t have enough time to change), institutions, technologies, and languages are coevolving with psychological biases, cognitive abilities, emotional responses, and preferences. In the longer run, genes are evolving to adapt to these culturally constructed worlds, and this has been, and is now, the primary driver of human genetic evolution." - [Joseph Henrich](https://www.goodreads.com/quotes/10125274-the-case-i-ve-presented-in-this-book-suggests-that-humans)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Common knowledge
 ██████████████████████████████████████████████████████████████████
@@ -689,6 +709,15 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 ██████████████████████████████████████████████████████████████████
 
 https://en.wikipedia.org/wiki/Focal_point_(game_theory)
+
+> "Hell is truth seen too late." - [Thomas Hobbes](https://www.goodreads.com/quotes/622711-hell-is-truth-seen-too-late)
+
+truth must be our schelling point
+
+> "Two truths cannot contradict one another." - [Galileo Galilei](https://www.azquotes.com/quote/573723)
+
+> "Measure what can be measured, and make measureable what cannot be measured." - [Galileo Galilei](https://www.azquotes.com/quote/905195)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cooperation, Altruism & Management Theory

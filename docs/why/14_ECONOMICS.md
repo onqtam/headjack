@@ -519,6 +519,37 @@ https://www.youtube.com/watch?v=H3MAMn6DyZI
 
 > "Future progress simply must be made in terms of the things that really count rather than the things that are merely countable." - [Herman E. Daly](https://www.goodreads.com/quotes/7227811-future-progress-simply-must-be-made-in-terms-of-the)
 
+██████████████████████████████████████████████████████████████████
+# Regulation without regulators
+██████████████████████████████████████████████████████████████████
+
+what if we could give (& take) each other points for different actions, and what if we could re-calculate how much points all of us have based on different criteria - simulating forward the exchange of points and seeing how the point ranking would end up with different starting conditions?
+This is different from delegation of votes - this is a reward & scoring system
+What if we applied to jobs not with LinkedIn & StackOverflow accounts but with a contribution score for helping make sense of the world?
+
+self-regulating without regulators
+
+reward circuit
+
+The price of authority is legitimacy and reputation/track record/authenticity
+
+https://a16zcrypto.com/content/article/reputation-based-systems/
+
+What if we could say “deboostt celebrity gossip/news” and if the people we follow have deboosted that that we inherit part of their preferences?
+
+How could we reward people for annotating content? Perhaps in a way that reaches consensus even with "the other side"?
+We could engineer the dopamine of this informational global brain.
+pagerank for people - depending on the delegations in the liquid stuff
+TODO: read the twitter community notes whitepaper
+
+the rules for how the dopamine should work could be voted on with liquid democracy
+evolving internet norms
+
+what if we all had points for signal boosting beyond a simple like - like with claps in medium
+
+what if we could signal preferences locally for what types of commercials we'd be OK with in our city - could this be the backbone for the nation state?
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Gold has no smell
