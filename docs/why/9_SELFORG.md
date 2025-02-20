@@ -24,6 +24,8 @@
 # SECTION: Self-organization
 ██████████████████████████████████████████████████████████████████
 
+> "The flow of energy through a system acts to organize that system." - [Harold Morowitz](https://www.azquotes.com/quote/736471)
+
 > "Self-organization can be defined as the spontaneous creation of a globally coherent pattern out of local interactions. Because of its distributed character, this organization tends to be robust, resisting perturbations." - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)
 
 > "Although the market is a highly chaotic, non-linear system, it usually reaches an approximate equilibrium in which the many changing and conflicting demands of consumers are all satisfied. The failure of communism has shown that the market is much more effective at organizing the economy than a centrally controlled system. It is as if a mysterious power ensures that goods are produced in the right amounts and distributed to the right places. What Adam Smith, the father of economics, called "the invisible hand" can nowadays simply be called self-organization." - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)

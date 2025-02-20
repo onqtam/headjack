@@ -6,6 +6,7 @@ Whistleblower friendly ecosystem
 
 > "Freedom is self-determination." - [Baruch Spinoza](https://www.azquotes.com/quote/1395002)
 
+> "Building an audience on a proprietary network is building an elaborate castle on sand." - [Naval](https://x.com/naval/status/1325531565724639233)
 
 can't be evil
 https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306

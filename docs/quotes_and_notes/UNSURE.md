@@ -236,6 +236,13 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "Human status is acquired within the context of a social exchange contract of service-for-prestige, which stipulates that group members will allocate greater status to individuals to the extent that they generate beneﬁts for the community and its members. If high-ranking individuals fail to generate suﬃcient beneﬁts to deserve their status, other group members can easily depose them through coalitional action. Thus, to an unprecedented degree among the apes, the acquisition and maintenance of status by ancestral humans was dependent upon the extent to which an individual's perceived contributions to a community were intrinsically valued by others." - [Pride and shame: Key components of a culturally universal status management system](https://labs.la.utexas.edu/buss/files/2019/08/pride-and-shame-EHB-2019.pdf)
 
+> "Metacrisis is the crisis of perception and understanding that lies within the range of crises humanity faces." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=Metacrisis%20is%20the%20crisis%20of%20perception%20and%20understanding%20that%20lies%20within%20the%20range%20of%20crises%20humanity%20faces.)
+
+> "To put it bluntly but fairly, anyone today who doubts that the variety of life on this planet was produced by a process of evolution is simply ignorant—inexcusably ignorant, in a world where three out of four people have learned to read and write." - [Daniel Dennett](https://www.goodreads.com/quotes/453116-to-put-it-bluntly-but-fairly-anyone-today-who-doubts)
+
+> "The only meaning of life worth caring about is one that can withstand our best efforts to examine it." - [Daniel Dennett](https://www.azquotes.com/quote/1048953)
+
+> "The first thing a man will do for his ideals is lie." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/1171071-the-first-thing-a-man-will-do-for-his-ideals)
 
 
 

@@ -376,6 +376,8 @@ the organisms that persist are the models that are best able to predict the envi
 
 > "A conspicuous feature of the journalism of the future will be a deep lack of authority. There will be no notion of looking for The One Right Answer from an Unimpeachable Authority." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=A%20conspicuous%20feature%20of%20the%20journalism%20of%20the%20future%20will%20be%20a%20deep%20lack%20of%20authority.%20There%20will%20be%20no%20notion%20of%20looking%20for%20The%20One%20Right%20Answer%20from%20an%20Unimpeachable%20Authority.)
 
+> "The art of looking at the problem from the other person's point of view, identifying his opportunities and his interests, an art that has traditionally been practiced by diplomats, lawyers, and chess players, is at the center of strategic analysis." - [Thomas C. Schelling](https://www.goodreads.com/quotes/10670713-the-art-of-looking-at-the-problem-from-the-other)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Towards a language of aggregatable expressions
 ██████████████████████████████████████████████████████████████████
@@ -425,6 +427,13 @@ https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/http
 > "And, worse yet, we have the cows now in Kansas on these CAFOs, concentrated animal feeding operations where all the cattle are basically in pens and can't move. And so, they're all lying in their own excrement and they're eating corn, which is not high in legumes, is not high in some of the compounds that are needed for immunologic competency. So, these cows get sick very easily. And so what happens? The cattlemen have to give the cows shots of antibiotics. So, virtually all of the CAFO-treated meat that we consume in this country is all antibiotic laden. So, what are those antibiotics doing? Does that carry over into our gut microbiome and disrupt it? Absolutely. And it disrupts the cow's microbiome. So, it kills off the good beneficial bacteria in the cow's microbiome and allows the methanogens, the methane-producing bacteria to basically take over. So, each cow today is making six times the methane than they did in 1968." - [Robert Lustig](https://youtu.be/onVqjZOYlQs?t=3599)
 
 ^^ Causality & indirect effects: cows => improper food => sickness => antibiotics => messed up microbiome => 6x more methane compared to cows from a few decades ago
+
+
+
+
+> "In our current scientific paradigm, we operate with a cause-effect linear approach and a reductionist vision. This mindset often leads us to fail in accounting for systemic impacts and second-order effects, resulting in greater issues than those we set out to solve. This oversight is not just a minor flaw; it represents our greatest crisis of perception and understanding." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=In%20our%20current,perception%20and%20understanding.)
+
+> "If there’s one perspective we desperately need in today’s world, it’s a systemic view. But what exactly is a systemic view? In simple terms, it’s the opportunity to truly understand a system — its components, interactions, and underlying patterns. It’s not just about the elements within a system, but what happens in the dynamic relationships between these elements." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=If%20there%E2%80%99s%20one,between%20these%20elements.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Credit assignment
@@ -907,8 +916,18 @@ positive feedback loops in the economy are way stronger than negative feedback l
 
 
 
+
+
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Privacy & anonymity, preference falsification
+# SECTION: Preference falsification
+██████████████████████████████████████████████████████████████████
+
+> "Preference falsification is an information theory term for the tendency for people to express a public preference that is different from their private, interior preference. For various reasons, certain preferences may not be publicly acceptable to express; they may be punished by execution, or labor camps, or exile, or social exclusion, or at the very least suspicion and a risk of some of these things. When people do not express their true preferences, they are deprived of the opportunity to coordinate with each other to create a more preferable outcome for both. Preference falsification is not just a political phenomenon, but a product of our dual nature, experiencing ourselves on the one hand from the privileged first-person perspective, and on the other hand from the imagined perspective of others. Pretending to have different preferences than one really does may be necessary to maintain a sense of safety, social belonging, and status." - [Weaponized Sacredness, by Sarah Perry](https://www.ribbonfarm.com/2015/05/07/weaponized-sacredness/)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Privacy & anonymity
 ██████████████████████████████████████████████████████████████████
 
 > "Did ayahuasca yesterday and realized my purpose in this life is to make anonymous polling apps." - [Nikita Bier](https://twitter.com/nikitabier/status/1626624720128057345)
@@ -1089,8 +1108,30 @@ https://prnt.sc/MqZJfMJHnJqG
 https://twitter.com/alexandrosM/status/1614328083645100032
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: emotions, feelings, valence
+██████████████████████████████████████████████████████████████████
+
+> "We are not thinking machines that feel; rather, we are feeling machines that think." - [Antonio Damasio](https://www.azquotes.com/quote/733647)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: loss function
+██████████████████████████████████████████████████████████████████
+
+
+> "Intelligence should be viewed as a physical process that tries to maximize future freedom of action and avoid constraints in its own future." - [Alex Wissner-Gross](https://youtu.be/ue2ZEmTJ_Xo?t=687)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Transparency
+██████████████████████████████████████████████████████████████████
+
+> "The very word "secrecy" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it." - [John F. Kennedy](https://paulgraham.com/quo.html#:~:text=%22The%20very%20word,John%20F.%20Kennedy)
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Global Brain
 ██████████████████████████████████████████████████████████████████
+
+> "Consciousness begins when brains acquire the power, the simple power I must add, of telling a story." - [Antonio Damasio](https://www.azquotes.com/quote/1350141)
 
 > "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
 

@@ -29,154 +29,53 @@
 
 
 
-> "In our current scientific paradigm, we operate with a cause-effect linear approach and a reductionist vision. This mindset often leads us to fail in accounting for systemic impacts and second-order effects, resulting in greater issues than those we set out to solve. This oversight is not just a minor flaw; it represents our greatest crisis of perception and understanding." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=In%20our%20current,perception%20and%20understanding.)
 
-> "If there’s one perspective we desperately need in today’s world, it’s a systemic view. But what exactly is a systemic view? In simple terms, it’s the opportunity to truly understand a system — its components, interactions, and underlying patterns. It’s not just about the elements within a system, but what happens in the dynamic relationships between these elements." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=If%20there%E2%80%99s%20one,between%20these%20elements.)
 
-> "Metacrisis is the crisis of perception and understanding that lies within the range of crises humanity faces." - [The State of the World - Designing the Third Attractor, by Ernesto van Peborgh](https://ernesto-87727.medium.com/designing-the-third-attractor-93a76bc6800b#:~:text=Metacrisis%20is%20the%20crisis%20of%20perception%20and%20understanding%20that%20lies%20within%20the%20range%20of%20crises%20humanity%20faces.)
 
 
 
 
-> "The art of looking at the problem from the other person's point of view, identifying his opportunities and his interests, an art that has traditionally been practiced by diplomats, lawyers, and chess players, is at the center of strategic analysis." - [Thomas C. Schelling](https://www.goodreads.com/quotes/10670713-the-art-of-looking-at-the-problem-from-the-other)
 
 
 
-> "The juvenile sea squirt wanders through the sea searching for a suitable rock or hunk of coral to cling to and make its home for life. For this task, it has a rudimentary nervous system. When it finds its spot and takes root, it doesn't need its brain anymore, so it eats it! It's rather like getting tenure." - [Daniel Dennett](https://www.goodreads.com/quotes/52415-the-juvenile-sea-squirt-wanders-through-the-sea-searching-for)
 
-> "To put it bluntly but fairly, anyone today who doubts that the variety of life on this planet was produced by a process of evolution is simply ignorant—inexcusably ignorant, in a world where three out of four people have learned to read and write." - [Daniel Dennett](https://www.goodreads.com/quotes/453116-to-put-it-bluntly-but-fairly-anyone-today-who-doubts)
 
-> "Not a single one of the cells that compose you knows who you are, or cares." - [Daniel Dennett](https://www.azquotes.com/quote/447787)
 
-> "The only meaning of life worth caring about is one that can withstand our best efforts to examine it." - [Daniel Dennett](https://www.azquotes.com/quote/1048953)
 
-> "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
 
 
 
-> "Building an audience on a proprietary network is building an elaborate castle on sand." - [Naval](https://x.com/naval/status/1325531565724639233)
 
-> "Emergence is the closest thing to magic that is actually a scientific term." - [Daniel Schmachtenberger](https://systems-souls-society.com/emergence/emerge/#:~:text=%E2%80%98Emergence%20is%20the%20closest%20thing%20to%20magic%20that%20is%20actually%20a%20scientific%20term%E2%80%99)
 
 
-> "The self is a repeatedly reconstructed biological state." - [Antonio Damasio](https://www.goodreads.com/quotes/7656886-the-self-is-a-repeatedly-reconstructed-biological-state)
 
-> "We are not thinking machines that feel; rather, we are feeling machines that think." - [Antonio Damasio](https://www.azquotes.com/quote/733647)
 
-> "Consciousness begins when brains acquire the power, the simple power I must add, of telling a story." - [Antonio Damasio](https://www.azquotes.com/quote/1350141)
 
-> "In the heart of consciousness is subjectivity, this sense of having a self that observes one's own organism and the world around that organism. That is really the heart of consciousness." - [Antonio Damasio](https://www.azquotes.com/quote/1494201)
 
 
-> "To neglect the common ground with other primates, and to deny the evolutionary roots of human morality, would be like arriving at the top of a tower to declare that the rest of the building is irrelevant, that the precious concept of "tower" ought to be reserved for the summit." - [Frans de Waal](https://www.azquotes.com/quote/1390053)
 
-> "Darwin wasn't just provocative in saying that we descend from the apes - he didn't go far enough. We are apes in every way, from our long arms and tailless bodies to our habits and temperament." - [Frans de Waal](https://www.azquotes.com/quote/330226)
 
-> "Morality, after all, has nothing to do with selflessness. On the contrary, self-interest is precisely the basis of the categorical imperative." - [Frans de Waal](https://www.azquotes.com/quote/1349687)
 
-> "The sturdiest pillars of human morality are compassion and a sense of justice." - [Frans de Waal](https://www.azquotes.com/quote/330207)
 
-> "If you ask anyone, what is morality based on? These are the two factors that always come out: One is reciprocity, … a sense of fairness, and the other one is empathy and compassion." - [Frans de Waal](https://www.azquotes.com/quote/733710)
 
-> "You need to indoctrinate empathy out of people in order to arrive at extreme capitalist positions." - [Frans de Waal](https://www.azquotes.com/quote/692798)
 
-> "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
 
-> "You should know as much as you can about the human species if you have a hand in designing human society." - [Frans de Waal](https://www.azquotes.com/quote/1051528)
 
-> "Competitiveness is just as much a part of our nature as empathy. The ideal, in my view, is a democratic system with a social market economy, because it takes both tendencies into account." - [Frans de Waal](https://www.azquotes.com/quote/1349688)
 
-> "If I were God, I'd work on the reach of empathy." - [Frans de Waal](https://www.azquotes.com/quote/576491)
 
 
 
-> "We're facing a danger that economics is rigorous deduction based upon faulty assumptions. Science after science gets that way from time to time. When it does, we're in real trouble." - [W. Brian Arthur](https://www.azquotes.com/quote/1370542)
 
-> "Economists got away from really questioning how the world works, how decisions actually got made. If something doesn't conform to neoclassical models ... people are not somehow behaving themselves properly." - [W. Brian Arthur](https://www.azquotes.com/quote/1370204)
 
 
 
 
-> "The essential point to grasp is that in dealing with capitalism we are dealing with an evolutionary process." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/604241)
 
-> "Economic progress, in capitalist society, means turmoil." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/262761)
 
-> "At the heart of capitalism is creative destruction." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1413855)
 
-In Hinduism, the god Shiva is simultaneously destroyer and creator
-https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
-> "There exists no more democratic institution than the market." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1341985)
 
-> "The stock exchange is a poor substitute for the Holy Grail." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1103162)
 
-> "Politicians are like bad horsemen who are so preoccupied with staying in the saddle that they can’t bother about where they’re going." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/7582316-politicians-are-like-bad-horsemen-who-are-so-preoccupied-with)
-
-> "Created by wars that required it, the machine now created the wars it required." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/7905235-created-by-wars-that-required-it-the-machine-now-created)
-
-> "The first thing a man will do for his ideals is lie." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/1171071-the-first-thing-a-man-will-do-for-his-ideals)
-
-
-
-> "We are only just beginning to understand the power of love because we are just beginning to understand the weakness of force and aggression." - [B. F. Skinner](https://www.goodreads.com/quotes/393169-we-are-only-just-beginning-to-understand-the-power-of)
-
-> "No one asks how to motivate a baby. A baby naturally explores everything it can get at, unless restraining forces have already been at work. And this tendency doesn't die out, it's wiped out." - [B. F. Skinner](https://www.goodreads.com/quotes/394392-no-one-asks-how-to-motivate-a-baby-a-baby)
-
-> "The consequences of an act affect the probability of its occurring again." - [B. F. Skinner](https://www.goodreads.com/quotes/1054191-the-consequences-of-an-act-affect-the-probability-of-its)
-
-> "Men build society and society builds men." - [B. F. Skinner](https://www.goodreads.com/quotes/450985-men-build-society-and-society-builds-men)
-
-> "The world's a poor standard. Any society which is free of hunger and violence looks bright against that background." - [B. F. Skinner](https://www.goodreads.com/quotes/451077-the-world-s-a-poor-standard-any-society-which-is-free)
-
-
-
-
-> "Scientific theories never dictate human values, but they can often cast new light on ethical issues. From a sexual selection viewpoint, moral philosophy and political theory have mostly been attempts to shift male human sexual competitiveness from physical violence to the peaceful accumulation of wealth and status. The rights to life, liberty, and property are cultural inventions that function, in part, to keep males from killing and stealing from one another while they compete to attract sexual partners." - [Geoffrey Miller](https://www.azquotes.com/quote/927979)
-
-> "You may think that tax policy sounds like the most boring topic in the world. That is precisely what most governments, corporations, and special interests would like you to think, because tax policy is where much of society and the economy gets shaped. It is also where well-informed citizens can achieve socioeconomic revolutions with astonishing speed and effectiveness—but only if they realize how much power they might wield in this domain. If citizens don’t understand taxes, they don’t understand how, when, and where their government expropriates money, time, and freedom from their lives. They also don’t understand how most governments bias consumption over savings, and bias some forms of consumption over other forms, thereby distorting the trait-display systems that people might otherwise favor." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213268-you-may-think-that-tax-policy-sounds-like-the-most)
-
-> "Existing political philosophies all developed before evolutionary game theory, so they do not take equilibrium selection into account. Socialism pretends that individuals are not selfish sexual competitors, so it ignores equilibria altogether. Conservatism pretends that there is only one possible equilibrium—a nostalgic version of the status quo—that society could play. Libertarianism ignores the possibility of equilibrium selection at the level of rational social discourse, and assumes that decentralized market dynamics will magically lead to equilibria that yield the highest aggregate social benefits. Far from being a scientific front for a particular set of political views, modern evolutionary psychology makes most standard views look simplistic and unimaginitive." - [Geoffrey Miller](https://www.goodreads.com/quotes/214893-existing-political-philosophies-all-developed-before-evolutionary-game-theory-so)
-
-> "Capitalism is not “materialistic,” but “semiotic.” It concerns mainly the psychological world of signs, symbols, images, and brands." - [Geoffrey Miller](https://www.goodreads.com/quotes/5594626-capitalism-is-not-materialistic-but-semiotic-it-concerns-mainly-the)
-
-> "Thus, consumption taxes tend to reduce conspicuous consumption and promote longer-term retirement security, family wealth, social welfare, technical progress, and economic growth. In essence, income taxes penalize people for what they contribute to society (labor and capital), whereas consumption taxes penalize people for what they take out of society (new retail purchases). So, to tax experts, it is no surprise that U.S. and U.K. citizens spend too much and don’t save enough, relative to what would be optimal for society and even for themselves." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213272-thus-consumption-taxes-tend-to-reduce-conspicuous-consumption-and-promote)
-
-> "The discriminatory nature of sexual choice undermines all egalitarian Utopias. Women might like the idea of all men being able to have equal amounts of sex, but no individual woman would be willing to forgo her power of sexual choice to allow an unattractive, unfit man to copulate with her." - [Geoffrey Miller](https://www.goodreads.com/quotes/11253954-the-discriminatory-nature-of-sexual-choice-undermines-all-egalitarian-utopias)
-
-> "Many products are signals first and material objects second. Our vast social-primate brains evolved to pursue one central social goal: to look good in the eyes of others. Buying impressive products in a money-based economy is just the most recent way to fulfill that goal." - [Geoffrey Miller](https://www.goodreads.com/quotes/11433462-many-products-are-signals-first-and-material-objects-second-our)
-
-> "The ad viewer himself need not believe that the brand has any logical or statistical link to the aspirational trait he wants to display. He must simply believe that other ad viewers from his social circle will perceive such a link." - [Geoffrey Miller](https://www.goodreads.com/review/show/274484662)
-
-
-Turn on, tune in, drop out
-https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
-
-> "Women who seek to be equal with men lack ambition." - [Timothy Leary](https://www.goodreads.com/quotes/52841-women-who-seek-to-be-equal-with-men-lack-ambition)
-
-
-
-> "I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong." - [John Lennon](https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not)
-
-> "If everyone demanded peace instead of another television set, then there'd be peace." - [John Lennon](https://www.goodreads.com/quotes/4601-if-everyone-demanded-peace-instead-of-another-television-set-then)
-
-> "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one." - [John Lennon](https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the)
-
-> "God is a concept by which we measure our pain." - [John Lennon](https://www.goodreads.com/quotes/40871-god-is-a-concept-by-which-we-measure-our-pain)
-
-
-> "Our society is run by insane people for insane objectives." - [John Lennon](https://www.goodreads.com/quotes/166129-our-society-is-run-by-insane-people-for-insane-objectives)
-
-> "All you need is love." - [John Lennon](https://www.goodreads.com/quotes/432663-all-you-need-is-love)
-
-
-
-> "The most important question facing humanity is this: Can we reach global empathy in time to avoid the collapse of civilization and save the Earth?" - [Jeremy Rifkin](https://www.goodreads.com/quotes/6496558-the-most-important-question-facing-humanity-is-this-can-we)
-
-> "A half century from now, our grandchildren are likely to look back at the era of mass employment in the market with the same sense of utter disbelief as we look upon slavery and serfdom in former times. The very idea that a human being’s worth was measured almost exclusively by his or her productive output of goods and services and material wealth will seem primitive, even barbaric, and be regarded as a terrible loss of human value to our progeny living in a highly automated world where much of life is lived on the Collaborative Commons." - [Jeremy Rifkin](https://www.goodreads.com/quotes/6934118-a-half-century-from-now-our-grandchildren-are-likely-to)
-
-
-
-> "The wealthy and powerful have rigged the system to perpetuate their privilege; the professional classes have figured out how to pass their advantages on to their children, converting the meritocracy into a hereditary aristocracy; colleges that claim to select students on merit give an edge to the sons and daughters of the wealthy and the well-connected. According to this complaint, meritocracy is a myth, a distant promise yet to be redeemed." - [Michael J. Sandel](https://www.goodreads.com/quotes/10557710-the-wealthy-and-powerful-have-rigged-the-system-to-perpetuate)
 
 > "Debates about justice and rights are often, unavoidably, debates about the purpose of social institutions, the goods they allocate, and the virtues they honor and reward. Despite our best attempts to make law neutral on such questions, it may not be possible to say what’s just without arguing about the nature of the good life." - [Michael J. Sandel](https://www.goodreads.com/quotes/7457837-debates-about-justice-and-rights-are-often-unavoidably-debates-about)
 
@@ -926,17 +825,14 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "Imagine a world where the way to make the most money is to tell the hardest truths." - [Alexandros Marinos](https://x.com/alexandrosM/status/1806072469922660485)
 
 
 
-> "The present is saturated with the past and pregnant with the future." - [Gottfried Wilhelm Leibniz](https://www.azquotes.com/quote/1032469)
 
 > "Why is there something rather than nothing?" - [Gottfried Wilhelm Leibniz](https://www.goodreads.com/quotes/7582418-why-is-there-something-rather-than-nothing)
 
 
 
-> "Desire nothing for yourself, which you do not desire for others." - [Baruch Spinoza](https://www.azquotes.com/quote/839656)
 
 > "Self-preservation is the primary and only foundation of virtue." - [Baruch Spinoza](https://www.azquotes.com/quote/500068)
 
@@ -944,25 +840,19 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "The real acceleration will not begin until someone makes a factorio/civ/starcraft style game that is an interface for the real world." - [@bayeslord](https://x.com/bayeslord/status/1801794146039902580)
-
-
-
-> "The very word "secrecy" is repugnant in a free and open society; and we are as a people inherently and historically opposed to secret societies, to secret oaths and to secret proceedings. We decided long ago that the dangers of excessive and unwarranted concealment of pertinent facts far outweighed the dangers which are cited to justify it. Even today, there is little value in opposing the threat of a closed society by imitating its arbitrary restrictions. Even today, there is little value in insuring the survival of our nation if our traditions do not survive with it." - [John F. Kennedy](https://paulgraham.com/quo.html#:~:text=%22The%20very%20word,John%20F.%20Kennedy)
-
-
-
-> "I think we should really do our very best to become a multiplanet species and to extend consciousness beyond Earth and we should do it now." - [Elon Musk](https://www.upi.com/Science_News/2019/09/29/Musks-SpaceX-unveils-new-Starship-for-private-trips-in-space-then-moon/3771569765872/#:~:text=I%20think%20we%20should%20really%20do%20our%20very%20best%20to%20become%20a%20multiplanet%20species%20and%20to%20extend%20consciousness%20beyond%20Earth%20and%20we%20should%20do%20it%20now)
 
 
 
 
 
-> "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
 
-> "I assume that something new will emerge in human society, and it will present us with undreamed possibilities in science and the arts. This emergence requires our efforts and requires something spiritual that goes beyond the mind. There will be a new emergence, and we will play a part in what that emergence is. That is our destiny." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
 
-> "The flow of energy through a system acts to organize that system." - [Harold Morowitz](https://www.azquotes.com/quote/736471)
+
+
+
+
+
+
 
 
 
@@ -978,11 +868,8 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "The moment one begins thinking about morality in terms of well-being, it becomes remarkably easy to discern a moral hierarchy across human societies." - [Sam Harris](https://www.goodreads.com/quotes/7444203-the-moment-one-begins-thinking-about-morality-in-terms-of)
 
 
-
-> "Intelligence should be viewed as a physical process that tries to maximize future freedom of action and avoid constraints in its own future." - [Alex Wissner-Gross](https://youtu.be/ue2ZEmTJ_Xo?t=687)
 
 
 
@@ -6276,7 +6163,8 @@ Culture is what Darwinian evolution looks like when it occurs within a collectiv
 
 
 
-> "" - [What is this? The case for continually questioning our online experience, by Dan Nixon](https://systems-souls-society.com/what-is-this-the-case-for-continually-questioning-our-online-experience/)
+> "The crisis, then, is about misaligned interests, confusion over the co-arising of success and failure and the pathdependent nature of entropy and hysteresis that oblige us to change course. The emergency is the crisis in this sense: it’s not just that we have to act fast, but that we have to get it right fast, where ‘it’ is something like the underlying logic, the source code or the generator function for civilisation as a whole. That source code is not just in the world outside, but within us, between us and beyond us too. How we understand and react to our crisis is an endogenous part of our crisis and our emergency, and at a species-as-a-whole level, at a political level, at a business level, we don’t understand it very well at all. All of our rallying cries for action and for transformation arise in cultures and psyches riddled with confusion and immunities to change. We have to better understand who and what we are, individually and collectively, in order to be able to fundamentally change how we act. That conundrum is what is now widely called the meta-crisis lying within, between and beyond the emergency and the crisis. That aspect of our predicament is socio-emotional, educational, epistemic and spiritual in nature; it is the most subtle in its effects but the roots of our problems, and the place we are most likely to find enduring political hope... Backing up, the meta-crisis refers to our inability to see how we see, our apparent incapacity to understand how we understand; our failure to perceive how we perceive or to know how we know. In this sense, the hyphenated term meta-crisis is valuable because that conjunction of words encapsulates our problem: we are struggling to understand our predicament well enough to conceive of intentional action that appears to be meaningful in the context of the challenges we face... Such development involves creating an observational gap between subject and object, such that we can observe and relate to whatever we were previously embedded in and defined by. That happened when we first saw Earth from space. That happens when we stop saying ‘left wing’ and ‘right wing’ and start asking: is this political spectrum really helping us and should we perhaps create a new one? That happens when we move from commenting on the economy to questioning the very idea(s) of the economy and, for instance, the idea of ‘money’ within it. That happens when we suggest, as Joe Brewer does, that the default unit of coordinated action may not be city or the state, but something more like a bioregion... On this framing, the meta crisis arises from large swathes of the population being unable or unwilling to make such meta moves or consider them worthwhile." - [Tasting the Pickle: Ten flavours of meta-crisis and the appetite for a new civilisation, by Jonathan Rowson](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/)
+
 
 
 

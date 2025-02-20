@@ -52,6 +52,11 @@ Will this work? No clue. But what we can say with 100% confidence that we must t
 > "Normally, when you challenge the conventional wisdom—that the current economic and political system is the only possible one—the first reaction you are likely to get is a demand for a detailed architectural blueprint of how an alternative system would work, down to the nature of its financial instruments, energy supplies, and policies of sewer maintenance. Next, you are likely to be asked for a detailed program of how this system will be brought into existence. Historically, this is ridiculous. When has social change ever happened according to someone’s blueprint? It’s not as if a small circle of visionaries in Renaissance Florence conceived of something they called “capitalism,” figured out the details of how the stock exchange and factories would someday work, and then put in place a program to bring their visions into reality. In fact, the idea is so absurd we might well ask ourselves how it ever occurred to us to imagine this is how change happens to begin." - [David Graeber](https://www.goodreads.com/quotes/776644-normally-when-you-challenge-the-conventional-wisdom-that-the-current-economic)
 
 
+## I don't agree with X or even 100 Xs
+
+Good thing there are more than a thousand ideas here - you can support what you like and debate with others everything else
+
+
 ## TL;DR?
 
 The later you read this the more of a laggard you will be - this system is inevitable

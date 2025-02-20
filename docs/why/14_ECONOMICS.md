@@ -49,7 +49,19 @@ the information paradox: how do u determine if its worth expending scarce resour
 
 3 different types of efficiency: technical (mechanical), economic (within a firm: organizational, social, human beings - not machines) & dynamic (whole economy - higher level of complexity - unpredictable, untestable)
 
-TODO: continue from ep 8 forward from ashley's institu econ playlist
+transaction costs: information-gathering, costs of entering a contract, monitoring costs, enforcement costs (could be also time so that the other party follows through with what they promised), exclusion costs
+these costs grow and grow as the economy grows more complex and more people are involved, also consultant services around the construction and maintenance of contracts grow
+
+collective property types
+                        who owns/manages?       excludable? example
+open access property    nobody                  no          lake anyone can use
+common property         group of people         yes         common pool, community garden
+public property         govt/public officials   yes         city pool, gov building, library
+
+rule types:
+prescriptive: dictating necessary action - pay taxes by date X, note why you needed that expense
+proscriptive: saying what NOT to do - don't browse youtube on company computer
+
 
 
 
@@ -61,6 +73,11 @@ TODO: continue from ep 8 forward from ashley's institu econ playlist
 Eudaemonic economy
 
 Conscious economics
+
+
+> "We're facing a danger that economics is rigorous deduction based upon faulty assumptions. Science after science gets that way from time to time. When it does, we're in real trouble." - [W. Brian Arthur](https://www.azquotes.com/quote/1370542)
+
+> "Economists got away from really questioning how the world works, how decisions actually got made. If something doesn't conform to neoclassical models ... people are somehow not behaving themselves properly." - [W. Brian Arthur](https://www.azquotes.com/quote/1370204)
 
 > "Economics can be seen as the interface layer between our values and the way we build the world." - [Daniel Schmachtenberger](https://thecitesite.com/authors/daniel-schmachtenberger/#:~:text=Economics%20can%20be%20seen%20as%20the%20interface%20layer%20between%20our%20values%20and%20the%20way%20we%20build%20the%20world.)
 
@@ -187,6 +204,60 @@ What if radical transparency and cooperation for companies gave them an effectiv
 
 What if we made advertising in its current form obsolete? What if false claims were not allowed? What if demand could not be manufactured? What if we had an immune system?
 
+██████████████████████████████████████████████████████████████████
+# SECTION: creative destruction
+██████████████████████████████████████████████████████████████████
+
+
+> "The essential point to grasp is that in dealing with capitalism we are dealing with an evolutionary process." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/604241)
+
+> "Economic progress, in capitalist society, means turmoil." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/262761)
+
+> "At the heart of capitalism is creative destruction." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1413855)
+
+In Hinduism, the god Shiva is simultaneously destroyer and creator
+https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
+
+> "There exists no more democratic institution than the market." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1341985)
+
+> "The stock exchange is a poor substitute for the Holy Grail." - [Joseph A. Schumpeter](https://www.azquotes.com/quote/1103162)
+
+> "Politicians are like bad horsemen who are so preoccupied with staying in the saddle that they can’t bother about where they’re going." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/7582316-politicians-are-like-bad-horsemen-who-are-so-preoccupied-with)
+
+> "Created by wars that required it, the machine now created the wars it required." - [Joseph A. Schumpeter](https://www.goodreads.com/quotes/7905235-created-by-wars-that-required-it-the-machine-now-created)
+
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Taxes
+██████████████████████████████████████████████████████████████████
+
+> "You may think that tax policy sounds like the most boring topic in the world. That is precisely what most governments, corporations, and special interests would like you to think, because tax policy is where much of society and the economy gets shaped. It is also where well-informed citizens can achieve socioeconomic revolutions with astonishing speed and effectiveness—but only if they realize how much power they might wield in this domain. If citizens don’t understand taxes, they don’t understand how, when, and where their government expropriates money, time, and freedom from their lives. They also don’t understand how most governments bias consumption over savings, and bias some forms of consumption over other forms, thereby distorting the trait-display systems that people might otherwise favor." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213268-you-may-think-that-tax-policy-sounds-like-the-most)
+
+> "Thus, consumption taxes tend to reduce conspicuous consumption and promote longer-term retirement security, family wealth, social welfare, technical progress, and economic growth. In essence, income taxes penalize people for what they contribute to society (labor and capital), whereas consumption taxes penalize people for what they take out of society (new retail purchases). So, to tax experts, it is no surprise that U.S. and U.K. citizens spend too much and don’t save enough, relative to what would be optimal for society and even for themselves." - [Geoffrey Miller](https://www.goodreads.com/quotes/7213272-thus-consumption-taxes-tend-to-reduce-conspicuous-consumption-and-promote)
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Accounting beyond the price signal - properly calculating contribution and relevance
+██████████████████████████████████████████████████████████████████
+
+> "The wealthy and powerful have rigged the system to perpetuate their privilege; the professional classes have figured out how to pass their advantages on to their children, converting the meritocracy into a hereditary aristocracy; colleges that claim to select students on merit give an edge to the sons and daughters of the wealthy and the well-connected. According to this complaint, meritocracy is a myth, a distant promise yet to be redeemed." - [Michael J. Sandel](https://www.goodreads.com/quotes/10557710-the-wealthy-and-powerful-have-rigged-the-system-to-perpetuate)
+
+
+> "Our society is run by insane people for insane objectives." - [John Lennon](https://www.goodreads.com/quotes/166129-our-society-is-run-by-insane-people-for-insane-objectives)
+
+> "A half century from now, our grandchildren are likely to look back at the era of mass employment in the market with the same sense of utter disbelief as we look upon slavery and serfdom in former times. The very idea that a human being’s worth was measured almost exclusively by his or her productive output of goods and services and material wealth will seem primitive, even barbaric, and be regarded as a terrible loss of human value to our progeny living in a highly automated world where much of life is lived on the Collaborative Commons." - [Jeremy Rifkin](https://www.goodreads.com/quotes/6934118-a-half-century-from-now-our-grandchildren-are-likely-to)
+
+> "Imagine a world where the way to make the most money is to tell the hardest truths." - [Alexandros Marinos](https://x.com/alexandrosM/status/1806072469922660485)
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: The new game & interfacing with the real world
+██████████████████████████████████████████████████████████████████
+
+> "The real acceleration will not begin until someone makes a factorio/civ/starcraft style game that is an interface for the real world." - [@bayeslord](https://x.com/bayeslord/status/1801794146039902580)
 
 
 ██████████████████████████████████████████████████████████████████

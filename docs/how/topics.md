@@ -2,6 +2,19 @@
 draft: true
 ---
 
+TOPICS TO FINISH AS A SECTION:
+- preference falsification
+- common knowledge
+- predictive processing & active inference
+
+
+
+
+
+
+
+
+
 # operating manual for the global brain
 
 
@@ -78,7 +91,7 @@ https://en.wikipedia.org/wiki/Summa_logicae
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
 "The Architecture of infinity"
 "The Third Attractor"
-"Meta"
+"The Book"
 Principia Mathematica
 "multi scale competency architecture"
 The Mind/Psychology of God

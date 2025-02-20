@@ -364,6 +364,9 @@ https://consilienceproject.org/an-infodemic-plaguing-the-pandemic-response/
 > "Even if we knew The Truth, many conflicting ways of moving forward would exist. No amount of “Science” can get rid of the difficult ethical decision that is inherent in choosing a course of action. To ignore this necessary debate on values is to allow a certain cohort—predominantly scientists and journalists—to impose their beliefs and values as the irrefutable standard." - [The Religion of Science And Its Consequences](https://unfashionable.blog/p/science#:~:text=even%20if%20we,the%20irrefutable%20standard.)
 
 
+> "The juvenile sea squirt wanders through the sea searching for a suitable rock or hunk of coral to cling to and make its home for life. For this task, it has a rudimentary nervous system. When it finds its spot and takes root, it doesn't need its brain anymore, so it eats it! It's rather like getting tenure." - [Daniel Dennett](https://www.goodreads.com/quotes/52415-the-juvenile-sea-squirt-wanders-through-the-sea-searching-for)
+
+
 
 > "The problem with the "copy other people's beliefs" algorithm is that it is vulnerable to false information cascades. And when a small but powerful adversarial group controls the seed point for many people's beliefs (such as being able to control the scientific process to output chosen falsehoods), you can end up with an entire society believing an absurd falsehood that happens to be very convenient for that small, powerful adversarial subgroup." - [Roko Mijic](https://twitter.com/RokoMijic/status/1753912291471319376)
 

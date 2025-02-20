@@ -5,6 +5,10 @@
 
 How do we most optimally crowdsource the best possible worldview?
 
+> "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
+
+> "Emergence is the closest thing to magic that is actually a scientific term." - [Daniel Schmachtenberger](https://systems-souls-society.com/emergence/emerge/#:~:text=%E2%80%98Emergence%20is%20the%20closest%20thing%20to%20magic%20that%20is%20actually%20a%20scientific%20term%E2%80%99)
+
 > "The prevailing scientific worldview for the duration of my life has been that the universe is doomed to end in indifferent heat death. Our existence is a random accident resulting from a blind process of competitive trial-and-error. We are nothing more than a collection of atoms; “dancing dirt” that’s going to be around for the blink of an eye then be dead forever. We don’t matter. This nihilistic worldview has contributed to a “meaning crisis” that is taking an extremely real toll on our lives, especially our children. The problem is that our society can’t seem to go backwards to the belief systems that brought comfort to prior generations... there is a new worldview unfolding that might finally help reconcile reductionist science with human meaning. This is not some fresh fantasy we’ve concocted to explain things we don’t understand. It’s a more accurate and vibrant map of reality than the dangerously depressing one we’ve been using... this model can give us extremely practical clues as to how to live a meaningful life as individuals." - [What’s the Point? - Sapient Capital](https://sapientcapital.com/insights/whats-the-point/#:~:text=The%20prevailing%20scientific,life%20as%20individuals.)
 
 > "Metanarratives can save lives. They can save civilizations. Or said differently, lack of metanarratives can kill off civilizations. It’s happened before that civilizations drive off a cliff because their people failed to see the bigger picture they were part of." - [Hanzi Freinacht](https://twitter.com/HFreinacht/status/1782326212913766586)
@@ -203,6 +207,7 @@ maybe embed this?
 Is Our World Broken? Kurzgesagt – In a Nutshell
 https://www.youtube.com/watch?v=c1nYtX-NUsc
 
+> "I think we should really do our very best to become a multiplanet species and to extend consciousness beyond Earth and we should do it now." - [Elon Musk](https://www.upi.com/Science_News/2019/09/29/Musks-SpaceX-unveils-new-Starship-for-private-trips-in-space-then-moon/3771569765872/#:~:text=I%20think%20we%20should%20really%20do%20our%20very%20best%20to%20become%20a%20multiplanet%20species%20and%20to%20extend%20consciousness%20beyond%20Earth%20and%20we%20should%20do%20it%20now)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Terror Management Theory
@@ -457,6 +462,13 @@ iraquai lakota 7th generation thinking
 # SECTION: Enlarging the self
 ██████████████████████████████████████████████████████████████████
 
+> "Not a single one of the cells that compose you knows who you are, or cares." - [Daniel Dennett](https://www.azquotes.com/quote/447787)
+
+> "The self is a repeatedly reconstructed biological state." - [Antonio Damasio](https://www.goodreads.com/quotes/7656886-the-self-is-a-repeatedly-reconstructed-biological-state)
+
+> "In the heart of consciousness is subjectivity, this sense of having a self that observes one's own organism and the world around that organism. That is really the heart of consciousness." - [Antonio Damasio](https://www.azquotes.com/quote/1494201)
+
+
 What is the Self?
 The neuroscience of ego death | Dr. James Cooke
 https://www.youtube.com/watch?v=W0Gor8BYY00
@@ -666,211 +678,19 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 > With all these examples, it’s obvious that the future of democracy won’t be a better voting system. It will be a system that allows everybody to actively contribute to the policy-making process. Contributions can include the analysis of problems or suggest a policy that would solve them. The laws that rule the community will be approved directly by the community. It’s a matter of time. Somebody will come up with that mechanism in the not-too-distant future, lawmaking will become fast, prolific, and intelligent, and we won’t all be angry all the time at the terrible politicians we’ve had to elect." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=How%20are%20laws,had%20to%20elect.)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Fairness & justice
-██████████████████████████████████████████████████████████████████
-
-> "If you're intellectually honest and advocate for a system that controls people, turn over the keys to your enemies for a dry run." - [Naval](https://twitter.com/naval/status/857429690860003328)
-
-> "We say we're the exceptional nation. What does that mean? That means we make the rules and you're supposed to obey the rules. But we don't obey the rules. So we say we're for the rules-based order. Excuse me the rules-based order was the basis with which we invaded Iraq? I don't think so. That we occupied Afghanistan? I don't think so." - [Graham Allison](https://twitter.com/RnaudBertrand/status/1705923432029077764)
-
-Computing the rules-based order
-
-The global norms-based order
-
-> "We must stop constantly fighting for human rights and equal justice in an unjust system, and start building a society where equal rights are an integral part of the design." - [Jacque Fresco](https://www.azquotes.com/quote/728487)
-
-It's up to us to create the rules-based order
-
-There’s effectively no international rules based order
-
-We need to reimplement the “rules-based international order”
-UH - united humanity
-
-We should all want a neutral rules-based global world order - one that is truly collective
-
-The fairness protocol - transparency, accountability, skin in the game, inquiry
-
-Cheaters Can't Cheat: Fairness Protocol Explained [The value in bitcoin, ethereum, open blockchains]
-https://www.youtube.com/watch?v=JtyRN4YFRFI
-Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk
-https://www.youtube.com/watch?v=meiU6TxysCg
-Capuchin monkey fairness experiment
-https://www.youtube.com/watch?v=-KSryJXDpZo
-https://www.youtube.com/watch?v=meiU6TxysCg
-"The neuronal basis of empathy and fairness" - unfairness & disgust !!!
-https://pubmed.ncbi.nlm.nih.gov/17214308/
-> "Insula activation associated with perception of ‘unfairness’ has been interpreted as negative emotional reaction to unfair offers. This interpretation is based on prior studies reporting insula involvement in negative or arousing emotional states such as fear, disgust, or anger." - [Unfair? It depends: Neural correlates of fairness in social context](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2999761/#:~:text=Insula%20activation%20associated%20with%20perception%20of%20%E2%80%98unfairness%E2%80%99%20has%20been%20interpreted%20as%20negative%20emotional%20reaction%20to%20unfair%20offers.%20This%20interpretation%20is%20based%20on%20prior%20studies%20reporting%20insula%20involvement%20in%20negative%20or%20arousing%20emotional%20states%20such%20as%20fear%2C%20disgust%2C%20or%20anger)
-
-> "Imagine truly international law: it’s done programmatically rather than via pieces of paper, across borders outside the domain of legacy states, and by global technologists rather than country-specific lawyers." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=Imagine%20truly%20international%20law%3A%20it%E2%80%99s%20done%20programmatically%20rather%20than%20via%20pieces%20of%20paper%2C%20across%20borders%20outside%20the%20domain%20of%20legacy%20states%2C%20and%20by%20global%20technologists%20rather%20than%20country%2Dspecific%20lawyers.)
-
-> "There is no escape—we pay for the violence of our ancestors." - [Frank Herbert](https://www.goodreads.com/quotes/20232-there-is-no-escape-we-pay-for-the-violence-of-our)
-
-> "The arc of the moral universe is long, but it bends toward justice." - [Theodore Parker](https://quoteinvestigator.com/2012/11/15/arc-of-universe/)
-
-> "We're not robots, we're primates with a deeply-tuned sensitivity to perceived unfairness. Whether this accords with your ideology or not, it remains our evolved inheritance. We can (and should!) tolerate quite a bit of inequality so long as it facilitates the kind of growth that improves the quality of our lives. But when we cross a certain threshold at which too many no longer consciously acknowledge the benefits of growth, out come the pitchforks. Every time." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
-
-satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
-
-> "It’s important the networks we live in serve our best interests. With blockchains emerging as the new global infrastructure, we have the opportunity to create vastly different power structures and program the future we want for ourselves." - [Blockchain Governance: Programming Our Future](https://fehrsam.xyz/blog/blockchain-governance-programming-our-future#:~:text=It%E2%80%99s%20important%20the%20networks%20we%20live%20in%20serve%20our%20best%20interests.%20With%20blockchains%20emerging%20as%20the%20new%20global%20infrastructure%2C%C2%A0we%20have%20the%20opportunity%20to%20create%20vastly%20different%20power%20structures%20and%20program%20the%20future%20we%20want%20for%20ourselves.)
-
-> "Injustice anywhere is a threat to justice everywhere." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158995)
-
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Compassion
-██████████████████████████████████████████████████████████████████
-
-> "Love is the one thing we're capable of perceiving that transcends time and space." - [Brand, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2213908&ref_=ext_shr_lnk)
-
-> "No one can be perfectly free till all are free; no one can be perfectly moral till all are moral; no one can be perfectly happy till all are happy." - [Herbert Spencer](https://www.azquotes.com/quote/279406)
-
-> "Happiness only real when shared." - [Christopher McCandless AKA Alexander Supertramp](https://www.goodreads.com/quotes/184807-happiness-only-real-when-shared)
-
-> "Compassion is the basis of morality." - [Arthur Schopenhauer](https://www.goodreads.com/quotes/2195-compassion-is-the-basis-of-morality)
-
-> "Educating the mind without educating the heart is no education at all." - [Aristotle](https://www.goodreads.com/quotes/95080-educating-the-mind-without-educating-the-heart-is-no-education)
-
-> "An open mind is a prerequisite to an open heart." - [Robert Sapolsky](https://www.azquotes.com/quote/1225688)
-
-> "In order for a world-around democracy to prosper, world society must learn how to prosper." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716551)
-
-> "It is a bit embarrassing to have been concerned with the human problem all one's life and find at the end that one has no more to offer by way of advice than 'Try to be a little kinder.'" - [Aldous Huxley](https://www.goodreads.com/quotes/9861-it-is-a-bit-embarrassing-to-have-been-concerned-with)
-
-> "In the end... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
-
-> "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
-
-> "We have more than enough to take care of everybody on earth at this time. If we have a shortage of anything, it's very easy for science to make a substitute material. There's no shortage of anything except brains in Washington." - [Jacque Fresco](https://www.azquotes.com/quote/728486)
-
-> "The question is not whether there is intelligent life out there, the question is, whether there is intelligent life down here. As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/866263)
-
-> "We talk about civilization as though it's a static state. There are no civilized people yet, it's a process that's constantly going on... As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/728456)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Technology is not neutral
 ██████████████████████████████████████████████████████████████████
 
 > "But it is much later in the game now, and ignorance of the score is inexcusable. To be unaware that a technology comes equipped with a program for social change, to maintain that technology is neutral, to make the assumption that technology is always a friend to culture is, at this late hour, stupidity plain and simple." - [Neil Postman](https://www.goodreads.com/quotes/286008-but-it-is-much-later-in-the-game-now-and)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Values & virtues
-██████████████████████████████████████████████████████████████████
-
-Thomas Aquinas
-The rational polities - practical virtues - 4
-https://en.wikipedia.org/wiki/Cardinal_virtues
-Temperance - internal regulation - self control
-Fairness/justice
-Goal rationality, prudence
-Exploitation vs exploration - corush?
-3 more: (the divine virtues) - required for a multi agent system to merge into a next level agent
-Faith - willing to submit and project this next level agent
-Love - discovery of a shared purpose
-Hope - Willingness to invest in it before it is there
-Logically derived for forming a coherent next level system
-
-Alexander Bard is right that from a certain perspective the separation of church and state has been a mistake (just one perspective !!!)
-
-- integrity
-- sharing
-ends in themselves that end up promoting other good stuff we want
-these values become self-generating and autopoetic
-
-What if web3 is not "the Internet of value" as in transactional value, but the internet of values?
-
-> "The materialistic consciousness of our culture … is the root cause of the global crisis; it is not our business ethics, our politics or even our personal lifestyles. These are symptoms of a deeper underlying problem. Our whole civilization is unsustainable. And the reason that it is unsustainable is that our value system, the consciousness with which we approach the world, is an unsustainable mode of consciousness." - [Peter Russell](https://www.goodreads.com/quotes/10040937-the-materialistic-consciousness-of-our-culture-is-the-root)
-
-> "I believe a Magna Carta for the internet is exactly what we need. We need to encode our values not just in writing but in the structure of the internet." - [Edward Snowden](https://www.theregister.com/2014/03/21/quotw_ending_march_20/#:~:text=I%20believe%20a%20Magna%20Carta%20for%20the%20internet%20is%20exactly%20what%20we%20need.%20We%20need%20to%20encode%20our%20values%20not%20just%20in%20writing%20but%20in%20the%20structure%20of%20the%20internet.)
-
-> "War, poverty, corruption, hunger, misery, human suffering will not change in a monetary system. That is, there will be very little significant change. It’s going to take the redesign of our culture and values." - [Jacque Fresco](https://www.azquotes.com/quote/728457)
-
-> "Everyone talking about product-market fit. Nobody talking about user-values fit. And we’re supposed to solve AI Alignment?" - [Peter Wang](https://twitter.com/pwang/status/1743377594366496788)
-
-> "We argue that human agents learn the shared habits, norms, and expectations of their culture through immersive participation in patterned cultural practices that selectively pattern attention and behaviour. We call this process “thinking through other minds” (TTOM) – in effect, the process of inferring other agents’ expectations about the world and how to behave in social context. We argue that for humans, information from and about other people's expectations constitutes the primary domain of statistical regularities that humans leverage to predict and organize behaviour." - [Thinking through other minds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/thinking-through-other-minds-a-variational-approach-to-cognition-and-culture/9A10399BA85F428D5943DD847092C14A#:~:text=We%20argue%20that,and%20organize%20behaviour.)
-
-
-> "Now the problem is that this this this idea that the world is just made of stuff and all we need to do is understand make and get stuff is it's it's a lie and it's not just a lie but it's a lie that has become manifest in one of the very reasons why we are having this conference today when we hear pronouncements like we have lost our values and because of that the social fabric is fragmented our societies are breaking apart this is happening precisely at the moment when we have the most stuff the refusal of people to have children the Mental Health crisis the loneliness the Despair and the hopelessness is happening all precisely when and to a large extent because we have more stuff than any visible time in history that we can identify so what's happening the truth is that democratus was wrong now let me translate this for you what does it mean to lose your values to lose what you value it means to lose what is good what does it mean to despair but to be capable of perceiving that which is good and what does it mean to fragment if not to forget why and how it is good to be together to forget the reason why we're together in the first place so I think we have to be careful and as I see everybody talking about progress and I hear what people talking about here in flourishing we have to be careful and wonder what it is that we actually mean by that if what we mean is we just need to let to get the governments out of our way so that we can have more stuff that we need to tackle the environmental concern so that we can all have more stuff and more powerful stuff and bigger and faster and stronger stuff that I think there's a very important warning to be had I mean of course as a Christian I I believe strongly that we are called to help the poor but if all of us if all we do in the world is get everybody to have more stuff we will not solve the problem of despair of sterility of fragmentation divorce in fact we will increase it and so it seems like the ideas that Plato brought to light have to be explored and taken seriously once again that is the world can no longer be described only in terms of forces and stuff but it has to be described in terms of categories of human consciousness like attention like relevance like care and maybe for some of you that is too much of a jump to say that the world is made of care for that the world is made of love but at least an acknowledgement that the human world is made of care right that without care there is death that without care there's paralysis and if we care for the wrong things then there is chaos and tyranny in our lives and in our societies and this is where I think that maybe I can help bridge some of the more religious and secular people what it is that we place as the highest good that which is placed above us as our guiding Star as the thing that pulls us forward into its good is indistinguishable from a God just like a god that Supreme value will drive us towards it will subjugate all things to it and the type of attention it will receive will be indistinguishable from worship and if we what we put at the top there is not in fact the Supreme good then it will twist reality it will twist the facts and it will twist the data into its service." - [Jonathan Pageau](https://youtu.be/Fsmqhu8-L1E?t=470)
-
-^^ from 7:50 till 12:21
-
-
-> "I used to make fun of my friends for their obsessions with clothing brands, lifestyle aspirations, music subcultures, and social performances. It didn’t work. People think of social failure just in terms of drugs, mental illness, and suicide. But in practice, there are years of desperate attempts to fit in somewhere before that. People go all-in on these weird subcultures with plausible but false values. They think that if they push deeper into the aesthetic, it will give them somewhere to belong. But it doesn’t work, so they go even harder. It’s the classic pattern in cults of all kinds, and it leads only to misery." - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
-
-> "Your values are a bet on what is best in life. There are multiple answers that work, but this is not a subjective question. If your value instincts are good, the world rewards you with power and life. If you make the wrong bets on what to do with your life, you end up unsuccessful or dead. If someone else can influence your values for their own purposes, you can end up slaving your life away for something that has nothing to do with your own real interests. I think this is what happened to my friends, and what is happening to many of you.
->
-> The self-destructive lifestyles that take our friends don’t just happen spontaneously; they are ideological subcultures sustained by the activities they teach. The parties bring in new people, the drugs are a sort of initiation, the clothes are a uniform that identifies you as bought in, and the music and media supply a steady stream of ideals and ingroup perspective. Even diets serve as ingroup markers and separate you from outsiders.
->
-> The resulting alienation from friends and family removes you from countervailing influences. All of these contribute to the social reproduction of the subculture and whatever values it teaches. If a lifestyle of partying, drugs, and alienation finally turns deadly, that’s fine as long as the average participant has by that point initiated enough new blood to sustain that lifestyle. When I’ve tried to talk to people who are on these paths, their answers are bizarre. They think it’s all good for them, and anyone questioning it is an enemy. It’s like talking to someone in a cult.
->
-> Likewise, behind the anxieties that drive America’s upper middle class are the employers, schools, lifestyle brands, and political causes that are only too happy to feed those fears. As soon as you get too much of your social perspective from the society you live in, you are in danger. Whatever institutions can get your ear will teach you whatever values most efficiently motivate you for their own purposes. They’ll gladly feed you suggestions that have nothing to do with your own real interests, as long as it’s useful to them to do so. It would be too real to pay you in actual power, actual freedom, and actual vitality, so instead you’ll be taught to accept payment in slavecoin.
->
-> Slavecoin is anything that is apparently valuable from inside the spectacle, but in fact, offers no possible independence from it, and can’t be redeemed for hard vital power. Slavecoin is fake in its substance: think of all the prestige, credentials, career attainment, identity validation, pleasures, luxuries, and financialized wealth that no longer buys power. These things seem valuable and have extensive social narratives backing them up. But when viewed skeptically from outside the system, there is much less substance there than the trusted social consensus would lead you to think.
->
-> When I look at the things my friends were into before they destroyed themselves, this is what I see: false value sold to them by institutions and subcultures that have no structural reason to care about their real interests. But this applies to far more people than just the few that didn’t make it. Almost everybody is trapped in some kind of propaganda complex, wasting their lives working for effectively nothing.
->
-> ... everyone was caught up in false neuroses taught to them by systems of extraction...
->
-> Your social perspective, which includes your values, is a complex living system. It contains not just bets on what is most important, but also all the practical life wisdom that supports and implements those values, and defensive responses to the various counterarguments life and critics will throw at you. This is too big for you to produce by yourself. It is too big to even maintain by yourself. Like any other product of industry, a sane social perspective requires an extensive and trustworthy supply chain of information, ideas, and values bringing together the work of many other people.
->
-> ... Trustworthy social perspective formation is what is missing in our society, and it is this that explains our strange social problems. For a variety of historical reasons, our social fabric is substantially weaker than it should be.
->
-> Without being able to triangulate to a trustworthy shared social perspective, you are stuck between getting taken for a ride by propagandists and collecting kooky conspiracy theories. No matter how hard you try to be rational, you simply lack the logistical backing necessary for precision. Your social ideas will be crude and misfocused...
->
-> The obvious solution is to rebuild real social fabric, or otherwise systematically provision trustworthy social perspective. This is easier said than done, but not exactly new technology either. Many churches pull off partial solutions every day, and we all have our networks of trusted friends. Besides, a large amount of power is sitting on the table for whoever can do it properly.
->
-> The real problem is that there are many powerful and wealthy institutions in our society invested in the lies that keep people working for false value. Slavecoin is big business. Any effort to rebuild trustworthy social perspective would very quickly threaten these lies and thus find powerful enemies in these groups...
->
-> This makes both social fabric and trustworthy social perspective intensely political problems. It also gives some clues as to how the whole social apocalypse is locked in. If the fundamental crisis is one of low trustworthiness in social perspective formation, and if powerful groups and institutions are taking advantage of that crisis with their own cults of false value, then we have a vicious feedback loop. Those powers will reinforce the conditions that degrade trustworthiness.
->
-> ...
->
-> Well-grounded values, which is to say values that actually serve and accelerate life rather than deplete it, come from only one source: hard engagement with reality, where you can form an experience-building feedback loop of trial, error, and vitality. Call it evolution, science, revelation, or just clear seeing—that’s the only way real knowledge gets built about anything." - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
-
-> "We now translate the thing that called Abraham forward as “the LORD” or “God almighty,” but thousands of years of built-up ontological baggage do not necessarily help us understand what the authors of Genesis were getting at. The original word is closely related to a verb meaning simply “to exist” or “to cause.” It later identified itself to Moses as “I am.” In a more familiar cosmology, we might understand it as the living will of existence as such, the fundamental power behind all nature and contingent life.
->
-> ...
->
-> Abraham rejected the cults and their false and unnatural values. Instead of valuing the socially constructed and overly entangled values of the societies around him, Abraham expected a reward in the values natural to living existence. The various revelations he heard amounted to “I will make you a great nation. I will make your offspring as numerous as the dust on the ground and the stars in the sky. I will give them a great land, taken from those who sin against me. I will make your name great. I will bless those who bless you, and curse those who curse you. Through you, all the peoples of the earth will be blessed.”
->
-> The values invoked are significant: multiplication of biological kin, sovereign control of living space, eternal fame, rewards to friends and punishments to enemies, a universal benevolent impact, and harmony with the plans and laws of God and nature. These are things that, unlike slavecoin, have a very hard material existence outside of any particular symbolic social system. They are not the product of moralism, propaganda, or symbol manipulation. They are the fruits and substance of true life and true independence. This is the ball that Abraham kept his eye on in all his dealings." - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
-
-> "There is nothing that can be done for those who have already fallen. Our neighbors that are currently caught in the false value vortex can only be helped on the margin. But for ourselves and the next generation, we have options.
->
-> Our most important low-hanging fruit is to recognize the problem: most of the values we learn from the institutions around us are fake and exploitative. They do not represent our real interests.
->
-> The issue isn’t just individual, either. A society overrun with these kinds of false value cults eventually has a very hard time sustaining even its own interests in real terms either. This problem is a symptom and cause of overall decline. No society where even the elites are hopped up on a previous generation’s manipulative propaganda can survive...
->
-> In contrast to these false values, what we can do is recognize and orient ourselves more rigorously to Abraham’s hard natural values. Are you winning at a biological level? Are you getting more territory at a more sovereign level of control? Are you living rigorously in contact with natural law? Are you working on something that will achieve eternal fame? Are your enemies being cursed and your friends blessed? Does your winning at these things serve any great and higher plan of blessing for all creation and all peoples?" - [Don’t Learn Value From Society, Palladium Magazine](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Make "Ought" Great Again
-██████████████████████████████████████████████████████████████████
-
-> "In the case of moral philosophy, the empiricist and justificationist misconceptions are often expressed in the maxim that ‘you can’t derive an ought from an is’ (a paraphrase of a remark by the Enlightenment philosopher David Hume). It means that moral theories cannot be deduced from factual knowledge. This has become conventional wisdom, and has resulted in a kind of dogmatic despair about morality: ‘you can’t derive an ought from an is, therefore morality cannot be justified by reason’. That leaves only two options: either to embrace unreason or to try living without ever making a moral judgement. Both are liable to lead to morally wrong choices, just as embracing unreason or never attempting to explain the physical world leads to factually false theories (and not just ignorance).
->
-> Certainly you can’t derive an ought from an is, but you can’t derive a factual theory from an is either. That is not what science does. The growth of knowledge does not consist of finding ways to justify one’s beliefs. It consists of finding good explanations. And, although factual evidence and moral maxims are logically independent, factual and moral explanations are not. Thus factual knowledge can be useful in criticizing moral explanations.
->
-> ...
->
-> Quite generally, in order to understand the moral landscape in terms of a given set of values, one needs to understand some facts as being a certain way too. And the converse is also true: for example, as the philosopher Jacob Bronowski pointed out, success at making factual, scientific discoveries entails a commitment to all sorts of values that are necessary for making progress. The individual scientist has to value truth, and good explanations, and be open to ideas and to change. The scientific community, and to some extent the civilization as a whole, has to value tolerance, integrity and openness of debate.
->
-> We should not be surprised at these connections. The truth has structural unity as well as logical consistency, and I guess that no true explanation is entirely disconnected from any other. Since the universe is explicable, it must be that morally right values are connected in this way with true factual theories, and morally wrong values with false theories.
->
-> Moral philosophy is basically about the problem of what to do next – and, more generally, what sort of life to lead, and what sort of world to want. Some philosophers confine the term ‘moral’ to problems about how one should treat other people. But such problems are continuous with problems of individuals choosing what sort of life to lead, which is why I adopt the more inclusive definition. Terminology aside, if you were suddenly the last human on Earth, you would be wondering what sort of life to want. Deciding ‘I should do whatever pleases me most’ would give you very little clue, because what pleases you depends on your moral judgement of what constitutes a good life, not vice versa.
->
-> This also illustrates the emptiness of reductionism in philosophy. For if I ask you for advice about what objectives to pursue in life, it is no good telling me to do what the laws of physics mandate. I shall do that in any case. Nor is it any good telling me to do what I prefer, because I don’t know what I prefer to do until I have decided what sort of life I want to lead or how I should want the world to be. Since our preferences are shaped in this way, at least in part, by our moral explanations, it does not make sense to define right and wrong entirely in terms of their utility in meeting people’s preferences. Trying to do so is the project of the influential moral philosophy known as utili tarianism, which played much the same role as empiricism did in the philosophy of science: it acted as a liberating focus for the rebellion against traditional dogmas, while its own positive content contained little truth.
->
-> So there is no avoiding what-to-do-next problems, and, since the distinction between right and wrong appears in our best explanations that address such problems, we must regard that distinction as real. In other words, there is an objective difference between right and wrong: those are real attributes of objectives and behaviours...
->
-> Beauty, right and wrong, primality, infinite sets – they all exist objectively. But not physically. What does that mean? Certainly they can affect you – as examples like Hofstadter’s show – but apparently not in the same sense that physical objects do. You cannot trip over one of them in the street. However, there is less to that distinction than our empiricism-biased common sense assumes. First of all, being affected by a physical object means that something about the physical object has caused a change, via the laws of physics (or, equivalently, that the laws of physics have caused a change via that object). But causation and the laws of physics are not themselves physical objects. They are abstractions, and our knowledge of them comes – just as for all other abstractions – from the fact that our best explanations invoke them. Progress depends on explanation, and therefore trying to conceive of the world as merely a sequence of events with unexplained regularities would entail giving up on progress." - [The Beginning of Infinity, by David Deutsch](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
-
-
-We need to define property rights and ownership and taxation through morality
-
-██████████████████████████████████████████████████████████████████
 # SECTION: The way forward
 ██████████████████████████████████████████████████████████████████
+
+> "The present is saturated with the past and pregnant with the future." - [Gottfried Wilhelm Leibniz](https://www.azquotes.com/quote/1032469)
+
+Turn on, tune in, drop out
+https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 > "The most common way people give up their power is by thinking they don’t have any." - [Alice Walker](https://bigthink.com/words-of-wisdom/alice-walker-people-give-up-their-power-by-thinking-they-dont-have-any-2/)
 
@@ -1018,6 +838,8 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 meme: Dad - what did you do - fucking legend - I helped revitalize civilization and make it multi-planetary
 
+> "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one." - [John Lennon](https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the)
+
 Sasquatch music festival 2009 - Guy starts dance party
 https://www.youtube.com/watch?v=GA8z7f7a2Pk
 
@@ -1124,6 +946,8 @@ something beyond our cells, the invidivual or the genome with all of its rivalro
 
 <img src="/img/evarrow_gb_eye.jpg"/>
 
+> "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
+
 > "The universe has a direction and we are meant to participate in it. Not because it’s the “right” thing to do from an abstract, moralistic perspective, but because it’s the “optimal” thing to do from an evolutionary and cognitive perspective." - [Brett Andersen](https://brettandersen.substack.com/p/human-beings-were-selected-for-non#:~:text=the%20universe%20has%20a%20direction%20and%20we%20are%20meant%20to%20participate%20in%20it.%20Not%20because%20it%E2%80%99s%20the%20%E2%80%9Cright%E2%80%9D%20thing%20to%20do%20from%20an%20abstract%2C%20moralistic%20perspective%2C%20but%20because%20it%E2%80%99s%20the%20%E2%80%9Coptimal%E2%80%9D%20thing%20to%20do%20from%20an%20evolutionary%20and%20cognitive%20perspective.)
 
 > "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [Harold J. Morowitz](https://emersongreenblog.wordpress.com/2019/10/23/thomas-nagels-natural-teleology/#:~:text=We%20start%20with%20observations%2C%20and%20if%20the%20evolving%20cosmos%20has%20an%20observed%20direction%2C%20rejecting%20that%20view%20is%20clearly%20nonempirical.%20There%20need%20not%20necessarily%20be%20a%20knowable%20end%20point%2C%20but%20there%20may%20be%20an%20arrow.)
@@ -1154,6 +978,19 @@ TODO: fix the exact time for the above link
 ██████████████████████████████████████████████████████████████████
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
+
+> "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
+
+> "If I were God, I'd work on the reach of empathy." - [Frans de Waal](https://www.azquotes.com/quote/576491)
+
+> "I assume that something new will emerge in human society, and it will present us with undreamed possibilities in science and the arts. This emergence requires our efforts and requires something spiritual that goes beyond the mind. There will be a new emergence, and we will play a part in what that emergence is. That is our destiny." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
+
+
+> "I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong." - [John Lennon](https://www.goodreads.com/quotes/112387-i-believe-in-god-but-not-as-one-thing-not)
+
+> "God is a concept by which we measure our pain." - [John Lennon](https://www.goodreads.com/quotes/40871-god-is-a-concept-by-which-we-measure-our-pain)
+
+
 
 we are all religious - as a section name
 
