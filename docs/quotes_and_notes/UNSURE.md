@@ -274,6 +274,13 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "To use a computer analogy, we are running twenty-first-century software on hardware last upgraded 50,000 years ago or more. This may explain quite a lot of what we see in the news." - [Ronald Wright](https://www.goodreads.com/quotes/7295907-to-use-a-computer-analogy-we-are-running-twenty-first-century-software)
 
+> "If there is anything that links the human to the divine, it is the courage to stand by a principle when everybody else rejects it." - [Abraham Lincoln](https://www.goodreads.com/quotes/322696-if-there-is-anything-that-links-the-human-to-the)
+
+> "I am nothing, truth is everything." - [Abraham Lincoln](https://www.goodreads.com/quotes/136559-i-am-nothing-truth-is-everything)
+
+> "Science is organized knowledge. Wisdom is organized life." - [Will Durant](https://www.goodreads.com/quotes/11764-science-is-organized-knowledge-wisdom-is-organized-life)
+
+> "My view of the internet is that it is way overrated in what it’s done to date but considerably underrated in what it will do." - [Tyler Cowen](https://www.azquotes.com/quote/790439)
 
 
 

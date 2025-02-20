@@ -237,9 +237,9 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 > "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
 
-
-
+> "A nation that does not honor its heroes will not long endure." - [Abraham Lincoln](https://www.azquotes.com/quote/856201)
 > "A nation that fails to honor its heroes, soon will have no heroes to honor." - [Winston Churchill](https://www.azquotes.com/quote/722245)
+^^ wtf... fucking fake quotes
 
 > "The wealthy and powerful have rigged the system to perpetuate their privilege; the professional classes have figured out how to pass their advantages on to their children, converting the meritocracy into a hereditary aristocracy; colleges that claim to select students on merit give an edge to the sons and daughters of the wealthy and the well-connected. According to this complaint, meritocracy is a myth, a distant promise yet to be redeemed." - [Michael J. Sandel](https://www.goodreads.com/quotes/10557710-the-wealthy-and-powerful-have-rigged-the-system-to-perpetuate)
 
@@ -483,6 +483,8 @@ Choice architecture - RR - visibility templates
 “Contribution to humanity rank/index” for companies - making yet another kind of shampoo or a snack doesn’t get you high in there - just like vulture funds and the reputational damage that comes along from working at one
 
 
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Elinor Ostrom & commons
 ██████████████████████████████████████████████████████████████████
@@ -514,6 +516,9 @@ Few people could predict uber and airbnb - most were extremely sceptical. The sa
 
 Why Economic Growth (GDP) Does Not Bring Population Wellbeing | Economic Myth
 https://www.youtube.com/watch?v=H3MAMn6DyZI
+
+> "Future progress simply must be made in terms of the things that really count rather than the things that are merely countable." - [Herman E. Daly](https://www.goodreads.com/quotes/7227811-future-progress-simply-must-be-made-in-terms-of-the)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Gold has no smell
@@ -557,6 +562,9 @@ Not everything has to make a profit - we can and should think of what truly need
 
 
 > "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35186-the-test-of-our-progress-is-not-whether-we-add)
+
+> "The greatest fine art of the future will be the making of a comfortable living from a small piece of land." - [Abraham Lincoln](https://www.goodreads.com/quotes/36568-the-greatest-fine-art-of-the-future-will-be-the)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Concentrated power

@@ -241,6 +241,8 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 # SECTION: Propaganda
 ██████████████████████████████████████████████████████████████████
 
+> "Journalism is printing what someone else does not want printed: everything else is public relations." - [George Orwell](https://www.azquotes.com/quote/364418)
+
 "WE ACCEPT THE REALITY OF THE WORLD WITH WHICH WE ARE PRESENTED" - from the Truman Show
 https://www.youtube.com/watch?v=-bLyjGH4ZAE
 
@@ -325,6 +327,8 @@ https://www.youtube.com/watch?v=-bLyjGH4ZAE
 
 > "Economics are the method; the object is to change the soul." - [Margaret Thatcher](https://www.azquotes.com/quote/665382)
 ^^ lol wtf
+
+> "If nonsatiety were the natural state of human nature then aggressive want-stimulating advertising would not be necessary, nor would the barrage of novelty aimed at promoting dissatisfaction with last year's model. The system attempts to remake people to fit its own presuppositions. If people's wants are not naturally insatiable we must make them so, in order to keep the system going." - [Herman E. Daly](https://www.goodreads.com/quotes/250277-if-nonsatiety-were-the-natural-state-of-human-nature-then)
 
 > "Reclaim your mind and get it out of the hands of the cultural engineers who want to turn you into a half-baked moron consuming all this trash that's being manufactured out of the bones of a dying world." - [Terence McKenna](https://www.goodreads.com/quotes/1244995-reclaim-your-mind-and-get-it-out-of-the-hands)
 

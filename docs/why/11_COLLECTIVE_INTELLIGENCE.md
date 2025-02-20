@@ -506,6 +506,10 @@ the current host-centric world where platforms own our data and is siloed is pre
 ██████████████████████████████████████████████████████████████████
 
 
+> "Solving a problem simply means representing it so as to make the solution transparent." - [Herbert Simon](https://www.azquotes.com/quote/1314684)
+
+> "A complex decision is like a great river, drawing from its many tributaries the innumerable premises of which it is constituted." - [Herbert Simon](https://www.azquotes.com/quote/1346037)
+
 sunlight is the best disenfecatant
 the fastest way for pro social behaviors is to make sure everyone's reputation is on the line
 
@@ -703,6 +707,10 @@ what if we could signal preferences locally for what types of commercials we'd b
 ██████████████████████████████████████████████████████████████████
 # SECTION: voting & liquid democracy
 ██████████████████████████████████████████████████████████████████
+
+> "The ballot is stronger than the bullet." - [Abraham Lincoln](https://www.goodreads.com/quotes/15203-the-ballot-is-stronger-than-the-bullet)
+
+> "It's not the people who vote that count. It's the people who count the votes." - [Joseph Stalin](https://www.azquotes.com/quote/639772)
 
 Why Democracy Is Mathematically Impossible - Veritasium
 https://www.youtube.com/watch?v=qf7ws2DF-zk
@@ -1149,6 +1157,7 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 > "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
 
+> "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)
 
 How do we develop a global brain prefrontal cortex - to plan, model the future, delay gratification, and develop a capacity for impulse control?
 

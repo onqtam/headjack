@@ -506,6 +506,10 @@ When these principles are applied, they ensure that whatever structures are deve
 # SECTION: Subsidiarity / Hierarchy / holacracy
 ██████████████████████████████████████████████████████████████████
 
+
+> "Unless we establish some form of world government, it will not be possible for us to avert a World War III in the future." - [Winston Churchill](https://www.azquotes.com/quote/785081)
+
+
 As above, so below
 https://en.wikipedia.org/wiki/As_above,_so_below
 

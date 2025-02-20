@@ -301,6 +301,20 @@ https://en.wikipedia.org/wiki/Mortality_salience
 <img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
 
 
+> "Man cannot endure his own littleness unless he can translate it into meaningfulness on the largest possible level." - [Ernest Becker](https://www.goodreads.com/quotes/279205-man-cannot-endure-his-own-littleness-unless-he-can-translate)
+
+> "People try so hard to win converts for their point of view because it is more than merely an outlook on life: it is an immortality formula." - [Ernest Becker](https://www.goodreads.com/quotes/393070-when-we-are-young-we-are-often-puzzled-by-the)
+
+> "What does it mean to be a self-conscious animal? The idea is ludicrous, if it is not monstrous. It means to know that one is food for worms. This is the terror: to have emerged from nothing, to have a name, consiousness of self, deep inner feelings, an excruciating inner yearning for life and self-expression and with all this yet to die." - [Ernest Becker](https://www.goodreads.com/quotes/1324113-what-does-it-mean-to-be-a-self-conscious-animal-the)
+
+> "Man is literally split in two: he has an awareness of his own splendid uniqueness in that he sticks out of nature with a towering majesty, and yet he goes back into the ground a few feet in order blindly and dumbly to rot and disappear forever." - [Ernest Becker](https://www.goodreads.com/quotes/890179-man-is-literally-split-in-two-he-has-an-awareness)
+
+> "What man really fears is not so much extinction, but extinction with insignificance." - [Ernest Becker](https://www.azquotes.com/quote/864456)
+
+> "The crisis of modern society is precisely that the youth no longer feel heroic in the plan for action that their culture has set up. They don’t believe it is empirically true to the problems of their lives and times." - [Ernest Becker](https://www.goodreads.com/quotes/6746789-the-crisis-of-modern-society-is-precisely-that-the-youth)
+
+
+
 > "Rather than infinite consumption, let us reorient our civilization towards infinite work." - [Marko Jukic](https://x.com/mmjukic/status/1694369198695223637)
 
 
@@ -768,6 +782,11 @@ meme: Dad - what did you do - fucking legend - I helped revitalize civilization 
 
 > "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one." - [John Lennon](https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the)
 
+> "The best way to predict your future is to create it." - [Abraham Lincoln](https://www.goodreads.com/quotes/328848-the-best-way-to-predict-your-future-is-to-create)
+
+> "You cannot escape the responsibility of tomorrow by evading it today." - [Abraham Lincoln](https://www.goodreads.com/quotes/32184-you-cannot-escape-the-responsibility-of-tomorrow-by-evading-it)
+
+
 Sasquatch music festival 2009 - Guy starts dance party
 https://www.youtube.com/watch?v=GA8z7f7a2Pk
 
@@ -915,6 +934,9 @@ TODO: fix the exact time for the above link
 ██████████████████████████████████████████████████████████████████
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
+
+
+> "The point is that if the love object is divine perfection, then one’s own self is elevated by joining one’s destiny to it." - [Ernest Becker](https://www.goodreads.com/quotes/1310418-the-point-is-that-if-the-love-object-is-divine)
 
 > "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
 
@@ -1461,8 +1483,10 @@ But a problem not fully understood is unsolvable.
 
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
 
-
 > "The human mind is a story processor, not a logic processor." - [Jonathan Haidt](https://www.goodreads.com/quotes/1023735-the-human-mind-is-a-story-processor-not-a-logic)
+
+> "The world of human aspiration is largely fictitious and if we do not understand this we understand nothing about man." - [Ernest Becker](https://www.goodreads.com/quotes/1175284-the-world-of-human-aspiration-is-largely-fictitious-and-if)
+
 
 
 > "The number one priority for people today should be creating a winning, good attractor for our civilization." - [In Search of the 5th Attractor, by Jim Rutt](https://medium.com/@memetic007/fifth-attractor-6d1a54fcda2e#:~:text=the%20number%20one%20priority%20for%20people%20today%20should%20be%20creating%20a%20winning%2C%20good%20attractor%20for%20our%20civilization.)

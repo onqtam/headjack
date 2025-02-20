@@ -335,6 +335,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 # SECTION: Oligarchy & Regulatory Capture
 ██████████████████████████████████████████████████████████████████
 
+> "Unnecessary laws are not good laws, but traps for money." - [Thomas Hobbes](https://www.azquotes.com/quote/523503)
+
 > "The [Iron Law of Oligarchy](https://en.wikipedia.org/wiki/Iron_law_of_oligarchy) states that all organizations, including those committed to democratic ideals and practices, will inevitably succumb to rule by an elite few (an oligarchy). The theory states that true democracy can't happen mechanically, because a large number of people cannot coordinate or organize. Only small groups can organize. So whenever you have “democracy” or a large number of people who are supposed to coordinate, they simply can’t. So instead a small number of people who can coordinate seize all the power." - [DAOs and The Iron Law of Oligarchy, by Erik Torenberg](https://eriktorenberg.substack.com/p/daos-and-the-iron-law-of-oligarchy#:~:text=the%20Iron%20Law%20of%20Oligarchy%20states,can%20coordinate%20seize%20all%20the%20power.)
 
 > "The cycle from democracy to oligarchy often looks like this:
@@ -422,7 +424,11 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
 > "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
 
+> "Not to punish evil is equivalent to authorizing it." - [Leonardo da Vinci](https://www.azquotes.com/quote/1080575)
+
 > "The actual control planes of the system are tenured or inherited — not elected." - [Balaji Srinivasan](https://x.com/balajis/status/1815190452251038133)
+
+> "Victory has a hundred fathers and defeat is an orphan." - [John F. Kennedy](https://www.goodreads.com/quotes/41024-victory-has-a-hundred-fathers-and-defeat-is-an-orphan)
 
 > "Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9104212-bureaucracy-is-a-construction-by-which-a-person-is-conveniently)
 
@@ -505,6 +511,9 @@ We can literally find ourselves in the situation of the movie dont look up
 ██████████████████████████████████████████████████████████████████
 
 > "History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all." - [Will Durant](https://www.goodreads.com/quotes/1055330-history-reports-that-the-men-who-can-manage-men-manage)
+
+> "History records that the money changers have used every form of abuse, intrigue, deceit, and violent means possible to maintain their control over governments by controlling money and it's issuance." - [James Madison](https://www.goodreads.com/quotes/161878-history-records-that-the-money-changers-have-used-every-form)
+
 
 https://www.youtube.com/watch?v=jk_HWmmwiAs
 How Money & Banking Work (& why they're broken today), by Lyn Alden
@@ -750,6 +759,12 @@ Philip morris Indonesia kids
 
 > "Each murder is one too many." - [Jürgen Habermas](https://www.azquotes.com/quote/994093)
 
+> "If tyranny and oppression come to this land, it will be in the guise of fighting a foreign enemy." - [James Madison](https://www.goodreads.com/quotes/1184946-if-tyranny-and-oppression-come-to-this-land-it-will)
+
+> "War against a foreign country only happens when the moneyed classes think they are going to profit from it." - [George Orwell](https://www.azquotes.com/quote/221214)
+
+> "All the war-propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting." - [George Orwell](https://www.azquotes.com/quote/221215)
+
 > "This is a difference between nuclear weapons and bayonets. It is not in the number of people they can eventually kill but in the speed with which it can be done, in the centralization of decision, in the divorce of the war from political processes, and in computerized programs that threaten to take the war out of human hands once it begins." - [Thomas C. Schelling](https://www.goodreads.com/quotes/9241963-this-is-a-difference-between-nuclear-weapons-and-bayonets-it)
 
 the biggest contributor as an entity to global warming is The Pentagon
@@ -871,6 +886,13 @@ https://underthrow.substack.com/p/the-constitution-is-dead?sd=pf#:~:text=In%20th
 
 Climate Change Is Inevitable - 10 page summary of most of what's going to happen
 https://www.palladiummag.com/2021/03/06/climate-change-is-inevitable/
+
+> "The economy is a wholly owned subsidiary of the environment, not the reverse." - [Herman E. Daly](https://www.goodreads.com/quotes/250276-the-economy-is-a-wholly-owned-subsidiary-of-the-environment)
+
+> "There is something fundamentally wrong in treating the Earth as if it were a business in liquidation." - [Herman E. Daly](https://www.goodreads.com/quotes/16932-there-is-something-fundamentally-wrong-in-treating-the-earth-as)
+
+> "Malthus has been buried many times, and Malthusian scarcity with him. But as Garrett Hardin remarked, anyone who has to be reburied so often cannot be entirely dead." - [Herman E. Daly](https://www.goodreads.com/quotes/16929-malthus-has-been-buried-many-times-and-malthusian-scarcity-with)
+
 
 > "Humans and their livestock represent 96% of all mammals on earth in terms of biomass, whereas all wild mammals represent only 4%." - [Wikipedia article on Biomass](https://en.wikipedia.org/wiki/Biomass_(ecology)#:~:text=Humans%20and%20their%20livestock%20represent%2096%25%20of%20all%20mammals%20on%20earth%20in%20terms%20of%20biomass%2C%20whereas%20all%20wild%20mammals%20represent%20only%204%25.)
 ^^ just think a bit about that. Think about overfishing. Think about all the ways it could go wrong. And if you can't think about that - you should be able to explore what others have thought about it.

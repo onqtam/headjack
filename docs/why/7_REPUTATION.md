@@ -537,6 +537,9 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 
 > "We know that equality of individual ability has never existed and never will, but we do insist that equality of opportunity still must be sought." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/522436)
 
+> "Achievement has no color." - [Abraham Lincoln](https://www.goodreads.com/quotes/137323-achievement-has-no-color)
+
+
 Meritocracy and Topocracy of Networks - Cesar Hidalgo
 https://www.youtube.com/watch?v=CTJ8TAMv3sk
 

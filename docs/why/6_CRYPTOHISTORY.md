@@ -110,6 +110,8 @@ The only way to make something truly self-authenticating in perpetuity is to tim
 
 > "The blockchain is the most important development in history since the advent of writing itself, as it’s a cryptographically verifiable, highly replicated, unfalsifiable, and provably complete digital record of a system." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/god-state-network#:~:text=the%20blockchain%20is%20the%20most%20important%20development%20in%20history%20since%20the%20advent%20of%20writing%20itself%2C%20as%20it%E2%80%99s%20a%20cryptographically%20verifiable%2C%20highly%20replicated%2C%20unfalsifiable%2C%20and%20provably%20complete%20digital%20record%20of%20a%20system.)
 
+> "The falsification of history has done more to impede human development than any one thing known to mankind." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/834144)
+
 
 > "Dude, I already can’t remember the significance of things that I was urged were of apocalyptic import a few years ago. Will we remember them? No—because structurally the assault is on memory itself in issue after issue. A memory is a drag on action. It causes you to raise your hand and go, wait a second." - [Walter Kirn on How America Lost the Plot, Palladium Magazine](https://www.palladiummag.com/2023/07/25/walter-kirn-on-how-america-lost-the-plot/)
 

@@ -412,60 +412,21 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 > "Hell is truth seen too late." - [Thomas Hobbes](https://www.goodreads.com/quotes/622711-hell-is-truth-seen-too-late)
 
-> "Unnecessary laws are not good laws, but traps for money." - [Thomas Hobbes](https://www.azquotes.com/quote/523503)
-
 
 
 > "As soon as any man says of the affairs of the State "What does it matter to me?" the State may be given up for lost." - [Jean-Jacques Rousseau](https://www.goodreads.com/quotes/371894-as-soon-as-any-man-says-of-the-affairs-of)
 
-> "Freedom is the power to choose our own chains." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/371725)
-
-> "One can buy anything with money except morality." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/1117236)
-
-> "The falsification of history has done more to impede human development than any one thing known to mankind." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/834144)
-
-> "Those people who treat politics and morality separately will never understand either of them." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/688553)
 
 
 
-> "History records that the money changers have used every form of abuse, intrigue, deceit, and violent means possible to maintain their control over governments by controlling money and it's issuance." - [James Madison](https://www.goodreads.com/quotes/161878-history-records-that-the-money-changers-have-used-every-form)
 
-> "If tyranny and oppression come to this land, it will be in the guise of fighting a foreign enemy." - [James Madison](https://www.goodreads.com/quotes/1184946-if-tyranny-and-oppression-come-to-this-land-it-will)
+
 
 
 
 > "Two truths cannot contradict one another." - [Galileo Galilei](https://www.azquotes.com/quote/573723)
 
 > "Measure what can be measured, and make measureable what cannot be measured." - [Galileo Galilei](https://www.azquotes.com/quote/905195)
-
-
-
-> "The further a society drifts from truth the more it will hate those who speak it." - [George Orwell](https://www.azquotes.com/quote/498864)
-
-> "War against a foreign country only happens when the moneyed classes think they are going to profit from it." - [George Orwell](https://www.azquotes.com/quote/221214)
-
-> "All the war-propaganda, all the screaming and lies and hatred, comes invariably from people who are not fighting." - [George Orwell](https://www.azquotes.com/quote/221215)
-
-> "Journalism is printing what someone else does not want printed: everything else is public relations." - [George Orwell](https://www.azquotes.com/quote/364418)
-
-
-
-
-> "Man cannot endure his own littleness unless he can translate it into meaningfulness on the largest possible level." - [Ernest Becker](https://www.goodreads.com/quotes/279205-man-cannot-endure-his-own-littleness-unless-he-can-translate)
-
-> "People try so hard to win converts for their point of view because it is more than merely an outlook on life: it is an immortality formula." - [Ernest Becker](https://www.goodreads.com/quotes/393070-when-we-are-young-we-are-often-puzzled-by-the)
-
-> "What does it mean to be a self-conscious animal? The idea is ludicrous, if it is not monstrous. It means to know that one is food for worms. This is the terror: to have emerged from nothing, to have a name, consiousness of self, deep inner feelings, an excruciating inner yearning for life and self-expression and with all this yet to die." - [Ernest Becker](https://www.goodreads.com/quotes/1324113-what-does-it-mean-to-be-a-self-conscious-animal-the)
-
-> "Man is literally split in two: he has an awareness of his own splendid uniqueness in that he sticks out of nature with a towering majesty, and yet he goes back into the ground a few feet in order blindly and dumbly to rot and disappear forever." - [Ernest Becker](https://www.goodreads.com/quotes/890179-man-is-literally-split-in-two-he-has-an-awareness)
-
-> "The point is that if the love object is divine perfection, then one’s own self is elevated by joining one’s destiny to it." - [Ernest Becker](https://www.goodreads.com/quotes/1310418-the-point-is-that-if-the-love-object-is-divine)
-
-> "The crisis of modern society is precisely that the youth no longer feel heroic in the plan for action that their culture has set up. They don’t believe it is empirically true to the problems of their lives and times." - [Ernest Becker](https://www.goodreads.com/quotes/6746789-the-crisis-of-modern-society-is-precisely-that-the-youth)
-
-> "The world of human aspiration is largely fictitious and if we do not understand this we understand nothing about man." - [Ernest Becker](https://www.goodreads.com/quotes/1175284-the-world-of-human-aspiration-is-largely-fictitious-and-if)
-
-> "What man really fears is not so much extinction, but extinction with insignificance." - [Ernest Becker](https://www.azquotes.com/quote/864456)
 
 
 
@@ -496,35 +457,21 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "My view of the internet is that it is way overrated in what it’s done to date but considerably underrated in what it will do." - [Tyler Cowen](https://www.azquotes.com/quote/790439)
-
-
-
-> "The economy is a wholly owned subsidiary of the environment, not the reverse." - [Herman E. Daly](https://www.goodreads.com/quotes/250276-the-economy-is-a-wholly-owned-subsidiary-of-the-environment)
-
-> "There is something fundamentally wrong in treating the Earth as if it were a business in liquidation." - [Herman E. Daly](https://www.goodreads.com/quotes/16932-there-is-something-fundamentally-wrong-in-treating-the-earth-as)
-
-> "If nonsatiety were the natural state of human nature then aggressive want-stimulating advertising would not be necessary, nor would the barrage of novelty aimed at promoting dissatisfaction with last year's model. The system attempts to remake people to fit its own presuppositions. If people's wants are not naturally insatiable we must make them so, in order to keep the system going." - [Herman E. Daly](https://www.goodreads.com/quotes/250277-if-nonsatiety-were-the-natural-state-of-human-nature-then)
-
-> "Malthus has been buried many times, and Malthusian scarcity with him. But as Garrett Hardin remarked, anyone who has to be reburied so often cannot be entirely dead." - [Herman E. Daly](https://www.goodreads.com/quotes/16929-malthus-has-been-buried-many-times-and-malthusian-scarcity-with)
-
-> "Future progress simply must be made in terms of the things that really count rather than the things that are merely countable." - [Herman E. Daly](https://www.goodreads.com/quotes/7227811-future-progress-simply-must-be-made-in-terms-of-the)
-
-
-
-> "Teaching is not entertainment, but it is unlikely to be successful unless it is interesting." - [Herbert Simon](https://www.goodreads.com/quotes/9126681-teaching-is-not-entertainment-but-it-is-unlikely-to-be)
-
-> "Solving a problem simply means representing it so as to make the solution transparent." - [Herbert Simon](https://www.azquotes.com/quote/1314684)
-
-> "A complex decision is like a great river, drawing from its many tributaries the innumerable premises of which it is constituted." - [Herbert Simon](https://www.azquotes.com/quote/1346037)
-
-> "The intelligent altruists, though less altruistic than unintelligent altruists, will be fitter than both unintelligent altruists and selfish individuals." - [Herbert Simon](https://www.azquotes.com/quote/1177956)
 
 
 
 
 
-> "The greatest challenge today, not just in cell biology and ecology but in all of science, is the accurate and complete description of complex systems." - [Edward O. Wilson](https://www.goodreads.com/quotes/10317579-the-greatest-challenge-today-not-just-in-cell-biology-and)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -541,70 +488,18 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)
 
 
-
-> "Most of what we call civilization depends on reciprocal vulnerability." - [Thomas Schelling](https://www.armscontrolwonk.com/archive/1209738/heroes-of-arms-control-thomas-schelling/#:~:text=Most%20of%20what%20we%20call%20civilization%20depends%20on%20reciprocal%20vulnerability.)
-
-
-> "Not to punish evil is equivalent to authorizing it." - [Leonardo da Vinci](https://www.azquotes.com/quote/1080575)
-
-
-
-
-
-> "Unless we establish some form of world government, it will not be possible for us to avert a World War III in the future." - [Winston Churchill](https://www.azquotes.com/quote/785081)
 
 > "The difference between mere management and leadership is communication." - [Winston Churchill](https://www.azquotes.com/quote/895708)
 
 
 
 
-> "It's not the people who vote that count. It's the people who count the votes." - [Joseph Stalin](https://www.azquotes.com/quote/639772)
-
-
-> "Science is organized knowledge. Wisdom is organized life." - [Will Durant](https://www.goodreads.com/quotes/11764-science-is-organized-knowledge-wisdom-is-organized-life)
 
 
 
 
-
-> "Do I not destroy my enemies when I make them my friends?" - [Abraham Lincoln](https://www.goodreads.com/quotes/10667-do-i-not-destroy-my-enemies-when-i-make-them)
-
-> "When I do good, I feel good. When I do bad, I feel bad. That's my religion." - [Abraham Lincoln](https://www.goodreads.com/quotes/7941-when-i-do-good-i-feel-good-when-i-do)
-
-> "The best way to predict your future is to create it." - [Abraham Lincoln](https://www.goodreads.com/quotes/328848-the-best-way-to-predict-your-future-is-to-create)
-
-> "I have always found that mercy bears richer fruits than strict justice." - [Abraham Lincoln](https://www.goodreads.com/quotes/23675-i-have-always-found-that-mercy-bears-richer-fruits-than)
-
-> "You cannot escape the responsibility of tomorrow by evading it today." - [Abraham Lincoln](https://www.goodreads.com/quotes/32184-you-cannot-escape-the-responsibility-of-tomorrow-by-evading-it)
-
-> "Achievement has no color." - [Abraham Lincoln](https://www.goodreads.com/quotes/137323-achievement-has-no-color)
-
-> "The greatest fine art of the future will be the making of a comfortable living from a small piece of land." - [Abraham Lincoln](https://www.goodreads.com/quotes/36568-the-greatest-fine-art-of-the-future-will-be-the)
-
-> "The ballot is stronger than the bullet." - [Abraham Lincoln](https://www.goodreads.com/quotes/15203-the-ballot-is-stronger-than-the-bullet)
-
-> "If there is anything that links the human to the divine, it is the courage to stand by a principle when everybody else rejects it." - [Abraham Lincoln](https://www.goodreads.com/quotes/322696-if-there-is-anything-that-links-the-human-to-the)
-
-> "No man stands so tall as when he stoops to help a child." - [Abraham Lincoln](https://www.goodreads.com/quotes/43167-no-man-stands-so-tall-as-when-he-stoops-to)
-
-> "Commitment is what transforms a promise into reality." - [Abraham Lincoln](https://www.goodreads.com/quotes/340549-commitment-is-what-transforms-a-promise-into-reality)
-
-> "I am nothing, truth is everything." - [Abraham Lincoln](https://www.goodreads.com/quotes/136559-i-am-nothing-truth-is-everything)
-
-> "You must remember that some things legally right are not morally right." - [Abraham Lincoln](https://www.azquotes.com/quote/730407)
-
-> "When you make it to the top, turn and reach down for the person behind you." - [Abraham Lincoln](https://www.azquotes.com/quote/1123411)
-
-> "A nation that does not honor its heroes will not long endure." - [Abraham Lincoln](https://www.azquotes.com/quote/856201)
-
-
-
-
-
-> "Victory has a hundred fathers and defeat is an orphan." - [John F. Kennedy](https://www.goodreads.com/quotes/41024-victory-has-a-hundred-fathers-and-defeat-is-an-orphan)
 
 
 

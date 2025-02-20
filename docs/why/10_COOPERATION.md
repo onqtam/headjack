@@ -106,8 +106,22 @@ The concepts of price of anarchy and price of stability were introduced to captu
 > "The arc of the moral universe is long but it bends toward cooperation." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: vulnerability & leap of faith & forgiveness
+██████████████████████████████████████████████████████████████████
+
+> "Most of what we call civilization depends on reciprocal vulnerability." - [Thomas Schelling](https://www.armscontrolwonk.com/archive/1209738/heroes-of-arms-control-thomas-schelling/#:~:text=Most%20of%20what%20we%20call%20civilization%20depends%20on%20reciprocal%20vulnerability.)
+
+> "I have always found that mercy bears richer fruits than strict justice." - [Abraham Lincoln](https://www.goodreads.com/quotes/23675-i-have-always-found-that-mercy-bears-richer-fruits-than)
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Morality, Compassion & Empathy
 ██████████████████████████████████████████████████████████████████
+
+
+> "Those people who treat politics and morality separately will never understand either of them." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/688553)
+
+> "One can buy anything with money except morality." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/1117236)
 
 > "I have made the most important discovery of my career, the most important discovery of my life: It is only in the mysterious equations of love that any logic or reasons can be found." - [John Forbes Nash](https://www.azquotes.com/quote/526908)
 
@@ -115,6 +129,7 @@ The concepts of price of anarchy and price of stability were introduced to captu
 
 > "Desire nothing for yourself, which you do not desire for others." - [Baruch Spinoza](https://www.azquotes.com/quote/839656)
 
+> "When I do good, I feel good. When I do bad, I feel bad. That's my religion." - [Abraham Lincoln](https://www.goodreads.com/quotes/7941-when-i-do-good-i-feel-good-when-i-do)
 
 > "To neglect the common ground with other primates, and to deny the evolutionary roots of human morality, would be like arriving at the top of a tower to declare that the rest of the building is irrelevant, that the precious concept of "tower" ought to be reserved for the summit." - [Frans de Waal](https://www.azquotes.com/quote/1390053)
 
@@ -136,6 +151,7 @@ The concepts of price of anarchy and price of stability were introduced to captu
 
 > "The world's a poor standard. Any society which is free of hunger and violence looks bright against that background." - [B. F. Skinner](https://www.goodreads.com/quotes/451077-the-world-s-a-poor-standard-any-society-which-is-free)
 
+> "Do I not destroy my enemies when I make them my friends?" - [Abraham Lincoln](https://www.goodreads.com/quotes/10667-do-i-not-destroy-my-enemies-when-i-make-them)
 
 
 > "All you need is love." - [John Lennon](https://www.goodreads.com/quotes/432663-all-you-need-is-love)
@@ -192,6 +208,10 @@ Oliver Scott Curry _ Moral problems_ a Popperian approach
 > "In the end... success or failure will come down to an ethical decision, one on which those now living will be judged for generations to come." - [Edward O. Wilson](https://www.goodreads.com/quotes/150248-in-the-end-success-or-failure-will-come-down)
 
 > "Those who consume far more resources than they require destroy the life chances of those whose survival depends upon consuming more." - [George Monbiot](https://www.azquotes.com/quote/841038)
+
+> "You must remember that some things legally right are not morally right." - [Abraham Lincoln](https://www.azquotes.com/quote/730407)
+
+> "When you make it to the top, turn and reach down for the person behind you." - [Abraham Lincoln](https://www.azquotes.com/quote/1123411)
 
 > "We have more than enough to take care of everybody on earth at this time. If we have a shortage of anything, it's very easy for science to make a substitute material. There's no shortage of anything except brains in Washington." - [Jacque Fresco](https://www.azquotes.com/quote/728486)
 
@@ -282,6 +302,8 @@ What if web3 is not "the Internet of value" as in transactional value, but the i
 
 > "War, poverty, corruption, hunger, misery, human suffering will not change in a monetary system. That is, there will be very little significant change. It’s going to take the redesign of our culture and values." - [Jacque Fresco](https://www.azquotes.com/quote/728457)
 
+> "No man stands so tall as when he stops to help a child." - [Abraham Lincoln](https://www.goodreads.com/quotes/43167-no-man-stands-so-tall-as-when-he-stoops-to)
+
 > "Everyone talking about product-market fit. Nobody talking about user-values fit. And we’re supposed to solve AI Alignment?" - [Peter Wang](https://twitter.com/pwang/status/1743377594366496788)
 
 > "We argue that human agents learn the shared habits, norms, and expectations of their culture through immersive participation in patterned cultural practices that selectively pattern attention and behaviour. We call this process “thinking through other minds” (TTOM) – in effect, the process of inferring other agents’ expectations about the world and how to behave in social context. We argue that for humans, information from and about other people's expectations constitutes the primary domain of statistical regularities that humans leverage to predict and organize behaviour." - [Thinking through other minds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/thinking-through-other-minds-a-variational-approach-to-cognition-and-culture/9A10399BA85F428D5943DD847092C14A#:~:text=We%20argue%20that,and%20organize%20behaviour.)
@@ -370,13 +392,15 @@ We need to define property rights and ownership and taxation through morality
 # SECTION: Constraints
 ██████████████████████████████████████████████████████████████████
 
-Constraints are freedom
+> "Freedom is the power to choose our own chains." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/371725)
 
 > "In my youth I stressed freedom, and in my old age I stress order. I have made the great discovery that liberty is a product of order." - [Will Durant](https://www.azquotes.com/quote/83462)
 
 > "When liberty destroys order the hunger for order will destroy liberty." - [Will Durant](https://www.azquotes.com/quote/567559)
 
 > "Freedom is obedience to self-formulated rules." - [Aristotle](https://www.goodreads.com/quotes/671308-freedom-is-obedience-to-self-formulated-rules)
+
+> "Commitment is what transforms a promise into reality." - [Abraham Lincoln](https://www.goodreads.com/quotes/340549-commitment-is-what-transforms-a-promise-into-reality)
 
 > "The question is never whether you can keep all of your sovereignty; history says you can’t; all along it has been the fate of humankind to have its fate increasingly shared." - [Robert Wright](https://books.google.bg/books?id=-KTPK5XipEgC&pg=PT303&lpg=PT303&dq=%22The+question+is+never+whether+you+can+keep+all+of+your+sovereignty;+history+says+you+can%E2%80%99t;+all+along+it+has+been+the+fate+of+humankind+to+have+its+fate+increasingly+shared.%22&source=bl&ots=SlmIyHEKDw&sig=ACfU3U0LWKvZstk83f8nZq8c39-9PXwulg&hl=en&sa=X&ved=2ahUKEwiQr4ab0s2BAxVe1wIHHbaoCVkQ6AF6BAgNEAM#v=onepage&q=%22The%20question%20is%20never%20whether%20you%20can%20keep%20all%20of%20your%20sovereignty%3B%20history%20says%20you%20can%E2%80%99t%3B%20all%20along%20it%20has%20been%20the%20fate%20of%20humankind%20to%20have%20its%20fate%20increasingly%20shared.%22&f=false)
 
@@ -670,6 +694,7 @@ https://en.wikipedia.org/wiki/Focal_point_(game_theory)
 # SECTION: Cooperation, Altruism & Management Theory
 ██████████████████████████████████████████████████████████████████
 
+> "The intelligent altruists, though less altruistic than unintelligent altruists, will be fitter than both unintelligent altruists and selfish individuals." - [Herbert Simon](https://www.azquotes.com/quote/1177956)
 
 > "If everybody here plays generous [Tit-for-tat](https://en.wikipedia.org/wiki/Tit_for_tat), and I play always cooperate, I'm a neutral mutant, I have no disadvantage. Random drift can lead to the takeover of the neutral mutant. Or, in other words, if birds go to an island where there are no predators, they lose their ability to fly. A biological trait, to be evolutionary stable, must be under selection. The retaliation, sometimes retaliation against defection goes out if nobody's trying to defect. So you've got to always cooperate by random drift. But if we'd always cooperate, now we can guess what happens next: we invite Always defect. You have oscillations here, you have a mathematical model of human history, of economic cycles, of ups and downs.
 >
