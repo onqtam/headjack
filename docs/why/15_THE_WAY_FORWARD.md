@@ -858,7 +858,6 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 
 > "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)
-
 > "No army can withstand the strength of an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/2302-no-army-can-withstand-the-strength-of-an-idea-whose)
 
 > "I love this metaphor because it shows us why, first of all, we who want to change the world are co-existing with the old system for a while and why there's no point in attacking the old system because you know the caterpillar is unsustainable so it's going to die. What we have to focus on is “can we build a viable butterfly?” A butterfly that really can fly because that's not guaranteed." - [After Darwin, by Elisabet Sahtouris](https://ratical.org/LifeWeb/Articles/AfterDarwin.html#fn9:~:text=I%20love%20this,that%27s%20not%20guaranteed.)
