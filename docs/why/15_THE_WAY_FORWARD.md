@@ -301,6 +301,8 @@ https://en.wikipedia.org/wiki/Mortality_salience
 <img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
 
 
+> "The best way to find yourself is to lose yourself in the service of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/11416-the-best-way-to-find-yourself-is-to-lose-yourself)
+
 > "Man cannot endure his own littleness unless he can translate it into meaningfulness on the largest possible level." - [Ernest Becker](https://www.goodreads.com/quotes/279205-man-cannot-endure-his-own-littleness-unless-he-can-translate)
 
 > "People try so hard to win converts for their point of view because it is more than merely an outlook on life: it is an immortality formula." - [Ernest Becker](https://www.goodreads.com/quotes/393070-when-we-are-young-we-are-often-puzzled-by-the)
@@ -855,6 +857,7 @@ https://miro.medium.com/v2/resize:fit:750/format:webp/1*kcOXjwc4qu3C1zf7wmq1ow.p
 
 > "Kites rise highest against the wind, not with it." - [Winston Churchill](https://www.goodreads.com/quotes/11419-kites-rise-highest-against-the-wind-not-with-it)
 
+> "I know not what the future holds, but I know who holds the future." - [Homer](https://www.goodreads.com/quotes/594969-i-know-not-what-the-future-holds-but-i-know)
 
 
 > "Nothing is more powerful than an idea whose time has come." - [Victor Hugo](https://www.goodreads.com/quotes/381646-nothing-is-more-powerful-than-an-idea-whose-time-has)

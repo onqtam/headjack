@@ -316,6 +316,8 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 
 > "Knowledge, like air, is vital to life. Like air, no one should be denied it." - [V](https://www.goodreads.com/quotes/423650-knowledge-like-air-is-vital-to-life-like-air-no)
 
+how to fund free books - relative to their popularity and recognition - in the commons
+
 
 
 ██████████████████████████████████████████████████████████████████
@@ -507,6 +509,9 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 
 > "Our beds are empty two-thirds of the time. Our living rooms are empty seven-eighths of the time. Our office buildings are empty one-half of the time. It's time we gave this some thought." - [R. Buckminster Fuller](https://www.azquotes.com/quote/945085)
 
+> "Live simply so that others may simply live." - [Mahatma Gandhi](https://www.goodreads.com/quotes/286133-live-simply-so-that-others-may-simply-live)
+
+
 == You will own nothing, and be happy
 Few people could predict uber and airbnb - most were extremely sceptical. The same will be true for the sharing economy
 
@@ -596,6 +601,7 @@ Not everything has to make a profit - we can and should think of what truly need
 
 > "The greatest fine art of the future will be the making of a comfortable living from a small piece of land." - [Abraham Lincoln](https://www.goodreads.com/quotes/36568-the-greatest-fine-art-of-the-future-will-be-the)
 
+> "The true measure of any society can be found in how it treats its most vulnerable members." - [Mahatma Gandhi](https://www.azquotes.com/quote/877037)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Concentrated power

@@ -282,6 +282,14 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "My view of the internet is that it is way overrated in what it’s done to date but considerably underrated in what it will do." - [Tyler Cowen](https://www.azquotes.com/quote/790439)
 
+> "Everything flows and nothing stays." - [Homer](https://www.azquotes.com/quote/588324)
+
+> "The blade itself incites to deeds of violence." - [Homer](https://www.goodreads.com/quotes/368547-the-blade-itself-incites-to-deeds-of-violence)
+
+> "Our ability to reach unity in diversity will be the beauty and the test of our civilisation." - [Mahatma Gandhi](https://www.goodreads.com/quotes/7352037-our-ability-to-reach-unity-in-diversity-will-be-the)
+
+> "Our greatest ability as humans is not to change the world; but to change ourselves." - [Mahatma Gandhi](https://www.azquotes.com/quote/850719)
+
 
 
 

@@ -893,6 +893,7 @@ https://www.palladiummag.com/2021/03/06/climate-change-is-inevitable/
 
 > "Malthus has been buried many times, and Malthusian scarcity with him. But as Garrett Hardin remarked, anyone who has to be reburied so often cannot be entirely dead." - [Herman E. Daly](https://www.goodreads.com/quotes/16929-malthus-has-been-buried-many-times-and-malthusian-scarcity-with)
 
+> "The illusion of the viability of unlimited growth is maintained by economists who refuse to include the social and environmental costs of economic activities in their theories." - [Fritjof Capra](https://www.goodreads.com/quotes/11650877-the-illusion-of-the-viability-of-unlimited-growth-is-maintained)
 
 > "Humans and their livestock represent 96% of all mammals on earth in terms of biomass, whereas all wild mammals represent only 4%." - [Wikipedia article on Biomass](https://en.wikipedia.org/wiki/Biomass_(ecology)#:~:text=Humans%20and%20their%20livestock%20represent%2096%25%20of%20all%20mammals%20on%20earth%20in%20terms%20of%20biomass%2C%20whereas%20all%20wild%20mammals%20represent%20only%204%25.)
 ^^ just think a bit about that. Think about overfishing. Think about all the ways it could go wrong. And if you can't think about that - you should be able to explore what others have thought about it.

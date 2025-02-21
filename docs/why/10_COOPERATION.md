@@ -62,6 +62,8 @@ https://x.com/StefanFSchubert/status/1646881900508635139
 
 > "Competition has been shown to be useful up to a certain point and no further, but cooperation, which is the thing we must strive for today, begins where competition leaves off." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/423760-competition-has-been-shown-to-be-useful-up-to-a)
 
+> "In the end, the aggressors always destroy themselves, making way for others who know how to cooperate and get along. Life is much less a competitive struggle for survival than a triumph of cooperation and creativity." - [Fritjof Capra](https://www.azquotes.com/quote/673791)
+
 What Game Theory Reveals About Life, The Universe, and Everything
 https://www.youtube.com/watch?v=mScpHTIi-kM
 
@@ -113,6 +115,7 @@ The concepts of price of anarchy and price of stability were introduced to captu
 
 > "I have always found that mercy bears richer fruits than strict justice." - [Abraham Lincoln](https://www.goodreads.com/quotes/23675-i-have-always-found-that-mercy-bears-richer-fruits-than)
 
+> "An eye for an eye will only make the whole world blind." - [Mahatma Gandhi](https://www.goodreads.com/quotes/4553-an-eye-for-an-eye-will-only-make-the-whole)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Morality, Compassion & Empathy
@@ -152,6 +155,12 @@ The concepts of price of anarchy and price of stability were introduced to captu
 > "The world's a poor standard. Any society which is free of hunger and violence looks bright against that background." - [B. F. Skinner](https://www.goodreads.com/quotes/451077-the-world-s-a-poor-standard-any-society-which-is-free)
 
 > "Do I not destroy my enemies when I make them my friends?" - [Abraham Lincoln](https://www.goodreads.com/quotes/10667-do-i-not-destroy-my-enemies-when-i-make-them)
+
+> "It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business." - [Mahatma Gandhi](https://www.goodreads.com/quotes/32774-it-is-easy-enough-to-be-friendly-to-one-s-friends)
+
+> "You cannot shake hands with a clenched fist." - [Mahatma Gandhi](https://www.goodreads.com/quotes/309773-you-cannot-shake-hands-with-a-clenched-fist)
+
+> "I call him religious who understands the suffering of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/79037-i-call-him-religious-who-understands-the-suffering-of-others)
 
 
 > "All you need is love." - [John Lennon](https://www.goodreads.com/quotes/432663-all-you-need-is-love)

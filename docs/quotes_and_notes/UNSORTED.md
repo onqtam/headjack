@@ -46,43 +46,26 @@
 
 > "Thinking systemically, we will recognize the major problems of our time as systemic problems—all interconnected and interdependent." - [Fritjof Capra](https://www.goodreads.com/quotes/11650864-thinking-systemically-we-will-recognize-the-major-problems-of-our)
 
-> "The illusion of the viability of unlimited growth is maintained by economists who refuse to include the social and environmental costs of economic activities in their theories." - [Fritjof Capra](https://www.goodreads.com/quotes/11650877-the-illusion-of-the-viability-of-unlimited-growth-is-maintained)
-
 > "Because of its narrow, reductionist framework, conventional economics is inherently anti-ecological. Whereas the surrounding ecosystems are self-balancing and self-adjusting organic wholes, our current economies and technologies recognize no self-limiting principle. Undifferentiated growth—economic, technological, and institutional—is still regarded by most economists as a sign of a “healthy” economy, although it is now causing ecological disasters, widespread corporate crime, social disintegration, and the ever increasing likelihood of nuclear war." - [Fritjof Capra](https://www.goodreads.com/quotes/11643893-because-of-its-narrow-reductionist-framework-conventional-economics-is-inherently)
-
-> "In the end, the aggressors always destroy themselves, making way for others who know how to cooperate and get along. Life is much less a competitive struggle for survival than a triumph of cooperation and creativity." - [Fritjof Capra](https://www.azquotes.com/quote/673791)
 
 > "The new paradigm may be called a holistic world view, seeing the world as an integrated whole rather than a dissociated collection of parts. It may also be called an ecological view, if the term "ecological" is used in a much broader and deeper sense than usual. Deep ecological awareness recognizes the fundamental interdependence of all phenomena and the fact that, as individuals and societies we are all embedded in (and ultimately dependent on) the cyclical process of nature." - [Fritjof Capra](https://www.azquotes.com/quote/1100867)
 
 
 
-> "Everything flows and nothing stays." - [Homer](https://www.azquotes.com/quote/588324)
-
-> "I know not what the future holds, but I know who holds the future." - [Homer](https://www.goodreads.com/quotes/594969-i-know-not-what-the-future-holds-but-i-know)
-
-> "The blade itself incites to deeds of violence." - [Homer](https://www.goodreads.com/quotes/368547-the-blade-itself-incites-to-deeds-of-violence)
 
 
 
-> "The true measure of any society can be found in how it treats its most vulnerable members." - [Mahatma Gandhi](https://www.azquotes.com/quote/877037)
 
-> "The best way to find yourself is to lose yourself in the service of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/11416-the-best-way-to-find-yourself-is-to-lose-yourself)
 
-> "An eye for an eye will only make the whole world blind." - [Mahatma Gandhi](https://www.goodreads.com/quotes/4553-an-eye-for-an-eye-will-only-make-the-whole)
 
-> "It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business." - [Mahatma Gandhi](https://www.goodreads.com/quotes/32774-it-is-easy-enough-to-be-friendly-to-one-s-friends)
 
-> "You cannot shake hands with a clenched fist." - [Mahatma Gandhi](https://www.goodreads.com/quotes/309773-you-cannot-shake-hands-with-a-clenched-fist)
 
-> "Live simply so that others may simply live." - [Mahatma Gandhi](https://www.goodreads.com/quotes/286133-live-simply-so-that-others-may-simply-live)
 
-> "I call him religious who understands the suffering of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/79037-i-call-him-religious-who-understands-the-suffering-of-others)
 
-> "Our ability to reach unity in diversity will be the beauty and the test of our civilisation." - [Mahatma Gandhi](https://www.goodreads.com/quotes/7352037-our-ability-to-reach-unity-in-diversity-will-be-the)
+
 
 > "I want freedom for the full expression of my personality." - [Mahatma Gandhi](https://www.goodreads.com/quotes/82961-i-want-freedom-for-the-full-expression-of-my-personality)
 
-> "Our greatest ability as humans is not to change the world; but to change ourselves." - [Mahatma Gandhi](https://www.azquotes.com/quote/850719)
 
 
 
@@ -5663,7 +5646,12 @@ Contribution rights > property rights
 
 Emergent World Order
 
+universal basic humble pie - let everyone participate in forecasting and let the rules sort out who's actually worth listening to
+so many people have so many opinions about how the world works and about war and conflict and whatnot - we MUST sort this out in a way such that we can all agree on the answer/result
+
 we need to properly sort people in order to properly sort opinions on what we should be doing - individually and collectively
+
+the best way to help your movement is to signal it and the best ways to find worthwhile movements is to see which are trending and who is supporting them
 
 
 > "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
