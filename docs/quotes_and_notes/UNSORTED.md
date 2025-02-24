@@ -5653,6 +5653,13 @@ we need to properly sort people in order to properly sort opinions on what we sh
 
 the best way to help your movement is to signal it and the best ways to find worthwhile movements is to see which are trending and who is supporting them
 
+The new world order is about optimally figuring out our needs and solving for them
+
+How can a country limit or completely ban youtube shorts - just part of an app i stead of a whole app like tiktok?
+
+There is an optimal way to raise a human being - an optimal tradeoff for making them the most capable and happy and inspired without robbing them of their childhood and pressuring them to be something they don’t want to be. We need to be constantly striving towards this optimality and justify in the most accessible and authoritative way possible what and why should be done for the best results.
+
+
 
 > "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
 You can just program society
