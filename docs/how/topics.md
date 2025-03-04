@@ -98,6 +98,7 @@ The Mind/Psychology of God
 The Fifth Joint Point
 Reputation/Identity in the 21st century - like the book about capital
 "Self-interest" with an expanding cognitive light cone from michael levin's paper
+“Collective intelligence: a primer or for dummies” as title
 ^^ title of book?
 
 “Greater than 1”

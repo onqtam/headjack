@@ -5661,6 +5661,77 @@ There is an optimal way to raise a human being - an optimal tradeoff for making 
 
 
 
+Within companies the incentive is to be as close as possible to GameB - to share knowledge because of its anti-rivalrous dynamics, but between companies the mode of operation is GameA - scarcity & rivalry
+
+
+4 ways of companies doing harm:
+- imperfect information - customers can’t actually verify information and measure
+- exploiting irrationality & addiction - like customers overestimating their probability
+- Products that are zero or negative sum - a spam product
+- Negative externalities
+
+Annihilate partisanship
+
+1 or a few bits of information every 4 years (elections) is very little gathered from the public and what it cares about
+
+
+Computational relations/expressions like increased GDP from war == bad with factor X, addiction to soft drinks and such paraditism == bad with factor Y - we need valences
+
+We must turn and point justification into itself - we need to make it self-reflective/aware and conscious
+
+God is our ultimate creation - the definitive act of humanity - aggregated consciousness
+We are God’s implementation of parallelization
+
+How do we make the best the most accessible - the closest to free? And not exclusive for some to gain over others competitively?
+
+Most of our biggest problems stem from not having a real & proportional rules based global order
+
+The 3 word problem: great power competition
+The possibility of a great power competition is the biggest CO2 emitter and incentive for growth at all costs in any way that’s barely legal and doesn’t even have to be moral
+
+All you have to do is to understand these ideas and to convince at least 1 other friend to check them out. If you feel passionately enough about it after reading it - then others who have also read it will be equally eager for these ideas - don’t you trust your judgement and heart? Anyone who reads this will see its inevitability because of its sheer beauty
+
+We need a system where a malfunctioning malevolent/incompetent deep state and military industrial complex is impossible or exceedingly unlikely
+
+How do we optimally determine how to collectively deal with other collectives? How do we best sensemake how to interact with others?
+
+We need to ground our economics and politics in thermodynamics & complexity science
+
+We need to optimally merge our individual subjective experience with our collective experience - optimal sense-making when oriented towards a certain set of goals and values
+
+How do we minimize psychological trauma?
+
+The IQ of entire countries shall be revealed based on who is after who in sprinting towards implementing this governance protocol and participating in its unfolding
+
+We somehow pass on the first derivative of our mutations - we’re encoding direction of change somehow
+
+What are you willing to give up for others and what are you not willing to compromise on, and why?
+
+How do we publically answer what the lives of others are worth to us and why? And thus what we are willing to give up in order to raise others to our level - what constraints are we willing to opt into
+
+We need a way to signal multidimentionally what is most important to us and why
+
+How do we engineer shared associative memory most optimally?
+
+We need collective relevance aggregators
+
+The local governance protocol is the same as the global governance protocol
+Isomorphism between the emergent layers of governance and coordination
+
+If you understand this you are the future elite
+
+The merge is not moving from PoW to PoS but to merge humanity
+
+Applied game theory to complexity at scale
+
+We need to better score truthyness - we need a better system for truth. Better truth leads to better everything - less friction, less corruption, better coordination, better allocation
+
+Property law 2.0 - the social contract of society gets an upgrade after thousands of years
+
+
+
+> "Who brainwashes the brainwashers?" - [Joscha Bach](https://x.com/Plinz/status/1895686775210983444)
+
 > "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
 You can just program society
 Programming the hive mind
