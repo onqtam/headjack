@@ -5729,6 +5729,8 @@ We need to better score truthyness - we need a better system for truth. Better t
 Property law 2.0 - the social contract of society gets an upgrade after thousands of years
 
 
+> "Prediction markets help answer the question "will X happen?" Debate maps help answer the question "should X happen?"" - [Jamie Joyce](https://x.com/JustJamieJoyce/status/1859341482542629354)
+
 
 > "Who brainwashes the brainwashers?" - [Joscha Bach](https://x.com/Plinz/status/1895686775210983444)
 
