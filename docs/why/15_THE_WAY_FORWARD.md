@@ -300,6 +300,7 @@ https://en.wikipedia.org/wiki/Mortality_salience
 
 <img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
 
+> "After the attention economy comes the meaning economy." - [Octopusyarn](https://x.com/octopusyarn/status/1897757124974817599)
 
 > "The best way to find yourself is to lose yourself in the service of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/11416-the-best-way-to-find-yourself-is-to-lose-yourself)
 

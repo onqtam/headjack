@@ -2115,6 +2115,8 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 
 
+> "" - [Rationality and Relevance Realization, by Anna Riedl and John Vervaeke](https://osf.io/preprints/osf/vymwu_v1)
+
 > "" - [The Information Theory of Individuality](https://arxiv.org/abs/1412.2447)
 
 > "" - [Reputation helps solve the `tragedy of the commons'](https://sci-hub.se/10.1038/415424a)

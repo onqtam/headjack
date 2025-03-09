@@ -100,6 +100,20 @@ Reputation/Identity in the 21st century - like the book about capital
 "Self-interest" with an expanding cognitive light cone from michael levin's paper
 “Collective intelligence: a primer or for dummies” as title
 ^^ title of book?
+Title: summa civilizaciona
+Ptincipia civilizaciona
+Modernity’s produce
+Immortality - as title - cuvilizacionatially, and potentially individually
+Connection
+Minimum viable infinity - the bedrock of conscious general explainers collectivity
+Noah’s Arc from a time in between worlds
+Forward
+The Matrix: Upgraded - Neo upgrades it
+The new Elite
+Stealing God
+The maximum
+Thermodynamic integration
+
 
 “Greater than 1”
 Peter thiel gave u from 0 to 1, this is the apex meme with an R-naught greater than 1, although what about herd immunity... maybe just >1 is not enough

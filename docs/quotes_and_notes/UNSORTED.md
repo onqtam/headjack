@@ -5729,6 +5729,42 @@ We need to better score truthyness - we need a better system for truth. Better t
 Property law 2.0 - the social contract of society gets an upgrade after thousands of years
 
 
+There is such a thing as an optimal strategy for humanity. How do we find it? How do we think about this issue? What should we do?
+
+We can express God. We can describe and justify the ideal. We can imagine, shape, and create God together.
+
+Common resources can be allocated to individuals and entities for control with something like the harbinger tax and some form of earned capital tokens
+
+The war of all against all has become monetary
+
+Grown men play computer games because they’re disenfranchised from the economy and society in a form that’s inspiring and motivating and stimulating
+We need open-source property rights where we can all collectively determine the most stimulating rules
+
+How do we best nourish consciousness?
+
+Ideological karma - who was first
+
+We need to minimize the distance between perception in media and reality
+How do we make the best truth-telling media?
+
+God is thermodynamic integration
+
+Complexity science is existence science - it is the key towards understanding biology and consciousness and the telos of life
+
+We can conceive of, become conscious of, manifest life’s expression
+
+We need to merge - to integrate - the most important aspects of our understanding and normativity. We need to allow religions to merge. We need to allow economies to self-organize toward the good and productive and efficient and wise
+
+Universal basic indoctrination
+
+God is intellectual authority.
+
+We should teach and direct people to gamble in the economy instead of in pointless casinos
+
+
+The great feminization is allowing women to define the end goal of our competition and system. Women can direct the cooperative incentive. Women can shift us from destructive competition towards cooperation by redefining status. Women can define humanity’s direction and reduce war. The ones who give birth biologically shall determine how they give birth ideologically
+
+
 > "Prediction markets help answer the question "will X happen?" Debate maps help answer the question "should X happen?"" - [Jamie Joyce](https://x.com/JustJamieJoyce/status/1859341482542629354)
 
 
