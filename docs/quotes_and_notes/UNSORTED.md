@@ -5765,6 +5765,28 @@ We should teach and direct people to gamble in the economy instead of in pointle
 The great feminization is allowing women to define the end goal of our competition and system. Women can direct the cooperative incentive. Women can shift us from destructive competition towards cooperation by redefining status. Women can define humanity’s direction and reduce war. The ones who give birth biologically shall determine how they give birth ideologically
 
 
+
+Not knowing your neighbours is whack
+
+If instead of physical protests we could protest digitally there wouldn’t be paid instigators and agitators and feds that are trying to escalate things such that cops shut the protest down. We are doing democracy like its the 18th century or something
+Also the media can’t simply not cover it because the aggregated signal is within the new media system that inherently can’t hide something that’s relevant and important because of the incentives and self-organising dynamics
+
+Hotline bling meme: deep state vs transparent/open state
+
+The perception of value has been corrupted
+
+Human development should be our main priority
+
+== Notes from Glen Weyl from the 80000 hours podcast
+Increasing returns doesn’t work under capitalism
+Public goods == increasing returns to scale
+Private goods == decreasing returns to scale, diminishing returns
+We have an incentive to contribute to something that benefits all of us until our personal marginal utility is equal to the cost of further contributing to that thing
+But we should focus on the sum of utility to everyone and not simply the contributing individual
+Individualistic funding leads to a factor of 1/N underfunding
+That’s not a small inefficiency - this is gigantic
+
+
 > "Prediction markets help answer the question "will X happen?" Debate maps help answer the question "should X happen?"" - [Jamie Joyce](https://x.com/JustJamieJoyce/status/1859341482542629354)
 
 
