@@ -115,6 +115,10 @@ The maximum
 Thermodynamic integration
 Don't Die 2.0 or ^2 squared - the sequel to BJ's Don't Die
 
+“The generator function” book title
+The generator
+Constructor theory
+
 “Greater than 1”
 Peter thiel gave u from 0 to 1, this is the apex meme with an R-naught greater than 1, although what about herd immunity... maybe just >1 is not enough
 

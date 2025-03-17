@@ -300,7 +300,50 @@ https://en.wikipedia.org/wiki/Mortality_salience
 
 <img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
 
+
+
+
+https://www.youtube.com/watch?v=spiEOkgA5CQ
+== ep 2 from conscious evolution podcast
+RC: So far the positive psychology researchers seems to be indicating three different kinds
+of behaviours, three values, three pillars of a meaningful life.
+The first is cooperation, serving others, serving something larger than yourself and
+connecting with other people. The second is transcendence, heightened states
+of consciousness when we are lost in awe at the beauty of the world, when we lose our sense of self and we connect with something much deeper, more profound, more real even.
+And the third is creativity, when we express that which is unique within ourselves and
+we bring it out into the world.
+
+== ep 3 from conscious evolution podcast
+If that’s the difference between the two in terms of how they feel subjectively, then what explains this difference in evolutionary terms?
+I believe the key is time. Remember positive psychologist Roy Baumeister from the previous
+episode? In an article for the online publication Aeon, he wrote: “Meaning and happiness are apparently experienced quite differently in time. Happiness is about
+the present; meaning is about the future.” That’s why eating sugar isn’t meaningful
+– it’s an outdated maladaptive evolutionary behaviour, and its only reward is pleasure
+experienced in the present. Cooperation on the other hand is meaningful,
+because it’s an evolutionary behaviour which is still very much adaptive, and the reward for cooperation is to be found in the future. I believe that meaningfulness is evolution’s
+way of telling us that we’re doing something which is conducive to our evolutionary future.
+In next two episodes we’re going to test this theory against our other two pillars
+of a meaningful life: creativity and transcendence. KEN ROBINSON: Creativity as we define it, is the process of having original ideas that
+have value. It’s an evolutionary process. EMILY ESFAHANI SMITH: Transcendent states are those rare moments when you're lifted
+above the hustle and bustle of daily life, your sense of self fades away, and you feel connected to a higher reality.
+RC: Can we say that creativity and transcendence are evolutionary trajectories in the same
+way that cooperation is? Is our active participation in these trajectories necessary if we’re
+to have an evolutionary future? And can this shed any light on why we find them so meaningful?
+Listen to the next episode to find out.
+
+== ep 4 from conscious evolution podcast
+
+In this series we’ve been taking an earnest  look at what many people consider to be the most important question of all. How to be  happy. But when we listened to what the experts had to say about it, such as Roy Baumeister speaking here on the Psychology Podcast, we realised  that the overwhelming weight of evidence pointed to the conclusion that: ROY BAUMEISTER: You pursue happiness for its own sake, and the pursuit of happiness of  course one is one of the founding American ideals, pursuing happiness for your own sake  doesn’t really work, but if you try to cultivate a meaningful life that can work, and that  will make you happy too. So fits what I said. Meaning is more of a prerequisite for happiness.  Not so much the other way around. RC: So our enquiry into how to be happy has  really become an enquiry into how to find meaning in life. Trouble is, although the  engine of capitalism is incredibly efficient at furnishing us with new and better ways of seeking pleasure – it’s chronically bad at helping people find meaning. In fact  it tends to do the exact opposite. It finds sources of meaning and then systematically commodifies and commercialises them until they become hollow.  To make matters worse, our value systems, the stories that we’ve been telling ourselves about what is right and what is wrong and what is worth aiming for in life, the stories  whose role it is to point to our place and purpose in the universe and to provide our lives with meaning are breaking down in the face of a series of converging crises.  The social crisis, the climate crisis, the mental health crisis – are all underpinned  by a deeper and more fundamental crisis. This is a crisis of meaning. 
+
+> "There is no greater joy than that of feeling oneself a creator. The triumph of life is expressed by creation." - [Henri Bergson](https://www.azquotes.com/quote/561275)
+
+
+
+> "What sets human beings apart from animals is not the pursuit of happiness, which occurs all across the natural world, but the pursuit of meaning, which is unique to humans." - [Roy Baumeister](https://www.azquotes.com/quote/921661)
+
 > "After the attention economy comes the meaning economy." - [Octopusyarn](https://x.com/octopusyarn/status/1897757124974817599)
+
+> "We have a meaningful life when we do something that if we didn’t do it, it wouldn’t get done. That’s extremely meaningful and you should always aim for that." - [Peter Thiel](https://x.com/zfellows/status/1900180696481628394)
 
 > "The best way to find yourself is to lose yourself in the service of others." - [Mahatma Gandhi](https://www.goodreads.com/quotes/11416-the-best-way-to-find-yourself-is-to-lose-yourself)
 

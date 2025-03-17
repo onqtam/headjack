@@ -309,7 +309,7 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: win-win & open source & sharing
+# SECTION: win-win & open source & sharing & the commons
 ██████████████████████████████████████████████████████████████████
 
 > "If we exchange one dollar, we both have one dollar each. But if we exchange one good thought, we both have two good thoughts." - [Abraham Lincoln](https://www.azquotes.com/quote/873058)
@@ -1483,5 +1483,25 @@ all of chapter 8 is good, it's part of his book "The Nature of Technology"
 
 
 
+
+
+
+> "In the Scandinavian languages there is actually a common word that roughly translates into “management of a household” or “to economize”: “hushålla”/”husholde”, literally “to hold house”.  It’s a verb, meaning that it’s something you do. But what is it, most fundamentally, that you do, when you are “holding house” or “economizing”?
+
+Yes, it includes the management of limited assets, manufactured goods and natural resources and the work included in producing and distributing these things. But you’re managing something more fundamental than that, something that goes beyond the concrete work tasks and physical resources: namely, our most limited resource – time and attention.
+
+Economy is about the management of our time and attention. Money and work are just abstractions and surface phenomena of these two much more fundamental aspects. Money is merely a crude measure of evaluating the worth of someone’s actions in relation to someone else, and what we see as “actual” work is merely a social construct, a convention and definition of what is considered to be actions creating economic value for others – in our day and age usually the kind of actions by which a monetary exchange takes place.
+
+Our time and attention is more fundamental than money and work. It’s what is at the very core of the economy. For example, you reading this text and giving me your attention is an economic action. You could have done something else, but you chose to, you economized, those scarce resource (that is, your valuable time and attention) to read. In that regard all our actions are economic priorities. All of them. Taking a hike in the forest, talking to your neighbor or doing activism are all economic actions. You could have done something else.
+
+Hence “economy”, or to “economize”, is all about behaviors and relations. It’s about the behaviors we spend our time doing and towards which relations we direct our attention." - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
+
+> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
+
+> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
+
+> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
+
+> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
 
 

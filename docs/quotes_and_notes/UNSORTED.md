@@ -5787,6 +5787,87 @@ Individualistic funding leads to a factor of 1/N underfunding
 That’s not a small inefficiency - this is gigantic
 
 
+
+We should be able to generate a fingerprint for any specific line of thought and then get matched with others interested in that
+
+We will go as far into programming biology as is naturalistically possible
+Picasso painted on an oil canvas - we shall paint with life in the cosmos
+
+God is our highest intellectual anthropomorphic abstraction
+The highest peak in memetic abstraction
+We are the highest form of self-organizational conscious agency, and God is the level above
+
+Oh, you care about the fine-tuning problem? Why not help make others also care about it?
+
+How do we cultivate and foster more insight in people towards the right goals?
+
+We need to cultivate better people - better individuals lead to better collectives - duuh
+
+We can compute how much each of us has contributed to a cause and redistribute praise & resources accordingly
+
+We need to debate over merit and not over emotive and manipulative language and emotion
+
+Discovery is emotion is high variance and novelty and intensity
+Discovery and insight are the greatest virtues, and the best way to profit from them is to signal them and implement them for all
+
+The planet - the living biosphere - must produce the capacity to ensure the survival of life on earth and to spread it in the cosmos - there is no other purpose
+This is the goal of life - to ensure life’s survival
+
+we can master the self-organization of matter in the universe - the universe is where the emergence of abstraction is enabled - it is informational and all its levels are emergent - where the next level of organization is inherently unpredictable from the lower levels - the universe computes itself into existence and into complexification - into better fractal capacities of forming structure - more intricate and sophisticated structure
+
+Women can influence an aspect of our optimization function and incentive system - they can tune the well-being and peace incentive
+
+good theories give us a greater capacity to appreciate reality's fractal and generative nature - the more we know, the better we shape the self-organization of living matter. Living matter has given birth to collectives of conscious entities that have the opportunity and mandate of heaven to unite and facilitate the next level of emergence.
+
+Conspicuous consumption on this planet is immoral until we secure the future of life in perpetuity and eradicate suffering. The levels of tolerable surplus conspicuous consumption and of tolerable suffering are a tunable parameter - we can generate common knowledge over what we express that we think the human value of another is worth. How will people vote on what a human life is worth? Of course, they will value it more. The incentive is to be seen as more moral
+
+The most optimal social organization at any point in time can only be synthesized in a completely free society - freedom to improve the game
+From freedom of speech to freedom to program the GB
+
+You can make it so any aspect or pattern of your web presence can be programmable and controllable by you - imagine the kinds of markets we could have - markets for patterns
+
+Opinionated tweets are just that: someone is trying to broadcast an opinion of how he feels about and how he sees something in the world. We can make those expressions aggregatable so that they matter.
+
+We must all be the game designers
+The painting and art of the future will be on the canvas of incentive design
+
+The greatest status game ever
+Don't u want the most incredible game? Don’t you want to find and play the game of life itself?
+
+Gene editing and mastering programmable biology is mastering the self-organization of the most sustainable, reusable, and recyclable matter
+Mastering the programming of biology is the final algorithm - one that optimally optimizes its wellbeing and reduces existential risk and spreads to other planets
+Life literally cannot and shouldn't ask for anything less than both of these. These are the goals of life on earth - participate. Merge with the telos.
+
+Knowledge as graphs and trees of structure
+What is knowledge?
+What is collective knowledge?
+
+The game designers of dota are the regulators - the governors of an evolutionary landscape of incentives for a simulation that gets run again and again and again - incentivising the exploration of the best strategies and their application
+How do we make that but for fixing the real world?
+
+Women should crowdsource their idea of the ideal man in terms of reputation and change the competitive landscale - women could have their hand over the global societal lever of the appreciation of cooperation - an expression of their less combatitive side
+
+
+Disrupt Valve and their social network for devs and users
+
+We will not merge with artificial superintelligence but with collective superintelligence.
+Intelligence is about the thermodynamic capacity and optimality of matter to survive and how it is structured/organized - to solve the problem of life - to autocreate itself, to self-maintain and to self-propagate - autopoiesis
+
+Democratic recommendation algorithms
+
+Religions of the past forbade usury; religions of the future will forbid excessive rent seeking
+
+We need to align agency, and that happens through participatory game design
+
+The universe is trying to complexify and integrate itself towards greater agency of self-organized matter
+
+
+
+> "The hottest new programming language is English." - [Andrej Karpathy](https://x.com/karpathy/status/1617979122625712128)
+The hottest new programming paradigm is society's incentives.
+
+
+
 > "Prediction markets help answer the question "will X happen?" Debate maps help answer the question "should X happen?"" - [Jamie Joyce](https://x.com/JustJamieJoyce/status/1859341482542629354)
 
 

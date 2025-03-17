@@ -19,6 +19,8 @@ What is the analog of active noise cancelling in the digital world?
 
 Is it a coincidence that one of the most important papers in AI/ML that introduced transformers was called `"Attention is all you need"`?
 
+> "Your periodic reminder that attention is power, and you should only give your attention to people or events you wish to empower. Attention drives intention, intention drives action, action creates your world." - [Emmett Shear](https://x.com/eshear/status/1900321229489529138)
+
 One of the most transformative (pun intended) papers in AI/ML is called ...
 
 The importance of attention cannot be overstated
