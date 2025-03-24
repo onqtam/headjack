@@ -5862,14 +5862,100 @@ We need to align agency, and that happens through participatory game design
 The universe is trying to complexify and integrate itself towards greater agency of self-organized matter
 
 
+In our current political system, the loser has an incentive to try to take the one on top down. Their loss is my win. How do we make this win-win? How do we align political parties optimally with the collective?
+
+Upon joining everyone declares what they own and how much they’re willing to give to the collective for common resource utilization. Minimum tax: 10% of all assets
+
+https://en.wikipedia.org/wiki/Church_tax
+https://en.wikipedia.org/wiki/Tithe
+
+Condition to enter our taxation regime: you must forego everything else you own from the previous system and donate it to us in order to join
+
+The legacy of Mark Zuckerberg needs to be burned to the ground
+
+How do we reduce smear campaigns? Where you can pay to ruin someone's reputation
+
+We need coherence on a certain set of ideas. What is that set? How do we determine it democratically and scientifically? What’s the best way to organize this?
+
+What does peak mental performance look like? And what game would it be playing? What’s our game for consciousness?
+
+Our highest expression of free will comes from expressing what we care about and coordinating with others to reach optimal collective synergy
+
+The more incorruptible a system is, the more we can trust it and delegate and offload cognitively to it
+
+God is the structural description of morality
+
+In having kids we hatch the next iteration of consciousness in the unfolding of history
+We create society by having children. Our children are the world that is next on the relay race
+
+The more we love our children - the more they’ll love the world
+
+We could be immortal with our weights and votes and how we’ve influenced the world.
+
+Each of us is an expression of the creativity of the universe
+
+We need to make it moral to actually participate in society productively instead of competing in meaningless virtual worlds - draining your creativity into the abyss/void
+
+When you play computer games instead of the game of humanity you are literally erasing yourself from history. Every hour spent training in a meaningless pursuit is an hour of existence that you have erased. Every moment you misspend in meaningless pursuits you diminish your creative expression into the fossil record of life’s complexification epic
+
+Consciousness is about creatively browsing the potential configuration space.
+
+How should we structure our incentives if we could start from scratch? How should we program society? Would we end up in capitalism and democracy in their current form?
+
+We can collectively script how men and women interact in order to produce the most optimal and productive and generative incentives
+We do not live in 3 or 4 dimensions - the dimention in which we live is the number of dimentions. Every human is a dimension in our collective reality
+We are N-dimensional beings where N is the 7 billion other human souls
+
+
+People can vouch for others that they’ve actually gone through training X and that they understand the concepts there, but if they do poorly then that will also reflect a bit on the ones who vouched for them. Anyone can cheat on a test but bringing a social element will counter fraud.
+
+we have a system that has no problem surfacing to different groups different things that are in conflict that don't get resolved. We have a system conducive to a fractured worldview - disharmony, tension
+
+Instead of rating things individually on a 1-5 scale, we should be ranking things relationally to each other
+We need to move away from reductionism and more towards emergence, complexity, and integration
+
+Damaged people damage people - how do we reduce damage? How do we reduce suffering?
+
+
+> "Karma is, just as the root of the word suggests, simply the net effects of each action or agency. This net effect should be viewed with collapsed time and space dimensions, meaning that even suffering caused to creatures at great distance in time and space – or across long causal chains of events – has the same value. Same goes for bliss caused. This means that good actions are good because they have favorable or desirable consequences for sentient beings, and bad actions are bad because they have unfavorable or undesirable consequences for sentient beings. That’s it. That is the meaning of Karma. It is so by perfect logical necessity, by definition. It is universal and all-pervading. It has always been true and it will always be true. To know and act according to this truth is good, always has been and always will be. To ignore or neglect this truth is bad, always has been, and always will be. It is hard, scientific, logical, secular Karmic law. There is no escape from it. There never has been and there never will be.
+>
+> ... Secular Karma, then, is the reasoned belief that this universe is a moral one. It is the insight that I am not the “good guy” or the “chosen one”, but that all I do matters immensely for all sentient beings." - [Secular Karma, Spiritual Reason, by Hanzi Freinacht](https://metamoderna.org/secular-karma-spiritual-reason/)
+
+> "CAPITAL: Something that creates a positive feedback loop which changes social relations so that power is accumulated for the person or organization to which the feedback loop is linked.
+>
+> Okay? So anything that makes you more powerful vis-à-vis others, and that can grow and expand itself by proper management, is capital. The positive feedback loop means that you tend to get more of it once you have a certain amount, it creates an advantage from which you can get more of the same or more of similar. It would be possible to add another dimension: capital must have some kind of psychological lure or desirability. There must be something we can fetishize, something we can crave, possess, call our own, and/or be possessed by.
+>
+> This general definition lets us know something more about cultural capital. It is not the same as being intelligent, having a high IQ or a high cognitive stage of development. It means that you have better mastery of more symbols, i.e. words and ideas (or names and references); that these symbols are more generally relevant and applicable to the world around you; that you know and understand more creative and abstract ways to put these symbols together; that you know which names and references are seen as ‘good taste’, in which social contexts and why; and that you have a more intimate relationship to the fine and subtle dimensions of the symbols and how to use them. The more you get the drift of the world around you, the more new cool and useful symbols you tend to come across and master. Simply: cultural capital means to be intimately in tune with the society you live in.
+>
+> ... Cultural capital will be able to dictate the values and ideas of economic capital, and will be able to trade its own value at a very favorable rate. The cultural capital will be able to better capture the hearts and minds of people, making them work harder, for less money, towards more critically informed and productive ends. This is because there is enough abundance to let people get an education, a computer and a flat, and from there extra riches simply make much less difference than better, more sensitive and more inspiring ideas... Which creates a new class structure. It is no longer very cool to be rich. In fact richness increasingly has an air of ridicule to it. And to flaunt wealth is considered bad taste. Cultural capital creates the highest form of social prestige. It is this prestige that makes it symbolically more valuable, being imbued with more symbolic meaning, making the old masters of the world – the wealthy – feel like silly brutes in its presence. Cultural capital is taking over economic capital as the main source of symbolic capital, as well as the main source of total capital. The young creatives are really more privileged and powerful than the rich magnates. It is a part of their self-image that they are romantic underdogs, but nobody is fooled, really." - [Revolutions of Cultural Capital, by Hanzi Freinacht](https://metamoderna.org/revolutions-of-cultural-capital/)
+
+> "A metameme is a collection of interconnected, mutually dependent, non-arbitrary memes. “Metameme” is thus an overarching term for groups of other memes that helps us understand the relation of one meme to another... One of my major theses in The 6 Hidden Patterns of History: A Metamodern Guide to World History is that memes come bundled in non-randomly ordered collections of developmentally determined “umbrella” memes constituting overarching stages. It’s these umbrella memes that I have chosen to dub “metamemes”." - [What Is a Metameme? by Hanzi Freinacht](https://metamoderna.org/what-is-a-metameme/)
+
+> "" - [What Is a Metameme? by Hanzi Freinacht](https://metamoderna.org/what-is-a-metameme/)
+
+> "" - [Is Protopia a Classless Society? by Hanzi Freinacht](https://metamoderna.org/is-protopia-a-classless-society/)
+
+> "" - [Is Protopia a Classless Society? by Hanzi Freinacht](https://metamoderna.org/is-protopia-a-classless-society/)
+
+> "" - [, by Hanzi Freinacht]()
+
+> "" - [, by Hanzi Freinacht]()
+
+
+
+> ""You think because you understand 'one' you must also understand 'two', because one and one make two. But you must also understand 'and'." - [Mawlana Jalal-al-Din Rumi](https://www.goodreads.com/quotes/245285-you-think-because-you-understand-one-you-must-also-understand)
+
+^^ complexity science, emergence vs reductionism
+
+> "I think, therefore I am." - [René Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
+think => predict
+
+The Internet is a petri dish for intersubjectivity without interobjectivity - by Jim Rutt
 
 > "The hottest new programming language is English." - [Andrej Karpathy](https://x.com/karpathy/status/1617979122625712128)
 The hottest new programming paradigm is society's incentives.
 
-
-
 > "Prediction markets help answer the question "will X happen?" Debate maps help answer the question "should X happen?"" - [Jamie Joyce](https://x.com/JustJamieJoyce/status/1859341482542629354)
-
 
 > "Who brainwashes the brainwashers?" - [Joscha Bach](https://x.com/Plinz/status/1895686775210983444)
 

@@ -18,6 +18,11 @@ https://medium.com/@muneeb/cant-be-evil-bc5ec16c6306
 > "can’t be evil > don’t be evil" - [Chris Dixon](https://twitter.com/cdixon/status/1470223992757927936)
 
 
+I'm a paranoid person. I really am.
+John McAfee
+https://www.brainyquote.com/quotes/john_mcafee_755447
+
+
 > "The further a society drifts from truth the more it will hate those who speak it." - [George Orwell](https://www.azquotes.com/quote/498864)
 
 ██████████████████████████████████████████████████████████████████

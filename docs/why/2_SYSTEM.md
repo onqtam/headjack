@@ -757,6 +757,9 @@ Philip morris Indonesia kids
 # SECTION: War
 ██████████████████████████████████████████████████████████████████
 
+> "The greatest victory is that which requires no battle." - [Sun Tzu](https://www.goodreads.com/quotes/608916-the-greatest-victory-is-that-which-requires-no-battle)
+
+
 > "Each murder is one too many." - [Jürgen Habermas](https://www.azquotes.com/quote/994093)
 
 > "If tyranny and oppression come to this land, it will be in the guise of fighting a foreign enemy." - [James Madison](https://www.goodreads.com/quotes/1184946-if-tyranny-and-oppression-come-to-this-land-it-will)

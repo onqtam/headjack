@@ -168,6 +168,9 @@ https://www.youtube.com/watch?v=WfGMYdalClU
 Daniel Schmachtenberger’s talk at Emergence
 https://www.youtube.com/watch?v=eh7qvXfGQho
 
+The AI Dilemma: Navigating the road ahead with Tristan Harris
+https://www.youtube.com/watch?v=F6XR0byERZY
+
 Cosmos (1980) by Carl Sagan
 https://www.imdb.com/title/tt0081846/
 https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage

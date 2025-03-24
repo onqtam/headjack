@@ -117,6 +117,8 @@ auction the first 10k indexes in different tiers and raise funds
 
 > "A war of ideas can no more be won without books than a naval war can be won without ships. Books, like ships, have the toughest armor, the longest cruising range, and mount the most powerful guns." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/37756-a-war-of-ideas-can-no-more-be-won-without)
 
+Make it so that people can publicly signal that they are currently reading it
+
 https://www.privy.io/
 
 https://www.defmacro.org/2019/03/26/startup-checklist.html
