@@ -5916,6 +5916,11 @@ We need to move away from reductionism and more towards emergence, complexity, a
 
 Damaged people damage people - how do we reduce damage? How do we reduce suffering?
 
+what if we penalized people for not appropriately ranking things by relevance and instead trying to push for their own agenda? What if there was retroactive scoring and a longer-term incentive to have high reputation?
+
+The most important book is about how society should go about continually producing the most important book
+which is about its directionality, self-awareness renewal - about its autopoiesis
+
 
 > "Karma is, just as the root of the word suggests, simply the net effects of each action or agency. This net effect should be viewed with collapsed time and space dimensions, meaning that even suffering caused to creatures at great distance in time and space – or across long causal chains of events – has the same value. Same goes for bliss caused. This means that good actions are good because they have favorable or desirable consequences for sentient beings, and bad actions are bad because they have unfavorable or undesirable consequences for sentient beings. That’s it. That is the meaning of Karma. It is so by perfect logical necessity, by definition. It is universal and all-pervading. It has always been true and it will always be true. To know and act according to this truth is good, always has been and always will be. To ignore or neglect this truth is bad, always has been, and always will be. It is hard, scientific, logical, secular Karmic law. There is no escape from it. There never has been and there never will be.
 >
@@ -5937,7 +5942,7 @@ Damaged people damage people - how do we reduce damage? How do we reduce sufferi
 
 > "" - [Is Protopia a Classless Society? by Hanzi Freinacht](https://metamoderna.org/is-protopia-a-classless-society/)
 
-> "" - [, by Hanzi Freinacht]()
+> "Simply put: Cultures are not static. They flow. They evolve. And if they have a right to exist as organic, living entities, it stands to reason that must also be held responsible as such. And they evolve together — depending upon the invaluable outsider perspectives of one another. Let us thus weave the best possible conditions for cultures to co-evolve into more ethical and universal versions of themselves, while still honoring their respective historical roots. That brings us beyond the impasses of Multiculturalism, and lands us in a co-creative space of Transculturalism." - [The Failure of Multiculturalism and Its Resolution: Transculturalism, by Hanzi Freinacht](https://metamoderna.org/the-failure-of-multiculturalism-and-its-resolution-transculturalism/)
 
 > "" - [, by Hanzi Freinacht]()
 
