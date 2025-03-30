@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/There_is_no_alternative
 # SECTION: Institutions
 ██████████████████████████████████████████████████████████████████
 
-institutions: rules, roles & enforcement of those rules that structure human interaction
+institutions: rules, roles & enforcement of those rules that structure human interaction - including habits, practices & values
 examples: markets, marriage, corporations, legal system (also specific courts as specific sub-institution), journalism, higher education, regulatory bodies, etc. - organizations are specific instantiations of institutions
 they structure relationships to avoid conflict, avoid opportunistic behavior, etc.
 ^^ taken from 1 Definition of Institutions in Economics [cxEhWDvJUEg] from ashley from her institutional economics playlist
@@ -62,7 +62,17 @@ rule types:
 prescriptive: dictating necessary action - pay taxes by date X, note why you needed that expense
 proscriptive: saying what NOT to do - don't browse youtube on company computer
 
+> "Property rights specify which resources can be owned and by whom and how they can be used" - Harris, 2020
+> "A property right is a liberty or a permit to enjoy benefits of wealth - in its broadest sense - while assuming the costs which those benefits entail... It will be observed that property rights, unlike wealth or benefits, are not physical objects nor events, but are abstract social relations." - Fisher, 1922
+> "Private property rights always establish a relationship between defined individuals and defined assets, which can be physical goods, ideas or people's own bodies." - Kasper, Streit, & Boettke, 2012
 
+Property rights are a social contract and that makes them an institution
+Traits of property rights:
+- transferability/inalienability - your right to life is inalienable - you can't transfer it - related to human rights, we can/should make more inalienable reputation
+- divisibility
+- security of trespassing, exclusion costs
+- credibility of persistence...?
+- clarity of allocation - does everyone know who owns what?
 
 
 
