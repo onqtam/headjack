@@ -5921,6 +5921,7 @@ what if we penalized people for not appropriately ranking things by relevance an
 The most important book is about how society should go about continually producing the most important book
 which is about its directionality, self-awareness renewal - about its autopoiesis
 
+What is of ultimate significance?
 
 > "Karma is, just as the root of the word suggests, simply the net effects of each action or agency. This net effect should be viewed with collapsed time and space dimensions, meaning that even suffering caused to creatures at great distance in time and space – or across long causal chains of events – has the same value. Same goes for bliss caused. This means that good actions are good because they have favorable or desirable consequences for sentient beings, and bad actions are bad because they have unfavorable or undesirable consequences for sentient beings. That’s it. That is the meaning of Karma. It is so by perfect logical necessity, by definition. It is universal and all-pervading. It has always been true and it will always be true. To know and act according to this truth is good, always has been and always will be. To ignore or neglect this truth is bad, always has been, and always will be. It is hard, scientific, logical, secular Karmic law. There is no escape from it. There never has been and there never will be.
 >
@@ -5938,13 +5939,29 @@ which is about its directionality, self-awareness renewal - about its autopoiesi
 
 > "" - [What Is a Metameme? by Hanzi Freinacht](https://metamoderna.org/what-is-a-metameme/)
 
-> "" - [Is Protopia a Classless Society? by Hanzi Freinacht](https://metamoderna.org/is-protopia-a-classless-society/)
-
-> "" - [Is Protopia a Classless Society? by Hanzi Freinacht](https://metamoderna.org/is-protopia-a-classless-society/)
+> "On the one hand, we can observe obvious signs of what the older generations can only recognize as a kind of cultural decay: pop culture has become cynical and crude with popstars like Billie Eilish glorifying suicide for young people or Lana Del Rey romanticizing infidelity and daddy issues; children increasingly exposed to, misinformed by, and traumatized by online (sexual) pornography which itself draws wider and wider swathes of the population into some kind of prostitution (which also spreads to more and more young people); sexual debuts creeping to lower ages and especially young girls increasingly being pressured to partake in harmful sexual activities; hard drugs being the stuff of casual conversations of middleclass 13-year-olds, and that’s when they’re not talking about sex and carrying knives (real story, that one, overheard on a local bus in a “nice” neighborhood); the average kid spending 8+ hours by a screen each day and the activities there becoming increasingly based on addictive dopamine hits with apps like TikTok and Snapchat; more and more of us trying psychedelics and other drugs, bought from criminal gangs; celebrities and Netflix shows casually showing and joking about hard drug use and death by drugs; realistic, violent computer games; de facto decreases of people’s real competence and skills, including a reversal of the average IQ scores in developed countries; attention spans, even among adults, dropping like lead balloons; weaker and less motorically developed bodies in the average population; the spread of online conspiracy theories of savage and sadistically imaginative detail… Cultural decay, right? There’s no other word for it.
+>
+> ... The other dumb answer is to simply deny just how vulgar, cynical, weird, confusing, and out-rightly pornographic our society is indeed becoming. Despite the measures of quantitative progress (higher global GDP and so on), it is undeniably true that we are, globally, on a sharp downwards spiral in terms of mental health and that young people are hurting: The Mental State of the World Survey, spanning across 20 countries, recently revealed that in the age group 18–24, as much as 44% of the population are in the “clinical/at risk” category in terms of mental health—as compared to 6% for those 65 and older. Between these extremes, there is a steady downwards staircase: the younger the cohort, the more compromised their mental health. It’s the opposite of a stairway to heaven. It’s not just me; when I was a 13-year-old in a middle class suburb, talk of knives and hard drugs were just not part of the mix. A cultural pornographization really has occurred, and it all but indisputably affects the mental health of the young.
+>
+> ... ours is a planetary society with the hitherto greatest potentials for inner growth, and yet with perhaps the worst conditions for it.
+>
+> ... We need to rethink the role of digital media, of digital identity and nudging, of incentive structures, of informational architectures, of democratized algorithms, of user interfaces, of market regulations, of education and schooling, of an expansion of individual rights to “dividual rights” and so forth. And, of course, we need to cultivate institutions of governance and self-organization that are at all capable of grasping such issues—which today, alas, do no exist... we must cultivate our shared capacity for mental health, for emotional nourishment, and for spiritual attainment.
+>
+> Our civilization is driving towards madness—and it’s a fair guess that, soon enough, madness will be driving civilization. That drive will be nasty, brutish, and short. To avoid this trajectory, we must follow where madness takes us—into the depths of our interconnected psyches. We must cultivate the institutions capable of supporting us so that we neither fall into denial of our darker realities, nor into blindness of our higher ethical potentials—institutions that pace that development in lockstep with our development as human beings." - [[Digital] Madness and [Pornographic] Civilization, by Hanzi Freinacht](https://metamoderna.org/digital-madness-and-pornographic-civilization/)
 
 > "Simply put: Cultures are not static. They flow. They evolve. And if they have a right to exist as organic, living entities, it stands to reason that must also be held responsible as such. And they evolve together — depending upon the invaluable outsider perspectives of one another. Let us thus weave the best possible conditions for cultures to co-evolve into more ethical and universal versions of themselves, while still honoring their respective historical roots. That brings us beyond the impasses of Multiculturalism, and lands us in a co-creative space of Transculturalism." - [The Failure of Multiculturalism and Its Resolution: Transculturalism, by Hanzi Freinacht](https://metamoderna.org/the-failure-of-multiculturalism-and-its-resolution-transculturalism/)
 
+> "... the education of the world’s diverse populations can and will decide the fate of nations, the global community, and humanity at large. The responsibility—and creative potential—to get education right even extends beyond our current humanity, as effects
+of our choices today inevitably cascade into future generations and the biosphere.
+>
+> ... What, if anything, is education? My contention is that education, in the strictest and primordial sense, is play." - [Education for Protopia: Why Play Is Vital to our Survival, by Hanzi Freinacht](https://metamoderna.org/education-for-protopia-why-play-is-vital-to-our-survival/)
+
 > "" - [, by Hanzi Freinacht]()
+
+> "" - [, by Hanzi Freinacht]()
+
+> "" - [, by Hanzi Freinacht]()
+
 
 
 

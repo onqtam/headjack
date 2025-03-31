@@ -72,7 +72,7 @@ Traits of property rights:
 - divisibility
 - security of trespassing, exclusion costs
 - credibility of persistence...?
-- clarity of allocation - does everyone know who owns what?
+- clarity of allocation - does everyone know who owns what? Who owns the fish in this segment of the lake?
 
 
 
