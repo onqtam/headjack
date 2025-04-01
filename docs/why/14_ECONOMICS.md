@@ -1496,22 +1496,38 @@ all of chapter 8 is good, it's part of his book "The Nature of Technology"
 
 
 
-> "In the Scandinavian languages there is actually a common word that roughly translates into “management of a household” or “to economize”: “hushålla”/”husholde”, literally “to hold house”.  It’s a verb, meaning that it’s something you do. But what is it, most fundamentally, that you do, when you are “holding house” or “economizing”?
+> "In the Scandinavian languages there is actually a common word that roughly translates into “management of a household” or “to economize”: “hushålla”/”husholde”, literally “to hold house”. It’s a verb, meaning that it’s something you do. But what is it, most fundamentally, that you do, when you are “holding house” or “economizing”?
+>
+> Yes, it includes the management of limited assets, manufactured goods and natural resources and the work included in producing and distributing these things. But you’re managing something more fundamental than that, something that goes beyond the concrete work tasks and physical resources: namely, our most limited resource – time and attention.
+>
+> Economy is about the management of our time and attention. Money and work are just abstractions and surface phenomena of these two much more fundamental aspects. Money is merely a crude measure of evaluating the worth of someone’s actions in relation to someone else, and what we see as “actual” work is merely a social construct, a convention and definition of what is considered to be actions creating economic value for others – in our day and age usually the kind of actions by which a monetary exchange takes place.
+>
+> Our time and attention is more fundamental than money and work. It’s what is at the very core of the economy. For example, you reading this text and giving me your attention is an economic action. You could have done something else, but you chose to, you economized, those scarce resource (that is, your valuable time and attention) to read. In that regard all our actions are economic priorities. All of them. Taking a hike in the forest, talking to your neighbor or doing activism are all economic actions. You could have done something else.
+>
+> Hence “economy”, or to “economize”, is all about behaviors and relations. It’s about the behaviors we spend our time doing and towards which relations we direct our attention.
+>
+> You won’t find the essence of economy from studying the wizardry of stock exchange brokers, bankers and other financial occupations that we’re so accustomed to. The economy runs much deeper than the numerical values presented by statistics on monetary exchanges.
+>
+> ... Capitalism is simply the management of human surplus by means of money capital.
+>
+> ... Investing the surplus of human labor in new productive measures is basically the core of capitalism; and that goes whether it is the state or a private entrepreneur who does it. (This means that Soviet communism wasn’t less “capitalist” than its counterpart in the West, hence it has often been termed “state capitalism”.)
+>
+> ... In the end, money capital outcompeted violence as the most effective means of coordinating people’s productive actions. It beat it at its own game by subordinating it to the logic of money.
+>
+> ... So, what could be the means to outcompete the logic of money capital? Only if you can reliably organize and coordinate the behaviors of millions of people by another logic than money, then will you have created a relation between humans that is non-capitalist. But for that you’ll actually need another form of capital, and remember, there are many forms of capital out there so what could it be?
+>
+> ... The end result will not be a classless society. One class structure will just replace another. At the top of this new social hierarchy we’ll find the so called “netocrats” (a notion put forth by the philosopher Alexander Bard), the masters of the symbols and information, and at the bottom a class of people who merely consume what the netocrats produce, the consumtariat. Those who direct attention – and those who are left in the audience. In this new economy the concern with physical property will decrease because of the abundance, and the means to acquire it, money, will thus decrease in importance, especially among the ruling netocrat elite more preoccupied with all the things money can’t buy. Money will thus lose some its power over people; it won’t motivate them as much since other concerns than property are perceived more desirable, and money capital won’t be able to manage people behaviors to the same extent as before, that is, make them do what money used to make them do. When people’s material needs are met it’s not more money they are after, but emotional needs such as good relations, self-esteem and self-realization. And for that you need attention, you want people’s recognition – and when working with information or symbols, as more people are doing, one’s work is essentially worthless without other people paying attention to you.
+>
+> ... With the proper use of symbols one can actually make someone do what you want them to do with a will and desire that guns and money can’t compete with. People might alter their behaviors because they are scared of your gun, or because they need money to pay their bills, but getting them excited and wanting to do the best they can requires more delicate measures. And if they aren’t scared or have enough money to pay their bills, being able to master such symbols is much more powerful. And who cares about someone offering you a carrot if you just ate... And by the way, why are you still reading this piece, it’s pretty long, and you are not getting paid? Some exciting symbols made you keep reading this text because it causes some amount of emotional energy.
+>
+> ... The way to outcompete capitalism is to politically strengthen the currents that draw us beyond it – towards a world ruled by cultural capital." - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
 
-Yes, it includes the management of limited assets, manufactured goods and natural resources and the work included in producing and distributing these things. But you’re managing something more fundamental than that, something that goes beyond the concrete work tasks and physical resources: namely, our most limited resource – time and attention.
 
-Economy is about the management of our time and attention. Money and work are just abstractions and surface phenomena of these two much more fundamental aspects. Money is merely a crude measure of evaluating the worth of someone’s actions in relation to someone else, and what we see as “actual” work is merely a social construct, a convention and definition of what is considered to be actions creating economic value for others – in our day and age usually the kind of actions by which a monetary exchange takes place.
 
-Our time and attention is more fundamental than money and work. It’s what is at the very core of the economy. For example, you reading this text and giving me your attention is an economic action. You could have done something else, but you chose to, you economized, those scarce resource (that is, your valuable time and attention) to read. In that regard all our actions are economic priorities. All of them. Taking a hike in the forest, talking to your neighbor or doing activism are all economic actions. You could have done something else.
 
-Hence “economy”, or to “economize”, is all about behaviors and relations. It’s about the behaviors we spend our time doing and towards which relations we direct our attention." - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
-
-> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
-
-> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
-
-> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
-
-> "" - [How to Outcompete Capitalism? by Hanzi Freinacht](https://metamoderna.org/how-to-outcompete-capitalism/)
-
+> "Profit is not really the same as economic growth. Profit means, seen as a relation between human beings, that somebody gains a relative power to decide what work should be done. The economy grows, and then somebody makes profit by leveraging their relative position in the economy, so that they gain the power to get others to do their bidding, simply by paying them. Profit is something that happens in the spur of the moment, when there is a certain imbalance or inequality to profit from. Profit is a relative and relational thing.
+>
+> ... As the world system becomes increasingly interconnected, it also gives higher and higher centrality to a lower and lower proportion of the world’s population. Globalization is the growth of a scale-free network. When it comes to money, this centrality belongs to the major corporations, to info-tech – and to finance and banking establishments. We are looking at the growth of an info-financial-industrial complex... As the scale-free network becomes greater and denser, the relative financial power of those at its center to make profit, from their relational advantage, increases.
+>
+> ... We see a global system where the top 1% hijacks our collective distribution of work priorities, allocation of attention and symbolic value. We have so many governments forced to suck up to global capital, so many lobbyists, so many geniuses doing mean and harmful work, so much competition for a piece of those heights of humongous capital investment. We even have wars fought and conflicts resulting from politics derailed by the crude logic of capital. And this top 1% is growing rapidly in structural power, with its own interests in high risk societies and upheld imbalances and inequalities." - [Beyond Piketty, Far Beyond, by Hanzi Freinacht](https://metamoderna.org/beyond-piketty-far-beyond/)
 
