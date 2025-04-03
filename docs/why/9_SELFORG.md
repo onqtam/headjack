@@ -76,9 +76,18 @@
 ██████████████████████████████████████████████████████████████████
 
 
+> "According to coordination theory, we can distinguish the following fundamental dependencies or connections between actions or processes:
+>
+> 1) one action can be prerequisite for the next action: the product or output of the first is a necessary condition or input for the second. This determines the sequential organization of the process, or workflow, where activity moves step-by-step through a sequence of tasks (what needs to be done next?).
+>
+> 2) two actions can require the same condition (input) and/or contribute to the same effect or goal (output), i.e. they are performed in parallel. This determines the allocation of resources (who receives what?) and the division of labor between agents (who is to do what?).
+>
+> Effective coordination means that the right actions are performed by the right agents at the right time and place." - [Stigmergy as a Generic Mechanism for Coordination: Definition, Varieties and Aspects, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-WorkingPaper.pdf)
+
+
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Autopoiesis / staying alive & rerpetuating oneself
+# SECTION: Autopoiesis / staying alive & perpetuating oneself
 ██████████████████████████████████████████████████████████████████
 
 > "Self-preservation is the primary and only foundation of virtue." - [Baruch Spinoza](https://www.azquotes.com/quote/500068)
