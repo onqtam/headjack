@@ -2078,8 +2078,6 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "" - [Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration](https://dlc.dlib.indiana.edu/dlc/handle/10535/3574)
 
-> "" - [Stigmergic epistemology, stigmergic cognition](https://sci-hub.se/10.1016/j.cogsys.2007.06.009)
-
 
 <!-- 
 
