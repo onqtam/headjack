@@ -1120,6 +1120,15 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 > "Consciousness begins when brains acquire the power, the simple power I must add, of telling a story." - [Antonio Damasio](https://www.azquotes.com/quote/1350141)
 
+
+
+> "The remarkable efficiency of the Internet is at present still mostly physical or informational, not social. The Internet has grown so quickly that it has not had the time to evolve efficient institutions, i.e. collective systems of rules that coordinate individual actions. The result is a messy, confusing and constantly changing information landscape, that in principle offers immense benefits, but in practice only works reliably for a limited number of applications, while producing confusion, information overload, and various forms of “cybercrime”. As a result, an individual discovery published on the net may indeed change the world’s outlook within days, but the more likely outcome is that it will get buried within masses of other, mostly much less relevant information, and not receive the attention it deserves.
+>
+> In conclusion, the evolutionary dynamics underlying globalization has already led to a relatively efficient physical distribution of matter, energy and information across the globe, but still needs to produce the social institutions that go with it. This is not a very original observation: critics of the globalization of markets have pointed out that the extension of the free trade in goods and services needs to be counterbalanced by the further development of transnational institutions, such as UN, UNESCO, WHO, etc., to protect the rights of children, workers, consumers, cultural groups or the environment. The “stigmergic” theory proposed here, however, suggests a number of complementary mechanisms through which new types of institutions are likely to evolve.
+>
+> The main idea is that the external interaction medium, a role that is increasingly dominated by the Internet, will evolve into a mediator. This mediator will not only facilitate, but direct, and eventually control, interactions so as to maximize their synergy. To achieve that, the medium needs to develop a form of intelligent management of the communication processes it supports, leading to what may be called collective intelligence or distributed cognition. When this distributed intelligence spans the world, the resulting system may be called the Global Brain." - [Accelerating Socio-Technological Evolution: from ephemeralization and stigmergy to the global brain, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf)
+
+
 > "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
 
 > "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)

@@ -293,6 +293,10 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 
 
+> "This is the real force behind globalization: the observation that social, economical and cultural processes no longer are impeded by geographical borders or distances, but cover the world as a whole. This is most clear on the Internet, where you can exchange information virtually instantaneously, without being aware whether your correspondent is situated around the corner, or on the other side of the planet." - [Accelerating Socio-Technological Evolution: from ephemeralization and stigmergy to the global brain, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf)
+
+
+
 
 
 
