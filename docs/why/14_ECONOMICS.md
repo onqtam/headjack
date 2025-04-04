@@ -329,6 +329,10 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 how to fund free books - relative to their popularity and recognition - in the commons
 
 
+> "If you think about it, the world’s citizens possess much more knowledge than a small group of individuals. What was lacking before Wikipedia was a mechanism to harness that knowledge. That was the technological breakthrough of Wikipedia: how the editors work together to find a consensus on what the articles say. So Wikipedia is an information technology that decentralizes decision-making for encyclopedia articles. Its core innovation is a mechanism that allows some of the most informed people on any topic to contribute to the articles. The result is a much better result than if these decisions were centralized." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=If%20you%20think,decisions%20were%20centralized.)
+
+> "Open source software has mechanisms to separate small pieces of the code for other developers to build them, and then mechanisms to merge that code back with the rest of it. Put in another way, open-source software development is an information technology that is more efficient than centralized development. It’s achieved that by finding good mechanisms to decentralize the development." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Open%20source%20software,decentralize%20the%20development.)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The new game & interfacing with the real world

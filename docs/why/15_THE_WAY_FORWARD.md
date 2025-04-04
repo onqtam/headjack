@@ -41,6 +41,8 @@ https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-uni
 
 > "Big history is about placing ourselves in relationship to the universe on the dimensions of time and complexity." - [What Is Big History and Why Does It Matter? by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202312/what-is-big-history-and-why-does-it-matter#:~:text=Big%20history%20is%20about%20placing%20ourselves%20in%20relationship%20to%20the%20universe%20on%20the%20dimensions%20of%20time%20and%20complexity.)
 
+> "Big history could be a chance to develop, eventually, a collective map making process to orient and guide humanity into the deeper future. What does it mean for future human action to be connected in a chain of evolutionary processes from the emergence of spacetime to the present? In this context big history has the opportunity to become simultaneously one story of our shared world as well as an infinite number of stories of how individuals can relate to that world and act in that world... Consequently, big history offers humanity a deeper perspective and an opportunity for cosmic reflection in relation to the meaning of human life from an exploration of the processes that culminated in our existence." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
 > "I think the next century will be the century of complexity." - [Stephen Hawking](https://www.azquotes.com/quote/636709)
 
 <img src="/img/relatedness_of_all_life_on_earth.jpeg"/>

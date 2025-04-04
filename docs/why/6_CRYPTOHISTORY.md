@@ -167,11 +167,8 @@ https://en.wikipedia.org/wiki/Akashic_records
 
 We could establish global [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) through authenticity, reputation, and the ledger of record.
 
-Another important aspect in improving coordination is to build applications that will help in forming common knowledge:
-
 "The great privilege of the elites of the future will be to erase the computer information about them and assume their private identity again." - Marshall McLuhan
 
-> "Common knowledge is often important for coordination. For example, a group of people might want to speak out about an issue, but only feel comfortable doing so if there’s enough of them speaking out at the same time that they have safety in numbers." [Vitalik](https://vitalik.ca/general/2022/06/12/nonfin.html)
 
 
 no mentioned "fact" shall remain unanchored/unreferenced - that's what stable URIs and intra-document addressing are for

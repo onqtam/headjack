@@ -493,6 +493,9 @@ https://sci-hub.se/10.1016/j.tree.2015.12.013
 # SECTION: Common knowledge
 ██████████████████████████████████████████████████████████████████
 
+> "Common knowledge is often important for coordination. For example, a group of people might want to speak out about an issue, but only feel comfortable doing so if there’s enough of them speaking out at the same time that they have safety in numbers." [Vitalik](https://vitalik.ca/general/2022/06/12/nonfin.html)
+
+
 > "As Michael Suk-Young Chwe writes in Rational Ritual: Culture, Coordination, and Common Knowledge, “Successful communication sometimes is not simply a matter of whether a given message is received. It also depends on whether people are aware that other people also receive it.” According to Suk-Young Chwe, for people to coordinate on the basis of certain information it must be “common knowledge,” a phrase used here to mean “everyone knows it, everyone knows that everyone knows it, everyone knows that everyone knows that everyone knows it, and so on.” The more public and visible the change is, the better." - [Coordination Problems: What It Takes to Change the World](https://fs.blog/coordination-problems/#:~:text=As%20Michael%20Suk,is%2C%20the%20better.)
 
 > "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
@@ -542,6 +545,9 @@ https://sci-hub.se/10.1016/j.tree.2015.12.013
 > "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 
 
+
+
+TODO INTERNET:
 
 > "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 
