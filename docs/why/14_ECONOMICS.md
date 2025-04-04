@@ -266,6 +266,7 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 
 
+> "While intellectual property rights need to be abolished as they are inhibiting progress and being used as a tool of inappropriate permanent economic control and intimidation, idea credit rights need far more recognition and need to start being applied to the originator, not the copyright or patent holders. Credit theft is a severe impediment to equality. It is as common now as ever for a person with access to powerful forums to pick up an idea from a person unable to reach the public and use it to enhance their own reputation... Credit for one’s work or ideas is the right of every person. Credit provides the human dignity of societal recognition, approval and belonging. Credit for ideas and actions is an inherent part of personal identity. Unlike copying, which is not theft, taking credit deprives the rightful owner of it and is theft. There is no need to ever hide the origin of information unless the ultimate goal is to isolate them and suppress or twist their messages or use their work to glorify another." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -333,6 +334,8 @@ how to fund free books - relative to their popularity and recognition - in the c
 
 > "Open source software has mechanisms to separate small pieces of the code for other developers to build them, and then mechanisms to merge that code back with the rest of it. Put in another way, open-source software development is an information technology that is more efficient than centralized development. It’s achieved that by finding good mechanisms to decentralize the development." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Open%20source%20software,decentralize%20the%20development.)
 
+
+> "Entire industries would be made redundant by adherence to the principle of transparency for public organizations. Transparency in its literal sense, not selected pieces of isolated information wrapped up and presented by an official but full transparency, of the kind that would allow any passerby to see exactly what an organization was up to. As the current powers have been asking private individuals for decades, what do they have to hide? The kind of radical transparency that private individuals have been exposed to needs to be turned on all organizations and actions which have any impact on the public. Individuals require a right to privacy. Collaborative society requires full knowledge of organizations and actions which affect the public." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The new game & interfacing with the real world
