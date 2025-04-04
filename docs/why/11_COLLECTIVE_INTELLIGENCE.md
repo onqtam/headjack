@@ -1231,6 +1231,13 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 
 > "Consciousness begins when brains acquire the power, the simple power I must add, of telling a story." - [Antonio Damasio](https://www.azquotes.com/quote/1350141)
 
+> "Global brain theory posits that human society will achieve a globally distributed organization through the emergence of a higher metasystem mediated by the self-organization of the internet and the technologies we use to interconnect on a planetary scale." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "Charles Darwin made a brief commentary on the possibility of global union of humanity in The Descent of Man, suggesting that “only an artificial barrier” prevented the human community from extending to “all nations and races” (1871, p. 96)." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "The global brain could become omniscient in the sense of possessing all practical knowledge necessary to deal with humanity’s global challenges, omnipresent in the sense of having a coherent view of what is happening everywhere in the world at the moment, omnipotent in the sense of eliminating waste and maximizing efficiency in regards to energy, transportation and control, and omnibenevolent in the sense of attempting to maximize benefit and reduce harm inflicted on all individuals." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+
 
 
 the internet as a stigmergic mediator

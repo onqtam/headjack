@@ -1,8 +1,5 @@
 
 
-spirituality: the experience and expression of the higher inner states
-religion: the meaning-making fabric of our relatedness to reality
-https://metamoderna.org/when-irony-saves-the-faithful/#:~:text=religion%20itself%C2%A0(the%20meaning%2Dmaking%20fabric%20of%20our%20relatedness%20to%20reality).
 
 > "A paradigm is a large pattern of interconnected and mutually reinforcing ideas, presuppositions, and values—and the pattern is partly invisible to all who think according to that paradigm." - [Education for Protopia: Why Play Is Vital to our Survival, by Hanzi Freinacht](https://metamoderna.org/education-for-protopia-why-play-is-vital-to-our-survival/)
 
@@ -30,4 +27,16 @@ https://metamoderna.org/when-irony-saves-the-faithful/#:~:text=religion%20itself
 > "Unlike biological evolution, which operates on the generational selection of functional chemical information structured by the genome, cultural evolution operates on the real-time selection of functional symbolic information structured by language. As a consequence, biological structures like genes, chromosomes and genomes - as well as cultural structures like ideas, theories and worldviews - are subject to evolutionary selection pressures in humans. This functional symbolic information can produce both adaptive behaviours and adaptive technology." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
 > "Cultural evolution, or the reproduction of symbolic code, will not necessarily remain dependent on a biological substrate indefinitely." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "Even in the face of overwhelming global obstacles (or even because we face overwhelming global obstacles), we cannot forget the hope for a higher world: a world where the structural conditions of civilization enable the highest flourishing of the human creative imagination; or even: the distributed emergence of a collective common goal that does not rest on an external necessary God [either religious (/supernatural), governmental (/bureaucratic), or market (/financial)] but on an internally generated intersubjective value system supporting collective freedom and immortality (a true universality)." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "In the same way the humanist-atheist axis challenged and overcame ancient religious and sociopolitical fundamentalisms consequently producing modernity; now the transmodernist axis must emerge to challenge postmodern relativistic thinking by positing a higher transcendental transhumanism as dedicated to forming its own ground. Such a ground could potentially be imagined under the scheme of a self-organized commons. Faith in our own ability and our own mind is the only way to overcome postmodern tensions and cynicism produced by contemporary government, market and religious fundamentalist historical traps." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "I do not think we should simply deconstruct the State, or Capitalism or Religion, but rather radically democratize and distribute the processes that are currently actualized in the State, Capital and Religion via reflective dialectical engagement." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "Another potential ramification is that the importance of financial capital could be replaced by a shift towards the importance of ‘social capital’ (i.e. psychological self-actualization and community building). In this potential future direction our adult socioeconomic lives could become increasingly dominated by finding important ways to interconnect and relate to each other as social and creative beings, as opposed to our current reality of finding ways to interconnect and relate to each other as economic agents (Rifkin 2014)." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "It is clear that our ‘present state’ is now out of line with the ‘goal state’ of a governance organization for the global brain." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "The theoretical emphasis in technological singularity literature (i.e. emergence of AGI) almost completely ignores the systemic dynamics of technological revolution in relation to the emerging sociotechnological sphere mediated by the totality of the internet as universal medium. In missing this systemic dynamic the technological singularity literature fails to even confront basic issues of systemic transitions in relation to control, power and hierarchy, and thus basic issues of systemic transitions in terms of social, economic and political life." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 

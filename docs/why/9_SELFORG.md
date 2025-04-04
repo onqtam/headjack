@@ -5,6 +5,9 @@
 
 > "All stable processes we shall predict. All unstable processes we shall control." - [John von Neumann](https://www.azquotes.com/quote/878804)
 
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cybernetics
 ██████████████████████████████████████████████████████████████████
@@ -25,6 +28,9 @@
 ██████████████████████████████████████████████████████████████████
 # SECTION: Self-organization
 ██████████████████████████████████████████████████████████████████
+
+> "We need different modes of sociopolitical governance. Complex systems science teaches us that local, bottom-up and distributed coordination are typically the most effective and capable mechanisms for enabling emergent global order in highly complex environments. This is because, in complex systems, there are simply too many differentiated parts for effective top-down mechanisms for coordination to stably function and synergize the whole. Thus any global systems science and serious sociopolitical global development agenda must understand how to maintain a new planetary organization with dynamic and distributed mechanisms that lead to self-organization (as opposed to static and hierarchical historical mechanisms that produce centralized organization)." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
 
 > "The flow of energy through a system acts to organize that system." - [Harold Morowitz](https://www.azquotes.com/quote/736471)
 

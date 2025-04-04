@@ -616,8 +616,6 @@ https://peterturchin.com/publications/evolution-of-complex-hierarchical-societie
 >
 > In short, Equality is a mirage. The choice is not between a society with no hierarchies and one with hierarchies, but rather between a society with unjust hierarchies that perpetuate unjust power structures and one with just hierarchies that serve morally desirable purposes. Our task is to distinguish between just and unjust forms of hierarchy and to think of ways to promote the good forms and minimize the influence of bad forms. Bad forms of social hierarchies can be relatively easy to diagnose: hierarchies are bad when they become ossified and when they only personally benefit the power holders and harm those at the bottom of the hierarchies. But building good hierarchies is more complex. They can take different forms depending on the nature of the social relation. Different hierarchical principles ought to govern different kinds of social relations: what justifies hierarchy among intimates is different from what justifies hierarchy among citizens, countries, human and animals, and humans and intelligent machines. Morally justified hierarchies can and should govern different spheres of our social lives, though these will be very different from many of the unjust hierarchies that have governed us in the past." - [The Case for Hierarchy, Palladium Magazine](https://www.palladiummag.com/2020/03/16/the-case-for-hierarchy/#:~:text=hierarchy%20is%20a,benefit%20of%20hierarchy.)
 
-
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Collective intelligence & the wisdom of crowds
 ██████████████████████████████████████████████████████████████████

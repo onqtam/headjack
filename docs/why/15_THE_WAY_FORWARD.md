@@ -983,6 +983,10 @@ TODO: fix the exact time for the above link
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
+spirituality: the experience and expression of the higher inner states
+religion: the meaning-making fabric of our relatedness to reality
+https://metamoderna.org/when-irony-saves-the-faithful/#:~:text=religion%20itself%C2%A0(the%20meaning%2Dmaking%20fabric%20of%20our%20relatedness%20to%20reality).
+
 
 > "The point is that if the love object is divine perfection, then one’s own self is elevated by joining one’s destiny to it." - [Ernest Becker](https://www.goodreads.com/quotes/1310418-the-point-is-that-if-the-love-object-is-divine)
 
