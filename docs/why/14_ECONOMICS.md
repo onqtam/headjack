@@ -514,6 +514,38 @@ https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_
 > "Only when science and technology are used with human concern in a world in which all of the earth's resources are held as the common heritage of all of the earth's people can we truly say that there is intelligent life on Earth." - [Jacque Fresco](https://www.azquotes.com/quote/728558)
 
 
+> "In Governing the Commons (1990) Ostrom set out to articulate how the ‘state/market’ could be broken with a ‘radical third’ of a commons as ‘institutions for collective action’ with a specific focus on their establishment and management. In other words, instead of systems controlling property and labour (nation-states), or systems producing and consuming commodities (markets), the commons are systems for managing and distributing shared resources and spaces with a core of direct democracy (as opposed to representative democracy). For Ostrom, one of the key notions for the successful establishment and maintenance of a commons based on access is how these systems identify and properly manage ‘Common Pool Resources’ (CPR), which she identifies as resources and spaces that are inherently ‘common’ but also ‘scarce’ and thus ‘rival’. In other words, overcoming the problem of establishing and managing CPRs in a commons is the foundation for ‘de-commodification’ and ‘opening a commonwealth’, and perhaps, the key shift in transforming neoliberal institutions (and the multinational corporations that thrive under their reign) into commons institutions capable of establishing an automated and collaborative commons.
+>
+> In this frame a resource/space an be generally defined as a CPR if one agent/persons use of the resource/space will subtract from any other agent/persons use and where it is often necessary, but difficult and costly, to exclude another agent/persons use outside the group from using the resource/space. Here there are numerous and extremely diverse examples of such ‘rival/scarce’ resources/spaces that could be classified as a ‘CPR’: fishers, grazing grounds, parks, farms, transportation grids, and so forth. In Ostrom’s analysis of systems for collective action that benefit the common good (i.e. higher levels of cooperation) there are always simple yet fundamental problems related to (Ostrom 1990, p. 27):
+>
+> A) Coping with free-riding
+>
+> B) Solving commitment problems
+>
+> C) Arranging for the supply of new institutions, and
+>
+> D) Monitoring individual compliance with sets of rules
+>
+> Furthermore, Ostrom did not just identify the problems that prevent the emergence and stabilization of commons institutions for collective action, but also identified key ‘design principles’ that can solve these problems, which include (Ostrom 1990, p. 90):
+>
+> A) Group boundaries clearly defined
+>
+> B) Rules governing the use of collective goods are well matched to local needs and conditions
+>
+> C) Most individuals affected by these rules can participate in modifying the rules
+>
+> D) The rights of community members to devise their own rules is respected by external authorities
+>
+> E) A system for monitoring member’s behaviour exists; the community members themselves undertake this monitoring
+>
+> F) A graduate system of sanctions is used
+>
+> G) Community members have access to low-cost conflict resolution mechanisms
+>
+> H) For CPRs that are parts of larger systems: appropriation, provision, monitoring, enforcement, conflict resolution, and governance activities are organized in multiple layers of nested enterprises
+>
+> The first thing for GB theorists to note here is the difficulty in understanding and implementing the relation between the ‘local’ dimension and the ‘global’ dimension. In other words, although both the automated and collaborative functions of the commons would ideally fall within a universal medium that intelligently satisfied all human necessities - some form of ‘post- monetary’ ‘offer network’ (Goertzel 2015; Heylighen 2016b) - this universal medium must also be nested in order to meet CPR demands on multiple interacting levels, e.g. regional, continental, international and global. On the practical level there are functions of human civilization that operate on different levels of organization, e.g. regional health facilities require different commons demands than do international transportation networks or global environmental problems, etc. But on the second societal and cultural level there is the simple fact that real groups and communities exist at multiple levels with specific needs and desires that cannot be totally ignored and replaced with a totalizing and ideological abstract universalism (i.e. ‘We are all One world community, and so forth’). Thus, the point of Ostrom’s commons ‘design principles’ is that, although they complicate the situation of establishing and maintaining a commons, they are at the same time necessary preconditions for the commons long-term viability as well the growth of pluralism and diversity within a new universal level of organization." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Sharing economy, having enough & not competing for status through possession
 ██████████████████████████████████████████████████████████████████

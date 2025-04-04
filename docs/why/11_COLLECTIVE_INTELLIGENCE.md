@@ -601,6 +601,8 @@ accelerating evolution
 # SECTION: Challenge propagation & Offer network
 ██████████████████████████████████████████████████████████████████
 
+> "An ‘offer network’ as a basic mechanic for the collaborative commons would be described as ‘fields of societal exchange facilitating the self-organization of goods/services built on the foundation of trust and reputation as a primary bonding mechanisms’." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
 
 
 
@@ -1236,6 +1238,8 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 > "Charles Darwin made a brief commentary on the possibility of global union of humanity in The Descent of Man, suggesting that “only an artificial barrier” prevented the human community from extending to “all nations and races” (1871, p. 96)." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
 > "The global brain could become omniscient in the sense of possessing all practical knowledge necessary to deal with humanity’s global challenges, omnipresent in the sense of having a coherent view of what is happening everywhere in the world at the moment, omnipotent in the sense of eliminating waste and maximizing efficiency in regards to energy, transportation and control, and omnibenevolent in the sense of attempting to maximize benefit and reduce harm inflicted on all individuals." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+
+> "Cyberneticist Valentin Turchin thoughtfully contemplated the possibility of a deeply integrated human super-being (1977, p. 259): “How far will integration of individuals go? There is no doubt that in the future (and perhaps not too far in the future) direct exchange of information among nervous systems of individual people (leading to their physical integration) will become possible.”" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
 
 
