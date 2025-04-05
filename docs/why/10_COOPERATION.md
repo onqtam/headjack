@@ -446,6 +446,9 @@ We need to define property rights and ownership and taxation through morality
 # SECTION: Metasystem transition
 ██████████████████████████████████████████████████████████████████
 
+> "Life is a Sisyphean race, run ever faster toward a finish line that is merely the start of the next race." - [Matt Ridley](https://www.azquotes.com/quote/368256)
+
+
 Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
 
 > "Metasystem transition theory (MST) is a general systems-level approach to understand the control of a higher level of complex organization and also a potential future singularity towards controlling a global superorganism. According to MST, higher levels of control organization can emerge from the coordination of less ordered subsystems. This type of higher coordination is hypothesized to emerge from the selection for more advanced information processing and communications, which enables previously disparate entities to synergistically coordinate their activities. Consequently, such systemic transitions change the relationship between the parts they are composed of, and (if successful) lead towards new emergent and stable characteristics of the whole, through the exploration of (in our context) new (sociotechnological) connections, new (sociotechnological) distinctions, and consequently, new (sociotechnological) possibility spaces." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
@@ -586,7 +589,51 @@ common knowledge example with cc vs bcc in email, also for someone coming out as
 >
 > ... But changing weights, measures, and the calendar is particularly effective not simply because they change the way that a given individual thinks about the revolution or the physical world, but because they change how individuals interact with each other; they change what an individual knows about other individuals.
 >
-> ... But as Scott (1990, p. 49) notes, "the successful communication of power and authority is freighted with consequences insofar as it contributes to something like a self-fulfilling prophecy. If subordinates believe their superior to be powerful, the impression will help him impose himself and, in turn, contribute to his actual power." Hence the publicity of rituals, their "successful communication," can constitute power all by itself; association is helpful but not absolutely necessary." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+> ... But as Scott (1990, p. 49) notes, "the successful communication of power and authority is freighted with consequences insofar as it contributes to something like a self-fulfilling prophecy. If subordinates believe their superior to be powerful, the impression will help him impose himself and, in turn, contribute to his actual power." Hence the publicity of rituals, their "successful communication," can constitute power all by itself; association is helpful but not absolutely necessary.
+>
+> ... coordination problems include not only quite specific tasks such as group hunting but also overarching matters such as political and social authority. Earlier we considered authority simply in terms of each person's decision about whether to consent to a given regime, but authority generally includes much more, such as systems of social status, implicit and explicit rules of behavior, and the entire set of ideas and institutions that guide social interaction. A ritual should then make public, make common knowledge, in this case not a specific hunting plan, but a set of beliefs and rules." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+on structure, formalism & repetition in rituals
+
+> "... each participant in a ritual can never be completely sure that the other participants are paying full attention. Formalization, the fact that once one phrase is said, the next automatically follows, assures each participant that even a person who momentarily loses attention or mentally drifts off for a while can still easily figure out what other people must have heard. With lots of repetition and structure, a person who is only paying attention at the end can still know what a person who only paid attention at the beginning heard. On a longer time scale, performing rituals the same way year after year gives a young person confidence that he hears what older people heard years ago, and an old person confidence that future people will know what he knows. The certainty of the ritual sequence generates authority not by enforcing responses but by helping generate common knowledge.
+>
+> ... a ritual employs several parallel ways of saying the same thing, and thus each person knows that even if another person might not "get it" in one way, she can in another. Audience participation - for example, call and response - helps create common knowledge: each person can see from the gestures or speech of others that they are in fact paying attention." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+Inward-Facing Circles
+
+> "One specific way to generate common knowledge, as mentioned in our bus example earlier, is eye contact. For larger groups the closest thing to eye contact is for everyone to face each other in a circle, which enables each person to see that everyone else is paying attention. Perhaps this is one reason why inward-facing circles help in coordination." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+<details><summary>Further details</summary><p>
+
+Marketing and coordination problems around products
+
+> "Buying a particular good might be a coordination problem for various reasons. Technological reasons include "network externalities" (Katz and Shapiro 1994): a person would be more likely to buy a Macintosh computer, fax machine, or DVD player if others buy it also, because a person's utility from buying it increases as the number of other people buying it increases. "When you go to Office Depot to buy a fax machine, you are not just buying a US$200 box. You are purchasing for $200 the entire network of all other fax machines" (Kelly 1997). Social reasons can be also quite strong: I might want to see the movie Titanic simply because I want to be able to talk about it with my friends and co-workers. I might be more likely to buy Miller Lite beer if it is popular, so that when friends come over, I can give them beer which I expect they will like. Coordination problems might exist for newly introduced goods, because of the fun or distinction in being part of a new popular trend, or simply because one doesn't feel as foolish when purchasing a new good if one knows that others are buying it too. "Pleasure from a good is greater when many people want to consume it, because a person does not want to be out of step with what is popular" (Becker 1991, p. 1110).
+>
+> ... Many have argued that advertising "creates needs" that people would not have cared about otherwise; for example, in the early 1900s "the visible application of cosmetics was deemed highly inappropriate by middle-class Americans" (Vinikas 1992, p. 57). But perhaps it is less a matter of creating individual isolated needs than of tapping into the deep and basic need of each individual to conform to community standards, an ever present coordination problem. Thus a mechanism for generating common knowledge, such as national magazine advertising, would have greatest advantage in matters over which existing common knowledge mechanisms, such as conversation among friends, are weakest: "delicate" and "taboo" issues such as personal hygiene and appearance. People fighting the external influence of modern advertising would thus try to reduce its advantage by generating common knowledge internally, "breaking the taboo" and speaking freely among themselves.
+>
+> ... In other words, people upgrade only if they think that others will too; upgrading is a coordination problem. According to Microsoft chairman Bill Gates, "you have to create a lot of excitement to overcome inertia" (Helm 1995). For coordination problem goods such as computer operating systems, you need more than just excitement: you need common knowledge.
+>
+> ... The Discover card is a nice example of a "network externality": consumers use them only if enough retailers accept them, and retailers accept them only if enough consumers use them. People might be more likely to buy a new model of car if they know that many other people will buy it: an unpopular car might be more difficult or expensive to service, for example. Purchasing goods like cars, clothing, shoes, beer, and soft drinks, which to some degree are consumed publicly, can be a coordination problem if people want to show that they are participating in what's popular.
+>
+> ... I call a good "social" if a person is more likely to buy it the more other people buy it; buying a social good is a coordination problem. If we assume that viewers generally know which shows are popular, we can say that when a product is advertised on a popular show, not only do many people see the ad, each viewer knows that many other people see the ad. Hence our argument would say that social goods should be advertised on popular shows." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+Practical ways of thinking about common knowledge without falling into infinite recursion and impossible ideals
+
+> "The most obvious problem with the concept of common knowledge is that it seems to require great cognitive abilities: can anyone think through, say, more than two or three layers of "I know that she knows that he knows ... "? Common knowledge thus seems to be an ideal, impractical concept. For example, Ariel Rubinstein (1989) gives an example in which two people have ninety-nine levels of metaknowledge but cannot coordinate because they do not have the hundredth. There are various ways of making the concept of common knowledge less strict and more plausible. Instead of requiring that I know that you know, one can require that I believe with 90 percent probability that you believe with 90 percent probability and so on (Monderer and Samet 1989; Morris, Rob, and Shin 1995; Morris 1999). One can also define common knowledge not as a condition on arbitrarily many levels, but on a recursive step, which is more plausible as an actual thought process (see Lewis 1969, p. 52; also, e.g., Milgrom 1981): assume that when we make eye contact, we both know that we are making eye contact. When we make eye contact, I know that we are making eye contact, and hence I know that you know that we are making eye contact, and so forth. Perhaps the most plausible way of dealing with this issue, as pointed out by Herbert Clark and Catherine Marshall (1992, p. 33), is to say that people recognize common knowledge and deviations from it heuristically: "if A and B make certain assumptions about each other's rationality, they can use certain states of affairs as a basis for inferring the infinity of conditions all at once." When we make eye contact, I don't have to think through anything; I can simply infer from past experience that usually when we make eye contact, common knowledge is formed... common knowledge is not just an ideal but a concept that is subject to emprical investigation, not only at the level of social practices but also at the levels of psychology, evolutionary biology, and neuroscience." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+<!-- 
+partisanship as a coordination problem
+
+> "... rates of partisan affiliation in the United States - measured by asking a person whether she considers herself to be a member of a political party, or whether she cares which party wins, for example - tend to be higher in states in which people can publicly register their party affiliation when they register to vote. This suggests that partisanship is a coordination problem; if partisanship were mainly about, for example, individual loyalty, then party registration laws should not make a difference." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+-->
+
+</p></details>
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 
 > "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 
@@ -735,6 +782,7 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 # SECTION: Incentive design
 ██████████████████████████████████████████████████████████████████
 
+The more we move away from biased ape/identity-based decisions and towards impartial mechanism design - the better
 
 
 > "The consequences of an act affect the probability of its occurring again." - [B. F. Skinner](https://www.goodreads.com/quotes/1054191-the-consequences-of-an-act-affect-the-probability-of-its)

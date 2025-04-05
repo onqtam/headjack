@@ -290,6 +290,15 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "Our greatest ability as humans is not to change the world; but to change ourselves." - [Mahatma Gandhi](https://www.azquotes.com/quote/850719)
 
+> "Though politicians are regarded as scum, government as a machine is held to be almost infallible." - [Matt Ridley](https://www.goodreads.com/quotes/7343748-though-politicians-are-regarded-as-scum-government-as-a-machine)
+
+> "It is strange to me that most people assume companies will be imperfect (as they are), but they assume that government agencies will be perfect, which they are not." - [Matt Ridley](https://www.goodreads.com/quotes/501608-it-is-strange-to-me-that-most-people-assume-companies)
+
+> "The market is a system of mass cooperation." - [Matt Ridley](https://www.goodreads.com/quotes/7437574-the-market-is-a-system-of-mass-cooperation)
+
+
+> "The precision of our biological clock across trillions of cells is incredible. One never sees someone with an old left arm, but a young right arm. Aging can obviously be fixed. The real question is whether it should be." - [Elon Musk](https://x.com/elonmusk/status/1645220289586790401)
+
 
 
 

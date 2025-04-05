@@ -16,6 +16,9 @@
 
 > "As life adapts to its surroundings, natural selection generates predictive knowledge, and recursive self-organization generates increasingly complex, resilient, and intelligent cybernetic systems." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=As%20life%20adapts%20to%20its%20surroundings%2C%20natural%20selection%20generates%20predictive%20knowledge%2C%20and%20recursive%20self%2Dorganization%20generates%20increasingly%20complex%2C%20resilient%2C%20and%20intelligent%20cybernetic%20systems.)
 
+> "In order to deal properly with the diversity of problems the world throws at you, you need to have a repertoire of responses which are (at least) as nuanced as the problems you face." - [Ashby's Law of Requisite Variety - an alternative description](https://www.businessballs.com/strategy-innovation/ashbys-law-of-requisite-variety/#:~:text=In%20order%20to%20deal%20properly%20with%20the%20diversity%20of%20problems%20the%20world%20throws%20at%20you%2C%20you%20need%20to%20have%20a%20repertoire%20of%20responses%20which%20are%20(at%20least)%20as%20nuanced%20as%20the%20problems%20you%20face.)
+"systems will become only as complex as their niche requires"
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity
@@ -126,6 +129,8 @@ According to cybernetics, intelligence sits on top of feedback loops
 
 at the core of intelligence is the capacity for relevance realization - according to john vervaeke
 relevance realization is self-organizing
+
+Collective relevance realization
 
 Use the quote from naval? About judgement being the most important skill. The ability to develop an intuition of weighting things the most accurately with limited information
 > "In an age of permissionless leverage, judgement, not work, determines success and failure." - [Naval Ravikant](https://twitter.com/naval/status/1364602832675106818)

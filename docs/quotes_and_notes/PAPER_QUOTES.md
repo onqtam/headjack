@@ -2046,7 +2046,7 @@ Gao, H., Barbier, G., & Goolsby, R. (2011). Harnessing the crowdsourcing power o
 
 Evrard, A. E., Erdmann, C., Holmquist, J., Damon, J., & Dietrich, D. (2015). Persistent, Global Identity for Scientists via ORCID. arXiv:1502.06274 [astro-ph,physics:physics]. Retrieved from http://arxiv.org/abs/1502.06274
 
-
+Coleman, James S. 1988. "Social Capital in the Creation of Human Capital." American Journal of Sociology 94 (suppl.): S95-S120.
 
 
 

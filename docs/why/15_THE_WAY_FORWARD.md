@@ -722,6 +722,7 @@ Just like life, the internet also evolved blindly and unconsciously - gradient d
 
 > "Physical strength can never permanently withstand the impact of spiritual force." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/415349-physical-strength-can-never-permanently-withstand-the-impact-of-spiritual)
 
+"Never doubt that a group of people can change the world. Indeed that is all that ever has." - Margaret Mead
 
 > "Men are not prisoners of fate, but only prisoners of their own minds." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/45529-men-are-not-prisoners-of-fate-but-only-prisoners-of)
 
@@ -776,6 +777,14 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 # SECTION: The future of governance & democracy
 ██████████████████████████████████████████████████████████████████
 
+> "Right now, we can’t upgrade the state. What if we could?" - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Right%20now%2C%20we%20can%E2%80%99t%20upgrade%20the%20state.%20What%20if%20we%20could%3F)
+
+> "The Internet is to America what America was to Britain. A frontier territory that will ultimately succeed even its worthy progenitor." - [Balaji](https://twitter.com/balajis/status/1774529076742754328)
+
+<!-- 
+> "The Internet is to the USA as the Americas were to the UK: a wide open territory that ultimately gave birth to new states and ways of thinking." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=the%20Internet%20is%20to%20the%20USA%20as%20the%20Americas%20were%20to%20the%20UK%3A%20a%20wide%20open%20territory%20that%20ultimately%20gave%20birth%20to%20new%20states%20and%20ways%20of%20thinking.)
+ -->
+
 > "Civilization advances by extending the number of important operations which we can perform without thinking of them." - [Alfred North Whitehead](https://www.goodreads.com/quotes/53970-civilization-advances-by-extending-the-number-of-important-operations-which)
 
 > "We grow in direct proportion to the amount of chaos we can sustain and dissipate." - [Ilya Prigogine](https://www.azquotes.com/quote/387208)
@@ -796,6 +805,8 @@ https://en.wikipedia.org/wiki/Open-source_governance
 > "An ethos is the characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations. The establishment of a new global ethos based on the human superorganism perspective requires a fundamental shift in how we envision international cooperation. Systems thinking is an analytical approach that views complex problems through the lens of the whole system rather than isolated parts. It focuses on designing resilient and adaptive systems capable of withstanding and evolving through challenges, with an understanding that changes in one part of a system can significantly impact the entire system.
 >
 > Systems thinking naturally leads to thinking on a global scale. To build a global ethos of unity and peace, we need a more inclusive and participatory approach that values the contribution of all the individuals working to maintain a stable whole. Current global governance structures, like the United Nations, often rely on top-down mechanisms that may not fully represent or address grassroots concerns. The new approach should leverage local initiatives and voices, integrating them into the fabric of international policymaking and conflict resolution. The transformation of international organizations to reflect a more bottom-up approach would empower individuals and communities to participate in the global decision-making process." - [Harmonizing Humanity: A Unifying Worldview is the Only Lasting Solution to Peace in the Middle East, by Bobby Azarian](https://roadtoomega.substack.com/p/harmonizing-humanity-a-unifying-worldview#:~:text=An%20ethos%20is,decision%2Dmaking%20process.)
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Netocracy & Attentionalism
@@ -820,6 +831,8 @@ https://www.youtube.com/watch?v=4FuI0-ad6GA
 ██████████████████████████████████████████████████████████████████
 # SECTION: Transition / Exodus
 ██████████████████████████████████████████████████████████████████
+
+> "What you do speaks so loudly that I cannot hear what you say." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear)
 
 The Exodus
 https://cdn.jns.org/uploads/2020/04/Moses-and-the-Exodus-880x495.jpg
@@ -950,6 +963,10 @@ something beyond our cells, the invidivual or the genome with all of its rivalro
 
 <img src="/img/evarrow_gb_eye.jpg"/>
 
+Fuck the naturalistic fallacy
+> "[57] A rudimentary beginning of “emotion” emerges here… The bacterium must sense its world and act to avoid toxins and to obtain food. The evaluation of “good” versus “bad,” arguably the “first sense,” enters here. …I note also that Hume’s famous: “one cannot deduce an ‘ought’ from an ‘is’”, the famous naturalistic fallacy, rests on the critical fallacy that Hume, like Descartes, thought of a mind “knowing” its world. Hume did not think of an agent “acting” in its world. Given “action” and “doing”, doing “it” well or poorly enters inevitably, and with it, “ought.” With ought, the need for evaluation, the rudiments of emotion without positing consciousness, enter. (“Evolution Beyond Newton, Darwin, and Entailing Law: The Origin of Complexity in the Evolving Biosphere,” in Complexity and the Arrow of Time, ed. Charles H. Lineweaver, Paul Davies, and Michael Ruse (Cambridge: Cambridge University Press, 2013), 169)" - [Stuart Kauffman](quote_taken_from_the_book_A_Universal_Learning_Process,_by_Brendan_Graham_Dempsey)
+
+
 > "We start with observations, and if the evolving cosmos has an observed direction, rejecting that view is clearly nonempirical. There need not necessarily be a knowable end point, but there may be an arrow." - [The Emergence of Everything, by Harold Morowitz](https://www.goodreads.com/book/show/2301.The_Emergence_of_Everything)
 
 > "The universe has a direction and we are meant to participate in it. Not because it’s the “right” thing to do from an abstract, moralistic perspective, but because it’s the “optimal” thing to do from an evolutionary and cognitive perspective." - [Brett Andersen](https://brettandersen.substack.com/p/human-beings-were-selected-for-non#:~:text=the%20universe%20has%20a%20direction%20and%20we%20are%20meant%20to%20participate%20in%20it.%20Not%20because%20it%E2%80%99s%20the%20%E2%80%9Cright%E2%80%9D%20thing%20to%20do%20from%20an%20abstract%2C%20moralistic%20perspective%2C%20but%20because%20it%E2%80%99s%20the%20%E2%80%9Coptimal%E2%80%9D%20thing%20to%20do%20from%20an%20evolutionary%20and%20cognitive%20perspective.)
@@ -980,6 +997,51 @@ TODO: fix the exact time for the above link
 
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: As a Service
+██████████████████████████████████████████████████████████████████
+
+Right side of the history as a service
+
+
+Subreddits without feds and bots as a service
+
+Religion as a service
+Religio as a Service
+Meaning as a service
+Moral highground as a service
+God as a service
+palantir as a service
+HR/marketing/sales as a service
+Community as a service
+Bible as a service
+Mozarts/Einsteins as a service
+Binding - skin in the game - as a service
+Matrix as a service
+Judgement as a service
+Justification as a service
+Reason as a service
+Coherence as a service
+Shared memory as a service
+Shared identity as a service
+Wikimeaning as a service
+Disney as a service - participating in the programming of the culture for the next generation
+Revelation as a Service
+
+IRS as a Service
+Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity
+Purity is giving the most while taking the least while actively promoting the same ideology. Purity is living for others.
+
+Submission to the rules of your choice - choose your own bondage - bondage/constraints as a service
+
+Telos as a service - but a service on your part where you pay with (the time of) your life - you get a chance to serve something greater than yourself - you get to serve the expansion of the self which is the final major evolutionary metasystem transition - you get to manifest God - the Ultimate.
+
+“Find the others” as a Service
+FaaS
+FtoaaS
+This as the section for matchmaking and with the leary quote
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
@@ -993,6 +1055,9 @@ https://metamoderna.org/when-irony-saves-the-faithful/#:~:text=religion%20itself
 > "It wasn't God who introduced us to morality; rather, it was the other way around. God was put into place to help us live the way we felt we ought to." - [Frans de Waal](https://www.azquotes.com/quote/1377025)
 
 > "If I were God, I'd work on the reach of empathy." - [Frans de Waal](https://www.azquotes.com/quote/576491)
+
+God is the all-encompassing and farthest-reaching cognitive light cone
+The end of history is not liberal democracy - it is god
 
 > "The greatest question of our time is not communism vs. individualism, not Europe vs. America, not even the East vs. the West; it is whether men can bear to live without God." - [Will Durant](https://www.goodreads.com/quotes/58869-the-greatest-question-of-our-time-is-not-communism-vs)
 
@@ -1010,11 +1075,6 @@ https://metamoderna.org/when-irony-saves-the-faithful/#:~:text=religion%20itself
 
 
 we are all religious - as a section name
-
-“Find the others” as a Service
-FaaS
-FtoaaS
-This as the section for matchmaking and with the leary quote
 
 "... those who say that reli­gion has nothing to do with politics do not know what religion means".
 —Gandhi

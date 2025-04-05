@@ -114,6 +114,7 @@ Forward
 The Matrix: Upgraded - Neo upgrades it
 The new Elite
 Stealing God
+The consciousness guide to the galaxy
 The maximum
 Thermodynamic integration
 Don't Die 2.0 or ^2 squared - the sequel to BJ's Don't Die

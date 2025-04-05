@@ -32,6 +32,8 @@ All this has lead to the rise of apps like [Linktree](https://en.wikipedia.org/w
 > "Asked a girl for her Instagram and she just told me to follow her on Venmo?" - [Nikita Bier
 ](https://twitter.com/nikitabier/status/1644782161617375233)
 
+> "I just moused over someone's name in GMail to see how many followers he had." - [Paul Graham](https://twitter.com/paulg/status/1726942891426410950)
+
 # Anatomy of your digital footprint
 
 In order to reconstruct we must first deconstruct. What types of actions & events result in our trail of data? What are the building blocks? Here's a rough scetch of a few broad categories:

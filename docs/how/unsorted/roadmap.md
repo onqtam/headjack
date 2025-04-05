@@ -86,6 +86,7 @@ Here is what facebook should do
 Here is what insta
 
 
+
 Comics po knigata - za vseki chapter/section
 
 
@@ -99,6 +100,27 @@ dogfeeding the system: how to get most issues from "the listening society" & "no
 dogfeeding the system: plugging the political insights from "the listning society", "nordic ideology", "the origin of wealth" last chapters into the system with causal links and weights based on relevance
 
 > "My number one predictor of whether or not a company will find product-market fit: High shipping cadence." - [Naval Ravikant](https://x.com/naval/status/1128346098362281984)
+
+
+
+Can this be funded like star citizen?
+
+
+
+
+# geopolitics
+
+The first countries to utilize this architecture will be the biggest winners.
+
+The US should instantly dump a few hundred thousand billion for building this and passing the money through its emergent incentive structure.
+
+
+
+
+
+
+
+
 
 
 Oauth as a partner

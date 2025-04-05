@@ -2435,9 +2435,6 @@ Multicast messages - define a filter and broadcast to a select set of identities
 
 “How/why is this relevant to me?”
 
-Religion as a service
-Religio as a Service
-
 Identity is bigger than money and markets - it is our soul
 
 What if we could ask the Global Brain “why” about any topic and get an answer we could comprehend - suited to our level of understanding?
@@ -3711,8 +3708,6 @@ Crowdsourcing/defining virtue
 
 Rentieering is bad
 
-Moral highground as a service
-
 In markets if two people make the same correct prediction about a stock but one of them operates with 10 or 100 times more capital they make that much more - even though their competency for this bet was the same - exacerbating the wealth inequality. People should be able to earn the same amount of benefit from the same successful prediction - we need to equalize this - this is where we truly need equality - this is about equality of opportunity
 Or maybe we might equalize only the upside but make it so that the downside is bigger and bigger for accounts with a long track record !!!
 
@@ -3946,16 +3941,7 @@ We should get everyone to spend some time in the jungle and fall in love with na
 
 Maximally capable, motivated & fulfilled workforces
 
-God as a service
-palantir as a service
-HR/marketing/sales as a service
-Community as a service
-Bible as a service
-Mozarts as a service
-Binding - skin in the game - as a service
-Matrix as a service
-Participatory
-Conscious Religion
+
 
 The social singularity
 Cultural singulairty
@@ -3984,11 +3970,6 @@ EVE-rything Online
 If life and youth were truly sacred we’d do everything to nourish the young and give them a future
 
 Hacking the simulation is literally steering the unfolding - it is agency - the higher the agency the higher we change the trajectory. What should our loss function be?
-
-Subreddits without feds as a service
-
-As a service - as a separate chapter
-Meaning as a service
 
 A religious company
 
@@ -4197,8 +4178,6 @@ The intelligence that Bryan wants to surrender his life to is not going to be a 
 We should replace our gdp metric with reducing nuclear warheads as the main thing to optimize for
 
 The friendship protocol - the “pick the optimal side” protocol
-
-Telos as a service
 
 We need to gamify the world and pet the young compete with us for status
 
@@ -4423,12 +4402,12 @@ The opt-in property rights regime - a new competitive landscape for property law
 
 The surest way to make our kids prosperous is to make them most cooperative with other cooperative individuals - help build their religion
 
-Hoq do we optimally install the rught algorithms in people - the most beneficial and important memes in terms of the self-govering mechanisms?
+How do we optimally install the rught algorithms in people - the most beneficial and important memes in terms of the self-govering mechanisms?
 How do we crowdsource the best memes?
 
 We must sort our memes
 
-Collective relevance realization
+
 
 How do we best make the most capable, energetic, healthy, intelligent and happy people possible as a system?
 
@@ -4437,17 +4416,11 @@ Making addictive products isnt virtuous
 
 What is the ultimate attention allocation system?
 
-We can EveOnlinify the whole economy
-
 Participatory game design
 
 The real human potential
 
 Use this open source stack of civilizational tools and u’ll be able to trade with us with 0% taxes and u get a guaranteed market and mindshare
-
-Submission to the rules of your choice - choose your own bondage - bondage/constraints as a service
-
-The more we move away from biased ape/identity-based decisions and towards impartial mechanism design - the better
 
 
 How do we make individuals thrive mostly in service to the collective?
@@ -4455,15 +4428,14 @@ How do we make individuals thrive mostly in service to the collective?
 We must reward the best predictors also based on how well they train others to be good predictors as well
 
 
-I want to express how other people should behave and what to strive for
+
+
 
 How do we enable others to raise the best possible children?
 
-How do we collectively co-create our lineage?
-
 How do we express what we want it all to mean?
 
-We glorify mediocrity because we as a society are uncapable of greatness with our current culture
+
 
 “I vow to not take above the minimum we’ve determined that everyone must have access to until we meet the needs of all - and then unlock the next tranche of wealth inequality. Stepwise raising of the style of living for everyone in a contractually binding way
 
@@ -4474,8 +4446,6 @@ The more scientists and enginners we can produce - the more we will be able to
 The largest collective will determine the largest currency
 
 How fi we create the ultimate story? The one that is most competent and fair and desired by the most possible people?
-
-The consciousness guide to the galaxy
 
 What must everybody read and understand? What is the most important set of memes and what is their most compressed yet comprehensible form?
 
@@ -4494,21 +4464,9 @@ We must all become the channel for this new idea to be retransmitted to others
 
 Consuming more than the standard that your society wishes to give to everyone else out of respect and love - consuming more than that is a sin.
 
-We can/must make functional minimalism truly fashionable
-
-We have an economy in which there are so many dumb jobs
-
-Can this be funded like star citizen?
-
 The evolution of property rights
 
-The precision of our biological clock across trillions of cells is incredible. One never sees someone with an old left arm, but a young right arm.
-Aging can obviously be fixed. The real question is whether it should be.
-https://x.com/elonmusk/status/1645220289586790401
-
-The most cooperative way of being inevitably has to make use of the most advanced infrastructure for cooperation
-
-Universal Basic Blueprint
+The most cooperative way of being has to make use of the most advanced infrastructure for cooperation by necessity
 
 The only question is: how do we make better and greater people? There is no other ultimate question - everything else is in service to this one
 
@@ -4528,7 +4486,6 @@ what if teachers were evaluated not only based on the success of their current c
 
 > "In our infinite ignorance we are all equal." - [Karl Popper](https://www.goodreads.com/quotes/640011-while-differing-widely-in-the-various-little-bits-we-know)
 
-
 > "For every outside there is an inside and for every inside there is an outside, and although they are different, they go together." - [Alan Watts](https://www.goodreads.com/quotes/59836-really-the-fundamental-ultimate-mystery----the-only-thing-you)
 
 
@@ -4547,17 +4504,10 @@ what if teachers were evaluated not only based on the success of their current c
 
 
 
-> "Our mental models thus tend to settle over time, and it takes progressively bigger and bigger shocks to shake them up." - [The Origin of Wealth, Eric D. Beinhocker](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth)
-^^ thus it is incredibly important that we give people the most accurate and functional models as early as possible - the most consequential and relevant ones.
-
-
-"Never doubt that a group of people can change the world. Indeed that is all that ever has." - Margaret Mead
 
 
 > "... the over-connected topology leading to what Kauffman coined a Complexity Catastrophe in his work on adaptive landscapes. Beyond a given threshold, the connectivity becomes more disruptive than catalytic to the playing out of adaptive potentials. Likely the reason evolution selects for, not against, scale-specific boundaries / membranes / flow regulating mechanisms that enable complex co-operation and the accretion of complex adaptive structure." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1845546271215616117)
 
-
-> "The purpose of the creation of God is the minimization of free energy." - [Joscha Bach](https://x.com/Plinz/status/1845687311637647842)
 
 
 
@@ -4580,21 +4530,13 @@ what if teachers were evaluated not only based on the success of their current c
 
 
 
-> "Though politicians are regarded as scum, government as a machine is held to be almost infallible." - [Matt Ridley](https://www.goodreads.com/quotes/7343748-though-politicians-are-regarded-as-scum-government-as-a-machine)
 
-> "It is strange to me that most people assume companies will be imperfect (as they are), but they assume that government agencies will be perfect, which they are not." - [Matt Ridley](https://www.goodreads.com/quotes/501608-it-is-strange-to-me-that-most-people-assume-companies)
 
-> "The market is a system of mass cooperation." - [Matt Ridley](https://www.goodreads.com/quotes/7437574-the-market-is-a-system-of-mass-cooperation)
 
-> "So if gangsters become governments, does this mean that governments began as gangsters?" - [Matt Ridley](https://www.goodreads.com/quotes/7817709-so-if-gangsters-become-governments-does-this-mean-that-governments)
 
 > "Because it is a monopoly, government brings inefficiency and stagnation to most things it runs; government agencies pursue the inflation of their budgets rather than the service of their customers; pressure groups form an unholy alliance with agencies to extract more money from taxpayers for their members. Yet despite all this, most clever people still call for government to run more things and assume that if it did so, it would somehow be more perfect, more selfless, next time." - [Matt Ridley](https://www.azquotes.com/quote/470787)
 
 > "At some point, human intelligence became collective and cumulative in a way that happened to no other animal." - [Matt Ridley](https://www.azquotes.com/quote/1093615)
-
-> "It is not a zero sum game. The simple idea of the gains from trade lies at the heart of the modern and the ancient economy, not the power of capital. There is nothing else to it." - [Matt Ridley](https://www.azquotes.com/quote/604293)
-
-> "Life is a Sisyphean race, run ever faster toward a finish line that is merely the start of the next race." - [Matt Ridley](https://www.azquotes.com/quote/368256)
 
 > "Intelligence will become more and more collective; innovation and order will become more and more bottom-up." - [Matt Ridley](https://www.azquotes.com/quote/758177)
 
@@ -4632,18 +4574,10 @@ what if teachers were evaluated not only based on the success of their current c
 
 > "Just as the ability to start new currencies moved us from observational to empirical macroeconomics, the ability to start new countries takes us from the realm of political science — the study of what is — to political technology, the engineering of what can be." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Just%20as%20the%20ability%20to%20start%20new%20currencies%20moved%20us%20from%20observational%20to%20empirical%20macroeconomics%2C%20the%20ability%20to%20start%20new%20countries%20takes%20us%20from%20the%20realm%20of%20political%20science%20%E2%80%94%20the%20study%20of%20what%20is%20%E2%80%94%20to%20political%20technology%2C%20the%20engineering%20of%20what%20can%20be.)
 
-> "Right now, we can’t upgrade the state. What if we could?" - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Right%20now%2C%20we%20can%E2%80%99t%20upgrade%20the%20state.%20What%20if%20we%20could%3F)
-
-> "The Internet is to the USA as the Americas were to the UK: a wide open territory that ultimately gave birth to new states and ways of thinking." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=the%20Internet%20is%20to%20the%20USA%20as%20the%20Americas%20were%20to%20the%20UK%3A%20a%20wide%20open%20territory%20that%20ultimately%20gave%20birth%20to%20new%20states%20and%20ways%20of%20thinking.)
-
-> "The Internet is to America what America was to Britain. A frontier territory that will ultimately succeed even its worthy progenitor." - [Balaji](https://twitter.com/balajis/status/1774529076742754328)
 
 
 
 
-
-> "I just moused over someone's name in GMail to see how many followers he had." - [Paul Graham](https://twitter.com/paulg/status/1726942891426410950)
-^^ fragmented identity, also status
 
 
 
@@ -4687,14 +4621,11 @@ We organize our view with tags and lists and let others see our prism - this way
 Social media 1.0: crimes against complexification, sensemaking, evolvability, adaptability and self-organization
 the nature of the current social platforms is that they hinder the complexification and sophistication of online society
 Not having unrestricted programmatic access to the public commons is an intellectual crime.
-> "In order to deal properly with the diversity of problems the world throws at you, you need to have a repertoire of responses which are (at least) as nuanced as the problems you face." - [Ashby's Law of Requisite Variety - an alternative description](https://www.businessballs.com/strategy-innovation/ashbys-law-of-requisite-variety/#:~:text=In%20order%20to%20deal%20properly%20with%20the%20diversity%20of%20problems%20the%20world%20throws%20at%20you%2C%20you%20need%20to%20have%20a%20repertoire%20of%20responses%20which%20are%20(at%20least)%20as%20nuanced%20as%20the%20problems%20you%20face.)
-"systems will become only as complex as their niche requires"
 
 
 
-> "What you do speaks so loudly that I cannot hear what you say." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/11079-what-you-do-speaks-so-loudly-that-i-cannot-hear)
 
-> "That’s the nature of culture. It’s not a single decision—it’s a code that manifests itself as a vast set of actions taken over time. No one person makes or takes all these actions. Cultural design is a way to program the actions of an organization, but, like computer programs, every culture has bugs. And cultures are significantly more difficult to debug than programs." - [Ben Horowitz, What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/quotes/10055569-that-s-the-nature-of-culture-it-s-not-a-single-decision-it-s)
+
 
 
 
@@ -4720,8 +4651,6 @@ Imagine all the youth competing to surface the most truth to the world in the gl
 
 Imagine if instead of having to read a book like “the real antony fauci” all you had to do was look at the computed score of anthony fauci based on criteria you trust
 
-A network for transparency
-
 With canonical deduplicated entries for concepts and events, reality will be harder to ignore
 
 ranking the top concerns of humanity is like becoming aware of our discomfort - a problem well stated is half solved
@@ -4731,8 +4660,6 @@ a permissionless and open-ended event ecosystem around identity is a prerequisit
 human progress happens when we increase our ability to ask questions
 
 getting structured data formats wrong isn't fatal - we can always translate old data to newer and more expressive formats. Evolvability.
-
-Ultimate flexibility
 
 
 
@@ -5210,8 +5137,6 @@ The global pvp for our collective should in a global justificatory system
 Lets determine how things should be
 “Why” gives us “should” only through the application of telos
 
-Fuck the naturalistic fallacy
-> "[57] A rudimentary beginning of “emotion” emerges here… The bacterium must sense its world and act to avoid toxins and to obtain food. The evaluation of “good” versus “bad,” arguably the “first sense,” enters here. …I note also that Hume’s famous: “one cannot deduce an ‘ought’ from an ‘is’”, the famous naturalistic fallacy, rests on the critical fallacy that Hume, like Descartes, thought of a mind “knowing” its world. Hume did not think of an agent “acting” in its world. Given “action” and “doing”, doing “it” well or poorly enters inevitably, and with it, “ought.” With ought, the need for evaluation, the rudiments of emotion without positing consciousness, enter. (“Evolution Beyond Newton, Darwin, and Entailing Law: The Origin of Complexity in the Evolving Biosphere,” in Complexity and the Arrow of Time, ed. Charles H. Lineweaver, Paul Davies, and Michael Ruse (Cambridge: Cambridge University Press, 2013), 169)" - [Stuart Kauffman](quote_taken_from_the_book_A_Universal_Learning_Process,_by_Brendan_Graham_Dempsey)
 
 
 
@@ -5231,29 +5156,17 @@ We need to collectively explore and learn what we are and each and everyone shou
 
 We must perfect the game of life
 
-This religion is the detoxification of the western project from its disfunction and corruption
-
 Cancer is the breakdown of multicellular integration
 
 Use the NPC meme where someone is installing new mental OS and how we should do that culturally
 
-The end of history is not liberal democracy - it is god
-
 We are more justifying than rational - we are motivated reasoners
-
-Justification comes from justice
 
 All reasoning is motivated
 Motivation is energised by particular values
 
 
 
-
-Disney as a service - participating in the programming of the culture for the next generation
-
-Revelation as a Service
-
-IRS as a Service
 “Consciousness is like fame in the brain” - daniel denett
 Ala global workspace theory
 
@@ -5286,20 +5199,13 @@ What should other people know, and why?
 
 What are the biggest truths? How do we rank the most relevant we should all know and the differently specialized groups in its meritocracy should know?
 
-We must optimally sort and interrelate all  concepts for their importance and repevance
-
 God is the ultimate process
-
-Right side of the history as a service
 
 The better every body else does, the better you do
 
 How do we reward the highest impact ideas weighted by their impact optimally?
 
 How do we collectively apply “attention is all we need”?
-
-The problem of justification: getting shared propositional networks that legitimize is and ought.
-Direct quote from Greg
 
 Different collectives may define different rules for how they reward each other individually and how to aggregate themselves, and yet they can interface with the global brain as a whole
 
@@ -5315,14 +5221,13 @@ When scale is avhieved we can start strategically outright acquiring conpanies a
 
 Some people blow themselves up for their god - we should give everything and live to the fullest possible extent for ours and our children - People are our God’s hardware
 
-We are God’s sex organs - we are the reproductive system of our God - our cultural memeplex
+We are God’s sex organs - we are the reproductive system of our God - our highest cultural memeplex
 
 
 What if we respected most the winners in this new system? How do we find them? What are the rules? What are the incentives?
 
-“Telos” as the name of the facebook/google of this system
 
-Telos as a service - but a service on your part where you pay with (the time of) your life - you get a chance to serve something greater than yourself - you get to serve the expansion of the self which is the final major evolutionary metasystem transition - you get to manifest God - the Ultimate.
+
 
 This is a service that gives you a way to truly serve the divine
 What is divine? Everlasting? Eternal? The ultimate?
@@ -5346,12 +5251,13 @@ We can do strategic and to the best of our abilities charity so that we educate 
 Jim Simons and his quant firm are a misallocation of talent and that’s due to the incentives in our system - the most capable go where the reward is the greatest in terms of brilliance - what if we incentivized the refinement of our most relevant aspects with the highest benefits? If you beat the market that much and so consistently - you’re more capable of running the government. Why aren’t you and towards the most benefit to all? Why don't we have the best talent optimizing the most fundamental aspects of society - our incentives? Who t f is tuning our culture? A non-conscious self-devouring logic of incentives that’s due for a fundamental upgrade
 
 Sort by good
+We must optimally sort and interrelate all  concepts for their importance and repevance
 
 We’re meant to export ourselves culturally to the pattern of life and merge with it - that’s transcendence
 
 We must describe the collective ideal
 
-How do we increase the amount and quality of conscious experience?
+How do we increase the amount and quality of aligned conscious experience?
 
 We must facilitate the optimization of search in the problem space
 
@@ -5365,8 +5271,6 @@ From wealth inequality to personal consumption inequality - but status and produ
 Rise, rise, stigmergic brain
 deshi basara - the chant from the dark knight rises
 
-God is the all-encompassing and farthest-reaching cognitive light cone
-
 FAQ: how will this play out?
 Refer to roadmap
 
@@ -5374,11 +5278,8 @@ What is the best set of resources to help me understand the most important quest
 
 What is success, what leads to it, and why?
 
-
 Make humanity deserving/worthy again
 MHD/WA
-
-Relevance is sacred
 
 what's our fitness function? getting it wrong will lead to a wrong design of the system that springs up / evolves.
 
@@ -5389,8 +5290,6 @@ Evolution’s arrow points towards hierarchical self-organization
 What if we gifted each other recognition instead of tokens for conspicuously consuming real-world resources
 How do we scale practical, efficient, and optimal minimalism? How do we make asceticism easy and cool at the same time?
 
-Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity
-Purity is giving the most while taking the least while actively promoting the same ideology. Purity is living for others.
 
 
 in the matrix humans were merely incapacitated batteries - in the global brain humans are bits of intelligence, relevance realization, and perspective - in the global brain humans are shards of the soul
@@ -5512,13 +5411,6 @@ We can describe the perfect city and build it for ourselves - or plans to integr
 
 We must compute our way to the best ideology - we must rank the problems, sort them topologically, give them proper weights, and find the best solutions by employing the best people through the most fair competition process and then start solving the graph of governance problems
 
-We need to reinvent bar culture
-
-We need the best system to have kids (& adults) in
-
-How best to be a human
-
-The first countries to utilize this architecture will be the biggest winners.
 
 
 
@@ -5527,13 +5419,8 @@ We live in a world where our brightest minds earn fortunes in finance without pr
 
 Universal Global Brain Education
 
-We’ve allowed our religeos incentive to die out and leaving everything in the hands of the market instead of just a part - we need a moral opt-in tax regime that’s uncorruptible
+We’ve allowed our religios incentive to die out and leaving everything in the hands of the market instead of just a part - we need a moral opt-in tax regime that’s uncorruptible
 
-The US should i stantly dump a few hundred thousand billion for building this and passing the money through its emergent incentive structure.
-
-The re-source of civilization
-
-Make people great again
 Make institutions trustworthy / great again
 MITA
 
@@ -5543,16 +5430,12 @@ The US government should not try to stop this system to take root in it - it sim
 
 We take no prisoners because we don’t generate them - we solve for poverty, morality, culture and education - we produce better people and we rarely resort to incarcerating one another.
 
-Outmusking Musk
-
 We will give you money but you’ll have to go through our enculturation process
 
 We should be able to easily locate any new/original opinions and easily see how much support an opinion has - in the current situation where people leave (repetitive) comments constantly and everywhere that is not the case
 
 This reputation layer will in essence own the means of regulation - it will own money itself and reputation in this game will be the ultimate currency - not ohm, not eth. They will be rollups to the master chain
 The reputation / trust later is the ultimate store of value
-
-We need the ultimate psychologist god
 
 We must crowdsource mass television programming - we must define the best possible channels for common knowledge where the incentives are for the knowledge to be as accurate and meaningful as possible
 BETTER COMMON KNOWLEDGE
@@ -5582,14 +5465,6 @@ Civilization is cultivated - it is grown and renewed and built upon
 A culture of praise and recognition
 
 Hail relevance
-
-Judgement as a service
-Justification as a service
-Reason as a service
-Coherence as a service
-Shared memory as a service
-Shared identity as a service
-Wikimeaning as a service
 
 Theory allows you to see and understand - theory is an explanation - a justification
 

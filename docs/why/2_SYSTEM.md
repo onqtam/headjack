@@ -330,6 +330,8 @@ Dumb criminals break laws, smart criminals make laws
 If you don’t think media & the system are corrupt to the core - read Balaji’s piece on SBF & FTX
 https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
+> "So if gangsters become governments, does this mean that governments began as gangsters?" - [Matt Ridley](https://www.goodreads.com/quotes/7817709-so-if-gangsters-become-governments-does-this-mean-that-governments)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Oligarchy & Regulatory Capture

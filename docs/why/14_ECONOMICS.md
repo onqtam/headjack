@@ -84,6 +84,9 @@ Eudaemonic economy
 
 Conscious economics
 
+> "It is not a zero sum game. The simple idea of the gains from trade lies at the heart of the modern and the ancient economy, not the power of capital. There is nothing else to it." - [Matt Ridley](https://www.azquotes.com/quote/604293)
+
+
 
 > "We're facing a danger that economics is rigorous deduction based upon faulty assumptions. Science after science gets that way from time to time. When it does, we're in real trouble." - [W. Brian Arthur](https://www.azquotes.com/quote/1370542)
 
@@ -342,6 +345,9 @@ how to fund free books - relative to their popularity and recognition - in the c
 ██████████████████████████████████████████████████████████████████
 
 > "The real acceleration will not begin until someone makes a factorio/civ/starcraft style game that is an interface for the real world." - [@bayeslord](https://x.com/bayeslord/status/1801794146039902580)
+
+
+We can EveOnlinify the whole economy
 
 
 ██████████████████████████████████████████████████████████████████
