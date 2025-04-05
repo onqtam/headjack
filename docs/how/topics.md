@@ -17,6 +17,9 @@ TOPICS TO FINISH AS A SECTION:
 
 # operating manual for the global brain
 
+<details><summary>title</summary><p>
+...
+</p></details>
 
 <details>
   <summary>Code example</summary>
