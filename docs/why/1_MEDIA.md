@@ -241,6 +241,13 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 # SECTION: Propaganda
 ██████████████████████████████████████████████████████████████████
 
+> "But what is propaganda, if not the effort to alter the picture to which men respond, to substitute one social pattern for another?" - [Walter Lippmann](https://www.goodreads.com/quotes/967104-but-what-is-propaganda-if-not-the-effort-to-alter)
+
+> "There can be no liberty for a community which lacks the means by which to detect lies." - [Walter Lippmann](https://www.goodreads.com/quotes/53931-there-can-be-no-liberty-for-a-community-which-lacks)
+
+> "Ours is a problem in which deception has become organized and strong; where truth is poisoned at its source; one in which the skill of the shrewdest brains is devoted to misleading a bewildered people." - [Walter Lippmann](https://www.azquotes.com/quote/1090709)
+
+
 > "Journalism is printing what someone else does not want printed: everything else is public relations." - [George Orwell](https://www.azquotes.com/quote/364418)
 
 "WE ACCEPT THE REALITY OF THE WORLD WITH WHICH WE ARE PRESENTED" - from the Truman Show

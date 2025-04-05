@@ -116,6 +116,11 @@ The new Elite
 Stealing God
 The consciousness guide to the galaxy
 The maximum
+“The book of synthesis”
+“The book of fusion”
+“Fusion”
+“Synthesis”
+“The next game”
 Thermodynamic integration
 Don't Die 2.0 or ^2 squared - the sequel to BJ's Don't Die
 

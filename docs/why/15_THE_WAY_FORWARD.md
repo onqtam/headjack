@@ -38,6 +38,7 @@ https://twitter.com/fretta_bisco/status/1340820359814275074
 wheeler eye
 https://www.organism.earth/library/document/participatory-universe
 https://www.organism.earth/library/docs/john-archibald-wheeler/participatory-universe.jpg
+> "We are not only observers. We are participators. In some strange sense this is a participatory universe." - [John Wheeler](https://www.azquotes.com/quote/1458863)
 
 > "Big history is about placing ourselves in relationship to the universe on the dimensions of time and complexity." - [What Is Big History and Why Does It Matter? by Gregg Henriques](https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202312/what-is-big-history-and-why-does-it-matter#:~:text=Big%20history%20is%20about%20placing%20ourselves%20in%20relationship%20to%20the%20universe%20on%20the%20dimensions%20of%20time%20and%20complexity.)
 
@@ -400,6 +401,14 @@ The 10 horseman of nihilism, meaninglessness, despair & learned helplessness:
 > "A human being unable to have a meaningful impact on the world ceases to exist." - [David Graeber](https://www.goodreads.com/quotes/9664160-a-human-being-unable-to-have-a-meaningful-impact-on)
 
 
+We need to crowdsource the meaning of life - we need to point to the best possible conception of how to live our lives
+We must co-create the meaning of life - define it and manifest it
+The meaning of life is to participate in evolution and leave a mark on the memetic DNA of culture
+The meaning of life is to improve the quality of the game - experience is itself awesome
+The meaning of life is a good problem to work on
+The meaning of life is to propagate it
+The meaning of life is experience itself - and our mission is to improve that experience - to create the best possible conditions for other conscious beings for perpetuity - we truly could take over the universe and fill it with life
+
 we are starved for meaning
 belonging
 significance
@@ -424,6 +433,7 @@ The worst thing in the universe is irrelevance - inconsequentiality - pure meani
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
 
 Why do we have kids? To pass on a portion of our soul - of our existence. Contributing to the collective memetic heritage
+Having kids is immortality
 
 Your mind is your kid’s bootloader - your purpose in life is to pass on the cultural baton and forward the process by a bit - towards the omega point
 
@@ -776,6 +786,8 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 ██████████████████████████████████████████████████████████████████
 # SECTION: The future of governance & democracy
 ██████████████████████████████████████████████████████████████████
+
+"Idiocracy" and "Don’t Look Up" don't have to be documentaries
 
 > "Right now, we can’t upgrade the state. What if we could?" - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Right%20now%2C%20we%20can%E2%80%99t%20upgrade%20the%20state.%20What%20if%20we%20could%3F)
 

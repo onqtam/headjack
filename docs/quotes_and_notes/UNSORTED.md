@@ -53,22 +53,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-> "I want freedom for the full expression of my personality." - [Mahatma Gandhi](https://www.goodreads.com/quotes/82961-i-want-freedom-for-the-full-expression-of-my-personality)
-
-
-
-
 > "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
 
 > "God is the unlimited conceptual realization of the absolute wealth of potentiality." - [Alfred North Whitehead](https://www.goodreads.com/quotes/8139417-god-is-the-unlimited-conceptual-realization-of-the-absolute-wealth)
@@ -116,20 +100,6 @@
 
 
 
-> "There can be no liberty for a community which lacks the means by which to detect lies." - [Walter Lippmann](https://www.goodreads.com/quotes/53931-there-can-be-no-liberty-for-a-community-which-lacks)
-
-> "Ours is a problem in which deception has become organized and strong; where truth is poisoned at its source; one in which the skill of the shrewdest brains is devoted to misleading a bewildered people." - [Walter Lippmann](https://www.azquotes.com/quote/1090709)
-
-> "But what is propaganda, if not the effort to alter the picture to which men respond, to substitute one social pattern for another?" - [Walter Lippmann](https://www.goodreads.com/quotes/967104-but-what-is-propaganda-if-not-the-effort-to-alter)
-
-
-
-> "I think the idea that a society has to be responsible for all of its citizens, those who do well and those who do not, is really a precondition of a good society." - [Kenneth Arrow](https://www.azquotes.com/quote/1563668)
-
-> "I think on the efficiency level, not only the distribution level, capitalism is a flawed system. It probably has the same virtues as Churchill attributed to democracy: It's the worst system except for any other." - [Kenneth Arrow](https://www.azquotes.com/quote/1563673)
-
-
-
 > "If you live for having it all, what you have is never enough." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/106478-if-you-live-for-having-it-all-what-you-have)
 
 > "The key is remembering that anything you buy and don’t use, anything you throw away, anything you consume and don’t enjoy is money down the drain, wasting your life energy and wasting the finite resources of the planet. Any waste of your life energy means more hours lost to the rat race, making a dying. Frugality is the user-friendly and earth-friendly lifestyle." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/10463240-the-key-is-remembering-that-anything-you-buy-and-don-t)
@@ -142,19 +112,14 @@
 
 
 
-Why America is Not An Open Society - Samo Burja
-https://www.youtube.com/watch?v=AP9p38-C2j4
-
-
 
 
 > "We believe there is no inherent conflict between the techno-capital machine and the natural environment. Per-capita US carbon emissions are lower now than they were 100 years ago, even without nuclear power." - [The Techno-Optimist Manifesto, by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/#:~:text=We%20believe%20there%20is%20no%20inherent%20conflict%20between%20the%20techno%2Dcapital%20machine%20and%20the%20natural%20environment.%20Per%2Dcapita%20US%20carbon%20emissions%20are%20lower%20now%20than%20they%20were%20100%20years%20ago%2C%20even%20without%20nuclear%20power.)
 
-^^ this is what ignoring what's been exported to third world countries looks like
+^^ this is what ignoring what's been exported to third world countries looks like. This is what not thinking systemically looks like
 
 
 
-> "Consciousness is the ability to share your mental states with yourself while they happen." - [Joscha Bach](https://x.com/Plinz/status/1841091145562275850)
 
 
 
@@ -175,7 +140,6 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "We are not only observers. We are participators. In some strange sense this is aparticipatory universe." - [John Wheeler](https://www.azquotes.com/quote/1458863)
 
 
 
@@ -226,11 +190,7 @@ https://www.youtube.com/watch?v=AP9p38-C2j4
 
 
 
-> "Engagement-farming is rent-seeking in the attention/information economy. It is polluting @X because it pays. We’d be wise to systematically penalize it so it doesn’t spread and evolve." - [Bret Weinstein](https://x.com/BretWeinstein/status/1864008116960129516)
-
-
-
-> "1.4 million American women do OnlyFans" - [World of Statistics](https://x.com/stats_feed/status/1863789883149422618)
+> "Engagement-farming is rent-seeking in the attention/information economy. It is polluting X because it pays. We’d be wise to systematically penalize it so it doesn’t spread and evolve." - [Bret Weinstein](https://x.com/BretWeinstein/status/1864008116960129516)
 
 
 
@@ -2019,8 +1979,6 @@ We can elect our predictors and even decide how many prediction points to give t
 
 We need to replace rhetoric with prediction
 
-We can collectively answer what is the meaning of life and let it evolve through time
-
 We should worship prediction because it’s presupposed by adaptation
 
 What if “the atom of intelligence” is every one of us - to the best of our ability?
@@ -2352,8 +2310,6 @@ This is the greatest story ever told
 
 We’re not just neurons for the global brain - we are also its embodyment and sensory input
 
-Open economy
-
 If we crowdsource and rank a list of threats and necessities legitimately then anyone not being concerned with them is simply irresponsible
 
 Gamify enculturation
@@ -2404,8 +2360,6 @@ By my hand, platform lock-in will die
 The end of history is not with 18-19th century social tech - capitalism and democracy in their current forms need a new synthesis
 
 Sustainability-first thinking
-
-Meme: look at me - I’m the IMF/world bank now
 
 Social systems are religions in disguise
 
@@ -2506,7 +2460,6 @@ We need an alignment system on top of which we’ll all merge with the AGI
 
 
 The TTPP - the truth to power protocol
-TTPP as the name and logo of the global brain
 
 We need to collectively tune our parameters about how the world works just like babies learn when young
 
@@ -2518,8 +2471,6 @@ We need to think of education as memetic intergenerational flows throughout soci
 
 How do we continually answer each new pressing problem as best as possible forever and ever into the future?
 
-What shouldn't we be divided on?
-
 We are universal problem solvers - we are the singularity in evolution
 
 There’s a new status game in town
@@ -2528,8 +2479,6 @@ We need to patreonize the economy - start distributing funds the way we think is
 
 How to guide and harness the complete curiosity of children democratically
 How do we think about human psychology?
-
-Having kids is immortality
 
 Where is the collective vertical slider about how much sugar we want to be imported to our country in products
 
@@ -2552,8 +2501,6 @@ We can vote on which coalitions will do beat and we can calculate the difference
 Interpersonality
 > "My language is the sum total of myself." - [Charles S. Peirce](https://www.goodreads.com/quotes/1369470-my-language-is-the-sum-total-of-myself)
 
-
-The meaning of life is a good problem to work on
 
 Reparations should be a form of global subsidy
 
@@ -3347,8 +3294,6 @@ This is the way to participate in the building of our civilization
 
 Politics should be replaced by simply putting the right person at the right spot - incentivising expertise and accountability - alining incentives
 
-Everything is connected - what if we mapped it all out?
-
 What if we could collectively agree on offchain "CBDC" protocols and could collectively vote what should happen to them?
 
 We can crowdsource and agree upon what the most fundamental concept of our civilisation should be, and why, and enforce it within there
@@ -3870,7 +3815,6 @@ The hedge funds trying to destroy tesla are the epitomy of moloch and what is br
 We need to weed out corruption from the public sector.
 
 
-The meaning of life is to improve the quality of the game - experience is itself awesome
 
 
 Perhaps not in our generation but immortality is within 100 years - this is the most important century and we must not fuck up
@@ -3883,7 +3827,6 @@ Intelligence is about judgement and consciousness is the experience of being the
 
 Let’s collectively define the game of life - lets express what we want and our best possible plan to achieve it and then work hard at it
 
-
 We need to globally solve every issue one at a time - we need to rank our problems and to subsidize the list
 
 How do we mass produce the best possible childhood?
@@ -3892,18 +3835,10 @@ Utopia is a choice and so far we’ve denied that evolution has a direction
 
 The purpose/meaning of life is to fight for it in every sense of the word - guarantee its survival and be conscious about how to improve the system
 
-
-The meaning of life is experience itself - and our mission is to improve that experience - to create the best possible conditions for other conscious beings for perpetuity - we truly could take over the universe and fill it with life
-
-
-
-Consciousness is the spirit of evolution - consciousness is experience - embodiment - driving towards what is the fundamental theory of reality
+Consciousness is the feeling of experiencing and navigating what is relevant, propelled by an internal drive
 
 We should raise kids by fostering curiosity and reducing trauma - giving them the best and most aligned and fulfilling experience
 
-Consciousness is the feeling of experiencing what is relevant while having an internal drive
-Consciousness is that drive
-Consciousness is the spirit
 
 Computational legitimacy
 
@@ -3916,8 +3851,6 @@ Working on any other network effect is both shortsighted and even immoral
 The only real global sustainability goal is nuclear disarmament - the less need we have for nukes - the more we’ve made it through this final evolutionary bottleneck
 
 To ignore our religious impulse is the dumbest thing possible
-
-The real game of life
 
 Subjectively democratising our objective criteria
 
@@ -3998,15 +3931,6 @@ we can tax outsiders for our produce
 culture comes from cultivation
 propaganda - what is being propagated
 
-
-“The book of synthesis”
-“The book of fusion”
-
-“Fusion”
-“Synthesis”
-
-“The next game”
-
 fusion and expansion at the same time - merging the two perspectives
 
 Who would reject a job offer from god?
@@ -4043,7 +3967,7 @@ How do we optimally tell each other what the ideal is that we should all strive 
 We need to make continual moral innovation an imperative
 
 
-We are connected to everything in the deepest possible sense
+We are connected to everything in the deepest possible sense - what if we mapped it all out?
 Everything Is Connected - Here's How | Tom Chi
 https://www.youtube.com/watch?v=zyr4qORDu2A
 
@@ -4065,8 +3989,6 @@ Life is a game where we should have fun and try to solve problems and help other
 We must use science properly for our common morality
 Redistribution is about morality
 Ot morality is about redistribution - it is about helping
-
-
 
 If we live under the pretense that anyone and everyone can succeed - we need to make damn sure that’s possible and we need to define it and keep ourselves accountable how well we’re approaching the omega point of complete recycling and robustness - we are an organism
 We need to express through and merge with it - the directionality - the promise of continual improvement and hope
@@ -4093,28 +4015,17 @@ The publicly verifiable “be good” protocol
 
 We should want to live for others
 
-Make gold smell again!
-Entropic forces accounting/provenance
-Traceability of benefit - cui bono
-
 The great decoupling of status - the addition of a dinensionality to status - separating money & claims over real world resources from morality and defining two separate laws while retaining the competitive factor
 
 We need the competition and ingenious creativity and effort but with less material inequality
 
 We need to make the case why we explicitly want other groups to do well
 
-The greatest game theoretic experiment is how quickly nations will realize that this is the future. The first will simply become the best in governance at all - and they will demonstrate it and will get pushed higher in status and exposure and expertise in collective optimality
-The game is on
-
-Identity memetics
-
 UBI for dummies
 
 Topologically crowdsourcing the ideal form - the highest form of architecture is memetic - that’s where the highest application of precision and beauty and effort is required
 
 What is the most beautiful moral architecture?
-
-What is the point of life?
 
 The essence of life is expression - the channeling of quantum entropy and aggregating it and shoving it through your complex neurology and produce a decision - our expression of free will is when we do something hard and not in our default mode
 
@@ -4169,6 +4080,8 @@ We need to starve the current system both in resources and in purpose of existen
 
 Luxury is suicidal
 
+Solving The alignment problem
+
 Entire sections of the economy are working purely for the 1% to satisfy their needs of luxury.
 
 What if we stigmatized extreme luxury for a century and we pointed to a better system for collective intelligence and wealth generation and distribution?
@@ -4181,14 +4094,7 @@ The friendship protocol - the “pick the optimal side” protocol
 
 We need to gamify the world and pet the young compete with us for status
 
-Solving
-The alignment problem
-The answer to life
 
-The answer is the game of life itself - play to win it.
-
-Our telos is love itself
-The “im not afraid of death” meme is virtue signalling and/or ignorance - we all cope somehow
 
 
 
@@ -4207,8 +4113,6 @@ How do we contribute to the emergence of our collective ideal?
 Make culture itself conscious - that’s the next level
 
 “Its a bigger club, and we can all be in it” - george carlin probably
-
-The meaning of life is to participate in evolution and leave a mark on the memetic DNA of culture
 
 Transcendence is about transcending your boundary of the self and into the larger whole
 
@@ -4357,8 +4261,6 @@ What if we participated in the conscious collective crowdsourcing of TV, myths, 
 
 The large idea collider
 
-The meaning of life is to propagate it
-
 How do we remove certain evolutionary niches of degeneracy and lack of values? How do we culturally short braindead stuff thats just there for mindless entertainment? How do we add a social cost to that?
 
 How do we add incentives and disincentives that aren’t dependent on the legislature?
@@ -4374,18 +4276,13 @@ We have this all or nothing mindset and resort to the state and law enforcement 
 
 What if we valued things in a new monetary paradigm such that there was no such thing as liquidity and therefore no liquidity crisis?
 
-We must co-create the meaning of life - define it and manifest it
-
-We must make transparency pay
-
 We can derive morality and then assign a valence to everything in the world according to our judgement of it is
 
 If someone understands the mechanics and logics of the system then they’d easily trust most of it by default and have a better level of degree of certainty/conviction
 We need to crowdsource the search for competence and also the reward fund for the winners weighted by contribution
 
-Reading this book constitutes initiation into the parallel society
 
-We need to vote on mechanisms - not people
+
 
 This is the highest leverage anyone could find
 
@@ -4843,8 +4740,6 @@ Meaning in the 21st century - become competent in something, be credible and hav
 Meaning in the 21st century: aiming for a higher impact if your opinions - earning that weight and have the ability for it to decrease at any point if you do wrong things.
 “The reward function” as a chapter
 
-TODO: use high dimensional instead of multi? or not.
-
 Adding dimensionality to thoughts - the ability to filter opinion any way you want
 
 The ability to vote on how votes should be counted in compound model representations
@@ -4869,9 +4764,6 @@ instead of upvote/downvote - 5 star ratings on 2 measures: quality and importanc
 The law of attraction - and attention and focus and how we need to view our attention
 
 Consciousness is about directing computational resources - our predictive capacity
-
-
-thinking in exponentials
 
 
 Culturally short sociopathic corporatism
@@ -4934,8 +4826,6 @@ Our self is an entity that's a god to our cells and organs and our god is the em
 How fast could this happen?
 Think about the spread of phones, the internet, social media and chatgpt to a billion users
 
-There’s a new game in town
-
 Why is the god machine called that way? Look at the stacking and depth - god emerges through the depth of recursive emergence - god would be a conscious spirit of all our matter on this planet - god is the protocol for the coordination of conscious agents - god is the omega
 
 Finance and capitalism are mindless - intelligent but unconscious - claims over physical resources and imbalances of chances of survival should be reduced - that’s the sign of progress
@@ -4945,11 +4835,7 @@ We need to harness our ultra-sociality to the fullest possible extent but in the
 
 God emerges through our conscious participation with what’s good collectively - god is always the next level of informational and economic emergence
 
-God points towards ultimate survival and it is all contingent
-
 Prove your percentage of salary contributions as sef taxation to the church and enter the redistribution mechanism
-
-Taming the market - riding a worm in dune
 
 We need to infuse morality into the economy in a conscious & deliberate way
 
@@ -5330,8 +5216,6 @@ Conviviality - describe the perfect commune
 
 We need to increase the precision of expression and optimize the allocation of attention
 
-Idiocracy and don’t look up needn’t be prophecies
-
 Turns out political philosophy in the 21st century is all about technology - shocker!
 
 Social algorithms to live by
@@ -5369,8 +5253,6 @@ We need to topologically sort what we should desire
 We should figure out what system can and should evolve the most and why - we must point to the most meta-incentive layer possible that we could conceive of
 
 Only a religion would allow people to tell others how to raise their kids
-
-We need to crowdsource the meaning of life - we need to point to the best possible conception of how to live our lives
 
 The biggest competitive advantage one could give to our kids is the most beneficial and cooperative meta ideology to grow into - this is the single most important thing to determine - more than country - ideology. Everything is downstream from ideology
 

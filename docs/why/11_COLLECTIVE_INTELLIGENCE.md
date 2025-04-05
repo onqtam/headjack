@@ -1533,6 +1533,8 @@ we can rank different sources of signal differently and prioritize the weights o
 # SECTION: Consciousness
 ██████████████████████████████████████████████████████████████████
 
+> "Consciousness is the ability to share your mental states with yourself while they happen." - [Joscha Bach](https://x.com/Plinz/status/1841091145562275850)
+
 consciousness contains a model of the self - but do we own our collective model of humanity or is it privatized by a few big actors?
 
 > "the function of consciousness is to do enhanced relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4094)

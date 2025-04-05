@@ -75,6 +75,11 @@ Traits of property rights:
 - clarity of allocation - does everyone know who owns what? Who owns the fish in this segment of the lake?
 
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Capitalism
+██████████████████████████████████████████████████████████████████
+
+> "I think on the efficiency level, not only the distribution level, capitalism is a flawed system. It probably has the same virtues as Churchill attributed to democracy: It's the worst system except for any other." - [Kenneth Arrow](https://www.azquotes.com/quote/1563673)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
@@ -332,6 +337,8 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 
 how to fund free books - relative to their popularity and recognition - in the commons
 
+An open-source economy
+We must make transparency and openness pay
 
 > "If you think about it, the world’s citizens possess much more knowledge than a small group of individuals. What was lacking before Wikipedia was a mechanism to harness that knowledge. That was the technological breakthrough of Wikipedia: how the editors work together to find a consensus on what the articles say. So Wikipedia is an information technology that decentralizes decision-making for encyclopedia articles. Its core innovation is a mechanism that allows some of the most informed people on any topic to contribute to the articles. The result is a much better result than if these decisions were centralized." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=If%20you%20think,decisions%20were%20centralized.)
 
@@ -438,7 +445,6 @@ The invisible hand has no competition - it’s left unchecked and is ripping mea
 We need a meta-invisible hand that will tune the relationship and distribution of money (claims over resources) and human values
 
 
-An open-source economy
 
 the biggest harms in the world come from opaqueness on the enterprise level
 
@@ -617,6 +623,9 @@ what if we could signal preferences locally for what types of commercials we'd b
 
 fungibility, ability to hide malice
 
+Make gold smell again!
+Entropic forces accounting/provenance
+Traceability of benefit - cui bono
 
 
 ██████████████████████████████████████████████████████████████████
@@ -657,6 +666,11 @@ Not everything has to make a profit - we can and should think of what truly need
 > "The greatest fine art of the future will be the making of a comfortable living from a small piece of land." - [Abraham Lincoln](https://www.goodreads.com/quotes/36568-the-greatest-fine-art-of-the-future-will-be-the)
 
 > "The true measure of any society can be found in how it treats its most vulnerable members." - [Mahatma Gandhi](https://www.azquotes.com/quote/877037)
+
+> "I think the idea that a society has to be responsible for all of its citizens, those who do well and those who do not, is really a precondition of a good society." - [Kenneth Arrow](https://www.azquotes.com/quote/1563668)
+
+
+Meme: look at me - I’m the IMF/world bank now
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Concentrated power
@@ -1576,3 +1590,11 @@ all of chapter 8 is good, it's part of his book "The Nature of Technology"
 >
 > ... We see a global system where the top 1% hijacks our collective distribution of work priorities, allocation of attention and symbolic value. We have so many governments forced to suck up to global capital, so many lobbyists, so many geniuses doing mean and harmful work, so much competition for a piece of those heights of humongous capital investment. We even have wars fought and conflicts resulting from politics derailed by the crude logic of capital. And this top 1% is growing rapidly in structural power, with its own interests in high risk societies and upheld imbalances and inequalities." - [Beyond Piketty, Far Beyond, by Hanzi Freinacht](https://metamoderna.org/beyond-piketty-far-beyond/)
 
+
+
+<!-- 
+
+Taming the market - riding a worm in dune
+
+
+-->

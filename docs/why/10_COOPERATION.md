@@ -663,6 +663,8 @@ TODO INTERNET:
 
 Coherent pluralism - Jim Rutt
 
+What shouldn't we be divided on?
+
 Most people have read at leats a couple of books in their life. What if we could socially nudge ourselves into coherence for what is most important and point to the most important books?
 
 > "Coherence is one of the most important concepts in the management of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Coherence%20is%20one%20of%20the%20most%20important%20concepts%20in%20the%20management%20of%20complexity.)
@@ -783,6 +785,11 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 ██████████████████████████████████████████████████████████████████
 
 The more we move away from biased ape/identity-based decisions and towards impartial mechanism design - the better
+
+We need to vote on mechanisms - not people
+
+post-chimp politics
+
 
 
 > "The consequences of an act affect the probability of its occurring again." - [B. F. Skinner](https://www.goodreads.com/quotes/1054191-the-consequences-of-an-act-affect-the-probability-of-its)

@@ -105,6 +105,7 @@ dogfeeding the system: plugging the political insights from "the listning societ
 
 Can this be funded like star citizen?
 
+Reading this book constitutes initiation into the parallel society
 
 
 
@@ -114,6 +115,8 @@ The first countries to utilize this architecture will be the biggest winners.
 
 The US should instantly dump a few hundred thousand billion for building this and passing the money through its emergent incentive structure.
 
+The greatest game theoretic experiment is how quickly nations will realize that this is the future. The first will simply become the best in governance at all - and they will demonstrate it and will get pushed higher in status and exposure and expertise in collective optimality
+The game is on
 
 
 
