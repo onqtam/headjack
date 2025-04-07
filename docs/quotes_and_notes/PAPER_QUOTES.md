@@ -2048,6 +2048,7 @@ Evrard, A. E., Erdmann, C., Holmquist, J., Damon, J., & Dietrich, D. (2015). Per
 
 Coleman, James S. 1988. "Social Capital in the Creation of Human Capital." American Journal of Sociology 94 (suppl.): S95-S120.
 
+S. Buckingham Shum, K. Aberer, A. Schmidt, S. Bishop, P. Lukowicz et al., Towards a global participatory platform (2012) Democratising open data, complexity science and collective intelligence. EPJ Spec. Top. 214, 109–152 (2012)
 
 
 we can use the dynamics of a system on one level to predict/model the dynamics of the system on another level - all complex adaptive systems have some similar patterns

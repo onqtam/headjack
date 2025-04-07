@@ -533,11 +533,6 @@ https://sci-hub.se/10.1016/j.tree.2015.12.013
 
 > "As Michael Suk-Young Chwe writes in Rational Ritual: Culture, Coordination, and Common Knowledge, “Successful communication sometimes is not simply a matter of whether a given message is received. It also depends on whether people are aware that other people also receive it.” According to Suk-Young Chwe, for people to coordinate on the basis of certain information it must be “common knowledge,” a phrase used here to mean “everyone knows it, everyone knows that everyone knows it, everyone knows that everyone knows that everyone knows it, and so on.” The more public and visible the change is, the better." - [Coordination Problems: What It Takes to Change the World](https://fs.blog/coordination-problems/#:~:text=As%20Michael%20Suk,is%2C%20the%20better.)
 
-> "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
-
-“Submitting to a social or political authority is a coordination problem - each person is more willing to support an authority the more others are willing to support it” - quote from “rational ritual” book
-
-
 
 > "How do individuals coordinate their actions? Here we consider "coordination problems," in which each person wants to participate in a group action but only if others also participate. For example, each person might want to take part in an antigovernment protest but only if there are enough total protesters to make arrests and police repression unlikely. People most often "solve" coordination problems by communicating with each other. Simply receiving a message, however, is not enough to make an individual participate. Because each individual wants to participate only if others do, each person must also know that others received a message. For that matter, because each person knows that other people need to be confident that others will participate, each person must know that other people know that other people have received a message, and so forth. In other words, knowledge of the message is not enough; what is also required is knowledge of others' knowledge, knowledge of others' knowledge of others' knowledge, and so on-that is, "common knowledge." To understand how people solve coordination problems, we should thus look at social processes that generate common knowledge. The best examples turn out to be "public rituals," such as public ceremonies, rallies, and media events.
 >
@@ -601,7 +596,7 @@ on structure, formalism & repetition in rituals
 
 Inward-Facing Circles
 
-> "One specific way to generate common knowledge, as mentioned in our bus example earlier, is eye contact. For larger groups the closest thing to eye contact is for everyone to face each other in a circle, which enables each person to see that everyone else is paying attention. Perhaps this is one reason why inward-facing circles help in coordination." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+> "One specific way to generate common knowledge ... is eye contact. For larger groups the closest thing to eye contact is for everyone to face each other in a circle, which enables each person to see that everyone else is paying attention. Perhaps this is one reason why inward-facing circles help in coordination." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 
 <details><summary>Further details</summary><p>
 
@@ -620,6 +615,8 @@ Marketing and coordination problems around products
 Practical ways of thinking about common knowledge without falling into infinite recursion and impossible ideals
 
 > "The most obvious problem with the concept of common knowledge is that it seems to require great cognitive abilities: can anyone think through, say, more than two or three layers of "I know that she knows that he knows ... "? Common knowledge thus seems to be an ideal, impractical concept. For example, Ariel Rubinstein (1989) gives an example in which two people have ninety-nine levels of metaknowledge but cannot coordinate because they do not have the hundredth. There are various ways of making the concept of common knowledge less strict and more plausible. Instead of requiring that I know that you know, one can require that I believe with 90 percent probability that you believe with 90 percent probability and so on (Monderer and Samet 1989; Morris, Rob, and Shin 1995; Morris 1999). One can also define common knowledge not as a condition on arbitrarily many levels, but on a recursive step, which is more plausible as an actual thought process (see Lewis 1969, p. 52; also, e.g., Milgrom 1981): assume that when we make eye contact, we both know that we are making eye contact. When we make eye contact, I know that we are making eye contact, and hence I know that you know that we are making eye contact, and so forth. Perhaps the most plausible way of dealing with this issue, as pointed out by Herbert Clark and Catherine Marshall (1992, p. 33), is to say that people recognize common knowledge and deviations from it heuristically: "if A and B make certain assumptions about each other's rationality, they can use certain states of affairs as a basis for inferring the infinity of conditions all at once." When we make eye contact, I don't have to think through anything; I can simply infer from past experience that usually when we make eye contact, common knowledge is formed... common knowledge is not just an ideal but a concept that is subject to emprical investigation, not only at the level of social practices but also at the levels of psychology, evolutionary biology, and neuroscience." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+</p></details>
 
 <!-- 
 partisanship as a coordination problem
@@ -645,7 +642,11 @@ concluding remarks - game theory, rational choice theory
 > If we look at how people explicitly communicate in order to solve coordination problems, the issue of common knowledge immediately arises, from standard game theoretic reasoning as well as linguistic theories of meaning and strong commonsense intuitions. Looking at how common knowledge is formed in societies, one is necessarily drawn to communicative events that look like rituals: ceremonies, media events, and so forth. By associating common knowledge with cultural practices, this book suggests a close and reciprocal relationship between the perspectives of rationality and culture, which are often thought separate or even antagonistic. The idea of individual rationality, historically associated with atomistic market societies, can help in understanding cultural practices which seem to create social unity. The study of culture has long considered economic contexts; pursuing the logical consequences of "material" rationality, game theory finds culture." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 -->
 
-</p></details>
+<!-- 
+> "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
+-->
+
+
 
 
 

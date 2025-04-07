@@ -3487,32 +3487,13 @@ Milton Friedman: “The only way that has ever been discovered to have a lot of 
 
 > "The additional economic potential of Open Data alone—i.e. of data sets that are made available to everyone—is estimated by McKinsey to be 3000–5000 billion dollars globally each year." - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
 
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+> "Global networking creates increasing complexity and instability that cannot be properly managed by planning, optimization and top-down control. A flexible adaptation to local needs works better for complex, variable systems. This means that managing complexity requires a stronger bottom-up component." - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
 
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
+> "Information is an extraordinary resource: it does not diminish when shared, and it can be infinitely reproduced.
+>
+> ... At the moment, however, the world of data is highly proprietary and fragmented. It’s as if every individual owned a few words but had to pay for using all the others, and some words could not be used at all for proprietary reasons." - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
 
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-> "" - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
-
-
-
+> "The “wisdom of crowds” requires independent information gathering and decision-making—a principle not sufficiently respected by most recommender systems. How could we, therefore, build “pluralistic” reputation and recommender systems, which support socio-economic diversity, and are also less prone to manipulation attempts? First, one should distinguish three kinds of user feedbacks: facts (linked to information allowing to check them), advertisements (if there is a personal benefit for posting them), and opinions (all other feedbacks). Second, user feedbacks could be made in an anonymous, pseudonymous, or personally identifiable way. Third, users should be able to choose among many different reputation filters and recommender algorithms. Just imagine, we could set up the filters ourselves, share them with our friends and colleagues, modify them, and rate them. For example, we could have filters recommending the latest news, the most controversial stories, the news that our friends are interested in, or a surprise filter. So, we could choose among a set of filters that we find most useful. Considering credibility and relevance, the filters would also put a stronger weight on information sources we trust (e.g. the opinions of friends or family members), and neglect information sources we do not want to rely on (e.g. anonymous ratings). For this, users would rate information sources as well, i.e. other raters. Therefore, spammers would quickly lose reputation and, with this, their influence on recommendations made." - [Thinking Ahead—Essays on Big Data, Digital Revolution, and Participatory Market Society, by Dirk Helbing](https://www.goodreads.com/book/show/27136669-thinking-ahead)
 
 
 
