@@ -121,6 +121,7 @@ The maximum
 “Fusion”
 “Synthesis”
 “The next game”
+HumanityOS
 Thermodynamic integration
 Don't Die 2.0 or ^2 squared - the sequel to BJ's Don't Die
 

@@ -669,6 +669,7 @@ Not everything has to make a profit - we can and should think of what truly need
 
 > "I think the idea that a society has to be responsible for all of its citizens, those who do well and those who do not, is really a precondition of a good society." - [Kenneth Arrow](https://www.azquotes.com/quote/1563668)
 
+> "No society can surely be flourishing and happy of which by far the greater part of the numbers are poor and miserable." - [Adam Smith](https://www.goodreads.com/quotes/235355-no-society-can-surely-be-flourishing-and-happy-of-which)
 
 Meme: look at me - I’m the IMF/world bank now
 
@@ -683,6 +684,22 @@ Meme: look at me - I’m the IMF/world bank now
 > "The first truth is that the liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic state itself. That, in its essence, is fascism -- ownership of government by an individual, by a group, or by any other controlling private power.... Among us today a concentration of private power without equal in history is growing." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/220096-the-first-truth-is-that-the-liberty-of-a-democracy)
 
 > "In our democracy officers of the government are the servants, and never the masters of the people." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/558977)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Surplus & Luxury
+██████████████████████████████████████████████████████████████████
+
+> "It is unjust that the whole of society should contribute towards an expence of which the benefit is confined to a part of the society." - [Adam Smith](https://www.azquotes.com/quote/1323948)
+
+> "It must always be remembered, however, that it is the luxuries, and not the necessary expense of the inferior ranks of people, that ought ever to be taxed." - [Adam Smith](https://www.azquotes.com/quote/1312493)
+
+> "With the greater part of rich people, the chief enjoyment of riches consists in the parade of riches." - [Adam Smith](https://www.azquotes.com/quote/274737)
+
+an excessive comsumption tax. And without eliminating status competition - simply adding another front for it that’s not tethered to natural resources
+We need to make excessive spending more expensive - progressively
+Excessive/conspicuous consumption is immoral
+
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The best that money can't buy

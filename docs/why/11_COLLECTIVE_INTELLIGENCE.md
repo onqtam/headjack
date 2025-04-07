@@ -1537,9 +1537,11 @@ we can rank different sources of signal differently and prioritize the weights o
 
 consciousness contains a model of the self - but do we own our collective model of humanity or is it privatized by a few big actors?
 
-> "the function of consciousness is to do enhanced relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4094)
+The function of consciousness is to solve the frame problem - John Vervaeke
 
-> "what consciousness is doing is higher-order relevance realization" - [source](https://youtu.be/IZ-tHaHfB8A?t=4199)
+> "the function of consciousness is to do enhanced relevance realization" - [John Vervaeke](https://youtu.be/IZ-tHaHfB8A?t=4094)
+
+> "what consciousness is doing is higher-order relevance realization" - [John Vervaeke](https://youtu.be/IZ-tHaHfB8A?t=4199)
 
 > "Until you make the unconscious conscious, it will direct your life and you will call it fate." - [Carl Jung](https://www.azquotes.com/quote/355847)
 

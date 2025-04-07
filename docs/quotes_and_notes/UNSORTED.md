@@ -192,6 +192,9 @@
 
 > "Engagement-farming is rent-seeking in the attention/information economy. It is polluting X because it pays. We’d be wise to systematically penalize it so it doesn’t spread and evolve." - [Bret Weinstein](https://x.com/BretWeinstein/status/1864008116960129516)
 
+> "We stand atop a local optima in which our networks optimize for an outcome (attentional engagement) that fundamentally precludes large-scale sensemaking and selective evolution at the emergent scale of society." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1283853553417637888)
+
+
 
 
 > "The task of universal pragmatics is to identify and reconstruct universal conditions of possible mutual understanding." - [Jürgen Habermas](https://www.azquotes.com/quote/1108143)
@@ -248,15 +251,8 @@
 
 
 
-> "Mercy to the guilty is cruelty to the innocent." - [Adam Smith](https://www.goodreads.com/quotes/548339-mercy-to-the-guilty-is-cruelty-to-the-innocent)
 
-> "No society can surely be flourishing and happy of which by far the greater part of the numbers are poor and miserable." - [Adam Smith](https://www.goodreads.com/quotes/235355-no-society-can-surely-be-flourishing-and-happy-of-which)
 
-> "It is unjust that the whole of society should contribute towards an expence of which the benefit is confined to a part of the society." - [Adam Smith](https://www.azquotes.com/quote/1323948)
-
-> "It must always be remembered, however, that it is the luxuries, and not the necessary expense of the inferior ranks of people, that ought ever to be taxed." - [Adam Smith](https://www.azquotes.com/quote/1312493)
-
-> "With the greater part of rich people, the chief enjoyment of riches consists in the parade of riches." - [Adam Smith](https://www.azquotes.com/quote/274737)
 
 > "The interest of businessmen is always in some respects different from, and even opposite to, that of the public ... The proposal of any new law or regulation of commerce which comes from this order ... ought never to be adopted, till after having been long and carefully examined ... with the most suspicious attention. It comes from an order of men ... who have generally an interest to deceive and even oppress the public." - [Adam Smith](https://www.azquotes.com/quote/1312483)
 
@@ -289,20 +285,6 @@
 > "As soon as any man says of the affairs of the State "What does it matter to me?" the State may be given up for lost." - [Jean-Jacques Rousseau](https://www.goodreads.com/quotes/371894-as-soon-as-any-man-says-of-the-affairs-of)
 
 
-
-
-
-
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-
-
-
 > "Right now, however, the extreme asymmetries of knowledge and power that have accrued to surveillance capitalism abrogate these elemental rights as our lives are unilaterally rendered as data, expropriated, and repurposed in new forms of social control, all of it in the service of others’ interests and in the absence of our awareness or means of combat. We have yet to invent the politics and new forms of collaborative action—this century’s equivalent of the social movements of the late nineteenth and twentieth centuries that aimed to tether raw capitalism to society—that effectively assert the people’s right to a human future. And while the work of these inventions awaits us, this mobilization and the resistance it engenders will define a key battleground upon which the fight for a human future unfolds." - [The Age of Surveillance Capitalism](https://www.goodreads.com/quotes/10583315-right-now-however-the-extreme-asymmetries-of-knowledge-and-power)
 
 > "Industrial capitalism transformed nature’s raw materials into commodities, and surveillance capitalism lays its claims to the stuff of human nature for a new commodity invention. Now it is human nature that is scraped, torn, and taken for another century’s market project. It is obscene to suppose that this harm can be reduced to the obvious fact that users receive no fee for the raw material they supply. That critique is a feat of misdirection that would use a pricing mechanism to institutionalize and therefore legitimate the extraction of human behavior for manufacturing and sale. It ignores the key point that the essence of the exploitation here is the rendering of our lives as behavioral data for the sake of others’ improved control of us. The remarkable questions here concern the facts that our lives are rendered as behavioral data in the first place; that ignorance is a condition of this ubiquitous rendition; that decision rights vanish before one even knows that there is a decision to make; that there are consequences to this diminishment of rights that we can neither see nor foretell; that there is no exit, no voice, and no loyalty, only helplessness, resignation, and psychic numbing; and that encryption is the only positive action left to discuss when we sit around the dinner table and casually ponder how to hide from the forces that hide from us." - [The Age of Surveillance Capitalism](https://www.goodreads.com/quotes/10319796-industrial-capitalism-transformed-nature-s-raw-materials-into-commodities-and-surveillance)
@@ -313,50 +295,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-> "" - []()
-
-
-
-
-
-
 > "The difference between mere management and leadership is communication." - [Winston Churchill](https://www.azquotes.com/quote/895708)
-
-
-
-
-
-
-
-
 
 
 
@@ -376,7 +315,6 @@
 
 
 
-> "We stand atop a local optima in which our networks optimize for an outcome (attentional engagement) that fundamentally precludes large-scale sensemaking and selective evolution at the emergent scale of society." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1283853553417637888)
 
 > "We must create far more robust mechanisms of semi-permeability that insulate us from one another, contrary to the utopian naivete of the Religion of Openness. Openness is not a virtue in and of itself. It is a feature of ALs (Adaptive Landscapes) that allows for the flow of information, both adaptive and maladaptive. But if you set the dial on openness to its maximum, you will simply preclude evolution itself. Thus, the need for membrane-aware protocols. It is only through introducing an awareness of these evolutionary realities at the lowest levels of our informational stack that we will revivify the emergence of meaningful ALs. And it is only through ensuring they're structured bottom-up that we may prevent their manipulation." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1283854157196046336)
 
@@ -922,8 +860,6 @@ Open source corporations - with transparent democracy for any type of reward
 Competing hive minds and how they merge gradually and adopt the better parts of others and how they might branch off and merge again later
 Competing egregores
 https://theosophy.wiki/en/Egregore
-
-Competing parallel media ecosystems also have parallel economies
 
 we can have AIs that do documentaries on any subject from multiple different points of view - perfect competition of partially overwrapping hiveminds
 
@@ -1489,32 +1425,19 @@ Democracy in its current form is captured - wake up
 
 Crowdsource the question about self-driving cars - all aspects - give examples
 
-Show how collective intelligence is beneficial
-
 How much sugar should we eat? Crowdsource every such question!
 
 What does having a pet cost the world? Why is the media pushing people to reconsider having a pet?
 
-What does it mean to raise a kid - as a globally answered question? Girl? Boy? What's most relevant?
-
 Crowdsourcing the global number of children policy as an opinion?
 
 What is the role of an elite?
-
-Not a carbon tax - an excessive comsumption tax. And without rliminating competition - simply adding another front for status competition that’s not tethered to natural resources
-
-We need to make excessive spending more expensive - progressively
 
 tagging and annotating is classification and organization of data. stigmergy!
 
 the real change happened multiple generations after the invention of the printing press - we're still early with what's about to happen because of the internet
 
 How do we shorten the time for the adoption and dissipation of new knowledge to everywhere it’s needed? Propagation speed is part of the integration puzzle
-
-actions speak louder than words
-
-
-
 
 most game-theoretic concerns are made obsolete through transparency
 transparency and openness are post-game-theoretic
@@ -1532,27 +1455,17 @@ How much value does open source generate? How many billions?
 What if we could score people on how well they’ve covered all arguments and if they’ve covered all arguments at all or are extremely biased and missing the bigger picture?
 If you give an opinion on one of the arguments of a debate - you should also give an opinion/weighting of importance to all the rest - otherwise your opinion would be classified as incomplete.
 
-We are in the age of infinite leverage - we can change the system
-
-HumanityOS
-
 Presets like “only allow these accounts to contact me and notify me for only these types of events”
 
 The only way to fix our problems is to get everyone on the same page
 
 How do we rank our problems? How do we stigmatize and tax fast fashion?
 
-Excessive/conspicuous consumption is immoral
-
-The function of consciousness is to solve the frame problem - john V
-
 Predictive processing needs precision weighting - prioritizing one set of signals over another
 
 lying and misrepresentation of facts is costing the world tens of trillions per year by misallocating capital & labor
 
 Our cutting-edge understanding of the world isn’t evenly distributed. It is in some fields to some degree, but it is hopelessly not true in others
-
-The world runs on stories and there is no bigger story than this - unlike AGI, this is participatory
 
 Collective intelligence => collective sensemaking
 

@@ -625,23 +625,27 @@ Practical ways of thinking about common knowledge without falling into infinite 
 partisanship as a coordination problem
 
 > "... rates of partisan affiliation in the United States - measured by asking a person whether she considers herself to be a member of a political party, or whether she cares which party wins, for example - tend to be higher in states in which people can publicly register their party affiliation when they register to vote. This suggests that partisanship is a coordination problem; if partisanship were mainly about, for example, individual loyalty, then party registration laws should not make a difference." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
+
+concluding remarks - game theory, rational choice theory
+
+> "This book ... starts with a narrow, unadorned conception of rationality in the context of coordination problems and shows that the common knowledge required is substantially related to issues of intersubjectivity, collective consciousness, and group identity. It starts with isolated individuals facing real, practical problems of coordination and shows that transcending the "transmission" view of communication (first-order knowledge) and including the "ritual" view (common knowledge) is exactly what is required.
+>
+> ... The idea that rational choice theory, in particular game theory, might be helpful in looking at cultural practices might seem novel, but was in fact advocated more than thirty years ago by Erving GoHman (1969) in, among other books, Strategic Interaction, and Claude Levi-Strauss (1963, p. 298), who explicitly stated that game theory allowed the "increasing consolidation of social anthropology, economics, and linguistics into one great field, that of communication." The explicit application of game theory to symbolic action and culture, presaged by the work of Schelling, has recently been pursued in several directions... I argue that this development should not be considered a diversion or side application but rather a necessary step in game theory's own internal agenda. The argument is not that cultural practices are additional side topics that it would be nice for rational choice theory to look into. The argument is that the agenda of rational choice theory itself demands it.
+>
+> Game theory is often used simply because it can make some kind of prediction when other kinds of reasoning do not. The textbook example in economics, for instance, is that of oligopoly. When there is a monopoly (a single firm), a prediction can be made by assuming profit maximization; when there is a competitive market (numerous firms, each too small to influence the equilibrium price), a prediction can be made by assuming that supply equals demand. In oligopoly, in which several firms interdependently influence prices, game theory is called upon to find an equilibrium, to make a prediction.
+>
+> Sometimes, however, game theory is simply not good at prediction. Many game theoretic models have a large number of equilibria. For example, take the case of whether people drive on the right side of the road or on the left. Everyone driving on the right is an equilibrium in the sense that given that everyone else drives on the right, no one wants to "deviate" and drive on the left. Everyone driving on the left is also an equilibrium. Here there are two equilibria; we might be able to predict that everyone will drive on the same side, but we cannot predict whether that side will be the left or right. This is a very simple example, but, in general, the problem of indeterminacy can be severe, with many equilibria possible.
+>
+> There are several ways of responding to this problem, which is a fundamental one. One is to try to squeeze as much predictive power as possible from the game itself, assuming that the objective is to make a unique prediction in any game and developing axioms that allow one to do so (as exemplified by Harsanyi and Selten 1988). Another is to consider explicitly the social process, external to the game, by which people coordinate on an equilibrium. Broadly speaking, there are at least three kinds of models that do this.
+>
+> Much recent work in game theory models individuals in a game as learning, adapting, or being selected in an evolutionary process (e.g., Samuelson 1998, Young 1998). The idea is that some equilibria might be more likely than others to result from a dynamic process of adaptation. This approach, which typically assumes that people follow simple learning rules or adaptations, is also often intended to counter the common objection that game theory assumes hyperrationality. The second approach is focal points, as discussed earlier, which are often interpreted as an aspect of a society's culture; for example, New Yorkers are more likely to choose Grand Central Station as a place to meet while non-New Yorkers are more likely to choose the Empire State Building; the "focalness" of Grand Central Station can be understood as part of New York local culture.
+>
+> Both of these approaches are important, but assume that the coordination process is not purposeful. The adaptive or evolutionary approach is reminiscent of "invisible hand" explanations in that people do not purposefully coordinate; coordination "just happens" without anyone planning or even thinking about it. Focal points are usually understood as something given exogenously (e.g., Kreps 1990), despite Schelling's ([1960] 1980, p. 144; see also Calvert 1992) observation that "when there is no apparent focal point for agreement, [a person] can create one by his power to make a dramatic suggestion." The third approach, which we employ in this book, is to consider coordination as an active, purposeful process achieved through explicit communication (see Johnson 1993). Coordination is often achieved through adaptation and evolution, and implicit communication, but often people explicitly communicate...
+>
+> If we look at how people explicitly communicate in order to solve coordination problems, the issue of common knowledge immediately arises, from standard game theoretic reasoning as well as linguistic theories of meaning and strong commonsense intuitions. Looking at how common knowledge is formed in societies, one is necessarily drawn to communicative events that look like rituals: ceremonies, media events, and so forth. By associating common knowledge with cultural practices, this book suggests a close and reciprocal relationship between the perspectives of rationality and culture, which are often thought separate or even antagonistic. The idea of individual rationality, historically associated with atomistic market societies, can help in understanding cultural practices which seem to create social unity. The study of culture has long considered economic contexts; pursuing the logical consequences of "material" rationality, game theory finds culture." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 -->
 
 </p></details>
-
-> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
-
-> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
-
-> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
-
-> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
-
-> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
-
-> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
-
-> "" - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 
 
 

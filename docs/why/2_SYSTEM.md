@@ -426,6 +426,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
 > "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
 
+> "Mercy to the guilty is cruelty to the innocent." - [Adam Smith](https://www.goodreads.com/quotes/548339-mercy-to-the-guilty-is-cruelty-to-the-innocent)
+
 > "Not to punish evil is equivalent to authorizing it." - [Leonardo da Vinci](https://www.azquotes.com/quote/1080575)
 
 > "The actual control planes of the system are tenured or inherited — not elected." - [Balaji Srinivasan](https://x.com/balajis/status/1815190452251038133)
