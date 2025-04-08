@@ -342,6 +342,20 @@ In this series we’ve been taking an earnest  look at what many people consider
 
 
 
+
+
+
+
+
+> "In his book Meanings of Life, Roy Baumeister offers what he calls an “existential shopping list” of four types of meaning that humans tend to need, and will seek if not provided. The first is purpose – a kind of future-oriented meaning that provides a reason to do things, reflecting our nature as spread out in time. Goals are one kind of purpose; their weakness is that they are often realizable, so that we constantly need new goals to replace those that have been accomplished. Another kind of purpose exists in the far future, a mythical, often illusory “fulfillment state” such as heaven, fame, high status, or career success. The second is justification, the deepest basis or value, the final “because” for the endless hierarchy of “why”s. The search for this kind of justification is what is meant by Camus’ statement that the only really serious philosophical problem is that of suicide: why exist at all? Third, we need a sense of efficacy, of having some degree of control over our life and world. Fourth, we need self-worth, to feel valuable and important to others.
+>
+> ... In all of these domains, traditional sources of these four kinds of meaning have weakened over the past few centuries and decades. In Baumeister’s view, traditional sources of meaning (group-based morality, religion, etc.) have been replaced with emphasis on the self. Our goals tend to be individual goals; our fulfillment state is not heaven, but fame and career success, even as we see that this is unlikely and does not actually produce sustained contentment for those who achieve it. Efficacy and self-worth are expressed in work and personal performance, athletic or academic achievement, rather than in selfless group identity and the sacred." - [The Essence of Peopling, by Sarah Perry](https://www.ribbonfarm.com/2015/04/08/the-essence-of-peopling/)
+
+
+
+
+
+
 > "What sets human beings apart from animals is not the pursuit of happiness, which occurs all across the natural world, but the pursuit of meaning, which is unique to humans." - [Roy Baumeister](https://www.azquotes.com/quote/921661)
 
 > "After the attention economy comes the meaning economy." - [Octopusyarn](https://x.com/octopusyarn/status/1897757124974817599)

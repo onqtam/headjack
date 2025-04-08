@@ -249,8 +249,9 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Accounting beyond the price signal - properly calculating contribution and relevance
+# SECTION: Accounting beyond the price signal - properly calculating contribution and relevance / credit assignment / recognition
 ██████████████████████████████████████████████████████████████████
+
 
 
 > "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
@@ -272,6 +273,70 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 
 
 
+> "AI as the engine, humans as the steering wheel, by Vitalik Buterin
+>
+> ... an alternative approach that I favor exploring for many use cases is to make a simple mechanism be the rules of the game, and let AIs be the players. This is the same insight that makes markets so effective: the rules are a relatively dumb system of property rights, with edge cases decided by a court system that slowly accumulates and adjusts precedents, and all of the intelligence comes from entrepreneurs operating "at the edge". The individual "game players" can be LLMs, swarms of LLMs interacting with each other and calling into various internet services, various AI + human combinations, and many other constructions; as a mechanism designer, you do not need to know. The ideal goal is to have a mechanism that functions as an automaton - if the goal of the mechanism is choosing what to fund, then it should feel as much as possible like Bitcoin or Ethereum block rewards. The benefits of this approach are:
+>
+> 1. It avoids enshrining any single model into the mechanism; instead, you get an open market of many different participants and architectures, all with their own different biases. Open models, closed models, agent swarms, human + AI hybrids, cyborgs, infinite monkeys (https://en.wikipedia.org/wiki/Infinite_monkey_theorem), etc, are all fair game; the mechanism does not discriminate.
+>
+> 2. The mechanism is open source. While the players are not, the game is - and this is a pattern that is already reasonably well-understood (eg. political parties and markets both work this way)
+>
+> 3. The mechanism is simple, and so there are relatively few routes for a mechanism designer to encode their own biases into the design
+>
+> 4. The mechanism does not change, even if the architecture of the underlying players will need to be redesigned every three months from here until the singularity.
+>
+> The goal of the steering mechanism is to provide a faithful representation of the participants' underlying goals. It only needs to provide a small amount of information, but it should be high-quality information. You can think of the mechanism as exploiting an asymmetry between coming up with an answer and verifying the answer. This is similar to how a sudoku is difficult to solve, but it's easy to verify that a solution is correct. You (i) create an open market of players to act as "solvers", and then (ii) maintain a human-run mechanism that performs the much simpler task of verifying solutions that have been presented.
+>
+> Futarchy
+>
+> Futarchy was originally introduced by Robin Hanson as "vote values, but bet beliefs (https://mason.gmu.edu/~rhanson/futarchy.html)". A voting mechanism chooses a set of goals (which can be anything, with the caveat that they need to be measurable) which get combined into a metric M. When you need to make a decision (for simplicity, let's say it's YES/NO), you set up conditional markets: you ask people to bet on (i) whether YES or NO will be chosen, (ii) value of M if YES is chosen, otherwise zero, (iii) value of M if NO is chosen, otherwise zero. Given these three variables, you can figure out if the market thinks YES or NO is more bullish for the value of M. "Price of the company share" (or, for a cryptocurrency, a token) is the most commonly cited metric, because it's so easy to understand and measure, but the mechanism can support many kinds of metrics: monthly active users, median self-reported happiness of some group of constituents, some quantifiable measure of decentralization, etc. Futarchy was originally invented in the pre-AI era. However, futarchy fits very naturally in the "sophisticated solver, easy verifier" paradigm described in the previous section, and traders in a futarchy can be AI (or human+AI combinations) too. The role of the "solvers" (prediction market traders) is to determine how each proposed plan will affect the value of a metric in the future. This is hard. The solvers make money if they are right, and lose money if they are wrong. The verifiers (the people voting on the metric, adjusting the metric if they notice that it is being "gamed" or is otherwise becoming outdated, and determining the actual value of the metric at some future time) need only answer the simpler question "what is the value of the metric now?"
+>
+> Distilled human judgement
+>
+> Distilled human judgement is a class of mechanisms that works as follows. There is a very large number (think: 1 million) of questions that need to be answered. Natural examples include:
+>
+> 1. How much credit does each person in this list deserve for their contributions to some project or task?
+>
+> 2. Which of these comments violate the rules of a social media platform (or sub-community)?
+>
+> 3. Which of these given Ethereum addresses represent a real and unique human being?
+>
+> 4. Which of these physical objects contributes positively or negatively to the aesthetics of its environment?
+>
+> You have a jury that can answer such questions, though at the cost of spending a lot of effort on each answer. You ask the jury to only a small number of the questions (eg. if the total list has 1 million items, the jury perhaps only provides answers on 100 of them). You can even ask the jury indirect questions: instead of asking "what percent of total credit does Alice deserve?", you can ask "does Alice or Bob deserve more credit, and how many times more?". When designing the jury mechanism, you can reuse time-tested mechanisms from the real world like grants committees, courts (determining value of a judgement), appraisals, etc, though of course the jury participants are themselves welcome to use new-fangled AI research tools to help them come to an answer. You then allow anyone to submit a list of numerical responses to the entire set of questions (eg. providing an estimate for how much credit each participant in the entire list deserves). Participants are encouraged to use AI to do this, though they can use any technique: AI, human-AI hybrid, AI with access to internet search and the ability to autonomously hire other human or AI workers, cybernetically enhanced monkeys, etc. Once the full-list providers and the jurors have both submitted their answers, the full lists are checked against the jury answers, and some combination of the full lists that are most compatible with the jury answers is taken as the final answer. The distilled human judgement mechanism is different from futarchy, but has some important similarities:
+>
+> 1. In futarchy, the "solvers" are making predictions, and the "ground-truth data" that their predictions get checked against (to reward or penalize solvers) is the oracle that outputs the value of the metric, which is run by the jury.
+>
+> 2. In distilled human judgement, the "solvers" are providing answers to a very large quantity of questions, and the "ground-truth data" that their predictions get checked against is high-quality answers to a small subset of those questions, provided by a jury.
+>
+> The "humans as a steering wheel" aspect in this "defeating Sauron" example is reflected in two places. First, there is high-quality human judgement being applied on each individual question, though this is still leveraging the jury as "technocratic" evaluators of performance. Second, there is an implied voting mechanism that determines if "defeating Sauron" is even the right goal (as opposed to, say, trying to ally with him, or offering him all the territory east of some critical river as a concession for peace). There are other distilled human judgement use cases where the jury task is more directly values-laden: for example, imagine a decentralized social media platform (or sub-community) where the jury's job is to label randomly selected forum posts as following or not following the community's rules. There are a few open variables within the distilled human judgement paradigm:
+>
+> 1. How do you do the sampling? The role of the full list submitters is to provide a large quantity of answers; the role of the jurors is to provide high-quality answers. We need to choose jurors, and choose questions for jurors, in such a way that a model's ability to match jurors' answers is maximally indicative of its performance in general...
+>
+> 2. What scoring function do you use?... This is to show that there is a rich design space of scoring functions, and the choice of scoring functions is connected to the choice of which questions you ask the jurors.
+>
+> 3. How do you reward the full list submitters? Ideally, you want to often give multiple participants a nonzero reward, to avoid monopolization of the mechanism, but you also want to satisfy the property that an actor cannot increase their reward by submitting the same (or slightly modified) set of answers many times. One promising approach is to directly compute the linear combination (with coefficients non-negative and summing to 1) of full lists that best fits the jury answers, and use those same coefficients to split rewards. There could also be other approaches.
+>
+> In general, the goal is to take human judgement mechanisms that are known to be effective and bias-minimizing and have stood the test of time (eg. think of how the adversarial structure of a court system includes both the two parties to a dispute, who have high information but are biased, and a judge, who has low information but is probably unbiased), and use an open market of AIs as a reasonably high-fidelity and very low-cost predictor of these mechanisms (this is similar to how "distillation" of LLMs works).
+>
+> Deep funding
+>
+> Deep funding is the application of distilled human judgement to the problem of filling in the weights of edges on a graph representing "what percent of the credit for X belongs to Y?" ... This approach is designed to work in domains where work is built on top of previous work and the structure of this is highly legible. Academia (think: citation graphs) and open source software (think: library dependencies and forking) are two natural examples. The goal of a well-functioning deep funding system would be to create and maintain a global graph, where any funder that is interested in supporting one particular project would be able to send funds to an address representing that node, and funds would automatically propagate to its dependencies (and recursively to their dependencies etc) based on the weights on the edges of the graph. You could imagine a decentralized protocol using a built-in deep funding gadget to issue its token: some in-protocol decentralized governance would choose a jury, and the jury would run the deep funding mechanism, as the protocol automatically issues tokens and deposits them into the node corresponding to itself. By doing so, the protocol rewards all of its direct and indirect contributors in a programmatic way reminiscent of how Bitcoin or Ethereum block rewards rewarded one specific type of contributor (miners). By influencing the weights of the edges, the jury gets a way to continuously define what types of contributions it values...
+>
+> ... Benefits of engine + steering wheel designs
+>
+> Designs like this have a number of promising benefits. By far the most important one is that they allow for the construction of DAOs where human voters are in control of setting the direction, but they are not overwhelmed with an excessively large number of decisions to make. They hit the happy medium where each person doesn't have to make N decisions, but they have more power than just making one decision (how delegation typically works), and in a way that is more capable of eliciting rich preferences that are difficult to express directly. Additionally, mechanisms like this seem to have an incentive smoothing property. What I mean here by "incentive smoothing" is a combination of two factors:
+>
+> 1. Diffusion: no single action that the voting mechanism takes has an overly large impact on the interests of any one single actor.
+>
+> 2. Confusion: the connection between voting decisions and how they affect actors' interests is more complex and difficult to compute.
+>
+> The terms confusion and diffusion here are taken from cryptography (https://en.wikipedia.org/wiki/Confusion_and_diffusion), where they are key properties of what makes ciphers and hash functions secure.
+>
+> A good example of incentive smoothing in the real world today is the rule of law: the top level of the government does not regularly take actions of the form "give Alice's company $200M", "fine Bob's company $100M", etc, rather it passes rules that are intended to apply evenly to large sets of actors, which then get interpreted by a separate class of actors. When this works, the benefit is that it greatly reduces the benefits of bribery and other forms of corruption. And when it's violated (as it often is in practice), those issues quickly become greatly magnified. AI is clearly going to be a very large part of the future, and this will inevitably include being a large part of the future of governance. However, if you are involving AI in governance, this has obvious risks: AI has biases, it could be intentionally corrupted during the training process, and AI technology is evolving so quickly that "putting an AI in charge" may well realistically mean "putting whoever is responsible for upgrading the AI in charge". Distilled human judgement offers an alternative path forward, which lets us harness the power of AI in an open free-market way while keeping a human-run democracy in control." - [AI as the engine, humans as the steering wheel, by Vitalik Buterin](https://vitalik.eth.limo/general/2025/02/28/aihumans.html)
+
+^^ this is a really important piece - goes (mostly) into the new forms of accounting, DHJ (distilled human judgement) is very similar to Universal Basic Recognition / credit, Deep Funding is an epic concept which I've been already thinking a lot about!
+And this would be a lot easier to implement on top of open data - avoiding the need for MPC/FHE/TEE for making private information available
 
 
 > "While intellectual property rights need to be abolished as they are inhibiting progress and being used as a tool of inappropriate permanent economic control and intimidation, idea credit rights need far more recognition and need to start being applied to the originator, not the copyright or patent holders. Credit theft is a severe impediment to equality. It is as common now as ever for a person with access to powerful forums to pick up an idea from a person unable to reach the public and use it to enhance their own reputation... Credit for one’s work or ideas is the right of every person. Credit provides the human dignity of societal recognition, approval and belonging. Credit for ideas and actions is an inherent part of personal identity. Unlike copying, which is not theft, taking credit deprives the rightful owner of it and is theft. There is no need to ever hide the origin of information unless the ultimate goal is to isolate them and suppress or twist their messages or use their work to glorify another." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
@@ -1606,6 +1671,19 @@ all of chapter 8 is good, it's part of his book "The Nature of Technology"
 > ... As the world system becomes increasingly interconnected, it also gives higher and higher centrality to a lower and lower proportion of the world’s population. Globalization is the growth of a scale-free network. When it comes to money, this centrality belongs to the major corporations, to info-tech – and to finance and banking establishments. We are looking at the growth of an info-financial-industrial complex... As the scale-free network becomes greater and denser, the relative financial power of those at its center to make profit, from their relational advantage, increases.
 >
 > ... We see a global system where the top 1% hijacks our collective distribution of work priorities, allocation of attention and symbolic value. We have so many governments forced to suck up to global capital, so many lobbyists, so many geniuses doing mean and harmful work, so much competition for a piece of those heights of humongous capital investment. We even have wars fought and conflicts resulting from politics derailed by the crude logic of capital. And this top 1% is growing rapidly in structural power, with its own interests in high risk societies and upheld imbalances and inequalities." - [Beyond Piketty, Far Beyond, by Hanzi Freinacht](https://metamoderna.org/beyond-piketty-far-beyond/)
+
+
+
+
+> "Traditional economics focuses heavily on a small number of economic models that make particular assumptions about how agents operate, and treats deviations from these models as bugs whose consequences are not too serious in practice. As given in textbooks, these assumptions include:
+>
+> 1. Competition: the common case for the efficiency of markets (https://en.wikipedia.org/wiki/Fundamental_theorems_of_welfare_economics) relies on the assumption that no single market participant is large enough to significantly move market prices with their actions - instead, the prices they set only determine whether or not anyone buys their product.
+>
+> 2. Perfect information: people in a market are fully informed about what products they are purchasing
+>
+> 3. Perfect rationality: people in a market have consistent goals and are acting toward achieving those goals (it's allowed for these goals to be altruistic)
+>
+> 4. No externalities: production and use of the things being traded in a marketplace only affects the producer and user, and not third parties that you have no connection with" - [Plurality philosophy in an incredibly oversized nutshell, by Vitalik Buterin](https://vitalik.eth.limo/general/2024/08/21/plurality.html)
 
 
 
