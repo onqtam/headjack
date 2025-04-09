@@ -1,18 +1,14 @@
 
 
-
-> "Science, as well as technology, will in the near and in the farther future increasingly turn from problems of intensity, substance, and energy, to problems of structure, organization, information, and control." - [John von Neumann](https://www.azquotes.com/quote/1337572)
-
-> "All stable processes we shall predict. All unstable processes we shall control." - [John von Neumann](https://www.azquotes.com/quote/878804)
-
-
-
-
 ██████████████████████████████████████████████████████████████████
 # SECTION: Cybernetics
 ██████████████████████████████████████████████████████████████████
 
 > "Cybernetics is the art of steering." - [Paul Pangaro](https://twitter.com/paulpangaro)
+
+> "Science, as well as technology, will in the near and in the farther future increasingly turn from problems of intensity, substance, and energy, to problems of structure, organization, information, and control." - [John von Neumann](https://www.azquotes.com/quote/1337572)
+
+> "All stable processes we shall predict. All unstable processes we shall control." - [John von Neumann](https://www.azquotes.com/quote/878804)
 
 > "Cybernetics is the science that studies the abstract principles of organization in complex systems. It is concerned not so much with what systems consist of, but how they function. Cybernetics focuses on how systems use information, models, and control actions to steer towards and maintain their goals, while counteracting various disturbances.
 >
