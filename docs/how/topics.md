@@ -3,6 +3,10 @@ draft: true
 ---
 
 TOPICS TO FINISH AS A SECTION:
+- active inference
+- global brain
+- offer network & challenge propagation
+- metasystem transition
 - CI, credit assignment
 
 - preference falsification
