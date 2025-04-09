@@ -7,6 +7,11 @@ draft: true
 
 > "We need a system where urgent local news can be collected and amplified globally when necessary, and where the people of the world decide which news is important, not official news channels or celebrity nodes." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
+> "If news requires no action, it is probably not the news we require in order to govern ourselves. If activism requires no analysis, it is probably not informed or effective." - [Heather Marsh](https://www.goodreads.com/quotes/10158316-if-news-requires-no-action-it-is-probably-not-the)
+
+> "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
+
+> "Promoting ideas also allows auditing of an idea without all the unrelated distraction of attached personalities." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
 
 
@@ -17,8 +22,6 @@ draft: true
 > It is necessary to define a form of elitism, of ideas or people, that will take advantage of expertise but not remove control of a system from the end users. Ignoring elite knowledge in favour of a pretense at completely horizontal governance will not eliminate elitism, it willonly create hidden oligarchies dominated by those without the expertise required, usually celebrity personalities.
 >
 > In allowing this form of elitism, ultimate choice must always be left with the entire user group. An epistemic community is a knowledge resource only. Superior knowledge can only be forced to work for the wellbeing of the entire user group if authority remains with the entire user group and the epistemic community is forced to remain completely transparent and permeable. Science may dream of brilliant innovations, but the user group controls whether those are implemented or created. This authority also provides the incentive for transparency and knowledge bridges to explain reasoning to the entire group." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
-
-> "Promoting ideas also allows auditing of an idea without all the unrelated distraction of attached personalities." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
 > "It is the responsibility of each user in an open system to educate themselves to their own level of comfort using the data and user population at each level to inform themselves. Their input and decision making impact would then be commensurate with the expertise they acquire. The epistemic community in the centre should not need to protect themselves from demands orattacks from completely uninformed users. The circles of expertise which promoted them to the centre should also verify and explain their findings to the outer circles" - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
@@ -42,44 +45,9 @@ draft: true
 
 
 
-> "If there was ever a need for political representation or a paternalistic and opaque authority it has been removed by technology. Every political system we have tried has proven incapable of protecting human rights and dignity. Every political system we have tried has devolved into oligarchy. To effect the change we require immediately, to give individuals control and responsibility, to bring regional systems under regional governance, allow global collaboration and protect the heritage of future generations, we need a new political model." - [Heather Marsh](https://kevinbeynon.com/bindingchaos#:~:text=If%20there%20was,new%20political%20model.)
 
-> "The world is long overdue for a completely new system of governance." - [Heather Marsh](https://kevinbeynon.com/bindingchaos#:~:text=The%20world%20is%20long%20overdue%20for%20a%20completely%20new%20system%20of%20governance.)
 
-> "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
 
-> "Ponzi schemes don’t trickle down, they siphon up." - [Heather Marsh](https://www.goodreads.com/quotes/7562640-ponzi-schemes-don-t-trickle-down-they-siphon-up)
-
-> "The world we live in is still mostly governed by a ponzi scheme of power, wealth and celebrity. Those at the top of the ponzi scheme are standing on nothing but the world’s acceptance of their right to be there." - [Heather Marsh](https://www.goodreads.com/quotes/10243852-the-world-we-live-in-is-still-mostly-governed-by)
-
-> "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
-
-> "Who controls the words controls your thoughts." - [Heather Marsh](https://www.goodreads.com/quotes/8003284-who-controls-the-words-controls-your-thoughts)
-
-> "Governance to me is action not an organization. It is something people have to just do. It is only after governance by the people is established that politicians can be lobbied into supporting it until it makes them obsolete." - [Heather Marsh](https://www.goodreads.com/quotes/9716061-governance-to-me-is-action-not-an-organization-it-is)
-
-> "A true democracy is conducted in the open, and open government is the enemy of all bad government." - [Heather Marsh](https://www.goodreads.com/quotes/10158355-a-true-democracy-is-conducted-in-the-open-and-open)
-
-> "Information freedom is the freedom to access, participate in, understand and benefit from knowledge creation. This includes access to raw data, transparent auditing processes which include both elite knowledge and complete and immediate feedback from user groups and anyone else impacted, and interpretation which flows directly from the audit without interference from coercive manipulation." - [Heather Marsh](https://www.goodreads.com/quotes/10153193-information-freedom-is-the-freedom-to-access-participate-in-understand)
-
-> "We could have complete, transparent, participatory knowledge accessible to all, audited at every level of understanding, and protect privacy for everyone. Local governance could be both informed and autonomous and we could collaborate with a speed and accuracy that might just give us a chance to solve the problems we are facing before it is too late. Everyone would have the equal ability to make informed choices at their chosen level of understanding. We could have a universal reality, informed by information from all sources, and we could make decisions free of state and corporate coercion." - [Heather Marsh](https://www.goodreads.com/quotes/10282556-we-could-have-complete-transparent-participatory-knowledge-accessible-to-all)
-
-> "This is a war about information, governance, trade, ownership, personal and environmental health … in short, everything." - [Heather Marsh](https://www.goodreads.com/quotes/10112788-this-is-a-war-about-information-governance-trade-ownership-personal)
-
-> "Economics as we know it, is dead. This does not mean it will disappear completely overnight, or that it will not remain in some form in some places, but, like religions, states, families, and other formerly dominant endogroups, it will no longer be the dominant or authoritative power structure in our lives." - [Heather Marsh](https://www.goodreads.com/quotes/10282567-economics-as-we-know-it-is-dead-this-does-not)
-
-> "Internet reform is necessary because what is being created is no less than the implementation of an inescapable web of global totalitarianism and it will be very, very hard to dismantle when it is complete." - [Heather Marsh](https://www.goodreads.com/quotes/10153205-internet-reform-is-necessary-because-what-is-being-created-is)
-
-> "The future of journalism is in a stigmergic mesh network of amplifiers, investigators and activists who can filter and fact check news in real time, combine it with investigative global knowledge resources and create appropriate local and / or global action. The future is in collaborative investigators sharing knowledge to map everything we need to know to govern ourselves. The future is in activism and aid requested directly by the people who require it and responded to directly by the people who can provide it. The future is in the right and ability of every single person to broadcast their own voice and call for amplification when needed. The future of journalism is in all of us." - [Heather Marsh](https://www.goodreads.com/quotes/9716055-the-future-of-journalism-is-in-a-stigmergic-mesh-network)
-
-STIGMERGY HEATHER MARSH END
-
-> "If news requires no action, it is probably not the news we require in order to govern ourselves. If activism requires no analysis, it is probably not informed or effective." - [Heather Marsh](https://www.goodreads.com/quotes/10158316-if-news-requires-no-action-it-is-probably-not-the)
-
-> "A person who interprets another’s voice instead of amplifying it is assuming control over the originator." - [Heather Marsh](https://www.goodreads.com/quotes/10069678-a-person-who-interprets-another-s-voice-instead-of-amplifying-it)
-
-!!! Actually... "Binding Chaos" is crap - word salad & white man hating. ALL quotes by Heather should be scrutinized and maybe discarded.
-====================================================
 
 
 

@@ -784,6 +784,30 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 > "Exponential tech is inexorable. We cannot put it away. So, we either figure out anti-rivalry, or we go extinct. The human experiment comes to a completion. That’s the core thing." - [Daniel Schmachtenberger](https://www.sloww.co/daniel-schmachtenberger/#:~:text=%E2%80%9CAs%20technology%20is%20empowering%20our%20choices%20and%20we%20are%20getting%20something%20like%20the%20power%20of%20gods%2C%20you%20have%20to%20have%20something%20like%20the%20love%20and%20the%20wisdom%20of%20gods%20to%20wield%20that%20or%20you%20self%2Ddestruct.%E2%80%9D)
 
 
+> "The concept of "multipolar traps" offers a fascinating and sobering lens through which to view certain aspects of human behavior and decision-making. It's a term rooted in game theory, yet it applies to a surprisingly broad array of real-world situations. So, what is a multipolar trap, and why is it so important? Imagine playing a game where everyone loses. Sounds bleak, doesn't it? Yet, that's precisely what a multipolar trap entails. Stemming from the principles of game theory, a multipolar trap is a scenario in which multiple actors, following their individual rational choices, inevitably end up in a collectively harmful situation. But why use the term 'multipolar'? At its core, 'polar' signifies direction. In the context of this concept, it refers to the multiple directions - or rational choices - pursued by different actors. It's these distinct paths that lead to the regrettable shared outcome.
+>
+> ... Tragedy of the Commons
+>
+> Consider a shared pasture, free for all local herdsmen. Each herdsman, acting on the rational instinct to maximize profit, adds more cattle to the field. The short-term benefits are appealing; each additional cow brings more milk, meat, or hide. However, as each herdsman follows this individualistic strategy, the pasture is overgrazed. The grass dies, and soon, the once fertile commons turn into a barren field. The rational actions of individuals lead to a collectively harmful outcome: the depletion of a shared resource, leaving everyone worse off.
+>
+> Economics
+>
+> Free-market economies often become multipolar traps. Every business aims to maximize profit and market share, leading to aggressive competition. While this competition can drive innovation and efficiency, it can also result in a race to the bottom in areas such as labor standards or environmental protection. Businesses that seek to behave ethically often find themselves at a disadvantage against those willing to cut corners, creating a collective race towards an unsustainable future.
+>
+> Politics
+>
+> The Cold War-era arms race provides a stark example. Both the United States and the Soviet Union, in pursuit of national security, amassed increasingly large and destructive arsenals. Each escalation, rational from a national defense perspective, heightened the overall threat to global peace. Resources that could have been used for public goods like healthcare or education were instead spent on nuclear weapons, showcasing a regrettable shared outcome from individual rational choices.
+>
+> Climate Change
+>
+> In our modern era, global climate change is arguably the most pressing multipolar trap. Every country seeks economic development, often fueled by carbon-intensive industries. While this can boost individual nations' prosperity, the collective cost in terms of rising global temperatures and environmental destruction is staggering.
+>
+> ... Navigating Multipolar Traps in the Modern World
+>
+> The irony of multipolar traps is stark. They epitomize how rational decisions, instead of leading us to beneficial outcomes, often lock us into undesirable situations. They demonstrate a harsh truth: our individual perspectives, when multiplied across society, can steer us toward collective harm. So, where does this leave us?It urges us to acknowledge that our decisions echo beyond our immediate circles. We're woven into a vast network of actions and consequences, each reverberating with the choices of others. Multipolar traps aren't merely a theoretical concept; they're a cautionary tale about the pitfalls of unchecked self-interest. They remind us that the pursuit of common good requires more than isolated rational choices - it necessitates collective wisdom, empathy, and cooperation. In summary, the term 'multipolar trap' paints a powerful picture of the sometimes paradoxical relationship between individual rationality and collective wellbeing. By understanding it, we're better equipped to recognize these traps in our lives and the broader world. And in doing so, we might just find a way to navigate these traps more wisely. After all, isn't the first step toward escaping a trap acknowledging that it exists?" - [Unseen Battles: How Multipolar Traps Drive Our World, by Miles Rote](https://www.milesrote.com/blog/unseen-battles-how-multipolar-traps-drive-our-world)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Incentive design
 ██████████████████████████████████████████████████████████████████

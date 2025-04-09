@@ -247,7 +247,6 @@ Who benefits the most from fractured & incoherent epistemic commons and uncoordi
 
 > "Ours is a problem in which deception has become organized and strong; where truth is poisoned at its source; one in which the skill of the shrewdest brains is devoted to misleading a bewildered people." - [Walter Lippmann](https://www.azquotes.com/quote/1090709)
 
-
 > "Journalism is printing what someone else does not want printed: everything else is public relations." - [George Orwell](https://www.azquotes.com/quote/364418)
 
 "WE ACCEPT THE REALITY OF THE WORLD WITH WHICH WE ARE PRESENTED" - from the Truman Show

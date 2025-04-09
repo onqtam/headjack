@@ -3,9 +3,8 @@ draft: true
 ---
 
 TOPICS TO FINISH AS A SECTION:
-- preference falsification
-- common knowledge
 - RR
+- preference falsification
 - predictive processing & active inference
 
 

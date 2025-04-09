@@ -457,6 +457,11 @@ https://x.com/paultoo/status/1845957636086468805
 
 <img src="/img/shit_is_fucked_up_and_stuff.jpg"/>
 
+> "Opportunists are promoted, realists are co-opted, idealists are frightened and radicals are shot." - [Heather Marsh](https://www.goodreads.com/quotes/7996445-opportunists-are-promoted-realists-are-co-opted-idealists-are-frightened-and)
+
+> "A true democracy is conducted in the open, and open government is the enemy of all bad government." - [Heather Marsh](https://www.goodreads.com/quotes/10158355-a-true-democracy-is-conducted-in-the-open-and-open)
+
+
 > "If I was an alien race that wanted to cripple Earth’s technological development I wouldn’t kill scientists, I would invent new ways to ensure the best and brightest people would choose to work on optimizing ad clicks, create exciting new financial derivatives, or trade vapor assets based on animal memes instead of creating deep technology" - [@nope_its_lily](https://twitter.com/nope_its_lily/status/1773036747833901463)
 
 > "The Efficient Grift Hypothesis - Every moral hazard introduced will be exploited. One may question the degree of exploitation or the acceptability of entailed consequences, but not the base reality that it will occur. Those who say otherwise are either in on the grift, or a naive pawn of those in on the grift." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1681718324080816130)

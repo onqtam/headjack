@@ -260,6 +260,9 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 > "A nation that fails to honor its heroes, soon will have no heroes to honor." - [Winston Churchill](https://www.azquotes.com/quote/722245)
 ^^ wtf... fucking fake quotes
 
+> "Billions are wasted on ineffective philanthropy. Philanthropy is decades behind business in applying rigorous thinking to the use of money." - [Michael Porter](https://www.azquotes.com/quote/234633)
+
+
 > "The wealthy and powerful have rigged the system to perpetuate their privilege; the professional classes have figured out how to pass their advantages on to their children, converting the meritocracy into a hereditary aristocracy; colleges that claim to select students on merit give an edge to the sons and daughters of the wealthy and the well-connected. According to this complaint, meritocracy is a myth, a distant promise yet to be redeemed." - [Michael J. Sandel](https://www.goodreads.com/quotes/10557710-the-wealthy-and-powerful-have-rigged-the-system-to-perpetuate)
 
 

@@ -300,6 +300,13 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 > "The precision of our biological clock across trillions of cells is incredible. One never sees someone with an old left arm, but a young right arm. Aging can obviously be fixed. The real question is whether it should be." - [Elon Musk](https://x.com/elonmusk/status/1645220289586790401)
 
 
+> "A person who interprets another’s voice instead of amplifying it is assuming control over the originator." - [Heather Marsh](https://www.goodreads.com/quotes/10069678-a-person-who-interprets-another-s-voice-instead-of-amplifying-it)
+
+> "Ponzi schemes don’t trickle down, they siphon up." - [Heather Marsh](https://www.goodreads.com/quotes/7562640-ponzi-schemes-don-t-trickle-down-they-siphon-up)
+
+> "The world we live in is still mostly governed by a ponzi scheme of power, wealth and celebrity. Those at the top of the ponzi scheme are standing on nothing but the world’s acceptance of their right to be there." - [Heather Marsh](https://www.goodreads.com/quotes/10243852-the-world-we-live-in-is-still-mostly-governed-by)
+
+> "Information freedom is the freedom to access, participate in, understand and benefit from knowledge creation. This includes access to raw data, transparent auditing processes which include both elite knowledge and complete and immediate feedback from user groups and anyone else impacted, and interpretation which flows directly from the audit without interference from coercive manipulation." - [Heather Marsh](https://www.goodreads.com/quotes/10153193-information-freedom-is-the-freedom-to-access-participate-in-understand)
 
 
 

@@ -33,6 +33,8 @@ https://www.brainyquote.com/quotes/john_mcafee_755447
 
 > "Facebook and Twitter have succeeded beyond anyone’s expectations, yet they weren’t set up to be governments. People didn’t consciously sign a social contract to be governed by them. Facebook and Twitter grew to take over much of people’s lives, but have no concept of digital property rights. Seizures and silencing weren’t part of the bargain." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=Facebook%20and%20Twitter,of%20the%20bargain.)
 
+> "Internet reform is necessary because what is being created is no less than the implementation of an inescapable web of global totalitarianism and it will be very, very hard to dismantle when it is complete." - [Heather Marsh](https://www.goodreads.com/quotes/10153205-internet-reform-is-necessary-because-what-is-being-created-is)
+
 
 ██████████████████████████████████████████████████████████████████
 # security & can't be evil
