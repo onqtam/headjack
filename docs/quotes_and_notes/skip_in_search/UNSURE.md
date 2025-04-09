@@ -308,6 +308,8 @@ https://www.imdb.com/title/tt0133093/quotes/?item=qt0324247&ref_=ext_shr_lnk
 
 > "Information freedom is the freedom to access, participate in, understand and benefit from knowledge creation. This includes access to raw data, transparent auditing processes which include both elite knowledge and complete and immediate feedback from user groups and anyone else impacted, and interpretation which flows directly from the audit without interference from coercive manipulation." - [Heather Marsh](https://www.goodreads.com/quotes/10153193-information-freedom-is-the-freedom-to-access-participate-in-understand)
 
+> "All of humanity is in peril of extinction if each one of us does not dare, now and henceforth, always to tell only the truth, and all the truth, and to do so promptly - right now." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1267424)
+
 
 
 

@@ -108,7 +108,6 @@
 
 > "What kind of society turns its young people into a profit center for the debt industry?" - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/9463762-what-kind-of-society-turns-its-young-people-into-a)
 
-> "Consumption seems to be our favorite high, our nationally sanctioned addiction, the all-American form of substance abuse." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/9530885-consumption-seems-to-be-our-favorite-high-our-nationally-sanctioned)
 
 
 
@@ -123,19 +122,6 @@
 
 
 
-> "The core problem is not ultimately material, but conceptual - a crisis of meaning and an inadequate understanding of human nature, our environment, and our place in the cosmos. The rise of the scientific worldview has enabled us to manipulate the material world with incredible precision, but has also fragmented our conceptual frameworks and left us without a coherent, compelling vision of who we are and what we should be aiming at individually and collectively.
->
-> At the root... is a failure to appreciate the deep patterning of nature and how humanity fits into the larger unfolding of the universe. We have lost the sense of enchantment and inherent purposiveness that pervaded premodern worldviews, but have not yet developed a rigorous, empirically grounded understanding of meaning and mattering to replace it. The result is a growing sense of arbitrariness, alienation, and angst in modern life." - [Tomer Solomon](https://tomersolomon.substack.com/p/uptm-prelude-on-bildungsromans-and#:~:text=the%20core%20problem,in%20modern%20life.)
-
-> "Greek philosophy, especially Plato and Aristotle, provides the foundational insight that nature is imbued with inherent purposiveness, or telos. In recent times, Alfred North Whitehead reconciles Plato’s intuition with the latest scientific enterprise. Just as the acorn naturally grows into the oak tree which then seeds new acorns, realizing its essential form, so too do all things have a natural end state they are striving to actualize. This teleological view challenges the reductionistic materialism that pervades modern thought, revealing a cosmos pregnant with meaning and value.
->
-> Mathematics, namely the free energy principle, in turn, shows us that this purposive unfolding is deeply patterned in precise, compressible ways where ancient metaphysics can become actual physics from the latest statistical formulations of identity, Markov blankets. From the symmetries of physics to the fractals of biology and the beautiful simplicity of the free energy principle, we find nature expressing herself in stunningly beautiful and regular forms. This points to an underlying generative order or logos that gives rise to the manifest complexity of the universe. Furthermore, we are now in an intellectual position to merge mathematics and philosophy. Meaning, in this view, is about discerning and aligning ourselves with this deep patterning.
->
-> Computational neuroscience, particularly the Bayesian brain hypothesis, further illuminates the process by which we detect these meaningful patterns. Our brains, it turns out, are essentially prediction machines, continuously modeling regularities in our environment and using those models to anticipate the future. We experience the world as meaningful to the extent that we can successfully compress its complexity into reliable patterns and make sense of unfolding events. This suggests that the mind reflects the underlying structure of nature and that meaning is not some abstract property, but a function of how well we can understand and navigate the world." - [Tomer Solomon](https://tomersolomon.substack.com/p/uptm-prelude-on-bildungsromans-and#:~:text=Greek%20philosophy%2C%20especially,navigate%20the%20world.)
-
-> "What if we could design our organizational systems to be optimally aligned with the deep structures of the mind and the principles of complexity theory? Just as the human brain is a marvel of self-organizing complexity, with billions of neurons cooperating to give rise to the emergent phenomena of consciousness and intelligence, could we architect our institutions to harness the same generative dynamics?
->
-> Imagine businesses, governments, and social initiatives that were explicitly modeled on the latest insights from neuroscience, complex systems theory, and evolutionary biology. These organizations would be designed to cultivate the conditions for individual flourishing and collective intelligence. They would be adaptive, resilient, and self-optimizing, with feedback loops and error-correction mechanisms analogous to those found in living systems." - [Tomer Solomon](https://tomersolomon.substack.com/p/uptm-prelude-on-bildungsromans-and#:~:text=what%20if%20we,in%20living%20systems.)
 
 
 
@@ -359,29 +345,9 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "The Integrated Evolutionary Synthesis starts with what many consider to be the most important law in all of physics, the almighty second law of thermodynamics. The second law can be summarized simply as “Things fall apart.” In other words, systems naturally tend toward decay and disorder. The technical term for disorder is “entropy,” and because the second law says entropy tends to increase, nature is constantly pulling us toward death.
->
-> In his 1944 book What is LIfe?, the quantum physicist Erwin Schrodinger explained that a biological system can avoid the tendency toward decay (or keep its internal entropy low) by feeding on “negative entropy” in the environment. Negative entropy was Schrodinger’s name for free energy—which is simply the available energy in the world that can be used to do physical work. Free energy allows an ordered system to stay ordered so that it may continue playing the Game of Life.
->
-> As animals, we consume free energy by eating food, which gets turned into mechanical work through the process of metabolism. Similarly, plants absorb free energy from sunlight and convert it into work through the process of photosynthesis. If an organism does not continually absorb energy, it will die and it will undergo entropic decay until the ordered system is no longer intact. When an energy-starved organism succumbs to the effects of the second law, the Game of Life has come to end for that player. If we choose not to play the game—that is, if we do nothing at all—we will soon cease to exist.
->
-> This fact makes it easy to see how the natural tendency toward disorder creates an intrinsic goal for all living systems, which turns life into a game of sorts and gives it a purpose. To continue persisting in a world that abides by the second law—to continue playing the Game of Life—we must be able to capture free energy, and we must be able to do so while avoiding threats.
->
-> However, navigating one’s environment in a chaotic and constantly changing world is no easy task. It requires that the living system acquire information about the environment, because that information reduces the organism’s uncertainty or ignorance about the relevant variables of the world it is embedded in. We may call the information that reduces an organism’s uncertainty knowledge. Evolutionary adaptation is therefore a learning process, and learning processes can also be seen as a form of adaptation. This was the insight of Karl Popper, and the basis for the influential philosophy known as evolutionary epistemology (which provided a basis for universal Darwinism, proposed by Richard Dawkins and Daniel Dennett).
->
-> Based on the same logic, one may also say that to survive an organism must acquire a map or model of its environment. This model is the result of knowledge accumulation, and an agent’s model can be thought of as being comprised of “beliefs” about the world, or what it expects to encounter. This model is a predictive model, which allows the organism to anticipate events in a complex world.
->
-> In humans and other animals, this predictive model is encoded in our brains, and it represents what we think of as the “mind.” Our mind consists of many different mental models that allow us to achieve our goals and make sense of a complicated and confusing reality." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=The%20Integrated%20Evolutionary%20Synthesis%20starts,a%20complicated%20and%20confusing%20reality.)
 
-> "Ashby’s law of requisite variety is a cybernetics principle that tells you something about how complex your world model should be. This law—as applied to evolutionary biology—says that to continue to survive, an organism must have a repertoire of states or responses that is equal to the number of different challenges or problems presented by its environment. In other words, the more options a system has to respond to a given situation, the more effectively it can control that situation." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=Ashby%E2%80%99s%20law%20of,control%20that%20situation.)
 
-> "This principle has important implications for practical situations: since the variety of perturbations a system can potentially be confronted with is unlimited, we should always try to maximize its internal variety (or diversity), so as to be optimally prepared for any foreseeable or unforeseeable contingency." - [Francis Heylighen](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=This%20principle%20has,or%20unforeseeable%20contingency.)
 
-> "In recent years, a growing number of influential minds have recognized the societal significance of a statistical reasoning method known as Bayesian reasoning, which is a procedure for updating your theory, model, or belief system in the face of new evidence. What Bayesian reasoning provides in a nutshell is a universal approach to determining truth. Beliefs should not be believed blindly; they should be tested continually. Using this reasoning system is a way to minimize free energy, so it can be seen as an extension of the free energy principle...
->
-> All you have to do is 1) consider all possible explanations for something, rather than relying purely on “gut instinct,” 2) rank and rate each theory or belief according to how likely it is to be true based on all the known facts, 3) test each theory/belief by using it to make future predictions, and 4) update how you ranked and rated the likelihood of each being true to reflect what you learned from the testing phase.
->
-> If you are living in a “Bayes-optimal” manner, then when some new information you get exposed to discredits your prior beliefs, you should update your model to reflect that reality. For example, if you are a flat-Earther and I take you up in a rocket and let you see that the Earth is round with your own eyes, and you come back down and continue believing the Earth is flat, then you are not being Bayes optimal. You are not updating your model in light of new evidence." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=In%20recent%20years%2C%20a,light%20of%20new%20evidence.)
 
 
 

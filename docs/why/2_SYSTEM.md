@@ -671,6 +671,7 @@ Sam altman in koenigsegg car picture
 
 > "Consumerism is an existential threat to humanity." - [Marko Jukic](https://x.com/mmjukic/status/1694368729373503781)
 
+> "Consumption seems to be our favorite high, our nationally sanctioned addiction, the all-American form of substance abuse." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/9530885-consumption-seems-to-be-our-favorite-high-our-nationally-sanctioned)
 
 Our perennial ["war of all against all"](https://en.wikipedia.org/wiki/Bellum_omnium_contra_omnes) manifesting in conspicuous consumption and status games will be our doom.
 

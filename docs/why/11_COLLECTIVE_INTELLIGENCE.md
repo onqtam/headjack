@@ -155,6 +155,11 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 
 > "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/2137-in-individuals-insanity-is-rare-but-in-groups-parties-nations)
 
+> "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
+
+> "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Probability & prediction
 ██████████████████████████████████████████████████████████████████
@@ -298,89 +303,6 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 > The result is perception, which the PP theory describes as “controlled hallucination”. You’re not seeing the world as it is, exactly. You’re seeing your predictions about the world, cashed out as expected sensations, then shaped/constrained by the actual sense data." - [Book Review: Surfing Uncertainty, by Scott Alexander](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/#:~:text=the%20brain%20is,actual%20sense%20data.)
 
 -->
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Bayesian Inference
-██████████████████████████████████████████████████████████████████
-
-fighting misinformation with a logical reasoning system
-Julia Galef: Think Rationally via Bayes' Rule | Big Think
-https://www.youtube.com/watch?v=NEqHML98RgU
-A visual guide to Bayesian thinking
-https://www.youtube.com/watch?v=BrK7X_XlGB8
-https://www.lesswrong.com/posts/x7kL42bnATuaL4hrD/bayesian-reasoning-explained-like-you-re-five
-https://www.edge.org/response-detail/27098
-
-> "Inference is actually quite close to a theory of everything – including evolution, consciousness, and life itself." - [Karl Friston](https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference#:~:text=Inference%20is%20actually%20quite%20close%20to%20a%20theory%20of%20everything%20%E2%80%93%20including%20evolution%2C%20consciousness%2C%20and%20life%20itself.)
-
-
-> "What is active inference? It’s a theory that describes how self-organizing biological systems maintain internal order by minimizing uncertainty about the world. Think of living systems as “bubbles of order” actively & dynamically persisting in the face of entropy, the natural tendency to disorder. This is represented by a “Markov blanket” - a statistical formalism for “identity” that partitions internal and external states. Internal order is maintained through exchanges of information between internal states, beliefs in a world model, and external states, the raw environment beyond immediate perception. This intermediation occurs via two “blanket” states: sensory states, the subset of external states that are perceived, and active states that represent actions taken to alter external states and thus sensory states. As the system continuously interacts with its environment, it engages in perception-action loops that iteratively update it’s model of the world... These Markov blankets can be nested hierarchically across spatial scales to provide an ontology for, well, everything. The beauty of this simple formalism is the application of mathematical rigor to identity via the full arsenal of information & energy dynamics." - [Tomer Solomon](https://tomersolomon.substack.com/p/cosmic-bayesian-inference#:~:text=What%20is%20active,information%20%26%20energy%20dynamics.)
-
-
-> "The logical reasoning system known as Bayesian inference is the only surefire way to acquire valid knowledge about the world." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=the%20logical%20reasoning%20system%20known%20as%C2%A0Bayesian%20inference%C2%A0is%20the%20only%20surefire%20way%20to%20acquire%20valid%20knowledge%20about%20the%20world.)
-
-> "[Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/) is a unifying approach to determining truth. Absolute truth is never attainable, but we do get closer to understanding objective reality by formulating and testing theories." - [Road to Omega: a plan to save the world with science, epistemology, and blockchain technology](https://roadtoomega.substack.com/p/savingtheworldwithscience#:~:text=Bayesian%20epistemology%C2%A0is%20a%20unifying%20approach%20to%20determining%20truth.%20Absolute%20truth%20is%20never%20attainable%2C%20but%20we%20do%20get%20closer%20to%20understanding%20objective%20reality%20by%20formulating%20and%20testing%20theories.)
-
-> "Bayesian inference is an algorithm for the accumulation of evidence-based knowledge. This algorithm is now seen to operate over a wide range of evolutionary processes, including natural selection, the evolution of mental models and cultural evolutionary processes, notably including science itself." - [John Campbell](https://youtu.be/_JCaic5Cxms?t=4901)
-
-> "Our aim as scientists is objective truth; more truth, more interesting truth, more intelligible truth. We cannot reasonably aim at certainty. Once we realize that human knowledge is fallible, we realize also that we can never be completely certain that we have not made a mistake." - [Karl Popper](https://www.goodreads.com/quotes/770441-our-aim-as-scientists-is-objective-truth-more-truth-more)
-
-> "The only way to test a hypothesis is to look for all the information that disagrees with it." - [Karl Popper](https://www.azquotes.com/quote/1407281)
-
-> "The growth of knowledge depends entirely upon disagreement." - [Karl Popper](https://www.azquotes.com/quote/1268891)
-
-> "The whole [scientific] process resembles biological evolution. A problem is like an ecological niche, and a theory is like a gene or a species which is being tested for viability in that niche." - [David Deutsch, The Fabric of Reality](https://www.goodreads.com/quotes/487229-the-whole-scientific-process-resembles-biological-evolution-a-problem-is)
-
-TODO: the good regulator theorem (aka the Internal Model Principle) by Ross Ashby - any system that regulates/controls another system must have a model of that system ==> organisms model their environment
-The law of requisite variety - tells us something about the computational sophistication of the internal model - the complexity of the model must be as complex as the challenges of the niche
-> "Every good regulator must contain a model of the system." - [Good regulator, Wikipedia](https://en.wikipedia.org/wiki/Good_regulator#:~:text=every%20good%20regulator%20must%20contain%20a%20model%20of%20the%20system)
-
-evolution is an inference engine 
-the organisms that persist are the models that are best able to predict the environment
-
-> "The nearest each of us can come to God is by loving the truth." - [R. Buckminster Fuller](https://www.azquotes.com/quote/716546)
-
-> "All of humanity is in peril of extinction if each one of us does not dare, now and henceforth, always to tell only the truth, and all the truth, and to do so promptly - right now." - [R. Buckminster Fuller](https://www.azquotes.com/quote/1267424)
-
-> "To understand the actual world as it is, not as we should wish it to be, is the beginning of wisdom." - [Bertrand Russell](https://www.azquotes.com/quote/1081297)
-
-
-Active Inference, which is based on the “free energy principle” of predictive processing
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Active Inference, the “Free Energy Principle” of predictive processing
-<!-- Active Inference, which is based on the “free energy principle” of predictive processing -->
-██████████████████████████████████████████████████████████████████
-
-> "[65] For a useful introduction, see Thomas Parr, Giovanni Pezzulo, and Karl Friston, Active Inference: The Free Energy Principle in Mind, Brain, and Behavior (Cambridge, Massachusetts: The MIT Press, 2022). They summarize the notion of Active Inference as a goal-directed learning process that continually updates an entity’s world model in response to how well it predicts (infers) future states. Accurate models allow organisms to predict with high probability the state of their environment, whereas inaccurate models will meet with surprise when expectations don’t match reality, occasioning an update to the model. Through this process, the entity learns more and more about its surroundings. They write:
->
-> 'Active Inference is a normative framework to characterize Bayes-optimal behavior and cognition in living organisms. Its normative character is evinced in the idea that all facets of behavior and cognition in living organisms follow a unique imperative: minimizing the surprise of their sensory observations. Surprise is to be interpreted in a technical sense: it measures how much an agent’s current sensory observations differ from its preferred sensory observations—that is, those that preserve its integrity (e.g., for a fish, being in the water). Importantly, minimizing surprise is not something that can be done by passively observing the environment: rather, agents must adaptively control their action-perception loops to solicit desired sensory observations. This is the active bit of Active Inference. (6)'
->
-> Or, more simply: “Surprise minimization permits living organisms to (temporarily) resist the second law of thermodynamics” (47).
->
-> As a theory of animal cognition, Active Inference extends into the domain of Mind the same sort of dynamics we have been tracking across the lower levels of cosmic complexification. The basic entity–field relationship creates a thermodynamic imperative from the start, setting off a cascade of increasing free energy dissipation, structural organization, and information generation characterizing a universal learning process that grows more sophisticated from Matter to Life to Mind and beyond. At every level, there is meaning owing to the intrinsic desire of entities to extend their existence. So, too, at the level of Cognitive Learning, “Active Inference…is purposive and teleological” (57), a “normative,” goal-driven process relating entities and environments in a field of value." - [A Universal Learning Process, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/216232048-a-universal-learning-process)
-
-
-
-
-> "The free energy principle might be the most all-encompassing idea since the theory of natural selection." - [Wired magazine](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/)
-
-> "The purpose of the creation of God is the minimization of free energy." - [Joscha Bach](https://x.com/Plinz/status/1845687311637647842)
-
-> "The free energy principle is a theoretical framework suggesting that the brain reduces surprise or uncertainty by making predictions based on internal models and updating them using sensory input. It highlights the brain's objective of aligning its internal model and the external world to enhance prediction accuracy. This principle integrates Bayesian inference with active inference, where actions are guided by predictions and sensory feedback refines them. It has wide-ranging implications for comprehending brain function, perception, and action." - [Wikipedia](https://en.wikipedia.org/wiki/Free_energy_principle#:~:text=The%20free%20energy,and%20action.)
-
-> "The FEP states that living organisms are dynamical systems that are separated from their environment by an interface. We will refer to these living organisms as ‘agents’ for the sake of convenience going forward, since all living organisms sense their environment and act in response to those sensations... Crucially, this interface separates both the environment from the agent and the agent from its surroundings, allowing it to exist as a self-contained and autonomous entity. Agents therefore always necessarily receive sensory information and act through this interface. They never have unmediated access to what is going on in the environment, and as a result always have to guess (or infer) what is the true state of the world based on the information they have access to. According to the FEP, all agents act, as best as they can, to minimize the errors in their guesses about the environment. These errors can be quantified by a metric called ‘free energy,’ and the better an agent can minimize it over time, the better chance the agent has of staying alive and maintaining itself. To understand it intuitively, think of free energy as a measure of surprise or uncertainty." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
-
-> "The minimization of free energy is not an end in itself. It is ultimately in service of the maintenance of the agent as an individual separated from its environment. Agents do this by attempting to remain in a state of homeostasis. All living agents have some sense of what that homeostasis for them should be, even if it is only represented implicitly within the structure of the agent itself. In the same way that sensory prediction errors increase free energy, so do deviations from the desired homeostasis of the agent, as the homeostatic set points of an agent itself are another kind of prediction about the world." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
-
-> "An interesting aspect of the FEP is that it can often produce behavior which paradoxically doesn’t seem like error minimization, at least in the short-term. Let’s imagine that someone moves to a new neighborhood they are unfamiliar with. They could choose to stay inside their new home, which would indeed allow them to minimize any prediction errors that would arise from the novel environment. On the other hand, they could go outside and explore their new surroundings. Doing the latter will produce many more short-term prediction errors. In the long run though it will allow them to avoid even bigger surprises in the future. It is this dynamic of long-term free energy minimization that can account for various forms of exploration, adventure, and industry which we are motivated to engage in." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
-
-> "We humans distinguish ourselves from other living agents by our ability to not only react to the environment but also establish goals and then set out to accomplish them. This might seem to be a challenge for a theory which suggests that all behavior is in the service of entropy minimization, but the FEP accounts for this quite elegantly as well. In this view, when we set a goal for ourselves, we are making a special kind of prediction about the world. This prediction is one that we know goes against the current sensory evidence, thus increasing free energy. Instead of updating our beliefs to account for the world (and in essence give up on the goal), what we do instead is to set out to act in the world in order to ensure that the sensory evidence corresponds to our prediction, and minimize the free energy in the process... We make a prediction about how we would like the world to be, and then act in order to make that prediction come true." - [A Gentle Introduction to the Free Energy Principle](https://awjuliani.medium.com/a-gentle-introduction-to-the-free-energy-principle-03f219853177)
-
-
-> "The free energy principle is a law of life that emerged from Karl Friston’s “Bayesian brain hypothesis,” but it applies to brainless organisms as well. In fact, it presumably applies to every complex adaptive system in nature, societies included. The free energy principle is a framework for understanding how self-organized systems maintain themselves in a world that abides by the second law. Here we will focus on its applications for humans.
->
-> The principle proposes that the brain is an organ that is designed to reduce uncertainty about the world around us and make predictions about future events. This is accomplished by generating internal predictions and comparing them to incoming sensory information. The brain then uses this comparison to update the beliefs of its model. In other words, the free energy principle suggests that the brain is constantly trying to minimize the difference between its internal model and reality. When the brain receives new information that contradicts its predictions, it experiences a state of "free energy" which drives it to update its beliefs and reduce its ignorance. To be clear, this is not thermodynamic free energy, but information-theoretic free energy, a term used in the field of machine learning. Performing this function allows us to make more accurate predictions, and makes us better adapted to nature." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=The%20free%20energy%20principle%20is,us%20better%20adapted%20to%20nature.)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -1264,6 +1186,11 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 > "Cyberneticist Valentin Turchin thoughtfully contemplated the possibility of a deeply integrated human super-being (1977, p. 259): “How far will integration of individuals go? There is no doubt that in the future (and perhaps not too far in the future) direct exchange of information among nervous systems of individual people (leading to their physical integration) will become possible.”" - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
 
+
+
+> "What if we could design our organizational systems to be optimally aligned with the deep structures of the mind and the principles of complexity theory? Just as the human brain is a marvel of self-organizing complexity, with billions of neurons cooperating to give rise to the emergent phenomena of consciousness and intelligence, could we architect our institutions to harness the same generative dynamics?
+>
+> Imagine businesses, governments, and social initiatives that were explicitly modeled on the latest insights from neuroscience, complex systems theory, and evolutionary biology. These organizations would be designed to cultivate the conditions for individual flourishing and collective intelligence. They would be adaptive, resilient, and self-optimizing, with feedback loops and error-correction mechanisms analogous to those found in living systems." - [Tomer Solomon](https://tomersolomon.substack.com/p/uptm-prelude-on-bildungsromans-and#:~:text=what%20if%20we,in%20living%20systems.)
 
 
 the internet as a stigmergic mediator
