@@ -3,9 +3,9 @@ draft: true
 ---
 
 TOPICS TO FINISH AS A SECTION:
-- RR
+- CI, credit assignment
+
 - preference falsification
-- predictive processing & active inference
 
 
 

@@ -1260,8 +1260,6 @@ Imagine being able to reuse the same browsing architecture from the open web to 
 
 An alternative competition outlet - not money but status through knowledge and responsibility
 
-The next Google is the infrastructure of the global brain
-
 Giving data weight
 
 The new incentive system for expertise
@@ -1339,8 +1337,6 @@ And what about journalists and all other positions? How do we bet on people and 
 We need to end even just the possibility of nuclear war - what’s the plan?
 
 Social legitimacy score
-
-The global brain is a moral imperative
 
 It is inconceivable why anyone would settle for anything less than futarchy
 
@@ -2218,8 +2214,6 @@ https://x.com/kirilovvik/status/1751998879359176965?s=46
 Reinvent capital allocation
 
 This is the greatest story ever told
-
-We’re not just neurons for the global brain - we are also its embodyment and sensory input
 
 If we crowdsource and rank a list of threats and necessities legitimately then anyone not being concerned with them is simply irresponsible
 
