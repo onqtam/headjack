@@ -36,6 +36,8 @@ What if the brightest minds were not in hedge funds but instead predicting in pu
 
 > "The proper locus of distributed cognition is the commons and what the state and the market do is they keep trying to say: no, no, we are the proper place in which distributed cognition functions." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1876)
 
+> "The problem is that capitalists typically don’t know how to divide the pie well and socialists typically don’t know how to grow it well." - [Why and How Capitalism Needs to Be Reformed, by Ray Dalio](https://corpgov.law.harvard.edu/2020/10/13/why-and-how-capitalism-needs-to-be-reformed/)
+
 "I think that most capitalists don’t know how to divide the economic pie well and most socialists don’t know how to grow it well, yet we are now at a juncture in which either a) people of different ideological inclinations will work together to skillfully re-engineer the system so that the pie is both divided and grown well or b) we will have great conflict and some form of revolution that will hurt most everyone and will shrink the pie." - [Ray Dalio](https://www.linkedin.com/pulse/why-how-capitalism-needs-reformed-parts-1-2-ray-dalio/#:~:text=I%20think%20that,shrink%20the%20pie.)
 
 > "A business that makes nothing but money is a poor business." - [Henry Ford](https://www.goodreads.com/quotes/392495-a-business-that-makes-nothing-but-money-is-a-poor)

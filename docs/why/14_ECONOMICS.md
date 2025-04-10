@@ -357,6 +357,22 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 - the number of workers within public administration, bureaucracy or officialdom tends to grow, regardless of the amount of work to be done. This was attributed mainly to two factors: that officials want subordinates, not rivals, and that officials make work for each other.
 
 
+> "This paper proposes self-organization as a method to improve the efficiency and adaptability of bureaucracies and similar social systems. Bureaucracies are described as networks of agents, where the main design principle is to reduce local “friction” to increase local and global “satisfaction”. Following this principle, solutions are proposed for improving communication within bureaucracies, sensing public satisfaction, dynamic modification of hierarchies, and contextualization of procedures. Each of these reduces friction between agents (internal or external), increasing the efficiency of bureaucracies." - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "Bureaucracies can be found in governments, corporations, and other social institutions. They have social goals and responsibilities that are achieved by a division of labor that is usually hierarchical. Examples of bureaucracies can be seen with tax collection systems, immigration services, and steering of educational and academic institutions. The efficiency of a bureaucracy is related to the fulfillment of its goals. Thus, it would be desirable to increase functional efficiency in bureaucracies. Ideally, such a system could be designed to reach maximal efficiency." - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "A system described as self-organizing is one in which elements interact in order to achieve dynamically a global function or behavior." - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+> "" - [Towards Self-organizing Bureaucracies, by Carlos Gershenson](https://arxiv.org/pdf/nlin/0603045.pdf)
+
+
+
 > "Bureaucracy, the rule of nobody." - [Hannah Arendt](https://x.com/ancapquotes/status/1805163971156087230)
 
 
@@ -734,6 +750,8 @@ Not everything has to make a profit - we can and should think of what truly need
 > "The greatest fine art of the future will be the making of a comfortable living from a small piece of land." - [Abraham Lincoln](https://www.goodreads.com/quotes/36568-the-greatest-fine-art-of-the-future-will-be-the)
 
 > "The true measure of any society can be found in how it treats its most vulnerable members." - [Mahatma Gandhi](https://www.azquotes.com/quote/877037)
+
+> "To me, leaving so many children in poverty and not educating them well is the equivalent of child abuse, and it is economically stupid." - [Why and How Capitalism Needs to Be Reformed, by Ray Dalio](https://corpgov.law.harvard.edu/2020/10/13/why-and-how-capitalism-needs-to-be-reformed/)
 
 > "I think the idea that a society has to be responsible for all of its citizens, those who do well and those who do not, is really a precondition of a good society." - [Kenneth Arrow](https://www.azquotes.com/quote/1563668)
 

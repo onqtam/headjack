@@ -3,7 +3,8 @@ draft: true
 ---
 
 TOPICS TO FINISH AS A SECTION:
-- active inference
+- Coordination Theory
+- Self-organization in Communicating Groups
 - global brain
 - offer network & challenge propagation
 - metasystem transition
@@ -11,7 +12,7 @@ TOPICS TO FINISH AS A SECTION:
 
 - preference falsification
 
-
+•
 
 █████ IN EXPANDED SECTION
 

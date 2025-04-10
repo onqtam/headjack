@@ -1431,8 +1431,6 @@ lying and misrepresentation of facts is costing the world tens of trillions per 
 
 Our cutting-edge understanding of the world isn’t evenly distributed. It is in some fields to some degree, but it is hopelessly not true in others
 
-Collective intelligence => collective sensemaking
-
 Informational compulsive overconsumption & addiction
 But all the books in the world wont make a difference if the tools are built in an exploitative way where we can’t set restraints for ourselves
 Focus on addiction in the book
