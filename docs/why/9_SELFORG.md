@@ -20,6 +20,22 @@
 >
 > ... Probably the most important innovation of cybernetics is its explanation of goal-directedness or purpose. An autonomous system, such as an organism, or a person, can be characterized by the fact that it pursues its own goals, resisting obstructions from the environment that would make it deviate from its preferred state of affairs." - [Cybernetics and Second-Order Cybernetics, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Cybernetics-EPST.pdf)
 
+## Goal-directedness, Regulation, Control & Feedback
+
+> "Sound strategy starts with having the right goal." - [Michael Porter](https://www.azquotes.com/quote/605346)
+
+> "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
+
+> "Regulation (or control): the process by which an agent continually neutralizes deviations from its goals, by effectively counteracting disturbances. Regulation implements negative feedback: deviations in one direction are compensated by reactions that push the state in the opposite direction, so as to reduce their effect. The classic example of regulation is the functioning of a thermostat, which switches on the heating as soon as the temperature moves below its set temperature or goal, and switches off the heating as soon as the temperature moves above the goal temperature." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "Navigation: the process by which an agent constantly adjusts its course of action so as to dynamically maximize its advance in utility while taking into account the diversions it encounter. This means that the agent should optimally allocate its effort in simultaneously counteracting disturbances (regulation), finding affordances (exploration), and making use of the affordances it has found (exploitation). Navigating means that the agent needs to set out a well-thought out, but flexible course, using a combination of planning (to deal with known disturbances and affordances) and improvisation (to deal with new diversions)." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "Variety of action: the number of actions that an agent can potentially execute. The larger an agent’s variety of action, the larger the variety of diversions that the agent can deal with, because different types of diversions typically require different types of actions. This is a generalization of Ashby’s well-known “law of requisite variety”. However, while increasing the variety of actions makes the agent potentially more powerful in achieving its goals, it also makes it more difficult for the agent to select the most appropriate action." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "Cognition: the acquisition, processing, storage, and use of information and knowledge to support intelligent decision-making. This includes perception (the processing and interpretation of incoming information), learning (extracting recurrent regularities from perceptions and storing them into memory in the form of knowledge), and inference (using stored knowledge patterns to anticipate situations as yet not perceived)." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "Rationality: the hypothetical desire and ability of an agent to always choose the best action. In reality, rationality is restricted or bounded, as an agent never has enough information, knowledge or intelligence to accurately determine the utility of all possible courses of action. Bounded rationality implies that there is always an element of uncertainty or trial-and-error involved in making decisions; no decision can be a priori proven to be the best one." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
 ## Ashby's Law of Requisite Variety
 
 > "Ashby’s law of requisite variety is a cybernetics principle that tells you something about how complex your world model should be. This law—as applied to evolutionary biology—says that to continue to survive, an organism must have a repertoire of states or responses that is (at least) equal to the number of different challenges or problems presented by its environment. In other words, the more options a system has to respond to a given situation, the more effectively it can control that situation." - [Introducing Three of the Teleological Stance's Tools for Self-Optimization and Self-Actualization, by Bobby Azarian](https://roadtoomega.substack.com/p/introducing-three-of-the-teleological#:~:text=Ashby%E2%80%99s%20law%20of,control%20that%20situation.)
@@ -213,6 +229,9 @@ we should be thinking in terms of sensory & motor systems
 > "Perhaps the most challenging application would be to design a complex socio-economic system that relies on self-organization rather than centralized planning and control. Although our present organizations and societies incorporate many aspects of self-organization, it is clear that they are far from optimal." - [The science of self-organization and adaptivity, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/EOLSS-Self-Organiz.pdf)
 
 
+> "Self-organization: the spontaneous emergence or evolution of coordination in a complex adaptive system. Self-organization reduces variety or uncertainty, and thus imposes constraint. The driving force behind self-organization is the co-evolution or mutual adaptation between the different agents in the system: actions and reactions produce a continuously changing configuration of interactions (variation); however, the more synergetic a configuration, the more "satisfied" the agents will be with the situation, and thus the less they will act to produce further changes (selective retention or preference for synergetic configurations); vice versa, the more friction there is, the more the agents will be pressured to intervene and change course in order to increase their utility (elimination of high friction configurations). Thus, self-organization is merely an application of the evolutionary dynamic of variation (because of actions triggering further actions) and natural selection (because of the implicit preference of agents for the more synergetic patterns of action)." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "Organization: a stabilized network of interactions between agents that functions to ensure the coordination of their actions. This structure specifies the specific roles of and interactions between the system's agents. Its function is to maximize synergy and minimize friction (including transaction costs) in their further interactions. For example, in a human organization the different individuals each have their own responsibilities, and the rules of the organization specify who interacts with whom in what way. This minimizes transaction costs, since it is no longer necessary to search for partners, negotiate with them, or strictly monitor whether they do what they are expected to do. An organization can be imposed from the outside (like in a system engineered by a designer or controlled by a manager), or emerge from self-organization." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 
 > "Hierarchy is now defined as a vertical sequence of layers of accountability, based on different degrees of abstraction." - [The Role of Hierarchy in Self-Organizing Systems](https://www.researchgate.net/publication/254821737_The_Role_of_Hierarchy_in_Self-Organizing_Systems)
@@ -224,6 +243,7 @@ we should be thinking in terms of sensory & motor systems
 # SECTION: Coordination
 ██████████████████████████████████████████████████████████████████
 
+> "Coordination: the arrangement or mutual alignment of actions so as to maximize synergy and minimize friction in their overall pattern of activity. It implies that any two actions performed simultaneously or subsequently are selected so as to maximally complement and minimally obstruct each other. This requires a minimization of the uncertainty that otherwise would dissipate resources in needless trial-and-error, and therefore the imposition of appropriate constraints or bonds that drive the action in the right direction. There are two types of basic relational constraints between actions: parallel, specifying which actions could or should go on simultaneously, and sequential, specifying which action could or should follow which other action." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 > "According to coordination theory, we can distinguish the following fundamental dependencies or connections between actions or processes:
 >
@@ -390,14 +410,5 @@ https://www.youtube.com/watch?v=imV3pPIUy1k
 
 > "Our enthusiasm for digital technology about which we have little understanding and over which we have little control leads us not toward greater agency, but toward less...We have surrendered the unfolding of a new technological age to a small elite who have seized the capability on offer. But while Renaissance kings maintained their monopoly over the printing press by force, today's elite is depending on little more than our own disinterest." - [Douglas Rushkoff](https://www.goodreads.com/quotes/855874-our-enthusiasm-for-digital-technology-about-which-we-have-little)
 
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Goal directedness
-██████████████████████████████████████████████████████████████████
-
-> "Sound strategy starts with having the right goal." - [Michael Porter](https://www.azquotes.com/quote/605346)
-
-> "All life is problem solving." - [Karl Popper](https://www.goodreads.com/quotes/66676-all-life-is-problem-solving)
-Our hobby should be problem-solving
 
 

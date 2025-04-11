@@ -4598,8 +4598,7 @@ A philosophical & scientific MMORPG
 
 Meaning in the 21st century - become competent in something, be credible and have the ability to influence stuff - and increase the weight of your vote - a weight thats calculated by consensus
 
-Meaning in the 21st century: aiming for a higher impact if your opinions - earning that weight and have the ability for it to decrease at any point if you do wrong things.
-“The reward function” as a chapter
+Meaning in the 21st century: aiming for a higher impact of your opinions - earning that weight and have the ability for it to decrease at any point if you do wrong things.
 
 Adding dimensionality to thoughts - the ability to filter opinion any way you want
 

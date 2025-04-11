@@ -81,6 +81,8 @@ Traits of property rights:
 
 > "I think on the efficiency level, not only the distribution level, capitalism is a flawed system. It probably has the same virtues as Churchill attributed to democracy: It's the worst system except for any other." - [Kenneth Arrow](https://www.azquotes.com/quote/1563673)
 
+> "According to some estimates, in our present economic system more than half of economic value generated is lost to transaction costs. A fundamental source of transaction costs is uncertainty: since the agent does not know what transaction to enter into, what to agree upon, or what to expect, it will need to spend a lot of energy in search, negotiation, and enforcement of agreements." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity Economics
 ██████████████████████████████████████████████████████████████████

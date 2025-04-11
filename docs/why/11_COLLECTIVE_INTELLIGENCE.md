@@ -394,48 +394,58 @@ reinforcement:
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Neuron
+You’re a Neuron
 ██████████████████████████████████████████████████████████████████
+
+<img src="/img/you_are_a_neuron_by_tomas_pueyo.png"/>
+<!-- https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F784da033-0b6c-4f65-a420-7cf490e68d3c_1078x818.png -->
+
+> "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output.
+>
+> ... Some edges (connections between nodes, between neurons, between you and other people) are stronger than others, like the people you follow more closely and with whom you exchange the longest posts. Others are weaker, like the person that appears on your feed every now to post a vacation picture you end up “liking”. Some neurons are more broadcasters: they have unidirectional connections to millions of other people who listen to what they have to say, but they don’t listen much in return. Others might be the opposite: they follow plenty of people, but don’t never participate, so they don’t influence other neurons much.
+>
+> ... TikTok creates a brain that uniformizes neurons at an ever-accelerating speed, creates superbroadcasting neurons, and makes the rest of neurons ever more addicted to interacting with the rest of the brain.
+>
+> ... Twitter: It shows first the tweets from those you follow, and it decays their importance very quickly with time: a tweet from 2 days ago will be buried in somebody’s feed. That promotes people coming back very frequently so they’re in the know. It also pushes people to post content superfrequently. And that makes Twitter more a real-time network than, say, LinkedIn. Responses are much more prominent than on TikTok, which invites debate—there’s very little debate on TikTok, so it’s more a broadcasting site. But the debate on Twitter is very linear: all the responses to a tweet are nested into the first tweet, ranked mostly by recency, which doesn’t invite for thoughtful conversation, but rather fast conversation. You can’t have thoughtful and fast conversations at the same time, so conversations on Twitter tend to quickly descend into chaos. You have 3 ways of getting distribution on Twitter: through more Likes, Retweets, and Responses. Which means that different behaviors are incentivized. For Retweets, you want soundbites that people feel good about endorsing with their own identity. That is great to spur identity politics, for example. Lots of Responses also get your tweet distribution: another way to incentivize debate and polarization. Getting only likes is the weakest of the 3. Meanwhile, Likes don’t get you as much distribution. But Likes are by far the thing that people do most when they want to show compassion, for example. As a result, Twitter fosters more debate and polemic than compassion. That’s why it is a fast, aggressive, noisy brain. It’s impossible to use this brain for thoughtful debate.
+>
+> ... Humans are humans. We’re able of the best and the worst, and most of that is simply defined by the environment. Our brains are the same as those of Homo Sapiens killing each other 50,000 years ago in Africa. What changes is the influences that surround us. We’re neurons in a brain. Change how we’re connected to each other, you’ll change the brain.
+>
+> ... You’re also a neuron for your company whenever you do knowledge work in it. Each person is a neuron in this brain. You bring information from outside and from inside of the company, process it in your individual work, and communicate it back with your deliverables. In the process, you coordinate with many other neurons—people. Each meeting can be seen as a group of neurons lighting together, exchanging information. Your dendrites (your sources of information) go to all the people you hang out with or meet. Your work network. Your axones (the channel with information you send out) go to all the people you share information with—which might not always be the same group. Through these processes emerge the big decisions that companies make: what other companies to buy, what strategy to follow, how to spend their money, who to hire (=what neurons to add to the network), their product design, their marketing…
+>
+> ... The role of a manager is not to understand each one of the neural connections, but rather to look at the patterns in the network, and correct them when they are incomplete. For example, when some teams don’t talk to each other—or when they talk too much—, when a group doesn’t have enough autonomy, when a group of neurons doesn’t have enough knowledge about certain disciplines to process their signals proficiently…
+>
+> ... Our bodies don’t optimize for every cell. They optimize for the overall body. Individual cells are dispensable. What does that say about our focus on individual rights? How much do they cost societies overall?" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron)
+
+> "I perceive twitter as a brain. Everyone is a neuron, growing a dendritic tree into our environment to select messages from other neurons, passing them on, recomposing them. Conflict is part of error correction, but we have to figure out how to minimize the need for it.
+>
+> I wish I could zoom out to understand my far neighborhood, gain greater understanding and control about where I am located in the global brain, and how I can improve the harmonic function of my environment. The current tools for this are crude or non-existent.
+>
+> For a brain to function, each neuron needs to receive messages from thousands of others, sometimes directly, and sometimes filtered and curated upstream. But more importantly, it needs to be *separated* from billions of other neurons that would disrupt its function.
+>
+> The tools for separation should minimize unnecessary conflict while maintaining the integrity of communication in the network. Block, mute and unfollow are not very good at this. How about intelligent moderation (eg. letting thread starters moderate the discussion in the thread)?
+>
+> Twitter should support its denizens in discovering the right neighborhood for them. Every participant is the center of their own TPOT, a cloud of like minded individuals who connect them to the rest of the universe. Twitter should support the construction of optimal topology." - [Joscha Bach](https://twitter.com/Plinz/status/1781786438641885643)
+
+> "In brains, the more a neuron pays attention to another neuron, the more likely it is to propagate its message. Even if it doesn’t pay that much attention to a neuron, if it receives the same message from many other neurons, it will propagate it too. On Twitter, you're more likely to retweet something from somebody you pay attention to, or if many have retweeted it already. In a brain, the more a certain pathway between neurons fires up, the stronger it will become. The axons and dendrites strengthen. Eventually, some groups of neurons start firing up very close to each other, following each other's behavior. They form a brain subsystem. On Twitter, the more you like somebody's tweets, the more you're likely to follow them. You'll tend to form groups with the ppl who follow the same ppl and topics & have the same opinions. You'll RT each other. You form a Twitter subsystem." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized)
+
+the current host-centric world (where platforms own our data which is siloed) is preventing us as a giant global brain to wire optimally
 
 > "You affect the world by what you browse." - [Tim Berners-Lee](https://www.azquotes.com/quote/171729)
 
-> "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836)
-
-> "Think about it. You get information inputs from journalists, from friends, from those you follow, from the websites you visit, the shows you watch, the conversations you participate on… You then process that information, by either thinking or intuition. And you output your own information signal by talking, writing, drawing… Others then go on and consume your output, to form their own thoughts, and create their own output." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Think%20about%20it,their%20own%20output.)
-
-!!! you_are_a_neuron_by_tomas_pueyo.png !!!
-https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F784da033-0b6c-4f65-a420-7cf490e68d3c_1078x818.png
-
-> "Some edges (connections between nodes, between neurons, between you and other people) are stronger than others, like the people you follow more closely and with whom you exchange the longest posts. Others are weaker, like the person that appears on your feed every now to post a vacation picture you end up “liking”. Some neurons are more broadcasters: they have unidirectional connections to millions of other people who listen to what they have to say, but they don’t listen much in return. Others might be the opposite: they follow plenty of people, but don’t never participate, so they don’t influence other neurons much." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Some%20edges%20(connections,other%20neurons%20much.)
-
-> "TikTok creates a brain that uniformizes neurons at an ever-accelerating speed, creates superbroadcasting neurons, and makes the rest of neurons ever more addicted to interacting with the rest of the brain." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=TikTok%20creates%20a%20brain%20that%20uniformizes%20neurons%20at%20an%20ever%2Daccelerating%20speed%2C%20creates%20superbroadcasting%20neurons%2C%20and%20makes%20the%20rest%20of%20neurons%20ever%20more%20addicted%20to%20interacting%20with%20the%20rest%20of%20the%20brain.)
-
-> "Twitter: It shows first the tweets from those you follow, and it decays their importance very quickly with time: a tweet from 2 days ago will be buried in somebody’s feed. That promotes people coming back very frequently so they’re in the know. It also pushes people to post content superfrequently. And that makes Twitter more a real-time network than, say, LinkedIn.
->
-> Responses are much more prominent than on TikTok, which invites debate—there’s very little debate on TikTok, so it’s more a broadcasting site. But the debate on Twitter is very linear: all the responses to a tweet are nested into the first tweet, ranked mostly by recency, which doesn’t invite for thoughtful conversation, but rather fast conversation. You can’t have thoughtful and fast conversations at the same time, so conversations on Twitter tend to quickly descend into chaos.
->
-> You have 3 ways of getting distribution on Twitter: through more Likes, Retweets, and Responses. Which means that different behaviors are incentivized. For Retweets, you want soundbites that people feel good about endorsing with their own identity. That is great to spur identity politics, for example. Lots of Responses also get your tweet distribution: another way to incentivize debate and polarization. Getting only likes is the weakest of the 3. Meanwhile, Likes don’t get you as much distribution. But Likes are by far the thing that people do most when they want to show compassion, for example. As a result, Twitter fosters more debate and polemic than compassion. That’s why it is a fast, aggressive, noisy brain. It’s impossible to use this brain for thoughtful debate." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=at%20Twitter%20now.-,Twitter,noisy%20brain.%20It%E2%80%99s%20impossible%20to%20use%20this%20brain%20for%20thoughtful%20debate.,-It%E2%80%99s%20easy%20to)
-
-> "Humans are humans. We’re able of the best and the worst, and most of that is simply defined by the environment. Our brains are the same as those of Homo Sapiens killing each other 50,000 years ago in Africa. What changes is the influences that surround us. We’re neurons in a brain. Change how we’re connected to each other, you’ll change the brain." - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Humans%20are%20humans,change%20the%20brain.)
-
-> "You’re also a neuron for your company whenever you do knowledge work in it. Each person is a neuron in this brain. You bring information from outside and from inside of the company, process it in your individual work, and communicate it back with your deliverables. In the process, you coordinate with many other neurons—people. Each meeting can be seen as a group of neurons lighting together, exchanging information.
->
-> Your dendrites (your sources of information) go to all the people you hang out with or meet. Your work network. Your axones (the channel with information you send out) go to all the people you share information with—which might not always be the same group.
->
-> Through these processes emerge the big decisions that companies make: what other companies to buy, what strategy to follow, how to spend their money, who to hire (=what neurons to add to the network), their product design, their marketing…" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=You%E2%80%99re%20also%20a,design%2C%20their%20marketing%E2%80%A6)
-
-> "The role of a manager is not to understand each one of the neural connections, but rather to look at the patterns in the network, and correct them when they are incomplete. For example, when some teams don’t talk to each other—or when they talk too much—, when a group doesn’t have enough autonomy, when a group of neurons doesn’t have enough knowledge about certain disciplines to process their signals proficiently…" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=The%20role%20of,their%20signals%20proficiently%E2%80%A6)
-
-> "Our bodies don’t optimize for every cell. They optimize for the overall body. Individual cells are dispensable. What does that say about our focus on individual rights? How much do they cost societies overall?" - [You’re a Neuron, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/youre-a-neuron?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Our%20bodies%20don%E2%80%99t%20optimize%20for%20every%20cell.%20They%20optimize%20for%20the%20overall%20body.%20Individual%20cells%20are%20dispensable.%20What%20does%20that%20say%20about%20our%20focus%20on%20individual%20rights%3F%20How%20much%20do%20they%20cost%20societies%20overall%3F)
-
-the current host-centric world where platforms own our data and is siloed is preventing us as a giant global brain to wire any way we want
-
-> "In brains, the more a neuron pays attention to another neuron, the more likely it is to propagate its message. Even if it doesn’t pay that much attention to a neuron, if it receives the same message from many other neurons, it will propagate it too. On Twitter, you're more likely to retweet something from somebody you pay attention to, or if many have retweeted it already.
->
-> In a brain, the more a certain pathway between neurons fires up, the stronger it will become. The axons and dendrites strengthen. Eventually, some groups of neurons start firing up very close to each other, following each other's behavior. They form a brain subsystem. On Twitter, the more you like somebody's tweets, the more you're likely to follow them. You'll tend to form groups with the ppl who follow the same ppl and topics & have the same opinions. You'll RT each other. You form a Twitter subsystem." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=In%20brains%2C%20the,a%20Twitter%20subsystem.)
+<!-- > "I think of twitter users as neurons that pass on ideas, and strengthen or weaken their connections, forming clusters of collective intelligence." - [Joscha Bach](https://twitter.com/Plinz/status/1682436092425805836) -->
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Stigmergy
 ██████████████████████████████████████████████████████████████████
+
+
+> "Stigmergy: a form of indirect coordination via the medium, where the trace left by an action in the medium stimulates the performance of a subsequent action, thus building further on the work that has already been done. Examples of stigmergic interaction are termites collectively building a termite hill by adding mud to heaps left by other termites, ants mapping out their territory by leaving trails of pheromone that lead other ants to food sources, and people adding their insights to the writings of others, thus collaboratively developing an encyclopedia (Wikipedia) on the web. Stigmergy is typically the result of the self-organization of a mediator out of the medium. It is probably the simplest way to achieve coordination in a complex system because it does not make any cognitive demands on the agents (such as remembering who is to do what when), and therefore functions even with agents of very low intelligence, such as insects. It also does not require any relationship, communication or even direct interaction between the agents: contributors to a Wikipedia page typically have no idea who the other contributors are, yet their contributions are seamlessly integrated into the emerging whole." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+
+
+
+
+
 
 
 > "Stigmergy is an indirect, mediated mechanism of coordination between actions, in which the trace of an action left on a medium stimulates the performance of a subsequent action." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
@@ -823,6 +833,9 @@ accelerating evolution
 # SECTION: Collective intelligence & sensemaking
 ██████████████████████████████████████████████████████████████████
 
+> "Collective intelligence: the degree to which the agents in a system collectively can make good decisions as to their future course of action; in particular, the degree to which the agents collectively can make better decisions than any of them individually. Collective intelligence typically arises from the pooling of knowledge: since each agent’s knowledge is slightly different from the knowledge of the others, all agents together will have access to a larger pool of more diverse knowledge. Therefore, collective intelligence can be amplified by increasing the diversity of knowledge among the agents." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "Distributed cognition: the acquisition, storage and use of information and knowledge distributed over different agents in a system, so as to support their collective intelligence. This requires mechanisms to communicate information across the different agents in a coordinated manner, so that the right information is gathered at the right place at the right time. Examples of such supporting mechanisms for the exchange of information are pheromones (smell signals), language, books, signs, computers and the Internet." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 > "Solving a problem simply means representing it so as to make the solution transparent." - [Herbert Simon](https://www.azquotes.com/quote/1314684)
 
@@ -1444,8 +1457,21 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 # SECTION: Global Brain
 ██████████████████████████████████████████████████████████████████
 
+> "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
 
-> "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
+> "The "global brain" is the name given to the emerging intelligent network that is formed by all people on this planet together with the computers, knowledge bases and communication links that connect them together. Like a human brain, this network is an immensely complex, self-organizing system, that processes information, makes decisions, solves problems, learns new connections and discovers new ideas. It plays the role of a nervous system for the whole of humanity. No single person, organization or computer is in control of this system: its "thought" processes are distributed over all its components.
+>
+> ... Similar to many mystical traditions, the global brain idea holds the promise of a much enhanced level of consciousness and a state of deep synergy or union that encompasses humanity as a whole. Theists might view this state of holistic consciousness as a union with God. Humanists might see it as the creation, by humanity itself, of an entity with God-like powers. Followers of the Gaia hypothesis have suggested that the "living Earth" of which we are all part deserves awe and worship; it therefore could form the basis of a secular, ecologically inspired religion. The Global Brain vision may offer a similar sense of belonging to a larger whole and of an encompassing purpose.
+>
+> ... The global brain is controlled by all the people that are part of it. It is not an autonomous system that could suddenly decide no longer to obey commands. The global brain's intelligence, indeed its "mind" or "personality", emerges from the actions of all people collectively." - [The Global Brain as a New Utopia, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-Utopia.pdf)
+
+
+> "Self-organization is usually a slow and difficult process that needs to overcome a variety of obstacles, given that it needs to produce global coordination out of local interactions between agents that have only a very limited perspective on the whole. This is where Internet technologies can play a crucial role. They make it in principle possible for any agent (human or artificial) to interact in real-time with any other agent, while keeping a detailed trace of such interactions and their outcomes. This makes it easier to find, select and reinforce the interactions that are most effective in tackling problems, while eliminating the less useful ones. As a result, coordination and distributed intelligence can evolve much more widely, quickly and effectively. Internet technology not only facilitates globally distributed intelligence, it makes it virtually inevitable." - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+> "Links between systems and components are more likely to be added and reinforced than to be removed. Eventually, all systems will become interconnected, and their pattern of interconnection will become increasingly efficient, maximizing synergies while minimizing conflicts or frictions, so that information can take the most direct route from those that produce it to those that need it. That is why there is a continuing trend for all information technologies to merge into one giant distributed intelligence." - [Distributed Intelligence Technologies: present and future applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/GB-applications-survey-WS.pdf)
+
+
+
 
 > "Consciousness begins when brains acquire the power, the simple power I must add, of telling a story." - [Antonio Damasio](https://www.azquotes.com/quote/1350141)
 
@@ -1576,9 +1602,10 @@ connectivity, coordination, stigmergy, mediators, the internet & the global brai
 
 
 
-> "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
 
-> "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)
+
+
+
 
 How do we develop a global brain prefrontal cortex - to plan, model the future, delay gratification, and develop a capacity for impulse control?
 
@@ -1591,33 +1618,15 @@ Properly selected & governed identity aggregates will be way more competent than
 
 > "On the one hand we have a single brain, formed of nervous nuclei, and on the other a Brain of brains. It is true that between these two organic complexes a major difference exists. Whereas in the case of the individual brain thought emerges from a system of nonthinking nervous fibers, in the case of the collective brain each separate unit is in itself an autonomous center of reflection. If the comparison is to be a just one we must, at every point of resemblance, take this difference into account." - [Pierre Teilhard de Chardin](https://humanenergy.io/francis-heylighen/#:~:text=On%20the%20one,difference%20into%20account.)
 
-> "It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness." - [James Gleick](https://www.goodreads.com/quotes/393099-it-is-not-the-amount-of-knowledge-that-makes-a)
-
 > "If twitter gets its shit together, millions of people can form coherent ideas and will be much stronger than any government." - [Joscha Bach](https://twitter.com/Plinz/status/1709290106149023819)
+
+## The Reward Function
 
 > "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
 
-> "The Internet looks to me like the backbone of the emergent thing. I mean, the Internet is a huge and not fully comprehended cultural step that we have now totally committed ourselves to. It’s nothing less than the building of a thinking nervous system the size of the entire planet." - [Terence McKenna](https://www.organism.earth/library/document/valley-of-novelty#:~:text=the%20Internet%20looks%20to%20me%20like%20the%20backbone%20of%20the%20emergent%20thing.%20I%20mean%2C%20the%20Internet%20is%20a%20huge%20and%20not%20fully%20comprehended%20cultural%20step%20that%20we%20have%20now%20totally%20committed%20ourselves%20to.%20It%E2%80%99s%20nothing%20less%20than%20the%20building%20of%20a%20thinking%20nervous%20system%20the%20size%20of%20the%20entire%20planet.)
-
-> "There’s sort of a collective AI in Google Search, where we’re all sort of plugged in like nodes on the network; like leaves on a big tree. And we’re all feeding this network with our questions and answers. We’re all collectively programming the AI. And Google, plus all the humans that connect to it, are one giant cybernetic collective. This is also true of Facebook and Twitter and Instagram, and all these social networks. They’re giant cybernetic collectives." - [Elon Musk](https://www.organism.earth/library/document/human-civilization-and-ai#:~:text=there%E2%80%99s%20sort%20of,giant%20cybernetic%20collectives.)
-
-> "And I really regret that Twitter has not taken the turn that I was hoping for. I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9666)
-
-> "I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9670)
-
-> "I perceive twitter as a brain. Everyone is a neuron, growing a dendritic tree into our environment to select messages from other neurons, passing them on, recomposing them. Conflict is part of error correction, but we have to figure out how to minimize the need for it.
->
-> I wish I could zoom out to understand my far neighborhood, gain greater understanding and control about where I am located in the global brain, and how I can improve the harmonic function of my environment. The current tools for this are crude or non-existent.
->
-> For a brain to function, each neuron needs to receive messages from thousands of others, sometimes directly, and sometimes filtered and curated upstream. But more importantly, it needs to be *separated* from billions of other neurons that would disrupt its function.
->
-> The tools for separation should minimize unnecessary conflict while maintaining the integrity of communication in the network. Block, mute and unfollow are not very good at this. How about intelligent moderation (eg. letting thread starters moderate the discussion in the thread)?
->
-> Twitter should support its denizens in discovering the right neighborhood for them. Every participant is the center of their own TPOT, a cloud of like minded individuals who connect them to the rest of the universe. Twitter should support the construction of optimal topology." - [Joscha Bach](https://twitter.com/Plinz/status/1781786438641885643)
 
 the next step of encephalization is truly networking our minds - deduplicated identities, concepts & events
 
-> "You can't gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it." - [Robert E. Kahn](https://www.azquotes.com/quote/1522179)
 
 
 Peter Russell's "The Global Brain" feels / is absolutely prophetic
@@ -1626,13 +1635,30 @@ TODO: embed this!!!
 The Global Brain - Peter Russell
 https://www.youtube.com/watch?v=B1sr9x263LM
 
-
 EMBED THIS 2 minute clip:
 Bobby Azarian Discusses the Emergence of a Global Consciousness
 https://www.youtube.com/watch?v=SBoW9as_JCM
 
+<details><summary>Other quotes</summary><p>
+
+> "The Internet looks to me like the backbone of the emergent thing. I mean, the Internet is a huge and not fully comprehended cultural step that we have now totally committed ourselves to. It’s nothing less than the building of a thinking nervous system the size of the entire planet." - [Terence McKenna](https://www.organism.earth/library/document/valley-of-novelty)
+
 > "If successful, 𝕏 will evolve to be the collective consciousness of humanity or, more accurately, the human-machine collective." - [Elon Musk](https://twitter.com/elonmusk/status/1711608729731211352)
 
+> "There’s sort of a collective AI in Google Search, where we’re all sort of plugged in like nodes on the network; like leaves on a big tree. And we’re all feeding this network with our questions and answers. We’re all collectively programming the AI. And Google, plus all the humans that connect to it, are one giant cybernetic collective. This is also true of Facebook and Twitter and Instagram, and all these social networks. They’re giant cybernetic collectives." - [Elon Musk](https://www.organism.earth/library/document/human-civilization-and-ai#:~:text=there%E2%80%99s%20sort%20of,giant%20cybernetic%20collectives.)
+
+> "I thought Elon is global brain pilled and understands that this thing needs to self-organize and he needs to develop tools to allow the propagation of the self-organization, so Twitter can become sentient." - [Joscha Bach](https://youtu.be/e8qJsk1j2zE?t=9670)
+
+> "You can't gaze in the crystal ball and see the future. What the Internet is going to be in the future is what society makes it." - [Robert E. Kahn](https://www.azquotes.com/quote/1522179)
+
+> "It is not the amount of knowledge that makes a brain. It is not even the distribution of knowledge. It is the interconnectedness." - [James Gleick](https://www.goodreads.com/quotes/393099-it-is-not-the-amount-of-knowledge-that-makes-a)
+
+> "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
+
+</p></details>
+
+
+## Noosphere
 
 > "The noosphere is a philosophical concept developed and popularized by the biogeochemist Vladimir Vernadsky, and philosopher and Jesuit priest Pierre Teilhard de Chardin. Vernadsky defined the noosphere as the new state of the biosphere and described as the planetary "sphere of reason". The noosphere represents the highest stage of biospheric development, that of humankind's rational activities. The word is derived from the Greek νόος ("nous, mind, reason") and σφαῖρα ("sphere"), in lexical analogy to "atmosphere" and "biosphere"." - [Noosphere, Wikipedia](https://en.wikipedia.org/wiki/Noosphere#:~:text=The%20noosphere%20(alternate,and%20%22biosphere%22.)
 

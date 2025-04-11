@@ -665,15 +665,19 @@ TODO INTERNET:
 # SECTION: Coherence
 ██████████████████████████████████████████████████████████████████
 
+> "Coherence is one of the most important concepts in the management of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5)
+
+> "Society cannot function without a regulatory structure adequate to its level of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5)
+
 Coherent pluralism - Jim Rutt
 
 What shouldn't we be divided on?
 
+> "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)
+
 Most people have read at leats a couple of books in their life. What if we could socially nudge ourselves into coherence for what is most important and point to the most important books?
 
-> "Coherence is one of the most important concepts in the management of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Coherence%20is%20one%20of%20the%20most%20important%20concepts%20in%20the%20management%20of%20complexity.)
 
-> "Society cannot function without a regulatory structure adequate to its level of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5#:~:text=Society%20cannot%20function%20without%20a%20regulatory%20structure%20adequate%20to%20its%20level%20of%20complexity.)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Alignment
@@ -694,10 +698,48 @@ The only way to alignment is through transparency and interpretability
 
 this is how we solve all types of alignment: AI alignment & human alignment
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Mobilization system
+maybe this should go in the way forward? or at the end of CI?
+██████████████████████████████████████████████████████████████████
+
+> "We can promote coordination between agents by providing them with an adequate medium. A good example of such a medium is a wiki-style website, which can be edited and added to by a variety of independent individuals. Creating such stigmergic interaction medium is an example of what we call design for self-organization: conceiving and realizing a structure that does not so much tell the agents what they should do, but that helps them find out for themselves what is the most effective way to act in a coordinated, synergetic manner. In self-organization there is no centralized control, no separable agent that directs the actions of the others. Instead, coordinated activity emerges in a distributed manner, out of the tangle of interactions between largely autonomous agents." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "The support structure we are aiming for may be called a mobilization system. Its aim is to encourage and organize people to work towards a common goal. This is particularly useful in our present society that suffers from complexity, fragmentation and information overload, with the result that people have lost a clear sense of goals and values, and often fail to see the forest for the trees. There are presently so many issues that clamor for our attention that we often do not know anymore what to focus on, but instead jump from the one thing to the next without giving anything the attention it deserves, or simply procrastinate and wait for things to be imposed from the outside. A mobilization system would combat this confused and unproductive way of acting by redirecting effort in the most efficient way at the most important issues. This requires the following steps:
+>
+> a) Helping people to reach consensus about the specific goals that they consider most important. This can be done in part by seeking inspiration about fundamental values in the evolutionary worldview, in part by creating effective discussion systems that help a group to come to a well-reasoned consensus...
+>
+> b) Motivating and stimulating people to work towards the goals that have thus been agreed upon. Here, a very useful paradigm is the concept of “flow”, which specifies the conditions under which people work in the most focused and motivated manner. These conditions are:
+>
+>   a1) Clear goals: there should be minimal ambiguity about what to do next;
+>
+>   a2) Immediate feedback: any action should be followed by an easily interpretable result, so that you either get a confirmation that you are on the right track, or a warning that you need to correct your course;
+>
+>   a3) Challenges in balance with skills: tasks should be neither too difficult nor too easy for the people entrusted to perform them, in order to avoid either stress or boredom.
+>
+> Additionally, there exists a wide range of techniques from psychology, behavioral economics and memetics that help us to formulate goals and tasks in a way that is maximally motivating, persuasive and easy to follow.
+>
+> c) Coordinating and aggregating the individual contributions so as to ensure maximum collective results. This can be built on the mechanisms of stigmergy and self-organization mentioned before." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
+
+> "The “stigmergic university” system we envisage would contain at least the following components:
+>
+> - A website that represents knowledge in the form of a conceptual network. Each concept would be explained by a document containing a definition, further explanation, examples, and links with connected concepts... Similar to Wikipedia, users of the systems would be able to edit the text and to create new concept pages. Unlike Wikipedia, concepts would be linked as much as possible using formally labeled connections, so that the knowledge would have the shape of a semantic and associative network rather than an unstructured encyclopedia.
+>
+> - A set of programs to analyze the structure of this formal network. This module would be able to pinpoint ambiguous, missing, inconsistent, or redundant information, and to suggest ways to improve the network, e.g. by proposing additional links, changing the types of links, or new, higher-order categories that cluster a number of related concepts together. This is the basic “research support” module, which helps individual researchers to discover and resolve the remaining gaps in their understanding.
+>
+> - A discussion module that would support reaching consensus about as yet unresolved issues, not only via traditional free-form “forums”, but via structured networks of arguments and counterarguments. Here, the systems’ analysis of the network would help the users to identify the weakest arguments, thus stimulating their authors to either change their position, or propose better arguments to defend it. This module further supports research, but now at the level of the dialogue between researchers who have different perspectives on the issue.
+>
+> - An educational subnetwork of “guided tours” or paths within the conceptual network, functioning as suggested sequences for learners to study the knowledge that start from easier concepts and build up towards more advanced ones depending on the interests of the learner. This would help a student to quickly advance into a complex knowledge domain without getting confused by the variety and complexity of the knowledge that is available. To make this most effective, the guidance should be adapted individually to the interests and skills of each student. This can be achieved with the following assessment module. Moreover, the system would learn from the way it is being used, so that later students would get recommendations that take into account the experiences of previous students.
+>
+> - A system that generates questions about the knowledge in the network. Most of these questions should be easy to answer by someone who knows the domain, and thus could be used to test the knowledge of the users. This is the module for teaching and assessment on the basis of “inverted learning”. The procedure starts by asking the users a question in order to stimulate or challenge them to reflect about the domain. It then gives them the right answer on the basis of what is contained in the knowledge base (feedback). Depending on how well a user scores on different parts of the curriculum, the system would recommend a further study of particular parts of the knowledge network, thus acting as a kind of tutor to a student. When a question does not have a satisfactory answer within the knowledge base or the user disagrees with the answer that is offered, the user will be stimulated to mark out and—ideally— resolve this knowledge gap. This connects the teaching and assessment module to the research module: depending on how easy or ambiguous the question is, answering it can be more a questions of assessment of existing knowledge or of stimulating the creation of new knowledge.
+>
+> Like Wikipedia, such a knowledge network should be able to grow indefinitely, so as to encompass all the relevant knowledge about a particular domain. Moreover, the system would automate the social and organizational functions of a university by stimulating users to develop their knowledge, assessing their progress, giving them feedback about how well they are doing, proposing concrete goals for their next study or research, and thus mobilizing and coordinating their cognitive efforts as efficiently as possible towards an ever increasing understanding of the domain. If such a system were deployed at a global level, like Wikipedia, it would provide an invaluable aid to the cognitive development of the world population." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████
+
+> "Evolution of cooperation: the general tendency for interactions to become more synergetic through variation and selection, thus reducing competition and conflict. The biggest obstacle to the evolution of cooperation is the problem of “free riders”: agents that profit from the collaborative effort of other agents but without contributing themselves. Since free riders typically extract more benefit from the cooperation than the cooperators themselves, they risk outcompeting the cooperators, thus destroying any tendency to cooperation. This problem can be overcome via the evolution of a mediator that makes free riding impossible, or at least less attractive than true cooperation." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 > "Have I done something for the common good? Then I share in the benefits." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1688958269287755776)
 
