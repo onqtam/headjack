@@ -56,6 +56,9 @@ Will this work? No clue. But what we can say with 100% confidence that we must t
 
 Good thing there are more than a thousand ideas here - you can support what you like and debate with others everything else
 
+## How much AI was used in the creatin of this book?
+
+0 - there's no substituting of processing and judgement. Even summaries before deciding if something is worth reading aren't worth it.
 
 ## TL;DR?
 
