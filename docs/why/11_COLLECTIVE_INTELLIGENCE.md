@@ -1428,13 +1428,6 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 > "We are not thinking machines that feel; rather, we are feeling machines that think." - [Antonio Damasio](https://www.azquotes.com/quote/733647)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: loss function
-██████████████████████████████████████████████████████████████████
-
-
-> "Intelligence should be viewed as a physical process that tries to maximize future freedom of action and avoid constraints in its own future." - [Alex Wissner-Gross](https://youtu.be/ue2ZEmTJ_Xo?t=687)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Transparency
 ██████████████████████████████████████████████████████████████████
 
@@ -1614,10 +1607,6 @@ Properly selected & governed identity aggregates will be way more competent than
 
 > "If twitter gets its shit together, millions of people can form coherent ideas and will be much stronger than any government." - [Joscha Bach](https://twitter.com/Plinz/status/1709290106149023819)
 
-## The Reward Function
-
-> "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
-
 
 the next step of encephalization is truly networking our minds - deduplicated identities, concepts & events
 
@@ -1651,6 +1640,11 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 
 </p></details>
 
+## The Reward Function
+
+> "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
+
+> "Intelligence should be viewed as a physical process that tries to maximize future freedom of action and avoid constraints in its own future." - [Alex Wissner-Gross](https://youtu.be/ue2ZEmTJ_Xo?t=687)
 
 ## Noosphere
 
@@ -1705,8 +1699,6 @@ we can rank different sources of signal differently and prioritize the weights o
 ██████████████████████████████████████████████████████████████████
 
 
-
-> "Sovereign is he who decides on the exception." - Carl Schmitt (1888-1985)
 
 > "The final, terminal step is seeing that contemporary digital media landscapes are wide open to manipulation, informational warfare, and disorienting, addictive user interfaces. Right when society requires unprecedented upgrades in public sensemaking processes, we face instead a perfect storm of factors contributing to an epistemological crisis." - [Challenges to Making Sense of the 21st Century - The Consilience Project](https://consilienceproject.org/challenges-to-making-sense-of-the-21st-century/#:~:text=The%20final%2C%20terminal,an%20epistemological%20crisis.)
 
