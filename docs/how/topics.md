@@ -124,6 +124,7 @@ The maximum
 “The book of synthesis”
 “The book of fusion”
 “Fusion”
+The Bundle
 “Synthesis”
 “The next game”
 HumanityOS
