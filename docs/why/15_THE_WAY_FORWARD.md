@@ -13,6 +13,12 @@
 
 How do we most optimally crowdsource the best possible worldview?
 
+
+> "What’s needed for a phase change in human civilization is a fundamentally new set of narratives about human agency, human dignity, and even the meaning of humanity itself, at an individual and collective level. All prior narratives are broken because they rely on forcing this fundamental freedom/security trade that treats individuals as distinct from their societies, and structurally views human individuals as needing to be at odds with each other, and needing to be forced together and pacified in order for society to emerge.
+>
+> A more integrative approach would view humanity and human identity as an emergent, endogenous result of human individuals embedded in societies and collectives of shared value, instead of humans being at war with each other, and needing “freedom from” each other." - [Freedom 2.0 / Towards a New Physics of Human Systems, by Peter Wang](https://medium.com/rally-point-journal/freedom-2-0-towards-a-new-physics-of-human-systems-9cec09bc1344#:~:text=What%E2%80%99s%20needed%20for,from%E2%80%9D%20each%20other.)
+
+
 > "There is a certain sense in which I would say the universe has a purpose. It's not there just somehow by chance. Some people take the view that the universe is simply there and it runs along-it's a bit as though it just sort of computes, and we happen by accident to find ourselves in this thing. I don't think that's a very fruitful or helpful way of looking at the universe, I think that there is something much deeper about it, about its existence, which we have very little inkling of at the moment." - [Roger Penrose](https://www.azquotes.com/quote/927312)
 
 > "Emergence is the closest thing to magic that is actually a scientific term." - [Daniel Schmachtenberger](https://systems-souls-society.com/emergence/emerge/#:~:text=%E2%80%98Emergence%20is%20the%20closest%20thing%20to%20magic%20that%20is%20actually%20a%20scientific%20term%E2%80%99)
@@ -653,6 +659,8 @@ https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doo
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
 ██████████████████████████████████████████████████████████████████
+
+> "Conscious evolution: Up to now, evolution was merely a very slow, large-scale process that we had to passively undergo. With symbolic communication, culture, and contemporary technology, that process has tremendously accelerated. Moreover, we are starting to better understand the mechanisms of variation, selection, adaptation and selforganization that drive evolution forward. That allows us in principle to guide or steer evolution along a more efcient path, with less trial-and-error, while avoiding common pitfalls, such as extinctions or collapses. Thus, humanity seems ready to consciously evolve itself and its surrounding ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
 > "It is as if man had been suddenly appointed managing director of the biggest business of all, the business of evolution—appointed without being asked if he wanted it, and without proper warning and preparation. What is more, he can’t refuse the job. Whether he wants to or not, whether he is conscious of what he is doing or not, he is in point of fact determining the future direction of evolution on this earth. That is his inescapable destiny, and the sooner he realizes it and starts believing in it, the better for all concerned..." - [Transhumanism, by Julian Huxley](https://www.consciousevolution.co.uk/blog/what-is-an-evolutionary#:~:text=It%20is%20as,for%20all%20concerned.%20.%20.%20.)
 

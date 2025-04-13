@@ -100,23 +100,23 @@ mention the business plan search space for a 500-page book(s) from the book the 
 "The Architecture of infinity"
 "The Third Attractor"
 "The Book"
-Principia Mathematica
-"multi scale competency architecture"
+"multi scale competency architecture" - omni scale? what is omni
 The Mind/Psychology of God
 The Fifth Joint Point
 Reputation/Identity in the 21st century - like the book about capital
 "Self-interest" with an expanding cognitive light cone from michael levin's paper
-“Collective intelligence: a primer or for dummies” as title
+“Collective intelligence: a primer or for dummies” as title - or collectivity
 ^^ title of book?
 Title: summa civilizaciona
-Ptincipia civilizaciona
+Principia civilizaciona
 Modernity’s produce
+The Third Story - as conceived by Francis & others here: https://www.humanenergy.io/glossary
 Immortality - as title - cuvilizacionatially, and potentially individually
 Connection
 Minimum viable infinity - the bedrock of conscious general explainers collectivity
 Noah’s Arc from a time in between worlds
 Forward
-The Matrix: Upgraded - Neo upgrades it
+The Matrix: Upgraded
 The new Elite
 Stealing God
 The consciousness guide to the galaxy
@@ -125,6 +125,7 @@ The maximum
 “The book of fusion”
 “Fusion”
 The Bundle
+Everything Everywhere all at once - ITS A JOKE! don't sue please, this ain't a copyright violation
 “Synthesis”
 “The next game”
 HumanityOS

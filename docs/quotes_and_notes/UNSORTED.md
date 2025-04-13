@@ -695,7 +695,7 @@ The internet of models - IoM
 Models as a service
 MaaS
 
-Legitimacy needs to be CONTINUALLY earned
+Legitimacy needs to be CONTINUALLY/perpetually earned
 
 what if we could track and visualize the progress of anyone in anything within their knowledge tree and simply pick publickly the best ones - and make working in public the only way of legitimizing power
 
@@ -738,8 +738,6 @@ Google - why do they hide the candy and put the healthy stuff more easily access
 
 Simplicity as a design goal - the sculpture that is refining itself from fat to thin
 https://www.google.com/search?q=sculpture+carving+itself
-
-a cult around reputation and accountability
 
 TODO: spomni si purvona4alnite ti idei za browser plugin za fake news ili kakvoto beshe tam
 
