@@ -1459,7 +1459,7 @@ https://twitter.com/alexandrosM/status/1614328083645100032
 ██████████████████████████████████████████████████████████████████
 
 
-> "Global Brain: The global brain can be dened as the nervous system of the global superorganism. This is the subsystem responsible for acquiring, interpreting, distributing and storing information. The components of the global brain are human individuals, their ideas and knowledge, together with the communication technologies they use to process, exchange and register these data. Thus, the global brain is more or less synonymous with the noosphere, which was characterized by Teilhard de Chardin as a “brain of brains”. The global brain is supported by the Internet, with human individuals or computer systems playing the role of neurons, and the network links between them playing the role of synapses." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+> "Global Brain: The global brain can be defined as the nervous system of the global superorganism. This is the subsystem responsible for acquiring, interpreting, distributing and storing information. The components of the global brain are human individuals, their ideas and knowledge, together with the communication technologies they use to process, exchange and register these data. Thus, the global brain is more or less synonymous with the noosphere, which was characterized by Teilhard de Chardin as a “brain of brains”. The global brain is supported by the Internet, with human individuals or computer systems playing the role of neurons, and the network links between them playing the role of synapses." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
 
 > "When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance." - [Nikola Tesla](https://www.geekwire.com/2015/nikola-tesla-predicted-smartphones-in-1926-like-a-boss/)
@@ -1702,6 +1702,9 @@ Niche construction describes how organisms can change their environment, creatin
 # SECTION: Superorganism & integration
 ██████████████████████████████████████████████████████████████████
 
+> "Superorganism: A superorganism is an organism that consists of component organisms. Examples are a multicellular organism that consists of cells, and an ant colony that consists of individual ants, yet behaves like a unified, single organism.
+>
+> Global superorganism (aka Metaman): Humanity as a whole can be conceived as a collective organism which consists of individual people, supported by their technological extensions. Like a biological organism, this social organism has a metabolism (or physiology), which converts raw materials into the energy and products needed to sustain its functioning. It also has a circulatory system, which transports these resources to where they are needed, and a nervous system, which processes and distributes information." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
 
 division of labor aka differentiation (specialization, efficiency) entails mutual dependence, integration and cooperation (lack of cheating & free riding)

@@ -606,11 +606,21 @@ Choice architecture - RR - visibility templates
 # SECTION: Elinor Ostrom & commons
 ██████████████████████████████████████████████████████████████████
 
+
+> "Common(s): A “common” consists of three elements: 1) a shared resource, such as a forest, a lake, or a eld; 2) a community which uses that resource; and 3) rules to ensure that the resource is well managed and not overexploited. Examples of commons are the oceans and the sh stocks they contain, the water people extract from rivers and aquifers, and the knowledge shared by all in repositories such as Wikipedia. A common is owned, taken care of, and preserved by a community, not by individuals, companies or governments. A common is neither capitalist nor communist, but exists in a different economic realm. You can’t commodify (buy or sell) or give away a common, but should pass it on to the next generations - intact, without degrading it, while ensuring that everyone can equally benet from it.
+>
+> Global commons: The global commons are all the (extra)terrestrial parts that fall outside national jurisdictions, so they are not owned or controlled by any single nation. They are considered humanity's common heritage, and their health is critical to the health of the noosphere itself. Examples include the international waters (high seas), Antarctica, the atmosphere, biodiversity, genetic resources, cyberspace (the internet), and outer space (celestial bodies like the Moon and Mars).
+>
+> Tragedy of the Commons: The tragedy of the commons is the idea that individuals, when left to their own devices, will tend to act as free riders by extracting as many resources (e.g. fish, or water) from the commons as they can for themselves, without caring about the other users. This would result in the depletion and eventual collapse of the common resource. This concept has inuenced environmental policies and resource management strategies for decades, by suggesting that commons should as much as possible be privatized, so that the individual owner would be motivated to preserve rather than exhaust the resource. However, it has also received criticism for being a misleading and potentially dangerous “myth”.
+>
+> Prosocial model (Ostrom principles): A prosocial model is a framework for managing the commons. Economist and political scientist Elinor Ostrom developed a set of guiding principles that promotes the sustainable and intergenerationally equitable use of a common. They emphasize the importance of clear boundaries of the common, community ownership, cooperative governance, equitable distribution of benefits and responsibilities, collective monitoring and decision-making processes, and the enforcement of self-determined rules and norms to prevent overuse or degradation. Ostrom underscores the natural capacity of local communities worldwide, in entirely different contexts, to develop this prosocial model, challenging the widely accepted notion of the "tragedy of the commons”." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+
 https://prnt.sc/kA6pSBBUfZqV
 
 https://en.wikipedia.org/wiki/Elinor_Ostrom#%22Design_principles_illustrated_by_long-enduring_CPR_(Common_Pool_Resource)_institutions%22
 
-> "But until a theoretical explanation -based on human choice – for self-organized and self-governed enterprises is fully developed and accepted, major policy decisions will continue to be undertaken with a presumption that individuals cannot organize themselves and always need to be organized by external authorities." - [Elinor Ostrom](https://www.goodreads.com/quotes/3238607-but-until-a-theoretical-explanation--based-on-human-choice)
+> "But until a theoretical explanation – based on human choice – for self-organized and self-governed enterprises is fully developed and accepted, major policy decisions will continue to be undertaken with a presumption that individuals cannot organize themselves and always need to be organized by external authorities." - [Elinor Ostrom](https://www.goodreads.com/quotes/3238607-but-until-a-theoretical-explanation--based-on-human-choice)
 
 > "Only when science and technology are used with human concern in a world in which all of the earth's resources are held as the common heritage of all of the earth's people can we truly say that there is intelligent life on Earth." - [Jacque Fresco](https://www.azquotes.com/quote/728558)
 

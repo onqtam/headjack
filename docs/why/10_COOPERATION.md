@@ -58,6 +58,25 @@ https://x.com/StefanFSchubert/status/1646881900508635139
 # SECTION: Cooperation
 ██████████████████████████████████████████████████████████████████
 
+> "Fitness: ... Fitness does not mean that the system is selfish, dominant or powerful in subduing others, but rather that it has developed symbiotic relationships with the other systems in its environment. In other words, it has found (or developed) a niche in which it fits." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+<!-- the deleted part: A system is fit if it is good at surviving and multiplying in a given environment. Therefore, fit systems tend to replace less fit ones. To be fit, a system must be adapted to the environment in which it lives. That means that it must be able to evade common dangers and to efficiently use available resources to maintain itself and grow. -->
+
+> "Cooperation: Cooperation occurs when two or more autonomous agents engage in a mutually benecial interaction, helping each other to achieve benefit. Usually, cooperation is intentional: the agents work together in the expectation of a benefit. If the benecial interaction is unintentional, it is called “synergy". Synergy and cooperation have driven the rise of complex living organisms over the past 3.9 billion years." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+> "Evolution of cooperation: Evolution of cooperation is the general tendency for interactions to become more synergetic through variation and selection, thus reducing competition and conict. The biggest obstacle to the evolution of cooperation is the problem of “free riders”." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+> "Synergy: Synergy is a form of cooperation where agents not only mutually benefit from their interaction, but where the combined result is greater than the sum of the individual contributions, and the positive-sum interaction is unintended.
+>
+> Friction: Friction is the opposite of synergy. It occurs when the interaction between agents of a system decreases their overall benefit. In this negative sum interaction, all parties lose (although one may gain at the expense of a larger loss by others). Friction often results in the dissipation or waste of resources during the interaction. In a traffic jam, for example, enormous amounts of fuel, time and energy are wasted because of the mutual obstruction between vehicles. When the negative sum interaction is intentional, we may call it conict. An example is war, where the warring parties together lose more than if they had not gone to war.
+>
+> Division of labor: The “division of labor” is a common way of achieving synergy through specialization. Other terms are “combination of labor”, "synergistic collaboration", and "cooperative synergy." It occurs when (groups of) agents within a system cooperate by specializing in different tasks or functions, with the combined result being more efcient, effective and productive than if each agent were to work independently." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+> "Multilevel selection: Selection not only takes place at the level of genes or individuals, but also at the levels of cells, colonies, multicellular organisms and groups of organisms. This is called “multilevel” selection. In higher-level systems, both the whole system and its component system(s) need to be t enough to survive natural selection. Therefore, selection happens simultaneously at different levels. This implies that the component systems cannot afford to care merely for their own benefit; they also need to take into account the tness of the whole system to which they belong.
+>
+> Group selection: Group selection refers to the fact that a group as a whole can survive or be eliminated. This evolutionary mechanism favors traits and behaviors that enhance the tness of the group, even if these may be disadvantageous for individuals within the group. For example, groups of cooperating individuals are more likely to survive than groups of selsh individuals, even though a selsh individual within a cooperating group (a “free rider”) may be tter by proting from the efforts of others. Therefore, group selection will tend to eliminate groups with too many free riders. Determining in which cases group selection is strong enough to counter individual selection remains a topic of ongoing discussion in evolutionary theory." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+> "Free riders: Free riders are agents that exploit others' collaborative efforts without contributing anything. They are named after people who use public transport, such as buses, without paying, relying on others to pay enough so that the buses continue to ride. Free riders extract more benefit from the cooperation than the cooperators, because they don’t pay the costs. Therefore, free riders risk outcompeting the cooperators, destroying any tendency to cooperate. This problem can be overcome via certain coordination or control mechanisms, also known as social institutions, that make free riding difficult. Such mechanisms may evolve through group selection." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
 > "The Best for the Group comes when everyone in the group does what's best for himself AND the group." - [John Forbes Nash](https://www.goodreads.com/quotes/229916-the-best-for-the-group-comes-when-everyone-in-the)
 
 > "Competition has been shown to be useful up to a certain point and no further, but cooperation, which is the thing we must strive for today, begins where competition leaves off." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/423760-competition-has-been-shown-to-be-useful-up-to-a)
@@ -118,11 +137,13 @@ The concepts of price of anarchy and price of stability were introduced to captu
 > "An eye for an eye will only make the whole world blind." - [Mahatma Gandhi](https://www.goodreads.com/quotes/4553-an-eye-for-an-eye-will-only-make-the-whole)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Morality, Compassion & Empathy
+# SECTION: Morality, Ethics, Compassion & Empathy
 ██████████████████████████████████████████████████████████████████
 
 
 > "Those people who treat politics and morality separately will never understand either of them." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/688553)
+
+> "Ethics: Ethics species the values (abstract concepts of what is good), norms (more specific social standards) and rules (explicit dos and don'ts) that individuals should follow in order to positively contribute to the larger system to which they belong. This includes avoiding actions that harm other people, society, and the encompassing ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
 > "One can buy anything with money except morality." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/1117236)
 
@@ -448,6 +469,7 @@ We need to define property rights and ownership and taxation through morality
 
 > "Life is a Sisyphean race, run ever faster toward a finish line that is merely the start of the next race." - [Matt Ridley](https://www.azquotes.com/quote/368256)
 
+> "Major evolutionary transitions: A major evolutionary transition refers to the emergence of a higher level of complexity by the integration of simpler systems into an encompassing supersystem. Examples are the origin of life from molecules, the formation of multicellular organisms from cells, and the formation of social systems from individuals. In such a higher-level system, the component systems are dependent on each other for their joint survival. This means that they need to coordinate their actions with these others." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
 Metasystem transition - the emergence, through evolution, of a higher level of organization or control.
 

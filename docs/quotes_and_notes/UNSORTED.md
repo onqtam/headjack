@@ -4653,8 +4653,6 @@ Life is a gift. But to some it is hell. Why?
 
 What’s proposed here is kryptonite more for China than the West.
 
-The final major evolutionary transition
-
 
 Broken integration of information - example: book reviews - why can't I easily see that Brendan (someone who I follow) has reviewed this book when I go to goodreads or amazon?
 https://www.brendangrahamdempsey.com/post/reflections-on-the-dawn-of-everything

@@ -3,6 +3,10 @@
 # SECTION: Worldview
 ██████████████████████████████████████████████████████████████████
 
+> "Sense of Coherence: Based on many interviews with people confronted with difficult challenges (such as illness or accidents), the sociologist Antonovsky has developed a theory of what people need in order to feel good, be healthy, and cope effectively with challenges. He called this a “sense of coherence”. Having such a sense means that people feel that life is comprehensible (i.e. they understand how the world functions), manageable (i.e. they have access to the necessary skills and resources) and meaningful (i.e. they have goals worth striving for)." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+> "Integrated Worldview: As the philosopher Leo Apostel denes it, an integrated worldview is a system of thought that explains how human life fits within the larger cosmos. It provides meaning, values, understanding, and a sense of coherence. It answers fundamental philosophical questions, such as: What is the universe made of? Why is it organized like that? Who are we? Where do we come from? Where are we going?" - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
 > "A worldview gives meaning to our life, and helps us to understand the world around us. A coherent worldview is particularly important in the current era of accelerating scientific, cultural and social developments, in which all the old certainties are put into question. The confusion and fragmentation associated with this contribute to alienation, pessimism and uncertainty, and the need for psychological guidance in the form of a clear and reliable system of thought. Unfortunately such a framework is all too often found in fundamentalist ideologies, or in irrational beliefs and superstitions. Science should be our weapon in the fight against irrationality and fundamentalism. Regrettably, contemporary science seems to contribute to the confusion by the avalanche of often-contradictory observations and theories that it overloads us with. That is why we need to develop a coherent, new worldview that is solidly rooted in the most advanced scientific concepts and observations, but that goes beyond the simple-minded determinism and reductionism of Newtonian science in order to bring us back a sense of meaning, of purpose, of being part of a larger whole." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 > "Why is there something rather than nothing?" - [Gottfried Wilhelm Leibniz](https://www.goodreads.com/quotes/7582418-why-is-there-something-rather-than-nothing)
@@ -348,6 +352,9 @@ In this series we’ve been taking an earnest  look at what many people consider
 
 
 
+
+
+> "Meaning: People consider their lives meaningful if they have a system of goals and values that tells them what is good or worthwhile for them to do. They also need to have a general understanding of how the world around them functions and how they and their activities fit in with that world. That provides them with a prospect of potential courses of action that would allow them to achieve their goals concretely. It also gives them a sense of connection, knowing which external resources they can rely on and how their actions can contribute to the larger whole." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
 
 > "The core problem is not ultimately material, but conceptual - a crisis of meaning and an inadequate understanding of human nature, our environment, and our place in the cosmos. The rise of the scientific worldview has enabled us to manipulate the material world with incredible precision, but has also fragmented our conceptual frameworks and left us without a coherent, compelling vision of who we are and what we should be aiming at individually and collectively.
@@ -730,6 +737,8 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 Just like life, the internet also evolved blindly and unconsciously - gradient descent. But we are architects and can consciously choose our civilizational foundation
 
+> "Transcendence: Transcendence refers to the process of surpassing the limitations of a person’s mind, e.g. in terms of perception, representation, or understanding. It means going beyond the boundaries of the self and its mundane preoccupations in order to attain a deeper or broader insight into reality and a sense of connectedness to a greater whole. It requires stepping outside the conventional symbolic categories that are used to describe reality and moving on to a higher, more encompassing level of consciousness." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Protopia
 ██████████████████████████████████████████████████████████████████
@@ -757,7 +766,7 @@ Just like life, the internet also evolved blindly and unconsciously - gradient d
 # SECTION: Technology is not neutral
 ██████████████████████████████████████████████████████████████████
 
-> "Change is like fire- if uncontrolled, it will consume us." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/1335483)
+> "Change is like fire - if uncontrolled, it will consume us." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/1335483)
 
 > "But it is much later in the game now, and ignorance of the score is inexcusable. To be unaware that a technology comes equipped with a program for social change, to maintain that technology is neutral, to make the assumption that technology is always a friend to culture is, at this late hour, stupidity plain and simple." - [Neil Postman](https://www.goodreads.com/quotes/286008-but-it-is-much-later-in-the-game-now-and)
 
@@ -1011,6 +1020,9 @@ something beyond our cells, the invidivual or the genome with all of its rivalro
 ██████████████████████████████████████████████████████████████████
 
 <img src="/img/evarrow_gb_eye.jpg"/>
+
+> "Directionality of evolution: Variation is commonly conceived as random or blind. That means that it has no systematic preference for the direction in which it goes, and that it is unpredictable. However, selection creates a direction for evolution by eliminating all variations that reduce fitness, while multiplying the ones that increase fitness. Thus, the overall direction of evolution is towards increasing fitness. That implies increasing alignment and mutual adaptation of the different co-evolving systems." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
 
 Fuck the naturalistic fallacy
 > "[57] A rudimentary beginning of “emotion” emerges here… The bacterium must sense its world and act to avoid toxins and to obtain food. The evaluation of “good” versus “bad,” arguably the “first sense,” enters here. …I note also that Hume’s famous: “one cannot deduce an ‘ought’ from an ‘is’”, the famous naturalistic fallacy, rests on the critical fallacy that Hume, like Descartes, thought of a mind “knowing” its world. Hume did not think of an agent “acting” in its world. Given “action” and “doing”, doing “it” well or poorly enters inevitably, and with it, “ought.” With ought, the need for evaluation, the rudiments of emotion without positing consciousness, enter. (“Evolution Beyond Newton, Darwin, and Entailing Law: The Origin of Complexity in the Evolving Biosphere,” in Complexity and the Arrow of Time, ed. Charles H. Lineweaver, Paul Davies, and Michael Ruse (Cambridge: Cambridge University Press, 2013), 169)" - [Stuart Kauffman](quote_taken_from_the_book_A_Universal_Learning_Process,_by_Brendan_Graham_Dempsey)

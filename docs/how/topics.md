@@ -111,11 +111,10 @@ Title: summa civilizaciona
 Principia civilizaciona
 Modernity’s produce
 The Third Story - as conceived by Francis & others here: https://www.humanenergy.io/glossary
+The final major evolutionary transition
 Immortality - as title - cuvilizacionatially, and potentially individually
-Connection
 Minimum viable infinity - the bedrock of conscious general explainers collectivity
 Noah’s Arc from a time in between worlds
-Forward
 The Matrix: Upgraded
 The new Elite
 Stealing God
