@@ -126,6 +126,10 @@ The concepts of price of anarchy and price of stability were introduced to captu
 
 > "The arc of the moral universe is long but it bends toward cooperation." - [Martin Luther King Jr.](https://www.goodreads.com/quotes/646750-let-us-realize-the-arc-of-the-moral-universe-is), probably
 
+Science is the clearest example of global coordination.
+
+> "In terms of global coordination, I think the best example is science... the whole of science (already since at least half a century) is fully global, fully international. There isn’t something like a Chinese science, and a Russian science, and an American science. There is just science." - [Francis Heylighen](https://www.organism.earth/library/document/glimpsing-the-global-brain)
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: vulnerability & leap of faith & forgiveness
 ██████████████████████████████████████████████████████████████████
@@ -144,6 +148,11 @@ The concepts of price of anarchy and price of stability were introduced to captu
 > "Those people who treat politics and morality separately will never understand either of them." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/688553)
 
 > "Ethics: Ethics species the values (abstract concepts of what is good), norms (more specific social standards) and rules (explicit dos and don'ts) that individuals should follow in order to positively contribute to the larger system to which they belong. This includes avoiding actions that harm other people, society, and the encompassing ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+if we shift from knowing the world to acting in the world, "ought" and evaluation become indispensable and the naturalistic fallacy simply does not apply
+
+> "[57] A rudimentary beginning of “emotion” emerges here… The bacterium must sense its world and act to avoid toxins and to obtain food. The evaluation of “good” versus “bad,” arguably the “first sense,” enters here. …I note also that Hume’s famous: “one cannot deduce an ‘ought’ from an ‘is’”, the famous naturalistic fallacy, rests on the critical fallacy that Hume, like Descartes, thought of a mind “knowing” its world. Hume did not think of an agent “acting” in its world. Given “action” and “doing”, doing “it” well or poorly enters inevitably, and with it, “ought.” With ought, the need for evaluation, the rudiments of emotion without positing consciousness, enter. (“Evolution Beyond Newton, Darwin, and Entailing Law: The Origin of Complexity in the Evolving Biosphere,” in Complexity and the Arrow of Time, ed. Charles H. Lineweaver, Paul Davies, and Michael Ruse (Cambridge: Cambridge University Press, 2013), 169)" - [Stuart Kauffman](quote_taken_from_the_book_A_Universal_Learning_Process,_by_Brendan_Graham_Dempsey)
+
 
 > "One can buy anything with money except morality." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/1117236)
 
@@ -929,6 +938,7 @@ https://en.wikipedia.org/wiki/Focal_point_(game_theory)
 truth must be our schelling point
 
 > "Two truths cannot contradict one another." - [Galileo Galilei](https://www.azquotes.com/quote/573723)
+^^ in integration
 
 > "Measure what can be measured, and make measureable what cannot be measured." - [Galileo Galilei](https://www.azquotes.com/quote/905195)
 

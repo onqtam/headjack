@@ -1947,7 +1947,6 @@ we can rank different sources of signal differently and prioritize the weights o
 
 > "[pol.is](https://pol.is/) takes an n-dimensional space, where n is the number of sentiments shared by a group of people, and visualizes the points of agreement and disagreement through a combination of PCA (Principal Component Analysis) and k-means clustering. The visualization (and underlying data) is open, transparent, and updated in real-time." - [Taiwan: grassroots digital democracy that works - RADICALxCHANGE](https://www.radicalxchange.org/media/papers/Taiwan_Grassroots_Digital_Democracy_That_Works_V1_DIGITAL_.pdf)
 
-> "The media's the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that's power. Because they control the minds of the masses." - [Malcolm X](https://www.goodreads.com/quotes/74430-the-media-s-the-most-powerful-entity-on-earth-they-have)
 
 
 
@@ -1958,41 +1957,5 @@ we can rank different sources of signal differently and prioritize the weights o
 > "The state of debate as it occurs online is particularly ineffectual and disorganized. None of the technologies in use today (with the exception of email and a few others) were available twenty years ago, and yet with this incredible growth in capability, we have failed to address fundamental issues with deliberation, and created many new ones." ["Canonical Debate Lab" paper](https://github.com/canonical-debate-lab/paper#i-abstract:~:text=The%20state%20of%20debate%20as,and%20created%20many%20new%20ones.)
 
 > "Everything that can be said can be said clearly." - [Ludwig Wittgenstein](https://www.goodreads.com/quotes/328722-everything-that-can-be-thought-at-all-can-be-thought)
-
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Consciousness
-██████████████████████████████████████████████████████████████████
-
-> "Consciousness: Consciousness is the ability to monitor, examine and redirect mental processes. Most processes in the human brain are subconscious: they happen immediately and automatically, in the background, without any possibility for the self to intervene. Examples are reex reactions, recognition of objects and understanding of language. For conscious processes, such as acting, thinking, or speaking, on the other hand, we can conceive different possibilities, and choose between them. We can also correct the process if it does not go as desired." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
-
-> "Consciousness is the ability to share your mental states with yourself while they happen." - [Joscha Bach](https://x.com/Plinz/status/1841091145562275850)
-
-consciousness contains a model of the self - but do we own our collective model of humanity or is it privatized by a few big actors?
-
-The function of consciousness is to solve the frame problem - John Vervaeke
-
-> "the function of consciousness is to do enhanced relevance realization" - [John Vervaeke](https://youtu.be/IZ-tHaHfB8A?t=4094)
-
-> "what consciousness is doing is higher-order relevance realization" - [John Vervaeke](https://youtu.be/IZ-tHaHfB8A?t=4199)
-
-> "Until you make the unconscious conscious, it will direct your life and you will call it fate." - [Carl Jung](https://www.azquotes.com/quote/355847)
-
-> "Consciousness allows you the capacity to plan." - [Gerald Edelman](https://www.azquotes.com/quote/1213454)
-
-> "Perhaps consciousness arises when the brain's simulation of the world becomes so complex that it must include a model of itself." - [Richard Dawkins](https://www.goodreads.com/quotes/842915-perhaps-consciousness-arises-when-the-brain-s-simulation-of-the-world)
-
-> "GWT analogizes the mind to a theater, with conscious thought being like material illuminated on the main stage. The brain contains many specialized processes or modules that operate in parallel, much of which is unconscious. Attention acts as a spotlight, bringing some of this unconscious activity into conscious awareness on the global workspace. The global workspace is a functional hub of broadcast and integration that allows information to be disseminated across modules. As such it can be classified as a functionalist theory of consciousness.
->
-> When sensory input, memories, or internal representations are given attention, they become part of the global workspace and can then be operated on by a variety of processes. As elements compete for attention, the ones that win are granted entry to the global workspace, allowing their information to be distributed and coordinated across the whole cognitive system.
->
-> GWT resembles the concept of working memory and is proposed to correspond to a 'momentarily active, subjectively experienced' event in working memory. It facilitates top-down control of attention, working memory, planning, and problem-solving through this information sharing.
->
-> In the 'theater of consciousness', a 'spotlight of selective attention' shines a bright spot on stage, revealing the contents of consciousness. Behind the scenes, in the dark, are the director (executive processes), stagehands, scriptwriters, scene designers, and the like. They shape the visible activities in the bright spot but are themselves invisible.
->
-> ...It serves as a central information exchange, rather than a locus of cognition itself, enabling different specialized brain networks to interact and supporting integrated and adaptive responses." - [Global workspace theory, Wikipedia](https://en.wikipedia.org/wiki/Global_workspace_theory#:~:text=GWT%20analogizes%20the,and%20adaptive%20responses.)
-
-
 
 

@@ -1136,11 +1136,7 @@ What if we signal boosted people to be able to say what they want to be heard wh
 
 The real singularity is when we integrate our information and our minds
 
-What if propositional logic isn't necessary at all?
-
 Good judgment is relevance realization
-
-Attention and incentives are as fundamental as you can get
 
 Feature extraction and pattern recognition
 
@@ -2267,8 +2263,6 @@ Boycotting anything opaque - transparency is a prerequisite for alignment
 Instead of fact databases - calculate the distance between the opinions of a select group of accounts and what you’re evaluating
 Input sets - instead of fact databases?
 
-Attentionalist underclass - those not in conscious control of their attention and lives
-
 Alignment is all about conscious/intentional design of cooperative evolutionary landscapes
 
 Collectively we are psychologically ill - there is no coherence - we can’t agree on big important probable truths - its like schizophrenia
@@ -2631,7 +2625,6 @@ How do we deal with chronic, long-term, diffuse, cumulative and non-attributable
 
 In order to minimize surprise for any one individual we need to share our model of the world and make it common - a shared worldview and language and commitments
 
-Link between AST (attention schema theory) and ashby’s law - to control our attention we need a model of it
 
 
 
@@ -4909,8 +4902,6 @@ Motivation is energised by particular values
 
 
 
-“Consciousness is like fame in the brain” - daniel denett
-Ala global workspace theory
 
 Evolution is the most american thing ever
 

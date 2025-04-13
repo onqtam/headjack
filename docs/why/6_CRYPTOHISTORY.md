@@ -317,7 +317,7 @@ how do we rank how many times a specific paper is being referenced in another - 
 
 > "If the studies are fake, imagine the meta-analyses." - [Sven Schnieders](https://twitter.com/SvenSchnieders/status/1761418446842044460)
 
-> "The scientist is not a person who gives the right answers, he’s one who asks the right questions." - [Claude Lévi-Strauss](https://fs.blog/spot-bad-science/#:~:text=%E2%80%9CThe%20scientist%20is%20not%20a%20person%20who%20gives%20the%20right%20answers%2C%20he%E2%80%99s%20one%20who%20asks%20the%20right%20questions.%E2%80%9D%20%E2%80%95Claude%20L%C3%A9vi%2DStrauss)
+> "The scientist is not a person who gives the right answers, he’s one who asks the right questions." - [Claude Lévi-Strauss](https://fs.blog/spot-bad-science/)
 
 > "The pace of scientific progress may be hindered by the tendency of our academic institutions to reward being popular, rather than being right." - [Robin Hanson](https://twitter.com/robinhanson)
 
@@ -329,7 +329,7 @@ how do we rank how many times a specific paper is being referenced in another - 
 
 > "Markets are excellent at figuring out how to do things and they are terrible at deciding what to do, and we have put them in charge of both jobs... Science is too delicate to allow market forces to govern it... we have turned scientists into salesmen." - [Bret Weinstein](https://youtu.be/pRCzZp1J0v0?t=11100)
 
-> "Wikipedia is peer review. Open source is peer review. When you send a draft to a handful of friends to get feedback, that’s peer review. When you publish something to thousands of people to farm for dissent, that’s peer review." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized#:~:text=Wikipedia%20is%20peer%20review.%20Open%20source%20is%20peer%20review.%20When%20you%20send%20a%20draft%20to%20a%20handful%20of%20friends%20to%20get%20feedback%2C%20that%E2%80%99s%20peer%20review.%20When%20you%20publish%20something%20to%20thousands%20of%20people%20to%20farm%20for%20dissent%2C%20that%E2%80%99s%20peer%20review.)
+> "Wikipedia is peer review. Open source is peer review. When you send a draft to a handful of friends to get feedback, that’s peer review. When you publish something to thousands of people to farm for dissent, that’s peer review." - [The Democracy of the Future, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/future-of-democracy-decentralized)
 
 If I write a paper and you write a paper, each of us has one paper. If we each agree to put each other as a co-author on the paper, now each of us has two papers. Lots of academics figure this out very quickly...
 https://twitter.com/skdh/status/1779481377475268664
