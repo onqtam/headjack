@@ -357,11 +357,12 @@ we need a holistic view of the inerconnectedness of our civilization
 
 > "Ecology is the science of understanding consequences." - [somebody](http://www.sinanvural.com/seksek/inien/tvd/tvd2.htm#:~:text=ecology%20is%20the%20science%20of%20understanding%20consequences.)
 
-https://unchartedterritories.tomaspueyo.com/p/history-network-effects
 What productivity looks like as a flywheel - causal relationships:
-https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff36318cf-1922-434f-9265-f0c5acb6e43c_1600x896.png
-
-TODO INTERNET ^^
+<img src="/img/development_flywheel_causality_by_tomas_pueyo.png"/>
+<!--
+taken from here:
+https://unchartedterritories.tomaspueyo.com/p/history-network-effects
+-->
 
 > "Deep understanding of causality sometimes requires the understanding of very large patterns and their abstract relationships and interactions, not just the understanding of microscopic objects interacting in microscopic time intervals." - [Douglas Hofstadter](https://www.goodreads.com/quotes/6879066-deep-understanding-of-causality-sometimes-requires-the-understanding-of-very)
 

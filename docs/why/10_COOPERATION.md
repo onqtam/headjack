@@ -681,8 +681,6 @@ concluding remarks - game theory, rational choice theory
 
 
 
-TODO INTERNET:
-
 > "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 
 > "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
