@@ -6054,6 +6054,46 @@ we're not going to stumble upon order as a byproduct of incremental changes - we
 
 
 
+How do I express that extreme luxury brands are immoral and stupid in a way that would matter?
+
+The accuracy and relevance of what you read is incredibly important - it literally restructures and reorganizes your brain and how you think and see the world. How do we elevate the best ideas presented in their best form?
+
+You can’t have flourishing individuals if you don’t have flourishing collectives and vice-versa. Both-and.
+
+The matrix is not about farming humans as batteries but for their intelligence and creative potential
+The Matrix is an agency and creativity aggregator
+Add a shot from the matrix movie of the farms
+
+Remember remember the … of january - quote from V
+About aaron shwartz & hal finney btc tweet
+
+Minimum viable ideology
+
+We need to all come out of the closet about the status games we are all playing and must consciously steer our game.
+
+Hyperluxury is gross
+
+We should all be terrified of death - all our lives we are inching ever closer toward the abyss
+And yet we must make peace with this
+
+We have the luxury of pondering about meaning
+
+How do we make a system in which nukes aren’t stigmatised or illegal but are outright stupid, and nobody makes them simply because they make absolutely no sense? That’s the real end of history
+That’s the yardstick that we should use as a civilization
+Humans built the pyramids, humans made the atom bomb, humans went to another planet, and humans will transcend our current system that’s been the result of blind selection - the beginning of infinity is when we start deliberately engineering and refining our highest abstraction - our shared protocol
+
+While a single nuclear weapon exists on this planet, we are a failure as a species.
+We should all be insulted by this truth
+We are a failure as a species only as much as our current capacity for the biggest blast radius
+
+From divide and conquer to integrate and prosper
+
+Volatility - a product of a previous era’s social technology (capital markets) - is a source of distraction and risk - we can engineer it away
+
+All forms of debate that have ever been attempted/implemented are a failure (to different degrees - with pierce morgan’s show and presidential debates in the top spots of brokenness). And no, even 3 hour long Rogan or Lex debates are not even close to satisfactory.
+
+Our consciousnesses are microcosms of integration/compression and experience
+
 
 
 
