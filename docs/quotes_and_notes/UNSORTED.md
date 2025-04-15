@@ -6094,6 +6094,7 @@ All forms of debate that have ever been attempted/implemented are a failure (to 
 
 Our consciousnesses are microcosms of integration/compression and experience
 
+What an open society truly means
 
 
 

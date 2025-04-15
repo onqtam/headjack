@@ -706,7 +706,7 @@ We need to make excessive consumption and showing off uncool
 
 > "Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history. No purpose or place. We have no Great War, No Great Depression. Our great war is a spiritual war. Our great depression is our lives." - [Tyler Durden, Fight Club](https://www.goodreads.com/quotes/747996-advertising-has-us-chasing-cars-and-clothes-working-jobs-we)
 
-> "It is not a stretch to say that almost our entire contemporary economy from top to bottom is designed to get us to want what we do not need. As a consequence, by participating in our current economy we find ourselves all too often “full but not fulfilled.”" - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2#.gp23w8db2:~:text=it%20is%20not%20a%20stretch%20to%20say%20that%20almost%20our%20entire%20contemporary%20economy%20from%20top%20to%20bottom%20is%20designed%20to%20get%20us%20to%20want%20what%20we%20do%20not%20need.%20As%20a%20consequence%2C%20by%20participating%20in%20our%20current%20economy%20we%20find%20ourselves%20all%20too%20often%20%E2%80%9Cfull%20but%20not%20fulfilled.%E2%80%9D)
+> "It is not a stretch to say that almost our entire contemporary economy from top to bottom is designed to get us to want what we do not need. As a consequence, by participating in our current economy we find ourselves all too often “full but not fulfilled.”" - [The Wellbeing Economy, by Jordan Hall](https://medium.com/emergent-culture/the-wellbeing-economy-89c67b625ac2)
 
 > "We have to move out of a model of person that is exhausted by the notions of consumer and citizen." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=4119)
 
@@ -714,7 +714,7 @@ We need to make excessive consumption and showing off uncool
 
 > "If most of us are ashamed of shabby clothes and shoddy furniture let us be more ashamed of shabby ideas and shoddy philosophies.... It would be a sad situation if the wrapper were better than the meat wrapped inside it." - [Albert Einstein](https://www.goodreads.com/quotes/136243-if-most-of-us-are-ashamed-of-shabby-clothes-and)
 
-> "Civilization has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place." - [Mark Twain](http://www.twainquotes.com/Civilization.html#:~:text=has%20invented%20a%20thousand%20useless%20luxuries%2C%20and%20turned%20them%20into%20necessities%3B%20it%20has%20created%20a%20thousand%20vicious%20appetites%20and%20satisfies%20none%20of%20them%3B%20it%20has%20dethroned%20God%20and%20set%20up%20a%20shekel%20in%20His%20place.)
+> "Civilization has invented a thousand useless luxuries, and turned them into necessities; it has created a thousand vicious appetites and satisfies none of them; it has dethroned God and set up a shekel in His place." - [Mark Twain](http://www.twainquotes.com/Civilization.html)
 
 > "We have been reduced to citizens of the state and consumers of the market - we are not participant persons within the culture anymore." - [John Vervaeke](https://youtu.be/Ft_7n3eUytQ?t=1237)
 

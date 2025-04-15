@@ -2,6 +2,8 @@
 draft: true
 ---
 
+Stairway to heaven
+
 # Secret master plan - or Tech tree
 
 <div style={{textAlign: "center"}}>
