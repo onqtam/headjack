@@ -6097,6 +6097,9 @@ Our consciousnesses are microcosms of integration/compression and experience
 What an open society truly means
 
 
+> "Fifth generation warfare is a form of conflict that is largely non-kinetic, decentralized, and psychological—a war of narratives, perceptions, and influence rather than bullets, bombs, or battalions. It is insidious, obscure and we are immersed in it. By definition it is impossible to have certainty about who is on what team and what, exactly, they are doing..." - [Sensemaking in 2025: Trump Tariffs Edition, by Jordan Hall](https://deepcode.substack.com/p/sensemaking-in-2025-trump-tariffs)
+
+World War 3 is a guerrilla information war with no division between military and civilian participation. (Marshall McLuhan, 1970, Culture Is Our Business)
 
 
 what if your youtube-like video feed was based on the recommendations or positive interactions with videos of your social graph?

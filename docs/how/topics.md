@@ -85,66 +85,6 @@ credentials?
 https://twitter.com/eriktorenberg/status/1217590443468185600
 
 
-COMPLEX ADAPTIVE SYSTEMS !!!
-embracing complexity
-
-Gamification
-
-
-"Summa Organisationa"
-"Summa Systemica"
-"Summa Ideologica"
-https://en.wikipedia.org/wiki/Summa_Theologica
-https://en.wikipedia.org/wiki/Summa_logicae
-mention the business plan search space for a 500-page book(s) from the book the origin of wealth
-"The Architecture of infinity"
-"The Third Attractor"
-"The Book"
-"multi scale competency architecture" - omni scale? what is omni
-The Mind/Psychology of God
-The Fifth Joint Point
-Reputation/Identity in the 21st century - like the book about capital
-"Self-interest" with an expanding cognitive light cone from michael levin's paper
-“Collective intelligence: a primer or for dummies” as title - or collectivity
-^^ title of book?
-Title: summa civilizaciona
-Principia civilizaciona
-Modernity’s produce
-The Third Story - as conceived by Francis & others here: https://www.humanenergy.io/glossary
-The final major evolutionary transition
-Immortality - as title - cuvilizacionatially, and potentially individually
-Minimum viable infinity - the bedrock of conscious general explainers collectivity
-Noah’s Arc from a time in between worlds
-The Matrix: Upgraded
-The new Elite
-Stealing God
-The consciousness guide to the galaxy
-The maximum
-“The book of synthesis”
-“The book of fusion”
-“Fusion”
-The Bundle
-Everything Everywhere all at once - ITS A JOKE! don't sue please, this ain't a copyright violation
-“Synthesis”
-“The next game”
-HumanityOS
-Thermodynamic integration
-Don't Die 2.0 or ^2 squared - the sequel to BJ's Don't Die
-
-“The generator function” book title
-The generator
-Constructor theory
-“The riddle of existence”
-“Game of life 2.0” book title
-The greatest justification ever told
-
-“Greater than 1”
-Peter thiel gave u from 0 to 1, this is the apex meme with an R-naught greater than 1, although what about herd immunity... maybe just >1 is not enough
-
-
-
-This is a book with multiple titles? why not?
-Buy all of the domains for all the titles and let people browse it through their preferred domain - the one that resonates the most
 
 deconstructing media down to the claim level
 
@@ -153,10 +93,6 @@ state vs events - many different views/states (instances) constructed with diffe
 Distributed internal management
 
 runaway confirmation bias
-
-evolutionary activism
-
-reward systems - the god protocol
 
 snapping humanity on the right trajectory - the god machine, recursive relevance realization
 
