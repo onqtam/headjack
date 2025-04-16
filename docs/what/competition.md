@@ -418,6 +418,8 @@ A list of problems with the contenders in the decentralized identity/media space
 
 # [Farcaster](https://www.farcaster.xyz/)
 
+lol they've moved to a blockchain... called a snapchain, and they're sharding it and talking about optimizing the network for 1k TPS... they've failed IMHO
+
 <!--
 https://farcasterxyz.notion.site/farcasterxyz/Farcaster-v2-43b105e4699847518b1d89996c20d564
 -->

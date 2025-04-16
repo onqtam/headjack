@@ -324,6 +324,7 @@ https://www.youtube.com/watch?v=PgoiVAI9B1w
 top 10 watch:
 Conscious Evolution Podcast
 https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
+or not...
 
 https://www.youtube.com/watch?v=1-TZqOsVCNM
 How to Get Rich - Naval
@@ -416,7 +417,6 @@ https://guzey.com/favorite/media/
 
 
 Top 10 most important podcasts
-- Conscious Evolution Podcast (only one season with 6 episodes...)
 - The Great Simplification
 - Rebel Wisdom
 - The Jim Rutt Show

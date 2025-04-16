@@ -681,9 +681,9 @@ concluding remarks - game theory, rational choice theory
 
 
 
-> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+> "Coordination dilemmas are found not just in everyday situations but in the conventions and norms that make complex societies possible. The challenge of coordination is coming to be recognized as one of the deepest puzzles in the human sciences, and it requires a special kind of reasoning about mental states that goes beyond representing others’ beliefs." - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 
-> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+> "Humans are an unusually cooperative species, and our cooperation is of 2 kinds: altruistic, when actors benefit others at a cost to themselves, and mutualistic, when actors benefit themselves and others simultaneously. One major form of mutualism is coordination, in which actors align their choices for mutual benefit. Formal examples include meetings, division of labor, and legal and technological standards; informal examples include friendships, authority hierarchies, alliances, and exchange partnerships. Successful coordination is enabled by common knowledge: knowledge of others’ knowledge, knowledge of their knowledge of one’s knowledge, ad infinitum. Uncovering how people acquire and represent the common knowledge needed for coordination is thus essential to understanding human sociality, from large-scale institutions to everyday experiences of civility, hypocrisy, outrage, and taboo." - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 
 > "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 

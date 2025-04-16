@@ -1093,11 +1093,7 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > However, the reason we are prosperous today is not because our forefathers maintained full employment. We are prosperous today because our forefathers developed and deployed better and better technology—cars, antibiotics, forge presses, container ships, cryogenic storage to transport liqueed natural gas, and thousands more. A society with full employment and the technology that existed in Keynes’s lifetime is vastly poorer than a society with high unemployment and today’s technology. Very few people would prefer being gainfully employed in the boom years of the late 19th century Gilded Age over struggling to nd work in a sluggish 2020s economy—say, in Canada or Portugal." - [Industrial Greatness Requires Economic Depressions, Palladium Magazine](https://www.palladiummag.com/2025/02/21/industrial-greatness-requires-economic-depressions/)
 
-> "" - [The Case For Human Hibernation, Palladium Magazine](https://www.palladiummag.com/2025/04/11/the-case-for-human-hibernation/)
 
-> "" - [The Case For Human Hibernation, Palladium Magazine](https://www.palladiummag.com/2025/04/11/the-case-for-human-hibernation/)
-
-> "" - [The Case For Human Hibernation, Palladium Magazine](https://www.palladiummag.com/2025/04/11/the-case-for-human-hibernation/)
 
 > "" - []()
 

@@ -23,7 +23,7 @@ Game of Life 2.0
 The Greatest Justification/Story Ever Told
 The Consciousness Guide to the Galaxy
 Multi Scale Competency Architecture
-Thermodynamic Integration
+Thermodynamic Integration/Optimization
 HumanityOS
 Greater Than 1 - Peter Thiel gave us from 0 to 1, this is the apex meme with an R-naught greater than 1
 

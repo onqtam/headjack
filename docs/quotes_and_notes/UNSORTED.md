@@ -6101,6 +6101,8 @@ What an open society truly means
 
 World War 3 is a guerrilla information war with no division between military and civilian participation. (Marshall McLuhan, 1970, Culture Is Our Business)
 
+If you're for position A and not position B, then you've effectively chosen all of the downsides of A and given up on the benefits ot B. You might not have realized that, but the system should make it possible for you to see what are the consequences of your choices - not just immediate consequences, but also 2nd and 3rd order effects of your choices, because you've probably not gone through the argument maps a few layers deep in all directions... There should be a summary: top10 worse risksfor choosing A over B.
+
 
 what if your youtube-like video feed was based on the recommendations or positive interactions with videos of your social graph?
 
