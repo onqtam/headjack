@@ -57,7 +57,6 @@ what we should minimize:
 - strawmanning
 - differences of definitions - "socialism" - like Sweden or the USSR or what?
 - [nutpicking](https://rationalwiki.org/wiki/Nutpicking) - focusing on the dumbest, craziest arguments from the dumbest, craziest members of a group to discredit them and their arguments
-- echo chambers
 - foul language
 - ignorant people with 0 clue being let in
 - [whataboutism](https://en.wikipedia.org/wiki/Whataboutism)
