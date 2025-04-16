@@ -768,6 +768,8 @@ maybe this should go in the way forward? or at the end of CI?
 # SECTION: Consequence capture
 ██████████████████████████████████████████████████████████████████
 
+consequence_capture_symbol.jpg
+
 > "Evolution of cooperation: the general tendency for interactions to become more synergetic through variation and selection, thus reducing competition and conflict. The biggest obstacle to the evolution of cooperation is the problem of “free riders”: agents that profit from the collaborative effort of other agents but without contributing themselves. Since free riders typically extract more benefit from the cooperation than the cooperators themselves, they risk outcompeting the cooperators, thus destroying any tendency to cooperation. This problem can be overcome via the evolution of a mediator that makes free riding impossible, or at least less attractive than true cooperation." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 > "Have I done something for the common good? Then I share in the benefits." - [Marcus Aurelius](https://twitter.com/dailystoic/status/1688958269287755776)
