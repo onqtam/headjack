@@ -354,6 +354,10 @@ In this series we’ve been taking an earnest look at what many people consider 
 
 == ep 5 from conscious evolution podcast
 
+== ep 6 from conscious evolution podcast
+
+TODO: relisten and take notes from it - daniel: we need to model ourselves as nature itself - and thus the reward function
+
 
 
 
@@ -673,6 +677,13 @@ https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doo
 ██████████████████████████████████████████████████████████████████
 # SECTION: Conscious Evolution
 ██████████████████████████████████████████████████████████████████
+
+Conscious Evolution obsoletes the need for pain as a driver of evolution
+
+Conscious Evolution Podcast 06 - Conscious Evolution
+https://www.youtube.com/watch?v=UMVFYPuIb5s
+https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
+embed this
 
 > "Conscious evolution: Up to now, evolution was merely a very slow, large-scale process that we had to passively undergo. With symbolic communication, culture, and contemporary technology, that process has tremendously accelerated. Moreover, we are starting to better understand the mechanisms of variation, selection, adaptation and selforganization that drive evolution forward. That allows us in principle to guide or steer evolution along a more efcient path, with less trial-and-error, while avoiding common pitfalls, such as extinctions or collapses. Thus, humanity seems ready to consciously evolve itself and its surrounding ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 

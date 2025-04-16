@@ -324,7 +324,7 @@ https://www.youtube.com/watch?v=PgoiVAI9B1w
 top 10 watch:
 Conscious Evolution Podcast
 https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
-or not...
+or just the last 6th episode
 
 https://www.youtube.com/watch?v=1-TZqOsVCNM
 How to Get Rich - Naval
