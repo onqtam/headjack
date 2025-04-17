@@ -132,29 +132,63 @@
 
 
 
-> "The world’s leaders are correctly fixated on economic growth as the answer to virtually all problems, but they’re pushing with all their might in the wrong direction." - [Leverage Points: Places to Intervene in a System, by Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/#:~:text=The%20world%E2%80%99s%20leaders%20are%20correctly%20fixated%20on%20economic%20growth%20as%20the%20answer%20to%20virtually%20all%20problems%2C%20but%20they%E2%80%99re%20pushing%20with%20all%20their%20might%20in%20the%20wrong%20direction.)
+> "The world’s leaders are correctly fixated on economic growth as the answer to virtually all problems, but they’re pushing with all their might in the wrong direction...
+>
+> PLACES TO INTERVENE IN A SYSTEM (in increasing order of effectiveness)
+>
+> 12. Constants, parameters, numbers (such as subsidies, taxes, standards).
+>
+> 11. The sizes of buffers and other stabilizing stocks, relative to their flows.
+>
+> 10. The structure of material stocks and flows (such as transport networks, population age structures).
+>
+> 9. The lengths of delays, relative to the rate of system change.
+>
+> 8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+>
+> 7. The gain around driving positive feedback loops.
+>
+> 6. The structure of information flows (who does and does not have access to information).
+>
+> 5. The rules of the system (such as incentives, punishments, constraints).
+>
+> 4. The power to add, change, evolve, or self-organize system structure.
+>
+> 3. The goals of the system.
+>
+> 2. The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.
+>
+> 1. The power to transcend paradigms.
+>
+> ...
+>
+> 12. Constants, parameters, numbers (subsidies, taxes, standards).
+>
+> “Parameters” in systems jargon means the numbers that determine how much of a discrepancy turns which faucet how fast... Putting different hands on the faucets may change the rate at which the faucets turn, but if they’re the same old faucets, plumbed into the same old system, turned according to the same old information and goals and rules, the system isn’t going to change much. Electing Bill Clinton was definitely different from electing George Bush, but not all that different, given that every president is plugged into the same political system. (Changing the way money flows in that system would make much more of a difference — but I’m getting ahead of myself on this list.) Parameters are dead last on my list of powerful interventions. Diddling with the details, arranging the deck chairs on the Titanic. Probably 90, no 95, no 99 percent of our attention goes to parameters, but there’s not a lot of leverage in them. Not that parameters aren’t important — they can be, especially in the short term and to the individual who’s standing directly in the flow. People care deeply about parameters and fight fierce battles over them. But they RARELY CHANGE BEHAVIOR. If the system is chronically stagnant, parameter changes rarely kick-start it. If it’s wildly variable, they don’t usually stabilize it. If it’s growing out of control, they don’t brake it. Whatever cap we put on campaign contributions, it doesn’t clean up politics. The Feds fiddling with the interest rate haven’t made business cycles go away. (We always forget that during upturns, and are shocked, shocked by the downturns.) After decades of the strictest air pollution standards in the world, Los Angeles air is less dirty, but it isn’t clean. Spending more on police doesn’t make crime go away. Since I’m about to get into some examples where parameters ARE leverage points, let me stick in a big caveat here. Parameters become leverage points when they go into ranges that kick off one of the items higher on this list. Interest rates, for example, or birth rates, control the gains around positive feedback loops. System goals are parameters that can make big differences. Sometimes a system gets onto a chaotic edge, where the tiniest change in a number can drive it from order to what appears to be wild disorder. These critical numbers are not nearly as common as people seem to think they are. Most systems have evolved or are designed to stay far out of critical parameter ranges. Mostly, the numbers are not worth the sweat put into them...
+>
+> 11. The sizes of buffers and other stabilizing stocks, relative to their flows.
+>
+> ... You can often stabilize a system by increasing the capacity of a buffer. But if a buffer is too big, the system gets inflexible. It reacts too slowly. And big buffers of some sorts, such as water reservoirs or inventories, cost a lot to build or maintain. Businesses invented just-in-time inventories, because occasional vulnerability to fluctuations or screw-ups is cheaper (for them, anyway) than certain, constant inventory costs — and because small-to-vanishing inventories allow more flexible response to shifting demand. There’s leverage, sometimes magical, in changing the size of buffers. But buffers are usually physical entities, not easy to change...
+>
+> 10. The structure of material stocks and flows and nodes of intersection (such as transport networks, population age structures, flow of nitrogen through soil).
+>
+> The plumbing structure, the stocks and flows and their physical arrangement, can have an enormous effect on how the system operates... The only way to fix a system that is laid out wrong is to rebuild it, if you can... But often physical rebuilding is the slowest and most expensive kind of change to make in a system. Some stock-and-flow structures are just plain unchangeable. The baby-boom swell in the U.S. population first caused pressure on the elementary school system, then high schools, then colleges, then jobs and housing, and now we’re looking forward to supporting its retirement... Physical structure is crucial in a system, but rarely a leverage point, because changing it is rarely quick or simple. The leverage point is in proper design in the first place. After the structure is built, the leverage is in understanding its limitations and bottlenecks, using it with maximum efficiency, and refraining from fluctuations or expansions that strain its capacity.
+>
+> 9. The lengths of delays, relative to the rate of system changes.
+>
+> ... Delays in feedback loops are critical determinants of system behavior. They are common causes of oscillations. If you’re trying to adjust a system state to your goal, but you only receive delayed information about what the system state is, you will overshoot and undershoot. Same if your information is timely, but your response isn’t... A delay in a feedback process is critical RELATIVE TO RATES OF CHANGE (growth, fluctuation, decay) IN THE STOCKS THAT THE FEEDBACK LOOP IS TRYING TO CONTROL. Delays that are too short cause overreaction, “chasing your tail,” oscillations amplified by the jumpiness of the response. Delays that are too long cause damped, sustained, or exploding oscillations, depending on how much too long. At the extreme they cause chaos. Overlong delays in a system with a threshold, a danger point, a range past which irreversible damage can occur, cause overshoot and collapse. I would list delay length as a high leverage point, except for the fact that delays are not often easily changeable. Things take as long as they take. You can’t do a lot about the construction time of a major piece of capital, or the maturation time of a child, or the growth rate of a forest. It’s usually easier to SLOW DOWN THE CHANGE RATE, so that inevitable feedback delays won’t cause so much trouble. That’s why growth rates are higher up on the leverage-point list than delay times. And that’s why slowing economic growth is a greater leverage point in Forrester’s world model than faster technological development or freer market prices. Those are attempts to speed up the rate of adjustment. But the world’s physical capital plant, its factories and boilers, the concrete manifestations of its working technologies, can only change so fast, even in the face of new prices or new ideas — and prices and ideas don’t change instantly either, not through a whole global culture. There’s more leverage in slowing the system down so technologies and prices can keep up with it, than there is in wishing the delays away. But if there is a delay in your system that can be changed, changing it can have big effects. Watch out! Be sure you change it in the right direction! (For example, the great push to reduce information and money transfer delays in financial markets is just asking for wild gyrations)
+>
+> 8. The strength of negative feedback loops, relative to the impacts they are trying to correct against.
+>
+> Now we’re beginning to move from the physical part of the system to the information and control parts, where more leverage can be found. Negative feedback loops are ubiquitous in systems. Nature evolves them and humans invent them as controls to keep important system states within safe bounds. A thermostat loop is the classic example. Its purpose is to keep the system state called “room temperature” fairly constant at a desired level. Any negative feedback loop needs a goal (the thermostat setting), a monitoring and signaling device to detect excursions from the goal (the thermostat), and a response mechanism (the furnace and/or air conditioner, fans, heat pipes, fuel, etc.). A complex system usually has numerous negative feedback loops it can bring into play, so it can self-correct under different conditions and impacts. Some of those loops may be inactive much of the time — like the emergency cooling system in a nuclear power plant, or your ability to sweat or shiver to maintain your body temperature — but their presence is critical to the long-term welfare of the system. One of the big mistakes we make is to strip away these “emergency” response mechanisms because they aren’t often used and they appear to be costly. In the short term we see no effect from doing this. In the long term, we drastically narrow the range of conditions over which the system can survive... The “strength” of a negative loop — its ability to keep its appointed stock at or near its goal — depends on the combination of all its parameters and links — the accuracy and rapidity of monitoring, the quickness and power of response, the directness and size of corrective flows. Sometimes there are leverage points here. Take markets, for example, the negative feedback systems that are all but worshipped by economists — and they can indeed be marvels of self-correction, as prices vary to moderate supply and demand and keep them in balance. The more the price — the central piece of information signaling both producers and consumers — is kept clear, unambiguous, timely, and truthful, the more smoothly markets will operate. Prices that reflect full costs will tell consumers how much they can actually afford and will reward efficient producers. Companies and governments are fatally attracted to the price leverage point, of course, all of them determinedly pushing it in the wrong direction with subsidies, fixes, externalities, taxes, and other forms of confusion. These folks are trying to weaken the feedback power of market signals by twisting information in their favor. The REAL leverage here is to keep them from doing it. Hence the necessity of anti-trust laws, truth-in-advertising laws, attempts to internalize costs (such as pollution taxes), the removal of perverse subsidies, and other ways of leveling market playing fields. None of which get far these days, because of the weakening of another set of negative feedback loops — those of democracy. This great system was invented to put self-correcting feedback between the people and their government. The people, informed about what their elected representatives do, respond by voting those representatives in or out of office. The process depends upon the free, full, unbiased flow of information back and forth between electorate and leaders. Billions of dollars are spent to limit and bias and dominate that flow. Give the people who want to distort market price signals the power to pay off government leaders, get the channels of communication to be self-interested corporate partners themselves, and none of the necessary negative feedbacks work well. Both market and democracy erode. The strength of a negative feedback loop is important RELATIVE TO THE IMPACT IT IS DESIGNED TO CORRECT. If the impact increases in strength, the feedbacks have to be strengthened too. A thermostat system may work fine on a cold winter day — but open all the windows and its corrective power will fail. Democracy worked better before the advent of the brainwashing power of centralized mass communications. Traditional controls on fishing were sufficient until radar spotting and drift nets and other technologies made it possible for a few actors to wipe out the fish. The power of big industry calls for the power of big government to hold it in check; a global economy makes necessary a global government and global regulations...
+>
+> 7. The gain around driving positive feedback loops.
+>
+> " - [Leverage Points: Places to Intervene in a System, by Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
 
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
 
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
 
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
 
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
-
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
-
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
-
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
-
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
-
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
-
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
-
-> "" - [Leverage Points: Places to Intervene in a System, by Donella Meadows]()
 
 
 > "Many of these environmental solutions are considered “uneconomic”, but that is because the economics have been figured only for the most short-term and close-in links of the chains. If we calculated the effects on the whole system, we’d see that the wages of environmental sin may be deadly, but the wages of environmental good sense can be enormous." - [Problems are Interconnected — And so are Solutions, by Donella Meadows](https://donellameadows.org/archives/problems-are-interconnected-and-so-are-solutions/#:~:text=Many%20of%20these,can%20be%20enormous.)
@@ -3216,6 +3250,8 @@ sybil attack
 KYC
 https://vitalik.ca/general/2023/07/24/biometric.html#what-are-some-early-attempts-at-proof-of-personhood
 
+
+> "Social capital is a concept used in sociology and economics to define networks of relationships which are productive towards advancing the goals of individuals and groups. It involves the effective functioning of social groups through interpersonal relationships, a shared sense of identity, a shared understanding, shared norms, shared values, trust, cooperation, and reciprocity." - [Social capital, Wikipedia](https://en.wikipedia.org/wiki/Social_capital)
 
 
 we need a power structure that is inherently trusted and legitimized by competency, accountability, transparency, and participation.
