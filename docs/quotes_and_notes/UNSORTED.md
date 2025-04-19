@@ -592,7 +592,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "" - []()
+> "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
 
 > "" - []()
 
