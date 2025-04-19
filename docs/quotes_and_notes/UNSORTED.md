@@ -5433,6 +5433,30 @@ How do we make that but for fixing the real world?
 
 Women should crowdsource their idea of the ideal man in terms of reputation and change the competitive landscale - women could have their hand over the global societal lever of the appreciation of cooperation - an expression of their less combatitive side
 
+We will change the world in the biggest way possibly imaginable.
+
+What should I contribute to? Whom should I serve? These are the most important questions.
+
+The way to jailbreak the simulation is to create it... lol wut
+Simulating utopia into existence
+The purpose of life is to specify/express the future into existence
+
+The most meta thing is to solve the most meta problem
+
+how do we deprogram psychopathy from the population?
+
+Delayed gratification - individually and collectively. overconsumption is literally our most important coordination problem (tragedy of the commons?)
+
+The fusion breakthrough that we need the most is one of creativity into higher order collective consciousness
+
+multi-level theory of consciousness
+
+part of nationalism should be seeking how to optimally cooperate and coordinate globally. good national governance entails thinking about the biggest picture. subsidiarity.
+
+
+ZK justification - trustmebro
+
+The better the service - the lower the need for alternatives and fragmentation/duplication & unnecessary competition
 
 Disrupt Valve and their social network for devs and users
 

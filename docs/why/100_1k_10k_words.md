@@ -18,6 +18,13 @@ The Alignment/God Protocol
 The Book of Synthesis
 Minimum Viable Infinity
 The Next Game
+Inevitability
+Decentralizing the WEF
+The Global Creativity Aggregator
+Information Wants to be Free
+Global Integration
+Integrated Collectives
+Cyber Governance
 The Reward/Generator Function
 The Riddle of Existence
 Game of Life 2.0
@@ -25,6 +32,7 @@ The Greatest Justification/Story Ever Told
 The Consciousness Guide to the Galaxy
 Multi Scale Competency Architecture
 Thermodynamic Integration/Optimization
+The Collective Thermodynamic Imperative
 HumanityOS
 Greater Than 1 - Peter Thiel gave us from 0 to 1, this is the apex meme with an R-naught greater than 1
 
@@ -39,6 +47,7 @@ Noah’s Arc from a time in between worlds
 
 Buy all of the domains for all the titles and let people browse it through their preferred domain - the one that resonates the most
 
+Let people vote/choose which should be the official name - based on what resonates the most and letting them participate in the naming of the next overarching paradigm for humanity
 
 # The Global Brain in 100, 1k & 10k words
 

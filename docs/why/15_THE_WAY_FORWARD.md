@@ -924,6 +924,8 @@ meme: Dad - what did you do - fucking legend - I helped revitalize civilization 
 > "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one." - [John Lennon](https://www.goodreads.com/quotes/1816-you-may-say-i-m-a-dreamer-but-i-m-not-the)
 
 > "The best way to predict your future is to create it." - [Abraham Lincoln](https://www.goodreads.com/quotes/328848-the-best-way-to-predict-your-future-is-to-create)
+^^ lol wut, isn't this a quote by Alan Kay?
+The best way to predict the future is to invent it
 
 > "You cannot escape the responsibility of tomorrow by evading it today." - [Abraham Lincoln](https://www.goodreads.com/quotes/32184-you-cannot-escape-the-responsibility-of-tomorrow-by-evading-it)
 
