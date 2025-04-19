@@ -423,6 +423,8 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 
 how to fund free books - relative to their popularity and recognition - in the commons
 
+in a truly open economy mergers and acquisitions (which lead to efficiency by reducing duplication and furthering economies of scale) don't need to be blocked or feared as monopoly wouldn't be a concern
+
 An open-source economy
 We must make transparency and openness pay
 
