@@ -1450,12 +1450,6 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 
 
-> "" - [Knowing one's place: a free-energy approach to pattern regulation, by Karl Friston, Michael Levin](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.1383)
-
-> "" - [Collective intelligence: A unifying concept for integrating biology across scales and substrates, by Patrick McMillen & Michael Levin](https://www.nature.com/articles/s42003-024-06037-4.pdf)
-
-> "" - [On Having No Head: Cognition throughout Biological Systems, by Michael Levin](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00902/full)
-
 > "" - [What Is Consciousness? Integrated Information vs. Inference, by James E. Cooke](https://www.mdpi.com/1099-4300/23/8/1032)
 
 > "" - [The living mirror theory of consciousness, by James E. Cooke](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=ZnbVkL0AAAAJ&citation_for_view=ZnbVkL0AAAAJ:eQOLeE2rZwMC)

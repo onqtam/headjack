@@ -500,6 +500,8 @@ We can EveOnlinify the whole economy
 >
 > In conclusion, a central regulator fails to be efficient for lack of computational capacity, which is required to handle the algorithmic complexity of a NP-hard optimization problem within large system in real-time. Applying the principle of the “homo economicus” on a local level, fails due to lack of coordination. In contrast, the approach of the other-regarding “homo socialis” can overcome both problems by combining self-organization with self-regulation. A self-regulation based on suitable local interactions can produce resource-efficient solutions delivering high system performance.23 These solutions also tend to be resilient to perturbations (such as accidents, road works, etc.). Again, the “homo socialis” can make the principle of the “invisible hand” work under conditions, where it fails for the independent optimization attempts of a “homo economicus” (see Fig. 7). Many of the above conclusions also seem to be relevant for socio-economic systems, when agents have incompatible interests that cannot be satisfied at the same time." - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
+CONTINUE FROM PAGE 16
+
 > "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)
 
 > "" - [Economics 2.0: The Natural Step towards A Self-Regulating, Participatory Market Society, by Dirk Helbing](http://arxiv.org/abs/1305.4078)

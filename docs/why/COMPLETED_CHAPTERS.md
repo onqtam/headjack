@@ -227,6 +227,9 @@ What are the top 10 things we should never forget? Or what's attractive in a par
 
 top 10 insights from any scientist
 
+top10 to read
+- [Leverage Points: Places to Intervene in a System, by Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+
 top 10 concept for life: tim urban's life calendar
 
 top 10 things I wish I knew earlier:

@@ -670,24 +670,23 @@ concluding remarks - game theory, rational choice theory
 > Both of these approaches are important, but assume that the coordination process is not purposeful. The adaptive or evolutionary approach is reminiscent of "invisible hand" explanations in that people do not purposefully coordinate; coordination "just happens" without anyone planning or even thinking about it. Focal points are usually understood as something given exogenously (e.g., Kreps 1990), despite Schelling's ([1960] 1980, p. 144; see also Calvert 1992) observation that "when there is no apparent focal point for agreement, [a person] can create one by his power to make a dramatic suggestion." The third approach, which we employ in this book, is to consider coordination as an active, purposeful process achieved through explicit communication (see Johnson 1993). Coordination is often achieved through adaptation and evolution, and implicit communication, but often people explicitly communicate...
 >
 > If we look at how people explicitly communicate in order to solve coordination problems, the issue of common knowledge immediately arises, from standard game theoretic reasoning as well as linguistic theories of meaning and strong commonsense intuitions. Looking at how common knowledge is formed in societies, one is necessarily drawn to communicative events that look like rituals: ceremonies, media events, and so forth. By associating common knowledge with cultural practices, this book suggests a close and reciprocal relationship between the perspectives of rationality and culture, which are often thought separate or even antagonistic. The idea of individual rationality, historically associated with atomistic market societies, can help in understanding cultural practices which seem to create social unity. The study of culture has long considered economic contexts; pursuing the logical consequences of "material" rationality, game theory finds culture." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
--->
-
-<!-- 
-> "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
--->
-
-
-
-
 
 
 > "Coordination dilemmas are found not just in everyday situations but in the conventions and norms that make complex societies possible. The challenge of coordination is coming to be recognized as one of the deepest puzzles in the human sciences, and it requires a special kind of reasoning about mental states that goes beyond representing others’ beliefs." - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 
 > "Humans are an unusually cooperative species, and our cooperation is of 2 kinds: altruistic, when actors benefit others at a cost to themselves, and mutualistic, when actors benefit themselves and others simultaneously. One major form of mutualism is coordination, in which actors align their choices for mutual benefit. Formal examples include meetings, division of labor, and legal and technological standards; informal examples include friendships, authority hierarchies, alliances, and exchange partnerships. Successful coordination is enabled by common knowledge: knowledge of others’ knowledge, knowledge of their knowledge of one’s knowledge, ad infinitum. Uncovering how people acquire and represent the common knowledge needed for coordination is thus essential to understanding human sociality, from large-scale institutions to everyday experiences of civility, hypocrisy, outrage, and taboo." - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 
-> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+> "Conclusion: The Strategic Logic of Social Interactions Shapes Human Social Psychology.
+>
+> We have presented 6 puzzles of social life and identified a phenomenon underlying them all: a sensitivity to common knowledge. Why should this logical distinction matter in so many social domains? We have suggested that insight may be found in the game theory of coordination dilemmas. As a highly social animal, humans have many opportunities to coordinate for mutual gain. Natural selection may have favored cognitive abilities that improved the ability to coordinate, just as it favors the ability to execute other fitness-critical social tasks, such as nurturing kin and trading favors. Game theory identifies the payoff structure that makes a social interaction a coordination dilemma, and implies that humans can most effectively coordinate if they are able to distinguish common knowledge from private and shared knowledge. It thereby ties together diverse social situations that conform to the logic of coordination, and predicts that in all of them we will find that people are attuned to the cues of common knowledge. The overall result is the distinctively human obsession with publicity, privacy, salience, secrecy, outrage, shame, hypocrisy, discretion, and taboo." - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
 
-> "" - [Common knowledge, coordination, and strategic mentalizing in human social life](https://stevenpinker.com/news/common-knowledge-coordination-and-strategic-mentalizing-human-social-life)
+
+> "Bullshit is also fragile--it relies on common knowledge to maintain--so it can collapse at any moment. Bullshit bubbles can burst pretty easily (assuming there’s not a state apparatus to prevent the bubble from bursting)." - [You Will Find This Interesting, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/you-will-find-this-interesting?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=17264686)
+-->
+
+
+
+
 
 
 ██████████████████████████████████████████████████████████████████
