@@ -864,8 +864,6 @@ traditionally supply is explicit and can be pointed to, while demand is implicit
 
 
 
-> "" - [Optimal incentives for collective intelligence](https://www.pnas.org/doi/abs/10.1073/pnas.1618722114)
-
 
 
 
@@ -1039,6 +1037,66 @@ all intelligence is collective intelligence
 
 
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Incentive Design
+██████████████████████████████████████████████████████████████████
+
+> "How does society work? Five words or less: Behavior is determined by incentives... The particular arrangement of incentives across time, space, and causality is called an incentive structure.
+>
+> ... What about free will? It’s the ability to respond to our incentives. Being a good person? It’s having an incentive to behave in ways we call “good”—that is, wanting to win the virtue game... Let’s give this worldview a name. Let’s call it incentive determinism. Incentive determinism is obvious. It’s just a bunch of tautologies: we are who we are, we want what we want, and we do what we’re caused to do. And yet, barely anybody thinks this way. It’s a cold, alien way of thinking... We spend very little time discussing which incentive structures are the best, and tons of time talking about which sets of words are the right words and which sets of people are the right people. It’s why we write words at all: we think we’re the right people with the right words, and if we just say those words loudly enough, we’ll improve the world.
+>
+> ... People don’t like incentive determinism because it’s disorienting. It tells us that our single greatest obsession, likability, is a distraction. It’s bullshit—a destroyer of insight, an enemy of understanding. It plays no special role in explaining how the world works. All it does is give us the illusion of understanding—the feeling of superiority to our apparently unlikable rivals (another big incentive for us)—while leaving us in ignorance of the causal structure of the world.
+>
+> And that causal structure is everything. If there are powerful incentives to help others, then even “evil” people will help others. If there are powerful incentives to hurt others, then even “good” people will hurt others. In fact, if being a “good” person just means being strongly incentivized by others’ moral approval (i.e., really wanting to win the virtue game), then good people are more likely to hurt people when it wins them moral approval. The “good” members of ISIS are the ones who bravely volunteer to commit suicide bombings, and the “bad” members of ISIS are the ones who cravenly fail to make the ultimate sacrifice. People are only as good as their incentives.
+>
+> But maybe there’s a way out. Maybe figuring out how this all works—understanding the machinery of society—can, itself, change our incentive structures. Insight is a thing in the world that human primates evolved to want, at least sometimes.
+>
+> If there’s any hope to be found in this cold, alien view of the world, it’s this: the more we all become aware of our incentive structures, the more incentivized we will be to choose them wisely... If we're collectively aware of our incentive structures, and aware that others know that we're aware, then we have an incentive to pick one that makes everyone better off, so that people won't judge us as selfish. So the key is achieving widespread awareness, or common knowledge, of our incentive structures... we're trying to explain the part of reality that is not random. That is all we can do. And when we look at that part, incentives are everything.
+>
+> ... I don't see incentive determinism as a "theory" so much as a different way of thinking, or a useful conceptual framework. It's honestly just a way of activating a different part of the brain--the tool-use part--to understand society as a machine of moving parts. It's more of a metatheory, really, or a useful way of coming up with other theories. It can give rise to more specific theories about the incentive structures we face, and how they work, which can then be tested. Insofar as the theories it gives rise to are always false, then, sure, it's false. But given that incentive-based thinking lies at the heart of economics and much of social science (not to mention evolutionary biology), it seems like a pretty damn good metatheory and I don't know of a better one. I cannot even conceive a better one, to be honest." - [Incentives Are Everything, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/incentives-are-everything)
+
+
+The more we move away from biased ape/identity-based decisions and towards impartial mechanism design - the better
+
+We need to vote on mechanisms - not people
+
+post-chimp politics
+
+the highest leverage point
+
+Participatory incentive design
+
+> "The consequences of an act affect the probability of its occurring again." - [B. F. Skinner](https://www.goodreads.com/quotes/1054191-the-consequences-of-an-act-affect-the-probability-of-its)
+
+> "Men build society and society builds men." - [B. F. Skinner](https://www.goodreads.com/quotes/450985-men-build-society-and-society-builds-men)
+
+
+> "Scientific theories never dictate human values, but they can often cast new light on ethical issues. From a sexual selection viewpoint, moral philosophy and political theory have mostly been attempts to shift male human sexual competitiveness from physical violence to the peaceful accumulation of wealth and status. The rights to life, liberty, and property are cultural inventions that function, in part, to keep males from killing and stealing from one another while they compete to attract sexual partners." - [Geoffrey Miller](https://www.azquotes.com/quote/927979)
+
+
+
+
+## The Reward Function
+
+Niche construction describes how organisms can change their environment, creating a niche in which they fit, thus affecting their own selection.
+
+> "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
+You can just program society
+Programming the hive mind
+Moral programming - valence
+The real fine-tuning problem is about how we fine-tune society and its incentives - how do we program ourselves as a collective
+
+> "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
+
+> "Intelligence should be viewed as a physical process that tries to maximize future freedom of action and avoid constraints in its own future." - [Alex Wissner-Gross](https://youtu.be/ue2ZEmTJ_Xo?t=687)
+
+> "Collective intelligence is the ability of a group to perform more effectively than any individual alone. Diversity among group members is a key condition for the emergence of collective intelligence, but maintaining diversity is challenging in the face of social pressure to imitate one’s peers. Through an evolutionary game-theoretic model of collective prediction, we investigate the role that incentives may play in maintaining useful diversity. We show that market-based incentive systems produce herding effects, reduce information available to the group, and restrain collective intelligence. Therefore, we propose an incentive scheme that rewards accurate minority predictions and show that this produces optimal diversity and collective predictive accuracy. We conclude that real world systems should reward those who have shown accuracy when the majority opinion has been in error.
+>
+> ... We proposed a reward system, minority rewards, that incentivizes individual agents in their choice of which informational factors to pay attention to when operating as part of a group. This system rewards agents for both making accurate predictions and being in the minority of their peers or conspecifics. As such, it encourages a balance between seeking useful information that has substantive predictive value for the ground truth and seeking information that is currently underutilized by the group. Conversely, where the collective opinion is already correct, no rewards are offered, and therefore, no agent is motivated to change their strategy. Over time, therefore, agents are motivated to change their behavior only in ways that benefit collective accuracy.
+>
+> The poor performance of market rewards relative to a uniform unweighted allocation for n > 10 shows that a market reward system incentivizes herding behavior and suppresses useful diversity as illustrated by the equilibrium distribution in Fig. 3B. This result suggests that stock markets and prediction markets tend to systematically underweight a large pool of informational factors that are of limited predictive power individually but that can contribute powerfully to aggregate predictions if agents can be persuaded to pay attention to them. This finding sheds doubt on the accuracy of existing markets as a tool for aggregating dispersed knowledge to predict future profits or events and motivates additional work on how to design collectively more accurate market mechanisms. The relatively high performance of uniform allocations of attention supports work showing that models with equally weighted predictors can match or even improve on more closely fitted prediction models. The inclusion of all relevant predictors is often more important than determining their appropriate weights in making predictions; too much diversity is less harmful than too little, especially for complex problems.
+>
+> Incentives are a fundamental part of any effort to harness the potential of collective intelligence. In this paper, we have presented evidence that rewarding accurate minority opinions can induce near-optimal collective accuracy within a model of collective prediction. Therefore, to maximize the collective wisdom of a group, we suggest that individuals should not be rewarded simply for having made successful predictions or findings and also that a total reward should not be equally distributed among those who have been successful or accurate. Instead, rewards should be primarily directed toward those who have made successful predictions in the face of majority opposition from their peers. This proposal can be intuitively understood as rewarding those who contribute information that has the potential to change collective opinion, because it contradicts the current mainstream view. In our model, groups rapidly converge to an equilibrium with very high collective accuracy, after which the rewards for each agents become less frequent. We anticipate that, after this occurs, agents would move on to new unsolved problems. This movement would produce a dynamic system in which agents are incentivized to not only solve problems collectively but also, address issues where collective wisdom is currently weakest. Future work should investigate how our proposed reward system can be best implemented in practice from scientific career schemes to funding and reputation systems (33) to prediction markets and democratic procedures (34). We suggest experiments to determine how humans respond to minority rewards and additional theoretical work to determine the effects of stochastic rewards, agent learning, and finite group dynamics. In conclusion, how best to foster collective intelligence is an important problem that we need to solve collectively." - [Optimal incentives for collective intelligence](https://www.pnas.org/doi/abs/10.1073/pnas.1618722114)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -1702,14 +1760,6 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 > "The earth has grown a nervous system, and it's us." - [Daniel Dennett](https://www.azquotes.com/quote/630909)
 
 </p></details>
-
-## The Reward Function
-
-Niche construction describes how organisms can change their environment, creating a niche in which they fit, thus affecting their own selection.
-
-> "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
-
-> "Intelligence should be viewed as a physical process that tries to maximize future freedom of action and avoid constraints in its own future." - [Alex Wissner-Gross](https://youtu.be/ue2ZEmTJ_Xo?t=687)
 
 ## Noosphere
 

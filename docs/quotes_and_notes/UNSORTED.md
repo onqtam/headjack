@@ -2666,12 +2666,6 @@ resiliency! can survive internet partitioning like the Chinese firewall if the c
 
 we can vote and agree on what is acceptable and what is not - a big taxonomy of unacceptability - and then use that shared standard to rank online actions
 
-A participatory incentive design system for societies and our civilization
-
-Internet of people/influencers ==> internet of ideas
-
-the global brain in 1 sentence, 1000 words, 1 essay
-
 2 notifications? Show only one and save the other for later! pure evil... some apps do this...
 Are the apps working for you?
 We need to put the humans first
@@ -5582,11 +5576,6 @@ The hottest new programming paradigm is society's incentives.
 
 > "Who brainwashes the brainwashers?" - [Joscha Bach](https://x.com/Plinz/status/1895686775210983444)
 
-> "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
-You can just program society
-Programming the hive mind
-Moral programming - valence
-The real fine-tuning problem is about how we fine-tune society and its incentives - how do we program ourselves as a collective
 
 
 

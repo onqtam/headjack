@@ -1391,7 +1391,18 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "" - [The Big Man Mechanism: how prestige fosters cooperation and creates prosocial leaders, by Joseph Henrich, Maciej Chudek and Robert Boyd](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0013)
 
-> "" - [Intelligence as a planetary scale process](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
+> "When considering planetary intelligence as a CAS however we wish to ultilize John Holland’s emphasis on the role of boundaries and signals in their operation (Holland, 2012). Emergence establishes an upward and downward cascade of order in living systems (organelles, cells, organs, animal, community) and for Holland such systems were always characterized by a boundary that was self-establishing. Most importantly, a primary function of these boundaries was to recognize signals. The boundary has to know what to keep in/out and what to let in/out. Without such signal processing, the boundary is nothing more than an inanimate wall. Thus, information flows embedded with significance through self-maintained boundaries represent critical elements of life and its use of semantic information at different levels of organization.
+>
+> ... Autopoiesis means self-making or self-producing. An autopoietic system is a network of processes that recursively depend on each other for their own generation and realization. From this perspective, life is an autonomous system that is organizationally closed. Organizational closure means the individuality of a biological system is created by the system itself. Thus, living systems have the capacity to maintain their identities in spite of fluctuations and perturbations coming from without. In this view, life is a process of maintaining an identity from within. However, this unity is never static and can never be ‘durably secured’. The organism must always operationally reconstitute itself by maintaining the physiochemical and information processing capacities that constitute its own ‘going-on’. It must continually create the conditions for its own existence via metabolism. If the dynamic falters or stops, the organism dies.
+>
+> ... A succinct definition is given by Shettleworth (1993) who sees cognition as ‘the mechanisms by which animals acquire, process, store, and act on information from the environment’. A more extensive definition is given by Lyon (2015). Biological cognition is the complex of sensory and other information-processing mechanisms an organism has for becoming familiar with, valuing and interacting with its environment in order to meet existential goals, the most basic of which are survival (growth or thriving) and reproduction.
+>
+> ... While our current, early-Anthropocene phase displays key features of a planetary intelligence, e.g. an emergent CAS composed of multi-layered networks of semantic information flows, it appears to lack the critical characteristic of autopoietic selfmaintenance. Recall that a system will be autopoietic if it is both self-creating and self-maintaining. Self-maintenance requires operational closure such that the system can create the processes and products that are themselves necessary for maintaining those processes and products, thus allowing the system to persist. But by driving the coupled Earth systems beyond their safe-operating boundaries (i.e. a Holocene climate state), early-Anthropocene human activity is threatening/degrading, rather than maintaining, these processes and products. Thus, we might consider the current Earth state as representing an ‘immature’ technosphere in which the full suite of properties we would associate with planetary intelligence have yet to emerge." - [Intelligence as a planetary scale process](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/intelligence-as-a-planetary-scale-process/5077C784D7FAC55F96072F7A7772C5E5)
+
+Lynn Margulis
+‘the view of evolution as chronic bloody competition … dissolves before a new view of continual cooperation, strong interaction, and mutual dependence among life forms. Life did not take over the globe by combat, but by networking’ (Margulis and Sagan, 1986, p. 122).
+Margulis L and Sagan D (1986) Microcosmos: Four Billion Years of Evolution from Our Microbial Ancestors. Berkeley: University of California Press.
+https://doi.org/10.1525/9780520340510.
 
 > "" - [Bubble City - A Twitter Alternative Which is not a Social Medium](https://syntience.com/BubbleCity2.pdf)
 
@@ -1434,13 +1445,9 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [Towards a global participatory platform: democratising open data, complexity science and collective intelligence](https://link.springer.com/content/pdf/10.1140/epjst/e2012-01690-3.pdf)
 
-> "" - [Optimal incentives for collective intelligence](https://www.pnas.org/doi/abs/10.1073/pnas.1618722114)
-
 > "" - [Status: Insights from Organizational Sociology](https://sci-hub.se/10.1146/annurev-soc-071811-145503)
 
 > "" - [Friendship and the Banker's Paradox: Other Pathways to the Evolution of Adaptations for Altruism](https://www.researchgate.net/publication/232419330_Friendship_and_the_Banker's_Paradox_Other_Pathways_to_the_Evolution_of_Adaptations_for_Altruism)
-
-> "" - [Symbiotic Intelligence: self-organizing knowledge on distributed networks driven by human interaction](https://www.osti.gov/servlets/purl/663205)
 
 > "" - [On the Design of Hierarchies: Coordination versus Specialization](https://sci-hub.se/10.1086/431794)
 
@@ -1454,17 +1461,11 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - [The living mirror theory of consciousness, by James E. Cooke](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=ZnbVkL0AAAAJ&citation_for_view=ZnbVkL0AAAAJ:eQOLeE2rZwMC)
 
-> "" - [Stress sharing as cognitive glue for collective intelligences: A computational model of stress as a coordinator for morphogenesis](https://www.sciencedirect.com/science/article/pii/S0006291X2400932X)
-
 > "" - [Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales](https://www.mdpi.com/1099-4300/26/7/532)
 
 > "" - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
 
 > "" - [Theory of collective mind, by Garriy Shteynberg](https://for2812.rub.de/upload/file/1693389778_3579661f6c727a030d0c/ShteynbergHirsh_Echterhoff_CollectMind_TiCS2023.pdf)
-
-> "" - [Why Is Anything Conscious? by Michael Timothy Bennett & others](https://osf.io/preprints/osf/mtgn7_v1)
-
-> "" - [Symbol Emergence and The Solutions to Any Task, by Michael Timothy Bennett](https://arxiv.org/abs/2109.01281)
 
 > "" - [Merging Minds: The Conceptual and Ethical Impacts of Emerging Technologies for Collective Minds, by David Lyreskog](https://link.springer.com/article/10.1007/s12152-023-09516-3)
 
@@ -1498,9 +1499,11 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 
 
+Pickard G, et al. (2011) Time-critical social mobilization. Science 334:509–512.
 
+Conte R, et al. (2012) Manifesto of computational social science. Eur Phys J Spec Top 214:325–346.
 
-
+Helbing D (2016) Why we need democracy 2.0 and capitalism 2.0 to survive. Jusletter IT 2016:65–74.
 
 Gershenson, C. (2006). A general methodology for designing self-organizing systems. Technical Report 2005-05, ECCO.
 

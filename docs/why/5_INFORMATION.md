@@ -70,6 +70,9 @@ When all you have is language, it becomes the hammer and everything else a nail.
 
 There is no integration without complete deduplication of data and identities
 
+> "Two truths cannot contradict one another." - [Galileo Galilei](https://www.azquotes.com/quote/573723)
+
+
 ██████████████████████████████████████████████████████████████████
 <!-- # The need for structured data -->
 # SECTION: Structured data & machine readability
