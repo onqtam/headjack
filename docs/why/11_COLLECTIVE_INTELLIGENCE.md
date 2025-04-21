@@ -1776,6 +1776,8 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 >
 > " - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
 
+resource to read about the noosphere: [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Superorganism & integration

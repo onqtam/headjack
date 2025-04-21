@@ -5578,6 +5578,9 @@ The hottest new programming paradigm is society's incentives.
 
 
 
+> "Communism forgets that life is individual. Capitalism forgets that life is social, and the Kingdom of Brotherhood is found neither in the thesis of Communism nor the antithesis of Capitalism but in a higher synthesis. It is found in a higher synthesis that combines the truths of both." - [Martin Luther King, Jr.](https://en.wikipedia.org/wiki/Economic_democracy#:~:text=Dr.%20Martin%20Luther,truths%20of%20both%22.)
+
+
 
 > "We should all feel an obligation to tell stories about a human future that we actually want to be a part of." - [David Holz](https://x.com/DavidSHolz/status/1888838844046582113)
 
