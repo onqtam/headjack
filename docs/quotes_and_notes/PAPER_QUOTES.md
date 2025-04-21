@@ -1343,8 +1343,6 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "" - [Reputation helps solve the `tragedy of the commons'](https://sci-hub.se/10.1038/415424a)
 
-> "" - [Meaning and Intentionality = Information + Evolution, by Carlo Rovelli](https://www.semanticscholar.org/paper/Meaning-and-Intentionality-%3D-Information-%2B-Rovelli/6434010d3cf97619e842c317ae8493d031992271)
-
 
 > "The closer you come to true freedom of association, the closer you get to a world where everyone is a member of more or less the community they deserve." - [Archipelago and Atomic Communitarianism](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
 
@@ -1403,8 +1401,6 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 
 
-
-> "" - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
 
 > "" - [Distributing Cognition: from Local Brains to the Global Brain, by Clément Vidal](https://www.researchgate.net/publication/282284086_Distributing_Cognition_from_Local_Brains_to_the_Global_Brain)
 
