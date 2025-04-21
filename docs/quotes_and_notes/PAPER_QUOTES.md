@@ -1406,8 +1406,6 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "" - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
 
-> "" - [What is a worldview?, by Clément Vidal](https://web-archive.southampton.ac.uk/cogprints.org/6094/2/Vidal_2008-what-is-a-worldview.pdf)
-
 > "" - [Distributing Cognition: from Local Brains to the Global Brain, by Clément Vidal](https://www.researchgate.net/publication/282284086_Distributing_Cognition_from_Local_Brains_to_the_Global_Brain)
 
 > "" - [The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission](https://www.sciencedirect.com/science/article/abs/pii/S1090513800000714)
@@ -1528,7 +1526,9 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 
 
-
+Eliyahu Goldratt 23 developed the “theory of constraints" (TOC) providing tools for organizations to achieve their goals. It allows to map the logical structure of problems, which considerably help to make clear where disagreements appear.
+23 Eliyahu M. Goldratt, Jeff Cox, The Goal: A Process of Ongoing Improvement, North River Press, 1984. ;Lisa J. Scheinkopf, Thinking for a Change: Putting the Toc Thinking Processes to Use, CRC Press, 1999.
+[What is a worldview?, by Clément Vidal](https://web-archive.southampton.ac.uk/cogprints.org/6094/2/Vidal_2008-what-is-a-worldview.pdf)
 
 
 
