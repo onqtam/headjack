@@ -1348,9 +1348,41 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "The closer you come to true freedom of association, the closer you get to a world where everyone is a member of more or less the community they deserve." - [Archipelago and Atomic Communitarianism](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/)
 
-> "" - [What is a Singleton?, Nick Bostrom](https://www.fhi.ox.ac.uk/wp-content/uploads/singleton.pdf)
+> "In set theory, a singleton is a set with only one member, but as I introduced the notion, the term refers to a world order in which there is a single decision-making agency at the highest level. Among its powers would be (1) the ability to prevent any threats (internal or external) to its own existence and supremacy, and (2) the ability to exert effective control over major features of its domain (including taxation and territorial allocation).
+>
+> ... Yet another way in which a singleton could form is through convergent evolution, e.g. if it turns out that all sufficiently advanced individuals or cultures come to accept fundamentally the same values or goals. These common values in combination with all the individuals and cultures that embrace them would then be an “agency” in the broad sense intended here, and it would constitute a singleton.
+>
+> One could also imagine a singleton arising from the universal spread of a single self-enforcing moral code. The code might specify that agents should give preferential treatment to other agents that follow the code. If such a code becomes accepted by a sufficient number of agents, and if monitoring and enforcing compliance is sufficiently feasible, it might in the self-interest of agents who have not yet adopted the code to do so. This could lead to the code’s universal adoption. If the code is sufficiently prescriptive to result in effectively coordinated goal-oriented behavior at the level of world society, it would constitute a singleton.
+>
+> A singleton need not be monolithic. It could contain within itself an enormous variety of independent agents each pursuing their own disparate goals, just as is the case in a liberal democratic state. The goals and actions of the singleton could be decided by its inhabitants or their elected representatives.
+>
+> ... The concept of a singleton is thus much broader and more abstract than concept of a world government. A world government (in the ordinary sense of the word) is only one type of singleton among many.
+>
+> Nevertheless, all the possible singletons share one essential property: the ability to solve global coordination problems. Intelligent species that develop the capability to solve global coordination problems, such as those listed in the next section, may in the long run develop along very different trajectories than species that lack this capacity. This is what makes it useful to have a unifying concept for such a diverse set of structures.
+>
+> ... Singletons could be good, bad, or neutral. One reason for favoring the development of a singleton (of a good type) is that it would solve certain fundamental coordination problems that may be unsolvable in a world that contains a large number of independent agencies at the top level...
+>
+> ... A good singleton might deliberately maintain an internal ecology of different societies and regional diversity.
+>
+> ... Some types of singleton would incur a substantial cost in terms of additional layers of bureaucracy and resulting inefficiency. The magnitude of this cost, and whether it would be greater or smaller than the gains from coordination, depends on the nature of the singleton, its government structure and technology, and on the severity of coordination problems that can only be solved by a singleton.
+>
+> ... Historically, we have seen an overarching trend towards the emergence of higher levels of social organization, from hunter-gatherer bands, to chiefdoms, city-states, nation states, and now multinational organizations, regional alliances, various international governance structures, and other aspects of globalization. Extrapolation of this trend points to the creation of a singleton." - [What is a Singleton?, Nick Bostrom](https://www.fhi.ox.ac.uk/wp-content/uploads/singleton.pdf)
 
-> "" - [Driven by Compression Progress](https://arxiv.org/abs/0812.4360)
+> "I argue that data becomes temporarily interesting by itself to some self-improving, but computationally limited, subjective observer once he learns to predict or compress the data in a better way, thus making it subjectively simpler and more beautiful. Curiosity is the desire to create or discover more non-random, non-arbitrary, regular data that is novel and surprising not in the traditional sense of Boltzmann and Shannon but in the sense that it allows for compression progress because its regularity was not yet known. This drive maximizes interestingness, the first derivative of subjective beauty or compressibility, that is, the steepness of the learning curve. It motivates exploring infants, pure mathematicians, composers, artists, dancers, comedians, yourself, and (since 1990) artificial systems.
+>
+> ... Since short and simple explanations of the past usually reflect some repetitive regularity that helps to predict the future as well, every intelligent system interested in achieving future goals should be motivated to compress the history of raw sensory inputs in response to its actions, simply to improve its ability to plan ahead. A long time ago, Piaget already explained the explorative learning behavior of children through his concepts of assimilation (new inputs are embedded in old schemas—this may be viewed as a type of compression) and accommodation (adapting an old schema to a new input—this may be viewed as a type of compression improvement).
+>
+> ... There is one thing that is involved in all actions and sensory inputs of the agent, namely, the agent itself. To efficiently encode the entire data history, it will profit from creating some sort of internal symbol or code (e. g., a neural activity pattern) representing the agent itself. Whenever this representation is actively used, say, by activating the corresponding neurons through new incoming sensory inputs or otherwise, the agent could be called self-aware or conscious.
+>
+> ... In absence of external reward, or when there is no known way to further increase the expected external reward, our controller essentially tries to maximize true novelty or interestingness, the first derivative of subjective beauty or compressibility, the steepness of the learning curve. It will do its best to select action sequences expected to create observations yielding maximal expected future compression progress, given the limitations of both the compressor and the compressor improvement algorithm. It will learn to focus its attention and its actively chosen experiments on things that are currently still incompressible but are expected to become compressible / predictable through additional learning. It will get bored by things that already are subjectively compressible. It will also get bored by things that are currently incompressible but will apparently remain so, given the experience so far, or where the costs of making them compressible exceed those of making other things compressible, etc.
+>
+> ... Undoubtedly many derive pleasure and rewards from perceiving works of art, such as certain paintings, or songs. But different subjective observers with different sensory apparati and compressor improvement algorithms will prefer different input sequences. Hence any objective theory of what is good art must take the subjective observer as a parameter, to answer questions such as: Which sequences of actions and resulting shifts of attention should he execute to maximize his pleasure? According to our principle he should select one that maximizes the quickly learnable compressibility that is new, relative to his current knowledge and his (usually limited) way of incorporating / learning / compressing new data.
+>
+> ... many physicists invent experiments to create data governed by previously unknown laws allowing to further compress the data... The essence of science is to formally nail down the nature of compression progress achieved through the discovery of a new regularity. For example, the law of gravity can be described by just a few symbols.
+>
+> ... predictors and compressors are closely related. Any type of partial predictability of the incoming sensory data stream can be exploited to improve the compressibility of the whole.
+>
+> ... We pointed out that a surprisingly simple algorithmic principle based on the notions of data compression and data compression progress informally explains fundamental aspects of attention, novelty, surprise, interestingness, curiosity, creativity, subjective beauty, jokes, and science & art in general. The crucial ingredients of the corresponding formal framework are (1) a continually improving predictor or compressor of the continually growing data history, (2) a computable measure of the compressor’s progress (to calculate intrinsic rewards), (3) a reward optimizer or reinforcement learner translating rewards into action sequences expected to maximize future reward." - [Driven by Compression Progress](https://arxiv.org/abs/0812.4360)
 
 
 > "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
@@ -1404,8 +1436,6 @@ Lynn Margulis
 Margulis L and Sagan D (1986) Microcosmos: Four Billion Years of Evolution from Our Microbial Ancestors. Berkeley: University of California Press.
 https://doi.org/10.1525/9780520340510.
 
-> "" - [Bubble City - A Twitter Alternative Which is not a Social Medium](https://syntience.com/BubbleCity2.pdf)
-
 > "" - [Beyond Markets and States: Polycentric Governance of Complex Economic Systems, by Elinor Ostrom](https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf)
 
 > "" - [Dictatorship, democracy, and development, by Mancur Olson](https://sci-hub.se/10.2307/2938736)
@@ -1456,10 +1486,13 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 -->
 
 
+> "" - [Cognitive glue: stress sharing and memory anonymization holding together anatomical intelligence](https://thoughtforms.life/cognitive-glue-stress-sharing-and-memory-anonymization-holding-together-anatomical-intelligence/)
+
+
 
 > "" - [What Is Consciousness? Integrated Information vs. Inference, by James E. Cooke](https://www.mdpi.com/1099-4300/23/8/1032)
 
-> "" - [The living mirror theory of consciousness, by James E. Cooke](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=ZnbVkL0AAAAJ&citation_for_view=ZnbVkL0AAAAJ:eQOLeE2rZwMC)
+> "Figure 1. Entropy resistance entails Bayesian inference. A. The totality of physical reality is a single isolated system consisting of physical matter, represented as nodes in a network here. B. Living systems define themselves against the rest of reality by establishing a border in the form of a Markov blanket, a set of nodes that isolate the internal system from the external environment. C. The Markov blanket has sensory nodes that measure the potentially destructive forces that act on the system and active nodes that allow it to undertake behaviours that counteract these forces. In this way the Markov blanket is maintained such that the system within continues to exist. D. The physical dynamics that allow this process to occur can be described as reducing free energy within the system. Free energy reduction is equivalent to parts of the system internal to the Markov blanket acting as a model of the external events that account for the sensory evidence arriving at the Markov blanket. From the perspective of statistical physics, in order for living systems to exist they must infer the properties that exist in their external environment. This is the only way to estimate the nature of potentially destructive forces that might act on the system and thereby resist the fundamental tendency towards disorder." - [The living mirror theory of consciousness, by James E. Cooke](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=ZnbVkL0AAAAJ&citation_for_view=ZnbVkL0AAAAJ:eQOLeE2rZwMC)
 
 > "" - [Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales](https://www.mdpi.com/1099-4300/26/7/532)
 

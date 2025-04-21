@@ -24,6 +24,7 @@ The Global Creativity Aggregator
 Information Wants to be Free
 Global Integration
 Integrated Collectives
+The Singleton - not always an anti-pattern but crucial for solving global coordination problems
 Cyber Governance
 The Reward/Generator Function
 The Riddle of Existence
