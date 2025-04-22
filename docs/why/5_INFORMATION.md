@@ -70,7 +70,12 @@ When all you have is language, it becomes the hammer and everything else a nail.
 
 There is no integration without complete deduplication of data and identities
 
+we should deduplicate all expressions - even if worded differently, if the semantic meaning is the same it should all be deduplicated/integrated/organized
+
+Academia (and the world at large) is FULL of people saying basically the same thing over and over again with different words and being unable to find all the others that also think the same. And thus we are unable to properly credit the first people to come up with something new.
+
 > "Two truths cannot contradict one another." - [Galileo Galilei](https://www.azquotes.com/quote/573723)
+
 
 
 ██████████████████████████████████████████████████████████████████

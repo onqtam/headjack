@@ -1321,7 +1321,29 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 > "" - [Transcending the Rational Symbol System: how information and communication technology integrates science, art, philosophy and spirituality into a global brain, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TranscendingRSS.pdf)
 
-> "" - [The local prospect theory of subjective experience (working paper), by Francis Heylighen & Shima Beigi](https://cris.vub.be/ws/portalfiles/portal/115370906/ConsciousLocalFieldTheory_working_paper.pdf)
+
+
+> "Sensation and affect
+>
+> The more recent, biologically inspired, theories of the mind—based on notions such as autopoiesis (Bourgine & Stewart, 2004; Heylighen & Busseniers, 2023; Maturana & Varela, 1980), enaction (Colombetti, 2010; Thompson, 2005), and embodied cognition (Clark, 1998; Johnson, 2008)—do not see representation as the primary function of cognition. They interpret cognition as a means that has evolved for an organism to deal with the challenges that it encounters. In a variable environment, organisms must constantly adapt to new conditions, exploiting opportunities such as food or mates, while evading dangers. That requires that they sense the specific condition, interpret it in term of their goals or values, and take appropriate action so as achieve these goals.
+>
+> The implicit goal of any living system is survival, growth, and reproduction— i.e. fitness. That is achieved through autopoiesis: the organism’s processes produce the different components that make up its network of processes. This metabolic cycle is characterized by self-maintenance: whatever is consumed by some process must be produced again by some other process, so that the metabolism can continue running. Preserving this cycle against any perturbations that threaten to destroy it can be seen as the most fundamental goal of any living system (Heylighen, 2022). In previous work, we have analyzed the origin of goal-directedness (and thus of life) as the emergence of a such a network of reactions that is resilient, i.e. able to bounce back after it has been driven out of its self-maintaining organization by perturbations (Heylighen et al., 2022; Heylighen & Busseniers, 2023).
+>
+> Goal-directedness can be defined as the ability of the system to reach the same end state (goal) starting from a variety of initial states: equifinality (Bertalanffy, 1969; Heylighen, 2022; Lyman, 2004). That means that whenever the system senses some deviation from its ideal state or goal, it must perform some compensating action that neutralizes that deviation, i.e. that drives the system (back) to its goal state. The function of cognition is then to accurately identify deviations and to select appropriate counteractions. That requires a rudimentary form of perception (what are the present conditions?), sense-making (what do these conditions mean in terms of goals and actions?), and knowledge (what actions are appropriate for these conditions?).
+>
+> From this perspective, cognition is intrinsically subjective: it functions to safeguard the life of a particular subject, the organism. That means that it does not care about the objective properties or components of the environment, but only about those environmental processes that can affect its internal, autopoietic functioning. Cognition is also enactive: its function is not to build some static, independent representation of the environment, but to guide the interactions between the system and its environment. Such interaction consists of perception (sensed input to the system) and action (output of the system affecting the environment), and the continuing feedback loops that connect the two." - [The local prospect theory of subjective experience, by Francis Heylighen & Shima Beigi](https://cris.vub.be/ws/portalfiles/portal/115370906/ConsciousLocalFieldTheory_working_paper.pdf)
+
+regarding GWT
+
+> "One of the empirically bestsupported model of consciousness is the global (neuronal) workspace model. It assumes that conscious processes are “broadcasted” across a central network of neurons that interconnects various brain regions, so that these regions have access to this shared forum where they can exchange data. This broadcast requires a sustained pattern of strong, circulating activation that is described as “reverberation”. The idea is that activation that starts circulating in this global workspace becomes self-reinforcing. This non-linear process amplifies the initial activation, leading to the “ignition” of an extended network with a strong, recurrent activation. The function of this self-sustaining process is to maintain the pattern sufficiently long in working memory, so that other brain modules can work with it. The problem with neuronal activation is that it necessarily propagates, moving on to new regions. Neurons do not spontaneously remain activated: they pass on their action potentials to their output neurons. The only way to sustain a pattern of activation is to continuously recreate it, by cycling activation from later neurons back to the neurons where the process initiated. While activation is circulating in this way, the pattern remains available for scrutiny or intervention by other modules in the brain. These will receive activation from the on-going reverberation and/or send their own activation to add to it. This can be seen as the essence of access consciousness: while the pattern is temporarily maintained in working memory, other processes can access it and have the time to “work” with its content by adding or subtracting (inhibiting) activation from the pattern. Thus, the circulating pattern can adapt to ongoing inputs and outputs from various other brain regions." - [The local prospect theory of subjective experience, by Francis Heylighen & Shima Beigi](https://cris.vub.be/ws/portalfiles/portal/115370906/ConsciousLocalFieldTheory_working_paper.pdf)
+
+> "Conclusion
+>
+> We have proposed a novel theory explaining what subjective experience is, and what function it fulfills. Subjective experience or phenomenal consciousness can be understood as the local prospect that gives meaning to perceived or conceived situations, thus guiding our interaction with them. In the brain, that prospect appears like a halo or “fringe” of associations, potentials or expectations that surround the core focus of attention. That core, which represents the items explicitly considered in access consciousness, can be understood as an adaptive resonance, i.e. a circulating, to some degree stabilized pattern of activation, temporarily maintained in working memory. The function of the halo, i.e. of subjective experience, is to provide a local prospect of potential further developments, thus offering the core consciousness a range of possibilities from which to choose the next step.
+>
+> That prospect is not an objective depiction of more or less probable states, but a subjectively colored or affective view, highlighting options with particularly high or low valence. That is because experience is fundamentally a biological mechanism, which has evolved to efficiently guide the organism towards fitness-enhancing goal states. The local prospect it provides combines the two essential properties we associate with volition or agency: freedom, because it offers a choice between possibilities, and goal-directedness or intentionality, because possibilities are not equal, but indicated by implicit values and expectations.
+>
+> We suggested that the eventual choice is made through a process akin to a discussion between different modules in the “society of mind”: the core activation of the resonance, via the surrounding prospect, spreads to different brain circuits, representing different affects, values and cognitions. These send some activation back, thus reinforcing some while weakening other elements of the prospect. In addition, new activation enters through the senses. This is a highly complex, nonlinear process whose outcome is typically unpredictable, though not intrinsically impossible to model. The result is that the resonance shifts, generating a new local prospect of potential next choices." - [The local prospect theory of subjective experience, by Francis Heylighen & Shima Beigi](https://cris.vub.be/ws/portalfiles/portal/115370906/ConsciousLocalFieldTheory_working_paper.pdf)
 
 
 
@@ -1338,6 +1360,26 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 
 > "" - [Rationality and Relevance Realization, by Anna Riedl and John Vervaeke](https://osf.io/preprints/osf/vymwu_v1)
+
+
+
+
+
+on attribution error
+
+> "[Lee] Ross coined the term “the fundamental attribution error” in 1977, in a paper that became a landmark in social psychology. The basic idea was pretty simple: When we're explaining the behavior of other people, we tend to put too much emphasis on “disposition”—on their character, their personality, their essential nature. And we tend to put too little emphasis on “situation”—on the circumstances they find themselves in.
+>
+> ... regular readers know that by “cognitive empathy” I don’t mean “feeling their pain.” That’s emotional empathy. I just mean seeing how things look from another person’s point of view: perspective taking.
+>
+> I believe that one of the most common reasons people and groups of people fail to solve non-zero-sum problems—fail to reach an arrangement that’s good for both parties, and instead get stuck in a lose-lose situation—is that they don’t see how things look from the other side. I also believe that the world is in deep trouble if nations don't solve the more consequential of the non-zero-sum problems they face, ranging from environmental challenges to arms control challenges to disease control challenges to whole new kinds of technological challenges.
+>
+> It follows that—as I see the world, at least—big impediments to cognitive empathy are a grave threat to the planet. And attribution error may be the biggest impediment there is. Obviously, if you’re blind to the way circumstance shapes someone’s behavior it’s going to be hard to really appreciate how the world looks to them.
+>
+> Could more awareness of attribution error actually make people better at cognitive empathy? Not in an easy, automatic way. Attribution error is a “cognitive bias,” and there’s good reason to think it was engineered by natural selection for that purpose - to bias our view of the world, to distort our perception. And a well-engineered bias can be pretty stubborn in its tendency to fool people into thinking they’re seeing things clearly when they’re not.
+>
+> Still, I do think that cognitive empathy can be cultivated. And I do think awareness of attribution error, of our tendency in most situations to downplay the role of circumstance, can help us cultivate it." - [Ode to a world-saving idea, by Robert Wright](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
+
+
 
 > "" - [The Information Theory of Individuality](https://arxiv.org/abs/1412.2447)
 
@@ -1502,19 +1544,46 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 
 
-> "" - [What Is Consciousness? Integrated Information vs. Inference, by James E. Cooke](https://www.mdpi.com/1099-4300/23/8/1032)
 
 > "Figure 1. Entropy resistance entails Bayesian inference. A. The totality of physical reality is a single isolated system consisting of physical matter, represented as nodes in a network here. B. Living systems define themselves against the rest of reality by establishing a border in the form of a Markov blanket, a set of nodes that isolate the internal system from the external environment. C. The Markov blanket has sensory nodes that measure the potentially destructive forces that act on the system and active nodes that allow it to undertake behaviours that counteract these forces. In this way the Markov blanket is maintained such that the system within continues to exist. D. The physical dynamics that allow this process to occur can be described as reducing free energy within the system. Free energy reduction is equivalent to parts of the system internal to the Markov blanket acting as a model of the external events that account for the sensory evidence arriving at the Markov blanket. From the perspective of statistical physics, in order for living systems to exist they must infer the properties that exist in their external environment. This is the only way to estimate the nature of potentially destructive forces that might act on the system and thereby resist the fundamental tendency towards disorder." - [The living mirror theory of consciousness, by James E. Cooke](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=ZnbVkL0AAAAJ&citation_for_view=ZnbVkL0AAAAJ:eQOLeE2rZwMC)
+
+
+
+> "" - [What Is Consciousness? Integrated Information vs. Inference, by James E. Cooke](https://www.mdpi.com/1099-4300/23/8/1032)
+
+
+
 
 > "" - [Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales](https://www.mdpi.com/1099-4300/26/7/532)
 
 > "" - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
 
-> "" - [Theory of collective mind, by Garriy Shteynberg](https://for2812.rub.de/upload/file/1693389778_3579661f6c727a030d0c/ShteynbergHirsh_Echterhoff_CollectMind_TiCS2023.pdf)
+> "... experiencing information synchronously yields the cognitive amplification of shared information, a mild increase in social bonding, and increases in cooperation when it benefits the individual. Additionally, synchronous arrival of information about ‘our’ common mental state through verbal communication and/or mutual eye gaze yields greater epistemic certainty about that mental state, a strong increase in social bonding, and greater cooperation when it benefits the group. In all, synchronous co-experiences yield cognitive, affiliative, and cooperative outcomes that are consistent with the idea that such co-experiences foster collective mind representations.
+>
+> ... It is possible that greater confidence in sharing a common objective reality yields mild increases in psychological closeness, because future cooperation is more likely to succeed.
+>
+> ... successful communication exchanges, even as minimal as communicative eye contact, can create representations of collective metacognition that subsequently increase cooperative behavior and decision-making." - [Theory of collective mind, by Garriy Shteynberg](https://for2812.rub.de/upload/file/1693389778_3579661f6c727a030d0c/ShteynbergHirsh_Echterhoff_CollectMind_TiCS2023.pdf)
 
-> "" - [Merging Minds: The Conceptual and Ethical Impacts of Emerging Technologies for Collective Minds, by David Lyreskog](https://link.springer.com/article/10.1007/s12152-023-09516-3)
 
-> "" - [In Defence of the Hivemind Society, by John Danaher and Steve Petersen](https://philarchive.org/rec/DANIDO-10)
+
+
+> "2. What is a Hivemind Society?
+>
+> For our purposes, we can distinguish two kinds of hiveminds. In the broad sense, a hivemind society is one in which individual agents together form a further agent of some moral significance (the “collective” or, as we prefer, the “hivemind”). As we will see, in this broad sense, we are all plausibly already participating in many such minor hiveminds. In the narrow sense, a hivemind society is one in which what otherwise might have been independent agents have no moral value of their own; the agents have “dissolved” into the collective, and are not recoverable as separate entities from the collective. Though it is useful to separate these notions, we are inclined to think there is not in fact a sharp line between these types of hiveminds. The question is really one of degree: to what extent are potentially independent agents merged with a collective, and to what extent has the moral emphasis shifted from the merging agents to the merged agent? The idea that the distinction between a hivemind society and an individualist society is not a sharp or precise one might strike some readers as frustratingly vague or imprecise but we believe that this emphasis on degrees of difference is both metaphysically accurate and, as will become clear, something that can be used to encourage people to take a different perspective on the axiology of hivemind societies: because some of us are, in the broad sense, already tending towards or participating in hivemind-ish societies we can at least be open to the possibility of going further in this direction.
+>
+> ...
+>
+> 3. Why we Should be Open to the Hivemind Society
+>
+> The first argument can be thought of as a warm-up. It is not intended to prove the desirability of a hivemind society. It is, rather, intended to loosen the imaginative constraints that typically confront people when thinking about the idea of a hivemind society. One of those constraints, felt particularly strongly in Western liberal societies, is that we are currently committed to a kind of individualist moral framework, one in which individuals are the primary and most important locus of moral significance. This is not to say that we are ideologically pure individualists. As we shall point out below, there are anti-individualist, pro-hivemind features of our current moral views, and there are communities and cultures around the world that embrace a more communitarian, anti-individualist outlook. Nevertheless, individualism does seem to be dominant in Western, liberal societies, and the commitment to individualism is often reflected in both moral practices and legal norms of those communities. To free us from the constraints of an individualist outlook, the first argument encourages us to first adopt a principle of axiological openness, i.e. a willingness to consider and experiment with different moral possibilities, and then apply that principle to the possibility of a hivemind society.
+>
+> The principle of axiological openness is a form of historical common sense. We know that moral norms and preferences have shifted many times over the course of human history. If you were a white man living in a European society in the late 1700s it is likely that you would have endorsed slavery and colonialism, thought that women should be denied the legal rights of men, favoured capital punishment and legal torture, and judged homosexuality to be morally abhorrent. While the remnants of these attitudes linger to this day, the radical shift in the moral consensus on these matters since the late 1700s has been remarkable. Very few people openly endorse any of these beliefs today. And this is just a single example of a radical moral shift over time. If we look to other societies and countries, and look deeper into antiquity, the fact of moral change seems undeniable. This should encourage greater humility and uncertainty when it comes to our commitment to our currently favoured set of axiological possibilities...
+>
+> ... The second reason is that, in the full scope of human history and cultural variation, the centrality of individualism to our axiological worldview is a relatively recent, and somewhat localised development. In his history of European moral philosophy, The Invention of Autonomy (1998), JB Schneewind carefully and meticulously documents how the current Western commitment to the moral importance of the individual is something that evolved slowly, over the course of several centuries, not something that was always present. Larry Siedentop, in his book Inventing the Individual tells a similar story, describing in particular how Ancient (pre-Socratic) Greek societies did not place the individual at the centre of their morality, instead giving pride of place to the family and the state. These are not unfamiliar worldviews to us even today: various forms of nationalism and communitarianism still strive for our attention. Furthermore, there is at least one major world religion—Buddhism—which is known to favour the view that there is no self in the sense traditionally conceived by Western individualist thought (Flanagan 2017), and which sees the denial of the self as a pathway to Enlightenment. Although there are different interpretations of exactly what the ‘No Self’ doctrine means, Monima Chadha argues that one leading version of it (the Abhidharma tradition) rejects both the idea of an extended narrative self and a self with any degree of agency and ownership over its actions (Chadha 2017 & 2018). All of these examples suggest that humans are not welded to an individualistic ethos, and so we should be at least open to the possibility of axiological alternatives to individualism...
+>
+> 4. Why the Hivemind is Desirable
+>
+> " - [In Defence of the Hivemind Society, by John Danaher and Steve Petersen](https://philarchive.org/rec/DANIDO-10)
 
 > "" - []()
 
@@ -1544,6 +1613,7 @@ Eliyahu Goldratt 23 developed the “theory of constraints" (TOC) providing tool
 23 Eliyahu M. Goldratt, Jeff Cox, The Goal: A Process of Ongoing Improvement, North River Press, 1984. ;Lisa J. Scheinkopf, Thinking for a Change: Putting the Toc Thinking Processes to Use, CRC Press, 1999.
 [What is a worldview?, by Clément Vidal](https://web-archive.southampton.ac.uk/cogprints.org/6094/2/Vidal_2008-what-is-a-worldview.pdf)
 
+book: Group Agency (List and Pettit 2011)
 
 Bednar J and Page SE (2016) Complex adaptive systems and comparative politics: modeling the interaction between institutions and culture. Chinese Political Science Review 1, 448–471.
 
@@ -1586,8 +1656,6 @@ Coenen T. (2006) Knowledge sharing over social networking systems ECCO working p
 http://homepages.vub.ac.be/~tcoenen/thesis.pdf
 
 Martens B. (2004) The Cognitive Mechanics of Economic Development and Institutional Change, Routledge
-
-Rodriguez, M.A (2007) Social Decision Making with Multi-Relational Networks and Grammar-Based Particle Swarms, in: 2007 Hawaii International Conference on Systems Science (HICSS) IEEE Computer Society
 
 Kostakis, Vasileios, Wolfgang Drechsler, Diego Gonzalez & Ishan Shapiro. no date. “The
 emergence of open value network: Measuring value and distributing revenue in peer
