@@ -393,6 +393,10 @@ reinforcement:
 
 > "To he who hath it shall be given; from he who hath not even what he hath shall be taken away." - [Jesus, Matthew 13:12, 25:29](https://www.biblegateway.com/passage/?search=Matthew%2013%3A12%2CMatthew%2025%3A29&version=NIV)
 
+
+> "A classical learning mechanism is reinforcement, which underlies the more complex mechanism of back propagation in neural networks. Reinforcement strengthens neural connections that contribute to achieving the organism's goals, while weakening those that move it away from those goals." - [The Economy as a Distributed, Learning Control System, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/MarketControl.pdf)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Neuron
 You’re a Neuron
