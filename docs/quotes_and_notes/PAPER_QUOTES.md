@@ -1398,6 +1398,8 @@ on attribution error
 
 > "" - [The Information Theory of Individuality](https://arxiv.org/abs/1412.2447)
 
+
+
 > "" - [Reputation helps solve the `tragedy of the commons'](https://sci-hub.se/10.1038/415424a)
 
 
@@ -1459,7 +1461,19 @@ on attribution error
 
 
 
-> "" - [Distributing Cognition: from Local Brains to the Global Brain, by Clément Vidal](https://www.researchgate.net/publication/282284086_Distributing_Cognition_from_Local_Brains_to_the_Global_Brain)
+> "We can distinguish four stages of information processing (Heylighen 2013): input, processing, output and feedback. For a system to be intelligent, it must perform these stages as well as possible. The stages can be summarized as follows:
+>
+> 1) input is intelligence as information collection
+>
+> 2) processing is intelligence as interpretation and problem solving
+>
+> 3) output is intelligence as efficient and relevant action
+>
+> 4) feedback is intelligence as capacity to learn
+>
+> ... Heylighen adds that each of “these functions can be performed in principle either in a distributed or in a centralized manner.”..." - [Distributing Cognition: from Local Brains to the Global Brain, by Clément Vidal](https://www.researchgate.net/publication/282284086_Distributing_Cognition_from_Local_Brains_to_the_Global_Brain)
+
+
 
 > "" - [The evolution of prestige: freely conferred deference as a mechanism for enhancing the benefits of cultural transmission](https://www.sciencedirect.com/science/article/abs/pii/S1090513800000714)
 
@@ -1629,6 +1643,10 @@ Eliyahu Goldratt 23 developed the “theory of constraints" (TOC) providing tool
 [What is a worldview?, by Clément Vidal](https://web-archive.southampton.ac.uk/cogprints.org/6094/2/Vidal_2008-what-is-a-worldview.pdf)
 
 book: Group Agency (List and Pettit 2011)
+
+Vidal, C., F. Heylighen, and D. Weinbaum. 2013. “Evolutionary Psychology of the Global Brain and FuturICT”. European Conference on Complex Systems presented at the Satellite Meeting “Global Computing for our Complex Hyper-connected World,” Barcelona, September 19.
+http://prezi.com/pv9t6-ndmyy6/eccs-2013-evolutionary-psychology-ofthe-global-brain-and-futurict/
+
 
 Bednar J and Page SE (2016) Complex adaptive systems and comparative politics: modeling the interaction between institutions and culture. Chinese Political Science Review 1, 448–471.
 
