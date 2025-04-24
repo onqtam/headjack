@@ -399,6 +399,7 @@ TODO: relisten and take notes from it - daniel: we need to model ourselves as na
 
 
 
+> "In essence, the meaning of life is to increase evolutionary fitness." - [Foundations and Methodology for an Evolutionary World View: a review of the Principia Cybernetica Project, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/PCPworldview-FOS.pdf)
 
 
 

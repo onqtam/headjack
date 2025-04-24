@@ -1533,20 +1533,38 @@ on attribution error
 > ... We pointed out that a surprisingly simple algorithmic principle based on the notions of data compression and data compression progress informally explains fundamental aspects of attention, novelty, surprise, interestingness, curiosity, creativity, subjective beauty, jokes, and science & art in general. The crucial ingredients of the corresponding formal framework are (1) a continually improving predictor or compressor of the continually growing data history, (2) a computable measure of the compressor’s progress (to calculate intrinsic rewards), (3) a reward optimizer or reinforcement learner translating rewards into action sequences expected to maximize future reward." - [Driven by Compression Progress](https://arxiv.org/abs/0812.4360)
 
 
-> "" - [A Tale of Challenge, Adventure and Mystery: towards an agent-based unification of narrative and scientific models of behavior, by Francis Heylighen](http://pcp.vub.ac.be/Papers/TaleofAdventure.pdf)
-
 
 > "" - [Foundations for a Mathematical Model of the Global Brain: architecture, components, and specifications, by Francis Heylighen & others](http://pespmc1.vub.ac.be/Papers/TowardsGB-model.pdf)
-
-> "" - [Fitness as default: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
-
-> "" - [Social Systems Programming: Behavioral and Emotional Mechanisms Co-opted for Social Control](http://pespmc1.vub.ac.be/Papers/SSP2mechanisms.pdf)
-
 > "" - [Complexity and Evolution, by Francis Heylighen](https://cris.vub.be/ws/portalfiles/portal/67389235/Complexity_Evolution.pdf)
+> "" - [Fitness as default: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
+TODO INTERNET ^^
+
+
+
+
+> "Social systems, such as nations, organizations and religions, exert an immense power on the behavior of the individuals that participate in them. Most of the actions we perform on any given day are either directly prescribed by social systems, or largely constrained, inspired or sanctioned by them. Our beliefs, thoughts and emotions are to an important extent determined by the norms, culture and morals that we acquired via processes of education, socialization and communication. These norms, once assimilated by the individual, powerfully control the behavior of the people that participate in the social system, up to the point that they are willing to kill others or themselves in order to uphold these norms—as illustrated most poignantly by the phenomenon of suicide terrorism. Few people dare to question such socially imposed rules. Even fewer people are aware that these rules are the product of a to some degree arbitrary process of social construction, which reduces reality to a limited system of selective categories and associated behaviors...
+>
+> Social systems can be understood as autopoietic networks of distinctions and rules that govern the interactions between individuals... The distinctions structure reality into a number of socially sanctioned categories or conditions, while ignoring phenomena that fall outside these categories. The rules specify how individuals should act under the thus specified conditions. Thus, a social system can be modelled as a network of condition-action rules that directs the behavior of individual agents. These rules have developed through the differential reinforcement of certain types of social actions, and the suppression of others. The process that stabilizes certain rules but not others is a form of distributed self-organization in which the distinctions and actions made by different individuals adapt the one to the other, until they form a closed system of coordinated, mutually aligned symbols, concepts and rules.
+>
+> This means that the actions or communications observing these rules engender actions that themselves observe these same rules. In other words, the system of social actions or communications perpetually reinforces and reproduces itself. It is closed in the sense that it does not generate actions following rules that are not part of the system; it is self-maintaining in the sense that all actions obeying rules that are defining parts of the system are eventually produced again. This property of recursive self-production is known as autopoiesis. It turns the social system into an autonomous, organism-like agent, with its own identity that separates it from its environment through some symbolic boundary. This identity or “self” is preserved by the processes taking place inside the system. Through interactions, the system is structurally coupled with its outside or “non-self”. The “non-self” influences that endanger the system’s autopoiesis are interpreted as perturbations that must be compensated or counteracted, so as to ensure the continuing survival of the system.
+>
+> Such self-perpetuating identity is an emergent property of the system, i.e. a property that cannot be reduced to the properties of the system’s components (interactions between individuals), but that arises from the way these components are organized into a whole. This emergent constraint now to some degree prescribes the behavior of the components, through a mechanism known as downward causation. A simple example of such an emergent (but not necessarily social) system is a language: a collection of distinctions, words and grammatical rules that tells individuals how they should formulate their communications. This system has self-organized out of distributed interactions, with the result that no individual human has the power to change its rules or to ignore its prescriptions.
+>
+> From this perspective, the human beings who participate in autopoietic social systems are merely a resource exploited by the system for its own perpetuation. While the system needs these individuals to continue performing the social actions that constitute its identity, it does not a priori care for their well-being. Therefore, a social system in some sense behaves like a parasite, extracting resources (social activities) from these individuals without necessarily returning the favor. Of course, social systems also bring benefits to the people whose actions they direct. In general, the relation between the two types of autopoietic agents, human individuals and social systems, is one of co-evolution, mutual adaptation or symbiosis, where the one to some degree benefits from the other. For example, individuals profit from social systems because the latter typically help them to coordinate their actions and to prevent free riding and within-group conflicts.
+>
+> ... the phenomena we perceive, conceive and distinguish are to a large extent dependent on the categorizations and judgments sanctioned by the social system. In linguistics, this has been formulated as the Sapir-Whorf hypothesis: what we perceive is to some degree dependent on the words our culture provides to describe what we perceive. More fundamentally, what we think and understand is largely dependent on the concepts and categories provided by the social systems, and by the rules that say which category is associated with which other category of expectations or actions." - [Social Systems Programming: Behavioral and Emotional Mechanisms Co-opted for Social Control](http://pespmc1.vub.ac.be/Papers/SSP2mechanisms.pdf)
+
+
+
+Heylighen, F., Lenartowicz, M., Kingsbury, K., Harmsen, T., & Beigi, S. (2017). Social Systems Programming: The Selforganization of Socially Constructed Distinctions and Rules (ECCO Working Papers 2017-06). Retrieved from
+http://134.184.131.111/Papers/SSP1.pdf
+TODO INTERNET ^^
+
 
 > "" - [The meaning and origin of goal-directedness: a dynamical systems perspective, by Francis Heylighen](https://cris.vub.be/ws/files/84393768/Goal_DirectednessBJLS_final.pdf)
 
-> "In essence, the meaning of life is to increase evolutionary fitness." - [Foundations and Methodology for an Evolutionary World View: a review of the Principia Cybernetica Project, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/PCPworldview-FOS.pdf)
+
+
 
 
 
