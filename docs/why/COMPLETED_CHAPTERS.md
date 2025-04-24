@@ -27,6 +27,8 @@ Interactive AI-driven argument map explorer/explainer
 
     Iandoli, L., M. Klein, and G. Zollo, Enabling on-line deliberation and collective decision-making through large-scale argumentation: a new approach to the design of an Internet-based mass collaboration platform. International Journal of Decision Support System Technology, 2009. 1(1): p. 69-91.
 
+    Klein, M. (2011). How to Harvest Collective Wisdom on Complex Problems: An Introduction to the MIT Deliberatorium. CCI working paper.
+
     Klein, M., A Knowledge-Based Methodology for Designing Reliable Multi-Agent Systems, in Agent-Oriented Software Engineering IV, P. Giorgini, J.P. Mueller, and J. Odell, Editors. 2003, Springer-Verlag. p. 85 - 95.
 
 

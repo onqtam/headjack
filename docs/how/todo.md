@@ -552,11 +552,6 @@ OMGOMGOMG use the UTXO model for parallel processing
 https://twitter.com/eshita/status/1546911467936440320
 
 
-
-
-https://twitter.com/jon_charb/status/1555403452485861377
-https://members.delphidigital.io/reports/the-complete-guide-to-rollups
-
 https://vitalik.ca/general/2022/08/04/zkevm.html
 ^^ explainer on all the zk EVMs
 
