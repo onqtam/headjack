@@ -1,4 +1,6 @@
 
+# How to read this book
+
 # The First Book With Multiple Titles
 
 The Third Attractor
@@ -39,7 +41,6 @@ The Collective Thermodynamic Imperative
 HumanityOS
 Greater Than 1 - Peter Thiel gave us from 0 to 1, this is the apex meme with an R-naught greater than 1
 
-Everything Everywhere all at once - ITS A JOKE! don't sue please, this ain't a copyright violation
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
 "The Book"
 

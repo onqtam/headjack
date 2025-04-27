@@ -5580,6 +5580,14 @@ The hottest new programming paradigm is society's incentives.
 
 > "Communism forgets that life is individual. Capitalism forgets that life is social, and the Kingdom of Brotherhood is found neither in the thesis of Communism nor the antithesis of Capitalism but in a higher synthesis. It is found in a higher synthesis that combines the truths of both." - [Martin Luther King, Jr.](https://en.wikipedia.org/wiki/Economic_democracy#:~:text=Dr.%20Martin%20Luther,truths%20of%20both%22.)
 
+we waste so much government scientific money in the quest to appear like we're not wasting money - [Samo Burja](stranded technologies podcast 88 Samo Burja minute 43) rule by committee where everyone needs to think its a good idea, keeping things safe
+
+what if there was an incentive to credit your sources instead of simply taking credit yourself for ideas or for covering something that people find important but that you secretly saw it first in Palladium Magazine for example but decided not to say where you got the inspiration to write about it as a journalist?
+
+
+
+division of powers & the branches of government is a problem in our current socio-political paradigm but it can be rendered void through creativity - a new incentive system where the problem of concentrated power no longer exists - where legitimacy can be concentrated, but in such a way that it would face ultimate accountability
+
 
 
 > "We should all feel an obligation to tell stories about a human future that we actually want to be a part of." - [David Holz](https://x.com/DavidSHolz/status/1888838844046582113)

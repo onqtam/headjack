@@ -810,6 +810,7 @@ Excessive/conspicuous consumption is immoral
 “The best that money can’t buy” - book by Jacque Fresco (RIP) but reusing it - we need to design status games such that you can’t buy your way in
 
 Artificial/engineered non-fungible scarcity but not for diamonds but for social standing
+Scarcity as a social construct
 
 
 property rights

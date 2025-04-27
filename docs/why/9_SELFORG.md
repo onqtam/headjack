@@ -92,8 +92,7 @@ Any system that regulates/controls another system must have a model of that syst
 
 > "Self-preservation is the primary and only foundation of virtue." - [Baruch Spinoza](https://www.azquotes.com/quote/500068)
 
-Ah Ah Ah Ah Stayin' Alive!
-TODO INTERNET
+> "Stayin' Alive!" - [Bee Gees](https://en.wikipedia.org/wiki/Stayin%27_Alive)
 
 <!-- 
 Second-Order Cybernetics
