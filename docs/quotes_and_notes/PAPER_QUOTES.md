@@ -1538,7 +1538,6 @@ on attribution error
 
 > "" - [Complexity and Evolution, by Francis Heylighen](https://cris.vub.be/ws/portalfiles/portal/67389235/Complexity_Evolution.pdf)
 
-> "" - [Fitness as default: the evolutionary basis for cognitive complexity reduction, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/FitnessDefault.pdf)
 
 
 
@@ -1590,6 +1589,22 @@ on attribution error
 > Inducement of fear is perhaps the simplest and most straightforward method to prevent the transgression of social norms. Fear is the anticipation of a potentially harmful event, leading the individual to avoid anything that might trigger such an event. In social systems, this anticipated event is typically a punishment for not behaving according to the rules. This punishment can be very concrete, like having to go to bed without dinner, receiving a fine, or being stoned to death. However, it can also be more abstract and general, like experiencing disapproval, rejection or ostracism. Fear of ostracism appears to be a deeply rooted instinct that functions like a powerful check on deviant behavior. People will go to great efforts to act in a socially expected way in order to make sure they are not excluded, rejected or ignored by their community—even if this means denying what they truly believe in or who they truly are. This instinctive fear probably dates back to our evolutionary past when social exclusion of an individual commonly ended in that individual dying because of starvation, exposure or the inability to defend against predators. But it also plays in seemingly more innocuous situations, like when a high school student is shunned by the rest of her class because she does not fit in with the local norms (e.g. by not wearing the right brand of clothes or listening to the wrong kind of music). This feeling can be just as devastating, leading to deep loneliness, shame and depression that may end in suicide. Foucault has detailed how many supposedly medical conditions and labels, such as madness or homosexuality, have served to ostracize individuals. During the height of the Enlightenment era those deemed irregular or different were classified as insane. Thus, madness was constructed as a mental and moral illness requiring that sufferers be confined and treated like beasts. The incarceration of the mad served to induce fear in the populace, thereby deterring them from deviating from prescribed behaviors and causing them to repress their identities and desires. In xenophobia, fear is used by the social system to keep out individuals who belong to a different social system with different norms. Such aliens are portrayed as potentially dangerous intruders that must be shunned or, if necessary, violently repelled. An outside threat is probably the most direct and reliable method to strengthen the coherence of the “in-group” and thus suppress any risk of dissidence. The resulting “Us vs. Them” mentality has been used by political leaders throughout the ages to consolidate their regime.
 >
 > **Guilt: retribution and redemption**
+>
+> ...
+>
+> **Shame: the deficient self**
+>
+> ...
+>
+> **Disgust: purity and pollution**
+>
+> ...
+>
+> **Structural control mechanisms**
+>
+> Social systems not only control individuals by directly affecting their feelings, but by setting up routines and structures that reinforce rule-following behavior. There are of course endless types of institutions, organizations, political power structures, and legal arrangements designed to impose rules and control individual behavior. These have been discussed in an extremely broad literature in sociology, management, law, politics and economics, which we are not going to review here. Instead, we will focus on some of the bio-psychological mechanisms that enable such structures to take root in the psyche.
+>
+> **Insecurity**
 >
 > " - [Social Systems Programming: Behavioral and Emotional Mechanisms Co-opted for Social Control](http://pespmc1.vub.ac.be/Papers/SSP2mechanisms.pdf)
 
@@ -1791,6 +1806,7 @@ book: Group Agency (List and Pettit 2011)
 Vidal, C., F. Heylighen, and D. Weinbaum. 2013. “Evolutionary Psychology of the Global Brain and FuturICT”. European Conference on Complex Systems presented at the Satellite Meeting “Global Computing for our Complex Hyper-connected World,” Barcelona, September 19.
 http://prezi.com/pv9t6-ndmyy6/eccs-2013-evolutionary-psychology-ofthe-global-brain-and-futurict/
 
+Holland J.H., Holyoak K.J., Nisbett R.E. & Thagard P.R. (1986): Induction (MIT Press, MA).
 
 Bednar J and Page SE (2016) Complex adaptive systems and comparative politics: modeling the interaction between institutions and culture. Chinese Political Science Review 1, 448–471.
 

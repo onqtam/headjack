@@ -22,6 +22,7 @@ Minimum Viable Infinity
 The Next Game
 Inevitability
 Decentralizing the WEF
+The Superorganism
 The Global Creativity Aggregator
 Information Wants to be Free
 Global Integration
