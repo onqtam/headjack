@@ -1775,12 +1775,13 @@ https://www.youtube.com/watch?v=SBoW9as_JCM
 
 > "Noospheric consciousness: If the noosphere is interpreted as the brain of the global superorganism, then this brain is likely to be thinking at both a conscious and a subconscious level. The conscious level corresponds to issues that are openly debated, with different arguments pro and con being publicly considered before a collective decision is made. The subconscious level corresponds to automatic processes going on in the background, such as particular messages or posts being forwarded to certain people but not to others, without these people being aware of the algorithms making such decisions." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
+<!--
+paper is ok but not great - not sure if this should be included
 
-> "The noosphere remains an underappreciated and understudied idea despite that it provides unique hope towards a positive and meaningful global integration. A core reason for this lack of attention is that its very definition is often unclear both in the West with Teilhard de Chardin and in the East with Vernadsky. I show how Living Systems Theory can clarify two fundamental meanings: the noosphere as a planetary superorganism and the noosphere as a sphere of mind, storing, processing and spreading information. I also present two key aspects to better grasp the concept: the noosphere as a planetary major evolutionary transition and the noosphere as the emergence of something radically new, which might include a planetary consciousness, or a planet seeking to find or contact other noospheres.
->
-> " - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
+> "The noosphere remains an underappreciated and understudied idea despite that it provides unique hope towards a positive and meaningful global integration. A core reason for this lack of attention is that its very definition is often unclear both in the West with Teilhard de Chardin and in the East with Vernadsky. I show how Living Systems Theory can clarify two fundamental meanings: the noosphere as a planetary superorganism and the noosphere as a sphere of mind, storing, processing and spreading information. I also present two key aspects to better grasp the concept: the noosphere as a planetary major evolutionary transition and the noosphere as the emergence of something radically new, which might include a planetary consciousness, or a planet seeking to find or contact other noospheres." - [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
 
 resource to read about the noosphere: [What is the noosphere? Planetary superorganism, major evolutionary transition and emergence, by Clément Vidal](https://onlinelibrary.wiley.com/doi/full/10.1002/sres.2997)
+-->
 
 
 ██████████████████████████████████████████████████████████████████

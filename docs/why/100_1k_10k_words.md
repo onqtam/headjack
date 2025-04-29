@@ -10,11 +10,13 @@ Self-Interest - and the expansion of the self (with an expanding cognitive light
 Collective Intelligence: a Primer / for Dummies
 Reputation/Identity in the 21st century / 3rd millenium - like the book about capital
 The Mind/Psychology of God
+Niche (co-)Construction
 The Post-Liberal Synthesis
 The Final Major Evolutionary Transition
 Summa/Principia Organizationa/Ideologica/Civilizaciona
 https://en.wikipedia.org/wiki/Summa_Theologica
 https://en.wikipedia.org/wiki/Summa_logicae
+The Real/Inevitable Matter With Things
 
 The Alignment/God Protocol
 The Book of Synthesis
