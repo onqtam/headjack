@@ -22,6 +22,7 @@ The Alignment/God Protocol
 The Book of Synthesis
 Minimum Viable Infinity
 The Next Game
+Complexity
 Inevitability
 Decentralizing the WEF
 The Superorganism
