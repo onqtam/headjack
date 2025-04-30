@@ -4235,6 +4235,10 @@ what if teachers were evaluated not only based on the success of their current c
 
 
 
+Why can’t we easily query what’s the consensus opinion on anything but instead we need to meander through papers and books? Why can’t we aggregate this?
+“Most scholars disagree with X” - show me. Where do I look for how many people disagree with Chomsky on his universal grammar stuff? Why do I always read about it in sentences that there’s disagreement but I can’t query it and plot its change over time?
+
+
 
 > "Government is simply the name we give to the things we choose to do together." - [Barney Frank](https://reason.com/2013/11/11/the-intolerant-state/#:~:text=%22Government%20is%20simply%20the%20name%20we%20give%20to%20the%20things%20we%20choose%20to%20do%20together.%22)
 
