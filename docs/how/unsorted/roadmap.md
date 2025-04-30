@@ -86,6 +86,7 @@ This is the next logical step for apple - to adopt the ultimate identity network
 The ultimate appleId that spans even across every aspect of the global brain
 Here is what facebook should do
 Here is what insta
+"All your identities are belong to us" - the inevitability of this ecosystem swallowing all current identity providers and forcing them to migrate to it
 
 
 

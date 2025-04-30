@@ -5,6 +5,7 @@ https://www.conspicuouscognition.com/p/how-dangerous-is-misinformation
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: If It Bleeds - It Leads
+the misallocation of attention
 ██████████████████████████████████████████████████████████████████
 
 > "We live in media, as fish live in water." - [Ted Nelson](https://www.azquotes.com/quote/1405368)
@@ -56,18 +57,20 @@ https://www.conspicuouscognition.com/p/how-dangerous-is-misinformation
 > "I don’t care if we are talking about the New York Post or the New York Times. If you are using 20th Century media to understand or evaluate what is going on in your political world, you are a part of the problem." - [Small Revolutions, by Jordan Hall](https://medium.com/emergent-culture/small-revolutions-6c5f3288f9a9)
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Centralized Broadcast vs. Decentralization
+# SECTION: Centralized Broadcast vs. Decentralization, Coherence vs. Fragmentation
 ██████████████████████████████████████████████████████████████████
-
-> "This is the formal core of the Blue Church: it solves the problem of 20th Century social complexity through the use of mass media to generate manageable social coherence." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5)
 
 > "When widespread internet access broke down our sense of a collective reality, what it was toppling was not the legacy of the Enlightenment, but instead an approximately 100-year bubble in media centralization." - [The Politics of Epistemic Fragmentation](https://modernmythology.net/the-politics-of-epistemic-fragmentation-175d6bbb98a4)
 
+> "This is the formal core of the Blue Church: it solves the problem of 20th Century social complexity through the use of mass media to generate manageable social coherence." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5)
+
 > "We’ve always disagreed, but at least we had the same coordinates by which we could disagree. Now we’re looking at different maps entirely." - [Reality is up for Grabs, by Erik Torenberg](https://eriktorenberg.substack.com/p/reality-is-up-for-grabs)
 
-> "Some would call this the "post-truth" era, but that would be misleading — there's more truth than ever. So much so that we don't really know how to process it, since many truths contradict each other. Instead, it feels more like a "post-monopoly-on-truth" era... The internet offers a hyper-accelerated OODA loop, and Twitter is the fastest loop across the entire internet. As a result, Twitter has the ability to disrupt all other forms of reality perception. Which means what you see take off on Twitter will also take off (or influence) what you see elsewhere... This is exactly why the stakes on Twitter are so high — what gets resolved on Twitter will influence what you see in the media, the education system, and elsewhere in society." - [How the Internet Ate Media - And why there's no going back, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-the-internet-ate-media)
-
 > "As Martin Gurri chronicled in The Revolt of The Public, after social media suddenly global conversation became two-way instead of one-way. This was a radical shift. If you were living in 1965 and you thought that something was weird with the JFK assassination in 1965, what were you going to do, call somebody and complain? Write a letter to the editor? Good luck getting any attention on that — even if millions of people agreed with you. Whereas today you can instantly spin up a sub-reddit or facebook group or make something go viral on Twitter if it resonates widely. The internet enabled people to research the details of any conspiracy, and share their findings with other people also obsessed with the same experience." - [The Current Thing, Part 2 - Conspiracy theories as Bizarro Current Things, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-current-thing-part-2)
+
+this next bit is more about the importance of Twitter and the overwhelm of information
+
+> "Some would call this the "post-truth" era, but that would be misleading — there's more truth than ever. So much so that we don't really know how to process it, since many truths contradict each other. Instead, it feels more like a "post-monopoly-on-truth" era... The internet offers a hyper-accelerated OODA loop, and Twitter is the fastest loop across the entire internet. As a result, Twitter has the ability to disrupt all other forms of reality perception. Which means what you see take off on Twitter will also take off (or influence) what you see elsewhere... This is exactly why the stakes on Twitter are so high — what gets resolved on Twitter will influence what you see in the media, the education system, and elsewhere in society." - [How the Internet Ate Media - And why there's no going back, by Erik Torenberg](https://eriktorenberg.substack.com/p/how-the-internet-ate-media)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Sensemaking
