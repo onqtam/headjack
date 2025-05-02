@@ -88,3 +88,6 @@ Faq: why so many quotes? Multiple reasons:
 1) unique style
 2) an example how this complex set of expressions could have been aggregated from so many sources
 the contribution should be in what's new instead of rehashing other people's ideas and taking credit
+The quote-heavy part of this book is mostly an effort in selection and taste, a collector's edition for impactful thought by others.
+The contribution of this book is in 1) this selection with zero paraphrasing and full accounting of credit, and 2) the novel ideas that build on top of everything that's quoted.
+

@@ -1619,24 +1619,10 @@ https://doi.org/10.1525/9780520340510.
 > "" - [Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration](https://dlc.dlib.indiana.edu/dlc/handle/10535/3574)
 
 
-<!-- 
 
 
-> "Humans are among the most cooperative and social species on the planet. As Harvard evolutionary biologist Martin Nowak puts it, we are “super cooperators.” Throughout our history, individual survival was often tied to group survival, so our species evolved strong instincts to initiate and sustain cooperation. Those instincts have a positive side, what researchers call “prosocial behaviors,” such as generosity, reciprocity and the desire to build trust in relationships. But they also have a dark side. When people feel they have been cooperative and contributed, but others have not played their part and have instead been free riders who lie, cheat and take advantage of the nice cooperators, then they react with a sense of moral outrage and a desire to punish those who have violated cooperative norms.
->
-> In fact, experiments show that people are willing to dish out punishments that are more costly to themselves than any possible benefit. We see this not just in the lab but in the real world. Consider acrimonious lawsuits or divorce cases where the aggrieved parties sue each other into financial oblivion. While standard economic theory might say such behavior is “irrational,” it makes sense from an evolutionary perspective. When people go a bit crazy and dish out punishments that are costly for themselves, they are in effect taking one for the team and helping enforce norms of cooperation for the group as a whole. Researchers call this “altruistic punishment,” and it means that potential cheaters and free riders pay a higher cost for their bad behavior than if every individual was strictly “rational.” Further experiments show that without altruistic punishment, free-riding and cheating go up, and it is very hard for groups to establish and sustain cooperation.
->
-> Another common reaction when people feel fairness is violated is to team up with other people who feel cheated as well. If cooperation is broadly breaking down, it makes sense to seek out people like yourself, who you can trust, and fight back together against the perceived violators. In history, the notion of “people like me” has often meant people who share some common identity (e.g., ethnic, religious, regional, cultural). So, when larger-scale societal cooperation breaks down, identity-based tribalism often goes up." - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker](https://www.edelman.com/trust/edelman-trust-institute/Publication/2023/trust-populism-and-broken-contracts#:~:text=Humans%20are%20among,often%20goes%20up.)
 
-TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
-> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
-
-> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
-
-> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
-
-> "" - [Trust, Populism and the Psychology of Broken Contracts, by Eric Beinhocker]()
 
 > "" - [Discriminatory punishment undermines the enforcement of group cooperation](https://www.nature.com/articles/s41598-023-33167-2)
 
@@ -1650,7 +1636,6 @@ TODO: continue from "Before the advent of agriculture around 10,000 years ago"
 
 > "" - []()
 
--->
 
 
 
@@ -1738,7 +1723,13 @@ TODO INTERNET ^^ link for this
 
 > "" - [Emergence of informative higher scales in biological systems: a computational toolkit for optimal prediction and control, by Erik Hoel & Michael Levin](https://www.tandfonline.com/doi/full/10.1080/19420889.2020.1802914)
 
-> "" - []()
+
+
+> "Discussion of postliberal political orders is often shrouded in confusion, as though it were unclear or always potentially dangerous to speak of a coming nonliberal position. Arguably the reverse is the case. Liberal political orders always underspecify their intended goal; they speak of cultivating or enabling liberty, but remain deliberately indeterminate about what that liberty would be ordered to. To speak of a political order outside the terms of liberalism, however, is simply to specify the good at which it aims and articulate the means toward achieving it. This possibility is already embedded in conservative attempts to supplement liberalism with reminders of the importance of virtue and the common good; and it is embedded in economic progressivism’s vision of shared prosperity.
+>
+> ... Rather than asking the question “What should conservatives/progressives do?” considerable advances can be made through certain purely practical considerations: “How can the integrity of the national political community be assured?” “How can commercial activity and technological development continue to be turned toward the common good, and toward our own strategic advantage?” “What can we do with the reins of power, that is, the state, to ensure the common good of our citizens?” Questions such as these are not “antiliberal”—they are simply questions that one asks when one’s political thinking isn’t distorted by liberal limitations on the scope of politics." - [Toward a Party of the State, by Gladden Pappin]()
+
+
 
 > "" - []()
 
