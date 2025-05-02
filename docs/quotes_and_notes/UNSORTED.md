@@ -4233,7 +4233,8 @@ what if teachers were evaluated not only based on the success of their current c
 > "... the over-connected topology leading to what Kauffman coined a Complexity Catastrophe in his work on adaptive landscapes. Beyond a given threshold, the connectivity becomes more disruptive than catalytic to the playing out of adaptive potentials. Likely the reason evolution selects for, not against, scale-specific boundaries / membranes / flow regulating mechanisms that enable complex co-operation and the accretion of complex adaptive structure." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1845546271215616117)
 
 
-
+> "Only the paranoid survive." - Andy Grove - his book
+only the cooperative
 
 Why can’t we easily query what’s the consensus opinion on anything but instead we need to meander through papers and books? Why can’t we aggregate this?
 “Most scholars disagree with X” - show me. Where do I look for how many people disagree with Chomsky on his universal grammar stuff? Why do I always read about it in sentences that there’s disagreement but I can’t query it and plot its change over time?
@@ -4312,6 +4313,12 @@ Why can’t we easily query what’s the consensus opinion on anything but inste
 
 > "the past was all about networked computers; the future is all about networked data structures" - [@syntacrobat](https://twitter.com/syntacrobat/status/1693446789943160984)
 
+> "Who(m) do you serve?" - Saruman
+
+> "What have you done last week?" - Elon Musk, probably
+done => predicted
+
+The highest achievement for a social species is to improve its organization
 
 Wherever we turn our attention, things should improve
 

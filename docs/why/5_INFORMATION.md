@@ -7,8 +7,6 @@
 
 > "Given enough eyeballs, all bugs are shallow." - [Linus's law](https://en.wikipedia.org/wiki/Linus%27s_law), formulated by [Eric S. Raymond](https://en.wikipedia.org/wiki/Eric_S._Raymond)
 
-> "The AI behavior guardrails that are set up with prompt engineering and filtering should be public — the creators should proudly stand behind their vision of what is best for society and how they crystallized it into commands and code. I suspect many are actually ashamed." - [John Carmack](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
-
 
 
 ██████████████████████████████████████████████████████████████████
@@ -114,7 +112,7 @@ What if:
 
 > "The researchers found that, on the one hand, participants who read the "crime is a beast" metaphor were more likely to support crime-fighting strategies such as increasing the number of police officers and building more jails. On the other hand, participants who read the "crime is a virus" metaphor were more likely to support crime-prevention strategies, such as implementing social reforms and calling for an investigation into the root causes of crime." - [source](https://en.wikipedia.org/wiki/Metaphorical_framing#:~:text=The%20researchers%20found,causes%20of%20crime.)
 
-> "Framing is about getting language that fits your worldview. It is not just language. The ideas are primary and the language carries those ideas, evokes those ideas." - [George Lakoff](https://medium.com/@ennuid/george-lakoffs-framing-101-7b88e9c91dac#:~:text=Framing%20is%20about%20getting%20language%20that%20fits%20your%20worldview.%20It%20is%20not%20just%20language.%20The%20ideas%20are%20primary%20and%20the%20language%20carries%20those%20ideas%2C%20evokes%20those%20ideas.)
+> "Framing is about getting language that fits your worldview. It is not just language. The ideas are primary and the language carries those ideas, evokes those ideas." - [George Lakoff](https://medium.com/@ennuid/george-lakoffs-framing-101-7b88e9c91dac)
 
 Russell conjugation - horse dewormer vs ivermectin
 
@@ -175,7 +173,7 @@ We can reality-test our beliefs
 knowledge engineering
 
 
-> "People can’t share knowledge if they don’t speak a common language." - [Thomas Davenport, 1997](https://team12pori.wordpress.com/ontology-information-science/#:~:text=%E2%80%9CPeople%20can%E2%80%99t%20share%20knowledge%20if%20they%20don%E2%80%99t%20speak%20a%20common%20language.%E2%80%9D)
+> "People can’t share knowledge if they don’t speak a common language." - [Thomas Davenport, 1997](https://team12pori.wordpress.com/ontology-information-science/)
 <IMG TOWER OF BABEL>
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1280px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg
 https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg
@@ -219,7 +217,7 @@ What if we expressed our thoughts as directed graphs of ideas, entities & concep
 
 <!-- > "Writing is the process by which you realize that you do not understand what you are talking about. Importantly, writing is also the process by which you figure it out." - [Why Write? - by Shane Parrish](https://fs.blog/why-write/#:~:text=Writing%20is%20the%20process%20by%20which%20you%20realize%20that%20you%20do%20not%20understand%20what%20you%20are%20talking%20about.%20Importantly%2C%20writing%20is%20also%20the%20process%20by%20which%20you%20figure%20it%20out.) -->
 
-> "If you’re thinking without writing, you only think you’re thinking." - [Leslie Lamport](https://fs.blog/how-to-think/#:~:text=%E2%80%9CIf%20you%E2%80%99re%20thinking,%E2%80%94%20Leslie%20Lamport)
+> "If you’re thinking without writing, you only think you’re thinking." - [Leslie Lamport](https://fs.blog/how-to-think/)
 
 Writing text forces us to think, but graph construction & exploration would make our thinking more precise and our understanding deeper. Mind Maps are superior when it comes to comprehension and retention of information because they organize it spatially & hierarchically - engaging our brains visually. The source should always be a graph because our that's how our minds represent knowledge & ideas - even though we communicate serially.
 
@@ -317,7 +315,7 @@ Deceiving others to watch your content just for your own good is narcissistic - 
 
 1. The perpetual AMA (Ask Me Anything) - currently only a small handful of people have done [AMAs in Reddit](https://www.reddit.com/r/AMA) that last only up to a few days with an extremely limiting interface in a sporadic/random fashion. What if every account had an implicit AMA associated with them (something like [ask.fm](https://ask.fm) but a lot more powerful) and we could ask any leader/CEO/celebrity & hyper agent questions with special message types and link them to their accounts? We could collectively surface the most pressing ones and make it glaringly obvious if the important ones aren't answered or if the answer is of poor quality - through different dashboards/charts & sorting/filtering. We could hold them to higher standards & more scrutiny. What if we could pressure companies & CEOs about the use of Cobalt from African mines with slave labor? Doing a poll on [change.org](https://change.org) is extremely ineffectual, but if something like it was integrated with a new more expressive type of social media for virality - it could have drastically different results. It is easy to ingore some obscure app but not when everything is built on top of the same interconnected identity & data network.
 
-1. Reactions that relate to a piece of content. Let's take the [`"Jillian Michaels: Don't believe the keto diet hype | Big Think"`](https://www.youtube.com/watch?v=LOPOcBVzm7s) video for example. How do we determine if what's in there true? All we have is a comment section and a sidebar with algorithmic recommendations. Turns out there are [a number of reactions](https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction) but they're not shown next to the video in any way - how would we know about their existence if we didn't explicitly search for them? The goal is not to be exposed to multiple points of view & reach some conclusion - it's only engagement. The videos are not interlinked, but suppose they were - we could have a list of reactions displayed along with scores of disagreement and other factors and we could more easily discern which one to watch next. <!-- The way to expose the complete failure & corruption of the FDA & their misguided policies is through a bottom-up crowdsourced effort enabled by the Internet and further enabled by linked data, identities & reputation. -->
+1. Reactions that relate to a piece of content. Let's take the [`"Jillian Michaels: Don't believe the keto diet hype | Big Think"`](https://www.youtube.com/watch?v=LOPOcBVzm7s) video for example. How do we determine if what's in there is true? All we have is a comment section and a sidebar with algorithmic recommendations. Turns out there are [a number of reactions](https://www.youtube.com/results?search_query=jillian+michaels+keto+reaction) but they're not shown next to the video in any way - how would we know about their existence if we didn't explicitly search for them? The goal is not to be exposed to multiple points of view & reach some conclusion - it's only engagement. The videos are not interlinked, but suppose they were - we could have a list of reactions displayed along with scores of disagreement and other factors and we could more easily discern which one to watch next. <!-- The way to expose the complete failure & corruption of the FDA & their misguided policies is through a bottom-up crowdsourced effort enabled by the Internet and further enabled by linked data, identities & reputation. -->
 
 https://twitter.com/goddeketal/status/1728136904028365161
 
@@ -415,6 +413,7 @@ What if the way an event or a piece of news to get to more eyes was not through 
 
 Four Ways of Understanding Facts
 https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=Four%20Ways%20of%20Understanding%20Facts
+TODO INTERNET
 
 the liquid democracy stuff can be used here to "vote" on who is a good curator for different topics
 

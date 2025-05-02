@@ -84,13 +84,9 @@ this next bit is more about the importance of Twitter and the overwhelm of infor
 
 > "The only way out is through. We need to continue building even deeper and broader understanding of dynamics of narrative, and designing institutions that are structurally incapable of bending their output towards one or another official's preferred narrative. As a simple example, the CDC is currently responsible both for gathering and analyzing information around disease prevalence, and also making policy recommendations. In a narrative-aware world, we'd realize that this creates an irresistible temptation to control the data that is released so that the policy recommendations can seem more correct than they were. In that world those two functions would never be allowed to co-exist in the same organization.
 >
-> On the individual level, we need to rebuild our sensemaking mechanisms to assume that every piece of information we receive is colored by corrupt incentives, much like we refactored the technology stack of the internet away from the initial naive assumptions and towards security- and encryption-by default. Many areas of human endeavor, such as international diplomancy or even most business-to-business transactions already work on such principles, so it's nowhere near as onerous as it may seem. We just need to stop hoping that there is some far-away uncorrupted group of elders that will give us truth on a platter." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
+> On the individual level, we need to rebuild our sensemaking mechanisms to assume that every piece of information we receive is colored by corrupt incentives, much like we refactored the technology stack of the internet away from the initial naive assumptions and towards security-and encryption-by default. Many areas of human endeavor, such as international diplomancy or even most business-to-business transactions already work on such principles, so it's nowhere near as onerous as it may seem. We just need to stop hoping that there is some far-away uncorrupted group of elders that will give us truth on a platter." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1770219558990938294)
 
-> "The main thrust of the current war is that making any sense at all is getting harder and harder." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=the%20main%20thrust%20of%20the%20current%20war%20is%20that%20making%20any%20sense%20at%20all%20is%20getting%20harder%20and%20harder.)
-
-> "Are you sure you know the current limits of the war on sensemaking? Of sock puppets and cognitive hacking and weaponized memetics?" - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636)
-
-> "This state of affairs — this increasingly generalized condition of complete disorientation — is untenable." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636)
+> "The main thrust of the current war is that making any sense at all is getting harder and harder... Are you sure you know the current limits of the war on sensemaking? Of sock puppets and cognitive hacking and weaponized memetics?... This state of affairs — this increasingly generalized condition of complete disorientation — is untenable." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636)
 
 > "All Collective Intelligence is gated by Sensemaking. Right now, our collective sensemaking systems are in complete disarray. We don’t know who or what to trust. We barely even know how." - [Situational Assessment 2018: the Calm Before the Storm, by Jordan Hall](https://medium.com/deep-code/situational-assessment-2018-the-calm-before-the-storm-5a0bd014ec84)
 
@@ -102,9 +98,15 @@ this next bit is more about the importance of Twitter and the overwhelm of infor
 # SECTION: Availability cascades
 ██████████████████████████████████████████████████████████████████
 
-> "The great algorithm to remember in dealing with this tendency is simple: an idea or a fact is not worth more merely because it’s easily available to you." - [Charlie Munger](https://www.goodreads.com/quotes/7264450-the-great-algorithm-to-remember-in-dealing-with-this-tendency)
+> "An idea or a fact is not worth more merely because it’s easily available to you." - [Charlie Munger](https://www.goodreads.com/quotes/7264450-the-great-algorithm-to-remember-in-dealing-with-this-tendency)
 
 > "What is right is not always popular and what is popular is not always right." - [Albert Einstein](https://www.goodreads.com/quotes/67533-what-is-right-is-not-always-popular-and-what-is)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Algorithm Misalignment
+██████████████████████████████████████████████████████████████████
+
+> "The AI behavior guardrails that are set up with prompt engineering and filtering should be public — the creators should proudly stand behind their vision of what is best for society and how they crystallized it into commands and code. I suspect many are actually ashamed." - [John Carmack](https://twitter.com/ID_AA_Carmack/status/1760360183945965853)
 
 > "While the application of supernormal stimuli to our eating choices or mating choices is certainly destructive, the use of supernormal stimuli in social media is particularly risky. This is because supernormal stimuli in social media directly undermine our capacity for individual and collective intelligence.
 >

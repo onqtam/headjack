@@ -447,7 +447,7 @@ not sure this is important enough
 # SECTION: Agency
 ██████████████████████████████████████████████████████████████████
 
-> "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624)
+<!-- > "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624) -->
 
 > "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
 

@@ -84,8 +84,11 @@ after the right abstractions are picked, new use cases will be rapidly tested by
 
 This is the next logical step for apple - to adopt the ultimate identity network of the world for AppleID
 The ultimate appleId that spans even across every aspect of the global brain
-Here is what facebook should do
-Here is what insta
+what should these orgs do:
+- facebook
+- instagram
+- Apple
+- Epic Games, Valve, Discord
 "All your identities are belong to us" - the inevitability of this ecosystem swallowing all current identity providers and forcing them to migrate to it
 
 

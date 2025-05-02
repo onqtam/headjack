@@ -44,6 +44,7 @@ Thermodynamic Integration/Optimization
 The Collective Thermodynamic Imperative
 HumanityOS
 Greater Than 1 - Peter Thiel gave us from 0 to 1, this is the apex meme with an R-naught greater than 1
+    this is what you'll do to at least 1 of your friends after you're done reading this - opened eyes from clockwork orange
 
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
 "The Book"

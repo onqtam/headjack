@@ -87,3 +87,4 @@ This is for those that can read between the lines
 Faq: why so many quotes? Multiple reasons:
 1) unique style
 2) an example how this complex set of expressions could have been aggregated from so many sources
+the contribution should be in what's new instead of rehashing other people's ideas and taking credit
