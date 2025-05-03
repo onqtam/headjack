@@ -1536,11 +1536,6 @@ on attribution error
 
 
 
-> "" - [The meaning and origin of goal-directedness: a dynamical systems perspective, by Francis Heylighen](https://cris.vub.be/ws/files/84393768/Goal_DirectednessBJLS_final.pdf)
-
-
-
-
 
 
 
@@ -1681,18 +1676,23 @@ TODO INTERNET ^^ link for this
 
 
 
-> "" - [Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales](https://www.mdpi.com/1099-4300/26/7/532)
+> "Biological systems are composed of layers of organization, each level providing the foundation for the next higher level of abstraction: membranes, DNA, and proteins form cells, which then collectively organize into tissue and, in further hierarchical steps, into tissues, organs, bodies, swarms, ecosystems, etc. Each of these layers has a degree of ability to adapt in real-time to new conditions to establish and maintain specific outcomes in terms of physiological, metabolic, transcriptional, and anatomical spaces. In other words, evolution works with material that is not passive matter but rather has a degree of competency—an agential material that forms the layer between the genotype and the phenotype... We find that competency at the cellular level of our multi-scale model system strongly affects the resulting evolutionary process, as well as the generalizability, evolvability, and transferability of the evolved solutions, suggesting the profound evolutionary implications of the highly intricate multi-scale competency architecture of biological life.
+>
+> ... We conclude that not only can evolutionary processes efficiently utilize and bring forth the intriguing multi-scale problem-solving machines of biological life but that the efficiency of such evolutionary processes, as well as the generalization abilities, evolvability, and transferability of the corresponding phenotypic outcomes, are strongly affected by the level of competency of the underlying agential material... the vastly more complex multi-scale competency architecture of biological life cycles back and thus affects the process of evolution itself." - [Evolutionary Implications of Self-Assembling Cybernetic Materials with Collective Problem-Solving Intelligence at Multiple Scales](https://www.mdpi.com/1099-4300/26/7/532)
 
 
 
 
 
-> "" - [What Is Consciousness? Integrated Information vs. Inference, by James E. Cooke](https://www.mdpi.com/1099-4300/23/8/1032)
 
 
+> "... suitably organized collectives can be intentional agents in their own right, over and above their individual members. Examples of group agents include commercial corporations, collegial courts, non-governmental organizations, even states in their entirety. Like an individual human being, a group agent has purposes and intentions and pursues these through its actions. In doing so, it can be as rational as an individual rational agent, at least when we understand rationality in the way decision theorists do. For example, a firm’s behaviour in the market place can be well understood by modeling it as a rational utility maximizer, and corporations often fit the model of homo economicus better – and to a scarier extent – than most individual human beings do...
+>
+> 2. Group agency
+>
+> What is a group agent? While we have a decent understanding of what an individual agent is, it may be tempting to define a group agent in some sui generis way, for instance by specifying how several individuals must act together in order to form a group agent. However, a more parsimonious approach is to begin with a general definition of an agent, and then to apply it to the case of groups. A group agent, on that approach, is a collective that qualifies as an agent. The practical question of how a collective can achieve this status – organizationally, institutionally, behaviourally – is separate from the definitional question of what a group agent is." - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
 
 
-> "" - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
 
 > "... experiencing information synchronously yields the cognitive amplification of shared information, a mild increase in social bonding, and increases in cooperation when it benefits the individual. Additionally, synchronous arrival of information about ‘our’ common mental state through verbal communication and/or mutual eye gaze yields greater epistemic certainty about that mental state, a strong increase in social bonding, and greater cooperation when it benefits the group. In all, synchronous co-experiences yield cognitive, affiliative, and cooperative outcomes that are consistent with the idea that such co-experiences foster collective mind representations.
 >
@@ -1721,7 +1721,8 @@ TODO INTERNET ^^ link for this
 >
 > ... ‘Desirability’ must be interpreted appropriately. There is a danger that we impose too high an axiological standard on the hivemind society and so rule it out of bounds forever. This could happen if we insist that, in order for it to be desirable, the hivemind society must satisfy important human goods or values and must not sacrifice or undermine any other goods or values. This would be an unfair standard. After all, no way of life that is currently deemed desirable meets that standard. Every choice we make involves compromises and tradeoffs. In choosing to be a committed and doting parent, you may have to sacrifice some success in your career. We might prefer it if such compromises could be avoided—and perhaps there are ways to reform social institutions so as to minimise them—but given both finite time and finite resources, some degree of compromise in seeking the good life is inevitable. The same will, necessarily, be true if we favour the hivemind over a more individualistic mode of existence. This does not mean that the hivemind is not desirable. It is enough if we can show that pursuing this ideal satisfies some goods and compensates for significant losses. With that clarification out of the way, we can proceed to the argument we wish to defend, which consists of four distinct sub-arguments in favour of the transition to the hivemind society." - [In Defence of the Hivemind Society, by John Danaher and Steve Petersen](https://philarchive.org/rec/DANIDO-10)
 
-> "" - [Emergence of informative higher scales in biological systems: a computational toolkit for optimal prediction and control, by Erik Hoel & Michael Levin](https://www.tandfonline.com/doi/full/10.1080/19420889.2020.1802914)
+
+
 
 
 
@@ -1731,13 +1732,15 @@ TODO INTERNET ^^ link for this
 
 
 
-> "" - []()
+> "... while we have been correct to believe that capitalism has been the major source of historical growth and prosperity, we have been mostly incorrect in identifying how and why it worked so well... the conventional economic theories we have relied upon for the past century have misled us about the workings of capitalism. Only by replacing our old theories with better and more modern ones will we build the deeper understanding necessary to improve our capitalist system." - [Redefining capitalism, by Eric Beinhocker and Nick Hanauer](https://www.mckinsey.com/featured-insights/long-term-capitalism/redefining-capitalism)
+
+
 
 > "" - []()
 
 > "" - []()
 
-> "" - []()
+> "" - [Markets Are Eating The World](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/)
 
 
 

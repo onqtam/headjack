@@ -965,6 +965,9 @@ Publicity and Accepted Standards
 ██████████████████████████████████████████████████████████████████
 
 
+we can transform the profit motive into a different kind of motive and eliminate it - while still allowing for those that serve a function well to gain more influence - no need to accumulate profits - they can win the right to operate with collective capital through competency and solving a real need and being deemed important
+
+
 > "Great companies have missions, not metrics." - [Palladium Magazine](https://x.com/palladiummag/status/1829549384322994535)
 
 
