@@ -83,6 +83,7 @@ the contribution should be in what's new instead of rehashing other people's ide
 The quote-heavy part of this book is mostly an effort in selection and taste, a collector's edition for impactful thought by others.
 The contribution of this book is in 1) this selection with zero paraphrasing and full accounting of credit, and 2) the novel ideas that build on top of everything that's quoted.
 
+However, in may of the quotes the references to the ends of the papers were omitted for brevity. Not sure if this was the right choice but it's too late now anyway.
 
 ## Won't the powers that be oppose this system?
 
