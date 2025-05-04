@@ -16,7 +16,7 @@ The Final Major Evolutionary Transition
 Summa/Principia Organizationa/Ideologica/Civilizaciona
 https://en.wikipedia.org/wiki/Summa_Theologica
 https://en.wikipedia.org/wiki/Summa_logicae
-The Real/Inevitable Matter With Things
+The Real/Inevitable Matter With Things - beyong left/right thinking
 
 The Alignment/God Protocol
 The Book of Synthesis
