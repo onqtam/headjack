@@ -326,6 +326,46 @@ satoshi nakamoto Nobel prize lex quote - for peace, because of fairness
 > "Injustice anywhere is a threat to justice everywhere." - [Martin Luther King Jr.](https://www.azquotes.com/quote/158995)
 
 
+
+<details><summary>Attribution error, cognitive empathy & perspective taking</summary><p>
+
+We tend to attribute benign intentions to "our tribe" who've done something wrong and evil intentions to "others" by default and don't try to see things from their perspective as much as we should.
+
+> "[Lee] Ross coined the term “the fundamental attribution error” in 1977, in a paper that became a landmark in social psychology. The basic idea was pretty simple: When we're explaining the behavior of other people, we tend to put too much emphasis on “disposition”—on their character, their personality, their essential nature. And we tend to put too little emphasis on “situation”—on the circumstances they find themselves in.
+>
+> ... regular readers know that by “cognitive empathy” I don’t mean “feeling their pain.” That’s emotional empathy. I just mean seeing how things look from another person’s point of view: perspective taking.
+>
+> I believe that one of the most common reasons people and groups of people fail to solve non-zero-sum problems—fail to reach an arrangement that’s good for both parties, and instead get stuck in a lose-lose situation—is that they don’t see how things look from the other side. I also believe that the world is in deep trouble if nations don't solve the more consequential of the non-zero-sum problems they face, ranging from environmental challenges to arms control challenges to disease control challenges to whole new kinds of technological challenges.
+>
+> It follows that—as I see the world, at least—big impediments to cognitive empathy are a grave threat to the planet. And attribution error may be the biggest impediment there is. Obviously, if you’re blind to the way circumstance shapes someone’s behavior it’s going to be hard to really appreciate how the world looks to them.
+>
+> Could more awareness of attribution error actually make people better at cognitive empathy? Not in an easy, automatic way. Attribution error is a “cognitive bias,” and there’s good reason to think it was engineered by natural selection for that purpose - to bias our view of the world, to distort our perception. And a well-engineered bias can be pretty stubborn in its tendency to fool people into thinking they’re seeing things clearly when they’re not.
+>
+> Still, I do think that cognitive empathy can be cultivated. And I do think awareness of attribution error, of our tendency in most situations to downplay the role of circumstance, can help us cultivate it." - [Ode to a world-saving idea, by Robert Wright](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
+
+</p></details>
+
+<details><summary>Discriminatory punishment undermines the enforcement of group cooperation</summary><p>
+<!-- The breakdown of cooperation around public goods in pluriform groups vs uniform ones -->
+
+> "Peer punishment can help groups to establish collectively beneficial public goods. However, when humans condition punishment on other factors than poor contribution, punishment can become ineffective and group cooperation deteriorates. Here we show that this happens in pluriform groups where members have different socio-demographic characteristics... This work reveals that peer punishment fails to enforce cooperation in groups with a pluriform structure, which is rule rather than exception in contemporary societies.
+>
+> By virtue of cooperation, humans create and maintain public goods that beneft entire groups or societies, like public healthcare and education, social security, or state defence . Contributing to the provision of public goods is, however, personally costly and can be exploited by free-riders who beneft from the public good without contributing themselves. Te temptation to free-ride on others’ cooperation, alongside the expectation that others may free-ride, makes public good provision and group cooperation fragile and challenging to maintain...
+>
+> To tackle this problem of free-riding, humans can enforce group cooperation by punishing those who refuse to contribute. Groups with rather than without such possibilities to punish each other indeed mitigate free-riding and maintain high levels of group cooperation. Te reason is two-fold. First, as punishment is costly to receive, punishing free-riders can efectively reduce the gross beneft of free-riding and already the threat of being punished can lessen the temptation to free-ride. Second, especially when punishment is costly to impose, punishing free-riding sends a signal to the free-riders about what is and what is not desired behaviour, and this can foster a norm of cooperation that helps towards creating and maintaining public goods.
+>
+> For such enforcement of group cooperation to work efectively, humans need to direct their costly punishment indiscriminately and exclusively at free-riders. Whenever humans punish some free-riders more than others, or altogether condition punishment on other factors than poor contribution, peer punishment may lose its effectiveness to deter free-riding. We conjecture this to happen when group members difer along demographic, cultural, or ideological lines. Te reason is that people tend to trust and cooperate well with similar others, whereas they distrust more and cooperate less with dissimilar others. Indeed, compared to the uniform groups typically studied in public good provision experiments, groups with more pluriform structures are marked by lower social cohesion and higher propensity for internal conficts.
+>
+> There are at least two accounts of why peer punishment may lose its effectiveness or even become counterproductive in pluriform groups. First, individuals may hold ‘double standards’ for people with different sociodemographic backgrounds, and respond with more leniency to free-riding by similar others than by dissimilar others. Second, individuals may adopt an ‘us versus them’ attitude, and punishment opportunities may be used to further demarcate and reinforce subgroup boundaries between the similar ‘us’ and the dissimilar ‘them’ within the larger group, and, ultimately, improve the wealth and/or status of similar others relative to dissimilar others. Alone and in combination, these processes would produce subgroup-based discrimination in punishment, with dissimilar others being punished more than similar others. Such discriminatory punishment, in turn, may undermine people’s responsiveness to punishment, or even worse, their overall willingness to cooperate. Accordingly, peer punishment would thwart rather than facilitate group cooperation, and hamper the creation and maintenance of collectively beneficial public goods.
+>
+> ... It stands to reason that in pluriform groups with larger subgroup-diferences and/or a history of between-subgroup confict or competition, stronger discriminatory punishment and deterioration of group cooperation may be observed. Moreover, we cannot exclude the possibility that similar detrimental efects may emerge for other cooperation-enforcing institutions as well, like reward, gossip, or centralized authorities (i.e., leaders, governments), because these institutions can be prone to subgroup-based discrimination too. Tus, our fndings challenge the understanding of the institutions that efectively enforce group cooperation, as people may use them to demarcate and reinforce subgroup boundaries within the larger group, thereby hampering the creation and maintenance of collectively benefcial public goods." - [Discriminatory punishment undermines the enforcement of group cooperation](https://www.nature.com/articles/s41598-023-33167-2)
+
+This paper and the **us** vs **them** dynamic is related to attribution error.
+
+We need to move to universal objective rules that are hard to game as much as possible. The more we automate and remove the human factor in discriminating against other groups - the better. We also need to foster more integration and cohesion on the most important issues & values.
+
+</p></details>
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Values & virtues
 ██████████████████████████████████████████████████████████████████

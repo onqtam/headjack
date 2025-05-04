@@ -1,7 +1,6 @@
 
 
-
-<strikethrough>Bitcoin</strikethrough> Headjack fixes this.
+~~Bitcoin~~ Headjack fixes this.
 
 <!--
 alternative titles:
@@ -14,6 +13,8 @@ alternative titles:
 Symbiotic intelligence = collective + artificial
 
 <img src="/img/meme_wojak_brain.jpg"/>
+
+also make a version of it where at the lower level are NPCs with their firmware/chip being changed?
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Biases & Evolutionary Psychology

@@ -1,5 +1,9 @@
 # FAQ
 
+## Is this a real FAQ?
+
+No. These questions haven't been asked by anybody (yet). It's a mix of what we want to say about this book and also some questions that we anticipate will be quite frequent.
+
 ## Is this a revolution?
 
 Yes, but a peaceful one - entirely opt-in.
@@ -70,19 +74,7 @@ The later you read this the more of a laggard you will be - this system is inevi
 
 Because we have a broken digital system for attributing who said and expressed what. How about we change that?
 
-## Won't the powers that be oppose this system?
-
-
-
-
-
-
-
-This is for those that can read between the lines
-
-
-
-
+Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.
 
 Faq: why so many quotes? Multiple reasons:
 1) unique style
@@ -90,4 +82,10 @@ Faq: why so many quotes? Multiple reasons:
 the contribution should be in what's new instead of rehashing other people's ideas and taking credit
 The quote-heavy part of this book is mostly an effort in selection and taste, a collector's edition for impactful thought by others.
 The contribution of this book is in 1) this selection with zero paraphrasing and full accounting of credit, and 2) the novel ideas that build on top of everything that's quoted.
+
+
+## Won't the powers that be oppose this system?
+
+This is for those that can read between the lines
+
 

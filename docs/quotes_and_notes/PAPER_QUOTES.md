@@ -1463,19 +1463,6 @@ regarding GWT
 
 
 
-on attribution error
-
-> "[Lee] Ross coined the term “the fundamental attribution error” in 1977, in a paper that became a landmark in social psychology. The basic idea was pretty simple: When we're explaining the behavior of other people, we tend to put too much emphasis on “disposition”—on their character, their personality, their essential nature. And we tend to put too little emphasis on “situation”—on the circumstances they find themselves in.
->
-> ... regular readers know that by “cognitive empathy” I don’t mean “feeling their pain.” That’s emotional empathy. I just mean seeing how things look from another person’s point of view: perspective taking.
->
-> I believe that one of the most common reasons people and groups of people fail to solve non-zero-sum problems—fail to reach an arrangement that’s good for both parties, and instead get stuck in a lose-lose situation—is that they don’t see how things look from the other side. I also believe that the world is in deep trouble if nations don't solve the more consequential of the non-zero-sum problems they face, ranging from environmental challenges to arms control challenges to disease control challenges to whole new kinds of technological challenges.
->
-> It follows that—as I see the world, at least—big impediments to cognitive empathy are a grave threat to the planet. And attribution error may be the biggest impediment there is. Obviously, if you’re blind to the way circumstance shapes someone’s behavior it’s going to be hard to really appreciate how the world looks to them.
->
-> Could more awareness of attribution error actually make people better at cognitive empathy? Not in an easy, automatic way. Attribution error is a “cognitive bias,” and there’s good reason to think it was engineered by natural selection for that purpose - to bias our view of the world, to distort our perception. And a well-engineered bias can be pretty stubborn in its tendency to fool people into thinking they’re seeing things clearly when they’re not.
->
-> Still, I do think that cognitive empathy can be cultivated. And I do think awareness of attribution error, of our tendency in most situations to downplay the role of circumstance, can help us cultivate it." - [Ode to a world-saving idea, by Robert Wright](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 
 
 
@@ -1619,8 +1606,6 @@ https://doi.org/10.1525/9780520340510.
 
 
 
-> "" - [Discriminatory punishment undermines the enforcement of group cooperation](https://www.nature.com/articles/s41598-023-33167-2)
-
 > "" - [Towards a global participatory platform: democratising open data, complexity science and collective intelligence](https://link.springer.com/content/pdf/10.1140/epjst/e2012-01690-3.pdf)
 
 > "" - [Status: Insights from Organizational Sociology](https://sci-hub.se/10.1146/annurev-soc-071811-145503)
@@ -1684,13 +1669,59 @@ TODO INTERNET ^^ link for this
 
 
 
+agency, group agency, consciousness and the easy & hard problems of it (awareness/functionalism vs phenomenal experience), group agents can be conscious as awareness, the relationship between functional and phenomenal states, 
 
+informative but won't cut it: parts of section 3, section 4
 
 > "... suitably organized collectives can be intentional agents in their own right, over and above their individual members. Examples of group agents include commercial corporations, collegial courts, non-governmental organizations, even states in their entirety. Like an individual human being, a group agent has purposes and intentions and pursues these through its actions. In doing so, it can be as rational as an individual rational agent, at least when we understand rationality in the way decision theorists do. For example, a firm’s behaviour in the market place can be well understood by modeling it as a rational utility maximizer, and corporations often fit the model of homo economicus better – and to a scarier extent – than most individual human beings do...
 >
 > 2. Group agency
 >
-> What is a group agent? While we have a decent understanding of what an individual agent is, it may be tempting to define a group agent in some sui generis way, for instance by specifying how several individuals must act together in order to form a group agent. However, a more parsimonious approach is to begin with a general definition of an agent, and then to apply it to the case of groups. A group agent, on that approach, is a collective that qualifies as an agent. The practical question of how a collective can achieve this status – organizationally, institutionally, behaviourally – is separate from the definitional question of what a group agent is." - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
+> What is a group agent? While we have a decent understanding of what an individual agent is, it may be tempting to define a group agent in some sui generis way, for instance by specifying how several individuals must act together in order to form a group agent. However, a more parsimonious approach is to begin with a general definition of an agent, and then to apply it to the case of groups. A group agent, on that approach, is a collective that qualifies as an agent. The practical question of how a collective can achieve this status – organizationally, institutionally, behaviourally – is separate from the definitional question of what a group agent is.
+>
+> So, what is an agent? It is helpful to use a functionalist definition, based on the traditional belief-desire model. Functionalism about agency, in very rough terms, is the view that what makes a system an agent – and what generates its intentional states – is nothing heavily metaphysically loaded, but simply the way the system functions, internally and externally, including in relation to its environment. On such a definition, an agent is a system that has:
+>
+> • representational states or “beliefs”, whose functional role is to depict certain features of the environment as the system “takes them to be”;
+>
+> • motivational states or “desires”, whose functional role is to depict certain features of the environment as the system “would like them to be”; and
+>
+> • a capacity to intervene in the environment on the basis of these states, i.e., to “act” in pursuit of its “desires” in line with its “beliefs”.
+>
+> ... the conditions are quite minimal, and the systems satisfying them may vary greatly in agential capacities and sophistication. In principle, even a thermostat might qualify as an agent in a very basic sense: it has “beliefs” about the actual temperature, “desires” about the target temperature, and a capacity to “act” by regulating the heating (a well-known observation at least since Dennett’s 1987 work on the “intentional stance”). But nothing much is gained from viewing it this way, since a more straightforward mechanistic explanation is available.
+>
+> Now, whether a group can meet the conditions for agency depends on how it is organized. A random collective – say the collection of shoppers who happen to be in the supermarket at this moment – lacks the required structure. But a suitably organized collective can in principle meet the conditions. The examples I have mentioned – firms, courts, NGOs, and so on – are all of this kind. Whichever states of an organized collective play the functional roles of beliefs and desires will then qualify as the collective’s intentional states: the corporate beliefs and desires.
+>
+> ... it is important to distinguish the phenomenon of group agency from the related phenomenon of joint agency. We speak of joint agency whenever two or more individuals engage in some joint action. For example, they go for a walk together, carry a piano downstairs together, or undertake some common project. Clearly, some shared or joint intentions (or intentions that are suitably collectively directed) need to be present among the participants in order to make joint actions possible... What I want to emphasize is that joint agency is not the same as group agency... Two or more individuals who engage in a joint action do not necessarily bring into existence a group agent. We can make sense of joint actions without ascribing a single “centre” of belief, desire, and agency to the group in its entirety. It is sufficient for a joint action that the bearers of the underlying intentions are individuals; no group-level intentional states are needed. Of course, there may be joint actions within the context of a group agent. The practical mechanisms of forming a group agent may often include shared or joint intentions among the individual members. But joint agency is neither sufficient, nor (from purely logical perspective) even necessary, for group agency. It should be clear, then, that when I investigate whether there is such a thing as group consciousness I do not refer to the conscious experiences of the individual members of a group, nor to the experiences that might go along with participating in joint action... My focus here is on the question of whether the group as a whole can have such a thing as consciousness.
+>
+> 3. Consciousness
+>
+> What is consciousness? We use the term “consciousness” to refer to a number of distinct phenomena. On the one hand, we use it to refer to a set of phenomena related to **awareness**, and on the other hand, we use it to refer to a set of phenomena related to **experience**. We need to begin by disambiguating those two uses of the term; I will do so following the account in Chalmers.
+>
+> On the awareness side, we say that someone is “conscious” of a given fact or piece of information to indicate that he or she is cognitively aware of that fact or information, meaning roughly that he or she knows it or believes it explicitly and is able to access it cognitively. Similarly, we speak of someone’s “conscious state” when we wish to refer to everything that he or she is currently aware of, especially everything that currently falls under the scope of his or her attention. And we say that someone is “conscious” to indicate that he or she is not asleep or comatose, but “awake” and cognitively aware of his or her situation. Awareness is a functionalist notion. It can be explicated in ordinary, third-personal scientific terms. We can devise functional tests for awareness and attention, for instance by considering a subject’s behavioural responses to certain cognitive tasks and by observing his or her interactions with the environment...
+>
+> On the experience side, by contrast, we speak of someone’s “consciousness” to refer to what he or she subjectively experiences: what it is like to be that agent, from the first-personal point of view. This includes “the felt quality of redness, the experience of dark and light, the quality of depth in a visual field”, “the sound of a clarinet, the smell of mothballs”, bodily sensations such as pleasures and pains, the subjective quality of emotions, and so on. Philosophers also use the terms “phenomenal experience” or “qualia” to refer these subjectively experienced, first-personal states. Unlike awareness, phenomenal experience is not a functionalist notion and does not easily lend itself to an ordinary, third-personal scientific analysis...
+>
+> Nagel put his finger on something that later led to Chalmers’s distinction between the “easy” and “hard” problems of consciousness. The “easy” problems are to explain the structure of awareness and the various phenomena related to it, for instance “the ability to discriminate, categorize, and react to environmental stimuli; the integration of information by a cognitive system; the reportability of mental states; the ability of a system to access its own internal states; the focus of attention; the deliberate control of behavior; the difference between wakefulness and sleep”.
+>
+> What makes the “easy” problems easy is not that it does not take time, patience, hard work, and ingenuity to explain the phenomena in question. Of course, it does, and scientists deserve to win major prizes for relevant discoveries. What makes them easy is that, being essentially functional phenomena, they are amenable to an ordinary scientific analysis, using the tools of a broadly physicalist science.
+>
+> The “hard” problem, by contrast, is to explain phenomenal experience itself. We need to explain the following: why are we not merely functional systems which, for example, form beliefs about red objects, say for distinguishing ripe from unripe tomatoes, so that we can eat the former but not the latter? Why is there something it feels like to experience the bright red of a perfectly ripe tomato? In short, we need to explain why there is something it is like to be us, why we have phenomenal states at all, as opposed to merely functional states.
+>
+> As Chalmers notes, “[w]hat makes the hard problem hard and almost unique is that it goes beyond problems about the performance of functions”. While most other phenomena studied in the sciences are of a functionalist kind, a purely functionalist account of an agent cannot explain, even in principle, why certain phenomenal states accompany the functional ones. There seems to be no logical contradiction involved in postulating an agent who is functionally indistinguishable from an ordinary human being, who is even indistinguishable with respect to everything that has to do with awareness, but who lacks any phenomenal experience. Such an agent is called a zombie. The point is that the notion of a zombie is logically coherent, even if it turns out that there are no zombies in the actual world. And the very coherence of that notion is enough to illustrate that the phenomenal facts about an agent, if there are any, are not simply subsumed by the functional facts, but go beyond them.
+>
+> To summarize: there is an important distinction between consciousness as awareness and consciousness as experience. The former, but not the latter, is a functionalist notion.
+>
+> This allows me to draw a first, preliminary conclusion. It is that group agents can certainly have consciousness as awareness. We can meaningfully talk about which pieces of information a group agent such as the FBI is aware of in an investigation; and we can give an ordinary functionalist analysis of what we mean by awareness here. For instance, something on which the group agent holds an explicit belief, and which is accessible and reportable, falls under the umbrella of its awareness. We can also meaningfully talk about which things a group agent attends to or fails to attend to. For instance, an organization that has been struck by some scandal might give its attention to this issue and act so as to become clean; this could involve organizationally endorsing and enacting a new policy or code of conduct. We can even make sense of the idea of perceptual awareness in a group agent. As an information processing system, a group agent has various routes of epistemic access to the world. These are mediated through its individual members and its procedures, just as an individual agent’s perception is mediated through its sense organs and cognitive processes. And they may be sensitive to some features of the environment but not to others. Just as we humans are sensitive to sounds at certain frequencies but not to sounds outside that range, so a group agent may be perceptually sensitive to some environmental features but not to others.
+>
+> It should be evident that all of these phenomena can be analysed in ordinary functionalist terms. And the awareness capacities listed by Chalmers, such as “the ability to discriminate, categorize, and react to environmental stimuli”, “the integration of information by a cognitive system”, “the focus of attention”, and “the deliberate control of behavior”, can in principle be found in group agents as much as they can be found in individuals.
+>
+> Even the notions of “wakefulness and sleep” make sense in the context of a group agent. My university goes on vacation from time to time, which means that all offices and institutional activities are closed, all email servers go into vacation-response mode, and all official business is put on hold until the end of the break. The group agent will “wake up” and respond during that break only in a real emergency, such as a scandal suddenly uncovered by the press. This parallels the way in which a sleeping person or animal may wake up in a threatening situation.
+>
+> My claim that group agents can have consciousness as awareness is not just metaphorical. Rather, we can be realists about a group’s awareness, using the resources of functionalism about agency...
+>
+> ... Let me close by returning to my original question: what is it like to be a group agent? Although my argument is tentative and conditional, it seems that the answer may well be: (close to) nothing." - [What is it like to be a group agent? by Christian List](https://philarchive.org/rec/LISWII)
+
+
 
 
 
@@ -1757,8 +1788,6 @@ TODO INTERNET ^^ link for this
 Eliyahu Goldratt 23 developed the “theory of constraints" (TOC) providing tools for organizations to achieve their goals. It allows to map the logical structure of problems, which considerably help to make clear where disagreements appear.
 23 Eliyahu M. Goldratt, Jeff Cox, The Goal: A Process of Ongoing Improvement, North River Press, 1984. ;Lisa J. Scheinkopf, Thinking for a Change: Putting the Toc Thinking Processes to Use, CRC Press, 1999.
 [What is a worldview?, by Clément Vidal](https://web-archive.southampton.ac.uk/cogprints.org/6094/2/Vidal_2008-what-is-a-worldview.pdf)
-
-book: Group Agency (List and Pettit 2011)
 
 Salthe, S. N. (1985). Evolving hierarchical systems: Their structure and representation. Columbia University Press.
 
