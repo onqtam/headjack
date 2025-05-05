@@ -393,7 +393,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "" - [Why Everything is Becoming a Game, by Gurwinder]()
+> "" - [Why Everything is Becoming a Game, by Gurwinder](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 
 > "" - [Why Everything is Becoming a Game, by Gurwinder]()
 
