@@ -393,15 +393,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "" - [Why Everything is Becoming a Game, by Gurwinder](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
-
-> "" - [Why Everything is Becoming a Game, by Gurwinder]()
-
-> "" - [Why Everything is Becoming a Game, by Gurwinder]()
-
-> "" - [Why Everything is Becoming a Game, by Gurwinder]()
-
-> "" - [Why Everything is Becoming a Game, by Gurwinder]()
+> "Respect is so important to humans that it’s a key reason we evolved to play games. Will Storr, in his book The Status Game, charted the rise of game-playing in different cultures, and found that games have historically functioned to organize societies into hierarchies of competence, with score acting as a conditioned reinforcer of status. In other words, all games descend from status games. The association between score and status has grown so strong in our minds that, like pigeons pecking the button long after the food dispenser has stopped dispensing, we’ll chase scores long after everyone else has stopped watching." - [Why Everything is Becoming a Game, by Gurwinder](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 
 
 

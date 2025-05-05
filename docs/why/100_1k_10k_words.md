@@ -1,7 +1,15 @@
 
 # How to read this book
 
+make a diagram with all the titles and how some of them connect to different aspects of the last chapter "as a service"
+
+This is going to provoke you. Feel free to stop reading the moment you see some actual inconsistency or something very illogical, but unless you encounter such a thing, keep reading. We will deliver on every single one of these titles - no exception. By the time you're done with the book you'll agree with all of them too.
+
 # The First Book With Multiple Titles
+
+Because why not. Seriously!
+
+> "Free your mind." - Morpheus
 
 The Third Attractor
 The Fifth Joint Point - ala Gregg Henriques & his UTOK diagram
@@ -22,14 +30,26 @@ The Alignment/God Protocol
 The Book of Synthesis
 Minimum Viable Infinity
 The Next Game
-Complexity
+Coherence Protocol
+Algorithms to Vote by
+Integrated Why
+System Architecture
+The Symbolic World
+The One
+Giga Brain - or just Giga
+The Best of Us
+The Matrix part 2/4 - PLS DONT SUE US, ITS A JOKE, WE'RE MAKING USE OF THE INCREDIBLE LEGACY OF THE MATRIX, THIS ISN'T A REAL TITLE - CHILL
+Embracing Complexity
 Inevitability
+Optimal Fit - how to integrate yourself optimally with a collective - optimal fit as a service
+to integrate is to optimally fit into the organization of the system
+Civilization for Dummies
 Decentralizing the WEF
 The Superorganism
 The Global Creativity Aggregator
 Information Wants to be Free
 Global Integration
-Integrated Collectives
+Integrated Agency/Collectives
 The Singleton - not always an anti-pattern but crucial for solving global coordination problems
 Media Theory for the 21st Century
 Required Reading

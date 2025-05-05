@@ -861,27 +861,11 @@ consequence_capture_symbol.jpg
 
 
 
-> "Maintaining punishment (and thereby policing) as a public good by natural selection requires that individuals producing the good obtain sufficient fitness benefits that compensate for the associated costs. These benefits can be both direct (affect personal reproduction) and indirect (affect reproduction of relatives), so they are best considered in an inclusive fitness framework." - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "We thus define ‘punishment’ as ‘a behavior that inflicts a net cost on, or removes net benefits from, a target individual in response to a specific behavior by that target individual’. Under an inclusive fitness approach, we can make two assumptions about the evolution of punishment. First, the imposed costs or removed benefits should on average be high enough to make the target behavior unprofitable, and second, ... punishment should only evolve when it provides a punisher with net inclusive fitness benefits." - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "We therefore define ‘policing’ as ‘a punishing behavior that reduces average inclusive fitness losses of group members resulting from within-group competition for direct fitness gains’... Our policing definition excludes punishing behaviors that disrupt group stability, like some instances of retaliatory or coalitionary violence, because these behaviors do not benefit average inclusive fitness within groups and can sometimes be subject to policing themselves." - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
-
-> "" - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
+> "Maintaining punishment (and thereby policing) as a public good by natural selection requires that individuals producing the good obtain sufficient fitness benefits that compensate for the associated costs. These benefits can be both direct (affect personal reproduction) and indirect (affect reproduction of relatives), so they are best considered in an inclusive fitness framework.
+>
+> ... We thus define ‘punishment’ as ‘a behavior that inflicts a net cost on, or removes net benefits from, a target individual in response to a specific behavior by that target individual’. Under an inclusive fitness approach, we can make two assumptions about the evolution of punishment. First, the imposed costs or removed benefits should on average be high enough to make the target behavior unprofitable, and second, ... punishment should only evolve when it provides a punisher with net inclusive fitness benefits.
+>
+> ... We therefore define ‘policing’ as ‘a punishing behavior that reduces average inclusive fitness losses of group members resulting from within-group competition for direct fitness gains’... Our policing definition excludes punishing behaviors that disrupt group stability, like some instances of retaliatory or coalitionary violence, because these behaviors do not benefit average inclusive fitness within groups and can sometimes be subject to policing themselves." - [Policing and punishment across the domains of social evolution](https://sci-hub.se/10.1111/oik.02064)
 
 
 We can fail nature - we’ve surpassed it but have not fully learned from it
