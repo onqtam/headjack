@@ -85,6 +85,10 @@ The contribution of this book is in 1) this selection with zero paraphrasing and
 
 However, in may of the quotes the references to the ends of the papers were omitted for brevity. Not sure if this was the right choice but it's too late now anyway.
 
+All books have some repetition of what is being said, but it's usually by the same author and with very similar words. When using so many quotes by others, many points get made more than once, but with the distinct vocabularies and approaches of the many different authors.
+
+You get to experience a wide plethora of styles.
+
 ## Won't the powers that be oppose this system?
 
 This is for those that can read between the lines

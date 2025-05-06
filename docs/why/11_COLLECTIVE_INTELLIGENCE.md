@@ -1216,6 +1216,11 @@ https://fairvote.org/our-reforms/ranked-choice-voting/
 Ranked: Sortable options as ranked preferences. Arrow's impossibility theorem must be taken into consideration for any innovation regarding ranked ballots.
 https://github.com/DemocracyEarth/paper#22-voting:~:text=Ranked%3A%20Sortable%20options%20as%20ranked%20preferences.%20Arrow%27s%20impossibility%20theorem%20must%20be%20taken%20into%20consideration%20for%20any%20innovation%20regarding%20ranked%20ballots.
 
+Jordan Ellenberg - ＂No Such Thing As Public Opinion＂ (C4 Public Lectures) SantaFe Institute YT Channel
+https://www.youtube.com/watch?v=9ts7MiYTn9I
+^^ problems with voting systems and aggregation of opinion, related to Arrow's impossibility theorem?
+
+
 https://en.wikipedia.org/wiki/Cardinal_voting
 
 ability to specify criteria for the delegation - no need to pick specific people.

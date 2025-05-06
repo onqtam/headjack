@@ -1597,7 +1597,6 @@ https://doi.org/10.1525/9780520340510.
 
 
 
-
 > "" - [Social Decision Making with Multi-Relational Networks and Grammar-Based Particle Swarms](https://arxiv.org/abs/cs/0609034)
 
 > "" - [Stigmergic Collaboration: A Theoretical Framework for Mass Collaboration](https://dlc.dlib.indiana.edu/dlc/handle/10535/3574)
