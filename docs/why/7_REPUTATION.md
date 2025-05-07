@@ -777,6 +777,8 @@ Instead of compromising on competence and meritocracy we should shift resources 
 # SECTION: Minimum Viable Superorganism
 ██████████████████████████████████████████████████████████████████
 
+
+
 > "Of all the remarkable things about our species... perhaps the most striking of all is our ability to band together and act as a united, coherent superorganism. **E pluribus unum**. From many, one. I don't mean anything particularly high-minded by "superorganism." It's just a fun way to refer to a cooperative enterprise. **Co-**, together + **operari**, work. Acting in concert. Coordinating individual behavior in pursuit of shared goals. Superorganisms, in this sense, include such mundane arrangements as law firms, soccer teams, city governments, and party planning committees. In fact, most of the groups we care about are superorganisms. A mere crowd, on the other hand, isn't a superorganism. It's just every man for himself — all **pluribus**, no **unum**...
 >
 > BUILDING A SUPERORGANISM

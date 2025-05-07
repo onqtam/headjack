@@ -5,6 +5,8 @@ make a diagram with all the titles and how some of them connect to different asp
 
 This is going to provoke you. Feel free to stop reading the moment you see some actual inconsistency or something very illogical, but unless you encounter such a thing, keep reading. We will deliver on every single one of these titles - no exception. By the time you're done with the book you'll agree with all of them too.
 
+We defend very few of the arguments we make - instead we count on the intuition of the reader to see that they are mostly right. And in the case of disagreement - the hope is that there is enough enticing material for readers to stick around, and to then help resolve some of the issues of the text in the system we shall build.
+
 # The First Book With Multiple Titles
 
 Because why not. Seriously!
@@ -34,6 +36,7 @@ Coherence Protocol
 Algorithms to Vote by
 Integrated Why
 System Architecture
+The Most Demanding Book - it demands action
 The Symbolic World
 The One
 Giga Brain - or just Giga
@@ -49,6 +52,12 @@ The Superorganism
 The Global Creativity Aggregator
 Information Wants to be Free
 Global Integration
+The Density of Destiny, or "Destiny's Density"
+Pansophy
+    > "... pansophy, a system of universal wisdom that could serve as an integrative world philosophy. The notion of pansophy itself can be found in several Rosicrucian texts, where it represents a sophisticated Neoplatonic synthesis of alchemy, Christology, Utopianism, and Baconian natural science... Comenius’ pansophic work presents a theory of everything woven together right as modernity began to fracture the value spheres and disciplines. It is an attempt at an integration of all knowledge into a single system, including the new empirical sciences, as well as religious aspects of human culture. Importantly, pansophy provides for the design of educational configurations capable of catalyzing a universal reform of all human institutions." - [Education must make History Again, by Zak Stein](https://systems-souls-society.com/education-must-make-history-again/)
+pansophic planetary paideia
+The Liminal
+    > "The liminal is exactly that which is the bridge and fulcrum between worlds. The focus of work in the liminal is on foundations, metaphysics, religion, and the deeper codes and sources of culture—education in its broadest sense. Individuals working here are often “beyond [conventional notion of] good and evil” in the Nietzschean sense, having stepped out past the edges of the old world, while doing the work of creating a new one. This is dangerous work and the stakes are high, as the choices and actions made in the liminal set the trajectory and shape of the new emerging world." - [Zak Stein](https://systems-souls-society.com/education-must-make-history-again/)
 Integrated Agency/Collectives
 The Singleton - not always an anti-pattern but crucial for solving global coordination problems
 Media Theory for the 21st Century

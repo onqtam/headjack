@@ -4000,6 +4000,8 @@ How do we motivate the right self-development and education that ought to be the
 
 SoulOS - purpose and meaning
 
+Alasdair MacIntyre once wrote: ‘I can only answer the question “What am I to do?” if I can answer the prior question “Of what story or stories do I find myself a part?”’
+
 God is integrated information
 
 God is our aggregated and compressed competence that can speak to us - the system that answers every question in the world publicly

@@ -3,6 +3,9 @@ draft: true
 ---
 
 TOPICS TO FINISH AS A SECTION:
+
+- EDUCATION !!!
+
 - Coordination Theory
 - Self-organization in Communicating Groups
 - global brain

@@ -232,6 +232,10 @@ In parallel:
 
 
 
+# Version 2.0 of this book - along with a detailed changelog of what was added, changed and removed (and also why)
+
+Not a sequel, but an improvement of this one singular book. An evolving synthesis.
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: STONE TABLET IPFS CID HASH OF BOOK
 ██████████████████████████████████████████████████████████████████
