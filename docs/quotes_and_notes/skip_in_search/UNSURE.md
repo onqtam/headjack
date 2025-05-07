@@ -324,3 +324,9 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "Symbolic thinking: Symbolic thinking is a form of controlled thinking, where we consciously examine the different steps in the train of thought that leads to a particular conclusion. That is possible because these steps are represented as statements consisting of concepts or symbols (typically words). These statements can be held in working memory, allowing them to be evaluated as to their correctness. This form of thinking is also called reection, reasoning, or rationality. It is typical for humans, who are the only species that systematically uses symbols to reason." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
+> "If technology does not liberate all people for the pursuit of higher aspirations in human achievement, then all its technical potential will be meaningless." - [Jacque Fresco](https://www.azquotes.com/quote/728555)
+
+> "What does the frontal cortex do? Gratification postponement, executive function, long-term planning, and impulse control. Basically, it makes you do the harder thing." - [Robert Sapolsky](https://www.azquotes.com/quote/1562499)
+
+> "The frontal cortex doesn't even fully develop until age 25, which is wild!" - [Robert Sapolsky](https://www.azquotes.com/quote/1562498)
+

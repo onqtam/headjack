@@ -521,6 +521,10 @@ When these principles are applied, they ensure that whatever structures are deve
 ██████████████████████████████████████████████████████████████████
 
 
+
+> "Most complex systems — be they natural, human or artificial — are hierarchical in structure. This does not refer to their internal relations of power or authority, but to the fact that they are divided into parts, and the parts into parts, and so on, like an elaborate collection of Chinese boxes... Complex systems will evolve from simple systems much more rapidly if there are stable intermediate forms than if there are not. The resulting complex forms in the former case will be hierarchic… Among possible complex forms, hierarchies are the ones that have the time to evolve." - [The Architecture of Complexity — Herbert Simon on Watchmaking, Hierarchies, and Decomposable Systems](https://athenarium.com/the-architecture-of-complexity-herbert-simon/)
+
+
 > "Unless we establish some form of world government, it will not be possible for us to avert a World War III in the future." - [Winston Churchill](https://www.azquotes.com/quote/785081)
 
 
