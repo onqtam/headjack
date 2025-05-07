@@ -74,21 +74,6 @@ The later you read this the more of a laggard you will be - this system is inevi
 
 Because we have a broken digital system for attributing who said and expressed what. How about we change that?
 
-Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.
-
-Faq: why so many quotes? Multiple reasons:
-1) unique style
-2) an example how this complex set of expressions could have been aggregated from so many sources
-the contribution should be in what's new instead of rehashing other people's ideas and taking credit
-The quote-heavy part of this book is mostly an effort in selection and taste, a collector's edition for impactful thought by others.
-The contribution of this book is in 1) this selection with zero paraphrasing and full accounting of credit, and 2) the novel ideas that build on top of everything that's quoted.
-
-However, in may of the quotes the references to the ends of the papers were omitted for brevity. Not sure if this was the right choice but it's too late now anyway.
-
-All books have some repetition of what is being said, but it's usually by the same author and with very similar words. When using so many quotes by others, many points get made more than once, but with the distinct vocabularies and approaches of the many different authors.
-
-You get to experience a wide plethora of styles.
-
 ## Won't the powers that be oppose this system?
 
 This is for those that can read between the lines

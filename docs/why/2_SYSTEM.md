@@ -126,7 +126,7 @@ https://www.youtube.com/watch?v=SjxJ1wPnkk4
 
 ^^ Thank God for the UN
 
-> "I hope that soon there will be a deeply shared acceptance that none of our current institutions are trust-worthy and a deeply shared conviction that we can and must (re)build trust ourselves." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636#:~:text=I%20hope%20that%20soon%20there%20will%20be%20a%20deeply%20shared%20acceptance%20that%20none%20of%20our%20current%20institutions%20are%20trust%2Dworthy%20and%20a%20deeply%20shared%20conviction%20that%20we%20can%20and%20must%20(re)build%20trust%20ourselves.)
+> "I hope that soon there will be a deeply shared acceptance that none of our current institutions are trust-worthy and a deeply shared conviction that we can and must (re)build trust ourselves." - [Jordan Hall](https://medium.com/deep-code/the-war-on-sensemaking-900086bca636)
 
 > "It is not stretching the truth to say that effectively all of our social institutions are a bad combination of corrupt and obsolete. Our education system. Our healthcare system. Our food production systems. Our banking and finance systems. Our journalism and science systems. Our political systems." - [Defund (and redesign) everything, by Jordan Hall](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d)
 

@@ -1698,8 +1698,6 @@ TODO INTERNET ^^ link for this
 
 
 
-> "... while we have been correct to believe that capitalism has been the major source of historical growth and prosperity, we have been mostly incorrect in identifying how and why it worked so well... the conventional economic theories we have relied upon for the past century have misled us about the workings of capitalism. Only by replacing our old theories with better and more modern ones will we build the deeper understanding necessary to improve our capitalist system." - [Redefining capitalism, by Eric Beinhocker and Nick Hanauer](https://www.mckinsey.com/featured-insights/long-term-capitalism/redefining-capitalism)
-
 
 
 > "" - []()
