@@ -117,19 +117,27 @@ The MVP is deduplicatiom together with relevance aka ranking/sorting and aggrega
 Minimum viable hivemind
 
 
-Explain why the next volume is more important than me coding - because this is the fastest way possible to disseminate the best possible course of action
+Explain why the next version of the book is more important than me coding - because this is the fastest way possible to disseminate the best possible course of action
 
-And explain how volume 2 will be produced and what to expect in ingesting the next set of ideas most optimally - the diff, the ability to compare whats new and whats changed and make that as easy for navigation as possible - explaining the evolutionary architecture pf the next bible
+# the next version of this book (not a volume 2 but a next integrated version)
+
+And explain how version 2 will be produced and what to expect in ingesting the next set of ideas most optimally - the diff, the ability to compare whats new and whats changed and make that as easy for navigation as possible - explaining the evolutionary architecture pf the next bible
 Explain how the plan os for this book to end up being encoded into the global brain as evolving weights and that this is genesis - the seed
 Genesis
 The seed - as titles
-Why rush volume 1? Because we literally dont have time and every second counts
+Why rush version 1? Because we literally dont have time and every second counts and because there will be a version 3 and because eventually all of this will end up as weights in the global brain
 
 
-The role for artists:
+
+
+# The role for artists
+
 - distill whatever concepts you like from this book and make educational and viral materials - be it text, songs, drawings, graphs. And make them on multiple levels of abstraction so that they're approachable by anyone no matter their preparation. We'll be able to rate them
 The role for artists - what types of memes and how we’re gonna rate them according to what we want to see in the world
+!!! make tiktok dances about multipolar traps and tragedies of the commons and collective intelligence
 
+> "The first elements of a new emerging [metameme](https://metamoderna.org/what-is-a-metameme/) (societal stage of
+development) are always to be found within the arts." - [Hanzi Freinacht](https://metamoderna.org/why-the-alternative-in-denmark-failed/)
 
 # geopolitics
 

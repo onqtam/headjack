@@ -695,8 +695,6 @@ We can specify what we want the matrix to compute for us
 
 We need to consciously guide our development throughout time - we need to specify what the most appropriate way to be is, and have a trustworthy and legitimate process for determining that
 
-The first dimension - the first time we get to vote on what is most important digitally- this is us being able to point and evolve, and cohere through common knowledge 
-
 Legitimacy needs to be CONTINUALLY/perpetually earned
 
 what if we could track and visualize the progress of anyone in anything within their knowledge tree and simply pick publickly the best ones - and make working in public the only way of legitimizing power
@@ -4549,7 +4547,6 @@ Wisdom and meaning famine
 evolution is a kind of learning - we need to foster gradual evolvability in every direction
 Autodidactic !!!
 
-what if we could short topics? like putting our thumbs on the scales - "show less culture war stuff and surface more important issues"
 
 minimizing ignorance - we need to minimize the error in our models of reality
 
@@ -4634,7 +4631,35 @@ Consciousness is about directing computational resources - our predictive capaci
 
 
 Culturally short sociopathic corporatism
+what if we could short topics? like putting our thumbs on the scales - "show less culture war stuff and surface more important issues"
+> "We can collectively begin to speculate in cultural capital, in sociological imagination, in the artworks of life itself." - [Hanzi Freinacht](https://metamoderna.org/nfts-are-flowers-of-evil-yes-but-they-can-save-the-world/)
 
+> "... we must also reimagine the intellectual ownership structures themselves... In her book chapter of the 2021 volume Metamodernity..., Siva Thambisetty argues that there is something rotten in the kingdom of intellectual property (IP). While the purpose of IP has been to spur innovation and protect innovators, it has also created articial scarcity, skewed incentives, shifted games from innovation to legal battles, excluded the needing, and radically centralized economic power to few hands. ... [Rufus Pollock](https://en.wikipedia.org/wiki/Rufus_Pollock) has written a book titled The Open Revolution that argues for rewarding innovators through a system that still guarantees open access to the innovations themselves (not entirely unlike how Spotify or national license services function for music).
+
+If there are speculative bubbles of “art investments” (where art itself, then, increasingly spills over into
+other realms and begin to redene them) in increasingly socially and culturally meaningful endeavors,
+there should reasonably be regulations that guarantee the accountability of the projects as well as
+making certain that a part of the speculative drive actually benefits the project itself.
+This would be an entirely new form of market—a synthesis of intellectual property, philanthropy, the
+nancial market (including stock markets), and, of course, blockchain and the art market.
+At this point, the jury’s still out on what such regulations might look like exactly. All I am saying is
+that such a new beast would require new regulations and claried rules of engagement—and that the
+states that are rst movers in innovating this kind of “metamodern intellectual property” are likely to
+attract a truckload of capital that can be used also by the state itself.
+This last one is a tall order. But, as any respectable sociologist will tell you, states and markets develop
+together as new technological tropes emerge. The home of the next level of intellectual property will
+thus likely also become the center of metamodernism in the world, with the largest concentration of
+Protopian experiments.
+Protopian experiments are necessary to transform society from its modern trajectory of
+unsustainability into something more stable and desirable...
+Or, put differently: If we can swindle ourselves into doing stupid things, we can also swindle ourselves
+into doing good things. It’s a pyramid scheme turned on its head: taking speculation and directing its
+forces to those who imaginatively create better societies around the world. It’s a weird path, for certain,
+but one that shouldn’t be ignored.
+
+" - [Hanzi Freinacht](https://metamoderna.org/nfts-are-flowers-of-evil-yes-but-they-can-save-the-world/)
+
+^^ TODO FIX ME IN THE MORNING
 
 
 

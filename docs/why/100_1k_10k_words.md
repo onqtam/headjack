@@ -85,10 +85,14 @@ Giga Brain - or just Giga
 The Best of Us
 The Matrix part 2/4
     PLS DONT SUE US, ITS A JOKE, WE'RE MAKING USE OF THE INCREDIBLE LEGACY OF THE MATRIX, THIS ISN'T A REAL TITLE - CHILL
+    ALSO THIS BOOK HAS ONLY 1 TITLE AND EVERYTHING HERE IS FAKE TITLES
     The Matrix part 2 is not a movie but the source code of God
 Birthing Collective Consciousness
 Embracing Complexity
 Genesis / The seed
+The first dimension
+    the first time we get to vote on what memeplex (or set of ideas) is most important digitally - this is us being able to point and evolve, and cohere through common knowledge
+    not sure about this... sux?
 Minimum Viable Government
 “Family”/“The family”
 Incentives from first principles
