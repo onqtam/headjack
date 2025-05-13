@@ -1700,21 +1700,51 @@ TODO INTERNET ^^ link for this
 
 
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "PART I: SEEING THE BIGGER PICTURE
+>
+> TL;DR:
+>
+> The concept of progress is at the heart of humanity’s story. From the present, it is possible to imagine a future of abundance in which our great challenges have been addressed by the unique human ability to modify the universe toward our own ends. Many believe that we will attain this future through a combination of expanding human knowledge and advanced technologies.
+>
+> This article explains how our current idea of progress is immature: it is developmentally incomplete. Progress, as we define it now, ignores or downplays the scale of its side effects. Our typical approach to technological innovation today harms much that is not only beautiful and inspiring, but also fundamentally necessary for the health and well-being of all life on Earth. Developing a more mature approach to our idea of progress holds the key to a viable, long-term future for humanity.
+>
+> The way we understand what progress is and how we achieve it has profound implications for our future. Ultimately, it shapes our most significant actions in the world—it affects how we make changes and solve problems, how we think about economics, and how we design technologies. Whatever is not included in our definition and measurement of progress is often harmed in its pursuit. Its side effects (or externalities) occur in a complex cascade, often distributing harms throughout both time and space. The second- and third-order effects of our actions in the world can be difficult to attribute to their original cause, and are frequently more significant than we realize.
+>
+> As technology gets more powerful, its effects on reality become increasingly consequential. On our current trajectory, these effects will end civilization’s story long before we merge with machines, or before we have built a self-sustaining colony elsewhere in the solar system. We are not as close to a multi-planetary future as we are to the kind of damage to the biosphere that either destroys or significantly degrades civilization. If we continue to measure and optimize progress against a narrow set of metrics—metrics focused primarily on economic and military growth, which do not account for everything on which our existence depends—our progress will remain immature and humanity will continue its blind push toward a civilizational cliff edge.
+>
+> In this article, we use the phrase “the progress narrative” to refer to the way we think and talk about progress in society. The progress narrative is the pervasive idea within our culture that technological innovation, markets, and our institutions of scientific research and education enable and promote a general improvement in human life. This article questions the accuracy, incentives, and risks of this narrative, examining the reasons that the idea has held such a central role in shaping the development of our global civilization. In doing so, it attempts to outline the progress narrative earnestly and clearly, noting that it is often driven by an honest desire to see positive change in the world. The intention is not to point the finger of blame, or to deconstruct for the sake of argument. It is to inform a way forward and outline a path ahead toward potential solutions.
+>
+> Drawing on a range of sources, the article takes an interdisciplinary approach to exploring the reality of humanity’s current trajectory. Several prevalent progress myths are reexamined, including apparent improvements in life expectancy, education, poverty, and violence. The roots of these inaccuracies are exposed by widening the aperture of our view. Even if we are living longer, many measures of the quality of life we are living are in decline. Our educational outcomes are in many ways deteriorating, even if access to education is improving. At a global level, despite the common narrative, it is not clear at all that poverty is actually reducing. And the tools of violence have increased vastly in scale of impact since the end of World War II; we now routinely create the kind of weaponry previously reserved for dystopian science fiction.
+>
+> ... Our idea of progress needs to mature. If humanity is to survive and thrive into the distant future, we must transform and elevate the very idea of progress into something truly good and worthy of our shared pursuit and aspiration. As we understand more about the universe and find new ways of changing it with our technologies, we must account for the endless ripple of cause-and-effect beyond our immediate goals. We must factor both the upsides and the downsides that will continue to impact reality long after the technologists of today are gone.
+>
+> For our idea of progress to be mature, it must take account of its side effects and plan to resolve them in advance—it must internalize its externalities. In the second part of this article, four specific methods for internalizing externalities are outlined, alongside some clear examples of what such a process might entail.
+>
+> The possibility of a mature kind of progress is both grounded and optimistic. It’s a proposal that the human capacity for both wisdom and ingenuity is far greater than we currently imagine. We are capable of holding the unknowable complexity of reality at the very center of how we take action in the world, and mitigating the consequences of the gaps in our knowledge in advance. This enables a real kind of progress that reduces suffering, builds a better understanding of the universe and our place within it—and increases our chances of both surviving and thriving into the distant future.
+>
+> ... It is humbling to realize that we are unlikely ever to fully appreciate the extent of the effects caused by our overconfidence in our tools and technologies.
+>
+> ... In all of the cases noted above, for at least a brief time, we thought that each product was a positive and desirable innovation. Among both experts and members of the broader public, each one was seen as a beneficial tool for the management of a problem we wanted to solve—as a form of progress. As it turned out, our conception of progress in these cases was naive. Humanity was deficient in broader awareness and understanding of other highly consequential effects of their use. This article suggests that the same phenomenon—naivety of the totality of a technology’s effects—is true more often than not for the technologies that we create. As technological advancement accelerates, we must also factor the joint problems of the increased scale of impact and speed of deployment. The consequences of side effects of new technologies grow as their power and reach increase.
+>
+> ... The way in which we set exposure limits for chemicals in the environment provides a false sense of security. A single threshold limit can never capture the nuance of biological reality; a certain amount of a given chemical may have a very different effect on a child, for example, than it would on a fully grown adult. Exposure limits must be set in part because an industry exists for the production of such chemicals. The market demands the chemical for a purpose, and so the default position is, in effect, that each chemical is safe up to a limit until proven otherwise. A market pressure exists for the safety limit to be above zero.
+>
+> ... The vast majority of the most consequential and difficult problems we face—climate change, nuclear war, species extinction—are the unintended outcomes of humans attempting to solve other problems. In our efforts to solve the problem of World War II, for example, we invented nuclear weapons, which played a role in ending the war, and yet at the same time delivered humanity into a far more precarious and insecure world. For many of our greatest problems, at some point in the past we designed technical solutions to address them, and in the time since the solutions have had other effects that we either did not predict or did not mitigate sufficiently in advance. The problems the world faces today are not caused by our inability to achieve our goals—they are a direct result of our success. They are a result of how destructive we are in the pursuit of our goals." - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
-> "" - [Development In Progress, Feature Article, Jul 16, 2024](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
 
 
 

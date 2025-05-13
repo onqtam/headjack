@@ -303,6 +303,8 @@ https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
 >
 > The result is perception, which the PP theory describes as “controlled hallucination”. You’re not seeing the world as it is, exactly. You’re seeing your predictions about the world, cashed out as expected sensations, then shaped/constrained by the actual sense data." - [Book Review: Surfing Uncertainty, by Scott Alexander](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/#:~:text=the%20brain%20is,actual%20sense%20data.)
 
+Controlled Hallucination
+
 -->
 
 

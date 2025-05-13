@@ -1001,8 +1001,6 @@ https://www.techspot.com/news/85862-record-amount-e-waste-generated-2019.html
 
 > "I am thinking about something much more important than bombs. I am thinking about computers." - [John von Neumann](https://www.azquotes.com/quote/1386902)
 
-> "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
-
 > "The most dangerous worldview is the naive progress narrative, expressed as techno and capitalist optimism." - [Daniel Schmachtenberger](https://youtu.be/-McfN9r8DzI?t=2000)
 
 > "Our current systems are perfectly organized to result in the self-organization of the destruction of human civilization." - [John Stewart](https://youtu.be/ftuY7BIzn9M?&t=6312)

@@ -113,6 +113,22 @@ Can this be funded like star citizen?
 
 Reading this book constitutes initiation into the parallel society
 
+The MVP is deduplicatiom together with relevance aka ranking/sorting and aggregating
+Minimum viable hivemind
+
+
+Explain why the next volume is more important than me coding - because this is the fastest way possible to disseminate the best possible course of action
+
+And explain how volume 2 will be produced and what to expect in ingesting the next set of ideas most optimally - the diff, the ability to compare whats new and whats changed and make that as easy for navigation as possible - explaining the evolutionary architecture pf the next bible
+Explain how the plan os for this book to end up being encoded into the global brain as evolving weights and that this is genesis - the seed
+Genesis
+The seed - as titles
+Why rush volume 1? Because we literally dont have time and every second counts
+
+
+The role for artists:
+- distill whatever concepts you like from this book and make educational and viral materials - be it text, songs, drawings, graphs. And make them on multiple levels of abstraction so that they're approachable by anyone no matter their preparation. We'll be able to rate them
+The role for artists - what types of memes and how we’re gonna rate them according to what we want to see in the world
 
 
 # geopolitics

@@ -488,6 +488,9 @@ We need to define property rights and ownership and taxation through morality
 # SECTION: Constraints
 ██████████████████████████████████████████████████████████████████
 
+Independence through (inter)dependence
+Freedom through constraint
+
 > "Freedom is the power to choose our own chains." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/371725)
 
 > "In my youth I stressed freedom, and in my old age I stress order. I have made the great discovery that liberty is a product of order." - [Will Durant](https://www.azquotes.com/quote/83462)
@@ -902,7 +905,22 @@ It is disrespectful to nature to not learn from it - nature is wisdom
 >
 > The irony of multipolar traps is stark. They epitomize how rational decisions, instead of leading us to beneficial outcomes, often lock us into undesirable situations. They demonstrate a harsh truth: our individual perspectives, when multiplied across society, can steer us toward collective harm. So, where does this leave us?It urges us to acknowledge that our decisions echo beyond our immediate circles. We're woven into a vast network of actions and consequences, each reverberating with the choices of others. Multipolar traps aren't merely a theoretical concept; they're a cautionary tale about the pitfalls of unchecked self-interest. They remind us that the pursuit of common good requires more than isolated rational choices - it necessitates collective wisdom, empathy, and cooperation. In summary, the term 'multipolar trap' paints a powerful picture of the sometimes paradoxical relationship between individual rationality and collective wellbeing. By understanding it, we're better equipped to recognize these traps in our lives and the broader world. And in doing so, we might just find a way to navigate these traps more wisely. After all, isn't the first step toward escaping a trap acknowledging that it exists?" - [Unseen Battles: How Multipolar Traps Drive Our World, by Miles Rote](https://www.milesrote.com/blog/unseen-battles-how-multipolar-traps-drive-our-world)
 
+https://www.youtube.com/watch?v=pfeIsy2ElwQ
+Multipolar traps and the tragedy of the commons | Daniel Schmachtenberger
 
+> "The Multipolar Trap... is derived from game theory and describes a situation where multiple self-interested parties are compelled to act against their collective interest, leading to poor outcomes or even destruction.
+>
+> THE TRAGEDY OF THE COMMONS
+>
+> Imagine a village where several farmers share a common pasture for their livestock. Each farmer seeks to maximize their benefit by adding more animals to the field to increase profit. However, as more animals graze, the pasture becomes overgrazed and unable to sustain the increasing population. Ultimately, the collective interest in maintaining a healthy pasture is compromised due to each farmer’s pursuit of personal gain. In this scenario, the multipolar trap is the powerful force that drives the farmers to exploit the shared resource, leading to its degradation and harming them all.
+>
+> THE PRISONER’S DILEMMA
+>
+> The Prisoner’s Dilemma is a concept from game theory that illustrates a situation where two individuals are faced with a choice to cooperate or betray each other. In this scenario, if both players choose to cooperate, they both receive a moderate payoff. However, if one player chooses to betray while the other cooperates, the betrayer receives a high payoff while the cooperator receives a low payoff. If both players choose to betray, they both receive a somewhat negative payoff. The Prisoner’s Dilemma is another good example of a multipolar trap because it highlights a situation where multiple individuals are trapped in a conflict that leads to suboptimal outcomes for all parties involved. Despite the potential for mutual benefit if both players cooperate, the temptation to betray the other player often leads to a situation where both players end up worse off. This dilemma represents a multipolar trap as it involves multiple actors who are unable to escape the negative consequences of their individual choices.
+>
+> WHY IS THE CONCEPT IMPORTANT?
+>
+> " - [Multipolar Traps or Moloch Traps: Acting against our collective interest](https://conversational-leadership.net/multipolar-trap/)
 
 
 

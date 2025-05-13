@@ -301,6 +301,9 @@ honorable mentions:
 top10 heresies:
 - random mutations are a small part in the variation of biological evolution and we're yet to discover/explain the full picture
 
+Top 10 concepts everyone should understand:
+Tragedies of the commons, multipolar traps
+
 top10 mavericks of psychology alive today:
 - Gregg Henriques
 

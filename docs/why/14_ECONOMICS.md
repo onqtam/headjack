@@ -1769,6 +1769,10 @@ all of chapter 8 is good, it's part of his book "The Nature of Technology"
 
 
 
+
+Instead of trying to get prices to reflect the full spectrum of effects - trying to fold everything in the price - (adding costs for externalized harms) we can add additional dimensions to things - we can influence the desirability of the good without trying to price in the carbon externalities or the cultural externalities of it - not because full reflection of the externalities through the price isn’t important but because it might be easier to add additional dimensions of regulation
+
+
 <!-- 
 
 Taming the market - riding a worm in dune

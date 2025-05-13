@@ -402,6 +402,13 @@ TODO: relisten and take notes from it - daniel: we need to model ourselves as na
 > "In essence, the meaning of life is to increase evolutionary fitness." - [Foundations and Methodology for an Evolutionary World View: a review of the Principia Cybernetica Project, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/PCPworldview-FOS.pdf)
 
 
+The real art of living
+What is the purpose of life? To be part of a greater whole.
+The purpose of life is to be a part of a greater whole.
+
+
+> "What contributes to a meaningful life? A sense of belonging. If you don't have it—you're in trouble: financially, socioeconomically, psychologically, culturally. Belonging is when there has been a co-shaping of organism and environment so they fit well (they belong) together." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1920766662124478557)
+
 
 
 > "Meaning: People consider their lives meaningful if they have a system of goals and values that tells them what is good or worthwhile for them to do. They also need to have a general understanding of how the world around them functions and how they and their activities fit in with that world. That provides them with a prospect of potential courses of action that would allow them to achieve their goals concretely. It also gives them a sense of connection, knowing which external resources they can rely on and how their actions can contribute to the larger whole." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
@@ -1204,6 +1211,7 @@ Judgement as a service
 Justification as a service
 Reason as a service
 Coherence as a service
+Trust as a service
 Shared memory as a service
 Shared identity as a service
 Wikimeaning as a service

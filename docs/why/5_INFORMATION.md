@@ -443,9 +443,6 @@ we can have a lot more choice in what is being promoted in media
 - 
 - knowledge graphs & the semantic web
 
-google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much broader
-Google failed - they didnt organize the worlds information - they merely ranked it
-
 just like in open source problems need to be solved only once, the same way in a world of unified identity & deduplicated concepts interwoven with social media debates need to be had only once
 
 stable identity keys allows for stable concept/collection/noun keys which allows for stable mapping and deduplication of concepts

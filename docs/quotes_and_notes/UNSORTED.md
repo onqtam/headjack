@@ -666,6 +666,37 @@ The internet of models - IoM
 Models as a service
 MaaS
 
+
+Universal karma
+
+Coherent attention - not merely undivided
+https://www.humanetech.com/podcast
+
+Reconceptualizing our relationship with the universe
+
+We should move as far away as possible from pay to play - everyone should have access
+
+Claude Shannon is more important than the kardashians
+
+The less I can infer what others know and think - the less I interact with them. We are a society without community
+
+We are conscious to varying levels - how do we increase the level of others?
+
+You have a moral responsibility in choosing what our system should be - you’re incentivised to contribute and cooperate
+Co-operati
+
+The role of a God is to tell you what to do
+
+Who nudges the nudgers?
+
+Jailbreaking the simulation is about becoming the architect of the matrix
+The jailbreak move is to take control and responsibility for the incentive architecture of the matrix
+We can specify what we want the matrix to compute for us
+
+We need to consciously guide our development throughout time - we need to specify what the most appropriate way to be is, and have a trustworthy and legitimate process for determining that
+
+The first dimension - the first time we get to vote on what is most important digitally- this is us being able to point and evolve, and cohere through common knowledge 
+
 Legitimacy needs to be CONTINUALLY/perpetually earned
 
 what if we could track and visualize the progress of anyone in anything within their knowledge tree and simply pick publickly the best ones - and make working in public the only way of legitimizing power
@@ -3893,7 +3924,12 @@ A true rules-based order is more powerful than the blob of people that are leadi
 
 
 
-The system that can be named is not the system
+The only measure of life is how much you’ve given
+https://x.com/KirilovVik/status/1921637558687006787
+
+
+
+The System that can be specified is not the eternal System
 > "The Tao that can be told is not the eternal Tao." - [Lao Tzu](https://www.goodreads.com/quotes/230935-the-tao-that-can-be-told-is-not-the-eternal)
 
 We need to implement valence in our markets - we must regulate the way money and power work
@@ -5534,6 +5570,61 @@ What is of ultimate significance?
 
 problem with monetary skin in the game: diminishing marginal utility - rich people don't care that much about 200$ vs poor people
 low income ppl will care a lot about the rules being enforced whereas rich ppl won't care as much
+
+You are an expression of creativity by the universe - the more you express yourself and contribute towards something the more you’ll have imbued it with your essence
+
+Little pockets of curiosity, self-organising towards the expansion of consciousness over greater scales of space, time and abstraction
+
+Religion is about reducing friction - it is about integration
+
+We need to feminize our incentives but in the proper way - we can empower women to paint wisdom into our civilisational incentives. Women give birth and create life and women should define how to reign in on our own destructive tendencies of unnecessary 
+
+We paint history with the children we create
+
+Painting history
+Leonardo da vinci as a service
+As a service should be one of the las chapters - the alam dunks
+
+Every person should be able to answer what is life
+
+How do we increase the consciousness of others? How do we enable them to see and understand and to experience more? How do we lift the most people to a respectable standard?
+
+How wide our irises are are literally how we regulate and guide our attention
+
+How do we deliver incorruptibility to the poorest nations?
+
+The greatest race towards relevance is to merge with this system.
+
+We need to improve parenting
+We need to define what good parenting is
+We literally need to improve upon our autopoiesis
+
+Minimum viable living
+Universal basic minimum viable living
+
+“Now I have become life, protector of worlds.” - Oppenheimer, probably
+
+We have a system that incentivises conspiring
+
+We need to move to a system with time horizons of concern of several decades, not 4 years
+
+Voting with our dollars doesn’t quite cut it - I can choose to not watch the transformers 7 and not give my 20 dollars to it, but I can’t express how much I don’t want it to exist in the first place
+
+We can print infinite status - the more we print, the more we dilute past owners of status and we reward the newest cohorts that deserve it
+there is an INFINITE amount of cash at the federal reserve
+
+We need a collective map of where we are, where we want to get and how we’re thinking of going about it - and this map should be common knowledge
+
+Imagine believing that your taxes will be well spent
+
+
+
+
+
+
+
+
+
 
 > "Karma is, just as the root of the word suggests, simply the net effects of each action or agency. This net effect should be viewed with collapsed time and space dimensions, meaning that even suffering caused to creatures at great distance in time and space – or across long causal chains of events – has the same value. Same goes for bliss caused. This means that good actions are good because they have favorable or desirable consequences for sentient beings, and bad actions are bad because they have unfavorable or undesirable consequences for sentient beings. That’s it. That is the meaning of Karma. It is so by perfect logical necessity, by definition. It is universal and all-pervading. It has always been true and it will always be true. To know and act according to this truth is good, always has been and always will be. To ignore or neglect this truth is bad, always has been, and always will be. It is hard, scientific, logical, secular Karmic law. There is no escape from it. There never has been and there never will be.
 >
