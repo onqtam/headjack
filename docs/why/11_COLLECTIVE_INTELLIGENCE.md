@@ -1028,7 +1028,7 @@ we need to build the public introspection tool
 
 
 
-all intelligence is collective intelligence
+## all intelligence is collective intelligence
 
 > "The collective cognition and decision-making of the colony is determined by the interactions between the individuals, resembling mobile neural networks, and the algorithms that determine their output." - [All Intelligence is Collective Intelligence](https://psyarxiv.com/jhrp6)
 
@@ -1063,6 +1063,8 @@ all intelligence is collective intelligence
 
 
 
+even if we achieve a 1000x more powerful reasoning model than what we currently have, it would still benefit from a distributed architecture for interaction and incentive alignment with copies of itself - because of energy/space/time limits it would benefit from breaking down tasks into subtasks that it delegates and orchestrates. All intelligence is collective intelligence
+Everything boils down to aggregating/integrating and aligning pockets of intelligence
 
 
 

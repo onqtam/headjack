@@ -94,6 +94,9 @@ The first dimension
     the first time we get to vote on what memeplex (or set of ideas) is most important digitally - this is us being able to point and evolve, and cohere through common knowledge
     not sure about this... sux?
 Minimum Viable Government
+Aggregating/Integrating/Aligning Pockets of Intelligence
+The TL;DR of 1000 books, papers, blogs, and talks
+    synthesizing and integrating what's most important from them
 “Family”/“The family”
 Incentives from first principles
 In the depths of self-organization

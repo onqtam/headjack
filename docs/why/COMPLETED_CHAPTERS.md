@@ -236,6 +236,7 @@ top 10 insights from any scientist
 
 top10 to read
 - [Leverage Points: Places to Intervene in a System, by Donella Meadows](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)
+https://consilienceproject.org/development-in-progress/
 
 top 10 concept for life: tim urban's life calendar
 

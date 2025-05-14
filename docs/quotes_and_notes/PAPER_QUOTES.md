@@ -1728,31 +1728,34 @@ TODO INTERNET ^^ link for this
 >
 > ... The way in which we set exposure limits for chemicals in the environment provides a false sense of security. A single threshold limit can never capture the nuance of biological reality; a certain amount of a given chemical may have a very different effect on a child, for example, than it would on a fully grown adult. Exposure limits must be set in part because an industry exists for the production of such chemicals. The market demands the chemical for a purpose, and so the default position is, in effect, that each chemical is safe up to a limit until proven otherwise. A market pressure exists for the safety limit to be above zero.
 >
-> ... The vast majority of the most consequential and difficult problems we face—climate change, nuclear war, species extinction—are the unintended outcomes of humans attempting to solve other problems. In our efforts to solve the problem of World War II, for example, we invented nuclear weapons, which played a role in ending the war, and yet at the same time delivered humanity into a far more precarious and insecure world. For many of our greatest problems, at some point in the past we designed technical solutions to address them, and in the time since the solutions have had other effects that we either did not predict or did not mitigate sufficiently in advance. The problems the world faces today are not caused by our inability to achieve our goals—they are a direct result of our success. They are a result of how destructive we are in the pursuit of our goals." - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+> ... The vast majority of the most consequential and difficult problems we face—climate change, nuclear war, species extinction—are the unintended outcomes of humans attempting to solve other problems. In our efforts to solve the problem of World War II, for example, we invented nuclear weapons, which played a role in ending the war, and yet at the same time delivered humanity into a far more precarious and insecure world. For many of our greatest problems, at some point in the past we designed technical solutions to address them, and in the time since the solutions have had other effects that we either did not predict or did not mitigate sufficiently in advance. The problems the world faces today are not caused by our inability to achieve our goals—they are a direct result of our success. They are a result of how destructive we are in the pursuit of our goals." - [Development In Progress - The Consilience Project](https://consilienceproject.org/development-in-progress/)
 
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org/development-in-progress/)
 
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org/development-in-progress/)
 
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org/development-in-progress/)
 
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org/development-in-progress/)
 
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org/development-in-progress/)
 
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
-
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
-
-> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org)
+> "" - [Development In Progress - The Consilience Project](https://consilienceproject.org/development-in-progress/)
 
 
 
 
 
-> "" - []()
 
-> "" - []()
+> "We need, basically, to decrease the amount of things and energy that people exchange. However, that says very little about the amount of information, emotions, and meaning that people exchange. Could then, the exchange of information—of cultural, social, and emotions capital, of inner growth, knowledge, and meaning—come to supplant our exchange of material goods and services to a degree such that these naturally begin to decline?
+>
+> On the face of it, the prospect seems implausible, I’ll grant you that. Has such a thing ever occurred in the past? Well, I believe that such a thing is already occurring at another level right now. Consider the two layers of emergence: the ecological systems and the economic systems that have emerged within them. The economic systems have greater complexity and intensity than the ecological ones. They grow as parasites on the ecological ones. In fact, up until now, the ecological systems were continually increasing their complexity, until they gave rise to a new layer, which started to decrease their complexity by feeding off it. Up until now, ecology was a growth economy—now it is experiencing degrowth! Thus, the human economy is already a degrowth mechanism, just on the layer of emergence below it. An ecologism that truly works towards achieving degrowth is thus one that brings about the form of emergence of ows that grow as a parasite on the material economy, de facto shrinking it.
+>
+> ... What is to the material economy as the material economy is to the ecological systems upon which it feeds? It would be something that so captures human attention and engagement that the exchange of material goods becomes less pertinent to us—some more direct path to eliciting [qualia](https://en.wikipedia.org/wiki/Qualia), emotions, or subjective states in us. This horizon waits to be explored—it could include, of course, virtual worlds, electronic brain stimulations, new religious experiences, transcendent practices, purpose-giving life missions, ecstatic love or sex, local companionship in solarpunk communities, therapies that grant a profound sense of safety, and learning optimized for in a manner that makes it so consuming that we needn’t seek rewards in ever new things and travel destinations… Likely it is not one of these things, but a whole world of more abstracted goods and services that leave behind the “trade” logic of capitalism and enter into a more “cooperate” and “play” logic of pure emotional and intellectual exchange." - [Reconstructing Ecologism, by Hanzi Freinacht](https://metamoderna.org/reconstructing-ecologism/)
+
+> "What we need is a community, a civil society as it were, an open system of ows of checks and balances — a posthuman and transpersonal “ecology of mind”... if we manage to set in motion that humans teach AI grammatology, and AI improves upon human relationships and mental health, and then humans become wiser in what they reect back to the AI, this could be the closest thing to a stairway to heaven: a transpersonal, posthuman spiral of increasing virtue." - [Hanzi Freinacht](https://metamoderna.org/what-can-stop-the-ai-apocalypse-grammar-yes-only-grammar/)
+
+
 
 > "" - []()
 

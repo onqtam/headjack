@@ -4637,6 +4637,7 @@ what if we could short topics? like putting our thumbs on the scales - "show les
 
 
 
+
 How do we signal "if there is one thing I want everyone to take a look at - it would be this" - and have the option to point to a book with multiple levels of abstraction so that others can gradually delve into it? An evolvable attractor for coherence.
 
 What if people act as an oracle network to bring in evaluation of events from the real world into the address space of the global brain and we use AIs to evaluate their mode of conduct within the address space?

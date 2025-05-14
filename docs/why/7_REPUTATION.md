@@ -889,3 +889,9 @@ We need to be able to bet on anything (DO WE?)
 
 > "Social status among humans actually comes in two flavors: dominance and prestige. Dominance is the kind of status we get from being able to intimidate others (think Joseph Stalin), and on the low-status side is governed by fear and other avoidance instincts. Prestige, however, is the kind of status we get from being an impressive human specimen (think Meryl Streep), and it’s governed by admiration and other approach instincts." - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.goodreads.com/quotes/9425294-social-status-among-humans-actually-comes-in-two-flavors-dominance)
 
+
+
+
+
+> "... ambiguous social hierarchies cause profound anxiety. And why wouldn’t they? Think about it: we’re social beings living in a social universe where all of our expectations upon life hinge on how we perceive and reconstruct social hierarchies. If there is unclarity around this, we never know if we might suddenly wake up tomorrow and be the beggar, the laughing stock, or just the bland loser nobody respects. We all want some kind of certainty to hold on to, to know what to expect, what to prepare ourselves for, to strive for." - [Hanzi Freinacht](https://metamoderna.org/neuroatypicality-is-the-shamanism-of-late-modernity/)
+
