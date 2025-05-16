@@ -52,11 +52,11 @@ https://en.wikipedia.org/wiki/Summa_Theologica
 https://en.wikipedia.org/wiki/Summa_logicae
 The Real/Inevitable Matter With Things - beyong left/right thinking
 
-The Alignment/God Protocol
+The God Protocol
+    Alignment, Coherence, Integration, Self-Organization
 The Book of Synthesis
 Minimum Viable Infinity
 The Next Game
-Coherence Protocol
 Algorithms to Vote by
 Integrated Why
 “It Is Known”
@@ -67,7 +67,9 @@ The Symbolic World
 Applied Relevance Realization
 Civilization from first principles
 Aligning the WEF
+Perfect Competition
 Incentives all the way down
+The Real Situational Assessment
 Self-Organizing Culture
 The configuration of society
 vibe coding society

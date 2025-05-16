@@ -775,6 +775,7 @@ Make gold smell again!
 Entropic forces accounting/provenance
 Traceability of benefit - cui bono
 
+Identity and reputation are better mechanisms for coordination, cooperation and alignment than money because money loses information because of its perfect fungibility and untraceability - gold has no smell
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Taxes & Redistribution

@@ -1757,6 +1757,31 @@ TODO INTERNET ^^ link for this
 
 
 
+
+
+
+> "**Design Principle 3:** Allow for Deep Feedback Cycles—Limit Fast and Shallow Ones!
+>
+> ... **We tend to overemphasize short and shallow feedback cycles while ignoring the long and deep ones. Instead, we should increase our capacity to make fundamental and structural changes, while being less sensitive to short-term trends and pressures.**
+>
+> ... For instance, it is very difcult to change and update institutions of governance in most countries. An example is the United States, which has been in a cycle of institutional decay for the better part of a half-century, and unable to escape its rut. Small interest groups affect policy too much, which incapacitates governance, which undermines public trust, which creates a pressure for smaller government, which makes renewed governance structures even harder to fund and achieve. As a result, American society as a whole becomes less and less efficiently governed as the decades go by (and, as stated above, the quality of governance is the number one determining factor of its thriving). Because no agent can successfully update the system of governance, it continues to decay.
+>
+> ... the governance of the future can and should have more “reboot functions” built into them. These can look in many different ways, but the key principle is that there should be specic features that allow for the governance systems themselves to be fundamentally updated periodically—i.e. systems of governance should have special functions to make sure the “rules of the game” are updated in accordance with deep, structural changes. It is not wise and advisable to run a country in the internet age with a constitution drafted at the beginning of the industrial age. And so, constitutional reform should be made more accessible with periodic intervals. In practice, at the national level, this may mean that, once every 20 years, you can change the constitution with a simple majority vote. This would mobilize “deep reformist” to concentrate on how to use the next opportunity to change the fundamental game rules of their country." - [3 Design Principles for Protopian Governance, by Hanzi Freinacht](https://metamoderna.org/3-design-principles-for-protopian-governance/)
+
+
+
+> "" - [20 Ways to Understand Nationalism, by Hanzi Freinacht]()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
 > "" - []()
 
 > "" - []()
