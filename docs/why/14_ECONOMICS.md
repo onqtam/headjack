@@ -84,6 +84,26 @@ Traits of property rights:
 > "According to some estimates, in our present economic system more than half of economic value generated is lost to transaction costs. A fundamental source of transaction costs is uncertainty: since the agent does not know what transaction to enter into, what to agree upon, or what to expect, it will need to spend a lot of energy in search, negotiation, and enforcement of agreements." - [Self-organization of complex, intelligent systems: an action ontology for transdisciplinary integration, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/ECCO-paradigm.pdf)
 
 
+
+██████████████████████████████████████████████████████████████████
+# SECTION: What is the economy
+██████████████████████████████████████████████████████████████████
+
+> "What exactly is the economy? The economy is not some impersonal machine far away from us. We create it anew every day by striving, wishing and demanding. The economy is created by our desires, by what we want and achieve in life—and how we and our earth can satisfy those needs. We all have motives and drives that guide our actions and influence where we direct our attention in life. We often try to achieve what we feel we lack—it may be pleasure, security, community or recognition. In other words, the driving force in economic life is nothing more than the sum of our desires and dreams... We can ... talk about two types of drivers in economic life: scarcity-driven action and abundance-driven action.
+>
+> Scarcity-driven action is when we do something because we have to, when we cannot afford to feel what we really want...
+>
+> Abundance-driven action is when we use our spontaneous creative faculties...
+>
+> Admittedly, there is no escaping the fact that scarcity-driven actions will remain present in most people’s lives. After all, not everything can be fun and inspiring. But is scarcity-driven actions really something we want for ourselves and each other? Is it ecologically and socially sustainable to build our economic systems on people’s fears and perceived shortcomings? The only answer is that we have the most to gain by expanding abundance-driven action and ridding ourselves of as much scarcity-driven action as possible.
+>
+> ... Abundance-driven action creates much more freedom in our everyday choices. Scarcity-driven action arises precisely when we feel we have no real choice. Abundance-driven action causes less suffering during the effort itself—since it is a labor of love—and it creates services and products of a higher quality because we really care about the outcome of our work. This kind of work makes us feel that our time is valuable, that we are allowed to engage. Perhaps most importantly, it allows us to follow our conscience, to not feel that we have to sell out our values or sense of right and wrong—that we have a choice.
+>
+> ... What is economic freedom? Many times when people talk about a “free economy” they mean a market with as little government intervention and regulation as possible. Instead, according to the ideas presented above, a “free economy” is defined as an economy with as little scarcity-driven action as possible... a large part of our economic system cannot in a deeper sense be said to be characterized by “free exchange” and “free choice”. Are we really free when we are driven to work, perform and consume by fears and perceived deficiencies? How free are we when we feel we need to act against our conscience or work for something we don’t feel a sincere commitment to? And are we really free if we are unconsciously influenced to consume through advertising, for example?
+>
+> In a way, of course, we are always free because we are the ones who make the choices and priorities. But there are different degrees of freedom. The fact that freedom can be deepened thus applies both in democracy and in economic life. So if we consider ourselves free today, we can be even freer in the future—free in a deeper sense." - [The Economy of Happiness, by Hanzi Freinacht](https://metamoderna.org/the-economy-of-happiness/)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Redefining Capitalism
 ██████████████████████████████████████████████████████████████████

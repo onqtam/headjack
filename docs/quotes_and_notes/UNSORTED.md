@@ -4635,7 +4635,7 @@ what if we could short topics? like putting our thumbs on the scales - "show les
 > "We can collectively begin to speculate in cultural capital, in sociological imagination, in the artworks of life itself." - [Hanzi Freinacht](https://metamoderna.org/nfts-are-flowers-of-evil-yes-but-they-can-save-the-world/)
 
 
-
+how do we give an offramp to the military industrial complex such that it doesn't need to see as an enemy the system that's aiming at obsoleting it?
 
 
 How do we signal "if there is one thing I want everyone to take a look at - it would be this" - and have the option to point to a book with multiple levels of abstraction so that others can gradually delve into it? An evolvable attractor for coherence.

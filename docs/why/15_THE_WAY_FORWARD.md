@@ -402,6 +402,10 @@ TODO: relisten and take notes from it - daniel: we need to model ourselves as na
 > "In essence, the meaning of life is to increase evolutionary fitness." - [Foundations and Methodology for an Evolutionary World View: a review of the Principia Cybernetica Project, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/PCPworldview-FOS.pdf)
 
 
+> "Man can find meaning in life, short and perilous as it is, only through devoting himself to society." - [Why Socialism? by Albert Einstein](https://monthlyreview.org/2009/05/01/why-socialism/)
+
+
+
 The real art of living
 What is the purpose of life? To be part of a greater whole.
 The purpose of life is to be a part of a greater whole.

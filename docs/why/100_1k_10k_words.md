@@ -78,7 +78,7 @@ Solve [Collective] Intelligence, and then use that to solve everything else
     https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago
 Organizing the world's information, but for real
     Google failed - they merely indexed it, but not organize it
-    google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much deeper and more profound
+    google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much deeper and more profound - the internet is a cacophony and a mess as much as ever
 Cultural Enlightenment or Bust
     > "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
 The One

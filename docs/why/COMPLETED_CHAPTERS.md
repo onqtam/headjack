@@ -146,6 +146,14 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 > The goal of the game we must all play to avoid civilizational collapse is to transform ideological adversaries into collaborators, by achieving a synergistic unity that transcends prior disagreements. This doesn’t mean meeting in the middle or conceding to an idea or belief that is unlikely to be true — it means understanding why that person has that perspective as a result of their worldview, knowledge base, and lived experience. If both parties could get on the same page about the facts of the matter, and have the same knowledge of how reality works, then in theory, they should have interests and goals that are generally aligned." - [Game Theory of Mind: A Psychological Framework for Understanding Human Interaction and Resolving Conflict, by Bobby Azarian](https://roadtoomega.substack.com/p/game-theory-of-mind-a-psychological#:~:text=Georg%20Wilhelm%20Friedrich,are%20generally%20aligned.)
 
 
+
+> "Gandhi had a similar idea: The crime of killing someone is that you kill their side of the truth, and thereby you get a poorer picture of the whole. Their part of the story is a part of the story, however contradictory to yours it may be.
+>
+> Simply put: The next step of liberal democracy is to deliberately create arenas that empower people to argue their case, to specify what they want and what they believe that their interests are, and what they’re mad at, and who they’re mad at, and who they perceive as their opponents. There are conicts in society, so let us set up the common goal of clarifying them, articulating them, admitting them, understanding them, accepting them. This will not eliminate conict, not at all. But it will guide conicts away from violence and towards gentler forms.
+>
+> The future forms of integrated democracy—and indeed, the opinion-making economy as a whole—are the ones that can rst differentiate the different shards of conicting groups and interests, create a free and fair ght between these, and then channel the profound transformations inherent in these dialectical forces. The cuter forms of future democracy are, unsurprisingly, also connected to a more dramatic and tremendous sense of political action and engagement." - [Political Polarization Is Good?! by Hanzi Freinacht](https://metamoderna.org/political-polarization-is-good/)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: augmented reality
 ██████████████████████████████████████████████████████████████████
