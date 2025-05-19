@@ -54,15 +54,19 @@ Self-Interest - and the expansion of the self (with an expanding cognitive light
 Collective Intelligence: a Primer / for Dummies
 Reputation/Identity in the 21st century / 3rd millenium - like the book about capital
 The Mind/Psychology of God
+The Real Matter With Things
+    a more practical/consequential level of description than left/right thinking
+The Real Situational Assessment
+    no, it doesn't have to be just about scaling compute & energy and to go brrr faster than the other guy
 The Real Hard Problem of Consciousness
     How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
 Niche (co-)Construction
 The Post-Liberal Synthesis
+    An answer to the opening statement of Palladium Magazine, the most (only?) worthy magazine of reading
 The Final Major Evolutionary Transition
 Summa/Principia Organizationa/Ideologica/Civilizaciona
 https://en.wikipedia.org/wiki/Summa_Theologica
 https://en.wikipedia.org/wiki/Summa_logicae
-The Real/Inevitable Matter With Things - beyong left/right thinking
 
 The God Protocol
     Alignment, Coherence, Integration, Self-Organization
@@ -81,7 +85,6 @@ Civilization from first principles
 Aligning the WEF
 Perfect Competition
 Incentives all the way down
-The Real Situational Assessment
 Self-Organizing Culture
 The configuration of society
 vibe coding society
