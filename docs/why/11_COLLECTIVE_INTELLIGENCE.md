@@ -454,7 +454,7 @@ the current host-centric world (where platforms own our data which is siloed) is
 
 > "The potential for theoretical explanation and practical application of the stigmergy concept is much larger still than hitherto assumed. What (Parunak, 2006) noted about human institutions, that the more difficult issue is to find examples where stigmergy does not apply, extends to complex systems in general, and in particular to systems that exhibit some form of cognition, cooperation, or organization that is the result of evolution. When properly defined, the mechanism of stigmergy appears to be nearly ubiquitous, and able to illuminate a variety of conceptual problems in a non-trivial manner." - [Stigmergy as a Universal Coordination Mechanism: components, varieties and applications, by Francis Heylighen](http://pespmc1.vub.ac.be/Papers/Stigmergy-Springer.pdf)
 
-> "There are no obvious limits to such a self-amplifying process of contributions eliciting further contributions." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
+> "There are **no obvious limits** to such a self-amplifying process of contributions eliciting further contributions." - [Return to Eden? Promises and Perils on the Road to a Global Superintelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/BrinkofSingularity.pdf)
 
 > "Compared to traditional methods of organization, stigmergy makes absolutely minimal demands on the agents. In particular, in stigmergic collaboration there is no need for:
 >

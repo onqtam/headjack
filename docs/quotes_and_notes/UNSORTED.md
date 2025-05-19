@@ -1300,8 +1300,6 @@ Social legitimacy score
 
 It is inconceivable why anyone would settle for anything less than futarchy
 
-Causality all the way down
-
 Global brain missionaries help people make sense of the world
 
 Lets get the right kinds of people in the right structures of power
@@ -1319,8 +1317,6 @@ We need to make as many aspects of history computable as possible
 Computation is a kind of memory - that is why we need to make history and reputation computable
 
 We need to crowdsource truth and competence in every vertical of the economy and public service
-
-Excellence, optimisation, and communality
 
 Succumbing to endless growth expressed as consumption of resources should be a sin
 
@@ -4347,6 +4343,11 @@ Why can’t we easily query what’s the consensus opinion on anything but inste
 done => predicted
 
 The highest achievement for a social species is to improve its organization
+The most important question is not why there is something rather than nothing, or what's the origin of life, or how evolution overcame error catastrophy, or what latest product is being influenzad by the Kardashians, or the "hard" problem of consciousness - the most important question is what our system should be as a social species, because solving that aids in solving every other problem - including Kardashian matters.
+
+
+how many issues go unadressed because only a fraction of the population even thinks/knows about them and it's impossible to get them on the political platform of anyone - not because they aren't important, but because they aren't important enough and there is only so much one can fit into a political campaign? and so nothing ever changes, no awareness about them is generated, and even if everyone would agree on what should happen (or there would be a 90%+ majority), no decision gets made because the issue never gets on the table?
+
 
 Wherever we turn our attention, things should improve
 

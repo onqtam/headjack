@@ -9,6 +9,8 @@ This is going to provoke you. Feel free to stop reading the moment you see some 
 
 We defend very few of the arguments we make - instead we count on the intuition of the reader to see that they are mostly right. And in the case of disagreement - the hope is that there is enough enticing material for readers to stick around, and to then help resolve some of the issues of the text in the system we shall build.
 
+On your first reading you may skip all optional parts that are in expandable sections, and you can dive deeper later on if you feel like it. `Expandable section == optional`.
+
 # about the quote-heavy style of the book
 
 Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.
@@ -26,24 +28,34 @@ All books have some repetition of what is being said, but it's usually by the sa
 
 You get to experience a wide plethora of styles.
 
-We're not good writers, but we're good curators - we have good judgement and taste, and thus we offer this compilation of thought from many authors with as little paraphrasing as possible.
+We're not good writers, but we're good curators - we have good judgement and taste (and relevance realization), and thus we offer this compilation of thought from many authors with as little paraphrasing as possible.
 
+
+
+Also, every fact, opinion, argument & subargument, relation & expression that's in this book will eventually be encoded as structured data in the giant global graph of the global brain, from which we'd be able to generate a textual (or multimodal) representation on any level of abstraction with the help of AI in a back-and-forth conversational manner. Why bother with trying to rewrite the words of others for some marginal benefit of brevity at this point in time if it'll eventually be obsolete? In the future everything that's in this book will be seen at best as a first draft of an architectural synthesis for the self-organization of our species obsolete both in the arguments (with the exception of whatever essence passes the gauntlet of selection) and in the form of expresion (text). This exact text should not and will not be read by anyone in 100 or 1000 years - it will have morphed into whatever its successor is. The seed no longer exists by the time it's grown into a tree. Text is dead - it's just not evenly distributed.
 
 # The First Book With Multiple Titles
 
 The third attractor is the official name, but the most liked name by the authors is one of these 100
+
+Reading these before the book will help get a sense of what's to come, but they'll resonate a lot more after reading the book so feel free to revisit them.
 
 Because why not. Seriously!
 
 > "Free your mind." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/characters/nm0000401?item=qt0324296&ref_=ext_shr_lnk)
 
 The Third Attractor
+    > "the collective, adaptive sweet spot between a chaotic collapse and a totalitarian ordered system of control." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 The Fifth Joint Point - ala Gregg Henriques & his UTOK diagram
+    > "It is the time when the Culture-Person plane of existence gives rise to the emergence of a meta-cultural, Digital-Global plane of existence." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 The Architecture of Infinity
+    The [Beginning](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) ought to have an architecture, no?
 Self-Interest - and the expansion of the self (with an expanding cognitive light cone from michael levin's paper)
 Collective Intelligence: a Primer / for Dummies
 Reputation/Identity in the 21st century / 3rd millenium - like the book about capital
 The Mind/Psychology of God
+The Real Hard Problem of Consciousness
+    How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
 Niche (co-)Construction
 The Post-Liberal Synthesis
 The Final Major Evolutionary Transition
@@ -82,7 +94,6 @@ Organizing the world's information, but for real
 Cultural Enlightenment or Bust
     > "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
 The One
-Tabula rasa (Latin for "blank slate")        https://en.wikipedia.org/wiki/Tabula_rasa
 Giga Brain - or just Giga
 The Best of Us
 The Matrix part 2/4

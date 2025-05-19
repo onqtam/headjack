@@ -424,22 +424,9 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 
 
 
+# What is Status
 
-> "Here are some of the concepts that govern the day-to-day biology of social status:
->
-> • Prestige vs. dominance. Joseph Henrich (of WEIRD fame) distinguishes two types of status. Prestige is the kind of status we get from being an impressive human specimen (think Meryl Streep), and it's governed by our 'approach' instincts. Dominance, on the other hand, is the kind of status we get from being able to intimidate others (think Joseph Stalin), and is governed by fear and other 'avoid' instincts. Of course these two types of status aren't mutually exclusive, but they're analytically distinct strategies with different biological expressions.
->
-> • Fitness displays. In The Mating Mind, Geoffrey Miller argues that many of our most prized, socially-desirable qualities — athleticism, artistic skill, eloquence, intelligence, physical beauty — serve as fitness displays, i.e., advertisements for the quality of our genes. We are attracted, socially and sexually, to people with high skill and beauty, largely because these traits are honest signals of good genes.
->
-> • Hormones. There are at least two hormones involved in processing social status: testosterone and cortisol. To grossly oversimplify, testosterone is the 'aggression hormone' while cortisol is the 'stress hormone...
->
-> • Body language...
->
-> The point I'm trying to make here is that social status is not arbitrary. Instead, it's grounded, very concretely, in the biology of honest signals — and as such, it's subject to very real constraints. Wild swings of status are possible, but they're mostly the stuff of stories. Our daily lives are governed by much smaller — and more predictable — gains and losses.
->
-> SOCIOLOGY: KEEPING (AND COOKING) THE BOOKS
->
-> Ultimately, status lives in the minds (and bodies) of all the humans within a given community — by which I mean, primarily, other people's minds and bodies. You might maintain a sense of your own status, but it's not really up to you. Status is fundamentally about how others perceive and interact with you (and what they allow you to get away with). It's like keeping a checkbook — you might maintain your own ledger for planning and making decisions, but the official balance lies with the bank. There are many ways to define status, but as a working definition let's take status to be "the total amount of social influence a person has over the other members of his or her community." There's a lot to unpack from this definition. Here are some of the more interesting implications:
+> "Ultimately, status lives in the minds (and bodies) of all the humans within a given community — by which I mean, primarily, other people's minds and bodies. You might maintain a sense of your own status, but it's not really up to you. Status is fundamentally about how others perceive and interact with you (and what they allow you to get away with). It's like keeping a checkbook — you might maintain your own ledger for planning and making decisions, but the official balance lies with the bank. There are many ways to define status, but as a working definition let's take status to be **"the total amount of social influence a person has over the other members of his or her community."** There's a lot to unpack from this definition. Here are some of the more interesting implications:
 >
 > • Status is defined with respect to a community. This accords with how we reason about status in the real world. You don't have one canonical status for all occasions. You might have relatively low status in your workplace but high status at your church, with hardly any cognitive dissonance on the part of everyone involved.
 >
@@ -449,11 +436,27 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 >
 > • Status is (in part) a knowledge problem. Your status is based not just on how people react to you, but also on how people think everyone else will react to you. This gives rise to all manner of higher-order effects: common knowledge issues, perception management, manipulation of consensus reality, etc.
 >
-> Because of these higher-order effects, status is most reliably measured in public. We tweak our private estimates during every pairwise interaction, but reconcile those estimates during interactions that take place in front of larger audiences — because that's where we can observe the reactions of everyone else. This explains some of our desire to watch speeches, movies, events, etc. in large crowds, despite the convenience of watching from a screen at home. Large crowds can be manipulated, of course, but the very manipulation is itself an honest signal of influence.
+> Because of these higher-order effects, status is most reliably measured in public. We tweak our private estimates during every pairwise interaction, but reconcile those estimates during interactions that take place in front of larger audiences — because that's where we can observe the reactions of everyone else. This explains some of our desire to watch speeches, movies, events, etc. in large crowds, despite the convenience of watching from a screen at home. Large crowds can be manipulated, of course, but the very manipulation is itself an honest signal of influence." - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+## What Governs Status Biologically
+
+maybe just use the first bullet point? and rename this ## section?
+
+> "Here are some of the concepts that govern the day-to-day biology of social status:
 >
-> BASIC STATUS TRANSACTIONS
+> • Prestige vs. dominance. Joseph Henrich (of WEIRD fame) distinguishes two types of status. Prestige is the kind of status we get from being an impressive human specimen (think Meryl Streep), and it's governed by our 'approach' instincts. Dominance, on the other hand, is the kind of status we get from being able to intimidate others (think Joseph Stalin), and is governed by fear and other 'avoid' instincts. Of course these two types of status aren't mutually exclusive, but they're analytically distinct strategies with different biological expressions.
 >
-> Now we get to the really interesting stuff: the economic properties of social status. Let's start with transactions, since they form the basis of an economy. Status is part of our system for competing over scarce resources, so it should be no surprise that it participates in so many of our daily transactions. Some examples:
+> • Fitness displays. In The Mating Mind, Geoffrey Miller argues that many of our most prized, socially-desirable qualities — athleticism, artistic skill, eloquence, intelligence, physical beauty — serve as fitness displays, i.e., advertisements for the quality of our genes. We are attracted, socially and sexually, to people with high skill and beauty, largely because these traits are honest signals of good genes.
+>
+> • Hormones...
+>
+> • Body language...
+>
+> ... social status is not arbitrary. Instead, it's grounded, very concretely, in the biology of honest signals — and as such, it's subject to very real constraints. Wild swings of status are possible, but they're mostly the stuff of stories. Our daily lives are governed by much smaller — and more predictable — gains and losses." - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+## The Economic Properties of Social Status
+
+> "Let's start with transactions, since they form the basis of an economy. Status is part of our system for competing over scarce resources, so it should be no surprise that it participates in so many of our daily transactions. Some examples:
 >
 > • We trade status for favors (and vice versa). This is so common you might not even realize it, but even the simple act of saying "please" and "thank you" accords a nominal amount of status to the person doing the favor. The fact that status is at stake in these transactions becomes clear when the pleasantries are withheld, which we often interpret as an insult (i.e., a threat to our status).
 >
@@ -461,7 +464,7 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 >
 > • We trade status for information (and vice versa). This is one component of "powertalk," as illustrated in the Gervais Principle series.
 >
-> • We trade status for sex (and vice versa), which often goes by the name "seduction." Sometimes even the institution of marriage functions as a sex-forstatus transaction. Dowries illustrate this principle by working against it — they reinforce class/caste systems by making it harder for high-status men to marry low-status women.
+> • We trade status for sex (and vice versa), which often goes by the name "seduction." Sometimes even the institution of marriage functions as a sex-for-status transaction. Dowries illustrate this principle by working against it — they reinforce class/caste systems by making it harder for high-status men to marry low-status women.
 >
 > • We reward employees in the form of institutionalized status (titles, promotions, parking spots), which trade off against salary as a form of compensation.
 >
@@ -469,15 +472,86 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 >
 > None of these transactions is perfectly clean, and most of them are impossible to audit (arguably a feature rather than a bug, for some transactions). Paying with status is much murkier than paying with dollars, and it's easy to get something other than what you expected. But don't let the uncertainty or the potential for cheating distract you. There are real gains to be had from these kinds of trades — so, as humans always do, we find a way. Our emotions, for example, often tell us when we've been cheated in a status transaction, even if it's hard to articulate exactly how.
 >
-> In addition to participating in direct, X-for-Y trades like the above, status also functions as collateral or "table stakes." (We often call this type of status "reputation.") In many ways, a favor is like a loan (of time, energy, or some other resource) collateralized by the status of the borrower. It's a weird kind of collateral, since it can't be transfered to the creditor if the borrower defaults. But the borrower's status can be destroyed or ruined, which provides incentive enough for most purposes. The bigger the favor, of course, the more status needs to be put up as collateral. This explains why it's hard for a lowstatus person to ask a high-status person for a favor, but easy for a high-status person to make the request.
+> In addition to participating in direct, X-for-Y trades like the above, status also functions as collateral or "table stakes." (We often call this type of status "reputation.") In many ways, a favor is like a loan (of time, energy, or some other resource) collateralized by the status of the borrower. It's a weird kind of collateral, since it can't be transfered to the creditor if the borrower defaults. But the borrower's status can be destroyed or ruined, which provides incentive enough for most purposes. The bigger the favor, of course, the more status needs to be put up as collateral. This explains why it's hard for a low-status person to ask a high-status person for a favor, but easy for a high-status person to make the request.
 >
-> "Bidding for status" is another activity with economic characteristics. The nature of a bid is that it sets a particular 'price' that can be accepted or rejected. Robin Hanson suspects that speaking in public is a way of bidding for status. The very act of standing in front of a group and speaking authoritatively represents a claim to relatively high status. If you speak on behalf of the group — i.e., making statements that summarize the group's position or commit the group to a course of action — then you're claiming even higher status. These bids can either be accepted by the group (if they show approval or rapt attention, and let you continue to speak) or rejected (if they show disapproval, interrupt you, ignore you, or boo you off stage)." - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+> "Bidding for status" is another activity with economic characteristics. The nature of a bid is that it sets a particular 'price' that can be accepted or rejected. Robin Hanson [suspects](https://www.overcomingbias.com/2009/04/choke-to-submit.html) that speaking in public is a way of bidding for status. The very act of standing in front of a group and speaking authoritatively represents a claim to relatively high status. If you speak on behalf of the group — i.e., making statements that summarize the group's position or commit the group to a course of action — then you're claiming even higher status. These bids can either be accepted by the group (if they show approval or rapt attention, and let you continue to speak) or rejected (if they show disapproval, interrupt you, ignore you, or boo you off stage).
+>
+> Similarly, every request for a favor is a complex bidding process (i.e. negotiation) framed largely — and often implicitly — in terms of status. When a manager, for example, gives a task to a subordinate, many nuances are involved in negotiating the 'price' of the favor in terms of the subordinate's status:
+>
+> • Does the manager frame the task as a favor (high status for the subordinate), as a request (medium status), or as a demand (low status)?
+>
+> • Does the manager lower his or her status when making the request? *Please* and *thank you* are just the two most ritualized ways of doing this; there are many others. Alternately, does the manager attempt to raise the status of the subordinate? E.g. "You'd be really good at this."
+>
+> • Conditional verbs (*would*, *could*) allude to the subordinate's autonomy (and high status), whereas declarative verbs set an expectation that there will be no negotiating (low status).
+>
+> • Does the subordinate acquiesce immediately to the request (low status), hint at requiring extra terms (medium status), or outright reject the request (high status)?
+>
+> ... One-off transactions (like a favor) usually take place within the context of a relationship. Different types of relationships can be viewed as primitive 'contracts.' Friendship, for example, is a contract whose terms specify that the two friends are roughly equal in status (at least within the frame of the relationship) and that they've agreed to dispense with fine-grained accounting of every status transaction... Other types of relationships (manager/subordinate, mentor/mentee, partnerships, client/vendor, etc.) set different terms for how status is to be transacted between the parties..." - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
 
-^^ TODO: continue where this quote leaves off
+<details><summary>Status as Money</summary><p>
+
+> "So far we've been talking about status as a good without trying to articulate its formal economic properties. So now I'd like to propose that status functions as money. We have a few idioms that encode this idea — social capital, political capital, etc. — but the analogy goes a lot deeper than our ordinary use of language permits. In economic terms, for a good to function as money it must serve three related purposes:
+>
+> 1. A medium of exchange,
+>
+> 2. A store of value, and
+>
+> 3. A unit of account.
+>
+> We've already discussed how status functions as a medium of exchange. Because it's so fluid, it can be used to price favors and other goods at relatively fine resolutions, and it facilitates transactions that wouldn't otherwise be able to occur. Negotiating with status beats the hell out of bartering — i.e., trading one specific good for another — thereby allowing smoother, more efficient economies to develop.
+>
+> I hope it's also clear that status functions as a store of value. It's not as stable as gold or USD, which hold their value with much less volatility. But status can certainly be accumulated (within a given community) and it doesn't depreciate too quickly.
+>
+> Whether status functions as a unit of account is much less clear. A unit of account is what allows e.g. a firm to know whether it's operating at a profit or a loss. And this requires, well, an actual unit — something precise and quantifiable, neither of which is status's strong suit. Nor can status be aggregated across individuals. But where it lacks objectivity, it is at least subjectively measurable, i.e., across an individual's life history. At the end of a work day, for example, you'll have a pretty good sense for whether you gained or lost status that day. And at larger time scales (quarters or years), you can have reasonable certainty about whether you're doing better or worse than you expected. This allows status to function as a unit of account for your individual P/L. It certainly helps you make decisions about when to switch roles or jobs or careers, or when to seek out new friends — or just try something different. It also lets you (and others) know when you've gone bankrupt, which is usually accompanied by some kind of formal intervention from the community, up to and including excommunication.
+>
+> So: status may not be an ideal money, but it's close enough for the metaphor to hold water. (Also encouraging: apparently money and social status are processed in the [same region of the brain](http://www.scientificamerican.com/article.cfm?id=for-the-brain-status-is-better).) At any rate, here's what happens when we apply monetary economic concepts to the realm of social status:
+>
+> **Liquidity**. Status, like other forms of capital, can be more or less liquid. Status liquidity is inversely proportional to how much it is institutionalized. Institutional forms of status include titles, formal roles, positions within a hierarchy, desk/office location, parking spots, and membership in decision-making bodies. These forms of status hold their value much better than reputational status — which is why they're coveted by employees — but they also make some transactions more difficult. If you've ever worked with someone who's not as valuable as his title or role would suggest, you know how frustratingly inefficient such an arrangement can be.
+>
+> [**Gresham's Law**](https://en.wikipedia.org/wiki/Gresham's_law) states that "bad money drives out good." The classic example is that people will attempt to spend coins suspected of being counterfeit before they spend coins that they know to be honest. Does something similar happen with social status? Emphatically, yes. Within the economy of an office, say, we can distinguish between the 'honest' status earned by doing one's job vs. the 'counterfeit' status earned by carefully manipulating one's image. It's all too easy to reach an equilibrium where counterfeit, image-based status drives out honest, reality-based status. Once an office culture allows its employees to win large amounts of status by 'talking themselves up,' everyone drops what they're doing to focus on seeking credit and avoiding blame. In such an economy, only a sucker does any real work.
+>
+> **Status inflation**. Inflation is a bit tricky because it requires that value be measured in terms of a specific unit — which can then be debased by 'minting' more of those units. Dollars clearly fit the bill, but we can find inflationary tendencies in almost every explicit measure of status. Companies — and sometimes even entire industries — can experience title inflation, for example. Or top-heaviness, which is basically an 'inflation' of the hierarchy. I don't know of any studies that attempt to measure office inflation, but I wouldn't be surprised to find that as companies age, they tend toward office buildings that have more windows, or just nicer space in general. Even more cynically, I wonder if the practice of hiring interns is driven (in part) by the same incentives that lead to other forms of hierarchy inflation."
+>
+> **Status arbitrage**. I'm not sure if the analogy is perfect, but the word arbitrate suggests a parallel between status mediation and financial arbitrage. If you play the role of mediator in a community, you can earn status by brokering conflicts. A conflict usually arises when two parties disagree about their relative statuses, i.e., when there's a price discrepancy. Since any successful resolution will involve a re-pricing, it might be possible to view mediation in terms of siphoning off some of the status that needs to be exchanged in order to successfully resolve the conflict.
+>
+> **Currency blocs**. Previously we defined status with respect to a community, but we could also flip it around: *"A community is a group of people who agree on how to measure status among their members."* In other words, it's a group of people who share a common status currency. Silicon Valley, for example, is a community oriented around a particular way of measuring status — the ability to influence the growth of engineering companies. But Silicon-Valley status won't buy you anything in Hollywood — unless you convert it to something that makes sense in the Hollywood economy. (Financial wealth usually does the trick).
+>
+> This definition allows us not only to draw boundaries between communities (porous and fuzzy though they may be), but also allows us to discuss the strength of a community, i.e., the level of agreement about how to measure status. Google, for example, is a fairly strong community insofar as Googlers agree on how to measure status among themselves, but Google engineering might be an even stronger community.
+>
+> Treating communities as "status-currency blocs" helps explain how there's relatively free trade (at low transaction costs) within the community — and also how trade is distorted across community boundaries. The fluctuating 'exchange rates' and asymmetric information make cross-community interaction more difficult. When a Google VP walks into a meeting with some employees from Facebook, say, everyone will be unsure about their relative statuses, and the group will have to spend time and effort (and a lot of posturing) in order to figure it out.
+>
+> The "currency bloc" metaphor also helps explain both the benefits and the costs of institutional re-orgs. Merging two organizations, for example, can increase economic efficiency (by standardizing on a single status currency and thereby facilitating more interaction/trade), but the integration will also require some 'repricing' — with resistance from everyone who loses out. - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+</p></details>
+
+status & economic efficiency
+
+> "If status acts as a medium of exchange, then one of the most important questions we can ask is how it contributes to economic efficiency.
+>
+> " - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+
+
+
+
 
 > "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
 
-> "" - [Contra Simler on Prestige, by Scott Alexander](https://slatestarcodex.com/2015/10/21/contra-simler-on-prestige/)
+
+
+
+
+
+> "I worry no one theory can completely explain prestige. It seems to me to be a combination of several different things:
+>
+> 1. **Group signaling.** The people I admire say a lot about me. If I admire Elon Musk, it means that I’m really into space, technology, and maybe the free market. If I admire the Pope, it means I’m really into Catholicism. If I admire David Bowie, it means I’m fabulous. Learning about these people, celebrating their accomplishments, and joining their Official Fan Clubs is an important method of bonding with other people.
+>
+> 2. **Coattail riding.** If a prestigious person becomes more prestigious, I might “look good” for having supported them “before they got big”. It suggests that I’m a good judge of character, or “hip” enough to know which acts will take off and which ones will never achieve broader appeal. Just as a fan feels good when his sports team wins the Superbowl, and a patriot feels good every time her country wins a war, so being a known Elon Musk fan means I get to feel a tiny fragment of the glory whenever Elon Musk invents a new rocket.
+>
+> 3. **Prestige by association.** Prestigious people hang out with other prestigious people. Nonprestigious people hang out with other nonprestigious people. If I have access to prestigious people, even in some boring trivial way, that makes me seem more prestigious. I think this is what’s going on with the hypothetical airplane conversation with the Koch brothers. Yes, in some sense it’s sheer coincidence that I run into them on a flight. In another sense it isn’t; at the very least, it probably means I was flying first class, and I must have had some rudimentary level of social skills to engage them in conversation. I’m signaling that I’m the sort of person who, at least when everything goes right, can shmooze with billionaires. Even if deep down people know that it was mostly a coincidence, on some gut level that’s kind of impressive.
+>
+> 4. **Tit for tat.** Yes, in some cases we will be close enough to prestigious people that we can expect rewards for our support. It’s probably easier to flatter my boss or my favorite teacher effectively than to flatter Justin Bieber or the Koch brothers, and you can reasonably expect special treatment. This is a good way of forging an alliance. If I praise my boss, she benefits from my elevation: having a nobody admire you is boring, but having a somebody admire you is both flattering & practically useful. Therefore, the more I admire and support my boss, the more she is incentivized to help me become a somebody.
+>
+> 5. **Virtuous cycles.** Suppose that, for reasons 1 through 4, people want to be associated with prestigious people. Note that this is different from “associate with prestigious people” in the sense of meeting them directly; anything that gets their name linked to the prestigious person will work. In fact, suppose that specifically, there are a bunch of conservatives who are really into the Koch brothers and are jockeying for position as Koch brother fan #1. Some of these people might play the strategy of according me prestige for having met the Koch brothers as a way of better signaling their own respect for the Koch brothers to third parties. That gives me a separate incentive to seek such prestige by association." - [Contra Simler on Prestige, by Scott Alexander](https://slatestarcodex.com/2015/10/21/contra-simler-on-prestige/)
 
 > "" - [Social Status II: Cults and Loyalty, by Kevin Simler](https://meltingasphalt.com/social-status-ii-cults-and-loyalty/)
 

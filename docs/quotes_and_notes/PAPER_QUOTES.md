@@ -1844,18 +1844,25 @@ TODO INTERNET ^^ link for this
 
 > "Money is a story. It is a story of what work has been done on credit that is yet to be redeemed. It is the Schelling point for universal credit. It is an IOU that everybody is willing to redeem (primarily because everybody is willing to redeem it) and hence that at every instance of its transfer is re-ordained with the ascription of economic value to work actually performed. Note that money is not a social construct, a collective delusion, or any other such denigration that snidely implies that nothing about money really matters and we could reinvent it all tomorrow if we wanted to. Money may be a story, but the qualities of the story matter a great deal." - [This Is Not Capitalism, by Allen Farrington & Sacha Meyers](https://allenfarrington.medium.com/this-is-not-capitalism-5ed0a9d5dfa9)
 
-> "" - []()
+> "... what is holding society in a grip and prevents transformation are actually myths. There are no societies without myths; there are only societies that are unaware of their myths or ignore them. Myths in this sense are vehicles of truths, they do not need to be literal. Myths are things that explain the world.
+>
+> ... [The collective imaginary represents almost everything in our social world](https://youtu.be/rNT7y-vovT4): marriages, nation states, presidents, property, languages and mathematics all exist just because of our collective agreement. It's close to the popular culture concept, the Matrix. The Matrix actually closely approximates what we are talking about, and our social imaginary is really, to us, like water is to the fish. We can't see it but we are totally dependent on it for our society to function. So it's really all of our social myths. It's all our collective values, it's our root metaphors, all our collective agreements and understandings. And we can't usually see this for what it is, which is a series of rather arbitrary, but to some extent functional, agreements. But when the social imaginaries become dysfunctional we can start to capture a glimpse of them. Think of this being like ‘the glitch in the matrix’.
+>
+> ... We are using these root metaphors and these root myths of the collective imaginary to make sense of the world. But not only does the collective imaginary form our sense making and our salience landscape, it also shapes our desire... desire is mimetic. This means that we do not even own our own desires, our desires are dependent on our relationships and our collective imaginary. So, these deeper layers of society are incredibly important. And again, as they are to us like water is to the fish, it demands a significant effort on our part to start to see this collective imaginary." - [How Deep Is The Shift We Are Facing? Transforming Our Collective Imaginary, by Tomas Björkman](https://www.whatisemerging.com/opinions/tomas-bjorkman-david-fuller-rebel-wisdom)
 
-> "" - []()
+> "The rate of change is now so fast we can no longer envision the future as a desirable state; it will have to be envisioned as a desirable ongoing evolutionary process.
+>
+> ... We have now entered a time of post-experts and post-trusted informers; we find ourselves awash in a war of contradicting narratives vying for the support of the masses as justification of their validity. And many of the new voices are driven by motives other than sense-making." - [Building Bridges Into The Fog, by Joe Ross & Tomas Björkman](https://medium.com/@tomas2222/building-bridges-into-the-fog-59eb4092bc69)
 
-> "" - []()
+> "Businessmen who become accustomed to pursuing self-interest in the business sphere will become more selsh in other ways. There is now a well-established experimental result that teaching economics makes students less cooperative. Economics students are much more likely to free ride in public goods games than students from any other discipline. As a result, their inclusion in an experimental group impedes the production of public goods and increases the amount of resources used for punishing free riders—both not socially optimal results. I don’t see any reason why this effect, amply documented in experimental economics, should not operate in real life. I am sure it does.
+>
+> ... Good institutions are not going to work in the absence of internalized prosocial values held by a sufcient number of people. Telling anybody to pursue their naked self-interest is not a recipe for greater social good. It’s a recipe for social dissolution." - [Naked Self-Interest is a Recipe for Social Dissolution (a response to Branko Milanovic), by Peter Turchin](https://peterturchin.com/naked-self-interest-is-a-recipe-for-social-dissolution-a-response-to-branko-milanovic/)
 
 > "" - []()
 
 > "" - []()
 
 > "" - [Markets Are Eating The World](https://www.ribbonfarm.com/2019/02/28/markets-are-eating-the-world/)
-
 
 
 

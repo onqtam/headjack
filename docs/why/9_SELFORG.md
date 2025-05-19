@@ -193,6 +193,31 @@ we should be thinking in terms of sensory & motor systems
 > "I believe that life is a process of continuous change and a constant struggle to make that change one for the better." - [Lee Kuan Yew](https://www.goodreads.com/quotes/7289188-i-believe-that-life-is-a-process-of-continuous-change)
 
 ██████████████████████████████████████████████████████████████████
+# SECTION: Behavioral Investment Theory
+██████████████████████████████████████████████████████████████████
+
+> "Chapter 13 - Behavioral Investment Theory: A Metatheory of Mindedness
+>
+> ... What drove the evolution of the Mind dimension of complexification? UTOK answers this question with Behavioral Investment Theory (BIT), which is the metatheoretical joint point between the dimensions of Life and Mind. BIT bridges B. F. Skinner’s core concept of behavioral selection with the cognitive revolution in a novel way. According to BIT, the brain and nervous system model the animal-environment relationship and then make active inferences about what will occur, and then invest their actions accordingly. These investments yield consequences that impact future investments. The result is a variation, selection, and retention feedback loop that can help explain how learning patterns emerge and evolve in animals...
+>
+> Although Skinner’s work on operant learning is often taught in terms of rewards and punishers, the fact is that the process of behavioral selection is much more nuanced. Consider, for example, the act of writing. When you write, your pen produces ink on the page. Now consider what happens if the ink runs dry. Do you keep writing? Of course not. The reason is the ink is part of the consequences of your actions that you unconsciously predict and track to determine if you will continue investing in that activity. When the ink runs dry, the investment pattern feedback is interrupted and thus shifts accordingly.
+>
+> BIT broadly frames the evolution of minded behavior in the animal kingdom in four steps, evolving from 1) reacting to 2) learning to 3) thinking to 4) talking...
+>
+> BIT gives rise to a cybernetic or control theory model of operant learning that characterizes the behavior patterns of learning animals. There are three essential components in a control system: 1) an input sensor, 2) a reference goal, and 3) an output mechanism. A thermostat connected to an air conditioner is an example of a simple control system. The temperature gauge is the input sensor, the temperature you set the room at is the reference goal, and the output mechanism is the addition of cool air. These basic ingredients allow the air conditioner to maintain a comfortable room temperature.
+>
+> We can apply this model to how animals behave in a goal-oriented manner. BIT aligns an animal’s perceptions with the inputs, its motivational states are the goals, and emotions are the outputs which function as energizing action tendencies. This is UTOK’s Perception – Motivation => Emotion control theory formulation, or the “P – M => E” equation. It is translated to mean that a perception of an actual state relative to a motivational state leads to an emotional state.
+>
+> This formulation means that the animal must be able to perceive where they are, which means they need to integrate their sensations into a perceptual whole. Second, they need to have a system that takes an inventory of the kind of things that are good/rewarding or bad/punishing, which connect to the interior state of the animal (i.e., water is good when one’s internal state is registering thirst). The minus sign indicates that the animal is tracking the discrepancy between the actual and the motivated state. Finally, there is an energizing system that moves toward or away from things to regulate the relationship between actual and expected or hoped for state. This results in a feedback loop...
+>
+> Let’s now imagine an animal that is engaged in foraging and comes to a fork in its path. It must either travel left or right, and the contingencies that will follow are different depending on which way it goes. What is such an animal to do? If the animal has any familiarity with the context, the best thing it could do is run a simulation to model likely outcomes. This brings us to the evolution of thinking animals. Thinking takes place when animals can run simulations on possible paths of future investment that function to select paths that are predicted to yield the highest value.
+>
+> The logic of BIT helps us to place this in the larger picture. Actions are expensive. The task of the nervous system is to process information and generate models of animal-environment relations that enable the most viable path of investment to be realized. As such, mental evolution can be traced in terms of greater sophistication in mapping possible outcomes across increasingly complex goals and larger spans of time.
+>
+> The fourth step, talking, took place for humans. The basic idea is that the human capacity for social connection and shared attention and intention was coupled with the capacity to symbolically tag objects, processes, and commands. Then there emerged a syntactical processing structure that shifted the sharing of individual symbols into propositional language. It is here that we move from BIT into Justification Systems Theory." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+
+██████████████████████████████████████████████████████████████████
 # SECTION: Complexity
 ██████████████████████████████████████████████████████████████████
 

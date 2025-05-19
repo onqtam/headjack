@@ -270,7 +270,7 @@ What is ignored or neglected by the media -- but will be studied by historians?
 https://twitter.com/george__mack/status/1652708537846632449
 https://twitter.com/george__mack/status/1679569846965764096
 
-What of we could signal what we core most about
+What if we could signal what we core most about
 - net carbon 0 by 2050
 - Obesity metrics down
 - Justice for cause X
@@ -312,9 +312,6 @@ top10 heresies:
 
 Top 10 concepts everyone should understand:
 Tragedies of the commons, multipolar traps
-
-top10 mavericks of psychology alive today:
-- Gregg Henriques
 
 
 
@@ -418,6 +415,7 @@ https://www.imdb.com/title/tt11286314/
 
 top10 most important psychologists alive today:
 - Gregg Henriques
+(top10 psychologists + "alive_today" filter - no need to add entries to 2 separate top10 lists - one can be generated from the other, we can generate infinite filters & lists like this)
 
 top10 channels
 - Ashley's The New Enlightenment - CRIMINALLY UNDERAPPRECIATED

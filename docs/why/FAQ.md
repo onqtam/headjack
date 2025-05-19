@@ -20,6 +20,8 @@ Its even better: it can actually work
 
 > "Good ideology. Wrong species." - [E. O. Wilson on Marxism](https://paulgraham.com/quo.html#:~:text=%22Good%20ideology.%20Wrong%20species.%22%0A%0A%E2%80%93%20E.%20O.%20Wilson%20on%20Marxism)
 
+> "The worst idea in economic discourse is that political economy is a sliding scale between capitalism and communism. That's just some random international conflict that got baked into the rhetoric for ideological reasons." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1858552169089434081)
+
 Do you expect a properly summarized account of communism's failures and a thorough comparison with it in a FAQ? Just pick up the book Nordic Ideology and look at appendix A.
 
 

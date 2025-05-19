@@ -4,6 +4,8 @@ draft: true
 
 TOPICS TO FINISH AS A SECTION:
 
+- status! reputation! all of it
+
 - EDUCATION !!!
 
 - Coordination Theory

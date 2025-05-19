@@ -4745,4 +4745,60 @@ concepts thus entail directives.
 
 
 
+> "Every “thing,” then, is really a process: a dynamic relational event unfolding in relation to all other dynamic relational events. That’s what the Universe is. That’s what you are—a mind-blowing moment at the edge of this 14-billion-year process of cosmic complexification and evolution, headed for still greater complexity…
+>
+> ... Today, we need a worldview of complexity if we’re to see civilization, if not life itself, to the end of the 21st century and beyond. Such a worldview sees in the complexification process itself a spiritually profound narrative. Moving beyond modern utilitarianism and postmodern nihilism, we must reframe issues of meaning and purpose within a broader cosmic frame of evolution and productive, care-enhancing integration." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "The meaning crisis in the West emerges from the breakdown of the Christian worldview and the failure to replace it with a system of understanding that effectively homes us in the world and orients us to cultivate meaning and wisdom in our lives. In plain language, we do not have a shared sense of reality or core values in proper relation to one another, with the consequence being that we cannot collectively make sense of what is true and what is good, and thus we do not know how we ought to live. The root of the modern meaning crisis was powerfully framed via Nietzsche’s observation that God had been killed by the scientific Enlightenment with profound consequences. The modern knowledge landscape is a chaotic fragmented pluralistic world, and we are drowning in bullshit. As Vervaeke notes, it is not accidental that the last decade has seen a strong resurgence of the zombie, an archetypal symbol of mindless living absent a soul oriented toward an existential moral purpose." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "... consider that the core of philosophy can be framed as the joint problems of what is real and how we know about it. The problem of what is real is the problem of ontology and how we develop maps of reality. The problem of how we know is the problem of epistemology and how we justify our epistemic processes... The individual is invited to see themselves as a cultured person with a named human identity who is also subjectively experiencing the world as a minded animal who is also a living organism and a material object on the spacetime grid." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+
+
+
+
+just reread
+
+> "... metaphysics refers to the concepts and categories that one is using to map reality and how one knows about reality. For example, consider the question: What do we mean by science, behavior, and mind? This is a descriptive metaphysical question in that it asks us to define and describe our terms and show the connections between them.
+>
+> Metaphysics is closely related to two other important philosophical terms, which are ontology (which is our theory about reality) and epistemology (which is our method for knowing and justifying our claims). Early in this book, we noted that MENS knowledge was framed by an objectivist epistemology. That is, following Galileo, natural science is anchored to the methods of observation, measurement, experimentation, quantification, and the theoretical analyses of hypotheses. This epistemology frames the world in terms of behaviors that are observable by independent observers. This makes the strong argument that if psychology is going to be a natural science, it needs to connect to behavior. However, this also creates a problem. If we agree that psychology deals with subjective conscious experience at some level and we cannot observe those processes from an objective vantage point, then how do we proceed?
+>
+> This is one of the trickiest questions that have confused psychologists since its inception. To disentangle it, we need to recognize that we are building a basic metaphysical picture of concepts and categories of how to frame the world. And we have encountered a confusing point whereby our epistemology is becoming entangled with our ontology. That is, we have framed science as a process that knows about the world by observing behavior. However, when we get to the science of psychology, we want to be able to observe the subjective observer. But it seems that the nature of subjective conscious experience is that it can only be observed from the inside.
+>
+> With the Tree of Knowledge System and its extension into the Periodic Table of Behavior, along with its Map of Mind, UTOK gives us the tools to generate a clear, descriptive metaphysical picture that unpacks the confusion between ontology and epistemology, and shows how science, which maps behavior, can also map mental processes with the same kind of logic that it maps material, living, and cultural processes..." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "For an explanatory framework of human mental behavior, the UT gives us Behavioral Investment Theory, the Influence Matrix, and Justification Systems Theory. With these frames we will be able to see humans as animal investors expending work effort in a relational influence matrix shaped by dynamics of relational value and social influence in a Culture landscape of justification (i.e., humans behaving as persons). We can use these lenses both separately and then combine them to see human mental behavior as unfolding dynamical systems of investment, influence, and justification." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "Chapter 14 - The Influence Matrix: A Theory of Our Primate Heart
+>
+> ... humans have a fundamental need for relational value and social influence... Relational value refers to the extent to which one feels seen, known, and valued by important others, whereas social influence refers to the extent to which one can influence others’ thoughts, feelings, and actions according to one’s interests." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "" - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+
 
