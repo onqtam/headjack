@@ -214,7 +214,7 @@ we should be thinking in terms of sensory & motor systems
 >
 > The logic of BIT helps us to place this in the larger picture. Actions are expensive. The task of the nervous system is to process information and generate models of animal-environment relations that enable the most viable path of investment to be realized. As such, mental evolution can be traced in terms of greater sophistication in mapping possible outcomes across increasingly complex goals and larger spans of time.
 >
-> The fourth step, talking, took place for humans. The basic idea is that the human capacity for social connection and shared attention and intention was coupled with the capacity to symbolically tag objects, processes, and commands. Then there emerged a syntactical processing structure that shifted the sharing of individual symbols into propositional language. It is here that we move from BIT into Justification Systems Theory." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+> The fourth step, talking, took place for humans. The basic idea is that the human capacity for social connection and shared attention and intention was coupled with the capacity to symbolically tag objects, processes, and commands. Then there emerged a syntactical processing structure that shifted the sharing of individual symbols into propositional language. It is here that we move from BIT into Justification Systems Theory." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
 
 ██████████████████████████████████████████████████████████████████

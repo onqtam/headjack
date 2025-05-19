@@ -45,9 +45,9 @@ Because why not. Seriously!
 > "Free your mind." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/characters/nm0000401?item=qt0324296&ref_=ext_shr_lnk)
 
 The Third Attractor
-    > "the collective, adaptive sweet spot between a chaotic collapse and a totalitarian ordered system of control." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+    > "The collective, adaptive sweet spot between a chaotic collapse and a totalitarian ordered system of control." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 The Fifth Joint Point - ala Gregg Henriques & his UTOK diagram
-    > "It is the time when the Culture-Person plane of existence gives rise to the emergence of a meta-cultural, Digital-Global plane of existence." - [UTOK: The Unified Theory of Knowledge, by  Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+    > "It is the time when the Culture-Person plane of existence gives rise to the emergence of a meta-cultural, Digital-Global plane of existence." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 The Architecture of Infinity
     The [Beginning](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) ought to have an architecture, no?
 Self-Interest - and the expansion of the self (with an expanding cognitive light cone from michael levin's paper)
