@@ -414,7 +414,7 @@ https://www.imdb.com/title/tt11286314/
 “Don't look up” is a diagnosis
 
 top10 most important psychologists alive today:
-- Gregg Henriques
+- Gregg Henriques - Absolute TOP G !!! ontology matters. worldviews matter. theories matter. perspective matters. perspective is attentional architecture
 (top10 psychologists + "alive_today" filter - no need to add entries to 2 separate top10 lists - one can be generated from the other, we can generate infinite filters & lists like this)
 
 top10 channels
@@ -659,7 +659,7 @@ critique of Subsidiarity - hard to determine the boundary of effects
 >
 > Given the above design principle of collective intelligence, which often is increased by (deliberative) council rule, such meshwork governance would often mean exchanging seats within different deliberative councils on topics which have many stakeholders. Let’s say we have a citizen policy council on reducing criminal gang activity in South Sweden, close to Denmark—it would make perfect sense to have Danish representatives, not only because these may give valuable outsider perspectives, but also because their own gang violence scene overlaps and interacts with the Swedish one and they may thereby have both their own interests to defend and hold key pieces of the puzzle. Eventually, you may nd that you have enough stakeholders for your organization to be run up to 50% by others— while your organization now in turn affects decisions of its environment. You have gone from separateness and “sovereignty” to a meshwork of governance.
 >
-> The direction, then, is not necessarily towards greater and greater subsidiarity, but rather towards more and more meshwork governance, where different units of power sort of yin-yang their way into greater coherence. As such, we are not establishing coherence from above through harmonizing legal systems etc. (although such moves may sometimes be warranted, too); we are instead piece by piece revealing what physicist David Bohm called an “implicate order” (in his philosophical, not his scientic, work). Things t together, yes, but in highly complex and inherently non-obvious ways, ways that must be revealed by searching for the truth together and sharing a multitude of differing perspectives.
+> The direction, then, is not necessarily towards greater and greater subsidiarity, but rather towards more and more meshwork governance, where different units of power sort of yin-yang their way into greater coherence. As such, we are not establishing coherence from above through harmonizing legal systems etc. (although such moves may sometimes be warranted, too); we are instead piece by piece revealing what physicist David Bohm called an “implicate order” (in his philosophical, not his scientic, work). Things fit together, yes, but in highly complex and inherently non-obvious ways, ways that must be revealed by searching for the truth together and sharing a multitude of differing perspectives.
 >
 > I have thus come to believe that the principle of subsidiarity is a very partial description of the future of governance, and that meshwork governance is the stronger attractor point. It opens up the question of who is a stakeholder and where: Are hospitals stakeholders in schools—if so, to which degree?" - [3 Design Principles for Protopian Governance, by Hanzi Freinacht](https://metamoderna.org/3-design-principles-for-protopian-governance/)
 

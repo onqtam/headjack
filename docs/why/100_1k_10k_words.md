@@ -62,7 +62,7 @@ The Real Hard Problem of Consciousness
     How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
 Niche (co-)Construction
 The Post-Liberal Synthesis
-    An answer to the opening statement of Palladium Magazine, the most (only?) worthy magazine of reading
+    An answer to the [opening statement](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis) of [Palladium Magazine](https://www.palladiummag.com/) that deals with governance futurism, the most (only?!) worthy magazine. Consider subscribing/donating to it for support - it's been on the verge of shutdown multiple times already.
 The Final Major Evolutionary Transition
 Summa/Principia Organizationa/Ideologica/Civilizaciona
 https://en.wikipedia.org/wiki/Summa_Theologica
@@ -80,7 +80,10 @@ Integrated Why
 System Architecture
 The Most Demanding Book - it demands action
 The Symbolic World
-Applied Relevance Realization
+Applied Relevance Realization at Scale
+The Most Non-Linear Book
+The implicate order
+    > "... we are instead piece by piece revealing what physicist David Bohm called an “implicate order” (in his philosophical, not his scientic, work). Things fit together, yes, but in highly complex and inherently non-obvious ways, ways that must be revealed by searching for the truth together and sharing a multitude of differing perspectives." - [3 Design Principles for Protopian Governance, by Hanzi Freinacht](https://metamoderna.org/3-design-principles-for-protopian-governance/)
 Civilization from first principles
 Aligning the WEF
 Perfect Competition
