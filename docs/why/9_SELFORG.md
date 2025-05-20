@@ -467,6 +467,9 @@ not sure this is important enough
 > "**Recursive Relevance Realization**: A metatheory of neurocognitive processes developed by John Vervaeke that emphasizes how such systems scan for relevant information that enables them to realize both what is the case and what affordances might be created, while recursively modeling the agent arena relation across a multi-level information processing hierarchy." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
 
+> "Vervaeke’s 3 r’s stand for recursive relevance realization. The idea is that cognitive processes frame situations to identify relevant aspects and this takes place in the context of what the agent is trying to realize in the agent-arena relation. Realize here carries a double meaning; it means realize as in to see and understand, and it means realize as in to make or create, thus creating a tight relationship between perception and action. Finally, recursive refers to the constant modeling and feedback loops that take place vertically (i.e., on the bottom-up to top-down stack) and horizontally (i.e., across different modalities in the sensorimotor looping system)." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+
 
 
 

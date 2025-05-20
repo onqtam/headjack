@@ -4770,19 +4770,18 @@ just reread
 
 
 
-> "" - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
-> "" - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+not sure where/if to use the second part of this
 
-> "" - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+> "What is wisdom? There is no simple recipe for wisdom. However, as the common model of wisdom suggests,54 there is a core architecture. It consists of two key elements that align directly with UTOK’s structure. The common model of wisdom includes: 1) grounding in a set of aspirational goals that include prosocial behavior, the pursuit of truth, and an orientation toward shared humanity; and 2) metacognitive reflection that takes in multiple perspectives on the conflict, problem, or potential, and affords adaptive problem solving and decision making toward valued states in the short and long term.
+>
+> ... Kairos is a Greek word for a crucial moment in time that requires decisive action, in that the consequences of the current events will have massive implications for the processes that follow. The Fifth Joint Point is a kairotic moment. In Zak Stein’s frame, it represents the time between worlds. UTOK is a worldview grounded in a metamodern sensibility that affords us a coherent integrated pluralism that allows us to individually and collectively bridge the scientific empirical worlds with the spiritual and aspirational.
+>
+> It is absolutely necessary that we ground ourselves in a knowledge system that allows us to retain the knowledge of our ancestors and transmit our knowledge effectively to the next generation. Given that the digital tsunami is changing how we acquire, transmit, and process information, more than ever we need knowledge systems that can effectively assimilate, integrate, and organize reliable, valid, and generalizable knowledge in a way that can be communicated to the next generation.
+>
+> UTOK is grounded deeply in analytical knowledge and a precise propositional structure so that it affords reliable and valid knowledge that transcends both the individual subject and the socially constructed knowledge of local groups. It is, in a word, scientific. However, it is also subjective and social. Via its symbols, imagery, icons, and acronyms, it transcends analytic propositional knowledge and connects to the perspectival and participatory ways of knowing found in the ancient wisdom traditions. It holds the logos of science in right relation to the pathos of the psyche and the mythos of the cultural collective." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
-> "" - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
-
-> "" - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
-
-> "" - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
-
-> "" - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+Gregg and him ruining Christmas in 2018, can relate a lot, lol
 
 > "The implications for developing a system of understanding that is outside the conventional worldview is significant for one’s relationships. Simply put, as the combined intersection of the Tree, Coin, and Garden imprinted themselves on my psyche, I came to see the world in a fundamentally new way.
 >

@@ -47,10 +47,6 @@ Because why not. Seriously!
 The Third Attractor
     > "The collective, adaptive sweet spot between a chaotic collapse and a totalitarian ordered system of control." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 The Fifth Joint Point - ala Gregg Henriques & his UTOK diagram
-    > "It is the time when the Culture-Person plane of existence gives rise to the emergence of a meta-cultural, Digital-Global plane of existence." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
-    > "Fifth Joint Point: Refers to the portal that is giving rise to the emergence of a new dimension of complexification following the Culture-Person plane, which UTOK calls the meta-cultural Digital Global plane of existence. Specifically, based on the logic of the ToK, we are witnessing the emergence occur during this epoch because of the internet, artificial intelligence, smart phones, and other forms of informational interface, which are giving rise to a whole new information processing system and communication network." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
-    <img src="/img/UTOK-TOK.png"/>
-
 The Architecture of Infinity
     The [Beginning](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) ought to have an architecture, no?
 Self-Interest - and the expansion of the self (with an expanding cognitive light cone from michael levin's paper)

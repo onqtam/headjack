@@ -805,7 +805,17 @@ we can - and should - manifest the first major intentional evolutionary step for
 
 Just like life, the internet also evolved blindly and unconsciously - gradient descent. But we are architects and can consciously choose our civilizational foundation
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Transcendence
+██████████████████████████████████████████████████████████████████
+
 > "Transcendence: Transcendence refers to the process of surpassing the limitations of a person’s mind, e.g. in terms of perception, representation, or understanding. It means going beyond the boundaries of the self and its mundane preoccupations in order to attain a deeper or broader insight into reality and a sense of connectedness to a greater whole. It requires stepping outside the conventional symbolic categories that are used to describe reality and moving on to a higher, more encompassing level of consciousness." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+> "The TN (Transcendent Naturalism) worldview has important implications for the meaning crisis because it enables us to delineate much more clearly the concept of meaning in life. Consider, for example, the felt sense that many have they are “just a bunch of chemicals,” which is a logical conclusion that stems from a reductive, mechanical, materialist worldview. Rather than a cold, dead mechanistic conception of human life as a series of necessary and sufficient causes happening at the matter level without any true causal impact of the higher order processes like actions, feelings, or beliefs, TN places all of these elements in a complexifying stack across spaciotemporal and informational patterns that orient us toward the self-world grip such that cultivating meaning in life is about that which expands, deepens, and optimizes the self-world relevance realizations in a recursive feedback. This grammar sets the stage to address the meaning crisis at its most foundational levels of being and knowing.
+>
+> ... To transcend means to go beyond the limits of something. Abraham Maslow famously framed his humanistic psychology as ultimately striving for self-transcendence, which refers to the capacity to break free from the normal egocentrism and experience a sense of unity with larger and larger aspects of humanity, sentient beings, and the universe itself.
+>
+> In the TN series, Vervaeke and I lay out the case for what we call a “strong transcendence.” It embraces a Maslow-type view at the individual level, but seeks to expand it into the relational and social collectives. Whereas Maslow framed it as the transcendence of the subject, we are exploring the possibility of an intersubjective transcendence that involves a cultural awakening. The lens given by UTOK allows us to see this as the Fifth Joint Point. We are in the midst of metacrisis, but also are experiencing a “meta-potential” in this time between worlds. If we can collectively see the emergence of the Digital Global plane of existence and recognize our need to be wisely grounded in the stack of complexification, then the possibility of a strong, collective transcendence becomes available to us." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Trust, Populism and the Psychology of Broken Contracts
@@ -1236,12 +1246,47 @@ FtoaaS
 This as the section for matchmaking and with the leary quote
 
 
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: The Fifth Joint Point - a Prophecy
+██████████████████████████████████████████████████████████████████
+
+
+> "It is the time when the Culture-Person plane of existence gives rise to the emergence of a meta-cultural, Digital-Global plane of existence." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "Fifth Joint Point: Refers to the portal that is giving rise to the emergence of a new dimension of complexification following the Culture-Person plane, which UTOK calls the meta-cultural Digital Global plane of existence. Specifically, based on the logic of the ToK, we are witnessing the emergence occur during this epoch because of the internet, artificial intelligence, smart phones, and other forms of informational interface, which are giving rise to a whole new information processing system and communication network." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+<img src="/img/UTOK-TOK.png"/>
+
+> "The metamodern position is a higher order self-recursive position that once again shifts the subject-object relation. The crucial difference of the metamodern position can be framed as a shift from living within and critiquing epistemological positions to seeing the ontology of epistemology. This is what Dempsey means when he speaks of the “cultural logic of cultural logics.”... a recursive self-reflective awareness about the process of knowing, such that one gets outside of the epistemological problem by seeing the ontology of epistemology.
+>
+> And that is what UTOK’s Fifth Joint Point calls us to do. It frames the current meta-crises as the Digital Identity Problem (DIP) to highlight the dangerous intersection that is forming between the digital and technological problems with our meaning-making systems. It calls us to become recursively self-aware at a higher order and uses the Fifth Joint Point to represent the intersection of where we find ourselves in the cosmic coordinates.
+>
+> Additionally, the Fifth Joint Point calls on us to collectively work toward Digital Identity Global Solutions (DIGS). The analogy is that we are collectively flying a rickety biplane into a hurricane. We need a new operating system to make sense of mother nature, technology, and our identities in relationship to ourselves and each other across the diverse cultural landscapes. The Fifth Joint Point is the time when we need to shift our grip on the self-world relation and adopt a metamodern perspective that enables us to fly our plane through the Scylla of chaotic collapse and the Charybdis of totalitarian control towards the protopian third attractor that enables sustainable wise living for our descendants." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+
+
+> "A remarkable paper by Andrey Korotayev called `"The 21st Century Singularity and its Big History implications: A re-analysis"`, provides an empirically grounded analysis that we are fast approaching an “inflection point.” He analyzed two different datasets that enabled him to determine the time between major innovations and found something quite remarkable. Although developed independently, both data sets show a remarkable convergence of a singularity between 2027 and 2029. He describes it as follows (p. 73):
+>
+> '*It is shown that the mathematical analysis of the series of events, which starts with the emergence of our Galaxy and ends with the decoding of the DNA code, is indeed ideally described by an extremely simple mathematical function (not known to Kurzweil himself) with a singularity in the region of 2029. It is also shown that, a similar time series (beginning with the onset of life on Earth and ending with the information revolution – composed by the Russian physicist Alexander Panov completely independently of Kurzweil) is also practically perfectly described by a mathematical function (very similar to the above and not used by Panov) with a singularity in the region of 2027... This indicates the existence of sufficiently rigorous global macro-evolutionary regularities, which can be surprisingly accurately described by extremely simple mathematical functions.*'
+>
+> ... To be sure, as Korotayev himself notes, this analysis does not mean we are going to wake up one day in 2028 and find the sky purple and Armageddon descending upon us. What it does mean is that the rate of complexification is accelerating toward an inflection point of some kind. But what exactly that means is open to interpretation.
+>
+> I believe that UTOK provides us the structure to interpret this wisely. UTOK’s aspirational invitation is that the singularity becomes a collective hyperobject that affords a recursive relevance realization structure that enables us to wake up and orient to what is the case, while also cultivating what ought to be... We can scientifically document the accelerating rate of complexifying change, and align that with the ToK System.
+>
+> ... Each of us is called to rotate our identities and make a fundamental shift to align our experienced reality with the third-person perspective across a multiplicity of epistemic stances. These epistemic vectors are then situated in the current collective reality that grapples with the problem of value, both in terms of the values that brought us here and the values that guide where we ought to go. The philosopher Rob Scott cogently argues that we need to collectively wake up to the processes by which we grip the world through our identities and form identifications with various beliefs and values. What is needed is a fundamental identity shift into a larger, more expansive meta-identity, one that includes ourselves and expands into the transcendent.
+>
+> The transformational shift that UTOK frames as the Fifth Joint Point requires a collective shift in human identity and consciousness, one that allows us to incorporate the best of science, our subjective conscious experience of being unique particular agents, and collective wisdom placed in relationship to Mother Earth and the digital global dimension of existence." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
 
 <img src="/img/UTOK-ESG.png"/>
+graphic by Christian Gross who's been helping Gregg with all things UTOK?
 
 > "... the concept of God has played a huge role in the lives of most people who have lived on this planet.
 >
