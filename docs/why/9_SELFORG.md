@@ -196,9 +196,9 @@ we should be thinking in terms of sensory & motor systems
 # SECTION: Behavioral Investment Theory
 ██████████████████████████████████████████████████████████████████
 
-> "Chapter 13 - Behavioral Investment Theory: A Metatheory of Mindedness
->
-> ... What drove the evolution of the Mind dimension of complexification? UTOK answers this question with Behavioral Investment Theory (BIT), which is the metatheoretical joint point between the dimensions of Life and Mind. BIT bridges B. F. Skinner’s core concept of behavioral selection with the cognitive revolution in a novel way. According to BIT, the brain and nervous system model the animal-environment relationship and then make active inferences about what will occur, and then invest their actions accordingly. These investments yield consequences that impact future investments. The result is a variation, selection, and retention feedback loop that can help explain how learning patterns emerge and evolve in animals...
+> "Behavior Investment Theory: The “Life-to-Mind” joint point on the Tree of Knowledge System. It is a metatheoretical formulation that frames the evolution of Mind via the positing that the nervous system functions as an investment value system that coordinates animal actions on a cost to benefit ratio on the principles of (1) energy economics; (2) evolution; (3) behavioral genetics; (4) neuro-computational control; (5) learning and environmental feedback; and (6) developmental stage/life history. It bridges evolutionary biology, ethology, cybernetics, complex adaptive systems, traditional cognitive neuroscience, 4E cognitive science, and behavioral science. In combination with the ToK System’s descriptive metaphysics it resolves the mentalist versus behaviorist division via framing animal activity in terms of mental behavior." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+> "What drove the evolution of the Mind dimension of complexification? UTOK answers this question with Behavioral Investment Theory (BIT), which is the metatheoretical joint point between the dimensions of Life and Mind. BIT bridges B. F. Skinner’s core concept of behavioral selection with the cognitive revolution in a novel way. According to BIT, the brain and nervous system model the animal-environment relationship and then make active inferences about what will occur, and then invest their actions accordingly. These investments yield consequences that impact future investments. The result is a variation, selection, and retention feedback loop that can help explain how learning patterns emerge and evolve in animals...
 >
 > Although Skinner’s work on operant learning is often taught in terms of rewards and punishers, the fact is that the process of behavioral selection is much more nuanced. Consider, for example, the act of writing. When you write, your pen produces ink on the page. Now consider what happens if the ink runs dry. Do you keep writing? Of course not. The reason is the ink is part of the consequences of your actions that you unconsciously predict and track to determine if you will continue investing in that activity. When the ink runs dry, the investment pattern feedback is interrupted and thus shifts accordingly.
 >
@@ -216,6 +216,7 @@ we should be thinking in terms of sensory & motor systems
 >
 > The fourth step, talking, took place for humans. The basic idea is that the human capacity for social connection and shared attention and intention was coupled with the capacity to symbolically tag objects, processes, and commands. Then there emerged a syntactical processing structure that shifted the sharing of individual symbols into propositional language. It is here that we move from BIT into Justification Systems Theory." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
+> "**P - M => E formulation**: The control learning theory formulation that arises out of Behavioral Investment Theory and the bridge between operant conditioning and living control systems. It refers to the process by which perceptions are referenced against motivations which in turn activate emotions. This sensory-perceptual-motivational-emotional-motor loop can frame how animals are oriented to salient variables and shift their actions based on consequences. It also provides a conceptual bridge between Mind1 neurocognitive processes with Mind2 subjective conscious experiences." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Complexity
@@ -463,6 +464,7 @@ not sure this is important enough
 </p></details>
 
 
+> "**Recursive Relevance Realization**: A metatheory of neurocognitive processes developed by John Vervaeke that emphasizes how such systems scan for relevant information that enables them to realize both what is the case and what affordances might be created, while recursively modeling the agent arena relation across a multi-level information processing hierarchy." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
 
 
