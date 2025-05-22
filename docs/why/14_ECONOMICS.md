@@ -886,6 +886,10 @@ property rights
 
 > "It needs to be the kind of shot that so radically changes the game that the money power is eliminated from the game completely." - [We can restore Democracy by disrupting politics. Here’s how, by Jordan Hall](https://medium.com/emergent-culture/we-can-restore-democracy-by-disrupting-politics-here-is-how-c9d514a8c194#:~:text=It%20needs%20to%20be%20the%20kind%20of%20shot%20that%20so%20radically%20changes%20the%20game%20that%20the%20money%20power%20is%20eliminated%20from%20the%20game%20completely.)
 
+
+> "To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves." - [James Lee Byars](https://www.edge.org/about-edge)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: constitutive and regulative rules
 ██████████████████████████████████████████████████████████████████

@@ -196,6 +196,9 @@ we should be thinking in terms of sensory & motor systems
 # SECTION: Behavioral Investment Theory
 ██████████████████████████████████████████████████████████████████
 
+TOK 101 - Behavioral Investment Theory
+https://www.youtube.com/watch?v=OHXttFPlqxw
+
 > "Behavior Investment Theory: The “Life-to-Mind” joint point on the Tree of Knowledge System. It is a metatheoretical formulation that frames the evolution of Mind via the positing that the nervous system functions as an investment value system that coordinates animal actions on a cost to benefit ratio on the principles of (1) energy economics; (2) evolution; (3) behavioral genetics; (4) neuro-computational control; (5) learning and environmental feedback; and (6) developmental stage/life history. It bridges evolutionary biology, ethology, cybernetics, complex adaptive systems, traditional cognitive neuroscience, 4E cognitive science, and behavioral science. In combination with the ToK System’s descriptive metaphysics it resolves the mentalist versus behaviorist division via framing animal activity in terms of mental behavior." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
 > "What drove the evolution of the Mind dimension of complexification? UTOK answers this question with Behavioral Investment Theory (BIT), which is the metatheoretical joint point between the dimensions of Life and Mind. BIT bridges B. F. Skinner’s core concept of behavioral selection with the cognitive revolution in a novel way. According to BIT, the brain and nervous system model the animal-environment relationship and then make active inferences about what will occur, and then invest their actions accordingly. These investments yield consequences that impact future investments. The result is a variation, selection, and retention feedback loop that can help explain how learning patterns emerge and evolve in animals...

@@ -180,6 +180,9 @@ https://www.youtube.com/watch?v=eh7qvXfGQho
 The AI Dilemma: Navigating the road ahead with Tristan Harris
 https://www.youtube.com/watch?v=F6XR0byERZY
 
+Benki Piyãko: What can we learn from Indigenous peoples? | #GLFAmazonia [ENGLISH SUBTITLES]
+https://www.youtube.com/watch?v=MfmWFlQGT2Y
+
 Cosmos (1980) by Carl Sagan
 https://www.imdb.com/title/tt0081846/
 https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
@@ -328,6 +331,9 @@ https://www.youtube.com/watch?v=kYfNvmF0Bqw
 in the top 10 videos list
 UTOK and the Meta Crisis, by Gregg Henriques
 https://www.youtube.com/watch?v=4NK4PvKSmJs
+
+Now UTOKing | Learning the Language - playlist
+https://www.youtube.com/playlist?list=PLTJe1xFfoxrDi19ew-Zbo9oDOwv_c-Ysz
 
 game theory for kids as top10 most important - also education to be like those for the kids of spacex employees & elon
 
