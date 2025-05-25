@@ -5266,11 +5266,6 @@ picture what is possible in the next century
 
 Contribution rights > property rights
 
-Emergent World Order
-
-universal basic humble pie - let everyone participate in forecasting and let the rules sort out who's actually worth listening to
-so many people have so many opinions about how the world works and about war and conflict and whatnot - we MUST sort this out in a way such that we can all agree on the answer/result
-
 we need to properly sort people in order to properly sort opinions on what we should be doing - individually and collectively
 
 the best way to help your movement is to signal it and the best ways to find worthwhile movements is to see which are trending and who is supporting them
@@ -5281,6 +5276,8 @@ How can a country limit or completely ban youtube shorts - just part of an app i
 
 There is an optimal way to raise a human being - an optimal tradeoff for making them the most capable and happy and inspired without robbing them of their childhood and pressuring them to be something they don’t want to be. We need to be constantly striving towards this optimality and justify in the most accessible and authoritative way possible what and why should be done for the best results.
 
+
+"A person hears only what they understand." - Johann Wolfgang von Goethe
 
 
 Within companies the incentive is to be as close as possible to GameB - to share knowledge because of its anti-rivalrous dynamics, but between companies the mode of operation is GameA - scarcity & rivalry

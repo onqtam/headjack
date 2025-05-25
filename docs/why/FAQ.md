@@ -46,6 +46,14 @@ This is not meant for the average reader - few will be able to plow through it w
 
 Good! that means you're on board with the other 80-90% and we can focus on either fixing the other 10-20% or helping you fill the gaps to get you further.
 
+## Why is there so little aboit AI?
+
+Because there's nothing we could add to the discussion. We stay in our lane of competence.
+
+What we can do, however, is help shift the conversation more towards an architecture for collective intelligence.
+
+We're interested in a system to better make sense of situations such as the one we find ourselves in in regards to AI. We're interested in the meta solution for social organization.
+
 ## This can't possibly work! How will X work?
 
 Will this work? No clue. But what we can say with 100% confidence that we must try to create a better system than the current one.

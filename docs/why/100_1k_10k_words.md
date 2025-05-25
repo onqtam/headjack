@@ -53,11 +53,14 @@ Self-Interest - and the expansion of the self (with an expanding cognitive light
 Collective Intelligence: a Primer / for Dummies
 Reputation/Identity in the 21st century / 3rd millenium - like the book about capital
 The Mind/Psychology of God
+Alignment is All You Need
+Emergent World Order
 The Real Matter With Things
-    a more practical/consequential level of description than left/right thinking
+    Literally an infinitely higher bang for your buck, not only because this book is more practical/consequential than left/right thinking, but because it's also free and accessible to all
 The Real Situational Assessment
     no, it doesn't have to be just about scaling compute & energy and to go brrr faster than the other guy
 The Real Hard Problem of Consciousness
+    in depth, scale
     How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
 Niche (co-)Construction
 The Post-Liberal Synthesis
@@ -74,6 +77,8 @@ Minimum Viable Infinity
 The Next Game
 Algorithms to Vote by
 Integrated Why
+The Big Sell
+    selling an ideology
 “It Is Known”
     Common knowledge for self-organizing collectives
 System Architecture

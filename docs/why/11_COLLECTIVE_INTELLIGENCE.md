@@ -165,7 +165,15 @@ https://www.goodreads.com/book/show/32336635-the-enigma-of-reason
 # SECTION: Probability & prediction
 ██████████████████████████████████████████████████████████████████
 
+The only macro long-term prediction we can make with any certainty is that the future belongs to those who can best predict it.
+
+universal basic humble pie - let everyone participate in forecasting and let the rules sort out who's actually worth listening to
+so many people have so many opinions about how the world works and about war and conflict and whatnot - we MUST sort this out in a way such that we can all agree on the answer/result
+
+if we're incentivised to go on the record for all of our predictions along with confidence margins it becomes impossible to cherry-pick only our successes and it stimulates us to refine our understanding of the world, to update our views once new data comes in, etc.
+
 <img src="/img/famous_failed_prediction.png"/>
+^^ who do we think understands the economy better - this chap, or the folks at the SantaFe institute who understand evolution, complex systems, information theory, etc? Who is in the driver's seat?
 
 > "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
 
@@ -1463,6 +1471,8 @@ https://vitalik.ca/general/2022/06/15/using_snarks.html
 https://github.com/privacy-scaling-explorations/maci/
 Systems like MACI can prevent you from credibly selling your vote, by allowing you to later cast another vote that invalidates your previous vote, in such a way that no one can tell whether or not you in fact cast such a vote. However, if the briber controls which key you get at registration time, this does not help.
 https://vitalik.ca/general/2023/07/24/biometric.html#:~:text=Systems%20like%20MACI,does%20not%20help.
+https://x.com/zkMACI
+https://maci.pse.dev/
 https://w3c-ccg.github.io/ldp-bbs2020/
 https://link.springer.com/chapter/10.1007/3-540-36413-7_20
 what to want from voting: privacy, correct execution, coercion-resistance (not being able to prove how you voted) and censorship resistance to the voting context

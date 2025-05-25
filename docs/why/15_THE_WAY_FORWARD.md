@@ -626,6 +626,57 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 
 
 
+> "To assess your own life's meaning—ask yourself:
+>
+> • What do I want to exist even if I don’t?
+>
+> • How real is it?
+>
+> • How much of a difference do I make to it?" - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1884630618274742386)
+
+
+
+> "Philosopher Susan Wolf proposes 4 key dimensions of a meaningful life:
+>
+> • Purpose—Having an overarching mission or goal
+>
+> • Coherence—My situation (my problem) is well structured. The elements of your life "make sense" and fit together harmoniously
+>
+> • Significance—I'm connected to what's really relevant (things that are real and important beyond just yourself) in this situation
+>
+> • Mattering (Connectedness)—Your existence makes a positive difference to what you care about" - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1922945044752801988)
+
+
+> "It’s a silent epidemic affecting nearly everyone: The Meaning Crisis. We are drowning in bullshit—literally “meaninglessness”. We feel disconnected from ourselves (each other) and a viable future. Alienation without (anxiety within)... So what contributes to a meaningful life?
+>
+> A sense of belonging... In biology we used to think that the environment shaped the organism—but the organism is also shaping the environment... Culture is massively shaping you to fit this environment—and shaping this environment to fit you. So belonging is when there's been a co-shaping of organism and environment so they fit well (they belong) together...
+>
+> Another way of understanding the meaning crisis is this: People are experiencing cultural domicide. We’re sheltered—but not rooted. Common responses are nihilism (there is no home) or retreating to find home only inside ourselves. But true meaning comes through belonging—mutual shaping between you and a world you positively impact.
+>
+> Furthermore Wolf proposes 4 key dimensions of a meaningful life:
+>
+> • Purpose—Having an overarching mission or goal.
+>
+> • Coherence—My situation (my problem) is well structured. The elements of your life "make sense" and fit together harmoniously.
+>
+> • Significance—I'm connected to what's really relevant (things that are real and important beyond just yourself) in this situation.
+>
+> • Mattering (Connectedness)—Your existence makes a positive difference to what you care about.
+>
+> While all four are important—mattering may be the core of meaning—achieved by contributing to and connecting with things you care about beyond yourself. To assess your own life's meaning, ask:
+>
+> • What do I want to exist even if I don’t?
+>
+> • How real is it? 
+>
+> • How much of a difference do I make to it?" - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1861409167208022400)
+
+
+
+
+
+
+
 > "There's a perennial problem of meeting Ecclesiastes or um uh book books of the same ilk um and I I think this has to do with the fact that we are we are parentally prone to despair uh because the very processes that make us intelligently adaptive also make us perpetually susceptible to self-deception and we can get bound up and cut off and disconnected from ourselves and other people so I think there there I think there's definitely a perennial aspect cross-cultural cross- historical aspect to it um I think what's specific about what I call the meaning crisis is that those perennial problems usually have had perennial Solutions there have been and the solutions are not what we call belief systems they are systems are better make it more sort of dynamic ecologies of practices ways of transforming Consciousness cognition character community that give people um a sense that they're ameliorating this self-deception and enhancing their connectedness to themselves to other people to the world and those ecologies of practices have been housed in various things that or home homed is better they've been homed in religions but they've also been homed in these things that sort of hang on the border between philosophy and religion like Buddhism and dosm and and maybe stoicism um and so what seems to be the case though is we don't have a socially recognized legitimated home outside of the religions for people who want to amarate their foolishness who want to enhance their connectedness if you'll allow me a little bit High flut and word who want to cultivate wisdom and because of that and that has to do with some very important historical factors... **Host:** But do you think it's new though I mean Alex was saying it's it's been around forever just a mile away we have the Columbia campus it has nothing to do with this conversation in a way but the the intensity of the political disagreement the sense that people are fundamentally unreconciled do you think that is just another manifestation of this do you think we are in a particularly... **John:** Very much and I think from an anthropological point of view not a theological point of view from an anthropological point of view these are religious events these are people well I I want to do what Alex did what is it that we're seeking where we're seeking meaning so in cognitive science and psychology we try to distinguish between the the meaning of life which is some Grand metaphysical claim and meaning in life and philosophers like uh Susan Wolf and others so what this is is that it it sort of has a bunch of factors but one is does the world make sense to you think of all the things you have in a video game and why people want to be in video games does the world make sense to you is there a story that you can play a part in and is there a way for you to level up for you to get better as a person like to enhance your agency and so it's this fundamental sense of connectedness and so you can determine meaning in life by asking people three questions what do you want to exist even if you don't how can how really real is it and how much of a difference do you make to it now these people in these events they want to connect to something a cause that's bigger than themselves and they want it to exist they think the universe is a better place if this cause is there they want to make it they think it's really real these they think these are real events this is significant important this isn't like going to the store and buying milk and they think they can make a difference by by participating in it committing to it and so I think it's very much and the fact I think it's very much an act about trying to get this connectedness and the fervor means that it's being driven by you know a tinge of anxiety a tinge of hunger a tinge even of you know potential despair." - [John Vervaeke](https://youtu.be/EMOmsScLJoA?t=471)
 
 ^^ from 7:51 till 11:44
@@ -1305,6 +1356,8 @@ This as the section for matchmaking and with the leary quote
 ██████████████████████████████████████████████████████████████████
 
 
+<details><summary>UTOK's Elephant Sun God</summary><p>
+
 <img src="/img/UTOK-ESG.png"/>
 graphic by Christian Gross who's been helping Gregg with all things UTOK?
 
@@ -1335,6 +1388,8 @@ graphic by Christian Gross who's been helping Gregg with all things UTOK?
 > The third referent is the elephant in the poem by John Godfrey Saxe of the six blind men who happen upon an elephant, such that each grabs a part and claims to have “seen” the essence. If you look closely at the standard ESG icon, you will see that it is an elephant made up of those parts (e.g., the trunk is a snake, the side is a wall, the legs are tree trunks)...
 >
 > We can thus consider the ESG icon to be a metamodern symbol. That is, it is simultaneously sincere and ironic, and it is situated to both include and transcend oral-indigenous, traditional, modern, and postmodern sensibilities. It is meant to symbolize our embeddedness in nature (i.e., our dependence on the sun and earth and our connection with other living creatures like elephants), and our historical lineage of justification that stretches from traditional societies in the Bronze Age into the Axial Age into modern science and into a postmodern, pluralistic, contextualized view. The metamodern sensibility is recursively self-aware and is framed by a coherent, integrated pluralism, which is situated against the current chaotic, fragmented pluralism that characterizes our current knowledge systems." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+
+</p></details>
 
 
 

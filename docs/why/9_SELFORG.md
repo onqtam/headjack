@@ -474,7 +474,13 @@ not sure this is important enough
 
 
 
+> "Whenever you're solving a problem—you have to solve these two meta problems in order to be adaptive:
+>
+> • Anticipation: You need to anticipate the world. The farther out you can anticipate the world the more intelligence people will attribute to you. It's way better to avoid the tiger than to fight it.
+>
+> • Relevance Realization: There's way too much information to pay attention to—and you're intelligent by ignoring most of the information (and zero in on the relevant information). But it’s not a cold calculation—you care about this information rather than that information." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1924802687607898344)
 
+> "Your brain naturally filters possibilities through what cognitive scientists call "structure of possibility"—a framework that helps you focus on scenarios that are both relevant and probable." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1880985033319633314)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Agency
