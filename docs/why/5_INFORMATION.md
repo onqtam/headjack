@@ -411,9 +411,40 @@ we should all be labellers - in an open way such that anyone can harness our col
 
 What if the way an event or a piece of news to get to more eyes was not through recommendation algorithms but through explicit annotation of what's inside - such that people can have explicit interest in those? What if people would rank stories by importance and then subscribe to filters based on people they trust would rank stories properly? What if you could allocate an attention budget of say 30 minutes per day or 20 news items and get the top after sorting, with the option to get the next batch if you want more?
 
-Four Ways of Understanding Facts
-https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=Four%20Ways%20of%20Understanding%20Facts
-TODO INTERNET
+
+> "Four Ways of Understanding Facts
+>
+> 1. Checking and Verification. If a factual claim is made, determine the methods used to justify it. Upon understanding the fact’s origin, find the clearest ways of stating what has been found to be true. When reading about new scientific findings made public by the media, one should ask questions like:
+>
+> Has a reliable source been cited to support the fact?
+>
+> Has the fact been corroborated by multiple independent sources?
+>
+> Is it being stated in a way that is as clear and as close to empirical as possible?
+>
+> 2. Caveats and Context. After checking the fact, consider the limits of the observations and methods involved, comparing them to other possible observations and methods. Qualifying the fact as “contextually true” gives a deeper understanding of its validity, showing more clearly just what is known and what is not. When engaging with the actual studies and evidence referenced in media stories, one should ask questions like:
+>
+> What is important to know about the contexts in which the fact has been validated?
+>
+> What limitations do the relevant methods, observations, and claims have?
+>
+> How much will the fact hold true beyond the context it was validated in?
+>
+> 3. Representation and Comprehensiveness. Once the fact is placed in context, expand that context to include the broader field of issues. Seek to gather as comprehensive a network of information as possible, including all relevant knowledge with a direct bearing on the significance of the fact. Understanding a fact requires having a representative view of the full state of knowledge on relevant issues. After reviewing the research studies cited by the media, and thereby validating and contextualizing the fact in question, you can further ask:
+>
+> What additional facts must be considered to fully represent the meaning of the fact in question?
+>
+> What is the full inventory of adjacent and related knowledge with regards to the issue?
+>
+> 4. Perspectives and Framing. Finally, after gaining a representative picture of the fact in context, reflect on its meaning by seeking to view it from several relevant frameworks and worldviews. Taking up multiple perspectives and engaging with the emotional dynamics of understanding the fact allows for a considered approach to communication and education. Beyond any fact are the values that frame it; therefore, one must ask:
+>
+> In what ways can the fact be framed emotionally and taken personally by different types of people?
+>
+> What are the implications of the fact, according to various relevant political ideologies?
+>
+> What are the various reasonable perspectives on the meaning of the fact?" - [How to Mislead with Facts - The Consilience Project](https://consilienceproject.org/how-to-mislead-the-facts/#:~:text=Four%20Ways%20of%20Understanding%20Facts)
+
+
 
 the liquid democracy stuff can be used here to "vote" on who is a good curator for different topics
 

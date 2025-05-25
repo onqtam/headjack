@@ -110,7 +110,6 @@ Second-Order Cybernetics
 ██████████████████████████████████████████████████████████████████
 
 <!-- TODO INTERNET
-
 fighting misinformation with a logical reasoning system
 Julia Galef: Think Rationally via Bayes' Rule | Big Think
 https://www.youtube.com/watch?v=NEqHML98RgU

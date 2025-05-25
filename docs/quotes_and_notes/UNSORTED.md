@@ -4038,14 +4038,6 @@ God is our aggregated and compressed competence that can speak to us - the syste
 
 consciousness 1, 2 & 3 by Gregg
 
-https://medium.com/unified-theory-of-knowledge/now-utoking-consciousness-df6cb156d62e
-
-https://www.psychologytoday.com/us/blog/theory-of-knowledge/202407/unpacking-the-consciousness-suitcase
-
-https://www.psychologytoday.com/intl/blog/theory-of-knowledge/202407/the-three-loops-of-human-consciousness
-
-https://medium.com/unified-theory-of-knowledge/understanding-consciousness-79705178679f
-
 
 
 Our consciousness is a governance and coherence operator and even it is in line with the principle of subsidiarity - you cannot consciously control the functioning of your organs or cells - those functions are pushed to the lower levels.

@@ -1585,8 +1585,9 @@ the whole of chapter 4 "the invisible brain" is a worthy quote
 
 https://brendangrahamdempsey.substack.com/p/emergentism-chapter-5-designing-meaning#:~:text=Complexity%2C%20as%20we,greater%20subjective%20depth%3A
 ^^ epic picture after this quote:
-https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F779e7944-c36c-4903-a6e1-b99604d725b8_1153x834.png
-TODO INTERNET
+<img src="/img/Emergentism_The_Complexity_Consciousness_Continuum.jpg"/>
+
+
 
 > "This scientific revolution has allowed us to understand far more accurately aspects of what our religious forebears partially intuited, so that we can now re-integrate our findings into a comprehensive vision of the full richness of reality. When we do this, we are confronted with a truly remarkable vision. The cosmos is indeed organized according to a graded, hierarchical sequence. However, this sequence is arranged according to complexity. All its levels are made of the same basic stuff, and the scale unfolds through time, endlessly evolving and developing on its way towards an infinitely receding realization of perfection." - [Emergentism: A Religion of Complexity for the Metamodern World, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/65167542-emergentism)
 
