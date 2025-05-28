@@ -689,7 +689,7 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Time preference expansion & discount rate
+# SECTION: Time preference expansion & discount rate - hyperbolic discounting
 ██████████████████████████████████████████████████████████████████
 
 what if we found a way to invert our discount rate, such that we valued the long future mor than the immediate present?

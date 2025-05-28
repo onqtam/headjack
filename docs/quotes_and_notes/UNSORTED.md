@@ -76,6 +76,61 @@
 
 
 
+> "The first rule of compounding is to never interrupt it unnecessarily" - [Charlie Munger](https://x.com/morganhousel/status/1049392552175124481)
+
+> "Don’t debate people in the media when you can debate them in the marketplace." - [Naval](https://x.com/NavalismHQ/status/1836978596465848461)
+
+
+
+
+> "When we say “the mind,” we are indexing it as if it were a thing, an entity in the world, that is made up of a particular substance. But this might not be the best way to go... I have reframed the concept as "mindedness." Mindedness treats the concept more like a verb or an adjective that describes a set of processes and properties... Mindedness does not refer to a substance but to a set of functional processes embedded in a particular structure." - [The Mind vs. Layers of Mindedness, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202401/the-mind-versus-layers-of-mindedness)
+
+> "... life is properly conceived of as both a property and a generative process of complexification. Complexification refers to how things both differentiate and integrate to become “meta-stable” patterns that have causal properties. This means that life is a specific kind of assembled organization that enables particular behavior patterns. More specifically, life describes a set of complex adaptive units that process information (i.e., cells) and communicate with each other and create webs of behavioral complexification in various environmental contexts.
+>
+> To understand this better, we need to consider different levels of organization in nature. Lots of things are organized into hierarchical levels. One example is our language. It has letters, words, and sentences that can then be embedded into recursively complex systems (e.g., paragraphs, sections, chapters, books, topics)...
+>
+> Now, think of atoms as being akin to letters and molecules being like words. And then think of a generative process that gives rise to sentences. And then consider how these sentences can be stitched together and function as whole units that process information and communicate with each other. This is a reasonable way to think about the kind of thing life is. Genes are like the sentences, cells are like stories, and the ecology is like the topic or genre or context.
+>
+> This means that life is not a new force per se. Rather, life is a new plane of existence that emerged in the world as a function of novel information processing systems and communication networks that expanded into systems. Put in the metaphor of propositional language, life is the ecological network of chemical sentences that tell stories in the form of organisms like bacteria and oak trees...
+>
+> ... the mind, like life, is a plane of existence. This means that “the mind” is not some nonphysical force that causes physical things to behave. Rather, “mind” is properly framed as a property and a generative process that has given rise to a new plane of existence.
+>
+> ... Mindedness can be defined as the sensorimotor loop that emerged in the animal kingdom. Specifically, it starts as neuronal networks in things like sponges and jellyfish. It advances with the emergence of brains and bilateral body plans in things like planaria. Finally, there is the Cambrian Explosion. This is when we get animals with brains and complex active bodies that can engage in new kinds of patterns, like predation on other animals.
+>
+> The fundamental unit of life is the cell. The fundamental unit of “mind” is an animal with a brain and a complex active body. These two elements enable the animal to get up and move around as a whole, which, in turn, opens up a whole new way of being in the world (i.e., this is normally just labeled the world of animal behavior).
+>
+> Mindedness describes this property. And mental behaviors describe the kind of behaviors that exhibit mindedness. In so doing, the bridge between the behaviorists and the mentalists is made clear.
+>
+> ... Biology is the science of life, defined as a new plane of existence that emerged because of the evolution of a novel kind of information processing/communication network that allowed for the assemblage of much greater kinds of behavioral complexification than is the case for inanimate matter.
+>
+> The same is true for (basic) psychology. Psychology is the science of mental or minded behavior. Minded behaviors are readily identifiable. They are characterized by the higher-order functional awareness and responsivity that we see in animals, which are constituted by the sensorimotor loop in animals with brains and complex active bodies.
+>
+> This is mindedness. And, as we saw with life, it can be readily defined as a new plane of existence that emerged as a function of a novel form of information processing and communication networks." - [Mindedness Is to Psychology What Life Is to Biology, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202412/mindedness-is-to-psychology-what-life-is-to-biology)
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - []()
+
 
 
 
