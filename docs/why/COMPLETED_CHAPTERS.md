@@ -341,6 +341,9 @@ top10 best predictors - hall of fame
 - paul krugman on the internet
 - transitory inflation - split 2nd place for J Powell / J Yellen
 
+top10 most informative comedic channels (that are probably & hopefully mostly accurate):
+- [@ClimateTown](https://www.youtube.com/@ClimateTown)
+
 top 10 things for students
 2015 Commencement Address by David Brooks
 https://www.youtube.com/watch?v=PgoiVAI9B1w

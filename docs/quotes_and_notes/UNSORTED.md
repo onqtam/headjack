@@ -132,6 +132,11 @@
 > "" - []()
 
 
+> "Being wrong by 70 years on a forecasting horizon of 85 years is not an acceptable error when trillions of dollars and the policymaking of the entire planet are on the line." - [Adam Dorr](https://x.com/adam_dorr/status/1925567850200039477)
+
+
+> "What You *~~Do~~* **Are** Is *~~Who You Are~~* **What We Are**." - [Ben Horowitz](https://www.goodreads.com/book/show/44063692-what-you-do-is-who-you-are), probably
+^^ A cooperative collective intelligence of parts that gives rise to a higher order entity
 
 
 

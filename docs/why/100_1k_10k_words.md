@@ -113,6 +113,8 @@ The Matrix part 2/4
 Birthing Collective Consciousness
 Embracing Complexity
 Genesis / The seed
+The Flood Dose
+    Absorbing God’s most articulate and sophisticated representation/scripture to date and a reset for your apathy/nihilism/meaninglessness/insignificance/disorientation/alienation/hopelessness/existential terror
 The first dimension
     the first time we get to vote on what memeplex (or set of ideas) is most important digitally - this is us being able to point and evolve, and cohere through common knowledge
     not sure about this... sux?
