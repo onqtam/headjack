@@ -2570,8 +2570,6 @@ What if we could define the rules for what the Met Gala should look like so that
 
 What if we could explicitly state which mental models we’ve learned and how we’ve equipped our cognitive toolkit? And what if we could express what we think everyone else should also learn?
 
-Big history and why its important
-
 
 How do we better formulate our problems?
 
@@ -5677,6 +5675,110 @@ there is an INFINITE amount of cash at the federal reserve
 We need a collective map of where we are, where we want to get and how we’re thinking of going about it - and this map should be common knowledge
 
 Imagine believing that your taxes will be well spent
+
+
+
+
+
+Perfect competition entails than any outsider can come in permissionlessly and outdo you at your job at a company and get the rewards.
+Perfect competition
+All of the efficiency and creativity without the waste and needless destruction
+
+Stigma is cheaper than law enforcement - we can build a way better regulatory structure than what 17-18th century social tech can produce
+
+This kind of status is more secure than the monetary one because no one can stеal your reputation and because we’ll collectively control status inflation - it’ll be easier to save as this will be less inflatable than trad currency
+
+What of you could earn different resource subscriptions and what if there was an incentive for delayed gratification? To not spend more than you actually need? How do we make austerity sexy?
+
+Overconsumption is a game theory failure
+
+What are women and men for? What are they good at, how can they become better and more useful to themselves and others?
+
+Postmodernism is too shallow - lacks capacity for recursion because it doesn’t erect something as a proposed vision forward which can thus be referenced
+
+You upload yourself to the entropic cloud through having children
+
+If you’ve read this book you’re already in the attractor basin
+
+LITERALLY THE WORLD WOULD BE BETTER IF EVERYONE UNDERSTANDS MORE OF ECONOMICS AND HOW MONEY AND PERSONAL FINANCE WORK
+Some things are better than others
+
+The only bid for a new world order worth a damn
+
+No religion is beyond reform - if there are adherents and there is an authoritative structure still kicking along - it can evolve. What could the greatest attractor for the different religions of the world be? How do we enable them all to converge on what’s most important about how to treat people from other religions? How do we instill the best that the evolution of cooperation has taught us?
+
+“The real religion of peace”
+Peace is generated through competence, empathy, trust, cooperation, skin in the game, responsibility, reputation.
+
+Make religion great again
+
+Have a section about postmodernism in culture
+
+Comprehension, brevity, logic, and ingestability lead to better justifications.
+Healthier and happier and more fulfilled people can handle more complexity from the world. Our future is inherently trending towards greater complexity - we need to up our game in the realm of integration and compression
+
+The immaculate conception is traceable through git
+
+What is better, and why?
+
+
+
+This book is optimized to get into your head. And soul. Forever. Its the alpha version of what we’ll collectively co-create
+
+How do we have the conversation for whats good in the world?
+
+If your country of residence doesn’t allow this new kind of media - MOVE.
+
+We ask the questions through morals and we answer them through the most rigorous standards of science
+
+Zuck shpuld have spent his life trying to create this - instead he played the traditional game and addicted people and made them less prosperous in their own and in our collective lifes. Facebook degrades the human condition in comparison with this system.
+Choose life
+The great dezucking
+Zuck belongs in reputational jail for moral crimes against humanity.
+Zuck is the epitomy of what’s most broken in our society - he simply plays the game without questioning it despite the harms. He chooses harms for others over harms to himself. He doesn’t even believe in himself to fix the problem - if he did he would have solved it. He should have simply continued asking what media is for
+Instead of hating zuck sinply say what he did wrong and how he can make amends
+Invite him to be a real man and to start implementing this - instead of waiting for the regime to change before taking any personal risk with your policies. And stop building bubkers for yoursef bro thats not very courageous. Enough with the jiu jitsu bowbhunting psyop. U probably hired a pr agency to fix ur image lol
+Come on zuck, out here is better than in the bunker, help make the world actually better - simply connecting everyone on the most extractive attentional architecture possible is not really good actually
+Either Zuck pivots to pro-sociality or the internet will be dezucked
+De-Googling the Internet
+DeZucking the Internet
+The highest calling for Zuck is to build a bunker
+
+Transmuting the profit incentive
+The transmutation of the profit incentive
+
+Imagine befriending your neighbours and recruiting them to participate in the global consensus
+
+Certain things are just better. How do we determine which they are, better how, and by how much?
+
+How much horrible parenting is happening simply because we have no worthy authority to actually trust?
+
+The gradations of homogeneisation
+Ho we argue for what we can and should differ more, and around what we should be more alike
+
+How do we raise kids with proper secure attachment? What is proper? How much? Regarding what?
+How do we determine for what its ok to let kids cry and what not for?
+How do we determine the best ways to inculcate kids with certain worldviews?
+THIS IS ALREADY HAPPENING ANYWAY AND UNDEMOCRATICALLY AND UNCONSCIOUSLY
+
+Imagine raising a kid and having given him the capacity to use this system as best as possible
+
+The real test for the freedom of religion
+
+We upload ourseves to the cloud through our children
+
+How do we get more people to actually care about how much plastic they consume?
+How do we enculturate prople to actually care about how much plastic we’re producing? How do we get there? Global justification for what should happen, and why. With the best collective intelligence protocol that we’re aware of.
+
+By expressing what we think other people's kids should be like, we actually bond with the future generations.
+The more we feel we’ve had an impact on others - the more connected we feel with them. How do we enable the one-to-many and the many-to-one influence dynamics of our species?
+
+How do we increase the number of people and the ammount of good and abstract rules for their heads about the world?
+
+Our current civilizational stack should be an open source protocol
+
+What happens if we found the most relevant/important ideas and aspects of the world and we then combined them in the most relevant and synergistic way? This book
+Applied RR
 
 
 

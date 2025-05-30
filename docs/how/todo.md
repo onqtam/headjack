@@ -456,7 +456,7 @@ https://geohot.github.io/blog/jekyll/update/2021/12/18/the-fourth-estate.html
 <!-- > "Those who have a 'why' to live, can bear with almost any 'how'." - [Viktor E. Frankl](https://www.goodreads.com/quotes/315385-those-who-have-a-why-to-live-can-bear-with) -->
 
 > "Even a billion dollars of capital cannot compete with a project having a soul." - [@VitalikButerin](https://vitalik.ca/general/2020/12/28/endnotes.html)
-^^ remake: Not even a trillion $ can compete with a project that has a soul
+^^ remake: Not even a quadrillion / trillion $ can compete with a project that has a soul
 
 > "Our mission is to organize the world's information and make it universally accessible and useful." - [Google](https://about.google/)
 

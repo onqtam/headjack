@@ -130,6 +130,8 @@ Incentives from first principles
 In the depths of self-organization
 The Recognition Economy
 WikiOverflow
+The forward protocol
+Memetic Supremacy
 “The highest leverage point”
 The Global Community
 Inevitability
@@ -152,6 +154,8 @@ The Singleton - not always an anti-pattern but crucial for solving global coordi
 Media Theory for the 21st Century
 Required Reading
 Cyber Governance
+The Realization of the Independence of Cyberspace
+    https://en.wikipedia.org/wiki/A_Declaration_of_the_Independence_of_Cyberspace
 The Intelligent Collective
 The Reward/Generator Function
 The Riddle of Existence

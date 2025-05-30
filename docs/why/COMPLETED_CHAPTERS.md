@@ -328,10 +328,6 @@ Use the clip of jobs saying that we can change things in the world - or in the t
 "Steve Jobs Secrets of Life"
 https://www.youtube.com/watch?v=kYfNvmF0Bqw
 
-in the top 10 videos list
-UTOK and the Meta Crisis, by Gregg Henriques
-https://www.youtube.com/watch?v=4NK4PvKSmJs
-
 Now UTOKing | Learning the Language - playlist
 https://www.youtube.com/playlist?list=PLTJe1xFfoxrDi19ew-Zbo9oDOwv_c-Ysz
 

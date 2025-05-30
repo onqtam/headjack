@@ -91,7 +91,7 @@ what should these orgs do:
 - Epic Games, Valve, Discord
 "All your identities are belong to us" - the inevitability of this ecosystem swallowing all current identity providers and forcing them to migrate to it
 
-
+Governing google properly
 
 Comics po knigata - za vseki chapter/section
 
