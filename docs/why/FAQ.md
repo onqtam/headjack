@@ -48,11 +48,9 @@ Good! that means you're on board with the other 80-90% and we can focus on eithe
 
 ## Why is there so little aboit AI?
 
-Because there's nothing we could add to the discussion. We stay in our lane of competence.
+Because there's nothing we could add to the discussion. We stay in our lane of competence. The most intelligent thing we can say is that anyone speaking with high confidence about what's going to happen with AI should not be taken too seriously.
 
-What we can do, however, is help shift the conversation more towards an architecture for collective intelligence.
-
-We're interested in a system to better make sense of situations such as the one we find ourselves in in regards to AI. We're interested in the meta solution for social organization.
+What we can do, however, is help shift the conversation more towards an architecture for collective intelligence. We're interested in a system to better make sense of situations such as the one we find ourselves in regards to AI. We're interested in the meta solution for social organization.
 
 ## This can't possibly work! How will X work?
 

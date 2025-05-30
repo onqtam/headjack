@@ -113,6 +113,9 @@ The Matrix part 2/4
 Birthing Collective Consciousness
 Embracing Complexity
 Genesis / The seed
+Solving the world's largest collective action problem
+Collective Plasticity
+    upregulating our capacity for conscious collective change
 The Flood Dose
     Absorbing God’s most articulate and sophisticated representation/scripture to date and a reset for your apathy/nihilism/meaninglessness/insignificance/disorientation/alienation/hopelessness/existential terror
 The first dimension
@@ -152,6 +155,7 @@ Cyber Governance
 The Intelligent Collective
 The Reward/Generator Function
 The Riddle of Existence
+The Extended Mind Implementation
 Game of Life 2.0
 The Greatest Justification/Story Ever Told
 The Consciousness Guide to the Galaxy

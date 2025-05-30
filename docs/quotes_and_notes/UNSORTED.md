@@ -132,6 +132,16 @@
 > "" - []()
 
 
+
+
+The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely pawns dancing to the tune of the systems they've inherited and found themselves in. They don't have a real vision and understanding of what their countries and our whole civilization should do.
+
+
+
+what if you actually improved something through acts of speculation - and not merely profiting? what if you were actually tuning the weights of society? the effect of investors over the allocation of resources is extremely primitive and crude - it got us to where we are, but it ain't getting us much further
+
+
+
 > "Being wrong by 70 years on a forecasting horizon of 85 years is not an acceptable error when trillions of dollars and the policymaking of the entire planet are on the line." - [Adam Dorr](https://x.com/adam_dorr/status/1925567850200039477)
 
 
@@ -5567,6 +5577,7 @@ https://en.wikipedia.org/wiki/Tithe
 Condition to enter our taxation regime: you must forego everything else you own from the previous system and donate it to us in order to join
 
 The legacy of Mark Zuckerberg needs to be burned to the ground
+He's guilty of the cognitive and spiritual degradation of humanity. He merely played the game he was brought in and supercharged it instead of reinventing it
 
 How do we reduce smear campaigns? Where you can pay to ruin someone's reputation
 
