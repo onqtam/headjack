@@ -131,7 +131,9 @@ In the depths of self-organization
 The Recognition Economy
 WikiOverflow
 The forward protocol
+The World (Self) Model
 Memetic Supremacy
+The open source participatory/democratic GCP (global communist party)
 “The highest leverage point”
 The Global Community
 Inevitability

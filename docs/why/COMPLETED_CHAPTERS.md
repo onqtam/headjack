@@ -358,6 +358,9 @@ https://www.youtube.com/watch?v=nQRzxEobWco
 EMBED THIS !!! not just in the top10 list
 also rewatch it
 
+top10 most important words:
+- [justification](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202310/is-justification-the-most-important-word-in-human-language)
+
 why can't we crowdsource "top 10 videos that everyone should watch"
 
 Top 10 ways to improve X field/concept/entity

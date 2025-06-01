@@ -107,19 +107,35 @@
 >
 > This is mindedness. And, as we saw with life, it can be readily defined as a new plane of existence that emerged as a function of a novel form of information processing and communication networks." - [Mindedness Is to Psychology What Life Is to Biology, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202412/mindedness-is-to-psychology-what-life-is-to-biology)
 
-> "" - [, by Gregg Henriques]()
+> "The BUC(k)ET Model of Core Social Motives: The five motives are belonging, understanding, control, enhance self, and trust.
+>
+> • The BUC(k)ET model provides a frame for understanding the situations people thrive in versus flounder.
+>
+> • We do well when we have a deep sense of belonging and trust the institutions and experts that lead us.
+>
+> • We thrive when we can feel good about ourselves and have avenues for personal growth and improvement.
+>
+> " - [The BUC(k)ET Model of Core Social Motives, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202402/the-bucket-model-of-core-social-motives)
 
-> "" - [, by Gregg Henriques]()
+> "... the core cognitive process in animals is functionally organized by recursive relevance realization, and ... the domain of Mind2 (subjective conscious experience) is a model of mindedness constituted by focal recursive relevance realization that affords the animal perspectival knowing across time.
+>
+> ... mindedness evolved in animals to coordinate behavioral investment patterns over extended time horizons (i.e., from reflexes and procedural instincts to operant learning to imagined simulations from a subjective point of view to narrating reasons via propositional knowing in humans), which provides a framework to understand the evolution of Mind2 from elementary feelings to a subjective perspective on the world.
+>
+> ... social creatures like primates engage in recursive relevance realization in a relational matrix to achieve social influence and relational value across the self-other process dimensions of power, love, and freedom." - [The Core of Extended Naturalism, by Gregg Henriques & John Vervaeke](https://medium.com/unified-theory-of-knowledge/the-core-of-extended-naturalism-fd1fc4fb887b)
 
-> "" - [, by Gregg Henriques]()
+> "Salience refers the quality of being noticeable or prominent. Relevance means the quality of being appropriate, connected, or important in a particular context. These two concepts are closely related, and we want what is relevant to be what is salient. However, that is not always so...
+>
+> ... You perceive the world via a combination of “top-down” and “bottom-up” elements. Top-down elements include things like directing your attention and the schema (i.e., maps or models) that one has for perceiving the world. The fact that you decided to shift your attention and look around is an example of top-down processes.
+>
+> Bottom-up elements refer to the input data that is coming in through the senses. Have you ever been frightened by an unexpectedly loud “bang”? An unexpected large shift in sound is a bottom-up signal that grabs your attention. Before you are even conscious of hearing anything, your body will already have started to react, orienting toward the sound and adopting a defensive stance. This is called the “acoustic startle response,” and it is a built-in reflex. Our bottom-up sensory systems also learn to become sensitized or habituated to elements over time, depending on our drives and the experiences that we have.
+>
+> ... To live life well, it is crucial that, overall, what is salient in your attentional landscape is relevant to how you want to live your life. This is a crucial point for living well in the modern world because you are constantly being bombarded by many things, including advertisements and other “click bait” designed to be salient and grab your attention, but which are not relevant for wise living.
+>
+> ... The goal of advertising is to grab your attention via bottom-up means. And often the best way to do that is via bottom-up salience signals. Why do you think sex sells? It brings attention to the product and makes subconscious associations, even if they are not actually relevant.
+>
+> ... Salience draws our attention, and relevance is what is actually important... aligning these two is crucial, especially in this modern attention-capture economy where salience cues that are irrelevant to healthy living are everywhere." - [Is Your Salience Landscape Aligned with Relevant Values? by Gregg Henriques & John Vervaeke](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202406/is-your-salience-landscape-aligned-with-relevant-values)
 
-> "" - [, by Gregg Henriques]()
-
-> "" - [, by Gregg Henriques]()
-
-> "" - [, by Gregg Henriques]()
-
-> "" - [, by Gregg Henriques]()
+> "... mothers ... want their kids to feel good and be satisfied with their lives, be biologically and psychologically healthy, and live in rich, safe, and supportive physical and social environments in accordance with wise values, such that they are robust and resilient if and when bad things happen." - [Understanding the Illness-Wellness Continuum, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202412/understanding-the-illness-wellness-continuum)
 
 > "" - [, by Gregg Henriques]()
 
