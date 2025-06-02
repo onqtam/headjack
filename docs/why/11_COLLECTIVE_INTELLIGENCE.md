@@ -565,6 +565,11 @@ accelerating evolution
 ██████████████████████████████████████████████████████████████████
 
 
+The individual within the crowd：how individual forecasters contribute to ideal group forecasts
+https://www.youtube.com/watch?v=xXaRqSKdQnU
+talks about the wisdom of crowds, weighted averaging & how to optimally give weights
+TODO: look at the papers referenced in it
+
 > "Self-organization establishes a relation between the behavior of the individual components and the structure and functionality of the system as a whole: simple interactions at the local level give rise to complex patterns at the global level. This phenomenon is called emergence." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)
 
 > "Coordination can then be defined as: the structuring of actions in time and (social) space so as to minimize friction and maximize synergy between these actions. Coordination can be subdivided in four elementary processes or mechanisms: alignment, division of labor, workflow, and aggregation." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)

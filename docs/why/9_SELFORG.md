@@ -471,6 +471,8 @@ not sure this is important enough
 
 > "Vervaeke’s 3 r’s stand for recursive relevance realization. The idea is that cognitive processes frame situations to identify relevant aspects and this takes place in the context of what the agent is trying to realize in the agent-arena relation. Realize here carries a double meaning; it means realize as in to see and understand, and it means realize as in to make or create, thus creating a tight relationship between perception and action. Finally, recursive refers to the constant modeling and feedback loops that take place vertically (i.e., on the bottom-up to top-down stack) and horizontally (i.e., across different modalities in the sensorimotor looping system)." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
 
+> "The concept of relevance refers to that which is important and a key feature of neurocognition is determining what is salient and important so that one can model the situation and anticipate what is going to happen... The concept of realization in Vervaeke’s formulation carries the twin dictionary meanings of the word. It means to realize as in to see or grasp and it means to realize as in to make or construct. That is, it is a bridging concept between perception and action. To realize relevance is to see something as relevant that enables you to move closer to your goal." - [John Vervaeke’s Brilliant 4P/3R Metatheory of Cognition, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-knowledge/202101/john-vervaeke-s-brilliant-4p3r-metatheory-cognition)
+
 
 
 > "Whenever you're solving a problem—you have to solve these two meta problems in order to be adaptive:

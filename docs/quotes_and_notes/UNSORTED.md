@@ -137,6 +137,38 @@
 
 > "... mothers ... want their kids to feel good and be satisfied with their lives, be biologically and psychologically healthy, and live in rich, safe, and supportive physical and social environments in accordance with wise values, such that they are robust and resilient if and when bad things happen." - [Understanding the Illness-Wellness Continuum, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202412/understanding-the-illness-wellness-continuum)
 
+> "The self emerges as animals model themselves across time and in relationships. The human self consists of a nonverbal experiential self, a narrating ego, and a persona that manages impressions...
+>
+> A New Model for Framing the Self
+>
+> ... perhaps as early as the Cambrian Explosion some 520 million years ago, there was an integration in the brain of sensory inputs with inner drives that functioned to generate “valence qualia,” which are bodily feeling states like pleasure and pain that guide animals toward and away from valued stimuli. Then, as animals advanced in their capacity to model the environment and their anticipated outcomes, and deliberate based on possible action sequences, a more extended form of subjective consciousness emerged, something we might call “an inner mind’s eye” that arises in a global neuronal workspace... this inner mind’s eye can be effectively divided into a witness function that frames and indexes specific aspects of attention with a hereness-nowness-togetherness binding that can be called “adverbial qualia,” and the contents of that frame, such as the redness of an apple, which can be called “adjectival qualia.”
+>
+> A Need to Model the Self Across Time
+>
+> ... coordinating agent-arena actions require models of both the agent and arena and their dynamic relation...
+>
+> If this fact is coupled to the idea that higher forms of cognition and consciousness allow animals to extend themselves across time and situations, we move from modeling the immediate agent-arena relationship to modeling the agent across many separate arenas that are extended in time. For example, a rat at a choice point in a maze will project itself down the right arm of the maze, and then down the left arm. Crucially, although the rat’s simulation of the two paths will be different, the deliberation requires a consistent model of the self (i.e., the rat is the same, whereas the paths are what differ). This insight gives rise to the claim that as animals engage in deliberation across time, a model of the self that is distinct from the many possible environments is required. The point here is that the jump in cognition and consciousness that allows animals to extend themselves across time also points to the need for a more elaborate model of the self.
+>
+> Modeling the Self in Relation to Others
+>
+> ... a second crucial jump would occur as animals became increasingly intertwined in relationships with others...
+>
+> This process of modeling self-in-relation-to-other is framed by Vervaeke by adding “relational” to recursive relevance realization. That is, it is the self-other feedback loop that should be tracked for relevant information. This formulation is directly aligned with Henriques’ Influence Matrix, which maps the process dimensions of the human primate relationship system. Specifically, it suggests that humans intuitively track processes of exchange for indications of having social influence or being valued by others, as well as implications for power/competition, love/affiliation, and levels of dependency or independence.
+>
+> Consistent with work from Tomasello, humans have particularly strong capacities among the great apes to track others' perspectives and feelings, and develop a shared attention and intention. Tomasello calls this the intersubjective “we” space that can form as humans sync up with others. Following the logic above, this suggests massive mapping of self across time in relationship to many others and in many contexts. The result is a dynamic picture of the human primate, pre-verbal self that is very consistent with both James’ assertion that the self is a function of the other and Baumeister’s claim that there is a felt sense of unity." - [A New Integrative Model of the Self, by Gregg Henriques, John Vervaeke & Christopher Mastropietro](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202109/a-new-integrative-model-of-the-self)
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
+> "" - [, by Gregg Henriques]()
+
 > "" - [, by Gregg Henriques]()
 
 > "" - [, by Gregg Henriques]()
