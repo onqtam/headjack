@@ -109,6 +109,8 @@ Second-Order Cybernetics
 <!-- Active Inference, which is based on the “free energy principle” of predictive processing -->
 ██████████████████████████████████████████████████████████████████
 
+predictive_processing_symbol.jpg
+
 <!-- TODO INTERNET
 fighting misinformation with a logical reasoning system
 Julia Galef: Think Rationally via Bayes' Rule | Big Think

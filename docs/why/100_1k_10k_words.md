@@ -163,19 +163,24 @@ Integrated Agency/Collectives
 The Singleton - not always an anti-pattern but crucial for solving global coordination problems
 Media Theory for the 21st Century
 Required Reading
+
+The Meta Religion
+    infrastructure for expressing/enacting/comparing/debating & evolving religions
 Cyber Governance
 The Realization of the Independence of Cyberspace
     https://en.wikipedia.org/wiki/A_Declaration_of_the_Independence_of_Cyberspace
 The Intelligent Collective
 The Reward/Generator Function
 The Riddle of Existence
-The Extended Mind Implementation
+    what to do and why
+THE Extended Mind
 Game of Life 2.0
 The Greatest Justification/Story Ever Told
 The Consciousness Guide to the Galaxy
 Multi Scale Competency Architecture
 Thermodynamic Integration/Optimization
-The Collective Thermodynamic Imperative
+The [Collective] Thermodynamic Imperative
+    integrate/synergize/cooperate or suffer/die
 HumanityOS
 Greater Than 1 - Peter Thiel gave us from 0 to 1, this is the apex meme with an R-naught greater than 1
     this is what you'll do to at least 1 of your friends after you're done reading this - opened eyes from clockwork orange
@@ -192,7 +197,7 @@ Bridge Between Worlds
 
 Buy all of the domains for all the titles and let people browse it through their preferred domain - the one that resonates the most
 
-Let people vote/choose which should be the official name - based on what resonates the most and letting them participate in the naming of the next overarching paradigm for humanity
+Let people vote/choose which should be the official name - based on what resonates the most and letting them participate in the naming of the next overarching paradigm for humanity - the first act of participatory/collective RR
 
 # The Global Brain in 100, 1k & 10k words
 
