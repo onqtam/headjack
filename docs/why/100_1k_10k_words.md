@@ -7,6 +7,8 @@ make a diagram with all the titles and how some of them connect to different asp
 
 This is going to provoke you. Feel free to stop reading the moment you see some actual inconsistency or something very illogical, but unless you encounter such a thing, keep reading. We will deliver on every single one of these titles - no exception. By the time you're done with the book you'll agree with all of them too.
 
+Reading them before reading the book will give you some idea of what you're about to download into your head but not all will make sense. However, by the time you're done with the book you'll understand all of them and many of them will probably deeply resonate with you. It's probably best to read them twice: once before the book and once after.
+
 We defend very few of the arguments we make - instead we count on the intuition of the reader to see that they are mostly right. And in the case of disagreement - the hope is that there is enough enticing material for readers to stick around, and to then help resolve some of the issues of the text in the system we shall build.
 
 On your first reading you may skip all optional parts that are in expandable sections, and you can dive deeper later on if you feel like it. `Expandable section == optional`.
@@ -73,10 +75,13 @@ https://en.wikipedia.org/wiki/Summa_logicae
 The God Protocol
     Alignment, Coherence, Integration, Self-Organization
 The Book of Synthesis
+Solving the Meaning Crisis
 Minimum Viable Infinity
 The Next Game
 Algorithms to Vote by
-Integrated Why
+Integrated "Why"
+The Paradigm Shift
+    Incentives, Information Processing & Social Organization (What up Kuhn)
 The Big Sell
     selling an ideology
 “It Is Known”
@@ -130,8 +135,10 @@ Incentives from first principles
 In the depths of self-organization
 The Recognition Economy
 WikiOverflow
-The forward protocol
 The World (Self) Model
+Jailbreaking the Simulation
+    Taking control and becoming architects of the incentives in the matrix
+Participatory Intelligent Design
 Memetic Supremacy
 The open source participatory/democratic GCP (global communist party)
 “The highest leverage point”

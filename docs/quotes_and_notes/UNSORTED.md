@@ -182,6 +182,10 @@
 
 
 
+
+
+
+
 The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely pawns dancing to the tune of the systems they've inherited and found themselves in. They don't have a real vision and understanding of what their countries and our whole civilization should do.
 
 
@@ -806,10 +810,6 @@ Co-operati
 The role of a God is to tell you what to do
 
 Who nudges the nudgers?
-
-Jailbreaking the simulation is about becoming the architect of the matrix
-The jailbreak move is to take control and responsibility for the incentive architecture of the matrix
-We can specify what we want the matrix to compute for us
 
 We need to consciously guide our development throughout time - we need to specify what the most appropriate way to be is, and have a trustworthy and legitimate process for determining that
 
@@ -1547,8 +1547,6 @@ How do we counter indulgence?
 
 A social network where your life gets better when you join - thats the goal.
 Meaning, self-improvement, happiness, health and connection. What if you’re assigned to a random group of people who want to improve and are provided with guidelines from the most successful other groups?
-
-Make a series titled “solving the meaning crisis”
 
 How do we build de-escalation into the system?
 
@@ -5578,7 +5576,6 @@ We will change the world in the biggest way possibly imaginable.
 
 What should I contribute to? Whom should I serve? These are the most important questions.
 
-The way to jailbreak the simulation is to create it... lol wut
 Simulating utopia into existence
 The purpose of life is to specify/express the future into existence
 

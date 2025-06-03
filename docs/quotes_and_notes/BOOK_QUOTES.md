@@ -1664,6 +1664,22 @@ https://brendangrahamdempsey.substack.com/p/emergentism-chapter-5-designing-mean
 
 
 
+on complexity science and it's application to society's evolution and complexification
+
+> "For the record, by complexity science I mean the discipline that coalesced in the latter twentieth century out of early subdisciplines like cybernetics, chaos theory, non-equilibrium thermodynamics, general systems theory, information theory, fractal mathematics, and other non-linear, non-reductive means of analysis. These were aided by the period’s exponential increase in computer technology and resultant information processing capacities, which brought unprecedented ability to iterate computations and map patterns at entirely new scales. Out of these developments came crucial new fundamental patterns and organizing principles for understanding the natural world, such as self-organization, autopoiesis, negentropy, emergent properties, criticality at the “edge of chaos,” and attractor points.
+>
+> One of the major upshots of all of this was the realization that there were patterns of causality operating at multiple levels of reality which human beings were only just becoming aware of. Even the seeming “chaos” of things like shifting weather fronts, meandering river currents, animal population growth, or the way water drips from your tap turned out to follow identifiable regularities! The world consisted of diverse phenomena obeying varying degrees of order. And, it turned out, the most complex things (like human beings and our societies) were those that found the optimal balance right on the border between order and chaos.
+>
+> As complex systems shift to higher degrees of complexity, they undergo what is called a phase transition. These are sudden, qualitative shifts that occur after a build-up of linear change. Phase transitions are familiar from the different “states” of matter. For instance, one can add a degree of heat to a pan of water over and over in a linear way and get a linear result—until, that is, the water is at 99° Celsius; then, a linear increase in temperature leads to a sudden phase transition to a new state: the liquid becomes a gas! Enough gradual change initiates a sudden reconfiguration with new emergent properties. One reaches a “tipping point.” There is a final straw that breaks the camel’s back.
+>
+> When complex systems face a phase transition, the old system grows unstable owing to an increase of chaos; however, this new energetic plasticity is what ultimately allows the system to restructure itself, reconfiguring into an even more complex state. The system reaches a so-called bifurcation point where it faces the option of either breaking down or breaking through to a higher level of systemic integration—provisional goal states called attractors. Breakthroughs mean further complexification and organizational and informational richness, which occur through a series of punctuated equilibria, with one informational system predominating for a time before reaching a crisis point at which its structural limitations are overcome and then superseded by a more complex informational system in turn, etc.
+>
+> If this is reminding you of anything, you’re not imagining things. Metamodern thinkers who see the transition of cultural logics in terms of increasing complexity view such models from complexity science as illuminating the way cultures, as adaptive systems, evolve to changing circumstances. Indeed, the way complex systems evolve to more complex states maps surprisingly well to the pattern Thomas Kuhn used to describe paradigm shifts in our knowledge structures, wherein periods of linear “normal science” precipitate moments of “revolutionary science” that change knowledge structures. More broadly, entire social systems using cultural codes to form collective imaginaries (as Andersen describes) represent complexifying systems undergoing a series of paradigmatic phase transitions—from modern, to postmodern, to metamodern." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
+
+
+
+
 
 
 > "The word “complexity” just means “to weave together,” and that’s what the tapestry of existence ultimately is: an ever more intricate embroidery revealing an ever more refined image of an ever-evolving cosmos.

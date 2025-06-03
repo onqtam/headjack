@@ -320,6 +320,8 @@ Controlled Hallucination
 # SECTION: Multiperspectival viewing
 ██████████████████████████████████████████████████████████████████
 
+Jainism’s anekantavada (non-absolutism), which teaches that no single perspective can reveal the full truth
+
 > "You have only one way to convince others, listen to them." - [George Washington](https://www.azquotes.com/quote/882375)
 
 > "If we understood something just one way, we would not understand it at all." - [Marvin Minsky](https://www.azquotes.com/quote/525942)
@@ -332,6 +334,9 @@ Controlled Hallucination
 > "A conspicuous feature of the journalism of the future will be a deep lack of authority. There will be no notion of looking for The One Right Answer from an Unimpeachable Authority." - [Reinvent Everything, by Jordan Hall](https://medium.com/emergent-culture/reinvent-everything-556860b63308#:~:text=A%20conspicuous%20feature%20of%20the%20journalism%20of%20the%20future%20will%20be%20a%20deep%20lack%20of%20authority.%20There%20will%20be%20no%20notion%20of%20looking%20for%20The%20One%20Right%20Answer%20from%20an%20Unimpeachable%20Authority.)
 
 > "The art of looking at the problem from the other person's point of view, identifying his opportunities and his interests, an art that has traditionally been practiced by diplomats, lawyers, and chess players, is at the center of strategic analysis." - [Thomas C. Schelling](https://www.goodreads.com/quotes/10670713-the-art-of-looking-at-the-problem-from-the-other)
+
+> "If we obtain an increased awareness of perspectives, not only do we become aware of the postmodern insight that it is possible to see the world from various perspectives and that none of these contain the ultimate truth, we also become aware of the different perspectives’ advantages and the strength of coalescing them in new ways." - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Towards a language of aggregatable expressions
@@ -564,11 +569,6 @@ accelerating evolution
 # SECTION: Self-organization in Communicating Groups
 ██████████████████████████████████████████████████████████████████
 
-
-The individual within the crowd：how individual forecasters contribute to ideal group forecasts
-https://www.youtube.com/watch?v=xXaRqSKdQnU
-talks about the wisdom of crowds, weighted averaging & how to optimally give weights
-TODO: look at the papers referenced in it
 
 > "Self-organization establishes a relation between the behavior of the individual components and the structure and functionality of the system as a whole: simple interactions at the local level give rise to complex patterns at the global level. This phenomenon is called emergence." - [Self-organization in Communicating Groups: the emergence of coordination, shared references and collective intelligence, by Francis Heylighen](http://pcp.vub.ac.be/Papers/Barcelona-LanguageSO.pdf)
 
@@ -1193,6 +1193,9 @@ The real fine-tuning problem is about how we fine-tune society and its incentive
 >
 > Incentives are a fundamental part of any effort to harness the potential of collective intelligence. In this paper, we have presented evidence that rewarding accurate minority opinions can induce near-optimal collective accuracy within a model of collective prediction. Therefore, to maximize the collective wisdom of a group, we suggest that individuals should not be rewarded simply for having made successful predictions or findings and also that a total reward should not be equally distributed among those who have been successful or accurate. Instead, rewards should be primarily directed toward those who have made successful predictions in the face of majority opposition from their peers. This proposal can be intuitively understood as rewarding those who contribute information that has the potential to change collective opinion, because it contradicts the current mainstream view. In our model, groups rapidly converge to an equilibrium with very high collective accuracy, after which the rewards for each agents become less frequent. We anticipate that, after this occurs, agents would move on to new unsolved problems. This movement would produce a dynamic system in which agents are incentivized to not only solve problems collectively but also, address issues where collective wisdom is currently weakest. Future work should investigate how our proposed reward system can be best implemented in practice from scientific career schemes to funding and reputation systems (33) to prediction markets and democratic procedures (34). We suggest experiments to determine how humans respond to minority rewards and additional theoretical work to determine the effects of stochastic rewards, agent learning, and finite group dynamics. In conclusion, how best to foster collective intelligence is an important problem that we need to solve collectively." - [Optimal incentives for collective intelligence](https://www.pnas.org/doi/abs/10.1073/pnas.1618722114)
 
+The individual within the crowd：how individual forecasters contribute to ideal group forecasts
+https://www.youtube.com/watch?v=xXaRqSKdQnU
+talks about the wisdom of crowds, weighted averaging & how to optimally give weights
 
 
 ██████████████████████████████████████████████████████████████████

@@ -1272,6 +1272,13 @@ TODO: fix the exact time for the above link
 
 > "According to the Unifying Theory of Reality, which says our universe is a self-organizing system, the mainstream view is dead wrong, and the result of an ideology that was opposed to the idea of progress for social and political reasons. Because the idea of inevitable progress was associated with unrestrained industrial growth, which led to environmental destruction, and a concept of superior and inferior cultures, which justified colonialism, the philosophy was “debunked” by postmodern academics and evolutionary theorists who thought grand narratives were fundamentally harmful. That is why you don’t hear of this theory — there was essentially a PC movement aimed at destroying it. While the philosophy of evolutionary progress has undoubtedly been misinterpreted and abused in the past — an issue we must always have a conscious awareness of as we revive the theory — the empirical evidence clearly demonstrates that the biosphere has consistently grown more complex, diverse, and integrated over time, and the same goes for human civilization." - [How to Predict the Future: The Law of Complexification is Science's Crystal Ball, by Bobby Azarian](https://roadtoomega.substack.com/p/how-to-predict-the-future-the-law#:~:text=according%20to%20the%20Unifying,goes%20for%20human%20civilization.)
 
+██████████████████████████████████████████████████████████████████
+# SECTION: Progress
+██████████████████████████████████████████████████████████████████
+
+<!--
+> "Could we perhaps redefine progress, create a new definition that includes social and ecological sustainability and gives the inner dimensions of life a more central role? …Could we see human civilization as a continuation of an evolutionary process deeply and intimately connected to that of nature?" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
+-->
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: As a Service
@@ -1883,6 +1890,10 @@ as the name by bucky fuller
 ██████████████████████████████████████████████████████████████████
 # SECTION: Other
 ██████████████████████████████████████████████████████████████████
+
+> "It must be considered that there is nothing more difficult to carry out, nor more doubtful of success, nor more dangerous to handle, than to initiate a new order of things. For the reformer has enemies in all those who would profit by the old order..." - [Niccolò Machiavelli]()
+Niccolò Machiavelli, The Prince, trans. Harvey C. Mansfield, 2nd ed. (Chicago: University of Chicago Press, 1998), 20 (Chapter 6).
+TODO INTERNET ^^
 
 This is what the human spirit is capable of - self immolating vietnamese monk
 https://upload.wikimedia.org/wikipedia/commons/3/38/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c_self-immolation.jpg
