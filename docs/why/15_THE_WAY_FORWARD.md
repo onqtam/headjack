@@ -264,7 +264,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 > "It is my belief that we need a new transnational sustaining 'myth' that can impart value and respect. It is my further belief that we are coming to see our universe and life as creative, without a directing agency. Meaning emerges with life. If this view becomes widespread, it has the promise to become the sustaining myth we need to sustain in turn an emerging global civilization." - [Stuart Kauffman](https://www.azquotes.com/quote/792122)
 
 
-the following 2 quotes: metamodernism as a worldview/episteme/metameme/justification system
+the following 3 quotes: metamodernism as a worldview/episteme/metameme/justification system
 
 > "That is why I choose to speak of a metamodern world view, since the shift described here entails a transition to a new way of looking at the world (and our place in it) every bit as radical as the transformation from a religious, premodern worldview to a scientific, modern worldview, or from that to a relativistic, postmodern worldview. To speak in terms of worldviews is not to posit that there are clearly defined, perfectly coherent and internally consistent ways of thinking and being. It is simply to suggest that certain ways of looking at reality come with profound implications for how we think, value, and act in the world. To have such a profound impact as that, a cultural logic must impact many different areas of life, with reaches into our sense of what is (ontology), what’s of value (normativity), how we can know (epistemology), and what it’s all about (teleology). Modernity transformed people’s beliefs and actions in these domains, as did postmodernity. Today, metamodernity is doing so again." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
 
@@ -283,6 +283,19 @@ the following 2 quotes: metamodernism as a worldview/episteme/metameme/justifica
 > The metamodern worldview is different. It moves beyond the cultural logic of postmodernism, transcending it, to find something aspirational, hopeful, meaningful on the other side. It brings a logic to the chaos of the infinite. It offers a sense of home, a way to appreciate simplicity on the other side of complexity. It doesn’t mock but affirms single-entendre principles like love, care, and kindness. And it does so without forfeiting its reflective gains. It reclaims a sense of progress, of directionality, of purpose, yet does so without premodern dogma or modern totalitarianism.
 >
 > In all of this, clearly, a profound sense of optimism seems to obtain—or, like “pragmatic idealism,” a sort of metarealist positivity. While I certainly risk overstating the case, it seems that one thing all articulations of metamodernism have in common is its distinctly affirmational and productive stance compared to its postmodern predecessor. We see it in the earnest affect of metamodern aesthetics, in the reimagined sense of progress and purpose in metamodern political and social movements, in the switch from philosophy “under the sign of the negative” to the positive in metamodern philosophy, etc. The dialectic is advancing, negation is being negated, and the reconstructive manifestations are appearing at the cutting edge of culture in aesthetics, social activism, philosophy, the sciences, religion, and beyond." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://brendangrahamdempsey.substack.com/p/chapter-6-worldview-from-metamodernism#:~:text=My%20point%20is,religion%2C%20and%20beyond.)
+
+> "... what metamodernism itself is: a collective justification system. Like modernism and postmodernism before it, metamodernism acts as a network of ideas and claims that would ground certain kinds of knowledge as the justifiable basis for action and behavior. Metamodernism is a social construct, produced by the linking of numerous minds together through symbolic information processing, It is, in Storm’s hylosemiotic framing, a form of public semiosis producing collective representations, by means of which people “think together” about the world." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
+
+
+
+
+> "We are ... human beings in socio-cultural contexts seeking knowledge of ourselves and our relationship to the world through socio-culturally-mediated knowledge about the nature of human knowledge." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
+> "The metamodern eschews the modernist Absolute. Their goal is an infinitely receding horizon. Their Absolute is never a stasis of Being but always in the process of Becoming.
+>
+> Such notions match precisely to what I call the infinitesimal progress of eternal recursion. Metamodernism reconstructs notions of development and advance out of postmodern notions of relativity. All progress is relative, the metamodernist can say, pleasing both moderns (by affirming the reality of progress) and postmoderns (by affirming its lack of an Absolute goal). In this way, metamodernism reclaims the narrative thread lost in postmodernism." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
 
 maybe embed this?
 Is Our World Broken? Kurzgesagt – In a Nutshell
@@ -1401,6 +1414,23 @@ graphic by Christian Gross who's been helping Gregg with all things UTOK?
 
 </p></details>
 
+
+
+
+> "Etymologically, “religio” is believed to refer to a “binding” of people together in common commitment to collective sacred concerns. In premodern contexts, this was a constraining bind indeed, often enforced through strict orthodoxies, dogmas, and persecution of heretical nonconformists (an aspect of tradition rightly critiqued in both modern and postmodern reflections). To the extent that such features are related to “religion” in people’s minds, the “religion” of metamodern thinkers like Vervaeke and others is, then, certainly “not a religion.” However, considered more broadly, in the sense of “religio” as a cohering synergy of idiosyncratic agents all participating within a dynamic whole—one in which autonomy and diversity are retained, yet put into service of meaningful transformation towards collective flourishing—then there is indeed a place, and a necessary one, for religion in metamodern thought." - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
+
+
+
+> "For [Layman] Pascal, “religion” in this broader sense actually refers to any context in which a system’s multiple parts operate in synergistic harmony such that they produce “surplus cohesion.” The religious experience, then, literally emerges as a consequence of collective integrations producing holistic properties that are more than the sum of their individual parts. Such emergent phenomena account for any and all experiences of the “sacred”—which is to say, “the sacred” refers to the synergistic surplus capacities generated by successful integration. Human “spirituality,” Pascal suggests, is concerned with such sub-system integration in the individual person, while the word “religion” he reserves for this process at the collective level. What would a society look like if all its parts were operating in healthy accord?...
+>
+> ... The formation of molecules from atoms represents its own sacred moment; the cohesion of a multicellular organism from single cells is a truly transcendent achievement. And, indeed, at the human level of cultural self-reflection, every new iteration of eternal recursion leading to a more capacious perspective that discloses more of reality’s rich relationships and updates our mental model of the world represents an ascent up another rung on Jacob’s loopy ladder. The cohesion binding the parts is the care, the love, the kindness intuited by the metamodern sensibility as the simple but essential glue keeping the whole thing together. It is the Eros of the metaxy, uniting finite and infinite. It’s “Please, be kind, especially when we don’t know what’s going on.” (And given the nature of recursive transcendence, we never fully do!)" - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
+
+
+
+> "Freinacht himself takes a stab in this direction, dubbing the metamodern God-concept “The Headless God”:
+>
+> *'If God is always on His way to the guillotine, if He’s always beheaded and overturned by a new revolution of the critical mind, of new perspectives and life experiences, what you get is  The Headless God. An open-ended God. A God of exploration. Now that is the God that’s left even after the crudest murders of the sacred, and that’s a God truly worth worshipping. If being whacked by the critical mind, if being crucified and denied, if being killed and mocked, still doesn’t kill you and you are still reborn, still wearing the crown of thorns, well then at least my hat’s off and I’m on my knees before you, ready to give you everything. With this view of the divine,  “the sacred” is revealed through a relentless series of iconoclasms.'*" - [Metamodernism, Or, The Cultural Logic of Cultural Logics, by Brendan Graham Dempsey](https://www.goodreads.com/book/show/199434578-metamodernism)
 
 
 

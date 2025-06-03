@@ -76,9 +76,10 @@ The God Protocol
     Alignment, Coherence, Integration, Self-Organization
 The Book of Synthesis
 Solving the Meaning Crisis
+Everything, Everywhere, From All Perspectives
 Minimum Viable Infinity
 The Next Game
-Algorithms to Vote by
+Algorithms to Organize by
 Integrated "Why"
 The Paradigm Shift
     Incentives, Information Processing & Social Organization (What up Kuhn)
