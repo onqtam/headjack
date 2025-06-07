@@ -1381,6 +1381,8 @@ This as the section for matchmaking and with the leary quote
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
+[Secular religion](https://en.wikipedia.org/wiki/Secular_religion)
+
 
 <details><summary>UTOK's Elephant Sun God</summary><p>
 
@@ -1521,8 +1523,6 @@ God is the participatory protocol of cooperative rules for engagement that we ne
 This is the social protocol
 Cooperation, transparency, immutability
 God
-
-We can fuse our hearts to form god - most people are good - what if everybody had to chip in with service work of labeling and being accountable and competent in order to earn their place - their vote?
 
 > "The Network here is a candidate for the most powerful force in the world, where the Leviathan in the Hobbesian sense is not divinity (God) or military (the State) but community and cryptography (Network)." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#what-is-the-network-state-system:~:text=The%20Network%20here%20is%20a%20candidate%20for%20the%20most%20powerful%20force%20in%20the%20world%2C%20where%20the%20Leviathan%20in%20the%20Hobbesian%20sense%20is%20not%20divinity%20(God)%20or%20military%20(the%20State)%20but%20community%20and%20cryptography%20(Network).)
 

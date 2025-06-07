@@ -76,7 +76,7 @@
 
 
 
-> "The first rule of compounding is to never interrupt it unnecessarily" - [Charlie Munger](https://x.com/morganhousel/status/1049392552175124481)
+> "The first rule of compounding is to never interrupt it unnecessarily." - [Charlie Munger](https://x.com/morganhousel/status/1049392552175124481)
 
 > "Don’t debate people in the media when you can debate them in the marketplace." - [Naval](https://x.com/NavalismHQ/status/1836978596465848461)
 
@@ -181,12 +181,33 @@
 
 
 
+greed is good - gordon gecko - easy there gordon, that's true only when applied to the purest form of reputational prestige
+
+
+
+> "Issues tend to be more addressable when they can be solved without impacting any major profit streams, restricting the power of any major actors, or bringing to light any crime or malpractice... it is evident that success in any form is achieved only after economics and the interests of power can be reasonably satisfied with the alternative.
+>
+> It is important to acknowledge that **changing corrupt powers without overmatching in capacity for violence has almost never happened**. At the same time, the capacities for coordinated violence and intelligence of major powers today are orders of magnitude more than they were at the time of any successful power shift in history.
+>
+> ... Unfortunately, it is the case that addressing major catastrophic risks or the most significant sources of suffering generally requires confrontation with major powers or vested interests. All of the dangerous and damaging trends that continue to worsen, despite significant public care, awareness, investment, and political work, are the direct and indirect results of major economic and political interests. A shift from factory farms to local regenerative agriculture would likely involve a significant decentralization of wealth and power. Comprehensively internalizing the environmental costs of manufacturing would critically impact the profitability of every sector of industry.
+>
+> Taken together, the following set of interconnected statements unite and define all current core existential issues: the human systems that generate the global catastrophic risk landscape are defined by perverse incentives and empowered by exponential finance and technology; the institutional and geopolitical landscape is caught in multipolar traps, in which each pursuing their own limited self-interest drives us all toward great risks; the people most successful at winning the competitive games that deliver them to positions of power in the institutional landscape are disproportionately defined by dark triad traits; and populations supporting or enabling the current world system are conditioned into a state of Milgram-Asch conformity, victims of Stockholm syndrome with the only way of being in the world that they have ever known.
+>
+> **This state of affairs has no adequate precedent in history. There is no known or suggested solution, and no sign that any of the consequential trends defining our current path into the future are likely to move in a more positive direction.**
+>
+> ... **Despite the incredible scale of funding and attention, all the most critical metrics regarding the environment, animal welfare, human health, human psychology, and global risk continue to deteriorate each year.**" - [Reality Check, by the Civilization Research Institute](https://civilizationresearchinstitute.org/wp-content/uploads/2025/01/CRI-RealityCheck-1.pdf)
+
+> "Donations to religious organizations in the US [in 2021 reached $135.78 billion](https://www.churchtrac.com/articles/the-state-of-church-giving)... " - [Reality Check, by the Civilization Research Institute](https://civilizationresearchinstitute.org/wp-content/uploads/2025/01/CRI-RealityCheck-1.pdf)
+
+> "" - [Reality Check, by the Civilization Research Institute](https://civilizationresearchinstitute.org/wp-content/uploads/2025/01/CRI-RealityCheck-1.pdf)
+
+> "" - [Reality Check, by the Civilization Research Institute](https://civilizationresearchinstitute.org/wp-content/uploads/2025/01/CRI-RealityCheck-1.pdf)
 
 
 
 
 
-The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely pawns dancing to the tune of the systems they've inherited and found themselves in. They don't have a real vision and understanding of what their countries and our whole civilization should do.
+The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives they've found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do.
 
 
 
@@ -2815,7 +2836,13 @@ One commandment: epistemic health
 
 Whistleblowing should pay
 
+the fundamental axiom: most people are good
 The one commandment: most people are good
+Why don’t we derive everything from “most people are good?”
+Everytyning is rooted on this one key assumption: most people are good
+Also that everyone should bear responsibility
+We can fuse our hearts to form god - most people are good - what if everybody had to chip in with service work of labeling and being accountable and competent in order to earn their place - their vote?
+
 
 Bashing utopias as unrealistic and dangerous by pointing to epistemologically bankrupt historic examples that lead to catastrophes is a limiting & self-manifesting/reinforcing belief
 It also lacks any imagination and attempt for creativity
@@ -3730,8 +3757,6 @@ what if we could penalize someone for re-uploading a clip instead of linking to 
 
 Recursive relevance realization
 For everything
-
-Why don’t we derive everything from “most people are good?”
 
 We are constantly amplifying the wrong things - how can we point to the important stuff?
 
@@ -6114,8 +6139,6 @@ we need to constantly evolve our fittedness to the environment
 fixing our attentional economy - by infusing it with values, reputation and transparency
 
 
-Everytyning is rooted on this one key assumption: most people are good
-Also that everyone should bear responsibility
 
 
 

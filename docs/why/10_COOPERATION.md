@@ -385,6 +385,10 @@ We need to move to universal objective rules that are hard to game as much as po
 # SECTION: Values & virtues
 ██████████████████████████████████████████████████████████████████
 
+
+> "Education presupposes possibilities for learning and growth, and it is inherently value-laden. Any process or system of education will inevitably transmit certain values. Unfortunately, our current cultural climate is one in which we lack clarity about our shared values and their importance, so our systems of production, governance, and education are running on stories, rationales, and worldviews that are not adequately vetted, justified, or collectively discerned. It is as if we are operating an emergent global super-system on an unconscious autopilot." - [Brad Kershner](https://www.whatisemerging.com/opinions/crisis-as-transformative-education)
+
+
 Thomas Aquinas
 The rational polities - practical virtues - 4
 https://en.wikipedia.org/wiki/Cardinal_virtues

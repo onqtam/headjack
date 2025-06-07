@@ -491,6 +491,10 @@ not sure this is important enough
 
 <!-- > "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624) -->
 
+EMBED THIS
+The Evolution of Agency
+https://www.youtube.com/watch?v=gxpbvE8V0Dg
+
 > "The minimal definition of agency is a feedback loop." - [Gordon Brander](https://twitter.com/gordonbrander/status/1640781342559313927)
 
 > "When something is both highly integrated and highly differentiated it can do many different things without falling apart. So complexification enhances agency - it gives you your emergent abilities." - [John Vervaeke: Democracy and the Relevance Realization of Distributed Cognition](https://youtu.be/8U2caURO-d4?t=1250)

@@ -330,3 +330,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "The frontal cortex doesn't even fully develop until age 25, which is wild!" - [Robert Sapolsky](https://www.azquotes.com/quote/1562498)
 
+> "The objective rational capitalist individual of the modern world needs to be rethought on the fundamental level." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
+

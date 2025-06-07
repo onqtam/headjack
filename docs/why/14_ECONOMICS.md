@@ -190,6 +190,9 @@ complexity_econ_12.png
 How Complexity Economics Can Save the World
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
+Knowledge, Prosperity and Economic Complexity: How are They Connected
+https://www.youtube.com/watch?v=ZHpg-CriIyk
+
 The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market
 https://www.youtube.com/watch?v=_V_AZRZfu9I
 

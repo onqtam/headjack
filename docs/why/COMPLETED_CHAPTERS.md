@@ -400,6 +400,9 @@ top10 to watch - or embed this in the section about war - perhaps the most presi
 President John F. Kennedy's Peace Speech - Commencement Address at American University, Washington, D.C., June 10, 1963
 https://www.youtube.com/watch?v=0fkKnfk4k40
 
+The Evolution of Agency
+https://www.youtube.com/watch?v=gxpbvE8V0Dg
+
 top10 most important reads:
 - https://civilizationemerging.com/new-economics-series-3/
 - https://civilizationemerging.com/new-economics-series-4/
@@ -424,7 +427,14 @@ https://www.imdb.com/title/tt11286314/
 “Don't look up” is a diagnosis
 
 top10 most important psychologists alive today:
-- Gregg Henriques - Absolute TOP G !!! ontology matters. worldviews matter. theories matter. perspective matters. perspective is attentional architecture
+- Gregg Henriques - Absolute TOP G !!! ontology matters. worldviews matter. theories matter. perspective matters. perspective is 
+top X most important psychologists ever (in no particular order)
+- freud, yung, skinner, whoever else was important, gregg
+
+top10 most important podcasts in terms of helping you understand the world in the broadest possible sense based on his guests
+- jim rutt
+
+attentional architecture
 (top10 psychologists + "alive_today" filter - no need to add entries to 2 separate top10 lists - one can be generated from the other, we can generate infinite filters & lists like this)
 
 top10 channels

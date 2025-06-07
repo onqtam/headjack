@@ -13,6 +13,8 @@ We defend very few of the arguments we make - instead we count on the intuition 
 
 On your first reading you may skip all optional parts that are in expandable sections, and you can dive deeper later on if you feel like it. `Expandable section == optional`.
 
+This is a very dense book, but understanding it and the system it would produce is a heck of a lot easier than understanding the current disordered system we find ourselves in.
+
 # about the quote-heavy style of the book
 
 Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.
@@ -30,6 +32,8 @@ All books have some repetition of what is being said, but it's usually by the sa
 
 You get to experience a wide plethora of styles.
 
+We aim to say as much as possible using as few words of our own as possible.
+
 We're not good writers, but we're good curators - we have good judgement and taste (and relevance realization), and thus we offer this compilation of thought from many authors with as little paraphrasing as possible.
 
 
@@ -37,6 +41,8 @@ We're not good writers, but we're good curators - we have good judgement and tas
 Also, every fact, opinion, argument & subargument, relation & expression that's in this book will eventually be encoded as structured data in the giant global graph of the global brain, from which we'd be able to generate a textual (or multimodal) representation on any level of abstraction with the help of AI in a back-and-forth conversational manner. Why bother with trying to rewrite the words of others for some marginal benefit of brevity at this point in time if it'll eventually be obsolete? In the future everything that's in this book will be seen at best as a first draft of an architectural synthesis for the self-organization of our species obsolete both in the arguments (with the exception of whatever essence passes the gauntlet of selection) and in the form of expresion (text). This exact text should not and will not be read by anyone in 100 or 1000 years - it will have morphed into whatever its successor is. The seed no longer exists by the time it's grown into a tree. Text is dead - it's just not evenly distributed.
 
 # The First Book With Multiple Titles
+
+the book that can be [singularly] named is not the eternal book
 
 The third attractor is the official name, but the most liked name by the authors is one of these 100
 
@@ -57,14 +63,15 @@ Reputation/Identity in the 21st century / 3rd millenium - like the book about ca
 The Mind/Psychology of God
 Alignment is All You Need
 Emergent World Order
-The Real Matter With Things
-    Literally an infinitely higher bang for your buck, not only because this book is more practical/consequential than left/right thinking, but because it's also free and accessible to all
+The Real/Practical Matter With Things
+    This book is literally an infinitely higher bang for your buck, not only because it's more practical/consequential (than left/right thinking), but because it's also free and accessible to all
 The Real Situational Assessment
     no, it doesn't have to be just about scaling compute & energy and to go brrr faster than the other guy
-The Real Hard Problem of Consciousness
+The Hardest Problem of Consciousness
     in depth, scale
     How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
-Niche (co-)Construction
+The Map That Shapes The Territory
+    Niche (co-)Construction
 The Post-Liberal Synthesis
     An answer to the [opening statement](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis) of [Palladium Magazine](https://www.palladiummag.com/) that deals with governance futurism, the most (only?!) worthy magazine. Consider subscribing/donating to it for support - it's been on the verge of shutdown multiple times already.
 The Final Major Evolutionary Transition
@@ -77,9 +84,16 @@ The God Protocol
 The Book of Synthesis
 Solving the Meaning Crisis
 Everything, Everywhere, From All Perspectives
+This book will change you more than any other
+proper attuning to god
+The Markov Carpet
+    Markov Blanket Maxing - what's bigger than a blanket?
+Humanity's [last] business plan
+WeWork
 Minimum Viable Infinity
 The Next Game
 Algorithms to Organize by
+Revolution Cookbook
 Integrated "Why"
 The Paradigm Shift
     Incentives, Information Processing & Social Organization (What up Kuhn)
@@ -87,9 +101,11 @@ The Big Sell
     selling an ideology
 “It Is Known”
     Common knowledge for self-organizing collectives
+    maybe put this in the section there?
 System Architecture
 The Most Demanding Book - it demands action
 The Symbolic World
+Public Goods Funding
 Applied Relevance Realization at Scale
 The Most Non-Linear Book
 The implicate order
@@ -135,7 +151,11 @@ The TL;DR of 1000 books, papers, blogs, and talks
 Incentives from first principles
 In the depths of self-organization
 The Recognition Economy
-WikiOverflow
+System 10b
+    from gameA to gameB - jango unchained meme - "the b is binary" from "the ... is silent"
+Culturio - like Factorio
+WikiRedditOverflow
+Religion: the only truly scalable coordination & cooperation mechanism
 The World (Self) Model
 Jailbreaking the Simulation
     Taking control and becoming architects of the incentives in the matrix
@@ -164,6 +184,10 @@ The Singleton - not always an anti-pattern but crucial for solving global coordi
 Media Theory for the 21st Century
 Required Reading
 
+
+BUT WAIT - THERE'S MORE!
+
+
 The Meta Religion
     infrastructure for expressing/enacting/comparing/debating & evolving religions
 Cyber Governance
@@ -177,12 +201,19 @@ THE Extended Mind
 Game of Life 2.0
 The Greatest Justification/Story Ever Told
 The Consciousness Guide to the Galaxy
+The Hitchhikers Guide to the System
+The Blueprint
+Attention is all you have
+Normativity
 Multi Scale Competency Architecture
 Thermodynamic Integration/Optimization
 The [Collective] Thermodynamic Imperative
     integrate/synergize/cooperate or suffer/die
 HumanityOS
-Greater Than 1 - Peter Thiel gave us from 0 to 1, this is the apex meme with an R-naught greater than 1
+Justified Relevance
+    the self-legitimizing justification memeplex
+Greater Than 1
+    [0 to 1]() is not enough if you want to go viral - you need an R-naught greater than 1
     this is what you'll do to at least 1 of your friends after you're done reading this - opened eyes from clockwork orange
 
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
