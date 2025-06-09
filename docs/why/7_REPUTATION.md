@@ -524,15 +524,31 @@ maybe just use the first bullet point? and rename this ## section?
 
 </p></details>
 
-status & economic efficiency
+<details><summary>Status as Economic Efficiency</summary><p>
 
 > "If status acts as a medium of exchange, then one of the most important questions we can ask is how it contributes to economic efficiency.
 >
-> " - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
+> ... Let's define a culture's use of status as efficient if status transactions tend to advance the goals of the community. An efficient culture, then, is first and foremost a meritocracy. Status will be awarded for skills and contributions that advance shared goals — making a big sale, meeting an important deadline, etc. And status will not be awarded for things that are orthogonal to (or detract from) the goals of the community. These include: nepotism, flattery and ass-kissing, race/gender/age, and humor/beauty/external status (unless they're important for getting the job done). And seniority should correlate with 'substantive contributions'; no one should be rewarded just for warming a chair.
+>
+> But how status is awarded is only half of the equation; we also have to ask how status is spent. Do people use their status to pursue shared goals, or rather to advance their own, competing agendas? Executives who abuse the corporate credit card, get off on harassing their employees, or engage in certain types of empire-building, for example, are contributing to an inefficient culture.
+>
+> Dominance status is an especially tricky proposition. There's a niche for dominance in human societies, so trying to get by without it is an unstable arrangement. And it's necessary for keeping people in line. But there's also a real potential for abuse. People often use dominance to reinforce their status in ways that don't advance shared goals. And in addition to being potentially inefficient, dominance also has the effect of silencing criticism. Criticism is always a threat to one's status, but unless your goal is to maintain your own status at all costs, you need criticism to stay on the right track. No one makes perfect decisions at all times, and not everyone promoted into a position of leadership is good for the organization.
+>
+> There are many, many nuances to attend to here — all of them important to maintaining an efficient culture. But in the interest of space, I'd like to call attention to two disease states in particular:
+>
+> **Gossip**. Some gossip is necessary for moving information around, but often it's used to lower someone's status behind his or her back. This is especially pernicious. Because gossip can't be confronted outright, it leads to an equilibrium where everyone needs to spread rumors and participate in the gossip mill just to maintain their position. Sticking to the economic metaphors, gossip is like a black market for shorting other people's status in exchange for elevating your own (among your gossiping partners). Bridgewater — the world's largest hedge fund and, I would argue, an extremely efficient culture — elevates gossip to the level of [capital offense](http://www.guardian.co.uk/theguardian/2010/jul/05/office-banned-gossip).
+>
+> **Politics**. It's hard, perhaps even impossible, to provide a neutral account of what constitutes 'political' behavior in an office, but here goes: Politics is any attempt to win status through actions that don't advance the goals of the community. The economic analogue here is rent-seeking — vying for a larger share of the pie in ways that don't increase the overall size of the pie. Rentseeking behaviors in a status economy include: competing for access to highstatus individuals, hoarding resources that could be put to better use, acting as an information broker (requiring payment instead of giving information freely), and (as we've seen) manipulating one's image instead of attending to reality. Efforts spent on politics/rent-seeking represent [deadweight loss](https://en.wikipedia.org/wiki/Deadweight_loss) in an office economy." - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
 
+</p></details>
 
+# Social Status: Down the Rabbit Hole
 
+> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
 
+> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
+
+> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
 
 > "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
 

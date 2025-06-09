@@ -4839,26 +4839,6 @@ Gregg and him ruining Christmas in 2018, can relate a lot, lol
 
 
 
-> " Emergence is when the macro differs from the micro—not just in scale but in kind." - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
-> "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
-
 
 
 > "... the Synergism Hypothesis ... is that synergy—a vaguely familiar term to many of us—has been a wellspring of creativity in the natural world and has played a key role in the evolution of cooperation and complexity at all levels of living systems. This theory asserts that synergy is more than a class of interesting and ubiquitous effects in nature. It has also been a major causal agency in evolution; it represents a unifying explanation for complexity at all levels of living systems.
@@ -4884,9 +4864,6 @@ Gregg and him ruining Christmas in 2018, can relate a lot, lol
 > ... we cannot avoid making ethical choices and ... many of these have significant consequences for our ultimate survival and reproductive success...
 >
 > ... Three of the major aspects of this new paradigm, to reiterate, are synergy, cybernetics, and bioeconomics. More important, in this paradigm, selfish genes are the servants, not the masters..." - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
-
-> "We cannot *predict* history but we can *make* it; and we can *make* evolution. More: we cannot avoid making evolution. Every reform deliberately instituted in the structure of society changes both history and the selective forces that affect evolution—though evolution may be the farthest thing from our minds as reformers. We are not free to avoid producing evolution; we are only free to close our eyes to what we are doing." - [Garrett Hardin]()
-Garrett Hardin (1972, p. 360) “Genetic Consequences of Cultural Decisions in the Realm of Population.” Social Biology 19 (4):350–61.
 
 > "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
 

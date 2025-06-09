@@ -78,6 +78,7 @@ The Stoned Ape Hypothesis/Theory
     what a single stoned ape can come up with
 The problem solver
 What is a thing?
+The Eye of Sauron
 H index 2.0
     rebuilding authority
 The Post-Liberal Synthesis
@@ -107,6 +108,8 @@ The Paradigm Shift
     Incentives, Information Processing & Social Organization (What up Kuhn)
 The Big Sell
     selling an ideology
+The Edge of Chaos
+Rejecting Mediocrity
 “It Is Known”
     Common knowledge for self-organizing collectives
     maybe put this in the section there?

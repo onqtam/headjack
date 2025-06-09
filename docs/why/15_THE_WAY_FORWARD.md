@@ -824,6 +824,11 @@ https://www.youtube.com/watch?v=UMVFYPuIb5s
 https://www.youtube.com/playlist?list=PL3zdiFJzUOY2mz95p_Hf4_-AIE7WWIiPO
 embed this
 
+
+> "We cannot *predict* history but we can *make* it; and we can *make* evolution. More: we cannot avoid making evolution. Every reform deliberately instituted in the structure of society changes both history and the selective forces that affect evolution—though evolution may be the farthest thing from our minds as reformers. We are not free to avoid producing evolution; we are only free to close our eyes to what we are doing." - [Garrett Hardin]()
+Garrett Hardin (1972, p. 360) “Genetic Consequences of Cultural Decisions in the Realm of Population.” Social Biology 19 (4):350–61.
+
+
 > "Conscious evolution: Up to now, evolution was merely a very slow, large-scale process that we had to passively undergo. With symbolic communication, culture, and contemporary technology, that process has tremendously accelerated. Moreover, we are starting to better understand the mechanisms of variation, selection, adaptation and selforganization that drive evolution forward. That allows us in principle to guide or steer evolution along a more efcient path, with less trial-and-error, while avoiding common pitfalls, such as extinctions or collapses. Thus, humanity seems ready to consciously evolve itself and its surrounding ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
 
 > "It is as if man had been suddenly appointed managing director of the biggest business of all, the business of evolution—appointed without being asked if he wanted it, and without proper warning and preparation. What is more, he can’t refuse the job. Whether he wants to or not, whether he is conscious of what he is doing or not, he is in point of fact determining the future direction of evolution on this earth. That is his inescapable destiny, and the sooner he realizes it and starts believing in it, the better for all concerned..." - [Transhumanism, by Julian Huxley](https://www.consciousevolution.co.uk/blog/what-is-an-evolutionary#:~:text=It%20is%20as,for%20all%20concerned.%20.%20.%20.)
