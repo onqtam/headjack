@@ -72,6 +72,14 @@ The Hardest Problem of Consciousness
     How to scale it up in every sence of the word - qualitatively, numerically, consequentially, and in aggregate - across space (distance) and time (future generations). How to get more people to introspect what it means to exist, to experience higher states and frequencies/depths/capacities of consciousness and to form a collective consciousness of a higher order. How to form aligned, introspective and intentional collectives. Extending the light of consciousness beyond merely copy-pasting our socio-political & spiritual poverty on Mars.
 The Map That Shapes The Territory
     Niche (co-)Construction
+THe Master Pattern of 
+Programming accountability and expressivity into the system
+The Stoned Ape Hypothesis/Theory
+    what a single stoned ape can come up with
+The problem solver
+What is a thing?
+H index 2.0
+    rebuilding authority
 The Post-Liberal Synthesis
     An answer to the [opening statement](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis) of [Palladium Magazine](https://www.palladiummag.com/) that deals with governance futurism, the most (only?!) worthy magazine. Consider subscribing/donating to it for support - it's been on the verge of shutdown multiple times already.
 The Final Major Evolutionary Transition

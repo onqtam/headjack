@@ -180,9 +180,12 @@
 > "" - []()
 
 
+preserving health, increasing integration & freedom
+
 
 greed is good - gordon gecko - easy there gordon, that's true only when applied to the purest form of reputational prestige
 
+how do we optimize our philosophy & ideology and get more people to understand our current best attempt of a synthesis?
 
 
 > "Issues tend to be more addressable when they can be solved without impacting any major profit streams, restricting the power of any major actors, or bringing to light any crime or malpractice... it is evident that success in any form is achieved only after economics and the interests of power can be reasonably satisfied with the alternative.

@@ -4859,3 +4859,50 @@ Gregg and him ruining Christmas in 2018, can relate a lot, lol
 
 > "" - [Understanding Complexity, by Scott E. Page](https://www.goodreads.com/book/show/46138936-understanding-complexity)
 
+
+
+> "... the Synergism Hypothesis ... is that synergy—a vaguely familiar term to many of us—has been a wellspring of creativity in the natural world and has played a key role in the evolution of cooperation and complexity at all levels of living systems. This theory asserts that synergy is more than a class of interesting and ubiquitous effects in nature. It has also been a major causal agency in evolution; it represents a unifying explanation for complexity at all levels of living systems.
+>
+> Moreover, this theory is fully consistent with Darwin’s theory. It involves only a different perspective on the evolutionary process. In contrast with gene-centered theories, or postulates of self-organization and emergent “laws” of complexity, the Synergism Hypothesis represents, in essence, an economic (or, more precisely, bioeconomic) theory of complexity. It is postulated that the functional payoffs produced by various kinds of synergy have been the drivers of this important evolutionary trend...
+>
+> A third major feature of Holistic Darwinism is that it fully acknowledges the “teleonomy” (purposiveness) of living systems and incorporates this important aspect of the natural world into the causal dynamics of the evolutionary process itself. This pertains especially to behavior, which has often served as a “pacemaker” of evolutionary change (in Ernst Mayr’s famous characterization). Sometimes this is referred to as the “Baldwin effect” (see chapter 2), but credit for the idea that a change in an organism’s “habits” can influence the course of evolution should properly be given to Jean Baptiste de Lamarck (even though he guessed wrong about the “mechanism” involved)...
+>
+> A fourth feature of Holistic Darwinism is that it also encompasses the phenomena associated with emergence—the recently rediscovered nineteenth century term for the idea (traceable back to Aristotle) that wholes may have distinct properties that transcend their parts...
+>
+> Another important aspect of Holistic Darwinism is that it also applies to human evolution and to the evolution of human cultures and their political systems. In fact, synergy played a key causal role in the evolution of humankind, and so did cybernetic (political) processes—decision making, social communications, social control, and feedback. Nor are such processes unique to our species. Analogous cybernetic processes are found in slime molds, leaf-cutter ants, naked mole rats, killer whales, and our closest primate relatives, among others; they are a fundamental feature of social life...
+>
+> Finally, Holistic Darwinism embraces the recently revitalized “superorganism” concept, which has regained respectability in evolutionary biology after a long, ideologically tainted period in the wilderness. Actually, the socalled organismic analogy has ancient roots. It was first articulated by the classical Greek theorists as a way of characterizing human societies, and it has been utilized by many other political theorists over the past two thousand years. However, the term superorganism itself was coined by the nineteenth century polymath Herbert Spencer, who focused especially on the division of labor and the problem of functional integration in complex systems... cybernetic processes are essential concomitants of superorganisms of all kinds. More important, this broad evolutionary perspective also applies to the ongoing political evolution of human societies, including the prospects for global governance.
+>
+> ... much has been made of the relationship between “the economy of nature” (a term of art that Darwin borrowed from Linnaeus) and human economies. More recently, there has also been much cross-fertilization between biology and economics, especially in areas such as behavioral ecology, evolutionary game theory, evolutionary economics, ecological economics, and the like. However, the connection between biology and economics goes beyond analogies, and beyond methodologies. There is also a deeper-level homology, which the new interdiscipline of bioeconomics is helping to illuminate. In a nutshell, the fundamental linkage between biology and economics derives from the fact that humans share with all other living species the fundamental problems of survival and reproduction. This bedrock challenge is multifaceted, ongoing, and inescapable; it can never be permanently solved. Indeed, whether we are aware of it or not, the overwhelming majority of our activities as a species are devoted to various aspects of the survival problem (either directly or indirectly). A human society represents, quintessentially, a “collective survival enterprise.”...
+>
+> ... bioeconomics redefines the nature and purpose of a society, and an economy. The “ground-zero premise” (so to speak) of the life sciences is that survival and reproduction represent the basic problem for all living organisms, and this bedrock challenge applies also to human societies. It is the “paradigmatic problem” for all economies, and economic performance must ultimately be judged in these terms, not in relation to economic growth or gross domestic product or other conventional economic measures. Indeed, even traditional income and standard of living measures may be woefully inadequate...
+>
+> ... Two major areas of modern physics, namely thermodynamics and information theory, have made significant incursions into evolutionary theory over the past twenty years or so, and some major claims have been made on behalf of both the so-called entropy law and Claude Shannon’s statistical information theory... The term thermoeconomics refers to the use of economic criteria to understand the role of energy in evolution, and control information describes a new, cybernetic (functional) kind of information that is measured in terms of the energy that can be controlled in a given context...
+>
+> ... Once the narrow, constricted, individualist caricature associated with Neo-Darwinism is replaced by the more balanced, ecumenical, economically oriented paradigm of Holistic Darwinism (not to mention a more balanced view of human nature and the role of cooperation in human evolution), the main theoretical impediment to a robust evolutionary ethics is removed...
+>
+> ... we cannot avoid making ethical choices and ... many of these have significant consequences for our ultimate survival and reproductive success...
+>
+> ... Three of the major aspects of this new paradigm, to reiterate, are synergy, cybernetics, and bioeconomics. More important, in this paradigm, selfish genes are the servants, not the masters..." - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "We cannot *predict* history but we can *make* it; and we can *make* evolution. More: we cannot avoid making evolution. Every reform deliberately instituted in the structure of society changes both history and the selective forces that affect evolution—though evolution may be the farthest thing from our minds as reformers. We are not free to avoid producing evolution; we are only free to close our eyes to what we are doing." - [Garrett Hardin]()
+Garrett Hardin (1972, p. 360) “Genetic Consequences of Cultural Decisions in the Realm of Population.” Social Biology 19 (4):350–61.
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+
+> "" - [Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution, by Peter A. Corning](https://www.goodreads.com/book/show/864864.Holistic_Darwinism)
+

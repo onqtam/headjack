@@ -490,6 +490,8 @@ not sure this is important enough
 ██████████████████████████████████████████████████████████████████
 
 <!-- > "Feedback Is All You Need" - [Gordon Brander](https://twitter.com/gordonbrander/status/1640521555439386624) -->
+<!-- joe biden quote: think about what you think about! -->
+
 
 EMBED THIS
 The Evolution of Agency
