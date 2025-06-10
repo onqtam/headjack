@@ -544,6 +544,8 @@ maybe just use the first bullet point? and rename this ## section?
 
 # Social Status: Down the Rabbit Hole
 
+Dominance vs. prestige, and what prestige is good for:
+
 > "DOMINANCE VS. PRESTIGE
 >
 > The beginning of wisdom about social status is learning to distinguish its two (and only two) primary forms: dominance and prestige. These are, as [one research paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.3973&rep=rep1&type=pdf) puts it, the *"two ways to the top."* If dominance is the kind of status we get from intimidating others, prestige is the kind of status we get from doing impressive things or having impressive traits or skills.
@@ -590,10 +592,9 @@ maybe just use the first bullet point? and rename this ## section?
 >
 > As Scott Adams [recently wrote](http://blog.dilbert.com/post/130880041216/narcissistic-accuser-syndrome): *"I'm a big fan of being admired, assuming I did something worthy. I find the goodwill of others to be one of several sources of personal motivation, and a legitimate one. Am I allowed to make the world a better place and enjoy the fact that others appreciate the effort? That seems like a reasonable deal for everyone. If you do something good for the world, I promise to admire you, and I hope you enjoy the feeling. Maybe it will encourage you to do more good stuff."*" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
 
+> "Perhaps most provocatively, Dessalles' thesis is that talking — voluntarily offering information to others — is ultimately incentivized by prestige status. Even something as simple as pointing (declaratively) requires prestige status to get off the ground. We talk (and evolved to do so) in order to advertise to others our ability to produce relevant insight on demand, which makes us good allies for cooperative endeavors." - [Social Status Follow-up Thoughts, by Kevin Simler](https://meltingasphalt.com/social-status-follow-up-thoughts/)
 
-
-
-
+<details><summary>Other ways to look at prestige - a response from Scott Alexander to Kevin Simler</summary><p>
 
 > "I worry no one theory can completely explain prestige. It seems to me to be a combination of several different things:
 >
@@ -607,8 +608,82 @@ maybe just use the first bullet point? and rename this ## section?
 >
 > 5. **Virtuous cycles.** Suppose that, for reasons 1 through 4, people want to be associated with prestigious people. Note that this is different from “associate with prestigious people” in the sense of meeting them directly; anything that gets their name linked to the prestigious person will work. In fact, suppose that specifically, there are a bunch of conservatives who are really into the Koch brothers and are jockeying for position as Koch brother fan #1. Some of these people might play the strategy of according me prestige for having met the Koch brothers as a way of better signaling their own respect for the Koch brothers to third parties. That gives me a separate incentive to seek such prestige by association." - [Contra Simler on Prestige, by Scott Alexander](https://slatestarcodex.com/2015/10/21/contra-simler-on-prestige/)
 
-> "" - [Social Status II: Cults and Loyalty, by Kevin Simler](https://meltingasphalt.com/social-status-ii-cults-and-loyalty/)
+</p></details>
 
+A response from Kevin Simler to Scott Alexander's response (and a second attempt at explaining prestige using Dessalles' theory):
+
+> "... in my [original post](https://meltingasphalt.com/social-status-down-the-rabbit-hole/) I tried to make three main points about social status:
+>
+> 1. It's not a single phenomenon, but rather two: dominance and prestige. These two systems are more-or-less distinct, and it's useful to think about them separately.
+>
+> 2. Dominance can be understood from the top-down, but prestige needs to be understood from the bottom-up — by focusing on admiration, i.e., the way we fawn over people we respect.
+>
+> 3. Admiration evolved to help us curry favor with actual or potential teammates. It's the price we pay to remain in the good graces of prestigious individuals — to earn a spot on their team and/or keep them happy as a teammate.
+>
+> (All of this, I hasten to add, is cribbed from [Jean-Louis Dessalles](https://www.amazon.com/Why-We-Talk-Evolutionary-Evolution/dp/0199563462).)
+>
+> Scott seems on board with 1 and 2, less on board with 3. Yes, he says, admiration often seems to work as a way of sucking up to teammates, but there are also a lot of cases where it doesn't make sense... I continue to believe that admiration makes sense in each of these cases... the bigger problem ... is that I did a mediocre job of explaining Dessalles' theory. So let me try again,
+using fresh language.
+>
+> DESSALLES' THEORY OF PRESTIGE (TAKE 2)
+>
+> Admiration and prestige-seeking are two complementary teaming instincts. (By "teaming," here, I'm referring to the [game of coalition politics](https://www.overcomingbias.com/2013/11/the-coalition-politics-hypothesis.html)...)
+>
+> In Dessalles' theory, the teams we care about are groups small enough for everyone to know everyone else and keep tabs on their behavior. We might also call them alliances, cliques, gangs, or coalitions. Even a pair of friends, it should be noted, is considered a "team" for our purposes here; it's just a degenerate team of size two. Each of us, of course, is simultaneously a member of many different (but partially-overlapping) teams... From an individual's perspective, teaming instincts help solve a number of related problems:
+>
+> • How to join up with a team (ideally a worthy one) and convince them to accept you.
+>
+> • How to attract other members to the team (ideally people who are competent and useful).
+>
+> • How to remain in the team's good graces, so as not to get kicked out.
+>
+> • How to secure for yourself a reasonable share of the team's spoils. Spoils are whatever resources or benefits the team works together to acquire. For a firm, its spoils are its profits. For a prison gang, spoils include physical protection and access to black market transactions. For a coalition of our forager ancestors (especially a sub-group coalition), spoils probably included food, mating opportunities, support from teammates during conflicts with non-teammates, and support during times of illness or injury.
+>
+> In this context, a person's prestige is the measure of her value to a team (in the eyes of its members). If she has lots of prestige, it's because she's (perceived to be) better at most facets of teaming and teamwork. As a joiner, she'll be more attractive to existing teams. Within a team, she'll be more productive and therefore more worthy of her teammates' admiration. This, in turn, means she'll deserve a larger share of the spoils and will be less likely to get kicked off the team. She will also, simply by being on a team, make it more attractive to outsiders who might consider joining it. So we seek prestige in order to raise our value on the teaming market, and we admire others as a way of bribing them to join (or stay on) the team. Prestige is our price, and admiration our method of payment. It's important to note that in healthy, functioning teams, admiration is paid all around. Every teammate admires every other teammate — not equally, of course, but enough to keep the team together. More prestigious team members receive the most admiration, but even the least prestigious members get their share, as long as they remain in good standing. This kind of mutual admiration, in fact, is the very mechanism by which teams divvy up the spoils. Everyone needs to get paid, somehow, and admiration (commensurate with prestige) is how we do it.
+>
+> Incidentally, we can reformulate this in the language of friendship rather than teams. Due to natural variation, people differ in their personal qualities, and some people make better friends/allies than others. A prestigious individual, then, is someone many others would like to be friends with, someone highly sought after as a friend. And this is where market dynamics take over. A person has only so much friendship to offer; supply is limited. So when the demand goes up, the price has to go up too. Prestigious individuals, then, are those who can command a high price for their friendship. Now consider the problem of how to make and keep a friend. To earn someone's friendship, you need to make it worth his while. If the two of you are equally prestigious (equally valuable on the friendship market), you can simply barter in kind: your friendship for his. But if he's more prestigious than you, your friendship alone won't pay for his, and you'll have to make up the difference somehow. Those additional payments are what we've been calling admiration." - [Social Status II: Cults and Loyalty, by Kevin Simler](https://meltingasphalt.com/social-status-ii-cults-and-loyalty/)
+
+<details><summary>On Cults & Loyalty - continuation of Kevin Simler's response to Scott Alexander</summary><p>
+
+> "BACK TO BOWIE (AND FRIENDS)
+>
+> I hope the explanation above was clear enough. Now, in light of it, what are we to make of our admiration for David Bowie? If we somehow managed to meet him, why would we be so eager to charm and flatter him? It's not that we're trying to keep him on Team USA or Team "The West." Instead, we cozy up to him hoping he'll have a spot for us on Team Bowie; we're trying to befriend him personally. Why? Because being friends with a rockstar has its perks: epic parties, beautiful people, the latest designer drugs. Maybe he'll invite us backstage at his next show, for example, where we'll meet some cute girl or guy or get to rub shoulders with influential people. Bottom line: David Bowie has a lot of resources, especially in the form of social capital, and would therefore make a great friend or ally. That's why we pay him in respect and admiration.
+>
+> **The Koch brothers**. Assuming you don't like the Koch brothers, why treat them nicely if you happen to sit next to them on a plane? Well, first of all, it's possible you'd actually snub them — if you really hated them, or really wanted to signal your righteousness to others. But if you're even slightly open to them as potential allies, as people you might personally befriend, their extreme prestige makes them worth treating well. Who knows what might happen if they take a liking to you. They might buy you a few drinks, for example, or offer you a ride home in their limo, or put you in touch with one of their influential friends who can help you on a project. When you're nice to people, they tend to be nice in return. And when you're nice to high-status people, their niceness-in-return can be very nice indeed.
+>
+> **Elon Musk and Justin Bieber**. Why do millions of people admire these celebrities that they'll never meet in person? Here's how I would parse the situation. First we need to distinguish between admiring someone in person, by deferring to them in concrete social situations, and admiring someone from afar, simply by thinking or speaking highly of them. Dessalles' theory applies only to in-person admiration. Long-distance admiration — like the kind we direct at Musk or Bieber — is something else entirely. One possible explanation for long-distance admiration is that it helps us keep track of people who are worth admiring up close, in case we ever get the chance. And since long-distance admiration doesn't cost much, why not? But this doesn't explain the intensity of the admiration that Musk and Bieber arouse in us; it doesn't explain why we become such rabid fans. So Scott suggests there might be group-signaling effects here, and I think he's right. By gushing about Elon Musk on my Facebook account, for example, I'm not trying to tee up a friendship with the man himself. (As it happens, we aren't FB friends.) Instead, it's more likely that I'm signaling to other Musk supporters — showing that I'm aligned with them and their values, for example, or that I'm smart and enlightened enough to appreciate Musk's contributions to the world. In other words, Musk himself — the man on the hill — isn't the primary target of my long-distance admiration, but rather the people down here in my local social circle. All this group signaling works to create a kind of cult around the admired figure. But note that cult objects aren't always living, breathing humans. We also get whipped into a frenzy of group signaling around:
+>
+> • Dead people like Jesus, Confucius, and Shakespeare.
+>
+> • Abstract symbols like "God," "America," and "Apple."
+>
+> • Concrete symbols like idols, totems, and flags.
+>
+> • Values or ideals like liberty, justice, and love.
+>
+> Elon Musk, then, is simultaneously a living person and a symbol representing the ideals of science, entrepreneurship, progress, etc. Insofar as he's a person, we pay respect in the hope of befriending him, i.e., earning a spot on Team Musk. Insofar as he's a symbol, we pay respect to him (or more precisely, to the idea of him) for the same reason we kneel before any altar: to curry favor with fellow worshippers. In a cult of personality, these two processes overlap and reinforce each other. But I contend that they can and should be analyzed separately.
+>
+> **Helen Keller**. Keller has been dead almost 50 years, so most of our current admiration for her is necessarily cultic. But even while she was alive, she was quite prestigious. Was it simply because she had an inspiring life story? Did people simply fetishize her as a symbol of perseverance? I might have thought so. But after reading her [Wikipedia page](https://en.wikipedia.org/wiki/Helen_Keller), a [New Yorker piece about her](http://www.newyorker.com/magazine/2003/06/16/what-helen-keller-saw), and [Mark Twain's high praise for her](http://www.historyofredding.com/epl/twain-keller-exhibit1.htm), I have to conclude that she was genuinely impressive. She wasn't just a public curiosity — "that blind deaf girl who learned to speak." She was also a prolific author (12 books!), a world-famous public speaker, and an energetic political activist. She campaigned aggressively for radical causes like women's suffrage, birth control, and pacifism, and was influential enough that some people found it necessary to attack her for her views. She even helped found the ACLU. I'm sure Keller capitalized plenty on her life story, but the point is she was very successful at it, and would have made a valuable ally.
+>
+> A FINAL THOUGHT
+>
+> As I write this, it occurs to me that **loyalty** interacts with prestige in a way that illuminates both phenomena. Within an existing team (including friendship "teams" of size two), your prestige reflects your value to your teammates. More precisely, it's the expected value of all your future contributions to the team — your [NPV](https://en.wikipedia.org/wiki/Net_present_value), if you will. Now, in light of this, how might you go about increasing your prestige?
+>
+> One strategy is to improve yourself — by learning new skills, for example — so that you'll be able to accomplish things of greater value. You thereby increase the expected size of your future contributions to the team. But there's another, complementary strategy: try to increase the expected number of your future contributions. How? By convincing your teammates that you're likely to stick around longer.
+>
+> The transaction is simple. In return for your loyalty, you earn your teammates' trust. And the interesting thing about trust — arguably, the essential thing — is that it isn't portable. When you leave a team, you can take everything else with you (skills, knowledge, money), but all that accumulated trust stays behind. In other words, prestige has two components: a general-purpose "global" component and a team-specific "local" component. Global prestige includes everything valued on the outside market: skills, knowledge, money, relationships with outsiders. Local prestige includes everything not transferable to the outside market — trust, relationships with teammates, and team-specific knowledge and skills. I think this helps explain why loyalty-signaling practices are so powerful, and produce such dramatic effects. Watch how loyalty-signaling can quickly escalate out of control:
+>
+> 1. We begin with an initiate, who wishes to raise his value by demonstrating loyalty to his group. Words aren't enough: he needs to make honest (costly) commitments, i.e., by doing things that make it harder for him to leave the group. Techniques here include: severing ties with outsiders, doubling down on relationships with insiders, and undertaking lifestyle changes (diet, clothes, living arrangements) that make it harder to interact with the outside world.
+>
+> 2. In return for these demonstrations of loyalty, the initiate is rewarded with trust, i.e., local prestige — something that increases his value within the group, but which has no benefit to him if he decides to leave. In other words, his reward for binding himself to the group is... something that further binds him to the group.
+>
+> 3. Unfortunately local prestige, like global prestige, is a zero-sum game. So in order to compete for it, team members need to out-do each other, e.g., with even more extreme loyalty displays. This kind of competition is similar to what we find in any other prestige tournament (art, music, sports, academia, etc.). The main difference lies in the direction competitors are selling themselves for prestige: artists and athletes sell themselves outward, while loyalty-signaling teammates sell inward.
+>
+> 4. Finally, if processes 1–3 are strong enough, most group members will end up fairly committed to the group. They'll draw their admiration largely from other group members, and they'll experience a large drop in status if they ever try to leave. All this, in turn, gives everyone a strong incentive to make sure everyone else remains loyal to the group. The peer pressure that results is likely to be intense.
+>
+> Religions often take these processes to an extreme. Adherents scramble to signal commitment as a way of jockeying for local prestige. In this context, everyone is anxious to do and say the right things. Schelling points for "proper" beliefs and behaviors are established quickly, resulting in capricious orthodoxies and bizarre ritual practices. And because loyalty is what's at stake, the group will tend to prefer beliefs and behaviors that are costly to maintain and perform. Orthodox Jews spurn food from non-Kosher kitchens. Fundamentalist Christians deny evolution. Christian Scientists refuse blood transfusions. Mormons wear special underwear. And every religion asks for weekly devotion. In each of these "transactions," adherents sacrifice their status with outsiders as part of a calculated gambit to earn greater status among their co-religionists." - [Social Status II: Cults and Loyalty, by Kevin Simler](https://meltingasphalt.com/social-status-ii-cults-and-loyalty/)
+
+</p></details>
 
 
 
