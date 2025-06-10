@@ -1081,3 +1081,12 @@ truth must be our schelling point
 
 > "The more complex societies get + the more complex the networks of interdependence within + beyond community + national borders get, the more people are forced in their own interests to find non-zero-sum (NZS) solutions. That is, win-win solutions instead of win-lose solutions." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1120199593478647808)
 
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Holistic Darwinism: Synergy, Cybernetics, and the Bioeconomics of Evolution
+██████████████████████████████████████████████████████████████████
+
+
+

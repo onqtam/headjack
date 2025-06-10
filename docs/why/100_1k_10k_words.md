@@ -15,6 +15,10 @@ On your first reading you may skip all optional parts that are in expandable sec
 
 This is a very dense book, but understanding it and the system it would produce is a heck of a lot easier than understanding the current disordered system we find ourselves in.
 
+
+"After this," says Morpheus to Neo in The Matrix, "there is no turning back."
+You take the blue pill — the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill — you stay in Wonderland, and I show you how deep the rabbit hole goes.
+
 # about the quote-heavy style of the book
 
 Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.

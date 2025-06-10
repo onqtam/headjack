@@ -544,13 +544,51 @@ maybe just use the first bullet point? and rename this ## section?
 
 # Social Status: Down the Rabbit Hole
 
-> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
-
-> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
-
-> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
-
-> "" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
+> "DOMINANCE VS. PRESTIGE
+>
+> The beginning of wisdom about social status is learning to distinguish its two (and only two) primary forms: dominance and prestige. These are, as [one research paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.3973&rep=rep1&type=pdf) puts it, the *"two ways to the top."* If dominance is the kind of status we get from intimidating others, prestige is the kind of status we get from doing impressive things or having impressive traits or skills.
+>
+> A schoolyard bully is an example of pure dominance. He's not impressive, only aggressive. Stephen Hawking and Malala Yousafzai (winner of the 2014 Nobel Peace Prize), on the other hand, are examples of pure prestige. You're likely to treat them with deference and respect, though neither is threatening to stuff you in a locker. Both forms of status can, of course, exist simultaneously in the same person — e.g., Steve Jobs, who was brilliant, charismatic, and a notorious tyrant to his employees. The point is that dominance and prestige can be separated, and that they're analytically distinct. They're the two Platonic forms of social status.
+>
+> It might help to think of these as different systems, each of which can be broken down into a high-status component and a low-status component. So Dominance & Submission are one complementary pair (of interlocking instincts, emotions, and behaviors), while Prestige & Admiration are a different complementary pair... You can also think of these as two different relationships: one between a dominant and a submissive, the other between a prestigious individual and an admirer. The dominance system and the prestige system have at least one thing in common: There are perks to having high status (whichever form it takes). Other than that, the two systems are almost complete opposites:
+>
+> • **Avoidance vs. approach**. Dominance works by inspiring fear and other "avoidance" instincts, so that low-status people try to steer clear of dominant individuals. Prestige, on the other hand, inspires admiration and other "approach" instincts, so low-status people actively seek out prestigious individuals and enjoy spending time around them.
+>
+> • **Taking vs. giving**. The perks of dominance are taken by force by the high-status (dominant) individual. The perks of prestige, on the other hand, are given to the high-status (prestigious) individual, freely, by the low-status admirer.
+>
+> • **Entitlement vs. gratitude**. Dominant individuals expect deference from others and treat it as their natural right. Prestigious individuals, on the other hand, often make an elaborate show of humility when accepting the deference of others. Performers bow as they're being applauded. Oscar-winners profusely thank their supporters. Lay people often blush and smile awkwardly when they're being celebrated, e.g., at a birthday party. To do otherwise — to act entitled to admiration — would risk alienating one's supporters.
+>
+> ... THE EVOLUTION OF PRESTIGE
+>
+> ... Unfortunately, the logic of prestige isn't nearly as simple and straightforward as the logic of dominance. In fact it's a bit tangled, and if we aren't careful, we're liable to miss the whole point. With that in mind, what follows is the most important thing I hope you'll take away from this essay: *"To understand dominance, we need to focus on the high-status behaviors. To understand prestige, however, we need to focus on the low-status behaviors."*
+>
+> ... Consider the two instincts/behaviors that make up the prestige system. On the high-status side, we have **prestige-seeking**: striving to impress others. On the low-status side, we have **admiration**: celebrating or fawning over a prestigious individual, i.e., paying respect. Note what we mean by "admiration" here is more than just passive respect from a distance. It requires active deference to the prestigious individual: giving them your seat, buying them drinks, offering to set them up with your brother or sister, etc.
+>
+> Now which of these two behaviors — prestige-seeking or admiration — is primary? Put another way: which of the two behaviors makes sense on its own, without the other? Well, as Will Rogers said, *"We can't all be heroes because somebody has to sit on the curb and clap as they go by."* In other words, there's no point in seeking prestige unless others are ready and willing to celebrate you for it; prestige literally means nothing without admiration. On the other hand, it does make sense to admire impressive people, even if they aren't actively seeking it.
+>
+> So admiration, rather than prestige-seeking, is the lynchpin of the prestige system. The central question we need to answer, then, is why people freely admire (defer and give respect to) prestigious individuals. In other words, *What's in it for the admirer?*
+>
+> ... ADMIRATION ACCORDING TO HENRICH
+>
+> Henrich and Gil-White begin with the observation that low-status admirers are attracted to their prestigious superiors and hope to spend more time around them, and that their admiration therefore acts as a bribe. Admirers, in other words, are sycophants... They pay respect to a prestigious individual in order to cultivate access to him. They may bring him gifts (large or small), run errands for him, support him in conflicts, defer to him in mating scenarios, or all of the above. Or they may simply flatter him and sing his praises to other members of the group. These, as we've seen, are the perks of high prestige. But, again, what's in it for the admirer? Here Henrich and Gil-White hypothesize that admirers are hoping to learn from their superiors... since humans learn mostly by observation and imitation, they need to spend time, up close, observing the skills and behaviors they wish to copy. This account harkens to the relationship between master and apprentice...
+>
+> ... PRESTIGE IN HUMANS
+>
+> ... Once you know how to look for prestige — and, just as important, to stop conflating it with dominance — you'll find it everywhere... The point is, we want to be friends, allies, and teammates with people who do good things for their friends, allies, and teammates. It's in our self-interest to cultivate access to such people — which we do, in part, by paying them respect and granting them the perks of prestige.
+>
+> More generally, however, we admire not only those who actually do good things for their teammates, but also those who show the potential to do good things, i.e., by demonstrating useful skills. The student who gets straight As from a good college, for example, is advertising her value to future employers, and her prestige makes her highly sought-after on the job market. She'll be actively courted by hiring managers and given various perks (a better starting salary, more time to make her decision) that aren't accorded to her less-impressive classmates.
+>
+> As always, Pinker offers a crisp definition. Prestige status, he says, is "the public knowledge that you possess assets that would allow you to help others if you wished to." In other words, prestige reflects your value as a teammate, whether actual or potential.
+>
+> This account of prestige explains all of the puzzles that Henrich's account (learning-by-imitation) has trouble with. It explains why we admire and defer (to some extent) even to people with skills strictly inferior to our own — like the hiring manager courting the straight-A student. It explains why we admire others even when we aren't trying to learn from them — i.e., because we want them on our team. And finally, it explains why we admire others even for skills that can't be taught or learned. It pays to be friends with strong, beautiful people, for example, even if those traits are unlikely to rub off on us.
+>
+> Admiration and prestige-seeking, then, are teaming instincts... Both are ways of currying favor among actual or potential allies. The admirer tries to ingratiate himself with a specific individual, whereas the prestige-seeker tries to make himself attractive to a larger, wider audience. But both are ultimately after the same thing: more spoils from cooperative (team) efforts.
+>
+> This is it. This is the magic, the special sauce — the juice that fuels the engine of cooperation. The Golden Rule of ethics says, *"Do unto others as you would have done unto you."* But the Golden Rule of politics, which has arguably created more prosperity for our species, goes something like this: *"Admire those who would make good allies."*
+>
+> Unlike the ethical rule, which has to be hammered into us (because it cuts slightly against the grain of our nature), the political rule comes to us quite naturally. It's deeply embedded in our instincts, and we follow it, without effort, because it's to our advantage to admire potential teammates, especially when they're impressive or likely to be helpful. We're sycophants, one and all — and (for those of you trying to keep score) that's a very good thing.
+>
+> As Scott Adams [recently wrote](http://blog.dilbert.com/post/130880041216/narcissistic-accuser-syndrome): *"I'm a big fan of being admired, assuming I did something worthy. I find the goodwill of others to be one of several sources of personal motivation, and a legitimate one. Am I allowed to make the world a better place and enjoy the fact that others appreciate the effort? That seems like a reasonable deal for everyone. If you do something good for the world, I promise to admire you, and I hope you enjoy the feeling. Maybe it will encourage you to do more good stuff."*" - [Social Status: Down the Rabbit Hole, by Kevin Simler](https://meltingasphalt.com/social-status-down-the-rabbit-hole/)
 
 
 
