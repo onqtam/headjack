@@ -139,6 +139,12 @@ The role for artists - what types of memes and how we’re gonna rate them accor
 > "The first elements of a new emerging [metameme](https://metamoderna.org/what-is-a-metameme/) (societal stage of
 development) are always to be found within the arts." - [Hanzi Freinacht](https://metamoderna.org/why-the-alternative-in-denmark-failed/)
 
+# fundraising
+
+> "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
+
+Yo Fred, hit us up!
+
 # geopolitics
 
 The first countries to utilize this architecture will be the biggest winners.

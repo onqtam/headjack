@@ -5,36 +5,132 @@ Compartmentalizing expertise
 We need compartmentalization of expertise - making it impossible to move value without the loss of information (which the fungibility of money enables)
 The commitment of time and attention to problem-solving should be informationally separated from the influence of money which is perfectly fungible
 
+# Credentials / Accreditation
+
+
+# Regulating Prestige Through Awards
+
+> "The practice of giving awards and honors allows an individual, such as a king, or an institution, such as the Academy of Motion Picture Arts and Sciences, to regulate status within a society, organization, or industry. Rather than regulating all behavior by all people at all times, an award sets the bar for what is the highest status behavior or achievement and, by virtue of its public nature, allows everyone else to figure out for themselves how they should aspire to behave as well." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+> "We usually think honors are about the recipient, but the giver of honors also gains. The giver and recipient collaborate to publicly assert that the recipient is worthy of prestige, and that the giver has the authority to grant it. Honors are thus acts of an alliance to mutually boost prestige... The audience also participates in this transaction of prestige. They either accept the whole affair and the implied claims of the giver and the recipient, or reject or ignore them. The honors only have meaning—and thus the primary parties only gain—if the onlookers take them seriously... Honors can be prestigious because prestigious people receive them, because prestigious people give them, or both." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+> "If one looks closely at any society, one will observe that its rulers—and their prestige—subsidize all other sources of prestige. Thus, when the landscape of power shifts, the landscape of prestige shifts accordingly. It is then critical that rulers are incentivized to allocate prestige well—that is, in accordance with the actual distribution of excellence. If they aren’t, as in the case of Stalin, the resulting distortions in the allocation of prestige produce distortions in their society’s understanding of what is good and what is true. Lysenkoism was an epistemic and moral disaster. This kind of corruption can ultimately have catastrophic effects on the society’s health, because the ability to ascertain the truth is fundamental to the functionality of a society’s people and its institutions." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+^^ not sure how to use this quote... maybe parts of it?
+
+> "Among the many different kinds of honors, we can pick out two especially common ones: those meant to incentivize a particular achievement with a financial reward, which I call prizes, and those meant to afford prestige on the basis of past achievement, which I call awards. Prizes aim to get some specific thing done, whereas awards aim to affect the distribution of prestige, incentivizing achievement in a more indirect way. With a prize, money is fundamental. With an award, it is incidental. The Millennium Prizes are a prime example of the former, the Academy Awards of the latter.
+>
+> This distinction is often muddled, leading honors to be less effective than they could be. I have to clarify what I mean by each term, because in practice they aren’t used in a reliable way. There are awards that are called prizes and prizes that are called awards. Despite its name, the Nobel Prize is a hybrid case that is more of an award. Though it comes with a financial reward, it is primarily about affording prestige, and this is what those who try to win it are after. The money is nice, but the glory is better.
+>
+> It’s for this reason that I think that awards are more effective than prizes in incentivizing the production of knowledge. Glory is a greater motivator than money...
+>
+> A prize also provides less return on its creator’s investment of social capital than an award. Once the goal is achieved and the prize won, there is no longer a reason for it to exist. It is self-abolishing. An award, on the other hand, can continue to be given out year after year, compounding the investment of prestige." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+> "The more closely social status corresponds to activity that’s ultimately beneficial for society, the more such activity is incentivized, much more strongly than by even a large financial reward. Wisely distributing status makes the difference between a world where most kids dream of becoming YouTubers and one where they dream of taking us to space." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+> "Status is one of the irreplaceable currencies whose necessary transfer is often denounced in this way. Michael Sauder et al. define status as the relative respect and patterns of deference accorded to people, groups and organizations by wider society... People cannot engage in any common projects without some commonly agreed-upon deference to people, groups or organizations, nor can they engage in common projects without someone or something holding, and yes, spending status. Status is a coordination mechanism, and this makes it valuable.
+>
+> If we come together to do great things, much status is required, whether vested in an institution or an individual. That someone will be holding status in this sense, personally or as a representative of an organization, then, is an unavoidable consequence of people coming together to do things. Perhaps one can argue for a dispersed distribution of status as the best way for us to organize such efforts, but the fact is that deference by some towards others on technical and resource distribution questions is still the central guiding factor." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+^^ maybe remove the second part
+
+
 ██████████████████████████████████████████████████████████████████
-# SECTION: Reputation, accreditation & skin in the game
+# SECTION: Reputation
 ██████████████████████████████████████████████████████████████████
 
 > "First ethical rule: If you see fraud and do not say fraud, you are a fraud." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9928470-first-ethical-rule-if-you-see-fraud-and-do-not)
 
-> "Culture is not like a mission statement; you can’t just set it up and have it last forever. There’s a saying in the military that if you see something below standard and do nothing, then you’ve set a new standard. This is also true of culture—if you see something off-culture and ignore it, you’ve created a new culture." - [Ben Horowitz, What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/quotes/10058754-culture-is-not-like-a-mission-statement-you-can-t-just)
 
 
-> "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
 
 
-> "In the long-run, the best proof of a good character is good actions." - [John Stuart Mill](https://www.azquotes.com/quote/1377006)
 
 https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
 
-> "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
+
 
 having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit
+
+
+
+
+
+
+
+
+# Skin in the Game
+
+> "In the long-run, the best proof of a good character is good actions." - [John Stuart Mill](https://www.azquotes.com/quote/1377006)
+
+> "A man is honorable in proportion to the personal risks he takes for his opinion." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/3240519-a-man-is-honorable-in-proportion-to-the-personal-risks)
+
+> "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
 
 > "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
 
 > "Even if some of the public doesn’t care about the credibility score, the journalists, editors & publications will. It is how they define themselves." - [Elon Musk](https://twitter.com/elonmusk/status/999369623484039168)
 
-
-> "A man is honorable in proportion to the personal risks he takes for his opinion." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/3240519-a-man-is-honorable-in-proportion-to-the-personal-risks)
-
 > "Those who talk should do and only those who do should talk." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9137243-those-who-talk-should-do-and-only-those-who-do)
 
 > "Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have—or don’t have—in their portfolio." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1176143-never-ask-anyone-for-their-opinion-forecast-or-recommendation-just)
+
+
+
+
+> "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81)
+
+> "It won’t be rational for mainstream to reallocate authority to uncredentialized amateurs - no matter how much more correct they are, until there is a very legible and scalable way to delegate trust, so that not everyone has to fact check everything the independent shadow academy — the invisible college — the commons — the bazaar— puts forward against the cathedral of “expert consensus” that is so often state sponsored scientism." - [Conor White-Sullivan](https://twitter.com/Conaw/status/1733062636911411572)
+
+
+> "You can't build a reputation on what you are going to do." - [Henry Ford](https://www.goodreads.com/quotes/7482-you-can-t-build-a-reputation-on-what-you-are-going)
+
+> "The only real mistake is the one from which we learn nothing." - [Henry Ford](https://www.goodreads.com/quotes/106813-the-only-real-mistake-is-the-one-from-which-we)
+
+> "If there were a highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing - that actually can give the harvards and the yales of the world a run for their money. I think that might be the most positive thing we could do." - [Greg Lukianoff](https://youtu.be/buarAx_u2qg?t=8883)
+
+> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
+^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
+
+> "I love Twitter: you can make predictions that sound smart and go viral and then delete them when you end up being completely wrong." - [Nikita Bier](https://twitter.com/nikitabier/status/1677733311723245568)
+
+> "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
+
+google reviews !!! - a reputation system
+
+booting up the reputation/accountability/status market
+
+> "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
+
+negative reputation and scammers
+
+> "The ultimate result of shielding men from the effects of folly is to fill the world with fools." - [Herbert Spencer](https://www.goodreads.com/quotes/79987-the-ultimate-result-of-shielding-men-from-the-effects-of)
+
+> "Imagine a decentralized, participatory system with objectors, supporters, checkers, and bettors–all of whom are evaluating claims made by someone. Claimants are usually targets of the sensemaking system, so while their claims are the most visible, they don’t have to be active participants in the truth-tracking process. Everyone else has to stake something, enough that it stings to lose." - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=Imagine%20a%20decentralized,stings%20to%20lose.)
+
+an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
+^^ THIS IS A HUGE POINT !!!
+
+
+
+> "Researchers find our reward systems are activated most when we achieve relative rather than absolute rewards; we’re designed to feel best not when we get more, but when we get more than those around us." - [Will Storr](https://www.goodreads.com/quotes/11605041-researchers-find-our-reward-systems-are-activated-most-when-we)
+
+> "The story idealists sometimes tell of humanity says we're natural seekers of equality. This isn't true. Utopians talk of injustice whilst building new hierarchies and placing themselves at the top. We all do this. It's in our nature.
+>
+> The urge for rank is ineradicable. It's the secret goal of our lives, to win status for ourselves and our game - and gain as much of it over you and you and you as we can. It's how we make meaning. It's how we make identity. It's the worst of us, it's the best of us and it's the inescapable truth of us: for humans, equality will always be the impossible dream." - [Will Storr](https://www.goodreads.com/quotes/11892473-the-story-idealists-sometimes-tell-of-humanity-says-we-re-natural)
+
+
+
+> "It takes many good deeds to build a good reputation, and only one bad one to lose it." - [Benjamin Franklin](https://hbr.org/2007/02/reputation-and-its-risks)
+
+> "Executives know the importance of their companies’ reputations. Firms with strong positive reputations attract better people. They are perceived as providing more value, which often allows them to charge a premium. Their customers are more loyal and buy broader ranges of products and services. Because the market believes that such companies will deliver sustained earnings and future growth, they have higher price-earnings multiples and market values and lower costs of capital. Moreover, in an economy where 70% to 80% of market value comes from hard-to-assess intangible assets such as brand equity, intellectual capital, and goodwill, organizations are especially vulnerable to anything that damages their reputations." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
+
+> "Reputation is a matter of perception. A company’s overall reputation is a function of its reputation among its various stakeholders (investors, customers, suppliers, employees, regulators, politicians, nongovernmental organizations, the communities in which the firm operates) in specific categories (product quality, corporate governance, employee relations, customer service, intellectual capital, financial performance, handling of environmental and social issues). A strong positive reputation among stakeholders across multiple categories will result in a strong positive reputation for the company overall." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
+
+There is no accountability without accounting. In business and finance accounting is about money. In the status, purpose, and meaning world accounting is calculated reputation.
+
+
+
+
+
 
 
 > "Do not create your reputation system as if it is a monetary system. You do not spend or trade reputation. Once you earn it, it is yours." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=do%20not%20create%20your%20reputation%20system%20as%20if%20it%20is%20a%20monetary%20system.%20You%20do%20not%20spend%20or%20trade%20reputation.%20Once%20you%20earn%20it%2C%20it%20is%20yours.)
@@ -76,58 +172,9 @@ having your post (successfully) labeled as a duplicate of something else could i
 > "Reputation should not be traded. Ever. That’s not what it is for. It is bound to an identity and is only meaningful when it continues to be bound to that identity. If I can buy or spend reputation rather than earning it by performing in the way the reputation currency indicates, then it is a meaningless signal that has broken loose from any sense that the reputation is supposed to impart." - [Avoid Blunders in Designing Reputation Systems, by Arthur Brock](https://www.artbrock.com/2019/01/23/avoid-blunders-in-designing-reputation-systems#:~:text=Reputation%20should%20not,supposed%20to%20impart.)
 
 
-> "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81#:~:text=To%20support%20and%20maintain%20a%20man%27s%20private%20credit%2C%20%27tis%20absolutely%20necessary%20that%20the%20world%20have%20a%20fixed%20opinion%20of%20the%20honesty%20and%20integrity%2C%20as%20well%20as%20ability%20of%20a%20person.)
-
-> "It won’t be rational for mainstream to reallocate authority to uncredentialized amateurs - no matter how much more correct they are, until there is a very legible and scalable way to delegate trust, so that not everyone has to fact check everything the independent shadow academy — the invisible college — the commons — the bazaar— puts forward against the cathedral of “expert consensus” that is so often state sponsored scientism." - [Conor White-Sullivan](https://twitter.com/Conaw/status/1733062636911411572)
-
-
-> "You can't build a reputation on what you are going to do." - [Henry Ford](https://www.goodreads.com/quotes/7482-you-can-t-build-a-reputation-on-what-you-are-going)
-
-> "The only real mistake is the one from which we learn nothing." - [Henry Ford](https://www.goodreads.com/quotes/106813-the-only-real-mistake-is-the-one-from-which-we)
-
-> "If there were a highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing - that actually can give the harvards and the yales of the world a run for their money. I think that might be the most positive thing we could do." - [Greg Lukianoff](https://youtu.be/buarAx_u2qg?t=8883)
-
-> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
-^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
-
-> "I love Twitter: you can make predictions that sound smart and go viral and then delete them when you end up being completely wrong." - [Nikita Bier](https://twitter.com/nikitabier/status/1677733311723245568)
-
-> "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
-
-google reviews !!! - a reputation system
-
-booting up the reputation/accountability/status market
-
-> "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
-
-negative reputation and scammers
-
-> "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
-
-> "The ultimate result of shielding men from the effects of folly is to fill the world with fools." - [Herbert Spencer](https://www.goodreads.com/quotes/79987-the-ultimate-result-of-shielding-men-from-the-effects-of)
-
-> "Imagine a decentralized, participatory system with objectors, supporters, checkers, and bettors–all of whom are evaluating claims made by someone. Claimants are usually targets of the sensemaking system, so while their claims are the most visible, they don’t have to be active participants in the truth-tracking process. Everyone else has to stake something, enough that it stings to lose." - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=Imagine%20a%20decentralized,stings%20to%20lose.)
-
-an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
-^^ THIS IS A HUGE POINT !!!
 
 
 
-> "Researchers find our reward systems are activated most when we achieve relative rather than absolute rewards; we’re designed to feel best not when we get more, but when we get more than those around us." - [Will Storr](https://www.goodreads.com/quotes/11605041-researchers-find-our-reward-systems-are-activated-most-when-we)
-
-> "The story idealists sometimes tell of humanity says we're natural seekers of equality. This isn't true. Utopians talk of injustice whilst building new hierarchies and placing themselves at the top. We all do this. It's in our nature.
->
-> The urge for rank is ineradicable. It's the secret goal of our lives, to win status for ourselves and our game - and gain as much of it over you and you and you as we can. It's how we make meaning. It's how we make identity. It's the worst of us, it's the best of us and it's the inescapable truth of us: for humans, equality will always be the impossible dream." - [Will Storr](https://www.goodreads.com/quotes/11892473-the-story-idealists-sometimes-tell-of-humanity-says-we-re-natural)
-
-
-
-> "It takes many good deeds to build a good reputation, and only one bad one to lose it." - [Benjamin Franklin](https://hbr.org/2007/02/reputation-and-its-risks)
-
-> "Executives know the importance of their companies’ reputations. Firms with strong positive reputations attract better people. They are perceived as providing more value, which often allows them to charge a premium. Their customers are more loyal and buy broader ranges of products and services. Because the market believes that such companies will deliver sustained earnings and future growth, they have higher price-earnings multiples and market values and lower costs of capital. Moreover, in an economy where 70% to 80% of market value comes from hard-to-assess intangible assets such as brand equity, intellectual capital, and goodwill, organizations are especially vulnerable to anything that damages their reputations." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
-
-> "Reputation is a matter of perception. A company’s overall reputation is a function of its reputation among its various stakeholders (investors, customers, suppliers, employees, regulators, politicians, nongovernmental organizations, the communities in which the firm operates) in specific categories (product quality, corporate governance, employee relations, customer service, intellectual capital, financial performance, handling of environmental and social issues). A strong positive reputation among stakeholders across multiple categories will result in a strong positive reputation for the company overall." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
-
-There is no accountability without accounting. In business and finance accounting is about money. In the status, purpose, and meaning world accounting is calculated reputation.
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: stick & carrot
@@ -195,42 +242,6 @@ greenwashing
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: Status over truth
-██████████████████████████████████████████████████████████████████
-
-> "Why do people want to improve their reputation? Well, our main evolutionary goals in life are survival and reproduction. Having a good reputation is what makes those goals possible — it’s what makes people want to work with you, take care of you, and partner with you.
->
-> But how do status and reputation work? Think about it like this: imagine we all have a number floating above our heads — that's our status score. We can't see it, but we have a sense for where we rank — dating apps even go so far as to quantify it. Over time we learn to perceive both our own score and that of others.
->
-> We’re so attune to our status score that we’re laser focused on increasing it even at the expense of seeing objective reality, or truth. As Don Hoffman writes in “The Case Against Reality” “An organism that sees reality as it truly is is never more fit than an organism of equal complexity that sees none of reality and is just attuned to fitness payoffs” Or as Don says elsewhere: “Optimizing for truth can make you extinct.”
->
-> It’s not that we’ll see objective reality (or truth) and consciously ignore it—our brains won’t even filter for it in the first place. In other words, the first thing we see isn’t whether something is true or not, and then decide whether it’s good for us. We do the opposite: We first filter for what’s good for us, and then filter for truth—this explains why we feel emotions first, and then rationalize them after.
->
-> To be sure, this doesn’t mean objective reality doesn’t exist. It means we often don’t perceive reality accurately because it’s not aligned with our interest. We think people are rational, but if anything, recent scientific discoveries tell us most of human rationality is not used to make decisions, but rather to come up with arguments to rationalize decisions the subconscious brain has already made." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=Why%20do%20people,has%20already%20made.)
-
-> "The best deceiver is the person who doesn’t even know they’re deceiving. If you truly believe your lie, you won’t betray it. So not only are there selection pressures to deceive others, but also to deceive yourself. The more you deceive yourself, the better you can deceive—or convince—others of the same narrative. The best salespeople are the most fervent believers, those with no traces of doubt." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=the%20best%20deceiver,traces%20of%20doubt.)
-
-> "What does the prioritization of the status score over objective reality imply? That people who want social status will believe and say whatever is convenient, no matter how crazy. Indeed, it’s more predictive to think of “belief” not as something someone thinks of as true, but as something someone thinks will improve their reputation. Want more evidence people don’t prioritize objective truth? You may have noticed that after centuries of the scientific method, people still believe in things like Astrology.
->
-> And that’s exactly why the precise content of any ideological point doesn't matter. Brains don’t care about ideology. They didn’t evolve to care about abstract concepts. Indeed: Many people are hypocrites with regard to their overt ideological claims if they can get away with it. Rich elites talk about Global Warming while living in lavish mansions and flying private. Rich parents talk about the importance of public schools while they put their kids in fancy private schools. Cognitive dissonance? No; those cognitive systems are not connected to begin with." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=What%20does%20the,to%20begin%20with.)
-
-> "This is why people aren’t open to changing their minds — because there's no reason they should be. Ideas aren’t about logic, they’re about loyalty. Ideas are Schelling points for tribes. If saying certain things means you’ll make more friends, well, you’re probably going to say those things. That’s the purpose of ideas — to make better friends.
->
-> This is also why arguments are often useless, and only cause people to dig into their pre-existing positions. All this stuff about steel-manning other arguments to find truth—it may catalyze scientific progress, but in most social circles, it’s also a surefire way to lose friends and alienate people. (Which is why people who do so are heroes, and why communities who encourage it are foundational for progress).
->
-> Indeed: Understanding how the outgroup thinks is frowned upon. You’re not supposed to try to understand what’s going on. You’re supposed to not get it and loudly condemn it. We think of this blind allegiance as harmful behavior, but it actually signals and induces loyalty to one’s in-group." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=This%20is%20why%20people,to%20one%E2%80%99s%20in%2Dgroup.)
-
-> "So then why do we care so much about politics? What's the point of ideology? Ideology is the water you swim in. It’s a structured database of excuses, used to signal your allegiance or defection to the existing ruling coalition. This is why fanatics of one political stripe sometimes convert to fanatics of the other. Different ideas suit different people at different times. Ideas can adapt to people, but more often than not people adapt to ideas. Which is why the culture war is so existential — because the marketplace of ideas isn't run by the scientific method, it's run by high school politics. People are often vessels looking for a hit. They don’t really care where they get it; they only care that it’s good.
->
-> So what determines what people say? It seems clear that the default mode of thinking for humans is groupthink, and the content of that groupthink is computed with a complex algorithm taking into account one's peer group, the loyalties one owes and to whom, who has more status and what talking points fit better with the religion that one has been dutifully drilled into since kindergarten." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=So%20then%20why,into%20since%20kindergarten.)
-
-> "The burden of having to realize our constant self-deception is too big of a cross to bear, since it threatens the edifice of our reality." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=The%20burden%20of%20having%20to%20realize%20our%20constant%20self%2Ddeception%20is%20too%20big%20of%20a%20cross%20to%20bear%2C%20since%20it%20threatens%20the%20edifice%20of%20our%20reality.)
-
-> "Given how ideologies actually work, a gene that made you consistent with your ideology couldn't possibly spread in the gene pool. But a gene for the ability to adroitly deploy Orwellian talking points to signal your loyalty to the winning tribe — now that's helpful." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=Given%20how%20ideologies%20actually%20work%2C%20a%20gene%20that%20made%20you%20consistent%20with%20your%20ideology%20couldn%27t%20possibly%20spread%20in%20the%20gene%20pool.%20But%20a%20gene%20for%20the%20ability%20to%20adroitly%20deploy%20Orwellian%20talking%20points%20to%20signal%20your%20loyalty%20to%20the%20winning%20tribe%20%E2%80%94%20now%20that%27s%20helpful.)
-
-> "The goal is not to persuade. The goal is to subtly punish people for questioning our dogmas or dissing our allies. When we argue about politics, we’re playing The Opinion Game—the secret war over social norms. And the norm we want to establish is: respect our tribe." - [Arguing Is Bullshit](https://www.everythingisbullshit.blog/p/arguing-is-bullshit#:~:text=The%20goal%20is%20not%20to%20persuade.%20The%20goal%20is%20to%20subtly%20punish%20people%20for%20questioning%20our%20dogmas%20or%20dissing%20our%20allies.%20When%20we%20argue%20about%20politics%2C%20we%E2%80%99re%20playing%20The%20Opinion%20Game%E2%80%94the%20secret%20war%20over%20social%20norms.%20And%20the%20norm%20we%20want%20to%20establish%20is%3A%20respect%20our%20tribe.)
-
-██████████████████████████████████████████████████████████████████
 # SECTION: Matchmaking
 ██████████████████████████████████████████████████████████████████
 
@@ -255,176 +266,21 @@ Friendship matchmaking where you deliberately enter your goals initially
 > "P2P credential platforms will democratize talent discovery at scale, enabling people all over the world to discover the next Mark Zuckerberg or Sheryl Sandberg (And others in other industries) without having to write a check to prove their talent discovery abilities." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials#:~:text=P2P%20credential%20platforms%20will%20democratize%20talent%20discovery%20at%20scale%2C%20enabling%20people%20all%20over%20the%20world%20to%20discover%20the%20next%20Mark%20Zuckerberg%20or%20Sheryl%20Sandberg%20(And%20others%20in%20other%20industries)%20without%20having%20to%20write%20a%20check%20to%20prove%20their%20talent%20discovery%20abilities.%C2%A0)
 
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Status & Prestige
-██████████████████████████████████████████████████████████████████
-
-> "Deriving comfort from anything other than status signals low status." - [Steven Kaas](https://twitter.com/stevenkaas/status/223317583737257984)
-
-> "The worst parts of human nature are always near the surface - ready to rise when cultural restraints weaken. We are not blank slates as some behavioralists once imagined. We are organisms whose more egregious tendencies can be greatly if arduously subdued and the primary reason for this tenuous optimism is the abject flexibility whith which status is sought. We will do almost anything for respect, including: not act like animals." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
-
-> "The whole point of the human brain is behavioural flexibility." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
-
-“Let the (status) game begin”
-With a picture of the clown from the movie “saw”
-
-we need to change our concept of status
-
-> "To compete for high social status is to play a zero-sum game, since status is scarce by definition. Yet one way to successfully earn status is to invent technologies that create new non-zero-sum games." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1120197629072117760)
-
-> "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
-
-People grind for status in the dumbest possible pay-to-win “games” - we need to give them an avenue for their competitiveness and expression
-
-> "Sociometer theory is a theory of self-esteem from an evolutionary psychological perspective which proposes that self-esteem is a gauge (or sociometer) of interpersonal relationships." - [Sociometer, Wikipedia](https://en.wikipedia.org/wiki/Sociometer#:~:text=Sociometer%20theory%20is%20a%20theory%20of%20self%2Desteem%20from%20an%20evolutionary%20psychological%20perspective%20which%20proposes%20that%20self%2Desteem%20is%20a%20gauge%20(or%20sociometer)%20of%20interpersonal%20relationships.)
-
-> "Self-esteem is a measure of effectiveness in social relations and interactions that monitors acceptance and/or rejection from others." - [Sociometer, Wikipedia](https://en.wikipedia.org/wiki/Sociometer#:~:text=self%2Desteem%20is%20a%20measure%20of%20effectiveness%20in%20social%20relations%20and%20interactions%20that%20monitors%20acceptance%20and/or%20rejection%20from%20others.)
-
-> "The main concept of sociometer theory is that the self-esteem system acts as a gauge to measure the quality of an individual's current and forthcoming relationships. Furthermore, this measurement of self-esteem assesses these two types of relationships in terms of relational appreciation. This is how other people might view and value the relationships they hold with the individual. If relational appreciation of an individual differs negatively, relational devaluation is experienced. Relational devaluation exists in the format of belongingness, with a negative alteration allowing the sociometer gauge to highlight these threats, producing emotional distress to act to regain relational appreciation and restore balance in the individual's self-esteem." - [Sociometer, Wikipedia](https://en.wikipedia.org/wiki/Sociometer#:~:text=The%20main%20concept,individual%27s%20self%2Desteem.)
-
-> "While you can outsource Bitcoin mining to a computer, people still mine for social capital on social networks largely through their own blood, sweat, and tears." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=While%20you%20can%20outsource%20Bitcoin%20mining%20to%20a%20computer%2C%20people%20still%20mine%20for%20social%20capital%20on%20social%20networks%20largely%20through%20their%20own%20blood%2C%20sweat%2C%20and%20tears.)
-
-> "The more people who follow you, the more followers you gain because of leaderboards and recommended follower algorithms and other such common discovery mechanisms. It's true that as more people join a network, more social capital is up for grabs in the aggregate. However, in general, if you come to a social network later, unless you bring incredible exogenous social capital (Taylor Swift can join any social network on the planet and collect a massive following immediately), the competition for attention is going to be more intense than it was in the beginning. Everyone has more of an understanding of how the game works so the competition is stiffer." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20more%20people,competition%20is%20stiffer.)
-
-> "Value is tied to scarcity, and scarcity on social networks derives from proof of work. Status isn't worth much if there's no skill and effort required to mine it. It's not that a social network that makes it easy for lots of users to perform well can't be a useful one, but competition for relative status still motivates humans. Recall our first tenet: humans are status-seeking monkeys. Status is a relative ladder. By definition, if everyone can achieve a certain type of status, it’s no status at all, it’s a participation trophy." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Value%20is%20tied,a%20participation%20trophy.)
-
-> "Thirst for status is potential energy. It is the lifeblood of a Status as a Service business. To succeed at carving out unique space in the market, social networks offer their own unique form of status token, earned through some distinctive proof of work." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Thirst%20for%20status%20is%20potential%20energy.%20It%20is%20the%20lifeblood%20of%20a%20Status%20as%20a%20Service%20business.%20To%20succeed%20at%20carving%20out%20unique%20space%20in%20the%20market%2C%20social%20networks%20offer%20their%20own%20unique%20form%20of%20status%20token%2C%20earned%20through%20some%20distinctive%20proof%20of%20work.)
-
-> "The second tenet is that people seek out the most efficient path to maximize their social capital. To do so, they must have a sense for how different strategies vary in effectiveness." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20second%20tenet%20is%20that%20people%20seek%20out%20the%20most%20efficient%20path%20to%20maximize%20their%20social%20capital.%20To%20do%20so%2C%20they%20must%20have%20a%20sense%20for%20how%20different%20strategies%20vary%20in%20effectiveness.)
-
-> "Graph-based social capital allocation mechanisms can suffer from runaway winner-take-all effects. In essence, some networks reward those who gain a lot of followers early on with so much added exposure that they continue to gain more followers than other users, regardless of whether they've earned it through the quality of their posts. One hypothesis on why social networks tend to lose heat at scale is that this type of old money can't be cleared out, and new money loses the incentive to play the game." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=graph%2Dbased%20social,play%20the%20game.)
-
-> "It's not that the existence of old money or old social capital dooms a social network to inevitable stagnation, but a social network should continue to prioritize distribution for the best content, whatever the definition of quality, regardless of the vintage of user producing it. Otherwise a form of social capital inequality sets in, and in the virtual world, where exit costs are much lower than in the real world, new users can easily leave for a new network where their work is more properly rewarded and where status mobility is higher." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=It%27s%20not%20that%20the,status%20mobility%20is%20higher.)
-
-> "As a newbie, how quickly, if you put in the work, are you "in the game"? Proof of work should define its own meritocracy. The same way many social networks track keystone metrics like time to X followers, they should track the ROI on posts for new users. It's likely a leading metric that governs retention or churn." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20a%20newbie,retention%20or%20churn.)
-
-> "Whatever the mechanisms, social networks must devote a lot of resources to market making between content and the right audience for that content so that users feel sufficient return on their work. Distribution is king, even when, or especially when it allocates social capital." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Whatever%20the%20mechanisms%2C%20social%20networks%20must%20devote%20a%20lot%20of%20resources%20to%20market%20making%20between%20content%20and%20the%20right%20audience%20for%20that%20content%20so%20that%20users%20feel%20sufficient%20return%20on%20their%20work.%20Distribution%20is%20king%2C%20even%20when%2C%20or%20especially%20when%20it%20allocates%20social%20capital.)
-
-> "By definition, if the proof of work is the same, you're not really creating a new status ladder game, and so there isn't a real compelling reason to switch when the new network really has no one in it." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-
-> "Do you really want your coworkers and business colleagues and family and friends watching you lip synch to "It's Getting Hot in Here" by Nelly on Lasso?" - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-
-^^ TODO: THINK ABOUT NOT JUST MULTI-DIMENSIONAL FOLLOWS BUT ALSO MULTI-DIMENSIONAL CONNECTIONS/FRIENDSHIP?
-
-> "The Stories format is a genuine innovation on the social modesty problem of social networks. That is, all but the most egregious showoffs feel squeamish about publishing too much to their followers. Stories, by putting the onus on the viewer to pull that content, allows everyone to publish away guilt-free, without regard for the craft that regular posts demand in the ever escalating game that is life publishing." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=the%20Stories%20format,is%20life%20publishing.)
-
-> "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-
-> "As people start following more and more accounts on a social network, they reach a point where the number of candidate stories exceeds their capacity to see them all. Even before that point, the sheer signal-to-noise ratio may decline to the point that it affects engagement. Almost any network that hits this inflection point turns to the same solution: an algorithmic feed. Remember, status derives value from some type of scarcity. What is the one fundamental scarcity in the age of abundance? User attention. The launch of an algorithmic feed raises the stakes of the social media game. Even if someone follows you, they might no longer see every one of your posts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20people%20start,of%20your%20posts.)
-
-> "Could social networks have chosen to keep likes and other such metrics about posts private, visible only to the recipient? Could we have kept this social capital arms race from escalating? Some tech CEO's now look back and, like Alan Greenspan, bemoan the irrational exuberance that led us to where we are now, but let's be honest, the incentives to lower interest rates on social capital in all these networks, given their goals and those of their investors, were just too great. If one company hadn’t flooded the market with status, others would have filled the void many times over." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Could%20social%20networks,many%20times%20over.)
-
-> "Some businesses work best at scale, and if you believe that people want to accumulate social capital as efficiently as possible, putting a bound on how much they can earn is a challenging business model, as dark as that may be." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-
-> "Young people are generally social capital poor unless they've lucked into a fat inheritance. They have no job title, they may not have finished college, they own few assets like homes and cars, and often if they've finished college they're saddled with substantial school debt. For them, the fastest and most efficient path to gaining social capital, while they wait to level up enough to win at more grown-up games like office politics, is to ply their trade on social media or video games." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Young%20people%20are,or%20video%20games)
-
-> "People maximize their social capital the most efficient way possible. Both the young and old pursue optimal strategies." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-
-> "If this generational divide on social media between the old and the young was simply a one-time anomaly given the recent birth of social networks, and if future generations will be virtual status-seeking experts for womb to tomb, then capturing users in their formative social media years becomes even more critical for social networks." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=If%20this%20generational,for%20social%20networks.)
-
-> "Teens and twenty-somethings, more so than the middle-aged and elderly, tend to juggle more identities. In middle and high school, kids have to maintain an identity among classmates at school, then another identity at home with family. Twenty-somethings craft one identity among coworkers during the day, then another among their friends outside of work. Often those spheres have differing status games, and there is some penalty to merging those identities." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=teens%20and%20twenty,merging%20those%20identities.)
-
-> "The expiration of content, whether explicitly executed on Instagram (you can easily kill off a meme account after you've outgrown it, for example), or automatically handled on a service like Snapchat, is a must-have feature for those for whom multiple identity management is a fact of life. Facebook, with its explicit attachment to the real world graph and its enforcement of a single public identity, is just a poor structural fit for the more complex social capital requirements of the young." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20expiration%20of,of%20the%20young.)
-
-> "Remember Snapchat's original Best Friends list? I'm going to guess many of my readers don't, because, as noted earlier, old people probably didn't play that status game, if they'd even figured out how to use Snapchat by that point. This was just about as pure a status game feature as could be engineered for teens. Not only did it show the top three people you Snapped with most frequently, you could look at who the top three best friends were for any of your contacts. Essentially, it made the hierarchy of everyone's “friendships” public, making the popularity scoreboard explicit.
->
-> As with aggregate follower counts and likes, the Best Friends list was a mechanism for people to accumulate a very specific form of social capital. From a platform perspective, however, there's a big problem with this feature: each user could only have one best friend. It put an artificial ceiling on the amount of social capital one could compete for and accumulate.
->
-> In a clever move to unbound social capital accumulation and to turn a zero-sum game into a positive sum game, broadening the number of users working hard or engaging, Snapchat deprecated the very popular Best Friends list and replaced it with streaks.
->
-> If you and a friend Snap back and forth for consecutive days, you build up a streak which is tracked in your friends list. Young people quickly threw their heart and souls into building and maintaining streaks with their friends. This was literally proof of work as proof of friendship, quantified and tracked.
->
-> Streaks, of course, have the wonderful quality of being unbounded. You can maintain as many streaks as you like. If you don't think social capital has value, you've never seen, as I have, a young person sobbing over having to go on vacation without their phone, or to somewhere without cell or wifi access, only to see all their streaks broken. Some kids have resorted, when forced to go abroad on a vacation, to leaving their phone with a friend who helps to keep all the streaks alive, like some sort of social capital babysitter or surrogate.
->
-> What's hilarious is how efficiently young people maintain streaks. It's a daily ritual that often consists of just quickly running down your friend list and snapping something random, anything, just to increment the streak count. My nephew often didn’t even bother framing the camera up, most his streak-maintenance snaps were blurry pics of the side of his elbow, half his shoulder, things like that.
->
-> Of course, as evidence of the fragility of social capital structures, streaks have started to lose heat. Many younger users of Snapchat no longer bother with them. Maintaining social capital games is always going to be a volatile game, prone to sudden and massive deflationary events, but while they work, they’re a hell of a drug. They also can be useful; for someone Snapping frequently, like all teens do, having a best friends list sorted to the top of your distribution list is a huge time-saver. Social capital and utility often can’t be separated cleanly." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Remember%20Snapchat%27s%20original,be%20separated%20cleanly.)
-
-> "Some people find status games distasteful. Despite this, everyone I know is engaged in multiple status games. Some people sneer at people hashtag spamming on Instagram, but then retweet praise on Twitter. Others roll their eyes at photo albums of expensive meals on Facebook but then submit research papers to prestigious journals in the hopes of being published. Parents show off photos of their children performances at recitals, people preen in the mirror while assessing their outfits, employees flex on their peers in meetings, entrepreneurs complain about 30 under 30 lists while wishing to be on them, reporters check the Techmeme leaderboards; life is nothing if not a nested series of status contests." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Some%20people%20find,of%20status%20contests.)
-
-> "IMDb and Wikipedia are two companies which built up entire valuable databases almost entirely by building mechanisms to harness the equal mix of status-seeking and altruism of domain experts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-
-> "You can think of social capital accumulation incentives like these as ways to transform the potential energy of status into whatever form of kinetic energy your venture needs." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
-
-> "The solution also doesn’t lie in ignoring that humans are wired to pursue social capital. In fact, overlooking this fundamental aspect of human nature arguably landed us here, at the end of this first age of social network goliaths, wondering where it all went haywire. If we think of these networks as marketplaces trading only in information, and not in status, then we're only seeing part of the machine." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=the%20solution%20also,of%20the%20machine.)
-
-> "Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat." - [Charlie Munger](https://www.goodreads.com/quotes/7238535-remember-that-reputation-and-integrity-are-your-most-valuable-assets-and)
-
-> "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
-
-> "The world is not driven by greed; it's driven by envy." - [Charlie Munger](https://x.com/shaneaparrish/status/1748353737167356305)
-
-> "From natural selection’s point of view, status assistance is the main purpose of friendship." - [Robert Wright](https://www.goodreads.com/quotes/9700916-from-natural-selection-s-point-of-view-status-assistance-is-the)
-
-> "We spend our lives desperately seeking status; we are addicted to social esteem in a fairly literal sense, dependent on the neurotransmitters we get upon impressing people. Many of us claim to be self-sufficient, to have a moral gyroscope, to hold fast to our values, come what may. But people truly oblivious to peer approval get labeled sociopaths. And the epithets reserved for people at the other end of the spectrum, people who seek esteem most ardently—“self-promoter,” “social climber”—are only signs of our constitutional blindness. We are all self-promoters and social climbers. The people known as such are either so effective as to arouse envy or so graceless as to make their effort obvious, or both." - [Robert Wright](https://www.goodreads.com/quotes/9799532-we-spend-our-lives-desperately-seeking-status-we-are-addicted)
 
 
 
-> "We all want status, but we can’t admit it. Why? Because it’s uncool. Wanting status makes us look selfish, insecure, and low-status. Ew. We’re not supposed to care about petty things like money or fame; we’re supposed to care about noble things like integrity or authenticity or something. Admitting we’re desperate for status is like admitting we’re horny for a co-worker or jealous of a friend’s success: it’s not a good look. So we pretend we don’t care about status, as a way of gaining status. It’s kind of confusing.
->
-> That means status games—i.e., the mutually-agreed-upon rules for winning and losing status—are fragile. We can only play a status game if we lack awareness that it’s status game. As soon as we become aware of the game we’re playing, we stop getting status for playing it. In fact, we lose status: we look selfish, insecure, and low-status. Ew. So virtue signalers cannot know they’re virtue signaling, and neither can the people who award them virtue. “Brave” truth-tellers cannot know they’re seeking praise from their political tribe, and neither can the tribe who praises them. “Rebellious” nonconformists cannot know they’re conforming to the norms of their subculture, and neither can their subculture. Status games must never be emblazoned with a neon sign that says “STATUS GAME”, or else they’ll disintegrate in the light like vampires. We have to play our status games in the dark.
->
-> So what happens when the lights come on? The game collapses. People stop playing, for fear of looking uncool. Instead, they start playing an anti-status game to show how cool and not-interested-in-status they are. The point of an anti-status game is to show that you care about more important things than status, like integrity or authenticity or something. Anti-status games emerge in opposition to a collapsing status game, and they often take the opposite form. If people are showing off their immaculately coifed hair, for example, anti-status-seekers might wear their hair artfully tussled.
->
-> In other words, anti-status games are just another kind of status game. We could remove the “anti” if we wanted to, but it’s useful to keep it there to get a handle on what’s going on, so we can see why these games are so weird. Status games are constantly collapsing and re-emerging in antithetical forms. They give rise to anti-status games, then anti-anti-status games, and so on. Different cultures split off as status symbols twirl in fractal, quasi-cyclical patterns." - [Status Is Weird, by David Pinsof](https://www.everythingisbullshit.blog/p/status-is-weird#:~:text=We%20all%20want,quasi%2Dcyclical%20patterns.)
-
-> "But is it possible to evaluate our status games from a more rational, dispassionate perspective? Can we somehow learn to defend the status games that actually make the world better and attack the ones that actually make the world worse? Is our sorry species even remotely capable of such a project?
->
-> Maybe? Possibly? If there’s any way to pull it off, it’s by appealing to young people, or people having a midlife crisis, or people who haven’t yet won too many status points in any particular game, or who don’t yet know which game they’re most likely to win. Maybe if we urge these on-the-fence people to think a little harder about which status game to play, we can gradually, as a species, move toward status games that make us all better off.
->
-> And maybe that project—the quest to improve the world through thinking hard and seeing through bullshit—is a sacred value too, a covert status game that you and I are playing, and convincing other people to play, because we think we stand a good chance of winning it...
->
-> So if you still haven’t found the right status game to play, please: choose wisely... The fate of humanity depends on it." - [Status Is Weird, by David Pinsof](https://www.everythingisbullshit.blog/p/status-is-weird#:~:text=But%20is%20it,depends%20on%20it.)
-
-> "There's plenty of anecdotal evidence in the form of us not liking showoffs, braggarts, snobs, narcissists, ass-kissers, bigshots, bullies, social climbers, virtue signalers, thirst trappers, power trippers, etc. The fact that we have so many words for this is good linguistic evidence that status-seekers are judged negatively. There's also ethnographic evidence that bragging and bigshot behavior is severely punished in hunter gatherer societies (see Christopher Boehm's Hierarchy in the Forest and Moral Origins)." - [Status Is Weird, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/status-is-weird?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=39015446)
-
-> "I'm not saying that status is bad, or that wanting status is bad. I actually think wanting status is morally neutral and pragmatically good. I'm just saying that people *think* wanting status is bad. So if you're trying to get it, you should be careful not to make it look like you were trying to get it." - [Status Is Weird, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/status-is-weird?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=38969526)
-
-
-
-
-> "Here’s a list of things we want and don’t want. See if you can spot the pattern:
->
-> 1. We don’t just want to make money; we want to make more money than our neighbors.
->
-> 2. We don’t just want a job; want to have a more prestigious job than our peers.
->
-> 3. We don’t just want people to like us; we want people to like us more than they like other people.
->
-> 4. We don’t just want to be educated; we want to have better educational credentials than our competitors on the job market.
->
-> 5. We don’t just want to belong to a group; we want our group to be better than other groups.
->
-> 6. We don’t just want to have opinions; we want to have more interesting opinions than other people.
->
-> 7. We don’t just want to be attractive; we want to be more attractive than our rivals. 
->
-> 8. We don’t just want to be a good person; we want to be holier than thou.
->
-> 9. We don’t just want to help the environment; we want to be greener than thou.
->
-> 10. We don’t just want a house; we want to a prettier house, with a nicer view, in a better school district, than other people have.
->
-> Did you spot the pattern? Of course you did. It’s the unflattering way our desires work. We’re constantly comparing ourselves to the people around us, and we’re never quite satisfied until we’re just a little bit better than, or better off than, they are. This isn’t true of all our desires (sometimes, we’re just thirsty and want a glass of water), but it’s true of a large percentage of them—dare I say most of them. The majority of our time and energy is consumed by small-minded social competition, and we really hate to admit this. Our need to cover it up is, perhaps, the greatest source of human bullshit.
->
-> Why are our desires secretly like this? Because natural selection, the thing that made our desires, is an icky, competitive process. Animals compete with members of their species for genetic representation in future generations. They do this by competing for physical stuff (like food and territory), social stuff (like friends and mates), and the capacity to get social and physical stuff (like status and power). The competition rages over thousands of generations, and the winners leave more descendants than the losers. We are descendants of the winners, and we have inherited their winning characteristics, including their desire to win—and to conceal that desire from themselves and others (in order to win)." - [There's a Problem with Our Desires, by David Pinsof](https://www.everythingisbullshit.blog/p/theres-a-problem-with-our-desires?utm_source=profile&utm_medium=reader2#:~:text=Here%E2%80%99s%20a%20list,to%20win).)
-
-> "The reason our desires exist is because our ancestors, who had them, reliably got more stuff than their rivals, who didn’t have them. That means our desires must have somehow caused our ancestors to get more stuff than their rivals. How did our desires cause our ancestors to get more stuff than their rivals? In all likelihood, by motivating them to do that.
->
-> Here's the problem. It never ends. Our secretly icky desires cannot all be fulfilled. We cannot give everyone what they want if what they want is to be better than, or better off than, other people. Our desires simply don’t fit together. We will never all get along." - [There's a Problem with Our Desires, by David Pinsof](https://www.everythingisbullshit.blog/p/theres-a-problem-with-our-desires?utm_source=profile&utm_medium=reader2#:~:text=The%20reason%20our,all%20get%20along.)
-
-
-
-> "The people we’re trying to manipulate and persuade—they’re out there in the world, and their judgments matter for our fitness. Their judgments might even be the single greatest thing that matters for our fitness. If you want to understand the nature of our hyper-social species, you cannot take your eye off the ball of reputation and status." - [The Truth About Self-Deception, by David Pinsof](https://www.optimallyirrational.com/p/the-truth-about-self-deception#:~:text=The%20people%20we%E2%80%99re,reputation%20and%20status.)
-
-
-> "We are too naïve about signaling games. We think we can escape them. We think there is an “opt out” button we can press at any time. But that button does not exist. We have no choice but to signal. In a judgy species like ours, every little thing we do gets noticed, including the things we don’t do—or the things we say we don’t do while we do them.
->
-> Besides, even if we can manage to avoid sending a signal, we still haven’t escaped. The absence of information is still information. Not having an opinion is like having the wrong opinion. Not taking a side is like betraying both sides." - [I Don't Care If You Read This, David Pinsof](https://www.everythingisbullshit.blog/p/i-dont-care-if-you-read-this#:~:text=We%20are%20too,both%20sides.)
 
 
 
 # What is Status
+
+> "The people we’re trying to manipulate and persuade—they’re out there in the world, and their judgments matter for our fitness. Their judgments might even be the single greatest thing that matters for our fitness. If you want to understand the nature of our hyper-social species, you cannot take your eye off the ball of reputation and status." - [The Truth About Self-Deception, by David Pinsof](https://www.optimallyirrational.com/p/the-truth-about-self-deception#:~:text=The%20people%20we%E2%80%99re,reputation%20and%20status.)
+
+> "Sociometer theory is a theory of self-esteem from an evolutionary psychological perspective which proposes that self-esteem is a gauge (or sociometer) of interpersonal relationships... Self-esteem is a measure of effectiveness in social relations and interactions that monitors acceptance and/or rejection from others.
+>
+> ... The main concept of sociometer theory is that the self-esteem system acts as a gauge to measure the quality of an individual's current and forthcoming relationships. Furthermore, this measurement of self-esteem assesses these two types of relationships in terms of relational appreciation. This is how other people might view and value the relationships they hold with the individual. If relational appreciation of an individual differs negatively, relational devaluation is experienced. Relational devaluation exists in the format of belongingness, with a negative alteration allowing the sociometer gauge to highlight these threats, producing emotional distress to act to regain relational appreciation and restore balance in the individual's self-esteem." - [Sociometer, Wikipedia](https://en.wikipedia.org/wiki/Sociometer)
+
+> "From natural selection’s point of view, status assistance is the main purpose of friendship." - [Robert Wright](https://www.goodreads.com/quotes/9700916-from-natural-selection-s-point-of-view-status-assistance-is-the)
 
 > "Ultimately, status lives in the minds (and bodies) of all the humans within a given community — by which I mean, primarily, other people's minds and bodies. You might maintain a sense of your own status, but it's not really up to you. Status is fundamentally about how others perceive and interact with you (and what they allow you to get away with). It's like keeping a checkbook — you might maintain your own ledger for planning and making decisions, but the official balance lies with the bank. There are many ways to define status, but as a working definition let's take status to be **"the total amount of social influence a person has over the other members of his or her community."** There's a lot to unpack from this definition. Here are some of the more interesting implications:
 >
@@ -543,6 +399,8 @@ maybe just use the first bullet point? and rename this ## section?
 </p></details>
 
 # Social Status: Down the Rabbit Hole
+
+> "Social status among humans actually comes in two flavors: dominance and prestige. Dominance is the kind of status we get from being able to intimidate others (think Joseph Stalin), and on the low-status side is governed by fear and other avoidance instincts. Prestige, however, is the kind of status we get from being an impressive human specimen (think Meryl Streep), and it’s governed by admiration and other approach instincts." - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.goodreads.com/quotes/9425294-social-status-among-humans-actually-comes-in-two-flavors-dominance)
 
 Dominance vs. prestige, and what prestige is good for:
 
@@ -686,6 +544,180 @@ using fresh language.
 </p></details>
 
 
+# Tribalism - Status & Loyalty Over Truth
+
+> "Why do people want to improve their reputation? Well, our main evolutionary goals in life are survival and reproduction. Having a good reputation is what makes those goals possible — it’s what makes people want to work with you, take care of you, and partner with you.
+>
+> But how do status and reputation work? Think about it like this: imagine we all have a number floating above our heads — that's our status score. We can't see it, but we have a sense for where we rank — dating apps even go so far as to quantify it. Over time we learn to perceive both our own score and that of others.
+>
+> We’re so attune to our status score that we’re laser focused on increasing it even at the expense of seeing objective reality, or truth. As Don Hoffman writes in “The Case Against Reality” *“An organism that sees reality as it truly is is never more fit than an organism of equal complexity that sees none of reality and is just attuned to fitness payoffs”* Or as Don says elsewhere: *“Optimizing for truth can make you extinct.”*
+>
+> It’s not that we’ll see objective reality (or truth) and consciously ignore it—our brains won’t even filter for it in the first place. In other words, the first thing we see isn’t whether something is true or not, and then decide whether it’s good for us. We do the opposite: We first filter for what’s good for us, and then filter for truth—this explains why we feel emotions first, and then rationalize them after.
+>
+> To be sure, this doesn’t mean objective reality doesn’t exist. It means we often don’t perceive reality accurately because it’s not aligned with our interest. We think people are rational, but if anything, recent scientific discoveries tell us most of human rationality is not used to make decisions, but rather to come up with arguments to rationalize decisions the subconscious brain has already made.
+>
+> ... The best deceiver is the person who doesn’t even know they’re deceiving. If you truly believe your lie, you won’t betray it. So not only are there selection pressures to deceive others, but also to deceive yourself. The more you deceive yourself, the better you can deceive—or convince—others of the same narrative. The best salespeople are the most fervent believers, those with no traces of doubt.
+>
+> ... What does the prioritization of the status score over objective reality imply? That people who want social status will believe and say whatever is convenient, no matter how crazy. Indeed, it’s more predictive to think of “belief” not as something someone thinks of as true, but as something someone thinks will improve their reputation. Want more evidence people don’t prioritize objective truth? You may have noticed that after centuries of the scientific method, people still believe in things like Astrology.
+>
+> And that’s exactly why the precise content of any ideological point doesn't matter. Brains don’t care about ideology. They didn’t evolve to care about abstract concepts. Indeed: Many people are hypocrites with regard to their overt ideological claims if they can get away with it. Rich elites talk about Global Warming while living in lavish mansions and flying private. Rich parents talk about the importance of public schools while they put their kids in fancy private schools. Cognitive dissonance? No; those cognitive systems are not connected to begin with.
+>
+> ... This is why people aren’t open to changing their minds — because there's no reason they should be. Ideas aren’t about logic, they’re about loyalty. Ideas are [Schelling points](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) for tribes. If saying certain things means you’ll make more friends, well, you’re probably going to say those things. That’s the purpose of ideas — to make better friends.
+>
+> This is also why arguments are often useless, and only cause people to dig into their pre-existing positions. All this stuff about steel-manning other arguments to find truth—it may catalyze scientific progress, but in most social circles, it’s also a surefire way to lose friends and alienate people. (Which is why people who do so are heroes, and why communities who encourage it are foundational for progress).
+>
+> Indeed: Understanding how the outgroup thinks is frowned upon. You’re not supposed to try to understand what’s going on. You’re supposed to not get it and loudly condemn it. We think of this blind allegiance as harmful behavior, but it actually signals and induces loyalty to one’s in-group.
+>
+> ... So then why do we care so much about politics? What's the point of ideology? Ideology is the water you swim in. It’s a structured database of excuses, used to signal your allegiance or defection to the existing ruling coalition. This is why fanatics of one political stripe sometimes convert to fanatics of the other. Different ideas suit different people at different times. Ideas can adapt to people, but more often than not people adapt to ideas. Which is why the culture war is so existential — because the marketplace of ideas isn't run by the scientific method, it's run by high school politics. People are often vessels looking for a hit. They don’t really care where they get it; they only care that it’s good.
+>
+> So what determines what people say? It seems clear that the default mode of thinking for humans is groupthink, and the content of that groupthink is computed with a complex algorithm taking into account one's peer group, the loyalties one owes and to whom, who has more status and what talking points fit better with the religion that one has been dutifully drilled into since kindergarten.
+>
+> ... The burden of having to realize our constant self-deception is too big of a cross to bear, since it threatens the edifice of our reality.
+>
+> ... Given how ideologies actually work, a gene that made you consistent with your ideology couldn't possibly spread in the gene pool. But a gene for the ability to adroitly deploy Orwellian talking points to signal your loyalty to the winning tribe — now that's helpful." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes)
+
+> "The goal is not to persuade. The goal is to subtly punish people for questioning our dogmas or dissing our allies. When we argue about politics, we’re playing The Opinion Game—the secret war over social norms. And the norm we want to establish is: respect our tribe." - [Arguing Is Bullshit, by David Pinsof](https://www.everythingisbullshit.blog/p/arguing-is-bullshit)
+
+TODO: expand on how to counter this - reputation, integration of opinions for coherence, detecting hypocricy, incentivising changing your mind and understanding other perspectives more than loyalty, incentivizing original thought that goes against the grain/groupthink, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Pretending to not be playing status games
+
+> "We all want status, but we can’t admit it. Why? Because it’s uncool. Wanting status makes us look selfish, insecure, and low-status. Ew. We’re not supposed to care about petty things like money or fame; we’re supposed to care about noble things like integrity or authenticity or something. Admitting we’re desperate for status is like admitting we’re horny for a co-worker or jealous of a friend’s success: it’s not a good look. So we pretend we don’t care about status, as a way of gaining status. It’s kind of confusing.
+>
+> That means status games—i.e., the mutually-agreed-upon rules for winning and losing status—are fragile. We can only play a status game if we lack awareness that it’s a status game. As soon as we become aware of the game we’re playing, we stop getting status for playing it. In fact, we lose status: we look selfish, insecure, and low-status. Ew. So virtue signalers cannot know they’re virtue signaling, and neither can the people who award them virtue. “Brave” truth-tellers cannot know they’re seeking praise from their political tribe, and neither can the tribe who praises them. “Rebellious” nonconformists cannot know they’re conforming to the norms of their subculture, and neither can their subculture. Status games must never be emblazoned with a neon sign that says “STATUS GAME”, or else they’ll disintegrate in the light like vampires. We have to play our status games in the dark.
+>
+> So what happens when the lights come on? The game collapses. People stop playing, for fear of looking uncool. Instead, they start playing an anti-status game to show how cool and not-interested-in-status they are. The point of an anti-status game is to show that you care about more important things than status, like integrity or authenticity or something. Anti-status games emerge in opposition to a collapsing status game, and they often take the opposite form. If people are showing off their immaculately coifed hair, for example, anti-status-seekers might wear their hair artfully tussled.
+>
+> In other words, anti-status games are just another kind of status game. We could remove the “anti” if we wanted to, but it’s useful to keep it there to get a handle on what’s going on, so we can see why these games are so weird. Status games are constantly collapsing and re-emerging in antithetical forms. They give rise to anti-status games, then anti-anti-status games, and so on. Different cultures split off as status symbols twirl in fractal, quasi-cyclical patterns." - [Status Is Weird, by David Pinsof](https://www.everythingisbullshit.blog/p/status-is-weird#:~:text=We%20all%20want,quasi%2Dcyclical%20patterns.)
+
+> "There's plenty of anecdotal evidence in the form of us not liking showoffs, braggarts, snobs, narcissists, ass-kissers, bigshots, bullies, social climbers, virtue signalers, thirst trappers, power trippers, etc. The fact that we have so many words for this is good linguistic evidence that status-seekers are judged negatively. There's also ethnographic evidence that bragging and bigshot behavior is severely punished in hunter gatherer societies (see Christopher Boehm's Hierarchy in the Forest and Moral Origins)." - [Status Is Weird, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/status-is-weird?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=39015446)
+
+> "I'm not saying that status is bad, or that wanting status is bad. I actually think wanting status is morally neutral and pragmatically good. I'm just saying that people *think* wanting status is bad. So if you're trying to get it, you should be careful not to make it look like you were trying to get it." - [Status Is Weird, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/status-is-weird?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=38969526)
+
+> "We spend our lives desperately seeking status; we are addicted to social esteem in a fairly literal sense, dependent on the neurotransmitters we get upon impressing people. Many of us claim to be self-sufficient, to have a moral gyroscope, to hold fast to our values, come what may. But people truly oblivious to peer approval get labeled sociopaths. And the epithets reserved for people at the other end of the spectrum, people who seek esteem most ardently—“self-promoter,” “social climber”—are only signs of our constitutional blindness. We are all self-promoters and social climbers. The people known as such are either so effective as to arouse envy or so graceless as to make their effort obvious, or both." - [Robert Wright](https://www.goodreads.com/quotes/9799532-we-spend-our-lives-desperately-seeking-status-we-are-addicted)
+
+# Deliberately choosing & designing our collective status games
+
+> "But is it possible to evaluate our status games from a more rational, dispassionate perspective? Can we somehow learn to defend the status games that actually make the world better and attack the ones that actually make the world worse? Is our sorry species even remotely capable of such a project?
+>
+> Maybe? Possibly? If there’s any way to pull it off, it’s by appealing to young people, or people having a midlife crisis, or people who haven’t yet won too many status points in any particular game, or who don’t yet know which game they’re most likely to win. Maybe if we urge these on-the-fence people to think a little harder about which status game to play, we can gradually, as a species, move toward status games that make us all better off.
+>
+> And maybe that project—the quest to improve the world through thinking hard and seeing through bullshit—is a sacred value too, a covert status game that you and I are playing, and convincing other people to play, because we think we stand a good chance of winning it...
+>
+> So if you still haven’t found the right status game to play, please: choose wisely... The fate of humanity depends on it." - [Status Is Weird, by David Pinsof](https://www.everythingisbullshit.blog/p/status-is-weird#:~:text=But%20is%20it,depends%20on%20it.)
+
+# Reengineering Status
+
+
+
+
+> "To compete for high social status is to play a zero-sum game, since status is scarce by definition. Yet one way to successfully earn status is to invent technologies that create new non-zero-sum games." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1120197629072117760)
+
+> "The whole point of the human brain is behavioural flexibility." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
+
+> "The worst parts of human nature are always near the surface - ready to rise when cultural restraints weaken. We are not blank slates as some behavioralists once imagined. We are organisms whose more egregious tendencies can be greatly if arduously subdued and the primary reason for this tenuous optimism is the abject flexibility whith which status is sought. We will do almost anything for respect, including: not act like animals." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
+
+“Let the (status) game begin”
+With a picture of the clown from the movie “saw”
+
+we need to change our concept of status
+People grind for status in the dumbest possible pay-to-win “games” - we need to give them an avenue for their competitiveness and expression
+
+> "Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat." - [Charlie Munger](https://www.goodreads.com/quotes/7238535-remember-that-reputation-and-integrity-are-your-most-valuable-assets-and)
+
+> "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
+
+
+
+<!--
+> "Deriving comfort from anything other than status signals low status." - [Steven Kaas](https://twitter.com/stevenkaas/status/223317583737257984)
+lol wut...
+-->
+
+
+# Status as a Service
+
+> "While you can outsource Bitcoin mining to a computer, people still mine for social capital on social networks largely through their own blood, sweat, and tears." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=While%20you%20can%20outsource%20Bitcoin%20mining%20to%20a%20computer%2C%20people%20still%20mine%20for%20social%20capital%20on%20social%20networks%20largely%20through%20their%20own%20blood%2C%20sweat%2C%20and%20tears.)
+
+> "The more people who follow you, the more followers you gain because of leaderboards and recommended follower algorithms and other such common discovery mechanisms. It's true that as more people join a network, more social capital is up for grabs in the aggregate. However, in general, if you come to a social network later, unless you bring incredible exogenous social capital (Taylor Swift can join any social network on the planet and collect a massive following immediately), the competition for attention is going to be more intense than it was in the beginning. Everyone has more of an understanding of how the game works so the competition is stiffer." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20more%20people,competition%20is%20stiffer.)
+
+> "Value is tied to scarcity, and scarcity on social networks derives from proof of work. Status isn't worth much if there's no skill and effort required to mine it. It's not that a social network that makes it easy for lots of users to perform well can't be a useful one, but competition for relative status still motivates humans. Recall our first tenet: humans are status-seeking monkeys. Status is a relative ladder. By definition, if everyone can achieve a certain type of status, it’s no status at all, it’s a participation trophy." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Value%20is%20tied,a%20participation%20trophy.)
+
+> "Thirst for status is potential energy. It is the lifeblood of a Status as a Service business. To succeed at carving out unique space in the market, social networks offer their own unique form of status token, earned through some distinctive proof of work." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Thirst%20for%20status%20is%20potential%20energy.%20It%20is%20the%20lifeblood%20of%20a%20Status%20as%20a%20Service%20business.%20To%20succeed%20at%20carving%20out%20unique%20space%20in%20the%20market%2C%20social%20networks%20offer%20their%20own%20unique%20form%20of%20status%20token%2C%20earned%20through%20some%20distinctive%20proof%20of%20work.)
+
+> "The second tenet is that people seek out the most efficient path to maximize their social capital. To do so, they must have a sense for how different strategies vary in effectiveness." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20second%20tenet%20is%20that%20people%20seek%20out%20the%20most%20efficient%20path%20to%20maximize%20their%20social%20capital.%20To%20do%20so%2C%20they%20must%20have%20a%20sense%20for%20how%20different%20strategies%20vary%20in%20effectiveness.)
+
+> "Graph-based social capital allocation mechanisms can suffer from runaway winner-take-all effects. In essence, some networks reward those who gain a lot of followers early on with so much added exposure that they continue to gain more followers than other users, regardless of whether they've earned it through the quality of their posts. One hypothesis on why social networks tend to lose heat at scale is that this type of old money can't be cleared out, and new money loses the incentive to play the game." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=graph%2Dbased%20social,play%20the%20game.)
+
+> "It's not that the existence of old money or old social capital dooms a social network to inevitable stagnation, but a social network should continue to prioritize distribution for the best content, whatever the definition of quality, regardless of the vintage of user producing it. Otherwise a form of social capital inequality sets in, and in the virtual world, where exit costs are much lower than in the real world, new users can easily leave for a new network where their work is more properly rewarded and where status mobility is higher." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=It%27s%20not%20that%20the,status%20mobility%20is%20higher.)
+
+> "As a newbie, how quickly, if you put in the work, are you "in the game"? Proof of work should define its own meritocracy. The same way many social networks track keystone metrics like time to X followers, they should track the ROI on posts for new users. It's likely a leading metric that governs retention or churn." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20a%20newbie,retention%20or%20churn.)
+
+> "Whatever the mechanisms, social networks must devote a lot of resources to market making between content and the right audience for that content so that users feel sufficient return on their work. Distribution is king, even when, or especially when it allocates social capital." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Whatever%20the%20mechanisms%2C%20social%20networks%20must%20devote%20a%20lot%20of%20resources%20to%20market%20making%20between%20content%20and%20the%20right%20audience%20for%20that%20content%20so%20that%20users%20feel%20sufficient%20return%20on%20their%20work.%20Distribution%20is%20king%2C%20even%20when%2C%20or%20especially%20when%20it%20allocates%20social%20capital.)
+
+> "By definition, if the proof of work is the same, you're not really creating a new status ladder game, and so there isn't a real compelling reason to switch when the new network really has no one in it." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+> "Do you really want your coworkers and business colleagues and family and friends watching you lip synch to "It's Getting Hot in Here" by Nelly on Lasso?" - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+^^ TODO: THINK ABOUT NOT JUST MULTI-DIMENSIONAL FOLLOWS BUT ALSO MULTI-DIMENSIONAL CONNECTIONS/FRIENDSHIP?
+
+> "The Stories format is a genuine innovation on the social modesty problem of social networks. That is, all but the most egregious showoffs feel squeamish about publishing too much to their followers. Stories, by putting the onus on the viewer to pull that content, allows everyone to publish away guilt-free, without regard for the craft that regular posts demand in the ever escalating game that is life publishing." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=the%20Stories%20format,is%20life%20publishing.)
+
+> "You can take the monkey out of the status-seeking game, but you can't take the status-seeking out of the monkey." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+> "As people start following more and more accounts on a social network, they reach a point where the number of candidate stories exceeds their capacity to see them all. Even before that point, the sheer signal-to-noise ratio may decline to the point that it affects engagement. Almost any network that hits this inflection point turns to the same solution: an algorithmic feed. Remember, status derives value from some type of scarcity. What is the one fundamental scarcity in the age of abundance? User attention. The launch of an algorithmic feed raises the stakes of the social media game. Even if someone follows you, they might no longer see every one of your posts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=As%20people%20start,of%20your%20posts.)
+
+> "Could social networks have chosen to keep likes and other such metrics about posts private, visible only to the recipient? Could we have kept this social capital arms race from escalating? Some tech CEO's now look back and, like Alan Greenspan, bemoan the irrational exuberance that led us to where we are now, but let's be honest, the incentives to lower interest rates on social capital in all these networks, given their goals and those of their investors, were just too great. If one company hadn’t flooded the market with status, others would have filled the void many times over." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Could%20social%20networks,many%20times%20over.)
+
+> "Some businesses work best at scale, and if you believe that people want to accumulate social capital as efficiently as possible, putting a bound on how much they can earn is a challenging business model, as dark as that may be." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+> "Young people are generally social capital poor unless they've lucked into a fat inheritance. They have no job title, they may not have finished college, they own few assets like homes and cars, and often if they've finished college they're saddled with substantial school debt. For them, the fastest and most efficient path to gaining social capital, while they wait to level up enough to win at more grown-up games like office politics, is to ply their trade on social media or video games." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Young%20people%20are,or%20video%20games)
+
+> "People maximize their social capital the most efficient way possible. Both the young and old pursue optimal strategies." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+> "If this generational divide on social media between the old and the young was simply a one-time anomaly given the recent birth of social networks, and if future generations will be virtual status-seeking experts for womb to tomb, then capturing users in their formative social media years becomes even more critical for social networks." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=If%20this%20generational,for%20social%20networks.)
+
+> "Teens and twenty-somethings, more so than the middle-aged and elderly, tend to juggle more identities. In middle and high school, kids have to maintain an identity among classmates at school, then another identity at home with family. Twenty-somethings craft one identity among coworkers during the day, then another among their friends outside of work. Often those spheres have differing status games, and there is some penalty to merging those identities." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=teens%20and%20twenty,merging%20those%20identities.)
+
+> "The expiration of content, whether explicitly executed on Instagram (you can easily kill off a meme account after you've outgrown it, for example), or automatically handled on a service like Snapchat, is a must-have feature for those for whom multiple identity management is a fact of life. Facebook, with its explicit attachment to the real world graph and its enforcement of a single public identity, is just a poor structural fit for the more complex social capital requirements of the young." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=The%20expiration%20of,of%20the%20young.)
+
+> "Remember Snapchat's original Best Friends list? I'm going to guess many of my readers don't, because, as noted earlier, old people probably didn't play that status game, if they'd even figured out how to use Snapchat by that point. This was just about as pure a status game feature as could be engineered for teens. Not only did it show the top three people you Snapped with most frequently, you could look at who the top three best friends were for any of your contacts. Essentially, it made the hierarchy of everyone's “friendships” public, making the popularity scoreboard explicit.
+>
+> As with aggregate follower counts and likes, the Best Friends list was a mechanism for people to accumulate a very specific form of social capital. From a platform perspective, however, there's a big problem with this feature: each user could only have one best friend. It put an artificial ceiling on the amount of social capital one could compete for and accumulate.
+>
+> In a clever move to unbound social capital accumulation and to turn a zero-sum game into a positive sum game, broadening the number of users working hard or engaging, Snapchat deprecated the very popular Best Friends list and replaced it with streaks.
+>
+> If you and a friend Snap back and forth for consecutive days, you build up a streak which is tracked in your friends list. Young people quickly threw their heart and souls into building and maintaining streaks with their friends. This was literally proof of work as proof of friendship, quantified and tracked.
+>
+> Streaks, of course, have the wonderful quality of being unbounded. You can maintain as many streaks as you like. If you don't think social capital has value, you've never seen, as I have, a young person sobbing over having to go on vacation without their phone, or to somewhere without cell or wifi access, only to see all their streaks broken. Some kids have resorted, when forced to go abroad on a vacation, to leaving their phone with a friend who helps to keep all the streaks alive, like some sort of social capital babysitter or surrogate.
+>
+> What's hilarious is how efficiently young people maintain streaks. It's a daily ritual that often consists of just quickly running down your friend list and snapping something random, anything, just to increment the streak count. My nephew often didn’t even bother framing the camera up, most his streak-maintenance snaps were blurry pics of the side of his elbow, half his shoulder, things like that.
+>
+> Of course, as evidence of the fragility of social capital structures, streaks have started to lose heat. Many younger users of Snapchat no longer bother with them. Maintaining social capital games is always going to be a volatile game, prone to sudden and massive deflationary events, but while they work, they’re a hell of a drug. They also can be useful; for someone Snapping frequently, like all teens do, having a best friends list sorted to the top of your distribution list is a huge time-saver. Social capital and utility often can’t be separated cleanly." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Remember%20Snapchat%27s%20original,be%20separated%20cleanly.)
+
+> "Some people find status games distasteful. Despite this, everyone I know is engaged in multiple status games. Some people sneer at people hashtag spamming on Instagram, but then retweet praise on Twitter. Others roll their eyes at photo albums of expensive meals on Facebook but then submit research papers to prestigious journals in the hopes of being published. Parents show off photos of their children performances at recitals, people preen in the mirror while assessing their outfits, employees flex on their peers in meetings, entrepreneurs complain about 30 under 30 lists while wishing to be on them, reporters check the Techmeme leaderboards; life is nothing if not a nested series of status contests." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=Some%20people%20find,of%20status%20contests.)
+
+> "IMDb and Wikipedia are two companies which built up entire valuable databases almost entirely by building mechanisms to harness the equal mix of status-seeking and altruism of domain experts." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+> "You can think of social capital accumulation incentives like these as ways to transform the potential energy of status into whatever form of kinetic energy your venture needs." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
+> "The solution also doesn’t lie in ignoring that humans are wired to pursue social capital. In fact, overlooking this fundamental aspect of human nature arguably landed us here, at the end of this first age of social network goliaths, wondering where it all went haywire. If we think of these networks as marketplaces trading only in information, and not in status, then we're only seeing part of the machine." - [Status as a Service (StaaS)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service#:~:text=the%20solution%20also,of%20the%20machine.)
+
 
 
 
@@ -741,6 +773,8 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 > "We know that equality of individual ability has never existed and never will, but we do insist that equality of opportunity still must be sought." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/522436)
 
 > "Achievement has no color." - [Abraham Lincoln](https://www.goodreads.com/quotes/137323-achievement-has-no-color)
+
+> "As argued by Gregory Clark in his book The Son Also Rises, social mobility is about the same in all societies, and is much lower than we usually propose. Regardless of how meritocratic a system claims to be, power tends to remain in the same families." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
 
 Meritocracy and Topocracy of Networks - Cesar Hidalgo
@@ -1031,6 +1065,9 @@ We need to be able to bet on anything (DO WE?)
 > "Where can I purchase a futures contract on the number of patent citations a physics paper will have in 5 years?" - [Daniel Gross](https://twitter.com/danielgross/status/1684209771895726081)
 
 > "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
+The only measure of life is how much you’ve given
+https://x.com/KirilovVik/status/1921637558687006787
+
 
 > "As Nassim Taleb puts it in his book Antifragile, anything done with the explicit intent to improve one’s status likely won’t improve one’s status. Status is a very specific game: any time you think about the game, you lose. After all, the most respected people achieved their status as a byproduct of altruism, honor, and integrity." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=As%20Nassim%20Taleb,honor%2C%20and%20integrity.)
 
@@ -1089,8 +1126,6 @@ We need to be able to bet on anything (DO WE?)
 > Will Storr, in his book “[The Status Game](https://www.amazon.com/Status-Game-Position-Governs-Everything-ebook/dp/B08H7Y414K)”, recommends pursuing warmth, sincerity, and competence. When you're warm, you’re basically saying “I’m not going to play a dominance game with you and you're not going to receive any threats from me — you're in a safe place.” Similarly when you're sincere, you're saying “I'm going to be virtuous and not going to bullshit you. When things are going badly, I'm going to tell you. And lastly when you’re competent, you’re saying “I'm going to be useful. I've got a skill that’s useful to our game, and I can help you benefit from it and maybe even learn how to do it too.” One can analyze status dynamics in a million ways, but in some ways maybe it’s as simple as being warm, sincere, competent—and loyal." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=it%E2%80%99s%20very%20difficult,competent%E2%80%94and%20loyal.)
 
 > "We want people to think we’re virtuous—that’s a big incentive for us. But there’s a convoluted structure surrounding this incentive. We can only look virtuous by making it look like we weren’t trying to look virtuous. Which means that, to win the virtue game, we have to do all sorts of social maneuvering: we have to send “buried signals” of anonymous or inconspicuous altruism (to get credit for not caring about getting credit), show “modesty” or “humility” (to look morally superior to non-humble people), “bravely” defy social norms (to win the approval of our peers), and display our adherence to ethical principles independent of our self-interest (which is, ultimately, in our self-interest). It’s all very confusing." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=We%20want%20people,all%20very%20confusing.)
-
-> "Social status among humans actually comes in two flavors: dominance and prestige. Dominance is the kind of status we get from being able to intimidate others (think Joseph Stalin), and on the low-status side is governed by fear and other avoidance instincts. Prestige, however, is the kind of status we get from being an impressive human specimen (think Meryl Streep), and it’s governed by admiration and other approach instincts." - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.goodreads.com/quotes/9425294-social-status-among-humans-actually-comes-in-two-flavors-dominance)
 
 
 

@@ -75,6 +75,18 @@ Traits of property rights:
 - clarity of allocation - does everyone know who owns what? Who owns the fish in this segment of the lake?
 
 
+
+> "The foundation of a flourishing civilization is an abundance of functional institutions." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+## On the importance of solving the succession problem for institutions
+
+> "The succession problem is the problem of ensuring founders can hand off institutions they have built to other founders. The key problems here are the creation and identification of sufficient skill, together with ensuring the next founder has inherited a position of sufficient power to remake the institution. Of course, even if the succession problem is handled once, it remains a problem for the next generation.
+>
+> If the succession problem remains unsolved, the only process of institutional reform available is the destruction of abandoned institutions by new ones, the process sometimes described as “creative destruction”. That our society valorizes rather than bemoans such outcomes unfortunately demonstrates that we have become accustomed to failed succession and notable dysfunction.
+>
+> We should temper our enthusiasm for intense political and economic competition and instead develop a greater appreciation for the importance of successful succession. This change would go far in remedying contemporary institutional sclerosis and stagnation." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: Capitalism
 ██████████████████████████████████████████████████████████████████
@@ -450,6 +462,12 @@ https://en.wikipedia.org/wiki/Parkinson%27s_law
 
 
 > "The crisis of bureaucracy always comes with a failure of processing information." - [Samo Burja](https://youtu.be/7GyFkRuqcNc?t=263)
+
+we waste so much government scientific money in the quest to appear like we're not wasting money - [Samo Burja](stranded technologies podcast 88 Samo Burja minute 43) rule by committee where everyone needs to think its a good idea, keeping things safe
+
+> "Committees are commonly used in our society because they create the illusion of avoiding risk. They are a wonderful device for avoiding responsibility while making the institution seem more rather than less accountable. Modern institutions have overloaded on actual risk while fleeing the appearance of it." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+
 
 > "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
 
@@ -893,6 +911,47 @@ property rights
 > "To arrive at the edge of the world's knowledge, seek out the most complex and sophisticated minds, put them in a room together, and have them ask each other the questions they are asking themselves." - [James Lee Byars](https://www.edge.org/about-edge)
 
 
+# Social competition, consumption, relative position & zero-sum status
+
+> "The world is not driven by greed; it's driven by envy." - [Charlie Munger](https://x.com/shaneaparrish/status/1748353737167356305)
+
+> "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
+
+> "Here’s a list of things we want and don’t want. See if you can spot the pattern:
+>
+> 1. We don’t just want to make money; we want to make more money than our neighbors.
+>
+> 2. We don’t just want a job; want to have a more prestigious job than our peers.
+>
+> 3. We don’t just want people to like us; we want people to like us more than they like other people.
+>
+> 4. We don’t just want to be educated; we want to have better educational credentials than our competitors on the job market.
+>
+> 5. We don’t just want to belong to a group; we want our group to be better than other groups.
+>
+> 6. We don’t just want to have opinions; we want to have more interesting opinions than other people.
+>
+> 7. We don’t just want to be attractive; we want to be more attractive than our rivals. 
+>
+> 8. We don’t just want to be a good person; we want to be holier than thou.
+>
+> 9. We don’t just want to help the environment; we want to be greener than thou.
+>
+> 10. We don’t just want a house; we want a prettier house, with a nicer view, in a better school district, than other people have.
+>
+> Did you spot the pattern? Of course you did. It’s the unflattering way our desires work. We’re constantly comparing ourselves to the people around us, and we’re never quite satisfied until we’re just a little bit better than, or better off than, they are. This isn’t true of all our desires (sometimes, we’re just thirsty and want a glass of water), but it’s true of a large percentage of them—dare I say most of them. The majority of our time and energy is consumed by small-minded social competition, and we really hate to admit this. Our need to cover it up is, perhaps, the greatest source of human bullshit.
+>
+> Why are our desires secretly like this? Because natural selection, the thing that made our desires, is an icky, competitive process. Animals compete with members of their species for genetic representation in future generations. They do this by competing for physical stuff (like food and territory), social stuff (like friends and mates), and the capacity to get social and physical stuff (like status and power). The competition rages over thousands of generations, and the winners leave more descendants than the losers. We are descendants of the winners, and we have inherited their winning characteristics, including their desire to win—and to conceal that desire from themselves and others (in order to win).
+>
+> ...
+>
+> The reason our desires exist is because our ancestors, who had them, reliably got more stuff than their rivals, who didn’t have them. That means our desires must have somehow caused our ancestors to get more stuff than their rivals. How did our desires cause our ancestors to get more stuff than their rivals? In all likelihood, by motivating them to do that.
+>
+> Here's the problem. It never ends. Our secretly icky desires cannot all be fulfilled. We cannot give everyone what they want if what they want is to be better than, or better off than, other people. Our desires simply don’t fit together. We will never all get along." - [There's a Problem with Our Desires, by David Pinsof](https://www.everythingisbullshit.blog/p/theres-a-problem-with-our-desires)
+
+^^ this is why we need an upper limit on consumption imposed through culture
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: constitutive and regulative rules
 ██████████████████████████████████████████████████████████████████
@@ -954,7 +1013,7 @@ John Adams (1790): no appetite in human nature is more universal than that for h
 
 
 
-> "The three ruling passions in human life are often said to be the desire for property, the desire for power, and the desire for prestige or status or esteem. The eVects of the Wrst desire are charted in standard economics, the eVects of the second in political science—and of course in the annals of history. But the eVects of the desire for esteem have escaped the sustained attention of social scientists. It is almost as if there were a conspiracy not to register or document the fact that we are, and always have been, an honour-hungry species." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
+> "The three ruling passions in human life are often said to be the desire for property, the desire for power, and the desire for prestige or status or esteem. The effects of the first desire are charted in standard economics, the effects of the second in political science—and of course in the annals of history. But the effects of the desire for esteem have escaped the sustained attention of social scientists. It is almost as if there were a conspiracy not to register or document the fact that we are, and always have been, an honour-hungry species." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 
 > "What economics and politics reveal in the domain of property and power is that the unintended consequences of people’s desires congeal into aggregate patterns that affect in turn what individuals can and choose to do. The competition for property dictates the prices at which individual goods can be obtained, for example, while the competition for power dictates the opportunities for individuals to find a place among others and to exercise influence. Both disciplines, however, have a normative as well as a positive or empirical side. They not only seek to reveal how things actually turn out as a result of people’s interactions, but also try to identify ways in which they might be made to turn out better. Thus economics specialises in identifying more efficient systems of production and distribution, politics in charting more stable ways of organising the dispensation whereby power is allocated among individuals and groups. And specialists in each discipline equally argue for improvements that would have beneficial consequences, not just for endogenous ideals like efficiency and stability, but also for ideals—perhaps more controversial ideals—like freedom, community, and equality.
 >
@@ -998,13 +1057,13 @@ John Adams (1790): no appetite in human nature is more universal than that for h
 
 > "Just as the economy of esteem is not insulated from the material economy or the regime of power, neither is it really a single, homogeneous system in itself. There will be many overlapping subsystems within the economy of esteem in almost any contemporary society. And almost every individual will belong to a number of those subsystems, having a stake in how he or she stands in each. The subsystems will compete with one another for the energy and time of participants. And they will often be in conflict, in the sense that a high performance in one will count against performing well in another. Teenagers at school will have a stake in how they are thought of by parents, teachers, and peers but will find, in all likelihood, that it is hard to do well simultaneously in each of those subcultures. Peers may deride them for a high standing in the other groups, for example, and may drive them into systematically underperforming on those fronts." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 
-> "Esteem incentives operate in a context where there are feedback eVects between individual action and the social context within which such action is pursued. The performance level of each individual contributes to the standards by which each performer is assessed. Accordingly, there are, as we might put it, unintended consequences in play in the economy of esteem. To appeal to the terminology of Schelling’s (1978) book, micro-motives create macro-behaviour patterns that are not simply a direct magnification of the individual case." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
+> "Esteem incentives operate in a context where there are feedback effects between individual action and the social context within which such action is pursued. The performance level of each individual contributes to the standards by which each performer is assessed. Accordingly, there are, as we might put it, unintended consequences in play in the economy of esteem. To appeal to the terminology of Schelling’s (1978) book, micro-motives create macro-behaviour patterns that are not simply a direct magnification of the individual case." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 
-> "Esteem eVects still play an extensive role, both in explaining the allocation of persons across activities that might be sources of esteem, and in disciplining poor performance and encouraging high performance in those domains that do not admit the possibility of exit." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
+> "Esteem effects still play an extensive role, both in explaining the allocation of persons across activities that might be sources of esteem, and in disciplining poor performance and encouraging high performance in those domains that do not admit the possibility of exit." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 
-> "When the number of persons in a given population who comply is relatively small, there will be positive esteem associated with so acting. Then, as the number of compliers increases, the amount of esteem attached to so acting will decline and conceivably disappear. For example, when few people tell the truth, doing so will be remarkable and represent a potentially significant source of esteem. But when most people are telling the truth, truth-telling is unremarkable and its esteem utility on that account unlikely to be very high. However, this fact does not necessarily imply that, over the range where most people conform, esteem eVects disappear. For, as it becomes a matter of course that people comply, it tends to become a source of disesteem to fail to do so. Accordingly, esteem-based incentives to comply with the norm are operative with varying levels of intensity more or less over the whole range. At the same time, the level of compliance that is forthcoming will be a positive function of the amount of esteem attached. The larger the esteem reward for complying, and/or the larger the disesteem penalty for not complying, the higher the level of compliance is likely to be." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
+> "When the number of persons in a given population who comply is relatively small, there will be positive esteem associated with so acting. Then, as the number of compliers increases, the amount of esteem attached to so acting will decline and conceivably disappear. For example, when few people tell the truth, doing so will be remarkable and represent a potentially significant source of esteem. But when most people are telling the truth, truth-telling is unremarkable and its esteem utility on that account unlikely to be very high. However, this fact does not necessarily imply that, over the range where most people conform, esteem effects disappear. For, as it becomes a matter of course that people comply, it tends to become a source of disesteem to fail to do so. Accordingly, esteem-based incentives to comply with the norm are operative with varying levels of intensity more or less over the whole range. At the same time, the level of compliance that is forthcoming will be a positive function of the amount of esteem attached. The larger the esteem reward for complying, and/or the larger the disesteem penalty for not complying, the higher the level of compliance is likely to be." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 
-> "Richard McAdams (1997) offers an example of a possible bootstrap phenomenon in relation to ideals of recycling. The story, as McAdams tells it, goes this way. Initially, recycling is a somewhat eccentric practice engaged in only by the environmental enthusiast extreme. Within that group, however, recycling gradually takes on the status of an appropriate ideal. And in the process, the practice accumulates an increasingly articulate normative defence. With that normative defence in place, those who recycle enjoy a certain level of esteem, at least from among the environmentally conscious. Recycling comes to signal a special environmental sensitivity that even those who don’t practise it are increasingly inclined to applaud. More and more people recycle in response to the esteem attached to the practice—and gradually the practice becomes normal. Once normal, however, it no longer reflects any particular credit on its practitioners, so positive esteem evaporates. At the same time, those who don’t recycle now begin to become conspicuous. Their conduct increasingly reveals an environmental insensitivity that is at Wrst mildly irritating and then begins to seem, as it becomes rarer, positively intransigent. Eventually, an apparently stable equilibrium is reached in which the only non-compliers are the especially shameless, the determined anti-environmentalists, and those who like to oVend. The practice of recycling has become established, bootstrapped up from an initial situation in which the practice was relatively rare." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
+> "Richard McAdams (1997) offers an example of a possible bootstrap phenomenon in relation to ideals of recycling. The story, as McAdams tells it, goes this way. Initially, recycling is a somewhat eccentric practice engaged in only by the environmental enthusiast extreme. Within that group, however, recycling gradually takes on the status of an appropriate ideal. And in the process, the practice accumulates an increasingly articulate normative defence. With that normative defence in place, those who recycle enjoy a certain level of esteem, at least from among the environmentally conscious. Recycling comes to signal a special environmental sensitivity that even those who don’t practise it are increasingly inclined to applaud. More and more people recycle in response to the esteem attached to the practice—and gradually the practice becomes normal. Once normal, however, it no longer reflects any particular credit on its practitioners, so positive esteem evaporates. At the same time, those who don’t recycle now begin to become conspicuous. Their conduct increasingly reveals an environmental insensitivity that is at first mildly irritating and then begins to seem, as it becomes rarer, positively intransigent. Eventually, an apparently stable equilibrium is reached in which the only non-compliers are the especially shameless, the determined anti-environmentalists, and those who like to oVend. The practice of recycling has become established, bootstrapped up from an initial situation in which the practice was relatively rare." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 
 > "Part of the reason for our interest in publicity is that it seems to us to be the chief means by which the forces of esteem can be channelled and directed. By increasing the exposure afforded to performances, one can increase the associated esteem incentives without incidentally inducing changes in the basic operation of the esteem economy. Publicity is, in that sense, the main lever available for policy intervention." - [The Economy of Esteem, An Essay on Civil and Political Society, by Geoffrey Brennan and Philip Pettit](https://www.goodreads.com/book/show/1756178.The_Economy_of_Esteem)
 

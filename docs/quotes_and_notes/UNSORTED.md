@@ -3335,8 +3335,6 @@ In biology, within an organism, different organs or cells don't try to hide info
 
 A parallel reputational sensemaking network
 
-Participatory social engineering
-
 
 
 
@@ -4059,9 +4057,6 @@ proper credit assignment is important for 2 reasons: to know who to ask in the f
 A true rules-based order is more powerful than the blob of people that are leading any government
 
 
-
-The only measure of life is how much you’ve given
-https://x.com/KirilovVik/status/1921637558687006787
 
 
 
@@ -5911,8 +5906,6 @@ The hottest new programming paradigm is society's incentives.
 
 
 > "Communism forgets that life is individual. Capitalism forgets that life is social, and the Kingdom of Brotherhood is found neither in the thesis of Communism nor the antithesis of Capitalism but in a higher synthesis. It is found in a higher synthesis that combines the truths of both." - [Martin Luther King, Jr.](https://en.wikipedia.org/wiki/Economic_democracy#:~:text=Dr.%20Martin%20Luther,truths%20of%20both%22.)
-
-we waste so much government scientific money in the quest to appear like we're not wasting money - [Samo Burja](stranded technologies podcast 88 Samo Burja minute 43) rule by committee where everyone needs to think its a good idea, keeping things safe
 
 what if there was an incentive to credit your sources instead of simply taking credit yourself for ideas or for covering something that people find important but that you secretly saw it first in Palladium Magazine for example but decided not to say where you got the inspiration to write about it as a journalist?
 

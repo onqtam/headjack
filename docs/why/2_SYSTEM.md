@@ -57,6 +57,13 @@ It incentivized the development of rational cognition
 # SECTION: Governance & how broken it is
 ██████████████████████████████████████████████████████████████████
 
+> "In the West today, we operate under the influence of our own key philosophy, which we can call scientism: the tendency to rely on scientific claims to describe the functioning of society, even when there is no empirical reason to assume that they apply. We act as if we are already living in a scientifically-planned society, immune to collapse on a timescale that any of us have to worry about. This is very far from the truth. We are certainly living in socially-engineered societies, but they are not scientifically planned in any straightforward way. Our organs of economic management do not secretly know how the economy really works. Our systems of political regulation are operating on the fumes of their institutional inheritance from two or three generations ago—the last spurt of institutional growth in Western societies happened roughly during the 1970s." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+> "Our society is dominated by large bureaucracies. These bureaucracies break down the processing of physical goods and information into discrete tasks, such as how a factory worker puts doors on a car, or a stock trader buys futures contracts. These tasks are shorn of their context and executed in a systematized environment whose constraints are quite narrow: put the car door in, increase the portfolio value. Our society is thoroughly compartmentalized. This compartmentalization isn’t driven by the division of labor, but rather by the need to make use of misaligned talent without empowering it. By radically limiting employees’ scope of action, you make office politics more predictable. By fragmenting available knowledge, you can leverage information asymmetries to the intellectual or material advantage of the center. Some of this is necessary for scaling organizations beyond what socially connected networks can manage—but move too far towards compartmentalization, and it becomes impossible to accomplish the original mission of the organization." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+> "Absent reform, I think we are in for a slow century of decline starting in about 2030 or so." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+
 Those in power are incapable of something better
 
 > "You can’t fool all the people all the time, but you can fool enough of them to rule a large country." - [Will Durant](https://www.goodreads.com/quotes/3240120-you-can-t-fool-all-the-people-all-the-time-but)
@@ -676,6 +683,9 @@ Sam altman in koenigsegg car picture
 > "Consumption seems to be our favorite high, our nationally sanctioned addiction, the all-American form of substance abuse." - [Your Money or Your Life, by Vicki Robin](https://www.goodreads.com/quotes/9530885-consumption-seems-to-be-our-favorite-high-our-nationally-sanctioned)
 
 Our perennial ["war of all against all"](https://en.wikipedia.org/wiki/Bellum_omnium_contra_omnes) manifesting in conspicuous consumption and status games will be our doom.
+
+> "Without consumption, the American machine stops. Something else may take its place." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
 
 the century of the self
 
