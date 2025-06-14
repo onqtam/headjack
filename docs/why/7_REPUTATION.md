@@ -73,6 +73,8 @@ having your post (successfully) labeled as a duplicate of something else could i
 
 > "Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have—or don’t have—in their portfolio." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1176143-never-ask-anyone-for-their-opinion-forecast-or-recommendation-just)
 
+> "Don’t debate people in the media when you can debate them in the marketplace." - [Naval](https://x.com/NavalismHQ/status/1836978596465848461)
+
 
 
 
@@ -235,6 +237,8 @@ When tracking portfolio success - ppl will initially define the parameters & ris
 ██████████████████████████████████████████████████████████████████
 # SECTION: Indexes (ESG, CPI, etc)
 ██████████████████████████████████████████████████████████████████
+
+look at me - meme - we define the indexes and rankings now
 
 > "Are we being silently poisoned? It’s an empirical question. Just test food. And publish ratings. It’s a form of decentralized regulation." - [Balaji Srinivasan](https://twitter.com/balajis/status/1789322947490205862)
 
@@ -642,12 +646,8 @@ People grind for status in the dumbest possible pay-to-win “games” - we need
 
 > "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
 
+> "The first rule of compounding is to never interrupt it unnecessarily." - [Charlie Munger](https://x.com/morganhousel/status/1049392552175124481)
 
-
-<!--
-> "Deriving comfort from anything other than status signals low status." - [Steven Kaas](https://twitter.com/stevenkaas/status/223317583737257984)
-lol wut...
--->
 
 
 # Status as a Service

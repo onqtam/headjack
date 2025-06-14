@@ -42,7 +42,7 @@ We're not good writers, but we're good curators - we have good judgement and tas
 
 
 
-Also, every fact, opinion, argument & subargument, relation & expression that's in this book will eventually be encoded as structured data in the giant global graph of the global brain, from which we'd be able to generate a textual (or multimodal) representation on any level of abstraction with the help of AI in a back-and-forth conversational manner. Why bother with trying to rewrite the words of others for some marginal benefit of brevity at this point in time if it'll eventually be obsolete? In the future everything that's in this book will be seen at best as a first draft of an architectural synthesis for the self-organization of our species obsolete both in the arguments (with the exception of whatever essence passes the gauntlet of selection) and in the form of expresion (text). This exact text should not and will not be read by anyone in 100 or 1000 years - it will have morphed into whatever its successor is. The seed no longer exists by the time it's grown into a tree. Text is dead - it's just not evenly distributed.
+Also, every fact, opinion, argument & subargument, relation & expression that's in this book will eventually be encoded as structured data in the giant global graph of the global brain, from which we'd be able to generate a textual (or multimodal) representation on any level of abstraction with the help of AI in a back-and-forth conversational manner. Why bother with trying to rewrite the words of others for some marginal benefit of brevity at this point in time if it'll eventually be obsolete? In the future everything that's in this book will be seen at best as a first draft of an architectural synthesis for the self-organization of our species obsolete both in the arguments (with the exception of whatever essence passes the gauntlet of selection) and in the form of expresion (text). This exact text should not and will not be read by anyone in 100 or 1000 years - it will have morphed into whatever its successor is. The seed no longer exists by the time it's grown into a tree. Text is dead - it's just not evenly distributed. This book will dissolve/(meta)morph into the symbolic subtrate that it will give birth to.
 
 # The First Book With Multiple Titles
 
@@ -112,7 +112,11 @@ The Paradigm Shift
     Incentives, Information Processing & Social Organization (What up Kuhn)
 The Big Sell
     selling an ideology
+The Melting Pot
+    Taking diversity and producing coherence and cooperation around what matters most (and what's true)
+(perpetually) Evolving Towards Nash Equilibrium in societal organization
 The Edge of Chaos
+    > "The art of progress is to preserve order amid change and to preserve change amid order." - [Alfred North Whitehead](https://www.azquotes.com/quote/521410)
 Rejecting Mediocrity
 “It Is Known”
     Common knowledge for self-organizing collectives
@@ -150,6 +154,8 @@ The Matrix part 2/4
 Birthing Collective Consciousness
 Embracing Complexity
 Genesis / The seed
+The Caterpillar
+    This book will dissolve/morph into the symbolic subtrate that it will give birth to.
 Solving the world's largest collective action problem
 Collective Plasticity
     upregulating our capacity for conscious collective change

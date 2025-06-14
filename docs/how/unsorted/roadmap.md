@@ -145,6 +145,9 @@ development) are always to be found within the arts." - [Hanzi Freinacht](https:
 
 Yo Fred, hit us up!
 
+We have sympathy for VCs... most of them miss most of the generational companies and we wanted to make it easy for them - to make it glaringly obvious - that this is a good bet to make. Hence this book. You're welcome.
+If you're a VC and you don't participate in any way, shape, or form in this new paradigm/ecosystem - you're NGMI.
+
 # geopolitics
 
 The first countries to utilize this architecture will be the biggest winners.

@@ -57,8 +57,6 @@
 
 > "God is the unlimited conceptual realization of the absolute wealth of potentiality." - [Alfred North Whitehead](https://www.goodreads.com/quotes/8139417-god-is-the-unlimited-conceptual-realization-of-the-absolute-wealth)
 
-> "The art of progress is to preserve order amid change and to preserve change amid order." - [Alfred North Whitehead](https://www.azquotes.com/quote/521410)
-
 
 
 > "We are hurtling toward a day of ecological reckoning. We should have acted many years ago to contain the damage and build a bridge to a different kind of civilization. Now we are faced with an increased population, worse pollution, dwindling resources, progressive biological destruction, much greater complexity, compounding debt, and enormous inertia in the system—a nexus of problems that have no separate solutions, only an aggregate solution requiring a total revolution in our way of life." - [William Ophuls](https://www.goodreads.com/quotes/9727827-we-are-hurtling-toward-a-day-of-ecological-reckoning-we)
@@ -72,13 +70,11 @@
 
 > "We are but whirlpools in a river of ever-flowing water. We are not stuff that abides, but patterns that perpetuate themselves. A pattern is a message, and may be transmitted as a message." - [Norbert Wiener](https://www.azquotes.com/quote/703349)
 
-> "Until we in the community have made up our minds that what we really want is expiation, or removal, or reform, or or the discouragement of potential criminals, we shall get none of these, but only a confusion in which crime breeds more crime." - [Norbert Wiener](https://www.azquotes.com/quote/1084944)
+> "Until we in the community have made up our minds that what we really want is expiation, or removal, or reform, or the discouragement of potential criminals, we shall get none of these, but only a confusion in which crime breeds more crime." - [Norbert Wiener](https://www.azquotes.com/quote/1084944)
 
 
 
-> "The first rule of compounding is to never interrupt it unnecessarily." - [Charlie Munger](https://x.com/morganhousel/status/1049392552175124481)
 
-> "Don’t debate people in the media when you can debate them in the marketplace." - [Naval](https://x.com/NavalismHQ/status/1836978596465848461)
 
 
 
@@ -115,7 +111,19 @@
 >
 > • We thrive when we can feel good about ourselves and have avenues for personal growth and improvement.
 >
-> " - [The BUC(k)ET Model of Core Social Motives, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202402/the-bucket-model-of-core-social-motives)
+> ... Susan Fiske is a major figure in the field [social psychology] who developed the core social motive approach to social psychology. Based on much empirical research, it identifies five core motives that can be organized in the acronym BUC(k)ET as follows: Belonging, Understanding, Control, Enhance self, Trust others. This post summarizes these core motives and shows how we might use the framework to understand human social dynamics.
+>
+> • **Belonging**: Do you feel loved and cared for by your family? Are you accepted and admired by your peers? Do you feel pride in the institutions you take part in? All of these relate to the concept of belonging. Another key aspect of belonging pertains to conformity and the way that people tend to follow the expectations, norms, and trends of a group.
+>
+> • **Understanding**: Have you ever felt frustrated because you were confused and just could not make sense of a situation or of how you were treated? Maybe a romantic partner left you but gave no reason. Or maybe you were given a task you should be able to solve but could not. Or maybe you were even watching a Netflix show that you felt just did not make any sense. All of these negative reactions can be framed by the core motive to understand. Humans are meaning-making creatures that have a strong drive to make sense of their world, share that with others, and have their expectations met. When people lose a sense that the world makes sense and can be predicted, then they feel alienated and frustrated and are motivated to develop new mental models or leave the situation and seek more familiar territory.
+>
+> • **Control**: Controlling the flow of resources is crucial to survival and reproductive success. In addition, demonstrating control in social situations is suggestive of someone who has power and can be effective at achieving one’s goals. We can see the motive to control when we flip it and consider how people feel when they feel helpless, incompetent, and inferior.
+>
+> • **Enhancing self**: Human beings have significant capacities for self-reflection, and there is much research that people are motivated to think of themselves in as positive light as they can justify. Put differently, it is painful to think of one’s self as weak, foolish, or lesser than other people. In contrast, people feel good about themselves when they have a sense they are growing, improving, and contributing to the world in a positive way. One way the self-enhancement motive shows up is via self-serving biases. Consider, for example, when things go wrong that they are responsible for, people tend to blame others or bad luck or temporary factors that can be changed; however, when things go right, the reason is because the person is a good, competent individual.
+>
+> • **Trust**: If everyone lied and no one could be trusted to follow through on anything, society would quickly break down. By framing it in the negative, we can highlight how important trust is for human group relations. As such, it is not surprising that people seek environments where they feel like they can trust in others and be trusted themselves. This shows up in the sense that the group they are a part of is honest, predictable, and will treat them justly, and it shows up in how they trust the ingroup experts that lead their group.
+>
+> What are the situations people thrive in? Conversely, when are people floundering and distressed? The BUC(k)ET framework helps us understand the kind of social relations humans seek and what kinds of environments they will tend to flourish in. It says people do well when they have a deep sense of belonging and trust the institutions and experts that lead them, when they feel like they understand the world and can generate shared meaning-making with important others, when they feel like they can control the flow of resources, and when they can feel good about themselves and have avenues for personal growth and improvement. We can flip this around and look at modern times and see that, at a societal level, we are experiencing many holes in our BUC(k)ET... People’s trust in institutions is at an all-time low. Our national identity is fractured, and tensions between groups are high. We are facing a meaning crisis, and are so overloaded with information and change that understanding is very hard. And our lifestyles are in such a state of flux that a sense of control and stable personal growth are difficult to achieve. Perhaps we can use the BUC(k)ET framework to consider the kinds of changes we need to make to get things moving in a better direction." - [The BUC(k)ET Model of Core Social Motives, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202402/the-bucket-model-of-core-social-motives)
 
 > "... the core cognitive process in animals is functionally organized by recursive relevance realization, and ... the domain of Mind2 (subjective conscious experience) is a model of mindedness constituted by focal recursive relevance realization that affords the animal perspectival knowing across time.
 >
@@ -157,9 +165,9 @@
 >
 > Consistent with work from Tomasello, humans have particularly strong capacities among the great apes to track others' perspectives and feelings, and develop a shared attention and intention. Tomasello calls this the intersubjective “we” space that can form as humans sync up with others. Following the logic above, this suggests massive mapping of self across time in relationship to many others and in many contexts. The result is a dynamic picture of the human primate, pre-verbal self that is very consistent with both James’ assertion that the self is a function of the other and Baumeister’s claim that there is a felt sense of unity." - [A New Integrative Model of the Self, by Gregg Henriques, John Vervaeke & Christopher Mastropietro](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202109/a-new-integrative-model-of-the-self)
 
-> "" - [, by Gregg Henriques]()
 
-> "" - [, by Gregg Henriques]()
+
+> "Consciousness refers to the experience of being in the world, whereas the self refers to the domain of awareness that has ownership of that experience and a sense of continuity with it." - [The Four Domains of Human Consciousness, by Gregg Henriques](https://www.psychologytoday.com/us/blog/theory-of-knowledge/202311/the-four-domains-of-human-consciousness)
 
 > "" - [, by Gregg Henriques]()
 
@@ -219,6 +227,12 @@ what if you actually improved something through acts of speculation - and not me
 
 
 > "Being wrong by 70 years on a forecasting horizon of 85 years is not an acceptable error when trillions of dollars and the policymaking of the entire planet are on the line." - [Adam Dorr](https://x.com/adam_dorr/status/1925567850200039477)
+
+related: The Universality and Predictability of Technology Diffusion - how J. Doyne Farmer properly predicted solar costs & adoption in contrast to most experts
+https://www.youtube.com/watch?v=PxdR4ZCv3Qo
+also related (almost the same talk): A fast green energy transition is likely to be cheaper than business as usual
+https://www.youtube.com/watch?v=IDyf7Qy6Dak
+
 
 
 > "What You *~~Do~~* **Are** Is *~~Who You Are~~* **What We Are**." - [Ben Horowitz](https://www.goodreads.com/book/show/44063692-what-you-do-is-who-you-are), probably
