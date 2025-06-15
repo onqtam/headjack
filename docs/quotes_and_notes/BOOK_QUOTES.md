@@ -3641,41 +3641,13 @@ Milton Friedman: “The only way that has ever been discovered to have a lot of 
 
 > "The Key Benefits of Peer Production for Businesses 
 >
-> *Harnessing external talent.* ... *Keeping up with users.* ... *Reducing costs.* ... *Taking the friction out of collaboration*. As the need for collaboration increases, firms are finding that problems related to ownership and exploitation of intellectual property can make proprietary collaborations difficult. Participants may have trouble clearly defining the boundaries of their intellectual contributions, and concerns about public disclosure of proprietary information and disputes over future patent rights can create friction. Avoiding these problems is one reason why a growing number of firms are embracing open models of collaborative innovation.
+> *Harnessing external talent.* ... *Keeping up with users.* ... *Reducing costs.* ... *Taking the friction out of collaboration*. As the need for collaboration increases, firms are finding that problems related to ownership and exploitation of intellectual property can make proprietary collaborations difficult. Participants may have trouble clearly defining the boundaries of their intellectual contributions, and concerns about public disclosure of proprietary information and disputes over future patent rights can create friction. Avoiding these problems is one reason why a growing number of firms are embracing open models of collaborative innovation." - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
+
+> "... we recognize that rewarding creativity and investment is central to promoting innovation. In theory, intellectual property law exists to do just that. But expansion in the law’s breadth, scope, and term over the last thirty years has resulted in an intellectual property regime that is radically out of line with modern technological, economic, and social realities. This threatens the chain of creativity and innovation on which we (and future generations) depend. In today’s economy we need an intellectual property system that rewards invention and encourages openness—one that fuels private enterprise and sustains the public domain. The existing intellectual property system isn’t working as well as it could... On the one hand, property rights in basic research offer the promise of substantial economic gain from increased commercialization of inventions. On the other hand, commercialization could erode the culture of open science that has fueled centuries of scientific discovery.
 >
-> " - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-> "" - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
-
-
+> Science and commerce depend upon the ability to observe, learn from, and test the work of others. Without effective access to data, materials, and publications, the scientific enterprise becomes impossible. Recent studies show a disturbing trend: Increasing secrecy, pressures to patent, cumbersome technology-transfer agreements, and complex licensing structures are making it hard for scientists to share research data. In a recent survey by the American Association for the Advancement of Science, 35 percent of academic researchers reported difficulties that had affected their research because they were denied access to data, while 76 percent of scientists working in industry reported similar problems.
+>
+> ... In short, we must encourage innovation without eroding the vitality of the scientific and cultural commons. We need an incentive system that rewards inventors and knowledge producers and encourages dissemination of their output. " - [Wikinomics - How Mass Collaboration Changes Everything](https://www.goodreads.com/book/show/154341.Wikinomics)
 
 
 
