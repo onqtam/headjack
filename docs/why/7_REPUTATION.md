@@ -1,22 +1,4 @@
 
-
-
-
-## On the importance of reputation for integrity, honesty & cooperation
-
-> "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81)
-
-> "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
-
-negative reputation and scammers
-google reviews !!! - a reputation system
-
-There is no accountability without accounting. In business and finance accounting is about money. In the status, purpose, and meaning world accounting is calculated reputation.
-
-
-
-
-
 # What is Status
 
 > "The story idealists sometimes tell of humanity says we're natural seekers of equality. This isn't true. Utopians talk of injustice whilst building new hierarchies and placing themselves at the top. We all do this. It's in our nature. The urge for rank is ineradicable. It's the secret goal of our lives, to win status for ourselves and our game - and gain as much of it over you and you and you as we can. It's how we make meaning. It's how we make identity. It's the worst of us, it's the best of us and it's the inescapable truth of us: for humans, equality will always be the impossible dream." - [Will Storr](https://www.goodreads.com/quotes/11892473-the-story-idealists-sometimes-tell-of-humanity-says-we-re-natural)
@@ -515,7 +497,9 @@ an environment where a single identity is used for a long time and it accrues re
 
 
 
-## Skin in the Game
+# Skin in the Game
+
+TODO INTERNET use grok to generate someone going all in with bits of their own skin
 
 > "The ultimate result of shielding men from the effects of folly is to fill the world with fools." - [Herbert Spencer](https://www.goodreads.com/quotes/79987-the-ultimate-result-of-shielding-men-from-the-effects-of)
 
@@ -541,8 +525,7 @@ an environment where a single identity is used for a long time and it accrues re
 
 </p></details>
 
-
-## Differences Between Money & Reputation
+# Differences Between Money & Reputation
 
 > "Reputation should not be traded. Ever. That’s not what it is for. It is bound to an identity and is only meaningful when it continues to be bound to that identity. If I can buy or spend reputation rather than earning it by performing in the way the reputation currency indicates, then it is a meaningless signal that has broken loose from any sense that the reputation is supposed to impart." - [Avoid Blunders in Designing Reputation Systems, by Arthur Brock](https://www.artbrock.com/2019/01/23/avoid-blunders-in-designing-reputation-systems#:~:text=Reputation%20should%20not,supposed%20to%20impart.)
 
@@ -576,7 +559,13 @@ an environment where a single identity is used for a long time and it accrues re
 >
 > I think if you take a few moments to look at the kind of behaviors that tracking those reputational elements would incent, you might see it’s a heck of a lot better than “feedback extortion” (Threatening to give negative feedback if you receive negative feedback)." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange)
 
-## P2P Credentials, Vouching for Others & Matchmaking
+Trust requires reputation or some other form of skin in the game. There is no accountability without proper accounting - they share the same root. In business and finance accounting is done with money. In the status economy accounting happens through reputation.
+
+> "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81)
+
+> "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
+
+# P2P Credentials, Vouching for Others & Matchmaking
 
 > "If I vouch for someone, it should NOT be like spending reputation like lowering my balance, however, there should be a consequence, whether positive or negative, to the person’s performance. If they perform well, then my reputation should actually INCREASE for choosing to vouch well. If they perform poorly, my reputation should diminish." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=If%20I%20vouch,reputation%20should%20diminish.)
 
@@ -590,13 +579,14 @@ an environment where a single identity is used for a long time and it accrues re
 >
 > ... P2P credential platforms will democratize talent discovery at scale, enabling people all over the world to discover the next Mark Zuckerberg or Sheryl Sandberg (And others in other industries) without having to write a check to prove their talent discovery abilities." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials)
 
-And access to talent discovery will be democratized - currently very few are actually in a position to write a check.
+Talent discovery will be democratized - currently very few are actually in a position to write a check in a Seed or Series A round.
 
 > "Where can I purchase a futures contract on the number of patent citations a physics paper will have in 5 years?" - [Daniel Gross](https://twitter.com/danielgross/status/1684209771895726081)
 
 > "If you had a map of the other person’s knowledge tree, colored by interest, you could easily figure out what to talk about. But we don’t carry our colored knowledge trees around, so we’re forced to use the highly inefficient, sequential system of talking to touch on lots of topics until we find something mutually interesting... Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge)
 
 By enabling people to express their interests/opinions/goals in a deduplicated & unambiguous way and to prove their credibility in different fields we'll be able to see the overlap of interests/opinions and be able to quantify it with a single click and we'd be able to rank/sort/search in any way we wish. We can improve literally any kind of matchmaking - including dating.
+
 
 
 https://twitter.com/eriktorenberg/status/1748056677449138500
@@ -629,9 +619,7 @@ https://en.wiktionary.org/wiki/calculemus
 
 > "It is obvious that if we could find characters or signs suited for expressing all our thoughts as clearly and as exactly as arithmetic expresses numbers or geometry expresses lines, we could do in all matters insofar as they are subject to reasoning all that we can do in arithmetic and geometry. For all investigations which depend on reasoning would be carried out by transposing these characters and by a species of calculus." - [Gottfried Wilhelm Leibniz](http://www.artandpopularculture.com/Gottfried_Leibniz#:~:text=It%20is%20obvious,species%20of%20calculus.)
 
-██████████████████████████████████████████████████████████████████
-# SECTION: PageRank 2.0
-██████████████████████████████████████████████████████████████████
+# PageRank 2.0 & Indexes (ESG, CPI, etc)
 
 Run PageRank on the data => EventRank!
 
@@ -658,19 +646,12 @@ this is not page rank - this is entity rank
 When tracking portfolio success - ppl will initially define the parameters & risk against which they should be judged - aiming for 100x vs minimizing downside
 
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Indexes (ESG, CPI, etc)
-██████████████████████████████████████████████████████████████████
-
 look at me - meme - we define the indexes and rankings now
 TODO INTERNET
 
 > "Are we being silently poisoned? It’s an empirical question. Just test food. And publish ratings. It’s a form of decentralized regulation." - [Balaji Srinivasan](https://twitter.com/balajis/status/1789322947490205862)
 
 greenwashing
-
-
-# =====================
 
 
 
