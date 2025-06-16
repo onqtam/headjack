@@ -145,6 +145,7 @@ Organizing the world's information, but for real
 Cultural Enlightenment or Bust
     > "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
 The One
+E pluribus unum - From many, one
 Giga Brain - or just Giga
 The Best of Us
 The Matrix part 2/4
@@ -154,6 +155,7 @@ The Matrix part 2/4
 Birthing Collective Consciousness
 Embracing Complexity
 Genesis / The seed
+Black mirror episode about social credit score
 The Caterpillar
     This book will dissolve/morph into the symbolic subtrate that it will give birth to.
 Solving the world's largest collective action problem
@@ -172,13 +174,15 @@ The TL;DR of 1000 books, papers, blogs, and talks
 Incentives from first principles
 In the depths of self-organization
 The Recognition Economy
+Collectivito, ergo sum, or [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) - `"I am because we are"`
+    > "The idea of [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy), I am because we are, It was this foundational concept of human beings before the thing we call civilization, right? I Am Because We Are was, like, just at the most prosaic level, nature did not select for individual sapiens. It only selected for groups of sapiens. Individual sapiens in evolutionary environments were all dead. And so what's best for me that fucks the tribe is not a concept. That's not a thing, right? What is best for the tribe that I can't exist without of? I am because we are, I would not exist. I'd be dead without all of us. That's like the basic insight. So I am, because we are obviously just starts with, I couldn't survive without us. But then it's also deeper, which is I think in words that I didn't invent that all these other people invented. And, but my own most intimate thing, my thoughts with myself are in a language that I didn't make. I am... my thoughts were made by other people, right? The... language of my thoughts, my understanding of the world was transmitted to me largely by other people. The tools that I use, the things that I benefit from, the, all of that, that I am, almost all the things I think of as I am, because we are, right? Because of things that were created. And it goes deeper, because the we was never, never just meant our tribe. It also meant nature. The extension to all our relationships, and all our relationships was all life, and life didn't just mean biological, which is why they were animistic. Those cultures were all animistic. The spirit of the sun, the spirit of the river, the spirit of everything, because it was a very clear understanding. What would I be without the tribe? I'd be dead. What would I be without the sun? I would have never existed. What would I be without the galactic center around which the sun orbits? I wouldn't exist. What would I be without the gravitational field? What would I be without the soil microbes? What would I be without plants? What would I be without all of that? I wouldn't be. So, I, that is not the emergent property of we, isn't even a thing. It's not even thinking." - [Daniel Schmachtenberger](https://youtu.be/tmusbHBKW84?t=6699)
 System 10b
     from gameA to gameB - jango unchained meme - "the b is binary" from "the ... is silent"
 Culturio - like Factorio
 WikiRedditOverflow
 Religion: the only truly scalable coordination & cooperation mechanism
 The World (Self) Model
-Jailbreaking the Simulation
+Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
 Participatory Intelligent Design
 Memetic Supremacy

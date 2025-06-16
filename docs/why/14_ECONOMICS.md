@@ -917,6 +917,8 @@ property rights
 
 > "The world is not driven by greed; it's driven by envy." - [Charlie Munger](https://x.com/shaneaparrish/status/1748353737167356305)
 
+> "Researchers find our reward systems are activated most when we achieve relative rather than absolute rewards; we’re designed to feel best not when we get more, but when we get more than those around us." - [Will Storr](https://www.goodreads.com/quotes/11605041-researchers-find-our-reward-systems-are-activated-most-when-we)
+
 > "Men do not desire to be rich, but to be richer than other men." - [John Stuart Mill](https://www.azquotes.com/quote/837834)
 
 > "Here’s a list of things we want and don’t want. See if you can spot the pattern:

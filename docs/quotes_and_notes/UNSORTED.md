@@ -914,8 +914,6 @@ how the saussage is made when it comes to legitimacy - full raceability & accoun
 
 
 
-What is tinder? More private chats and browsing. Case study: how to do tinder?
-
 What if every industry was regulating itself? Through transparency
 
 Every nation will be able to archive all data and not have to 100% trust a foreign AWS for example - there’s always a backup option to participate and be completely independent
@@ -5055,6 +5053,8 @@ Cancer is the breakdown of multicellular integration
 
 Use the NPC meme where someone is installing new mental OS and how we should do that culturally
 
+
+
 We are more justifying than rational - we are motivated reasoners
 
 All reasoning is motivated
@@ -6427,6 +6427,7 @@ Humans built the pyramids, humans made the atom bomb, humans went to another pla
 While a single nuclear weapon exists on this planet, we are a failure as a species.
 We should all be insulted by this truth
 We are a failure as a species only as much as our current capacity for the biggest blast radius
+we know so much and yet we're incapable of figuring out how not to spend 10% or a double digit percentage or however much on militarism as a species
 
 From divide and conquer to integrate and prosper
 

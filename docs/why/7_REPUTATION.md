@@ -1,131 +1,15 @@
 
-- compartmentalization
-Fungibility is a loss of information - good for some things (reduces friction, single metric to optimize, etc.), bad for others.
-Compartmentalizing expertise
-We need compartmentalization of expertise - making it impossible to move value without the loss of information (which the fungibility of money enables)
-The commitment of time and attention to problem-solving should be informationally separated from the influence of money which is perfectly fungible
-
-# Credentials / Accreditation
-
-
-# Regulating Prestige Through Awards
-
-> "The practice of giving awards and honors allows an individual, such as a king, or an institution, such as the Academy of Motion Picture Arts and Sciences, to regulate status within a society, organization, or industry. Rather than regulating all behavior by all people at all times, an award sets the bar for what is the highest status behavior or achievement and, by virtue of its public nature, allows everyone else to figure out for themselves how they should aspire to behave as well." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
-
-> "We usually think honors are about the recipient, but the giver of honors also gains. The giver and recipient collaborate to publicly assert that the recipient is worthy of prestige, and that the giver has the authority to grant it. Honors are thus acts of an alliance to mutually boost prestige... The audience also participates in this transaction of prestige. They either accept the whole affair and the implied claims of the giver and the recipient, or reject or ignore them. The honors only have meaning—and thus the primary parties only gain—if the onlookers take them seriously... Honors can be prestigious because prestigious people receive them, because prestigious people give them, or both." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
-
-> "If one looks closely at any society, one will observe that its rulers—and their prestige—subsidize all other sources of prestige. Thus, when the landscape of power shifts, the landscape of prestige shifts accordingly. It is then critical that rulers are incentivized to allocate prestige well—that is, in accordance with the actual distribution of excellence. If they aren’t, as in the case of Stalin, the resulting distortions in the allocation of prestige produce distortions in their society’s understanding of what is good and what is true. Lysenkoism was an epistemic and moral disaster. This kind of corruption can ultimately have catastrophic effects on the society’s health, because the ability to ascertain the truth is fundamental to the functionality of a society’s people and its institutions." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
-^^ not sure how to use this quote... maybe parts of it?
-
-> "Among the many different kinds of honors, we can pick out two especially common ones: those meant to incentivize a particular achievement with a financial reward, which I call prizes, and those meant to afford prestige on the basis of past achievement, which I call awards. Prizes aim to get some specific thing done, whereas awards aim to affect the distribution of prestige, incentivizing achievement in a more indirect way. With a prize, money is fundamental. With an award, it is incidental. The Millennium Prizes are a prime example of the former, the Academy Awards of the latter.
->
-> This distinction is often muddled, leading honors to be less effective than they could be. I have to clarify what I mean by each term, because in practice they aren’t used in a reliable way. There are awards that are called prizes and prizes that are called awards. Despite its name, the Nobel Prize is a hybrid case that is more of an award. Though it comes with a financial reward, it is primarily about affording prestige, and this is what those who try to win it are after. The money is nice, but the glory is better.
->
-> It’s for this reason that I think that awards are more effective than prizes in incentivizing the production of knowledge. Glory is a greater motivator than money...
->
-> A prize also provides less return on its creator’s investment of social capital than an award. Once the goal is achieved and the prize won, there is no longer a reason for it to exist. It is self-abolishing. An award, on the other hand, can continue to be given out year after year, compounding the investment of prestige." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
-
-> "The more closely social status corresponds to activity that’s ultimately beneficial for society, the more such activity is incentivized, much more strongly than by even a large financial reward. Wisely distributing status makes the difference between a world where most kids dream of becoming YouTubers and one where they dream of taking us to space." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
-
-> "Status is one of the irreplaceable currencies whose necessary transfer is often denounced in this way. Michael Sauder et al. define status as the relative respect and patterns of deference accorded to people, groups and organizations by wider society... People cannot engage in any common projects without some commonly agreed-upon deference to people, groups or organizations, nor can they engage in common projects without someone or something holding, and yes, spending status. Status is a coordination mechanism, and this makes it valuable.
->
-> If we come together to do great things, much status is required, whether vested in an institution or an individual. That someone will be holding status in this sense, personally or as a representative of an organization, then, is an unavoidable consequence of people coming together to do things. Perhaps one can argue for a dispersed distribution of status as the best way for us to organize such efforts, but the fact is that deference by some towards others on technical and resource distribution questions is still the central guiding factor." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
-^^ maybe remove the second part
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Reputation
-██████████████████████████████████████████████████████████████████
-
-> "First ethical rule: If you see fraud and do not say fraud, you are a fraud." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9928470-first-ethical-rule-if-you-see-fraud-and-do-not)
 
 
 
-
-
-
-https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
-
-
-
-having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit
-
-
-
-
-
-
-
-
-# Skin in the Game
-
-> "In the long-run, the best proof of a good character is good actions." - [John Stuart Mill](https://www.azquotes.com/quote/1377006)
-
-> "A man is honorable in proportion to the personal risks he takes for his opinion." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/3240519-a-man-is-honorable-in-proportion-to-the-personal-risks)
-
-> "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
-
-> "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
-
-> "Even if some of the public doesn’t care about the credibility score, the journalists, editors & publications will. It is how they define themselves." - [Elon Musk](https://twitter.com/elonmusk/status/999369623484039168)
-
-> "Those who talk should do and only those who do should talk." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9137243-those-who-talk-should-do-and-only-those-who-do)
-
-> "Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have—or don’t have—in their portfolio." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1176143-never-ask-anyone-for-their-opinion-forecast-or-recommendation-just)
-
-> "Don’t debate people in the media when you can debate them in the marketplace." - [Naval](https://x.com/NavalismHQ/status/1836978596465848461)
-
-
-
+## On the importance of reputation for integrity, honesty & cooperation
 
 > "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81)
-
-> "It won’t be rational for mainstream to reallocate authority to uncredentialized amateurs - no matter how much more correct they are, until there is a very legible and scalable way to delegate trust, so that not everyone has to fact check everything the independent shadow academy — the invisible college — the commons — the bazaar— puts forward against the cathedral of “expert consensus” that is so often state sponsored scientism." - [Conor White-Sullivan](https://twitter.com/Conaw/status/1733062636911411572)
-
-
-> "You can't build a reputation on what you are going to do." - [Henry Ford](https://www.goodreads.com/quotes/7482-you-can-t-build-a-reputation-on-what-you-are-going)
-
-> "The only real mistake is the one from which we learn nothing." - [Henry Ford](https://www.goodreads.com/quotes/106813-the-only-real-mistake-is-the-one-from-which-we)
-
-> "If there were a highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing - that actually can give the harvards and the yales of the world a run for their money. I think that might be the most positive thing we could do." - [Greg Lukianoff](https://youtu.be/buarAx_u2qg?t=8883)
-
-> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
-^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
-
-> "I love Twitter: you can make predictions that sound smart and go viral and then delete them when you end up being completely wrong." - [Nikita Bier](https://twitter.com/nikitabier/status/1677733311723245568)
-
-> "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
-
-google reviews !!! - a reputation system
-
-booting up the reputation/accountability/status market
 
 > "A technologist who neglects history ensures their users will get exploited. Proof? Consider reputation systems. Any scaled marketplace has them. The history of an Uber driver or rider’s on-platform behavior partially predicts their future behavior. Without years of star ratings, without memories of past actions of millions of people, these platforms would be wrecked by fraud." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/microhistory-and-macrohistory#:~:text=A%20technologist%20who,wrecked%20by%20fraud.)
 
 negative reputation and scammers
-
-> "The ultimate result of shielding men from the effects of folly is to fill the world with fools." - [Herbert Spencer](https://www.goodreads.com/quotes/79987-the-ultimate-result-of-shielding-men-from-the-effects-of)
-
-> "Imagine a decentralized, participatory system with objectors, supporters, checkers, and bettors–all of whom are evaluating claims made by someone. Claimants are usually targets of the sensemaking system, so while their claims are the most visible, they don’t have to be active participants in the truth-tracking process. Everyone else has to stake something, enough that it stings to lose." - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=Imagine%20a%20decentralized,stings%20to%20lose.)
-
-an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
-^^ THIS IS A HUGE POINT !!!
-
-
-
-> "Researchers find our reward systems are activated most when we achieve relative rather than absolute rewards; we’re designed to feel best not when we get more, but when we get more than those around us." - [Will Storr](https://www.goodreads.com/quotes/11605041-researchers-find-our-reward-systems-are-activated-most-when-we)
-
-> "The story idealists sometimes tell of humanity says we're natural seekers of equality. This isn't true. Utopians talk of injustice whilst building new hierarchies and placing themselves at the top. We all do this. It's in our nature.
->
-> The urge for rank is ineradicable. It's the secret goal of our lives, to win status for ourselves and our game - and gain as much of it over you and you and you as we can. It's how we make meaning. It's how we make identity. It's the worst of us, it's the best of us and it's the inescapable truth of us: for humans, equality will always be the impossible dream." - [Will Storr](https://www.goodreads.com/quotes/11892473-the-story-idealists-sometimes-tell-of-humanity-says-we-re-natural)
-
-
-
-> "It takes many good deeds to build a good reputation, and only one bad one to lose it." - [Benjamin Franklin](https://hbr.org/2007/02/reputation-and-its-risks)
-
-> "Executives know the importance of their companies’ reputations. Firms with strong positive reputations attract better people. They are perceived as providing more value, which often allows them to charge a premium. Their customers are more loyal and buy broader ranges of products and services. Because the market believes that such companies will deliver sustained earnings and future growth, they have higher price-earnings multiples and market values and lower costs of capital. Moreover, in an economy where 70% to 80% of market value comes from hard-to-assess intangible assets such as brand equity, intellectual capital, and goodwill, organizations are especially vulnerable to anything that damages their reputations." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
-
-> "Reputation is a matter of perception. A company’s overall reputation is a function of its reputation among its various stakeholders (investors, customers, suppliers, employees, regulators, politicians, nongovernmental organizations, the communities in which the firm operates) in specific categories (product quality, corporate governance, employee relations, customer service, intellectual capital, financial performance, handling of environmental and social issues). A strong positive reputation among stakeholders across multiple categories will result in a strong positive reputation for the company overall." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
+google reviews !!! - a reputation system
 
 There is no accountability without accounting. In business and finance accounting is about money. In the status, purpose, and meaning world accounting is calculated reputation.
 
@@ -133,150 +17,9 @@ There is no accountability without accounting. In business and finance accountin
 
 
 
-
-
-> "Do not create your reputation system as if it is a monetary system. You do not spend or trade reputation. Once you earn it, it is yours." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=do%20not%20create%20your%20reputation%20system%20as%20if%20it%20is%20a%20monetary%20system.%20You%20do%20not%20spend%20or%20trade%20reputation.%20Once%20you%20earn%20it%2C%20it%20is%20yours.)
-
-> "Money, on the other hand, can be completely anonymous, and in the form of cash, it’s supposed to be. A business selling a product doesn’t care WHO paid, just HOW MUCH was paid. The accounting required for money vs. reputation is quite different. Also, reputation currencies revolve around relationship where money does not." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Money%2C%20on%20the,money%20does%20not.)
-
-> "Think about it, my credit rating (reputation) affects my cost and availability of money. My college degree (reputation) affects what I get paid (monetary). My grades (performance) affect whether I get credit (unit of account) for a course. There are so many ways that different types of currencies can be woven together to create powerful connections and reinforcing relationships. This is really the uncharted frontiers of creativity." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Think%20about%20it,frontiers%20of%20creativity.)
-
-> "If I vouch for someone, it should NOT be like spending reputation like lowering my balance, however, there should be a consequence, whether positive or negative, to the person’s performance. If they perform well, then my reputation should actually INCREASE for choosing to vouch well. If they perform poorly, my reputation should diminish." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=If%20I%20vouch,reputation%20should%20diminish.)
-
-> "Imagine you wanted to design reputation currencies for eBay. Instead of a single unscaled total of positive or negative feedback points, think of how much more useful it would be to know these things, most of which can be tracked from system activity rather than end-user feedback:
->
-> Sample reputation for an eBay seller:
->
-> - How long account has been active, & total # sales
->
-> - % Successful sales (# delivered sales / # total sales)
->
-> - Avg. days to receive item (from shipping tracking data)
->
-> - Avg. Rating (1-5) received for “as advertised”
->
-> - % of transactions requiring problem resolution
->
-> Sample reputation for an eBay buyer:
->
-> - How long account has been active & total # bids won
->
-> - % Successful Purchases (# bids paid / # bids won)
->
-> - Avg. time to payment (in hours)
->
-> - Avg. Rating (1-5) given for “as advertised”
->
-> - % of transactions requiring problem resolution
->
-> I think if you take a few moments to look at the kind of behaviors that tracking those reputational elements would incent, you might see it’s a heck of a lot better than “feedback extortion” (Threatening to give negative feedback if you receive negative feedback)." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=Instead%20of%20a,receive%20negative%20feedback).)
-
-> "Reputation should not be traded. Ever. That’s not what it is for. It is bound to an identity and is only meaningful when it continues to be bound to that identity. If I can buy or spend reputation rather than earning it by performing in the way the reputation currency indicates, then it is a meaningless signal that has broken loose from any sense that the reputation is supposed to impart." - [Avoid Blunders in Designing Reputation Systems, by Arthur Brock](https://www.artbrock.com/2019/01/23/avoid-blunders-in-designing-reputation-systems#:~:text=Reputation%20should%20not,supposed%20to%20impart.)
-
-
-
-
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: stick & carrot
-██████████████████████████████████████████████████████████████████
-
-https://twitter.com/paulg/status/1673622294227308546?s=46
-What if we could reward the switching of beliefs in such a way as to incentivize early adopters of better ideas?
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Calculemus! Computable Context
-██████████████████████████████████████████████████████████████████
-
-== calculemus!
-"computable context" as a chapter - not just reputation!
-
-https://twitter.com/tszzl/status/1680749872469667840
-
-!!! calculemus ("may we calculate, may we compute")
-https://en.wiktionary.org/wiki/calculemus
-
-> "The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate[calculemus], without further ado, to see who is right." - [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) in a [letter to Ph. J. Spener, July 1687](https://medium.com/dave-amiana/the-language-of-calculus-part-1-e646876cf078#:~:text=The%20only%20way%20to%20rectify%20our%20reasonings%20is%20to%20make%20them%20as%20tangible%20as%20those%20of%20the%20Mathematicians%20so%20that%20we%20can%20find%20our%20error%20at%20a%20glance%2C%20and%20when%20there%20are%20disputes%20among%20persons%2C%20we%20can%20simply%20say%3A%20Let%20us%20calculate%5Bcalculemus%5D%2C%20without%20further%20ado%2C%20to%20see%20who%20is%20right.)
-
-> "By reformulating arguments and ideas in terms of a characteristica universalis, or universal language, all could be rendered computable." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20reformulating%20arguments%20and%20ideas%20in%20terms%20of%20a%20characteristica%20universalis%2C%20or%20universal%20language%2C%20all%20could%20be%20rendered%20computable.) by Jonathan Gray
-
-> "By means of new artificial languages and methods, our ordinary and imperfect ways of reasoning with words and ideas would give way to a formal, symbolic, rule-governed science — conceived of as a computational process. Disputes, conflict, and grievances arising from ill-formed opinions, emotional hunches, biases, prejudices, and misunderstandings would give way to consensus, peace, and progress." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20means%20of,peace%2C%20and%20progress.) by Jonathan Gray
-
-> "It is obvious that if we could find characters or signs suited for expressing all our thoughts as clearly and as exactly as arithmetic expresses numbers or geometry expresses lines, we could do in all matters insofar as they are subject to reasoning all that we can do in arithmetic and geometry. For all investigations which depend on reasoning would be carried out by transposing these characters and by a species of calculus." - [Gottfried Wilhelm Leibniz](http://www.artandpopularculture.com/Gottfried_Leibniz#:~:text=It%20is%20obvious,species%20of%20calculus.)
-
-██████████████████████████████████████████████████████████████████
-# SECTION: PageRank 2.0
-██████████████████████████████████████████████████████████████████
-
-Run PageRank on the data => EventRank!
-
-PageRank is the wisdom of crowds
-PageRank is a republic - not a perfect democracy. (Todo: what is a republic) - pages have different influence on other pages
-
-PageRank for accountable and competent individuals is the human alignment problem
-
-Define arbitrary status models - different pagerank algorithms for identities, concepts & events!
-the results of one page ranking model can be fed into another - layering/wiring complex models
-Google's page rank algorithm simply counts the number of inbound links to a page. It's surely evolved to include other heuristics and some notion of reputation, but pales in comparison to the ranking flexibility and power of an open-ended system built around identity and reputation.
-
-multi-pagerank
-poly/multi
-
-status for page rank could have decay
-
-this is not page rank - this is entity rank
-
-> "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
-
-> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
-
-When tracking portfolio success - ppl will initially define the parameters & risk against which they should be judged - aiming for 100x vs minimizing downside
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Indexes (ESG, CPI, etc)
-██████████████████████████████████████████████████████████████████
-
-look at me - meme - we define the indexes and rankings now
-
-> "Are we being silently poisoned? It’s an empirical question. Just test food. And publish ratings. It’s a form of decentralized regulation." - [Balaji Srinivasan](https://twitter.com/balajis/status/1789322947490205862)
-
-greenwashing
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Matchmaking
-██████████████████████████████████████████████████████████████████
-
-> "If you had a map of the other person’s knowledge tree, colored by interest, you could easily figure out what to talk about. But we don’t carry our colored knowledge trees around, so we’re forced to use the highly inefficient, sequential system of talking to touch on lots of topics until we find something mutually interesting." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=If%20you%20had,something%20mutually%20interesting.)
-
-> "Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge?r=36xnz&utm_campaign=post&utm_medium=web#:~:text=Meeting%20new%20people%20is%20a%20race%20to%20find%20the%20most%20interesting%20overlap%20areas%20between%20your%20knowledge%20trees%20as%20fast%20as%20possible.)
-
-What if we made Tinder, but along with coaching for the personal life?
-
-How do we collectively help improve the matchmaking process in every field?
-
-Friendship matchmaking where you deliberately enter your goals initially
-
-> "Think about someone you didn’t take seriously until someone you respect told you that they think highly of them—how many missed opportunities are there because people miss out on this information? We have inefficient markets for reputation today, and that creates all sorts of market failures as a result." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials#:~:text=Think%20about%20someone,as%20a%20result.)
-
-> "Consider the fact that Marc Andreessen follows 17,000 people. If he could only follow, say, 50 people, and it was clear that a follow was an endorsement, that would be an incredibly strong signal, again worth more than a Harvard degree for the person being endorsed." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials#:~:text=Consider%20the%20fact%20that%20Marc%20Andreessen%20follows%2017%2C000%20people.%20If%20he%20could%20only%20follow%2C%20say%2C%2050%20people%2C%20and%20it%20was%20clear%20that%20a%20follow%20was%20an%20endorsement%2C%20that%20would%20be%20an%20incredibly%20strong%20signal%2C%20again%20worth%20more%20than%20a%20Harvard%20degree%20for%20the%20person%20being%20endorsed.)
-
-> "P2P credentialing will also enable P2P marketplaces. Uber and Airbnb are marketplaces that figured out how to utilize an idle asset: Airbnb turns your spare bedroom into extra cash, Uber turns your car into extra income. However, the most valuable asset in the world that’s underutilized isn’t cars or bedrooms—it’s people. There are billions of people whose talents are underutilized." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials#:~:text=P2P%20credentialing%20will,talents%20are%20underutilized.)
-
-> "But you can imagine people search engines related to career, learning, friendship, dating, care-giving, exploring hobbies—anything. It’s fascinating how when we want to find books, Amazon has so much data on our preferences and can recommend the perfect book, but when we want to find people, we don’t have anything. P2P credentials will enable people search engines and matchmaking companies, so that more people can find their people." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials#:~:text=But%20you%20can,find%20their%20people.)
-
-> "P2P credential platforms will democratize talent discovery at scale, enabling people all over the world to discover the next Mark Zuckerberg or Sheryl Sandberg (And others in other industries) without having to write a check to prove their talent discovery abilities." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials#:~:text=P2P%20credential%20platforms%20will%20democratize%20talent%20discovery%20at%20scale%2C%20enabling%20people%20all%20over%20the%20world%20to%20discover%20the%20next%20Mark%20Zuckerberg%20or%20Sheryl%20Sandberg%20(And%20others%20in%20other%20industries)%20without%20having%20to%20write%20a%20check%20to%20prove%20their%20talent%20discovery%20abilities.%C2%A0)
-
-
-
-
-
-
-
-
 # What is Status
+
+> "The story idealists sometimes tell of humanity says we're natural seekers of equality. This isn't true. Utopians talk of injustice whilst building new hierarchies and placing themselves at the top. We all do this. It's in our nature. The urge for rank is ineradicable. It's the secret goal of our lives, to win status for ourselves and our game - and gain as much of it over you and you and you as we can. It's how we make meaning. It's how we make identity. It's the worst of us, it's the best of us and it's the inescapable truth of us: for humans, equality will always be the impossible dream." - [Will Storr](https://www.goodreads.com/quotes/11892473-the-story-idealists-sometimes-tell-of-humanity-says-we-re-natural)
 
 > "The people we’re trying to manipulate and persuade—they’re out there in the world, and their judgments matter for our fitness. Their judgments might even be the single greatest thing that matters for our fitness. If you want to understand the nature of our hyper-social species, you cannot take your eye off the ball of reputation and status." - [The Truth About Self-Deception, by David Pinsof](https://www.optimallyirrational.com/p/the-truth-about-self-deception#:~:text=The%20people%20we%E2%80%99re,reputation%20and%20status.)
 
@@ -401,6 +144,12 @@ maybe just use the first bullet point? and rename this ## section?
 > **Politics**. It's hard, perhaps even impossible, to provide a neutral account of what constitutes 'political' behavior in an office, but here goes: Politics is any attempt to win status through actions that don't advance the goals of the community. The economic analogue here is rent-seeking — vying for a larger share of the pie in ways that don't increase the overall size of the pie. Rentseeking behaviors in a status economy include: competing for access to highstatus individuals, hoarding resources that could be put to better use, acting as an information broker (requiring payment instead of giving information freely), and (as we've seen) manipulating one's image instead of attending to reality. Efforts spent on politics/rent-seeking represent [deadweight loss](https://en.wikipedia.org/wiki/Deadweight_loss) in an office economy." - [The Economics of Social Status, by Kevin Simler](https://meltingasphalt.com/the-economics-of-social-status/)
 
 </p></details>
+
+## The importance of reputation for companies
+
+> "Executives know the importance of their companies’ reputations. Firms with strong positive reputations attract better people. They are perceived as providing more value, which often allows them to charge a premium. Their customers are more loyal and buy broader ranges of products and services. Because the market believes that such companies will deliver sustained earnings and future growth, they have higher price-earnings multiples and market values and lower costs of capital. Moreover, in an economy where 70% to 80% of market value comes from hard-to-assess intangible assets such as brand equity, intellectual capital, and goodwill, organizations are especially vulnerable to anything that damages their reputations.
+>
+> ... Reputation is a matter of perception. A company’s overall reputation is a function of its reputation among its various stakeholders (investors, customers, suppliers, employees, regulators, politicians, nongovernmental organizations, the communities in which the firm operates) in specific categories (product quality, corporate governance, employee relations, customer service, intellectual capital, financial performance, handling of environmental and social issues). A strong positive reputation among stakeholders across multiple categories will result in a strong positive reputation for the company overall." - [Reputation and Its Risks](https://hbr.org/2007/02/reputation-and-its-risks)
 
 # Social Status: Down the Rabbit Hole
 
@@ -547,6 +296,29 @@ using fresh language.
 
 </p></details>
 
+# Allocating & Regulating Prestige
+
+> "The practice of giving awards and honors allows an individual, such as a king, or an institution, such as the Academy of Motion Picture Arts and Sciences, to regulate status within a society, organization, or industry. Rather than regulating all behavior by all people at all times, an award sets the bar for what is the highest status behavior or achievement and, by virtue of its public nature, allows everyone else to figure out for themselves how they should aspire to behave as well.
+>
+> ... We usually think honors are about the recipient, but the giver of honors also gains. The giver and recipient collaborate to publicly assert that the recipient is worthy of prestige, and that the giver has the authority to grant it. Honors are thus acts of an alliance to mutually boost prestige... The audience also participates in this transaction of prestige. They either accept the whole affair and the implied claims of the giver and the recipient, or reject or ignore them. The honors only have meaning—and thus the primary parties only gain—if the onlookers take them seriously... Honors can be prestigious because prestigious people receive them, because prestigious people give them, or both.
+>
+> ... If one looks closely at any society, one will observe that its rulers—and their prestige—subsidize all other sources of prestige. Thus, when the landscape of power shifts, the landscape of prestige shifts accordingly. It is then critical that rulers are incentivized to allocate prestige well—that is, in accordance with the actual distribution of excellence. If they aren’t, as in the case of Stalin, the resulting distortions in the allocation of prestige produce distortions in their society’s understanding of what is good and what is true. Lysenkoism was an epistemic and moral disaster. This kind of corruption can ultimately have catastrophic effects on the society’s health, because the ability to ascertain the truth is fundamental to the functionality of a society’s people and its institutions.
+>
+> ... Among the many different kinds of honors, we can pick out two especially common ones: those meant to incentivize a particular achievement with a financial reward, which I call prizes, and those meant to afford prestige on the basis of past achievement, which I call awards. Prizes aim to get some specific thing done, whereas awards aim to affect the distribution of prestige, incentivizing achievement in a more indirect way. With a prize, money is fundamental. With an award, it is incidental. The Millennium Prizes are a prime example of the former, the Academy Awards of the latter.
+>
+> This distinction is often muddled, leading honors to be less effective than they could be. I have to clarify what I mean by each term, because in practice they aren’t used in a reliable way. There are awards that are called prizes and prizes that are called awards. Despite its name, the Nobel Prize is a hybrid case that is more of an award. Though it comes with a financial reward, it is primarily about affording prestige, and this is what those who try to win it are after. The money is nice, but the glory is better.
+>
+> It’s for this reason that I think that awards are more effective than prizes in incentivizing the production of knowledge. Glory is a greater motivator than money...
+>
+> A prize also provides less return on its creator’s investment of social capital than an award. Once the goal is achieved and the prize won, there is no longer a reason for it to exist. It is self-abolishing. An award, on the other hand, can continue to be given out year after year, compounding the investment of prestige.
+>
+> ... The more closely social status corresponds to activity that’s ultimately beneficial for society, the more such activity is incentivized, much more strongly than by even a large financial reward. **Wisely distributing status makes the difference between a world where most kids dream of becoming YouTubers and one where they dream of taking us to space.**
+>
+> ... Status is one of the irreplaceable currencies whose necessary transfer is often denounced in this way. Michael Sauder et al. define status as the relative respect and patterns of deference accorded to people, groups and organizations by wider society... People cannot engage in any common projects without some commonly agreed-upon deference to people, groups or organizations, nor can they engage in common projects without someone or something holding, and yes, spending status. Status is a coordination mechanism, and this makes it valuable.
+>
+> If we come together to do great things, much status is required, whether vested in an institution or an individual. That someone will be holding status in this sense, personally or as a representative of an organization, then, is an unavoidable consequence of people coming together to do things. Perhaps one can argue for a dispersed distribution of status as the best way for us to organize such efforts, but the fact is that deference by some towards others on technical and resource distribution questions is still the central guiding factor." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+> "... ambiguous social hierarchies cause profound anxiety. And why wouldn’t they? Think about it: we’re social beings living in a social universe where all of our expectations upon life hinge on how we perceive and reconstruct social hierarchies. If there is unclarity around this, we never know if we might suddenly wake up tomorrow and be the beggar, the laughing stock, or just the bland loser nobody respects. We all want some kind of certainty to hold on to, to know what to expect, what to prepare ourselves for, to strive for." - [Hanzi Freinacht](https://metamoderna.org/neuroatypicality-is-the-shamanism-of-late-modernity/)
 
 # Tribalism - Status & Loyalty Over Truth
 
@@ -613,9 +385,17 @@ TODO: expand on how to counter this - reputation, integration of opinions for co
 
 > "I'm not saying that status is bad, or that wanting status is bad. I actually think wanting status is morally neutral and pragmatically good. I'm just saying that people *think* wanting status is bad. So if you're trying to get it, you should be careful not to make it look like you were trying to get it." - [Status Is Weird, by David Pinsof](https://open.substack.com/pub/everythingisbullshit/p/status-is-weird?r=7omg8&utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=38969526)
 
+> "We want people to think we’re virtuous—that’s a big incentive for us. But there’s a convoluted structure surrounding this incentive. We can only look virtuous by making it look like we weren’t trying to look virtuous. Which means that, to win the virtue game, we have to do all sorts of social maneuvering: we have to send “buried signals” of anonymous or inconspicuous altruism (to get credit for not caring about getting credit), show “modesty” or “humility” (to look morally superior to non-humble people), “bravely” defy social norms (to win the approval of our peers), and display our adherence to ethical principles independent of our self-interest (which is, ultimately, in our self-interest). It’s all very confusing." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=We%20want%20people,all%20very%20confusing.)
+
+> "As Nassim Taleb puts it in his book Antifragile, anything done with the explicit intent to improve one’s status likely won’t improve one’s status. Status is a very specific game: any time you think about the game, you lose. After all, the most respected people achieved their status as a byproduct of altruism, honor, and integrity." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=As%20Nassim%20Taleb,honor%2C%20and%20integrity.)
+
 > "We spend our lives desperately seeking status; we are addicted to social esteem in a fairly literal sense, dependent on the neurotransmitters we get upon impressing people. Many of us claim to be self-sufficient, to have a moral gyroscope, to hold fast to our values, come what may. But people truly oblivious to peer approval get labeled sociopaths. And the epithets reserved for people at the other end of the spectrum, people who seek esteem most ardently—“self-promoter,” “social climber”—are only signs of our constitutional blindness. We are all self-promoters and social climbers. The people known as such are either so effective as to arouse envy or so graceless as to make their effort obvious, or both." - [Robert Wright](https://www.goodreads.com/quotes/9799532-we-spend-our-lives-desperately-seeking-status-we-are-addicted)
 
-# Deliberately choosing & designing our collective status games
+# Reengineering Status Deliberately
+
+> "The whole point of the human brain is behavioural flexibility." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
+
+> "The worst parts of human nature are always near the surface - ready to rise when cultural restraints weaken. We are not blank slates as some behavioralists once imagined. We are organisms whose more egregious tendencies can be greatly if arduously subdued and the primary reason for this tenuous optimism is the abject flexibility whith which status is sought. We will do almost anything for respect, including: not act like animals." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
 
 > "But is it possible to evaluate our status games from a more rational, dispassionate perspective? Can we somehow learn to defend the status games that actually make the world better and attack the ones that actually make the world worse? Is our sorry species even remotely capable of such a project?
 >
@@ -625,16 +405,50 @@ TODO: expand on how to counter this - reputation, integration of opinions for co
 >
 > So if you still haven’t found the right status game to play, please: choose wisely... The fate of humanity depends on it." - [Status Is Weird, by David Pinsof](https://www.everythingisbullshit.blog/p/status-is-weird#:~:text=But%20is%20it,depends%20on%20it.)
 
-# Reengineering Status
+
+
+
+- compartmentalization
+Fungibility is a loss of information - good for some things (reduces friction, single metric to optimize, etc.), bad for others.
+Compartmentalizing expertise
+We need compartmentalization of expertise - making it impossible to move value without the loss of information (which the fungibility of money enables)
+The commitment of time and attention to problem-solving should be informationally separated from the influence of money which is perfectly fungible
+
+carrot & stick
+
+https://twitter.com/paulg/status/1673622294227308546?s=46
+What if we could reward the switching of beliefs in such a way as to incentivize early adopters of better ideas?
+
+
+
+> "Going to create a site where the public can rate the core truth of any article & track the credibility score over time of each journalist, editor & publication. Thinking of calling it Pravda …" - [Elon Musk](https://twitter.com/elonmusk/status/999367582271422464)
+
+> "Even if some of the public doesn’t care about the credibility score, the journalists, editors & publications will. It is how they define themselves." - [Elon Musk](https://twitter.com/elonmusk/status/999369623484039168)
+
+> "It won’t be rational for mainstream to reallocate authority to uncredentialized amateurs - no matter how much more correct they are, until there is a very legible and scalable way to delegate trust, so that not everyone has to fact check everything the independent shadow academy — the invisible college — the commons — the bazaar— puts forward against the cathedral of “expert consensus” that is so often state sponsored scientism." - [Conor White-Sullivan](https://twitter.com/Conaw/status/1733062636911411572)
+
+> "If there were a highly respected, let's say extremely difficult ways to prove that you're extremely smart and hardworking that cost little or nothing - that actually can give the harvards and the yales of the world a run for their money. I think that might be the most positive thing we could do." - [Greg Lukianoff](https://youtu.be/buarAx_u2qg?t=8883)
+
+
+
+
+
+
+> "Imagine a decentralized, participatory system with objectors, supporters, checkers, and bettors–all of whom are evaluating claims made by someone. Claimants are usually targets of the sensemaking system, so while their claims are the most visible, they don’t have to be active participants in the truth-tracking process. Everyone else has to stake something, enough that it stings to lose." - [Sensemaking in the Era of Authoritarian Media, by Max Borders](https://www.aier.org/article/sensemaking-in-the-era-of-authoritarian-media/#:~:text=Imagine%20a%20decentralized,stings%20to%20lose.)
+
+
+
+
+
+
+
+
+
 
 
 
 
 > "To compete for high social status is to play a zero-sum game, since status is scarce by definition. Yet one way to successfully earn status is to invent technologies that create new non-zero-sum games." - [Erik Torenberg](https://twitter.com/eriktorenberg/status/1120197629072117760)
-
-> "The whole point of the human brain is behavioural flexibility." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
-
-> "The worst parts of human nature are always near the surface - ready to rise when cultural restraints weaken. We are not blank slates as some behavioralists once imagined. We are organisms whose more egregious tendencies can be greatly if arduously subdued and the primary reason for this tenuous optimism is the abject flexibility whith which status is sought. We will do almost anything for respect, including: not act like animals." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
 
 “Let the (status) game begin”
 With a picture of the clown from the movie “saw”
@@ -642,11 +456,171 @@ With a picture of the clown from the movie “saw”
 we need to change our concept of status
 People grind for status in the dumbest possible pay-to-win “games” - we need to give them an avenue for their competitiveness and expression
 
+
+
+
 > "Remember that reputation and integrity are your most valuable assets—and can be lost in a heartbeat." - [Charlie Munger](https://www.goodreads.com/quotes/7238535-remember-that-reputation-and-integrity-are-your-most-valuable-assets-and)
 
 > "It takes 20 years to build a reputation and five minutes to ruin it." - [Warren Buffett](https://www.goodreads.com/quotes/148174-it-takes-20-years-to-build-a-reputation-and-five)
 
+> "It takes many good deeds to build a good reputation, and only one bad one to lose it." - [Benjamin Franklin](https://hbr.org/2007/02/reputation-and-its-risks)
+
 > "The first rule of compounding is to never interrupt it unnecessarily." - [Charlie Munger](https://x.com/morganhousel/status/1049392552175124481)
+an environment where a single identity is used for a long time and it accrues reputation is an environment of repeated interaction - the prisoner's dillema is solved - robert axelrod
+^^ THIS IS A HUGE POINT !!!
+
+
+
+## Skin in the Game
+
+> "The ultimate result of shielding men from the effects of folly is to fill the world with fools." - [Herbert Spencer](https://www.goodreads.com/quotes/79987-the-ultimate-result-of-shielding-men-from-the-effects-of)
+
+> "A man is honorable in proportion to the personal risks he takes for his opinion." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/3240519-a-man-is-honorable-in-proportion-to-the-personal-risks)
+
+> "Those who talk should do and only those who do should talk." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9137243-those-who-talk-should-do-and-only-those-who-do)
+
+> "Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have—or don’t have—in their portfolio." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1176143-never-ask-anyone-for-their-opinion-forecast-or-recommendation-just)
+
+> "You can't build a reputation on what you are going to do." - [Henry Ford](https://www.goodreads.com/quotes/7482-you-can-t-build-a-reputation-on-what-you-are-going)
+
+> "I love Twitter: you can make predictions that sound smart and go viral and then delete them when you end up being completely wrong." - [Nikita Bier](https://twitter.com/nikitabier/status/1677733311723245568)
+
+> "Imagining a NYT reporter having to place bets on their stories makes me smile 😊" - [David Aames](https://twitter.com/DaveAames/status/1450307645705887745)
+
+<details><summary>Other quotes</summary><p>
+
+> "In the long-run, the best proof of a good character is good actions." - [John Stuart Mill](https://www.azquotes.com/quote/1377006)
+
+> "The only real mistake is the one from which we learn nothing." - [Henry Ford](https://www.goodreads.com/quotes/106813-the-only-real-mistake-is-the-one-from-which-we)
+
+> "Don’t debate people in the media when you can debate them in the marketplace." - [Naval](https://x.com/NavalismHQ/status/1836978596465848461)
+
+</p></details>
+
+
+## Differences Between Money & Reputation
+
+> "Reputation should not be traded. Ever. That’s not what it is for. It is bound to an identity and is only meaningful when it continues to be bound to that identity. If I can buy or spend reputation rather than earning it by performing in the way the reputation currency indicates, then it is a meaningless signal that has broken loose from any sense that the reputation is supposed to impart." - [Avoid Blunders in Designing Reputation Systems, by Arthur Brock](https://www.artbrock.com/2019/01/23/avoid-blunders-in-designing-reputation-systems#:~:text=Reputation%20should%20not,supposed%20to%20impart.)
+
+> "Do not create your reputation system as if it is a monetary system. You do not spend or trade reputation. Once you earn it, it is yours... Money, on the other hand, can be completely anonymous, and in the form of cash, it’s supposed to be. A business selling a product doesn’t care WHO paid, just HOW MUCH was paid. The accounting required for money vs. reputation is quite different. Also, reputation currencies revolve around relationship where money does not... Think about it, my credit rating (reputation) affects my cost and availability of money. My college degree (reputation) affects what I get paid (monetary). My grades (performance) affect whether I get credit (unit of account) for a course. **There are so many ways that different types of currencies can be woven together to create powerful connections and reinforcing relationships. This is really the uncharted frontiers of creativity.**
+>
+> ... Imagine you wanted to design reputation currencies for eBay. Instead of a single unscaled total of positive or negative feedback points, think of how much more useful it would be to know these things, most of which can be tracked from system activity rather than end-user feedback:
+>
+> Sample reputation for an eBay seller:
+>
+> - How long account has been active, & total # sales
+>
+> - % Successful sales (# delivered sales / # total sales)
+>
+> - Avg. days to receive item (from shipping tracking data)
+>
+> - Avg. Rating (1-5) received for “as advertised”
+>
+> - % of transactions requiring problem resolution
+>
+> Sample reputation for an eBay buyer:
+>
+> - How long account has been active & total # bids won
+>
+> - % Successful Purchases (# bids paid / # bids won)
+>
+> - Avg. time to payment (in hours)
+>
+> - Avg. Rating (1-5) given for “as advertised”
+>
+> - % of transactions requiring problem resolution
+>
+> I think if you take a few moments to look at the kind of behaviors that tracking those reputational elements would incent, you might see it’s a heck of a lot better than “feedback extortion” (Threatening to give negative feedback if you receive negative feedback)." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange)
+
+## P2P Credentials, Vouching for Others & Matchmaking
+
+> "If I vouch for someone, it should NOT be like spending reputation like lowering my balance, however, there should be a consequence, whether positive or negative, to the person’s performance. If they perform well, then my reputation should actually INCREASE for choosing to vouch well. If they perform poorly, my reputation should diminish." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange#:~:text=If%20I%20vouch,reputation%20should%20diminish.)
+
+> "Think about someone you didn’t take seriously until someone you respect told you that they think highly of them—how many missed opportunities are there because people miss out on this information? We have inefficient markets for reputation today, and that creates all sorts of market failures as a result.
+>
+> ... Consider the fact that Marc Andreessen follows 17,000 people. If he could only follow, say, 50 people, and it was clear that a follow was an endorsement, that would be an incredibly strong signal, again worth more than a Harvard degree for the person being endorsed.
+>
+> ... P2P credentialing will also enable P2P marketplaces. Uber and Airbnb are marketplaces that figured out how to utilize an idle asset: Airbnb turns your spare bedroom into extra cash, Uber turns your car into extra income. However, the most valuable asset in the world that’s underutilized isn’t cars or bedrooms—it’s people. There are billions of people whose talents are underutilized.
+>
+> ... But you can imagine people search engines related to career, learning, friendship, dating, care-giving, exploring hobbies—anything. It’s fascinating how when we want to find books, Amazon has so much data on our preferences and can recommend the perfect book, but when we want to find people, we don’t have anything. P2P credentials will enable people search engines and matchmaking companies, so that more people can find their people.
+>
+> ... P2P credential platforms will democratize talent discovery at scale, enabling people all over the world to discover the next Mark Zuckerberg or Sheryl Sandberg (And others in other industries) without having to write a check to prove their talent discovery abilities." - [The Promise of Peer-to-Peer Credentials, by Erik Torenberg](https://eriktorenberg.substack.com/p/the-promise-of-peer-to-peer-credentials)
+
+And access to talent discovery will be democratized - currently very few are actually in a position to write a check.
+
+> "Where can I purchase a futures contract on the number of patent citations a physics paper will have in 5 years?" - [Daniel Gross](https://twitter.com/danielgross/status/1684209771895726081)
+
+> "If you had a map of the other person’s knowledge tree, colored by interest, you could easily figure out what to talk about. But we don’t carry our colored knowledge trees around, so we’re forced to use the highly inefficient, sequential system of talking to touch on lots of topics until we find something mutually interesting... Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge)
+
+By enabling people to express their interests/opinions/goals in a deduplicated & unambiguous way and to prove their credibility in different fields we'll be able to see the overlap of interests/opinions and be able to quantify it with a single click and we'd be able to rank/sort/search in any way we wish. We can improve literally any kind of matchmaking - including dating.
+
+
+TODO Credentials / Accreditation
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Calculemus! Computable Context
+██████████████████████████████████████████████████████████████████
+
+== calculemus!
+"computable context" as a chapter - not just reputation!
+
+https://twitter.com/tszzl/status/1680749872469667840
+TODO INTERNET
+
+!!! calculemus ("may we calculate, may we compute")
+https://en.wiktionary.org/wiki/calculemus
+
+> "The only way to rectify our reasonings is to make them as tangible as those of the Mathematicians so that we can find our error at a glance, and when there are disputes among persons, we can simply say: Let us calculate[calculemus], without further ado, to see who is right." - [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) in a [letter to Ph. J. Spener, July 1687](https://medium.com/dave-amiana/the-language-of-calculus-part-1-e646876cf078#:~:text=The%20only%20way%20to%20rectify%20our%20reasonings%20is%20to%20make%20them%20as%20tangible%20as%20those%20of%20the%20Mathematicians%20so%20that%20we%20can%20find%20our%20error%20at%20a%20glance%2C%20and%20when%20there%20are%20disputes%20among%20persons%2C%20we%20can%20simply%20say%3A%20Let%20us%20calculate%5Bcalculemus%5D%2C%20without%20further%20ado%2C%20to%20see%20who%20is%20right.)
+
+> "By reformulating arguments and ideas in terms of a characteristica universalis, or universal language, all could be rendered computable." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20reformulating%20arguments%20and%20ideas%20in%20terms%20of%20a%20characteristica%20universalis%2C%20or%20universal%20language%2C%20all%20could%20be%20rendered%20computable.) by Jonathan Gray
+
+> "By means of new artificial languages and methods, our ordinary and imperfect ways of reasoning with words and ideas would give way to a formal, symbolic, rule-governed science — conceived of as a computational process. Disputes, conflict, and grievances arising from ill-formed opinions, emotional hunches, biases, prejudices, and misunderstandings would give way to consensus, peace, and progress." - [“Let us Calculate!” Leibniz, Llull, and the Computational Imagination](https://publicdomainreview.org/essay/let-us-calculate-leibniz-llull-and-the-computational-imagination#ref17:~:text=By%20means%20of,peace%2C%20and%20progress.) by Jonathan Gray
+
+> "It is obvious that if we could find characters or signs suited for expressing all our thoughts as clearly and as exactly as arithmetic expresses numbers or geometry expresses lines, we could do in all matters insofar as they are subject to reasoning all that we can do in arithmetic and geometry. For all investigations which depend on reasoning would be carried out by transposing these characters and by a species of calculus." - [Gottfried Wilhelm Leibniz](http://www.artandpopularculture.com/Gottfried_Leibniz#:~:text=It%20is%20obvious,species%20of%20calculus.)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: PageRank 2.0
+██████████████████████████████████████████████████████████████████
+
+Run PageRank on the data => EventRank!
+
+PageRank is the wisdom of crowds
+PageRank is a republic - not a perfect democracy. (Todo: what is a republic) - pages have different influence on other pages
+
+PageRank for accountable and competent individuals is the human alignment problem
+
+Define arbitrary status models - different pagerank algorithms for identities, concepts & events!
+the results of one page ranking model can be fed into another - layering/wiring complex models
+Google's page rank algorithm simply counts the number of inbound links to a page. It's surely evolved to include other heuristics and some notion of reputation, but pales in comparison to the ranking flexibility and power of an open-ended system built around identity and reputation.
+
+multi-pagerank
+poly/multi
+
+status for page rank could have decay
+
+this is not page rank - this is entity rank
+
+> "I have this sence that there's just going to be a new startup that's going to basically be the page rank inventor which will become the new tech giant." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2249)
+
+> "There's several things that is page rank - there's page rank the algorithm and the idea, and there's like the implementation of it. And I feel like the killer product is not just the idea - like the transformer - its the implementation - something, something really compelling about it, like you just can't look away." - [Lex Fridman](https://youtu.be/-hxeDjAxvJ8?t=2450)
+
+When tracking portfolio success - ppl will initially define the parameters & risk against which they should be judged - aiming for 100x vs minimizing downside
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Indexes (ESG, CPI, etc)
+██████████████████████████████████████████████████████████████████
+
+look at me - meme - we define the indexes and rankings now
+TODO INTERNET
+
+> "Are we being silently poisoned? It’s an empirical question. Just test food. And publish ratings. It’s a form of decentralized regulation." - [Balaji Srinivasan](https://twitter.com/balajis/status/1789322947490205862)
+
+greenwashing
+
+
+# =====================
 
 
 
@@ -754,6 +728,10 @@ Pointing to the truth is a Schelling point - that's why sunlight is the best dis
 the right kind should be rewarded
 
 
+> "First ethical rule: If you see fraud and do not say fraud, you are a fraud." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9928470-first-ethical-rule-if-you-see-fraud-and-do-not)
+
+
+
 IMAGE: see no evil hear no evil
 <img src="/img/hear_see_no_evil.webp"/>
 https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._SL1500_-1.jpg?fit=660%2C382&ssl=1
@@ -767,6 +745,8 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
 ██████████████████████████████████████████████████████████████████
+
+morpheus - you think that's meritocracy that you're experiencing?
 
 > "He who seeks equality between unequals seeks an absurdity." - [Baruch Spinoza](https://www.azquotes.com/quote/1022995)
 
@@ -1061,15 +1041,12 @@ https://twitter.com/eriktorenberg/status/1748056677449138500
 "Backchannel references as a service - Pay money, get a reference. Give a reference, get paid (as long as your reference is desired) If you're seeking a reference, you only pay if we find you someone you want to talk to"
 ^^ this but with ZK
 
-We need to be able to bet on anything (DO WE?)
-> "Where can I purchase a futures contract on the number of patent citations a physics paper will have in 5 years?" - [Daniel Gross](https://twitter.com/danielgross/status/1684209771895726081)
 
 > "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
 The only measure of life is how much you’ve given
 https://x.com/KirilovVik/status/1921637558687006787
 
 
-> "As Nassim Taleb puts it in his book Antifragile, anything done with the explicit intent to improve one’s status likely won’t improve one’s status. Status is a very specific game: any time you think about the game, you lose. After all, the most respected people achieved their status as a byproduct of altruism, honor, and integrity." - [Truth, Status, and Tribes, by Erik Torenberg](https://eriktorenberg.substack.com/p/truth-status-and-tribes#:~:text=As%20Nassim%20Taleb,honor%2C%20and%20integrity.)
 
 
 
@@ -1125,11 +1102,180 @@ https://x.com/KirilovVik/status/1921637558687006787
 >
 > Will Storr, in his book “[The Status Game](https://www.amazon.com/Status-Game-Position-Governs-Everything-ebook/dp/B08H7Y414K)”, recommends pursuing warmth, sincerity, and competence. When you're warm, you’re basically saying “I’m not going to play a dominance game with you and you're not going to receive any threats from me — you're in a safe place.” Similarly when you're sincere, you're saying “I'm going to be virtuous and not going to bullshit you. When things are going badly, I'm going to tell you. And lastly when you’re competent, you’re saying “I'm going to be useful. I've got a skill that’s useful to our game, and I can help you benefit from it and maybe even learn how to do it too.” One can analyze status dynamics in a million ways, but in some ways maybe it’s as simple as being warm, sincere, competent—and loyal." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=it%E2%80%99s%20very%20difficult,competent%E2%80%94and%20loyal.)
 
-> "We want people to think we’re virtuous—that’s a big incentive for us. But there’s a convoluted structure surrounding this incentive. We can only look virtuous by making it look like we weren’t trying to look virtuous. Which means that, to win the virtue game, we have to do all sorts of social maneuvering: we have to send “buried signals” of anonymous or inconspicuous altruism (to get credit for not caring about getting credit), show “modesty” or “humility” (to look morally superior to non-humble people), “bravely” defy social norms (to win the approval of our peers), and display our adherence to ethical principles independent of our self-interest (which is, ultimately, in our self-interest). It’s all very confusing." - [Incentives Are Everything, by David Pinsof](https://www.everythingisbullshit.blog/p/incentives-are-everything#:~:text=We%20want%20people,all%20very%20confusing.)
 
 
 
 
 
-> "... ambiguous social hierarchies cause profound anxiety. And why wouldn’t they? Think about it: we’re social beings living in a social universe where all of our expectations upon life hinge on how we perceive and reconstruct social hierarchies. If there is unclarity around this, we never know if we might suddenly wake up tomorrow and be the beggar, the laughing stock, or just the bland loser nobody respects. We all want some kind of certainty to hold on to, to know what to expect, what to prepare ourselves for, to strive for." - [Hanzi Freinacht](https://metamoderna.org/neuroatypicality-is-the-shamanism-of-late-modernity/)
+booting up the reputation/accountability/status market
 
+having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit
+
+https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
+
+
+
+
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Probability & prediction
+██████████████████████████████████████████████████████████████████
+
+The only macro long-term prediction we can make with any certainty is that the future belongs to those who can best predict it.
+
+
+## Universal Basic Humble Pie
+
+universal basic humble pie - let everyone participate in forecasting and let the rules sort out who's actually worth listening to
+so many people have so many opinions about how the world works and about war and conflict and whatnot - we MUST sort this out in a way such that we can all agree on the answer/result
+
+> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
+^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
+
+> "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
+
+
+if we're incentivised to go on the record for all of our predictions along with confidence margins it becomes impossible to cherry-pick only our successes and it stimulates us to refine our understanding of the world, to update our views once new data comes in, etc.
+
+<img src="/img/famous_failed_prediction.png"/>
+^^ who do we think understands the economy better - this chap, or the folks at the SantaFe institute who understand evolution, complex systems, information theory, etc? Who is in the driver's seat?
+
+> "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
+
+> "What I cannot *~~create~~* **predict**, I do not understand." - [Richard Feynman](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand), probably
+
+^^ prediction may be a requirement for understanding but is not sufficient. And in some complex chaotic systems we might even understand the dynamics and trends and yet we might not be able to predict. And yet, being able to predict is a useful signal for competence/understanding and in the cases when it's impossible - that's why we also be rating (good - a.k.a. hard to vary - all the parts of it should serve a purpose such that none of them are arbitrary and if any one of them is changed that would break the explanation - see The Beginning Of Infinity) explanations. Also if someone got some prediction right but their explanation is obviously (to us) wrong we might rule out their prediction in our subjective evaluation of their performance - we can simply discard it and not give them any credit.
+
+https://www.lesswrong.com/tag/futarchy
+
+https://www.lesswrong.com/tag/prediction-markets
+
+https://www.lesswrong.com/posts/a4jRN9nbD79PAhWTB/prediction-markets-when-do-they-work
+
+https://mason.gmu.edu/~rhanson/futarchy.html
+
+https://www.overcomingbias.com/p/merkles-futarchyhtml
+
+https://www.wired.com/1995/09/hanson-if/
+
+https://www.metaculus.com/help/faq/#metaculus-prediction
+
+https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
+
+metaculus, polymarket, manifold
+
+https://x.com/MetaDAOProject
+
+https://en.wikipedia.org/wiki/Prediction_market
+
+https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e
+
+> "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
+
+> "A clever person solves a problem. A wise person avoids it." - [Albert Einstein](https://www.goodreads.com/quotes/8241-a-clever-person-solves-a-problem-a-wise-person-avoids)
+
+> "Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write!" - [H. G. Wells](https://www.azquotes.com/quote/685542)
+
+we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
+
+Prediction markets are not necessarily for telling you what's true - they're for separating the winners from the losers. A constant influx of new entrants enables the aggregate to be skewed. We can have something like prediction markets that are non-financial but tied around identity
+
+on prediction markets...
+Involving money & futures contracts on any outcome might put skin in the game but has proven controversial (especially when it comes to terrorist attacks & assassinations):
+https://en.wikipedia.org/wiki/Policy_Analysis_Market
+https://en.wikipedia.org/wiki/Intrade
+We can reward with reputation/status/influence - not money. Also we can have prediction markets and simply vote which topics would be covered and which would not.
+Involving money requires fixing the oracle problem - we can avoid that and simply choose fact databases and decide how to calculate reputation.
+Financial contracts might probably also require syncing with these folks:
+Not using financial futures contracts avoids problems and dealings with these folks:
+https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
+
+> "Education: the path from cocky ignorance to miserable uncertainty." - [Mark Twain](https://www.goodreads.com/quotes/47069-education-the-path-from-cocky-ignorance-to-miserable-uncertainty)
+
+> "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes." - [Ray Dalio](https://www.goodreads.com/quotes/7172381-truth---more-precisely-an-accurate-understanding-of-reality--)
+
+> "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
+
+
+> "Tolerance grows only when faith loses certainty; certainty is murderous." - [Will Durant](https://www.goodreads.com/quotes/84593-tolerance-grows-only-when-faith-loses-certainty-certainty-is-murderous)
+
+
+> "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
+
+> "Doubt is an uncomfortable condition, but certainty is a ridiculous one." - [Voltaire](https://www.goodreads.com/quotes/24949-doubt-is-an-uncomfortable-condition-but-certainty-is-a-ridiculous)
+
+> "Cherish those who seek the truth but beware of those who find it." - [Voltaire](https://www.goodreads.com/quotes/76035-cherish-those-who-seek-the-truth-but-beware-of-those)
+
+> "Perfect is the enemy of good." - [Voltaire](https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good)
+
+> "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts." - [Bertrand Russell](https://www.goodreads.com/quotes/2597341-the-whole-problem-with-the-world-is-that-fools-and)
+
+
+> "The prediction market experiment was a success, but we will not proceed with the programme as it interferes with our ability to shape the narrative around the direction of government policy." - [A G7 government official and advisor to their head of state](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20prediction%20market%20experiment%20was%20a%20success%2C%20but%20we%20will%20not%20proceed%20with%20the%20programme%20as%20it%20interferes%20with%20our%20ability%20to%20shape%20the%20narrative%20around%20the%20direction%20of%20government%20policy.)
+
+> "Your crowdsourced real-time risk radar is remarkable, but we will not use it here. The only person who tells my board about unexploded bombs in this bank is me and people who answer directly to me." - [A leading bank CEO](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=Your%20crowdsourced%20real%2Dtime%20risk%20radar%20is%20remarkable%2C%20but%20we%20will%20not%20use%20it%20here.%20The%20only%20person%20who%20tells%20my%20board%20about%20unexploded%20bombs%20in%20this%20bank%20is%20me%20and%20people%20who%20answer%20directly%20to%20me.)
+
+> "The objective truth should never be more than optional input to any structural narrative in a social system." - [A partner at a prominent US-based global management consultant](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20objective%20truth%20should%20never%20be%20more%20than%20optional%20input%20to%20any%20structural%20narrative%20in%20a%20social%20system.)
+
+> "The problem with prediction markets is that they are the irritating precocious young child, entirely unfiltered socially, and yet forever talking about the elephants in the room that it may or may not be appropriate to talk about." - [A Ivy League Management Guru](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20problem%20with%20prediction%20markets%20is%20that%20they%20are%20the%20irritating%20precocious%20young%20child%2C%20entirely%20unfiltered%20socially%2C%20and%20yet%20forever%20talking%20about%20the%20elephants%20in%20the%20room%20that%20it%20may%20or%20may%20not%20be%20appropriate%20to%20talk%20about.)
+
+> "Prediction, not narration, is the real test of our understanding of the world." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177687-prediction-not-narration-is-the-real-test-of-our-understanding)
+
+> "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
+
+
+> "[Corroborating evidence](https://en.wikipedia.org/wiki/Corroborating_evidence) - Learning something from multiple sources, as unrelated as possible, should increase our confidence that it happened." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1423702201663320064)
+
+> "'The scientific method,' Thomas Henry Huxley once wrote, 'is nothing but the normal working of the human mind.' That is to say, when the mind is working; that is to say further, when it is engaged in correcting its mistakes." - [Neil Postman](https://www.azquotes.com/quote/1122871)
+
+> "What if we could leverage the wisdom of crowds in a systematic way  —  if we could separate the experts from the charlatans  —  and then have the experts weigh in on crucial decisions?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20leverage%20the%20wisdom%20of%20crowds%20in%20a%20systematic%20way%20%E2%80%8A%E2%80%94%20%E2%80%8Aif%20we%20could%20separate%20the%20experts%20from%20the%20charlatans%20%E2%80%8A%E2%80%94%20%E2%80%8Aand%20then%20have%20the%20experts%20weigh%20in%20on%20crucial%20decisions%3F)
+
+> "What if we could aggregate people who are working on the front lines of national security, public health, drug development, movies, government funded projects, trade agreements, banks —  and ask them whether their initiatives are on track?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20aggregate%20people%20who%20are%20working%20on%20the%20front%20lines%20of%20national%20security%2C%20public%20health%2C%20drug%20development%2C%20movies%2C%20government%20funded%20projects%2C%20trade%20agreements%2C%20banks%20%E2%80%94%20%E2%80%8Aand%20ask%20them%20whether%20their%20initiatives%20are%20on%20track%3F)
+
+> "What if, more broadly, everyone had skin in the game for their opinions? What if people had a financial incentive to be diligent in their predictions? What if people put their money where their mouths are? Could this help us make better decisions? That is the hope and promise of prediction markets." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%2C%20more,of%20prediction%20markets.)
+
+> "Politicians make baseless predictions with no accountability, while the media profits from sensationalist journalism. Pundits of all stripes have no skin in the game. Even when they get things wrong, they typically don’t go back to correct themselves. Experts don’t have incentives to speak up. Too much to lose. Charlatans, however, make baseless predictions to build an audience. If they’re wrong, their tribe still supports them. Celebrities are winning The War of Ideas. Tribalism above truth. Entertainment over everything. In an era of fake news, prediction markets can make a big impact." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Politicians%20make%20baseless,a%20big%20impact.)
+
+> "Prediction markets are truth-seeking machines. By forcing people to put their money where their mouths are, people now focus on being correct, rather than being liked, popular, or diplomatic. If they’re unwilling to bet, they’ll be discredited. If they’re wrong, they’ll lose money and reputation. Vice versa, if they win, expertise will be elevated, humility will be appreciated, and charlatanism will be eliminated." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=prediction%20markets%20are%20truth,charlatanism%20will%20be%20eliminated.)
+
+> "It’s not entirely wisdom of crowds  —  it’s wisdom of the “right” crowds  —  the experts. And, just as important, it silences (or cripples) the blowhards." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=It%E2%80%99s%20not%20entirely%20wisdom%20of%20crowds%20%E2%80%8A%E2%80%94%E2%80%8A%20it%E2%80%99s%20wisdom%20of%20the%20%E2%80%9Cright%E2%80%9D%20crowds%E2%80%8A%20%E2%80%94%20%E2%80%8Athe%20experts.%20And%2C%20just%20as%20important%2C%20it%20silences%20(or%20cripples)%20the%20blowhards.)
+
+> "By helping aggregate more information, decision markets might allow us to more accurately estimate the consequences of important decisions, and in the process elevate experts and drown out post-truth charlatans." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=by%20helping%20aggregate%20more%20information%2C%20decision%20markets%20might%20allow%20us%20to%20more%20accurately%20estimate%20the%20consequences%20of%20important%20decisions%2C%20and%20in%20the%20process%20elevate%20experts%20and%20drown%20out%20post%2Dtruth%20charlatans.)
+
+> "In a Futarchy, governments can do the following: 1) allow citizens to democratically vote on which metrics to optimize for and 2) create markets to let the wisdom of the crowd inform how to reach those goals. Democracy tells us what we want while speculators bet on how to get it. The Government could ask its citizens to rank order their priorities (GDP, education, and healthcare, for example), and then optimize against those priorities. Then, the Futarchy optimizes on that vector." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=In%20a%20Futarchy,on%20that%20vector.)
+
+> "When democracy was invented, the world was very different. Interests were more regional than they are today, and the cost of communicating was much higher. These factors made sending regional representatives to a central legislature an obvious democratic strategy. Nowadays, politicians don't win by telling the truth or making reasonable arguments. Under a Futarchy, there would at least be some market for truth-telling politicians." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=When%20democracy%20was,truth%2Dtelling%20politicians.)
+
+> "Not only does a Futarchy help us make better decisions, it helps us make quicker, more scalable solutions by automating the process & reducing overhead. Right now, our government is bloated and its main business model is entrenching itself. Perhaps a Futarchy could fix that." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Not%20only%20does%20a%20Futarchy%20help%20us%20make%20better%20decisions%2C%20it%20helps%20us%20make%20quicker%2C%20more%20scalable%20solutions%20by%20automating%20the%20process%20%26%20reducing%20overhead.%20Right%20now%2C%20our%20government%20is%20bloated%20and%20its%20main%20business%20model%20is%20entrenching%20itself.%20Perhaps%20a%20Futarchy%20could%20fix%20that.)
+
+<!-- QUOTES THAT SHOULD PROBABLY STAY HIDDEN:
+
+> "The brain is a multi-layer prediction machine. All neural processing consists of two streams: a bottom-up stream of sense data, and a top-down stream of predictions. These streams interface at each level of processing, comparing themselves to each other and adjusting themselves as necessary.
+>
+> The bottom-up stream starts out as all that incomprehensible light and darkness and noise that we need to process. It gradually moves up all the cognitive layers that we already knew existed – the edge-detectors that resolve it into edges, the object-detectors that shape the edges into solid objects, et cetera.
+>
+> The top-down stream starts with everything you know about the world, all your best heuristics, all your priors, everything that’s ever happened to you before – everything from “solid objects can’t pass through one another” to “e=mc^2” to “that guy in the blue uniform is probably a policeman”. It uses its knowledge of concepts to make predictions – not in the form of verbal statements, but in the form of expected sense data. It makes some guesses about what you’re going to see, hear, and feel next, and asks “Like this?” These predictions gradually move down all the cognitive layers to generate lower-level predictions. If that uniformed guy was a policeman, how would that affect the various objects in the scene? Given the answer to that question, how would it affect the distribution of edges in the scene? Given the answer to that question, how would it affect the raw-sense data received?
+>
+> Both streams are probabilistic in nature. The bottom-up sensory stream has to deal with fog, static, darkness, and neural noise; it knows that whatever forms it tries to extract from this signal might or might not be real. For its part, the top-down predictive stream knows that predicting the future is inherently difficult and its models are often flawed. So both streams contain not only data but estimates of the precision of that data. A bottom-up percept of an elephant right in front of you on a clear day might be labelled “very high precision”; one of a a vague form in a swirling mist far away might be labelled “very low precision”. A top-down prediction that water will be wet might be labelled “very high precision”; one that the stock market will go up might be labelled “very low precision”.
+>
+> As these two streams move through the brain side-by-side, they continually interface with each other. Each level receives the predictions from the level above it and the sense data from the level below it. Then each level uses Bayes’ Theorem to integrate these two sources of probabilistic evidence as best it can. This can end up a couple of different ways.
+>
+> First, the sense data and predictions may more-or-less match. In this case, the layer stays quiet, indicating “all is well”, and the higher layers never even hear about it. The higher levels just keep predicting whatever they were predicting before.
+>
+> Second, low-precision sense data might contradict high-precision predictions. The Bayesian math will conclude that the predictions are still probably right, but the sense data are wrong. The lower levels will “cook the books” – rewrite the sense data to make it look as predicted – and then continue to be quiet and signal that all is well. The higher levels continue to stick to their predictions.
+>
+> Third, there might be some unresolvable conflict between high-precision sense-data and predictions. The Bayesian math will indicate that the predictions are probably wrong. The neurons involved will fire, indicating “surprisal” – a gratuitiously-technical neuroscience term for surprise. The higher the degree of mismatch, and the higher the supposed precision of the data that led to the mismatch, the more surprisal – and the louder the alarm sent to the higher levels.
+>
+> When the higher levels receive the alarms from the lower levels, this is their equivalent of bottom-up sense-data. They ask themselves: “Did the even-higher-levels predict this would happen?” If so, they themselves stay quiet. If not, they might try to change their own models that map higher-level predictions to lower-level sense data. Or they might try to cook the books themselves to smooth over the discrepancy. If none of this works, they send alarms to the even-higher-levels.
+>
+> All the levels really hate hearing alarms. Their goal is to minimize surprisal – to become so good at predicting the world (conditional on the predictions sent by higher levels) that nothing ever surprises them. Surprise prompts a frenzy of activity adjusting the parameters of models – or deploying new models – until the surprise stops.
+>
+> All of this happens several times a second. The lower levels constantly shoot sense data at the upper levels, which constantly adjust their hypotheses and shoot them down at the lower levels. When surprise is registered, the relevant levels change their hypotheses or pass the buck upwards. After umpteen zillion cycles, everyone has the right hypotheses, nobody is surprised by anything, and the brain rests and moves on to the next task. As per the book:
+>
+> "To deal rapidly and fluently with an uncertain and noisy world, brains like ours have become masters of prediction – surfing the waves and noisy and ambiguous sensory stimulation by, in effect, trying to stay just ahead of them. A skilled surfer stays ‘in the pocket’: close to, yet just ahead of the place where the wave is breaking. This provides power and, when the wave breaks, it does not catch her. The brain’s task is not dissimilar. By constantly attempting to predict the incoming sensory signal we become able – in ways we shall soon explore in detail – to learn about the world around us and to engage that world in thought and action."
+>
+> The result is perception, which the PP theory describes as “controlled hallucination”. You’re not seeing the world as it is, exactly. You’re seeing your predictions about the world, cashed out as expected sensations, then shaped/constrained by the actual sense data." - [Book Review: Surfing Uncertainty, by Scott Alexander](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/#:~:text=the%20brain%20is,actual%20sense%20data.)
+
+Controlled Hallucination
+
+-->
