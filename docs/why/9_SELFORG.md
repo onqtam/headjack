@@ -391,7 +391,7 @@ One way to think about relevance realization when implementing something like it
 
 <details><summary>Quotes related to RR</summary><p>
 
-> "In an age of infinite leverage, judgement is the most important skill." - [Naval Ravikant](https://twitter.com/naval/status/998039099427704832?lang=en)
+> "In an age of infinite leverage, judgement is the most important skill." - [Naval Ravikant](https://twitter.com/naval/status/998039099427704832)
 
 > "We do not measure a culture by its output of undisguised trivialities but by what it claims as significant." - [Neil Postman](https://www.azquotes.com/quote/456296)
 

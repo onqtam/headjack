@@ -391,6 +391,46 @@ TODO: expand on how to counter this - reputation, integration of opinions for co
 
 > "We spend our lives desperately seeking status; we are addicted to social esteem in a fairly literal sense, dependent on the neurotransmitters we get upon impressing people. Many of us claim to be self-sufficient, to have a moral gyroscope, to hold fast to our values, come what may. But people truly oblivious to peer approval get labeled sociopaths. And the epithets reserved for people at the other end of the spectrum, people who seek esteem most ardently—“self-promoter,” “social climber”—are only signs of our constitutional blindness. We are all self-promoters and social climbers. The people known as such are either so effective as to arouse envy or so graceless as to make their effort obvious, or both." - [Robert Wright](https://www.goodreads.com/quotes/9799532-we-spend-our-lives-desperately-seeking-status-we-are-addicted)
 
+# Social Pathologies: Comparison, Virtue Signalling, Tall Poppy Syndrome, Ressentiment, Scapegoating & Unacknowledged Status Dynamics
+
+> "Back in the day there was no police force, no judiciary, and no prison system. Gossip was how we regulated our societies for thousands of years. After all, people needed to know who to collaborate with and who to avoid. But once we settled down and our communities started growing big enough that we couldn't know every member personally, gossip stopped working as a method of adjudicating and regulating the behavior of the tribe. So we invented a new accountability mechanism: an all-seeing, all-knowing God that could either reward and punish us. And once we stopped believing in god, the media took over god’s role. More recently, social media has become the newest accountability enforcer — and it’s a [disaster](https://twitter.com/coldxman/status/1507497409441632262).
+>
+> ... Our brains evolved to work in small groups of 150 people and now we’ve plugged them into the entire world via the internet overnight. This amplifies the comparison game we play. Previously, our envy was limited to 150 people. But now we’re constantly comparing ourselves to 8 billion people. Take any skill we might have — we can now easily find someone orders of magnitude better at it. Social media has put people in a 24/7 global status competition hamster wheel and most people can't keep up. There are more ways to gain status, recognition and community than ever before — but there are also more ways than ever to remind ourselves how many people are better, richer, and happier than we are.
+>
+> ... There are two prestige games we play within tribes in order to increase our status: virtue games and competence games. Virtue games are about enforcing the norms of the group. Competence games are about being useful to the group. Before settling in tribes, we used to primarily play dominance games — but prestige games (i.e. virtue, competence) took over once we began to collaborate with other tribes.
+>
+> In some ways, the industrial revolution cemented the prioritization of competence games over virtue games. We started caring much less about caste and social background, and caring much more about who can build the best bridge or the best internal combustion engine, etc. This meant that status became much more “liquid,” meaning you could rise or fall much more often according to your level of competence.
+>
+> But in other ways, virtue games have reinvented themselves today. They’re played by all the whistleblowers, activists, and cancelers. Some change history — but some just cause problems. Why do they do this? Among other reasons, they get a status boost from it. There are millions and millions of ordinary people with ordinary lives who suddenly feel like they're fighting the good fight against the forces of evil. As humans we have this need to feel like heroes, and modern life grants us very little opportunity to do so. Religion and wars used to serve this purpose. Today, it’s politics and activism.
+>
+> To be sure, everyone wants status. But not everyone can be competent. That’s hard. Competence takes years of practice, in addition to natural talent and opportunities. But, for better and for worse, nearly anyone can become a victim. Given how much we empathize with victims, we struggle to adjudicate harm and reflexively take the side of the victim, even in circumstances where the harm was exaggerated, partly to counteract how much we’ve failed to defend certain victims historically.
+>
+> This partly explains cancel culture: a warped amplification of our natural desires to gossip, seek revenge, and accrue status points from taking other people down. In a society where status inequality is salient and acquiring status is hard to come by, this makes sense: If people don’t feel like they can gain status from building things, they’ll try to remove status from others by taking things down.
+>
+> ... For millions of years, this has been true for us just as it’s been true for most animals: the more status you get, the better everything else gets. This forms the basic heuristic in the human brain: get status and everything else will get better. The irony, however, is that once you assume a lot of status, you’re now suddenly incentivized to hide how much status you have. This is because you have become a threat to others who don’t have status and see status as zero-sum — which in some relative sense, it is.
+>
+> ... Remember, our 150-person tribes evolved to be egalitarian by design since resources were limited. Since we’re still wired for that zero sum world, we feel excited when others suffer and angry when they thrive because we unconsciously assume that their thriving is at our expense. This, however, is not the case. It’s actually the opposite — people who thrive often have more to offer us.
+>
+> This results in [Tall Poppy Syndrome](https://en.wikipedia.org/wiki/Tall_poppy_syndrome), or the idea that you don’t want to stand out too much lest people start to resent you. When Tall Poppy Syndrome pervades a culture, it prevents people from reaching their potential, which is perverse. It also explains why successful people are often so vulnerable — they want others to think that they’re just like them, even though they are in fact better. They often don’t have imposter syndrome, but you’d probably hate them if they said that aloud. Instead they wax poetic about how much they doubt themselves so they appear more relatable. This is also why successful people behave vulnerably in the public eye. Vulnerability makes unsuccessful people feel better by implying that the reason they didn’t make it is because of either bad luck or a biased society. It also implies that even if they had become successful, they’d be miserable anyway, since success breeds misery, or something. Which largely isn’t true, of course.
+>
+> Nietzsche named this envy “[Ressentiment](https://en.wikipedia.org/wiki/Ressentiment)”. Ayn Rand called it “Hatred of the good for being the good.” In a world where we believe that we can be anything, if we don’t end up the next Elon Musk or Michelle Obama or Kim Kardashian or whoever celebrity we admire, we seek someone to blame. We could blame ourselves, but that would be depressing. It’s easier to blame other people or larger societal injustices. Ressentiment is “a reassignment of the pain of feeling one's own inferiority onto an external scapegoat. The ego creates the illusion of an enemy — a cause that can be "blamed" for one's own failure. Thus, one can consider themself thwarted not by a personal failure, but rather by an external "evil.""
+>
+> Ressentiment explains why the endless Twitter debates about [whether hard work matters](https://eriktorenberg.substack.com/p/on-hustle-culture) are so contentious. This is also why the idea of [meritocracy](https://eriktorenberg.substack.com/p/on-meritocracy) is so controversial. Anything that implies that people *earned* their success implies that other people didn’t. That’s a hard pill to swallow for many. It’s the endless battle between Nietszsche’s idea of “Priest Morality,” or valoration of the victim against the oppressor, vs “Warrior Morality,” or valoration of the strong against the weak.
+>
+> ... True pros play both games simultaneously. “Complaining about how busy one is hits a sweet spot of oppression — I cannot manage my life! — and importance — because I am so in demand!” Another example of this phenomena in action is charity: the act of giving signals both how rich/successful you are *and* how egalitarian you are. People want to be both extremely successful and extremely humble & charitable.
+>
+> ... Of course, one must pretend not to be playing these games while they play them. Paraphrasing Taleb: anything done with explicit intent to improve one’s status likely won’t improve one’s status. To admit to being motivated by a desire to improve ones’ rank is to risk making others think less of us, thus diminishing our rank. Even admitting this reality to ourselves can make us feel like our status has dropped. Even reading this piece has significantly lowered your status (kidding!)
+>
+> Which is why most people don’t even acknowledge status dynamics at all, even to themselves. For example, a friend once asked me why I tweet. When I told her it I do it for myself, not anyone else, she laughed. I meant it too. When I later asked her why she takes selfies on Instagram in a Bikini, she said she did it for herself, not anyone else. I laughed, realizing my answer must have sounded just as silly.
+>
+> Without even trying, we convince ourselves we aren’t seeking status, but of course we need it. Without it, we become depressed — even suicidal. Status is how we're wired to measure our worth. Why? We’re wired this way because we originally needed to be part of a tribe in order to survive. If you lost all of your status and were kicked out of your tribe, you died — which is why being “canceled” at the time meant you died, which explains why we dread it so much. People who experience a severe drop in status often become depressed or suicidal. Status isn’t enough to make us happy — since it’s a hamster wheel — but losing status most certainly makes us unhappy.
+>
+> ... So. How do we get out of the status rat race? One path is to differentiate. Thanks to the internet, we’ve created a kazillion niches where people can attain status within their local tribe. One of the biggest gains of the internet that hasn’t been captured by GDP is how many new niches have been created in which you can become great and be recognized for it. Indeed: The best way to not be jealous of other people is to not compare yourself to them. The best way to stop comparing yourself to other people is to not compete with them. And the best way of avoiding competition is to do something only you can do.
+>
+> ... It’s very difficult to opt out of status games entirely. So another path is to just submit. Perhaps the only way out is through. Will Storr, in his book “[The Status Game](https://www.amazon.com/Status-Game-Position-Governs-Everything-ebook/dp/B08H7Y414K)”, recommends pursuing warmth, sincerity, and competence. When you're warm, you’re basically saying “I’m not going to play a dominance game with you and you're not going to receive any threats from me — you're in a safe place.” Similarly when you're sincere, you're saying “I'm going to be virtuous and not going to bullshit you. When things are going badly, I'm going to tell you. And lastly when you’re competent, you’re saying “I'm going to be useful. I've got a skill that’s useful to our game, and I can help you benefit from it and maybe even learn how to do it too.” One can analyze status dynamics in a million ways, but in some ways maybe **it’s as simple as being warm, sincere, competent—and loyal**." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=it%E2%80%99s%20very%20difficult,competent%E2%80%94and%20loyal.)
+
+We need to acknowledge status dynamics and teach them as broadly as possible - ignoring reality and human nature is ultimately self-defeating.
+
 # Reengineering Status Deliberately
 
 > "The whole point of the human brain is behavioural flexibility." - [The Moral Animal (1994), by Robert Wright](https://twitter.com/robertwrighter)
@@ -415,6 +455,10 @@ We need compartmentalization of expertise - making it impossible to move value w
 The commitment of time and attention to problem-solving should be informationally separated from the influence of money which is perfectly fungible
 
 carrot & stick
+
+booting up the reputation/accountability/status market
+
+having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit
 
 https://twitter.com/paulg/status/1673622294227308546?s=46
 What if we could reward the switching of beliefs in such a way as to incentivize early adopters of better ideas?
@@ -553,6 +597,12 @@ And access to talent discovery will be democratized - currently very few are act
 > "If you had a map of the other person’s knowledge tree, colored by interest, you could easily figure out what to talk about. But we don’t carry our colored knowledge trees around, so we’re forced to use the highly inefficient, sequential system of talking to touch on lots of topics until we find something mutually interesting... Meeting new people is a race to find the most interesting overlap areas between your knowledge trees as fast as possible." - [The Tree of Knowledge, by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/the-tree-of-knowledge)
 
 By enabling people to express their interests/opinions/goals in a deduplicated & unambiguous way and to prove their credibility in different fields we'll be able to see the overlap of interests/opinions and be able to quantify it with a single click and we'd be able to rank/sort/search in any way we wish. We can improve literally any kind of matchmaking - including dating.
+
+
+https://twitter.com/eriktorenberg/status/1748056677449138500
+"Backchannel references as a service - Pay money, get a reference. Give a reference, get paid (as long as your reference is desired) If you're seeking a reference, you only pay if we find you someone you want to talk to"
+^^ this but with ZK
+TODO think about this
 
 
 TODO Credentials / Accreditation
@@ -747,6 +797,7 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 ██████████████████████████████████████████████████████████████████
 
 morpheus - you think that's meritocracy that you're experiencing?
+TODO INTERNET
 
 > "He who seeks equality between unequals seeks an absurdity." - [Baruch Spinoza](https://www.azquotes.com/quote/1022995)
 
@@ -990,11 +1041,7 @@ Instead of compromising on competence and meritocracy we should shift resources 
 
 
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Minimum Viable Superorganism
-██████████████████████████████████████████████████████████████████
-
-
+# Minimum Viable Superorganism
 
 > "Of all the remarkable things about our species... perhaps the most striking of all is our ability to band together and act as a united, coherent superorganism. **E pluribus unum**. From many, one. I don't mean anything particularly high-minded by "superorganism." It's just a fun way to refer to a cooperative enterprise. **Co-**, together + **operari**, work. Acting in concert. Coordinating individual behavior in pursuit of shared goals. Superorganisms, in this sense, include such mundane arrangements as law firms, soccer teams, city governments, and party planning committees. In fact, most of the groups we care about are superorganisms. A mere crowd, on the other hand, isn't a superorganism. It's just every man for himself — all **pluribus**, no **unum**...
 >
@@ -1033,85 +1080,8 @@ how stock options don't directly make people work harder for their direct moneta
 -->
 
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Other
-██████████████████████████████████████████████████████████████████
-
-https://twitter.com/eriktorenberg/status/1748056677449138500
-"Backchannel references as a service - Pay money, get a reference. Give a reference, get paid (as long as your reference is desired) If you're seeking a reference, you only pay if we find you someone you want to talk to"
-^^ this but with ZK
 
 
-> "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
-The only measure of life is how much you’ve given
-https://x.com/KirilovVik/status/1921637558687006787
-
-
-
-
-
-
-
-
-
-> "Back in the day there was no police force, no judiciary, and no prison system. Gossip was how we regulated our societies for thousands of years. After all, people needed to know who to collaborate with and who to avoid. But once we settled down and our communities started growing big enough that we couldn't know every member personally, gossip stopped working as a method of adjudicating and regulating the behavior of the tribe. So we invented a new accountability mechanism: an all-seeing, all-knowing God that could either reward and punish us. And once we stopped believing in god, the media took over god’s role. More recently, social media has become the newest accountability enforcer — and it’s a [disaster](https://twitter.com/coldxman/status/1507497409441632262?lang=en)." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=back%20in%20the,a%20disaster.)
-
-> "Our brains evolved to work in small groups of 150 people and now we’ve plugged them into the entire world via the internet overnight. This amplifies the comparison game we play. Previously, our envy was limited to 150 people. But now we’re constantly comparing ourselves to 8 billion people. Take any skill we might have — we can now easily find someone orders of magnitude better at it. Social media has put people in a 24/7 global status competition hamster wheel and most people can't keep up. There are more ways to gain status, recognition and community than ever before — but there are also more ways than ever to remind ourselves how many people are better, richer, and happier than we are." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=Our%20brains%20evolved,than%20we%20are.)
-
-> "There are two prestige games we play within tribes in order to increase our status: virtue games and competence games. Virtue games are about enforcing the norms of the group. Competence games are about being useful to the group. Before settling in tribes, we used to primarily play dominance games — but prestige games (i.e. virtue, competence) took over once we began to collaborate with other tribes.
->
-> In some ways, the industrial revolution cemented the prioritization of competence games over virtue games. We started caring much less about caste and social background, and caring much more about who can build the best bridge or the best internal combustion engine, etc. This meant that status became much more “liquid,” meaning you could rise or fall much more often according to your level of competence.
->
-> But in other ways, virtue games have reinvented themselves today. They’re played by all the whistleblowers, activists, and cancelers. Some change history — but some just cause problems. Why do they do this? Among other reasons, they get a status boost from it. There are millions and millions of ordinary people with ordinary lives who suddenly feel like they're fighting the good fight against the forces of evil. As humans we have this need to feel like heroes, and modern life grants us very little opportunity to do so. Religion and wars used to serve this purpose. Today, it’s politics and activism.
->
-> To be sure, everyone wants status. But not everyone can be competent. That’s hard. Competence takes years of practice, in addition to natural talent and opportunities. But, for better and for worse, nearly anyone can become a victim. Given how much we empathize with victims, we struggle to adjudicate harm and reflexively take the side of the victim, even in circumstances where the harm was exaggerated, partly to counteract how much we’ve failed to defend certain victims historically.
->
-> This partly explains cancel culture: a warped amplification of our natural desires to gossip, seek revenge, and accrue status points from taking other people down. In a society where status inequality is salient and acquiring status is hard to come by, this makes sense: If people don’t feel like they can gain status from building things, they’ll try to remove status from others by taking things down." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=There%20are%20two,taking%20things%20down.)
-
-> "For millions of years, this has been true for us just as it’s been true for most animals: the more status you get, the better everything else gets.
->
-> This forms the basic heuristic in the human brain: get status and everything else will get better. 
->
-> The irony, however, is that once you assume a lot of status, you’re now suddenly incentivized to hide how much status you have. This is because you have become a threat to others who don’t have status and see status as zero-sum — which in some relative sense, it is." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=For%20millions%20of,sense%2C%20it%20is.)
-
-> "Remember, our 150-person tribes evolved to be egalitarian by design since resources were limited. Since we’re still wired for that zero sum world, we feel excited when others suffer and angry when they thrive because we unconsciously assume that their thriving is at our expense. This, however, is not the case. It’s actually the opposite — people who thrive often have more to offer us. 
->
-> This results in [Tall Poppy Syndrome](https://en.wikipedia.org/wiki/Tall_poppy_syndrome), or the idea that you don’t want to stand out too much lest people start to resent you. When Tall Poppy Syndrome pervades a culture, it prevents people from reaching their potential, which is perverse. It also explains why successful people are often so vulnerable — they want others to think that they’re just like them, even though they are in fact better. They often don’t have imposter syndrome, but you’d probably hate them if they said that aloud. Instead they wax poetic about how much they doubt themselves so they appear more relatable. This is also why successful people behave vulnerably in the public eye. Vulnerability makes unsuccessful people feel better by implying that the reason they didn’t make it is because of either bad luck or a biased society. It also implies that even if they had become successful, they’d be miserable anyway, since success breeds misery, or something. Which largely isn’t true, of course.
->
-> Nietzsche named this envy “[Ressentiment](https://en.wikipedia.org/wiki/Ressentiment)”. Ayn Rand called it “Hatred of the good for being the good.” In a world where we believe that we can be anything, if we don’t end up the next Elon Musk or Michelle Obama or Kim Kardashian or whoever celebrity we admire, we seek someone to blame. We could blame ourselves, but that would be depressing. It’s easier to blame other people or larger societal injustices. Ressentiment is “a reassignment of the pain of feeling one's own inferiority onto an external scapegoat. The ego creates the illusion of an enemy — a cause that can be "blamed" for one's own failure. Thus, one can consider themself thwarted not by a personal failure, but rather by an external "evil.""
->
-> Ressentiment explains why the endless Twitter debates about [whether hard work matters](https://eriktorenberg.substack.com/p/on-hustle-culture) are so contentious. This is also why the idea of [meritocracy](https://eriktorenberg.substack.com/p/on-meritocracy) is so controversial. Anything that implies that people *earned* their success implies that other people didn’t. That’s a hard pill to swallow for many. It’s the endless battle between Nietszsche’s idea of “Priest Morality,” or valoration of the victim against the oppressor, vs “Warrior Morality,” or valoration of the strong against the weak." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=Remember%2C%20our%20150,against%20the%20weak.)
-
-> "True pros play both games simultaneously. “Complaining about how busy one is hits a sweet spot of oppression — I cannot manage my life! — and importance — because I am so in demand!” 
->
-> Another example of this phenomena in action is charity: the act of giving signals both how rich/successful you are *and* how egalitarian you are. People want to be both extremely successful and extremely humble & charitable." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=True%20pros%20play,extremely%20humble%20%26%20charitable.)
-
-> "Of course, one must pretend not to be playing these games while they play them. Paraphrasing Taleb: anything done with explicit intent to improve one’s status likely won’t improve one’s status. To admit to being motivated by a desire to improve ones’ rank is to risk making others think less of us, thus diminishing our rank. Even admitting this reality to ourselves can make us feel like our status has dropped. Even reading this piece has significantly lowered your status (kidding!)
->
-> Which is why most people don’t even acknowledge status dynamics at all, even to themselves. For example, a friend once asked me why I tweet. When I told her it I do it for myself, not anyone else, she laughed. I meant it too. When I later asked her why she takes selfies on Instagram in a Bikini, she said she did it for herself, not anyone else. I laughed, realizing my answer must have sounded just as silly.
->
-> Without even trying, we convince ourselves we aren’t seeking status, but of course we need it. Without it, we become depressed — even suicidal. Status is how we're wired to measure our worth. Why? We’re wired this way because we originally needed to be part of a tribe in order to survive. If you lost all of your status and were kicked out of your tribe, you died — which is why being “canceled” at the time meant you died, which explains why we dread it so much. People who experience a severe drop in status often become depressed or suicidal. Status isn’t enough to make us happy — since it’s a hamster wheel — but losing status most certainly makes us unhappy." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=Of%20course%2C%20one,makes%20us%20unhappy.)
-
-> "So. How do we get out of the status rat race? 
->
-> One path is to differentiate. Thanks to the internet, we’ve created a kazillion niches where people can attain status within their local tribe. One of the biggest gains of the internet that hasn’t been captured by GDP is how many new niches have been created in which you can become great and be recognized for it.
->
-> Indeed: The best way to not be jealous of other people is to not compare yourself to them. The best way to stop comparing yourself to other people is to not compete with them. And the best way of avoiding competition is to do something only you can do." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=So.%20How%20do,can%20do.)
-
-> "It’s very difficult to opt out of status games entirely. So another path is to just submit. Perhaps the only way out is through.
->
-> Will Storr, in his book “[The Status Game](https://www.amazon.com/Status-Game-Position-Governs-Everything-ebook/dp/B08H7Y414K)”, recommends pursuing warmth, sincerity, and competence. When you're warm, you’re basically saying “I’m not going to play a dominance game with you and you're not going to receive any threats from me — you're in a safe place.” Similarly when you're sincere, you're saying “I'm going to be virtuous and not going to bullshit you. When things are going badly, I'm going to tell you. And lastly when you’re competent, you’re saying “I'm going to be useful. I've got a skill that’s useful to our game, and I can help you benefit from it and maybe even learn how to do it too.” One can analyze status dynamics in a million ways, but in some ways maybe it’s as simple as being warm, sincere, competent—and loyal." - [Status, Vulnerability, and Status Vulnerability, by Erik Torenberg](https://eriktorenberg.substack.com/p/status-vulnerability-and-status-vulnerability#:~:text=it%E2%80%99s%20very%20difficult,competent%E2%80%94and%20loyal.)
-
-
-
-
-
-
-booting up the reputation/accountability/status market
-
-having your post (successfully) labeled as a duplicate of something else could impact your reputation negatively by a small bit
-
-https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
 
 
 
@@ -1138,7 +1108,7 @@ so many people have so many opinions about how the world works and about war and
 if we're incentivised to go on the record for all of our predictions along with confidence margins it becomes impossible to cherry-pick only our successes and it stimulates us to refine our understanding of the world, to update our views once new data comes in, etc.
 
 <img src="/img/famous_failed_prediction.png"/>
-^^ who do we think understands the economy better - this chap, or the folks at the SantaFe institute who understand evolution, complex systems, information theory, etc? Who is in the driver's seat?
+^^ who do we think understands the economy better - this chap, or the folks at the SantaFe institute who understand evolution, complex systems, information theory, etc? Why are the wrong people in the driver's seat?
 
 > "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
 

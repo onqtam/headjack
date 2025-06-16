@@ -4,7 +4,9 @@ draft: true
 
 TOPICS TO FINISH AS A SECTION:
 
-- status! reputation! all of it
+- status! reputation! all of it, also prediction
+- attention & consciousness
+- collective intelligence
 
 - EDUCATION !!!
 

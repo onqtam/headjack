@@ -969,6 +969,13 @@ https://systems-souls-society.com/the-market-myth/
 # SECTION: Redirecting surplus
 ██████████████████████████████████████████████████████████████████
 
+
+> "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
+The only measure of life is how much you’ve given
+https://x.com/KirilovVik/status/1921637558687006787
+
+
+
 > "We have always known that heedless self interest was bad morals, we now know that it is bad economics." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/35219-we-have-always-known-that-heedless-self-interest-was-bad)
 
 

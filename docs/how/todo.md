@@ -427,6 +427,8 @@ Headjack is future proof
 Built with UX in mind - for high throughput/performance and low latency
 
 
+https://en.wikipedia.org/wiki/Reputation_system#Attack_classification
+
 
 https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/
 https://web.archive.org/web/20220428114634/https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/
