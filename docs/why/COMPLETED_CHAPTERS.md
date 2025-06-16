@@ -558,6 +558,9 @@ When these principles are applied, they ensure that whatever structures are deve
 > "Unless we establish some form of world government, it will not be possible for us to avert a World War III in the future." - [Winston Churchill](https://www.azquotes.com/quote/785081)
 
 
+> "Hierarchies are critical in enabling networks to reach larger sizes before diseconomies of scale set in. This is why so many networks in the natural and computer worlds are structured as networks within networks." - [Eric D. Beinhocker](https://www.goodreads.com/quotes/10012208-hierarchies-are-critical-in-enabling-networks-to-reach-larger-sizes)
+
+
 As above, so below
 https://en.wikipedia.org/wiki/As_above,_so_below
 
@@ -703,6 +706,10 @@ critique of Subsidiarity - hard to determine the boundary of effects
 > "Good political institutions are those that make it as easy as possible to detect whether a ruler or policy is a mistake, and to remove rulers or policies without violence when they are." - [David Deutsch](https://www.goodreads.com/quotes/7684716-good-political-institutions-are-those-that-make-it-as-easy)
 
 > "Without error-correction all information processing, and hence all knowledge-creation, is necessarily bounded. Error-correction is the beginning of infinity." - [David Deutsch](https://www.goodreads.com/quotes/9507955-without-error-correction-all-information-processing-and-hence-all-knowledge-creation-is)
+
+> "'The scientific method,' Thomas Henry Huxley once wrote, 'is nothing but the normal working of the human mind.' That is to say, when the mind is working; that is to say further, when it is engaged in correcting its mistakes." - [Neil Postman](https://www.azquotes.com/quote/1122871)
+
+> "The public has a distorted view of science because children are taught in school that science is a collection of firmly established truths. In fact, science is not a collection of truths. It is a continuing exploration of mysteries." - [Freeman Dyson](https://www.goodreads.com/quotes/360178-the-public-has-a-distorted-view-of-science-because-children)
 
 
 ██████████████████████████████████████████████████████████████████

@@ -528,6 +528,8 @@ Freedom through constraint
 
 > "Freedom is the power to choose our own chains." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/371725)
 
+> "Seek freedom and become captive of your desires. Seek discipline and find your liberty." - [Frank Herbert](https://www.goodreads.com/quotes/222643-seek-freedom-and-become-captive-of-your-desires-seek-discipline)
+
 > "In my youth I stressed freedom, and in my old age I stress order. I have made the great discovery that liberty is a product of order." - [Will Durant](https://www.azquotes.com/quote/83462)
 
 > "When liberty destroys order the hunger for order will destroy liberty." - [Will Durant](https://www.azquotes.com/quote/567559)

@@ -19,6 +19,11 @@ This is a very dense book, but understanding it and the system it would produce 
 "After this," says Morpheus to Neo in The Matrix, "there is no turning back."
 You take the blue pill — the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill — you stay in Wonderland, and I show you how deep the rabbit hole goes.
 
+You'll be so **enthralled** reading it on your computer that you'll call your mom to bring you a bucket when you need to go number 1 (or even number 2 - BIG IF TRUE!).
+TODO INTERNET picture "Mom, bathroom!"
+also link to short clip from YT
+You'll voluntarily put the spectacles from A Clockwork Orange on your eyes while reading it
+
 # about the quote-heavy style of the book
 
 Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.
@@ -54,7 +59,7 @@ Reading these before the book will help get a sense of what's to come, but they'
 
 Because why not. Seriously!
 
-> "Free your mind." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/characters/nm0000401?item=qt0324296&ref_=ext_shr_lnk)
+
 
 The Third Attractor
     > "The collective, adaptive sweet spot between a chaotic collapse and a totalitarian ordered system of control." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
@@ -145,6 +150,7 @@ Organizing the world's information, but for real
 Cultural Enlightenment or Bust
     > "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
 The One
+The Greatest Reset
 E pluribus unum - From many, one
 Giga Brain - or just Giga
 The Best of Us
@@ -172,10 +178,17 @@ The TL;DR of 1000 books, papers, blogs, and talks
     synthesizing and integrating what's most important from them
 “Family”/“The family”
 Incentives from first principles
+This Book Can be Read in 2-3 Weeks
+    > "There are decades where nothing happens; and there are weeks where decades happen." - [Vladimir Lenin](https://www.goodreads.com/quotes/342783-there-are-decades-where-nothing-happens-and-there-are-weeks)
 In the depths of self-organization
 The Recognition Economy
 Collectivito, ergo sum, or [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) - `"I am because we are"`
+    > "Individualism is a formidable lie." - [Rene Girard](https://en.wikiquote.org/wiki/Ren%C3%A9_Girard#:~:text=Individualism%20is%20a%20formidable%20lie.)
+    > "What You *~~Do~~* **Are** Is *~~Who You Are~~* **What We Are**." - [Ben Horowitz](https://www.goodreads.com/book/show/44063692-what-you-do-is-who-you-are), probably
+    ^^ A cooperative collective intelligence of parts that gives rise to a higher order entity
+    <details><summary>Quote by Daniel Schmachtenberger on Ubuntu</summary><p>
     > "The idea of [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy), I am because we are, It was this foundational concept of human beings before the thing we call civilization, right? I Am Because We Are was, like, just at the most prosaic level, nature did not select for individual sapiens. It only selected for groups of sapiens. Individual sapiens in evolutionary environments were all dead. And so what's best for me that fucks the tribe is not a concept. That's not a thing, right? What is best for the tribe that I can't exist without of? I am because we are, I would not exist. I'd be dead without all of us. That's like the basic insight. So I am, because we are obviously just starts with, I couldn't survive without us. But then it's also deeper, which is I think in words that I didn't invent that all these other people invented. And, but my own most intimate thing, my thoughts with myself are in a language that I didn't make. I am... my thoughts were made by other people, right? The... language of my thoughts, my understanding of the world was transmitted to me largely by other people. The tools that I use, the things that I benefit from, the, all of that, that I am, almost all the things I think of as I am, because we are, right? Because of things that were created. And it goes deeper, because the we was never, never just meant our tribe. It also meant nature. The extension to all our relationships, and all our relationships was all life, and life didn't just mean biological, which is why they were animistic. Those cultures were all animistic. The spirit of the sun, the spirit of the river, the spirit of everything, because it was a very clear understanding. What would I be without the tribe? I'd be dead. What would I be without the sun? I would have never existed. What would I be without the galactic center around which the sun orbits? I wouldn't exist. What would I be without the gravitational field? What would I be without the soil microbes? What would I be without plants? What would I be without all of that? I wouldn't be. So, I, that is not the emergent property of we, isn't even a thing. It's not even thinking." - [Daniel Schmachtenberger](https://youtu.be/tmusbHBKW84?t=6699)
+    </p></details>
 System 10b
     from gameA to gameB - jango unchained meme - "the b is binary" from "the ... is silent"
 Culturio - like Factorio
@@ -186,6 +199,7 @@ Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
 Participatory Intelligent Design
 Memetic Supremacy
+    The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives of a centuries old paradigm they've inherited / found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do.
 The open source participatory/democratic GCP (global communist party)
 “The highest leverage point”
 The Global Community

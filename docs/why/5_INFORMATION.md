@@ -87,6 +87,8 @@ Information theory could be as important as or even fundamental to matter & the 
 
 some people think that with LLMs we've reached the pinnacle of communication with machines with something as natural as text but that couldn't be further from the truth - we need structured data more than ever
 
+> "It is better to be wrong than to be vague." - [Freeman Dyson](https://www.goodreads.com/quotes/482676-it-is-better-to-be-wrong-than-to-be-vague)
+
 What if:
 
 - most comments were turned into reactions/votes/assertions that are unambiguous? There's always the option to comment on your reaction/vote/assertion to clarify it and add context.

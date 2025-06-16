@@ -167,6 +167,9 @@ Conscious economics
 > "It is not a zero sum game. The simple idea of the gains from trade lies at the heart of the modern and the ancient economy, not the power of capital. There is nothing else to it." - [Matt Ridley](https://www.azquotes.com/quote/604293)
 
 
+> "Wealth is knowledge and its origin is evolution." - [Eric D. Beinhocker](https://www.azquotes.com/quote/1034893)
+
+> "Prosperity in a society is the accumulation of solutions to human problems." - [Eric D. Beinhocker](https://www.azquotes.com/quote/1353696)
 
 > "We're facing a danger that economics is rigorous deduction based upon faulty assumptions. Science after science gets that way from time to time. When it does, we're in real trouble." - [W. Brian Arthur](https://www.azquotes.com/quote/1370542)
 

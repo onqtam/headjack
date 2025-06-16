@@ -332,3 +332,7 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "The objective rational capitalist individual of the modern world needs to be rethought on the fundamental level." - [Global Brain Singularity, by Cadell Last](https://cadelllast.files.wordpress.com/2018/11/phd-thesis-articles-pdf.pdf)
 
+> "The difference between mere management and leadership is communication." - [Winston Churchill](https://www.azquotes.com/quote/895708)
+
+> "The obedient always think of themselves as virtuous rather than cowardly." - [Robert Anton Wilson](https://www.goodreads.com/quotes/10977476-the-obedient-always-think-of-themselves-as-virtuous-rather-than)
+

@@ -1,6 +1,6 @@
 
 
-
+Forgiveness as part of the optimal game-theoretic strategy
 
 > "Our instinctual tendencies toward Vengeance are a Great Filter whose perennial nature is more or less obvious...
 >
@@ -53,9 +53,6 @@
 
 
 
-> "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
-
-> "God is the unlimited conceptual realization of the absolute wealth of potentiality." - [Alfred North Whitehead](https://www.goodreads.com/quotes/8139417-god-is-the-unlimited-conceptual-realization-of-the-absolute-wealth)
 
 
 
@@ -66,11 +63,8 @@
 
 
 
-> "Any use of a human being in which less is demanded of him and less is attributed to him than his full status is a degradation and a waste." - [Norbert Wiener](https://www.azquotes.com/quote/780182)
 
-> "We are but whirlpools in a river of ever-flowing water. We are not stuff that abides, but patterns that perpetuate themselves. A pattern is a message, and may be transmitted as a message." - [Norbert Wiener](https://www.azquotes.com/quote/703349)
 
-> "Until we in the community have made up our minds that what we really want is expiation, or removal, or reform, or the discouragement of potential criminals, we shall get none of these, but only a confusion in which crime breeds more crime." - [Norbert Wiener](https://www.azquotes.com/quote/1084944)
 
 
 
@@ -218,7 +212,6 @@ how do we optimize our philosophy & ideology and get more people to understand o
 
 
 
-The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives they've found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do.
 
 
 
@@ -226,17 +219,9 @@ what if you actually improved something through acts of speculation - and not me
 
 
 
-> "Being wrong by 70 years on a forecasting horizon of 85 years is not an acceptable error when trillions of dollars and the policymaking of the entire planet are on the line." - [Adam Dorr](https://x.com/adam_dorr/status/1925567850200039477)
-
-related: The Universality and Predictability of Technology Diffusion - how J. Doyne Farmer properly predicted solar costs & adoption in contrast to most experts
-https://www.youtube.com/watch?v=PxdR4ZCv3Qo
-also related (almost the same talk): A fast green energy transition is likely to be cheaper than business as usual
-https://www.youtube.com/watch?v=IDyf7Qy6Dak
 
 
 
-> "What You *~~Do~~* **Are** Is *~~Who You Are~~* **What We Are**." - [Ben Horowitz](https://www.goodreads.com/book/show/44063692-what-you-do-is-who-you-are), probably
-^^ A cooperative collective intelligence of parts that gives rise to a higher order entity
 
 
 
@@ -273,9 +258,9 @@ https://www.youtube.com/watch?v=IDyf7Qy6Dak
 
 
 
-> "We believe there is no inherent conflict between the techno-capital machine and the natural environment. Per-capita US carbon emissions are lower now than they were 100 years ago, even without nuclear power." - [The Techno-Optimist Manifesto, by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/#:~:text=We%20believe%20there%20is%20no%20inherent%20conflict%20between%20the%20techno%2Dcapital%20machine%20and%20the%20natural%20environment.%20Per%2Dcapita%20US%20carbon%20emissions%20are%20lower%20now%20than%20they%20were%20100%20years%20ago%2C%20even%20without%20nuclear%20power.)
+> "We believe there is no inherent conflict between the techno-capital machine and the natural environment. Per-capita US carbon emissions are lower now than they were 100 years ago, even without nuclear power." - [The Techno-Optimist Manifesto, by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/)
 
-^^ this is what ignoring what's been exported to third world countries looks like. This is what not thinking systemically looks like
+^^ This is what not thinking systemically and ignoring what's been exported to other countries looks like. This is the equivalent of not being able to think about even the second order effects, mercy on us all for the third order and everything after it...
 
 
 
@@ -324,15 +309,15 @@ https://www.youtube.com/watch?v=IDyf7Qy6Dak
 
 
 
-> "The task of universal pragmatics is to identify and reconstruct universal conditions of possible mutual understanding." - [Jürgen Habermas](https://www.azquotes.com/quote/1108143)
 
 
 
+
+> "The establishment defends itself by complicating everything to the point of incomprehensibility." - [Fred Hoyle](https://www.azquotes.com/quote/1399216)
 > "They muddy the water, to make it seem deep." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/119332-they-muddy-the-water-to-make-it-seem-deep)
 ^^ we need to radically simplify our social organizational structure such that anyone can grasp it and how it works on all levels
 
 
-> "Human beings are not perfectly rational calculators. Our behavior and decisions are based on a mixture of calculation, emotions, and internalized norms, with calculation often a minor component of the cocktail." - [Peter Turchin](https://www.goodreads.com/quotes/11410588-we-also-know-of-course-that-human-beings-are-not)
 
 > "Our oversized brains evolved, in large part, to detect and resist manipulation by those who want to get ahead at our expense." - [Peter Turchin](https://www.goodreads.com/quotes/8237449-our-oversized-brains-evolved-in-large-part-to-detect-and)
 
@@ -342,9 +327,6 @@ https://www.youtube.com/watch?v=IDyf7Qy6Dak
 
 
 
-> "The public has a distorted view of science because children are taught in school that science is a collection of firmly established truths. In fact, science is not a collection of truths. It is a continuing exploration of mysteries." - [Freeman Dyson](https://www.goodreads.com/quotes/360178-the-public-has-a-distorted-view-of-science-because-children)
-
-> "It is better to be wrong than to be vague." - [Freeman Dyson](https://www.goodreads.com/quotes/482676-it-is-better-to-be-wrong-than-to-be-vague)
 
 > "The poorer half of humanity needs cheap housing, cheap health care, and cheap education, accessible to everybody, with high quality and high aesthetic standards. The fundamental problem for human society in the next century is the mismatch between the three new waves of technology and the three basic needs of poor people. The gap between technology and needs is wide and growing wider. If technology continues along its present course, ignoring the needs of the poor and showering benefits upon the rich, the poor will sooner or later rebel against the tyranny of technology and turn to irrational and violent remedies. In the future, as in the past, the revolt of the poor is likely to impoverish rich and poor together." - [Freeman Dyson](https://www.goodreads.com/quotes/7974718-the-poorer-half-of-humanity-needs-cheap-housing-cheap-health)
 
@@ -422,7 +404,6 @@ https://www.youtube.com/watch?v=IDyf7Qy6Dak
 
 
 
-> "The difference between mere management and leadership is communication." - [Winston Churchill](https://www.azquotes.com/quote/895708)
 
 
 
@@ -553,7 +534,6 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "Respect is so important to humans that it’s a key reason we evolved to play games. Will Storr, in his book The Status Game, charted the rise of game-playing in different cultures, and found that games have historically functioned to organize societies into hierarchies of competence, with score acting as a conditioned reinforcer of status. In other words, all games descend from status games. The association between score and status has grown so strong in our minds that, like pigeons pecking the button long after the food dispenser has stopped dispensing, we’ll chase scores long after everyone else has stopped watching." - [Why Everything is Becoming a Game, by Gurwinder](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 
 
 
@@ -575,7 +555,6 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "Courage can't be counterfeited - it's a virtue which escapes hypocrisy." - [Napoleon](https://twitter.com/oldbooksguy/status/1678484140570599424)
 
 > "The pupil who is never required to do what he cannot do, never does what he can do." - [John Stuart Mill](https://www.azquotes.com/quote/522244)
 
@@ -587,7 +566,13 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 > "The child who is not embraced by the village will burn it down to feel its warmth." - [African proverb](https://www.reddit.com/r/quotes/comments/847h77/the_child_who_is_not_embraced_by_the_village_will/)
 
+
+
 > "The best thing that can happen to a human being is to find a problem, to fall in love with that problem, and to live trying to solve that problem, unless another problem even more lovable appears." - [Karl Popper](https://www.goodreads.com/quotes/1034422-the-best-thing-that-can-happen-to-a-human-being)
+
+> "Nothing is likely to help a person overcome or endure troubles than the consciousness of having a task in life." - [Viktor E. Frankl](https://www.azquotes.com/quote/523800)
+
+
 
 > "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Almost everything-all external expectations, all pride, all fear of embarrassment or failure-these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." - [Steve Jobs](https://www.goodreads.com/quotes/427317-remembering-that-i-ll-be-dead-soon-is-the-most-important)
 
@@ -595,23 +580,13 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 > "You can kill the dreamer, but you can't kill the dream." - [Martin Luther King, Jr.](https://www.azquotes.com/quote/1344692)
 
-> "Seek freedom and become captive of your desires. Seek discipline and find your liberty." - [Frank Herbert](https://www.goodreads.com/quotes/222643-seek-freedom-and-become-captive-of-your-desires-seek-discipline)
-
 > "The first responsibility of every citizen is to question authority." - [Benjamin Franklin](https://www.billhenderson.com/articles/2013/1/1/question-authority-law-students-have-an-important-role-to-play-in-the-future-of-legal-education#:~:text=the%20first%20responsibility%20of%20every%20citizen%20is%20to%20question%20authority)
 
 > "It is difficult to get a man to understand something, when his salary depends upon his not understanding it!" - [Upton Sinclair](https://quoteinvestigator.com/2017/11/30/salary/)
 
-> "The obedient always think of themselves as virtuous rather than cowardly." - [Robert Anton Wilson](https://www.goodreads.com/quotes/10977476-the-obedient-always-think-of-themselves-as-virtuous-rather-than)
-
-> "It is so easy to be wrong-and to persist in being wrong-when the costs of being wrong are paid by others." - [Thomas Sowell](https://twitter.com/ThomasSowell/status/1475910807405924354)
-
 > "Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny." - [Gandhi](https://www.goodreads.com/quotes/50584-your-beliefs-become-your-thoughts-your-thoughts-become-your-words)
 
-> "There are decades where nothing happens; and there are weeks where decades happen." - [Vladimir Lenin](https://www.goodreads.com/quotes/342783-there-are-decades-where-nothing-happens-and-there-are-weeks)
-
 > "Medical science has made such tremendous progress that there is hardly a healthy human left." - [Aldous Huxley](https://www.goodreads.com/quotes/10445744-medical-science-has-made-such-tremendous-progress-that-there-is)
-
-> "Think of the press as a great keyboard on which the government can play." - [Joseph Goebbels](https://www.azquotes.com/quote/111795)
 
 > "If you want a picture of the future, imagine a boot stamping on a human face - forever" - [George Orwell](https://www.goodreads.com/quotes/9402-if-you-want-a-picture-of-the-future-imagine-a)
 
@@ -625,29 +600,21 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 > "The idea is not to live forever, it is to create something that will." - [Andy Warhol](https://www.goodreads.com/quotes/570458-the-idea-is-not-to-live-forever-it-is-to)
 
-> "The greatest deception men suffer is from their own opinion." - [Leonardo da Vinci](https://twitter.com/neiltyson/status/1576590087441494016)
-
 > "Religion is a culture of faith; science is a culture of doubt." - [Richard Feynman](https://www.goodreads.com/quotes/33583-religion-is-a-culture-of-faith-science-is-a-culture)
 
 > "Hope has two beautiful daughters - Anger and Courage. Anger at the way things are, and Courage to see that they do not remain as they are." - [St. Augustine](https://twitter.com/annajanejoyner/status/1376327205991628806)
 
-> "Individualism is a formidable lie." - [Rene Girard](https://en.wikiquote.org/wiki/Ren%C3%A9_Girard#:~:text=Individualism%20is%20a%20formidable%20lie.)
 
-> "The greatest deception men suffer is from their own opinions." - [Leonardo da Vinci](https://www.goodreads.com/quotes/29059-the-greatest-deception-men-suffer-is-from-their-own-opinions)
 
-> "There is but one choice: to rise to the task of the age." - [Solzhenitsyn](https://twitter.com/AI_Solzhenitsyn/status/1586885665672908800)
 
-> "Success is one of the possible outcomes." - [Elon Musk](https://adamfairhead.com/p1564/#:~:text=%E2%80%9CSuccess%20is%20one%20of%20the%20possible%20outcomes.%E2%80%9D)
 
-> "In a gentle way, you can shake the world." - [Mahatma Gandhi](https://www.goodreads.com/quotes/67525-in-a-gentle-way-you-can-shake-the-world)
+
 
 > "We are not all in the same boat. We are in the same storm. Some have yachts, some have canoes, and some are drowning. Just be kind and help whoever you can." - [Damian Barr](https://twitter.com/tinybuddha/status/1347245404329488385)
 
 > "Anyone who doesn't understand that the Manhattan Project is one of the most significant events in human history hasn't been paying attention. It's up there with fire and language. It's at least number three and it may be number one." - [Cormac McCarthy](https://twitter.com/gordonbrander/status/1611083101857275907)
 
-> "Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare." - [Muhammad Ali](https://www.goodreads.com/quotes/121663-impossible-is-just-a-big-word-thrown-around-by-small)
 
-> "The establishment defends itself by complicating everything to the point of incomprehensibility." - [Fred Hoyle](https://www.azquotes.com/quote/1399216)
 
 > "I would rather have questions that can't be answered than answers that can't be questioned." - [Richard Feynman](https://www.goodreads.com/quotes/1134331-i-would-rather-have-questions-that-can-t-be-answered-than)
 
@@ -661,11 +628,9 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 > "The only worthwhile achievements of man are those which are socially useful." - [Alfred Adler](https://quotefancy.com/quote/1061903/Alfred-Adler-The-only-worthwhile-achievements-of-man-are-those-which-are-socially-useful)
 
-> "Nothing is likely to help a person overcome or endure troubles than the consciousness of having a task in life." - [Viktor E. Frankl](https://www.azquotes.com/quote/523800)
 
 > "Great minds discuss ideas. Average minds discuss events. Small minds discuss people." - [Eleanor Roosevelt](https://www.goodreads.com/quotes/11411940-great-minds-discuss-ideas-average-minds-discuss-events-small-minds)
 
-> "I know of no better life purpose than to perish in attempting the great and the impossible." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/140961-i-know-of-no-better-life-purpose-than-to-perish)
 
 > "You're only as young as the last time you changed your mind." - [Timothy Leary](https://www.goodreads.com/quotes/105281-you-re-only-as-young-as-the-last-time-you-changed)
 
@@ -679,7 +644,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 > "Indeed, when I think of the unbroken chain of generations leading to our time and of everything they have built for us, I am humbled. I am overwhelmed with gratitude; shocked by the enormity of the inheritance and at the impossibility of returning even the smallest fraction of the favor. Because a hundred billion of the people to whom I owe everything are gone forever, and because what they created is so much larger than my life, than my entire generation." - [Toby Ord](https://www.goodreads.com/quotes/10316565-indeed-when-i-think-of-the-unbroken-chain-of-generations)
 
 
-> "Mr. Zuckeberg, tear down this API wall!" - [Ronald Reagan](https://en.wikipedia.org/wiki/Tear_down_this_wall!), probably
+> "Mr. *~~Gorbachev~~* **Zuckeberg**, tear down this **API** wall!" - [Ronald Reagan](https://en.wikipedia.org/wiki/Tear_down_this_wall!), probably
 
 
 
@@ -719,11 +684,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "Wealth is knowledge and its origin is evolution." - [Eric D. Beinhocker](https://www.azquotes.com/quote/1034893)
 
-> "Prosperity in a society is the accumulation of solutions to human problems." - [Eric D. Beinhocker](https://www.azquotes.com/quote/1353696)
-
-> "Hierarchies are critical in enabling networks to reach larger sizes before diseconomies of scale set in. This is why so many networks in the natural and computer worlds are structured as networks within networks." - [Eric D. Beinhocker](https://www.goodreads.com/quotes/10012208-hierarchies-are-critical-in-enabling-networks-to-reach-larger-sizes)
 
 
 
@@ -744,7 +705,6 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
 
 > "" - []()
 
@@ -794,8 +754,6 @@ sympathetic vs parasympathetic nervous system
 
 Human potential is being squandered on a grand scale
 
-"you need to force behaviours" - larry fink, ESG prince - how about forcing his behaviour?
-https://www.youtube.com/watch?v=KwwN5kwjAtQ
 
 this architecture for reputation and competence can be used by nations, by corporations or any kind of organization
 
@@ -1441,10 +1399,6 @@ In small tribes we could express an opinion about anything and be heard - how do
 How to do arbitrage in reputation markets? Signal that someone deserves more credit and them benefit for signalling that after the other person has proven themselves and their success is widely recognised. Same for the other way around
 We need such arbitrage to exist in order to make the reputation “market” efficient
 
-Prediction market vs futures market?
-Futures market for reputations - and we should hire and listen to those that have higher future ranking - if people believe someone’s rank will go up - they are probably underrecognized now
-And what about journalists and all other positions? How do we bet on people and win from betting right?
-
 
 
 
@@ -1701,8 +1655,6 @@ Subreddits are a form of relevance realization
 We need to scale trust beyond national borders - a single unified identity meta-network
 
 
-We can train AI for prediction of anything that we have already organised a prediction market about that thing with identity
-
 Alignment is about reducing the friction of cooperation - we need a global trust network
 
 Markets are for satisfying desires around scarcity
@@ -1882,13 +1834,9 @@ There should not be such a thing as private intellectual property
 
 How do we ban disposable cups and plates and plastics?
 
-We should reuse even balloons
-
 Lets start asking “how do I improve the world”
 
 We are evolutionary agents of distributed cognition.
-
-We can learn from one attempt
 
 What does a fully sustainable life look like and how do we build it?
 
@@ -1907,6 +1855,9 @@ Life is about making any mistake only once.
 We should all ask the question why more often
 We need a culture of learning, competence, and alignment
 
+Mediocrity, suffering, meaninglessness, extinction
+vs
+Glory, meaning, existence and expansion
 
 We should be healthily terrified of death - death is the single most important event after your creation - it is the end of a journey. The end of a soul. And at that moment that soul asks itself how scared it is to die. If you’ve lived without regrets there would be the least to fear - that is peace
 Why do we celebrate birthdays? Why is life good?
@@ -1927,8 +1878,7 @@ children should start from scratch with their reputation (it should be earned) -
 
 what if you could see in advance the effects of your actions on different rankings & views? Make explicit the effects of the signal you're about to emit
 
-what if journalists (& journals) had a doxxing score - how many times they've doxxed someone?
-https://twitter.com/balajis/status/1733450406641221689
+
 
 what if you could view all products & services through an essentialist/minimalist perspective - giving it a necessity score?
 
@@ -1955,15 +1905,6 @@ If our country was in a war we’d want to know the most important aspects of it
 How do we develop a love of nature instead of shopping malls in kids?
 How do we simulate the experience of being in space and looking back at earth? And how do we scale that to everyone? How do we make global Mexican awareness waves for every important thing?
 
-Problems with prediction markets with money:
-- bootstrapping liquidity
-- locking up money for years until resolution
-- Discounting of the future
-- user resolved markets & the oracle problem & fraud
-- many bets on the same side may have totally different arguments for their reasoning and different strategies for next steps but all that is lost
-- illegal in the US because similar to casinos
-- responsibility & accountability get diffused/obfuscated - what if the penalty should be more than simply losing X amount of money but maybe the right on betting in this domain in the future altogether?
-- what if we wanted small rewards for successful predictions and big penalties for getting it wrong?
 
 
 All games have a loop and for GameA that loop is the money-on-money return - everything boils down to the optimization and pursuit of a single perfectly fungible metric
@@ -1978,10 +1919,6 @@ We need intents for our media consumption - not just for complex transactions
 
 Transparency and openness are the soul of cooperation
 
-What if we could compute concepts? What if the degree of recursion was the "stepen"? Relevance realization squared means two levels of recursion.
-
-What we need to build is the epitome of information becoming aware of itself - consciousness through self-referential recursive lookups
-
 The fundamental problem is that the system could be producing individuals who want to improve themselves and the system a lot more than they currently do.
 What happens if we optimize and improve everything for everyone as much as possible? Shouldn’t that be the ultimate goal - the North Star?
 
@@ -1990,23 +1927,13 @@ If identity compounds then cooperation would be much more widespread because des
 
 what if we could ZK-prove commitments of an X % of salaries to a common pool and reward that with status?
 
-Signal the change you want to see in the world
+*~~Be~~* **Signal** the change you want to see in the world
 
-We can elect our predictors and even decide how many prediction points to give them to work with
 
-We need to replace rhetoric with prediction
-
-We should worship prediction because it’s presupposed by adaptation
 
 What if “the atom of intelligence” is every one of us - to the best of our ability?
 
 We need to signal who we trust and then track predictive power - thats all
-
-The only game is truth to power.
-
-Consciousness is the experience of goal-directed self-reflection - you are the universe experiencing itself
-
-What if you accumulate credibility throughout the lifetime of a bet of yours that is paying off
 
 Storytellers are meme compressors
 
@@ -2050,13 +1977,11 @@ What's a company - doesn't it decide internally what to subsidize?
 
 We need a system where we could experience what its like to be someone else from a different culture - an AI driven storyline with fictional characters based on the data
 
-Problems are bad. How do we have less problems? How do we surface truth? How do we forecast the future better?
+Problems are bad. How do we have less problems? How do we identify and solve the most pressing ones? How do we surface truth? How do we forecast the future better? How should we program the incentives in the system?
 
 
 
 
-
-what if delegating your trust/opinion to someone entitles you to a slice of their reputational earnings?
 
 imagine a concept map/graph where you can track your progress with comprehending it - there could be competing videos/texts that explain different parts of it and to different degrees, and depending on how much of the videos you've watched your progress of concept comprehension could be updated automatically. You could get notified when new nodes in the graph emerged or if there were other changes, or if new explanatory content was made available.
 
@@ -2076,13 +2001,9 @@ This paradigm would be 1 to 2 orders of magnitude more efficient and optimal
 
 How do we pattern-extract the best from the best and reuse as much as possible?
 
-Alignment is the only north star - scaling of trust and concern
-
-
 Imagine we all had game points UBI for multiple “resources” and we got a constant stream and could allot more points for recognition as “upgrading a tech tree - contributing a finite resource for some cause explicitly. What if we made public who is working towards what so that we can rank them by importance and morality and also tracked who are the best performers for each of those verticals?
 
 Global governance can be achieved through participatory cultural programming - “steering the ship” - playing the game of life consciously for the first time
-
 
 What would it look like to be 10x or 100x more customer-obsessed than Amazon? What is the ultimate product?
 
@@ -2105,7 +2026,7 @@ what if we made famous those that could reliably transmit signal that would bett
 
 
 
-why can't we have these charts updated in real time?
+why can't we have charts like these updated in real time for everything in existence?
 https://en.wikipedia.org/wiki/List_of_exports_of_Brazil
 
 
@@ -2202,8 +2123,6 @@ Follower counts and views are regularly manipulated - an open identity network c
 
 The best and most optimal governing and sensemaking stack can be built on top of an architecture centered around identity and has the highest chance of evolving to the state of optimality precisely on it.
 
-The great reset... of status
-
 How do we reuse as much packaging as possible? Why do we need branded forms of packaging with patented designer shapes?
 
 
@@ -2293,7 +2212,6 @@ Gradually more and more signal generated by GB AIs (that’s been approved and r
 How do we implement the useful capacity of feelings in the GB? Pain? Hunger? Thirst? Anxiety? Signals that you’ve diverged from homeostasis. We could individually signal what the GB out to feel and aggregate that and we could define the aggregation function and its data processing any way we like - we could use other signals as proxies and indicators and infer what the feelings ought to be - without the need for explicit expression.
 And how would the multiple personalities of the GB (different sets of identities with different weights) feel?
 
-The great reset - a status jubilee
 
 Principle by Dave Snowden: if you can’t agree on it - break it down until you can agree - reach the right level of granularity
 
@@ -2301,8 +2219,6 @@ Nobody is even close to realizing the full potential of the Internet and humanit
 
 The market is a centuries old innovation in collective intelligence and self-organization - let’s surpass it
 
-Financial prediction markets are a spec of what status based prediction markets could be
-Also financial prediction markets are illegal in the US?
 
 Yuval noah harrari talks about the growing number of useless humans as more and more gets automated away and they are no longer necessary economically or are incapable of contributing economically - few people have had the guts to openly talk about that. But what if we could design a system where there were no such people?
 
@@ -2637,8 +2553,6 @@ Differences in an open ecosystem:
 Intelligent design is not about the past but about the future.
 
 In a sane system you wouldn’t get Kamala regulating AI.
-
-Decision tree prediction markets - which paths of a tree will eventually be chosen
 
 The incentivised topologically sorted global problem Kanban
 
@@ -3086,8 +3000,6 @@ With money and resources the laws of energy conservation play at hand, even thou
 
 
 we need to answer questions such as who should we listen to and who should govern us
-
-bootstrapping reputation as a currency
 
 modeling objective reality
 
@@ -3799,7 +3711,6 @@ What if we could allow the greatest minds, scientists & game theorists to compet
 
 We can crowdsource the best legend of "how to participate and what you need to know in order to be good - statistical/bayesian thinking, etc." by checking what the highest-ranking members have suggested - like the "subreddit rules" that moderators define.
 
-the great reset is the rebuilding of society around identity, reputation, competency and accountability
 
 there isn't a meaningful human endeavor that wouldn't benefit from more accountability
 
@@ -3946,8 +3857,6 @@ What would the system for coming up with the right biggest question look like? H
 A shelling point should be viewed as a collective intelligence/coherence algorithm
 
 Religion is the enlargement of the self - a merge with others to some degree - the most optimal meta-strategy is enlarging the self and removing/reducing friction and animosity - participation (to stave off nihilism and apathy and ignorance) and fairness and trust/transparency/auditability
-
-Think of it through the lens of darknet markets and self-governance and reputation - how reputation is the highest predictor of success
 
 How do we collectively think and ask better questions?
 
@@ -5242,7 +5151,6 @@ We’re the current batch in the great evolutionary relay of life
 Its possible to make private predictions and prove them with ZK proofs so you can prove your track record without having to reveal your entries/exits at the exact time you make them and potentially to get frontran by others if you stated them even before entering your positions in order to maximize your proven returns by absorbing your own market impact in your prediction. And it is possible to commit to your series of private predictions so that later you can prove you didn’t run multiple betting histories in parallel and showing only the most profitable one.
 
 
-long bets in financial prediction markets are infeasible because of opportunity costs and locking up capital for many years - this isn't a problem in non-financial prediction markets
 
 we need to integrate information such that when ppl cite milton freedman to support their free market dogma they also get exposed to all of his views and in his later years as well (redistribution & taxes, something like UBI) - or like with adam smith and his theory of moral sentiment
 
@@ -5435,6 +5343,7 @@ Within companies the incentive is to be as close as possible to GameB - to share
 Annihilate partisanship
 
 1 or a few bits of information every 4 years (elections) is very little gathered from the public and what it cares about
+> "I find bundling policies to be an absurd inheritance of 18th century technology... And then what happens when the party changes stances? ... You shouldn’t start with the idea of left vs right. Politics is about solving the coordination problems of people, so the right question is: What are people’s main issues? Then you go and solve those." - [What Are My Politics? by Tomas Pueyo](https://unchartedterritories.tomaspueyo.com/p/what-are-my-politics)
 
 
 Computational relations/expressions like increased GDP from war == bad with factor X, addiction to soft drinks and such paraditism == bad with factor Y - we need valences
@@ -5905,15 +5814,10 @@ Applied RR
 
 ^^ complexity science, emergence vs reductionism
 
-> "I think, therefore I am." - [René Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
-think => predict
-
 The Internet is a petri dish for intersubjectivity without interobjectivity - by Jim Rutt
 
 > "The hottest new programming language is English." - [Andrej Karpathy](https://x.com/karpathy/status/1617979122625712128)
 The hottest new programming paradigm is society's incentives.
-
-> "Prediction markets help answer the question "will X happen?" Debate maps help answer the question "should X happen?"" - [Jamie Joyce](https://x.com/JustJamieJoyce/status/1859341482542629354)
 
 > "Who brainwashes the brainwashers?" - [Joscha Bach](https://x.com/Plinz/status/1895686775210983444)
 

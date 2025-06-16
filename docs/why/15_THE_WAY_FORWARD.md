@@ -181,9 +181,11 @@ https://upload.wikimedia.org/wikipedia/commons/1/13/Tree_of_Knowledge_System.png
 
 > "A new philosophy of the future is needed. I believe it should be curiosity about the Universe – expand humanity to become a multiplanet, then interstellar, species to see what’s out there." - [Elon Musk](https://twitter.com/elonmusk/status/1552317587694010368)
 
-> "We should stop exploiting each-other’s children and taking away their futures." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=We%20should%20stop%20exploiting%20each%2Dother%E2%80%99s%20children%20and%20taking%20away%20their%20futures.)
+> "We should stop exploiting each-other’s children and taking away their futures... Civilisation is the pact between adults to make a place to take better care of our children." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9)
 
-> "Civilisation is the pact between adults to make a place to take better care of our children." - [A simple plan for repairing our society: we need new human rights, and this is how we get them, by Vinay Gupta](https://medium.com/@vinay_12336/a-simple-plan-for-repairing-our-society-we-need-new-human-rights-and-this-is-how-we-get-them-cee5d6ededa9#:~:text=Civilisation%20is%20the%20pact%20between%20adults%20to%20make%20a%20place%20to%20take%20better%20care%20of%20our%20children.)
+
+
+
 
 > "The real solution, along with a higher state of awareness, is a unifying worldview that explains our biggest existential questions and makes sense of reality. If we better understand what we are, and where we’re headed, our interests would naturally align. The problem is that our current worldviews — the major religions, political ideologies, and national identities — divide us into tribes, and emphasize our differences rather than our similarities and shared human interests.
 >
@@ -569,6 +571,8 @@ The worst thing in the universe is irrelevance - inconsequentiality - pure meani
 > "Death is the mother of beauty. Only the perishable can be beautiful, which is why we are unmoved by artificial flowers." - [Wallace Stevens](https://www.goodreads.com/quotes/99894-death-is-the-mother-of-beauty-only-the-perishable-can)
 
 > "Children are the living messages we send to a time we will not see." - [Neil Postman](https://www.goodreads.com/quotes/22675-children-are-the-living-messages-we-send-to-a-time)
+
+> "We are but whirlpools in a river of ever-flowing water. We are not stuff that abides, but patterns that perpetuate themselves. A pattern is a message, and may be transmitted as a message." - [Norbert Wiener](https://www.azquotes.com/quote/703349)
 
 Why do we have kids? To pass on a portion of our soul - of our existence. Contributing to the collective memetic heritage
 Having kids is immortality
@@ -1024,6 +1028,17 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 > "What will undo any boundary is the awareness that it is our vision, and not what we are viewing, that is limited." - [James Carse](https://www.goodreads.com/quotes/1008474-what-will-undo-any-boundary-is-the-awareness-that-it)
 
 
+> "There is but one choice: to rise to the task of the age." - [Solzhenitsyn](https://twitter.com/AI_Solzhenitsyn/status/1586885665672908800)
+
+> "Success is one of the possible outcomes." - [Elon Musk](https://adamfairhead.com/p1564/#:~:text=%E2%80%9CSuccess%20is%20one%20of%20the%20possible%20outcomes.%E2%80%9D)
+
+> "In a gentle way, you can shake the world." - [Mahatma Gandhi](https://www.goodreads.com/quotes/67525-in-a-gentle-way-you-can-shake-the-world)
+
+> "Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. Impossible is not a fact. It's an opinion. Impossible is not a declaration. It's a dare." - [Muhammad Ali](https://www.goodreads.com/quotes/121663-impossible-is-just-a-big-word-thrown-around-by-small)
+
+> "I know of no better life purpose than to perish in attempting the great and the impossible." - [Friedrich Nietzsche](https://www.goodreads.com/quotes/140961-i-know-of-no-better-life-purpose-than-to-perish)
+
+
 > "Only by making technical systems that offer a variety of mechanisms for checking concentrations of power and by simultaneously building social ideologies constantly on the lookout for failure modes of these mechanisms can we hope to succeed where previous attempts at decentralizing authority have failed." - [Liberation Through Radical Decentralization, by Vitalik Buterin](https://medium.com/@VitalikButerin/liberation-through-radical-decentralization-22fc4bedc2ac#:~:text=Only%20by%20making,authority%20have%20failed.)
 
 
@@ -1387,6 +1402,10 @@ This as the section for matchmaking and with the leary quote
 ██████████████████████████████████████████████████████████████████
 
 [Secular religion](https://en.wikipedia.org/wiki/Secular_religion)
+
+> "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
+
+> "God is the unlimited conceptual realization of the absolute wealth of potentiality." - [Alfred North Whitehead](https://www.goodreads.com/quotes/8139417-god-is-the-unlimited-conceptual-realization-of-the-absolute-wealth)
 
 
 <details><summary>UTOK's Elephant Sun God</summary><p>
@@ -1888,35 +1907,6 @@ https://www.youtube.com/watch?v=szrm_qOpaqs
 
 
 
-
-██████████████████████████████████████████████████████████████████
-# SECTION: The Great Reset & The New Elite
-██████████████████████████████████████████████████████████████████
-
-Defund the cantillonaires
-The Cantillon effect has to be exterminated
-
-https://www.google.com/search?q=cantillon+effect
-
-
-
-We should incentivise participating transparently in public and make that the only way of climbing the social ladder - a complete flattening of the power distribution - this is the great reset
-
-> "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
-
-accountability should be the gold-standard
-
-The 8th social sin is power
-Power must be earned
-
-The current elites would have to start earning reputation from the ground up on the new rules
-
-The League of Extraordinary Ladies & Gentlemen - the cultural stewards that set the initial direction of the enculturation process and onboard the next 10x and 100x people - until 1,000,000 is reached. And this can be done in parallel with competing cultures & social systems within the same shared global enculturation landscape - different cultures can have different champions.
-
-Game A is mostly closed - there is theoretic social mobility but it's heavily skewed. Game B is open - the gates to power are open for the best of the best
-
-We need to allow the next generations to grown into their rightful place in the hierarchy and avoid gerontocracy
-> "Science advances one funeral at a time." - [Max Planck](https://www.goodreads.com/quotes/111818-science-advances-one-funeral-at-a-time)
 
 
 ██████████████████████████████████████████████████████████████████

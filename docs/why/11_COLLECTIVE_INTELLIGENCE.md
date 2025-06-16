@@ -83,7 +83,9 @@ https://www.visualcapitalist.com/how-much-do-americans-trust-the-media/#google_v
 
 > "Rhetoric is no substitute for reality." - [Thomas Sowell](https://www.goodreads.com/quotes/270138-rhetoric-is-no-substitute-for-reality)
 
-> "They’re right when they say all narratives are fallacies, but they’re wrong when they suggest we don’t use narratives. We are narrative creatures. Reason is just a device to help us back into a narrative." - [Faith over Logic, by Erik Torenberg](https://eriktorenberg.substack.com/p/faith-over-logic#:~:text=They%E2%80%99re%20right%20when%20they%20say%20all%20narratives%20are%20fallacies%2C%20but%20they%E2%80%99re%20wrong%20when%20they%20suggest%20we%20don%E2%80%99t%20use%20narratives.%20We%20are%20narrative%20creatures.%20Reason%20is%20just%20a%20device%20to%20help%20us%20back%20into%20a%20narrative)
+> "Human beings are not perfectly rational calculators. Our behavior and decisions are based on a mixture of calculation, emotions, and internalized norms, with calculation often a minor component of the cocktail." - [Peter Turchin](https://www.goodreads.com/quotes/11410588-we-also-know-of-course-that-human-beings-are-not)
+
+> "They’re right when they say all narratives are fallacies, but they’re wrong when they suggest we don’t use narratives. We are narrative creatures. Reason is just a device to help us back into a narrative." - [Faith over Logic, by Erik Torenberg](https://eriktorenberg.substack.com/p/faith-over-logic)
 
 > "We cannot reason ourselves out of our basic irrationality. All we can do is learn the art of being irrational in a reasonable way." - [Aldous Huxley](https://www.goodreads.com/quotes/330383-we-cannot-reason-ourselves-out-of-our-basic-irrationality-all)
 
@@ -174,6 +176,8 @@ Jainism’s anekantavada (non-absolutism), which teaches that no single perspect
 > "You don't understand anything until you learn it more than one way." - [Marvin Minsky](https://www.azquotes.com/quote/526097)
 
 > "One can acquire certainty only by amputating inquiry." - [Marvin Minsky](https://www.azquotes.com/quote/1405335)
+
+> "The task of universal pragmatics is to identify and reconstruct universal conditions of possible mutual understanding." - [Jürgen Habermas](https://www.azquotes.com/quote/1108143)
 
 > "The secret of what anything means to us depends on how we've connected it to all the other things we know. That's why it's almost always wrong to seek the "real meaning" of anything. A thing with just one meaning has scarcely any meaning at all." - [Marvin Minsky](https://www.azquotes.com/quote/1461405)
 

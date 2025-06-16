@@ -275,8 +275,6 @@ Headjack
 -->
 
 
-> "If you’re not acting on your beliefs, then they probably aren’t real." - [Edward Snowden](https://www.azquotes.com/quote/916625)
-
 > "What is the most important thing you could be working on in the world right now? ... And if you're not working on that, why aren't you?" - [Aaron Swartz](https://www.azquotes.com/quote/1202481)
 
 <img src="/img/meme_get_in_loser_building_the_hivemind.jpg"/>

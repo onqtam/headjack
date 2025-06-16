@@ -676,7 +676,8 @@ https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fiadihpjrjui71.
 # SECTION: Consumerism
 ██████████████████████████████████████████████████████████████████
 
-Sam altman in koenigsegg car picture
+Sam altman in koenigsegg car picture - with his quote from his testimony doing it only because he loves it
+Scamath's kashmir sweather
 
 > "Consumerism is an existential threat to humanity." - [Marko Jukic](https://x.com/mmjukic/status/1694368729373503781)
 

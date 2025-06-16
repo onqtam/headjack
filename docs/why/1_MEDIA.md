@@ -187,6 +187,8 @@ this next bit is more about the importance of Twitter and the overwhelm of infor
 
 > "Ours is a problem in which deception has become organized and strong; where truth is poisoned at its source; one in which the skill of the shrewdest brains is devoted to misleading a bewildered people." - [Walter Lippmann](https://www.azquotes.com/quote/1090709)
 
+> "Think of the press as a great keyboard on which the government can play." - [Joseph Goebbels](https://www.azquotes.com/quote/111795)
+
 > "Wrong information always shown by the media
 >
 > Negative images is the main criteria

@@ -1,7 +1,11 @@
 
+If we're going to be programming status in society, first we need to understand it.
+
 # What is Status
 
 > "The story idealists sometimes tell of humanity says we're natural seekers of equality. This isn't true. Utopians talk of injustice whilst building new hierarchies and placing themselves at the top. We all do this. It's in our nature. The urge for rank is ineradicable. It's the secret goal of our lives, to win status for ourselves and our game - and gain as much of it over you and you and you as we can. It's how we make meaning. It's how we make identity. It's the worst of us, it's the best of us and it's the inescapable truth of us: for humans, equality will always be the impossible dream." - [Will Storr](https://www.goodreads.com/quotes/11892473-the-story-idealists-sometimes-tell-of-humanity-says-we-re-natural)
+
+> "Respect is so important to humans that it’s a key reason we evolved to play games. Will Storr, in his book The Status Game, charted the rise of game-playing in different cultures, and found that games have historically functioned to organize societies into hierarchies of competence, with score acting as a conditioned reinforcer of status. In other words, all games descend from status games. The association between score and status has grown so strong in our minds that, like pigeons pecking the button long after the food dispenser has stopped dispensing, we’ll chase scores long after everyone else has stopped watching." - [Why Everything is Becoming a Game, by Gurwinder](https://www.gurwinder.blog/p/why-everything-is-becoming-a-game)
 
 > "The people we’re trying to manipulate and persuade—they’re out there in the world, and their judgments matter for our fitness. Their judgments might even be the single greatest thing that matters for our fitness. If you want to understand the nature of our hyper-social species, you cannot take your eye off the ball of reputation and status." - [The Truth About Self-Deception, by David Pinsof](https://www.optimallyirrational.com/p/the-truth-about-self-deception#:~:text=The%20people%20we%E2%80%99re,reputation%20and%20status.)
 
@@ -478,6 +482,7 @@ What if we could reward the switching of beliefs in such a way as to incentivize
 
 “Let the (status) game begin”
 With a picture of the clown from the movie “saw”
+TODO INTERNET
 
 we need to change our concept of status
 People grind for status in the dumbest possible pay-to-win “games” - we need to give them an avenue for their competitiveness and expression
@@ -510,6 +515,12 @@ TODO INTERNET use grok to generate someone going all in with bits of their own s
 > "Never ask anyone for their opinion, forecast, or recommendation. Just ask them what they have—or don’t have—in their portfolio." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1176143-never-ask-anyone-for-their-opinion-forecast-or-recommendation-just)
 
 > "You can't build a reputation on what you are going to do." - [Henry Ford](https://www.goodreads.com/quotes/7482-you-can-t-build-a-reputation-on-what-you-are-going)
+
+> "If you’re not acting on your beliefs, then they probably aren’t real." - [Edward Snowden](https://www.azquotes.com/quote/916625)
+
+> "Courage can't be counterfeited - it's a virtue which escapes hypocrisy." - [Napoleon](https://twitter.com/oldbooksguy/status/1678484140570599424)
+
+> "It is so easy to be wrong-and to persist in being wrong-when the costs of being wrong are paid by others." - [Thomas Sowell](https://twitter.com/ThomasSowell/status/1475910807405924354)
 
 > "I love Twitter: you can make predictions that sound smart and go viral and then delete them when you end up being completely wrong." - [Nikita Bier](https://twitter.com/nikitabier/status/1677733311723245568)
 
@@ -559,7 +570,7 @@ TODO INTERNET use grok to generate someone going all in with bits of their own s
 >
 > I think if you take a few moments to look at the kind of behaviors that tracking those reputational elements would incent, you might see it’s a heck of a lot better than “feedback extortion” (Threatening to give negative feedback if you receive negative feedback)." - [Reputation is Orthogonal to Exchange, by Arthur Brock](https://www.artbrock.com/2014/11/16/reputation-is-orthogonal-to-exchange)
 
-Trust requires reputation or some other form of skin in the game. There is no accountability without proper accounting - they share the same root. In business and finance accounting is done with money. In the status economy accounting happens through reputation.
+Trust requires reputation or some other form of skin in the game. There is no accountability without proper accounting - they share the same root. In business and finance accounting is done with money. In the status economy accounting happens through reputation. Even darknet markets use reputation for bootstrapping trust.
 
 > "To support and maintain a man's private credit, 'tis absolutely necessary that the world have a fixed opinion of the honesty and integrity, as well as ability of a person." - [someone in 1717](https://www.forbes.com/forbes/2002/1223/248.html?sh=1d3ebd715f81)
 
@@ -596,6 +607,37 @@ TODO think about this
 
 
 TODO Credentials / Accreditation
+
+# The Great Reset & The New Elite
+
+The great reset - a status jubilee
+The great reset... of status
+the great reset is the rebuilding of society around identity, reputation, competency and accountability
+
+Defund the cantillonaires
+The Cantillon effect has to be exterminated
+
+https://www.google.com/search?q=cantillon+effect
+
+
+
+We should incentivise participating transparently in public and make that the only way of climbing the social ladder - a complete flattening of the power distribution - this is the great reset
+
+> "The problem is not elitism it's just we need a new elite." - [Mike Solana](https://twitter.com/micsolana/status/1681784776498479106)
+
+accountability should be the gold-standard
+
+The 8th social sin is power
+Power must be earned
+
+The current elites would have to start earning reputation from the ground up on the new rules
+
+The League of Extraordinary Ladies & Gentlemen - the cultural stewards that set the initial direction of the enculturation process and onboard the next 10x and 100x people - until 1,000,000 is reached. And this can be done in parallel with competing cultures & social systems within the same shared global enculturation landscape - different cultures can have different champions.
+
+Game A is mostly closed - there is theoretic social mobility but it's heavily skewed. Game B is open - the gates to power are open for the best of the best
+
+We need to allow the next generations to grown into their rightful place in the hierarchy and avoid gerontocracy
+> "Science advances one funeral at a time." - [Max Planck](https://www.goodreads.com/quotes/111818-science-advances-one-funeral-at-a-time)
 
 
 ██████████████████████████████████████████████████████████████████
@@ -635,6 +677,9 @@ Google's page rank algorithm simply counts the number of inbound links to a page
 multi-pagerank
 poly/multi
 
+"you need to force behaviours" - larry fink, ESG prince - how about forcing his behaviour?
+https://www.youtube.com/watch?v=KwwN5kwjAtQ
+
 status for page rank could have decay
 
 this is not page rank - this is entity rank
@@ -645,6 +690,8 @@ this is not page rank - this is entity rank
 
 When tracking portfolio success - ppl will initially define the parameters & risk against which they should be judged - aiming for 100x vs minimizing downside
 
+what if journalists (& journals) had a doxxing score - how many times they've doxxed someone against journalistic code of conduct?
+https://twitter.com/balajis/status/1733450406641221689
 
 look at me - meme - we define the indexes and rankings now
 TODO INTERNET
@@ -748,30 +795,261 @@ if you see something that you think obviously has an agenda by the media - have 
 
 Pointing to the truth is a Schelling point - that's why sunlight is the best disinfectant - if we create the tools for people to elevate competency & sensemake - we win. That's the singularity - we are the most underutilized general intelligence
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Whistleblowing
-██████████████████████████████████████████████████████████████████
+# Whistleblowing
+
+<img src="/img/hear_see_no_evil.webp"/>
+<!-- https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._SL1500_-1.jpg?fit=660%2C382&ssl=1 -->
+
+> "One of the best ways to achieve justice is to expose injustice." - [Julian Assange](https://twitter.com/ancapquotes/status/1721422177029804235)
 
 > "The price good men pay for indifference to public affairs is to be ruled by evil men." - [Plato](https://www.goodreads.com/quotes/9939-the-price-good-men-pay-for-indifference-to-public-affairs)
 
 > "The world is a dangerous place to live, not because of the people who are evil, but because of the people who don't do anything about it." - [Albert Einstein](https://www.goodreads.com/quotes/29875-the-world-is-a-dangerous-place-to-live-not-because)
 
-the right kind should be rewarded
-
-
 > "First ethical rule: If you see fraud and do not say fraud, you are a fraud." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/9928470-first-ethical-rule-if-you-see-fraud-and-do-not)
-
-
-
-IMAGE: see no evil hear no evil
-<img src="/img/hear_see_no_evil.webp"/>
-https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._SL1500_-1.jpg?fit=660%2C382&ssl=1
 
 > "Even 20 years ago people might have considered a whistleblower more a patriot than a national security threat. Now we've moved more towards the direction of considering whistleblowers national security threats. I think that says negative things about our prospects even if perhaps tactically it's the right thing to do in a competitive environment." - [Samo Burja](https://youtu.be/FyJa_TnwSB4?t=2193)
 
+> "Until we in the community have made up our minds that what we really want is expiation, or removal, or reform, or the discouragement of potential criminals, we shall get none of these, but only a confusion in which crime breeds more crime." - [Norbert Wiener](https://www.azquotes.com/quote/1084944)
+
 > "Currently, there's a strong disincentive for speaking the truth if it makes your in-group look worse or your out-group look better. Financial incentives help counteract those tribal incentives." - [Balaji Srinivasan](https://twitter.com/eriktorenberg/status/1227423830559248385)
 
-> "One of the best ways to achieve justice is to expose injustice." - [Julian Assange](https://twitter.com/ancapquotes/status/1721422177029804235)
+Free your mind, Balaji, finance is not everything. Identity. Reputation.
+
+> "Free your mind." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/characters/nm0000401?item=qt0324296&ref_=ext_shr_lnk)
+
+██████████████████████████████████████████████████████████████████
+# SECTION: Probability & prediction
+██████████████████████████████████████████████████████████████████
+
+> "What I cannot *~~create~~* **predict**, I do not understand." - [Richard Feynman](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand), probably
+
+The only macro long-term prediction anyone can confidently make is that the future belongs to those who can best predict it.
+
+^^ prediction may be a requirement for understanding but is not sufficient. And in some complex chaotic systems we might even understand the dynamics and trends and yet we might not be able to predict. And yet, being able to predict is a useful signal for competence/understanding and in the cases when it's impossible - that's why we also be rating (good - a.k.a. hard to vary - all the parts of it should serve a purpose such that none of them are arbitrary and if any one of them is changed that would break the explanation - see The Beginning Of Infinity) explanations. Also if someone got some prediction right but their explanation is obviously (to us) wrong we might rule out their prediction in our subjective evaluation of their performance - we can simply discard it and not give them any credit.
+
+> "I *~~think~~* **predict**, therefore I am." - [René Descartes](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
+
+> "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
+
+> "A clever person solves a problem. A wise person avoids it." - [Albert Einstein](https://www.goodreads.com/quotes/8241-a-clever-person-solves-a-problem-a-wise-person-avoids)
+
+> "Prediction, not narration, is the real test of our understanding of the world." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177687-prediction-not-narration-is-the-real-test-of-our-understanding)
+
+> "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes." - [Ray Dalio](https://www.goodreads.com/quotes/7172381-truth---more-precisely-an-accurate-understanding-of-reality--)
+
+> "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
+
+> "Being wrong by 70 years on a forecasting horizon of 85 years is not an acceptable error when trillions of dollars and the policymaking of the entire planet are on the line." - [Adam Dorr](https://x.com/adam_dorr/status/1925567850200039477)
+
+related: The Universality and Predictability of Technology Diffusion - how J. Doyne Farmer properly predicted solar costs & adoption in contrast to most experts
+https://www.youtube.com/watch?v=PxdR4ZCv3Qo
+also related (almost the same talk): A fast green energy transition is likely to be cheaper than business as usual
+https://www.youtube.com/watch?v=IDyf7Qy6Dak
+
+<img src="/img/famous_failed_prediction.png"/>
+^^ who do we think understands the economy better - this chap, or the folks at the SantaFe institute who understand evolution, complex systems, information theory, etc? Why are the wrong people in the driver's seat?
+
+## Thinking Probabilistically
+
+> "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
+
+> "Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write!" - [H. G. Wells](https://www.azquotes.com/quote/685542)
+
+> "Education: the path from cocky ignorance to miserable uncertainty." - [Mark Twain](https://www.goodreads.com/quotes/47069-education-the-path-from-cocky-ignorance-to-miserable-uncertainty)
+
+> "Tolerance grows only when faith loses certainty; certainty is murderous." - [Will Durant](https://www.goodreads.com/quotes/84593-tolerance-grows-only-when-faith-loses-certainty-certainty-is-murderous)
+
+> "Doubt is an uncomfortable condition, but certainty is a ridiculous one." - [Voltaire](https://www.goodreads.com/quotes/24949-doubt-is-an-uncomfortable-condition-but-certainty-is-a-ridiculous)
+
+> "Cherish those who seek the truth but beware of those who find it." - [Voltaire](https://www.goodreads.com/quotes/76035-cherish-those-who-seek-the-truth-but-beware-of-those)
+
+We can encode probability distributions, certainty and effect magnitude estimates in our predictions.
+
+## Universal Basic Humble Pie
+
+universal basic humble pie - let everyone participate in forecasting and let the rules sort out who's actually worth listening to
+so many people have so many opinions about how the world works and about war and conflict and whatnot - we MUST sort this out in a way such that we can all agree on the answer/result
+
+> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
+^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
+
+> "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
+
+> "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts." - [Bertrand Russell](https://www.goodreads.com/quotes/2597341-the-whole-problem-with-the-world-is-that-fools-and)
+
+> "The greatest deception men suffer is from their own opinions." - [Leonardo da Vinci](https://www.goodreads.com/quotes/29059-the-greatest-deception-men-suffer-is-from-their-own-opinions)
+
+
+if we're incentivised to go on the record for all of our predictions along with confidence margins it becomes impossible to cherry-pick only our successes and it stimulates us to refine our understanding of the world, to update our views once new data comes in, etc.
+
+
+<!--
+> "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
+
+> "[Corroborating evidence](https://en.wikipedia.org/wiki/Corroborating_evidence) - Learning something from multiple sources, as unrelated as possible, should increase our confidence that it happened." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1423702201663320064)
+-->
+
+
+
+# Prediction Markets
+
+we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
+> "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
+> "Perfect is the enemy of good." - [Voltaire](https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good)
+
+
+Prediction markets are not necessarily for telling you what's true - they're for separating the winners from the losers. A constant influx of new entrants enables the aggregate to be skewed. We can have something like prediction markets that are non-financial but tied around identity
+
+on prediction markets...
+Involving money & futures contracts on any outcome might put skin in the game but has proven controversial (especially when it comes to terrorist attacks & assassinations):
+https://en.wikipedia.org/wiki/Policy_Analysis_Market
+https://en.wikipedia.org/wiki/Intrade
+We can reward with reputation/status/influence - not money. Also we can have prediction markets and simply vote which topics would be covered and which would not.
+Involving money requires fixing the oracle problem - we can avoid that and simply choose fact databases and decide how to calculate reputation.
+Financial contracts might probably also require syncing with these folks:
+Not using financial futures contracts avoids problems and dealings with these folks:
+https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
+
+
+
+
+
+
+
+
+## The Hall of Shame & The Wrong Side of History
+
+TODO INTERNET: shame - game of thrones
+
+> "The prediction market experiment was a success, but we will not proceed with the programme as it interferes with our ability to shape the narrative around the direction of government policy." - [A G7 government official and advisor to their head of state](https://www.overcomingbias.com/p/prediction-market-quoteshtml)
+
+> "Your crowdsourced real-time risk radar is remarkable, but we will not use it here. The only person who tells my board about unexploded bombs in this bank is me and people who answer directly to me." - [A leading bank CEO](https://www.overcomingbias.com/p/prediction-market-quoteshtml)
+
+> "The objective truth should never be more than optional input to any structural narrative in a social system." - [A partner at a prominent US-based global management consultant](https://www.overcomingbias.com/p/prediction-market-quoteshtml)
+
+> "The problem with prediction markets is that they are the irritating precocious young child, entirely unfiltered socially, and yet forever talking about the elephants in the room that it may or may not be appropriate to talk about." - [A Ivy League Management Guru](https://www.overcomingbias.com/p/prediction-market-quoteshtml)
+
+Something something principal-agent problem anyone...?
+
+
+
+
+
+
+
+
+
+## A Primer on Prediction Markets - Productizing the wisdom of crowds
+
+> "What if we could leverage the wisdom of crowds in a systematic way  —  if we could separate the experts from the charlatans  —  and then have the experts weigh in on crucial decisions?... What if we could aggregate people who are working on the front lines of national security, public health, drug development, movies, government funded projects, trade agreements, banks —  and ask them whether their initiatives are on track?... What if, more broadly, everyone had skin in the game for their opinions? What if people had a financial incentive to be diligent in their predictions? What if people put their money where their mouths are? Could this help us make better decisions? That is the hope and promise of prediction markets.
+>
+> ... Politicians make baseless predictions with no accountability, while the media profits from sensationalist journalism. Pundits of all stripes have no skin in the game. Even when they get things wrong, they typically don’t go back to correct themselves. Experts don’t have incentives to speak up. Too much to lose. Charlatans, however, make baseless predictions to build an audience. If they’re wrong, their tribe still supports them. Celebrities are winning The War of Ideas. Tribalism above truth. Entertainment over everything. In an era of fake news, prediction markets can make a big impact.
+>
+> ... Prediction markets are truth-seeking machines. By forcing people to put their money where their mouths are, people now focus on being correct, rather than being liked, popular, or diplomatic. If they’re unwilling to bet, they’ll be discredited. If they’re wrong, they’ll lose money and reputation. Vice versa, if they win, expertise will be elevated, humility will be appreciated, and charlatanism will be eliminated.
+>
+> ... It’s not entirely wisdom of crowds  —  it’s wisdom of the “right” crowds  —  the experts. And, just as important, it silences (or cripples) the blowhards.
+>
+> ... By helping aggregate more information, decision markets might allow us to more accurately estimate the consequences of important decisions, and in the process elevate experts and drown out post-truth charlatans." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets)
+
+## Futarchy
+
+> "In a Futarchy, governments can do the following: 1) allow citizens to democratically vote on which metrics to optimize for and 2) create markets to let the wisdom of the crowd inform how to reach those goals. Democracy tells us what we want while speculators bet on how to get it. The Government could ask its citizens to rank order their priorities (GDP, education, and healthcare, for example), and then optimize against those priorities. Then, the Futarchy optimizes on that vector.
+>
+> ... When democracy was invented, the world was very different. Interests were more regional than they are today, and the cost of communicating was much higher. These factors made sending regional representatives to a central legislature an obvious democratic strategy. Nowadays, politicians don't win by telling the truth or making reasonable arguments. Under a Futarchy, there would at least be some market for truth-telling politicians.
+>
+> ... Not only does a Futarchy help us make better decisions, it helps us make quicker, more scalable solutions by automating the process & reducing overhead. Right now, our government is bloated and its main business model is entrenching itself. Perhaps a Futarchy could fix that." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets)
+
+
+
+
+Prediction market vs futures market?
+Futures market for reputations - and we should hire and listen to those that have higher future ranking - if people believe someone’s rank will go up - they are probably underrecognized now
+And what about journalists and all other positions? How do we bet on people and win from betting right?
+
+Problems with prediction markets with money:
+- bootstrapping liquidity
+- locking up money for years until resolution
+- Discounting of the future
+- user resolved markets & the oracle problem & fraud
+- many bets on the same side may have totally different arguments for their reasoning and different strategies for next steps but all that is lost
+- illegal in the US because similar to casinos
+- responsibility & accountability get diffused/obfuscated - what if the penalty should be more than simply losing X amount of money but maybe the right on betting in this domain in the future altogether?
+- what if we wanted small rewards for successful predictions and big penalties for getting it wrong?
+
+Financial prediction markets are a spec of what status based prediction markets could be
+Also financial prediction markets are illegal in the US?
+
+Decision tree prediction markets - which paths of a tree will eventually be chosen, which possible outcomes will happen
+
+long bets in financial prediction markets are infeasible because of opportunity costs and locking up capital for many years - this isn't a problem in non-financial prediction markets
+
+> "Prediction markets help answer the question "will X happen?" Debate maps help answer the question "should X happen?"" - [Jamie Joyce](https://x.com/JustJamieJoyce/status/1859341482542629354)
+
+
+
+TODO INTERNET read these... its time
+We need to replace rhetoric with prediction
+
+https://www.lesswrong.com/tag/futarchy
+
+https://www.lesswrong.com/tag/prediction-markets
+
+https://www.lesswrong.com/posts/a4jRN9nbD79PAhWTB/prediction-markets-when-do-they-work
+
+https://mason.gmu.edu/~rhanson/futarchy.html
+
+https://www.overcomingbias.com/p/merkles-futarchyhtml
+
+https://www.wired.com/1995/09/hanson-if/
+
+https://www.metaculus.com/help/faq/#metaculus-prediction
+
+https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
+
+metaculus, polymarket, manifold
+
+https://x.com/MetaDAOProject
+
+https://en.wikipedia.org/wiki/Prediction_market
+
+https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e
+
+
+
+
+
+<details><summary>The brain as a multi-layer prediction machine</summary><p>
+
+TODO: maybe this should go after self organization & the free energy principle?
+
+> "The brain is a multi-layer prediction machine. All neural processing consists of two streams: a bottom-up stream of sense data, and a top-down stream of predictions. These streams interface at each level of processing, comparing themselves to each other and adjusting themselves as necessary.
+>
+> The bottom-up stream starts out as all that incomprehensible light and darkness and noise that we need to process. It gradually moves up all the cognitive layers that we already knew existed – the edge-detectors that resolve it into edges, the object-detectors that shape the edges into solid objects, et cetera.
+>
+> The top-down stream starts with everything you know about the world, all your best heuristics, all your priors, everything that’s ever happened to you before – everything from “solid objects can’t pass through one another” to “e=mc^2” to “that guy in the blue uniform is probably a policeman”. It uses its knowledge of concepts to make predictions – not in the form of verbal statements, but in the form of expected sense data. It makes some guesses about what you’re going to see, hear, and feel next, and asks “Like this?” These predictions gradually move down all the cognitive layers to generate lower-level predictions. If that uniformed guy was a policeman, how would that affect the various objects in the scene? Given the answer to that question, how would it affect the distribution of edges in the scene? Given the answer to that question, how would it affect the raw-sense data received?
+>
+> Both streams are probabilistic in nature. The bottom-up sensory stream has to deal with fog, static, darkness, and neural noise; it knows that whatever forms it tries to extract from this signal might or might not be real. For its part, the top-down predictive stream knows that predicting the future is inherently difficult and its models are often flawed. So both streams contain not only data but estimates of the precision of that data. A bottom-up percept of an elephant right in front of you on a clear day might be labelled “very high precision”; one of a a vague form in a swirling mist far away might be labelled “very low precision”. A top-down prediction that water will be wet might be labelled “very high precision”; one that the stock market will go up might be labelled “very low precision”.
+>
+> As these two streams move through the brain side-by-side, they continually interface with each other. Each level receives the predictions from the level above it and the sense data from the level below it. Then each level uses Bayes’ Theorem to integrate these two sources of probabilistic evidence as best it can. This can end up a couple of different ways.
+>
+> First, the sense data and predictions may more-or-less match. In this case, the layer stays quiet, indicating “all is well”, and the higher layers never even hear about it. The higher levels just keep predicting whatever they were predicting before.
+>
+> Second, low-precision sense data might contradict high-precision predictions. The Bayesian math will conclude that the predictions are still probably right, but the sense data are wrong. The lower levels will “cook the books” – rewrite the sense data to make it look as predicted – and then continue to be quiet and signal that all is well. The higher levels continue to stick to their predictions.
+>
+> Third, there might be some unresolvable conflict between high-precision sense-data and predictions. The Bayesian math will indicate that the predictions are probably wrong. The neurons involved will fire, indicating “surprisal” – a gratuitiously-technical neuroscience term for surprise. The higher the degree of mismatch, and the higher the supposed precision of the data that led to the mismatch, the more surprisal – and the louder the alarm sent to the higher levels.
+>
+> When the higher levels receive the alarms from the lower levels, this is their equivalent of bottom-up sense-data. They ask themselves: “Did the even-higher-levels predict this would happen?” If so, they themselves stay quiet. If not, they might try to change their own models that map higher-level predictions to lower-level sense data. Or they might try to cook the books themselves to smooth over the discrepancy. If none of this works, they send alarms to the even-higher-levels.
+>
+> All the levels really hate hearing alarms. Their goal is to minimize surprisal – to become so good at predicting the world (conditional on the predictions sent by higher levels) that nothing ever surprises them. Surprise prompts a frenzy of activity adjusting the parameters of models – or deploying new models – until the surprise stops.
+>
+> All of this happens several times a second. The lower levels constantly shoot sense data at the upper levels, which constantly adjust their hypotheses and shoot them down at the lower levels. When surprise is registered, the relevant levels change their hypotheses or pass the buck upwards. After umpteen zillion cycles, everyone has the right hypotheses, nobody is surprised by anything, and the brain rests and moves on to the next task. As per the book:
+>
+> "To deal rapidly and fluently with an uncertain and noisy world, brains like ours have become masters of prediction – surfing the waves and noisy and ambiguous sensory stimulation by, in effect, trying to stay just ahead of them. A skilled surfer stays ‘in the pocket’: close to, yet just ahead of the place where the wave is breaking. This provides power and, when the wave breaks, it does not catch her. The brain’s task is not dissimilar. By constantly attempting to predict the incoming sensory signal we become able – in ways we shall soon explore in detail – to learn about the world around us and to engage that world in thought and action."
+>
+> The result is perception, which the PP theory describes as “controlled hallucination”. You’re not seeing the world as it is, exactly. You’re seeing your predictions about the world, cashed out as expected sensations, then shaped/constrained by the actual sense data." - [Book Review: Surfing Uncertainty, by Scott Alexander](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/#:~:text=the%20brain%20is,actual%20sense%20data.)
+
+</p></details>
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Meritocracy / Epistocracy / Noocracy / Technocracy
@@ -780,6 +1058,7 @@ https://i2.wp.com/stgregorychicago.org/wp-content/uploads/2020/06/81XayXCr9AL._S
 morpheus - you think that's meritocracy that you're experiencing?
 TODO INTERNET
 
+
 > "He who seeks equality between unequals seeks an absurdity." - [Baruch Spinoza](https://www.azquotes.com/quote/1022995)
 
 > "We know that equality of individual ability has never existed and never will, but we do insist that equality of opportunity still must be sought." - [Franklin D. Roosevelt](https://www.azquotes.com/quote/522436)
@@ -787,6 +1066,10 @@ TODO INTERNET
 > "Achievement has no color." - [Abraham Lincoln](https://www.goodreads.com/quotes/137323-achievement-has-no-color)
 
 > "As argued by Gregory Clark in his book The Son Also Rises, social mobility is about the same in all societies, and is much lower than we usually propose. Regardless of how meritocratic a system claims to be, power tends to remain in the same families." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
+
+
+
+> "Any use of a human being in which less is demanded of him and less is attributed to him than his full status is a degradation and a waste." - [Norbert Wiener](https://www.azquotes.com/quote/780182)
 
 
 Meritocracy and Topocracy of Networks - Cesar Hidalgo
@@ -1066,167 +1349,3 @@ how stock options don't directly make people work harder for their direct moneta
 
 
 
-
-
-██████████████████████████████████████████████████████████████████
-# SECTION: Probability & prediction
-██████████████████████████████████████████████████████████████████
-
-The only macro long-term prediction we can make with any certainty is that the future belongs to those who can best predict it.
-
-
-## Universal Basic Humble Pie
-
-universal basic humble pie - let everyone participate in forecasting and let the rules sort out who's actually worth listening to
-so many people have so many opinions about how the world works and about war and conflict and whatnot - we MUST sort this out in a way such that we can all agree on the answer/result
-
-> "People know that they suck at sports because it's cheap to try." - [Balaji Srinivasan](https://youtu.be/EqJoXaNFFjY?t=9930)
-^^ How do we make it cheap to try anything like proposing laws to tuning incentives or predicting events or expressing what is true or important in parallel digital twins/simulations of the shared world model and see where that gets you?
-
-> "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence." - [Charles Bukowski](https://www.goodreads.com/quotes/428040-the-problem-with-the-world-is-that-the-intelligent-people)
-
-
-if we're incentivised to go on the record for all of our predictions along with confidence margins it becomes impossible to cherry-pick only our successes and it stimulates us to refine our understanding of the world, to update our views once new data comes in, etc.
-
-<img src="/img/famous_failed_prediction.png"/>
-^^ who do we think understands the economy better - this chap, or the folks at the SantaFe institute who understand evolution, complex systems, information theory, etc? Why are the wrong people in the driver's seat?
-
-> "For anybody who's tracking actual predictive power, The Fringe will surprisingly keep being the place where reality is spotted first." - [Bret Weinstein](https://www.goodreads.com/quotes/11188136-for-anybody-who-s-tracking-actual-predictive-power-the-fringe-will)
-
-> "What I cannot *~~create~~* **predict**, I do not understand." - [Richard Feynman](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand), probably
-
-^^ prediction may be a requirement for understanding but is not sufficient. And in some complex chaotic systems we might even understand the dynamics and trends and yet we might not be able to predict. And yet, being able to predict is a useful signal for competence/understanding and in the cases when it's impossible - that's why we also be rating (good - a.k.a. hard to vary - all the parts of it should serve a purpose such that none of them are arbitrary and if any one of them is changed that would break the explanation - see The Beginning Of Infinity) explanations. Also if someone got some prediction right but their explanation is obviously (to us) wrong we might rule out their prediction in our subjective evaluation of their performance - we can simply discard it and not give them any credit.
-
-https://www.lesswrong.com/tag/futarchy
-
-https://www.lesswrong.com/tag/prediction-markets
-
-https://www.lesswrong.com/posts/a4jRN9nbD79PAhWTB/prediction-markets-when-do-they-work
-
-https://mason.gmu.edu/~rhanson/futarchy.html
-
-https://www.overcomingbias.com/p/merkles-futarchyhtml
-
-https://www.wired.com/1995/09/hanson-if/
-
-https://www.metaculus.com/help/faq/#metaculus-prediction
-
-https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
-
-metaculus, polymarket, manifold
-
-https://x.com/MetaDAOProject
-
-https://en.wikipedia.org/wiki/Prediction_market
-
-https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e
-
-> "Any fool can tell a crisis when it arrives. The real service to the state is to detect it in embryo." - [Isaac Asimov](https://www.goodreads.com/quotes/6520660-any-fool-can-tell-a-crisis-when-it-arrives-the)
-
-> "A clever person solves a problem. A wise person avoids it." - [Albert Einstein](https://www.goodreads.com/quotes/8241-a-clever-person-solves-a-problem-a-wise-person-avoids)
-
-> "Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write!" - [H. G. Wells](https://www.azquotes.com/quote/685542)
-
-we can even give more weight to recent successful predictions and discount the earliest ones - when someone was still learning to think probabilistically and knew little about the world
-
-Prediction markets are not necessarily for telling you what's true - they're for separating the winners from the losers. A constant influx of new entrants enables the aggregate to be skewed. We can have something like prediction markets that are non-financial but tied around identity
-
-on prediction markets...
-Involving money & futures contracts on any outcome might put skin in the game but has proven controversial (especially when it comes to terrorist attacks & assassinations):
-https://en.wikipedia.org/wiki/Policy_Analysis_Market
-https://en.wikipedia.org/wiki/Intrade
-We can reward with reputation/status/influence - not money. Also we can have prediction markets and simply vote which topics would be covered and which would not.
-Involving money requires fixing the oracle problem - we can avoid that and simply choose fact databases and decide how to calculate reputation.
-Financial contracts might probably also require syncing with these folks:
-Not using financial futures contracts avoids problems and dealings with these folks:
-https://en.wikipedia.org/wiki/Commodity_Futures_Trading_Commission
-
-> "Education: the path from cocky ignorance to miserable uncertainty." - [Mark Twain](https://www.goodreads.com/quotes/47069-education-the-path-from-cocky-ignorance-to-miserable-uncertainty)
-
-> "Truth - more precisely, an accurate understanding of reality - is the essential foundation for producing good outcomes." - [Ray Dalio](https://www.goodreads.com/quotes/7172381-truth---more-precisely-an-accurate-understanding-of-reality--)
-
-> "Truth is much too complicated to allow anything but approximations." - [John von Neumann](https://www.azquotes.com/quote/529908)
-
-
-> "Tolerance grows only when faith loses certainty; certainty is murderous." - [Will Durant](https://www.goodreads.com/quotes/84593-tolerance-grows-only-when-faith-loses-certainty-certainty-is-murderous)
-
-
-> "Love truth, but pardon error." - [Voltaire](https://www.goodreads.com/quotes/248-love-truth-but-pardon-error)
-
-> "Doubt is an uncomfortable condition, but certainty is a ridiculous one." - [Voltaire](https://www.goodreads.com/quotes/24949-doubt-is-an-uncomfortable-condition-but-certainty-is-a-ridiculous)
-
-> "Cherish those who seek the truth but beware of those who find it." - [Voltaire](https://www.goodreads.com/quotes/76035-cherish-those-who-seek-the-truth-but-beware-of-those)
-
-> "Perfect is the enemy of good." - [Voltaire](https://www.goodreads.com/quotes/108491-perfect-is-the-enemy-of-good)
-
-> "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts." - [Bertrand Russell](https://www.goodreads.com/quotes/2597341-the-whole-problem-with-the-world-is-that-fools-and)
-
-
-> "The prediction market experiment was a success, but we will not proceed with the programme as it interferes with our ability to shape the narrative around the direction of government policy." - [A G7 government official and advisor to their head of state](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20prediction%20market%20experiment%20was%20a%20success%2C%20but%20we%20will%20not%20proceed%20with%20the%20programme%20as%20it%20interferes%20with%20our%20ability%20to%20shape%20the%20narrative%20around%20the%20direction%20of%20government%20policy.)
-
-> "Your crowdsourced real-time risk radar is remarkable, but we will not use it here. The only person who tells my board about unexploded bombs in this bank is me and people who answer directly to me." - [A leading bank CEO](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=Your%20crowdsourced%20real%2Dtime%20risk%20radar%20is%20remarkable%2C%20but%20we%20will%20not%20use%20it%20here.%20The%20only%20person%20who%20tells%20my%20board%20about%20unexploded%20bombs%20in%20this%20bank%20is%20me%20and%20people%20who%20answer%20directly%20to%20me.)
-
-> "The objective truth should never be more than optional input to any structural narrative in a social system." - [A partner at a prominent US-based global management consultant](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20objective%20truth%20should%20never%20be%20more%20than%20optional%20input%20to%20any%20structural%20narrative%20in%20a%20social%20system.)
-
-> "The problem with prediction markets is that they are the irritating precocious young child, entirely unfiltered socially, and yet forever talking about the elephants in the room that it may or may not be appropriate to talk about." - [A Ivy League Management Guru](https://www.overcomingbias.com/p/prediction-market-quoteshtml#:~:text=The%20problem%20with%20prediction%20markets%20is%20that%20they%20are%20the%20irritating%20precocious%20young%20child%2C%20entirely%20unfiltered%20socially%2C%20and%20yet%20forever%20talking%20about%20the%20elephants%20in%20the%20room%20that%20it%20may%20or%20may%20not%20be%20appropriate%20to%20talk%20about.)
-
-> "Prediction, not narration, is the real test of our understanding of the world." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1177687-prediction-not-narration-is-the-real-test-of-our-understanding)
-
-> "Imagine that only 12% of us are “Future Literate,” in other words, highly skilled at approximating what’s to come and capable of preparing accordingly. We’d be in very big trouble. But it’s actually worse than that. My guess is that the rate of future literacy is less than 1%. As a society, we’re future illiterate. We obsess over the short-term. We fly by the seat of our pants. We ignore risks until they become a crisis. We can’t imagine beyond the familiar. This cognitive disposition creates excessive risk for us as a species." - [A Plan For Humanity, by Bryan Johnson](https://medium.com/future-literacy/a-plan-for-humanity-2bc04088e3d4#:~:text=imagine%20that%20only,as%20a%20species.)
-
-
-> "[Corroborating evidence](https://en.wikipedia.org/wiki/Corroborating_evidence) - Learning something from multiple sources, as unrelated as possible, should increase our confidence that it happened." - [Alexandros Marinos](https://twitter.com/alexandrosM/status/1423702201663320064)
-
-> "'The scientific method,' Thomas Henry Huxley once wrote, 'is nothing but the normal working of the human mind.' That is to say, when the mind is working; that is to say further, when it is engaged in correcting its mistakes." - [Neil Postman](https://www.azquotes.com/quote/1122871)
-
-> "What if we could leverage the wisdom of crowds in a systematic way  —  if we could separate the experts from the charlatans  —  and then have the experts weigh in on crucial decisions?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20leverage%20the%20wisdom%20of%20crowds%20in%20a%20systematic%20way%20%E2%80%8A%E2%80%94%20%E2%80%8Aif%20we%20could%20separate%20the%20experts%20from%20the%20charlatans%20%E2%80%8A%E2%80%94%20%E2%80%8Aand%20then%20have%20the%20experts%20weigh%20in%20on%20crucial%20decisions%3F)
-
-> "What if we could aggregate people who are working on the front lines of national security, public health, drug development, movies, government funded projects, trade agreements, banks —  and ask them whether their initiatives are on track?" - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%20we%20could%20aggregate%20people%20who%20are%20working%20on%20the%20front%20lines%20of%20national%20security%2C%20public%20health%2C%20drug%20development%2C%20movies%2C%20government%20funded%20projects%2C%20trade%20agreements%2C%20banks%20%E2%80%94%20%E2%80%8Aand%20ask%20them%20whether%20their%20initiatives%20are%20on%20track%3F)
-
-> "What if, more broadly, everyone had skin in the game for their opinions? What if people had a financial incentive to be diligent in their predictions? What if people put their money where their mouths are? Could this help us make better decisions? That is the hope and promise of prediction markets." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=What%20if%2C%20more,of%20prediction%20markets.)
-
-> "Politicians make baseless predictions with no accountability, while the media profits from sensationalist journalism. Pundits of all stripes have no skin in the game. Even when they get things wrong, they typically don’t go back to correct themselves. Experts don’t have incentives to speak up. Too much to lose. Charlatans, however, make baseless predictions to build an audience. If they’re wrong, their tribe still supports them. Celebrities are winning The War of Ideas. Tribalism above truth. Entertainment over everything. In an era of fake news, prediction markets can make a big impact." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Politicians%20make%20baseless,a%20big%20impact.)
-
-> "Prediction markets are truth-seeking machines. By forcing people to put their money where their mouths are, people now focus on being correct, rather than being liked, popular, or diplomatic. If they’re unwilling to bet, they’ll be discredited. If they’re wrong, they’ll lose money and reputation. Vice versa, if they win, expertise will be elevated, humility will be appreciated, and charlatanism will be eliminated." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=prediction%20markets%20are%20truth,charlatanism%20will%20be%20eliminated.)
-
-> "It’s not entirely wisdom of crowds  —  it’s wisdom of the “right” crowds  —  the experts. And, just as important, it silences (or cripples) the blowhards." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=It%E2%80%99s%20not%20entirely%20wisdom%20of%20crowds%20%E2%80%8A%E2%80%94%E2%80%8A%20it%E2%80%99s%20wisdom%20of%20the%20%E2%80%9Cright%E2%80%9D%20crowds%E2%80%8A%20%E2%80%94%20%E2%80%8Athe%20experts.%20And%2C%20just%20as%20important%2C%20it%20silences%20(or%20cripples)%20the%20blowhards.)
-
-> "By helping aggregate more information, decision markets might allow us to more accurately estimate the consequences of important decisions, and in the process elevate experts and drown out post-truth charlatans." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=by%20helping%20aggregate%20more%20information%2C%20decision%20markets%20might%20allow%20us%20to%20more%20accurately%20estimate%20the%20consequences%20of%20important%20decisions%2C%20and%20in%20the%20process%20elevate%20experts%20and%20drown%20out%20post%2Dtruth%20charlatans.)
-
-> "In a Futarchy, governments can do the following: 1) allow citizens to democratically vote on which metrics to optimize for and 2) create markets to let the wisdom of the crowd inform how to reach those goals. Democracy tells us what we want while speculators bet on how to get it. The Government could ask its citizens to rank order their priorities (GDP, education, and healthcare, for example), and then optimize against those priorities. Then, the Futarchy optimizes on that vector." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=In%20a%20Futarchy,on%20that%20vector.)
-
-> "When democracy was invented, the world was very different. Interests were more regional than they are today, and the cost of communicating was much higher. These factors made sending regional representatives to a central legislature an obvious democratic strategy. Nowadays, politicians don't win by telling the truth or making reasonable arguments. Under a Futarchy, there would at least be some market for truth-telling politicians." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=When%20democracy%20was,truth%2Dtelling%20politicians.)
-
-> "Not only does a Futarchy help us make better decisions, it helps us make quicker, more scalable solutions by automating the process & reducing overhead. Right now, our government is bloated and its main business model is entrenching itself. Perhaps a Futarchy could fix that." - [A Primer on Prediction Markets - Productizing the wisdom of crowds, by Erik Torenberg](https://eriktorenberg.substack.com/p/a-primer-on-prediction-markets#:~:text=Not%20only%20does%20a%20Futarchy%20help%20us%20make%20better%20decisions%2C%20it%20helps%20us%20make%20quicker%2C%20more%20scalable%20solutions%20by%20automating%20the%20process%20%26%20reducing%20overhead.%20Right%20now%2C%20our%20government%20is%20bloated%20and%20its%20main%20business%20model%20is%20entrenching%20itself.%20Perhaps%20a%20Futarchy%20could%20fix%20that.)
-
-<!-- QUOTES THAT SHOULD PROBABLY STAY HIDDEN:
-
-> "The brain is a multi-layer prediction machine. All neural processing consists of two streams: a bottom-up stream of sense data, and a top-down stream of predictions. These streams interface at each level of processing, comparing themselves to each other and adjusting themselves as necessary.
->
-> The bottom-up stream starts out as all that incomprehensible light and darkness and noise that we need to process. It gradually moves up all the cognitive layers that we already knew existed – the edge-detectors that resolve it into edges, the object-detectors that shape the edges into solid objects, et cetera.
->
-> The top-down stream starts with everything you know about the world, all your best heuristics, all your priors, everything that’s ever happened to you before – everything from “solid objects can’t pass through one another” to “e=mc^2” to “that guy in the blue uniform is probably a policeman”. It uses its knowledge of concepts to make predictions – not in the form of verbal statements, but in the form of expected sense data. It makes some guesses about what you’re going to see, hear, and feel next, and asks “Like this?” These predictions gradually move down all the cognitive layers to generate lower-level predictions. If that uniformed guy was a policeman, how would that affect the various objects in the scene? Given the answer to that question, how would it affect the distribution of edges in the scene? Given the answer to that question, how would it affect the raw-sense data received?
->
-> Both streams are probabilistic in nature. The bottom-up sensory stream has to deal with fog, static, darkness, and neural noise; it knows that whatever forms it tries to extract from this signal might or might not be real. For its part, the top-down predictive stream knows that predicting the future is inherently difficult and its models are often flawed. So both streams contain not only data but estimates of the precision of that data. A bottom-up percept of an elephant right in front of you on a clear day might be labelled “very high precision”; one of a a vague form in a swirling mist far away might be labelled “very low precision”. A top-down prediction that water will be wet might be labelled “very high precision”; one that the stock market will go up might be labelled “very low precision”.
->
-> As these two streams move through the brain side-by-side, they continually interface with each other. Each level receives the predictions from the level above it and the sense data from the level below it. Then each level uses Bayes’ Theorem to integrate these two sources of probabilistic evidence as best it can. This can end up a couple of different ways.
->
-> First, the sense data and predictions may more-or-less match. In this case, the layer stays quiet, indicating “all is well”, and the higher layers never even hear about it. The higher levels just keep predicting whatever they were predicting before.
->
-> Second, low-precision sense data might contradict high-precision predictions. The Bayesian math will conclude that the predictions are still probably right, but the sense data are wrong. The lower levels will “cook the books” – rewrite the sense data to make it look as predicted – and then continue to be quiet and signal that all is well. The higher levels continue to stick to their predictions.
->
-> Third, there might be some unresolvable conflict between high-precision sense-data and predictions. The Bayesian math will indicate that the predictions are probably wrong. The neurons involved will fire, indicating “surprisal” – a gratuitiously-technical neuroscience term for surprise. The higher the degree of mismatch, and the higher the supposed precision of the data that led to the mismatch, the more surprisal – and the louder the alarm sent to the higher levels.
->
-> When the higher levels receive the alarms from the lower levels, this is their equivalent of bottom-up sense-data. They ask themselves: “Did the even-higher-levels predict this would happen?” If so, they themselves stay quiet. If not, they might try to change their own models that map higher-level predictions to lower-level sense data. Or they might try to cook the books themselves to smooth over the discrepancy. If none of this works, they send alarms to the even-higher-levels.
->
-> All the levels really hate hearing alarms. Their goal is to minimize surprisal – to become so good at predicting the world (conditional on the predictions sent by higher levels) that nothing ever surprises them. Surprise prompts a frenzy of activity adjusting the parameters of models – or deploying new models – until the surprise stops.
->
-> All of this happens several times a second. The lower levels constantly shoot sense data at the upper levels, which constantly adjust their hypotheses and shoot them down at the lower levels. When surprise is registered, the relevant levels change their hypotheses or pass the buck upwards. After umpteen zillion cycles, everyone has the right hypotheses, nobody is surprised by anything, and the brain rests and moves on to the next task. As per the book:
->
-> "To deal rapidly and fluently with an uncertain and noisy world, brains like ours have become masters of prediction – surfing the waves and noisy and ambiguous sensory stimulation by, in effect, trying to stay just ahead of them. A skilled surfer stays ‘in the pocket’: close to, yet just ahead of the place where the wave is breaking. This provides power and, when the wave breaks, it does not catch her. The brain’s task is not dissimilar. By constantly attempting to predict the incoming sensory signal we become able – in ways we shall soon explore in detail – to learn about the world around us and to engage that world in thought and action."
->
-> The result is perception, which the PP theory describes as “controlled hallucination”. You’re not seeing the world as it is, exactly. You’re seeing your predictions about the world, cashed out as expected sensations, then shaped/constrained by the actual sense data." - [Book Review: Surfing Uncertainty, by Scott Alexander](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/#:~:text=the%20brain%20is,actual%20sense%20data.)
-
-Controlled Hallucination
-
--->

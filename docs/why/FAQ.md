@@ -31,6 +31,8 @@ Communism ignored human nature - this embraces it. This is infinitely more sophi
 
 or maybe scrap all of this - appendix A of the book Nordic Ideology gives a much better account of communism and its failures than u could ever come up with. focusing on human nature only is simplistic - you can't give a thorough answer here without including most (all?) of what's in that book.
 
+If you call this communism, the devout communists from the past century will be rolling in their graves screaming in agony - have mercy on their souls. This is NOTHING like communism or capitalism or any other ism that has ever existed. This is it's own new thing and is more complex than the combination of everything that's come before it.
+
 ## Why so dense?
 
 Because sparseness and vagueness is a disrespect to the finitude of life and attention of others
