@@ -948,6 +948,7 @@ TODO INTERNET: shame - game of thrones
 
 Something something principal-agent problem anyone...?
 
+This is what misalignment, mediocrity, laziness & cowardice look like. Let's make these boys famous!
 
 
 

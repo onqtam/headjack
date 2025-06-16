@@ -1,5 +1,24 @@
 
 
+
+The #1 Hall of famer in connecting people...
+Mark!
+Good job mark! You absolutely reinvented the game with Threads, etc. etc...
+You absolutely deserve your billionaire bunker for those tens of hundreds of millions of dollars! And no need to offset the carbon it took to build it - you're such a lad you need not concern yourself with stuff like that! YOU EARNED IT MARK! And don't worry about what it says about your worldview and hope for the future... We're all in this together, right?
+You're the GOAT of reinventing telecommunications 
+Absolute GOAT, Mark...
+ANd you're definitely a real bow hunter... and a true jiu jitsu fighter who doesn't need to hire PR agencies to fix up your image and take photos with sick slick swagger and look cool...
+You're an all american hero - we love looking at u celebrating the 4th of July - you truly are the absolute pinnacle of success and alignment of society and its betterment! You absolutely crushed those KPIs Mark! Who needs a Harvard degree when they can crush in business so hard! You were not simply lucky, Mark! You're an Internet prodigy connecting billions of people! Never forget that.
+TODO INTERNET: grok image mark digital fentanyl
+The truth is you merely played the game that was presented to you and you never had a clue what to do with the monumentous potential of the position that you found yourself in.
+Maybe I shouldnt be so hard on him... but this will stay in the git history.
+
+
+
+
+
+
+
 Forgiveness as part of the optimal game-theoretic strategy
 
 > "Our instinctual tendencies toward Vengeance are a Great Filter whose perennial nature is more or less obvious...
