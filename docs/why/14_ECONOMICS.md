@@ -506,10 +506,14 @@ we waste so much government scientific money in the quest to appear like we're n
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: win-win & open source & sharing & the commons
+# SECTION: open source & win-win & sharing & the commons
 ██████████████████████████████████████████████████████████████████
 
 > "If we exchange one dollar, we both have one dollar each. But if we exchange one good thought, we both have two good thoughts." - [Abraham Lincoln](https://www.azquotes.com/quote/873058)
+
+
+> "Open source means each problem only has to be solved once." - [Naval](https://twitter.com/naval/status/1444366754650656770)
+
 
 > "Knowledge, like air, is vital to life. Like air, no one should be denied it." - [V](https://www.goodreads.com/quotes/423650-knowledge-like-air-is-vital-to-life-like-air-no)
 

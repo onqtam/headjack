@@ -6605,9 +6605,12 @@ distributed cognition and self-organization
 
 "Scale-Free Cognition"
 
-> "I hypothesize that higher level goal-directed activity and agency, resulting in larger cognitive boundaries, evolve from the primal homeostatic drive of living things to reduce stress – the difference between current conditions and life-optimal conditions." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=I%20hypothesize%20that%20higher%20level%20goal%2Ddirected%20activity%20and%20agency%2C%20resulting%20in%20larger%20cognitive%20boundaries%2C%20evolve%20from%20the%20primal%20homeostatic%20drive%20of%20living%20things%20to%20reduce%20stress%20%E2%80%93%20the%20difference%20between%20current%20conditions%20and%20life%2Doptimal%20conditions.)
 
-> "The ability of cells to join into domains that execute group decisions, whether deterministic or stochastic, is an essential component of the evolution of complex forms and will be a central component of a proposed definition of a Self." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20ability%20of%20cells%20to%20join%20into%20domains%20that%20execute%20group%20decisions%2C%20whether%20deterministic%20or%20stochastic%2C%20is%20an%20essential%20component%20of%20the%20evolution%20of%20complex%20forms%20and%20will%20be%20a%20central%20component%20of%20a%20proposed%20definition%20of%20a%20Self.)
+
+
+> "I hypothesize that higher level goal-directed activity and agency, resulting in larger cognitive boundaries, evolve from the primal homeostatic drive of living things to reduce stress – the difference between current conditions and life-optimal conditions.
+>
+> ... The ability of cells to join into domains that execute group decisions, whether deterministic or stochastic, is an essential component of the evolution of complex forms and will be a central component of a proposed definition of a Self." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full)
 
 > "Normal bodies consist of networks of cells working together toward a unified goal - create and maintain specific large structures. In an important sense, each cell is integrated, via physiological signaling, into a coherent swarm intelligence with system-level (anatomical) goals. In cancer, the scope of the coherent Self of a cell reduces from being as large as the boundary of a whole body, to that of just one cell’s surface. The scope of the Self – the structure which a cell works to maintain and support – shrinks drastically." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=Normal%20bodies%20consist,support%20%E2%80%93%20shrinks%20drastically)
 
@@ -6839,17 +6842,6 @@ what if we could analyze any piece of media for the degree of use of loaded/mani
 
 
 
-
-
-
-
-
-
-
-shared context - common knowledge - enables more efficient communication
-we communicate more efficiently within groups when we have inside jokes
-we build dictionaries for efficient communication
-
 duplicated content & concepts leads to less common knowledge as it is harder/impossible to join the data and produce aggregated views - leading to fractured views
 
 context collapse
@@ -6947,45 +6939,6 @@ we have the opportunity to deduplicate common knowledge (concepts, nouns, etc). 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-████████████████████████████████████████████████ REAL TODO:
-
-
-████████████████████████████████████████████████ page organization:
-
-
-████████████████████████████████████████████████ Notes from the 2nd half of November
-
-100 ways to describe Headjack:
-- not engineered for a % of the market - engineered for the entire market
-- cheaper, faster, better
-- Headjack's block/content explorer is the next Google
-- the real cloud - beyond physical hosts
-- Moving everyone on a shared identity layer needs to happen only once. It's a matter of time. Why not simply look at the best protocol in terms of merits and shoot with it?
-- Lets create the theoretically most secure and scalable solution to this problem.
-- Lets tell the best story of why it's necessary.
-- And let's not botch the tokenomics.
-- The timestamp machine
-- The universal network effect
-- Untransferrable property rights for data
-- fixing competition in media
-
-
-
-
-
-
-
 - "the successor to E-mail" in what really is headjack
 An extension of email
 Extending email to a broadcasting protocol
@@ -6994,16 +6947,10 @@ the successor to email - instead of base layer of cyberspace
 DNS+TLS+Email+RSS
 
 
-
-
-
-
 ████████████████████████████████████████████████ other
 
 competition & horizontal gene transfer
 https://twitter.com/sreeramkannan/status/1573832256577224705
-
-- make all quotes with the right [source] and try to use highlights
 
 ███ page about VCs
 
@@ -7011,15 +6958,12 @@ https://twitter.com/sreeramkannan/status/1573832256577224705
     possibilities.html#intra-document-addressing
     names_and_paths.html#addressing-within-content
 
-
 ███ points & phrasing:
 
 - todo: Streams and composability
     https://cdixon.mirror.xyz/Ie8BQeiM1JTJkKISPVaAao88-XVMoHsdUAtcnS9_Jbs
     https://twitter.com/naval/status/1444366754650656770
 
-
-> "Open source means each problem only has to be solved once." - [Naval](https://twitter.com/naval/status/1444366754650656770)
 
 
 ███ diagrams:
@@ -7168,8 +7112,6 @@ The killer feature of digital identity & media is programmability by anyone
 @mentions can also be stable! even if names (handles) change ownership
 
 
-Public actions should be regarded as public contributions
-
 
 
 
@@ -7252,44 +7194,5 @@ What happens to URIs with names that get used in a blob which doesnt get anchore
 
 ██████ slogans
 
-The tweets of the future will be statements of semantic triples
-
-Realizing humanity’s potential for expression at scale
-
-Making the individual count
-
-upgrading the internet beyond the physical
-
-We need a shared reality
-
-giving everyone an identifier
-
-knowledge worker => semantic worker
-
-the separation of identity from social network
-
-I want YOU to help build the metabrain
-
-I want YOU to be a good little neuron
-Be a good little neuron
-
-“What is real social media”
-True social media is free-form
-
-A bicycle for the (hive)mind
-
 Social media 1.0: poop emoji
 Social media 2.0: a global self-organizing brain aka AGI
-
-bringing logic programming to social networking
-
-putting society back in the drivers seat
-
-public data is our commons and it should be programmatically accessible by anyone
-
-strength is in the numbers
-
-"fork anything"
-
-
-
