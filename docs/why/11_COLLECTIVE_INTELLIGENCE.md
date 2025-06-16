@@ -1005,6 +1005,8 @@ The more we move away from biased ape/identity-based decisions and towards impar
 We need to vote on mechanisms - not people
 
 post-chimp politics
+> "Promoting ideas also allows auditing of an idea without all the unrelated distraction of attached personalities." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
+
 
 the highest leverage point
 

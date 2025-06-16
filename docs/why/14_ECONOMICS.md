@@ -515,6 +515,13 @@ we waste so much government scientific money in the quest to appear like we're n
 > "Open source means each problem only has to be solved once." - [Naval](https://twitter.com/naval/status/1444366754650656770)
 
 
+
+> "Most systems are now run by competitive organizations. Competition creates redundancy, is slow and wastes resources on idea protection, advertisement, and more. Competition also requires secrecy which blocks progress and auditing and causes lost opportunities and ideas. Patents and copyrights further limit speed and the potential for mass input of ideas. Collaboration between the people with the greatest expertise does not happen unless they are hired by the same project.
+>
+> ... In a competitive environment, a new idea is jealously guarded, legally protected and shrouded in secrecy. Great effort is expended in finding supporters for the idea while also ensuring that the idea remains covered by legal protections such as non-disclosure agreements. The idea remains inextricably bound to the creator until it is legally transferred to another owner and all contributors work for the owner, not the idea. Contributors must then be rewarded by the owner which further limits the potential for development and wastes more resources in legal agreements, lawsuits, etc. Contributors have no interest in whether the project succeeds or fails and no motivation to contribute more than they are rewarded for." - [Stigmergy, by Heather Marsh](https://web.archive.org/web/20160117235400/https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/)
+
+
+
 > "Knowledge, like air, is vital to life. Like air, no one should be denied it." - [V](https://www.goodreads.com/quotes/423650-knowledge-like-air-is-vital-to-life-like-air-no)
 
 how to fund free books - relative to their popularity and recognition - in the commons
@@ -900,6 +907,7 @@ an excessive comsumption tax. And without eliminating status competition - simpl
 We need to make excessive spending more expensive - progressively
 Excessive/conspicuous consumption is immoral
 
+> "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
 
 
 ██████████████████████████████████████████████████████████████████

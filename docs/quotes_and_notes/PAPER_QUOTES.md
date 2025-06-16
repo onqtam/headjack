@@ -3,15 +3,9 @@ draft: true
 ---
 
 
-> "Society with its dependencies and relationships has been converted to a completely monetized system of dissociation. For the first time in human history, people have been effectively dissociated from each other and are living in a state of no society." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
-> "We need a system where urgent local news can be collected and amplified globally when necessary, and where the people of the world decide which news is important, not official news channels or celebrity nodes." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
-> "If news requires no action, it is probably not the news we require in order to govern ourselves. If activism requires no analysis, it is probably not informed or effective." - [Heather Marsh](https://www.goodreads.com/quotes/10158316-if-news-requires-no-action-it-is-probably-not-the)
 
-> "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
-
-> "Promoting ideas also allows auditing of an idea without all the unrelated distraction of attached personalities." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
 
 
@@ -36,10 +30,6 @@ knowledge bridge
 > "Open source software with forums open to all are a perfect working example of fully transparent and audited systems of elite knowledge. While the decisions are made by the developers, review and acceptance or rejection of the software is the right of the user group. If the developers refuse to listen to the user group and another development team is willing to work on the project, the original code can be forked and modified to meet the user requirements." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
 > "Online courses such as those offered by Coursera where students teach each other and have direction from an epistemic community of instructors with knowledge bridges of graduates and fellow students is another example of a concentric circle in the cases where the course material is released as creative commons." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
-
-> "Most systems are now run by competitive organizations. Competition creates redundancy, is slow and wastes resources on idea protection, advertisement, and more. Competition also requires secrecy which blocks progress and auditing and causes lost opportunities and ideas. Patents and copyrights further limit speed and the potential for mass input of ideas. Collaboration between the people with the greatest expertise does not happen unless they are hired by the same project." - [Stigmergy, by Heather Marsh](https://web.archive.org/web/20160117235400/https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/)
-
-> "In a competitive environment, a new idea is jealously guarded, legally protected and shrouded in secrecy. Great effort is expended in finding supporters for the idea while also ensuring that the idea remains covered by legal protections such as non-disclosure agreements. The idea remains inextricably bound to the creator until it is legally transferred to another owner and all contributors work for the owner, not the idea. Contributors must then be rewarded by the owner which further limits the potential for development and wastes more resources in legal agreements, lawsuits, etc. Contributors have no interest in whether the project succeeds or fails and no motivation to contribute more than they are rewarded for." - [Stigmergy, by Heather Marsh](https://web.archive.org/web/20160117235400/https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/)
 
 
 

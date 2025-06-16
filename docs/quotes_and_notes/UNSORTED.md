@@ -4695,8 +4695,6 @@ What if people act as an oracle network to bring in evaluation of events from th
 
 fire/agriculture/fossil hydrocarbons as the 3 spikes in our capacity to extract energy from the environment
 
-post-chimp politics
-
 privatized gains and socialized losses
 
 luxury goods used solely to signal material wealth and that bolster this kind of status games are immoral - especially when they require a lot more resources than a normal good

@@ -336,3 +336,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "The obedient always think of themselves as virtuous rather than cowardly." - [Robert Anton Wilson](https://www.goodreads.com/quotes/10977476-the-obedient-always-think-of-themselves-as-virtuous-rather-than)
 
+> "Society with its dependencies and relationships has been converted to a completely monetized system of dissociation. For the first time in human history, people have been effectively dissociated from each other and are living in a state of no society." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
+
