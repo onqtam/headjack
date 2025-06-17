@@ -177,6 +177,7 @@ Aggregating/Integrating/Aligning Pockets of Intelligence
 The TL;DR of 1000 books, papers, blogs, and talks
     synthesizing and integrating what's most important from them
 “Family”/“The family”
+The Universal Moral Compass
 Incentives from first principles
 This Book Can be Read in 2-3 Weeks
     > "There are decades where nothing happens; and there are weeks where decades happen." - [Vladimir Lenin](https://www.goodreads.com/quotes/342783-there-are-decades-where-nothing-happens-and-there-are-weeks)

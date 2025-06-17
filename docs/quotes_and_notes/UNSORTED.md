@@ -1,21 +1,8 @@
 
 
 
-The #1 Hall of famer in connecting people...
-Mark!
-Good job mark! You absolutely reinvented the game with Threads, etc. etc...
-You absolutely deserve your billionaire bunker for those tens of hundreds of millions of dollars! And no need to offset the carbon it took to build it - you're such a lad you need not concern yourself with stuff like that! YOU EARNED IT MARK! And don't worry about what it says about your worldview and hope for the future... We're all in this together, right?
-You're the GOAT of reinventing telecommunications 
-Absolute GOAT, Mark...
-ANd you're definitely a real bow hunter... and a true jiu jitsu fighter who doesn't need to hire PR agencies to fix up your image and take photos with sick slick swagger and look cool...
-You're an all american hero - we love looking at u celebrating the 4th of July - you truly are the absolute pinnacle of success and alignment of society and its betterment! You absolutely crushed those KPIs Mark! Who needs a Harvard degree when they can crush in business so hard! You were not simply lucky, Mark! You're an Internet prodigy connecting billions of people! Never forget that.
-TODO INTERNET: grok image mark digital fentanyl
-The truth is you merely played the game that was presented to you and you never had a clue what to do with the monumentous potential of the position that you found yourself in.
-Maybe I shouldnt be so hard on him... but this will stay in the git history.
 
-
-
-
+> "Intelligence is the ability to reach the same goal by different means." - [William James](https://www.templeton.org/news/intelligence-without-a-brain)
 
 
 
@@ -5582,8 +5569,6 @@ https://en.wikipedia.org/wiki/Tithe
 
 Condition to enter our taxation regime: you must forego everything else you own from the previous system and donate it to us in order to join
 
-The legacy of Mark Zuckerberg needs to be burned to the ground
-He's guilty of the cognitive and spiritual degradation of humanity. He merely played the game he was brought in and supercharged it instead of reinventing it
 
 How do we reduce smear campaigns? Where you can pay to ruin someone's reputation
 
@@ -5739,18 +5724,6 @@ If your country of residence doesn’t allow this new kind of media - MOVE.
 
 We ask the questions through morals and we answer them through the most rigorous standards of science
 
-Zuck shpuld have spent his life trying to create this - instead he played the traditional game and addicted people and made them less prosperous in their own and in our collective lifes. Facebook degrades the human condition in comparison with this system.
-Choose life
-The great dezucking
-Zuck belongs in reputational jail for moral crimes against humanity.
-Zuck is the epitomy of what’s most broken in our society - he simply plays the game without questioning it despite the harms. He chooses harms for others over harms to himself. He doesn’t even believe in himself to fix the problem - if he did he would have solved it. He should have simply continued asking what media is for
-Instead of hating zuck sinply say what he did wrong and how he can make amends
-Invite him to be a real man and to start implementing this - instead of waiting for the regime to change before taking any personal risk with your policies. And stop building bubkers for yoursef bro thats not very courageous. Enough with the jiu jitsu bowbhunting psyop. U probably hired a pr agency to fix ur image lol
-Come on zuck, out here is better than in the bunker, help make the world actually better - simply connecting everyone on the most extractive attentional architecture possible is not really good actually
-Either Zuck pivots to pro-sociality or the internet will be dezucked
-De-Googling the Internet
-DeZucking the Internet
-The highest calling for Zuck is to build a bunker
 
 Transmuting the profit incentive
 The transmutation of the profit incentive
