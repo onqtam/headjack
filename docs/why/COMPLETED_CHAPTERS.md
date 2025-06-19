@@ -393,6 +393,9 @@ The Wide Boundary Impacts of AI with Daniel Schmachtenberger | TGS 132
 https://www.youtube.com/watch?v=1NFuddEAi5s
 simply everything by daniel in the TGS channel by Nate
 
+The InterBrain - How Collective DreamWeaving Can Heal the World
+https://www.youtube.com/watch?v=v5dBRmjF8mc
+
 Why America is Not An Open Society - Samo Burja
 https://www.youtube.com/watch?v=AP9p38-C2j4
 

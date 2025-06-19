@@ -994,6 +994,8 @@ Problems with prediction markets with money:
 - responsibility & accountability get diffused/obfuscated - what if the penalty should be more than simply losing X amount of money but maybe the right on betting in this domain in the future altogether?
 - what if we wanted small rewards for successful predictions and big penalties for getting it wrong?
 
+in a financial prediction market if there's noone on the other side of the bet there's no liquidity and you can't enter the position and even if you knew something you don't get to profit from helping fix a wrong aggregate (a price) - but with identity we can bet on things without the need for liquidity and we can be assigned recognition in retrospection depending on how important the thing we voted on turns out to be
+
 Financial prediction markets are a spec of what status based prediction markets could be
 Also financial prediction markets are illegal in the US?
 

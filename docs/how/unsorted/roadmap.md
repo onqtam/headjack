@@ -43,6 +43,8 @@ The Liminal Web as the first target group for this project
 
 We can export stackexchange karma through some onboarding strategy
 
+> "Retention is all you need." - [Dalton Caldwell](https://x.com/daltonc/status/1932817943957840006)
+
 call to action for people who watch the "solving the metacrisis" playlist: sign up for the project, spread the word, etc.
 
 Include a way for people to add their email as early converts and put their counter globally somewhere - visibly online - up to date

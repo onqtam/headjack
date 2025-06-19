@@ -63,6 +63,8 @@ Because why not. Seriously!
 
 The Third Attractor
     > "The collective, adaptive sweet spot between a chaotic collapse and a totalitarian ordered system of control." - [UTOK: The Unified Theory of Knowledge, by Gregg Henriques](https://www.goodreads.com/book/show/219729081-utok)
+    In Search of the Third Attractor, by Project Liminality
+    https://www.youtube.com/watch?v=wbTEyaeHNuo
 The Fifth Joint Point - ala Gregg Henriques & his UTOK diagram
 The Architecture of Infinity
     The [Beginning](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) ought to have an architecture, no?
@@ -120,7 +122,11 @@ The Big Sell
 The Melting Pot
     Taking diversity and producing coherence and cooperation around what matters most (and what's true)
 (perpetually) Evolving Towards Nash Equilibrium in societal organization
+The Protocols of the Elders of Earth
+    A plan for world domination that's actually 4 real
+    https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion
 The Edge of Chaos
+    the sweet spot between order and chaos, control/oppression and freedom
     > "The art of progress is to preserve order amid change and to preserve change amid order." - [Alfred North Whitehead](https://www.azquotes.com/quote/521410)
 Rejecting Mediocrity
 “It Is Known”

@@ -2184,6 +2184,12 @@ The infinite game by definition is one that is not self-terminating - how do we 
 
 In the end, it is all about love and consciousness
 
+> "The best way, perhaps the only way, to change others is to become an example." - [Naval](https://x.com/NavalismHQ/status/1931184841397252221)
+
+
+"The Next Buddha will be a Sangha" – Thich Nhat Hanh
+https://en.wikipedia.org/wiki/Sangha
+
 The more you amplify the signals that prove themselves throughout time - the more elite you’ll be
 
 Separating substance from presentation
