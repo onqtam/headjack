@@ -1348,6 +1348,7 @@ Shared identity as a service
 Wikimeaning as a service
 Disney as a service - participating in the programming of the culture for the next generation
 Revelation as a Service
+Comparison as a service
 
 IRS as a Service
 Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity

@@ -95,14 +95,11 @@ H index 2.0
 The Post-Liberal Synthesis
     An answer to the [opening statement](https://www.palladiummag.com/2018/09/29/towards-the-post-liberal-synthesis) of [Palladium Magazine](https://www.palladiummag.com/) that deals with governance futurism, the most (only?!) worthy magazine. Consider subscribing/donating to it for support - it's been on the verge of shutdown multiple times already.
 The Final Major Evolutionary Transition
-Summa/Principia Organizationa/Ideologica/Civilizaciona
-https://en.wikipedia.org/wiki/Summa_Theologica
-https://en.wikipedia.org/wiki/Summa_logicae
-
+[Summa](https://en.wikipedia.org/wiki/Summa_Theologica) / [Principia](https://en.wikipedia.org/wiki/Principia_Mathematica) Organizationa/Ideologica/Civilizaciona
 The God Protocol
     Alignment, Coherence, Integration, Self-Organization
 The Book of Synthesis
-Solving the Meaning Crisis
+Solving the [Meaning Crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
 Everything, Everywhere, From All Perspectives
 This book will change you more than any other
 proper attuning to god
@@ -167,6 +164,7 @@ The Matrix part 2/4
 Birthing Collective Consciousness
 Embracing Complexity
 Genesis / The seed
+Social engineering is already here - its just not evenly distributed
 Black mirror episode about social credit score
 The Caterpillar
     This book will dissolve/morph into the symbolic subtrate that it will give birth to.
@@ -175,6 +173,8 @@ Collective Plasticity
     upregulating our capacity for conscious collective change
 The Flood Dose
     Absorbing God’s most articulate and sophisticated representation/scripture to date and a reset for your apathy/nihilism/meaninglessness/insignificance/disorientation/alienation/hopelessness/existential terror
+Neuronal violator/infiltrator
+    colonizing your mind
 The first dimension
     the first time we get to vote on what memeplex (or set of ideas) is most important digitally - this is us being able to point and evolve, and cohere through common knowledge
     not sure about this... sux?
@@ -199,6 +199,9 @@ Collectivito, ergo sum, or [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philoso
 System 10b
     from gameA to gameB - jango unchained meme - "the b is binary" from "the ... is silent"
 Culturio - like Factorio
+Agentic Abstraction
+The Biggest Truth
+The Comparison Operator - democratic
 WikiRedditOverflow
 Religion: the only truly scalable coordination & cooperation mechanism
 The World (Self) Model
@@ -206,7 +209,7 @@ Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
 Participatory Intelligent Design
 Memetic Supremacy
-    The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives of a centuries old paradigm they've inherited / found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do.
+    The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives of a centuries old paradigm they've inherited / found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do. The highest form of leadership is improving the system for everyone more than anyone - that’s the definition
 The open source participatory/democratic GCP (global communist party)
 “The highest leverage point”
 The Global Community

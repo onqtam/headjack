@@ -2602,6 +2602,15 @@ Computational accountability
 Integration is also about common knowledge and making it explicit and reducing friction
 
 
+
+If we get the truth machine right everything else will fall into its place
+
+Each and everyone of us is a wave of experience and a perspective of integration - how do we sync up and enter into resonance better?
+
+What if consequences for being wrong scales with influence?
+
+"Dar al-Islam" and "Dar al-Kufr" are terms used in Islamic jurisprudence to divide the world into two spheres: the "House of Islam" and the "House of Disbelief" (or "House of War"). Dar al-Islam refers to territories where Muslim rule and Islamic law prevail, while Dar al-Kufr (also sometimes called Dar al-Harb) refers to territories where non-Islamic rule and laws are dominant. 
+
 Voluntary/invitation leadership
 
 Any kind of curation is relevance realization. YouTube is a treasure trove of learning materials but the search is absolute shit - we can crowdsource a ranking overlay/index of recommendations on top of it or in parallel
