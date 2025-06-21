@@ -41,8 +41,9 @@ And this material is comprehensible by a tiny fraction of people anyway
 This is not meant for the average reader - few will be able to plow through it with ease and fully grasp what it entails.
 
 ## This is all BS
+## This is too long - how do you expect anyone to read it? TL;DR? @grok is this true? / summarize plz
 
-> "If you don't believe me or don't get it, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
+> "If you *~~don't believe me or don't get it~~* **don't want to dedicate the time**, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
 
 ## I vehemently disagree or don't understand 10-20% of the content here
 

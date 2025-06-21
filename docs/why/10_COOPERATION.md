@@ -3,7 +3,7 @@
 
 AND COORDINATION !!!
 
-jesus quote: "the meek shall inherit the earth" - from meek to cooperative
+"The *~~meek~~* **cooperative** shall inherit the Earth." - [Matthew 5:5](https://en.wikipedia.org/wiki/Matthew_5:5), probably
 
 > "Selfishness beats altruism within groups. Altruistic groups beat selfish groups. Everything else is commentary." - [David Sloan Wilson](https://www.goodreads.com/quotes/950594-selfishness-beats-altruism-within-groups-altruistic-groups-beat-selfish-groups)
 

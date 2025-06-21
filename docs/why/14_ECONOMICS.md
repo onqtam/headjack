@@ -516,6 +516,19 @@ we waste so much government scientific money in the quest to appear like we're n
 
 
 
+Open innovation offers several benefits to companies operating on a program of global collaboration:
+Reduced cost of conducting research and development
+Potential for improvement in development productivity
+Incorporation of customers early in the development process
+Increase in accuracy for market research and customer targeting
+Improve the performance in planning and delivering projects[10]
+Potential for synergism between internal and external innovations
+Potential for viral marketing[13]
+Enhanced digital transformation
+Potential for completely new business models
+Leveraging of innovation ecosystems[14]
+
+
 > "Most systems are now run by competitive organizations. Competition creates redundancy, is slow and wastes resources on idea protection, advertisement, and more. Competition also requires secrecy which blocks progress and auditing and causes lost opportunities and ideas. Patents and copyrights further limit speed and the potential for mass input of ideas. Collaboration between the people with the greatest expertise does not happen unless they are hired by the same project.
 >
 > ... In a competitive environment, a new idea is jealously guarded, legally protected and shrouded in secrecy. Great effort is expended in finding supporters for the idea while also ensuring that the idea remains covered by legal protections such as non-disclosure agreements. The idea remains inextricably bound to the creator until it is legally transferred to another owner and all contributors work for the owner, not the idea. Contributors must then be rewarded by the owner which further limits the potential for development and wastes more resources in legal agreements, lawsuits, etc. Contributors have no interest in whether the project succeeds or fails and no motivation to contribute more than they are rewarded for." - [Stigmergy, by Heather Marsh](https://web.archive.org/web/20160117235400/https://georgiebc.wordpress.com/2012/12/24/stigmergy-2/)
@@ -896,6 +909,8 @@ Meme: look at me - I’m the IMF/world bank now
 ██████████████████████████████████████████████████████████████████
 # SECTION: Surplus & Luxury
 ██████████████████████████████████████████████████████████████████
+
+> "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter into the kingdom of God." - [Matthew 19](https://byustudies.byu.edu/online-book/the-gospel-according-to-matthew/matthew-19)
 
 > "It is unjust that the whole of society should contribute towards an expence of which the benefit is confined to a part of the society." - [Adam Smith](https://www.azquotes.com/quote/1323948)
 

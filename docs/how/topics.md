@@ -115,6 +115,9 @@ competence heterarchy
 An operating system for humanity in the 21st century (and beyond)
 
 
+SCRIPTING AS A SECTION !!!!!!!!!!!
+
+
 - cryptohistory - in can't be evil?
 - your digital footprint
     - ...

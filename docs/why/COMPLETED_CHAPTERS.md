@@ -253,6 +253,10 @@ https://consilienceproject.org/development-in-progress/
 
 top 10 concept for life: tim urban's life calendar
 
+top10 institutions:
+- [California Institute for Machine Consciousness](https://cimc.ai/)
+- [Santa Fe Institute](https://www.santafe.edu/)
+
 top 10 things I wish I knew earlier:
 https://eriktorenberg.substack.com/p/35
 

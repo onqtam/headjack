@@ -201,6 +201,18 @@ System 10b
 Culturio - like Factorio
 Agentic Abstraction
 The Biggest Truth
+The Sound of Inevitability
+Universal Basic Recognition - UBR
+Cultural Infrastructure
+The Race to the Top
+God's Blueprint
+Resistance is Futile
+Fixing Status
+The Unified Balance Sheet
+The Top Memetic Predator
+The Most Significant Event In Your Life
+    finishing this book
+Silicon Valley's Destiny
 The Comparison Operator - democratic
 WikiRedditOverflow
 Religion: the only truly scalable coordination & cooperation mechanism

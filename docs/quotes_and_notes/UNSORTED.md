@@ -2601,6 +2601,24 @@ Computational accountability
 
 Integration is also about common knowledge and making it explicit and reducing friction
 
+The capacity and range for feelings and emotions increase with the increase of self-awareness.
+
+we can pit subgroups against subgroups to compete over who would do better for the global collective goals
+
+this is bigger than religion, capitalism, communism, democracy, or economics - this is all of them
+
+we'll be able to send links to queries - not just the URI of a node but also what relevance templates and rules and indexes to load and use to construct the view
+
+solving the entire category of multipolar traps
+
+
+
+> "Whosoever desires constant success must change his conduct with the times." - [Niccolo Machiavelli](https://www.goodreads.com/quotes/48194-whosoever-desires-constant-success-must-change-his-conduct-with-the)
+
+
+
+> "In time, you’ll be able to bet on anything, anytime, anywhere, and the lines between content and trading will cease to exist." - [Ryan Watkins](https://x.com/RyanWatkins_/status/1936050119268311297)
+
 
 
 If we get the truth machine right everything else will fall into its place

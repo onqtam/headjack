@@ -802,7 +802,7 @@ Transparency, trust
 
 > "This is the essence of the superorganism worldview — one that sees not a battleground of competing tribes but a tapestry of human endeavor, rich with the potential for synthesis and harmony while preserving its unique variety of cultures and customs. It calls for a new kind of global cooperation, one that transcends tribalistic divisions and unites us in the common pursuit of a world that is sustainable, just, and flourishing." - [Harmonizing Humanity: A Unifying Worldview is the Only Lasting Solution to Peace in the Middle East, by Bobby Azarian](https://roadtoomega.substack.com/p/harmonizing-humanity-a-unifying-worldview#:~:text=This%20is%20the,just%2C%20and%20flourishing.)
 
-Mark Zuckerberg bunker - he hasn't got the memo that we're all in this together
+Mark Zuckerberg bunker - hasn't he got the memo that we're all in this together? Even his sister Randi Zuckerberg sang that ["We're all gonna make it"](https://www.youtube.com/watch?v=yp0diaVLPrQ)
 https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doomsday-bunker-blast-resistant-door
 
 > "Think of it: zillions and zillions of organisms running around, each under the hypnotic spell of a single truth, all these truths identical, and all logically incompatible with one another: 'My hereditary material is the most important material on earth; its survival justifies your frustration, pain, even death'. And you are one of those organisms, living your life in the thrall of a logical absurdity." - [Robert Wright](https://www.azquotes.com/quote/577877)

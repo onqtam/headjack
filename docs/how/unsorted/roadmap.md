@@ -47,6 +47,9 @@ We can export stackexchange karma through some onboarding strategy
 
 
 
+The MVP Is Collective Capital Formation
+
+
 “Talk to an AI about this book or about different chapters/sections of it”
 
 
@@ -93,7 +96,7 @@ after the right abstractions are picked, new use cases will be rapidly tested by
 This is the next logical step for apple - to adopt the ultimate identity network of the world for AppleID
 The ultimate appleId that spans even across every aspect of the global brain
 what should these orgs do:
-- facebook
+- facebook - the reason that facebook will not exist if it doesn't change is because it's not serving people and eventually something better will come along and consume it. In this case it's an ideology and an open ecosystem of protocols and incentives - join or perish
 - instagram
 - Apple
 - Epic Games, Valve, Discord
