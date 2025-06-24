@@ -749,6 +749,9 @@ iraquai lakota 7th generation thinking
 
 
 
+> "What I do think is that our future development involves not losing our love for our children, but our expansion of that love for others. I don’t believe it’s a zero sum game and I don’t believe that loving others will devalue our love for our own kids; sure, our cognitive apparatus is limited, but I think the future involves expanding it so that we can love more others. I think a mature species has a wider cone of compassion that over-rides in-group/out-group dynamics of evolution and allows us to love each other more. Do you really think that would be bad? Let’s start small. Suppose we found that some neurodivergent people loved their kids as much as you and I do, but turns out they also love their nieces and nephews the same. Is that a problem? I don’t see it as a problem. In a future world where we hopefully won’t always have to solve trolley problems like “do I let my kids, or someone else’s kids survive?”, why is it bad to expand the ability to love others who are not genetically related? We already know how to do this – with spouses and adoptees. I agree with you that if we were to do this at the *expense* of loving our kids as we do now, that’s a no-go. We can’t substitute that for some sort of washed out lip service where “everyone is great” but we don’t really care about anyone including our kids. I am conjecturing that this is not the only way forward for us; I believe (but of course cannot prove) that if we make it to maturity as a civilization, we will not have a zero sum game for love and we will not decrease our love for our kids, we will not dilute it. I’m not proposing redistributing it, I think we will grow the pot – prosperity of spiritual and emotional space, not just of the material world. I don’t think you can characterize this as a non-human argument – religious figures have made this argument for thousands of years. I honestly don’t think I’m saying anything new here at all, except the bit about genetics and the idea that we will (I hope) stretch our cone of compassion beyond the borders that even great figures of the past meant when they said love thy neighbor. That neighbor is going to be pretty weird, and I think that’s great." - [Michael Levin](https://thoughtforms.life/qa-from-the-internet-and-recent-presentations/)
+
+
 What is the Self?
 The neuroscience of ego death | Dr. James Cooke
 https://www.youtube.com/watch?v=W0Gor8BYY00
@@ -1943,7 +1946,7 @@ https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Vfin-16864190
 
 > "Supposing we have a collective purpose, what does collective action towards that purpose look like? This is why the process of building a network state includes a network union. From the very outset it organizes people to work together for the benefit of their chosen community through the familiar interface of their screens. This, again, is quite different from current “social” networks like Twitter, which give individual scores for likes and followers but no team dashboard, no way of setting and achieving tangible goals as a group." - [The Network State, by Balaji Srinivasan](https://thenetworkstate.com/on-network-states#:~:text=supposing%20we%20have,as%20a%20group.)
 
-> "You have been down there Neo, you know that road, you know exactly where it ends. And I know that's not where you want to be." - [Trinity, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324286&ref_=ext_shr_lnk)
+> "You have been down there Neo, you know that road, you know exactly where it ends. And I know that's not where you want to be." - [Trinity, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324286)
 
 next steps for readers: sign up for updates, contribute, etc.
 

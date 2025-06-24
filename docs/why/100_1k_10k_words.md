@@ -105,6 +105,8 @@ This book will change you more than any other
 proper attuning to god
 The Markov Carpet
     Markov Blanket Maxing - what's bigger than a blanket?
+    When a blanket is not enough - the most intentional, competent and selective social membrane in existence
+Flattening The (Right) Curve (personal consumption)
 Humanity's [last] business plan
 WeWork
 Minimum Viable Infinity
@@ -130,7 +132,9 @@ Rejecting Mediocrity
     Common knowledge for self-organizing collectives
     maybe put this in the section there?
 System Architecture
-The Most Demanding Book - it demands action
+The Most Demanding Book - it demands action - the most serious and important book you'll ever read
+The Most Significant Event In Your Life
+    finishing this book
 The Symbolic World
 Public Goods Funding
 Applied Relevance Realization at Scale
@@ -210,8 +214,6 @@ Resistance is Futile
 Fixing Status
 The Unified Balance Sheet
 The Top Memetic Predator
-The Most Significant Event In Your Life
-    finishing this book
 Silicon Valley's Destiny
 The Comparison Operator - democratic
 WikiRedditOverflow

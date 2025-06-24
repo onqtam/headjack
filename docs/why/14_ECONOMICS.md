@@ -924,6 +924,7 @@ Excessive/conspicuous consumption is immoral
 
 > "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
 
+> "Long-term, the surplus of the Industrial Revolution was sunk partially into indulgence and partially into fake work. It was not invested into further, real work, as it should have been, like any good investment. Humanity had its post-scarcity moment already, and it was squandered. Our material technology jumped ahead into the 22nd century, while our politics and culture remained stuck in the 18th and the 19th centuries. Continued attempts to drive forward industrial and technological progress are, for their own sake, a good thing. But they are not the best thing, and will not solve the broken political economy of our civilization, nor can they substitute—like technological “accelerationists” hope—for a real, humane answer to the fundamental question of how to deploy material surplus at a civilizational scale, and why." - [The Megaproject Economy, Palladium Magazine](https://www.palladiummag.com/2025/06/01/the-megaproject-economy/)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The best that money can't buy

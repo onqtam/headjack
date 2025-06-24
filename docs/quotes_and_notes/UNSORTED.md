@@ -2611,6 +2611,7 @@ we'll be able to send links to queries - not just the URI of a node but also wha
 
 solving the entire category of multipolar traps
 
+debate moderators
 
 
 > "Whosoever desires constant success must change his conduct with the times." - [Niccolo Machiavelli](https://www.goodreads.com/quotes/48194-whosoever-desires-constant-success-must-change-his-conduct-with-the)
