@@ -1,5 +1,9 @@
 
-If we're going to be programming status in society, first we need to understand it.
+If we're going to be programming society through status, first we need to understand it.
+
+
+Required watching: chimp empire
+
 
 # What is Status
 

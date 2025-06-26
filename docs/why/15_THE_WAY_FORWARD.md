@@ -1319,54 +1319,6 @@ TODO: fix the exact time for the above link
 > "Could we perhaps redefine progress, create a new definition that includes social and ecological sustainability and gives the inner dimensions of life a more central role? …Could we see human civilization as a continuation of an evolutionary process deeply and intimately connected to that of nature?" - [The World We Create: From God to Market, by Tomas Björkman](https://www.goodreads.com/book/show/52773080-the-world-we-create)
 -->
 
-██████████████████████████████████████████████████████████████████
-# SECTION: As a Service
-██████████████████████████████████████████████████████████████████
-
-Right side of the history as a service
-
-
-Subreddits without feds and bots as a service
-
-Valence as a service - what’s good and what’s bad - what to do - morals
-Religion as a service
-Religio as a Service
-Meaning as a service
-Moral highground as a service
-God as a service
-palantir as a service
-HR/marketing/sales as a service
-Community as a service
-Bible as a service
-Mozarts/Einsteins as a service
-Binding - skin in the game - as a service
-Matrix as a service
-Judgement as a service
-Justification as a service
-Reason as a service
-Coherence as a service
-Trust as a service
-Shared memory as a service
-Shared identity as a service
-Wikimeaning as a service
-Disney as a service - participating in the programming of the culture for the next generation
-Revelation as a Service
-Comparison as a service
-
-IRS as a Service
-Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity
-Purity is giving the most while taking the least while actively promoting the same ideology. Purity is living for others.
-
-Submission to the rules of your choice - choose your own bondage - bondage/constraints as a service
-
-Telos as a service - but a service on your part where you pay with (the time of) your life - you get a chance to serve something greater than yourself - you get to serve the expansion of the self which is the final major evolutionary metasystem transition - you get to manifest God - the Ultimate.
-
-“Find the others” as a Service
-FaaS
-FtoaaS
-This as the section for matchmaking and with the leary quote
-
-
 
 
 ██████████████████████████████████████████████████████████████████

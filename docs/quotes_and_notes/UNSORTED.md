@@ -2613,6 +2613,12 @@ solving the entire category of multipolar traps
 
 debate moderators
 
+We need to normalise, shape, direct & incentivise defection towards error correction
+
+
+From arbitrary to quantitative labels - instead of simply being called something by someone biased and with an agenda it can be objectively quantified how much that label applies to you
+“Far right” (or left) wouldn’t stick that easily where inappropriate
+
 
 > "Whosoever desires constant success must change his conduct with the times." - [Niccolo Machiavelli](https://www.goodreads.com/quotes/48194-whosoever-desires-constant-success-must-change-his-conduct-with-the)
 

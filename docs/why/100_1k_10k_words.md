@@ -118,7 +118,7 @@ The Paradigm Shift
     Incentives, Information Processing & Social Organization (What up Kuhn)
 The Big Sell
     selling an ideology
-The Melting Pot
+The Melting Pot - or Assimilation
     Taking diversity and producing coherence and cooperation around what matters most (and what's true)
 (perpetually) Evolving Towards Nash Equilibrium in societal organization
 The Protocols of the Elders of Earth
@@ -248,6 +248,9 @@ Media Theory for the 21st Century
 Required Reading
 
 
+
+
+
 BUT WAIT - THERE'S MORE!
 
 
@@ -282,6 +285,22 @@ Greater Than 1
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
 "The Book"
 
+Program AND be Programmed
+    Program or be Programmed: Ten Commands for a Digital Age | Interactive 2010 | SXSW
+    https://www.youtube.com/watch?v=imV3pPIUy1k
+Making ideas have sex
+    When ideas have sex | Matt Ridley
+    https://www.youtube.com/watch?v=OLHh9E5ilZ4
+the sweet spot between Kolmogorov complexity reduction and consciousness expansion
+    reducing the colomogorov complexity of the description & definition of our system
+two birds with one stone
+    explaining what we are as individuals (collectives of cells) and what we are as society (collective of people) with the same isomorphic theories
+    Isomorphism
+    individualism & society are 2 sides of the same coin - you don't have one without the other - Yin and Yang
+The Operating System
+The Ultimate Product
+Eternity
+    How to live forever
 Modernity’s produce
 The Third Story - as conceived by Francis & others here: https://www.humanenergy.io/glossary
 
@@ -292,6 +311,54 @@ Bridge Between Worlds
 Buy all of the domains for all the titles and let people browse it through their preferred domain - the one that resonates the most
 
 Let people vote/choose which should be the official name - based on what resonates the most and letting them participate in the naming of the next overarching paradigm for humanity - the first act of participatory/collective RR
+
+
+## Beyond SaaS
+a message to silicon valley: enough with the SaaS already!
+Here are all of the new `"as a service"` you can climb onto:
+
+Right side of the history as a service
+
+
+Subreddits without feds and bots as a service
+
+Valence as a service - what’s good and what’s bad - what to do - morals
+Religion as a service
+Religio as a Service
+Meaning as a service
+Moral highground as a service
+God as a service
+palantir as a service
+HR/marketing/sales as a service
+Community as a service
+Bible as a service
+Mozarts/Einsteins as a service
+Binding - skin in the game - as a service
+Matrix as a service
+Judgement as a service
+Justification as a service
+Reason as a service
+Coherence as a service
+Trust as a service
+Shared memory as a service
+Shared identity as a service
+Wikimeaning as a service
+Disney as a service - participating in the programming of the culture for the next generation
+Revelation as a Service
+Comparison as a service
+
+IRS as a Service
+Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity
+Purity is giving the most while taking the least while actively promoting the same ideology. Purity is living for others.
+
+Submission to the rules of your choice - choose your own bondage - bondage/constraints as a service
+
+Telos as a service - but a service on your part where you pay with (the time of) your life - you get a chance to serve something greater than yourself - you get to serve the expansion of the self which is the final major evolutionary metasystem transition - you get to manifest God - the Ultimate.
+
+“Find the others” as a Service
+FaaS
+FtoaaS
+This as the section for matchmaking and with the leary quote
 
 # The Global Brain in 100, 1k & 10k words
 
