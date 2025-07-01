@@ -1992,6 +1992,13 @@ Problems are bad. How do we have less problems? How do we identify and solve the
 imagine a concept map/graph where you can track your progress with comprehending it - there could be competing videos/texts that explain different parts of it and to different degrees, and depending on how much of the videos you've watched your progress of concept comprehension could be updated automatically. You could get notified when new nodes in the graph emerged or if there were other changes, or if new explanatory content was made available.
 
 
+We need to make whatever is most necessary to be as optimal as possible and as widely available as possible and as affordable as possible.
+
+The smartest ape that can theorize on the essence of quasars can’t figure out basic shit in governance like how not to have the incentive to lie and degrade the social fabric
+
+The biggest game is what we put in the heads of people
+
+
 
 The larger the trust network - the smaller per capita necessary for defence - trending towards 0
 
@@ -5479,6 +5486,11 @@ We should teach and direct people to gamble in the economy instead of in pointle
 
 The great feminization is allowing women to define the end goal of our competition and system. Women can direct the cooperative incentive. Women can shift us from destructive competition towards cooperation by redefining status. Women can define humanity’s direction and reduce war. The ones who give birth biologically shall determine how they give birth ideologically
 
+We need to feminize our incentives but in the proper way - we can empower women to paint wisdom into our civilisational incentives. Women give birth and create life and women should define how to reign in on our own destructive tendencies of unnecessary 
+
+Feminism’s greatest strength is the potential to share the next generation the most
+How do we make smarter mothers?
+
 
 
 Not knowing your neighbours is whack
@@ -5668,8 +5680,6 @@ You are an expression of creativity by the universe - the more you express yours
 Little pockets of curiosity, self-organising towards the expansion of consciousness over greater scales of space, time and abstraction
 
 Religion is about reducing friction - it is about integration
-
-We need to feminize our incentives but in the proper way - we can empower women to paint wisdom into our civilisational incentives. Women give birth and create life and women should define how to reign in on our own destructive tendencies of unnecessary 
 
 We paint history with the children we create
 

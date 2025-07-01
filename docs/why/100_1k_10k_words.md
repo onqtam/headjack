@@ -96,6 +96,8 @@ The Eye of Sauron
 Painting with Life
 Of the Cells, by the Cells, for the Cells
     https://en.wikipedia.org/wiki/Gettysburg_Address#%22Government_of_the_people,_by_the_people,_for_the_people%22
+    but the people are retarded - Osho
+        https://www.youtube.com/watch?v=QFgcqB8-AxE
 TIAA - There Is An Alternative
     https://en.wikipedia.org/wiki/There_is_no_alternative
 Social Eventual Consistency
