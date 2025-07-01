@@ -49,6 +49,8 @@ We can export stackexchange karma through some onboarding strategy
 
 The MVP Is Collective Capital Formation
 
+Feed the entire book in an AI and make that easily accessible for people to prompt and ask interactively
+
 
 “Talk to an AI about this book or about different chapters/sections of it”
 
@@ -195,6 +197,8 @@ auction the first 10k indexes in different tiers and raise funds
 > "A war of ideas can no more be won without books than a naval war can be won without ships. Books, like ships, have the toughest armor, the longest cruising range, and mount the most powerful guns." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/37756-a-war-of-ideas-can-no-more-be-won-without)
 
 Make it so that people can publicly signal that they are currently reading it
+also when they're finished reading it - to signal how much they liked it, etc.
+also signal: yes i have a local copy of the book and am ready to share
 
 https://www.privy.io/
 

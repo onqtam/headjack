@@ -5852,6 +5852,11 @@ The hottest new programming paradigm is society's incentives.
 > "Who brainwashes the brainwashers?" - [Joscha Bach](https://x.com/Plinz/status/1895686775210983444)
 
 
+https://x.com/tunguz/status/1939683440351461536
+“Mom, how did we get so rich?”
+“This is simply the standard of living that humanity vowed to make accessible to all because it recognized that conspicuous consumption is unnecessary and immoral and because it realized that if others do well then that would translate to everyone doing well”
+
+
 
 > "Communism forgets that life is individual. Capitalism forgets that life is social, and the Kingdom of Brotherhood is found neither in the thesis of Communism nor the antithesis of Capitalism but in a higher synthesis. It is found in a higher synthesis that combines the truths of both." - [Martin Luther King, Jr.](https://en.wikipedia.org/wiki/Economic_democracy#:~:text=Dr.%20Martin%20Luther,truths%20of%20both%22.)
 

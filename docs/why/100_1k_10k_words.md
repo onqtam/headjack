@@ -24,6 +24,9 @@ TODO INTERNET picture "Mom, bathroom!"
 also link to short clip from YT
 You'll voluntarily put the spectacles from A Clockwork Orange on your eyes while reading it
 
+What ull experience during reading this book
+The six stages of comprehension
+
 # about the quote-heavy style of the book
 
 Could a lot of the quotes have been paraphrased and made shorter and clearer? Yes. But this is a philosophical statement: we must reuse and interlink and credit the work of others as much as possible.
@@ -90,6 +93,13 @@ The Stoned Ape Hypothesis/Theory
 The problem solver
 What is a thing?
 The Eye of Sauron
+Painting with Life
+Of the Cells, by the Cells, for the Cells
+    https://en.wikipedia.org/wiki/Gettysburg_Address#%22Government_of_the_people,_by_the_people,_for_the_people%22
+TIAA - There Is An Alternative
+    https://en.wikipedia.org/wiki/There_is_no_alternative
+Social Eventual Consistency
+    https://en.wikipedia.org/wiki/Eventual_consistency
 H index 2.0
     rebuilding authority
 The Post-Liberal Synthesis
@@ -204,7 +214,6 @@ System 10b
     from gameA to gameB - jango unchained meme - "the b is binary" from "the ... is silent"
 Culturio - like Factorio
 Agentic Abstraction
-The Biggest Truth
 The Sound of Inevitability
 Universal Basic Recognition - UBR
 Cultural Infrastructure
@@ -284,21 +293,40 @@ Greater Than 1
 
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
 "The Book"
-
+Driving sociopathy at scale to extinction
+Closing the sociopathic niche
+Real progressivism/progress
+Collectives from first principles
+Higher Power
+Passing The Great Filter
+    https://en.wikipedia.org/wiki/Great_Filter
+Harnessing Élan Vital
+    Élan vital was translated in the English edition as "vital impetus", but is usually translated by his detractors as "vital force".
+    https://en.wikipedia.org/wiki/%C3%89lan_vital
+Implementing Stakeholder Capitalism
 Program AND be Programmed
     Program or be Programmed: Ten Commands for a Digital Age | Interactive 2010 | SXSW
     https://www.youtube.com/watch?v=imV3pPIUy1k
 Making ideas have sex
     When ideas have sex | Matt Ridley
     https://www.youtube.com/watch?v=OLHh9E5ilZ4
+Comprehending Incomprehensibility
+    Our current system is incomprehensible but we can shape it and comprehend it
+    We simply wanted to use this quote somewhere but it didnt fit anywhere else    
+    > "The most incomprehensible thing about the universe is that it is comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it)
 the sweet spot between Kolmogorov complexity reduction and consciousness expansion
-    reducing the colomogorov complexity of the description & definition of our system
+    reducing the [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) of the description & definition of our system
 two birds with one stone
     explaining what we are as individuals (collectives of cells) and what we are as society (collective of people) with the same isomorphic theories
     Isomorphism
     individualism & society are 2 sides of the same coin - you don't have one without the other - Yin and Yang
 The Operating System
 The Ultimate Product
+Pravda Bomba
+    The Biggest Truth
+    https://en.wikipedia.org/wiki/Tsar_Bomba
+    https://en.wikipedia.org/wiki/Pravda
+Unhinged
 Eternity
     How to live forever
 Modernity’s produce

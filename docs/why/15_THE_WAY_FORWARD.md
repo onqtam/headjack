@@ -51,8 +51,6 @@
 
 > "If we have never been amazed by the very fact that we exist, we are squandering the greatest fact of all." - [Will Durant](https://www.azquotes.com/quote/824182)
 
-> "The most incomprehensible thing about the universe is that it is comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it)
-
 How do we most optimally crowdsource the best possible worldview?
 
 
