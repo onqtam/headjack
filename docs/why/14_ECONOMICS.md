@@ -2,6 +2,8 @@
 https://www.google.com/search?q=keiretsu
 
 
+> "The economy is (tacit) knowledge & knowhow in the brains of people about how to do things in the real world." - Ricardo Hausmann
+
 
 As John Maynard Keynes wrote in the conclusion of his General Theory of Employment, Interest and Money, “The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed, the world is ruled by little else.”
 From John Maynard Keynes’s 1936 The General Theory of Employment, Interest and Money, ch 24, part V.
@@ -15,6 +17,7 @@ https://www.youtube.com/watch?v=xMNil06mODE
 
 
 > "My reason for writing it was the conviction that the economy is too important to leave to the economists." - [Yanis Varoufakis](https://www.goodreads.com/quotes/9743802-my-reason-for-writing-it-was-the-conviction-that-the)
+
 
 
 
@@ -205,8 +208,14 @@ complexity_econ_12.png
 How Complexity Economics Can Save the World
 https://www.youtube.com/watch?v=Kis6vZlGqHQ
 
-Knowledge, Prosperity and Economic Complexity: How are They Connected
+Knowledge, Prosperity and Economic Complexity: How are They Connected - Ricardo Hausmann
 https://www.youtube.com/watch?v=ZHpg-CriIyk
+
+shorter versions by Ricardo Hausmann:
+    Secrets of Economic Growth - Ricardo Hausmann
+    https://www.youtube.com/watch?v=2FeugaLv5Bo
+    Ricardo Hausmann on Economic Complexity and Productive Knowledge
+    https://www.youtube.com/watch?v=0JC24CBVsdo
 
 The Big Myth: How American Business Taught Us to Loathe Government and Love the Free Market
 https://www.youtube.com/watch?v=_V_AZRZfu9I
@@ -925,6 +934,14 @@ Excessive/conspicuous consumption is immoral
 > "Functional societies need algorithms which reward us for being of service to those who need it most. Instead we have algorithms which reward us for being of service to those who need it least." - [Heather Marsh](https://www.goodreads.com/quotes/7852046-functional-societies-need-algorithms-which-reward-us-for-being-of)
 
 > "Long-term, the surplus of the Industrial Revolution was sunk partially into indulgence and partially into fake work. It was not invested into further, real work, as it should have been, like any good investment. Humanity had its post-scarcity moment already, and it was squandered. Our material technology jumped ahead into the 22nd century, while our politics and culture remained stuck in the 18th and the 19th centuries. Continued attempts to drive forward industrial and technological progress are, for their own sake, a good thing. But they are not the best thing, and will not solve the broken political economy of our civilization, nor can they substitute—like technological “accelerationists” hope—for a real, humane answer to the fundamental question of how to deploy material surplus at a civilizational scale, and why." - [The Megaproject Economy, Palladium Magazine](https://www.palladiummag.com/2025/06/01/the-megaproject-economy/)
+
+> "This, then, is the first-order approximation of the moral impact of economic activity: *Earning money (via production) is good for others. Spending it (via consumption) is bad.* Don't get me wrong — this is far from the full picture. There are a ton of second-order corrections we need to make. We'd want to inquire how the money was earned, for example. If it's earned in free, honest, competitive transactions, it's going to be a better measure of value-added than if it's earned coercively, dishonestly, or in stifled markets. If it's earned in positive-sum games (like farming), it's going to be a better measure of value than if it's earned in zero- or negative-sum games (like spamming).
+>
+> On the spending side, we need to account for whether the goods we're consuming are rivalrous or non-rivalrous, as well as all the externalities from consumption, both positive and negative. If no one consumed anything above basic subsistence, we'd have a lot less economic growth, fewer innovations, and inferior technology (including medical technology).
+>
+> The point isn't to use the size of one's bank account as a measure of moral worth. Such a measure breaks down in a ton of ways. It ignores all the good things people do that aren't rewarded with money. It ignores the huge element of luck. It ignores people's intentions, if those matter to you — Scrooge wasn't trying to be pro-social in accumulating his fortune. Instead, the point is that earning money is, in general, something to celebrate, not feel guilty about.
+>
+> ... But as long as we're soul-searching, let's not forget to examine our spending habits as well." - [Wealth: The Toxic Byproduct, by Kevin Simler](https://meltingasphalt.com/wealth-the-toxic-byproduct/)
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: The best that money can't buy

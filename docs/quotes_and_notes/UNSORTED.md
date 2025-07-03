@@ -1,6 +1,43 @@
 
 
 
+## Multiscale Competency Architecture
+
+> "Biology is organized as multiscale competency architecture with interactive agents navigating their respective problem spaces across scales. Lower level components implement the physical substrate for higher levels of emergent abstraction, spanning molecular, cellular, tissue, organ, to organismal and group scales. In turn, higher levels deform the free energy landscape of possible microlevel conformations through top-down behavioral shaping and signaling... Components at every level of organization perform “local” homeostatic control loops capable of handling novel stressors on the fly, yet are susceptible to hierarchical - system-level or environmental - feedback...
+>
+> Neural Cellular Automata (NCA) cover the essence of our current understanding of biology’s multiscale competency architecture by modeling morphogenesis through an explicitly distributed multi-agential architecture. Each cell maintains and regulates its physiological state within a local microscopic environment via successive intercellular communication and intracellular decision-making. In that way, a single cell on an NCA’s grid can initiate mophogenesis of a system level target tissue fully based on decentralized agential control-loops." - [What does evolution make? Learning in living lineages and machines, by Benedikt Hartl & and Michael Levin](https://osf.io/preprints/osf/r8z7c_v1)
+
+> "... each individual within an MCA is an autonomous agent, actively navigating their respective environments and problem spaces. In turn, a unified approach to understanding biological self-organization is arguably rooted in localized homeostatic agents following cooperatively coordinated error correction principles.
+>
+> Thus, a critical missing piece in our understanding of development and evolution is the fact that cells are problem-solving agents themselves, with agendas of their own. The various competencies of cells and subcellular components, in terms of problem-solving, memory, and flexible, context-sensitive navigation of physiological and anatomical landscapes have been reviewed elsewhere. We argue that an organism’s genotype and phenotype are connected by an agential layer of irreducible physiological computation, fundamentally implemented by selforchestrated biological agents that are - at all scales - capable of dealing with novel situations on the fly. Moreover, such an MCA demonstratively impacts the process of an underlying evolutionary process operating on the structural and functional plasticity of an agential substrate, leading to more efficient and robust evolutionary and developmental search dynamics, adaptability, transferability, and evolvability.
+>
+> ... We propose that what evolution builds are not fixed solutions to fixed environments, but problem-solving agents, exerting well-demonstrated competencies to use genetically-provided affordances in new ways as needed. We have proposed that biology strongly leans in to the fact that it is operating on an unreliable substrate (guaranteed to change due to mutation over long timescales, and noise on short timescales), and favors architectures that take the lessons of the past seriously but not literally, and exhibit considerable regulative and creative ways to navigate their problem spaces.
+>
+> ... It is essential to develop a rigorous understanding of the substrate- and scale-invariant learning and creative problem-solving dynamics that tie together morphogenesis, evolution, and learning.
+>
+> ... The concept of an MCA is applicable across biological systems, including development, evolution, and cognitive processes: it’s agents all the way up and down, turtles both ways. In turn, this suggests a unified approach to understanding biological organization - from cells to mind - can not be explained via complexity and (nested) indirect encodings alone, but rather fundamentally rooted in collective intelligence." - [What does evolution make? Learning in living lineages and machines, by Benedikt Hartl & and Michael Levin](https://osf.io/preprints/osf/r8z7c_v1)
+
+
+
+
+> "" - [Darwin’s agential materials: evolutionary implications of multiscale competency in developmental biology](https://link.springer.com/article/10.1007/s00018-023-04790-z)
+
+> "" - [Darwin’s agential materials: evolutionary implications of multiscale competency in developmental biology](https://link.springer.com/article/10.1007/s00018-023-04790-z)
+
+> "" - [Darwin’s agential materials: evolutionary implications of multiscale competency in developmental biology](https://link.springer.com/article/10.1007/s00018-023-04790-z)
+
+
+
+
+> "" - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
+
+> "" - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
+
+> "" - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
+
+
+
+
 
 > "Intelligence is the ability to reach the same goal by different means." - [William James](https://www.templeton.org/news/intelligence-without-a-brain)
 
@@ -183,9 +220,18 @@ Forgiveness as part of the optimal game-theoretic strategy
 
 > "" - [, by Gregg Henriques]()
 
-> "" - [, by Gregg Henriques]()
+
+
+> "" - [Relevance, Meaning and the Cognitive Science of Wisdom, by John Vervaeke & Leonardo Ferraro](https://www.researchgate.net/publication/286508333_Relevance_Meaning_and_the_Cognitive_Science_of_Wisdom)
 
 > "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
 
 
 preserving health, increasing integration & freedom
@@ -781,7 +827,8 @@ We would effectively be training an AI how to label things in any vertical - and
 What if this was the data engine for the global brain - a single unified neural network that makes predictions and prescriptions when prodded about the future? With a full trace of thought.
 
 
-
+> "Any company where the world would be better if it didn't exist - we should figure out how to have it not exist." - [Daniel Schmachtenberger](https://youtu.be/JTz4Mncy1u0?t=4245)
+If we dissolve the boundries between companies and merge them into an integrated system with coherent and aligned incentives then there wouldn't be aberrations like trying to induce more demand for (junk) food (that would lead to sickness) than what comes naturally.
 
 A node-based mode composer - architecting signal computation
 A single query vs a streaming solution with window functions and whatnot

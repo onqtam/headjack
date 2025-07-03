@@ -12,6 +12,19 @@ https://www.societylibrary.org/ai-debate-blog/2024/5/14/a-debate-map-about-opena
 
 https://societylibrary.medium.com/making-decisions-about-ai-or-anything-adfc88e8ea8b
 
+https://x.com/SocietyLibrary/status/1932869541325152529
+    We’ve Just Made Our Maps Smarter, Deeper, and Stronger w/ AI Agents
+
+    automating the creation and refinement and expansion of debate maps and all linked claims & sources and assertions and arguments
+
+    Each example teaches the model how to extend a line of reasoning and how to locate, extract, and integrate evidence from complex sources such as legal documents, scientific reports, policy filings, and long-form interviews.
+
+    The result is a system that does more than generate plausible answers. It builds arguments that are both logically coherent and evidence-aware, trained not just to reason but to understand where that reasoning must be anchored.
+
+    We are not trying to automate judgment. We are trying to model how it works, across documents, across platforms, across worldviews.
+    This system gives institutions, journalists, policy researchers, and the public a new kind of tool. Not to summarize a debate, but to see it. Not to resolve disagreement, but to map it. Not to replace deliberation, but to make it scale.
+    We are building the infrastructure for collective understanding. We are building out a new type of intelligence capability.
+
 
 People can express their views and also their reasoning/reasons - we might only count votes that have also given a reason and we might even require that people acknowledge that they've seen the reasoning proposed by others and also give those reasons a weight relative to their own reasons
 
@@ -437,6 +450,9 @@ top10 most important psychologists alive today:
 - Gregg Henriques - Absolute TOP G !!! ontology matters. worldviews matter. theories matter. perspective matters. perspective is 
 top X most important psychologists ever (in no particular order)
 - freud, yung, skinner, whoever else was important, gregg
+
+top10 most important biologists alive today:
+- Michael Levin
 
 top10 most important podcasts in terms of helping you understand the world in the broadest possible sense based on his guests
 - jim rutt

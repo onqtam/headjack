@@ -76,6 +76,7 @@ Collective Intelligence: a Primer / for Dummies
 Reputation/Identity in the 21st century / 3rd millenium - like the book about capital
 The Mind/Psychology of God
 Alignment is All You Need
+    Consequence Capture is All You Need
 Emergent World Order
 The Real/Practical Matter With Things
     This book is literally an infinitely higher bang for your buck, not only because it's more practical/consequential (than left/right thinking), but because it's also free and accessible to all
@@ -92,6 +93,9 @@ The Stoned Ape Hypothesis/Theory
     what a single stoned ape can come up with
 The problem solver
 What is a thing?
+The Gateway Insight
+    > "None of our current socio-politico-economic operating system was brought down from Mt Sinai by Moses. We built it, we can change it. We own the moral responsibility for the nature of our society." - [Jim Rutt](https://x.com/jim_rutt/status/1783469872569082063)
+    > "The thing I would say is, when you grow up, you tend to get told that the world is the way it is, and your life is just to live your life inside the world. Try not to bash into the walls too much. Try to have a nice family life, have fun, save a little money. But life, that's a very limited life. Life can be much broader once you discover one simple fact, and that is: Everything around you that you call life was made up by people that were no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. And the minute that you understand that you can poke life, and actually something will, you know, if you push in, something will pop out the other side, that you can change it. You can mold it. That's maybe the most important thing is to shake off this erroneous notion that life is there and you're just going to live in it, versus embrace it. Change it. Improve it. Make your mark upon it. I think that's very important. And however you learn that, once you learn it, you'll want to change life and make it better. Because it's kind of messed up in a lot of ways. Once you learn that, you'll never be the same again." - [Steve Jobs: Secrets of Life](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 The Eye of Sauron
 Painting with Life
 Of the Cells, by the Cells, for the Cells
@@ -182,6 +186,7 @@ Embracing Complexity
 Genesis / The seed
 Social engineering is already here - its just not evenly distributed
 Black mirror episode about social credit score
+    White Mirror
 The Caterpillar
     This book will dissolve/morph into the symbolic subtrate that it will give birth to.
 Solving the world's largest collective action problem
@@ -200,11 +205,26 @@ The TL;DR of 1000 books, papers, blogs, and talks
     synthesizing and integrating what's most important from them
 “Family”/“The family”
 The Universal Moral Compass
+Becoming Nature, Conscious Evolution
+    superseding? subsuming? taming?
+    intentional/purposeful/directed reign over evolution
 Incentives from first principles
 This Book Can be Read in 2-3 Weeks
     > "There are decades where nothing happens; and there are weeks where decades happen." - [Vladimir Lenin](https://www.goodreads.com/quotes/342783-there-are-decades-where-nothing-happens-and-there-are-weeks)
 In the depths of self-organization
 The Recognition Economy
+Society 2.0
+    1.0 was institutions and laws (the iron & invisible hands), 2.0 is weights - taken from Karpathy and his software 1.0 (code) & 2.0 (weights) - link to his medium post
+Value coding society
+    we prompt our values and the system spits out a society according to them - again taken from Karpathy and his vibe coding
+Inverting intelligence erosion for collectives
+Subjective/Democratic Objectivity
+two birds with one stone
+    explaining what we are as individuals (collectives of cells) and what we are as society (collective of people) with the same isomorphic theories
+    individualism & society are 2 sides of the same coin - you don't have one without the other - Yin and Yang
+Isomorphism in Metasystem Transitions & across the hierarchical levels of self-organization
+Substrate & Scale Invariance
+    in learning, problem solving and organization
 Collectivito, ergo sum, or [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy) - `"I am because we are"`
     > "Individualism is a formidable lie." - [Rene Girard](https://en.wikiquote.org/wiki/Ren%C3%A9_Girard#:~:text=Individualism%20is%20a%20formidable%20lie.)
     > "What You *~~Do~~* **Are** Is *~~Who You Are~~* **What We Are**." - [Ben Horowitz](https://www.goodreads.com/book/show/44063692-what-you-do-is-who-you-are), probably
@@ -300,6 +320,9 @@ Closing the sociopathic niche
 Real progressivism/progress
 Collectives from first principles
 Higher Power
+Agora
+    a central public space in ancient Greek city-states. The literal meaning of the word "agora" is "gathering place" or "assembly". The agora was the center of the athletic, artistic, business, social, spiritual, and political life in the city. The Ancient Agora of Athens is the best-known example.
+    https://en.wikipedia.org/wiki/Agora
 Passing The Great Filter
     https://en.wikipedia.org/wiki/Great_Filter
 Harnessing Élan Vital
@@ -312,16 +335,13 @@ Program AND be Programmed
 Making ideas have sex
     When ideas have sex | Matt Ridley
     https://www.youtube.com/watch?v=OLHh9E5ilZ4
-Comprehending Incomprehensibility
+Comprehending the Incomprehensible
+    > "The most incomprehensible thing about *~~the universe~~* **our current system** is that it *~~is~~* **can be remade to be** comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it), probably
     Our current system is incomprehensible but we can shape it and comprehend it
-    We simply wanted to use this quote somewhere but it didnt fit anywhere else    
+    We simply wanted to use this quote somewhere but it didnt fit anywhere else
     > "The most incomprehensible thing about the universe is that it is comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it)
 the sweet spot between Kolmogorov complexity reduction and consciousness expansion
-    reducing the [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) of the description & definition of our system
-two birds with one stone
-    explaining what we are as individuals (collectives of cells) and what we are as society (collective of people) with the same isomorphic theories
-    Isomorphism
-    individualism & society are 2 sides of the same coin - you don't have one without the other - Yin and Yang
+    reducing the [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) of the description & definition of our system    
 The Operating System
 The Ultimate Product
 Pravda Bomba
