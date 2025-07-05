@@ -212,6 +212,13 @@ Incentives from first principles
 This Book Can be Read in 2-3 Weeks
     > "There are decades where nothing happens; and there are weeks where decades happen." - [Vladimir Lenin](https://www.goodreads.com/quotes/342783-there-are-decades-where-nothing-happens-and-there-are-weeks)
 In the depths of self-organization
+Calculemus
+“Penetrating ze cabinets”
+    Ze great penetration
+    We got to penetrate the cabinets with young global leaders - picture of shwab
+The Allocator
+    Of prestige, recognition, resources, attention (which is a resource)
+    of behavioral investment
 The Recognition Economy
 Breaking [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
     reducing the number of nukes globally is a better measure than increasing GDP - this can't cease to be a good measure
@@ -219,6 +226,7 @@ Society 2.0
     1.0 was institutions and laws (the iron & invisible hands), 2.0 is weights - taken from Karpathy and his software 1.0 (code) & 2.0 (weights) - link to his medium post
 Value coding society
     we prompt our values and the system spits out a society according to them - again taken from Karpathy and his vibe coding
+    Permeating/penetrating the economy and governance with value
 Inverting intelligence erosion for collectives
 Subjective/Democratic Objectivity
 two birds with one stone

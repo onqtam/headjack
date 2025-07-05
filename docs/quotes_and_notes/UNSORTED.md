@@ -31,12 +31,15 @@
 
 
 
-> "" - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
+> "It seems crazy to think that an agent, even a minimal kind, can be just a metastable pattern in an excitable medium—a temporarily persistent pattern. But that is what we are too—temporarily persistent, autocatalytic, dissipative patterns that self-reify our boundaries from the outside world via active inference and interpreting our environment to tell coherent stories (models) that hold us together and make us more than the sum of our parts." - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
 
-> "" - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
+> "Could consciousness simply be what it feels like to be in charge of constant self-construction, driven to reinterpret all available data in the service of choosing what to do next? In this sense, cognition is essentially freedom from the past; cognitive Selves could be systems that are not committed to their own past and their own memories. Paradoxically, biological Selves do not take themselves too seriously in the sense that they are not committed to a fixed set of meanings established by their prior Selflets—their freedom consists not only in actions, but in forward-looking sense-making of their own mental content. Letting go of the past Self and living life forward is a commitment to making the best of internal, not only external, information. This is in broad agreement with Solms’s idea that consciousness is palpated uncertainty about the outside world; I propose to expand this idea, with the hypothesis that consciousness is palpated uncertainty about your own memories and internal states." - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
 
-> "" - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
+> "... life, at all scales, from the microscopic to the trans-personal, is all about repairing and defending the Self, because the Self is a construction, in the most powerful and useful sense—an adaptive, actionable, embodied story that holds components together and enables intelligent navigation of a problem space." - [Self-Improvising Memory: A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue, by Michael Levin](https://www.mdpi.com/1099-4300/26/6/481)
 
+
+> "a great story is organic—not a machine but a living body that develops" - [John Truby]()
+Truby, J. The Anatomy of Story: 22 Steps to Becoming a Master Storyteller, 1st ed.; Faber and Faber: New York, NY, USA, 2008; 445p.
 
 
 
