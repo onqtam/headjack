@@ -1035,7 +1035,7 @@ https://www.metaculus.com/help/faq/#metaculus-prediction
 
 https://www.metaculus.com/questions/?has_group=false&topic=top-50&order_by=-activity
 
-metaculus, polymarket, manifold
+metaculus, polymarket, manifold, kalshi
 
 https://x.com/MetaDAOProject
 
@@ -1043,6 +1043,18 @@ https://en.wikipedia.org/wiki/Prediction_market
 
 https://www.ft.com/content/9108f393-6a45-41a3-bd76-20581b19288e
 
+
+
+
+> "Rather than regulation, our explanation for the absence of widespread prediction markets is a straightforward demand-side story: there is little natural demand for prediction market contracts, as we observe in practice. We think that you can classify people who trade on markets into three groups, but each is largely uninterested in prediction markets.
+>
+> • Savers: who enter markets to build wealth. Prediction markets are not a natural savings device. They don’t attract money from pensions, 401(k)s, bank deposits, or brokerage accounts.
+>
+> • Gamblers: who enter markets for thrills. Prediction markets are not a natural gambling device, due to various factors including their long time horizons and often esoteric topics. They rarely attract sports bettors, day traders, or r/WallStreetBets users.
+>
+> • Sharps: who enter markets to profit from superior analysis. Without savers or gamblers, sharps who might enter the market to profit off superior analysis are not interested in participating. They also largely don’t need prediction markets to hedge their other positions.
+>
+> ... There is one important reason that prediction markets are not used by savers, and probably never will be. Prediction markets, unlike most asset markets, are zero-sum – in fact they are negative-sum, once you factor in platform fees. And if your money is in a prediction market, it can’t be invested in equities, or be earning interest in the bank, either. Every winner of a prediction market necessitates an equal and opposite loser. Securities investors with diversified portfolios can expect positive returns in the long term, because they are giving up their money for others to use to create output and wealth, in exchange for a share of what they create. That’s why responsible people have their pensions in stocks and bonds, rather than a diversified portfolio of sportsbooks. Positive-sum savings vehicles are far, far superior to zero-sum ones, for the simple reason that they will grow your savings in the long run." - [Why prediction markets aren’t popular, by Nick Whitaker & J. Zachary Mazlish](https://worksinprogress.co/issue/why-prediction-markets-arent-popular/)
 
 
 

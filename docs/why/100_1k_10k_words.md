@@ -127,6 +127,17 @@ Humanity's [last] business plan
 WeWork
 Minimum Viable Infinity
 The Next Game
+The Egregore
+The Implementation of Humane Technology - what up Tristan
+Required Reading
+We are a Strange Loop
+Connecting the world
+    without the addiction and extraction
+Regrowth - degrowing the old economy and growing a new one
+Breaking The Script
+    The Livest Player on the global stage
+Betting Against Elon
+    more specifically X
 Algorithms to Organize by
 Revolution Cookbook
 Integrated "Why"
@@ -213,6 +224,12 @@ This Book Can be Read in 2-3 Weeks
     > "There are decades where nothing happens; and there are weeks where decades happen." - [Vladimir Lenin](https://www.goodreads.com/quotes/342783-there-are-decades-where-nothing-happens-and-there-are-weeks)
 In the depths of self-organization
 Calculemus
+Syntropy
+    A tendency towards complexity, structure, order, organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy
+    often contrasted with the concept of entropy
+Slaying Wetiko/Moloch
+The Biggest Picture
+    It doesn't get any bigger than this
 “Penetrating ze cabinets”
     Ze great penetration
     We got to penetrate the cabinets with young global leaders - picture of shwab
@@ -345,6 +362,8 @@ Program AND be Programmed
 Making ideas have sex
     When ideas have sex | Matt Ridley
     https://www.youtube.com/watch?v=OLHh9E5ilZ4
+The Overview Effect - seeing the big picture
+Learning Hopefulness
 Comprehending the Incomprehensible
     > "The most incomprehensible thing about *~~the universe~~* **our current system** is that it *~~is~~* **can be remade to be** comprehensible." - [Albert Einstein](https://www.goodreads.com/quotes/9765974-the-most-incomprehensible-thing-about-the-universe-is-that-it), probably
     Our current system is incomprehensible but we can shape it and comprehend it

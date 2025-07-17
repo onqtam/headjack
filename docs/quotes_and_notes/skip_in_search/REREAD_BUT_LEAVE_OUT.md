@@ -160,4 +160,20 @@ maybe use this as an optional expandable section? or not...
 
 > "Modernism, so conceived, is a bankrupt paradigm. Yes, we can be nuanced, and should be, recognizing that it also brought with it many emancipations, cured many ills and diseases, added many comforts and luxuries, and generally allowed people the opportunity to explore self-actualization as they never could before. For these reasons, metamodernism embraces and takes up the genuine insights of modernism into its worldview. But it also takes up its postmodern critique, which is valid and urgently necessary. For, as we speak, the very suburban wastelands I’ve just described are still spreading, growing, “developing” across the globe. Indeed, is not the meta-crisis itself the cancer created by this modernist metastasis?" - [Brendan Graham Dempsey](https://www.brendangrahamdempsey.com/post/reflections-on-the-dawn-of-everything#:~:text=Modernism%2C%20so%20conceived,this%20modernist%20metastasis%3F)
 
+> "So, we have four major schools of normative ethics: rule-based ethics, contractualism, virtue-based ethics, and consequentialism. Each, I would claim, come with its own validity claim:
+>
+> • **The validity claim of rule-based ethics** is that an action has to be in accordance with universal principles that can be justied a priori and deduced from self-evident premises derived from the action itself in order to be considered ethically valid—ultimately regardless of context.
+>
+> • **Contractualism’s validity claim** is that the rules regulating our conduct have to be based on a priori principles that must be mutually agreed upon by reference to the relationship between actors in order to be considered ethically valid.
+>
+> • **The validity claim of virtue-based ethics** is that an action cannot merely be judged as good or bad in itself, but what matters is the moral character of the agent which can only be judged a posteriori, and then only by reference to a description of the action or property itself viewed through the lens of its particular social context.
+>
+> • **Consequentialism’s validity claim** is that actions can only be considered ethically valid if the outcome of these a posteriori happen to have preferable consequences overall, and then only by reference to some collective end based on the relationship between all actors.
+>
+> ... It should be obvious by now that “taking sides” regarding which school of ethics to follow is a foolish endeavor. The same can be said of any impulse to entirely discard one or more of the schools. Obviously, all four schools have important perspectives to offer. But the question still remains how exactly to use them and how to manage and reconcile their differences. Just knowing about the four schools and how they t into the fours quadrants does not in itself sufce to resolve ethical paradoxes. In the following I will attempt to show not just how the four schools complement each other, but also how they depend on each other and ultimately collapse into each other.
+>
+> ... The reason that we are still wrestling with the same ethical dilemmas century after century is that we have been accustomed to assuming that the world of ethics is at; that a linear logic permeates the world of normative ethics, so when you reach the end of a world corner (the place where you hit philosophical bedrock), you simply fall of the edge. But the world of ethics is not at. It is round, spherical. Or, rather, toroidal (donut-ical). The moment you hit the edge of one world corner, you end up at the beginning of another. We all need to stop being ethical atearthers. We must all become ethical donuts." - [A Four-Dimensional Fractal Approach to Ethics, by Hanzi Freinacht](https://metamoderna.org/a-four-dimensional-fractal-approach-to-ethics/)
+
+^^ reread this piece if/when you get serious about ethics in the future
+
 

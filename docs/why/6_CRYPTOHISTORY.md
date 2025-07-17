@@ -7,6 +7,9 @@
 GENESIS
 
 
+“That men do not learn very much from the lessons of history is the most important of all the lessons of history.” – Aldous Huxley
+^^ how do we make it so previously learned patterns don't need to be re-learned but can still be automatically applied?
+
 ██████████████████████████████████████████████████████████████████
 # cryptohistory
 ██████████████████████████████████████████████████████████████████

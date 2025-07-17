@@ -167,6 +167,9 @@ Tomas Pueyo shows how hopelessly broken debate is in his examination of "Will Ch
 > The future forms of integrated democracy—and indeed, the opinion-making economy as a whole—are the ones that can rst differentiate the different shards of conicting groups and interests, create a free and fair ght between these, and then channel the profound transformations inherent in these dialectical forces. The cuter forms of future democracy are, unsurprisingly, also connected to a more dramatic and tremendous sense of political action and engagement." - [Political Polarization Is Good?! by Hanzi Freinacht](https://metamoderna.org/political-polarization-is-good/)
 
 
+> "Online dialogue in conventional social media platforms is unstructured and data is not presented in a way that makes it easy for other people (or machines) to make sense of (or extract) the rich social and technical knowledge embedded in the dialogue. For instance, there is no way to assess the state of a debate: how protagonists are using a given source, who disagrees with whom, or why. Approaches to visualizing argumentation as semantic hypertext networks have been shown to augment sensemaking in diverse contexts where teams are tackling truly complex problems (e.g. participatory urban planning) or NASA lunar exploration. Explicit semantic networks provide a computational system with a more meaningful understanding of the relationships between ideas than natural language. Following the established methodological value of Concept Mapping, the mapping of issues, ideas and arguments extends this to make explicit the presence of more than one perspective and the lines of reasoning associated with each. More formal approaches, derived from the convergence of AI and argumentation theory, model argument structures in finer detail, thus enabling automated evaluation. An ongoing research challenge is to add such computational power without sacrificing usability for non-experts. A comprehensive review of computer-supported argumentation for learning concluded that studies have demonstrated that the use of argument mapping tools leads to: “more relevant claims and argumen... disagreeing and rebutting other positions more frequently... and engaging in argumentation of a higher formal quality.”... The... complexity can be managed through argument maps, using visualisation techniques to show clearly how one model might challenge an assumption behind one course of action, how another model predicts that a risk is in fact lower than common sense reasoning envisaged, or how a third model raises new questions, but suggests a course of action which combines two others already considered." - [Towards a global participatory platform: democratising open data, complexity science and collective intelligence](https://link.springer.com/content/pdf/10.1140/epjst/e2012-01690-3.pdf)
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: augmented reality
 ██████████████████████████████████████████████████████████████████
@@ -409,6 +412,9 @@ https://www.youtube.com/watch?v=tmusbHBKW84
 The Wide Boundary Impacts of AI with Daniel Schmachtenberger | TGS 132
 https://www.youtube.com/watch?v=1NFuddEAi5s
 simply everything by daniel in the TGS channel by Nate
+
+or from this playlist (Daniel Schmachtenberger videos)
+https://www.youtube.com/playlist?list=PLZbbT5o_s2xodc2JI3R6Y4a0P8FradYZW
 
 The InterBrain - How Collective DreamWeaving Can Heal the World
 https://www.youtube.com/watch?v=v5dBRmjF8mc

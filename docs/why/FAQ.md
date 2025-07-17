@@ -49,6 +49,10 @@ This is not meant for the average reader - few will be able to plow through it w
 
 Good! that means you're on board with the other 80-90% and we can focus on either fixing the other 10-20% or helping you fill the gaps to get you further.
 
+## Why a book? Why didn't you simply implement it?
+
+put the response to Joscha here
+
 ## Why is there so little aboit AI?
 
 Because there's nothing we could add to the discussion. We stay in our lane of competence. The most intelligent thing we can say is that anyone speaking with high confidence about what's going to happen with AI should not be taken too seriously.
