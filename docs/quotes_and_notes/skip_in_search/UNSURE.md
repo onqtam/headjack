@@ -338,3 +338,5 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "Society with its dependencies and relationships has been converted to a completely monetized system of dissociation. For the first time in human history, people have been effectively dissociated from each other and are living in a state of no society." - [Binding Chaos, by Heather Marsh](https://georgiebc.files.wordpress.com/2013/05/bindingchaos6x9.pdf)
 
+> "It is a principal aspect of the electric age that it establishes a global network that has much of the character of our central nervous system." - [McLuhan, 1964. Understanding Media](https://newsletter.squishy.computer/p/cities-are-routers-in-network-society)
+

@@ -333,7 +333,6 @@ how do we optimize our philosophy & ideology and get more people to understand o
 
 
 
-
 what if you actually improved something through acts of speculation - and not merely profiting? what if you were actually tuning the weights of society? the effect of investors over the allocation of resources is extremely primitive and crude - it got us to where we are, but it ain't getting us much further
 
 
@@ -382,17 +381,6 @@ what if you actually improved something through acts of speculation - and not me
 ^^ This is what not thinking systemically and ignoring what's been exported to other countries looks like. This is the equivalent of not being able to think about even the second order effects, mercy on us all for the third order and everything after it...
 
 
-
-
-
-
-
-
-
-
-
-
-> "Nations, religions, cults, gangs, subcultures, fraternal societies, internet communities, political parties, social movements – these are all really different, but they also have some deep similarities. They’re all groups of people. They all combine comradery within the group with a tendency to dislike other groups of the same type. They all tend to have a stated purpose, like electing a candidate or worshipping a deity, but also serve a very important role as impromptu social clubs whose members mostly interact with one another instead of outsiders. They all develop an internal culture such that members of the groups often like the same foods, wear the same clothing, play the same sports, and have the same philosophical beliefs as other members of the group – even when there are only tenuous links or no links at all to the stated purpose. They all tend to develop sort of legendary histories, where they celebrate and exaggerate the deeds of the groups’ founders and past champions. And they all tend to inspire something like patriotism, where people are proud of their group membership and express that pride through conspicuous use of group symbols, group songs, et cetera. For better or worse, the standard way to refer to this category of thing is “tribe”." - [The Ideology Is Not The Movement | Slate Star Codex](https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/)
 
 
 
@@ -4148,8 +4136,6 @@ A true rules-based order is more powerful than the blob of people that are leadi
 
 
 
-The System that can be specified is not the eternal System
-> "The Tao that can be told is not the eternal Tao." - [Lao Tzu](https://www.goodreads.com/quotes/230935-the-tao-that-can-be-told-is-not-the-eternal)
 
 We need to implement valence in our markets - we must regulate the way money and power work
 https://en.wikipedia.org/wiki/Valence_(psychology)

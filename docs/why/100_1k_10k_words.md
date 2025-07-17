@@ -19,10 +19,12 @@ This is a very dense book, but understanding it and the system it would produce 
 "After this," says Morpheus to Neo in The Matrix, "there is no turning back."
 You take the blue pill — the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill — you stay in Wonderland, and I show you how deep the rabbit hole goes.
 
+<!--
 You'll be so **enthralled** reading it on your computer that you'll call your mom to bring you a bucket when you need to go number 1 (or even number 2 - BIG IF TRUE!).
 TODO INTERNET picture "Mom, bathroom!"
 also link to short clip from YT
 You'll voluntarily put the spectacles from A Clockwork Orange on your eyes while reading it
+-->
 
 What ull experience during reading this book
 The six stages of comprehension
@@ -54,7 +56,7 @@ Also, every fact, opinion, argument & subargument, relation & expression that's 
 
 # The First Book With Multiple Titles
 
-the book that can be [singularly] named is not the eternal book
+> "The *~~Tao~~* **book** that can be *~~told~~* **named** is not the eternal *~~Tao~~* **book**." - [Lao Tzu](https://www.goodreads.com/quotes/230935-the-tao-that-can-be-told-is-not-the-eternal), probably
 
 The third attractor is the official name, but the most liked name by the authors is one of these 100
 

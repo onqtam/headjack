@@ -1054,6 +1054,12 @@ talks about the wisdom of crowds, weighted averaging & how to optimally give wei
 # SECTION: voting & liquid democracy
 ██████████████████████████████████████████████████████████████████
 
+A good read to point to about voting theory:
+https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists
+(I've read it, no need to quote anything from it - simply link to it)
+voting theory matters a whole lot less if we simply rank priorities and there isn't a single winner but all priorities would get some budget proportionally depending on how many points they got - weights instead of a single winner and a bunch of complete losers.
+^^ similar to multi-winner voting which has issues with apportionment, but if we're dealing with real numbers as weights and not with a fixed number of seats all that isn't an issue
+
 > "The ballot is stronger than the bullet." - [Abraham Lincoln](https://www.goodreads.com/quotes/15203-the-ballot-is-stronger-than-the-bullet)
 
 > "It's not the people who vote that count. It's the people who count the votes." - [Joseph Stalin](https://www.azquotes.com/quote/639772)

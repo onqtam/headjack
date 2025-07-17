@@ -24,6 +24,8 @@ TOPICS TO FINISH AS A SECTION:
 █████ IN EXPANDED SECTION
 
 
+> "He who controls *~~the spice~~* **attention** controls the universe." - [Frank Herbert](https://www.goodreads.com/quotes/82034-he-who-controls-the-spice-controls-the-universe), probably
+
 TODO: find a way to have tooltips? so that I can paraphrase quotes and people can see them when they hover with their mouse?
 
 
