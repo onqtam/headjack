@@ -383,6 +383,8 @@ what if you actually improved something through acts of speculation - and not me
 
 
 
+> "The greater the outward show; the greater the inner poverty." - [Jiddu Krishnamurti](https://x.com/IAmMarkManson/status/1943731792998965343)
+
 
 
 
@@ -5774,6 +5776,7 @@ problem with monetary skin in the game: diminishing marginal utility - rich peop
 low income ppl will care a lot about the rules being enforced whereas rich ppl won't care as much
 
 You are an expression of creativity by the universe - the more you express yourself and contribute towards something the more you’ll have imbued it with your essence
+You are an expression - a pattern of divine will
 
 Little pockets of curiosity, self-organising towards the expansion of consciousness over greater scales of space, time and abstraction
 

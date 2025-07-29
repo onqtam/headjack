@@ -1,4 +1,6 @@
 
+START HERE
+
 # How to read this book
 
 This book presents itself to you as a fractal - nested levels of detail depending on your interests
@@ -188,6 +190,7 @@ Cultural Enlightenment or Bust
 The One
 The Greatest Reset
 E pluribus unum - From many, one
+Signal from noise
 Giga Brain - or just Giga
 The Best of Us
 The Matrix part 2/4
@@ -196,8 +199,13 @@ The Matrix part 2/4
     The Matrix part 2 is not a movie but the source code of God
 Birthing Collective Consciousness
 Embracing Complexity
+Self-Correcting Authority
+THe [Collective] Anatomical Compiler
+    or the cultural compiler
+    Based on Michael Levin's hypothetical system that translates user-defined anatomical goals into a set of stimuli that can direct cells to build a desired structure. Not a physical device like a 3D printer, but rather a "communications device" or translator that leverages the inherent intelligence and bioelectric communication of cells to achieve regenrative and morphogenetic outcomes
 Genesis / The seed
-Social engineering is already here - its just not evenly distributed
+Participatory Social Engineering
+    Its already here - its just not evenly distributed
 Black mirror episode about social credit score
     White Mirror
 The Caterpillar
@@ -324,6 +332,29 @@ The Reward/Generator Function
 The Riddle of Existence
     what to do and why
 THE Extended Mind
+The infinite game
+Emergence is eating the world
+The Organizational Imperative - from the categorical
+Interplanetary Consciousness
+The Declaration of Unification
+Civilizational Automata (like cellular)
+The next religious reformation
+Capital allocation in the 21st century
+Post capitalism
+The new attention economy
+What economising attention actually means
+Universal Basic Jarvis
+Finding God
+Immortality in every sense of the word
+Our Collective DNA
+Fame in the Brain
+Exploring the high dimensional institutional/organizational space
+Bug fixing the world
+Collective Empiricism
+The self help book that’s the answer to all of our problems
+Theory of Hivemind
+Designing and becoming the homunculus of the hivemind
+    The Hivemind's Homunculus
 Game of Life 2.0
 The Greatest Justification/Story Ever Told
 The Consciousness Guide to the Galaxy
@@ -332,7 +363,12 @@ The Blueprint
 Attention is all you have
 Normativity
 Multi Scale Competency Architecture
+The great replacement theory/project - what do you want to be replaced with?
+OpenCI - open by design, open forever
+The akashic records
+Democratic programming
 Thermodynamic Integration/Optimization
+Syntropic imperative
 The [Collective] Thermodynamic Imperative
     integrate/synergize/cooperate or suffer/die
 HumanityOS
@@ -407,6 +443,7 @@ Valence as a service - what’s good and what’s bad - what to do - morals
 Religion as a service
 Religio as a Service
 Meaning as a service
+Virtue as a service
 Moral highground as a service
 God as a service
 palantir as a service

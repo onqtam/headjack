@@ -65,6 +65,10 @@ When all you have is language, it becomes the hammer and everything else a nail.
 # SECTION: Integration
 ██████████████████████████████████████████████████████████████████
 
+https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem
+Aumann's agreement theorem states that two Bayesian agents with the same prior beliefs cannot "agree to disagree" about the probability of an event if their individual beliefs are common knowledge. In other words, if it is commonly known what each agent believes about some event, and both agents are rational and update their beliefs using Bayes' rule, then their updated (posterior) beliefs must be the same.
+^^ integration & common knowledge should lead to convergence and coherence
+
 
 There is no integration without complete deduplication of data and identities
 

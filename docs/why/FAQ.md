@@ -53,6 +53,8 @@ Good! that means you're on board with the other 80-90% and we can focus on eithe
 
 put the response to Joscha here
 
+> "With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
+
 ## Why is there so little aboit AI?
 
 Because there's nothing we could add to the discussion. We stay in our lane of competence. The most intelligent thing we can say is that anyone speaking with high confidence about what's going to happen with AI should not be taken too seriously.

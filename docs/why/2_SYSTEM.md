@@ -687,6 +687,7 @@ Our perennial ["war of all against all"](https://en.wikipedia.org/wiki/Bellum_om
 
 > "Without consumption, the American machine stops. Something else may take its place." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
+Upload the image of the cobalt mine
 
 the century of the self
 

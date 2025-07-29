@@ -86,7 +86,7 @@ Conceding a point and being persuaded is a loss of status - what if there was an
 
 
 
-
+There isn't a single problem in the world that wouldn't benefit from an integrated view of all arguments and an ability to sort and rank them. A more complete and clear picture.
 
 
 > "It shouldn’t be tech companies per se getting into fact checking. It should be open source technology. Free, universally available code and data for epistemology. Take a piece of text, parse it, extract assertions, compare to explicitly specified knowledge graphs and oracles." - [Balaji Srinivasan](https://twitter.com/balajis/status/1266180931435417600)
