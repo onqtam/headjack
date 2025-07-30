@@ -179,6 +179,7 @@ Incentives all the way down
 Self-Organizing Culture
 The configuration of society
 vibe coding society
+everything everywhere all at once - replacing (or upgrading - their choice) all of the current tech giants
 Mission:
 Solve [Collective] Intelligence, and then use that to solve everything else
     https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago
@@ -200,6 +201,8 @@ The Matrix part 2/4
 Birthing Collective Consciousness
 Embracing Complexity
 Self-Correcting Authority
+the fourth estate proper
+the medium and the message
 THe [Collective] Anatomical Compiler
     or the cultural compiler
     Based on Michael Levin's hypothetical system that translates user-defined anatomical goals into a set of stimuli that can direct cells to build a desired structure. Not a physical device like a 3D printer, but rather a "communications device" or translator that leverages the inherent intelligence and bioelectric communication of cells to achieve regenrative and morphogenetic outcomes

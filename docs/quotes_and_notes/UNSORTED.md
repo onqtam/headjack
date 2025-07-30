@@ -43,6 +43,13 @@ Truby, J. The Anatomy of Story: 22 Steps to Becoming a Master Storyteller, 1st e
 
 
 
+> "There are two kinds of forecasters: those who don’t know, and those who don’t know they don’t know." - [John Kenneth Galbraith](https://www.goodreads.com/quotes/476607-there-are-two-kinds-of-forecasters-those-who-don-t-know)
+
+
+we see through the concepts and patterns that we know
+
+abundance through minimalism & economies of scale & higher consciousness
+
 
 > "Intelligence is the ability to reach the same goal by different means." - [William James](https://www.templeton.org/news/intelligence-without-a-brain)
 
