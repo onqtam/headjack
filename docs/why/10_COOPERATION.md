@@ -245,6 +245,10 @@ Oliver Scott Curry _ Moral problems_ a Popperian approach
 
 > "Love is the one thing we're capable of perceiving that transcends time and space." - [Brand, Interstellar (2014)](https://www.imdb.com/title/tt0816692/quotes/?item=qt2213908&ref_=ext_shr_lnk)
 
+> "Love isn’t something that we invented. It’s observable. Powerful. It has to mean something. Maybe it means something more, something we can’t yet understand. Maybe it’s some evidence, some artifact of a higher dimension that we can’t consciously perceive.
+Love is the one thing that we’re capable of perceiving that transcends dimensions of time and space." - [Brand, Interstellar (2014)](https://www.imdb.com/title/tt0816692/characters/nm0004266?item=qt2307348&ref_=ext_shr_lnk)
+
+
 > "No one can be perfectly free till all are free; no one can be perfectly moral till all are moral; no one can be perfectly happy till all are happy." - [Herbert Spencer](https://www.azquotes.com/quote/279406)
 
 > "Happiness only real when shared." - [Christopher McCandless AKA Alexander Supertramp](https://www.goodreads.com/quotes/184807-happiness-only-real-when-shared)

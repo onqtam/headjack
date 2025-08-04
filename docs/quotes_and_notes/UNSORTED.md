@@ -50,6 +50,21 @@ we see through the concepts and patterns that we know
 
 abundance through minimalism & economies of scale & higher consciousness
 
+how do we incentivise the market to actually solve problems related to health for example without them needing a subscription to maintain their existence
+
+
+
+Classic: You need money to make money. Money has this delightfully biblical tendency to clump together—the Matthew Eect, where “to everyone that hath shall be given”. This is due to compound interest and the fact that capital returns tend to outpace economic growth (Thomas Piketty crunched the numbers). How can we get rid of the biblical black hole energy of capital? Taxes, right? If it weren’t for this neat trick with lawyers and boats that billionaires and corporations have discovered: If a country raises taxes, they simply move to the nearest tax haven. Plus, let's be honest, the track record of government bureaucrats at spending money eciently isn’t exactly great.
+https://octopusyarn.substack.com/p/the-gradual-path-to-fixing-capitalism
+The Gradual Path to Fixing Capitalism - Because Overthrowing it Sounds Exhausting
+
+
+Dissipating the military industrial complex
+
+How do we best show how people should act as parents?
+
+My search space is the dimensionality for the 500 page book
+
 
 > "Intelligence is the ability to reach the same goal by different means." - [William James](https://www.templeton.org/news/intelligence-without-a-brain)
 

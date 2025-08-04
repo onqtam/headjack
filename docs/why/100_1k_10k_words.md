@@ -177,8 +177,12 @@ Aligning the WEF
 Perfect Competition
 Incentives all the way down
 Self-Organizing Culture
-The configuration of society
+Democratic Version Control
+    The configuration of society
+Deep Democracy
+The Deep Learning of Society
 vibe coding society
+The Meta Concept
 everything everywhere all at once - replacing (or upgrading - their choice) all of the current tech giants
 Mission:
 Solve [Collective] Intelligence, and then use that to solve everything else
@@ -338,6 +342,17 @@ THE Extended Mind
 The infinite game
 Emergence is eating the world
 The Organizational Imperative - from the categorical
+Thermodynamic Imperative - from the categorical
+Beyond Markets
+The Selfless Meme - from the selfish gene
+The Incentive Landscape from which we can derive the moral one
+Nothing Stops This Train
+If Anyone Builds It, Everyone Thrives: Why Collective Intelligence Would Benefit Us All
+    it is the highest adaptive capacity - to sync up with others and form something that’s greater than the sum of its parts
+    If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All
+    https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies
+Democracy: The God That Hasn't Been Properly Born Yet
+    https://en.wikipedia.org/wiki/Democracy:_The_God_That_Failed
 Interplanetary Consciousness
 The Declaration of Unification
 Civilizational Automata (like cellular)
@@ -345,6 +360,8 @@ The next religious reformation
 Capital allocation in the 21st century
 Post capitalism
 The new attention economy
+The sentient economy
+Wholesome economics
 What economising attention actually means
 Universal Basic Jarvis
 Finding God
