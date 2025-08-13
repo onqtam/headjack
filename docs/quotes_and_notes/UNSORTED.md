@@ -65,6 +65,9 @@ How do we best show how people should act as parents?
 
 My search space is the dimensionality for the 500 page book
 
+The switch from how wealthy people are to how wealthy people should be - redefining influence and power
+
+
 
 > "Intelligence is the ability to reach the same goal by different means." - [William James](https://www.templeton.org/news/intelligence-without-a-brain)
 
@@ -2376,7 +2379,7 @@ We should crowdsource our norms and then rate media against them
 Chris Dixon is wrong - not read/write/own but read/write/compose
 The progression from web1 to web3 is not about read => write => own
 Its about read => write => compose
-https://x.com/kirilovvik/status/1751998879359176965?s=46
+
 
 Reinvent capital allocation
 
@@ -3665,6 +3668,8 @@ The biggest big is our system
 https://x.com/KirilovVik/status/1714212060345626836
 The biggest big is changing our system such that the stardust that we are ends up once again among the stars
 
+> "Supermarkets have long been designed like mazes, with everyday items like milk and eggs deep in the heart of the maze so you must pass by countless other products to access them. The purpose of this layout is to evoke the Gruen effect: the moment when a shopper loses track of what they entered the store for, and begins aimlessly wandering and impulse-buying." - [How Social Media Shortens Your Life, by Gurwinder](https://www.gurwinder.blog/p/how-social-media-shortens-your-life)
+
 We need a system that could answer why we chose X over Y
 
 The metacrisis is a crisis of alignment
@@ -4679,6 +4684,11 @@ Pictures of sick people on packs of cigarettes are a form of relevance filtering
 the Aadhaar system in India is serving as the narrow waist of their national digital transformation
 https://en.wikipedia.org/wiki/Aadhaar
 https://tigerfeathers.substack.com/p/the-internet-country
+ukraine:
+https://en.wikipedia.org/wiki/Diia
+https://www.cgap.org/blog/ukraines-diia-digital-lifeline-in-times-of-crisis
+https://ukraine.ua/invest-trade/digitalization/
+https://expo.diia.gov.ua/
 
 If we measure everything we could simply see the best predictor for any endeavor
 
@@ -4839,6 +4849,7 @@ The ability to vote on how votes should be counted in compound model representat
 with liquid democracy each person could be a high dimensional representation of their own views
 
 what if we sankey-diagramed every aspect and product of society - from carbon footprint to what transitive connections there are to low-ranking and sociopathic companies and even monetary influence
+also gantt-charted it?
 
 Negative reputation: carbon footprint, money influence, previous scandals
 
@@ -6066,7 +6077,7 @@ Religion is a contractual agreement for solving certain kinds of problems
 
 
 
-
+THIS PAPER "The collective intelligence of evolution and development" I've also quoted elsewhere!
 
 > "Individual intelligence, in the familiar guise of a central nervous system or a brain, arises from the interaction of many unintelligent components (neurons) arranged in the right organisation with the right connections. This is the foundation of connectionism; that intelligence resides not in the individual parts but in the arrangement of the connections between them. The individual neuron is not where all the interesting cognition and learning occur. It is the distributed collective activity in the network that constitutes cognition and changes to the organisation of network connections that constitute learning." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=Individual%20intelligence%2C%20in,that%20constitute%20learning.)
 

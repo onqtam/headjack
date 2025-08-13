@@ -96,3 +96,7 @@ Because we have a broken digital system for attributing who said and expressed w
 This is for those that can read between the lines
 
 
+## isnt social credit distopic?
+
+Response: isn’t money equally wtf? Imagine there was no money and someone pitched u that u might die because u cant afford a hospital - TODO work on this - this was just a stoner line
+

@@ -12,7 +12,7 @@ alternative titles:
 
 Symbiotic intelligence = collective + artificial
 
-Intelligence is the capacity to gain capacities.
+Intelligence is the capacity to gain capacities. It is doing more with less.
 
 <img src="/img/meme_wojak_brain.jpg"/>
 

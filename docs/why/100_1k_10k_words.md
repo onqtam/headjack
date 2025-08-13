@@ -337,8 +337,16 @@ The Realization of the Independence of Cyberspace
 The Intelligent Collective
 The Reward/Generator Function
 The Riddle of Existence
-    what to do and why
+    what we are, what we should do, and why
 THE Extended Mind
+Strategic Altruism
+The Finest of Art
+The super egoic structure
+Collectivism in the 21st century
+    Every collective is playing a multiplayer game and how the rules evolve should be of primary concern.
+The final solution
+    Journo bait - to see which journos blatantly / knowingly misrepresent this book as supporting that monster - show yourselves! TAKE THE BAIT!
+Theory of everything - stephan bodzin
 The infinite game
 Emergence is eating the world
 The Organizational Imperative - from the categorical
@@ -362,6 +370,12 @@ Post capitalism
 The new attention economy
 The sentient economy
 Wholesome economics
+The Epistemic Commons
+Integrity
+Identity Politics 2.0
+CiHKAL
+    Complexity I Have Known And Loved
+    [PiHKAL](https://en.wikipedia.org/wiki/PiHKAL) & [TiHKAL](https://en.wikipedia.org/wiki/TiHKAL) by [Alexander Shulgin](https://en.wikipedia.org/wiki/Alexander_Shulgin)
 What economising attention actually means
 Universal Basic Jarvis
 Finding God

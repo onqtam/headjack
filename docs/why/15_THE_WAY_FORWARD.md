@@ -391,6 +391,11 @@ https://en.wikipedia.org/wiki/Mortality_salience
 
 
 
+meaning is not objective or subjective - it is transjective
+REQUIRED VIEWING: - or simply suggested further viewing - especially the first 2 parts
+HEALING FROM THE MEANING CRISIS (6 parts) - Brendan Graham Dempsey
+https://www.youtube.com/playlist?list=PLa_4sU5_wQrlLbGbBvEdXTUfdX4TfBym3
+
 
 https://www.youtube.com/watch?v=spiEOkgA5CQ
 == ep 2 from conscious evolution podcast

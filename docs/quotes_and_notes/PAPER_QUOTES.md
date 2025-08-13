@@ -209,6 +209,7 @@ Massachusetts Institute of Technology
 
 
 
+THIS PAPER "The collective intelligence of evolution and development" I've also quoted elsewhere!
 
 > "For an intelligence to belong properly to a collective, it must arise not from the cleverness of its members but from having the right kind of functional relationships between them.
 >

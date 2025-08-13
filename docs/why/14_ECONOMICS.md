@@ -923,6 +923,8 @@ Meme: look at me - I’m the IMF/world bank now
 # SECTION: Surplus & Luxury
 ██████████████████████████████████████████████████████████████████
 
+Surplus economics/redirection
+
 > "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter into the kingdom of God." - [Matthew 19](https://byustudies.byu.edu/online-book/the-gospel-according-to-matthew/matthew-19)
 
 > "It is unjust that the whole of society should contribute towards an expence of which the benefit is confined to a part of the society." - [Adam Smith](https://www.azquotes.com/quote/1323948)
@@ -953,8 +955,12 @@ Excessive/conspicuous consumption is immoral
 
 “The best that money can’t buy” - book by Jacque Fresco (RIP) but reusing it - we need to design status games such that you can’t buy your way in
 
-Artificial/engineered non-fungible scarcity but not for diamonds but for social standing
+Artificial/engineered scarcity non-fungible but not for diamonds but for social standing - better that De Beers
 Scarcity as a social construct
+Reputation is forever
+https://en.wikipedia.org/wiki/Diamonds_Are_Forever_(film)
+The iconic slogan "A diamond is forever" is intrinsically linked to the De Beers diamond company. It was created by copywriter Frances Gerety for De Beers in 1947 and has become one of the most recognizable and enduring slogans in advertising history.
+https://en.wikipedia.org/wiki/De_Beers#Marketing
 
 
 property rights

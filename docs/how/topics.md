@@ -29,8 +29,6 @@ TOPICS TO FINISH AS A SECTION:
 TODO: find a way to have tooltips? so that I can paraphrase quotes and people can see them when they hover with their mouse?
 
 
-# operating manual for the global brain
-
 <details><summary>title</summary><p>
 ...
 </p></details>
