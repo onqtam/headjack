@@ -10,12 +10,16 @@ Stairway to heaven
     <img src="https://png.pngitem.com/pimgs/s/207-2073499_translate-platform-from-english-to-spanish-work-in.png"/>
 </div>
 
-# Go to market & growth strategy
+# Go to ~~market~~ people's heads & growth strategy
 
 - first 1k/10k indexes reserved & given with auctions/randomly to influential ppl
     - elon could get index 42 - the answer to the universe
 
 growth hack: show some badge who invited you to the network (and how many people you have invited) - perhaps with some referral link initially?
+strategy: referral links and giving status retroactively to individuals you invite
+also who invited who, and maybe the highest form of cultural recognition would be "who influenced you the most into joining" and maybe you can have points that you ditribute between all of the major influences - a recruitment/convert lineage of some sorts
+
+A public list of who has signed up for this system
 
 Strategy: use platform APIs to link web2 platform accounts to a headjack account for a gradual transition - as an overlay
 Adapters for current web2 platforma - wrap actions in messages that point to the web2 platform?
@@ -23,8 +27,6 @@ Adapters for current web2 platforma - wrap actions in messages that point to the
 Strategy: donate money from the start, gain status and have your “share” of the company be donated to a collective process
 
 strategy: start it centralized !!! Emulate the blockchain !!!
-
-strategy: referral links and giving status retroactively to individuals you invite 
 
 Strategy: let people help with the global brain - gaining reputation in return
 
@@ -110,7 +112,6 @@ Governing google properly
 Comics po knigata - za vseki chapter/section
 
 
-A public list of who has signed up for this system
 
 summoning the GB as a ritual - until self-reference is achieved ala Hofstadter's strange loop thingie
 

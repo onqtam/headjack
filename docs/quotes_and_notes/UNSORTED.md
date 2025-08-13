@@ -3670,6 +3670,66 @@ The biggest big is changing our system such that the stardust that we are ends u
 
 > "Supermarkets have long been designed like mazes, with everyday items like milk and eggs deep in the heart of the maze so you must pass by countless other products to access them. The purpose of this layout is to evoke the Gruen effect: the moment when a shopper loses track of what they entered the store for, and begins aimlessly wandering and impulse-buying." - [How Social Media Shortens Your Life, by Gurwinder](https://www.gurwinder.blog/p/how-social-media-shortens-your-life)
 
+
+
+on decentralization/individuation and centralization/integration and how parts relate (and communicate) to each other and the whole (holoscopy) - related to synergy (& top-down/bottom-up?)
+
+> "In this hour of death, the blockchain itself holds within it an intrinsic logic that carries forward the spirit of liberal democracy and sane discourse: a reference system of independent verification, falsification, or review. This is the principle of science, of enlightenment, of public discourse, and ultimately of freedom. Blockchain is where all parts together verify the whole, which in turn evolves the meaning and value of the parts. It’s a direct continuation of the principle of finding truth together, where truth is a moving target, an exploration. As such, blockchain has the potential to update and defend this principle of truth-seeking against the forces of entropy.
+>
+> ... decentralization is not made possible by the removal of centralization, but by transformations of the forms that centralization can take...
+>
+> **1. From decentralization to the dance of individuation and integration**
+>
+> ... we may exchange “decentralization” with “individuation” and “centralization” with “integration”... we wish this differentiation or individuation to progress as far as possible, as the specialization of one becomes the relative wealth of another, which equals a growth in capacity for the whole.
+>
+> The centralizing counter-pole represents, in turn, the integrative aspect of the ecosystem. Which is to say that the farther this pole is extended—without it collapsing and oppressing its opposite (individuation)—the more utility is garnered by the emergence of a higher number of more mutually unique but complementary agents. Simply stated: the more numerous and different the parts, the better they have to be able to t together in order to help rather than bother each other.
+>
+> So “values work” is the answer, right? Make sure they share an ideology or religion? That will make the many different agents work towards the same greater whole, won’t it? Not so fast. Only emphasizing shared values or commitments of loyalty or solidarity
+will not suffice to keep the ecosystem coherent beyond the point of a fairly crude division of labor... A more complex society, with more composite and complex agents, requires deeper and stronger forces of integration. The decentralizer that misses this point will end up adding harm to injury.
+>
+> But not any old form of centralization will do. Today, as we have seen, this inherent need for integration in a world so wildly and rapidly individuating into so many projects and teams leads to a default setting of increasing centralization across the board, which further fuels the disintegration of liberal and democratic processes of communication and the economy. And ultimately, world politics and global culture.
+>
+> What needs to happen instead is that blockchain ecosystems start very actively and deliberately building their capacity to integrate, which increases their capacity to hold and nurture higher differentiation/individuation. Such integration has many aspects, but the primary one is that it only centralizes on the highest level of abstraction possible, because that is where the greatest variety of projects can be meaningfully included and interconnected. **As such, what is centralized is not concrete decision-making, nor even the communication of a joint vision: it is the responsibility and commitment to maintain, develop, and where necessary heal, the joint capacity to understand and trust one another within a certain delineation (like a blockchain sphere)**.
+>
+> The centralizing agent’s key commitment is to increase **the average capacity of members to communicate effectively and honestly**. This, in turn, implies a commitment to support members’ capacity to seek reliable information about the resources available in the ecosystem, and to trust the resilience of the whole so as to unlock bolder and more playful aspects of individuation... The reward ... is not really power, glory, and riches, but a more genuine connection with other people, a more stable income, and a deeper sense of satisfaction and meaning. It also unlocks higher degrees of creativity, as you are now part of so many different contexts of highly creative projects...
+>
+> **2. Holoscopy**
+>
+> ... holoscopy. It is the capacity of the parts, respectively, on their own, to see the whole (the blockchain ecosystem). At the end of the day, if we accept that neither centralization nor decentralization are goals in and of themselves, that the collective intelligence of an ecosystem is ultimately a relational quality, and the main relationship to be qualied, operationalized, measured, and gauged, is the one between individuation/integration, then we must look for qualities that are present in many parts but common to them.
+>
+> ... holoscopy cannot and should not be monolithic... Instead, the whole that is viewed together must be coherent and translatatable enough across contexts to allow for cooperation and conflict mitigation or avoidance, while inspiring loosely held directions for the movement of the whole, but also non-totalizing, allowing for each person or team to have their own context, interpretation, or sense of purpose so as to optimize for their individuation of capacities and products...
+>
+> The problem in truly decentralized settings is not one of too monolithic and totalizing visions of the whole that are forced upon members. The problem is a deficit of holoscopic capacity for the parts. This deficit can be met by a stronger commitment to centralize certain values, assumptions, strategies of communication, forms of contract, norms of exchange, channels of communication—and, by far most importantly, certain maps of the ecosystem as a whole.
+>
+> Appropriate norms that arbitrate between inclusion and exclusion from the ecosystem itself should thereby not be set in terms of what function, type of project, form of agent, or skill set that an agent displays. Instead, rejected inclusion or active exclusion from the ecosystem should be defined by whether or not an agent can display sufficient understanding of the map of the ecosystem itself (who are the other players, what do they do, what are key values and what are the tensions around diverging interpretations of these, what are the key interest groups that organize in this field, what are the norms of communication, how is trust built and upheld, what is new and what is old, what is central for functioning and what is more optional). You can display diverging opinions on any of these questions, but you must be able to reasonably reproduce the answers that a central committee has suggested and agreed upon after continuous updating by consent processes of the community.
+>
+> To be a good part, you have to see the whole. The more others see the same whole, the more spontaneously and harmoniously they can communicate, trade, compete fairly, collaborate, and play. And that’s creation...
+>
+> To spur periods of sustained and relatively stable creation of a kind that is competitive with conventional global markets, key agents of an ecosystem must define and institutionalize processes that map out the whole, and that do so iteratively. They must then find ways to incentivize the learning of this map by each part of the whole. They must find ways to measure this holoscopy, to continuously improve upon its quality, and ultimately, they must set norms of exclusion for failing to display sufficient coherence with the whole. You are free, parts, but your degrees of freedom flow not from how little top-down control there is, but from how much resonance there is in relation to other parts and between all of you and the whole.
+>
+> ... without holoscopy there is no integration, and with no integration, decentralization does not lead to individuation but only to confusion, tension, fragmentation, dissolution—and oscillates right back to centralized and unchecked power.
+>
+> **3. Seizing the means of communication**
+>
+> The last key insight: What must be optimized for is the quality of communication... there is a general sense of direction that the means of communication, the platforms, are owned and controlled by oligarchies, whereas they instead need to function more as commons with democratic accountability if they are to increase rather than harm collective intelligence.
+>
+> ... the leadership of ... an ecosystem can and should design an iterative strategy for instituting clear norms of communication, cultivate wide-spreads skills of dialogue, offer channels of collective sense-making that undergird the solidity of arguments and respect for differences of perspectives and interests, and measure the quality of communication continuously, while rewarding commitment to and initiatives towards more effective communication and adjudicating or healing in cases of misunderstanding and conflict.
+>
+> Looking at the gold standards of established and proven communicative skill sets, one is the “non-violent communication” framework. It entails expressing emotions and feelings more clearly, focusing on the purpose of one’s statements, and asking for the same in others, while actively avoiding blame or judgment (or home-made diagnostics) of the behaviors and opinions of others. Training programs and formal qualications of communicative skills can be instituted, and these can be linked to rewards within the larger system. This can be followed up by measurements and repeated reflections upon how the culture of communication can be enriched. Professional roles in this field can include creators of dictionaries that simplify onboarding and understanding, so that tech lingo becomes more transparent; leadership in setting and updating norms of communication; inventing measures and using these to make reports back to the community; and, of course, communication trainers of teams and others. Classical moderator roles of forums and central channels of communication are also vital, as are healers and facilitators. Taken together, this sets in motion the learning curve on how to let information flow more freely and efficiently through the ecosystem. This is vital for the health of the whole, of the parts: it reinforces individuation (as each part expresses itself more clearly, also to themselves), integration (as collaboration is facilitated and stabilized), the management and prevention of tensions and conflicts, and it creates better soil for holoscopy across the board." - [The Path to Decentralization is Centralization, by Daniel Görtz](https://truthtogether.substack.com/p/the-path-to-decentralization-is-centralization)
+
+> "**TL;DR**: Leaders of blockchain ecosystems can serve decentralization better if they concentrate on both integration and individuation, which is achieved by investing in holoscopy and communication facilitation, training, channels, protocols, and skills. Setting stronger boundaries, clearer norms, and more control around these things leads to more spontaneously self-organizing and stable growth of knowledge, innovation, and value creation. Failure to do so leaves the field open to conventional market agents, in which centralization and top-down control always win out after a few iterations, which always spills over into all aspects of society... The established counter-cultural striving towards decentralization targets a vital issue but has a too simplied model to reach its goals. A more effective model would have a fractal or “yin-yang” understanding between centralization (integration) and decentralization (individuation). **You can’t have the yin without the right kind and amount of yang. If you try to do only yin, yang wins out, and then both yin and yang die**... The world is not a struggle between centralization and decentralization. It is a struggle between:
+>
+> 1. lacking resonance and balance between centralization and decentralization, which brings both oppression and fragmentation, and
+>
+> 2. sucient resonance between the two qualities, which brings freedom and stability.
+>
+> The leading edge of blockchain (and its interactions with AI) is a kind of eye of the storm of this development. It’s here, if anywhere, that the wing of a buttery can start or stop not only a storm, but the changing climate of a planet." - [The Path to Decentralization is Centralization, by Daniel Görtz](https://truthtogether.substack.com/p/the-path-to-decentralization-is-centralization)
+
+
+
+
+
+
 We need a system that could answer why we chose X over Y
 
 The metacrisis is a crisis of alignment
