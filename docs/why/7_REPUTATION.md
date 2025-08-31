@@ -888,6 +888,12 @@ We can encode probability distributions, certainty and effect magnitude estimate
 
 ## Universal Basic Humble Pie
 
+> "Fallor ergo sum." - [Saint Augustine](https://en.wikipedia.org/wiki/Cogito,_ergo_sum#Predecessors)
+
+On being wrong ｜ Kathryn Schulz
+https://www.youtube.com/watch?v=QleRgTBMX88
+
+
 universal basic humble pie - let everyone participate in forecasting and let the rules sort out who's actually worth listening to
 so many people have so many opinions about how the world works and about war and conflict and whatnot - we MUST sort this out in a way such that we can all agree on the answer/result
 

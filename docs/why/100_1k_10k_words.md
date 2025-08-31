@@ -341,6 +341,8 @@ The Riddle of Existence
 THE Extended Mind
 Strategic Altruism
 The Finest of Art
+Unified Theory of Society - UTOS
+Ground Perspective - ala news
 The super egoic structure
 Collectivism in the 21st century
     Every collective is playing a multiplayer game and how the rules evolve should be of primary concern.
@@ -352,10 +354,11 @@ Emergence is eating the world
 The Organizational Imperative - from the categorical
 Thermodynamic Imperative - from the categorical
 Beyond Markets
+In Search of Better Questions
 The Selfless Meme - from the selfish gene
 The Incentive Landscape from which we can derive the moral one
 Nothing Stops This Train
-If Anyone Builds It, Everyone Thrives: Why Collective Intelligence Would Benefit Us All
+If Anyone Builds It, Everyone Thrives: Why Collective Intelligence Is The Answer To All Our Problems
     it is the highest adaptive capacity - to sync up with others and form something that’s greater than the sum of its parts
     If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All
     https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies

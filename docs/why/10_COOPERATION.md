@@ -160,6 +160,8 @@ Science is the clearest example of global coordination.
 ██████████████████████████████████████████████████████████████████
 
 
+> "Right is right even if no one is doing it; wrong is wrong even if everyone is doing it." - [Saint Augustine](https://www.goodreads.com/quotes/126110-right-is-right-even-if-no-one-is-doing-it)
+
 > "Those people who treat politics and morality separately will never understand either of them." - [Jean-Jacques Rousseau](https://www.azquotes.com/quote/688553)
 
 > "Ethics: Ethics species the values (abstract concepts of what is good), norms (more specific social standards) and rules (explicit dos and don'ts) that individuals should follow in order to positively contribute to the larger system to which they belong. This includes avoiding actions that harm other people, society, and the encompassing ecosystem." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
@@ -276,6 +278,11 @@ Love is the one thing that we’re capable of perceiving that transcends dimensi
 > "The question is not whether there is intelligent life out there, the question is, whether there is intelligent life down here. As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/866263)
 
 > "We talk about civilization as though it's a static state. There are no civilized people yet, it's a process that's constantly going on... As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/728456)
+
+
+<details><summary>Required Reading/Listening</summary><p>
+
+</p></details>
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Fairness & justice

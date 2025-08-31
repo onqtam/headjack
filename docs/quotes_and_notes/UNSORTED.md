@@ -1,6 +1,22 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Multiscale Competency Architecture
 
 > "Biology is organized as multiscale competency architecture with interactive agents navigating their respective problem spaces across scales. Lower level components implement the physical substrate for higher levels of emergent abstraction, spanning molecular, cellular, tissue, organ, to organismal and group scales. In turn, higher levels deform the free energy landscape of possible microlevel conformations through top-down behavioral shaping and signaling... Components at every level of organization perform “local” homeostatic control loops capable of handling novel stressors on the fly, yet are susceptible to hierarchical - system-level or environmental - feedback...
@@ -54,10 +70,14 @@ how do we incentivise the market to actually solve problems related to health fo
 
 
 
-Classic: You need money to make money. Money has this delightfully biblical tendency to clump together—the Matthew Eect, where “to everyone that hath shall be given”. This is due to compound interest and the fact that capital returns tend to outpace economic growth (Thomas Piketty crunched the numbers). How can we get rid of the biblical black hole energy of capital? Taxes, right? If it weren’t for this neat trick with lawyers and boats that billionaires and corporations have discovered: If a country raises taxes, they simply move to the nearest tax haven. Plus, let's be honest, the track record of government bureaucrats at spending money eciently isn’t exactly great.
+Classic: You need money to make money. Money has this delightfully biblical tendency to clump together—the Matthew Effect, where “to everyone that hath shall be given”. This is due to compound interest and the fact that capital returns tend to outpace economic growth (Thomas Piketty crunched the numbers). How can we get rid of the biblical black hole energy of capital? Taxes, right? If it weren’t for this neat trick with lawyers and boats that billionaires and corporations have discovered: If a country raises taxes, they simply move to the nearest tax haven. Plus, let's be honest, the track record of government bureaucrats at spending money efficiently isn’t exactly great.
+... Capital is pure optionality. In a fast-changing world, the dominant strategy, given the Matthew Effect, is to continually accumulate optionality at an increasing rate rather than acting (spending).
 https://octopusyarn.substack.com/p/the-gradual-path-to-fixing-capitalism
 The Gradual Path to Fixing Capitalism - Because Overthrowing it Sounds Exhausting
 
+
+
+Some truths are truthier than others
 
 Dissipating the military industrial complex
 
@@ -411,7 +431,15 @@ what if you actually improved something through acts of speculation - and not me
 > "The greater the outward show; the greater the inner poverty." - [Jiddu Krishnamurti](https://x.com/IAmMarkManson/status/1943731792998965343)
 
 
+> "The truth is like a lion; you don’t have to defend it. Let it loose; it will defend itself." - [Saint Augustine](https://www.goodreads.com/quotes/798196-the-truth-is-like-a-lion-you-don-t-have-to)
 
+> "In essentials, unity; in non-essentials, liberty; in all things, charity." - [Saint Augustine](https://www.goodreads.com/quotes/332507-in-essentials-unity-in-non-essentials-liberty-in-all-things-charity)
+
+> "" - [Saint Augustine]()
+
+> "" - [Saint Augustine]()
+
+> "" - [Saint Augustine]()
 
 
 
@@ -3721,7 +3749,7 @@ will not suffice to keep the ecosystem coherent beyond the point of a fairly cru
 >
 > 1. lacking resonance and balance between centralization and decentralization, which brings both oppression and fragmentation, and
 >
-> 2. sucient resonance between the two qualities, which brings freedom and stability.
+> 2. sufficient resonance between the two qualities, which brings freedom and stability.
 >
 > The leading edge of blockchain (and its interactions with AI) is a kind of eye of the storm of this development. It’s here, if anywhere, that the wing of a buttery can start or stop not only a storm, but the changing climate of a planet." - [The Path to Decentralization is Centralization, by Daniel Görtz](https://truthtogether.substack.com/p/the-path-to-decentralization-is-centralization)
 
@@ -5633,6 +5661,8 @@ We need collective relevance aggregators
 The local governance protocol is the same as the global governance protocol
 Isomorphism between the emergent layers of governance and coordination
 
+> "Yachts are temporary. Glory is eternal." - [Marko Jukic](https://x.com/mmjukic/status/1960399597697917178)
+
 If you understand this you are the future elite
 
 The merge is not moving from PoW to PoS but to merge humanity
@@ -6897,6 +6927,24 @@ https://www.frontiersin.org/files/Articles/493866/fpsyg-10-02688-HTML/image_m/fp
 > "The hypothesis of scale-free cognition does not rely on cooperation per se – it builds up apparent cooperation from selfish agents minimizing their stress (surprise) and competing for information. Greed, at the single-cell level, for information (infotaxis) drives cooperativity, as each unit expands its measurement boundary (communication with neighbors) and thus inevitably becomes part of a bigger self with bigger set points serving as homeostatic attractors. It only looks like cooperation from a perspective of a higher level, because the higher level of organization shows an integrated Self which appears, necessarily, cooperative." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=The%20hypothesis%20of,appears%2C%20necessarily%2C%20cooperative.)
 
 > "There is a deep functional scale-invariance between the decision-making of cells in building body structures, the workings of an insect colony, and the integrated behavior of a human “Person”: these are the cybernetic processes of learning and parameter optimization implemented by large numbers of units pursuing infotaxis and homeostatic goals at whatever scale the sensory channels permit." - [The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition, by Michael Levin](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full#:~:text=There%20is%20a%20deep,the%20sensory%20channels%20permit.)
+
+
+
+
+
+on self models and the cognitive light cone
+
+> "From an active-inference perspective, the human experienced-self model is a component of the overall generative model employed to predict the consequences of actions, particularly actions in a social context. Dysfunctions in the model, particularly dysfunctional assignments of precision or relative importance to particular environmental inputs or prior beliefs, result in contextually-dysfunctional actions in predictable ways. This suggests generalizing the notion of a "self-model" to any metacognitive component of an overall generative model that modulates precision assignments and hence effectively allocates attention and other cognitive resources, including memory, to some aspects of an action context at the expense of others. Such metacognitive components can be expected in any system that experiences selective pressures with different characteristic timescales. Properties of a context that a system assigns high precision to can be considered properties that the system cares about. Positioning these items of concern, which may include the system’s own past and future selves, in space and time relative to the system’s space-time location generates the system’s "cognitive light cone" (CLC), a representation of the maximal extent in space and time of its concerns; crucially, the CLC is not depicting the maximal reach of sensors or effectors, but rather the maximum size of states that the agent is capable of working towards as goals. As what is in the CLC is what can i­fluence the system’s metacognitive control of attention, we can view the CLC as a generalization of the experienced self-model that can be applied to any system, and in particular, to any organism.
+>
+> Reconceptualizing the self-model as the CLC emphasizes its functional role as a resource-allocation tool. The CLC serves, in particular, as a context for event memories and a focus for planning. Both the spatial and temporal extents of the CLC are heavily dependent on both memory and computational processing resources, i.e. on the degrees of freedom available to implement the system’s internal interaction and the size of its boundary. The CLCs of unicells and small multicellulars, e.g. the tick in Fig. 5, may be limited to the immediate vicinity of its physiological boundary and one or a few of its internally-counted time steps. The CLCs of humans, in contrast, can employ imagination as a resource to extend their active goals into interstellar space, and both backwards and forwards in time far beyond an individual’s lifespan. Human CLCs, at least, can expand or contract depending on an individual’s current state, resources, and ambitions; e.g. an infant might have a narrow cone focused on immediate survival, a child may care about friends or look forward to "what they want to be when they grow up", and a mature adult may have a broader cone encompassing concerns about the state of the world and the well-being of others even far into the future. Collectives of cells -- e.g. of human cells – can clearly have CLCs much larger than those of individual cells, which represent anatomical states as target morphologies toward which they actively work in regulative development and regeneration. Collectives of some social organisms -- e.g. ants -appear to have CLCs larger than those of their individual members. Whether collectives of humans have CLCs larger than those of individual humans remains an open question.
+>
+> As with the experienced self-model as implemented by the default-mode network, the operational size of the CLC can be expanded or contracted in a task- or context-dependent way. Activities that require unwavering attentional focus on the immediate spatiotemporal environment -- e.g. rock climbing or competitive driving -- are incompatible with the re-examination of history or long-term planning. The farther spatial and temporal extents of the CLC can, moreover, be expected to be coarse-grained relative to the more proximal components. This coarse-graining r­eflects the fact that the CLC is, like the human experienced self-model, a construct that must be computed, in real time, from information available at some particular time and in some particular context. Hence the temporal depth of the CLC in both directions is critically dependent on the system’s ability to track its own identity through imagined, or projected time, i.e. on its "mental time travel" ability. It is also dependent, in any realistic, resource-limited setting, on the system’s ability to forget unnecessary details of its past and make explicit only those elements of a plan that are assigned the greatest relevance. It is dependent, therefore, on the system implementing a heuristic solution to the Frame Problem, the problem of deciding what remains unchanged following an action.
+>
+> ... Examples of altruism or collective problem solving, even at the cellular level suggest that collective CLCs may exist in diverse organisms and at multiple scales." - [Thoughts and thinkers: On the complementarity between objects and processes, by Chris Fields & Michael Levin](https://www.sciencedirect.com/science/article/pii/S1571064525000089?via%3Dihub)
+
+
+
+> "" - [Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms, by Michael Levin]()
 
 
 
