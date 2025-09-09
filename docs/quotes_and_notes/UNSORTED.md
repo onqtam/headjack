@@ -2,6 +2,171 @@
 
 
 
+Reputationalizing expertise instead of simply monetizing
+
+Giving information mass/weight based on who stands behind it
+
+The force of liberation will blow the world to pieces - its too strong of a current for the wire
+Alan watts
+
+In it for the long haul / the tech/ideology
+
+How can we benefit from economies of scale without the negatives of monopoly and power concentration?
+Economies of scale without power concentration?
+
+Intelligent design
+
+The greatest power requiring the greatest responsibility
+
+TODO: Geoffrey West scaling laws - why it makes sense to be bigger for efficiency and synergy and why we need more people
+
+“More is different”
+
+The riddle of existence - how best to live and how to work towards answering the deepest questions
+
+Human development at scale
+
+God in the Internet age
+
+The death of capital’s fungibility
+
+Deep Causality
+Deep Democracy
+
+Designing Inequality
+
+Hyperdimensionality
+
+Revitalizing the Commons
+
+The Eventual Majority
+
+The Collective Singularity
+
+Cultural (R)Evolution
+
+Relevance is All You Need
+
+Incentives is All You Need
+
+Our Shared Context Window
+
+Remaking Humanity
+
+Rebuilding Society
+
+We Takin Over
+
+Evolutionary alignment
+
+ARCINET Advanced Research Collective Intelligence Network
+The Great Filter - separating signal from noise
+
+The Big Beautiful Book
+
+Cassandra as a service
+
+Human System Design - designing the system that shapes us
+
+Solving the Meta/Meaning Crisis
+
+The Real Don’t Die
+Immortality in every sense of the word
+How to leave a mark, how best to raise children and how humanity can best self-organize to achieve biological immortality and sustainability for all
+And how to help civilization avoid extinction
+Giving Samo Burja the immortal society he longs for
+“There has never been an immortal society.”
+https://samoburja.com
+
+Actually colonising Mars
+The prerequisite to colonising Mars is macro system change at home
+
+Social resonance and coherence
+
+Evolutionary theory used the right way
+The proper application of evolutionary theory to society
+
+Merging the market, state, religion, media, academia and education under syntropic law
+
+The best way to predict the future is to co-create it
+
+A bet is a tax on bullshit
+
+Cultural Evolution vs Cultural Devolution
+The fight between good and evil
+
+From capital formation to attentional formation/direction
+
+How do we better solicit relevant information at scale?
+
+What we need and what we want is to moralize politics, not to politicize morals. — Karl Popper
+https://x.com/TOKphysics/status/1958138147780415786
+
+Behavioural investment theory == optimal foraging
+
+The Discontinuitiy after millenia of playing the same game
+
+The Giant Leap (Forward) for Mankind
+Yes dear pomos, nihilists and ought-from-is deniers, there is a direction
+
+Make God your only boss.
+https://x.com/naval/status/1958633313272570250
+
+Control of resources should be proportional to contribution but the collective decides what % of that can be taken for personal consumption and the rest has to be redirected towards the collective as the individual that “earned” it best sees fit.
+
+Some people with kids literally don’t care that there are better and worse ways of raising children and don’t feel any urge to even ask questions and change
+
+xAI are scheming to build a GPU cluster in the millions of GPUs - but we can give rise to a collective intelligence of humans in the billions and all we need to do is change our reward function from the simple and primitive accumulation of power through money to one through reputation towards collectively defined democratic goals and objectively measurable/computable standards.
+
+“Nothing is so permanent as a temporary government program.” ― Milton Friedman
+
+FAQ:
+Why don’t you prove your system is better with an agent based model?
+A: How the heck does one even start translating all of this into such a model?! The MVP with real humans will be the simulation u’re looking for.
+
+FAQ: how could this system depolarise the US?
+How could this architecture depolarize the US and help the left and right cohere?
+
+FAQ: why write a book? Do it my way song
+
+Problems with representative democracy
+- nobody represents you perfectly
+- No person can be competent in everything or good at delegating for everything
+- Even if you find someone who represents you very well - someone exactly opposite to them could get elected and you get to have 0 say on anything - instead of at least having some influence on the weights
+- Many issues never get raised simply because they are too niche
+
+Pipeline Composer - ala palantir for the GGG
+
+Sort the predictions to sort the people to sort the ideas
+
+Ultimately there is no personal security without a thriving society - no bunker and security will be of any help if everything breaks down
+Personal security ultimately rests on a thriving society
+
+A phenomenal state is a tapestry of valence - michael timothy bennett
+https://open.spotify.com/episode/2ejxkZAu57TsTojCVRHmcB?si=FwKI0fjuTVS1tAulJE0r3A
+51:05
+54:30
+Also somewhere in the beginning about valence - maybe 17:14 - look at the topics - also maybe 35:00
+
+Status architecture
+
+Why it is immoral to be of possession of something and fully utilizing it for the benefit of life and others
+
+The world stage of our biggest problems and how to solve them
+
+Radical minimalism and against inheritance
+
+The consciousness guide to the galaxy - what you as a unique being with an experience to do with your life
+
+Palantir for all
+
+The end of nation states
+
+
+
+
+
+
 
 
 
@@ -435,11 +600,11 @@ what if you actually improved something through acts of speculation - and not me
 
 > "In essentials, unity; in non-essentials, liberty; in all things, charity." - [Saint Augustine](https://www.goodreads.com/quotes/332507-in-essentials-unity-in-non-essentials-liberty-in-all-things-charity)
 
-> "" - [Saint Augustine]()
 
-> "" - [Saint Augustine]()
+> "Unfortunately, no one can be told what the *~~Matrix~~* **Global Brain** is. You have to see it for yourself." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324246&ref_=ext_shr_lnk), probably
 
-> "" - [Saint Augustine]()
+
+
 
 
 
@@ -2347,9 +2512,6 @@ I have a dream - section about what humanity could be
 The infinite game by definition is one that is not self-terminating - how do we steer civilization?
 
 In the end, it is all about love and consciousness
-
-> "The best way, perhaps the only way, to change others is to become an example." - [Naval](https://x.com/NavalismHQ/status/1931184841397252221)
-
 
 "The Next Buddha will be a Sangha" – Thich Nhat Hanh
 https://en.wikipedia.org/wiki/Sangha
@@ -6944,7 +7106,15 @@ on self models and the cognitive light cone
 
 
 
-> "" - [Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms, by Michael Levin]()
+> "... there are no dumb parts in biology, because it is cognition all the way down. Biology does not obey the dualistic, binary distinctions that have held back both mechanist and organicist thought for centuries. We show how life has agency all the way down, and every level of organization not only accommodates but actively exploits the agential nature of its components... we cannot engineer living materials the way we have been engineering passive matter for thousands of years – living matter has agendas, and competencies. That leads to the good news: instead of the impossible task of micromanaging cells and tissues, we can exploit and extend their innate capabilities, making use of the same co-creative strategies that underlie the multiscale competency architecture of life.
+>
+> ... Life functions as a multiscale competency architecture which is not merely nested structurally into different scales, but has active agendas at each level; their autonomy is harnessed and integrated toward the goals of larger levels of which the parts have no knowledge by bending the energy landscape of parts to serve a collective.
+>
+> ... Information processed by the electrical network of neurons is widely understood as providing the “cognitive glue” – mechanisms and policies of interactions between cells that allow animals to have goals, preferences, and memories that do not belong to any of the individual cells. In other words, it enables coordination and alignment of components toward a whole that operates in new problem spaces... Crucially, bioelectric networks are not just a communication medium for cells: much as they do in both cognitive science and computer architectures, they establish an excitable medium within which instructive information patterns can interact and compete for the opportunity to express as phenotypic outputs... This battle of anatomical models of the future (morphogenetic goal states) can be seen as a communication and signaling process between groups of cells, or, as competition between patterns encoding goal states within a medium." - [Machines All the Way Up and Cognition All the Way Down: Updating the machine metaphor in biology, by Michael Levin & Richard Watson](https://osf.io/preprints/osf/jwhr7_v2)
+
+
+
+
 
 
 

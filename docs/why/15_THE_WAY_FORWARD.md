@@ -391,6 +391,17 @@ https://en.wikipedia.org/wiki/Mortality_salience
 
 
 
+How should we understand “meaning” in biological systems?
+I think it’s the same in all systems (biological or not), but biology is what we tend to call the study of bodies of systems that are good at generating their own meaning and making it easy for us (as biological systems) to see that they’ve done so.  I suspect it has something to do with structuring one’s experiences, memories, etc. in a way that provides long-range order. In other words, meaning is a kind of high-order generalization, interpretation, saliency, etc. that extends far from the immediate utility or applicability of a mental structure. It’s about extending the cognitive light cone of a thought so that its relevance to time and place far beyond the current, practical context becomes established.
+https://thoughtforms.life/qa-from-the-internet-and-recent-presentations-3/#:~:text=How%20should%20we,paper%20on%20it.
+
+
+
+> "" - [How Do Living Systems Create Meaning? by Chris Fields & Michael Levin](https://www.mdpi.com/2409-9287/5/4/36)
+
+
+
+
 meaning is not objective or subjective - it is transjective
 REQUIRED VIEWING: - or simply suggested further viewing - especially the first 2 parts
 HEALING FROM THE MEANING CRISIS (6 parts) - Brendan Graham Dempsey
@@ -710,6 +721,13 @@ https://www.youtube.com/watch?v=uysmjkuP58U
 > "Meaning is the way that an organism, or let's say more broadly, any entity in its context... leverages the mutual information linking it to that environment in such a way as causality bears on its well-being, its continued persistence, its growth, and its flourishing." - [Brendan Graham Dempsey](https://x.com/jim_rutt/status/1849803716729176225)
 
 
+
+<details><summary>Further Reading/Listening</summary><p>
+
+THE EVOLUTION OF MEANING, by Brendan Graham Dempsey
+https://www.youtube.com/playlist?list=PLa_4sU5_wQrlgQ12uOGtS5c2769fCrfEq
+
+</p></details>
 
 
 
@@ -1271,6 +1289,15 @@ something beyond our cells, the invidivual or the genome with all of its rivalro
 <img src="/img/evarrow_gb_eye.jpg"/>
 
 > "Directionality of evolution: Variation is commonly conceived as random or blind. That means that it has no systematic preference for the direction in which it goes, and that it is unpredictable. However, selection creates a direction for evolution by eliminating all variations that reduce fitness, while multiplying the ones that increase fitness. Thus, the overall direction of evolution is towards increasing fitness. That implies increasing alignment and mutual adaptation of the different co-evolving systems." - [Glossary of Concepts, Human Energy](https://www.humanenergy.io/glossary)
+
+
+
+
+
+
+
+> "Evolutionary processes have shaped humanity and will determine its future. Humanity can ignore the evolutionary consequences of its actions, but evolution will not. Evolutionary processes determine what it is that can survive and thrive into the future. Values, ethical principles, perspectives and political systems that are not aligned with these processes will be temporary. It is true that the ways in which we express our theories of evolution will be influenced by culture. Our theories will always be maps, never territories. And our evolutionary theories will always be susceptible to being appropriated and shaped by particular interests for ideological purposes. But the evolutionary processes-in-themselves are not culture-bound. And our best maps of these processes will be our best guides to what will survive into the future. Evolution has been and will continue to be ‘the great marginalizer’. In the face of evolution, all perspectives, all values and all actions are not equal. Some will survive and flourish, others will not." - [The Future of Life and What it Means for Humanity, by John E. Stewart](https://sci-hub.se/10.1007/s10699-010-9222-7)
+
 
 
 

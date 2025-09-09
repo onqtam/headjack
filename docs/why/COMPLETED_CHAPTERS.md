@@ -203,6 +203,9 @@ Cosmos (1980) by Carl Sagan
 https://www.imdb.com/title/tt0081846/
 https://en.wikipedia.org/wiki/Cosmos:_A_Personal_Voyage
 
+THE EVOLUTION OF MEANING, by Brendan Graham Dempsey
+https://www.youtube.com/playlist?list=PLa_4sU5_wQrlgQ12uOGtS5c2769fCrfEq
+
 Koyaanisqatsi (1982)
 https://www.imdb.com/title/tt0085809/
 

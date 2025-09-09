@@ -343,6 +343,8 @@ https://en.wikipedia.org/wiki/Creative_destruction#Other_early_usage
 ██████████████████████████████████████████████████████████████████
 
 
+> "From each according to his ability, to each according to his ability to effectively deploy capital to achieve real economic growth." - [George Hotz](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html)
+
 
 > "An effective accounting of the economy and politics would be a revolutionary act." - [Samo Burja](https://youtu.be/A3Zd2K0BJoI?t=7136)
 
@@ -485,7 +487,7 @@ we waste so much government scientific money in the quest to appear like we're n
 
 
 
-> "The best law is no law." - [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
+> "The best law is no law." - [Based Beff Jezos](https://twitter.com/BasedBeffJezos/status/1776786713643553234)
 
 > "Complexity catastrophes help explain why bureaucracy seems to grow with the tenacity of weeds. Many companies go through bureaucracy-clearing exercises only to find it has sprung back a few years later. No one ever sits down to deliberately design a bureaucratic muddle. Instead, bureaucracy springs up as people just try to optimize their local patch of the network: finance is just trying to ensure that the numbers add up, legal wants to keep us out of jail, and marketing is trying to promote the brand. The problem isn't dumb people or evil intentions. Rather, network growth creates interdependencies, interdependencies create conflicting constraints, and conflicting constraints create slow decision making and, ultimately, bureaucratic gridlock." - [Eric D. Beinhocker](https://www.goodreads.com/quotes/10012188-complexity-catastrophes-help-explain-why-bureaucracy-seems-to-grow-with)
 

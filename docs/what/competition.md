@@ -414,8 +414,9 @@ A list of problems with the contenders in the decentralized identity/media space
 
 <!-- What you don't want is for these identifiers to be fractured between many platforms with different standards & formats. -->
 
-there is no spoon - matrix quote - there is no competition
-TODO INTERNET
+> "There is no *~~spoon~~* **competition**" - [Spoon boy, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324252&ref_=ext_shr_lnk), probably
+
+
 
 > "We have no serious competition." - [Elon Musk](https://twitter.com/Teslaconomics/status/1756477051463434505)
 

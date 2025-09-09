@@ -133,7 +133,6 @@ Minimum Viable Infinity
 The Next Game
 The Egregore
 The Implementation of Humane Technology - what up Tristan
-Required Reading
 We are a Strange Loop
 Connecting the world
     without the addiction and extraction
@@ -242,7 +241,7 @@ This Book Can be Read in 2-3 Weeks
 In the depths of self-organization
 Calculemus
 Syntropy
-    A tendency towards complexity, structure, order, organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy
+    A tendency towards complexity, structure, order, and organization of ever more advantageous and orderly patterns. Originally coined as a synonym for negentropy (the opposite of entropy)
     often contrasted with the concept of entropy
 Slaying Wetiko/Moloch
 The Biggest Picture
@@ -324,7 +323,7 @@ Required Reading
 
 
 
-
+The Final Master Plan - how to actually deliver sustainable abundance for all
 
 BUT WAIT - THERE'S MORE!
 
@@ -346,13 +345,12 @@ Ground Perspective - ala news
 The super egoic structure
 Collectivism in the 21st century
     Every collective is playing a multiplayer game and how the rules evolve should be of primary concern.
-The final solution
-    Journo bait - to see which journos blatantly / knowingly misrepresent this book as supporting that monster - show yourselves! TAKE THE BAIT!
 Theory of everything - stephan bodzin
 The infinite game
 Emergence is eating the world
 The Organizational Imperative - from the categorical
 Thermodynamic Imperative - from the categorical
+    > "Thermodynamics is basically my religion at this point." - [Based Beff Jezos](https://x.com/BasedBeffJezos/status/1964944930285265164)
 Beyond Markets
 In Search of Better Questions
 The Selfless Meme - from the selfish gene
@@ -412,7 +410,7 @@ HumanityOS
 Justified Relevance
     the self-legitimizing justification memeplex
 Greater Than 1
-    [0 to 1]() is not enough if you want to go viral - you need an R-naught greater than 1
+    [0 to 1](https://en.wikipedia.org/wiki/Zero_to_One) is not enough if you want to go viral - you need an R-naught greater than 1
     this is what you'll do to at least 1 of your friends after you're done reading this - opened eyes from clockwork orange
 
 mention the business plan search space for a 500-page book(s) from the book the origin of wealth
@@ -420,7 +418,7 @@ mention the business plan search space for a 500-page book(s) from the book the 
 Driving sociopathy at scale to extinction
 Closing the sociopathic niche
 Real progressivism/progress
-Collectives from first principles
+Civilization/Collectives from first principles
 Higher Power
 Agora
     a central public space in ancient Greek city-states. The literal meaning of the word "agora" is "gathering place" or "assembly". The agora was the center of the athletic, artistic, business, social, spiritual, and political life in the city. The Ancient Agora of Athens is the best-known example.
@@ -501,6 +499,7 @@ Wikimeaning as a service
 Disney as a service - participating in the programming of the culture for the next generation
 Revelation as a Service
 Comparison as a service
+Equality (before the algorithm) as a service
 
 IRS as a Service
 Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity

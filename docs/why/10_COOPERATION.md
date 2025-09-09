@@ -280,9 +280,6 @@ Love is the one thing that we’re capable of perceiving that transcends dimensi
 > "We talk about civilization as though it's a static state. There are no civilized people yet, it's a process that's constantly going on... As long as you have war, police, prisons, crime, you are in the early stages of civilization." - [Jacque Fresco](https://www.azquotes.com/quote/728456)
 
 
-<details><summary>Required Reading/Listening</summary><p>
-
-</p></details>
 
 ██████████████████████████████████████████████████████████████████
 # SECTION: Fairness & justice
@@ -678,6 +675,8 @@ solving a free rider problem could entail first solving a coordination problem a
 > In a coordination problem, each person wants to coordinate with others but there can be considerable disagreement about how to coordinate. For example, "many Ghanaians would prefer to rely on a common indigenous national language but differ as to which it should be" (Laitin 1994, p. 626). A given coordination might be very bad for a person, but she still might choose to participate because this undesirable coordination is better than the even worse possibility of non participation. For simplicity, we generally assume that the only issue is whether to participate; the issue of how people fight over how to coordinate is considered later." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 
 pluralistic ignorance - wrong beliefs about the beliefs of others and wrong perceptions of how widespread a belief is, possible due to the absence of common knowledge
+
+https://en.wikipedia.org/wiki/Pluralistic_ignorance
 
 > "Social psychologists developed the concept of "pluralistic ignorance," which refers to a situation in which people hold very incorrect beliefs about the beliefs of others, and is in this sense the absence of common knowledge. To take one of many examples, in a 1972 survey 15 percent of white Americans favored racial segregation, but 72 percent believed that a majority of the whites in their area favored segregation (O'Gorman 1979; see also Shamir 1993). Most see pluralistic ignorance as a distortion at the individual level (e.g., Mullen and Hu 1988; see O'Gorman 1986): a person reduces dissonance by thinking that her own view is the majority view, for example. Recently it has been applied to the Soviet Union and eastern European states, the idea being that dissatisfaction was widespread but that few people knew how widespread it was. These accounts focus on limited communication: criminal penalties for self-expression, a government-controlled press, and a lack of social ties. "The reduction of pluralistic ignorance," due to modern communication technology and increased foreign contacts, "led ... to a political wave of tremendous power" (Coser 1990, p. 182; see also Kuran 1991) and the collapse of these regimes." - [Rational Ritual, by Michael Suk-Young Chwe](https://www.goodreads.com/en/book/show/1116212)
 
