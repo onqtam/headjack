@@ -346,6 +346,8 @@ The super egoic structure
 Collectivism in the 21st century
     Every collective is playing a multiplayer game and how the rules evolve should be of primary concern.
 Theory of everything - stephan bodzin
+Solving the succession problem - the headless god
+Rules Over Rulers
 The infinite game
 Emergence is eating the world
 The Organizational Imperative - from the categorical

@@ -860,7 +860,7 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-
+> "So democracies can’t go to shit, right? Wrong. They just go to shit more slowly and quietly. There’s no incentive for democratic governments to provide objectively good policies (as opposed to good-sounding policies), because voters lack the expertise to assess the complex effects of any particular policy on any desired outcome. This is because 1) it is [extremely hard (if not impossible)](https://www.conspicuouscognition.com/p/in-politics-the-truth-is-not-self) to acquire that expertise, 2) voters are [largely ignorant](https://www.amazon.com/Democracy-Realists-Elections-Responsive-Government/dp/0691178240) and [biased by tribal allegiances](https://osf.io/preprints/psyarxiv/scmhe_v1), and 3) each citizen’s vote has essentially zero impact on political outcomes, giving them [essentially zero incentive](https://www.amazon.com/Myth-Rational-Voter-Democracies-Policies/dp/0691138737) to acquire that expertise or overcome those biases. Therefore, democratic governments [gradually accumulate](https://www.nature.com/articles/s41586-021-03380-y) good-sounding (but ultimately bad) policies, grow [increasingly sclerotic and inefficient](https://www.amazon.com/Rise-Decline-Nations-Stagflation-Rigidities/dp/0300030797), and go to shit... So if you care about something, make sure you build a good, strong incentive to keep it from going to shit. Because if you don’t, that’s exactly where it will go." - [Why Things Go to Shit, by David Pinsof](https://www.everythingisbullshit.blog/p/why-things-go-to-shit)
 
 
 
