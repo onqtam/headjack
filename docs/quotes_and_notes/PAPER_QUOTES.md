@@ -1163,13 +1163,9 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 >
 > ... the largely anonymous career civil servants at the Commission will play ever greater roles in determining Europe’s political and economic future. But the Commission’s power is ultimately distinct from its ability to wield it. Without a reform to make it possible to be piloted by a live player, the Commission could continue to indefinitely centralize power in Europe even as it fails to solve the fundamental problems facing Europe in energy, demographics, and security. The unwanted result would be a far more coherent European Union that nevertheless matters far less to the future of the rest of the world." - [The Real Decision-Makers at the European Commission, Bismark Analysis](https://brief.bismarckanalysis.com/p/the-real-decision-makers-at-the-european)
 
-> "" - [, Bismark Analysis]()
 
-> "" - [, Bismark Analysis]()
 
-> "" - [, Bismark Analysis]()
-
-> "" - [, Bismark Analysis]()
+> "" - [The IMF’s Role As a Foreign Policy Tool, Bismark Analysis](https://brief.bismarckanalysis.com/p/the-imfs-role-as-a-foreign-policy)
 
 > "" - [, Bismark Analysis]()
 

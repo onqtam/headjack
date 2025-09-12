@@ -1,5 +1,10 @@
 
+https://sci-hub.se/10.1016/j.tics.2018.08.008
+Being a Beast Machine: The Somatic Basis of Selfhood
 
+
+
+> "We need to update “put yourself in their shoes” to “put yourself in their algorithm”" - [Liv Boeree](https://x.com/Liv_Boeree/status/1956468468905070783)
 
 
 Reputationalizing expertise instead of simply monetizing
@@ -8,6 +13,8 @@ Giving information mass/weight based on who stands behind it
 
 The force of liberation will blow the world to pieces - its too strong of a current for the wire
 Alan watts
+
+we need to reward those whose opinions we value the most to express their most relevant and important opinions and make them as easily available as possible all while encouraging/preserving/upholding/enforcing skin in the game and accountability
 
 In it for the long haul / the tech/ideology
 
@@ -7110,11 +7117,24 @@ on self models and the cognitive light cone
 >
 > ... Life functions as a multiscale competency architecture which is not merely nested structurally into different scales, but has active agendas at each level; their autonomy is harnessed and integrated toward the goals of larger levels of which the parts have no knowledge by bending the energy landscape of parts to serve a collective.
 >
-> ... Information processed by the electrical network of neurons is widely understood as providing the “cognitive glue” – mechanisms and policies of interactions between cells that allow animals to have goals, preferences, and memories that do not belong to any of the individual cells. In other words, it enables coordination and alignment of components toward a whole that operates in new problem spaces... Crucially, bioelectric networks are not just a communication medium for cells: much as they do in both cognitive science and computer architectures, they establish an excitable medium within which instructive information patterns can interact and compete for the opportunity to express as phenotypic outputs... This battle of anatomical models of the future (morphogenetic goal states) can be seen as a communication and signaling process between groups of cells, or, as competition between patterns encoding goal states within a medium." - [Machines All the Way Up and Cognition All the Way Down: Updating the machine metaphor in biology, by Michael Levin & Richard Watson](https://osf.io/preprints/osf/jwhr7_v2)
+> ... Information processed by the electrical network of neurons is widely understood as providing the “cognitive glue” – mechanisms and policies of interactions between cells that allow animals to have goals, preferences, and memories that do not belong to any of the individual cells. In other words, it enables coordination and alignment of components toward a whole that operates in new problem spaces... Crucially, bioelectric networks are not just a communication medium for cells: much as they do in both cognitive science and computer architectures, they establish an excitable medium within which instructive information patterns can interact and compete for the opportunity to express as phenotypic outputs... This battle of anatomical models of the future (morphogenetic goal states) can be seen as a communication and signaling process between groups of cells, or, as competition between patterns encoding goal states within a medium.
+>
+> ... The creative interpretation of physically encoded information is a key part of the cognition all the way down formalism, unifying the plasticity of brain-based behaviors in 3D space with that of generic cell groups in anatomical space in developmental contexts. In all such cases, living material is simultaneously solving problems at several levels of organization and scale, which requires higher levels to distort the option landscape for their parts so that active agents at the lower scale are aligned and act toward setpoints in the higher level’s space. The relationship between one level and the next is precisely the kind of compression/decompression that involves a degree of context-sensitive confabulation, and a degree of locally-mechanistic necessity." - [Machines All the Way Up and Cognition All the Way Down: Updating the machine metaphor in biology, by Michael Levin & Richard Watson](https://osf.io/preprints/osf/jwhr7_v2)
+
+
+
+> "Living systems exhibit a range of fundamental characteristics: they are active, self-referential, self-modifying systems... There are broad implications for biology, cognitive science and social sciences, because self-reference and self-modification are not problems to be avoided but core features of living systems that must be modelled to understand life’s open-ended creativity." - [Open Questions about Time and Self-reference in Living Systems]()
+TODO INTERNET
+
+
+“Perhaps the first lesson to be learned from biology is that there are lessons to be learned from biology”
+— Robert Rosen, Essays on Life Itself [1, p.275]
+[1] Robert Rosen. Essays on Life Itself. Columbia University Press, 2000.
 
 
 
 
+> "Musk now controls that which mediates attention, encodes memory, establishes relevance, and shapes emotion for a substantial proportion of the human biological substrate." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1965881866508275784)
 
 
 
