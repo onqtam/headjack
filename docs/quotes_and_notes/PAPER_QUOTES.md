@@ -1165,12 +1165,12 @@ Speaking socially, Haywood observed that often such zone initiatives were led by
 
 
 
-> "" - [The IMF’s Role As a Foreign Policy Tool, Bismark Analysis](https://brief.bismarckanalysis.com/p/the-imfs-role-as-a-foreign-policy)
 
-> "" - [, Bismark Analysis]()
-
-> "" - [, Bismark Analysis]()
-
+> "BlackRock and the other universal owners are part of a channel for the U.S. government to exert influence over its largest public corporations. This influence extends beyond corporate policy choices and can extend even to their personnel selections, as shown by BlackRock’s recent pattern of voting against the reappointment of certain executives to company boards where BlackRock perceives that the executives sit on too many other boards. None of the targeted executives appear to have any serious political affiliations, but the episode serves again as a demonstration of the power of the universal owners and BlackRock in particular.
+>
+> With the development of deeper, more liquid private markets for employee stock, however, live players who have built corporate empires have other options if they wish to avoid the U.S. government-aligned influence of BlackRock. The U.S. has long been perceived as one of the best places for founders to list a company and retain considerable control over its management, thanks to its acceptance of dual-class share structures and the perceived passivity of key shareholders, especially the universal owners.
+>
+> As BlackRock’s activism grows in scope, however, perceptions can quickly change. In recent years, while Uber and Airbnb were the most notable examples of a wider trend towards growing companies staying private for longer, the growth of the activist universal owners offers a reason for founders to avoid public markets altogether and simply keep their companies private. If this happens, over the long-term corporate America could slowly bifurcate into a genuinely private sector and another that, while nominally private and indeed practically so most of the time, can be quickly and quietly cajoled in the boardroom to follow the priorities of the U.S. federal government." - [BlackRock’s Close Relationship with the U.S. Government, Bismark Analysis](https://brief.bismarckanalysis.com/p/blackrocks-close-relationship-with)
 
 
 

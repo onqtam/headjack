@@ -478,6 +478,8 @@ attentional architecture
 top10 channels
 - Ashley's The New Enlightenment - CRIMINALLY UNDERAPPRECIATED
 https://www.youtube.com/@thenewenlightenmentwithash8465
+her series on economic mythology and maybe this video:
+Why don’t investigative journalists help with bad collective decisions？ [2nTlgebpBsQ]
 
 The 14 minute animation in top10
 IN-SHADOW - A Modern Odyssey - Animated Short Film

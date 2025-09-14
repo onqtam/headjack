@@ -301,7 +301,11 @@ Participatory Intelligent Design
 Memetic Supremacy
     The answers aren't in [Xi Jinping Thought](https://en.wikipedia.org/wiki/Xi_Jinping_Thought) or [The Art of the Deal](https://en.wikipedia.org/wiki/The_Art_of_the_Deal). The current world "leaders" are merely players dancing to the tune of the incentives of a centuries old paradigm they've inherited / found themselves in. They don't have a real vision, understanding & plan for what their countries and our whole civilization should do. The highest form of leadership is improving the system for everyone more than anyone - that’s the definition
 The open source participatory/democratic GCP (global communist party)
-Delivering the Open Society
+Open (Source) Society
+Industrial Society and Its (BRIGHT) Future - ala ted kazynsky's unabomber manifesto
+Rules Without Rulers
+    https://www.youtube.com/watch?v=rStL7niR7gs
+    
 “The highest leverage point”
 The Global Community
 Inevitability

@@ -397,7 +397,6 @@ https://thoughtforms.life/qa-from-the-internet-and-recent-presentations-3/#:~:te
 
 
 
-> "" - [How Do Living Systems Create Meaning? by Chris Fields & Michael Levin](https://www.mdpi.com/2409-9287/5/4/36)
 
 
 

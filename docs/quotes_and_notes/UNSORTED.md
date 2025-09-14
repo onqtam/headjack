@@ -4,6 +4,19 @@ Being a Beast Machine: The Somatic Basis of Selfhood
 
 
 
+
+
+> "4. How Is Attention Switched between Objects?
+>
+> 4.1. Active Inference Requires Attention
+>
+> Active inference, at its most basic, is a trade-off between acting on the environment to meet expectations and learning from the environment to modify expectations. Even with only a single stimulus, and hence a single component for which environmental variational free energy (VFE) is measured, the importance—encoded in the theory as Bayesian precision—placed on input versus expected values affects the balance between expectation-meeting and expectation-updating. Action on the environment can, moreover, include both exploitative actions that meet current expectations and exploratory actions that increase the probability of learning. Enacting these distinctions requires a prioritization or attention system. Spreading VFE across multiple distinguishable stimuli increases the need for attention to allocate exploitative, exploratory, or passive learning resources. Even in E. coli, competition among chemoreceptors for control of flagellar motion implements a rudimentary form of attention.
+>
+> ... 5.2. Experiential Memories and Learning
+>
+> Learning is ubiquitous in animals. It has also been demonstrated in paramecia and in slime molds such as physarum, and possibly in plants; hence learning does not require neurons, let alone networks of neurons. Learning can adjust the salience of stimuli, modify the responses to stimuli, and at least in birds and mammals, introduce novel categories and hence induce the construction of novel RFs. While in many cases learning requires multiple exposures or extended experience with a stimulus, birds and mammals at least are also capable of one-shot learning. Episodic memories in humans, for example, are all results of one-shot learning: each records a single, specific event." - [How Do Living Systems Create Meaning? by Chris Fields & Michael Levin](https://www.mdpi.com/2409-9287/5/4/36)
+
+
 > "We need to update “put yourself in their shoes” to “put yourself in their algorithm”" - [Liv Boeree](https://x.com/Liv_Boeree/status/1956468468905070783)
 
 
