@@ -313,3 +313,8 @@ maybe use this as an optional expandable section? or not...
 >
 > Apparently, the opportunities to spur development through conventional profitable bank lending were exhausted by the 1960s. The reforms Robert McNamara introduced during this period also failed to spur development, instead setting the precedent that the World Bank could invent new metrics like poverty reduction, public health access, or most recently climate change mitigation to justify its continued existence. The result is further divergence from industrial development and funds being spent as subsidies or aid. But ultimately, these are less failures of ideology than adaptations of necessity in the face of institutional incapacity to meet a stated mission. This means the World Bank’s profile of activities is unlikely to change in the near future, although it may claim it has pivoted to climate change in addition to existing fashionable goals like ending poverty. In reality, it will simply continue long-running institutional underperformance, acting as a subsidy for Third World governments, until a live player once again thoroughly reforms it." - [The World Bank is Not Driving Economic Growth, Bismark Analysis](https://brief.bismarckanalysis.com/p/the-world-bank-is-not-driving-economic)
 
+
+“Perhaps the first lesson to be learned from biology is that there are lessons to be learned from biology”
+— Robert Rosen, Essays on Life Itself [1, p.275]
+[1] Robert Rosen. Essays on Life Itself. Columbia University Press, 2000.
+

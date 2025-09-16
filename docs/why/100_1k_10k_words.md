@@ -303,6 +303,7 @@ Memetic Supremacy
 The open source participatory/democratic GCP (global communist party)
 Open (Source) Society
 Industrial Society and Its (BRIGHT) Future - ala ted kazynsky's unabomber manifesto
+Human Lives Matter - how to keep humanity relevant and vibrant
 Rules Without Rulers
     https://www.youtube.com/watch?v=rStL7niR7gs
     

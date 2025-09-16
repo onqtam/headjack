@@ -4,6 +4,10 @@
 # SECTION: Argument maps / Debate Maps
 ██████████████████████████████████████████████████████████████████
 
+not sure if this belongs here
+> "Modern forms of government are largely based on the idea that “the people” should be empowered to solve their own problems. While this ideal remains true, our civic processes and technologies of government have not really changed for hundreds of years. While the public sphere has gone digital, the practices of civic life within our communities have remained largely stuck in the 18th century, with campaigns, town halls, voting, and representatives sent to distant centers of power where we are told that the “real” conversations happen. There is no clarity about how to transform this situation and to reclaim community life as seat of decision making power. What does it look like to have conversations coherent enough to solve chronic community-level problems?" - [What is likely to be the future of civic life? EGP.Community](https://egp.community/)
+
+
 https://en.wikipedia.org/wiki/Issue-based_information_system
 
 > "'Debate-checking' is the logical end of 'fact-checking.' If you are 'proving' one fact/premise/argument at a time, it's essentially cherry-picking. If you are searching for truth, it needs to be conducted in a manner that's maximizing the context of the inquiry space, so relevant arguments, counterarguments, evidence, etc. can be assessed holistically. Once you have done the work of debate mapping, it's very easy to see how one piece of knowledge can completely change the likely veracity and relevance of another piece of knowledge." - [Jamie Joyce](https://twitter.com/JustJamieJoyce/status/1775303902814220342)

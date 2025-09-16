@@ -1390,7 +1390,12 @@ TODO: fix the exact time for the above link
 # SECTION: God & Religion
 ██████████████████████████████████████████████████████████████████
 
+reread and think about this - how to define religion and how close is it to ideology?
+https://selfawarepatterns.com/2020/07/20/the-superhuman-order-definition-of-religion/
+
 [Secular religion](https://en.wikipedia.org/wiki/Secular_religion)
+also:
+https://en.wikipedia.org/wiki/Religious_naturalism
 
 > "Religion will not regain its old power until it can face change in the same spirit as does science. Its principles may be eternal, but the expression of those principles requires continual development." - [Alfred North Whitehead](https://www.goodreads.com/quotes/7664805-religion-will-not-regain-its-old-power-until-it-can)
 
