@@ -404,9 +404,6 @@ top 10 to watch
 Rethinking Humanity - a Film by RethinkX
 https://www.youtube.com/watch?v=r71yNnfY6ss
 
-The Rules for Rulers
-https://www.youtube.com/watch?v=rStL7niR7gs
-
 What Game Theory Reveals About Life, The Universe, and Everything
 https://www.youtube.com/watch?v=mScpHTIi-kM
 

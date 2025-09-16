@@ -100,6 +100,38 @@ Traits of property rights:
 
 
 
+Problems with Capitalism and a few (simplistic) suggestions how to fix them
+
+> "**The Rich get Richer**
+>
+> Classic: You need money to make money. Money has this delightfully biblical tendency to clump together—the Matthew Effect, where “to everyone that hath shall be given”. This is due to compound interest and the fact that capital returns tend to outpace economic growth (Thomas Piketty crunched the numbers). How can we get rid of the biblical black hole energy of capital? Taxes, right? If it weren’t for this neat trick with lawyers and boats that billionaires and corporations have discovered: If a country raises taxes, they simply move to the nearest tax haven. Plus, let's be honest, the track record of government bureaucrats at spending money efficiently isn’t exactly great... Capital is pure optionality. In a fast-changing world, the dominant strategy, given the Matthew Effect, is to continually accumulate optionality at an increasing rate rather than acting (spending).
+>
+> **Externalities: The Collateral Damage of Capitalism**
+>
+> Game theory time: If money can buy everything, and multiplies like gremlins, the winning strategy is maxing out wealth. This principle operates at every level. Governments maximize GDP, investors ROI, companies shareholder returns. Enter externalities. The quickest way to make money? Dump costs in areas where the market does not recognize them... Regulations could fix the eyesight of markets, in theory, through carbon offsets, pollution limits, etc., but nations are caught in a prisoner's dilemma: The first to tax carbon gets economically kneecapped, so stalemate. And just a few brave nations taxing externalities wouldn’t help, since international corporations would just move. Even deeper, how to measure externalities in the first place is a key part of the problem.
+>
+> **The Measurement Trap**
+>
+> Life's a messy fractal, not a tidy spreadsheet. We can measure the carbon a tree absorbs, but not all the ways it sustains its ecology. Qualitative aspects like biodiversity, mental health, or social trust are invisible to the paradigm of quantification. Welcome to the "measurement trap." By focusing only on what can be measured, we neglect what truly matters. And then humans proceed to hack whatever metric is defined into oblivion (Goodhart’s law). This is what capitalism is doing with profit, at the expense of deeper notions of value. Forests become timber reserves, education becomes test scores, and healthcare becomes a series of billable procedures. Second-and third-order consequences don’t show up in profit statements. Markets are myopic to the slow erosion of ecosystems and the breakdown of social cohesion. So, quarterly wins rack up while the long game crumbles...
+>
+> **Value-driven Companies**
+>
+> Remember when startups wanted to *make the world a better place*? Facebook was going to “bring the world closer together”, and boy did they deliver! Just not in the way anyone hoped... We can’t afford to be naive any longer. We know the plot twist: Profits hijack the wheel, turning idealism towers into ad-click dopamine sweatshops. Founders became zillionaires while their users' attention spans turned into confetti. This movie gets endless sequels in our current system: Startups grow from idealistic dreamers into extractive corporations. Live players eventually become power players cordycepted by Moloch if they care enough about winning. Machiavellian scheming is not even required for that outcome. The dominant strategy of any corp (legally required to maximize profits) is to cut corners and trees. *We need to prevent blind profit maximization at the onset of a company*.
+>
+> **Encoding Purpose**
+>
+> Imagine if missions weren't vaporware? What if “don't be evil” were enforceable, not [erasable](https://www.independent.co.uk/tech/google-dont-be-evil-code-conduct-removed-alphabet-a8361276.html)? We can hard-code the mission of a company into its legal DNA... This flips the foundational logic of a company: Instead of the mission being a means to make money, making money becomes the means to achieve a mission. Importantly, companies should not attempt to quantify the mission in a single metric to avoid the measurement trap. More radically, it's possible to wire in a kill switch into the articles of association of a company: Once the mission is achieved, the corporation dissolves. This avoids zombie corps self-perpetuating beyond their expiry date like economic cancer...
+>
+> **Developmental Organizations**
+>
+> ... How can a sustainable company compete with profit maximizers? The answer is personal and cultural development. As people have more choices, they'll increasingly refuse to work for or buy from soul-sucking profit maxis. Plus, growth-minded leaders play the innite game better. Purpose should be combined with development: If all stakeholders (employees, suppliers, consumers) are embedded in growth loops, the company up-levels continuously... Sure, ethical companies can't exploit workers for 80-hour weeks or source materials from Evil Corp. But turns out, when people actually care about their job, they do better work. Wild concept, I know...
+>
+> ... **Limiting Externalities**
+>
+> Companies need to take ownership over any mess they cause environmentally and socially. It’s implausible that regulation with real teeth will get passed due to the economic competition between nations. And even if they did, the end boss of the measurement trap is still waiting... On the environmental side, companies need to take responsibility for their whole supply chain, including what happens to products after they are sold... While 4D chess with systemic effects of new technology is not obvious, many negative effects of internet services could have been predicted (and in fact have been, e.g. by [Jaron Lanier](https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism)). In addition to constraining the product design process to not cause obvious harm, second order consequences can be limited by “orange teaming”, a cross-functional team working together to model, test, and mitigate potential externalities. Basically, do a round of “how could this go horribly wrong?” before even starting to work on a new product." - [The Gradual Path to Fixing Capitalism, by Octopusyarn](https://octopusyarn.substack.com/p/the-gradual-path-to-fixing-capitalism)
+
+
+
 ██████████████████████████████████████████████████████████████████
 # SECTION: What is the economy
 ██████████████████████████████████████████████████████████████████
