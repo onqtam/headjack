@@ -553,13 +553,21 @@ we waste so much government scientific money in the quest to appear like we're n
 
 
 ██████████████████████████████████████████████████████████████████
-# SECTION: open source & win-win & sharing & the commons
+# SECTION: open source & win-win & sharing & the commons & synergy
 ██████████████████████████████████████████████████████████████████
 
 
 
 
-["I support it only if it's open source" should be a more common viewpoint, by Vitalik Buterin](https://vitalik.eth.limo/general/2025/08/12/onlyopensource.html)
+> "There's a very plausible case that open source accelerates progress: it makes it much easier for people to build on each other's innovations. There's also a very plausible case that requiring open source decelerates progress: it prevents people from using a large class of potential strategies to make money. But the most interesting consequences of open source as those that pull in directions unrelated to the "faster vs slower progress" axis:
+>
+> • **Open source improves equality of access**: if something is open source, it is naturally accessible to anyone in any country. For physical goods and services, people still have to pay marginal (per-item) costs, but in a large number of cases, prices of proprietary products are high because the fixed costs (eg. [NRE](https://en.wikipedia.org/wiki/Non-recurring_engineering)) of coming up with the thing are too high to invite more competition, and so the marginal costs are often quite cheap (eg. this is definitely true in pharma).
+>
+> • **Open source improves equality of access to being a producer**. One criticism of giving people free access to end products (even unquestionably good ones, like healthcare) is that it doesn't help those people gain skills and experience and climb up the global economy into prosperity, which is the best truly reliable guarantor of lasting access to high-quality life (see eg. Magatte Wade complaining about this regarding aid to Africa). Open source is not like this: it is fundamentally about enabling people anywhere in the world to be producers at all parts of the supply chain, and not just consumers.
+>
+> • **Open source improves verifiability**: if something is open source (which ideally should include not just the output, but also the process used to come up with it, make parameter choices, etc), then it's much easier to verify that what you're getting is what the provider claims you're getting, and for third parties to do research to identify hidden downsides.
+>
+> • **Open source removes opportunities for vendor lock-in**. If something is open source, then the manufacturer cannot render it useless by remotely removing features, or simply by going bankrupt (eg. see concerns about highly computerized/networked cars [no longer working if the manufacturer shuts down](https://restofworld.org/2024/ev-company-shutdowns-china/)). You always have the [right to repair](https://en.wikipedia.org/wiki/Right_to_repair) things yourself (or by asking a different provider)." - ["I support it only if it's open source" should be a more common viewpoint, by Vitalik Buterin](https://vitalik.eth.limo/general/2025/08/12/onlyopensource.html)
 
 
 
@@ -568,6 +576,10 @@ we waste so much government scientific money in the quest to appear like we're n
 
 
 > "Open source means each problem only has to be solved once." - [Naval](https://twitter.com/naval/status/1444366754650656770)
+
+
+
+In a proper synergetic/syntropic system for every X you give you would get a multiple of that in return
 
 
 

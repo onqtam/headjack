@@ -230,6 +230,13 @@ https://geohot.github.io/blog/jekyll/update/2022/04/16/vampire-attack-twitter.ht
 https://twitodon.com/
 
 
+Do a crowdsale of IDs with different tiers for different amounts in a centralized way and allow key binding and export the database from day 1
+Ability to rate and comment with a non-paid acc without a real id and your opinions could be easily filtered out - but you can buy an ID at any time to upgrade your account
+Participate in genesis and enshrine a message like satoshi did with the first block - but they will be filtered for illegal content and maybe profanity
+Adjust price curve every 24h based on sales
+
+
+
 - bootstrapping with ppl will be the hardest problem actually.
     - developer mindset vs network bootstrapping mindset & how to attract influencers.
 

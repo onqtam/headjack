@@ -2,6 +2,9 @@
 https://sci-hub.se/10.1016/j.tics.2018.08.008
 Being a Beast Machine: The Somatic Basis of Selfhood
 
+https://sci-hub.se/10.1111/j.1467-9973.2012.01749.x
+Metaphilosophical Criteria for Worldview Comparison Clément Vidal
+
 
 
 
@@ -1281,6 +1284,10 @@ Open source corporations - with transparent democracy for any type of reward
 Competing hive minds and how they merge gradually and adopt the better parts of others and how they might branch off and merge again later
 Competing egregores
 https://theosophy.wiki/en/Egregore
+> "Egregore: A causal closure over memetic catalysts, which drives its networked hosts to precipitate artifacts that further reinforce the autocatalytic growth of the network, thus increasingly cohering and scaling its global agency beyond the sum of its constituents' local agency." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1967696396255113243)
+
+
+> "We are good at identifying biases in others—and we do so with remarkable ease. But when it comes to ourselves (our own distortions and self-deceptive patterns) we are terrible at it. And this tells us something crucial: You are my best source of self-correction, and I am yours." - [John Vervaeke](https://x.com/DrJohnVervaeke/status/1967568899777679760)
 
 we can have AIs that do documentaries on any subject from multiple different points of view - perfect competition of partially overwrapping hiveminds
 

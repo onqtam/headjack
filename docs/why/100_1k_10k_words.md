@@ -295,6 +295,8 @@ The Comparison Operator - democratic
 WikiRedditOverflow
 Religion: the only truly scalable coordination & cooperation mechanism
 The World (Self) Model
+The Benevolent Mind Virus
+The ultimate product/service - the best of everything that’s worth a damn - meaning, community and prosperity
 Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
 Participatory Intelligent Design
