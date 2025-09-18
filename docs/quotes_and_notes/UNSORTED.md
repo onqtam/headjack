@@ -612,21 +612,17 @@ what if you actually improved something through acts of speculation - and not me
 
 
 > "We believe there is no inherent conflict between the techno-capital machine and the natural environment. Per-capita US carbon emissions are lower now than they were 100 years ago, even without nuclear power." - [The Techno-Optimist Manifesto, by Marc Andreessen](https://a16z.com/the-techno-optimist-manifesto/)
-
 ^^ This is what not thinking systemically and ignoring what's been exported to other countries looks like. This is the equivalent of not being able to think about even the second order effects, mercy on us all for the third order and everything after it...
 
 
 
 
-> "The greater the outward show; the greater the inner poverty." - [Jiddu Krishnamurti](https://x.com/IAmMarkManson/status/1943731792998965343)
 
 
 > "The truth is like a lion; you don’t have to defend it. Let it loose; it will defend itself." - [Saint Augustine](https://www.goodreads.com/quotes/798196-the-truth-is-like-a-lion-you-don-t-have-to)
 
-> "In essentials, unity; in non-essentials, liberty; in all things, charity." - [Saint Augustine](https://www.goodreads.com/quotes/332507-in-essentials-unity-in-non-essentials-liberty-in-all-things-charity)
 
 
-> "Unfortunately, no one can be told what the *~~Matrix~~* **Global Brain** is. You have to see it for yourself." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324246&ref_=ext_shr_lnk), probably
 
 
 
@@ -635,7 +631,7 @@ what if you actually improved something through acts of speculation - and not me
 
 > "Many of these environmental solutions are considered “uneconomic”, but that is because the economics have been figured only for the most short-term and close-in links of the chains. If we calculated the effects on the whole system, we’d see that the wages of environmental sin may be deadly, but the wages of environmental good sense can be enormous." - [Problems are Interconnected — And so are Solutions, by Donella Meadows](https://donellameadows.org/archives/problems-are-interconnected-and-so-are-solutions/#:~:text=Many%20of%20these,can%20be%20enormous.)
 
-> "Are there indeed thresholds below which ecological assaults are tolerable, above which they are not? If there are thresholds, where are they, and most important, what are the signs of their approach? How resilient, really, are ecosystems? At what point does destruction become irreversible? Is irreversibility an off- on state, or a continuum of increasing time to repair damage? To what extent are the small cogwheels of specific ecosystems tied to the great flywheels of geochemical cycles?" - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=Are%20there%20indeed,of%20geochemical%20cycles%3F)
+> "Are there indeed thresholds below which ecological assaults are tolerable, above which they are not? If there are thresholds, where are they, and most important, what are the signs of their approach? How resilient, really, are ecosystems? At what point does destruction become irreversible? Is irreversibility an off-on state, or a continuum of increasing time to repair damage? To what extent are the small cogwheels of specific ecosystems tied to the great flywheels of geochemical cycles?" - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=Are%20there%20indeed,of%20geochemical%20cycles%3F)
 
 > "Society forms itself around the things that are said over and over. Our society says things such as: economic growth is necessary and good; if someone profits from an activity, it ought to be done; nature only has value when it is exploited; we can’t afford the luxury of cleaning up pollution; new technologies will come along and solve all our problems." - [A Reaction From A Multitude, by Donella Meadows](https://donellameadows.org/archives/a-reaction-from-a-multitude/#:~:text=Society%20forms%20itself,all%20our%20problems.)
 
@@ -883,14 +879,12 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "So democracies can’t go to shit, right? Wrong. They just go to shit more slowly and quietly. There’s no incentive for democratic governments to provide objectively good policies (as opposed to good-sounding policies), because voters lack the expertise to assess the complex effects of any particular policy on any desired outcome. This is because 1) it is [extremely hard (if not impossible)](https://www.conspicuouscognition.com/p/in-politics-the-truth-is-not-self) to acquire that expertise, 2) voters are [largely ignorant](https://www.amazon.com/Democracy-Realists-Elections-Responsive-Government/dp/0691178240) and [biased by tribal allegiances](https://osf.io/preprints/psyarxiv/scmhe_v1), and 3) each citizen’s vote has essentially zero impact on political outcomes, giving them [essentially zero incentive](https://www.amazon.com/Myth-Rational-Voter-Democracies-Policies/dp/0691138737) to acquire that expertise or overcome those biases. Therefore, democratic governments [gradually accumulate](https://www.nature.com/articles/s41586-021-03380-y) good-sounding (but ultimately bad) policies, grow [increasingly sclerotic and inefficient](https://www.amazon.com/Rise-Decline-Nations-Stagflation-Rigidities/dp/0300030797), and go to shit... So if you care about something, make sure you build a good, strong incentive to keep it from going to shit. Because if you don’t, that’s exactly where it will go." - [Why Things Go to Shit, by David Pinsof](https://www.everythingisbullshit.blog/p/why-things-go-to-shit)
 
 
 
 
 
 
-> "Here’s the conundrum: No country has ever ended human deprivation without a growing economy. And no country has ever ended ecological degradation with one." - [Kate Raworth](https://www.goodreads.com/quotes/10396201-here-s-the-conundrum-no-country-has-ever-ended-human-deprivation)
 
 
 
@@ -906,11 +900,8 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
-> "The pupil who is never required to do what he cannot do, never does what he can do." - [John Stuart Mill](https://www.azquotes.com/quote/522244)
 
 > "Those who do not think that employment is systemic slavery are either blind or employed." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/6671002-those-who-do-not-think-that-employment-is-systemic-slavery)
-
-> "You need a story to displace a story." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1034173-you-need-a-story-to-displace-a-story)
 
 > "It takes a whole life to learn how to die." - [Seneca](https://www.goodreads.com/quotes/6979826-learning-how-to-live-takes-a-whole-life-and-which)
 
@@ -936,21 +927,11 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 > "Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny." - [Gandhi](https://www.goodreads.com/quotes/50584-your-beliefs-become-your-thoughts-your-thoughts-become-your-words)
 
-> "Medical science has made such tremendous progress that there is hardly a healthy human left." - [Aldous Huxley](https://www.goodreads.com/quotes/10445744-medical-science-has-made-such-tremendous-progress-that-there-is)
-
-> "If you want a picture of the future, imagine a boot stamping on a human face - forever" - [George Orwell](https://www.goodreads.com/quotes/9402-if-you-want-a-picture-of-the-future-imagine-a)
-
 > "The minimum IQ required to destroy the world drops by one point every 18 months." - [Eliezer Yudkowsky](https://geohot.github.io/blog/jekyll/update/2021/05/07/idiots-are-going-to-kill-me.html#:~:text=The%20minimum%20IQ%20required%20to%20destroy%20the%20world%20drops%20by%20one%20point%20every%2018%20months.)
 
 > "The highest use of capital is not to make more money, but to make money do more for the betterment of life." - [Henry Ford](https://www.azquotes.com/quote/99189)
 
 > "The people who can destroy a thing, they control it." - [Frank Herbert, Dune](https://www.goodreads.com/quotes/254149-the-people-who-can-destroy-a-thing-they-control-it)
-
-> "It may be dangerous to be America's enemy, but to be America's friend is fatal." - [Henry Kissinger](https://www.goodreads.com/quotes/11331139-it-may-be-dangerous-to-be-america-s-enemy-but-to)
-
-> "The idea is not to live forever, it is to create something that will." - [Andy Warhol](https://www.goodreads.com/quotes/570458-the-idea-is-not-to-live-forever-it-is-to)
-
-> "Religion is a culture of faith; science is a culture of doubt." - [Richard Feynman](https://www.goodreads.com/quotes/33583-religion-is-a-culture-of-faith-science-is-a-culture)
 
 > "Hope has two beautiful daughters - Anger and Courage. Anger at the way things are, and Courage to see that they do not remain as they are." - [St. Augustine](https://twitter.com/annajanejoyner/status/1376327205991628806)
 
@@ -966,13 +947,21 @@ https://www.noemamag.com/life-need-not-ever-end/
 
 
 
+
+> "Religion is a culture of faith; science is a culture of doubt." - [Richard Feynman](https://www.goodreads.com/quotes/33583-religion-is-a-culture-of-faith-science-is-a-culture)
+
 > "I would rather have questions that can't be answered than answers that can't be questioned." - [Richard Feynman](https://www.goodreads.com/quotes/1134331-i-would-rather-have-questions-that-can-t-be-answered-than)
 
 > "All our science, measured against reality, is primitive and childlike - and yet it is the most precious thing we have." - [Albert Einstein](https://www.pbs.org/wgbh/nova/einstein/wisd-nf.html#:~:text=all%20our%20science%2C%20measured%20against%20reality%2C%20is%20primitive%20and%20childlike%E2%80%94and%20yet%20it%20is%20the%20most%20precious%20thing%20we%20have.)
 
-> "The whole aim of practical politics is to keep the populace alarmed - and hence clamorous to be led to safety - by an endless series of hobgoblins, most of them imaginary." - [H.L. Mencken](https://www.goodreads.com/quotes/34764-the-whole-aim-of-practical-politics-is-to-keep-the)
+
+
 
 > "No man should escape our universities without knowing how little he knows." - [J. Robert Oppenheimer](https://www.goodreads.com/quotes/214009-no-man-should-escape-our-universities-without-knowing-how-little)
+
+> "You're only as young as the last time you changed your mind." - [Timothy Leary](https://www.goodreads.com/quotes/105281-you-re-only-as-young-as-the-last-time-you-changed)
+
+
 
 > "Don't wish it were easier. Wish you were better." - [Jim Rohn](https://www.goodreads.com/quotes/357856-don-t-wish-it-were-easier-wish-you-were-better)
 
@@ -982,49 +971,16 @@ https://www.noemamag.com/life-need-not-ever-end/
 > "Great minds discuss ideas. Average minds discuss events. Small minds discuss people." - [Eleanor Roosevelt](https://www.goodreads.com/quotes/11411940-great-minds-discuss-ideas-average-minds-discuss-events-small-minds)
 
 
-> "You're only as young as the last time you changed your mind." - [Timothy Leary](https://www.goodreads.com/quotes/105281-you-re-only-as-young-as-the-last-time-you-changed)
 
 > "People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice." - [Charles Bukowski](https://www.goodreads.com/quotes/529364-people-are-strange-they-are-constantly-angered-by-trivial-things)
 
-> "Nature abhors a vacuum." - [Aristotle](https://www.goodreads.com/quotes/4823-nature-abhors-a-vacuum)
-^^ the current meaning vacuum shall be filled
 
-> "The free market punishes irresponsibility. Government rewards it." - [Harry Browne](https://www.goodreads.com/quotes/7456533-the-free-market-punishes-irresponsibility-government-rewards-it)
+
 
 > "Indeed, when I think of the unbroken chain of generations leading to our time and of everything they have built for us, I am humbled. I am overwhelmed with gratitude; shocked by the enormity of the inheritance and at the impossibility of returning even the smallest fraction of the favor. Because a hundred billion of the people to whom I owe everything are gone forever, and because what they created is so much larger than my life, than my entire generation." - [Toby Ord](https://www.goodreads.com/quotes/10316565-indeed-when-i-think-of-the-unbroken-chain-of-generations)
 
 
 > "Mr. *~~Gorbachev~~* **Zuckeberg**, tear down this **API** wall!" - [Ronald Reagan](https://en.wikipedia.org/wiki/Tear_down_this_wall!), probably
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1283,7 +1239,8 @@ The less fragmented the info space - the more eyeballs on whatever is public and
 
 Open source corporations - with transparent democracy for any type of reward
 
-Competing hive minds and how they merge gradually and adopt the better parts of others and how they might branch off and merge again later
+Competing hive minds and how they merge gradually and adopt the better parts of others and how they might branch off and merge again 
+The philosopher king as an emergent egregore
 Competing egregores
 https://theosophy.wiki/en/Egregore
 > "Egregore: A causal closure over memetic catalysts, which drives its networked hosts to precipitate artifacts that further reinforce the autocatalytic growth of the network, thus increasingly cohering and scaling its global agency beyond the sum of its constituents' local agency." - [Matthew Pirkowski](https://x.com/MattPirkowski/status/1967696396255113243)
@@ -2086,10 +2043,6 @@ Expertise from one sector is rarely if ever transferrable/translatable to anothe
 
 How do we let people take ownership & responsibility?
 
-We need cultural enlightenment 1-2 orders of magnitude larger than the counterculture of the 1960s
-It should take over the world and even make religions irrelevant
-The Counterculture of the 21st century
-https://en.wikipedia.org/wiki/Counterculture
 
 I don't always want to have to watch your video or read your long text - just give me the TL;DR as a summary and let me choose if I want to consume the full piece to be convinced
 ^^ this is in conflict with the influencer's (or curator's) incentives to some degree, but the best ones that are trusted by millions will still generate enough revenue from the long-form content
@@ -5593,8 +5546,6 @@ Turns out political philosophy in the 21st century is all about technology - sho
 Social algorithms to live by
 
 We should shift from voting for people based on popularity to voting on principles and mechanisms and rules based on popularity which in turn will erect people based on efficacy
-
-The philosopher king as an emergent egregore
 
 The road to serfdom is doubling down on hyper individualistic free market fundamentalist dogma in the face of the next millennia’s most powerful cooperation mechanism and its gravitational pull
 

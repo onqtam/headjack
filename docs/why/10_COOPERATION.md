@@ -793,6 +793,12 @@ concluding remarks - game theory, rational choice theory
 
 > "Society cannot function without a regulatory structure adequate to its level of complexity." - [Understanding the Blue Church, by Jordan Hall](https://medium.com/deep-code/understanding-the-blue-church-e4781b2bd9b5)
 
+> "In essentials, unity; in non-essentials, liberty; in all things, charity." - [Saint Augustine](https://www.goodreads.com/quotes/332507-in-essentials-unity-in-non-essentials-liberty-in-all-things-charity)
+
+How do we reach unity in our process for determining how and in what to reach unity/coherence?
+
+
+
 Coherent pluralism - Jim Rutt
 
 What shouldn't we be divided on?

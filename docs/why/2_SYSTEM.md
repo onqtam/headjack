@@ -65,8 +65,13 @@ the culture war and politics as the problem (and a distraction) - not the soluti
 
 > "Politics is supposed to be the way to deal with vast problems and impending catastrophes. It is totally not working. It’s the problem, not the solution... When politics is mostly about sex, drugs, religion, and cartoon frogs, it is much easier to cut backroom deals that capture regulatory agencies and redirect trillions of tax dollars to business interests. So long as a policy question does not line up with the monist-vs.-dualist axis, it is not “political” and therefore can be sold to the highest-bidding lobbyists. For the past decade, globally, macroeconomic policy has been run largely for the benefit of the financial industry, at an enormous cost to everyone else. This is not a right-vs.-left issue. It is not even a rich-vs.-poor issue. It’s an everybody-else-vs.-the-financial-industry issue. How can subsidies in excess of a trillion dollars a year persist, with no popular support from either the right or the left? Because it’s not about “values,” it is “not political” under the current definition of politics. The Great Rotation removed the single most important policy issue from the democratic process." - [Wreckage: the culture war | Meaningness](https://meaningness.com/counterculture-war)
 
+> "The whole aim of practical politics is to keep the populace alarmed - and hence clamorous to be led to safety - by an endless series of hobgoblins, most of them imaginary." - [H.L. Mencken](https://www.goodreads.com/quotes/34764-the-whole-aim-of-practical-politics-is-to-keep-the)
 
 
+
+
+
+> "It may be dangerous to be America's enemy, but to be America's friend is fatal." - [Henry Kissinger](https://www.goodreads.com/quotes/11331139-it-may-be-dangerous-to-be-america-s-enemy-but-to)
 
 > "In the West today, we operate under the influence of our own key philosophy, which we can call scientism: the tendency to rely on scientific claims to describe the functioning of society, even when there is no empirical reason to assume that they apply. We act as if we are already living in a scientifically-planned society, immune to collapse on a timescale that any of us have to worry about. This is very far from the truth. We are certainly living in socially-engineered societies, but they are not scientifically planned in any straightforward way. Our organs of economic management do not secretly know how the economy really works. Our systems of political regulation are operating on the fumes of their institutional inheritance from two or three generations ago—the last spurt of institutional growth in Western societies happened roughly during the 1970s." - [Great Founder Theory, by Samo Burja](https://samoburja.com/gft/)
 
@@ -446,6 +451,8 @@ https://balajis.com/p/crypto-twitter-found-sbfs-fraud
 
 > "Can't we just drone this guy?" - [Hillary Clinton in regards to Julian Assange](https://x.com/wikileaks/status/782906224937410562)
 
+> "The free market punishes irresponsibility. Government rewards it." - [Harry Browne](https://www.goodreads.com/quotes/7456533-the-free-market-punishes-irresponsibility-government-rewards-it)
+
 > "Mercy to the guilty is cruelty to the innocent." - [Adam Smith](https://www.goodreads.com/quotes/548339-mercy-to-the-guilty-is-cruelty-to-the-innocent)
 
 > "Not to punish evil is equivalent to authorizing it." - [Leonardo da Vinci](https://www.azquotes.com/quote/1080575)
@@ -795,6 +802,7 @@ Philip morris Indonesia kids
 
 > "The greatest victory is that which requires no battle." - [Sun Tzu](https://www.goodreads.com/quotes/608916-the-greatest-victory-is-that-which-requires-no-battle)
 
+> "If you want a picture of the future, imagine a boot stamping on a human face - forever" - [George Orwell](https://www.goodreads.com/quotes/9402-if-you-want-a-picture-of-the-future-imagine-a)
 
 > "Each murder is one too many." - [Jürgen Habermas](https://www.azquotes.com/quote/994093)
 

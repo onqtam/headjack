@@ -389,6 +389,9 @@ https://en.wikipedia.org/wiki/Mortality_salience
 
 <img src="/img/meme_are_you_winning_son_minimization_of_entropy.jpeg"/>
 
+> "Nature abhors a **meaning** vacuum." - [Aristotle](https://www.goodreads.com/quotes/4823-nature-abhors-a-vacuum), probably
+
+> "The idea is not to live forever, it is to create something that will." - [Andy Warhol](https://www.goodreads.com/quotes/570458-the-idea-is-not-to-live-forever-it-is-to)
 
 
 How should we understand “meaning” in biological systems?
@@ -1987,6 +1990,8 @@ But a problem not fully understood is unsolvable.
 > "Life and intelligence are the wildcards in the universal deck." - [Terence McKenna](https://www.organism.earth/library/document/vertigo-at-historys-edge)
 
 > "Those who tell the stories rule society." - [Plato](https://www.goodreads.com/quotes/20382-those-who-tell-the-stories-rule-society)
+
+> "You need a story to displace a story." - [Nassim Nicholas Taleb](https://www.goodreads.com/quotes/1034173-you-need-a-story-to-displace-a-story)
 
 > "The human mind is a story processor, not a logic processor." - [Jonathan Haidt](https://www.goodreads.com/quotes/1023735-the-human-mind-is-a-story-processor-not-a-logic)
 

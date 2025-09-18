@@ -7,6 +7,8 @@ This book presents itself to you as a fractal - nested levels of detail dependin
 
 make a diagram with all the titles and how some of them connect to different aspects of the last chapter "as a service"
 
+> "Unfortunately, no one can be told what the *~~Matrix~~* **Global Brain** is. You have to *~~see~~* **read** it for yourself." - [Morpheus, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324246&ref_=ext_shr_lnk), probably
+
 This is going to provoke you. Feel free to stop reading the moment you see some actual inconsistency or something very illogical, but unless you encounter such a thing, keep reading. We will deliver on every single one of these titles - no exception. By the time you're done with the book you'll agree with all of them too.
 
 Reading them before reading the book will give you some idea of what you're about to download into your head but not all will make sense. However, by the time you're done with the book you'll understand all of them and many of them will probably deeply resonate with you. It's probably best to read them twice: once before the book and once after.
@@ -182,7 +184,10 @@ Democratic Version Control
     The configuration of society
 Deep Democracy
 The Deep Learning of Society
-vibe coding society
+Vibe Coding Society
+
+The [Counterculture](https://en.wikipedia.org/wiki/Counterculture) of the 21st century - an order of magnitude larger than the one from the last century
+
 The Meta Concept
 everything everywhere all at once - replacing (or upgrading - their choice) all of the current tech giants
 Mission:

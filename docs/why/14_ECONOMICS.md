@@ -985,6 +985,8 @@ Surplus economics/redirection
 
 > "It is easier for a camel to go through the eye of a needle than for someone who is rich to enter into the kingdom of God." - [Matthew 19](https://byustudies.byu.edu/online-book/the-gospel-according-to-matthew/matthew-19)
 
+> "The greater the outward show; the greater the inner poverty." - [Jiddu Krishnamurti](https://x.com/IAmMarkManson/status/1943731792998965343)
+
 > "It is unjust that the whole of society should contribute towards an expence of which the benefit is confined to a part of the society." - [Adam Smith](https://www.azquotes.com/quote/1323948)
 
 > "It must always be remembered, however, that it is the luxuries, and not the necessary expense of the inferior ranks of people, that ought ever to be taxed." - [Adam Smith](https://www.azquotes.com/quote/1312493)
@@ -1089,6 +1091,10 @@ https://systems-souls-society.com/the-market-myth/
 > "The highest status people in human history are those that asked for nothing and gave everything." - [Naval Ravikant](https://twitter.com/naval/status/1332457855245434880)
 The only measure of life is how much you’ve given
 https://x.com/KirilovVik/status/1921637558687006787
+
+
+
+> "Here’s the conundrum: No country has ever ended human deprivation without a growing economy. And no country has ever ended ecological degradation with one." - [Kate Raworth](https://www.goodreads.com/quotes/10396201-here-s-the-conundrum-no-country-has-ever-ended-human-deprivation)
 
 
 
