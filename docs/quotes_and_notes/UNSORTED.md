@@ -6365,6 +6365,72 @@ Religion is a contractual agreement for solving certain kinds of problems
 
 
 
+> "For an intelligence to belong properly to a collective, it must arise not from the cleverness of its members but from having the right kind of functional relationships between them.
+>
+> ... All individuals are collectives, made of parts that used to be individuals themselves.
+>
+> ... Multicellular organisms exhibit multi-scale autonomy, a dynamic interplay of competition and cooperation, and coordinated collective action inherent to their development, function and behaviour, while being a society of cells. Thus, individuals like you and I, and collectives like swarms and colonies, are not as categorically different as they first appear.
+>
+> ... All intelligences are collectives. Individual intelligence, in the familiar guise of a central nervous system or a brain, arises from the interaction of many unintelligent components (neurons) arranged in the right organisation with the right connections. This is the foundation of connectionism; that intelligence resides not in the individual parts but in the arrangement of the connections between them. The individual neuron is not where all the interesting cognition and learning occur. It is the distributed collective activity in the network that constitutes cognition and changes to the organisation of network connections that constitute learning. So brains are collectives, thus collectives of the right kind do cognise and learn. In fact, brains provide the archetypal example of an intelligent collective.
+>
+> ... Cognition and learning are substrate-independent. The principles of distributed cognition familiar in artificial neural networks can be implemented by any network of signals and non-linear responses to suitably weighted inputs. Gene-regulation networks, ecological networks and social networks can all compute in the same sense as neural networks if the connections are suitably arranged. In development and organismic biology, many different levels of adaptive networks exist aside from neural networks, including gene-regulation networks, protein networks, metabolic networks, morphogen diffusion networks and endocrine systems. In addition, it is clear that morphogenesis, physiological function and the adaptive processes of robustness and repair all require information integration and collective action that constitute cognition – in many cases without neurons. Each of these phenomena exhibits the same learning behaviours, including the storage and retrieval of multiple associative memories, effecting classification and recognition with generalisation capabilities, and learning to solve combinatorial optimisation problems better with experience." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning, and in all biological individuality... The credit assignment issues of collective intelligence are not categorically distinct from related core issues in individual adaptation, evolution and intelligence." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+^^ ???
+
+> "All intelligences are made out of components that act on local information based on individual feedbacks. In a multicellular organism, for example, the individual cells exhibit agency based on local information and rewards, and the system (cellular swarm) as a whole does also, exhibiting information integration and anatomical decision making at the system-scale." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "In collectives, each component selects behaviours based on the rewards they receive for their own actions. In intelligent systems, the reward feedback is effectively operating at a higher level – and the system as a whole selects behaviours based on the rewards received by the system as a whole. Accordingly, it makes sense that the system selects behaviours that facilitate long- term collective reward. But operationally, each component within the intelligent system is still autonomous, selecting individual actions based on individual rewards given the relational context they find themselves in. The question is, **what kinds of interaction structures cause collectives to behave like intelligent agents, exhibiting information integration and coordinated action that effect reward feedback at the system level?**" - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "While connectionist models of cognition and learning do not have all the answers, they do identify the kind of relationships that turn a collection of unintelligent components into a collective intelligence, with cognitive and learning abilities that belong to the whole and not the parts." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "We propose that these relationships are cognitive architectures regardless of the substrate in which they are implemented. That is, the causal structures necessary to create fitness that properly belongs to the whole rather than its parts are the same as those required to carry out the integration of information and coordination of action characteristic of a ’self’. We propose that such functionality constitutes cognition in a formal sense, whether the causal structures are implemented by chemical, gene-regulatory, bio- electrical, neural, ecological or social interactions." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "The curious thing about collective intelligence is that the more intelligent something is, the less it looks like a collective. When component members act in an efficiently coordinated manner, with behaviours that can be diverted from their short-term self-interest to serve long-term collective interest, a collective looks more like an individual at a higher level of organisation. Recognising this, biology is full of collective intelligence – not just in the weak sense of swarms and colonies with emergent behaviours but because any organism is actually an intelligent collective." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=The%20curious%20thing,an%20intelligent%20collective.)
+
+
+> "Although all cells in most multicellular organisms share the same genome, the remarkable protein machinery that genome encodes, along with the cytoskeletal and lipid structures each cell inherits from its ancestors, enables a collective of embryonic cells to develop differentiated roles and self-organise into a large-scale, functional machine. Development thus involves a multi-scale hierarchy of cooperating and competing subunits, each with local computational and goal-directed capacity, that enables the whole to function as a singular subject of memories and preferences – a unified locus of learning and homeostatic loops that harness its subunits towards goal states." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=Although%20all%20cells,towards%20goal%20states.)
+
+
+> "Anatomical homeostasis – the ability to adjust anatomy despite injury or drastic rearrangement – requires the collective to have a degree of autonomous problem-solving activity in morphospace, defined as the space of possible anatomical configurations." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "Hebbian learning in a self-modelling dynamical system effects a positive feedback on correlations; the more things co-occur, the more the connection between them changes to make them more likely to co-occur in future." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+^^ what if we treat the connection between the topic of predictions and the entities doing the predicting as what strengthens over time - if the predictions are successful? Reputation
+
+> "The application of connectionist models also extends into the domain of evolutionary systems, where the connections of a network are changed by variation and selection, as seen in the evolution of interaction networks in development and ecology. In these ‘evolutionary connectionism’ models, ordinary processes of random variation and selection act on the functional interactions between components, altering their organisation in a way that positively reinforces correlations – functionally equivalent to connectionist learning models." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "No individual cell has the entire experience of performing an action and reaping its benefits – that relationship only exists in the ‘group mind’ of the collective agent. How do the parts discern which of their actions should be reinforced? **Problems of distributed credit assignment are a key aspect of intelligence**... It is imperative to understand the developmental algorithms and signals by which tissue-level agents incentivise lower-level subunits (e.g. cells and molecular pathways), distorting their option space so that simple, local descent down free-energy paths (short-sighted self-interest) result in higher order adaptive activity (long-term collective interest). The key to being an individual is to have a functional structure in which diverse experiences across its components are bound together in a way that generates causal relationships and composite memories that belong to the higher space of the individual and not its components." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "It is no accident that the issue of credit assignment, and the application of credit to parts or wholes, is a central one in evolutionary selection, developmental and organismic biology and cognitive science. It is a feature of many difficult learning tasks that they require sequences of actions that are many steps away from ultimate goals – making it intrinsically difficult to incentivise the component parts involved. This is what makes difficult tasks difficult; conversely, having feedbacks that are additive and individual, is what makes easy tasks easy." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+
+
+> "What kinds of relationships are necessary to turn a society into an individual? A central aspect of how intelligence arises from a collection of subunits is the specific communication and functional linkages between them, as well as the algorithms for updating those interactions in light of experience." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=What%20kinds%20of%20relationships,in%20light%20of%20experience.)
+
+> "Generalisation is fundamental to learning and intelligence. Without it, a system can only respond to current inputs in a manner consistent with past rewards." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=Generalisation%20is%20fundamental,with%20past%20rewards.)
+
+> "A system that can generalise can act in a manner that is consistent with long-term rewards, even when this appears to oppose immediate or short-term interests. For individuals that interact with others in a collective, the ability to act in a manner that is consistent with long-term individual interest is frequently aligned with the ability to act in a manner that is consistent with collective interest (though it may be opposed by individual short-term interest)." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=a%20system%20that,short%2Dterm%20interest).)
+
+
+
+> "... organismic individuality evolved through a bottom-up process of collective intelligence, resulting in information integration and coordinated action so well-organised that we observe a new level of organismic and evolutionary individuality." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "Acting in a manner consistent with long-term collective interests, in particular when this conﬂicts with short-term self-interest, is not just a hallmark of collective intelligence but is in fact what constitutes cognition and individuality at the collective level." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+> "From subcellular processes, to cellular swarms during morphogenesis, to ecological dynamics on evolutionary timescales – all of these processes are driven by the scaling of reward dynamics that bind subunits into collectives that better navigate novel problem spaces." - [The collective intelligence of evolution and development, by Richard Watson and Michael Levin](https://journals.sagepub.com/doi/pdf/10.1177/26339137231168355)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
