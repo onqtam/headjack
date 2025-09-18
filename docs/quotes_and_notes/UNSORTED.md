@@ -9,6 +9,11 @@ Metaphilosophical Criteria for Worldview Comparison Clément Vidal
 
 
 
+
+
+
+
+
 > "4. How Is Attention Switched between Objects?
 >
 > 4.1. Active Inference Requires Attention
@@ -6349,37 +6354,6 @@ We are programs - we do what we think we should do. We have a story for ourselve
 
 Religion is a contractual agreement for solving certain kinds of problems
 
-
-
-THIS PAPER "The collective intelligence of evolution and development" I've also quoted elsewhere!
-
-> "Individual intelligence, in the familiar guise of a central nervous system or a brain, arises from the interaction of many unintelligent components (neurons) arranged in the right organisation with the right connections. This is the foundation of connectionism; that intelligence resides not in the individual parts but in the arrangement of the connections between them. The individual neuron is not where all the interesting cognition and learning occur. It is the distributed collective activity in the network that constitutes cognition and changes to the organisation of network connections that constitute learning." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=Individual%20intelligence%2C%20in,that%20constitute%20learning.)
-
-> "The principles of distributed cognition familiar in artificial neural networks can be implemented by any network of signals and non-linear responses to suitably weighted inputs. Gene-regulation networks, ecological networks and social networks can all compute in the same sense as neural networks if the connections are suitably arranged." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=The%20principles%20of,are%20suitably%20arranged)
-
-> "The credit assignment problems inherent in collective intelligence are fundamental in all cognition and learning." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=The%20credit%20assignment%20problems%20inherent%20in%20collective%20intelligence%20are%20fundamental%20in%20all%20cognition%20and%20learning)
-
-> "The question is, **what kinds of interaction structures cause collectives to behave like intelligent agents, exhibiting information integration and coordinated action that effect reward feedback at the system level?**" - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=The%20question%20is%2C%20what%20kinds%20of%20interaction%20structures%20cause%20collectives%20to%20behave%20like%20intelligent%20agents%2C%20exhibiting%20information%20integration%20and%20coordinated%20action%20that%20effect%20reward%20feedback%20at%20the%20system%20level%3F)
-
-> "The causal structures necessary to create fitness that properly belongs to the whole rather than its parts are the same as those required to carry out the integration of information and coordination of action characteristic of a ’self’. We propose that such functionality constitutes cognition in a formal sense, whether the causal structures are implemented by chemical, gene-regulatory, bio-electrical, neural, ecological or social interactions." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=the%20causal%20structures,or%20social%20interactions)
-
-> "The curious thing about collective intelligence is that the more intelligent something is, the less it looks like a collective. When component members act in an efficiently coordinated manner, with behaviours that can be diverted from their short-term self-interest to serve long-term collective interest, a collective looks more like an individual at a higher level of organisation. Recognising this, biology is full of collective intelligence – not just in the weak sense of swarms and colonies with emergent behaviours but because any organism is actually an intelligent collective." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=The%20curious%20thing,an%20intelligent%20collective.)
-
-> "Although all cells in most multicellular organisms share the same genome, the remarkable protein machinery that genome encodes, along with the cytoskeletal and lipid structures each cell inherits from its ancestors, enables a collective of embryonic cells to develop differentiated roles and self-organise into a large-scale, functional machine. Development thus involves a multi-scale hierarchy of cooperating and competing subunits, each with local computational and goal-directed capacity, that enables the whole to function as a singular subject of memories and preferences – a unified locus of learning and homeostatic loops that harness its subunits towards goal states." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=Although%20all%20cells,towards%20goal%20states.)
-
-> "No individual cell has the entire experience of performing an action and reaping its benefits – that relationship only exists in the ‘group mind’ of the collective agent. How do the parts discern which of their actions should be reinforced? **Problems of distributed credit assignment are a key aspect of intelligence**, even in conventional organisms." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=No%20individual%20cell,in%20conventional%20organisms.)
-
-> "It is imperative to understand the developmental algorithms and signals by which tissue-level agents incentivise lower-level subunits (e.g. cells and molecular pathways), distorting their option space so that simple, local descent down free-energy paths (short-sighted self-interest) result in higher order adaptive activity (long-term collective interest). The key to being an individual is to have a functional structure in which diverse experiences across its components are bound together in a way that generates causal relationships and composite memories that belong to the higher space of the individual and not its components." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=It%20is%20imperative,not%20its%20components)
-
-> "What kinds of relationships are necessary to turn a society into an individual? A central aspect of how intelligence arises from a collection of subunits is the specific communication and functional linkages between them, as well as the algorithms for updating those interactions in light of experience." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=What%20kinds%20of%20relationships,in%20light%20of%20experience.)
-
-> "Generalisation is fundamental to learning and intelligence. Without it, a system can only respond to current inputs in a manner consistent with past rewards." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=Generalisation%20is%20fundamental,with%20past%20rewards.)
-
-> "A system that can generalise can act in a manner that is consistent with long-term rewards, even when this appears to oppose immediate or short-term interests. For individuals that interact with others in a collective, the ability to act in a manner that is consistent with long-term individual interest is frequently aligned with the ability to act in a manner that is consistent with collective interest (though it may be opposed by individual short-term interest)." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=a%20system%20that,short%2Dterm%20interest).)
-
-> "Organismic individuality evolved through a bottom-up process of collective intelligence, resulting in information integration and coordinated action so well-organised that we observe a new level of organismic and evolutionary individuality." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=organismic%20individuality%20evolved%20through%20a%20bottom%2Dup%20process%20of%20collective%20intelligence%2C%20resulting%20in%20information%20integration%20and%20coordinated%20action%20so%20well%2Dorganised%20that%20we%20observe%20a%20new%20level%20of%20organismic%20and%20evolutionary%20individuality.)
-
-> "Acting in a manner consistent with long-term collective interests, in particular when this conflicts with short-term self-interest, is not just a hallmark of collective intelligence but is in fact what constitutes cognition and individuality at the collective level." - [The collective intelligence of evolution and development](https://journals.sagepub.com/doi/10.1177/26339137231168355#:~:text=acting%20in%20a%20manner%20consistent%20with%20long%2Dterm%20collective%20interests%2C%20in%20particular%20when%20this%20conflicts%20with%20short%2Dterm%20self%2Dinterest%2C%20is%20not%20just%20a%20hallmark%20of%20collective%20intelligence%20but%20is%20in%20fact%20what%20constitutes%20cognition%20and%20individuality%20at%20the%20collective%20level.)
 
 
 

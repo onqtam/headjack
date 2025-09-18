@@ -1860,6 +1860,10 @@ Why do we have pets?
 
 > "Even God seems to create by designing incentives." - [Gordon Brander](https://twitter.com/gordonbrander/status/1700228049399148932)
 
+
+> "I grew up atheist/agnostic. I see now clearly: we need God" - [Joe Norman](https://x.com/normonics/status/1349344615321772037)
+
+
 Emergentism emphasizes the teleological emergence of consciousness out of matter. This is the very aim of existence, and the Omega point toward which it is moving is understood as the divine attractor whose continual realization culminates infinitely towards the emergence of God consciousness. God emerges from chaos as an immanent deity. The Universe is the development of God.
 
 

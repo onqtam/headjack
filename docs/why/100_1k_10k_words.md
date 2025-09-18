@@ -288,14 +288,15 @@ The Race to the Top
 God's Blueprint
 Resistance is Futile
 Fixing Status
-The Unified Balance Sheet
+The Unified/Integrated Balance Sheet
 The Top Memetic Predator
 Silicon Valley's Destiny
+Civilization: The Real Life Game
 The Comparison Operator - democratic
 WikiRedditOverflow
 Religion: the only truly scalable coordination & cooperation mechanism
 The World (Self) Model
-The Benevolent Mind Virus
+The Apex/Benevolent Mind Virus
 The ultimate product/service - the best of everything that’s worth a damn - meaning, community and prosperity
 Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
@@ -457,7 +458,6 @@ Comprehending the Incomprehensible
 the sweet spot between Kolmogorov complexity reduction and consciousness expansion
     reducing the [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity) of the description & definition of our system    
 The Operating System
-The Ultimate Product
 Pravda Bomba
     The Biggest Truth
     https://en.wikipedia.org/wiki/Tsar_Bomba
