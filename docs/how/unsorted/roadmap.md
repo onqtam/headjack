@@ -58,7 +58,7 @@ Feed the entire book in an AI and make that easily accessible for people to prom
 
 
 
-call to action for people who watch the "solving the metacrisis" playlist: sign up for the project, spread the word, etc.
+call to action for people who watch the "solving the metacrisis" playlist: sign up for the project, subscribe, spread the word, etc.
 
 Include a way for people to add their email as early converts and put their counter globally somewhere - visibly online - up to date
 

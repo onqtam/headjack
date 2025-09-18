@@ -3,7 +3,7 @@ START HERE
 
 # How to read this book
 
-This book presents itself to you as a fractal - nested levels of detail depending on your interests
+This book presents itself to you as a fractal - nested levels of detail depending on your interests and time
 
 make a diagram with all the titles and how some of them connect to different aspects of the last chapter "as a service"
 
@@ -191,6 +191,7 @@ Solve [Collective] Intelligence, and then use that to solve everything else
 Organizing the world's information, but for real
     Google failed - they merely indexed it, but not organize it
     google have failed with their mission - they have not organized the world's information - they have merely ranked it - organization is much deeper and more profound - the internet is a cacophony and a mess as much as ever
+Cultural (R)Evolution
 Cultural Enlightenment or Bust
     > "It's cultural enlightenment or bust, as far as I'm concerned." - [Daniel Schmachtenberger](https://youtu.be/YPJug0s2u4w?t=6760)
 The One
@@ -512,6 +513,7 @@ Disney as a service - participating in the programming of the culture for the ne
 Revelation as a Service
 Comparison as a service
 Equality (before the algorithm) as a service
+Service as a Service - something that gives you something worth serving
 
 IRS as a Service
 Morality as a service - opt-in financial chains in exchange for a new form of prestige and purity

@@ -217,6 +217,12 @@ if we shift from knowing the world to acting in the world, "ought" and evaluatio
 
 
 
+> "Karma is, just as the root of the word suggests, simply the net effects of each action or agency. This net effect should be viewed with collapsed time and space dimensions, meaning that even suffering caused to creatures at great distance in time and space – or across long causal chains of events – has the same value. Same goes for bliss caused. This means that good actions are good because they have favorable or desirable consequences for sentient beings, and bad actions are bad because they have unfavorable or undesirable consequences for sentient beings. That’s it. That is the meaning of Karma. It is so by perfect logical necessity, by definition. It is universal and all-pervading. It has always been true and it will always be true. To know and act according to this truth is good, always has been and always will be. To ignore or neglect this truth is bad, always has been, and always will be. It is hard, scientific, logical, secular Karmic law. There is no escape from it. There never has been and there never will be.
+>
+> ... Secular Karma, then, is the reasoned belief that this universe is a moral one. It is the insight that I am not the “good guy” or the “chosen one”, but that all I do matters immensely for all sentient beings." - [Secular Karma, Spiritual Reason, by Hanzi Freinacht](https://metamoderna.org/secular-karma-spiritual-reason/)
+
+
+
 TODO INTERNET: fix YT links !!!
 
 > "" - [Oliver Scott Curry]()
@@ -794,6 +800,11 @@ What shouldn't we be divided on?
 > "The work is done when every actuator is sentient and fully coherent with all the others." - [Joscha Bach](https://x.com/Plinz/status/1834928906559954958)
 
 Most people have read at leats a couple of books in their life. What if we could socially nudge ourselves into coherence for what is most important and point to the most important books?
+
+
+## on the necessity of integration and coherence
+
+> "The vestiges of social organization are crumbling. As culture and society atomize, it becomes impossible to maintain a coherent ideology. Religions decohere into vague “spirituality,” and political isms give way to bizarre, transient, reality-impaired online movements. Decontextualized, contradictory, intensely-proclaimed religious and political “beliefs” displace legacy systems of meaning. These are not beliefs in an ordinary sense, but advertisements of personal qualities and tribal identication. The atomized mode generates paranoia, because without the systematic mode’s “therefores,” its structure of justification, there are no memetic defenses against bad ideas... We build selves by internalizing meanings from our culture and from social relationships. As culture and society atomize, we are bombarded with a kaleidoscopic chaos of brightly-colored atoms of meaning, and it becomes impossible to construct or maintain a coherent self... Overall, the problem is that without structures and boundaries, shards of meaning do not relate to each other, so it’s impossible to compare them. There is no standard of value, so everything seems equally trivial—or equally earth-shaking, or equally threatening. Our lives are so full of so many tiny tasty things, and so many crises and outrages, that it may all fail to add up to much... The diference is that we now need to manage hugely more complexity, diversity, volume, and urgency of meanings. Individuals can get by in the atomized world without coherent understanding. Societies cannot." - [Atomization: the kaleidoscope of meaning | Meaningness](https://meaningness.com/atomized-mode)
 
 
 

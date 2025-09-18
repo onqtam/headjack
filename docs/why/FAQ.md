@@ -40,7 +40,17 @@ If you call this communism, the devout communists from the past century will be 
 Because sparseness and vagueness is a disrespect to the finitude of life and attention of others
 And this material is comprehensible by a tiny fraction of people anyway
 
+The density is out of respect for your limited time and attention and we are grateful for the allocation you've granted us.
+
+Also not everyone likes introductory fluff, exposition & unnecessary sentences/words - some can (and want to) directly dive to definitions and can judge what's reasonable or not without much (if any) examples.
+
 This is not meant for the average reader - few will be able to plow through it with ease and fully grasp what it entails.
+
+## TL;DR?
+
+The later you read this the more of a laggard you will be - this system is inevitable
+
+> "I am sorry to have made such a long speech, but I did not have time to write a shorter one." - [Winston Churchill](https://www.azquotes.com/quote/788641)
 
 ## This is all BS
 ## This is too long - how do you expect anyone to read it? TL;DR? @grok is this true? / summarize plz
@@ -49,7 +59,9 @@ This is not meant for the average reader - few will be able to plow through it w
 
 ## I vehemently disagree or don't understand 10-20% of the content here
 
-Good! that means you're on board with the other 80-90% and we can focus on either fixing the other 10-20% or helping you fill the gaps to get you further.
+Good! That means you're on board with the other 80-90% and we can focus on either fixing the other 10-20% and/or helping you get further along towards agreeing with 100% of it!
+
+Good thing there are more than a thousand ideas here - you can support what you like and debate with others everything else.
 
 ## Why a book? Why didn't you simply implement it?
 
@@ -57,11 +69,11 @@ put the response to Joscha here
 
 > "With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)
 
-## Why is there so little aboit AI?
+## Why is there so little about AI?
 
 Because there's nothing we could add to the discussion. We stay in our lane of competence. The most intelligent thing we can say is that anyone speaking with high confidence about what's going to happen with AI should not be taken too seriously.
 
-What we can do, however, is help shift the conversation more towards an architecture for collective intelligence. We're interested in a system to better make sense of situations such as the one we find ourselves in regards to AI. We're interested in the meta solution for social organization.
+What we can do, however, is help shift the conversation more towards an architecture for collective intelligence. We're interested in a system to better make sense of situations such as the one we find ourselves in regards to AI. We're interested in the meta solution for social problems & organization.
 
 ## This can't possibly work! How will X work?
 
@@ -74,29 +86,21 @@ Will this work? No clue. But what we can say with 100% confidence that we must t
 
 > "Normally, when you challenge the conventional wisdom—that the current economic and political system is the only possible one—the first reaction you are likely to get is a demand for a detailed architectural blueprint of how an alternative system would work, down to the nature of its financial instruments, energy supplies, and policies of sewer maintenance. Next, you are likely to be asked for a detailed program of how this system will be brought into existence. Historically, this is ridiculous. When has social change ever happened according to someone’s blueprint? It’s not as if a small circle of visionaries in Renaissance Florence conceived of something they called “capitalism,” figured out the details of how the stock exchange and factories would someday work, and then put in place a program to bring their visions into reality. In fact, the idea is so absurd we might well ask ourselves how it ever occurred to us to imagine this is how change happens to begin." - [David Graeber](https://www.goodreads.com/quotes/776644-normally-when-you-challenge-the-conventional-wisdom-that-the-current-economic)
 
-
-## I don't agree with X or even 100 Xs
-
-Good thing there are more than a thousand ideas here - you can support what you like and debate with others everything else
-
 ## How much AI was used in the creatin of this book?
 
 0 - there's no substituting of processing and judgement. Even summaries before deciding if something is worth reading aren't worth it.
 
-## TL;DR?
-
-The later you read this the more of a laggard you will be - this system is inevitable
-
-> "I am sorry to have made such a long speech, but I did not have time to write a shorter one." - [Winston Churchill](https://www.azquotes.com/quote/788641)
-
 ## Why are so many quotes here not real?
 
-Because we have a broken digital system for attributing who said and expressed what. How about we change that?
+Because we have a broken digital system for attributing who said and expressed what. Help us change that.
+
+## Is every quote a full 100% endorsement of what's being said in it?
+
+Not to 100%, but to a large degree - yes. Some quotes are worded too strongly in some direction and have not been fact-checked but have nevertheless been picked because of their style and some general message they're conveying. And wouldn't you want a system that helps you fact-check and put in right proportion any opinion? Help us build it.
 
 ## Won't the powers that be oppose this system?
 
-This is for those that can read between the lines
-
+Did they manage to grasp what Bitcoin & crypto was or coordinate together to stop it before it became too big to stop? No. Repeat.
 
 ## isnt social credit distopic?
 

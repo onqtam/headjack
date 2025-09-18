@@ -1112,12 +1112,16 @@ Participatory incentive design
 
 Niche construction describes how organisms can change their environment, creating a niche in which they fit, thus affecting their own selection.
 
-> "you can just do things" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
-You can just program society
-You can just vibe code ppl
-Programming the hive mind
-Moral programming - valence
+> "The hottest new programming *~~language~~* **paradigm** is *~~English~~* **society's incentives**." - [Andrej Karpathy](https://x.com/karpathy/status/1617979122625712128), probably
+
+> "you can just *~~do things~~* **vibe code society & the hivemind**" - [Sam Altman](https://x.com/sama/status/1870527558783218106)
+
+> "To *~~hold a pen~~* **tune society's incentives in public with skin in the game** is to be at war." - [Voltaire](https://www.goodreads.com/quotes/30874-to-hold-a-pen-is-to-be-at-war), probably
+
+
 The real fine-tuning problem is about how we fine-tune society and its incentives - how do we program ourselves as a collective
+
+
 
 > "The Lebowski theorem: No superintelligent AI is going to bother with a task that is harder than hacking its reward function." - [Joscha Bach](https://twitter.com/Plinz/status/985249543582355458)
 
@@ -1139,6 +1143,10 @@ talks about the wisdom of crowds, weighted averaging & how to optimally give wei
 ██████████████████████████████████████████████████████████████████
 # SECTION: voting & liquid democracy
 ██████████████████████████████████████████████████████████████████
+
+Liquid democracy will enable patterns of representation that are impossible today
+the potential of liquid democracy is way beyond what Google used it for internally - voting for what kinds of snacks to have in the cafeteria and be dumbfounded on the low participation - well duuh - this is the most inconsequential thing ever
+
 
 A good read to point to about voting theory:
 https://www.lesswrong.com/posts/D6trAzh6DApKPhbv4/a-voting-theory-primer-for-rationalists

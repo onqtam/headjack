@@ -1105,6 +1105,10 @@ https://en.wikipedia.org/wiki/Turn_on,_tune_in,_drop_out
 
 > "Civilization advances by extending the number of important operations which we can perform without thinking of them." - [Alfred North Whitehead](https://www.goodreads.com/quotes/53970-civilization-advances-by-extending-the-number-of-important-operations-which)
 
+> "The nervous system, in organizing all the functions of the body, is dealing with thousands of variables at once, for the brain operates intelligently without having to stop to think." - [Alan Watts](https://www.organism.earth/library/topic/ontology#:~:text=The%20nervous%20system%2C%20in%20organizing%20all%20the%20functions%20of%20the%20body%2C%20is%20dealing%20with%20thousands%20of%20variables%20at%20once%2C%20for%20the%20brain%20operates%20intelligently%20without%20having%20to%20stop%20to%20think.)
+
+
+
 > "We grow in direct proportion to the amount of chaos we can sustain and dissipate." - [Ilya Prigogine](https://www.azquotes.com/quote/387208)
 
 > "If there's anywhere we truly require innovation and acceleration, it's with respect to the tools we use to navigate the space of emergent human agency across all scales of coherent collective action. To date we've called this "governance", and have inherited an extremely centralized toolkit, its path dependencies rooted deeply within a past whose informational topology and procedural reality was bound by physical locality in ways that are simply no longer the case." - [Matthew Pirkowski](https://twitter.com/MattPirkowski/status/1765499438733386025)
