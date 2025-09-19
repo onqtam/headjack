@@ -340,3 +340,8 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "It is a principal aspect of the electric age that it establishes a global network that has much of the character of our central nervous system." - [McLuhan, 1964. Understanding Media](https://newsletter.squishy.computer/p/cities-are-routers-in-network-society)
 
+> "The Buddha said anger has a “poisoned root and honeyed tip”." - [Robert Wright](https://www.goodreads.com/quotes/9331529-the-buddha-said-anger-has-a-poisoned-root-and-honeyed)
+
+> "Not a single one of the cells that compose you knows who you are, or cares." - [Daniel Dennett](https://www.azquotes.com/quote/447787)
+
+

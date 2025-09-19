@@ -240,7 +240,6 @@ google:
     Apple ATT / SKAdNetwork
 
 attribution is tricky
-https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3d79eda8-590c-4984-97b1-799a21d7b0f7_3734x1183.png
 https://www.thepullrequest.com/p/everything-is-an-ad-network
 
 

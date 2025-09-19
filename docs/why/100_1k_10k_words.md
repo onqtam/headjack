@@ -214,8 +214,7 @@ Embracing Complexity
 Self-Correcting Authority
 the fourth estate proper
 the medium and the message
-THe [Collective] Anatomical Compiler
-    or the cultural compiler
+THe [Collective] Anatomical/Cultural Compiler
     Based on Michael Levin's hypothetical system that translates user-defined anatomical goals into a set of stimuli that can direct cells to build a desired structure. Not a physical device like a 3D printer, but rather a "communications device" or translator that leverages the inherent intelligence and bioelectric communication of cells to achieve regenrative and morphogenetic outcomes
 Genesis / The seed
 Participatory Social Engineering
@@ -302,7 +301,6 @@ The Comparison Operator - democratic
 WikiRedditOverflow
 Religion: the only truly scalable coordination & cooperation mechanism
 The World (Self) Model
-The Apex/Benevolent Mind Virus
 The ultimate product/service - the best of everything that’s worth a damn - meaning, community and prosperity
 Jailbreaking the Simulation - ala George Hotz
     Taking control and becoming architects of the incentives in the matrix
@@ -416,7 +414,7 @@ The Hitchhikers Guide to the System
 The Blueprint
 Attention is all you have
 Normativity
-Multi Scale Competency Architecture
+Extending the Multiscale Competency Architecture
 The great replacement theory/project - what do you want to be replaced with?
 OpenCI - open by design, open forever
 The akashic records

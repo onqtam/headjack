@@ -23,6 +23,7 @@ Its even better: it can actually work
 > "To deny our own impulses is to deny the very thing that makes us human." - [Mouse, The Matrix](https://www.imdb.com/title/tt0133093/quotes/?item=qt0324294&ref_=ext_shr_lnk)
 
 > "The worst idea in economic discourse is that political economy is a sliding scale between capitalism and communism. That's just some random international conflict that got baked into the rhetoric for ideological reasons." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1858552169089434081)
+> "The idea that all economic systems exist on a continuum between capitalism on the one hand vs communism on the other is nonsense, it's just a relic of Cold War propaganda." - [Ben Landau-Taylor](https://x.com/benlandautaylor/status/1968359055401042150)
 
 Do you expect a properly summarized account of communism's failures and a thorough comparison with it in a FAQ? Just pick up the book Nordic Ideology and look at appendix A.
 
@@ -46,16 +47,15 @@ Also not everyone likes introductory fluff, exposition & unnecessary sentences/w
 
 This is not meant for the average reader - few will be able to plow through it with ease and fully grasp what it entails.
 
-## TL;DR?
-
-The later you read this the more of a laggard you will be - this system is inevitable
-
-> "I am sorry to have made such a long speech, but I did not have time to write a shorter one." - [Winston Churchill](https://www.azquotes.com/quote/788641)
-
-## This is all BS
 ## This is too long - how do you expect anyone to read it? TL;DR? @grok is this true? / summarize plz
 
 > "If you *~~don't believe me or don't get it~~* **don't want to dedicate the time**, I don't have time to try to convince you, sorry." - [Satoshi Nakamoto](https://www.goodreads.com/quotes/10722205-if-you-don-t-believe-me-or-don-t-get-it-i)
+
+> "I am sorry to have made such a long speech, but I did not have time to write a shorter one." - [Winston Churchill](https://www.azquotes.com/quote/788641)
+
+The later you read this the more of a laggard you will be - this system is inevitable.
+
+Perfect is the enemy of the good.
 
 ## I vehemently disagree or don't understand 10-20% of the content here
 
@@ -97,6 +97,8 @@ Because we have a broken digital system for attributing who said and expressed w
 ## Is every quote a full 100% endorsement of what's being said in it?
 
 Not to 100%, but to a large degree - yes. Some quotes are worded too strongly in some direction and have not been fact-checked but have nevertheless been picked because of their style and some general message they're conveying. And wouldn't you want a system that helps you fact-check and put in right proportion any opinion? Help us build it.
+
+TODO maybe remove this? because 99% of the quotes are spot on - this was added here in response to a few quotes from meaningness
 
 ## Won't the powers that be oppose this system?
 

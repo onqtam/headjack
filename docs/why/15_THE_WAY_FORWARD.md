@@ -754,93 +754,6 @@ Cartoon: i think we got the discount rate wrong - climate change
 
 iraquai lakota 7th generation thinking
 
-██████████████████████████████████████████████████████████████████
-# SECTION: Enlarging the self
-██████████████████████████████████████████████████████████████████
-
-> "Let your heart feel for the afflictions and distress of everyone." - [George Washington](https://www.goodreads.com/quotes/677346-let-your-heart-feel-for-the-afflictions-and-distress-of)
-
-> "Today we are faced with the pre-eminent fact that if civilization is to survive, we must cultivate the science of human relationships, the ability of all peoples of all kins to live together and to work together in the same world at peace." - [Franklin D. Roosevelt](https://www.goodreads.com/quotes/55106-today-we-are-faced-with-the-pre-eminent-fact-that-if)
-
-
-> "Not a single one of the cells that compose you knows who you are, or cares." - [Daniel Dennett](https://www.azquotes.com/quote/447787)
-
-> "The self is a repeatedly reconstructed biological state." - [Antonio Damasio](https://www.goodreads.com/quotes/7656886-the-self-is-a-repeatedly-reconstructed-biological-state)
-
-> "In the heart of consciousness is subjectivity, this sense of having a self that observes one's own organism and the world around that organism. That is really the heart of consciousness." - [Antonio Damasio](https://www.azquotes.com/quote/1494201)
-
-
-
-
-> "What I do think is that our future development involves not losing our love for our children, but our expansion of that love for others. I don’t believe it’s a zero sum game and I don’t believe that loving others will devalue our love for our own kids; sure, our cognitive apparatus is limited, but I think the future involves expanding it so that we can love more others. I think a mature species has a wider cone of compassion that over-rides in-group/out-group dynamics of evolution and allows us to love each other more. Do you really think that would be bad? Let’s start small. Suppose we found that some neurodivergent people loved their kids as much as you and I do, but turns out they also love their nieces and nephews the same. Is that a problem? I don’t see it as a problem. In a future world where we hopefully won’t always have to solve trolley problems like “do I let my kids, or someone else’s kids survive?”, why is it bad to expand the ability to love others who are not genetically related? We already know how to do this – with spouses and adoptees. I agree with you that if we were to do this at the *expense* of loving our kids as we do now, that’s a no-go. We can’t substitute that for some sort of washed out lip service where “everyone is great” but we don’t really care about anyone including our kids. I am conjecturing that this is not the only way forward for us; I believe (but of course cannot prove) that if we make it to maturity as a civilization, we will not have a zero sum game for love and we will not decrease our love for our kids, we will not dilute it. I’m not proposing redistributing it, I think we will grow the pot – prosperity of spiritual and emotional space, not just of the material world. I don’t think you can characterize this as a non-human argument – religious figures have made this argument for thousands of years. I honestly don’t think I’m saying anything new here at all, except the bit about genetics and the idea that we will (I hope) stretch our cone of compassion beyond the borders that even great figures of the past meant when they said love thy neighbor. That neighbor is going to be pretty weird, and I think that’s great." - [Michael Levin](https://thoughtforms.life/qa-from-the-internet-and-recent-presentations/)
-
-
-What is the Self?
-The neuroscience of ego death | Dr. James Cooke
-https://www.youtube.com/watch?v=W0Gor8BYY00
-
-https://www.youtube.com/watch?v=l7AWnfFRc7g
-RSA ANIMATE: The Empathic Civilisation
-
-https://en.wikipedia.org/wiki/Default_mode_network
-what if we implemented something like the Default mode network in the GB?
-
-> "The mark of a civilized man is the capacity to read a column of numbers and weep." - [Bertrand Russell](https://www.goodreads.com/quotes/10819849-the-mark-of-a-civilized-man-is-the-capacity-to)
-
-> "For the psychologist Paul Bloom, this is a huge downside. Empathy, he argues, focuses our attention on single individuals, leading us to become both parochial and insensitive to scale. As Bertrand Russell is often reported to have said, “The mark of a civilized man is the capacity to read a column of numbers and weep,” but few of us are capable of truly feeling statistics in this way. If only we could be moved more by our heads than our hearts, we could do a lot more good. And yet the incentives to show empathy and spontaneous compassion are overwhelming. Think about it: Which kind of people are likely to make better friends, coworkers, and spouses—“calculators” who manage their generosity with a spreadsheet, or “emoters” who simply can’t help being moved to help people right in front of them? Sensing that emoters, rather than calculators, are generally preferred as allies, our brains are keen to advertise that we are emoters. Spontaneous generosity may not be the most effective way to improve human welfare on a global scale, but it’s effective where our ancestors needed it to be: at finding mates and building a strong network of allies." - [The Elephant in the Brain: Hidden Motives in Everyday Life](https://www.goodreads.com/quotes/9035068-for-the-psychologist-paul-bloom-this-is-a-huge-downside)
-
-
-> "... the most important task is to be in a new way: to experience, to be conscious, in a new way. We need to make the shift from this, the skin-encapsulated model of the self, to this, what some have referred to as “leaky margins.” The boundaries are still there, but they are much less solid. In addition, we now experience a greater oneness with the world outside." - [Peter Russell](https://www.organism.earth/library/document/global-brain#:~:text=the%20most%20important%20task%20is,oneness%20with%20the%20world%20outside.)
-
-
-Sublimation of the individual self into a higher entity
-
-We are nothing without everyone else
-
-Family ~ familiarity
-We have to be familiar with someone to consider them family - enlarging the boundary of the self
-Relatedness
-Transparency, trust
-
-> "Nothing is more essential, than that permanent, inveterate antipathies against particular Nations, and passionate attachments for others, should be excluded; and that, in place of them, just and amicable feelings towards all should be cultivated." - [George Washington](https://www.goodreads.com/quotes/693672-nothing-is-more-essential-than-that-permanent-inveterate-antipathies-against)
-
-> "With all my heart I believe that the world’s present system of sovereign nations can only lead to barbarism, war and inhumanity, and that only world law can assure progress towards a civilized peaceful community." - [Albert Einstein](https://quotefancy.com/quote/764188/Albert-Einstein-With-all-my-heart-I-believe-that-the-world-s-present-system-of-sovereign)
-
-> "Nationalism is an infantile thing. It is the measles of mankind." - [Albert Einstein](https://www.goodreads.com/quotes/361110-nationalism-is-an-infantile-thing-it-is-the-measles-of)
-
-> "Nationalism is just racism with a flag." - [Peter Joseph](https://www.azquotes.com/quote/1344628)
-
-> "Everyone smiles in the same language." - [George Carlin](https://www.azquotes.com/quote/413244)
-
-> "The day the power of love overrules the love of power, the world will know peace." - [Mahatma Gandhi](https://www.goodreads.com/quotes/248476-the-day-the-power-of-love-overrules-the-love-of)
-
-> "A human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty." - [Albert Einstein](https://www.goodreads.com/quotes/369-a-human-being-is-a-part-of-the-whole-called)
-
-> "The greatest tragedy of our modern age is that anger is loud and love is quiet" - [David Holz](https://twitter.com/DavidSHolz/status/1606232701475778560)
-
-> "Our true nationality is mankind." - [H. G. Wells](https://www.goodreads.com/quotes/168434-our-true-nationality-is-mankind)
-
-> "If different cultures connect with each other, they are less likely to want to shoot each other." - [Tim Berners-Lee](https://www.azquotes.com/quote/678697)
-
-> "Coming together to create a new level of global coordination despite our ideological differences is not a luxury, but a necessity. Our common existential challenges will require the full computational power of the “global brain” that is human civilization. That means we must cooperate and collaborate to prevent WWIII, weaponized A.I., the spread of authoritarianism, income inequality, pandemics, and climate change. These are things that threaten the entire human race, and in that way, they bind us together." - [Harmonizing Humanity: A Unifying Worldview is the Only Lasting Solution to Peace in the Middle East, by Bobby Azarian](https://roadtoomega.substack.com/p/harmonizing-humanity-a-unifying-worldview#:~:text=coming%20together%20to,bind%20us%20together.)
-
-> "The wellbeing of one is tied to the wellbeing of all. Envisioning humanity as a global superorganism allows for a reimagining of individual and collective identity. The suffering of any one part is a wound to the collective whole." - [Harmonizing Humanity: A Unifying Worldview is the Only Lasting Solution to Peace in the Middle East, by Bobby Azarian](https://roadtoomega.substack.com/p/harmonizing-humanity-a-unifying-worldview#:~:text=the%20wellbeing%20of%20one%20is%20tied%20to%20the%20wellbeing%20of%20all.%20Envisioning%20humanity%20as%20a%20global%20superorganism%20allows%20for%20a%20reimagining%20of%20individual%20and%20collective%20identity.%20The%20suffering%20of%20any%20one%20part%20is%20a%20wound%20to%20the%20collective%20whole.)
-
-> "This is the essence of the superorganism worldview — one that sees not a battleground of competing tribes but a tapestry of human endeavor, rich with the potential for synthesis and harmony while preserving its unique variety of cultures and customs. It calls for a new kind of global cooperation, one that transcends tribalistic divisions and unites us in the common pursuit of a world that is sustainable, just, and flourishing." - [Harmonizing Humanity: A Unifying Worldview is the Only Lasting Solution to Peace in the Middle East, by Bobby Azarian](https://roadtoomega.substack.com/p/harmonizing-humanity-a-unifying-worldview#:~:text=This%20is%20the,just%2C%20and%20flourishing.)
-
-Mark Zuckerberg bunker - hasn't he got the memo that we're all in this together? Even his sister Randi Zuckerberg sang that ["We're all gonna make it"](https://www.youtube.com/watch?v=yp0diaVLPrQ)
-https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doomsday-bunker-blast-resistant-door
-
-> "Think of it: zillions and zillions of organisms running around, each under the hypnotic spell of a single truth, all these truths identical, and all logically incompatible with one another: 'My hereditary material is the most important material on earth; its survival justifies your frustration, pain, even death'. And you are one of those organisms, living your life in the thrall of a logical absurdity." - [Robert Wright](https://www.azquotes.com/quote/577877)
-
-> "If you truly loved yourself, you could never hurt another." - [Gautama Buddha](https://www.goodreads.com/quotes/40567-if-you-truly-loved-yourself-you-could-never-hurt-another)
-
-> "The Buddha said anger has a “poisoned root and honeyed tip”." - [Robert Wright](https://www.goodreads.com/quotes/9331529-the-buddha-said-anger-has-a-poisoned-root-and-honeyed)
-
-
-> "Peace and friendship with all mankind is our wisest policy, and I wish we may be permitted to pursue it." - [Thomas Jefferson](https://www.goodreads.com/quotes/18726-peace-and-friendship-with-all-mankind-is-our-wisest-policy)
-
-
 
 
 ██████████████████████████████████████████████████████████████████
@@ -1996,6 +1909,11 @@ But a problem not fully understood is unsolvable.
 > "The human mind is a story processor, not a logic processor." - [Jonathan Haidt](https://www.goodreads.com/quotes/1023735-the-human-mind-is-a-story-processor-not-a-logic)
 
 > "The world of human aspiration is largely fictitious and if we do not understand this we understand nothing about man." - [Ernest Becker](https://www.goodreads.com/quotes/1175284-the-world-of-human-aspiration-is-largely-fictitious-and-if)
+
+> "A great story is organic—not a machine but a living body that develops." - [John Truby]()
+Truby, J. The Anatomy of Story: 22 Steps to Becoming a Master Storyteller, 1st ed.; Faber and Faber: New York, NY, USA, 2008; 445p.
+
+
 
 
 
