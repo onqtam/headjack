@@ -1181,7 +1181,7 @@ We have to be familiar with someone to consider them family - enlarging the boun
 Relatedness
 Transparency. Trust. Responsibility. Accountability. Alignment.
 
-Hey Zuck, we're all gonna make it, right? [Your sister Randi says so](https://www.youtube.com/watch?v=yp0diaVLPrQ). We're all in this together, right? But why build a [bunker with blast resistant doors in Hawaii](https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doomsday-bunker-blast-resistant-door)? I'm sure you at least offset the carbon for its construction... right?
+Hey Zuck, we're all gonna make it, right? [Your sister Randi says so](https://www.youtube.com/watch?v=yp0diaVLPrQ). We're all in this together, right? But why build a [bunker with a fancy blast resistant doors in Hawaii](https://www.zerohedge.com/markets/mark-zuckerberg-building-top-secret-hawaii-doomsday-bunker-blast-resistant-door)? Just a bit of insurance in case things go south after simply connecting everyone in the most beneficial and pro-human way possible, right? I'm sure you at least offset the carbon for its construction... right?
 
 
 

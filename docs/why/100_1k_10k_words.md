@@ -416,7 +416,8 @@ Attention is all you have
 Normativity
 Extending the Multiscale Competency Architecture
 The great replacement theory/project - what do you want to be replaced with?
-OpenCI - open by design, open forever
+OpenCI - Open by Design, Forever
+    Collective Intelligence can only be open
 The akashic records
 Democratic programming
 Thermodynamic Integration/Optimization
