@@ -203,7 +203,89 @@ The end of nation states
 
 
 
+> "Nothing is more practical than a good theory." - [Ludwig Boltzmann](https://www.azquotes.com/quote/790613)
 
+> "In my view all salvation for philosophy may be expected to come from Darwin's theory." - [Ludwig Boltzmann](https://www.azquotes.com/quote/790611)
+
+> "Thermodynamics, correctly interpreted, does not just allow Darwinian evolution; it favors it." - [Ludwig Boltzmann](https://www.azquotes.com/quote/1160332)
+
+
+
+
+> "The school is the manufactory of humanity." - [John Amos Comenius](https://www.azquotes.com/quote/1164470)
+
+
+
+> "Give the pupils something to do, not something to learn; and the doing is of such a nature as to demand thinking; learning naturally results." - [John Dewey](https://www.goodreads.com/quotes/659346-give-the-pupils-something-to-do-not-something-to-learn)
+
+> "Hunger not to have, but to be" - [John Dewey](https://www.goodreads.com/quotes/6611-hunger-not-to-have-but-to-be)
+
+> "The deepest urge in human nature is the desire to be important." - [John Dewey](https://www.goodreads.com/quotes/907515-the-deepest-urge-in-human-nature-is-the-desire-to)
+
+> "Education is not preparation for life; education is life itself." - [John Dewey](https://www.goodreads.com/quotes/53015-education-is-not-preparation-for-life-education-is-life-itself)
+> "The educational process has no end beyond itself; it is its own end." - [John Dewey](https://www.goodreads.com/quotes/264016-the-educational-process-has-no-end-beyond-itself-it-is)
+
+> "As long as politics is the shadow of big business, the attenuation of the shadow will not change the substance." - [John Dewey](https://www.goodreads.com/quotes/7337523-as-long-as-politics-is-the-shadow-of-big-business)
+
+> "Education is not an affair of 'telling' and being told, but an active and constructive process." - [John Dewey](https://www.azquotes.com/quote/825306)
+
+> "The most important attitude that can be formed is that of desire to go on learning." - [John Dewey](https://www.azquotes.com/quote/502881)
+
+> "I believe that the teacher's place and work in the school is to be interpreted from this same basis. The teacher is not in the school to impose certain ideas or to form certain habits in the child, but is there as a member of the community to select the influences which shall affect the child and to assist him in properly responding to these influences." - [John Dewey](https://www.azquotes.com/quote/548243)
+
+> "The school must be "a genuine form of active community life, instead of a place set apart in which to learn lessons"." - [John Dewey](https://www.azquotes.com/quote/1461869)
+
+> "The mind, once stretched by a new idea, never returns to its original dimensions." - [Ralph Waldo Emerson](https://www.goodreads.com/quotes/37815-the-mind-once-stretched-by-a-new-idea-never-returns)
+
+> "Never create by law what can be accomplished by morality." - [Baron de Montesquieu](https://www.azquotes.com/quote/1032973)
+
+> "Face the facts of being what you are, for that is what changes what you are." - [Soren Kierkegaard](https://www.goodreads.com/quotes/22981-face-the-facts-of-being-what-you-are-for-that)
+
+> "" - [Soren Kierkegaard]()
+
+> "" - [Soren Kierkegaard]()
+
+> "" - [Soren Kierkegaard]()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
+
+> "" - []()
 
 
 
