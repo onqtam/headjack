@@ -491,6 +491,9 @@ Fall of civilizations in top10 to WATCH (not just listen)
 Fall of Civilizations Podcast
 https://www.youtube.com/playlist?list=PLR7yrLMHm11X6-M_usCj5H-gdstyWNLXQ
 
+THE EVOLUTION OF MEANING, by Brendan Graham Dempsey
+https://www.youtube.com/playlist?list=PLa_4sU5_wQrlgQ12uOGtS5c2769fCrfEq
+
 
 Example for what people resort to because of a lack of top10 lists:
 https://guzey.com/favorite/media/
