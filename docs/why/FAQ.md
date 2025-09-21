@@ -65,8 +65,6 @@ Good thing there are more than a thousand ideas here - you can support what you 
 
 ## Why a book? Why didn't you simply implement it?
 
-> "Art is the most effective mode of communications that exists." - [John Dewey](https://www.goodreads.com/quotes/152979-art-is-the-most-effective-mode-of-communications-that-exists)
-
 put the response to Joscha here
 
 > "With great power comes great responsibility." - [Uncle Ben](https://en.wikipedia.org/wiki/With_great_power_comes_great_responsibility)

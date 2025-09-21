@@ -266,7 +266,8 @@ what if we could maintain rankings such as "the top 10 or 50 things I think ever
 
 
 
-Top10 most underrated institutions
+top10 institutions of science:
+- [Sci-Hub](https://sci-hub.se)
 - SantaFe institute
 
 
@@ -367,6 +368,7 @@ Now UTOKing | Learning the Language - playlist
 https://www.youtube.com/playlist?list=PLTJe1xFfoxrDi19ew-Zbo9oDOwv_c-Ysz
 
 game theory for kids as top10 most important - also education to be like those for the kids of spacex employees & elon
+
 
 top10 best predictors - hall of fame
 - paul krugman on the internet

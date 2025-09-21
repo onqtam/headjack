@@ -220,8 +220,8 @@ Embracing Complexity
 Self-Correcting Authority
 the fourth estate proper
 the medium and the message
-THe [Collective] Anatomical/Cultural Compiler
-    Based on Michael Levin's hypothetical system that translates user-defined anatomical goals into a set of stimuli that can direct cells to build a desired structure. Not a physical device like a 3D printer, but rather a "communications device" or translator that leverages the inherent intelligence and bioelectric communication of cells to achieve regenrative and morphogenetic outcomes
+THe *~~Anatomical~~* **Cultural** Compiler
+    Based on Michael Levin's hypothetical system that translates user-defined anatomical goals into a set of stimuli that can direct cells to build a desired structure. Not a physical device like a 3D printer, but rather a "communications device" or translator that leverages the inherent intelligence and bioelectric communication of cells to achieve regenerative and morphogenetic outcomes.
 Genesis / The seed
 Participatory Social Engineering
     Its already here - its just not evenly distributed

@@ -154,6 +154,8 @@ The role for artists - what types of memes and how we’re gonna rate them accor
 > "The first elements of a new emerging [metameme](https://metamoderna.org/what-is-a-metameme/) (societal stage of
 development) are always to be found within the arts." - [Hanzi Freinacht](https://metamoderna.org/why-the-alternative-in-denmark-failed/)
 
+> "Art is the most effective mode of communications that exists." - [John Dewey](https://www.goodreads.com/quotes/152979-art-is-the-most-effective-mode-of-communications-that-exists)
+
 # fundraising
 
 > "I'm really interested in the intersection between reputation, identity, and knowledge." - [Fred Wilson](https://www.azquotes.com/quote/317269)
