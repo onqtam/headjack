@@ -8,7 +8,12 @@ START HERE
 This book presents itself to you as a fractal - nested levels of detail depending on your interests and time.
     Even putting parts of quotes in bold helps to guide one's attention to the most important bits first, but then you get curious why the other parts were not put in bold and you read them you'll realize they're just as important.
 
+## why so dense
 
+get stuff from the FAQ
+feel free to skip sections such as `Challenge Propagation & Offer Networks` if that's not your thing.
+
+## why so many quotes
 
 
 make a diagram with all the titles and how some of them connect to different aspects of the last chapter "as a service"

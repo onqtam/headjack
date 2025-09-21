@@ -346,4 +346,6 @@ the exciting times we are going through... agree, but not sure where to put it
 
 > "**5.2. Experiential Memories and Learning** Learning is ubiquitous in animals. It has also been demonstrated in paramecia and in slime molds such as physarum, and possibly in plants; hence learning does not require neurons, let alone networks of neurons. Learning can adjust the salience of stimuli, modify the responses to stimuli, and at least in birds and mammals, introduce novel categories and hence induce the construction of novel RFs (reference frames). While in many cases learning requires multiple exposures or extended experience with a stimulus, birds and mammals at least are also capable of one-shot learning. Episodic memories in humans, for example, are all results of one-shot learning: each records a single, specific event." - [How Do Living Systems Create Meaning? by Chris Fields & Michael Levin](https://www.mdpi.com/2409-9287/5/4/36)
 
+> "Who we are cannot be separated from where we're from." - [Malcolm Gladwell](https://www.goodreads.com/quotes/133262-who-we-are-cannot-be-separated-from-where-we-re-from)
+
 

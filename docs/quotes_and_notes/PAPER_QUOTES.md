@@ -1457,7 +1457,7 @@ regarding GWT
 
 
 
-> "" - [Rationality and Relevance Realization, by Anna Riedl and John Vervaeke](https://osf.io/preprints/osf/vymwu_v1)
+> "What is important, significant or relevant to achieve one’s goals is radically ecological and context-dependent and there cannot be one prespecified rule for induction. This places the process of relevance realization central to understanding the rationality question. Through opponent processing relevance realization continuously solves the frame problem, transforming ill-defined reality into well-defined problems and idealizations. To act rationally one has to continuously zero in on one aspect of the world, while ignoring the rest. The enacted subjective world of significance strikes a middle path between the idealism of axiomatic rationality and the realism of ecological rationality, forming the foundation for “small world” statistics. There is neither one correct representation of reality, nor does every true detail of the world matter. Instead, through relevance realization, a rational agents makes sense of the world to tame it for meaningful action." - [Rationality and Relevance Realization, by Anna Riedl and John Vervaeke](https://osf.io/preprints/osf/vymwu_v1)
 
 
 
